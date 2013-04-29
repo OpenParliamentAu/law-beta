@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00456/Html/b9690edb-ad7e-4fdb-bc00-650feb37b484_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00400/Html/b6e5d649-bd16-4d55-b412-e85eb1fa749b_files/image001.gif)
 
 # Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007
 
 **Act No. 32 of 2007 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -18,81 +18,81 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                    1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                          2
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
 **Part 2—Transitional provisions relating to Chapter 2 of the new Act** 
 
     **Division 1—Premiums reduction and incentive payment schemes**
 
-[5](#5).            Application of Part 2‑2 of the new Act
+[5](#5).            Application of Part 2‑2 of the new Act                                                4
 
-[6](#6).            Application of the _Private Health Insurance Incentives Act 1998_ from the commencement time to repeal
+[6](#6).            Application of the _Private Health Insurance Incentives Act 1998_ from the commencement time to repeal               4
 
-[7](#7).            Continued application of section 11‑50 of the _Private Health Insurance Incentives Act 1998_
+[7](#7).            Continued application of section 11‑50 of the _Private Health Insurance Incentives Act 1998_  5
 
     **Division 2—Lifetime health cover**
 
-[8](#8).            Application of Part 2‑3 of the new Act
+[8](#8).            Application of Part 2‑3 of the new Act                                                6
 
-[9](#9).            Calculating 10 years’ continuous cover under section 34‑10 of the new Act
+[9](#9).            Calculating 10 years’ continuous cover under section 34‑10 of the new Act           6
 
 **Part 3—Transitional provisions relating to complying health insurance products**
 
-[10](#10).          Status of existing applicable benefits arrangements and tables of ancillary benefits
+[10](#10).          Status of existing applicable benefits arrangements and tables of ancillary benefits 7
 
-[11](#11).          Premium requirement
+[11](#11).          Premium requirement                                                                           8
 
-[12](#12).          Benefit requirements: listing of no gap and gap permitted prostheses
+[12](#12).          Benefit requirements: listing of no gap and gap permitted prostheses  8
 
-[13](#13).          Waiting periods
+[13](#13).          Waiting periods                                                                                    9
 
-[14](#14).          Quality assurance requirements
+[14](#14).          Quality assurance requirements                                                            9
 
 **Part 4—Transitional provisions relating to Chapter 4 of the new Act** 
 
     **Division 1—Carrying on health insurance business**
 
-[15](#15).          Hospitals
+[15](#15).          Hospitals                                                                                            10
 
-[16](#16).          Hospital treatment—outreach services
+[16](#16).          Hospital treatment—outreach services                                               11
 
-[17](#17).          Employee health benefits schemes
+[17](#17).          Employee health benefits schemes                                                     12
 
     **Division 2—Registration**
 
-[18](#18).          Registered organizations taken to be private health insurers
+[18](#18).          Registered organizations taken to be private health insurers               13
 
-[19](#19).          Registered organizations established for profit
+[19](#19).          Registered organizations established for profit                                   13
 
-[20](#20).          Restricted membership organizations
+[20](#20).          Restricted membership organizations                                                 13
 
     **Division 3—Health benefits funds**
 
-[21](#21).          Existing health benefits funds
+[21](#21).          Existing health benefits funds                                                            15
 
-[22](#22).          Applications for approval of mergers
+[22](#22).          Applications for approval of mergers                                                 15
 
 **Part 5—Transitional provisions relating to Chapter 5 of the new Act** 
 
     **Division 1—General enforcement methods**
 
-[23](#23).          Continued application of Division 5 of Part VI of the _National Health Act 1953_
+[23](#23).          Continued application of Division 5 of Part VI of the _National Health Act 1953_     16
 
     **Division 2—Enforcement of health benefits fund requirements**
 
-[24](#24).          Investigations into affairs of registered organizations
+[24](#24).          Investigations into affairs of registered organizations                        17
 
-[25](#25).          Administration of funds and registered organizations
+[25](#25).          Administration of funds and registered organizations                        18
 
-[26](#26).          Winding up of funds and registered organizations
+[26](#26).          Winding up of funds and registered organizations                             18
 
 **Part 6—Transitional provisions relating to Chapter 6 of the new Act** 
 
@@ -100,87 +100,87 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision A—Preliminary**
 
-[27](#27).          Definitions
+[27](#27).          Definitions                                                                                         20
 
         **Subdivision AA—Conversion of Ombudsman from CAC to FMA body**
 
-[27A](#27A).       Conversion of Ombudsman from CAC to FMA body
+[27A](#27A).       Conversion of Ombudsman from CAC to FMA body                      21
 
         **Subdivision B—Assets, liabilities and legal proceedings**
 
-[28](#28).          Vesting of assets of old Ombudsman
+[28](#28).          Vesting of assets of old Ombudsman                                                23
 
-[29](#29).          Vesting of liabilities of old Ombudsman
+[29](#29).          Vesting of liabilities of old Ombudsman                                            23
 
-[30](#30).          Certificates relating to vesting of land
+[30](#30).          Certificates relating to vesting of land                                                23
 
-[31](#31).          Certificates relating to vesting of assets other than land
+[31](#31).          Certificates relating to vesting of assets other than land                     24
 
-[32](#32).          Substitution of Commonwealth as a party to pending proceedings
+[32](#32).          Substitution of Commonwealth as a party to pending proceedings    24
 
-[33](#33).          Transfer of custody of old Ombudsman records
+[33](#33).          Transfer of custody of old Ombudsman records                                24
 
         **Subdivision C—Reference to, and things done by or in relation to, old Ombudsman**
 
-[34](#34).          References in instruments
+[34](#34).          References in instruments                                                                  25
 
-[35](#35).          Operation of laws
+[35](#35).          Operation of laws                                                                               27
 
-[36](#36).          Financial statements and other reporting requirements
+[36](#36).          Financial statements and other reporting requirements                       28
 
         **Subdivision D—Private Health Insurance Ombudsman and staff**
 
-[37](#37).          Private Health Insurance Ombudsman
+[37](#37).          Private Health Insurance Ombudsman                                               29
 
-[38](#38).          Transfer of staff
+[38](#38).          Transfer of staff                                                                                 30
 
         **Subdivision E—Miscellaneous**
 
-[39](#39).          Appropriation of money
+[39](#39).          Appropriation of money                                                                     31
 
-[40](#40).          Exemption from stamp duty and other State or Territory taxes
+[40](#40).          Exemption from stamp duty and other State or Territory taxes          32
 
-[41](#41).          Constitutional safety net—acquisition of property
+[41](#41).          Constitutional safety net—acquisition of property                             32
 
-[42](#42).          Certificates taken to be authentic
+[42](#42).          Certificates taken to be authentic                                                        32
 
-[43](#43).          Delegation by Minister
+[43](#43).          Delegation by Minister                                                                       32
 
     **Division 2—Private Health Insurance Administration Council**
 
-[44](#44).          Members of the Council
+[44](#44).          Members of the Council                                                                     33
 
-[45](#45).          Chief Executive Officer
+[45](#45).          Chief Executive Officer                                                                      33
 
-[46](#46).          Staff and consultants
+[46](#46).          Staff and consultants                                                                          33
 
     **Division 3—Administration of premiums reduction and incentive payment scheme**
 
-[47](#47).          Application of Part 6‑4 of the new Act
+[47](#47).          Application of Part 6‑4 of the new Act                                              34
 
-[48](#48).          Transition to participating insurer under the new Act
+[48](#48).          Transition to participating insurer under the new Act                         34
 
-[49](#49).          Applications to become a participating insurer before 1 July 2007
+[49](#49).          Applications to become a participating insurer before 1 July 2007    34
 
-[50](#50).          Continued application of Division 16
+[50](#50).          Continued application of Division 16                                                 35
 
-[51](#51).          Continued application of Division 18
+[51](#51).          Continued application of Division 18                                                 35
 
     **Division 4—Private health insurance levies**
 
-[52](#52).          Continued application of Part VID of the _National Health Act 1953_ in relation to matters arising before commencement of new Act
+[52](#52).          Continued application of Part VID of the _National Health Act 1953_ in relation to matters arising before commencement of new Act                                                                                         36
 
-[53](#53).          Continued application of section 83I of the _National Health Act 1953_
+[53](#53).          Continued application of section 83I of the _National Health Act 1953_ 36
 
     **Division 5—Disclosure of information**
 
-[54](#54).          Transitional provision relating to secrecy obligations
+[54](#54).          Transitional provision relating to secrecy obligations                         37
 
 **Part 7—Miscellaneous**
 
-[55](#55).          Private Health Insurance (Transition) Rules
+[55](#55).          Private Health Insurance (Transition) Rules                                       38
 
-[56](#56).          Regulations
+[56](#56).          Regulations                                                                                        38
 
 **Schedule 1—Repeals** 
 
@@ -222,7 +222,7 @@ Health Insurance Act 1973                  �
 
 Hearing Services Administration Act 1997                                                          54
 
-Income Tax Assessment Act 1997                                                                            55
+Income Tax Assessment Act 1997                                                                            54
 
 Insurance Act 1973                                                                                                   55
 
@@ -230,7 +230,7 @@ Insurance Contracts Act 1984                 �
 
 Life Insurance Act 1995                                                                                           55
 
-Medibank Private Sale Act 2006                                                                            56
+Medibank Private Sale Act 2006                                                                            55
 
 Medical Indemnity Act 2002                                                                                   58
 
@@ -238,7 +238,7 @@ Medicare Levy Act 1986                   �
 
 National Blood Authority Act 2003                                                                       59
 
-National Health Act 1953                                                                                        60
+National Health Act 1953                                                                                        59
 
 Veterans’ Entitlements Act 1986                                                                            62
 
@@ -260,7 +260,7 @@ Taxation Administration Act 1953                
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007_.
 
@@ -584,7 +584,7 @@ Note:          The _Private Health Insurance Incentives Act 19
 
              (1)  Section 11‑50 of the _Private Health Insurance Incentives Act 1998_ continues to apply, after 30 June 2008, to a private health insurer to whom an application was made under section 11‑50 of that Act, as if it had not been repealed.
 
-             (2)  The Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_) may continue to approve forms under section 11‑50 for the purposes of subsection (1), as if the references in that section to the Medicare Australia CEO were references to the Chief Executive Medicare.
+             (2)  The Medicare Australia CEO may continue to approve forms under section 11‑50 for the purposes of subsection (1).
 
 ### Division 2—Lifetime health cover
 
@@ -996,7 +996,7 @@ Note:          Certificates under paragraph (1)(b) are presu
 
                      (b)  deal with, and give effect to, the certificate.
 
-##### <a id="31"></a>31  Certificates relating to vesting of assets other than land
+##### <a id="31"></a>31  Certificates relating to vesting of assets other than land
 
              (1)  This section applies if:
 
@@ -1318,11 +1318,11 @@ the Minister may treat the application as if it were an application made under s
 
 ##### <a id="50"></a>50  Continued application of Division 16
 
-                   Despite the repeal of the _Private Health Insurance Incentives Act 1998_, the Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_) may exercise powers under Division 16 of that Act in relation to the matters mentioned in that Division, as if it had not been repealed and as if references in that Division to the Medicare Australia CEO were references to the Chief Executive Medicare.
+                   Despite the repeal of the _Private Health Insurance Incentives Act 1998_, the Medicare Australia CEO may exercise powers under Division 16 of that Act in relation to the matters mentioned in that Division, as if it had not been repealed.
 
 ##### <a id="51"></a>51  Continued application of Division 18
 
-                   Despite the repeal of the _Private Health Insurance Incentives Act 1998_, the Commonwealth and the Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_) may exercise powers under Division 18 of that Act (other than powers under section 18‑15) in relation to the matters mentioned in that Division, as if it had not been repealed and as if references in that Division to the Medicare Australia CEO were references to the Chief Executive Medicare.
+                   Despite the repeal of the _Private Health Insurance Incentives Act 1998_, the Commonwealth and the Medicare Australia CEO may exercise powers under Division 18 of that Act (other than powers under section 18‑15) in relation to the matters mentioned in that Division, as if it had not been repealed.
 
 ### Division 4—Private health insurance levies
 
@@ -1370,9 +1370,9 @@ the Minister may treat the application as if it were an application made under s
 
 ###### Schedule 1—Repeals
 
-<h7 class="ActHead7">Part 1—Repeal of provisions</h7>
+Part 1—Repeal of provisions
 
-<h9 class="ActHead9">Health Insurance Act 1973</h9>
+Health Insurance Act 1973
 
 ## 1  Subsection 3(1) (definition of _agreement_)
 
@@ -1394,7 +1394,7 @@ Repeal the Part.
 
 Repeal the Schedule.
 
-<h9 class="ActHead9">National Health Act 1953</h9>
+National Health Act 1953
 
 ## 6  Subsection 4(1) (definition of _ACAC_)
 
@@ -1616,21 +1616,21 @@ Repeal the subsections.
 
 Repeal the Schedules.
 
-<h9 class="ActHead9">Remuneration Tribunal Act 1973</h9>
+Remuneration Tribunal Act 1973
 
 ## 60  Paragraph 7(9)(ae)
 
 Repeal the paragraph.
 
-<h7 class="ActHead7">Part 2—Repeal of Acts</h7>
+Part 2—Repeal of Acts
 
-<h9 class="ActHead9">Private Health Insurance (ACAC Review Levy) Act 2003</h9>
+Private Health Insurance (ACAC Review Levy) Act 2003
 
 ## 61  The whole of the Act
 
 Repeal the Act.
 
-<h9 class="ActHead9">Private Health Insurance Incentives Act 1998</h9>
+Private Health Insurance Incentives Act 1998
 
 ## 62  The whole of the Act
 
@@ -1638,7 +1638,7 @@ Repeal the Act.
 
 ###### Schedule 2—Amendments
 
-<h9 class="ActHead9">Age Discrimination Act 2004</h9>
+Age Discrimination Act 2004
 
 ## 1  Schedule 2 (after table item 9)
 
@@ -1669,7 +1669,7 @@ Insert:
 
 Repeal the item.
 
-<h9 class="ActHead9">A New Tax System (Goods and Services Tax) Act 1999</h9>
+A New Tax System (Goods and Services Tax) Act 1999
 
 ## 2A  Section 195‑1 (at the end of the definition of _hospital treatment_)
 
@@ -1681,7 +1681,7 @@ Repeal the definition, substitute:
 
                     <a name="privat-health-insur"></a>**_private health insurance_** means insurance provided under a contract of insurance that was entered into by a private health insurer (within the meaning of the _Private Health Insurance Act 2007_) in the course of carrying on health insurance business (within the meaning of Division 121 of that Act).
 
-<h9 class="ActHead9">A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999</h9>
+A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 ## 4  Subsections 4(1) to (3)
 
@@ -1723,25 +1723,25 @@ Repeal the paragraph, substitute:
 
 Repeal the subsection (including the example).
 
-<h9 class="ActHead9">Australian Securities and Investments Commission Act 2001</h9>
+Australian Securities and Investments Commission Act 2001
 
 ## 8A  Paragraphs 12BAA(7)(d) and (8)(b)
 
 Omit “subsection 67(4) of the _National Health Act 1953_”, substitute “Division 121 of the _Private Health Insurance Act 2007_”.
 
-<h9 class="ActHead9">Corporations Act 2001</h9>
+Corporations Act 2001
 
 ## 8B  Paragraph 765A(1)(c)
 
 Omit “subsection 67(4) of the _National Health Act 1953_”, substitute “Division 121 of the _Private Health Insurance Act 2007_”.
 
-<h9 class="ActHead9">Education Services for Overseas Students Act 2000</h9>
+Education Services for Overseas Students Act 2000
 
 ## 9  Paragraph 7(2)(b)
 
 Omit “registered health benefits organization (within the meaning of the _National Health Act 1953_)”, substitute “private health insurer (within the meaning of the _Private Health Insurance Act 2007_)”.
 
-<h9 class="ActHead9">Financial Sector (Collection of Data) Act 2001</h9>
+Financial Sector (Collection of Data) Act 2001
 
 ## 10  Paragraph 7(2)(d)
 
@@ -1749,7 +1749,7 @@ Repeal the paragraph, substitute:
 
                      (d)  the corporation is a private health insurer within the meaning of the _Private Health Insurance Act 2007_; or
 
-<h9 class="ActHead9">Financial Transaction Reports Act 1988</h9>
+Financial Transaction Reports Act 1988
 
 ## 11  Subsection 3(1) (paragraph (a) of the definition of _insurance business_)
 
@@ -1757,7 +1757,7 @@ Repeal the paragraph, substitute:
 
                      (a)  health insurance business within the meaning of Division 121 of the _Private Health Insurance Act 2007_ carried on by a private health insurer within the meaning of that Act; or
 
-<h9 class="ActHead9">Freedom of Information Act 1982</h9>
+Freedom of Information Act 1982
 
 ## 12  Schedule 3
 
@@ -1774,7 +1774,7 @@ Insert in its appropriate alphabetical position, determined on a letter‑by‑l
   </td>
 </tr></table>
 
-<h9 class="ActHead9">Health Insurance Act 1973</h9>
+Health Insurance Act 1973
 
 ## 13  Subsection 3(1)
 
@@ -1984,13 +1984,13 @@ Omit “registered organization”, substitute “private health insurer”.
 
 Omit “the organization”, substitute “the insurer”.
 
-<h9 class="ActHead9">Hearing Services Administration Act 1997</h9>
+Hearing Services Administration Act 1997
 
 ## 51  Paragraph 5(2)(e)
 
 Repeal the paragraph.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Income Tax Assessment Act 1997</h9>
+Income Tax Assessment Act 1997
 
 ## 52  Section 50‑30 (cell at table item 6.3, column headed “Exempt entity”)
 
@@ -2009,7 +2009,7 @@ Repeal the cell, substitute:
   </td>
 </tr></table>
 
-<h9 class="ActHead9">Insurance Act 1973</h9>
+Insurance Act 1973
 
 ## 53  Subsection 3(1) (paragraph (k) of the definition of _insurance business_)
 
@@ -2017,7 +2017,7 @@ Repeal the paragraph, substitute:
 
                      (k)  health insurance business within the meaning of Division 121 of the _Private Health Insurance Act 2007_ carried on by a private health insurer within the meaning of that Act.
 
-<h9 class="ActHead9">Insurance Contracts Act 1984</h9>
+Insurance Contracts Act 1984
 
 ## 54  Paragraph 9(1)(b)
 
@@ -2025,7 +2025,7 @@ Repeal the paragraph, substitute:
 
                      (b)  of insurance entered into, or proposed to be entered into, by a private health insurer within the meaning of the _Private Health Insurance Act 2007_ in respect of its health insurance business within the meaning of Division 121 of that Act; or
 
-<h9 class="ActHead9">Life Insurance Act 1995</h9>
+Life Insurance Act 1995
 
 ## 55  Subsection 16ZB(2) (note)
 
@@ -2035,7 +2035,7 @@ Omit “_National Health Act 1953_”, substitute “_Private Health Insurance A
 
 Omit “section 67 of the _National Health Act 1953_”, substitute “Division 121 of the _Private Health Insurance Act 2007_”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Medibank Private Sale Act 2006</h9>
+Medibank Private Sale Act 2006
 
 ## 57  Item 1 of Schedule 2 (definition of _contributor_)
 
@@ -2133,7 +2133,7 @@ Omit “section 73AAD of the _National Health Act 1953_”, substitute “sect
 
 Omit “section 73AAC or 73AAD of the _National Health Act 1953_”, substitute “section 137‑10 of the _Private Health Insurance Act 2007_”.
 
-<h9 class="ActHead9">Medical Indemnity Act 2002</h9>
+Medical Indemnity Act 2002
 
 ## 74  At the end of paragraph 77(2)(c)
 
@@ -2141,7 +2141,7 @@ Add:
 
                       ; or (v)  the _Private Health Insurance Act 2007_.
 
-<h9 class="ActHead9">Medicare Levy Act 1986</h9>
+Medicare Levy Act 1986
 
 ## 75  Subsections 3(5) to (5B)
 
@@ -2183,13 +2183,13 @@ Repeal the paragraph, substitute:
 
 Repeal the subsection (including the example).
 
-<h9 class="ActHead9">National Blood Authority Act 2003</h9>
+National Blood Authority Act 2003
 
 ## 80  Paragraph 10(3)(a)
 
 Omit “section 23E of”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">National Health Act 1953</h9>
+National Health Act 1953
 
 ## 81  Subsection 4(1)
 
@@ -2301,7 +2301,7 @@ Omit “the organization”, substitute “the insurer”.
 
 Omit “(1)”.
 
-<h9 class="ActHead9">Veterans’ Entitlements Act 1986</h9>
+Veterans’ Entitlements Act 1986
 
 ## 104  Subsection 93A(1)
 
@@ -2331,7 +2331,7 @@ Omit “registered organisation”, substitute “private health insurer”.
 
 ###### Schedule 3—Amendments relating to transition from Private Health Insurance Incentives Act 1998
 
-<h9 class="ActHead9">Income Tax Assessment Act 1936</h9>
+Income Tax Assessment Act 1936
 
 ## 1  Paragraph 16(4)(fb)
 
@@ -2418,7 +2418,7 @@ Repeal the subsection, substitute:
 
                     <a name="privat-health-insur"></a>**_private health insurer_**
 
-<h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
+Income Tax Assessment Act 1997
 
 ## 7A  Section 13‑1 (table item headed “private health insurance”)
 
@@ -2668,7 +2668,7 @@ subsections 61‑210(1) and (2) apply in relation to a complying health insuranc
 
              (2)  If the amount of the premium, or the amount in respect of a premium, paid by you, or by your employer as a * fringe benefit for you, under the policy is for part only of the income year, the **_incentive amount_** is worked out using this formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00456/Html/b9690edb-ad7e-4fdb-bc00-650feb37b484_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00400/Html/b6e5d649-bd16-4d55-b412-e85eb1fa749b_files/image002.gif)
 
 ## 9A  Application of item 9
 
@@ -2688,7 +2688,7 @@ Note:          Subsection 61‑205(2) deals with tax offsets f
 
 Omit “section 61‑345”, substitute “section 61‑220”.
 
-<h9 class="ActHead9">Private Health Insurance Act 2007</h9>
+Private Health Insurance Act 2007
 
 ## 9D  Section 20‑1 (note)
 
@@ -2698,7 +2698,7 @@ Omit “Subdivision 61‑H”, substitute “Subdivision 61‑G”.
 
 Omit “Subdivision 61‑H”, substitute “Subdivision 61‑G”.
 
-<h9 class="ActHead9">Private Health Insurance Incentives Act 1998</h9>
+Private Health Insurance Incentives Act 1998
 
 ## 10  Paragraph 4‑5(1)(a)
 
@@ -2748,7 +2748,7 @@ Repeal the subsection, substitute:
 
                              (ii)  1 July 2008.
 
-<h9 class="ActHead9">Taxation Administration Act 1953</h9>
+Taxation Administration Act 1953
 
 ## 17  Section 45‑340 of Schedule 1 (method statement, step 1, paragraph (a))
 
@@ -2824,83 +2824,43 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 546–550): 1 July 2011</div>
+    <div>Schedule 4 (items 546–550): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 50, 51</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 546  Subsection 7(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_) may continue to approve forms under section 11‑50 for the purposes of subsection (1), as if the references in that section to the Medicare Australia CEO were references to the Chief Executive Medicare.
+
+## 547  Section 50
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_)”.
+
+## 548  At the end of section 50
+
+Add “and as if references in that Division to the Medicare Australia CEO were references to the Chief Executive Medicare”.
+
+## 549  Section 51
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_)”.
+
+## 550  At the end of section 51
+
+Add “and as if references in that Division to the Medicare Australia CEO were references to the Chief Executive Medicare”.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
  
