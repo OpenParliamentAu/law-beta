@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00417/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00336/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 4 September 2009
- taking into account amendments up to Act No. 75 of 2009
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1844,23 +1844,6 @@ Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
-  </td>
-  <td>
-    <div>75, 2009</div>
-  </td>
-  <td>
-    <div>27 Aug 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 202): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ was amended by Schedule 3 (items 192–194) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
@@ -2376,20 +2359,6 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>am. No. 154, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
-
-The following amendment commences on 27 February 2010 unless proclaimed earlier:
-
-## Schedule 1
-
-## 202  Subsection 4(1) (definition of _life insurance company_)
-
-After “under”, insert “section 21 of”.
-
-As at 4 September 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
