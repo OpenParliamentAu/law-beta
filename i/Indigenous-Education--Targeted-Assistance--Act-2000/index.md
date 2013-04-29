@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00734/Html/9d82fad6-2c7c-41d1-bd7e-b1211650b0b6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00455/Html/b05426ca-a905-4028-8a8b-3dfc375c6348_files/image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 9 September 2011
- taking into account amendments up to Act No. 94 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 14 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -60,6 +60,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11C](#11C).       Certifying agreement payments duly spent or committed
 
+[11D](#11D).       Reporting other funds used to advance the objects of this Act
+
         **Subdivision C—Specific conditions about educational accountability**
 
 [11E](#11E).        Reporting on performance
@@ -81,8 +83,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [14A](#14A).       Appropriations for non‑ABSTUDY payments—2005 to 2008 quadrennium
 
 [14B](#14B).       Appropriations for non‑ABSTUDY payments—2009 to 2012 quadrennium
-
-[14C](#14C).       Appropriations for non‑ABSTUDY payments—2013
 
 [15](#15).          Appropriations operate separately
 
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Making of agreements
 
-             (1)  This Act allows the Minister to make an agreement with an education provider or other person or body authorising the making of payments during the 2001 to 2014 calendar years.
+             (1)  This Act allows the Minister to make an agreement with an education provider or other person or body authorising the making of payments during the 2001 to 2013 calendar years.
 
 Agreements with education providers
 
@@ -384,6 +384,28 @@ Amount of the payments
 
                      (b)  specifying whether the payments to the party for  the funding year have been spent (or committed to be spent) in that year for the purposes specified in the agreement.
 
+##### <a id="11D"></a>11D  Reporting other funds used to advance the objects of this Act
+
+             (1)  There must be a condition that each other party report how the party has advanced, and intends to advance, the objects of this Act from funds coming from sources other than the following:
+
+                     (a)  this Act;
+
+                     (b)  an Education Assistance Act (within the meaning of the _Schools Assistance Act 2008_);
+
+                     (c)  any Act:
+
+                              (i)  applying to periods ending after the last period covered by the Education Assistance Acts; and
+
+                             (ii)  having purposes similar to the Education Assistance Acts.
+
+             (2)  This condition must require, for each funding year covered by the agreement, a report covering:
+
+                     (a)  such funds spent (or committed to be spent) by the party in the funding year; and
+
+                     (b)  such funds expected to be spent (or to be committed for spending) by the party in the next funding year; and
+
+                     (c)  the information required by the agreement about those funds.
+
 #### Subdivision C—Specific conditions about educational accountability
 
 ##### <a id="11E"></a>11E  Reporting on performance
@@ -626,7 +648,7 @@ Appropriations—starting amounts
     <div>1</div>
   </td>
   <td>
-    <div>$130,305,000</div>
+    <div>$159,430,000</div>
   </td>
   <td>
     <div>1 January 2009</div>
@@ -640,7 +662,7 @@ Appropriations—starting amounts
     <div>2</div>
   </td>
   <td>
-    <div>$126,206,000</div>
+    <div>$167,058,000</div>
   </td>
   <td>
     <div>1 January 2010</div>
@@ -654,7 +676,7 @@ Appropriations—starting amounts
     <div>3</div>
   </td>
   <td>
-    <div>$117,200,000</div>
+    <div>$163,703,000</div>
   </td>
   <td>
     <div>1 January 2011</div>
@@ -668,77 +690,13 @@ Appropriations—starting amounts
     <div>4</div>
   </td>
   <td>
-    <div>$120,020,000</div>
+    <div>$161,236,000</div>
   </td>
   <td>
     <div>1 January 2012</div>
   </td>
   <td>
     <div>30 June 2013</div>
-  </td>
-</tr></table>
-
-Increasing starting amounts
-
-             (2)  The regulations may make provision for increasing an amount mentioned in the table in subsection (1) by reference to changes in a specified index.
-
-##### <a id="14C"></a>14C  Appropriations for non‑ABSTUDY payments—2013
-
-Appropriations—starting amounts
-
-             (1)  Each amount specified in the following table (as increased in accordance with subsection (2)) is appropriated out of the Consolidated Revenue Fund for the purpose of making non‑ABSTUDY payments during the specified period.
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="24%">
-  <col width="36%">
-  <col width="30%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Appropriations for non‑ABSTUDY payments</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Starting amount</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>for the period starting on ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>and ending on ...</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>$133,527,000</div>
-  </td>
-  <td>
-    <div>1 January 2013</div>
-  </td>
-  <td>
-    <div>30 June 2014</div>
   </td>
 </tr></table>
 
@@ -1050,23 +1008,6 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Education (Targeted Assistance) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>94, 2011</div>
-  </td>
-  <td>
-    <div>8 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 7) of the _Statute Law Revision Act 2010_ provides as follows:
@@ -1248,7 +1189,7 @@ _(b)_ Subsection 2(1) (item 10) of the _National Vocational Education and Traini
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 145, 2004; No. 142, 2008; No. 94, 2011</div>
+    <div>am. No. 145, 2004; No. 142, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1366,14 +1307,6 @@ Part 3</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -1458,15 +1391,7 @@ Part 3</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 87, 2010; No. 94, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14C</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2011</div>
+    <div>am. No. 87, 2010</div>
   </td>
 </tr>
 <tr>
