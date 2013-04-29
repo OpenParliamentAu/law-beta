@@ -1,253 +1,253 @@
-![](http://www.comlaw.gov.au/Details/C2005C00320/Html/FDC66EEC6B4D6907CA256FE800218370/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="99BF2E5FC6134883CA256FBF007CC344/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 15 April 2005
-taking into account amendments up to Act No. 45 of 2005
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="7" month="3">7 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, 
-Canberra
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-**Part 2—Establishment, functions and management of the SBS**
+**Part 2—Establishment, functions and management of the SBS<span style="mso-tab-count: 1">                   </span>**
 
-[5](#5).            Special Broadcasting Service Corporation
+[5](#5).            Special Broadcasting Service Corporation<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[6](#6).            Charter of the SBS
+[6](#6).            Charter of the SBS<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[6A](#6A).         Datacasting functions
+[6A](#6A).         Datacasting functions<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[7](#7).            Establishment of Special Broadcasting Service Board
+[7](#7).            Establishment of Special Broadcasting Service Board<span style="mso-tab-count: 1 dotted">                         </span>
 
-[8](#8).            Constitution of the Board
+[8](#8).            Constitution of the Board<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[9](#9).            Role of the Board
+[9](#9).            Role of the Board<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[10](#10).          Duties of the Board
+[10](#10).          Duties of the Board<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[11](#11).          Minister may give directions to the Board
+[11](#11).          Minister may give directions to the Board<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[12](#12).          Minister may give directions to the SBS in the national interest
+[12](#12).          Minister may give directions to the SBS in the national interest<span style="mso-tab-count: 1 dotted">        </span>
 
-[13](#13).          Limits on Government directions to SBS
+[13](#13).          Limits on Government directions to SBS<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[14](#14).          Managing Director
+[14](#14).          Managing Director<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[15](#15).          Duties of the Managing Director
+[15](#15).          Duties of the Managing Director<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-**Part 3—The Board of Directors and the Managing Director** 
+**Part 3—The Board of Directors and the Managing Director<span style="mso-tab-count: 1">                        </span>** 
 
-    **Division 1—Provisions relating to non-executive Directors**
+    **Division 1—Provisions relating to non-executive Directors<span style="mso-tab-count: 1">                  </span>**
 
-[16](#16).          This Division applies to non-executive Directors
+[16](#16).          This Division applies to non-executive Directors<span style="mso-tab-count: 1 dotted">                               </span>
 
-[17](#17).          Appointment of non-executive Directors
+[17](#17).          Appointment of non-executive Directors<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[18](#18).          Term of appointment
+[18](#18).          Term of appointment<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[19](#19).          Non-executive Directors hold office on part-time basis
+[19](#19).          Non-executive Directors hold office on part-time basis<span style="mso-tab-count: 1 dotted">                    </span>
 
-[20](#20).          Terms and conditions of appointment not provided for by Act
+[20](#20).          Terms and conditions of appointment not provided for by Act<span style="mso-tab-count: 1 dotted">       </span>
 
-[21](#21).          Appointment of Chairperson and Deputy Chairperson
+[21](#21).          Appointment of Chairperson and Deputy Chairperson<span style="mso-tab-count: 1 dotted">                   </span>
 
-[22](#22).          Board’s functions and powers not affected by vacancy etc 
+[22](#22).          Board’s functions and powers not affected by vacancy etc <span style="mso-tab-count: 1 dotted">             </span>
 
-[23](#23).          Remuneration and allowances of non-executive Directors
+[23](#23).          Remuneration and allowances of non-executive Directors<span style="mso-tab-count: 1 dotted">                </span>
 
-[24](#24).          Acting Chairperson and other acting non-executive Directors
+[24](#24).          Acting Chairperson and other acting non-executive Directors<span style="mso-tab-count: 1 dotted">          </span>
 
-[25](#25).          Leave of absence of non-executive Directors
+[25](#25).          Leave of absence of non-executive Directors<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[26](#26).          Resignation of non-executive Directors
+[26](#26).          Resignation of non-executive Directors<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[27](#27).          Removal of non-executive Directors from office
+[27](#27).          Removal of non-executive Directors from office<span style="mso-tab-count: 1 dotted">                               </span>
 
-    **Division 2—Provisions relating to the Managing Director**
+    **Division 2—Provisions relating to the Managing Director<span style="mso-tab-count: 1">                    </span>**
 
-[28](#28).          Appointment of Managing Director
+[28](#28).          Appointment of Managing Director<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[29](#29).          Term of appointment of Managing Director
+[29](#29).          Term of appointment of Managing Director<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[30](#30).          Managing Director holds office on a full-time basis
+[30](#30).          Managing Director holds office on a full-time basis<span style="mso-tab-count: 1 dotted">                          </span>
 
-[31](#31).          Terms and conditions of appointment not provided for by Act
+[31](#31).          Terms and conditions of appointment not provided for by Act<span style="mso-tab-count: 1 dotted">       </span>
 
-[32](#32).          Remuneration and allowances of Managing Director
+[32](#32).          Remuneration and allowances of Managing Director<span style="mso-tab-count: 1 dotted">                        </span>
 
-[33](#33).          Acting Managing Director
+[33](#33).          Acting Managing Director<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[34](#34).          Leave of absence of Managing Director
+[34](#34).          Leave of absence of Managing Director<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[35](#35).          Resignation of Managing Director
+[35](#35).          Resignation of Managing Director<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[36](#36).          Duty of Managing Director to disclose certain interests
+[36](#36).          Duty of Managing Director to disclose certain interests<span style="mso-tab-count: 1 dotted">                   </span>
 
-[37](#37).          Removal of Managing Director from office
+[37](#37).          Removal of Managing Director from office<span style="mso-tab-count: 1 dotted">                                       </span>
 
-    **Division 3—Meetings of the Board**
+    **Division 3—Meetings of the Board<span style="mso-tab-count: 1">                                                                    </span>**
 
-[38](#38).          Meetings of the Board
+[38](#38).          Meetings of the Board<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[39](#39).          Presiding at meetings
+[39](#39).          Presiding at meetings<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[40](#40).          Quorum and voting at meetings
+[40](#40).          Quorum and voting at meetings<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[41](#41).          Conduct of meetings
+[41](#41).          Conduct of meetings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[42](#42).          Resolutions without formal meetings
+[42](#42).          Resolutions without formal meetings<span style="mso-tab-count: 1 dotted">                                                </span>
 
-**Part 4—Powers and duties of the SBS**
+**Part 4—Powers and duties of the SBS<span style="mso-tab-count: 1">                                                                      </span>**
 
-[44](#44).          General powers of the SBS
+[44](#44).          General powers of the SBS<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[45](#45).          Advertising and sponsorship
+[45](#45).          Advertising and sponsorship<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[46](#46).          Community information
+[46](#46).          Community information<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[47](#47).          Corporate plans
+[47](#47).          Corporate plans<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[48](#48).          Matters to be included in corporate plans
+[48](#48).          Matters to be included in corporate plans<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[49](#49).          Corporate plans to be given to Minister
+[49](#49).          Corporate plans to be given to Minister<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[50](#50).          Community Advisory Committee
+[50](#50).          Community Advisory Committee<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[51](#51).          Board to notify Minister of certain matters
+[51](#51).          Board to notify Minister of certain matters<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[52](#52).          Power to form companies etc 
+[52](#52).          Power to form companies etc <span style="mso-tab-count: 1 dotted">                                                           </span>
 
-**Part 5—Staff**
+**Part 5—Staff<span style="mso-tab-count: 1">                                                                                                                            </span>**
 
-[53](#53).          Staff of the SBS until section 54 commences
+[53](#53).          Staff of the SBS until section 54 commences<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[54](#54).          Staff of the SBS
+[54](#54).          Staff of the SBS<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[55](#55).          The SBS is to achieve and maintain high standards as an employer
+[55](#55).          The SBS is to achieve and maintain high standards as an employer<span style="mso-tab-count: 1 dotted">  </span>
 
-**Part 6—Finance**
+**Part 6—Finance<span style="mso-tab-count: 1">                                                                                                                      </span>**
 
-[56](#56).          Money to be appropriated
+[56](#56).          Money to be appropriated<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[57](#57).          Money of the SBS
+[57](#57).          Money of the SBS<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[58](#58).          Application of money
+[58](#58).          Application of money<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[59](#59).          Borrowing from the Commonwealth
+[59](#59).          Borrowing from the Commonwealth<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[60](#60).          Borrowings otherwise than from the Commonwealth
+[60](#60).          Borrowings otherwise than from the Commonwealth<span style="mso-tab-count: 1 dotted">                       </span>
 
-[61](#61).          Guarantee of borrowing
+[61](#61).          Guarantee of borrowing<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[62](#62).          The SBS may give security
+[62](#62).          The SBS may give security<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[63](#63).          Borrowings not otherwise permitted
+[63](#63).          Borrowings not otherwise permitted<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[64](#64).          Delegation by Finance Minister
+[64](#64).          Delegation by Finance Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[65](#65).          Hedging contracts etc 
+[65](#65).          Hedging contracts etc <span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[68](#68).          Taxation
+[68](#68).          Taxation<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-**Part 7—Miscellaneous**
+**Part 7—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[70](#70).          Application of Broadcasting Act
+[70](#70).          Application of Broadcasting Act<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[70AA](#70AA).    Report by ABA on degradation of signal quality
+[70AA](#70AA).    Report by ABA on degradation of signal quality<span style="mso-tab-count: 1 dotted">                              </span>
 
-[70A](#70A).       Broadcasting of political or controversial matter
+[70A](#70A).       Broadcasting of political or controversial matter<span style="mso-tab-count: 1 dotted">                               </span>
 
-[70B](#70B).       Records of matter broadcast
+[70B](#70B).       Records of matter broadcast<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[70C](#70C).       Broadcasting of election advertisements
+[70C](#70C).       Broadcasting of election advertisements<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[73](#73).          Matters to be included in annual report
+[73](#73).          Matters to be included in annual report<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[74](#74).          Delegation by the SBS
+[74](#74).          Delegation by the SBS<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[75](#75).          Delegation by Managing Director
+[75](#75).          Delegation by Managing Director<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[76](#76).          Regulations
+[76](#76).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Part 8—Transitional**
+**Part 8—Transitional<span style="mso-tab-count: 1">                                                                                                            </span>**
 
-[77](#77).          Interpretation
+[77](#77).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[78](#78).          Person holding office as Executive Director of the old body corporate
+[78](#78).          Person holding office as Executive Director of the old body corporate<span style="mso-tab-count: 1 dotted">   </span>
 
-[79](#79).          Person holding office as member of the old body corporate
+[79](#79).          Person holding office as member of the old body corporate<span style="mso-tab-count: 1 dotted">             </span>
 
-[80](#80).          Persons employed or engaged by the old body corporate
+[80](#80).          Persons employed or engaged by the old body corporate<span style="mso-tab-count: 1 dotted">                 </span>
 
-[81](#81).          Persons engaged under section 53
+[81](#81).          Persons engaged under section 53<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[82](#82).          Delegations and authorisations
+[82](#82).          Delegations and authorisations<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[83](#83).          References to old body corporate in instruments etc 
+[83](#83).          References to old body corporate in instruments etc <span style="mso-tab-count: 1 dotted">                       </span>
 
-[84](#84).          Property, powers, liabilities etc 
+[84](#84).          Property, powers, liabilities etc <span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[85](#85).          Saving of proceedings
+[85](#85).          Saving of proceedings<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[86](#86).          Judicial notice
+[86](#86).          Judicial notice<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[87](#87).          Application of money
+[87](#87).          Application of money<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[88](#88).          First estimates
+[88](#88).          First estimates<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[89](#89).          Bank accounts to be treated as if opened under this Act
+[89](#89).          Bank accounts to be treated as if opened under this Act<span style="mso-tab-count: 1 dotted">                  </span>
 
-[90](#90).          Audit
+[90](#90).          Audit<span style="mso-tab-count: 1 dotted">                                                                                                  </span>
 
-[91](#91).          Annual report and financial statements
+[91](#91).          Annual report and financial statements<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[92](#92).          Transfer of appropriations
+[92](#92).          Transfer of appropriations<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-**Part 9—Consequential amendments of the Broadcasting Act 1942** 
+**Part 9—Consequential amendments of the Broadcasting Act 1942<span style="mso-tab-count: 1">        </span>**
 
-Sections 93 to 115
+[Sections 93 to 115](#Sections 93 to 115).                                                                                           
 
-**Part 10—Consequential amendments of other Acts**
+**Part 10—Consequential amendments of other Acts<span style="mso-tab-count: 1">                                         </span>**
 
-[116](#116).        Consequential amendments of other Acts
+[116](#116).        Consequential amendments of other Acts<span style="mso-tab-count: 1 dotted">                                         </span>
 
-**Schedule—Consequential amendments of other Acts** 
+**Schedule—Consequential amendments of other Acts<span style="mso-tab-count: 1">                                     </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
 
- 
+<o:p> </o:p>
 
 
 ## An Act relating to the Special Broadcasting Service Corporation, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Special Broadcasting Service Act 1991_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
              (1)  Subject to subsection (2), this Act commences 28 days after the day on which it receives the Royal Assent.
 
@@ -257,7 +257,7 @@ Sections 93 to 115
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established under the _Broadcasting Services Act 1992_.
+                    <a name="aba"></a><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_ABA_**</st1:place></st1:city> means the Australian Broadcasting Authority established under the _Broadcasting Services Act 1992_.
 
                     <a name="board"></a>**_Board_** means the Special Broadcasting Service Board referred to in section 7.
 
@@ -293,6 +293,8 @@ Sections 93 to 115
 
                    This Act extends to all the external Territories.
 
+<o:p> </o:p>
+
 ## Part 2—Establishment, functions and management of the SBS
 
 ##### <a id="5"></a>5  Special Broadcasting Service Corporation
@@ -311,11 +313,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="6"></a>6  Charter of the SBS
 
-             (1)  The principal function of the SBS is to provide multilingual and multicultural radio and television services that inform, educate and entertain all Australians, and, in doing so, reflect Australia’s multicultural society.
+             (1)  The principal function of the SBS is to provide multilingual and multicultural radio and television services that inform, educate and entertain all Australians, and, in doing so, reflect <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s multicultural society.
 
              (2)  The SBS, in performing its principal function, must:
 
-                     (a)  contribute to meeting the communications needs of Australia’s multicultural society, including ethnic, Aboriginal and Torres Strait Islander communities; and
+                     (a)  contribute to meeting the communications needs of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s multicultural society, including ethnic, Aboriginal and Torres Strait Islander communities; and
 
                      (b)  increase awareness of the contribution of a diversity of cultures to the continuing development of Australian society; and
 
@@ -325,7 +327,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (e)  as far as practicable, inform, educate and entertain Australians in their preferred languages; and
 
-                      (f)  make use of Australia’s diverse creative resources; and
+                      (f)  make use of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s diverse creative resources; and
 
                      (g)  contribute to the overall diversity of Australian television and radio services, particularly taking into account the contribution of the Australian Broadcasting Corporation and the community broadcasting sector; and
 
@@ -335,7 +337,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  Nothing in this section imposes on the SBS a duty that is enforceable by proceedings in a court.
 
-             (5)  A subsidiary function of the SBS is to carry on, within or outside Australia, any business or other activity incidental to the fulfilment of the Charter.
+             (5)  A subsidiary function of the SBS is to carry on, within or outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, any business or other activity incidental to the fulfilment of the Charter.
 
 ##### <a id="6A"></a>6A  Datacasting functions
 
@@ -367,7 +369,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                      (a)  to decide the objectives, strategies and policies to be followed by the SBS in performing its functions; and
 
-                     (b)  to ensure that the SBS performs its functions in a proper, efficient and economical manner and with the maximum benefit to the people of Australia.
+                     (b)  to ensure that the SBS performs its functions in a proper, efficient and economical manner and with the maximum benefit to the people of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 ##### <a id="10"></a>10  Duties of the Board
 
@@ -447,6 +449,8 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
              (3)  Anything done in the name of, or on behalf of, the SBS by the Managing Director is taken to have been done by the SBS.
 
+<o:p> </o:p>
+
 ## Part 3—The Board of Directors and the Managing Director
 
 ### Division 1—Provisions relating to non-executive Directors
@@ -513,7 +517,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                      (a)  there is a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of his or her office;
+                     (b)  the Chairperson is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of his or her office;
 
 the Deputy Chairperson must act as Chairperson.
 
@@ -589,6 +593,8 @@ the Governor-General must terminate the appointment of all non-executive Directo
 
 the Governor-General must terminate the appointment of the non-executive Director.
 
+<o:p> </o:p>
+
 ### Division 2—Provisions relating to the Managing Director
 
 ##### <a id="28"></a>28  Appointment of Managing Director
@@ -625,7 +631,7 @@ the Governor-General must terminate the appointment of the non-executive Directo
 
                      (a)  during a vacancy in the office of Managing Director; or
 
-                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
+                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the functions of his or her office;
 
 but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
@@ -678,6 +684,8 @@ but a person appointed to act during a vacancy must not continue so to act for m
                      (d)  fails, without reasonable excuse, to comply with section 36 of this Act or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Board may remove the Managing Director from office.
+
+<o:p> </o:p>
 
 ### Division 3—Meetings of the Board
 
@@ -749,6 +757,8 @@ the Board may remove the Managing Director from office.
 
                      (b)  that majority would, if present at a meeting of the Board, have constituted a quorum under subsection 40(1).
 
+<o:p> </o:p>
+
 ## Part 4—Powers and duties of the SBS
 
 ##### <a id="44"></a>44  General powers of the SBS
@@ -801,9 +811,9 @@ where it is likely that the independence or integrity of the SBS would be affect
 
              (4)  Nothing in subsection (3) precludes the SBS from accepting the performance of services, the provision of facilities or the payment of money by or on behalf of the Commonwealth, a State or a Territory or an authority of the Commonwealth, of a State or of a Territory.
 
-             (5)  Before the publication of program schedules of the SBS broadcasting stations, the SBS must make those schedules available at an office of the SBS on equal terms to the publishers of any newspaper, magazine or journal published in Australia.
+             (5)  Before the publication of program schedules of the SBS broadcasting stations, the SBS must make those schedules available at an office of the SBS on equal terms to the publishers of any newspaper, magazine or journal published in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-             (6)  The powers of the SBS may be exercised within or outside Australia.
+             (6)  The powers of the SBS may be exercised within or outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 ##### <a id="45"></a>45  Advertising and sponsorship
 
@@ -899,7 +909,7 @@ where it is likely that the independence or integrity of the SBS would be affect
 
              (4)  The Board may only appoint a person to the Committee if the Board is satisfied that the person:
 
-                     (a)  has an understanding of Australia’s multicultural society; and
+                     (a)  has an understanding of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s multicultural society; and
 
                      (b)  in particular, has interests relevant to, and an understanding of, ethnic, Aboriginal or Torres Strait Islander communities.
 
@@ -933,7 +943,7 @@ the Board must immediately notify the Minister of its opinion and the reasons fo
 
                      (c)  enter into a partnership, or an arrangement for the sharing of profits or expenses, with a person or body for the purpose of carrying on an authorised business; and
 
-                     (d)  provide technical or other assistance and facilities (whether within or outside Australia) for a prescribed company or for a partnership, or for the purposes of an arrangement, referred to in paragraph (c).
+                     (d)  provide technical or other assistance and facilities (whether within or outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>) for a prescribed company or for a partnership, or for the purposes of an arrangement, referred to in paragraph (c).
 
 Note:          Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business activities and arrangements.
 
@@ -946,6 +956,8 @@ Note:          Section 15 of the _Commonwealth Authorities and
 the Minister may give to the SBS such written directions as the Minister thinks appropriate with respect to the disposal of the interest of the SBS in the company and the SBS must comply with any such directions.
 
              (5)  This section does not authorise a prescribed company to carry on an authorised business otherwise than in accordance with any applicable law.
+
+<o:p> </o:p>
 
 ## Part 5—Staff
 
@@ -966,6 +978,8 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 ##### <a id="55"></a>55  The SBS is to achieve and maintain high standards as an employer
 
                    The SBS must endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non-discriminatory employment practices and other related matters.
+
+<o:p> </o:p>
 
 ## Part 6—Finance
 
@@ -1075,13 +1089,15 @@ and must give to the SBS a copy of each determination made under this subsection
 
                    The SBS is not subject to taxation under any law of the Commonwealth, of a State or of a Territory and, in particular, sales tax is not payable by the SBS, or by any other person, on goods that are for use by the SBS.
 
+<o:p> </o:p>
+
 ## Part 7—Miscellaneous
 
 ##### <a id="70"></a>70  Application of Broadcasting Act
 
                    Except where the _Broadcasting Services Act 1992_ otherwise expressly provides, that Act does not apply in relation to the broadcasting services provided by the SBS.
 
-##### <a id="70AA"></a>70AA  Report by ABA on degradation of signal quality
+##### <a id="70AA"></a>70AA  Report by <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">ABA</st1:place></st1:city> on degradation of signal quality
 
                    If:
 
@@ -1091,7 +1107,7 @@ and must give to the SBS a copy of each determination made under this subsection
 
                      (c)  the signal concerned is received from an analog terrestrial radiocommunications transmitter;
 
-the Minister may direct the ABA to conduct an investigation into the matter.
+the Minister may direct the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">ABA</st1:place></st1:city> to conduct an investigation into the matter.
 
 ##### <a id="70A"></a>70A  Broadcasting of political or controversial matter
 
@@ -1195,7 +1211,7 @@ the Minister may direct the ABA to conduct an investigation into the matter.
 
                      (a)  an election to a Parliament is to be held; and
 
-                     (b)  a radio or television service provided by the SBS would normally be received in the area of Australia to which the election relates;
+                     (b)  a radio or television service provided by the SBS would normally be received in the area of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to which the election relates;
 
 the SBS must not broadcast an election advertisement in relation to the election during the relevant period as part of that service.
 
@@ -1281,6 +1297,8 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                      (b)  necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
+<o:p> </o:p>
+
 ## Part 8—Transitional
 
 ##### <a id="77"></a>77  Interpretation
@@ -1355,7 +1373,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
              (2)  Subsection (1) extends, so far as the powers of the Parliament permit, to:
 
-                     (a)  assets situated outside Australia and powers conferred by, or rights existing under, the law of a foreign country; and
+                     (a)  assets situated outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and powers conferred by, or rights existing under, the law of a foreign country; and
 
                      (b)  liabilities or obligations arising under the law of a foreign country.
 
@@ -1405,20 +1423,24 @@ the SBS must not broadcast an election advertisement in relation to the election
 
              (3)  In this section:
 
-                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for the financial year ending on 30 June 1992, and includes an Act making interim provision for such an appropriation.
+                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for the financial year ending on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="30" month="6">30 June 1992</st1:date>, and includes an Act making interim provision for such an appropriation.
+
+<o:p> </o:p>
 
 ## Part 9—Consequential amendments of the Broadcasting Act 1942 
 
 ##### Sections <a id="93 to 115"></a>93 to 115
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 54pt; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 54pt; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Part are incorporated in the compilation on SCALEplus of the _Broadcasting Act 1942_.
 <span style="FONT-SIZE: 9pt">\[repealed by Act No. 105, 1992 as amended by Act No. 120, 2002]</span>
 
 For access to the wording of the amendments made by this Part, _see_ Act  No. 180, 1991.</div>
+
+<o:p> </o:p>
 
 ## Part 10—Consequential amendments of other Acts
 
@@ -1426,18 +1448,18 @@ For access to the wording of the amendments made by this Part, _see_ Act  No. 18
 
              (1)  The Acts specified in the Schedule are amended as set out in the Schedule.
 
-             (2)  The amendments made to section 91 of the _Copyright Act 1968_ by subsection (1) do not affect the continued subsistence of any copyright that, immediately before the commencement of this section, subsisted in a television broadcast or sound broadcast that had been made from a place in Australia by the Special Broadcasting Service before the commencement of this section. 
+             (2)  The amendments made to section 91 of the _Copyright Act 1968_ by subsection (1) do not affect the continued subsistence of any copyright that, immediately before the commencement of this section, subsisted in a television broadcast or sound broadcast that had been made from a place in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> by the Special Broadcasting Service before the commencement of this section. 
 
 
-# Schedule—Consequential amendments of other Acts
+# Schedule—Consequential amendments of other Acts<o:p></o:p>
 
 _Section 116_
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
-The amendments made by this Schedule are incorporated in the compilations on SCALEplus and ComLaw.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
 Archives Act 1983
 
@@ -1446,15 +1468,13 @@ Australian Broadcasting Corporation Act 1983
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 180, 1991.</div>
 
 
-# Notes to the _Special Broadcasting Service Act 1991_
+# Notes to the _<span style="mso-no-proof: yes">Special Broadcasting Service Act 1991</span>_
 
 ### Note 1
 
 The _Special Broadcasting Service Act 1991_ as shown in this compilation comprises Act No. 180, 1991 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
-
-All other relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 February 2005</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1470,23 +1490,23 @@ All other relevant information pertaining to application, saving or transitional
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
@@ -1499,15 +1519,15 @@ of Assent
       <div>180, 1991</div>
     </td>
     <td>
-      <div>25 Nov 1991</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="25" month="11">25 Nov 1991</st1:date></div>
     </td>
     <td>
-      <div>S. 54: 24 Mar 1994 ( <i>see Gazette</i>1994, No. GN10) 
-Remainder: 23 Dec 1991 
+      <div>S. 54: 24 Mar 1994 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1994, No. GN10) 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="23" month="12">23 Dec 1991</st1:date> 
 </div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -1518,10 +1538,10 @@ Remainder: 23 Dec 1991
       <div>105, 1992</div>
     </td>
     <td>
-      <div>9 July 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="9" month="7">9 July 1992</st1:date></div>
     </td>
     <td>
-      <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="5" month="10">5 Oct 1992</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2 and <i style="mso-bidi-font-style: normal">Gazette</i>1992, No. GN38)</div>
     </td>
     <td>
       <div>—</div>
@@ -1535,10 +1555,10 @@ Remainder: 23 Dec 1991
       <div>118, 1992</div>
     </td>
     <td>
-      <div>30 Sept 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="30" month="9">30 Sept 1992</st1:date></div>
     </td>
     <td>
-      <div>28 Oct 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="28" month="10">28 Oct 1992</st1:date></div>
     </td>
     <td>
       <div>—</div>
@@ -1552,10 +1572,10 @@ Remainder: 23 Dec 1991
       <div>167, 1992</div>
     </td>
     <td>
-      <div>11 Dec 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="11" month="12">11 Dec 1992</st1:date></div>
     </td>
     <td>
-      <div>1 July 1993</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="7">1 July 1993</st1:date></div>
     </td>
     <td>
       <div>—</div>
@@ -1569,10 +1589,10 @@ Remainder: 23 Dec 1991
       <div>216, 1992</div>
     </td>
     <td>
-      <div>24 Dec 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="24" month="12">24 Dec 1992</st1:date></div>
     </td>
     <td>
-      <div>Part 9 (ss. 33–35): Royal Assent <i>(a)</i></div>
+      <div>Part 9 (ss. 33–35): Royal Assent <i style="mso-bidi-font-style: normal">(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1586,10 +1606,10 @@ Remainder: 23 Dec 1991
       <div>32, 1995</div>
     </td>
     <td>
-      <div>12 Apr 1995</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="12" month="4">12 Apr 1995</st1:date></div>
     </td>
     <td>
-      <div>S. 3 (item 122): Royal Assent <i>(b)</i></div>
+      <div>S. 3 (item 122): Royal Assent <i style="mso-bidi-font-style: normal">(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1606,7 +1626,7 @@ Remainder: 23 Dec 1991
       <div>3 May 1997</div>
     </td>
     <td>
-      <div>Schedule 1 (items 49, 50): 1 July 1997 <i>(c)</i></div>
+      <div>Schedule 1 (items 49, 50): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="1" month="7">1 July 1997</st1:date> <i style="mso-bidi-font-style: normal">(c)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1620,10 +1640,10 @@ Remainder: 23 Dec 1991
       <div>152, 1997</div>
     </td>
     <td>
-      <div>24 Oct 1997</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 1207–1218): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
+      <div>Schedule 2 (items 1207–1218): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(d)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1631,16 +1651,16 @@ Remainder: 23 Dec 1991
   </tr>
   <tr>
     <td>
-      <div>National Transmission Network Sale (Consequential Amendments) Act 1998</div>
+      <div>National Transmission Network <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place> </st1:city>(Consequential Amendments) Act 1998</div>
     </td>
     <td>
       <div>131, 1998</div>
     </td>
     <td>
-      <div>21 Dec 1998</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="21" month="12">21 Dec 1998</st1:date></div>
     </td>
     <td>
-      <div>21 Dec 1998</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="21" month="12">21 Dec 1998</st1:date></div>
     </td>
     <td>
       <div>S. 4</div>
@@ -1654,10 +1674,10 @@ Remainder: 23 Dec 1991
       <div>146, 1999</div>
     </td>
     <td>
-      <div>11 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 826, 827): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+      <div>Schedule 1 (items 826, 827): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(e) <o:p></o:p> </i></div>
     </td>
     <td>
       <div>—</div>
@@ -1671,10 +1691,10 @@ Remainder: 23 Dec 1991
       <div>156, 1999</div>
     </td>
     <td>
-      <div>24 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="24" month="11">24 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 10 (items 119–121): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+      <div>Schedule 10 (items 119–121): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="13" month="3">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2000,No. S114) <i style="mso-bidi-font-style: normal">(f)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1688,10 +1708,10 @@ Remainder: 23 Dec 1991
       <div>23, 2001</div>
     </td>
     <td>
-      <div>6 Apr 2001</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="6" month="4">6 Apr 2001</st1:date></div>
     </td>
     <td>
-      <div>6 Apr 2001</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="6" month="4">6 Apr 2001</st1:date></div>
     </td>
     <td>
       <div>—</div>
@@ -1705,10 +1725,10 @@ Remainder: 23 Dec 1991
       <div>63, 2002</div>
     </td>
     <td>
-      <div>3 July 2002</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="3" month="7">3 July 2002</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (item 29): <i>(g)</i></div>
+      <div>Schedule 1 (item 29): <i style="mso-bidi-font-style: normal">(g) <o:p></o:p> </i></div>
     </td>
     <td>
       <div>—</div>
@@ -1722,32 +1742,13 @@ Remainder: 23 Dec 1991
       <div>8, 2005</div>
     </td>
     <td>
-      <div>22 Feb 2005</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
     </td>
     <td>
       <div>Schedule 2 (items 162–168, 174): Royal Assent</div>
     </td>
     <td>
-      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
-    </td>
-    <td>
-      <div>45, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 124–126) and Schedule 4: \[ <i>see (h)</i>and Note 2] 
-Schedule 2: \[ <i>see</i> <i>(h)</i>and Note 2] 
-</div>
-    </td>
-    <td>
-      <div>Sch. 4</div>
+      <div>Sch. 2 (item 174) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
     </td>
   </tr>
 </tbody></table>
@@ -1763,9 +1764,9 @@ _(b)_    The _Special Broadcasting Service Act 1991_ was amended by the _C
 
 _(c)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (items 49 and 50) only of the _Telecommunicatiuons (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2)(d) of which provides as follows:
 
-                 (2)   The following provisions commence on 1 July 1997:
+                 (2)   The following provisions commence on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="1" month="7">1 July 1997</st1:date>:
 
-                             (d)   Schedule 1;
+<span style="mso-tab-count: 1">                             </span>(d)<span style="mso-tab-count: 1">   </span>Schedule 1;<o:p></o:p>
 
 _(d)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 2 (items 1207–1218) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
@@ -1783,9 +1784,11 @@ _(f)_      The _Special Broadcasting Service Act 1991_ was amended by 
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(g)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (item 29) only of the _Statue Law Revision Act 2002_, subsection 2(1) (item 23) of which provides as follows:
+_(f)_      The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (item 29) only of the _Statue Law Revision Act 2002_, subsection 2(1) (item 23) of which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -1798,8 +1801,10 @@ _(g)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
   <tr>
     <td colspan="3">
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement information
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1807,22 +1812,28 @@ _(g)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 1
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 2
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 3
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1830,22 +1841,28 @@ _(g)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Provision(s)
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Date/Details
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1854,121 +1871,22 @@ _(g)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
 <tbody>
   <tr>
     <td>
-      <div>
-        23\. Schedule 1, item 29
-      </div>
+      <div>23.
+        Schedule 1, item 29</div>
+    </td>
+    <td>
+      <div>Immediately after subsection 53(2) of the
+        <i style="mso-bidi-font-style: normal">Special Broadcasting Service Act 1991</i>commenced</div>
     </td>
     <td>
       <div>
-        Immediately after subsection 53(2) of the
-          <i>Special Broadcasting Service Act 1991</i>commenced
-      </div>
-    </td>
-    <td>
-      <div>
-        23 December 1991
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="23" month="12">23 December 1991</st1:date>
       </div>
     </td>
   </tr>
 </tbody></table>
 
-_(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2\. Schedule 1
-      </div>
-    </td>
-    <td>
-      <div>
-        At the same time as section 6 of the
-          <i>Australian Communications and Media Authority Act 2005</i>commences.
-      </div>
-    </td>
-    <td>
-      <div>
-        \[
-          <i>see</i>Note 2]
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        3\. Schedule 2
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of the provision(s) covered by table
-          item 2.
-      </div>
-    </td>
-    <td>
-      <div>
-        \[
-          <i>see</i>Note 2]
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        10\. Schedule 4
-      </div>
-    </td>
-    <td>
-      <div>
-        At the same time as section 6 of the
-          <i>Australian Communications and Media Authority Act 2005</i>commences.
-      </div>
-    </td>
-    <td>
-      <div>
-        \[
-          <i>see</i>Note 1]
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
- 
+<o:p> </o:p>
 
 
 ## Table of Amendments
@@ -1982,30 +1900,30 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 3</div>
+      <div>S. 3 </div>
     </td>
     <td>
       <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; No. 8, 2005</div>
@@ -2013,15 +1931,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 2</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 5(1)</div>
+      <div>Note to s. 5(1) </div>
     </td>
     <td>
       <div>ad. No. 152, 1997</div>
@@ -2029,7 +1947,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 6</div>
+      <div>S. 6 </div>
     </td>
     <td>
       <div>am. No. 105, 1992</div>
@@ -2037,7 +1955,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 6A</div>
+      <div>S. 6A </div>
     </td>
     <td>
       <div>ad. No. 23, 2001</div>
@@ -2045,7 +1963,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 10</div>
+      <div>S. 10 </div>
     </td>
     <td>
       <div>am. No. 105, 1992; No. 23, 2001</div>
@@ -2053,7 +1971,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 13</div>
+      <div>Heading to s. 13 </div>
     </td>
     <td>
       <div>rs. No. 152, 1997</div>
@@ -2061,7 +1979,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 13</div>
+      <div>S. 13 </div>
     </td>
     <td>
       <div>am. No. 152, 1997</div>
@@ -2069,23 +1987,23 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 3</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 27</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27 </div>
     </td>
     <td>
       <div>am. No. 152, 1997; No. 156, 1999</div>
@@ -2093,15 +2011,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Division 2</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 34</div>
+      <div>S. 34 </div>
     </td>
     <td>
       <div>am. No. 146, 1999</div>
@@ -2109,7 +2027,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 37</div>
+      <div>S. 37 </div>
     </td>
     <td>
       <div>am. No. 152, 1997; No. 156, 1999</div>
@@ -2117,15 +2035,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Division 3</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 40</div>
+      <div>S. 40 </div>
     </td>
     <td>
       <div>am. No. 152, 1997; No. 156, 1999</div>
@@ -2133,7 +2051,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 43</div>
+      <div>S. 43 </div>
     </td>
     <td>
       <div>rep. No. 152, 1997</div>
@@ -2141,15 +2059,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 4</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 44</div>
+      <div>S. 44 </div>
     </td>
     <td>
       <div>am. No. 131, 1998</div>
@@ -2157,7 +2075,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 45</div>
+      <div>S. 45 </div>
     </td>
     <td>
       <div>am. Nos. 105 and 216, 1992</div>
@@ -2165,7 +2083,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 52</div>
+      <div>S. 52 </div>
     </td>
     <td>
       <div>am. No. 152, 1997</div>
@@ -2173,7 +2091,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>Note to s. 52(2)</div>
+      <div>Note to s. 52(2) </div>
     </td>
     <td>
       <div>ad. No. 152, 1997</div>
@@ -2181,15 +2099,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 5</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 53</div>
+      <div>S. 53 </div>
     </td>
     <td>
       <div>am. No. 63, 2002</div>
@@ -2197,15 +2115,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 6</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 6 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 56</div>
+      <div>S. 56 </div>
     </td>
     <td>
       <div>am. No. 8, 2005</div>
@@ -2213,7 +2131,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 58</div>
+      <div>Heading to s. 58 </div>
     </td>
     <td>
       <div>am. No. 152, 1997</div>
@@ -2221,7 +2139,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 58</div>
+      <div>S. 58 </div>
     </td>
     <td>
       <div>am. No. 152, 1997</div>
@@ -2229,7 +2147,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>Ss. 59–61</div>
+      <div>Ss. 59–61 </div>
     </td>
     <td>
       <div>am. No. 8, 2005</div>
@@ -2237,7 +2155,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 64</div>
+      <div>S. 64 </div>
     </td>
     <td>
       <div>rs. No. 8, 2005</div>
@@ -2245,7 +2163,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 66</div>
+      <div>S. 66 </div>
     </td>
     <td>
       <div>rep. No. 152, 1997</div>
@@ -2253,7 +2171,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 67</div>
+      <div>S. 67 </div>
     </td>
     <td>
       <div>rep. No. 32, 1995</div>
@@ -2261,7 +2179,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 68</div>
+      <div>S. 68 </div>
     </td>
     <td>
       <div>am. No. 118, 1992</div>
@@ -2269,7 +2187,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 69</div>
+      <div>S. 69 </div>
     </td>
     <td>
       <div>rep. No. 152, 1997</div>
@@ -2277,15 +2195,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 7</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 7 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 70</div>
+      <div>S. 70 </div>
     </td>
     <td>
       <div>am. No. 105, 1992</div>
@@ -2293,7 +2211,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 70AA</div>
+      <div>S. 70AA </div>
     </td>
     <td>
       <div>ad. No. 131, 1998</div>
@@ -2301,7 +2219,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>Ss. 70A, 70B</div>
+      <div>Ss. 70A, 70B </div>
     </td>
     <td>
       <div>ad. No. 105, 1992</div>
@@ -2309,7 +2227,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 70C</div>
+      <div>S. 70C </div>
     </td>
     <td>
       <div>ad. No. 216, 1992</div>
@@ -2317,7 +2235,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 71</div>
+      <div>S. 71 </div>
     </td>
     <td>
       <div>rep. No. 131, 1998</div>
@@ -2325,7 +2243,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 72</div>
+      <div>S. 72 </div>
     </td>
     <td>
       <div>am. No. 59, 1997</div>
@@ -2333,7 +2251,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
       <div>rep. No. 131, 1998</div>
@@ -2341,7 +2259,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div>S. 73</div>
+      <div>S. 73 </div>
     </td>
     <td>
       <div>am. No. 152, 1997; No. 131, 1998</div>
@@ -2349,15 +2267,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
   </tr>
   <tr>
     <td>
-      <div><b>Part 8</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 8 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 81</div>
+      <div>S. 81 </div>
     </td>
     <td>
       <div>am. No. 146, 1999</div>
@@ -2366,92 +2284,13 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
 </tbody></table>
 
 
-### Note 2
-
-_Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005 (No. 45, 2005)_
-
-The following amendments commence on 1 July 2005 unless proclaimed earlier:
-
-## Schedule 1
-
-## 124  Section 3 (definition of _ABA_)
-
-Repeal the definition.
-
-## 125  Section 3
-
-Insert:
-
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
-
-## 126  Paragraph 10(1)(j)
-
-Omit “Australian Broadcasting Authority”, substitute “ACMA”.
-
-The following amendments commence immediately after 1 July 2005 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  Amendment of Acts—changing references to the ABA and the ACA into references to the ACMA
-
-The Acts listed in this Schedule are amended as follows:
-
-                     (a)  by omitting “ABA” (wherever occurring) and substituting “ACMA”;
-
-                     (b)  by omitting “**ABA**” (wherever occurring) and substituting “**ACMA**”;
-
-                     (c)  by omitting “**_ABA_**” (wherever occurring) and substituting “**_ACMA_**”;
-
-                     (d)  by omitting “ABA’s” (wherever occurring) and substituting “ACMA’s”;
-
-                     (e)  by omitting “**ABA****’s**” (wherever occurring) and substituting “**ACMA’s**”;
-
-                      (f)  by omitting “**_ABA_****_’s_**” (wherever occurring) and substituting “**_ACMA’s_**”;
-
-                     (g)  by omitting “ACA” (wherever occurring) and substituting “ACMA”;
-
-                     (h)  by omitting “**ACA**” (wherever occurring) and substituting “**ACMA**”;
-
-                      (i)  by omitting “**_ACA_**” (wherever occurring) and substituting “**_ACMA_**”;
-
-                      (j)  by omitting “ACA’s” (wherever occurring) and substituting “ACMA’s”;
-
-                     (k)  by omitting “**ACA’s**” (wherever occurring) and substituting “**ACMA’s**”;
-
-                      (l)  by omitting “**_ACA’s_**” (wherever occurring) and substituting “**_ACMA’s_**”.
-
-_Note 1:    This Schedule commences immediately after the commencement of Schedule 1, and so this item amends the Acts listed in this Schedule, as already amended by Schedule 1._
-
-_Note 2:    The headings to sections, subsections, clauses and subclauses of the Acts listed in this Schedule are altered as follows:_
-
-(a)              by omitting “**ABA**” (wherever occurring) and substituting “**ACMA**”;
-
-(b)              by omitting “_ABA_” (wherever occurring) and substituting “_ACMA_”;
-
-(c)              by omitting “**ABA****’s**” (wherever occurring) and substituting “**ACMA’s**”;
-
-(d)              by omitting “_ABA__’s_” (wherever occurring) and substituting “_ACMA’s_”;
-
-(e)              by omitting “**ACA**” (wherever occurring) and substituting “**ACMA**”;
-
-(f)               by omitting “_ACA_” (wherever occurring) and substituting “_ACMA_”;
-
-(g)              by omitting “**ACA’s**” (wherever occurring) and substituting “**ACMA’s**”;
-
-(h)              by omitting “_ACA’s_” (wherever occurring) and substituting “_ACMA’s_”.
-
-Special Broadcasting Service Act 1991
-
-As at 15 April 2005 the amendments are not incorporated in this compilation.
-
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-## Schedule 2
+## Schedule 2<o:p></o:p>
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -2472,4 +2311,4 @@ continues to have effect after the commencing time as if it had been done by the
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
 
- 
+<o:p> </o:p>
