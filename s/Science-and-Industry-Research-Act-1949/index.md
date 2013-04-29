@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00546/Html/SciIndResAct49_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00434/Html/SciIndResAct49_WD02_image001.gif)
 
 # Science and Industry Research Act 1949
 
 **Act No. 13 of 1949 as amended**
 
-This compilation was prepared on 10 September  2007
+This compilation was prepared on 3 July 2007
  taking into account amendments up to Act No. 84 of 2007
 
 The text of any of those amendments not in force
@@ -70,19 +70,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Meetings
 
-[15A](#15A).       Chief Executive not to take part in certain deliberations of Board
-
 [16](#16).          Terms and conditions of appointment etc  of part-time members
 
-[17](#17).          Remuneration of Chairperson and the Deputy Chairperson
+[17](#17).          Remuneration of Chairperson
 
 [19](#19).          Remuneration of other part-time members
 
 [20](#20).          Resignation of part-time members
 
 [22](#22).          Termination of appointment
-
-[22A](#22A).       Delegation by Board
 
 **Part IV—Advisory committees**
 
@@ -107,6 +103,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [46](#46).          Moneys payable to Organisation
 
 [48](#48).          Application of moneys
+
+[50](#50).          Contracts
 
 [51](#51).          Extra matters to be included in annual report
 
@@ -150,9 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chief-execut"></a>**_Chief Executive_** means the Chief Executive of the Organisation.
 
-                    <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Board.
-
-                    <a name="member"></a>**_member_** means a member of the Board and includes the Chairperson, the Deputy Chairperson and the Chief Executive.
+                    <a name="member"></a>**_member_** means a member of the Board and includes the Chairperson and the Chief Executive.
 
                     <a name="offic"></a>**_officer_** means an officer of the Organisation.
 
@@ -170,25 +166,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  There shall be a Commonwealth Scientific and Industrial Research Organisation.
 
-             (2)  The Organisation:
-
-                     (a)  is a body corporate with perpetual succession; and
-
-                     (b)  must have a seal; and
-
-                     (c)  may acquire, hold and dispose of real and personal property; and
-
-                     (d)  may sue and be sued.
+             (2)  The Organisation shall consist of the members of the Board, and of the officers, of the Organisation and shall be a body corporate with perpetual succession and a common seal.
 
 Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Organisation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment and conduct of officers.
 
-             (3)  All courts, judges and persons acting judicially must:
+             (3)  The Organisation may acquire, hold and dispose of real and personal property and shall be capable of suing and being sued in its corporate name.
 
-                     (a)  take judicial notice of the imprint of the Organisation’s seal appearing on a document; and
-
-                     (b)  presume that the document was duly sealed.
-
-             (4)  The seal of the Organisation must be kept in such custody as the Board directs and must not be used except as authorised by the Board.
+             (4)  All courts, judges and persons acting judicially shall take judicial notice of the seal of the Organisation affixed to any document and shall presume that it was duly affixed.
 
 ##### <a id="9"></a>9  Functions of the Organisation
 
@@ -234,23 +218,25 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  arrange for scientific research or other work to be undertaken, on behalf of the Organisation, by any person or body;
 
-                     (b)  form, or participate in the formation of, a partnership or company;
+                     (b)  join in the formation of a partnership or company;
 
-                     (c)  make available to a person, on such conditions and on payment of such fees or royalties, or otherwise, as the Chief Executive determines, a discovery, invention or improvement that is the property of the Organisation;
+                     (c)  make available to a person, on such conditions and on payment of such fees or royalties, or otherwise, as the Chief Executive determines, a discovery, invention or improvement the property of the Organisation;
 
-                     (d)  pay to officers, or to persons undertaking work on behalf of the Organisation, such bonuses as the Chief Executive, with the approval of the Board, determines in respect of discoveries or inventions made by them; and
+                     (d)  pay to officers, or to persons undertaking work on behalf of the Organisation, such bonuses as the Chief Executive, with the approval of the Minister, determines in respect of discoveries or inventions made by them; and
 
                      (e)  charge such fees, and agree to such conditions, as the Chief Executive determines for research and other services carried out, or facilities made available, by the Organisation at the request of any person.
 
 ##### <a id="9A"></a>9A  Organisation may accept gifts etc. and act as trustee
 
-             (1)  The Organisation may, in or in connection with the performance of its functions and the exercise of its powers:
+             (1)  Subject to the approval of the Minister and subject to any regulations that are applicable, the Organisation may, in or in connection with the performance of its functions and the exercise of its powers:
 
                      (a)  accept money or other property given, devised, bequeathed, assigned or otherwise made available to the Organisation (whether on trust or otherwise); and
 
                      (b)  agree to any conditions subject to which money or other property is given, devised, bequeathed, assigned or otherwise made available to the Organisation; and
 
                      (c)  act as trustee of money or other property vested in the Organisation upon trust.
+
+          (1A)  The Organisation need not obtain the Minister’s approval if the value of the money or other property given, devised, bequeathed, assigned or otherwise made available to the Organisation is not more than $1 million or such other amount as is prescribed for the purpose of this subsection.
 
              (2)  Notwithstanding anything contained in this Act, where the Organisation has agreed to any conditions subject to which moneys have, or other property has, been given, devised, bequeathed, assigned or otherwise made available to the Organisation or the Organisation holds any moneys or other property upon trust, the moneys or other property shall be dealt with by the Organisation in accordance with those conditions or in accordance with the powers and duties of the Organisation as trustee, as the case may be.
 
@@ -276,25 +262,25 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="10B"></a>10B  Appointment of Chief Executive etc.
 
-             (1)  The Chief Executive shall be appointed by the Board and, subject to this Act, holds office on a full-time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.
+             (1)  The Chief Executive shall be appointed by the Governor-General and, subject to this Act, holds office on a full-time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.
 
-             (2)  The Board must consult with the Minister before appointing a person as Chief Executive.
+             (2)  The Minister shall, before an appointment is made to the office of Chief Executive, consult with the Board in relation to the appointment.
 
-             (4)  The Chief Executive holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Board.
+             (4)  The Chief Executive holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister.
 
 ##### <a id="10C"></a>10C  Leave of absence
 
              (1)  The Chief Executive has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Board may grant the Chief Executive leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Board determines.
+             (2)  The Minister may grant the Chief Executive leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="10D"></a>10D  Resignation
 
-                   The Chief Executive may resign the office of Chief Executive by writing signed by the Chief Executive and delivered to the Board.
+                   The Chief Executive may resign the office of Chief Executive by writing signed by the Chief Executive and delivered to the Governor-General.
 
 ##### <a id="10E"></a>10E  Termination of appointment
 
-             (1)  The Board may terminate the appointment of the Chief Executive for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Chief Executive for misbehaviour or physical or mental incapacity.
 
              (2)  If the Chief Executive:
 
@@ -304,23 +290,19 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any period of 12 months;
 
-                     (d)  is absent, except on leave granted by the Board, from 3 consecutive meetings of the Board; or
+                     (d)  is absent, except on leave granted by the Minister, from 3 consecutive meetings of the Board; or
 
-                     (e)  engages in paid employment outside the duties of the office of Chief Executive without the consent of the Board;
+                     (e)  engages in paid employment outside the duties of the office of Chief Executive without the consent of the Minister;
 
-the Board may terminate the appointment of the Chief Executive.
-
-             (3)  The Board may terminate the appointment of the Chief Executive if the Board is satisfied that the performance of the Chief Executive has been unsatisfactory for a significant period.
-
-             (4)  The Board must consult with the Minister before terminating the appointment of the Chief Executive.
+the Governor-General may terminate the appointment of the Chief Executive.
 
 ##### <a id="10F"></a>10F  Disclosure of interests
 
-                   The Chief Executive shall give written notice to the Board of all direct or indirect pecuniary interests that the Chief Executive has or may have in any business or in any body corporate carrying on a business.
+                   The Chief Executive shall give written notice to the Minister of all direct or indirect pecuniary interests that the Chief Executive has or may have in any business or in any body corporate carrying on a business.
 
 ##### <a id="10G"></a>10G  Acting Chief Executive
 
-             (1)  The Board may appoint a person to act in the office of Chief Executive:
+             (1)  The Minister may appoint a person to act in the office of Chief Executive:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to that office; or
 
@@ -330,17 +312,17 @@ the Board may terminate the appointment of the Chief Executive.
 
              (3)  A person appointed under subsection (1) to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (4)  Where a person is acting in the office of Chief Executive in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Board otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurs ends, whichever first happens.
+             (4)  Where a person is acting in the office of Chief Executive in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurs ends, whichever first happens.
 
              (5)  While a person is acting in the office of Chief Executive, the person has and may exercise all the powers, and shall perform all the functions, of Chief Executive under this Act or the regulations or under the _Science and Industry Endowment Act 1926_.
 
-             (6)  The Board may:
+             (6)  The Minister may:
 
                      (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of Chief Executive; and
 
                      (b)  terminate such an appointment at any time.
 
-             (7)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Board.
+             (7)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Minister.
 
              (8)  Nothing done by or in relation to a person purporting to act under subsection (1) is invalid on the ground that:
 
@@ -404,7 +386,7 @@ the Board may terminate the appointment of the Chief Executive.
 
 ##### <a id="12"></a>12  Functions of Board
 
-             (1)  The functions of the Board are:
+                   The functions of the Board are:
 
                      (a)  to ensure the proper and efficient performance of the functions of the Organisation;
 
@@ -414,9 +396,7 @@ the Board may terminate the appointment of the Chief Executive.
 
                      (d)  such other functions as are conferred on it by this Act.
 
-             (2)  The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
-
-##### <a id="13"></a>13  Directions and guidelines given by Minister
+##### <a id="13"></a>13  Directions and guidelines given by Minister
 
              (1)  The Minister may give to the Board, in writing, directions and guidelines with respect to the performance of the functions, or the exercise of the powers, of the Board or of the Organisation, and the Board shall ensure that any directions or guidelines so given are complied with.
 
@@ -436,25 +416,25 @@ the Board may terminate the appointment of the Chief Executive.
 
              (3)  The part-time members shall be appointed by the Governor-General.
 
-             (4)  The Governor-General shall appoint one of the part-time members to be the Chairperson of the Board and another of the part-time members to be the Deputy Chairperson of the Board.
+             (4)  The Governor-General shall appoint one of the part-time members to be the Chairperson of the Board.
 
-             (5)  A part-time member appointed as Chairperson or as Deputy Chairperson:
+             (5)  A part-time member appointed as Chairperson:
 
-                     (a)  subject to paragraph (c), holds office as Chairperson or as Deputy Chairperson until the end of his or her term of office as a part-time member;
+                     (a)  subject to paragraph (c), holds office as Chairperson until the end of his or her term of office as a part-time member;
 
-                     (b)  may resign the office of Chairperson or of Deputy Chairperson by writing signed by the part-time member and delivered to the Governor-General;
+                     (b)  may resign the office of Chairperson by writing signed by the part-time member and delivered to the Governor-General;
 
-                     (c)  ceases to be Chairperson or Deputy Chairperson if he or she ceases to be a part-time member; and
+                     (c)  ceases to be Chairperson if he or she ceases to be a part-time member; and
 
-                     (d)  ceases to be a part-time member if he or she resigns the office of Chairperson or of Deputy Chairperson.
+                     (d)  ceases to be a part-time member if he or she resigns the office of Chairperson.
 
              (7)  The performance of a function, or the exercise of a power, by the Board is not affected by reason only of:
 
                      (a)  the number of part-time members falling below 7 for a period of not more than 6 months; or
 
-                     (b)  there being a vacancy in the office of Chairperson, of Deputy Chairperson or of Chief Executive.
+                     (b)  there being a vacancy in the office of Chairperson or in the office of Chief Executive.
 
-Note:          For the manner in which the Chairperson and the Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
 ##### <a id="15"></a>15  Meetings
 
@@ -470,23 +450,11 @@ Note:          For the manner in which the Chairperson and the
 
              (4)  The Chairperson shall preside at all meetings at which he or she is present.
 
-             (5)  If the Chairperson is not present at a meeting of the Board:
-
-                     (a)  the Deputy Chairperson must preside at the meeting; or
-
-                     (b)  if the Deputy Chairperson is not present at the meeting—the members present must elect one of their number to preside at the meeting.
+             (5)  In the event of the absence of the Chairperson from a meeting, the members present shall elect one of their number to preside at that meeting.
 
              (6)  A question arising at a meeting shall be decided by a majority of the votes of members present and voting.
 
              (7)  At a meeting, the Chairperson or other member presiding has a deliberative vote and, in the event of votes being equal, also has a casting vote.
-
-##### <a id="15A"></a>15A  Chief Executive not to take part in certain deliberations of Board
-
-                   The Chief Executive:
-
-                     (a)  must not take part in any deliberation or decision of the Board with respect to him or her; and
-
-                     (b)  is to be disregarded for the purpose of constituting a quorum of the Board for any such deliberation or decision.
 
 ##### <a id="16"></a>16  Terms and conditions of appointment etc. of part-time members
 
@@ -494,11 +462,11 @@ Note:          For the manner in which the Chairperson and the
 
              (2)  A part-time member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
-##### <a id="17"></a>17  Remuneration of Chairperson and the Deputy Chairperson
+##### <a id="17"></a>17  Remuneration of Chairperson
 
-             (1)  The Chairperson and the Deputy Chairperson shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration is in operation, the Chairperson and the Deputy Chairperson shall be paid such remuneration as is prescribed.
+             (1)  The Chairperson shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration is in operation, the Chairperson shall be paid such remuneration as is prescribed.
 
-             (2)  The Chairperson and the Deputy Chairperson shall be paid such allowances as are prescribed.
+             (2)  The Chairperson shall be paid such allowances as are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
@@ -510,7 +478,7 @@ Note:          For the manner in which the Chairperson and the
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-             (4)  A reference in this section to a part-time member does not include a reference to the Chairperson or the Deputy Chairperson.
+             (4)  A reference in this section to a part-time member does not include a reference to the Chairperson.
 
 ##### <a id="20"></a>20  Resignation of part-time members
 
@@ -529,36 +497,6 @@ Note:          For the manner in which the Chairperson and the
                      (c)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Governor-General may terminate the appointment of the member. 
-
-##### <a id="22A"></a>22A  Delegation by Board
-
-             (1)  The Board may, by resolution, delegate to an eligible person, or to a committee of eligible persons, all or any of the Board’s powers under this Act or the regulations.
-
-             (2)  A delegate is, in the exercise of a power so delegated, subject to the directions of the Board.
-
-             (3)  If the Board delegates a power to a committee of eligible persons, the Board:
-
-                     (a)  must appoint one of the members of the committee to be the Chairperson of the committee; and
-
-                     (b)  may determine the procedure to be followed in relation to meetings of the committee, including matters with respect to the following:
-
-                              (i)  the convening of meetings of the committee;
-
-                             (ii)  the number of members of the committee who are to constitute a quorum;
-
-                            (iii)  the selection of a member of the committee to preside at meetings of the committee at which the Chairperson of the committee is not present;
-
-                            (iv)  the manner in which questions arising at a meeting of the committee are to be decided.
-
-             (4)  In this section:
-
-                    <a name="elig-person"></a>**_eligible person_** means:
-
-                     (a)  a member of the Board, other than the Chief Executive; or
-
-                     (b)  an officer of the Organisation who is concerned in, or takes part in, the management of the Organisation;
-
-but does not include a person who is a member of the Consultative Council established under section 56.
 
 ## Part IV—Advisory committees
 
@@ -677,6 +615,10 @@ the following plans cease to have effect on the commencement of the second perio
                      (b)  in payment of remuneration and allowances payable to any person under this Act.
 
              (2)  Subsection (1) does not prevent investment of surplus money of the Organisation under section 18 of the _Commonwealth Authorities and Companies Act 1997._
+
+##### <a id="50"></a>50  Contracts
+
+                   The Organisation shall not, except with the approval of the Minister, enter into a contract involving the payment or receipt by the Organisation of an amount exceeding $250,000 or, if a higher amount is prescribed, that higher amount. 
 
 ##### <a id="51"></a>51  Extra matters to be included in annual report
 
@@ -1167,8 +1109,7 @@ Remainder: Royal Assent</div>
       <div>21 June 2007</div>
     </td>
     <td>
-      <div>Schedules 1–3: 10 Sept 2007 ( <i>see</i>F2007L03555) 
-Remainder: Royal Assent</div>
+      <div>Schedule 3: \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (item 38) \[ <i>see</i>Table A]</div>
@@ -1315,14 +1256,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part II</b></div>
   </td>
   <td>
@@ -1342,7 +1275,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 52, 1968; No. 121, 1986; No. 84, 2007</div>
+    <div>am. No. 52, 1968; No. 121, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1390,7 +1323,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 121, 1986; No. 152, 1997; No. 84, 2007</div>
+    <div>am. No. 121, 1986; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1430,7 +1363,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 121, 1986; No. 66, 1991; No. 84, 2007</div>
+    <div>am. No. 121, 1986; No. 66, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1478,7 +1411,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 168, 1992; No. 159, 2001; No. 84, 2007</div>
+    <div>am. No. 168, 1992; No. 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1502,7 +1435,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 84, 2007</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1511,14 +1444,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
   </td>
   <td>
     <div>ad. No. 121, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1534,7 +1459,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 122, 1991; No. 152, 1997; No. 156, 1999; No. 84, 2007</div>
+    <div>am. No. 122, 1991; No. 152, 1997; No. 156, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1543,14 +1468,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
   </td>
   <td>
     <div>ad. No. 121, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1627,14 +1544,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 13</div>
   </td>
   <td>
@@ -1686,23 +1595,15 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 84, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 14A(7)</div>
+    <div>Note to s. 14A</div>
   </td>
   <td>
     <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1718,15 +1619,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 121, 1986; No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2007</div>
+    <div>am. No. 121, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1747,14 +1640,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 17</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 17</div>
   </td>
   <td>
@@ -1766,7 +1651,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 84, 2007</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1798,7 +1683,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 121, 1986; No. 43, 1996; No. 84, 2007</div>
+    <div>am. No. 121, 1986; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1871,14 +1756,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
   </td>
   <td>
     <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2404,14 +2281,6 @@ rep. No. 121, 1986</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 51</div>
   </td>
   <td>
@@ -2597,6 +2466,242 @@ No. 143, 1978</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 2007)_
+
+The following amendments commence on 21 December 2007 unless proclaimed earlier:
+
+## Schedule 3
+
+## 1  Section 7
+
+Insert:
+
+                    <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Board.
+
+## 2  Section 7 (definition of _member_)
+
+After “Chairperson”, insert “, the Deputy Chairperson”.
+
+## 3  Subsections 8(2), (3) and (4)
+
+Repeal the subsections, substitute:
+
+             (2)  The Organisation:
+
+                     (a)  is a body corporate with perpetual succession; and
+
+                     (b)  must have a seal; and
+
+                     (c)  may acquire, hold and dispose of real and personal property; and
+
+                     (d)  may sue and be sued.
+
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Organisation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment and conduct of officers.
+
+             (3)  All courts, judges and persons acting judicially must:
+
+                     (a)  take judicial notice of the imprint of the Organisation’s seal appearing on a document; and
+
+                     (b)  presume that the document was duly sealed.
+
+             (4)  The seal of the Organisation must be kept in such custody as the Board directs and must not be used except as authorised by the Board.
+
+## 4  Paragraph 9AA(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  form, or participate in the formation of, a partnership or company;
+
+## 5  Paragraph 9AA(1)(c)
+
+After “improvement”, insert “that is”.
+
+## 6  Paragraph 9AA(1)(d)
+
+Omit “Minister”, substitute “Board”.
+
+## 7  Subsection 9A(1)
+
+Omit “Subject to the approval of the Minister and subject to any regulations that are applicable, the”, substitute “The”.
+
+## 8  Subsection 9A(1A)
+
+Repeal the subsection.
+
+## 9  Subsection 10B(1)
+
+Omit “Governor-General”, substitute “Board”.
+
+## 10  Subsection 10B(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The Board must consult with the Minister before appointing a person as Chief Executive.
+
+## 11  Subsection 10B(4)
+
+Omit “Minister”, substitute “Board”.
+
+## 12  Subsection 10C(2)
+
+Omit “Minister” (wherever occurring), substitute “Board”.
+
+## 13  Section 10D
+
+Omit “Governor-General”, substitute “Board”.
+
+## 14  Subsection 10E(1)
+
+Omit “Governor-General”, substitute “Board”.
+
+## 15  Paragraph 10E(2)(d)
+
+Omit “Minister”, substitute “Board”.
+
+## 16  Paragraph 10E(2)(e)
+
+Omit “Minister”, substitute “Board”.
+
+## 17  Subsection 10E(2)
+
+Omit “Governor-General”, substitute “Board”.
+
+## 18  At the end of section 10E
+
+Add:
+
+             (3)  The Board may terminate the appointment of the Chief Executive if the Board is satisfied that the performance of the Chief Executive has been unsatisfactory for a significant period.
+
+             (4)  The Board must consult with the Minister before terminating the appointment of the Chief Executive.
+
+## 19  Section 10F
+
+Omit “Minister”, substitute “Board”.
+
+## 20  Subsections 10G(1), (4), (6) and (7)
+
+Omit “Minister”, substitute “Board”.
+
+## 21  Section 12
+
+Before “The”, insert “(1)”.
+
+## 22  At the end of section 12
+
+Add:
+
+             (2)  The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+
+## 23  Subsection 14A(4)
+
+After “Chairperson of the Board”, insert “and another of the part-time members to be the Deputy Chairperson of the Board”.
+
+## 24  Subsection 14A(5)
+
+After “appointed as Chairperson”, insert “or as Deputy Chairperson”.
+
+## 25  Paragraph 14A(5)(a)
+
+After “Chairperson”, insert “or as Deputy Chairperson”.
+
+## 26  Paragraph 14A(5)(b)
+
+After “Chairperson”, insert “or of Deputy Chairperson”.
+
+## 27  Paragraph 14A(5)(c)
+
+After “Chairperson”, insert “or Deputy Chairperson”.
+
+## 28  Paragraph 14A(5)(d)
+
+After “Chairperson”, insert “or of Deputy Chairperson”.
+
+## 29  Paragraph 14A(7)(b)
+
+Omit “or in the office of Chief Executive”, substitute “, of Deputy Chairperson or of Chief Executive”.
+
+## 30  Subsection 14A(7)(note)
+
+After “Chairperson”, insert “and the Deputy Chairperson”.
+
+## 31  Subsection 15(5)
+
+Repeal the subsection, substitute:
+
+             (5)  If the Chairperson is not present at a meeting of the Board:
+
+                     (a)  the Deputy Chairperson must preside at the meeting; or
+
+                     (b)  if the Deputy Chairperson is not present at the meeting—the members present must elect one of their number to preside at the meeting.
+
+## 32  After section 15
+
+Insert:
+
+##### <a id="15A"></a>15A  Chief Executive not to take part in certain deliberations of Board
+
+                   The Chief Executive:
+
+                     (a)  must not take part in any deliberation or decision of the Board with respect to him or her; and
+
+                     (b)  is to be disregarded for the purpose of constituting a quorum of the Board for any such deliberation or decision.
+
+## 33  Subsection 17(1)
+
+After “Chairperson” (wherever occurring), insert “and the Deputy Chairperson”.
+
+_Note:       The heading to section 17 is altered by inserting “and Deputy Chairperson” after “Chairperson”._
+
+## 34  Subsection 17(2)
+
+After “Chairperson”, insert “and the Deputy Chairperson”.
+
+## 35  Subsection 19(4)
+
+After “Chairperson”, insert “or the Deputy Chairperson”.
+
+## 36  At the end of Part III
+
+Add:
+
+##### <a id="22A"></a>22A  Delegation by Board
+
+             (1)  The Board may, by resolution, delegate to an eligible person, or to a committee of eligible persons, all or any of the Board’s powers under this Act or the regulations.
+
+             (2)  A delegate is, in the exercise of a power so delegated, subject to the directions of the Board.
+
+             (3)  If the Board delegates a power to a committee of eligible persons, the Board:
+
+                     (a)  must appoint one of the members of the committee to be the Chairperson of the committee; and
+
+                     (b)  may determine the procedure to be followed in relation to meetings of the committee, including matters with respect to the following:
+
+                              (i)  the convening of meetings of the committee;
+
+                             (ii)  the number of members of the committee who are to constitute a quorum;
+
+                            (iii)  the selection of a member of the committee to preside at meetings of the committee at which the Chairperson of the committee is not present;
+
+                            (iv)  the manner in which questions arising at a meeting of the committee are to be decided.
+
+             (4)  In this section:
+
+                    <a name="elig-person"></a>**_eligible person_** means:
+
+                     (a)  a member of the Board, other than the Chief Executive; or
+
+                     (b)  an officer of the Organisation who is concerned in, or takes part in, the management of the Organisation;
+
+but does not include a person who is a member of the Consultative Council established under section 56.
+
+## 37  Section 50
+
+Repeal the section.
+
+As at 3 July 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2613,6 +2718,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 2007)_
+
+The following provision commences on 21 December 2007 unless proclaimed earlier:
 
 ## Schedule 3
 
