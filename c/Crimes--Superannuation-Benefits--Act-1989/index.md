@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image001.gif)
 
 # Crimes (Superannuation Benefits) Act 1989
 
 **Act No. 145 of 1989 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 15 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,111 +14,111 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Introductory**
+**Part 1—Introductory**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation                                                                                       1
 
-[3](#3).            Related offences
+[3](#3).            Related offences                                                                                   6
 
-[4](#4).            Abscond
+[4](#4).            Abscond                                                                                               6
 
-[5](#5).            Charge with offence
+[5](#5).            Charge with offence                                                                             7
 
-[6](#6).            Conviction and quashing of conviction
+[6](#6).            Conviction and quashing of conviction                                                7
 
-[7](#7).            Employee
+[7](#7).            Employee                                                                                             8
 
-[8](#8).            Property of a person
+[8](#8).            Property of a person                                                                           8
 
-[9](#9).            Dealing with property
+[9](#9).            Dealing with property                                                                         9
 
-[10](#10).          Effective control of property
+[10](#10).          Effective control of property                                                            10
 
-[11](#11).          Sufficient consideration
+[11](#11).          Sufficient consideration                                                                     11
 
-[12](#12).          Application to convictions and offences
+[12](#12).          Application to convictions and offences                                           11
 
-[12A](#12A).       Application of the _Criminal Code_
+[12A](#12A).       Application of the _Criminal Code_                                                     11
 
-[13](#13).          Act binds the Crown
+[13](#13).          Act binds the Crown                                                                         11
 
-[14](#14).          Application and extension of Act
+[14](#14).          Application and extension of Act                                                      11
 
 **Part 2—Superannuation orders**
 
-[15](#15).          Notice of charge etc 
+[15](#15).          Notice of charge etc                                                                           12
 
-[16](#16).          Authority to apply for superannuation order
+[16](#16).          Authority to apply for superannuation order                                   12
 
-[17](#17).          Application for superannuation order
+[17](#17).          Application for superannuation order                                               13
 
-[18](#18).          Application for superannuation order: evidence
+[18](#18).          Application for superannuation order: evidence                               13
 
-[19](#19).          Superannuation orders: making
+[19](#19).          Superannuation orders: making                                                          15
 
-[20](#20).          When does a superannuation order take effect?
+[20](#20).          When does a superannuation order take effect?                                16
 
-[21](#21).          Effect of superannuation orders
+[21](#21).          Effect of superannuation orders                                                        17
 
-[22](#22).          Superannuation orders: variation
+[22](#22).          Superannuation orders: variation                                                       18
 
-[23](#23).          Superannuation orders: revocation
+[23](#23).          Superannuation orders: revocation                                                    19
 
 **Part 3—Restraining orders**
 
-[24](#24).          Application for restraining order
+[24](#24).          Application for restraining order                                                       21
 
-[25](#25).          Making of restraining orders
+[25](#25).          Making of restraining orders                                                              21
 
-[26](#26).          Restraining order may be subject to conditions
+[26](#26).          Restraining order may be subject to conditions                                 22
 
-[27](#27).          Affidavit of police officer needed in certain cases
+[27](#27).          Affidavit of police officer needed in certain cases                             23
 
-[28](#28).          Notice of application for restraining order
+[28](#28).          Notice of application for restraining order                                        23
 
-[28A](#28A).       Extension of certain restraining orders
+[28A](#28A).       Extension of certain restraining orders                                               24
 
-[29](#29).          Persons who may appear and adduce evidence
+[29](#29).          Persons who may appear and adduce evidence                                 24
 
-[30](#30).          Witnesses not required to answer questions etc  in certain cases
+[30](#30).          Witnesses not required to answer questions etc  in certain cases      25
 
-[31](#31).          Notice of restraining orders
+[31](#31).          Notice of restraining orders                                                               25
 
-[32](#32).          Ancillary orders
+[32](#32).          Ancillary orders                                                                                 25
 
-[33](#33).          Charge on property subject to restraining order
+[33](#33).          Charge on property subject to restraining order                                27
 
-[34](#34).          Registration of restraining orders
+[34](#34).          Registration of restraining orders                                                       28
 
-[35](#35).          Contravention of restraining orders
+[35](#35).          Contravention of restraining orders                                                   28
 
-[36](#36).          Restraining orders: revocation
+[36](#36).          Restraining orders: revocation                                                           29
 
-[37](#37).          When do restraining orders cease to have effect?
+[37](#37).          When do restraining orders cease to have effect?                              29
 
-[38](#38).          Extension of period of effect of restraining orders
+[38](#38).          Extension of period of effect of restraining orders                            30
 
-[39](#39).          Notice of applications
+[39](#39).          Notice of applications                                                                       31
 
 **Part 4—Miscellaneous**
 
-[40](#40).          Court may lift corporate veil etc 
+[40](#40).          Court may lift corporate veil etc                                                       32
 
-[41](#41).          Amounts payable under section 19, 21 or 23
+[41](#41).          Amounts payable under section 19, 21 or 23                                    32
 
-[42](#42).          Multiple payments in respect of same employee contributions not allowed
+[42](#42).          Multiple payments in respect of same employee contributions not allowed         33
 
-[43](#43).          Possible superannuation order not to be taken into account in sentencing
+[43](#43).          Possible superannuation order not to be taken into account in sentencing              34
 
-[44](#44).          Constitution of appropriate courts
+[44](#44).          Constitution of appropriate courts                                                   34
 
-[45](#45).          Regulations
+[45](#45).          Regulations                                                                                        34
 
 **Notes** 
 
@@ -202,8 +202,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="extend"></a>**_extend_**, in relation to the period of effect of a restraining order, includes further extend.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="fund"></a>**_fund_** includes the Consolidated Revenue Fund.
 
                     <a name="interest"></a>**_interest_**, in relation to property, means:
@@ -274,7 +272,7 @@ whether present or future and whether vested or contingent.
 
                              (ii)  for any other matters under that Act—the Commissioner for Superannuation; or
 
-                   (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
+                    (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
 
                      (b)  in any other case—the person (however described) responsible for the administration of the relevant superannuation scheme.
 
@@ -282,7 +280,7 @@ whether present or future and whether vested or contingent.
 
                     <a name="superannu-scheme"></a>**_superannuation scheme_**, in relation to a person, means a superannuation scheme (other than a scheme established under a law of a State) under which employer contributions or benefits are paid or payable, or have at any time been paid, by the Commonwealth or a Commonwealth authority to or in respect of the person, and includes any scheme or arrangement under which such contributions are vested in the person.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory, and, except in section 14, does not include Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory, and, except in section 14, does not include Norfolk Island.
 
 ##### <a id="3"></a>3  Related offences
 
@@ -354,7 +352,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  a justice or judge of a federal court (other than the Federal Magistrates Court); or
 
-                   (ba)  a Federal Magistrate; or
+                    (ba)  a Federal Magistrate; or
 
                      (c)  a member of the Defence Force; or
 
@@ -382,7 +380,7 @@ is to be taken, for the purposes of this Act, to be employed by the Commonwealth
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image002.gif)
 
 where:
 
@@ -570,7 +568,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image003.gif)
 
 where:
 
@@ -618,7 +616,7 @@ where:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image004.gif)
 
 where:
 
@@ -664,7 +662,7 @@ the DPP may, as soon as practicable after the order takes effect, apply to the c
 
                      (b)  the superannuation order is to be taken to have been revoked;
 
-there is payable to the person an amount determined by the Finance Minister, being an amount that the Minister considers to be a fair recompense to the person, having regard to:
+there is payable to the person an amount determined by the Minister for Finance, being an amount that the Minister considers to be a fair recompense to the person, having regard to:
 
                      (c)  any amount paid to the person under subsection 21(4) or (5); and
 
@@ -998,7 +996,7 @@ the court may:
 
              (1)  Where an amount is payable under an order made under subsection 19(3) in respect of employer contributions or benefits that are held in a fund other than the Consolidated Revenue Fund, the amount is payable out of the fund by the person responsible for the administration of the fund.
 
-             (2)  Where an amount is payable under an order made under subsection 19(3) in respect of employer contributions or benefits that have been paid to the Commonwealth, the Finance Minister is to make arrangements:
+             (2)  Where an amount is payable under an order made under subsection 19(3) in respect of employer contributions or benefits that have been paid to the Commonwealth, the Minister for Finance is to make arrangements:
 
                      (a)  for the payment of the amount out of the Consolidated Revenue Fund; or
 
@@ -1044,7 +1042,7 @@ whether or not it is constituted in the same way in which it was constituted whe
 
 ##### <a id="45"></a>45  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1058,7 +1056,7 @@ The _Crimes (Superannuation Benefits) Act 1989_ as shown in this compilation com
 
 All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL Sale Act 1993._
+The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL__Sale__Act 1993._
 
 The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
 
@@ -1142,9 +1140,7 @@ Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
     <div>23 Aug 1991</div>
   </td>
   <td>
-    <div>Ss. 5–10, Parts 
-3–7 and 9 
-(ss. 11–34, 38, 39) and ss. 40–50: 20 Sept 1991 
+    <div>Ss. 5-10, Parts 3-7 and 9 (ss. 11–34, 38, 39) and ss. 40-50: 20 Sept 1991 
 Part 8 (ss. 35–37): 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
 S. 51: 23 Feb 1992 
 Remainder: Royal Assent</div>
@@ -1465,7 +1461,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
 <thead>
   <tr>
     <td>
-      <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+      <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
     </td>
     <td>
       <div>144, 2008</div>
@@ -1480,30 +1476,13 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
       <div>Sch. 2 (item 42) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 5 (items 71, 72): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Crimes Legislation Amendment Act 1992_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows:
 
                  (6)   The amendment made by this Act to the _Crimes Legislation Amendment Act 1992_ is taken to have commenced on 8 January 1993 immediately after the commencement of section 34 of that Act.
 
-_(b)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by the Schedule (Parts 1 and 5) of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
+_(b)_    The _Crimes (Superannuation Benefits) Act 1989_ was amended by the Schedule (Parts 1 and 5) of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
@@ -1585,7 +1564,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008; No. 5, 2011</div>
+    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1657,7 +1636,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 20, 1997; No. 5, 2011</div>
+    <div>am. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1729,7 +1708,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr></table>
 
@@ -1737,7 +1716,8 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
 
 ### Application, saving or transitional provisions
 
-_Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)_
+_Australian Federal Police Legislation Amendment Act 2000 
+ (No. 9, 2000)_
 
 ## Schedule 3
 
@@ -1765,9 +1745,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -1805,7 +1785,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 2
 
