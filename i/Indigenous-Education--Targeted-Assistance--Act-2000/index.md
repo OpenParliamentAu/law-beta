@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00262/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00082/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 3 July 2008
- taking into account amendments up to Act No. 47 of 2008
+This compilation was prepared on 26 March 2008
+ taking into account amendments up to Act No. 4 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -584,7 +584,7 @@ Appropriations—starting amounts
     <div>4</div>
   </td>
   <td>
-    <div>$277,260,000</div>
+    <div>$268,907,000</div>
   </td>
   <td>
     <div>1 January 2008</div>
@@ -815,23 +815,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Education (Targeted Assistance) Amendment (2008 Budget Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>47, 2008</div>
-  </td>
-  <td>
-    <div>25 June 2008</div>
-  </td>
-  <td>
-    <div>25 June 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1032,7 +1015,7 @@ Part 3</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 149, 2005; No. 142, 2006; Nos. 77 and 176, 2007; Nos. 4 and 47, 2008</div>
+    <div>am. No. 149, 2005; No. 142, 2006; Nos. 77 and 176, 2007; No. 4, 2008</div>
   </td>
 </tr>
 <tr>
