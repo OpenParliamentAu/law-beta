@@ -1,132 +1,131 @@
-![](http://www.comlaw.gov.au/Details/C2004C02962/Html/CwlthServDelAgency97_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02961/Html/CwlthServDelAge97_image001.gif)
 
 # Commonwealth Services Delivery Agency Act 1997
 
-**Act No. 31 of 1997 as amended**
+**Act No. 31 of 1997 as amended**
 
-This compilation was prepared on 7 May 2003
- taking into account amendments up to Act No. 30 of 2003
+This compilation was prepared on 17 October 2001
+ taking into account amendments up to Act No. 137 of 2001
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[2A](#2A).         Application of the _Criminal Code_
+[2A](#2A).         Application of the _Criminal Code_                                                       1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Act binds the Crown
+[4](#4).            Act binds the Crown                                                                           2
 
-[5](#5).            External Territories
+[5](#5).            External Territories                                                                              2
 
-**Part 2—Establishment, functions and powers of the Agency**
+**Part 2—Establishment, functions and powers of the Agency**
 
-[6](#6).            Establishment of Agency
+[6](#6).            Establishment of Agency                                                                     3
 
-[7](#7).            Service arrangements
+[7](#7).            Service arrangements                                                                            3
 
-[8](#8).            The Agency’s functions
+[8](#8).            The Agency’s functions                                                                      3
 
-[9](#9).            Ministerial directions about the performance of the Agency’s functions
+[9](#9).            Ministerial directions about the performance of the Agency’s functions                 4
 
-[10](#10).          Minister must consult the Board before giving directions
+[10](#10).          Minister must consult the Board before giving directions                   4
 
-**Part 3—The Board of Management of the Agency** 
+**Part 3—The Board of Management of the Agency** 
 
-    **Division 1—Establishment, functions, powers and duties**
+    **Division 1—Establishment, functions, powers and duties**
 
-[11](#11).          Establishment
+[11](#11).          Establishment                                                                                      5
 
-[12](#12).          The Board’s functions and powers
+[12](#12).          The Board’s functions and powers                                                     5
 
-[13](#13).          Ministerial directions to the Board
+[13](#13).          Ministerial directions to the Board                                                      5
 
-[14](#14).          Notification of policies
+[14](#14).          Notification of policies                                                                        5
 
-[15](#15).          Minister may ask for information
+[15](#15).          Minister may ask for information                                                       6
 
-[16](#16).          Membership of the Board
+[16](#16).          Membership of the Board                                                                   6
 
-[17](#17).          Acting Chairman
+[17](#17).          Acting Chairman                                                                                  6
 
-[18](#18).          Delegation by the Board
+[18](#18).          Delegation by the Board                                                                      7
 
-[19](#19).          Delegation by the Chairman
+[19](#19).          Delegation by the Chairman                                                                7
 
-    **Division 2—Meetings**
+    **Division 2—Meetings**
 
-[20](#20).          Meetings
+[20](#20).          Meetings                                                                                              8
 
-[21](#21).          Disclosure of interests
+[21](#21).          Disclosure of interests                                                                         8
 
-[22](#22).          Procedure at meetings
+[22](#22).          Procedure at meetings                                                                          9
 
-    **Division 3—Administrative provisions**
+    **Division 3—Administrative provisions**
 
-[23](#23).          Period of appointment of certain members
+[23](#23).          Period of appointment of certain members                                       10
 
-[24](#24).          Remuneration and allowances of certain appointed members
+[24](#24).          Remuneration and allowances of certain appointed members           10
 
-[25](#25).          Outside employment
+[25](#25).          Outside employment                                                                         10
 
-[26](#26).          Resignation
+[26](#26).          Resignation                                                                                        10
 
-[27](#27).          Terms and conditions not provided for by Act
+[27](#27).          Terms and conditions not provided for by Act                                 10
 
-[28](#28).          Termination of appointment
+[28](#28).          Termination of appointment                                                             11
 
-**Part 4—The Chief Executive Officer and employees** 
+**Part 4—The Chief Executive Officer and employees** 
 
-    **Division 1—The Chief Executive Officer**
+    **Division 1—The Chief Executive Officer**
 
-[29](#29).          Appointment
+[29](#29).          Appointment                                                                                     12
 
-[30](#30).          Terms and conditions and termination of appointment
+[30](#30).          Terms and conditions and termination of appointment                    12
 
-[31](#31).          Acting Chief Executive Officer
+[31](#31).          Acting Chief Executive Officer                                                          13
 
-[32](#32).          Duties
+[32](#32).          Duties                                                                                                13
 
-[33](#33).          Delegation by Chief Executive Officer
+[33](#33).          Delegation by Chief Executive Officer                                              13
 
-[34](#34).          Resignation
+[34](#34).          Resignation                                                                                        13
 
-    **Division 2—Staff and consultants**
+    **Division 2—Staff and consultants**
 
-[35](#35).          Staff
+[35](#35).          Staff                                                                                                   14
 
-[36](#36).          Services of certain officers etc  to be made available to Agency
+[36](#36).          Services of certain officers etc  to be made available to Agency        14
 
-[37](#37).          Consultants
+[37](#37).          Consultants                                                                                        14
 
-**Part 5—Miscellaneous**
+**Part 5—Miscellaneous**
 
-[38](#38).          Use of protected names and symbols
+[38](#38).          Use of protected names and symbols                                                15
 
-[39](#39).          Application of the _Audit Act 1901_
+[39](#39).          Application of the _Audit Act 1901_                                                     16
 
-[40](#40).          Annual report
+[40](#40).          Annual report                                                                                    17
 
-[41](#41).          Regulations
+[41](#41).          Regulations                                                                                        17
 
 **Notes** 
 
+ 
+
 ## An Act to establish an agency for the provision of certain Commonwealth services, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -134,7 +133,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="2"></a>2  Commencement
 
-                   This Act commences on 1 July 1997.
+                   This Act commences on 1 July 1997.
 
 ##### <a id="2A"></a>2A  Application of the _Criminal Code_
 
@@ -146,7 +145,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="agenc"></a>**_Agency_** means the body called the Commonwealth Services Delivery Agency established by this Act.
 
-                    <a name="appointed-member"></a>**_appointed member_** means a member of the Board appointed by the Minister under section 16, except a member who is the principal officer of a Commonwealth authority.
+                    <a name="appointed-member"></a>**_appointed member_** means a member of the Board appointed by the Minister under section 16, except a member who is the principal officer of a Commonwealth authority.
 
                     <a name="benefit"></a>**_benefit_** includes:
 
@@ -166,7 +165,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="commonwealth-servic"></a>**_Commonwealth service_** means a service, benefit, program or facility for some or all members of the public that is provided for by the Commonwealth, whether under an enactment or otherwise.
 
-                    <a name="employe"></a>**_employee_** means a member of the Agency’s staff referred to in subsection 35(1).
+                    <a name="employe"></a>**_employee_** means a member of the Agency’s staff referred to in subsection 35(1) or employed under subsection 35(3).
 
                     <a name="enact"></a>**_enactment_** means:
 
@@ -182,7 +181,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  for any other Commonwealth authority—the person identified by the regulations as the principal officer of the authority.
 
-                    <a name="servic-arrang"></a>**_service arrangements_** means arrangements entered into under section 7.
+                    <a name="servic-arrang"></a>**_service arrangements_** means arrangements entered into under section 7.
 
 ##### <a id="4"></a>4  Act binds the Crown
 
@@ -194,7 +193,7 @@ Prepared by the Office of Legislative Drafting,
 
                    This Act extends to the Territory of Cocos (Keeling) Islands and to the Territory of Christmas Island.
 
-## Part 2—Establishment, functions and powers of the Agency
+## Part 2—Establishment, functions and powers of the Agency
 
 ##### <a id="6"></a>6  Establishment of Agency
 
@@ -230,7 +229,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (d)  doing anything incidental, conducive or related to the performance of any of its other functions.
 
-             (2)  A direction under paragraph (1)(c) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (2)  A direction under paragraph (1)(c) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="9"></a>9  Ministerial directions about the performance of the Agency’s functions
 
@@ -242,15 +241,15 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="10"></a>10  Minister must consult the Board before giving directions
 
-             (1)  The Minister must, before giving a direction under paragraph 8(1)(c) or section 9, by written notice given to the Chairman, ask the Board for its written advice or comments on the impact of the proposed direction on the Agency’s operations.
+             (1)  The Minister must, before giving a direction under paragraph 8(1)(c) or section 9, by written notice given to the Chairman, ask the Board for its written advice or comments on the impact of the proposed direction on the Agency’s operations.
 
              (2)  The Minister must, in giving a direction, have regard to any advice or comments given under this section in relation to the direction.
 
              (3)  If the Minister gives a direction, particulars of any advice or comments given under this section in relation to the direction must be included in the annual report for the Agency for the financial year in which the direction was given.
 
-## Part 3—The Board of Management of the Agency
+## Part 3—The Board of Management of the Agency
 
-### Division 1—Establishment, functions, powers and duties
+### Division 1—Establishment, functions, powers and duties
 
 ##### <a id="11"></a>11  Establishment
 
@@ -300,7 +299,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (c)  at least 4 other members.
 
-             (2)  At least 2 of the members mentioned in paragraph (1)(c) must be persons who are not principal officers of Commonwealth authorities.
+             (2)  At least 2 of the members mentioned in paragraph (1)(c) must be persons who are not principal officers of Commonwealth authorities.
 
              (3)  The members, except the Chief Executive Officer, are to be appointed by the Minister.
 
@@ -340,7 +339,7 @@ Prepared by the Office of Legislative Drafting,
 
                    The Chairman may, in writing, delegate to the Chief Executive Officer or an employee all or any of the functions or powers of the Chairman.
 
-### Division 2—Meetings
+### Division 2—Meetings
 
 ##### <a id="20"></a>20  Meetings
 
@@ -380,7 +379,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  must not take part in any decision of the Board on the matter.
 
-             (4)  For the purposes of any determination being made under subsection (3), a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates:
+             (4)  For the purposes of any determination being made under subsection (3), a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates:
 
                      (a)  must not be present during any deliberation by the Board on whether to make the determination; and
 
@@ -390,7 +389,7 @@ Prepared by the Office of Legislative Drafting,
 
                    Subject to this Part, the Board may regulate proceedings at its meetings as it thinks appropriate.
 
-### Division 3—Administrative provisions
+### Division 3—Administrative provisions
 
 ##### <a id="23"></a>23  Period of appointment of certain members
 
@@ -426,7 +425,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (a)  becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors, or makes an assignment of his or her remuneration for their benefit; or
 
-                     (b)  without reasonable excuse, contravenes section 21; or
+                     (b)  without reasonable excuse, contravenes section 21; or
 
                      (c)  is absent, without reasonable excuse, from 3 consecutive meetings of the Board; or 
 
@@ -436,9 +435,9 @@ the Minister must terminate the member’s appointment.
 
              (3)  If a member who is the principal officer of a Commonwealth authority stops being the principal officer of the authority, he or she stops being a member.
 
-## Part 4—The Chief Executive Officer and employees
+## Part 4—The Chief Executive Officer and employees
 
-### Division 1—The Chief Executive Officer
+### Division 1—The Chief Executive Officer
 
 ##### <a id="29"></a>29  Appointment
 
@@ -452,7 +451,7 @@ the Minister must terminate the member’s appointment.
 
              (1)  The Chief Executive Officer holds office on terms and conditions, including remuneration and allowances, determined by the Board in writing.
 
-             (2)  The Board must not make a determination under subsection (1) before it has obtained advice from the Remuneration Tribunal in relation to the terms and conditions, including remuneration and allowances, on which the Chief Executive Officer is to hold office.
+             (2)  The Board must not make a determination under subsection (1) before it has obtained advice from the Remuneration Tribunal in relation to the terms and conditions, including remuneration and allowances, on which the Chief Executive Officer is to hold office.
 
              (3)  Particulars of any advice obtained from the Remuneration Tribunal under this section in a financial year must be included in the annual report for the Agency for that year.
 
@@ -494,7 +493,7 @@ the Minister must terminate the member’s appointment.
 
                    The Chief Executive Officer may resign by giving the Chairman a written resignation.
 
-### Division 2—Staff and consultants
+### Division 2—Staff and consultants
 
 ##### <a id="35"></a>35  Staff
 
@@ -516,7 +515,7 @@ the Minister must terminate the member’s appointment.
 
              (2)  The terms and conditions of engagement are to be determined by the Chief Executive Officer.
 
-## Part 5—Miscellaneous
+## Part 5—Miscellaneous
 
 ##### <a id="38"></a>38  Use of protected names and symbols
 
@@ -544,7 +543,7 @@ either:
 
           (1A)  Subsection (1) is an offence of strict liability.
 
-             (2)  Subsection (1), so far as it applies in relation to a particular protected name or the protected symbol, does not affect rights conferred by law on a person in relation to:
+             (2)  Subsection (1), so far as it applies in relation to a particular protected name or the protected symbol, does not affect rights conferred by law on a person in relation to:
 
                      (a)  a trade mark that is a registered trade mark for the purposes of the _Trade Marks Act 1995_; or
 
@@ -592,9 +591,9 @@ that was so registered at the protection time in relation to the name or symbol.
 
 ##### <a id="40"></a>40  Annual report
 
-             (1)  The Chairman must, as soon as practicable after 30 June in each year, prepare and give the Minister a report of the operations of the Agency during the year that ended on that 30 June.
+             (1)  The Chairman must, as soon as practicable after 30 June in each year, prepare and give the Minister a report of the operations of the Agency during the year that ended on that 30 June.
 
-             (2)  The Minister must cause a copy of each report under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
+             (2)  The Minister must cause a copy of each report under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
 ##### <a id="41"></a>41  Regulations
 
@@ -608,9 +607,9 @@ that was so registered at the protection time in relation to the name or symbol.
 
 ### Note 1
 
-The _Commonwealth Services Delivery Agency Act 1997_ as shown in this compilation comprises Act No. 31, 1997 amended as indicated in the Tables below.
+The _Commonwealth Services Delivery Agency Act 1997_ as shown in this compilation comprises Act No. 31, 1997 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -655,7 +654,7 @@ of Assent</div>
     <div>17 Apr 1997</div>
   </td>
   <td>
-    <div>1 July 1997</div>
+    <div>1 July 1997</div>
   </td>
   <td>
     <div></div>
@@ -672,7 +671,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 325–327): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 325-327): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -694,34 +693,19 @@ of Assent</div>
   <td>
     <div>S. 4</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>30, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
-_(a)_     The _Commonwealth Services Delivery Agency Act 1997_ was amended by Schedule 1 (items 325–327) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(a)_     The _Commonwealth Services Delivery Agency Act 1997_ was amended by Schedule 1 (items 325-327) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+                  (2)   Subject to this section, this Act commences at the commencing time.
 
 ## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
@@ -729,35 +713,28 @@ _(a)_     The _Commonwealth Services Delivery Agency Act 1997_ was amend
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 2A</div>
-    </td>
-    <td>
-      <div>ad. No. 137, 2001</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2A</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2001</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 30, 2003</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -765,7 +742,7 @@ _(a)_     The _Commonwealth Services Delivery Agency Act 1997_ was amend
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 146, 1999</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -773,15 +750,17 @@ _(a)_     The _Commonwealth Services Delivery Agency Act 1997_ was amend
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 137, 2001</div>
+    <div>am. No. 137, 2001</div>
   </td>
 </tr></table>
+
+ 
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
+_Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
