@@ -1,422 +1,582 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="AE4240B7C4B8DE09CA256FB60000D987/$FILE/image001.png"></v:imagedata></v:shape>
+**
 
-# General Insurance Supervisory Levy Imposition Act 1998
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998 
+**
 
-**Act No. 56 of 1998 as amended**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="25" month="2">25 February 2005</st1:date>
-taking into account amendments up to Act No. 15 of 2005
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+**
 
+###  Contents 
+**
+Insurance Act 1973
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _General Insurance Supervisory Levy Imposition Act 1998_.
 
-# Contents
+ 
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.</dd> <dt>(2)</dt><dd>If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations. </dd> 
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 3  Act binds the Crown 
+This Act binds the Crown in each of its capacities.
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
+ 
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 4  External Territories 
+This Act extends to each external Territory.
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
+ 
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 5  Application of Act to Lloyd's 
+<dt>(1)</dt><dd>This Act applies to Lloyd's (within the meaning of section 3 of the
 
-[3](#3).            Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                           </span>
+_Insurance Act 1973_), at all times after the commencement of this Act, as
 
-[4](#4).            External Territories<span style="mso-tab-count: 1 dotted">                                                                              </span>
+if Lloyd's were a body corporate authorised under that Act to carry on
 
-[5](#5).            Application of Act to Lloyd’s<span style="mso-tab-count: 1 dotted">                                                            </span>
+insurance business.</dd> <dt>(2)</dt><dd>For the purpose of this Act, Lloyd's assets, at a particular time, are taken to be the amounts standing to the credit of all designated security trust funds (within the meaning of Part VII of the _Insurance Act 1973_) at that time.</dd> <dt>(3)</dt><dd>Nothing in this Act imposes levy on any Lloyd's underwriter. </dd> 
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 6  Definitions 
+In this Act, unless the contrary intention appears:
 
-[6](#6).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+ 
+<dl compact=""><dl compact="">
 
-[7](#7).            Imposition of general insurance supervisory levy<span style="mso-tab-count: 1 dotted">                               </span>
+_general insurance company_ means a body corporate that is
 
-[8](#8).            Amount of levy<span style="mso-tab-count: 1 dotted">                                                                                   </span>
+authorised under the _Insurance Act 1973_ to carry on insurance business
 
-[9](#9).            Calculation of indexation factor<span style="mso-tab-count: 1 dotted">                                                           </span>
+within the meaning of that Act. _indexation factor_ means the indexation factor calculated under section 9\. _index number_, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter. _levy imposition day_, in relation to a general insurance company for a financial year, means:  </dl></dl>
 
-[10](#10).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                              </span>**
+<dt>(a)</dt><dd>if the general insurance company is a general insurance company on 1 July
 
-<o:p> </o:p>
+of the financial year&#151;that day; or</dd>
 
-<o:p> </o:p>
+<dt>(b)</dt><dd>in any other case&#151;the day, during the financial year, on which the
 
+general insurance company becomes a general insurance company.
 
-## An Act to impose a levy on bodies to which the _Insurance Act 1973_ applies
+</dd>
 
-##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
+</dl></dl></dl>
 
-                   This Act may be cited as the _General Insurance Supervisory Levy Imposition Act 1998_.
+<center>Back to Top</center>
 
-##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
+<def><dl compact=""><dl compact="">
 
-             (1)  This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+_statutory upper limit_ means:
 
-             (2)  If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations.
+ </dl></dl>
 
-##### <a id="3"></a>3  Act binds the Crown
+<dl compact=""><dl compact=""><dl compact="">
 
-                   This Act binds the Crown in each of its capacities.
+<dt>(a)</dt><dd>in relation to the first financial year that ends after this Act
 
-##### <a id="4"></a>4  <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>External</st1:placename> <st1:placetype>Territories</st1:placetype></st1:place>
+commences&#151;$500,000; or</dd>
 
-                   This Act extends to each external Territory.
+<dt>(b)</dt><dd>in relation to a later financial year&#151;the amount calculated by
 
-##### <a id="5"></a>5  Application of Act to Lloyd’s
+multiplying the statutory upper limit for the previous financial year by the
 
-             (1)  This Act applies to Lloyd’s (within the meaning of section 3 of the _Insurance Act 1973_), at all times after the commencement of this Act, as if Lloyd’s were a body corporate authorised under that Act to carry on insurance business.
+indexation factor for the later financial year.
 
-             (2)  For the purpose of this Act, Lloyd’s assets, at a particular time, are taken to be the amounts standing to the credit of all designated security trust funds (within the meaning of Part VII of the _Insurance Act 1973_) at that time.
+</dd>
 
-             (3)  Nothing in this Act imposes levy on any Lloyd’s underwriter.
+</dl></dl></dl>
 
-##### <a id="6"></a>6  Definitions
+**
 
-                   In this Act, unless the contrary intention appears:
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 7  Imposition of general insurance supervisory levy 
+**
 
-                    <a name="gener-insur-compani"></a>**_general insurance company_** means a body corporate that is authorised under the _Insurance Act 1973_ to carry on insurance business within the meaning of that Act.
+ <dl compact="">
 
-                    <a name="index-factor"></a>**_indexation factor_** means the indexation factor calculated under section 9.
+		Levy payable in accordance with subsection 8(3) of the _Financial Institutions Supervisory Levies Collection Act 1998_ is imposed.
 
-                    <a name="index-number"></a>**_index number_**, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.
+ </dl>
 
-                    <a name="levi-imposit-dai"></a>**_levy imposition day_**, in relation to a general insurance company for a financial year, means:
+**
 
-                     (a)  if the general insurance company is a general insurance company on 1 July of the financial year—that day; or
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 8  Amount of levy 
+**
 
-                     (b)  in any other case—the day, during the financial year, on which the general insurance company becomes a general insurance company.
+ <dl compact="">
 
-                    <a name="statutori-upper-limit"></a>**_statutory upper limit_** means:
+<dt>(1)</dt><dd>Subject to subsection (2), the amount of levy payable by a general
 
-                     (a)  in relation to the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>—$1,500,000; or
+insurance company for a financial year is:
 
-                     (b)  in relation to a later financial year—the amount calculated by multiplying the statutory upper limit for the previous financial year by the indexation factor for the later financial year.
+</dd> </dl>
 
-##### <a id="7"></a>7  Imposition of general insurance supervisory levy
+<dl compact=""><dl compact=""><dl compact="">
 
-                   Levy payable in accordance with subsection 8(3) of the _Financial Institutions Supervisory Levies Collection Act 1998_ is imposed.
+<dt>(a)</dt><dd>unless paragraph (b) or (c) applies&#151;the amount that, for the financial
 
-##### <a id="8"></a>8  Amount of levy
+year, is the levy percentage of the general insurance company's asset value;
 
-             (1)  Subject to subsection (2), the amount of levy payable by a general insurance company for a financial year is the sum of the restricted levy component and the unrestricted levy component for the financial year.
+or</dd>
 
-Note:          For **_restricted levy component_**, see subsection (1A). For **_unrestricted levy component_**, see subsection (1B).
+<dt>(b)</dt><dd>if the amount worked out under paragraph (a) exceeds the maximum levy
 
-          (1A)  The **_restricted levy_** **_component_** for the financial year is:
+amount for the financial year&#151;the maximum levy amount; or</dd>
 
-                     (a)  unless paragraph (b) or (c) applies—the amount that, for the financial year, is the restricted levy percentage of the general insurance company’s asset value; or
+<dt>(c)</dt><dd>if the amount worked out under paragraph (a) is less than the minimum levy
 
-                     (b)  if the amount worked out under paragraph (a) exceeds the maximum restricted levy amount for the financial year—the maximum restricted levy amount; or
+amount for the financial year&#151;the minimum levy amount.
 
-                     (c)  if the amount worked out under paragraph (a) is less than the minimum restricted levy amount for the financial year—the minimum restricted levy amount.
+</dd>
 
-Note:          The restricted levy percentage, maximum restricted levy amount, minimum restricted levy amount and the method of working out the general insurance company’s asset value are as determined under subsection (3).
+</dl></dl></dl>
 
-          (1B)  The **_unrestricted levy_** **_component_** for the financial year is the amount that, for the financial year, is the unrestricted levy percentage of the general insurance company’s asset value.
+<dl compact=""><dl compact="">
 
-Note:          The unrestricted levy percentage is as determined under subsection (3).
+Note:	The levy percentage, maximum levy amount, minimum levy
 
-             (2)  If the levy imposition day for the general insurance company for the financial year is later than 1 July in the financial year, the amount of levy payable by the general insurance company for the financial year is the amount worked out using the following formula:
+amount and the method of working out the general insurance company's asset
 
-<sub><v:shape id="_x0000_i1026" style="WIDTH: 285.75pt; HEIGHT: 59.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="AE4240B7C4B8DE09CA256FB60000D987/$FILE/image003.wmz"></v:imagedata></v:shape></sub>
+value, are as determined under subsection (3).
 
-             (3)  The Treasurer is, in writing, to determine:
+ </dl></dl>
 
-                     (a)  the **_maximum restricted levy_** **_amount_** for each financial year; and
+<dl compact="">
 
-                     (b)  the **_minimum restricted levy amount_** for each financial year; and
+<dt>(2)</dt><dd>If the levy imposition day for the general insurance company for the
 
-                     (c)  the **_restricted levy percentage_** for each financial year; and
+financial year is later than 1 July in the financial year, the amount of levy
 
-                    (ca)  the **_unrestricted levy percentage_** for each financial year; and
+payable by the general insurance company for the financial year is the amount
 
-                     (d)  how a **_general insurance company’s asset value_** is to be worked out.
+worked out using the following formula:
 
-             (4)  An amount determined under subsection (3) as the maximum restricted levy amount must not exceed the statutory upper limit as at the time when the determination is made.
+</dd> </dl>
 
-             (5)  The Treasurer’s determination under paragraph (3)(d) of how a general insurance company’s asset value is to be worked out is to include, but is not limited to, a determination of the day as at which the general insurance company’s asset value is to be worked out. That day must be:
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00964/Html/8A397A0080DF0393CA256F7100521A82/$FILE/1202.gif)</sub>
 
-                     (a)  if the general insurance company was a general insurance company at all times from and including 17 March of the previous financial year to and including the following 30 June—a day in the period from and including that 17 March to and including the following 14 April; or
+<dl compact="">
 
-                     (b)  if the general insurance company was not a general insurance company at all times from and including 17 March of the previous financial year to and including the following 30 June—the day after that 17 March when the general insurance company became, or becomes, a general insurance company.
+<dt>(3)</dt><dd>The Treasurer is, in writing, to determine:
 
-             (6)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+</dd> </dl>
 
-##### <a id="9"></a>9  Calculation of indexation factor
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The indexation factor for a financial year is the number worked out by:
+<dt>(a)</dt><dd>the _maximum levy amount_ for each financial year; and</dd>
 
-                     (a)  dividing the index number for the March quarter immediately preceding that financial year by the index number for the March quarter immediately preceding that first-mentioned March quarter; and
+<dt>(b)</dt><dd>the _minimum levy amount_ for each financial year; and</dd>
 
-                     (b)  adding 0.030 to the number worked out under paragraph (a).
+<dt>(c)</dt><dd>the _levy percentage_ for each financial year; and</dd>
 
-             (2)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the 4th decimal place is more than 4.
+<dt>(d)</dt><dd>how a _general insurance company&apos;s asset value_ is to be
 
-             (3)  Calculations under paragraph (1)(a):
+worked out.
 
-                     (a)  are to be made using only the index numbers published in terms of the most recently published reference base for the Consumer Price Index; and
+</dd>
 
-                     (b)  are to be made disregarding index numbers that are published in substitution for previously published index numbers (except where the substituted numbers are published to take account of changes in the reference base).
+</dl></dl></dl>
 
-##### <a id="10"></a>10  Regulations
+<dl compact="">
 
-                   The Governor-General may make regulations for the purposes of subsection 2(2).
+<dt>(4)</dt><dd>An amount determined under subsection (3) as the maximum levy amount must
 
+not exceed the statutory upper limit as at the time when the determination is
 
-# Notes to the _<span style="mso-no-proof: yes">General Insurance Supervisory Levy Imposition Act 1998</span>_
+made.</dd> <dt>(5)</dt><dd>The Treasurer's determination under paragraph (3)(d) of how a general insurance company's asset value is to be worked out is to include, but is not limited to, a determination of the day as at which the general insurance company's asset value is to be worked out. That day must be: </dd> </dl>
 
-### Note 1
+<dl compact=""><dl compact=""><dl compact="">
 
-The _General Insurance Supervisory Levy Imposition Act 1998_ as shown in this compilation comprises Act No. 56, 1998 amended as indicated in the Tables below.
+<dt>(a)</dt><dd>if the general insurance company was a general insurance company at all
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+times from and including 17 March of the previous financial year to and
 
-### Table of Acts
+including the following 30 June&#151;a day in the period from and including that 17
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+March to and including the following 14 April; or</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year 
-   <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
-   <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Date of commencement  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>General Insurance Supervisory Levy Imposition Act 1998</div>
-    </td>
-    <td>
-      <div>56, 1998</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="29" month="6">29 June 1998</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="7">1 July 1998</st1:date> <i style="mso-bidi-font-style: normal">(a)</i></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
-    </td>
-    <td>
-      <div>44, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="17" month="6">17 June 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 6 (item 20): Royal Assent <i style="mso-bidi-font-style: normal">(b) 
-
- </i>Schedule 8: Royal Assent <i style="mso-bidi-font-style: normal">(b)</i></div>
-    </td>
-    <td>
-      <div>Sch. 8 (items 22, 23)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>General Insurance Supervisory Levy ImpositionAmendment Act 2005</div>
-    </td>
-    <td>
-      <div>15, 2005</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 7)</div>
-    </td>
-  </tr>
-</tbody></table>
+<dt>(b)</dt><dd>if the general insurance company was not a general insurance company at
 
+all times from and including 17 March of the previous financial year to and
 
-_(a)_     Section 2 of the _General Insurance Supervisory Levy Imposition Act 1998_ provides as follows:
+including the following 30 June&#151;the day after that 17 March when the general
 
-              (1)<span style="mso-tab-count: 1">   </span>This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.<o:p></o:p>
+insurance company became, or becomes, a general insurance company.
 
-<span style="mso-tab-count: 1">                  </span>(2)<span style="mso-tab-count: 1">   </span>If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations.<o:p></o:p>
+</dd>
 
-_(b)_    The _General Insurance Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 20) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
+</dl></dl></dl>
 
-<span style="mso-tab-count: 1">                  </span>(1)<span style="mso-tab-count: 1">   </span>Subject to this section, this Act commences on the day on which it receives the Royal Assent.<o:p></o:p>
+<center>Back to Top</center>
 
+<dl compact="">
 
-## Table of Amendments
+<dt>(6)</dt><dd>A determination under subsection (3) is a disallowable instrument for the
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 6 <span style="mso-tab-count: 1 dotted"></span> <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>am. No. 15, 2005 <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8 <span style="mso-tab-count: 1 dotted"></span> <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>am. No. 15, 2005 <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9 <span style="mso-tab-count: 1 dotted"></span> <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>am. No. 44, 1999; No. 15, 2005 <o:p></o:p> </div>
-    </td>
-  </tr>
-</tbody></table>
+</dd> </dl>
 
+**
 
-## Table A
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 9  Calculation of indexation factor 
+**
 
-### Application, saving or transitional provisions
+ <dl compact="">
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No 1) 1999 (No. 44, 1999)<o:p></o:p>_
+<dt>(1)</dt><dd>The indexation factor for a financial year is the number worked out by
 
-## Schedule 8
+dividing the index number for the March quarter immediately preceding that
 
-## 22<span style="mso-spacerun: yes">  </span>Regulations may deal with transitional, saving or application matters
+financial year by the index number for the March quarter immediately preceding
 
-(1)<span style="mso-tab-count: 1">        </span>The regulations may deal with matters of a transitional, saving or application nature relating to:
+that first-mentioned March quarter.</dd> <dt>(2)</dt><dd>The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the 4th decimal place is more than 4.</dd> <dt>(3)</dt><dd>Calculations under subsection (1): </dd> </dl>
 
-<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
+<dl compact=""><dl compact=""><dl compact="">
 
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the transition, for The Cairns Cooperative Weekly Penny Savings Bank Limited, from the application of provisions of the _Financial Intermediaries Act 1996_ of Queensland to the application of provisions of any of the Acts referred to in paragraph (a); or
+<dt>(a)</dt><dd>are to be made using only the index numbers published in terms of the most
 
-<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>the amendments and repeals made by the Schedules to this Act.
+recently published reference base for the Consumer Price Index; and</dd>
 
-(2)<span style="mso-tab-count: 1">        </span>Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+<dt>(b)</dt><dd>are to be made disregarding index numbers that are published in
 
-<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>by applying (with or without modifications) to the matter:
+substitution for previously published index numbers (except where the
 
-<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>provisions of a law of the Commonwealth, or of a State or Territory; or
+substituted numbers are published to take account of changes in the reference
 
-<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>provisions of a repealed or amended law of the Commonwealth, or of a State or Territory, in the form that those provisions took before the repeal or amendment; or
+base).
 
-<span style="mso-tab-count: 1">                            </span>(iii)<span style="mso-tab-count: 1">  </span>a combination of provisions referred to in subparagraphs (i) and (ii);
+</dd>
 
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>by otherwise specifying rules for dealing with the matter;
+</dl></dl></dl>
 
-<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
+**
 
-(3)<span style="mso-tab-count: 1">        </span>Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+###  GENERAL INSURANCE SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 10  Regulations 
+**
 
-(4)<span style="mso-tab-count: 1">        </span>Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+ <dl compact="">
 
-<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
+		The Governor-General may make regulations for the purposes of subsection 2(2).
 
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the purpose for which a thing done or instrument made, or a class of things done or instruments made, is to continue to have effect;
+ </dl>
 
-<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
+<center>**
 
-(5)<span style="mso-tab-count: 1">        </span>Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+###  <centreit>Notes to the _General Insurance Supervisory Levy Imposition Act 1998_ </centreit>
+**</center>
 
-<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
+Note 1
 
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
+The _General Insurance Supervisory Levy Imposition Act 1998_ as shown in this consolidation comprises Act No. 56, 1998 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-(6)<span style="mso-tab-count: 1">        </span>In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+Table of Acts 
 
-(7)<span style="mso-tab-count: 1">        </span>In this item:
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
 
-                    <a name="replac-legisl"></a>**_replaced legislation_** means:
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>the AFIC Codes; and
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the Financial Institutions Codes; and
+  </td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
 
-<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>the Friendly Societies Codes; and
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-<span style="mso-tab-count: 1">                     </span>(d)<span style="mso-tab-count: 1">  </span>the _Australian Financial Institutions Commission Act 1992_ of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 21 of the _Australian Financial Institutions Commission Act 1992_ of Queensland; and
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>General Insurance Supervisory Levy Imposition Act 1998</i></div>
 
-<span style="mso-tab-count: 1">                     </span>(e)<span style="mso-tab-count: 1">  </span>the _Financial Institutions (Queensland) Act 1992_ of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 30 of the _Financial Institutions (Queensland) Act 1992_ of Queensland; and
+  </td>
+  <td colspan="1" align="left">
+    <div>56, 1998</div>
 
-<span style="mso-tab-count: 1">                      </span>(f)<span style="mso-tab-count: 1">  </span>the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
+  </td>
+  <td colspan="1" align="left">
+    <div>29 June 1998</div>
 
-<span style="mso-tab-count: 1">                     </span>(g)<span style="mso-tab-count: 1">  </span>the _Friendly Societies (_<st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Western Australia_</st1:place></st1:state>_) Act 1999_; and
+  </td>
+  <td colspan="1" align="left">
+    <div>1 July 1998 <i>(a)</i></div>
 
-<span style="mso-tab-count: 1">                     </span>(h)<span style="mso-tab-count: 1">  </span>any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
+  </td>
+  <td colspan="1" align="left">
 
-## 23<span style="mso-spacerun: yes">  </span>Power to make regulations
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>44, 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>17 June 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 6 (item 20): Royal Assent <i>(b) 
+ </i>Schedule 8: Royal Assent <i>(b)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 8 (items 22, 23)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>
+
+<center>Back to Top</center>
+
+(a)	Section 2 of the _General Insurance Supervisory Levy Imposition Act 1998_ provides as follows:
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.</dd> <dt>(2)</dt><dd>If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations. </dd> </dl>
+
+(b)	The _General Insurance Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 20) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Subject to this section, this Act commences on the day on which it
+
+receives the Royal Assent.
+
+</dd> </dl>
+
+<center>**
+
+###  <centreit>Table of Amendments  </centreit>
+**</center>
+
+ <table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 9</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 44, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>Table A
+
+Application, saving or transitional provisions
+
+Financial Sector Reform (Amendments and Transitional Provisions) 
+Act (No&#160;1) 1999 (No. 44, 1999) Schedule
+ 8 
+22  Regulations may deal with transitional, saving or application matters (1)	The regulations may deal with matters of a transitional, saving or application nature relating to:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transition from the application of provisions of the replaced
+
+legislation to the application of provisions of the _Banking Act 1959_,
+
+the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or
+
+the _Australian Prudential Regulation Authority Act 1998_; or</dd>
+
+<dt>(b)</dt><dd>the transition, for The Cairns Cooperative Weekly Penny Savings Bank
+
+Limited, from the application of provisions of the _Financial Intermediaries Act 1996_ of Queensland to the application of provisions of any of the Acts
+
+referred to in paragraph (a); or</dd>
+
+<dt>(c)</dt><dd>the amendments and repeals made by the Schedules to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+(2)	Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>by applying (with or without modifications) to the matter:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>provisions of a law of the Commonwealth, or of a State or Territory; or</dd>
+
+<dt>(ii)</dt><dd>provisions of a repealed or amended law of the Commonwealth, or of a
+
+State or Territory, in the form that those provisions took before the repeal or
+
+amendment; or</dd>
+
+<dt>(iii)</dt><dd>a combination of provisions referred to in subparagraphs (i) and (ii);
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>by otherwise specifying rules for dealing with the matter;</dd>
+
+<dt>(c)</dt><dd>by specifying a particular consequence of the matter, or of an outcome of
+
+the matter, for the purposes of a law of the Commonwealth.
+
+</dd>
+
+</dl></dl></dl>
+
+(3)	Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+ (4)	Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the identification of a thing done or instrument made, or a class of
+
+things done or instruments made, that is to continue to have effect;</dd>
+
+<dt>(b)</dt><dd>the purpose for which a thing done or instrument made, or a class of
+
+things done or instruments made, is to continue to have effect;</dd>
+
+<dt>(c)</dt><dd>any modifications subject to which an instrument made, or a class of
+
+instruments made, is to continue to have effect.
+
+</dd>
+
+</dl></dl></dl>
+
+(5)	Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>may be expressed to take effect from a date before the regulations are
+
+notified in the _Gazette_; and</dd>
+
+<dt>(b)</dt><dd>may provide for a determination of a kind referred to in subitem (4) to
+
+take effect from a date before the determination is made (including a date
+
+before the regulations are notified in the _Gazette_).
+
+</dd>
+
+</dl></dl></dl>
+
+(6)	In this item, a reference to a _law_, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+ (7)	In this item:
+
+<def><dl compact=""><dl compact="">
+
+_replaced legislation_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the AFIC Codes; and</dd>
+
+<dt>(b)</dt><dd>the Financial Institutions Codes; and</dd>
+
+<dt>(c)</dt><dd>the Friendly Societies Codes; and</dd>
+
+<dt>(d)</dt><dd>the _Australian Financial Institutions Commission Act 1992_ of
+
+Queensland, and any Act of another State or of a Territory that provides for
+
+the application, as a law of the State or Territory, of the Code set out in
+
+section 21 of the _Australian Financial Institutions Commission Act 1992_ of Queensland; and</dd>
+
+<dt>(e)</dt><dd>the _Financial Institutions (Queensland) Act 1992_ of Queensland, and
+
+any Act of another State or of a Territory that provides for the application,
+
+as a law of the State or Territory, of the Code set out in section 30 of the
+
+_Financial Institutions (Queensland) Act 1992_ of Queensland; and</dd>
+
+<dt>(f)</dt><dd>the Friendly Societies (Victoria) Act 1996 of Victoria, and any Act
+
+of another State or of a Territory that provides for the application, as a law
+
+of the State or Territory, of the Code set out in the Schedule to the
+
+Friendly Societies (Victoria) Act 1996 of Victoria; and</dd>
+
+<dt>(g)</dt><dd>the _Friendly Societies (Western Australia) Act 1999_; and</dd>
+
+<dt>(h)</dt><dd>any other law of a State or Territory prescribed by the regulations for
+
+the purposes of this definition.
+
+</dd>
+
+</dl></dl></dl>
+
+23  Power to make regulations
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
-* * *
+</def>
 
-_General Insurance Supervisory Levy Imposition Amendment Act 2005 
-(No. 15, 2005)<o:p></o:p>
-_
-
-## Schedule 1
-
-## 7  Application and transitional
-
-The amendments made by this Schedule apply in relation to levy payable for:
-
-                     (a)  the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>; and
-
-                     (b)  each succeeding financial year.
+</def>
 
 
-<o:p> </o:p>
