@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00539/Html/PrimaryIndLevChColl1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00461/Html/PrimaryIndLevChColl1991_WD02_image001.gif)
 
 # Primary Industries Levies and Charges Collection Act 1991
 
 **Act No. 25 of 1991 as amended**
 
-This compilation was prepared on 3 September 2007
+This compilation was prepared on 10 July 2007
  taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
@@ -18,77 +18,77 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Objects
+[3](#3).            Objects                                                                                                 1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       1
 
-[5](#5).            Act binds Crown
+[5](#5).            Act binds Crown                                                                               11
 
-[5A](#5A).         Application of the _Criminal Code_
+[5A](#5A).         Application of the _Criminal Code_                                                     11
 
-[6](#6).            When levy or charge due for payment
+[6](#6).            When levy or charge due for payment                                               11
 
-[7](#7).            Liability of intermediaries
+[7](#7).            Liability of intermediaries                                                                  11
 
-[8](#8).            Liability of intermediaries—ancillary provisions
+[8](#8).            Liability of intermediaries—ancillary provisions                              14
 
-[9](#9).            Liability of sellers of prescribed goods or services
+[9](#9).            Liability of sellers of prescribed goods or services                            16
 
-[10](#10).          Collection agreements with States and Territories
+[10](#10).          Collection agreements with States and Territories                            20
 
-[11](#11).          Collection agreements with collecting organisations
+[11](#11).          Collection agreements with collecting organisations                          21
 
-[12](#12).          Industry consultation
+[12](#12).          Industry consultation                                                                        23
 
-[13](#13).          Application of Financial Management and Accountability Act
+[13](#13).          Application of Financial Management and Accountability Act        24
 
-[14](#14).          Commonwealth not to discriminate or give preference
+[14](#14).          Commonwealth not to discriminate or give preference                     24
 
-[15](#15).          Penalty for late payment
+[15](#15).          Penalty for late payment                                                                   24
 
-[16](#16).          Remission of penalty
+[16](#16).          Remission of penalty                                                                         26
 
-[17](#17).          Recovery of levy, charge and other amounts
+[17](#17).          Recovery of levy, charge and other amounts                                     26
 
-[18](#18).          Refund of levy, charge etc 
+[18](#18).          Refund of levy, charge etc                                                                 27
 
-[19](#19).          Powers of authorised person in relation to premises
+[19](#19).          Powers of authorised person in relation to premises                        28
 
-[19A](#19A).       Offence of obstructing an authorised person acting under a warrant
+[19A](#19A).       Offence of obstructing an authorised person acting under a warrant 28
 
-[19B](#19B).       Persons to assist authorised person acting under a warrant
+[19B](#19B).       Persons to assist authorised person acting under a warrant              28
 
-[20](#20).          Warrant to enter premises
+[20](#20).          Warrant to enter premises                                                                 29
 
-[21](#21).          Retention and return of seized property
+[21](#21).          Retention and return of seized property                                           30
 
-[22](#22).          Identity cards
+[22](#22).          Identity cards                                                                                     30
 
-[23](#23).          Power to call for information
+[23](#23).          Power to call for information                                                             31
 
-[24](#24).          Offences in relation to returns etc 
+[24](#24).          Offences in relation to returns etc                                                     31
 
-[24A](#24A).       Offences in relation to weighing cattle carcases
+[24A](#24A).       Offences in relation to weighing cattle carcases                                 32
 
-[25](#25).          Conduct of directors, servants and agents
+[25](#25).          Conduct of directors, servants and agents                                         33
 
-[26](#26).          Appointment of authorised persons
+[26](#26).          Appointment of authorised persons                                                 35
 
-[27](#27).          Publishing of information
+[27](#27).          Publishing of information                                                                  35
 
-[28](#28).          Reconsideration and review of decisions
+[28](#28).          Reconsideration and review of decisions                                           36
 
-[29](#29).          Delegation by Secretary
+[29](#29).          Delegation by Secretary                                                                     38
 
-[29A](#29A).       Associated Acts do not authorise the imposition of a tax on property of a State
+[29A](#29A).       Associated Acts do not authorise the imposition of a tax on property of a State  38
 
-[30](#30).          Regulations
+[30](#30).          Regulations                                                                                        39
 
-[31](#31).          Orders
+[31](#31).          Orders                                                                                                40
 
 **Schedule 1—Acts that impose a charge** 
 
@@ -202,6 +202,12 @@ including, without limiting the generality of the foregoing, books or documents 
 
                     <a name="first-purchas"></a>**_first purchaser_** means a person who, in the course of carrying on a business, purchases collection products from the producers of the products (otherwise than through selling agents) but does not include prescribed persons who so purchase collection products for retail sale.
 
+                    <a name="forest-industri-levi-charg"></a>**_forest industries levy or charge_** means:
+
+                     (a)  levy imposed by Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_; or
+
+                     (b)  charge imposed by Schedule 7 or 8 to the _Primary Industries (Customs) Charges Act 1999_.
+
                     <a name="harvest"></a>**_harvest_** includes the removal of honey from a hive.
 
                     <a name="importing-agent"></a>**_importing agent_** means a person who, in the course of carrying on a business, imports collection products into Australia on behalf of other persons (whether or not the other persons are the owners of the products).
@@ -278,6 +284,8 @@ including, without limiting the generality of the foregoing, books or documents 
 
                      (d)  in the case of juicing fruit or processing fruit on which, in each case, levy is imposed or in the case of a product prescribed for the purposes of this paragraph—the person who produced the product by processing the product or another product; or
 
+                    (da)  in the case of logs within the meaning of Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_—the operator of the mill to which the logs were delivered; or
+
                      (e)  in the case of a product prescribed for the purposes of this paragraph—the person who, under the regulations, is to be taken to be the producer of the product; or
 
                       (f)  in the case of pigs in relation to which levy is imposed or in the case of such other animals as are prescribed for the purposes of this paragraph—the person who owns the animals at the time when the slaughter takes place; or
@@ -302,7 +310,7 @@ including, without limiting the generality of the foregoing, books or documents 
 
                     (ha)  in respect of fresh grapes, dried grapes or grape juice on which wine grapes levy is imposed—the person who is the owner of the product when the wine-making process (as defined by clause 1 of Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_) begins in relation to the product; or
 
-                      (j)  except where subsection (2), (2A) or (2B) applies, in the case of any other product—the grower or breeder of the product.
+                      (j)  except where subsection (2) applies, in the case of any other product—the grower or breeder of the product.
 
                     <a name="product"></a>**_product_** includes a thing occurring naturally.
 
@@ -347,12 +355,6 @@ including, without limiting the generality of the foregoing, books or documents 
                      (e)  a person who, under clause 5 of Schedule 18 to the _Primary Industries (Excise) Levies Act 1999_, is liable to pay levy in relation to live-stock is taken to be the producer of the live-stock; and
 
                       (f)  a person who, under clause 3 of Schedule 2 to the _Primary Industries (Excise) Levies Act 1999_, is liable to pay levy in relation to buffaloes is taken to be the producer of the buffaloes.
-
-          (2A)  The operator of a mill to which logs are delivered is taken to be the producer of the logs for the operation of this Act relating to levy imposed by Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_ on the logs.
-
-Note:          In subsection (2A), **_logs_**, **_mill_** and **_operator_** have the meanings they have in Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_: see subsection (4) of this section.
-
-          (2B)  The person prescribed by regulations for the purposes of this subsection is taken to be the producer of logs (as defined in Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_) for the operation of this Act relating to levy imposed by regulations made for the purposes of Schedule 27 to that Act on the logs.
 
              (3)  A reference in this Act to a contravention of a provision of this Act includes a reference to an offence against section 6 of the _Crimes Act 1914_, or section 11.1\. 11.4 or 11.5 of the _Criminal Code_, that relates to that provision.
 
@@ -614,6 +616,10 @@ by that State or by an authority of that State that is specified in the agreemen
 
              (6)  A failure to comply with subsection (5) does not invalidate the agreement. 
 
+             (7)  An agreement under subsection (1) about collecting forest industries levy or charge may require a specified R &amp; D Corporation established in respect of forest industries to pay to the collecting authority that is a party to the agreement amounts, worked out in accordance with the agreement, to reimburse the collecting authority for its expenses incurred in collecting forest industries levy or charge.
+
+             (8)  An R &amp; D Corporation so specified is liable to pay those amounts as if it were a party to the agreement.
+
 ##### <a id="11"></a>11  Collection agreements with collecting organisations
 
              (1)  The Secretary may enter into an agreement with an organisation with respect to the collection, on behalf of the Commonwealth:
@@ -647,6 +653,10 @@ by that organisation.
              (6)  The Secretary must give notice in the _Gazette_ of the entering into of an agreement under subsection (1) within 21 days of the making of the agreement.
 
              (7)  A failure to comply with subsection (6) does not invalidate the agreement.
+
+             (8)  An agreement under subsection (2) about collecting forest industries levy or charge may require a specified R &amp; D Corporation established in respect of forest industries to pay to the collecting organisation that is a party to the agreement amounts, worked out in accordance with the agreement, to reimburse the collecting organisation for its expenses incurred in collecting forest industries levy or charge.
+
+             (9)  An R &amp; D Corporation so specified is liable to pay those amounts as if it were a party to the agreement.
 
 ##### <a id="12"></a>12  Industry consultation
 
@@ -1658,15 +1668,15 @@ Remainder: Royal Assent</div>
       <div>28 June 2007</div>
     </td>
     <td>
-      <div>Schedule 1: 29 June 2007 
-Schedule 2: 3 Sept 2007 ( <i>see</i>F2007L02639) 
-Remainder: Royal Assent</div>
+      <div>Schedule 2 (items 7–11): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
 </thead></table>
+
+ 
 
 _(a)_     The _Primary Industries Levies and Charges Collection Act 1991_ was amended by Schedule 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1996_, subsection 2(3) of which provides as follows:
 
@@ -1740,7 +1750,7 @@ _(h)_ The _Primary Industries Levies and Charges Collection Act 1991_ was amende
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 20, 59 and 247, 1992; No. 94, 1993; Nos. 117, 130 and 137, 1994; No. 79, 1995; No. 207, 1997; No. 31, 1998; Nos. 32 and 170, 1999; No. 115, 2001; No. 123, 2007</div>
+    <div>am. Nos. 20, 59 and 247, 1992; No. 94, 1993; Nos. 117, 130 and 137, 1994; No. 79, 1995; No. 207, 1997; No. 31, 1998; Nos. 32 and 170, 1999; No. 115, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1780,7 +1790,7 @@ _(h)_ The _Primary Industries Levies and Charges Collection Act 1991_ was amende
     <div>Ss. 10, 11</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 123, 2007</div>
+    <div>am. No. 94, 1993</div>
   </td>
 </tr>
 <tr>
@@ -1968,6 +1978,42 @@ _(h)_ The _Primary Industries Levies and Charges Collection Act 1991_ was amende
   </td>
 </tr></table>
 
+### Note 2
+
+_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
+
+The following amendments commence on 28 December 2007 unless proclaimed earlier:
+
+## Schedule 2
+
+## 7  Subsection 4(1) (paragraph (da) of the definition of _producer_)
+
+Repeal the paragraph.
+
+## 8  Subsection 4(1) (paragraph (j) of the definition of _producer_)
+
+After “(2)”, insert “, (2A) or (2B)”.
+
+## 9  Subsection 4(1) (definition of _forest industries levy or charge_)
+
+Repeal the definition.
+
+## 10  After subsection 4(2)
+
+Insert:
+
+          (2A)  The operator of a mill to which logs are delivered is taken to be the producer of the logs for the operation of this Act relating to levy imposed by Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_ on the logs.
+
+Note:          In subsection (2A), **_logs_**, **_mill_** and **_operator_** have the meanings they have in Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_: see subsection (4) of this section.
+
+          (2B)  The person prescribed by regulations for the purposes of this subsection is taken to be the producer of logs (as defined in Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_) for the operation of this Act relating to levy imposed by regulations made for the purposes of Schedule 27 to that Act on the logs.
+
+## 11  Subsections 10(7) and (8) and 11(8) and (9)
+
+Repeal the subsections.
+
+As at 10 July 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2107,5 +2153,7 @@ Section 119 of the _Dairy Produce Act 1986_ as in force before the commencemen
                      (a)  started on 1 July 2002; and
 
                      (b)  ends at the commencement of this item.
+
+ 
 
  
