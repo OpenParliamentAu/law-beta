@@ -1,9 +1,8 @@
 
-Protection of the Sea (Civil Liability) Act 1981
+Protection of the Sea (Civil Liability) Act 1981
 Act No. 31 of 1981 as amended
-This compilation was prepared on 24 March 2003 taking into account amendments up to Act No. 7 of 2003
+This compilation was prepared on 23 October 2001 taking into account amendments up to Act No. 143 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -21,7 +20,7 @@ Part II—Liability and limitation of liability under Convention	3
 7	Application of Part	3
 8	Certain provisions of Convention to have the force of law	4
 9	Claims for compensation	4
-10	Applications to determine limit of liability	5
+10	Applications to determine limit of liability	4
 11	Transfer of proceedings	5
 12	Regulations giving effect to applied provisions of Convention etc.	6
 Part III—Insurance certificates relating to liability for pollution damage	7
@@ -32,25 +31,26 @@ Part III—Insurance certificates relating to liability for pollution damage	7
 17	Extension, cancellation and lapsing of insurance certificates	12
 18	Government ships	13
 19	Review of decisions	14
-Part IIIA—Proof of possession of adequate insurance cover by certain ships	16
-19A	Definitions	16
-19B	Application	17
-19C	Insurance certificates to be carried on ships to which Part applies	17
-Part IV—Recovery of expenses of Minister under Protection of the Sea (Powers of Intervention) Act 1981	19
-20	Expenses etc. incurred by Authority debt due to Commonwealth	19
-21	Expenses etc. incurred by Authority charge on ship	20
-22	Detection of ships	21
-Part IVA—Recovery of loss etc. incurred by the Authority because of discharges or threatened discharges from ships	23
-22A	Recovery of loss etc. by the Authority	23
-Part V—Miscellaneous	24
-23	Prosecution of offences against subsections 15(1), (2) and (3) and 22(3)	24
-24	No time limit for prosecution	25
-25	Regulations to give effect to Article X of Convention	25
-26	Delegation	25
-27	Regulations	26
-Schedule 1—International Convention on Civil Liability for Oil Pollution Damage	27
-Schedule 2—Protocol of 1992 to amend the International Convention on Civil Liability for Oil Pollution Damage, 1969	38
-Notes	53
+Part IIIA—Proof of possession of adequate insurance cover by certain ships	15
+19A	Definitions	15
+19B	Application	15
+19C	Insurance certificates to be carried on ships to which Part applies	16
+Part IV—Recovery of expenses of Minister under Protection of the Sea (Powers of Intervention) Act 1981	17
+20	Expenses etc. incurred by Authority debt due to Commonwealth	17
+21	Expenses etc. incurred by Authority charge on ship	18
+22	Detection of ships	19
+Part IVA—Recovery of loss etc. incurred by the Authority because of discharges or threatened discharges from ships	21
+22A	Recovery of loss etc. by the Authority	21
+Part V—Miscellaneous	22
+23	Prosecution of offences against subsections 15(1), (2) and (3) and 22(3)	22
+24	No time limit for prosecution	23
+25	Regulations to give effect to Article X of Convention	23
+26	Delegation	23
+27	Regulations	24
+Schedule 1—International Convention on Civil Liability for Oil Pollution Damage	25
+Schedule 2—Protocol of 1992 to amend the International Convention on Civil Liability for Oil Pollution Damage, 1969	37
+Notes to the Protection of the Sea (Civil Liability) Act 1981	51
+4	Application of Amendments	56
 An Act relating to civil liability for pollution damage
 Part I—Preliminary
 1  Short title [see Note 1]
@@ -211,8 +211,8 @@ Part IIIA—Proof of possession of adequate insurance cover by certain ships
 		In this Part:
 Government ship means a ship (including a warship) owned by a country, and includes a ship owned by the Commonwealth or by a State.
 officer means:
-	(a)	an officer of Customs within the meaning of the Customs Act 1901; or
-	(b)	a surveyor appointed under section 190 of the Navigation Act 1912; or
+	(a)	an officer of Customs within the meaning of the Customs Act 1901; or
+	(b)	a surveyor appointed under section 190 of the Navigation Act 1912; or
 	(c)	a member or a special member of the Australian Federal Police within the meaning of the Australian Federal Police Act 1979; or
 	(d)	a person included in a class of persons declared by the regulations to be a class of officers for the purposes of this section.
 owner has the same meaning as in the Convention.
@@ -805,7 +805,7 @@ Explanatory notes:
 Notes to the Protection of the Sea (Civil Liability) Act 1981
 Note 1
 The Protection of the Sea (Civil Liability) Act 1981 as shown in this compilation comprises Act No. 31, 1981 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information see Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -830,7 +830,7 @@ S. 5(1)
 Protection of the Sea Legislation Amendment Act 1986
 167, 1986
 18 Dec 1986
-Part IV (ss. 35–40): 9 Oct 1996 (see Gazette 1996, No. S376) (c)
+Part IV (ss. 35‑40): 9 Oct 1996 (see Gazette 1996, No. S376) (c)
 S. 2 (am. by 95, 1995, s. 3, Part J (item 1))
 as amended by
 
@@ -845,7 +845,7 @@ S. 5(1)
 Transport Legislation Amendment Act 1995
 95, 1995
 27 July 1995
-S. 3 (Part J (items 1–4)): Royal Assent (e)
+S. 3 (Part J (items 1‑4)): Royal Assent (e)
 —
 Transport and Communications Legislation Amendment Act 1994 
 64, 1994
@@ -860,23 +860,18 @@ S. 13 (Part 2): Royal Assent (g)
 Protection of the Sea (Civil Liability) Amendment Act 2000
 122, 2000
 5 Oct 2000
-Ss. 1–3: Royal Assent Schedule 1 (Parts 3, 4): 6 Oct 2000 Remainder: 6 Apr 2001
+Ss. 1‑3: Royal Assent Schedule 1 (Parts 3, 4): 6 Oct 2000 Remainder: 6 Apr 2001
 —
 Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001
 143, 2001
 1 Oct 2001
 2 Oct 2001
 S. 4 [see Table A]
-Maritime Legislation Amendment Act 2003
-7, 2003
-19 Mar 2003
-Schedule 1 (items 1–6) [see Note 2 and Table A] Schedule 1 (items 7–9): 20 Mar 2003 Remainder: Royal Assent
-Sch. 1, (item 2) [see Table A]
- (a)	The Protection of the Sea (Civil Liability) Act 1981 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1983, subsection 2(1) of which provides as follows:
+(a)	The Protection of the Sea (Civil Liability) Act 1981 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1983, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 (b)	The Protection of the Sea (Civil Liability) Act 1981 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1984, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-(c)	The Protection of the Sea (Civil Liability) Act 1981 was amended by Part IV (ss. 35–40) only of the Protection of the Sea Legislation Amendment Act 1986, subsections 2(4) and (5) of which provide as follows:
+(c)	The Protection of the Sea (Civil Liability) Act 1981 was amended by Part IV (ss. 35‑40) only of the Protection of the Sea Legislation Amendment Act 1986, subsections 2(4) and (5) of which provide as follows:
 	(4)	The remaining provisions of this Act shall come into operation on such respective days as are fixed by Proclamation.
 	(5)	The day fixed under subsection (4) for the coming into operation of a provision of Part IV, shall not be a day earlier than the day on which the Protocol of 1992 to amend the International Convention on Civil Liability for Oil Pollution Damage, 1969 comes into force for Australia.
 (d)	The Protection of the Sea Legislation Amendment Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(26) of which provides as follows:
@@ -892,15 +887,14 @@ Section 40 commenced on 9 October 1996 (see Gazette 1996, No. S376).
 The date fixed in pursuance of subsection 2(3) was 1 August 1994 (see Gazette 1994, No. S289).
 (g)	The Protection of the Sea (Civil Liability) Act 1981 was amended by the Transport Legislation Amendment Act 1995, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
-am. No. 167, 1986; No. 122, 2000
+am. No. 167, 1986; No. 122, 2000
 S. 6A	
-ad. No. 143, 2001
+ad. No. 143, 2001
 Ss. 8, 9	
 am. No. 167, 1986
 S. 10	
@@ -908,83 +902,45 @@ am. No. 95, 1995
 S. 13	
 am. No. 95, 1995
 S. 15	
-am. No. 95, 1995; No. 122, 2000; No. 143, 2001
+am. No. 95, 1995; No. 122, 2000; No. 143, 2001
 S. 16	
 am. No. 72, 1984; No. 95, 1995
 S. 17	
-am. No. 95, 1995; No. 122, 2000
+am. No. 95, 1995; No. 122, 2000
 S. 19	
 rs. No. 39, 1983
-Part IIIA 	 (ss. 19A–19C)
-ad. No. 122, 2000
-Ss. 19A–19C	
-ad. No. 122, 2000
+Part IIIA  (ss. 19A‑19C)	
+ad. No. 122, 2000
+Ss. 19A‑19C	
+ad. No. 122, 2000
 Heading to s. 20	
-am. No. 122, 2000
+am. No. 122, 2000
 S. 20	
-am. No. 95, 1995; No. 122, 2000
+am. No. 95, 1995; No. 122, 2000
 Heading to s. 21	
-am. No. 122, 2000
+am. No. 122, 2000
 S. 21	
-am. No. 95, 1995; No. 122, 2000
+am. No. 95, 1995; No. 122, 2000
 S. 22	
-am. No. 64, 1994; No. 122, 2000; No. 143, 2001
-Heading to Part IVA	
-rs. No. 122, 2000
+am. No. 64, 1994; No. 122, 2000; No. 143, 2001
+Heading to Part IVA	
+rs. No. 122, 2000
 Part IVA (s. 22A)	
 ad. No. 64, 1994
 S. 22A	
 ad. No. 64, 1994
 
-am. No. 122, 2000
+am. No. 122, 2000
 S. 23	
-am. No. 167, 1986; No. 122, 2000
+am. No. 167, 1986; No. 122, 2000
 S. 26	
 am. No. 95, 1995
 Schedule 2	
 rs. No. 167, 1986 (as am. by No. 141, 1987; No. 95, 1995)
-Note 2
-Maritime Legislation Amendment Act 2003 (No. 7, 2003)
-The following amendments commence on 1 November 2003:
-Schedule 1
-1  Subsection 3(1) (at the end of the definition of the 1992 Protocol)
-Add “, as amended by resolution LEG.1(82) adopted by the Legal Committee of the International Maritime Organization on 18 October 2000 (a copy of the English text of which is set out in Schedule 3)”.
-3  At the end of the Act
-Add:
-Schedule 3—Resolution LEG.1(82)
-Note:	See section 3.
-  
-  
-RESOLUTION LEG.1(82)
-adopted on 18 October 2000
-AMENDMENTS OF THE LIMITATION AMOUNTS IN THE PROTOCOL OF 1992 TO AMEND THE INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE, 1969
-THE LEGAL COMMITTEE at its eighty‑second session:
-	RECALLING Article 33(b) of the Convention on the International Maritime Organization (hereinafter referred to as the “IMO Convention”) concerning the functions of the Committee,
-	MINDFUL of Article 36 of the IMO Convention concerning rules governing the procedures to be followed when exercising the functions conferred on it by or under any international convention or instrument,
-	RECALLING FURTHER article 15 of the Protocol of 1992 to amend the International Convention on Civil Liability for Oil Pollution Damage, 1969 (hereinafter referred to as the “1992 CLC Protocol”) concerning the procedures for amending the limitation amounts set out in the article 6(1) of the 1992 CLC Protocol,
-	HAVING CONSIDERED amendments to the limitation amounts proposed and circulated in accordance with the provisions of article 15(1) and (2) of the 1992 CLC Protocol,
-1.	ADOPTS, in accordance with article 15(4) of the 1992 CLC Protocol, amendments to the limitation amounts set out in article 6(1) of the 1992 CLC Protocol, as set out in the Annex to this resolution;
-2.	DETERMINES, in accordance with article 15(7) of the 1992 CLC Protocol, that these amendments shall be deemed to have been accepted on 1 May 2002 unless, prior to that date, not less than one quarter of the States that were Contracting States on the date of the adoption of these amendments (being 18 October 2000) have communicated to the Organization that they do not accept these amendments;
-3.	FURTHER DETERMINES that, in accordance with article 15(8) of the 1992 CLC Protocol, these amendments, deemed to have been accepted in accordance with paragraph 2 above, shall enter into force on 1 November 2003;
-4.	REQUESTS the Secretary‑General, in accordance with articles 15(7) and 17(2)(v) of the 1992 CLC Protocol, to transmit certified copies of the present resolution and the amendments contained in the Annex thereto to all States which have signed or acceded to the 1992 CLC Protocol; and
-5.	FURTHER REQUESTS the Secretary‑General to transmit copies of the present resolution and its Annex to the Members of the Organization which have not signed or acceded to the 1992 CLC Protocol.
-ANNEX
-AMENDMENTS OF THE LIMITATION AMOUNTS IN THE PROTOCOL OF 1992 TO AMEND THE INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE, 1969
-Article 6(1) of the 1992 CLC Protocol is amended as follows:
-	the reference to “3 million units of account” shall read “4,510,000 units 	of account”;
-	the reference to “420 units of account” shall read “631 units of 	account”; and
-	the reference to “59.7 million units of account” shall read “89,770,000 	units of account”.
-As at 24 March 2003 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)
+Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)
 4  Application of Amendments
 	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Maritime Legislation Amendment Act 2003 (No. 7, 2003)
-The following provision commences on 1 November 2003:
-2  Application of amending resolution
-The amendment of subsection 3(1) of the Protection of the Sea (Civil Liability) Act 1981 made by this Schedule applies in relation to incidents of a kind described in section 9 of that Act happening after the commencement of this item.
-
 
