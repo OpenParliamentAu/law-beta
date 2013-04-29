@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00186/Html/FutureFundAct2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00043/Html/FutureFundAct2006_image001.gif)
 
 # Future Fund Act 2006
 
 **Act No. 12 of 2006 as amended**
 
-This compilation was prepared on 4 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 21 January 2009
+ taking into account amendments up to Act No. 155 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -932,9 +932,9 @@ Note:          For variation and revocation, see subsection 33
 
 Publication of policies
 
-             (3)  The Board must cause copies of policies formulated under subsection (1) to be published on the internet.
+             (3)  The Board must cause copies of policies formulated under subsection (1) to be published on the Internet.
 
-             (4)  The Board must ensure that the first set of policies formulated under subsection (1) is published on the internet as soon as practicable after the commencement of this section.
+             (4)  The Board must ensure that the first set of policies formulated under subsection (1) is published on the Internet as soon as practicable after the commencement of this section.
 
 Review of policies
 
@@ -1404,7 +1404,7 @@ Compliance
 
 Publication of reports and documents
 
-             (4)  The nominated Minister may cause to be published (whether on the internet or otherwise):
+             (4)  The nominated Minister may cause to be published (whether on the Internet or otherwise):
 
                      (a)  a report under subsection (1); or
 
@@ -1700,7 +1700,7 @@ Effect of contravention by Board member
 
              (4)  A contravention of this section by a Board member does not affect the validity of any transaction or resolution.
 
-##### <a id="69"></a>69  Board member may give other Board members standing notice about an interest
+##### <a id="69"></a>69  Board member may give other Board members standing notice about an interest
 
 Power to give notice
 
@@ -1816,7 +1816,7 @@ Note:          For variation and revocation, see subsection 33
 
              (5)  The order may be expressed to be subject to conditions.
 
-             (6)  The nominated Minister must cause a copy of the order to be published on the internet.
+             (6)  The nominated Minister must cause a copy of the order to be published on the Internet.
 
              (7)  The order is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
@@ -2440,7 +2440,7 @@ Telstra sale scheme
 
 Publication of details of transfer of financial assets
 
-             (6)  As soon as practicable after financial assets are transferred to the Board under subclause (1), the nominated Minister must cause to be published on the internet a statement setting out:
+             (6)  As soon as practicable after financial assets are transferred to the Board under subclause (1), the nominated Minister must cause to be published on the Internet a statement setting out:
 
                      (a)  details of the transfer; and
 
@@ -2508,7 +2508,7 @@ Note:          For directions about the investment of amounts 
 
              (9)  This clause does not limit subsection 18(1).
 
-           (10)  As soon as practicable after a direction is given under subclause (1), the Chair must cause a copy of the direction to be published on the internet.
+           (10)  As soon as practicable after a direction is given under subclause (1), the Chair must cause a copy of the direction to be published on the Internet.
 
            (11)  A direction under subclause (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
@@ -2736,7 +2736,7 @@ Note:          For variation and revocation, see subsection 33
 
              (2)  A determination under subclause (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-             (3)  As soon as practicable after a determination is made under subclause (1), the Chair must cause a copy of the determination to be published on the internet.
+             (3)  As soon as practicable after a determination is made under subclause (1), the Chair must cause a copy of the determination to be published on the Internet.
 
 ##### <a id="3"></a>3  Target asset level declarations
 
@@ -2794,7 +2794,7 @@ the nominated Minister must cause:
 
                      (d)  a copy of the statement;
 
-to be published on the internet.
+to be published on the Internet.
 
            (11)  If a target asset level declaration ceases to be in force, the cessation does not affect:
 
@@ -2932,127 +2932,7 @@ Remainder: Royal Assent</div>
       <div>Sch. 3 (item 7)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2010</div>
-    </td>
-    <td>
-      <div>8, 2010</div>
-    </td>
-    <td>
-      <div>1 Mar 2010</div>
-    </td>
-    <td>
-      <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
-
-_(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -3231,23 +3111,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
+    <div>Ss. 23–25</div>
   </td>
   <td>
     <div>am. No. 161, 2007</div>
@@ -3362,7 +3226,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 54</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 8, 2010</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3403,22 +3267,6 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   </td>
   <td>
     <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3519,18 +3367,10 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>C. 8</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 8, 2010</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3580,30 +3420,13 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   <td>
     <div>ad. No. 155, 2008</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 2, 3</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
 </tr></table>
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
- (No. 101, 1997)_
+_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (No. 101, 1997)_
 
 ## Schedule 6
 
@@ -3681,7 +3504,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 
 * * *
 
-_Higher Education Endowment Fund (Consequential Amendments) Act 2007 (No. 161, 2007)_
+_Higher Education Endowment Fund (Consequential Amendments) Act 2007
+  (No. 161, 2007)_
 
 ## Schedule 1
 
@@ -3755,8 +3579,7 @@ The amendment made by item 69 applies in relation to a direction under subclau
 
 * * *
 
-_Nation-building Funds (Consequential Amendments) Act 2008 
- (No. 155, 2008)_
+_Nation-building Funds (Consequential Amendments) Act 2008 (No. 155, 2008)_
 
 ## Schedule 3
 
