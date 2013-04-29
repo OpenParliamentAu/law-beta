@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00046/Html/ActsInterp1901_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00640/Html/ActsInterp1901_WD02_image001.gif)
 
 # Acts Interpretation Act 1901
 
 **Act No. 2 of 1901 as amended**
 
-This compilation was prepared on 6 January 2009
- taking into account amendments up to Act No. 135 of 2008
+This compilation was prepared on 10 December 2008
+ taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -548,7 +548,7 @@ Definition
 
 ##### <a id="16"></a>16  References to the Sovereign
 
-                   In any Act references to the Sovereign reigning at the time of the passing of such Act, or to the Crown, shall unless the contrary intention appears be construed as references to the Sovereign for the time being.
+                   In any Act references to the Sovereign reigning at the time of the passing of such Act, or to the Crown, shall unless the contrary intention appears be construed as references to the Sovereign for the time being.
 
 ##### <a id="16A"></a>16A  References to the Governor-General
 
@@ -1040,7 +1040,7 @@ For this purpose, disregard whether an adoption is declared void or has ceased t
 
 ##### <a id="25E"></a>25E  Attainment of particular age
 
-                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
+                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
 
 ## Part VI—Judicial expressions
 
@@ -1224,7 +1224,7 @@ whichever first happens, and as also including a power to remove or suspend any 
 
 ##### <a id="34A"></a>34A  Exercise of certain powers and functions by a delegate
 
-                   Where, under any Act, the exercise of a power or function by a person is dependent upon the opinion, belief or state of mind of that person in relation to a matter and that power or function has been delegated in pursuance of that or any other Act, that power or function may be exercised by the delegate upon the opinion, belief or state of mind of the delegate in relation to that matter.
+                   Where, under any Act, the exercise of a power or function by a person is dependent upon the opinion, belief or state of mind of that person in relation to a matter and that power or function has been delegated in pursuance of that or any other Act, that power or function may be exercised by the delegate upon the opinion, belief or state of mind of the delegate in relation to that matter.
 
 ##### <a id="34B"></a>34B  Presentation of papers to the Parliament
 
@@ -2655,23 +2655,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Evidence Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>135, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 6): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -4733,22 +4716,6 @@ Section 27—Section 7 of the _Statutory Declarations Act 1959_ provides as 
 
                    Where, in a law of the Commonwealth or of a Territory (whether passed or made before or after the commencement of this Act), a reference is made to a statutory declaration, the reference includes a reference to a statutory declaration made under this Act, unless the contrary intention appears in that law.
 
-### Note 4
-
-_Evidence Amendment Act 2008 (No. 135, 2008)_
-
-The following amendment commences on 4 December 2009 unless proclaimed earlier:
-
-## Schedule 3
-
-## 6  At the end of section 40
-
-Add:
-
-             (4)  For the purposes of subsection (3), a reference in relation to a Commonwealth Act may also be made according to a copy of the Act, or a compilation of the Act, as it appears in an Acts database declared under section 4  of the _Acts Publication Act 1905_.
-
-As at 6 January 2009 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4885,7 +4852,7 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 ## Schedule 1
 
-## 496  Saving provision—Finance Minister’s determinations
+## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
