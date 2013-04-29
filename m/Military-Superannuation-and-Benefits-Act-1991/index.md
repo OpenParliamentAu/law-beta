@@ -1,7 +1,7 @@
 
 Military Superannuation and Benefits Act 1991
 Act No. 135 of 1991 as amended
-This compilation was prepared on 23 December 2003 taking into account amendments up to Act No. 135 of 2003
+This compilation was prepared on 18 November 2003 taking into account amendments up to Act No. 111 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -9,7 +9,7 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
   
 Contents
-Part 1—Preliminary	1
+Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
@@ -73,144 +73,7 @@ Part 9—Miscellaneous	27
 51A	Transitional—MSB Instrument No. 3 of 1993 to have retrospective effect	30
 52	Regulations	31
 Part 10—Amendments of the Defence Force Retirement and Death Benefits Act 1973	33
-Sections 53–61	33
-Note:	33
-The amendments made by this Part are incorporated in the compilation on SCALEplus.	33
 Schedule—Form of Trust Deed	34
-Military Superannuation and Benefits Rules	43
-Part 1—Preliminary	43
-Rule	43
-Part 2—Contributions	43
-Part 3—Members’ Benefits	43
-Division 3—Person Rejoining the Scheme	45
-Part 4—Spouses’ and Children’s Benefits	45
-Division 1—Death of Member	45
-Division 2—Death of Retirement Pensioner	45
-Division 3—Death of Spouse	45
-Division 4—Miscellaneous	45
-Part 5—Payment of Preserved Benefits	45
-Part 6—Increases in Maximum Benefit Limits, Pensions and Certain Unfunded Preserved Benefits	46
-Division 1—Increases in Maximum Benefit Limits	46
-Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits	46
-Part 7—Candidates at Parliamentary Elections	46
-Part 8—General Provisions Applicable to Contributions and Benefits	46
-Part 9—Reconsideration of Decisions	47
-Military Superannuation and Benefits Rules	49
-Part 1—Preliminary	49
-Citation	49
-Definitions and interpretation	49
-Part 2—Contributions	53
-Contributions by members	53
-Amount of contributions	53
-Cessation of contributions on reaching maximum benefit limit	54
-Contributions while on leave without pay in connection with birth of child etc.	55
-Contributions while on other leave without pay	55
-General conditions applicable to contributions under rules 6 and 7	56
-Member contributions to be paid to Board	57
-Liability of Department to pay employer contributions	57
-Payment of contributions into Fund	58
-Part 3—Members’ Benefits	59
-Division 1—Benefits other than Invalidity Benefits	59
-Benefits on retirement before reaching 55 years of age or earlier retiring age, otherwise than for redundancy or retrenchment etc.	59
-Benefits on retirement for redundancy or retrenchment or on attaining retiring age of less than 55 years	59
-Benefits on retirement on or after attaining age of 55 years	60
-Payment of benefits where rule 12 applies and person has less than 12 months’ eligible service	61
-Limitation on certain benefits in case of certain transferees who retire before completing 731 days’ service after 30 September 1991	62
-Division 2—Invalidity Benefits	63
-Subdivision A—Incapacity Classification	63
-Establishment of Incapacity Classification Committee	63
-Membership of Committee	63
-Functions of Committee	63
-Proceedings of Committee	63
-Decisions by Committee	64
-Classification in respect of incapacity	64
-Reclassification in respect of incapacity	64
-Decision as to classification or reclassification to be notified to invalidity retiree	66
-Power of Board to require persons to be medically examined etc.	66
-Subdivision B—Invalidity Benefits	69
-Entitlement to invalidity benefits	69
-Invalidity benefits for person classified as Class A	69
-Invalidity benefits for person classified as Class B	70
-Effect of change of invalidity classification on pension and preserved benefit	70
-Person may be treated as having been retired on ground of invalidity	71
-Subdivision C—Invalidity Benefits Not Payable	71
-Person classified as Class C	71
-Pre‑existing condition	71
-Invalidity due to intentional act	72
-Invalidity arising during absence without leave exceeding 21 days	72
-Division 3—Person Rejoining the Scheme	73
-Suspension of pension of retirement pensioner other than invalidity retiree	73
-Cancellation of pension etc. of invalidity retiree	73
-Continuation of previous election to cease paying contributions	73
-Part 5—Spouses’ and Children’s Benefits	74
-Division 1—Death of a Member	74
-Applicability of benefits	74
-Payment of deceased member’s member benefit	74
-Payment of deceased member’s employer benefit	74
-Division 2—Death of Retirement Pensioner	77
-Applicability of benefits	77
-Pensions payable	77
-Final benefit payable in relation to deceased retirement pensioner	77
-Death in certain cases due to retirement disabilities	78
-Effect of death of invalidity pensioner while pension suspended	79
-Division 3—Death of Spouse	80
-Child’s benefit upon death of spouse	80
-Division 4—Miscellaneous	81
-Entitlements where two spouses	81
-Payment of balance of benefit where pension becomes payable to child in certain cases	81
-Part 5—Payment of Preserved Benefits	83
-Drawing on member benefit included in preserved benefit	83
-Fee for payment of part of person’s member benefit	83
-Payment of employer benefit included in preserved benefit before person attains age of 55 years	83
-Payment of employer benefit included in preserved benefit to person who has attained 55 years of age	84
-Compulsory payment of preserved benefit to person on attaining 65 years of age	85
-Payment of deceased former member’s preserved benefit	85
-Part 6—Increases in Maximum Benefit Limits, Pensions and Certain Unfunded Preserved Benefits	87
-Division 1—Increases in Maximum Benefit Limits	87
-Increases in maximum benefit limits	87
-Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits	89
-Increases in pensions and certain unfunded preserved benefits	89
-Application of increase to suspended pension	90
-Proportionate increase for part of a year	90
-Adjustment in connection with invalidity reclassification	92
-Date of effect of increase	93
-Interpretation	93
-Part 7—Candidates at Parliamentary Elections	95
-Re‑instated member	95
-Death or physical or mental incapacity of person	95
-Part 8—General Provisions Applicable to Contributions and Benefits	96
-Provisions applicable to elections under the Rules	96
-Rate of pension where lump sum converted into pension	97
-Benefits in unusual or exceptional circumstances	97
-Instalments of pensions	97
-Set off against pension in certain cases	98
-Interest payable where payment of benefit delayed	98
-Payment of benefit otherwise than to person entitled	99
-Withholding payment of benefit where required information not provided	100
-Part 9—Reconsideration of Decisions	101
-Establishment of Reconsideration Advisory Committees	101
-Membership of Committee	101
-Functions of Committee	101
-Proceedings of Committee	101
-Reconsideration of decision made by delegate	101
-Reconsideration of decision made by Board	102
-Content of statements of reasons for decisions	103
-Interpretation	103
-Part 1—Definitions	104
-Part 2—Resign to contest an election	109
-Part 3—Retirement	110
-Part 4—Retiring age	111
-Part 5—Spouse	112
-Part 6—Parts of speech and grammatical forms	115
-Part 7—Number	116
-Part 8—Reckoning of time	117
-Part 9—Attainment of particular age	118
-Part 1—Calculation of employer benefit of person with not less than 7 years’ eligible service or Invalidity Retiree or 1973 Scheme Recipient Member (other than 1973 Scheme Re‑Entrant or 1991 Scheme Re‑Entrant or MBL Member or Foreign Service Member)	128
-Part 2—Calculation of Employer Benefit of Person with less than 7 years’ eligible service (other than Invalidity Retiree or 1973 Scheme Recipient Member or 1973 Scheme Re‑Entrant or 1991 Scheme Re‑Entrant or Foreign Service Member)	130
-Part 3—Calculation of Employer Benefit of 1973 Scheme Re‑Entrant, 1991 Scheme Re‑Entrant or Foreign Service Member, with not less than 7 years’ aggregated service	132
-Part 4—Calculation of Employer Benefit of 1973 Scheme Re‑Entrant or Foreign Service Member, with less than 7 years’ aggregated service (other than Invalidity Retiree)	134
-Part 5—Calculation of employer benefit of MBL Member	136
-Part 6—Interpretation	138
 Notes	143
 An Act to make provision for and in relation to an occupational superannuation scheme for, and the payment of other benefits to, members of the Defence Force, and for related purposes
   
@@ -2379,18 +2242,8 @@ Sch. 2 (items 94, 95) [see Table A]
 Defence Legislation Amendment (Application of Criminal Code) Act 2001
 141, 2001
 1 Oct 2001
-S. 4: Royal Assent Schedule 1 (item 106): 15 Dec 2001
-S. 4 [see Table A] S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))
-as amended by
-
-
-
-
-Defence Legislation Amendment Act 2003
-135, 2003
-17 Dec 2003
-Schedule 2 (item 28): (i)
-—
+S. 4 and Schedule 1 (item 106): 2 Oct 2001 (i)
+S. 4 [see Table A]
 Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003
 111, 2003
 12 Nov 2003
@@ -2415,19 +2268,10 @@ Sch. 1 (item 25) [see Table A]
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
 (h)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 66) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-(i)	Subsection 2(1) (item 9) of the Defence Legislation Amendment Act 2003 provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-9.  Schedule 2, item 28
-Immediately after the commencement of section 2 of the Defence Legislation Amendment (Application of Criminal Code) Act 2001
-1 October 2001
+(i)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 1 (item 106) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(2) of which provides as follows:
+	(2)	Part 1 of Schedule 1 commences on the later of:
+	(a)	the day on which Chapter 2 of the Criminal Code commences; and
+	(b)	the day after the day on which this Act receives the Royal Assent.
 
 Table of Amendments
 ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
