@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00012/Html/ce09e341-100f-4a4e-9f42-6e08af8090b3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00313/Html/5dbfd844-5af1-423a-a411-32347ce86144_files/image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 7 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 20 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -261,8 +262,6 @@ Affirming that every individual is equal before and under the law, and has the r
 
                     <a name="accommod"></a>**_accommodation_** includes residential and business accommodation.
 
-                    <a name="acnc-type-entiti"></a>**_ACNC type of entity_** means an entity that meets the description of a type of entity in column 1 of the table in subsection 25‑5(5) of the _Australian Charities and Not‑for‑profits Commission Act 2012_.
-
                     <a name="administr-offic"></a>**_administrative office_** means:
 
                      (a)  an office established by, or an appointment made under, a law of the Commonwealth;
@@ -406,8 +405,6 @@ but does not include:
                      (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or
 
                      (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="regist-organis"></a>**_registered organisation_** means an organisation registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_.
 
@@ -991,17 +988,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                               (i)  the person who provides or proposes to provide the accommodation or a near relative of that person resides, and intends to continue to reside, on those premises; and
 
-                             (ii)  the accommodation provided in those premises is for no more than 3 persons other than a person referred to in subparagraph (i) or near relatives of such a person; or
+                             (ii)  the accommodation provided in those premises is for no more than 3 persons other than a person referred to in subparagraph (i) or near relatives of such a person;
 
                      (b)  accommodation provided by a religious body; or
 
-                     (c)  accommodation provided by:
-
-                              (i)  an entity registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_; or
-
-                             (ii)  a not‑for‑profit entity that is not an ACNC type of entity;
-
-                            solely for persons of one sex or solely for persons of a particular marital status or particular marital statuses.
+                     (c)  accommodation provided by a charitable or other non‑profit‑making body solely for persons of one sex or solely for persons of a particular marital status or particular marital statuses.
 
              (4)  This section binds the Crown in right of a State.
 
@@ -1327,13 +1318,7 @@ to sexually harass another person.
 
              (1)  Nothing in Division 1 or 2 affects:
 
-                     (a)  a provision of the governing rules (within the meaning of the _Australian Charities and Not‑for‑profits Commission Act 2012_) of a registered charity (whether made before or after the commencement of this Act), if the provision:
-
-                              (i)  confers charitable benefits; or
-
-                             (ii)  enables charitable benefits to be conferred;
-
-                            on persons of a class identified by reference to any one or more of the grounds of discrimination referred to in this Act; or
+                     (a)  a provision of a deed, will or other document, whether made before or after the commencement of this Act, that confers charitable benefits or enables charitable benefits to be conferred on persons of a class identified by reference to any one or more of the grounds of discrimination referred to in this Act; or
 
                      (b)  an act that is done in order to give effect to such a provision.
 
@@ -2302,7 +2287,7 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="0%">
   <col width="22%">
@@ -2541,7 +2526,7 @@ Remainder: Royal Assent</div>
   </td>
   <td colspan="3">
     <div>S. 3 
-S. 2(2) (am. by 13, 1994, s. 24)</div>
+S. 2(2) (am. by 13, 1994, s. 24)</div>
   </td>
 </tr>
 <tr>
@@ -2661,7 +2646,7 @@ Schedule (Part 3): <i>(g)</i></div>
     <div>Schedule (Parts 3, 6): <i>(h)</i></div>
   </td>
   <td colspan="3">
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -2858,8 +2843,8 @@ Schedule 19 (items 46, 47): Royal Assent <i>(l)
  </i>Schedule 11 (items 62–71): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535)</div>
   </td>
   <td colspan="3">
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2]) 
-Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
+    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2]) 
+Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   </td>
 </tr>
 <tr>
@@ -2876,7 +2861,7 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
     <div> </div>
   </td>
   <td colspan="3">
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -3016,7 +3001,7 @@ Remainder: 13 Apr 2000</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -3160,7 +3145,7 @@ Schedule 5 (items 52–59,
   </td>
   <td>
     <div>S. 4 and Sch. 5 (items 87, 88) 
-Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i>Note 1 and Table A]</div>
+Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i>Note 1 and Table A]</div>
   </td>
   <td>
     <div></div>
@@ -3177,7 +3162,7 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div>8 July 2009</div>
   </td>
   <td colspan="3">
-    <div>Schedule 3 (items 74–92, 115, 116, 179, 180) and Schedule 4 (items 6–14): 5 Aug 2009</div>
+    <div>Schedule 3 (items 74–92, 115, 116, 179, 180) and Schedule 4 (items 6–14): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -3240,28 +3225,7 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div>Schedule 2 (items 1034–1037) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 2 (items 193–197): 3 Dec 2012 ( <i>see</i>s. 2(1)) 
-Schedule 4 (item 23): \[ <i>see (t)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -3278,7 +3242,7 @@ Schedule 4 (item 23): \[ <i>see (t)</i>and Note 2]</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Sex Discrimination Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(19) of which provides as follows:
+_(a)_     The _Sex Discrimination Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(19) of which provides as follows: 
 
                (19)   The amendments of the _Sex Discrimination Act 1984_ made by this Act shall come into operation on the commencement of that Act.
 
@@ -3558,83 +3522,12 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-_(t)_      Subsection 2(1) (item 14) of the _Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      14\. Schedule 4, Part 2, Division 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of the provision(s) covered by
-        table item 3; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Special Conditions for Not‑for‑profit Concessions)
-          Act 2012</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all unless both of the events
-        mentioned in paragraphs (a) and (b) occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -3689,7 +3582,7 @@ _(t)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; Nos. 40 and 46, 2011; No. 169, 2012</div>
+    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; Nos. 40 and 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3950,47 +3843,7 @@ _(t)_      Subsection 2(1) (item 14) of the _Australian Charities and 
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 40, 2011; No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
+    <div>Ss. 21–26</div>
   </td>
   <td>
     <div>am. No. 165, 1995; No. 40, 2011</div>
@@ -4154,14 +4007,6 @@ _(t)_      Subsection 2(1) (item 14) of the _Australian Charities and 
   </td>
   <td>
     <div>rep. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5009,7 +4854,7 @@ _(t)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 95</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5156,20 +5001,6 @@ _(t)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>rep. No. 133, 1999</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)_
-
-The following amendment commences immediately after the commencement of Schedule 1 to the _Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012_ (still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 14):
-
-## Schedule 4
-
-## 23  Subparagraph 23(3)(c)(ii)
-
-After “not‑for‑profit entity”, insert “(within the meaning of the _Income Tax Assessment Act 1997_)”.
-
-As at 7 January 2013 the amendment is not incorporated in this compilation.
 
 ## Table A
 
