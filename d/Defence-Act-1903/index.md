@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00535/Html/b59c835d-8ab4-4ab3-afe5-52c62a9c5870_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00196/Html/315ed8d1-0ef8-4cc7-88cc-c50ebe832e15_files/image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 14 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 19 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2958,7 +2958,7 @@ Note:          Section 5A of the _Military Superannuation an
 
 ##### <a id="53"></a>53  Trustee of scheme providing superannuation benefit
 
-                   For the purposes of the definition of **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_, CSC (within the meaning of the _Governance of Australian Government Superannuation Schemes Act 2011_) is taken to be the person who manages the scheme constituted by the Defence Force (Superannuation) (Productivity Benefit) Determination made under section 52 of the _Defence Act 1903_.
+                   For the purposes of the definition of **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_, the Authority established under section 8 of the _Defence Force Retirement and Death Benefits Act 1973_ is taken to be the person who manages the scheme constituted by the Defence Force (Superannuation) (Productivity Benefit) Determination made under section 52 of the _Defence Act 1903_.
 
 Note:          The definitions of **_public sector superannuation scheme_**, **_superannuation fund_** and **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ are relevant to this section.
 
@@ -4742,7 +4742,7 @@ Note:          The regulations may make provision in relation 
 
                    The Inspector‑General ADF must give written notice to the Minister of all interests (financial or otherwise) that the Inspector‑General ADF has or acquires that could conflict with the proper performance of the functions of his or her office.
 
-##### <a id="110N"></a>110N  Acting appointments
+##### <a id="110N"></a>110N  Acting appointments
 
              (1)  The Minister may appoint a person to act as the Inspector‑General ADF:
 
@@ -4808,7 +4808,7 @@ Note:          The regulations may make provision in relation 
 
 ##### <a id="110R"></a>110R  Reports
 
-                   The Inspector‑General ADF must prepare and give to the Chief of the Defence Force such reports on the operations of the Inspector‑General ADF as the Chief of the Defence Force directs.
+                   The Inspector‑General ADF must prepare and give to the Chief of the Defence Force such reports on the operations of the Inspector‑General ADF as the Chief of the Defence Force directs.
 
 ##### <a id="110S"></a>110S  Delegation
 
@@ -5436,7 +5436,7 @@ there are taken to be 10 offices of Tribunal members in addition to the Chair.
 
              (5)  This section applies to and in relation to a part of the Defence Force serving either within or beyond the territorial limits of Australia.
 
-##### <a id="116C"></a>116C  Forces serving together
+##### <a id="116C"></a>116C  Forces serving together
 
              (1)  Whenever a part of the Defence Force and a part of the forces of a country in relation to which this subsection applies are serving together, either within or beyond the territorial limits of Australia, and either alone or together with any other force, a member of the force of that country has the same powers of command over members of that part of the Defence Force as a member of the Defence Force holding the rank in that Force that corresponds with the rank that he holds in the force of the country to which he belongs.
 
@@ -5864,7 +5864,7 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
 ##### <a id="117AB"></a>117AB  Apportionment of salvage amongst crew members
 
-                   Where salvage payable in respect of salvage services rendered by a Naval ship is, in accordance with section 117AA, to be apportioned between the Commonwealth and the members of the crew of that ship, the amount of salvage apportioned to the members of the crew:
+                   Where salvage payable in respect of salvage services rendered by a Naval ship is, in accordance with section 117AA, to be apportioned between the Commonwealth and the members of the crew of that ship, the amount of salvage apportioned to the members of the crew:
 
                      (a)  shall be applied in meeting the costs of the Commonwealth in conducting the salvage claim on behalf of the members of the crew; and
 
@@ -8769,40 +8769,6 @@ Schedule 3: 2 Aug 2010</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 487–509) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 5 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 35): <i>(zc)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     By section 2 of the _Defence Act 1915_(No. 3, 1915), section 7 of the _Defence Act 1914_(No. 36, 1914) is deemed to have commenced on 1 August 1914.
@@ -9293,7 +9259,8 @@ _(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -9311,62 +9278,8 @@ _(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
-
-_(zc)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -12716,14 +12629,6 @@ Div. 4 of Part IIIAAA</div>
   </td>
   <td>
     <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -17559,7 +17464,7 @@ Insert:
 
 ### Division 1—Preliminary
 
-##### <a id="71"></a>71  Simplified outline
+##### <a id="71"></a>71  Simplified outline
 
              (1)  The following is a simplified outline of this Part.
 
@@ -18481,121 +18386,7 @@ After “State”, insert “or Territory”.
 
 After “addition”, insert “to the relevant limitation in paragraph (2)(a), subparagraph (2A)(a)(i) or (ii) or paragraph (2B)(a), (b) or (c)”.
 
-As at 14 July 2011 the amendments are not incorporated in this compilation.
-
-### Note 5
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 487  Subsection 9C(1)
-
-Omit “(1)”.
-
-## 488  Paragraph 9C(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 489  Subsection 9C(1)
-
-Omit “but an officer appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 490  At the end of subsection 9C(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 491  Subsection 9C(2)
-
-Repeal the subsection.
-
-## 492  Subsection 51(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 493  Subsection 51(1) (definition of _exclusive economic zone_)
-
-Repeal the definition.
-
-## 494  Subsection 51(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-## 495  Paragraph 58P(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 496  Subsection 58P(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 497  At the end of subsection 58P(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 498  Subsections 58P(2) to (7)
-
-Repeal the subsections.
-
-## 499  Subsection 58X(1)
-
-Omit “(1)”.
-
-## 500  Paragraph 58X(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 501  Subsection 58X(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 502  At the end of subsection 58X(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 503  Subsections 58X(2) to (7)
-
-Repeal the subsections.
-
-## 504  At the end of subsections 61CO(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 505  Subsection 61CO(9)
-
-Repeal the subsection.
-
-## 506  At the end of subsection 110N(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 507  Subsection 110N(2)
-
-Repeal the subsection.
-
-## 508  Subsections 110YC(1) and (2) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 509  Subsection 110YC(4)
-
-Repeal the subsection.
-
-As at 14 July 2011 the amendments are not incorporated in this compilation.
+As at 19 April 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -19372,21 +19163,5 @@ The amendments made by this Schedule apply in relation to:
                      (a)  the making of determinations on or after the commencement of this Schedule; and
 
                      (b)  the making of variations or revocations of determinations on or after that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
