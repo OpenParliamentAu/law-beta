@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00157/Html/ddb7d6d1-c21a-4f8d-87cd-dafd705739a9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00038/Html/MarineNavLevyColl89WD02_image001.gif)
 
 # Marine Navigation Levy Collection Act 1989
 
 **Act No. 162 of 1989 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 2 February 2010
  taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -86,13 +86,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months commencing on 1 January, 1 April, 1 July or 1 October in any year.
 
-                    <a name="sea-go-ship"></a>**_sea‑going ship_** includes a ship which, in the course of a voyage to or from an Australian port, passes a marine navigational aid under the control of the Commonwealth.
+                    <a name="sea-go-ship"></a>**_sea-going ship_** includes a ship which, in the course of a voyage to or from an Australian port, passes a marine navigational aid under the control of the Commonwealth.
 
                     <a name="ship"></a>**_ship_** has the same meaning as in the _Lighthouses Act 1911_.
 
 ##### <a id="4"></a>4  Application to Crown
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island.
 
 ##### <a id="5"></a>5  Appointment of authorised person
 
@@ -102,7 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6"></a>6  Liability to levy
 
-             (1)  Levy is payable in respect of a sea‑going ship, other than an exempt ship.
+             (1)  Levy is payable in respect of a sea-going ship, other than an exempt ship.
 
              (2)  The following persons are jointly and separately liable to pay any levy that is payable in respect of a ship:
 
@@ -174,9 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="10"></a>10  Detention of ship
 
-             (1)  Any ship in respect of which levy is payable may be detained by any officer of Customs at any Australian port until the levy is paid.
-
-             (2)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
+                   Any ship in respect of which levy is payable may be detained by any officer of Customs at any Australian port until the levy is paid.
 
 ##### <a id="11"></a>11  Rights of agent etc. who has paid levy
 
@@ -184,7 +182,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="12"></a>12  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -313,7 +311,7 @@ of Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 2, 3): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 3 (items 2, 3): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -324,8 +322,8 @@ of Assent</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -358,18 +356,31 @@ of Assent</div>
   <td>
     <div>rs. No. 41, 1991</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
 </tr></table>
 
 ### Note 2
 
 Section 13—The amendments made by section 13 have been incorporated in the reprint of the _Lighthouses Act 1911_, which is published separately.
+
+### Note 3
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 3
+
+## 2  Section 10
+
+Before “Any”, insert “(1)”.
+
+## 3  At the end of section 10
+
+Add:
+
+             (2)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
+
+As at 2 February 2010 the amendments are not incorporated in this compilation.
 
  
