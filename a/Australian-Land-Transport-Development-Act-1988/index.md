@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00377/Html/88df4f82-6807-476c-8a79-7a39f63ce5da_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00132/Html/AusLandTransDev1988_WD02_image001.gif)
 
 # Australian Land Transport Development Act 1988
 
 **Act No. 154 of 1988 as amended**
 
-This compilation was prepared on 7 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 26 March 2007
+ taking into account amendments up to Act No. 8 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,69 +14,69 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
 **Part 2—Payments under this Act**
 
-[15](#15).          Payments under this Act
+[15](#15).          Payments under this Act                                                                     6
 
-[19](#19).          Reallocation of funds
+[19](#19).          Reallocation of funds                                                                           7
 
-[22](#22).          Time for payments
+[22](#22).          Time for payments                                                                              7
 
-[23](#23).          Statement accompanying payment
+[23](#23).          Statement accompanying payment                                                      7
 
-[24](#24).          Condition of payment
+[24](#24).          Condition of payment                                                                         7
 
-**Part 3—Approval of projects and programs**
+**Part III—Approval of projects and programs**
 
-[26](#26).          Closing off the Act to new approvals
+[26](#26).          Closing off the Act to new approvals                                                 8
 
-[27](#27).          Variation of projects etc 
+[27](#27).          Variation of projects etc                                                                      9
 
-[28](#28).          Allocations of payments to local government bodies
+[28](#28).          Allocations of payments to local government bodies                          9
 
-**Part 4—Conditions of payments**
+**Part IV—Conditions of payments**
 
-[28A](#28A).       Manner of application of this Part to different payments under this Act
+[28A](#28A).       Manner of application of this Part to different payments under this Act              11
 
-[29](#29).          Minister may require information to be furnished
+[29](#29).          Minister may require information to be furnished                            11
 
-[30](#30).          Statements of expenditure etc  to be furnished
+[30](#30).          Statements of expenditure etc  to be furnished                                  12
 
-[31](#31).          Condition relating to expenditure of moneys paid under this Act
+[31](#31).          Condition relating to expenditure of moneys paid under this Act    13
 
-[32](#32).          Additional conditions with respect to approved projects and programs
+[32](#32).          Additional conditions with respect to approved projects and programs                13
 
-**Part 5—Miscellaneous**
+**Part V—Miscellaneous**
 
-[33](#33).          Deduction of amounts repayable
+[33](#33).          Deduction of amounts repayable                                                       18
 
-[36](#36).          Money deemed to have been expended on national highway projects
+[36](#36).          Money deemed to have been expended on national highway projects 18
 
-[37](#37).          Minister may issue guidelines
+[37](#37).          Minister may issue guidelines                                                           18
 
-[38](#38).          Standards for national highways
+[38](#38).          Standards for national highways                                                        19
 
-[39](#39).          Delegations
+[39](#39).          Delegations                                                                                        19
 
-[41](#41).          Report to Parliament
+[41](#41).          Report to Parliament                                                                         20
 
 **Notes** 
 
 ## An Act to govern payments for the purposes of the development and maintenance of land transport systems, and for related purposes
 
-## Part 1—Preliminary
+## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -102,7 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="approved-road-safeti-organis"></a>**_approved road safety organisation_** means an organisation in respect of which a declaration under subsection 8(2) is in force.
 
-                    <a name="auslink-transition-time"></a>**_AusLink transition time_** means the commencement of Parts 3 to 8 of the _AusLink (National Land Transport) Act 2005_.
+                    <a name="auslink-transition-time"></a>**_AusLink transition time_** means the commencement of Parts 3 to 8 of the _AusLink (__National__Land__Transport) Act 2005_.
 
                     <a name="capit-railwai-project"></a>**_capital railway project_** means a project by way of capital expenditure in relation to an interstate mainline railway, and includes:
 
@@ -174,7 +174,7 @@ but does not include the maintenance of the railway or road.
 
 before the AusLink transition time.
 
-Note:          The Australian Land Transport Development Reserve existed under the Act until 1 July 1999, when it was replaced by the Australian Land Transport Development Account (a special account by force of the _Financial Management Legislation Amendment Act 1999_). That account was abolished by the _AusLink (National Land Transport—Consequential and Transitional Provisions) Act 2005_.
+Note:          The Australian Land Transport Development Reserve existed under the Act until 1 July 1999, when it was replaced by the Australian Land Transport Development Account (a special account by force of the _Financial Management Legislation Amendment Act 1999_). That account was abolished by the _AusLink (__National__Land__Transport—Consequential and Transitional Provisions) Act 2005_.
 
                     <a name="provinci-citi-rural-highwai-road"></a>**_provincial cities and rural highways road_** means a road or a proposed road in respect of which a declaration under subsection 7A(1) is in force.
 
@@ -212,7 +212,7 @@ Note:          The Australian Land Transport Development Reser
 
 associated with a road.
 
-                    <a name="state"></a>**_State_** includes the Northern Territory or the Australian Capital Territory.
+                    <a name="state"></a>**_State_** includes the Northern Territory or the Australian   Capital Territory.
 
                     <a name="state-arteri-road"></a>**_State arterial road_** means a road, or proposed road, in respect of which a declaration under subsection 6(1) is in force.
 
@@ -298,7 +298,7 @@ the Minister may authorise the amount (or a specified part of the amount) to be 
 
                    A payment of an amount under this Act to a State, authority or approved organisation is subject to the condition that the State, authority or organisation will expend the amount as required by the statement under section 23 that accompanied the payment.
 
-## Part 3—Approval of projects and programs
+## Part III—Approval of projects and programs
 
 ##### <a id="26"></a>26  Closing off the Act to new approvals
 
@@ -358,7 +358,7 @@ Certain declarations under this Act continue in force
 
              (4)  The Minister may vary principles determined by the Minister for the purposes of subsection (1).
 
-## Part 4—Conditions of payments
+## Part IV—Conditions of payments
 
 ##### <a id="28A"></a>28A  Manner of application of this Part to different payments under this Act
 
@@ -406,9 +406,9 @@ Certain declarations under this Act continue in force
 
                     <a name="appropri-person"></a>**_appropriate person_** means:
 
-                     (a)  in relation to a State or to an authority or organisation whose accounts are required by law to be audited by the Auditor‑General of a State—the Auditor‑General of the State;
+                     (a)  in relation to a State or to an authority or organisation whose accounts are required by law to be audited by the Auditor-General of a State—the Auditor-General of the State;
 
-                     (b)  in relation to an authority or organisation whose accounts are required by law to be audited by the Auditor‑General of the Commonwealth—the Auditor‑General of the Commonwealth; or
+                     (b)  in relation to an authority or organisation whose accounts are required by law to be audited by the Auditor-General of the Commonwealth—the Auditor-General of the Commonwealth; or
 
                      (c)  in any other case—a qualified accountant.
 
@@ -416,7 +416,7 @@ Certain declarations under this Act continue in force
 
                      (a)  a person who is registered as a company auditor or a public accountant under a law in force in a State; or
 
-                     (b)  a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants.
+                     (b)  a member of the Institute of Chartered   Accountants in Australia or of the Australian Society of Accountants.
 
 ##### <a id="31"></a>31  Condition relating to expenditure of moneys paid under this Act
 
@@ -484,7 +484,7 @@ Certain declarations under this Act continue in force
 
                              (v)  in the case of an approved railway authority—on capital railway projects;
 
-                   (na)  in the case of a State—that, where amounts paid to the State are required by virtue of this Act to be expended on the carrying out of a project or program for:
+                    (na)  in the case of a State—that, where amounts paid to the State are required by virtue of this Act to be expended on the carrying out of a project or program for:
 
                               (i)  the road safety improvement of black spots; or
 
@@ -508,7 +508,7 @@ the State will give to the Minister an undertaking that it will implement road s
 
                      (b)  works carried out by a public utility.
 
-## Part 5—Miscellaneous
+## Part V—Miscellaneous
 
 ##### <a id="33"></a>33  Deduction of amounts repayable
 
@@ -785,23 +785,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6–9): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian__Land__Transport Development Act 1988_ was amended by the Schedule (items 4–8) only of the _Transport and Communications Amendment Act (No. 2) 1993_, subsections 2(1) and (9) of which provide as follows:
@@ -810,11 +793,11 @@ _(a)_     The _Australian__Land__Transport Development Act 1988_ was ame
 
                  (9)   The amendments contained in items 4, 5, 6 and 7 of the Schedule are taken to have commenced on 1 July 1992.
 
-_(b)_     The _Australian__Land__Transport Development Act 1988_ was amended by Schedule 2 (items 347–367) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(b)_    The _Australian__Land__Transport Development Act 1988_ was amended by Schedule 2 (items 347–367) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(c)_     The _Australian__Land__Transport Development Act 1988_ was amended by Schedule 1 (item 200) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provides as follows:
+_(c)_     The _Australian__Land__Transport Development Act 1988_ was amended by Schedule  (item 200) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provides as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -865,26 +848,10 @@ _(d)_ The _Australian__Land__Transport Development Act 1988_ was amended by Sche
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>rep. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1</div>
-  </td>
-  <td>
-    <div>ad. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1178,26 +1145,10 @@ rs. No. 94, 2005</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1234,26 +1185,10 @@ rs. No. 94, 2005</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rep. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1314,26 +1249,10 @@ rs. No. 94, 2005</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part V</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>rep. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1413,6 +1332,14 @@ rs. No. 94, 2005</div>
     <div>S. 40</div>
   </td>
   <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
     <div>rep. No. 118, 1999</div>
   </td>
 </tr>
@@ -1479,23 +1406,23 @@ In this Schedule:
 
 **_transition time_** means the commencement of this Schedule.
 
-## 2  Determination of what approvals become approvals under the _AusLink (National Land Transport) Act 2005_
+## 2  Determination of what approvals become approvals under the _AusLink (__National__Land__Transport) Act 2005_
 
-(1)       The Minister may, in writing, determine:
+(1)        The Minister may, in writing, determine:
 
                      (a)  that specified approvals of projects or programs (each of which is a **_carried over approval_**) that are in force under subsection 26(3) of the _Australian Land Transport Development Act 1988_ immediately before the transition time are to be taken, after that time, to be approvals properly granted under the _AusLink (National Land Transport) Act 2005_; and
 
-                     (b)  for each of those carried over approvals—whether the approval is to be taken to be an approval of an AusLink National Project, an AusLink Transport Development and Innovation Project or an AusLink Black Spot Project (within the meaning of the _AusLink (National Land Transport) Act 2005_).
+                     (b)  for each of those carried over approvals—whether the approval is to be taken to be an approval of an AusLink National Project, an AusLink Transport Development and Innovation Project or an AusLink Black Spot Project (within the meaning of the _AusLink (__National__Land__Transport) Act 2005_).
 
-(2)       The determination has effect accordingly.
+(2)        The determination has effect accordingly.
 
-(3)       The Minister may, in writing, vary the determination to correct an error.
+(3)        The Minister may, in writing, vary the determination to correct an error.
 
-(4)       The Minister cannot vary the determination except as permitted by subitem (3) and cannot revoke the determination.
+(4)        The Minister cannot vary the determination except as permitted by subitem (3) and cannot revoke the determination.
 
-(5)       For the purposes of the _AusLink (National Land Transport) Act 2005_, an amount paid under the _Australian Land Transport Development Act 1988_ before the transition time in respect of a project or program to which a carried over approval relates is to be counted towards the maximum funding amount that may be provided under the _AusLink (National Land Transport) Act 2005_ for the project or program.
+(5)        For the purposes of the _AusLink (National Land Transport) Act 2005_, an amount paid under the _Australian Land Transport Development Act 1988_ before the transition time in respect of a project or program to which a carried over approval relates is to be counted towards the maximum funding amount that may be provided under the _AusLink (National Land Transport) Act 2005_ for the project or program.
 
-(6)       The determination under subitem (1), or an instrument varying the determination, is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
+(6)        The determination under subitem (1), or an instrument varying the determination, is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
 
 ## 3  Appropriation
 
@@ -1507,8 +1434,8 @@ $1,371,489,000 is appropriated out of the Consolidated Revenue Fund in respect o
 
 ## 4  Final charge rate determination
 
-(1)       Despite the amendments made by Schedule 1 to this Act, section 10 of the _Australian__Land__Transport Development Act 1988_, as in force immediately before the transition time, continues to have effect after the transition time for the purpose of the making of a determination under that section in respect of the financial year ending on 30 June 2005.
+(1)        Despite the amendments made by Schedule 1 to this Act, section 10 of the _Australian__Land__Transport Development Act 1988_, as in force immediately before the transition time, continues to have effect after the transition time for the purpose of the making of a determination under that section in respect of the financial year ending on 30 June 2005.
 
-(2)       A determination under section 10 of the _Australian Land Transport Development Act 1988_, as that section continues to have effect under subitem (1), has effect for the purposes of that Act as in force from 1 July 2004 to the transition time.
+(2)        A determination under section 10 of the _Australian Land Transport Development Act 1988_, as that section continues to have effect under subitem (1), has effect for the purposes of that Act as in force from 1 July 2004 to the transition time.
 
  
