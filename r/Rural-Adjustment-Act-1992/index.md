@@ -1,127 +1,127 @@
-![](http://www.comlaw.gov.au/Details/C2009C00292/Html/RuralAdjusAct_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01071/Html/84EF846BB3439E5CCA25716B008344AE/$FILE/image001.gif)
 
 # Rural Adjustment Act 1992 
 
 **Act No. 240 of 1992 as amended**
 
-This compilation was prepared on 6 July 2009
- taking into account amendments up to Act No. 53 of 2009
+This compilation was prepared on 1 February 2000 
+taking into account amendments up to Act No. 170 of 1999
 
 The text of any of these amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, Canberra
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Objectives of this Act
+[3](#3).            Objectives of this Act                                                                          1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
 **Part 2—The National Rural Advisory Council** 
 
     **Division 1—Establishment of the Council**
 
-[5](#5).            Establishment of the Council
+[5](#5).            Establishment of the Council                                                               4
 
-[6](#6).            How the Council is to be constituted
+[6](#6).            How the Council is to be constituted                                                  4
 
-[7](#7).            Period of appointment of members
+[7](#7).            Period of appointment of members                                                     4
 
     **Division 2—Functions of the Council**
 
-[8](#8).            Function of the Council
+[8](#8).            Function of the Council                                                                       5
 
-[9](#9).            Committees
+[9](#9).            Committees                                                                                          5
 
-[10](#10).          Staff
+[10](#10).          Staff                                                                                                     5
 
     **Division 3—Administrative provisions**
 
-[11](#11).          Remuneration and allowances
+[11](#11).          Remuneration and allowances                                                              6
 
-[12](#12).          Terms and conditions of appointment not provided for by Act
+[12](#12).          Terms and conditions of appointment not provided for by Act         6
 
-[13](#13).          Leave of absence
+[13](#13).          Leave of absence                                                                                  6
 
-[14](#14).          Resignation
+[14](#14).          Resignation                                                                                          6
 
-[15](#15).          Acting appointments
+[15](#15).          Acting appointments                                                                           7
 
-[16](#16).          Disclosure of interests
+[16](#16).          Disclosure of interests                                                                         8
 
-[17](#17).          Termination of appointment
+[17](#17).          Termination of appointment                                                               8
 
-[18](#18).          Meetings
+[18](#18).          Meetings                                                                                              8
 
-[19](#19).          Resolutions without meetings
+[19](#19).          Resolutions without meetings                                                             9
 
-[20](#20).          Annual report
+[20](#20).          Annual report                                                                                      9
 
 **Part 3—The Rural Adjustment Scheme** 
 
     **Division 1—Agreements with persons other than States**
 
-[20A](#20A).       Agreements with persons other than States
+[20A](#20A).       Agreements with persons other than States                                      11
 
-[20B](#20B).       Memorandum of understanding about section 20A powers
+[20B](#20B).       Memorandum of understanding about section 20A powers             12
 
-[20C](#20C).       Delegation
+[20C](#20C).       Delegation                                                                                          12
 
-[20D](#20D).       Repayment of grants and loans, payment of interest etc 
+[20D](#20D).       Repayment of grants and loans, payment of interest etc                  12
 
     **Division 2—State component of the Rural Adjustment Scheme**
 
-[20E](#20E).        Agreements with States
+[20E](#20E).        Agreements with States                                                                     13
 
-[21](#21).          Payments by the Commonwealth under an agreement with a State
+[21](#21).          Payments by the Commonwealth under an agreement with a State  13
 
-[21A](#21A).       Performance requirements
+[21A](#21A).       Performance requirements                                                                 14
 
-[21B](#21B).       Repayment of grants etc 
+[21B](#21B).       Repayment of grants etc                                                                    14
 
     **Division 3—Support to be inalienable**
 
-[22](#22).          Support under the Rural Adjustment Scheme to be inalienable
+[22](#22).          Support under the Rural Adjustment Scheme to be inalienable        15
 
 **Part 4—The Farm Business Improvement Program** 
 
     **Division 1—Agreements with persons other than States**
 
-[22AA](#22AA).    Agreements with persons other than States
+[22AA](#22AA).    Agreements with persons other than States                                      16
 
-[22AB](#22AB).    Delegation
+[22AB](#22AB).    Delegation                                                                                          16
 
-[22AC](#22AC).    Repayment of grants etc 
+[22AC](#22AC).    Repayment of grants etc                                                                    16
 
     **Division 2—Agreements with the States**
 
-[22AD](#22AD).    Agreements with States
+[22AD](#22AD).    Agreements with States                                                                     17
 
-[22AE](#22AE).     Payments by the Commonwealth under an agreement with a State
+[22AE](#22AE).     Payments by the Commonwealth under an agreement with a State  17
 
-[22AF](#22AF).     Performance requirements etc 
+[22AF](#22AF).     Performance requirements etc                                                            17
 
-[22AG](#22AG).    Repayment of grants etc 
+[22AG](#22AG).    Repayment of grants etc                                                                    18
 
 **Part 5—Other payment powers not limited**
 
-[22A](#22A).       Other payment powers not limited
+[22A](#22A).       Other payment powers not limited                                                   19
 
 **Part 6—Regulations**
 
-[23](#23).          Regulations
+[23](#23).          Regulations                                                                                        20
 
 **Notes** 
+
 
 ## An Act relating to rural adjustment
 
@@ -229,7 +229,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  A member holds office for the period, not exceeding 3 years, specified in the instrument of appointment.
 
-             (2)  A person may be appointed as a member for a maximum of 3 periods.
+             (2)  A person may, on one occasion only, be re-appointed as a member.
 
 ### Division 2—Functions of the Council
 
@@ -565,6 +565,7 @@ This subsection does not, by implication, limit the generality of subsection (1)
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
+
 # Notes to the_ Rural Adjustment Act 1992_
 
 ### Note 1
@@ -591,11 +592,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -605,160 +608,164 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Rural Adjustment Act 1992</div>
-  </td>
-  <td>
-    <div>240, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>1 Jan 1993</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>94, 1994</div>
-  </td>
-  <td>
-    <div>29 June 1994</div>
-  </td>
-  <td>
-    <div>S. 11: 1 July 1993 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1995</div>
-  </td>
-  <td>
-    <div>36, 1995</div>
-  </td>
-  <td>
-    <div>12 Apr 1995</div>
-  </td>
-  <td>
-    <div>S. 3 (items 29-50): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 3 (item 50)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Rural Adjustment Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>10, 1999</div>
-  </td>
-  <td>
-    <div>31 Mar 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 11, 12): <i>(c)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 800): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 2 (as am. by 146, 1999, Sch. 1 \[item 800])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 798, 799): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>170, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 6: 1 Apr 1999 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 7) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Rural Adjustment Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>53, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody></tbody></table>
+
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td>
+      <div>Rural Adjustment Act 1992</div>
+    </td>
+    <td>
+      <div>240, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>1 Jan 1993</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>94, 1994</div>
+    </td>
+    <td>
+      <div>29 June 1994</div>
+    </td>
+    <td>
+      <div>S. 11: 1 July 1993 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1995</div>
+    </td>
+    <td>
+      <div>36, 1995</div>
+    </td>
+    <td>
+      <div>12 Apr 1995</div>
+    </td>
+    <td>
+      <div>S. 3 (items 29-50): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 3 (item 50)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Rural Adjustment Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>10, 1999</div>
+    </td>
+    <td>
+      <div>31 Mar 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 11, 12): <i>(c)</i> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 10) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 800): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 2 (as am. by 146, 1999, Sch. 1 \[item 800])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 798, 799): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>170, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 6: 1 Apr 1999 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>Sch. 6 (item 7) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 _(a)_     The _Rural Adjustment Act 1992_ was amended by the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows:
 
@@ -790,12 +797,15 @@ _(f)_      The _Rural Adjustment Act 1992_ was amended by Schedule 6 o
 
                  (4)   Schedule 6 is taken to have commenced on 1 April 1999.
 
+ 
+
+
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -813,446 +823,307 @@ _(f)_      The _Rural Adjustment Act 1992_ was amended by Schedule 6 o
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1995; Nos. 10 and 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1995; No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 53, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rs. No. 94, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 1995; No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20B</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20C</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20D</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20E</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1995; No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21B</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22AA</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22AB</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22AC</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22AD, 22AE</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22AF</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22AG</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 6</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1995</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1995; Nos. 10 and 170, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2</div>
+    </td>
+    <td>
+      <div>rs. No. 170, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 170, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1995; No. 170, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 170, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 170, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>rs. No. 94, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 3</div>
+    </td>
+    <td>
+      <div>rs. No. 36, 1995; No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20A</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20B</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20C</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20D</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20E</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1995; No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21A</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21B</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 4 (ss. 22AA-22AG)</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22AA</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22AB</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 22AC-22AE</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22AF</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22AG</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 5 (s. 22A)</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22A</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 6</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1995</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1270,7 +1141,9 @@ An agreement relating to the Farm Business Improvement Program made between the 
 
                      (b)  not to have been made under section 20E of that Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No. 170, 1999)_
 
@@ -1279,5 +1152,10 @@ _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No.
 ## 7  Transitional—continuity of Council not affected by amendments
 
 The amendments made by this Schedule do not affect the continuity, after this Schedule commences, of the existence and the membership of the body that is renamed by those amendments as the National Rural Advisory Council.
+
+ 
+
+
+ 
 
  
