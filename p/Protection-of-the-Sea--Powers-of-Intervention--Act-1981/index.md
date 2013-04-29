@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00077/Html/ProtSeaPowersIntervention1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00569/Html/ProtSeaPowersIntervention1981_image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 16 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -18,55 +18,55 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[4](#4).            Act to bind Crown                                                                               4
+[4](#4).            Act to bind Crown
 
-[5](#5).            Relationship to other laws                                                                   4
+[5](#5).            Relationship to other laws
 
-[6](#6).            Operation of Act                                                                                 5
+[6](#6).            Operation of Act
 
-[7](#7).            Delegation                                                                                            5
+[7](#7).            Delegation
 
-[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas  5
+[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas
 
-[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas                                                                                                             7
+[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas
 
-[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers            10
+[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers
 
-[11](#11).          Directions under Act may require taking of action etc                      14
+[11](#11).          Directions under Act may require taking of action etc 
 
-[12](#12).          Addressing of directions under Act etc                                             17
+[12](#12).          Addressing of directions under Act etc 
 
-[13](#13).          Issuing of more than one direction in relation to a ship                     17
+[13](#13).          Issuing of more than one direction in relation to a ship
 
-[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc        18
+[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc 
 
-[15](#15).          Revocation and variation of directions under Act                             18
+[15](#15).          Revocation and variation of directions under Act
 
-[16](#16).          Directions under Act to be in writing                                                18
+[16](#16).          Directions under Act to be in writing
 
-[17](#17).          Service of directions under Act                                                          18
+[17](#17).          Service of directions under Act
 
-[17A](#17A).       Liability for acts and omissions                                                         21
+[17A](#17A).       Liability for acts and omissions
 
-[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship        22
+[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship
 
-[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset  23
+[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset
 
-[19](#19).          Contravention of direction under Act etc                                          24
+[19](#19).          Contravention of direction under Act etc 
 
-[20](#20).          No time limit for prosecution                                                            25
+[20](#20).          No time limit for prosecution
 
-[21](#21).          Evidence                                                                                             25
+[21](#21).          Evidence
 
-[22](#22).          Compensation for acquisition of property                                        26
+[22](#22).          Compensation for acquisition of property
 
-[23](#23).          Regulations                                                                                        26
+[23](#23).          Regulations
 
 **Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties** 
 
@@ -136,7 +136,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
-                    <a name="good"></a>**_goods_** has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="good"></a>**_goods_** has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="high-sea"></a>**_high seas_** means all parts of the sea to which Part VII of the UN Convention on the Law of the Sea applies.
 
@@ -156,7 +156,7 @@ Note:          Article 86 of the UN Convention on the Law of t
 
 and as amended from time to time.
 
-                    <a name="servic"></a>**_services_** has the same meaning as in the _Competition and Consumer Act 2010_, and includes services provided by an employee.
+                    <a name="servic"></a>**_services_** has the same meaning as in the _Trade Practices Act 1974_, and includes services provided by an employee.
 
                     <a name="ship"></a>**_ship_**:
 
@@ -164,7 +164,7 @@ and as amended from time to time.
 
                      (b)  when used in relation to a matter arising under, or relating to, section 10—has the same meaning as in the _Navigation Act 1912_.
 
-                    <a name="suppli"></a>**_supply_** has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="suppli"></a>**_supply_** has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="tangibl-asset"></a>**_tangible asset_** means:
 
@@ -1694,7 +1694,7 @@ Sulphur Dioxide
 
 Radioactive substances, including, but not limited to, elements and compounds the isotopes of which are subject to the requirements of Section 835 of the Regulations for the Safe Transport of Radioactive Materials, 1973 Revised Edition, published by the International Atomic Energy Agency, and which may be found to be stored or transported as substances and/or materials in Type A packages, Type B packages, as fissile materials or materials transported under special arrangements, such as
 
-60<sub>Co,</sub>         137<sub>Cs,</sub>               226<sub>Ra,</sub>               239<sub>Pu,</sub>               235<sub>U.</sub>
+60<sub>Co,</sub>         137<sub>Cs,</sub>              226<sub>Ra,</sub>              239<sub>Pu,</sub>              235<sub>U.</sub>
 
 # Schedule 3—Resolution MEPC.49(31)
 
@@ -3588,7 +3588,7 @@ of Assent</div>
     <div>14 Apr 1981</div>
   </td>
   <td>
-    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
+    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
   </td>
   <td>
     <div></div>
@@ -3657,7 +3657,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (items 121, 122): Royal Assent <i>(b)</i></div>
+    <div>Schedule 5 (items 121, 122): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3722,10 +3722,10 @@ Remainder: Royal Assent</div>
     <div>77, 2008</div>
   </td>
   <td>
-    <div>12 July 2008</div>
+    <div>12 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 6): 16 June 2009 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 6): 16 June 2009 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -3742,7 +3742,7 @@ Remainder: Royal Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 83): Royal Assent</div>
+    <div>Schedule 5 (item 83): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -3756,10 +3756,10 @@ Remainder: Royal Assent</div>
     <div>103, 2010</div>
   </td>
   <td>
-    <div>13 July 2010</div>
+    <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 87–89): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 87–89): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3806,7 +3806,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006; Nos. 8 and 103, 2010</div>
+    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4073,6 +4073,29 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div>ad. No. 149, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Protection of the Sea (Powers of Intervention) Act 1981</h9>
+
+## 87  Subsection 3(1) (definition of _goods_)
+
+## 88  Subsection 3(1) (definition of _services_)
+
+## 89  Subsection 3(1) (definition of _supply_)
+
+As at 16 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
