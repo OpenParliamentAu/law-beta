@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00360/Html/07b0ad09-1495-4e8a-b93b-fafc112b39a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00664/Html/2a5fb4f5-3879-4499-9606-c659ab0ae575_files/image001.gif)
 
 # Tax Agent Services Act 2009
 
 **Act No. 13 of 2009 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 23 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -283,8 +283,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 80—Rules for interpreting this Act**
 
 [80‑1](#80‑1).       What forms part of this Act
-
-[80‑2](#80‑2).       What does not form part of this Act
 
 [80‑5](#80‑5).       The role of Guides in interpreting this Act
 
@@ -857,7 +855,7 @@ You must also notify the Board if certain circumstances change, including if you
 
 30‑10        The Code of Professional Conduct
 
-##### <a id="30‑5"></a>30‑5  Application of the Code of Professional Conduct
+##### <a id="30‑5"></a>30‑5  Application of the Code of Professional Conduct
 
                    The * Code of Professional Conduct applies to you if you are a * registered tax agent or BAS agent.
 
@@ -1643,7 +1641,7 @@ The Board must also report to the Minister on its operations each year, maintain
 
                    A * Board member holds office for the period specified in the instrument of appointment.
 
-Note:          A Board member is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A Board member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="60‑35"></a>60‑35  Remuneration and allowances
 
@@ -2351,8 +2349,6 @@ Limit on on‑disclosure to courts or tribunals
 
 80‑1          What forms part of this Act
 
-80‑2          What does not form part of this Act
-
 80‑5          The role of Guides in interpreting this Act
 
 ##### <a id="80‑1"></a>80‑1  What forms part of this Act
@@ -2368,10 +2364,6 @@ Limit on on‑disclosure to courts or tribunals
                      (d)  the notes and examples (however described) that follow provisions of this Act.
 
              (2)  The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision.
-
-##### <a id="80‑2"></a>80‑2  What does not form part of this Act
-
-                   Tables of Subdivisions and tables of sections do not form part of this Act.
 
 ##### <a id="80‑5"></a>80‑5  The role of Guides in interpreting this Act
 
@@ -2602,10 +2594,10 @@ Schedule 2: <i>(a)</i></div>
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (items 1107, 1108) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 1107, 1108) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
-      <div>Sch. 3 (items 10, 11)</div>
+      <div>Sch. 3 (items 10, 11)</div>
     </td>
   </tr>
 </thead></table>
@@ -2803,22 +2795,6 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision 60-B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 60-30</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision 60-F</b></div>
   </td>
   <td>
@@ -2899,22 +2875,6 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
 </tr>
 <tr>
   <td>
-    <div><b>Division 80</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80-2</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 90</b></div>
   </td>
   <td>
@@ -2929,6 +2889,28 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
     <div>am. No. 145, 2010</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1107  Section 60‑30 (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 1108  After section 80‑1
+
+Insert:
+
+##### <a id="80‑2"></a>80‑2  What does not form part of this Act
+
+                   Tables of Subdivisions and tables of sections do not form part of this Act.
+
+As at 23 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2946,6 +2928,8 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
