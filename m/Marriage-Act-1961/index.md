@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00192/Html/1c3f939f-2d8b-4e75-9462-307fa8b8f99a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00189/Html/MarriageAct1961_WD02_image001.gif)
 
 # Marriage Act 1961
 
 **Act No. 12 of 1961 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,313 +14,313 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                       1
 
-[5A](#5A).         Application of the _Criminal Code_
+[5A](#5A).         Application of the _Criminal Code_                                                       4
 
-[6](#6).            Act not to exclude operation of certain State and Territory laws
+[6](#6).            Act not to exclude operation of certain State and Territory laws       4
 
-[7](#7).            Validity of certain marriages not affected
+[7](#7).            Validity of certain marriages not affected                                            4
 
-[8](#8).            Extension of Act to Territories etc 
+[8](#8).            Extension of Act to Territories etc                                                      5
 
-[9](#9).            Arrangements with State
+[9](#9).            Arrangements with State                                                                     5
 
-[9A](#9A).         Persons who may exercise certain powers may be restricted by Proclamation
+[9A](#9A).         Persons who may exercise certain powers may be restricted by Proclamation       6
 
 **Part IA—Marriage education**
 
-[9B](#9B).         Grants to approved organisations
+[9B](#9B).         Grants to approved organizations                                                       7
 
-[9C](#9C).         Approval of voluntary organisations
+[9C](#9C).         Approval of voluntary organizations                                                  7
 
-[9E](#9E).          Reports and financial statements of approved organisations
+[9E](#9E).          Reports and financial statements of approved organizations              8
 
 **Part II—Marriageable age and marriages of minors**
 
-[10](#10).          Application of Part
+[10](#10).          Application of Part                                                                              9
 
-[11](#11).          Marriageable age
+[11](#11).          Marriageable age                                                                                  9
 
-[12](#12).          Authorisation of marriage of person under age of 18 years in exceptional circumstances
+[12](#12).          Authorisation of marriage of person under age of 18 years in exceptional circumstances       9
 
-[13](#13).          Marriage of minor not to be solemnised without consent of parents etc 
+[13](#13).          Marriage of minor not to be solemnized without consent of parents etc                10
 
-[14](#14).          Persons whose consent is required
+[14](#14).          Persons whose consent is required                                                    12
 
-[15](#15).          Prescribed authority may dispense with consent in certain cases
+[15](#15).          Prescribed authority may dispense with consent in certain cases     12
 
-[16](#16).          Consent by magistrate where parent etc  refuses consent etc 
+[16](#16).          Consent by magistrate where parent etc  refuses consent etc           13
 
-[17](#17).          Re‑hearing of applications by a Judge
+[17](#17).          Re-hearing of applications by a Judge                                               15
 
-[18](#18).          Provisions applicable to inquiries by Judge or magistrate
+[18](#18).          Provisions applicable to inquiries by Judge or magistrate                 15
 
-[19](#19).          Restriction on applications under sections 12, 15 and 16
+[19](#19).          Restriction on applications under sections 12, 15 and 16                 16
 
-[20](#20).          Effect of consent of magistrate or Judge
+[20](#20).          Effect of consent of magistrate or Judge                                            16
 
-[21](#21).          Consent by magistrate or Judge and dispensation with consent to be ineffective after 3 months etc 
+[21](#21).          Consent by magistrate or Judge and dispensation with consent to be ineffective after 3 months etc     17
 
 **Part III—Void marriages** 
 
-    **Division 1—Marriages solemnised on or after 20 June 1977 and before the commencement of section 13 of the Marriage Amendment Act 1985**
+    **Division 1—Marriages solemnized on or after 20 June 1977 and before the commencement of section 13 of the Marriage Amendment Act 1985**
 
-[22](#22).          Division to be subject to application of private international law
+[22](#22).          Division to be subject to application of private international law    18
 
-[23](#23).          Grounds on which marriages are void
+[23](#23).          Grounds on which marriages are void                                                18
 
-    **Division 2—Marriages solemnised after the commencement of section 13 of the Marriage Amendment Act 1985**
+    **Division 2—Marriages solemnized after the commencement of section 13 of the Marriage Amendment Act 1985**
 
-[23A](#23A).       Application of Division
+[23A](#23A).       Application of Division                                                                     20
 
-[23B](#23B).       Grounds on which marriages are void
+[23B](#23B).       Grounds on which marriages are void                                                20
 
-**Part IV—Solemnisation of marriages in Australia** 
+**Part IV—Solemnization of marriages in Australia** 
 
-    **Division 1—Authorised celebrants** 
+    **Division 1—Authorized celebrants** 
 
         **Subdivision A—Ministers of religion**
 
-[25](#25).          Interpretation
+[25](#25).          Interpretation                                                                                     22
 
-[26](#26).          Recognised denominations
+[26](#26).          Recognised denominations                                                                 22
 
-[27](#27).          Registers of ministers of religion
+[27](#27).          Registers of ministers of religion                                                       22
 
-[28](#28).          Transfer of State registers
+[28](#28).          Transfer of State registers                                                                  23
 
-[29](#29).          Qualifications for registration under this Subdivision
+[29](#29).          Qualifications for registration under this Subdivision                       23
 
-[30](#30).          Registrar to register applicant
+[30](#30).          Registrar to register applicant                                                            24
 
-[31](#31).          Applicant may be refused registration in certain circumstances
+[31](#31).          Applicant may be refused registration in certain circumstances       24
 
-[32](#32).          Effect of registration
+[32](#32).          Effect of registration                                                                          24
 
-[33](#33).          Removal from register
+[33](#33).          Removal from register                                                                        25
 
-[34](#34).          Review of refusal to register or removal from register
+[34](#34).          Review of refusal to register or removal from register                       26
 
-[35](#35).          Change of address etc  to be notified
+[35](#35).          Change of address etc  to be notified                                                 27
 
-[36](#36).          Transfer to another State etc 
+[36](#36).          Transfer to another State etc                                                             27
 
-[37](#37).          Furnishing of information by recognised denominations
+[37](#37).          Furnishing of information by recognised denominations                   27
 
-[38](#38).          Registrars to furnish information to Attorney‑General
+[38](#38).          Registrars to furnish information to Attorney-General                     28
 
         **Subdivision B—State and Territory officers etc.**
 
-[39](#39).          Authorisation of State and Territory officers etc 
+[39](#39).          Authorisation of State and Territory officers etc                              28
 
         **Subdivision C—Marriage celebrants**
 
-[39A](#39A).       Registrar of Marriage Celebrants
+[39A](#39A).       Registrar of Marriage Celebrants                                                       29
 
-[39B](#39B).       Register of marriage celebrants
+[39B](#39B).       Register of marriage celebrants                                                          29
 
-[39C](#39C).       Entitlement to be registered as a marriage celebrant
+[39C](#39C).       Entitlement to be registered as a marriage celebrant                          29
 
-[39D](#39D).       Registration as a marriage celebrant
+[39D](#39D).       Registration as a marriage celebrant                                                   31
 
-[39E](#39E).        Capping of number of marriage celebrants for 5 years
+[39E](#39E).        Capping of number of marriage celebrants for 5 years                      32
 
-[39F](#39F).        Effect of registration
+[39F](#39F).        Effect of registration                                                                          32
 
-[39G](#39G).       Obligations of each marriage celebrant
+[39G](#39G).       Obligations of each marriage celebrant                                               32
 
-[39H](#39H).       Performance reviews
+[39H](#39H).       Performance reviews                                                                          33
 
-[39I](#39I).         Disciplinary measures
+[39I](#39I).         Disciplinary measures                                                                       34
 
-[39J](#39J).        Review of decisions
+[39J](#39J).        Review of decisions                                                                           35
 
-[39K](#39K).       Additional functions of the Registrar
+[39K](#39K).       Additional functions of the Registrar                                                36
 
-[39L](#39L).        Registrar not liable for damages
+[39L](#39L).        Registrar not liable for damages                                                         36
 
-[39M](#39M).      Evidence of registration etc 
+[39M](#39M).      Evidence of registration etc                                                                36
 
     **Division 2—Marriages by authorised celebrants**
 
-[40](#40).          Application of Division
+[40](#40).          Application of Division                                                                     37
 
-[41](#41).          Marriages to be solemnised by authorised celebrant
+[41](#41).          Marriages to be solemnized by authorised celebrant                         37
 
-[42](#42).          Notice to be given and declaration made
+[42](#42).          Notice to be given and declaration made                                            37
 
-[42A](#42A).       Commissioner of Australian Federal Police or approved authority may issue special notice
+[42A](#42A).       Commissioner of Australian Federal Police or approved authority may issue special notice 40
 
-[43](#43).          Marriage may be solemnised on any day etc 
+[43](#43).          Marriage may be solemnized on any day etc                                    40
 
-[44](#44).          Witnesses
+[44](#44).          Witnesses                                                                                           41
 
-[45](#45).          Form of ceremony
+[45](#45).          Form of ceremony                                                                             41
 
-[46](#46).          Certain authorised celebrants to explain nature of marriage relationship
+[46](#46).          Certain authorised celebrants to explain nature of marriage relationship 41
 
-[47](#47).          Ministers of religion not bound to solemnise marriage etc 
+[47](#47).          Ministers of religion not bound to solemnize marriage etc                42
 
-[48](#48).          Certain marriages not solemnised in accordance with this Division to be invalid
+[48](#48).          Certain marriages not solemnized in accordance with this Division to be invalid   42
 
-[49](#49).          Authorised celebrant to retain consents, statutory declarations etc 
+[49](#49).          Authorised celebrant to retain consents, statutory declarations etc  43
 
-[50](#50).          Marriage certificates
+[50](#50).          Marriage certificates                                                                          43
 
-[51](#51).          Incorrect marriage certificates
+[51](#51).          Incorrect marriage certificates                                                            45
 
     **Division 3—Marriages by foreign diplomatic or consular officers**
 
-[52](#52).          Interpretation
+[52](#52).          Interpretation                                                                                     47
 
-[53](#53).          Application of Division
+[53](#53).          Application of Division                                                                     47
 
-[54](#54).          Governor‑General may declare countries to be proclaimed overseas countries
+[54](#54).          Governor-General may declare countries to be proclaimed overseas countries       47
 
-[55](#55).          Solemnisation of marriages in Australia by foreign diplomatic or consular officer
+[55](#55).          Solemnization of marriages in Australia by foreign diplomatic or consular officer 47
 
-[56](#56).          Recognition of marriages
+[56](#56).          Recognition of marriages                                                                    48
 
-[57](#57).          Registrar and Deputy Registrar of Foreign Marriages
+[57](#57).          Registrar and Deputy Registrar of Foreign Marriages                       48
 
-[58](#58).          Register of Foreign Marriages Solemnised in Australia
+[58](#58).          Register of Foreign Marriages Solemnized in Australia                     49
 
-[59](#59).          Searches and certified copies
+[59](#59).          Searches and certified copies                                                             49
 
 **Part V—Marriages of members of the Defence Force overseas** 
 
     **Division 3—Marriages of members of the Defence Force overseas**
 
-[71](#71).          Marriages of members of the Defence Force overseas
+[71](#71).          Marriages of members of the Defence Force overseas                      50
 
-[72](#72).          Form and ceremony of marriage
+[72](#72).          Form and ceremony of marriage                                                        50
 
     **Division 4—General**
 
-[73](#73).          Validity of marriages
+[73](#73).          Validity of marriages                                                                          51
 
-[74](#74).          Declaration to be made before chaplain
+[74](#74).          Declaration to be made before chaplain                                             51
 
-[75](#75).          Chaplain to be satisfied of parties’ identity
+[75](#75).          Chaplain to be satisfied of parties’ identity                                      51
 
-[76](#76).          Additional consent to marriage of minor domiciled outside Australia
+[76](#76).          Additional consent to marriage of minor domiciled outside Australia 51
 
-[77](#77).          Restriction on solemnisation of marriages under this Part
+[77](#77).          Restriction on solemnization of marriages under this Part                52
 
-[78](#78).          Solemnisation of marriages where a party to the marriage is not an Australian citizen etc 
+[78](#78).          Solemnization of marriages where a party to the marriage is not an Australian citizen etc     52
 
-[79](#79).          Chaplain to retain consents etc 
+[79](#79).          Chaplain to retain consents etc                                                          53
 
-[80](#80).          Marriage certificate and registration of marriages
+[80](#80).          Marriage certificate and registration of marriages                              53
 
-[81](#81).          Power to refuse to solemnise marriage
+[81](#81).          Power to refuse to solemnize marriage                                              55
 
-[82](#82).          Marriages may be solemnised on any day and at any time
+[82](#82).          Marriages may be solemnized on any day and at any time               55
 
-[83](#83).          Validity of marriages under this Part
+[83](#83).          Validity of marriages under this Part                                                 55
 
-[84](#84).          Registration of overseas marriages attended by a chaplain
+[84](#84).          Registration of overseas marriages attended by a chaplain                56
 
-[85](#85).          Certificates of marriages solemnised in accordance with local law in an overseas country
+[85](#85).          Certificates of marriages solemnized in accordance with local law in an overseas country     56
 
-[86](#86).          Evidence
+[86](#86).          Evidence                                                                                             57
 
-[87](#87).          Validity of marriages otherwise than under this Part not affected
+[87](#87).          Validity of marriages otherwise than under this Part not affected    57
 
-[88](#88).          Imperial Foreign Marriage Acts
+[88](#88).          Imperial Foreign Marriage Acts                                                         57
 
 **Part VA—Recognition of foreign marriages**
 
-[88A](#88A).       Object of Part
+[88A](#88A).       Object of Part                                                                                    58
 
-[88B](#88B).       Interpretation
+[88B](#88B).       Interpretation                                                                                     58
 
-[88C](#88C).       Application of Part
+[88C](#88C).       Application of Part                                                                            58
 
-[88D](#88D).       Validity of marriages
+[88D](#88D).       Validity of marriages                                                                          59
 
-[88E](#88E).        Validity of certain marriages not affected by this Part
+[88E](#88E).        Validity of certain marriages not affected by this Part                      60
 
-[88EA](#88EA).     Certain unions are not marriages
+[88EA](#88EA).     Certain unions are not marriages                                                        61
 
-[88F](#88F).        Incidental determination of recognition of certain foreign marriages
+[88F](#88F).        Incidental determination of recognition of certain foreign marriages 61
 
-[88G](#88G).       Evidence
+[88G](#88G).       Evidence                                                                                             62
 
 **Part VI—Legitimation**
 
-[89](#89).          Legitimation by virtue of marriage of parents
+[89](#89).          Legitimation by virtue of marriage of parents                                   63
 
-[90](#90).          Legitimacy of children of certain foreign marriages
+[90](#90).          Legitimacy of children of certain foreign marriages                           64
 
-[91](#91).          Legitimacy of children of certain void marriages
+[91](#91).          Legitimacy of children of certain void marriages                               65
 
-[92](#92).          Declarations of legitimacy etc 
+[92](#92).          Declarations of legitimacy etc                                                            65
 
-[93](#93).          Operation of certain State and Territory laws
+[93](#93).          Operation of certain State and Territory laws                                   67
 
 **Part VII—Offences**
 
-[94](#94).          Bigamy
+[94](#94).          Bigamy                                                                                               68
 
-[95](#95).          Marrying person not of marriageable age etc 
+[95](#95).          Marrying person not of marriageable age etc                                     69
 
-[98](#98).          Contravention of subsection 13(3)
+[98](#98).          Contravention of subsection 13(3)                                                    71
 
-[99](#99).          Solemnising marriage where notice or declaration not given or made etc 
+[99](#99).          Solemnizing marriage where notice or declaration not given or made etc                 71
 
-[100](#100).        Solemnising marriage where reason to believe there is a legal impediment
+[100](#100).        Solemnizing marriage where reason to believe there is a legal impediment              71
 
-[101](#101).        Solemnisation of marriage by unauthorised person
+[101](#101).        Solemnization of marriage by unauthorised person                           72
 
-[103](#103).        Going through ceremony of marriage before person not authorised to solemnise it
+[103](#103).        Going through ceremony of marriage before person not authorised to solemnize it               72
 
-[104](#104).        Giving defective notice etc 
+[104](#104).        Giving defective notice etc                                                                 72
 
-[105](#105).        Failure to comply with notice under section 51
+[105](#105).        Failure to comply with notice under section 51                                72
 
-[106](#106).        Failure by interpreter to furnish certificate etc 
+[106](#106).        Failure by interpreter to furnish certificate etc                                  73
 
 **Part VIII—Transitional provisions**
 
-[107](#107).        Exercise of powers etc  before commencement of Act
+[107](#107).        Exercise of powers etc  before commencement of Act                      74
 
-[108](#108).        Application of offence provisions to notices etc  given before commencement of this Act
+[108](#108).        Application of offence provisions to notices etc  given before commencement of this Act   74
 
-[109](#109).        Consents etc  given under State or Territory laws
+[109](#109).        Consents etc  given under State or Territory laws                            75
 
 **Part IX—Miscellaneous**
 
-[111](#111).        Certain marriages and legitimations to be valid in all the Territories
+[111](#111).        Certain marriages and legitimations to be valid in all the Territories 76
 
-[111A](#111A).     Abolition of action for breach of promise
+[111A](#111A).     Abolition of action for breach of promise                                         76
 
-[112](#112).        Interpreters at marriage ceremonies
+[112](#112).        Interpreters at marriage ceremonies                                                   76
 
-[113](#113).        Second marriage ceremonies
+[113](#113).        Second marriage ceremonies                                                               77
 
-[114](#114).        Correction of errors in marriage registries
+[114](#114).        Correction of errors in marriage registries                                          79
 
-[115](#115).        Publication of lists of authorised celebrants
+[115](#115).        Publication of lists of authorised celebrants                                      80
 
-[116](#116).        Judicial notice of signatures of Registrars, celebrants etc 
+[116](#116).        Judicial notice of signatures of Registrars, celebrants etc                  81
 
-[117](#117).        Evidence of registration etc 
+[117](#117).        Evidence of registration etc                                                                82
 
-[118](#118).        Right of ministers of religion to receive fees
+[118](#118).        Right of ministers of religion to receive fees                                      82
 
-[120](#120).        Regulations
+[120](#120).        Regulations                                                                                        83
 
 **The Schedule—Persons whose consent is required to the marriage of a minor** 
 
@@ -350,7 +350,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="ambassador"></a>**_Ambassador_** includes Minister, Head of Mission and _Charg&#233; d’Affaires_.
 
-                    <a name="approved-organis"></a>**_approved organisation_** means an organisation approved or deemed to be approved under Part IA.
+                    <a name="approved-organ"></a>**_approved organization_** means an organization approved or deemed to be approved under Part IA.
 
                     <a name="artifici-concept-procur"></a>**_artificial conception procedure_** includes:
 
@@ -362,23 +362,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australian-diplomat-offic"></a><a name="australian-consular-offic"></a>**_Australian Consular Officer_** and **_Australian Diplomatic Officer_** have the same respective meanings as in the _Consular Fees Act 1955_.
 
-                    <a name="authorised-celebr"></a>**_authorised celebrant_** means:
+                    <a name="authorized-celebr"></a>**_authorized celebrant_** means:
 
                      (a)  a minister of religion registered under Subdivision A of Division 1 of Part IV; or
 
-                     (b)  a person authorised to solemnise marriages by virtue of Subdivision B of Division 1 of Part IV; or
+                     (b)  a person authorized to solemnize marriages by virtue of Subdivision B of Division 1 of Part IV; or
 
                      (c)  a marriage celebrant.
 
                     <a name="chaplain"></a>**_chaplain_** means a chaplain in the Defence Force.
 
-                    <a name="consul"></a>**_Consul_** includes Consul‑General, Vice‑Consul, Pro‑Consul and Consular Agent.
+                    <a name="consul"></a>**_Consul_** includes Consul-General, Vice-Consul, Pro-Consul and Consular Agent.
 
                     <a name="famili-court-state"></a>**_Family Court of a State_** means a Family Court of a State that has jurisdiction under the _Family Law Act 1975_ by virtue of a Proclamation under section 41 of that Act.
 
                     <a name="judg"></a>**_Judge_**, in relation to the performance of a function under this Act in a State or Territory, means a person who is:
 
-                     (a)  a Judge of the Family Court of Australia, or a Federal Magistrate of the Federal Magistrates Court, who is appointed by the Minister to be a person authorised to perform that function;
+                     (a)  a Judge of the Family Court of Australia, or a Federal Magistrate of the Federal Magistrates Court, who is appointed by the Minister to be a person authorized to perform that function;
 
                      (b)  a Judge of a court of that State in respect of whom an appropriate arrangement in force under section 9 is applicable; or
 
@@ -396,15 +396,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="minist-religion"></a>**_minister of religion_** means:
 
-                     (a)  a person recognised by a religious body or a religious organisation as having authority to solemnise marriages in accordance with the rites or customs of the body or organisation; or
+                     (a)  a person recognized by a religious body or a religious organization as having authority to solemnize marriages in accordance with the rites or customs of the body or organization; or
 
-                     (b)  in relation to a religious body or a religious organisation in respect of which paragraph (a) is not applicable, a person nominated by:
+                     (b)  in relation to a religious body or a religious organization in respect of which paragraph (a) is not applicable, a person nominated by:
 
-                              (i)  the head, or the governing authority, in a State or Territory, of that body or organisation; or
+                              (i)  the head, or the governing authority, in a State or Territory, of that body or organization; or
 
-                             (ii)  such other person or authority acting on behalf of that body or organisation as is prescribed;
+                             (ii)  such other person or authority acting on behalf of that body or organization as is prescribed;
 
-                            to be an authorised celebrant for the purposes of this Act.
+                            to be an authorized celebrant for the purposes of this Act.
 
                     <a name="minor"></a>**_minor_** means a person who has not attained the age of 18 years.
 
@@ -412,11 +412,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="prescrib-author"></a>**_prescribed authority_** means:
 
-                     (a)  in relation to a marriage proposed to be solemnised in Australia—a person, being an officer or employee  of the Commonwealth, a State or a Territory, appointed by the Minister to be a prescribed authority;
+                     (a)  in relation to a marriage proposed to be solemnized in Australia—a person, being an officer or employee  of the Commonwealth, a State or a Territory, appointed by the Minister to be a prescribed authority;
 
-                     (c)  in relation to a marriage proposed to be solemnised in accordance with Division 3 of Part V—a chaplain.
+                     (c)  in relation to a marriage proposed to be solemnized in accordance with Division 3 of Part V—a chaplain.
 
-                    <a name="recognis-denomin"></a>**_recognised denomination_** means a religious body or a religious organisation in respect of which a Proclamation under section 26 is in force.
+                    <a name="recogn-denomin"></a>**_recognized denomination_** means a religious body or a religious organization in respect of which a Proclamation under section 26 is in force.
 
                     <a name="territori"></a>**_Territory_** means:
 
@@ -428,7 +428,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  the Territory of Christmas Island; or
 
-                     (e)  the Territory of Cocos (Keeling)  Islands.
+                     (e)  the Territory of Cocos (Keeling) Islands.
 
                     <a name="commenc-act"></a>**_the commencement of this Act_** means the time of commencement of the provisions other than the provisions referred to in subsection 2(1).
 
@@ -436,13 +436,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  Where:
 
-                     (a)  a marriage is solemnised in the presence of a person, being a person in whose presence a marriage may, in accordance with this Act, be lawfully solemnised; and
+                     (a)  a marriage is solemnized in the presence of a person, being a person in whose presence a marriage may, in accordance with this Act, be lawfully solemnized; and
 
-                     (b)  that person consents to the marriage being solemnised in his or her presence;
+                     (b)  that person consents to the marriage being solemnized in his or her presence;
 
-that person shall, for the purposes of this Act, be deemed to solemnise the marriage.
+that person shall, for the purposes of this Act, be deemed to solemnize the marriage.
 
-             (3)  Any appointment or authorisation under this Act may be an appointment or authorisation of:
+             (3)  Any appointment or authorization under this Act may be an appointment or authorization of:
 
                      (a)  a named person only; or
 
@@ -456,7 +456,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="6"></a>6  Act not to exclude operation of certain State and Territory laws
 
-                   This Act shall not be taken to exclude the operation of a law of a State or of a Territory, in so far as that law relates to the registration of marriages, but a marriage solemnised after the commencement of this Act is not invalid by reason of a failure to comply with the requirements of such a law.
+                   This Act shall not be taken to exclude the operation of a law of a State or of a Territory, in so far as that law relates to the registration of marriages, but a marriage solemnized after the commencement of this Act is not invalid by reason of a failure to comply with the requirements of such a law.
 
 ##### <a id="7"></a>7  Validity of certain marriages not affected
 
@@ -470,79 +470,79 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the Territory of Christmas Island;
 
-                     (c)  the Territory of Cocos (Keeling)  Islands.
+                     (c)  the Territory of Cocos (Keeling) Islands.
 
              (2)  Part V applies both within and without Australia.
 
              (3)  Part VII applies to and in relation to:
 
-                     (a)  marriages solemnised, or intended or purporting to be solemnised, in Australia; and
+                     (a)  marriages solemnized, or intended or purporting to be solemnized, in Australia; and
 
-                     (b)  marriages solemnised, or intended or purporting to be solemnised, under Part V;
+                     (b)  marriages solemnized, or intended or purporting to be solemnized, under Part V;
 
 and, in relation to such marriages, applies both within and without Australia.
 
              (4)  Section 73, Part VA and section 111 extend to all the external Territories.
 
-##### <a id="9"></a>9  Arrangements with State
+##### <a id="9"></a>9  Arrangements with State
 
-             (1)  The Governor‑General may make arrangements with the Governor of a State:
+             (1)  The Governor-General may make arrangements with the Governor of a State:
 
                      (b)  for the performance by all or any of the persons who from time to time hold office as Judges of any Court of that State of the functions of a Judge under sections 12, 16 and 17;
 
                      (c)  for the performance by all or any of the persons who from time to time hold office as Chief, Police, Stipendiary, Resident or Special Magistrates in that State of all or any of the functions of a magistrate under this Act;
 
-                     (d)  for the performance by officers of that State of the function of solemnising marriages in accordance with Division 2 of Part IV;
+                     (d)  for the performance by officers of that State of the function of solemnizing marriages in accordance with Division 2 of Part IV;
 
                      (e)  for enabling officers of that State to be appointed as prescribed authorities;
 
                       (f)  for enabling officers of that State to be appointed as Registrar and Deputy Registrar of Ministers of Religion for that State under Subdivision A of Division 1 of Part IV; and
 
-                     (g)  for enabling officers of that State to be appointed as authorised officers for the purposes of section 51.
+                     (g)  for enabling officers of that State to be appointed as authorized officers for the purposes of section 51.
 
              (2)  A copy of each arrangement made under this section shall be published in the _Gazette._
 
 ##### <a id="9A"></a>9A  Persons who may exercise certain powers may be restricted by Proclamation
 
-             (1)  The Governor‑General may, by Proclamation, declare that, on and after a date fixed by the Proclamation, a power or function under this Act that is specified in the Proclamation, being a power or function expressed by this Act to be exercisable by a Judge, or by a Judge or magistrate, is not to be exercised, or is not to be exercised in a specified part of Australia, otherwise than by a Judge who is a Judge of the Family Court of Australia or of the Family Court of a State or a Federal Magistrate of the Federal Magistrates Court.
+             (1)  The Governor-General may, by Proclamation, declare that, on and after a date fixed by the Proclamation, a power or function under this Act that is specified in the Proclamation, being a power or function expressed by this Act to be exercisable by a Judge, or by a Judge or magistrate, is not to be exercised, or is not to be exercised in a specified part of Australia, otherwise than by a Judge who is a Judge of the Family Court of Australia or of the Family Court of a State or a Federal Magistrate of the Federal Magistrates Court.
 
              (2)  Proclamations under this Part in respect of different parts of Australia may be made from time to time.
 
 ## Part IA—Marriage education
 
-##### <a id="9B"></a>9B  Grants to approved organisations
+##### <a id="9B"></a>9B  Grants to approved organizations
 
-                   The Minister may, from time to time, out of moneys appropriated by the Parliament for the purposes of this Part, grant to an approved organisation, upon such conditions as the Minister thinks fit, such sums by way of financial assistance as the Minister determines for the conduct of programs of marriage education.
+                   The Minister may, from time to time, out of moneys appropriated by the Parliament for the purposes of this Part, grant to an approved organization, upon such conditions as the Minister thinks fit, such sums by way of financial assistance as the Minister determines for the conduct of programs of marriage education.
 
-##### <a id="9C"></a>9C  Approval of voluntary organisations
+##### <a id="9C"></a>9C  Approval of voluntary organizations
 
-             (1)  A voluntary organisation may apply to the Minister for approval under this Part as an organisation conducting programs of marriage education.
+             (1)  A voluntary organization may apply to the Minister for approval under this Part as an organization conducting programs of marriage education.
 
-             (2)  The Minister may approve the organisation if the Minister is satisfied that the organisation is willing and able to conduct programs of marriage education.
+             (2)  The Minister may approve the organization if the Minister is satisfied that the organization is willing and able to conduct programs of marriage education.
 
-             (3)  The approval of an organisation under this section may be given subject to such conditions as the Minister determines.
+             (3)  The approval of an organization under this section may be given subject to such conditions as the Minister determines.
 
-             (4)  Where the approval of an organisation is subject to conditions, the Minister may, from time to time, revoke or vary all or any of those conditions or add further conditions.
+             (4)  Where the approval of an organization is subject to conditions, the Minister may, from time to time, revoke or vary all or any of those conditions or add further conditions.
 
-             (5)  The Minister may, at any time, revoke the approval of an approved organisation where:
+             (5)  The Minister may, at any time, revoke the approval of an approved organization where:
 
-                     (a)  the organisation has not complied with a condition to which the approval of the organisation is subject;
+                     (a)  the organization has not complied with a condition to which the approval of the organization is subject;
 
-                     (b)  the organisation has not furnished, in accordance with section 9E, a statement or report that the organisation was required by that section to furnish; or
+                     (b)  the organization has not furnished, in accordance with section 9E, a statement or report that the organization was required by that section to furnish; or
 
-                     (c)  the Minister is satisfied that the organisation is not adequately carrying out programs of marriage education.
+                     (c)  the Minister is satisfied that the organization is not adequately carrying out programs of marriage education.
 
-             (6)  Notice of the approval of an organisation under this section, and notice of the revocation of the approval of an approved organisation, shall be published in such manner as the Minister considers appropriate.
+             (6)  Notice of the approval of an organization under this section, and notice of the revocation of the approval of an approved organization, shall be published in such manner as the Minister considers appropriate.
 
-##### <a id="9E"></a>9E  Reports and financial statements of approved organisations
+##### <a id="9E"></a>9E  Reports and financial statements of approved organizations
 
-             (1)  An approved organisation that has received a grant under this Act in the period of 12 months that ended on 30 June in any year shall, not later than 30 September in that year, furnish to the Minister, in respect of that period of 12 months:
+             (1)  An approved organization that has received a grant under this Act in the period of 12 months that ended on 30 June in any year shall, not later than 30 September in that year, furnish to the Minister, in respect of that period of 12 months:
 
-                     (a)  an audited financial statement of the receipts and payments of the organisation, in which receipts and payments in respect of its marriage education activities are shown separately from other receipts and payments; and
+                     (a)  an audited financial statement of the receipts and payments of the organization, in which receipts and payments in respect of its marriage education activities are shown separately from other receipts and payments; and
 
-                     (b)  a report on its marriage education activities, including information as to the programs conducted by the organisation during the period and the number of participants in those programs.
+                     (b)  a report on its marriage education activities, including information as to the programs conducted by the organization during the period and the number of participants in those programs.
 
-             (2)  Where the Minister is satisfied that it would be impracticable for an organisation to comply with the requirements of subsection (1) or that the application of those requirements to an organisation would be unduly onerous, the Minister may, by writing signed by the Minister, exempt the organisation, wholly or in part, from those requirements.
+             (2)  Where the Minister is satisfied that it would be impracticable for an organization to comply with the requirements of subsection (1) or that the application of those requirements to an organization would be unduly onerous, the Minister may, by writing signed by the Minister, exempt the organization, wholly or in part, from those requirements.
 
 ## Part II—Marriageable age and marriages of minors
 
@@ -582,13 +582,13 @@ the Judge or magistrate may, in his or her discretion, make the order sought, bu
 
              (5)  Where an order is made under this section and the marriage to which the order relates does not take place within 3 months after the date of the order, the order ceases to have effect.
 
-##### <a id="13"></a>13  Marriage of minor not to be solemnised without consent of parents etc.
+##### <a id="13"></a>13  Marriage of minor not to be solemnized without consent of parents etc.
 
-             (1)  Subject to this Part, where a party to an intended marriage, not having previously been married, is a minor, the marriage shall not be solemnised unless there is produced to the person by whom or in whose presence the marriage is solemnised:
+             (1)  Subject to this Part, where a party to an intended marriage, not having previously been married, is a minor, the marriage shall not be solemnized unless there is produced to the person by whom or in whose presence the marriage is solemnized:
 
                      (a)  in respect of each person whose consent is required by this Act to the marriage of the minor, not being a person to whom paragraph (b) is applicable:
 
-                              (i)  the consent in writing of that person, duly witnessed and dated not earlier than 3 months before the date on which the marriage is solemnised or, in such cases as are prescribed, such other evidence that the consent of that person to the intended marriage has been given not earlier than that time as the regulations declare to be sufficient for the purposes of this section; or
+                              (i)  the consent in writing of that person, duly witnessed and dated not earlier than 3 months before the date on which the marriage is solemnized or, in such cases as are prescribed, such other evidence that the consent of that person to the intended marriage has been given not earlier than that time as the regulations declare to be sufficient for the purposes of this section; or
 
                              (ii)  an effective consent in writing of a magistrate or a Judge under this Part in place of the consent of that person; and
 
@@ -598,7 +598,7 @@ the Judge or magistrate may, in his or her discretion, make the order sought, bu
 
                      (a)  if the consent is signed in Australia—by one of the following persons:
 
-                              (i)  an authorised celebrant;
+                              (i)  an authorized celebrant;
 
                              (ii)  a Commissioner for Declarations under the _Statutory Declarations Act 1959_;
 
@@ -626,7 +626,7 @@ the Judge or magistrate may, in his or her discretion, make the order sought, bu
 
                            (vii)  an employee of the Commonwealth authorised under paragraph 3(c) of the _Consular Fees Act 1955_;
 
-                          (viii)  an employee of the Australian Trade Commission authorised under paragraph 3(d) of the _Consular Fees Act 1955_.
+                           (viii)  an employee of the Australian Trade Commission authorised under paragraph 3(d) of the _Consular Fees Act 1955_.
 
              (3)  A person shall not subscribe his or her name as a witness to the signature of a person to a consent to a marriage unless:
 
@@ -634,7 +634,7 @@ the Judge or magistrate may, in his or her discretion, make the order sought, bu
 
                      (b)  the consent bears the date on which the person subscribes his or her name as a witness.
 
-             (4)  A person shall not solemnise a marriage if the person has reason to believe that:
+             (4)  A person shall not solemnize a marriage if the person has reason to believe that:
 
                      (a)  a person whose consent in writing to the marriage of one of the parties is or has been produced for the purposes of this section has revoked his or her consent;
 
@@ -668,7 +668,7 @@ the Judge or magistrate may, in his or her discretion, make the order sought, bu
 
              (3)  The applicant shall state in his or her statutory declaration whether he or she has made any previous applications under this section that have been refused and the date on which each such application was refused.
 
-             (4)  This section does not authorise a prescribed authority to dispense with the consent of a person to a marriage of a minor where any other person whose consent to the marriage is required by this Act has refused to give consent, unless a magistrate or a Judge has, in pursuance of this Part, given consent in place of the consent of that other person.
+             (4)  This section does not authorize a prescribed authority to dispense with the consent of a person to a marriage of a minor where any other person whose consent to the marriage is required by this Act has refused to give consent, unless a magistrate or a Judge has, in pursuance of this Part, given consent in place of the consent of that other person.
 
              (5)  For the purposes of this section, the fact that a person does not reside in, or is absent from, Australia shall not of itself be deemed to make it impracticable to ascertain the views of that person.
 
@@ -698,7 +698,7 @@ may give consent to the marriage in place of the consent of the person in relati
 
              (3)  Where a magistrate to whom an application is made under this section is satisfied that the matter could more properly be dealt with by a magistrate sitting at a place nearer the place where the applicant ordinarily resides, the magistrate may, in his or her discretion, refuse to proceed with the hearing of the application, but such a refusal shall not, for the purposes of sections 17 and 19, be deemed to be a refusal of the application.
 
-             (4)  Where a magistrate grants an application under subsection (1), the magistrate shall not issue consent in writing to the marriage before the expiration of the time prescribed for the purposes of section 17 and if, within that time, a request for a re‑hearing is made under that section, the magistrate shall not issue consent unless that request is withdrawn.
+             (4)  Where a magistrate grants an application under subsection (1), the magistrate shall not issue consent in writing to the marriage before the expiration of the time prescribed for the purposes of section 17 and if, within that time, a request for a re-hearing is made under that section, the magistrate shall not issue consent unless that request is withdrawn.
 
              (5)  Where a Judge or magistrate gives consent to the marriage of a minor in place of the consent of a person who has refused to consent to the marriage, the Judge or magistrate may also, upon application by the minor, give consent in place of the consent of any other person if the Judge or magistrate is satisfied that it is impracticable, or that it is impracticable without delay that would, in all the circumstances of the case, be unreasonable, to ascertain the views of that person with respect to the proposed marriage.
 
@@ -706,7 +706,7 @@ may give consent to the marriage in place of the consent of the person in relati
 
              (7)  In this section **_family counsellor_** has the same meaning as in the _Family Law Act 1975_.
 
-##### <a id="17"></a>17  Re‑hearing of applications by a Judge
+##### <a id="17"></a>17  Re-hearing of applications by a Judge
 
              (1)  Where:
 
@@ -714,9 +714,9 @@ may give consent to the marriage in place of the consent of the person in relati
 
                      (b)  an application to a magistrate under subsection 16(1) is granted;
 
-the applicant or the person in relation to whose consent the application was made, as the case requires, may, in the prescribed manner and within the prescribed time, request that the application be re‑heard by a Judge in the State or Territory in which it was heard, and a Judge may re‑hear the application accordingly.
+the applicant or the person in relation to whose consent the application was made, as the case requires, may, in the prescribed manner and within the prescribed time, request that the application be re-heard by a Judge in the State or Territory in which it was heard, and a Judge may re-hear the application accordingly.
 
-             (2)  The provisions of subsections 16(2), (5) and (6) apply, so far as they are applicable, in relation to the re‑hearing of an application made under section 16 and, for the purpose of such a re‑hearing, references in those provisions to the magistrate dealing with an application shall be read as references to the Judge re‑hearing the application.
+             (2)  The provisions of subsections 16(2), (5) and (6) apply, so far as they are applicable, in relation to the re-hearing of an application made under section 16 and, for the purpose of such a re-hearing, references in those provisions to the magistrate dealing with an application shall be read as references to the Judge re-hearing the application.
 
 ##### <a id="18"></a>18  Provisions applicable to inquiries by Judge or magistrate
 
@@ -742,7 +742,7 @@ the applicant or the person in relation to whose consent the application was mad
 
 a further application under the same section by the same person in relation to the proposed marriage shall not be considered by any prescribed authority, magistrate or Judge within 6 months after the refusal of the application, unless the applicant satisfies the prescribed authority, magistrate or Judge to whom the further application is made that there has been a substantial change in the relevant facts or circumstances since the refusal of the former application.
 
-             (2)  The fact that an application is heard or dealt with in contravention of subsection (1) does not affect the validity of an order made, or the effectiveness of a consent given, upon the application or the re‑hearing of the application or make ineffective any dispensation with a consent granted on the application.
+             (2)  The fact that an application is heard or dealt with in contravention of subsection (1) does not affect the validity of an order made, or the effectiveness of a consent given, upon the application or the re-hearing of the application or make ineffective any dispensation with a consent granted on the application.
 
 ##### <a id="20"></a>20  Effect of consent of magistrate or Judge
 
@@ -756,13 +756,13 @@ a further application under the same section by the same person in relation to t
 
                      (a)  the marriage does not take place within 3 months after the date of the dispensation; or
 
-                     (b)  before the marriage takes place, the person whose consent has been dispensed with notifies, by writing signed by the person or in any other prescribed manner, the person to whom notice of the intended marriage has been given under this Act or, in the case of an intended marriage under Division 3 of Part V, the chaplain by whom or in whose presence the marriage is intended to be solemnised, that the first‑mentioned person does not consent to the marriage.
+                     (b)  before the marriage takes place, the person whose consent has been dispensed with notifies, by writing signed by the person or in any other prescribed manner, the person to whom notice of the intended marriage has been given under this Act or, in the case of an intended marriage under Division 3 of Part V, the chaplain by whom or in whose presence the marriage is intended to be solemnized, that the first-mentioned person does not consent to the marriage.
 
              (3)  Where a consent by a magistrate or a Judge or a dispensation with the consent of a person by a prescribed authority has ceased to have effect, the provisions of this Act apply as if the consent had not been given or dispensed with, as the case may be.
 
 ## Part III—Void marriages
 
-### Division 1—Marriages solemnised on or after 20 June 1977 and before the commencement of section 13 of the Marriage Amendment Act 1985
+### Division 1—Marriages solemnized on or after 20 June 1977 and before the commencement of section 13 of the Marriage Amendment Act 1985
 
 ##### <a id="22"></a>22  Division to be subject to application of private international law
 
@@ -794,11 +794,11 @@ and not otherwise.
 
                      (a)  between a person and an ancestor or descendant of the person; or
 
-                     (b)  between a brother and a sister (whether of the whole blood or the half‑blood).
+                     (b)  between a brother and a sister (whether of the whole blood or the half-blood).
 
              (3)  Any relationship specified in subsection (2) includes a relationship traced through, or to, a person who is or was an adopted child, and, for that purpose, the relationship between an adopted child and the adoptive parent, or each of the adoptive parents, of the child, shall be deemed to be or to have been the natural relationship of child and parent.
 
-             (4)  Nothing in subsection (3) makes it lawful for a person to marry a person whom the first‑mentioned person could not lawfully have married if that subsection had not been enacted.
+             (4)  Nothing in subsection (3) makes it lawful for a person to marry a person whom the first-mentioned person could not lawfully have married if that subsection had not been enacted.
 
              (5)  For the purposes of this section:
 
@@ -810,15 +810,15 @@ and not otherwise.
 
                     <a name="adopted"></a>**_adopted_**, in relation to a child, means adopted under the law of any place (whether in or out of Australia) relating to the adoption of children.
 
-                    <a name="ancestor"></a>**_ancestor_**, in relation to a person, means any person from whom the first‑mentioned person is descended including a parent of the first‑mentioned person.
+                    <a name="ancestor"></a>**_ancestor_**, in relation to a person, means any person from whom the first-mentioned person is descended including a parent of the first-mentioned person.
 
-### Division 2—Marriages solemnised after the commencement of section 13 of the Marriage Amendment Act 1985
+### Division 2—Marriages solemnized after the commencement of section 13 of the Marriage Amendment Act 1985
 
 ##### <a id="23A"></a>23A  Application of Division
 
              (1)  Notwithstanding subsection 42(2) of the _Family Law Act 1975_, but subject to subsection (2) of this section, this Division applies in relation to:
 
-                     (a)  all marriages solemnised in Australia; and
+                     (a)  all marriages solemnized in Australia; and
 
                      (b)  all marriages under Part V.
 
@@ -850,27 +850,27 @@ and not otherwise.
 
                      (a)  between a person and an ancestor or descendant of the person; or
 
-                     (b)  between a brother and a sister (whether of the whole blood or the half‑blood).
+                     (b)  between a brother and a sister (whether of the whole blood or the half-blood).
 
              (3)  Any relationship specified in subsection (2) includes a relationship traced through, or to, a person who is or was an adopted child, and, for that purpose, the relationship between an adopted child and the adoptive parent, or each of the adoptive parents, of the child shall be deemed to be or to have been the natural relationship of child and parent.
 
-             (4)  Nothing in subsection (3) makes it lawful for a person to marry a person whom the first‑mentioned person could not lawfully have married if that subsection had not been enacted.
+             (4)  Nothing in subsection (3) makes it lawful for a person to marry a person whom the first-mentioned person could not lawfully have married if that subsection had not been enacted.
 
              (5)  For the purposes of this section:
 
                      (a)  a person who has at any time been adopted by another person shall be deemed to remain the adopted child of that other person notwithstanding that any order by which the adoption was effected has been annulled, cancelled or discharged or that the adoption has for any other reason ceased to be effective; and
 
-                     (b)  a person who has been adopted on more than one occasion shall be deemed to be the adopted child of each person by whom the first‑mentioned person has been adopted.
+                     (b)  a person who has been adopted on more than one occasion shall be deemed to be the adopted child of each person by whom the first-mentioned person has been adopted.
 
              (6)  For the purposes of this section:
 
                     <a name="adopted"></a>**_adopted_**, in relation to a child, means adopted under the law of any place (whether in or out of Australia) relating to the adoption of children.
 
-                    <a name="ancestor"></a>**_ancestor_**, in relation to a person, means any person from whom the first‑mentioned person is descended including a parent of the first‑mentioned person.
+                    <a name="ancestor"></a>**_ancestor_**, in relation to a person, means any person from whom the first-mentioned person is descended including a parent of the first-mentioned person.
 
-## Part IV—Solemnisation of marriages in Australia
+## Part IV—Solemnization of marriages in Australia
 
-### Division 1—Authorised celebrants
+### Division 1—Authorized celebrants
 
 #### Subdivision A—Ministers of religion
 
@@ -886,7 +886,7 @@ and not otherwise.
 
 ##### <a id="26"></a>26  Recognised denominations
 
-                   The Governor‑General may, by Proclamation, declare a religious body or a religious organisation to be a recognised denomination for the purposes of this Act.
+                   The Governor-General may, by Proclamation, declare a religious body or a religious organization to be a recognized denomination for the purposes of this Act.
 
 ##### <a id="27"></a>27  Registers of ministers of religion
 
@@ -894,25 +894,25 @@ and not otherwise.
 
              (2)  In the event of the absence, through illness or otherwise, of the Registrar, or of a vacancy in the office of the Registrar, the Deputy Registrar has all the powers, and shall perform all the duties and functions, of the Registrar during the absence or vacancy.
 
-             (3)  Unless and until another person is appointed to be the Registrar of Ministers of Religion for a particular Territory, the person having, under the law of that Territory, the function of maintaining a register of all marriages solemnised in that Territory shall be the Registrar for that Territory.
+             (3)  Unless and until another person is appointed to be the Registrar of Ministers of Religion for a particular Territory, the person having, under the law of that Territory, the function of maintaining a register of all marriages solemnized in that Territory shall be the Registrar for that Territory.
 
              (4)  The Registrar for a State or Territory shall keep a register, in such form as the Minister determines, of ministers of religion ordinarily resident in the State or Territory who are entitled to registration under this Subdivision.
 
 ##### <a id="28"></a>28  Transfer of State registers
 
-             (1)  The Governor‑General may make arrangements with the Governor of a State for the transfer to the Commonwealth of any register of persons authorised to solemnise marriages in that State kept by an officer of that State immediately before the commencement of this Act.
+             (1)  The Governor-General may make arrangements with the Governor of a State for the transfer to the Commonwealth of any register of persons authorized to solemnize marriages in that State kept by an officer of that State immediately before the commencement of this Act.
 
              (2)  A copy of each arrangement made under this section shall be published in the _Gazette._
 
-             (3)  A register of a State transferred to the Commonwealth in pursuance of an arrangement made under this section, and a register of persons authorised to solemnise marriages kept in relation to a Territory immediately before the commencement of this Act, shall be deemed to form part of the register kept for that State or that Territory, as the case may be, for the purposes of this Subdivision.
+             (3)  A register of a State transferred to the Commonwealth in pursuance of an arrangement made under this section, and a register of persons authorized to solemnize marriages kept in relation to a Territory immediately before the commencement of this Act, shall be deemed to form part of the register kept for that State or that Territory, as the case may be, for the purposes of this Subdivision.
 
-             (4)  A person registered in a register so transferred or kept who is, immediately after the commencement of this Act, a minister of religion of a recognised denomination shall be deemed to be so registered in pursuance of this Subdivision, and the Registrar by whom the register is kept shall remove from that register the name of any other person.
+             (4)  A person registered in a register so transferred or kept who is, immediately after the commencement of this Act, a minister of religion of a recognized denomination shall be deemed to be so registered in pursuance of this Subdivision, and the Registrar by whom the register is kept shall remove from that register the name of any other person.
 
 ##### <a id="29"></a>29  Qualifications for registration under this Subdivision
 
                    Subject to this Subdivision, a person is entitled to registration under this Subdivision if:
 
-                     (a)  the person is a minister of religion of a recognised denomination;
+                     (a)  the person is a minister of religion of a recognized denomination;
 
                      (b)  the person is nominated for registration under this Subdivision by that denomination;
 
@@ -932,13 +932,13 @@ and not otherwise.
 
                      (a)  there are already registered under this Subdivision sufficient ministers of religion of the denomination to which the applicant belongs to meet the needs of the denomination in the locality in which the applicant resides;
 
-                     (b)  the applicant is not a fit and proper person to solemnise marriages; or
+                     (b)  the applicant is not a fit and proper person to solemnize marriages; or
 
                      (c)  the applicant is unlikely to devote a substantial part of his or her time to the performance of functions generally performed by a minister of religion.
 
 ##### <a id="32"></a>32  Effect of registration
 
-                   A minister of religion who is registered under this Subdivision in any register may solemnise marriages at any place in Australia.
+                   A minister of religion who is registered under this Subdivision in any register may solemnize marriages at any place in Australia.
 
 ##### <a id="33"></a>33  Removal from register
 
@@ -948,15 +948,15 @@ and not otherwise.
 
                      (b)  that person has died;
 
-                     (c)  the denomination by which that person was nominated for registration, or in respect of which that person is registered, no longer desires that that person be registered under this Subdivision or has ceased to be a recognised denomination;
+                     (c)  the denomination by which that person was nominated for registration, or in respect of which that person is registered, no longer desires that that person be registered under this Subdivision or has ceased to be a recognized denomination;
 
                      (d)  that person:
 
                               (i)  has been guilty of such contraventions of this Act or the regulations as to show him or her not to be a fit and proper person to be registered under this Subdivision;
 
-                             (ii)  has been making a business of solemnising marriages for the purpose of profit or gain; or
+                             (ii)  has been making a business of solemnizing marriages for the purpose of profit or gain; or
 
-                            (iii)  is not a fit and proper person to solemnise marriages; or
+                            (iii)  is not a fit and proper person to solemnize marriages; or
 
                      (e)  that person is, for any other reason, not entitled to registration under this Subdivision.
 
@@ -972,7 +972,7 @@ and not otherwise.
 
                      (c)  the removal takes place within 14 days after the date specified in the notice.
 
-             (3)  Where notice is served on a person under subsection (2), that person shall not solemnise a marriage unless and until:
+             (3)  Where notice is served on a person under subsection (2), that person shall not solemnize a marriage unless and until:
 
                      (a)  the person is notified by the Registrar that the Registrar has decided not to remove the person’s name from the register;
 
@@ -1014,15 +1014,15 @@ the person shall, within 30 days thereafter, notify the Registrar by whom the re
 
 ##### <a id="37"></a>37  Furnishing of information by recognised denominations
 
-                   The regulations may make provision for, and in relation to, the furnishing to Registrars by each recognised denomination of:
+                   The regulations may make provision for, and in relation to, the furnishing to Registrars by each recognized denomination of:
 
                      (a)  information as to matters affecting the right to registration under this Subdivision of persons who are so registered as ministers of religion of that denomination; and
 
                      (b)  an annual list of persons registered under this Subdivision as ministers of religion of that denomination who are exercising the functions of a minister of religion of that denomination.
 
-##### <a id="38"></a>38  Registrars to furnish information to Attorney‑General
+##### <a id="38"></a>38  Registrars to furnish information to Attorney-General
 
-                   Each Registrar shall, if the Secretary of the Department so requests, furnish to the Secretary:
+                   Each Registrar shall, if the Secretary to the Department so requests, furnish to the Secretary:
 
                      (a)  a list of ministers of religion registered by that Registrar under this Subdivision during the period specified in the request, showing the full name, designation, residential or postal address and religious denomination of each minister; and
 
@@ -1032,13 +1032,13 @@ the person shall, within 30 days thereafter, notify the Registrar by whom the re
 
 ##### <a id="39"></a>39  Authorisation of State and Territory officers etc.
 
-             (1)  A person who, under the law of a State or Territory, has the function of registering marriages solemnised in the State or Territory or a part of the State or Territory may solemnise marriages in that State or Territory or in that part of the State or Territory, as the case may be.
+             (1)  A person who, under the law of a State or Territory, has the function of registering marriages solemnized in the State or Territory or a part of the State or Territory may solemnize marriages in that State or Territory or in that part of the State or Territory, as the case may be.
 
-             (2)  The Minister may, by instrument in writing, authorise other officers of a State or Territory to solemnise marriages.
+             (2)  The Minister may, by instrument in writing, authorize other officers of a State or Territory to solemnize marriages.
 
-             (3)  An authorisation under subsection (2):
+             (3)  An authorization under subsection (2):
 
-                     (a)  may authorise a person to solemnise marriages at any place in Australia or only in the part or parts of Australia specified in the instrument of authorisation; and
+                     (a)  may authorize a person to solemnize marriages at any place in Australia or only in the part or parts of Australia specified in the instrument of authorization; and
 
                      (b)  is subject to such conditions (if any) as are specified in the instrument.
 
@@ -1046,7 +1046,7 @@ the person shall, within 30 days thereafter, notify the Registrar by whom the re
 
 ##### <a id="39A"></a>39A  Registrar of Marriage Celebrants
 
-             (1)  There is to be a position occupied (on an acting, permanent, full‑time or part‑time basis) by an APS employee in the Department, the duties of which are expressed to consist of, or include, the performance of the functions given to the Registrar of Marriage Celebrants by or under this Act.
+             (1)  There is to be a position occupied (on an acting, permanent, full-time or part-time basis) by an APS employee in the Department, the duties of which are expressed to consist of, or include, the performance of the functions given to the Registrar of Marriage Celebrants by or under this Act.
 
              (2)  The APS employee occupying the position from time to time is the **_Registrar of Marriage Celebrants_**.
 
@@ -1076,7 +1076,7 @@ the person shall, within 30 days thereafter, notify the Registrar by whom the re
 
              (2)  In determining whether the Registrar is satisfied that the person is a fit and proper person to be a marriage celebrant, the Registrar must take into account:
 
-                     (a)  whether the person has sufficient knowledge of the law relating to the solemnisation of marriages by marriage celebrants; and
+                     (a)  whether the person has sufficient knowledge of the law relating to the solemnization of marriages by marriage celebrants; and
 
                      (b)  whether the person is committed to advising couples of the availability of relationship support services; and
 
@@ -1142,7 +1142,7 @@ Note:          A person who, because of this section, is not r
 
 ##### <a id="39F"></a>39F  Effect of registration
 
-                   A person who is registered as a marriage celebrant may solemnise marriages at any place in Australia.
+                   A person who is registered as a marriage celebrant may solemnize marriages at any place in Australia.
 
 ##### <a id="39G"></a>39G  Obligations of each marriage celebrant
 
@@ -1262,7 +1262,7 @@ the Registrar is taken to have decided, on the last day of the 3 month period, n
 
                      (b)  keep records relating to marriage celebrants, and the register of marriage celebrants, in accordance with regulations made for the purposes of this paragraph; and
 
-                     (c)  establish complaints resolution procedures, in accordance with regulations made for the purposes of this paragraph, to resolve complaints about the solemnisation of marriages by marriage celebrants; and
+                     (c)  establish complaints resolution procedures, in accordance with regulations made for the purposes of this paragraph, to resolve complaints about the solemnization of marriages by marriage celebrants; and
 
                      (d)  perform any additional functions specified in regulations made for the purposes of this paragraph.
 
@@ -1292,21 +1292,21 @@ is prima facie evidence of that fact.
 
 ##### <a id="40"></a>40  Application of Division
 
-             (1)  Subject to subsection (2), this Division applies to and in relation to all marriages solemnised, or intended to be solemnised, in Australia.
+             (1)  Subject to subsection (2), this Division applies to and in relation to all marriages solemnized, or intended to be solemnized, in Australia.
 
              (2)  This Division does not apply to or in relation to marriages to which Division 3 of this Part applies.
 
-##### <a id="41"></a>41  Marriages to be solemnised by authorised celebrant
+##### <a id="41"></a>41  Marriages to be solemnized by authorised celebrant
 
-                   A marriage shall be solemnised by or in the presence of an authorised celebrant who is authorised to solemnise marriages at the place where the marriage takes place.
+                   A marriage shall be solemnized by or in the presence of an authorized celebrant who is authorized to solemnize marriages at the place where the marriage takes place.
 
 ##### <a id="42"></a>42  Notice to be given and declaration made
 
-             (1)  Subject to this section, a marriage shall not be solemnised unless:
+             (1)  Subject to this section, a marriage shall not be solemnized unless:
 
-                     (a)  notice in writing of the intended marriage has been given in accordance with this section and has been received by the authorised celebrant solemnising the marriage not earlier than 18 months before the date of the marriage and not later than 1 month before the date of the marriage;
+                     (a)  notice in writing of the intended marriage has been given in accordance with this section and has been received by the authorized celebrant solemnizing the marriage not earlier than 18 months before the date of the marriage and not later than 1 month before the date of the marriage;
 
-                     (b)  there has been produced to that authorised celebrant, in respect of each of the parties:
+                     (b)  there has been produced to that authorized celebrant, in respect of each of the parties:
 
                               (i)  an official certificate, or an official extract of an entry in an official register, showing the date and place of birth of the party; or
 
@@ -1314,7 +1314,7 @@ is prima facie evidence of that fact.
 
                             (iii)  a passport issued by a government of an overseas country, showing the date and place of birth of the party; and
 
-                     (c)  each of the parties has made and subscribed before that authorised celebrant a declaration, in accordance with the prescribed form, as to:
+                     (c)  each of the parties has made and subscribed before that authorized celebrant a declaration, in accordance with the prescribed form, as to:
 
                               (i)  the party’s conjugal status;
 
@@ -1354,23 +1354,23 @@ is prima facie evidence of that fact.
 
                              (v)  an employee of the Australian Trade Commission authorised under paragraph 3(d) of the _Consular Fees Act 1955_.
 
-             (3)  However, if the signature of a party to an intended marriage cannot conveniently be obtained at the time when it is desired to give notice under this section, a notice duly signed by the other party and otherwise complying with the provisions of this section shall, if it is signed by the first‑mentioned party in the presence of an authorised celebrant before the marriage is solemnised, be deemed to have been a sufficient notice.
+             (3)  However, if the signature of a party to an intended marriage cannot conveniently be obtained at the time when it is desired to give notice under this section, a notice duly signed by the other party and otherwise complying with the provisions of this section shall, if it is signed by the first-mentioned party in the presence of an authorized celebrant before the marriage is solemnized, be deemed to have been a sufficient notice.
 
-             (4)  Where a party to an intended marriage is unable, after reasonable inquiry, to ascertain all of the particulars in relation to that party required to be contained in a notice under this section, the failure to include in the notice such of those particulars as the party is unable to ascertain does not make the notice ineffective for the purposes of this section if, at any time before the marriage is solemnised, that party furnishes to the authorised celebrant solemnising the marriage a statutory declaration as to that party’s inability to ascertain the particulars not included in the notice and the reason for that inability.
+             (4)  Where a party to an intended marriage is unable, after reasonable inquiry, to ascertain all of the particulars in relation to that party required to be contained in a notice under this section, the failure to include in the notice such of those particulars as the party is unable to ascertain does not make the notice ineffective for the purposes of this section if, at any time before the marriage is solemnized, that party furnishes to the authorized celebrant solemnizing the marriage a statutory declaration as to that party’s inability to ascertain the particulars not included in the notice and the reason for that inability.
 
-             (5)  Despite a notice required by subsection (1) having been received later than 1 month before the date of the marriage, a prescribed authority may authorise an authorised celebrant to solemnise a marriage if the authority is satisfied that one or more of the circumstances prescribed in the regulations have been met.
+             (5)  Despite a notice required by subsection (1) having been received later than 1 month before the date of the marriage, a prescribed authority may authorise an authorized celebrant to solemnize a marriage if the authority is satisfied that one or more of the circumstances prescribed in the regulations have been met.
 
-          (5A)  An authorised celebrant shall, as soon as practicable after receiving the notice referred to in subsection (1), give to the parties a document in the prescribed form outlining the obligations and consequences of marriage and indicating the availability of marriage education and counselling.
+          (5A)  An authorized celebrant shall, as soon as practicable after receiving the notice referred to in subsection (1), give to the parties a document in the prescribed form outlining the obligations and consequences of marriage and indicating the availability of marriage education and counselling.
 
-             (6)  Where, by reason of the death, absence or illness of an authorised celebrant to whom a notice of intention to marry has been given, or for any other reason, it is impracticable for that person to solemnise the marriage, the marriage may be solemnised by any authorised celebrant who has possession of the notice.
+             (6)  Where, by reason of the death, absence or illness of an authorized celebrant to whom a notice of intention to marry has been given, or for any other reason, it is impracticable for that person to solemnize the marriage, the marriage may be solemnized by any authorized celebrant who has possession of the notice.
 
              (7)  The declarations of the parties required by subsection (1) shall both be written on the one paper and on the same side of that paper.
 
-             (8)  An authorised celebrant shall not solemnise a marriage:
+             (8)  An authorized celebrant shall not solemnize a marriage:
 
-                     (a)  unless the authorised celebrant has satisfied himself or herself that the parties are the parties referred to in the notice given under this section in relation to the marriage; or
+                     (a)  unless the authorized celebrant has satisfied himself or herself that the parties are the parties referred to in the notice given under this section in relation to the marriage; or
 
-                     (b)  if the authorised celebrant has reason to believe that:
+                     (b)  if the authorized celebrant has reason to believe that:
 
                               (i)  a notice given under this section; or
 
@@ -1378,9 +1378,9 @@ is prima facie evidence of that fact.
 
 in relation to the marriage, contains a false statement or an error or is defective.
 
-             (9)  An authorised celebrant may permit an error in a notice under this section to be corrected in his or her presence by either of the parties at any time before the marriage to which it relates has been solemnised and may treat the corrected notice as having been originally given in its corrected form.
+             (9)  An authorized celebrant may permit an error in a notice under this section to be corrected in his or her presence by either of the parties at any time before the marriage to which it relates has been solemnized and may treat the corrected notice as having been originally given in its corrected form.
 
-           (10)  Where the declaration made by a party under subsection (1) states that that party is a divorced person or a widow or widower, an authorised celebrant shall not solemnise the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
+           (10)  Where the declaration made by a party under subsection (1) states that that party is a divorced person or a widow or widower, an authorized celebrant shall not solemnize the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
 
 ##### <a id="42A"></a>42A  Commissioner of Australian Federal Police or approved authority may issue special notice
 
@@ -1392,25 +1392,25 @@ in relation to the marriage, contains a false statement or an error or is defect
 
              (2)  The names specified in the certificate are to be used in the marriage certificate.
 
-##### <a id="43"></a>43  Marriage may be solemnised on any day etc.
+##### <a id="43"></a>43  Marriage may be solemnized on any day etc.
 
-                   A marriage may be solemnised on any day, at any time and at any place.
+                   A marriage may be solemnized on any day, at any time and at any place.
 
 ##### <a id="44"></a>44  Witnesses
 
-                   A marriage shall not be solemnised unless at least 2 persons who are, or appear to the person solemnising the marriage to be, over the age of 18 years are present as witnesses.
+                   A marriage shall not be solemnized unless at least 2 persons who are, or appear to the person solemnizing the marriage to be, over the age of 18 years are present as witnesses.
 
 ##### <a id="45"></a>45  Form of ceremony
 
-             (1)  Where a marriage is solemnised by or in the presence of an authorised celebrant, being a minister of religion, it may be solemnised according to any form and ceremony recognised as sufficient for the purpose by the religious body or organisation of which he or she is a minister.
+             (1)  Where a marriage is solemnized by or in the presence of an authorized celebrant, being a minister of religion, it may be solemnized according to any form and ceremony recognized as sufficient for the purpose by the religious body or organization of which he or she is a minister.
 
-             (2)  Where a marriage is solemnised by or in the presence of an authorised celebrant, not being a minister of religion, it is sufficient if each of the parties says to the other, in the presence of the authorised celebrant and the witnesses, the words:
+             (2)  Where a marriage is solemnized by or in the presence of an authorized celebrant, not being a minister of religion, it is sufficient if each of the parties says to the other, in the presence of the authorized celebrant and the witnesses, the words:
 
 “I call upon the persons here present to witness that I, A.B. (_or_ C.D.), take thee, C.D. (_or_ A.B.), to be my lawful wedded wife (_or_ husband)”;
 
 or words to that effect.
 
-             (3)  Where a marriage has been solemnised by or in the presence of an authorised celebrant, a certificate of the marriage prepared and signed in accordance with section 50 is conclusive evidence that the marriage was solemnised in accordance with this section.
+             (3)  Where a marriage has been solemnized by or in the presence of an authorized celebrant, a certificate of the marriage prepared and signed in accordance with section 50 is conclusive evidence that the marriage was solemnized in accordance with this section.
 
              (4)  Nothing in subsection (3) makes a certificate conclusive:
 
@@ -1420,9 +1420,9 @@ or words to that effect.
 
 ##### <a id="46"></a>46  Certain authorised celebrants to explain nature of marriage relationship
 
-             (1)  Subject to subsection (2), before a marriage is solemnised by or in the presence of an authorised celebrant, not being a minister of religion of a recognised denomination, the authorised celebrant shall say to the parties, in the presence of the witnesses, the words:
+             (1)  Subject to subsection (2), before a marriage is solemnized by or in the presence of an authorized celebrant, not being a minister of religion of a recognized denomination, the authorized celebrant shall say to the parties, in the presence of the witnesses, the words:
 
-“I am duly authorised by law to solemnise marriages according to law. 
+“I am duly authorized by law to solemnize marriages according to law. 
 
 “Before you are joined in marriage in my presence and in the presence of these witnesses, I am to remind you of the solemn and binding nature of the relationship into which you are now about to enter.
 
@@ -1430,23 +1430,23 @@ or words to that effect.
 
 or words to that effect.
 
-             (2)  Where, in the case of a person authorised under subsection 39(2) to solemnise marriages, the Minister is satisfied that the form of ceremony to be used by that person sufficiently states the nature and obligations of marriage, the Minister may, either by the instrument by which that person is so authorised or by a subsequent instrument, exempt that person from compliance with subsection (1) of this section.
+             (2)  Where, in the case of a person authorized under subsection 39(2) to solemnize marriages, the Minister is satisfied that the form of ceremony to be used by that person sufficiently states the nature and obligations of marriage, the Minister may, either by the instrument by which that person is so authorized or by a subsequent instrument, exempt that person from compliance with subsection (1) of this section.
 
-##### <a id="47"></a>47  Ministers of religion not bound to solemnise marriage etc.
+##### <a id="47"></a>47  Ministers of religion not bound to solemnize marriage etc.
 
                    Nothing in this Part:
 
-                     (a)  imposes an obligation on an authorised celebrant, being a minister of religion, to solemnise any marriage; or
+                     (a)  imposes an obligation on an authorized celebrant, being a minister of religion, to solemnize any marriage; or
 
-                     (b)  prevents such an authorised celebrant from making it a condition of his or her solemnising a marriage that:
+                     (b)  prevents such an authorized celebrant from making it a condition of his or her solemnizing a marriage that:
 
                               (i)  longer notice of intention to marry than that required by this Act is given; or
 
                              (ii)  requirements additional to those provided by this Act are observed.
 
-##### <a id="48"></a>48  Certain marriages not solemnised in accordance with this Division to be invalid
+##### <a id="48"></a>48  Certain marriages not solemnized in accordance with this Division to be invalid
 
-             (1)  Subject to this section, a marriage solemnised otherwise than in accordance with the preceding provisions of this Division is not a valid marriage.
+             (1)  Subject to this section, a marriage solemnized otherwise than in accordance with the preceding provisions of this Division is not a valid marriage.
 
              (2)  A marriage is not invalid by reason of all or any of the following:
 
@@ -1454,7 +1454,7 @@ or words to that effect.
 
                      (b)  failure of the parties, or either of them, to make or subscribe a declaration as required by section 42, or a false statement, defect or error in such a declaration;
 
-                     (c)  failure to produce to the authorised celebrant a certificate or extract of an entry or a statutory declaration as required by section 42, or a false statement, defect or error in such a statutory declaration;
+                     (c)  failure to produce to the authorized celebrant a certificate or extract of an entry or a statutory declaration as required by section 42, or a false statement, defect or error in such a statutory declaration;
 
                      (d)  failure to comply with any other requirement of section 42, or any contravention of that section;
 
@@ -1462,15 +1462,15 @@ or words to that effect.
 
                       (f)  failure to comply with the requirements of section 13.
 
-             (3)  A marriage is not invalid by reason that the person solemnising it was not authorised by this Act to do so, if either party to the marriage, at the time the marriage was solemnised, believed that that person was lawfully authorised to solemnise it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
+             (3)  A marriage is not invalid by reason that the person solemnizing it was not authorized by this Act to do so, if either party to the marriage, at the time the marriage was solemnized, believed that that person was lawfully authorized to solemnize it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
 
 ##### <a id="49"></a>49  Authorised celebrant to retain consents, statutory declarations etc.
 
-                   An authorised celebrant to whom a consent, dispensation with consent or statutory declaration is produced under this Act shall retain it in his or her possession until he or she deals with it in accordance with section 50.
+                   An authorized celebrant to whom a consent, dispensation with consent or statutory declaration is produced under this Act shall retain it in his or her possession until he or she deals with it in accordance with section 50.
 
 ##### <a id="50"></a>50  Marriage certificates
 
-             (1)  Where an authorised celebrant solemnises a marriage, the authorised celebrant shall:
+             (1)  Where an authorized celebrant solemnizes a marriage, the authorized celebrant shall:
 
                      (a)  prepare a certificate of the marriage, in accordance with the prescribed form, for the purpose of issue to the parties to the marriage; and
 
@@ -1478,41 +1478,41 @@ or words to that effect.
 
           (1A)  Notwithstanding paragraph (1)(b), the regulations may provide that the person for the time being holding or acting in a specified office of a specified State or Territory shall prepare only 1 official certificate under that paragraph.
 
-             (2)  Immediately after the solemnisation of the marriage, the authorised celebrant, each of the parties to the marriage and 2 witnesses of the marriage who are, or appear to the authorised celebrant to be, over the age of 18 years shall sign each of the certificates so prepared.
+             (2)  Immediately after the solemnization of the marriage, the authorized celebrant, each of the parties to the marriage and 2 witnesses of the marriage who are, or appear to the authorized celebrant to be, over the age of 18 years shall sign each of the certificates so prepared.
 
              (3)  One of the official certificates or the official certificate, as the case may be, shall be on the reverse side of the paper bearing the declarations made by the parties under section 42.
 
-             (4)  The authorised celebrant shall hand the certificate referred to in paragraph (1)(a) to one of the parties to the marriage on behalf of the parties, and:
+             (4)  The authorized celebrant shall hand the certificate referred to in paragraph (1)(a) to one of the parties to the marriage on behalf of the parties, and:
 
                      (a)  where 2 official certificates have been prepared:
 
-                              (i)  within 14 days after the solemnisation of the marriage, forward the official certificate to which subsection (3) applies, together with the notice under section 42, the order (if any) under section 12 and any statutory declarations, consents and dispensations with consents relating to the marriage that are in his or her possession, to the appropriate registering authority of a State or Territory ascertained in accordance with the regulations; and
+                              (i)  within 14 days after the solemnization of the marriage, forward the official certificate to which subsection (3) applies, together with the notice under section 42, the order (if any) under section 12 and any statutory declarations, consents and dispensations with consents relating to the marriage that are in his or her possession, to the appropriate registering authority of a State or Territory ascertained in accordance with the regulations; and
 
                              (ii)  retain the other official certificate and deal with it in accordance with the regulations; or
 
                      (b)  where only 1 official certificate has been prepared—retain that certificate and deal with it in accordance with the regulations.
 
-             (5)  Where the authorised celebrant dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnised, prepare and sign the certificates with such modifications as are appropriate.
+             (5)  Where the authorized celebrant dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnized, prepare and sign the certificates with such modifications as are appropriate.
 
-             (6)  A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the authorised celebrant.
+             (6)  A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the authorized celebrant.
 
              (7)  The regulations may make provision for and in relation to the furnishing of a substitute certificate in the event of the loss or destruction of a certificate of a marriage previously forwarded in pursuance of this section.
 
 ##### <a id="51"></a>51  Incorrect marriage certificates
 
-             (1)  Where an authorised officer is satisfied, by statutory declaration or otherwise, that any particular in a certificate of marriage prepared and signed under section 50 is incorrect, the authorised officer may:
+             (1)  Where an authorized officer is satisfied, by statutory declaration or otherwise, that any particular in a certificate of marriage prepared and signed under section 50 is incorrect, the authorized officer may:
 
-                     (a)  in the case of a certificate that has been handed to a party to the marriage or retained by the authorised celebrant—correct the certificate; and
+                     (a)  in the case of a certificate that has been handed to a party to the marriage or retained by the authorized celebrant—correct the certificate; and
 
                      (b)  in the case of a certificate that has been forwarded to a registering authority—certify to that authority that a specified correction is necessary.
 
-             (2)  For the purposes of exercising his or her powers under paragraph (1)(a) in relation to a certificate, an authorised officer may, by notice in writing served on a party to the marriage, or the authorised celebrant, as the case requires, require the party or the authorised celebrant to produce or forward the certificate to the authorised officer within a period (not being less than 7 days from the date of service of the notice) specified in the notice.
+             (2)  For the purposes of exercising his or her powers under paragraph (1)(a) in relation to a certificate, an authorized officer may, by notice in writing served on a party to the marriage, or the authorized celebrant, as the case requires, require the party or the authorized celebrant to produce or forward the certificate to the authorized officer within a period (not being less than 7 days from the date of service of the notice) specified in the notice.
 
-          (2A)  Where a marriage has been solemnised, or purports to have been solemnised, under this Part, and the marriage is void, an authorised officer may, by notice in writing served on a party to the marriage, require the party to deliver or forward to the authorised officer, within a period (not being less than 7 days from the date of service of the notice) specified in the notice, the certificate required, by subsection 50(4), to be handed to a party to the marriage.
+          (2A)  Where a marriage has been solemnized, or purports to have been solemnized, under this Part, and the marriage is void, an authorized officer may, by notice in writing served on a party to the marriage, require the party to deliver or forward to the authorized officer, within a period (not being less than 7 days from the date of service of the notice) specified in the notice, the certificate required, by subsection 50(4), to be handed to a party to the marriage.
 
              (3)  A notice referred to in subsection (2) or (2A) may be served by post.
 
-             (4)  In this section, **_authorised officer_** means a person authorised by the Minister to perform the functions of an authorised officer under this section.
+             (4)  In this section, **_authorized officer_** means a person authorized by the Minister to perform the functions of an authorized officer under this section.
 
 ### Division 3—Marriages by foreign diplomatic or consular officers
 
@@ -1520,7 +1520,7 @@ or words to that effect.
 
                    In this Division, unless the contrary intention appears: 
 
-                    <a name="diplomat-consular-offic"></a>**_diplomatic or consular officer_**, in relation to an overseas country, means a person recognised by the Government of the Commonwealth as a diplomatic or consular representative of that overseas country in Australia.
+                    <a name="diplomat-consular-offic"></a>**_diplomatic or consular officer_**, in relation to an overseas country, means a person recognized by the Government of the Commonwealth as a diplomatic or consular representative of that overseas country in Australia.
 
                     <a name="proclaim-oversea-countri"></a>**_proclaimed overseas country_** means an overseas country in respect of which a Proclamation under section 54 is in force.
 
@@ -1530,13 +1530,13 @@ or words to that effect.
 
                    This Division applies to marriages, in accordance with the law or custom of a proclaimed overseas country, between parties of whom one at least possesses the nationality of that country.
 
-##### <a id="54"></a>54  Governor‑General may declare countries to be proclaimed overseas countries
+##### <a id="54"></a>54  Governor-General may declare countries to be proclaimed overseas countries
 
-                   The Governor‑General may declare by Proclamation that a country is a proclaimed overseas country for the purposes of this Division if he or she is satisfied that the country’s law or custom authorises the solemnisation, by or in the presence of either or both diplomatic or consular officers of that country, of marriages outside that country.
+                   The Governor-General may declare by Proclamation that a country is a proclaimed overseas country for the purposes of this Division if he or she is satisfied that the country’s law or custom authorizes the solemnization, by or in the presence of either or both diplomatic or consular officers of that country, of marriages outside that country.
 
-##### <a id="55"></a>55  Solemnisation of marriages in Australia by foreign diplomatic or consular officer
+##### <a id="55"></a>55  Solemnization of marriages in Australia by foreign diplomatic or consular officer
 
-                   Nothing in this Act prevents the solemnisation in Australia of a marriage to which this Division applies by or in the presence of a diplomatic or consular officer of a proclaimed overseas country if:
+                   Nothing in this Act prevents the solemnization in Australia of a marriage to which this Division applies by or in the presence of a diplomatic or consular officer of a proclaimed overseas country if:
 
                      (a)  neither of the parties is an Australian citizen; and
 
@@ -1544,9 +1544,9 @@ or words to that effect.
 
 ##### <a id="56"></a>56  Recognition of marriages
 
-             (1)  Subject to subsection (2), a marriage solemnised in Australia by or in the presence of a diplomatic or consular officer of a proclaimed overseas country, being a marriage to which section 55 was applicable, shall be recognised as valid in Australia if:
+             (1)  Subject to subsection (2), a marriage solemnized in Australia by or in the presence of a diplomatic or consular officer of a proclaimed overseas country, being a marriage to which section 55 was applicable, shall be recognized as valid in Australia if:
 
-                     (a)  the marriage is recognised as a valid marriage by the law or custom of the overseas country; and
+                     (a)  the marriage is recognized as a valid marriage by the law or custom of the overseas country; and
 
                      (b)  the marriage has been registered under this Division.
 
@@ -1560,23 +1560,23 @@ or words to that effect.
 
              (3)  The Minister may appoint a person to be Deputy Registrar of Foreign Marriages and, in the event of the absence, through illness or otherwise, of the Registrar, or of a vacancy in the office of Registrar, the Deputy Registrar has all the powers, and shall perform all the duties and functions, of the Registrar during the absence or vacancy.
 
-             (4)  The Deputy Registrar appointed under this section may, during any such absence, or vacancy in the office, of the Registrar, certify copies of entries, or extracts of entries, in the Register of Foreign Marriages Solemnised in Australia under his or her signature and the seal of the Registrar, and a copy or extract so certified has the same force and effect as if it had been certified by the Registrar under his or her signature and seal.
+             (4)  The Deputy Registrar appointed under this section may, during any such absence, or vacancy in the office, of the Registrar, certify copies of entries, or extracts of entries, in the Register of Foreign Marriages Solemnized in Australia under his or her signature and the seal of the Registrar, and a copy or extract so certified has the same force and effect as if it had been certified by the Registrar under his or her signature and seal.
 
-##### <a id="58"></a>58  Register of Foreign Marriages Solemnised in Australia
+##### <a id="58"></a>58  Register of Foreign Marriages Solemnized in Australia
 
-             (1)  The Registrar shall keep a register, to be called the Register of Foreign Marriages Solemnised in Australia, in such form as the Minister directs.
+             (1)  The Registrar shall keep a register, to be called the Register of Foreign Marriages Solemnized in Australia, in such form as the Minister directs.
 
              (2)  The Registrar shall register in the Register every marriage notified to the Registrar that he or she is satisfied:
 
                      (a)  is a marriage to which section 55 was applicable; and
 
-                     (b)  has been solemnised in Australia by or in the presence of a diplomatic or consular officer of a proclaimed overseas country who was competent to solemnise the marriage.
+                     (b)  has been solemnized in Australia by or in the presence of a diplomatic or consular officer of a proclaimed overseas country who was competent to solemnize the marriage.
 
              (3)  The Registrar shall keep an index of the entries in the Register.
 
 ##### <a id="59"></a>59  Searches and certified copies
 
-             (1)  Subject to payment of the prescribed fee, a person may, upon satisfying the Registrar that the person has good reason for so doing, cause a search to be made for an entry in the Register of Foreign Marriages Solemnised in Australia and receive a copy of the entry, or an extract of the entry, certified by the Registrar under his or her signature and seal to be a copy of the entry or an extract of the entry, as the case may be.
+             (1)  Subject to payment of the prescribed fee, a person may, upon satisfying the Registrar that the person has good reason for so doing, cause a search to be made for an entry in the Register of Foreign Marriages Solemnized in Australia and receive a copy of the entry, or an extract of the entry, certified by the Registrar under his or her signature and seal to be a copy of the entry or an extract of the entry, as the case may be.
 
              (2)  A copy of an entry in the Register certified in accordance with subsection (1) is, for all purposes, evidence of the marriage recorded in the entry.
 
@@ -1586,13 +1586,13 @@ or words to that effect.
 
 ##### <a id="71"></a>71  Marriages of members of the Defence Force overseas
 
-             (1)  Subject to this Part, a marriage between parties of whom one at least is a member of the Defence Force may be solemnised in an overseas country by or in the presence of a chaplain.
+             (1)  Subject to this Part, a marriage between parties of whom one at least is a member of the Defence Force may be solemnized in an overseas country by or in the presence of a chaplain.
 
-             (2)  The Governor‑General may, by Proclamation, declare that a part of the Queen’s dominions that has been occupied by a state at war with the Commonwealth and in which facilities for marriage in accordance with the local law have not, in the opinion of the Governor‑General, been adequately restored shall be deemed to be an overseas country for the purposes of this section.
+             (2)  The Governor-General may, by Proclamation, declare that a part of the Queen’s dominions that has been occupied by a state at war with the Commonwealth and in which facilities for marriage in accordance with the local law have not, in the opinion of the Governor-General, been adequately restored shall be deemed to be an overseas country for the purposes of this section.
 
 ##### <a id="72"></a>72  Form and ceremony of marriage
 
-             (1)  A marriage under this Division shall be solemnised:
+             (1)  A marriage under this Division shall be solemnized:
 
                      (a)  at such place as the chaplain thinks fit, in the presence of at least 2 witnesses who are, or appear to the chaplain to be, over the age of 18; and
 
@@ -1608,11 +1608,11 @@ or words to that effect.
 
 ##### <a id="73"></a>73  Validity of marriages
 
-                   A marriage solemnised under this Part, being a marriage which, if it had been solemnised in Australia in accordance with Division 2 of Part IV would have been a valid marriage, is valid throughout Australia and the external Territories.
+                   A marriage solemnized under this Part, being a marriage which, if it had been solemnized in Australia in accordance with Division 2 of Part IV would have been a valid marriage, is valid throughout Australia and the external Territories.
 
 ##### <a id="74"></a>74  Declaration to be made before chaplain
 
-             (1)  A marriage shall not be solemnised under this Part unless each of the parties to the marriage has made and subscribed before the chaplain solemnising the marriage a declaration, in accordance with the prescribed form, as to:
+             (1)  A marriage shall not be solemnized under this Part unless each of the parties to the marriage has made and subscribed before the chaplain solemnizing the marriage a declaration, in accordance with the prescribed form, as to:
 
                      (a)  the party’s conjugal status;
 
@@ -1622,11 +1622,11 @@ or words to that effect.
 
              (2)  The declarations of the parties required by subsection (1) shall both be written on the one paper and on the same side of that paper.
 
-             (3)  A chaplain shall not solemnise a marriage under this Part if he or she has reason to believe that a declaration made and subscribed under this section in relation to the marriage contains a false statement or an error or is defective.
+             (3)  A chaplain shall not solemnize a marriage under this Part if he or she has reason to believe that a declaration made and subscribed under this section in relation to the marriage contains a false statement or an error or is defective.
 
 ##### <a id="75"></a>75  Chaplain to be satisfied of parties’ identity
 
-                   A chaplain shall not solemnise a marriage under this Part unless the chaplain has satisfied himself or herself as to the identity of the parties.
+                   A chaplain shall not solemnize a marriage under this Part unless the chaplain has satisfied himself or herself as to the identity of the parties.
 
 ##### <a id="76"></a>76  Additional consent to marriage of minor domiciled outside Australia
 
@@ -1636,13 +1636,13 @@ or words to that effect.
 
                      (b)  the law of that place requires the consent of a person, other than a person whose consent is required under Part II, to the marriage of that party;
 
-the marriage shall not be solemnised unless the chaplain is satisfied that consent to the marriage has been given by that person.
+the marriage shall not be solemnized unless the chaplain is satisfied that consent to the marriage has been given by that person.
 
              (2)  The requirement of subsection (1) is in addition to the requirements of Part II with respect to consents to the marriages of minors.
 
-##### <a id="77"></a>77  Restriction on solemnisation of marriages under this Part
+##### <a id="77"></a>77  Restriction on solemnization of marriages under this Part
 
-             (1)  A marriage shall not be solemnised in an overseas country under this Part unless the chaplain is satisfied:
+             (1)  A marriage shall not be solemnized in an overseas country under this Part unless the chaplain is satisfied:
 
                      (a)  that each of the parties to the intended marriage is an Australian citizen or a member of the Defence Force;
 
@@ -1650,25 +1650,25 @@ the marriage shall not be solemnised unless the chaplain is satisfied that conse
 
                               (i)  that that party is not a subject or citizen of the overseas country; or
 
-                             (ii)  that sufficient facilities do not exist for the solemnisation of the marriage in the overseas country in accordance with the law of that country;
+                             (ii)  that sufficient facilities do not exist for the solemnization of the marriage in the overseas country in accordance with the law of that country;
 
-                     (c)  where 1 party to the intended marriage is a subject or citizen of the overseas country, that objection will not be taken by the authorities of that country to the solemnisation of the intended marriage under this Part; or
+                     (c)  where 1 party to the intended marriage is a subject or citizen of the overseas country, that objection will not be taken by the authorities of that country to the solemnization of the intended marriage under this Part; or
 
-                     (d)  that a marriage in the overseas country between the parties in accordance with the law of that country would not be recognised throughout Australia.
+                     (d)  that a marriage in the overseas country between the parties in accordance with the law of that country would not be recognized throughout Australia.
 
              (2)  In this section, **_overseas country_** includes a country that is deemed to be an overseas country for the purposes of section 71.
 
-##### <a id="78"></a>78  Solemnisation of marriages where a party to the marriage is not an Australian citizen etc.
+##### <a id="78"></a>78  Solemnization of marriages where a party to the marriage is not an Australian citizen etc.
 
-             (1)  Subject to subsection (2), a marriage shall not be solemnised under this Part if 1 party to the intended marriage (in this section called the **_non‑Australian_**) is not an Australian citizen or a member of the Defence Force.
+             (1)  Subject to subsection (2), a marriage shall not be solemnized under this Part if 1 party to the intended marriage (in this section called the **_non-Australian_**) is not an Australian citizen or a member of the Defence Force.
 
              (2)  Subsection (1) does not apply where the chaplain is satisfied:
 
-                     (a)  that the marriage will be recognised by the law of the country to which the non‑Australian belongs;
+                     (a)  that the marriage will be recognized by the law of the country to which the non-Australian belongs;
 
-                     (b)  that some other marriage ceremony, in addition to the ceremony under this Part, has taken place, or is about to take place, between the parties and that the other ceremony is, or, when it has taken place, will be, recognised by the law of the country to which the non‑Australian belongs; or
+                     (b)  that some other marriage ceremony, in addition to the ceremony under this Part, has taken place, or is about to take place, between the parties and that the other ceremony is, or, when it has taken place, will be, recognized by the law of the country to which the non-Australian belongs; or
 
-                     (c)  that the Minister has approved of the solemnisation of the marriage under this Part.
+                     (c)  that the Minister has approved of the solemnization of the marriage under this Part.
 
 ##### <a id="79"></a>79  Chaplain to retain consents etc.
 
@@ -1676,13 +1676,13 @@ the marriage shall not be solemnised unless the chaplain is satisfied that conse
 
 ##### <a id="80"></a>80  Marriage certificate and registration of marriages
 
-             (1)  Where a chaplain solemnises a marriage under this Part, the chaplain shall:
+             (1)  Where a chaplain solemnizes a marriage under this Part, the chaplain shall:
 
                      (a)  prepare a certificate of the marriage, in accordance with the prescribed form, for the purpose of issue to the parties to the marriage; and
 
                      (b)  prepare 2 official certificates of the marriage in accordance with the prescribed form.
 
-             (2)  Immediately after the solemnisation of the marriage:
+             (2)  Immediately after the solemnization of the marriage:
 
                      (a)  the chaplain; and
 
@@ -1702,13 +1702,13 @@ shall sign each of the certificates so prepared.
 
                      (c)  retain the other copy of the certificate in his or her possession for the prescribed period and, upon the expiration of that period, deal with the copy in accordance with the regulations.
 
-             (5)  Where the chaplain dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnised, prepare and sign the certificates with such modifications as are appropriate.
+             (5)  Where the chaplain dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnized, prepare and sign the certificates with such modifications as are appropriate.
 
              (6)  A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the chaplain.
 
              (7)  Upon the receipt by the Registrar of the official certificate required to be forwarded to the Registrar in respect of a marriage, the Registrar shall register the marriage.
 
-             (8)  In the month of January in each year, a chaplain by whom, or in whose presence, a marriage has been, or marriages have been, solemnised in the preceding year shall forward to the Registrar, in accordance with the prescribed form, particulars of that marriage or those marriages.
+             (8)  In the month of January in each year, a chaplain by whom, or in whose presence, a marriage has been, or marriages have been, solemnized in the preceding year shall forward to the Registrar, in accordance with the prescribed form, particulars of that marriage or those marriages.
 
              (9)  If the certificate of a marriage is not received by the Registrar, the chaplain by whom it was issued shall, at the request of the Registrar:
 
@@ -1720,13 +1720,13 @@ shall sign each of the certificates so prepared.
 
            (10)  A certified copy of a certificate prepared by a chaplain under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
 
-##### <a id="81"></a>81  Power to refuse to solemnise marriage
+##### <a id="81"></a>81  Power to refuse to solemnize marriage
 
-                   A chaplain may refuse to solemnise a marriage under this Part on any grounds which appear to the chaplain to be sufficient and, in particular, on the ground that, in the opinion of the chaplain, the solemnisation of the marriage would be inconsistent with international law or the comity of nations.
+                   A chaplain may refuse to solemnize a marriage under this Part on any grounds which appear to the chaplain to be sufficient and, in particular, on the ground that, in the opinion of the chaplain, the solemnization of the marriage would be inconsistent with international law or the comity of nations.
 
-##### <a id="82"></a>82  Marriages may be solemnised on any day and at any time
+##### <a id="82"></a>82  Marriages may be solemnized on any day and at any time
 
-                   A marriage under this Part may be solemnised on any day and at any time.
+                   A marriage under this Part may be solemnized on any day and at any time.
 
 ##### <a id="83"></a>83  Validity of marriages under this Part
 
@@ -1734,13 +1734,13 @@ shall sign each of the certificates so prepared.
 
                      (d)  failure of the parties, or either of them, to make or subscribe a declaration required by section 74, or a false statement, defect or error in such a declaration;
 
-                     (e)  the fact that the marriage was solemnised in contravention of any provision of section 72, 74, 75, 76, 77 or 78;
+                     (e)  the fact that the marriage was solemnized in contravention of any provision of section 72, 74, 75, 76, 77 or 78;
 
                       (f)  failure to comply with the requirements of section 13.
 
-             (2)  A marriage under this Part is not invalid by reason that the person solemnising it was not a chaplain if either party to the marriage, at the time the marriage was solemnised, believed that that person was lawfully authorised to solemnise it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
+             (2)  A marriage under this Part is not invalid by reason that the person solemnizing it was not a chaplain if either party to the marriage, at the time the marriage was solemnized, believed that that person was lawfully authorized to solemnize it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
 
-##### <a id="84"></a>84  Registration of overseas marriages attended by a chaplain
+##### <a id="84"></a>84  Registration of overseas marriages attended by a chaplain
 
              (1)  Where:
 
@@ -1754,13 +1754,13 @@ the chaplain shall forward to the Registrar a certificate, in accordance with th
 
              (2)  Upon receipt by the Registrar of a certificate under subsection (1) in respect of a marriage, the Registrar shall, subject to the regulations, register the marriage.
 
-##### <a id="85"></a>85  Certificates of marriages solemnised in accordance with local law in an overseas country
+##### <a id="85"></a>85  Certificates of marriages solemnized in accordance with local law in an overseas country
 
              (1)  Where:
 
                      (a)  a marriage takes place in a prescribed overseas country in accordance with the law of that country between parties of whom one at least is an Australian citizen or a member of the Defence Force;
 
-                     (b)  a party to the marriage who is an Australian citizen or a member of the Defence Force produces to a chaplain in the country in which the marriage was solemnised:
+                     (b)  a party to the marriage who is an Australian citizen or a member of the Defence Force produces to a chaplain in the country in which the marriage was solemnized:
 
                               (i)  a copy of the entry in respect of the marriage in the marriage register of that country certified by the appropriate authority in that country to be a true copy of that entry; and
 
@@ -1782,11 +1782,11 @@ the chaplain shall certify, upon the copy, that he or she is satisfied that the 
 
 ##### <a id="87"></a>87  Validity of marriages otherwise than under this Part not affected
 
-                   Nothing in this Part in any way affects the validity of a marriage solemnised in an overseas country otherwise than under this Part.
+                   Nothing in this Part in any way affects the validity of a marriage solemnized in an overseas country otherwise than under this Part.
 
 ##### <a id="88"></a>88  Imperial Foreign Marriage Acts
 
-                   This Act shall not be taken to repeal or amend the Imperial Acts known as the Foreign Marriage Acts, 1892 and 1934, in so far as those Acts are part of the law of the Commonwealth.
+This Act shall not be taken to repeal or amend the Imperial Acts known as the Foreign Marriage Acts, 1892 and 1934, in so far as those Acts are part of the law of the Commonwealth.
 
 ## Part VA—Recognition of foreign marriages
 
@@ -1800,41 +1800,41 @@ the chaplain shall certify, upon the copy, that he or she is satisfied that the 
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
-                    <a name="local-law"></a>**_local law_**, in relation to a marriage solemnised in a foreign country, means the law in force in the foreign country or in that part of the foreign country in which the marriage was solemnised.
+                    <a name="local-law"></a>**_local law_**, in relation to a marriage solemnized in a foreign country, means the law in force in the foreign country or in that part of the foreign country in which the marriage was solemnized.
 
-             (2)  A marriage shall be taken, for the purposes of this Part, to have been solemnised in a foreign country by or in the presence of a diplomatic or consular officer of another foreign country if the marriage was solemnised in the first‑mentioned foreign country by or in the presence of a person who was recognised by the government of that country as a diplomatic or consular representative of the other foreign country.
+             (2)  A marriage shall be taken, for the purposes of this Part, to have been solemnized in a foreign country by or in the presence of a diplomatic or consular officer of another foreign country if the marriage was solemnized in the first-mentioned foreign country by or in the presence of a person who was recognized by the government of that country as a diplomatic or consular representative of the other foreign country.
 
-             (3)  In this Part, a reference to a marriage includes a reference to a purported marriage that is void or voidable but does not include a reference to a marriage solemnised under Part V.
+             (3)  In this Part, a reference to a marriage includes a reference to a purported marriage that is void or voidable but does not include a reference to a marriage solemnized under Part V.
 
              (4)  To avoid doubt, in this Part (including section 88E) **_marriage_** has the meaning given by subsection 5(1).
 
 ##### <a id="88C"></a>88C  Application of Part
 
-             (1)  This Part applies to and in relation to every marriage solemnised, whether before or after the commencement of this Part, in a foreign country where:
+             (1)  This Part applies to and in relation to every marriage solemnized, whether before or after the commencement of this Part, in a foreign country where:
 
-                     (a)  under the local law, the marriage was, at the time when it was solemnised, recognised as valid; or
+                     (a)  under the local law, the marriage was, at the time when it was solemnized, recognized as valid; or
 
-                     (b)  if the marriage was solemnised by or in the presence of a diplomatic or consular officer of another foreign country:
+                     (b)  if the marriage was solemnized by or in the presence of a diplomatic or consular officer of another foreign country:
 
-                              (i)  under the law of that other foreign country, the marriage was, at the time when it was solemnised, recognised as valid; and
+                              (i)  under the law of that other foreign country, the marriage was, at the time when it was solemnized, recognized as valid; and
 
-                             (ii)  at the time when it was solemnised, the solemnisation of the marriage was not prohibited by the local law.
+                             (ii)  at the time when it was solemnized, the solemnization of the marriage was not prohibited by the local law.
 
-             (2)  Where a marriage (not being a marriage referred to in subsection (1)) that was solemnised, whether before or after the commencement of this Part, in a foreign country:
+             (2)  Where a marriage (not being a marriage referred to in subsection (1)) that was solemnized, whether before or after the commencement of this Part, in a foreign country:
 
-                     (a)  is, at any time in relation to which the validity of the marriage falls to be determined, recognised as valid under the local law; or
+                     (a)  is, at any time in relation to which the validity of the marriage falls to be determined, recognized as valid under the local law; or
 
-                     (b)  if the marriage was solemnised by or in the presence of a diplomatic or consular officer of another foreign country and, at the time when it was solemnised, the solemnisation of the marriage was not prohibited by the local law—is, at any time in relation to which the validity of the marriage falls to be determined, recognised as valid under the law of that other foreign country;
+                     (b)  if the marriage was solemnized by or in the presence of a diplomatic or consular officer of another foreign country and, at the time when it was solemnized, the solemnization of the marriage was not prohibited by the local law—is, at any time in relation to which the validity of the marriage falls to be determined, recognized as valid under the law of that other foreign country;
 
 this Part applies to and in relation to the marriage from and including that time.
 
 ##### <a id="88D"></a>88D  Validity of marriages
 
-             (1)  Subject to this section, a marriage to which this Part applies shall be recognised in Australia as valid.
+             (1)  Subject to this section, a marriage to which this Part applies shall be recognized in Australia as valid.
 
-             (2)  A marriage to which this Part applies shall not be recognised as valid in accordance with subsection (1) if:
+             (2)  A marriage to which this Part applies shall not be recognized as valid in accordance with subsection (1) if:
 
-                     (a)  either of the parties was, at the time of the marriage, a party to a marriage with some other person and the last‑mentioned marriage was, at that time, recognised in Australia as valid;
+                     (a)  either of the parties was, at the time of the marriage, a party to a marriage with some other person and the last-mentioned marriage was, at that time, recognized in Australia as valid;
 
                      (b)  where one of the parties was, at the time of the marriage, domiciled in Australia—either of the parties was not of marriageable age within the meaning of Part II;
 
@@ -1842,37 +1842,37 @@ this Part applies to and in relation to the marriage from and including that tim
 
                      (d)  the consent of either of the parties was not a real consent for a reason set out in subparagraph 23B(1)(d)(i), (ii) or (iii).
 
-             (3)  Where neither of the parties to a marriage to which this Part applies was, at the time of the marriage, domiciled in Australia, the marriage shall not be recognised as valid in accordance with subsection (1) at any time while either party is under the age of 16 years.
+             (3)  Where neither of the parties to a marriage to which this Part applies was, at the time of the marriage, domiciled in Australia, the marriage shall not be recognized as valid in accordance with subsection (1) at any time while either party is under the age of 16 years.
 
-             (4)  A marriage solemnised in a foreign country, being a marriage to which this Part applies, shall not be recognised as valid in accordance with subsection (1) at any time while the marriage is voidable:
+             (4)  A marriage solemnized in a foreign country, being a marriage to which this Part applies, shall not be recognized as valid in accordance with subsection (1) at any time while the marriage is voidable:
 
                      (a)  except in a case to which paragraph (b) applies—under the local law; or
 
-                     (b)  if the marriage was solemnised in a foreign country by or in the presence of a diplomatic or consular officer of another foreign country—under the law of that other foreign country.
+                     (b)  if the marriage was solemnized in a foreign country by or in the presence of a diplomatic or consular officer of another foreign country—under the law of that other foreign country.
 
              (5)  Notwithstanding any other provision of this Part, where:
 
-                     (a)  a marriage (in this subsection referred to as the **_initial marriage_**) has, whether before or after the commencement of this Part, been solemnised in a foreign country;
+                     (a)  a marriage (in this subsection referred to as the **_initial marriage_**) has, whether before or after the commencement of this Part, been solemnized in a foreign country;
 
-                     (b)  at the time of the solemnisation of the initial marriage, that marriage was not recognised in Australia as valid;
+                     (b)  at the time of the solemnization of the initial marriage, that marriage was not recognized in Australia as valid;
 
-                     (c)  after the solemnisation of the initial marriage, and whether before or after the commencement of this Part, either party to that marriage entered into another marriage (in this subsection referred to as the **_subsequent marriage_**); and
+                     (c)  after the solemnization of the initial marriage, and whether before or after the commencement of this Part, either party to that marriage entered into another marriage (in this subsection referred to as the **_subsequent marriage_**); and
 
-                     (d)  at the time when the subsequent marriage was solemnised:
+                     (d)  at the time when the subsequent marriage was solemnized:
 
-                              (i)  the subsequent marriage was recognised in Australia as valid; and
+                              (i)  the subsequent marriage was recognized in Australia as valid; and
 
-                             (ii)  the initial marriage was not recognised in Australia as valid;
+                             (ii)  the initial marriage was not recognized in Australia as valid;
 
-the initial marriage shall not be recognised at any time in Australia as valid.
+the initial marriage shall not be recognized at any time in Australia as valid.
 
 ##### <a id="88E"></a>88E  Validity of certain marriages not affected by this Part
 
-             (1)  Subject to subsection (2), a marriage solemnised in a foreign country that would be recognised as valid under the common law rules of private international law but is not required by the provisions of this Part apart from this subsection to be recognised as valid shall be recognised in Australia as valid, and the operation of this subsection shall not be limited by any implication arising from any other provision of this Part.
+             (1)  Subject to subsection (2), a marriage solemnized in a foreign country that would be recognized as valid under the common law rules of private international law but is not required by the provisions of this Part apart from this subsection to be recognized as valid shall be recognized in Australia as valid, and the operation of this subsection shall not be limited by any implication arising from any other provision of this Part.
 
-             (2)  Notwithstanding subsection (1), a marriage of a person domiciled in Australia, being a marriage solemnised in a foreign country, shall not be recognised in Australia as valid if, at the time of the marriage, either party to the marriage was not of marriageable age within the meaning of Part II.
+             (2)  Notwithstanding subsection (1), a marriage of a person domiciled in Australia, being a marriage solemnized in a foreign country, shall not be recognized in Australia as valid if, at the time of the marriage, either party to the marriage was not of marriageable age within the meaning of Part II.
 
-             (3)  Where a marriage solemnised in a foreign country is not required by virtue of this Part to be recognised in Australia as valid, this Part shall not be taken to limit or exclude the operation of a provision of any other law of the Commonwealth, or of a law of a State or Territory, that provides, expressly or impliedly, for such a marriage to be recognised as a valid marriage for the purposes of the law in which the provision is included.
+             (3)  Where a marriage solemnized in a foreign country is not required by virtue of this Part to be recognized in Australia as valid, this Part shall not be taken to limit or exclude the operation of a provision of any other law of the Commonwealth, or of a law of a State or Territory, that provides, expressly or impliedly, for such a marriage to be recognized as a valid marriage for the purposes of the law in which the provision is included.
 
              (4)  This Part shall not be taken to limit or exclude the operation of a provision of any other law of the Commonwealth, or of a law of a State or Territory, that deems a union in the nature of a marriage to be a marriage for the purposes of the law in which the provision is included.
 
@@ -1888,15 +1888,15 @@ must not be recognised as a marriage in Australia.
 
 ##### <a id="88F"></a>88F  Incidental determination of recognition of certain foreign marriages
 
-                   Notwithstanding any other law, the question whether a marriage solemnised in a foreign country is to be recognised in Australia as valid shall be determined in accordance with the provisions of this Part, whether or not the determination of the question is incidental to the determination of another question.
+                   Notwithstanding any other law, the question whether a marriage solemnized in a foreign country is to be recognized in Australia as valid shall be determined in accordance with the provisions of this Part, whether or not the determination of the question is incidental to the determination of another question.
 
 ##### <a id="88G"></a>88G  Evidence
 
-             (1)  A document purporting to be either the original or a certified copy of a certificate, entry or record of a marriage alleged to have been solemnised in, or under the law of, a foreign country and purporting to have been issued by:
+             (1)  A document purporting to be either the original or a certified copy of a certificate, entry or record of a marriage alleged to have been solemnized in, or under the law of, a foreign country and purporting to have been issued by:
 
-                     (a)  in the case of a marriage alleged to have been solemnised in a foreign country—an authority of that country or of that part of the country in which the marriage was allegedly solemnised; or
+                     (a)  in the case of a marriage alleged to have been solemnized in a foreign country—an authority of that country or of that part of the country in which the marriage was allegedly solemnized; or
 
-                     (b)  in the case of a marriage alleged to have been solemnised under the law of a foreign country—an authority of that country;
+                     (b)  in the case of a marriage alleged to have been solemnized under the law of a foreign country—an authority of that country;
 
 is, for all purposes, _prima facie_ evidence of the facts stated in the document and of the validity of the marriage to which the document relates.
 
@@ -1908,13 +1908,13 @@ is, for all purposes, _prima facie_ evidence of the facts stated in the document
 
                               (i)  any authority that is prescribed in relation to that country by regulations made for the purposes of this paragraph; or
 
-                             (ii)  any other authority that is competent, under the law in force in that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnised in, or under the law of, that country; and
+                             (ii)  any other authority that is competent, under the law in force in that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnized in, or under the law of, that country; and
 
                      (b)  in relation to a part of a foreign country:
 
                               (i)  any authority that is prescribed in relation to that part of that country by regulations made for the purposes of this paragraph; or
 
-                             (ii)  any other authority that is competent, under the law in force in that part of that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnised in that part of that country.
+                             (ii)  any other authority that is competent, under the law in force in that part of that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnized in that part of that country.
 
 ## Part VI—Legitimation
 
@@ -1938,27 +1938,27 @@ is, for all purposes, _prima facie_ evidence of the facts stated in the document
 
              (5)  This section does not apply in relation to a child so as to affect any estate, right or interest in real or personal property to which a person has become, or may become, entitled, either mediately or immediately, in possession or expectancy, by virtue of a disposition that took effect, or by devolution by law on the death of a person who died, before the marriage of the parents of the child or the commencement of this Act, whichever was the later.
 
-##### <a id="90"></a>90  Legitimacy of children of certain foreign marriages
+##### <a id="90"></a>90  Legitimacy of children of certain foreign marriages
 
              (1)  Where:
 
-                     (a)  the parents of a child born illegitimate have married each other or the parents of a child born in a place the law of which did not recognise the status of illegitimacy have married each other;
+                     (a)  the parents of a child born illegitimate have married each other or the parents of a child born in a place the law of which did not recognize the status of illegitimacy have married each other;
 
                      (b)  the marriage took place outside Australia;
 
                      (c)  neither parent of the child was domiciled in Australia at the time of the marriage; and
 
-                     (d)  the law of the place where a parent of the child was then domiciled did not recognise the status of illegitimacy or, if the law of the place where a parent of the child was then domiciled did recognise that status, the child was, by that law, legitimated by virtue of the marriage;
+                     (d)  the law of the place where a parent of the child was then domiciled did not recognize the status of illegitimacy or, if the law of the place where a parent of the child was then domiciled did recognize that status, the child was, by that law, legitimated by virtue of the marriage;
 
 the child is for all purposes the legitimate child of his or her parents as from the time of the marriage or the commencement of section 25 of the _Marriage Amendment Act 1985_, whichever was the later.
 
-             (2)  Where the relationship of a child and his or her father and mother is, for the purposes of the law of a place, required by a law in force in that place to be determined irrespective of whether or not the father and mother are or have been married to each other, the law of that place shall, for the purposes of this section, be taken not to recognise the status of illegitimacy.
+             (2)  Where the relationship of a child and his or her father and mother is, for the purposes of the law of a place, required by a law in force in that place to be determined irrespective of whether or not the father and mother are or have been married to each other, the law of that place shall, for the purposes of this section, be taken not to recognize the status of illegitimacy.
 
              (3)  Subsection (1) applies in relation to a child:
 
                      (a)  whether the child was born before or after the commencement of section 25 of the _Marriage Amendment Act 1985_, whether the marriage of the parents of the child took place before or after that commencement and whether or not the child was still living at the time of the marriage or, in the case of a child born before that commencement, at that commencement; and
 
-                     (b)  in the case of a child born illegitimate who, by virtue of the marriage of the child’s parents, was legitimated by the law of the place where a parent of the child was domiciled at the time of the marriage—whether or not the law of the place in which that parent or the other parent was domiciled at the time of the birth of the child permitted or recognised legitimation by subsequent marriage.
+                     (b)  in the case of a child born illegitimate who, by virtue of the marriage of the child’s parents, was legitimated by the law of the place where a parent of the child was domiciled at the time of the marriage—whether or not the law of the place in which that parent or the other parent was domiciled at the time of the birth of the child permitted or recognized legitimation by subsequent marriage.
 
 ##### <a id="91"></a>91  Legitimacy of children of certain void marriages
 
@@ -1984,7 +1984,7 @@ and the Court may, in its discretion, make the order.
 
              (4)  The Court to which an application under this section is made may:
 
-                     (a)  direct that notice of the application be given to such persons (who may include the Attorney‑General of the Commonwealth or of a State or the Northern Territory) as the Court thinks fit;
+                     (a)  direct that notice of the application be given to such persons (who may include the Attorney-General of the Commonwealth or of a State or the Northern Territory) as the Court thinks fit;
 
                      (b)  direct that a person be made a party to the application; or
 
@@ -1992,7 +1992,7 @@ and the Court may, in its discretion, make the order.
 
              (5)  Where the Court makes an order upon the application, it may include in the order such particulars in relation to the legitimacy or legitimation of the person to whom it relates as the Court finds to be established.
 
-             (6)  An order made under this section binds the Crown in right of the Commonwealth or of a State or the Northern Territory or Norfolk Island, whether or not notice was given to the Attorney‑General of the Commonwealth or of that State or Territory, but does not affect:
+             (6)  An order made under this section binds the Crown in right of the Commonwealth or of a State or the Northern Territory or Norfolk Island, whether or not notice was given to the Attorney-General of the Commonwealth or of that State or Territory, but does not affect:
 
                      (a)  the rights of another person unless that other person was:
 
@@ -2002,7 +2002,7 @@ and the Court may, in its discretion, make the order.
 
                      (b)  an earlier judgment, order or decree of a court of competent jurisdiction, whether in exercise of federal jurisdiction or not.
 
-             (7)  The Governor‑General may, by Proclamation, fix a date as the date on and after which proceedings under this section may not be instituted in, or transferred to, the Supreme Court of a State or Territory specified in the Proclamation and that Supreme Court shall not hear and determine any such proceedings so instituted in, or transferred to, that Court on or after that date.
+             (7)  The Governor-General may, by Proclamation, fix a date as the date on and after which proceedings under this section may not be instituted in, or transferred to, the Supreme Court of a State or Territory specified in the Proclamation and that Supreme Court shall not hear and determine any such proceedings so instituted in, or transferred to, that Court on or after that date.
 
 ##### <a id="93"></a>93  Operation of certain State and Territory laws
 
@@ -2100,41 +2100,41 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     Penalty:  $500 or imprisonment for 6 months.
 
-##### <a id="99"></a>99  Solemnising marriage where notice or declaration not given or made etc.
+##### <a id="99"></a>99  Solemnizing marriage where notice or declaration not given or made etc.
 
-             (1)  An authorised celebrant shall not solemnise a marriage under Division 2 of Part IV in contravention of section 42 or 44.
+             (1)  An authorized celebrant shall not solemnize a marriage under Division 2 of Part IV in contravention of section 42 or 44.
 
-             (3)  A chaplain shall not solemnise a marriage under Division 3 of Part V in contravention of section 74, 75, 76, 77 or 78.
+             (3)  A chaplain shall not solemnize a marriage under Division 3 of Part V in contravention of section 74, 75, 76, 77 or 78.
 
-             (4)  A person shall not solemnise a marriage in contravention of section 13 or 112.
+             (4)  A person shall not solemnize a marriage in contravention of section 13 or 112.
 
-             (5)  A person shall not solemnise a marriage in contravention of subsection 33(3).
+             (5)  A person shall not solemnize a marriage in contravention of subsection 33(3).
 
-             (6)  A person shall not, in contravention of subsection 113(1), purport to solemnise a marriage between persons who inform the first‑mentioned person that they are already legally married to each other or whom the first‑mentioned person knows or has reason to believe to be already legally married to each other.
-
-                    Penalty:  $500 or imprisonment for 6 months.
-
-##### <a id="100"></a>100  Solemnising marriage where reason to believe there is a legal impediment
-
-                   A person shall not solemnise a marriage, or purport to solemnise a marriage, if the person has reason to believe that there is a legal impediment to the marriage or if the person has reason to believe the marriage would be void.
+             (6)  A person shall not, in contravention of subsection 113(1), purport to solemnize a marriage between persons who inform the first-mentioned person that they are already legally married to each other or whom the first-mentioned person knows or has reason to believe to be already legally married to each other.
 
                     Penalty:  $500 or imprisonment for 6 months.
 
-##### <a id="101"></a>101  Solemnisation of marriage by unauthorised person
+##### <a id="100"></a>100  Solemnizing marriage where reason to believe there is a legal impediment
 
-                   A person shall not solemnise a marriage, or purport to solemnise a marriage, at a place in Australia or under Part V unless the person is authorised by or under this Act to solemnise marriages at that place or under that Part, as the case may be.
+                   A person shall not solemnize a marriage, or purport to solemnize a marriage, if the person has reason to believe that there is a legal impediment to the marriage or if the person has reason to believe the marriage would be void.
 
                     Penalty:  $500 or imprisonment for 6 months.
 
-##### <a id="103"></a>103  Going through ceremony of marriage before person not authorised to solemnise it
+##### <a id="101"></a>101  Solemnization of marriage by unauthorised person
 
-                   A person shall not go through a form or ceremony of marriage with another person knowing that the person solemnising the marriage is not authorised to solemnise it and having reason to believe that the other party to the marriage believes that the person solemnising the marriage is so authorised.
+                   A person shall not solemnize a marriage, or purport to solemnize a marriage, at a place in Australia or under Part V unless the person is authorized by or under this Act to solemnize marriages at that place or under that Part, as the case may be.
+
+                    Penalty:  $500 or imprisonment for 6 months.
+
+##### <a id="103"></a>103  Going through ceremony of marriage before person not authorised to solemnize it
+
+                   A person shall not go through a form or ceremony of marriage with another person knowing that the person solemnizing the marriage is not authorized to solemnize it and having reason to believe that the other party to the marriage believes that the person solemnizing the marriage is so authorized.
 
                     Penalty:  $500 or imprisonment for 6 months.
 
 ##### <a id="104"></a>104  Giving defective notice etc.
 
-             (1)  A person shall not give a notice to an authorised celebrant under section 42, or sign a notice under section 42 after it has been given, if, to the knowledge of that person, the notice contains a false statement or an error or is defective.
+             (1)  A person shall not give a notice to an authorized celebrant under section 42, or sign a notice under section 42 after it has been given, if, to the knowledge of that person, the notice contains a false statement or an error or is defective.
 
                     Penalty:  $500 or imprisonment for 6 months.
 
@@ -2154,7 +2154,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="106"></a>106  Failure by interpreter to furnish certificate etc.
 
-                   A person who has acted as interpreter at the solemnisation of a marriage shall not:
+                   A person who has acted as interpreter at the solemnization of a marriage shall not:
 
                      (a)  fail to comply with subsection 112(3); or
 
@@ -2168,7 +2168,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  Section 4 of the _Acts Interpretation Act 1901_ applies in relation to the provisions that are to come into operation on a date to be fixed by Proclamation as if those provisions were an Act.
 
-             (2)  For the purpose of enabling marriages to be solemnised in Australia in accordance with Division 2 of Part IV from the commencement of this Act:
+             (2)  For the purpose of enabling marriages to be solemnized in Australia in accordance with Division 2 of Part IV from the commencement of this Act:
 
                      (a)  a notice of intention to marry may be given, and a declaration may be made, under section 42;
 
@@ -2178,13 +2178,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 at any time after the day on which the Proclamation under section 2 has been published in the _Gazette_ and before the commencement of this Act, as if the provisions of this Act to which the Proclamation relates had come into operation on that day.
 
-             (3)  For the purposes of the operation of subsection (2), any person who is authorised under a law of a State or Territory to solemnise marriages shall be deemed to be an authorised celebrant.
+             (3)  For the purposes of the operation of subsection (2), any person who is authorized under a law of a State or Territory to solemnize marriages shall be deemed to be an authorized celebrant.
 
 ##### <a id="108"></a>108  Application of offence provisions to notices etc. given before commencement of this Act
 
-             (1)  The provisions of section 98 and subsection 104(1) apply to and in relation to acts done, notices given and declarations made before the commencement of this Act in relation to marriages that take place in Australia after the commencement of this Act or that have not taken place but were intended to be solemnised in Australia in accordance with this Act.
+             (1)  The provisions of section 98 and subsection 104(1) apply to and in relation to acts done, notices given and declarations made before the commencement of this Act in relation to marriages that take place in Australia after the commencement of this Act or that have not taken place but were intended to be solemnized in Australia in accordance with this Act.
 
-             (2)  For the purposes of the application of section 98 and subsection 104(1) to and in relation to an act done or a notice given at a time before the commencement of this Act in relation to such a marriage, a person who at that time was authorised under a law of a State or Territory to solemnise marriages shall be deemed to have been an authorised celebrant at that time.
+             (2)  For the purposes of the application of section 98 and subsection 104(1) to and in relation to an act done or a notice given at a time before the commencement of this Act in relation to such a marriage, a person who at that time was authorized under a law of a State or Territory to solemnize marriages shall be deemed to have been an authorized celebrant at that time.
 
 ##### <a id="109"></a>109  Consents etc. given under State or Territory laws
 
@@ -2198,7 +2198,7 @@ at any time after the day on which the Proclamation under section 2 has been p
 
 ##### <a id="111"></a>111  Certain marriages and legitimations to be valid in all the Territories
 
-             (1)  A marriage solemnised in accordance with Division 2 of Part IV that is a valid marriage in Australia is valid in the external Territories.
+             (1)  A marriage solemnized in accordance with Division 2 of Part IV that is a valid marriage in Australia is valid in the external Territories.
 
              (2)  A person who is, or is deemed to be, as from a particular time, the legitimate child of that person’s parents by virtue of section 89, 90 or 91 is, or shall be deemed to be, for all purposes the legitimate child of that person’s parents as from that time in the external Territories.
 
@@ -2208,17 +2208,17 @@ at any time after the day on which the Proclamation under section 2 has been p
 
 ##### <a id="111A"></a>111A  Abolition of action for breach of promise
 
-             (1)  A person is not entitled to recover damages from another person by reason only of the fact that that other person has failed to perform a promise, undertaking or engagement to marry the first‑mentioned person.
+             (1)  A person is not entitled to recover damages from another person by reason only of the fact that that other person has failed to perform a promise, undertaking or engagement to marry the first-mentioned person.
 
              (2)  This section does not affect an action for the recovery of any gifts given in contemplation of marriage which could have been brought if this section had not been enacted.
 
 ##### <a id="112"></a>112  Interpreters at marriage ceremonies
 
-             (1)  Subject to this section, where the person by whom or in whose presence a marriage is to be solemnised considers that it is desirable to do so, the person may use the services of an interpreter, not being a party to the marriage, in or in connexion with the ceremony.
+             (1)  Subject to this section, where the person by whom or in whose presence a marriage is to be solemnized considers that it is desirable to do so, the person may use the services of an interpreter, not being a party to the marriage, in or in connexion with the ceremony.
 
-             (2)  A person shall not solemnise a marriage in or in connexion with the ceremony of which the services of an interpreter are used unless the person has received a statutory declaration by the interpreter stating that the interpreter understands, and is able to converse in, the languages in respect of which he or she is to act as interpreter.
+             (2)  A person shall not solemnize a marriage in or in connexion with the ceremony of which the services of an interpreter are used unless the person has received a statutory declaration by the interpreter stating that the interpreter understands, and is able to converse in, the languages in respect of which he or she is to act as interpreter.
 
-             (3)  A person who has acted as interpreter in or in connexion with a ceremony of marriage shall, forthwith after the ceremony has taken place, furnish to the person solemnising the marriage a certificate signed by the first‑mentioned person, in the prescribed form, of the faithful performance of the first‑mentioned person’s services as interpreter.
+             (3)  A person who has acted as interpreter in or in connexion with a ceremony of marriage shall, forthwith after the ceremony has taken place, furnish to the person solemnizing the marriage a certificate signed by the first-mentioned person, in the prescribed form, of the faithful performance of the first-mentioned person’s services as interpreter.
 
              (4)  This section applies in relation to marriages to which Division 2 of Part IV applies and marriages under Part V.
 
@@ -2228,7 +2228,7 @@ at any time after the day on which the Proclamation under section 2 has been p
 
                      (a)  persons who are already legally married to each other shall not, in Australia or under Part V, go through a form or ceremony of marriage with each other; and
 
-                     (b)  a person who is authorised by this Act to solemnise marriages shall not purport to solemnise a marriage in Australia or under Part V between persons who inform the first‑mentioned person that they are already legally married to each other or whom the first‑mentioned person knows or has reason to believe to be already legally married to each other.
+                     (b)  a person who is authorized by this Act to solemnize marriages shall not purport to solemnize a marriage in Australia or under Part V between persons who inform the first-mentioned person that they are already legally married to each other or whom the first-mentioned person knows or has reason to believe to be already legally married to each other.
 
              (2)  Where:
 
@@ -2238,7 +2238,7 @@ at any time after the day on which the Proclamation under section 2 has been p
 
                               (i)  whether those persons are legally married to each other;
 
-                             (ii)  where the form or ceremony of marriage took place outside Australia, whether the marriage would be recognised as valid by a court in Australia; or
+                             (ii)  where the form or ceremony of marriage took place outside Australia, whether the marriage would be recognized as valid by a court in Australia; or
 
                             (iii)  whether their marriage could be proved in legal proceedings;
 
@@ -2264,7 +2264,7 @@ those persons may, subject to this section, go through a form or ceremony of mar
 
                              (ii)  they are the parties mentioned in the certificate of marriage produced with the statement; and
 
-                            (iii)  they have no reason to believe that they are not legally married to each other or, if their marriage took place outside Australia, they have no reason to believe that it would not be recognised as valid in Australia.
+                            (iii)  they have no reason to believe that they are not legally married to each other or, if their marriage took place outside Australia, they have no reason to believe that it would not be recognized as valid in Australia.
 
              (6)  The provisions of sections 42, 44, 50 and 51 do not apply to or in relation to a religious ceremony of marriage in accordance with subsection (5) and the person by whom, or in whose presence, the ceremony is performed shall not:
 
@@ -2272,17 +2272,17 @@ those persons may, subject to this section, go through a form or ceremony of mar
 
                      (b)  issue any other document to the parties in respect of the ceremony unless the parties are described in the document as being already legally married to each other.
 
-             (7)  A person who is not an authorised celebrant does not commit an offence against section 101 by reason only of his or her having performed a religious ceremony of marriage between parties who have complied with the requirements of subsection (5) of this section.
+             (7)  A person who is not an authorized celebrant does not commit an offence against section 101 by reason only of his or her having performed a religious ceremony of marriage between parties who have complied with the requirements of subsection (5) of this section.
 
 ##### <a id="114"></a>114  Correction of errors in marriage registries
 
              (1)  In this section, **_the registrar_** means the Registrar of Foreign Marriages or the Registrar of Overseas Marriages.
 
-             (2)  Where the registrar is satisfied that a register of marriages kept by the registrar contains an error or a mis‑statement in, or an omission from, the particulars of a marriage entered in it, the registrar may correct the register by causing the true particulars of the marriage or the particulars omitted from the register, as the case may be, to be entered in the margin of the register opposite to the entry of the marriage.
+             (2)  Where the registrar is satisfied that a register of marriages kept by the registrar contains an error or a mis-statement in, or an omission from, the particulars of a marriage entered in it, the registrar may correct the register by causing the true particulars of the marriage or the particulars omitted from the register, as the case may be, to be entered in the margin of the register opposite to the entry of the marriage.
 
              (3)  Where the registrar causes particulars to be entered in the margin of a register under this section, the registrar shall sign his or her name immediately under those particulars and write in the margin the date on which the particulars were so entered.
 
-             (4)  The registrar may, before correcting an error, mis‑statement or omission under this section, require the true particulars of the marriage, or the particulars omitted from the register, as the case may be, to be verified by the statutory declaration of the parties to the marriage or a person who satisfies the registrar that that person has personal knowledge of those particulars.
+             (4)  The registrar may, before correcting an error, mis-statement or omission under this section, require the true particulars of the marriage, or the particulars omitted from the register, as the case may be, to be verified by the statutory declaration of the parties to the marriage or a person who satisfies the registrar that that person has personal knowledge of those particulars.
 
              (5)  Subject to subsection (6), where a copy of, or extract from, an entry in a register of marriages that has been corrected under this section is issued, the copy or extract shall contain the particulars that would be contained in the entry if the particulars in fact contained in the entry were corrected so as to accord with the particulars entered in the margin of the register.
 
@@ -2292,7 +2292,7 @@ those persons may, subject to this section, go through a form or ceremony of mar
 
              (1)  The Minister shall cause to be published in such manner as the Minister considers appropriate, as soon as practicable after each 14 March:
 
-                     (a)  a list of the persons who are authorised celebrants; and
+                     (a)  a list of the persons who are authorized celebrants; and
 
                      (b)  a list of the persons who are prescribed authorities in relation to marriages in Australia.
 
@@ -2300,11 +2300,11 @@ those persons may, subject to this section, go through a form or ceremony of mar
 
                      (a)  in respect of each minister of religion registered under Subdivision A of Division 1 of Part IV—his or her full name, designation, address and religious denomination; and
 
-                     (b)  in respect of each other person—his or her full name, designation (if any) and address and, where appropriate, the religious body or religious organisation to which he or she belongs.
+                     (b)  in respect of each other person—his or her full name, designation (if any) and address and, where appropriate, the religious body or religious organization to which he or she belongs.
 
              (3)  The list referred to in paragraph (1)(b) shall show the full name, designation (if any) and address of each prescribed authority.
 
-             (4)  The inclusion of the name of a person in the latest list published in pursuance of paragraph (1)(a) is evidence that that person is an authorised celebrant and inclusion of the name of a person in the latest list published in pursuance of paragraph (1)(b) is evidence that that person is a prescribed authority.
+             (4)  The inclusion of the name of a person in the latest list published in pursuance of paragraph (1)(a) is evidence that that person is an authorized celebrant and inclusion of the name of a person in the latest list published in pursuance of paragraph (1)(b) is evidence that that person is a prescribed authority.
 
 ##### <a id="116"></a>116  Judicial notice of signatures of Registrars, celebrants etc.
 
@@ -2320,7 +2320,7 @@ those persons may, subject to this section, go through a form or ceremony of mar
 
 appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she held, or was acting in, that office.
 
-             (2)  Judicial notice shall be taken of the signature of a person who is, or has been, an authorised celebrant or chaplain appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she was an authorised celebrant or chaplain, as the case may be.
+             (2)  Judicial notice shall be taken of the signature of a person who is, or has been, an authorized celebrant or chaplain appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she was an authorized celebrant or chaplain, as the case may be.
 
              (3)  Judicial notice shall be taken of the signature of a person who has, at any time:
 
@@ -2330,17 +2330,17 @@ appearing on a document under this Act and of the fact that, at the time the doc
 
                      (c)  kept a register under Division 1 of Part IV of this Act;
 
-appearing on a document under this Act and of the fact that, at the time the document was signed, that person was duly authorised to perform those functions or to keep that register, as the case may be.
+appearing on a document under this Act and of the fact that, at the time the document was signed, that person was duly authorized to perform those functions or to keep that register, as the case may be.
 
 ##### <a id="117"></a>117  Evidence of registration etc.
 
-             (1)  A certificate under the hand of a person by whom a register under a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division) is kept stating that a specified person was, at a date specified in the certificate, registered under that Subdivision in the register kept by the first‑mentioned person for the purposes of that Subdivision is evidence that the person specified in the certificate was registered under that Subdivision at the date so specified.
+             (1)  A certificate under the hand of a person by whom a register under a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division) is kept stating that a specified person was, at a date specified in the certificate, registered under that Subdivision in the register kept by the first-mentioned person for the purposes of that Subdivision is evidence that the person specified in the certificate was registered under that Subdivision at the date so specified.
 
              (2)  A certificate under the hand of the Minister stating that a person specified in the certificate was not, at a date specified in the certificate, registered under a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division) is evidence that the person specified in the certificate was not registered under that Subdivision at the date so specified.
 
           (2A)  A certificate under the hand of the Minister stating that a specified person was at a specified date:
 
-                     (a)  a person authorised under section 39 to solemnise marriages at the place and subject to the conditions (if any) specified in the certificate; or
+                     (a)  a person authorized under section 39 to solemnize marriages at the place and subject to the conditions (if any) specified in the certificate; or
 
                      (b)  an officer or employee  of the Commonwealth, a State or a Territory, appointed by the Minister to be a prescribed authority;
 
@@ -2350,11 +2350,11 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
 ##### <a id="118"></a>118  Right of ministers of religion to receive fees
 
-                   Nothing in this Act affects the right of a minister of religion who is an authorised celebrant to require or receive a fee for or in respect of the solemnisation of a marriage.
+                   Nothing in this Act affects the right of a minister of religion who is an authorized celebrant to require or receive a fee for or in respect of the solemnization of a marriage.
 
 ##### <a id="120"></a>120  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  prescribing the forms to be used under this Act;
 
@@ -2362,9 +2362,9 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
                      (c)  prescribing the manner of making application for registration under Division 1 of Part IV;
 
-                     (e)  prescribing the conditions under which, and the manner in which, marriages solemnised in accordance with the law of an overseas country may be registered under section 84;
+                     (e)  prescribing the conditions under which, and the manner in which, marriages solemnized in accordance with the law of an overseas country may be registered under section 84;
 
-                      (f)  making provision for the recognition in Australia of marriages solemnised under a law in force in a place outside Australia, being a law which makes provision appearing to the Governor‑General to be similar to any provision made by Part V;
+                      (f)  making provision for the recognition in Australia of marriages solemnized under a law in force in a place outside Australia, being a law which makes provision appearing to the Governor-General to be similar to any provision made by Part V;
 
                      (g)  requiring the furnishing, to the persons by whom registers of births are kept under a law of the Commonwealth or a State or of any Territory, of information with respect to:
 
@@ -2606,10 +2606,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="17%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -2999,32 +2999,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 1–24): Royal Assent 
-Schedule 4 (item 25): <i>(j) 
- </i>Schedule 7 (item 92): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Marriage Act 1961_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Marriage Act 1961_ was amended by section 49 only of the _Law and Justice Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+_(b)_    The _Marriage Act 1961_ was amended by section 49 only of the _Law and Justice Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -3159,78 +3140,6 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
   </td>
 </tr></table>
 
-_(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      11\. Schedule 4, items 1 to 24
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 March 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      12\. Schedule 4, item 25
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 11.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 March 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -3299,7 +3208,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002; No. 126, 2004; No. 5, 2011</div>
+    <div>am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002; No. 126, 2004</div>
   </td>
 </tr>
 <tr>
@@ -3320,14 +3229,6 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
@@ -3339,7 +3240,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 104, 1992; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 104, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3347,7 +3248,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3392,14 +3293,6 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 9B</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9B</div>
   </td>
   <td>
@@ -3411,15 +3304,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9C</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -3435,7 +3320,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No.115, 1990; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988; No.115, 1990</div>
   </td>
 </tr>
 <tr>
@@ -3472,14 +3357,6 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 9E</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9E</div>
   </td>
   <td>
@@ -3491,7 +3368,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -3536,18 +3413,10 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 13</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3563,7 +3432,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -3603,7 +3472,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -3640,14 +3509,6 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 22, 23</div>
   </td>
   <td>
@@ -3672,14 +3533,6 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Div. 2 of Part III</div>
   </td>
   <td>
@@ -3688,23 +3541,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23B</div>
+    <div>Ss. 23A, 23B</div>
   </td>
   <td>
     <div>ad. No. 7, 1985</div>
@@ -3728,14 +3565,6 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 1</b></div>
   </td>
   <td>
@@ -3748,7 +3577,7 @@ _(j)_      Subsection 2(1) (items 11 and 12) of the _Statute Law Rev
 of Part IV</div>
   </td>
   <td>
-    <div>rs. No. 77, 2002; No. 5, 2011</div>
+    <div>rs. No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3778,18 +3607,10 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3797,7 +3618,7 @@ of Div. 1 of Part IV</div>
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3813,7 +3634,7 @@ of Div. 1 of Part IV</div>
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3829,7 +3650,7 @@ of Div. 1 of Part IV</div>
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 35, 1973; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 35, 1973; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3837,7 +3658,7 @@ of Div. 1 of Part IV</div>
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3845,7 +3666,7 @@ of Div. 1 of Part IV</div>
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3885,7 +3706,7 @@ of Div. 1 of Part IV</div>
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3901,7 +3722,7 @@ of Div. 1 of Part IV</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3934,7 +3755,7 @@ of Div. 1 of Part IV</div>
     <div>S. 39</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3979,71 +3800,7 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 39C</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39D, 39E</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39F</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39G–39J</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39K</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39L, 39M</div>
+    <div>Ss. 39C–39M</div>
   </td>
   <td>
     <div>ad. No. 77, 2002</div>
@@ -4062,23 +3819,7 @@ of Div. 1 of Part IV</div>
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 41</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4086,7 +3827,7 @@ of Div. 1 of Part IV</div>
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4099,26 +3840,10 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 43</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 5, 2011</div>
+    <div>am. No. 209, 1976</div>
   </td>
 </tr>
 <tr>
@@ -4126,7 +3851,7 @@ of Div. 1 of Part IV</div>
     <div>S. 45</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4134,15 +3859,7 @@ of Div. 1 of Part IV</div>
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 47</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -4150,15 +3867,7 @@ of Div. 1 of Part IV</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 48</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4166,7 +3875,7 @@ of Div. 1 of Part IV</div>
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 5, 2011</div>
+    <div>am. No. 209, 1976</div>
   </td>
 </tr>
 <tr>
@@ -4174,7 +3883,7 @@ of Div. 1 of Part IV</div>
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4182,7 +3891,7 @@ of Div. 1 of Part IV</div>
     <div>S. 50</div>
   </td>
   <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 5, 2011</div>
+    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -4190,7 +3899,7 @@ of Div. 1 of Part IV</div>
     <div>S. 51</div>
   </td>
   <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 43, 1996; No. 125, 1999; No. 5, 2011</div>
+    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 43, 1996; No. 125, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4206,7 +3915,7 @@ of Div. 1 of Part IV</div>
     <div>S. 52</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 5, 2011</div>
+    <div>am. No. 209, 1976</div>
   </td>
 </tr>
 <tr>
@@ -4227,22 +3936,6 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 55</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
@@ -4259,18 +3952,10 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4278,15 +3963,7 @@ of Div. 1 of Part IV</div>
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 58</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -4294,7 +3971,7 @@ of Div. 1 of Part IV</div>
     <div>S. 58</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -4302,7 +3979,7 @@ of Div. 1 of Part IV</div>
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4507,18 +4184,10 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 5, 2011</div>
+    <div>am. No. 209, 1976</div>
   </td>
 </tr>
 <tr>
@@ -4534,7 +4203,7 @@ of Div. 1 of Part IV</div>
     <div>S. 73</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4550,7 +4219,7 @@ of Div. 1 of Part IV</div>
     <div>S. 74</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4566,7 +4235,7 @@ of Div. 1 of Part IV</div>
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4574,15 +4243,7 @@ of Div. 1 of Part IV</div>
     <div>S. 76</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 77</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4590,15 +4251,7 @@ of Div. 1 of Part IV</div>
     <div>S. 77</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 78</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4606,7 +4259,7 @@ of Div. 1 of Part IV</div>
     <div>S. 78</div>
   </td>
   <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4630,15 +4283,7 @@ of Div. 1 of Part IV</div>
     <div>S. 80</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 81</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4646,23 +4291,7 @@ of Div. 1 of Part IV</div>
     <div>S. 81</div>
   </td>
   <td>
-    <div>am. No. 77, 2002; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 82</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4670,7 +4299,7 @@ of Div. 1 of Part IV</div>
     <div>S. 83</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4691,18 +4320,10 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 85</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 85</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4711,14 +4332,6 @@ of Div. 1 of Part IV</div>
   </td>
   <td>
     <div>am. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4758,7 +4371,7 @@ of Div. 1 of Part IV</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2004; No. 5, 2011</div>
+    <div>am. No. 126, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4767,14 +4380,6 @@ of Div. 1 of Part IV</div>
   </td>
   <td>
     <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4790,7 +4395,7 @@ of Div. 1 of Part IV</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 71, 1991; No. 5, 2011</div>
+    <div>am. No. 71, 1991</div>
   </td>
 </tr>
 <tr>
@@ -4814,7 +4419,7 @@ of Div. 1 of Part IV</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 71, 1991; No. 5, 2011</div>
+    <div>am. No. 71, 1991</div>
   </td>
 </tr>
 <tr>
@@ -4839,14 +4444,6 @@ of Div. 1 of Part IV</div>
   </td>
   <td>
     <div>rs. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4931,50 +4528,18 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 99</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 99</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 100</div>
+    <div>Ss. 100, 101</div>
   </td>
   <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 101</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4995,18 +4560,10 @@ of Div. 1 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 103</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 103</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 5, 2011</div>
+    <div>am. No. 93, 1966; No. 209, 1976</div>
   </td>
 </tr>
 <tr>
@@ -5014,7 +4571,7 @@ of Div. 1 of Part IV</div>
     <div>S. 104</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 93, 1966; No. 209, 1976; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5030,7 +4587,7 @@ of Div. 1 of Part IV</div>
     <div>S. 106</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 24, 2001; No. 5, 2011</div>
+    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5046,7 +4603,7 @@ of Div. 1 of Part IV</div>
     <div>S. 107</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -5054,7 +4611,7 @@ of Div. 1 of Part IV</div>
     <div>S. 108</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 137, 2000; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 137, 2000</div>
   </td>
 </tr>
 <tr>
@@ -5094,7 +4651,7 @@ of Div. 1 of Part IV</div>
     <div>S. 111</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -5110,7 +4667,7 @@ of Div. 1 of Part IV</div>
     <div>Ss. 112, 113</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985</div>
   </td>
 </tr>
 <tr>
@@ -5126,7 +4683,7 @@ of Div. 1 of Part IV</div>
     <div>S. 115</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5134,7 +4691,7 @@ of Div. 1 of Part IV</div>
     <div>S. 116</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5142,15 +4699,7 @@ of Div. 1 of Part IV</div>
     <div>S. 117</div>
   </td>
   <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 118</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5174,7 +4723,7 @@ of Div. 1 of Part IV</div>
     <div>S. 120</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 38, 1988; No. 77, 2002; No. 5, 2011</div>
+    <div>am. No. 93, 1966; No. 209, 1976; No. 38, 1988; No. 77, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5202,9 +4751,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -5214,9 +4763,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -5224,9 +4773,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -5246,7 +4795,7 @@ _Marriage Amendment Act 2002 (No. 77, 2002)_
 
 ## 27  Registration of existing marriage celebrants
 
-(1)       In this item:
+(1)        In this item:
 
 **_existing marriage celebrant_** means a person:
 
@@ -5254,9 +4803,9 @@ _Marriage Amendment Act 2002 (No. 77, 2002)_
 
                      (b)  who was not authorized by that instrument to solemnize marriages as an officer of a State or Territory.
 
-(2)       Each existing marriage celebrant is taken to have been registered under Subdivision C of Division 1 of Part IV of the _Marriage Act 1961_ as a marriage celebrant on the date of the commencement of item 18 of this Schedule.
+(2)        Each existing marriage celebrant is taken to have been registered under Subdivision C of Division 1 of Part IV of the _Marriage Act 1961_ as a marriage celebrant on the date of the commencement of item 18 of this Schedule.
 
-(3)       As soon as practicable after the commencement of item 18 of this Schedule, the Registrar of Marriage Celebrants must enter in the register of marriage celebrants all details relating to the person that are required by regulations made for the purposes of subsection 39D(5) to be entered in the register in respect of a person who is registered as a marriage celebrant.
+(3)        As soon as practicable after the commencement of item 18 of this Schedule, the Registrar of Marriage Celebrants must enter in the register of marriage celebrants all details relating to the person that are required by regulations made for the purposes of subsection 39D(5) to be entered in the register in respect of a person who is registered as a marriage celebrant.
 
 ## Schedule 2
 
