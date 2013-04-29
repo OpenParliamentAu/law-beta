@@ -1,1932 +1,1931 @@
-![](http://www.comlaw.gov.au/Details/C2011C00184/Html/74340ab3-92bb-4961-9a38-70f8a12aeda4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00320/Html/CorpAbTorStrIs2006_image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 15 April 2011
- taking into account amendments up to Act No. 24 of 2011
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 38 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Chapter 1—Introduction** 
 
-**Part 1‑1—Preliminary** 
+**Part 1-1—Preliminary** 
 
     **Division 1—Preliminary**
 
-[1‑1](#1‑1).         Short title [_see_ Note 1]
+[1-1](#1-1).         Short title [_see_ Note 1]
 
-[1‑5](#1‑5).         Commencement
+[1-5](#1-5).         Commencement
 
-[1‑10](#1‑10).       Act binds Crown
+[1-10](#1-10).       Act binds Crown
 
-[1‑15](#1‑15).       Geographical application of Act
+[1-15](#1-15).       Geographical application of Act
 
-[1‑20](#1‑20).       Act applies regardless of residence, place of formation etc 
+[1-20](#1-20).       Act applies regardless of residence, place of formation etc 
 
-[1‑25](#1‑25).       Objects of this Act
+[1-25](#1-25).       Objects of this Act
 
-[1‑30](#1‑30).       Office of the Registrar of Aboriginal and Torres Strait Islander Corporations
+[1-30](#1-30).       Office of the Registrar of Aboriginal and Torres Strait Islander Corporations
 
-[1‑35](#1‑35).       Interpretative provisions
+[1-35](#1-35).       Interpretative provisions
 
-**Part 1‑2—Overview of Act** 
+**Part 1-2—Overview of Act** 
 
     **Division 6—Overview of Act**
 
-[6‑1](#6‑1).         Overview of Act
+[6-1](#6-1).         Overview of Act
 
-[6‑5](#6‑5).         Aboriginal and Torres Strait Islander corporations
+[6-5](#6-5).         Aboriginal and Torres Strait Islander corporations
 
-[6‑10](#6‑10).       Basic features of an Aboriginal and Torres Strait Islander corporation
+[6-10](#6-10).       Basic features of an Aboriginal and Torres Strait Islander corporation
 
-[6‑15](#6‑15).       Members and observers
+[6-15](#6-15).       Members and observers
 
-[6‑20](#6‑20).       Meetings
+[6-20](#6-20).       Meetings
 
-[6‑25](#6‑25).       Officers
+[6-25](#6-25).       Officers
 
-[6‑30](#6‑30).       Record keeping, reporting requirements and books
+[6-30](#6-30).       Record keeping, reporting requirements and books
 
-[6‑35](#6‑35).       Civil consequences of contravening civil penalty provisions
+[6-35](#6-35).       Civil consequences of contravening civil penalty provisions
 
-[6‑40](#6‑40).       Lodgments and registers
+[6-40](#6-40).       Lodgments and registers
 
-[6‑45](#6‑45).       Regulation and enforcement
+[6-45](#6-45).       Regulation and enforcement
 
-[6‑50](#6‑50).       External administration
+[6-50](#6-50).       External administration
 
-[6‑55](#6‑55).       Transfer of registration, deregistration and unclaimed property
+[6-55](#6-55).       Transfer of registration, deregistration and unclaimed property
 
-[6‑60](#6‑60).       Offences
+[6-60](#6-60).       Offences
 
-[6‑65](#6‑65).       Courts and proceedings
+[6-65](#6-65).       Courts and proceedings
 
-[6‑70](#6‑70).       Administration
+[6-70](#6-70).       Administration
 
-[6‑75](#6‑75).       Registrar and Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
+[6-75](#6-75).       Registrar and Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
 
-[6‑80](#6‑80).       Interpreting this Act
+[6-80](#6-80).       Interpreting this Act
 
 **Chapter 2—Aboriginal and Torres Strait Islander corporations** 
 
-**Part 2‑1—Introduction** 
+**Part 2-1—Introduction** 
 
     **Division 16—Introduction**
 
-[16‑1](#16‑1).       What this Chapter is about
+[16-1](#16-1).       What this Chapter is about
 
-[16‑5](#16‑5).       Meaning of _Aboriginal and Torres Strait Islander corporation_
+[16-5](#16-5).       Meaning of _Aboriginal and Torres Strait Islander corporation_
 
-**Part 2‑2—Applications for registration of an Aboriginal and Torres Strait Islander corporation** 
+**Part 2-2—Applications for registration of an Aboriginal and Torres Strait Islander corporation** 
 
     **Division 21—Application for new registration of an Aboriginal and Torres Strait Islander corporation**
 
-[21‑1](#21‑1).       Application for registration
+[21-1](#21-1).       Application for registration
 
-[21‑5](#21‑5).       Matters to accompany application
+[21-5](#21-5).       Matters to accompany application
 
-[21‑10](#21‑10).     Registrar may seek further information
+[21-10](#21-10).     Registrar may seek further information
 
-    **Division 22—Application to register existing body corporate under Part 2‑3**
+    **Division 22—Application to register existing body corporate under Part 2-3**
 
-[22‑1](#22‑1).       Application for registration
+[22-1](#22-1).       Application for registration
 
-[22‑5](#22‑5).       Matters to accompany application
+[22-5](#22-5).       Matters to accompany application
 
-[22‑10](#22‑10).     Registrar may seek further information
+[22-10](#22-10).     Registrar may seek further information
 
-    **Division 23—Application to register amalgamated corporation under Part 2‑3**
+    **Division 23—Application to register amalgamated corporation under Part 2-3**
 
-[23‑1](#23‑1).       Application for registration
+[23-1](#23-1).       Application for registration
 
-[23‑5](#23‑5).       Matters to accompany application
+[23-5](#23-5).       Matters to accompany application
 
-[23‑10](#23‑10).     Registrar may seek further information
+[23-10](#23-10).     Registrar may seek further information
 
-**Part 2‑3—Decisions on applications** 
+**Part 2-3—Decisions on applications** 
 
     **Division 26—Registrar to decide application**
 
-[26‑1](#26‑1).       Registrar to decide application
+[26-1](#26-1).       Registrar to decide application
 
-[26‑5](#26‑5).       Registrar may grant application if application is incomplete etc 
+[26-5](#26-5).       Registrar may grant application if application is incomplete etc 
 
-[26‑10](#26‑10).     Registrar may grant application if some basic requirements are not met
+[26-10](#26-10).     Registrar may grant application if some basic requirements are not met
 
-[26‑15](#26‑15).     Registrar not to register trade unions etc 
+[26-15](#26-15).     Registrar not to register trade unions etc 
 
     **Division 29—What are the basic requirements for registration?**
 
-[29‑1](#29‑1).       Minimum number of members requirement
+[29-1](#29-1).       Minimum number of members requirement
 
-[29‑5](#29‑5).       Indigeneity requirement
+[29-5](#29-5).       Indigeneity requirement
 
-[29‑10](#29‑10).     Age of members requirement
+[29-10](#29-10).     Age of members requirement
 
-[29‑15](#29‑15).     Pre‑incorporation requirement
+[29-15](#29-15).     Pre-incorporation requirement
 
-[29‑17](#29‑17).     Pre‑transfer of registration requirement
+[29-17](#29-17).     Pre-transfer of registration requirement
 
-[29‑18](#29‑18).     Creditor notice requirement
+[29-18](#29-18).     Creditor notice requirement
 
-[29‑19](#29‑19).     Pre‑amalgamation requirements
+[29-19](#29-19).     Pre-amalgamation requirements
 
-[29‑20](#29‑20).     Internal governance rules requirement
+[29-20](#29-20).     Internal governance rules requirement
 
-[29‑25](#29‑25).     Name requirement
+[29-25](#29-25).     Name requirement
 
     **Division 32—Decisions on applications**
 
-[32‑1](#32‑1).       Successful applications
+[32-1](#32-1).       Successful applications
 
-[32‑5](#32‑5).       Unsuccessful applications
+[32-5](#32-5).       Unsuccessful applications
 
-**Part 2‑4—Registration of an Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation** 
+**Part 2-4—Registration of an Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation** 
 
     **Division 37—Registration of an Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation**
 
-[37‑1](#37‑1).       Registrar to register Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
+[37-1](#37-1).       Registrar to register Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
 
-[37‑5](#37‑5).       Registrar may alter registered size of corporation after registration
+[37-5](#37-5).       Registrar may alter registered size of corporation after registration
 
-[37‑10](#37‑10).     Small, medium and large corporations
+[37-10](#37-10).     Small, medium and large corporations
 
-[37‑15](#37‑15).     When an Aboriginal and Torres Strait Islander corporation controls an entity
+[37-15](#37-15).     When an Aboriginal and Torres Strait Islander corporation controls an entity
 
-[37‑20](#37‑20).     Counting employees
+[37-20](#37-20).     Counting employees
 
-[37‑25](#37‑25).     Accounting standards
+[37-25](#37-25).     Accounting standards
 
-**Part 2‑5—Effects of registration** 
+**Part 2-5—Effects of registration** 
 
     **Division 42—Effects of registration**
 
-[42‑1](#42‑1).       Corporation comes into existence on registration
+[42-1](#42-1).       Corporation comes into existence on registration
 
-[42‑3](#42‑3).       Effect of registration of existing body corporate under Part 2‑3
+[42-3](#42-3).       Effect of registration of existing body corporate under Part 2-3
 
-[42‑4](#42‑4).       Effect of registration of amalgamated corporation under Part 2‑3
+[42-4](#42-4).       Effect of registration of amalgamated corporation under Part 2-3
 
-[42‑5](#42‑5).       Corporation’s name
+[42-5](#42-5).       Corporation’s name
 
-[42‑10](#42‑10).     Members, directors, corporation secretary and contact person of corporation
+[42-10](#42-10).     Members, directors, corporation secretary and contact person of corporation
 
-[42‑15](#42‑15).     Registered office
+[42-15](#42-15).     Registered office
 
-[42‑20](#42‑20).     Document access address
+[42-20](#42-20).     Document access address
 
-[42‑25](#42‑25).     Corporation may have common seal
+[42-25](#42-25).     Corporation may have common seal
 
-[42‑30](#42‑30).     Vesting of property in corporation on registration
+[42-30](#42-30).     Vesting of property in corporation on registration
 
-[42‑35](#42‑35).     Body corporate registered as Aboriginal and Torres Strait Islander corporation (liability of members on winding up)
+[42-35](#42-35).     Body corporate registered as Aboriginal and Torres Strait Islander corporation (liability of members on winding up)
 
-[42‑40](#42‑40).     Body corporate registered as Aboriginal and Torres Strait Islander corporation (modification by regulations)
+[42-40](#42-40).     Body corporate registered as Aboriginal and Torres Strait Islander corporation (modification by regulations)
 
-[42‑45](#42‑45).     Registration of amalgamated corporation (liability of members on winding up)
+[42-45](#42-45).     Registration of amalgamated corporation (liability of members on winding up)
 
-[42‑50](#42‑50).     Registration of amalgamated corporation (modification by regulations)
+[42-50](#42-50).     Registration of amalgamated corporation (modification by regulations)
 
-**Part 2‑6—Arrangements and reconstructions** 
+**Part 2-6—Arrangements and reconstructions** 
 
     **Division 45—Application of Corporations Act arrangements and reconstructions provisions**
 
-[45‑1](#45‑1).       Applying Corporations Act arrangements and reconstructions provisions to Aboriginal and Torres Strait Islander corporations
+[45-1](#45-1).       Applying Corporations Act arrangements and reconstructions provisions to Aboriginal and Torres Strait Islander corporations
 
 **Chapter 3—Basic features of an Aboriginal and Torres Strait Islander corporation** 
 
-**Part 3‑1—Introduction** 
+**Part 3-1—Introduction** 
 
     **Division 52—Introduction**
 
-[52‑1](#52‑1).       What this Chapter is about
+[52-1](#52-1).       What this Chapter is about
 
-**Part 3‑2—Rules dealing with the internal governance of corporations** 
+**Part 3-2—Rules dealing with the internal governance of corporations** 
 
     **Division 57—Introduction**
 
-[57‑1](#57‑1).       What this Part is about
+[57-1](#57-1).       What this Part is about
 
-[57‑5](#57‑5).       List of internal governance rules
+[57-5](#57-5).       List of internal governance rules
 
     **Division 60—What are the replaceable rules and when do they apply to a corporation?**
 
-[60‑1](#60‑1).       Replaceable rules
+[60-1](#60-1).       Replaceable rules
 
-[60‑5](#60‑5).       Corporation’s constitution can modify or replace replaceable rules
+[60-5](#60-5).       Corporation’s constitution can modify or replace replaceable rules
 
-[60‑10](#60‑10).     Effect of constitution and replaceable rules
+[60-10](#60-10).     Effect of constitution and replaceable rules
 
-[60‑15](#60‑15).     Failure to comply with replaceable rules
+[60-15](#60-15).     Failure to comply with replaceable rules
 
-[60‑20](#60‑20).     Modification by regulations
+[60-20](#60-20).     Modification by regulations
 
     **Division 63—What are the internal governance rules of a corporation?**
 
-[63‑1](#63‑1).       Meaning of internal governance rules
+[63-1](#63-1).       Meaning of internal governance rules
 
     **Division 66—What are the internal governance rules requirements?**
 
-[66‑1](#66‑1).       Requirements
+[66-1](#66-1).       Requirements
 
-[66‑5](#66‑5).       Meaning of _cover the matters provided for in the replaceable rules_
+[66-5](#66-5).       Meaning of _cover the matters provided for in the replaceable rules_
 
     **Division 69—Constitutions and amendment and replacement of constitutions** 
 
-        **Subdivision 69‑A—Constitution on registration**
+        **Subdivision 69-A—Constitution on registration**
 
-[69‑1](#69‑1).       Constitution of an Aboriginal and Torres Strait Islander corporation
+[69-1](#69-1).       Constitution of an Aboriginal and Torres Strait Islander corporation
 
-        **Subdivision 69‑B—Constitutional changes after registration**
+        **Subdivision 69-B—Constitutional changes after registration**
 
-[69‑5](#69‑5).       Overview—ways a constitution may be changed
+[69-5](#69-5).       Overview—ways a constitution may be changed
 
-[69‑10](#69‑10).     Meaning of _constitutional change_ etc 
+[69-10](#69-10).     Meaning of _constitutional change_ etc 
 
-[69‑15](#69‑15).     Extra requirements for constitutional change in constitution
+[69-15](#69-15).     Extra requirements for constitutional change in constitution
 
-[69‑20](#69‑20).     Corporation to lodge copy of constitutional changes
+[69-20](#69-20).     Corporation to lodge copy of constitutional changes
 
-[69‑25](#69‑25).     Special administrator to lodge copy of constitutional changes
+[69-25](#69-25).     Special administrator to lodge copy of constitutional changes
 
-[69‑30](#69‑30).     Registrar to determine if constitutional change should be registered
+[69-30](#69-30).     Registrar to determine if constitutional change should be registered
 
-[69‑35](#69‑35).     Registrar may change an Aboriginal and Torres Strait Islander corporation’s constitution on own initiative
+[69-35](#69-35).     Registrar may change an Aboriginal and Torres Strait Islander corporation’s constitution on own initiative
 
-[69‑40](#69‑40).     Date of effect of constitutional change
+[69-40](#69-40).     Date of effect of constitutional change
 
     **Division 72—Other matters concerning constitutions etc.**
 
-[72‑1](#72‑1).       Registrar may direct corporation to lodge constitution
+[72-1](#72-1).       Registrar may direct corporation to lodge constitution
 
-[72‑5](#72‑5).       Corporation must provide governance material to members
+[72-5](#72-5).       Corporation must provide governance material to members
 
-[72‑10](#72‑10).     Constitution may limit powers
+[72-10](#72-10).     Constitution may limit powers
 
-**Part 3‑3—Minimum number of members of Aboriginal and Torres Strait Islander corporations** 
+**Part 3-3—Minimum number of members of Aboriginal and Torres Strait Islander corporations** 
 
     **Division 77—Minimum number of members of Aboriginal and Torres Strait Islander corporations**
 
-[77‑1](#77‑1).       What this Part is about
+[77-1](#77-1).       What this Part is about
 
-[77‑5](#77‑5).       Minimum number of members requirement
+[77-5](#77-5).       Minimum number of members requirement
 
-[77‑10](#77‑10).     Registrar may exempt if appropriate and reasonable to do so
+[77-10](#77-10).     Registrar may exempt if appropriate and reasonable to do so
 
-[77‑15](#77‑15).     Registrar may determine a different number to number requested
+[77-15](#77-15).     Registrar may determine a different number to number requested
 
-[77‑20](#77‑20).     Earlier determination taken to be revoked
+[77-20](#77-20).     Earlier determination taken to be revoked
 
-[77‑25](#77‑25).     Notice to be given
+[77-25](#77-25).     Notice to be given
 
-**Part 3‑4—Names** 
+**Part 3-4—Names** 
 
     **Division 82—Introduction**
 
-[82‑1](#82‑1).       What this Part is about
+[82-1](#82-1).       What this Part is about
 
     **Division 85—What names may a corporation have?**
 
-[85‑1](#85‑1).       Corporation’s name requirements
+[85-1](#85-1).       Corporation’s name requirements
 
-[85‑5](#85‑5).       Available names
+[85-5](#85-5).       Available names
 
-[85‑10](#85‑10).     Acceptable abbreviations
+[85-10](#85-10).     Acceptable abbreviations
 
-[85‑15](#85‑15).     Using a name and ICN on documents
+[85-15](#85-15).     Using a name and ICN on documents
 
-[85‑20](#85‑20).     Exception to requirement to have ICN on receipts
+[85-20](#85-20).     Exception to requirement to have ICN on receipts
 
-[85‑25](#85‑25).     Regulations may exempt from requirement to set out information on documents
+[85-25](#85-25).     Regulations may exempt from requirement to set out information on documents
 
     **Division 88—How is a corporation’s name changed?**
 
-[88‑1](#88‑1).       Corporation changing its name
+[88-1](#88-1).       Corporation changing its name
 
-[88‑5](#88‑5).       Registrar’s power to direct corporation to change its name
+[88-5](#88-5).       Registrar’s power to direct corporation to change its name
 
-[88‑10](#88‑10).     If Aboriginal and Torres Strait Islander corporation becomes a registered native title body corporate
+[88-10](#88-10).     If Aboriginal and Torres Strait Islander corporation becomes a registered native title body corporate
 
-[88‑15](#88‑15).     If Aboriginal and Torres Strait Islander corporation ceases to be a registered native title body corporate
+[88-15](#88-15).     If Aboriginal and Torres Strait Islander corporation ceases to be a registered native title body corporate
 
-[88‑20](#88‑20).     Registrar must issue new certificate if name changes
+[88-20](#88-20).     Registrar must issue new certificate if name changes
 
-[88‑25](#88‑25).     Effect of name change
+[88-25](#88-25).     Effect of name change
 
-**Part 3‑5—Corporation powers and how they are exercised** 
+**Part 3-5—Corporation powers and how they are exercised** 
 
     **Division 93—Introduction**
 
-[93‑1](#93‑1).       What this Part is about
+[93-1](#93-1).       What this Part is about
 
     **Division 96—What are a corporation’s powers?**
 
-[96‑1](#96‑1).       Legal capacity and powers
+[96-1](#96-1).       Legal capacity and powers
 
     **Division 99—How are a corporation’s powers exercised?**
 
-[99‑1](#99‑1).       Agent exercising a corporation’s power to make contracts etc 
+[99-1](#99-1).       Agent exercising a corporation’s power to make contracts etc 
 
-[99‑5](#99‑5).       Execution of documents (including deeds) by the corporation itself
+[99-5](#99-5).       Execution of documents (including deeds) by the corporation itself
 
-**Part 3‑6—Assumptions people dealing with Aboriginal and Torres Strait Islander corporations are entitled to make** 
+**Part 3-6—Assumptions people dealing with Aboriginal and Torres Strait Islander corporations are entitled to make** 
 
     **Division 104—Assumptions people dealing with Aboriginal and Torres Strait Islander corporations are entitled to make**
 
-[104‑1](#104‑1).     Entitlement to make assumptions
+[104-1](#104-1).     Entitlement to make assumptions
 
-[104‑5](#104‑5).     Assumptions that can be made under section 104‑1
+[104-5](#104-5).     Assumptions that can be made under section 104-1
 
-[104‑10](#104‑10).   Information available to the public from Registrar does not constitute constructive notice
+[104-10](#104-10).   Information available to the public from Registrar does not constitute constructive notice
 
-**Part 3‑7—Registered office or document access address** 
+**Part 3-7—Registered office or document access address** 
 
     **Division 109—Introduction**
 
-[109‑1](#109‑1).     What this Part is about
+[109-1](#109-1).     What this Part is about
 
     **Division 112—Registered office**
 
-[112‑1](#112‑1).     General
+[112-1](#112-1).     General
 
-[112‑5](#112‑5).     Corporation to have registered office
+[112-5](#112-5).     Corporation to have registered office
 
-[112‑10](#112‑10).   Registrar may change address of registered office to a director’s address
+[112-10](#112-10).   Registrar may change address of registered office to a director’s address
 
-[112‑15](#112‑15).   Corporation’s name must be displayed
+[112-15](#112-15).   Corporation’s name must be displayed
 
-[112‑20](#112‑20).   Address of registered office etc 
+[112-20](#112-20).   Address of registered office etc 
 
     **Division 115—Document access address**
 
-[115‑1](#115‑1).     Division applies to Aboriginal and Torres Strait Islander corporations registered as small or medium corporations
+[115-1](#115-1).     Division applies to Aboriginal and Torres Strait Islander corporations registered as small or medium corporations
 
-[115‑5](#115‑5).     Corporation to have document access address
+[115-5](#115-5).     Corporation to have document access address
 
-[115‑10](#115‑10).   Registrar may change document access address to a director’s address
+[115-10](#115-10).   Registrar may change document access address to a director’s address
 
-[115‑15](#115‑15).   Registrar may direct corporation to change the location of its document access address
+[115-15](#115-15).   Registrar may direct corporation to change the location of its document access address
 
-[115‑20](#115‑20).   Address of document access address
+[115-20](#115-20).   Address of document access address
 
-**Part 3‑8—Service on Aboriginal and Torres Strait Islander corporations** 
+**Part 3-8—Service on Aboriginal and Torres Strait Islander corporations** 
 
     **Division 120—Service on Aboriginal and Torres Strait Islander corporations**
 
-[120‑1](#120‑1).     Service on Aboriginal and Torres Strait Islander corporation
+[120-1](#120-1).     Service on Aboriginal and Torres Strait Islander corporation
 
 **Chapter 4—Members and observers** 
 
-**Part 4‑1—Introduction** 
+**Part 4-1—Introduction** 
 
     **Division 130—Introduction**
 
-[130‑1](#130‑1).     What this Chapter is about
+[130-1](#130-1).     What this Chapter is about
 
-**Part 4‑2—Members** 
+**Part 4-2—Members** 
 
     **Division 135—Introduction**
 
-[135‑1](#135‑1).     What this Part is about
+[135-1](#135-1).     What this Part is about
 
     **Division 138—Who is a member of an Aboriginal and Torres Strait Islander corporation?**
 
-[138‑1](#138‑1).     Meaning of _member_
+[138-1](#138-1).     Meaning of _member_
 
     **Division 141—Membership of Aboriginal and Torres Strait Islander corporations** 
 
-        **Subdivision 141‑A—Introduction**
+        **Subdivision 141-A—Introduction**
 
-[141‑1](#141‑1).     Overview
+[141-1](#141-1).     Overview
 
-        **Subdivision 141‑B—Ongoing requirements relating to membership that are imposed on an Aboriginal and Torres Strait Islander corporation**
+        **Subdivision 141-B—Ongoing requirements relating to membership that are imposed on an Aboriginal and Torres Strait Islander corporation**
 
-[141‑5](#141‑5).     Minimum number of members requirement
+[141-5](#141-5).     Minimum number of members requirement
 
-[141‑10](#141‑10).   Indigeneity requirement
+[141-10](#141-10).   Indigeneity requirement
 
-[141‑15](#141‑15).   Age of members requirement
+[141-15](#141-15).   Age of members requirement
 
-        **Subdivision 141‑C—A person’s eligibility for membership of an Aboriginal and Torres Strait Islander corporation**
+        **Subdivision 141-C—A person’s eligibility for membership of an Aboriginal and Torres Strait Islander corporation**
 
-[141‑20](#141‑20).   Eligibility for membership
+[141-20](#141-20).   Eligibility for membership
 
-[141‑25](#141‑25).   Corporation may have other eligibility requirements for membership
+[141-25](#141-25).   Corporation may have other eligibility requirements for membership
 
     **Division 144—How to become a member of an Aboriginal and Torres Strait Islander corporation**
 
-[144‑1](#144‑1).     How does a person become a member?
+[144-1](#144-1).     How does a person become a member?
 
-[144‑5](#144‑5).     Application to corporation
+[144-5](#144-5).     Application to corporation
 
-[144‑10](#144‑10).   Determination of applications for membership
+[144-10](#144-10).   Determination of applications for membership
 
-[144‑15](#144‑15).   Fees for membership and being an observer
+[144-15](#144-15).   Fees for membership and being an observer
 
     **Division 147—Obligations of members**
 
-[147‑1](#147‑1).     Obligation to contribute on winding up
+[147-1](#147-1).     Obligation to contribute on winding up
 
-[147‑5](#147‑5).     Corporation may impose other member obligations
+[147-5](#147-5).     Corporation may impose other member obligations
 
-[147‑10](#147‑10).   Liability of corporation members
+[147-10](#147-10).   Liability of corporation members
 
     **Division 150—How does a person cease to be a member of an Aboriginal and Torres Strait Islander corporation?** 
 
-        **Subdivision 150‑A—General**
+        **Subdivision 150-A—General**
 
-[150‑1](#150‑1).     Cessation of membership
+[150-1](#150-1).     Cessation of membership
 
-        **Subdivision 150‑B—Resignation of membership**
+        **Subdivision 150-B—Resignation of membership**
 
-[150‑10](#150‑10).   Resignation
+[150-10](#150-10).   Resignation
 
-        **Subdivision 150‑C—Cancellation of membership**
+        **Subdivision 150-C—Cancellation of membership**
 
-[150‑15](#150‑15).   General
+[150-15](#150-15).   General
 
-[150‑20](#150‑20).   Member not eligible for membership etc  (replaceable rule—see section 60‑1)
+[150-20](#150-20).   Member not eligible for membership etc  (replaceable rule—see section 60-1)
 
-[150‑25](#150‑25).   Member not contactable
+[150-25](#150-25).   Member not contactable
 
-[150‑30](#150‑30).   Member is not an Aboriginal and Torres Strait Islander person
+[150-30](#150-30).   Member is not an Aboriginal and Torres Strait Islander person
 
-[150‑35](#150‑35).   Member misbehaves
+[150-35](#150-35).   Member misbehaves
 
     **Division 153—Can there be different classes of members?**
 
-[153‑1](#153‑1).     Different classes of members
+[153-1](#153-1).     Different classes of members
 
-**Part 4‑3—Observers** 
+**Part 4-3—Observers** 
 
     **Division 158—Observers**
 
-[158‑1](#158‑1).     What this Part is about
+[158-1](#158-1).     What this Part is about
 
-[158‑5](#158‑5).     Observers
+[158-5](#158-5).     Observers
 
-**Part 4‑4—Protection of members’ interests** 
+**Part 4-4—Protection of members’ interests** 
 
     **Division 163—Rights and remedies to protect interests of members**
 
-[163‑1](#163‑1).     Rights and remedies
+[163-1](#163-1).     Rights and remedies
 
     **Division 166—Oppressive conduct of affairs**
 
-[166‑1](#166‑1).     Grounds for Court order
+[166-1](#166-1).     Grounds for Court order
 
-[166‑5](#166‑5).     Orders the Court can make
+[166-5](#166-5).     Orders the Court can make
 
-[166‑10](#166‑10).   Who can apply for an order?
+[166-10](#166-10).   Who can apply for an order?
 
-[166‑15](#166‑15).   Requirement for person to lodge order
+[166-15](#166-15).   Requirement for person to lodge order
 
     **Division 169—When may a person bring or intervene in proceedings on behalf of an Aboriginal and Torres Strait Islander corporation?**
 
-[169‑1](#169‑1).     Bringing, or intervening in, proceedings on behalf of a corporation
+[169-1](#169-1).     Bringing, or intervening in, proceedings on behalf of a corporation
 
-[169‑5](#169‑5).     Applying for and granting leave
+[169-5](#169-5).     Applying for and granting leave
 
-[169‑10](#169‑10).   Substitution of another person for the person granted leave
+[169-10](#169-10).   Substitution of another person for the person granted leave
 
-[169‑15](#169‑15).   Effect of ratification by members
+[169-15](#169-15).   Effect of ratification by members
 
-[169‑20](#169‑20).   Leave to discontinue, compromise or settle proceedings brought, or intervened in, with leave
+[169-20](#169-20).   Leave to discontinue, compromise or settle proceedings brought, or intervened in, with leave
 
-[169‑25](#169‑25).   General powers of the Court
+[169-25](#169-25).   General powers of the Court
 
-[169‑30](#169‑30).   Power of the Court to make costs orders
+[169-30](#169-30).   Power of the Court to make costs orders
 
     **Division 172—What protections apply to variations or cancellations of class rights?**
 
-[172‑1](#172‑1).     Varying and cancelling class rights
+[172-1](#172-1).     Varying and cancelling class rights
 
-[172‑5](#172‑5).     Certain actions taken to vary rights etc
+[172-5](#172-5).     Certain actions taken to vary rights etc
 
-[172‑10](#172‑10).   Variation, cancellation or modification without unanimous support of class
+[172-10](#172-10).   Variation, cancellation or modification without unanimous support of class
 
-[172‑15](#172‑15).   Variation, cancellation or modification with unanimous support of class
+[172-15](#172-15).   Variation, cancellation or modification with unanimous support of class
 
     **Division 175—When may a member inspect a corporation’s books?**
 
-[175‑1](#175‑1).     Order for inspection of books of corporation
+[175-1](#175-1).     Order for inspection of books of corporation
 
-[175‑5](#175‑5).     Ancillary orders
+[175-5](#175-5).     Ancillary orders
 
-[175‑10](#175‑10).   Disclosure of information acquired in inspection
+[175-10](#175-10).   Disclosure of information acquired in inspection
 
-[175‑15](#175‑15).   Corporation or directors may allow member to inspect books (replaceable rule—see section 60‑1)
+[175-15](#175-15).   Corporation or directors may allow member to inspect books (replaceable rule—see section 60-1)
 
-**Part 4‑5—Registers of members and former members** 
+**Part 4-5—Registers of members and former members** 
 
     **Division 180—Registers of members and former members**
 
-[180‑1](#180‑1).     Aboriginal and Torres Strait Islander corporations to maintain register of members
+[180-1](#180-1).     Aboriginal and Torres Strait Islander corporations to maintain register of members
 
-[180‑5](#180‑5).     Information on the register of members
+[180-5](#180-5).     Information on the register of members
 
-[180‑10](#180‑10).   Aboriginal and Torres Strait Islander corporations to maintain register of former members
+[180-10](#180-10).   Aboriginal and Torres Strait Islander corporations to maintain register of former members
 
-[180‑15](#180‑15).   Information on the register of former members
+[180-15](#180-15).   Information on the register of former members
 
-[180‑20](#180‑20).   Location and inspection of registers
+[180-20](#180-20).   Location and inspection of registers
 
-[180‑22](#180‑22).   Register of members and register of former members may be maintained in one document
+[180-22](#180-22).   Register of members and register of former members may be maintained in one document
 
-[180‑25](#180‑25).   Right to inspect and get copies
+[180-25](#180-25).   Right to inspect and get copies
 
-[180‑30](#180‑30).   Aboriginal and Torres Strait Islander corporation to make register of members available at AGM
+[180-30](#180-30).   Aboriginal and Torres Strait Islander corporation to make register of members available at AGM
 
-[180‑35](#180‑35).   Aboriginal and Torres Strait Islander corporation to give Registrar copy of register of members or register of former members
+[180-35](#180-35).   Aboriginal and Torres Strait Islander corporation to give Registrar copy of register of members or register of former members
 
-[180‑40](#180‑40).   Correction of register of members or register of former members
+[180-40](#180-40).   Correction of register of members or register of former members
 
-[180‑45](#180‑45).   Evidentiary value of registers
+[180-45](#180-45).   Evidentiary value of registers
 
     **Division 183—Use of information on the register of members or register of former members**
 
-[183‑1](#183‑1).     Use of information on register of members or register of former members
+[183-1](#183-1).     Use of information on register of members or register of former members
 
-**Part 4‑6—Exemption from operation of certain provisions of this Chapter** 
+**Part 4-6—Exemption from operation of certain provisions of this Chapter** 
 
     **Division 187—Exemption from operation of certain provisions of this Chapter**
 
-[187‑1](#187‑1).     What this Part is about
+[187-1](#187-1).     What this Part is about
 
-[187‑5](#187‑5).     Exemption from certain provisions of this Chapter
+[187-5](#187-5).     Exemption from certain provisions of this Chapter
 
-[187‑10](#187‑10).   Registrar may make determination even if application is incomplete
+[187-10](#187-10).   Registrar may make determination even if application is incomplete
 
-[187‑15](#187‑15).   Registrar’s power to make determinations
+[187-15](#187-15).   Registrar’s power to make determinations
 
-[187‑20](#187‑20).   Criteria for determinations
+[187-20](#187-20).   Criteria for determinations
 
 **Chapter 5—Meetings** 
 
-**Part 5‑1—Introduction** 
+**Part 5-1—Introduction** 
 
     **Division 193—Introduction**
 
-[193‑1](#193‑1).     What this Chapter is about
+[193-1](#193-1).     What this Chapter is about
 
-**Part 5‑2—General meetings** 
+**Part 5-2—General meetings** 
 
     **Division 198—Introduction**
 
-[198‑1](#198‑1).     What this Part is about
+[198-1](#198-1).     What this Part is about
 
     **Division 201—What are the rules concerning general meetings?** 
 
-        **Subdivision 201‑A—Who may call general meetings?**
+        **Subdivision 201-A—Who may call general meetings?**
 
-[201‑1](#201‑1).     Director may call meetings (replaceable rule—see section 60‑1)
+[201-1](#201-1).     Director may call meetings (replaceable rule—see section 60-1)
 
-[201‑5](#201‑5).     Request by members for directors to call general meetings
+[201-5](#201-5).     Request by members for directors to call general meetings
 
-[201‑10](#201‑10).   When must directors comply with members’ request?
+[201-10](#201-10).   When must directors comply with members’ request?
 
-[201‑15](#201‑15).   When must a requested meeting be held?
+[201-15](#201-15).   When must a requested meeting be held?
 
-        **Subdivision 201‑B—How to call general meetings**
+        **Subdivision 201-B—How to call general meetings**
 
-[201‑20](#201‑20).   Amount of notice of general meetings
+[201-20](#201-20).   Amount of notice of general meetings
 
-[201‑25](#201‑25).   Notice of general meeting to members, officers and observers
+[201-25](#201-25).   Notice of general meeting to members, officers and observers
 
-[201‑30](#201‑30).   Auditor entitled to notice and other communications
+[201-30](#201-30).   Auditor entitled to notice and other communications
 
-[201‑35](#201‑35).   Contents of notice of general meeting
+[201-35](#201-35).   Contents of notice of general meeting
 
-        **Subdivision 201‑C—Members’ rights to put resolutions etc. to general meeting**
+        **Subdivision 201-C—Members’ rights to put resolutions etc. to general meeting**
 
-[201‑40](#201‑40).   Members’ resolutions
+[201-40](#201-40).   Members’ resolutions
 
-[201‑45](#201‑45).   Notice of members’ resolutions
+[201-45](#201-45).   Notice of members’ resolutions
 
-[201‑50](#201‑50).   Members’ statements to be distributed
+[201-50](#201-50).   Members’ statements to be distributed
 
-        **Subdivision 201‑D—Holding general meetings**
+        **Subdivision 201-D—Holding general meetings**
 
-[201‑55](#201‑55).   Purpose
+[201-55](#201-55).   Purpose
 
-[201‑60](#201‑60).   Time and place for general meeting
+[201-60](#201-60).   Time and place for general meeting
 
-[201‑65](#201‑65).   Technology
+[201-65](#201-65).   Technology
 
-[201‑70](#201‑70).   Quorum
+[201-70](#201-70).   Quorum
 
-[201‑75](#201‑75).   Chairing general meeting (replaceable rule—see section 60‑1)
+[201-75](#201-75).   Chairing general meeting (replaceable rule—see section 60-1)
 
-[201‑80](#201‑80).   Auditor’s right to be heard at general meetings
+[201-80](#201-80).   Auditor’s right to be heard at general meetings
 
-[201‑85](#201‑85).   Adjourned meetings
+[201-85](#201-85).   Adjourned meetings
 
-        **Subdivision 201‑E—Proxies**
+        **Subdivision 201-E—Proxies**
 
-[201‑90](#201‑90).   Who may appoint a proxy (replaceable rule—see section 60‑1)
+[201-90](#201-90).   Who may appoint a proxy (replaceable rule—see section 60-1)
 
-[201‑95](#201‑95).   Rights of proxies
+[201-95](#201-95).   Rights of proxies
 
-[201‑100](#201‑100). Appointing a proxy
+[201-100](#201-100). Appointing a proxy
 
-[201‑105](#201‑105). Proxy documents
+[201-105](#201-105). Proxy documents
 
-[201‑110](#201‑110). Body corporate representative
+[201-110](#201-110). Body corporate representative
 
-        **Subdivision 201‑F—Voting at general meetings**
+        **Subdivision 201-F—Voting at general meetings**
 
-[201‑115](#201‑115). How many votes a member has (replaceable rule—see section 60‑1)
+[201-115](#201-115). How many votes a member has (replaceable rule—see section 60-1)
 
-[201‑120](#201‑120). Objections to right to vote (replaceable rule—see section 60‑1)
+[201-120](#201-120). Objections to right to vote (replaceable rule—see section 60-1)
 
-[201‑125](#201‑125). How voting is carried out (replaceable rule—see section 60‑1)
+[201-125](#201-125). How voting is carried out (replaceable rule—see section 60-1)
 
-[201‑130](#201‑130). Matters on which a poll may be demanded
+[201-130](#201-130). Matters on which a poll may be demanded
 
-[201‑135](#201‑135). When a poll is effectively demanded
+[201-135](#201-135). When a poll is effectively demanded
 
-[201‑140](#201‑140). When and how polls must be taken (replaceable rule—see section 60‑1)
+[201-140](#201-140). When and how polls must be taken (replaceable rule—see section 60-1)
 
-        **Subdivision 201‑G—First general meeting and annual general meetings**
+        **Subdivision 201-G—First general meeting and annual general meetings**
 
-[201‑145](#201‑145). Corporation must hold first general meeting within 3 months of registration
+[201-145](#201-145). Corporation must hold first general meeting within 3 months of registration
 
-[201‑150](#201‑150). Corporation must hold AGM
+[201-150](#201-150). Corporation must hold AGM
 
-[201‑155](#201‑155). Extension of time for holding AGM
+[201-155](#201-155). Extension of time for holding AGM
 
-[201‑160](#201‑160). Business of AGM
+[201-160](#201-160). Business of AGM
 
-[201‑165](#201‑165). Questions and comments by members on corporation management at AGM
+[201-165](#201-165). Questions and comments by members on corporation management at AGM
 
-[201‑170](#201‑170). Questions by members of auditors at AGM
+[201-170](#201-170). Questions by members of auditors at AGM
 
     **Division 204—Resolutions without a general meeting**
 
-[204‑1](#204‑1).     Circulating resolutions
+[204-1](#204-1).     Circulating resolutions
 
-[204‑5](#204‑5).     Resolutions of 1 member corporations
+[204-5](#204-5).     Resolutions of 1 member corporations
 
-**Part 5‑3—Directors’ meetings** 
+**Part 5-3—Directors’ meetings** 
 
     **Division 209—Introduction**
 
-[209‑1](#209‑1).     What this Part is about
+[209-1](#209-1).     What this Part is about
 
     **Division 212—What are the rules concerning directors’ meetings?**
 
-[212‑1](#212‑1).     Constitution to provide for meetings
+[212-1](#212-1).     Constitution to provide for meetings
 
-[212‑5](#212‑5).     Calling directors’ meetings (replaceable rule—see section 60‑1)
+[212-5](#212-5).     Calling directors’ meetings (replaceable rule—see section 60-1)
 
-[212‑10](#212‑10).   Use of technology
+[212-10](#212-10).   Use of technology
 
-[212‑15](#212‑15).   Chairing directors’ meetings (replaceable rule—see section 60‑1)
+[212-15](#212-15).   Chairing directors’ meetings (replaceable rule—see section 60-1)
 
-[212‑20](#212‑20).   Quorum at directors’ meetings
+[212-20](#212-20).   Quorum at directors’ meetings
 
-[212‑25](#212‑25).   Passing of directors’ resolutions (replaceable rule—see section 60‑1)
+[212-25](#212-25).   Passing of directors’ resolutions (replaceable rule—see section 60-1)
 
     **Division 215—Resolutions and declarations without meetings**
 
-[215‑1](#215‑1).     Circulating resolutions of corporation with more than 1 director (replaceable rule—see section 60‑1)
+[215-1](#215-1).     Circulating resolutions of corporation with more than 1 director (replaceable rule—see section 60-1)
 
-[215‑5](#215‑5).     Resolutions and declarations of 1 director corporation
+[215-5](#215-5).     Resolutions and declarations of 1 director corporation
 
-**Part 5‑4—Minutes of meetings** 
+**Part 5-4—Minutes of meetings** 
 
     **Division 220—Minutes of meetings**
 
-[220‑1](#220‑1).     What this Part is about
+[220-1](#220-1).     What this Part is about
 
-[220‑5](#220‑5).     Minutes
+[220-5](#220-5).     Minutes
 
-[220‑10](#220‑10).   Members’ access to minutes
+[220-10](#220-10).   Members’ access to minutes
 
-**Part 5‑5—Exemption from operation of this Chapter** 
+**Part 5-5—Exemption from operation of this Chapter** 
 
     **Division 225—Exemption from operation of this Chapter**
 
-[225‑1](#225‑1).     What this Part is about
+[225-1](#225-1).     What this Part is about
 
-[225‑5](#225‑5).     Exemption from the provisions of this Chapter
+[225-5](#225-5).     Exemption from the provisions of this Chapter
 
-[225‑10](#225‑10).   Registrar may make determination even if application is incomplete
+[225-10](#225-10).   Registrar may make determination even if application is incomplete
 
-[225‑15](#225‑15).   Registrar’s power to make determinations
+[225-15](#225-15).   Registrar’s power to make determinations
 
-[225‑20](#225‑20).   Criteria for determinations
+[225-20](#225-20).   Criteria for determinations
 
 **Chapter 6—Officers** 
 
-**Part 6‑1—Introduction** 
+**Part 6-1—Introduction** 
 
     **Division 235—Introduction**
 
-[235‑1](#235‑1).     What this Chapter is about
+[235-1](#235-1).     What this Chapter is about
 
-**Part 6‑2—Appointment, remuneration and cessation of appointment of directors** 
+**Part 6-2—Appointment, remuneration and cessation of appointment of directors** 
 
     **Division 240—Introduction**
 
-[240‑1](#240‑1).     What this Part is about
+[240-1](#240-1).     What this Part is about
 
     **Division 243—Number of directors**
 
-[243‑1](#243‑1).     Minimum number of directors
+[243-1](#243-1).     Minimum number of directors
 
-[243‑5](#243‑5).     Maximum number of directors
+[243-5](#243-5).     Maximum number of directors
 
     **Division 246—Appointment of directors**
 
-[246‑1](#246‑1).     Eligibility for appointment as a director
+[246-1](#246-1).     Eligibility for appointment as a director
 
-[246‑5](#246‑5).     Majority of director requirements
+[246-5](#246-5).     Majority of director requirements
 
-[246‑10](#246‑10).   Consent to act as director
+[246-10](#246-10).   Consent to act as director
 
-[246‑15](#246‑15).   Corporation may appoint a director (replaceable rule—see section 60‑1)
+[246-15](#246-15).   Corporation may appoint a director (replaceable rule—see section 60-1)
 
-[246‑20](#246‑20).   Directors may appoint other directors to make up a quorum (replaceable rule—see section 60‑1)
+[246-20](#246-20).   Directors may appoint other directors to make up a quorum (replaceable rule—see section 60-1)
 
-[246‑25](#246‑25).   Term of appointment
+[246-25](#246-25).   Term of appointment
 
-[246‑30](#246‑30).   Alternate directors (replaceable rule—see section 60‑1)
+[246-30](#246-30).   Alternate directors (replaceable rule—see section 60-1)
 
-[246‑35](#246‑35).   Effectiveness of acts by directors
+[246-35](#246-35).   Effectiveness of acts by directors
 
     **Division 249—Resignation, retirement or removal of directors**
 
-[249‑1](#249‑1).     How does a person cease to be a director?
+[249-1](#249-1).     How does a person cease to be a director?
 
-[249‑5](#249‑5).     Director may resign
+[249-5](#249-5).     Director may resign
 
-[249‑10](#249‑10).   Removal by members
+[249-10](#249-10).   Removal by members
 
-[249‑15](#249‑15).   Removal by other directors
+[249-15](#249-15).   Removal by other directors
 
     **Division 252—Remuneration of directors**
 
-[252‑1](#252‑1).     Remuneration
+[252-1](#252-1).     Remuneration
 
-[252‑5](#252‑5).     Members may obtain information about directors’ remuneration
+[252-5](#252-5).     Members may obtain information about directors’ remuneration
 
-**Part 6‑3—Appointment of secretaries and contact persons** 
+**Part 6-3—Appointment of secretaries and contact persons** 
 
     **Division 257—Appointment of secretaries and contact persons**
 
-[257‑1](#257‑1).     What this Part is about
+[257-1](#257-1).     What this Part is about
 
-[257‑5](#257‑5).     Requirement to have a secretary or contact person
+[257-5](#257-5).     Requirement to have a secretary or contact person
 
-[257‑10](#257‑10).   Who may be a secretary or contact person
+[257-10](#257-10).   Who may be a secretary or contact person
 
-[257‑15](#257‑15).   Consent to act as secretary or contact person
+[257-15](#257-15).   Consent to act as secretary or contact person
 
-[257‑20](#257‑20).   How a secretary or contact person is appointed
+[257-20](#257-20).   How a secretary or contact person is appointed
 
-[257‑25](#257‑25).   Director to be contact person in certain circumstances
+[257-25](#257-25).   Director to be contact person in certain circumstances
 
-[257‑30](#257‑30).   Contact person must pass on communications received
+[257-30](#257-30).   Contact person must pass on communications received
 
-[257‑35](#257‑35).   Secretary must pass on communications received
+[257-35](#257-35).   Secretary must pass on communications received
 
-[257‑40](#257‑40).   Effectiveness of acts by secretaries
+[257-40](#257-40).   Effectiveness of acts by secretaries
 
-[257‑45](#257‑45).   Terms and conditions of office for secretaries (replaceable rule—see section 60‑1)
+[257-45](#257-45).   Terms and conditions of office for secretaries (replaceable rule—see section 60-1)
 
-[257‑50](#257‑50).   Terms and conditions of contact person’s appointment (replaceable rule—see section 60‑1)
+[257-50](#257-50).   Terms and conditions of contact person’s appointment (replaceable rule—see section 60-1)
 
-**Part 6‑4—Duties and powers of directors and other officers and employees** 
+**Part 6-4—Duties and powers of directors and other officers and employees** 
 
     **Division 262—Introduction**
 
-[262‑1](#262‑1).     What this Part is about
+[262-1](#262-1).     What this Part is about
 
     **Division 265—General duties**
 
-[265‑1](#265‑1).     Care and diligence—civil obligation only
+[265-1](#265-1).     Care and diligence—civil obligation only
 
-[265‑5](#265‑5).     Good faith—civil obligations
+[265-5](#265-5).     Good faith—civil obligations
 
-[265‑10](#265‑10).   Use of position—civil obligations
+[265-10](#265-10).   Use of position—civil obligations
 
-[265‑15](#265‑15).   Use of information—civil obligations
+[265-15](#265-15).   Use of information—civil obligations
 
-[265‑20](#265‑20).   Acts done to comply with Native Title legislation obligations
+[265-20](#265-20).   Acts done to comply with Native Title legislation obligations
 
-[265‑25](#265‑25).   Good faith, use of position and use of information—criminal offences
+[265-25](#265-25).   Good faith, use of position and use of information—criminal offences
 
-[265‑30](#265‑30).   Interaction of sections 265‑1 to 265‑25 with other laws etc 
+[265-30](#265-30).   Interaction of sections 265-1 to 265-25 with other laws etc 
 
-[265‑35](#265‑35).   Directors of wholly‑owned subsidiaries
+[265-35](#265-35).   Directors of wholly-owned subsidiaries
 
-[265‑40](#265‑40).   Responsibility of secretaries for certain contraventions
+[265-40](#265-40).   Responsibility of secretaries for certain contraventions
 
-[265‑45](#265‑45).   Meaning of reasonable reliance on information or advice provided by others
+[265-45](#265-45).   Meaning of reasonable reliance on information or advice provided by others
 
-[265‑50](#265‑50).   Responsibility for actions of delegate
+[265-50](#265-50).   Responsibility for actions of delegate
 
     **Division 268—Duties in relation to disclosure of, and voting on matters involving, material personal interests**
 
-[268‑1](#268‑1).     Material personal interest—director’s duty to disclose
+[268-1](#268-1).     Material personal interest—director’s duty to disclose
 
-[268‑5](#268‑5).     Interest as common law holder of native title
+[268-5](#268-5).     Interest as common law holder of native title
 
-[268‑10](#268‑10).   Director may give other directors standing notice about an interest
+[268-10](#268-10).   Director may give other directors standing notice about an interest
 
-[268‑15](#268‑15).   Interaction of sections 268‑1 and 268‑10 with other laws etc 
+[268-15](#268-15).   Interaction of sections 268-1 and 268-10 with other laws etc 
 
-[268‑20](#268‑20).   Restrictions on voting
+[268-20](#268-20).   Restrictions on voting
 
-[268‑25](#268‑25).   Registrar’s power to make declarations and class orders
+[268-25](#268-25).   Registrar’s power to make declarations and class orders
 
     **Division 271—Duty to discharge certain trust liabilities**
 
-[271‑1](#271‑1).     Directors liable for debts and other obligations incurred by corporation as trustee
+[271-1](#271-1).     Directors liable for debts and other obligations incurred by corporation as trustee
 
     **Division 274—Powers of directors**
 
-[274‑1](#274‑1).     Powers of directors (replaceable rule—see section 60‑1)
+[274-1](#274-1).     Powers of directors (replaceable rule—see section 60-1)
 
-[274‑5](#274‑5).     Negotiable instruments (replaceable rule—see section 60‑1)
+[274-5](#274-5).     Negotiable instruments (replaceable rule—see section 60-1)
 
-[274‑10](#274‑10).   Delegation
+[274-10](#274-10).   Delegation
 
-[274‑15](#274‑15).   Right of access to corporation books
+[274-15](#274-15).   Right of access to corporation books
 
-**Part 6‑5—Disqualification from managing corporations** 
+**Part 6-5—Disqualification from managing corporations** 
 
     **Division 279—Disqualification from managing corporations**
 
-[279‑1](#279‑1).     Disqualified person not to manage corporations
+[279-1](#279-1).     Disqualified person not to manage corporations
 
-[279‑5](#279‑5).     Automatic disqualification
+[279-5](#279-5).     Automatic disqualification
 
-[279‑10](#279‑10).   Extension of period of automatic disqualification
+[279-10](#279-10).   Extension of period of automatic disqualification
 
-[279‑15](#279‑15).   Court power of disqualification—contravention of civil penalty provision
+[279-15](#279-15).   Court power of disqualification—contravention of civil penalty provision
 
-[279‑20](#279‑20).   Court power of disqualification—insolvency and non‑payment of debts
+[279-20](#279-20).   Court power of disqualification—insolvency and non-payment of debts
 
-[279‑25](#279‑25).   Court power of disqualification—repeated contraventions of Act
+[279-25](#279-25).   Court power of disqualification—repeated contraventions of Act
 
-[279‑30](#279‑30).   Registrar’s power of disqualification
+[279-30](#279-30).   Registrar’s power of disqualification
 
-[279‑35](#279‑35).   Court power to grant leave
+[279-35](#279-35).   Court power to grant leave
 
-**Part 6‑6—Member approval needed for related party benefit** 
+**Part 6-6—Member approval needed for related party benefit** 
 
     **Division 284—Need for member approval**
 
-[284‑1](#284‑1).     Need for member approval for financial benefit
+[284-1](#284-1).     Need for member approval for financial benefit
 
-[284‑5](#284‑5).     Consequences of breach
+[284-5](#284-5).     Consequences of breach
 
-[284‑10](#284‑10).   Exemptions
+[284-10](#284-10).   Exemptions
 
     **Division 287—Exceptions to the requirement for member approval**
 
-[287‑1](#287‑1).     Remuneration and reimbursement for officer or employee
+[287-1](#287-1).     Remuneration and reimbursement for officer or employee
 
-[287‑5](#287‑5).     Benefit to or by closely‑held subsidiary
+[287-5](#287-5).     Benefit to or by closely-held subsidiary
 
-[287‑10](#287‑10).   Benefits to members that do not discriminate unfairly
+[287-10](#287-10).   Benefits to members that do not discriminate unfairly
 
-[287‑12](#287‑12).   Benefits given to comply with Native Title legislation obligations
+[287-12](#287-12).   Benefits given to comply with Native Title legislation obligations
 
-[287‑15](#287‑15).   Court order
+[287-15](#287-15).   Court order
 
     **Division 290—Procedure for obtaining member approval**
 
-[290‑1](#290‑1).     Resolution may specify matters by class or kind
+[290-1](#290-1).     Resolution may specify matters by class or kind
 
-[290‑5](#290‑5).     Corporation must lodge material that will be put to members with the Registrar
+[290-5](#290-5).     Corporation must lodge material that will be put to members with the Registrar
 
-[290‑10](#290‑10).   Requirements for explanatory statement to members
+[290-10](#290-10).   Requirements for explanatory statement to members
 
-[290‑15](#290‑15).   Registrar may comment on proposed resolution
+[290-15](#290-15).   Registrar may comment on proposed resolution
 
-[290‑20](#290‑20).   Requirements for notice of meeting
+[290-20](#290-20).   Requirements for notice of meeting
 
-[290‑25](#290‑25).   Other material put to members
+[290-25](#290-25).   Other material put to members
 
-[290‑30](#290‑30).   Proposed resolution cannot be varied
+[290-30](#290-30).   Proposed resolution cannot be varied
 
-[290‑35](#290‑35).   Voting by or on behalf of related party interested in proposed resolution
+[290-35](#290-35).   Voting by or on behalf of related party interested in proposed resolution
 
-[290‑40](#290‑40).   Voting on the resolution
+[290-40](#290-40).   Voting on the resolution
 
-[290‑45](#290‑45).   Notice of resolution to be lodged
+[290-45](#290-45).   Notice of resolution to be lodged
 
-[290‑50](#290‑50).   Declaration by court of substantial compliance
+[290-50](#290-50).   Declaration by court of substantial compliance
 
     **Division 293—Related parties and financial benefits**
 
-[293‑1](#293‑1).     Related parties
+[293-1](#293-1).     Related parties
 
-[293‑5](#293‑5).     Giving a financial benefit
+[293-5](#293-5).     Giving a financial benefit
 
     **Division 296—Interaction with other rules**
 
-[296‑1](#296‑1).     General duties still apply
+[296-1](#296-1).     General duties still apply
 
-**Part 6‑7—Public information about directors, secretaries and contact persons** 
+**Part 6-7—Public information about directors, secretaries and contact persons** 
 
     **Division 301—Introduction**
 
-[301‑1](#301‑1).     What this Part is about
+[301-1](#301-1).     What this Part is about
 
     **Division 304—Information to be provided**
 
-[304‑1](#304‑1).     Director, alternate director, secretary or contact person may notify the Registrar of resignation or retirement
+[304-1](#304-1).     Director, alternate director, secretary or contact person may notify the Registrar of resignation or retirement
 
-[304‑5](#304‑5).     Notice of name and address of directors and secretaries to the Registrar
+[304-5](#304-5).     Notice of name and address of directors and secretaries to the Registrar
 
-[304‑10](#304‑10).   Director, alternate director, secretary and contact person must give information to corporation
+[304-10](#304-10).   Director, alternate director, secretary and contact person must give information to corporation
 
-[304‑15](#304‑15).   Address for officers
+[304-15](#304-15).   Address for officers
 
     **Division 307—Registrar may ask for information**
 
-[307‑1](#307‑1).     Registrar’s power to ask for information about person’s position as director, secretary or contact person
+[307-1](#307-1).     Registrar’s power to ask for information about person’s position as director, secretary or contact person
 
-**Part 6‑8—Exemption from operation of certain provisions of this Chapter**
+**Part 6-8—Exemption from operation of certain provisions of this Chapter**
 
-[310‑1](#310‑1).     What this Part is about
+[310-1](#310-1).     What this Part is about
 
-[310‑5](#310‑5).     Exemption from certain provisions of this Chapter
+[310-5](#310-5).     Exemption from certain provisions of this Chapter
 
-[310‑10](#310‑10).   Registrar may make determination even if application is incomplete
+[310-10](#310-10).   Registrar may make determination even if application is incomplete
 
-[310‑15](#310‑15).   Registrar’s power to make determinations
+[310-15](#310-15).   Registrar’s power to make determinations
 
-[310‑20](#310‑20).   Criteria for determinations
+[310-20](#310-20).   Criteria for determinations
 
 **Chapter 7—Record keeping, reporting requirements and books** 
 
-**Part 7‑1—Introduction** 
+**Part 7-1—Introduction** 
 
     **Division 317—Introduction**
 
-[317‑1](#317‑1).     What this Chapter is about
+[317-1](#317-1).     What this Chapter is about
 
-**Part 7‑2—Record keeping requirements** 
+**Part 7-2—Record keeping requirements** 
 
     **Division 322—Record keeping requirements**
 
-[322‑1](#322‑1).     What this Part is about
+[322-1](#322-1).     What this Part is about
 
-[322‑5](#322‑5).     Obligation to keep copy of constitution and records about officers, contact person, etc 
+[322-5](#322-5).     Obligation to keep copy of constitution and records about officers, contact person, etc 
 
-[322‑10](#322‑10).   Obligation to keep financial records
+[322-10](#322-10).   Obligation to keep financial records
 
-[322‑15](#322‑15).   Physical format
+[322-15](#322-15).   Physical format
 
-[322‑20](#322‑20).   Place where records are kept
+[322-20](#322-20).   Place where records are kept
 
-[322‑25](#322‑25).   Director access
+[322-25](#322-25).   Director access
 
-**Part 7‑3—Reporting requirements** 
+**Part 7-3—Reporting requirements** 
 
     **Division 327—Overview of reporting obligations**
 
-[327‑1](#327‑1).     Reports that an Aboriginal and Torres Strait Islander corporation must prepare and lodge
+[327-1](#327-1).     Reports that an Aboriginal and Torres Strait Islander corporation must prepare and lodge
 
     **Division 330—General report for each financial year**
 
-[330‑1](#330‑1).     Aboriginal and Torres Strait Islander corporation must prepare a general report each financial year
+[330-1](#330-1).     Aboriginal and Torres Strait Islander corporation must prepare a general report each financial year
 
-[330‑5](#330‑5).     Contents of general report
+[330-5](#330-5).     Contents of general report
 
-[330‑10](#330‑10).   General report to be lodged with Registrar
+[330-10](#330-10).   General report to be lodged with Registrar
 
     **Division 333—Financial and other reports required by the regulations**
 
-[333‑1](#333‑1).     What this Division is about
+[333-1](#333-1).     What this Division is about
 
-[333‑5](#333‑5).     Regulations may require financial reports, directors’ reports and other reports to be prepared
+[333-5](#333-5).     Regulations may require financial reports, directors’ reports and other reports to be prepared
 
-[333‑10](#333‑10).   Contents of reports
+[333-10](#333-10).   Contents of reports
 
-[333‑15](#333‑15).   Other requirements in relation to report
+[333-15](#333-15).   Other requirements in relation to report
 
-[333‑20](#333‑20).   Aboriginal and Torres Strait Islander corporation to obtain audit report if audit required
+[333-20](#333-20).   Aboriginal and Torres Strait Islander corporation to obtain audit report if audit required
 
     **Division 336—Registrar may increase reporting requirements**
 
-[336‑1](#336‑1).     Registrar may require additional report, or otherwise increase reporting requirements, for particular corporation
+[336-1](#336-1).     Registrar may require additional report, or otherwise increase reporting requirements, for particular corporation
 
-[336‑5](#336‑5).     Registrar may require additional reports, or otherwise increase reporting requirements, for class of corporation
+[336-5](#336-5).     Registrar may require additional reports, or otherwise increase reporting requirements, for class of corporation
 
     **Division 339—Audit of financial reports** 
 
-        **Subdivision 339‑A—Introduction**
+        **Subdivision 339-A—Introduction**
 
-[339‑1](#339‑1).     What this Division is about
+[339-1](#339-1).     What this Division is about
 
-[339‑5](#339‑5).     Application of Division
+[339-5](#339-5).     Application of Division
 
-[339‑10](#339‑10).   When financial report required to comply with accounting standards
+[339-10](#339-10).   When financial report required to comply with accounting standards
 
-[339‑15](#339‑15).   When audit required to be conducted in accordance with auditing standards
+[339-15](#339-15).   When audit required to be conducted in accordance with auditing standards
 
-[339‑20](#339‑20).   Lead and review auditors
+[339-20](#339-20).   Lead and review auditors
 
-[339‑25](#339‑25).   Professional members of the audit team
+[339-25](#339-25).   Professional members of the audit team
 
-        **Subdivision 339‑B—Conduct of the audit**
+        **Subdivision 339-B—Conduct of the audit**
 
-[339‑30](#339‑30).   Auditor to form opinion
+[339-30](#339-30).   Auditor to form opinion
 
-[339‑35](#339‑35).   Auditor obligations in relation to auditing standards
+[339-35](#339-35).   Auditor obligations in relation to auditing standards
 
-[339‑40](#339‑40).   Auditor’s report
+[339-40](#339-40).   Auditor’s report
 
-[339‑45](#339‑45).   Other requirements in relation to auditor’s report
+[339-45](#339-45).   Other requirements in relation to auditor’s report
 
-[339‑50](#339‑50).   Auditor’s independence declaration
+[339-50](#339-50).   Auditor’s independence declaration
 
-[339‑55](#339‑55).   Audit working papers to be retained for 7 years
+[339-55](#339-55).   Audit working papers to be retained for 7 years
 
-        **Subdivision 339‑C—Qualification, experience and registration**
+        **Subdivision 339-C—Qualification, experience and registration**
 
-[339‑60](#339‑60).   Qualification and experience: individual auditor
+[339-60](#339-60).   Qualification and experience: individual auditor
 
-[339‑65](#339‑65).   Qualification and experience: audit firm
+[339-65](#339-65).   Qualification and experience: audit firm
 
-[339‑70](#339‑70).   Registration requirements for appointment of company as auditor
+[339-70](#339-70).   Registration requirements for appointment of company as auditor
 
-        **Subdivision 339‑D—Auditor independence**
+        **Subdivision 339-D—Auditor independence**
 
-[339‑75](#339‑75).   Independence of auditors: application of Corporations Act auditor independence provisions
+[339-75](#339-75).   Independence of auditors: application of Corporations Act auditor independence provisions
 
-[339‑80](#339‑80).   Independence of auditors: alternative independence requirements
+[339-80](#339-80).   Independence of auditors: alternative independence requirements
 
-        **Subdivision 339‑E—Auditor’s powers and duties**
+        **Subdivision 339-E—Auditor’s powers and duties**
 
-[339‑85](#339‑85).   Auditor’s power to obtain information
+[339-85](#339-85).   Auditor’s power to obtain information
 
-[339‑90](#339‑90).   Reporting to the Registrar
+[339-90](#339-90).   Reporting to the Registrar
 
-[339‑95](#339‑95).   Assisting auditor
+[339-95](#339-95).   Assisting auditor
 
-        **Subdivision 339‑F—Appointment and removal of auditors**
+        **Subdivision 339-F—Appointment and removal of auditors**
 
-[339‑100](#339‑100). Appointment and removal of auditors
+[339-100](#339-100). Appointment and removal of auditors
 
     **Division 342—Financial reporting to members**
 
-[342‑1](#342‑1).     What this Division is about
+[342-1](#342-1).     What this Division is about
 
-[342‑5](#342‑5).     Annual financial reporting to members
+[342-5](#342-5).     Annual financial reporting to members
 
-[342‑10](#342‑10).   Deadline for giving member copy of report
+[342-10](#342-10).   Deadline for giving member copy of report
 
     **Division 345—Consolidated financial report**
 
-[345‑1](#345‑1).     Directors and officers of controlled entity to give information
+[345-1](#345-1).     Directors and officers of controlled entity to give information
 
-[345‑5](#345‑5).     Auditor’s power to obtain information from controlled entity
+[345-5](#345-5).     Auditor’s power to obtain information from controlled entity
 
-[345‑10](#345‑10).   Controlled entity to assist auditor
+[345-10](#345-10).   Controlled entity to assist auditor
 
-[345‑15](#345‑15).   Application of sections 345‑1 to 345‑10 to entity that has ceased to be controlled
+[345-15](#345-15).   Application of sections 345-1 to 345-10 to entity that has ceased to be controlled
 
     **Division 348—Lodging reports**
 
-[348‑1](#348‑1).     Lodging annual reports with the Registrar
+[348-1](#348-1).     Lodging annual reports with the Registrar
 
-[348‑5](#348‑5).     Relodgment if report amended after lodgment
+[348-5](#348-5).     Relodgment if report amended after lodgment
 
-**Part 7‑4—Registrar may exempt from record keeping and reporting requirements** 
+**Part 7-4—Registrar may exempt from record keeping and reporting requirements** 
 
     **Division 353—Registrar may exempt from record keeping and reporting requirements**
 
-[353‑1](#353‑1).     What this Part is about
+[353-1](#353-1).     What this Part is about
 
-[353‑3](#353‑3).     Exemption from the provisions of this Chapter
+[353-3](#353-3).     Exemption from the provisions of this Chapter
 
-[353‑5](#353‑5).     Registrar may make determination even if application is incomplete
+[353-5](#353-5).     Registrar may make determination even if application is incomplete
 
-[353‑10](#353‑10).   Registrar’s power to make determinations
+[353-10](#353-10).   Registrar’s power to make determinations
 
-**Part 7‑5—Criteria for determining level of reporting requirements** 
+**Part 7-5—Criteria for determining level of reporting requirements** 
 
     **Division 358—Criteria for determining level of reporting requirements**
 
-[358‑1](#358‑1).     What this Part is about
+[358-1](#358-1).     What this Part is about
 
-[358‑5](#358‑5).     Criteria for determinations about level of reporting requirements
+[358-5](#358-5).     Criteria for determinations about level of reporting requirements
 
-[358‑10](#358‑10).   Reporting obligations
+[358-10](#358-10).   Reporting obligations
 
-**Part 7‑6—Sanctions for contraventions of record keeping and reporting requirements** 
+**Part 7-6—Sanctions for contraventions of record keeping and reporting requirements** 
 
     **Division 363—Sanctions for contraventions of record keeping and reporting requirements**
 
-[363‑1](#363‑1).     Sanctions
+[363-1](#363-1).     Sanctions
 
-**Part 7‑7—Modifications of record keeping and reporting requirements by regulations** 
+**Part 7-7—Modifications of record keeping and reporting requirements by regulations** 
 
     **Division 368—Modifications of record keeping and reporting requirements by regulations**
 
-[368‑1](#368‑1).     Modification by regulations
+[368-1](#368-1).     Modification by regulations
 
-**Part 7‑8—Books** 
+**Part 7-8—Books** 
 
     **Division 373—Introduction**
 
-[373‑1](#373‑1).     What this Part is about
+[373-1](#373-1).     What this Part is about
 
     **Division 376—When and where may books be inspected?**
 
-[376‑1](#376‑1).     Inspection of books
+[376-1](#376-1).     Inspection of books
 
-[376‑5](#376‑5).     Translations of instruments and books
+[376-5](#376-5).     Translations of instruments and books
 
-[376‑10](#376‑10).   Court may compel compliance
+[376-10](#376-10).   Court may compel compliance
 
-[376‑15](#376‑15).   Admissibility of books in evidence
+[376-15](#376-15).   Admissibility of books in evidence
 
-[376‑20](#376‑20).   Form of books
+[376-20](#376-20).   Form of books
 
-[376‑25](#376‑25).   Protection of books
+[376-25](#376-25).   Protection of books
 
-[376‑30](#376‑30).   Evidentiary value
+[376-30](#376-30).   Evidentiary value
 
-[376‑35](#376‑35).   Falsification of books
+[376-35](#376-35).   Falsification of books
 
 **Chapter 8—Civil consequences of contravening civil penalty provisions** 
 
     **Division 386—Civil consequences of contravening civil penalty provisions**
 
-[386‑1](#386‑1).     Declarations of contravention
+[386-1](#386-1).     Declarations of contravention
 
-[386‑5](#386‑5).     Declaration of contravention is conclusive evidence
+[386-5](#386-5).     Declaration of contravention is conclusive evidence
 
-[386‑10](#386‑10).   Pecuniary penalty orders
+[386-10](#386-10).   Pecuniary penalty orders
 
-[386‑15](#386‑15).   Compensation orders—civil penalty provisions
+[386-15](#386-15).   Compensation orders—civil penalty provisions
 
-[386‑20](#386‑20).   Who may apply for a declaration or order
+[386-20](#386-20).   Who may apply for a declaration or order
 
-[386‑25](#386‑25).   Time limit for application for a declaration or order
+[386-25](#386-25).   Time limit for application for a declaration or order
 
-[386‑30](#386‑30).   Civil evidence and procedure rules for declarations of contravention and civil penalty orders
+[386-30](#386-30).   Civil evidence and procedure rules for declarations of contravention and civil penalty orders
 
-[386‑35](#386‑35).   Civil proceedings after criminal proceedings
+[386-35](#386-35).   Civil proceedings after criminal proceedings
 
-[386‑40](#386‑40).   Criminal proceedings during civil proceedings
+[386-40](#386-40).   Criminal proceedings during civil proceedings
 
-[386‑45](#386‑45).   Criminal proceedings after civil proceedings
+[386-45](#386-45).   Criminal proceedings after civil proceedings
 
-[386‑50](#386‑50).   Evidence given in proceedings for penalty not admissible in criminal proceedings
+[386-50](#386-50).   Evidence given in proceedings for penalty not admissible in criminal proceedings
 
-[386‑55](#386‑55).   Registrar requiring person to assist
+[386-55](#386-55).   Registrar requiring person to assist
 
-[386‑60](#386‑60).   Relief from liability for contravention of civil penalty provision
+[386-60](#386-60).   Relief from liability for contravention of civil penalty provision
 
 **Chapter 9—Lodgments and registers** 
 
-**Part 9‑1—Introduction** 
+**Part 9-1—Introduction** 
 
     **Division 396—Introduction**
 
-[396‑1](#396‑1).     What this Chapter is about
+[396-1](#396-1).     What this Chapter is about
 
-**Part 9‑2—Lodgments with the Registrar** 
+**Part 9-2—Lodgments with the Registrar** 
 
     **Division 401—Introduction**
 
-[401‑1](#401‑1).     What this Part is about
+[401-1](#401-1).     What this Part is about
 
     **Division 404—What is the form in which documents may be lodged?**
 
-[404‑1](#404‑1).     Forms for documents to be lodged with the Registrar
+[404-1](#404-1).     Forms for documents to be lodged with the Registrar
 
-[404‑5](#404‑5).     Signing documents lodged with the Registrar
+[404-5](#404-5).     Signing documents lodged with the Registrar
 
-[404‑10](#404‑10).   Documents lodged with the Registrar electronically
+[404-10](#404-10).   Documents lodged with the Registrar electronically
 
-[404‑15](#404‑15).   Relodging of lost registered documents
+[404-15](#404-15).   Relodging of lost registered documents
 
     **Division 407—Registrar’s powers**
 
-[407‑1](#407‑1).     Registrar may refuse to receive or register documents
+[407-1](#407-1).     Registrar may refuse to receive or register documents
 
-[407‑5](#407‑5).     Registrar may require additional information
+[407-5](#407-5).     Registrar may require additional information
 
-[407‑10](#407‑10).   Registrar may require information from persons on a register
+[407-10](#407-10).   Registrar may require information from persons on a register
 
-[407‑15](#407‑15).   Telephone or email notice of certain changes
+[407-15](#407-15).   Telephone or email notice of certain changes
 
-[407‑20](#407‑20).   Registrar may destroy or dispose of lodged documents
+[407-20](#407-20).   Registrar may destroy or dispose of lodged documents
 
     **Division 410—Courts power if documents not lodged**
 
-[410‑1](#410‑1).     Court may make certain orders
+[410-1](#410-1).     Court may make certain orders
 
-**Part 9‑3—Registers** 
+**Part 9-3—Registers** 
 
     **Division 415—Introduction**
 
-[415‑1](#415‑1).     What this Part is about
+[415-1](#415-1).     What this Part is about
 
     **Division 418—Registers to be kept**
 
-[418‑1](#418‑1).     Registers
+[418-1](#418-1).     Registers
 
-[418‑5](#418‑5).     Form of registers
+[418-5](#418-5).     Form of registers
 
-[418‑10](#418‑10).   Register of Aboriginal and Torres Strait Islander Corporations
+[418-10](#418-10).   Register of Aboriginal and Torres Strait Islander Corporations
 
-[418‑15](#418‑15).   Register of Disqualified Officers
+[418-15](#418-15).   Register of Disqualified Officers
 
     **Division 421—What information may a person obtain from the Registrar?**
 
-[421‑1](#421‑1).     Inspection and production of records
+[421-1](#421-1).     Inspection and production of records
 
-[421‑5](#421‑5).     Requests and certification of copy or extract etc 
+[421-5](#421-5).     Requests and certification of copy or extract etc 
 
     **Division 424—Validity and use of information etc. obtained from a register**
 
-[424‑1](#424‑1).     Validity of copy or extract
+[424-1](#424-1).     Validity of copy or extract
 
-[424‑5](#424‑5).     Use in court proceedings etc  of documents issued by Registrar
+[424-5](#424-5).     Use in court proceedings etc  of documents issued by Registrar
 
-[424‑10](#424‑10).   Registrar’s certificate that person was a director etc 
+[424-10](#424-10).   Registrar’s certificate that person was a director etc 
 
 **Chapter 10—Regulation and enforcement** 
 
-**Part 10‑1—Introduction** 
+**Part 10-1—Introduction** 
 
     **Division 434—Introduction**
 
-[434‑1](#434‑1).     What this Chapter is about
+[434-1](#434-1).     What this Chapter is about
 
-**Part 10‑2—Regulation of Aboriginal and Torres Strait Islander corporations** 
+**Part 10-2—Regulation of Aboriginal and Torres Strait Islander corporations** 
 
     **Division 439—Regulation of Aboriginal and Torres Strait Islander corporations**
 
-[439‑1](#439‑1).     What this Part is about
+[439-1](#439-1).     What this Part is about
 
-[439‑5](#439‑5).     Registrar may convene meetings of interested persons
+[439-5](#439-5).     Registrar may convene meetings of interested persons
 
-[439‑10](#439‑10).   Registrar may call a general meeting (other than an AGM)
+[439-10](#439-10).   Registrar may call a general meeting (other than an AGM)
 
-[439‑15](#439‑15).   Registrar may call an AGM
+[439-15](#439-15).   Registrar may call an AGM
 
-[439‑20](#439‑20).   Registrar may require compliance with Act etc 
+[439-20](#439-20).   Registrar may require compliance with Act etc 
 
-**Part 10‑3—Enforcement** 
+**Part 10-3—Enforcement** 
 
     **Division 444—Introduction**
 
-[444‑1](#444‑1).     What this Part is about
+[444-1](#444-1).     What this Part is about
 
     **Division 447—Authorised officers**
 
-[447‑1](#447‑1).     Appointment of authorised officers
+[447-1](#447-1).     Appointment of authorised officers
 
-[447‑5](#447‑5).     Identity cards
+[447-5](#447-5).     Identity cards
 
     **Division 450—Purposes for which powers under this Part may be exercised**
 
-[450‑1](#450‑1).     Purposes for which power under this Part may be exercised
+[450-1](#450-1).     Purposes for which power under this Part may be exercised
 
     **Division 453—Examination of books and persons**
 
-[453‑1](#453‑1).     Examination of books
+[453-1](#453-1).     Examination of books
 
-[453‑5](#453‑5).     Production of books or attendance to answer questions
+[453-5](#453-5).     Production of books or attendance to answer questions
 
-[453‑10](#453‑10).   Remuneration of authorised officer
+[453-10](#453-10).   Remuneration of authorised officer
 
     **Division 456—Warrants for books not produced** 
 
-        **Subdivision 456‑A—Warrants applied for in person**
+        **Subdivision 456-A—Warrants applied for in person**
 
-[456‑1](#456‑1).     Application for warrant to seize books not produced
+[456-1](#456-1).     Application for warrant to seize books not produced
 
-[456‑5](#456‑5).     Grant of warrant
+[456-5](#456-5).     Grant of warrant
 
-[456‑10](#456‑10).   Powers where books produced or seized
+[456-10](#456-10).   Powers where books produced or seized
 
-        **Subdivision 456‑B—Warrants by telephone or other electronic means**
+        **Subdivision 456-B—Warrants by telephone or other electronic means**
 
-[456‑15](#456‑15).   Applying for warrants by telephone or other electronic means
+[456-15](#456-15).   Applying for warrants by telephone or other electronic means
 
-[456‑20](#456‑20).   Issuing warrants by telephone etc 
+[456-20](#456-20).   Issuing warrants by telephone etc 
 
-[456‑25](#456‑25).   Unsigned warrants by telephone etc  in court proceedings
+[456-25](#456-25).   Unsigned warrants by telephone etc  in court proceedings
 
-        **Subdivision 456‑C—Offences relating to warrants by telephone or other electronic means**
+        **Subdivision 456-C—Offences relating to warrants by telephone or other electronic means**
 
-[456‑30](#456‑30).   Offence for stating incorrect names in warrants by telephone etc 
+[456-30](#456-30).   Offence for stating incorrect names in warrants by telephone etc 
 
-[456‑35](#456‑35).   Offence for unauthorised form of warrant
+[456-35](#456-35).   Offence for unauthorised form of warrant
 
-[456‑40](#456‑40).   Offence for execution etc  of unauthorised form of warrant
+[456-40](#456-40).   Offence for execution etc  of unauthorised form of warrant
 
-[456‑45](#456‑45).   Offence for giving unexecuted form of warrant
+[456-45](#456-45).   Offence for giving unexecuted form of warrant
 
-        **Subdivision 456‑D—Warrant details to be given to occupier**
+        **Subdivision 456-D—Warrant details to be given to occupier**
 
-[456‑50](#456‑50).   Details of warrant to be given to occupier etc 
+[456-50](#456-50).   Details of warrant to be given to occupier etc 
 
-**Part 10‑4—Offences relating to regulatory and enforcement powers of Registrar** 
+**Part 10-4—Offences relating to regulatory and enforcement powers of Registrar** 
 
     **Division 461—Offences relating to regulatory and enforcement powers of Registrar**
 
-[461‑1](#461‑1).     Obstructing Registrar or interfering with meeting called by Registrar etc 
+[461-1](#461-1).     Obstructing Registrar or interfering with meeting called by Registrar etc 
 
-[461‑5](#461‑5).     False information
+[461-5](#461-5).     False information
 
-[461‑10](#461‑10).   Concealing books relevant to investigation
+[461-10](#461-10).   Concealing books relevant to investigation
 
-[461‑15](#461‑15).   Self‑incrimination
+[461-15](#461-15).   Self-incrimination
 
-**Part 10‑5—Protection for whistleblowers** 
+**Part 10-5—Protection for whistleblowers** 
 
     **Division 466—Which disclosures qualify for protection under this Part?**
 
-[466‑1](#466‑1).     Disclosures qualifying for protection
+[466-1](#466-1).     Disclosures qualifying for protection
 
     **Division 469—Effects of disclosure**
 
-[469‑1](#469‑1).     Disclosure that qualifies for protection not actionable etc 
+[469-1](#469-1).     Disclosure that qualifies for protection not actionable etc 
 
-[469‑5](#469‑5).     Victimisation prohibited
+[469-5](#469-5).     Victimisation prohibited
 
-[469‑10](#469‑10).   Right to compensation
+[469-10](#469-10).   Right to compensation
 
     **Division 472—Confidentiality requirement**
 
-[472‑1](#472‑1).     Confidentiality requirements for corporations, corporation officers and employees and auditors
+[472-1](#472-1).     Confidentiality requirements for corporations, corporation officers and employees and auditors
 
 **Chapter 11—External administration** 
 
-**Part 11‑1—Introduction** 
+**Part 11-1—Introduction** 
 
     **Division 482—Introduction**
 
-[482‑1](#482‑1).     What this Chapter is about
+[482-1](#482-1).     What this Chapter is about
 
-**Part 11‑2—Special administration** 
+**Part 11-2—Special administration** 
 
     **Division 487—Special administration of Aboriginal and Torres Strait Islander corporation**
 
-[487‑1](#487‑1).     Registrar may put Aboriginal and Torres Strait Islander corporation under special administration
+[487-1](#487-1).     Registrar may put Aboriginal and Torres Strait Islander corporation under special administration
 
-[487‑5](#487‑5).     Grounds for special administration
+[487-5](#487-5).     Grounds for special administration
 
-[487‑10](#487‑10).   Show cause notice procedure
+[487-10](#487-10).   Show cause notice procedure
 
-[487‑15](#487‑15).   Extension of period of special administration
+[487-15](#487-15).   Extension of period of special administration
 
-[487‑20](#487‑20).   Registrar may terminate special administration
+[487-20](#487-20).   Registrar may terminate special administration
 
-[487‑25](#487‑25).   References to corporation under special administration
+[487-25](#487-25).   References to corporation under special administration
 
     **Division 490—Appointment of special administrator**
 
-[490‑1](#490‑1).     Registrar may appoint special administrator
+[490-1](#490-1).     Registrar may appoint special administrator
 
-[490‑5](#490‑5).     Period of appointment
+[490-5](#490-5).     Period of appointment
 
     **Division 493—Notice requirements**
 
-[493‑1](#493‑1).     Notice of special administration determination or appointment of special administrator
+[493-1](#493-1).     Notice of special administration determination or appointment of special administrator
 
     **Division 496—Effect of appointment of special administrator on officers of the corporation**
 
-[496‑1](#496‑1).     General rule that offices of directors and secretary vacated when special administrator appointed
+[496-1](#496-1).     General rule that offices of directors and secretary vacated when special administrator appointed
 
-[496‑5](#496‑5).     Registrar may determine that offices not vacated in certain circumstances
+[496-5](#496-5).     Registrar may determine that offices not vacated in certain circumstances
 
-[496‑10](#496‑10).   Powers of officers can only be exercised by, or with the consent of, special administrator
+[496-10](#496-10).   Powers of officers can only be exercised by, or with the consent of, special administrator
 
-[496‑15](#496‑15).   Only special administrator can deal with corporation’s property
+[496-15](#496-15).   Only special administrator can deal with corporation’s property
 
-[496‑20](#496‑20).   Order for compensation where officer involved in void transaction
+[496-20](#496-20).   Order for compensation where officer involved in void transaction
 
     **Division 499—Function, duties and powers of special administrator**
 
-[499‑1](#499‑1).     Function of special administrator
+[499-1](#499-1).     Function of special administrator
 
-[499‑5](#499‑5).     Powers of special administrator
+[499-5](#499-5).     Powers of special administrator
 
-[499‑10](#499‑10).   Applying Corporations Act provisions to Aboriginal and Torres Strait Islander corporation that is under special administration
+[499-10](#499-10).   Applying Corporations Act provisions to Aboriginal and Torres Strait Islander corporation that is under special administration
 
     **Division 502—Special administrator to report to Registrar**
 
-[502‑1](#502‑1).     Report to Registrar
+[502-1](#502-1).     Report to Registrar
 
     **Division 505—Termination of special administrator’s appointment**
 
-[505‑1](#505‑1).     Termination of appointment of special administrator
+[505-1](#505-1).     Termination of appointment of special administrator
 
-[505‑5](#505‑5).     Grounds for terminating appointment
+[505-5](#505-5).     Grounds for terminating appointment
 
-[505‑10](#505‑10).   Registrar to appoint new special administrator in certain circumstances
+[505-10](#505-10).   Registrar to appoint new special administrator in certain circumstances
 
     **Division 508—Transition to normal control of the corporation’s affairs at end of special administration**
 
-[508‑1](#508‑1).     Special administrator to ensure that there will be directors when corporation ceases to be under special administration
+[508-1](#508-1).     Special administrator to ensure that there will be directors when corporation ceases to be under special administration
 
-[508‑5](#508‑5).     Election of directors to take over affairs of corporation when corporation ceases to be under special administration
+[508-5](#508-5).     Election of directors to take over affairs of corporation when corporation ceases to be under special administration
 
     **Division 511—Miscellaneous**
 
-[511‑1](#511‑1).     Remuneration of special administrator
+[511-1](#511-1).     Remuneration of special administrator
 
-**Part 11‑3—Receivers, and other controllers, of property of corporations** 
+**Part 11-3—Receivers, and other controllers, of property of corporations** 
 
     **Division 516—Receivers, and other controllers, of property of corporations**
 
-[516‑1](#516‑1).     Applying Corporations Act receiver provisions to Aboriginal and Torres Strait Islander corporations
+[516-1](#516-1).     Applying Corporations Act receiver provisions to Aboriginal and Torres Strait Islander corporations
 
-**Part 11‑4—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement** 
+**Part 11-4—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement** 
 
     **Division 521—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement**
 
-[521‑1](#521‑1).     Applying Corporations Act administration provisions to Aboriginal and Torres Strait Islander corporations
+[521-1](#521-1).     Applying Corporations Act administration provisions to Aboriginal and Torres Strait Islander corporations
 
-[521‑5](#521‑5).     Administrator’s capacity to act as trustee
+[521-5](#521-5).     Administrator’s capacity to act as trustee
 
-[521‑10](#521‑10).   Corporations Act administrator cannot be appointed if special administrator appointed
+[521-10](#521-10).   Corporations Act administrator cannot be appointed if special administrator appointed
 
-[521‑15](#521‑15).   Effect of appointment of special administrator on Corporations Act administrator
+[521-15](#521-15).   Effect of appointment of special administrator on Corporations Act administrator
 
-**Part 11‑5—Winding up** 
+**Part 11-5—Winding up** 
 
     **Division 526—Winding up**
 
-[526‑1](#526‑1).     Court may order winding up
+[526-1](#526-1).     Court may order winding up
 
-[526‑5](#526‑5).     Grounds for Court ordered winding up
+[526-5](#526-5).     Grounds for Court ordered winding up
 
-[526‑10](#526‑10).   Acts etc  done to comply with Native Title legislation requirement
+[526-10](#526-10).   Acts etc  done to comply with Native Title legislation requirement
 
-[526‑15](#526‑15).   Who may apply to court for winding up order
+[526-15](#526-15).   Who may apply to court for winding up order
 
-[526‑20](#526‑20).   Voluntary winding up
+[526-20](#526-20).   Voluntary winding up
 
-[526‑25](#526‑25).   Distribution of surplus assets in winding up by Court
+[526-25](#526-25).   Distribution of surplus assets in winding up by Court
 
-[526‑30](#526‑30).   Distribution of surplus assets in voluntary winding up
+[526-30](#526-30).   Distribution of surplus assets in voluntary winding up
 
-[526‑35](#526‑35).   Applying Corporations Act winding up provisions to Aboriginal and Torres Strait Islander corporations
+[526-35](#526-35).   Applying Corporations Act winding up provisions to Aboriginal and Torres Strait Islander corporations
 
-[526‑40](#526‑40).   Application of Corporations Act pre‑winding up provisions
+[526-40](#526-40).   Application of Corporations Act pre-winding up provisions
 
-**Part 11‑6—Insolvent trading** 
+**Part 11-6—Insolvent trading** 
 
     **Division 531—Insolvent trading**
 
-[531‑1](#531‑1).     Applying Corporations Act insolvent trading provisions to Aboriginal and Torres Strait Islander corporations
+[531-1](#531-1).     Applying Corporations Act insolvent trading provisions to Aboriginal and Torres Strait Islander corporations
 
-[531‑5](#531‑5).     Section 588G of Corporations Act prevails over conflicting Native Title legislation obligations
+[531-5](#531-5).     Section 588G of Corporations Act prevails over conflicting Native Title legislation obligations
 
-**Part 11‑7—Employees’ entitlements** 
+**Part 11-7—Employees’ entitlements** 
 
     **Division 536—Employees’ entitlements**
 
-[536‑1](#536‑1).     Applying Corporations Act employees’ entitlements provisions to Aboriginal and Torres Strait Islander corporations
+[536-1](#536-1).     Applying Corporations Act employees’ entitlements provisions to Aboriginal and Torres Strait Islander corporations
 
 **Chapter 12—Transfer of registration, deregistration and unclaimed property** 
 
-**Part 12‑1—Transfer of registration to another system** 
+**Part 12-1—Transfer of registration to another system** 
 
     **Division 540—Transfer of registration**
 
-[540‑1](#540‑1).     Transferring registration
+[540-1](#540-1).     Transferring registration
 
-[540‑5](#540‑5).     Applying to transfer registration
+[540-5](#540-5).     Applying to transfer registration
 
-[540‑10](#540‑10).   Registrar makes transfer of registration declaration
+[540-10](#540-10).   Registrar makes transfer of registration declaration
 
-[540‑15](#540‑15).   Registrar to deregister corporation
+[540-15](#540-15).   Registrar to deregister corporation
 
-**Part 12‑2—Deregistration** 
+**Part 12-2—Deregistration** 
 
     **Division 546—Deregistration**
 
-[546‑1](#546‑1).     Deregistration—voluntary
+[546-1](#546-1).     Deregistration—voluntary
 
-[546‑5](#546‑5).     Deregistration—Registrar initiated
+[546-5](#546-5).     Deregistration—Registrar initiated
 
-[546‑10](#546‑10).   Deregistration—following amalgamation or winding up
+[546-10](#546-10).   Deregistration—following amalgamation or winding up
 
-[546‑15](#546‑15).   Registered native title body corporate
+[546-15](#546-15).   Registered native title body corporate
 
-[546‑20](#546‑20).   Effect of deregistration
+[546-20](#546-20).   Effect of deregistration
 
-[546‑25](#546‑25).   What the Registrar does with the property
+[546-25](#546-25).   What the Registrar does with the property
 
-[546‑30](#546‑30).   Registrar’s power to fulfil outstanding obligations of deregistered corporation
+[546-30](#546-30).   Registrar’s power to fulfil outstanding obligations of deregistered corporation
 
-[546‑35](#546‑35).   Claims against insurers of deregistered corporation
+[546-35](#546-35).   Claims against insurers of deregistered corporation
 
-[546‑40](#546‑40).   Reinstatement
+[546-40](#546-40).   Reinstatement
 
-[546‑45](#546‑45).   Regulations may modify Division in relation to statutory Indigenous land trusts
+[546-45](#546-45).   Regulations may modify Division in relation to statutory Indigenous land trusts
 
-**Part 12‑3—Unclaimed property** 
+**Part 12-3—Unclaimed property** 
 
     **Division 551—Unclaimed property**
 
-[551‑1](#551‑1).     Unclaimed property
+[551-1](#551-1).     Unclaimed property
 
-[551‑5](#551‑5).     Registrar to deal with unclaimed property
+[551-5](#551-5).     Registrar to deal with unclaimed property
 
-[551‑10](#551‑10).   Registrar and Commonwealth not liable to pay calls on shares etc 
+[551-10](#551-10).   Registrar and Commonwealth not liable to pay calls on shares etc 
 
-[551‑15](#551‑15).   Disposition of money that is unclaimed property etc 
+[551-15](#551-15).   Disposition of money that is unclaimed property etc 
 
-[551‑20](#551‑20).   Establishment of the Aboriginal and Torres Strait Islander Corporations Unclaimed Money Account
+[551-20](#551-20).   Establishment of the Aboriginal and Torres Strait Islander Corporations Unclaimed Money Account
 
-[551‑25](#551‑25).   Credits of amounts to Account
+[551-25](#551-25).   Credits of amounts to Account
 
-[551‑30](#551‑30).   Purposes of Account
+[551-30](#551-30).   Purposes of Account
 
-[551‑35](#551‑35).   Claims of disposition of money to incorrect payee
+[551-35](#551-35).   Claims of disposition of money to incorrect payee
 
-[551‑40](#551‑40).   Commonwealth or Registrar not liable for loss or damage
+[551-40](#551-40).   Commonwealth or Registrar not liable for loss or damage
 
 **Chapter 13—Offences** 
 
-**Part 13‑1—Offences about false or misleading statements etc.** 
+**Part 13-1—Offences about false or misleading statements etc.** 
 
     **Division 561—Offences about false or misleading statements etc.**
 
-[561‑1](#561‑1).     False or misleading statements
+[561-1](#561-1).     False or misleading statements
 
-[561‑5](#561‑5).     False information etc 
+[561-5](#561-5).     False information etc 
 
-**Part 13‑2—General matters relating to offences** 
+**Part 13-2—General matters relating to offences** 
 
     **Division 566—General matters relating to offences**
 
-[566‑1](#566‑1).     Penalties for bodies corporate
+[566-1](#566-1).     Penalties for bodies corporate
 
-[566‑5](#566‑5).     Penalty notices
+[566-5](#566-5).     Penalty notices
 
-[566‑10](#566‑10).   Continuing offences
+[566-10](#566-10).   Continuing offences
 
-[566‑15](#566‑15).   Time for instituting criminal proceedings
+[566-15](#566-15).   Time for instituting criminal proceedings
 
-[566‑20](#566‑20).   Privilege against self‑incrimination not available to bodies corporate in certain proceedings
+[566-20](#566-20).   Privilege against self-incrimination not available to bodies corporate in certain proceedings
 
-[566‑25](#566‑25).   Certain persons to assist in prosecutions
+[566-25](#566-25).   Certain persons to assist in prosecutions
 
 **Chapter 14—Courts and proceedings** 
 
-**Part 14‑1—Powers of courts** 
+**Part 14-1—Powers of courts** 
 
     **Division 576—Powers of courts**
 
-[576‑1](#576‑1).     Power to grant relief
+[576-1](#576-1).     Power to grant relief
 
-[576‑5](#576‑5).     Power of Court to give directions with respect to meetings ordered by the Court
+[576-5](#576-5).     Power of Court to give directions with respect to meetings ordered by the Court
 
-[576‑10](#576‑10).   Appeals from decisions of receivers, liquidators etc 
+[576-10](#576-10).   Appeals from decisions of receivers, liquidators etc 
 
-[576‑15](#576‑15).   Irregularities
+[576-15](#576-15).   Irregularities
 
-[576‑20](#576‑20).   Power of Court to prohibit payment or transfer of money, financial products or other property
+[576-20](#576-20).   Power of Court to prohibit payment or transfer of money, financial products or other property
 
-[576‑25](#576‑25).   Injunctions
+[576-25](#576-25).   Injunctions
 
-[576‑30](#576‑30).   Effect of sections 576‑20 and 576‑25
+[576-30](#576-30).   Effect of sections 576-20 and 576-25
 
-[576‑35](#576‑35).   Power of Court to punish for contempt of Court
+[576-35](#576-35).   Power of Court to punish for contempt of Court
 
-**Part 14‑2—Proceedings** 
+**Part 14-2—Proceedings** 
 
     **Division 581—Proceedings**
 
-[581‑1](#581‑1).     The Registrar’s power to intervene in proceedings
+[581-1](#581-1).     The Registrar’s power to intervene in proceedings
 
-[581‑5](#581‑5).     Civil proceedings not to be stayed
+[581-5](#581-5).     Civil proceedings not to be stayed
 
-[581‑10](#581‑10).   Standard of proof
+[581-10](#581-10).   Standard of proof
 
-[581‑15](#581‑15).   Evidence of contravention
+[581-15](#581-15).   Evidence of contravention
 
-[581‑20](#581‑20).   Costs
+[581-20](#581-20).   Costs
 
-[581‑25](#581‑25).   Vesting of property
+[581-25](#581-25).   Vesting of property
 
-**Part 14‑3—Jurisdiction and procedure of courts** 
+**Part 14-3—Jurisdiction and procedure of courts** 
 
     **Division 586—Civil jurisdiction** 
 
-        **Subdivision 586‑A—Introduction**
+        **Subdivision 586-A—Introduction**
 
-[586‑1](#586‑1).     Operation of Division
+[586-1](#586-1).     Operation of Division
 
-        **Subdivision 586‑B—Conferral of jurisdiction**
+        **Subdivision 586-B—Conferral of jurisdiction**
 
-[586‑5](#586‑5).     Jurisdiction of Federal Court and State and Territory Supreme Courts
+[586-5](#586-5).     Jurisdiction of Federal Court and State and Territory Supreme Courts
 
-[586‑10](#586‑10).   Jurisdiction of Family Court and State Family Courts
+[586-10](#586-10).   Jurisdiction of Family Court and State Family Courts
 
-[586‑15](#586‑15).   Jurisdiction of courts (decisions to prosecute and related criminal justice process decisions made by Commonwealth officers)
+[586-15](#586-15).   Jurisdiction of courts (decisions to prosecute and related criminal justice process decisions made by Commonwealth officers)
 
-[586‑20](#586‑20).   Jurisdiction of lower courts
+[586-20](#586-20).   Jurisdiction of lower courts
 
-[586‑25](#586‑25).   Appeals
+[586-25](#586-25).   Appeals
 
-[586‑30](#586‑30).   Courts to act in aid of each other
+[586-30](#586-30).   Courts to act in aid of each other
 
-        **Subdivision 586‑C—Transfer of proceedings**
+        **Subdivision 586-C—Transfer of proceedings**
 
-[586‑35](#586‑35).   Transfer of proceedings by the Federal Court and State and Territory Supreme Courts
+[586-35](#586-35).   Transfer of proceedings by the Federal Court and State and Territory Supreme Courts
 
-[586‑40](#586‑40).   Transfer of proceedings by Family Court and State Family Courts
+[586-40](#586-40).   Transfer of proceedings by Family Court and State Family Courts
 
-[586‑45](#586‑45).   Transfer of proceedings in lower courts
+[586-45](#586-45).   Transfer of proceedings in lower courts
 
-[586‑50](#586‑50).   Further matters for a court to consider when deciding whether to transfer a proceeding
+[586-50](#586-50).   Further matters for a court to consider when deciding whether to transfer a proceeding
 
-[586‑55](#586‑55).   Transfer may be made at any stage
+[586-55](#586-55).   Transfer may be made at any stage
 
-[586‑60](#586‑60).   Transfer of documents
+[586-60](#586-60).   Transfer of documents
 
-[586‑65](#586‑65).   Conduct of proceedings
+[586-65](#586-65).   Conduct of proceedings
 
-[586‑70](#586‑70).   Rights of appearance
+[586-70](#586-70).   Rights of appearance
 
-[586‑75](#586‑75).   Limitation on appeals
+[586-75](#586-75).   Limitation on appeals
 
-        **Subdivision 586‑D—Rules of court**
+        **Subdivision 586-D—Rules of court**
 
-[586‑80](#586‑80).   Rules of the Federal Court
+[586-80](#586-80).   Rules of the Federal Court
 
-[586‑85](#586‑85).   Rules of the Supreme Court
+[586-85](#586-85).   Rules of the Supreme Court
 
-[586‑90](#586‑90).   Rules of the Family Court
+[586-90](#586-90).   Rules of the Family Court
 
     **Division 589—Criminal jurisdiction**
 
-[589‑1](#589‑1).     Operation of Division
+[589-1](#589-1).     Operation of Division
 
-[589‑5](#589‑5).     Jurisdiction of courts
+[589-5](#589-5).     Jurisdiction of courts
 
-[589‑10](#589‑10).   Laws to be applied
+[589-10](#589-10).   Laws to be applied
 
 **Chapter 15—Administration** 
 
-**Part 15‑1—Introduction** 
+**Part 15-1—Introduction** 
 
     **Division 599—Introduction**
 
-[599‑1](#599‑1).     What this Chapter is about
+[599-1](#599-1).     What this Chapter is about
 
-**Part 15‑2—Protection of information** 
+**Part 15-2—Protection of information** 
 
     **Division 604—Protection of information**
 
-[604‑1](#604‑1).     What this Part is about
+[604-1](#604-1).     What this Part is about
 
-[604‑5](#604‑5).     Protected information
+[604-5](#604-5).     Protected information
 
-[604‑10](#604‑10).   Registrar’s obligations in relation to protected information
+[604-10](#604-10).   Registrar’s obligations in relation to protected information
 
-[604‑15](#604‑15).   Special administrator’s obligations in relation to protected information
+[604-15](#604-15).   Special administrator’s obligations in relation to protected information
 
-[604‑20](#604‑20).   Consultant’s obligations in relation to protected information
+[604-20](#604-20).   Consultant’s obligations in relation to protected information
 
-[604‑25](#604‑25).   Authorised use or disclosure
+[604-25](#604-25).   Authorised use or disclosure
 
-**Part 15‑3—Protection from liability for Registrar, Minister etc.** 
+**Part 15-3—Protection from liability for Registrar, Minister etc.** 
 
     **Division 609—Protection from liability for Registrar, Minister etc.**
 
-[609‑1](#609‑1).     Protection from liability for Minister, Registrar etc 
+[609-1](#609-1).     Protection from liability for Minister, Registrar etc 
 
-**Part 15‑4—Review of decisions** 
+**Part 15-4—Review of decisions** 
 
     **Division 614—Introduction**
 
-[614‑1](#614‑1).     What this Part is about
+[614-1](#614-1).     What this Part is about
 
     **Division 617—Reviewable decisions**
 
-[617‑1](#617‑1).     Reviewable decisions
+[617-1](#617-1).     Reviewable decisions
 
-[617‑5](#617‑5).     Deadlines for making reviewable decisions
+[617-5](#617-5).     Deadlines for making reviewable decisions
 
-[617‑10](#617‑10).   Notice of reviewable decision and review rights
+[617-10](#617-10).   Notice of reviewable decision and review rights
 
     **Division 620—Internal review of reviewable decisions**
 
-[620‑1](#620‑1).     Registrar may reconsider reviewable decisions on own initiative
+[620-1](#620-1).     Registrar may reconsider reviewable decisions on own initiative
 
-[620‑5](#620‑5).     Reconsideration of reviewable decisions
+[620-5](#620-5).     Reconsideration of reviewable decisions
 
     **Division 623—AAT review of reviewable decisions**
 
-[623‑1](#623‑1).     AAT review of reviewable decisions
+[623-1](#623-1).     AAT review of reviewable decisions
 
-**Part 15‑5—Fees** 
+**Part 15-5—Fees** 
 
     **Division 628—Fees**
 
-[628‑1](#628‑1).     Fees
+[628-1](#628-1).     Fees
 
-[628‑5](#628‑5).     Lodgment of document without payment of fee
+[628-5](#628-5).     Lodgment of document without payment of fee
 
-[628‑10](#628‑10).   Doing act without payment of fee
+[628-10](#628-10).   Doing act without payment of fee
 
-[628‑15](#628‑15).   Effect of sections 628‑5 and 628‑10
+[628-15](#628-15).   Effect of sections 628-5 and 628-10
 
-[628‑20](#628‑20).   Debt due to the Commonwealth
+[628-20](#628-20).   Debt due to the Commonwealth
 
-[628‑25](#628‑25).   Payment of fee does not give right to inspect or search
+[628-25](#628-25).   Payment of fee does not give right to inspect or search
 
-**Part 15‑6—Regulations** 
+**Part 15-6—Regulations** 
 
     **Division 633—Regulations**
 
-[633‑1](#633‑1).     General regulation making power
+[633-1](#633-1).     General regulation making power
 
-[633‑5](#633‑5).     Regulations concerning registered native title bodies corporate
+[633-5](#633-5).     Regulations concerning registered native title bodies corporate
 
-**Part 15‑7—Approved forms** 
+**Part 15-7—Approved forms** 
 
     **Division 638—Approved forms**
 
-[638‑1](#638‑1).     Registrar may approve forms
+[638-1](#638-1).     Registrar may approve forms
 
 **Chapter 16—Registrar and Deputy Registrars of Aboriginal and Torres Strait Islander Corporations** 
 
-**Part 16‑1—Introduction** 
+**Part 16-1—Introduction** 
 
     **Division 648—Introduction**
 
-[648‑1](#648‑1).     What this Chapter is about
+[648-1](#648-1).     What this Chapter is about
 
-**Part 16‑2—Appointment of the Registrar and Deputy Registrars** 
+**Part 16-2—Appointment of the Registrar and Deputy Registrars** 
 
     **Division 653—Appointment of Registrar and Deputy Registrars**
 
-[653‑1](#653‑1).     Registrar of Aboriginal and Torres Strait Islander Corporations
+[653-1](#653-1).     Registrar of Aboriginal and Torres Strait Islander Corporations
 
-[653‑5](#653‑5).     Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
+[653-5](#653-5).     Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
 
-**Part 16‑3—Registrar’s functions and powers** 
+**Part 16-3—Registrar’s functions and powers** 
 
     **Division 658—Registrar’s functions and powers**
 
-[658‑1](#658‑1).     Functions of the Registrar
+[658-1](#658-1).     Functions of the Registrar
 
-[658‑5](#658‑5).     Aims of the Registrar
+[658-5](#658-5).     Aims of the Registrar
 
-[658‑10](#658‑10).   Powers of the Registrar
+[658-10](#658-10).   Powers of the Registrar
 
-[658‑15](#658‑15).   Registrar to have a seal
+[658-15](#658-15).   Registrar to have a seal
 
-[658‑20](#658‑20).   Judicial notice of certain matters
+[658-20](#658-20).   Judicial notice of certain matters
 
-**Part 16‑4—Matters concerning the Registrar’s and Deputy Registrars’ appointments** 
+**Part 16-4—Matters concerning the Registrar’s and Deputy Registrars’ appointments** 
 
     **Division 663—Matters concerning the Registrar’s and Deputy Registrars’ appointments**
 
-[663‑1](#663‑1).     Registrar’s remuneration
+[663-1](#663-1).     Registrar’s remuneration
 
-[663‑5](#663‑5).     Resignation
+[663-5](#663-5).     Resignation
 
-[663‑10](#663‑10).   Termination of Registrar’s appointment
+[663-10](#663-10).   Termination of Registrar’s appointment
 
-[663‑15](#663‑15).   Termination of Deputy Registrar’s appointment
+[663-15](#663-15).   Termination of Deputy Registrar’s appointment
 
-[663‑20](#663‑20).   Disclosure of interests
+[663-20](#663-20).   Disclosure of interests
 
-[663‑25](#663‑25).   Acting appointments
+[663-25](#663-25).   Acting appointments
 
-[663‑30](#663‑30).   Leave of absence
+[663-30](#663-30).   Leave of absence
 
-[663‑35](#663‑35).   Outside employment
+[663-35](#663-35).   Outside employment
 
-**Part 16‑5—Delegation** 
+**Part 16-5—Delegation** 
 
     **Division 668—Delegation**
 
-[668‑1](#668‑1).     Delegation by Registrar
+[668-1](#668-1).     Delegation by Registrar
 
-[668‑5](#668‑5).     Sub‑delegation by Deputy Registrar
+[668-5](#668-5).     Sub-delegation by Deputy Registrar
 
-**Part 16‑6—Staffing** 
+**Part 16-6—Staffing** 
 
     **Division 673—Staffing**
 
-[673‑1](#673‑1).     Staff assisting the Registrar and Deputy Registrar
+[673-1](#673-1).     Staff assisting the Registrar and Deputy Registrar
 
-[673‑5](#673‑5).     Engagement of consultants etc  by the Registrar
+[673-5](#673-5).     Engagement of consultants etc  by the Registrar
 
 **Chapter 17—Interpreting this Act** 
 
-**Part 17‑1—Meaning of some important concepts** 
+**Part 17-1—Meaning of some important concepts** 
 
     **Division 683—Directors and officers of Aboriginal and Torres Strait Islander corporations**
 
-[683‑1](#683‑1).     Meaning of _director_ and _officer_
+[683-1](#683-1).     Meaning of _director_ and _officer_
 
     **Division 686—Associates**
 
-[686‑1](#686‑1).     Effect of Division
+[686-1](#686-1).     Effect of Division
 
-[686‑5](#686‑5).     Associates of bodies corporate
+[686-5](#686-5).     Associates of bodies corporate
 
-[686‑10](#686‑10).   General
+[686-10](#686-10).   General
 
-[686‑15](#686‑15).   Exclusions
+[686-15](#686-15).   Exclusions
 
     **Division 689—Subsidiaries and control**
 
-[689‑1](#689‑1).     What is a subsidiary
+[689-1](#689-1).     What is a subsidiary
 
-[689‑5](#689‑5).     Control of a body corporate’s board
+[689-5](#689-5).     Control of a body corporate’s board
 
-[689‑10](#689‑10).   Matters to be disregarded
+[689-10](#689-10).   Matters to be disregarded
 
-[689‑15](#689‑15).   References in this Division to a subsidiary
+[689-15](#689-15).   References in this Division to a subsidiary
 
-[689‑20](#689‑20).   Related bodies corporate
+[689-20](#689-20).   Related bodies corporate
 
-[689‑25](#689‑25).   Control
+[689-25](#689-25).   Control
 
-**Part 17‑2—Interpretation of other expressions** 
+**Part 17-2—Interpretation of other expressions** 
 
     **Division 694—Interpretation of other expressions**
 
-[694‑1](#694‑1).     Giving information
+[694-1](#694-1).     Giving information
 
-[694‑5](#694‑5).     Doing acts
+[694-5](#694-5).     Doing acts
 
-[694‑10](#694‑10).   Signing
+[694-10](#694-10).   Signing
 
-[694‑15](#694‑15).   Business affairs of a body corporate
+[694-15](#694-15).   Business affairs of a body corporate
 
-[694‑20](#694‑20).   Business affairs of a natural person
+[694-20](#694-20).   Business affairs of a natural person
 
-[694‑25](#694‑25).   Business affairs of a partnership
+[694-25](#694-25).   Business affairs of a partnership
 
-[694‑30](#694‑30).   Business affairs of a trust
+[694-30](#694-30).   Business affairs of a trust
 
-[694‑35](#694‑35).   Meaning of court and Court
+[694-35](#694-35).   Meaning of court and Court
 
-[694‑40](#694‑40).   Entities
+[694-40](#694-40).   Entities
 
-[694‑45](#694‑45).   Entities connected with a corporation (including an Aboriginal and Torres Strait Islander corporation)
+[694-45](#694-45).   Entities connected with a corporation (including an Aboriginal and Torres Strait Islander corporation)
 
-[694‑50](#694‑50).   Extension of period for doing an act
+[694-50](#694-50).   Extension of period for doing an act
 
-[694‑55](#694‑55).   Involvement in contraventions
+[694-55](#694-55).   Involvement in contraventions
 
-[694‑60](#694‑60).   Possession
+[694-60](#694-60).   Possession
 
-[694‑65](#694‑65).   Public document of a body corporate
+[694-65](#694-65).   Public document of a body corporate
 
-[694‑70](#694‑70).   Receivers and managers
+[694-70](#694-70).   Receivers and managers
 
-[694‑75](#694‑75).   Securities
+[694-75](#694-75).   Securities
 
-[694‑80](#694‑80).   Solvency and insolvency
+[694-80](#694-80).   Solvency and insolvency
 
-[694‑85](#694‑85).   Meaning of _chief executive officer function_
+[694-85](#694-85).   Meaning of _chief executive officer function_
 
-[694‑90](#694‑90).   Applications to be in writing
+[694-90](#694-90).   Applications to be in writing
 
-[694‑95](#694‑95).   Effect of certain contraventions of this Act
+[694-95](#694-95).   Effect of certain contraventions of this Act
 
-[694‑100](#694‑100). Effect of provisions empowering a person to require or prohibit conduct
+[694-100](#694-100). Effect of provisions empowering a person to require or prohibit conduct
 
-[694‑105](#694‑105). Calculation of time
+[694-105](#694-105). Calculation of time
 
-[694‑110](#694‑110). Performance of functions by Registrar or Deputy Registrar includes reference to delegate etc 
+[694-110](#694-110). Performance of functions by Registrar or Deputy Registrar includes reference to delegate etc 
 
-[694‑115](#694‑115). Certain family relationships
+[694-115](#694-115). Certain family relationships
 
-**Part 17‑3—Dictionary** 
+**Part 17-3—Dictionary** 
 
     **Division 700—Dictionary**
 
-[700‑1](#700‑1).     Dictionary
+[700-1](#700-1).     Dictionary
 
 **Notes** 
 
@@ -1942,33 +1941,33 @@ The Parliament of Australia enacts:
 
 # Chapter 1—Introduction
 
-## Part 1‑1—Preliminary
+## Part 1-1—Preliminary
 
 ### Division 1—Preliminary
 
-##### <a id="1‑1"></a>1‑1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1-1"></a>1-1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_.
 
-##### <a id="1‑5"></a>1‑5  Commencement
+##### <a id="1-5"></a>1-5  Commencement
 
                    This Act commences on 1 July 2007.
 
-##### <a id="1‑10"></a>1‑10  Act binds Crown
+##### <a id="1-10"></a>1-10  Act binds Crown
 
-             (1)  This Act (except Part 5.8 of the Corporations Act as applied by sections 516‑1, 521‑1, 526‑35 and 526‑40) binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+             (1)  This Act (except Part 5.8 of the Corporations Act as applied by sections 516-1, 521-1, 526-35 and 526-40) binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
              (2)  To avoid doubt, a reference in this section to the Crown in a particular right includes a reference to an instrumentality or agency (whether a body corporate or not) of the Crown in that right.
 
              (3)  However, this Act does not make the Crown liable to a pecuniary penalty or to be prosecuted for an offence.
 
-##### <a id="1‑15"></a>1‑15  Geographical application of Act
+##### <a id="1-15"></a>1-15  Geographical application of Act
 
              (1)  This Act extends to the external Territories.
 
              (2)  Each provision of this Act applies, according to its tenor, in relation to acts and omissions outside this jurisdiction.
 
-##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
+##### <a id="1-20"></a>1-20  Act applies regardless of residence, place of formation etc.
 
                    Each provision of this Act applies according to its tenor to:
 
@@ -1982,7 +1981,7 @@ The Parliament of Australia enacts:
 
 Note:       Many of the provisions in this Act apply only in relation to Aboriginal and Torres Strait Islander corporations.
 
-##### <a id="1‑25"></a>1‑25  Objects of this Act
+##### <a id="1-25"></a>1-25  Objects of this Act
 
                    The objects of this Act are to:
 
@@ -1996,25 +1995,25 @@ Note:       Many of the provisions in this Act apply only in relatio
 
                      (e)  provide for the duties of officers of Aboriginal and Torres Strait Islander corporations and regulate those officers in the performance of those duties.
 
-##### <a id="1‑30"></a>1‑30  Office of the Registrar of Aboriginal and Torres Strait Islander Corporations
+##### <a id="1-30"></a>1-30  Office of the Registrar of Aboriginal and Torres Strait Islander Corporations
 
                    There is to be, within the Department, the Office of the Registrar of Aboriginal and Torres Strait Islander Corporations.
 
-##### <a id="1‑35"></a>1‑35  Interpretative provisions
+##### <a id="1-35"></a>1-35  Interpretative provisions
 
                    Chapter 17 contains the Dictionary, which sets out a list of all the terms that are defined in this Act. It also sets out the meanings of some important concepts and rules on how to interpret this Act.
 
-## Part 1‑2—Overview of Act
+## Part 1-2—Overview of Act
 
 ### Division 6—Overview of Act
 
-##### <a id="6‑1"></a>6‑1  Overview of Act
+##### <a id="6-1"></a>6-1  Overview of Act
 
              (1)  This Act primarily provides for the incorporation and regulation of Aboriginal and Torres Strait Islander corporations.
 
              (2)  It also provides for the Registrar and the Office of the Registrar of Aboriginal and Torres Strait Islander Corporations.
 
-##### <a id="6‑5"></a>6‑5  Aboriginal and Torres Strait Islander corporations
+##### <a id="6-5"></a>6-5  Aboriginal and Torres Strait Islander corporations
 
              (1)  Chapter 2 provides for an application to be made to the Registrar for registration of an Aboriginal and Torres Strait Islander corporation.
 
@@ -2022,61 +2021,61 @@ Note:       Many of the provisions in this Act apply only in relatio
 
              (3)  Chapter 2 also deals with the effects of registration of an Aboriginal and Torres Strait Islander corporation on the corporation’s members, officers, contact persons and registered office.
 
-##### <a id="6‑10"></a>6‑10  Basic features of an Aboriginal and Torres Strait Islander corporation
+##### <a id="6-10"></a>6-10  Basic features of an Aboriginal and Torres Strait Islander corporation
 
              (1)  Chapter 3 deals with the basic features of an Aboriginal and Torres Strait Islander corporation. It covers matters such as the corporation’s name, constitution and other rules applying to the corporation and the corporation’s registered office or address for document access.
 
              (2)  Chapter 3 also provides for the assumptions that people who deal with an Aboriginal and Torres Strait Islander corporation can make in those dealings.
 
-##### <a id="6‑15"></a>6‑15  Members and observers
+##### <a id="6-15"></a>6-15  Members and observers
 
              (1)  Chapter 4 sets out some rules for membership of an Aboriginal and Torres Strait Islander corporation and some rules about cancelling the membership of members of the corporation. Aboriginal and Torres Strait Islander corporations have members (as opposed to shareholders) and they may also have persons who observe the operation of the corporation’s meetings (observers).
 
              (2)  Chapter 4 also deals with the register of members that the corporation is required to keep, and with protection of the rights and interests of members of the corporation.
 
-##### <a id="6‑20"></a>6‑20  Meetings
+##### <a id="6-20"></a>6-20  Meetings
 
              (1)  Chapter 5 sets out some rules for the calling and holding of general meetings and annual general meetings of an Aboriginal and Torres Strait Islander corporation.
 
              (2)  Chapter 5 also deals with rules concerning directors’ meetings.
 
-##### <a id="6‑25"></a>6‑25  Officers
+##### <a id="6-25"></a>6-25  Officers
 
              (1)  Chapter 6 deals with officers and contact persons of an Aboriginal and Torres Strait Islander corporation.
 
              (2)  Importantly, Chapter 6 also deals with the duties of officers and their disqualification for breaches of those duties.
 
-##### <a id="6‑30"></a>6‑30  Record keeping, reporting requirements and books
+##### <a id="6-30"></a>6-30  Record keeping, reporting requirements and books
 
              (1)  Chapter 7 deals with the reporting requirements that are imposed on an Aboriginal and Torres Strait Islander corporation. An Aboriginal and Torres Strait Islander corporation may have to lodge a general report and may also have to lodge financial reports (depending on the corporation’s size etc.).
 
              (2)  Chapter 7 also deals with the books of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="6‑35"></a>6‑35  Civil consequences of contravening civil penalty provisions
+##### <a id="6-35"></a>6-35  Civil consequences of contravening civil penalty provisions
 
                    Chapter 8 deals with the civil consequences of an officer breaching a duty imposed by this Act.
 
 Note:          The criminal consequences are dealt with in Chapter 6.
 
-##### <a id="6‑40"></a>6‑40  Lodgments and registers
+##### <a id="6-40"></a>6-40  Lodgments and registers
 
              (1)  Chapter 9 deals with the requirement to lodge certain documents with the Registrar.
 
              (2)  Chapter 9 also deals with the registers that the Registrar may, or is required to, keep. Information on these registers is available to the public.
 
-##### <a id="6‑45"></a>6‑45  Regulation and enforcement
+##### <a id="6-45"></a>6-45  Regulation and enforcement
 
              (1)  Chapter 10 deals with a number of regulatory powers that the Registrar may use in the regulation of Aboriginal and Torres Strait Islander corporations.
 
              (2)  Chapter 10 also deals with the Registrar’s powers of enforcement and the protection of whistleblowers.
 
-##### <a id="6‑50"></a>6‑50  External administration
+##### <a id="6-50"></a>6-50  External administration
 
              (1)  Chapter 11 deals with the administration of an Aboriginal and Torres Strait Islander corporation by persons outside the corporation (for example, in a winding up).
 
              (2)  Importantly, the Registrar may appoint a special administrator for an Aboriginal and Torres Strait Islander corporation in circumstances that are vital to the continued viability of the corporation. The special administrator differs from an ordinary administrator.
 
-##### <a id="6‑55"></a>6‑55  Transfer of registration, deregistration and unclaimed property
+##### <a id="6-55"></a>6-55  Transfer of registration, deregistration and unclaimed property
 
                    Chapter 12 deals with:
 
@@ -2086,35 +2085,35 @@ Note:          The criminal consequences are dealt with in Cha
 
                      (c)  unclaimed property of an Aboriginal and Torres Strait Islander corporation that has been deregistered.
 
-##### <a id="6‑60"></a>6‑60  Offences
+##### <a id="6-60"></a>6-60  Offences
 
                    Chapter 13 deals with general offences against this Act.
 
-##### <a id="6‑65"></a>6‑65  Courts and proceedings
+##### <a id="6-65"></a>6-65  Courts and proceedings
 
                    Chapter 14 deals with the jurisdiction of courts to hear matters under this Act, injunctions and court proceedings.
 
-##### <a id="6‑70"></a>6‑70  Administration
+##### <a id="6-70"></a>6-70  Administration
 
                    Chapter 15 deals with a number of matters concerning the general administration of this Act (for example, the protection of information and review of decisions).
 
-##### <a id="6‑75"></a>6‑75  Registrar and Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
+##### <a id="6-75"></a>6-75  Registrar and Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
 
              (1)  Chapter 16 deals with the appointment of the Registrar and Deputy Registrars. The Registrar is charged with the administration of this Act.
 
              (2)  Chapter 16 also deals with the powers and functions of the Registrar.
 
-##### <a id="6‑80"></a>6‑80  Interpreting this Act
+##### <a id="6-80"></a>6-80  Interpreting this Act
 
                    Chapter 17 contains the interpretation provisions of this Act and the definitions.
 
 # Chapter 2—Aboriginal and Torres Strait Islander corporations
 
-## Part 2‑1—Introduction
+## Part 2-1—Introduction
 
 ### Division 16—Introduction
 
-##### <a id="16‑1"></a>16‑1  What this Chapter is about
+##### <a id="16-1"></a>16-1  What this Chapter is about
 
 * * *
 
@@ -2124,35 +2123,35 @@ In particular, it deals with:
 
 <li class="BoxList" style="margin-left:21.25pt">•      what an Aboriginal and
 
-Torres Strait Islander corporation is (see section 16‑5); and</li>
+Torres Strait Islander corporation is (see section 16-5); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the application for
 
-registration (see Part 2‑2); and</li>
+registration (see Part 2-2); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      decisions on applications
 
-(see Part 2‑3); and</li>
+(see Part 2-3); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      registration of small,
 
-medium and large corporations (see Part 2‑4); and</li>
+medium and large corporations (see Part 2-4); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the effects of registration
 
-(see Part 2‑5).</li>
+(see Part 2-5).</li>
 
 * * *
 
-##### <a id="16‑5"></a>16‑5  Meaning of _Aboriginal and Torres Strait Islander corporation_
+##### <a id="16-5"></a>16-5  Meaning of _Aboriginal and Torres Strait Islander corporation_
 
                    An **_Aboriginal and Torres Strait Islander corporation_** is a corporation registered under this Act.
 
-## Part 2‑2—Applications for registration of an Aboriginal and Torres Strait Islander corporation
+## Part 2-2—Applications for registration of an Aboriginal and Torres Strait Islander corporation
 
 ### Division 21—Application for new registration of an Aboriginal and Torres Strait Islander corporation
 
-##### <a id="21‑1"></a>21‑1  Application for registration
+##### <a id="21-1"></a>21-1  Application for registration
 
              (1)  An application by a person (the **_applicant_**) for registration of an Aboriginal and Torres Strait Islander corporation must contain the following information:
 
@@ -2182,7 +2181,7 @@ medium and large corporations (see Part 2‑4); and</li>
 
                     (m)  such other information that is prescribed by the regulations as information that must be included in the application.
 
-Note:          The address of the director, secretary or contact person that must be stated is usually the residential address. However, an alternative address may be stated in certain circumstances (see section 304‑15).
+Note:          The address of the director, secretary or contact person that must be stated is usually the residential address. However, an alternative address may be stated in certain circumstances (see section 304-15).
 
              (2)  The application must also:
 
@@ -2206,17 +2205,17 @@ Director details
 
              (4)  A specification by the Registrar under paragraph (1)(l) is not a legislative instrument.
 
-##### <a id="21‑5"></a>21‑5  Matters to accompany application
+##### <a id="21-5"></a>21-5  Matters to accompany application
 
-                   The following must accompany an application under section 21‑1:
+                   The following must accompany an application under section 21-1:
 
-                     (a)  evidence of the decisions referred to in section 29‑15 (if applicable);
+                     (a)  evidence of the decisions referred to in section 29-15 (if applicable);
 
-                     (b)  copies of the consents referred to in subsection 21‑1(1).
+                     (b)  copies of the consents referred to in subsection 21-1(1).
 
-Note:          Under the internal governance rules requirement (see section 29‑20), a copy of the proposed constitution of a proposed corporation must also be provided to the Registrar before the time the Registrar makes a decision under section 26‑1 in respect of the application.
+Note:          Under the internal governance rules requirement (see section 29-20), a copy of the proposed constitution of a proposed corporation must also be provided to the Registrar before the time the Registrar makes a decision under section 26-1 in respect of the application.
 
-##### <a id="21‑10"></a>21‑10  Registrar may seek further information
+##### <a id="21-10"></a>21-10  Registrar may seek further information
 
              (1)  For the purposes of determining an application, the Registrar may request an applicant to provide such further information as the Registrar requests within the period specified by the Registrar in the request.
 
@@ -2226,11 +2225,11 @@ Note:          Under the internal governance rules requirement
 
              (4)  A request under this section must state the effect of subsection (3).
 
-### Division 22—Application to register existing body corporate under Part 2‑3
+### Division 22—Application to register existing body corporate under Part 2-3
 
-##### <a id="22‑1"></a>22‑1  Application for registration
+##### <a id="22-1"></a>22-1  Application for registration
 
-             (1)  A person (the **_applicant_**) may apply to the Registrar for registration of an existing body corporate as an Aboriginal and Torres Strait Islander corporation under Part 2‑3.
+             (1)  A person (the **_applicant_**) may apply to the Registrar for registration of an existing body corporate as an Aboriginal and Torres Strait Islander corporation under Part 2-3.
 
              (2)  The application must contain the following information:
 
@@ -2244,7 +2243,7 @@ Note:          Under the internal governance rules requirement
 
                      (e)  the law under which the body is currently incorporated;
 
-                      (f)  the name proposed to be adopted by the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                      (f)  the name proposed to be adopted by the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                      (g)  if the applicant is requesting an exemption from having to have at least 5 members—a request for the exemption specifying the proposed minimum number of members;
 
@@ -2254,19 +2253,19 @@ Note:          Under the internal governance rules requirement
 
                       (j)  if the body is expected to be a small or medium corporation for its first financial year—the address of the proposed document access address;
 
-                     (k)  the director details of each person who consents in writing to become a director of the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                     (k)  the director details of each person who consents in writing to become a director of the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                       (l)  if the body is expected to be a small or medium corporation for its first financial year—the name and address of the person who consents in writing to be the contact person;
 
-                    (m)  if the body is expected to be a large corporation for its first financial year—the name and address of the person who consents in writing to be the secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                    (m)  if the body is expected to be a large corporation for its first financial year—the name and address of the person who consents in writing to be the secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
-                     (n)  whether, once the body becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the people who are, or have been, its members are to be liable to contribute towards the payment of its debts and liabilities and, if so, the extent of their liabilities;
+                     (n)  whether, once the body becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the people who are, or have been, its members are to be liable to contribute towards the payment of its debts and liabilities and, if so, the extent of their liabilities;
 
-                     (o)  such other information that the Registrar specifies in writing in respect of the registration of the body as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                     (o)  such other information that the Registrar specifies in writing in respect of the registration of the body as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                      (p)  such other information that is prescribed by the regulations as information that must be included in the application.
 
-Note:          The address of the director, secretary or contact person that must be stated is usually the residential address. However, an alternative address may be stated in certain circumstances (see section 304‑15).
+Note:          The address of the director, secretary or contact person that must be stated is usually the residential address. However, an alternative address may be stated in certain circumstances (see section 304-15).
 
              (3)  The application must also:
 
@@ -2296,19 +2295,19 @@ Director details
 
                     <a name="arbn"></a>**_ARBN_** has the same meaning as in the Corporations Act.
 
-##### <a id="22‑5"></a>22‑5  Matters to accompany application
+##### <a id="22-5"></a>22-5  Matters to accompany application
 
-             (1)  The following must accompany an application under section 22‑1:
+             (1)  The following must accompany an application under section 22-1:
 
-                     (a)  evidence of the resolution referred to in section 29‑17;
+                     (a)  evidence of the resolution referred to in section 29-17;
 
-                     (b)  copies of the consents referred to in subsection 22‑1(2);
+                     (b)  copies of the consents referred to in subsection 22-1(2);
 
                      (c)  a certified copy of a current certificate of the body’s incorporation in its place of origin, or of a document that has a similar effect;
 
                      (d)  a certified printed copy of the body’s constitution (if any);
 
-                     (e)  evidence that the body is not an externally‑administered body corporate;
+                     (e)  evidence that the body is not an externally-administered body corporate;
 
                       (f)  evidence that no application to wind up the body has been made to a court (in Australia or elsewhere) that has not been dealt with;
 
@@ -2322,15 +2321,15 @@ Director details
 
                       (i)  any other documents that are prescribed.
 
-Note:          Under the internal governance rules requirement (see section 29‑20), a copy of the proposed constitution of a proposed corporation must also be provided to the Registrar before the time the Registrar makes a decision under section 26‑1 in respect of the application.
+Note:          Under the internal governance rules requirement (see section 29-20), a copy of the proposed constitution of a proposed corporation must also be provided to the Registrar before the time the Registrar makes a decision under section 26-1 in respect of the application.
 
              (2)  The evidence lodged in accordance with subsections (1) must be satisfactory proof to the Registrar of the matters referred to in that subsection.
 
-Note:          Section 376‑5 requires documents that are not in English to be translated into English.
+Note:          Section 376-5 requires documents that are not in English to be translated into English.
 
-##### <a id="22‑10"></a>22‑10  Registrar may seek further information
+##### <a id="22-10"></a>22-10  Registrar may seek further information
 
-             (1)  For the purposes of determining an application made under section 22‑1, the Registrar may request an applicant to provide such further information as the Registrar requests within the period specified by the Registrar in the request.
+             (1)  For the purposes of determining an application made under section 22-1, the Registrar may request an applicant to provide such further information as the Registrar requests within the period specified by the Registrar in the request.
 
              (2)  The Registrar may extend a period specified under subsection (1).
 
@@ -2338,11 +2337,11 @@ Note:          Section 376‑5 requires documents that are n
 
              (4)  A request under this section must state the effect of subsection (3).
 
-### Division 23—Application to register amalgamated corporation under Part 2‑3
+### Division 23—Application to register amalgamated corporation under Part 2-3
 
-##### <a id="23‑1"></a>23‑1  Application for registration
+##### <a id="23-1"></a>23-1  Application for registration
 
-             (1)  A person (the **_applicant_**) may apply to the Registrar for registration of an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) under Part 2‑3 to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**).
+             (1)  A person (the **_applicant_**) may apply to the Registrar for registration of an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) under Part 2-3 to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**).
 
              (2)  The application must contain the following information:
 
@@ -2350,7 +2349,7 @@ Note:          Section 376‑5 requires documents that are n
 
                      (b)  the names, and ICNs, of the amalgamating corporations;
 
-                     (c)  the name proposed to be adopted by the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                     (c)  the name proposed to be adopted by the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                      (d)  if the applicant is requesting an exemption for the amalgamated corporation from having to have at least 5 members—a request for the exemption specifying the proposed minimum number of members;
 
@@ -2360,19 +2359,19 @@ Note:          Section 376‑5 requires documents that are n
 
                      (g)  if the amalgamated corporation is expected to be a small or medium corporation for its first financial year—the address of the proposed document access address;
 
-                     (h)  the director details of each person who consents in writing to become a director of the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                     (h)  the director details of each person who consents in writing to become a director of the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                       (i)  if the amalgamated corporation is expected to be a small or medium corporation for its first financial year—the name and address of the person who consents in writing to be the contact person;
 
-                      (j)  if the amalgamated corporation is expected to be a large corporation for its first financial year—the name and address of the person who consents in writing to be the secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                      (j)  if the amalgamated corporation is expected to be a large corporation for its first financial year—the name and address of the person who consents in writing to be the secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
-                     (k)  whether, once the amalgamated corporation becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the people who are, or have been, its members are to be liable to contribute towards the payment of its debts and liabilities and, if so, the extent of their liabilities;
+                     (k)  whether, once the amalgamated corporation becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the people who are, or have been, its members are to be liable to contribute towards the payment of its debts and liabilities and, if so, the extent of their liabilities;
 
-                      (l)  such other information that the Registrar specifies in writing in respect of the registration of the amalgamated corporation as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                      (l)  such other information that the Registrar specifies in writing in respect of the registration of the amalgamated corporation as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                     (m)  such other information that is prescribed by the regulations as information that must be included in the application.
 
-Note:          The address of the director, secretary or contact person that must be stated is usually the residential address. However, an alternative address may be stated in certain circumstances (see section 304‑15).
+Note:          The address of the director, secretary or contact person that must be stated is usually the residential address. However, an alternative address may be stated in certain circumstances (see section 304-15).
 
              (3)  The application must also:
 
@@ -2396,17 +2395,17 @@ Director details
 
              (5)  A specification by the Registrar under paragraph (1)(l) is not a legislative instrument.
 
-##### <a id="23‑5"></a>23‑5  Matters to accompany application
+##### <a id="23-5"></a>23-5  Matters to accompany application
 
-             (1)  The following must accompany an application under section 23‑1:
+             (1)  The following must accompany an application under section 23-1:
 
-                     (a)  evidence that, on registration, the amalgamated corporation will meet the creditor notice requirements referred to in section 29‑18;
+                     (a)  evidence that, on registration, the amalgamated corporation will meet the creditor notice requirements referred to in section 29-18;
 
-                     (b)  evidence of the resolutions referred to in section 29‑19;
+                     (b)  evidence of the resolutions referred to in section 29-19;
 
-                     (c)  copies of the consents referred to in subsection 23‑1(2);
+                     (c)  copies of the consents referred to in subsection 23-1(2);
 
-                     (d)  evidence that none of the amalgamating corporations is an externally‑administered body corporate;
+                     (d)  evidence that none of the amalgamating corporations is an externally-administered body corporate;
 
                      (e)  evidence that no application to wind up an amalgamating corporation has been made to a court (in Australia or elsewhere) that has not been dealt with;
 
@@ -2414,15 +2413,15 @@ Director details
 
                      (g)  any other documents that are prescribed.
 
-Note:          Under the internal governance rules requirement (see section 29‑20), a copy of the proposed constitution of a proposed corporation must also be provided to the Registrar before the time the Registrar makes a decision under section 26‑1 in respect of the application.
+Note:          Under the internal governance rules requirement (see section 29-20), a copy of the proposed constitution of a proposed corporation must also be provided to the Registrar before the time the Registrar makes a decision under section 26-1 in respect of the application.
 
              (2)  The evidence lodged in accordance with subsections (1) must be satisfactory proof to the Registrar of the matters referred to in that subsection.
 
-Note:          Section 376‑5 requires documents that are not in English to be translated into English.
+Note:          Section 376-5 requires documents that are not in English to be translated into English.
 
-##### <a id="23‑10"></a>23‑10  Registrar may seek further information
+##### <a id="23-10"></a>23-10  Registrar may seek further information
 
-             (1)  For the purposes of determining an application under section 23‑1, the Registrar may request an applicant to provide such further information as the Registrar requests within the period specified by the Registrar in the request.
+             (1)  For the purposes of determining an application under section 23-1, the Registrar may request an applicant to provide such further information as the Registrar requests within the period specified by the Registrar in the request.
 
              (2)  The Registrar may extend a period specified under subsection (1).
 
@@ -2430,57 +2429,57 @@ Note:          Section 376‑5 requires documents that are n
 
              (4)  A request under this section must state the effect of subsection (3).
 
-## Part 2‑3—Decisions on applications
+## Part 2-3—Decisions on applications
 
 ### Division 26—Registrar to decide application
 
-##### <a id="26‑1"></a>26‑1  Registrar to decide application
+##### <a id="26-1"></a>26-1  Registrar to decide application
 
 Registrar to decide
 
-             (1)  The Registrar must make a decision whether or not to grant an application under section 21‑1, 22‑1 or 23‑1 for registration of an Aboriginal and Torres Strait Islander corporation.
+             (1)  The Registrar must make a decision whether or not to grant an application under section 21-1, 22-1 or 23-1 for registration of an Aboriginal and Torres Strait Islander corporation.
 
 When may Registrar grant application
 
              (2)  The Registrar may decide to grant the application if:
 
-                     (a)  an application under section 21‑1, 22‑1 or 23‑1 has been lodged for registration of the corporation (but see section 26‑5); and
+                     (a)  an application under section 21-1, 22-1 or 23-1 has been lodged for registration of the corporation (but see section 26-5); and
 
-                     (b)  if the application is made under section 21‑1—the application is accompanied by the matters set out in section 21‑5 (but see section 26‑5); and
+                     (b)  if the application is made under section 21-1—the application is accompanied by the matters set out in section 21-5 (but see section 26-5); and
 
-                   (ba)  if the application is made under section 22‑1—the application is accompanied by the matters set out in section 22‑5 (but see section 26‑5); and
+                    (ba)  if the application is made under section 22-1—the application is accompanied by the matters set out in section 22-5 (but see section 26-5); and
 
-                   (bb)  if the application is made under section 23‑1—the application is accompanied by the matters set out in section 23‑5 (but see section 26‑5); and
+                    (bb)  if the application is made under section 23-1—the application is accompanied by the matters set out in section 23-5 (but see section 26-5); and
 
-                     (c)  the Registrar is satisfied that, on registration, the corporation will meet the following basic requirements set out in Division 29 (but see section 26‑10):
+                     (c)  the Registrar is satisfied that, on registration, the corporation will meet the following basic requirements set out in Division 29 (but see section 26-10):
 
-                              (i)  the minimum number of members requirement (see section 29‑1);
+                              (i)  the minimum number of members requirement (see section 29-1);
 
-                             (ii)  the Indigeneity requirement (see section 29‑5);
+                             (ii)  the Indigeneity requirement (see section 29-5);
 
-                            (iii)  the age of members requirement (see section 29‑10);
+                            (iii)  the age of members requirement (see section 29-10);
 
-                            (iv)  if the application is made under section 21‑1—the pre‑incorporation requirement (see section 29‑15);
+                            (iv)  if the application is made under section 21-1—the pre-incorporation requirement (see section 29-15);
 
-                          (iva)  if the application is made under section 22‑1—the pre‑transfer of registration requirement (see section 29‑17);
+                          (iva)  if the application is made under section 22-1—the pre-transfer of registration requirement (see section 29-17);
 
-                          (ivb)  if the application is made under section 23‑1—the creditor notice requirements (see section 29‑18) and the pre‑amalgamation requirements (see section 29‑19);
+                          (ivb)  if the application is made under section 23-1—the creditor notice requirements (see section 29-18) and the pre-amalgamation requirements (see section 29-19);
 
-                             (v)  the internal governance rules requirement (see section 29‑20);
+                             (v)  the internal governance rules requirement (see section 29-20);
 
-                            (vi)  the name requirement (see section 29‑25); and
+                            (vi)  the name requirement (see section 29-25); and
 
-                     (d)  section 26‑15 does not preclude the registration; and
+                     (d)  section 26-15 does not preclude the registration; and
 
                      (e)  the Registrar is satisfied that it is more appropriate that the corporation be registered under this Act than under the Corporations Act or a law of a State or Territory dealing with incorporated bodies; and
 
                       (f)  the Registrar is satisfied that registering the corporation would not be contrary to the public interest.
 
-Special rules for amalgamation application under section 23‑1
+Special rules for amalgamation application under section 23-1
 
-             (3)  Subsections (4) and (5) apply in deciding whether to grant an application under section 23‑1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**).
+             (3)  Subsections (4) and (5) apply in deciding whether to grant an application under section 23-1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**).
 
-             (4)  The Registrar must not grant the application if an objection to the grant of the application has been made under subsection 29‑18(3) and the objection has not been withdrawn.
+             (4)  The Registrar must not grant the application if an objection to the grant of the application has been made under subsection 29-18(3) and the objection has not been withdrawn.
 
              (5)  In addition to the matters referred to in subsection (2), the Registrar may have regard to the following matters in deciding whether to grant the application:
 
@@ -2506,33 +2505,33 @@ Special rules for amalgamation application under section 23‑1
 
                      (h)  any other matter the Registrar considers relevant.
 
-Note:          If the Registrar decides not to grant the application, the amalgamation may be able to be achieved by applying to the Court for orders under Part 5.1 of the Corporations Act (as applied by section 45‑1 of this Act).
+Note:          If the Registrar decides not to grant the application, the amalgamation may be able to be achieved by applying to the Court for orders under Part 5.1 of the Corporations Act (as applied by section 45-1 of this Act).
 
-##### <a id="26‑5"></a>26‑5  Registrar may grant application if application is incomplete etc.
+##### <a id="26-5"></a>26-5  Registrar may grant application if application is incomplete etc.
 
-                   Despite paragraphs 26‑1(2)(a), (b), (ba) and (bb), the Registrar may grant the application even if the application for registration:
+                   Despite paragraphs 26-1(2)(a), (b), (ba) and (bb), the Registrar may grant the application even if the application for registration:
 
                      (a)  is incomplete or contains errors (as long as the applicant has provided his or her name and address in the application); or
 
-                     (b)  some or all of the material required to accompany the application under section 21‑5, section 22‑5 or 23‑5 is not provided, is incomplete or contains errors.
+                     (b)  some or all of the material required to accompany the application under section 21-5, section 22-5 or 23-5 is not provided, is incomplete or contains errors.
 
-##### <a id="26‑10"></a>26‑10  Registrar may grant application if some basic requirements are not met
+##### <a id="26-10"></a>26-10  Registrar may grant application if some basic requirements are not met
 
 Circumstances when Registrar may register corporation
 
-             (1)  Despite paragraph 26‑1(2)(c), the Registrar may grant the application even if the Registrar is not satisfied that the corporation, on registration, would meet:
+             (1)  Despite paragraph 26-1(2)(c), the Registrar may grant the application even if the Registrar is not satisfied that the corporation, on registration, would meet:
 
                      (a)  the minimum number of members requirement; or
 
                      (b)  the age of members requirement; or
 
-                     (c)  the pre‑incorporation requirement; or
+                     (c)  the pre-incorporation requirement; or
 
-                     (d)  the pre‑transfer of registration requirement; or
+                     (d)  the pre-transfer of registration requirement; or
 
                      (e)  the creditor notice requirements; or
 
-                      (f)  the pre‑amalgamation requirements.
+                      (f)  the pre-amalgamation requirements.
 
 Registrar not to register body in certain circumstances
 
@@ -2544,7 +2543,7 @@ Registrar not to register body in certain circumstances
 
                      (c)  the name requirement.
 
-##### <a id="26‑15"></a>26‑15  Registrar not to register trade unions etc.
+##### <a id="26-15"></a>26-15  Registrar not to register trade unions etc.
 
                    The following cannot be registered under this Act:
 
@@ -2556,11 +2555,11 @@ Registrar not to register body in certain circumstances
 
 ### Division 29—What are the basic requirements for registration?
 
-##### <a id="29‑1"></a>29‑1  Minimum number of members requirement
+##### <a id="29-1"></a>29-1  Minimum number of members requirement
 
-                   An Aboriginal and Torres Strait Islander corporation meets the **_minimum number of members requirement_** if the corporation complies with the requirement in subsection 77‑5(1).
+                   An Aboriginal and Torres Strait Islander corporation meets the **_minimum number of members requirement_** if the corporation complies with the requirement in subsection 77-5(1).
 
-##### <a id="29‑5"></a>29‑5  Indigeneity requirement
+##### <a id="29-5"></a>29-5  Indigeneity requirement
 
                    An Aboriginal and Torres Strait Islander corporation meets the **_Indigeneity requirement_** if the corporation has the following required number or percentage of its members who are Aboriginal and Torres Strait Islander persons:
 
@@ -2570,19 +2569,19 @@ Registrar not to register body in certain circumstances
 
                      (c)  if the corporation has only one member—that member.
 
-Note:          For the meaning of **_Aboriginal and Torres Strait Islander person_**, see section 700‑1.
+Note:          For the meaning of **_Aboriginal and Torres Strait Islander person_**, see section 700-1.
 
-##### <a id="29‑10"></a>29‑10  Age of members requirement
+##### <a id="29-10"></a>29-10  Age of members requirement
 
                    An Aboriginal and Torres Strait Islander corporation meets the **_age of members requirement_** if each member of the corporation who is an individual is at least 15 years of age.
 
-##### <a id="29‑15"></a>29‑15  Pre‑incorporation requirement
+##### <a id="29-15"></a>29-15  Pre-incorporation requirement
 
-             (1)  An Aboriginal and Torres Strait Islander corporation meets the **_pre‑incorporation requirement_** if 75% of the persons listed in the application for registration as persons who consent to become members of the corporation on registration have:
+             (1)  An Aboriginal and Torres Strait Islander corporation meets the **_pre-incorporation requirement_** if 75% of the persons listed in the application for registration as persons who consent to become members of the corporation on registration have:
 
                      (a)  authorised the applicant to apply for the incorporation of the Aboriginal and Torres Strait Islander corporation; and
 
-                     (b)  approved the proposed constitution provided to the Registrar under subsection 29‑20(2) as the constitution of the corporation; and
+                     (b)  approved the proposed constitution provided to the Registrar under subsection 29-20(2) as the constitution of the corporation; and
 
                      (c)  if the internal governance rules that would apply to the corporation will include one or more replaceable rules—agreed to those replaceable rules so applying; and
 
@@ -2598,35 +2597,35 @@ Note:          For the meaning of **_Aboriginal and Torres Str
 
                      (b)  set out the terms of the replaceable rules (if any) that are being modified or replaced by the proposed constitution.
 
-##### <a id="29‑17"></a>29‑17  Pre‑transfer of registration requirement
+##### <a id="29-17"></a>29-17  Pre-transfer of registration requirement
 
-             (1)  A body corporate in relation to which an application is made under section 22‑1 meets the **_pre‑transfer of registration requirement_** if:
+             (1)  A body corporate in relation to which an application is made under section 22-1 meets the **_pre-transfer of registration requirement_** if:
 
                      (a)  the members have by a resolution that has been passed at a meeting by at least 75% of the votes cast by members entitled to vote on the resolution:
 
                               (i)  authorised the applicant to apply for the registration of the body as an Aboriginal and Torres Strait Islander corporation; and
 
-                             (ii)  approved the proposed constitution provided to the Registrar under subsection 29‑20(2) as the constitution to be adopted by the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3; and
+                             (ii)  approved the proposed constitution provided to the Registrar under subsection 29-20(2) as the constitution to be adopted by the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3; and
 
-                            (iii)  if the internal governance rules that would apply to the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3 will include one or more replaceable rules—agreed to those replaceable rules so applying; and
+                            (iii)  if the internal governance rules that would apply to the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3 will include one or more replaceable rules—agreed to those replaceable rules so applying; and
 
-                            (iv)  nominated, as persons who will become directors of the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the persons specified in the application as persons who will become directors on registration; and
+                            (iv)  nominated, as persons who will become directors of the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the persons specified in the application as persons who will become directors on registration; and
 
-                             (v)  if the application indicates that the body is expected to be a small or medium corporation in respect of its first financial year—nominated, as a person who will become the contact person when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the person specified in the application as a person who will become the contact person on registration; and
+                             (v)  if the application indicates that the body is expected to be a small or medium corporation in respect of its first financial year—nominated, as a person who will become the contact person when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the person specified in the application as a person who will become the contact person on registration; and
 
-                            (vi)  if the application indicates that the body is expected to be a large corporation in respect of its first financial year—nominated, as a person who will become the secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the person specified in the application as a person who will become the secretary on registration; and
+                            (vi)  if the application indicates that the body is expected to be a large corporation in respect of its first financial year—nominated, as a person who will become the secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the person specified in the application as a person who will become the secretary on registration; and
 
                      (b)  the members were given at least 21 days notice of the meeting and the proposed resolution.
 
              (2)  The document evidencing the agreement under subparagraph (1)(a)(iii) must:
 
-                     (a)  refer by section or subsection number (as appropriate) to the replaceable rules that will apply without modification to the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3; and
+                     (a)  refer by section or subsection number (as appropriate) to the replaceable rules that will apply without modification to the body when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3; and
 
                      (b)  set out the terms of the replaceable rules (if any) that are being modified or replaced by the proposed constitution.
 
-##### <a id="29‑18"></a>29‑18  Creditor notice requirement
+##### <a id="29-18"></a>29-18  Creditor notice requirement
 
-             (1)  If an application is made under section 23‑1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**), the amalgamated corporation meets the **_creditor notice requirement_** if:
+             (1)  If an application is made under section 23-1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**), the amalgamated corporation meets the **_creditor notice requirement_** if:
 
                      (a)  the applicant has given the Registrar a notice of intention to make the application; and
 
@@ -2642,9 +2641,9 @@ Note:          For the meaning of **_Aboriginal and Torres Str
 
                               (i)  the proposed amalgamation;
 
-                             (ii)  the right that substantial creditors of the corporation have under subsection (3) to object to the grant of the application made under section 23‑1; and
+                             (ii)  the right that substantial creditors of the corporation have under subsection (3) to object to the grant of the application made under section 23-1; and
 
-                     (d)  the application under section 23‑1 is made within 14 days after the end of the objection period.
+                     (d)  the application under section 23-1 is made within 14 days after the end of the objection period.
 
 Note 1:       For **_substantial creditor_**, see paragraph (5)(a).
 
@@ -2680,43 +2679,43 @@ within the objection period.
 
                      (c)  an amalgamating corporation is taken to **_owe a debt_** to a person even if the debt is contingent or prospective.
 
-##### <a id="29‑19"></a>29‑19  Pre‑amalgamation requirements
+##### <a id="29-19"></a>29-19  Pre-amalgamation requirements
 
-             (1)  If an application is made under section 23‑1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**), the amalgamated corporation meets the **_pre‑amalgamation requirements_** if the members of each of the amalgamating corporations have passed a special resolution:
+             (1)  If an application is made under section 23-1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**), the amalgamated corporation meets the **_pre-amalgamation requirements_** if the members of each of the amalgamating corporations have passed a special resolution:
 
                      (a)  authorising the applicant to apply for the registration of the amalgamated corporation to replace the amalgamating corporations; and
 
-                     (b)  approving the proposed constitution provided to the Registrar under subsection 29‑20(2) as the constitution to be the amalgamated corporation’s constitution when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3; and
+                     (b)  approving the proposed constitution provided to the Registrar under subsection 29-20(2) as the constitution to be the amalgamated corporation’s constitution when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3; and
 
-                     (c)  if the internal governance rules that would apply to the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3 will include one or more replaceable rules—agreeing to those replaceable rules so applying; and
+                     (c)  if the internal governance rules that would apply to the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3 will include one or more replaceable rules—agreeing to those replaceable rules so applying; and
 
-                     (d)  nominating, as persons who will become directors of the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the persons specified in the application as persons who will become directors on registration; and
+                     (d)  nominating, as persons who will become directors of the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the persons specified in the application as persons who will become directors on registration; and
 
-                     (e)  if the application indicates that the amalgamated corporation is expected to be a small or medium corporation in respect of its first financial year—nominating, as a person who will become a contact person of the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the person specified in the application as a person who will become the contact person on registration; and
+                     (e)  if the application indicates that the amalgamated corporation is expected to be a small or medium corporation in respect of its first financial year—nominating, as a person who will become a contact person of the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the person specified in the application as a person who will become the contact person on registration; and
 
-                      (f)  if the application indicates that the amalgamated corporation is expected to be a large corporation in respect of its first financial year—nominating, as a person who will become the amalgamated corporation’s secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3, the person specified in the application as a person who will become the secretary on registration.
+                      (f)  if the application indicates that the amalgamated corporation is expected to be a large corporation in respect of its first financial year—nominating, as a person who will become the amalgamated corporation’s secretary when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3, the person specified in the application as a person who will become the secretary on registration.
 
              (2)  The document evidencing the agreement under paragraph (1)(c) must:
 
-                     (a)  refer by section or subsection number (as appropriate) to the replaceable rules that will apply without modification to the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3; and
+                     (a)  refer by section or subsection number (as appropriate) to the replaceable rules that will apply without modification to the amalgamated corporation when it becomes registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3; and
 
                      (b)  set out the terms of the replaceable rules (if any) that are being modified or replaced by the proposed constitution.
 
-##### <a id="29‑20"></a>29‑20  Internal governance rules requirement
+##### <a id="29-20"></a>29-20  Internal governance rules requirement
 
-             (1)  An Aboriginal and Torres Strait Islander corporation meets the **_internal governance rules requirement_** if the corporation’s constitution complies with the requirements set out in section 66‑1.
+             (1)  An Aboriginal and Torres Strait Islander corporation meets the **_internal governance rules requirement_** if the corporation’s constitution complies with the requirements set out in section 66-1.
 
-             (2)  In addition, a copy of the corporation’s proposed constitution must be lodged before the time the Registrar makes a decision under section 26‑1 in respect of the application.
+             (2)  In addition, a copy of the corporation’s proposed constitution must be lodged before the time the Registrar makes a decision under section 26-1 in respect of the application.
 
-##### <a id="29‑25"></a>29‑25  Name requirement
+##### <a id="29-25"></a>29-25  Name requirement
 
-                   An Aboriginal and Torres Strait Islander corporation meets the **_name requirement_** if the corporation complies with the requirements set out in section 85‑1.
+                   An Aboriginal and Torres Strait Islander corporation meets the **_name requirement_** if the corporation complies with the requirements set out in section 85-1.
 
 ### Division 32—Decisions on applications
 
-##### <a id="32‑1"></a>32‑1  Successful applications
+##### <a id="32-1"></a>32-1  Successful applications
 
-             (1)  If the Registrar grants an application under section 21‑1, 22‑1 or 23‑1 for registration of an Aboriginal and Torres Strait Islander corporation, the Registrar must:
+             (1)  If the Registrar grants an application under section 21-1, 22-1 or 23-1 for registration of an Aboriginal and Torres Strait Islander corporation, the Registrar must:
 
                      (a)  register the Aboriginal and Torres Strait Islander corporation; and
 
@@ -2730,19 +2729,19 @@ within the objection period.
 
                             (iii)  the date of the registration.
 
-Note:          Section 37‑1 requires the Registrar to register the corporation as a small, medium or large corporation.
+Note:          Section 37-1 requires the Registrar to register the corporation as a small, medium or large corporation.
 
              (2)  The Registrar must keep a record of the registration and the constitution.
 
              (3)  A certificate under subsection (1) is not a legislative instrument.
 
-##### <a id="32‑5"></a>32‑5  Unsuccessful applications
+##### <a id="32-5"></a>32-5  Unsuccessful applications
 
              (1)  If:
 
                      (a)  the Registrar does not grant the application; and
 
-                     (b)  section 26‑15 does not preclude the registration;
+                     (b)  section 26-15 does not preclude the registration;
 
 the Registrar must, in writing:
 
@@ -2756,11 +2755,11 @@ the Registrar must, in writing:
 
              (2)  If the Registrar is advised under subparagraph (1)(d)(ii), the Registrar must reconsider the application.
 
-## Part 2‑4—Registration of an Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
+## Part 2-4—Registration of an Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
 
 ### Division 37—Registration of an Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
 
-##### <a id="37‑1"></a>37‑1  Registrar to register Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
+##### <a id="37-1"></a>37-1  Registrar to register Aboriginal and Torres Strait Islander corporation as a small, medium or large corporation
 
              (1)  On the registration of an Aboriginal and Torres Strait Islander corporation, the Registrar must register the corporation as a small, medium or large corporation.
 
@@ -2774,7 +2773,7 @@ Note:          The classification determines the reports the c
 
 that the corporation is likely to be a small corporation in respect of its first financial year.
 
-Note:          Subsection 37‑10(1) sets out the criteria for determining whether the corporation is a small corporation for a particular financial year.
+Note:          Subsection 37-10(1) sets out the criteria for determining whether the corporation is a small corporation for a particular financial year.
 
              (3)  The Registrar may register the corporation as a medium corporation only if:
 
@@ -2784,7 +2783,7 @@ Note:          Subsection 37‑10(1) sets out the criteria for
 
 that the corporation is likely to be a medium corporation in respect of its first financial year.
 
-Note:          Subsection 37‑10(2) sets out the criteria for determining whether the corporation is a medium corporation for a particular financial year.
+Note:          Subsection 37-10(2) sets out the criteria for determining whether the corporation is a medium corporation for a particular financial year.
 
              (4)  The Registrar may register the corporation as a large corporation only if:
 
@@ -2794,9 +2793,9 @@ Note:          Subsection 37‑10(2) sets out the criteria for
 
 that the corporation is likely to be a large corporation in respect of its first financial year.
 
-Note:          Subsection 37‑10(3) sets out the criteria for determining whether the corporation is a large corporation for a particular financial year.
+Note:          Subsection 37-10(3) sets out the criteria for determining whether the corporation is a large corporation for a particular financial year.
 
-##### <a id="37‑5"></a>37‑5  Registrar may alter registered size of corporation after registration
+##### <a id="37-5"></a>37-5  Registrar may alter registered size of corporation after registration
 
              (1)  If the Registrar is satisfied that an Aboriginal and Torres Strait Islander corporation that is registered as a small corporation was in fact a medium or large corporation for the most recent financial year, the Registrar may alter the corporation’s registration so that the corporation is registered as a medium or large corporation.
 
@@ -2808,7 +2807,7 @@ Note:          Subsection 37‑10(3) sets out the criteria for
 
              (5)  The Registrar must notify an Aboriginal and Torres Strait Islander corporation in writing of an alteration made under this section.
 
-##### <a id="37‑10"></a>37‑10  Small, medium and large corporations
+##### <a id="37-10"></a>37-10  Small, medium and large corporations
 
 Small corporations
 
@@ -2846,23 +2845,23 @@ Native Title
 
              (4)  The native title rights and interests held by a registered native title body corporate are to be disregarded in determining the value of the assets of a registered native title body corporate.
 
-##### <a id="37‑15"></a>37‑15  When an Aboriginal and Torres Strait Islander corporation controls an entity
+##### <a id="37-15"></a>37-15  When an Aboriginal and Torres Strait Islander corporation controls an entity
 
-                   In deciding, for the purposes of section 37‑10, whether an Aboriginal and Torres Strait Islander corporation controls an entity, apply the accounting standards made for the purposes of paragraph 295(2)(b) of the Corporations Act.
+                   In deciding, for the purposes of section 37-10, whether an Aboriginal and Torres Strait Islander corporation controls an entity, apply the accounting standards made for the purposes of paragraph 295(2)(b) of the Corporations Act.
 
-##### <a id="37‑20"></a>37‑20  Counting employees
+##### <a id="37-20"></a>37-20  Counting employees
 
              (1)  The regulations may prescribe one or more methods for calculating the number of employees of Aboriginal and Torres Strait Islander corporations.
 
              (2)  Without limiting subsection (1), regulations made under that subsection may specify:
 
-                     (a)  that employees of a class are to be disregarded for the purposes of section 37‑10; or
+                     (a)  that employees of a class are to be disregarded for the purposes of section 37-10; or
 
                      (b)  that employees of a class are to be taken into account by treating each employee as representing a specified fraction of an employee.
 
-##### <a id="37‑25"></a>37‑25  Accounting standards
+##### <a id="37-25"></a>37-25  Accounting standards
 
-                   In consolidating under section 37‑10:
+                   In consolidating under section 37-10:
 
                      (a)  the consolidated gross operating income; and
 
@@ -2870,19 +2869,19 @@ Native Title
 
 apply the accounting standards in force at the relevant time (even if the standards do not otherwise apply to the financial year of some or all of the bodies concerned).
 
-## Part 2‑5—Effects of registration
+## Part 2-5—Effects of registration
 
 ### Division 42—Effects of registration
 
-##### <a id="42‑1"></a>42‑1  Corporation comes into existence on registration
+##### <a id="42-1"></a>42-1  Corporation comes into existence on registration
 
-                   If an Aboriginal and Torres Strait Islander corporation is registered under Part 2‑3 as a result of an application made under section 21‑1, the Aboriginal and Torres Strait Islander corporation comes into existence as a body corporate with perpetual succession at the beginning of the day on which it is registered.
+                   If an Aboriginal and Torres Strait Islander corporation is registered under Part 2-3 as a result of an application made under section 21-1, the Aboriginal and Torres Strait Islander corporation comes into existence as a body corporate with perpetual succession at the beginning of the day on which it is registered.
 
 Note:          The corporation remains in existence until it is deregistered (see Chapter 12).
 
-##### <a id="42‑3"></a>42‑3  Effect of registration of existing body corporate under Part 2‑3
+##### <a id="42-3"></a>42-3  Effect of registration of existing body corporate under Part 2-3
 
-                   If a body corporate is registered under Part 2‑3 as an Aboriginal and Torres Strait Islander corporation as a result of an application made under section 22‑1, registration under Part 2‑3 does not:
+                   If a body corporate is registered under Part 2-3 as an Aboriginal and Torres Strait Islander corporation as a result of an application made under section 22-1, registration under Part 2-3 does not:
 
                      (a)  create a new legal entity; or
 
@@ -2892,9 +2891,9 @@ Note:          The corporation remains in existence until it i
 
 Note:          The Aboriginal and Torres Strait Islander corporation remains in existence until it is deregistered (see Chapter 12).
 
-##### <a id="42‑4"></a>42‑4  Effect of registration of amalgamated corporation under Part 2‑3
+##### <a id="42-4"></a>42-4  Effect of registration of amalgamated corporation under Part 2-3
 
-             (1)  This section applies if an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) is registered under Part 2‑3 as a result of an application made under section 23‑1 to register the amalgamated corporation to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**).
+             (1)  This section applies if an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) is registered under Part 2-3 as a result of an application made under section 23-1 to register the amalgamated corporation to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**).
 
              (2)  The amalgamated corporation comes into existence as a body corporate with perpetual succession at the beginning of the day on which it is registered.
 
@@ -2914,11 +2913,11 @@ Note:          The amalgamated corporation remains in existenc
 
                       (f)  a reference in any document to an amalgamating corporation is taken to be a reference to the amalgamated corporation.
 
-Note 1:       The Registrar deregisters the amalgamating corporations under subsection 546‑10(3).
+Note 1:       The Registrar deregisters the amalgamating corporations under subsection 546-10(3).
 
-Note 2:       Paragraph (3)(e) has the effect, for example, that any regulatory action taken in relation to an amalgamating corporation under Part 10‑3 may be continued as if that action had been taken in relation to the amalgamated corporation.
+Note 2:       Paragraph (3)(e) has the effect, for example, that any regulatory action taken in relation to an amalgamating corporation under Part 10-3 may be continued as if that action had been taken in relation to the amalgamated corporation.
 
-             (4)  Paragraph (3)(e) does not apply to a determination under section 487‑1 that an amalgamating corporation is to be under special administration.
+             (4)  Paragraph (3)(e) does not apply to a determination under section 487-1 that an amalgamating corporation is to be under special administration.
 
              (5)  To avoid doubt, if an asset of an amalgamating corporation was, immediately before registration, subject to a charge of any kind, the asset becomes the asset of the amalgamated corporation under subsection (3) subject to that charge.
 
@@ -2990,27 +2989,27 @@ Note 2:       Paragraph (3)(e) has the effect, for example, that a
 
                     <a name="liabil"></a>**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
 
-##### <a id="42‑5"></a>42‑5  Corporation’s name
+##### <a id="42-5"></a>42-5  Corporation’s name
 
                    An Aboriginal and Torres Strait Islander corporation’s name on registration is the name specified in the certificate of registration.
 
-##### <a id="42‑10"></a>42‑10  Members, directors, corporation secretary and contact person of corporation
+##### <a id="42-10"></a>42-10  Members, directors, corporation secretary and contact person of corporation
 
 Persons become members on registration
 
              (1)  A person becomes a member of an Aboriginal and Torres Strait Islander corporation on registration of the corporation if:
 
-                     (a)  the corporation was registered as a result of an application made under section 21‑1 and the person is specified in the application with the person’s consent as a proposed member of the corporation; or
+                     (a)  the corporation was registered as a result of an application made under section 21-1 and the person is specified in the application with the person’s consent as a proposed member of the corporation; or
 
-                     (b)  the corporation was registered as a result of an application made under section 22‑1 for registration of a body corporate as an Aboriginal and Torres Strait Islander corporation under Part 2‑3 and the person is a member of the body corporate immediately before registration of the corporation; or
+                     (b)  the corporation was registered as a result of an application made under section 22-1 for registration of a body corporate as an Aboriginal and Torres Strait Islander corporation under Part 2-3 and the person is a member of the body corporate immediately before registration of the corporation; or
 
-                     (c)  the corporation was registered as a result of an application made under section 23‑1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) under Part 2‑3 to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**) and the person is a member of any of the amalgamating corporations immediately before the registration of the amalgamated corporation.
+                     (c)  the corporation was registered as a result of an application made under section 23-1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) under Part 2-3 to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**) and the person is a member of any of the amalgamating corporations immediately before the registration of the amalgamated corporation.
 
-Note:          A member’s name must be entered in the register of members (see section 180‑5).
+Note:          A member’s name must be entered in the register of members (see section 180-5).
 
 Persons become directors etc. on registration
 
-          (1A)  A person becomes a director, corporation secretary or contact person of an Aboriginal and Torres Strait Islander corporation on registration of the corporation if the person is specified in the application under section 21‑1, 22‑1 or 23‑1 with his or her consent as a proposed director, corporation secretary or contact person of the corporation.
+          (1A)  A person becomes a director, corporation secretary or contact person of an Aboriginal and Torres Strait Islander corporation on registration of the corporation if the person is specified in the application under section 21-1, 22-1 or 23-1 with his or her consent as a proposed director, corporation secretary or contact person of the corporation.
 
 If no contact person nominated in the application for registration
 
@@ -3036,21 +3035,21 @@ the Registrar may determine, by notice in writing given to the applicant, that t
 
              (4)  A determination under subsection (3) is not a legislative instrument.
 
-##### <a id="42‑15"></a>42‑15  Registered office
+##### <a id="42-15"></a>42-15  Registered office
 
                    If an Aboriginal and Torres Strait Islander corporation is registered as a large corporation, the address (if any) specified in the corporation’s application for registration as the proposed registered office becomes the address of the corporation’s registered office on registration.
 
-##### <a id="42‑20"></a>42‑20  Document access address
+##### <a id="42-20"></a>42-20  Document access address
 
                    If an Aboriginal and Torres Strait Islander corporation is registered as a small or medium corporation, the address (if any) specified in the corporation’s application for registration as the proposed document access address becomes the corporation’s document access address on registration.
 
-##### <a id="42‑25"></a>42‑25  Corporation may have common seal
+##### <a id="42-25"></a>42-25  Corporation may have common seal
 
              (1)  An Aboriginal and Torres Strait Islander corporation may have a common seal. If an Aboriginal and Torres Strait Islander corporation does have a common seal, the corporation must set out on it the corporation’s name and ICN.
 
-Note 1:       An Aboriginal and Torres Strait Islander corporation may make contracts and execute documents without using a seal (see sections 99‑1 and 99‑5).
+Note 1:       An Aboriginal and Torres Strait Islander corporation may make contracts and execute documents without using a seal (see sections 99-1 and 99-5).
 
-Note 2:       For abbreviations that can be used on a seal, see section 85‑10.
+Note 2:       For abbreviations that can be used on a seal, see section 85-10.
 
              (2)  An Aboriginal and Torres Strait Islander corporation may have a duplicate common seal. The duplicate must be a copy of the common seal with the words “duplicate seal” added.
 
@@ -3068,7 +3067,7 @@ Note 2:       For abbreviations that can be used on a seal, see sect
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
+##### <a id="42-30"></a>42-30  Vesting of property in corporation on registration
 
 Application of section
 
@@ -3092,27 +3091,27 @@ that person must, upon the registration, take all action required to vest the es
 
                     <a name="person-properti"></a>**_personal property_** does not include property consisting of an estate or interest in land.
 
-##### <a id="42‑35"></a>42‑35  Body corporate registered as Aboriginal and Torres Strait Islander corporation (liability of members on winding up)
+##### <a id="42-35"></a>42-35  Body corporate registered as Aboriginal and Torres Strait Islander corporation (liability of members on winding up)
 
              (1)  This section applies if:
 
-                     (a)  a body corporate is registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3 as a result of an application made under section 22‑1; and
+                     (a)  a body corporate is registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3 as a result of an application made under section 22-1; and
 
-                     (b)  a person stopped being a member of a body corporate before it was registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3.
+                     (b)  a person stopped being a member of a body corporate before it was registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3.
 
-             (2)  The person is to be treated as a past member of the Aboriginal and Torres Strait Islander corporation in applying Division 2 of Part 5.6 of the Corporations Act (as applied by section 526‑35 of this Act) to a winding up of the Aboriginal and Torres Strait Islander corporation.
+             (2)  The person is to be treated as a past member of the Aboriginal and Torres Strait Islander corporation in applying Division 2 of Part 5.6 of the Corporations Act (as applied by section 526-35 of this Act) to a winding up of the Aboriginal and Torres Strait Islander corporation.
 
              (3)  However, the person’s liability to contribute to the Aboriginal and Torres Strait Islander corporation’s property is further limited by this section to an amount sufficient for the following:
 
-                     (a)  payment of debts and liabilities contracted by the body corporate before the day on which it was registered as an Aboriginal and Torres Strait Islander corporation under Part 2‑3;
+                     (a)  payment of debts and liabilities contracted by the body corporate before the day on which it was registered as an Aboriginal and Torres Strait Islander corporation under Part 2-3;
 
                      (b)  payment of the costs, charges and expenses of winding up the Aboriginal and Torres Strait Islander corporation, so far as those costs, charges and expenses relate to those debts and liabilities;
 
                      (c)  the adjustment of the rights between the contributories, so far as the adjustment relates to those debts and liabilities.
 
-##### <a id="42‑40"></a>42‑40  Body corporate registered as Aboriginal and Torres Strait Islander corporation (modification by regulations)
+##### <a id="42-40"></a>42-40  Body corporate registered as Aboriginal and Torres Strait Islander corporation (modification by regulations)
 
-             (1)  The regulations may modify the operation of this Part in relation to an Aboriginal and Torres Strait Islander corporation registered under Part 2‑3 as a result of an application made under section 22‑1.
+             (1)  The regulations may modify the operation of this Part in relation to an Aboriginal and Torres Strait Islander corporation registered under Part 2-3 as a result of an application made under section 22-1.
 
              (2)  Regulations made for the purposes of subsection (1) must not:
 
@@ -3120,15 +3119,15 @@ that person must, upon the registration, take all action required to vest the es
 
                      (b)  widen, or have the effect of widening, the scope of any offence.
 
-##### <a id="42‑45"></a>42‑45  Registration of amalgamated corporation (liability of members on winding up)
+##### <a id="42-45"></a>42-45  Registration of amalgamated corporation (liability of members on winding up)
 
              (1)  This section applies if:
 
-                     (a)  an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) is registered under Part 2‑3 as a result of an application made under section 23‑1 to register the amalgamated corporation to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**); and
+                     (a)  an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) is registered under Part 2-3 as a result of an application made under section 23-1 to register the amalgamated corporation to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**); and
 
                      (b)  a person stopped being a member of an amalgamating corporation before the registration of the amalgamated corporation.
 
-             (2)  The person is to be treated as a past member of the amalgamated corporation in applying Division 2 of Part 5.6 of the Corporations Act (as applied by section 526‑35 of this Act) to a winding up of the amalgamated corporation.
+             (2)  The person is to be treated as a past member of the amalgamated corporation in applying Division 2 of Part 5.6 of the Corporations Act (as applied by section 526-35 of this Act) to a winding up of the amalgamated corporation.
 
              (3)  However, the person’s liability to contribute to the amalgamated corporation’s property is further limited by this section to an amount sufficient for the following:
 
@@ -3138,9 +3137,9 @@ that person must, upon the registration, take all action required to vest the es
 
                      (c)  the adjustment of the rights between the contributories, so far as the adjustment relates to those debts and liabilities.
 
-##### <a id="42‑50"></a>42‑50  Registration of amalgamated corporation (modification by regulations)
+##### <a id="42-50"></a>42-50  Registration of amalgamated corporation (modification by regulations)
 
-             (1)  The regulations may modify the operation of this Part in relation to an Aboriginal and Torres Strait Islander corporation registered under Part 2‑3 as a result of an application made under section 23‑1.
+             (1)  The regulations may modify the operation of this Part in relation to an Aboriginal and Torres Strait Islander corporation registered under Part 2-3 as a result of an application made under section 23-1.
 
              (2)  Regulations made for the purposes of subsection (1) must not:
 
@@ -3148,11 +3147,11 @@ that person must, upon the registration, take all action required to vest the es
 
                      (b)  widen, or have the effect of widening, the scope of any offence.
 
-## Part 2‑6—Arrangements and reconstructions
+## Part 2-6—Arrangements and reconstructions
 
 ### Division 45—Application of Corporations Act arrangements and reconstructions provisions
 
-##### <a id="45‑1"></a>45‑1  Applying Corporations Act arrangements and reconstructions provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="45-1"></a>45-1  Applying Corporations Act arrangements and reconstructions provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act arrangements and reconstructions provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -3273,11 +3272,11 @@ Note:          If a number of Aboriginal and Torres Strait Isl
 
 # Chapter 3—Basic features of an Aboriginal and Torres Strait Islander corporation
 
-## Part 3‑1—Introduction
+## Part 3-1—Introduction
 
 ### Division 52—Introduction
 
-##### <a id="52‑1"></a>52‑1  What this Chapter is about
+##### <a id="52-1"></a>52-1  What this Chapter is about
 
 * * *
 
@@ -3285,11 +3284,11 @@ This Chapter deals with the internal governance rules, the minimum number of mem
 
 * * *
 
-## Part 3‑2—Rules dealing with the internal governance of corporations
+## Part 3-2—Rules dealing with the internal governance of corporations
 
 ### Division 57—Introduction
 
-##### <a id="57‑1"></a>57‑1  What this Part is about
+##### <a id="57-1"></a>57-1  What this Part is about
 
 * * *
 
@@ -3297,21 +3296,21 @@ The rules dealing with the internal governance of an Aboriginal and Torres Strai
 
                (a)     common law rules; and
 
-              (b)     rules in this Act that cannot be replaced by the corporation’s constitution; and
+               (b)     rules in this Act that cannot be replaced by the corporation’s constitution; and
 
                (c)     replaceable rules in this Act that may be modified or replaced by the corporation’s constitution; and
 
-              (d)     rules that are in the corporation’s constitution.
+               (d)     rules that are in the corporation’s constitution.
 
 Some of the rules in paragraph (d):
 
                (a)     may be required by this Act to be in the constitution; or
 
-              (b)     may be there to modify or replace a replaceable rule; or
+               (b)     may be there to modify or replace a replaceable rule; or
 
                (c)     may be there as a special rule applying to that particular corporation.
 
-This Part deals with the rules in paragraphs (c) and (d) and refers to them as internal governance rules of the corporation (see section 63‑1).
+This Part deals with the rules in paragraphs (c) and (d) and refers to them as internal governance rules of the corporation (see section 63-1).
 
 The corporation may choose to adopt all or some of the replaceable rules as rules of its internal governance.
 
@@ -3323,7 +3322,7 @@ Division 72 deals with other matters concerning constitutions.
 
 * * *
 
-##### <a id="57‑5"></a>57‑5  List of internal governance rules
+##### <a id="57-5"></a>57-5  List of internal governance rules
 
                    The following table sets out the main provisions of this Act that deal with the internal governance of Aboriginal and Torres Strait Islander corporations. The table indicates those rules that operate as replaceable rules and Division 60 tells you how replaceable rules operate.
 
@@ -3367,7 +3366,7 @@ Division 72 deals with other matters concerning constitutions.
   <td>
     <div>
 
-subsection 66‑1(3A)</div>
+subsection 66-1(3A)</div>
   </td>
 </tr>
 <tr>
@@ -3385,7 +3384,7 @@ subsection 66‑1(3A)</div>
   <td>
     <div>
 
-section 144‑1</div>
+section 144-1</div>
   </td>
 </tr>
 <tr>
@@ -3396,7 +3395,7 @@ section 144‑1</div>
     <div>Application to corporation</div>
   </td>
   <td>
-    <div>section 144‑5</div>
+    <div>section 144-5</div>
     <div>
       <i>subsection (2) is a replaceable rule</i>
     </div>
@@ -3410,7 +3409,7 @@ section 144‑1</div>
     <div>Determination of applications for membership</div>
   </td>
   <td>
-    <div>section 144‑10</div>
+    <div>section 144-10</div>
     <div>
       <i>subsection (7) is a replaceable rule</i>
     </div>
@@ -3424,7 +3423,7 @@ section 144‑1</div>
     <div>Fees for membership and being an observer</div>
   </td>
   <td>
-    <div>section 144‑15</div>
+    <div>section 144-15</div>
   </td>
 </tr>
 <tr>
@@ -3435,7 +3434,7 @@ section 144‑1</div>
     <div>Obligation to contribute on winding up</div>
   </td>
   <td>
-    <div>section 147‑1</div>
+    <div>section 147-1</div>
   </td>
 </tr>
 <tr>
@@ -3446,7 +3445,7 @@ section 144‑1</div>
     <div>Corporation may impose other membership obligations</div>
   </td>
   <td>
-    <div>section 147‑5</div>
+    <div>section 147-5</div>
   </td>
 </tr>
 <tr>
@@ -3457,7 +3456,7 @@ section 144‑1</div>
     <div>Liability of corporation members</div>
   </td>
   <td>
-    <div>section 147‑10</div>
+    <div>section 147-10</div>
   </td>
 </tr>
 <tr>
@@ -3468,7 +3467,7 @@ section 144‑1</div>
     <div>Cessation of membership</div>
   </td>
   <td>
-    <div>section 150‑1</div>
+    <div>section 150-1</div>
   </td>
 </tr>
 <tr>
@@ -3479,7 +3478,7 @@ section 144‑1</div>
     <div>Resignation</div>
   </td>
   <td>
-    <div>section 150‑10</div>
+    <div>section 150-10</div>
     <div>
       <i>subsection (2) is a replaceable rule</i>
     </div>
@@ -3493,7 +3492,7 @@ section 144‑1</div>
     <div>General</div>
   </td>
   <td>
-    <div>section 150‑15</div>
+    <div>section 150-15</div>
   </td>
 </tr>
 <tr>
@@ -3504,7 +3503,7 @@ section 144‑1</div>
     <div>Member not eligible for membership etc.</div>
   </td>
   <td>
-    <div>section 150‑20</div>
+    <div>section 150-20</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3518,7 +3517,7 @@ section 144‑1</div>
     <div>Member not contactable</div>
   </td>
   <td>
-    <div>section 150‑25</div>
+    <div>section 150-25</div>
   </td>
 </tr>
 <tr>
@@ -3529,7 +3528,7 @@ section 144‑1</div>
     <div>Member is not an Aboriginal and Torres Strait Islander person</div>
   </td>
   <td>
-    <div>section 150‑30</div>
+    <div>section 150-30</div>
   </td>
 </tr>
 <tr>
@@ -3540,7 +3539,7 @@ section 144‑1</div>
     <div>Member misbehaves</div>
   </td>
   <td>
-    <div>section 150‑35</div>
+    <div>section 150-35</div>
   </td>
 </tr>
 <tr>
@@ -3551,7 +3550,7 @@ section 144‑1</div>
     <div>Different classes of members</div>
   </td>
   <td>
-    <div>section 153‑1</div>
+    <div>section 153-1</div>
   </td>
 </tr>
 <tr>
@@ -3562,7 +3561,7 @@ section 144‑1</div>
     <div>Observers</div>
   </td>
   <td>
-    <div>section 158‑5</div>
+    <div>section 158-5</div>
     <div>
       <i>subsection (2) is a replaceable rule</i>
     </div>
@@ -3587,7 +3586,7 @@ section 144‑1</div>
     <div>Corporation or directors may allow member to inspect books</div>
   </td>
   <td>
-    <div>section 175‑15</div>
+    <div>section 175-15</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3608,7 +3607,7 @@ section 144‑1</div>
   <td>
     <div>
 
-section 201‑1</div>
+section 201-1</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3622,7 +3621,7 @@ section 201‑1</div>
     <div>Request by members for directors to call general meetings</div>
   </td>
   <td>
-    <div>section 201‑5</div>
+    <div>section 201-5</div>
   </td>
 </tr>
 <tr>
@@ -3633,7 +3632,7 @@ section 201‑1</div>
     <div>When must directors comply with members’ request?</div>
   </td>
   <td>
-    <div>section 201‑10</div>
+    <div>section 201-10</div>
   </td>
 </tr>
 <tr>
@@ -3644,7 +3643,7 @@ section 201‑1</div>
     <div>When must a requested meeting be held?</div>
   </td>
   <td>
-    <div>section 201‑15</div>
+    <div>section 201-15</div>
   </td>
 </tr>
 <tr>
@@ -3655,7 +3654,7 @@ section 201‑1</div>
     <div>Amount of notice for general meeting</div>
   </td>
   <td>
-    <div>section 201‑20</div>
+    <div>section 201-20</div>
   </td>
 </tr>
 <tr>
@@ -3666,7 +3665,7 @@ section 201‑1</div>
     <div>Notice of general meeting to members, officers and observers</div>
   </td>
   <td>
-    <div>section 201‑25</div>
+    <div>section 201-25</div>
     <div>
       <i>subsections (2), (5) and (6) are replaceable rules</i>
     </div>
@@ -3680,7 +3679,7 @@ section 201‑1</div>
     <div>Auditor entitled to notice and other communications</div>
   </td>
   <td>
-    <div>section 201‑30</div>
+    <div>section 201-30</div>
   </td>
 </tr>
 <tr>
@@ -3691,7 +3690,7 @@ section 201‑1</div>
     <div>Contents of notice of general meeting</div>
   </td>
   <td>
-    <div>section 201‑35</div>
+    <div>section 201-35</div>
   </td>
 </tr>
 <tr>
@@ -3702,7 +3701,7 @@ section 201‑1</div>
     <div>Members’ resolutions</div>
   </td>
   <td>
-    <div>section 201‑40</div>
+    <div>section 201-40</div>
   </td>
 </tr>
 <tr>
@@ -3713,7 +3712,7 @@ section 201‑1</div>
     <div>Notice of members’ resolutions</div>
   </td>
   <td>
-    <div>section 201‑45</div>
+    <div>section 201-45</div>
   </td>
 </tr>
 <tr>
@@ -3724,7 +3723,7 @@ section 201‑1</div>
     <div>Members’ statements to be distributed</div>
   </td>
   <td>
-    <div>section 201‑50</div>
+    <div>section 201-50</div>
   </td>
 </tr>
 <tr>
@@ -3735,7 +3734,7 @@ section 201‑1</div>
     <div>Purpose</div>
   </td>
   <td>
-    <div>section 201‑55</div>
+    <div>section 201-55</div>
   </td>
 </tr>
 <tr>
@@ -3746,7 +3745,7 @@ section 201‑1</div>
     <div>Time and place for general meeting</div>
   </td>
   <td>
-    <div>section 201‑60</div>
+    <div>section 201-60</div>
   </td>
 </tr>
 <tr>
@@ -3757,7 +3756,7 @@ section 201‑1</div>
     <div>Technology</div>
   </td>
   <td>
-    <div>section 201‑65</div>
+    <div>section 201-65</div>
   </td>
 </tr>
 <tr>
@@ -3768,7 +3767,7 @@ section 201‑1</div>
     <div>Quorum</div>
   </td>
   <td>
-    <div>section 201‑70</div>
+    <div>section 201-70</div>
     <div>
       <i>subsections (1), (2), (5) and (6) are replaceable rules</i>
     </div>
@@ -3782,7 +3781,7 @@ section 201‑1</div>
     <div>Chairing general meeting</div>
   </td>
   <td>
-    <div>section 201‑75</div>
+    <div>section 201-75</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3796,7 +3795,7 @@ section 201‑1</div>
     <div>Auditor’s right to be heard at general meetings</div>
   </td>
   <td>
-    <div>section 201‑80</div>
+    <div>section 201-80</div>
   </td>
 </tr>
 <tr>
@@ -3807,7 +3806,7 @@ section 201‑1</div>
     <div>Adjourned meetings</div>
   </td>
   <td>
-    <div>section 201‑85</div>
+    <div>section 201-85</div>
     <div>
       <i>subsection (2) is a replaceable rule</i>
     </div>
@@ -3821,7 +3820,7 @@ section 201‑1</div>
     <div>Who may appoint a proxy</div>
   </td>
   <td>
-    <div>section 201‑90</div>
+    <div>section 201-90</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3835,7 +3834,7 @@ section 201‑1</div>
     <div>Rights of proxies</div>
   </td>
   <td>
-    <div>section 201‑95</div>
+    <div>section 201-95</div>
   </td>
 </tr>
 <tr>
@@ -3846,7 +3845,7 @@ section 201‑1</div>
     <div>Appointing a proxy</div>
   </td>
   <td>
-    <div>section 201‑100</div>
+    <div>section 201-100</div>
   </td>
 </tr>
 <tr>
@@ -3857,7 +3856,7 @@ section 201‑1</div>
     <div>Proxy documents</div>
   </td>
   <td>
-    <div>section 201‑105</div>
+    <div>section 201-105</div>
   </td>
 </tr>
 <tr>
@@ -3868,7 +3867,7 @@ section 201‑1</div>
     <div>Body corporate representative</div>
   </td>
   <td>
-    <div>section 201‑110</div>
+    <div>section 201-110</div>
   </td>
 </tr>
 <tr>
@@ -3879,7 +3878,7 @@ section 201‑1</div>
     <div>How many votes a member has</div>
   </td>
   <td>
-    <div>section 201‑115</div>
+    <div>section 201-115</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3893,7 +3892,7 @@ section 201‑1</div>
     <div>Objections to right to vote</div>
   </td>
   <td>
-    <div>section 201‑120</div>
+    <div>section 201-120</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3907,7 +3906,7 @@ section 201‑1</div>
     <div>How voting is carried out</div>
   </td>
   <td>
-    <div>section 201‑125</div>
+    <div>section 201-125</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3921,7 +3920,7 @@ section 201‑1</div>
     <div>Matters on which a poll may be demanded</div>
   </td>
   <td>
-    <div>section 201‑130</div>
+    <div>section 201-130</div>
   </td>
 </tr>
 <tr>
@@ -3932,7 +3931,7 @@ section 201‑1</div>
     <div>When a poll is effectively demanded</div>
   </td>
   <td>
-    <div>section 201‑135</div>
+    <div>section 201-135</div>
   </td>
 </tr>
 <tr>
@@ -3943,7 +3942,7 @@ section 201‑1</div>
     <div>When and how polls must be taken</div>
   </td>
   <td>
-    <div>section 201‑140</div>
+    <div>section 201-140</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -3957,7 +3956,7 @@ section 201‑1</div>
     <div>Corporation must hold first general meeting within 3 months of registration</div>
   </td>
   <td>
-    <div>section 201‑145</div>
+    <div>section 201-145</div>
   </td>
 </tr>
 <tr>
@@ -3968,7 +3967,7 @@ section 201‑1</div>
     <div>Corporation must hold AGM</div>
   </td>
   <td>
-    <div>section 201‑150</div>
+    <div>section 201-150</div>
   </td>
 </tr>
 <tr>
@@ -3979,7 +3978,7 @@ section 201‑1</div>
     <div>Extension of time for holding AGM</div>
   </td>
   <td>
-    <div>section 201‑155</div>
+    <div>section 201-155</div>
   </td>
 </tr>
 <tr>
@@ -3990,7 +3989,7 @@ section 201‑1</div>
     <div>Business of AGM</div>
   </td>
   <td>
-    <div>section 201‑160</div>
+    <div>section 201-160</div>
   </td>
 </tr>
 <tr>
@@ -4001,7 +4000,7 @@ section 201‑1</div>
     <div>Questions and comments by members on corporation management at AGM</div>
   </td>
   <td>
-    <div>section 201‑165</div>
+    <div>section 201-165</div>
   </td>
 </tr>
 <tr>
@@ -4012,7 +4011,7 @@ section 201‑1</div>
     <div>Questions by members of auditors at AGM</div>
   </td>
   <td>
-    <div>section 201‑170</div>
+    <div>section 201-170</div>
   </td>
 </tr>
 <tr>
@@ -4023,7 +4022,7 @@ section 201‑1</div>
     <div>Circulating resolutions</div>
   </td>
   <td>
-    <div>section 204‑1</div>
+    <div>section 204-1</div>
   </td>
 </tr>
 <tr>
@@ -4034,7 +4033,7 @@ section 201‑1</div>
     <div>Resolutions of 1 member corporations</div>
   </td>
   <td>
-    <div>section 204‑5</div>
+    <div>section 204-5</div>
   </td>
 </tr>
 <tr>
@@ -4045,7 +4044,7 @@ section 201‑1</div>
     <div>Constitution to provide for meetings</div>
   </td>
   <td>
-    <div>section 212‑1</div>
+    <div>section 212-1</div>
   </td>
 </tr>
 <tr>
@@ -4056,7 +4055,7 @@ section 201‑1</div>
     <div>Calling directors’ meetings</div>
   </td>
   <td>
-    <div>section 212‑5</div>
+    <div>section 212-5</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4070,7 +4069,7 @@ section 201‑1</div>
     <div>Use of technology</div>
   </td>
   <td>
-    <div>section 212‑10</div>
+    <div>section 212-10</div>
   </td>
 </tr>
 <tr>
@@ -4081,7 +4080,7 @@ section 201‑1</div>
     <div>Chairing directors’ meetings</div>
   </td>
   <td>
-    <div>section 212‑15</div>
+    <div>section 212-15</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4095,7 +4094,7 @@ section 201‑1</div>
     <div>Quorum at directors’ meetings</div>
   </td>
   <td>
-    <div>section 212‑20</div>
+    <div>section 212-20</div>
   </td>
 </tr>
 <tr>
@@ -4106,7 +4105,7 @@ section 201‑1</div>
     <div>Passing of directors’ resolutions</div>
   </td>
   <td>
-    <div>section 212‑25</div>
+    <div>section 212-25</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4120,7 +4119,7 @@ section 201‑1</div>
     <div>Circulating resolutions of corporation with more than 1 director</div>
   </td>
   <td>
-    <div>section 215‑1</div>
+    <div>section 215-1</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4134,7 +4133,7 @@ section 201‑1</div>
     <div>Resolutions and declarations of 1 director corporation</div>
   </td>
   <td>
-    <div>section 215‑5</div>
+    <div>section 215-5</div>
   </td>
 </tr>
 <tr>
@@ -4145,7 +4144,7 @@ section 201‑1</div>
     <div>Minutes</div>
   </td>
   <td>
-    <div>section 220‑5</div>
+    <div>section 220-5</div>
   </td>
 </tr>
 <tr>
@@ -4156,7 +4155,7 @@ section 201‑1</div>
     <div>Members’ access to minutes</div>
   </td>
   <td>
-    <div>section 220‑10</div>
+    <div>section 220-10</div>
   </td>
 </tr>
 <tr>
@@ -4174,7 +4173,7 @@ section 201‑1</div>
   <td>
     <div>
 
-section 243‑1</div>
+section 243-1</div>
   </td>
 </tr>
 <tr>
@@ -4185,7 +4184,7 @@ section 243‑1</div>
     <div>Maximum number of directors</div>
   </td>
   <td>
-    <div>section 243‑5</div>
+    <div>section 243-5</div>
   </td>
 </tr>
 <tr>
@@ -4196,7 +4195,7 @@ section 243‑1</div>
     <div>Eligibility for appointment as a director</div>
   </td>
   <td>
-    <div>section 246‑1</div>
+    <div>section 246-1</div>
   </td>
 </tr>
 <tr>
@@ -4207,7 +4206,7 @@ section 243‑1</div>
     <div>Majority of director requirements</div>
   </td>
   <td>
-    <div>section 246‑5</div>
+    <div>section 246-5</div>
   </td>
 </tr>
 <tr>
@@ -4218,7 +4217,7 @@ section 243‑1</div>
     <div>Consent to act as director</div>
   </td>
   <td>
-    <div>section 246‑10</div>
+    <div>section 246-10</div>
   </td>
 </tr>
 <tr>
@@ -4229,7 +4228,7 @@ section 243‑1</div>
     <div>Corporation may appoint a director</div>
   </td>
   <td>
-    <div>section 246‑15</div>
+    <div>section 246-15</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4243,7 +4242,7 @@ section 243‑1</div>
     <div>Directors may appoint other directors to make up a quorum</div>
   </td>
   <td>
-    <div>section 246‑20</div>
+    <div>section 246-20</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4257,7 +4256,7 @@ section 243‑1</div>
     <div>Term of appointment</div>
   </td>
   <td>
-    <div>section 246‑25</div>
+    <div>section 246-25</div>
     <div>
       <i>subsections (1) and (3) are replaceable rules</i>
     </div>
@@ -4271,7 +4270,7 @@ section 243‑1</div>
     <div>Alternate directors</div>
   </td>
   <td>
-    <div>section 246‑30</div>
+    <div>section 246-30</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4285,7 +4284,7 @@ section 243‑1</div>
     <div>How does a person cease to be a director?</div>
   </td>
   <td>
-    <div>section 249‑1</div>
+    <div>section 249-1</div>
   </td>
 </tr>
 <tr>
@@ -4296,7 +4295,7 @@ section 243‑1</div>
     <div>Director may resign</div>
   </td>
   <td>
-    <div>section 249‑5</div>
+    <div>section 249-5</div>
     <div>
       <i>subsection (2) is a replaceable rule</i>
     </div>
@@ -4310,7 +4309,7 @@ section 243‑1</div>
     <div>Removal by members</div>
   </td>
   <td>
-    <div>section 249‑10</div>
+    <div>section 249-10</div>
   </td>
 </tr>
 <tr>
@@ -4321,7 +4320,7 @@ section 243‑1</div>
     <div>Removal by other directors</div>
   </td>
   <td>
-    <div>section 249‑15</div>
+    <div>section 249-15</div>
   </td>
 </tr>
 <tr>
@@ -4332,7 +4331,7 @@ section 243‑1</div>
     <div>Remuneration</div>
   </td>
   <td>
-    <div>section 252‑1</div>
+    <div>section 252-1</div>
   </td>
 </tr>
 <tr>
@@ -4343,7 +4342,7 @@ section 243‑1</div>
     <div>How a secretary or contact person is appointed</div>
   </td>
   <td>
-    <div>section 257‑20</div>
+    <div>section 257-20</div>
   </td>
 </tr>
 <tr>
@@ -4354,7 +4353,7 @@ section 243‑1</div>
     <div>Terms and conditions of office for secretaries</div>
   </td>
   <td>
-    <div>section 257‑45</div>
+    <div>section 257-45</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4369,7 +4368,7 @@ section 243‑1</div>
     <div>Terms and conditions of contact person’s appointment</div>
   </td>
   <td>
-    <div>section 257‑50</div>
+    <div>section 257-50</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4395,7 +4394,7 @@ section 243‑1</div>
     <div>Powers of directors</div>
   </td>
   <td>
-    <div>section 274‑1</div>
+    <div>section 274-1</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4409,7 +4408,7 @@ section 243‑1</div>
     <div>Negotiable instruments</div>
   </td>
   <td>
-    <div>section 274‑5</div>
+    <div>section 274-5</div>
     <div>
       <i>this section is a replaceable rule</i>
     </div>
@@ -4423,7 +4422,7 @@ section 243‑1</div>
     <div>Delegation</div>
   </td>
   <td>
-    <div>section 274‑10</div>
+    <div>section 274-10</div>
   </td>
 </tr>
 <tr>
@@ -4434,7 +4433,7 @@ section 243‑1</div>
     <div>Right of access to corporation books</div>
   </td>
   <td>
-    <div>section 274‑15</div>
+    <div>section 274-15</div>
   </td>
 </tr>
 <tr>
@@ -4445,17 +4444,17 @@ section 243‑1</div>
     <div>Member approval needed for related party benefit</div>
   </td>
   <td>
-    <div>Part 6‑6</div>
+    <div>Part 6-6</div>
   </td>
 </tr></table>
 
 ### Division 60—What are the replaceable rules and when do they apply to a corporation?
 
-##### <a id="60‑1"></a>60‑1  Replaceable rules
+##### <a id="60-1"></a>60-1  Replaceable rules
 
 Which are the replaceable rules?
 
-             (1)  A section or subsection whose heading contains the words “replaceable rule—see section 60‑1” is a replaceable rule.
+             (1)  A section or subsection whose heading contains the words “replaceable rule—see section 60-1” is a replaceable rule.
 
 To which corporations do the replaceable rules apply?
 
@@ -4469,15 +4468,15 @@ To which corporations do the replaceable rules apply?
 
                              (ii)  that repeals its constitution after the commencing day;
 
-except to the extent to which the rules are modified or replaced by the corporation’s constitution as provided for in section 60‑5.
+except to the extent to which the rules are modified or replaced by the corporation’s constitution as provided for in section 60-5.
 
-##### <a id="60‑5"></a>60‑5  Corporation’s constitution can modify or replace replaceable rules
+##### <a id="60-5"></a>60-5  Corporation’s constitution can modify or replace replaceable rules
 
                    A provision of a section or subsection of a replaceable rule that applies to an Aboriginal and Torres Strait Islander corporation can be modified or replaced by the corporation’s constitution.
 
-Note:          In modifying or replacing a replaceable rule, an Aboriginal and Torres Strait Islander corporation must ensure that the matter covered by the original replaceable rule is provided for in the corporation’s constitution. If it is not, then the constitution may not be covering the matters provided for in the replaceable rules (see section 66‑1).
+Note:          In modifying or replacing a replaceable rule, an Aboriginal and Torres Strait Islander corporation must ensure that the matter covered by the original replaceable rule is provided for in the corporation’s constitution. If it is not, then the constitution may not be covering the matters provided for in the replaceable rules (see section 66-1).
 
-##### <a id="60‑10"></a>60‑10  Effect of constitution and replaceable rules
+##### <a id="60-10"></a>60-10  Effect of constitution and replaceable rules
 
              (1)  An Aboriginal and Torres Strait Islander corporation’s constitution, and any replaceable rules that apply to the corporation, have effect as a contract:
 
@@ -4489,11 +4488,11 @@ Note:          In modifying or replacing a replaceable rule, a
 
              (2)  Under the contract, each person agrees to observe and perform the requirements of the constitution and rules so far as they apply to that person.
 
-##### <a id="60‑15"></a>60‑15  Failure to comply with replaceable rules
+##### <a id="60-15"></a>60-15  Failure to comply with replaceable rules
 
                    A failure to comply with the replaceable rules as they apply to an Aboriginal and Torres Strait Islander corporation is not of itself a contravention of this Act (so the provisions about criminal liability, civil liability and injunctions do not apply).
 
-##### <a id="60‑20"></a>60‑20  Modification by regulations
+##### <a id="60-20"></a>60-20  Modification by regulations
 
              (1)  The regulations may modify the replaceable rules in relation to:
 
@@ -4509,7 +4508,7 @@ Note:          In modifying or replacing a replaceable rule, a
 
 ### Division 63—What are the internal governance rules of a corporation?
 
-##### <a id="63‑1"></a>63‑1  Meaning of internal governance rules
+##### <a id="63-1"></a>63-1  Meaning of internal governance rules
 
                    The following constitute the **_internal governance rules_** of an Aboriginal and Torres Strait Islander corporation:
 
@@ -4521,7 +4520,7 @@ Note:          In modifying or replacing a replaceable rule, a
 
 ### Division 66—What are the internal governance rules requirements?
 
-##### <a id="66‑1"></a>66‑1  Requirements
+##### <a id="66-1"></a>66-1  Requirements
 
              (1)  The following are the **_internal governance rules requirements_** for an Aboriginal and Torres Strait Islander corporation.
 
@@ -4531,7 +4530,7 @@ Note:          In modifying or replacing a replaceable rule, a
 
           (3A)  The corporation’s constitution must provide for the resolution of disputes internal to the operation of the corporation.
 
-             (4)  The internal governance rules must cover the matters that are provided for in the replaceable rules (see section 66‑5).
+             (4)  The internal governance rules must cover the matters that are provided for in the replaceable rules (see section 66-5).
 
              (5)  The internal governance rules must also be:
 
@@ -4549,11 +4548,11 @@ Note:          In modifying or replacing a replaceable rule, a
 
              (6)  The corporation must meet the requirements at all times after registration.
 
-Note 1:       An application for registration of an Aboriginal and Torres Strait Islander corporation may not be successful unless the corporation, on registration, is complying with the requirements (see section 29‑20).
+Note 1:       An application for registration of an Aboriginal and Torres Strait Islander corporation may not be successful unless the corporation, on registration, is complying with the requirements (see section 29-20).
 
-Note 2:       If an Aboriginal and Torres Strait Islander corporation is making a change to its constitution and the Registrar is of the opinion that the corporation’s internal governance rules, after the change, would not comply with the internal governance rules requirements, the Registrar may refuse to register the change (see section 69‑30).
+Note 2:       If an Aboriginal and Torres Strait Islander corporation is making a change to its constitution and the Registrar is of the opinion that the corporation’s internal governance rules, after the change, would not comply with the internal governance rules requirements, the Registrar may refuse to register the change (see section 69-30).
 
-##### <a id="66‑5"></a>66‑5  Meaning of _cover the matters provided for in the replaceable rules_
+##### <a id="66-5"></a>66-5  Meaning of _cover the matters provided for in the replaceable rules_
 
 If all replaceable rules apply or all are replaced
 
@@ -4583,13 +4582,13 @@ Regulations may modify section
 
 ### Division 69—Constitutions and amendment and replacement of constitutions
 
-#### Subdivision 69‑A—Constitution on registration
+#### Subdivision 69-A—Constitution on registration
 
-##### <a id="69‑1"></a>69‑1  Constitution of an Aboriginal and Torres Strait Islander corporation
+##### <a id="69-1"></a>69-1  Constitution of an Aboriginal and Torres Strait Islander corporation
 
              (1)  The constitution of an Aboriginal and Torres Strait Islander corporation is the constitution that is registered in respect of the corporation.
 
-Note:          75% of the persons specified in the application for registration as persons who consent to become members must approve the constitution before the application for registration is lodged (see section 29‑15).
+Note:          75% of the persons specified in the application for registration as persons who consent to become members must approve the constitution before the application for registration is lodged (see section 29-15).
 
              (2)  A **_constitution_** is an instrument (other than this Act):
 
@@ -4597,9 +4596,9 @@ Note:          75% of the persons specified in the application
 
                      (b)  governing the activities of such a corporation or its members.
 
-#### Subdivision 69‑B—Constitutional changes after registration
+#### Subdivision 69-B—Constitutional changes after registration
 
-##### <a id="69‑5"></a>69‑5  Overview—ways a constitution may be changed
+##### <a id="69-5"></a>69-5  Overview—ways a constitution may be changed
 
 Corporation wants to change its constitution
 
@@ -4607,37 +4606,37 @@ Corporation wants to change its constitution
 
                      (a)  the corporation must pass a special resolution effecting the change;
 
-                     (b)  if, under the corporation’s constitution, there are further steps that must also be complied with to make a constitutional change—those steps must be complied with (see section 69‑15);
+                     (b)  if, under the corporation’s constitution, there are further steps that must also be complied with to make a constitutional change—those steps must be complied with (see section 69-15);
 
-                     (c)  the corporation must lodge certain documents (see section 69‑20);
+                     (c)  the corporation must lodge certain documents (see section 69-20);
 
-                     (d)  the Registrar must make certain decisions in respect of the constitutional change and, if appropriate, must register the change (see section 69‑30).
+                     (d)  the Registrar must make certain decisions in respect of the constitutional change and, if appropriate, must register the change (see section 69-30).
 
-Note:          The constitutional change takes effect when it is registered (see section 69‑40).
+Note:          The constitutional change takes effect when it is registered (see section 69-40).
 
 Court may change a constitution
 
-             (2)  The court may also change an Aboriginal and Torres Strait Islander corporation’s constitution (see section 166‑5).
+             (2)  The court may also change an Aboriginal and Torres Strait Islander corporation’s constitution (see section 166-5).
 
-Note:          The constitutional change takes effect as provided for in paragraph 69‑40(b).
+Note:          The constitutional change takes effect as provided for in paragraph 69-40(b).
 
 Registrar may change a constitution
 
-             (3)  The Registrar may also change an Aboriginal and Torres Strait Islander corporation’s constitution (see section 69‑35).
+             (3)  The Registrar may also change an Aboriginal and Torres Strait Islander corporation’s constitution (see section 69-35).
 
-Note 1:       If the Registrar changes a constitution under section 69‑35, the steps in subsection (1) of this section do not apply.
+Note 1:       If the Registrar changes a constitution under section 69-35, the steps in subsection (1) of this section do not apply.
 
-Note 2:       The constitutional change takes effect when it is registered (see section 69‑40).
+Note 2:       The constitutional change takes effect when it is registered (see section 69-40).
 
 Special administrator may change a constitution
 
-             (4)  A special administrator for an Aboriginal and Torres Strait Islander corporation may also change the corporation’s constitution (see section 499‑5).
+             (4)  A special administrator for an Aboriginal and Torres Strait Islander corporation may also change the corporation’s constitution (see section 499-5).
 
-Note 1:       If the special administrator changes a constitution under section 499‑5, the steps in paragraphs (1)(a), (b) and (c) of this section do not apply (but the administrator must lodge the change with the Registrar under section 69‑25 and the Registrar must take the steps in section 69‑30).
+Note 1:       If the special administrator changes a constitution under section 499-5, the steps in paragraphs (1)(a), (b) and (c) of this section do not apply (but the administrator must lodge the change with the Registrar under section 69-25 and the Registrar must take the steps in section 69-30).
 
-Note 2:       The constitutional change takes effect when it is registered (see section 69‑40).
+Note 2:       The constitutional change takes effect when it is registered (see section 69-40).
 
-##### <a id="69‑10"></a>69‑10  Meaning of _constitutional change_ etc.
+##### <a id="69-10"></a>69-10  Meaning of _constitutional change_ etc.
 
              (1)  For the purposes of this Act, an Aboriginal and Torres Strait Islander corporation’s constitution is **_changed_** if:
 
@@ -4661,17 +4660,17 @@ Note 2:       The constitutional change takes effect when it is regi
 
                      (d)  in the case of paragraph (1)(e)—the modification.
 
-##### <a id="69‑15"></a>69‑15  Extra requirements for constitutional change in constitution
+##### <a id="69-15"></a>69-15  Extra requirements for constitutional change in constitution
 
              (1)  An Aboriginal and Torres Strait Islander corporation’s constitution may provide that a change to its constitution does not have any effect unless a requirement specified in the constitution relating to that constitutional change has been complied with.
 
              (2)  Unless the constitution provides otherwise, the corporation may modify or repeal a requirement described in subsection (1) only if the requirement is itself complied with.
 
-Note:          Section 69‑40 deals with when the constitutional change takes effect.
+Note:          Section 69-40 deals with when the constitutional change takes effect.
 
-##### <a id="69‑20"></a>69‑20  Corporation to lodge copy of constitutional changes
+##### <a id="69-20"></a>69-20  Corporation to lodge copy of constitutional changes
 
-             (1)  If no requirement of a kind mentioned in section 69‑15 is specified in the corporation’s constitution, within 28 days after the special resolution is passed, the corporation must lodge with the Registrar:
+             (1)  If no requirement of a kind mentioned in section 69-15 is specified in the corporation’s constitution, within 28 days after the special resolution is passed, the corporation must lodge with the Registrar:
 
                      (a)  a copy of the special resolution; and
 
@@ -4701,17 +4700,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 to the effect that the special resolution was passed in accordance with the internal governance rules.
 
-Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note:          See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="69‑25"></a>69‑25  Special administrator to lodge copy of constitutional changes
+##### <a id="69-25"></a>69-25  Special administrator to lodge copy of constitutional changes
 
-                   If the special administrator of an Aboriginal and Torres Strait Islander corporation changes the corporation’s constitution under section 499‑5, the special administrator must lodge a copy of the change with the Registrar.
+                   If the special administrator of an Aboriginal and Torres Strait Islander corporation changes the corporation’s constitution under section 499-5, the special administrator must lodge a copy of the change with the Registrar.
 
-##### <a id="69‑30"></a>69‑30  Registrar to determine if constitutional change should be registered
+##### <a id="69-30"></a>69-30  Registrar to determine if constitutional change should be registered
 
 Registrar to decide
 
-             (1)  The Registrar must decide whether to register a constitutional change lodged under section 69‑20 or 69‑25.
+             (1)  The Registrar must decide whether to register a constitutional change lodged under section 69-20 or 69-25.
 
 Changed internal governance rules must comply with the internal governance rules requirement
 
@@ -4719,7 +4718,7 @@ Changed internal governance rules must comply with the internal governance rules
 
 Proposed change after Registrar’s change
 
-             (3)  In addition to being satisfied as required by subsection (2), the Registrar must not register a constitutional change lodged after the Registrar has changed the constitution under section 69‑35 unless the Registrar is satisfied that:
+             (3)  In addition to being satisfied as required by subsection (2), the Registrar must not register a constitutional change lodged after the Registrar has changed the constitution under section 69-35 unless the Registrar is satisfied that:
 
                      (a)  the lodged change is consistent with the change made by the Registrar, taking into account the Registrar’s reasons for making that change; and
 
@@ -4737,13 +4736,13 @@ If Registrar is satisfied
 
              (5)  If the Registrar is satisfied as required by this section, the Registrar must register the change within 28 days after making the decision.
 
-##### <a id="69‑35"></a>69‑35  Registrar may change an Aboriginal and Torres Strait Islander corporation’s constitution on own initiative
+##### <a id="69-35"></a>69-35  Registrar may change an Aboriginal and Torres Strait Islander corporation’s constitution on own initiative
 
              (1)  The Registrar may, on his or her own initiative, change an Aboriginal and Torres Strait Islander corporation’s constitution in the circumstances set out in subsection (2) or (3).
 
              (2)  The Registrar may change the constitution if the Registrar is satisfied that the corporation is not meeting the internal governance rules requirements.
 
-Note:          Section 66‑1 sets out the requirements.
+Note:          Section 66-1 sets out the requirements.
 
              (3)  The Registrar may change the constitution if the Registrar is satisfied that:
 
@@ -4781,15 +4780,15 @@ if an officer or employee of the corporation does (or refrains from doing), or p
 
                      (b)  setting out the terms of the change.
 
-             (8)  In making a change under this section, the Registrar does not have to comply with paragraph 69‑5(1)(a) (special resolution), section 69‑15 (satisfying extra requirements in constitution), section 69‑20 (corporation to lodge copy of changes) or section 69‑30 (Registrar to determine if constitutional change should be registered).
+             (8)  In making a change under this section, the Registrar does not have to comply with paragraph 69-5(1)(a) (special resolution), section 69-15 (satisfying extra requirements in constitution), section 69-20 (corporation to lodge copy of changes) or section 69-30 (Registrar to determine if constitutional change should be registered).
 
-##### <a id="69‑40"></a>69‑40  Date of effect of constitutional change
+##### <a id="69-40"></a>69-40  Date of effect of constitutional change
 
                    A constitutional change takes effect:
 
                      (a)  if it is the result of a special resolution—on the day the change is registered; or
 
-                     (b)  if it is the result of a Court order made under section 166‑5:
+                     (b)  if it is the result of a Court order made under section 166-5:
 
                               (i)  on the date on which the order is made if it specifies no later date; or
 
@@ -4801,15 +4800,15 @@ if an officer or employee of the corporation does (or refrains from doing), or p
 
 ### Division 72—Other matters concerning constitutions etc.
 
-##### <a id="72‑1"></a>72‑1  Registrar may direct corporation to lodge constitution
+##### <a id="72-1"></a>72-1  Registrar may direct corporation to lodge constitution
 
              (1)  The Registrar may direct an Aboriginal and Torres Strait Islander corporation to lodge a copy of its constitution.
 
-Note:          Under section 322‑5, an Aboriginal and Torres Strait Islander corporation must keep an up‑to‑date copy of its constitution.
+Note:          Under section 322-5, an Aboriginal and Torres Strait Islander corporation must keep an up-to-date copy of its constitution.
 
              (2)  A direction made under subsection (1) is not a legislative instrument.
 
-##### <a id="72‑5"></a>72‑5  Corporation must provide governance material to members
+##### <a id="72-5"></a>72-5  Corporation must provide governance material to members
 
 Corporation must provide member with constitution etc.
 
@@ -4829,13 +4828,13 @@ Registered office
 
              (3)  An Aboriginal and Torres Strait Islander corporation that is registered as a large corporation must make available for inspection by members and officers at its registered office, its internal governance framework rules. The rules must be available for inspection each business day from at least 10 am to 12 noon and from at least 2 pm to 4 pm.
 
-Note:          Failure to comply with this subsection is an offence under section 376‑1.
+Note:          Failure to comply with this subsection is an offence under section 376-1.
 
 Document access address
 
              (4)  An Aboriginal and Torres Strait Islander corporation that is registered as a small or medium corporation must make available for inspection by members and officers at its document access address, its internal governance framework rules. The rules must be made available for inspection within 7 days of a member’s or officer’s written request for inspection.
 
-Note:          Failure to comply with this subsection is an offence under section 376‑1.
+Note:          Failure to comply with this subsection is an offence under section 376-1.
 
              (5)  A corporation must make rules available under subsections (3) and (4) free of charge.
 
@@ -4853,17 +4852,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  any other material concerning the internal governance of the corporation that is prescribed.
 
-##### <a id="72‑10"></a>72‑10  Constitution may limit powers
+##### <a id="72-10"></a>72-10  Constitution may limit powers
 
              (1)  An Aboriginal and Torres Strait Islander corporation’s constitution may contain an express restriction on, or a prohibition of, the corporation’s exercise of any of its powers. The exercise of a power by the corporation is not invalid merely because it is contrary to an express restriction or prohibition in the corporation’s constitution.
 
 (2)  An act of the corporation is not invalid merely because it is contrary to or beyond the objects set out in the corporation’s constitution.
 
-## Part 3‑3—Minimum number of members of Aboriginal and Torres Strait Islander corporations
+## Part 3-3—Minimum number of members of Aboriginal and Torres Strait Islander corporations
 
 ### Division 77—Minimum number of members of Aboriginal and Torres Strait Islander corporations
 
-##### <a id="77‑1"></a>77‑1  What this Part is about
+##### <a id="77-1"></a>77-1  What this Part is about
 
 * * *
 
@@ -4871,7 +4870,7 @@ This Part deals with the minimum number of members that an Aboriginal and Torres
 
 * * *
 
-##### <a id="77‑5"></a>77‑5  Minimum number of members requirement
+##### <a id="77-5"></a>77-5  Minimum number of members requirement
 
 Minimum number of members
 
@@ -4889,7 +4888,7 @@ Request in application for registration for exemption from at least 5 members
 
                      (b)  the corporation is to have fewer than 5 members;
 
-the applicant for registration must, in the application under section 21‑1, request that the Registrar:
+the applicant for registration must, in the application under section 21-1, request that the Registrar:
 
                      (c)  exempt the corporation from having at least 5 members; and
 
@@ -4923,31 +4922,31 @@ the corporation may request the Registrar in writing to:
 
                      (d)  determine the corporation to have the lesser minimum number of members specified in the application.
 
-##### <a id="77‑10"></a>77‑10  Registrar may exempt if appropriate and reasonable to do so
+##### <a id="77-10"></a>77-10  Registrar may exempt if appropriate and reasonable to do so
 
-                   The Registrar may grant an exemption on a request under subsection 77‑5(2), (3) or (4) and allow a lesser number if the Registrar is satisfied that it is appropriate and reasonable in the circumstances to do so.
+                   The Registrar may grant an exemption on a request under subsection 77-5(2), (3) or (4) and allow a lesser number if the Registrar is satisfied that it is appropriate and reasonable in the circumstances to do so.
 
 Note:          For example, the Registrar may grant an exemption if the corporation was formed as a result of a court order.
 
-##### <a id="77‑15"></a>77‑15  Registrar may determine a different number to number requested
+##### <a id="77-15"></a>77-15  Registrar may determine a different number to number requested
 
-                   In determining a lesser minimum number of members on a request under subsection 77‑5(2), (3) or (4), the Registrar may determine a number that is higher or lower than the number requested (so long as the number is less than 5).
+                   In determining a lesser minimum number of members on a request under subsection 77-5(2), (3) or (4), the Registrar may determine a number that is higher or lower than the number requested (so long as the number is less than 5).
 
-##### <a id="77‑20"></a>77‑20  Earlier determination taken to be revoked
+##### <a id="77-20"></a>77-20  Earlier determination taken to be revoked
 
-                   If the Registrar grants an exemption on a request under subsection 77‑5(3), the determination referred to in paragraph 77‑5(3)(a) is taken to be revoked.
+                   If the Registrar grants an exemption on a request under subsection 77-5(3), the determination referred to in paragraph 77-5(3)(a) is taken to be revoked.
 
-##### <a id="77‑25"></a>77‑25  Notice to be given
+##### <a id="77-25"></a>77-25  Notice to be given
 
-             (1)  If the Registrar grants an exemption under section 77‑10, the Registrar must notify the applicant or corporation, as the case may be, in writing of the exemption and the minimum number of members that the corporation is instead required to have.
+             (1)  If the Registrar grants an exemption under section 77-10, the Registrar must notify the applicant or corporation, as the case may be, in writing of the exemption and the minimum number of members that the corporation is instead required to have.
 
              (2)  If the Registrar does not grant the exemption, the Registrar must notify the applicant or corporation, as the case may be, in writing that the exemption has not been granted.
 
-## Part 3‑4—Names
+## Part 3-4—Names
 
 ### Division 82—Introduction
 
-##### <a id="82‑1"></a>82‑1  What this Part is about
+##### <a id="82-1"></a>82-1  What this Part is about
 
 * * *
 
@@ -4957,13 +4956,13 @@ This Part deals with the names requirement (Division 85) and how a name is cha
 
 ### Division 85—What names may a corporation have?
 
-##### <a id="85‑1"></a>85‑1  Corporation’s name requirements
+##### <a id="85-1"></a>85-1  Corporation’s name requirements
 
              (1)  The requirements concerning an Aboriginal and Torres Strait Islander corporation’s name are set out in the following subsections.
 
              (2)  The corporation may have as its name:
 
-                     (a)  a name that is available (see section 85‑5); or
+                     (a)  a name that is available (see section 85-5); or
 
                      (b)  the expression “Indigenous Corporation Number” followed by the corporation’s ICN.
 
@@ -4981,7 +4980,7 @@ This Part deals with the names requirement (Division 85) and how a name is cha
 
              (4)  If the corporation is a registered native title body corporate, then the corporation must also have as part of its name the words “registered native title body corporate”.
 
-             (5)  If abbreviations are used in its name, the corporation must use only the abbreviations that are acceptable (see section 85‑10).
+             (5)  If abbreviations are used in its name, the corporation must use only the abbreviations that are acceptable (see section 85-10).
 
              (6)  If the corporation is not a registered native title body corporate the corporation must not:
 
@@ -4991,9 +4990,9 @@ This Part deals with the names requirement (Division 85) and how a name is cha
 
              (7)  The requirements must be met by an Aboriginal and Torres Strait Islander corporation at all times after registration.
 
-Note:          The requirements must be complied with on registration of an Aboriginal and Torres Strait Islander corporation (see section 29‑25).
+Note:          The requirements must be complied with on registration of an Aboriginal and Torres Strait Islander corporation (see section 29-25).
 
-##### <a id="85‑5"></a>85‑5  Available names
+##### <a id="85-5"></a>85-5  Available names
 
 Name is available unless identical or unacceptable
 
@@ -5033,7 +5032,7 @@ Registrar may consent to a name being available
 
              (3)  The Registrar’s consent may be given subject to conditions.
 
-Note:          If the corporation breaches a condition, the Registrar may direct it to change its name under section 88‑5.
+Note:          If the corporation breaches a condition, the Registrar may direct it to change its name under section 88-5.
 
              (4)  The regulations may specify that a particular unacceptable name is available if:
 
@@ -5047,9 +5046,9 @@ Note:          If the corporation breaches a condition, the Re
 
 The consent of the authority, instrumentality or agency may be given subject to conditions.
 
-Note:          If the consent is withdrawn, the corporation ceases to be permitted or the corporation breaches a condition, the Registrar may direct it to change its name under section 88‑5.
+Note:          If the consent is withdrawn, the corporation ceases to be permitted or the corporation breaches a condition, the Registrar may direct it to change its name under section 88-5.
 
-##### <a id="85‑10"></a>85‑10  Acceptable abbreviations
+##### <a id="85-10"></a>85-10  Acceptable abbreviations
 
              (1)  The abbreviations set out in the following table may be used:
 
@@ -5162,19 +5161,19 @@ Note:          If the consent is withdrawn, the corporation ce
 
              (2)  If an Aboriginal and Torres Strait Islander corporation’s name includes any of these abbreviations, the word corresponding to the abbreviation may be used instead.
 
-##### <a id="85‑15"></a>85‑15  Using a name and ICN on documents
+##### <a id="85-15"></a>85-15  Using a name and ICN on documents
 
              (1)  An Aboriginal and Torres Strait Islander corporation must set out its name on all its public documents and negotiable instruments.
 
-             (2)  Subject to sections 85‑20 and 85‑25, if the corporation’s ICN is not used in its name, the corporation must also set out with its name, or with one of the references to its name, the expression “Indigenous Corporation Number” followed by the corporation’s ICN.
+             (2)  Subject to sections 85-20 and 85-25, if the corporation’s ICN is not used in its name, the corporation must also set out with its name, or with one of the references to its name, the expression “Indigenous Corporation Number” followed by the corporation’s ICN.
 
              (3)  If the corporation’s name appears on 2 or more pages of the document or instrument, this must be done on the first of those pages.
 
-Note 1:       If an Aboriginal and Torres Strait Islander corporation has a common seal, its name and ICN must be set out on the seal (see section 42‑25).
+Note 1:       If an Aboriginal and Torres Strait Islander corporation has a common seal, its name and ICN must be set out on the seal (see section 42-25).
 
-Note 2:       An Aboriginal and Torres Strait Islander corporation that is registered as a large corporation must display its name at its registered office and at places at which the corporation carries on business (see section 112‑15).
+Note 2:       An Aboriginal and Torres Strait Islander corporation that is registered as a large corporation must display its name at its registered office and at places at which the corporation carries on business (see section 112-15).
 
-Note 3:       Section 85‑10 provides that “ICN” is an acceptable abbreviation of “Indigenous Corporation Number”.
+Note 3:       Section 85-10 provides that “ICN” is an acceptable abbreviation of “Indigenous Corporation Number”.
 
              (4)  An Aboriginal and Torres Strait Islander corporation commits an offence if it contravenes subsection (1), (2) or (3).
 
@@ -5184,17 +5183,17 @@ Note 3:       Section 85‑10 provides that “ICN” is an accept
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="85‑20"></a>85‑20  Exception to requirement to have ICN on receipts
+##### <a id="85-20"></a>85-20  Exception to requirement to have ICN on receipts
 
                    An Aboriginal and Torres Strait Islander corporation does not have to set out the expression “Indigenous Corporation Number” followed by its ICN on a receipt (for example, a cash register receipt) that sets out information recorded in the machine that produced the receipt.
 
-##### <a id="85‑25"></a>85‑25  Regulations may exempt from requirement to set out information on documents
+##### <a id="85-25"></a>85-25  Regulations may exempt from requirement to set out information on documents
 
-                   The regulations may exempt an Aboriginal and Torres Strait Islander corporation, or a specified class of Aboriginal and Torres Strait Islander corporation, from the requirement in subsection 85‑15(2) to set out information on its public documents and negotiable instruments.
+                   The regulations may exempt an Aboriginal and Torres Strait Islander corporation, or a specified class of Aboriginal and Torres Strait Islander corporation, from the requirement in subsection 85-15(2) to set out information on its public documents and negotiable instruments.
 
 ### Division 88—How is a corporation’s name changed?
 
-##### <a id="88‑1"></a>88‑1  Corporation changing its name
+##### <a id="88-1"></a>88-1  Corporation changing its name
 
              (1)  If an Aboriginal and Torres Strait Islander corporation wants to change its name, it must:
 
@@ -5212,33 +5211,33 @@ with the Registrar within 28 days after the resolution is passed.
 
                     Penalty:  5 penalty units.
 
-Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note:          See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
              (3)  An offence against subsection (2) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (4)  If the proposed name complies with the requirements in section 85‑1, the Registrar must change the corporation’s name by altering the details of the corporation’s registration to reflect the change. The change of name takes effect when the Registrar alters the details of the corporation’s registration.
+             (4)  If the proposed name complies with the requirements in section 85-1, the Registrar must change the corporation’s name by altering the details of the corporation’s registration to reflect the change. The change of name takes effect when the Registrar alters the details of the corporation’s registration.
 
-##### <a id="88‑5"></a>88‑5  Registrar’s power to direct corporation to change its name
+##### <a id="88-5"></a>88-5  Registrar’s power to direct corporation to change its name
 
              (1)  The Registrar may direct an Aboriginal and Torres Strait Islander corporation in writing to change its name within 2 months if:
 
                      (a)  the name should not have been registered; or
 
-                     (b)  the corporation has breached a condition under subsection 85‑5(3) on the availability of the name; or
+                     (b)  the corporation has breached a condition under subsection 85-5(3) on the availability of the name; or
 
-                     (c)  a consent given under subsection 85‑5(4) to use or assume the name has been withdrawn; or
+                     (c)  a consent given under subsection 85-5(4) to use or assume the name has been withdrawn; or
 
-                     (d)  the corporation has breached a condition on a consent given under subsection 85‑5(4); or
+                     (d)  the corporation has breached a condition on a consent given under subsection 85-5(4); or
 
-                     (e)  the corporation ceases to be permitted to use or assume the name (as referred to in paragraph 85‑5(4)(b)).
+                     (e)  the corporation ceases to be permitted to use or assume the name (as referred to in paragraph 85-5(4)(b)).
 
-             (2)  The corporation must comply with the direction within 2 months after being given it by doing everything necessary to change its name under section 88‑1.
+             (2)  The corporation must comply with the direction within 2 months after being given it by doing everything necessary to change its name under section 88-1.
 
                     Penalty:  50 penalty units or 12 months imprisonment, or both.
 
-             (3)  If the corporation does not comply with subsection (2), the Registrar may change the corporation’s name to its ICN and any other words that section 85‑1 requires, by altering the details of the corporation’s registration to reflect the change.
+             (3)  If the corporation does not comply with subsection (2), the Registrar may change the corporation’s name to its ICN and any other words that section 85-1 requires, by altering the details of the corporation’s registration to reflect the change.
 
              (4)  A change of name under subsection (3) takes effect when the Registrar alters the details of the corporation’s registration.
 
@@ -5248,7 +5247,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  A direction under subsection (1) is not a legislative instrument.
 
-##### <a id="88‑10"></a>88‑10  If Aboriginal and Torres Strait Islander corporation becomes a registered native title body corporate
+##### <a id="88-10"></a>88-10  If Aboriginal and Torres Strait Islander corporation becomes a registered native title body corporate
 
 Notice required
 
@@ -5268,7 +5267,7 @@ When name change takes effect
 
              (3)  A change of name under subsection (2) takes effect when the Registrar alters the details of the corporation’s registration.
 
-##### <a id="88‑15"></a>88‑15  If Aboriginal and Torres Strait Islander corporation ceases to be a registered native title body corporate
+##### <a id="88-15"></a>88-15  If Aboriginal and Torres Strait Islander corporation ceases to be a registered native title body corporate
 
 Notice required
 
@@ -5288,17 +5287,17 @@ When name change takes effect
 
              (3)  A change of name under subsection (2) takes effect when the Registrar alters the details of the corporation’s registration.
 
-##### <a id="88‑20"></a>88‑20  Registrar must issue new certificate if name changes
+##### <a id="88-20"></a>88-20  Registrar must issue new certificate if name changes
 
              (1)  If the Registrar changes an Aboriginal and Torres Strait Islander corporation’s name, he or she must give to the corporation a new certificate of registration. The corporation’s new name is the name specified in the certificate of registration issued under this section.
 
-Note 1:       An Aboriginal and Torres Strait Islander corporation’s name may be changed under section 88‑1, 88‑5, 88‑10 or 88‑15.
+Note 1:       An Aboriginal and Torres Strait Islander corporation’s name may be changed under section 88-1, 88-5, 88-10 or 88-15.
 
-Note 2:       For the evidentiary value of a certificate of registration, see subsection 424‑5(2).
+Note 2:       For the evidentiary value of a certificate of registration, see subsection 424-5(2).
 
              (2)  A certificate under subsection (1) is not a legislative instrument.
 
-##### <a id="88‑25"></a>88‑25  Effect of name change
+##### <a id="88-25"></a>88-25  Effect of name change
 
              (1)  The changing of an Aboriginal and Torres Strait Islander corporation’s name does not:
 
@@ -5310,11 +5309,11 @@ Note 2:       For the evidentiary value of a certificate of registra
 
              (2)  Any legal proceedings that could have been continued or begun by or against the corporation in its former name may be continued or begun by or against it in its new name.
 
-## Part 3‑5—Corporation powers and how they are exercised
+## Part 3-5—Corporation powers and how they are exercised
 
 ### Division 93—Introduction
 
-##### <a id="93‑1"></a>93‑1  What this Part is about
+##### <a id="93-1"></a>93-1  What this Part is about
 
 * * *
 
@@ -5324,7 +5323,7 @@ This Part deals with the legal capacity and powers of Aboriginal and Torres Stra
 
 ### Division 96—What are a corporation’s powers?
 
-##### <a id="96‑1"></a>96‑1  Legal capacity and powers
+##### <a id="96-1"></a>96-1  Legal capacity and powers
 
              (1)  An Aboriginal and Torres Strait Islander corporation has the legal capacity and powers of an individual within and outside Australia.
 
@@ -5340,13 +5339,13 @@ This Part deals with the legal capacity and powers of Aboriginal and Torres Stra
 
 ### Division 99—How are a corporation’s powers exercised?
 
-##### <a id="99‑1"></a>99‑1  Agent exercising a corporation’s power to make contracts etc.
+##### <a id="99-1"></a>99-1  Agent exercising a corporation’s power to make contracts etc.
 
              (1)  An Aboriginal and Torres Strait Islander corporation’s power to make, vary, ratify or discharge a contract may be exercised by an individual acting with the corporation’s express or implied authority and on behalf of the corporation. The power may be exercised without using a common seal.
 
              (2)  This section does not affect the operation of a law that requires a particular procedure to be complied with in relation to the contract.
 
-##### <a id="99‑5"></a>99‑5  Execution of documents (including deeds) by the corporation itself
+##### <a id="99-5"></a>99-5  Execution of documents (including deeds) by the corporation itself
 
              (1)  An Aboriginal and Torres Strait Islander corporation may execute a document without using a common seal if the document is signed by:
 
@@ -5356,7 +5355,7 @@ This Part deals with the legal capacity and powers of Aboriginal and Torres Stra
 
                      (c)  if the corporation has only 1 director—that director.
 
-Note:          If an Aboriginal and Torres Strait Islander corporation executes a document in this way, people will be able to rely on the assumptions in subsection 104‑5(6) for dealings in relation to the corporation.
+Note:          If an Aboriginal and Torres Strait Islander corporation executes a document in this way, people will be able to rely on the assumptions in subsection 104-5(6) for dealings in relation to the corporation.
 
              (2)  An Aboriginal and Torres Strait Islander corporation with a common seal may execute a document if the seal is fixed to the document and the fixing of the seal is witnessed by:
 
@@ -5366,27 +5365,27 @@ Note:          If an Aboriginal and Torres Strait Islander cor
 
                      (c)  for an Aboriginal and Torres Strait Islander corporation that has only 1 director—that director.
 
-Note:          If an Aboriginal and Torres Strait Islander corporation executes a document in this way, people will be able to rely on the assumptions in subsection 104‑5(7) for dealings in relation to the corporation.
+Note:          If an Aboriginal and Torres Strait Islander corporation executes a document in this way, people will be able to rely on the assumptions in subsection 104-5(7) for dealings in relation to the corporation.
 
              (3)  An Aboriginal and Torres Strait Islander corporation may execute a document as a deed if the document is expressed to be executed as a deed and is executed in accordance with subsection (1) or (2).
 
              (4)  This section does not limit the ways in which an Aboriginal and Torres Strait Islander corporation may execute a document (including a deed).
 
-## Part 3‑6—Assumptions people dealing with Aboriginal and Torres Strait Islander corporations are entitled to make
+## Part 3-6—Assumptions people dealing with Aboriginal and Torres Strait Islander corporations are entitled to make
 
 ### Division 104—Assumptions people dealing with Aboriginal and Torres Strait Islander corporations are entitled to make
 
-##### <a id="104‑1"></a>104‑1  Entitlement to make assumptions
+##### <a id="104-1"></a>104-1  Entitlement to make assumptions
 
-             (1)  A person is entitled to make the assumptions in section 104‑5 in relation to dealings with an Aboriginal and Torres Strait Islander corporation. The corporation is not entitled to assert in proceedings in relation to the dealings that any of the assumptions are incorrect.
+             (1)  A person is entitled to make the assumptions in section 104-5 in relation to dealings with an Aboriginal and Torres Strait Islander corporation. The corporation is not entitled to assert in proceedings in relation to the dealings that any of the assumptions are incorrect.
 
-             (2)  A person is entitled to make the assumptions in section 104‑5 in relation to dealings with another person who has, or purports to have, directly or indirectly acquired title to property from an Aboriginal and Torres Strait Islander corporation. The corporation and the other person are not entitled to assert in proceedings in relation to the dealings that any of the assumptions are incorrect.
+             (2)  A person is entitled to make the assumptions in section 104-5 in relation to dealings with another person who has, or purports to have, directly or indirectly acquired title to property from an Aboriginal and Torres Strait Islander corporation. The corporation and the other person are not entitled to assert in proceedings in relation to the dealings that any of the assumptions are incorrect.
 
              (3)  The assumptions may be made even if an officer or agent of the corporation acts fraudulently, or forges a document, in connection with the dealings.
 
-             (4)  A person is not entitled to make an assumption in section 104‑5 if at the time of the dealings the person knew or suspected that the assumption was incorrect.
+             (4)  A person is not entitled to make an assumption in section 104-5 if at the time of the dealings the person knew or suspected that the assumption was incorrect.
 
-##### <a id="104‑5"></a>104‑5  Assumptions that can be made under section 104‑1
+##### <a id="104-5"></a>104-5  Assumptions that can be made under section 104-1
 
 Constitution and replaceable rules complied with
 
@@ -5418,13 +5417,13 @@ Proper performance of duties
 
 Document duly executed without seal
 
-             (6)  A person may assume that a document has been duly executed by the corporation if the document appears to have been signed in accordance with subsection 99‑5(1)_._ For the purposes of making the assumption, a person may also assume that anyone who signs the document and states next to his or her signature that he or she is the only director of the corporation is the only director of the corporation.
+             (6)  A person may assume that a document has been duly executed by the corporation if the document appears to have been signed in accordance with subsection 99-5(1)_._ For the purposes of making the assumption, a person may also assume that anyone who signs the document and states next to his or her signature that he or she is the only director of the corporation is the only director of the corporation.
 
 Document duly executed with seal
 
              (7)  A person may assume that a document has been duly executed by the corporation if:
 
-                     (a)  the corporation’s common seal appears to have been fixed to the document in accordance with subsection  99‑5(2); and
+                     (a)  the corporation’s common seal appears to have been fixed to the document in accordance with subsection  99-5(2); and
 
                      (b)  the fixing of the common seal appears to have been witnessed in accordance with that subsection.
 
@@ -5436,15 +5435,15 @@ Officer or agent with authority to warrant that document is genuine or true copy
 
              (9)  Without limiting the generality of this section, the assumptions that may be made under this section apply for the purposes of this section.
 
-##### <a id="104‑10"></a>104‑10  Information available to the public from Registrar does not constitute constructive notice
+##### <a id="104-10"></a>104-10  Information available to the public from Registrar does not constitute constructive notice
 
                    A person is not taken to have information about an Aboriginal and Torres Strait Islander corporation merely because the information is available to the public from the Registrar.
 
-## Part 3‑7—Registered office or document access address
+## Part 3-7—Registered office or document access address
 
 ### Division 109—Introduction
 
-##### <a id="109‑1"></a>109‑1  What this Part is about
+##### <a id="109-1"></a>109-1  What this Part is about
 
 * * *
 
@@ -5452,13 +5451,13 @@ This Part deals with:
 
                (a)     the registered office of an Aboriginal and Torres Strait Islander corporation that is registered as a large corporation; and
 
-              (b)     the document access address of an Aboriginal and Torres Strait Islander corporation that is registered as a small or medium corporation.
+               (b)     the document access address of an Aboriginal and Torres Strait Islander corporation that is registered as a small or medium corporation.
 
 * * *
 
 ### Division 112—Registered office
 
-##### <a id="112‑1"></a>112‑1  General
+##### <a id="112-1"></a>112-1  General
 
 Application of Division
 
@@ -5468,17 +5467,17 @@ Small and medium corporations not to have registered office
 
              (2)  An Aboriginal and Torres Strait Islander corporation that is registered as a small or medium corporation must not have a registered office.
 
-##### <a id="112‑5"></a>112‑5  Corporation to have registered office
+##### <a id="112-5"></a>112-5  Corporation to have registered office
 
              (1)  An Aboriginal and Torres Strait Islander corporation that is registered as a large corporation must have a registered office in Australia.
 
-Note:          A document may be served on a large corporation by leaving it at, or posting it to, the corporation’s registered office (see section 120‑1).
+Note:          A document may be served on a large corporation by leaving it at, or posting it to, the corporation’s registered office (see section 120-1).
 
              (2)  If the corporation has one or more places of business in Australia, one of those places must be its registered office.
 
              (3)  The corporation must lodge notice of a change of address of its registered office with the Registrar not later than 28 days after the date on which the change occurs.
 
-Note:          If the corporation is not to be the occupier of premises at the address of its new registered office, the notice must state that the occupier has consented to the address being specified in the notice and has not withdrawn that consent (see section 112‑20).
+Note:          If the corporation is not to be the occupier of premises at the address of its new registered office, the notice must state that the occupier has consented to the address being specified in the notice and has not withdrawn that consent (see section 112-20).
 
              (4)  A notice of change of address takes effect when the changed address is included on the Register of Aboriginal and Torres Strait Islander Corporations.
 
@@ -5506,13 +5505,13 @@ Note:          If the corporation is not to be the occupier of
 
 Note 1:       For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-Note 2:       See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note 2:       See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="112‑10"></a>112‑10  Registrar may change address of registered office to a director’s address
+##### <a id="112-10"></a>112-10  Registrar may change address of registered office to a director’s address
 
              (1)  If the corporation does not occupy the premises at the address of its registered office, the corporation must be able to show the Registrar the occupier’s written consent to the corporation’s use of those premises as its registered office.
 
-Note:          The Registrar can require the corporation to produce the consent (see section 112‑20).
+Note:          The Registrar can require the corporation to produce the consent (see section 112-20).
 
              (2)  The corporation commits an offence if it contravenes subsection (1).
 
@@ -5532,11 +5531,11 @@ the Registrar may:
 
                      (c)  give written notice to a director of the corporation who resides in Australia that the Registrar intends to change the address of the corporation’s registered office to the director’s address; and
 
-                     (d)  if the Registrar is not notified of the address of the corporation’s proposed new registered office under section 112‑5 within 14 days after the notice under that section is sent—change the address of the corporation’s registered office to the address of that director.
+                     (d)  if the Registrar is not notified of the address of the corporation’s proposed new registered office under section 112-5 within 14 days after the notice under that section is sent—change the address of the corporation’s registered office to the address of that director.
 
              (5)  A notice under paragraph (4)(c) is not a legislative instrument.
 
-##### <a id="112‑15"></a>112‑15  Corporation’s name must be displayed
+##### <a id="112-15"></a>112-15  Corporation’s name must be displayed
 
              (1)  The corporation must display its name and ICN prominently at its registered office. The corporation must also display its name and ICN at every place at which the corporation carries on business if that place is open to the public.
 
@@ -5552,7 +5551,7 @@ the Registrar may:
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="112‑20"></a>112‑20  Address of registered office etc.
+##### <a id="112-20"></a>112-20  Address of registered office etc.
 
              (1)  If a provision of this Act requires a notice to be lodged of, or information in an application to specify:
 
@@ -5582,21 +5581,21 @@ the notice or information must include a written statement to the effect that th
 
 ### Division 115—Document access address
 
-##### <a id="115‑1"></a>115‑1  Division applies to Aboriginal and Torres Strait Islander corporations registered as small or medium corporations
+##### <a id="115-1"></a>115-1  Division applies to Aboriginal and Torres Strait Islander corporations registered as small or medium corporations
 
                    This Division applies to an Aboriginal and Torres Strait Islander corporation that is registered as a small or medium corporation.
 
-##### <a id="115‑5"></a>115‑5  Corporation to have document access address
+##### <a id="115-5"></a>115-5  Corporation to have document access address
 
              (1)  The corporation must have a document access address in Australia.
 
 Note 1:       Certain documents must be kept at this address and must be available for inspection at this address.
 
-Note 2:       The document access address is not an address at which documents can be served on the corporation. See section 120‑1 for the addresses at which documents can be served on the corporation.
+Note 2:       The document access address is not an address at which documents can be served on the corporation. See section 120-1 for the addresses at which documents can be served on the corporation.
 
              (2)  The corporation must lodge notice of a change of address of its document access address with the Registrar not later than 28 days after the date on which the change occurs.
 
-Note:          If the corporation is not to be the occupier of premises at the address of its document access address, the notice must state that the occupier has consented to the address being specified in the notice and has not withdrawn that consent (see section 115‑20).
+Note:          If the corporation is not to be the occupier of premises at the address of its document access address, the notice must state that the occupier has consented to the address being specified in the notice and has not withdrawn that consent (see section 115-20).
 
              (3)  A notice of change of address takes effect from the later of:
 
@@ -5620,11 +5619,11 @@ Note:          If the corporation is not to be the occupier of
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="115‑10"></a>115‑10  Registrar may change document access address to a director’s address
+##### <a id="115-10"></a>115-10  Registrar may change document access address to a director’s address
 
              (1)  If the corporation does not occupy the premises at the address of its document access address, the corporation must be able to show the Registrar the occupier’s written consent to the corporation’s use of those premises as its document access address.
 
-Note:          The Registrar can require the corporation to produce the consent (see section 115‑20).
+Note:          The Registrar can require the corporation to produce the consent (see section 115-20).
 
              (2)  The corporation commits an offence if it fails to comply with a request by the Registrar to show the Registrar that consent.
 
@@ -5644,11 +5643,11 @@ the Registrar may:
 
                      (c)  give written notice to a director of the corporation who resides in Australia that the Registrar intends to change the address of the corporation’s document access address to the director’s address; and
 
-                     (d)  if the Registrar is not notified of the address of the corporation’s proposed new document access address under section 115‑5 within 14 days after the notice under that section is sent—change the address of the corporation’s document access address to the address of that director.
+                     (d)  if the Registrar is not notified of the address of the corporation’s proposed new document access address under section 115-5 within 14 days after the notice under that section is sent—change the address of the corporation’s document access address to the address of that director.
 
              (5)  A notice under paragraph (4)(c) is not a legislative instrument.
 
-##### <a id="115‑15"></a>115‑15  Registrar may direct corporation to change the location of its document access address
+##### <a id="115-15"></a>115-15  Registrar may direct corporation to change the location of its document access address
 
              (1)  If the Registrar is satisfied that the corporation’s document access address is not in an area that allows the corporation’s members appropriate access to the corporation’s books, the Registrar may direct the corporation to change its document access address so that it is within the area specified in the direction.
 
@@ -5670,7 +5669,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  A direction under subsection (1) is not a legislative instrument.
 
-##### <a id="115‑20"></a>115‑20  Address of document access address
+##### <a id="115-20"></a>115-20  Address of document access address
 
              (1)  If a provision of this Act requires a notice to be lodged of, or information in an application to specify:
 
@@ -5692,11 +5691,11 @@ the notice or information must specify the matters set out in subsections (2) 
 
              (5)  A requirement under subsection (4) is not a legislative instrument.
 
-## Part 3‑8—Service on Aboriginal and Torres Strait Islander corporations
+## Part 3-8—Service on Aboriginal and Torres Strait Islander corporations
 
 ### Division 120—Service on Aboriginal and Torres Strait Islander corporations
 
-##### <a id="120‑1"></a>120‑1  Service on Aboriginal and Torres Strait Islander corporation
+##### <a id="120-1"></a>120-1  Service on Aboriginal and Torres Strait Islander corporation
 
              (1)  A notice, demand, summons, writ or other document or process may be served on an Aboriginal and Torres Strait Islander corporation by:
 
@@ -5722,27 +5721,27 @@ the notice or information must specify the matters set out in subsections (2) 
 
                      (b)  the Registrar otherwise becomes aware that the corporation or contact person has a new address.
 
-Note:          This subsection also applies to a director’s address that has become the corporation’s registered office under section 112‑10 and to a director who has become a contact person under section 257‑25.
+Note:          This subsection also applies to a director’s address that has become the corporation’s registered office under section 112-10 and to a director who has become a contact person under section 257-25.
 
 # Chapter 4—Members and observers
 
-## Part 4‑1—Introduction
+## Part 4-1—Introduction
 
 ### Division 130—Introduction
 
-##### <a id="130‑1"></a>130‑1  What this Chapter is about
+##### <a id="130-1"></a>130-1  What this Chapter is about
 
 * * *
 
-This Chapter deals with membership of Aboriginal and Torres Strait Islander corporations (Part 4‑2), observers of Aboriginal and Torres Strait Islander corporations (Part 4‑3), members’ rights (Part 4‑4) and the register of members and the register of former members (Part 4‑5).
+This Chapter deals with membership of Aboriginal and Torres Strait Islander corporations (Part 4-2), observers of Aboriginal and Torres Strait Islander corporations (Part 4-3), members’ rights (Part 4-4) and the register of members and the register of former members (Part 4-5).
 
 * * *
 
-## Part 4‑2—Members
+## Part 4-2—Members
 
 ### Division 135—Introduction
 
-##### <a id="135‑1"></a>135‑1  What this Part is about
+##### <a id="135-1"></a>135-1  What this Part is about
 
 * * *
 
@@ -5750,9 +5749,9 @@ This Part deals with membership of an Aboriginal and Torres Strait Islander corp
 
 Division 138 deals with the meaning of member of an Aboriginal and Torres Strait Islander corporation.
 
-Subdivision 141‑B deals with various rules that are imposed on an Aboriginal and Torres Strait Islander corporation concerning membership.
+Subdivision 141-B deals with various rules that are imposed on an Aboriginal and Torres Strait Islander corporation concerning membership.
 
-Subdivision 141‑C imposes 1 eligibility requirement for membership but a corporation may impose other such requirements.
+Subdivision 141-C imposes 1 eligibility requirement for membership but a corporation may impose other such requirements.
 
 Division 144 deals with how a person becomes a member.
 
@@ -5766,7 +5765,7 @@ Division 153 provides for different classes of members.
 
 ### Division 138—Who is a member of an Aboriginal and Torres Strait Islander corporation?
 
-##### <a id="138‑1"></a>138‑1  Meaning of _member_
+##### <a id="138-1"></a>138-1  Meaning of _member_
 
              (1)  A person is a **_member_** of an Aboriginal and Torres Strait Islander corporation if the person:
 
@@ -5774,87 +5773,87 @@ Division 153 provides for different classes of members.
 
                      (b)  agrees to become a member of the corporation after its registration and the person’s name is entered on the register of members.
 
-Note:          Section 180‑5 requires the corporation to enter the names and addresses of all of its members on the register of members.
+Note:          Section 180-5 requires the corporation to enter the names and addresses of all of its members on the register of members.
 
              (2)  A person referred to in paragraph (1)(b) becomes a member when the person’s name is entered on the register of members.
 
-Note:          Under section 42‑10, a person who is specified in the application for registration of an Aboriginal and Torres Strait Islander corporation as a member of the corporation becomes a member on registration of the corporation.
+Note:          Under section 42-10, a person who is specified in the application for registration of an Aboriginal and Torres Strait Islander corporation as a member of the corporation becomes a member on registration of the corporation.
 
 ### Division 141—Membership of Aboriginal and Torres Strait Islander corporations
 
-#### Subdivision 141‑A—Introduction
+#### Subdivision 141-A—Introduction
 
-##### <a id="141‑1"></a>141‑1  Overview
+##### <a id="141-1"></a>141-1  Overview
 
-             (1)  There are ongoing requirements relating to the membership of an Aboriginal and Torres Strait Islander corporation that are imposed on the corporation (see Subdivision 141‑B).
+             (1)  There are ongoing requirements relating to the membership of an Aboriginal and Torres Strait Islander corporation that are imposed on the corporation (see Subdivision 141-B).
 
-             (2)  These requirements have implications for the eligibility of persons for membership of Aboriginal and Torres Strait Islander corporations (see section 141‑20).
+             (2)  These requirements have implications for the eligibility of persons for membership of Aboriginal and Torres Strait Islander corporations (see section 141-20).
 
-             (3)  In addition, an Aboriginal and Torres Strait Islander corporation may impose additional eligibility requirements for membership of the corporation (see section 141‑25).
+             (3)  In addition, an Aboriginal and Torres Strait Islander corporation may impose additional eligibility requirements for membership of the corporation (see section 141-25).
 
-#### Subdivision 141‑B—Ongoing requirements relating to membership that are imposed on an Aboriginal and Torres Strait Islander corporation
+#### Subdivision 141-B—Ongoing requirements relating to membership that are imposed on an Aboriginal and Torres Strait Islander corporation
 
-##### <a id="141‑5"></a>141‑5  Minimum number of members requirement
+##### <a id="141-5"></a>141-5  Minimum number of members requirement
 
-                   An Aboriginal and Torres Strait Islander corporation must meet the minimum number of members requirement set out in section 77‑5 at all times.
+                   An Aboriginal and Torres Strait Islander corporation must meet the minimum number of members requirement set out in section 77-5 at all times.
 
-Note:          Section 26‑1 also requires the minimum number of members requirement (explained in section 29‑1) to be met at registration of the corporation.
+Note:          Section 26-1 also requires the minimum number of members requirement (explained in section 29-1) to be met at registration of the corporation.
 
-##### <a id="141‑10"></a>141‑10  Indigeneity requirement
+##### <a id="141-10"></a>141-10  Indigeneity requirement
 
-             (1)  An Aboriginal and Torres Strait Islander corporation must meet the Indigeneity requirement set out in section 29‑5 at all times.
+             (1)  An Aboriginal and Torres Strait Islander corporation must meet the Indigeneity requirement set out in section 29-5 at all times.
 
-Note:          Section 26‑1 also requires the Indigeneity requirement (explained in section 29‑5) to be met at registration of the corporation.
+Note:          Section 26-1 also requires the Indigeneity requirement (explained in section 29-5) to be met at registration of the corporation.
 
              (2)  However, the corporation’s constitution may provide that the corporation must have a number or percentage of persons who are Aboriginal and Torres Strait Islander persons that is higher than the number or percentage required in the Indigeneity requirement.
 
              (3)  An Aboriginal and Torres Strait Islander corporation that does increase the number or percentage of persons that are required to be Aboriginal and Torres Strait Islander persons is not in breach of subsection (1) only because that increased number or percentage is not attained.
 
-##### <a id="141‑15"></a>141‑15  Age of members requirement
+##### <a id="141-15"></a>141-15  Age of members requirement
 
-             (1)  An Aboriginal and Torres Strait Islander corporation must meet the age of members requirement set out in section 29‑10 at all times.
+             (1)  An Aboriginal and Torres Strait Islander corporation must meet the age of members requirement set out in section 29-10 at all times.
 
 Note 1:       The requirement is that the members of the corporation be at least 15 years of age.
 
-Note 2:       Section 29‑10 also requires the age of members requirement to be met at registration of the corporation.
+Note 2:       Section 29-10 also requires the age of members requirement to be met at registration of the corporation.
 
              (2)  However, the corporation’s constitution may provide that the members of the corporation must be at least of an age that is older than 15 years.
 
 (3)  An Aboriginal and Torres Strait Islander corporation that does increase the minimum age of members is not in breach of subsection (1) only because some members are younger than that increased minimum age.
 
-#### Subdivision 141‑C—A person’s eligibility for membership of an Aboriginal and Torres Strait Islander corporation
+#### Subdivision 141-C—A person’s eligibility for membership of an Aboriginal and Torres Strait Islander corporation
 
-##### <a id="141‑20"></a>141‑20  Eligibility for membership
+##### <a id="141-20"></a>141-20  Eligibility for membership
 
                    An individual who is at least 15 years of age is eligible for membership of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="141‑25"></a>141‑25  Corporation may have other eligibility requirements for membership
+##### <a id="141-25"></a>141-25  Corporation may have other eligibility requirements for membership
 
                    The constitution of an Aboriginal and Torres Strait Islander corporation may provide for other eligibility requirements for membership of the corporation.
 
 ### Division 144—How to become a member of an Aboriginal and Torres Strait Islander corporation
 
-##### <a id="144‑1"></a>144‑1  How does a person become a member?
+##### <a id="144-1"></a>144-1  How does a person become a member?
 
                    A person becomes a member of an Aboriginal and Torres Strait Islander corporation if:
 
-                     (a)  the person applies as provided for in section 144‑5; and
+                     (a)  the person applies as provided for in section 144-5; and
 
                      (b)  the person is eligible for membership; and
 
-                     (c)  the application is accepted as provided for in section 144‑10; and
+                     (c)  the application is accepted as provided for in section 144-10; and
 
-                     (d)  the person is entered on the register of members (see subsection 144‑10(5)).
+                     (d)  the person is entered on the register of members (see subsection 144-10(5)).
 
-##### <a id="144‑5"></a>144‑5  Application to corporation
+##### <a id="144-5"></a>144-5  Application to corporation
 
              (1)  A person (the **_applicant_**) who wants to become a member of an Aboriginal and Torres Strait Islander corporation must apply to the corporation.
 
-Application to be in writing (replaceable rule—see section 60‑1)
+Application to be in writing (replaceable rule—see section 60-1)
 
              (2)  The application must be in writing.
 
-##### <a id="144‑10"></a>144‑10  Determination of applications for membership
+##### <a id="144-10"></a>144-10  Determination of applications for membership
 
              (1)  The directors are responsible for deciding membership applications in respect of an Aboriginal and Torres Strait Islander corporation.
 
@@ -5870,7 +5869,7 @@ Discretion to refuse to accept membership application
 
 Circumstances when application not to be accepted
 
-             (4)  However, the directors must not accept the application if, by accepting the application, the corporation would be in breach of the requirement in section 141‑10 (to at all times be complying with the Indigeneity requirement).
+             (4)  However, the directors must not accept the application if, by accepting the application, the corporation would be in breach of the requirement in section 141-10 (to at all times be complying with the Indigeneity requirement).
 
 If application accepted, entry on the register of members
 
@@ -5882,7 +5881,7 @@ Corporation to give notice if application not accepted
 
              (6)  If the directors decide not to accept the application, the corporation must notify the person of the decision and the reasons for it.
 
-Notice to be in writing (replaceable rule—see section 60‑1)
+Notice to be in writing (replaceable rule—see section 60-1)
 
              (7)  The notice must be in writing.
 
@@ -5898,31 +5897,31 @@ then the corporation  must not enter the person on the register of members  unti
 
                     Penalty:  5 penalty units.
 
-Note:          An application may be made to exempt the corporation from the requirement of this subsection (see section 187‑5).
+Note:          An application may be made to exempt the corporation from the requirement of this subsection (see section 187-5).
 
              (9)  An offence against subsection (5) or (8) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="144‑15"></a>144‑15  Fees for membership and being an observer
+##### <a id="144-15"></a>144-15  Fees for membership and being an observer
 
              (1)  Unless an Aboriginal and Torres Strait Islander corporation’s constitution provides otherwise, the corporation must not impose fees in respect of membership of the corporation or in respect of being an observer of the corporation.
 
-Note:          Section 158‑5 deals with observers.
+Note:          Section 158-5 deals with observers.
 
              (2)  If the corporation’s constitution provides for the charging of such fees, the fees, and the amount of the fees, are to be determined by the corporation by resolution in general meeting.
 
 ### Division 147—Obligations of members
 
-##### <a id="147‑1"></a>147‑1  Obligation to contribute on winding up
+##### <a id="147-1"></a>147-1  Obligation to contribute on winding up
 
                    If an Aboriginal and Torres Strait Islander corporation’s constitution provides that the members must contribute to the property of the corporation on winding up then the members must so contribute. Otherwise, the members are not liable to contribute.
 
-##### <a id="147‑5"></a>147‑5  Corporation may impose other member obligations
+##### <a id="147-5"></a>147-5  Corporation may impose other member obligations
 
                    The constitution of an Aboriginal and Torres Strait Islander corporation may provide for other obligations that attach to membership of the corporation.
 
-##### <a id="147‑10"></a>147‑10  Liability of corporation members
+##### <a id="147-10"></a>147-10  Liability of corporation members
 
 If application for registration says members are not to be liable for debts of the body
 
@@ -5934,19 +5933,19 @@ If application for registration says members are to be liable for debts of the b
 
 ### Division 150—How does a person cease to be a member of an Aboriginal and Torres Strait Islander corporation?
 
-#### Subdivision 150‑A—General
+#### Subdivision 150-A—General
 
-##### <a id="150‑1"></a>150‑1  Cessation of membership
+##### <a id="150-1"></a>150-1  Cessation of membership
 
 Ways a membership ceases
 
              (1)  This Division deals with the various ways in which a person ceases to be a member of an Aboriginal and Torres Strait Islander corporation. The various ways are:
 
-                     (a)  if the person resigns as a member of the corporation (see Subdivision 150‑B); or
+                     (a)  if the person resigns as a member of the corporation (see Subdivision 150-B); or
 
                      (b)  if the person dies; or
 
-                     (c)  if the person’s membership of the corporation is cancelled (see Subdivision 150‑C); or
+                     (c)  if the person’s membership of the corporation is cancelled (see Subdivision 150-C); or
 
                      (d)  if the member is a body corporate and the body corporate ceases to exist.
 
@@ -5954,15 +5953,15 @@ When a person ceases to be a member
 
              (2)  A person ceases to be a member when the member’s name is removed from the register of members as a current member of the corporation _._
 
-#### Subdivision 150‑B—Resignation of membership
+#### Subdivision 150-B—Resignation of membership
 
-##### <a id="150‑10"></a>150‑10  Resignation
+##### <a id="150-10"></a>150-10  Resignation
 
 Resignation to be given to corporation
 
              (1)  A member of an Aboriginal and Torres Strait Islander corporation may resign as a member by notice given to the corporation.
 
-Notice to be in writing (replaceable rule—see section 60‑1)
+Notice to be in writing (replaceable rule—see section 60-1)
 
              (2)  The notice must be in writing.
 
@@ -5976,25 +5975,25 @@ Register to be amended within 14 days of resignation
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-#### Subdivision 150‑C—Cancellation of membership
+#### Subdivision 150-C—Cancellation of membership
 
-##### <a id="150‑15"></a>150‑15  General
+##### <a id="150-15"></a>150-15  General
 
 Eligibility for membership etc.
 
-             (1)  Section 150‑20 is a replaceable rule that provides a model for the cancellation of membership on the grounds of ineligibility for membership or failure to pay fees.
+             (1)  Section 150-20 is a replaceable rule that provides a model for the cancellation of membership on the grounds of ineligibility for membership or failure to pay fees.
 
-Note:          As a replaceable rule, section 150‑20 can be modified or replaced by an Aboriginal and Torres Strait Islander corporation and replaced in whole or in part by a provision that suits the corporation’s particular circumstances (subject to the internal governance rules requirements).
+Note:          As a replaceable rule, section 150-20 can be modified or replaced by an Aboriginal and Torres Strait Islander corporation and replaced in whole or in part by a provision that suits the corporation’s particular circumstances (subject to the internal governance rules requirements).
 
 Specific grounds for cancellation of membership
 
-             (2)  Sections 150‑25, 150‑30 and 150‑35 deal with cancellation of membership on the grounds that:
+             (2)  Sections 150-25, 150-30 and 150-35 deal with cancellation of membership on the grounds that:
 
-                     (a)  the member is uncontactable (see section 150‑25); and
+                     (a)  the member is uncontactable (see section 150-25); and
 
-                     (b)  the member is not an Aboriginal and Torres Strait Islander person (see section 150‑30); and
+                     (b)  the member is not an Aboriginal and Torres Strait Islander person (see section 150-30); and
 
-                     (c)  the member has misbehaved (see section 150‑35).
+                     (c)  the member has misbehaved (see section 150-35).
 
 If a membership is to be cancelled on any of the grounds set out in these sections, the only way the membership may be cancelled is as provided for in the applicable section.
 
@@ -6008,7 +6007,7 @@ Register to be amended within 14 days of membership being cancelled
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="150‑20"></a>150‑20  Member not eligible for membership etc. (replaceable rule—see section 60‑1)
+##### <a id="150-20"></a>150-20  Member not eligible for membership etc. (replaceable rule—see section 60-1)
 
 Cancellation of membership if member is not eligible etc.
 
@@ -6052,13 +6051,13 @@ Notice of resolution to be given
 
              (6)  If the membership is cancelled, the directors must give the member a copy of the resolution (being either the resolution of the directors or the resolution of the general meeting) as soon as practicable after the resolution has been passed.
 
-##### <a id="150‑25"></a>150‑25  Member not contactable
+##### <a id="150-25"></a>150-25  Member not contactable
 
 Operation of section
 
-             (1)  This section operates despite section 150‑20 or any provision of an Aboriginal and Torres Strait Islander corporation’s constitution.
+             (1)  This section operates despite section 150-20 or any provision of an Aboriginal and Torres Strait Islander corporation’s constitution.
 
-Note:          An application may be made to exempt the corporation, or the directors of the corporation, from the requirements of this section (see section 187‑5).
+Note:          An application may be made to exempt the corporation, or the directors of the corporation, from the requirements of this section (see section 187-5).
 
 Membership may be cancelled if not contactable
 
@@ -6084,13 +6083,13 @@ Notice
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="150‑30"></a>150‑30  Member is not an Aboriginal and Torres Strait Islander person
+##### <a id="150-30"></a>150-30  Member is not an Aboriginal and Torres Strait Islander person
 
 Operation of section
 
-             (1)  This section operates despite section 150‑20 or any provision of an Aboriginal and Torres Strait Islander corporation’s constitution.
+             (1)  This section operates despite section 150-20 or any provision of an Aboriginal and Torres Strait Islander corporation’s constitution.
 
-Note:          An application may be made to exempt the corporation, or the directors of the corporation, from the requirements of this section (see section 187‑5).
+Note:          An application may be made to exempt the corporation, or the directors of the corporation, from the requirements of this section (see section 187-5).
 
 Membership may be cancelled if not an Aboriginal and Torres Strait Islander person
 
@@ -6110,13 +6109,13 @@ Notice
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="150‑35"></a>150‑35  Member misbehaves
+##### <a id="150-35"></a>150-35  Member misbehaves
 
 Operation of section
 
-             (1)  This section operates despite section 150‑20 or any provision of an Aboriginal and Torres Strait Islander corporation’s constitution.
+             (1)  This section operates despite section 150-20 or any provision of an Aboriginal and Torres Strait Islander corporation’s constitution.
 
-Note:          An application may be made to exempt the corporation, or the directors of the corporation, from the requirements of this section (see section 187‑5).
+Note:          An application may be made to exempt the corporation, or the directors of the corporation, from the requirements of this section (see section 187-5).
 
 Membership may be cancelled if member misbehaves
 
@@ -6140,19 +6139,19 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 153—Can there be different classes of members?
 
-##### <a id="153‑1"></a>153‑1  Different classes of members
+##### <a id="153-1"></a>153-1  Different classes of members
 
              (1)  An Aboriginal and Torres Strait Islander corporation’s constitution may provide that the corporation has different classes of members.
 
              (2)  The corporation’s constitution may provide that different rights may attach to different classes of membership.
 
-Note:          The rule under section 201‑115 that, subject to those different rights, each member has 1 vote on a show of hands and, on a poll, 1 vote is a replaceable rule.
+Note:          The rule under section 201-115 that, subject to those different rights, each member has 1 vote on a show of hands and, on a poll, 1 vote is a replaceable rule.
 
-## Part 4‑3—Observers
+## Part 4-3—Observers
 
 ### Division 158—Observers
 
-##### <a id="158‑1"></a>158‑1  What this Part is about
+##### <a id="158-1"></a>158-1  What this Part is about
 
 * * *
 
@@ -6162,17 +6161,17 @@ If the corporation chooses to have observers, the corporation’s constitution m
 
 * * *
 
-##### <a id="158‑5"></a>158‑5  Observers
+##### <a id="158-5"></a>158-5  Observers
 
 Corporation may have observers
 
              (1)  An Aboriginal and Torres Strait Islander corporation’s constitution may provide for the corporation to have observers.
 
-Entitlement of observer to attend general meeting (replaceable rule—see section 60‑1)
+Entitlement of observer to attend general meeting (replaceable rule—see section 60-1)
 
              (2)  An observer is entitled to attend a general meeting of the corporation but  is not a member of the corporation.
 
-Note:          Only members of an Aboriginal and Torres Strait Islander corporation may vote at a meeting of the corporation (see section 201‑115).
+Note:          Only members of an Aboriginal and Torres Strait Islander corporation may vote at a meeting of the corporation (see section 201-115).
 
 Other matters for which constitution must provide if corporation has observers
 
@@ -6188,11 +6187,11 @@ Other matters for which constitution must provide if corporation has observers
 
                      (e)  how an observer ceases to be an observer of the corporation.
 
-## Part 4‑4—Protection of members’ interests
+## Part 4-4—Protection of members’ interests
 
 ### Division 163—Rights and remedies to protect interests of members
 
-##### <a id="163‑1"></a>163‑1  Rights and remedies
+##### <a id="163-1"></a>163-1  Rights and remedies
 
                    The rights and remedies that are conferred by this Part to protect the interests of members of Aboriginal and Torres Strait Islander corporations are:
 
@@ -6206,9 +6205,9 @@ Other matters for which constitution must provide if corporation has observers
 
 ### Division 166—Oppressive conduct of affairs
 
-##### <a id="166‑1"></a>166‑1  Grounds for Court order
+##### <a id="166-1"></a>166-1  Grounds for Court order
 
-             (1)  Subject to subsection (2), the Court may make an order under section 166‑5 if:
+             (1)  Subject to subsection (2), the Court may make an order under section 166-5 if:
 
                      (a)  the conduct of an Aboriginal and Torres Strait Islander corporation’s affairs; or
 
@@ -6222,7 +6221,7 @@ is either:
 
                      (e)  oppressive to, unfairly prejudicial to or unfairly discriminatory against, a member or members whether in that capacity or in any other capacity.
 
-             (2)  If the corporation is a registered native title body corporate, the Court must not make an order under subsection 166‑5(1) on the basis of:
+             (2)  If the corporation is a registered native title body corporate, the Court must not make an order under subsection 166-5(1) on the basis of:
 
                      (a)  an act (or omission from doing an act); or
 
@@ -6234,7 +6233,7 @@ if an officer or employee of the corporation does (or refrains from doing), or p
 
                      (d)  with the belief that doing (or refraining from doing) the act is necessary to ensure that the corporation complies with a Native Title legislation obligation.
 
-##### <a id="166‑5"></a>166‑5  Orders the Court can make
+##### <a id="166-5"></a>166-5  Orders the Court can make
 
              (1)  The Court can make any order under this section that it considers appropriate in relation to the corporation, including the following:
 
@@ -6256,11 +6255,11 @@ Order that the corporation be wound up
 
              (2)  If an order that the corporation be wound up is made under this section, the provisions of this Act relating to the winding up of Aboriginal and Torres Strait Islander corporations apply:
 
-                     (a)  as if the order were made under section 526‑1; and
+                     (a)  as if the order were made under section 526-1; and
 
                      (b)  with such changes as are necessary.
 
-Without limiting this, section 526‑35 (which applies certain provisions of the Corporations Act) applies to the winding up.
+Without limiting this, section 526-35 (which applies certain provisions of the Corporations Act) applies to the winding up.
 
 Changes to constitution made after order that are inconsistent with the Court ordered change
 
@@ -6280,13 +6279,13 @@ the Registrar must not register the proposed change unless:
 
                               (i)  in any case—the Registrar; or
 
-                             (ii)  if the change is not to be made under section 69‑35—the corporation.
+                             (ii)  if the change is not to be made under section 69-35—the corporation.
 
-Note:          See section 69‑10 for the meaning of**_changed_** in relation to an Aboriginal and Torres Strait Islander corporation’s constitution.
+Note:          See section 69-10 for the meaning of**_changed_** in relation to an Aboriginal and Torres Strait Islander corporation’s constitution.
 
-##### <a id="166‑10"></a>166‑10  Who can apply for an order?
+##### <a id="166-10"></a>166-10  Who can apply for an order?
 
-                   An application for an order under section 166‑5 in relation to an Aboriginal and Torres Strait Islander corporation may be made by:
+                   An application for an order under section 166-5 in relation to an Aboriginal and Torres Strait Islander corporation may be made by:
 
                      (a)  a member of the corporation, even if the application relates to an act or omission that is against:
 
@@ -6304,9 +6303,9 @@ Note:          See section 69‑10 for the meaning of**_chan
 
                      (d)  the Registrar.
 
-##### <a id="166‑15"></a>166‑15  Requirement for person to lodge order
+##### <a id="166-15"></a>166-15  Requirement for person to lodge order
 
-             (1)  If an order is made under section 166‑5, the applicant must lodge a copy of the order with the Registrar within 14 days after it is made.
+             (1)  If an order is made under section 166-5, the applicant must lodge a copy of the order with the Registrar within 14 days after it is made.
 
              (2)  Subsection (1) does not apply if the applicant is the Registrar.
 
@@ -6320,7 +6319,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 169—When may a person bring or intervene in proceedings on behalf of an Aboriginal and Torres Strait Islander corporation?
 
-##### <a id="169‑1"></a>169‑1  Bringing, or intervening in, proceedings on behalf of a corporation
+##### <a id="169-1"></a>169-1  Bringing, or intervening in, proceedings on behalf of a corporation
 
              (1)  A person who is:
 
@@ -6332,7 +6331,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  the Registrar; and
 
-                     (b)  acting with leave granted under section 169‑5;
+                     (b)  acting with leave granted under section 169-5;
 
 may:
 
@@ -6346,11 +6345,11 @@ may:
 
 Note:          This section does not prevent a person bringing, or intervening in, proceedings on the person’s own behalf in respect of a personal right.
 
-##### <a id="169‑5"></a>169‑5  Applying for and granting leave
+##### <a id="169-5"></a>169-5  Applying for and granting leave
 
 Who may apply for leave?
 
-             (1)  A person referred to in paragraph 169‑1(1)(a) may apply to the Court for leave to bring, or to intervene in, proceedings.
+             (1)  A person referred to in paragraph 169-1(1)(a) may apply to the Court for leave to bring, or to intervene in, proceedings.
 
 Court to grant the application in certain circumstances
 
@@ -6402,7 +6401,7 @@ When leave is not in the best interests of the corporation
 
                             (iv)  rationally believed that the decision was in the best interests of the corporation.
 
-Note:          **_Related party_** is defined in section 293‑1.
+Note:          **_Related party_** is defined in section 293-1.
 
              (4)  A director’s belief that the decision was in the best interests of the corporation is a rational one unless the belief is one that no reasonable person in his or her position would hold.
 
@@ -6424,9 +6423,9 @@ Decision taken to give effect to Native Title legislation obligation
 
                              (ii)  with the belief that making the decision was necessary to ensure that the corporation complies with a Native Title legislation obligation.
 
-##### <a id="169‑10"></a>169‑10  Substitution of another person for the person granted leave
+##### <a id="169-10"></a>169-10  Substitution of another person for the person granted leave
 
-             (1)  Any of the following persons may apply to the Court for an order that the person be substituted for a person to whom leave has been granted under section 169‑5:
+             (1)  Any of the following persons may apply to the Court for an order that the person be substituted for a person to whom leave has been granted under section 169-5:
 
                      (a)  a member, former member, or a person entitled to be registered as a member of the corporation or of a related body corporate;
 
@@ -6448,33 +6447,33 @@ When may Court make order
 
                      (b)  if the other person has already brought the proceedings or intervened—the substituted person is taken to have brought those proceedings or to have made that intervention.
 
-##### <a id="169‑15"></a>169‑15  Effect of ratification by members
+##### <a id="169-15"></a>169-15  Effect of ratification by members
 
              (1)  If the members of an Aboriginal and Torres Strait Islander corporation ratify or approve conduct, the ratification or approval:
 
-                     (a)  does not prevent a person from bringing or intervening in proceedings with leave under section 169‑5 or from applying for leave under that section; and
+                     (a)  does not prevent a person from bringing or intervening in proceedings with leave under section 169-5 or from applying for leave under that section; and
 
-                     (b)  does not have the effect that proceedings brought or intervened in with leave under section 169‑5 must be determined in favour of the defendant, or that an application for leave under that section must be refused.
+                     (b)  does not have the effect that proceedings brought or intervened in with leave under section 169-5 must be determined in favour of the defendant, or that an application for leave under that section must be refused.
 
 Effect of ratification on court
 
              (2)  If the members of an Aboriginal and Torres Strait Islander corporation ratify or approve conduct, the Court may take the ratification or approval into account in deciding what order or judgment (including as to damages) to make in:
 
-                     (a)  proceedings brought or intervened in with leave under section 169‑5; or
+                     (a)  proceedings brought or intervened in with leave under section 169-5; or
 
                      (b)  in relation to an application for leave under that section.
 
              (3)  In doing this, it must have regard to:
 
-                     (a)  how well‑informed about the conduct the members were when deciding whether to ratify or approve the conduct; and
+                     (a)  how well-informed about the conduct the members were when deciding whether to ratify or approve the conduct; and
 
                      (b)  whether the members who ratified or approved the conduct were acting for proper purposes.
 
-##### <a id="169‑20"></a>169‑20  Leave to discontinue, compromise or settle proceedings brought, or intervened in, with leave
+##### <a id="169-20"></a>169-20  Leave to discontinue, compromise or settle proceedings brought, or intervened in, with leave
 
                    Proceedings brought or intervened in with leave must not be discontinued, compromised or settled without the leave of the Court.
 
-##### <a id="169‑25"></a>169‑25  General powers of the Court
+##### <a id="169-25"></a>169-25  General powers of the Court
 
              (1)  The Court may make any orders, and give any directions, that it considers appropriate in relation to proceedings brought or intervened in with leave, or an application for leave, including:
 
@@ -6514,9 +6513,9 @@ Remuneration and expenses for persons appointed under paragraph (1)(d)
 
              (4)  Subsection (3) does not affect the powers of the Court as to costs.
 
-##### <a id="169‑30"></a>169‑30  Power of the Court to make costs orders
+##### <a id="169-30"></a>169-30  Power of the Court to make costs orders
 
-             (1)  The Court may at any time make any orders it considers appropriate about the costs of the following persons in relation to proceedings brought or intervened in with leave under section 169‑5 or an application for leave under that section:
+             (1)  The Court may at any time make any orders it considers appropriate about the costs of the following persons in relation to proceedings brought or intervened in with leave under section 169-5 or an application for leave under that section:
 
                      (a)  the person who applied for or was granted leave;
 
@@ -6528,7 +6527,7 @@ Remuneration and expenses for persons appointed under paragraph (1)(d)
 
 ### Division 172—What protections apply to variations or cancellations of class rights?
 
-##### <a id="172‑1"></a>172‑1  Varying and cancelling class rights
+##### <a id="172-1"></a>172-1  Varying and cancelling class rights
 
 If constitution sets out procedure
 
@@ -6554,7 +6553,7 @@ Notice of variation
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="172‑5"></a>172‑5  Certain actions taken to vary rights etc
+##### <a id="172-5"></a>172-5  Certain actions taken to vary rights etc
 
              (1)  If the members in a class of members of an Aboriginal and Torres Strait Islander corporation are divided into further classes of members and, after the division, the rights of all of those members are not the same:
 
@@ -6568,7 +6567,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  members who have the same rights after the variation form a separate class.
 
-##### <a id="172‑10"></a>172‑10  Variation, cancellation or modification without unanimous support of class
+##### <a id="172-10"></a>172-10  Variation, cancellation or modification without unanimous support of class
 
              (1)  If members in a class of members of an Aboriginal and Torres Strait Islander corporation do not all agree (whether by resolution or written consent) to:
 
@@ -6600,7 +6599,7 @@ members with at least 10% of the votes in the class may apply to the Court to ha
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="172‑15"></a>172‑15  Variation, cancellation or modification with unanimous support of class
+##### <a id="172-15"></a>172-15  Variation, cancellation or modification with unanimous support of class
 
                    If the members in a class of members of an Aboriginal and Torres Strait Islander corporation all agree (whether by resolution or written consent) to the variation, cancellation or modification, it takes effect:
 
@@ -6610,7 +6609,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 175—When may a member inspect a corporation’s books?
 
-##### <a id="175‑1"></a>175‑1  Order for inspection of books of corporation
+##### <a id="175-1"></a>175-1  Order for inspection of books of corporation
 
              (1)  On application by a member of an Aboriginal and Torres Strait Islander corporation, the Court may make an order:
 
@@ -6624,7 +6623,7 @@ The Court may only make the order if it is satisfied that the applicant is actin
 
              (3)  A person who:
 
-                     (a)  is granted leave under section 169‑5; or
+                     (a)  is granted leave under section 169-5; or
 
                      (b)  applies for leave under that section; or
 
@@ -6644,7 +6643,7 @@ may apply to the Court for an order under this section.
 
                      (b)  the inspection is to be made for a purpose connected with:
 
-                              (i)  applying for leave under section 169‑5; or
+                              (i)  applying for leave under section 169-5; or
 
                              (ii)  bringing or intervening in proceedings with leave under that section.
 
@@ -6652,17 +6651,17 @@ may apply to the Court for an order under this section.
 
              (7)  If the person authorised by the Court under paragraph (1)(b) or paragraph (4)(b) is the Registrar, the Registrar may appoint another person to inspect the books of the corporation on the Registrar’s behalf.
 
-##### <a id="175‑5"></a>175‑5  Ancillary orders
+##### <a id="175-5"></a>175-5  Ancillary orders
 
-                   If the Court makes an order under section 175‑1, the Court may make any other orders it considers appropriate, including either or both of the following:
+                   If the Court makes an order under section 175-1, the Court may make any other orders it considers appropriate, including either or both of the following:
 
                      (a)  an order limiting the use that a person who inspects books may make of information obtained during the inspection;
 
-                     (b)  an order limiting the right of a person who inspects books to make copies in accordance with subsection 175‑1(2).
+                     (b)  an order limiting the right of a person who inspects books to make copies in accordance with subsection 175-1(2).
 
-##### <a id="175‑10"></a>175‑10  Disclosure of information acquired in inspection
+##### <a id="175-10"></a>175-10  Disclosure of information acquired in inspection
 
-             (1)  A person who inspects books on behalf of an applicant under section 175‑1 must not disclose information obtained during the inspection.
+             (1)  A person who inspects books on behalf of an applicant under section 175-1 must not disclose information obtained during the inspection.
 
              (2)  Subsection (1) does not apply to the extent that the disclosure is to:
 
@@ -6680,15 +6679,15 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="175‑15"></a>175‑15  Corporation or directors may allow member to inspect books (replaceable rule—see section 60‑1)
+##### <a id="175-15"></a>175-15  Corporation or directors may allow member to inspect books (replaceable rule—see section 60-1)
 
                    The directors of an Aboriginal and Torres Strait Islander corporation, or the corporation by a resolution passed at a general meeting, may authorise a member to inspect books of the corporation.
 
-## Part 4‑5—Registers of members and former members
+## Part 4-5—Registers of members and former members
 
 ### Division 180—Registers of members and former members
 
-##### <a id="180‑1"></a>180‑1  Aboriginal and Torres Strait Islander corporations to maintain register of members
+##### <a id="180-1"></a>180-1  Aboriginal and Torres Strait Islander corporations to maintain register of members
 
              (1)  An Aboriginal and Torres Strait Islander corporation must set up and maintain a register of members.
 
@@ -6700,7 +6699,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="180‑5"></a>180‑5  Information on the register of members
+##### <a id="180-5"></a>180-5  Information on the register of members
 
              (1)  The register of members must contain the following information about each member who is an individual:
 
@@ -6726,7 +6725,7 @@ The register may also contain any other name by which the member is or was known
 
 the entry for the member in the register must also indicate that the member is not an Aboriginal and Torres Strait Islander person.
 
-##### <a id="180‑10"></a>180‑10  Aboriginal and Torres Strait Islander corporations to maintain register of former members
+##### <a id="180-10"></a>180-10  Aboriginal and Torres Strait Islander corporations to maintain register of former members
 
              (1)  An Aboriginal and Torres Strait Islander corporation must set up and maintain a register of former members.
 
@@ -6738,7 +6737,7 @@ the entry for the member in the register must also indicate that the member is n
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="180‑15"></a>180‑15  Information on the register of former members
+##### <a id="180-15"></a>180-15  Information on the register of former members
 
              (1)  The register of former members must contain the following information about each individual who stopped being a member of the corporation within the last 7 years:
 
@@ -6756,7 +6755,7 @@ The register may also contain any other name by which the individual is or was k
 
                      (b)  the date on which the body stopped being a member.
 
-##### <a id="180‑20"></a>180‑20  Location and inspection of registers
+##### <a id="180-20"></a>180-20  Location and inspection of registers
 
              (1)  An Aboriginal and Torres Strait Islander corporation must keep the register of members and the register of former members at:
 
@@ -6772,25 +6771,25 @@ The register may also contain any other name by which the individual is or was k
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="180‑22"></a>180‑22  Register of members and register of former members may be maintained in one document
+##### <a id="180-22"></a>180-22  Register of members and register of former members may be maintained in one document
 
                    Nothing in this Act prevents an Aboriginal and Torres Strait Islander corporation from maintaining its register of members, and its register of former members, in the one document.
 
-##### <a id="180‑25"></a>180‑25  Right to inspect and get copies
+##### <a id="180-25"></a>180-25  Right to inspect and get copies
 
 Right to inspect
 
              (1)  Any person has a right to inspect an Aboriginal and Torres Strait Islander corporation’s register of members and register of former members.
 
-Note 1:       A corporation commits an offence under section 376‑1 if it does not allow inspection of a register.
+Note 1:       A corporation commits an offence under section 376-1 if it does not allow inspection of a register.
 
 Note 2:       Other provisions that are relevant to the inspection of a register are:
 
-(a)           section 180‑45 (evidentiary value); and
+(a)           section 180-45 (evidentiary value); and
 
-(b)           section 376‑1 (place and times for inspection); and
+(b)           section 376-1 (place and times for inspection); and
 
-(c)           section 376‑20 (form).
+(c)           section 376-20 (form).
 
              (2)  If the register is not kept on computer, the corporation must allow the person to inspect the register itself.
 
@@ -6816,7 +6815,7 @@ The Registrar may allow a longer period to comply with the request.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="180‑30"></a>180‑30  Aboriginal and Torres Strait Islander corporation to make register of members available at AGM
+##### <a id="180-30"></a>180-30  Aboriginal and Torres Strait Islander corporation to make register of members available at AGM
 
              (1)  An Aboriginal and Torres Strait Islander corporation must:
 
@@ -6834,11 +6833,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="180‑35"></a>180‑35  Aboriginal and Torres Strait Islander corporation to give Registrar copy of register of members or register of former members
+##### <a id="180-35"></a>180-35  Aboriginal and Torres Strait Islander corporation to give Registrar copy of register of members or register of former members
 
              (1)  The Registrar may, at any time, request the corporation to give him or her a copy of the register of members, or the register of former members, as at the date when the copy is given to the Registrar, and the corporation must comply with the request within 14 days or such longer period as the Registrar specifies.
 
-Note:          An Aboriginal and Torres Strait Islander corporation must give a general report to the Registrar in respect of each financial year. That report must include details of the names and addresses of the corporation’s members: see sections 330‑1 and 330‑5.
+Note:          An Aboriginal and Torres Strait Islander corporation must give a general report to the Registrar in respect of each financial year. That report must include details of the names and addresses of the corporation’s members: see sections 330-1 and 330-5.
 
              (2)  An Aboriginal and Torres Strait Islander corporation commits an offence if it contravenes subsection (1).
 
@@ -6848,21 +6847,21 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
 Note 1:       For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-Note 2:       See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note 2:       See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="180‑40"></a>180‑40  Correction of register of members or register of former members
+##### <a id="180-40"></a>180-40  Correction of register of members or register of former members
 
              (1)  The corporation, or a person aggrieved, may apply to the Court to have the register of members or the register of former members corrected.
 
              (2)  If the Court orders the corporation to correct the register, it may also order the corporation to compensate a party to the application for loss or damage suffered.
 
-##### <a id="180‑45"></a>180‑45  Evidentiary value of registers
+##### <a id="180-45"></a>180-45  Evidentiary value of registers
 
                    In the absence of evidence to the contrary, the register of members and the register of former members are proof of the matters shown in the registers under this Part.
 
 ### Division 183—Use of information on the register of members or register of former members
 
-##### <a id="183‑1"></a>183‑1  Use of information on register of members or register of former members
+##### <a id="183-1"></a>183-1  Use of information on register of members or register of former members
 
              (1)  A person must not:
 
@@ -6898,11 +6897,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  any amount paid or recovered in respect of the debt forms part of the corporation’s property.
 
-## Part 4‑6—Exemption from operation of certain provisions of this Chapter
+## Part 4-6—Exemption from operation of certain provisions of this Chapter
 
 ### Division 187—Exemption from operation of certain provisions of this Chapter
 
-##### <a id="187‑1"></a>187‑1  What this Part is about
+##### <a id="187-1"></a>187-1  What this Part is about
 
 * * *
 
@@ -6910,7 +6909,7 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
 * * *
 
-##### <a id="187‑5"></a>187‑5  Exemption from certain provisions of this Chapter
+##### <a id="187-5"></a>187-5  Exemption from certain provisions of this Chapter
 
              (1)  On an application made in accordance with subsection (3) in relation to an Aboriginal and Torres Strait Islander corporation, the Registrar may make a determination in writing exempting any of the following from the exemptible provisions of this Chapter specified in the Registrar’s determination:
 
@@ -6918,17 +6917,17 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
                      (b)  the directors of the corporation.
 
-Note:          For the criteria for making determinations under this section, see section 187‑20.
+Note:          For the criteria for making determinations under this section, see section 187-20.
 
              (2)  For the purposes of this section, the **_exemptible provisions_** of this Chapter are:
 
-                     (a)  subsection 144‑10(8); and
+                     (a)  subsection 144-10(8); and
 
-                     (b)  section 150‑25; and
+                     (b)  section 150-25; and
 
-                     (c)  section 150‑30; and
+                     (c)  section 150-30; and
 
-                     (d)  section 150‑35.
+                     (d)  section 150-35.
 
              (3)  The application must:
 
@@ -6952,11 +6951,11 @@ Note:          For the criteria for making determinations unde
 
              (7)  A determination under subsection (1), or a revocation, variation or suspension under subsection (5), is not a legislative instrument.
 
-##### <a id="187‑10"></a>187‑10  Registrar may make determination even if application is incomplete
+##### <a id="187-10"></a>187-10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 187‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 187-5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
-##### <a id="187‑15"></a>187‑15  Registrar’s power to make determinations
+##### <a id="187-15"></a>187-15  Registrar’s power to make determinations
 
              (1)  The Registrar may determine in writing that:
 
@@ -6966,17 +6965,17 @@ Note:          For the criteria for making determinations unde
 
 are exempted from the exemptible provision of this Chapter specified in the Registrar’s determination.
 
-Note:          For the criteria for making determinations under this section, see section 187‑20.
+Note:          For the criteria for making determinations under this section, see section 187-20.
 
              (2)  For the purposes of this section, the **_exemptible provisions_** of this Chapter are:
 
-                     (a)  subsection 144‑10(8); and
+                     (a)  subsection 144-10(8); and
 
-                     (b)  section 150‑25; and
+                     (b)  section 150-25; and
 
-                     (c)  section 150‑30; and
+                     (c)  section 150-30; and
 
-                     (d)  section 150‑35.
+                     (d)  section 150-35.
 
              (3)  The determination may:
 
@@ -7004,9 +7003,9 @@ is a legislative instrument.
 
 is not a legislative instrument.
 
-##### <a id="187‑20"></a>187‑20  Criteria for determinations
+##### <a id="187-20"></a>187-20  Criteria for determinations
 
-             (1)  In making a determination under section 187‑5 or 187‑15, the Registrar must be satisfied that the requirements of the relevant exemptible provisions of this Chapter would:
+             (1)  In making a determination under section 187-5 or 187-15, the Registrar must be satisfied that the requirements of the relevant exemptible provisions of this Chapter would:
 
                      (a)  be inappropriate in the circumstances; or
 
@@ -7026,11 +7025,11 @@ Unreasonable burden
 
 # Chapter 5—Meetings
 
-## Part 5‑1—Introduction
+## Part 5-1—Introduction
 
 ### Division 193—Introduction
 
-##### <a id="193‑1"></a>193‑1  What this Chapter is about
+##### <a id="193-1"></a>193-1  What this Chapter is about
 
 * * *
 
@@ -7038,15 +7037,15 @@ This Chapter deals with 2 kinds of meetings that Aboriginal and Torres Strait Is
 
 This Chapter sets out the rules for those meetings. Some of those rules may be modified or replaced by the corporation’s constitution. Others cannot be.
 
-An Aboriginal and Torres Strait Islander corporation may be exempted in part from some of the requirements of this Chapter (see Part 5‑5).
+An Aboriginal and Torres Strait Islander corporation may be exempted in part from some of the requirements of this Chapter (see Part 5-5).
 
 * * *
 
-## Part 5‑2—General meetings
+## Part 5-2—General meetings
 
 ### Division 198—Introduction
 
-##### <a id="198‑1"></a>198‑1  What this Part is about
+##### <a id="198-1"></a>198-1  What this Part is about
 
 * * *
 
@@ -7058,13 +7057,13 @@ Some of the rules in this Chapter may be modified or replaced by the corporation
 
 ### Division 201—What are the rules concerning general meetings?
 
-#### Subdivision 201‑A—Who may call general meetings?
+#### Subdivision 201-A—Who may call general meetings?
 
-##### <a id="201‑1"></a>201‑1  Director may call meetings (replaceable rule—see section 60‑1)
+##### <a id="201-1"></a>201-1  Director may call meetings (replaceable rule—see section 60-1)
 
                    A director of an Aboriginal and Torres Strait Islander corporation may call a general meeting of the corporation.
 
-##### <a id="201‑5"></a>201‑5  Request by members for directors to call general meetings
+##### <a id="201-5"></a>201-5  Request by members for directors to call general meetings
 
 Which members may make a request?
 
@@ -7104,11 +7103,11 @@ Without limiting this, the regulations may specify the number as a percentage of
 
                      (b)  a particular class of Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="201‑10"></a>201‑10  When must directors comply with members’ request?
+##### <a id="201-10"></a>201-10  When must directors comply with members’ request?
 
              (1)  If the directors resolve:
 
-                     (a)  that the request under section 201‑5 is frivolous or unreasonable; or
+                     (a)  that the request under section 201-5 is frivolous or unreasonable; or
 
                      (b)  that complying with the request would be contrary to the interests of the members as a whole;
 
@@ -7130,25 +7129,25 @@ a director, on behalf of all of the directors, may apply to the Registrar for pe
 
                      (b)  notify the director, the corporation and the nominated member  in writing of the outcome of the determination.
 
-##### <a id="201‑15"></a>201‑15  When must a requested meeting be held?
+##### <a id="201-15"></a>201-15  When must a requested meeting be held?
 
-No application to Registrar under section 201‑10
+No application to Registrar under section 201-10
 
-             (1)  If a director has not applied to the Registrar under section 201‑10 in respect of the request, the directors must call the requested meeting within 21 days after the request is given to the corporation.
+             (1)  If a director has not applied to the Registrar under section 201-10 in respect of the request, the directors must call the requested meeting within 21 days after the request is given to the corporation.
 
-Application to Registrar under section 201‑10
+Application to Registrar under section 201-10
 
              (2)  If:
 
-                     (a)  a director has applied under section 201‑10 in respect of the request; and
+                     (a)  a director has applied under section 201-10 in respect of the request; and
 
                      (b)  the Registrar’s decision is that the ground is not made out;
 
 the directors must call the meeting within 21 days after being notified of the Registrar’s determination.
 
-#### Subdivision 201‑B—How to call general meetings
+#### Subdivision 201-B—How to call general meetings
 
-##### <a id="201‑20"></a>201‑20  Amount of notice of general meetings
+##### <a id="201-20"></a>201-20  Amount of notice of general meetings
 
 General rule
 
@@ -7168,7 +7167,7 @@ Shorter notice not allowed—removing or appointing director
 
              (3)  At least 21 days notice must be given of a general meeting at which a resolution will be moved to:
 
-                     (a)  remove a director under section 249‑10; or
+                     (a)  remove a director under section 249-10; or
 
                      (b)  appoint a director in place of a director removed under that section.
 
@@ -7176,7 +7175,7 @@ Shorter notice not allowed—removing auditor
 
              (4)  At least 21 days notice must be given of a general meeting at which a resolution will be moved to remove an auditor.
 
-##### <a id="201‑25"></a>201‑25  Notice of general meeting to members, officers and observers
+##### <a id="201-25"></a>201-25  Notice of general meeting to members, officers and observers
 
 Notice to members, officers and observers
 
@@ -7192,9 +7191,9 @@ Notice to members, officers and observers
 
                      (e)  any observer entitled to attend the meeting.
 
-Note:          A failure to give notice to a member might not invalidate the meeting (see section 576‑15).
+Note:          A failure to give notice to a member might not invalidate the meeting (see section 576-15).
 
-Notice to joint members (replaceable rule—see section 60‑1)
+Notice to joint members (replaceable rule—see section 60-1)
 
              (2)  Notice to joint members must be given to the joint member named first in the register of members.
 
@@ -7214,7 +7213,7 @@ How notice is given
 
                       (f)  by any other means that the corporation’s constitution (if any) permits.
 
-Note:          A defect in the notice given may not invalidate a meeting (see section 576‑15).
+Note:          A defect in the notice given may not invalidate a meeting (see section 576-15).
 
              (4)  If the member nominates:
 
@@ -7230,15 +7229,15 @@ the corporation may give the member notice of the meeting by notifying the membe
 
 This subsection does not limit subsection (3).
 
-When notice by post or fax is given (replaceable rule—see section 60‑1)
+When notice by post or fax is given (replaceable rule—see section 60-1)
 
              (5)  A notice of meeting sent by post is taken to be given 3 days after it is posted. A notice of meeting sent by fax, or other electronic means, is taken to be given on the business day after it is sent.
 
-When notice under paragraph (3)(e) is given (replaceable rule—see section 60‑1)
+When notice under paragraph (3)(e) is given (replaceable rule—see section 60-1)
 
              (6)  A notice of meeting given to a member under paragraph (3)(e) is taken to be given on the business day after the day on which the member is notified that the notice of meeting is available.
 
-##### <a id="201‑30"></a>201‑30  Auditor entitled to notice and other communications
+##### <a id="201-30"></a>201-30  Auditor entitled to notice and other communications
 
              (1)  An Aboriginal and Torres Strait Islander corporation must give its auditor (if any):
 
@@ -7248,13 +7247,13 @@ When notice under paragraph (3)(e) is given (replaceable rule—see section 
 
                     Penalty:  5 penalty units.
 
-Note:          An auditor may authorise a representative to attend a meeting (see subsection 201‑80(4).
+Note:          An auditor may authorise a representative to attend a meeting (see subsection 201-80(4).
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="201‑35"></a>201‑35  Contents of notice of general meeting
+##### <a id="201-35"></a>201-35  Contents of notice of general meeting
 
              (1)  A notice of a general meeting must:
 
@@ -7276,9 +7275,9 @@ Note:          There may be other requirements for disclosure 
 
              (2)  The information included in the notice of meeting must be worded and presented in a clear, concise and effective manner.
 
-#### Subdivision 201‑C—Members’ rights to put resolutions etc. to general meeting
+#### Subdivision 201-C—Members’ rights to put resolutions etc. to general meeting
 
-##### <a id="201‑40"></a>201‑40  Members’ resolutions
+##### <a id="201-40"></a>201-40  Members’ resolutions
 
              (1)  Notice of a resolution that they propose to move at a general meeting may be given to an Aboriginal and Torres Strait Islander corporation by at least the required number of members under subsection (4).
 
@@ -7312,9 +7311,9 @@ Without limiting this, the regulations may specify the number as a percentage of
 
                      (b)  a particular class of Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="201‑45"></a>201‑45  Notice of members’ resolutions
+##### <a id="201-45"></a>201-45  Notice of members’ resolutions
 
-             (1)  If an Aboriginal and Torres Strait Islander corporation has been given notice of a resolution under section 201‑40, the resolution is to be considered at the next general meeting that occurs more than 28 days after the notice is given.
+             (1)  If an Aboriginal and Torres Strait Islander corporation has been given notice of a resolution under section 201-40, the resolution is to be considered at the next general meeting that occurs more than 28 days after the notice is given.
 
              (2)  The corporation must give all its members notice of the resolution at the same time, or as soon as practicable afterwards, and in the same way, as it gives notice of a general meeting.
 
@@ -7322,7 +7321,7 @@ Without limiting this, the regulations may specify the number as a percentage of
 
              (4)  The corporation need not give notice of the resolution if it is defamatory.
 
-##### <a id="201‑50"></a>201‑50  Members’ statements to be distributed
+##### <a id="201-50"></a>201-50  Members’ statements to be distributed
 
              (1)  Members may request an Aboriginal and Torres Strait Islander corporation to give to all its members a statement provided by the members making the request about:
 
@@ -7368,25 +7367,25 @@ Without limiting this, the regulations may specify the number as a percentage of
 
                      (b)  a particular class of Aboriginal and Torres Strait Islander corporation.
 
-#### Subdivision 201‑D—Holding general meetings
+#### Subdivision 201-D—Holding general meetings
 
-##### <a id="201‑55"></a>201‑55  Purpose
+##### <a id="201-55"></a>201-55  Purpose
 
                    A general meeting must be held for a proper purpose.
 
-##### <a id="201‑60"></a>201‑60  Time and place for general meeting
+##### <a id="201-60"></a>201-60  Time and place for general meeting
 
                    A general meeting must be held at a reasonable time and place.
 
-##### <a id="201‑65"></a>201‑65  Technology
+##### <a id="201-65"></a>201-65  Technology
 
                    An Aboriginal and Torres Strait Islander corporation may hold a general meeting at 2 or more venues using any technology that gives the members as a whole a reasonable opportunity to participate.
 
-Note:          See section 576‑15 for the consequences of a member not being given a reasonable opportunity to participate.
+Note:          See section 576-15 for the consequences of a member not being given a reasonable opportunity to participate.
 
-##### <a id="201‑70"></a>201‑70  Quorum
+##### <a id="201-70"></a>201-70  Quorum
 
-Quorum (replaceable rule—see section 60‑1)
+Quorum (replaceable rule—see section 60-1)
 
              (1)  If an Aboriginal and Torres Strait Islander corporation has 11 or more members, the quorum for a meeting of the corporation’s members is the lesser of:
 
@@ -7398,7 +7397,7 @@ Quorum (replaceable rule—see section 60‑1)
 
                              (ii)  2 members.
 
-Corporations with 10 members or less (replaceable rule—see section 60‑1)
+Corporations with 10 members or less (replaceable rule—see section 60-1)
 
              (2)  If an Aboriginal and Torres Strait Islander corporation has 10 members or less, the quorum for a meeting of the corporation’s members is 2 members.
 
@@ -7410,19 +7409,19 @@ How to determine if quorum is present
 
              (4)  In determining whether a quorum is present, count individuals attending as proxies or body corporate representatives. However, if a member has appointed more than 1 proxy or representative, count only 1 of them. If an individual is attending both as a member and as a proxy or body corporate representative, count them only once.
 
-Note 1:       For rights to appoint proxies, see section 201‑90.
+Note 1:       For rights to appoint proxies, see section 201-90.
 
-Note 2:       For body corporate representatives, see section 201‑110.
+Note 2:       For body corporate representatives, see section 201-110.
 
-Adjourned meeting (replaceable rule—see section 60‑1)
+Adjourned meeting (replaceable rule—see section 60-1)
 
              (5)  A meeting of the corporation’s members that does not have a quorum present within 1 hour after the time for the meeting set out in the notice of meeting is adjourned to the same time of the same day in the next week, and to the same place, unless the directors specify otherwise.
 
-No quorum at resumed meeting (replaceable rule—see section 60‑1)
+No quorum at resumed meeting (replaceable rule—see section 60-1)
 
              (6)  If no quorum is present at the resumed meeting within 1 hour after the time for the meeting, the meeting is dissolved.
 
-##### <a id="201‑75"></a>201‑75  Chairing general meeting (replaceable rule—see section 60‑1)
+##### <a id="201-75"></a>201-75  Chairing general meeting (replaceable rule—see section 60-1)
 
              (1)  The directors may elect an individual to chair general meetings.
 
@@ -7436,11 +7435,11 @@ No quorum at resumed meeting (replaceable rule—see section 60‑1)
 
              (4)  The chair must adjourn a general meeting if the members present with a majority of votes  at the meeting agree or direct that the chair must do so.
 
-##### <a id="201‑80"></a>201‑80  Auditor’s right to be heard at general meetings
+##### <a id="201-80"></a>201-80  Auditor’s right to be heard at general meetings
 
              (1)  If an Aboriginal and Torres Strait Islander corporation has an auditor, the auditor is entitled to attend any general meeting of the corporation.
 
-Note:          See section 333‑20 for when a financial report is required to be audited.
+Note:          See section 333-20 for when a financial report is required to be audited.
 
              (2)  The auditor is entitled to be heard at the meeting on any part of the business of the meeting that concerns the auditor in the auditor’s capacity as auditor.
 
@@ -7452,21 +7451,21 @@ Note:          See section 333‑20 for when a financial rep
 
              (4)  The auditor may authorise a person in writing as the auditor’s representative for the purpose of attending and speaking at any general meeting.
 
-Note:          At an AGM, members may ask the auditor questions (see section 201‑170).
+Note:          At an AGM, members may ask the auditor questions (see section 201-170).
 
-##### <a id="201‑85"></a>201‑85  Adjourned meetings
+##### <a id="201-85"></a>201-85  Adjourned meetings
 
 When resolution passed
 
              (1)  A resolution passed at a general  meeting resumed after an adjournment is passed on the day it was passed.
 
-Business at adjourned meetings (replaceable rule—see section 60‑1)
+Business at adjourned meetings (replaceable rule—see section 60-1)
 
              (2)  Only unfinished business is to be transacted at a general meeting resumed after an adjournment.
 
-#### Subdivision 201‑E—Proxies
+#### Subdivision 201-E—Proxies
 
-##### <a id="201‑90"></a>201‑90  Who may appoint a proxy (replaceable rule—see section 60‑1)
+##### <a id="201-90"></a>201-90  Who may appoint a proxy (replaceable rule—see section 60-1)
 
 Who may appoint proxy
 
@@ -7476,11 +7475,11 @@ Proxy may be individual or a body corporate
 
              (2)  The person appointed as the member’s proxy may be an individual or a body corporate.
 
-Note:          A body corporate may appoint a representative to exercise the powers that the body corporate may exercise as the member’s proxy (see section 201‑110).
+Note:          A body corporate may appoint a representative to exercise the powers that the body corporate may exercise as the member’s proxy (see section 201-110).
 
              (3)  The appointment may specify the proportion or number of votes that the proxy may exercise.
 
-##### <a id="201‑95"></a>201‑95  Rights of proxies
+##### <a id="201-95"></a>201-95  Rights of proxies
 
 Rights of proxies
 
@@ -7514,7 +7513,7 @@ Exercise of proxies
 
              (5)  To avoid doubt, a contravention of subsection (4) does not affect the validity of the votes cast.
 
-##### <a id="201‑100"></a>201‑100  Appointing a proxy
+##### <a id="201-100"></a>201-100  Appointing a proxy
 
              (1)  An appointment of a proxy is valid if it is signed, or otherwise authenticated in a manner prescribed by the regulations, by the member of the Aboriginal and Torres Strait Islander corporation making the appointment and contains the following information:
 
@@ -7546,7 +7545,7 @@ An appointment may be a standing one.
 
 If a proxy is also a member, this subsection does not affect the way that the person can cast any votes they hold as a member.
 
-Note:          An Aboriginal and Torres Strait Islander corporation’s constitution may provide that a proxy is not entitled to vote on a show of hands (see subsection 201‑95(2)).
+Note:          An Aboriginal and Torres Strait Islander corporation’s constitution may provide that a proxy is not entitled to vote on a show of hands (see subsection 201-95(2)).
 
              (6)  A person who contravenes subsection (5) commits an offence, but only if the person’s appointment as a proxy resulted from the corporation sending to members:
 
@@ -7564,7 +7563,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (9)  A later appointment revokes an earlier one if both appointments could not be validly exercised at the meeting.
 
-##### <a id="201‑105"></a>201‑105  Proxy documents
+##### <a id="201-105"></a>201-105  Proxy documents
 
 Documents to be received by corporation before meeting
 
@@ -7572,7 +7571,7 @@ Documents to be received by corporation before meeting
 
                      (a)  the proxy’s appointment;
 
-                     (b)  if the appointment is signed, or otherwise authenticated in a manner prescribed by regulations made for the purposes of subsection 201‑100(1), by the appointor’s attorney—the authority under which the appointment was signed or authenticated or a certified copy of the authority.
+                     (b)  if the appointment is signed, or otherwise authenticated in a manner prescribed by regulations made for the purposes of subsection 201-100(1), by the appointor’s attorney—the authority under which the appointment was signed or authenticated or a certified copy of the authority.
 
 Documents received following adjournment of meeting
 
@@ -7582,7 +7581,7 @@ Constitution or notice of meeting may provide for different notification period
 
              (3)  The corporation’s constitution or the notice of meeting may reduce the period of 48 hours referred to in subsection (1) or (2).
 
-##### <a id="201‑110"></a>201‑110  Body corporate representative
+##### <a id="201-110"></a>201-110  Body corporate representative
 
              (1)  A body corporate may appoint an individual as a representative to exercise all or any of the powers the body corporate may exercise:
 
@@ -7592,7 +7591,7 @@ Constitution or notice of meeting may provide for different notification period
 
                      (c)  relating to resolutions to be passed without meetings; or
 
-                     (d)  in the capacity of a member’s proxy appointed under section 201‑90.
+                     (d)  in the capacity of a member’s proxy appointed under section 201-90.
 
 The appointment may be a standing one.
 
@@ -7604,9 +7603,9 @@ The appointment may be a standing one.
 
 Note:          For resolutions of members without meetings, see Division 204.
 
-#### Subdivision 201‑F—Voting at general meetings
+#### Subdivision 201-F—Voting at general meetings
 
-##### <a id="201‑115"></a>201‑115  How many votes a member has (replaceable rule—see section 60‑1)
+##### <a id="201-115"></a>201-115  How many votes a member has (replaceable rule—see section 60-1)
 
              (1)  At a general meeting, each member of an Aboriginal and Torres Strait Islander corporation has 1 vote, both on a show of hands and a poll.
 
@@ -7616,9 +7615,9 @@ Chair’s casting vote
 
 Note 1:       The chair may be precluded from voting, for example, by a conflict of interest.
 
-Note 2:       For rights to appoint proxies, see section 201‑90.
+Note 2:       For rights to appoint proxies, see section 201-90.
 
-##### <a id="201‑120"></a>201‑120  Objections to right to vote (replaceable rule—see section 60‑1)
+##### <a id="201-120"></a>201-120  Objections to right to vote (replaceable rule—see section 60-1)
 
                    A challenge to a right to vote at a general meeting:
 
@@ -7626,7 +7625,7 @@ Note 2:       For rights to appoint proxies, see section 201‑90.
 
                      (b)  must be determined by the chair, whose decision is final.
 
-##### <a id="201‑125"></a>201‑125  How voting is carried out (replaceable rule—see section 60‑1)
+##### <a id="201-125"></a>201-125  How voting is carried out (replaceable rule—see section 60-1)
 
              (1)  A resolution put to the vote at a general meeting must be decided on a show of hands unless a poll is demanded.
 
@@ -7634,9 +7633,9 @@ Note 2:       For rights to appoint proxies, see section 201‑90.
 
              (3)  On a show of hands, a declaration by the chair is conclusive evidence of the result, provided that the declaration reflects the show of hands and the votes of the proxies received. Neither the chair nor the minutes need to state the number or proportion of the votes recorded in favour or against.
 
-Note:          Even though the chair’s declaration is conclusive of the voting results, the members present may demand a poll (see section 201‑130).
+Note:          Even though the chair’s declaration is conclusive of the voting results, the members present may demand a poll (see section 201-130).
 
-##### <a id="201‑130"></a>201‑130  Matters on which a poll may be demanded
+##### <a id="201-130"></a>201-130  Matters on which a poll may be demanded
 
              (1)  Subject to subsection (2), at a general meeting, a poll may be demanded on any resolution.
 
@@ -7648,7 +7647,7 @@ Note:          Even though the chair’s declaration is conclu
 
              (3)  A demand for a poll may be withdrawn.
 
-##### <a id="201‑135"></a>201‑135  When a poll is effectively demanded
+##### <a id="201-135"></a>201-135  When a poll is effectively demanded
 
              (1)  At a general meeting, a poll may be demanded by:
 
@@ -7658,7 +7657,7 @@ Note:          Even though the chair’s declaration is conclu
 
                      (c)  the chair.
 
-Note:          A proxy may join in the demand for a poll (see paragraph 201‑95(1)(c)).
+Note:          A proxy may join in the demand for a poll (see paragraph 201-95(1)(c)).
 
              (2)  An Aboriginal and Torres Strait Islander corporation’s constitution may provide that fewer members or members with a lesser percentage of votes may demand a poll.
 
@@ -7670,15 +7669,15 @@ Note:          A proxy may join in the demand for a poll (see 
 
                      (c)  immediately after the voting results on a show of hands are declared.
 
-##### <a id="201‑140"></a>201‑140  When and how polls must be taken (replaceable rule—see section 60‑1)
+##### <a id="201-140"></a>201-140  When and how polls must be taken (replaceable rule—see section 60-1)
 
              (1)  At a general meeting, a poll demanded on a matter other than the election of a chair or the question of an adjournment must be taken when and in the manner the chair directs.
 
              (2)  At a general meeting, a poll on the election of a chair or on the question of an adjournment must be taken immediately.
 
-#### Subdivision 201‑G—First general meeting and annual general meetings
+#### Subdivision 201-G—First general meeting and annual general meetings
 
-##### <a id="201‑145"></a>201‑145  Corporation must hold first general meeting within 3 months of registration
+##### <a id="201-145"></a>201-145  Corporation must hold first general meeting within 3 months of registration
 
              (1)  An Aboriginal and Torres Strait Islander corporation must hold a general meeting of members within 3 months after the corporation is registered.
 
@@ -7688,7 +7687,7 @@ Note:          A proxy may join in the demand for a poll (see 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="201‑150"></a>201‑150  Corporation must hold AGM
+##### <a id="201-150"></a>201-150  Corporation must hold AGM
 
              (1)  An Aboriginal and Torres Strait Islander corporation must hold an AGM within 5 months after the end of its financial year.
 
@@ -7702,9 +7701,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (4)  An Aboriginal and Torres Strait Islander corporation that has only 1 member is not required to hold an AGM under this section.
 
-##### <a id="201‑155"></a>201‑155  Extension of time for holding AGM
+##### <a id="201-155"></a>201-155  Extension of time for holding AGM
 
-             (1)  An Aboriginal and Torres Strait Islander corporation may lodge an application with the Registrar to extend the period within which section 201‑150 requires the corporation to hold an AGM.
+             (1)  An Aboriginal and Torres Strait Islander corporation may lodge an application with the Registrar to extend the period within which section 201-150 requires the corporation to hold an AGM.
 
              (2)  If the corporation applies before the end of the period within which the corporation would otherwise be required to hold an AGM, the Registrar may, by written notice to the corporation, extend the period. The Registrar must specify the period of the extension.
 
@@ -7720,7 +7719,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="201‑160"></a>201‑160  Business of AGM
+##### <a id="201-160"></a>201-160  Business of AGM
 
                    The business of an AGM may include any of the following, even if not referred to in the notice of meeting:
 
@@ -7730,7 +7729,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the appointment and remuneration of the auditor (if any).
 
-##### <a id="201‑165"></a>201‑165  Questions and comments by members on corporation management at AGM
+##### <a id="201-165"></a>201-165  Questions and comments by members on corporation management at AGM
 
              (1)  The chair of an AGM must allow a reasonable opportunity for the members as a whole at the meeting to ask questions about or make comments on the management of the corporation.
 
@@ -7740,7 +7739,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="201‑170"></a>201‑170  Questions by members of auditors at AGM
+##### <a id="201-170"></a>201-170  Questions by members of auditors at AGM
 
              (1)  If an Aboriginal and Torres Strait Islander corporation’s auditor (if any) or the auditor’s representative is at an AGM, the chair of the meeting must allow a reasonable opportunity for the members as a whole at the meeting to ask the auditor or the auditor’s representative questions relevant to:
 
@@ -7760,7 +7759,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 204—Resolutions without a general meeting
 
-##### <a id="204‑1"></a>204‑1  Circulating resolutions
+##### <a id="204-1"></a>204-1  Circulating resolutions
 
              (1)  An Aboriginal and Torres Strait Islander corporation may pass a resolution without a general meeting being held if all the members entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document. Each member of a joint membership must sign.
 
@@ -7782,25 +7781,25 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (7)  This section does not affect any rule of law relating to the assent of members not given at a general meeting.
 
-Note 1:       Passage of a resolution under this section must be recorded in the corporation’s minute books (see section 220‑5).
+Note 1:       Passage of a resolution under this section must be recorded in the corporation’s minute books (see section 220-5).
 
-Note 2:       A body corporate representative may sign a circulating resolution (see section 201‑110).
+Note 2:       A body corporate representative may sign a circulating resolution (see section 201-110).
 
-##### <a id="204‑5"></a>204‑5  Resolutions of 1 member corporations
+##### <a id="204-5"></a>204-5  Resolutions of 1 member corporations
 
              (1)  An Aboriginal and Torres Strait Islander corporation that has only 1 member may pass a resolution by the member recording it and signing the record.
 
              (2)  If this Act requires information or a document relating to the resolution to be lodged with the Registrar, that requirement is satisfied by lodging the information or document with the resolution that is passed.
 
-Note 1:       Passage of a resolution under this section must be recorded in the corporation’s minute books (see section 220‑5).
+Note 1:       Passage of a resolution under this section must be recorded in the corporation’s minute books (see section 220-5).
 
-Note 2:       A body corporate representative may sign such a resolution (see section 201‑110).
+Note 2:       A body corporate representative may sign such a resolution (see section 201-110).
 
-## Part 5‑3—Directors’ meetings
+## Part 5-3—Directors’ meetings
 
 ### Division 209—Introduction
 
-##### <a id="209‑1"></a>209‑1  What this Part is about
+##### <a id="209-1"></a>209-1  What this Part is about
 
 * * *
 
@@ -7810,21 +7809,21 @@ This Part sets out the rules for directors’ meetings. Some of those rules may 
 
 ### Division 212—What are the rules concerning directors’ meetings?
 
-##### <a id="212‑1"></a>212‑1  Constitution to provide for meetings
+##### <a id="212-1"></a>212-1  Constitution to provide for meetings
 
                    The constitution of an Aboriginal and Torres Strait Islander corporation must specify how often directors’ meetings are to be held.
 
-##### <a id="212‑5"></a>212‑5  Calling directors’ meetings (replaceable rule—see section 60‑1)
+##### <a id="212-5"></a>212-5  Calling directors’ meetings (replaceable rule—see section 60-1)
 
                    A directors’ meeting may be called by a director giving reasonable notice individually to every other director.
 
-Note:          A director who has appointed an alternate director may ask for the notice to be given to the alternate director (see subsection 246‑30(2)).
+Note:          A director who has appointed an alternate director may ask for the notice to be given to the alternate director (see subsection 246-30(2)).
 
-##### <a id="212‑10"></a>212‑10  Use of technology
+##### <a id="212-10"></a>212-10  Use of technology
 
                    A directors’ meeting may be called or held using any technology consented to by all the directors. The consent may be a standing one. A director may only withdraw his or her consent within a reasonable period before the meeting.
 
-##### <a id="212‑15"></a>212‑15  Chairing directors’ meetings (replaceable rule—see section 60‑1)
+##### <a id="212-15"></a>212-15  Chairing directors’ meetings (replaceable rule—see section 60-1)
 
              (1)  The directors may elect a director to chair their meetings. The directors may determine the period for which the director is to be the chair.
 
@@ -7834,13 +7833,13 @@ Note:          A director who has appointed an alternate direc
 
                      (b)  a previously elected chair is not available, or declines to act, for the meeting or the part of the meeting.
 
-##### <a id="212‑20"></a>212‑20  Quorum at directors’ meetings
+##### <a id="212-20"></a>212-20  Quorum at directors’ meetings
 
                    The quorum for a directors’ meeting is a majority of the directors and the quorum must be present at all times during the meeting.
 
-Note:          For resolutions of 1 director Aboriginal and Torres Strait Islander corporations without meetings, see section 215‑5.
+Note:          For resolutions of 1 director Aboriginal and Torres Strait Islander corporations without meetings, see section 215-5.
 
-##### <a id="212‑25"></a>212‑25  Passing of directors’ resolutions (replaceable rule—see section 60‑1)
+##### <a id="212-25"></a>212-25  Passing of directors’ resolutions (replaceable rule—see section 60-1)
 
              (1)  A resolution of the directors must be passed by a majority of the votes cast by directors entitled to vote on the resolution.
 
@@ -7848,7 +7847,7 @@ Note:          For resolutions of 1 director Aboriginal and To
 
 ### Division 215—Resolutions and declarations without meetings
 
-##### <a id="215‑1"></a>215‑1  Circulating resolutions of corporation with more than 1 director (replaceable rule—see section 60‑1)
+##### <a id="215-1"></a>215-1  Circulating resolutions of corporation with more than 1 director (replaceable rule—see section 60-1)
 
 Resolutions
 
@@ -7862,9 +7861,9 @@ When the resolution is passed
 
              (3)  The resolution is passed when the last director signs.
 
-Note:          Passage of a resolution under this section must be recorded in the corporation’s minute books (see section 220‑5).
+Note:          Passage of a resolution under this section must be recorded in the corporation’s minute books (see section 220-5).
 
-##### <a id="215‑5"></a>215‑5  Resolutions and declarations of 1 director corporation
+##### <a id="215-5"></a>215-5  Resolutions and declarations of 1 director corporation
 
 Resolutions
 
@@ -7874,13 +7873,13 @@ Declarations
 
              (2)  The director of an Aboriginal and Torres Strait Islander corporation that has only 1 director may make a declaration by recording it and signing the record. Recording and signing the declaration satisfies any requirement in this Act that the declaration be made at a directors’ meeting.
 
-Note:          Passage of a resolution or the making of a declaration under this section must be recorded in the corporation’s minute books (see section 220‑5).
+Note:          Passage of a resolution or the making of a declaration under this section must be recorded in the corporation’s minute books (see section 220-5).
 
-## Part 5‑4—Minutes of meetings
+## Part 5-4—Minutes of meetings
 
 ### Division 220—Minutes of meetings
 
-##### <a id="220‑1"></a>220‑1  What this Part is about
+##### <a id="220-1"></a>220-1  What this Part is about
 
 * * *
 
@@ -7892,7 +7891,7 @@ None of the rules in this Part may be modified or replaced by the corporation’
 
 * * *
 
-##### <a id="220‑5"></a>220‑5  Minutes
+##### <a id="220-5"></a>220-5  Minutes
 
              (1)  An Aboriginal and Torres Strait Islander corporation must keep minute books in which it records within 1 month:
 
@@ -7914,9 +7913,9 @@ Note:          For resolutions and declarations without meetin
 
                      (a)  in writing; or
 
-                     (b)  by means of an audio, or audio‑visual, recording.
+                     (b)  by means of an audio, or audio-visual, recording.
 
-             (3)  If the minutes of the whole, or a part, of the meeting are kept by means of an audio, or audio‑visual, recording of the meeting, the corporation must ensure that, on the recording:
+             (3)  If the minutes of the whole, or a part, of the meeting are kept by means of an audio, or audio-visual, recording of the meeting, the corporation must ensure that, on the recording:
 
                      (a)  each person attending the meeting states his or her name; and
 
@@ -7934,7 +7933,7 @@ signs those minutes within a reasonable time after the first meeting.
 
                     Penalty:  10 penalty units.
 
-             (5)  If the minutes of the whole, or a part, of the meeting (the **_first meeting_**) are kept by means of an audio, or audio‑visual, recording, the corporation must ensure that either:
+             (5)  If the minutes of the whole, or a part, of the meeting (the **_first meeting_**) are kept by means of an audio, or audio-visual, recording, the corporation must ensure that either:
 
                      (a)  the chair of the meeting; or
 
@@ -7946,7 +7945,7 @@ signs a declaration under subsection (6) within a reasonable time after the fi
 
              (6)  The declaration under this subsection must:
 
-                     (a)  identify the audio, or audio‑visual, recording; and
+                     (a)  identify the audio, or audio-visual, recording; and
 
                      (b)  if the recording is not a recording of the whole of the meeting—identify the part of the meeting that is recorded; and
 
@@ -7974,15 +7973,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
            (11)  A minute that is recorded and signed in accordance with this section is evidence of the proceeding, resolution or declaration to which it relates, unless the contrary is proved.
 
-##### <a id="220‑10"></a>220‑10  Members’ access to minutes
+##### <a id="220-10"></a>220-10  Members’ access to minutes
 
              (1)  An Aboriginal and Torres Strait Islander corporation that is registered as a large corporation must make available for inspection by members, at its registered office, the minute books for the meetings of its members and for resolutions of members passed without meetings. The books must be made available for inspection each business day from at least 10 am to 12 noon and from at least 2 pm to 4 pm.
 
-Note:          Failing to comply with this subsection is an offence under section 376‑1.
+Note:          Failing to comply with this subsection is an offence under section 376-1.
 
              (2)  An Aboriginal and Torres Strait Islander corporation that is registered as a small or medium corporation must make available for inspection by members, at its document access address, the minute books for the meetings of its members and for resolutions of members passed without meetings. The books must be made available within 7 days of a member’s written request for inspection.
 
-Note:          Failing to comply with this subsection is an offence under section 376‑1.
+Note:          Failing to comply with this subsection is an offence under section 376-1.
 
              (3)  A corporation must make minutes available under subsections (1) and (2) free of charge.
 
@@ -7994,7 +7993,7 @@ Note:          Failing to comply with this subsection is an of
 
                      (b)  any minutes of a resolution passed by members without a meeting.
 
-Note:          The member may ask the corporation for an English translation under subsection 376‑5(3) if the minutes are not in the English language.
+Note:          The member may ask the corporation for an English translation under subsection 376-5(3) if the minutes are not in the English language.
 
              (5)  If the corporation does not require the member to pay for the copy, the corporation must send it:
 
@@ -8018,11 +8017,11 @@ The amount of any payment the corporation requires cannot exceed the prescribed 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-## Part 5‑5—Exemption from operation of this Chapter
+## Part 5-5—Exemption from operation of this Chapter
 
 ### Division 225—Exemption from operation of this Chapter
 
-##### <a id="225‑1"></a>225‑1  What this Part is about
+##### <a id="225-1"></a>225-1  What this Part is about
 
 * * *
 
@@ -8030,7 +8029,7 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
 * * *
 
-##### <a id="225‑5"></a>225‑5  Exemption from the provisions of this Chapter
+##### <a id="225-5"></a>225-5  Exemption from the provisions of this Chapter
 
              (1)  On an application made in accordance with subsection (2) in relation to an Aboriginal and Torres Strait Islander corporation, the Registrar may make a determination in writing exempting any of the following from the provisions of this Chapter specified in the Registrar’s determination:
 
@@ -8038,7 +8037,7 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
                      (b)  the directors of the corporation.
 
-Note:          For the criteria for making orders under this section, see section 225‑20.
+Note:          For the criteria for making orders under this section, see section 225-20.
 
              (2)  The application must:
 
@@ -8062,11 +8061,11 @@ Note:          For the criteria for making orders under this s
 
              (6)  A determination under subsection (1), or a revocation, variation or suspension under subsection (4), is not a legislative instrument.
 
-##### <a id="225‑10"></a>225‑10  Registrar may make determination even if application is incomplete
+##### <a id="225-10"></a>225-10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 225‑5(2), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 225-5(2), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
-##### <a id="225‑15"></a>225‑15  Registrar’s power to make determinations
+##### <a id="225-15"></a>225-15  Registrar’s power to make determinations
 
              (1)  The Registrar may determine in writing that:
 
@@ -8076,7 +8075,7 @@ Note:          For the criteria for making orders under this s
 
 are exempted from the provisions of this Chapter specified in the Registrar’s determination.
 
-Note:          For the criteria for making orders under this section, see section 225‑20.
+Note:          For the criteria for making orders under this section, see section 225-20.
 
              (2)  The determination may:
 
@@ -8104,9 +8103,9 @@ is a legislative instrument.
 
 is not a legislative instrument.
 
-##### <a id="225‑20"></a>225‑20  Criteria for determinations
+##### <a id="225-20"></a>225-20  Criteria for determinations
 
-             (1)  In making a determination under section 225‑5 or 225‑15, the Registrar must be satisfied that the requirements of provisions of this Chapter would:
+             (1)  In making a determination under section 225-5 or 225-15, the Registrar must be satisfied that the requirements of provisions of this Chapter would:
 
                      (a)  be inappropriate in the circumstances; or
 
@@ -8126,35 +8125,35 @@ Unreasonable burden
 
 # Chapter 6—Officers
 
-## Part 6‑1—Introduction
+## Part 6-1—Introduction
 
 ### Division 235—Introduction
 
-##### <a id="235‑1"></a>235‑1  What this Chapter is about
+##### <a id="235-1"></a>235-1  What this Chapter is about
 
 * * *
 
 This Chapter deals with the officers of an Aboriginal and Torres Strait Islander corporation.
 
-Part 6‑2 deals with the appointment and remuneration and the cessation of appointment of directors.
+Part 6-2 deals with the appointment and remuneration and the cessation of appointment of directors.
 
-Part 6‑3 deals with the appointment of secretaries and contact persons.
+Part 6-3 deals with the appointment of secretaries and contact persons.
 
-Part 6‑4 deals with the duties and powers of directors and other officers and employees.
+Part 6-4 deals with the duties and powers of directors and other officers and employees.
 
-Part 6‑5 deals with the disqualification of persons from managing Aboriginal and Torres Strait Islander corporations.
+Part 6-5 deals with the disqualification of persons from managing Aboriginal and Torres Strait Islander corporations.
 
-Part 6‑6 deals with related party transactions.
+Part 6-6 deals with related party transactions.
 
-Part 6‑7 deals with public information about officers of Aboriginal and Torres Strait Islander corporations.
+Part 6-7 deals with public information about officers of Aboriginal and Torres Strait Islander corporations.
 
 * * *
 
-## Part 6‑2—Appointment, remuneration and cessation of appointment of directors
+## Part 6-2—Appointment, remuneration and cessation of appointment of directors
 
 ### Division 240—Introduction
 
-##### <a id="240‑1"></a>240‑1  What this Part is about
+##### <a id="240-1"></a>240-1  What this Part is about
 
 * * *
 
@@ -8170,7 +8169,7 @@ Division 252 deals with the remuneration of directors.
 
 ### Division 243—Number of directors
 
-##### <a id="243‑1"></a>243‑1  Minimum number of directors
+##### <a id="243-1"></a>243-1  Minimum number of directors
 
 Corporations with 1 member
 
@@ -8184,7 +8183,7 @@ Corporations with more than 2 members
 
              (3)  An Aboriginal and Torres Strait Islander corporation that has more than 2 members must have at least 3 directors.
 
-##### <a id="243‑5"></a>243‑5  Maximum number of directors
+##### <a id="243-5"></a>243-5  Maximum number of directors
 
                    An Aboriginal and Torres Strait Islander corporation must not have more than:
 
@@ -8192,19 +8191,19 @@ Corporations with more than 2 members
 
                      (b)  if the regulations prescribe a different number of directors for the purpose of this paragraph—that number of directors.
 
-Note:          An application may be made to exempt the corporation from the requirements of this section (see section 310‑5).
+Note:          An application may be made to exempt the corporation from the requirements of this section (see section 310-5).
 
 ### Division 246—Appointment of directors
 
-##### <a id="246‑1"></a>246‑1  Eligibility for appointment as a director
+##### <a id="246-1"></a>246-1  Eligibility for appointment as a director
 
              (1)  Only an individual who is at least 18 years of age may be appointed as a director of an Aboriginal and Torres Strait Islander corporation.
 
-             (2)  An individual who is disqualified from managing Aboriginal and Torres Strait Islander corporations under Part 6‑5 may only be appointed as a director of an Aboriginal and Torres Strait Islander corporation if the appointment is made:
+             (2)  An individual who is disqualified from managing Aboriginal and Torres Strait Islander corporations under Part 6-5 may only be appointed as a director of an Aboriginal and Torres Strait Islander corporation if the appointment is made:
 
-                     (a)  with permission granted by the Registrar under section 279‑30; or
+                     (a)  with permission granted by the Registrar under section 279-30; or
 
-                     (b)  with leave granted by the Court under section 279‑35.
+                     (b)  with leave granted by the Court under section 279-35.
 
              (3)  Unless an Aboriginal and Torres Strait Islander corporation’s constitution provides otherwise, the following may not be appointed as a director of the corporation:
 
@@ -8212,7 +8211,7 @@ Note:          An application may be made to exempt the corpor
 
                      (b)  an individual who is not an Aboriginal and Torres Strait Islander person.
 
-##### <a id="246‑5"></a>246‑5  Majority of director requirements
+##### <a id="246-5"></a>246-5  Majority of director requirements
 
              (1)  A majority of the directors of an Aboriginal and Torres Strait Islander corporation must be individuals who are Aboriginal and Torres Strait Islander persons.
 
@@ -8224,9 +8223,9 @@ Note:          An application may be made to exempt the corpor
 
              (5)  If a person is performing a chief executive officer function in relation to the corporation, the person may be a director of the corporation but cannot chair the directors’ meetings. The person counts as an employee for the purposes of determining under subsection (4) whether a majority of directors are employees.
 
-Note:          For the meaning of **_chief executive officer_** **_function_**, see section 694‑85.
+Note:          For the meaning of **_chief executive officer_** **_function_**, see section 694-85.
 
-##### <a id="246‑10"></a>246‑10  Consent to act as director
+##### <a id="246-10"></a>246-10  Consent to act as director
 
              (1)  An Aboriginal and Torres Strait Islander corporation contravenes this subsection if a person does not give the corporation a signed consent to act as a director of the corporation before being appointed.
 
@@ -8240,15 +8239,15 @@ Note:          For the meaning of **_chief executive officer_*
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
+##### <a id="246-15"></a>246-15  Corporation may appoint a director (replaceable rule—see section 60-1)
 
                    An Aboriginal and Torres Strait Islander corporation may appoint a person as a director by resolution passed in general meeting.
 
-##### <a id="246‑20"></a>246‑20  Directors may appoint other directors to make up a quorum (replaceable rule—see section 60‑1)
+##### <a id="246-20"></a>246-20  Directors may appoint other directors to make up a quorum (replaceable rule—see section 60-1)
 
 Appointment by other directors
 
-             (1)  Subject to section 243‑5 (maximum number of directors), the directors of an Aboriginal and Torres Strait Islander corporation may appoint a person as a director.
+             (1)  Subject to section 243-5 (maximum number of directors), the directors of an Aboriginal and Torres Strait Islander corporation may appoint a person as a director.
 
              (2)  A person can be appointed under subsection (1) in order to make up a quorum for a directors’ meeting even if the total number of directors of the corporation is not enough to make up that quorum.
 
@@ -8256,9 +8255,9 @@ Confirmation by next AGM
 
              (3)  If a person is appointed under subsection (1), the corporation must confirm the appointment by resolution at the corporation’s next AGM. If the appointment is not confirmed, the person ceases to be a director of the corporation at the end of the AGM.
 
-##### <a id="246‑25"></a>246‑25  Term of appointment
+##### <a id="246-25"></a>246-25  Term of appointment
 
-Directors appointed on registration (replaceable rule—see section 60‑1)
+Directors appointed on registration (replaceable rule—see section 60-1)
 
              (1)  If a director has been identified in the application for registration of an Aboriginal and Torres Strait Islander corporation as a director who is to be appointed for only one year, the director’s appointment ends at the first AGM that occurs more than one year after the date of the corporation’s registration.
 
@@ -8266,9 +8265,9 @@ Other directors
 
              (2)  Subject to subsection (4), a director of an Aboriginal and Torres Strait Islander corporation must not be appointed for a period exceeding 2 years.
 
-Note:          An application may be made to exempt the directors of the corporation from the requirements of this subsection (see section 310‑5).
+Note:          An application may be made to exempt the directors of the corporation from the requirements of this subsection (see section 310-5).
 
-Director may be reappointed (replaceable rule—see section 60‑1)
+Director may be reappointed (replaceable rule—see section 60-1)
 
              (3)  A director is eligible for reappointment.
 
@@ -8276,7 +8275,7 @@ Appointments continue to next general meeting
 
              (4)  If the terms of appointment of all of the directors of an Aboriginal and Torres Strait Islander corporation expire so that there are no directors appointed at a particular time, the terms are extended until the next general meeting occurring after the expiry of the term of the director whose appointment was last to expire.
 
-##### <a id="246‑30"></a>246‑30  Alternate directors (replaceable rule—see section 60‑1)
+##### <a id="246-30"></a>246-30  Alternate directors (replaceable rule—see section 60-1)
 
              (1)  With the other directors’ approval, a director may appoint an alternate to exercise some or all of the director’s powers for a specified period.
 
@@ -8288,9 +8287,9 @@ Appointments continue to next general meeting
 
              (5)  An appointment or its termination must be in writing. A copy must be given to the corporation.
 
-Note:          The Registrar must be given notice of the appointment and termination of appointment of an alternate (see subsections 304‑5(3) and (6)).
+Note:          The Registrar must be given notice of the appointment and termination of appointment of an alternate (see subsections 304-5(3) and (6)).
 
-##### <a id="246‑35"></a>246‑35  Effectiveness of acts by directors
+##### <a id="246-35"></a>246-35  Effectiveness of acts by directors
 
              (1)  An act done by a director is effective even if his or her appointment, or the continuance of the appointment, is invalid because the Aboriginal and Torres Strait Islander corporation or director did not comply with the corporation’s constitution or any provision of this Act.
 
@@ -8304,31 +8303,31 @@ Note:          The kinds of acts that this section validates a
 
 ### Division 249—Resignation, retirement or removal of directors
 
-##### <a id="249‑1"></a>249‑1  How does a person cease to be a director?
+##### <a id="249-1"></a>249-1  How does a person cease to be a director?
 
                    A person ceases to be a director of an Aboriginal and Torres Strait Islander corporation if:
 
                      (a)  the person dies; or
 
-                     (b)  the person resigns as a director of the corporation as provided for in section 249‑5; or
+                     (b)  the person resigns as a director of the corporation as provided for in section 249-5; or
 
                      (c)  the term of the person’s appointment as a director of the corporation expires; or
 
-                     (d)  the person is removed as a director of the corporation by the members of the corporation as provided for in section 249‑10; or
+                     (d)  the person is removed as a director of the corporation by the members of the corporation as provided for in section 249-10; or
 
-                     (e)  the person is removed as a director of the corporation by the other directors of the corporation as provided for in section 249‑15; or
+                     (e)  the person is removed as a director of the corporation by the other directors of the corporation as provided for in section 249-15; or
 
-                      (f)  the person becomes disqualified from managing corporations under Part 6‑5.
+                      (f)  the person becomes disqualified from managing corporations under Part 6-5.
 
-##### <a id="249‑5"></a>249‑5  Director may resign
+##### <a id="249-5"></a>249-5  Director may resign
 
              (1)  A director of an Aboriginal and Torres Strait Islander corporation may resign as a director of the corporation by giving notice of resignation to the corporation.
 
-Written notice to be given (replaceable rule—see section 60‑1)
+Written notice to be given (replaceable rule—see section 60-1)
 
              (2)  The notice must be in writing.
 
-##### <a id="249‑10"></a>249‑10  Removal by members
+##### <a id="249-10"></a>249-10  Removal by members
 
 Resolution for removal of director
 
@@ -8340,13 +8339,13 @@ Resolution for removal of director
 
                      (c)  an agreement between any or all members of the corporation and the director.
 
-Note:          See sections 201‑1 and 201‑5  for the rules on who may call meetings, sections 201‑20 to 201‑30 on how to call meetings and sections 201‑40 to 201‑50 for rules on members’ resolutions.
+Note:          See sections 201-1 and 201-5  for the rules on who may call meetings, sections 201-20 to 201-30 on how to call meetings and sections 201-40 to 201-50 for rules on members’ resolutions.
 
 Notice of intention to move resolution for removal of director
 
              (2)  Notice of intention to move the resolution must be given to the corporation at least 21 days before the meeting is to be held. However, if the corporation calls a meeting after the notice of intention is given under this subsection, the meeting may pass the resolution even though the meeting is held less than 21 days after the notice of intention is given.
 
-Note:          Short notice of the meeting cannot be given for this resolution (see subsection 201‑20(3)).
+Note:          Short notice of the meeting cannot be given for this resolution (see subsection 201-20(3)).
 
 Director to be informed
 
@@ -8388,7 +8387,7 @@ is to retire is to be worked out as if the replacement director had become direc
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="249‑15"></a>249‑15  Removal by other directors
+##### <a id="249-15"></a>249-15  Removal by other directors
 
              (1)  The only ground on which the directors of an Aboriginal and Torres Strait Islander corporation may remove a director from office is that he or she fails without reasonable excuse to attend 3 or more consecutive directors’ meetings. The directors may remove the director by resolution.
 
@@ -8430,7 +8429,7 @@ If director does object
 
                      (a)  the directors cannot remove the director from office; and
 
-                     (b)  the corporation, by resolution in general meeting, may remove the director from office in accordance with section 249‑10.
+                     (b)  the corporation, by resolution in general meeting, may remove the director from office in accordance with section 249-10.
 
 Notice of resolution to be given
 
@@ -8454,7 +8453,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 252—Remuneration of directors
 
-##### <a id="252‑1"></a>252‑1  Remuneration
+##### <a id="252-1"></a>252-1  Remuneration
 
              (1)  Unless the constitution of an Aboriginal and Torres Strait Islander corporation provides otherwise, the directors of the corporation are not to be paid remuneration.
 
@@ -8472,7 +8471,7 @@ Expenses
 
                      (c)  in connection with the corporation’s business.
 
-##### <a id="252‑5"></a>252‑5  Members may obtain information about directors’ remuneration
+##### <a id="252-5"></a>252-5  Members may obtain information about directors’ remuneration
 
              (1)  An Aboriginal and Torres Strait Islander corporation must disclose the remuneration and expenses paid to each director of the corporation or a subsidiary (if any) by the corporation or by an entity controlled by the corporation if the corporation is directed to disclose that information by at least the required number of members under subsection (7).
 
@@ -8522,11 +8521,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
            (10)  A direction under subsection (2) is not a legislative instrument.
 
-## Part 6‑3—Appointment of secretaries and contact persons
+## Part 6-3—Appointment of secretaries and contact persons
 
 ### Division 257—Appointment of secretaries and contact persons
 
-##### <a id="257‑1"></a>257‑1  What this Part is about
+##### <a id="257-1"></a>257-1  What this Part is about
 
 * * *
 
@@ -8538,7 +8537,7 @@ An Aboriginal and Torres Strait Islander corporation that is registered as a sma
 
 * * *
 
-##### <a id="257‑5"></a>257‑5  Requirement to have a secretary or contact person
+##### <a id="257-5"></a>257-5  Requirement to have a secretary or contact person
 
 Secretary
 
@@ -8556,17 +8555,17 @@ Contact person
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="257‑10"></a>257‑10  Who may be a secretary or contact person
+##### <a id="257-10"></a>257-10  Who may be a secretary or contact person
 
              (1)  Only an individual who is at least 18 years of age may be appointed as a secretary or contact person of an Aboriginal and Torres Strait Islander corporation.
 
-             (2)  A person who is disqualified from managing an Aboriginal and Torres Strait Islander corporation under Part 6‑5  may only be appointed as a secretary or contact person if the appointment is made:
+             (2)  A person who is disqualified from managing an Aboriginal and Torres Strait Islander corporation under Part 6-5  may only be appointed as a secretary or contact person if the appointment is made:
 
-                     (a)  with permission granted by the Registrar under subsection 279‑30(7); or
+                     (a)  with permission granted by the Registrar under subsection 279-30(7); or
 
-                     (b)  with leave granted by the Court under section 279‑35.
+                     (b)  with leave granted by the Court under section 279-35.
 
-##### <a id="257‑15"></a>257‑15  Consent to act as secretary or contact person
+##### <a id="257-15"></a>257-15  Consent to act as secretary or contact person
 
 Secretary
 
@@ -8588,13 +8587,13 @@ Contact person
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="257‑20"></a>257‑20  How a secretary or contact person is appointed
+##### <a id="257-20"></a>257-20  How a secretary or contact person is appointed
 
                    A secretary or contact person is to be appointed by the directors.
 
-Note:          An Aboriginal and Torres Strait Islander corporation must notify the Registrar of the appointment within 28 days (see subsection 304‑5(1)).
+Note:          An Aboriginal and Torres Strait Islander corporation must notify the Registrar of the appointment within 28 days (see subsection 304-5(1)).
 
-##### <a id="257‑25"></a>257‑25  Director to be contact person in certain circumstances
+##### <a id="257-25"></a>257-25  Director to be contact person in certain circumstances
 
              (1)  If the Registrar has not been able to contact the contact person of an Aboriginal and Torres Strait Islander corporation for a period of 28 days or longer, the Registrar may determine, by notice in writing given to the corporation:
 
@@ -8606,7 +8605,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
              (2)  A notice under subsection (1) is not a legislative instrument.
 
-##### <a id="257‑30"></a>257‑30  Contact person must pass on communications received
+##### <a id="257-30"></a>257-30  Contact person must pass on communications received
 
                    A person commits an offence if:
 
@@ -8614,7 +8613,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
                               (i)  the person has been appointed with his or her consent as contact person of an Aboriginal and Torres Strait Islander corporation; or
 
-                             (ii)  the person was determined to be the contact person of an Aboriginal and Torres Strait Islander corporation under section 257‑25; and
+                             (ii)  the person was determined to be the contact person of an Aboriginal and Torres Strait Islander corporation under section 257-25; and
 
                      (b)  while the person is entered on the Register of Aboriginal and Torres Strait Islander Corporations as the contact person of the corporation the person receives a communication for the corporation; and
 
@@ -8622,7 +8621,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
                     Penalty:  10 penalty units.
 
-##### <a id="257‑35"></a>257‑35  Secretary must pass on communications received
+##### <a id="257-35"></a>257-35  Secretary must pass on communications received
 
                    A person commits an offence if:
 
@@ -8634,7 +8633,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
                     Penalty:  10 penalty units.
 
-##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
+##### <a id="257-40"></a>257-40  Effectiveness of acts by secretaries
 
              (1)  An act done by a secretary is effective even if his or her appointment, or the continuance of his or her appointment, is invalid because the Aboriginal and Torres Strait Islander corporation or secretary did not comply with the corporation’s constitution or any provision of this Act.
 
@@ -8646,19 +8645,19 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
 Note:          The kinds of acts that this section validates are those that are only legally effective if the person doing them is a secretary (for example, signing and sending out a notice of a meeting of directors if the corporation’s constitution authorises the secretary to do so or signing a document to be lodged with the Registrar). Division 104 contains rules about the assumptions people are entitled to make when dealing with an Aboriginal and Torres Strait Islander corporation and its officers.
 
-##### <a id="257‑45"></a>257‑45  Terms and conditions of office for secretaries (replaceable rule—see section 60‑1)
+##### <a id="257-45"></a>257-45  Terms and conditions of office for secretaries (replaceable rule—see section 60-1)
 
                    A secretary holds office on the terms and conditions (including as to remuneration) that the directors determine.
 
-##### <a id="257‑50"></a>257‑50  Terms and conditions of contact person’s appointment (replaceable rule—see section 60‑1)
+##### <a id="257-50"></a>257-50  Terms and conditions of contact person’s appointment (replaceable rule—see section 60-1)
 
                    A contact person’s appointment is subject to the terms and conditions (including as to remuneration) that the directors determine.
 
-## Part 6‑4—Duties and powers of directors and other officers and employees
+## Part 6-4—Duties and powers of directors and other officers and employees
 
 ### Division 262—Introduction
 
-##### <a id="262‑1"></a>262‑1  What this Part is about
+##### <a id="262-1"></a>262-1  What this Part is about
 
 * * *
 
@@ -8668,21 +8667,21 @@ Other duties are imposed by:
 
                (a)     other provisions of this Act; and
 
-              (b)     the provisions of the Corporations Act that are applied to Aboriginal and Torres Strait Islander corporations; and
+               (b)     the provisions of the Corporations Act that are applied to Aboriginal and Torres Strait Islander corporations; and
 
                (c)     other laws (including the general law).
 
-A particularly important duty that is imposed on the directors of an Aboriginal and Torres Strait Islander corporation is the obligation imposed by section 588G of the Corporations Act (as applied by section 531‑1 of this Act) not to incur debts, make distributions to members or enter into uncommercial transactions when the corporation is insolvent.
+A particularly important duty that is imposed on the directors of an Aboriginal and Torres Strait Islander corporation is the obligation imposed by section 588G of the Corporations Act (as applied by section 531-1 of this Act) not to incur debts, make distributions to members or enter into uncommercial transactions when the corporation is insolvent.
 
 Division 274 deals with the powers of directors.
 
 * * *
 
-Note:          Section 683‑1 defines both **_director_** and **_officer_**. **_Officer_** includes, as well as directors and secretaries, some other people who manage the corporation or its property (such as receivers and liquidators).
+Note:          Section 683-1 defines both **_director_** and **_officer_**. **_Officer_** includes, as well as directors and secretaries, some other people who manage the corporation or its property (such as receivers and liquidators).
 
 ### Division 265—General duties
 
-##### <a id="265‑1"></a>265‑1  Care and diligence—civil obligation only
+##### <a id="265-1"></a>265-1  Care and diligence—civil obligation only
 
 Care and diligence—directors and other officers
 
@@ -8692,9 +8691,9 @@ Care and diligence—directors and other officers
 
                      (b)  occupied the office held by, and had the same responsibilities within the corporation as, the director or officer.
 
-Note 1:       This subsection is a civil penalty provision (see section 386‑1).
+Note 1:       This subsection is a civil penalty provision (see section 386-1).
 
-Note 2:       Section 265‑20 makes special provision for actions done to comply with Native Title legislation obligations.
+Note 2:       Section 265-20 makes special provision for actions done to comply with Native Title legislation obligations.
 
 Business judgment rule
 
@@ -8712,11 +8711,11 @@ The director’s or officer’s belief that the judgment is in the best interest
 
 Note:          This subsection only operates in relation to duties under this section and the equivalent duties at common law or in equity (including the duty of care that arises under the common law principles governing liability for negligence). It does not operate in relation to duties under any other provision of this Act or under any other laws.
 
-          (2A)  To avoid doubt, a director of an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate is not taken to have a material personal interest for the purpose of paragraph (2)(b) if the director does not need to give the other directors notice of the interest because section 268‑5 applies.
+          (2A)  To avoid doubt, a director of an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate is not taken to have a material personal interest for the purpose of paragraph (2)(b) if the director does not need to give the other directors notice of the interest because section 268-5 applies.
 
              (3)  **_Business judgment_** is any decision to take or not take action in respect of a matter relevant to the business operations of the corporation.
 
-##### <a id="265‑5"></a>265‑5  Good faith—civil obligations
+##### <a id="265-5"></a>265-5  Good faith—civil obligations
 
 Good faith—directors and other officers
 
@@ -8726,19 +8725,19 @@ Good faith—directors and other officers
 
                      (b)  for a proper purpose.
 
-Note 1:       This subsection is a civil penalty provision (see section 386‑1).
+Note 1:       This subsection is a civil penalty provision (see section 386-1).
 
-Note 2:       Section 265‑20 makes special provision for actions done to comply with Native Title legislation obligations.
+Note 2:       Section 265-20 makes special provision for actions done to comply with Native Title legislation obligations.
 
-Note 3:       Section 265‑35 deals with the situation of directors of wholly‑owned subsidiaries.
+Note 3:       Section 265-35 deals with the situation of directors of wholly-owned subsidiaries.
 
              (2)  A person who is involved in a contravention of subsection (1) contravenes this subsection.
 
-Note 1:       Section 694‑55 defines **_involved in_**.
+Note 1:       Section 694-55 defines **_involved in_**.
 
-Note 2:       This subsection is a civil penalty provision (see section 386‑1).
+Note 2:       This subsection is a civil penalty provision (see section 386-1).
 
-##### <a id="265‑10"></a>265‑10  Use of position—civil obligations
+##### <a id="265-10"></a>265-10  Use of position—civil obligations
 
 Use of position—directors, other officers and employees
 
@@ -8748,19 +8747,19 @@ Use of position—directors, other officers and employees
 
                      (b)  cause detriment to the corporation.
 
-Note 1:       This subsection is a civil penalty provision (see section 386‑1).
+Note 1:       This subsection is a civil penalty provision (see section 386-1).
 
-Note 2:       Section 265‑20 makes special provision for actions done to comply with Native Title legislation obligations.
+Note 2:       Section 265-20 makes special provision for actions done to comply with Native Title legislation obligations.
 
 Note 3:       The contact person for the corporation is covered by the reference to an employee of the corporation.
 
              (2)  A person who is involved in a contravention of subsection (1) contravenes this subsection.
 
-Note 1:       Section 694‑55 defines **_involved in_**.
+Note 1:       Section 694-55 defines **_involved in_**.
 
-Note 2:       This subsection is a civil penalty provision (see section 386‑1).
+Note 2:       This subsection is a civil penalty provision (see section 386-1).
 
-##### <a id="265‑15"></a>265‑15  Use of information—civil obligations
+##### <a id="265-15"></a>265-15  Use of information—civil obligations
 
 Use of information—directors, other officers and employees
 
@@ -8772,27 +8771,27 @@ Use of information—directors, other officers and employees
 
 Note 1:       This duty continues after the person stops being an officer or employee of the corporation.
 
-Note 2:       This subsection is a civil penalty provision (see section 386‑1).
+Note 2:       This subsection is a civil penalty provision (see section 386-1).
 
-Note 3:       Section 265‑20 makes special provision for actions done to comply with Native Title legislation obligations.
+Note 3:       Section 265-20 makes special provision for actions done to comply with Native Title legislation obligations.
 
 Note 4:       The contact person for the corporation is covered by the reference to an employee of the corporation.
 
              (2)  A person who is involved in a contravention of subsection (1) contravenes this subsection.
 
-Note 1:       Section 694‑55 defines **_involved in_**.
+Note 1:       Section 694-55 defines **_involved in_**.
 
-Note 2:       This subsection is a civil penalty provision (see section 386‑1).
+Note 2:       This subsection is a civil penalty provision (see section 386-1).
 
-##### <a id="265‑20"></a>265‑20  Acts done to comply with Native Title legislation obligations
+##### <a id="265-20"></a>265-20  Acts done to comply with Native Title legislation obligations
 
-                   A person who is a director or other officer, or an employee, of an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate does not contravene subsection 265‑1(1), 265‑5(1), 265‑10(1) or 265‑15(1), and does not breach the person’s equivalent duties at common law and in equity, merely because of doing (or refraining from doing) a particular act if the person does (or refrains from doing) the act:
+                   A person who is a director or other officer, or an employee, of an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate does not contravene subsection 265-1(1), 265-5(1), 265-10(1) or 265-15(1), and does not breach the person’s equivalent duties at common law and in equity, merely because of doing (or refraining from doing) a particular act if the person does (or refrains from doing) the act:
 
                      (a)  in good faith; and
 
                      (b)  with the belief that doing (or refraining from doing) the act is necessary to ensure that the corporation complies with a Native Title legislation obligation.
 
-##### <a id="265‑25"></a>265‑25  Good faith, use of position and use of information—criminal offences
+##### <a id="265-25"></a>265-25  Good faith, use of position and use of information—criminal offences
 
 Good faith—directors and other officers
 
@@ -8838,9 +8837,9 @@ Use of information—directors, other officers and employees
 
                     Penalty:  2,000 penalty units or imprisonment for 5 years, or both.
 
-##### <a id="265‑30"></a>265‑30  Interaction of sections 265‑1 to 265‑25 with other laws etc.
+##### <a id="265-30"></a>265-30  Interaction of sections 265-1 to 265-25 with other laws etc.
 
-             (1)  Sections 265‑1 to 265‑25:
+             (1)  Sections 265-1 to 265-25:
 
                      (a)  have effect in addition to, and not in derogation of, any rule of law relating to the duty or liability of a person because of the person’s office or employment in relation to an Aboriginal and Torres Strait Islander corporation; and
 
@@ -8848,13 +8847,13 @@ Use of information—directors, other officers and employees
 
              (2)  This section:
 
-                     (a)  does not apply to subsections 265‑1(2) and (3) to the extent to which they operate on the duties at common law and in equity that are equivalent to the requirements of subsection 265‑1(1); and
+                     (a)  does not apply to subsections 265-1(2) and (3) to the extent to which they operate on the duties at common law and in equity that are equivalent to the requirements of subsection 265-1(1); and
 
-                     (b)  does not apply to section 265‑20 to the extent to which it operates on the duties at common law and in equity that are equivalent to the requirements of subsections 265‑1(1), 265‑5(1), 265‑10(1) and 265‑15(1).
+                     (b)  does not apply to section 265-20 to the extent to which it operates on the duties at common law and in equity that are equivalent to the requirements of subsections 265-1(1), 265-5(1), 265-10(1) and 265-15(1).
 
-##### <a id="265‑35"></a>265‑35  Directors of wholly‑owned subsidiaries
+##### <a id="265-35"></a>265-35  Directors of wholly-owned subsidiaries
 
-                   A director of an Aboriginal and Torres Strait Islander corporation that is a wholly‑owned subsidiary of a body corporate is taken to act in good faith in the best interests of the subsidiary if:
+                   A director of an Aboriginal and Torres Strait Islander corporation that is a wholly-owned subsidiary of a body corporate is taken to act in good faith in the best interests of the subsidiary if:
 
                      (a)  the constitution of the subsidiary expressly authorises the director to act in the best interests of the holding body corporate; and
 
@@ -8862,23 +8861,23 @@ Use of information—directors, other officers and employees
 
                      (c)  the subsidiary is not insolvent at the time the director acts and does not become insolvent because of the director’s act.
 
-##### <a id="265‑40"></a>265‑40  Responsibility of secretaries for certain contraventions
+##### <a id="265-40"></a>265-40  Responsibility of secretaries for certain contraventions
 
              (1)  A secretary of an Aboriginal and Torres Strait Islander corporation commits an offence if the corporation contravenes:
 
-                     (a)  subsection 69‑20(1) or (2) (requirement to lodge copy of constitutional changes); or
+                     (a)  subsection 69-20(1) or (2) (requirement to lodge copy of constitutional changes); or
 
-                     (b)  section 88‑1 (requirement to lodge material about change of name); or
+                     (b)  section 88-1 (requirement to lodge material about change of name); or
 
-                     (c)  subsection 112‑5(5), (6) or (7) (requirements about registered office); or
+                     (c)  subsection 112-5(5), (6) or (7) (requirements about registered office); or
 
-                     (d)  section 180‑35 (requirement to give copy of register of members or register of former members); or
+                     (d)  section 180-35 (requirement to give copy of register of members or register of former members); or
 
-                     (e)  subsection 304‑5(1), (3), (5) or (6) (requirement to lodge details of directors and secretaries); or
+                     (e)  subsection 304-5(1), (3), (5) or (6) (requirement to lodge details of directors and secretaries); or
 
-                      (f)  section 330‑10 (requirement to lodge general report); or
+                      (f)  section 330-10 (requirement to lodge general report); or
 
-                     (g)  section 348‑1 (requirement to lodge annual report).
+                     (g)  section 348-1 (requirement to lodge annual report).
 
                     Penalty:  5 penalty units.
 
@@ -8890,7 +8889,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          A defendant bears a legal burden in relation to a matter mentioned in subsection (3) (see section 13.4 of the _Criminal Code_).
 
-##### <a id="265‑45"></a>265‑45  Meaning of reasonable reliance on information or advice provided by others
+##### <a id="265-45"></a>265-45  Meaning of reasonable reliance on information or advice provided by others
 
              (1)  If:
 
@@ -8916,9 +8915,9 @@ the director’s reliance on the information or advice is taken to be reasonable
 
              (2)  To avoid doubt, a person may be considered an expert in relation to questions of traditional laws and customs.
 
-##### <a id="265‑50"></a>265‑50  Responsibility for actions of delegate
+##### <a id="265-50"></a>265-50  Responsibility for actions of delegate
 
-             (1)  If the directors of an Aboriginal and Torres Strait Islander corporation delegate a power under section 274‑10, each director is responsible for the exercise of the power by the delegate as if the power had been exercised by the directors themselves.
+             (1)  If the directors of an Aboriginal and Torres Strait Islander corporation delegate a power under section 274-10, each director is responsible for the exercise of the power by the delegate as if the power had been exercised by the directors themselves.
 
              (2)  A director of an Aboriginal and Torres Strait Islander corporation is not responsible under subsection (1) if:
 
@@ -8936,11 +8935,11 @@ the director’s reliance on the information or advice is taken to be reasonable
 
 ### Division 268—Duties in relation to disclosure of, and voting on matters involving, material personal interests
 
-##### <a id="268‑1"></a>268‑1  Material personal interest—director’s duty to disclose
+##### <a id="268-1"></a>268-1  Material personal interest—director’s duty to disclose
 
 Director’s duty to notify other directors of material personal interest when conflict arises
 
-             (1)  A director of an Aboriginal and Torres Strait Islander corporation who has a material personal interest in a matter that relates to the affairs of the corporation must give the other directors notice of the interest unless subsection (3) or section 268‑5 says otherwise.
+             (1)  A director of an Aboriginal and Torres Strait Islander corporation who has a material personal interest in a matter that relates to the affairs of the corporation must give the other directors notice of the interest unless subsection (3) or section 268-5 says otherwise.
 
                     Penalty:  10 penalty units or imprisonment for 3 months, or both.
 
@@ -8974,7 +8973,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  the nature or extent of the interest has not materially increased above that disclosed in the notice; or
 
-                     (c)  the director has given a standing notice of the nature and extent of the interest under section 268‑10 and the notice is still effective in relation to the interest.
+                     (c)  the director has given a standing notice of the nature and extent of the interest under section 268-10 and the notice is still effective in relation to the interest.
 
 Note:          Subparagraph (b)(ii)—the notice may be given to the person referred to in this subparagraph by someone other than the director to whose interests it relates (for example, by the secretary).
 
@@ -8998,7 +8997,7 @@ Section does not apply to single director corporation
 
              (6)  This section does not apply to an Aboriginal and Torres Strait Islander corporation that has only 1 director.
 
-##### <a id="268‑5"></a>268‑5  Interest as common law holder of native title
+##### <a id="268-5"></a>268-5  Interest as common law holder of native title
 
              (1)  This section applies if:
 
@@ -9010,11 +9009,11 @@ Section does not apply to single director corporation
 
                              (ii)  for which the corporation acts as agent or representative for the common law holders of the native title.
 
-             (2)  The director does not need to give the other directors notice of the interest under subsection 268‑1(1).
+             (2)  The director does not need to give the other directors notice of the interest under subsection 268-1(1).
 
              (3)  A failure to give the other directors notice of the interest does not breach any general law rule about conflicts of interest.
 
-##### <a id="268‑10"></a>268‑10  Director may give other directors standing notice about an interest
+##### <a id="268-10"></a>268-10  Director may give other directors standing notice about an interest
 
 Power to give notice
 
@@ -9062,9 +9061,9 @@ Effect of contravention by director
 
              (7)  A contravention of this section by a director does not affect the validity of any act, transaction, agreement, instrument, resolution or other thing.
 
-##### <a id="268‑15"></a>268‑15  Interaction of sections 268‑1 and 268‑10 with other laws etc.
+##### <a id="268-15"></a>268-15  Interaction of sections 268-1 and 268-10 with other laws etc.
 
-                   Sections 268‑1 and 268‑10 have effect in addition to, and not in derogation of:
+                   Sections 268-1 and 268-10 have effect in addition to, and not in derogation of:
 
                      (a)  any general law rule about conflicts of interest; and
 
@@ -9076,7 +9075,7 @@ Effect of contravention by director
 
                             involving duties or interests that conflict with the director’s duties or interests as a director.
 
-##### <a id="268‑20"></a>268‑20  Restrictions on voting
+##### <a id="268-20"></a>268-20  Restrictions on voting
 
 Restrictions on voting and being present
 
@@ -9092,13 +9091,13 @@ Restrictions on voting and being present
 
                      (a)  subsection (4) or (5) allows the director to be present; or
 
-                     (b)  subsection 268‑5(2) applies in relation to the interest; or
+                     (b)  subsection 268-5(2) applies in relation to the interest; or
 
-                     (c)  for any other reason, the interest does not need to be disclosed under section 268‑1.
+                     (c)  for any other reason, the interest does not need to be disclosed under section 268-1.
 
 Note 1:       A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
-Note 2:       Because section 268‑5 provides that certain interests a director has as a common law holder of native title do not need to be disclosed, those interests will not prevent the director from being present and voting.
+Note 2:       Because section 268-5 provides that certain interests a director has as a common law holder of native title do not need to be disclosed, those interests will not prevent the director from being present and voting.
 
              (3)  An offence against subsection (1) is an offence of strict liability.
 
@@ -9114,7 +9113,7 @@ Participation with approval of other directors
 
 Participation with Registrar’s approval
 
-             (5)  The director may be present and vote if he or she is so entitled under a declaration or order made by the Registrar under section 268‑25.
+             (5)  The director may be present and vote if he or she is so entitled under a declaration or order made by the Registrar under section 268-25.
 
 Director may consider or vote on resolution to deal with matter at general meeting
 
@@ -9126,11 +9125,11 @@ Effect of contravention by director
 
                      (a)  this section; or
 
-                     (b)  a condition attached to a declaration or order made by the Registrar under section 268‑25;
+                     (b)  a condition attached to a declaration or order made by the Registrar under section 268-25;
 
 does not affect the validity of any resolution.
 
-##### <a id="268‑25"></a>268‑25  Registrar’s power to make declarations and class orders
+##### <a id="268-25"></a>268-25  Registrar’s power to make declarations and class orders
 
 Registrar’s power to make specific declarations
 
@@ -9148,7 +9147,7 @@ Registrar’s power to make specific declarations
 
                      (a)  the number of directors entitled to be present and vote on the matter would be less than the quorum for a directors’ meeting if the director were not allowed to vote on the matter at the meeting; and
 
-                     (b)  the matter needs to be dealt with urgently, or there is some other compelling reason for the matter being dealt with at the directors’ meeting, rather than by a general meeting called under subsection 268‑20(6).
+                     (b)  the matter needs to be dealt with urgently, or there is some other compelling reason for the matter being dealt with at the directors’ meeting, rather than by a general meeting called under subsection 268-20(6).
 
              (4)  A declaration under subsection (1) may:
 
@@ -9168,7 +9167,7 @@ Registrar’s power to make class orders
 
 ### Division 271—Duty to discharge certain trust liabilities
 
-##### <a id="271‑1"></a>271‑1  Directors liable for debts and other obligations incurred by corporation as trustee
+##### <a id="271-1"></a>271-1  Directors liable for debts and other obligations incurred by corporation as trustee
 
              (1)  A person who is a director of an Aboriginal and Torres Strait Islander corporation when it incurs a liability while acting, or purporting to act, as trustee, is liable to discharge the whole or a part of the liability if the corporation:
 
@@ -9196,7 +9195,7 @@ Note:          The person will not be liable under this subsec
 
 ### Division 274—Powers of directors
 
-##### <a id="274‑1"></a>274‑1  Powers of directors (replaceable rule—see section 60‑1)
+##### <a id="274-1"></a>274-1  Powers of directors (replaceable rule—see section 60-1)
 
              (1)  The business of an Aboriginal and Torres Strait Islander corporation is to be managed by or under the direction of the directors.
 
@@ -9204,13 +9203,13 @@ Note:          The person will not be liable under this subsec
 
 Note:          For example, the directors may enter into contracts and borrow money.
 
-##### <a id="274‑5"></a>274‑5  Negotiable instruments (replaceable rule—see section 60‑1)
+##### <a id="274-5"></a>274-5  Negotiable instruments (replaceable rule—see section 60-1)
 
              (1)  Any 2 directors of an Aboriginal and Torres Strait Islander corporation that has 2 or more directors, or the director of an Aboriginal and Torres Strait Islander corporation that has only 1 director, may sign, draw, accept, endorse or otherwise execute a negotiable instrument.
 
              (2)  The directors may determine that a negotiable instrument may be signed, drawn, accepted, endorsed or otherwise executed in a different way.
 
-##### <a id="274‑10"></a>274‑10  Delegation
+##### <a id="274-10"></a>274-10  Delegation
 
              (1)  Unless the corporation’s constitution provides otherwise, the directors of an Aboriginal and Torres Strait Islander corporation may by resolution delegate any of their powers to:
 
@@ -9226,7 +9225,7 @@ Note:          For example, the directors may enter into contr
 
              (3)  The exercise of the power by the delegate is as effective as if the directors had exercised it.
 
-##### <a id="274‑15"></a>274‑15  Right of access to corporation books
+##### <a id="274-15"></a>274-15  Right of access to corporation books
 
 Right while director
 
@@ -9238,9 +9237,9 @@ Right while director
 
                      (c)  that the person has reason to believe will be brought against him or her.
 
-Note 1:       Section 322‑25 gives the director a right of access to financial records.
+Note 1:       Section 322-25 gives the director a right of access to financial records.
 
-Note 2:       See also section 376‑1.
+Note 2:       See also section 376-1.
 
 Right during 7 years after ceasing to be director
 
@@ -9254,7 +9253,7 @@ Right during 7 years after ceasing to be director
 
 This right continues for 7 years after the person ceased to be a director of the corporation.
 
-Note:          See also section 376‑1.
+Note:          See also section 376-1.
 
 Right to take copies
 
@@ -9268,11 +9267,11 @@ Interaction with other rules
 
              (5)  This section does not limit any right of access to corporation books that a person has apart from this section.
 
-## Part 6‑5—Disqualification from managing corporations
+## Part 6-5—Disqualification from managing corporations
 
 ### Division 279—Disqualification from managing corporations
 
-##### <a id="279‑1"></a>279‑1  Disqualified person not to manage corporations
+##### <a id="279-1"></a>279-1  Disqualified person not to manage corporations
 
              (1)  A person who is disqualified from managing Aboriginal and Torres Strait Islander corporations under this Part commits an offence if:
 
@@ -9300,7 +9299,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (4)  It is a defence to a contravention of subsection (1) if the person had permission to manage the corporation under either section 279‑30 or 279‑35 and the person’s conduct was within the terms of that permission.
+             (4)  It is a defence to a contravention of subsection (1) if the person had permission to manage the corporation under either section 279-30 or 279-35 and the person’s conduct was within the terms of that permission.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -9308,11 +9307,11 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the person becomes disqualified from managing Aboriginal and Torres Strait Islander corporations under this Part; and
 
-                     (b)  the person is not given permission to manage the corporation under section 279‑30 or 279‑35.
+                     (b)  the person is not given permission to manage the corporation under section 279-30 or 279-35.
 
-Note:          If a person ceases to be a director, alternate director or a secretary under subsection (5), the corporation must notify the Registrar (see subsection 304‑5(5)).
+Note:          If a person ceases to be a director, alternate director or a secretary under subsection (5), the corporation must notify the Registrar (see subsection 304-5(5)).
 
-##### <a id="279‑5"></a>279‑5  Automatic disqualification
+##### <a id="279-5"></a>279-5  Automatic disqualification
 
 Convictions
 
@@ -9358,13 +9357,13 @@ Disqualification under Corporations Act
 
              (5)  A person is disqualified from managing Aboriginal and Torres Strait Islander corporations at a particular time if the person is, at that time, disqualified from managing Corporations Act corporations under Part 2D.6 of the Corporations Act.
 
-##### <a id="279‑10"></a>279‑10  Extension of period of automatic disqualification
+##### <a id="279-10"></a>279-10  Extension of period of automatic disqualification
 
              (1)  This section applies if:
 
-                     (a)  under subsection 279‑5(1); or
+                     (a)  under subsection 279-5(1); or
 
-                     (b)  as a result of the operation of subsection 206B(1) of the Corporations Act and subsection 279‑5(5) of this Act;
+                     (b)  as a result of the operation of subsection 206B(1) of the Corporations Act and subsection 279-5(5) of this Act;
 
 a person is disqualified from managing Aboriginal and Torres Strait Islander corporations on being convicted of an offence.
 
@@ -9380,13 +9379,13 @@ a person is disqualified from managing Aboriginal and Torres Strait Islander cor
 
              (5)  In determining whether an extension is justified (and if so, for how long), the Court may have regard to any matters that the Court considers appropriate.
 
-##### <a id="279‑15"></a>279‑15  Court power of disqualification—contravention of civil penalty provision
+##### <a id="279-15"></a>279-15  Court power of disqualification—contravention of civil penalty provision
 
              (1)  On application by the Registrar, the Court may disqualify a person from managing Aboriginal and Torres Strait Islander corporations for a period that the Court considers appropriate if:
 
                      (a)  a declaration is made under:
 
-                              (i)  section 386‑1 (civil penalty provision) that the person has contravened a civil penalty provision; or
+                              (i)  section 386-1 (civil penalty provision) that the person has contravened a civil penalty provision; or
 
 (ii)  section 1317E of the Corporations Act (civil penalty provision) that the person has contravened a corporation/scheme civil penalty provision (within the meaning of that Act); and
 
@@ -9398,7 +9397,7 @@ a person is disqualified from managing Aboriginal and Torres Strait Islander cor
 
                      (b)  any other matters that the Court considers appropriate.
 
-##### <a id="279‑20"></a>279‑20  Court power of disqualification—insolvency and non‑payment of debts
+##### <a id="279-20"></a>279-20  Court power of disqualification—insolvency and non-payment of debts
 
              (1)  On application by the Registrar, the Court may disqualify a person from managing Aboriginal and Torres Strait Islander corporations for up to 20 years if:
 
@@ -9416,7 +9415,7 @@ a person is disqualified from managing Aboriginal and Torres Strait Islander cor
 
                      (a)  a Court orders the corporation to be wound up under:
 
-                              (i)  section 526‑1 of this Act; or
+                              (i)  section 526-1 of this Act; or
 
                              (ii)  section 459B of the Corporations Act;
 
@@ -9438,9 +9437,9 @@ a person is disqualified from managing Aboriginal and Torres Strait Islander cor
 
                       (f)  a receiver, receiver and manager, or provisional liquidator is appointed in relation to the corporation; or
 
-                     (g)  the corporation enters into a compromise or arrangement with its creditors under Part 5.1 of the Corporations Act (as applied by section 45‑1 of this Act); or
+                     (g)  the corporation enters into a compromise or arrangement with its creditors under Part 5.1 of the Corporations Act (as applied by section 45-1 of this Act); or
 
-                     (h)  the corporation is wound up and a liquidator lodges a report under subsection 533(1) of the Corporations Act (including that section as applied by section 526‑35 of this Act) about the corporation’s inability to pay its debts.
+                     (h)  the corporation is wound up and a liquidator lodges a report under subsection 533(1) of the Corporations Act (including that section as applied by section 526-35 of this Act) about the corporation’s inability to pay its debts.
 
 Note:          To satisfy paragraph (h), the corporation must begin to be wound up while the person is an officer or within 12 months after the person ceases to be an officer. However, the report under subsection 533(1) of the Corporations Act  may be lodged by the liquidator at a time that is more than 12 months after the person ceases to be an officer. Sections 513A to 513D of the Corporations Act contain rules about when a winding up begins.
 
@@ -9452,7 +9451,7 @@ Note:          To satisfy paragraph (h), the corporation mus
 
                      (b)  any other matters that the Court considers appropriate.
 
-##### <a id="279‑25"></a>279‑25  Court power of disqualification—repeated contraventions of Act
+##### <a id="279-25"></a>279-25  Court power of disqualification—repeated contraventions of Act
 
              (1)  On application by the Registrar, the Court may disqualify a person from managing Aboriginal and Torres Strait Islander corporations for the period that the Court considers appropriate if:
 
@@ -9462,7 +9461,7 @@ Note:          To satisfy paragraph (h), the corporation mus
 
                              (ii)  has at least twice contravened this Act or the Corporations Act while the person was an officer of a body corporate; or
 
-                            (iii)  has been an officer of a body corporate and has done something that would have contravened subsection 265‑1(1) or section 265‑5 if the body corporate had been an Aboriginal and Torres Strait Islander corporation; or
+                            (iii)  has been an officer of a body corporate and has done something that would have contravened subsection 265-1(1) or section 265-5 if the body corporate had been an Aboriginal and Torres Strait Islander corporation; or
 
                      (b)  the Court is satisfied that the disqualification is justified.
 
@@ -9474,7 +9473,7 @@ Note:          To satisfy paragraph (h), the corporation mus
 
                      (b)  any other matters that the Court considers appropriate.
 
-##### <a id="279‑30"></a>279‑30  Registrar’s power of disqualification
+##### <a id="279-30"></a>279-30  Registrar’s power of disqualification
 
 Power to disqualify
 
@@ -9486,7 +9485,7 @@ Power to disqualify
 
                              (ii)  each of those corporations was either an Aboriginal and Torres Strait Islander corporation or a Corporations Act corporation; and
 
-                            (iii)  while the person was an officer, or within 12 months after the person ceased to be an officer of those corporations, each of the corporations was wound up and a liquidator lodged a report under subsection 533(1) of the Corporations Act (including that section as applied by section 526‑35 of this Act) about the corporation’s inability to pay its debts; and
+                            (iii)  while the person was an officer, or within 12 months after the person ceased to be an officer of those corporations, each of the corporations was wound up and a liquidator lodged a report under subsection 533(1) of the Corporations Act (including that section as applied by section 526-35 of this Act) about the corporation’s inability to pay its debts; and
 
                      (b)  the Registrar has given the person:
 
@@ -9534,7 +9533,7 @@ written permission to manage a particular Aboriginal and Torres Strait Islander 
 
              (8)  A permission under subsection (7) is not a legislative instrument.
 
-##### <a id="279‑35"></a>279‑35  Court power to grant leave
+##### <a id="279-35"></a>279-35  Court power to grant leave
 
              (1)  A person who is disqualified from managing Aboriginal and Torres Strait Islander corporations may apply to the Court for leave to manage:
 
@@ -9546,25 +9545,25 @@ written permission to manage a particular Aboriginal and Torres Strait Islander 
 
              (2)  Subsection (1) does not apply if the person:
 
-                     (a)  was disqualified by the Registrar under section 279‑30; or
+                     (a)  was disqualified by the Registrar under section 279-30; or
 
-                     (b)  was disqualified under subsection 279‑5(5) because ASIC disqualified the person from managing corporations under section 206F of the Corporations Act.
+                     (b)  was disqualified under subsection 279-5(5) because ASIC disqualified the person from managing corporations under section 206F of the Corporations Act.
 
              (3)  The person must lodge a notice with the Registrar at least 21 days before commencing the proceedings.
 
              (4)  The order granting leave may be expressed to be subject to exceptions and conditions determined by the Court.
 
-Note:          If the Court grants the person leave to manage the corporation, the person may be appointed as a director (see subsection 246‑1(2)) or secretary (see subsection 257‑10(2)) of the corporation.
+Note:          If the Court grants the person leave to manage the corporation, the person may be appointed as a director (see subsection 246-1(2)) or secretary (see subsection 257-10(2)) of the corporation.
 
              (5)  The person must lodge with the Registrar a copy of any order granting leave within 14 days after the order is made.
 
              (6)  On application by the Registrar, the Court may revoke the leave. The order revoking leave does not take effect until it is served on the person.
 
-## Part 6‑6—Member approval needed for related party benefit
+## Part 6-6—Member approval needed for related party benefit
 
 ### Division 284—Need for member approval
 
-##### <a id="284‑1"></a>284‑1  Need for member approval for financial benefit
+##### <a id="284-1"></a>284-1  Need for member approval for financial benefit
 
              (1)  For an Aboriginal and Torres Strait Islander corporation, or an entity that the corporation controls, to give a financial benefit to a related party of the corporation:
 
@@ -9576,7 +9575,7 @@ Note:          If the Court grants the person leave to manage 
 
                      (b)  the giving of the benefit must fall within an exception set out in Division 287.
 
-Note:          Section 293‑1 defines **_related party_**, section 700‑1 defines **_entity_**, section 689‑25defines **_control_** and section 293‑5 affects the meaning of **_giving a financial benefit_**.
+Note:          Section 293-1 defines **_related party_**, section 700-1 defines **_entity_**, section 689-25defines **_control_** and section 293-5 affects the meaning of **_giving a financial benefit_**.
 
              (2)  If:
 
@@ -9592,33 +9591,33 @@ Note:          Section 293‑1 defines **_related party_**, 
 
 member approval for the giving of the benefit is taken to have been given and the benefit need not be given within the 15 months.
 
-##### <a id="284‑5"></a>284‑5  Consequences of breach
+##### <a id="284-5"></a>284-5  Consequences of breach
 
-             (1)  If the corporation or entity contravenes section 284‑1:
+             (1)  If the corporation or entity contravenes section 284-1:
 
                      (a)  the contravention does not affect the validity of any contract or transaction connected with the giving of the benefit; and
 
                      (b)  the corporation or entity does not commit an offence.
 
-Note:          A Court may order an injunction to stop the corporation or entity giving the benefit to the related party (see section 576‑25).
+Note:          A Court may order an injunction to stop the corporation or entity giving the benefit to the related party (see section 576-25).
 
-             (2)  A person contravenes this subsection if they are involved in a contravention of section 284‑1 by a corporation or entity.
+             (2)  A person contravenes this subsection if they are involved in a contravention of section 284-1 by a corporation or entity.
 
-Note 1:       This subsection is a civil penalty provision (see section 386‑1).
+Note 1:       This subsection is a civil penalty provision (see section 386-1).
 
-Note 2:       Section 694‑55 defines **_involved in_**.
+Note 2:       Section 694-55 defines **_involved in_**.
 
-             (3)  A person commits an offence if they are involved in a contravention of section 284‑1 by a corporation or entity and the involvement is dishonest.
+             (3)  A person commits an offence if they are involved in a contravention of section 284-1 by a corporation or entity and the involvement is dishonest.
 
                     Penalty:  2,000 penalty units or imprisonment for 5 years, or both.
 
-##### <a id="284‑10"></a>284‑10  Exemptions
+##### <a id="284-10"></a>284-10  Exemptions
 
-                   An application may be made to exempt an Aboriginal and Torres Strait Islander corporation, or the directors of the corporation, from the requirements of this Part (see section 310‑5).
+                   An application may be made to exempt an Aboriginal and Torres Strait Islander corporation, or the directors of the corporation, from the requirements of this Part (see section 310-5).
 
 ### Division 287—Exceptions to the requirement for member approval
 
-##### <a id="287‑1"></a>287‑1  Remuneration and reimbursement for officer or employee
+##### <a id="287-1"></a>287-1  Remuneration and reimbursement for officer or employee
 
 Benefits that are reasonable remuneration to employees
 
@@ -9682,27 +9681,27 @@ Benefits that are payments of expenses incurred
 
                      (b)  a financial benefit given to a person because of the person ceasing to hold an office or employment as an officer or employee of a body corporate is remuneration paid or provided to the person in a capacity as an officer of the body.
 
-##### <a id="287‑5"></a>287‑5  Benefit to or by closely‑held subsidiary
+##### <a id="287-5"></a>287-5  Benefit to or by closely-held subsidiary
 
              (1)  Member approval is not needed to give a financial benefit if the benefit is given:
 
-                     (a)  by a body corporate to a closely‑held subsidiary of the body; or
+                     (a)  by a body corporate to a closely-held subsidiary of the body; or
 
-                     (b)  by a closely‑held subsidiary of a body corporate to the body or an entity it controls.
+                     (b)  by a closely-held subsidiary of a body corporate to the body or an entity it controls.
 
-             (2)  For the purposes of this section, a body corporate is a **_closely‑held subsidiary_** of another body corporate if, and only if, no member of the first‑mentioned body is a person other than:
+             (2)  For the purposes of this section, a body corporate is a **_closely-held subsidiary_** of another body corporate if, and only if, no member of the first-mentioned body is a person other than:
 
                      (a)  the other body; or
 
                      (b)  a nominee of the other body; or
 
-                     (c)  a body corporate that is a closely‑held subsidiary of the other body because of any other application or applications of this subsection; or
+                     (c)  a body corporate that is a closely-held subsidiary of the other body because of any other application or applications of this subsection; or
 
                      (d)  a nominee of a body referred to in paragraph (c).
 
              (3)  For the purposes of subsection (2), disregard shares that are not voting shares.
 
-##### <a id="287‑10"></a>287‑10  Benefits to members that do not discriminate unfairly
+##### <a id="287-10"></a>287-10  Benefits to members that do not discriminate unfairly
 
                    Member approval is not needed to give a financial benefit if:
 
@@ -9710,27 +9709,27 @@ Benefits that are payments of expenses incurred
 
                      (b)  giving the benefit does not discriminate unfairly against the other members of the corporation.
 
-##### <a id="287‑12"></a>287‑12  Benefits given to comply with Native Title legislation obligations
+##### <a id="287-12"></a>287-12  Benefits given to comply with Native Title legislation obligations
 
                    Member approval is not needed to give a financial benefit if the benefit is given to the related party to comply with a Native Title legislation obligation.
 
-##### <a id="287‑15"></a>287‑15  Court order
+##### <a id="287-15"></a>287-15  Court order
 
                    Member approval is not needed to give a financial benefit under an order of a court.
 
 ### Division 290—Procedure for obtaining member approval
 
-##### <a id="290‑1"></a>290‑1  Resolution may specify matters by class or kind
+##### <a id="290-1"></a>290-1  Resolution may specify matters by class or kind
 
                    A resolution under this Division may specify anything either in particular or by reference to class or kind.
 
-##### <a id="290‑5"></a>290‑5  Corporation must lodge material that will be put to members with the Registrar
+##### <a id="290-5"></a>290-5  Corporation must lodge material that will be put to members with the Registrar
 
              (1)  At least 14 days before the notice convening the relevant meeting is given, the Aboriginal and Torres Strait Islander corporation must lodge:
 
                      (a)  a proposed notice of meeting setting out the text of the proposed resolution; and
 
-                     (b)  a proposed explanatory statement satisfying section 290‑10; and
+                     (b)  a proposed explanatory statement satisfying section 290-10; and
 
                      (c)  any other document that is proposed to accompany the notice convening the meeting and that relates to the proposed resolution; and
 
@@ -9762,9 +9761,9 @@ subsection (1) applies as if the reference to 14 days were a reference to the 
 
              (5)  The Registrar may give and revoke approvals for the purposes of subsection (3).
 
-##### <a id="290‑10"></a>290‑10  Requirements for explanatory statement to members
+##### <a id="290-10"></a>290-10  Requirements for explanatory statement to members
 
-             (1)  The proposed explanatory statement lodged under section 290‑5 must be in writing and set out:
+             (1)  The proposed explanatory statement lodged under section 290-5 must be in writing and set out:
 
                      (a)  the related parties to whom the proposed resolution would permit financial benefits to be given; and
 
@@ -9798,29 +9797,29 @@ subsection (1) applies as if the reference to 14 days were a reference to the 
 
                      (c)  benefits forgone by whoever would give the benefits.
 
-Note:          Sections 265‑1 and 265‑5 require an officer of a corporation to act honestly and to exercise care and diligence. These duties extend to preparing an explanatory statement under this section. Section 561‑5 creates offences where false and misleading material relating to a corporation’s affairs is made available or furnished to members.
+Note:          Sections 265-1 and 265-5 require an officer of a corporation to act honestly and to exercise care and diligence. These duties extend to preparing an explanatory statement under this section. Section 561-5 creates offences where false and misleading material relating to a corporation’s affairs is made available or furnished to members.
 
-##### <a id="290‑15"></a>290‑15  Registrar may comment on proposed resolution
+##### <a id="290-15"></a>290-15  Registrar may comment on proposed resolution
 
-             (1)  Within 14 days after the corporation lodges documents under section 290‑5, the Registrar may give to the corporation written comments on those documents (other than comments about whether the proposed resolution is in the corporation’s best interests).
+             (1)  Within 14 days after the corporation lodges documents under section 290-5, the Registrar may give to the corporation written comments on those documents (other than comments about whether the proposed resolution is in the corporation’s best interests).
 
              (2)  Comments under subsection (1) are not legislative instruments.
 
-             (3)  The Registrar must keep a copy of the written comments it gives to a corporation under subsection (1) and sections 421‑1 and 421‑5 apply to the copy as if it were a document lodged with the Registrar.
+             (3)  The Registrar must keep a copy of the written comments it gives to a corporation under subsection (1) and sections 421-1 and 421-5 apply to the copy as if it were a document lodged with the Registrar.
 
              (4)  The fact that the Registrar has given particular comments, or has declined to give comments, under subsection (1) does not in any way affect the performance or exercise of any of the Registrar’s functions and powers.
 
-##### <a id="290‑20"></a>290‑20  Requirements for notice of meeting
+##### <a id="290-20"></a>290-20  Requirements for notice of meeting
 
              (1)  The notice convening the meeting:
 
-                     (a)  must be the same, in all material respects, as the proposed notice lodged under section 290‑5; and
+                     (a)  must be the same, in all material respects, as the proposed notice lodged under section 290-5; and
 
                      (b)  must be accompanied by an explanatory statement that is the same, in all material respects, as the proposed explanatory statement lodged under that section; and
 
-                     (c)  must be accompanied by a document that is, or documents that are, the same, in all material respects, as the document or documents (if any) lodged under paragraph 290‑5(1)(c); and
+                     (c)  must be accompanied by a document that is, or documents that are, the same, in all material respects, as the document or documents (if any) lodged under paragraph 290-5(1)(c); and
 
-                     (d)  if the Registrar has given to the corporation, under section 290‑15, comments on the documents lodged under section 290‑5—must be accompanied by a copy of those comments; and
+                     (d)  if the Registrar has given to the corporation, under section 290-15, comments on the documents lodged under section 290-5—must be accompanied by a copy of those comments; and
 
                      (e)  must not be accompanied by any other documents.
 
@@ -9830,7 +9829,7 @@ Note:          Sections 265‑1 and 265‑5 require an offic
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Cod_ e.
 
-##### <a id="290‑25"></a>290‑25  Other material put to members
+##### <a id="290-25"></a>290-25  Other material put to members
 
              (1)  Each document (if any) that:
 
@@ -9846,7 +9845,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  can reasonably be expected to have been material to a member in deciding how to vote on the proposed resolution;
 
-must be the same, in all material respects, as a document lodged under paragraph 290‑5(1)(d).
+must be the same, in all material respects, as a document lodged under paragraph 290-5(1)(d).
 
                     Penalty:  5 penalty units.
 
@@ -9854,11 +9853,11 @@ must be the same, in all material respects, as a document lodged under paragraph
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Cod_ e.
 
-##### <a id="290‑30"></a>290‑30  Proposed resolution cannot be varied
+##### <a id="290-30"></a>290-30  Proposed resolution cannot be varied
 
-                   The resolution must be the same as the proposed resolution set out in the proposed notice lodged under section 290‑5.
+                   The resolution must be the same as the proposed resolution set out in the proposed notice lodged under section 290-5.
 
-##### <a id="290‑35"></a>290‑35  Voting by or on behalf of related party interested in proposed resolution
+##### <a id="290-35"></a>290-35  Voting by or on behalf of related party interested in proposed resolution
 
              (1)  At a general meeting, a vote on a proposed resolution under this Division must not be cast (in any capacity) by or on behalf of:
 
@@ -9902,7 +9901,7 @@ but may only do so if satisfied that the declaration will not cause unfair preju
 
                              (ii)  power to exercise, or control the exercise of, a right to vote.
 
-             (9)  Subject to subsection 290‑40(1), a contravention of this section does not affect the validity of a resolution.
+             (9)  Subject to subsection 290-40(1), a contravention of this section does not affect the validity of a resolution.
 
            (10)  This section has effect despite:
 
@@ -9914,9 +9913,9 @@ but may only do so if satisfied that the declaration will not cause unfair preju
 
                      (b)  anything in a body corporate’s constitution.
 
-##### <a id="290‑40"></a>290‑40  Voting on the resolution
+##### <a id="290-40"></a>290-40  Voting on the resolution
 
-             (1)  If any votes on the resolution are cast in contravention of subsection 290‑35(1), it must be the case that the resolution would still be passed even if those votes were disregarded.
+             (1)  If any votes on the resolution are cast in contravention of subsection 290-35(1), it must be the case that the resolution would still be passed even if those votes were disregarded.
 
              (2)  If a poll was duly demanded on the question that the resolution be passed, subsections (3) and (4) apply in relation to voting on the poll.
 
@@ -9928,7 +9927,7 @@ but may only do so if satisfied that the declaration will not cause unfair preju
 
                     Penalty:  5 penalty units.
 
-             (4)  In relation to each member of the corporation who voted on the resolution by proxy, or by a representative authorised under section 201‑110, the corporation must record in writing:
+             (4)  In relation to each member of the corporation who voted on the resolution by proxy, or by a representative authorised under section 201-110, the corporation must record in writing:
 
                      (a)  the member’s name; and
 
@@ -9950,11 +9949,11 @@ but may only do so if satisfied that the declaration will not cause unfair preju
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="290‑45"></a>290‑45  Notice of resolution to be lodged
+##### <a id="290-45"></a>290-45  Notice of resolution to be lodged
 
                    The corporation must lodge a notice setting out the text of the resolution within 28 days after the resolution is passed.
 
-##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
+##### <a id="290-50"></a>290-50  Declaration by court of substantial compliance
 
              (1)  The Court may declare that the conditions provided for in this Division have been satisfied if it finds that they have been substantially satisfied.
 
@@ -9962,7 +9961,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 293—Related parties and financial benefits
 
-##### <a id="293‑1"></a>293‑1  Related parties
+##### <a id="293-1"></a>293-1  Related parties
 
 Controlling entities
 
@@ -10004,7 +10003,7 @@ Acting in concert with related party
 
              (7)  An entity is a **_related party_** of an Aboriginal and Torres Strait Islander corporation if the entity acts in concert with a related party of the corporation on the understanding that the related party will receive a financial benefit if the corporation gives the entity a financial benefit.
 
-##### <a id="293‑5"></a>293‑5  Giving a financial benefit
+##### <a id="293-5"></a>293-5  Giving a financial benefit
 
              (1)  In determining what constitutes **_giving a financial benefit_**:
 
@@ -10038,15 +10037,15 @@ Acting in concert with related party
 
 ### Division 296—Interaction with other rules
 
-##### <a id="296‑1"></a>296‑1  General duties still apply
+##### <a id="296-1"></a>296-1  General duties still apply
 
-                   A director is not relieved from any of his or her duties under this Act (including sections 265‑1 and 265‑25), or his or her fiduciary duties, in connection with a transaction merely because the transaction is authorised by a provision of this Part or is approved by a resolution of members under a provision of this Part.
+                   A director is not relieved from any of his or her duties under this Act (including sections 265-1 and 265-25), or his or her fiduciary duties, in connection with a transaction merely because the transaction is authorised by a provision of this Part or is approved by a resolution of members under a provision of this Part.
 
-## Part 6‑7—Public information about directors, secretaries and contact persons
+## Part 6-7—Public information about directors, secretaries and contact persons
 
 ### Division 301—Introduction
 
-##### <a id="301‑1"></a>301‑1  What this Part is about
+##### <a id="301-1"></a>301-1  What this Part is about
 
 * * *
 
@@ -10058,7 +10057,7 @@ This information is entered on the Register of Aboriginal and Torres Strait Isla
 
 ### Division 304—Information to be provided
 
-##### <a id="304‑1"></a>304‑1  Director, alternate director, secretary or contact person may notify the Registrar of resignation or retirement
+##### <a id="304-1"></a>304-1  Director, alternate director, secretary or contact person may notify the Registrar of resignation or retirement
 
              (1)  If a director, alternate director, secretary or contact person of an Aboriginal and Torres Strait Islander corporation retires or resigns, he or she may give the Registrar written notice of the retirement or resignation.
 
@@ -10066,19 +10065,19 @@ This information is entered on the Register of Aboriginal and Torres Strait Isla
 
              (3)  Nothing in this section affects the corporation’s obligations to notify the Registrar of the resignation or retirement.
 
-##### <a id="304‑5"></a>304‑5  Notice of name and address of directors and secretaries to the Registrar
+##### <a id="304-5"></a>304-5  Notice of name and address of directors and secretaries to the Registrar
 
 New directors or secretaries
 
              (1)  An Aboriginal and Torres Strait Islander corporation must lodge with the Registrar a notice of the personal details of a director, secretary or contact person within 28 days after he or she is appointed.
 
-Note 1:       If a person becomes a director, secretary or contact person under section 42‑10 there is no appointment and no notice is required under this subsection.
+Note 1:       If a person becomes a director, secretary or contact person under section 42-10 there is no appointment and no notice is required under this subsection.
 
 Note 2:       If a person who was appointed as an alternate director becomes a director under the terms of his or her appointment as an alternate director, there is no appointment as a director and no notice is required under this subsection.
 
                     Penalty:  10 penalty units.
 
-             (2)  Subsection (1) does not apply if a contact person is appointed by the Registrar under section 257‑25.
+             (2)  Subsection (1) does not apply if a contact person is appointed by the Registrar under section 257-25.
 
 New alternate directors
 
@@ -10104,7 +10103,7 @@ Personal details
 
                      (e)  his or her address.
 
-Note:          For **_address_** see section 304‑15.
+Note:          For **_address_** see section 304-15.
 
 Changes in details
 
@@ -10126,15 +10125,15 @@ Note:          A defendant bears an evidential burden in relat
 
 Note 1:       For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-Note 2:       See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note 2:       See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="304‑10"></a>304‑10  Director, alternate director, secretary and contact person must give information to corporation
+##### <a id="304-10"></a>304-10  Director, alternate director, secretary and contact person must give information to corporation
 
-             (1)  A director, alternate director, secretary or contact person must give the corporation any information the corporation needs to comply with subsection 304‑5(1) or (3) within 14 days after his or her initial appointment unless he or she has previously given the information to the corporation.
+             (1)  A director, alternate director, secretary or contact person must give the corporation any information the corporation needs to comply with subsection 304-5(1) or (3) within 14 days after his or her initial appointment unless he or she has previously given the information to the corporation.
 
                     Penalty:  10 penalty units.
 
-             (2)  A director, alternate director, secretary or contact person must give the corporation any information the corporation needs to comply with subsection 304‑5(5) within 14 days after any change in his or her personal details.
+             (2)  A director, alternate director, secretary or contact person must give the corporation any information the corporation needs to comply with subsection 304-5(5) within 14 days after any change in his or her personal details.
 
                     Penalty:  10 penalty units.
 
@@ -10142,11 +10141,11 @@ Note 2:       See also section 265‑40 for offences committed by 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="304‑15"></a>304‑15  Address for officers
+##### <a id="304-15"></a>304-15  Address for officers
 
 Address is normally residential address
 
-             (1)  A person’s address for the purposes of an application under section 21‑1 or notice under subsection 304‑5(1), (3) or (5) must be his or her usual residential address unless he or she is entitled to have an alternative address substituted for his or her usual residential address under subsection (2).
+             (1)  A person’s address for the purposes of an application under section 21-1 or notice under subsection 304-5(1), (3) or (5) must be his or her usual residential address unless he or she is entitled to have an alternative address substituted for his or her usual residential address under subsection (2).
 
 Entitlement to have alternative address
 
@@ -10176,7 +10175,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 307—Registrar may ask for information
 
-##### <a id="307‑1"></a>307‑1  Registrar’s power to ask for information about person’s position as director, secretary or contact person
+##### <a id="307-1"></a>307-1  Registrar’s power to ask for information about person’s position as director, secretary or contact person
 
              (1)  The Registrar may ask a person, in writing, to inform the Registrar:
 
@@ -10194,9 +10193,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (4)  A request under subsection (1) is not a legislative instrument.
 
-## Part 6‑8—Exemption from operation of certain provisions of this Chapter
+## Part 6-8—Exemption from operation of certain provisions of this Chapter
 
-##### <a id="310‑1"></a>310‑1  What this Part is about
+##### <a id="310-1"></a>310-1  What this Part is about
 
 * * *
 
@@ -10204,7 +10203,7 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
 * * *
 
-##### <a id="310‑5"></a>310‑5  Exemption from certain provisions of this Chapter
+##### <a id="310-5"></a>310-5  Exemption from certain provisions of this Chapter
 
              (1)  On an application made in accordance with subsection (3) in relation to an Aboriginal and Torres Strait Islander corporation, the Registrar may make a determination in writing exempting any of the following from the exemptible provisions of this Chapter specified in the Registrar’s determination:
 
@@ -10212,15 +10211,15 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
                      (b)  the directors of the corporation.
 
-Note:          For the criteria for making determinations under this section, see section 310‑20.
+Note:          For the criteria for making determinations under this section, see section 310-20.
 
              (2)  For the purposes of this section, the **_exemptible provisions_** of this Chapter are:
 
-                     (a)  section 243‑5; and
+                     (a)  section 243-5; and
 
-                     (b)  subsection 246‑25(2); and
+                     (b)  subsection 246-25(2); and
 
-                     (c)  the provisions of Part 6‑6.
+                     (c)  the provisions of Part 6-6.
 
              (3)  The application must:
 
@@ -10244,11 +10243,11 @@ Note:          For the criteria for making determinations unde
 
              (7)  A determination under subsection (1), or a revocation, variation or suspension under subsection (5), is not a legislative instrument.
 
-##### <a id="310‑10"></a>310‑10  Registrar may make determination even if application is incomplete
+##### <a id="310-10"></a>310-10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 310-5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
-##### <a id="310‑15"></a>310‑15  Registrar’s power to make determinations
+##### <a id="310-15"></a>310-15  Registrar’s power to make determinations
 
              (1)  The Registrar may determine in writing that:
 
@@ -10258,15 +10257,15 @@ Note:          For the criteria for making determinations unde
 
 are exempted from the exemptible provisions of this Chapter specified in the Registrar’s determination.
 
-Note:          For the criteria for making determinations under this section, see section 310‑20.
+Note:          For the criteria for making determinations under this section, see section 310-20.
 
              (2)  For the purposes of this section, the **_exemptible provisions_** of this Chapter are:
 
-                     (a)  section 243‑5; and
+                     (a)  section 243-5; and
 
-                     (b)  subsection 246‑25(2); and
+                     (b)  subsection 246-25(2); and
 
-                     (c)  the provisions of Part 6‑6.
+                     (c)  the provisions of Part 6-6.
 
              (3)  The determination may:
 
@@ -10294,9 +10293,9 @@ is a legislative instrument.
 
 is not a legislative instrument.
 
-##### <a id="310‑20"></a>310‑20  Criteria for determinations
+##### <a id="310-20"></a>310-20  Criteria for determinations
 
-             (1)  In making a determination under section 310‑5 or 310‑15, the Registrar must be satisfied that the requirements of the relevant exemptible provisions of this Chapter would:
+             (1)  In making a determination under section 310-5 or 310-15, the Registrar must be satisfied that the requirements of the relevant exemptible provisions of this Chapter would:
 
                      (a)  be inappropriate in the circumstances; or
 
@@ -10316,31 +10315,31 @@ Unreasonable burden
 
 # Chapter 7—Record keeping, reporting requirements and books
 
-## Part 7‑1—Introduction
+## Part 7-1—Introduction
 
 ### Division 317—Introduction
 
-##### <a id="317‑1"></a>317‑1  What this Chapter is about
+##### <a id="317-1"></a>317-1  What this Chapter is about
 
 * * *
 
-An Aboriginal and Torres Strait Islander corporation must keep particular records (see Part 7‑2).
+An Aboriginal and Torres Strait Islander corporation must keep particular records (see Part 7-2).
 
 An Aboriginal and Torres Strait Islander corporation has to prepare certain reports and lodge them with the Registrar. Division 327 gives an overview of these reporting requirements.
 
-The Registrar may, under Part 7‑4, make determinations relieving an Aboriginal and Torres Strait Islander corporation, or a class of Aboriginal and Torres Strait Islander corporation, from obligations imposed by Part 7‑2 or 7‑3 or by regulations made for the purposes of Part 7‑2 or 7‑3\. These determinations can also relieve officers and auditors from obligations imposed by this Chapter.
+The Registrar may, under Part 7-4, make determinations relieving an Aboriginal and Torres Strait Islander corporation, or a class of Aboriginal and Torres Strait Islander corporation, from obligations imposed by Part 7-2 or 7-3 or by regulations made for the purposes of Part 7-2 or 7-3\. These determinations can also relieve officers and auditors from obligations imposed by this Chapter.
 
-The regulations may modify the operation of Parts 7‑2 and 7‑3 (see Part 7‑7).
+The regulations may modify the operation of Parts 7-2 and 7-3 (see Part 7-7).
 
-Part 7‑8 deals with the books kept by an Aboriginal and Torres Strait Islander corporation.
+Part 7-8 deals with the books kept by an Aboriginal and Torres Strait Islander corporation.
 
 * * *
 
-## Part 7‑2—Record keeping requirements
+## Part 7-2—Record keeping requirements
 
 ### Division 322—Record keeping requirements
 
-##### <a id="322‑1"></a>322‑1  What this Part is about
+##### <a id="322-1"></a>322-1  What this Part is about
 
 * * *
 
@@ -10350,23 +10349,23 @@ This Part sets out:
 
 Aboriginal and Torres Strait Islander corporation is required to keep (under
 
-Part 4‑5 the corporation is also required to keep a register of members
+Part 4-5 the corporation is also required to keep a register of
 
-and a register of former members); and</li>
+members and a register of former members); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      how the records are
 
 required to be kept.</li>
 
-It also deals with directors’ access to the records (see section 322‑25). Other persons’ access to records is dealt with in the following provisions:
+It also deals with directors’ access to the records (see section 322-25). Other persons’ access to records is dealt with in the following provisions:
 
 <li class="BoxList" style="margin-left:21.25pt">•      a member may apply to the
 
-Court for an order to inspect the records (see section 175‑1);</li>
+Court for an order to inspect the records (see section 175-1);</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the auditor has a right of
 
-access to the records (see section 339‑85);</li>
+access to the records (see section 339-85);</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      a controller of an
 
@@ -10374,9 +10373,9 @@ Aboriginal and Torres Strait Islander corporation’s property (for example, a
 
 receiver or receiver and manager) has a right of access to the records (see
 
-section 431 of the Corporations Act (as applied by section 516‑1 of
+section 431 of the Corporations Act (as applied by section 516-1
 
-this Act));</li>
+of this Act));</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the Registrar has certain
 
@@ -10384,11 +10383,11 @@ powers in relation to the records under Chapter 10.</li>
 
 * * *
 
-##### <a id="322‑5"></a>322‑5  Obligation to keep copy of constitution and records about officers, contact person, etc.
+##### <a id="322-5"></a>322-5  Obligation to keep copy of constitution and records about officers, contact person, etc.
 
                    An Aboriginal and Torres Strait Islander corporation must keep:
 
-                     (a)  an up‑to‑date copy of its constitution (incorporating changes to the constitution); and
+                     (a)  an up-to-date copy of its constitution (incorporating changes to the constitution); and
 
                      (b)  written records relating to:
 
@@ -10400,9 +10399,9 @@ powers in relation to the records under Chapter 10.</li>
 
                             (iv)  such other matters about the corporation as are set out in the regulations.
 
-Note:          An Aboriginal and Torres Strait Islander corporation is also required to maintain a register of members and a register of former members under Part 4‑5.
+Note:          An Aboriginal and Torres Strait Islander corporation is also required to maintain a register of members and a register of former members under Part 4-5.
 
-##### <a id="322‑10"></a>322‑10  Obligation to keep financial records
+##### <a id="322-10"></a>322-10  Obligation to keep financial records
 
              (1)  An Aboriginal and Torres Strait Islander corporation must keep written financial records that:
 
@@ -10414,7 +10413,7 @@ The obligation to keep financial records of transactions extends to transactions
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-Note:          Section 700‑1 defines **_financial records_**.
+Note:          Section 700-1 defines **_financial records_**.
 
 Period for which records must be retained
 
@@ -10428,7 +10427,7 @@ Strict liability offences
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="322‑15"></a>322‑15  Physical format
+##### <a id="322-15"></a>322-15  Physical format
 
              (1)  If the records that an Aboriginal and Torres Strait Islander corporation is required to keep under this Division are kept in electronic form, the records must be convertible into hard copy. Hard copy must be made available, within a reasonable time, to a person who is entitled to inspect the records.
 
@@ -10438,7 +10437,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="322‑20"></a>322‑20  Place where records are kept
+##### <a id="322-20"></a>322-20  Place where records are kept
 
              (1)  If an Aboriginal and Torres Strait Islander corporation is registered as a large corporation, the records that the corporation is required to keep under this Division must be kept at the corporation’s registered office.
 
@@ -10452,13 +10451,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="322‑25"></a>322‑25  Director access
+##### <a id="322-25"></a>322-25  Director access
 
 Personal access
 
              (1)  A director of an Aboriginal and Torres Strait Islander corporation has a right of access to the records that the corporation is required to keep under this Division.
 
-Note:          See also section 376‑1.
+Note:          See also section 376-1.
 
 Court order for inspection on director’s behalf
 
@@ -10472,11 +10471,11 @@ Court order for inspection on director’s behalf
 
                      (b)  an order limiting the right of a person who inspects the records to make copies in accordance with subsection (3).
 
-## Part 7‑3—Reporting requirements
+## Part 7-3—Reporting requirements
 
 ### Division 327—Overview of reporting obligations
 
-##### <a id="327‑1"></a>327‑1  Reports that an Aboriginal and Torres Strait Islander corporation must prepare and lodge
+##### <a id="327-1"></a>327-1  Reports that an Aboriginal and Torres Strait Islander corporation must prepare and lodge
 
              (1)  The reports that an Aboriginal and Torres Strait Islander corporation has to prepare are:
 
@@ -10488,29 +10487,29 @@ Court order for inspection on director’s behalf
 
              (2)  All these reports must be lodged with the Registrar (see Division 348).
 
-             (3)  A financial report may need to be audited (see paragraphs 333‑15(2)(a), 336‑1(7)(a) and 336‑5(7)(a)). If it does:
+             (3)  A financial report may need to be audited (see paragraphs 333-15(2)(a), 336-1(7)(a) and 336-5(7)(a)). If it does:
 
                      (a)  Division 339 makes provision in relation to the conduct of the audit; and
 
                      (b)  the auditor’s report must be lodged with the Registrar.
 
-Subdivision 339‑F allows regulations to be made in relation to the appointment and removal of auditors.
+Subdivision 339-F allows regulations to be made in relation to the appointment and removal of auditors.
 
              (4)  Financial reports, directors’ reports and auditors’ reports must be given to members on request (see Division 342).
 
-             (5)  Other reports that the corporation is required to prepare may also have to be given to members (see subsection 333‑15(3) and paragraphs 336‑1(6)(a) and 336‑5(6)(a)).
+             (5)  Other reports that the corporation is required to prepare may also have to be given to members (see subsection 333-15(3) and paragraphs 336-1(6)(a) and 336-5(6)(a)).
 
 ### Division 330—General report for each financial year
 
-##### <a id="330‑1"></a>330‑1  Aboriginal and Torres Strait Islander corporation must prepare a general report each financial year
+##### <a id="330-1"></a>330-1  Aboriginal and Torres Strait Islander corporation must prepare a general report each financial year
 
                    An Aboriginal and Torres Strait Islander corporation must prepare a general report in respect of each financial year.
 
-Note 1:       The corporation may be exempted from this requirement under Part 7‑4.
+Note 1:       The corporation may be exempted from this requirement under Part 7-4.
 
-Note 2:       Unless exempted, failure to lodge the general report with the Registrar is an offence (see section 330‑10).
+Note 2:       Unless exempted, failure to lodge the general report with the Registrar is an offence (see section 330-10).
 
-##### <a id="330‑5"></a>330‑5  Contents of general report
+##### <a id="330-5"></a>330-5  Contents of general report
 
              (1)  A general report must:
 
@@ -10540,13 +10539,13 @@ Note 2:       Unless exempted, failure to lodge the general report w
 
                      (c)  may require the general report to be prepared in a particular manner.
 
-##### <a id="330‑10"></a>330‑10  General report to be lodged with Registrar
+##### <a id="330-10"></a>330-10  General report to be lodged with Registrar
 
              (1)  The corporation must lodge the general report with the Registrar.
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note:          See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
              (2)  The time for lodgment is:
 
@@ -10560,7 +10559,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 333—Financial and other reports required by the regulations
 
-##### <a id="333‑1"></a>333‑1  What this Division is about
+##### <a id="333-1"></a>333-1  What this Division is about
 
 * * *
 
@@ -10568,11 +10567,11 @@ This Division deals with the financial reports, directors’ reports and other r
 
 The Registrar may increase the reporting requirements in respect of an Aboriginal and Torres Strait Islander corporation or a class of Aboriginal and Torres Strait Islander corporation (see Division 336). This may be either by way of requiring an additional report or by way of imposing additional requirements in relation to a report that the regulations require the corporation or corporations to prepare.
 
-The Registrar may exempt an Aboriginal and Torres Strait Islander corporation, or a class of Aboriginal and Torres Strait Islander corporation, from some or all of the reporting requirements (see Part 7‑4).
+The Registrar may exempt an Aboriginal and Torres Strait Islander corporation, or a class of Aboriginal and Torres Strait Islander corporation, from some or all of the reporting requirements (see Part 7-4).
 
 * * *
 
-##### <a id="333‑5"></a>333‑5  Regulations may require financial reports, directors’ reports and other reports to be prepared
+##### <a id="333-5"></a>333-5  Regulations may require financial reports, directors’ reports and other reports to be prepared
 
              (1)  The regulations may require reports to be prepared by:
 
@@ -10604,7 +10603,7 @@ First financial year
 
                      (b)  on the second 30 June next following that day if the corporation is registered between 1 January and 30 June.
 
-          (4A)  However, if the corporation is registered under Part 2‑3 as a result of an application made under Division 22, the first **_financial year_** for the corporation is the period that:
+          (4A)  However, if the corporation is registered under Part 2-3 as a result of an application made under Division 22, the first **_financial year_** for the corporation is the period that:
 
                      (a)  starts on:
 
@@ -10622,17 +10621,17 @@ Financial year after the first
 
                      (b)  be 12 months long.
 
-##### <a id="333‑10"></a>333‑10  Contents of reports
+##### <a id="333-10"></a>333-10  Contents of reports
 
 General
 
-             (1)  A section 333‑5 report must contain the information required by the regulations.
+             (1)  A section 333-5 report must contain the information required by the regulations.
 
              (2)  Regulations made for the purposes of subsection (1) may impose a requirement by applying, adopting or incorporating (with or without modification) provisions of the accounting standards as in force from time to time. This subsection does not limit subsection (1).
 
 Financial reports
 
-             (3)  If a section 333‑5 report is a financial report for a financial year, regulations made for the purposes of subsection (1) may impose one or more of the following requirements:
+             (3)  If a section 333-5 report is a financial report for a financial year, regulations made for the purposes of subsection (1) may impose one or more of the following requirements:
 
                      (a)  a requirement that the financial report is to consist of the financial statements, financial notes and declarations specified in:
 
@@ -10650,15 +10649,15 @@ Financial reports
 
 This subsection does not limit subsection (1).
 
-##### <a id="333‑15"></a>333‑15  Other requirements in relation to report
+##### <a id="333-15"></a>333-15  Other requirements in relation to report
 
 Manner of preparing report
 
-             (1)  The regulations may require a section 333‑5 report to be prepared in the manner required by the regulations.
+             (1)  The regulations may require a section 333-5 report to be prepared in the manner required by the regulations.
 
 Manner of preparing financial report
 
-             (2)  If a section 333‑5 report is a financial report, regulations made for the purposes of subsection (1) of this section may do one or more of the following:
+             (2)  If a section 333-5 report is a financial report, regulations made for the purposes of subsection (1) of this section may do one or more of the following:
 
                      (a)  require that the financial report, or a part of it, be audited;
 
@@ -10688,7 +10687,7 @@ Note:          Paragraph (a)—Division 339 deals with the
 
 Giving report to members
 
-             (3)  If a section 333‑5 report is not a financial report or a directors’ report for a financial year, the regulations may:
+             (3)  If a section 333-5 report is not a financial report or a directors’ report for a financial year, the regulations may:
 
                      (a)  require the corporation to give a copy of the report to its members (whether generally or on request); and
 
@@ -10696,17 +10695,17 @@ Giving report to members
 
 Note:          An Aboriginal and Torres Strait Islander corporation is required to provide copies of a financial report or a directors’ report to members on request under Division 342.
 
-##### <a id="333‑20"></a>333‑20  Aboriginal and Torres Strait Islander corporation to obtain audit report if audit required
+##### <a id="333-20"></a>333-20  Aboriginal and Torres Strait Islander corporation to obtain audit report if audit required
 
                    If:
 
-                     (a)  a section 333‑5 report in relation to an Aboriginal and Torres Strait Islander corporation is a financial report; and
+                     (a)  a section 333-5 report in relation to an Aboriginal and Torres Strait Islander corporation is a financial report; and
 
                      (b)  the corporation is required by:
 
-                              (i)  regulations made for the purposes of section 333‑15; or
+                              (i)  regulations made for the purposes of section 333-15; or
 
-                             (ii)  a determination by the Registrar under section 336‑1 or 336‑5;
+                             (ii)  a determination by the Registrar under section 336-1 or 336-5;
 
                             to have the report, or a part of the report, audited;
 
@@ -10714,25 +10713,25 @@ the corporation must obtain an auditor’s report in relation to the report or t
 
 ### Division 336—Registrar may increase reporting requirements
 
-##### <a id="336‑1"></a>336‑1  Registrar may require additional report, or otherwise increase reporting requirements, for particular corporation
+##### <a id="336-1"></a>336-1  Registrar may require additional report, or otherwise increase reporting requirements, for particular corporation
 
 Additional report or additional reporting requirements
 
              (1)  The Registrar may:
 
-                     (a)  determine, in writing, that a particular Aboriginal and Torres Strait Islander corporation must prepare a report in addition to any general report or section 333‑5 reports the corporation is required to prepare; or
+                     (a)  determine, in writing, that a particular Aboriginal and Torres Strait Islander corporation must prepare a report in addition to any general report or section 333-5 reports the corporation is required to prepare; or
 
                      (b)  determine, in writing, that a particular Aboriginal and Torres Strait Islander corporation must:
 
-                              (i)  include particular additional information in a general report or section 333‑5 report; or
+                              (i)  include particular additional information in a general report or section 333-5 report; or
 
-                             (ii)  meet particular additional requirements in relation to the manner in which a general report or section 333‑5 report is to be prepared; or
+                             (ii)  meet particular additional requirements in relation to the manner in which a general report or section 333-5 report is to be prepared; or
 
-                            (iii)  provide a general report or section 333‑5 report to its members (whether generally or on request); or
+                            (iii)  provide a general report or section 333-5 report to its members (whether generally or on request); or
 
-                            (iv)  provide a general report or section 333‑5 report to its members within the time, and in the manner, specified in the determination.
+                            (iv)  provide a general report or section 333-5 report to its members within the time, and in the manner, specified in the determination.
 
-Note:          See Part 7‑5 for the criteria the Registrar must apply in deciding whether to make a determination under this subsection.
+Note:          See Part 7-5 for the criteria the Registrar must apply in deciding whether to make a determination under this subsection.
 
              (2)  A determination under subsection (1) is not a legislative instrument.
 
@@ -10762,7 +10761,7 @@ This subsection does not limit subsection (3).
 
 Additional requirements for financial report
 
-             (7)  If a section 333‑5 report is a financial report, the Registrar may determine under paragraph (1)(b) that one or more of the following requirements must be met in relation to the report:
+             (7)  If a section 333-5 report is a financial report, the Registrar may determine under paragraph (1)(b) that one or more of the following requirements must be met in relation to the report:
 
                      (a)  a requirement that the report, or a part of it, be audited;
 
@@ -10792,25 +10791,25 @@ Notice of determination
 
            (11)  The Registrar must give the corporation written notice of the making, revocation, variation or suspension of the determination.
 
-##### <a id="336‑5"></a>336‑5  Registrar may require additional reports, or otherwise increase reporting requirements, for class of corporation
+##### <a id="336-5"></a>336-5  Registrar may require additional reports, or otherwise increase reporting requirements, for class of corporation
 
 Additional reports or additional reporting requirement
 
              (1)  The Registrar may:
 
-                     (a)  make a determination in writing requiring a particular class of Aboriginal and Torres Strait Islander corporation to prepare a report in addition to any general report or section 333‑5 report the corporations are required to prepare; or
+                     (a)  make a determination in writing requiring a particular class of Aboriginal and Torres Strait Islander corporation to prepare a report in addition to any general report or section 333-5 report the corporations are required to prepare; or
 
                      (b)  make a determination in writing requiring a particular class of Aboriginal and Torres Strait Islander corporation to:
 
-                              (i)  include particular additional information in a general report or section 333‑5 report; or
+                              (i)  include particular additional information in a general report or section 333-5 report; or
 
-                             (ii)  meet particular additional requirements in relation to the manner in which a general report or section 333‑5 report is prepared; or
+                             (ii)  meet particular additional requirements in relation to the manner in which a general report or section 333-5 report is prepared; or
 
-                            (iii)  provide a general report or section 333‑5 report to their members (whether generally or on request); or
+                            (iii)  provide a general report or section 333-5 report to their members (whether generally or on request); or
 
-                            (iv)  provide a general report or section 333‑5 report to their members within the time, and in the manner, specified in the determination.
+                            (iv)  provide a general report or section 333-5 report to their members within the time, and in the manner, specified in the determination.
 
-Note:          See Part 7‑5 for the criteria the Registrar must apply in deciding whether to make a determination under this subsection.
+Note:          See Part 7-5 for the criteria the Registrar must apply in deciding whether to make a determination under this subsection.
 
              (2)  A determination under subsection (1) is a legislative instrument.
 
@@ -10840,7 +10839,7 @@ This subsection does not limit subsection (3).
 
 Additional requirements for financial report
 
-             (7)  If the section 333‑5 report is a financial report, the Registrar may determine under paragraph (1)(b) that one or more of the following requirements are to be met in relation to the report:
+             (7)  If the section 333-5 report is a financial report, the Registrar may determine under paragraph (1)(b) that one or more of the following requirements are to be met in relation to the report:
 
                      (a)  a requirement that the financial report, or a part of it, be audited;
 
@@ -10874,23 +10873,23 @@ Notice of determinations
 
 ### Division 339—Audit of financial reports
 
-#### Subdivision 339‑A—Introduction
+#### Subdivision 339-A—Introduction
 
-##### <a id="339‑1"></a>339‑1  What this Division is about
+##### <a id="339-1"></a>339-1  What this Division is about
 
 * * *
 
-An Aboriginal and Torres Strait Islander corporation may be required to have its financial report for a financial year audited (see subsections 333‑15(1), 336‑1(7) and 336‑5(7)).
+An Aboriginal and Torres Strait Islander corporation may be required to have its financial report for a financial year audited (see subsections 333-15(1), 336-1(7) and 336-5(7)).
 
 This Division deals with the conduct of the audit of the financial report and the preparation of the auditor’s report in relation to the financial report.
 
-The auditor’s report must cover the matters set out in section 339‑40.
+The auditor’s report must cover the matters set out in section 339-40.
 
-Auditors are required to be independent of the corporations that they are auditing (see Subdivision 339‑D). Auditors also have certain powers and duties (see Subdivision 339‑E).
+Auditors are required to be independent of the corporations that they are auditing (see Subdivision 339-D). Auditors also have certain powers and duties (see Subdivision 339-E).
 
 * * *
 
-##### <a id="339‑5"></a>339‑5  Application of Division
+##### <a id="339-5"></a>339-5  Application of Division
 
              (1)  This Division applies if:
 
@@ -10900,33 +10899,33 @@ Auditors are required to be independent of the corporations that they are auditi
 
                               (i)  this Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5.
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5.
 
              (2)  If only a part of the report is required to be audited, this Division applies as if references to the financial report were references to that part of the financial report.
 
-##### <a id="339‑10"></a>339‑10  When financial report required to comply with accounting standards
+##### <a id="339-10"></a>339-10  When financial report required to comply with accounting standards
 
                    A financial report is **_required to comply with the accounting standards_** if one of the following requires the report to comply with the accounting standards:
 
                      (a)  an applied provision of the Corporations Act;
 
-                     (b)  regulations made for the purposes of section 333‑15;
+                     (b)  regulations made for the purposes of section 333-15;
 
-                     (c)  a determination by the Registrar under section 336‑1 or 336‑5.
+                     (c)  a determination by the Registrar under section 336-1 or 336-5.
 
-##### <a id="339‑15"></a>339‑15  When audit required to be conducted in accordance with auditing standards
+##### <a id="339-15"></a>339-15  When audit required to be conducted in accordance with auditing standards
 
                    An audit is **_required to be conducted in accordance with the auditing standards_** if one of the following requires the audit to be conducted in accordance with the auditing standards:
 
                      (a)  an applied provision of the Corporations Act;
 
-                     (b)  regulations made for the purposes of section 333‑15;
+                     (b)  regulations made for the purposes of section 333-15;
 
-                     (c)  a determination by the Registrar under section 336‑1 or 336‑5.
+                     (c)  a determination by the Registrar under section 336-1 or 336-5.
 
-##### <a id="339‑20"></a>339‑20  Lead and review auditors
+##### <a id="339-20"></a>339-20  Lead and review auditors
 
 Lead auditor
 
@@ -10936,7 +10935,7 @@ Review auditor
 
              (2)  If an individual auditor, audit firm or audit company conducts an audit of a financial report of an Aboriginal and Torres Strait Islander corporation, the **_review auditor_** for the audit is the registered company auditor (if any) who is primarily responsible to the individual auditor, the audit firm or the audit company for reviewing the conduct of the audit.
 
-##### <a id="339‑25"></a>339‑25  Professional members of the audit team
+##### <a id="339-25"></a>339-25  Professional members of the audit team
 
                    If an individual auditor, audit firm or audit company conducts an audit of a financial report of an Aboriginal and Torres Strait Islander corporation, the **_professional members of the audit team_** are:
 
@@ -10952,9 +10951,9 @@ Review auditor
 
                      (c)  any other person who is in a position to directly influence the outcome of the audit because of the role they play in the design, planning, management, supervision or oversight of the audit.
 
-#### Subdivision 339‑B—Conduct of the audit
+#### Subdivision 339-B—Conduct of the audit
 
-##### <a id="339‑30"></a>339‑30  Auditor to form opinion
+##### <a id="339-30"></a>339-30  Auditor to form opinion
 
                    The auditor of a financial report must form an opinion about:
 
@@ -10962,9 +10961,9 @@ Review auditor
 
                               (i)  this Act; and
 
-                             (ii)  any applicable regulations made for the purposes of sections 333‑10 and 333‑15; and
+                             (ii)  any applicable regulations made for the purposes of sections 333-10 and 333-15; and
 
-                            (iii)  any applicable determinations made by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  any applicable determinations made by the Registrar under section 336-1 or 336-5; and
 
                      (b)  whether the auditor has been given all information, explanations and assistance necessary for the conduct of the audit; and
 
@@ -10974,7 +10973,7 @@ Review auditor
 
                      (e)  any other matter specified in the regulations.
 
-##### <a id="339‑35"></a>339‑35  Auditor obligations in relation to auditing standards
+##### <a id="339-35"></a>339-35  Auditor obligations in relation to auditing standards
 
              (1)  This section applies if the audit of a financial report is required to be conducted in accordance with the auditing standards.
 
@@ -10990,15 +10989,15 @@ Review auditor
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="339‑40"></a>339‑40  Auditor’s report
+##### <a id="339-40"></a>339-40  Auditor’s report
 
              (1)  The auditor of a financial report must prepare a report for the corporation’s members on whether the auditor is of the opinion that the financial report is in accordance with:
 
                      (a)  this Act; and
 
-                     (b)  any applicable regulations made for the purposes of sections 333‑10 and 333‑15; and
+                     (b)  any applicable regulations made for the purposes of sections 333-10 and 333-15; and
 
-                     (c)  any applicable determinations made by the Registrar under section 336‑1 or 336‑5.
+                     (c)  any applicable determinations made by the Registrar under section 336-1 or 336-5.
 
 If not of that opinion, the auditor’s report must say why.
 
@@ -11010,7 +11009,7 @@ If not of that opinion, the auditor’s report must say why.
 
                      (b)  the auditor is of the opinion that the financial report does not comply with an accounting standard;
 
-the auditor’s report must, to the extent it is practicable to do so, quantify the effect that non‑compliance has on the financial report. If it is not practicable to quantify the effect fully, the report must say why.
+the auditor’s report must, to the extent it is practicable to do so, quantify the effect that non-compliance has on the financial report. If it is not practicable to quantify the effect fully, the report must say why.
 
                     Penalty:  50 penalty units.
 
@@ -11018,7 +11017,7 @@ the auditor’s report must, to the extent it is practicable to do so, quantify 
 
                      (a)  any defect or irregularity in the financial report; and
 
-                     (b)  any deficiency, failure or shortcoming in respect of the matters referred to in paragraph 339‑30(b), (c) or (d).
+                     (b)  any deficiency, failure or shortcoming in respect of the matters referred to in paragraph 339-30(b), (c) or (d).
 
                     Penalty:  50 penalty units.
 
@@ -11036,19 +11035,19 @@ the auditor’s report must, to the extent it is practicable to do so, quantify 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="339‑45"></a>339‑45  Other requirements in relation to auditor’s report
+##### <a id="339-45"></a>339-45  Other requirements in relation to auditor’s report
 
                    The auditor’s report must be prepared in the manner required by the regulations.
 
-##### <a id="339‑50"></a>339‑50  Auditor’s independence declaration
+##### <a id="339-50"></a>339-50  Auditor’s independence declaration
 
 Application of section
 
              (1)  This section applies if:
 
-                     (a)  section 339‑75 applies in relation to the audit of a financial report of the Aboriginal and Torres Strait Islander corporation; or
+                     (a)  section 339-75 applies in relation to the audit of a financial report of the Aboriginal and Torres Strait Islander corporation; or
 
-                     (b)  regulations made for the purposes of section 339‑80 provide for auditor independence requirements to be met in relation to the audit of a financial report of the Aboriginal and Torres Strait Islander corporation.
+                     (b)  regulations made for the purposes of section 339-80 provide for auditor independence requirements to be met in relation to the audit of a financial report of the Aboriginal and Torres Strait Islander corporation.
 
 Contravention by individual auditor
 
@@ -11104,7 +11103,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  must be signed by the person making the declaration.
 
-Self‑incrimination
+Self-incrimination
 
              (7)  An individual is not excused from giving a declaration under subsection (2) or (4) on the ground that giving the declaration might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -11118,11 +11117,11 @@ Use/derivative use indemnity
 
 is admissible in evidence against the individual in any criminal proceedings, or in any proceedings that would expose the person to a penalty, other than:
 
-                     (c)  proceedings for an offence against section 561‑1 or 561‑5 in relation to the declaration; or
+                     (c)  proceedings for an offence against section 561-1 or 561-5 in relation to the declaration; or
 
                      (d)  proceedings for an offence against section 137.1 or 137.2 of the _Criminal Code_ (false or misleading information or documents) in relation to the declaration.
 
-##### <a id="339‑55"></a>339‑55  Audit working papers to be retained for 7 years
+##### <a id="339-55"></a>339-55  Audit working papers to be retained for 7 years
 
 Application of section
 
@@ -11222,9 +11221,9 @@ Audit working papers kept in electronic form
 
            (10)  For the purposes of this section, if audit working papers are in electronic form they are taken to be retained only if they are convertible into hard copy.
 
-#### Subdivision 339‑C—Qualification, experience and registration
+#### Subdivision 339-C—Qualification, experience and registration
 
-##### <a id="339‑60"></a>339‑60  Qualification and experience: individual auditor
+##### <a id="339-60"></a>339-60  Qualification and experience: individual auditor
 
              (1)  An individual contravenes this section if:
 
@@ -11232,9 +11231,9 @@ Audit working papers kept in electronic form
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that, if the auditor is an individual auditor, the auditor must have particular qualification or experience; and
 
@@ -11250,9 +11249,9 @@ Audit working papers kept in electronic form
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the individual participates in that capacity in the conduct of the audit of the financial report; and
 
@@ -11260,7 +11259,7 @@ Audit working papers kept in electronic form
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-##### <a id="339‑65"></a>339‑65  Qualification and experience: audit firm
+##### <a id="339-65"></a>339-65  Qualification and experience: audit firm
 
              (1)  A person (the **_defendant_**) contravenes this subsection if:
 
@@ -11268,9 +11267,9 @@ Audit working papers kept in electronic form
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that, if the auditor is an audit firm, the audit firm must have a member or members who have particular qualifications or experience; and
 
@@ -11290,9 +11289,9 @@ Audit working papers kept in electronic form
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that, if the auditor is an audit firm, the audit firm must have a member or members who have particular qualifications or experience; and
 
@@ -11318,7 +11317,7 @@ Note 2:       Subsection (4) provides a defence.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
 
-##### <a id="339‑70"></a>339‑70  Registration requirements for appointment of company as auditor
+##### <a id="339-70"></a>339-70  Registration requirements for appointment of company as auditor
 
              (1)  A company contravenes this subsection if:
 
@@ -11326,9 +11325,9 @@ Note:          A defendant bears an evidential burden in relat
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that, if the auditor is a company, the company must be an authorised audit company; and
 
@@ -11344,9 +11343,9 @@ Note:          A defendant bears an evidential burden in relat
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that, if the auditor is a company, the company must be an authorised audit company; and
 
@@ -11366,9 +11365,9 @@ Note:          A defendant bears an evidential burden in relat
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that, if the auditor is a company, the company must be an authorised audit company; and
 
@@ -11394,9 +11393,9 @@ Note 2:       Subsection (5) provides a defence.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
 
-#### Subdivision 339‑D—Auditor independence
+#### Subdivision 339-D—Auditor independence
 
-##### <a id="339‑75"></a>339‑75  Independence of auditors: application of Corporations Act auditor independence provisions
+##### <a id="339-75"></a>339-75  Independence of auditors: application of Corporations Act auditor independence provisions
 
 Application of section
 
@@ -11406,9 +11405,9 @@ Application of section
 
                               (i)  an applied provision of the Corporations Act;
 
-                             (ii)  regulations made for the purposes of section 333‑15;
+                             (ii)  regulations made for the purposes of section 333-15;
 
-                            (iii)  a determination by the Registrar under section 336‑1 or 336‑5; and
+                            (iii)  a determination by the Registrar under section 336-1 or 336-5; and
 
                      (b)  the requirement is that the auditor be:
 
@@ -11442,9 +11441,9 @@ The Corporations Act auditor independence provisions apply with the modification
 
                      (c)  the regulations made under that Act for the purposes of Part 2M.4 of that Act and the provisions referred to in paragraph (b).
 
-##### <a id="339‑80"></a>339‑80  Independence of auditors: alternative independence requirements
+##### <a id="339-80"></a>339-80  Independence of auditors: alternative independence requirements
 
-             (1)  This section applies in relation to the audit of a financial report of an Aboriginal and Torres Strait Islander corporation if section 339‑75 does not apply to the audit.
+             (1)  This section applies in relation to the audit of a financial report of an Aboriginal and Torres Strait Islander corporation if section 339-75 does not apply to the audit.
 
              (2)  The regulations may provide for auditor independence requirements to be met in relation to the audit.
 
@@ -11456,9 +11455,9 @@ The Corporations Act auditor independence provisions apply with the modification
 
              (4)  Regulations made for the purposes of paragraph (3)(b) must not prescribe penalties exceeding 50 penalty units for contraventions of the regulations.
 
-#### Subdivision 339‑E—Auditor’s powers and duties
+#### Subdivision 339-E—Auditor’s powers and duties
 
-##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
+##### <a id="339-85"></a>339-85  Auditor’s power to obtain information
 
                    The auditor:
 
@@ -11468,7 +11467,7 @@ The Corporations Act auditor independence provisions apply with the modification
 
 A request under paragraph (b) must be a reasonable one.
 
-##### <a id="339‑90"></a>339‑90  Reporting to the Registrar
+##### <a id="339-90"></a>339-90  Reporting to the Registrar
 
 Contravention by individual auditor
 
@@ -11552,7 +11551,7 @@ Significant contraventions
 
                      (c)  any other relevant matter.
 
-             (5)  Without limiting paragraph (4)(a), a penalty provided for in relation to a contravention of a provision of Part 7‑2 or 7‑3, includes a penalty imposed on a director, because of the operation of  section 363‑1, for failing to take reasonable steps to comply with, or to secure compliance with, that provision.
+             (5)  Without limiting paragraph (4)(a), a penalty provided for in relation to a contravention of a provision of Part 7-2 or 7-3, includes a penalty imposed on a director, because of the operation of  section 363-1, for failing to take reasonable steps to comply with, or to secure compliance with, that provision.
 
 Person involved in an audit
 
@@ -11568,25 +11567,25 @@ Person involved in an audit
 
                      (e)  any other person involved in the conduct of the audit.
 
-##### <a id="339‑95"></a>339‑95  Assisting auditor
+##### <a id="339-95"></a>339-95  Assisting auditor
 
              (1)  An officer of an Aboriginal and Torres Strait Islander corporation must:
 
                      (a)  allow the auditor access to the books of the corporation; and
 
-                     (b)  give the auditor any information, explanation or assistance required under section 339‑85.
+                     (b)  give the auditor any information, explanation or assistance required under section 339-85.
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-Note:          **_Books_** include registers and documents generally (not only the accounting “books”) (see the definition of **_books_** in section 700‑1).
+Note:          **_Books_** include registers and documents generally (not only the accounting “books”) (see the definition of **_books_** in section 700-1).
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-#### Subdivision 339‑F—Appointment and removal of auditors
+#### Subdivision 339-F—Appointment and removal of auditors
 
-##### <a id="339‑100"></a>339‑100  Appointment and removal of auditors
+##### <a id="339-100"></a>339-100  Appointment and removal of auditors
 
              (1)  The regulations may make provision in relation to the appointment and removal of auditors for Aboriginal and Torres Strait Islander corporations.
 
@@ -11604,7 +11603,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 342—Financial reporting to members
 
-##### <a id="342‑1"></a>342‑1  What this Division is about
+##### <a id="342-1"></a>342-1  What this Division is about
 
 * * *
 
@@ -11614,7 +11613,7 @@ The corporation must also give members, on request, a copy of the auditor’s re
 
 * * *
 
-##### <a id="342‑5"></a>342‑5  Annual financial reporting to members
+##### <a id="342-5"></a>342-5  Annual financial reporting to members
 
              (1)  An Aboriginal and Torres Strait Islander corporation that is required to prepare:
 
@@ -11678,17 +11677,17 @@ the corporation may send a report referred to in that subsection to the member b
 
              (6)  Subsections (4) and (5) do not limit subsection (1) or (2).
 
-##### <a id="342‑10"></a>342‑10  Deadline for giving member copy of report
+##### <a id="342-10"></a>342-10  Deadline for giving member copy of report
 
-                   If a member of an Aboriginal and Torres Strait Islander corporation requests the corporation under subsections 342‑5(3A) and (3B) to give the member a copy of a report in relation to a financial year, the corporation must give the member the copy of the report within 14 days after:
+                   If a member of an Aboriginal and Torres Strait Islander corporation requests the corporation under subsections 342-5(3A) and (3B) to give the member a copy of a report in relation to a financial year, the corporation must give the member the copy of the report within 14 days after:
 
-                     (a)  the lodgment of the report under section 348‑1 if the request is made before the report is lodged; and
+                     (a)  the lodgment of the report under section 348-1 if the request is made before the report is lodged; and
 
-                     (b)  the request is made if the request is made on or after the lodgment of the report under section 348‑1.
+                     (b)  the request is made if the request is made on or after the lodgment of the report under section 348-1.
 
 ### Division 345—Consolidated financial report
 
-##### <a id="345‑1"></a>345‑1  Directors and officers of controlled entity to give information
+##### <a id="345-1"></a>345-1  Directors and officers of controlled entity to give information
 
              (1)  If an Aboriginal and Torres Strait Islander corporation has to prepare a consolidated financial report, a director or officer of a controlled entity must give the corporation all information requested that is necessary to prepare the consolidated financial report.
 
@@ -11698,7 +11697,7 @@ the corporation may send a report referred to in that subsection to the member b
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="345‑5"></a>345‑5  Auditor’s power to obtain information from controlled entity
+##### <a id="345-5"></a>345-5  Auditor’s power to obtain information from controlled entity
 
              (1)  An auditor who audits a consolidated financial report:
 
@@ -11710,13 +11709,13 @@ A request under paragraph (b) must be a reasonable one.
 
              (2)  The information, explanations or other assistance required under paragraph (1)(b) is to be given at the expense of the Aboriginal and Torres Strait Islander corporation whose financial report is being audited.
 
-##### <a id="345‑10"></a>345‑10  Controlled entity to assist auditor
+##### <a id="345-10"></a>345-10  Controlled entity to assist auditor
 
              (1)  If an Aboriginal and Torres Strait Islander corporation has to prepare a consolidated financial report, an officer or auditor of a controlled entity must:
 
                      (a)  allow the auditor for the corporation access to the controlled entity’s books; and
 
-                     (b)  give the auditor any information, explanation or assistance required under section 345‑5.
+                     (b)  give the auditor any information, explanation or assistance required under section 345-5.
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
@@ -11724,19 +11723,19 @@ A request under paragraph (b) must be a reasonable one.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="345‑15"></a>345‑15  Application of sections 345‑1 to 345‑10 to entity that has ceased to be controlled
+##### <a id="345-15"></a>345-15  Application of sections 345-1 to 345-10 to entity that has ceased to be controlled
 
-                   Sections 345‑1, 345‑5 and 345‑10 apply to the preparation or audit of a financial report that covers a controlled entity even if the entity is no longer controlled by the Aboriginal and Torres Strait Islander corporation whose financial report is being prepared or audited.
+                   Sections 345-1, 345-5 and 345-10 apply to the preparation or audit of a financial report that covers a controlled entity even if the entity is no longer controlled by the Aboriginal and Torres Strait Islander corporation whose financial report is being prepared or audited.
 
 ### Division 348—Lodging reports
 
-##### <a id="348‑1"></a>348‑1  Lodging annual reports with the Registrar
+##### <a id="348-1"></a>348-1  Lodging annual reports with the Registrar
 
              (1)  An Aboriginal and Torres Strait Islander corporation that has to prepare or obtain a report under this Part (other than a general report) must lodge the report with the Registrar.
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
+Note:          See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
@@ -11754,11 +11753,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the time provided for by:
 
-                              (i)  the regulations if the report is any other section 333‑5 report; or
+                              (i)  the regulations if the report is any other section 333-5 report; or
 
-                             (ii)  the determination by the Registrar under section 336‑1 or 336‑5 if the report is not a section 333‑5 report.
+                             (ii)  the determination by the Registrar under section 336-1 or 336-5 if the report is not a section 333-5 report.
 
-##### <a id="348‑5"></a>348‑5  Relodgment if report amended after lodgment
+##### <a id="348-5"></a>348-5  Relodgment if report amended after lodgment
 
              (1)  If a financial report or a directors’ report is amended after it is lodged with the Registrar, the corporation must:
 
@@ -11780,11 +11779,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-## Part 7‑4—Registrar may exempt from record keeping and reporting requirements
+## Part 7-4—Registrar may exempt from record keeping and reporting requirements
 
 ### Division 353—Registrar may exempt from record keeping and reporting requirements
 
-##### <a id="353‑1"></a>353‑1  What this Part is about
+##### <a id="353-1"></a>353-1  What this Part is about
 
 * * *
 
@@ -11792,9 +11791,9 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
 * * *
 
-##### <a id="353‑3"></a>353‑3  Exemption from the provisions of this Chapter
+##### <a id="353-3"></a>353-3  Exemption from the provisions of this Chapter
 
-             (1)  On an application made in accordance with subsection (2) in relation to an Aboriginal and Torres Strait Islander corporation, the Registrar may make a determination in writing exempting any of the following from the provisions of Part 7‑2 or 7‑3, or of regulations made for the purposes of Part 7‑2 or 7‑3, that are specified in the Registrar’s determination:
+             (1)  On an application made in accordance with subsection (2) in relation to an Aboriginal and Torres Strait Islander corporation, the Registrar may make a determination in writing exempting any of the following from the provisions of Part 7-2 or 7-3, or of regulations made for the purposes of Part 7-2 or 7-3, that are specified in the Registrar’s determination:
 
                      (a)  the directors;
 
@@ -11802,7 +11801,7 @@ The Registrar may exempt an Aboriginal and Torres Strait Islander corporation fr
 
                      (c)  the auditor.
 
-Note:          For the criteria for making determinations under this section, see Part 7‑5.
+Note:          For the criteria for making determinations under this section, see Part 7-5.
 
              (2)  The application must:
 
@@ -11826,11 +11825,11 @@ Note:          For the criteria for making determinations unde
 
              (6)  A determination under subsection (1), or a revocation, variation or suspension under subsection (4), is not a legislative instrument.
 
-##### <a id="353‑5"></a>353‑5  Registrar may make determination even if application is incomplete
+##### <a id="353-5"></a>353-5  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 353‑3(2), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 353-3(2), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
-##### <a id="353‑10"></a>353‑10  Registrar’s power to make determinations
+##### <a id="353-10"></a>353-10  Registrar’s power to make determinations
 
              (1)  The Registrar may determine in writing that:
 
@@ -11838,9 +11837,9 @@ Note:          For the criteria for making determinations unde
 
                      (b)  the directors of a specified Aboriginal and Torres Strait Islander corporation or of a specified class of Aboriginal and Torres Strait Islander corporation (as the case may be);
 
-are exempted from the provisions of Part 7‑2 or 7‑3, or of regulations made for the purposes of Part 7‑2 or 7‑3, that are specified in the Registrar’s determination.
+are exempted from the provisions of Part 7-2 or 7-3, or of regulations made for the purposes of Part 7-2 or 7-3, that are specified in the Registrar’s determination.
 
-Note:          For the criteria for making determinations under this section, see Part 7‑5.
+Note:          For the criteria for making determinations under this section, see Part 7-5.
 
              (2)  The determination may:
 
@@ -11868,11 +11867,11 @@ is a legislative instrument.
 
 is not a legislative instrument.
 
-## Part 7‑5—Criteria for determining level of reporting requirements
+## Part 7-5—Criteria for determining level of reporting requirements
 
 ### Division 358—Criteria for determining level of reporting requirements
 
-##### <a id="358‑1"></a>358‑1  What this Part is about
+##### <a id="358-1"></a>358-1  What this Part is about
 
 * * *
 
@@ -11880,7 +11879,7 @@ This Part sets out the criteria that the Registrar must apply in deciding whethe
 
 * * *
 
-##### <a id="358‑5"></a>358‑5  Criteria for determinations about level of reporting requirements
+##### <a id="358-5"></a>358-5  Criteria for determinations about level of reporting requirements
 
 Criteria
 
@@ -11926,59 +11925,59 @@ Unreasonable burden
 
                      (c)  the nature and extent of the liabilities of the corporation or corporations.
 
-##### <a id="358‑10"></a>358‑10  Reporting obligations
+##### <a id="358-10"></a>358-10  Reporting obligations
 
-             (1)  The **_current reporting obligations_** are the obligations that the corporation or corporations would have under Part 7‑2 or 7‑3, or under regulations made for the purposes of Part 7‑2 or 7‑3, if the determination were not to be made.
+             (1)  The **_current reporting obligations_** are the obligations that the corporation or corporations would have under Part 7-2 or 7-3, or under regulations made for the purposes of Part 7-2 or 7-3, if the determination were not to be made.
 
-             (2)  The **_proposed reporting obligations_** are the obligations that the corporation or corporations would have under Part 7‑2 or 7‑3, or under regulations made for the purposes of Part 7‑2 or 7‑3, if the determination were to be made.
+             (2)  The **_proposed reporting obligations_** are the obligations that the corporation or corporations would have under Part 7-2 or 7-3, or under regulations made for the purposes of Part 7-2 or 7-3, if the determination were to be made.
 
-## Part 7‑6—Sanctions for contraventions of record keeping and reporting requirements
+## Part 7-6—Sanctions for contraventions of record keeping and reporting requirements
 
 ### Division 363—Sanctions for contraventions of record keeping and reporting requirements
 
-##### <a id="363‑1"></a>363‑1  Sanctions
+##### <a id="363-1"></a>363-1  Sanctions
 
-             (1)  A director of an Aboriginal and Torres Strait Islander corporation contravenes this section if he or she fails to take all reasonable steps to comply with, or to secure compliance with, Parts 7‑2 and 7‑3.
+             (1)  A director of an Aboriginal and Torres Strait Islander corporation contravenes this section if he or she fails to take all reasonable steps to comply with, or to secure compliance with, Parts 7-2 and 7-3.
 
-Note:          This section is a civil penalty provision (see section 386‑1).
+Note:          This section is a civil penalty provision (see section 386-1).
 
              (2)  A person commits an offence if he or she contravenes subsection (1) and the contravention is dishonest.
 
                     Penalty:  2,000 penalty units or imprisonment for 5 years, or both.
 
-             (3)  Subsection (1) does not apply to section 339‑85, 339‑95, 345‑5 or 345‑10.
+             (3)  Subsection (1) does not apply to section 339-85, 339-95, 345-5 or 345-10.
 
              (4)  This section does not affect the application of the provisions of this Chapter to a director as an officer.
 
-## Part 7‑7—Modifications of record keeping and reporting requirements by regulations
+## Part 7-7—Modifications of record keeping and reporting requirements by regulations
 
 ### Division 368—Modifications of record keeping and reporting requirements by regulations
 
-##### <a id="368‑1"></a>368‑1  Modification by regulations
+##### <a id="368-1"></a>368-1  Modification by regulations
 
-                   The regulations may modify the operation of Parts 7‑2 and 7‑3 in relation to:
+                   The regulations may modify the operation of Parts 7-2 and 7-3 in relation to:
 
                      (a)  a specified Aboriginal and Torres Strait Islander corporation; or
 
                      (b)  all Aboriginal and Torres Strait Islander corporations of a specified class.
 
-## Part 7‑8—Books
+## Part 7-8—Books
 
 ### Division 373—Introduction
 
-##### <a id="373‑1"></a>373‑1  What this Part is about
+##### <a id="373-1"></a>373-1  What this Part is about
 
 * * *
 
-If an Aboriginal and Torres Strait Islander corporation is required by this Act to keep books, the books must be kept at certain places and made available for inspection by the public (see section 376‑1).
+If an Aboriginal and Torres Strait Islander corporation is required by this Act to keep books, the books must be kept at certain places and made available for inspection by the public (see section 376-1).
 
-Books, and copies of them, have a certain evidentiary value (see section 376‑30).
+Books, and copies of them, have a certain evidentiary value (see section 376-30).
 
 * * *
 
 ### Division 376—When and where may books be inspected?
 
-##### <a id="376‑1"></a>376‑1  Inspection of books
+##### <a id="376-1"></a>376-1  Inspection of books
 
              (1)  This section applies if:
 
@@ -12006,7 +12005,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="376‑5"></a>376‑5  Translations of instruments and books
+##### <a id="376-5"></a>376-5  Translations of instruments and books
 
              (1)  If:
 
@@ -12052,19 +12051,19 @@ the corporation must give the person (free of charge) an English translation of 
 
                     Penalty:  5 penalty units.
 
-             (4)  To avoid doubt, subsection (3) applies even if the book concerned includes minutes that are kept by means of an audio, or audio‑visual, recording.
+             (4)  To avoid doubt, subsection (3) applies even if the book concerned includes minutes that are kept by means of an audio, or audio-visual, recording.
 
              (5)  An offence against subsection (3) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="376‑10"></a>376‑10  Court may compel compliance
+##### <a id="376-10"></a>376-10  Court may compel compliance
 
              (1)  If any person in contravention of this Act refuses to permit the inspection of any book or to supply a copy of any book, the Court may by order compel an immediate inspection of the book or order the copy to be supplied.
 
              (2)  The reference in subsection (1) to a copy of a book includes a reference to an English translation of a book or a part of a book.
 
-##### <a id="376‑15"></a>376‑15  Admissibility of books in evidence
+##### <a id="376-15"></a>376-15  Admissibility of books in evidence
 
              (1)  A book kept by an Aboriginal and Torres Strait Islander corporation under a requirement of this Act is:
 
@@ -12074,11 +12073,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  A document purporting to be a book kept by an Aboriginal and Torres Strait Islander corporation is, unless the contrary is proved, taken to be a book kept as mentioned in subsection (1).
 
-##### <a id="376‑20"></a>376‑20  Form of books
+##### <a id="376-20"></a>376-20  Form of books
 
              (1)  A book that is required by this Act to be kept or prepared may be kept or prepared:
 
-                     (a)  by making entries in a bound or loose‑leaf book; or
+                     (a)  by making entries in a bound or loose-leaf book; or
 
                      (b)  by recording or storing the matters concerned by means of a mechanical, electronic or other device; or
 
@@ -12090,7 +12089,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  a reproduction of those matters is kept in a written form approved by the Registrar.
 
-##### <a id="376‑25"></a>376‑25  Protection of books
+##### <a id="376-25"></a>376-25  Protection of books
 
              (1)  An Aboriginal and Torres Strait Islander corporation must take all reasonable precautions for guarding against damage to, destruction of or falsification of or in, and for discovery of falsification of or in, any book or part of a book required by this Act to be kept or prepared by the corporation.
 
@@ -12110,7 +12109,7 @@ is to be construed as a duty:
 
              (4)  The regulations may provide for how up to date the information contained in an instrument prepared for the purposes of subsection (3) must be.
 
-##### <a id="376‑30"></a>376‑30  Evidentiary value
+##### <a id="376-30"></a>376-30  Evidentiary value
 
              (1)  If:
 
@@ -12122,7 +12121,7 @@ a written reproduction of that matter as so recorded or stored is prima facie ev
 
              (2)  A writing that purports to reproduce a matter recorded or stored by means of a mechanical, electronic or other device is, unless the contrary is established, taken to be a reproduction of that matter.
 
-##### <a id="376‑35"></a>376‑35  Falsification of books
+##### <a id="376-35"></a>376-35  Falsification of books
 
              (1)  A person commits an offence if the person:
 
@@ -12156,23 +12155,23 @@ Note:          A defendant bears a legal burden in relation to
 
 ### Division 386—Civil consequences of contravening civil penalty provisions
 
-##### <a id="386‑1"></a>386‑1  Declarations of contravention
+##### <a id="386-1"></a>386-1  Declarations of contravention
 
 Meaning of **civil penalty provisions**and declarations
 
              (1)  If a Court is satisfied that a person has contravened 1 of the following provisions, it must make a declaration of contravention:
 
-                     (a)  subsections 265‑1(1), 265‑5(1) and (2), 265‑10(1) and (2) and 265‑15(1) and (2) (officers’ duties);
+                     (a)  subsections 265-1(1), 265-5(1) and (2), 265-10(1) and (2) and 265-15(1) and (2) (officers’ duties);
 
-                     (b)  subsection 284‑5(2)(related parties rules);
+                     (b)  subsection 284-5(2)(related parties rules);
 
-                     (c)  subsection 363‑1(1) (requirements for record keeping and reports);
+                     (c)  subsection 363-1(1) (requirements for record keeping and reports);
 
-                     (d)  subsection 588G(2) of the Corporations Act (as applied by section 531‑1 of this Act) (insolvent trading).
+                     (d)  subsection 588G(2) of the Corporations Act (as applied by section 531-1 of this Act) (insolvent trading).
 
 These provisions are the **_civil penalty provisions_**.
 
-Note:          Once a declaration has been made, the Registrar can then seek a pecuniary penalty order (section 386‑10) or a disqualification order (section 279‑15).
+Note:          Once a declaration has been made, the Registrar can then seek a pecuniary penalty order (section 386-10) or a disqualification order (section 279-15).
 
 Declarations to specify certain matters
 
@@ -12188,17 +12187,17 @@ Declarations to specify certain matters
 
                      (e)  the Aboriginal and Torres Strait Island corporation affected by the contravention.
 
-##### <a id="386‑5"></a>386‑5  Declaration of contravention is conclusive evidence
+##### <a id="386-5"></a>386-5  Declaration of contravention is conclusive evidence
 
-                   A declaration of contravention is conclusive evidence of the matters referred to in subsection 386‑1(2).
+                   A declaration of contravention is conclusive evidence of the matters referred to in subsection 386-1(2).
 
-##### <a id="386‑10"></a>386‑10  Pecuniary penalty orders
+##### <a id="386-10"></a>386-10  Pecuniary penalty orders
 
 Pecuniary penalties
 
              (1)  A Court may order a person to pay the Commonwealth a pecuniary penalty of up to $200,000 if:
 
-                     (a)  a declaration of contravention by the person has been made under section 386‑1; and
+                     (a)  a declaration of contravention by the person has been made under section 386-1; and
 
                      (b)  the contravention:
 
@@ -12212,7 +12211,7 @@ Penalty a civil debt etc.
 
              (2)  The penalty is a civil debt payable to the Commonwealth. The Registrar, or the Commonwealth, may enforce the order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgment debt.
 
-##### <a id="386‑15"></a>386‑15  Compensation orders—civil penalty provisions
+##### <a id="386-15"></a>386-15  Compensation orders—civil penalty provisions
 
 Compensation for damage suffered
 
@@ -12224,7 +12223,7 @@ Compensation for damage suffered
 
 The order must specify the amount of the compensation.
 
-Note:          An order may be made under this subsection whether or not a declaration of contravention has been made under section 386‑1.
+Note:          An order may be made under this subsection whether or not a declaration of contravention has been made under section 386-1.
 
 Damage includes profits
 
@@ -12234,7 +12233,7 @@ Recovery of damage
 
              (3)  A compensation order may be enforced as if it were a judgment of the Court.
 
-##### <a id="386‑20"></a>386‑20  Who may apply for a declaration or order
+##### <a id="386-20"></a>386-20  Who may apply for a declaration or order
 
 Application by Registrar
 
@@ -12244,7 +12243,7 @@ Application by corporation
 
              (2)  The Aboriginal and Torres Strait Islander corporation affected by the contravention of a civil penalty provision may apply for a compensation order.
 
-Note:          An application for a compensation order may be made whether or not a declaration of contravention has been made under section 386‑1.
+Note:          An application for a compensation order may be made whether or not a declaration of contravention has been made under section 386-1.
 
              (3)  The Aboriginal and Torres Strait Islander corporation affected by the contravention of a civil penalty provision may intervene in an application for a declaration of contravention or a pecuniary penalty order in relation to the corporation. The corporation is entitled to be heard on all matters other than whether the declaration or order should be made.
 
@@ -12256,11 +12255,11 @@ Note:          In certain circumstances, a person may bring pr
 
              (5)  Subsection (4) does not exclude the operation of the _Director of Public Prosecutions Act 1983_.
 
-##### <a id="386‑25"></a>386‑25  Time limit for application for a declaration or order
+##### <a id="386-25"></a>386-25  Time limit for application for a declaration or order
 
                    Proceedings for a declaration of contravention, a pecuniary penalty order or a compensation order, may be started no later than 6 years after the contravention.
 
-##### <a id="386‑30"></a>386‑30  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
+##### <a id="386-30"></a>386-30  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
 
                    The Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for:
 
@@ -12268,11 +12267,11 @@ Note:          In certain circumstances, a person may bring pr
 
                      (b)  a pecuniary penalty order.
 
-##### <a id="386‑35"></a>386‑35  Civil proceedings after criminal proceedings
+##### <a id="386-35"></a>386-35  Civil proceedings after criminal proceedings
 
                    A court must not make a declaration of contravention or a pecuniary penalty order against a person for a contravention if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
 
-##### <a id="386‑40"></a>386‑40  Criminal proceedings during civil proceedings
+##### <a id="386-40"></a>386-40  Criminal proceedings during civil proceedings
 
              (1)  Proceedings for a declaration of contravention or pecuniary penalty order against a person are stayed if:
 
@@ -12282,7 +12281,7 @@ Note:          In certain circumstances, a person may bring pr
 
              (2)  The proceedings for the declaration or order may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the declaration or order are dismissed.
 
-##### <a id="386‑45"></a>386‑45  Criminal proceedings after civil proceedings
+##### <a id="386-45"></a>386-45  Criminal proceedings after civil proceedings
 
                    Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether:
 
@@ -12292,9 +12291,9 @@ Note:          In certain circumstances, a person may bring pr
 
                      (c)  a compensation order has been made against the person; or
 
-                     (d)  the person has been disqualified from managing an Aboriginal and Torres Strait Islander corporation under Part 6‑5.
+                     (d)  the person has been disqualified from managing an Aboriginal and Torres Strait Islander corporation under Part 6-5.
 
-##### <a id="386‑50"></a>386‑50  Evidence given in proceedings for penalty not admissible in criminal proceedings
+##### <a id="386-50"></a>386-50  Evidence given in proceedings for penalty not admissible in criminal proceedings
 
                    Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
 
@@ -12304,7 +12303,7 @@ Note:          In certain circumstances, a person may bring pr
 
 However, this does not apply to a criminal proceeding in respect of the falsity of the evidence given by the individual in the proceedings for the pecuniary penalty order.
 
-##### <a id="386‑55"></a>386‑55  Registrar requiring person to assist
+##### <a id="386-55"></a>386-55  Registrar requiring person to assist
 
              (1)  The Registrar may require a person to give all reasonable assistance in connection with:
 
@@ -12348,19 +12347,19 @@ However, this does not apply to a criminal proceeding in respect of the falsity 
 
              (8)  The Court may order the person to comply with the requirement in a specified way. Only the Registrar may apply to the Court for an order under this subsection.
 
-Note:          The person must comply with the requirement and may commit an offence if they do not, even if there is no order under this subsection (see section 694‑100).
+Note:          The person must comply with the requirement and may commit an offence if they do not, even if there is no order under this subsection (see section 694-100).
 
-##### <a id="386‑60"></a>386‑60  Relief from liability for contravention of civil penalty provision
+##### <a id="386-60"></a>386-60  Relief from liability for contravention of civil penalty provision
 
              (1)  This section:
 
                      (a)  applies to proceedings for a contravention of a civil penalty provision, including proceedings under:
 
-                              (i)  section 386‑15; or
+                              (i)  section 386-15; or
 
-                             (ii)  section 588M or 588W of the Corporations Act (as applied by section 531‑1 of this Act); and
+                             (ii)  section 588M or 588W of the Corporations Act (as applied by section 531-1 of this Act); and
 
-                     (b)  does not apply to proceedings for an offence, except so far as the proceedings relate to the question whether the court should make an order under section 588K of the Corporations Act (as applied by section 531‑1 of this Act).
+                     (b)  does not apply to proceedings for an offence, except so far as the proceedings relate to the question whether the court should make an order under section 588K of the Corporations Act (as applied by section 531-1 of this Act).
 
              (2)  If:
 
@@ -12374,7 +12373,7 @@ Note:          The person must comply with the requirement and
 
 the court may relieve the person either wholly or partly from a liability to which the person would otherwise be subject, or that might otherwise be imposed on the person, because of the contravention.
 
-             (3)  In determining under subsection (2) whether a person ought fairly to be excused for a contravention of section 588G of the Corporations Act (as applied by section 531‑1 of this Act), the matters to which regard is to be had include, but are not limited to:
+             (3)  In determining under subsection (2) whether a person ought fairly to be excused for a contravention of section 588G of the Corporations Act (as applied by section 531-1 of this Act), the matters to which regard is to be had include, but are not limited to:
 
                      (a)  any action the person took with a view to:
 
@@ -12396,31 +12395,31 @@ the court may relieve the person either wholly or partly from a liability to whi
 
                      (b)  the relief that may be granted includes withdrawing the case in whole or in part from the jury and directing judgment to be entered for the defendant on such terms as to costs as the judge thinks appropriate.
 
-             (7)  Nothing in this section limits, or is limited by, section 576‑1.
+             (7)  Nothing in this section limits, or is limited by, section 576-1.
 
 # Chapter 9—Lodgments and registers
 
-## Part 9‑1—Introduction
+## Part 9-1—Introduction
 
 ### Division 396—Introduction
 
-##### <a id="396‑1"></a>396‑1  What this Chapter is about
+##### <a id="396-1"></a>396-1  What this Chapter is about
 
 * * *
 
 This Chapter provides for the lodging of documents with the Registrar and the registers kept by the Registrar.
 
-Part 9‑2 deals with lodging of documents and the powers that the Registrar and the court have in relation to lodging documents.
+Part 9-2 deals with lodging of documents and the powers that the Registrar and the court have in relation to lodging documents.
 
-Part 9‑3 deals with the registers that the Registrar is required to maintain. The 2 most important registers are the Register of Aboriginal and Torres Strait Islander Corporations and the Register of Disqualified Officers. This Part also deals with the obtaining of information from the Registrar and the use and validity of such information.
+Part 9-3 deals with the registers that the Registrar is required to maintain. The 2 most important registers are the Register of Aboriginal and Torres Strait Islander Corporations and the Register of Disqualified Officers. This Part also deals with the obtaining of information from the Registrar and the use and validity of such information.
 
 * * *
 
-## Part 9‑2—Lodgments with the Registrar
+## Part 9-2—Lodgments with the Registrar
 
 ### Division 401—Introduction
 
-##### <a id="401‑1"></a>401‑1  What this Part is about
+##### <a id="401-1"></a>401-1  What this Part is about
 
 * * *
 
@@ -12442,7 +12441,7 @@ documents are not lodged (see Division 410).</li>
 
 ### Division 404—What is the form in which documents may be lodged?
 
-##### <a id="404‑1"></a>404‑1  Forms for documents to be lodged with the Registrar
+##### <a id="404-1"></a>404-1  Forms for documents to be lodged with the Registrar
 
 Documents in approved form
 
@@ -12458,7 +12457,7 @@ Meaning of **document that has been lodged**
 
              (2)  A reference in this Act to a **_document that has been lodged_** (being a document to which subsection (1) applies), includes a reference to any other material lodged with the document as required by the relevant approved form.
 
-##### <a id="404‑5"></a>404‑5  Signing documents lodged with the Registrar
+##### <a id="404-5"></a>404-5  Signing documents lodged with the Registrar
 
              (1)  A document lodged with the Registrar in writing by, or on behalf of, a body must be signed by a director or secretary of the body.
 
@@ -12466,7 +12465,7 @@ Meaning of **document that has been lodged**
 
              (3)  The person’s name must be printed next to the signature.
 
-##### <a id="404‑10"></a>404‑10  Documents lodged with the Registrar electronically
+##### <a id="404-10"></a>404-10  Documents lodged with the Registrar electronically
 
 This section sets out the only circumstances in which a document may be lodged electronically
 
@@ -12490,7 +12489,7 @@ Document of a kind by particular class of Aboriginal and Torres Strait Islander 
 
              (5)  The document is taken to be lodged with the Registrar if it is lodged in accordance with the agreement or approval (including any requirements of the agreement or approval as to authentication).
 
-##### <a id="404‑15"></a>404‑15  Relodging of lost registered documents
+##### <a id="404-15"></a>404-15  Relodging of lost registered documents
 
              (1)  If:
 
@@ -12528,7 +12527,7 @@ the Registrar may:
 
 ### Division 407—Registrar’s powers
 
-##### <a id="407‑1"></a>407‑1  Registrar may refuse to receive or register documents
+##### <a id="407-1"></a>407-1  Registrar may refuse to receive or register documents
 
              (1)  If the Registrar is of the opinion that a document submitted for lodgment:
 
@@ -12552,7 +12551,7 @@ the Registrar may refuse to receive or register the document and may request:
 
              (2)  A request under subsection (1) is not a legislative instrument.
 
-##### <a id="407‑5"></a>407‑5  Registrar may require additional information
+##### <a id="407-5"></a>407-5  Registrar may require additional information
 
              (1)  The Registrar may require a person who submits a document for lodgment to:
 
@@ -12572,7 +12571,7 @@ as the Registrar thinks necessary in order to form an opinion whether he or she 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="407‑10"></a>407‑10  Registrar may require information from persons on a register
+##### <a id="407-10"></a>407-10  Registrar may require information from persons on a register
 
              (1)  If information about a person is included on a register kept by the Registrar, the Registrar may at any time, in writing, require that person to give the Registrar specified information about the person if information of that kind is included on that register in relation to the person.
 
@@ -12586,7 +12585,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="407‑15"></a>407‑15  Telephone or email notice of certain changes
+##### <a id="407-15"></a>407-15  Telephone or email notice of certain changes
 
              (1)  The Registrar may, in his or her discretion, accept telephone or email notice of a change to a detail in relation to an Aboriginal and Torres Strait Islander corporation if:
 
@@ -12602,7 +12601,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  The requirements referred to in paragraph (1)(b) are not legislative instruments.
 
-##### <a id="407‑20"></a>407‑20  Registrar may destroy or dispose of lodged documents
+##### <a id="407-20"></a>407-20  Registrar may destroy or dispose of lodged documents
 
              (1)  The Registrar may destroy or dispose of any document relating to an Aboriginal and Torres Strait Islander corporation (other than the constitution or a document affecting the corporation’s constitution) if:
 
@@ -12618,7 +12617,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ### Division 410—Courts power if documents not lodged
 
-##### <a id="410‑1"></a>410‑1  Court may make certain orders
+##### <a id="410-1"></a>410-1  Court may make certain orders
 
              (1)  If:
 
@@ -12640,7 +12639,7 @@ the court may make an order directing the individual to comply with the requirem
 
 the court may make an order directing the body, or any officer of the body, to comply with the requirement within the time specified in the order.
 
-             (3)  An order under subsection (1) or (2) may provide that all costs of and incidental to the application are to be borne by the individual or the body or by any officers of the body responsible for the non‑compliance (as the case may be).
+             (3)  An order under subsection (1) or (2) may provide that all costs of and incidental to the application are to be borne by the individual or the body or by any officers of the body responsible for the non-compliance (as the case may be).
 
              (4)  A person commits an offence if the person contravenes an order made under subsection (1) or (2).
 
@@ -12650,7 +12649,7 @@ the court may make an order directing the body, or any officer of the body, to c
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (6)  Nothing in this Part or Part 9‑3 (dealing with registers) prejudices the operation of any law imposing penalties on an individual or a body or its officers in respect of a failure to comply with a relevant requirement.
+             (6)  Nothing in this Part or Part 9-3 (dealing with registers) prejudices the operation of any law imposing penalties on an individual or a body or its officers in respect of a failure to comply with a relevant requirement.
 
              (7)  This subsection applies to the following:
 
@@ -12658,11 +12657,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  a requirement to comply with any request of the Registrar to amend or complete and resubmit any document or to submit a fresh document.
 
-## Part 9‑3—Registers
+## Part 9-3—Registers
 
 ### Division 415—Introduction
 
-##### <a id="415‑1"></a>415‑1  What this Part is about
+##### <a id="415-1"></a>415-1  What this Part is about
 
 * * *
 
@@ -12686,7 +12685,7 @@ information so obtained (see Division 424).</li>
 
 ### Division 418—Registers to be kept
 
-##### <a id="418‑1"></a>418‑1  Registers
+##### <a id="418-1"></a>418-1  Registers
 
                    The Registrar must keep the following registers:
 
@@ -12696,33 +12695,33 @@ information so obtained (see Division 424).</li>
 
                      (c)  such other registers as the Registrar considers necessary.
 
-##### <a id="418‑5"></a>418‑5  Form of registers
+##### <a id="418-5"></a>418-5  Form of registers
 
                    A register may be kept in such form as the Registrar thinks fit.
 
-##### <a id="418‑10"></a>418‑10  Register of Aboriginal and Torres Strait Islander Corporations
+##### <a id="418-10"></a>418-10  Register of Aboriginal and Torres Strait Islander Corporations
 
                    The Register of Aboriginal and Torres Strait Islander Corporations is to include the information or documents specified in the regulations in relation to each Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="418‑15"></a>418‑15  Register of Disqualified Officers
+##### <a id="418-15"></a>418-15  Register of Disqualified Officers
 
-             (1)  The Register of Disqualified Officers is a register of persons who have been disqualified from managing Aboriginal and Torres Strait Islander corporations under section 279‑15, 279‑20, 279‑25 or 279‑30.
+             (1)  The Register of Disqualified Officers is a register of persons who have been disqualified from managing Aboriginal and Torres Strait Islander corporations under section 279-15, 279-20, 279-25 or 279-30.
 
              (2)  The register must contain a copy of:
 
-                     (a)  every notice that was served under section 279‑30; and
+                     (a)  every notice that was served under section 279-30; and
 
-                     (b)  every order made by the court under section 279‑15, 279‑20 or 279‑25; and
+                     (b)  every order made by the court under section 279-15, 279-20 or 279-25; and
 
-                     (c)  every order lodged under section 279‑35; and
+                     (c)  every order lodged under section 279-35; and
 
-                     (d)  every permission given under subsection 279‑30(7); and
+                     (d)  every permission given under subsection 279-30(7); and
 
                      (e)  any other document set out in the regulations.
 
 ### Division 421—What information may a person obtain from the Registrar?
 
-##### <a id="421‑1"></a>421‑1  Inspection and production of records
+##### <a id="421-1"></a>421-1  Inspection and production of records
 
              (1)  Subject to subsection (1A), a person:
 
@@ -12744,7 +12743,7 @@ under subsection (1) in such a way that the person does not have access to per
 
           (1B)  A person:
 
-                     (a)  may inspect a notice, order or permission set out in subsection 418‑15(2); and
+                     (a)  may inspect a notice, order or permission set out in subsection 418-15(2); and
 
                      (b)  may require a certificate of the registration of an Aboriginal and Torres Strait Islander corporation or any other certificate authorised by this Act to be given by the Registrar; and
 
@@ -12766,29 +12765,29 @@ Meaning of **exempt document**
 
                     <a name="exempt-docum"></a>**_exempt document_** means:
 
-                     (a)  a notice lodged under subsection 304‑15(4); or
+                     (a)  a notice lodged under subsection 304-15(4); or
 
                      (b)  a report made or lodged under:
 
-                              (i)  section 422 of the Corporations Act (as applied by section 516‑1 of this Act); or
+                              (i)  section 422 of the Corporations Act (as applied by section 516-1 of this Act); or
 
-                             (ii)  section 438D of the Corporations Act (as applied by section 521‑1 of this Act); or
+                             (ii)  section 438D of the Corporations Act (as applied by section 521-1 of this Act); or
 
-                            (iii)  section 533 of the Corporations Act (as applied by section 526‑35 of this Act); or
+                            (iii)  section 533 of the Corporations Act (as applied by section 526-35 of this Act); or
 
-                     (c)  a report by a special administrator under section 502‑1 into an Aboriginal and Torres Strait Islander corporation, if the corporation has not agreed to allow the inspection of the report; or
+                     (c)  a report by a special administrator under section 502-1 into an Aboriginal and Torres Strait Islander corporation, if the corporation has not agreed to allow the inspection of the report; or
 
-                     (d)  a report by an examiner under section 453‑1  into an Aboriginal and Torres Strait Islander corporation, if the corporation has not agreed to allow the inspection of the report; or
+                     (d)  a report by an examiner under section 453-1  into an Aboriginal and Torres Strait Islander corporation, if the corporation has not agreed to allow the inspection of the report; or
 
                      (e)  a document that has been destroyed or otherwise disposed of; or
 
                       (f)  any other document specified in the regulations.
 
-##### <a id="421‑5"></a>421‑5  Requests and certification of copy or extract etc.
+##### <a id="421-5"></a>421-5  Requests and certification of copy or extract etc.
 
              (1)  If:
 
-                     (a)  a person makes, under paragraph 421‑1(1)(c) or (1B)(c), a requirement that relates to a document or certificate; and
+                     (a)  a person makes, under paragraph 421-1(1)(c) or (1B)(c), a requirement that relates to a document or certificate; and
 
                      (b)  the Registrar keeps, by means of a computer, a record of information set out in the document or certificate; and
 
@@ -12798,7 +12797,7 @@ Meaning of **exempt document**
 
                              (ii)  a part of the document or certificate;
 
-then, for the purposes of paragraph 421‑1(1)(c) or (1B)(c), the Registrar is taken to have given:
+then, for the purposes of paragraph 421-1(1)(c) or (1B)(c), the Registrar is taken to have given:
 
                      (d)  if subparagraph (c)(i) applies—a copy of the document or certificate; or
 
@@ -12822,11 +12821,11 @@ then:
 
 ### Division 424—Validity and use of information etc. obtained from a register
 
-##### <a id="424‑1"></a>424‑1  Validity of copy or extract
+##### <a id="424-1"></a>424-1  Validity of copy or extract
 
                    A copy or an extract derived from a document lodged with the Registrar, and certified by the Registrar, is, in any proceeding, admissible in evidence as of equal validity with the original document.
 
-##### <a id="424‑5"></a>424‑5  Use in court proceedings etc. of documents issued by Registrar
+##### <a id="424-5"></a>424-5  Use in court proceedings etc. of documents issued by Registrar
 
              (1)  If:
 
@@ -12882,59 +12881,59 @@ then the writing is prima facie evidence of the matters stated in the writing. I
 
              (7)  Nothing in this section limits, or is limited by, any other provision of this Part.
 
-##### <a id="424‑10"></a>424‑10  Registrar’s certificate that person was a director etc.
+##### <a id="424-10"></a>424-10  Registrar’s certificate that person was a director etc.
 
                    The Registrar may certify that a person was a director, secretary or contact person of an Aboriginal and Torres Strait Islander corporation at a particular time or during a particular period. In the absence of evidence to the contrary, a certificate is proof of the matters stated in it.
 
 # Chapter 10—Regulation and enforcement
 
-## Part 10‑1—Introduction
+## Part 10-1—Introduction
 
 ### Division 434—Introduction
 
-##### <a id="434‑1"></a>434‑1  What this Chapter is about
+##### <a id="434-1"></a>434-1  What this Chapter is about
 
 * * *
 
 This Chapter deals with the regulation of Aboriginal and Torres Strait Islander corporations and enforcement.
 
-Part 10‑2 of this Chapter deals with the regulation of Aboriginal and Torres Strait Islander corporations by the Registrar.
+Part 10-2 of this Chapter deals with the regulation of Aboriginal and Torres Strait Islander corporations by the Registrar.
 
-Part 10‑3 deals with the enforcement powers available to ensure compliance with the Act etc.
+Part 10-3 deals with the enforcement powers available to ensure compliance with the Act etc.
 
-Part 10‑4 deals with offences relating to the regulatory and enforcement powers.
+Part 10-4 deals with offences relating to the regulatory and enforcement powers.
 
-Part 10‑5 deals with protection for whistleblowers.
+Part 10-5 deals with protection for whistleblowers.
 
 * * *
 
 Note:          Other regulatory powers that the Registrar has include:
 
-(a)           putting an Aboriginal and Torres Strait Islander corporation under special administration (see section 487‑1);
+(a)           putting an Aboriginal and Torres Strait Islander corporation under special administration (see section 487-1);
 
-(b)           disqualifying a person from managing an Aboriginal and Torres Strait Islander corporation (see 279‑30);
+(b)           disqualifying a person from managing an Aboriginal and Torres Strait Islander corporation (see 279-30);
 
-(c)           changing an Aboriginal and Torres Strait Islander corporation’s constitution (see section 69‑35).
+(c)           changing an Aboriginal and Torres Strait Islander corporation’s constitution (see section 69-35).
 
-## Part 10‑2—Regulation of Aboriginal and Torres Strait Islander corporations
+## Part 10-2—Regulation of Aboriginal and Torres Strait Islander corporations
 
 ### Division 439—Regulation of Aboriginal and Torres Strait Islander corporations
 
-##### <a id="439‑1"></a>439‑1  What this Part is about
+##### <a id="439-1"></a>439-1  What this Part is about
 
 * * *
 
-This Part deals with the Registrar’s regulatory powers (section 658‑10 also deals with the Registrar’s powers generally).
+This Part deals with the Registrar’s regulatory powers (section 658-10 also deals with the Registrar’s powers generally).
 
-The Registrar may convene meetings of interested persons to deal with matters affecting one or more Aboriginal and Torres Strait Islander corporations (see section 439‑5).
+The Registrar may convene meetings of interested persons to deal with matters affecting one or more Aboriginal and Torres Strait Islander corporations (see section 439-5).
 
-The Registrar may also call a general meeting of an Aboriginal and Torres Strait Islander corporation or an AGM (see sections 439‑10 and 439‑15).
+The Registrar may also call a general meeting of an Aboriginal and Torres Strait Islander corporation or an AGM (see sections 439-10 and 439-15).
 
 The Registrar may also issue notices to an Aboriginal and Torres Strait Islander corporation requiring the corporation to comply with the Act or to do a thing specified in the notice.
 
 * * *
 
-##### <a id="439‑5"></a>439‑5  Registrar may convene meetings of interested persons
+##### <a id="439-5"></a>439-5  Registrar may convene meetings of interested persons
 
              (1)  If the Registrar is of the opinion that there is a matter that affects an Aboriginal and Torres Strait Islander corporation, the Registrar may convene a meeting for the purpose of discussing the matter.
 
@@ -12956,7 +12955,7 @@ The Registrar may also issue notices to an Aboriginal and Torres Strait Islander
 
                     <a name="agenc"></a>**_Agency_** means the Agency (within the meaning of the _Public Service Act 1999_) of which the Office of the Registrar of Aboriginal and Torres Strait Islander Corporations is a part.
 
-##### <a id="439‑10"></a>439‑10  Registrar may call a general meeting (other than an AGM)
+##### <a id="439-10"></a>439-10  Registrar may call a general meeting (other than an AGM)
 
              (1)  The Registrar may call and arrange to hold a general meeting (other than an AGM) of an Aboriginal and Torres Strait Islander corporation if:
 
@@ -12982,7 +12981,7 @@ Rules for meeting
 
                      (b)  another individual authorised by the Registrar.
 
-             (5)  The rules in Chapter 5 (meetings) (except section 201‑75) apply to a meeting called under this section unless the Registrar determines in writing that some or all of those rules do not apply. The determination must:
+             (5)  The rules in Chapter 5 (meetings) (except section 201-75) apply to a meeting called under this section unless the Registrar determines in writing that some or all of those rules do not apply. The determination must:
 
                      (a)  specify the rules that do not apply; and
 
@@ -13018,11 +13017,11 @@ Without limiting this, the regulations may specify the number as a percentage of
 
                      (b)  a particular class of Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="439‑15"></a>439‑15  Registrar may call an AGM
+##### <a id="439-15"></a>439-15  Registrar may call an AGM
 
 Registrar may call an AGM
 
-             (1)  The Registrar may call and arrange to hold an AGM of an Aboriginal and Torres Strait Islander corporation if the corporation has not held the meeting as required by section 201‑150 or 201‑155.
+             (1)  The Registrar may call and arrange to hold an AGM of an Aboriginal and Torres Strait Islander corporation if the corporation has not held the meeting as required by section 201-150 or 201-155.
 
 Rules for meeting
 
@@ -13032,7 +13031,7 @@ Rules for meeting
 
                      (b)  another individual authorised by the Registrar.
 
-             (3)  The rules in Chapter 5 (meetings) (except section 201‑75) apply to an AGM called under this section unless the Registrar determines in writing that some or all of those rules do not apply. The determination must:
+             (3)  The rules in Chapter 5 (meetings) (except section 201-75) apply to an AGM called under this section unless the Registrar determines in writing that some or all of those rules do not apply. The determination must:
 
                      (a)  specify the rules that do not apply; and
 
@@ -13044,9 +13043,9 @@ Observers
 
              (5)  The Registrar may authorise a person to attend a meeting called under this section as an observer. A person so authorised is entitled to attend the meeting.
 
-##### <a id="439‑20"></a>439‑20  Registrar may require compliance with Act etc.
+##### <a id="439-20"></a>439-20  Registrar may require compliance with Act etc.
 
-Suspicion of non‑compliance with the Act or financial irregularity
+Suspicion of non-compliance with the Act or financial irregularity
 
              (1)  If the Registrar suspects on reasonable grounds that:
 
@@ -13086,11 +13085,11 @@ Issue of notice does not preclude Registrar taking other action under this Act
 
              (7)  If a notice has been issued by the Registrar under this section then, regardless of whether the period specified in the notice has expired or not, the Registrar may take any other action under this Act in relation to the corporation that the Registrar thinks appropriate.
 
-## Part 10‑3—Enforcement
+## Part 10-3—Enforcement
 
 ### Division 444—Introduction
 
-##### <a id="444‑1"></a>444‑1  What this Part is about
+##### <a id="444-1"></a>444-1  What this Part is about
 
 * * *
 
@@ -13108,7 +13107,7 @@ Division 456 deals with warrants which may be sought if books asked for have n
 
 ### Division 447—Authorised officers
 
-##### <a id="447‑1"></a>447‑1  Appointment of authorised officers
+##### <a id="447-1"></a>447-1  Appointment of authorised officers
 
              (1)  The Registrar may, in writing, appoint:
 
@@ -13120,7 +13119,7 @@ to be an authorised officer for the purposes of this Part.
 
              (2)  In exercising powers or performing functions as an authorised officer, an authorised officer must comply with any directions of the Registrar.
 
-##### <a id="447‑5"></a>447‑5  Identity cards
+##### <a id="447-5"></a>447-5  Identity cards
 
              (1)  The Registrar must issue an identity card to an authorised officer in the form prescribed by the regulations. The identity card must contain a recent photograph of the authorised officer.
 
@@ -13144,7 +13143,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ### Division 450—Purposes for which powers under this Part may be exercised
 
-##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
+##### <a id="450-1"></a>450-1  Purposes for which power under this Part may be exercised
 
                    A power conferred by this Part may only be exercised:
 
@@ -13162,7 +13161,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ### Division 453—Examination of books and persons
 
-##### <a id="453‑1"></a>453‑1  Examination of books
+##### <a id="453-1"></a>453-1  Examination of books
 
              (1)  The Registrar may, at any time, cause an authorised officer to examine the books of an Aboriginal and Torres Strait Islander corporation, or a related body corporate, and to report to the Registrar on the results of that examination, drawing attention to any or all of the following matters:
 
@@ -13192,7 +13191,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (7)  A report under subsection (1) is not a legislative instrument.
 
-##### <a id="453‑5"></a>453‑5  Production of books or attendance to answer questions
+##### <a id="453-5"></a>453-5  Production of books or attendance to answer questions
 
              (1)  The Registrar may, by notice given to a person whom the Registrar, on reasonable grounds, believes to have some knowledge of the examinable affairs of an Aboriginal and Torres Strait Islander corporation, require the person:
 
@@ -13236,7 +13235,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
-##### <a id="453‑10"></a>453‑10  Remuneration of authorised officer
+##### <a id="453-10"></a>453-10  Remuneration of authorised officer
 
              (1)  An authorised officer who examines the books of an Aboriginal and Torres Strait Islander corporation, or a related body corporate, and reports to the Registrar on the results of that examination is to receive such remuneration (if any) as the Registrar determines in writing.
 
@@ -13264,13 +13263,13 @@ Note:          The defendant bears an evidential burden in rel
 
 ### Division 456—Warrants for books not produced
 
-#### Subdivision 456‑A—Warrants applied for in person
+#### Subdivision 456-A—Warrants applied for in person
 
-##### <a id="456‑1"></a>456‑1  Application for warrant to seize books not produced
+##### <a id="456-1"></a>456-1  Application for warrant to seize books not produced
 
              (1)  If the Registrar or an authorised officer  has reasonable grounds to suspect that there are, or may be within the next 3 days, on particular premises in Australia, books:
 
-                     (a)  whose production has been required under section 453‑1 or 453‑5; and
+                     (a)  whose production has been required under section 453-1 or 453-5; and
 
                      (b)  that have not been produced in compliance with that requirement;
 
@@ -13282,11 +13281,11 @@ the Registrar or authorised officer may:
 
              (2)  On an application under this section, the magistrate may require further information to be given, either orally or by affidavit, in connection with the application.
 
-##### <a id="456‑5"></a>456‑5  Grant of warrant
+##### <a id="456-5"></a>456-5  Grant of warrant
 
-             (1)  This section applies if, on an application under section 456‑1, the magistrate is satisfied that there are reasonable grounds to suspect that there are, or may be within the next 3 days, on particular premises, particular books:
+             (1)  This section applies if, on an application under section 456-1, the magistrate is satisfied that there are reasonable grounds to suspect that there are, or may be within the next 3 days, on particular premises, particular books:
 
-                     (a)  whose production has been required under section 453‑1 or 453‑5; and
+                     (a)  whose production has been required under section 453-1 or 453-5; and
 
                      (b)  that have not been produced in compliance with that requirement.
 
@@ -13300,7 +13299,7 @@ the Registrar or authorised officer may:
 
                      (d)  to take possession of, or secure against interference, books that appear to be any or all of those books.
 
-             (3)  If the magistrate issues such a warrant, he or she must set out on the information laid before him or her under subsection 456‑1(1) for the purposes of the application:
+             (3)  If the magistrate issues such a warrant, he or she must set out on the information laid before him or her under subsection 456-1(1) for the purposes of the application:
 
                      (a)  which of the grounds set out in the information; and
 
@@ -13318,11 +13317,11 @@ he or she has relied on to justify the issue of the warrant.
 
              (5)  The function of issuing a warrant is conferred on the magistrate in a personal capacity and not as a court or a member of a court. The magistrate need not accept the function conferred.
 
-##### <a id="456‑10"></a>456‑10  Powers where books produced or seized
+##### <a id="456-10"></a>456-10  Powers where books produced or seized
 
              (1)  This section applies if:
 
-                     (a)  books of an Aboriginal and Torres Strait Islander corporation are produced to an authorised officer under section 453‑1 or section 453‑5; or
+                     (a)  books of an Aboriginal and Torres Strait Islander corporation are produced to an authorised officer under section 453-1 or section 453-5; or
 
                      (b)  under a warrant issued under this Division, an authorised officer:
 
@@ -13342,15 +13341,15 @@ he or she has relied on to justify the issue of the warrant.
 
                      (a)  for the purposes of exercising a power conferred by this section (other than this subsection and subsection (7)); or
 
-                     (b)  for any of the purposes referred to in paragraphs 450‑1(a), (b) or (c); or
+                     (b)  for any of the purposes referred to in paragraphs 450-1(a), (b) or (c); or
 
-                     (c)  to determine if there is a matter in relation to the corporation that is specified in subsection 453‑1(1) as a matter that should be drawn attention to; or
+                     (c)  to determine if there is a matter in relation to the corporation that is specified in subsection 453-1(1) as a matter that should be drawn attention to; or
 
                      (d)  for a decision to be made about whether or not a proceeding (including a proceeding under a law of the Commonwealth, or of a State or Territory) to which the books concerned would be relevant should be begun; or
 
                      (e)  for such a proceeding to be begun and carried on.
 
-             (6)  No‑one is entitled, as against the authorised officer, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
+             (6)  No-one is entitled, as against the authorised officer, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
 
              (7)  While the books are in the authorised officer’s possession, the officer:
 
@@ -13380,9 +13379,9 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (12) (see subsection 13.3(3) of the _Criminal Code_).
 
-#### Subdivision 456‑B—Warrants by telephone or other electronic means
+#### Subdivision 456-B—Warrants by telephone or other electronic means
 
-##### <a id="456‑15"></a>456‑15  Applying for warrants by telephone or other electronic means
+##### <a id="456-15"></a>456-15  Applying for warrants by telephone or other electronic means
 
              (1)  The Registrar or an authorised officer may apply to a magistrate for a warrant by telephone, fax or other electronic means:
 
@@ -13404,9 +13403,9 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  The function of issuing a warrant is conferred on the magistrate in a personal capacity and not as a court or a member of a court. The magistrate need not accept the function conferred.
 
-##### <a id="456‑20"></a>456‑20  Issuing warrants by telephone etc.
+##### <a id="456-20"></a>456-20  Issuing warrants by telephone etc.
 
-             (1)  The magistrate may complete and sign the same form of warrant that would be issued under section 456‑5  if satisfied that:
+             (1)  The magistrate may complete and sign the same form of warrant that would be issued under section 456-5  if satisfied that:
 
                      (a)  a warrant in the terms of the application should be issued urgently; or
 
@@ -13430,7 +13429,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the form of warrant completed by the applicant; and
 
-                     (b)  if the information was unsworn under paragraph 456‑15(2)(b)—the sworn information;
+                     (b)  if the information was unsworn under paragraph 456-15(2)(b)—the sworn information;
 
 by the end of the day after whichever first occurs:
 
@@ -13440,7 +13439,7 @@ by the end of the day after whichever first occurs:
 
              (5)  The magistrate must attach the form of warrant completed by the magistrate to the documents provided under subsection (4).
 
-##### <a id="456‑25"></a>456‑25  Unsigned warrants by telephone etc. in court proceedings
+##### <a id="456-25"></a>456-25  Unsigned warrants by telephone etc. in court proceedings
 
                    If:
 
@@ -13450,37 +13449,37 @@ by the end of the day after whichever first occurs:
 
 the court must assume that the exercise of the power was not duly authorised unless the contrary is proved.
 
-#### Subdivision 456‑C—Offences relating to warrants by telephone or other electronic means
+#### Subdivision 456-C—Offences relating to warrants by telephone or other electronic means
 
-##### <a id="456‑30"></a>456‑30  Offence for stating incorrect names in warrants by telephone etc.
+##### <a id="456-30"></a>456-30  Offence for stating incorrect names in warrants by telephone etc.
 
                    A person commits an offence if:
 
                      (a)  the person states a name of a magistrate in a document; and
 
-                     (b)  the document purports to be a form of warrant under section 456‑20; and
+                     (b)  the document purports to be a form of warrant under section 456-20; and
 
                      (c)  the name is not the name of the magistrate who issued the warrant.
 
                     Penalty:  120 penalty units or imprisonment for 2 years, or both.
 
-##### <a id="456‑35"></a>456‑35  Offence for unauthorised form of warrant
+##### <a id="456-35"></a>456-35  Offence for unauthorised form of warrant
 
                    A person commits an offence if:
 
-                     (a)  the person states a matter in a form of warrant under section 456‑20; and
+                     (a)  the person states a matter in a form of warrant under section 456-20; and
 
                      (b)  the matter departs in a material particular from the form authorised by the magistrate.
 
                     Penalty:  120 penalty units or imprisonment for 2 years, or both.
 
-##### <a id="456‑40"></a>456‑40  Offence for execution etc. of unauthorised form of warrant
+##### <a id="456-40"></a>456-40  Offence for execution etc. of unauthorised form of warrant
 
                    A person commits an offence if:
 
                      (a)  the person executes a document or presents a document to a person; and
 
-                     (b)  the document purports to be a form of warrant under section 456‑20; and
+                     (b)  the document purports to be a form of warrant under section 456-20; and
 
                      (c)  the document:
 
@@ -13490,19 +13489,19 @@ the court must assume that the exercise of the power was not duly authorised unl
 
                     Penalty:  120 penalty units or imprisonment for 2 years, or both.
 
-##### <a id="456‑45"></a>456‑45  Offence for giving unexecuted form of warrant
+##### <a id="456-45"></a>456-45  Offence for giving unexecuted form of warrant
 
                    A person commits an offence if:
 
-                     (a)  the person gives a magistrate a form of warrant under section 456‑20; and
+                     (a)  the person gives a magistrate a form of warrant under section 456-20; and
 
                      (b)  the document is not the form of warrant that the person executed.
 
                     Penalty:  120 penalty units or imprisonment for 2 years, or both.
 
-#### Subdivision 456‑D—Warrant details to be given to occupier
+#### Subdivision 456-D—Warrant details to be given to occupier
 
-##### <a id="456‑50"></a>456‑50  Details of warrant to be given to occupier etc.
+##### <a id="456-50"></a>456-50  Details of warrant to be given to occupier etc.
 
              (1)  If a warrant in relation to premises is being executed and the occupier of the premises or another person who apparently represents the occupier is present at the premises, the authorised officer executing the warrant must make available to that person a copy of the warrant.
 
@@ -13510,15 +13509,15 @@ the court must assume that the exercise of the power was not duly authorised unl
 
              (4)  The copy of the warrant referred to in subsection (1) need not include the signature of the issuing magistrate or the seal of the relevant court.
 
-## Part 10‑4—Offences relating to regulatory and enforcement powers of Registrar
+## Part 10-4—Offences relating to regulatory and enforcement powers of Registrar
 
 ### Division 461—Offences relating to regulatory and enforcement powers of Registrar
 
-##### <a id="461‑1"></a>461‑1  Obstructing Registrar or interfering with meeting called by Registrar etc.
+##### <a id="461-1"></a>461-1  Obstructing Registrar or interfering with meeting called by Registrar etc.
 
              (1)  A person must not:
 
-                     (a)  engage in conduct that results in the obstruction or hindering of an authorised officer in the performance of the officer’s powers under Part 10‑3; or
+                     (a)  engage in conduct that results in the obstruction or hindering of an authorised officer in the performance of the officer’s powers under Part 10-3; or
 
                      (b)  engage in conduct that results in the obstruction or hindering of a person who is executing a warrant under Division 456.
 
@@ -13536,15 +13535,15 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  engage in conduct that results in the obstruction or hindering of the Registrar or the Registrar’s delegate in the performance or exercise of any of the Registrar’s functions and powers; or
 
-                     (b)  engage in conduct that results in the disruption of a meeting called under section 439‑10 or 439‑15.
+                     (b)  engage in conduct that results in the disruption of a meeting called under section 439-10 or 439-15.
 
                     Penalty:  50 penalty units or imprisonment for 1 year, or both.
 
              (5)  An offence constituted by a contravention of subsection (4) is punishable on summary conviction.
 
-##### <a id="461‑5"></a>461‑5  False information
+##### <a id="461-5"></a>461-5  False information
 
-             (1)  A person must not, in purported compliance with a requirement made under Part 10‑3, give information, or make a statement, that is false or misleading in a material particular.
+             (1)  A person must not, in purported compliance with a requirement made under Part 10-3, give information, or make a statement, that is false or misleading in a material particular.
 
                     Penalty:  100 penalty units or imprisonment for 2 years, or both.
 
@@ -13552,9 +13551,9 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          A defendant bears a legal burden in relation to the matter in subsection (3) (see section 13.4 of the _Criminal Code_).
 
-##### <a id="461‑10"></a>461‑10  Concealing books relevant to investigation
+##### <a id="461-10"></a>461-10  Concealing books relevant to investigation
 
-             (1)  If a requirement under section 453‑1 or 453‑5 has been made to produce a book, a person must not:
+             (1)  If a requirement under section 453-1 or 453-5 has been made to produce a book, a person must not:
 
                      (a)  in any case—engage in conduct that results in the concealment, destruction, mutilation or alteration of the book; or
 
@@ -13566,9 +13565,9 @@ Note:          A defendant bears a legal burden in relation to
 
 Note:          A defendant bears a legal burden in relation to a matter mentioned in subsection (2) (see section 13.4 of the _Criminal Code_).
 
-##### <a id="461‑15"></a>461‑15  Self‑incrimination
+##### <a id="461-15"></a>461-15  Self-incrimination
 
-             (1)  For the purposes of Part 10‑3, it is not a reasonable excuse for a person to refuse or fail:
+             (1)  For the purposes of Part 10-3, it is not a reasonable excuse for a person to refuse or fail:
 
                      (a)  to give information; or
 
@@ -13578,7 +13577,7 @@ in accordance with a requirement made of the person, that the information or pro
 
              (2)  Subsection (3) applies if:
 
-                     (a)  before making an oral statement giving information in compliance with a requirement made under this Part or Part 10‑3, a person (other than a body corporate) claims that the statement might tend to incriminate the person or make the person liable to a penalty; and
+                     (a)  before making an oral statement giving information in compliance with a requirement made under this Part or Part 10-3, a person (other than a body corporate) claims that the statement might tend to incriminate the person or make the person liable to a penalty; and
 
                      (b)  the statement might in fact tend to incriminate the person or make the person so liable.
 
@@ -13590,11 +13589,11 @@ in accordance with a requirement made of the person, that the information or pro
 
 other than a proceeding in respect of the falsity of the statement.
 
-## Part 10‑5—Protection for whistleblowers
+## Part 10-5—Protection for whistleblowers
 
 ### Division 466—Which disclosures qualify for protection under this Part?
 
-##### <a id="466‑1"></a>466‑1  Disclosures qualifying for protection
+##### <a id="466-1"></a>466-1  Disclosures qualifying for protection
 
              (1)  A disclosure of information by a person (the **_discloser_**) qualifies for protection under this Part if:
 
@@ -13634,7 +13633,7 @@ Note:          This subsection causes section 11.6 of the _C
 
 ### Division 469—Effects of disclosure
 
-##### <a id="469‑1"></a>469‑1  Disclosure that qualifies for protection not actionable etc.
+##### <a id="469-1"></a>469-1  Disclosure that qualifies for protection not actionable etc.
 
              (1)  If a person makes a disclosure that qualifies for protection under this Part:
 
@@ -13660,7 +13659,7 @@ Note:          This subsection does not provide that the perso
 
 the court may order that the employee be reinstated in that position or a position at a comparable level.
 
-##### <a id="469‑5"></a>469‑5  Victimisation prohibited
+##### <a id="469-5"></a>469-5  Victimisation prohibited
 
 Actually causing detriment to another person
 
@@ -13712,11 +13711,11 @@ Threats
 
              (5)  In a prosecution for an offence against subsection (2), it is not necessary to prove that the person threatened actually feared that the threat would be carried out.
 
-##### <a id="469‑10"></a>469‑10  Right to compensation
+##### <a id="469-10"></a>469-10  Right to compensation
 
                    If:
 
-                     (a)  a person (the **_person in contravention_**) contravenes subsection 469‑5(1), (2) or (3); and
+                     (a)  a person (the **_person in contravention_**) contravenes subsection 469-5(1), (2) or (3); and
 
                      (b)  a person (the **_victim)_** suffers damage because of the contravention;
 
@@ -13724,7 +13723,7 @@ the person in contravention is liable to compensate the victim for the damage.
 
 ### Division 472—Confidentiality requirement
 
-##### <a id="472‑1"></a>472‑1  Confidentiality requirements for corporations, corporation officers and employees and auditors
+##### <a id="472-1"></a>472-1  Confidentiality requirements for corporations, corporation officers and employees and auditors
 
              (1)  A person (the **_offender_**) commits an offence against this subsection if:
 
@@ -13794,11 +13793,11 @@ the person in contravention is liable to compensate the victim for the damage.
 
 # Chapter 11—External administration
 
-## Part 11‑1—Introduction
+## Part 11-1—Introduction
 
 ### Division 482—Introduction
 
-##### <a id="482‑1"></a>482‑1  What this Chapter is about
+##### <a id="482-1"></a>482-1  What this Chapter is about
 
 * * *
 
@@ -13806,27 +13805,27 @@ This Chapter deals with the various ways in which the management of some or all 
 
 There are basically 4 ways in which this can happen:
 
-               (a)     The Registrar may appoint a special administrator for the corporation under Part 11‑2.
+               (a)     The Registrar may appoint a special administrator for the corporation under Part 11-2.
 
-              (b)     A receiver, or another controller, of the corporation’s property may be appointed under the provisions of Part 5.2 of the Corporations Act (as applied by Part 11‑3 of this Act).
+               (b)     A receiver, or another controller, of the corporation’s property may be appointed under the provisions of Part 5.2 of the Corporations Act (as applied by Part 11-3 of this Act).
 
-               (c)     An administrator for the corporation may be appointed under Part 5.3A of the Corporations Act (as applied by Part 11‑4 of this Act).
+               (c)     An administrator for the corporation may be appointed under Part 5.3A of the Corporations Act (as applied by Part 11-4 of this Act).
 
-              (d)     The corporation may be wound up on the grounds set out in Part 11‑5 of this Act (with the winding up being carried out under Chapter 5 of the Corporations Act as applied by Part 11‑5 of this Act).
+               (d)     The corporation may be wound up on the grounds set out in Part 11-5 of this Act (with the winding up being carried out under Chapter 5 of the Corporations Act as applied by Part 11-5 of this Act).
 
 The following Parts of this Chapter also apply some other provisions of the Corporations Act to an Aboriginal and Torres Strait Islander corporation:
 
-               (a)     Part 11‑6 applies Divisions 3, 4, 5 and 6 of Part 5.7B of the Corporations Act (which deal with insolvent trading);
+               (a)     Part 11-6 applies Divisions 3, 4, 5 and 6 of Part 5.7B of the Corporations Act (which deal with insolvent trading);
 
-              (b)     Part 11‑7 applies Part 5.8A of the Corporations Act (which deals with employee entitlements).
+               (b)     Part 11-7 applies Part 5.8A of the Corporations Act (which deals with employee entitlements).
 
 * * *
 
-## Part 11‑2—Special administration
+## Part 11-2—Special administration
 
 ### Division 487—Special administration of Aboriginal and Torres Strait Islander corporation
 
-##### <a id="487‑1"></a>487‑1  Registrar may put Aboriginal and Torres Strait Islander corporation under special administration
+##### <a id="487-1"></a>487-1  Registrar may put Aboriginal and Torres Strait Islander corporation under special administration
 
              (1)  The Registrar may determine, in writing, that an Aboriginal and Torres Strait Islander corporation is to be under special administration for the period specified in the determination.
 
@@ -13840,13 +13839,13 @@ The following Parts of this Chapter also apply some other provisions of the Corp
 
                              (ii)  a liquidator of the corporation has been appointed; and
 
-                     (b)  may make a determination under subsection (1) even if the corporation is being administered under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act).
+                     (b)  may make a determination under subsection (1) even if the corporation is being administered under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act).
 
-             (4)  The Registrar may make a determination under subsection (1) only if the Registrar is satisfied that at least one of the grounds set out in section 487‑5 is satisfied.
+             (4)  The Registrar may make a determination under subsection (1) only if the Registrar is satisfied that at least one of the grounds set out in section 487-5 is satisfied.
 
-             (5)  The Registrar must make a determination under subsection (1) in accordance with section 487‑10.
+             (5)  The Registrar must make a determination under subsection (1) in accordance with section 487-10.
 
-##### <a id="487‑5"></a>487‑5  Grounds for special administration
+##### <a id="487-5"></a>487-5  Grounds for special administration
 
              (1)  The following are the grounds for determining that an Aboriginal and Torres Strait Islander corporation is to be under special administration:
 
@@ -13858,11 +13857,11 @@ The following Parts of this Chapter also apply some other provisions of the Corp
 
                              (ii)  an internal governance rule of the corporation;
 
-                            (iii)  a notice that the Registrar has given the directors under section 439‑20;
+                            (iii)  a notice that the Registrar has given the directors under section 439-20;
 
                             and the corporation has, or the officers have, failed to give the Registrar a satisfactory explanation for the failure;
 
-                     (c)  the corporation has failed to comply with an obligation under Part 7‑3;
+                     (c)  the corporation has failed to comply with an obligation under Part 7-3;
 
                      (d)  the officers of the corporation have acted in the affairs of the corporation:
 
@@ -13928,7 +13927,7 @@ Paragraph (j) does not limit any of the other paragraphs in this subsection.
 
                      (b)  a particular class of Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="487‑10"></a>487‑10  Show cause notice procedure
+##### <a id="487-10"></a>487-10  Show cause notice procedure
 
              (1)  Subject to subsection (2), the Registrar must, before determining that an Aboriginal and Torres Strait Islander corporation is to be under special administration:
 
@@ -13978,7 +13977,7 @@ Paragraph (j) does not limit any of the other paragraphs in this subsection.
 
 the Registrar must give the corporation notice in writing, as soon as practicable after the decision is made, that the Registrar does not propose to determine that the corporation is to be under special administration.
 
-##### <a id="487‑15"></a>487‑15  Extension of period of special administration
+##### <a id="487-15"></a>487-15  Extension of period of special administration
 
              (1)  The Registrar may extend the period for which an Aboriginal and Torres Strait Islander corporation is to be under special administration.
 
@@ -13988,7 +13987,7 @@ the Registrar must give the corporation notice in writing, as soon as practicabl
 
                      (b)  be made before the period to be extended ends.
 
-##### <a id="487‑20"></a>487‑20  Registrar may terminate special administration
+##### <a id="487-20"></a>487-20  Registrar may terminate special administration
 
              (1)  The Registrar may determine in writing that an Aboriginal and Torres Strait Islander corporation is to cease to be under special administration on the date specified in the determination.
 
@@ -13996,25 +13995,25 @@ the Registrar must give the corporation notice in writing, as soon as practicabl
 
              (3)  Without limiting subsection (1), the Registrar may determine that the corporation is to cease to be under special administration if the Registrar is satisfied that it is no longer necessary for the corporation to be under special administration.
 
-##### <a id="487‑25"></a>487‑25  References to corporation under special administration
+##### <a id="487-25"></a>487-25  References to corporation under special administration
 
-                   If the Registrar determines under subsection 487‑1(1) in relation to an Aboriginal and Torres Strait Islander corporation, the corporation:
+                   If the Registrar determines under subsection 487-1(1) in relation to an Aboriginal and Torres Strait Islander corporation, the corporation:
 
-                     (a)  starts being **_under special administration_** when the period specified in the determination under subsection 487‑1(1) starts; and
+                     (a)  starts being **_under special administration_** when the period specified in the determination under subsection 487-1(1) starts; and
 
                      (b)  ceases being **_under special administration_**:
 
-                              (i)  when the period specified in the determination under subsection 487‑1(1), or that period as extended under section 487‑15, ends; or
+                              (i)  when the period specified in the determination under subsection 487-1(1), or that period as extended under section 487-15, ends; or
 
                              (ii)  if, before the end of the period referred to in subparagraph (i), a liquidator for the corporation is appointed, or the winding up of the corporation starts, as a result of an application made by the Registrar or the special administrator—when the liquidator is appointed or the winding up starts; or
 
-                            (iii)  if, before the end of the period referred to in subparagraph (i), the Registrar makes a determination under section 487‑20—on the date specified in the determination under section 487‑20.
+                            (iii)  if, before the end of the period referred to in subparagraph (i), the Registrar makes a determination under section 487-20—on the date specified in the determination under section 487-20.
 
-Note:          Subparagraph (b)(ii)—once the corporation is under special administration only the Registrar or the special administrator can apply for the winding up of the corporation (see subsection 526‑15(3)).
+Note:          Subparagraph (b)(ii)—once the corporation is under special administration only the Registrar or the special administrator can apply for the winding up of the corporation (see subsection 526-15(3)).
 
 ### Division 490—Appointment of special administrator
 
-##### <a id="490‑1"></a>490‑1  Registrar may appoint special administrator
+##### <a id="490-1"></a>490-1  Registrar may appoint special administrator
 
              (1)  The Registrar may appoint a special administrator for an Aboriginal and Torres Strait Islander corporation that is under special administration.
 
@@ -14022,7 +14021,7 @@ Note:          The special administrator may be appointed eith
 
              (2)  The appointment must be made in writing.
 
-##### <a id="490‑5"></a>490‑5  Period of appointment
+##### <a id="490-5"></a>490-5  Period of appointment
 
              (1)  The appointment must specify the period for which the special administrator is appointed.
 
@@ -14038,23 +14037,23 @@ Note:          The special administrator may be appointed eith
 
                      (a)  has effect, subject to paragraph (b), until the end of the period of the appointment; and
 
-                     (b)  ceases to have effect if it is terminated under section 505‑1 before the end of that period.
+                     (b)  ceases to have effect if it is terminated under section 505-1 before the end of that period.
 
 ### Division 493—Notice requirements
 
-##### <a id="493‑1"></a>493‑1  Notice of special administration determination or appointment of special administrator
+##### <a id="493-1"></a>493-1  Notice of special administration determination or appointment of special administrator
 
              (1)  This section applies if the Registrar makes any of the following decisions:
 
-                     (a)  a determination under section 487‑1 that an Aboriginal and Torres Strait Islander corporation is to be under special administration;
+                     (a)  a determination under section 487-1 that an Aboriginal and Torres Strait Islander corporation is to be under special administration;
 
-                     (b)  an appointment under section 490‑1 of a special administrator for an Aboriginal and Torres Strait Islander corporation;
+                     (b)  an appointment under section 490-1 of a special administrator for an Aboriginal and Torres Strait Islander corporation;
 
-                     (c)  an extension under section 487‑15 of the period for which an Aboriginal and Torres Strait Islander corporation is to be under special administration;
+                     (c)  an extension under section 487-15 of the period for which an Aboriginal and Torres Strait Islander corporation is to be under special administration;
 
-                     (d)  an extension under section 490‑5 of the period for which a special administrator for an Aboriginal and Torres Strait Islander corporation is appointed;
+                     (d)  an extension under section 490-5 of the period for which a special administrator for an Aboriginal and Torres Strait Islander corporation is appointed;
 
-                     (e)  a determination under section 487‑20 that an Aboriginal and Torres Strait Islander corporation is to cease to be under special administration.
+                     (e)  a determination under section 487-20 that an Aboriginal and Torres Strait Islander corporation is to cease to be under special administration.
 
              (2)  The Registrar must, as soon as practicable, give notice of the decision to:
 
@@ -14088,9 +14087,9 @@ Note:          The special administrator may be appointed eith
 
 ### Division 496—Effect of appointment of special administrator on officers of the corporation
 
-##### <a id="496‑1"></a>496‑1  General rule that offices of directors and secretary vacated when special administrator appointed
+##### <a id="496-1"></a>496-1  General rule that offices of directors and secretary vacated when special administrator appointed
 
-             (1)  Subject to section 496‑5, the following offices become vacant on the appointment of a special administrator for an Aboriginal and Torres Strait Islander corporation:
+             (1)  Subject to section 496-5, the following offices become vacant on the appointment of a special administrator for an Aboriginal and Torres Strait Islander corporation:
 
                      (a)  the office of each director of the corporation;
 
@@ -14098,9 +14097,9 @@ Note:          The special administrator may be appointed eith
 
              (2)  Subsection (1) applies even if the special administrator is appointed to replace another special administrator for the corporation.
 
-Note:          This subsection has the effect that if a special administrator is appointed and the Registrar determines, as part of that appointment, that the offices of the corporation’s officers are not to be vacated, the subsequent appointment of a replacement special administrator will automatically vacate those offices unless a fresh determination is made under section 496‑5 in relation to the new appointment.
+Note:          This subsection has the effect that if a special administrator is appointed and the Registrar determines, as part of that appointment, that the offices of the corporation’s officers are not to be vacated, the subsequent appointment of a replacement special administrator will automatically vacate those offices unless a fresh determination is made under section 496-5 in relation to the new appointment.
 
-##### <a id="496‑5"></a>496‑5  Registrar may determine that offices not vacated in certain circumstances
+##### <a id="496-5"></a>496-5  Registrar may determine that offices not vacated in certain circumstances
 
              (1)  The Registrar:
 
@@ -14114,7 +14113,7 @@ Note:          This subsection has the effect that if a specia
 
              (4)  A determination under subsection (1) must be included in the special administrator’s appointment.
 
-##### <a id="496‑10"></a>496‑10  Powers of officers can only be exercised by, or with the consent of, special administrator
+##### <a id="496-10"></a>496-10  Powers of officers can only be exercised by, or with the consent of, special administrator
 
              (1)  While an Aboriginal and Torres Strait Islander corporation is under special administration, a person (other than the special administrator) cannot perform or exercise, and must not purport to perform or exercise, a function or power as an officer of the corporation.
 
@@ -14130,15 +14129,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (4)  Subsection (1) does not remove an officer of an Aboriginal and Torres Strait Islander corporation from his or her office.
 
-             (5)  Section 496‑15 does not limit the generality of subsection (1) of this section.
+             (5)  Section 496-15 does not limit the generality of subsection (1) of this section.
 
              (6)  This section has effect despite:
 
-                     (a)  Part 5.2 of the Corporations Act (as applied by section 516‑1 of this Act); and
+                     (a)  Part 5.2 of the Corporations Act (as applied by section 516-1 of this Act); and
 
-                     (b)  Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act).
+                     (b)  Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act).
 
-Note:          This means that a receiver, or an administrator appointed under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act), cannot exercise any powers without the approval of the special administrator.
+Note:          This means that a receiver, or an administrator appointed under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act), cannot exercise any powers without the approval of the special administrator.
 
              (7)  Despite subsection (6), this section does not affect the validity of anything that a person who is:
 
@@ -14146,9 +14145,9 @@ Note:          This means that a receiver, or an administrator
 
                      (b)  an administrator of the corporation appointed under Part 5.3A of the Corporations Act;
 
-does after the special administration begins and on or before the day on which the Registrar complies with subsection 493‑1(4) in relation to the special administration.
+does after the special administration begins and on or before the day on which the Registrar complies with subsection 493-1(4) in relation to the special administration.
 
-##### <a id="496‑15"></a>496‑15  Only special administrator can deal with corporation’s property
+##### <a id="496-15"></a>496-15  Only special administrator can deal with corporation’s property
 
              (1)  This section applies if:
 
@@ -14172,7 +14171,7 @@ a transaction or dealing affecting property of the corporation.
 
                      (b)  in good faith and in the ordinary course of the ADI’s banking business; and
 
-                     (c)  after the special administration begins and on or before the day on which the Registrar complies with subsection 493‑1(4) in relation to the special administration.
+                     (c)  after the special administration begins and on or before the day on which the Registrar complies with subsection 493-1(4) in relation to the special administration.
 
              (4)  Subsection (2) has effect subject to an order that the Court makes after the purported transaction or dealing.
 
@@ -14188,11 +14187,11 @@ contravenes this subsection.
 
              (6)  This section has effect despite:
 
-                     (a)  Part 5.2 of the Corporations Act (as applied by section 516‑1 of this Act); and
+                     (a)  Part 5.2 of the Corporations Act (as applied by section 516-1 of this Act); and
 
-                     (b)  Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act).
+                     (b)  Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act).
 
-Note:          This means that a receiver, or an administrator appointed under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act), cannot exercise any powers without the approval of the special administrator.
+Note:          This means that a receiver, or an administrator appointed under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act), cannot exercise any powers without the approval of the special administrator.
 
              (7)  Despite subsection (6), this section does not affect the validity of anything that a person who is:
 
@@ -14200,29 +14199,29 @@ Note:          This means that a receiver, or an administrator
 
                      (b)  an administrator of the corporation appointed under Part 5.3A of the Corporations Act;
 
-does after the special administration begins and on or before the day on which the Registrar complies with subsection 493‑1(4) in relation to the special administration.
+does after the special administration begins and on or before the day on which the Registrar complies with subsection 493-1(4) in relation to the special administration.
 
-##### <a id="496‑20"></a>496‑20  Order for compensation where officer involved in void transaction
+##### <a id="496-20"></a>496-20  Order for compensation where officer involved in void transaction
 
              (1)  If:
 
-                     (a)  a court finds that a person committed an offence constituted by a contravention of subsection 496‑15(5) (including such an offence that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_); and
+                     (a)  a court finds that a person committed an offence constituted by a contravention of subsection 496-15(5) (including such an offence that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_); and
 
                      (b)  the court is satisfied that the Aboriginal and Torres Strait Islander corporation or another person has suffered loss or damage because of the act or omission constituting the offence;
 
-the court may (whether or not it imposes a penalty) order the first‑mentioned person to pay compensation to the corporation or other person, as the case may be, of such amount as the order specifies.
+the court may (whether or not it imposes a penalty) order the first-mentioned person to pay compensation to the corporation or other person, as the case may be, of such amount as the order specifies.
 
              (2)  An order under subsection (1) may be enforced as if it were a judgment of the court.
 
-             (3)  The power of a court under section 576‑1 to relieve a person from liability as mentioned in that section extends to relieving a person from liability to be ordered under this section to pay compensation.
+             (3)  The power of a court under section 576-1 to relieve a person from liability as mentioned in that section extends to relieving a person from liability to be ordered under this section to pay compensation.
 
 ### Division 499—Function, duties and powers of special administrator
 
-##### <a id="499‑1"></a>499‑1  Function of special administrator
+##### <a id="499-1"></a>499-1  Function of special administrator
 
                    While an Aboriginal and Torres Strait Islander corporation is under special administration, the special administrator is responsible for the conduct of the affairs of the corporation.
 
-##### <a id="499‑5"></a>499‑5  Powers of special administrator
+##### <a id="499-5"></a>499-5  Powers of special administrator
 
              (1)  While an Aboriginal and Torres Strait Islander corporation is under special administration, the special administrator:
 
@@ -14262,11 +14261,11 @@ This subsection has effect even if the offices of the corporation’s officers a
 
                       (f)  terminate a person’s appointment as contact person for the corporation.
 
-             (4)  In changing the corporation’s constitution, the special administrator does not have to comply with paragraph 69‑5(1)(a) (special resolution), section 69‑15 (satisfying extra requirements in constitution) or section 69‑20 (corporation to lodge copy of changes).
+             (4)  In changing the corporation’s constitution, the special administrator does not have to comply with paragraph 69-5(1)(a) (special resolution), section 69-15 (satisfying extra requirements in constitution) or section 69-20 (corporation to lodge copy of changes).
 
-Note:          The special administrator must still lodge a copy of the change under section 69‑25.
+Note:          The special administrator must still lodge a copy of the change under section 69-25.
 
-##### <a id="499‑10"></a>499‑10  Applying Corporations Act provisions to Aboriginal and Torres Strait Islander corporation that is under special administration
+##### <a id="499-10"></a>499-10  Applying Corporations Act provisions to Aboriginal and Torres Strait Islander corporation that is under special administration
 
              (1)  The following provisions of the Corporations Act apply to an Aboriginal and Torres Strait Islander corporation that is under special administration:
 
@@ -14365,13 +14364,13 @@ Note:          The special administrator must still lodge a co
 
 ### Division 502—Special administrator to report to Registrar
 
-##### <a id="502‑1"></a>502‑1  Report to Registrar
+##### <a id="502-1"></a>502-1  Report to Registrar
 
                    A special administrator for an Aboriginal and Torres Strait Islander corporation must give the Registrar such information as the Registrar requires from time to time.
 
 ### Division 505—Termination of special administrator’s appointment
 
-##### <a id="505‑1"></a>505‑1  Termination of appointment of special administrator
+##### <a id="505-1"></a>505-1  Termination of appointment of special administrator
 
              (1)  The appointment of a special administrator for an Aboriginal and Torres Strait Islander corporation terminates if:
 
@@ -14387,9 +14386,9 @@ Note:          The special administrator must still lodge a co
 
                       (f)  the Registrar terminates the special administrator’s appointment under subsection (4); or
 
-                     (g)  the Registrar terminates the special administration under section 487‑20.
+                     (g)  the Registrar terminates the special administration under section 487-20.
 
-Note:          The termination of the appointment of the special administrator does not necessarily terminate the special administration. For when the special administration ceases, see section 487‑25.
+Note:          The termination of the appointment of the special administrator does not necessarily terminate the special administration. For when the special administration ceases, see section 487-25.
 
              (2)  Subject to subsection (3), the special administrator’s resignation under paragraph (1)(e) takes effect at the end of the period of 28 days after the day on which the special administrator gives the notice to the Registrar.
 
@@ -14397,9 +14396,9 @@ Note:          The termination of the appointment of the speci
 
              (4)  The Registrar may, by notice in writing to the special administrator for an Aboriginal and Torres Strait Islander corporation, terminate the special administrator’s appointment if satisfied that it is appropriate to do so.
 
-##### <a id="505‑5"></a>505‑5  Grounds for terminating appointment
+##### <a id="505-5"></a>505-5  Grounds for terminating appointment
 
-                   Without limiting subsection 505‑1(4), the Registrar may be satisfied that it is appropriate to terminate the special administrator’s appointment if the Registrar is satisfied that:
+                   Without limiting subsection 505-1(4), the Registrar may be satisfied that it is appropriate to terminate the special administrator’s appointment if the Registrar is satisfied that:
 
                      (a)  it is no longer necessary for the corporation to be under special administration; or
 
@@ -14411,7 +14410,7 @@ Note:          The termination of the appointment of the speci
 
                      (e)  it would be appropriate in the circumstances to replace the special administrator with another special administrator with different skills, experience or qualifications.
 
-##### <a id="505‑10"></a>505‑10  Registrar to appoint new special administrator in certain circumstances
+##### <a id="505-10"></a>505-10  Registrar to appoint new special administrator in certain circumstances
 
              (1)  If the appointment of a special administrator for an Aboriginal and Torres Strait Islander corporation terminates, the Registrar must, as soon as practicable after the termination of the appointment, appoint another person as special administrator for the corporation.
 
@@ -14419,7 +14418,7 @@ Note:          The termination of the appointment of the speci
 
 ### Division 508—Transition to normal control of the corporation’s affairs at end of special administration
 
-##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
+##### <a id="508-1"></a>508-1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation must ensure that, immediately after the special administration of the corporation ends, there will be:
 
@@ -14433,17 +14432,17 @@ Note:          There are a number of different ways in which t
 
 (a)           the offices of the directors may not have been vacated when the special administrator was appointed and some or all of those directors may remain in office at the end of the special administration; or
 
-(b)           the special administrator may have exercised his or her power to appoint directors under subsection 499‑5(3) and some or all of the appointees may remain in office at the end of the special administration; or
+(b)           the special administrator may have exercised his or her power to appoint directors under subsection 499-5(3) and some or all of the appointees may remain in office at the end of the special administration; or
 
-(c)           persons may, at a general meeting of the members of the corporation called by the special administrator under section 508‑5, have been elected as directors to assume control of the corporation’s affairs when the special administration ends.
+(c)           persons may, at a general meeting of the members of the corporation called by the special administrator under section 508-5, have been elected as directors to assume control of the corporation’s affairs when the special administration ends.
 
              (2)  Subsection (1) does not apply if:
 
                      (a)  the corporation is to cease to be under special administration because a liquidator for the corporation is appointed; or
 
-                     (b)  the corporation is to cease to be under special administration so that an administrator may be appointed, or may resume exercising powers, under the Corporations Act administration provisions (as applied by section 521‑1 of this Act).
+                     (b)  the corporation is to cease to be under special administration so that an administrator may be appointed, or may resume exercising powers, under the Corporations Act administration provisions (as applied by section 521-1 of this Act).
 
-##### <a id="508‑5"></a>508‑5  Election of directors to take over affairs of corporation when corporation ceases to be under special administration
+##### <a id="508-5"></a>508-5  Election of directors to take over affairs of corporation when corporation ceases to be under special administration
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation may conduct an election to elect directors to assume control of the corporation’s affairs immediately after the corporation ceases to be under special administration.
 
@@ -14463,7 +14462,7 @@ Note:          There are a number of different ways in which t
 
 ### Division 511—Miscellaneous
 
-##### <a id="511‑1"></a>511‑1  Remuneration of special administrator
+##### <a id="511-1"></a>511-1  Remuneration of special administrator
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation is to receive such remuneration (if any) as the Registrar determines in writing.
 
@@ -14489,11 +14488,11 @@ Note:          There are a number of different ways in which t
 
                      (c)  is a member of the Australian Defence Force.
 
-## Part 11‑3—Receivers, and other controllers, of property of corporations
+## Part 11-3—Receivers, and other controllers, of property of corporations
 
 ### Division 516—Receivers, and other controllers, of property of corporations
 
-##### <a id="516‑1"></a>516‑1  Applying Corporations Act receiver provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="516-1"></a>516-1  Applying Corporations Act receiver provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act receiver provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -14597,11 +14596,11 @@ Note:          There are a number of different ways in which t
 
                      (c)  the regulations made under that Act for the purposes of Part 5.2 of that Act and the provisions referred to in paragraph (b).
 
-## Part 11‑4—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement
+## Part 11-4—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement
 
 ### Division 521—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement
 
-##### <a id="521‑1"></a>521‑1  Applying Corporations Act administration provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="521-1"></a>521-1  Applying Corporations Act administration provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act administration provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -14705,37 +14704,37 @@ Note:          There are a number of different ways in which t
 
                      (c)  the regulations made under that Act for the purposes of Part 5.3A of that Act and the provisions referred to in paragraph (b).
 
-##### <a id="521‑5"></a>521‑5  Administrator’s capacity to act as trustee
+##### <a id="521-5"></a>521-5  Administrator’s capacity to act as trustee
 
-  To avoid doubt, an administrator appointed under the Corporations Act administration provisions (as applied by section 521‑1 of this Act) may, under those provisions as applied, perform any function and exercise any power that the corporation has as trustee.
+  To avoid doubt, an administrator appointed under the Corporations Act administration provisions (as applied by section 521-1 of this Act) may, under those provisions as applied, perform any function and exercise any power that the corporation has as trustee.
 
-##### <a id="521‑10"></a>521‑10  Corporations Act administrator cannot be appointed if special administrator appointed
+##### <a id="521-10"></a>521-10  Corporations Act administrator cannot be appointed if special administrator appointed
 
-             (1)  An administrator of an Aboriginal and Torres Strait Islander corporation cannot be appointed under section 436A, 436B or 436C of the Corporations Act (as applied by section 521‑1) if:
+             (1)  An administrator of an Aboriginal and Torres Strait Islander corporation cannot be appointed under section 436A, 436B or 436C of the Corporations Act (as applied by section 521-1) if:
 
-                     (a)  the corporation is under special administration under Part 11‑2; or
+                     (a)  the corporation is under special administration under Part 11-2; or
 
                      (b)  the Registrar:
 
-                              (i)  has given the corporation a notice under subsection 487‑10(1); and
+                              (i)  has given the corporation a notice under subsection 487-10(1); and
 
-                             (ii)  has not given the corporation a notice under subsection 487‑10(5).
+                             (ii)  has not given the corporation a notice under subsection 487-10(5).
 
-             (2)  Paragraph (1)(b) does not apply if the Registrar has consented in writing to the appointment of the administrator under that section of the Corporations Act (as applied by section 521‑1 of this Act).
+             (2)  Paragraph (1)(b) does not apply if the Registrar has consented in writing to the appointment of the administrator under that section of the Corporations Act (as applied by section 521-1 of this Act).
 
              (3)  A consent under subsection (2) to the appointment of an administrator is not a legislative instrument.
 
-##### <a id="521‑15"></a>521‑15  Effect of appointment of special administrator on Corporations Act administrator
+##### <a id="521-15"></a>521-15  Effect of appointment of special administrator on Corporations Act administrator
 
              (1)  This section deals with the situation in which:
 
-                     (a)  an administrator of an Aboriginal and Torres Strait Islander corporation (the **_Corporations Act administrator_**) is appointed under section 436A, 436B or 436C of the Corporations Act (as applied by section 521‑1 of this Act); and
+                     (a)  an administrator of an Aboriginal and Torres Strait Islander corporation (the **_Corporations Act administrator_**) is appointed under section 436A, 436B or 436C of the Corporations Act (as applied by section 521-1 of this Act); and
 
-                     (b)  while that appointment continues, a special administrator for the corporation is appointed under Part 11‑2.
+                     (b)  while that appointment continues, a special administrator for the corporation is appointed under Part 11-2.
 
-Note:          Section 496‑10 deals with the effect of the special administrator’s appointment on the Corporations Act administrator’s powers.
+Note:          Section 496-10 deals with the effect of the special administrator’s appointment on the Corporations Act administrator’s powers.
 
-             (2)  The Court may order that the administration of the corporation under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act) is to end.
+             (2)  The Court may order that the administration of the corporation under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act) is to end.
 
              (3)  The order may be made on the application of:
 
@@ -14747,19 +14746,19 @@ Note:          Section 496‑10 deals with the effect of the
 
              (4)  The order may be made subject to conditions.
 
-## Part 11‑5—Winding up
+## Part 11-5—Winding up
 
 ### Division 526—Winding up
 
-##### <a id="526‑1"></a>526‑1  Court may order winding up
+##### <a id="526-1"></a>526-1  Court may order winding up
 
              (1)  The Court may order that an Aboriginal and Torres Strait Islander corporation be wound up.
 
-             (2)  The order may only be made on the grounds set out in section 526‑5.
+             (2)  The order may only be made on the grounds set out in section 526-5.
 
-             (3)  The order may only be made on an application made in accordance with section 526‑15.
+             (3)  The order may only be made on an application made in accordance with section 526-15.
 
-##### <a id="526‑5"></a>526‑5  Grounds for Court ordered winding up
+##### <a id="526-5"></a>526-5  Grounds for Court ordered winding up
 
                    The following are the grounds on which an Aboriginal and Torres Strait Islander corporation may be wound up:
 
@@ -14767,9 +14766,9 @@ Note:          Section 496‑10 deals with the effect of the
 
                      (b)  the business or operations of the corporation were not commenced within 1 year after its registration or have been suspended for a continuous period of 1 year;
 
-                     (c)  the corporation has ceased to satisfy a requirement for registration imposed by section 141‑5, 141‑10 or 141‑15;
+                     (c)  the corporation has ceased to satisfy a requirement for registration imposed by section 141-5, 141-10 or 141-15;
 
-                     (d)  section 26‑15 precludes the continued registration of the corporation;
+                     (d)  section 26-15 precludes the continued registration of the corporation;
 
                      (e)  the officers of the corporation have acted in the affairs of the corporation:
 
@@ -14803,9 +14802,9 @@ Note:          Section 496‑10 deals with the effect of the
 
                       (i)  the corporation is insolvent;
 
-                      (j)  the directors of the corporation have failed to comply with a notice that the Registrar has given the directors under section 439‑20;
+                      (j)  the directors of the corporation have failed to comply with a notice that the Registrar has given the directors under section 439-20;
 
-                     (k)  the corporation has failed, for a prescribed period, to lodge any financial or other reports required to be lodged by Part 7‑3;
+                     (k)  the corporation has failed, for a prescribed period, to lodge any financial or other reports required to be lodged by Part 7-3;
 
                       (l)  by reason of the complexity or magnitude of the activities of the corporation, it is inappropriate that it continue to be registered under this Act;
 
@@ -14821,27 +14820,27 @@ Note:          Section 496‑10 deals with the effect of the
 
                      (n)  the Court is satisfied that it is just and equitable that the corporation be wound up.
 
-##### <a id="526‑10"></a>526‑10  Acts etc. done to comply with Native Title legislation requirement
+##### <a id="526-10"></a>526-10  Acts etc. done to comply with Native Title legislation requirement
 
-             (1)  Paragraph 526‑5(e) or (f) does not apply to an officer of an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate merely because of doing (or refraining from doing) a particular act if the officer does (or refrains from doing) the act:
+             (1)  Paragraph 526-5(e) or (f) does not apply to an officer of an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate merely because of doing (or refraining from doing) a particular act if the officer does (or refrains from doing) the act:
 
                      (a)  in good faith; and
 
                      (b)  with the belief that doing (or refraining from doing) the act is necessary to ensure that the corporation complies with a Native Title legislation obligation.
 
-             (2)  Paragraph 526‑5(g) does not apply to an act or omission, or a proposed act or omission, by or on behalf of a corporation that is a registered native title body corporate, if the act or omission, or the proposed act or omission, was done:
+             (2)  Paragraph 526-5(g) does not apply to an act or omission, or a proposed act or omission, by or on behalf of a corporation that is a registered native title body corporate, if the act or omission, or the proposed act or omission, was done:
 
                      (a)  in good faith; and
 
                      (b)  with the belief that the doing of the act or omission, or the proposed act or omission, is necessary to ensure that the corporation complies with a Native Title legislation obligation.
 
-             (3)  Paragraph 526‑5(h) does not apply to a resolution, or a proposed resolution, of a class of members of a corporation that is a registered native title body corporate, if the resolution, or proposed resolution, was made:
+             (3)  Paragraph 526-5(h) does not apply to a resolution, or a proposed resolution, of a class of members of a corporation that is a registered native title body corporate, if the resolution, or proposed resolution, was made:
 
                      (a)  in good faith; and
 
                      (b)  with the belief that the making of the resolution, or proposed resolution, is necessary to ensure that the corporation complies with a Native Title legislation obligation.
 
-##### <a id="526‑15"></a>526‑15  Who may apply to court for winding up order
+##### <a id="526-15"></a>526-15  Who may apply to court for winding up order
 
              (1)  Any one or more of the following may apply to the Court for an order that an Aboriginal and Torres Strait Islander corporation be wound up:
 
@@ -14865,11 +14864,11 @@ This subsection has effect subject to subsections (2), (3), (4) and (5).
 
              (2)  The Registrar is the only person who may apply for an order that the corporation be wound up if the grounds on which the winding up is applied for are, or include, grounds referred to in any of the following:
 
-                     (a)  paragraph 526‑5(j) (failure to comply with a section 439‑20 notice);
+                     (a)  paragraph 526-5(j) (failure to comply with a section 439-20 notice);
 
-                     (b)  paragraph 526‑5(k) (failure to lodge reports);
+                     (b)  paragraph 526-5(k) (failure to lodge reports);
 
-                     (c)  paragraph 526‑5(l) (complexity or magnitude of corporation’s activities).
+                     (c)  paragraph 526-5(l) (complexity or magnitude of corporation’s activities).
 
              (3)  If the corporation is under special administration only the Registrar or the special administrator may apply for an order that the corporation be wound up.
 
@@ -14891,19 +14890,19 @@ This subsection has effect subject to subsections (2), (3), (4) and (5).
 
              (6)  Except as permitted by this section, a person is not entitled to apply for an order to wind up an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="526‑20"></a>526‑20  Voluntary winding up
+##### <a id="526-20"></a>526-20  Voluntary winding up
 
              (1)  Subject to subsection (5), an Aboriginal and Torres Strait Islander corporation may be wound up voluntarily if the members of the corporation in general meeting so resolve by special resolution.
 
              (2)  An Aboriginal and Torres Strait Islander corporation cannot resolve that it be wound up voluntarily if:
 
-                     (a)  the corporation is under special administration under Part 11‑2; or
+                     (a)  the corporation is under special administration under Part 11-2; or
 
                      (b)  the Registrar:
 
-                              (i)  has given the corporation a notice under subsection 487‑10(1); and
+                              (i)  has given the corporation a notice under subsection 487-10(1); and
 
-                             (ii)  has not given the corporation a notice under subsection 487‑10(5).
+                             (ii)  has not given the corporation a notice under subsection 487-10(5).
 
              (3)  Paragraph (2)(b) does not apply if the Registrar has consented in writing to the voluntary winding up of the corporation.
 
@@ -14929,7 +14928,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (8)  The Registrar must, within 21 days after the lodging of a notice under subsection (6), publish in the _Gazette_ a notice of the passing of the resolution to which the notice relates.
 
-##### <a id="526‑25"></a>526‑25  Distribution of surplus assets in winding up by Court
+##### <a id="526-25"></a>526-25  Distribution of surplus assets in winding up by Court
 
              (1)  This section applies if:
 
@@ -14939,7 +14938,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  If the corporation’s constitution includes provisions for the distribution of the surplus assets of the corporation in the event of the corporation’s being wound up, the Court or the liquidator must distribute those assets in accordance with those provisions. This subsection has effect subject to subsection (4).
 
-Note:          The liquidator may have powers in relation to the distribution of the surplus under section 488 of the Corporations Act (as applied by section 526‑35 of this Act).
+Note:          The liquidator may have powers in relation to the distribution of the surplus under section 488 of the Corporations Act (as applied by section 526-35 of this Act).
 
              (3)  If:
 
@@ -14949,7 +14948,7 @@ Note:          The liquidator may have powers in relation to t
 
 the Court or the liquidator must distribute those assets in accordance with that special resolution. This subsection has effect subject to subsection (4).
 
-Note:          The liquidator may have powers in relation to the distribution of the surplus under section 488 of the Corporations Act (as applied by section 526‑35 of this Act).
+Note:          The liquidator may have powers in relation to the distribution of the surplus under section 488 of the Corporations Act (as applied by section 526-35 of this Act).
 
              (4)  If:
 
@@ -14965,7 +14964,7 @@ Note:          The liquidator may have powers in relation to t
 
 the Judge must make such orders for the distribution of those assets as, having regard to the objects of the corporation, he or she considers just.
 
-##### <a id="526‑30"></a>526‑30  Distribution of surplus assets in voluntary winding up
+##### <a id="526-30"></a>526-30  Distribution of surplus assets in voluntary winding up
 
              (1)  This section applies if:
 
@@ -15011,7 +15010,7 @@ the liquidator must apply to a Judge of the Court for an order under subsection�
 
 the Judge must make such orders for the distribution of those assets as, having regard to the objects of the corporation, he or she considers just.
 
-##### <a id="526‑35"></a>526‑35  Applying Corporations Act winding up provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="526-35"></a>526-35  Applying Corporations Act winding up provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act winding up provisions apply to the winding up of an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -15078,7 +15077,7 @@ the Judge must make such orders for the distribution of those assets as, having 
     <div>section 459P</div>
   </td>
   <td>
-    <div>section 526‑15 of this Act</div>
+    <div>section 526-15 of this Act</div>
   </td>
 </tr>
 <tr>
@@ -15154,9 +15153,9 @@ but does not include the excluded winding up provisions of that Act.
 
                      (e)  section 491 of that Act (which deal with the resolution for a voluntary winding up).
 
-##### <a id="526‑40"></a>526‑40  Application of Corporations Act pre‑winding up provisions
+##### <a id="526-40"></a>526-40  Application of Corporations Act pre-winding up provisions
 
-             (1)  The Corporations Act pre‑winding up provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
+             (1)  The Corporations Act pre-winding up provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
 <table>
 <colgroup>
@@ -15210,7 +15209,7 @@ but does not include the excluded winding up provisions of that Act.
     <div>section 459P</div>
   </td>
   <td>
-    <div>section 526‑15 of this Act</div>
+    <div>section 526-15 of this Act</div>
   </td>
 </tr>
 <tr>
@@ -15236,13 +15235,13 @@ but does not include the excluded winding up provisions of that Act.
   </td>
 </tr></table>
 
-Note:          This section is intended to apply to Aboriginal and Torres Strait Islander corporations some provisions of the Corporations Act that are capable of operating before a winding up commences (or even whether or not a winding up ever occurs). Section 526‑35 only applies provisions of the Corporations Act to a winding up of an Aboriginal and Torres Strait Islander corporation.
+Note:          This section is intended to apply to Aboriginal and Torres Strait Islander corporations some provisions of the Corporations Act that are capable of operating before a winding up commences (or even whether or not a winding up ever occurs). Section 526-35 only applies provisions of the Corporations Act to a winding up of an Aboriginal and Torres Strait Islander corporation.
 
-             (2)  This section has effect without limiting section 526‑35.
+             (2)  This section has effect without limiting section 526-35.
 
              (3)  In this Act:
 
-                    <a name="pre-wind-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_pre‑winding up provisions_** means:
+                    <a name="pre-wind-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_pre-winding up provisions_** means:
 
                      (a)  section 459C, Divisions 2 and 3 of Part 5.4 and section 459Q of the Corporations Act; and
 
@@ -15258,11 +15257,11 @@ Note:          This section is intended to apply to Aboriginal
 
                      (g)  the regulations made under that Act for the purposes of the provisions of that Act referred to in paragraphs (a) to (e) and the provisions referred to in paragraph (f).
 
-## Part 11‑6—Insolvent trading
+## Part 11-6—Insolvent trading
 
 ### Division 531—Insolvent trading
 
-##### <a id="531‑1"></a>531‑1  Applying Corporations Act insolvent trading provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="531-1"></a>531-1  Applying Corporations Act insolvent trading provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act insolvent trading provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -15345,9 +15344,9 @@ Note:          This section is intended to apply to Aboriginal
   </td>
 </tr></table>
 
-Note:          Although section 526‑35 applies the provisions of Part 5.7B to the winding up of an Aboriginal and Torres Strait Islander corporation, the insolvent trading provisions are capable of applying independently of there being a winding up. This section ensures, for example, that a director of an Aboriginal and Torres Strait Islander corporation commits an offence if the corporation trades while insolvent (regardless of whether winding up proceedings are ever commenced).
+Note:          Although section 526-35 applies the provisions of Part 5.7B to the winding up of an Aboriginal and Torres Strait Islander corporation, the insolvent trading provisions are capable of applying independently of there being a winding up. This section ensures, for example, that a director of an Aboriginal and Torres Strait Islander corporation commits an offence if the corporation trades while insolvent (regardless of whether winding up proceedings are ever commenced).
 
-             (2)  This section has effect without limiting section 526‑35.
+             (2)  This section has effect without limiting section 526-35.
 
              (3)  In this Act:
 
@@ -15359,23 +15358,23 @@ Note:          Although section 526‑35 applies the provisi
 
                      (c)  the regulations made under that Act for the purposes of the Divisions of that Act referred to in paragraph (a) and the provisions referred to in paragraph (b).
 
-##### <a id="531‑5"></a>531‑5  Section 588G of Corporations Act prevails over conflicting Native Title legislation obligations
+##### <a id="531-5"></a>531-5  Section 588G of Corporations Act prevails over conflicting Native Title legislation obligations
 
              (1)  In the event of a conflict between:
 
                      (a)  the duty of a director of an Aboriginal and Torres Strait Islander corporation to ensure that the corporation comply with its Native Title legislation obligations; and
 
-                     (b)  the director’s duty in relation to the corporation under section 588G of the Corporations Act as applied by section 531‑1 of this Act;
+                     (b)  the director’s duty in relation to the corporation under section 588G of the Corporations Act as applied by section 531-1 of this Act;
 
-the director’s duty under section 588G of the Corporations Act as so applied prevails, and the director is released from the first‑mentioned duty, to the extent of the conflict.
+the director’s duty under section 588G of the Corporations Act as so applied prevails, and the director is released from the first-mentioned duty, to the extent of the conflict.
 
              (2)  The corporation is released from the duty to comply with its Native Title legislation obligations to the extent that complying with them would place a director of the corporation in breach of his or her duty in relation to the corporation under section 588G of the Corporations Act as so applied.
 
-## Part 11‑7—Employees’ entitlements
+## Part 11-7—Employees’ entitlements
 
 ### Division 536—Employees’ entitlements
 
-##### <a id="536‑1"></a>536‑1  Applying Corporations Act employees’ entitlements provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="536-1"></a>536-1  Applying Corporations Act employees’ entitlements provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act employees’ entitlements provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -15435,9 +15434,9 @@ the director’s duty under section 588G of the Corporations Act as so applied
   </td>
 </tr></table>
 
-Note:          Although section 526‑35 applies the provisions of Part 5.8A to the winding up of an Aboriginal and Torres Strait Islander corporation, the employees’ entitlements provisions are capable of applying independently of there being a winding up. This section ensures, for example, that a person will commit an offence (under the applied section 596AB) if the person enters into an agreement to defeat the entitlements of employees of an Aboriginal and Torres Strait Islander corporation (regardless of whether winding up proceedings are ever commenced).
+Note:          Although section 526-35 applies the provisions of Part 5.8A to the winding up of an Aboriginal and Torres Strait Islander corporation, the employees’ entitlements provisions are capable of applying independently of there being a winding up. This section ensures, for example, that a person will commit an offence (under the applied section 596AB) if the person enters into an agreement to defeat the entitlements of employees of an Aboriginal and Torres Strait Islander corporation (regardless of whether winding up proceedings are ever commenced).
 
-             (2)  This section has effect without limiting section 526‑35.
+             (2)  This section has effect without limiting section 526-35.
 
              (3)  In this Act:
 
@@ -15451,19 +15450,19 @@ Note:          Although section 526‑35 applies the provisi
 
 # Chapter 12—Transfer of registration, deregistration and unclaimed property
 
-## Part 12‑1—Transfer of registration to another system
+## Part 12-1—Transfer of registration to another system
 
 ### Division 540—Transfer of registration
 
-##### <a id="540‑1"></a>540‑1  Transferring registration
+##### <a id="540-1"></a>540-1  Transferring registration
 
                    An Aboriginal and Torres Strait Islander corporation may transfer its registration to registration under a law of the Commonwealth, a State or a Territory by:
 
                      (a)  passing a special resolution resolving to transfer its registration to registration under that law; and
 
-                     (b)  complying with sections 540‑5 and 540‑10.
+                     (b)  complying with sections 540-5 and 540-10.
 
-##### <a id="540‑5"></a>540‑5  Applying to transfer registration
+##### <a id="540-5"></a>540-5  Applying to transfer registration
 
                    To transfer its registration, an Aboriginal and Torres Strait Islander corporation must lodge an application with the Registrar together with:
 
@@ -15471,11 +15470,11 @@ Note:          Although section 526‑35 applies the provisi
 
                      (b)  a statement signed by the directors of the corporation that in their opinion the corporation’s creditors are not likely to be materially prejudiced by the change and that sets out their reasons for that opinion.
 
-##### <a id="540‑10"></a>540‑10  Registrar makes transfer of registration declaration
+##### <a id="540-10"></a>540-10  Registrar makes transfer of registration declaration
 
                    The Registrar may make a transfer of registration declaration in relation to the Aboriginal and Torres Strait Islander corporation under this section if the Registrar is satisfied that:
 
-                     (a)  the application complies with section 540‑5; and
+                     (a)  the application complies with section 540-5; and
 
                      (b)  the corporation’s creditors are not likely to be materially prejudiced by the transfer of the corporation’s registration; and
 
@@ -15485,7 +15484,7 @@ Note:          Although section 526‑35 applies the provisi
 
                              (ii)  the preservation of any rights or claims against the corporation (other than the right of a member as a member) that accrued while the corporation was registered under this Act.
 
-##### <a id="540‑15"></a>540‑15  Registrar to deregister corporation
+##### <a id="540-15"></a>540-15  Registrar to deregister corporation
 
              (1)  The Registrar must deregister the Aboriginal and Torres Strait Islander corporation if:
 
@@ -15495,13 +15494,13 @@ Note:          Although section 526‑35 applies the provisi
 
 Note:          Despite the deregistration, officers of the corporation may still be liable for things done before the corporation was deregistered.
 
-             (2)  Sections 546‑20, 546‑25, 546‑30 and 546‑35 do not apply to the deregistration of an Aboriginal and Torres Strait Islander corporation under this section.
+             (2)  Sections 546-20, 546-25, 546-30 and 546-35 do not apply to the deregistration of an Aboriginal and Torres Strait Islander corporation under this section.
 
-## Part 12‑2—Deregistration
+## Part 12-2—Deregistration
 
 ### Division 546—Deregistration
 
-##### <a id="546‑1"></a>546‑1  Deregistration—voluntary
+##### <a id="546-1"></a>546-1  Deregistration—voluntary
 
 Who may apply for deregistration
 
@@ -15549,7 +15548,7 @@ Deregistration procedure
 
                      (b)  the person nominated in the application to be given the notice.
 
-##### <a id="546‑5"></a>546‑5  Deregistration—Registrar initiated
+##### <a id="546-5"></a>546-5  Deregistration—Registrar initiated
 
 Circumstances in which the Registrar may deregister
 
@@ -15567,7 +15566,7 @@ Circumstances in which the Registrar may deregister
 
                      (b)  the corporation’s affairs have been fully wound up and a return that the liquidator should have lodged is at least 6 months late; or
 
-                     (c)  the corporation’s affairs have been fully wound up under Part 5.4 of the Corporations Act (as applied by section 526‑35 of this Act) and the corporation has no property or not enough property to cover the costs of obtaining a Court order for the corporation’s deregistration.
+                     (c)  the corporation’s affairs have been fully wound up under Part 5.4 of the Corporations Act (as applied by section 526-35 of this Act) and the corporation has no property or not enough property to cover the costs of obtaining a Court order for the corporation’s deregistration.
 
 Deregistration procedure
 
@@ -15587,37 +15586,37 @@ When 2 months have passed since the _Gazette_ notice, the Registrar may deregist
 
              (5)  The Registrar must give notice of the deregistration to everyone who was notified of the proposed deregistration under paragraph (3)(b) or (c).
 
-##### <a id="546‑10"></a>546‑10  Deregistration—following amalgamation or winding up
+##### <a id="546-10"></a>546-10  Deregistration—following amalgamation or winding up
 
              (1)  The Registrar must deregister an Aboriginal and Torres Strait Islander corporation if the Court orders the deregistration of the corporation under:
 
-                     (a)  paragraph 413(1)(d) of the Corporations Act (as applied by section 45‑1 of this Act) (reconstruction and amalgamations); or
+                     (a)  paragraph 413(1)(d) of the Corporations Act (as applied by section 45-1 of this Act) (reconstruction and amalgamations); or
 
-                     (b)  paragraph 481(5)(b) of the Corporations Act (as applied by section 526‑35 of this Act) (release of liquidator); or
+                     (b)  paragraph 481(5)(b) of the Corporations Act (as applied by section 526-35 of this Act) (release of liquidator); or
 
-                     (c)  subsection 509(6) of the Corporations Act (as applied by section 526‑35 of this Act) (liquidator’s return following winding up).
+                     (c)  subsection 509(6) of the Corporations Act (as applied by section 526-35 of this Act) (liquidator’s return following winding up).
 
              (2)  The Registrar must deregister an Aboriginal and Torres Strait Islander corporation if:
 
-                     (a)  3 months have passed since the corporation’s liquidator lodged a return under section 509 of the Corporations Act (as applied by section 526‑35 of this Act); and
+                     (a)  3 months have passed since the corporation’s liquidator lodged a return under section 509 of the Corporations Act (as applied by section 526-35 of this Act); and
 
-                     (b)  no order under subsection 509(6) of the Corporations Act (as applied by section 526‑35 of this Act) has been made during that period.
+                     (b)  no order under subsection 509(6) of the Corporations Act (as applied by section 526-35 of this Act) has been made during that period.
 
              (3)  If:
 
-                     (a)  an application is made under section 23‑1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) under Part 2‑3 to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**); and
+                     (a)  an application is made under section 23-1 to register an Aboriginal and Torres Strait Islander corporation (the **_amalgamated corporation_**) under Part 2-3 to replace 2 or more existing Aboriginal and Torres Strait Islander corporations (the **_amalgamating corporations_**); and
 
                      (b)  the Registrar registers the amalgamated corporation as a result of the application;
 
 the Registrar must deregister the amalgamating corporations.
 
-             (4)  Subsections 546‑20(2) to (7) and sections 546‑25 to 546‑40 do not apply to the deregistration of an Aboriginal and Torres Strait Islander corporation under subsection (3) of this section.
+             (4)  Subsections 546-20(2) to (7) and sections 546-25 to 546-40 do not apply to the deregistration of an Aboriginal and Torres Strait Islander corporation under subsection (3) of this section.
 
-##### <a id="546‑15"></a>546‑15  Registered native title body corporate
+##### <a id="546-15"></a>546-15  Registered native title body corporate
 
-                   The Registrar must not deregister an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate under section 546‑1, 546‑5 or 546‑10.
+                   The Registrar must not deregister an Aboriginal and Torres Strait Islander corporation that is a registered native title body corporate under section 546-1, 546-5 or 546-10.
 
-##### <a id="546‑20"></a>546‑20  Effect of deregistration
+##### <a id="546-20"></a>546-20  Effect of deregistration
 
 Aboriginal and Torres Strait Islander corporation ceases to exist
 
@@ -15631,11 +15630,11 @@ Corporation’s property vests in Registrar
 
              (3)  Under subsection (2), the Registrar takes only the same property rights that the corporation itself held. If the corporation held particular property subject to a security or other interest or claim, the Registrar takes the property subject to that interest or claim.
 
-Note:          See also subsection 546‑25(3), which deals with liabilities that a law imposes on the property (particularly liabilities such as rates, taxes and other charges).
+Note:          See also subsection 546-25(3), which deals with liabilities that a law imposes on the property (particularly liabilities such as rates, taxes and other charges).
 
              (4)  The Registrar has all the powers of an owner over property vested in the Registrar under subsection (2).
 
-Note:          Section 546‑30 confers additional powers on the Registrar to fulfil outstanding obligations of the deregistered corporation.
+Note:          Section 546-30 confers additional powers on the Registrar to fulfil outstanding obligations of the deregistered corporation.
 
 Corporation’s books to be kept by former directors
 
@@ -15649,7 +15648,7 @@ Corporation’s books to be kept by former directors
 
                     Penalty:  5 penalty units.
 
-             (6)  Subsection (5) does not apply to books that a liquidator has to keep under subsection 542(2) of the Corporations Act (as applied by section 526‑35 of this Act).
+             (6)  Subsection (5) does not apply to books that a liquidator has to keep under subsection 542(2) of the Corporations Act (as applied by section 526-35 of this Act).
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -15659,9 +15658,9 @@ Strict liability offences
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="546‑25"></a>546‑25  What the Registrar does with the property
+##### <a id="546-25"></a>546-25  What the Registrar does with the property
 
-             (1)  If property vested in the Registrar under subsection 546‑20(2) was held by the corporation on trust, the Registrar may:
+             (1)  If property vested in the Registrar under subsection 546-20(2) was held by the corporation on trust, the Registrar may:
 
                      (a)  continue to act as trustee; or
 
@@ -15679,7 +15678,7 @@ Note:          Under paragraph (a), the Registrar may be abl
 
                              (ii)  make payments authorised by subsection (3).
 
-The Registrar must deal with the rest of the property (if any) under Part 12‑3.
+The Registrar must deal with the rest of the property (if any) under Part 12-3.
 
 Obligations attaching to property
 
@@ -15703,13 +15702,13 @@ Accounts
 
                      (d)  all accounts, vouchers, receipts and papers relating to the property and that money.
 
-##### <a id="546‑30"></a>546‑30  Registrar’s power to fulfil outstanding obligations of deregistered corporation
+##### <a id="546-30"></a>546-30  Registrar’s power to fulfil outstanding obligations of deregistered corporation
 
                    The Registrar may do an act on behalf of the corporation or its liquidator if the Registrar is satisfied that the corporation or liquidator would be bound to do the act if the corporation still existed.
 
-Note:          This power is a general one and is not limited to acts in relation to property vested in the Registrar under subsection 546‑20(2). The Registrar has all the powers that automatically flow from the vesting of property in the Registrar under that subsection (see subsection 546‑20(4)) and may exercise those powers whether or not the corporation was bound to do so.
+Note:          This power is a general one and is not limited to acts in relation to property vested in the Registrar under subsection 546-20(2). The Registrar has all the powers that automatically flow from the vesting of property in the Registrar under that subsection (see subsection 546-20(4)) and may exercise those powers whether or not the corporation was bound to do so.
 
-##### <a id="546‑35"></a>546‑35  Claims against insurers of deregistered corporation
+##### <a id="546-35"></a>546-35  Claims against insurers of deregistered corporation
 
                    A person may recover from the insurer of an Aboriginal and Torres Strait Islander corporation that is deregistered an amount that was payable to the corporation under the insurance contract if:
 
@@ -15717,7 +15716,7 @@ Note:          This power is a general one and is not limited 
 
                      (b)  the insurance contract covered that liability immediately before deregistration.
 
-##### <a id="546‑40"></a>546‑40  Reinstatement
+##### <a id="546-40"></a>546-40  Reinstatement
 
 Reinstatement by the Registrar
 
@@ -15741,7 +15740,7 @@ Reinstatement by Court
 
                      (b)  make any other order it considers appropriate.
 
-Note:          For example, the Court may direct the Registrar to transfer to another person property vested in the Registrar under subsection 546‑20(2).
+Note:          For example, the Court may direct the Registrar to transfer to another person property vested in the Registrar under subsection 546-20(2).
 
 Registrar to give notice of reinstatement
 
@@ -15759,9 +15758,9 @@ Effect of reinstatement
 
                      (d)  if the corporation held particular property subject to a security or other interest or claim—the corporation takes the property subject to that interest or claim.
 
-##### <a id="546‑45"></a>546‑45  Regulations may modify Division in relation to statutory Indigenous land trusts
+##### <a id="546-45"></a>546-45  Regulations may modify Division in relation to statutory Indigenous land trusts
 
-             (1)  The regulations may modify any of the provisions of this Division (other than section 546‑15 and subsection (2) of this section) as they relate to an Aboriginal and Torres Strait Islander corporation that holds land for the benefit of Aboriginal persons or Torres Strait Islanders under:
+             (1)  The regulations may modify any of the provisions of this Division (other than section 546-15 and subsection (2) of this section) as they relate to an Aboriginal and Torres Strait Islander corporation that holds land for the benefit of Aboriginal persons or Torres Strait Islanders under:
 
                      (a)  the _Aboriginal Land Act 1991_ of Queensland; or
 
@@ -15773,17 +15772,17 @@ Effect of reinstatement
 
                      (b)  widen, or have the effect of widening, the scope of any offence.
 
-             (3)  This section does not limit section 633‑5 (which deals with regulations in relation to registered native title bodies corporate).
+             (3)  This section does not limit section 633-5 (which deals with regulations in relation to registered native title bodies corporate).
 
-## Part 12‑3—Unclaimed property
+## Part 12-3—Unclaimed property
 
 ### Division 551—Unclaimed property
 
-##### <a id="551‑1"></a>551‑1  Unclaimed property
+##### <a id="551-1"></a>551-1  Unclaimed property
 
-                   Property is **_unclaimed property_** if it is property that subsection 546‑25(2) provides for the Registrar to deal with under this Part.
+                   Property is **_unclaimed property_** if it is property that subsection 546-25(2) provides for the Registrar to deal with under this Part.
 
-##### <a id="551‑5"></a>551‑5  Registrar to deal with unclaimed property
+##### <a id="551-5"></a>551-5  Registrar to deal with unclaimed property
 
              (1)  The Registrar, on behalf of the Commonwealth, holds unclaimed property that is money at the time when it becomes unclaimed property on trust in accordance with, and for the purposes of, this Part.
 
@@ -15793,7 +15792,7 @@ Effect of reinstatement
 
                      (b)  sell or dispose of the property as the Registrar thinks fit and hold the proceeds, on behalf of the Commonwealth, on trust in accordance with, and for the purposes of, this Part.
 
-##### <a id="551‑10"></a>551‑10  Registrar and Commonwealth not liable to pay calls on shares etc.
+##### <a id="551-10"></a>551-10  Registrar and Commonwealth not liable to pay calls on shares etc.
 
                    If unclaimed property is or includes shares in a body corporate, the Registrar and the Commonwealth are not subject to any obligation:
 
@@ -15807,7 +15806,7 @@ Effect of reinstatement
 
 in respect of the shares, whether the obligation arises before or after the shares become unclaimed property, but this section does not affect the right of a body corporate to forfeit a share.
 
-##### <a id="551‑15"></a>551‑15  Disposition of money that is unclaimed property etc.
+##### <a id="551-15"></a>551-15  Disposition of money that is unclaimed property etc.
 
              (1)  This section applies to money that:
 
@@ -15821,15 +15820,15 @@ in respect of the shares, whether the obligation arises before or after the shar
 
                      (b)  the Registrar is satisfied that the person is entitled to the money;
 
-the Registrar must pay the money to the person in accordance with section 551‑30.
+the Registrar must pay the money to the person in accordance with section 551-30.
 
-##### <a id="551‑20"></a>551‑20  Establishment of the Aboriginal and Torres Strait Islander Corporations Unclaimed Money Account
+##### <a id="551-20"></a>551-20  Establishment of the Aboriginal and Torres Strait Islander Corporations Unclaimed Money Account
 
              (1)  The Aboriginal and Torres Strait Islander Corporations Unclaimed Money Account is established by this section.
 
              (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
 
-##### <a id="551‑25"></a>551‑25  Credits of amounts to Account
+##### <a id="551-25"></a>551-25  Credits of amounts to Account
 
                    There must be credited to the Account amounts equal to:
 
@@ -15837,11 +15836,11 @@ the Registrar must pay the money to the person in accordance with section 551�
 
                      (b)  money that represents the proceeds of unclaimed property.
 
-##### <a id="551‑30"></a>551‑30  Purposes of Account
+##### <a id="551-30"></a>551-30  Purposes of Account
 
              (1)  The purposes of the Account, in relation to which amounts may be debited from the Account, are:
 
-                     (a)  to pay persons whom the Registrar is satisfied under paragraph 551‑15(2)(b) are entitled to the money; and
+                     (a)  to pay persons whom the Registrar is satisfied under paragraph 551-15(2)(b) are entitled to the money; and
 
                      (b)  to reduce the balance of the Account (and therefore the available appropriation for the Account) without making a payment to any person if 6 years have elapsed since the unclaimed property was first held by the Registrar.
 
@@ -15849,19 +15848,19 @@ the Registrar must pay the money to the person in accordance with section 551�
 
              (3)  If:
 
-                     (a)  a person makes a claim under paragraph 551‑15(2)(a) to money that is unclaimed property, or to money that represents the proceeds of unclaimed property, after 6 years have elapsed since the property was first held by the Registrar as unclaimed property; and
+                     (a)  a person makes a claim under paragraph 551-15(2)(a) to money that is unclaimed property, or to money that represents the proceeds of unclaimed property, after 6 years have elapsed since the property was first held by the Registrar as unclaimed property; and
 
                      (b)  the Registrar is satisfied that the person is entitled to the money;
 
 the Registrar must pay the money to the person out of money that is appropriated by the Parliament for the purpose.
 
-##### <a id="551‑35"></a>551‑35  Claims of disposition of money to incorrect payee
+##### <a id="551-35"></a>551-35  Claims of disposition of money to incorrect payee
 
              (1)  If:
 
                      (a)  a person (the **_claimant_**) claims to be entitled to money; and
 
-                     (b)  the money has been paid to another person (the **_payee_**) in accordance with paragraph 551‑30(1)(a) or subsection 551‑30(3);
+                     (b)  the money has been paid to another person (the **_payee_**) in accordance with paragraph 551-30(1)(a) or subsection 551-30(3);
 
 the Registrar is not under any liability to the claimant in respect of that money, but, if the claimant is entitled to that money, the claimant may recover that money from the payee.
 
@@ -15869,21 +15868,21 @@ the Registrar is not under any liability to the claimant in respect of that mone
 
                      (a)  a person (the **_claimant_**) claims to be entitled to money; and
 
-                     (b)  an amount equivalent to that money has been paid to another person (the **_payee_**) in accordance with paragraph 551‑30(1)(a) or subsection 551‑30(3);
+                     (b)  an amount equivalent to that money has been paid to another person (the **_payee_**) in accordance with paragraph 551-30(1)(a) or subsection 551-30(3);
 
 the Registrar is not under any liability to the claimant in respect of that money, but, if the claimant is entitled to that money, the claimant may recover that equivalent amount from the payee.
 
-##### <a id="551‑40"></a>551‑40  Commonwealth or Registrar not liable for loss or damage
+##### <a id="551-40"></a>551-40  Commonwealth or Registrar not liable for loss or damage
 
                    Neither the Commonwealth nor the Registrar is liable for any loss or damage suffered by a person arising out of the exercise of, or the failure to exercise, any of the powers which are conferred on the Registrar under this Part or which the Registrar has in relation to unclaimed property.
 
 # Chapter 13—Offences
 
-## Part 13‑1—Offences about false or misleading statements etc.
+## Part 13-1—Offences about false or misleading statements etc.
 
 ### Division 561—Offences about false or misleading statements etc.
 
-##### <a id="561‑1"></a>561‑1  False or misleading statements
+##### <a id="561-1"></a>561-1  False or misleading statements
 
              (1)  A person commits an offence if the person, in a document required by or for the purposes of this Act or lodged with or submitted to the Registrar:
 
@@ -15901,7 +15900,7 @@ the Registrar is not under any liability to the claimant in respect of that mone
 
 is, for the purposes of subsection (1), taken to have made or authorised the making of a statement that, to the person’s knowledge, was false or misleading in a material particular.
 
-             (3)  A person is not liable to be prosecuted for an offence in consequence of a regulation made under section 633‑1 as well as for an offence against subsection (1) of this section.
+             (3)  A person is not liable to be prosecuted for an offence in consequence of a regulation made under section 633-1 as well as for an offence against subsection (1) of this section.
 
              (4)  A person commits an offence if the person, in a document required by or for the purposes of this Act or lodged with the Registrar:
 
@@ -15939,7 +15938,7 @@ the person is taken to have authorised the making of the statement or the omissi
 
 is taken to be part of the report referred to in paragraph (c).
 
-##### <a id="561‑5"></a>561‑5  False information etc.
+##### <a id="561-5"></a>561-5  False information etc.
 
              (1)  An officer or employee of an Aboriginal and Torres Strait Islander corporation commits an offence if:
 
@@ -15987,15 +15986,15 @@ is taken to be part of the report referred to in paragraph (c).
 
              (4)  If information is made available or given to a person referred to in subparagraph (1)(a)(i) or (ii) or (2)(a)(i) or (ii) in response to a question asked by that person, the question and the information are to be considered together in determining whether the information was false or misleading.
 
-## Part 13‑2—General matters relating to offences
+## Part 13-2—General matters relating to offences
 
 ### Division 566—General matters relating to offences
 
-##### <a id="566‑1"></a>566‑1  Penalties for bodies corporate
+##### <a id="566-1"></a>566-1  Penalties for bodies corporate
 
                    If a body corporate is convicted of an offence against this Act, the penalty that the court may impose is a fine not exceeding 5 times the maximum amount that, but for this section, the court could impose as a pecuniary penalty for that offence.
 
-##### <a id="566‑5"></a>566‑5  Penalty notices
+##### <a id="566-5"></a>566-5  Penalty notices
 
              (1)  If the Registrar has reason to believe that a person has committed a prescribed offence, the Registrar may, subject to subsection (3), give the person a written notice:
 
@@ -16023,7 +16022,7 @@ is taken to be part of the report referred to in paragraph (c).
 
                      (a)  to give a person more than one notice under that subsection in relation to an alleged commission by that person of a particular prescribed offence; or
 
-                     (b)  to give a person a notice under that subsection in relation to a prescribed offence unless proceedings could be instituted against that person for that offence in accordance with section 566‑15.
+                     (b)  to give a person a notice under that subsection in relation to a prescribed offence unless proceedings could be instituted against that person for that offence in accordance with section 566-15.
 
              (4)  A notice under subsection (1) may be given to a natural person either personally or by post.
 
@@ -16031,7 +16030,7 @@ is taken to be part of the report referred to in paragraph (c).
 
                      (a)  if, within the period specified in the notice, the person pays the prescribed penalty to the Registrar, and does the act or thing—no proceedings may be instituted against the person in respect of the prescribed offence; or
 
-                     (b)  if, at the end of the period specified in the notice, the person has paid the prescribed penalty to the Registrar but has not done the act or thing—no proceedings may be instituted against the person in respect of the prescribed offence, but the obligation to do that act or thing continues, and section 566‑10 applies in relation to the continued failure to do that act or thing as if, on the day on which the person so paid the prescribed penalty, the person had been convicted of an offence constituted by a failure to do that act or thing; or
+                     (b)  if, at the end of the period specified in the notice, the person has paid the prescribed penalty to the Registrar but has not done the act or thing—no proceedings may be instituted against the person in respect of the prescribed offence, but the obligation to do that act or thing continues, and section 566-10 applies in relation to the continued failure to do that act or thing as if, on the day on which the person so paid the prescribed penalty, the person had been convicted of an offence constituted by a failure to do that act or thing; or
 
                      (c)  if, at the end of the period specified in the notice, the person has not paid the prescribed penalty to the Registrar but had done the act or thing—proceedings may be instituted against the person in respect of the prescribed offence; or
 
@@ -16053,7 +16052,7 @@ is taken to be part of the report referred to in paragraph (c).
 
                     <a name="prescrib-penalti"></a>**_prescribed penalty_**, in relation to a prescribed offence in relation to which the Registrar may give, or has given, to a person a notice under subsection (1), means a penalty of the amount that the regulations prescribe in relation to the offence.
 
-##### <a id="566‑10"></a>566‑10  Continuing offences
+##### <a id="566-10"></a>566-10  Continuing offences
 
              (1)  If:
 
@@ -16159,7 +16158,7 @@ then:
 
              (7)  For the purposes of subsection (4), a provision of this Act is, whether or not it expressly provides as mentioned in paragraph (4)(a), taken to provide that a person who is or was involved in a contravention constituted by a failure to do an act required by the provision contravenes or contravened that provision.
 
-##### <a id="566‑15"></a>566‑15  Time for instituting criminal proceedings
+##### <a id="566-15"></a>566-15  Time for instituting criminal proceedings
 
                    Despite anything in any other law, proceedings for an offence against this Act may be instituted:
 
@@ -16167,7 +16166,7 @@ then:
 
                      (b)  with the Minister’s consent, at any later time.
 
-##### <a id="566‑20"></a>566‑20  Privilege against self‑incrimination not available to bodies corporate in certain proceedings
+##### <a id="566-20"></a>566-20  Privilege against self-incrimination not available to bodies corporate in certain proceedings
 
              (1)  This section applies to a proceeding in a court when exercising jurisdiction in respect of a criminal matter arising under this Act.
 
@@ -16187,7 +16186,7 @@ on the ground that the answer or information, production of the book or other th
 
              (3)  Subsection (2) applies whether or not the body concerned is a defendant in the proceeding or in any other proceeding.
 
-##### <a id="566‑25"></a>566‑25  Certain persons to assist in prosecutions
+##### <a id="566-25"></a>566-25  Certain persons to assist in prosecutions
 
              (1)  If a prosecution in respect of an offence against this Act has been instituted, or the Registrar is of the opinion that a prosecution in respect of an offence against this Act ought to be instituted, against a person (the **_defendant_**), the Registrar may:
 
@@ -16215,11 +16214,11 @@ whether that person is an employee or an officer of the defendant or not.
 
 # Chapter 14—Courts and proceedings
 
-## Part 14‑1—Powers of courts
+## Part 14-1—Powers of courts
 
 ### Division 576—Powers of courts
 
-##### <a id="576‑1"></a>576‑1  Power to grant relief
+##### <a id="576-1"></a>576-1  Power to grant relief
 
              (1)  If, in any civil proceeding against a person to whom this section applies for negligence, default, breach of trust or breach of duty in a capacity as such a person, it appears to the court before which the proceedings are taken:
 
@@ -16257,7 +16256,7 @@ the court may relieve the person either wholly or partly from liability on such 
 
                      (e)  a special administrator for an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="576‑5"></a>576‑5  Power of Court to give directions with respect to meetings ordered by the Court
+##### <a id="576-5"></a>576-5  Power of Court to give directions with respect to meetings ordered by the Court
 
                    If, under this Act, the Court orders a meeting to be convened, the Court may, subject to this Act, give such directions with respect to:
 
@@ -16265,7 +16264,7 @@ the court may relieve the person either wholly or partly from liability on such 
 
                      (b)  such ancillary or consequential directions in relation to the meeting as it thinks fit.
 
-##### <a id="576‑10"></a>576‑10  Appeals from decisions of receivers, liquidators etc.
+##### <a id="576-10"></a>576-10  Appeals from decisions of receivers, liquidators etc.
 
              (1)  A person aggrieved by any act, omission or decision of:
 
@@ -16283,7 +16282,7 @@ may appeal to the Court in respect of the act, omission or decision.
 
              (2)  The Court may confirm, reverse or modify the act or decision, or remedy the omission, as the case may be, and make such orders and give such directions as it thinks fit.
 
-##### <a id="576‑15"></a>576‑15  Irregularities
+##### <a id="576-15"></a>576-15  Irregularities
 
              (1)  In this section:
 
@@ -16305,13 +16304,13 @@ may appeal to the Court in respect of the act, omission or decision.
 
                      (a)  the accidental omission to give notice of the meeting; or
 
-                     (b)  the non‑receipt by any person of notice of the meeting;
+                     (b)  the non-receipt by any person of notice of the meeting;
 
 unless the Court, on the application of the person concerned, a person entitled to attend the meeting or the Registrar, declares proceedings at the meeting to be void.
 
              (4)  A meeting held for the purposes of this Act, or a meeting notice of which is required to be given in accordance with the provisions of this Act, or any proceeding at such a meeting, is not invalidated merely because of the inability of a person to access the notice of meeting, unless the Court, on the application of the person concerned, a person entitled to attend the meeting or the Registrar, declares proceedings at the meeting to be void.
 
-Note:          Under paragraph 201‑25(3)(e), an Aboriginal and Torres Strait Islander corporation may, in certain circumstances, give a member notice of a meeting by notifying the member that the notice of meeting is available and how the member may access the notice of meeting.
+Note:          Under paragraph 201-25(3)(e), an Aboriginal and Torres Strait Islander corporation may, in certain circumstances, give a member notice of a meeting by notifying the member that the notice of meeting is available and how the member may access the notice of meeting.
 
              (5)  If a member does not have a reasonable opportunity to participate in a meeting of members, or part of a meeting of members, held at 2 or more venues, the meeting will only be invalid on that ground if:
 
@@ -16351,7 +16350,7 @@ and may make such consequential or ancillary orders as the Court thinks fit.
 
                      (c)  in every case—that no substantial injustice has been or is likely to be caused to any person.
 
-##### <a id="576‑20"></a>576‑20  Power of Court to prohibit payment or transfer of money, financial products or other property
+##### <a id="576-20"></a>576-20  Power of Court to prohibit payment or transfer of money, financial products or other property
 
              (1)  If:
 
@@ -16399,7 +16398,7 @@ and the Court considers it necessary or desirable to do so for the purpose of pr
 
              (6)  On an application under subsection (1), the Court must not require the applicant or any other person, as a condition of granting an interim order under subsection (5), to give an undertaking as to damages.
 
-             (7)  If the Court has made an order under this section on a person’s application, the Court may, on application by that person or by any person affected by the order, make a further order discharging or varying the first‑mentioned order.
+             (7)  If the Court has made an order under this section on a person’s application, the Court may, on application by that person or by any person affected by the order, make a further order discharging or varying the first-mentioned order.
 
              (8)  An order made under subsection (1) or (5) may be expressed to operate for a specified period or until the order is discharged by a further order under this section.
 
@@ -16415,7 +16414,7 @@ and the Court considers it necessary or desirable to do so for the purpose of pr
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="576‑25"></a>576‑25  Injunctions
+##### <a id="576-25"></a>576-25  Injunctions
 
              (1)  If a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
 
@@ -16431,7 +16430,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                       (f)  conspiring with others to contravene this Act;
 
-the Court may, on the application of the Registrar, or of a person whose interests have been, are or would be affected by the conduct, grant an injunction, on such terms as the Court thinks appropriate, restraining the first‑mentioned person from engaging in the conduct and, if in the opinion of the Court it is desirable to do so, requiring that person to do any act or thing.
+the Court may, on the application of the Registrar, or of a person whose interests have been, are or would be affected by the conduct, grant an injunction, on such terms as the Court thinks appropriate, restraining the first-mentioned person from engaging in the conduct and, if in the opinion of the Court it is desirable to do so, requiring that person to do any act or thing.
 
              (2)  If a person has refused or failed, is refusing or failing, or is proposing to refuse or fail, to do an act or thing that the person is required by this Act to do, the Court may, on the application of:
 
@@ -16439,7 +16438,7 @@ the Court may, on the application of the Registrar, or of a person whose interes
 
                      (b)  any person whose interests have been, are or would be affected by the refusal or failure to do that act or thing;
 
-grant an injunction, on such terms as the Court thinks appropriate, requiring the first‑mentioned person to do that act or thing.
+grant an injunction, on such terms as the Court thinks appropriate, requiring the first-mentioned person to do that act or thing.
 
              (3)  If an application for an injunction under subsection (1) or (2) has been made, the Court may, if the Court determines it to be appropriate, grant an injunction by consent of all the parties to the proceedings, whether or not the Court is satisfied that that subsection applies.
 
@@ -16453,7 +16452,7 @@ grant an injunction, on such terms as the Court thinks appropriate, requiring th
 
                      (b)  whether or not the person has previously engaged in conduct of that kind; and
 
-                     (c)  whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person engages in conduct of that kind.
+                     (c)  whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
              (7)  The power of the Court to grant an injunction requiring a person to do an act or thing may be exercised:
 
@@ -16461,19 +16460,19 @@ grant an injunction, on such terms as the Court thinks appropriate, requiring th
 
                      (b)  whether or not the person has previously refused or failed to do that act or thing; and
 
-                     (c)  whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person refuses or fails to do that act or thing.
+                     (c)  whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
              (8)  If the Registrar applies to the Court for the grant of an injunction under this section, the Court must not require the applicant or any other person, as a condition of granting an interim injunction, to give an undertaking as to damages.
 
-             (9)  In proceedings under this section against a person the Court may make an order under section 576‑20 in respect of the person.
+             (9)  In proceedings under this section against a person the Court may make an order under section 576-20 in respect of the person.
 
            (10)  If the Court has power under this section to grant an injunction restraining a person from engaging in particular conduct, or requiring a person to do a particular act or thing, the Court may, either in addition to or in substitution for the grant of the injunction, order that person to pay damages to any other person.
 
-##### <a id="576‑30"></a>576‑30  Effect of sections 576‑20 and 576‑25
+##### <a id="576-30"></a>576-30  Effect of sections 576-20 and 576-25
 
-                   Nothing in either of sections 576‑20 or 576‑25 limits the generality of anything else in either of those sections.
+                   Nothing in either of sections 576-20 or 576-25 limits the generality of anything else in either of those sections.
 
-##### <a id="576‑35"></a>576‑35  Power of Court to punish for contempt of Court
+##### <a id="576-35"></a>576-35  Power of Court to punish for contempt of Court
 
                    Nothing in a provision of this Act that provides:
 
@@ -16483,11 +16482,11 @@ grant an injunction, on such terms as the Court thinks appropriate, requiring th
 
 affects the powers of the Court in relation to the punishment of contempts of the Court.
 
-## Part 14‑2—Proceedings
+## Part 14-2—Proceedings
 
 ### Division 581—Proceedings
 
-##### <a id="581‑1"></a>581‑1  The Registrar’s power to intervene in proceedings
+##### <a id="581-1"></a>581-1  The Registrar’s power to intervene in proceedings
 
              (1)  The Registrar may intervene in any proceeding relating to a matter arising under this Act.
 
@@ -16499,11 +16498,11 @@ affects the powers of the Court in relation to the punishment of contempts of th
 
                      (b)  by solicitor or counsel.
 
-##### <a id="581‑5"></a>581‑5  Civil proceedings not to be stayed
+##### <a id="581-5"></a>581-5  Civil proceedings not to be stayed
 
                    No civil proceedings under this Act are to be stayed merely because the proceeding discloses, or arises out of, the commission of an offence.
 
-##### <a id="581‑10"></a>581‑10  Standard of proof
+##### <a id="581-10"></a>581-10  Standard of proof
 
                    If, in proceedings other than proceedings for an offence, it is necessary to establish, or for the Court to be satisfied, for any purpose relating to a matter arising under this Act, that:
 
@@ -16517,7 +16516,7 @@ affects the powers of the Court in relation to the punishment of contempts of th
 
 it is sufficient if the matter referred to in paragraph (a), (b), (c) or (d) is established, or the Court is so satisfied, as the case may be, on the balance of probabilities.
 
-##### <a id="581‑15"></a>581‑15  Evidence of contravention
+##### <a id="581-15"></a>581-15  Evidence of contravention
 
                    For the purposes of this Act, a certificate that:
 
@@ -16535,13 +16534,13 @@ is, unless it is proved that the conviction was quashed or set aside, or that th
 
                      (d)  if the offence was constituted by a contravention of a provision of a law—that the person contravened that provision.
 
-##### <a id="581‑20"></a>581‑20  Costs
+##### <a id="581-20"></a>581-20  Costs
 
              (1)  If an Aboriginal and Torres Strait Islander corporation is plaintiff in any action or other legal proceeding, the court having jurisdiction in the matter may, if it appears by credible testimony that there is reason to believe that the corporation will be unable to pay the costs of the defendant if successful in his, her or its defence, require sufficient security to be given for those costs and stay all proceedings until the security is given.
 
              (2)  The costs of any proceeding before a court under this Act are to be borne by such party to the proceeding as the court, in its discretion, directs.
 
-##### <a id="581‑25"></a>581‑25  Vesting of property
+##### <a id="581-25"></a>581-25  Vesting of property
 
              (1)  If an order is made by a court under this Act vesting property in a person:
 
@@ -16567,13 +16566,13 @@ the property, despite that it vests in equity in the person named in the order, 
 
 the property, despite that it vests in equity in that person by force of this Act, does not vest in that person at law until the requirements of the law referred to in paragraph (b) have been complied with.
 
-## Part 14‑3—Jurisdiction and procedure of courts
+## Part 14-3—Jurisdiction and procedure of courts
 
 ### Division 586—Civil jurisdiction
 
-#### Subdivision 586‑A—Introduction
+#### Subdivision 586-A—Introduction
 
-##### <a id="586‑1"></a>586‑1  Operation of Division
+##### <a id="586-1"></a>586-1  Operation of Division
 
              (1)  This Division deals with:
 
@@ -16585,7 +16584,7 @@ the property, despite that it vests in equity in that person by force of this Ac
 
              (2)  This Division operates to the exclusion of:
 
-                     (a)  the _Jurisdiction of Courts (Cross‑vesting) Act 1987_; and
+                     (a)  the _Jurisdiction of Courts (Cross-vesting) Act 1987_; and
 
                      (b)  section 39B of the _Judiciary Act 1903_.
 
@@ -16595,9 +16594,9 @@ the property, despite that it vests in equity in that person by force of this Ac
 
              (5)  Nothing in this Division affects any other jurisdiction of any court.
 
-#### Subdivision 586‑B—Conferral of jurisdiction
+#### Subdivision 586-B—Conferral of jurisdiction
 
-##### <a id="586‑5"></a>586‑5  Jurisdiction of Federal Court and State and Territory Supreme Courts
+##### <a id="586-5"></a>586-5  Jurisdiction of Federal Court and State and Territory Supreme Courts
 
              (1)  Jurisdiction is conferred on the Federal Court of Australia with respect to civil matters arising under the Aboriginal and Torres Strait Islander Corporations legislation.
 
@@ -16623,7 +16622,7 @@ with respect to matters arising under that Act involving or related to decisions
 
 Note 1:       The Federal Court also has jurisdiction with respect to these matters under that Act.
 
-Note 2:       A Supreme Court may be required to transfer a proceeding with respect to such a matter to the Federal Court (see subsection 586‑35(3)).
+Note 2:       A Supreme Court may be required to transfer a proceeding with respect to such a matter to the Federal Court (see subsection 586-35(3)).
 
              (4)  Subsection (3) applies to a decision made, or proposed or required to be made:
 
@@ -16633,9 +16632,9 @@ Note 2:       A Supreme Court may be required to transfer a proceedi
 
              (5)  The jurisdiction conferred on a Supreme Court by subsection (2) or (3) is not limited by any limits to which any other jurisdiction of that Supreme Court may be subject.
 
-             (6)  This section has effect subject to section 586‑15.
+             (6)  This section has effect subject to section 586-15.
 
-##### <a id="586‑10"></a>586‑10  Jurisdiction of Family Court and State Family Courts
+##### <a id="586-10"></a>586-10  Jurisdiction of Family Court and State Family Courts
 
              (1)  Jurisdiction is conferred on the Family Court with respect to civil matters arising under the Aboriginal and Torres Strait Islander Corporations legislation.
 
@@ -16643,9 +16642,9 @@ Note 2:       A Supreme Court may be required to transfer a proceedi
 
              (3)  The jurisdiction conferred on a State Family Court by subsection (2) is not limited by any limits to which any other jurisdiction of the State Family Court may be subject.
 
-             (4)  This section has effect subject to section 586‑15.
+             (4)  This section has effect subject to section 586-15.
 
-##### <a id="586‑15"></a>586‑15  Jurisdiction of courts (decisions to prosecute and related criminal justice process decisions made by Commonwealth officers)
+##### <a id="586-15"></a>586-15  Jurisdiction of courts (decisions to prosecute and related criminal justice process decisions made by Commonwealth officers)
 
              (1)  If a decision to prosecute a person for an offence against the Aboriginal and Torres Strait Islander Corporations legislation has been made by an officer or officers of the Commonwealth and the prosecution is proposed to be commenced in a State or Territory court:
 
@@ -16695,7 +16694,7 @@ the following apply:
 
                      (e)  a decision in connection with an appeal arising out of the prosecution.
 
-##### <a id="586‑20"></a>586‑20  Jurisdiction of lower courts
+##### <a id="586-20"></a>586-20  Jurisdiction of lower courts
 
              (1)  Subject to section 9 of the _Administrative Decisions (Judicial Review) Act 1977_, jurisdiction is conferred on the lower courts of:
 
@@ -16719,7 +16718,7 @@ with respect to civil matters (other than superior court matters) arising under 
 
                      (b)  is not subject to the court’s other jurisdictional limits.
 
-##### <a id="586‑25"></a>586‑25  Appeals
+##### <a id="586-25"></a>586-25  Appeals
 
              (1)  An appeal may not be instituted from a decision of the Federal Court to:
 
@@ -16757,19 +16756,19 @@ with respect to civil matters (other than superior court matters) arising under 
 
                      (c)  except in accordance with the law of the State under which the State Family Court is constituted—the Supreme Court of that State.
 
-##### <a id="586‑30"></a>586‑30  Courts to act in aid of each other
+##### <a id="586-30"></a>586-30  Courts to act in aid of each other
 
                    All courts having jurisdiction in:
 
                      (a)  civil matters arising under the Aboriginal and Torres Strait Islander Corporations legislation; or
 
-                     (b)  matters referred to in subsection 586‑5(3);
+                     (b)  matters referred to in subsection 586-5(3);
 
 and the officers of, or under the control of, those courts must severally act in aid of, and be auxiliary to, each other in all those matters.
 
-#### Subdivision 586‑C—Transfer of proceedings
+#### Subdivision 586-C—Transfer of proceedings
 
-##### <a id="586‑35"></a>586‑35  Transfer of proceedings by the Federal Court and State and Territory Supreme Courts
+##### <a id="586-35"></a>586-35  Transfer of proceedings by the Federal Court and State and Territory Supreme Courts
 
              (1)  This section applies to a proceeding (the **_relevant proceeding_**) in a court (the **_transferor court_**) if:
 
@@ -16777,7 +16776,7 @@ and the officers of, or under the control of, those courts must severally act in
 
                               (i)  a proceeding with respect to a civil matter arising under the Aboriginal and Torres Strait Islander Corporations legislation; or
 
-                             (ii)  a subsection 586‑5(3) proceeding; and
+                             (ii)  a subsection 586-5(3) proceeding; and
 
                      (b)  the transferor court is:
 
@@ -16795,7 +16794,7 @@ to be determined by another court that has jurisdiction in the matters for deter
 
              (3)  If:
 
-                     (a)  the relevant proceeding is a subsection 586‑5(3) proceeding; and
+                     (a)  the relevant proceeding is a subsection 586-5(3) proceeding; and
 
                      (b)  the transferor court is a State or Territory Supreme Court;
 
@@ -16803,15 +16802,15 @@ the transferor court must transfer the relevant proceeding to the Federal Court 
 
                      (c)  arises, or a substantial part of which arises, under the Aboriginal and Torres Strait Islander Corporations legislation; and
 
-                     (d)  is not a subsection 586‑5(3) proceeding;
+                     (d)  is not a subsection 586-5(3) proceeding;
 
 regardless of which proceeding was commenced first.
 
-             (4)  Even if subsection (3) does not require a State or Territory Supreme Court to transfer a subsection 586‑5(3) proceeding to the Federal Court, it may nevertheless do so if it considers that to be appropriate, having regard to the interests of justice, including the desirability of related proceedings being heard in the same State or Territory.
+             (4)  Even if subsection (3) does not require a State or Territory Supreme Court to transfer a subsection 586-5(3) proceeding to the Federal Court, it may nevertheless do so if it considers that to be appropriate, having regard to the interests of justice, including the desirability of related proceedings being heard in the same State or Territory.
 
              (5)  If:
 
-                     (a)  the relevant proceeding is a subsection 586‑5(3) proceeding in relation to a matter; and
+                     (a)  the relevant proceeding is a subsection 586-5(3) proceeding in relation to a matter; and
 
                      (b)  the transferor court is the Federal Court;
 
@@ -16821,7 +16820,7 @@ the transferor court may only transfer the relevant proceeding, or an applicatio
 
                               (i)  arises, or a substantial part of which arises, under the Aboriginal and Torres Strait Islander Corporations legislation; and
 
-                             (ii)  is not a subsection 586‑5(3) proceeding;
+                             (ii)  is not a subsection 586-5(3) proceeding;
 
                             regardless of which proceeding was commenced first; and
 
@@ -16831,7 +16830,7 @@ the transferor court may only transfer the relevant proceeding, or an applicatio
 
              (7)  The fact that some references in this section to the interests of justice include the desirability of related proceedings being heard in the same jurisdiction does not of itself mean that other references to the interests of justice, in this section or elsewhere in this Act, do not include that matter.
 
-##### <a id="586‑40"></a>586‑40  Transfer of proceedings by Family Court and State Family Courts
+##### <a id="586-40"></a>586-40  Transfer of proceedings by Family Court and State Family Courts
 
              (1)  This section applies to a proceeding (the **_relevant proceeding_**) in a court (the **_transferor court)_** if:
 
@@ -16875,7 +16874,7 @@ the transferor court must transfer the relevant proceeding to the Federal Court 
 
                              (ii)  a State Family Court;
 
-                            and that has jurisdiction under section 586‑10 in the matters for determination in the relevant proceeding and that the other court is the most appropriate court to determine the relevant proceeding; or
+                            and that has jurisdiction under section 586-10 in the matters for determination in the relevant proceeding and that the other court is the most appropriate court to determine the relevant proceeding; or
 
                      (b)  that it is otherwise in the interests of justice that the relevant proceeding be determined by another court that is:
 
@@ -16883,7 +16882,7 @@ the transferor court must transfer the relevant proceeding to the Federal Court 
 
                              (ii)  a State Family Court;
 
-                            and that has jurisdiction under section 586‑10 in the matters for determination in the relevant proceeding;
+                            and that has jurisdiction under section 586-10 in the matters for determination in the relevant proceeding;
 
 the transferor court must transfer the relevant proceeding to the other court.
 
@@ -16901,7 +16900,7 @@ the transferor court must also transfer the other proceeding to the other court.
 
              (5)  Nothing in this section confers on a court jurisdiction that the court would not otherwise have.
 
-##### <a id="586‑45"></a>586‑45  Transfer of proceedings in lower courts
+##### <a id="586-45"></a>586-45  Transfer of proceedings in lower courts
 
              (1)  This section applies to a proceeding (the **_relevant proceeding_**) in a court (the **_transferor court_**) if:
 
@@ -16931,13 +16930,13 @@ to be determined by another court that has jurisdiction in the matters for deter
 
                      (b)  to transfer the relevant proceeding or application to some other court (which could be the transferor court).
 
-             (6)  Nothing in this section allows the Supreme Court to transfer the relevant proceeding or application to another court otherwise than in accordance with section 586‑35 and the other requirements of this Division.
+             (6)  Nothing in this section allows the Supreme Court to transfer the relevant proceeding or application to another court otherwise than in accordance with section 586-35 and the other requirements of this Division.
 
              (7)  Nothing in this section confers on a court jurisdiction that the court would not otherwise have.
 
-##### <a id="586‑50"></a>586‑50  Further matters for a court to consider when deciding whether to transfer a proceeding
+##### <a id="586-50"></a>586-50  Further matters for a court to consider when deciding whether to transfer a proceeding
 
-                   In deciding whether to transfer under section 586‑35, 586‑40 or 586‑45 a proceeding or application, a court must have regard to:
+                   In deciding whether to transfer under section 586-35, 586-40 or 586-45 a proceeding or application, a court must have regard to:
 
                      (a)  the principal place of business of any body corporate concerned in the proceeding or application; and
 
@@ -16945,17 +16944,17 @@ to be determined by another court that has jurisdiction in the matters for deter
 
                      (c)  the other courts that have jurisdiction to deal with the proceeding or application.
 
-##### <a id="586‑55"></a>586‑55  Transfer may be made at any stage
+##### <a id="586-55"></a>586-55  Transfer may be made at any stage
 
-                   A court may transfer under section 586‑35, 586‑40 or 586‑45 a proceeding or application:
+                   A court may transfer under section 586-35, 586-40 or 586-45 a proceeding or application:
 
                      (a)  on the application of a party made at any stage; or
 
                      (b)  of the court’s own motion.
 
-##### <a id="586‑60"></a>586‑60  Transfer of documents
+##### <a id="586-60"></a>586-60  Transfer of documents
 
-                   If, under section 586‑35, 586‑40 or 586‑45, a court (the **_transferor court_**) transfers a proceeding, or an application in a proceeding, to another court:
+                   If, under section 586-35, 586-40 or 586-45, a court (the **_transferor court_**) transfers a proceeding, or an application in a proceeding, to another court:
 
                      (a)  the Registrar of the transferor court or other proper officer of the transferor court must transmit to the Registrar of the other court or other proper officer of the other court all documents filed in the transferor court in respect of the proceeding or application, as the case may be; and
 
@@ -16967,9 +16966,9 @@ to be determined by another court that has jurisdiction in the matters for deter
 
                             (iii)  in a case where an application is transferred—the application had been made in the other court.
 
-##### <a id="586‑65"></a>586‑65  Conduct of proceedings
+##### <a id="586-65"></a>586-65  Conduct of proceedings
 
-             (1)  Subject to sections 586‑80, 586‑85 and 586‑90, if it appears to a court that, in determining a matter for determination in a proceeding, the court will, or will be likely to, be exercising jurisdiction to which subsection (3) applies, the rules of evidence and procedure to be applied in dealing with that matter are to be the rules that:
+             (1)  Subject to sections 586-80, 586-85 and 586-90, if it appears to a court that, in determining a matter for determination in a proceeding, the court will, or will be likely to, be exercising jurisdiction to which subsection (3) applies, the rules of evidence and procedure to be applied in dealing with that matter are to be the rules that:
 
                      (a)  are applied in a superior court in Australia or in an external Territory; and
 
@@ -16981,9 +16980,9 @@ to be determined by another court that has jurisdiction in the matters for deter
 
                      (a)  jurisdiction conferred on the Federal Court of Australia or the Family Court with respect to civil matters arising under the Aboriginal and Torres Strait Islander Corporations legislation; and
 
-                     (b)  jurisdiction conferred on a court of a State, the Australian Capital Territory or the Northern Territory with respect to matters referred to in subsection 586‑5(3).
+                     (b)  jurisdiction conferred on a court of a State, the Australian Capital Territory or the Northern Territory with respect to matters referred to in subsection 586-5(3).
 
-##### <a id="586‑70"></a>586‑70  Rights of appearance
+##### <a id="586-70"></a>586-70  Rights of appearance
 
              (1)  This section applies if a proceeding (the **_transferred proceeding)_** in a court (the **_transferor court_**) is transferred to another court (the **_transferee court)_** under this Division.
 
@@ -16995,17 +16994,17 @@ to be determined by another court that has jurisdiction in the matters for deter
 
 in the transferee court that the person would have if the transferee court were a federal court exercising federal jurisdiction.
 
-##### <a id="586‑75"></a>586‑75  Limitation on appeals
+##### <a id="586-75"></a>586-75  Limitation on appeals
 
                    An appeal does not lie from a decision of a court:
 
                      (a)  in relation to the transfer of a proceeding under this Division; or
 
-                     (b)  as to which rules of evidence and procedure are to be applied pursuant to subsection 586‑65(1).
+                     (b)  as to which rules of evidence and procedure are to be applied pursuant to subsection 586-65(1).
 
-#### Subdivision 586‑D—Rules of court
+#### Subdivision 586-D—Rules of court
 
-##### <a id="586‑80"></a>586‑80  Rules of the Federal Court
+##### <a id="586-80"></a>586-80  Rules of the Federal Court
 
                    The power to make rules of court conferred by section 59 of the _Federal Court of Australia Act 1976_ extends to making rules of court:
 
@@ -17019,7 +17018,7 @@ in the transferee court that the person would have if the transferee court were 
 
                      (c)  without limitation, with respect to costs, and with respect to rules about meetings ordered by the Federal Court of Australia.
 
-##### <a id="586‑85"></a>586‑85  Rules of the Supreme Court
+##### <a id="586-85"></a>586-85  Rules of the Supreme Court
 
              (1)  The Judges of the Supreme Court of the Australian Capital Territory, or a majority of them, may make rules of court:
 
@@ -17035,7 +17034,7 @@ in the transferee court that the person would have if the transferee court were 
 
              (2)  When a lower court of the Australian Capital Territory is exercising jurisdiction with respect to matters arising under the Aboriginal and Torres Strait Islander Corporations legislation, the court must apply the rules of court made under subsection (1), with such alterations as are necessary.
 
-##### <a id="586‑90"></a>586‑90  Rules of the Family Court
+##### <a id="586-90"></a>586-90  Rules of the Family Court
 
                    The power to make rules of court conferred by section 123 of the _Family Law Act 1975_ extends to making rules of court:
 
@@ -17051,7 +17050,7 @@ in the transferee court that the person would have if the transferee court were 
 
 ### Division 589—Criminal jurisdiction
 
-##### <a id="589‑1"></a>589‑1  Operation of Division
+##### <a id="589-1"></a>589-1  Operation of Division
 
              (1)  This Division provides in relation to the jurisdiction of courts in respect of criminal matters arising under the Aboriginal and Torres Strait Islander Corporations legislation and so provides to the exclusion of sections 68, 70 and 70A of the _Judiciary Act 1903_.
 
@@ -17059,7 +17058,7 @@ in the transferee court that the person would have if the transferee court were 
 
              (3)  Without limiting subsection (2), this Division does not limit the operation of subsection 39(2) of the _Judiciary Act 1903_ in relation to criminal matters arising under the Aboriginal and Torres Strait Islander Corporations legislation.
 
-##### <a id="589‑5"></a>589‑5  Jurisdiction of courts
+##### <a id="589-5"></a>589-5  Jurisdiction of courts
 
              (1)  Subject to this section, the several courts of each State, the Australian Capital Territory and the Northern Territory exercising jurisdiction:
 
@@ -17141,9 +17140,9 @@ of offenders or persons charged with offences against the Aboriginal and Torres 
 
                     <a name="australia"></a>**_Australia_** does not include the coastal sea.
 
-                    <a name="relev-law"></a>**_relevant law_** means a law providing that where, in proceedings before a court, a person pleads guilty to a charge for which he or she could be prosecuted on indictment, the person may be committed, to a court having jurisdiction to try offences on indictment, to be sentenced or otherwise dealt with without being tried in that last‑mentioned court.
+                    <a name="relev-law"></a>**_relevant law_** means a law providing that where, in proceedings before a court, a person pleads guilty to a charge for which he or she could be prosecuted on indictment, the person may be committed, to a court having jurisdiction to try offences on indictment, to be sentenced or otherwise dealt with without being tried in that last-mentioned court.
 
-##### <a id="589‑10"></a>589‑10  Laws to be applied
+##### <a id="589-10"></a>589-10  Laws to be applied
 
                    Subject to this Division, the laws of a State, the Australian Capital Territory or the Northern Territory respecting:
 
@@ -17167,11 +17166,11 @@ apply in the State or Territory, so far as they are applicable, to persons who a
 
 # Chapter 15—Administration
 
-## Part 15‑1—Introduction
+## Part 15-1—Introduction
 
 ### Division 599—Introduction
 
-##### <a id="599‑1"></a>599‑1  What this Chapter is about
+##### <a id="599-1"></a>599-1  What this Chapter is about
 
 * * *
 
@@ -17179,41 +17178,41 @@ This Chapter deals with a number of aspects relating to the administration of th
 
 <li class="BoxList" style="margin-left:21.25pt">•      protection of information
 
-(see Part 15‑2);</li>
+(see Part 15-2);</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      protection of the Registrar
 
-and certain other persons from liability in performing duties etc. (see Part 15‑3);</li>
+and certain other persons from liability in performing duties etc. (see Part 15-3);</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      review of decisions (see
 
-Part 15‑4);</li>
+Part 15-4);</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      fees (see Part 15‑5);</li>
+<li class="BoxList" style="margin-left:21.25pt">•      fees (see Part 15-5);</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the power to make
 
-regulations etc. (see Part 15‑6);</li>
+regulations etc. (see Part 15-6);</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      approved forms (see Part 15‑7).</li>
+<li class="BoxList" style="margin-left:21.25pt">•      approved forms (see Part 15-7).</li>
 
 * * *
 
-## Part 15‑2—Protection of information
+## Part 15-2—Protection of information
 
 ### Division 604—Protection of information
 
-##### <a id="604‑1"></a>604‑1  What this Part is about
+##### <a id="604-1"></a>604-1  What this Part is about
 
 * * *
 
 This Part deals with the protection of information received by the Registrar and other persons under this Act from unauthorised use or disclosure.
 
-Section 604‑25 authorises particular uses or disclosures of protected information. These include a use or disclosure that is made for the purposes of this Act (for example, including particular information lodged with the Registrar in a publicly accessible register maintained by the Registrar under section 418‑1).
+Section 604-25 authorises particular uses or disclosures of protected information. These include a use or disclosure that is made for the purposes of this Act (for example, including particular information lodged with the Registrar in a publicly accessible register maintained by the Registrar under section 418-1).
 
 * * *
 
-##### <a id="604‑5"></a>604‑5  Protected information
+##### <a id="604-5"></a>604-5  Protected information
 
 Information provided in confidence
 
@@ -17249,13 +17248,13 @@ Information is not **_protected information_** under this subsection, however, i
 
              (3)  The references in paragraph (2)(b) to an Aboriginal and Torres Strait Islander corporation, or a related body corporate, include references to an Aboriginal and Torres Strait Islander corporation, or a related body corporate, that has ceased to exist.
 
-##### <a id="604‑10"></a>604‑10  Registrar’s obligations in relation to protected information
+##### <a id="604-10"></a>604-10  Registrar’s obligations in relation to protected information
 
                    The Registrar must take all reasonable measures to protect protected information from unauthorised use or disclosure.
 
 Note:          The _Privacy Act 1988_ also contains provisions relevant to the use and disclosure of information.
 
-##### <a id="604‑15"></a>604‑15  Special administrator’s obligations in relation to protected information
+##### <a id="604-15"></a>604-15  Special administrator’s obligations in relation to protected information
 
                    A special administrator for an Aboriginal and Torres Strait Islander corporation commits an offence if:
 
@@ -17265,9 +17264,9 @@ Note:          The _Privacy Act 1988_ also contains provisions
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="604‑20"></a>604‑20  Consultant’s obligations in relation to protected information
+##### <a id="604-20"></a>604-20  Consultant’s obligations in relation to protected information
 
-                   A person engaged as a consultant under this Act commits an offence if:
+                   A person engaged as a consultant under this Act commits an offence if:
 
                      (a)  the person uses or discloses protected information; and
 
@@ -17275,7 +17274,7 @@ Note:          The _Privacy Act 1988_ also contains provisions
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="604‑25"></a>604‑25  Authorised use or disclosure
+##### <a id="604-25"></a>604-25  Authorised use or disclosure
 
              (1)  The use or disclosure of protected information is taken to be an **_authorised use or disclosure_** if the use or disclosure:
 
@@ -17363,11 +17362,11 @@ for any purpose other than for:
 
                      (b)  what may otherwise constitute, for the purposes of this Part, authorised use or disclosure of protected information.
 
-## Part 15‑3—Protection from liability for Registrar, Minister etc.
+## Part 15-3—Protection from liability for Registrar, Minister etc.
 
 ### Division 609—Protection from liability for Registrar, Minister etc.
 
-##### <a id="609‑1"></a>609‑1  Protection from liability for Minister, Registrar etc.
+##### <a id="609-1"></a>609-1  Protection from liability for Minister, Registrar etc.
 
                    A person (**_protected person_**) who is any of the following:
 
@@ -17381,11 +17380,11 @@ for any purpose other than for:
 
 is not liable to civil proceedings for loss, damage or injury of any kind suffered by another person as a result of the performance or exercise, in good faith, of the protected person’s functions, powers or duties under or in relation to this Act.
 
-## Part 15‑4—Review of decisions
+## Part 15-4—Review of decisions
 
 ### Division 614—Introduction
 
-##### <a id="614‑1"></a>614‑1  What this Part is about
+##### <a id="614-1"></a>614-1  What this Part is about
 
 * * *
 
@@ -17401,7 +17400,7 @@ Division 623 deals with review by the AAT.
 
 ### Division 617—Reviewable decisions
 
-##### <a id="617‑1"></a>617‑1  Reviewable decisions
+##### <a id="617-1"></a>617-1  Reviewable decisions
 
                    Each of the following decisions by the Registrar is a **_reviewable decision_**:
 
@@ -17446,7 +17445,7 @@ Division 623 deals with review by the AAT.
     <div>To treat an application for registration as being withdrawn</div>
   </td>
   <td>
-    <div>subsection 21‑10(3), 22‑10(3) or 23‑10(3)</div>
+    <div>subsection 21-10(3), 22-10(3) or 23-10(3)</div>
   </td>
 </tr>
 <tr>
@@ -17458,7 +17457,7 @@ Division 623 deals with review by the AAT.
       Torres Strait Islander corporation</div>
   </td>
   <td>
-    <div>subsection 26‑1(1)</div>
+    <div>subsection 26-1(1)</div>
   </td>
 </tr>
 <tr>
@@ -17470,7 +17469,7 @@ Division 623 deals with review by the AAT.
       corporation that is registered as a small corporation</div>
   </td>
   <td>
-    <div>subsection 37‑5(1)</div>
+    <div>subsection 37-5(1)</div>
   </td>
 </tr>
 <tr>
@@ -17482,7 +17481,7 @@ Division 623 deals with review by the AAT.
       corporation that is registered as a medium corporation</div>
   </td>
   <td>
-    <div>subsection 37‑5(2)</div>
+    <div>subsection 37-5(2)</div>
   </td>
 </tr>
 <tr>
@@ -17494,7 +17493,7 @@ Division 623 deals with review by the AAT.
       corporation that is registered as a large corporation</div>
   </td>
   <td>
-    <div>subsection 37‑5(3)</div>
+    <div>subsection 37-5(3)</div>
   </td>
 </tr>
 <tr>
@@ -17506,7 +17505,7 @@ Division 623 deals with review by the AAT.
       be disqualified from administering a compromise or arrangement</div>
   </td>
   <td>
-    <div>paragraph 411(7)(f) of the Corporations Act as applied by section 45‑1
+    <div>paragraph 411(7)(f) of the Corporations Act as applied by section 45-1
       of this Act</div>
   </td>
 </tr>
@@ -17515,11 +17514,11 @@ Division 623 deals with review by the AAT.
     <div>6</div>
   </td>
   <td>
-    <div>To refuse to register a constitutional change lodged under section 69‑20
+    <div>To refuse to register a constitutional change lodged under section 69-20
       by the corporation</div>
   </td>
   <td>
-    <div>subsection 69‑30(1)</div>
+    <div>subsection 69-30(1)</div>
   </td>
 </tr>
 <tr>
@@ -17528,10 +17527,10 @@ Division 623 deals with review by the AAT.
   </td>
   <td>
     <div>To register or to refuse to register a constitutional change lodged under
-      section 69‑25 by a special administrator</div>
+      section 69-25 by a special administrator</div>
   </td>
   <td>
-    <div>subsection 69‑30(1)</div>
+    <div>subsection 69-30(1)</div>
   </td>
 </tr>
 <tr>
@@ -17543,7 +17542,7 @@ Division 623 deals with review by the AAT.
       (internal governance rules requirements not being met)</div>
   </td>
   <td>
-    <div>subsection 69‑35(2)</div>
+    <div>subsection 69-35(2)</div>
   </td>
 </tr>
 <tr>
@@ -17555,7 +17554,7 @@ Division 623 deals with review by the AAT.
       (oppressive conduct)</div>
   </td>
   <td>
-    <div>subsection 69‑35(3)</div>
+    <div>subsection 69-35(3)</div>
   </td>
 </tr>
 <tr>
@@ -17567,7 +17566,7 @@ Division 623 deals with review by the AAT.
       5 members</div>
   </td>
   <td>
-    <div>section 77‑10</div>
+    <div>section 77-10</div>
   </td>
 </tr>
 <tr>
@@ -17579,7 +17578,7 @@ Division 623 deals with review by the AAT.
       a different minimum number of members to the number requested</div>
   </td>
   <td>
-    <div>section 77‑15</div>
+    <div>section 77-15</div>
   </td>
 </tr>
 <tr>
@@ -17591,7 +17590,7 @@ Division 623 deals with review by the AAT.
       corporation</div>
   </td>
   <td>
-    <div>subsection 85‑5(2)</div>
+    <div>subsection 85-5(2)</div>
   </td>
 </tr>
 <tr>
@@ -17603,7 +17602,7 @@ Division 623 deals with review by the AAT.
       Islander corporation</div>
   </td>
   <td>
-    <div>subsection 85‑5(2)</div>
+    <div>subsection 85-5(2)</div>
   </td>
 </tr>
 <tr>
@@ -17615,7 +17614,7 @@ Division 623 deals with review by the AAT.
       and Torres Strait Islander corporation</div>
   </td>
   <td>
-    <div>subsection 85‑5(3)</div>
+    <div>subsection 85-5(3)</div>
   </td>
 </tr>
 <tr>
@@ -17627,7 +17626,7 @@ Division 623 deals with review by the AAT.
       its name</div>
   </td>
   <td>
-    <div>subsection 88‑5(1)</div>
+    <div>subsection 88-5(1)</div>
   </td>
 </tr>
 <tr>
@@ -17639,7 +17638,7 @@ Division 623 deals with review by the AAT.
       its document access address</div>
   </td>
   <td>
-    <div>subsection 115‑15(1)</div>
+    <div>subsection 115-15(1)</div>
   </td>
 </tr>
 <tr>
@@ -17652,7 +17651,7 @@ Division 623 deals with review by the AAT.
       Chapter 4</div>
   </td>
   <td>
-    <div>subsection 187‑5(1)</div>
+    <div>subsection 187-5(1)</div>
   </td>
 </tr>
 <tr>
@@ -17665,7 +17664,7 @@ Division 623 deals with review by the AAT.
       provision of Chapter 4</div>
   </td>
   <td>
-    <div>subsection 187‑5(5)</div>
+    <div>subsection 187-5(5)</div>
   </td>
 </tr>
 <tr>
@@ -17677,7 +17676,7 @@ Division 623 deals with review by the AAT.
       to call a general meeting</div>
   </td>
   <td>
-    <div>subsection 201‑10(4)</div>
+    <div>subsection 201-10(4)</div>
   </td>
 </tr>
 <tr>
@@ -17689,7 +17688,7 @@ Division 623 deals with review by the AAT.
       to call a general meeting</div>
   </td>
   <td>
-    <div>subsection 201‑10(4)</div>
+    <div>subsection 201-10(4)</div>
   </td>
 </tr>
 <tr>
@@ -17700,7 +17699,7 @@ Division 623 deals with review by the AAT.
     <div>To extend the period in which an AGM may be held</div>
   </td>
   <td>
-    <div>subsection 201‑155(2)</div>
+    <div>subsection 201-155(2)</div>
   </td>
 </tr>
 <tr>
@@ -17711,7 +17710,7 @@ Division 623 deals with review by the AAT.
     <div>To refuse to extend the period in which an AGM may be held</div>
   </td>
   <td>
-    <div>subsection 201‑155(2)</div>
+    <div>subsection 201-155(2)</div>
   </td>
 </tr>
 <tr>
@@ -17723,7 +17722,7 @@ Division 623 deals with review by the AAT.
       Islander corporation, or its directors, from provisions of Chapter 5</div>
   </td>
   <td>
-    <div>subsection 225‑5(1)</div>
+    <div>subsection 225-5(1)</div>
   </td>
 </tr>
 <tr>
@@ -17736,7 +17735,7 @@ Division 623 deals with review by the AAT.
       Chapter 5</div>
   </td>
   <td>
-    <div>subsection 225‑5(4)</div>
+    <div>subsection 225-5(4)</div>
   </td>
 </tr>
 <tr>
@@ -17748,7 +17747,7 @@ Division 623 deals with review by the AAT.
       corporation</div>
   </td>
   <td>
-    <div>subsection 279‑30(1)</div>
+    <div>subsection 279-30(1)</div>
   </td>
 </tr>
 <tr>
@@ -17760,7 +17759,7 @@ Division 623 deals with review by the AAT.
       Strait Islander corporation</div>
   </td>
   <td>
-    <div>subsection 279‑30(7)</div>
+    <div>subsection 279-30(7)</div>
   </td>
 </tr>
 <tr>
@@ -17772,7 +17771,7 @@ Division 623 deals with review by the AAT.
       a person to manage an Aboriginal and Torres Strait Islander corporation</div>
   </td>
   <td>
-    <div>subsection 279‑30(7)</div>
+    <div>subsection 279-30(7)</div>
   </td>
 </tr>
 <tr>
@@ -17784,7 +17783,7 @@ Division 623 deals with review by the AAT.
       or on behalf of a related party</div>
   </td>
   <td>
-    <div>subsection 290‑35(4)</div>
+    <div>subsection 290-35(4)</div>
   </td>
 </tr>
 <tr>
@@ -17795,7 +17794,7 @@ Division 623 deals with review by the AAT.
     <div>To refuse to make a determination concerning a person’s residential address</div>
   </td>
   <td>
-    <div>paragraph 304‑15(2)(b)</div>
+    <div>paragraph 304-15(2)(b)</div>
   </td>
 </tr>
 <tr>
@@ -17808,7 +17807,7 @@ Division 623 deals with review by the AAT.
       Chapter 6</div>
   </td>
   <td>
-    <div>subsection 310‑5(1)</div>
+    <div>subsection 310-5(1)</div>
   </td>
 </tr>
 <tr>
@@ -17821,7 +17820,7 @@ Division 623 deals with review by the AAT.
       provision of Chapter 6</div>
   </td>
   <td>
-    <div>subsection 310‑5(5)</div>
+    <div>subsection 310-5(5)</div>
   </td>
 </tr>
 <tr>
@@ -17833,7 +17832,7 @@ Division 623 deals with review by the AAT.
       prepare a report</div>
   </td>
   <td>
-    <div>paragraph 336‑1(1)(a)</div>
+    <div>paragraph 336-1(1)(a)</div>
   </td>
 </tr>
 <tr>
@@ -17845,7 +17844,7 @@ Division 623 deals with review by the AAT.
       provide particular information etc.</div>
   </td>
   <td>
-    <div>paragraph 336‑1(1)(b)</div>
+    <div>paragraph 336-1(1)(b)</div>
   </td>
 </tr>
 <tr>
@@ -17857,7 +17856,7 @@ Division 623 deals with review by the AAT.
       report</div>
   </td>
   <td>
-    <div>subsection 336‑1(7)</div>
+    <div>subsection 336-1(7)</div>
   </td>
 </tr>
 <tr>
@@ -17866,10 +17865,10 @@ Division 623 deals with review by the AAT.
   </td>
   <td>
     <div>To refuse to exempt an Aboriginal and Torres Strait Islander corporation,
-      its directors or its auditor from record‑keeping and/or reporting requirements</div>
+      its directors or its auditor from record-keeping and/or reporting requirements</div>
   </td>
   <td>
-    <div>subsection 353‑3(1)</div>
+    <div>subsection 353-3(1)</div>
   </td>
 </tr>
 <tr>
@@ -17878,11 +17877,11 @@ Division 623 deals with review by the AAT.
   </td>
   <td>
     <div>To revoke, vary or suspend a determination exempting an Aboriginal and
-      Torres Strait Islander corporation, its directors or its auditor from record‑keeping
+      Torres Strait Islander corporation, its directors or its auditor from record-keeping
       and/or reporting requirements</div>
   </td>
   <td>
-    <div>subsection 353‑3(4)</div>
+    <div>subsection 353-3(4)</div>
   </td>
 </tr>
 <tr>
@@ -17893,7 +17892,7 @@ Division 623 deals with review by the AAT.
     <div>To certify and grant leave to relodge lost or destroyed registered documents</div>
   </td>
   <td>
-    <div>subsection 404‑15(4)</div>
+    <div>subsection 404-15(4)</div>
   </td>
 </tr>
 <tr>
@@ -17905,7 +17904,7 @@ Division 623 deals with review by the AAT.
       documents</div>
   </td>
   <td>
-    <div>subsection 404‑15(4)</div>
+    <div>subsection 404-15(4)</div>
   </td>
 </tr>
 <tr>
@@ -17916,7 +17915,7 @@ Division 623 deals with review by the AAT.
     <div>To refuse to receive or register a document submitted for lodgment</div>
   </td>
   <td>
-    <div>section 407‑1</div>
+    <div>section 407-1</div>
   </td>
 </tr>
 <tr>
@@ -17929,7 +17928,7 @@ Division 623 deals with review by the AAT.
       with this Act or the corporation’s constitution etc.</div>
   </td>
   <td>
-    <div>subsection 439‑20(1)</div>
+    <div>subsection 439-20(1)</div>
   </td>
 </tr>
 <tr>
@@ -17942,7 +17941,7 @@ Division 623 deals with review by the AAT.
       particular circumstances to cease to exist</div>
   </td>
   <td>
-    <div>subsection 439‑20(3)</div>
+    <div>subsection 439-20(3)</div>
   </td>
 </tr>
 <tr>
@@ -17955,7 +17954,7 @@ Division 623 deals with review by the AAT.
       particular circumstances from occurring or developing</div>
   </td>
   <td>
-    <div>subsection 439‑20(5)</div>
+    <div>subsection 439-20(5)</div>
   </td>
 </tr>
 <tr>
@@ -17967,7 +17966,7 @@ Division 623 deals with review by the AAT.
       be under special administration</div>
   </td>
   <td>
-    <div>subsection 487‑1(1)</div>
+    <div>subsection 487-1(1)</div>
   </td>
 </tr>
 <tr>
@@ -17979,7 +17978,7 @@ Division 623 deals with review by the AAT.
       corporation is under special administration</div>
   </td>
   <td>
-    <div>subsection 487‑15(1)</div>
+    <div>subsection 487-15(1)</div>
   </td>
 </tr>
 <tr>
@@ -17988,10 +17987,10 @@ Division 623 deals with review by the AAT.
   </td>
   <td>
     <div>To terminate the appointment of a special administrator for a reason specified
-      in paragraph 505‑5(b), (c) or (d)</div>
+      in paragraph 505-5(b), (c) or (d)</div>
   </td>
   <td>
-    <div>subsection 505‑1(4)</div>
+    <div>subsection 505-1(4)</div>
   </td>
 </tr>
 <tr>
@@ -18003,7 +18002,7 @@ Division 623 deals with review by the AAT.
       as receivers</div>
   </td>
   <td>
-    <div>paragraph 418(1)(f) of the Corporations Act as applied by section 516‑1
+    <div>paragraph 418(1)(f) of the Corporations Act as applied by section 516-1
       of this Act</div>
   </td>
 </tr>
@@ -18016,7 +18015,7 @@ Division 623 deals with review by the AAT.
       to be connected with an Aboriginal and Torres Strait Islander corporation</div>
   </td>
   <td>
-    <div>paragraph 448C(3)(b) of the Corporations Act as applied by section 521‑1
+    <div>paragraph 448C(3)(b) of the Corporations Act as applied by section 521-1
       of this Act</div>
   </td>
 </tr>
@@ -18029,7 +18028,7 @@ Division 623 deals with review by the AAT.
       to be connected with an Aboriginal and Torres Strait Islander corporation</div>
   </td>
   <td>
-    <div>paragraph 532(6)(b) of the Corporations Act as applied by section 526‑35
+    <div>paragraph 532(6)(b) of the Corporations Act as applied by section 526-35
       of this Act</div>
   </td>
 </tr>
@@ -18042,11 +18041,11 @@ Division 623 deals with review by the AAT.
       etc.</div>
   </td>
   <td>
-    <div>subsection 551‑15(2)</div>
+    <div>subsection 551-15(2)</div>
   </td>
 </tr></table>
 
-##### <a id="617‑5"></a>617‑5  Deadlines for making reviewable decisions
+##### <a id="617-5"></a>617-5  Deadlines for making reviewable decisions
 
                    If:
 
@@ -18058,7 +18057,7 @@ Division 623 deals with review by the AAT.
 
 the Registrar is taken, for the purposes of this Act, to have made a decision to reject the application.
 
-##### <a id="617‑10"></a>617‑10  Notice of reviewable decision and review rights
+##### <a id="617-10"></a>617-10  Notice of reviewable decision and review rights
 
              (1)  This section applies to a person (the **_decision maker_**) who:
 
@@ -18084,15 +18083,15 @@ the Registrar is taken, for the purposes of this Act, to have made a decision to
 
 ### Division 620—Internal review of reviewable decisions
 
-##### <a id="620‑1"></a>620‑1  Registrar may reconsider reviewable decisions on own initiative
+##### <a id="620-1"></a>620-1  Registrar may reconsider reviewable decisions on own initiative
 
              (1)  The Registrar may, on his or her own initiative, reconsider a reviewable decision if the Registrar is satisfied that there is sufficient reason to reconsider the decision.
 
              (2)  The Registrar may reconsider a decision even if:
 
-                     (a)  an application for reconsideration of the decision has been made under section 620‑5; or
+                     (a)  an application for reconsideration of the decision has been made under section 620-5; or
 
-                     (b)  if the decision has been affirmed, varied or set aside under section 620‑5—an application has been made under section 623‑1 for review of the decision.
+                     (b)  if the decision has been affirmed, varied or set aside under section 620-5—an application has been made under section 623-1 for review of the decision.
 
              (3)  After reconsidering the decision, the Registrar must:
 
@@ -18108,7 +18107,7 @@ the Registrar is taken, for the purposes of this Act, to have made a decision to
 
                      (b)  if a day is not specified—on the day on which the decision on review was made.
 
-##### <a id="620‑5"></a>620‑5  Reconsideration of reviewable decisions
+##### <a id="620-5"></a>620-5  Reconsideration of reviewable decisions
 
              (1)  A person whose interests are affected by a reviewable decision may request the Registrar to reconsider the decision.
 
@@ -18134,15 +18133,15 @@ the Registrar is taken, for the purposes of this Act, to have made a decision to
 
 ### Division 623—AAT review of reviewable decisions
 
-##### <a id="623‑1"></a>623‑1  AAT review of reviewable decisions
+##### <a id="623-1"></a>623-1  AAT review of reviewable decisions
 
-                   An application may be made to the AAT for the review of a reviewable decision that has been affirmed, varied or set aside under section 620‑1 or 620‑5.
+                   An application may be made to the AAT for the review of a reviewable decision that has been affirmed, varied or set aside under section 620-1 or 620-5.
 
-## Part 15‑5—Fees
+## Part 15-5—Fees
 
 ### Division 628—Fees
 
-##### <a id="628‑1"></a>628‑1  Fees
+##### <a id="628-1"></a>628-1  Fees
 
              (1)  The regulations may prescribe fees that are payable for services the Registrar provides in performing his or her functions, or exercising his or her powers, under:
 
@@ -18156,7 +18155,7 @@ the Registrar is taken, for the purposes of this Act, to have made a decision to
 
              (4)  The regulations may prescribe the circumstances in which the Registrar, on behalf of the Commonwealth, may wholly or partly waive a prescribed fee. The circumstances may relate to an individual Aboriginal and Torres Strait Islander corporation or a class of Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="628‑5"></a>628‑5  Lodgment of document without payment of fee
+##### <a id="628-5"></a>628-5  Lodgment of document without payment of fee
 
                    If:
 
@@ -18164,21 +18163,21 @@ the Registrar is taken, for the purposes of this Act, to have made a decision to
 
                      (b)  the document was submitted for lodgment without payment of the fee;
 
-the document is not taken not to have been lodged merely because of non‑payment of the fee.
+the document is not taken not to have been lodged merely because of non-payment of the fee.
 
-##### <a id="628‑10"></a>628‑10  Doing act without payment of fee
+##### <a id="628-10"></a>628-10  Doing act without payment of fee
 
                    If a fee is prescribed for a matter involving the doing of an act by the Registrar, the Registrar may refuse to do that act until the fee is paid.
 
-##### <a id="628‑15"></a>628‑15  Effect of sections 628‑5 and 628‑10
+##### <a id="628-15"></a>628-15  Effect of sections 628-5 and 628-10
 
-                   Sections 628‑5 and 628‑10 have effect despite anything in another Part of this Act.
+                   Sections 628-5 and 628-10 have effect despite anything in another Part of this Act.
 
-##### <a id="628‑20"></a>628‑20  Debt due to the Commonwealth
+##### <a id="628-20"></a>628-20  Debt due to the Commonwealth
 
                    Each prescribed fee is a debt due to the Commonwealth.
 
-##### <a id="628‑25"></a>628‑25  Payment of fee does not give right to inspect or search
+##### <a id="628-25"></a>628-25  Payment of fee does not give right to inspect or search
 
                    To avoid doubt, nothing in this Part, and nothing done under this Part:
 
@@ -18186,15 +18185,15 @@ the document is not taken not to have been lodged merely because of non‑paymen
 
                      (b)  confers a right to inspect or search a register or document or to have information made available;
 
-except so far as such a duty or right would, but for the effect of section 628‑10, exist under a provision of another Part of this Act or under some other law.
+except so far as such a duty or right would, but for the effect of section 628-10, exist under a provision of another Part of this Act or under some other law.
 
-## Part 15‑6—Regulations
+## Part 15-6—Regulations
 
 ### Division 633—Regulations
 
-##### <a id="633‑1"></a>633‑1  General regulation making power
+##### <a id="633-1"></a>633-1  General regulation making power
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -18202,11 +18201,11 @@ except so far as such a duty or right would, but for the effect of section 628
 
              (2)  Without limiting subsection (1), the regulations may make provision prescribing penalties not exceeding 50 penalty units for contraventions of the regulations.
 
-##### <a id="633‑5"></a>633‑5  Regulations concerning registered native title bodies corporate
+##### <a id="633-5"></a>633-5  Regulations concerning registered native title bodies corporate
 
 Regulations concerning registered native title bodies corporate generally
 
-             (1)  Without limiting section 633‑1, the regulations may modify any of the provisions of this Act (other than subsections (8) and (9) of this section) as they relate to a registered native title body corporate.
+             (1)  Without limiting section 633-1, the regulations may modify any of the provisions of this Act (other than subsections (8) and (9) of this section) as they relate to a registered native title body corporate.
 
 Regulations concerning registered native title bodies corporate and special administrators
 
@@ -18214,7 +18213,7 @@ Regulations concerning registered native title bodies corporate and special admi
 
                      (a)  Division 499; and
 
-                     (b)  the provisions of the Corporations Act (as applied by section 499‑10);
+                     (b)  the provisions of the Corporations Act (as applied by section 499-10);
 
 in relation to the functions, duties and powers of a special administrator for a registered native title body corporate.
 
@@ -18222,13 +18221,13 @@ in relation to the functions, duties and powers of a special administrator for a
 
 Regulations concerning registered native title bodies corporate and receivers or liquidators
 
-             (4)  Without limiting subsection (1), regulations made for the purposes of paragraph 516‑1(2)(b) may modify the operation of the Corporations Act receiver provisions in relation to the functions, duties and powers of a receiver or controller of property of a registered native title body corporate.
+             (4)  Without limiting subsection (1), regulations made for the purposes of paragraph 516-1(2)(b) may modify the operation of the Corporations Act receiver provisions in relation to the functions, duties and powers of a receiver or controller of property of a registered native title body corporate.
 
              (5)  Without limiting subsection (1), the regulations may make provision for the manner in which a receiver or controller of property of a registered native title body corporate is to exercise his or her powers in relation to the body corporate.
 
 Regulations concerning registered native title bodies corporate and administrators
 
-             (6)  Without limiting subsection (1), regulations made for the purposes of paragraph 521‑1(2)(b) may modify the operation of the Corporations Act administration provisions in relation to the functions, duties and powers of an administrator appointed under those provisions for a registered native title body corporate.
+             (6)  Without limiting subsection (1), regulations made for the purposes of paragraph 521-1(2)(b) may modify the operation of the Corporations Act administration provisions in relation to the functions, duties and powers of an administrator appointed under those provisions for a registered native title body corporate.
 
              (7)  Without limiting subsection (1), the regulations may make provision for the manner in which an administrator appointed under those provisions for a registered native title body corporate is to exercise his or her powers in relation to the body corporate.
 
@@ -18244,11 +18243,11 @@ Consistency with Native Title legislation obligations
 
              (9)  To avoid doubt, regulations that modify this Act in relation to a registered native title body corporate, must not be inconsistent with the Native Title legislation obligations.
 
-## Part 15‑7—Approved forms
+## Part 15-7—Approved forms
 
 ### Division 638—Approved forms
 
-##### <a id="638‑1"></a>638‑1  Registrar may approve forms
+##### <a id="638-1"></a>638-1  Registrar may approve forms
 
              (1)  The Registrar may, in writing, approve a form for any notice, statement, application or other document given to the Registrar, or any other person, for the purposes of a provision of this Act.
 
@@ -18262,9 +18261,9 @@ Consistency with Native Title legislation obligations
 
                      (d)  subject to subsection (3), the manner in which the notice, statement, application or other document is to be given.
 
-             (3)  This section, and any approval under this section, does not affect the operation of section 404‑10.
+             (3)  This section, and any approval under this section, does not affect the operation of section 404-10.
 
-Note:          Section 404‑10 deals with lodging documents with the Registrar electronically.
+Note:          Section 404-10 deals with lodging documents with the Registrar electronically.
 
              (4)  The Registrar may approve different forms for different entities.
 
@@ -18280,11 +18279,11 @@ However, strict compliance is not required and substantial compliance is suffici
 
 # Chapter 16—Registrar and Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
 
-## Part 16‑1—Introduction
+## Part 16-1—Introduction
 
 ### Division 648—Introduction
 
-##### <a id="648‑1"></a>648‑1  What this Chapter is about
+##### <a id="648-1"></a>648-1  What this Chapter is about
 
 * * *
 
@@ -18292,11 +18291,11 @@ This Chapter provides for the appointment of the Registrar of Aboriginal and Tor
 
 * * *
 
-## Part 16‑2—Appointment of the Registrar and Deputy Registrars
+## Part 16-2—Appointment of the Registrar and Deputy Registrars
 
 ### Division 653—Appointment of Registrar and Deputy Registrars
 
-##### <a id="653‑1"></a>653‑1  Registrar of Aboriginal and Torres Strait Islander Corporations
+##### <a id="653-1"></a>653-1  Registrar of Aboriginal and Torres Strait Islander Corporations
 
              (1)  There is to be a Registrar of Aboriginal and Torres Strait Islander Corporations.
 
@@ -18304,7 +18303,7 @@ This Chapter provides for the appointment of the Registrar of Aboriginal and Tor
 
              (3)  The Registrar holds office for such period of up to 5 years that is specified in the instrument of appointment.
 
-##### <a id="653‑5"></a>653‑5  Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
+##### <a id="653-5"></a>653-5  Deputy Registrars of Aboriginal and Torres Strait Islander Corporations
 
              (1)  The Registrar may appoint one or more Deputy Registrars of Aboriginal and Torres Strait Islander Corporations for the purpose of assisting the Registrar in carrying out his or her functions and powers.
 
@@ -18312,11 +18311,11 @@ This Chapter provides for the appointment of the Registrar of Aboriginal and Tor
 
              (3)  A Deputy Registrar holds office for such period of up to 5 years that is specified in the instrument of appointment.
 
-## Part 16‑3—Registrar’s functions and powers
+## Part 16-3—Registrar’s functions and powers
 
 ### Division 658—Registrar’s functions and powers
 
-##### <a id="658‑1"></a>658‑1  Functions of the Registrar
+##### <a id="658-1"></a>658-1  Functions of the Registrar
 
              (1)  The Registrar has the following functions:
 
@@ -18358,7 +18357,7 @@ This Chapter provides for the appointment of the Registrar of Aboriginal and Tor
 
              (2)  If the Registrar provides advice in undertaking his or her functions, the Registrar is not precluded from exercising a power under this Act, or exercising such a power in a particular way, in respect of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="658‑5"></a>658‑5  Aims of the Registrar
+##### <a id="658-5"></a>658-5  Aims of the Registrar
 
                    The Registrar, in performing his or her functions and exercising his or her powers, must have the following aims:
 
@@ -18376,19 +18375,19 @@ This Chapter provides for the appointment of the Registrar of Aboriginal and Tor
 
                      (e)  to ensure that information is available as soon as practicable for access by the public.
 
-##### <a id="658‑10"></a>658‑10  Powers of the Registrar
+##### <a id="658-10"></a>658-10  Powers of the Registrar
 
                    The Registrar has power to do all things necessary or convenient to be done for, or in connection with, the performance of his or her functions.
 
 Note:          Chapter 10 (about regulation and enforcement) contains other specific powers of the Registrar.
 
-##### <a id="658‑15"></a>658‑15  Registrar to have a seal
+##### <a id="658-15"></a>658-15  Registrar to have a seal
 
              (1)  The Registrar must have and use as the seal of his or her office a seal in such form as the Minister, by notice in the _Gazette_, determines.
 
              (2)  A notice under subsection (1) is not a legislative instrument.
 
-##### <a id="658‑20"></a>658‑20  Judicial notice of certain matters
+##### <a id="658-20"></a>658-20  Judicial notice of certain matters
 
                    All courts, judges and persons acting judicially must take judicial notice of:
 
@@ -18398,11 +18397,11 @@ Note:          Chapter 10 (about regulation and enforcement)
 
                      (c)  the seal of the Registrar.
 
-## Part 16‑4—Matters concerning the Registrar’s and Deputy Registrars’ appointments
+## Part 16-4—Matters concerning the Registrar’s and Deputy Registrars’ appointments
 
 ### Division 663—Matters concerning the Registrar’s and Deputy Registrars’ appointments
 
-##### <a id="663‑1"></a>663‑1  Registrar’s remuneration
+##### <a id="663-1"></a>663-1  Registrar’s remuneration
 
              (1)  The Registrar is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Registrar is to be paid the remuneration that is determined in writing by the Minister.
 
@@ -18410,13 +18409,13 @@ Note:          Chapter 10 (about regulation and enforcement)
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="663‑5"></a>663‑5  Resignation
+##### <a id="663-5"></a>663-5  Resignation
 
              (1)  The Registrar may resign his or her appointment by giving the Minister a written resignation.
 
              (2)  A Deputy Registrar may resign his or her appointment by giving the Registrar a written resignation.
 
-##### <a id="663‑10"></a>663‑10  Termination of Registrar’s appointment
+##### <a id="663-10"></a>663-10  Termination of Registrar’s appointment
 
              (1)  The Minister may terminate the appointment of the Registrar for misbehaviour or physical or mental incapacity.
 
@@ -18428,21 +18427,21 @@ Note:          Chapter 10 (about regulation and enforcement)
 
                      (c)  engages, except with the Minister’s approval, in paid employment outside the duties of his or her office; or
 
-                     (d)  fails, without reasonable excuse, to comply with section 663‑20.
+                     (d)  fails, without reasonable excuse, to comply with section 663-20.
 
-##### <a id="663‑15"></a>663‑15  Termination of Deputy Registrar’s appointment
+##### <a id="663-15"></a>663-15  Termination of Deputy Registrar’s appointment
 
              (1)  The Registrar may terminate, by writing signed by him or her, the appointment of a Deputy Registrar.
 
              (2)  The appointment of the Deputy Registrar is terminated if the Deputy Registrar ceases to be, for any reason, engaged under the _Public Service Act 1999_.
 
-##### <a id="663‑20"></a>663‑20  Disclosure of interests
+##### <a id="663-20"></a>663-20  Disclosure of interests
 
              (1)  The Registrar must give written notice to the Minister of all interests, pecuniary or otherwise, that the Registrar has or acquires and that could conflict with the proper performance of the Registrar’s functions.
 
              (2)  A notice under subsection (1) is not a legislative instrument.
 
-##### <a id="663‑25"></a>663‑25  Acting appointments
+##### <a id="663-25"></a>663-25  Acting appointments
 
 Acting Registrar
 
@@ -18472,23 +18471,23 @@ Validity of acts done by persons appointed to act
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-##### <a id="663‑30"></a>663‑30  Leave of absence
+##### <a id="663-30"></a>663-30  Leave of absence
 
              (1)  The Registrar has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
              (2)  The Minister may grant the Registrar leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-##### <a id="663‑35"></a>663‑35  Outside employment
+##### <a id="663-35"></a>663-35  Outside employment
 
              (1)  The Registrar must not engage in paid employment outside the duties of the Registrar’s office without the Minister’s approval.
 
              (2)  An approval under subsection (1) is not a legislative instrument.
 
-## Part 16‑5—Delegation
+## Part 16-5—Delegation
 
 ### Division 668—Delegation
 
-##### <a id="668‑1"></a>668‑1  Delegation by Registrar
+##### <a id="668-1"></a>668-1  Delegation by Registrar
 
              (1)  The Registrar may delegate all or any of the Registrar’s powers and functions to:
 
@@ -18502,29 +18501,29 @@ Validity of acts done by persons appointed to act
 
              (3)  In exercising functions or powers under a delegation, the delegate must comply with any directions of the Registrar.
 
-##### <a id="668‑5"></a>668‑5  Sub‑delegation by Deputy Registrar
+##### <a id="668-5"></a>668-5  Sub-delegation by Deputy Registrar
 
-             (1)  If the Registrar delegates a function or power to a Deputy Registrar, the Deputy Registrar may sub‑delegate the function or power to:
+             (1)  If the Registrar delegates a function or power to a Deputy Registrar, the Deputy Registrar may sub-delegate the function or power to:
 
                      (a)  an SES employee, or acting SES employee, in the Department; or
 
                      (b)  an APS employee within the Office of the Registrar of Aboriginal and Torres Strait Islander Corporations who has the expertise appropriate to the function or power delegated.
 
-             (2)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply in relation to the sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (2)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply in relation to the sub-delegation in a corresponding way to the way in which they apply to a delegation.
 
-             (3)  The sub‑delegation must be in writing.
+             (3)  The sub-delegation must be in writing.
 
-             (4)  In exercising functions or powers under a sub‑delegation, the delegate must comply with any directions of the Deputy Registrar.
+             (4)  In exercising functions or powers under a sub-delegation, the delegate must comply with any directions of the Deputy Registrar.
 
-## Part 16‑6—Staffing
+## Part 16-6—Staffing
 
 ### Division 673—Staffing
 
-##### <a id="673‑1"></a>673‑1  Staff assisting the Registrar and Deputy Registrar
+##### <a id="673-1"></a>673-1  Staff assisting the Registrar and Deputy Registrar
 
                    The staff required to assist the Registrar and Deputy Registrar are to be persons engaged under the _Public Service Act 1999_ and made available for the purpose by the Secretary of the Department.
 
-##### <a id="673‑5"></a>673‑5  Engagement of consultants etc. by the Registrar
+##### <a id="673-5"></a>673-5  Engagement of consultants etc. by the Registrar
 
              (1)  The Registrar may engage persons having suitable qualifications and experience as consultants to, or to perform services for, the Registrar.
 
@@ -18538,11 +18537,11 @@ Validity of acts done by persons appointed to act
 
 # Chapter 17—Interpreting this Act
 
-## Part 17‑1—Meaning of some important concepts
+## Part 17-1—Meaning of some important concepts
 
 ### Division 683—Directors and officers of Aboriginal and Torres Strait Islander corporations
 
-##### <a id="683‑1"></a>683‑1  Meaning of _director_ and _officer_
+##### <a id="683-1"></a>683-1  Meaning of _director_ and _officer_
 
              (1)  A person is a **_director_** of an Aboriginal and Torres Strait Islander corporation if the person:
 
@@ -18566,11 +18565,11 @@ This subsection has effect unless the contrary intention appears.
 
 Note:          Contrary intention—Examples of provisions for which a person referred to in paragraph (b) would not be included in the term “director” are:
 
-(a)           section 201‑1 (power to call meetings of the corporation’s members); and
+(a)           section 201-1 (power to call meetings of the corporation’s members); and
 
-(b)           subsection 220‑5(8) (signing minutes of meetings); and
+(b)           subsection 220-5(8) (signing minutes of meetings); and
 
-(c)           section 304‑5 (notice to Registrar of change of address).
+(c)           section 304-5 (notice to Registrar of change of address).
 
              (3)  A person is an **_officer_** of an Aboriginal and Torres Strait Islander corporation if:
 
@@ -18590,13 +18589,13 @@ Note:          Contrary intention—Examples of provisions for
 
                              (ii)  a receiver, or receiver and manager, of the property of the corporation; or
 
-                            (iii)  a person appointed as an administrator of the corporation under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act); or
+                            (iii)  a person appointed as an administrator of the corporation under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act); or
 
                             (iv)  a liquidator of the corporation; or
 
                              (v)  a trustee or other person administering a compromise or arrangement made between the corporation and someone else.
 
-Note:          Section 246‑1 contains rules about who can be a director of an Aboriginal and Torres Strait Islander corporation.
+Note:          Section 246-1 contains rules about who can be a director of an Aboriginal and Torres Strait Islander corporation.
 
              (4)  A person is not a **_director_** under subparagraph (2)(b)(ii), or an **_officer_** under paragraph (3)(c), merely because the directors act on advice given by the person in the proper performance of functions attaching to the person’s professional capacity, or the person’s business relationship with the directors or the corporation.
 
@@ -18612,7 +18611,7 @@ Note:          Section 246‑1 contains rules about who can 
 
 ### Division 686—Associates
 
-##### <a id="686‑1"></a>686‑1  Effect of Division
+##### <a id="686-1"></a>686-1  Effect of Division
 
              (1)  This Division has effect for the purposes of interpreting a reference (the **_associate reference_**), in relation to a person (the **_primary person_**), to an associate.
 
@@ -18620,7 +18619,7 @@ Note:          Section 246‑1 contains rules about who can 
 
              (3)  Nothing in this Division limits the generality of anything else in it.
 
-##### <a id="686‑5"></a>686‑5  Associates of bodies corporate
+##### <a id="686-5"></a>686-5  Associates of bodies corporate
 
                    If the primary person is a body corporate, the associate reference includes a reference to:
 
@@ -18630,7 +18629,7 @@ Note:          Section 246‑1 contains rules about who can 
 
                      (c)  a director or secretary of a related body corporate.
 
-##### <a id="686‑10"></a>686‑10  General
+##### <a id="686-10"></a>686-10  General
 
              (1)  The associate reference includes a reference to:
 
@@ -18644,19 +18643,19 @@ in respect of the matter to which the associate reference relates.
 
              (2)  If the primary person has entered, or proposes to enter, into a transaction, or has done, or proposes to do, any act or thing, in order to become associated with another person as mentioned in subsection (1), the associate reference includes a reference to that other person.
 
-##### <a id="686‑15"></a>686‑15  Exclusions
+##### <a id="686-15"></a>686-15  Exclusions
 
-             (1)  A person is not an associate of another person by virtue of subsection 686‑10(1), or by virtue of subsection 686‑10(2) as it applies in relation to subsection 686‑10(1), merely because of one or more of the following:
+             (1)  A person is not an associate of another person by virtue of subsection 686-10(1), or by virtue of subsection 686-10(2) as it applies in relation to subsection 686-10(1), merely because of one or more of the following:
 
                      (a)  one gives advice to the other, or acts on the other’s behalf, in the proper performance of the functions attaching to a professional capacity or a business relationship;
 
                      (b)  one has appointed the other, otherwise than for valuable consideration given by the other or by an associate of the other, to vote as a proxy or representative at a meeting of members, or of a class of members, of a body corporate.
 
-             (2)  A person who is a common law holder of native title is not an associate of another person by virtue of subsection 686‑10(1), or by virtue of subsection 686‑10(2) as it applies in relation to subsection 686‑10(1), merely because a Native Title legislation obligation has been complied with.
+             (2)  A person who is a common law holder of native title is not an associate of another person by virtue of subsection 686-10(1), or by virtue of subsection 686-10(2) as it applies in relation to subsection 686-10(1), merely because a Native Title legislation obligation has been complied with.
 
 ### Division 689—Subsidiaries and control
 
-##### <a id="689‑1"></a>689‑1  What is a subsidiary
+##### <a id="689-1"></a>689-1  What is a subsidiary
 
                    A body corporate (the **_first body_**) is a subsidiary of another body corporate if, and only if:
 
@@ -18664,15 +18663,15 @@ in respect of the matter to which the associate reference relates.
 
                               (i)  controls the composition of the first body’s board; or
 
-                             (ii)  is in a position to cast, or control the casting of, more than one‑half of the maximum number of votes that might be cast at a general meeting of the first body; or
+                             (ii)  is in a position to cast, or control the casting of, more than one-half of the maximum number of votes that might be cast at a general meeting of the first body; or
 
-                            (iii)  holds more than one‑half of the issued share capital of the first body (excluding any part of that issued share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital); or
+                            (iii)  holds more than one-half of the issued share capital of the first body (excluding any part of that issued share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital); or
 
                      (b)  the first body is a subsidiary of a subsidiary of the other body.
 
 Note:          Subparagraph (a)(iii)—although an Aboriginal and Torres Strait Islander corporation itself does not have shares, the corporation may hold shares in a body corporate that does have shares.
 
-##### <a id="689‑5"></a>689‑5  Control of a body corporate’s board
+##### <a id="689-5"></a>689-5  Control of a body corporate’s board
 
              (1)  For the purposes of this Act, the composition of the board of a body corporate (the **_first body_**) is taken to be controlled by another body (the **_second body_**) if the second body, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all, or the majority, of the directors of the first body.
 
@@ -18684,7 +18683,7 @@ Note:          Subparagraph (a)(iii)—although an Aborigina
 
              (3)  Subsections (1) and (2) do not limit the circumstances in which the composition of a body corporate’s board is taken to be controlled by another body corporate.
 
-##### <a id="689‑10"></a>689‑10  Matters to be disregarded
+##### <a id="689-10"></a>689-10  Matters to be disregarded
 
              (1)  This section applies for the purposes of determining whether a body corporate (the **_first body_**) is a subsidiary of another body corporate.
 
@@ -18706,11 +18705,11 @@ are treated as held or exercisable by the other body.
 
                      (b)  the shares are held, or the power is exercisable, only by way of security given for the purposes of a transaction entered into in the ordinary course of business in connection with lending money, not being a transaction entered into with an associate of the other body, or of that subsidiary, as the case may be.
 
-##### <a id="689‑15"></a>689‑15  References in this Division to a subsidiary
+##### <a id="689-15"></a>689-15  References in this Division to a subsidiary
 
-                   A reference in paragraph 689‑1(b) or 689‑10(3)(b) or subsection 689‑10(5) to being a subsidiary, or to a subsidiary, of a body corporate includes a reference to being a subsidiary, or to a body corporate that is a subsidiary, as the case may be, of the first‑mentioned body by virtue of any other application or applications of this Division.
+                   A reference in paragraph 689-1(b) or 689-10(3)(b) or subsection 689-10(5) to being a subsidiary, or to a subsidiary, of a body corporate includes a reference to being a subsidiary, or to a body corporate that is a subsidiary, as the case may be, of the first-mentioned body by virtue of any other application or applications of this Division.
 
-##### <a id="689‑20"></a>689‑20  Related bodies corporate
+##### <a id="689-20"></a>689-20  Related bodies corporate
 
                    If a body corporate is:
 
@@ -18720,9 +18719,9 @@ are treated as held or exercisable by the other body.
 
                      (c)  a subsidiary of a holding body corporate of another body corporate;
 
-the first‑mentioned body and the other body are related to each other.
+the first-mentioned body and the other body are related to each other.
 
-##### <a id="689‑25"></a>689‑25  Control
+##### <a id="689-25"></a>689-25  Control
 
              (1)  For the purposes of this Act, an entity controls a second entity if the first entity has the capacity to determine the outcome of decisions about the second entity’s financial and operating policies.
 
@@ -18744,11 +18743,11 @@ the first entity is taken not to control the second entity.
 
              (5)  If the first entity is a common law holder of native title and the second entity is a registered native title body corporate, the first entity does not control the second entity merely because the second entity complies with a Native Title legislation obligation.
 
-## Part 17‑2—Interpretation of other expressions
+## Part 17-2—Interpretation of other expressions
 
 ### Division 694—Interpretation of other expressions
 
-##### <a id="694‑1"></a>694‑1  Giving information
+##### <a id="694-1"></a>694-1  Giving information
 
                    A reference in this Act to **_giving information_** includes a reference to:
 
@@ -18760,23 +18759,23 @@ the first entity is taken not to control the second entity.
 
                      (d)  answering a question.
 
-##### <a id="694‑5"></a>694‑5  Doing acts
+##### <a id="694-5"></a>694-5  Doing acts
 
                    A reference to doing an act or thing includes a reference to causing or authorising the act or thing to be done.
 
-##### <a id="694‑10"></a>694‑10  Signing
+##### <a id="694-10"></a>694-10  Signing
 
                    Without affecting the law on agency, if this Act requires that something be signed, it can be signed by an individual using a power of attorney from the person required to sign.
 
-##### <a id="694‑15"></a>694‑15  Business affairs of a body corporate
+##### <a id="694-15"></a>694-15  Business affairs of a body corporate
 
                    A body corporate’s **_business affairs_** include (without limitation):
 
-                     (a)  any of the body’s affairs (including anything that is included in the body’s affairs because of the definition of **_affairs_** in section 700‑1); and
+                     (a)  any of the body’s affairs (including anything that is included in the body’s affairs because of the definition of **_affairs_** in section 700-1); and
 
                      (b)  matters concerned with ascertaining the corporations with which the body is or has been connected.
 
-##### <a id="694‑20"></a>694‑20  Business affairs of a natural person
+##### <a id="694-20"></a>694-20  Business affairs of a natural person
 
                    A natural person’s **_business affairs_** include (without limitation):
 
@@ -18796,7 +18795,7 @@ the first entity is taken not to control the second entity.
 
                      (d)  matters concerned with ascertaining the corporations with which the person is or has been connected.
 
-##### <a id="694‑25"></a>694‑25  Business affairs of a partnership
+##### <a id="694-25"></a>694-25  Business affairs of a partnership
 
                    A partnership’s **_business affairs_** include (without limitation):
 
@@ -18808,7 +18807,7 @@ the first entity is taken not to control the second entity.
 
                      (d)  matters concerned with ascertaining the corporations with which the partnership is or has been connected.
 
-##### <a id="694‑30"></a>694‑30  Business affairs of a trust
+##### <a id="694-30"></a>694-30  Business affairs of a trust
 
                    A trust’s **_business affairs_** include (without limitation):
 
@@ -18834,7 +18833,7 @@ the first entity is taken not to control the second entity.
 
                      (k)  matters concerned with ascertaining the corporations with which the trust is or has been connected.
 
-##### <a id="694‑35"></a>694‑35  Meaning of court and Court
+##### <a id="694-35"></a>694-35  Meaning of court and Court
 
              (1)  Subject to subsection (2), in this Act:
 
@@ -18850,19 +18849,19 @@ the first entity is taken not to control the second entity.
 
                      (d)  a court to which section 41 of the _Family Law Act 1975_ applies because of a Proclamation made under subsection 41(2) of that Act.
 
-             (2)  Except where there is a clear expression of a contrary intention (for example, by use of the expression **_the Court_**), proceedings in relation to a matter under this Act may, subject to Part 14‑3, be brought in any court.
+             (2)  Except where there is a clear expression of a contrary intention (for example, by use of the expression **_the Court_**), proceedings in relation to a matter under this Act may, subject to Part 14-3, be brought in any court.
 
-Note:          The matters dealt with in Part 14‑3 include the applicability of limits on the jurisdictional competence of courts.
+Note:          The matters dealt with in Part 14-3 include the applicability of limits on the jurisdictional competence of courts.
 
-##### <a id="694‑40"></a>694‑40  Entities
+##### <a id="694-40"></a>694-40  Entities
 
-                   Except in Part 6‑6, a reference to an **_entity_**:
+                   Except in Part 6-6, a reference to an **_entity_**:
 
                      (a)  is a reference to a natural person, a body corporate (other than an exempt public authority within the meaning of the Corporations Act), a partnership or a trust; and
 
                      (b)  includes, in the case of a trust, a reference to the trustee of the trust.
 
-##### <a id="694‑45"></a>694‑45  Entities connected with a corporation (including an Aboriginal and Torres Strait Islander corporation)
+##### <a id="694-45"></a>694-45  Entities connected with a corporation (including an Aboriginal and Torres Strait Islander corporation)
 
 Body corporate
 
@@ -18938,11 +18937,11 @@ Trust
 
              (5)  To avoid doubt, a reference in this section to a **_corporation_** includes a reference to an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="694‑50"></a>694‑50  Extension of period for doing an act
+##### <a id="694-50"></a>694-50  Extension of period for doing an act
 
                    If this Act confers power to extend the period for doing an act, an application for the exercise of the power may be made, and the power may be exercised, even if the period, or the period as last extended, as the case requires, has ended.
 
-##### <a id="694‑55"></a>694‑55  Involvement in contraventions
+##### <a id="694-55"></a>694-55  Involvement in contraventions
 
                    A person is **_involved in_** a contravention if, and only if, the person:
 
@@ -18954,11 +18953,11 @@ Trust
 
                      (d)  has conspired with others to effect the contravention.
 
-##### <a id="694‑60"></a>694‑60  Possession
+##### <a id="694-60"></a>694-60  Possession
 
                    A thing that is in a person’s custody or under a person’s control is in the person’s possession.
 
-##### <a id="694‑65"></a>694‑65  Public document of a body corporate
+##### <a id="694-65"></a>694-65  Public document of a body corporate
 
              (1)  Subject to this section, **_public document_**, in relation to a body, means:
 
@@ -18994,11 +18993,11 @@ Trust
 
                      (b)  any other container or thing in which goods are, or are to be, packed.
 
-##### <a id="694‑70"></a>694‑70  Receivers and managers
+##### <a id="694-70"></a>694-70  Receivers and managers
 
                    A receiver of property of a body corporate is also a manager if the receiver manages, or has under the terms of the receiver’s appointment power to manage, affairs of the body.
 
-##### <a id="694‑75"></a>694‑75  Securities
+##### <a id="694-75"></a>694-75  Securities
 
              (1)  Subject to this section, **_securities_** means:
 
@@ -19034,13 +19033,13 @@ but does not include:
 
              (3)  An expression used in this section and in the Corporations Act has the same meaning in this section as it has in that Act.
 
-##### <a id="694‑80"></a>694‑80  Solvency and insolvency
+##### <a id="694-80"></a>694-80  Solvency and insolvency
 
              (1)  A person is **_solvent_** if, and only if, the person is able to pay all the person’s debts, as and when they become due and payable.
 
              (2)  A person who is not solvent is **_insolvent_**.
 
-##### <a id="694‑85"></a>694‑85  Meaning of _chief executive officer function_
+##### <a id="694-85"></a>694-85  Meaning of _chief executive officer function_
 
 Persons with overall management responsibility for corporation
 
@@ -19070,41 +19069,41 @@ Persons responsible for financial matters
 
                              (ii)  the person or persons who perform the CEO function in relation to the corporation.
 
-##### <a id="694‑90"></a>694‑90  Applications to be in writing
+##### <a id="694-90"></a>694-90  Applications to be in writing
 
                    An application to the Registrar for the issuing of a document or the doing of any other act or thing by the Registrar under this Act must be in writing.
 
-Note:          For electronic lodgment of documents with the Registrar, see section 404‑10.
+Note:          For electronic lodgment of documents with the Registrar, see section 404-10.
 
-##### <a id="694‑95"></a>694‑95  Effect of certain contraventions of this Act
+##### <a id="694-95"></a>694-95  Effect of certain contraventions of this Act
 
              (1)  This section has effect except so far as this Act otherwise provides.
 
              (2)  An act, transaction, agreement, instrument, matter or thing is not invalid, void, voidable or unenforceable merely because of:
 
-                     (a)  a contravention of section 284‑1 or 284‑5; or
+                     (a)  a contravention of section 284-1 or 284-5; or
 
                      (b)  a failure to comply with a requirement of this Act that a person cause a notice, or a copy of a document, to be published in the _Gazette_ or in a newspaper.
 
              (3)  Nothing in this section limits the generality of anything else in it.
 
-##### <a id="694‑100"></a>694‑100  Effect of provisions empowering a person to require or prohibit conduct
+##### <a id="694-100"></a>694-100  Effect of provisions empowering a person to require or prohibit conduct
 
                    If, in accordance with a provision of this Act (other than the replaceable rules), a person requires another person to do, or prohibits another person from doing, a particular act, that provision is taken to require the other person to comply with the requirement or prohibition, as the case may be.
 
-##### <a id="694‑105"></a>694‑105  Calculation of time
+##### <a id="694-105"></a>694-105  Calculation of time
 
-                   Without limiting subsection 36(1) of the _Acts Interpretation Act 1901_, in calculating how many days a particular day, act or event is before or after another day, act or event, the first‑mentioned day, or the day of the first‑mentioned act or event, is to be counted but not the other day, or the day of the other act or event.
+                   Without limiting subsection 36(1) of the _Acts Interpretation Act 1901_, in calculating how many days a particular day, act or event is before or after another day, act or event, the first-mentioned day, or the day of the first-mentioned act or event, is to be counted but not the other day, or the day of the other act or event.
 
-##### <a id="694‑110"></a>694‑110  Performance of functions by Registrar or Deputy Registrar includes reference to delegate etc.
+##### <a id="694-110"></a>694-110  Performance of functions by Registrar or Deputy Registrar includes reference to delegate etc.
 
              (1)  For the purpose of the performance of a function, or the exercise of a power, under this Act by a delegate of the Registrar, a reference to the Registrar in a provision of this Act relating to the performance of the function, or the exercise of the power, includes a reference to the delegate.
 
-             (2)  For the purpose of the performance of a function, or the exercise of a power, under this Act by a sub‑delegate of a Deputy Registrar, a reference to a Registrar in a provision of this Act relating to the performance of the function, or the exercise of the power, includes a reference to the sub‑delegate.
+             (2)  For the purpose of the performance of a function, or the exercise of a power, under this Act by a sub-delegate of a Deputy Registrar, a reference to a Registrar in a provision of this Act relating to the performance of the function, or the exercise of the power, includes a reference to the sub-delegate.
 
              (3)  Subsections (1) and (2) do not, by implication, limit the operation of section 34AA, paragraph 34AB(a), (b), (d) or (e) or section 34A of the _Acts Interpretation Act 1901_.
 
-##### <a id="694‑115"></a>694‑115  Certain family relationships
+##### <a id="694-115"></a>694-115  Certain family relationships
 
                    For the purposes of this Act, relationships (including the relationship of being family) are taken to include (without limitation):
 
@@ -19118,11 +19117,11 @@ Note:          For electronic lodgment of documents with the R
 
                      (c)  relationships traced through relationships referred to in paragraphs (a) and (b).
 
-## Part 17‑3—Dictionary
+## Part 17-3—Dictionary
 
 ### Division 700—Dictionary
 
-##### <a id="700‑1"></a>700‑1  Dictionary
+##### <a id="700-1"></a>700-1  Dictionary
 
                    In this Act:
 
@@ -19130,7 +19129,7 @@ Note:          For electronic lodgment of documents with the R
 
                     <a name="abn"></a>**_ABN_** (short for Australian Business Number) has the meaning given by section 41 of the _A New Tax System (Australian Business Number) Act 1999_.
 
-                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** has the meaning given by section 16‑5.
+                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** has the meaning given by section 16-5.
 
                     <a name="aborigin-torr-strait-island-corpor-affected"></a>**_Aboriginal and Torres Strait Islander corporation affected_** by a contravention of a civil penalty provision means the Aboriginal and Torres Strait Islander corporation to which the conduct that constituted the contravention relates.
 
@@ -19138,9 +19137,9 @@ Note:          For electronic lodgment of documents with the R
 
                      (a)  this Act; and
 
-                     (b)  except in Subdivision 586‑D—rules of court made by the Federal Court, the Supreme Court of the Australian Capital Territory, or the Family Court, because of a provision of this Act; and
+                     (b)  except in Subdivision 586-D—rules of court made by the Federal Court, the Supreme Court of the Australian Capital Territory, or the Family Court, because of a provision of this Act; and
 
-                     (c)  except in Subdivision 586‑D—rules of court applied by the Supreme Court, or a State Family Court, of a State, or by the Supreme Court of the Northern Territory when exercising jurisdiction conferred by Division 586 (including jurisdiction conferred by virtue of any previous application or applications of this paragraph).
+                     (c)  except in Subdivision 586-D—rules of court applied by the Supreme Court, or a State Family Court, of a State, or by the Supreme Court of the Northern Territory when exercising jurisdiction conferred by Division 586 (including jurisdiction conferred by virtue of any previous application or applications of this paragraph).
 
                     <a name="aborigin-torr-strait-island-person"></a>**_Aboriginal and Torres Strait Islander person_** means the following:
 
@@ -19182,13 +19181,13 @@ Note:          For electronic lodgment of documents with the R
 
                      (a)  in relation to an Aboriginal and Torres Strait Islander corporation but not in relation to a deed of corporation arrangement:
 
-                              (i)  means an administrator of the corporation appointed under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act); and
+                              (i)  means an administrator of the corporation appointed under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act); and
 
                              (ii)  if 2 or more persons are appointed under that Part as administrators of the corporation—has a meaning affected by paragraph 451A(2)(b) of that Act as so applied; or
 
                      (b)  in relation to a deed of corporation arrangement:
 
-                              (i)  means an administrator of the deed appointed under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act); and
+                              (i)  means an administrator of the deed appointed under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act); and
 
                              (ii)  if 2 or more persons are appointed under that Part as administrators of the deed—has a meaning affected by paragraph 451B(2)(b) of that Act as so applied; or
 
@@ -19220,7 +19219,7 @@ Note:          For electronic lodgment of documents with the R
 
                      (g)  the body’s profits and other income, receipts, losses, outgoings and expenditure; and
 
-                     (h)  if the body is a trustee but not a licensed trustee company within the meaning of Chapter 5D of the Corporations Act or the Public Trustee of a State or Territory (without limiting the generality of paragraphs (a) to (g))—matters concerned with:
+                     (h)  if the body is a trustee but not an authorised trustee corporation (without limiting the generality of paragraphs (a) to (g))—matters concerned with:
 
                               (i)  the ascertainment of the identity of the persons who are beneficiaries under the trust; and
 
@@ -19278,7 +19277,7 @@ Note:          For electronic lodgment of documents with the R
 
                       (r)  matters relating to or arising out of the audit of, or working papers or reports of an auditor concerning, any matters referred to in a preceding paragraph.
 
-                    <a name="ag-member-requir"></a>**_age of members requirement_** has the meaning given by section 29‑10.
+                    <a name="ag-member-requir"></a>**_age of members requirement_** has the meaning given by section 29-10.
 
                     <a name="agm"></a>**_AGM_** means an annual general meeting of an Aboriginal and Torres Strait Islander corporation.
 
@@ -19286,7 +19285,7 @@ Note:          For electronic lodgment of documents with the R
 
                     <a name="applied-provision"></a>**_applied provision_** means a provision of the Corporations Act that is applied in relation to Aboriginal and Torres Strait Islander corporations by a provision of this Act.
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by paragraph 638‑1(6)(b).
+                    <a name="approved-form"></a>**_approved form_** has the meaning given by paragraph 638-1(6)(b).
 
                     <a name="asic"></a>**_ASIC_** means the Australian Securities and Investments Commission.
 
@@ -19308,11 +19307,11 @@ Note:          For electronic lodgment of documents with the R
 
                     <a name="auditor-independ-requir-act"></a>**_auditor independence requirements of this Act_** means the requirements of:
 
-                     (a)  Subdivision 339‑D; and
+                     (a)  Subdivision 339-D; and
 
                      (b)  the regulations made for the purposes of that Subdivision; and
 
-                     (c)  the Corporations Act auditor independence provisions as applied by section 339‑75 of this Act.
+                     (c)  the Corporations Act auditor independence provisions as applied by section 339-75 of this Act.
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, does not include an external Territory.
 
@@ -19320,7 +19319,7 @@ Note:          Paragraph 17(a) of the _Acts Interpretation Act
 
                     <a name="australian-adi"></a>**_Australian ADI_** means:
 
-                     (a)  an ADI (short for authorised deposit‑taking institution) within the meaning of the _Banking Act 1959_; and
+                     (a)  an ADI (short for authorised deposit-taking institution) within the meaning of the _Banking Act 1959_; and
 
                      (b)  a person who carries on State banking within the meaning of paragraph 51(xiii) of the Constitution.
 
@@ -19328,11 +19327,13 @@ Note:          Paragraph 17(a) of the _Acts Interpretation Act
 
                     <a name="authorised-audit-compani"></a>**_authorised audit company_** means a company registered under Part 9.2A of the Corporations Act.
 
-                    <a name="authorised-disclosur"></a>**_authorised disclosure_** has the meaning given by subsections 604‑25(3), (4) and (7).
+                    <a name="authorised-disclosur"></a>**_authorised disclosure_** has the meaning given by subsections 604-25(3), (4) and (7).
 
-                    <a name="authorised-offic"></a>**_authorised officer_** means a person appointed by the Registrar under section 447‑1 for the purposes of a provision in which the expression occurs.
+                    <a name="authorised-offic"></a>**_authorised officer_** means a person appointed by the Registrar under section 447-1 for the purposes of a provision in which the expression occurs.
 
-                    <a name="authorised-us-disclosur"></a>**_authorised use or disclosure_** has the meaning given by subsections 604‑25(1) and (2).
+                    <a name="authorised-truste-corpor"></a>**_authorised trustee corporation_** has the same meaning as in the Corporations Act.
+
+                    <a name="authorised-us-disclosur"></a>**_authorised use or disclosure_** has the meaning given by subsections 604-25(1) and (2).
 
                     <a name="benefit"></a>**_benefit_** means any benefit, whether by way of payment of cash or otherwise.
 
@@ -19352,11 +19353,11 @@ Note:          Paragraph 17(a) of the _Acts Interpretation Act
 
 however compiled, recorded or stored.
 
-                    <a name="busi-affair"></a>**_business affairs_** of an entity has a meaning affected by sections 694‑15, 694‑20, 694‑25 and 694‑30.
+                    <a name="busi-affair"></a>**_business affairs_** of an entity has a meaning affected by sections 694-15, 694-20, 694-25 and 694-30.
 
                     <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday or bank holiday in the place concerned.
 
-                    <a name="busi-judgment"></a>**_business judgment_** has the meaning given by subsection 265‑1(3).
+                    <a name="busi-judgment"></a>**_business judgment_** has the meaning given by subsection 265-1(3).
 
                     <a name="caus"></a>**_cause_** includes procure.
 
@@ -19366,7 +19367,7 @@ however compiled, recorded or stored.
 
                      (b)  in relation to a translation of a document—certified by a statement in writing to be a correct translation of the document into English.
 
-                    <a name="chang"></a>**_changed_**, in relation to an Aboriginal and Torres Strait Islander corporation’s constitution, has the meaning given by subsection 69‑10(1).
+                    <a name="chang"></a>**_changed_**, in relation to an Aboriginal and Torres Strait Islander corporation’s constitution, has the meaning given by subsection 69-10(1).
 
                     <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this Act, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
 
@@ -19374,17 +19375,17 @@ however compiled, recorded or stored.
 
                     <a name="civil-penalti-order"></a>**_civil penalty order_** means any of the following:
 
-                     (a)  a declaration of contravention under section 386‑1;
+                     (a)  a declaration of contravention under section 386-1;
 
-                     (b)  a pecuniary penalty order under section 386‑10;
+                     (b)  a pecuniary penalty order under section 386-10;
 
-                     (c)  a compensation order under section 386‑15;
+                     (c)  a compensation order under section 386-15;
 
-                     (d)  an order under section 279‑15 disqualifying a person from managing corporations.
+                     (d)  an order under section 279-15 disqualifying a person from managing corporations.
 
-                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by subsection 386‑1(1).
+                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by subsection 386-1(1).
 
-                    <a name="close-held-subsidiari"></a>**_closely‑held subsidiary_** has the meaning given by subsection 287‑5(2).
+                    <a name="close-held-subsidiari"></a>**_closely-held subsidiary_** has the meaning given by subsection 287-5(2).
 
                     <a name="coastal-sea"></a>**_coastal sea_** means:
 
@@ -19392,7 +19393,7 @@ however compiled, recorded or stored.
 
                      (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or internal Territory;
 
-and includes the airspace over, and the sea‑bed and subsoil beneath, any such sea.
+and includes the airspace over, and the sea-bed and subsoil beneath, any such sea.
 
                     <a name="common-law-holder"></a>**_common law holder_** has the same meaning as in the Native Title Act.
 
@@ -19404,13 +19405,13 @@ and includes the airspace over, and the sea‑bed and subsoil beneath, any such 
 
                      (a)  a body corporate that is, or has been, related to the corporation; or
 
-                     (b)  an entity that is, or has been, connected (as defined by section 694‑45) with the corporation.
+                     (b)  an entity that is, or has been, connected (as defined by section 694-45) with the corporation.
 
                     <a name="consolid-entiti"></a>**_consolidated entity_** means an Aboriginal and Torres Strait Islander corporation together with all the entities it is required to include in a consolidated financial report.
 
-                    <a name="constitut"></a>**_constitution_** has the meaning given by subsection 69‑1(2).
+                    <a name="constitut"></a>**_constitution_** has the meaning given by subsection 69-1(2).
 
-                    <a name="constitut-chang"></a>**_constitutional change_** has the meaning given by subsection 69‑10(2).
+                    <a name="constitut-chang"></a>**_constitutional change_** has the meaning given by subsection 69-10(2).
 
                     <a name="contributori"></a>**_contributory_** of an Aboriginal and Torres Strait Islander corporation means:
 
@@ -19418,29 +19419,29 @@ and includes the airspace over, and the sea‑bed and subsoil beneath, any such 
 
                      (b)  before the final determination of the persons who are contributories because of paragraph (a)—a person alleged to be such a contributory.
 
-                    <a name="control"></a>**_control_** has the meaning given by section 689‑25.
+                    <a name="control"></a>**_control_** has the meaning given by section 689-25.
 
                     <a name="corpor-act"></a>**_Corporations Act_** means the _Corporations Act 2001_.
 
-                    <a name="administr-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_administration provisions_** has the meaning given by subsection 521‑1(4).
+                    <a name="administr-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_administration provisions_** has the meaning given by subsection 521-1(4).
 
-                    <a name="auditor-independ-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_auditor independence provisions_** has the meaning given by subsection 339‑75(4).
+                    <a name="auditor-independ-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_auditor independence provisions_** has the meaning given by subsection 339-75(4).
 
                     <a name="corpor-act-corpor"></a>**_Corporations Act corporation_** means a corporation within the meaning of the _Corporations Act 2001_.
 
-                    <a name="employe-entitl-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_employees’ entitlements provisions_** has the meaning given by subsection 536‑1(3).
+                    <a name="employe-entitl-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_employees’ entitlements provisions_** has the meaning given by subsection 536-1(3).
 
-                    <a name="insolv-trade-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_insolvent trading provisions_** has the meaning given by subsection 531‑1(3).
+                    <a name="insolv-trade-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_insolvent trading provisions_** has the meaning given by subsection 531-1(3).
 
-                    <a name="pre-wind-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_pre‑winding up provisions_** has the meaning given by subsection 526‑40(3).
+                    <a name="pre-wind-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_pre-winding up provisions_** has the meaning given by subsection 526-40(3).
 
-                    <a name="receiv-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_receiver provisions_** has the meaning given by subsection 516‑1(3).
+                    <a name="receiv-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_receiver provisions_** has the meaning given by subsection 516-1(3).
 
-                    <a name="wind-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_winding up provisions_** has the meaning given by subsection 526‑35(3).
+                    <a name="wind-provision"></a><a name="corpor-act"></a>**_Corporations Act_** **_winding up provisions_** has the meaning given by subsection 526-35(3).
 
-                    <a name="court"></a>**_court_** has the meaning given by section 694‑35.
+                    <a name="court"></a>**_court_** has the meaning given by section 694-35.
 
-                    <a name="court"></a>**_Court_** has the meaning given by section 694‑35.
+                    <a name="court"></a>**_Court_** has the meaning given by section 694-35.
 
                     <a name="court-summari-jurisdict"></a>**_court of summary jurisdiction_** means any justice or justices of the peace or other magistrate sitting as a court for the making of summary orders or the summary punishment of offences:
 
@@ -19448,9 +19449,9 @@ and includes the airspace over, and the sea‑bed and subsoil beneath, any such 
 
                      (b)  by virtue of his or her commission or their commissions.
 
-                    <a name="cover-matter-provid-replac-rule"></a>**_cover the matters provided for in the replaceable rules_**, in relation to the internal governance rules of an Aboriginal and Torres Strait Islander corporation, has the meaning given by section 66‑5.
+                    <a name="cover-matter-provid-replac-rule"></a>**_cover the matters provided for in the replaceable rules_**, in relation to the internal governance rules of an Aboriginal and Torres Strait Islander corporation, has the meaning given by section 66-5.
 
-                    <a name="current-report-oblig"></a>**_current reporting obligations_** has the meaning given by subsection 358‑10(1).
+                    <a name="current-report-oblig"></a>**_current reporting obligations_** has the meaning given by subsection 358-10(1).
 
                     <a name="daili-newspap"></a>**_daily newspaper_** means a newspaper that is ordinarily published on each day that is a business day in the place where the newspaper is published (whether or not the newspaper is ordinarily published on other days).
 
@@ -19458,27 +19459,27 @@ and includes the airspace over, and the sea‑bed and subsoil beneath, any such 
 
                     <a name="deed-corpor-arrang"></a>**_deed of corporation arrangement_** means:
 
-                     (a)  a deed of corporation arrangement executed under Part 5.3A of the Corporations Act (as applied by section 521‑1 of this Act); or
+                     (a)  a deed of corporation arrangement executed under Part 5.3A of the Corporations Act (as applied by section 521-1 of this Act); or
 
                      (b)  such a deed as varied and in force from time to time.
 
-                    <a name="deputi-registrar"></a>**_Deputy Registrar_** means a Deputy Registrar of Aboriginal and Torres Strait Islander Corporations appointed under section 653‑5.
+                    <a name="deputi-registrar"></a>**_Deputy Registrar_** means a Deputy Registrar of Aboriginal and Torres Strait Islander Corporations appointed under section 653-5.
 
                     <a name="deregist"></a>**_deregistered_**, in relation to an Aboriginal and Torres Strait Islander corporation, means deregistered under Chapter 12.
 
-                    <a name="director"></a>**_director_** has the meaning given by section 683‑1.
+                    <a name="director"></a>**_director_** has the meaning given by section 683-1.
 
                     <a name="director-meet"></a>**_directors’ meeting_** means a meeting of directors of an Aboriginal and Torres Strait Islander corporation.
 
-                    <a name="director-statem"></a>**_directors’ statement_** has the meaning given by subsection 69‑20(5).
+                    <a name="director-statem"></a>**_directors’ statement_** has the meaning given by subsection 69-20(5).
 
-                    <a name="docum-access-address"></a>**_document access address_** for an Aboriginal and Torres Strait Islander corporation means the address that is the corporation’s document access address under section 42‑20 or Division 115.
+                    <a name="docum-access-address"></a>**_document access address_** for an Aboriginal and Torres Strait Islander corporation means the address that is the corporation’s document access address under section 42-20 or Division 115.
 
-                    <a name="docum-lodg"></a>**_document that has been lodged_** has the meaning given by subsection 404‑1(2).
+                    <a name="docum-lodg"></a>**_document that has been lodged_** has the meaning given by subsection 404-1(2).
 
                     <a name="employe"></a>**_employee_** of an Aboriginal and Torres Strait Islander corporation includes a contact person for the corporation (regardless of the basis on which the person is appointed as contact person).
 
-                    <a name="entiti"></a>**_entity_**: for the purposes of Part 6‑6, an entity is any of the following:
+                    <a name="entiti"></a>**_entity_**: for the purposes of Part 6-6, an entity is any of the following:
 
                      (a)  a body corporate;
 
@@ -19492,7 +19493,7 @@ and includes the airspace over, and the sea‑bed and subsoil beneath, any such 
 
                       (f)  for a trust that has more than 1 trustee—the trustees together.
 
-Otherwise, entity has the meaning given by section 694‑40.
+Otherwise, entity has the meaning given by section 694-40.
 
                     <a name="examin-affair"></a>**_examinable affairs_** of an Aboriginal and Torres Strait Islander corporation means:
 
@@ -19538,7 +19539,7 @@ Otherwise, entity has the meaning given by section 694‑40.
 
                      (c)  the entity’s losses, outgoings and expenditure.
 
-                    <a name="excluded-wind-provision"></a>**_excluded winding up provisions_** of the Corporations Act has the meaning given by subsection 526‑35(3).
+                    <a name="excluded-wind-provision"></a>**_excluded winding up provisions_** of the Corporations Act has the meaning given by subsection 526-35(3).
 
                     <a name="expert"></a>**_expert_**, in relation to a matter, means a person whose profession or reputation gives authority to a statement made by him or her in relation to that matter.
 
@@ -19546,15 +19547,15 @@ Otherwise, entity has the meaning given by section 694‑40.
 
                      (a)  includes further extend; and
 
-                     (b)  has a meaning affected by section 694‑50.
+                     (b)  has a meaning affected by section 694-50.
 
-                    <a name="extern-administered-bodi-corpor"></a>**_externally‑administered body corporate_** has the same meaning as in the Corporations Act.
+                    <a name="extern-administered-bodi-corpor"></a>**_externally-administered body corporate_** has the same meaning as in the Corporations Act.
 
                     <a name="famili-court"></a>**_Family Court_** means the Family Court of Australia.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="financi-benefit"></a>**_financial benefit_** has a meaning that is affected by section 293‑5.
+                    <a name="financi-benefit"></a>**_financial benefit_** has a meaning that is affected by section 293-5.
 
                     <a name="financi-record"></a>**_financial records_** includes:
 
@@ -19570,17 +19571,17 @@ Otherwise, entity has the meaning given by section 694‑40.
 
                     <a name="financi-report"></a>**_financial report_** means a financial report prepared under Chapter 7.
 
-                    <a name="financi-year"></a>**_financial year_** has the meaning given by subsections 333‑5(4), (4A) and (5).
+                    <a name="financi-year"></a>**_financial year_** has the meaning given by subsections 333-5(4), (4A) and (5).
 
                     <a name="gener-law"></a>**_general law_** means the principles and rules of the common law and equity.
 
                     <a name="gener-meet"></a>**_general meeting_** means a general meeting of the members of an Aboriginal and Torres Strait Islander corporation.
 
-                    <a name="gener-report"></a>**_general report_** means a report that section 330‑1 requires an Aboriginal and Torres Strait Islander corporation to prepare.
+                    <a name="gener-report"></a>**_general report_** means a report that section 330-1 requires an Aboriginal and Torres Strait Islander corporation to prepare.
 
-                    <a name="give-financi-benefit"></a>**_giving a financial benefit_** has the meaning given by section 293‑5.
+                    <a name="give-financi-benefit"></a>**_giving a financial benefit_** has the meaning given by section 293-5.
 
-                    <a name="give-inform"></a>**_giving information_** has a meaning affected by section 694‑1.
+                    <a name="give-inform"></a>**_giving information_** has a meaning affected by section 694-1.
 
                     <a name=""></a>**_have_**, in relation to information, includes be in possession of the information.
 
@@ -19588,43 +19589,43 @@ Otherwise, entity has the meaning given by section 694‑40.
 
                     <a name="indigen-corpor-number"></a><a name="icn"></a>**_ICN_**: see **_Indigenous Corporation Number_**.
 
-                    <a name="indigen-requir"></a>**_Indigeneity requirement_** has the meaning given by section 29‑5.
+                    <a name="indigen-requir"></a>**_Indigeneity requirement_** has the meaning given by section 29-5.
 
-                    <a name="icn"></a><a name="indigen-corpor-number"></a>**_Indigenous Corporation Number_** or **_ICN_** means the number given by the Registrar to an Aboriginal and Torres Strait Islander corporation on registration under subsection 26‑1(2).
+                    <a name="icn"></a><a name="indigen-corpor-number"></a>**_Indigenous Corporation Number_** or **_ICN_** means the number given by the Registrar to an Aboriginal and Torres Strait Islander corporation on registration under subsection 26-1(2).
 
                     <a name=""></a><a name="individu-auditor"></a>**_individual auditor_** means  an individual who consents to be appointed, or is appointed, as auditor of an Aboriginal and Torres Strait Islander corporation.
 
                     <a name="inform"></a>**_information_** includes complaint _._
 
-                    <a name="insolv"></a>**_insolvent_** has the meaning given by subsection 694‑80(2).
+                    <a name="insolv"></a>**_insolvent_** has the meaning given by subsection 694-80(2).
 
-                    <a name="intern-govern-framework-rule"></a>**_internal governance framework rules_** has the meaning given by subsection 72‑5(7).
+                    <a name="intern-govern-framework-rule"></a>**_internal governance framework rules_** has the meaning given by subsection 72-5(7).
 
-                    <a name="intern-govern-rule"></a>**_internal governance rules_** has the meaning given by section 63‑1.
+                    <a name="intern-govern-rule"></a>**_internal governance rules_** has the meaning given by section 63-1.
 
                     <a name="intern-govern-rule-requir"></a>**_internal governance rules requirements_** means the requirements set out in Division 66.
 
-                    <a name="involved"></a>**_involved in_**, in relation to a contravention, has the meaning given by section 694‑55.
+                    <a name="involved"></a>**_involved in_**, in relation to a contravention, has the meaning given by section 694-55.
 
                     <a name="judg"></a>**_Judge_** means a judge of the Court.
 
                     <a name="judgment"></a>**_judgment_** means a judgment, decree or order, whether final or interlocutory.
 
-                    <a name="lead-auditor"></a>**_lead auditor_** has the meaning given by subsection 339‑20(1).
+                    <a name="lead-auditor"></a>**_lead auditor_** has the meaning given by subsection 339-20(1).
 
                     <a name="lodg"></a>**_lodge_** means lodge with the Registrar.
 
                     <a name="lower-court"></a>**_lower court_** means a court of a State or Territory that is not a superior court.
 
-                    <a name="member"></a>**_member_** of an Aboriginal and Torres Strait Islander corporation has the meaning given by section 138‑1.
+                    <a name="member"></a>**_member_** of an Aboriginal and Torres Strait Islander corporation has the meaning given by section 138-1.
 
-                    <a name="minimum-number-member-requir"></a>**_minimum number of members requirement_** has the meaning given by section 29‑1.
+                    <a name="minimum-number-member-requir"></a>**_minimum number of members requirement_** has the meaning given by section 29-1.
 
                     <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
                     <a name="monei"></a>**_money_** includes a payment order.
 
-                    <a name="name-requir"></a>**_name requirement_** means a requirement under section 85‑1.
+                    <a name="name-requir"></a>**_name requirement_** means a requirement under section 85-1.
 
                     <a name="nation-busi-name-regist"></a>**_national business names register_** means the record or records of information identified in a notice under subsection 147(5) of the Corporations Act.
 
@@ -19660,11 +19661,11 @@ Otherwise, entity has the meaning given by section 694‑40.
 
 of, or purporting to be issued or signed by or on behalf of, the corporation.
 
-                    <a name="observ"></a>**_observer_** means a person appointed under section 158‑5.
+                    <a name="observ"></a>**_observer_** means a person appointed under section 158-5.
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
 
-                    <a name="offic"></a>**_officer_** of an Aboriginal and Torres Strait Islander corporation has the meaning given by section 683‑1.
+                    <a name="offic"></a>**_officer_** of an Aboriginal and Torres Strait Islander corporation has the meaning given by section 683-1.
 
                     <a name="offic-commonwealth"></a>**_officer of the Commonwealth_** has the same meaning as in paragraph 75(v) of the Constitution.
 
@@ -19676,13 +19677,13 @@ of, or purporting to be issued or signed by or on behalf of, the corporation.
 
                     <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
 
-                    <a name="person-involved-conduct-audit"></a>**_person involved in the conduct of an audit_** has the meaning given by subsection 339‑90(6).
+                    <a name="person-involved-conduct-audit"></a>**_person involved in the conduct of an audit_** has the meaning given by subsection 339-90(6).
 
-                    <a name="possess"></a>**_possession_** has a meaning affected by section 694‑60.
+                    <a name="possess"></a>**_possession_** has a meaning affected by section 694-60.
 
                     <a name="power"></a>**_power_** includes an authority.
 
-                    <a name="pre-incorpor-requir"></a>**_pre‑incorporation requirement_** has the meaning given by section 29‑15.
+                    <a name="pre-incorpor-requir"></a>**_pre-incorporation requirement_** has the meaning given by section 29-15.
 
                     <a name="premis"></a>**_premises_** includes:
 
@@ -19706,9 +19707,9 @@ whether the proceeding, hearing or examination is of a civil, administrative, cr
 
                     <a name="properti"></a>**_property_** means any legal or equitable estate or interest (whether present or future and whether vested or contingent) in real or personal property of any description and includes a thing in action.
 
-                    <a name="propos-report-oblig"></a>**_proposed reporting obligations_** has the meaning given by subsection 358‑10(2).
+                    <a name="propos-report-oblig"></a>**_proposed reporting obligations_** has the meaning given by subsection 358-10(2).
 
-                    <a name="protect-inform"></a>**_protected information_** has the meaning given by section 604‑5.
+                    <a name="protect-inform"></a>**_protected information_** has the meaning given by section 604-5.
 
                     <a name="prove"></a>**_prove_** includes establish in any way (for example, but without limitation, through the operation of a presumption for which this Act or a law of a State or Territory provides).
 
@@ -19720,11 +19721,11 @@ whether the proceeding, hearing or examination is of a civil, administrative, cr
 
                     <a name="public-author"></a>**_public authority_** means an authority or body (whether a body corporate or not) established or incorporated for a public purpose by a law of the Commonwealth or of a State or Territory and includes a body corporate incorporated under a law of the Commonwealth or of a State or Territory being a body corporate in which the Commonwealth or a State or Territory has a controlling interest.
 
-                    <a name="public-docum"></a>**_public document_** has the meaning given by section 694‑65.
+                    <a name="public-docum"></a>**_public document_** has the meaning given by section 694-65.
 
-                    <a name="public-monei"></a>**_public money_** includes the meaning given by subsection 487‑10(3).
+                    <a name="public-monei"></a>**_public money_** includes the meaning given by subsection 487-10(3).
 
-                    <a name="receiv-manag"></a>**_receiver and manager_** has a meaning affected by section 694‑70.
+                    <a name="receiv-manag"></a>**_receiver and manager_** has a meaning affected by section 694-70.
 
                     <a name="regist"></a>**_register_** means register under this Act.
 
@@ -19732,21 +19733,21 @@ whether the proceeding, hearing or examination is of a civil, administrative, cr
 
                     <a name="regist-nativ-titl-bodi-corpor"></a>**_registered native title body corporate_** has the same meaning as in the Native Title Act.
 
-                    <a name="regist-offic"></a>**_registered office_** of an Aboriginal and Torres Strait Islander corporation means the office that is the corporation’s registered office under section 42‑15 or Division 112.
+                    <a name="regist-offic"></a>**_registered office_** of an Aboriginal and Torres Strait Islander corporation means the office that is the corporation’s registered office under section 42-15 or Division 112.
 
-                    <a name="regist-aborigin-torr-strait-island-corpor"></a>**_Register of Aboriginal and Torres Strait Islander Corporations_** means the register kept under paragraph 418‑1(a).
+                    <a name="regist-aborigin-torr-strait-island-corpor"></a>**_Register of Aboriginal and Torres Strait Islander Corporations_** means the register kept under paragraph 418-1(a).
 
-                    <a name="regist-disqualifi-offic"></a>**_Register of Disqualified Officers_** means the register kept under paragraph 418‑1(b).
+                    <a name="regist-disqualifi-offic"></a>**_Register of Disqualified Officers_** means the register kept under paragraph 418-1(b).
 
-                    <a name="regist-former-member"></a>**_register of former members_** means a register provided for in section 180‑10.
+                    <a name="regist-former-member"></a>**_register of former members_** means a register provided for in section 180-10.
 
-                    <a name="regist-member"></a>**_register of members_** means a register provided for in section 180‑1.
+                    <a name="regist-member"></a>**_register of members_** means a register provided for in section 180-1.
 
-                    <a name="registrar"></a>**_Registrar_** means the Registrar of Aboriginal and Torres Strait Islander Corporations appointed under section 653‑1.
+                    <a name="registrar"></a>**_Registrar_** means the Registrar of Aboriginal and Torres Strait Islander Corporations appointed under section 653-1.
 
-                    <a name="relat-bodi-corpor"></a>**_related body corporate_**, in relation to a body corporate, means a body corporate that is related to the first‑mentioned body by virtue of section 689‑20.
+                    <a name="relat-bodi-corpor"></a>**_related body corporate_**, in relation to a body corporate, means a body corporate that is related to the first-mentioned body by virtue of section 689-20.
 
-                    <a name="relat-parti"></a>**_related party_** has the meaning given by section 293‑1.
+                    <a name="relat-parti"></a>**_related party_** has the meaning given by section 293-1.
 
                     <a name="remuner"></a><a name="remuner"></a>**_remuneration_** of an officer or employee of an Aboriginal and Torres Strait Islander corporation. A benefit given to an officer or employee of an Aboriginal and Torres Strait Islander corporation is **_remuneration_** if and only if the benefit, were it received by a director of the corporation, would be remuneration of the director for the purposes of an accounting standard that deals with disclosure in companies’ financial reports of information about directors’ remuneration. For the purposes of this definition, the following are not officers of a corporation:
 
@@ -19762,11 +19763,11 @@ whether the proceeding, hearing or examination is of a civil, administrative, cr
 
                       (f)  a special administrator.
 
-                    <a name="reproduct"></a>**_reproduction_**, in relation to a document, means a machine‑copy of the document or a print made from a negative of the document.
+                    <a name="reproduct"></a>**_reproduction_**, in relation to a document, means a machine-copy of the document or a print made from a negative of the document.
 
-                    <a name="requir-conduct-accord-auditing-standard"></a>**_required to be conducted in accordance with the auditing standards_** has the meaning given by section 339‑15.
+                    <a name="requir-conduct-accord-auditing-standard"></a>**_required to be conducted in accordance with the auditing standards_** has the meaning given by section 339-15.
 
-                    <a name="requir-compli-accounting-standard"></a>**_required to comply with the accounting standards_** has the meaning given by section 339‑10.
+                    <a name="requir-compli-accounting-standard"></a>**_required to comply with the accounting standards_** has the meaning given by section 339-10.
 
                     <a name="result"></a>**_result_** includes:
 
@@ -19774,9 +19775,9 @@ whether the proceeding, hearing or examination is of a civil, administrative, cr
 
                      (b)  when used as a noun—an indirect result.
 
-                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by section 617‑1.
+                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by section 617-1.
 
-                    <a name="review-auditor"></a>**_review auditor_** has the meaning given by subsection 339‑20(2).
+                    <a name="review-auditor"></a>**_review auditor_** has the meaning given by subsection 339-20(2).
 
                     <a name="rule"></a>**_rules_** means:
 
@@ -19786,9 +19787,9 @@ whether the proceeding, hearing or examination is of a civil, administrative, cr
 
 as the case requires.
 
-                    <a name="section-333-report"></a>**_section 333‑5 report_** means a report that an Aboriginal and Torres Strait Islander corporation is required to prepare by regulations made for the purposes of section 333‑5.
+                    <a name="section-333-report"></a>**_section 333-5 report_** means a report that an Aboriginal and Torres Strait Islander corporation is required to prepare by regulations made for the purposes of section 333-5.
 
-                    <a name="secur"></a>**_securities_** has the meaning given by section 694‑75.
+                    <a name="secur"></a>**_securities_** has the meaning given by section 694-75.
 
                     <a name="senior-manag"></a>**_senior manager_** of an Aboriginal and Torres Strait Islander corporation means a person (other than a director or secretary of the corporation) who:
 
@@ -19796,13 +19797,13 @@ as the case requires.
 
                      (b)  has the capacity to affect significantly the corporation’s financial standing.
 
-                    <a name="solvent"></a>**_solvent_** has the meaning given by subsection 694‑80(1).
+                    <a name="solvent"></a>**_solvent_** has the meaning given by subsection 694-80(1).
 
-                    <a name="special-administr"></a>**_special administrator_** means a person appointed under subsection 490‑1(1).
+                    <a name="special-administr"></a>**_special administrator_** means a person appointed under subsection 490-1(1).
 
                     <a name="special-resolut"></a>**_special resolution_** means, in relation to an Aboriginal and Torres Strait Islander corporation, a resolution:
 
-                     (a)  of which notice as set out in paragraph 201‑35(c) has been given; and
+                     (a)  of which notice as set out in paragraph 201-35(c) has been given; and
 
                      (b)  that has been passed by at least 75% of the votes cast by members entitled to vote on the resolution.
 
@@ -19820,9 +19821,9 @@ as the case requires.
 
                      (c)  the Northern Territory.
 
-                    <a name="subsect-586-proceing"></a>**_subsection 586‑5(3) proceeding_** means a proceeding with respect to a matter referred to in subsection 586‑5(3).
+                    <a name="subsect-586-proceing"></a>**_subsection 586-5(3) proceeding_** means a proceeding with respect to a matter referred to in subsection 586-5(3).
 
-                    <a name="subsidiari"></a>**_subsidiary_**, in relation to a body corporate, means a body corporate that is a subsidiary of the first‑mentioned body by virtue of Division 689.
+                    <a name="subsidiari"></a>**_subsidiary_**, in relation to a body corporate, means a body corporate that is a subsidiary of the first-mentioned body by virtue of Division 689.
 
                     <a name="superior-court"></a>**_superior court_** means the Federal Court of Australia, the Supreme Court of a State or Territory, the Family Court or a State Family Court.
 
@@ -19838,9 +19839,9 @@ as the case requires.
 
                     <a name="torr-strait-island"></a>**_Torres Strait Islander_** means a descendant of an Indigenous inhabitant of the Torres Strait Islands.
 
-                    <a name="unclaimed-properti"></a>**_unclaimed property_** has the meaning given by section 551‑1.
+                    <a name="unclaimed-properti"></a>**_unclaimed property_** has the meaning given by section 551-1.
 
-                    <a name="special-administr"></a>**_under special administration_** has the meaning given by section 487‑25.
+                    <a name="special-administr"></a>**_under special administration_** has the meaning given by section 487-25.
 
                     <a name="unincorporated-bodi"></a>**_unincorporated body_** includes:
 
@@ -19848,7 +19849,7 @@ as the case requires.
 
                      (b)  an unincorporated society.
 
-                    <a name="hold-bodi-corpor"></a><a name="wholli-owned-subsidiari"></a>**_wholly‑owned subsidiary_**, in relation to a body corporate (the **_holding body corporate_**), means a body corporate none of whose members is a person other than:
+                    <a name="hold-bodi-corpor"></a><a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_**, in relation to a body corporate (the **_holding body corporate_**), means a body corporate none of whose members is a person other than:
 
                      (a)  the holding body corporate; or
 
@@ -19921,7 +19922,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -20002,23 +20003,6 @@ of Assent</div>
   </td>
   <td>
     <div>Sch. 7 (item 26)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations and Other Legislation Amendment (Trustee Companies and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>24, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): 13 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -20158,7 +20142,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 1‑1</b></div>
+    <div><b>Part 1-1</b></div>
   </td>
   <td>
     <div></div>
@@ -20174,7 +20158,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 1‑10</div>
+    <div>S. 1-10</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20190,7 +20174,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 2‑5</b></div>
+    <div><b>Part 2-5</b></div>
   </td>
   <td>
     <div></div>
@@ -20206,7 +20190,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 42‑10</div>
+    <div>S. 42-10</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20222,7 +20206,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 3‑2</b></div>
+    <div><b>Part 3-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20238,7 +20222,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 57‑5</div>
+    <div>S. 57-5</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20254,7 +20238,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 4‑2</b></div>
+    <div><b>Part 4-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20270,7 +20254,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 138‑1</div>
+    <div>S. 138-1</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20286,7 +20270,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision 150‑C</b></div>
+    <div><b>Subdivision 150-C</b></div>
   </td>
   <td>
     <div></div>
@@ -20294,7 +20278,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 150‑20</div>
+    <div>S. 150-20</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20302,7 +20286,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 150‑35</div>
+    <div>S. 150-35</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20318,7 +20302,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 5‑2</b></div>
+    <div><b>Part 5-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20334,7 +20318,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision 201‑B</b></div>
+    <div><b>Subdivision 201-B</b></div>
   </td>
   <td>
     <div></div>
@@ -20342,7 +20326,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 201‑25</div>
+    <div>S. 201-25</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20350,7 +20334,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 5‑4</b></div>
+    <div><b>Part 5-4</b></div>
   </td>
   <td>
     <div></div>
@@ -20366,7 +20350,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 220‑10</div>
+    <div>S. 220-10</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20382,7 +20366,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 6‑4</b></div>
+    <div><b>Part 6-4</b></div>
   </td>
   <td>
     <div></div>
@@ -20398,7 +20382,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 262‑1</div>
+    <div>S. 262-1</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20406,7 +20390,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 6‑5</b></div>
+    <div><b>Part 6-5</b></div>
   </td>
   <td>
     <div></div>
@@ -20422,7 +20406,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 279‑1</div>
+    <div>S. 279-1</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20430,7 +20414,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 6‑6</b></div>
+    <div><b>Part 6-6</b></div>
   </td>
   <td>
     <div></div>
@@ -20446,7 +20430,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 293‑1</div>
+    <div>S. 293-1</div>
   </td>
   <td>
     <div>am. No. 144, 2008</div>
@@ -20462,7 +20446,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 7‑3</b></div>
+    <div><b>Part 7-3</b></div>
   </td>
   <td>
     <div></div>
@@ -20478,7 +20462,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 333‑5</div>
+    <div>S. 333-5</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20494,7 +20478,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 9‑2</b></div>
+    <div><b>Part 9-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20510,7 +20494,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 407‑15</div>
+    <div>S. 407-15</div>
   </td>
   <td>
     <div>am. No. 8, 2010</div>
@@ -20526,7 +20510,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 10‑3</b></div>
+    <div><b>Part 10-3</b></div>
   </td>
   <td>
     <div></div>
@@ -20542,7 +20526,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision 456‑A</b></div>
+    <div><b>Subdivision 456-A</b></div>
   </td>
   <td>
     <div></div>
@@ -20550,7 +20534,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 456‑10</div>
+    <div>S. 456-10</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20566,7 +20550,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 11‑2</b></div>
+    <div><b>Part 11-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20582,7 +20566,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 496‑20</div>
+    <div>S. 496-20</div>
   </td>
   <td>
     <div>am. No.4, 2010</div>
@@ -20598,7 +20582,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 12‑2</b></div>
+    <div><b>Part 12-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20614,7 +20598,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 546‑5</div>
+    <div>S. 546-5</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20630,7 +20614,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 14‑3</b></div>
+    <div><b>Part 14-3</b></div>
   </td>
   <td>
     <div></div>
@@ -20646,7 +20630,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 589‑5</div>
+    <div>S. 589-5</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20662,7 +20646,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 15‑2</b></div>
+    <div><b>Part 15-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20678,7 +20662,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 604‑20</div>
+    <div>S. 604-20</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
@@ -20694,7 +20678,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 17‑2</b></div>
+    <div><b>Part 17-2</b></div>
   </td>
   <td>
     <div></div>
@@ -20710,7 +20694,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 694‑115</div>
+    <div>S. 694-115</div>
   </td>
   <td>
     <div>ad. No. 144, 2008</div>
@@ -20718,7 +20702,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 17‑3</b></div>
+    <div><b>Part 17-3</b></div>
   </td>
   <td>
     <div></div>
@@ -20734,10 +20718,10 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 700‑1</div>
+    <div>S. 700-1</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 24, 2011</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr></table>
 
@@ -20750,7 +20734,7 @@ The following amendments commence on 1 February 2012 or an earlier time determin
 
 ## Schedule 5
 
-## 21  After subsection 453‑10(5)
+## 21  After subsection 453-10(5)
 
 Insert:
 
@@ -20760,7 +20744,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-## 22  After subsection 511‑1(5)
+## 22  After subsection 511-1(5)
 
 Insert:
 
@@ -20770,7 +20754,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 15 April 2011 the amendments are not incorporated in this compilation.
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -20782,10 +20766,10 @@ _Families, Housing, Community Services and Indigenous Affairs and Other Legislat
 
 ## 26  Application
 
-(1)       The amendment made by item 16 applies in relation to cancellations occurring on or after the commencement of that item.
+(1)        The amendment made by item 16 applies in relation to cancellations occurring on or after the commencement of that item.
 
-(2)       The amendment made by item 21 applies in relation to registrations occurring on or after the commencement of that item.
+(2)        The amendment made by item 21 applies in relation to registrations occurring on or after the commencement of that item.
 
-(3)       The amendment made by item 25 applies in relation to uses and disclosures of protected information on or after the commencement of that item (whether the persons were engaged as consultants before, on or after that commencement).
+(3)        The amendment made by item 25 applies in relation to uses and disclosures of protected information on or after the commencement of that item (whether the persons were engaged as consultants before, on or after that commencement).
 
  
