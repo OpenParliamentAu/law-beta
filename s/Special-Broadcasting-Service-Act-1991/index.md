@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00854/Html/a24dd95b-d4b6-44f5-be76-33a117e83ce7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00179/Html/SpecBroadService91WD02_image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 21 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 20 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -56,15 +56,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—The Board of Directors and the Managing Director** 
 
-    **Division 1—Provisions relating to non‑executive Directors**
+    **Division 1—Provisions relating to non-executive Directors**
 
-[16](#16).          This Division applies to non‑executive Directors
+[16](#16).          This Division applies to non-executive Directors
 
-[17](#17).          Appointment of non‑executive Directors
+[17](#17).          Appointment of non-executive Directors
 
 [18](#18).          Term of appointment
 
-[19](#19).          Non‑executive Directors hold office on part‑time basis
+[19](#19).          Non-executive Directors hold office on part-time basis
 
 [20](#20).          Terms and conditions of appointment not provided for by Act
 
@@ -72,15 +72,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Board’s functions and powers not affected by vacancy etc 
 
-[23](#23).          Remuneration and allowances of non‑executive Directors
+[23](#23).          Remuneration and allowances of non-executive Directors
 
-[24](#24).          Acting Chairperson and other acting non‑executive Directors
+[24](#24).          Acting Chairperson and other acting non-executive Directors
 
-[25](#25).          Leave of absence of non‑executive Directors
+[25](#25).          Leave of absence of non-executive Directors
 
-[26](#26).          Resignation of non‑executive Directors
+[26](#26).          Resignation of non-executive Directors
 
-[27](#27).          Removal of non‑executive Directors from office
+[27](#27).          Removal of non-executive Directors from office
 
     **Division 2—Provisions relating to the Managing Director**
 
@@ -88,7 +88,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29](#29).          Term of appointment of Managing Director
 
-[30](#30).          Managing Director holds office on a full‑time basis
+[30](#30).          Managing Director holds office on a full-time basis
 
 [31](#31).          Terms and conditions of appointment not provided for by Act
 
@@ -256,7 +256,7 @@ Sections 93 to 115
 
                     <a name="board"></a>**_Board_** means the Special Broadcasting Service Board referred to in section 7.
 
-                    <a name="borrow"></a>**_borrowing_**, includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day‑to‑day operations of the SBS.
+                    <a name="borrow"></a>**_borrowing_**, includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the SBS.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
 
@@ -278,7 +278,7 @@ Sections 93 to 115
 
                     <a name="nation-broadcast-servic"></a>**_national broadcasting service_** has the same meaning as in the _Broadcasting Services Act 1992_.
 
-                    <a name="non-execut-director"></a>**_non‑executive Director_** means a Director other than the Managing Director.
+                    <a name="non-execut-director"></a>**_non-executive Director_** means a Director other than the Managing Director.
 
                     <a name="program"></a>**_program_** means a radio program or a television program.
 
@@ -354,7 +354,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                      (a)  the Managing Director; and
 
-                     (b)  not fewer than 4 nor more than 8 non‑executive Directors.
+                     (b)  not fewer than 4 nor more than 8 non-executive Directors.
 
 ##### <a id="9"></a>9  Role of the Board
 
@@ -382,7 +382,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                      (e)  to ensure the efficient and cost effective functioning of the SBS; and
 
-                      (f)  to ensure that the SBS seeks to co‑operate closely with the Australian Broadcasting Corporation to maximise the efficiency of the publicly funded sectors of Australian broadcasting; and
+                      (f)  to ensure that the SBS seeks to co-operate closely with the Australian Broadcasting Corporation to maximise the efficiency of the publicly funded sectors of Australian broadcasting; and
 
                      (g)  to be aware of, and responsive to, community needs and opinions on matters relevant to the Charter; and
 
@@ -434,7 +434,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                    There is to be a Managing Director of the SBS, who is to be appointed and hold office as provided by Division 2 of Part 3.
 
-##### <a id="15"></a>15  Duties of the Managing Director
+##### <a id="15"></a>15  Duties of the Managing Director
 
              (1)  Subject to subsection (2), the affairs of the SBS are to be managed by the Managing Director.
 
@@ -444,45 +444,45 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
 ## Part 3—The Board of Directors and the Managing Director
 
-### Division 1—Provisions relating to non‑executive Directors
+### Division 1—Provisions relating to non-executive Directors
 
-##### <a id="16"></a>16  This Division applies to non‑executive Directors
+##### <a id="16"></a>16  This Division applies to non-executive Directors
 
-                   This Division applies to the non‑executive Directors.
+                   This Division applies to the non-executive Directors.
 
-##### <a id="17"></a>17  Appointment of non‑executive Directors
+##### <a id="17"></a>17  Appointment of non-executive Directors
 
-             (1)  The Governor‑General must appoint the non‑executive Directors.
+             (1)  The Governor-General must appoint the non-executive Directors.
 
-             (2)  In appointing a person as a non‑executive Director, the Governor‑General must have regard to the need to ensure:
+             (2)  In appointing a person as a non-executive Director, the Governor-General must have regard to the need to ensure:
 
                      (a)  that the Directors collectively possess an appropriate balance of expertise in the areas required to govern the SBS effectively, including an understanding of Australia’s multicultural society and the needs and interests of the SBS’s culturally diverse audience; and
 
                      (b)  that the Directors collectively comprise persons with a diversity of cultural perspectives; and
 
-                     (c)  that the Directors include a person who the Governor‑ General is satisfied, having regard to consultations between the Minister and representatives of industrial organisations representing employees, has an appropriate understanding of the interests of employees.
+                     (c)  that the Directors include a person who the Governor- General is satisfied, having regard to consultations between the Minister and representatives of industrial organisations representing employees, has an appropriate understanding of the interests of employees.
 
-             (3)  The appointment of a person as a non‑executive Director is not invalid merely because of a defect or irregularity in relation to the appointment.
+             (3)  The appointment of a person as a non-executive Director is not invalid merely because of a defect or irregularity in relation to the appointment.
 
 ##### <a id="18"></a>18  Term of appointment
 
-             (1)  A non‑executive Director holds office, subject to this Act, for such period (not longer than 5 years) as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (1)  A non-executive Director holds office, subject to this Act, for such period (not longer than 5 years) as is specified in the instrument of appointment, but is eligible for re-appointment.
 
-             (2)  Where a person is re‑appointed as a non‑executive Director, the re‑appointment must be for a period not exceeding 5 years.
+             (2)  Where a person is re-appointed as a non-executive Director, the re-appointment must be for a period not exceeding 5 years.
 
-##### <a id="19"></a>19  Non‑executive Directors hold office on part‑time basis
+##### <a id="19"></a>19  Non-executive Directors hold office on part-time basis
 
-                   Non‑executive Directors hold office on a part‑time basis.
+                   Non-executive Directors hold office on a part-time basis.
 
 ##### <a id="20"></a>20  Terms and conditions of appointment not provided for by Act
 
-                   A non‑executive Director holds office on such terms and conditions in relation to matters not provided for by this Act as are determined by the Governor‑General.
+                   A non-executive Director holds office on such terms and conditions in relation to matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="21"></a>21  Appointment of Chairperson and Deputy Chairperson
 
-             (1)  The Governor‑General must appoint one of the non‑executive Directors to be the Chairperson of the Board and another of the non‑executive Directors to be the Deputy Chairperson of the Board.
+             (1)  The Governor-General must appoint one of the non-executive Directors to be the Chairperson of the Board and another of the non-executive Directors to be the Deputy Chairperson of the Board.
 
-             (2)  A person must not continue to hold the position of Chairperson, Deputy Chairperson, acting Chairperson or acting Deputy Chairperson if the person ceases to be a non‑executive Director.
+             (2)  A person must not continue to hold the position of Chairperson, Deputy Chairperson, acting Chairperson or acting Deputy Chairperson if the person ceases to be a non-executive Director.
 
 ##### <a id="22"></a>22  Board’s functions and powers not affected by vacancy etc.
 
@@ -492,17 +492,17 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                      (b)  there is a vacancy in the office of Managing Director; or
 
-                     (c)  the number of non‑executive Directors falls below 4 for not longer than 6 months.
+                     (c)  the number of non-executive Directors falls below 4 for not longer than 6 months.
 
-##### <a id="23"></a>23  Remuneration and allowances of non‑executive Directors
+##### <a id="23"></a>23  Remuneration and allowances of non-executive Directors
 
-             (1)  A non‑executive Director must be paid such remuneration as is determined by the Remuneration Tribunal.
+             (1)  A non-executive Director must be paid such remuneration as is determined by the Remuneration Tribunal.
 
-             (2)  A non‑executive Director must be paid such allowances as are prescribed.
+             (2)  A non-executive Director must be paid such allowances as are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="24"></a>24  Acting Chairperson and other acting non‑executive Directors
+##### <a id="24"></a>24  Acting Chairperson and other acting non-executive Directors
 
              (1)  Where:
 
@@ -512,21 +512,21 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
 the Deputy Chairperson must act as Chairperson.
 
-             (2)  The Minister may appoint a non‑executive Director to act as Deputy Chairperson:
+             (2)  The Minister may appoint a non-executive Director to act as Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia, is acting as Chairperson or is, for any other reason, unable to perform the duties of his or her office.
 
-             (3)  The Minister may appoint a person to act as a non‑executive Director other than the Chairperson or the Deputy Chairperson:
+             (3)  The Minister may appoint a person to act as a non-executive Director other than the Chairperson or the Deputy Chairperson:
 
-                     (a)  during a vacancy in the office of such a non‑executive Director, whether or not an appointment has previously been made to the office; or
+                     (a)  during a vacancy in the office of such a non-executive Director, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when such a non‑executive Director is acting as Chairperson or as Deputy Chairperson, is absent from duty or from Australia or is, for any other reason, unable to perform the duties of his or her office.
+                     (b)  during any period, or during all periods, when such a non-executive Director is acting as Chairperson or as Deputy Chairperson, is absent from duty or from Australia or is, for any other reason, unable to perform the duties of his or her office.
 
-             (4)  The Minister may determine the terms and conditions, other than terms and conditions relating to remuneration and allowances, applying to a person acting as Chairperson, as Deputy Chairperson or as another non‑executive Director.
+             (4)  The Minister may determine the terms and conditions, other than terms and conditions relating to remuneration and allowances, applying to a person acting as Chairperson, as Deputy Chairperson or as another non-executive Director.
 
-             (5)  A person acting as Chairperson, as Deputy Chairperson or as another non‑executive Director is to be paid the same remuneration and allowances as are payable to the Chairperson, the Deputy Chairperson or other non‑executive Directors, as the case requires.
+             (5)  A person acting as Chairperson, as Deputy Chairperson or as another non-executive Director is to be paid the same remuneration and allowances as are payable to the Chairperson, the Deputy Chairperson or other non-executive Directors, as the case requires.
 
              (6)  Anything done by a person purporting to act under this section is not invalid merely because:
 
@@ -538,51 +538,51 @@ the Deputy Chairperson must act as Chairperson.
 
                      (d)  the occasion for the person to act had not arisen or had ceased.
 
-##### <a id="25"></a>25  Leave of absence of non‑executive Directors
+##### <a id="25"></a>25  Leave of absence of non-executive Directors
 
              (1)  The Minister may grant leave to the Chairperson to be absent from a meeting of the Board upon such conditions as to remuneration or otherwise as the Minister thinks fit.
 
              (2)  Where the Chairperson is unable to attend a meeting of the Board because of ill health, the Board may grant leave to the Chairperson to be absent from that meeting.
 
-             (3)  The Chairperson may grant leave to any other non‑executive Director to be absent from a meeting of the Board upon such conditions as to remuneration or otherwise as the Chairperson thinks fit.
+             (3)  The Chairperson may grant leave to any other non-executive Director to be absent from a meeting of the Board upon such conditions as to remuneration or otherwise as the Chairperson thinks fit.
 
-##### <a id="26"></a>26  Resignation of non‑executive Directors
+##### <a id="26"></a>26  Resignation of non-executive Directors
 
-                   A non‑executive Director may resign his or her office by writing signed and delivered to the Governor‑General.
+                   A non-executive Director may resign his or her office by writing signed and delivered to the Governor-General.
 
-##### <a id="27"></a>27  Removal of non‑executive Directors from office
+##### <a id="27"></a>27  Removal of non-executive Directors from office
 
-             (1)  The Governor‑General may remove a non‑executive Director from office for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may remove a non-executive Director from office for misbehaviour or physical or mental incapacity.
 
              (2)  If:
 
-                     (a)  the Chairperson, or a non‑executive Director acting as Chairperson, is absent, except with the leave of the Minister or the Board, from 3 consecutive meetings of the Board; or
+                     (a)  the Chairperson, or a non-executive Director acting as Chairperson, is absent, except with the leave of the Minister or the Board, from 3 consecutive meetings of the Board; or
 
-                     (b)  a non‑executive Director (other than the Chairperson or a Director acting as Chairperson) is absent, except with the leave of the Chairperson, from 3 consecutive meetings of the Board; or
+                     (b)  a non-executive Director (other than the Chairperson or a Director acting as Chairperson) is absent, except with the leave of the Chairperson, from 3 consecutive meetings of the Board; or
 
-                     (c)  a non‑executive Director:
+                     (c)  a non-executive Director:
 
                               (i)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
                              (ii)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Governor‑General may remove the non‑executive Director concerned from office.
+the Governor-General may remove the non-executive Director concerned from office.
 
              (3)  If:
 
                      (a)  the Minister is of the opinion that the performance of the Board or the SBS has been unsatisfactory for a significant period of time; and
 
-                     (b)  the Minister proposes that the appointment of all non‑executive Directors, or specified non‑executive Directors, be terminated;
+                     (b)  the Minister proposes that the appointment of all non-executive Directors, or specified non-executive Directors, be terminated;
 
-the Governor‑General must terminate the appointment of all non‑executive Directors or the specified non‑executive Directors, as the case may be.
+the Governor-General must terminate the appointment of all non-executive Directors or the specified non-executive Directors, as the case may be.
 
              (4)  If:
 
-                     (a)  the Minister is of the opinion that the performance of a particular non‑executive Director has been unsatisfactory for a significant period of time; and
+                     (a)  the Minister is of the opinion that the performance of a particular non-executive Director has been unsatisfactory for a significant period of time; and
 
-                     (b)  the Minister proposes that the appointment of the non‑executive Director be terminated;
+                     (b)  the Minister proposes that the appointment of the non-executive Director be terminated;
 
-the Governor‑General must terminate the appointment of the non‑executive Director.
+the Governor-General must terminate the appointment of the non-executive Director.
 
 ### Division 2—Provisions relating to the Managing Director
 
@@ -594,13 +594,13 @@ the Governor‑General must terminate the appointment of the non‑executive Dir
 
 ##### <a id="29"></a>29  Term of appointment of Managing Director
 
-             (1)  Subject to subsection (2), the Managing Director must be appointed for a period not longer than 5 years, but is eligible for re‑appointment.
+             (1)  Subject to subsection (2), the Managing Director must be appointed for a period not longer than 5 years, but is eligible for re-appointment.
 
-             (2)  Where the person holding office as Managing Director is re‑appointed, the re‑appointment must be for a period not longer than 5 years.
+             (2)  Where the person holding office as Managing Director is re-appointed, the re-appointment must be for a period not longer than 5 years.
 
-##### <a id="30"></a>30  Managing Director holds office on a full‑time basis
+##### <a id="30"></a>30  Managing Director holds office on a full-time basis
 
-                   The Managing Director holds office on a full‑time basis.
+                   The Managing Director holds office on a full-time basis.
 
 ##### <a id="31"></a>31  Terms and conditions of appointment not provided for by Act
 
@@ -686,9 +686,9 @@ the Board may remove the Managing Director from office.
 
                      (b)  must convene a meeting on receipt of a written request signed by:
 
-                              (i)  if there are not more than 6 non‑executive Directors holding office under section 17—not fewer than 4 Directors; or
+                              (i)  if there are not more than 6 non-executive Directors holding office under section 17—not fewer than 4 Directors; or
 
-                             (ii)  if there are more than 6 non‑executive Directors holding office under that section—not fewer than 5 Directors.
+                             (ii)  if there are more than 6 non-executive Directors holding office under that section—not fewer than 5 Directors.
 
              (3)  Meetings of the Board are to be held at such places as the Chairperson determines.
 
@@ -700,7 +700,7 @@ the Board may remove the Managing Director from office.
 
              (3)  If the Chairperson and the Deputy Chairperson are absent from a meeting of the Board:
 
-                     (a)  if a non‑executive Director is acting as Chairperson—that non‑executive Director is to preside at the meeting; or
+                     (a)  if a non-executive Director is acting as Chairperson—that non-executive Director is to preside at the meeting; or
 
                      (b)  in any other case—the Directors present must elect one of their number other than the Managing Director to preside at the meeting.
 
@@ -710,15 +710,15 @@ the Board may remove the Managing Director from office.
 
                      (a)  a quorum is constituted by:
 
-                              (i)  if there are not more than 6 non‑executive Directors holding office under section 17—4 Directors; or
+                              (i)  if there are not more than 6 non-executive Directors holding office under section 17—4 Directors; or
 
-                             (ii)  if there are more than 6 non‑executive Directors holding office under that section—5 Directors; and
+                             (ii)  if there are more than 6 non-executive Directors holding office under that section—5 Directors; and
 
                      (b)  all questions are to be decided by a majority of the votes of the Directors present; and
 
                      (c)  the Director presiding has a deliberative vote and, if necessary, also has a casting vote.
 
-             (2)  If, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a non‑executive Director is not present at a meeting of the Board during a deliberation of the Board in relation to a matter, but there would be a quorum if the non‑executive Director were present, the remaining Directors present constitute a quorum for the purpose of any deliberation or decision of the Board at the meeting in relation to the matter.
+             (2)  If, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a non-executive Director is not present at a meeting of the Board during a deliberation of the Board in relation to a matter, but there would be a quorum if the non-executive Director were present, the remaining Directors present constitute a quorum for the purpose of any deliberation or decision of the Board at the meeting in relation to the matter.
 
              (3)  The Managing Director must not be present during any deliberation, or take part in any decision, of the Board with respect to the appointment, or any of the terms and conditions of employment, of the Managing Director.
 
@@ -730,7 +730,7 @@ the Board may remove the Managing Director from office.
 
                      (a)  telephone; or
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
@@ -762,7 +762,7 @@ the Board may remove the Managing Director from office.
 
                       (f)  to prepare, promote and distribute printed material;
 
-                     (g)  to make, promote and distribute films, sound recordings, video‑tapes, computer programs and other similar material;
+                     (g)  to make, promote and distribute films, sound recordings, video-tapes, computer programs and other similar material;
 
                      (h)  to make, promote and distribute any other thing associated with, or with the activities of, the SBS;
 
@@ -960,7 +960,7 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
 ##### <a id="55"></a>55  The SBS is to achieve and maintain high standards as an employer
 
-                   The SBS must endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non‑discriminatory employment practices and other related matters.
+                   The SBS must endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non-discriminatory employment practices and other related matters.
 
 ## Part 6—Finance
 
@@ -994,7 +994,7 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
                      (a)  in payment or discharge of expenses, obligations and liabilities of the SBS arising under this Act; and
 
-                     (b)  in payment of remuneration, allowances and fees payable to non‑executive Directors, the Managing Director and persons referred to in section 53 or 54; and
+                     (b)  in payment of remuneration, allowances and fees payable to non-executive Directors, the Managing Director and persons referred to in section 53 or 54; and
 
                      (c)  in payment of any remuneration, allowances and fees payable to the members of the Community Advisory Committee or other consultative body established by the Board.
 
@@ -1270,7 +1270,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
 ##### <a id="76"></a>76  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed by regulations; or
 
@@ -1312,13 +1312,13 @@ the SBS must not broadcast an election advertisement in relation to the election
 
              (1)  A person who, immediately before the restructuring day, held office as a member of the old body corporate is, on that day, taken to have been duly appointed:
 
-                     (a)  under section 17 as a non‑executive Director of the Board for the balance of the term of the person’s appointment; and
+                     (a)  under section 17 as a non-executive Director of the Board for the balance of the term of the person’s appointment; and
 
                      (b)  on the terms and conditions in respect of matters other than remuneration and allowances that, immediately before the restructuring day, were applicable to the person’s appointment as a member of the old body corporate.
 
-             (2)  Any determination of remuneration payable to a member of the old body corporate, being a determination made in accordance with section 125F of the _Broadcasting Act 1942_ that is in force immediately before the restructuring day, continues in force, according to its terms, on and after that day, as if it were a determination made in accordance with section 23 of this Act and applied in respect of each non‑executive Director.
+             (2)  Any determination of remuneration payable to a member of the old body corporate, being a determination made in accordance with section 125F of the _Broadcasting Act 1942_ that is in force immediately before the restructuring day, continues in force, according to its terms, on and after that day, as if it were a determination made in accordance with section 23 of this Act and applied in respect of each non-executive Director.
 
-             (3)  Regulations prescribing the allowances to be paid to members of the old body corporate, being regulations made in accordance with section 125F of the _Broadcasting Act 1942_ that were in force immediately before the restructuring day, continue in force, on and after that day, as if they had been made in accordance with section 23 of this Act and applied in respect of each non‑executive Director.
+             (3)  Regulations prescribing the allowances to be paid to members of the old body corporate, being regulations made in accordance with section 125F of the _Broadcasting Act 1942_ that were in force immediately before the restructuring day, continue in force, on and after that day, as if they had been made in accordance with section 23 of this Act and applied in respect of each non-executive Director.
 
 ##### <a id="80"></a>80  Persons employed or engaged by the old body corporate
 
@@ -1453,7 +1453,7 @@ The _Special Broadcasting Service Act 1991_ as shown in this compilation compris
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1499,7 +1499,7 @@ of Assent</div>
   </td>
   <td>
     <div>S. 54: 24 Mar 1994 ( <i>see Gazette</i>1994, No. GN10) 
-Remainder: 23 Dec 1991</div>
+Remainder: 23 Dec 1991</div>
   </td>
   <td>
     <div></div>
@@ -1741,7 +1741,7 @@ Remainder: 23 Dec 1991</div>
 Schedule 2: <i>(h)</i></div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1773,27 +1773,10 @@ Schedule 2: <i>(h)</i></div>
     <div>26 May 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 8): 1 July 2008</div>
+    <div>Schedule 2 (item 8): 1 July 2008</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1060–1066) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1801,11 +1784,11 @@ _(a)_     The _Special Broadcasting Service Act 1991_ was amended by Par
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Special Broadcasting Service Act 1991_ was amended by section 3 (item 122) only of the _Communications and the Arts Legislation Amendment (No. 1) Act 1995_, subsection 2(1) of which provides as follows:
+_(b)_    The _Special Broadcasting Service Act 1991_ was amended by section 3 (item 122) only of the _Communications and the Arts Legislation Amendment (No. 1) Act 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (items 49 and 50) only of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2)(d) of which provides as follows:
+_(c)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (items 49 and 50) only of the _Telecommunicatiuons (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2)(d) of which provides as follows:
 
                  (2)   The following provisions commence on 1 July 1997:
 
@@ -1815,7 +1798,7 @@ _(d)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(e)_     The _Special  Broadcasting Service Act 1991_ was amended by Schedule 1 (items 826 and 827) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Special  Broadcasting Service Act 1991_ was amended by Schedule 1 (items 826 and 827) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provid as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -2429,50 +2412,6 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1060  At the end of subsection 24(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1061  At the end of subsections 24(2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1062  Subsection 24(6)
-
-Repeal the subsection.
-
-## 1063  Paragraph 33(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 1064  Subsection 33(1)
-
-Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
-
-## 1065  At the end of subsection 33(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1066  Subsection 33(4)
-
-Repeal the subsection.
-
-As at 21 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2483,7 +2422,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2491,7 +2430,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -2532,17 +2471,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2573,21 +2512,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
