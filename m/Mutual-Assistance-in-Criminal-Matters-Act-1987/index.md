@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00588/Html/39cbb436-5fac-4d40-8ef9-0c6637f4d28e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00132/Html/702ebb84-a8fe-41f5-8460-37f1d8c54252_files/image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 1 August 2011
- taking into account amendments up to Act No. 83 of 2011
+This compilation was prepared on 7 March 2011
+ taking into account amendments up to Act No. 3 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -109,8 +109,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 2—Requests by foreign countries** 
 
         **Subdivision A—Enforcement of foreign orders**
-
-[33A](#33A).       Object of Subdivision
 
 [34](#34).          Requests for enforcement of foreign orders
 
@@ -310,7 +308,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Mutual Assistance in Criminal Matters Act 1987_.
 
@@ -1348,12 +1346,6 @@ if the order was made in respect of a serious offence.
 
 #### Subdivision A—Enforcement of foreign orders
 
-##### <a id="33A"></a>33A  Object of Subdivision
-
-             (1)  The object of this Subdivision is to facilitate international cooperation in the recovery of property through the registration and enforcement of foreign orders in Australia.
-
-             (2)  For the purpose of achieving this object, it is the intention of the Parliament that the validity of foreign orders not be examined.
-
 ##### <a id="34"></a>34  Requests for enforcement of foreign orders
 
              (1)  If:
@@ -1400,7 +1392,7 @@ the Attorney‑General may authorise the DPP, in writing, to apply for the regis
 
 ##### <a id="34A"></a>34A  Registration of foreign orders
 
-             (1)  If the DPP applies to a court for registration of a foreign order in accordance with an authorisation under this Subdivision, the court must register the order accordingly, unless the court is satisfied that it would be contrary to the interests of justice to do so.
+             (1)  If the DPP applies to a court for registration of a foreign order in accordance with an authorisation under this Subdivision, the court must register the order accordingly.
 
              (2)  The DPP must give notice of the application:
 
@@ -1408,7 +1400,7 @@ the Attorney‑General may authorise the DPP, in writing, to apply for the regis
 
                      (b)  to such other persons as the court directs.
 
-             (3)  However, the court may consider the application without notice having been given if the DPP requests the court to do so.
+             (3)  However, the court must consider the application without notice having been given if the DPP requests the court to do so.
 
              (4)  If a foreign pecuniary penalty order or a foreign restraining order is registered in a court under this Subdivision:
 
@@ -1578,7 +1570,7 @@ the Attorney‑General may authorise the DPP to apply to a specified court for a
 
              (2)  The court specified must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
-##### <a id="34K"></a>34K  Applying for and making restraining orders
+##### <a id="34K"></a>34K  Applying for and making restraining orders
 
              (1)  If so authorised, the DPP may apply for such a restraining order against that property in respect of the offence.
 
@@ -3292,23 +3284,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Mutual Assistance in Criminal Matters Amendment (Registration of Foreign Proceeds of Crime Orders) Act 2011</div>
-  </td>
-  <td>
-    <div>83, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 5–9): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 8, 9) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Legislation Amendment Act (No. 2) 1988_ was amended by Part VII (sections
@@ -3724,14 +3699,6 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 83, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34</div>
   </td>
   <td>
@@ -3748,23 +3715,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div>S. 34A</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 83, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34B–34H</div>
+    <div>Ss. 34A–34H</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
@@ -4221,7 +4172,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges created by this section after the commencement of subsection (4) (which is at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-## 4  Subsection 35L(4) (definition of _registration authority_)
+## 4  Subsection 35L(4) (definition of _registration authority_)
 
 Repeal the definition, substitute:
 
@@ -4233,7 +4184,7 @@ Repeal the definition, substitute:
 
 Note:       The _Personal Property Securities Act 2009_ provides for the registration of such data if regulations are made for the purposes of paragraph 148(c) of that Act.
 
-As at 1 August 2011 the amendments are not incorporated in this compilation.
+As at 7 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4262,20 +4213,6 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Mutual Assistance in Criminal Matters Amendment (Registration of Foreign Proceeds of Crime Orders) Act 2011 (No. 83, 2011)_
-
-## Schedule 1
-
-## 8  Application of amendments made by this Schedule
-
-The amendments made by this Schedule apply in relation to an application for registration of a foreign order considered by a court on or after the day on which this item commences, whether the request for registration was made before, on or after that day.
-
-## 9  Registration of foreign orders before commencement unaffected
-
-The amendments made by this Schedule do not affect the validity of the registration of a foreign order by a court before the day on which this item commences.
 
 ## Table B
 
