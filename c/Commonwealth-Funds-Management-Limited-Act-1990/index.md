@@ -1,105 +1,105 @@
-![](http://www.comlaw.gov.au/Details/C2004C02918/Html/CwealthFundsMgm90_image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C02917/Html/CommFunManLtd90_image001.gif)
+
+#  
 
 # Commonwealth Funds Management Limited Act 1990
 
-**Act No. 13 of 1991 as amended**
+Act No. 13 of 1990 as amended
 
-This compilation was prepared on 26 July 2001
- taking into account amendments up to Act No. 55 of 2001
+Consolidated as in force on 8 December 1997
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+(includes amendments up to Act No. 39 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).               Short title [_see_ Note 1]                                                                           
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).               Commencement [_see_ Note 1]                                                                 
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).               Interpretation                                                                                         
 
-[5](#5).            Operation of Act                                                                                 3
+[5](#5).               Operation of Act                                                                                    
 
-[6](#6).            Modification of Act—references to _Companies Act 1981_                  3
+[6](#6).               Modification of Act—references to _Companies Act 1981_                     
 
-**Part 2—Creation of capital structure and other steps prior to conversion of Company into public company**
+**Part 2—Creation of Capital Structure and Other Steps Prior to Conversion of Company into Public Company**
 
-[7](#7).            Share capital of Company                                                                   4
+[7](#7).               Share capital of Company                                                                      
 
-[8](#8).            Issue of shares in Company                                                                4
+[8](#8).               Issue of shares in Company                                                                   
 
-[9](#9).            New name of Company                                                                       5
+[9](#9).               New name of Company                                                                         
 
-[10](#10).          Company to apply to be registered as company etc                           5
+[10](#10).             Company to apply to be registered as company etc                             
 
-**Part 3—Conversion of Company into a public company**
+**Part 3—Conversion of Company into a Public Company**
 
-[11](#11).          Effect of Part—summary                                                                    7
+[11](#11).             Effect of Part—summary                                                                       
 
-[12](#12).          Company taken to be registered under Companies Act                      7
+[12](#12).             Company taken to be registered under Companies Act                        
 
-[13](#13).          Memorandum and Articles of Company                                             8
+[13](#13).             Memorandum and Articles of Company                                               
 
-[14](#14).          Membership of Company                                                                   8
+[14](#14).             Membership of Company                                                                     
 
-[16](#16).          Accounting records                                                                              8
+[16](#16).             Accounting records                                                                                
 
-[17](#17).          Accounts                                                                                              9
+[17](#17).             Accounts                                                                                                
 
-[18](#18).          Operation of section 25B of the Acts Interpretation Act                   9
+[18](#18).             Operation of section 25B of the Acts Interpretation Act                     
 
-**Part 6—Staff matters**
+**Part 6—Staff Matters**
 
-[29](#29).          Employment of staff members continues after transition                 10
+[29](#29).             Employment of staff members continues after transition                   
 
-[30](#30).          Act not to affect certain matters relating to staff members               10
+[30](#30).             Act not to affect certain matters relating to staff members                 
 
-[31](#31).          Effect of sections 29 and 30                                                              11
+[31](#31).             Effect of sections 29 and 30                                                                 
 
-[32](#32).          Variation of terms and conditions of employment                            11
+[32](#32).             Variation of terms and conditions of employment                              
 
-**Part 8—Miscellaneous**
+**Part 8—Miscellaneous**
 
-[40](#40).          Judicial notice of Company’s seal                                                     12
+[40](#40).             Judicial notice of Company’s seal                                                       
 
-[48](#48).          Regulations                                                                                        12
+[45](#45).             Annual return                                                                                       
 
-**Part 9—Amendments of the Superannuation Act 1976**
+[48](#48).             Regulations                                                                                           
 
-[Sections 49 to 64](#Sections 49 to 64).                                                                                             13
+**Part 9—Amendments of the Superannuation Act 1976** 
 
-**Part 10—Amendments of the Superannuation Act 1990**
-
-[Sections 65 to 69](#Sections 65 to 69).                                                                                             14
-
-**Notes** 
+**Part 10—Amendments of the Superannuation Act 1990** 
 
 ## An Act relating to the constitution of the Superannuation Fund Investment Trust as a public company providing investment services on a commercial basis to the public and private sector, and for related purposes
 
-## Part 1—Preliminary
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
+## Part 1—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Commonwealth Funds Management Limited Act 1990_.
+This Act may be cited as the _Commonwealth Funds Management Limited Act 1990_.
 
 ##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
 
-             (1)  Part 1 and section 48 commence on the day on which this Act receives the Royal Assent.
+             (1)  Part 1 and section 48 commence on the day on which this Act receives the Royal Assent.
 
-             (2)  Subject to subsection (3), Parts 2, 4 and 5 commence on a day to be fixed by Proclamation.
+             (2)  Subject to subsection (3), Parts 2, 4 and 5 commence on a day to be fixed by Proclamation.
 
-             (3)  If the provisions referred to in subsection (2) do not commence under that subsection before 1 March 1991, they commence on that day.
+             (3)  If the provisions referred to in subsection (2) do not commence under that subsection before 1 March 1991, they commence on that day.
 
-             (4)  Subject to subsection (5), Parts 3, 6, 7, 8 (other than section 48), 9 (other than subsection 50(2) and section 55) and 10 commence on a day to be fixed by Proclamation.
+             (4)  Subject to subsection (5), Parts 3, 6, 7, 8 (other than section 48), 9 (other than subsection 50(2) and section 55) and 10 commence on a day to be fixed by Proclamation.
 
-             (5)  If the provisions referred to in subsection (4) do not commence under that subsection before 1 July 1991, they commence on that day.
+             (5)  If the provisions referred to in subsection (4) do not commence under that subsection before 1 July 1991, they commence on that day.
 
-             (6)  Subsection 50(2) and section 55 commence immediately after the commencement of Part 3.
+             (6)  Subsection 50(2) and section 55 commence immediately after the commencement of Part 3.
 
 ##### <a id="3"></a>3  Interpretation
 
@@ -117,7 +117,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="authorising-offic"></a>**_authorising office_** means an office, in the Department, which is declared in writing by the Minister to be an authorising office for the purposes of this definition.
 
-                    <a name="compani"></a>**_Company_** means the body corporate established, and known as the Superannuation Fund Investment Trust, under Part III of the _Superannuation Act 1976_ as in force immediately before the commencement of this section.
+                    <a name="compani"></a>**_Company_** means the body corporate established, and known as the Superannuation Fund Investment Trust, under Part III of the _Superannuation Act 1976_ as in force immediately before the commencement of this section.
 
                     <a name="employ"></a>**_employment_**, in relation to a staff member, means employment by, or service with, the Company.
 
@@ -133,9 +133,9 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  an officer or employee of the Company.
 
-                    <a name="subsidiari"></a>**_subsidiary_** has the meaning given by subsection (2).
+                    <a name="subsidiari"></a>**_subsidiary_** has the meaning given by subsection (2).
 
-                    <a name="transition"></a>**_transition_** means the commencement of Part 3.
+                    <a name="transition"></a>**_transition_** means the commencement of Part 3.
 
                     <a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_**, in relation to the Company, means a body corporate:
 
@@ -147,31 +147,33 @@ Prepared by the Office of Legislative Drafting,
 
                              (ii)  a body corporate that is, under any other application or applications of this definition, a wholly-owned subsidiary of the Company; or
 
-                            (iii)  a nominee of the Company or of a body of a kind referred to in subparagraph (ii); and
+                            (iii)  a nominee of the Company or of a body of a kind referred to in subparagraph (ii); and
 
                      (c)  no share in which is beneficially owned by a person other than:
 
                               (i)  the Company; or
 
-                             (ii)  a body of a kind referred to in subparagraph (b)(ii).
+                             (ii)  a body of a kind referred to in subparagraph (b)(ii).
 
-             (2)  For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate shall be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined under the _Corporations Act 2001_.
+             (2)  For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate shall be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined under the _Companies Act 1981_.
 
 ##### <a id="5"></a>5  Operation of Act
 
              (1)  This Act applies both within and outside Australia.
 
-             (2)  Without limiting the generality of subsection (1), this Act extends to all external Territories.
+             (2)  Without limiting the generality of subsection (1), this Act extends to all external Territories.
 
 ##### <a id="6"></a>6  Modification of Act—references to _Companies Act 1981_
 
-                   If the _Companies Act 1981_ ceases to operate because of the coming into force of another law that contains provisions corresponding to the provisions of that Act, the regulations may:
+If the _Companies Act 1981_ ceases to operate because of the coming into force of another law that contains provisions corresponding to the provisions of that Act, the regulations may:
 
-                     (a)  subject to paragraph (b), modify a provision of this Act that includes a reference to the _Companies Act 1981_ by omitting that reference and substituting a reference to the other law or a provision of the other law; and
+                     (a)  subject to paragraph (b), modify a provision of this Act that includes a reference to the _Companies Act 1981_ by omitting that reference and substituting a reference to the other law or a provision of the other law; and
 
                      (b)  modify a provision of this Act that includes a reference to a provision of the _Companies Act 1981_ by omitting that reference and substituting a reference to a corresponding provision of the other law.
 
-## Part 2—Creation of capital structure and other steps prior to conversion of Company into public company
+## Part 2—Creation of Capital Structure and Other Steps Prior to Conversion of Company into Public Company
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="7"></a>7  Share capital of Company
 
@@ -179,19 +181,19 @@ Prepared by the Office of Legislative Drafting,
 
              (2)  The amount of the issued share capital is equal to the amount paid to the Company under subsection 8(2).
 
-             (3)  As from the transition, this section has effect subject to the _Corporations Act 2001_.
+             (3)  As from the transition, this section has effect subject to the _Companies Act 1981_.
 
 ##### <a id="8"></a>8  Issue of shares in Company
 
              (1)  In this section:
 
-                    <a name="minimum-share-capit"></a>**_minimum share capital_** means the minimum amount that, under the _Corporations Act 2001_, may be the share capital (made up of shares of $1 each) of a company registered as a public company limited by shares.
+                    <a name="minimum-share-capit"></a>**_minimum share capital_** means the minimum amount that, under the _Companies Act 1981_, may be the share capital (made up of shares of $1 each) of a company registered as a public company limited by shares.
 
              (2)  On the commencement of this Part, an amount equal to the minimum share capital is payable to the Company out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (3)  As soon as it is practicable for the Company to do so, the Company must apply that amount in paying up, in full, shares in the Company.
 
-             (4)  As soon as practicable after complying with subsection (3), the Company must issue the shares paid up under that subsection:
+             (4)  As soon as practicable after complying with subsection (3), the Company must issue the shares paid up under that subsection:
 
                      (a)  to the Commonwealth; or
 
@@ -205,7 +207,7 @@ as the Minister directs in writing.
 
              (1)  On the day immediately before the transition, the Company’s name is, by force of this subsection, changed to “Commonwealth Funds Management Limited”.
 
-             (2)  Subsection 65(5) of the _Companies Act 1981_ applies in relation to the change of name made by subsection (1) as if:
+             (2)  Subsection 65(5) of the _Companies Act 1981_ applies in relation to the change of name made by subsection (1) as if:
 
                      (a)  the Company were a company, within the meaning of that Act, when the change was made; and
 
@@ -213,9 +215,9 @@ as the Minister directs in writing.
 
              (3)  This section has effect in spite of anything in the _Companies Act 1981_, but nothing in this section prevents:
 
-                     (a)  the Company from later changing its name under section 65 of that Act; or
+                     (a)  the Company from later changing its name under section 65 of that Act; or
 
-                     (b)  the cancellation, under Division 2 of Part III of that Act, of the registration of a name.
+                     (b)  the cancellation, under Division 2 of Part III of that Act, of the registration of a name.
 
 ##### <a id="10"></a>10  Company to apply to be registered as company etc.
 
@@ -227,27 +229,29 @@ as the Minister directs in writing.
 
                      (c)  lodge with the National Companies and Securities Commission a proposed memorandum, and proposed articles, for the Company.
 
-             (2)  Subject to the regulations, the application mentioned in paragraph (1)(a) must be accompanied by the documents required by subsection 85(4) of the _Companies Act 1981_ to accompany such an application.
+             (2)  Subject to the regulations, the application mentioned in paragraph (1)(a) must be accompanied by the documents required by subsection 85(4) of the _Companies Act 1981_ to accompany such an application.
 
-             (3)  The applications mentioned in paragraphs (1)(a) and (b) must be made to the National Companies and Securities Commission by delivering them to the office of the Corporate Affairs Commission for the Australian Capital Territory, and the documents mentioned in paragraph (1)(c) and subsection (2) must be lodged with the National Companies and Securities Commission by lodging them at that office.
+             (3)  The applications mentioned in paragraphs (1)(a) and (b) must be made to the National Companies and Securities Commission by delivering them to the office of the Corporate Affairs Commission for the Australian Capital Territory, and the documents mentioned in paragraph (1)(c) and subsection (2) must be lodged with the National Companies and Securities Commission by lodging them at that office.
 
              (4)  The Company is taken to be entitled:
 
-                     (a)  to make the applications referred to in paragraphs (1)(a) and (b); and
+                     (a)  to make the applications referred to in paragraphs (1)(a) and (b); and
 
-                     (b)  to lodge the documents mentioned in paragraph (1)(c) and subsection (2).
+                     (b)  to lodge the documents mentioned in paragraph (1)(c) and subsection (2).
 
              (5)  The National Companies and Securities Commission is taken:
 
                      (a)  to have been required to reserve the name “Commonwealth Funds Management Limited” under subsection 55(2) of the _Companies Act 1981_; and
 
-                     (b)  to have so reserved that name immediately after the making of the application mentioned in paragraph (1)(b).
+                     (b)  to have so reserved that name immediately after the making of the application mentioned in paragraph (1)(b).
 
-## Part 3—Conversion of Company into a public company
+## Part 3—Conversion of Company into a Public Company
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="11"></a>11  Effect of Part—summary
 
-                   After the commencement of this Part:
+After the commencement of this Part:
 
                      (a)  the Company is a company registered under the _Companies Act 1981_; and
 
@@ -273,9 +277,9 @@ as the Minister directs in writing.
 
                      (d)  to have registered the name “Commonwealth Funds Management Limited” in relation to the Company at the commencement of this Part, under subsection 55(4) of the _Companies Act 1981_.
 
-             (2)  The date of commencement of the Company’s registration as a company under Division 4 of Part III of the _Companies Act 1981_ is taken to be the day of commencement of this Part.
+             (2)  The date of commencement of the Company’s registration as a company under Division 4 of Part III of the _Companies Act 1981_ is taken to be the day of commencement of this Part.
 
-             (3)  For the purposes of Division 4 of Part III of the _Companies Act 1981_, the Company is taken to have been on the day before the commencement of this Part, and to be at that commencement, a corporation within the meaning of that Act.
+             (3)  For the purposes of Division 4 of Part III of the _Companies Act 1981_, the Company is taken to have been on the day before the commencement of this Part, and to be at that commencement, a corporation within the meaning of that Act.
 
 ##### <a id="13"></a>13  Memorandum and Articles of Company
 
@@ -293,11 +297,11 @@ as the Minister directs in writing.
 
              (2)  Each person who holds shares in the Company at the commencement of this Part becomes, by force of this subsection, a member of the Company at that commencement.
 
-             (3)  A person referred to in subsection (2) is, as a member of the Company, entitled to the same rights, privileges and benefits, and subject to the same duties, liabilities and obligations, as if the person had become a member of the Company under its memorandum and articles.
+             (3)  A person referred to in subsection (2) is, as a member of the Company, entitled to the same rights, privileges and benefits, and subject to the same duties, liabilities and obligations, as if the person had become a member of the Company under its memorandum and articles.
 
 ##### <a id="16"></a>16  Accounting records
 
-                   For the purposes of the _Companies Act 1981_, accounts and records kept, before the commencement of this section, under section 44 of the _Superannuation Act 1976_ are taken to be accounting records kept by the Company under a provision of a previous law of the Australian Capital Territory, being a provision corresponding to section 267 of the _Companies Act 1981_.
+For the purposes of the _Companies Act 1981_, accounts and records kept, before the commencement of this section, under section 44 of the _Superannuation Act 1976_ are taken to be accounting records kept by the Company under a provision of a previous law of the Australian Capital Territory, being a provision corresponding to section 267 of the _Companies Act 1981_.
 
 ##### <a id="17"></a>17  Accounts
 
@@ -309,7 +313,7 @@ as the Minister directs in writing.
 
              (2)  A report and financial statements that before the commencement of this section:
 
-                     (a)  were prepared under section 161 of the _Superannuation Act 1976_ in relation to a period; and
+                     (a)  were prepared under section 161 of the _Superannuation Act 1976_ in relation to a period; and
 
                      (b)  were furnished to the Minister under subsection 162(1) of that Act on a particular day;
 
@@ -321,7 +325,7 @@ are taken to be a profit and loss account of the Company that was:
 
              (3)  A report and financial statements:
 
-                     (a)  prepared under section 44 in relation to the concluding period (within the meaning of that section); and
+                     (a)  prepared under section 44 in relation to the concluding period (within the meaning of that section); and
 
                      (b)  given to the Minister under that section on a particular day;
 
@@ -331,15 +335,17 @@ are taken to be a profit and loss account of the Company that was:
 
                      (d)  laid before the Company at an annual general meeting of the Company held on that day.
 
-##### <a id="18"></a>18  Operation of section 25B of the Acts Interpretation Act
+##### <a id="18"></a>18  Operation of section 25B of the Acts Interpretation Act
 
-                   Nothing in this Act or in the _Corporations Act 2001_ affects, or is affected by, section 25B of the _Acts Interpretation Act 1901_ as that section applies in relation to the Company.
+Nothing in this Act or in the _Companies Act 1981_ affects, or is affected by, section 25B of the _Acts Interpretation Act 1901_ as that section applies in relation to the Company.
 
-## Part 6—Staff matters
+## Part 6—Staff Matters
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="29"></a>29  Employment of staff members continues after transition
 
-                   Subject to this Part, each staff member continues, at and after the transition, to be employed by the Company on the terms and conditions on which he or she was employed by the Company immediately before the transition.
+Subject to this Part, each staff member continues, at and after the transition, to be employed by the Company on the terms and conditions on which he or she was employed by the Company immediately before the transition.
 
 ##### <a id="30"></a>30  Act not to affect certain matters relating to staff members
 
@@ -347,7 +353,7 @@ are taken to be a profit and loss account of the Company that was:
 
              (2)  Neither his or her contract of employment, nor his or her period of employment, is taken to have been broken by the operation of this Act.
 
-             (3)  Without limiting section 29 or subsection (2) of this section, this Act does not affect any accrued rights that the staff member had immediately before the transition in relation to any kind of leave.
+             (3)  Without limiting section 29 or subsection (2) of this section, this Act does not affect any accrued rights that the staff member had immediately before the transition in relation to any kind of leave.
 
              (4)  Where:
 
@@ -363,9 +369,9 @@ are taken to be a profit and loss account of the Company that was:
 
 the Company must treat the whole of the first-mentioned period as a period during which the staff member was employed by it.
 
-##### <a id="31"></a>31  Effect of sections 29 and 30
+##### <a id="31"></a>31  Effect of sections 29 and 30
 
-                   Sections 29 and 30 are enacted only for the avoidance of doubt and, in particular, do not limit subsection 65(5) or 87(2) of the Companies Act 1981.
+Sections 29 and 30 are enacted only for the avoidance of doubt and, in particular, do not limit subsection 65(5) or 87(2) of the Companies Act 1981.
 
 ##### <a id="32"></a>32  Variation of terms and conditions of employment
 
@@ -385,13 +391,21 @@ the Company must treat the whole of the first-mentioned period as a period durin
 
                      (c)  substituting new terms or conditions for any of those terms and conditions.
 
-## Part 8—Miscellaneous
+## Part 8—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="40"></a>40  Judicial notice of Company’s seal
 
              (1)  All courts, judges and persons acting judicially must take judicial notice of the imprint of the seal of the Company appearing on a document and are to presume that it was duly affixed.
 
-             (2)  Subsection (1) applies only in relation to an imprint that was affixed, or appears to have been affixed, before the transition.
+             (2)  Subsection (1) applies only in relation to an imprint that was affixed, or appears to have been affixed, before the transition.
+
+##### <a id="45"></a>45  Annual return
+
+             (1)  Where the Company lodges an annual return under section 263 of the _Companies Act 1981_ or a corresponding provision of another law, the Company must, as soon as practicable after doing so, give to the Minister a copy of the return together with a copy of each document (if any) lodged with the return.
+
+             (2)  The Minister must cause a copy of the return and of each document (if any) to be laid before each House of the Parliament within 15 sitting days of that House after their receipt.
 
 ##### <a id="48"></a>48  Regulations
 
@@ -401,72 +415,70 @@ the Company must treat the whole of the first-mentioned period as a period durin
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-## Part 9—Amendments of the Superannuation Act 1976
+## Part 9—Amendments of the Superannuation Act 1976<span style="font-size:12.0pt"> </span><span style="font-size:12.0pt;font-weight:normal">(sections 49-64)</span><span style="font-size:12.0pt;font-weight:normal"> </span>
 
-##### Sections 49 to 64
+\[published separately]
 
-* * *
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-**Note:**
+## Part 10—Amendments of the Superannuation Act 1990<span style="font-size:12.0pt;font-weight:normal"> </span>(sections 65-69) 
 
-The amendments made by this Part are incorporated in the compilation on SCALEplus of the Superannuation Act 1976.
+\[published separately]
 
-For access to the wording of the amendments made by this Part, click here [_Commonwealth Funds Management Limited Act 1990_ No. 13 of 1991].
-
-* * *
-
-## Part 10—Amendments of the Superannuation Act 1990
-
-##### Sections 65 to 69
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 * * *
 
-**Note:**
+# NOTE
 
-The amendments made by this Part are incorporated in the compilation on SCALEplus of the Superannuation Act 1990.
-
-For access to the wording of the amendments made by this Part, click here [_Commonwealth Funds Management Limited Act 1990_ No. 13 of 1991].
-
-* * *
-
-# Notes to the _Commonwealth Funds Management Limited Act 1990_
-
-### Note 1
-
-The _Commonwealth Funds Management Limited Act 1990_ as shown in this compilation comprises Act No. 13, 1991 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+1.   The _Commonwealth Funds Management Limited Act 1990_ as shown in this reprint comprises Act No. 13, 1991 amended as indicated in the Tables below.
 
 ### Table of Acts
 
+* * *
+
 <table>
 <colgroup>
-  <col width="31%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
   <col width="22%">
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div><i> Commonwealth Funds Management Limited Act 1990 </i></div>
@@ -478,10 +490,10 @@ of Assent</div>
     <div>21 Jan 1991</div>
   </td>
   <td>
-    <div>Part 1 (ss. 1-6) and s. 48: Royal Assent 
-Part 2 (ss. 7-10), Parts 4 and 5 (ss. 19-28): 1 Mar 1991 
+    <div>Part 1 (ss. 1-6) and s. 48: Royal Assent 
+Part 2 (ss. 7-10), Parts 4 and 5 (ss. 19-28): 1 Mar 1991 
 Ss. 50(2) and 55: ( <i>see </i>s. 2(6)) 
-Remainder: 1 July 1991</div>
+Remainder: 1 July 1991</div>
   </td>
   <td>
     <div> </div>
@@ -498,9 +510,9 @@ Remainder: 1 July 1991</div>
     <div>20 Nov 1996</div>
   </td>
   <td>
-    <div>Sections 13-19, 62 and Schedule 1 (item 10): Royal Assent <i>(a)</i> 
-Schedule 1 (items 1, 2, 5-9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) <i>(a)</i> 
-Schedule 1 (items 3, 4): <i>(a)</i> </div>
+    <div>Sections 13-19, 62 and Schedule 1 (item 10): Royal Assent <i>(a)</i> 
+Schedule 1 (items 1, 2, 5-9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) <i>(a)</i> 
+Schedule 1 (items 3, 4): <i>(a)</i> </div>
   </td>
   <td>
     <div>Ss. 13-19 and 62</div>
@@ -517,68 +529,37 @@ Schedule 1 (items 3, 4): <i>(a)</i> </div>
     <div>17 Apr 1997</div>
   </td>
   <td>
-    <div>1 July 1997</div>
+    <div>1 July 1997</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i> Audit (Transitional and Miscellaneous) Amendment Act 1997 </i></div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 10): <i>(b)</i> </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4-14 and Schedule 3 (items 127-130): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4-14</div>
   </td>
 </tr></table>
 
-_(a)_     The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 1 (items 1-11) only of the _CFM Sale Act 1996_, subsections 2(1)-(3) of which provide as follows:
+_(a)_     The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 1 (items 1-11) only of the _CFM Sale Act 1996_, subsections 2(1)-(3) of which provide as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990_.
+                 “(2)   Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990._
 
-         Part 2 commenced on 1 March 1991.
+                         Part 2 commenced on 1 March 1991.
 
-                 (3)   Subject to subsection (4), items 1, 2, 5, 6, 7, 8, 9 and 11 of Schedule 1 commence on a day or days to be fixed by Proclamation.
+                 “(3)   Subject to subsection (4), items 1, 2, 5, 6, 7, 8, 9 and 11 of Schedule 1 commence on a day or days to be fixed by Proclamation.”
 
-_(b)_    The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (item 10) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(3)(e) of which provide as follows:
+## Table of Amendments 
 
-                              (e)   the amendment of the _Commonwealth Funds Management Limited Act 1990_ commences, or is taken to have commenced, on the sale day as defined in subsection 3(1) of the _CFM Sale Act 1996_;
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
 
-         The sale day occurred on 23 December 1996 (_see Gazette_ 1997, No. S8).
-
-_(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (items 127-130) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-## Table of Amendments
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -586,11 +567,6 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -604,7 +580,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 58, 1996; No. 55, 2001</div>
+    <div>am. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -612,7 +588,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 4</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -620,15 +596,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 58, 1996; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
+    <div>am. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -636,23 +604,15 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 15</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 18</div>
+    <div>Part 4 (ss. 19-24)</div>
   </td>
   <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4 (ss. 19-24)</div>
-  </td>
-  <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -660,15 +620,15 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>Ss. 19-24</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part 5 (ss. 25-28)</div>
+    <div>Part 5 (ss. 25-28)</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -676,7 +636,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>Ss. 25-27</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -684,7 +644,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 28</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -692,15 +652,15 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>Ss. 33, 34</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part 7 (ss. 35-38)</div>
+    <div>Part 7 (ss. 35-38)</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -708,7 +668,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>Ss. 35-38</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -716,7 +676,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 39</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -724,15 +684,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>Ss. 41-44</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -740,7 +692,7 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>Ss. 46, 47</div>
   </td>
   <td>
-    <div>rep. No. 58, 1996</div>
+    <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
@@ -748,8 +700,10 @@ _(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 58, 1996</div>
+    <div>am. No. 58, 1996</div>
   </td>
 </tr></table>
+
+ 
 
  
