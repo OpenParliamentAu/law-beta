@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00007/Html/WitnessProtection1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00444/Html/7D24FB0D3E04D6F8CA2571AE000CF8AC/$FILE/image001.gif)
 
 # Witness Protection Act 1994
 
 **Act No. 124 of 1994 as amended**
 
-This compilation was prepared on 30 December 2006
- taking into account amendments up to Act No. 86 of 2006
+This compilation was prepared on 14 July 2006
+taking into account amendments up to Act No. 86 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -38,7 +39,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Memorandum of understanding                                                           9
 
-[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies               11
+[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies               10
 
 [10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court       12
 
@@ -48,7 +49,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Action where a witness is included in the NWPP                             14
 
-[14](#14).          Special provision in case of marriage of participant                          16
+[14](#14).          Special provision in case of marriage of participant                          15
 
 [15](#15).          Dealing with rights and obligations of participant                             16
 
@@ -58,13 +59,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Cessation of protection and assistance                                              18
 
-[19](#19).          Restoration of former identity                                                           21
+[19](#19).          Restoration of former identity                                                           20
 
 [20](#20).          Provision of information to approved authorities                             22
 
 [21](#21).          Officers protected from suit in respect of decisions under Act        22
 
-[22](#22).          Offences                                                                                             23
+[22](#22).          Offences                                                                                             22
 
 [23](#23).          Payments under NWPP not able to be confiscated                           23
 
@@ -72,13 +73,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Delegation                                                                                          24
 
-[26](#26).          Commissioner and members not to be required to disclose information 25
+[26](#26).          Commissioner and members not to be required to disclose information 24
 
 [27](#27).          Requirement where participant becomes a witness in criminal proceedings           26
 
 [28](#28).          Identity of participant not to be disclosed in court proceedings etc  26
 
-[29](#29).          Transitional                                                                                        27
+[29](#29).          Transitional                                                                                        26
 
 [30](#30).          Reports and information for the Minister                                         27
 
@@ -89,6 +90,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule—Amendments of other Acts** 
 
 **Notes** 
+
 
 ## An Act to establish a program to give protection and assistance to certain witnesses and other persons 
 
@@ -111,8 +113,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="approved-author"></a>**_approved authority_** means:
 
                      (a)  a Commissioner (however designated) of the police force of a State or Territory; or
-
-                    (aa)  the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_); or
 
                      (b)  the Chief Executive Officer of the Australian Crime Commission; or
 
@@ -508,11 +508,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
              (1)  Subject to this section, only the Commissioner, and persons who hold or occupy designated positions and who are authorised by the Commissioner, are to have access to the Register and to documents kept in conjunction with the Register.
 
-             (2)  The Commissioner must allow the Commonwealth Ombudsman, or a person authorised by the Commonwealth Ombudsman who has a national security clearance at the level of “secret” or “top secret” or a position of trust clearance at the level of “highly protected”, to have access to the Register or part of the Register or to some or all of the documents kept in conjunction with the Register for the purposes of:
-
-                     (a)  an investigation by the Ombudsman under the _Ombudsman Act 1976_; or
-
-                     (b)  an investigation under Part V of the _Australian Federal Police Act 1979_.
+             (2)  The Commissioner must allow the Commonwealth Ombudsman, or a person authorised by the Commonwealth Ombudsman who has a national security clearance at the level of “secret” or “top secret” or a position of trust clearance at the level of “highly protected”, to have access to the Register or part of the Register or to some or all of the documents kept in conjunction with the Register for the purposes of an investigation under Part III or IV of the _Complaints (Australian Federal Police) Act 1981_.
 
              (3)  The Commissioner may, if he or she is of the opinion that it is in the interests of the due administration of justice to do so, allow another person to have access to the Register or part of the Register or to some or all of the documents kept in conjunction with the Register.
 
@@ -782,7 +778,7 @@ the Commissioner may:
 
                      (e)  any details of a memorandum of understanding that he or she has signed;
 
-unless the person has been authorised by the Commissioner to make the disclosure or the disclosure is made for the purpose of making a complaint, or providing information, to the Ombudsman under the _Ombudsman Act 1976._
+unless the person has been authorised by the Commissioner to make the disclosure or the disclosure is made for the purpose of making a complaint, or providing information, to the Ombudsman under the _Ombudsman Act 1976_ or the _Complaints (Australian Federal Police) Act 1981._
 
                     Penalty for an offence against this subsection:    Imprisonment for 5 years.
 
@@ -886,11 +882,12 @@ the person must notify the Commissioner that the person is to be a witness in th
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Schedule—Amendments of other Acts
 
 _Section 31_
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -902,9 +899,8 @@ _Australian Federal Police Act 1979_
 
 _Marriage Act 1961_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 124, 1994.
+For access to the wording of the amendments made by this Schedule _see_ Act No. 124, 1994.</div>
 
-* * *
 
 # Notes to the _Witness Protection Act 1994_
 
@@ -933,11 +929,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -950,209 +948,216 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Witness Protection Act 1994</div>
-  </td>
-  <td>
-    <div>124, 1994</div>
-  </td>
-  <td>
-    <div>18 Oct 1994</div>
-  </td>
-  <td>
-    <div>18 Apr 1995</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>20, 1997</div>
-  </td>
-  <td>
-    <div>7 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 29): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>9, 2000</div>
-  </td>
-  <td>
-    <div>7 Mar 2000</div>
-  </td>
-  <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 20, 34, 35)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>S. 4(1) and (2) and Schedule 50: <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1) and (2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Crime Authority Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>135, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+<tbody>
+  <tr>
+    <td>
+      <div>Witness Protection Act 1994</div>
+    </td>
+    <td>
+      <div>124, 1994</div>
+    </td>
+    <td>
+      <div>18 Oct 1994</div>
+    </td>
+    <td>
+      <div>18 Apr 1995</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes and Other Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>20, 1997</div>
+    </td>
+    <td>
+      <div>7 Apr 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 29): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police Legislation Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>9, 2000</div>
+    </td>
+    <td>
+      <div>7 Mar 2000</div>
+    </td>
+    <td>
+      <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 20, 34, 35)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>24, 2001</div>
+    </td>
+    <td>
+      <div>6 Apr 2001</div>
+    </td>
+    <td>
+      <div>S. 4(1) and (2) and Schedule 50: <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 4(1) and (2)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Crime Authority Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>135, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
 Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Criminal Court (Consequential Amendments) Act 2002</div>
-  </td>
-  <td>
-    <div>42, 2002</div>
-  </td>
-  <td>
-    <div>27 June 2002</div>
-  </td>
-  <td>
-    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
-Remainder: 28 June 2002</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002</div>
-  </td>
-  <td>
-    <div>86, 2002</div>
-  </td>
-  <td>
-    <div>11 Oct 2002</div>
-  </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Crime Commission Establishment Act 2002</div>
-  </td>
-  <td>
-    <div>125, 2002</div>
-  </td>
-  <td>
-    <div>10 Dec 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 225): 1 Jan 2003</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>80, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 211–213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (items 212, 213, 215)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Enforcement (AFP Professional Standards and Related Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>84, 2006</div>
-  </td>
-  <td>
-    <div>30 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 65, 66): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>86, 2006</div>
-  </td>
-  <td>
-    <div>30 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 97): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>International Criminal Court (Consequential Amendments) Act 2002</div>
+    </td>
+    <td>
+      <div>42, 2002</div>
+    </td>
+    <td>
+      <div>27 June 2002</div>
+    </td>
+    <td>
+      <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
+Remainder: 28 June 2002 
+</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002</div>
+    </td>
+    <td>
+      <div>86, 2002</div>
+    </td>
+    <td>
+      <div>11 Oct 2002</div>
+    </td>
+    <td>
+      <div>Ss. 1–3: Royal Assent 
+Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44) 
+</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Crime Commission Establishment Act 2002</div>
+    </td>
+    <td>
+      <div>125, 2002</div>
+    </td>
+    <td>
+      <div>10 Dec 2002</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 225): 1 Jan 2003</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy Legislation Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>80, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 211–213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+    </td>
+    <td colspan="2">
+      <div>Sch. 1 (items 212, 213, 215)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law Enforcement (AFP Professional Standards and Related Measures) Act 2006</div>
+    </td>
+    <td>
+      <div>84, 2006</div>
+    </td>
+    <td>
+      <div>30 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 65, 66): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>86, 2006</div>
+    </td>
+    <td>
+      <div>30 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 97): \[ <i>see</i>s. 2(1) and Note 3]</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Witness Protection Act 1994_ was amended by Schedule 1 (item 29) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
@@ -1165,6 +1170,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
          Item 15 commenced on 24 May 2001.
+
 
 ## Table of Amendments
 
@@ -1189,126 +1195,162 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000; No. 135, 2001; Nos. 42 and 125, 2002; No. 86, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 42, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000; No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 42, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1997; No. 9, 2000; No. 24, 2001; No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2000</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000; No. 135, 2001; Nos. 42 and 125, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 80, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10A</div>
+    </td>
+    <td>
+      <div>ad. No. 42, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12, 13</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 42, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 20, 1997; No. 9, 2000; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 86, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 9, 2000</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Law Enforcement (AFP Professional Standards and Related Measures) Act 2006 (No. 84, 2006)_
+
+The following amendments commence on 30 December 2006 unless proclaimed earlier:
+
+## Schedule 3
+
+## 65  Subsection 12(2)
+
+Omit all the words after “for the purposes”, substitute:
+
+of:
+
+                     (a)  an investigation by the Ombudsman under the _Ombudsman Act 1976_; or
+
+                     (b)  an investigation under Part V of the _Australian Federal Police Act 1979_.
+
+## 66  Subsection 22(2)
+
+Omit “or the _Complaints (Australian Federal Police) Act 1981_”.
+
+As at 14 July 2006 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006 (No. 86, 2006)_
+
+The following amendment commences on 30 December 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 97  Section 3 (after paragraph (a) of the definition of _approved authority_)
+
+Insert:
+
+                    (aa)  the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_); or
+
+As at 14 July 2006 the amendment is not incorporated in this compilation.
+
 
 ## Table A
 
@@ -1346,7 +1388,9 @@ Note:          A person who is a member or staff member of the
 
 (2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
@@ -1356,7 +1400,9 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
@@ -1443,6 +1489,7 @@ as if those repeals had not happened and those amendments had not been made.
 (1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
 (2)        The Governor-General may make regulations for the purposes of subitem (1).
+
 
  
 
