@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00517/Html/TradexScheme1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00116/Html/TradexScheme1999WD02_image001.gif)
 
 # Tradex Scheme Act 1999
 
 **Act No. 185 of 1999 as amended**
 
-This compilation was prepared on 8 October 2008
+This compilation was prepared on 10 April 2008
  taking into account amendments up to Act No. 18 of 2008
 
 The text of any of those amendments not in force
@@ -66,8 +66,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Revocation of tradex order following notice given to Secretary under section 15 or given by Secretary under section 16
 
-[19A](#19A).       Revocation of tradex order if holder cannot be contacted
-
 [20](#20).          Where individual holder dies or incorporated holder ceases to exist
 
 **Part 6—Liability to pay tradex duty in respect of nominated goods in certain circumstances**
@@ -122,13 +120,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Review of decisions by Administrative Appeals Tribunal
 
-[40A](#40A).       Evidentiary matters in relation to tradex duty liability
-
-[41](#41).          Other evidentiary matters
+[41](#41).          Evidentiary matters
 
 [42](#42).          Payment by cheque
-
-[42A](#42A).       Refund of overpaid tradex duty
 
 [43](#43).          Power of Secretary to extend certain periods
 
@@ -162,7 +156,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
-             (2)  If this Act does not commence under subsection (1) within 6 months after the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
+             (2)  If this Act does not commence under subsection (1) within 6 months after the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Object of Act
 
@@ -188,6 +182,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="docum"></a>**_document_** includes a book and any record.
 
+                    <a name="drawback-regul"></a>**_Drawback Regulations_** means regulations in force under section 168 of the _Customs Act 1901_.
+
                     <a name="elig-good"></a>**_eligible goods_** means goods other than:
 
                      (a)  goods intended for sale in an establishment that offers goods for sale free of duties of customs and other taxes; and
@@ -195,6 +191,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  goods which, if they were produced in Australia, would be subject to duties of excise or to another tax that is declared by the regulations to be a tax to which this paragraph applies.
 
                     <a name="enter-home-consumpt"></a>**_enter for home consumption_** means enter for home consumption under section 68 of the _Customs Act 1901_.
+
+                    <a name="exempt-class-good"></a>**_exempt class of goods_** means a class of goods declared by the regulations to be goods in respect of which some or all of the requirements of the Drawback Regulations may not be able to be complied with.
 
                     <a name="export"></a>**_exportation_**, in relation to goods, includes the exportation of other goods in which the first-mentioned goods are incorporated.
 
@@ -264,6 +262,8 @@ where the terms of the agreement have not been fully complied with.
 
                     <a name="requir-record"></a>**_required records_** has the meaning given by subsection 22(2).
 
+                    <a name="requir-drawback-regul"></a>**_requirements of the Drawback Regulations_**, in relation to goods, means requirements of the Drawback Regulations that would have applied in respect of the goods upon their exportation if duties of customs has been paid in respect of them on their entry for home consumption.
+
                     <a name="secretari"></a>**_Secretary_** means Secretary of the Department.
 
                     <a name="texco-scheme"></a>**_Texco Scheme_** means the administrative scheme of that name that was in force immediately before the commencement of this Act under Customs By-law 9640056 for the purposes of item 21 of Schedule 4 to the _Customs Tariff Act 1995_.
@@ -282,7 +282,11 @@ where the terms of the agreement have not been fully complied with.
 
                      (a)  that the person intends to import nominated goods that are to be subsequently exported; and
 
-                     (b)  that the requirements of regulations made for the purposes of this paragraph are met in relation to the nominated goods; and
+                     (b)  that, in relation to nominated goods, either:
+
+                              (i)  the requirements of the Drawback Regulations will be complied with; or
+
+                             (ii)  the goods are included in an exempt class of goods; and
 
                      (c)  that the nominated goods will be exported within one year after their entry for home consumption; and
 
@@ -296,7 +300,7 @@ where the terms of the agreement have not been fully complied with.
 
                              (ii)  has imported, and intends to continue to import, nominated goods that have been, or are to be, subsequently exported; and
 
-                     (b)  that the requirements of regulations made for the purposes of this paragraph have been met in relation to all of the nominated goods that have been exported; and
+                     (b)  that the requirements of the Drawback Regulations have been complied with in respect of such of the nominated goods as have been exported and were not included in an exempt class of goods; and
 
                      (c)  that every exportation of nominated goods occurred within one year after their entry for home consumption; and
 
@@ -378,7 +382,7 @@ Note:          The Secretary has power to extend a period refe
 
                      (a)  particulars of proposed export activities that would, if the order were not made, make the nominated goods eligible for drawback when they are exported;
 
-                     (b)  particulars of the measures proposed to be taken to ensure that the requirements of the regulations will be met in relation to the nominated goods;
+                     (b)  particulars of the measures proposed to be taken to ensure that the requirements of the Drawback Regulations will be complied with in respect of such of the goods as not included in an exempt class of goods;
 
                      (c)  particulars of the record-keeping or accounting systems that are in place in respect of the nominated goods until they are exported;
 
@@ -398,7 +402,7 @@ Note:          The Secretary has power to extend a period refe
 
                      (d)  the applicant has not failed to pay tradex duty in accordance with section 21 in respect of nominated goods in relation to another tradex order that is or has been held by the applicant;
 
-the Secretary must make an order specifying the nominated goods in respect of which the Secretary is satisfied as mentioned in paragraph (a).
+the Secretary must make an order stating that the nominated goods in respect of which the Secretary is satisfied as mentioned in paragraph (a) are eligible to be entered under item 21A of Schedule 4 to the _Customs Tariff Act 1995_.
 
              (2)  The Secretary may refuse the application, wholly or partly, except in so far as he or she is required to make a tradex order in respect of the application under subsection (1).
 
@@ -431,6 +435,8 @@ Note:          For the right to have a decision refusing the a
                              (ii)  the date on which the order comes into force; and
 
                             (iii)  the nominated goods to which the order applies.
+
+             (8)  A tradex order is not a statutory rule within the meaning of the _Statutory Rules Publication Act 1903_.
 
 ## Part 4—Variation of tradex orders
 
@@ -566,7 +572,7 @@ Note:          The Secretary has power to extend the period re
 
 ##### <a id="16"></a>16  Notice to show cause why tradex order should not be revoked
 
-             (1)  If it appears to the Secretary that any circumstances (other than circumstances specified in a notice given to the Secretary under section 15) that may be disqualifying circumstances exist in relation to the holder of a tradex order, the Secretary must cause to be given to the holder a written notice:
+                   If it appears to the Secretary that any circumstances (other than circumstances specified in a notice given to the Secretary under section 15) that may be disqualifying circumstances exist in relation to the holder of a tradex order, the Secretary must cause to be given to the holder a written notice:
 
                      (a)  setting out particulars of the circumstances; and
 
@@ -576,15 +582,7 @@ Note:          The Secretary has power to extend the period re
 
                              (ii)  if the circumstances exist—that they are not disqualifying circumstances.
 
-Note:          The Secretary has power to extend the period referred to in paragraph 16(1)(b) (see section 43).
-
-             (2)  If the Secretary is of the opinion that the holder of a tradex order does not intend to export nominated goods to which the order applies, the Secretary may give the holder a written notice:
-
-                     (a)  setting out the Secretary’s opinion; and
-
-                     (b)  inviting the holder to give the Secretary, within 28 days after the day on which the notice is received by the holder, written evidence that the holder intends to export the nominated goods.
-
-Note:          The Secretary has power to extend the period referred to in paragraph 16(2)(b) (see section 43).
+Note:          The Secretary has power to extend the period referred to in paragraph 16(b) (see section 43).
 
 ##### <a id="17"></a>17  Suspension of tradex order
 
@@ -592,11 +590,7 @@ Note:          The Secretary has power to extend the period re
 
                      (a)  decides to give a notice under section 16 to the holder of a tradex order; and
 
-                     (b)  believes on reasonable grounds that:
-
-                              (i)  any disqualifying circumstances exist in relation to the holder; or
-
-                             (ii)  the holder does not intend to export the nominated goods; and
+                     (b)  believes on reasonable grounds that any disqualifying circumstances exist in relation to the holder; and
 
                      (c)  considers that it is appropriate to take action under this section;
 
@@ -648,7 +642,7 @@ to be given to the holder of the order.
 
                      (a)  the holder of a tradex order has given a notice to the Secretary under section 15; or
 
-                     (b)  a notice is given to the holder of a tradex order under subsection 16(1) and the holder does not satisfy the Secretary, within the period stated in the notice, that the circumstances specified in the notice:
+                     (b)  a notice is given to the holder of a tradex order under section 16 and the holder does not satisfy the Secretary, within the period stated in the notice, that the circumstances specified in the notice:
 
                               (i)  do not exist; or
 
@@ -656,17 +650,7 @@ to be given to the holder of the order.
 
 the Secretary must revoke the order.
 
-Note:          A decision under subsection (1) to revoke a tradex order is reviewable (see section 39).
-
-          (1A)  If:
-
-                     (a)  the Secretary has given the holder of a tradex order a notice under subsection 16(2); and
-
-                     (b)  the holder does not satisfy the Secretary, within the period stated in the notice, that the holder intends to export the goods referred to in the notice;
-
-the Secretary may revoke the tradex order.
-
-Note:          A decision under subsection (1A) to revoke a tradex order is reviewable (see section 39).
+Note:          For the right to have a decision revoking a tradex order under this section reconsidered, see section 39.
 
              (2)  The revocation of a tradex order under this section must be in writing signed by the Secretary and comes into force on a date stated in the instrument of revocation.
 
@@ -684,21 +668,7 @@ Note:          A decision under subsection (1A) to revoke a 
 
              (5)  If a tradex order is revoked under this section, the Secretary must cause to be entered in the Register a statement that the order has been revoked and the date on which the revocation comes into force.
 
-##### <a id="19A"></a>19A  Revocation of tradex order if holder cannot be contacted
-
-             (1)  If, after reasonable attempts to contact the holder of a tradex order, the Secretary is satisfied that the holder cannot be contacted, the Secretary may revoke the tradex order.
-
-Note:          A decision under subsection (1) to revoke a tradex order is reviewable (see section 39).
-
-             (2)  The revocation of the tradex order:
-
-                     (a)  must be done by written instrument; and
-
-                     (b)  comes into force on the date specified in the instrument.
-
-             (3)  If a tradex order is revoked under this section, the Secretary must enter in the Register a statement that the order has been revoked and the date on which the revocation comes into force.
-
-##### <a id="20"></a>20  Where individual holder dies or incorporated holder ceases to exist
+##### <a id="20"></a>20  Where individual holder dies or incorporated holder ceases to exist
 
                    If the Secretary becomes aware that the Register contains particulars of a tradex order that was held by an individual who has died or by a body corporate that has ceased to exist, the Secretary must cause to be entered in the Register a statement that the individual has died or the body corporate has ceased to exist and the date on which the individual died or the body corporate ceased to exist.
 
@@ -706,33 +676,29 @@ Note:          A decision under subsection (1) to revoke a t
 
 ##### <a id="21"></a>21  Liability of holder to pay tradex duty
 
-             (1)  This section applies if, in respect of either of the following:
+             (1)  If any of the following circumstances occur in respect of any of the nominated goods in relation to a tradex order:
 
-                     (a)  goods that are nominated goods in relation to a tradex order;
+                     (a)  the goods are consumed or used by the holder in Australia;
 
-                     (b)  goods that are nominated goods in relation to a suspended or revoked tradex order and that were imported before that suspension or revocation;
+                     (b)  the goods are disposed of or otherwise dealt with in any way by the holder for the purpose of being consumed or used by another person in Australia;
 
-any of the following circumstances occur:
+                     (c)  except in the case of goods included in an exempt class of goods, any of the requirements of the Drawback Regulations are not complied with in respect of the goods;
 
-                     (c)  the goods are consumed or used by the holder in Australia;
+                     (d)  the goods are not exported within the period applicable under paragraph 5(2)(c);
 
-                     (d)  the goods are disposed of or otherwise dealt with in any way by the holder for the purpose of being consumed or used by another person in Australia;
-
-                     (e)  a requirement of the regulations is not met in relation to the goods;
-
-                      (f)  the goods are not exported before the end of the period that applies under paragraph 5(2)(c) (otherwise than because the goods were accidentally destroyed or accidentally damaged).
+the following provisions of this section have effect.
 
              (2)  The holder of the order is liable to pay to the Commonwealth, in accordance with the regulations, tradex duty in respect of the goods.
 
              (3)  The tradex duty is payable within 28 days after the earliest of whichever of the following days is applicable:
 
-                     (a)  the day on which the goods are consumed or used as mentioned in paragraph (1)(c);
+                     (a)  the day on which the goods are consumed or used as mentioned in paragraph (1)(a);
 
-                     (b)  the day on which the goods are disposed of or otherwise dealt with as mentioned in paragraph (1)(d);
+                     (b)  the day on which the goods are disposed of or otherwise dealt with as mentioned in paragraph (1)(b);
 
-                     (c)  the day on which the requirement of the regulations is not met in relation to the goods;
+                     (c)  a day on which a requirement of the Drawback Regulations is not complied with in respect of the goods;
 
-                     (d)  the last day of the period referred to in paragraph (1)(f).
+                     (d)  the last day of the period referred to in paragraph (1)(d).
 
 Note:          The Secretary has power to extend the period referred to in subsection (3) (see section 43).
 
@@ -743,8 +709,6 @@ Note:          The Secretary has power to extend the period re
              (6)  In this section:
 
                     <a name="consum-used"></a>**_consumed or used_** means consumed or used otherwise than as permitted by regulations made for the purposes of this section.
-
-                    <a name="holder"></a>**_holder_** includes the person who was the holder of a suspended or revoked tradex order.
 
 ## Part 7—Keeping of records
 
@@ -1068,7 +1032,7 @@ the applicant may apply to the Secretary, within 28 days after the day on which 
 
                      (a)  under section 17 suspending a tradex order; or
 
-                     (b)  under section 19 or 19A revoking a tradex order;
+                     (b)  under section 19 revoking a tradex order;
 
 the holder of the order may apply to the Secretary, within 28 days after the day on which the notice of the decision was given to the holder, for reconsideration of the decision.
 
@@ -1116,25 +1080,11 @@ Note 2:       For the right to have a decision on reconsideration re
 
                      (c)  a decision of the Secretary under section 17 suspending a tradex order; or
 
-                     (d)  a decision of the Secretary under section 19 or 19A revoking a tradex order.
+                     (d)  a decision of the Secretary under section 19 revoking a tradex order.
 
 Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision-maker must give to persons whose interests are affected by the decision a notification of the making of the decision and of their right to have the decision reviewed. In notifying any such persons, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
-##### <a id="40A"></a>40A  Evidentiary matters in relation to tradex duty liability
-
-             (1)  If the Secretary believes on reasonable grounds that the circumstance referred to in paragraph 21(1)(f) has occurred in respect of either of the following:
-
-                     (a)  goods that are nominated goods in relation to a tradex order;
-
-                     (b)  goods that are nominated goods in relation to a suspended or revoked tradex order and that were imported before that suspension or revocation;
-
-the Secretary may issue an evidentiary certificate stating that the circumstance has occurred in relation to those goods.
-
-             (2)  As soon as practicable after issuing the certificate, the Secretary must give a copy to the person who is or was the holder of the tradex order.
-
-             (3)  The certificate is, in any proceedings, prima facie evidence of the matters stated in the certificate.
-
-##### <a id="41"></a>41  Other evidentiary matters
+##### <a id="41"></a>41  Evidentiary matters
 
              (1)  At the hearing of a prosecution for an offence against section 28, a certificate signed by the Secretary stating:
 
@@ -1176,16 +1126,6 @@ is evidence of those matters.
 
                    If a cheque is tendered to the Secretary as payment of all or part of any tradex duty or as payment of all or part of the penalty specified in an infringement notice, payment is taken not to have been made unless the cheque is honoured upon presentation.
 
-##### <a id="42A"></a>42A  Refund of overpaid tradex duty
-
-             (1)  If an amount of tradex duty has been overpaid by a person, the Commonwealth must, on request by the person, refund the amount of the overpayment.
-
-             (2)  A request by a person for the purposes of subsection (1):
-
-                     (a)  must be made in writing; and
-
-                     (b)  must be made no later than 4 years after the overpayment was made.
-
 ##### <a id="43"></a>43  Power of Secretary to extend certain periods
 
              (1)  For the purposes of the application of a provision of this Act referred to in subsection (4) in relation to a person, the Secretary may, by writing, extend the period referred to in the provision.
@@ -1194,11 +1134,13 @@ is evidence of those matters.
 
              (3)  If the Secretary extends a period under subsection (1), a reference in this Act or in a notice or other instrument under this Act to the period is taken, in relation to the person, to be a reference to the period as so extended.
 
-             (4)  The periods that may be extended under subsection (1) are the periods referred to in paragraphs 5(1)(c) and (2)(c), subsections 9(6), 10(3), 12(4) and 15(1), paragraphs 16(1)(b) and (2)(b), subsection 21(3), paragraphs 24(2)(a) and 34(1)(e) and subsections 39(1) and (2).
+             (4)  The periods that may be extended under subsection (1) are the periods referred to in paragraphs 5(1)(c) and (2)(c), subsections 9(6), 10(3), 12(4) and 15(1), paragraph 16(b), subsection 21(3), paragraphs 24(2)(a) and 34(1)(e) and subsections 39(1) and (2).
 
 ##### <a id="44"></a>44  Power of Secretary to approve forms
 
-                   The Secretary may, by writing, approve a form for the purposes of a provision of this Act.
+             (1)  The Secretary may, by writing, approve a form for the purposes of a provision of this Act.
+
+             (2)  An approval under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="45"></a>45  Authorised officers
 
@@ -1278,9 +1220,9 @@ the Secretary must, as soon as practicable, make under section 11, in respect 
 
 The _Tradex Scheme Act 1999_ as shown in this compilation comprises Act No. 185, 1999 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 ### Table of Acts
 
@@ -1339,13 +1281,13 @@ of Assent</div>
     <div>55, 2001</div>
   </td>
   <td>
-    <div>28 June 2001</div>
+    <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 558): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 558): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1373,13 +1315,13 @@ of Assent</div>
     <div>80, 2004</div>
   </td>
   <td>
-    <div>23 June 2004</div>
+    <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 210, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+    <div>Schedule 1 (items 210, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
   </td>
   <td>
-    <div>Sch. 1 (items 212, 213, 215)</div>
+    <div>Sch. 1 (items 212, 213, 215)</div>
   </td>
 </tr>
 <tr>
@@ -1393,15 +1335,15 @@ of Assent</div>
     <div>8 Apr 2008</div>
   </td>
   <td>
-    <div>Schedule 1: 8 Oct 2008 
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 5, 7)</div>
+    <div>Sch. 1 (items 5, 7)</div>
   </td>
 </tr></table>
 
-_(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
@@ -1430,7 +1372,7 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -1441,108 +1383,12 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 80, 2004; No. 18, 2008</div>
+    <div>am. No. 55, 2001; No. 80, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
+    <div><b>Part 9</b></div>
   </td>
   <td>
     <div></div>
@@ -1553,7 +1399,7 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
     <div>Ss. 26, 27</div>
   </td>
   <td>
-    <div>am. No. 140, 2001</div>
+    <div>am. No. 140, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1561,63 +1407,231 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39, 40</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 43, 44</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008</div>
+    <div>am. No. 140, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Tradex Scheme Amendment Act 2008 (No. 18, 2008)_
+
+The following amendments commence on 8 October 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 4 (definition of _Drawback Regulations_)
+
+Repeal the definition.
+
+## 2  Section 4 (definition of _exempt class of goods_)
+
+Repeal the definition.
+
+## 3  Section 4 (definition of _requirements of the Drawback Regulations_)
+
+Repeal the definition.
+
+## 4  Paragraph 5(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  that the requirements of regulations made for the purposes of this paragraph are met in relation to the nominated goods; and
+
+## 6  Paragraph 5(2)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  that the requirements of regulations made for the purposes of this paragraph have been met in relation to all of the nominated goods that have been exported; and
+
+## 8  Paragraph 10(3)(b)
+
+Omit “Drawback Regulations will be complied with in respect of such of the goods as not included in an exempt class of goods”, substitute “regulations will be met in relation to the nominated goods”.
+
+## 9  Subsection 11(1)
+
+Omit “stating that the nominated goods in respect of which the Secretary is satisfied as mentioned in paragraph (a) are eligible to be entered under item 21A of Schedule 4 to the _Customs Tariff Act 1995_”, substitute “specifying the nominated goods in respect of which the Secretary is satisfied as mentioned in paragraph (a)”.
+
+## 10  Subsection 11(8)
+
+Repeal the subsection.
+
+## 11  Section 16
+
+Before “If”, insert “(1)”.
+
+## 12  Section 16 (note)
+
+Omit “paragraph 16(b)”, substitute “paragraph 16(1)(b)”.
+
+## 13  At the end of section 16
+
+Add:
+
+             (2)  If the Secretary is of the opinion that the holder of a tradex order does not intend to export nominated goods to which the order applies, the Secretary may give the holder a written notice:
+
+                     (a)  setting out the Secretary’s opinion; and
+
+                     (b)  inviting the holder to give the Secretary, within 28 days after the day on which the notice is received by the holder, written evidence that the holder intends to export the nominated goods.
+
+Note:          The Secretary has power to extend the period referred to in paragraph 16(2)(b) (see section 43).
+
+## 14  Paragraph 17(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  believes on reasonable grounds that:
+
+                              (i)  any disqualifying circumstances exist in relation to the holder; or
+
+                             (ii)  the holder does not intend to export the nominated goods; and
+
+## 15  Paragraph 19(1)(b)
+
+Omit “section 16”, substitute “subsection 16(1)”.
+
+## 16  Subsection 19(1) (note)
+
+Repeal the note, substitute:
+
+Note:          A decision under subsection (1) to revoke a tradex order is reviewable (see section 39).
+
+## 17  After subsection 19(1)
+
+Insert:
+
+          (1A)  If:
+
+                     (a)  the Secretary has given the holder of a tradex order a notice under subsection 16(2); and
+
+                     (b)  the holder does not satisfy the Secretary, within the period stated in the notice, that the holder intends to export the goods referred to in the notice;
+
+the Secretary may revoke the tradex order.
+
+Note:          A decision under subsection (1A) to revoke a tradex order is reviewable (see section 39).
+
+## 18  After section 19
+
+Insert:
+
+##### <a id="19A"></a>19A  Revocation of tradex order if holder cannot be contacted
+
+             (1)  If, after reasonable attempts to contact the holder of a tradex order, the Secretary is satisfied that the holder cannot be contacted, the Secretary may revoke the tradex order.
+
+Note:          A decision under subsection (1) to revoke a tradex order is reviewable (see section 39).
+
+             (2)  The revocation of the tradex order:
+
+                     (a)  must be done by written instrument; and
+
+                     (b)  comes into force on the date specified in the instrument.
+
+             (3)  If a tradex order is revoked under this section, the Secretary must enter in the Register a statement that the order has been revoked and the date on which the revocation comes into force.
+
+## 19  Subsection 21(1)
+
+Repeal the subsection, substitute:
+
+             (1)  This section applies if, in respect of either of the following:
+
+                     (a)  goods that are nominated goods in relation to a tradex order;
+
+                     (b)  goods that are nominated goods in relation to a suspended or revoked tradex order and that were imported before that suspension or revocation;
+
+any of the following circumstances occur:
+
+                     (c)  the goods are consumed or used by the holder in Australia;
+
+                     (d)  the goods are disposed of or otherwise dealt with in any way by the holder for the purpose of being consumed or used by another person in Australia;
+
+                     (e)  a requirement of the regulations is not met in relation to the goods;
+
+                      (f)  the goods are not exported before the end of the period that applies under paragraph 5(2)(c) (otherwise than because the goods were accidentally destroyed or accidentally damaged).
+
+## 20  Paragraph 21(3)(a)
+
+Omit “paragraph (1)(a)”, substitute “paragraph (1)(c)”.
+
+## 21  Paragraph 21(3)(b)
+
+Omit “paragraph (1)(b)”, substitute “paragraph (1)(d)”.
+
+## 22  Paragraph 21(3)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  the day on which the requirement of the regulations is not met in relation to the goods;
+
+## 23  Paragraph 21(3)(d)
+
+Omit “paragraph (1)(d)”, substitute “paragraph (1)(f)”.
+
+## 24  Subsection 21(6)
+
+Insert:
+
+                    <a name="holder"></a>**_holder_** includes the person who was the holder of a suspended or revoked tradex order.
+
+## 25  Paragraph 39(2)(b)
+
+After “19”, insert “or 19A”.
+
+## 26  Paragraph 40(d)
+
+After “19”, insert “or 19A”.
+
+## 27  After section 40
+
+Insert:
+
+##### <a id="40A"></a>40A  Evidentiary matters in relation to tradex duty liability
+
+             (1)  If the Secretary believes on reasonable grounds that the circumstance referred to in paragraph 21(1)(f) has occurred in respect of either of the following:
+
+                     (a)  goods that are nominated goods in relation to a tradex order;
+
+                     (b)  goods that are nominated goods in relation to a suspended or revoked tradex order and that were imported before that suspension or revocation;
+
+the Secretary may issue an evidentiary certificate stating that the circumstance has occurred in relation to those goods.
+
+             (2)  As soon as practicable after issuing the certificate, the Secretary must give a copy to the person who is or was the holder of the tradex order.
+
+             (3)  The certificate is, in any proceedings, prima facie evidence of the matters stated in the certificate.
+
+_Note:       The heading to section 41 is replaced by the heading “Other evidentiary matters”._
+
+## 28  After section 42
+
+Insert:
+
+##### <a id="42A"></a>42A  Refund of overpaid tradex duty
+
+             (1)  If an amount of tradex duty has been overpaid by a person, the Commonwealth must, on request by the person, refund the amount of the overpayment.
+
+             (2)  A request by a person for the purposes of subsection (1):
+
+                     (a)  must be made in writing; and
+
+                     (b)  must be made no later than 4 years after the overpayment was made.
+
+## 29  Subsection 43(4)
+
+Omit “paragraph 16(b)”, substitute “paragraphs 16(1)(b) and (2)(b)”.
+
+## 30  Subsection 44(1)
+
+Omit “(1)”.
+
+## 31  Subsection 44(2)
+
+Repeal the subsection.
+
+As at 10 April 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)_
+_Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1627,9 +1641,9 @@ _Industry, Science and Resources Legislation Amendment (Application of Criminal 
 
 * * *
 
-_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
+_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
-## Schedule 1
+## Schedule 1
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
@@ -1717,7 +1731,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 _Tradex Scheme Amendment Act 2008 (No. 18, 2008)_
 
-## Schedule 1
+The following provisions commence on 8 October 2008 unless proclaimed earlier:
+
+## Schedule 1
 
 ## 5  Application—amendment of subsection 5(1)
 
