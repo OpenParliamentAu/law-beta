@@ -1,1846 +1,1786 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00142/Html/1af4f7c8-59b3-4001-9e93-15ae3f70ddf0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00007/Html/3ba70ee2-3ca9-49b8-a5d7-f571048a0b05_files/image001.gif)
 
 # Copyright Act 1968
 
-No. 63, 1968 as amended
+**Act No. 63 of 1968 as amended**
 
-**Compilation start date:**12 April 2013
+This compilation was prepared on 20 December 2012
+ taking into account amendments up to Act No. 169 of 2012
 
-**Includes amendments up to:**Act No. 13, 2013
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Parliamentary Counsel, Canberra
 
-This is a compilation of the _Copyright Act 1968_ as amended and in force on 12 April 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 12 April 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).                            Short title                                                                             1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).                            Commencement                                                                   1
+[2](#2).            Commencement [_see_ Note 1]
 
-[4](#4).                            Extension to external Territories                                          1
+[4](#4).            Extension to external Territories
 
-[5](#5).                            Exclusion of Imperial Copyright Act, 1911                         1
+[5](#5).            Exclusion of Imperial Copyright Act, 1911
 
-[6](#6).                            Repeal of Copyright Acts                                                    1
+[6](#6).            Repeal of Copyright Acts
 
-[7](#7).                            Act to bind the Crown                                                         2
+[7](#7).            Act to bind the Crown
 
-[8](#8).                            Copyright not to subsist except by virtue of this Act           2
+[8](#8).            Copyright not to subsist except by virtue of this Act
 
-[8A](#8A).                         Prerogative rights of the Crown in the nature of copyright  2
+[8A](#8A).         Prerogative rights of the Crown in the nature of copyright
 
-[9](#9).                            Operation of other laws                                                       2
+[9](#9).            Operation of other laws
 
-[9A](#9A).                         Application of the _Criminal Code_                                        3
+[9A](#9A).         Application of the _Criminal Code_
 
 **Part II—Interpretation**
 
-[10](#10).                          Interpretation                                                                        4
+[10](#10).          Interpretation
 
-[10AA](#10AA).                    _Non‑infringing copy_ of a sound recording                         24
+[10AA](#10AA).    _Non‑infringing copy_ of a sound recording
 
-[10AB](#10AB).                     _Non‑infringing copy_ of a computer program                      25
+[10AB](#10AB).    _Non‑infringing copy_ of a computer program
 
-[10AC](#10AC).                     _Non‑infringing copy_ of an electronic literary or music item 26
+[10AC](#10AC).    _Non‑infringing copy_ of an electronic literary or music item
 
-[10AD](#10AD).                    Accessories to imported articles                                         26
+[10AD](#10AD).    Accessories to imported articles
 
-[10A](#10A).                       Declarations and notices relating to certain bodies and institutions          27
+[10A](#10A).       Declarations and notices relating to certain bodies and institutions
 
-[11](#11).                          Residence in a country not affected by temporary absence 28
+[11](#11).          Residence in a country not affected by temporary absence
 
-[12](#12).                          References to Parliament                                                    28
+[12](#12).          References to Parliament
 
-[13](#13).                          Acts comprised in copyright                                              28
+[13](#13).          Acts comprised in copyright
 
-[14](#14).                          Acts done in relation to substantial part of work or other subject‑matter deemed to be done in relation to the whole                                                                                 29
+[14](#14).          Acts done in relation to substantial part of work or other subject‑matter deemed to be done in relation to the whole
 
-[15](#15).                          References to acts done with licence of owner of copyright 29
+[15](#15).          References to acts done with licence of owner of copyright
 
-[16](#16).                          References to partial assignment of copyright                    29
+[16](#16).          References to partial assignment of copyright
 
-[17](#17).                          Statutory employment                                                        29
+[17](#17).          Statutory employment
 
-[18](#18).                          Libraries established or conducted for profit                      30
+[18](#18).          Libraries established or conducted for profit
 
-[19](#19).                          References to Copyright Act, 1911                                    30
+[19](#19).          References to Copyright Act, 1911
 
-[20](#20).                          Names under which work is published                              30
+[20](#20).          Names under which work is published
 
-[21](#21).                          Reproduction and copying of works and other subject‑matter 30
+[21](#21).          Reproduction and copying of works and other subject‑matter
 
-[22](#22).                          Provisions relating to the making of a work or other subject‑matter        31
+[22](#22).          Provisions relating to the making of a work or other subject‑matter
 
-[23](#23).                          Sound recordings and records                                           34
+[23](#23).          Sound recordings and records
 
-[24](#24).                          References to sounds and visual images embodied in an article               34
+[24](#24).          References to sounds and visual images embodied in an article
 
-[25](#25).                          Provisions relating to broadcasting                                    34
+[25](#25).          Provisions relating to broadcasting
 
-[27](#27).                          Performance                                                                       35
+[27](#27).          Performance
 
-[28](#28).                          Performance and communication of works or other subject‑matter in the course of educational instruction                                                                                           36
+[28](#28).          Performance and communication of works or other subject‑matter in the course of educational instruction
 
-[29](#29).                          Publication                                                                         38
+[29](#29).          Publication
 
-[30](#30).                          Ownership of copyright for particular purposes                40
+[30](#30).          Ownership of copyright for particular purposes
 
-[30A](#30A).                       Commercial rental arrangement                                          40
+[30A](#30A).       Commercial rental arrangement
 
 **Part III—Copyright in original literary, dramatic, musical and artistic works** 
 
     **Division 1—Nature, duration and ownership of copyright in works**
 
-[31](#31).                          Nature of copyright in original works                                42
+[31](#31).          Nature of copyright in original works
 
-[32](#32).                          Original works in which copyright subsists                      44
+[32](#32).          Original works in which copyright subsists
 
-[33](#33).                          Duration of copyright in original works                            44
+[33](#33).          Duration of copyright in original works
 
-[34](#34).                          Duration of copyright in anonymous and pseudonymous works             45
+[34](#34).          Duration of copyright in anonymous and pseudonymous works
 
-[35](#35).                          Ownership of copyright in original works                         45
+[35](#35).          Ownership of copyright in original works
 
     **Division 2—Infringement of copyright in works**
 
-[36](#36).                          Infringement by doing acts comprised in the copyright     48
+[36](#36).          Infringement by doing acts comprised in the copyright
 
-[37](#37).                          Infringement by importation for sale or hire                      48
+[37](#37).          Infringement by importation for sale or hire
 
-[38](#38).                          Infringement by sale and other dealings                             49
+[38](#38).          Infringement by sale and other dealings
 
-[39](#39).                          Infringement by permitting place of public entertainment to be used for performance of work                50
+[39](#39).          Infringement by permitting place of public entertainment to be used for performance of work
 
-[39A](#39A).                       Infringing copies made on machines installed in libraries and archives    50
+[39A](#39A).       Infringing copies made on machines installed in libraries and archives
 
-[39B](#39B).                        Communication by use of certain facilities                         51
+[39B](#39B).       Communication by use of certain facilities
 
     **Division 3—Acts not constituting infringements of copyright in works**
 
-[40](#40).                          Fair dealing for purpose of research or study                    52
+[40](#40).          Fair dealing for purpose of research or study
 
-[41](#41).                          Fair dealing for purpose of criticism or review                  54
+[41](#41).          Fair dealing for purpose of criticism or review
 
-[41A](#41A).                       Fair dealing for purpose of parody or satire                       54
+[41A](#41A).       Fair dealing for purpose of parody or satire
 
-[42](#42).                          Fair dealing for purpose of reporting news                        54
+[42](#42).          Fair dealing for purpose of reporting news
 
-[43](#43).                          Reproduction for purpose of judicial proceedings or professional advice                55
+[43](#43).          Reproduction for purpose of judicial proceedings or professional advice
 
-[43A](#43A).                       Temporary reproductions made in the course of communication             55
+[43A](#43A).       Temporary reproductions made in the course of communication
 
-[43B](#43B).                        Temporary reproductions of works as part of a technical process of use 55
+[43B](#43B).       Temporary reproductions of works as part of a technical process of use
 
-[43C](#43C).                        Reproducing works in books, newspapers and periodical publications in different form for private use 56
+[43C](#43C).       Reproducing works in books, newspapers and periodical publications in different form for private use
 
-[44](#44).                          Inclusion of works in collections for use by places of education             58
+[44](#44).          Inclusion of works in collections for use by places of education
 
-[44A](#44A).                       Importation etc  of books                                                   59
+[44A](#44A).       Importation etc  of books
 
-[44B](#44B).                        Reproduction of writing on approved label for containers for chemical product      62
+[44B](#44B).       Reproduction of writing on approved label for containers for chemical product
 
-[44BA](#44BA).                     Acts done in relation to certain medicine                            62
+[44BA](#44BA).    Acts done in relation to certain medicine
 
-[44C](#44C).                        Copyright subsisting in accessories etc  to imported articles 63
+[44C](#44C).       Copyright subsisting in accessories etc  to imported articles
 
-[44D](#44D).                       Import of non‑infringing copy of sound recording does not infringe copyright in works recorded         63
+[44D](#44D).       Import of non‑infringing copy of sound recording does not infringe copyright in works recorded
 
-[44E](#44E).                        Importation and sale etc  of copies of computer programs 64
+[44E](#44E).        Importation and sale etc  of copies of computer programs
 
-[44F](#44F).                        Importation and sale etc  of copies of electronic literary or music items   65
+[44F](#44F).        Importation and sale etc  of copies of electronic literary or music items
 
     **Division 4—Acts not constituting infringements of copyright in literary, dramatic and musical works**
 
-[45](#45).                          Reading or recitation in public or for a broadcast               66
+[45](#45).          Reading or recitation in public or for a broadcast
 
-[46](#46).                          Performance at premises where persons reside or sleep    66
+[46](#46).          Performance at premises where persons reside or sleep
 
-[47](#47).                          Reproduction for purpose of broadcasting                         66
+[47](#47).          Reproduction for purpose of broadcasting
 
-[47AA](#47AA).                    Reproduction for the purpose of simulcasting                   68
+[47AA](#47AA).    Reproduction for the purpose of simulcasting
 
-[47A](#47A).                       Sound broadcasts by holders of print disability radio licences 68
+[47A](#47A).       Sound broadcasts by holders of print disability radio licences
 
     **Division 4A—Acts not constituting infringements of copyright in computer programs**
 
-[47AB](#47AB).                     Meaning of _computer program_                                         72
+[47AB](#47AB).    Meaning of _computer program_
 
-[47B](#47B).                        Reproduction for normal use or study of computer programs  72
+[47B](#47B).       Reproduction for normal use or study of computer programs
 
-[47C](#47C).                        Back‑up copy of computer programs                                 73
+[47C](#47C).       Back‑up copy of computer programs
 
-[47D](#47D).                       Reproducing computer programs to make interoperable products            75
+[47D](#47D).       Reproducing computer programs to make interoperable products
 
-[47E](#47E).                        Reproducing computer programs to correct errors             75
+[47E](#47E).        Reproducing computer programs to correct errors
 
-[47F](#47F).                        Reproducing computer programs for security testing        76
+[47F](#47F).        Reproducing computer programs for security testing
 
-[47G](#47G).                       Unauthorised use of copies or information                        77
+[47G](#47G).       Unauthorised use of copies or information
 
-[47H](#47H).                       Agreements excluding operation of certain provisions      77
+[47H](#47H).       Agreements excluding operation of certain provisions
 
     **Division 4B—Acts not constituting infringements of copyright in artistic works**
 
-[47J](#47J).                         Reproducing photograph in different format for private use 78
+[47J](#47J).        Reproducing photograph in different format for private use
 
     **Division 5—Copying of works in libraries or archives**
 
-[48](#48).                          Interpretation                                                                      80
+[48](#48).          Interpretation
 
-[48A](#48A).                       Copying by Parliamentary libraries for members of Parliament               80
+[48A](#48A).       Copying by Parliamentary libraries for members of Parliament
 
-[49](#49).                          Reproducing and communicating works by libraries and archives for users            80
+[49](#49).          Reproducing and communicating works by libraries and archives for users
 
-[50](#50).                          Reproducing and communicating works by libraries or archives for other libraries or archives              85
+[50](#50).          Reproducing and communicating works by libraries or archives for other libraries or archives
 
-[51](#51).                          Reproducing and communicating unpublished works in libraries or archives          90
+[51](#51).          Reproducing and communicating unpublished works in libraries or archives
 
-[51AA](#51AA).                    Reproducing and communicating works in care of National Archives of Australia 91
+[51AA](#51AA).    Reproducing and communicating works in care of National Archives of Australia
 
-[51A](#51A).                       Reproducing and communicating works for preservation and other purposes         92
+[51A](#51A).       Reproducing and communicating works for preservation and other purposes
 
-[51B](#51B).                        Making preservation copies of significant works in key cultural institutions’ collections        94
+[51B](#51B).       Making preservation copies of significant works in key cultural institutions’ collections
 
-[52](#52).                          Publication of unpublished works kept in libraries or archives                96
+[52](#52).          Publication of unpublished works kept in libraries or archives
 
-[53](#53).                          Application of Division to illustrations accompanying articles and other works      97
+[53](#53).          Application of Division to illustrations accompanying articles and other works
 
     **Division 6—Recording of musical works**
 
-[54](#54).                          Interpretation                                                                      98
+[54](#54).          Interpretation
 
-[55](#55).                          Conditions upon which manufacturer may make records of musical work              99
+[55](#55).          Conditions upon which manufacturer may make records of musical work
 
-[57](#57).                          Provisions relating to royalty where 2 or more works are on the one record           101
+[57](#57).          Provisions relating to royalty where 2 or more works are on the one record
 
-[59](#59).                          Conditions upon which manufacturer may include part of a literary or dramatic work in a record of a musical work                                                                                101
+[59](#59).          Conditions upon which manufacturer may include part of a literary or dramatic work in a record of a musical work
 
-[60](#60).                          Records made partly for retail sale and partly for gratuitous disposal      103
+[60](#60).          Records made partly for retail sale and partly for gratuitous disposal
 
-[61](#61).                          Making inquiries in relation to previous records              104
+[61](#61).          Making inquiries in relation to previous records
 
-[64](#64).                          Sections 55 and 59 to be disregarded in determining whether an infringement has been committed by the importation of records                                                      105
+[64](#64).          Sections 55 and 59 to be disregarded in determining whether an infringement has been committed by the importation of records
 
     **Division 7—Acts not constituting infringements of copyright in artistic works**
 
-[65](#65).                          Sculptures and certain other works in public places         106
+[65](#65).          Sculptures and certain other works in public places
 
-[66](#66).                          Buildings and models of buildings                                  106
+[66](#66).          Buildings and models of buildings
 
-[67](#67).                          Incidental filming or televising of artistic works              106
+[67](#67).          Incidental filming or televising of artistic works
 
-[68](#68).                          Publication of artistic works                                            106
+[68](#68).          Publication of artistic works
 
-[70](#70).                          Reproduction for purpose of including work in television broadcast       107
+[70](#70).          Reproduction for purpose of including work in television broadcast
 
-[72](#72).                          Reproduction of part of work in later work                     108
+[72](#72).          Reproduction of part of work in later work
 
-[73](#73).                          Reconstruction of buildings                                             108
+[73](#73).          Reconstruction of buildings
 
     **Division 8—Designs**
 
-[74](#74).                          Corresponding design                                                      109
+[74](#74).          Corresponding design
 
-[75](#75).                          Copyright protection where corresponding design registered  109
+[75](#75).          Copyright protection where corresponding design registered
 
-[76](#76).                          False registration of industrial designs under the _Designs Act 2003_        109
+[76](#76).          False registration of industrial designs under the _Designs Act 2003_
 
-[77](#77).                          Application of artistic works as industrial designs without registration of the designs            110
+[77](#77).          Application of artistic works as industrial designs without registration of the designs
 
-[77A](#77A).                       Certain reproductions of an artistic work do not infringe copyright         112
+[77A](#77A).       Certain reproductions of an artistic work do not infringe copyright
 
     **Division 9—Works of joint authorship**
 
-[78](#78).                          References to all of joint authors                                      114
+[78](#78).          References to all of joint authors
 
-[79](#79).                          References to any one or more of joint authors                114
+[79](#79).          References to any one or more of joint authors
 
-[80](#80).                          References to whichever of joint authors died last           114
+[80](#80).          References to whichever of joint authors died last
 
-[81](#81).                          Works of joint authorship published under pseudonyms 114
+[81](#81).          Works of joint authorship published under pseudonyms
 
-[82](#82).                          Copyright to subsist in joint works without regard to any author who is an unqualified person              115
+[82](#82).          Copyright to subsist in joint works without regard to any author who is an unqualified person
 
-[83](#83).                          Inclusion of joint works in collections for use in places of education      115
+[83](#83).          Inclusion of joint works in collections for use in places of education
 
 **Part IV—Copyright in subject‑matter other than works** 
 
     **Division 1—Preliminary**
 
-[84](#84).                          Definitions                                                                       116
+[84](#84).          Definitions
 
     **Division 2—Nature of copyright in subject‑matter other than works**
 
-[85](#85).                          Nature of copyright in sound recordings                         118
+[85](#85).          Nature of copyright in sound recordings
 
-[86](#86).                          Nature of copyright in cinematograph films                     118
+[86](#86).          Nature of copyright in cinematograph films
 
-[87](#87).                          Nature of copyright in television broadcasts and sound broadcasts         119
+[87](#87).          Nature of copyright in television broadcasts and sound broadcasts
 
-[88](#88).                          Nature of copyright in published editions of works         119
+[88](#88).          Nature of copyright in published editions of works
 
     **Division 3—Subject‑matter, other than works, in which copyright subsists**
 
-[89](#89).                          Sound recordings in which copyright subsists                120
+[89](#89).          Sound recordings in which copyright subsists
 
-[90](#90).                          Cinematograph films in which copyright subsists           120
+[90](#90).          Cinematograph films in which copyright subsists
 
-[91](#91).                          Television broadcasts and sound broadcasts in which copyright subsists                120
+[91](#91).          Television broadcasts and sound broadcasts in which copyright subsists
 
-[92](#92).                          Published editions of works in which copyright subsists 121
+[92](#92).          Published editions of works in which copyright subsists
 
     **Division 4—Duration of copyright in subject‑matter other than works**
 
-[93](#93).                          Duration of copyright in sound recordings                      122
+[93](#93).          Duration of copyright in sound recordings
 
-[94](#94).                          Duration of copyright in cinematograph films                 122
+[94](#94).          Duration of copyright in cinematograph films
 
-[95](#95).                          Duration of copyright in television broadcasts and sound broadcasts      122
+[95](#95).          Duration of copyright in television broadcasts and sound broadcasts
 
-[96](#96).                          Duration of copyright in published editions of works     123
+[96](#96).          Duration of copyright in published editions of works
 
     **Division 5—Ownership of copyright in subject‑matter other than works** 
 
         **Subdivision A—Ownership of copyright in subject‑matter other than works**
 
-[97](#97).                          Ownership of copyright in sound recordings                  124
+[97](#97).          Ownership of copyright in sound recordings
 
-[98](#98).                          Ownership of copyright in cinematograph films              124
+[98](#98).          Ownership of copyright in cinematograph films
 
-[99](#99).                          Ownership of copyright in television broadcasts and sound broadcasts  125
+[99](#99).          Ownership of copyright in television broadcasts and sound broadcasts
 
-[100](#100).                        Ownership of copyright in published editions of works  126
+[100](#100).        Ownership of copyright in published editions of works
 
         **Subdivision B—Specific provisions relating to the ownership of copyright in pre‑commencement sound recordings of live performances**
 
-[100AA](#100AA).                  Application                                                                      126
+[100AA](#100AA).  Application
 
-[100AB](#100AB).                   Definitions                                                                       126
+[100AB](#100AB).  Definitions
 
-[100AC](#100AC).                   Application of sections 100AD and 100AE                    126
+[100AC](#100AC).  Application of sections 100AD and 100AE
 
-[100AD](#100AD).                  Makers of pre‑commencement sound recordings of live performances   127
+[100AD](#100AD).  Makers of pre‑commencement sound recordings of live performances
 
-[100AE](#100AE).                   Ownership of pre‑commencement copyright in sound recordings of live performances          127
+[100AE](#100AE).   Ownership of pre‑commencement copyright in sound recordings of live performances
 
-[100AF](#100AF).                   Former owners may continue to do any act in relation to the copyright   128
+[100AF](#100AF).   Former owners may continue to do any act in relation to the copyright
 
-[100AG](#100AG).                  Actions by new owners of copyright                               129
+[100AG](#100AG).  Actions by new owners of copyright
 
-[100AH](#100AH).                  References to the owner of the copyright in a sound recording                129
+[100AH](#100AH).  References to the owner of the copyright in a sound recording
 
     **Division 6—Infringement of copyright in subject‑matter other than works**
 
-[100A](#100A).                     Interpretation                                                                    131
+[100A](#100A).     Interpretation
 
-[101](#101).                        Infringement by doing acts comprised in copyright         131
+[101](#101).        Infringement by doing acts comprised in copyright
 
-[102](#102).                        Infringement by importation for sale or hire                    132
+[102](#102).        Infringement by importation for sale or hire
 
-[103](#103).                        Infringement by sale and other dealings                           132
+[103](#103).        Infringement by sale and other dealings
 
-[103A](#103A).                     Fair dealing for purpose of criticism or review                133
+[103A](#103A).     Fair dealing for purpose of criticism or review
 
-[103AA](#103AA).                  Fair dealing for purpose of parody or satire                     133
+[103AA](#103AA).  Fair dealing for purpose of parody or satire
 
-[103B](#103B).                      Fair dealing for purpose of reporting news                      133
+[103B](#103B).     Fair dealing for purpose of reporting news
 
-[103C](#103C).                      Fair dealing for purpose of research or study                  134
+[103C](#103C).     Fair dealing for purpose of research or study
 
-[104](#104).                        Acts done for purposes of judicial proceeding                 134
+[104](#104).        Acts done for purposes of judicial proceeding
 
-[104A](#104A).                     Acts done by Parliamentary libraries for members of Parliament             135
+[104A](#104A).     Acts done by Parliamentary libraries for members of Parliament
 
-[104B](#104B).                      Infringing copies made on machines installed in libraries and archives    135
+[104B](#104B).     Infringing copies made on machines installed in libraries and archives
 
-[105](#105).                        Copyright in certain recordings not infringed by causing recordings to be heard in public or broadcast  135
+[105](#105).        Copyright in certain recordings not infringed by causing recordings to be heard in public or broadcast
 
-[106](#106).                        Causing sound recording to be heard at guest house or club 136
+[106](#106).        Causing sound recording to be heard at guest house or club
 
-[107](#107).                        Making of a copy of the sound recording for purpose of broadcasting    136
+[107](#107).        Making of a copy of the sound recording for purpose of broadcasting
 
-[108](#108).                        Copyright in published recording not infringed by public performance if equitable remuneration paid   138
+[108](#108).        Copyright in published recording not infringed by public performance if equitable remuneration paid
 
-[109](#109).                        Copyright in published sound recording not infringed by broadcast in certain circumstances 138
+[109](#109).        Copyright in published sound recording not infringed by broadcast in certain circumstances
 
-[109A](#109A).                     Copying sound recordings for private and domestic use 140
+[109A](#109A).     Copying sound recordings for private and domestic use
 
-[110](#110).                        Provisions relating to cinematograph films                      141
+[110](#110).        Provisions relating to cinematograph films
 
-[110AA](#110AA).                  Copying cinematograph film in different format for private use               141
+[110AA](#110AA).  Copying cinematograph film in different format for private use
 
-[110A](#110A).                     Copying and communicating unpublished sound recordings and cinematograph films in libraries or archives                                                                                         143
+[110A](#110A).     Copying and communicating unpublished sound recordings and cinematograph films in libraries or archives
 
-[110B](#110B).                      Copying and communicating sound recordings and cinematograph films for preservation and other purposes                                                                                         144
+[110B](#110B).     Copying and communicating sound recordings and cinematograph films for preservation and other purposes
 
-[110BA](#110BA).                   Making preservation copies of significant recordings and films in key cultural institutions’ collections  146
+[110BA](#110BA).  Making preservation copies of significant recordings and films in key cultural institutions’ collections
 
-[110C](#110C).                      Making of a copy of a sound recording or cinematograph film for the purpose of simulcasting              148
+[110C](#110C).     Making of a copy of a sound recording or cinematograph film for the purpose of simulcasting
 
-[111](#111).                        Recording broadcasts for replaying at more convenient time 148
+[111](#111).        Recording broadcasts for replaying at more convenient time
 
-[111A](#111A).                     Temporary copy made in the course of communication   149
+[111A](#111A).     Temporary copy made in the course of communication
 
-[111B](#111B).                      Temporary copy of subject‑matter as part of a technical process of use   150
+[111B](#111B).     Temporary copy of subject‑matter as part of a technical process of use
 
-[112](#112).                        Reproductions of editions of work                                  150
+[112](#112).        Reproductions of editions of work
 
-[112A](#112A).                     Importation and sale etc  of books                                   151
+[112A](#112A).     Importation and sale etc  of books
 
-[112AA](#112AA).                  Making preservation copies of significant published editions in key cultural institutions’ collections     154
+[112AA](#112AA).  Making preservation copies of significant published editions in key cultural institutions’ collections
 
-[112B](#112B).                      Reproduction of writing on approved label for containers for chemical product      155
+[112B](#112B).     Reproduction of writing on approved label for containers for chemical product
 
-[112C](#112C).                      Copyright subsisting in accessories etc  to imported articles 155
+[112C](#112C).     Copyright subsisting in accessories etc  to imported articles
 
-[112D](#112D).                     Import of non‑infringing copy of a sound recording does not infringe copyright in the sound recording                                                                                         156
+[112D](#112D).     Import of non‑infringing copy of a sound recording does not infringe copyright in the sound recording
 
-[112DA](#112DA).                  Importation and sale etc  of copies of electronic literary or music items   157
+[112DA](#112DA).  Importation and sale etc  of copies of electronic literary or music items
 
-[112E](#112E).                      Communication by use of certain facilities                       158
+[112E](#112E).      Communication by use of certain facilities
 
     **Division 7—Miscellaneous**
 
-[113](#113).                        Copyrights to subsist independently                                159
+[113](#113).        Copyrights to subsist independently
 
-[113A](#113A).                     Agents may act on behalf of groups of performers          159
+[113A](#113A).     Agents may act on behalf of groups of performers
 
-[113B](#113B).                      Consent to the use of a sound recording of a live performance                159
+[113B](#113B).     Consent to the use of a sound recording of a live performance
 
-[113C](#113C).                      Use of published sound recordings when owners cannot be found etc    160
+[113C](#113C).     Use of published sound recordings when owners cannot be found etc 
 
 **Part V—Remedies and offences** 
 
     **Division 1—Preliminary**
 
-[114](#114).                        Interpretation                                                                    161
+[114](#114).        Interpretation
 
     **Division 2—Actions by owner of copyright**
 
-[115](#115).                        Actions for infringement                                                  162
+[115](#115).        Actions for infringement
 
-[116](#116).                        Rights of owner of copyright in respect of infringing copies 164
+[116](#116).        Rights of owner of copyright in respect of infringing copies
 
-[116AAA](#116AAA).               Compensation for acquisition of property                        165
+[116AAA](#116AAA).                                             Compensation for acquisition of property
 
     **Division 2AA—Limitation on remedies available against carriage service providers** 
 
         **Subdivision A—Preliminary**
 
-[116AA](#116AA).                  Purpose of this Division                                                  167
+[116AA](#116AA).  Purpose of this Division
 
-[116AB](#116AB).                   Definitions                                                                       167
+[116AB](#116AB).  Definitions
 
         **Subdivision B—Relevant activities**
 
-[116AC](#116AC).                   Category A activity                                                          168
+[116AC](#116AC).  Category A activity
 
-[116AD](#116AD).                  Category B activity                                                          168
+[116AD](#116AD).  Category B activity
 
-[116AE](#116AE).                   Category C activity                                                          168
+[116AE](#116AE).   Category C activity
 
-[116AF](#116AF).                   Category D activity                                                          168
+[116AF](#116AF).   Category D activity
 
         **Subdivision C—Limitations on remedies**
 
-[116AG](#116AG).                  Limitations on remedies                                                   169
+[116AG](#116AG).  Limitations on remedies
 
         **Subdivision D—Conditions**
 
-[116AH](#116AH).                  Conditions                                                                       170
+[116AH](#116AH).  Conditions
 
-[116AI](#116AI).                    Evidence of compliance with conditions                          174
+[116AI](#116AI).    Evidence of compliance with conditions
 
         **Subdivision E—Regulations**
 
-[116AJ](#116AJ).                    Regulations                                                                      174
+[116AJ](#116AJ).   Regulations
 
     **Division 2A—Actions in relation to technological protection measures and electronic rights management information** 
 
         **Subdivision A—Technological protection measures**
 
-[116AK](#116AK).                   Definitions                                                                       175
+[116AK](#116AK).  Definitions
 
-[116AL](#116AL).                   Interaction of this Subdivision with Part VAA                175
+[116AL](#116AL).   Interaction of this Subdivision with Part VAA
 
-[116AM](#116AM).                  Geographical application                                                  175
+[116AM](#116AM). Geographical application
 
-[116AN](#116AN).                  Circumventing an access control technological protection measure          175
+[116AN](#116AN).  Circumventing an access control technological protection measure
 
-[116AO](#116AO).                  Manufacturing etc  a circumvention device for a technological protection measure  179
+[116AO](#116AO).  Manufacturing etc  a circumvention device for a technological protection measure
 
-[116AP](#116AP).                   Providing etc  a circumvention service for a technological protection measure        182
+[116AP](#116AP).   Providing etc  a circumvention service for a technological protection measure
 
-[116AQ](#116AQ).                  Remedies in actions under this Subdivision                     185
+[116AQ](#116AQ).  Remedies in actions under this Subdivision
 
         **Subdivision B—Electronic rights management information**
 
-[116B](#116B).                      Removal or alteration of electronic rights management information         186
+[116B](#116B).     Removal or alteration of electronic rights management information
 
-[116C](#116C).                      Distribution to the public etc  of works whose electronic rights management information has been removed or altered                                                                              187
+[116C](#116C).     Distribution to the public etc  of works whose electronic rights management information has been removed or altered
 
-[116CA](#116CA).                   Distribution and importation of electronic rights management information that has been removed or altered                                                                                         188
+[116CA](#116CA).  Distribution and importation of electronic rights management information that has been removed or altered
 
-[116CB](#116CB).                   Exception relating to national security and law enforcement 189
+[116CB](#116CB).   Exception relating to national security and law enforcement
 
-[116D](#116D).                     Remedies in actions under this Subdivision                     189
+[116D](#116D).     Remedies in actions under this Subdivision
 
     **Division 3—Proceedings where copyright is subject to exclusive licence**
 
-[117](#117).                        Interpretation                                                                    190
+[117](#117).        Interpretation
 
-[118](#118).                        Application                                                                      190
+[118](#118).        Application
 
-[119](#119).                        Rights of exclusive licensee                                             190
+[119](#119).        Rights of exclusive licensee
 
-[120](#120).                        Joinder of owner or exclusive licensee as a party            191
+[120](#120).        Joinder of owner or exclusive licensee as a party
 
-[121](#121).                        Defences available against exclusive licensee                  191
+[121](#121).        Defences available against exclusive licensee
 
-[122](#122).                        Assessment of damages where exclusive licence granted 191
+[122](#122).        Assessment of damages where exclusive licence granted
 
-[123](#123).                        Apportionment of profits between owner and exclusive licensee             192
+[123](#123).        Apportionment of profits between owner and exclusive licensee
 
-[124](#124).                        Separate actions in relation to the same infringement       192
+[124](#124).        Separate actions in relation to the same infringement
 
-[125](#125).                        Liability for costs                                                             193
+[125](#125).        Liability for costs
 
     **Division 4—Proof of facts in civil actions**
 
-[126](#126).                        Presumptions as to subsistence and ownership of copyright 194
+[126](#126).        Presumptions as to subsistence and ownership of copyright
 
-[126A](#126A).                     Presumptions relating to subsistence of copyright           194
+[126A](#126A).     Presumptions relating to subsistence of copyright
 
-[126B](#126B).                      Presumptions relating to ownership of copyright            195
+[126B](#126B).     Presumptions relating to ownership of copyright
 
-[127](#127).                        Presumptions in relation to authorship of work               196
+[127](#127).        Presumptions in relation to authorship of work
 
-[128](#128).                        Presumptions in relation to publisher of work                 197
+[128](#128).        Presumptions in relation to publisher of work
 
-[129](#129).                        Presumptions where author has died                               198
+[129](#129).        Presumptions where author has died
 
-[129A](#129A).                     Presumptions relating to computer programs                   198
+[129A](#129A).     Presumptions relating to computer programs
 
-[130](#130).                        Presumptions relating to sound recordings                      199
+[130](#130).        Presumptions relating to sound recordings
 
-[130A](#130A).                     Acts relating to imported copies of sound recordings      200
+[130A](#130A).     Acts relating to imported copies of sound recordings
 
-[130B](#130B).                      Acts relating to imported copies of computer programs   200
+[130B](#130B).     Acts relating to imported copies of computer programs
 
-[130C](#130C).                      Acts relating to imported copies of electronic literary or music items       201
+[130C](#130C).     Acts relating to imported copies of electronic literary or music items
 
-[131](#131).                        Presumptions relating to films                                         201
+[131](#131).        Presumptions relating to films
 
     **Division 4A—Jurisdiction and appeals**
 
-[131A](#131A).                     Exercise of jurisdiction                                                    203
+[131A](#131A).     Exercise of jurisdiction
 
-[131B](#131B).                      Appeals                                                                            203
+[131B](#131B).     Appeals
 
-[131C](#131C).                      Jurisdiction of Federal Court of Australia                        203
+[131C](#131C).     Jurisdiction of Federal Court of Australia
 
-[131D](#131D).                     Jurisdiction of Federal Circuit Court of Australia            203
+[131D](#131D).     Jurisdiction of Federal Magistrates Court
 
     **Division 5—Offences and summary proceedings** 
 
         **Subdivision A—Preliminary**
 
-[132AA](#132AA).                  Definitions                                                                       204
+[132AA](#132AA).  Definitions
 
-[132AB](#132AB).                   Geographical application                                                  204
+[132AB](#132AB).  Geographical application
 
         **Subdivision B—Substantial infringement on a commercial scale**
 
-[132AC](#132AC).                   Commercial‑scale infringement prejudicing copyright owner  205
+[132AC](#132AC).  Commercial‑scale infringement prejudicing copyright owner
 
         **Subdivision C—Infringing copies**
 
-[132AD](#132AD).                  Making infringing copy commercially                             207
+[132AD](#132AD).  Making infringing copy commercially
 
-[132AE](#132AE).                   Selling or hiring out infringing copy                                208
+[132AE](#132AE).   Selling or hiring out infringing copy
 
-[132AF](#132AF).                   Offering infringing copy for sale or hire                          210
+[132AF](#132AF).   Offering infringing copy for sale or hire
 
-[132AG](#132AG).                  Exhibiting infringing copy in public commercially          212
+[132AG](#132AG).  Exhibiting infringing copy in public commercially
 
-[132AH](#132AH).                  Importing infringing copy commercially                          214
+[132AH](#132AH).  Importing infringing copy commercially
 
-[132AI](#132AI).                    Distributing infringing copy                                            216
+[132AI](#132AI).    Distributing infringing copy
 
-[132AJ](#132AJ).                    Possessing infringing copy for commerce                       218
+[132AJ](#132AJ).   Possessing infringing copy for commerce
 
-[132AK](#132AK).                   Aggravated offence—work etc  converted to digital form 220
+[132AK](#132AK).  Aggravated offence—work etc  converted to digital form
 
-[132AL](#132AL).                   Making or possessing device for making infringing copy 221
+[132AL](#132AL).   Making or possessing device for making infringing copy
 
-[132AM](#132AM).                  Advertising supply of infringing copy                             223
+[132AM](#132AM). Advertising supply of infringing copy
 
         **Subdivision D—Airing of works, sound recordings and films**
 
-[132AN](#132AN).                  Causing work to be performed publicly                           223
+[132AN](#132AN).  Causing work to be performed publicly
 
-[132AO](#132AO).                  Causing recording or film to be heard or seen in public   224
+[132AO](#132AO).  Causing recording or film to be heard or seen in public
 
         **Subdivision E—Technological protection measures**
 
-[132APA](#132APA).                Definitions                                                                       225
+132APA Definitions
 
-[132APB](#132APB).                Interaction of this Subdivision with Part VAA                226
+132APB Interaction of this Subdivision with Part VAA
 
-[132APC](#132APC).                Circumventing an access control technological protection measure          226
+132APC Circumventing an access control technological protection measure
 
-[132APD](#132APD).                Manufacturing etc  a circumvention device for a technological protection measure  230
+[132APD Manufacturing etc](#132APD Manufacturing etc). a circumvention device for a technological protection measure
 
-[132APE](#132APE).                 Providing etc  a circumvention service for a technological protection measure        234
+[132APE Providing etc](#132APE Providing etc). a circumvention service for a technological protection measure
 
         **Subdivision F—Electronic rights management information**
 
-[132AQ](#132AQ).                  Removing or altering electronic rights management information              238
+[132AQ](#132AQ).  Removing or altering electronic rights management information
 
-[132AR](#132AR).                   Distributing, importing or communicating copies after removal or alteration of electronic rights management information                                                                      240
+[132AR](#132AR).  Distributing, importing or communicating copies after removal or alteration of electronic rights management information
 
-[132AS](#132AS).                   Distributing or importing electronic rights management information       242
+[132AS](#132AS).   Distributing or importing electronic rights management information
 
-[132AT](#132AT).                   Defences                                                                          245
+[132AT](#132AT).   Defences
 
         **Subdivision G—Evidence**
 
-[132AU](#132AU).                  Prosecution to prove profit                                              246
+[132AU](#132AU).  Prosecution to prove profit
 
-[132A](#132A).                     Presumptions in relation to subsistence and ownership of copyright       246
+[132A](#132A).     Presumptions in relation to subsistence and ownership of copyright
 
-[132AAA](#132AAA).               Presumptions relating to computer programs                   247
+[132AAA](#132AAA).                                        Presumptions relating to computer programs
 
-[132B](#132B).                      Presumptions relating to sound recordings                      248
+[132B](#132B).     Presumptions relating to sound recordings
 
-[132C](#132C).                      Presumptions relating to films                                         249
+[132C](#132C).     Presumptions relating to films
 
         **Subdivision H—Extra court orders**
 
-[133](#133).                        Destruction or delivery up of infringing copies etc          250
+[133](#133).        Destruction or delivery up of infringing copies etc 
 
         **Subdivision I—Procedure and jurisdiction**
 
-[133A](#133A).                     Courts in which offences may be prosecuted                   251
+[133A](#133A).     Courts in which offences may be prosecuted
 
-[133B](#133B).                      Infringement notices                                                        251
+[133B](#133B).     Infringement notices
 
     **Division 6—Miscellaneous**
 
-[134](#134).                        Limitation of actions in respect of infringement of copyright 252
+[134](#134).        Limitation of actions in respect of infringement of copyright
 
-[134A](#134A).                     Affidavit evidence                                                            252
+[134A](#134A).     Affidavit evidence
 
     **Division 7—Seizure of imported copies of copyright material**
 
-[134B](#134B).                      Interpretation                                                                    254
+[134B](#134B).     Interpretation
 
-[135](#135).                        Restriction of importation of copies of works etc            255
+[135](#135).        Restriction of importation of copies of works etc 
 
-[135AA](#135AA).                  Decision not to seize unless expenses are covered           257
+[135AA](#135AA).  Decision not to seize unless expenses are covered
 
-[135AB](#135AB).                   Secure storage of seized copies                                        257
+[135AB](#135AB).  Secure storage of seized copies
 
-[135AC](#135AC).                   Notice of seizure                                                              257
+[135AC](#135AC).  Notice of seizure
 
-[135AD](#135AD).                  Inspection, release etc  of seized copies                           259
+[135AD](#135AD).  Inspection, release etc  of seized copies
 
-[135AE](#135AE).                   Forfeiture of seized copies by consent                             260
+[135AE](#135AE).   Forfeiture of seized copies by consent
 
-[135AF](#135AF).                   Compulsory release of seized copies to the importer       260
+[135AF](#135AF).   Compulsory release of seized copies to the importer
 
-[135AG](#135AG).                  Provision relating to actions for infringement of copyright 261
+[135AG](#135AG).  Provision relating to actions for infringement of copyright
 
-[135AH](#135AH).                  Retention of control of seized copies                               262
+[135AH](#135AH).  Retention of control of seized copies
 
-[135AI](#135AI).                    Disposal of seized copies ordered to be forfeited             262
+[135AI](#135AI).    Disposal of seized copies ordered to be forfeited
 
-[135AJ](#135AJ).                    Failure to meet Commonwealth’s expenses of seizure     262
+[135AJ](#135AJ).   Failure to meet Commonwealth’s expenses of seizure
 
-[135AK](#135AK).                   Immunity of the Commonwealth                                     263
+[135AK](#135AK).  Immunity of the Commonwealth
 
 **Part VAA—Unauthorised access to encoded broadcasts** 
 
     **Division 1—Preliminary**
 
-[135AL](#135AL).                   Definitions                                                                       264
+[135AL](#135AL).   Definitions
 
-[135AM](#135AM).                  Counterclaim                                                                    265
+[135AM](#135AM). Counterclaim
 
-[135AN](#135AN).                  This Part does not apply to law enforcement activity etc  265
+[135AN](#135AN).  This Part does not apply to law enforcement activity etc 
 
     **Division 2—Actions** 
 
         **Subdivision A—Actions relating to unauthorised decoders**
 
-[135AOA](#135AOA).               Making or dealing with unauthorised decoder                 266
+[135AOA](#135AOA).                                      Making or dealing with unauthorised decoder
 
         **Subdivision B—Actions relating to decoders for subscription broadcasts**
 
-[135AOB](#135AOB).                Making decoder available online                                      267
+[135AOB](#135AOB).                                                           Making decoder available online
 
         **Subdivision C—Actions for unauthorised access to encoded broadcasts**
 
-[135AOC](#135AOC).                Causing unauthorised access                                           268
+[135AOC](#135AOC).                                                                 Causing unauthorised access
 
-[135AOD](#135AOD).               Unauthorised commercial use of subscription broadcast 269
+[135AOD](#135AOD).                       Unauthorised commercial use of subscription broadcast
 
-        **Subdivision D—Court orders**
+        **Subdivision D—Court orders** 
 
-[135AOE](#135AOE).                Relief                                                                               270
+135AOE Relief
 
-[135AOF](#135AOF).                Destruction of decoder                                                     270
+135AOF Destruction of decoder
 
         **Subdivision E—Jurisdiction and appeals**
 
-[135AP](#135AP).                   Exercise of jurisdiction                                                    270
+[135AP](#135AP).   Exercise of jurisdiction
 
-[135AQ](#135AQ).                  Appeals                                                                            270
+[135AQ](#135AQ).  Appeals
 
-[135AR](#135AR).                   Jurisdiction of Federal Court of Australia                        271
+[135AR](#135AR).  Jurisdiction of Federal Court of Australia
 
-[135AS](#135AS).                   Jurisdiction of Federal Circuit Court of Australia            271
+[135AS](#135AS).   Jurisdiction of Federal Magistrates Court
 
     **Division 3—Offences** 
 
         **Subdivision A—Offences**
 
-[135ASA](#135ASA).                Making unauthorised decoder                                          272
+135ASA Making unauthorised decoder
 
-[135ASB](#135ASB).                Selling or hiring unauthorised decoder                            272
+135ASB Selling or hiring unauthorised decoder
 
-[135ASC](#135ASC).                Offering unauthorised decoder for sale or hire                272
+135ASC Offering unauthorised decoder for sale or hire
 
-[135ASD](#135ASD).                Commercially exhibiting unauthorised decoder in public 273
+135ASD Commercially exhibiting unauthorised decoder in public
 
-[135ASE](#135ASE).                 Importing unauthorised decoder commercially                274
+135ASE Importing unauthorised decoder commercially
 
-[135ASF](#135ASF).                 Distributing unauthorised decoder                                   274
+135ASF Distributing unauthorised decoder
 
-[135ASG](#135ASG).                Making unauthorised decoder available online                275
+135ASG Making unauthorised decoder available online
 
-[135ASH](#135ASH).                Making decoder available online for subscription broadcast 275
+135ASH Making decoder available online for subscription broadcast
 
-[135ASI](#135ASI).                  Unauthorised access to subscription broadcast etc           276
+[135ASI](#135ASI). Unauthorised access to subscription broadcast etc 
 
-[135ASJ](#135ASJ).                 Causing unauthorised access to encoded broadcast etc    277
+[135ASJ](#135ASJ). Causing unauthorised access to encoded broadcast etc 
 
-        **Subdivision B—Prosecutions**
+        **Subdivision B—Prosecutions** 
 
-[135ATA](#135ATA).                Courts in which offences may be prosecuted                   278
+135ATA Courts in which offences may be prosecuted
 
         **Subdivision C—Further orders by court**
 
-[135AU](#135AU).                  Destruction etc  of unauthorised decoders                       279
+[135AU](#135AU).  Destruction etc  of unauthorised decoders
 
 **Part VA—Copying and communication of broadcasts by educational and other institutions** 
 
     **Division 1—Preliminary**
 
-[135A](#135A).                     Interpretation                                                                    280
+[135A](#135A).     Interpretation
 
-[135B](#135B).                      Copies and communications of broadcasts                      281
+[135B](#135B).     Copies and communications of broadcasts
 
-[135C](#135C).                      Extended operation of this Part                                        281
+[135C](#135C).     Extended operation of this Part
 
-[135D](#135D).                     Operation of collecting society rules                                282
+[135D](#135D).     Operation of collecting society rules
 
     **Division 2—Copying and communication of broadcasts**
 
-[135E](#135E).                      Copying and communication of broadcasts by educational institutions etc              283
+[135E](#135E).      Copying and communication of broadcasts by educational institutions etc 
 
-[135F](#135F).                      Making and communication of preview copies                284
+[135F](#135F).      Making and communication of preview copies
 
-[135G](#135G).                     Remuneration notices                                                       286
+[135G](#135G).     Remuneration notices
 
-[135H](#135H).                     Records notices                                                                287
+[135H](#135H).     Records notices
 
-[135J](#135J).                       Sampling notices                                                              288
+[135J](#135J).      Sampling notices
 
-[135JAA](#135JAA).                 Determination of questions relating to this Division or the collecting society’s rules               291
+135JAA Determination of questions relating to this Division or the collecting society’s rules
 
-[135JA](#135JA).                    Agreed notice                                                                   291
+[135JA](#135JA).   Agreed notice
 
-[135K](#135K).                      Marking and record keeping requirements                       293
+[135K](#135K).     Marking and record keeping requirements
 
-[135KA](#135KA).                   Notice requirements in respect of communications          294
+[135KA](#135KA).  Notice requirements in respect of communications
 
-[135L](#135L).                      Inspection of records etc                                                  295
+[135L](#135L).      Inspection of records etc 
 
-[135M](#135M).                     Revocation of remuneration notice                                   296
+[135M](#135M).    Revocation of remuneration notice
 
-[135N](#135N).                     Request for payment of equitable remuneration               296
+[135N](#135N).     Request for payment of equitable remuneration
 
     **Division 3—The collecting society**
 
-[135P](#135P).                      Declaration of the collecting society                                 298
+[135P](#135P).      Declaration of the collecting society
 
-[135Q](#135Q).                     Revocation of declaration                                                 299
+[135Q](#135Q).     Revocation of declaration
 
-[135R](#135R).                      Annual report and accounts                                             300
+[135R](#135R).     Annual report and accounts
 
-[135S](#135S).                      Amendment of rules                                                        300
+[135S](#135S).      Amendment of rules
 
-[135SA](#135SA).                   Applying to Tribunal for review of distribution arrangement   301
+[135SA](#135SA).   Applying to Tribunal for review of distribution arrangement
 
     **Division 4—Interim copying**
 
-[135T](#135T).                      Appointment of notice holder                                          302
+[135T](#135T).      Appointment of notice holder
 
-[135U](#135U).                     Copying before declaration of collecting society              302
+[135U](#135U).     Copying before declaration of collecting society
 
-[135V](#135V).                     Preview copies                                                                 303
+[135V](#135V).     Preview copies
 
-[135W](#135W).                     Notices by administering bodies                                      303
+[135W](#135W).    Notices by administering bodies
 
-[135X](#135X).                     Marking and record keeping requirements                       304
+[135X](#135X).     Marking and record keeping requirements
 
-[135Y](#135Y).                     Effect of declaration of collecting society                         304
+[135Y](#135Y).     Effect of declaration of collecting society
 
     **Division 5—Miscellaneous**
 
-[135Z](#135Z).                      Relevant right holder may authorise copying etc              305
+[135Z](#135Z).      Relevant right holder may authorise copying etc 
 
-[135ZA](#135ZA).                   Copyright not to vest in copier                                         305
+[135ZA](#135ZA).   Copyright not to vest in copier
 
 **Part VB—Reproducing and communicating works etc. by educational and other institutions** 
 
     **Division 1—Preliminary**
 
-[135ZB](#135ZB).                   Interpretation                                                                    306
+[135ZB](#135ZB).   Interpretation
 
-[135ZC](#135ZC).                   Eligible items and photographic versions                         307
+[135ZC](#135ZC).   Eligible items and photographic versions
 
-[135ZE](#135ZE).                    Part does not apply to computer programs                       308
+[135ZE](#135ZE).   Part does not apply to computer programs
 
-[135ZF](#135ZF).                    Operation of collecting society rules                                308
+[135ZF](#135ZF).   Operation of collecting society rules
 
-[135ZFA](#135ZFA).                 Licensed communications                                                308
+135ZFA Licensed communications
 
     **Division 2—Reproduction by educational institutions of works that are in hardcopy form**
 
-[135ZGA](#135ZGA).                Application of Division                                                   309
+135ZGA Application of Division
 
-[135ZG](#135ZG).                   Multiple reproduction of insubstantial parts of works that are in hardcopy form     309
+[135ZG](#135ZG).   Multiple reproduction of insubstantial parts of works that are in hardcopy form
 
-[135ZH](#135ZH).                   Copying of printed published editions by educational institutions           310
+[135ZH](#135ZH).   Copying of printed published editions by educational institutions
 
-[135ZJ](#135ZJ).                    Multiple reproduction of printed periodical articles by educational institutions        310
+[135ZJ](#135ZJ).    Multiple reproduction of printed periodical articles by educational institutions
 
-[135ZK](#135ZK).                   Multiple reproduction of works published in printed anthologies            311
+[135ZK](#135ZK).   Multiple reproduction of works published in printed anthologies
 
-[135ZL](#135ZL).                    Multiple reproduction of works that are in hardcopy form by educational institutions             311
+[135ZL](#135ZL).   Multiple reproduction of works that are in hardcopy form by educational institutions
 
-[135ZM](#135ZM).                  Application of Division to certain illustrations that are in hardcopy form                312
+[135ZM](#135ZM).  Application of Division to certain illustrations that are in hardcopy form
 
     **Division 2A—Reproduction and communication of works that are in electronic form**
 
-[135ZMA](#135ZMA).               Application of Division                                                   314
+[135ZMA](#135ZMA).                                                                         Application of Division
 
-[135ZMB](#135ZMB).                Multiple reproduction and communication of insubstantial parts of works that are in electronic form     314
+135ZMB Multiple reproduction and communication of insubstantial parts of works that are in electronic form
 
-[135ZMC](#135ZMC).                Multiple reproduction and communication of periodical articles that are in electronic form by education institutions                                                                       316
+135ZMC Multiple reproduction and communication of periodical articles that are in electronic form by education institutions
 
-[135ZMD](#135ZMD).               Multiple reproduction and communication of works that are in electronic form by educational institutions                                                                                         316
+135ZMD Multiple reproduction and communication of works that are in electronic form by educational institutions
 
-[135ZMDA](#135ZMDA).            Reproduction and communication of works from electronic anthologies by educational institutions       317
+135ZMDA Reproduction and communication of works from 
+ electronic anthologies by educational institutions
 
-[135ZME](#135ZME).                Application of Division to certain illustrations in electronic form            318
+135ZME Application of Division to certain illustrations in electronic form
 
     **Division 3—Reproduction and communication of works by institutions assisting persons with a print disability**
 
-[135ZN](#135ZN).                   Copying published editions by institutions assisting persons with a print disability                320
+[135ZN](#135ZN).   Copying published editions by institutions assisting persons with a print disability
 
-[135ZP](#135ZP).                    Multiple reproduction and communication of works by institutions assisting persons with a print disability                                                                                         320
+[135ZP](#135ZP).   Multiple reproduction and communication of works by institutions assisting persons with a print disability
 
-[135ZQ](#135ZQ).                   Making of relevant reproductions and relevant communications by institutions assisting persons with a print disability                                                                          322
+[135ZQ](#135ZQ).   Making of relevant reproductions and relevant communications by institutions assisting persons with a print disability
 
     **Division 4—Reproduction and communication of works etc. by institutions assisting persons with an intellectual disability**
 
-[135ZR](#135ZR).                   Copying of published editions by institutions assisting persons with an intellectual disability                325
+[135ZR](#135ZR).   Copying of published editions by institutions assisting persons with an intellectual disability
 
-[135ZS](#135ZS).                    Copying and communication of eligible items by institutions assisting persons with an intellectual disability                                                                                         325
+[135ZS](#135ZS).   Copying and communication of eligible items by institutions assisting persons with an intellectual disability
 
-[135ZT](#135ZT).                    Making of copies etc  for use in making copies or communications for a person with an intellectual disability                                                                                         326
+[135ZT](#135ZT).   Making of copies etc  for use in making copies or communications for a person with an intellectual disability
 
     **Division 5—Equitable remuneration**
 
-[135ZU](#135ZU).                   Remuneration notices                                                       328
+[135ZU](#135ZU).   Remuneration notices
 
-[135ZV](#135ZV).                   Records notices                                                                328
+[135ZV](#135ZV).   Records notices
 
-[135ZW](#135ZW).                  Sampling notices                                                              329
+[135ZW](#135ZW).  Sampling notices
 
-[135ZWAA](#135ZWAA).            Determination of questions relating to this Part or a collecting society’s rules         330
+135ZWAA Determination of questions relating to this Part 
+ or a collecting society’s rules
 
-[135ZWA](#135ZWA).               Electronic use notices                                                       331
+[135ZWA](#135ZWA).                                                                            Electronic use notices
 
-[135ZX](#135ZX).                   Records notices and sampling notices: marking and record‑keeping requirements  333
+[135ZX](#135ZX).   Records notices and sampling notices: marking and record‑keeping requirements
 
-[135ZXA](#135ZXA).                Electronic use notices: notice requirements etc                 334
+[135ZXA Electronic use notices: notice requirements etc](#135ZXA Electronic use notices: notice requirements etc).
 
-[135ZY](#135ZY).                   Inspection of records etc                                                  335
+[135ZY](#135ZY).   Inspection of records etc 
 
-[135ZZ](#135ZZ).                    Revocation of remuneration notice                                   336
+[135ZZ](#135ZZ).   Revocation of remuneration notice
 
-[135ZZA](#135ZZA).                 Request for payment of equitable remuneration               336
+135ZZA Request for payment of equitable remuneration
 
     **Division 6—Collecting societies**
 
-[135ZZB](#135ZZB).                 Collecting societies                                                          338
+[135ZZB](#135ZZB). Collecting societies
 
-[135ZZC](#135ZZC).                 Revocation of declaration                                                 340
+[135ZZC](#135ZZC). Revocation of declaration
 
-[135ZZD](#135ZZD).                 Annual report and accounts                                             340
+135ZZD Annual report and accounts
 
-[135ZZE](#135ZZE).                 Amendment of rules                                                        341
+[135ZZE](#135ZZE). Amendment of rules
 
-[135ZZEA](#135ZZEA).              Applying to Tribunal for review of distribution arrangement   341
+135ZZEA Applying to Tribunal for review of distribution 
+ arrangement
 
     **Division 7—Miscellaneous**
 
-[135ZZF](#135ZZF).                 Rights of copyright owners                                             342
+[135ZZF](#135ZZF). Rights of copyright owners
 
-[135ZZG](#135ZZG).                 Copyright not to vest in copier                                         342
+135ZZG Copyright not to vest in copier
 
-[135ZZH](#135ZZH).                 Unauthorised use of copies                                              342
+135ZZH Unauthorised use of copies
 
 **Part VC—Retransmission of free‑to‑air broadcasts** 
 
     **Division 1—Preliminary**
 
-[135ZZI](#135ZZI).                  Definitions                                                                       344
+[135ZZI](#135ZZI).  Definitions
 
-[135ZZJ](#135ZZJ).                  Operation of collecting society rules                                345
+[135ZZJ](#135ZZJ).  Operation of collecting society rules
 
-[135ZZJA](#135ZZJA).               Application of Part                                                           345
+135ZZJA Application of Part
 
     **Division 2—Retransmission of free‑to‑air broadcasts**
 
-[135ZZK](#135ZZK).                 Retransmission of free‑to‑air broadcasts                          346
+[135ZZK](#135ZZK). Retransmission of free‑to‑air broadcasts
 
-[135ZZL](#135ZZL).                 Remuneration notices                                                       346
+[135ZZL](#135ZZL). Remuneration notices
 
-[135ZZM](#135ZZM).                Amount of equitable remuneration                                   347
+135ZZM Amount of equitable remuneration
 
-[135ZZN](#135ZZN).                 Record system                                                                 347
+135ZZN Record system
 
-[135ZZP](#135ZZP).                 Inspection of records etc                                                  348
+[135ZZP](#135ZZP). Inspection of records etc 
 
-[135ZZQ](#135ZZQ).                 Identity cards                                                                   349
+135ZZQ Identity cards
 
-[135ZZR](#135ZZR).                 Revocation of remuneration notice                                   349
+[135ZZR](#135ZZR). Revocation of remuneration notice
 
-[135ZZS](#135ZZS).                 Request for payment of equitable remuneration               350
+[135ZZS](#135ZZS). Request for payment of equitable remuneration
 
     **Division 3—Collecting societies**
 
-[135ZZT](#135ZZT).                 Collecting societies                                                          351
+[135ZZT](#135ZZT). Collecting societies
 
-[135ZZU](#135ZZU).                 Revocation of declaration                                                 353
+135ZZU Revocation of declaration
 
-[135ZZV](#135ZZV).                 Annual report and accounts                                             353
+135ZZV Annual report and accounts
 
-[135ZZW](#135ZZW).                Amendment of rules                                                        354
+135ZZW Amendment of rules
 
-[135ZZWA](#135ZZWA).             Applying to Tribunal for review of distribution arrangement   354
+135ZZWA Applying to Tribunal for review of distribution arrangement
 
     **Division 4—Interim retransmissions**
 
-[135ZZX](#135ZZX).                 Appointment of notice holder                                          355
+135ZZX Appointment of notice holder
 
-[135ZZY](#135ZZY).                 Retransmitting before declaration of collecting society    355
+135ZZY Retransmitting before declaration of collecting society
 
-[135ZZZ](#135ZZZ).                 Notices by retransmitters                                                 355
+[135ZZZ](#135ZZZ). Notices by retransmitters
 
-[135ZZZA](#135ZZZA).              Record keeping requirements                                           356
+135ZZZA Record keeping requirements
 
-[135ZZZB](#135ZZZB).               Effect of declaration of collecting society                         356
+135ZZZB Effect of declaration of collecting society
 
-    **Division 5—Miscellaneous**
+    **Division 5—Miscellaneous** 
 
-[135ZZZC](#135ZZZC).               Relevant copyright owner may authorise retransmitting  358
+135ZZZC Relevant copyright owner may authorise retransmitting
 
-[135ZZZD](#135ZZZD).              Copyright not to vest under this Part                               358
+135ZZZD Copyright not to vest under this Part
 
-[135ZZZE](#135ZZZE).               Licence to retransmit does not authorise copyright infringements            358
+135ZZZE Licence to retransmit does not authorise copyright infringements
 
 **Part VD—Re‑broadcasts by satellite BSA licensees** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary** 
 
-[135ZZZF](#135ZZZF).               Definitions                                                                       359
+135ZZZF Definitions
 
-[135ZZZG](#135ZZZG).              Eligible program and original broadcaster                        360
+135ZZZG Eligible program and original broadcaster
 
-[135ZZZH](#135ZZZH).              Operation of collecting society rules                                360
+135ZZZH Operation of collecting society rules
 
     **Division 2—Re‑broadcasts by satellite BSA licensees**
 
-[135ZZZI](#135ZZZI).                Re‑broadcasts by satellite BSA licensees                         361
+135ZZZI Re‑broadcasts by satellite BSA licensees
 
-[135ZZZJ](#135ZZZJ).                Remuneration notices                                                       363
+[135ZZZJ](#135ZZZJ).                                                                            Remuneration notices
 
-[135ZZZK](#135ZZZK).               Amount of equitable remuneration                                   364
+135ZZZK Amount of equitable remuneration
 
-[135ZZZL](#135ZZZL).               Record system                                                                 364
+135ZZZL Record system
 
-[135ZZZM](#135ZZZM).              Revocation of remuneration notice                                   365
+135ZZZM Revocation of remuneration notice
 
-[135ZZZN](#135ZZZN).              Request for payment of equitable remuneration               365
+135ZZZN Request for payment of equitable remuneration
 
-    **Division 3—Collecting societies**
+    **Division 3—Collecting societies** 
 
-[135ZZZO](#135ZZZO).              Collecting societies                                                          366
+135ZZZO Collecting societies
 
-[135ZZZP](#135ZZZP).               Revocation of declaration                                                 368
+135ZZZP Revocation of declaration
 
-[135ZZZQ](#135ZZZQ).              Annual report and accounts                                             368
+135ZZZQ Annual report and accounts
 
-[135ZZZR](#135ZZZR).               Amendment of rules                                                        369
+135ZZZR Amendment of rules
 
-[135ZZZS](#135ZZZS).               Applying to Tribunal for review of distribution arrangement   370
+135ZZZS Applying to Tribunal for review of distribution arrangement
 
     **Division 4—Interim re‑broadcasts**
 
-[135ZZZT](#135ZZZT).               Appointment of notice holder                                          371
+135ZZZT Appointment of notice holder
 
-[135ZZZU](#135ZZZU).              Re‑broadcast before declaration of collecting society       371
+135ZZZU Re‑broadcast before declaration of collecting society
 
-[135ZZZV](#135ZZZV).              Notices by satellite BSA licensees                                   371
+135ZZZV Notices by satellite BSA licensees
 
-[135ZZZW](#135ZZZW).              Record keeping requirements                                           372
+[135ZZZW Record keeping requirements](#135ZZZW Record keeping requirements).                                                       369
 
-[135ZZZX](#135ZZZX).              Effect of declaration of collecting society                         372
+135ZZZX Effect of declaration of collecting society
 
     **Division 5—Miscellaneous**
 
-[135ZZZY](#135ZZZY).              Relevant copyright owner may authorise re‑broadcast     374
+135ZZZY Relevant copyright owner may authorise re‑broadcast
 
-[135ZZZZ](#135ZZZZ).               Copyright not to vest under this Part                               374
+135ZZZZ Copyright not to vest under this Part
 
-[135ZZZZA](#135ZZZZA).            Licence to re‑broadcast does not authorise copyright infringements        374
+135ZZZZA  Licence to re‑broadcast does not authorise 
+ copyright infringements
 
 **Part VI—Copyright Tribunal of Australia** 
 
     **Division 1—Preliminary**
 
-[136](#136).                        Interpretation                                                                    375
+[136](#136).        Interpretation
 
-[137](#137).                        Cases to which licence schemes apply                             377
+[137](#137).        Cases to which licence schemes apply
 
     **Division 2—Constitution of the Tribunal**
 
-[138](#138).                        Constitution of Tribunal                                                   378
+[138](#138).        Constitution of Tribunal
 
-[139](#139).                        Appointment of members of Tribunal                              378
+[139](#139).        Appointment of members of Tribunal
 
-[140](#140).                        Qualifications of members                                               378
+[140](#140).        Qualifications of members
 
-[141](#141).                        Tenure of office                                                               379
+[141](#141).        Tenure of office
 
-[141A](#141A).                     Seniority of Deputy Presidents                                        379
+[141A](#141A).     Seniority of Deputy Presidents
 
-[142](#142).                        Acting President                                                              379
+[142](#142).        Acting President
 
-[143](#143).                        Remuneration and allowances                                          380
+[143](#143).        Remuneration and allowances
 
-[144](#144).                        Oath or affirmation of office                                            380
+[144](#144).        Oath or affirmation of office
 
-[144A](#144A).                     Disclosure of interests by members                                 380
+[144A](#144A).     Disclosure of interests by members
 
-[144B](#144B).                      Removal from office for failure to disclose interest         381
+[144B](#144B).     Removal from office for failure to disclose interest
 
-[145](#145).                        Resignation                                                                      381
+[145](#145).        Resignation
 
-[146](#146).                        Sittings of the Tribunal                                                    381
+[146](#146).        Sittings of the Tribunal
 
-[147](#147).                        President to arrange business of Tribunal                        382
+[147](#147).        President to arrange business of Tribunal
 
     **Division 3—Applications and references to the Tribunal** 
 
         **Subdivision A—Preliminary**
 
-[148](#148).                        Interpretation                                                                    383
+[148](#148).        Interpretation
 
         **Subdivision B—Applications relating to Parts III and IV**
 
-[149](#149).                        Applications to Tribunal for determination of remuneration payable for making recording or film of a work                                                                                         383
+[149](#149).        Applications to Tribunal for determination of remuneration payable for making recording or film of a work
 
-[149A](#149A).                     Applications to Tribunal under section 47A                    383
+[149A](#149A).     Applications to Tribunal under section 47A
 
-[150](#150).                        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording for making of a copy of the sound recording                         384
+[150](#150).        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording for making of a copy of the sound recording
 
-[151](#151).                        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording in respect of public playing of the recording                        384
+[151](#151).        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording in respect of public playing of the recording
 
-[152](#152).                        Applications to Tribunal for determination of amounts payable for broadcasting published sound recordings                                                                                         385
+[152](#152).        Applications to Tribunal for determination of amounts payable for broadcasting published sound recordings
 
-[152A](#152A).                     Applications to Tribunal for determination of amount of royalty payable for recording musical works   391
+[152A](#152A).     Applications to Tribunal for determination of amount of royalty payable for recording musical works
 
-[152B](#152B).                      Applications to Tribunal for determination of manner of paying royalty  392
+[152B](#152B).     Applications to Tribunal for determination of manner of paying royalty
 
-[153](#153).                        Applications to Tribunal for apportionment of royalty in respect of a record           393
+[153](#153).        Applications to Tribunal for apportionment of royalty in respect of a record
 
         **Subdivision C—Applications and references relating to Part VA**
 
-[153A](#153A).                     Applications to Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1)    394
+[153A](#153A).     Applications to Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1)
 
-[153B](#153B).                      Applications to Tribunal under subsection 135J(3)         395
+[153B](#153B).     Applications to Tribunal under subsection 135J(3)
 
-[153BAAA](#153BAAA).             Application to the Tribunal under subsection 135JAA(2) 395
+153BAAA Application to the Tribunal under subsection 135JAA(2)
 
-[153BA](#153BA).                   Application to the Tribunal under subsection 135JA(3)  395
+[153BA](#153BA).  Application to the Tribunal under subsection 135JA(3)
 
-[153BAA](#153BAA).                Application to the Tribunal under subsection 135K(2A) 396
+[153BAA](#153BAA).                       Application to the Tribunal under subsection 135K(2A)
 
-[153BAB](#153BAB).                References relating to declaration of collecting society    396
+153BAB References relating to declaration of collecting society
 
-[153BAC](#153BAC).                References relating to revocation of declaration of collecting society       397
+153BAC References relating to revocation of declaration of collecting society
 
-[153BAD](#153BAD).                Review of collecting society’s distribution arrangement  398
+[153BAD](#153BAD).                        Review of collecting society’s distribution arrangement
 
         **Subdivision D—Applications and references relating to Part VB**
 
-[153BB](#153BB).                   Application to the Tribunal under subsection 135ZME(3) 399
+[153BB](#153BB).   Application to the Tribunal under subsection 135ZME(3)
 
-[153C](#153C).                      Applications to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1)  399
+[153C](#153C).     Applications to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1)
 
-[153D](#153D).                     Applications to Tribunal under subsection 135ZW(3)     400
+[153D](#153D).     Applications to Tribunal under subsection 135ZW(3)
 
-[153DAA](#153DAA).               Application to the Tribunal under subsection 135ZWAA(2) 400
+[153DAA](#153DAA).                Application to the Tribunal under subsection 135ZWAA(2)
 
-[153DA](#153DA).                  Applications to the Tribunal under subsection 135ZWA(2) 401
+[153DA](#153DA).  Applications to the Tribunal under subsection 135ZWA(2)
 
-[153DB](#153DB).                   Application to the Tribunal under subsection 135ZX(2A) 401
+[153DB](#153DB).  Application to the Tribunal under subsection 135ZX(2A)
 
-[153DC](#153DC).                   References relating to declaration of collecting society    402
+[153DC](#153DC).  References relating to declaration of collecting society
 
-[153DD](#153DD).                  References relating to revocation of declaration of collecting society       402
+[153DD](#153DD).  References relating to revocation of declaration of collecting society
 
-[153DE](#153DE).                   Review of collecting society’s distribution arrangement  403
+[153DE](#153DE).   Review of collecting society’s distribution arrangement
 
         **Subdivision E—Applications relating to Part VII**
 
-[153E](#153E).                      Applications to Tribunal under subsection 183(5)           404
+[153E](#153E).      Applications to Tribunal under subsection 183(5)
 
-[153F](#153F).                      Applications to Tribunal to declare collecting society for government copies          404
+[153F](#153F).      Applications to Tribunal to declare collecting society for government copies
 
-[153G](#153G).                     Applications to Tribunal to revoke a declaration of a collecting society   406
+[153G](#153G).     Applications to Tribunal to revoke a declaration of a collecting society
 
-[153H](#153H).                     Time limit for deciding applications under section 153F or 153G            407
+[153H](#153H).     Time limit for deciding applications under section 153F or 153G
 
-[153J](#153J).                       Amendment and revocation of a declaration on the declaration of another collecting society   407
+[153J](#153J).      Amendment and revocation of a declaration on the declaration of another collecting society
 
-[153K](#153K).                      Applications to Tribunal for method of working out payment for government copies             408
+[153K](#153K).     Applications to Tribunal for method of working out payment for government copies
 
-[153KA](#153KA).                   Review of collecting society’s distribution arrangement  409
+[153KA](#153KA).  Review of collecting society’s distribution arrangement
 
         **Subdivision F—Applications relating to declarations of institutions**
 
-[153L](#153L).                      Applications to Tribunal for review of declarations of certain educational institutions             410
+[153L](#153L).      Applications to Tribunal for review of declarations of certain educational institutions
 
         **Subdivision G—Applications and references relating to Part VC**
 
-[153M](#153M).                     Applications to the Tribunal under subsection 135ZZM(1) 411
+[153M](#153M).    Applications to the Tribunal under subsection 135ZZM(1)
 
-[153N](#153N).                     Applications to Tribunal under subsection 135ZZN(3)   411
+[153N](#153N).     Applications to Tribunal under subsection 135ZZN(3)
 
-[153P](#153P).                      References relating to declaration of collecting society    412
+[153P](#153P).      References relating to declaration of collecting society
 
-[153Q](#153Q).                     References relating to revocation of declaration of collecting society       412
+[153Q](#153Q).     References relating to revocation of declaration of collecting society
 
-[153R](#153R).                      Review of collecting society’s distribution arrangement  413
+[153R](#153R).     Review of collecting society’s distribution arrangement
 
         **Subdivision GA—Applications and references relating to Part VD**
 
-[153RA](#153RA).                   Application to the Tribunal to determine amount payable to owner of copyright in a broadcast               414
+[153RA](#153RA).  Application to the Tribunal to determine amount payable to owner of copyright in a broadcast
 
-[153S](#153S).                      Applications to the Tribunal under paragraph 135ZZZK(1)(b)—equitable remuneration         415
+[153S](#153S).      Applications to the Tribunal under paragraph 135ZZZK(1)(b)—equitable remuneration
 
-[153T](#153T).                      Applications to Tribunal under paragraph 135ZZZL(3)(b)—record system            415
+[153T](#153T).      Applications to Tribunal under paragraph 135ZZZL(3)(b)—record system
 
-[153U](#153U).                     References relating to declaration of collecting society    416
+[153U](#153U).     References relating to declaration of collecting society
 
-[153V](#153V).                     References relating to revocation of declaration of collecting society       417
+[153V](#153V).     References relating to revocation of declaration of collecting society
 
-[153W](#153W).                     Review of collecting society’s distribution arrangement  417
+[153W](#153W).    Review of collecting society’s distribution arrangement
 
         **Subdivision H—References and applications relating to licences and licence schemes**
 
-[154](#154).                        Reference of proposed licence schemes to Tribunal         418
+[154](#154).        Reference of proposed licence schemes to Tribunal
 
-[155](#155).                        Reference of existing licence schemes to Tribunal           420
+[155](#155).        Reference of existing licence schemes to Tribunal
 
-[156](#156).                        Further reference of licence schemes to Tribunal             422
+[156](#156).        Further reference of licence schemes to Tribunal
 
-[157](#157).                        Application to Tribunal in relation to licences                  423
+[157](#157).        Application to Tribunal in relation to licences
 
-[157A](#157A).                     Tribunal must have regard to ACCC guidelines on request 426
+[157A](#157A).     Tribunal must have regard to ACCC guidelines on request
 
-[157B](#157B).                      Tribunal may make ACCC party to reference or application 427
+[157B](#157B).     Tribunal may make ACCC party to reference or application
 
-[158](#158).                        Effect of licence scheme being continued in operation pending order of the Tribunal              427
+[158](#158).        Effect of licence scheme being continued in operation pending order of the Tribunal
 
-[159](#159).                        Effect of order of Tribunal in relation to licences             428
+[159](#159).        Effect of order of Tribunal in relation to licences
 
         **Subdivision I—General provisions**
 
-[160](#160).                        Interim orders                                                                  430
+[160](#160).        Interim orders
 
-[161](#161).                        Reference of questions of law to Federal Court of Australia 431
+[161](#161).        Reference of questions of law to Federal Court of Australia
 
-[162](#162).                        Agreements or awards not affected                                  432
+[162](#162).        Agreements or awards not affected
 
     **Division 4—Procedure and evidence**
 
-[163](#163).                        Proceedings to be in public except in special circumstances 433
+[163](#163).        Proceedings to be in public except in special circumstances
 
-[163A](#163A).                     Application may be made to Tribunal by the agent of the copyright owner              433
+[163A](#163A).     Application may be made to Tribunal by the agent of the copyright owner
 
-[164](#164).                        Procedure                                                                         433
+[164](#164).        Procedure
 
-[165](#165).                        Mistakes or errors in orders of the Tribunal                    434
+[165](#165).        Mistakes or errors in orders of the Tribunal
 
-[166](#166).                        Regulations as to procedure                                             434
+[166](#166).        Regulations as to procedure
 
-[167](#167).                        Power to take evidence on oath                                        435
+[167](#167).        Power to take evidence on oath
 
-[168](#168).                        Evidence in form of written statement                              435
+[168](#168).        Evidence in form of written statement
 
-[169](#169).                        Representation                                                                 435
+[169](#169).        Representation
 
     **Division 4A—Alternative dispute resolution processes**
 
-[169A](#169A).                     Referral of proceeding for alternative dispute resolution process             436
+[169A](#169A).     Referral of proceeding for alternative dispute resolution process
 
-[169B](#169B).                      Directions by President or Deputy President                   437
+[169B](#169B).     Directions by President or Deputy President
 
-[169C](#169C).                      Agreement about the terms of a decision etc                    437
+[169C](#169C).     Agreement about the terms of a decision etc 
 
-[169D](#169D).                     Evidence not admissible                                                   438
+[169D](#169D).     Evidence not admissible
 
-[169E](#169E).                      Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal                                                                                         439
+[169E](#169E).      Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal
 
-[169F](#169F).                      Participation by telephone etc                                           439
+[169F](#169F).      Participation by telephone etc 
 
-[169G](#169G).                     Engagement of persons to conduct alternative dispute resolution processes            439
+[169G](#169G).     Engagement of persons to conduct alternative dispute resolution processes
 
     **Division 5—Miscellaneous**
 
-[170](#170).                        Registrar                                                                          441
+[170](#170).        Registrar
 
-[170A](#170A).                     Other staff of the Tribunal                                               442
+[170A](#170A).     Other staff of the Tribunal
 
-[171](#171).                        Protecting persons connected with Tribunal proceedings 442
+[171](#171).        Protecting persons connected with Tribunal proceedings
 
-[172](#172).                        Offences by witnesses                                                     442
+[172](#172).        Offences by witnesses
 
-[173](#173).                        Offences relating to the Tribunal                                      444
+[173](#173).        Offences relating to the Tribunal
 
-[174](#174).                        Costs of proceedings                                                       445
+[174](#174).        Costs of proceedings
 
-[175](#175).                        Proof of orders of Tribunal                                              446
+[175](#175).        Proof of orders of Tribunal
 
 **Part VII—The Crown** 
 
     **Division 1—Crown copyright**
 
-[176](#176).                        Crown copyright in original works made under direction of Crown        447
+[176](#176).        Crown copyright in original works made under direction of Crown
 
-[177](#177).                        Crown copyright in original works first published in Australia under direction of Crown      447
+[177](#177).        Crown copyright in original works first published in Australia under direction of Crown
 
-[178](#178).                        Crown copyright in recordings and films made under direction of Crown              447
+[178](#178).        Crown copyright in recordings and films made under direction of Crown
 
-[179](#179).                        Provisions relating to ownership of copyright may be modified by agreement        448
+[179](#179).        Provisions relating to ownership of copyright may be modified by agreement
 
-[180](#180).                        Duration of Crown copyright in original works              448
+[180](#180).        Duration of Crown copyright in original works
 
-[181](#181).                        Duration of Crown copyright in recordings and films     449
+[181](#181).        Duration of Crown copyright in recordings and films
 
-[182](#182).                        Application of Parts III and IV to copyright subsisting by virtue of this Part          449
+[182](#182).        Application of Parts III and IV to copyright subsisting by virtue of this Part
 
-[182A](#182A).                     Copyright in statutory instruments and judgments etc     449
+[182A](#182A).     Copyright in statutory instruments and judgments etc 
 
     **Division 2—Use of copyright material for the Crown**
 
-[182B](#182B).                      Definitions                                                                       451
+[182B](#182B).     Definitions
 
-[182C](#182C).                      Relevant collecting society                                               451
+[182C](#182C).     Relevant collecting society
 
-[183](#183).                        Use of copyright material for the services of the Crown  452
+[183](#183).        Use of copyright material for the services of the Crown
 
-[183A](#183A).                     Special arrangements for copying for services of government 453
+[183A](#183A).     Special arrangements for copying for services of government
 
-[183B](#183B).                      Payment and recovery of equitable remuneration payable for government copies    454
+[183B](#183B).     Payment and recovery of equitable remuneration payable for government copies
 
-[183C](#183C).                      Powers of collecting society to carry out sampling          455
+[183C](#183C).     Powers of collecting society to carry out sampling
 
-[183D](#183D).                     Annual report and accounts of collecting society             456
+[183D](#183D).     Annual report and accounts of collecting society
 
-[183E](#183E).                      Alteration of rules of collecting society                            457
+[183E](#183E).      Alteration of rules of collecting society
 
-[183F](#183F).                      Applying to Tribunal for review of distribution arrangement   457
+[183F](#183F).      Applying to Tribunal for review of distribution arrangement
 
 **Part VIII—Extension or restriction of operation of Act**
 
-[184](#184).                        Application of Act to countries other than Australia        458
+[184](#184).        Application of Act to countries other than Australia
 
-[185](#185).                        Denial of copyright to citizens of countries not giving adequate protection to Australian works             460
+[185](#185).        Denial of copyright to citizens of countries not giving adequate protection to Australian works
 
-[186](#186).                        Application of Act to international organizations             461
+[186](#186).        Application of Act to international organizations
 
-[187](#187).                        Original works made or first published by international organizations    461
+[187](#187).        Original works made or first published by international organizations
 
-[188](#188).                        Subject‑matter, other than original works, made or first published by international organizations           462
+[188](#188).        Subject‑matter, other than original works, made or first published by international organizations
 
 **Part IX—Moral rights of performers and of authors of literary, dramatic, musical or artistic works and cinematograph films** 
 
     **Division 1—Preliminary**
 
-[189](#189).                        Definitions                                                                       464
+[189](#189).        Definitions
 
-[190](#190).                        Moral rights conferred on individuals                              468
+[190](#190).        Moral rights conferred on individuals
 
-[191](#191).                        Director, producer and screenwriter of cinematograph film 468
+[191](#191).        Director, producer and screenwriter of cinematograph film
 
-[191A](#191A).                     Staging a performance                                                     469
+[191A](#191A).     Staging a performance
 
-[191B](#191B).                      Conductor to be treated as a performer                            469
+[191B](#191B).     Conductor to be treated as a performer
 
-[192](#192).                        Rights to be additional to other rights                              470
+[192](#192).        Rights to be additional to other rights
 
     **Division 2—Right of attribution of authorship**
 
-[193](#193).                        Author’s right of attribution of authorship                       471
+[193](#193).        Author’s right of attribution of authorship
 
-[194](#194).                        Acts giving rise to right of attribution of authorship        471
+[194](#194).        Acts giving rise to right of attribution of authorship
 
-[195](#195).                        Nature of the identification of author                               472
+[195](#195).        Nature of the identification of author
 
-[195AA](#195AA).                  Identification of author to be clear and reasonably prominent  472
+[195AA](#195AA).  Identification of author to be clear and reasonably prominent
 
-[195AB](#195AB).                   What is a reasonably prominent identification                  472
+[195AB](#195AB).  What is a reasonably prominent identification
 
     **Division 2A—Right of attribution of performership**
 
-[195ABA](#195ABA).                Performer’s right of attribution of performership            473
+[195ABA](#195ABA).                                  Performer’s right of attribution of performership
 
-[195ABB](#195ABB).                Acts giving rise to right of attribution of performership  473
+195ABB Acts giving rise to right of attribution of performership
 
-[195ABC](#195ABC).                Nature of the identification of performer                          473
+195ABC Nature of the identification of performer
 
-[195ABD](#195ABD).                Identification of performer to be clear and reasonably prominent or audible            474
+195ABD Identification of performer to be clear and reasonably prominent or audible
 
-[195ABE](#195ABE).                What is a reasonably prominent identification                  474
+195ABE What is a reasonably prominent identification
 
     **Division 3—Right not to have authorship of a work falsely attributed**
 
-[195AC](#195AC).                   Author’s right not to have authorship falsely attributed   475
+[195AC](#195AC).  Author’s right not to have authorship falsely attributed
 
-[195AD](#195AD).                  Acts of false attribution of authorship of a literary, dramatic or musical work         475
+[195AD](#195AD).  Acts of false attribution of authorship of a literary, dramatic or musical work
 
-[195AE](#195AE).                   Acts of false attribution of authorship of artistic work     476
+[195AE](#195AE).   Acts of false attribution of authorship of artistic work
 
-[195AF](#195AF).                   Acts of false attribution of authorship of cinematograph film  476
+[195AF](#195AF).   Acts of false attribution of authorship of cinematograph film
 
-[195AG](#195AG).                  Acts of false attribution of authorship of altered literary, dramatic, musical or artistic work    477
+[195AG](#195AG).  Acts of false attribution of authorship of altered literary, dramatic, musical or artistic work
 
-[195AH](#195AH).                  Act of false attribution of authorship of altered cinematograph film         477
+[195AH](#195AH).  Act of false attribution of authorship of altered cinematograph film
 
     **Division 3A—Right not to have performership falsely attributed**
 
-[195AHA](#195AHA).               Performer’s right not to have performership falsely attributed 478
+[195AHA](#195AHA).              Performer’s right not to have performership falsely attributed
 
-[195AHB](#195AHB).                Acts of false attribution of performership                        478
+[195AHB](#195AHB).                                              Acts of false attribution of performership
 
-[195AHC](#195AHC).                Act of false attribution of performership of altered recorded performance               480
+195AHC Act of false attribution of performership of altered recorded performance
 
     **Division 4—Right of integrity of authorship of a work**
 
-[195AI](#195AI).                    Author’s right of integrity of authorship                          482
+[195AI](#195AI).    Author’s right of integrity of authorship
 
-[195AJ](#195AJ).                    Derogatory treatment of literary, dramatic or musical work 482
+[195AJ](#195AJ).   Derogatory treatment of literary, dramatic or musical work
 
-[195AK](#195AK).                   Derogatory treatment of artistic work                              482
+[195AK](#195AK).  Derogatory treatment of artistic work
 
-[195AL](#195AL).                   Derogatory treatment of cinematograph film                    483
+[195AL](#195AL).   Derogatory treatment of cinematograph film
 
-    **Division 4A—Right of integrity of performership**
+    **Division 4A—Right of integrity of performership** 
 
-[195ALA](#195ALA).                Performer’s right of integrity of performership               484
+195ALA Performer’s right of integrity of performership
 
-[195ALB](#195ALB).                Derogatory treatment of performance                              484
+195ALB Derogatory treatment of performance
 
     **Division 5—Duration and exercise of moral rights** 
 
         **Subdivision A—Duration and exercise of moral rights of authors**
 
-[195AM](#195AM).                  Duration of author’s moral rights                                    485
+[195AM](#195AM). Duration of author’s moral rights
 
-[195AN](#195AN).                  Exercise of author’s moral rights                                     485
+[195AN](#195AN).  Exercise of author’s moral rights
 
         **Subdivision B—Duration and exercise of moral rights of performers**
 
-[195ANA](#195ANA).               Duration of performer’s moral rights for recorded performances            486
+[195ANA](#195ANA).         Duration of performer’s moral rights for recorded performances
 
-[195ANB](#195ANB).                Exercise of performer’s moral rights                               486
+[195ANB](#195ANB).                                                     Exercise of performer’s moral rights
 
     **Division 6—Infringement of moral rights** 
 
         **Subdivision A—Infringement of moral rights of authors**
 
-[195AO](#195AO).                  Infringement of right of attribution of authorship            488
+[195AO](#195AO).  Infringement of right of attribution of authorship
 
-[195AP](#195AP).                   Infringement of right not to have authorship falsely attributed 488
+[195AP](#195AP).   Infringement of right not to have authorship falsely attributed
 
-[195AQ](#195AQ).                  Infringement of right of integrity of authorship               488
+[195AQ](#195AQ).  Infringement of right of integrity of authorship
 
-[195AR](#195AR).                   No infringement of right of attribution of authorship if it was reasonable not to identify the author        489
+[195AR](#195AR).  No infringement of right of attribution of authorship if it was reasonable not to identify the author
 
-[195AS](#195AS).                   No infringement of right of integrity of authorship if derogatory treatment or other action was reasonable                                                                                         491
+[195AS](#195AS).   No infringement of right of integrity of authorship if derogatory treatment or other action was reasonable
 
-[195AT](#195AT).                   Certain treatment of works not to constitute an infringement of the author’s right of integrity of authorship                                                                                         492
+[195AT](#195AT).   Certain treatment of works not to constitute an infringement of the author’s right of integrity of authorship
 
-[195AU](#195AU).                  Infringement by importation for sale or other dealing      496
+[195AU](#195AU).  Infringement by importation for sale or other dealing
 
-[195AV](#195AV).                  Infringement by sale and other dealings                           496
+[195AV](#195AV).  Infringement by sale and other dealings
 
-[195AVA](#195AVA).               Matters to be taken into account                                       496
+[195AVA](#195AVA).                                                            Matters to be taken into account
 
-[195AVB](#195AVB).                Communication by use of certain facilities                       497
+[195AVB](#195AVB).                                            Communication by use of certain facilities
 
-[195AW](#195AW).                  Author’s consent to act or omission—films or works in films                497
+[195AW](#195AW). Author’s consent to act or omission—films or works in films
 
-[195AWA](#195AWA).               Author’s consent to act or omission—work that is not a film or included in a film 498
+195AWA Author’s consent to act or omission—work that is not a film 
+ or included in a film
 
-[195AWB](#195AWB).               Consent invalidated by duress or false or misleading statements             499
+195AWB Consent invalidated by duress or false or misleading statements
 
-[195AX](#195AX).                  Acts or omissions outside Australia                                499
+[195AX](#195AX).  Acts or omissions outside Australia
 
         **Subdivision B—Infringement of moral rights of performers**
 
-[195AXA](#195AXA).               Infringement of right of attribution of performership       499
+[195AXA](#195AXA).                            Infringement of right of attribution of performership
 
-[195AXB](#195AXB).                Infringement of right not to have performership falsely attributed           500
+[195AXB](#195AXB).         Infringement of right not to have performership falsely attributed
 
-[195AXC](#195AXC).                Infringement of right of integrity of performership          500
+[195AXC](#195AXC).                               Infringement of right of integrity of performership
 
-[195AXD](#195AXD).               No infringement of right of attribution of performership if it was reasonable not to identify the performer                                                                                         500
+195AXD No infringement of right of attribution of performership if it was reasonable not to identify the performer
 
-[195AXE](#195AXE).                No infringement of right of integrity of performership if derogatory treatment or other action was reasonable                                                                                         501
+195AXE No infringement of right of integrity of performership if derogatory treatment or other action was reasonable
 
-[195AXF](#195AXF).                Infringement by importation for sale or other dealing      502
+195AXF Infringement by importation for sale or other dealing
 
-[195AXG](#195AXG).               Infringement by sale and other dealings                           503
+[195AXG](#195AXG).                                                Infringement by sale and other dealings
 
-[195AXH](#195AXH).               Matters to be taken into account                                       503
+[195AXH](#195AXH).                                                            Matters to be taken into account
 
-[195AXI](#195AXI).                 Communication by use of certain facilities                       503
+[195AXI](#195AXI). Communication by use of certain facilities
 
-[195AXJ](#195AXJ).                 Performer’s consent to act or omission                            504
+195AXJ Performer’s consent to act or omission
 
-[195AXK](#195AXK).                Consent invalidated by duress or false or misleading statements             504
+[195AXK](#195AXK).           Consent invalidated by duress or false or misleading statements
 
-[195AXL](#195AXL).                Acts or omissions outside Australia                                505
+195AXL Acts or omissions outside Australia
 
     **Division 7—Remedies for infringements of moral rights** 
 
         **Subdivision A—Remedies for infringement of moral rights of authors**
 
-[195AY](#195AY).                  Definition etc                                                                   506
+[195AY](#195AY).  Definition etc 
 
-[195AZ](#195AZ).                   Actions for infringement of author’s moral rights           506
+[195AZ](#195AZ).   Actions for infringement of author’s moral rights
 
-[195AZA](#195AZA).                Remedies for infringements of author’s moral rights       506
+195AZA Remedies for infringements of author’s moral rights
 
-[195AZD](#195AZD).                Presumption as to subsistence of copyright                     508
+195AZD Presumption as to subsistence of copyright
 
-[195AZE](#195AZE).                 Presumption as to subsistence of author’s moral rights   508
+195AZE Presumption as to subsistence of author’s moral rights
 
-[195AZF](#195AZF).                 Presumptions in relation to authorship of work               509
+195AZF Presumptions in relation to authorship of work
 
-[195AZG](#195AZG).                Other presumptions in relation to literary, dramatic, musical or artistic work           509
+195AZG Other presumptions in relation to literary, dramatic, musical or artistic work
 
         **Subdivision B—Remedies for infringement of moral rights of performers**
 
-[195AZGA](#195AZGA).             Definition etc                                                                   509
+[195AZGA Definition etc](#195AZGA Definition etc).
 
-[195AZGB](#195AZGB).             Actions for infringement of performer’s moral rights      509
+195AZGB Actions for infringement of performer’s moral rights
 
-[195AZGC](#195AZGC).             Remedies for infringements of performer’s moral rights 510
+195AZGC Remedies for infringements of performer’s moral rights
 
-[195AZGD](#195AZGD).             Presumption as to subsistence of copyright                     511
+195AZGD Presumption as to subsistence of copyright
 
-[195AZGE](#195AZGE).              Presumption as to subsistence of performer’s moral rights 511
+195AZGE Presumption as to subsistence of performer’s moral rights
 
-[195AZGF](#195AZGF).              Presumptions in relation to performership                       511
+195AZGF Presumptions in relation to performership
 
-        **Subdivision C—Miscellaneous**
+        **Subdivision C—Miscellaneous** 
 
-[195AZGG](#195AZGG).             Saving of other rights and remedies                                 512
+195AZGG Saving of other rights and remedies
 
-[195AZGH](#195AZGH).             Jurisdiction of courts                                                       512
+195AZGH Jurisdiction of courts
 
     **Division 8—Miscellaneous** 
 
         **Subdivision A—Miscellaneous provisions about moral rights of authors**
 
-[195AZH](#195AZH).                Parts of works                                                                 513
+195AZH Parts of works
 
-[195AZI](#195AZI).                  Works of joint authorship                                                513
+[195AZI](#195AZI). Works of joint authorship
 
-[195AZJ](#195AZJ).                 Cinematograph films that have more than one principal director              513
+[195AZJ](#195AZJ). Cinematograph films that have more than one principal director
 
-[195AZK](#195AZK).                Cinematograph films that have more than one principal producer            514
+195AZK Cinematograph films that have more than one principal producer
 
-[195AZL](#195AZL).                 Cinematograph films that have more than one principal screenwriter       514
+195AZL Cinematograph films that have more than one principal screenwriter
 
-[195AZM](#195AZM).               Application—right of attribution of authorship                515
+[195AZM](#195AZM).                                     Application—right of attribution of authorship
 
-[195AZN](#195AZN).                Application—right not to have authorship falsely attributed 515
+195AZN Application—right not to have authorship falsely attributed
 
-[195AZO](#195AZO).                Application—right of integrity of authorship                   516
+195AZO Application—right of integrity of authorship
 
-        **Subdivision B—Miscellaneous provisions about moral rights of performers**
+        **Subdivision B—Miscellaneous provisions about moral rights of performers** 
 
-[195AZP](#195AZP).                 Parts of performances                                                      516
+195AZP Parts of performances
 
-[195AZQ](#195AZQ).                Performances that have more than one performer            516
+195AZQ Performances that have more than one performer
 
-[195AZR](#195AZR).                Application                                                                      517
+195AZR Application
 
 **Part X—Miscellaneous**
 
-[195A](#195A).                     Interpretation                                                                    518
+[195A](#195A).     Interpretation
 
-[195B](#195B).                      Review of certain decisions                                             519
+[195B](#195B).     Review of certain decisions
 
-[196](#196).                        Assignments and licences in respect of copyright            520
+[196](#196).        Assignments and licences in respect of copyright
 
-[197](#197).                        Prospective ownership of copyright                                521
+[197](#197).        Prospective ownership of copyright
 
-[198](#198).                        Copyright to pass under will with unpublished work      521
+[198](#198).        Copyright to pass under will with unpublished work
 
-[198A](#198A).                     Non‑infringement of trade mark in relation to the importation of copyright material                522
+[198A](#198A).     Non‑infringement of trade mark in relation to the importation of copyright material
 
-[199](#199).                        Reception of broadcasts                                                   522
+[199](#199).        Reception of broadcasts
 
-[200](#200).                        Use of works and broadcasts for educational purposes   523
+[200](#200).        Use of works and broadcasts for educational purposes
 
-[200AAA](#200AAA).               Proxy web caching by educational institutions                524
+[200AAA](#200AAA).                                      Proxy web caching by educational institutions
 
-[200AA](#200AA).                  Use of broadcasts by institutions assisting persons with an intellectual disability    525
+[200AA](#200AA).  Use of broadcasts by institutions assisting persons with an intellectual disability
 
-[200AB](#200AB).                   Use of works and other subject‑matter for certain purposes 526
+[200AB](#200AB).  Use of works and other subject‑matter for certain purposes
 
-[201](#201).                        Delivery of library material to the National Library         528
+[201](#201).        Delivery of library material to the National Library
 
-[202](#202).                        Groundless threats of legal proceedings in relation to copyright infringement         529
+[202](#202).        Groundless threats of legal proceedings in relation to copyright infringement
 
-[202A](#202A).                     Groundless threats of legal proceedings in relation to technological protection measures        530
+[202A](#202A).     Groundless threats of legal proceedings in relation to technological protection measures
 
-[203](#203).                        Limitation on power of courts to grant relief in proceedings under this Act             531
+[203](#203).        Limitation on power of courts to grant relief in proceedings under this Act
 
-[203A](#203A).                     Offence—failing to keep declarations relating to copying in library or archives      531
+[203A](#203A).     Offence—failing to keep declarations relating to copying in library or archives
 
-[203D](#203D).                     Offence—not arranging declarations chronologically      532
+[203D](#203D).     Offence—not arranging declarations chronologically
 
-[203E](#203E).                      Inspection of records and declarations retained by libraries, archives or institutions                533
+[203E](#203E).      Inspection of records and declarations retained by libraries, archives or institutions
 
-[203F](#203F).                      False and misleading declarations                                    535
+[203F](#203F).      False and misleading declarations
 
-[203G](#203G).                     Offence—disposing of or destroying certain declarations 535
+[203G](#203G).     Offence—disposing of or destroying certain declarations
 
-[203H](#203H).                     Notation of certain copies etc                                           536
+[203H](#203H).     Notation of certain copies etc 
 
 **Part XI—Transitional** 
 
     **Division 1—Preliminary**
 
-[204](#204).                        Interpretation                                                                    539
+[204](#204).        Interpretation
 
-[205](#205).                        References to making of works, recordings and films     540
+[205](#205).        References to making of works, recordings and films
 
-[206](#206).                        References in other laws or instruments to copyright      540
+[206](#206).        References in other laws or instruments to copyright
 
-[207](#207).                        Application                                                                      541
+[207](#207).        Application
 
-[208](#208).                        Authorship of photographs                                              541
+[208](#208).        Authorship of photographs
 
-[209](#209).                        Publication                                                                       541
+[209](#209).        Publication
 
     **Division 2—Original works**
 
-[210](#210).                        Expired copyright not to revive                                        543
+[210](#210).        Expired copyright not to revive
 
-[211](#211).                        Original works in which copyright subsists                    543
+[211](#211).        Original works in which copyright subsists
 
-[213](#213).                        Ownership of copyright                                                   543
+[213](#213).        Ownership of copyright
 
-[214](#214).                        Infringement by importation, sale and other dealings       545
+[214](#214).        Infringement by importation, sale and other dealings
 
-[215](#215).                        Recording of musical works                                            545
+[215](#215).        Recording of musical works
 
-[216](#216).                        Publication of artistic works                                            545
+[216](#216).        Publication of artistic works
 
-[217](#217).                        Reconstruction of buildings                                             546
+[217](#217).        Reconstruction of buildings
 
-[218](#218).                        Industrial designs                                                             546
+[218](#218).        Industrial designs
 
-[219](#219).                        Reproduction of work upon payment of royalties            546
+[219](#219).        Reproduction of work upon payment of royalties
 
     **Division 3—Subject‑matter other than works**
 
-[220](#220).                        Sound recordings                                                             549
+[220](#220).        Sound recordings
 
-[221](#221).                        Cinematograph films                                                        549
+[221](#221).        Cinematograph films
 
-[222](#222).                        Application of Act to dramatic works and photographs comprised in cinematograph films     549
+[222](#222).        Application of Act to dramatic works and photographs comprised in cinematograph films
 
-[223](#223).                        Television broadcasts and sound broadcasts                    549
+[223](#223).        Television broadcasts and sound broadcasts
 
-[224](#224).                        Published editions of works                                            550
+[224](#224).        Published editions of works
 
-[225](#225).                        Infringement by importation, sale and other dealings       550
+[225](#225).        Infringement by importation, sale and other dealings
 
     **Division 4—Miscellaneous**
 
-[226](#226).                        Actions for infringement                                                  551
+[226](#226).        Actions for infringement
 
-[227](#227).                        Infringing copies                                                              551
+[227](#227).        Infringing copies
 
-[228](#228).                        Actions where copyright subject to exclusive licence      551
+[228](#228).        Actions where copyright subject to exclusive licence
 
-[229](#229).                        Offences and summary proceedings                                551
+[229](#229).        Offences and summary proceedings
 
-[230](#230).                        Limitation of actions                                                        551
+[230](#230).        Limitation of actions
 
-[231](#231).                        Restriction of importation of printed copies of works      552
+[231](#231).        Restriction of importation of printed copies of works
 
-[232](#232).                        References and applications to Tribunal in relation to licence schemes    552
+[232](#232).        References and applications to Tribunal in relation to licence schemes
 
-[233](#233).                        Duration of Crown copyright in photographs                  552
+[233](#233).        Duration of Crown copyright in photographs
 
-[234](#234).                        Duration of Crown copyright in recordings                     552
+[234](#234).        Duration of Crown copyright in recordings
 
-[235](#235).                        Crown copyright in films                                                 553
+[235](#235).        Crown copyright in films
 
-[236](#236).                        Works made or published by international organizations 553
+[236](#236).        Works made or published by international organizations
 
-[237](#237).                        Subject‑matter, other than original works, made or published by international organizations  553
+[237](#237).        Subject‑matter, other than original works, made or published by international organizations
 
-[239](#239).                        Assignments and licences                                                553
+[239](#239).        Assignments and licences
 
-[240](#240).                        Bequests                                                                          555
+[240](#240).        Bequests
 
-[241](#241).                        Delivery of library material to National Library               556
+[241](#241).        Delivery of library material to National Library
 
-[242](#242).                        Groundless threats of legal proceedings                          556
+[242](#242).        Groundless threats of legal proceedings
 
     **Division 5—Works made before 1 July, 1912**
 
-[243](#243).                        Interpretation                                                                    557
+[243](#243).        Interpretation
 
-[244](#244).                        Application                                                                      557
+[244](#244).        Application
 
-[245](#245).                        Rights conferred by Copyright Act, 1911                        557
+[245](#245).        Rights conferred by Copyright Act, 1911
 
-[246](#246).                        Performing rights                                                             557
+[246](#246).        Performing rights
 
-[247](#247).                        Contributions to periodicals                                             558
+[247](#247).        Contributions to periodicals
 
-[248](#248).                        Assignments and licences                                                558
+[248](#248).        Assignments and licences
 
 **Part XIA—Performers’ protection** 
 
     **Division 1—Preliminary**
 
-[248A](#248A).                     Interpretation                                                                    560
+[248A](#248A).     Interpretation
 
-[248B](#248B).                      Educational purposes                                                       565
+[248B](#248B).     Educational purposes
 
-[248C](#248C).                      Exempt recordings cease to be exempt recordings in certain circumstances             565
+[248C](#248C).     Exempt recordings cease to be exempt recordings in certain circumstances
 
-[248CA](#248CA).                   Protection period                                                              566
+[248CA](#248CA).  Protection period
 
-[248D](#248D).                     Private and domestic use                                                  566
+[248D](#248D).     Private and domestic use
 
-[248F](#248F).                      Application                                                                      567
+[248F](#248F).      Application
 
     **Division 2—Actions by performers**
 
-[248G](#248G).                     What constitutes unauthorised use                                   568
+[248G](#248G).     What constitutes unauthorised use
 
-[248H](#248H).                     Copying sound recordings for broadcasting                    569
+[248H](#248H).     Copying sound recordings for broadcasting
 
-[248J](#248J).                       Actions for unauthorised use                                           570
+[248J](#248J).      Actions for unauthorised use
 
-[248K](#248K).                      Exercise of jurisdiction                                                    571
+[248K](#248K).     Exercise of jurisdiction
 
-[248L](#248L).                      Appeals                                                                            572
+[248L](#248L).      Appeals
 
-[248M](#248M).                     Jurisdiction of Federal Court                                           572
+[248M](#248M).    Jurisdiction of Federal Court
 
-[248MA](#248MA).                  Jurisdiction of Federal Circuit Court                                572
+[248MA](#248MA). Jurisdiction of Federal Magistrates Court
 
-[248N](#248N).                     Right to bring an action not assignable                            572
+[248N](#248N).     Right to bring an action not assignable
 
     **Division 3—Offences** 
 
         **Subdivision A—General offences**
 
-[248P](#248P).                      Scope of this Subdivision                                                573
+[248P](#248P).      Scope of this Subdivision
 
-[248PA](#248PA).                   Unauthorised direct recording during protection period   573
+[248PA](#248PA).   Unauthorised direct recording during protection period
 
-[248PB](#248PB).                   Unauthorised indirect recording during protection period 574
+[248PB](#248PB).   Unauthorised indirect recording during protection period
 
-[248PC](#248PC).                   Unauthorised communication to public during 20‑year protection period                575
+[248PC](#248PC).   Unauthorised communication to public during 20‑year protection period
 
-[248PD](#248PD).                   Playing unauthorised recording publicly during 20‑year protection period              576
+[248PD](#248PD).   Playing unauthorised recording publicly during 20‑year protection period
 
-[248PE](#248PE).                    Possessing equipment to make or copy unauthorised recording              577
+[248PE](#248PE).   Possessing equipment to make or copy unauthorised recording
 
-[248PF](#248PF).                    Copying unauthorised recording                                      579
+[248PF](#248PF).   Copying unauthorised recording
 
-[248PG](#248PG).                   Unauthorised copying of exempt recording                     580
+[248PG](#248PG).   Unauthorised copying of exempt recording
 
-[248PH](#248PH).                   Unauthorised copying of authorised sound recording     581
+[248PH](#248PH).   Unauthorised copying of authorised sound recording
 
-[248PI](#248PI).                     Selling etc  unauthorised recording                                  583
+[248PI](#248PI).    Selling etc  unauthorised recording
 
-[248PJ](#248PJ).                    Distributing unauthorised recording                                584
+[248PJ](#248PJ).    Distributing unauthorised recording
 
-[248PK](#248PK).                   Commercial possession or import of unauthorised recording  586
+[248PK](#248PK).   Commercial possession or import of unauthorised recording
 
-[248PL](#248PL).                    Exhibiting unauthorised recording in public by way of trade 588
+[248PL](#248PL).   Exhibiting unauthorised recording in public by way of trade
 
-[248PM](#248PM).                  Importing unauthorised recording for exhibition by way of trade            589
+[248PM](#248PM).  Importing unauthorised recording for exhibition by way of trade
 
         **Subdivision B—Acts relating to sound recordings of performances given before 1 July 1995**
 
-[248QA](#248QA).                  Scope of this Subdivision                                                590
+[248QA](#248QA).  Scope of this Subdivision
 
-[248QB](#248QB).                   Possessing equipment for copying unauthorised sound recording           591
+[248QB](#248QB).  Possessing equipment for copying unauthorised sound recording
 
-[248QC](#248QC).                   Copying unauthorised sound recording                           592
+[248QC](#248QC).  Copying unauthorised sound recording
 
-[248QD](#248QD).                  Selling etc  unauthorised sound recording                       593
+[248QD](#248QD).  Selling etc  unauthorised sound recording
 
-[248QE](#248QE).                   Distributing unauthorised sound recording                      594
+[248QE](#248QE).   Distributing unauthorised sound recording
 
-[248QF](#248QF).                   Commercial possession or import of unauthorised sound recording        596
+[248QF](#248QF).   Commercial possession or import of unauthorised sound recording
 
-[248QG](#248QG).                  Exhibiting unauthorised sound recording in public by way of trade        597
+[248QG](#248QG).  Exhibiting unauthorised sound recording in public by way of trade
 
-[248QH](#248QH).                  Importing unauthorised sound recording for exhibition by way of trade 598
+[248QH](#248QH).  Importing unauthorised sound recording for exhibition by way of trade
 
         **Subdivision C—Prosecution and infringement notices**
 
-[248R](#248R).                      Courts in which offences may be prosecuted                   600
+[248R](#248R).     Courts in which offences may be prosecuted
 
-[248S](#248S).                      Protection against multiple proceedings for same act       600
+[248S](#248S).      Protection against multiple proceedings for same act
 
-[248SA](#248SA).                   Infringement notices                                                        600
+[248SA](#248SA).   Infringement notices
 
         **Subdivision D—Destruction or delivery up of unauthorised recordings**
 
-[248T](#248T).                      Destruction or delivery up of unauthorised recordings    601
+[248T](#248T).      Destruction or delivery up of unauthorised recordings
 
     **Division 4—Extension of protection to foreign countries**
 
-[248U](#248U).                     Application to foreign countries                                       602
+[248U](#248U).     Application to foreign countries
 
-[248V](#248V).                     Denial of protection to citizens of countries not giving adequate protection to Australian performances 603
+[248V](#248V).     Denial of protection to citizens of countries not giving adequate protection to Australian performances
 
 **Part XII—Regulations**
 
-[249](#249).                        Regulations                                                                      604
+[249](#249).        Regulations
 
-The Schedule
+**The Schedule** 
 
-**Endnotes** 
-
-    **Endnote 1—Legislation history** 
-
-    **Endnote 2—Amendment history** 
-
-    **Endnote 3—Application, saving and transitional provisions**
-
-[Copyright Amendment Act (No](#Copyright Amendment Act (No). 1) 1998 (No  104, 1998)                             662
-
-[Copyright Amendment Act (No](#Copyright Amendment Act (No). 2) 1998 (No  105, 1998)                             663
-
-[Copyright Amendment (Digital Agenda) Act 2000 (No](#Copyright Amendment (Digital Agenda) Act 2000 (No). 110, 2000)              664
-
-[Copyright Amendment (Moral Rights) Act 2000 (No](#Copyright Amendment (Moral Rights) Act 2000 (No). 159, 2000)                 665
-
-[Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No](#Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No). 24, 2001)      665
-
-[Copyright Amendment (Parallel Importation) Act 2003 (No](#Copyright Amendment (Parallel Importation) Act 2003 (No). 34, 2003)         665
-
-[Designs (Consequential Amendments) Act 2003 (No](#Designs (Consequential Amendments) Act 2003 (No). 148, 2003)                 667
-
-[US Free Trade Agreement Implementation Act 2004 (No](#US Free Trade Agreement Implementation Act 2004 (No). 120, 2004)           669
-
-[Copyright Legislation Amendment Act 2004 (No](#Copyright Legislation Amendment Act 2004 (No). 154, 2004)                       675
-
-[Copyright Amendment (Film Directors’ Rights) Act 2005 (No](#Copyright Amendment (Film Directors’ Rights) Act 2005 (No). 130, 2005)  676
-
-[Statute Law Revision Act 2006 (No](#Statute Law Revision Act 2006 (No). 9, 2006)                                                676
-
-[Copyright Amendment Act 2006 (No](#Copyright Amendment Act 2006 (No). 158, 2006)                                         677
-
-[Therapeutic Goods Legislation Amendment (Copyright) Act 2011 (No](#Therapeutic Goods Legislation Amendment (Copyright) Act 2011 (No). 39, 2011)                684
-
-[Acts Interpretation Amendment Act 2011 (No](#Acts Interpretation Amendment Act 2011 (No). 46, 2011)                              685
-
-    **Endnote 4—Uncommenced amendments**
-
-[Intellectual Property Laws Amendment (Raising the Bar) Act 2012 (No](#Intellectual Property Laws Amendment (Raising the Bar) Act 2012 (No). 35, 2012)              686
-
-    **Endnote 5—Misdescribed amendments** 
-
-    **Endnote 6—Modifications**
-
-[A](#A).C T  Self‑Government (Consequential Provisions) Regulations (1989 No  3) 694
-
- 
+**Notes** 
 
 ## An Act relating to copyright and the protection of certain performances, and for other purposes
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Copyright Act 1968_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -2086,17 +2026,17 @@ but does not include a cinematograph film as distinct from the scenario or scrip
 
                      (c)  an institution that conducts courses of primary, secondary or tertiary education by correspondence or on an external study basis;
 
-                     (d)  a school of nursing in relation to which a notice published under subsection 10A(4) is in force;
+                     (d)  a school of nursing in relation to which a notice published under subsection 10A(4) is in force;
 
                      (e)  an undertaking within a hospital, being an undertaking:
 
                               (i)  that conducts courses of study or training in the provision of medical services, or in the provision of services incidental to the provision of medical services; and
 
-                             (ii)  in relation to which a notice published under subsection 10A(4) is in force;
+                             (ii)  in relation to which a notice published under subsection 10A(4) is in force;
 
-                      (f)  a teacher education centre in relation to which a notice published under subsection 10A(4) is in force;
+                      (f)  a teacher education centre in relation to which a notice published under subsection 10A(4) is in force;
 
-                     (g)  an institution in relation to which there is in force a notice published under subsection 10A(4) that includes a declaration that the principal function of the institution is the provision of courses of study or training for one of the following purposes:
+                     (g)  an institution in relation to which there is in force a notice published under subsection 10A(4) that includes a declaration that the principal function of the institution is the provision of courses of study or training for one of the following purposes:
 
                               (i)  general education;
 
@@ -2106,9 +2046,9 @@ but does not include a cinematograph film as distinct from the scenario or scrip
 
                             (iv)  the teaching of English to people whose first language is not English;
 
-                     (h)  an undertaking within a body administering an educational institution of a kind referred to in a preceding paragraph of this definition in relation to which there is in force a notice published under subsection 10A(4) that includes a declaration that the principal function, or one of the principal functions, of the undertaking is the provision of teacher training to people engaged as instructors in educational institutions of a kind referred to in a preceding paragraph of this definition, or of 2 or more such kinds; or
+                     (h)  an undertaking within a body administering an educational institution of a kind referred to in a preceding paragraph of this definition in relation to which there is in force a notice published under subsection 10A(4) that includes a declaration that the principal function, or one of the principal functions, of the undertaking is the provision of teacher training to people engaged as instructors in educational institutions of a kind referred to in a preceding paragraph of this definition, or of 2 or more such kinds; or
 
-                      (i)  an institution, or an undertaking within a body administering an educational institution of a kind referred to in a preceding paragraph of this definition, in relation to which there is in force a notice published under subsection 10A(4) that includes a declaration that the principal function, or one of the principal functions, of the institution, or undertaking, is the providing of material to educational institutions of a kind referred to in a preceding paragraph of this definition, or to educational institutions of 2 or more such kinds, and that that activity is undertaken for the purpose of helping those institutions in their teaching purposes.
+                      (i)  an institution, or an undertaking within a body administering an educational institution of a kind referred to in a preceding paragraph of this definition, in relation to which there is in force a notice published under subsection 10A(4) that includes a declaration that the principal function, or one of the principal functions, of the institution, or undertaking, is the providing of material to educational institutions of a kind referred to in a preceding paragraph of this definition, or to educational institutions of 2 or more such kinds, and that that activity is undertaken for the purpose of helping those institutions in their teaching purposes.
 
                     <a name="electron-literari-music-item"></a>**_electronic literary or music item_** means:
 
@@ -2178,13 +2118,13 @@ being an article (which may be an electronic reproduction or copy of the work, r
 
                      (a)  an educational institution; or
 
-                     (b)  any other institution which has as its principal function, or one or its principal functions, the provision of assistance to persons with an intellectual disability and in relation to which a declaration under paragraph 10A(1)(d) is in force.
+                     (b)  any other institution which has as its principal function, or one or its principal functions, the provision of assistance to persons with an intellectual disability and in relation to which a declaration under paragraph 10A(1)(d) is in force.
 
                     <a name="institut-assisting-person-print-disabl"></a>**_institution assisting persons with a print disability_** means:
 
                      (a)  an educational institution; or
 
-                     (b)  any other institution which has as its principal function, or one of its principal functions, the provision of literary or dramatic works to persons with a print disability and in relation to which a declaration under paragraph 10A(1)(c) is in force.
+                     (b)  any other institution which has as its principal function, or one of its principal functions, the provision of literary or dramatic works to persons with a print disability and in relation to which a declaration under paragraph 10A(1)(c) is in force.
 
                     <a name="intern-organ-act-appli"></a>**_international organization to which this Act applies_** means an organization that is declared by regulations made for the purposes of section 186 to be an international organization to which this Act applies, and includes:
 
@@ -2224,7 +2164,7 @@ where:
 
 was authorised by the owner of the copyright in that country in the work, edition, recording or film, as the case may be.
 
-                    <a name="non-infringing-book"></a>**_non‑infringing book_** means a book made (otherwise than under a compulsory licence) in a country specified in regulations made for the purposes of subsection 184(1), being a book whose making did not constitute an infringement of any copyright subsisting in a work, or in a published edition of a work, under a law of that country.
+                    <a name="non-infringing-book"></a>**_non‑infringing book_** means a book made (otherwise than under a compulsory licence) in a country specified in regulations made for the purposes of subsection 184(1), being a book whose making did not constitute an infringement of any copyright subsisting in a work, or in a published edition of a work, under a law of that country.
 
                     <a name="non-infringing-copi"></a>**_non‑infringing copy_**:
 
@@ -2258,7 +2198,7 @@ was authorised by the owner of the copyright in that country in the work, editio
 
                     <a name="prospect-owner"></a>**_prospective owner_** means:
 
-                     (a)  in relation to a future copyright that is not the subject of an agreement of a kind referred to in subsection 19(1)—the person who will be the owner of the copyright on its coming into existence; or
+                     (a)  in relation to a future copyright that is not the subject of an agreement of a kind referred to in subsection 19(1)—the person who will be the owner of the copyright on its coming into existence; or
 
                      (b)  in relation to a future copyright that is the subject of such an agreement—the person in whom, by virtue of that subsection, the copyright will vest on its coming into existence.
 
@@ -2276,7 +2216,7 @@ was authorised by the owner of the copyright in that country in the work, editio
 
                     <a name="record"></a>**_record_** includes a disc, tape, paper, electronic file or other device in which sounds are embodied.
 
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
+                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="registrar"></a>**_Registrar_** means the Registrar of the Tribunal provided for by section 170.
 
@@ -2450,11 +2390,11 @@ subsection (2) or (2A) does not apply in relation to any subsequent reproducti
 
                   (ma)  a reference to a relevant declaration, in relation to the making, in reliance on section 49, of a copy of the whole or a part of a work, shall be read as a reference to:
 
-                              (i)  in a case where the copy is made in reliance on subsection 49(2)—a declaration of the kind referred to in subsection 49(1) that is furnished in relation to the making of the copy; or
+                              (i)  in a case where the copy is made in reliance on subsection 49(2)—a declaration of the kind referred to in subsection 49(1) that is furnished in relation to the making of the copy; or
 
-                             (ii)  in a case where the copy is made in reliance on subsection 49(2C)—a declaration of the kind referred to in paragraph 49(2C)(b) that is made in relation to the making of the copy; or
+                             (ii)  in a case where the copy is made in reliance on subsection 49(2C)—a declaration of the kind referred to in paragraph 49(2C)(b) that is made in relation to the making of the copy; or
 
-                            (iii)  in any case—a declaration of the kind referred to in subsection 49(5) that is made in relation to the making of the copy; and
+                            (iii)  in any case—a declaration of the kind referred to in subsection 49(5) that is made in relation to the making of the copy; and
 
                      (n)  a reference to a State shall be read as including a reference to the Northern Territory and Norfolk Island and a reference to a Territory shall be read as not including a reference to the Northern Territory or Norfolk Island.
 
@@ -2474,7 +2414,7 @@ Example:    Museums and galleries are examples of bodies that could have c
 
              (5)  For the purposes of the definition of **_copy_** in subsection (1), such a copy includes any form (whether visible or not) of storage of a cinematograph film, or a substantial part of a cinematograph film, (whether or not the copy of the film, or a substantial part of the film, can be reproduced).
 
-             (6)  For the purposes of paragraph 10(3)(c), a reference to a copy of a sound recording includes any form (whether visible or not) of storage of the sound recording, or a substantial part of the sound recording, (whether or not the copy of the recording, or a substantial part of the recording, can be reproduced).
+             (6)  For the purposes of paragraph 10(3)(c), a reference to a copy of a sound recording includes any form (whether visible or not) of storage of the sound recording, or a substantial part of the sound recording, (whether or not the copy of the recording, or a substantial part of the recording, can be reproduced).
 
 ##### <a id="10AA"></a>10AA  _Non‑infringing copy_ of a sound recording
 
@@ -2564,7 +2504,7 @@ Definition
 
 Interpretation
 
-             (3)  This section does not limit the meaning of **_accessory_** in subsection 10(1).
+             (3)  This section does not limit the meaning of **_accessory_** in subsection 10(1).
 
 ##### <a id="10A"></a>10A  Declarations and notices relating to certain bodies and institutions
 
@@ -2588,7 +2528,7 @@ Interpretation
 
              (5)  The body administering an institution may cause to be published in the _Gazette_ a notice revoking a notice published under subsection (4) in relation to the institution.
 
-          (5A)  A collecting society may apply to the Copyright Tribunal for review of a declaration included in a notice published under subsection (4) of this section for the purposes of paragraph (g), (h) or (i) of the definition of **_educational institution_** in subsection 10(1).
+          (5A)  A collecting society may apply to the Copyright Tribunal for review of a declaration included in a notice published under subsection (4) of this section for the purposes of paragraph (g), (h) or (i) of the definition of **_educational institution_** in subsection 10(1).
 
 Note:          For applications to the Tribunal for review see section 153L.
 
@@ -3032,7 +2972,7 @@ if, but only if:
 
 ##### <a id="33"></a>33  Duration of copyright in original works
 
-             (1)  This section has effect subject to subsection 32(2) and to section 34.
+             (1)  This section has effect subject to subsection 32(2) and to section 34.
 
              (2)  Subject to this section, copyright that subsists in a literary, dramatic, musical or artistic work by virtue of this Part continues to subsist until the end of 70 years after the end of the calendar year in which the author of the work died.
 
@@ -3281,7 +3221,7 @@ neither the body administering the library or archives nor the officer in charge
 
 subsection (5) does not apply in relation to any subsequent reproduction made by the person of any other part of the same work or adaptation.
 
-             (8)  Subsections 10(2), (2A), (2B) and (2C) do not affect subsection (5), (6) or (7) of this section.
+             (8)  Subsections 10(2), (2A), (2B) and (2C) do not affect subsection (5), (6) or (7) of this section.
 
 ##### <a id="41"></a>41  Fair dealing for purpose of criticism or review
 
@@ -3401,7 +3341,7 @@ Status of temporary reproduction
 
 ##### <a id="44A"></a>44A  Importation etc. of books
 
-             (1)  The copyright in an overseas work first published on or after the commencing day is not infringed by a person who, without the licence of the owner of the copyright, imports a non‑infringing book into Australia for a purpose mentioned in paragraph 37(1)(a), (b) or (c).
+             (1)  The copyright in an overseas work first published on or after the commencing day is not infringed by a person who, without the licence of the owner of the copyright, imports a non‑infringing book into Australia for a purpose mentioned in paragraph 37(1)(a), (b) or (c).
 
              (2)  Subject to this section, the copyright in:
 
@@ -3409,7 +3349,7 @@ Status of temporary reproduction
 
                      (b)  a work first published in Australia, whether before, on or after the commencing day;
 
-is not infringed by a person who, without the licence of the owner of the copyright, imports a copy (in this subsection called the **_imported copy_**) of a hardback or paperback version of a non‑infringing book into Australia for a purpose mentioned in paragraph 37(1)(a), (b) or (c) if:
+is not infringed by a person who, without the licence of the owner of the copyright, imports a copy (in this subsection called the **_imported copy_**) of a hardback or paperback version of a non‑infringing book into Australia for a purpose mentioned in paragraph 37(1)(a), (b) or (c) if:
 
                      (c)  the person had ordered in writing from the copyright owner, or the owner’s licensee or agent, one or more copies of that version of the book (not being second‑hand copies or more copies than were needed to satisfy the person’s reasonable requirements); and
 
@@ -3425,13 +3365,13 @@ is not infringed by a person who, without the licence of the owner of the copyri
 
                      (b)  in the case of a telephone order, the customer makes a verifiable statement;
 
-to the effect that the customer does not intend to use the book for a purpose mentioned in paragraph 37(1)(a), (b) or (c).
+to the effect that the customer does not intend to use the book for a purpose mentioned in paragraph 37(1)(a), (b) or (c).
 
              (4)  The copyright in a published work (whether first published before, on or after the commencing day) is not infringed by a person who, without the licence of the owner of the copyright, imports 2 or more copies of a non‑infringing book into Australia if:
 
                      (a)  the importation is for the purpose of filling a written order, or a verifiable telephone order, placed with the person by or on behalf of a library, other than a library conducted for the profit (direct or indirect) of a person or organisation; and
 
-                     (b)  in the case of a written order—the order contains a statement, signed by the person placing the order, to the effect that the library does not intend to use any of the books for a purpose mentioned in paragraph 37(1)(a), (b) or (c); and
+                     (b)  in the case of a written order—the order contains a statement, signed by the person placing the order, to the effect that the library does not intend to use any of the books for a purpose mentioned in paragraph 37(1)(a), (b) or (c); and
 
                      (c)  in the case of a telephone order—the person placing the order makes a verifiable statement to the effect referred to in paragraph (b); and
 
@@ -3441,11 +3381,11 @@ to the effect that the customer does not intend to use the book for a purpose me
 
              (6)  Where:
 
-                     (a)  a book is imported into Australia for a purpose mentioned in paragraph 37(1)(a), (b) or (c); and
+                     (a)  a book is imported into Australia for a purpose mentioned in paragraph 37(1)(a), (b) or (c); and
 
                      (b)  the importation does not, under this section, constitute an infringement of copyright in a published work;
 
-                   the use of the book for any such purpose does not constitute an infringement of the copyright in the work and subsection 38(1) does not apply to the book.
+                   the use of the book for any such purpose does not constitute an infringement of the copyright in the work and subsection 38(1) does not apply to the book.
 
              (7)  Subsection (2) does not apply to the importation of a copy of a hardback version of a non‑infringing book into Australia if the copyright owner, or his or her licensee or agent, is able to supply in Australia enough copies of a paperback version of the book to fill any reasonable order.
 
@@ -3469,7 +3409,7 @@ to the effect that the customer does not intend to use the book for a purpose me
 
                      (b)  that was not published in Australia within 30 days after its first publication in that other country.
 
-Note:          A work may, for the purposes of this Act, be **_first published_** in Australia if it is published in Australia within 30 days of an earlier publication elsewhere. For the meaning of **_first publication_**, see section 29 and, in particular, subsection 29(5).
+Note:          A work may, for the purposes of this Act, be **_first published_** in Australia if it is published in Australia within 30 days of an earlier publication elsewhere. For the meaning of **_first publication_**, see section 29 and, in particular, subsection 29(5).
 
 ##### <a id="44B"></a>44B  Reproduction of writing on approved label for containers for chemical product
 
@@ -3483,9 +3423,9 @@ Note:          A work may, for the purposes of this Act, be **
 
                               (i)  restricted medicine; or
 
-                             (ii)  medicine in respect of which the applicant for the registration of that medicine under that Act has been given a notice of the kind referred to in subparagraph 25(1)(da)(ii) of that Act; or
+                             (ii)  medicine in respect of which the applicant for the registration of that medicine under that Act has been given a notice of the kind referred to in subparagraph 25(1)(da)(ii) of that Act; or
 
-                            (iii)  medicine in respect of which subsection 25AA(2) or (3) of that Act applies;
+                            (iii)  medicine in respect of which subsection 25AA(2) or (3) of that Act applies;
 
                      (b)  an act that is ancillary or incidental to an act referred to in paragraph (a).
 
@@ -3511,7 +3451,7 @@ to the extent that the supply, reproduction, publication, communication or adapt
 
              (1)  The copyright in a work a copy of which is, or is on, or embodied in, a non‑infringing accessory to an article is not infringed by importing the accessory with the article.
 
-Note:          See the definition of **_accessory_** in subsection 10(1) and see also section 10AD for an expanded meaning of **_accessory_** in relation to certain imported articles.
+Note:          See the definition of **_accessory_** in subsection 10(1) and see also section 10AD for an expanded meaning of **_accessory_** in relation to certain imported articles.
 
              (2)  Section 38 does not apply to a copy of a work, being a copy that is, or is on, or embodied in, a non‑infringing accessory to an article, if the importation of the accessory is not an infringement of copyright in the work.
 
@@ -3537,7 +3477,7 @@ Note:          In a civil action for infringement of copyright
 
                             (iii)  the maker of the sound recording, if neither the law of the publication country nor the law of the original recording country (whether those countries are different or not) provided for copyright or a related right in sound recordings when publication occurred.
 
-Note:          Subsection 29(6) deals with unauthorised publication.
+Note:          Subsection 29(6) deals with unauthorised publication.
 
              (3)  In subsection (2):
 
@@ -3673,7 +3613,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
           (7B)  Subsection (7) does not apply if the person has a reasonable excuse.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (7B) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (7B) (see subsection 13.3(3) of the _Criminal Code_).
 
              (8)  Where:
 
@@ -3731,7 +3671,7 @@ the licence holder shall pay to the owner of the copyright such an amount by way
 
              (5)  In this section:
 
-                    <a name="reproduct"></a>**_reproduction_**, in relation to a computer program, does not include a version of the program of the kind referred to in paragraph 21(5)(b).
+                    <a name="reproduct"></a>**_reproduction_**, in relation to a computer program, does not include a version of the program of the kind referred to in paragraph 21(5)(b).
 
 ##### <a id="47C"></a>47C  Back‑up copy of computer programs
 
@@ -3769,7 +3709,7 @@ the licence holder shall pay to the owner of the copyright such an amount by way
 
              (6)  In this section:
 
-                    <a name="reproduct"></a>**_reproduction_**, in relation to a computer program, does not include a version of the program of the kind referred to in paragraph 21(5)(b).
+                    <a name="reproduct"></a>**_reproduction_**, in relation to a computer program, does not include a version of the program of the kind referred to in paragraph 21(5)(b).
 
 ##### <a id="47D"></a>47D  Reproducing computer programs to make interoperable products
 
@@ -3837,7 +3777,7 @@ the prescribed provision does not apply, and is taken never to have applied, to 
 
 ##### <a id="47H"></a>47H  Agreements excluding operation of certain provisions
 
-                    An agreement, or a provision of an agreement, that excludes or limits, or has the effect of excluding or limiting, the operation of subsection 47B(3), or section 47C, 47D, 47E or 47F, has no effect.
+                    An agreement, or a provision of an agreement, that excludes or limits, or has the effect of excluding or limiting, the operation of subsection 47B(3), or section 47C, 47D, 47E or 47F, has no effect.
 
 ### Division 4B—Acts not constituting infringements of copyright in artistic works
 
@@ -3921,7 +3861,7 @@ Status of temporary reproduction
 
              (2)  Subject to this section, where a request and declaration referred to in subsection (1) are furnished to the officer in charge of a library or archives, an authorized officer of the library or archives may, unless the declaration contains a statement that to his or her knowledge is untrue in a material particular, make, or cause to be made, the reproduction to which the request relates and supply the reproduction to the person who made the request.
 
-Note:          The reproduction could be made from another reproduction of the article or published work in the collection of the library or archives that was made without infringing copyright because of subsection 51A(1), to replace the article or published work because it was damaged, had deteriorated or had been lost or stolen.
+Note:          The reproduction could be made from another reproduction of the article or published work in the collection of the library or archives that was made without infringing copyright because of subsection 51A(1), to replace the article or published work because it was damaged, had deteriorated or had been lost or stolen.
 
           (2A)  A person may make to an authorized officer of a library or archives:
 
@@ -3949,7 +3889,7 @@ Note:          The reproduction could be made from another rep
 
 an authorized officer of the library or archives may make, or cause to be made, the reproduction to which the request relates and supply the reproduction to the person.
 
-Note:          The reproduction could be made from another reproduction of the article or published work in the collection of the library or archives that was made without infringing copyright because of subsection 51A(1), to replace the article or published work because it was damaged, had deteriorated or had been lost or stolen.
+Note:          The reproduction could be made from another reproduction of the article or published work in the collection of the library or archives that was made without infringing copyright because of subsection 51A(1), to replace the article or published work because it was damaged, had deteriorated or had been lost or stolen.
 
              (3)  Where a charge is made for making and supplying a reproduction to which a request under subsection (1) or (2A) relates, subsection (2) or (2C), as the case may be, does not apply in relation to the request if the amount of the charge exceeds the cost of making and supplying the reproduction.
 
@@ -3961,7 +3901,7 @@ Note:          The reproduction could be made from another rep
 
                      (b)  before the reproduction is made, an authorized officer has, after reasonable investigation, made a declaration stating that he or she is satisfied that a reproduction (not being a second‑hand reproduction) of the work cannot be obtained within a reasonable time at an ordinary commercial price.
 
-       (5AA)  For the purposes of subsection (5), if the characteristics of the work are such that subsection 10(2) or (2A) is relevant to the question whether the reproduction contains only a reasonable portion of the work, then that question is to be determined solely by reference to subsection 10(2) or (2A) and not by reference to the ordinary meaning of **_reasonable portion_**.
+       (5AA)  For the purposes of subsection (5), if the characteristics of the work are such that subsection 10(2) or (2A) is relevant to the question whether the reproduction contains only a reasonable portion of the work, then that question is to be determined solely by reference to subsection 10(2) or (2A) and not by reference to the ordinary meaning of **_reasonable portion_**.
 
        (5AB)  For the purposes of paragraph (5)(b), in determining whether a reproduction (not being a second‑hand reproduction) of the work cannot be obtained within a reasonable time at an ordinary commercial price, the authorized officer must take into account:
 
@@ -4023,7 +3963,7 @@ Note:          Under section 203F, it is an offence to make 
 
              (2)  Subject to this section, where a request is made by or on behalf of the officer in charge of a library to the officer in charge of another library under subsection (1), an authorized officer of the last‑mentioned library may make, or cause to be made, the reproduction to which the request relates and supply the reproduction to the officer in charge of the first‑mentioned library.
 
-Note:          The reproduction could be made from another reproduction of the article or published work in the collection of the other library that was made without infringing copyright because of subsection 51A(1), to replace the article or published work because it was damaged, had deteriorated or had been lost or stolen.
+Note:          The reproduction could be made from another reproduction of the article or published work in the collection of the other library that was made without infringing copyright because of subsection 51A(1), to replace the article or published work because it was damaged, had deteriorated or had been lost or stolen.
 
              (3)  Where, under subsection (2), an authorized officer of a library makes, or causes to be made, a reproduction of the whole or part of a work (including an article contained in a periodical publication) and supplies it to the officer in charge of another library in accordance with a request made under subsection (1):
 
@@ -4093,7 +4033,7 @@ subsection (4) does not apply in relation to the reproduction unless:
 
                             (iv)  if the reproduction is of the whole or of a part of an article—stating that, after reasonable investigation, the authorised officer is satisfied that the article cannot be obtained on its own in electronic form within a reasonable time at an ordinary commercial price.
 
-       (7BA)  For the purposes of subsections (7A) and (7B), if the characteristics of the work are such that subsection 10(2) or (2A) is relevant to the question whether the reproduction contains only a reasonable portion of the work, then that question is to be determined solely by reference to subsection 10(2) or (2A) and not by reference to the ordinary meaning of **_reasonable portion_**.
+       (7BA)  For the purposes of subsections (7A) and (7B), if the characteristics of the work are such that subsection 10(2) or (2A) is relevant to the question whether the reproduction contains only a reasonable portion of the work, then that question is to be determined solely by reference to subsection 10(2) or (2A) and not by reference to the ordinary meaning of **_reasonable portion_**.
 
         (7BB)  For the purposes of subparagraphs (7A)(e)(ii) and (7B)(e)(ii), (iii) and (iv), in determining whether a copy of the work, the work, the portion of the work or the article (as appropriate) cannot be obtained within a reasonable time at an ordinary commercial price, the authorized officer must take into account:
 
@@ -4149,7 +4089,7 @@ the copyright in the work is not infringed:
 
 ##### <a id="51AA"></a>51AA  Reproducing and communicating works in care of National Archives of Australia
 
-             (1)  The copyright in a work that is kept in the collection of an archives covered by subparagraph (a)(i) or paragraph (aa) of the definition of **_archives_** in subsection 10(1), where it is open to public inspection, is not infringed by the making or communication by, or on behalf of, the officer in charge of the archives:
+             (1)  The copyright in a work that is kept in the collection of an archives covered by subparagraph (a)(i) or paragraph (aa) of the definition of **_archives_** in subsection 10(1), where it is open to public inspection, is not infringed by the making or communication by, or on behalf of, the officer in charge of the archives:
 
                      (a)  of a single working copy of the work; or
 
@@ -4253,7 +4193,7 @@ Relationship with the rest of this Division
 
              (1)  Where:
 
-                     (a)  a published literary, dramatic or musical work (in this section referred to as **_the new work_**) incorporates the whole or a part of a work (in this section referred to as **_the old work_**) to which subsection 51(1) applied immediately before the new work was published;
+                     (a)  a published literary, dramatic or musical work (in this section referred to as **_the new work_**) incorporates the whole or a part of a work (in this section referred to as **_the old work_**) to which subsection 51(1) applied immediately before the new work was published;
 
                      (b)  before the new work was published, the prescribed notice of the intended publication of the work had been given; and
 
@@ -4263,7 +4203,7 @@ then, for the purposes of this Act, the first publication of the new work, and a
 
              (2)  The last preceding subsection does not apply to a subsequent publication of the new work incorporating a part of the old work that was not included in the first publication of the new work unless:
 
-                     (a)  subsection 51(1) would, but for this section, have applied to that part of the old work immediately before that subsequent publication;
+                     (a)  subsection 51(1) would, but for this section, have applied to that part of the old work immediately before that subsequent publication;
 
                      (b)  before that subsequent publication, the prescribed notice of the intended publication had been given; and
 
@@ -4319,7 +4259,7 @@ then, for the purposes of this Act, the first publication of the new work, and a
 
              (5)  Section 55:
 
-                     (a)  does not apply to a record of a whole work unless the previous record referred to in paragraph 55(1)(a) was a record of the whole work; and
+                     (a)  does not apply to a record of a whole work unless the previous record referred to in paragraph 55(1)(a) was a record of the whole work; and
 
                      (b)  does not apply to a record of a part of a work unless that previous record was a record of that part of the work.
 
@@ -4383,7 +4323,7 @@ then, for the purposes of this Act, the first publication of the new work, and a
 
                      (a)  a person makes in Australia a record comprising the performance of a musical work in which words are sung, or are spoken incidentally to or in association with the music, whether or not there is any other matter comprised in the record;
 
-                     (b)  copyright does not subsist in that work or, if copyright so subsists, the requirements specified in subsection 55(1) are complied with in relation to that copyright;
+                     (b)  copyright does not subsist in that work or, if copyright so subsists, the requirements specified in subsection 55(1) are complied with in relation to that copyright;
 
                      (c)  the words consist or form part of a literary or dramatic work in which copyright subsists;
 
@@ -4397,7 +4337,7 @@ then, for the purposes of this Act, the first publication of the new work, and a
 
                             (iv)  has previously been made in a country other than Australia for use in making other records for the purpose of retail sale, being a country that, at the time of the previous making, was specified in the regulations to be a country in relation to which this Division applies, and was so made by, or with the licence of, the person who was, under the law of that country, the owner of the copyright in the literary or dramatic work; and
 
-                     (e)  the like notice was given to the owner of the copyright in the literary or dramatic work as is required by paragraph 55(1)(b) to be given to the owner of the copyright (if any) in the musical work and there is paid to the owner of the copyright in the literary or dramatic work such amount (if any) as is ascertained in accordance with this section;
+                     (e)  the like notice was given to the owner of the copyright in the literary or dramatic work as is required by paragraph 55(1)(b) to be given to the owner of the copyright (if any) in the musical work and there is paid to the owner of the copyright in the literary or dramatic work such amount (if any) as is ascertained in accordance with this section;
 
 the making of the record does not constitute an infringement of the copyright in the literary or dramatic work.
 
@@ -4411,7 +4351,7 @@ the making of the record does not constitute an infringement of the copyright in
 
              (4)  Where the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work do not agree on the manner in which an amount is to be apportioned between them but the person who made the record gives an undertaking in writing to each owner to pay to him or her the portion of that amount that the Tribunal determines to be payable to him or her, then:
 
-                     (a)  paragraph 55(1)(d) and paragraph (1)(e) of this section have effect as if the payments referred to in those paragraphs had been made; and
+                     (a)  paragraph 55(1)(d) and paragraph (1)(e) of this section have effect as if the payments referred to in those paragraphs had been made; and
 
                      (b)  the person who made the record is liable, when the amount to which an undertaking relates is determined, to pay that amount to the owner of the copyright to whom the undertaking was given and the owner may recover that amount in a court of competent jurisdiction from that person as a debt due to the owner.
 
@@ -4624,7 +4564,7 @@ by embodying that, or any other, corresponding design in a product.
 
 ##### <a id="79"></a>79  References to any one or more of joint authors
 
-                   The references in section 32, and in subsection 34(2) to the author of a work shall, in relation to a work of joint authorship, be read as references to any one or more of the authors of the work.
+                   The references in section 32, and in subsection 34(2) to the author of a work shall, in relation to a work of joint authorship, be read as references to any one or more of the authors of the work.
 
 ##### <a id="80"></a>80  References to whichever of joint authors died last
 
@@ -4646,13 +4586,13 @@ by embodying that, or any other, corresponding design in a product.
 
 ##### <a id="82"></a>82  Copyright to subsist in joint works without regard to any author who is an unqualified person
 
-             (1)  Subsection 35(2) has effect, in relation to a work of joint authorship of which one of the authors is an unqualified person, or 2 or more (but not all) of the authors are unqualified persons, as if the author or authors, other than unqualified persons, had alone been the author or authors, as the case may be, of the work.
+             (1)  Subsection 35(2) has effect, in relation to a work of joint authorship of which one of the authors is an unqualified person, or 2 or more (but not all) of the authors are unqualified persons, as if the author or authors, other than unqualified persons, had alone been the author or authors, as the case may be, of the work.
 
              (2)  For the purposes of the last preceding subsection, a person is an unqualified person in relation to a work where, if he or she had alone been the author of the work, copyright would not have subsisted in the work by virtue of this Part.
 
 ##### <a id="83"></a>83  Inclusion of joint works in collections for use in places of education
 
-                   The reference in subsection 44(2) to other extracts from, or from adaptations of, works by the author of the extract concerned:
+                   The reference in subsection 44(2) to other extracts from, or from adaptations of, works by the author of the extract concerned:
 
                      (a)  shall be read as including a reference to extracts from, or from adaptations of, works by the author of the extract concerned in collaboration with any other person; or
 
@@ -4786,9 +4726,9 @@ being a live performance, whether in the presence of an audience or otherwise.
 
 ##### <a id="94"></a>94  Duration of copyright in cinematograph films
 
-             (1)  Copyright subsisting in a cinematograph film by virtue of subsection 90(1) or (2) continues to subsist until the film is published and, after the publication of the film, until the end of 70 years after the end of the calendar year in which the film was first published.
+             (1)  Copyright subsisting in a cinematograph film by virtue of subsection 90(1) or (2) continues to subsist until the film is published and, after the publication of the film, until the end of 70 years after the end of the calendar year in which the film was first published.
 
-             (2)  Copyright subsisting in a cinematograph film by virtue only of subsection 90(3) continues to subsist until the end of 70 years after the end of the calendar year in which the film was first published.
+             (2)  Copyright subsisting in a cinematograph film by virtue only of subsection 90(3) continues to subsist until the end of 70 years after the end of the calendar year in which the film was first published.
 
 ##### <a id="95"></a>95  Duration of copyright in television broadcasts and sound broadcasts
 
@@ -4875,19 +4815,19 @@ then the person becomes the owner of the copyright only so far as the copyright 
 
                      (a)  copyright subsists in the recording on the day on which this section commences; and
 
-                     (b)  at least one person would become a maker of the recording under paragraph 100AD(1)(b) or subsection 100AD(2).
+                     (b)  at least one person would become a maker of the recording under paragraph 100AD(1)(b) or subsection 100AD(2).
 
 ##### <a id="100AB"></a>100AB  Definitions
 
                    In this Subdivision:
 
-                    <a name="former-owner"></a>**_former owner_** of the copyright in a sound recording of a live performance means a person mentioned in paragraph 100AD(1)(a).
+                    <a name="former-owner"></a>**_former owner_** of the copyright in a sound recording of a live performance means a person mentioned in paragraph 100AD(1)(a).
 
                     <a name="new-owner"></a>**_new owner_** of the copyright in a sound recording of a live performance means the following people:
 
-                     (a)  a person who becomes a maker of a sound recording under paragraph 100AD(1)(b);
+                     (a)  a person who becomes a maker of a sound recording under paragraph 100AD(1)(b);
 
-                     (b)  if subsection 100AD(2) applies—an employer who becomes a maker of a sound recording under that subsection.
+                     (b)  if subsection 100AD(2) applies—an employer who becomes a maker of a sound recording under that subsection.
 
 Note:          Other expressions used in this Subdivision are defined in section 84.
 
@@ -5058,7 +4998,7 @@ in the same way as it applies to the former owner.
 
                      (b)  sections 119 and 133 (in Part V);
 
-                     (c)  the definitions of **_licence_** and **_licensor_** in subsection 136(1), and sections 150, 151, 152, 153E, 153F, 153G, 159 and 163A (in Part VI);
+                     (c)  the definitions of **_licence_** and **_licensor_** in subsection 136(1), and sections 150, 151, 152, 153E, 153F, 153G, 159 and 163A (in Part VI);
 
                      (d)  section 183 (in Part VII).
 
@@ -5199,7 +5139,7 @@ neither the body administering the library or archives, nor the officer in charg
 
 ##### <a id="105"></a>105  Copyright in certain recordings not infringed by causing recordings to be heard in public or broadcast
 
-                   Copyright subsisting in a sound recording by virtue only of subsection 89(3) is not infringed by the causing of the recording to be heard in public or by the broadcasting of the recording.
+                   Copyright subsisting in a sound recording by virtue only of subsection 89(3) is not infringed by the causing of the recording to be heard in public or by the broadcasting of the recording.
 
 ##### <a id="106"></a>106  Causing sound recording to be heard at guest house or club
 
@@ -5478,11 +5418,11 @@ Relationship with the rest of this Division
 
              (4)  For the purposes of subsection (3), the regulations may specify different dates in relation to different classes of sound recordings or cinematograph films.
 
-##### <a id="111"></a>111  Recording broadcasts for replaying at more convenient time
+##### <a id="111"></a>111  Recording broadcasts for replaying at more convenient time
 
              (1)  This section applies if a person makes a cinematograph film or sound recording of a broadcast solely for private and domestic use by watching or listening to the material broadcast at a time more convenient than the time when the broadcast is made.
 
-Note:          Subsection 10(1) defines **_broadcast_** as a communication to the public delivered by a broadcasting service within the meaning of the _Broadcasting Services Act 1992_.
+Note:          Subsection 10(1) defines **_broadcast_** as a communication to the public delivered by a broadcasting service within the meaning of the _Broadcasting Services Act 1992_.
 
 Making the film or recording does not infringe copyright
 
@@ -5550,7 +5490,7 @@ Note:          If the article or thing embodying the film or r
 
 ##### <a id="112A"></a>112A  Importation and sale etc. of books
 
-             (1)  The copyright in an overseas edition first published on or after the commencing day, is not infringed by a person who, without the licence of the owner of the copyright, imports a non‑infringing book into Australia for a purpose mentioned in paragraph 102(1)(a), (b) or (c).
+             (1)  The copyright in an overseas edition first published on or after the commencing day, is not infringed by a person who, without the licence of the owner of the copyright, imports a non‑infringing book into Australia for a purpose mentioned in paragraph 102(1)(a), (b) or (c).
 
              (2)  Subject to this section, the copyright in:
 
@@ -5558,7 +5498,7 @@ Note:          If the article or thing embodying the film or r
 
                      (b)  a published edition of a work, being an edition first published in Australia, whether before, on or after the commencing day;
 
-is not infringed by a person who, without the licence of the owner of the copyright, imports a copy (in this subsection called the **_imported copy_**) of a hardback or paperback version of a non‑infringing book into Australia for a purpose mentioned in paragraph 102(1)(a), (b) or (c) if:
+is not infringed by a person who, without the licence of the owner of the copyright, imports a copy (in this subsection called the **_imported copy_**) of a hardback or paperback version of a non‑infringing book into Australia for a purpose mentioned in paragraph 102(1)(a), (b) or (c) if:
 
                      (c)  the person had ordered in writing from the copyright owner, or the owner’s licensee or agent, one or more copies of that version of the book (not being second‑hand copies or more copies than were needed to satisfy the person’s reasonable requirements); and
 
@@ -5574,13 +5514,13 @@ is not infringed by a person who, without the licence of the owner of the copyri
 
                      (b)  in the case of a telephone order, the customer makes a verifiable statement;
 
-to the effect that the customer does not intend to use the book for a purpose mentioned in paragraph 102(1)(a), (b) or (c).
+to the effect that the customer does not intend to use the book for a purpose mentioned in paragraph 102(1)(a), (b) or (c).
 
              (4)  The copyright in a published edition of a work (whether the edition was first published before, on or after the commencing day) is not infringed by a person who, without the licence of the owner of the copyright, imports 2 or more copies of a non‑infringing book into Australia if:
 
                      (a)  the importation is for the purpose of filling a written order, or a verifiable telephone order, placed with the person by or on behalf of a library, other than a library conducted for the profit (direct or indirect) of a person or organisation; and
 
-                     (b)  in the case of a written order—the order contains a statement, signed by the person placing the order, to the effect that the library does not intend to use any of the books for a purpose mentioned in paragraph 102(1)(a), (b) or (c); and
+                     (b)  in the case of a written order—the order contains a statement, signed by the person placing the order, to the effect that the library does not intend to use any of the books for a purpose mentioned in paragraph 102(1)(a), (b) or (c); and
 
                      (c)  in the case of a telephone order—the person placing the order makes a verifiable statement to the effect referred to in paragraph (b); and
 
@@ -5590,11 +5530,11 @@ to the effect that the customer does not intend to use the book for a purpose me
 
              (6)  Where:
 
-                     (a)  a book is imported into Australia for a purpose mentioned in paragraph 102(1)(a), (b) or (c); and
+                     (a)  a book is imported into Australia for a purpose mentioned in paragraph 102(1)(a), (b) or (c); and
 
                      (b)  the importation does not, under this section, constitute an infringement of copyright in a published edition of a work;
 
-the use of the book for any such purpose does not constitute an infringement of the copyright in the edition and subsection 103(1) does not apply to the book.
+the use of the book for any such purpose does not constitute an infringement of the copyright in the edition and subsection 103(1) does not apply to the book.
 
              (7)  Subsection (2) does not apply to the importation of a copy of a hardback version of a non‑infringing book into Australia if the copyright owner, or his or her licensee or agent, is able to supply in Australia enough copies of a paperback version of the book to fill any reasonable order.
 
@@ -5618,7 +5558,7 @@ the use of the book for any such purpose does not constitute an infringement of 
 
                      (b)  that was not published in Australia within 30 days after its first publication in that other country.
 
-Note:          An edition of a work may, for the purposes of this Act, be **_first published_** in Australia if it is published in Australia within 30 days of an earlier publication elsewhere. For the meaning of **_first publication_**, see section 29 and, in particular, subsection 29(5).
+Note:          An edition of a work may, for the purposes of this Act, be **_first published_** in Australia if it is published in Australia within 30 days of an earlier publication elsewhere. For the meaning of **_first publication_**, see section 29 and, in particular, subsection 29(5).
 
 ##### <a id="112AA"></a>112AA  Making preservation copies of significant published editions in key cultural institutions’ collections
 
@@ -5662,7 +5602,7 @@ Relationship with the rest of this Division
 
 is not infringed by importing the accessory with the article.
 
-Note:          See the definition of **_accessory_** in subsection 10(1) and see also section 10AD for an expanded meaning of **_accessory_** in relation to certain imported articles.
+Note:          See the definition of **_accessory_** in subsection 10(1) and see also section 10AD for an expanded meaning of **_accessory_** in relation to certain imported articles.
 
              (2)  Section 103 does not apply to:
 
@@ -5698,7 +5638,7 @@ Note:          In a civil action for infringement of copyright
 
                             (iii)  the maker of the sound recording, if neither the law of the publication country nor the law of the original recording country (whether those countries are different or not) provided for copyright or a related right in sound recordings when publication occurred.
 
-Note:          Subsection 29(6) deals with unauthorised publication.
+Note:          Subsection 29(6) deals with unauthorised publication.
 
              (3)  In subsection (2):
 
@@ -5724,7 +5664,7 @@ Note:          Section 130C deals with the burden of proof a
 
              (2)  The definition of **_article_** in section 103 does not affect this section.
 
-##### <a id="112E"></a>112E  Communication by use of certain facilities
+##### <a id="112E"></a>112E  Communication by use of certain facilities
 
                    A person (including a carrier or carriage service provider) who provides facilities for making, or facilitating the making of, a communication is not taken to have authorised any infringement of copyright in an audio‑visual item merely because another person uses the facilities so provided to do something the right to do which is included in the copyright.
 
@@ -5732,7 +5672,7 @@ Note:          Section 130C deals with the burden of proof a
 
 ##### <a id="113"></a>113  Copyrights to subsist independently
 
-             (1)  Subject to subsection 110(2), where copyright subsists in any subject‑matter by virtue of this Part, nothing in this Part shall be taken to affect the operation of Part III in relation to any literary, dramatic, musical or artistic work from which that subject‑matter is wholly or partly derived, and any copyright subsisting by virtue of this Part is in addition to, and independent of, any copyright subsisting by virtue of Part III.
+             (1)  Subject to subsection 110(2), where copyright subsists in any subject‑matter by virtue of this Part, nothing in this Part shall be taken to affect the operation of Part III in relation to any literary, dramatic, musical or artistic work from which that subject‑matter is wholly or partly derived, and any copyright subsisting by virtue of this Part is in addition to, and independent of, any copyright subsisting by virtue of Part III.
 
              (2)  The subsistence of copyright under any provision of this Part does not affect the operation of any other provision of this Part under which copyright can subsist.
 
@@ -5890,7 +5830,7 @@ Consideration for relief for electronic commercial infringement
 
 ##### <a id="116AAA"></a>116AAA  Compensation for acquisition of property
 
-             (1)  This section applies if, apart from this section, subsections 22(3A) and 97(2) and (2A) would result in the acquisition of property from a maker of a sound recording of a live performance by a performer in the performance otherwise than on just terms.
+             (1)  This section applies if, apart from this section, subsections 22(3A) and 97(2) and (2A) would result in the acquisition of property from a maker of a sound recording of a live performance by a performer in the performance otherwise than on just terms.
 
              (2)  There is payable to the maker by the performer such amount of compensation as is agreed on between those persons, or, failing agreement, as is determined by a court of competent jurisdiction.
 
@@ -5900,17 +5840,17 @@ Consideration for relief for electronic commercial infringement
 
              (5)  In this section:
 
-                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
-                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
-                    <a name="maker"></a>**_maker_** of a sound recording of a live performance means a person mentioned in paragraph 22(3A)(a).
+                    <a name="maker"></a>**_maker_** of a sound recording of a live performance means a person mentioned in paragraph 22(3A)(a).
 
                     <a name="perform"></a>**_performer_** in a live performance means the following people:
 
-                     (a)  a person who becomes a maker of a sound recording under paragraph 22(3A)(b);
+                     (a)  a person who becomes a maker of a sound recording under paragraph 22(3A)(b);
 
-                     (b)  if subsection 22(3B) applies—an employer who becomes a maker of a sound recording under that subsection.
+                     (b)  if subsection 22(3B) applies—an employer who becomes a maker of a sound recording under that subsection.
 
 ### Division 2AA—Limitation on remedies available against carriage service providers
 
@@ -6207,7 +6147,7 @@ The court may have regard to other matters it considers relevant.
 
              (3)  The regulations may prescribe offences for conduct by persons issuing notices under the regulations, and prescribe penalties for offences against those regulations. The penalties must not exceed 50 penalty units.
 
-Note:          If a body corporate is convicted of an offence against regulations made under this section, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose fines of up to 5 times the penalty stated above.
+Note:          If a body corporate is convicted of an offence against regulations made under this section, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose fines of up to 5 times the penalty stated above.
 
 ### Division 2A—Actions in relation to technological protection measures and electronic rights management information
 
@@ -6345,7 +6285,7 @@ Exception—libraries etc.
 
                               (i)  a library (other than a library that is conducted for the profit, direct or indirect, of an individual or individuals); or
 
-                             (ii)  a body mentioned in paragraph (a) of the definition of **_archives_** in subsection 10(1), or in subsection 10(4); or
+                             (ii)  a body mentioned in paragraph (a) of the definition of **_archives_** in subsection 10(1), or in subsection 10(4); or
 
                             (iii)  an educational institution; and
 
@@ -6891,7 +6831,7 @@ Offence
 
 ##### <a id="127"></a>127  Presumptions in relation to authorship of work
 
-             (1)  Where a name purporting to be that of the author of a literary, dramatic, musical or artistic work appeared on copies of the work as published or a name purporting to be that of the author of an artistic work appeared on the work when it was made, the person whose name so appeared, if it was his or her true name or a name by which he or she was commonly known, shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the author of the work and to have made the work in circumstances to which subsections 35(4), (5) and (6) do not apply.
+             (1)  Where a name purporting to be that of the author of a literary, dramatic, musical or artistic work appeared on copies of the work as published or a name purporting to be that of the author of an artistic work appeared on the work when it was made, the person whose name so appeared, if it was his or her true name or a name by which he or she was commonly known, shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the author of the work and to have made the work in circumstances to which subsections 35(4), (5) and (6) do not apply.
 
              (2)  Where a work is alleged to be a work of joint authorship, the last preceding subsection applies in relation to each person alleged to be one of the authors of the work as if references in that subsection to the author were references to one of the authors.
 
@@ -7088,7 +7028,7 @@ Note 2:       Sections 102 and 103 deal with infringement of copyr
 
 ##### <a id="131"></a>131  Presumptions relating to films
 
-             (1)  Where the name of a person appeared on copies of a cinematograph film as made available to the public in such a way as to imply that the person was the maker of the film and, in the case of a person other than a body corporate, that name was his or her true name or a name by which he or she was commonly known, that person shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the maker of the film and to have made the film in circumstances to which subsection 98(3) does not apply.
+             (1)  Where the name of a person appeared on copies of a cinematograph film as made available to the public in such a way as to imply that the person was the maker of the film and, in the case of a person other than a body corporate, that name was his or her true name or a name by which he or she was commonly known, that person shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the maker of the film and to have made the film in circumstances to which subsection 98(3) does not apply.
 
              (2)  Subsection (3) applies to an action under this Part relating to copyright in a cinematograph film, if:
 
@@ -7112,7 +7052,7 @@ unless the contrary is established.
 
                    The jurisdiction of the Supreme Court of a State or Territory in an action under this Part shall be exercised by a single Judge of the Court.
 
-##### <a id="131B"></a>131B  Appeals
+##### <a id="131B"></a>131B  Appeals
 
              (1)  Subject to subsection (2), a decision of a court of a State or Territory (however constituted) under this Part is final and conclusive.
 
@@ -7126,9 +7066,9 @@ unless the contrary is established.
 
                    Jurisdiction is conferred on the Federal Court of Australia with respect to actions under this Part.
 
-##### <a id="131D"></a>131D  Jurisdiction of Federal Circuit Court of Australia
+##### <a id="131D"></a>131D  Jurisdiction of Federal Magistrates Court
 
-                   Jurisdiction is conferred on the Federal Circuit Court of Australia with respect to civil actions under this Part.
+                   Jurisdiction is conferred on the Federal Magistrates Court with respect to civil actions under this Part.
 
 ### Division 5—Offences and summary proceedings
 
@@ -7188,7 +7128,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -7222,7 +7162,7 @@ Defence relating to law enforcement and national security
 
                      (b)  an authority of the Commonwealth or of a State or Territory.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence for certain public institutions etc.
 
@@ -7232,9 +7172,9 @@ Defence for certain public institutions etc.
 
                      (b)  a body mentioned in:
 
-                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
+                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
 
-                             (ii)  subsection 10(4);
+                             (ii)  subsection 10(4);
 
                      (c)  an educational institution;
 
@@ -7246,7 +7186,7 @@ Defence for certain public institutions etc.
 
 Note 1:       A library that is owned by a person conducting a business for profit might not itself be conducted for profit (see section 18).
 
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
              (8)  This section does not apply in respect of anything lawfully done by a person in connection with a work or other subject‑matter if:
 
@@ -7254,7 +7194,7 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
                      (b)  under subsection (7), it would be lawful for the National Archives of Australia to do that thing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
 
 #### Subdivision C—Infringing copies
 
@@ -7278,7 +7218,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7338,7 +7278,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7394,7 +7334,7 @@ Indictable offences
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7470,7 +7410,7 @@ Indictable offences
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7556,7 +7496,7 @@ Indictable offence
 
              (2)  An offence against this section is punishable on conviction by a fine of not more than 650 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7654,7 +7594,7 @@ Indictable offences
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7740,7 +7680,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note 1:       A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Note 2:       If the infringing copy was made by converting the work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form, there is an aggravated offence with a higher maximum penalty under section 132AK.
 
@@ -7816,7 +7756,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (2)  An aggravated offence is punishable on conviction by a fine of not more than 850 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
              (3)  To prove an aggravated offence, the prosecution must prove that the defendant was reckless with respect to the circumstance that the infringing copy was made by converting a work or other subject‑matter from a hard copy or analog form into a digital or other electronic machine‑readable form.
 
@@ -7842,7 +7782,7 @@ Indictable offences
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offences
 
@@ -7928,7 +7868,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -7964,7 +7904,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -8034,7 +7974,7 @@ Defence—permission
 
              (2)  Subsection (1) does not apply to the person if the person has the permission of the copyright owner or exclusive licensee to circumvent the access control technological protection measure.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—interoperability
 
@@ -8052,7 +7992,7 @@ Defence—interoperability
 
                             (iii)  will be done for the sole purpose of achieving interoperability of an independently created computer program with the original program or any other program.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—encryption research
 
@@ -8088,7 +8028,7 @@ Defence—encryption research
 
 In this subsection, **_encryption technology_** means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—computer security testing
 
@@ -8106,7 +8046,7 @@ Defence—computer security testing
 
                             (iv)  will be done with the permission of the owner of the computer, computer system or computer network.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—online privacy
 
@@ -8124,7 +8064,7 @@ Defence—online privacy
 
                             (iv)  will not affect the ability of the person or any other person to gain access to the work or other subject‑matter or any other work or subject‑matter.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—law enforcement and national security
 
@@ -8138,7 +8078,7 @@ Defence—law enforcement and national security
 
 by or on behalf of the Commonwealth, a State or a Territory, or an authority of one of those bodies.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—libraries etc.
 
@@ -8148,9 +8088,9 @@ Defence—libraries etc.
 
                      (b)  a body mentioned in:
 
-                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
+                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
 
-                             (ii)  subsection 10(4);
+                             (ii)  subsection 10(4);
 
                      (c)  an educational institution;
 
@@ -8158,7 +8098,7 @@ Defence—libraries etc.
 
 Note 1:       A library that is owned by a person conducting a business for profit might not itself be conducted for profit (see section 18).
 
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
+Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
 
           (8A)  This section does not apply in respect of anything lawfully done by a person in connection with a work or other subject‑matter if:
 
@@ -8166,7 +8106,7 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
                      (b)  under subsection (8), it would be lawful for the National Archives of Australia to do that thing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (8A) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (8A) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—prescribed acts
 
@@ -8178,7 +8118,7 @@ Defence—prescribed acts
 
                      (c)  the doing of the act by the person is prescribed by the regulations.
 
-Note 1:       A defendant bears an evidential burden in relation to the matter in subsection (9) (see subsection 13.3(3) of the _Criminal Code_).
+Note 1:       A defendant bears an evidential burden in relation to the matter in subsection (9) (see subsection 13.3(3) of the _Criminal Code_).
 
 Note 2:       For the making of regulations prescribing the doing of an act by a person, see section 249.
 
@@ -8218,7 +8158,7 @@ Defence—no promotion, advertising etc.
 
                              (ii)  the person did not direct or request (expressly or impliedly) another person to do such promoting, advertising or marketing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—interoperability
 
@@ -8236,7 +8176,7 @@ Defence—interoperability
 
                             (iii)  will be done for the sole purpose of achieving interoperability of an independently created computer program with the original program or any other program.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—encryption research
 
@@ -8268,7 +8208,7 @@ Defence—encryption research
 
 In this subsection, **_encryption technology_** means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—computer security testing
 
@@ -8288,7 +8228,7 @@ Defence—computer security testing
 
                             (iv)  will be done with the permission of the owner of the computer, computer system or computer network.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—law enforcement and national security
 
@@ -8302,7 +8242,7 @@ Defence—law enforcement and national security
 
 by or on behalf of the Commonwealth, a State or a Territory, or an authority of one of those bodies.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—libraries etc.
 
@@ -8312,9 +8252,9 @@ Defence—libraries etc.
 
                      (b)  a body mentioned in:
 
-                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
+                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
 
-                             (ii)  subsection 10(4);
+                             (ii)  subsection 10(4);
 
                      (c)  an educational institution;
 
@@ -8322,7 +8262,7 @@ Defence—libraries etc.
 
 Note 1:       A library that is owned by a person conducting a business for profit might not itself be conducted for profit (see section 18).
 
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
              (8)  This section does not apply in respect of anything lawfully done by a person in connection with a work or other subject‑matter if:
 
@@ -8330,7 +8270,7 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
                      (b)  under subsection (7), it would be lawful for the National Archives of Australia to do that thing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="132APE"></a>132APE  Providing etc. a circumvention service for a technological protection measure
 
@@ -8360,7 +8300,7 @@ Defence—no promotion, advertising etc.
 
                              (ii)  the person did not direct or request (expressly or impliedly) another person to do such promoting, advertising or marketing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—interoperability
 
@@ -8378,7 +8318,7 @@ Defence—interoperability
 
                             (iii)  will be done for the sole purpose of achieving interoperability of an independently created computer program with the original program or any other program.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—encryption research
 
@@ -8410,7 +8350,7 @@ Defence—encryption research
 
 In this subsection, **_encryption technology_** means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—computer security testing
 
@@ -8430,7 +8370,7 @@ Defence—computer security testing
 
                             (iv)  will be done with the permission of the owner of the computer, computer system or computer network.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—law enforcement and national security
 
@@ -8444,7 +8384,7 @@ Defence—law enforcement and national security
 
 by or on behalf of the Commonwealth, a State or a Territory, or an authority of one of those bodies.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
 
 Defence—libraries etc.
 
@@ -8454,9 +8394,9 @@ Defence—libraries etc.
 
                      (b)  a body mentioned in:
 
-                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
+                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
 
-                             (ii)  subsection 10(4);
+                             (ii)  subsection 10(4);
 
                      (c)  an educational institution;
 
@@ -8464,7 +8404,7 @@ Defence—libraries etc.
 
 Note 1:       A library that is owned by a person conducting a business for profit might not itself be conducted for profit (see section 18).
 
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
              (8)  This section does not apply in respect of anything lawfully done by a person in connection with a work or other subject‑matter if:
 
@@ -8472,7 +8412,7 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
                      (b)  under subsection (7), it would be lawful for the National Archives of Australia to do that thing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (8) (see subsection 13.3(3) of the _Criminal Code_).
 
 #### Subdivision F—Electronic rights management information
 
@@ -8496,7 +8436,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -8572,7 +8512,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -8664,7 +8604,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -8730,7 +8670,7 @@ Law enforcement and national security
 
                      (b)  an authority of the Commonwealth or of a State or Territory.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (1) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (1) (see subsection 13.3(3) of the _Criminal Code_).
 
 Certain public institutions etc.
 
@@ -8740,9 +8680,9 @@ Certain public institutions etc.
 
                      (b)  a body mentioned in:
 
-                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
+                              (i)  paragraph (a) of the definition of **_archives_** in subsection 10(1); or
 
-                             (ii)  subsection 10(4);
+                             (ii)  subsection 10(4);
 
                      (c)  an educational institution;
 
@@ -8754,7 +8694,7 @@ Certain public institutions etc.
 
 Note 1:       A library that is owned by a person conducting a business for profit might not itself be conducted for profit (see section 18).
 
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
              (3)  This Subdivision does not apply in respect of anything lawfully done by a person in connection with a work or other subject‑matter if:
 
@@ -8762,7 +8702,7 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
                      (b)  under subsection (2), it would be lawful for the National Archives of Australia to do that thing.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
 #### Subdivision G—Evidence
 
@@ -8927,7 +8867,7 @@ Presumption about film maker
 
                      (a)  the person is the maker of the film; and
 
-                     (b)  the person made the film in circumstances to which subsection 98(3) does not apply;
+                     (b)  the person made the film in circumstances to which subsection 98(3) does not apply;
 
 unless the contrary is established.
 
@@ -9059,11 +8999,11 @@ may be given by affidavit.
 
                     <a name="import"></a>**_importer_**, in relation to copies of copyright material, includes a person who or which is, or holds himself, herself or itself out to be, the owner or importer of the goods comprising the copies.
 
-                    <a name="objector"></a>**_objector_**, in relation to particular seized copies, means the person who gave the notice under subsection 135(2) as a result of the giving of which the copies were seized.
+                    <a name="objector"></a>**_objector_**, in relation to particular seized copies, means the person who gave the notice under subsection 135(2) as a result of the giving of which the copies were seized.
 
                     <a name="owner"></a>**_owner_**, in relation to the copyright in copyright material, includes an exclusive licensee of the copyright in the material.
 
-                    <a name="seiz-copi"></a>**_seized copies_** means copies seized under subsection 135(7).
+                    <a name="seiz-copi"></a>**_seized copies_** means copies seized under subsection 135(7).
 
 ##### <a id="135"></a>135  Restriction of importation of copies of works etc.
 
@@ -9099,7 +9039,7 @@ whichever is the earlier.
 
           (6A)  If the CEO believes, on reasonable grounds, that it is no longer appropriate to give effect to a notice given under subsection (2), the CEO may, by writing, declare the notice to be ineffective.
 
-Note:          Subsection 195B(3) requires the CEO to notify the person who gave the notice of the decision declaring the notice to be ineffective.
+Note:          Subsection 195B(3) requires the CEO to notify the person who gave the notice of the decision declaring the notice to be ineffective.
 
              (7)  If:
 
@@ -9137,9 +9077,9 @@ the CEO may seize the copies.
 
 ##### <a id="135AA"></a>135AA  Decision not to seize unless expenses are covered
 
-             (1)  Subject to subsection (2), the CEO may decide not to seize the copies under subsection 135(7) unless he or she has been given by the objector (or by one or more of the objectors) a written undertaking acceptable to the CEO to repay to the Commonwealth the expenses of seizing the copies.
+             (1)  Subject to subsection (2), the CEO may decide not to seize the copies under subsection 135(7) unless he or she has been given by the objector (or by one or more of the objectors) a written undertaking acceptable to the CEO to repay to the Commonwealth the expenses of seizing the copies.
 
-             (2)  The CEO may decide not to seize the copies under subsection 135(7) unless he or she has been given by the objector (or one or more of the objectors), instead of an undertaking, security in an amount that the CEO considers sufficient to repay to the Commonwealth the expenses of seizing the copies if:
+             (2)  The CEO may decide not to seize the copies under subsection 135(7) unless he or she has been given by the objector (or one or more of the objectors), instead of an undertaking, security in an amount that the CEO considers sufficient to repay to the Commonwealth the expenses of seizing the copies if:
 
                      (a)  an amount payable under an undertaking given by the objector (or one or more of the objectors) in relation to other copies has not been paid in accordance with the undertaking; and
 
@@ -9157,7 +9097,7 @@ the CEO may seize the copies.
 
 ##### <a id="135AC"></a>135AC  Notice of seizure
 
-             (1)  As soon as is practicable after copies are seized under subsection 135(7), the CEO must give to the importer and the objector, either personally or by post, a written notice identifying the copies and stating that the identified copies have been seized.
+             (1)  As soon as is practicable after copies are seized under subsection 135(7), the CEO must give to the importer and the objector, either personally or by post, a written notice identifying the copies and stating that the identified copies have been seized.
 
              (2)  A notice under subsection (1) must also state:
 
@@ -9239,9 +9179,9 @@ the CEO may extend the retention period by such period as is prescribed.
 
              (2)  For the purpose of subsection (1), the retention period for seized copies is:
 
-                     (a)  the period specified in a notice given under subsection 135AC(1) in respect of the copies; or
+                     (a)  the period specified in a notice given under subsection 135AC(1) in respect of the copies; or
 
-                     (b)  if that period has been extended under subsection 135AC(6), that period as so extended.
+                     (b)  if that period has been extended under subsection 135AC(6), that period as so extended.
 
              (3)  If:
 
@@ -9285,7 +9225,7 @@ the court may order the objector to pay to that defendant such amount as the cou
 
 ##### <a id="135AH"></a>135AH  Retention of control of seized copies
 
-                   In spite of section 135AF, in a case in which no order has been made under subsection 135AG(4) in relation to seized copies, the CEO is not obliged to release or dispose of the copies if the CEO is required or permitted, under any other law of the Commonwealth, to retain control of the copies.
+                   In spite of section 135AF, in a case in which no order has been made under subsection 135AG(4) in relation to seized copies, the CEO is not obliged to release or dispose of the copies if the CEO is required or permitted, under any other law of the Commonwealth, to retain control of the copies.
 
 ##### <a id="135AI"></a>135AI  Disposal of seized copies ordered to be forfeited
 
@@ -9311,7 +9251,7 @@ the court may order the objector to pay to that defendant such amount as the cou
 
                      (b)  may be recovered by an action taken in a court of competent jurisdiction.
 
-             (4)  If security given under subsection 135AA(2) by the objector or objectors who gave notice under section 135 is not sufficient to meet the expenses incurred by the Commonwealth as a result of the action taken by the CEO under this Division because of the notice, the amount of the difference between those expenses and the amount of security:
+             (4)  If security given under subsection 135AA(2) by the objector or objectors who gave notice under section 135 is not sufficient to meet the expenses incurred by the Commonwealth as a result of the action taken by the CEO under this Division because of the notice, the amount of the difference between those expenses and the amount of security:
 
                      (a)  is a debt due by the objector, or by the objectors jointly or each of them separately, to the Commonwealth; and
 
@@ -9371,7 +9311,7 @@ where, apart from any breaks for the purposes of the transmission of incidental 
 
                      (b)  an authority of the Commonwealth or of a State or Territory.
 
-Note:          A defendant in proceedings for an offence against this Part bears an evidential burden in relation to the matter in this section (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant in proceedings for an offence against this Part bears an evidential burden in relation to the matter in this section (see subsection 13.3(3) of the _Criminal Code_).
 
 ### Division 2—Actions
 
@@ -9539,9 +9479,9 @@ Note:          Paragraph (b)—the making of such a film, re
 
                    Jurisdiction is conferred on the Federal Court of Australia with respect to actions under this Part.
 
-##### <a id="135AS"></a>135AS  Jurisdiction of Federal Circuit Court of Australia
+##### <a id="135AS"></a>135AS  Jurisdiction of Federal Magistrates Court
 
-                   Jurisdiction is conferred on the Federal Circuit Court of Australia with respect to actions under this Part.
+                   Jurisdiction is conferred on the Federal Magistrates Court with respect to actions under this Part.
 
 ### Division 3—Offences
 
@@ -9557,7 +9497,7 @@ Note:          Paragraph (b)—the making of such a film, re
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASB"></a>135ASB  Selling or hiring unauthorised decoder
 
@@ -9569,7 +9509,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASC"></a>135ASC  Offering unauthorised decoder for sale or hire
 
@@ -9589,7 +9529,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASD"></a>135ASD  Commercially exhibiting unauthorised decoder in public
 
@@ -9609,7 +9549,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASE"></a>135ASE  Importing unauthorised decoder commercially
 
@@ -9635,7 +9575,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASF"></a>135ASF  Distributing unauthorised decoder
 
@@ -9653,7 +9593,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASG"></a>135ASG  Making unauthorised decoder available online
 
@@ -9667,7 +9607,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 ##### <a id="135ASH"></a>135ASH  Making decoder available online for subscription broadcast
 
@@ -9691,9 +9631,9 @@ Note:          A corporation may be fined up to 5 times the am
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
-##### <a id="135ASI"></a>135ASI  Unauthorised access to subscription broadcast etc.
+##### <a id="135ASI"></a>135ASI  Unauthorised access to subscription broadcast etc.
 
                    A person commits an offence if:
 
@@ -9717,7 +9657,7 @@ Note:          A corporation may be fined up to 5 times the am
 
                              (ii)  a copy of such a film or recording.
 
-Note:           The making of such a film, recording or copy may be an infringement of copyright: see paragraphs 87(a) and (b) and section 101.
+Note:       The making of such a film, recording or copy may be an infringement of copyright: see paragraphs 87(a) and (b) and section 101.
 
                     Penalty:  60 penalty units.
 
@@ -9781,7 +9721,7 @@ Note:          Paragraph (e)—the making of such a film, re
 
              (4)  An offence against subsection (1), (2) or (3) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 #### Subdivision B—Prosecutions
 
@@ -9793,7 +9733,7 @@ Note:          A corporation may be fined up to 5 times the am
 
              (3)  The Federal Court of Australia has jurisdiction to hear and determine prosecutions of summary offences against this Division.
 
-             (4)  Also, section 4J (except subsection 4J(2)) of the _Crimes Act 1914_ applies in relation to the Federal Court of Australia and an indictable offence against this Division in the way in which that section would apply if that court were a court of summary jurisdiction.
+             (4)  Also, section 4J (except subsection 4J(2)) of the _Crimes Act 1914_ applies in relation to the Federal Court of Australia and an indictable offence against this Division in the way in which that section would apply if that court were a court of summary jurisdiction.
 
 Note:          Section 4J of the _Crimes Act 1914_ lets a court of summary jurisdiction try indictable offences in certain circumstances and subject to limits on the penalties the court can impose.
 
@@ -9841,7 +9781,7 @@ Note:          Section 4J of the _Crimes Act 1914_ lets a co
 
                      (b)  a performer in a performance.
 
-                    <a name="remuner-notic"></a>**_remuneration notice_** means a notice referred to in subsection 135G(1).
+                    <a name="remuner-notic"></a>**_remuneration notice_** means a notice referred to in subsection 135G(1).
 
                     <a name="rule"></a>**_rules_**_,_ in relation to the collecting society, means the provisions of the memorandum and articles of association of the society.
 
@@ -9861,7 +9801,7 @@ Note:          Section 4J of the _Crimes Act 1914_ lets a co
 
              (1)  This Part, and the rest of this Act so far as it relates to this Part or to a provision of this Part, apply in relation to a communication of the content of a free‑to‑air broadcast, by the broadcaster making the content available online at or after the time of the broadcast, in the same way as they apply in relation to the broadcast.
 
-             (2)  The reference to free‑to‑air broadcast in subsection (1) does not include a reference to a broadcast within the meaning of paragraph (b) of the definition of **_free‑to‑air broadcast_** in subsection 10(1).
+             (2)  The reference to free‑to‑air broadcast in subsection (1) does not include a reference to a broadcast within the meaning of paragraph (b) of the definition of **_free‑to‑air broadcast_** in subsection 10(1).
 
 ##### <a id="135D"></a>135D  Operation of collecting society rules
 
@@ -9879,7 +9819,7 @@ Note:          Section 4J of the _Crimes Act 1914_ lets a co
 
                      (c)  where the copy or communication is made by, or on behalf of, a body administering an institution assisting persons with an intellectual disability—the copy or communication is made solely for the purposes of use in the provision of assistance to persons with an intellectual disability by the institution or by another similar institution; and
 
-                     (d)  the administering body complies with subsection 135K(1) or (3), or section 135KA, as the case requires, in relation to the copy or communication.
+                     (d)  the administering body complies with subsection 135K(1) or (3), or section 135KA, as the case requires, in relation to the copy or communication.
 
           (1A)  For the purposes of Part XIA, each performer of a performance is taken to have authorised an administering body, or a person on behalf of an administering body, to make or communicate a copy of a broadcast of the performance if the following paragraphs are satisfied:
 
@@ -9889,7 +9829,7 @@ Note:          Section 4J of the _Crimes Act 1914_ lets a co
 
                      (c)  if the copy or communication is made by, or on behalf of, a body administering an institution assisting persons with an intellectual disability—the copy or communication is made solely for the purposes of use in the provision of assistance to persons with an intellectual disability by the institution or by another similar institution;
 
-                     (d)  the administering body complies with subsection 135K(1) or (3), or section 135KA, as the case requires, in relation to the copy or communication.
+                     (d)  the administering body complies with subsection 135K(1) or (3), or section 135KA, as the case requires, in relation to the copy or communication.
 
 Note:          The effect of this subsection is that no right of action and no offence occurs in respect of the copy or communication under Part XIA (performers’ protection).
 
@@ -9928,7 +9868,7 @@ Note:          The effect of this subsection is that no right 
 
                      (b)  where the relevant institution is an institution assisting persons with an intellectual disability—the copy is retained solely for the purpose of use in the provision of assistance to such persons by the institution.
 
-             (5)  Where a preview copy is retained under subsection (4), subsection 135E(1) or (1A) applies in relation to the copy after the end of the preview period as if the copy had been made solely for a purpose referred to in paragraph 135E(1)(b) or (c) or (1A)(b) or (c), as the case requires.
+             (5)  Where a preview copy is retained under subsection (4), subsection 135E(1) or (1A) applies in relation to the copy after the end of the preview period as if the copy had been made solely for a purpose referred to in paragraph 135E(1)(b) or (c) or (1A)(b) or (c), as the case requires.
 
              (6)  Where a preview copy is neither destroyed within the preview period nor retained under subsection (4), subsections (1) and (1A) do not apply, and shall be taken never to have applied, to the making of the copy.
 
@@ -10079,7 +10019,7 @@ sections 135E and 135F do not apply to any copy of a broadcast, or communicati
 
              (1)  This section applies if:
 
-                     (a)  it is necessary or convenient to determine a question to facilitate future compliance by an administering body or the collecting society with this Division or the provisions of the collecting society’s rules described in paragraph 135P(3)(d); and
+                     (a)  it is necessary or convenient to determine a question to facilitate future compliance by an administering body or the collecting society with this Division or the provisions of the collecting society’s rules described in paragraph 135P(3)(d); and
 
                      (b)  the question is not determined by another provision of this Part or regulations made for the purposes of this Part; and
 
@@ -10319,13 +10259,13 @@ Note:          Section 153BAC sets out the procedure of the 
 
                      (a)  at the time the copy is made, the first collecting society has not been declared;
 
-                     (b)  a notice given by the administering body to the notice holder under subsection 135W(1) is in force;
+                     (b)  a notice given by the administering body to the notice holder under subsection 135W(1) is in force;
 
                      (c)  where the copy is made by, or on behalf of, a body administering an educational institution—the copy is made solely for the educational purposes of the institution or of another educational institution;
 
                      (d)  where the copy is made by, or on behalf of a body administering an institution assisting persons with an intellectual disability—the copy is made solely for the purposes of use in the provision of assistance to persons with an intellectual disability by the institution or by another similar institution; and
 
-                     (e)  the administering body complies with paragraphs 135K(1)(a), (b) and (c) or subsection 135K(3), in so far as those provisions apply.
+                     (e)  the administering body complies with paragraphs 135K(1)(a), (b) and (c) or subsection 135K(3), in so far as those provisions apply.
 
              (2)  Where a copy of a broadcast referred to in subsection (1):
 
@@ -10333,7 +10273,7 @@ Note:          Section 153BAC sets out the procedure of the 
 
                      (b)  is made, sold or otherwise supplied for a financial profit; or
 
-                     (c)  is given to an administering body when there is not in force a notice given by that body to the notice holder under subsection 135W(1);
+                     (c)  is given to an administering body when there is not in force a notice given by that body to the notice holder under subsection 135W(1);
 
 with the consent of the administering body by whom, or on whose behalf, it is made, subsection (1) does not apply, and shall be taken never to have applied, to the making of the copy.
 
@@ -10341,9 +10281,9 @@ with the consent of the administering body by whom, or on whose behalf, it is ma
 
                    Section 135F applies to the making of preview copies of broadcasts before the first collecting society is declared as if:
 
-                     (a)  the reference in paragraph 135F(2)(b) to a remuneration notice given by an administering body to the collecting society were a reference to a notice under subsection 135W(1) given by the administering body to the notice holder; and
+                     (a)  the reference in paragraph 135F(2)(b) to a remuneration notice given by an administering body to the collecting society were a reference to a notice under subsection 135W(1) given by the administering body to the notice holder; and
 
-                     (b)  the references in subsection 135F(5) to subsection 135E(1), and paragraphs 135E(1)(b) and (c), were references to subsection 135U(1), and paragraphs 135U(1)(c) and (d), respectively.
+                     (b)  the references in subsection 135F(5) to subsection 135E(1), and paragraphs 135E(1)(b) and (c), were references to subsection 135U(1), and paragraphs 135U(1)(c) and (d), respectively.
 
 ##### <a id="135W"></a>135W  Notices by administering bodies
 
@@ -10357,23 +10297,23 @@ with the consent of the administering body by whom, or on whose behalf, it is ma
 
 ##### <a id="135X"></a>135X  Marking and record keeping requirements
 
-             (1)  Where an administering body gives a notice under subsection 135W(1) that specifies that the amount of equitable remuneration is to be assessed on the basis of a records system, paragraphs 135K(1)(a), (b) and (d) and subsection 135K(2) apply as if:
+             (1)  Where an administering body gives a notice under subsection 135W(1) that specifies that the amount of equitable remuneration is to be assessed on the basis of a records system, paragraphs 135K(1)(a), (b) and (d) and subsection 135K(2) apply as if:
 
                      (a)  the reference to the collecting society were a reference to the notice holder; and
 
-                     (b)  references to a records notice were references to the notice under subsection 135W(1).
+                     (b)  references to a records notice were references to the notice under subsection 135W(1).
 
-             (2)  Where an administering body gives a notice under subsection 135W(1) that specifies that the amount of equitable remuneration is to be assessed on the basis of a sampling system, subsection 135K(3) applies as if:
+             (2)  Where an administering body gives a notice under subsection 135W(1) that specifies that the amount of equitable remuneration is to be assessed on the basis of a sampling system, subsection 135K(3) applies as if:
 
                      (a)  the reference to the collecting society were a reference to the notice holder; and
 
-                     (b)  references to a sampling notice were references to the notice under subsection 135W(1).
+                     (b)  references to a sampling notice were references to the notice under subsection 135W(1).
 
 ##### <a id="135Y"></a>135Y  Effect of declaration of collecting society
 
-             (1)  Where the first collecting society is declared, a notice given by an administering body to the notice holder under subsection 135W(1) and in force immediately before that declaration shall, on and after that declaration, be taken, for the purposes of this Part, to be a records notice or a sampling notice, as the case may be, given by that body to the collecting society, being a records notice or sampling notice that came into force on the day on which the notice came into force.
+             (1)  Where the first collecting society is declared, a notice given by an administering body to the notice holder under subsection 135W(1) and in force immediately before that declaration shall, on and after that declaration, be taken, for the purposes of this Part, to be a records notice or a sampling notice, as the case may be, given by that body to the collecting society, being a records notice or sampling notice that came into force on the day on which the notice came into force.
 
-             (2)  Where a notice is to be taken under this section to be a records notice, the relevant administering body shall cause copies of all records made under paragraph 135K(1)(b) on or after the day on which the notice is taken to have come into force to be sent to the collecting society within 21 days after the declaration of the collecting society.
+             (2)  Where a notice is to be taken under this section to be a records notice, the relevant administering body shall cause copies of all records made under paragraph 135K(1)(b) on or after the day on which the notice is taken to have come into force to be sent to the collecting society within 21 days after the declaration of the collecting society.
 
 ### Division 5—Miscellaneous
 
@@ -10431,7 +10371,7 @@ with the consent of the administering body by whom, or on whose behalf, it is ma
 
                     <a name="relev-copyright-owner"></a>**_relevant copyright owner_** means the owner of the copyright in a work or an eligible item other than a work, but does not include a new owner of the copyright in a sound recording of a live performance within the meaning of Subdivision B of Division 5 of Part IV.
 
-                    <a name="remuner-notic"></a>**_remuneration notice_** means a notice referred to in subsection 135ZU(1).
+                    <a name="remuner-notic"></a>**_remuneration notice_** means a notice referred to in subsection 135ZU(1).
 
                     <a name="rule"></a>**_rules_**, in relation to a collecting society, means the provisions of the memorandum and articles of association of the society.
 
@@ -10521,7 +10461,7 @@ that subsection does not apply to the making, by or on behalf of that person, of
 
                      (b)  the reproduction is carried out solely for the educational purposes of the institution or of another educational institution; and
 
-                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction.
+                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction.
 
              (2)  This section does not apply in relation to reproductions of, or of parts of, 2 or more articles contained in the same periodical publication unless the articles relate to the same subject‑matter.
 
@@ -10533,7 +10473,7 @@ that subsection does not apply to the making, by or on behalf of that person, of
 
                      (b)  the reproduction is carried out solely for the educational purposes of the institution or of another educational institution; and
 
-                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction.
+                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction.
 
 ##### <a id="135ZL"></a>135ZL  Multiple reproduction of works that are in hardcopy form by educational institutions
 
@@ -10543,7 +10483,7 @@ that subsection does not apply to the making, by or on behalf of that person, of
 
                      (b)  the reproduction is carried out solely for the educational purposes of the institution or of another educational institution; and
 
-                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction.
+                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction.
 
              (2)  This section does not apply in relation to reproductions of the whole, or of more than a reasonable portion, of a work that has been separately published unless the person who makes the reproductions, or causes the reproductions to be made, for, or on behalf of, the body is satisfied, after reasonable investigation, that reproductions (other than second‑hand reproductions) of the work cannot be obtained within a reasonable time at an ordinary commercial price.
 
@@ -10661,7 +10601,7 @@ by, or on behalf of, a body administering an educational institution if:
 
                      (d)  the reproduction or communication is carried out solely for the educational purposes of the institution or of another educational institution; and
 
-                     (e)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction or communication.
+                     (e)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction or communication.
 
              (2)  This section does not apply in relation to the reproduction or communication of, or of parts of, 2 or more articles contained in the same periodical publication unless the articles relate to the same subject‑matter.
 
@@ -10679,7 +10619,7 @@ by, or on behalf of, a body administering an educational institution if:
 
                      (d)  the reproduction or communication is carried out solely for the educational purposes of the institution or of another educational institution; and
 
-                     (e)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction or communication.
+                     (e)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each reproduction or communication.
 
              (2)  This section does not apply in relation to the reproduction or communication of:
 
@@ -10713,7 +10653,7 @@ that subsection does not apply to the making available online by, or on behalf o
 
                       (f)  the reproduction or communication is made solely for the educational purposes of the institution or of another educational institution; and
 
-                     (g)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA in relation to each reproduction or communication.
+                     (g)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA in relation to each reproduction or communication.
 
 ##### <a id="135ZME"></a>135ZME  Application of Division to certain illustrations in electronic form
 
@@ -10755,7 +10695,7 @@ the amount of the remuneration must be divided among the owner or owners of the 
 
                      (b)  each record is made, or each communication is carried out solely for the purpose of use in the provision, whether by the institution or otherwise, of assistance to persons with a print disability; and
 
-                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each copy or communication.
+                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each copy or communication.
 
              (2)  The copyright in a published literary or dramatic work is not infringed by the making or communication by, or on behalf of, a body administering an institution assisting persons with a print disability, of one or more Braille versions, large‑print versions, photographic versions or electronic versions of the work or of a part of the work if:
 
@@ -10763,7 +10703,7 @@ the amount of the remuneration must be divided among the owner or owners of the 
 
                      (b)  each version is made, or each communication is carried out, solely for the purpose of the provision, whether by the institution or otherwise of assistance to persons with a print disability; and
 
-                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each version or communication.
+                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to each version or communication.
 
              (3)  Where a sound recording of a work has been published, subsection (1) does not apply to the making of any record embodying a sound recording of the work (including a record that is a copy of that first‑mentioned sound recording) for, or on behalf of, a body administering an institution assisting persons with a print disability unless the person who makes that record, or causes that record to be made, is satisfied, after reasonable investigation, that no new record that embodies only a sound recording of the work can be obtained within a reasonable time at an ordinary commercial price.
 
@@ -10835,7 +10775,7 @@ subsection (1) does not apply, and is taken to never have applied, to the maki
 
                      (b)  the copying or communication is carried out solely for the purpose of use in the provision, whether by the institution or otherwise, of assistance to persons with an intellectual disability; and
 
-                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to the copy or communication.
+                     (c)  the body complies with subsection 135ZX(1) or (3) or section 135ZXA, as the case requires, in relation to the copy or communication.
 
              (2)  Subsection (1) does not apply to the making or communication of a copy of the whole or a part of:
 
@@ -10929,7 +10869,7 @@ sections 135ZJ, 135ZK, 135ZL, 135ZMC, 135ZMD, 135ZP and 135ZS do not apply to 
 
                              (ii)  this Division; or
 
-                            (iii)  the provisions of a collecting society’s rules described in paragraph 135ZZB(3)(d); and
+                            (iii)  the provisions of a collecting society’s rules described in paragraph 135ZZB(3)(d); and
 
                      (b)  the question is not determined by another provision of this Part or regulations made for the purposes of this Part; and
 
@@ -11197,7 +11137,7 @@ Note:          Section 153DD sets out the procedure of the C
 
 with the consent of the administering body by whom, or on whose behalf, it is made or communicated, the prescribed provision does not apply, and is taken never to have applied, to the making or communication of the copy, record or version.
 
-             (2)  For the purposes of this section, subsection 135ZG(1), subsection 135ZJ(1), section 135ZK and subsections 135ZL(1), 135ZMB(1), 135ZMC(1), 135ZMD(1), 135ZP(1) and (2) and 135ZS(1) are prescribed provisions.
+             (2)  For the purposes of this section, subsection 135ZG(1), subsection 135ZJ(1), section 135ZK and subsections 135ZL(1), 135ZMB(1), 135ZMC(1), 135ZMD(1), 135ZP(1) and (2) and 135ZS(1) are prescribed provisions.
 
 ## Part VC—Retransmission of free‑to‑air broadcasts
 
@@ -11235,7 +11175,7 @@ with the consent of the administering body by whom, or on whose behalf, it is ma
 
                      (a)  the retransmission is a re‑broadcast by a satellite BSA licensee; and
 
-                     (b)  subsection 135ZZZI(1) or (2) applies to the re‑broadcast.
+                     (b)  subsection 135ZZZI(1) or (2) applies to the re‑broadcast.
 
 ### Division 2—Retransmission of free‑to‑air broadcasts
 
@@ -11297,13 +11237,13 @@ with the consent of the administering body by whom, or on whose behalf, it is ma
 
              (4)  A retransmitter who contravenes subsection (3) is guilty of an offence punishable, on conviction, by a fine not exceeding 10 penalty units.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine. See subsection 4B(3) of the _Crimes Act 1914_.
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine. See subsection 4B(3) of the _Crimes Act 1914_.
 
 ##### <a id="135ZZQ"></a>135ZZQ  Identity cards
 
-             (1)  The chief executive officer (however described) of a collecting society must issue an identity card in the prescribed form to each person authorised by the society for the purposes of subsection 135ZZP(2). The identity card must contain a recent photograph of the authorised person.
+             (1)  The chief executive officer (however described) of a collecting society must issue an identity card in the prescribed form to each person authorised by the society for the purposes of subsection 135ZZP(2). The identity card must contain a recent photograph of the authorised person.
 
-             (2)  If an authorised person who attends or enters premises for the purpose of exercising powers conferred by subsection 135ZZP(2) fails to produce his or her identity card when asked to do so by a person apparently in charge of the premises, the authorised person must not enter or remain on the premises or exercise any other powers under subsection 135ZZP(2) at the premises.
+             (2)  If an authorised person who attends or enters premises for the purpose of exercising powers conferred by subsection 135ZZP(2) fails to produce his or her identity card when asked to do so by a person apparently in charge of the premises, the authorised person must not enter or remain on the premises or exercise any other powers under subsection 135ZZP(2) at the premises.
 
              (3)  A person is guilty of an offence punishable on conviction by a fine not exceeding 1 penalty unit if:
 
@@ -11313,11 +11253,11 @@ Note:          A corporation may be fined up to 5 times the am
 
                      (c)  the person does not, immediately after he or she stops being an authorised person, return the identity card to the relevant collecting society.
 
-             (4)  An authorised person must carry his or her identity card at all times when exercising powers under subsection 135ZZP(2).
+             (4)  An authorised person must carry his or her identity card at all times when exercising powers under subsection 135ZZP(2).
 
 ##### <a id="135ZZR"></a>135ZZR  Revocation of remuneration notice
 
-                   A remuneration notice may be revoked at any time by the relevant retransmitter by notice in writing given to the collecting society to which the remuneration notice was given, and the revocation takes effect at the end of 3 months after the date of the notice, or on such later day as is specified in it.
+                   A remuneration notice may be revoked at any time by the relevant retransmitter by notice in writing given to the collecting society to which the remuneration notice was given, and the revocation takes effect at the end of 3 months after the date of the notice, or on such later day as is specified in it.
 
 ##### <a id="135ZZS"></a>135ZZS  Request for payment of equitable remuneration
 
@@ -11439,7 +11379,7 @@ Note:          Section 153Q sets out the procedure of the Co
 
                      (a)  at the time the retransmission is made, a collecting society has not been declared; and
 
-                     (b)  a notice given by the retransmitter by whom, or on whose behalf, the retransmission was made to the notice holder under subsection 135ZZZ(1) is in force; and
+                     (b)  a notice given by the retransmitter by whom, or on whose behalf, the retransmission was made to the notice holder under subsection 135ZZZ(1) is in force; and
 
                      (c)  the retransmitter complies with section 135ZZN.
 
@@ -11901,7 +11841,7 @@ is taken to be a financial year.
 
                      (d)  at the time the re‑broadcast is made, a collecting society has not been declared; and
 
-                     (e)  a notice given by the satellite BSA licensee to the notice holder under subsection 135ZZZV(1) is in force; and
+                     (e)  a notice given by the satellite BSA licensee to the notice holder under subsection 135ZZZV(1) is in force; and
 
                       (f)  the satellite BSA licensee complies with section 135ZZZL.
 
@@ -12142,7 +12082,7 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 ##### <a id="144B"></a>144B  Removal from office for failure to disclose interest
 
-                   Where the Governor‑General is satisfied that a member (other than a member who is a Judge) has failed, without reasonable excuse, to make a disclosure that he or she is, under subsection 144A(1), required to make, the Governor‑General shall remove that member from office.
+                   Where the Governor‑General is satisfied that a member (other than a member who is a Judge) has failed, without reasonable excuse, to make a disclosure that he or she is, under subsection 144A(1), required to make, the Governor‑General shall remove that member from office.
 
 ##### <a id="145"></a>145  Resignation
 
@@ -12174,7 +12114,7 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 ##### <a id="147"></a>147  President to arrange business of Tribunal
 
-                   The President may give directions as to the arrangement of the business of the Tribunal and, subject to subsection 146(2) or (3), as to the constitution of the Tribunal for the purposes of particular proceedings.
+                   The President may give directions as to the arrangement of the business of the Tribunal and, subject to subsection 146(2) or (3), as to the constitution of the Tribunal for the purposes of particular proceedings.
 
 ### Division 3—Applications and references to the Tribunal
 
@@ -12190,7 +12130,7 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 ##### <a id="149"></a>149  Applications to Tribunal for determination of remuneration payable for making recording or film of a work
 
-             (1)  This section applies where an application is made to the Tribunal in pursuance of subsection 47(3) or 70(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of a sound recording or cinematograph film of the work or of an adaptation of the work.
+             (1)  This section applies where an application is made to the Tribunal in pursuance of subsection 47(3) or 70(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of a sound recording or cinematograph film of the work or of an adaptation of the work.
 
              (2)  The parties to an application in relation to which this section applies are:
 
@@ -12202,7 +12142,7 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 ##### <a id="149A"></a>149A  Applications to Tribunal under section 47A
 
-             (1)  This section applies to any application made to the Tribunal under subsection 47A(8) for the determining of an amount payable by a person or body by way of equitable remuneration to an owner of copyright.
+             (1)  This section applies to any application made to the Tribunal under subsection 47A(8) for the determining of an amount payable by a person or body by way of equitable remuneration to an owner of copyright.
 
              (2)  The parties to an application to which this section applies are the person or body, and the owner of the copyright, referred to in subsection (1).
 
@@ -12210,7 +12150,7 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 ##### <a id="150"></a>150  Applications to Tribunal for determination of remuneration payable to owner of copyright in recording for making of a copy of the sound recording
 
-             (1)  This section applies where an application is made to the Tribunal in pursuance of subsection 107(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the making of a copy of the sound recording.
+             (1)  This section applies where an application is made to the Tribunal in pursuance of subsection 107(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the making of a copy of the sound recording.
 
              (2)  The parties to an application in relation to which this section applies are:
 
@@ -12222,7 +12162,7 @@ that case shall be deemed not to be a case to which the scheme applies.
 
 ##### <a id="151"></a>151  Applications to Tribunal for determination of remuneration payable to owner of copyright in recording in respect of public playing of the recording
 
-             (1)  This section applies where an application is made to the Tribunal in pursuance of subsection 108(1) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the causing of the recording to be heard in public.
+             (1)  This section applies where an application is made to the Tribunal in pursuance of subsection 108(1) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the causing of the recording to be heard in public.
 
              (2)  The parties to an application in relation to which this section applies are:
 
@@ -12396,7 +12336,7 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
 ##### <a id="153"></a>153  Applications to Tribunal for apportionment of royalty in respect of a record
 
-             (1)  This section applies where an application is made to the Tribunal in pursuance of paragraph 59(3)(b) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
+             (1)  This section applies where an application is made to the Tribunal in pursuance of paragraph 59(3)(b) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
 
              (2)  The parties to an application in relation to which this section applies are:
 
@@ -12408,11 +12348,11 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
 #### Subdivision C—Applications and references relating to Part VA
 
-##### <a id="153A"></a>153A  Applications to Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1)
+##### <a id="153A"></a>153A  Applications to Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1)
 
-             (1)  The parties to an application to the Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1) for the determination of the amount of equitable remuneration payable to the collecting society by an administering body for the making or communication, by or on behalf of that body, of a copy of a broadcast are the society and the body.
+             (1)  The parties to an application to the Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1) for the determination of the amount of equitable remuneration payable to the collecting society by an administering body for the making or communication, by or on behalf of that body, of a copy of a broadcast are the society and the body.
 
-             (2)  Where an application is made to the Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1), the Tribunal shall consider the application and, after giving the parties to the application the opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration for the making and communicating of copies of broadcasts.
+             (2)  Where an application is made to the Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1), the Tribunal shall consider the application and, after giving the parties to the application the opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration for the making and communicating of copies of broadcasts.
 
              (3)  In making an order, the Tribunal:
 
@@ -12424,19 +12364,19 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
              (5)  In this section, **_administering body_** and **_collecting society_** have the same meanings as in Part VA.
 
-##### <a id="153B"></a>153B  Applications to Tribunal under subsection 135J(3)
+##### <a id="153B"></a>153B  Applications to Tribunal under subsection 135J(3)
 
-             (1)  The parties to an application to the Tribunal under subsection 135J(3) for the determination of a sampling system are the collecting society and the administering body concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135J(3) for the determination of a sampling system are the collecting society and the administering body concerned.
 
-             (2)  Where an application is made to the Tribunal under subsection 135J(3), the Tribunal shall consider the application and, after giving the parties to the application an opportunity of presenting their cases, shall make an order determining the sampling system.
+             (2)  Where an application is made to the Tribunal under subsection 135J(3), the Tribunal shall consider the application and, after giving the parties to the application an opportunity of presenting their cases, shall make an order determining the sampling system.
 
              (3)  In this section, **_administering body_** and **_collecting society_** have the same meanings as in Part VA.
 
-##### <a id="153BAAA"></a>153BAAA  Application to the Tribunal under subsection 135JAA(2)
+##### <a id="153BAAA"></a>153BAAA  Application to the Tribunal under subsection 135JAA(2)
 
-             (1)  The parties to an application to the Tribunal under subsection 135JAA(2) for the determination of a question are the collecting society and the administering body concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135JAA(2) for the determination of a question are the collecting society and the administering body concerned.
 
-             (2)  If an application is made to the Tribunal under subsection 135JAA(2), the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the question.
+             (2)  If an application is made to the Tribunal under subsection 135JAA(2), the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the question.
 
              (3)  In determining the question, the Tribunal must have regard to such matters (if any) as are prescribed.
 
@@ -12446,11 +12386,11 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                     <a name="collect-societi"></a>**_collecting society_** has the same meaning as in Part VA.
 
-##### <a id="153BA"></a>153BA  Application to the Tribunal under subsection 135JA(3)
+##### <a id="153BA"></a>153BA  Application to the Tribunal under subsection 135JA(3)
 
-             (1)  The parties to an application to the Tribunal under subsection 135JA(3) for the determination of an agreed system are the collecting society and the administering body concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135JA(3) for the determination of an agreed system are the collecting society and the administering body concerned.
 
-             (2)  If an application is made to the Tribunal under subsection 135JA(3), the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the agreed system.
+             (2)  If an application is made to the Tribunal under subsection 135JA(3), the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the agreed system.
 
              (3)  In determining an agreed system, the Tribunal must have regard to such matters (if any) as are prescribed.
 
@@ -12458,13 +12398,13 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                     <a name="collect-societi"></a><a name="administering-bodi"></a>**_administering body_** and **_collecting society_** have the same meanings as in Part VA.
 
-##### <a id="153BAA"></a>153BAA  Application to the Tribunal under subsection 135K(2A)
+##### <a id="153BAA"></a>153BAA  Application to the Tribunal under subsection 135K(2A)
 
-             (1)  The parties to an application to the Tribunal under subsection 135K(2A) for the determination of a matter are the collecting society and the administering body concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135K(2A) for the determination of a matter are the collecting society and the administering body concerned.
 
-             (2)  If an application is made to the Tribunal under subsection 135K(2A) for the determination of a matter, the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the matter.
+             (2)  If an application is made to the Tribunal under subsection 135K(2A) for the determination of a matter, the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the matter.
 
-             (3)  In determining a matter described in subsection 135K(2A), the Tribunal must have regard to such matters (if any) as are prescribed.
+             (3)  In determining a matter described in subsection 135K(2A), the Tribunal must have regard to such matters (if any) as are prescribed.
 
              (4)  In this section:
 
@@ -12482,7 +12422,7 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                      (a)  the person asks to be made a party; and
 
-                     (b)  the Tribunal thinks that the person has a sufficient interest in the question whether the applicant should be declared to be the collecting society (including whether subsection 135P(2) prevents the applicant from being declared to be the collecting society because another body is declared to be the collecting society).
+                     (b)  the Tribunal thinks that the person has a sufficient interest in the question whether the applicant should be declared to be the collecting society (including whether subsection 135P(2) prevents the applicant from being declared to be the collecting society because another body is declared to be the collecting society).
 
              (4)  After giving each party an opportunity of presenting its case, the Tribunal must:
 
@@ -12554,19 +12494,19 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
 #### Subdivision D—Applications and references relating to Part VB
 
-##### <a id="153BB"></a>153BB  Application to the Tribunal under subsection 135ZME(3)
+##### <a id="153BB"></a>153BB  Application to the Tribunal under subsection 135ZME(3)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZME(3) for the determination of the division of an amount of remuneration are the relevant copyright owners.
+             (1)  The parties to an application to the Tribunal under subsection 135ZME(3) for the determination of the division of an amount of remuneration are the relevant copyright owners.
 
-             (2)  If an application is made to the Tribunal for a determination under subsection 135ZME(3), the Tribunal must consider the application and, after giving the parties to the application an opportunity to present their cases, must make an order determining the division of the amount to which the application relates between the parties in such manner as it thinks equitable.
+             (2)  If an application is made to the Tribunal for a determination under subsection 135ZME(3), the Tribunal must consider the application and, after giving the parties to the application an opportunity to present their cases, must make an order determining the division of the amount to which the application relates between the parties in such manner as it thinks equitable.
 
              (3)  In making an order, the Tribunal may have regard to such matters (if any) as are prescribed.
 
-##### <a id="153C"></a>153C  Applications to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1)
+##### <a id="153C"></a>153C  Applications to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1)
 
-             (1)  The parties to an application to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1) for the determination of the amount of equitable remuneration payable to a collecting society by an administering body for the making, by or on behalf of that body, of licensed copies or licensed communications are the society and the body.
+             (1)  The parties to an application to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1) for the determination of the amount of equitable remuneration payable to a collecting society by an administering body for the making, by or on behalf of that body, of licensed copies or licensed communications are the society and the body.
 
-             (2)  Where an application is made to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1), the Tribunal shall consider the application and, after giving the parties to the application the opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration for the making of a licensed copy or licensed communication.
+             (2)  Where an application is made to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1), the Tribunal shall consider the application and, after giving the parties to the application the opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration for the making of a licensed copy or licensed communication.
 
              (3)  In making an order, the Tribunal may have regard to such matters (if any) as are prescribed.
 
@@ -12576,19 +12516,19 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                     <a name="licens-copi"></a><a name="licens-commun"></a><a name="collect-societi"></a><a name="administering-bodi"></a>**_administering body_**, **_collecting society_**, **_licensed communication_** and **_licensed copy_** have the same meanings as in Part VB.
 
-##### <a id="153D"></a>153D  Applications to Tribunal under subsection 135ZW(3)
+##### <a id="153D"></a>153D  Applications to Tribunal under subsection 135ZW(3)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZW(3) for the determination of a sampling system to be used for the purpose of assessing the number of licensed copies made by, or on behalf of, an administering body, or any other relevant matters, are the relevant collecting society and the body.
+             (1)  The parties to an application to the Tribunal under subsection 135ZW(3) for the determination of a sampling system to be used for the purpose of assessing the number of licensed copies made by, or on behalf of, an administering body, or any other relevant matters, are the relevant collecting society and the body.
 
-             (2)  Where an application is made to the Tribunal under subsection 135ZW(3), the Tribunal shall consider the application and, after giving the parties to the application an opportunity of presenting their cases, shall make an order determining the sampling process.
+             (2)  Where an application is made to the Tribunal under subsection 135ZW(3), the Tribunal shall consider the application and, after giving the parties to the application an opportunity of presenting their cases, shall make an order determining the sampling process.
 
              (3)  In this section, **_administering body_**, **_collecting society_** and **_licensed copy_** have the same meanings as in Part VB.
 
-##### <a id="153DAA"></a>153DAA  Application to the Tribunal under subsection 135ZWAA(2)
+##### <a id="153DAA"></a>153DAA  Application to the Tribunal under subsection 135ZWAA(2)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZWAA(2) for the determination of a question are the collecting society and the administering body concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135ZWAA(2) for the determination of a question are the collecting society and the administering body concerned.
 
-             (2)  If an application is made to the Tribunal under subsection 135ZWAA(2), the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the question.
+             (2)  If an application is made to the Tribunal under subsection 135ZWAA(2), the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the question.
 
              (3)  In determining the question, the Tribunal must have regard to such matters (if any) as are prescribed.
 
@@ -12598,11 +12538,11 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                     <a name="collect-societi"></a>**_collecting society_** has the same meaning as in Part VB.
 
-##### <a id="153DA"></a>153DA  Applications to the Tribunal under subsection 135ZWA(2)
+##### <a id="153DA"></a>153DA  Applications to the Tribunal under subsection 135ZWA(2)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZWA(2) for the determination of an electronic use system to be used in relation to licensed copies or licensed communications made by, or on behalf of, an administering body, or any other relevant matters, are the relevant collecting society and the body.
+             (1)  The parties to an application to the Tribunal under subsection 135ZWA(2) for the determination of an electronic use system to be used in relation to licensed copies or licensed communications made by, or on behalf of, an administering body, or any other relevant matters, are the relevant collecting society and the body.
 
-             (2)  If an application is made to the Tribunal for a determination under subsection 135ZWA(2), the Tribunal must consider the application and, after giving the parties to the application an opportunity to present their cases, must make an order determining the matter that is the subject of the application.
+             (2)  If an application is made to the Tribunal for a determination under subsection 135ZWA(2), the Tribunal must consider the application and, after giving the parties to the application an opportunity to present their cases, must make an order determining the matter that is the subject of the application.
 
              (3)  In making an order, the Tribunal may have regard to such matters (if any) as are prescribed.
 
@@ -12610,13 +12550,13 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                     <a name="licens-copi"></a><a name="licens-commun"></a><a name="collect-societi"></a><a name="administering-bodi"></a>**_administering body_**, **_collecting society_**, **_licensed communication_** and **_licensed copy_** have the same meanings as in Part VB.
 
-##### <a id="153DB"></a>153DB  Application to the Tribunal under subsection 135ZX(2A)
+##### <a id="153DB"></a>153DB  Application to the Tribunal under subsection 135ZX(2A)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZX(2A) for the determination of a matter are the relevant collecting society and the administering body concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135ZX(2A) for the determination of a matter are the relevant collecting society and the administering body concerned.
 
-             (2)  If an application is made to the Tribunal under subsection 135ZX(2A) for the determination of a matter, the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the matter.
+             (2)  If an application is made to the Tribunal under subsection 135ZX(2A) for the determination of a matter, the Tribunal must consider the application and, after giving the parties to the application an opportunity of presenting their cases, must make an order determining the matter.
 
-             (3)  In determining a matter described in subsection 135ZX(2A), the Tribunal must have regard to such matters (if any) as are prescribed.
+             (3)  In determining a matter described in subsection 135ZX(2A), the Tribunal must have regard to such matters (if any) as are prescribed.
 
              (4)  In this section:
 
@@ -12710,15 +12650,15 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
 #### Subdivision E—Applications relating to Part VII
 
-##### <a id="153E"></a>153E  Applications to Tribunal under subsection 183(5)
+##### <a id="153E"></a>153E  Applications to Tribunal under subsection 183(5)
 
-             (1)  The parties to an application to the Tribunal under subsection 183(5) for the fixing of the terms for the doing of an act comprised in a copyright where the act is done for the services of the Commonwealth or a State are:
+             (1)  The parties to an application to the Tribunal under subsection 183(5) for the fixing of the terms for the doing of an act comprised in a copyright where the act is done for the services of the Commonwealth or a State are:
 
                      (a)  the Commonwealth or the State, as the case may be; and
 
                      (b)  the owner of the copyright.
 
-             (2)  If an application is made to the Tribunal under subsection 183(5), the Tribunal is to consider the application and, after giving the parties to the application an opportunity of presenting their cases, is to make an order fixing the terms for the doing of the act.
+             (2)  If an application is made to the Tribunal under subsection 183(5), the Tribunal is to consider the application and, after giving the parties to the application an opportunity of presenting their cases, is to make an order fixing the terms for the doing of the act.
 
 ##### <a id="153F"></a>153F  Applications to Tribunal to declare collecting society for government copies
 
@@ -12858,13 +12798,13 @@ the Tribunal must revoke the previous declaration.
 
 ##### <a id="153K"></a>153K  Applications to Tribunal for method of working out payment for government copies
 
-             (1)  A collecting society or a government may apply to the Tribunal for an order determining the method for working out remuneration payable under subsection 183A(2) for government copies made for the services of the government in a particular period.
+             (1)  A collecting society or a government may apply to the Tribunal for an order determining the method for working out remuneration payable under subsection 183A(2) for government copies made for the services of the government in a particular period.
 
              (2)  The parties to an application are the collecting society and the government.
 
              (3)  After giving each party an opportunity of presenting its case, the Tribunal must make an order determining the method.
 
-Note:          Subsection 183A(3) sets out matters that the method must provide for. Subsection 183A(4) sets out matters that the method may provide for.
+Note:          Subsection 183A(3) sets out matters that the method must provide for. Subsection 183A(4) sets out matters that the method may provide for.
 
              (4)  An order may also specify how and when payments of the amount worked out using the method determined are to be made.
 
@@ -12902,7 +12842,7 @@ Note:          Subsection 183A(3) sets out matters that the 
 
 ##### <a id="153L"></a>153L  Applications to Tribunal for review of declarations of certain educational institutions
 
-             (1)  This section applies where an application is made to the Tribunal under subsection 10A(5A) for review of a declaration included in a notice published under subsection 10A(4) for the purposes of paragraph (g), (h) or (i) of the definition of **_educational institution_** in subsection 10(1).
+             (1)  This section applies where an application is made to the Tribunal under subsection 10A(5A) for review of a declaration included in a notice published under subsection 10A(4) for the purposes of paragraph (g), (h) or (i) of the definition of **_educational institution_** in subsection 10(1).
 
              (2)  The parties to the application are:
 
@@ -12920,19 +12860,19 @@ Note:          Subsection 183A(3) sets out matters that the 
 
                      (a)  sets out full particulars of the name and address of the institution; and
 
-                     (b)  contains a statement to the effect that the notice previously published by the body administering the institution under subsection 10A(4) has been set aside.
+                     (b)  contains a statement to the effect that the notice previously published by the body administering the institution under subsection 10A(4) has been set aside.
 
-Upon publication of the Tribunal’s notice, the notice published under subsection 10A(4) ceases to have effect for the purposes of paragraph (g), (h) or (i) of the definition of **_educational institution_** in subsection 10(1).
+Upon publication of the Tribunal’s notice, the notice published under subsection 10A(4) ceases to have effect for the purposes of paragraph (g), (h) or (i) of the definition of **_educational institution_** in subsection 10(1).
 
              (5)  The Tribunal may only set aside a notice if it determines that the principal function, or the principal functions, as the case may be, of the institution concerned are not as described in the declaration included in the notice.
 
 #### Subdivision G—Applications and references relating to Part VC
 
-##### <a id="153M"></a>153M  Applications to the Tribunal under subsection 135ZZM(1)
+##### <a id="153M"></a>153M  Applications to the Tribunal under subsection 135ZZM(1)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZZM(1) for the determination of the amount of equitable remuneration payable to a collecting society by a retransmitter for the making, by or on behalf of the retransmitter, of a retransmission of a free‑to‑air broadcast are the society and the retransmitter.
+             (1)  The parties to an application to the Tribunal under subsection 135ZZM(1) for the determination of the amount of equitable remuneration payable to a collecting society by a retransmitter for the making, by or on behalf of the retransmitter, of a retransmission of a free‑to‑air broadcast are the society and the retransmitter.
 
-             (2)  On an application to the Tribunal under subsection 135ZZM(1), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the amount that it considers to be equitable remuneration for the making of retransmissions of free‑to‑air broadcasts.
+             (2)  On an application to the Tribunal under subsection 135ZZM(1), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the amount that it considers to be equitable remuneration for the making of retransmissions of free‑to‑air broadcasts.
 
              (3)  In making an order, the Tribunal may have regard to such matters (if any) as are prescribed.
 
@@ -12940,11 +12880,11 @@ Upon publication of the Tribunal’s notice, the notice published under subsecti
 
              (5)  In this section, **_collecting society_** and **_retransmitter_** have the same meanings as in Part VC.
 
-##### <a id="153N"></a>153N  Applications to Tribunal under subsection 135ZZN(3)
+##### <a id="153N"></a>153N  Applications to Tribunal under subsection 135ZZN(3)
 
-             (1)  The parties to an application to the Tribunal under subsection 135ZZN(3) for the determination of a record system are the collecting society and the retransmitter concerned.
+             (1)  The parties to an application to the Tribunal under subsection 135ZZN(3) for the determination of a record system are the collecting society and the retransmitter concerned.
 
-             (2)  On an application to the Tribunal under subsection 135ZZN(3), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the record system.
+             (2)  On an application to the Tribunal under subsection 135ZZN(3), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the record system.
 
              (3)  In this section, **_collecting society_** and **_retransmitter_** have the same meanings as in Part VC.
 
@@ -13056,15 +12996,15 @@ may apply to the Tribunal for an order determining the amount payable by the sat
 
                     <a name="elig-program"></a>**_eligible program_** has the same meaning as in Part VD.
 
-##### <a id="153S"></a>153S  Applications to the Tribunal under paragraph 135ZZZK(1)(b)—equitable remuneration
+##### <a id="153S"></a>153S  Applications to the Tribunal under paragraph 135ZZZK(1)(b)—equitable remuneration
 
-             (1)  The parties to an application to the Tribunal under paragraph 135ZZZK(1)(b) for the determination of the amount of equitable remuneration payable to a collecting society by a satellite BSA licensee for re‑broadcasts by the satellite BSA licensee of eligible programs are:
+             (1)  The parties to an application to the Tribunal under paragraph 135ZZZK(1)(b) for the determination of the amount of equitable remuneration payable to a collecting society by a satellite BSA licensee for re‑broadcasts by the satellite BSA licensee of eligible programs are:
 
                      (a)  the society; and
 
                      (b)  the satellite BSA licensee.
 
-             (2)  On an application to the Tribunal under paragraph 135ZZZK(1)(b), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the amount that it considers to be equitable remuneration for the re‑broadcast of eligible programs.
+             (2)  On an application to the Tribunal under paragraph 135ZZZK(1)(b), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the amount that it considers to be equitable remuneration for the re‑broadcast of eligible programs.
 
              (3)  In making an order, the Tribunal may have regard to such matters (if any) as are prescribed.
 
@@ -13076,15 +13016,15 @@ may apply to the Tribunal for an order determining the amount payable by the sat
 
                     <a name="elig-program"></a>**_eligible program_** has the same meaning as in Part VD.
 
-##### <a id="153T"></a>153T  Applications to Tribunal under paragraph 135ZZZL(3)(b)—record system
+##### <a id="153T"></a>153T  Applications to Tribunal under paragraph 135ZZZL(3)(b)—record system
 
-             (1)  The parties to an application to the Tribunal under paragraph 135ZZZL(3)(b) for the determination of a record system are:
+             (1)  The parties to an application to the Tribunal under paragraph 135ZZZL(3)(b) for the determination of a record system are:
 
                      (a)  the collecting society concerned; and
 
                      (b)  the satellite BSA licensee concerned.
 
-             (2)  On an application to the Tribunal under paragraph 135ZZZL(3)(b), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the record system.
+             (2)  On an application to the Tribunal under paragraph 135ZZZL(3)(b), the Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the record system.
 
              (3)  In this section:
 
@@ -13116,7 +13056,7 @@ may apply to the Tribunal for an order determining the amount payable by the sat
 
 ##### <a id="153V"></a>153V  References relating to revocation of declaration of collecting society
 
-             (1)  This section has effect if the Minister refers to the Copyright Tribunal under paragraph 135ZZZP(2)(b) the question whether the declaration of a body as a collecting society should be revoked.
+             (1)  This section has effect if the Minister refers to the Copyright Tribunal under paragraph 135ZZZP(2)(b) the question whether the declaration of a body as a collecting society should be revoked.
 
              (2)  The parties to the reference are:
 
@@ -13134,7 +13074,7 @@ may apply to the Tribunal for an order determining the amount payable by the sat
 
              (4)  After giving each party an opportunity to present its case, the Tribunal must:
 
-                     (a)  revoke the declaration of the collecting society under subsection 135ZZZP(3); or
+                     (a)  revoke the declaration of the collecting society under subsection 135ZZZP(3); or
 
                      (b)  refuse to revoke the declaration.
 
@@ -13294,7 +13234,7 @@ may refer the scheme reflecting the order to the Tribunal in so far as it relate
 
 This subsection has effect to subsection (5).
 
-             (5)  Subsections 155(3), (4), and (6) to (10) inclusive apply for the purposes of this section.
+             (5)  Subsections 155(3), (4), and (6) to (10) inclusive apply for the purposes of this section.
 
              (6)  The preceding subsections of this section have effect in relation to orders made under this section in like manner as they have effect in relation to orders made under either of the last two preceding sections.
 
@@ -13421,7 +13361,7 @@ Order under section 154\. 155 or 156
 
 Order under section 157 specifying conditions and charges
 
-             (4)  Where the Tribunal has made an order on an application under subsection 157(1), (2) or (3) specifying charges, if any, and conditions, in relation to the applicant, in respect of the matters specified in the order, then if:
+             (4)  Where the Tribunal has made an order on an application under subsection 157(1), (2) or (3) specifying charges, if any, and conditions, in relation to the applicant, in respect of the matters specified in the order, then if:
 
                      (a)  the applicant has complied with the conditions specified in the order; and
 
@@ -13429,7 +13369,7 @@ Order under section 157 specifying conditions and charges
 
 the applicant shall be in the like position, in any proceedings for infringement of copyright relating to any of those matters, as if he or she had at all material times been the holder of a licence granted by the owner of the copyright concerned on the conditions, and subject to payment of the charges (if any), specified in the order.
 
-             (5)  Where the Tribunal has made an order on an application under subsection 157(4) specifying charges (if any) and conditions, in relation to the persons, or to persons included in the classes of persons, specified in the order, in respect of matters specified in the order, then, if:
+             (5)  Where the Tribunal has made an order on an application under subsection 157(4) specifying charges (if any) and conditions, in relation to the persons, or to persons included in the classes of persons, specified in the order, in respect of matters specified in the order, then, if:
 
                      (a)  any such person has complied with the conditions specified in the order; and
 
@@ -13525,7 +13465,7 @@ Note:          Paragraph (a)—if those terms made the licen
 
                      (a)  for requiring notice of an intended reference to the Tribunal under section 154, section 155 or section 156 to be advertised in accordance with the regulations;
 
-                     (b)  for requiring notice of an intended application to the Federal Court of Australia under subsection 161(3) to be given to the Tribunal and to the other parties to the proceedings, and for limiting the time within which any such notice is to be given;
+                     (b)  for requiring notice of an intended application to the Federal Court of Australia under subsection 161(3) to be given to the Tribunal and to the other parties to the proceedings, and for limiting the time within which any such notice is to be given;
 
                      (c)  for suspending, or authorizing or requiring the Tribunal to suspend, the operation of orders of the Tribunal in cases where, after giving its decision, the Tribunal refers a question of law to the Federal Court of Australia;
 
@@ -13671,7 +13611,7 @@ unless a party to the proceeding notifies the Tribunal before the hearing that h
 
 ##### <a id="169E"></a>169E  Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal
 
-                   If:
+                   If:
 
                      (a)  an alternative dispute resolution process under this Division in relation to a proceeding is conducted by a member of the Tribunal; and
 
@@ -13799,7 +13739,7 @@ General defence of reasonable excuse
 
              (5)  Subsection (1), (2), (3) or (4) does not apply if the person has a reasonable excuse.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="173"></a>173  Offences relating to the Tribunal
 
@@ -13859,7 +13799,7 @@ Contravention of direction limiting publication of evidence
 
                      (a)  the person engages in conduct; and
 
-                     (b)  the conduct contravenes a direction of the Tribunal under paragraph 163(2)(b).
+                     (b)  the conduct contravenes a direction of the Tribunal under paragraph 163(2)(b).
 
                     Penalty:  30 penalty units or imprisonment for 6 months, or both.
 
@@ -13985,9 +13925,9 @@ Definition of **engage in conduct**
 
                     <a name="govern"></a>**_government_** means the Commonwealth or a State.
 
-Note:          State includes the Australian Capital Territory, the Northern Territory and Norfolk Island: see paragraph 10(3)(n), as modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (Amendment) (Statutory Rules 1989 No. 392).
+Note:          State includes the Australian Capital   Territory, the Northern Territory and Norfolk Island: see paragraph 10(3)(n), as modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (Amendment) (Statutory Rules 1989 No. 392).
 
-                    <a name="govern-copi"></a>**_government copy_** means a reproduction in a material form of copyright material made under subsection 183(1).
+                    <a name="govern-copi"></a>**_government copy_** means a reproduction in a material form of copyright material made under subsection 183(1).
 
              (2)  A reference in subsection (1) to a work does not include a reference to a literary work that consists of a computer program or a compilation of computer programs.
 
@@ -14029,9 +13969,9 @@ shall, for the purposes of the last preceding subsection, be each deemed to be f
 
 ##### <a id="183A"></a>183A  Special arrangements for copying for services of government
 
-             (1)  Subsections 183(4) and (5) do not apply in relation to a government copy (whenever it was made) if a company is the relevant collecting society for the purposes of this Division in relation to the copy and the company has not ceased operating as that collecting society.
+             (1)  Subsections 183(4) and (5) do not apply in relation to a government copy (whenever it was made) if a company is the relevant collecting society for the purposes of this Division in relation to the copy and the company has not ceased operating as that collecting society.
 
-             (2)  If subsection 183(5) does not apply to government copies made in a particular period for the services of a government, the government must pay the relevant collecting society in relation to those copies (other than excluded copies) equitable remuneration worked out for that period using a method:
+             (2)  If subsection 183(5) does not apply to government copies made in a particular period for the services of a government, the government must pay the relevant collecting society in relation to those copies (other than excluded copies) equitable remuneration worked out for that period using a method:
 
                      (a)  agreed on by the collecting society and the government; or
 
@@ -14053,17 +13993,17 @@ shall, for the purposes of the last preceding subsection, be each deemed to be f
 
 ##### <a id="183B"></a>183B  Payment and recovery of equitable remuneration payable for government copies
 
-             (1)  Equitable remuneration payable to a collecting society under subsection 183A(2) must be paid:
+             (1)  Equitable remuneration payable to a collecting society under subsection 183A(2) must be paid:
 
                      (a)  in the manner, and at the times, agreed on by the collecting society and the government; or
 
-                     (b)  if the Tribunal has made an order under subsection 153K(3) specifying how and when payments are to be made—in the manner, and at the times, specified in the order.
+                     (b)  if the Tribunal has made an order under subsection 153K(3) specifying how and when payments are to be made—in the manner, and at the times, specified in the order.
 
              (2)  If equitable remuneration is not paid in accordance with the agreement or the Tribunal’s order, the collecting society may recover the remuneration as a debt due to the society in a court of competent jurisdiction.
 
 ##### <a id="183C"></a>183C  Powers of collecting society to carry out sampling
 
-             (1)  This section applies if the method of working out equitable remuneration payable under subsection 183A(2) for government copies made for the services of a government has been agreed on by the government and the relevant collecting society or has been determined by the Tribunal.
+             (1)  This section applies if the method of working out equitable remuneration payable under subsection 183A(2) for government copies made for the services of a government has been agreed on by the government and the relevant collecting society or has been determined by the Tribunal.
 
              (2)  The collecting society may give written notice to the government that the society wishes to carry out sampling in accordance with the method during a specified period at specified premises occupied by the government. The period specified must not start earlier than 7 days after the day on which the notice is given.
 
@@ -14243,23 +14183,23 @@ the regulations may declare that organization to be an international organizatio
 
                     <a name="act-fals-attribut"></a>**_act of false attribution_**:
 
-                     (a)  in relation to an author’s moral rights—has the meaning given by subsection 195AC(2); and
+                     (a)  in relation to an author’s moral rights—has the meaning given by subsection 195AC(2); and
 
-                     (b)  in relation to a performer’s moral rights—has the meaning given by subsection 195AHA(2).
+                     (b)  in relation to a performer’s moral rights—has the meaning given by subsection 195AHA(2).
 
                     <a name="artist-work"></a>**_artistic work_** means an artistic work in which copyright subsists.
 
                     <a name="attribut-act"></a>**_attributable act_**:
 
-                     (a)  in relation to an author’s moral rights—has the meaning given by subsection 193(2); and
+                     (a)  in relation to an author’s moral rights—has the meaning given by subsection 193(2); and
 
-                     (b)  in relation to a performer’s moral rights—has the meaning given by subsection 195ABA(2).
+                     (b)  in relation to a performer’s moral rights—has the meaning given by subsection 195ABA(2).
 
                     <a name="attributor"></a>**_attributor_**:
 
-                     (a)  in relation to an author’s moral rights—has the meaning given by subsection 195AC(2); and
+                     (a)  in relation to an author’s moral rights—has the meaning given by subsection 195AC(2); and
 
-                     (b)  in relation to a performer’s moral rights—has the meaning given by subsection 195AHA(2).
+                     (b)  in relation to a performer’s moral rights—has the meaning given by subsection 195AHA(2).
 
                     <a name="author"></a>**_author_**, in relation to a cinematograph film, means the maker of the film. 
 
@@ -14361,9 +14301,9 @@ Note:          See also section 191B, which deals with the c
 
                     <a name="performership"></a>**_performership_** means participation in a performance, as the performer or one of the performers.
 
-                    <a name="person-repres-author"></a>**_person representing the author_**, in relation to a possible infringement of any of an author’s moral rights in respect of a work, means a person who, under subsection 195AN(1) or (2), is entitled to exercise and enforce the moral right concerned.
+                    <a name="person-repres-author"></a>**_person representing the author_**, in relation to a possible infringement of any of an author’s moral rights in respect of a work, means a person who, under subsection 195AN(1) or (2), is entitled to exercise and enforce the moral right concerned.
 
-                    <a name="person-repres-perform"></a>**_person representing the performer_** means a person who, under subsection 195ANB(1) or (2), is entitled to exercise and enforce a performer’s moral right.
+                    <a name="person-repres-perform"></a>**_person representing the performer_** means a person who, under subsection 195ANB(1) or (2), is entitled to exercise and enforce a performer’s moral right.
 
                     <a name="produc"></a>**_producer_**, in relation to a cinematograph film, has the meaning given by section 191.
 
@@ -14503,7 +14443,7 @@ the identification is to be made in that way.
 
              (2)  The performer’s right is the right to be identified in accordance with this Division as a performer in the performance if any of the acts (the **_attributable acts_**) mentioned in section 195ABB are done in respect of the performance.
 
-Note:          If there is more than one performer in a performance, then each performer has a right of attribution of performership: see subsection 195AZQ(2).
+Note:          If there is more than one performer in a performance, then each performer has a right of attribution of performership: see subsection 195AZQ(2).
 
 ##### <a id="195ABB"></a>195ABB  Acts giving rise to right of attribution of performership
 
@@ -14627,7 +14567,7 @@ if, to the knowledge of the attributor, it is not the unaltered work or a reprod
 
              (2)  A performer’s right is the right not to have a person (the **_attributor_**) do, in respect of the live performance or recorded performance (as the case may be), any of the acts (the **_acts of false attribution_**) mentioned in sections 195AHB and 195AHC.
 
-Note:          If there is more than one performer in a performance, then each performer has a right not to have performership falsely attributed: see subsection 195AZQ(3).
+Note:          If there is more than one performer in a performance, then each performer has a right not to have performership falsely attributed: see subsection 195AZQ(3).
 
 ##### <a id="195AHB"></a>195AHB  Acts of false attribution of performership
 
@@ -14751,7 +14691,7 @@ Example:    X and Y together present a cabaret act in which X sings and Y 
 
              (2)  The performer’s right is the right not to have the performance subjected to derogatory treatment.
 
-Note:          If there is more than one performer in a performance, then each performer has a right of integrity of performership: see subsection 195AZQ(4).
+Note:          If there is more than one performer in a performance, then each performer has a right of integrity of performership: see subsection 195AZQ(4).
 
 ##### <a id="195ALB"></a>195ALB  Derogatory treatment of performance
 
@@ -14953,7 +14893,7 @@ has 2 or more authors, the authors may enter into a written co‑authorship agre
 
                       (i)  whether the treatment was required by law or was otherwise necessary to avoid a breach of any law.
 
-             (4)  A person who does any act referred to in subsection 195AQ(3), (4) or (5) in respect of a work that has been subjected to derogatory treatment of a kind mentioned in that subsection does not, by doing that act, infringe the author’s right of integrity of authorship in respect of the work if the person establishes that it was reasonable in all the circumstances to do that act.
+             (4)  A person who does any act referred to in subsection 195AQ(3), (4) or (5) in respect of a work that has been subjected to derogatory treatment of a kind mentioned in that subsection does not, by doing that act, infringe the author’s right of integrity of authorship in respect of the work if the person establishes that it was reasonable in all the circumstances to do that act.
 
 ##### <a id="195AT"></a>195AT  Certain treatment of works not to constitute an infringement of the author’s right of integrity of authorship
 
@@ -15047,9 +14987,9 @@ has 2 or more authors, the authors may enter into a written co‑authorship agre
 
                      (a)  distributes, except where the distribution is for the purposes of sale; or
 
-                     (b)  deals with by means of a dealing covered by paragraph 195AD(b), 195AD(c), 195AE(2)(b), 195AE(2)(c) or 195AF (2)(b) or subsection 195AG(1) or 195AH(1); or
+                     (b)  deals with by means of a dealing covered by paragraph 195AD(b), 195AD(c), 195AE(2)(b), 195AE(2)(c) or 195AF(2)(b) or subsection 195AG(1) or 195AH(1); or
 
-                     (c)  deals with by means of an exhibition that is an attributable act to which section 195AO applies or an exhibition to which subsection 195AQ(5) applies.
+                     (c)  deals with by means of an exhibition that is an attributable act to which section 195AO applies or an exhibition to which subsection 195AQ(5) applies.
 
 ##### <a id="195AVA"></a>195AVA  Matters to be taken into account
 
@@ -15215,9 +15155,9 @@ Note:          For example, a performance may be used to attra
 
              (3)  A person who:
 
-                     (a)  does an act referred to in subsection 195AXC(3) in respect of a live performance that has been subjected to derogatory treatment; or
+                     (a)  does an act referred to in subsection 195AXC(3) in respect of a live performance that has been subjected to derogatory treatment; or
 
-                     (b)  does an act referred to in subsection 195AXC(4) in respect of a recorded performance that has been subjected to derogatory treatment;
+                     (b)  does an act referred to in subsection 195AXC(4) in respect of a recorded performance that has been subjected to derogatory treatment;
 
 does not, by doing that act, infringe a performer’s right of integrity of performership in respect of the performance if the person establishes that it was reasonable in all the circumstances to do that act.
 
@@ -15239,7 +15179,7 @@ does not, by doing that act, infringe a performer’s right of integrity of perf
 
                      (a)  distributes, except where the distribution is for the purposes of sale; or
 
-                     (b)  deals with by means of a dealing covered by paragraph 195AHB(5)(b) or (6)(b).
+                     (b)  deals with by means of a dealing covered by paragraph 195AHB(5)(b) or (6)(b).
 
 ##### <a id="195AXH"></a>195AXH  Matters to be taken into account
 
@@ -15259,7 +15199,7 @@ does not, by doing that act, infringe a performer’s right of integrity of perf
 
              (1)  It is not an infringement of a performer’s moral right in respect of a live performance or recorded performance to do, or omit to do, something if the act or omission is within the scope of a written consent given by the performer or a person representing the performer.
 
-Note:          The consent of one performer does not affect the moral rights of any other performer: see subsection 195AZQ(5).
+Note:          The consent of one performer does not affect the moral rights of any other performer: see subsection 195AZQ(5).
 
              (2)  A consent may be given in relation to all or any acts or omissions occurring before or after the consent is given.
 
@@ -15373,7 +15313,7 @@ the amount of any damages that, apart from this subsection, would be awarded to 
 
              (6)  If, in respect of an act done after the death of an author of a work, damages are recovered under this section by the legal personal representative of the author, those damages devolve as if they formed part of the author’s estate and as if the right of action in respect of the doing of the act had subsisted, and had been vested in the author, immediately before his or her death.
 
-Note:          Subsection (6) does not apply in relation to the right of integrity of authorship in respect of a cinematograph film, which ends on the author’s death. See subsection 195AM(1).
+Note:          Subsection (6) does not apply in relation to the right of integrity of authorship in respect of a cinematograph film, which ends on the author’s death. See subsection 195AM(1).
 
 ##### <a id="195AZD"></a>195AZD  Presumption as to subsistence of copyright
 
@@ -15381,7 +15321,7 @@ Note:          Subsection (6) does not apply in relation to 
 
 ##### <a id="195AZE"></a>195AZE  Presumption as to subsistence of author’s moral rights
 
-                   In an action brought under this Part for an infringement of a moral right in respect of a work, if copyright is presumed or proved to have subsisted in the work when the infringement is alleged to have occurred, the moral right is presumed to have subsisted in the work at that time.
+                   In an action brought under this Part for an infringement of a moral right in respect of a work, if copyright is presumed or proved to have subsisted in the work when the infringement is alleged to have occurred, the moral right is presumed to have subsisted in the work at that time.
 
 ##### <a id="195AZF"></a>195AZF  Presumptions in relation to authorship of work
 
@@ -15449,7 +15389,7 @@ Note:          Subsection (4) does not apply in relation to 
 
              (1)  In an action brought under this Part for an infringement of a moral right in respect of a recorded performance, if copyright is presumed or proved to have subsisted in the recorded performance when the infringement is alleged to have occurred, then the moral right is presumed to have subsisted in the recorded performance at that time.
 
-             (2)  This section has effect subject to subsection 195ANA(3).
+             (2)  This section has effect subject to subsection 195ANA(3).
 
 ##### <a id="195AZGF"></a>195AZGF  Presumptions in relation to performership
 
@@ -15481,7 +15421,7 @@ Note:          Subsection (4) does not apply in relation to 
 
              (4)  The Federal Court of Australia has jurisdiction with respect to matters arising under this Part.
 
-             (5)  The Federal Circuit Court of Australia has jurisdiction with respect to matters arising under this Part.
+             (5)  The Federal Magistrates Court has jurisdiction with respect to matters arising under this Part.
 
 ### Division 8—Miscellaneous
 
@@ -15551,7 +15491,7 @@ subsists only if the cinematograph film is made after the commencement of this P
 
              (2)  The right of attribution of authorship in respect of a literary, dramatic, musical or artistic work other than such a work as included in a cinematograph film subsists in respect of a work made before or after the commencement of this Part but this Part only applies in relation to attributable acts done after that commencement.
 
-Note:          Subsection 22(1) explains when a literary, dramatic, musical or artistic work is taken to be made and paragraph 22(4)(a) explains when a cinematograph film is taken to be made.
+Note:          Subsection 22(1) explains when a literary, dramatic, musical or artistic work is taken to be made and paragraph 22(4)(a) explains when a cinematograph film is taken to be made.
 
 ##### <a id="195AZN"></a>195AZN  Application—right not to have authorship falsely attributed
 
@@ -15559,7 +15499,7 @@ Note:          Subsection 22(1) explains when a literary, dr
 
              (2)  Paragraph 195AD(b) or (c), 195AE(2)(b) or (c) or 195AF(2)(b) applies to an act of false attribution done after the commencement of this Part even if the name concerned was inserted or affixed before that commencement.
 
-Note:          Subsection 22(1) explains when a literary, dramatic, musical or artistic work is taken to be made and paragraph 22(4)(a) explains when a cinematograph film is taken to be made.
+Note:          Subsection 22(1) explains when a literary, dramatic, musical or artistic work is taken to be made and paragraph 22(4)(a) explains when a cinematograph film is taken to be made.
 
 ##### <a id="195AZO"></a>195AZO  Application—right of integrity of authorship
 
@@ -15573,9 +15513,9 @@ subsists only if the cinematograph film is made after the commencement of this P
 
              (2)  Subject to subsection (3), the right of integrity of authorship in respect of a literary, dramatic, musical or artistic work, other than such a work as included in a cinematograph film, subsists in respect of a work made before or after the commencement of this Part.
 
-             (3)  This Part applies in relation to an infringement of a right of integrity of authorship that subsists in respect of a work referred to in subsection (2) that was made before the commencement of this Part only if the infringement occurs after the commencement of this Part. However, an act referred to in paragraph 195AQ(3)(a), (b), (c), (d) or (e) or (4)(a), (b) or (c) is not an infringement if the relevant derogatory treatment occurred before that commencement.
+             (3)  This Part applies in relation to an infringement of a right of integrity of authorship that subsists in respect of a work referred to in subsection (2) that was made before the commencement of this Part only if the infringement occurs after the commencement of this Part. However, an act referred to in paragraph 195AQ(3)(a), (b), (c), (d) or (e) or (4)(a), (b) or (c) is not an infringement if the relevant derogatory treatment occurred before that commencement.
 
-Note:          Subsection 22(1) explains when a literary, dramatic, musical or artistic work is taken to be made and paragraph 22(4)(a) explains when a cinematograph film is taken to be made.
+Note:          Subsection 22(1) explains when a literary, dramatic, musical or artistic work is taken to be made and paragraph 22(4)(a) explains when a cinematograph film is taken to be made.
 
 #### Subdivision B—Miscellaneous provisions about moral rights of performers
 
@@ -15591,7 +15531,7 @@ Note:          Subsection 22(1) explains when a literary, dr
 
 Example:    If X and Y are the performers in a performance, then each of them has the right to be identified. However, there is no infringement of X’s moral right if Y is not identified (and vice versa).
 
-Note:          See also subsection 195ABC(3), which relates to the use of group names.
+Note:          See also subsection 195ABC(3), which relates to the use of group names.
 
              (3)  An act of false attribution of performership in respect of the performance infringes each performer’s right not to have performership falsely attributed.
 
@@ -15613,7 +15553,7 @@ Example:    X and Y are the performers in a performance. The performance i
 
 ##### <a id="195A"></a>195A  Interpretation
 
-             (1)  In this Part (other than subsection 203H(5)), **_officer in charge_** means:
+             (1)  In this Part (other than subsection 203H(5)), **_officer in charge_** means:
 
                      (a)  in relation to archives—the person holding, or performing the duties of, the office or position in the service of the body administering the archives the duties of which involve that person having direct responsibility for the maintenance of, and the provision of services in relation to, the collection comprising the archives;
 
@@ -15629,19 +15569,19 @@ Example:    X and Y are the performers in a performance. The performance i
 
              (1)  For the purposes of this section, the following decisions are reviewable decisions:
 
-                     (a)  a decision of the Attorney‑General refusing to make a declaration in respect of an institution under subsection 10A(1);
+                     (a)  a decision of the Attorney‑General refusing to make a declaration in respect of an institution under subsection 10A(1);
 
-                     (b)  a decision of the Attorney‑General revoking a declaration made in respect of an institution under subsection 10A(1);
+                     (b)  a decision of the Attorney‑General revoking a declaration made in respect of an institution under subsection 10A(1);
 
-                   (ba)  a decision of the CEO under subsection 135(6A) to declare a notice given under subsection 135(2) to be ineffective;
+                   (ba)  a decision of the CEO under subsection 135(6A) to declare a notice given under subsection 135(2) to be ineffective;
 
-                     (c)  a decision of the CEO under section 135AA or 135AJ refusing to seize copies under subsection 135(7);
+                     (c)  a decision of the CEO under section 135AA or 135AJ refusing to seize copies under subsection 135(7);
 
-                     (d)  a decision of the CEO not to give permission under subsection 135AD 1);
+                     (d)  a decision of the CEO not to give permission under subsection 135AD(1);
 
-                     (e)  a decision of the Minister under paragraph 135P(1A)(b), 135ZZB(1A)(b), 135ZZT(1A)(b) or 135ZZZO(2)(b) refusing to declare a body as a collecting society;
+                     (e)  a decision of the Minister under paragraph 135P(1A)(b), 135ZZB(1A)(b), 135ZZT(1A)(b) or 135ZZZO(2)(b) refusing to declare a body as a collecting society;
 
-                      (f)  a decision of the Minister under paragraph 135Q(2)(a), 135ZZC(2)(a), 135ZZU(2)(a) or 135ZZZP(2)(a) revoking a declaration of a body as a collecting society.
+                      (f)  a decision of the Minister under paragraph 135Q(2)(a), 135ZZC(2)(a), 135ZZU(2)(a) or 135ZZZP(2)(a) revoking a declaration of a body as a collecting society.
 
              (2)  Where the Attorney‑General makes a reviewable decision referred to in paragraph (1)(a) or (b), the Attorney‑General shall cause to be sent to the institution concerned a written notice containing:
 
@@ -15649,13 +15589,13 @@ Example:    X and Y are the performers in a performance. The performance i
 
                      (b)  a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal for review of the decision; and
 
-                     (c)  except where subsection 28(4) of that Act applies—a statement to the effect that the institution may request a statement under section 28 of that Act.
+                     (c)  except where subsection 28(4) of that Act applies—a statement to the effect that the institution may request a statement under section 28 of that Act.
 
              (3)  If the CEO makes a reviewable decision referred to in paragraph (1)(ba), (c) or (d), the CEO must cause to be sent to the objector or importer whose interests are affected by the decision a notice containing:
 
                      (a)  the terms of the decision; and
 
-                     (b)  except where subsection 28(4) of the _Administrative Appeals Tribunal Act 1975_ applies—a statement to the effect that the objector or importer, as the case may be, may request a statement under section 28 of that Act.
+                     (b)  except where subsection 28(4) of the _Administrative Appeals Tribunal Act 1975_ applies—a statement to the effect that the objector or importer, as the case may be, may request a statement under section 28 of that Act.
 
              (4)  Failure to include in a notice under subsection (2) or (3) a statement of the kind referred to in paragraph (2)(b) or (c) or (3)(b), as the case requires, does not affect the validity of the decision to which the notice relates.
 
@@ -15717,7 +15657,7 @@ Example:    X and Y are the performers in a performance. The performance i
 
                      (a)  section 44D, 44E, 44F, 112D or 112DA; or
 
-                     (b)  section 44C or 112C (in so far as that section applies in relation to an accessory to an article of the kind mentioned in subsection 10AD(1)).
+                     (b)  section 44C or 112C (in so far as that section applies in relation to an accessory to an article of the kind mentioned in subsection 10AD(1)).
 
 ##### <a id="199"></a>199  Reception of broadcasts
 
@@ -15845,9 +15785,9 @@ This section does not apply if under another provision the use does not, or migh
 
                      (b)  the use would not be an infringement of copyright assuming the conditions or requirements of that other provision were met.
 
-Example 1: Paragraph (a)—Without using an appliance adapted for producing multiple copies or an appliance that can produce copies by reprographic reproduction, a school teacher reproduces a literary work in the course of educational instruction. Under subsection 200(1), the reproduction is not an infringement of copyright in the work, so this section does not apply.
+Example 1: Paragraph (a)—Without using an appliance adapted for producing multiple copies or an appliance that can produce copies by reprographic reproduction, a school teacher reproduces a literary work in the course of educational instruction. Under subsection 200(1), the reproduction is not an infringement of copyright in the work, so this section does not apply.
 
-Example 2: Paragraph (b)—A body administering an institution assisting persons with a print disability makes a Braille version of a published literary work. Under subsection 135ZP(2), making such a version does not infringe copyright in the work if certain conditions (relating to remuneration etc.) are met, so this section does not apply.
+Example 2: Paragraph (b)—A body administering an institution assisting persons with a print disability makes a Braille version of a published literary work. Under subsection 135ZP(2), making such a version does not infringe copyright in the work if certain conditions (relating to remuneration etc.) are met, so this section does not apply.
 
 Cost recovery not commercial advantage or profit
 
@@ -16057,7 +15997,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  ensuring compliance with a provision of Division 5 of Part III or with a provision of this Part.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (11) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (11) (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="203F"></a>203F  False and misleading declarations
 
@@ -16233,9 +16173,9 @@ Note:          For example, subsection (1) does not apply in
 
 ##### <a id="209"></a>209  Publication
 
-             (1)  For the purposes of the application of subsection 29(5) in determining whether a publication that took place before the commencement of this Act was the first publication, the reference in that subsection to a period of not more than 30 days shall be read as a reference to a period of not more than 14 days.
+             (1)  For the purposes of the application of subsection 29(5) in determining whether a publication that took place before the commencement of this Act was the first publication, the reference in that subsection to a period of not more than 30 days shall be read as a reference to a period of not more than 14 days.
 
-             (2)  For the purposes of the application of subsection 29(7) in relation to an act done before the commencement of this Act:
+             (2)  For the purposes of the application of subsection 29(7) in relation to an act done before the commencement of this Act:
 
                      (a)  a reference in that subsection to copyright includes a reference to copyright under the _Copyright Act 1905_ and to copyright under the Copyright Act, 1911; and
 
@@ -16255,23 +16195,23 @@ Note:          For example, subsection (1) does not apply in
 
 ##### <a id="211"></a>211  Original works in which copyright subsists
 
-             (1)  Subsection 32(1) applies to works made before the commencement of this Act as if each reference in that subsection to a qualified person included a reference to a British subject and to a person domiciled in any part of the Queen’s dominions to which the Copyright Act, 1911 extended.
+             (1)  Subsection 32(1) applies to works made before the commencement of this Act as if each reference in that subsection to a qualified person included a reference to a British subject and to a person domiciled in any part of the Queen’s dominions to which the Copyright Act, 1911 extended.
 
-             (2)  Subsection 32(2) applies to works first published before the commencement of this Act as if paragraphs (d) and (e) of that subsection were omitted.
+             (2)  Subsection 32(2) applies to works first published before the commencement of this Act as if paragraphs (d) and (e) of that subsection were omitted.
 
-             (3)  Subsection 32(2) applies to works that are first published after the commencement of this Act and the author of which died before the commencement of the _Nationality and Citizenship Act 1948_ as if the reference in paragraph 32(2)(e) to a qualified person included a reference to a person who would have been an Australian citizen if that Act had been in force immediately before his or her death.
+             (3)  Subsection 32(2) applies to works that are first published after the commencement of this Act and the author of which died before the commencement of the _Nationality and Citizenship Act 1948_ as if the reference in paragraph 32(2)(e) to a qualified person included a reference to a person who would have been an Australian citizen if that Act had been in force immediately before his or her death.
 
-             (4)  Subsection 32(3) does not apply to or in relation to a building that was constructed before the commencement of this Act.
+             (4)  Subsection 32(3) does not apply to or in relation to a building that was constructed before the commencement of this Act.
 
              (5)  This section has effect subject to the last preceding section.
 
 ##### <a id="213"></a>213  Ownership of copyright
 
-             (1)  Subsections 35(4) and (6) do not apply in relation to works made before the commencement of this Act.
+             (1)  Subsections 35(4) and (6) do not apply in relation to works made before the commencement of this Act.
 
-             (2)  Subsection 35(5) does not apply in relation to a work that was or is made in pursuance of an agreement made before the commencement of this Act.
+             (2)  Subsection 35(5) does not apply in relation to a work that was or is made in pursuance of an agreement made before the commencement of this Act.
 
-             (3)  Where a work is excluded from the application of subsection 35(4), (5) or (6) by reason of either of the last two preceding subsections, subsection 35(2) has effect in relation to the work subject to the succeeding subsections of this section.
+             (3)  Where a work is excluded from the application of subsection 35(4), (5) or (6) by reason of either of the last two preceding subsections, subsection 35(2) has effect in relation to the work subject to the succeeding subsections of this section.
 
              (4)  The operation of any of the next three succeeding subsections in relation to a particular work may be excluded or modified by agreement.
 
@@ -16297,7 +16237,7 @@ the first‑mentioned person is the owner of any copyright subsisting in the wor
 
              (1)  Where a record of a work has, before the commencement of this Act, been made by, or with the consent or acquiescence of, the owner of the copyright in the work under the Copyright Act, 1911, Division 6 of Part III has the like effect as if the record had been made in Australia for the purpose of retail sale and had been so made by, or with the licence of, the person who is entitled, by virtue of this Act, to authorize the making in Australia of records of the work.
 
-             (2)  Notwithstanding subsection 5(1) of this Act, subsections 19(2) to (7), inclusive, of the Copyright Act, 1911 as in force immediately before the commencement of this Act continue to apply in relation to records made before the commencement of this Act and, subject to those subsections, any regulations made for the purposes of those subsections and in force immediately before the commencement of this Act continue to apply in relation to those records.
+             (2)  Notwithstanding subsection 5(1) of this Act, subsections 19(2) to (7), inclusive, of the Copyright Act, 1911 as in force immediately before the commencement of this Act continue to apply in relation to records made before the commencement of this Act and, subject to those subsections, any regulations made for the purposes of those subsections and in force immediately before the commencement of this Act continue to apply in relation to those records.
 
 ##### <a id="216"></a>216  Publication of artistic works
 
@@ -16305,7 +16245,7 @@ the first‑mentioned person is the owner of any copyright subsisting in the wor
 
 ##### <a id="217"></a>217  Reconstruction of buildings
 
-                   The reference in subsection 73(2) to construction of a building by, or with the licence of, the owner of the copyright in architectural drawings or plans shall be read as including a reference to construction by, or with the licence of, the person who, at the time of the construction, was the owner of the copyright in the drawings or plans under the law relating to copyright that was in force at that time in the State or Territory in which the building was constructed.
+                   The reference in subsection 73(2) to construction of a building by, or with the licence of, the owner of the copyright in architectural drawings or plans shall be read as including a reference to construction by, or with the licence of, the person who, at the time of the construction, was the owner of the copyright in the drawings or plans under the law relating to copyright that was in force at that time in the State or Territory in which the building was constructed.
 
 ##### <a id="218"></a>218  Industrial designs
 
@@ -16327,7 +16267,7 @@ the first‑mentioned person is the owner of any copyright subsisting in the wor
 
              (2)  The regulations may make provision for or in relation to the manner in which, and the times at which, payment of royalties is to be made for the purposes of subparagraph (ii) of paragraph (b) of the last preceding subsection and may include provision requiring payment in advance, or otherwise securing the payment of the royalties.
 
-             (3)  Regulations 38 to 42, inclusive, of the Copyright Regulations as in force under the _Copyright Act 1912‑1966_ immediately before the commencement of this Act continue in force for the purposes of this section as if they had been made under this Act, but may be amended or repealed by regulations made under this Act.
+             (3)  Regulations 38 to 42, inclusive, of the Copyright Regulations as in force under the _Copyright Act 1912‑1966_ immediately before the commencement of this Act continue in force for the purposes of this section as if they had been made under this Act, but may be amended or repealed by regulations made under this Act.
 
              (4)  A reference in paragraph (1)(a) to a time after the expiration of a specified number of years from the date of the death of the author of a work shall, in the case of a work of joint authorship, be read as a reference to a time after:
 
@@ -16359,9 +16299,9 @@ before that date, subsection (1) applies as if the author had died on the date
 
 ##### <a id="220"></a>220  Sound recordings
 
-             (1)  Subsection 89(1) applies in relation to sound recordings made before the commencement of this Act as if the reference in that subsection to a qualified person included a reference to a British subject and to a person domiciled in any part of the Queen’s dominions to which the Copyright Act, 1911 extended.
+             (1)  Subsection 89(1) applies in relation to sound recordings made before the commencement of this Act as if the reference in that subsection to a qualified person included a reference to a British subject and to a person domiciled in any part of the Queen’s dominions to which the Copyright Act, 1911 extended.
 
-             (2)  Subsection 89(2) does not apply in relation to a sound recording made before the commencement of this Act.
+             (2)  Subsection 89(2) does not apply in relation to a sound recording made before the commencement of this Act.
 
 ##### <a id="221"></a>221  Cinematograph films
 
@@ -16397,7 +16337,7 @@ before that date, subsection (1) applies as if the author had died on the date
 
 ##### <a id="227"></a>227  Infringing copies
 
-                   Section 116 of this Act does not apply in relation to an article made, or imported into Australia, before the commencement of this Act, but, notwithstanding subsection 5(1) of this Act, proceedings may, subject to the Copyright Act, 1911, be brought or continued by virtue of section 7 of that Act in relation to such an article and may be so brought or continued although the proceedings relate to the conversion or detention of the article after the commencement of this Act.
+                   Section 116 of this Act does not apply in relation to an article made, or imported into Australia, before the commencement of this Act, but, notwithstanding subsection 5(1) of this Act, proceedings may, subject to the Copyright Act, 1911, be brought or continued by virtue of section 7 of that Act in relation to such an article and may be so brought or continued although the proceedings relate to the conversion or detention of the article after the commencement of this Act.
 
 ##### <a id="228"></a>228  Actions where copyright subject to exclusive licence
 
@@ -16429,7 +16369,7 @@ the notice has, during the period of six months commencing on that date, such ef
 
 ##### <a id="233"></a>233  Duration of Crown copyright in photographs
 
-                   Subsection 180(2) applies in relation to photographs taken before the commencement of this Act as if subsection 180(3) were omitted.
+                   Subsection 180(2) applies in relation to photographs taken before the commencement of this Act as if subsection 180(3) were omitted.
 
 ##### <a id="234"></a>234  Duration of Crown copyright in recordings
 
@@ -16441,23 +16381,23 @@ the notice has, during the period of six months commencing on that date, such ef
 
              (2)  Where sections 178 and 181 do not apply in relation to a cinematograph film by reason of the last preceding subsection:
 
-                     (a)  if the film was an original dramatic work as defined by section 204—sections 176 and 177, and subsection 180(1), apply in relation to that work in accordance with subsection 222(1); and
+                     (a)  if the film was an original dramatic work as defined by section 204—sections 176 and 177, and subsection 180(1), apply in relation to that work in accordance with subsection 222(1); and
 
-                     (b)  sections 176 and 177, and subsection 180(2) as modified by section 233, apply in relation to photographs forming part of the film in like manner as they apply in relation to photographs not forming part of a cinematograph film.
+                     (b)  sections 176 and 177, and subsection 180(2) as modified by section 233, apply in relation to photographs forming part of the film in like manner as they apply in relation to photographs not forming part of a cinematograph film.
 
 ##### <a id="236"></a>236  Works made or published by international organizations
 
-             (1)  Subsection 187(1) does not apply in relation to works made before the commencement of this Act.
+             (1)  Subsection 187(1) does not apply in relation to works made before the commencement of this Act.
 
-             (2)  Subsection 187(2) does not apply in relation to works first published before the commencement of this Act.
+             (2)  Subsection 187(2) does not apply in relation to works first published before the commencement of this Act.
 
 ##### <a id="237"></a>237  Subject‑matter, other than original works, made or published by international organizations
 
-             (1)  Subsection 188(1) does not apply in relation to sound recordings or cinematograph films made before the commencement of this Act.
+             (1)  Subsection 188(1) does not apply in relation to sound recordings or cinematograph films made before the commencement of this Act.
 
-             (2)  Subsection 188(2) does not apply in relation to sound recordings or cinematograph films first published before the commencement of this Act.
+             (2)  Subsection 188(2) does not apply in relation to sound recordings or cinematograph films first published before the commencement of this Act.
 
-             (3)  Subsection 188(3) does not apply in relation to an edition published before the commencement of this Act.
+             (3)  Subsection 188(3) does not apply in relation to an edition published before the commencement of this Act.
 
 ##### <a id="239"></a>239  Assignments and licences
 
@@ -16469,7 +16409,7 @@ the notice has, during the period of six months commencing on that date, such ef
 
                      (a)  expressions used in the document have the same respective meanings as they had immediately before the commencement of this Act, whether or not those expressions have different meanings for the purposes of this Act; and
 
-                     (b)  subsection 197(1) does not apply.
+                     (b)  subsection 197(1) does not apply.
 
              (4)  Without prejudice to the generality of subsection (1), where the author of a work that was made before the commencement of this Act was the first owner of the copyright in the work:
 
@@ -16557,9 +16497,9 @@ copyright subsisting in the relevant work by virtue of this Act is subject to th
 
 ##### <a id="248"></a>248  Assignments and licences
 
-             (1)  Without prejudice to the generality of subsection 239(1) of this Act, where:
+             (1)  Without prejudice to the generality of subsection 239(1) of this Act, where:
 
-                     (a)  the author of a work to which this Division applies had, before the commencement of the Copyright Act, 1911, made an assignment or grant of a kind referred to in paragraph (a) of the proviso to subsection 24(1) of that Act (in this section referred to as **_the proviso_**); and
+                     (a)  the author of a work to which this Division applies had, before the commencement of the Copyright Act, 1911, made an assignment or grant of a kind referred to in paragraph (a) of the proviso to subsection 24(1) of that Act (in this section referred to as **_the proviso_**); and
 
                      (b)  copyright subsists in the work by virtue of this Act;
 
@@ -16711,7 +16651,7 @@ being a live performance:
 
              (2)  The following shall be taken not to be performances for the purposes of this Part:
 
-                     (a)  a performance referred to in subsection 28(1);
+                     (a)  a performance referred to in subsection 28(1);
 
                      (b)  a reading, recital or delivery of any item of news and information;
 
@@ -16731,7 +16671,7 @@ being a live performance:
 
 ##### <a id="248B"></a>248B  Educational purposes
 
-                   Without limiting the meaning of the expression **_educational purposes_** in paragraph (c) of the definition of **_exempt recording_** in subsection 248A(1), a cinematograph film of a performance shall be taken to have been made for the educational purposes of an educational institution if it is made:
+                   Without limiting the meaning of the expression **_educational purposes_** in paragraph (c) of the definition of **_exempt recording_** in subsection 248A(1), a cinematograph film of a performance shall be taken to have been made for the educational purposes of an educational institution if it is made:
 
                      (a)  for use in connection with a particular course of instruction provided by the institution; or
 
@@ -16739,11 +16679,11 @@ being a live performance:
 
 ##### <a id="248C"></a>248C  Exempt recordings cease to be exempt recordings in certain circumstances
 
-             (1)  If any copies of a sound recording or a cinematograph film of a performance, being a sound recording or film that is an exempt recording under paragraph (h) of the definition of **_exempt recording_** in subsection 248A(1), are not destroyed before the end of the period of 12 months beginning on the day on which any of those copies is first used for broadcasting the performance, the sound recording or film shall, at the end of that period, cease to be an exempt recording.
+             (1)  If any copies of a sound recording or a cinematograph film of a performance, being a sound recording or film that is an exempt recording under paragraph (h) of the definition of **_exempt recording_** in subsection 248A(1), are not destroyed before the end of the period of 12 months beginning on the day on which any of those copies is first used for broadcasting the performance, the sound recording or film shall, at the end of that period, cease to be an exempt recording.
 
-          (1A)  A sound recording, or a copy of a sound recording, that is an exempt recording because it was made for a purpose referred to in paragraph (aaa), (aa) or (fa) of the definition of **_exempt recording_** in subsection 248A(1) ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
+          (1A)  A sound recording, or a copy of a sound recording, that is an exempt recording because it was made for a purpose referred to in paragraph (aaa), (aa) or (fa) of the definition of **_exempt recording_** in subsection 248A(1) ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
 
-             (2)  A cinematograph film, or a copy of a cinematograph film, that is an exempt recording because it was made for a purpose referred to in paragraph (a), (aaa), (b), (c), (d), (e) or (f) of the definition of **_exempt recording_** in subsection 248A(1) ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
+             (2)  A cinematograph film, or a copy of a cinematograph film, that is an exempt recording because it was made for a purpose referred to in paragraph (a), (aaa), (b), (c), (d), (e) or (f) of the definition of **_exempt recording_** in subsection 248A(1) ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
 
 ##### <a id="248CA"></a>248CA  Protection period
 
@@ -16849,7 +16789,7 @@ Note:          An educational or other institution can copy an
 
 ##### <a id="248H"></a>248H  Copying sound recordings for broadcasting
 
-             (1)  Despite paragraph 248G(2)(c), where the making of a copy of a sound recording of a performance for use in a sound‑track would, but for this subsection, be an unauthorised use of the performance under that paragraph, the making by a person of such a copy solely for the purpose of use in a broadcast by that person is not an unauthorised use of the performance.
+             (1)  Despite paragraph 248G(2)(c), where the making of a copy of a sound recording of a performance for use in a sound‑track would, but for this subsection, be an unauthorised use of the performance under that paragraph, the making by a person of such a copy solely for the purpose of use in a broadcast by that person is not an unauthorised use of the performance.
 
              (2)  Subsection (1) does not apply to a copy if it is used for a purpose other than:
 
@@ -16929,9 +16869,9 @@ the amount of any damages referred to in paragraph (b) that, apart from this s
 
                    Jurisdiction is conferred on the Federal Court of Australia with respect to actions under section 248J.
 
-##### <a id="248MA"></a>248MA  Jurisdiction of Federal Circuit Court
+##### <a id="248MA"></a>248MA  Jurisdiction of Federal Magistrates Court
 
-                   Jurisdiction is conferred on the Federal Circuit Court of Australia with respect to actions under section 248J.
+                   Jurisdiction is conferred on the Federal Magistrates Court with respect to actions under section 248J.
 
 ##### <a id="248N"></a>248N  Right to bring an action not assignable
 
@@ -16969,7 +16909,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17005,7 +16945,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17041,7 +16981,7 @@ Defence
 
              (7)  Subsection (1), (3) or (5) does not apply if the recording was made solely for the person’s private and domestic use.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="248PC"></a>248PC  Unauthorised communication to public during 20‑year protection period
 
@@ -17059,7 +16999,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17081,7 +17021,7 @@ Defence
 
              (7)  To avoid doubt, subsections (1) and (3) do not apply to the communication to the public of an authorised recording of the performance.
 
-Note 1:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+Note 1:       A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
 
 Note 2:       An educational or other institution can also copy and communicate a broadcast of a performance without contravening this section in some circumstances (see sections 135E and 135F).
 
@@ -17099,7 +17039,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17137,7 +17077,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17199,7 +17139,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17255,7 +17195,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17313,7 +17253,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17379,7 +17319,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17453,7 +17393,7 @@ Note:          Under section 248CA, the protection period of
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offences
 
@@ -17525,7 +17465,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17593,7 +17533,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17645,7 +17585,7 @@ Note:          Under section 248CA, the protection period of
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17701,7 +17641,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17739,7 +17679,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17791,7 +17731,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17859,7 +17799,7 @@ Indictable offences
 
              (3)  An offence against subsection (1) or (2) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offences
 
@@ -17925,7 +17865,7 @@ Indictable offence
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
-Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
 
 Summary offence
 
@@ -17947,4 +17887,7712 @@ Summary offence
 
                     Penalty:  120 penalty units or imprisonment for 2 years, or both.
 
-             
+             (4)  An offence against subsection (3) is a summary offence, despite section 4G of the _Crimes Act 1914_.
+
+Strict liability offence
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person possesses, or imports into Australia, a sound recording of a performance in preparation for, or in the course of, doing any of the following:
+
+                              (i)  selling the recording;
+
+                             (ii)  letting the recording for hire;
+
+                            (iii)  by way of trade offering or exposing the recording for sale or hire;
+
+                            (iv)  distributing the recording for trade; and
+
+                     (b)  the possession or import occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording.
+
+                    Penalty:  60 penalty units.
+
+             (6)  Subsection (5) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="248QG"></a>248QG  Exhibiting unauthorised sound recording in public by way of trade
+
+Indictable offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person by way of trade exhibits in public a sound recording of a performance; and
+
+                     (b)  the exhibition occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording.
+
+             (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
+
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+
+Summary offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person by way of trade exhibits in public a sound recording of a performance; and
+
+                     (b)  the exhibition occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording and the person is negligent as to that fact.
+
+                    Penalty:  120 penalty units or imprisonment for 2 years, or both.
+
+             (4)  An offence against subsection (3) is a summary offence, despite section 4G of the _Crimes Act 1914_.
+
+Strict liability offence
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person by way of trade exhibits in public a sound recording of a performance; and
+
+                     (b)  the exhibition occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording.
+
+                    Penalty:  60 penalty units.
+
+             (6)  Subsection (5) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="248QH"></a>248QH  Importing unauthorised sound recording for exhibition by way of trade
+
+Indictable offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person imports into Australia a sound recording of a performance, with the intention of exhibiting the recording in public by way of trade; and
+
+                     (b)  the import occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording.
+
+             (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
+
+Note:          A corporation may be fined up to 5 times the amount of the maximum fine (see subsection 4B(3) of the _Crimes Act 1914_).
+
+Summary offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person imports into Australia a sound recording of a performance, with the intention of exhibiting the recording in public by way of trade; and
+
+                     (b)  the import occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording and the person is negligent as to that fact.
+
+                    Penalty:  120 penalty units or imprisonment for 2 years, or both.
+
+             (4)  An offence against subsection (3) is a summary offence, despite section 4G of the _Crimes Act 1914_.
+
+Strict liability offence
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person imports into Australia a sound recording of a performance in preparation for exhibiting the recording in public by way of trade; and
+
+                     (b)  the import occurs during the 50‑year protection period of the performance; and
+
+                     (c)  the recording is an unauthorised recording.
+
+                    Penalty:  60 penalty units.
+
+             (6)  Subsection (5) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+#### Subdivision C—Prosecution and infringement notices
+
+##### <a id="248R"></a>248R  Courts in which offences may be prosecuted
+
+             (1)  Prosecutions for offences against Subdivision A or B may be brought in the Federal Court of Australia or in any other court of competent jurisdiction.
+
+             (2)  However, the Federal Court of Australia does not have jurisdiction to hear or determine prosecutions for indictable offences, despite section 15C of the _Acts Interpretation Act 1901_.
+
+             (3)  The Federal Court of Australia has jurisdiction to hear and determine prosecutions of the following offences against Subdivision A or B:
+
+                     (a)  summary offences;
+
+                     (b)  offences of strict liability.
+
+##### <a id="248S"></a>248S  Protection against multiple proceedings for same act
+
+                   If a single act done in relation to a performance is an offence against Subdivision A and an offence against Subdivision B, only one of the offences may be prosecuted.
+
+##### <a id="248SA"></a>248SA  Infringement notices
+
+             (1)  The regulations may make provision enabling a person who is alleged to have committed an offence of strict liability against Subdivision A or B to pay a penalty to the Commonwealth as an alternative to prosecution.
+
+             (2)  The penalty must equal one‑fifth of the maximum fine that a court could impose on the person as a penalty for that offence.
+
+#### Subdivision D—Destruction or delivery up of unauthorised recordings
+
+##### <a id="248T"></a>248T  Destruction or delivery up of unauthorised recordings
+
+                   The court before which a person is charged with an offence against this Part may, whether the person is convicted of the offence or not, order that any article in the possession of the person that appears to the court to be:
+
+                     (a)  an unauthorised recording of a performance, or a copy of such a recording; or
+
+                     (b)  a plate or recording equipment used, or intended to be used, for making an unauthorised recording of a performance, or copies of such a recording;
+
+be destroyed or delivered up to the performer or performers concerned or otherwise dealt with in such manner as the court thinks fit.
+
+### Division 4—Extension of protection to foreign countries
+
+##### <a id="248U"></a>248U  Application to foreign countries
+
+             (1)  Subject to this section, the regulations may apply any of the provisions of this Part specified in the regulations, in relation to a foreign country so specified, in any one or more of the following ways:
+
+                     (a)  so that the provisions apply in relation to performances given in that country in like manner as those provisions apply in relation to performances given in Australia;
+
+                    (aa)  so that the provisions apply in relation to recordings, made in that country, of performances in like manner as those provisions apply in relation to recordings of performances given in Australia;
+
+                   (ab)  so that the provisions apply in relation to broadcasts, made in that country, of performances in like manner as those provisions apply in relation to broadcasts of performances given in Australia;
+
+                    (ac)  so that the provisions apply in relation to recordings, made by persons who are citizens, nationals or residents of that country, of performances in like manner as those provisions apply in relation to recordings of performances given in Australia;
+
+                     (b)  so that the provisions apply in relation to persons who are citizens or nationals of that country in like manner as those provisions apply in relation to persons who are Australian citizens;
+
+                     (c)  so that the provisions apply in relation to persons who are resident in that country in like manner as those provisions apply in relation to persons who are resident in Australia.
+
+             (2)  Regulations applying a provision of this Part in relation to a foreign country:
+
+                     (a)  may apply the provision without exception or modification or subject to such exceptions or modifications as are specified in the regulations; and
+
+                     (b)  may apply the provision either generally or in relation to such classes of performances, or other classes of cases, as are specified in the regulations.
+
+             (3)  Regulations shall not be made applying any of the provisions of this Part in relation to a foreign country that is not a party to a Convention relating to the protection of performers to which Australia is also a party unless the Governor‑General is satisfied that, in respect of the performances to which those provisions relate, provision has been or will be made under the law of that country under which adequate protection is or will be given to performers whose performances are protected under this Act.
+
+##### <a id="248V"></a>248V  Denial of protection to citizens of countries not giving adequate protection to Australian performances
+
+             (1)  If it appears to the Governor‑General that the law of a foreign country does not give adequate protection to Australian performances (whether the lack of protection relates to all or any of the ways that the provisions may be applied by the regulations under subsection 248U(1)), the Governor‑General may, having regard to the nature and extent of the lack of protection involved, make regulations in relation to that country in accordance with this section.
+
+             (2)  Regulations made for the purposes of this section may provide, either generally or in such cases as are specified in the regulations, that this Part does not apply to performances given after a day specified in the regulations (which may be a day before the commencement of the regulations or of this Part) if, at the time the performances were or are given, the performers were or are citizens or nationals of a foreign country specified in the regulations, other than persons resident in Australia.
+
+## Part XII—Regulations
+
+##### <a id="249"></a>249  Regulations
+
+General regulation‑making power
+
+             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing penalties not exceeding a fine of $100 for offences against the regulations. 
+
+Regulations in relation to technological protection measures
+
+             (2)  Without limiting subsection (1), the Governor‑General may make regulations prescribing the doing of an act by a person for the purposes of subsections 116AN(9) and 132APC(9).
+
+Note:          For prescription of acts and persons by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+
+             (3)  However, the Governor‑General must not make a regulation prescribing the doing of an act by a person unless the Minister makes a recommendation to prescribe the doing of the act by the person.
+
+             (4)  The Minister may only make a recommendation to prescribe the doing of an act by a person if:
+
+                     (a)  a submission has been made (whether before or after the commencement of this section) to prescribe the doing of the act by the person; and
+
+                     (b)  the doing of the act by the person will not infringe the copyright in a work or other subject‑matter; and
+
+                     (c)  the doing of the act by the person is in relation to a particular class of works or other subject‑matter; and
+
+                     (d)  an actual or likely adverse impact on the doing of the act by the person has been credibly demonstrated; and
+
+                     (e)  the adequacy of the protection and the effectiveness of the remedies provided by Subdivision A of Division 2A of Part V and Subdivision E of Division 5 of Part V would not be impaired if the doing of the act by the person were prescribed.
+
+Note:          For the purposes of paragraph (a), it is not necessary for the person who made the submission to be the person in relation to whom the act is prescribed.
+
+             (5)  If a submission has been made to prescribe the doing of an act by a person, the Minister must make a decision whether to recommend the prescription of the doing of the act by the person as soon as practicable after receiving the submission, but in any case, within 4 years of receiving it.
+
+             (6)  The Governor‑General may make regulations varying or revoking regulations made under subsection (2).
+
+             (7)  However, the Governor‑General must not make a regulation varying or revoking a regulation made under subsection (2) unless the Minister makes a recommendation to vary or revoke the regulation.
+
+             (8)  The Minister may make a recommendation to vary or revoke a regulation made under subsection (2) only if:
+
+                     (a)  a submission has been made to vary or revoke the regulation; and
+
+                     (b)  an actual or likely adverse impact on the doing of the act by the person that is the subject of the regulation can no longer be credibly demonstrated; and
+
+                     (c)  the adequacy of the protection and the effectiveness of the remedies provided by Subdivision A of Division 2A of Part V and Subdivision E of Division 5 of Part V would be impaired if the regulation were not varied or revoked.
+
+             (9)  If a submission has been made to vary or revoke a regulation made under subsection (2), the Minister must make a decision whether to recommend the variation or revocation of the regulation as soon as practicable after receiving the submission, but in any case, within 4 years of receiving it.
+
+# The Schedule  
+
+_Section 144_
+
+OATH 
+
+I,                                                    , do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her in the office of                             
+ and that I will faithfully and impartially perform the duties of that office.
+
+SO HELP ME GOD!
+
+AFFIRMATION
+
+I,                                                    , do solemnly and sincerely promise and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her in the office of                            and that I will faithfully and impartially perform the duties of that office.
+
+# Notes to the _Copyright Act 1968_
+
+### Note 1
+
+The _Copyright Act 1968_ as shown in this compilation comprises Act No. 63, 1968 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 30 July 1998 is not incorporated in this compilation. For subsequent information _see_ Table A.
+
+The _Copyright Act 1968_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Copyright Act 1968</div>
+  </td>
+  <td>
+    <div>63, 1968</div>
+  </td>
+  <td>
+    <div>27 June 1968</div>
+  </td>
+  <td>
+    <div>1 May 1969 ( <i>see Gazette</i>1969, p. 2543)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973</div>
+  </td>
+  <td>
+    <div>216, 1973</div>
+  </td>
+  <td>
+    <div>19 Dec 1973</div>
+  </td>
+  <td>
+    <div>31 Dec 1973</div>
+  </td>
+  <td>
+    <div>Ss. 9(1) and 10</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Administrative Changes (Consequential Provisions) Act 1976</div>
+  </td>
+  <td>
+    <div>91, 1976</div>
+  </td>
+  <td>
+    <div>20 Sept 1976</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(a)</i></div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting and Television Amendment Act 1977</div>
+  </td>
+  <td>
+    <div>160, 1977</div>
+  </td>
+  <td>
+    <div>10 Nov 1977</div>
+  </td>
+  <td>
+    <div>1 Jan 1978 ( <i>see Gazette</i>1977, No. S259)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
+  </td>
+  <td>
+    <div>19, 1979</div>
+  </td>
+  <td>
+    <div>28 Mar 1979</div>
+  </td>
+  <td>
+    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+Remainder: 19 Mar 1979</div>
+  </td>
+  <td>
+    <div>Ss. 9 and 124</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 1980</div>
+  </td>
+  <td>
+    <div>154, 1980</div>
+  </td>
+  <td>
+    <div>19 Sept 1980</div>
+  </td>
+  <td>
+    <div>Ss. 17–19: 29 Sept 1980 
+Remainder: 1 Aug 1981 ( <i>see Gazette</i>1981, No. S124)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Designs Amendment Act 1981</div>
+  </td>
+  <td>
+    <div>42, 1981</div>
+  </td>
+  <td>
+    <div>13 May 1981</div>
+  </td>
+  <td>
+    <div>Ss. 1 and 2: 13 Mar 1981 
+S. 31, Part IV (ss. 34, 35) and s. 36(2): 1 Apr 1982 ( <i>see Gazette</i>1982, No. G12) 
+Remainder: 1 Apr 1982 ( <i>see Gazette</i>1982, No. G12)</div>
+  </td>
+  <td>
+    <div>S. 36</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1981</div>
+  </td>
+  <td>
+    <div>61, 1981</div>
+  </td>
+  <td>
+    <div>12 June 1981</div>
+  </td>
+  <td>
+    <div>S. 115: Royal Assent <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting and Television Amendment Act 1981</div>
+  </td>
+  <td>
+    <div>113, 1981</div>
+  </td>
+  <td>
+    <div>24 June 1981</div>
+  </td>
+  <td>
+    <div>S. 30: 10 Aug 1981 ( <i>see Gazette</i>1981, No. S158) 
+Remainder: 24 June 1981</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
+  </td>
+  <td>
+    <div>26, 1982</div>
+  </td>
+  <td>
+    <div>7 May 1982</div>
+  </td>
+  <td>
+    <div>Part XVIII (ss. 
+136–145): 4 June 1982 <i>(c)</i></div>
+  </td>
+  <td>
+    <div>S. 138(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+  </td>
+  <td>
+    <div>80, 1982</div>
+  </td>
+  <td>
+    <div>22 Sept 1982</div>
+  </td>
+  <td>
+    <div>Part LXXVII (s. 280): Royal Assent <i>(d)</i></div>
+  </td>
+  <td>
+    <div>S. 280(2) and (3)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting and Television Amendment Act 1982</div>
+  </td>
+  <td>
+    <div>154, 1982</div>
+  </td>
+  <td>
+    <div>31 Dec 1982</div>
+  </td>
+  <td>
+    <div>31 Dec 1982</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Broadcasting Corporation (Transitional Provisions and Consequential Amendments) Act 1983</div>
+  </td>
+  <td>
+    <div>7, 1983</div>
+  </td>
+  <td>
+    <div>1 June 1983</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2, 15(1) and 24: 1 June 1983 
+Remainder: 1 July 1983 ( <i>see</i>s. 2(2) and <i>Gazette</i>1983, No. S124)</div>
+  </td>
+  <td>
+    <div>S. 60(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 1983</div>
+  </td>
+  <td>
+    <div>80, 1983</div>
+  </td>
+  <td>
+    <div>3 Nov 1983</div>
+  </td>
+  <td>
+    <div>6 June 1984 ( <i>see Gazette</i>1984, No. S203)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+  </td>
+  <td>
+    <div>91, 1983</div>
+  </td>
+  <td>
+    <div>22 Nov 1983</div>
+  </td>
+  <td>
+    <div>S. 3: 20 Dec 1983 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>S. 6</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1983</div>
+  </td>
+  <td>
+    <div>136, 1983</div>
+  </td>
+  <td>
+    <div>22 Dec 1983</div>
+  </td>
+  <td>
+    <div>27 Aug 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S322)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 1984</div>
+  </td>
+  <td>
+    <div>43, 1984</div>
+  </td>
+  <td>
+    <div>15 June 1984</div>
+  </td>
+  <td>
+    <div>15 June 1984</div>
+  </td>
+  <td>
+    <div>S. 7</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+  </td>
+  <td>
+    <div>165, 1984</div>
+  </td>
+  <td>
+    <div>25 Oct 1984</div>
+  </td>
+  <td>
+    <div>S. 3: 22 Nov 1984 <i>(f)</i></div>
+  </td>
+  <td>
+    <div>Ss. 6(1) and 7</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+  </td>
+  <td>
+    <div>65, 1985</div>
+  </td>
+  <td>
+    <div>5 June 1985</div>
+  </td>
+  <td>
+    <div>S. 3: 3 July 1985 <i>(g)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting and Television (Consequential Amendments) Act 1985</div>
+  </td>
+  <td>
+    <div>67, 1985</div>
+  </td>
+  <td>
+    <div>5 June 1985</div>
+  </td>
+  <td>
+    <div>1 Jan 1986</div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 1986</div>
+  </td>
+  <td>
+    <div>78, 1986</div>
+  </td>
+  <td>
+    <div>24 June 1986</div>
+  </td>
+  <td>
+    <div>Ss. 14–19: 22 July 1986 
+Remainder: 30 Apr 1987 ( <i>see Gazette</i>1987, No. S68)</div>
+  </td>
+  <td>
+    <div>Ss. 20(2) and 28(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+  </td>
+  <td>
+    <div>168, 1986</div>
+  </td>
+  <td>
+    <div>18 Dec 1986</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(h)</i></div>
+  </td>
+  <td>
+    <div>S. 5(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1987</div>
+  </td>
+  <td>
+    <div>23, 1987</div>
+  </td>
+  <td>
+    <div>26 May 1987</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(i)</i></div>
+  </td>
+  <td>
+    <div>S. 5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting Legislation Amendment Act 1988</div>
+  </td>
+  <td>
+    <div>146, 1988</div>
+  </td>
+  <td>
+    <div>26 Dec 1988</div>
+  </td>
+  <td>
+    <div>S. 49: 1 Mar 1989 <i>(j)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Circuit Layouts Act 1989</div>
+  </td>
+  <td>
+    <div>28, 1989</div>
+  </td>
+  <td>
+    <div>22 May 1989</div>
+  </td>
+  <td>
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Oct 1990 ( <i>see Gazette</i>1990, No. S261)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 1989</div>
+  </td>
+  <td>
+    <div>32, 1989</div>
+  </td>
+  <td>
+    <div>24 May 1989</div>
+  </td>
+  <td>
+    <div>Ss. 3, 5, 7, 12, 13, 21, 22, 28 and Schedule (items 1, 4, 10, 12, 14, 19, 25, 26): 1 Oct 1989 ( <i>see Gazette</i>1989, No. S316) 
+Ss. 4, 14, 16, 18, 20, 23, 25, 27, 29 and Schedule (items 48, 49, 53): 29 Jan 1990 ( <i>see Gazette</i>1990, No. S15) 
+Ss. 6, 15, 19, 24, 26(a) and Schedule (items 2, 3, 6–9, 11, 13, 15, 18, 
+21–24, 27–47, 
+50–52): 1 July 1990 ( <i>see Gazette</i>1990, No. S164) 
+Ss. 8–11, 17 and Schedule (items 5, 16, 17, 20): 1 Oct 1990 ( <i>see Gazette</i>1990, No. S261) 
+S. 26(b)–(f): 2 July 1990 ( <i>see Gazette</i>1990, No. S164) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 2 (rep. by 107, 1993, s. 13) 
+Ss. 25 and 29 (am. by 107, 1993, ss. 8 and 10)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as repealed by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Re‑enactment) Act 1993</div>
+  </td>
+  <td>
+    <div>107, 1993</div>
+  </td>
+  <td>
+    <div>22 Dec 1993</div>
+  </td>
+  <td>
+    <div>S. 13: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 2(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as re‑enacted by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Re‑enactment) Act 1993</div>
+  </td>
+  <td>
+    <div>107, 1993</div>
+  </td>
+  <td>
+    <div>22 Dec 1993</div>
+  </td>
+  <td>
+    <div><i>(k)</i></div>
+  </td>
+  <td>
+    <div>Ss. 8 and 10–12</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>174, 1991</div>
+  </td>
+  <td>
+    <div>25 Nov 1991</div>
+  </td>
+  <td>
+    <div>23 Dec 1991</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Special Broadcasting Service Act 1991</div>
+  </td>
+  <td>
+    <div>180, 1991</div>
+  </td>
+  <td>
+    <div>25 Nov 1991</div>
+  </td>
+  <td>
+    <div>S. 116: 23 Dec 1991 <i>(l)</i></div>
+  </td>
+  <td>
+    <div>S. 116(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
+  </td>
+  <td>
+    <div>105, 1992</div>
+  </td>
+  <td>
+    <div>9 July 1992</div>
+  </td>
+  <td>
+    <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
+  </td>
+  <td>
+    <div>S. 3</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992</div>
+  </td>
+  <td>
+    <div>167, 1992</div>
+  </td>
+  <td>
+    <div>11 Dec 1992</div>
+  </td>
+  <td>
+    <div>1 July 1993</div>
+  </td>
+  <td>
+    <div>S. 14(3)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Re‑enactment) Act 1993</div>
+  </td>
+  <td>
+    <div>107, 1993</div>
+  </td>
+  <td>
+    <div>22 Dec 1993</div>
+  </td>
+  <td>
+    <div>22 Dec 1993</div>
+  </td>
+  <td>
+    <div>Ss. 8 and 10–12</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agricultural and Veterinary Chemicals (Consequential Amendments) Act 1994</div>
+  </td>
+  <td>
+    <div>37, 1994</div>
+  </td>
+  <td>
+    <div>15 Mar 1994</div>
+  </td>
+  <td>
+    <div>15 Mar 1995 
+( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Law and Justice Legislation Amendment Act (No. 2) 1994</div>
+  </td>
+  <td>
+    <div>141, 1994</div>
+  </td>
+  <td>
+    <div>28 Nov 1994</div>
+  </td>
+  <td>
+    <div>S. 4 (items 1–13, 15–30, 32–112): Royal Assent <i>(m)</i> 
+S. 4 (items 14, 31): 23 Dec 1991 <i>(m)</i></div>
+  </td>
+  <td>
+    <div>S. 7</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright (World Trade Organization Amendments) Act 1994</div>
+  </td>
+  <td>
+    <div>149, 1994</div>
+  </td>
+  <td>
+    <div>13 Dec 1994</div>
+  </td>
+  <td>
+    <div>Ss. 1 and 2: Royal Assent 
+Parts 3 and 4 (ss. 6–17): 1 July 1995 
+Remainder: 1 Jan 1996</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Intellectual Property Laws Amendment Act 1998</div>
+  </td>
+  <td>
+    <div>100, 1998</div>
+  </td>
+  <td>
+    <div>27 July 1998</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1–3): 27 Jan 1999 <i>(n)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act (No. 1) 1998</div>
+  </td>
+  <td>
+    <div>104, 1998</div>
+  </td>
+  <td>
+    <div>30 July 1998</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 6, 8, 10, 12) and Schedule 8 (item 12): 30 Jan 2000 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 4), Sch. 3 (item 4), Sch. 4 (item 6), Sch. 9 (item 8) and Sch. 10 (item 51) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act (No. 2) 1998</div>
+  </td>
+  <td>
+    <div>105, 1998</div>
+  </td>
+  <td>
+    <div>30 July 1998</div>
+  </td>
+  <td>
+    <div><i>(o)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 9) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Computer Programs) Act 1999</div>
+  </td>
+  <td>
+    <div>105, 1999</div>
+  </td>
+  <td>
+    <div>24 Aug 1999</div>
+  </td>
+  <td>
+    <div>30 Sept 1999 ( <i>see Gazette</i>1999, No. S462)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 338): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(p)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Digital Agenda) Act 2000</div>
+  </td>
+  <td>
+    <div>110, 2000</div>
+  </td>
+  <td>
+    <div>4 Sept 2000</div>
+  </td>
+  <td>
+    <div>4 Mar 2001</div>
+  </td>
+  <td>
+    <div>Sch. 2 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2002</div>
+  </td>
+  <td>
+    <div>63, 2002</div>
+  </td>
+  <td>
+    <div>3 July 2002</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 4, 5): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Moral Rights) Act 2000</div>
+  </td>
+  <td>
+    <div>159, 2000</div>
+  </td>
+  <td>
+    <div>21 Dec 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2: 4 Mar 2001 ( <i>see</i>s. 2(3)) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>24, 2001</div>
+  </td>
+  <td>
+    <div>6 Apr 2001</div>
+  </td>
+  <td>
+    <div>S. 4(1), (2) and Schedule 9: <i>(r)</i></div>
+  </td>
+  <td>
+    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Parallel Importation) Act 2003</div>
+  </td>
+  <td>
+    <div>34, 2003</div>
+  </td>
+  <td>
+    <div>15 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–3, 5, 7): <i>(s)</i> 
+Schedule 3 (items 4, 6, 8, 9): <i>(s)</i> 
+Schedule 4: 13 May 2003 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 20), Sch. 3 (item 9) and Sch. 4 (items 14, 15) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Designs (Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>148, 2003</div>
+  </td>
+  <td>
+    <div>17 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: <i>(t)</i> 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+15–20) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>US Free Trade Agreement Implementation Act 2004</div>
+  </td>
+  <td>
+    <div>120, 2004</div>
+  </td>
+  <td>
+    <div>16 Aug 2004</div>
+  </td>
+  <td>
+    <div>Schedule 9 (items 1–15, 59–112, 
+114–119, 121, 123–166, 
+168–191): 1 Jan 2005 
+Schedule 9 
+(items 16–58): 26 July 2007 ( <i>see</i>s. 2(1) and <i>Gazette</i>2007, No. GN22) 
+Schedule 9 (items 113, 167): Royal Assent 
+Schedule 9 (items 120, 122): <i>(u)</i></div>
+  </td>
+  <td>
+    <div>Sch. 9 (items 15, 84, 106, 117, 131, 145, 160, 185, 190) 
+Sch. 9 \[item 118] (am. by 154, 2004, Sch. 1 \[items 
+42–48]) 
+Sch. 9 \[item 119] (am. by 154, 2004, Sch. 1 \[items 
+49–51]) 
+Sch. 9 \[item 132] (am. by 154, 2004, Sch. 1 \[items 
+52–58]) 
+Sch. 9 \[item 133] (am. by 154, 2004, Sch. 1 \[items 
+59–61]) 
+\[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Legislation Amendment Act 2004</div>
+  </td>
+  <td>
+    <div>154, 2004</div>
+  </td>
+  <td>
+    <div>15 Dec 2004</div>
+  </td>
+  <td>
+    <div>( <i>see</i>154, 2004 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Legislation Amendment Act 2004</div>
+  </td>
+  <td>
+    <div>154, 2004</div>
+  </td>
+  <td>
+    <div>15 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1: <i>(v) 
+ </i>Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 8, 16, 29, 31, 41) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
+  </td>
+  <td>
+    <div>45, 2005</div>
+  </td>
+  <td>
+    <div>1 Apr 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 59–62) and Schedule 4: 1 July 2005 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>Sch. 4 
+\[ <i>see</i>Note 1]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment (Film Directors’ Rights) Act 2005</div>
+  </td>
+  <td>
+    <div>130, 2005</div>
+  </td>
+  <td>
+    <div>8 Nov 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1: 19 Dec 2005 ( <i>see</i>F2005L04088)Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2006</div>
+  </td>
+  <td>
+    <div>9, 2006</div>
+  </td>
+  <td>
+    <div>23 Mar 2006</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 8, 9): <i>(w)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 9) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Copyright Amendment Act 2006</div>
+  </td>
+  <td>
+    <div>158, 2006</div>
+  </td>
+  <td>
+    <div>11 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–33) and Schedules 2–5: 1 Jan 2007 
+Schedule 1 (item 34) and Schedule 12 (items 17, 18): <i>(x)</i> 
+Schedule 9: 8 Jan 2007 
+Schedule 11: <i>(x)</i> 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 9, 12, 14, 16, 18, 22, 24, 26), Sch. 2 (item 15), Sch. 3 (item 20), Sch. 4 (item 2), Sch. 5 (items 2, 6), Sch. 6 (item 9AA), Sch. 9 (item 2), Sch. 10 (items 5, 20, 30, 55, 58, 61, 63), Sch. 11 (items 3, 37, 40, 42, 57) and Sch. 12 (item 16) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Citizenship (Transitionals and Consequentials) Act 2007</div>
+  </td>
+  <td>
+    <div>21, 2007</div>
+  </td>
+  <td>
+    <div>15 Mar 2007</div>
+  </td>
+  <td>
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting Legislation Amendment Act 2007</div>
+  </td>
+  <td>
+    <div>28, 2007</div>
+  </td>
+  <td>
+    <div>15 Mar 2007</div>
+  </td>
+  <td>
+    <div>15 Mar 2007</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2008</div>
+  </td>
+  <td>
+    <div>73, 2008</div>
+  </td>
+  <td>
+    <div>3 July 2008</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 200): 4 July 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Archives Amendment Act 2008</div>
+  </td>
+  <td>
+    <div>113, 2008</div>
+  </td>
+  <td>
+    <div>31 Oct 2008</div>
+  </td>
+  <td>
+    <div>1 Nov 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2010</div>
+  </td>
+  <td>
+    <div>8, 2010</div>
+  </td>
+  <td>
+    <div>1 Mar 2010</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 137(a)): <i>(y)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting Legislation Amendment (Digital Television) Act 2010</div>
+  </td>
+  <td>
+    <div>94, 2010</div>
+  </td>
+  <td>
+    <div>29 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 135–144): 30 June 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting Legislation Amendment (Digital Dividend and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>36, 2011</div>
+  </td>
+  <td>
+    <div>26 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 61): 27 May 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Therapeutic Goods Legislation Amendment (Copyright) Act 2011</div>
+  </td>
+  <td>
+    <div>39, 2011</div>
+  </td>
+  <td>
+    <div>27 May 2011</div>
+  </td>
+  <td>
+    <div>28 May 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Acts Interpretation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>46, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 445, 446) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Intellectual Property Laws Amendment (Raising the Bar) Act 2012</div>
+  </td>
+  <td>
+    <div>35, 2012</div>
+  </td>
+  <td>
+    <div>15 Apr 2012</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 1–16): \[ <i>see</i>Note 2]</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2012</div>
+  </td>
+  <td>
+    <div>136, 2012</div>
+  </td>
+  <td>
+    <div>22 Sept 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 37): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
+  </td>
+  <td>
+    <div>169, 2012</div>
+  </td>
+  <td>
+    <div>3 Dec 2012</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 169–172): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
+
+_(a)_     The _Copyright Act 1968_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
+
+                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
+
+_(b)_     The _Copyright Act 1968_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(c)_     The _Copyright Act 1968_ was amended by Part XVIII (sections 136–145) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+
+               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+
+_(d)_     The _Copyright Act 1968_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.
+
+_(e)_ The _Copyright Act 1968_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(f)_      The _Copyright Act 1968_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(g)_     The _Copyright Act 1968_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(h)_     The _Copyright Act 1968_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986,_ subsection 2(3) provides as follows:
+
+                 (3)   The amendments of the _Copyright Act 1968_ made by this Act shall come into operation immediately after the commencement of section 3 of the _Copyright Amendment Act 1986_.
+
+         Section 3 commenced on 30 April 1987 (_see Gazette_ 1987, No. S68, p. 6).
+
+_(i)_      The _Copyright Act 1968_ was amended by section 3 only of the _Jurisdiction of Courts (Miscellaneous Amendments) Act 1987_, subsection 2(2) of which provides as follows:
+
+                 (2)   The amendments made by this Act to an Act specified in the Schedule shall come into operation on such day as is fixed by Proclamation in relation to those amendments.
+
+         The date fixed in pursuance of subsection 2(2) was 1 September 1987 (_see Gazette_ 1987, No. S217).
+
+_(j)_      The _Copyright Act 1968_ was amended by section 49 only of the _Broadcasting Legislation Amendment Act 1988_, subsection 2(3) of which provides as follows:
+
+                 (3)   Sections 15, 16 and 36, subsection 48(2), section 49 and Schedules 2, 4 and 5 commence on 1 March 1989.
+
+_(k)_     Certain provisions of the _Copyright Amendment Act 1989_ were re‑enacted by sections 4–10 of the _Copyright Amendment (Re_‑_enactment) Act 1993_. Subsection 2(2) of the _Copyright Amendment (Re_‑_enactment) Act 1993_ provides as follows:
+
+                 (2)   The amendments made by this Act are taken to have commenced on the dates set out in the Schedule.
+
+         The commencement of the re‑enacted provisions provide as follows:
+
+         Section 4 re‑enacted sections 3, 5, 7, 12, 13, 21, 28 and the Schedule (items 1, 4, 10, 12, 14, 19, 25 and 26) which commenced on 1 October 1989.
+
+         Section 4 re‑enacted sections 4, 14, 18, 23 and the Schedule (items 48, 49 and 53) which commenced on 29 January 1990.
+
+         Section 4 re‑enacted sections 6, 24, 26(a) and the Schedule (items 2, 3, 6–9, 11, 13, 15, 18, 21–24, 27–47 and 50–52) which commenced on 1 July 1990.
+
+         Section 4 re‑enacted sections 8–11, 17 and the Schedule (items 5, 16, 17 and 20) which commenced on 1 October 1990.
+
+         Section 4 re‑enacted paragraphs 26(b)–(f) which commenced on 2 July 1990\. 
+
+         Section 5 re‑enacted section 15 which commenced on 1 July 1990.
+
+         Section 6 re‑enacted section 19 which commenced on 1 July 1990.
+
+         Section 7 re‑enacted section 22 which commenced on 1 October 1989.
+
+         Section 8 re‑enacted section 25 which commenced on 29 January 1990.
+
+         Section 9 re‑enacted section 27 which commenced on 29 January 1990.
+
+         Section 10 re‑enacted section 29 which commenced on 29 January 1990.
+
+_(l)_      The _Copyright Act 1968_ was amended by section 116 only of the _Special Broadcasting Service Act 1991_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences 28 days after the day on which it receives the Royal Assent.
+
+_(m)_    The _Copyright Act 1968_ was amended by section 4 (items 1–112) only of the _Law and Justice Legislation Amendment Act (No. 2) 1994_, subsections 2(1) and (4) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+                 (4)   Items 14 and 31 of Schedule 2 are taken to have commenced on 23 December 1991, immediately after the commencement of the _Copyright Amendment Act 1991_.
+
+_(n)_     The _Copyright Act 1968_ was amended by Schedule 2 (items 1–3) only of the _Intellectual Property Laws Amendment Act 1998_, subsections 2(4) and (5) of which provide as follows:
+
+                 (4)   Subject to subsection (5), Schedule 2 commences on a day to be fixed by Proclamation.
+
+                 (5)   If Schedule 2 does not commence under subsection (4) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, Schedule 2 commences on the first day after the end of that period. 
+
+_(o)_     The _Copyright Act 1968_ was amended by Schedules 1 and 2 of the _Copyright Amendment Act (No. 2) 1998_, section 2 of which provides as follows:
+
+                 (1)   This Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   However, this Act commences immediately after the commencement of item 1 of Schedule 3 to the _Copyright Amendment Act (No. 1) 1998_ if that Act receives the Royal Assent on a day that is the same as, or later than, the day on which this Act receives the Royal Assent.
+
+         The _Copyright Amendment Act (No. 1) 1998_ received the Royal Assent on 30 July 1998.
+
+_(p)_     The _Copyright Act 1968_ was amended by Schedule 1 (item 338) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(q)_     Subsection 2(1) (items 33 and 34) of the _Statute Law Revision Act 2002_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      33\. Schedule 2, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Copyright Amendment (Digital Agenda) Act 2000</i>for the commencement
+        of item 41 of Schedule 1 to that Act
+    </div>
+  </td>
+  <td>
+    <div>
+      4 March 2001
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      34\. Schedule 2, item 5
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Copyright Amendment (Digital Agenda) Act 2000</i>for the commencement
+        of item 224 of Schedule 1 to that Act
+    </div>
+  </td>
+  <td>
+    <div>
+      4 March 2001
+    </div>
+  </td>
+</tr></table>
+
+_(r)_     The _Copyright Act 1968_ was amended by Schedule 9 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences at the later of the following times:
+
+                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
+
+         Item 15 commenced on 24 May 2001.
+
+_(s)_     Subsection 2(1) (items 4–9) of the _Copyright Amendment (Parallel Importation) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, items 1 to 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the
+        <i>Copyright Amendment (Digital Agenda) Act 2000</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      4 March 2001
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      5\. Schedule 3, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to this Act
+    </div>
+  </td>
+  <td>
+    <div>
+      15 April 2003
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 3, item 5
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the
+        <i>Copyright Amendment (Digital Agenda) Act 2000</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      4 March 2001
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      7\. Schedule 3, item 6
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to this Act
+    </div>
+  </td>
+  <td>
+    <div>
+      15 April 2003
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 3, item 7
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the
+        <i>Copyright Amendment (Digital Agenda) Act 2000</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      4 March 2001
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      9\. Schedule 3, items 8 and 9
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to this Act
+    </div>
+  </td>
+  <td>
+    <div>
+      15 April 2003
+    </div>
+  </td>
+</tr></table>
+
+_(t)_      Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedules 1 and 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 4 of the
+        <i>Designs Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      17 June 2004
+    </div>
+  </td>
+</tr></table>
+
+_(u)_     Subsection 2(1) (items 2, 12, 15 and 17) of the _US__Free Trade Agreement Implementation Act 2004_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) 1 January 2005; and
+    </div>
+    <div>
+      (b) the day on which the Australia‑United States Free Trade Agreement,
+        done at Washington DC on 18 May 2004, comes into force for Australia.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+    <div>
+      The Minister for Trade must announce by notice in the
+        <i>Gazette</i>the day on which the Agreement comes into force for Australia.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+    <div>
+      (paragraph (a) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      12\. Schedule 9, items 107 to 112
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      15\. Schedule 9, item 120
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provisions covered by table item 2\. However, if
+        that time is the same time as the time at which the provisions covered
+        by table item 12 commence, then item 120 commences immediately after those
+        provisions commence.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      17\. Schedule 9, item 122
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provisions covered by table item 2\. However, if
+        that time is the same time as the time at which the provisions covered
+        by table item 12 commence, then item 122 commences immediately after those
+        provisions commence.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+  </td>
+</tr></table>
+
+_(v)_     Subsection 2(1) (item 2) of the _Copyright Legislation Amendment Act 2004_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the start of the day on which this Act receives the Royal Assent;
+        and
+    </div>
+    <div>
+      (b) immediately after the commencement of the provisions covered by table
+        item 2 in the table in section 2 of the
+        <i>US</i>
+        <i>Free Trade Agreement Implementation Act 2004</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+_(w)_    Subsection 2(1) (item 6) of the _Statute Law Revision Act 2006_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 1, items 8 and 9
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 191 of Schedule 9 to the
+        <i>US</i>
+        <i>Free Trade Agreement Implementation Act 2004</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+  </td>
+</tr></table>
+
+_(x)_     Subsection 2(1) (items 2, 3 and 7–10) of the _Copyright Amendment Act 2006_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2007.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2007
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of Part 1 of Schedule 1 to this
+        Act; and
+    </div>
+    <div>
+      (b) the time the
+        <i>Archives Amendment Act 2006</i>commences.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      7\. Schedule 10
+    </div>
+  </td>
+  <td>
+    <div>
+      The day on which this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      11 December 2006
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 11
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 10.
+    </div>
+  </td>
+  <td>
+    <div>
+      11 December 2006
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      9\. Schedule 12, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions covered by table
+        item 2.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2007
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      10\. Schedule 12, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of Part 1 of Schedule 12 to this
+        Act; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 1 to the
+        <i>Archives Amendment Act 2006</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr></table>
+
+_(y)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      31\. Schedule 5, items 1 to 51
+    </div>
+  </td>
+  <td>
+    <div>
+      The day this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2010
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      38\. Schedule 5, Parts 2 and 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the provision(s) covered by table item 31.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2010
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>rs. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 42, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 67, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9A</div>
+  </td>
+  <td>
+    <div>ad. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973; No. 160, 1977; No. 154, 1980; No. 113, 1981; No. 154, 1982; Nos. 7 and 136, 1983; Nos. 43 and 165, 1984; No. 67, 1985; Nos. 78 and 168, 1986; No. 146, 1988; No. 28, 1989; No. 32, 1989 (as am. by No. 107, 1993); Nos. 174 and 180, 1991; No. 105, 1992; Nos. 37 and 141, 1994; Nos. 104 and 105, 1998; No. 110, 2000; Nos. 34 and 148, 2003; No. 120, 2004; No. 158, 2006; Nos. 21 and 28, 2007; No. 113, 2008; No. 94, 2010; No. 169, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10AA</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 10AB, 10AC</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10AD</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10A</div>
+  </td>
+  <td>
+    <div>ad. No. 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 78, 1986; No. 32, 1989 (as am. by No. 107, 1993); No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 21</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 22(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 22(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 22(4), (5).</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 78, 1986; No. 32, 1989 (as am. by No. 107, 1993); No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 32, 1989 (as am. by No. 107, 1993); No. 141, 1994; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 28</div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30A</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 149, 1994; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994; No. 21, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994; No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 174, 1991; No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 174, 1991; No. 141, 1994; No. 104, 1998; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39A</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000 (as am. by No. 63, 2002); No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39B</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 32, 1989 (as am. by No. 107, 1993); No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41A</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 100, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43A</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 105, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 43B</div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43B</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43C</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44A</div>
+  </td>
+  <td>
+    <div>ad. No. 174, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44B</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44BA</div>
+  </td>
+  <td>
+    <div>ad. No. 39, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44C</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 44C(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44D</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2003; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 44E, 44F</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 80, 1983; No. 141, 1994; No. 110, 2000; No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47AA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47A</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47A</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 105 and 167, 1992; No. 104, 1998; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47AB</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 47B–47D</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 47E–47H</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4B of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47J</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>rs. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48A</div>
+  </td>
+  <td>
+    <div>ad. No. 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 49</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>rs. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 165, 1984; No. 141, 1994; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 49(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 49(2C)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 49</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 50</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>rs. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 165, 1984; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 51</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 51AA</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000; No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51AA</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000; No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 51A</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51A</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 78, 1986; No. 141, 1994; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 51A(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51B</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 52</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1983; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5A of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53A</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53B</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53C</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 1983</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5B of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53D</div>
+  </td>
+  <td>
+    <div>ad. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>am. No. 32, 1989 (as am. by No. 107, 1993); No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 61, 1981; No. 32, 1989 (as am. by No. 107, 1993); No. 159, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 62, 63</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 80, 1983; No. 141, 1994; No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 8 of Part III</div>
+  </td>
+  <td>
+    <div>am. No. 42, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973; No. 42, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 148, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 42, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 148, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 76</div>
+  </td>
+  <td>
+    <div>am. No. 42, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 148, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 42, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 148, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77A</div>
+  </td>
+  <td>
+    <div>ad. No. 148, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 9</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 79, 80</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 81</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>rs. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 149, 1994; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 160, 1977; Nos. 7 and 136, 1983; No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 146, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 180, 1991; No. 167, 1992; No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91A</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 93, 94</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 95, 96</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 5 of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 97</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 98</div>
+  </td>
+  <td>
+    <div>am. No. 130, 2005; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99</div>
+  </td>
+  <td>
+    <div>am. No. 160, 1977; No. 154, 1980; No. 7, 1983; No. 78, 1986; No. 146, 1988; No. 180, 1991; No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. B of Div. 5 of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 100AA–100AF</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100AG</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100AH</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 100AH</div>
+  </td>
+  <td>
+    <div>am. No. 94, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100A</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>am. No. 174, 1991; Nos. 104 and 105, 1998; No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103</div>
+  </td>
+  <td>
+    <div>am. No. 174, 1991; No. 141, 1994; Nos. 104 and 105, 1998; No. 34, 2003; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103A</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103AA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103B</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103C</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104</div>
+  </td>
+  <td>
+    <div>rs. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 100, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104A</div>
+  </td>
+  <td>
+    <div>ad. No. 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104B</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>am. No. 169, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 107</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 80, 1983; No. 141, 1994; No. 110, 2000; No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994; No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109A</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 8, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110AA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 110A</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110A</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 110B</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110B</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 110B(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110BA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110C</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111A</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 111B</div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111B</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112</div>
+  </td>
+  <td>
+    <div>rs. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 78, 1986; No. 32, 1989 (as am. by No. 107, 1993); No. 104, 1998; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112A</div>
+  </td>
+  <td>
+    <div>ad. No. 174, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112B</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112C</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 112C(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112D</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112DA</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112E</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 113</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 113A–113C</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part V</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000; No. 34, 2003; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994; No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2AA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2AA of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004; No. 9, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 116AC–116AF</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AG</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AH</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AI</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2A of Part V</div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116A</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. A of Div. 2A of 
+Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 116AK–116AQ</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 2A of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116B</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 116C</div>
+  </td>
+  <td>
+    <div>rs. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116C</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 116CA, 116CB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 116D</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116D</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 119</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 120</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 123</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 124</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 125</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4 of Part V</div>
+  </td>
+  <td>
+    <div>rs. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 126</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 126A</div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 126A</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 126B</div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 126B</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 127</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 128</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129A</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 130</div>
+  </td>
+  <td>
+    <div>am. No. 34, 2003; No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 130A</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 130B, 130C</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 131</div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 141, 1994; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4A of Part V</div>
+  </td>
+  <td>
+    <div>rs. No. 23, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 19, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131A</div>
+  </td>
+  <td>
+    <div>ad. No. 19, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131B</div>
+  </td>
+  <td>
+    <div>ad. No. 19, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 23, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131C</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131D</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 132(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 132(5), 
+(5AA), (5A)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004 
+rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 132(5E)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 132(5F)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 132(6), 
+(6AA)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004 
+rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 132(7)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 132(9)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 43, 1984; No. 78, 1986; Nos. 104 and 105, 1998; No. 110, 2000; No. 34, 2003; Nos. 120 and 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 132(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. A of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 132AA, 132AB</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. B of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132AC</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. C of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 132AD–132AM</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 132AN, 132AO</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. E of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 132APA, 132APB</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 132APC–132APE</div>
+  </td>
+  <td>
+    <div>ad. No. 156, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. F of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 132AQ–132AS</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132AT</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 113, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. G of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132AU</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132A</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132B</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132C</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision H</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. H of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 133</div>
+  </td>
+  <td>
+    <div>rs. No. 105, 1998; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133</div>
+  </td>
+  <td>
+    <div>am. No. 154, 1980; No. 91, 1983; No. 78, 1986; Nos. 104 and 105, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. I of Div. 5 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 133A</div>
+  </td>
+  <td>
+    <div>am. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133A</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 78, 1986; No. 105, 1998; No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133B</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 134</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 134A</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 7 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 134B</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973; No. 91, 1976; No. 19, 1979; No. 154, 1980; No. 80, 1982; No. 65, 1985; No. 32, 1989 (as am. by No. 107, 1993); Nos. 141 and 149, 1994; Nos. 104 and 105, 1998; No. 34, 2003; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AA</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135AB–135AI</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AK</div>
+  </td>
+  <td>
+    <div>ad. No. 149, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VAA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AL</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AM</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 135AN(1), 
+(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004 
+rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135AN(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 135AN(7), 
+(8)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004 
+rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AN</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ANA</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 135ANA(1), 
+(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004 
+rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135ANA(4).</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135ANA(7).</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ANA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AOA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AOB</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135AOC, 135AOD</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AOE, 135AOF</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135AP–135AR</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ARA</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135AS(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 135AS(2), 
+(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004 
+rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135AS(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AS</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 120 and 154, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 135AS(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135ASA–35ASJ</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ATA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AT</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135AU</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VA</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VA</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135A</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135B</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135B</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135C</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135D</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part VA</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135E</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135E</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135F</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135F</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135G</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135H</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135J</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135JAA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135JA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135K(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135K(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135K</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135KA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135L</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135M</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135N</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135P</div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135P</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135Q</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135R, 135S</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135SA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135T</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135U–135W</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135X, 135Y</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135Z</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135Z</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VB</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VB</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135ZE, 135ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZFA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part VB</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZGA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZG</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZG</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZH</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZJ</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZJ</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZK</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZL</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZL</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZM</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZM</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part VB</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZMA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135ZMB(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135ZMB(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135ZMB(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZMB</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135ZMC, 135ZMD</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZMDA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZME</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of Part VB</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZN</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZN</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZP</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZP</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZQ</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZQ</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4 of Part VB</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZR</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZR</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZS</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZS</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZT</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZT</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZU</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZV</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZW</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZWAA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZWA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135ZX</div>
+  </td>
+  <td>
+    <div>rs. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 135ZX(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 135ZX(3), 
+(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZX</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZXA</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZY</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZ</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZA</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZB</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135ZZC–135ZZE</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZEA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135ZZF, 135ZZG</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1998; No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZH</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VC</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VC</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZI</div>
+  </td>
+  <td>
+    <div>ad. No. 110, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004; No. 158, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135ZZJ</div>
+  </td>
+  <td>
+    <div>ad.
