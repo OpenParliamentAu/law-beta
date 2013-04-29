@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00014/Html/8e1fe171-9008-40a9-907b-63b9ce65d66d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00515/Html/a7076336-34af-40cf-8712-3352b7edaa62_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 7 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 1 July 2012
+ taking into account amendments up to Act No. 77 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -850,14 +851,6 @@ Note:          Schedule 3 identifies Acts of the States, the
 _Section 3_
 
              (a)  decisions under the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, the _Road Safety Remuneration Act 2012_, the _Workplace Relations Act 1996_, the _Building and Construction Industry Improvement Act 2005_ or the _Fair Work (Building Industry) Act 2012_;
-
-             (b)  the following decisions under the _Australian Charities and Not‑for‑profits Commission Act 2012_:
-
-                      (i)  administrative decisions (within the meaning of that Act);
-
-                     (ii)  objection decisions (within the meaning of that Act);
-
-                    (iii)  extension of time refusal decisions (within the meaning of that Act);
 
              (c)  decisions under the _Coal Industry Act 1946_, other than decisions of the Joint Coal Board;
 
@@ -3773,23 +3766,6 @@ Schedule 1 (items 269, 270): <i>(s)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(3) of which provides as follows:
@@ -4672,7 +4648,7 @@ _(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Asses
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80; Nos. 14, 39, 47, 77 and 169, 2012</div>
+    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80; Nos. 14, 39, 47 and 77, 2012</div>
   </td>
 </tr>
 <tr>
