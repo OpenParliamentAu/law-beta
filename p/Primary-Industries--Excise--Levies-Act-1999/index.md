@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00464/Html/PrimIndExciseLevies1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00394/Html/PrimIndExciseLevies1999_WD02_image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
-**Act No. 31 of 1999 as amended**
+**Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 10 July 2007
- taking into account amendments up to Act No. 123 of 2007
+This compilation was prepared on 27 June 2007
+ taking into account amendments up to Act No. 91 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Regulations
 
-**Schedule 1—Beef production**
+**Schedule 1—Beef production**
 
 [1](#1).            Definitions
 
@@ -46,7 +46,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Regulations
 
-**Schedule 2—Buffalo slaughter**
+**Schedule 2—Buffalo slaughter**
 
 [1](#1).            Imposition of levy
 
@@ -56,7 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Transitional—regulations
 
-**Schedule 3—Cattle transactions**
+**Schedule 3—Cattle transactions**
 
 [1](#1).            Definitions
 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Transitional—declarations
 
-**Schedule 4—Coarse grains**
+**Schedule 4—Coarse grains**
 
 [1](#1).            Definitions
 
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Transitional—regulations
 
-**Schedule 5—Cotton**
+**Schedule 5—Cotton**
 
 [1](#1).            Definitions
 
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Transitional—regulations
 
-**Schedule 6—Dairy produce**
+**Schedule 6—Dairy produce**
 
 [1](#1).            Definitions
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Transitional—regulations
 
-**Schedule 7—Deer slaughter**
+**Schedule 7—Deer slaughter**
 
 [1](#1).            Definitions
 
@@ -158,7 +158,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Transitional—regulations
 
-**Schedule 8—Deer velvet**
+**Schedule 8—Deer velvet**
 
 [1](#1).            Definitions
 
@@ -180,7 +180,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Transitional—delegations
 
-**Schedule 9—Dried fruits**
+**Schedule 9—Dried fruits**
 
 [1](#1).            Definitions
 
@@ -196,7 +196,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Transitional—regulations
 
-**Schedule 10—Forest industries products**
+**Schedule 10—Forest industries products**
 
 [1](#1).            Definitions
 
@@ -210,7 +210,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Transitional—regulations
 
-**Schedule 11—Goat fibre**
+**Schedule 11—Goat fibre**
 
 [1](#1).            Definitions
 
@@ -226,7 +226,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Transitional—determinations
 
-**Schedule 12—Grain legumes**
+**Schedule 12—Grain legumes**
 
 [1](#1).            Definitions
 
@@ -246,7 +246,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Transitional—regulations
 
-**Schedule 13—Grapes**
+**Schedule 13—Grapes**
 
 [1](#1).            Definitions
 
@@ -264,7 +264,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Transitional—regulations
 
-**Schedule 14—Honey**
+**Schedule 14—Honey**
 
 [1](#1).            Definitions
 
@@ -282,7 +282,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Transitional—regulations (use)
 
-**Schedule 15—Horticultural products**
+**Schedule 15—Horticultural products**
 
 [1](#1).            Definitions
 
@@ -298,11 +298,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Transitional—regulations
 
-**Schedule 16—Laying chickens**
+**Schedule 16—Laying chickens**
 
 [1](#1).            Definitions
 
-[2](#2).            Number of chickens not exceeding 106 may be taken to be 100 chickens
+[2](#2).            Number of chickens not exceeding 106 may be taken to be 100 chickens
 
 [3](#3).            Imposition of levy
 
@@ -316,7 +316,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Transitional—declarations
 
-**Schedule 17—Live-stock slaughter**
+**Schedule 17—Live-stock slaughter**
 
 [1](#1).            Definitions
 
@@ -328,7 +328,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Regulations
 
-**Schedule 18—Live-stock transactions**
+**Schedule 18—Live-stock transactions**
 
 [1](#1).            Definitions
 
@@ -346,7 +346,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Transitional—declarations
 
-**Schedule 19—Meat chickens**
+**Schedule 19—Meat chickens**
 
 [1](#1).            Definitions
 
@@ -362,7 +362,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Transitional—declarations
 
-**Schedule 20—Oilseeds**
+**Schedule 20—Oilseeds**
 
 [1](#1).            Definitions
 
@@ -384,7 +384,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Transitional—regulations
 
-**Schedule 21—Pasture seeds**
+**Schedule 21—Pasture seeds**
 
 [1](#1).            Definitions
 
@@ -398,7 +398,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Transitional—instruments
 
-**Schedule 22—Pig slaughter**
+**Schedule 22—Pig slaughter**
 
 [1](#1).            Definitions
 
@@ -414,7 +414,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Transitional—declarations
 
-**Schedule 23—Rice**
+**Schedule 23—Rice**
 
 [1](#1).            Definitions
 
@@ -430,7 +430,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Transitional—authorisations
 
-**Schedule 24—Sugar cane**
+**Schedule 24—Sugar cane**
 
 [1](#1).            Definitions
 
@@ -446,7 +446,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Transitional—regulations
 
-**Schedule 25—Wheat**
+**Schedule 25—Wheat**
 
 [1](#1).            Definitions
 
@@ -464,7 +464,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Transitional—regulations
 
-**Schedule 26—Wine grapes**
+**Schedule 26—Wine grapes**
 
 [1](#1).            Definitions
 
@@ -488,13 +488,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11](#11).          Transitional—determinations
 
-**Schedule 27—Regulations may impose primary industries levies** 
+**Schedule 27—Regulations may impose primary industries levies** 
 
-**Part 1—Definitions**
+**Part 1—Definitions**
 
 [1](#1).            Definitions
 
-**Part 2—Regulations may impose levies on primary industry products**
+**Part 2—Regulations may impose levies on primary industry products**
 
 [2](#2).            Imposition of levy
 
@@ -504,7 +504,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Additional levies
 
-**Part 3—Rate of levy**
+**Part 3—Rate of levy**
 
 [6](#6).            Rate of levy
 
@@ -516,7 +516,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Maximum rate of levy for plant products
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous**
 
 [11](#11).          Person liable to pay levy
 
@@ -536,9 +536,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Subject to subsection (2), this Act commences on 1 July 1999.
+             (1)  Subject to subsection (2), this Act commences on 1 July 1999.
 
-             (2)  Schedule 26 commences on 1 January 2000.
+             (2)  Schedule 26 commences on 1 January 2000.
 
 ##### <a id="3"></a>3  Simplified outline
 
@@ -554,7 +554,7 @@ excise.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     Each
 
-of Schedules 1 to 26 imposes a particular levy and makes provision for:</li>
+of Schedules 1 to 26 imposes a particular levy and makes provision for:</li>
 
                (a)     the operative rate of the levy; and
 
@@ -564,11 +564,11 @@ of Schedules 1 to 26 imposes a particular levy and makes provision for:</li>
 
                (d)     any exemptions from the levy.
 
-<li class="BoxList" style="margin-left:21.25pt">•     Schedule
+<li class="BoxList" style="margin-left:21.25pt">•     Schedule 27
 
-27 allows the regulations to impose levies. In addition to imposing a
+allows the regulations to impose levies. In addition to imposing a particular
 
-particular levy, regulations under Schedule 27 are to set out:</li>
+levy, regulations under Schedule 27 are to set out:</li>
 
                (a)     the operative rate of the levy; and
 
@@ -576,11 +576,11 @@ particular levy, regulations under Schedule 27 are to set out:</li>
 
                (c)     any exemptions from the levy.
 
-<li class="BoxList" style="margin-left:21.25pt">•     Schedule
+<li class="BoxList" style="margin-left:21.25pt">•     Schedule 27
 
-27 sets out the maximum rate of levy that can be imposed by regulations under
+sets out the maximum rate of levy that can be imposed by regulations under that
 
-that Schedule.</li>
+Schedule.</li>
 
 * * *
 
@@ -594,7 +594,7 @@ that Schedule.</li>
 
 ##### <a id="6"></a>6  Duties of excise
 
-                   This Act authorises the imposition of a levy only so far as the levy is a duty of excise within the meaning of section 55 of the Constitution.
+                   This Act authorises the imposition of a levy only so far as the levy is a duty of excise within the meaning of section 55 of the Constitution.
 
 ##### <a id="7"></a>7  Imposition of levy
 
@@ -608,7 +608,7 @@ that Schedule.</li>
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule 1—Beef production
+# Schedule 1—Beef production
 
 ##### <a id="1"></a>1  Definitions
 
@@ -634,7 +634,7 @@ that Schedule.</li>
 
              (3)  The regulations may provide that no amount of levy is payable by owners of cattle under this Schedule.
 
-             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of levy is not payable under this Schedule on the slaughter of cattle in respect of any period while the regulation is in force.
+             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of levy is not payable under this Schedule on the slaughter of cattle in respect of any period while the regulation is in force.
 
 ##### <a id="3"></a>3  Rate of levy
 
@@ -644,9 +644,9 @@ that Schedule.</li>
 
                      (b)  the prescribed amount (not exceeding 1 cent).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
 
              (2)  For the purposes of the calculation of levy imposed by this Schedule, the weight of a carcase is its hot carcase weight.
 
@@ -734,7 +734,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Aust
   </td>
 </tr></table>
 
-Note:          Section 24A of the _Primary Industries Levies and Charges Collection Act 1991_ creates offences that apply in the following situations:
+Note:          Section 24A of the _Primary Industries Levies and Charges Collection Act 1991_ creates offences that apply in the following situations:
 
 (a)           an abattoir is able to determine a hot carcase weight but fails to do so;
 
@@ -746,11 +746,11 @@ Note:          Section 24A of the _Primary Industries Levies a
 
 ##### <a id="5"></a>5  Regulations
 
-             (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendation about the amount to be prescribed for the purposes of paragraph 3(1)(a) or 3(1)(b) of this Schedule are to be taken into consideration under subclause (2).
+             (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendation about the amount to be prescribed for the purposes of paragraph 3(1)(a) or 3(1)(b) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
-# Schedule 2—Buffalo slaughter
+# Schedule 2—Buffalo slaughter
 
 ##### <a id="1"></a>1  Imposition of levy
 
@@ -770,9 +770,9 @@ Note:          Section 24A of the _Primary Industries Levies a
 
                      (b)  73 cents or, if another amount (not exceeding $4.00) is prescribed by the regulations, the other amount.
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Primary Industries and Energy Research and Development Act 1989_, are destined for the Rural Industries Research and Development Corporation.
+Note 1:       Paragraph (a) identifies amounts that, under the _Primary Industries and Energy Research and Development Act 1989_, are destined for the Rural Industries Research and Development Corporation.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
+Note 2:       Paragraph (b) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
 
 ##### <a id="3"></a>3  Who pays the levy
 
@@ -788,7 +788,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 3—Cattle transactions
+# Schedule 3—Cattle transactions
 
 ##### <a id="1"></a>1  Definitions
 
@@ -806,9 +806,9 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
                     <a name="dairi-cattl"></a>**_dairy cattle_** means cattle that are, or, unless exported from Australia, would be likely to be, held on licensed dairy premises for a purpose related to commercial milk production, including, but without limiting the generality of the above, bulls, calves and replacement heifers.
 
-                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
-                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="leviabl-bobbi-calf"></a>**_leviable bobby calf_** means a bobby calf to which subclause 6(4) does not apply.
 
@@ -840,7 +840,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
                      (c)  the slaughter by a processor, after the commencement of this Schedule, of cattle purchased by the processor and held for a period of more than 60 days after the day of the purchase and before the day of the slaughter; or
 
-                     (d)  the slaughter by a processor, after the commencement of this Schedule, of cattle in respect of which levy imposed by this Schedule would not be payable under paragraph (a), (b) or (c).
+                     (d)  the slaughter by a processor, after the commencement of this Schedule, of cattle in respect of which levy imposed by this Schedule would not be payable under paragraph (a), (b) or (c).
 
              (2)  Levy is not imposed by this Schedule:
 
@@ -856,7 +856,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
                              (ii)  the cattle are afterwards slaughtered; and
 
-                            (iii)  the person continues to own the cattle immediately after their hot carcase weight, within the meaning of Schedule 1, is determined or is taken, for the purposes of that Schedule, to have been determined, as the case requires; or
+                            (iii)  the person continues to own the cattle immediately after their hot carcase weight, within the meaning of Schedule 1, is determined or is taken, for the purposes of that Schedule, to have been determined, as the case requires; or
 
                      (e)  on the sale or delivery of cattle to a processor, if the cattle are not, at the time of the sale or delivery, fit for human consumption, under any applicable law of the Commonwealth or of a State or Territory; or
 
@@ -872,7 +872,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
                      (h)  in such other circumstances (if any) as are prescribed.
 
-             (3)  For the purposes of paragraph (2)(a), dairy cattle are taken to be sold for dairying purposes if:
+             (3)  For the purposes of paragraph (2)(a), dairy cattle are taken to be sold for dairying purposes if:
 
                      (a)  both the vendor and the purchaser are licensed dairy farmers; or
 
@@ -880,7 +880,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
              (4)  If cattle are delivered to a processor, otherwise than because of a sale to the processor, for fattening or agistment for a period before slaughter by the processor, the cattle:
 
-                     (a)  are taken not to have been delivered to the processor for the purposes of paragraph (1)(b) unless they are slaughtered at the end of that period; and
+                     (a)  are taken not to have been delivered to the processor for the purposes of paragraph (1)(b) unless they are slaughtered at the end of that period; and
 
                      (b)  if they are slaughtered at the end of that period, are taken to have been delivered to the processor immediately before their slaughter.
 
@@ -896,13 +896,13 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Nati
 
                      (d)  13 cents or, if another amount (not exceeding 50 cents) is prescribed by the regulations, the other amount.
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
+Note 3:       Paragraph (c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
 
-Note 4:       Paragraph (d) identifies amounts that, under _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 4:       Paragraph (d) identifies amounts that, under _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
              (2)  The rate of levy imposed by this Schedule on each head of cattle that is a leviable bobby calf is the sum of the following amounts:
 
@@ -914,13 +914,13 @@ Note 4:       Paragraph (d) identifies amounts that, under _Australi
 
                      (d)  the prescribed amount (not exceeding 50 cents), if any.
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
+Note 3:       Paragraph (c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
 
-Note 4:       Paragraph (d) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 4:       Paragraph (d) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
              (3)  The rate of levy imposed by this Schedule on each head of lot-fed cattle is the sum of the following amounts:
 
@@ -932,15 +932,15 @@ Note 4:       Paragraph (d) identifies amounts that, under the _Aust
 
                      (d)  13 cents or, if another amount (not exceeding 50 cents) is prescribed by the regulations, the other amount.
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
+Note 3:       Paragraph (c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account.
 
-Note 4:       Paragraph (d) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 4:       Paragraph (d) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
-             (4)  For the purposes of subclause (1), a cow with a calf at foot are together taken to constitute a single head of cattle.
+             (4)  For the purposes of subclause (1), a cow with a calf at foot are together taken to constitute a single head of cattle.
 
 ##### <a id="7"></a>7  Who pays the levy
 
@@ -952,9 +952,9 @@ Note 4:       Paragraph (d) identifies amounts that, under the _Aust
 
 ##### <a id="8"></a>8  Regulations
 
-             (1)  The Minister may, by notice in the _Gazette,_ declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 6(1)(a), 6(1)(b), 6(1)(d), 6(2)(a), 6(2)(b), 6(2)(d), 6(3)(a), 6(3)(b) or 6(3)(d) of this Schedule are to be taken into consideration under subclause (2).
+             (1)  The Minister may, by notice in the _Gazette,_ declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 6(1)(a), 6(1)(b), 6(1)(d), 6(2)(a), 6(2)(b), 6(2)(d), 6(3)(a), 6(3)(b) or 6(3)(d) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
 ##### <a id="9"></a>9  Transitional—regulations
 
@@ -976,7 +976,7 @@ Note 4:       Paragraph (d) identifies amounts that, under the _Aust
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 4—Coarse grains
+# Schedule 4—Coarse grains
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1048,7 +1048,7 @@ a reference in this Schedule to the **_producer_** is, in relation to the grain,
 
 ##### <a id="4"></a>4  Application of regulations
 
-                   If grain of a particular kind or kinds becomes leviable coarse grain during a financial year because of a regulation made for the purposes of the definition of **_leviable coarse grain_** in clause 1, a reference in this Schedule to:
+                   If grain of a particular kind or kinds becomes leviable coarse grain during a financial year because of a regulation made for the purposes of the definition of **_leviable coarse grain_** in clause 1, a reference in this Schedule to:
 
                      (a)  leviable coarse grain delivered in that year; or
 
@@ -1084,7 +1084,7 @@ levy is not imposed by this Schedule on the grain.
 
                      (a)  a producer processes leviable coarse grain that the producer has produced; and
 
-                     (b)  paragraph (3)(b) does not apply in respect of the grain; and
+                     (b)  paragraph (3)(b) does not apply in respect of the grain; and
 
                      (c)  apart from this subclause, the total amount of levy imposed by this Schedule on the grain would be less than the leviable amount;
 
@@ -1100,7 +1100,7 @@ levy is not imposed by this Schedule on the grain.
 
                      (b)  if another rate (not exceeding 3% of the value of the grain) is prescribed in respect of that grain—the other rate.
 
-             (2)  If a coarse grain is prescribed for the purposes of the definition of **_leviable coarse grain_** in clause 1, the rate of levy in respect of the grain is such rate (not exceeding 3% of the value of the grain) as is prescribed in respect of that grain.
+             (2)  If a coarse grain is prescribed for the purposes of the definition of **_leviable coarse grain_** in clause 1, the rate of levy in respect of the grain is such rate (not exceeding 3% of the value of the grain) as is prescribed in respect of that grain.
 
 ##### <a id="7"></a>7  Who pays the levy
 
@@ -1110,11 +1110,11 @@ levy is not imposed by this Schedule on the grain.
 
                    Before the Governor-General makes regulations in relation to a kind of grain for the purposes of:
 
-                     (a)  the definition of **_leviable amount_** in clause 1; or
+                     (a)  the definition of **_leviable amount_** in clause 1; or
 
-                     (b)  the definition of **_leviable coarse grain_** in clause 1; or
+                     (b)  the definition of **_leviable coarse grain_** in clause 1; or
 
-                     (c)  clause 6;
+                     (c)  clause 6;
 
 the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
 
@@ -1128,7 +1128,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 5—Cotton
+# Schedule 5—Cotton
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1154,7 +1154,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor-General makes a regulation for the purposes of clause 3, the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
+                   Before the Governor-General makes a regulation for the purposes of clause 3, the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1166,7 +1166,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 6—Dairy produce
+# Schedule 6—Dairy produce
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1212,7 +1212,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
                    For the purposes of this Schedule, a person is a prescribed exporter in relation to a financial year if:
 
-                     (a)  the person has an export milk fat component or an export protein component, or both, within the meaning of clause 8 for a month or months of the year; or
+                     (a)  the person has an export milk fat component or an export protein component, or both, within the meaning of clause 8 for a month or months of the year; or
 
                      (b)  during the year, the person has exported dairy produce and:
 
@@ -1240,21 +1240,21 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (1)  Levies are imposed as follows:
 
-                     (a)  market milk levy is imposed on relevant dairy produce, supplied by the producer during a month ending after 30 June 1999 and before 1 July 2000, in relation to which the producer has received, or is entitled to receive, a payment relating to liquid milk for human consumption in Australia;
+                     (a)  market milk levy is imposed on relevant dairy produce, supplied by the producer during a month ending after 30 June 1999 and before 1 July 2000, in relation to which the producer has received, or is entitled to receive, a payment relating to liquid milk for human consumption in Australia;
 
                      (b)  a levy to be known as the manufacturing milk levy is imposed on relevant dairy produce:
 
-                              (i)  delivered to a manufacturer by the producer during a month ending after 30 June 1999 and before 1 July 2000; or
+                              (i)  delivered to a manufacturer by the producer during a month ending after 30 June 1999 and before 1 July 2000; or
 
-                             (ii)  produced by a manufacturer and used by the manufacturer, during a month ending after 30 June 1999 and before 1 July 2000, in the manufacture of dairy produce;
+                             (ii)  produced by a manufacturer and used by the manufacturer, during a month ending after 30 June 1999 and before 1 July 2000, in the manufacture of dairy produce;
 
-                            other than dairy produce referred to in paragraph (a);
+                            other than dairy produce referred to in paragraph (a);
 
-                     (c)  a levy to be known as the acquisition offset levy is imposed on the total quantity of dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate (other than a prescribed exporter) that is related to the prescribed exporter, during a financial year commencing on or after 1 July 1999, being dairy produce imported into Australia after the commencement of this Schedule and on which charge or levy has not been paid, and is not payable, under any of the following provisions:
+                     (c)  a levy to be known as the acquisition offset levy is imposed on the total quantity of dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate (other than a prescribed exporter) that is related to the prescribed exporter, during a financial year commencing on or after 1 July 1999, being dairy produce imported into Australia after the commencement of this Schedule and on which charge or levy has not been paid, and is not payable, under any of the following provisions:
 
-                              (i)  clause 2 or 3 of Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_;
+                              (i)  clause 2 or 3 of Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_;
 
-                             (ii)  section 8 or 9 of the repealed _Dairy Produce Levy (No. 2) Act 1986_;
+                             (ii)  section 8 or 9 of the repealed _Dairy Produce Levy (No. 2) Act 1986_;
 
                      (d)  a levy to be known as the dairy service levy is imposed on relevant dairy produce:
 
@@ -1268,13 +1268,13 @@ the Minister must take into consideration any relevant recommendation made to th
 
                              (ii)  produced by a manufacturer after the commencement of this Schedule and used by the manufacturer in the manufacture of dairy produce.
 
-             (2)  If a levy is imposed by a paragraph of subclause (1) on particular relevant dairy produce, the paragraph does not have the effect of imposing any further levy on:
+             (2)  If a levy is imposed by a paragraph of subclause (1) on particular relevant dairy produce, the paragraph does not have the effect of imposing any further levy on:
 
                      (a)  that relevant dairy produce; or
 
                      (b)  relevant dairy produce produced by modifying, or extracting material from, the first-mentioned relevant dairy produce.
 
-             (3)  If a levy has been imposed by a paragraph of section 5 of the repealed _Dairy Produce Levy (No. 1) Act 1986_ on particular relevant dairy produce, the corresponding paragraph of subclause (1) does not have the effect of imposing any further levy on:
+             (3)  If a levy has been imposed by a paragraph of section 5 of the repealed _Dairy Produce Levy (No. 1) Act 1986_ on particular relevant dairy produce, the corresponding paragraph of subclause (1) does not have the effect of imposing any further levy on:
 
                      (a)  that relevant dairy produce; or
 
@@ -1282,7 +1282,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
 ##### <a id="7"></a>7  Rate of market milk levy
 
-                   The amount of the market milk levy imposed by clause 6 on relevant dairy produce in relation to which the producer has received, or is entitled to receive, a payment relating to a month is the total of:
+                   The amount of the market milk levy imposed by clause 6 on relevant dairy produce in relation to which the producer has received, or is entitled to receive, a payment relating to a month is the total of:
 
                      (a)  an amount calculated at the milk fat rate prescribed in relation to that levy for that month on the milk fat content of the relevant dairy produce before it leaves the farm where it was produced; and
 
@@ -1296,7 +1296,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
                     <a name="protein-rate"></a>**_protein rate_**, in relation to a month, means the protein rate prescribed in relation to the manufacturing milk levy for that month.
 
-             (2)  The amount of the manufacturing milk levy imposed by clause 6 on relevant dairy produce delivered to, or used by, a manufacturer during a month is the total of:
+             (2)  The amount of the manufacturing milk levy imposed by clause 6 on relevant dairy produce delivered to, or used by, a manufacturer during a month is the total of:
 
                      (a)  an amount calculated at the milk fat rate for the month on the milk fat content of the relevant dairy produce before it was so delivered or used; and
 
@@ -1320,11 +1320,11 @@ less the total of:
 
                      (b)  dairy produce manufactured by the manufacturer and exported, during the month, by another person.
 
-             (5)  If, in relation to a particular manufacturer and a particular month, the total of the amounts referred to in paragraphs (2)(c) and (d) exceeds the total of the amounts referred to in paragraphs (2)(a) and (b), no manufacturing milk levy is payable by the manufacturer in relation to the month.
+             (5)  If, in relation to a particular manufacturer and a particular month, the total of the amounts referred to in paragraphs (2)(c) and (d) exceeds the total of the amounts referred to in paragraphs (2)(a) and (b), no manufacturing milk levy is payable by the manufacturer in relation to the month.
 
 ##### <a id="9"></a>9  Rate of acquisition offset levy
 
-             (1)  Subject to subclause (2), the amount of the levy imposed by paragraph 6(1)(c) of this Schedule on dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate that is related to the prescribed exporter, during a financial year is calculated as follows:
+             (1)  Subject to subclause (2), the amount of the levy imposed by paragraph 6(1)(c) of this Schedule on dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate that is related to the prescribed exporter, during a financial year is calculated as follows:
 
                      (a)  in respect of each quantity of dairy produce acquired:
 
@@ -1332,11 +1332,11 @@ less the total of:
 
                              (ii)  an amount is calculated at the protein rate for the month in which the dairy produce was acquired on the protein content of the dairy produce when acquired;
 
-                     (b)  the amount of the levy is an amount equal to the total of the amounts calculated under paragraph (a) in respect of dairy produce acquired during the year.
+                     (b)  the amount of the levy is an amount equal to the total of the amounts calculated under paragraph (a) in respect of dairy produce acquired during the year.
 
              (2)  If, apart from this subclause, the amount of the levy imposed by paragraph 6(1)(c) of this Schedule on dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate that is related to the prescribed exporter, during a financial year would exceed the maximum amount, the amount of the levy imposed in respect of that dairy produce is an amount equal to the maximum amount.
 
-             (3)  Except in a case to which subclause (4) applies, the maximum amount of the levy imposed by paragraph 6(1)(c) of this Schedule on dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate that is related to the prescribed exporter, during a financial year is an amount calculated as follows:
+             (3)  Except in a case to which subclause (4) applies, the maximum amount of the levy imposed by paragraph 6(1)(c) of this Schedule on dairy produce acquired by a prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate that is related to the prescribed exporter, during a financial year is an amount calculated as follows:
 
                      (a)  in respect of each quantity of dairy produce the subject of a relevant export by the prescribed exporter during the financial year:
 
@@ -1344,21 +1344,21 @@ less the total of:
 
                              (ii)  an amount is calculated at the protein rate for the month in which the dairy produce was exported on the protein content of the dairy produce;
 
-                     (b)  the amounts calculated under paragraph (a) are added together;
+                     (b)  the amounts calculated under paragraph (a) are added together;
 
-                     (c)  if charge or levy has been paid, or is payable, by the prescribed exporter under clause 2 of Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_, or under section 8  of the  repealed _Dairy Produce Levy (No. 2) Act 1986_, in respect of the importation, during the financial year, of any dairy produce and the amount so paid or payable is less than the amount arrived at under paragraph (b), the maximum amount is the amount equal to the difference between the amount arrived at under paragraph (b) and the amount of charge or levy paid or payable;
+                     (c)  if charge or levy has been paid, or is payable, by the prescribed exporter under clause 2 of Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_, or under section 8  of the  repealed _Dairy Produce Levy (No. 2) Act 1986_, in respect of the importation, during the financial year, of any dairy produce and the amount so paid or payable is less than the amount arrived at under paragraph (b), the maximum amount is the amount equal to the difference between the amount arrived at under paragraph (b) and the amount of charge or levy paid or payable;
 
-                     (d)  if no deduction is made under paragraph (c), the total amount arrived at under paragraph (b) is the maximum amount.
+                     (d)  if no deduction is made under paragraph (c), the total amount arrived at under paragraph (b) is the maximum amount.
 
              (4)  If:
 
-                     (a)  charge or levy has been paid, or is payable, by the prescribed exporter under clause 2 of Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_, or under section 8 of the repealed _Dairy Produce Levy (No. 2) Act 1986_ in respect of the importation, during the financial year, of any dairy produce; and
+                     (a)  charge or levy has been paid, or is payable, by the prescribed exporter under clause 2 of Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_, or under section 8 of the repealed _Dairy Produce Levy (No. 2) Act 1986_ in respect of the importation, during the financial year, of any dairy produce; and
 
-                     (b)  the amount so paid or payable equals or exceeds the amount arrived at under paragraph (3)(b);
+                     (b)  the amount so paid or payable equals or exceeds the amount arrived at under paragraph (3)(b);
 
 acquisition offset levy is not imposed by this Schedule on the acquisition of the dairy produce by the prescribed exporter or, if the prescribed exporter is a body corporate, by a body corporate related to that prescribed exporter.
 
-             (5)  In subclauses (1) and (3), a reference to the milk fat rate or the protein rate for a month is a reference to the milk fat rate or the protein rate, as the case may be, prescribed in relation to the manufacturing milk levy for that month.
+             (5)  In subclauses (1) and (3), a reference to the milk fat rate or the protein rate for a month is a reference to the milk fat rate or the protein rate, as the case may be, prescribed in relation to the manufacturing milk levy for that month.
 
 ##### <a id="10"></a>10  Rate of other levies on relevant dairy produce
 
@@ -1368,9 +1368,9 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
                      (b)  an amount calculated at the protein rate prescribed in relation to that levy on the protein content of the dairy produce.
 
-             (2)  In subclause (1), the milk fat content of the relevant dairy produce is the milk fat content of the produce before it is delivered to or used by the manufacturer.
+             (2)  In subclause (1), the milk fat content of the relevant dairy produce is the milk fat content of the produce before it is delivered to or used by the manufacturer.
 
-             (3)  In subclause (1), the protein content of the relevant dairy produce is the protein content of the produce before it is delivered to or used by the manufacturer.
+             (3)  In subclause (1), the protein content of the relevant dairy produce is the protein content of the produce before it is delivered to or used by the manufacturer.
 
 ##### <a id="11"></a>11  Milk fat rate
 
@@ -1552,19 +1552,19 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
 ##### <a id="14"></a>14  Regulations
 
-             (2)  Before the Governor-General makes regulations prescribing a rate for the purposes of clause 10 (so far as it relates to paragraph 6(1)(g) of this Schedule), the Minister must take into consideration any report relating to the proposed regulations made to the Minister by the executive of the Federation.
+             (2)  Before the Governor-General makes regulations prescribing a rate for the purposes of clause 10 (so far as it relates to paragraph 6(1)(g) of this Schedule), the Minister must take into consideration any report relating to the proposed regulations made to the Minister by the executive of the Federation.
 
 ##### <a id="15"></a>15  Transitional—regulations
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Dairy Produce Levy (No. 1) Act 1986_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the _Dairy Produce Levy (No. 1) Act 1986_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 7—Deer slaughter
+# Schedule 7—Deer slaughter
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1598,7 +1598,7 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
              (4)  In this clause:
 
-                    <a name="deem-carcas-weight"></a>**_deemed carcase weight_**, in relation to each slaughtered deer to which subclause (3) applies, is 60 kilograms.
+                    <a name="deem-carcas-weight"></a>**_deemed carcase weight_**, in relation to each slaughtered deer to which subclause (3) applies, is 60 kilograms.
 
                     <a name="prescrib-amount"></a>**_prescribed amount_**, in relation to hot dressed carcase weight, cold dressed carcase weight or deemed carcase weight, means:
 
@@ -1612,7 +1612,7 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor-General makes a regulation specifying an amount for the purposes of paragraph (a) of the definition of **_prescribed amount_** in subclause 3(4), the Minister must take into consideration any relevant recommendation made to the Minister by a representative industry organisation. 
+                   Before the Governor-General makes a regulation specifying an amount for the purposes of paragraph (a) of the definition of **_prescribed amount_** in subclause 3(4), the Minister must take into consideration any relevant recommendation made to the Minister by a representative industry organisation. 
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1624,7 +1624,7 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 8—Deer velvet
+# Schedule 8—Deer velvet
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1654,9 +1654,9 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
              (b)  a person who holds or performs the duties of a DPIE Band 3 office or position, or an equivalent office or position, in the Department.
 
-             (2)  Despite section 177-12 of the _A New Tax System (Goods and Services Tax) Act 1999_, the reference in the definition of **_sale value_** to the price paid for deer velvet is taken not to include the net GST that is included in that price.
+             (2)  Despite section 177-12 of the _A New Tax System (Goods and Services Tax) Act 1999_, the reference in the definition of **_sale value_** to the price paid for deer velvet is taken not to include the net GST that is included in that price.
 
-             (3)  In subclause (2), **_net GST_** has the same meaning as in the _A New Tax System (Goods and Services Tax) Act 1999_.
+             (3)  In subclause (2), **_net GST_** has the same meaning as in the _A New Tax System (Goods and Services Tax) Act 1999_.
 
 ##### <a id="2"></a>2  Imposition of levy—sale of deer velvet
 
@@ -1676,25 +1676,25 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
 
 ##### <a id="4"></a>4  Rate of levy—sale of deer velvet
 
-             (1)  The rate of levy imposed by clause 2 on deer velvet is:
+             (1)  The rate of levy imposed by clause 2 on deer velvet is:
 
                      (a)  the percentage of the sale value of the deer velvet that is specified in the regulations; or
 
                      (b)  if no percentage is specified in the regulations—5% of the sale value of the deer velvet.
 
-             (2)  For the purposes of paragraph (1)(a), the percentage specified in the regulations must not exceed 7% of the sale value of the deer velvet.
+             (2)  For the purposes of paragraph (1)(a), the percentage specified in the regulations must not exceed 7% of the sale value of the deer velvet.
 
 ##### <a id="5"></a>5  Rate of levy—deer velvet used in producing other goods
 
-             (1)  The rate of levy imposed by clause 3 on deer velvet is:
+             (1)  The rate of levy imposed by clause 3 on deer velvet is:
 
                      (a)  the percentage of the declared value of the deer velvet that is specified in the regulations; or
 
                      (b)  if no percentage is specified in the regulations—5% of the declared value of the deer velvet.
 
-             (2)  Subject to subclause (3), for the purposes of calculating the amount of levy imposed by this Schedule on deer velvet used in the production of other goods, the declared value of that deer velvet is the amount that the Secretary determines as the value of that deer velvet.
+             (2)  Subject to subclause (3), for the purposes of calculating the amount of levy imposed by this Schedule on deer velvet used in the production of other goods, the declared value of that deer velvet is the amount that the Secretary determines as the value of that deer velvet.
 
-Note:          A determination by the Secretary of the declared value of deer velvet used in the production of other goods is reviewable under section 28 of the _Primary Industries Levies and Charges Collection Act 1991_.
+Note:          A determination by the Secretary of the declared value of deer velvet used in the production of other goods is reviewable under section 28 of the _Primary Industries Levies and Charges Collection Act 1991_.
 
              (3)  In determining the declared value of a quantity of deer velvet used in the production of other goods, the Secretary must have regard only to the following:
 
@@ -1710,9 +1710,9 @@ Note:          A determination by the Secretary of the declare
 
                      (d)  the matters (if any) specified in the regulations.
 
-             (4)  The Secretary may, by writing, delegate the power to determine the declared value of deer velvet under subclause (2) to a senior officer.
+             (4)  The Secretary may, by writing, delegate the power to determine the declared value of deer velvet under subclause (2) to a senior officer.
 
-             (5)  For the purposes of paragraph (1)(a), the percentage specified in the regulations must not exceed 7% of the declared value of the deer velvet.
+             (5)  For the purposes of paragraph (1)(a), the percentage specified in the regulations must not exceed 7% of the declared value of the deer velvet.
 
 ##### <a id="6"></a>6  Who pays the levy
 
@@ -1752,7 +1752,7 @@ Note:          A determination by the Secretary of the declare
 
              (2)  The delegation has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 9—Dried fruits
+# Schedule 9—Dried fruits
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1766,9 +1766,9 @@ Note:          A determination by the Secretary of the declare
 
                     <a name="author"></a>**_R&amp;D authority_** means:
 
-                     (a)  if the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of the _Primary Industries and Energy Research and Development Act 1989_—the R&amp;D Corporation; or
+                     (a)  if the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of the _Primary Industries and Energy Research and Development Act 1989_—the R&amp;D Corporation; or
 
-                     (b)  if the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
+                     (b)  if the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
 
                     <a name="corpor"></a>**_R&amp;D Corporation_** has the same meaning as in the _Primary Industries and Energy Research and Development Act 1989_.
 
@@ -1800,7 +1800,7 @@ Note:          A determination by the Secretary of the declare
 
              (3)  Different rates may be prescribed for different kinds of dried fruits.
 
-             (4)  Subclause (3) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
+             (4)  Subclause (3) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
              (5)  For the purposes of the calculation of levy imposed by this Schedule, the weight of any dried fruits is their weight at the time when they were received for processing.
 
@@ -1810,7 +1810,7 @@ Note:          A determination by the Secretary of the declare
 
 ##### <a id="6"></a>6  Regulations
 
-                   Before the Governor-General makes a regulation for the purposes of clause 4, the Minister must take into consideration any relevant recommendation made to the Minister by the R&amp;D authority.
+                   Before the Governor-General makes a regulation for the purposes of clause 4, the Minister must take into consideration any relevant recommendation made to the Minister by the R&amp;D authority.
 
 ##### <a id="7"></a>7  Transitional—regulations
 
@@ -1822,13 +1822,13 @@ Note:          A determination by the Secretary of the declare
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 10—Forest industries products
+# Schedule 10—Forest industries products
 
 ##### <a id="1"></a>1  Definitions
 
                    In this Schedule:
 
-                    <a name="industri-bodi"></a>**_industry body_** means an industry body declared under section 7 of the _Primary Industries and Energy Research and Development Act 1989_ to be a representative organisation in relation to an R&amp;D Corporation established under section 8 of that Act in respect of forest industries.
+                    <a name="industri-bodi"></a>**_industry body_** means an industry body declared under section 7 of the _Primary Industries and Energy Research and Development Act 1989_ to be a representative organisation in relation to an R&amp;D Corporation established under section 8 of that Act in respect of forest industries.
 
                     <a name="log"></a>**_logs_** means logs that have not undergone any form of processing other than:
 
@@ -1836,7 +1836,7 @@ Note:          A determination by the Secretary of the declare
 
                      (b)  any other process prescribed by regulations made for the purposes of this paragraph.
 
-                    <a name="log"></a><a name="mill"></a>**_mill_** means premises at which logs are subjected to a process other than a process of a kind referred to in paragraph (a) or (b) of the definition of **_logs_**.
+                    <a name="log"></a><a name="mill"></a>**_mill_** means premises at which logs are subjected to a process other than a process of a kind referred to in paragraph (a) or (b) of the definition of **_logs_**.
 
                     <a name="oper"></a>**_operator_** of a mill means the person who processes logs at the mill.
 
@@ -1854,7 +1854,7 @@ Note:          A determination by the Secretary of the declare
 
                      (d)  levy under this Schedule or under the repealed _Forest__Industries Research Levy Act 1993_ has already been paid on the logs; or
 
-                     (e)  charge under Schedule 7 to the _Primary Industries (Customs) Charges Act 1999_, or under the repealed _Forest__Industries Research Export Charge Act 1993_, has already been paid on the logs.
+                     (e)  charge under Schedule 7 to the _Primary Industries (Customs) Charges Act 1999_, or under the repealed  _Forest__Industries Research Export Charge Act 1993_, has already been paid on the logs.
 
              (3)  The regulations may exempt a specified class of logs from levy imposed by this Schedule.
 
@@ -1864,9 +1864,9 @@ Note:          A determination by the Secretary of the declare
 
              (2)  The regulations may specify different rates of levy for different classes of logs.
 
-             (3)  Without limiting the scope of subclause (2), the regulations may also specify different rates of levy for different volumes of logs.
+             (3)  Without limiting the scope of subclause (2), the regulations may also specify different rates of levy for different volumes of logs.
 
-             (4)  Subclauses (2) and (3) do not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
+             (4)  Subclauses (2) and (3) do not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
              (5)  The rate of levy imposed by this Schedule must not exceed:
 
@@ -1884,7 +1884,7 @@ Note:          A determination by the Secretary of the declare
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor-General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
+                   Before the Governor-General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1896,7 +1896,7 @@ Note:          A determination by the Secretary of the declare
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 11—Goat fibre
+# Schedule 11—Goat fibre
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1924,9 +1924,9 @@ Note:          A determination by the Secretary of the declare
 
              (c)  in any other case—the amount determined in a prescribed way.
 
-             (2)  Despite section 177-12 of the _A New Tax System (Goods and Services Tax) Act 1999_, a reference in the definition of **_sale value_** to the price of leviable fibre, or the amount paid for leviable fibre, is taken not to include the net GST that is included in that price or amount.
+             (2)  Despite section 177-12 of the _A New Tax System (Goods and Services Tax) Act 1999_, a reference in the definition of **_sale value_** to the price of leviable fibre, or the amount paid for leviable fibre, is taken not to include the net GST that is included in that price or amount.
 
-             (3)  In subclause (2), **_net GST_** has the same meaning as in the _A New Tax System (Goods and Services Tax) Act 1999_.
+             (3)  In subclause (2), **_net GST_** has the same meaning as in the _A New Tax System (Goods and Services Tax) Act 1999_.
 
 ##### <a id="2"></a>2  Imposition of levy
 
@@ -1964,11 +1964,11 @@ levy is not imposed by this Schedule on the leviable fibre.
 
                    Before the Governor-General makes any regulations:
 
-                     (a)  for the purposes of subparagraph (a)(ii) of the definition of **_leviable fibre_** in clause 1; or
+                     (a)  for the purposes of subparagraph (a)(ii) of the definition of **_leviable fibre_** in clause 1; or
 
-                     (b)  for the purposes of paragraph (c) of the definition of **_sale value_** in that clause; or
+                     (b)  for the purposes of paragraph (c) of the definition of **_sale value_** in that clause; or
 
-                     (c)  prescribing a percentage for the purposes of clause 3;
+                     (c)  prescribing a percentage for the purposes of clause 3;
 
 the Minister must take into consideration any relevant recommendation made to the Minister by a growers’ organisation.
 
@@ -1992,7 +1992,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The determination has effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 12—Grain legumes
+# Schedule 12—Grain legumes
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2044,7 +2044,7 @@ the producer of those leviable grain legumes is taken, for the purposes of this 
 
 ##### <a id="4"></a>4  Application of regulations
 
-             (1)  This clause applies if, under a regulation made for the purposes of the definition of **_leviable grain legumes_** in clause 1, seeds of a particular kind or kinds commence to be leviable grain legumes during a levy year.
+             (1)  This clause applies if, under a regulation made for the purposes of the definition of **_leviable grain legumes_** in clause 1, seeds of a particular kind or kinds commence to be leviable grain legumes during a levy year.
 
              (2)  A reference in this Schedule to leviable grain legumes delivered or processed in that year is to be read as not including a reference to any seeds of the kind or kinds prescribed by that regulation that were delivered or processed, as the case may be, before the date of commencement of that regulation.
 
@@ -2056,13 +2056,13 @@ the producer of those leviable grain legumes is taken, for the purposes of this 
 
                      (b)  processes the grain legumes.
 
-             (2)  For the purposes of subclause (1), the **_relevant date_** is:
+             (2)  For the purposes of subclause (1), the **_relevant date_** is:
 
                      (a)  in the case of peanuts, the seeds of lupins or the seeds of field peas—the date of commencement of this clause; or
 
-                     (b)  in the case of seeds prescribed for the purposes of the definition of **_leviable grain legumes_** in clause 1, where the regulation concerned is covered by clause 9—the date of commencement of this clause; or
+                     (b)  in the case of seeds prescribed for the purposes of the definition of **_leviable grain legumes_** in clause 1, where the regulation concerned is covered by clause 9—the date of commencement of this clause; or
 
-                     (c)  in the case of leviable grain legumes that are of a kind prescribed for the purposes of the definition of **_leviable grain legumes_** in clause 1, where the regulation concerned is not covered by clause 9—the date of commencement of the regulation concerned.
+                     (c)  in the case of leviable grain legumes that are of a kind prescribed for the purposes of the definition of **_leviable grain legumes_** in clause 1, where the regulation concerned is not covered by clause 9—the date of commencement of the regulation concerned.
 
              (3)  If, in a levy year:
 
@@ -2082,7 +2082,7 @@ levy is not imposed by this Schedule on the grain legumes.
 
                      (a)  a producer processes leviable grain legumes that the producer has produced; and
 
-                     (b)  paragraph (4)(b) does not apply in respect of the grain legumes; and
+                     (b)  paragraph (4)(b) does not apply in respect of the grain legumes; and
 
                      (c)  apart from this subclause, the total amount of levy imposed by this Schedule on the grain legumes would be less than the leviable amount;
 
@@ -2106,11 +2106,11 @@ levy is not imposed by this Schedule on the grain legumes.
 
                    Before the Governor-General makes a regulation for the purposes of:
 
-                     (a)  the definition of **_leviable amount_** in clause 1; or
+                     (a)  the definition of **_leviable amount_** in clause 1; or
 
-                     (b)  the definition of **_leviable grain legumes_** in clause 1; or
+                     (b)  the definition of **_leviable grain legumes_** in clause 1; or
 
-                     (c)  clause 6;
+                     (c)  clause 6;
 
 the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
 
@@ -2124,7 +2124,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 13—Grapes
+# Schedule 13—Grapes
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2146,9 +2146,9 @@ being grapes or grape juice produced in Australia.
 
                     <a name="repres-organis"></a>**_representative organisation_** means:
 
-                     (a)  where the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of the _Primary Industries and Energy Research and Development Act 1989_—an organisation declared under section 7 of that Act to be a representative organisation in relation to the Corporation; or
+                     (a)  where the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of the _Primary Industries and Energy Research and Development Act 1989_—an organisation declared under section 7 of that Act to be a representative organisation in relation to the Corporation; or
 
-                     (b)  where the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—an organisation declared under section 7 of that Act to be a representative organisation in relation to the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
+                     (b)  where the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—an organisation declared under section 7 of that Act to be a representative organisation in relation to the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
 
 ##### <a id="2"></a>2  Quantity of fresh grapes equivalent to a quantity of other prescribed goods
 
@@ -2160,7 +2160,7 @@ being grapes or grape juice produced in Australia.
 
                               (i)  in the case of single-strength grape juice—by 800 or, if another number is prescribed for the purposes of this subparagraph, that other number; and
 
-                             (ii)  in the case of concentrated grape juice—by a number that bears to the number referred to in subparagraph (i) the same proportion that the strength of the single-strength grape juice from which the concentrated grape juice was derived bears to the strength of the concentrated grape juice.
+                             (ii)  in the case of concentrated grape juice—by a number that bears to the number referred to in subparagraph (i) the same proportion that the strength of the single-strength grape juice from which the concentrated grape juice was derived bears to the strength of the concentrated grape juice.
 
 ##### <a id="3"></a>3  Processing establishments
 
@@ -2180,7 +2180,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                      (a)  prescribed goods that are delivered during a year to a processing establishment that is an exempt processing establishment in relation to that year; or
 
-                     (b)  dried grapes in respect of which levy is payable under Schedule 9 or the repealed _Dried Fruits Levy Act 1971_; or
+                     (b)  dried grapes in respect of which levy is payable under Schedule 9 or the repealed _Dried Fruits Levy Act 1971_; or
 
                      (c)  grape juice that is delivered to a processing establishment during a year and that was concentrated or extracted at:
 
@@ -2188,7 +2188,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                              (ii)  premises where the principal activity carried on during that year was the processing of prescribed goods.
 
-             (3)  For the purposes of subclause (2), a processing establishment is an exempt processing establishment in relation to a year if the quantity (if any) of fresh grapes, together with the fresh grape equivalent of the quantity (if any) of prescribed goods other than fresh grapes, used in the processing of prescribed goods at the processing establishment during the year amounts to less than 20 tonnes.
+             (3)  For the purposes of subclause (2), a processing establishment is an exempt processing establishment in relation to a year if the quantity (if any) of fresh grapes, together with the fresh grape equivalent of the quantity (if any) of prescribed goods other than fresh grapes, used in the processing of prescribed goods at the processing establishment during the year amounts to less than 20 tonnes.
 
              (4)  The regulations may exempt prescribed goods included in a specified class of prescribed goods from levy imposed by this Schedule.
 
@@ -2200,7 +2200,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                      (b)  in any other case—the standard amount per tonne of the fresh grape equivalent of the prescribed goods.
 
-             (2)  In subclause (1):
+             (2)  In subclause (1):
 
                     <a name="standard-amount"></a>**_standard amount_** means such amount, not exceeding $2, as is prescribed by the regulations.
 
@@ -2210,7 +2210,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
 ##### <a id="7"></a>7  Regulations
 
-                   Before the Governor-General makes regulations for the purposes of clause 5, the Minister must take into consideration any relevant recommendation made to the Minister by a representative organisation.
+                   Before the Governor-General makes regulations for the purposes of clause 5, the Minister must take into consideration any relevant recommendation made to the Minister by a representative organisation.
 
 ##### <a id="8"></a>8  Transitional—regulations
 
@@ -2222,13 +2222,13 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 14—Honey
+# Schedule 14—Honey
 
 ##### <a id="1"></a>1  Definitions
 
                    In this Schedule:
 
-                    <a name="industri-servic-bodi"></a>**_industry services body_** means the industry services body declared under section 9 of the _Horticulture Marketing and Research and Development Services Act 2000_.
+                    <a name="industri-servic-bodi"></a>**_industry services body_** means the industry services body declared under section 9 of the _Horticulture Marketing and Research and Development Services Act 2000_.
 
                     <a name="produc-organis"></a>**_producers’ organisation_** means:
 
@@ -2238,9 +2238,9 @@ amounts, or amounted, to not less than 5 tonnes.
 
                     <a name="author"></a>**_R&amp;D authority_** means:
 
-                     (a)  where the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of _the Primary Industries and Energy Research and Development Act 1989—_ the R&amp;D Corporation; or
+                     (a)  where the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of _the Primary Industries and Energy Research and Development Act 1989—_ the R&amp;D Corporation; or
 
-                     (b)  where the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
+                     (b)  where the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
 
                     <a name="corpor"></a>**_R&amp;D Corporation_** has the same meaning as in _the Primary Industries and Energy Research and Development Act 1989_.
 
@@ -2254,7 +2254,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (2)  Levy is not imposed by this clause in relation to a sale of honey if:
 
-                     (a)  levy has been imposed by this clause, or by the repealed _Honey Levy Act (No. 1) 1962_, on the honey because of a previous sale of the honey; or
+                     (a)  levy has been imposed by this clause, or by the repealed _Honey Levy Act (No. 1) 1962_, on the honey because of a previous sale of the honey; or
 
                      (b)  under the contract of sale, the honey is:
 
@@ -2262,7 +2262,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                              (ii)  to be placed on board a ship or aircraft for export from Australia; or
 
-                     (c)  the buyer gives to the seller a certificate in accordance with the prescribed form of the buyer’s intention to export the honey, and neither the seller nor any other person has, in relation to any previous sale of the honey, given a certificate for the purposes of this paragraph or paragraph 4(2)(d) of the repealed _Honey Levy Act (No. 1) 1962_.
+                     (c)  the buyer gives to the seller a certificate in accordance with the prescribed form of the buyer’s intention to export the honey, and neither the seller nor any other person has, in relation to any previous sale of the honey, given a certificate for the purposes of this paragraph or paragraph 4(2)(d) of the repealed _Honey Levy Act (No. 1) 1962_.
 
              (3)  Levy is not imposed by this clause on honey sold by a person in a month (other than honey sold by the producer by prescribed sale) if the total weight of that honey, and any other honey used by the person in that month in the production of other goods, is not more than 50 kilograms.
 
@@ -2274,7 +2274,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (1)  Levy is imposed on honey produced in Australia (whether before or after the commencement of this Schedule) that is used by a person in the production of other goods, if that use occurs after the commencement of this Schedule.
 
-             (2)  Levy is not imposed by this clause on honey on which levy has been imposed by clause 2 or by the repealed _Honey Levy Act (No. 1) 1962_.
+             (2)  Levy is not imposed by this clause on honey on which levy has been imposed by clause 2 or by the repealed _Honey Levy Act (No. 1) 1962_.
 
              (3)  Levy is not imposed by this clause on honey used by a person (other than the producer) in a month in the production of other goods if the honey so used by the person in that month, together with the honey, if any, sold by the person in that month, weighs not more than 50 kilograms.
 
@@ -2284,13 +2284,13 @@ amounts, or amounted, to not less than 5 tonnes.
 
 ##### <a id="4"></a>4  Rate of levy
 
-             (1)  The rate of levy imposed by clause 2 on honey is the sum of:
+             (1)  The rate of levy imposed by clause 2 on honey is the sum of:
 
                      (a)  a levy at the rate of 0.00 cent per kilogram of honey or, if another rate (not exceeding 5 cents per kilogram of honey) is prescribed for the purposes of this paragraph, that other rate; and
 
                      (b)  a levy at the rate of 0.75 cent per kilogram of honey or, if another rate (not exceeding 1.50 cents per kilogram of honey) is prescribed for the purposes of this paragraph, that other rate.
 
-             (2)  The rate of levy imposed by clause 3 on honey is the sum of:
+             (2)  The rate of levy imposed by clause 3 on honey is the sum of:
 
                      (a)  a levy at the rate of 0.00 cent per kilogram of honey or, if another rate (not exceeding 5 cents per kilogram of honey) is prescribed for the purposes of this paragraph, that other rate; and
 
@@ -2298,9 +2298,9 @@ amounts, or amounted, to not less than 5 tonnes.
 
 ##### <a id="5"></a>5  Who pays the levy
 
-             (1)  Levy imposed by clause 2 in relation to the sale of honey is payable by the producer of the honey.
+             (1)  Levy imposed by clause 2 in relation to the sale of honey is payable by the producer of the honey.
 
-             (2)  Levy imposed by clause 3 is payable by the person who uses the honey in the production of other goods.
+             (2)  Levy imposed by clause 3 is payable by the person who uses the honey in the production of other goods.
 
 ##### <a id="6"></a>6  Regulations
 
@@ -2308,7 +2308,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (2)  Before the Governor-General makes regulations for the purposes of paragraph 4(1)(a) or 4(2)(a) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by the producers’ organisation.
 
-             (3)  The producers’ organisation must not make a recommendation under subclause (1) or (2) unless the producers’ organisation has consulted with the industry services body in relation to the recommendation.
+             (3)  The producers’ organisation must not make a recommendation under subclause (1) or (2) unless the producers’ organisation has consulted with the industry services body in relation to the recommendation.
 
              (4)  Before the Governor-General makes regulations for the purposes of paragraph 4(1)(b) or 4(2)(b) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by the R&amp;D authority or by the producers’ organisation.
 
@@ -2316,7 +2316,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Honey Levy Act (No. 1) 1962_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the _Honey Levy Act (No. 1) 1962_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
@@ -2326,13 +2326,13 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Honey Levy Act (No. 2) 1962_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the _Honey Levy Act (No. 2) 1962_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 15—Horticultural products
+# Schedule 15—Horticultural products
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2356,7 +2356,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                       (f)  products prescribed for the purposes of this paragraph.
 
-                    <a name="industri-servic-bodi"></a>**_industry services body_** means the industry services body declared under section 9 of the _Horticulture Marketing and Research and Development Services Act 2000_.
+                    <a name="industri-servic-bodi"></a>**_industry services body_** means the industry services body declared under section 9 of the _Horticulture Marketing and Research and Development Services Act 2000_.
 
                     <a name="leviabl-horticultur-product"></a>**_leviable horticultural products_** means horticultural products prescribed for the purposes of this definition.
 
@@ -2372,7 +2372,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
 ##### <a id="2"></a>2  Imposition of levy
 
-             (1)  Levy is imposed on leviable horticultural products (other than leviable horticultural products of a class prescribed for the purpose of subclause (2)) produced in Australia (whether before or after the commencement of this Schedule) that are, after the commencement of this Schedule:
+             (1)  Levy is imposed on leviable horticultural products (other than leviable horticultural products of a class prescribed for the purpose of subclause (2)) produced in Australia (whether before or after the commencement of this Schedule) that are, after the commencement of this Schedule:
 
                      (a)  sold by the producer; or
 
@@ -2412,7 +2412,7 @@ Rates of levy destined for other purposes
 
 Flexibility in relation to rates of levy
 
-             (5)  Without limiting the generality of subclauses (1), (3) and (4):
+             (5)  Without limiting the generality of subclauses (1), (3) and (4):
 
                      (a)  different rates may, for the purposes of those subclauses or any one of them, be prescribed for different classes of leviable horticultural products; and
 
@@ -2420,7 +2420,7 @@ Flexibility in relation to rates of levy
 
                      (c)  a rate may be prescribed in relation to a class of leviable horticultural products for the purposes of one or more of those clauses, and not for the purposes of the other subclauses or subclause.
 
-             (6)  Subclause (5) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
+             (6)  Subclause (5) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
 
 ##### <a id="5"></a>5  Who pays the levy
 
@@ -2450,7 +2450,7 @@ Flexibility in relation to rates of levy
 
              (6)  Before the Governor-General makes regulations for the purposes of subclause 4(3), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
 
-             (7)  Before making a recommendation to the Minister for the purposes of subclause (3) or (4), the industry services body must consult with the body that, under the regulations, is the eligible industry body for:
+             (7)  Before making a recommendation to the Minister for the purposes of subclause (3) or (4), the industry services body must consult with the body that, under the regulations, is the eligible industry body for:
 
                      (a)  the relevant leviable horticultural products; or
 
@@ -2458,7 +2458,7 @@ Flexibility in relation to rates of levy
 
 as the case requires.
 
-             (8)  Before making a recommendation to the Minister for the purposes of subclause (3) or (6), the industry services body must consult with the body that, under the regulations, is the eligible industry body for:
+             (8)  Before making a recommendation to the Minister for the purposes of subclause (3) or (6), the industry services body must consult with the body that, under the regulations, is the eligible industry body for:
 
                      (a)  the relevant leviable horticultural products; or
 
@@ -2466,7 +2466,7 @@ as the case requires.
 
 as the case requires.
 
-             (9)  A recommendation referred to in subclause (7) or (8) must be accompanied by a written statement of the views of the body consulted in relation to the making of the recommendation.
+             (9)  A recommendation referred to in subclause (7) or (8) must be accompanied by a written statement of the views of the body consulted in relation to the making of the recommendation.
 
            (10)  The body that, under the regulations, is the eligible industry body for:
 
@@ -2476,7 +2476,7 @@ as the case requires.
 
 may make recommendations to the Minister in relation to regulations to be made for the purposes of subclause 4(4) in relation to those products or products included in that class or subclass, as the case may be.
 
-           (11)  Before the Governor-General makes regulations for the purposes of subclause 4(4), the Minister must take into consideration any relevant recommendation made to the Minister under subclause (10).
+           (11)  Before the Governor-General makes regulations for the purposes of subclause 4(4), the Minister must take into consideration any relevant recommendation made to the Minister under subclause (10).
 
 ##### <a id="7"></a>7  Transitional—regulations
 
@@ -2488,7 +2488,7 @@ may make recommendations to the Minister in relation to regulations to be made f
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 16—Laying chickens
+# Schedule 16—Laying chickens
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2502,7 +2502,7 @@ may make recommendations to the Minister in relation to regulations to be made f
 
                     <a name="lai-chicken"></a>**_laying chicken_** means a female chicken that is to be raised for the production of eggs.
 
-##### <a id="2"></a>2  Number of chickens not exceeding 106 may be taken to be 100 chickens
+##### <a id="2"></a>2  Number of chickens not exceeding 106 may be taken to be 100 chickens
 
                    For the purposes of this Schedule, if the proprietor of a hatchery, in accordance with the practice of the poultry industry, treats a number of chickens (not exceeding 106) as 100 chickens, that number of chickens is taken to be 100 chickens.
 
@@ -2522,7 +2522,7 @@ may make recommendations to the Minister in relation to regulations to be made f
 
                      (b)  0.21 cent or, if another amount (not exceeding 0.33 cent) is prescribed by the regulations for the purposes of this paragraph, the other amount.
 
-Note:          Paragraph (b) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note:          Paragraph (b) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
 ##### <a id="5"></a>5  Who pays the levy
 
@@ -2556,7 +2556,7 @@ Note:          Paragraph (b) identifies amounts that, under th
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 17—Live-stock slaughter
+# Schedule 17—Live-stock slaughter
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2582,7 +2582,7 @@ Note:          Paragraph (b) identifies amounts that, under th
 
              (3)  The regulations may provide that no amount of levy is payable by processors of live-stock under this Schedule.
 
-             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of levy is not payable under this Schedule on the slaughter of live-stock in respect of any period while the regulation is in force.
+             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of levy is not payable under this Schedule on the slaughter of live-stock in respect of any period while the regulation is in force.
 
 ##### <a id="3"></a>3  Rate of levy
 
@@ -2594,9 +2594,9 @@ Rate of levy on slaughter of sheep
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
 
 Rate of levy on slaughter of lambs
 
@@ -2606,9 +2606,9 @@ Rate of levy on slaughter of lambs
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
 
 Rate of levy on slaughter of goats
 
@@ -2618,9 +2618,9 @@ Rate of levy on slaughter of goats
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
 
 ##### <a id="4"></a>4  Who pays the levy
 
@@ -2628,19 +2628,19 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Aust
 
 ##### <a id="5"></a>5  Regulations
 
-             (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(1)(a), 3(1)(b), 3(2)(a), 3(2)(b), 3(3)(a) or 3(3)(b) of this Schedule are to be taken into consideration under subclause (2).
+             (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(1)(a), 3(1)(b), 3(2)(a), 3(2)(b), 3(3)(a) or 3(3)(b) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purpose of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purpose of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
-# Schedule 18—Live-stock transactions
+# Schedule 18—Live-stock transactions
 
 ##### <a id="1"></a>1  Definitions
 
                    In this Schedule:
 
-                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
-                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="lamb"></a>**_lamb_** means a sheep that has not cut a permanent incisor tooth.
 
@@ -2664,7 +2664,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Aust
 
                      (c)  on the slaughter by a processor after the commencement of this Schedule of live-stock purchased by the processor and held for a period of more than 30 days after the day of the purchase and before the day of the slaughter; or
 
-                     (d)  on the slaughter by a processor after the commencement of this Schedule of live-stock in respect of which levy would not be payable under paragraph (a), (b) or (c).
+                     (d)  on the slaughter by a processor after the commencement of this Schedule of live-stock in respect of which levy would not be payable under paragraph (a), (b) or (c).
 
              (2)  Levy is not imposed by this Schedule:
 
@@ -2694,7 +2694,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Aust
 
              (3)  If live-stock are delivered to a processor, otherwise than because of a sale to the processor, for fattening or agistment for a period before slaughter by the processor, the live-stock:
 
-                     (a)  are taken not to have been delivered to the processor for the purposes of paragraph (1)(b) unless they are slaughtered at the end of that period; and
+                     (a)  are taken not to have been delivered to the processor for the purposes of paragraph (1)(b) unless they are slaughtered at the end of that period; and
 
                      (b)  if they are slaughtered at the end of that period, are taken to have been delivered to the processor immediately before their slaughter.
 
@@ -2710,17 +2710,17 @@ Rate of levy on sheep
 
                      (c)  the prescribed amount (not exceeding 15 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
-             (2)  For the purposes of subclause (1), a ewe with a lamb at foot are together taken to constitute a single head of sheep.
+             (2)  For the purposes of subclause (1), a ewe with a lamb at foot are together taken to constitute a single head of sheep.
 
 Rate of levy on lambs
 
-             (3)  The rate of levy imposed by this Schedule on each head of lambs (other than a lamb to which subclause (2) applies) is the sum of the following amounts:
+             (3)  The rate of levy imposed by this Schedule on each head of lambs (other than a lamb to which subclause (2) applies) is the sum of the following amounts:
 
                      (a)  the prescribed amount (not exceeding 90 cents);
 
@@ -2728,11 +2728,11 @@ Rate of levy on lambs
 
                      (c)  the prescribed amount (not exceeding 15 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
 Rate of levy on goats
 
@@ -2744,13 +2744,13 @@ Rate of levy on goats
 
                      (c)  the prescribed amount (not exceeding 15 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
-             (5)  For the purposes of subclause (4), a nanny-goat with a kid at foot are together taken to constitute a single head of goats.
+             (5)  For the purposes of subclause (4), a nanny-goat with a kid at foot are together taken to constitute a single head of goats.
 
 ##### <a id="5"></a>5  Who pays the levy
 
@@ -2762,9 +2762,9 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
 ##### <a id="6"></a>6  Regulations
 
-             (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed by the regulations for the purposes of paragraph 4(1)(a), 4(1)(b), 4(1)(c), 4(3)(a), 4(3)(b), 4(3)(c), 4(4)(a), 4(4)(b) or 4(4)(c) of this Schedule are to be taken into consideration under subclause (2).
+             (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed by the regulations for the purposes of paragraph 4(1)(a), 4(1)(b), 4(1)(c), 4(3)(a), 4(3)(b), 4(3)(c), 4(4)(a), 4(4)(b) or 4(4)(c) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to the paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to the paragraph.
 
 ##### <a id="8"></a>8  Transitional—regulations
 
@@ -2786,7 +2786,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 19—Meat chickens
+# Schedule 19—Meat chickens
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2800,9 +2800,9 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
                     <a name="author"></a>**_R&amp;D authority_** means:
 
-                     (a)  where the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of the _Primary Industries and Energy Research and Development Act 1989—_ the R&amp;D Corporation; or
+                     (a)  where the levy imposed by this Schedule is attached to an R&amp;D Corporation under section 5 of the _Primary Industries and Energy Research and Development Act 1989—_ the R&amp;D Corporation; or
 
-                     (b)  where the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
+                     (b)  where the levy imposed by this Schedule is attached to an R&amp;D Fund under section 5 of that Act—the R&amp;D Council in respect of which the R&amp;D Fund is established under that Act.
 
                     <a name="corpor"></a>**_R&amp;D Corporation_** has the same meaning as in the _Primary Industries and Energy Research and Development Act 1989_.
 
@@ -2826,7 +2826,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
                      (b)  such amount (not exceeding 0.05 cent) as is prescribed for the purposes of this paragraph.
 
-Note:          Paragraph (b) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note:          Paragraph (b) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
 ##### <a id="4"></a>4  Who pays the levy
 
@@ -2840,7 +2840,7 @@ Note:          Paragraph (b) identifies amounts that, under th
 
                      (a)  the Australian Chicken Meat Federation Incorporated; or
 
-                     (b)  if a declaration under subclause (3) is in force, the body specified in the declaration.
+                     (b)  if a declaration under subclause (3) is in force, the body specified in the declaration.
 
 The regulations must not prescribe an amount greater than the amount last recommended to the Minister by the Australian Chicken Meat Federation Incorporated or the body specified in the declaration, as the case requires.
 
@@ -2866,7 +2866,7 @@ The regulations must not prescribe an amount greater than the amount last recomm
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 20—Oilseeds
+# Schedule 20—Oilseeds
 
 ##### <a id="1"></a>1  Definitions
 
@@ -2916,7 +2916,7 @@ the producer of those leviable oilseeds is taken, for the purposes of this Sched
 
 ##### <a id="5"></a>5  Application of regulations
 
-             (1)  This clause applies if a regulation made for the purposes of the definition of **_leviable oilseeds_** in clause 1 commences during a levy year.
+             (1)  This clause applies if a regulation made for the purposes of the definition of **_leviable oilseeds_** in clause 1 commences during a levy year.
 
              (2)  A reference in this Schedule to leviable oilseeds delivered or processed in that levy year does not include a reference to any seeds of the kind prescribed by that regulation that were delivered or processed, as the case may be, before that commencement.
 
@@ -2930,13 +2930,13 @@ the producer of those leviable oilseeds is taken, for the purposes of this Sched
 
                      (b)  processes the oilseeds.
 
-             (3)  In subclause (2), the **_relevant date_** means:
+             (3)  In subclause (2), the **_relevant date_** means:
 
-                     (a)  in relation to leviable oilseeds that are seeds referred to in paragraph (a) of the definition of **_leviable oilseeds_** in clause 1—the date of the commencement of this Schedule; or
+                     (a)  in relation to leviable oilseeds that are seeds referred to in paragraph (a) of the definition of **_leviable oilseeds_** in clause 1—the date of the commencement of this Schedule; or
 
-                     (b)  in the case of leviable oilseeds prescribed for the purposes of the definition of **_leviable oilseeds_** in clause 1, where the regulation concerned is covered by clause 10—the date of commencement of this clause; or
+                     (b)  in the case of leviable oilseeds prescribed for the purposes of the definition of **_leviable oilseeds_** in clause 1, where the regulation concerned is covered by clause 10—the date of commencement of this clause; or
 
-                     (c)  in the case of leviable oilseeds prescribed for the purposes of the definition of **_leviable grain legumes_** in clause 1, where the regulation concerned is not covered by clause 10—the date of commencement of the regulation concerned.
+                     (c)  in the case of leviable oilseeds prescribed for the purposes of the definition of **_leviable grain legumes_** in clause 1, where the regulation concerned is not covered by clause 10—the date of commencement of the regulation concerned.
 
              (4)  If, in a levy year:
 
@@ -2958,7 +2958,7 @@ levy is not imposed by this Schedule on the oilseeds.
 
                      (a)  a producer processes leviable oilseeds that he or she has produced; and
 
-                     (b)  paragraph (5)(b) does not apply in respect of the oilseeds; and
+                     (b)  paragraph (5)(b) does not apply in respect of the oilseeds; and
 
                      (c)  apart from this subclause, the amount of levy in respect of the oilseeds would be less than the leviable amount;
 
@@ -2980,11 +2980,11 @@ levy is not imposed by this Schedule on the oilseeds.
 
                    Before the Governor-General makes regulations for the purposes of:
 
-                     (a)  the definition of **_leviable amount_** in clause 1; or
+                     (a)  the definition of **_leviable amount_** in clause 1; or
 
-                     (b)  paragraph (b) of the definition of **_leviable oilseeds_** in clause 1; or
+                     (b)  paragraph (b) of the definition of **_leviable oilseeds_** in clause 1; or
 
-                     (c)  clause 7;
+                     (c)  clause 7;
 
 the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
 
@@ -2998,7 +2998,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 21—Pasture seeds
+# Schedule 21—Pasture seeds
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3026,7 +3026,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
 ##### <a id="5"></a>5  Pasture seed species
 
-             (1)  The following table sets out specified species for the purposes of the definition of **_leviable seed_** in clause 1:
+             (1)  The following table sets out specified species for the purposes of the definition of **_leviable seed_** in clause 1:
 
 <div align="center">
 
@@ -3411,17 +3411,17 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The Minister may, by instrument published in the _Gazette_, declare that the table is to be taken to be amended in a manner specified in the instrument, and that declaration has effect accordingly.
 
-             (3)  Before making an instrument under subclause (2), the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
+             (3)  Before making an instrument under subclause (2), the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
 
-             (4)  The table in subclause (1) is not to be varied so that it sets out a rate of levy that exceeds $50.00 per tonne.
+             (4)  The table in subclause (1) is not to be varied so that it sets out a rate of levy that exceeds $50.00 per tonne.
 
-             (5)  The instrument is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (5)  The instrument is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-             (6)  For the purposes of section 8 of the _Acts Interpretation Act 1901_, a declaration under subclause (2) that is taken to amend the table in subclause (1) by way of repealing part of it is to be taken to be an Act that repeals that part.
+             (6)  For the purposes of section 8 of the _Acts Interpretation Act 1901_, a declaration under subclause (2) that is taken to amend the table in subclause (1) by way of repealing part of it is to be taken to be an Act that repeals that part.
 
 ##### <a id="6"></a>6  Transitional—instruments
 
-             (1)  This clause applies to an instrument (other than _Pasture Seed Levy Declaration No. 1 of 1998_) if:
+             (1)  This clause applies to an instrument (other than _Pasture Seed Levy Declaration No. 1 of 1998_) if:
 
                      (a)  the instrument was made for the purposes of a particular provision of the _Pasture Seed Levy Act 1989_; and
 
@@ -3429,7 +3429,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (2)  The instrument has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 22—Pig slaughter
+# Schedule 22—Pig slaughter
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3453,11 +3453,11 @@ the Minister must take into consideration any relevant recommendation made to th
 
                      (c)  such amount (not exceeding 50 cents) as is prescribed by the regulations for the purposes of this paragraph.
 
-Note 1:       Paragraph (a) identifies amounts that are available for **_R&amp;D payments_** under section 9 of the _Pig Industry Act 2001_.
+Note 1:       Paragraph (a) identifies amounts that are available for **_R&amp;D payments_** under section 9 of the _Pig Industry Act 2001_.
 
-Note 2:       Paragraph (b) identifies amounts that are available for **_marketing payments_** under section 9 of the _Pig Industry Act 2001_.
+Note 2:       Paragraph (b) identifies amounts that are available for **_marketing payments_** under section 9 of the _Pig Industry Act 2001_.
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council.
 
 ##### <a id="4"></a>4  Who pays the levy
 
@@ -3469,7 +3469,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
              (2)  Before the Governor-General makes regulations prescribing an amount for the purposes of paragraph 3(b) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body. The regulations must not prescribe an amount that is greater than the amount last recommended by the body to the Minister.
 
-             (3)  If a declaration is in force under subclause (4), then, before the Governor-General makes regulations prescribing an amount for the purpose of paragraph 3(c) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration. The regulations must not prescribe an amount greater than the amount last recommended to the Minister by the body specified in the declaration.
+             (3)  If a declaration is in force under subclause (4), then, before the Governor-General makes regulations prescribing an amount for the purpose of paragraph 3(c) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration. The regulations must not prescribe an amount greater than the amount last recommended to the Minister by the body specified in the declaration.
 
              (4)  The Minister may, by notice in the _Gazette_, declare a body specified in the notice to be the body representing the Australian pig slaughter industry for the purposes of this clause.
 
@@ -3493,7 +3493,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 23—Rice
+# Schedule 23—Rice
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3511,7 +3511,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
                      (d)  any other organisation prescribed by the regulations as a rice industry body for the purposes of this Schedule.
 
-                    <a name="season"></a>**_season_** means a period of 12 months beginning on 1 October in any year.
+                    <a name="season"></a>**_season_** means a period of 12 months beginning on 1 October in any year.
 
                     <a name="state-market-author"></a>**_State marketing authority_**:
 
@@ -3539,7 +3539,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
 ##### <a id="3"></a>3  Rate of levy
 
-             (1)  The rate of levy imposed by this Schedule is the amount per tonne specified by the regulations for the purposes of this subclause. This subclause has effect subject to subclause (7).
+             (1)  The rate of levy imposed by this Schedule is the amount per tonne specified by the regulations for the purposes of this subclause. This subclause has effect subject to subclause (7).
 
              (2)  The regulations must not specify a rate of levy that exceeds $3.00 per tonne.
 
@@ -3549,11 +3549,11 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
                      (b)  different rates for rice harvested in different seasons.
 
-             (4)  Subclause (3) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
+             (4)  Subclause (3) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
 
              (5)  The regulations must not specify a rate of levy imposed by this Schedule for a variety of rice that is harvested in a State that has a State marketing authority unless the rate is recommended to the Minister by the State marketing authority for the State.
 
-             (6)  If a variety of rice is harvested in 2 or more States each of which has a State marketing authority, the State marketing authorities for those States must, for the purposes of subclause (5), make a joint recommendation as to the rate of levy for that variety.
+             (6)  If a variety of rice is harvested in 2 or more States each of which has a State marketing authority, the State marketing authorities for those States must, for the purposes of subclause (5), make a joint recommendation as to the rate of levy for that variety.
 
              (7)  If:
 
@@ -3561,7 +3561,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
                      (b)  the regulations have not later specified another rate of levy imposed by this Schedule for that variety;
 
-the rate of levy imposed by this Schedule for rice of that variety harvested in a later season is the rate referred to in paragraph (a).
+the rate of levy imposed by this Schedule for rice of that variety harvested in a later season is the rate referred to in paragraph (a).
 
              (8)  A recommendation to the Minister under this clause may be made on behalf of a State marketing authority by a person:
 
@@ -3575,7 +3575,7 @@ the rate of levy imposed by this Schedule for rice of that variety harvested in 
 
 ##### <a id="6"></a>6  Regulations
 
-                   Before the Governor-General makes regulations for the purposes of clause 1, the Minister must take into consideration any relevant recommendation made to the Minister by a rice industry body.
+                   Before the Governor-General makes regulations for the purposes of clause 1, the Minister must take into consideration any relevant recommendation made to the Minister by a rice industry body.
 
 ##### <a id="7"></a>7  Transitional—regulations
 
@@ -3597,7 +3597,7 @@ the rate of levy imposed by this Schedule for rice of that variety harvested in 
 
              (2)  The authorisation has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 24—Sugar cane
+# Schedule 24—Sugar cane
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3639,7 +3639,7 @@ the rate of levy imposed by this Schedule for rice of that variety harvested in 
 
                    Before the Governor-General makes regulations for the purposes of:
 
-                     (a)  clause 4; or
+                     (a)  clause 4; or
 
                      (b)  paragraph 5(a) of this Schedule;
 
@@ -3655,7 +3655,7 @@ the Minister must take into consideration any relevant recommendation arising ou
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 25—Wheat
+# Schedule 25—Wheat
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3719,7 +3719,7 @@ is less than the prescribed minimum amount for that levy year, levy is not impos
 
 ##### <a id="7"></a>7  Regulations
 
-                   Before the Governor-General makes any regulations for the purposes of clause 4 or 5, the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
+                   Before the Governor-General makes any regulations for the purposes of clause 4 or 5, the Minister must take into consideration any relevant recommendation made to the Minister by the growers’ organisation.
 
 ##### <a id="8"></a>8  Transitional—regulations
 
@@ -3731,7 +3731,7 @@ is less than the prescribed minimum amount for that levy year, levy is not impos
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 26—Wine grapes
+# Schedule 26—Wine grapes
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3743,7 +3743,7 @@ is less than the prescribed minimum amount for that levy year, levy is not impos
 
                     <a name="dri-grape"></a>**_dried grapes_** means grapes containing less than 60% of moisture.
 
-                    <a name="fresh-grape-equival"></a>**_fresh grape equivalent_**, in relation to a quantity of prescribed goods other than fresh grapes, means the quantity of fresh grapes that, as ascertained in accordance with clause 4, is the equivalent of that quantity of prescribed goods.
+                    <a name="fresh-grape-equival"></a>**_fresh grape equivalent_**, in relation to a quantity of prescribed goods other than fresh grapes, means the quantity of fresh grapes that, as ascertained in accordance with clause 4, is the equivalent of that quantity of prescribed goods.
 
                     <a name="fresh-grape"></a>**_fresh grapes_** means grapes containing not less than 60% of moisture.
 
@@ -3789,7 +3789,7 @@ but does not include:
 
                               (i)  in the case of single-strength grape juice—by 800 or, if another number is prescribed for the purposes of this subparagraph, that other number; and
 
-                             (ii)  in the case of concentrated grape juice—by a number that bears to the number referred to in subparagraph (i) the same proportion that the strength of the single-strength grape juice from which the concentrated grape juice was derived bears to the strength of the concentrated grape juice.
+                             (ii)  in the case of concentrated grape juice—by a number that bears to the number referred to in subparagraph (i) the same proportion that the strength of the single-strength grape juice from which the concentrated grape juice was derived bears to the strength of the concentrated grape juice.
 
              (2)  For the purposes of this Schedule, the number of tonnes in a quantity of prescribed goods that are not fresh grapes is to be taken to be the fresh grape equivalent of the goods.
 
@@ -3821,7 +3821,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                     <a name="research-amount"></a>**_research amount_** means such amount, not exceeding $10, as is prescribed. 
 
-             (3)  The total of the amounts calculated under paragraph (1)(a) in respect of prescribed goods used at wineries in a year is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production of prescribed goods for that year.
+             (3)  The total of the amounts calculated under paragraph (1)(a) in respect of prescribed goods used at wineries in a year is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production of prescribed goods for that year.
 
              (4)  The regulations must provide for the manner in which the Minister is to determine the amount of the gross value of production of prescribed goods for a year.
 
@@ -3833,17 +3833,17 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (1)  The Corporation may make recommendations to the Minister in relation to regulations to be made for the purposes of paragraph 7(1)(a) of this Schedule.
 
-             (2)  The Corporation must not make a recommendation under subclause (1) unless a motion to endorse the recommendation has been considered at an annual general meeting within the meaning of the _Australian Wine and Brandy Corporation Act 1980_.
+             (2)  The Corporation must not make a recommendation under subclause (1) unless a motion to endorse the recommendation has been considered at an annual general meeting within the meaning of the _Australian Wine and Brandy Corporation Act 1980_.
 
              (3)  Before the Governor-General makes regulations for the purposes of paragraph 7(1)(a) of this Schedule, the Minister must take into consideration:
 
-                     (a)  any relevant recommendation made to the Minister under subclause (1); and
+                     (a)  any relevant recommendation made to the Minister under subclause (1); and
 
-                     (b)  any relevant matter notified to the Minister under section 29ZA of the _Australian Wine and Brandy Corporation Act 1980_.
+                     (b)  any relevant matter notified to the Minister under section 29ZA of the _Australian Wine and Brandy Corporation Act 1980_.
 
              (4)  A declared winemakers’ organisation may make recommendations to the Minister with respect to regulations to be made for the purposes of the definition of **_research amount_** in subclause 7(2).
 
-             (5)  Before the Governor-General makes regulations for the purposes of subclause 7(2), the Minister must take into consideration any relevant recommendation made to the Minister under subclause (4).
+             (5)  Before the Governor-General makes regulations for the purposes of subclause 7(2), the Minister must take into consideration any relevant recommendation made to the Minister under subclause (4).
 
 ##### <a id="10"></a>10  Transitional—regulations
 
@@ -3865,9 +3865,9 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (2)  The determination has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 27—Regulations may impose primary industries levies
+# Schedule 27—Regulations may impose primary industries levies
 
-## Part 1—Definitions
+## Part 1—Definitions
 
 ##### <a id="1"></a>1  Definitions
 
@@ -3885,7 +3885,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                      (d)  anything wholly or principally produced from, or wholly or principally derived from, an animal.
 
-                    <a name="design-bodi"></a>**_designated body_**, in relation to a particular product, has the meaning given by clause 13.
+                    <a name="design-bodi"></a>**_designated body_**, in relation to a particular product, has the meaning given by clause 13.
 
                     <a name="forest-oper"></a>**_forest operations_** includes the production, growing or raising of forest products.
 
@@ -3893,7 +3893,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                     <a name="horticultur"></a>**_horticulture_** means the production, growing or raising of horticultural products.
 
-                    <a name="levi"></a>**_levy_** means a levy imposed by regulations made for the purposes of Part 2 of this Schedule.
+                    <a name="levi"></a>**_levy_** means a levy imposed by regulations made for the purposes of Part 2 of this Schedule.
 
                     <a name="plant"></a>**_plant_** means any member, alive or dead, of the plant kingdom, and includes fungi.
 
@@ -3925,7 +3925,7 @@ amounts, or amounted, to not less than 5 tonnes.
 
                     <a name="product"></a>**_product_** means an animal product or a plant product (whether or not any operations have been performed in relation to the animal product or plant product).
 
-## Part 2—Regulations may impose levies on primary industry products
+## Part 2—Regulations may impose levies on primary industry products
 
 ##### <a id="2"></a>2  Imposition of levy
 
@@ -3947,7 +3947,7 @@ Note:          Products may be specified by name, by inclusion
 
                    This Part does not prevent the imposition of a levy on a particular product in particular circumstances if another Schedule to this Act applies to the product, whether in those circumstances or in any other circumstances.
 
-## Part 3—Rate of levy
+## Part 3—Rate of levy
 
 ##### <a id="6"></a>6  Rate of levy
 
@@ -3957,15 +3957,15 @@ Note:          Products may be specified by name, by inclusion
 
              (1)  The rate of a levy may be expressed to be equal to the sum of such components as are prescribed.
 
-             (2)  Subclause (1) does not, by implication, limit the generality of clause 6.
+             (2)  Subclause (1) does not, by implication, limit the generality of clause 6.
 
 ##### <a id="8"></a>8  Flexibility in relation to rates of levy
 
              (1)  Different rates of the same levy may be prescribed for different kinds of products.
 
-             (2)  Subclause (1) does not, by implication, limit the generality of any other provision of this Part.
+             (2)  Subclause (1) does not, by implication, limit the generality of any other provision of this Part.
 
-             (3)  Subclause (1) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
+             (3)  Subclause (1) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
 
 ##### <a id="9"></a>9  Maximum rate of levy for animal products
 
@@ -3977,7 +3977,7 @@ Note:          Products may be specified by name, by inclusion
 
                      (c)  7% of the value of the animal product.
 
-             (2)  Subclause (1) applies to animal products, whether or not any operations have been performed in relation to the products.
+             (2)  Subclause (1) applies to animal products, whether or not any operations have been performed in relation to the products.
 
 ##### <a id="10"></a>10  Maximum rate of levy for plant products
 
@@ -3987,9 +3987,9 @@ Note:          Products may be specified by name, by inclusion
 
                      (b)  5% of the value of the plant product.
 
-             (2)  Subclause (1) applies to plant products, whether or not any operations have been performed in relation to the products.
+             (2)  Subclause (1) applies to plant products, whether or not any operations have been performed in relation to the products.
 
-## Part 4—Miscellaneous
+## Part 4—Miscellaneous
 
 ##### <a id="11"></a>11  Person liable to pay levy
 
@@ -4009,7 +4009,7 @@ Note:          Products may be specified by name, by inclusion
 
              (3)  A declaration under this clause comes into force at a time specified in the declaration. The specified time must not be later than the 28th day after the day on which the declaration was made.
 
-             (4)  A declaration under this clause is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (4)  A declaration under this clause is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="14"></a>14  Regulations
 
@@ -4029,9 +4029,9 @@ Note:          Products may be specified by name, by inclusion
 
 ### Note 1
 
-The _Primary Industries (Excise) Levies Act 1999_ as shown in this compilation comprises Act No. 31, 1999 amended as indicated in the Tables below.
+The _Primary Industries (Excise) Levies Act 1999_ as shown in this compilation comprises Act No. 31, 1999 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -4075,11 +4075,11 @@ of Assent</div>
     <div>31, 1999</div>
   </td>
   <td>
-    <div>14 May 1999</div>
+    <div>14 May 1999</div>
   </td>
   <td>
-    <div>Schedule 26: 1 Jan 2000 
-Remainder: 1 July 1999</div>
+    <div>Schedule 26: 1 Jan 2000 
+Remainder: 1 July 1999</div>
   </td>
   <td>
     <div></div>
@@ -4096,7 +4096,7 @@ Remainder: 1 July 1999</div>
     <div>19 Apr 2000</div>
   </td>
   <td>
-    <div>1 July 2000 <i>(a)</i></div>
+    <div>1 July 2000 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4110,10 +4110,10 @@ Remainder: 1 July 1999</div>
     <div>65, 2000</div>
   </td>
   <td>
-    <div>22 June 2000</div>
+    <div>22 June 2000</div>
   </td>
   <td>
-    <div>30 June 2000</div>
+    <div>30 June 2000</div>
   </td>
   <td>
     <div>—</div>
@@ -4130,7 +4130,7 @@ Remainder: 1 July 1999</div>
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 17–29): <i>(b)</i></div>
+    <div>Schedule 2 (items 17–29): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4147,7 +4147,7 @@ Remainder: 1 July 1999</div>
     <div>28 Apr 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–14):(c)</div>
+    <div>Schedule 1 (items 4–14):(c)</div>
   </td>
   <td>
     <div>—</div>
@@ -4161,10 +4161,10 @@ Remainder: 1 July 1999</div>
     <div>55, 2001</div>
   </td>
   <td>
-    <div>28 June 2001</div>
+    <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 433–436): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 433–436): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -4181,7 +4181,7 @@ Remainder: 1 July 1999</div>
     <div>2 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 1: 16 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S11) <i>(e)</i> 
+    <div>Schedule 1: 16 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S11) <i>(e)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4199,11 +4199,11 @@ Remainder: Royal Assent</div>
     <div>15 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S228) 
+    <div>Schedule 1: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S228) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 8)</div>
+    <div>Sch. 1 (item 8)</div>
   </td>
 </tr>
 <tr>
@@ -4220,12 +4220,12 @@ Remainder: Royal Assent</div>
     <div>27 Feb 2004</div>
   </td>
   <td>
-    <div>Sch. 1 (item 2)</div>
+    <div>Sch. 1 (item 2)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
   </td>
   <td>
     <div>139, 2004</div>
@@ -4234,7 +4234,7 @@ Remainder: Royal Assent</div>
     <div>13 Dec 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 66–101): 13 Dec 2004</div>
+    <div>Schedule 1 (items 66–101): 13 Dec 2004</div>
   </td>
   <td>
     <div>—</div>
@@ -4251,10 +4251,10 @@ Remainder: Royal Assent</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 276–283, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 276–283, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -4265,78 +4265,61 @@ Remainder: Royal Assent</div>
     <div>84, 2005</div>
   </td>
   <td>
-    <div>6 July 2005</div>
+    <div>6 July 2005</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Jan 2006 ( <i>see</i>F2005L03468) 
+    <div>Schedule 1: 1 Jan 2006 ( <i>see</i>F2005L03468) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 11)</div>
+    <div>Sch. 1 (item 11)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (2007 Measures No. 1) Act 2007</div>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment (2007 Measures No. 1) Act 2007</div>
   </td>
   <td>
     <div>91, 2007</div>
   </td>
   <td>
-    <div>22 June 2007</div>
+    <div>22 June 2007</div>
   </td>
   <td>
-    <div>22 June 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007</div>
-  </td>
-  <td>
-    <div>123, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 6): \[ <i>see</i>Note 2]</div>
+    <div>22 June 2007</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by the _Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000_, section 2 of which provides as follows:
+_(a)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by the _Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000_, section 2 of which provides as follows:
 
                     2   This Act commences, or is taken to have commenced, immediately after the commencement of the _A New Tax System (Goods and Services Tax) Act 1999_. 
 
-         The _A New Tax System (Goods and Services Tax) Act 1999_ came into operation on 1 July 2000.
+         The _A New Tax System (Goods and Services Tax) Act 1999_ came into operation on 1 July 2000.
 
-_(b)_    The _Primary Industries (Excise) Levies Act 1999_ was amended by Schedule 2 (items 17–29) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
+_(b)_    The _Primary Industries (Excise) Levies Act 1999_ was amended by Schedule 2 (items 17–29) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
+                 (2)   Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 
-Note:          See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.
+Note:          See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.
 
-         The transfer day was 1 February 2001 (_see Gazette_ 2001, No. GN6).
+         The transfer day was 1 February 2001 (_see Gazette_ 2001, No. GN6).
 
-_(c)_     The _Primary Industries (Excise) Levies Act 1999_ was amended by Schedule 1 (items 4–14) only of the _Pig Industry Act 2001_, subsection 2(2) of which provides as follows:
+_(c)_     The _Primary Industries (Excise) Levies Act 1999_ was amended by Schedule 1 (items 4–14) only of the _Pig Industry Act 2001_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedule 1 (other than item 3) commences immediately after the transfer time.
+                 (2)   Schedule 1 (other than item 3) commences immediately after the transfer time.
 
-Note:          **_Transfer time_** is defined in section 7.
+Note:          **_Transfer time_** is defined in section 7.
 
-         The transfer time was the beginning of 1 July 2001 (_see Gazette_ 2001, No. S269).
+         The transfer time was the beginning of 1 July 2001 (_see Gazette_ 2001, No. S269).
 
-_(d)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by Schedule 3 (items 433–436) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(d)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by Schedule 3 (items 433–436) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provision (Transitional and Consequential Provisions) Act 2002_ provides as follows:
+_(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provision (Transitional and Consequential Provisions) Act 2002_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -4407,7 +4390,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 <tr>
   <td>
     <div>
-      2\. Schedule 1
+      2\. Schedule 1
     </div>
   </td>
   <td>
@@ -4419,7 +4402,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
   </td>
   <td>
     <div>
-      16 January 2003
+      16 January 2003
       (
         <i>see</i>
         <i>Gazette</i>2003, No. S11)
@@ -4452,7 +4435,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 </thead>
 <tr>
   <td>
-    <div><b>Schedule 1</b></div>
+    <div><b>Schedule 1</b></div>
   </td>
   <td>
     <div></div>
@@ -4463,7 +4446,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
+    <div>am. No. 139, 2004; No. 91, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4471,7 +4454,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 3(1)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
+    <div>am. No. 139, 2004; No. 91, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4479,12 +4462,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Cc. 6, 7</div>
   </td>
   <td>
-    <div>rep. No. 91, 2007</div>
+    <div>rep. No. 91, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 2</b></div>
+    <div><b>Schedule 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4495,12 +4478,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Note 2 to c. 2</div>
   </td>
   <td>
-    <div>am. No. 8, 2005</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 3</b></div>
+    <div><b>Schedule 3</b></div>
   </td>
   <td>
     <div></div>
@@ -4511,7 +4494,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4519,7 +4502,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 4</div>
   </td>
   <td>
-    <div>am. No. 55, 2001</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4527,7 +4510,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 6(1)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4535,7 +4518,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Note 3 to c. 6(1)</div>
   </td>
   <td>
-    <div>am. No. 8, 2005</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4543,7 +4526,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 6(2)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4551,7 +4534,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Note 3 to c. 6(2)</div>
   </td>
   <td>
-    <div>am. No. 8, 2005</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4559,7 +4542,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 6(3)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4567,12 +4550,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Note 3 to c. 6(3)</div>
   </td>
   <td>
-    <div>am. No. 8, 2005</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 6</b></div>
+    <div><b>Schedule 6</b></div>
   </td>
   <td>
     <div></div>
@@ -4583,7 +4566,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 55, 2001</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4591,7 +4574,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 5</div>
   </td>
   <td>
-    <div>am. No. 55, 2001</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4599,7 +4582,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 6</div>
   </td>
   <td>
-    <div>am. No. 31, 2003</div>
+    <div>am. No. 31, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4607,12 +4590,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Cc. 10–14</div>
   </td>
   <td>
-    <div>am. No. 31, 2003</div>
+    <div>am. No. 31, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 8</b></div>
+    <div><b>Schedule 8</b></div>
   </td>
   <td>
     <div></div>
@@ -4623,12 +4606,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 32, 2000</div>
+    <div>am. No. 32, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 11</b></div>
+    <div><b>Schedule 11</b></div>
   </td>
   <td>
     <div></div>
@@ -4639,12 +4622,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 32, 2000</div>
+    <div>am. No. 32, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 14</b></div>
+    <div><b>Schedule 14</b></div>
   </td>
   <td>
     <div></div>
@@ -4655,7 +4638,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 163, 2000</div>
+    <div>am. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4663,12 +4646,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 6</div>
   </td>
   <td>
-    <div>am. No. 163, 2000</div>
+    <div>am. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 15</b></div>
+    <div><b>Schedule 15</b></div>
   </td>
   <td>
     <div></div>
@@ -4679,7 +4662,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 163, 2000</div>
+    <div>am. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4687,7 +4670,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Subhead. to c. 4(1)</div>
   </td>
   <td>
-    <div>rs. No. 163, 2000</div>
+    <div>rs. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4695,7 +4678,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Subhead. to c. 4(3)</div>
   </td>
   <td>
-    <div>rs. No. 163, 2000</div>
+    <div>rs. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4703,7 +4686,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 4</div>
   </td>
   <td>
-    <div>am. No. 163, 2000</div>
+    <div>am. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4711,12 +4694,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 6</div>
   </td>
   <td>
-    <div>am. No. 163, 2000</div>
+    <div>am. No. 163, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 16</b></div>
+    <div><b>Schedule 16</b></div>
   </td>
   <td>
     <div></div>
@@ -4727,7 +4710,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 115, 2002</div>
+    <div>am. No. 115, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4735,12 +4718,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 6</div>
   </td>
   <td>
-    <div>am. No. 115, 2002</div>
+    <div>am. No. 115, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 17</b></div>
+    <div><b>Schedule 17</b></div>
   </td>
   <td>
     <div></div>
@@ -4751,7 +4734,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
+    <div>am. No. 139, 2004; No. 91, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4759,7 +4742,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 3(1)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
+    <div>am. No. 139, 2004; No. 91, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4767,7 +4750,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 3(2)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
+    <div>am. No. 139, 2004; No. 91, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4775,7 +4758,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 3(3)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
+    <div>am. No. 139, 2004; No. 91, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4783,12 +4766,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Cc. 6, 7</div>
   </td>
   <td>
-    <div>rep. No. 91, 2007</div>
+    <div>rep. No. 91, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 18</b></div>
+    <div><b>Schedule 18</b></div>
   </td>
   <td>
     <div></div>
@@ -4799,7 +4782,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4807,7 +4790,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 2</div>
   </td>
   <td>
-    <div>am. No. 55, 2001</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4815,7 +4798,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 4(1)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4823,7 +4806,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 4(3)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4831,7 +4814,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to c. 4(4)</div>
   </td>
   <td>
-    <div>am. No. 139, 2004</div>
+    <div>am. No. 139, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4839,12 +4822,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 7</div>
   </td>
   <td>
-    <div>am. No. 65, 2000</div>
+    <div>am. No. 65, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 22</b></div>
+    <div><b>Schedule 22</b></div>
   </td>
   <td>
     <div></div>
@@ -4855,7 +4838,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 30, 2001</div>
+    <div>am. No. 30, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4863,7 +4846,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>Notes 1, 2 to C. 3</div>
   </td>
   <td>
-    <div>rs. No. 30, 2001</div>
+    <div>rs. No. 30, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4871,12 +4854,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 5</div>
   </td>
   <td>
-    <div>am. No. 30, 2001</div>
+    <div>am. No. 30, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 23</b></div>
+    <div><b>Schedule 23</b></div>
   </td>
   <td>
     <div></div>
@@ -4887,7 +4870,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 84, 2005</div>
+    <div>am. No. 84, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4895,7 +4878,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 3</div>
   </td>
   <td>
-    <div>am. No. 84, 2005</div>
+    <div>am. No. 84, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4903,7 +4886,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 5</div>
   </td>
   <td>
-    <div>rep. No. 84, 2005</div>
+    <div>rep. No. 84, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4911,12 +4894,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 8</div>
   </td>
   <td>
-    <div>rep. No. 84, 2005</div>
+    <div>rep. No. 84, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 26</b></div>
+    <div><b>Schedule 26</b></div>
   </td>
   <td>
     <div></div>
@@ -4927,12 +4910,12 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 7</div>
   </td>
   <td>
-    <div>am. No. 5, 2004</div>
+    <div>am. No. 5, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 27</b></div>
+    <div><b>Schedule 27</b></div>
   </td>
   <td>
     <div></div>
@@ -4943,37 +4926,17 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 163, 2000</div>
+    <div>am. No. 163, 2000</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
-
-The following amendment commences on 28 December 2007 unless proclaimed earlier:
-
-## Schedule 2
-
-## 6  Clause 1 of Schedule 10 (definition of _industry body_)
-
-Repeal the definition, substitute:
-
-                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
-
-                     (a)  members of the body are operators of mills;
-
-                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
-
-As at 10 July 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Primary Industries (Excise) Levies Amendment (Dairy) Act 2003 (No. 31, 2003)_
+_Primary Industries (Excise) Levies Amendment (Dairy) Act 2003 (No. 31, 2003)_
 
-## Schedule 1
+## Schedule 1
 
 ## 8  Application
 
@@ -4986,33 +4949,33 @@ The amendments made by this Schedule apply to:
 * * *
 
 _Primary Industries (Excise) Levies Amendment (Wine Grapes) Act 2004 
- (No. 5, 2004)_
+ (No. 5, 2004)_
 
-## Schedule 1
+## Schedule 1
 
 ## 2  Application of amendment
 
-The amendment made by item 1 applies to levy imposed in respect of the levy year commencing on 1 July 2004, and to subsequent levy years.
+The amendment made by item 1 applies to levy imposed in respect of the levy year commencing on 1 July 2004, and to subsequent levy years.
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
              (1)  If:
 
                      (a)  a decision or action is taken or another thing is made, given or done; and
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
 
              (2)  In this section:
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1
 
 ## 496  Saving provision—Finance Minister’s determinations
 
@@ -5020,9 +4983,9 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 * * *
 
-_Primary Industries (Excise) Levies Amendment (Rice) Act 2005 (No. 84, 2005)_
+_Primary Industries (Excise) Levies Amendment (Rice) Act 2005 (No. 84, 2005)_
 
-## Schedule 1
+## Schedule 1
 
 ## 11  Application of amendments
 
