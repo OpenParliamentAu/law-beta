@@ -1,308 +1,308 @@
-![](http://www.comlaw.gov.au/Details/C2005C00451/Html/6D41F3CB9DC86FE6CA25703E00017A75/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="7972464E86109FE3CA256FBF0025ACF8/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Fisheries Administration Act 1991
 
-**Act No. 161 of 1991 as amended**
+**Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 13 July 2005
-taking into account amendments up to Act No. 99 of 2005
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="7" month="3">7 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Objects of Act                                                                                     1
+[3](#3).            Objects of Act<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[4](#4).            Interpretation                                                                                       1
+[4](#4).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-**Part 2—Australian Fisheries Management Authority** 
+**Part 2—Australian Fisheries Management Authority<span style="mso-tab-count: 1">                                       </span>** 
 
-    **Division 1—Establishment, functions and powers of Authority**
+    **Division 1—Establishment, functions and powers of Authority<span style="mso-tab-count: 1">             </span>**
 
-[5](#5).            Establishment                                                                                      4
+[5](#5).            Establishment<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[6](#6).            Objectives                                                                                            4
+[6](#6).            Objectives<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-[7](#7).            Functions                                                                                             5
+[7](#7).            Functions<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[8](#8).            Powers                                                                                                 7
+[8](#8).            Powers<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
 
-[9](#9).            Consultation                                                                                        8
+[9](#9).            Consultation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-    **Division 2—Constitution and meetings of Authority**
+    **Division 2—Constitution and meetings of Authority<span style="mso-tab-count: 1">                                   </span>**
 
-[10](#10).          Authority is body corporate etc                                                          9
+[10](#10).          Authority is body corporate etc <span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[11](#11).          Constitution of Authority                                                                   9
+[11](#11).          Constitution of Authority<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[12](#12).          Appointment of directors                                                                    9
+[12](#12).          Appointment of directors<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[13](#13).          Deputy Chairperson                                                                          10
+[13](#13).          Deputy Chairperson<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[14](#14).          Certain members of peak industry body not eligible for appointment etc              11
+[14](#14).          Certain members of peak industry body not eligible for appointment etc <span style="mso-tab-count: 1">             </span>
 
-[15](#15).          Term of office                                                                                    11
+[15](#15).          Term of office<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[16](#16).          Directors (other than Managing Director) hold office on part-time basis               11
+[16](#16).          Directors (other than Managing Director) hold office on part-time basis<span style="mso-tab-count: 1">               </span>
 
-[17](#17).          Remuneration and allowances                                                            12
+[17](#17).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[18](#18).          Leave of absence                                                                                13
+[18](#18).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[19](#19).          Resignation                                                                                        13
+[19](#19).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[21](#21).          Termination of appointment                                                             13
+[21](#21).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[22](#22).          Terms and conditions of appointment not provided for by Act       14
+[22](#22).          Terms and conditions of appointment not provided for by Act<span style="mso-tab-count: 1 dotted">       </span>
 
-[23](#23).          Meetings                                                                                            14
+[23](#23).          Meetings<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-[24](#24).          Resolutions without meetings                                                           15
+[24](#24).          Resolutions without meetings<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-    **Division 3—Nomination and selection process for directors of Authority**
+    **Division 3—Nomination and selection process for directors of Authority<span style="mso-tab-count: 1">           </span>**
 
-[25](#25).          Presiding Member                                                                              16
+[25](#25).          Presiding Member<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[26](#26).          Acting Presiding Member                                                                  16
+[26](#26).          Acting Presiding Member<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[27](#27).          Request for nominations                                                                    17
+[27](#27).          Request for nominations<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[28](#28).          Selection Committee                                                                          17
+[28](#28).          Selection Committee<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[29](#29).          Membership of Selection Committee                                                18
+[29](#29).          Membership of Selection Committee<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[30](#30).          Selection of nominees                                                                        18
+[30](#30).          Selection of nominees<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[31](#31).          Nomination                                                                                        19
+[31](#31).          Nomination<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[32](#32).          Rejection of nominations                                                                   19
+[32](#32).          Rejection of nominations<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[33](#33).          Meetings of a Selection Committee                                                   19
+[33](#33).          Meetings of a Selection Committee<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[34](#34).          Remuneration and allowances                                                            20
+[34](#34).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[35](#35).          Leave of absence                                                                                20
+[35](#35).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[36](#36).          Resignation                                                                                        21
+[36](#36).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[37](#37).          Termination of appointment of member of Selection Committee     21
+[37](#37).          Termination of appointment of member of Selection Committee<span style="mso-tab-count: 1 dotted">     </span>
 
-[38](#38).          Disclosure of interests by members of Selection Committees          21
+[38](#38).          Disclosure of interests by members of Selection Committees<span style="mso-tab-count: 1 dotted">          </span>
 
-[39](#39).          Resolutions without meetings                                                           22
+[39](#39).          Resolutions without meetings<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[40](#40).          Consultants etc                                                                                  22
+[40](#40).          Consultants etc <span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[41](#41).          Presiding Member to abolish Selection Committee                           22
+[41](#41).          Presiding Member to abolish Selection Committee<span style="mso-tab-count: 1 dotted">                           </span>
 
-[42](#42).          Annual reports of Selection Committees                                           23
+[42](#42).          Annual reports of Selection Committees<span style="mso-tab-count: 1 dotted">                                           </span>
 
-    **Division 4—Managing Director**
+    **Division 4—Managing Director<span style="mso-tab-count: 1">                                                                            </span>**
 
-[43](#43).          Managing Director                                                                             24
+[43](#43).          Managing Director<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[44](#44).          Duties                                                                                                24
+[44](#44).          Duties<span style="mso-tab-count: 1 dotted">                                                                                                </span>
 
-[45](#45).          Appointment                                                                                     24
+[45](#45).          Appointment<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[46](#46).          Term of appointment etc                                                                   24
+[46](#46).          Term of appointment etc <span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[47](#47).          Terms and conditions of appointment                                              24
+[47](#47).          Terms and conditions of appointment<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[48](#48).          Application of Remuneration Tribunal Act                                      25
+[48](#48).          Application of Remuneration Tribunal Act<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[49](#49).          Managing Director not to engage in other paid employment            25
+[49](#49).          Managing Director not to engage in other paid employment<span style="mso-tab-count: 1 dotted">            </span>
 
-[50](#50).          Leave of absence                                                                                25
+[50](#50).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[51](#51).          Resignation                                                                                        25
+[51](#51).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[52](#52).          Disclosure of interests                                                                       25
+[52](#52).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[53](#53).          Acting Managing Director                                                                 25
+[53](#53).          Acting Managing Director<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-    **Division 5—Committees**
+    **Division 5—Committees<span style="mso-tab-count: 1">                                                                                           </span>**
 
-[54](#54).          Committees                                                                                        27
+[54](#54).          Committees<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[55](#55).          Committees other than management advisory committees               27
+[55](#55).          Committees other than management advisory committees<span style="mso-tab-count: 1 dotted">               </span>
 
-[56](#56).          Management advisory committees                                                    28
+[56](#56).          Management advisory committees<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[57](#57).          Functions of management advisory committees                                28
+[57](#57).          Functions of management advisory committees<span style="mso-tab-count: 1 dotted">                                </span>
 
-[58](#58).          Powers of management advisory committee etc                                28
+[58](#58).          Powers of management advisory committee etc <span style="mso-tab-count: 1 dotted">                               </span>
 
-[59](#59).          Management advisory committee to act in accordance with policies etc  of Authority          29
+[59](#59).          Management advisory committee to act in accordance with policies etc  of Authority<span style="mso-tab-count: 1">          </span>
 
-[60](#60).          Constitution of management advisory committees                           29
+[60](#60).          Constitution of management advisory committees<span style="mso-tab-count: 1 dotted">                           </span>
 
-[61](#61).          Acting Chairperson                                                                            30
+[61](#61).          Acting Chairperson<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[62](#62).          Appointment of members                                                                 31
+[62](#62).          Appointment of members<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[63](#63).          Term of office                                                                                    31
+[63](#63).          Term of office<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[64](#64).          Application of certain provisions to members of management advisory committees             31
+[64](#64).          Application of certain provisions to members of management advisory committees<span style="mso-tab-count: 1">             </span>
 
-[64A](#64A).       Disclosure of interests of members of management advisory committees              32
+[64A](#64A).       Disclosure of interests of members of management advisory committees<span style="mso-tab-count: 1">              </span>
 
-[65](#65).          Meetings                                                                                            32
+[65](#65).          Meetings<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-[66](#66).          Arrangements relating to staff etc                                                      33
+[66](#66).          Arrangements relating to staff etc <span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[67](#67).          Remuneration and allowances                                                            33
+[67](#67).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-    **Division 6—Employees and consultants**
+    **Division 6—Employees and consultants<span style="mso-tab-count: 1">                                                          </span>**
 
-[68](#68).          Employees                                                                                         34
+[68](#68).          Employees<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[69](#69).          Consultants                                                                                        34
+[69](#69).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[70](#70).          Human resources development program                                           34
+[70](#70).          Human resources development program<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[71](#71).          Merit principle to apply                                                                   34
+[71](#71).          Merit principle to apply<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-    **Division 7—Corporate and annual operational plans**
+    **Division 7—Corporate and annual operational plans<span style="mso-tab-count: 1">                                </span>**
 
-[72](#72).          Development of corporate plan                                                         35
+[72](#72).          Development of corporate plan<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[73](#73).          Approval of corporate plan                                                               35
+[73](#73).          Approval of corporate plan<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[74](#74).          Variation of corporate plan by Authority                                         36
+[74](#74).          Variation of corporate plan by Authority<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[75](#75).          Variation at request of Minister                                                        36
+[75](#75).          Variation at request of Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[76](#76).          Date of effect of variations                                                                37
+[76](#76).          Date of effect of variations<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[77](#77).          Development of annual operational plan                                           37
+[77](#77).          Development of annual operational plan<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[78](#78).          Approval of annual operational plan                                                 38
+[78](#78).          Approval of annual operational plan<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[79](#79).          Variation of annual operational plan                                                  38
+[79](#79).          Variation of annual operational plan<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-    **Division 8—Finance**
+    **Division 8—Finance<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[80](#80).          Payment of amounts of levy etc                                                        39
+[80](#80).          Payment of amounts of levy etc <span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[81](#81).          Money of the Authority                                                                   40
+[81](#81).          Money of the Authority<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[82](#82).          Expenditure of money of the Authority                                            40
+[82](#82).          Expenditure of money of the Authority<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[83](#83).          Borrowing of money                                                                          41
+[83](#83).          Borrowing of money<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[84](#84).          Guarantee of borrowings                                                                   41
+[84](#84).          Guarantee of borrowings<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[85](#85).          Borrowing not otherwise permitted                                                  41
+[85](#85).          Borrowing not otherwise permitted<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[86](#86).          Authority may give security                                                             42
+[86](#86).          Authority may give security<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[87](#87).          Exemption from tax                                                                           42
+[87](#87).          Exemption from tax<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[88](#88).          Extra matters to be included in annual report                                    42
+[88](#88).          Extra matters to be included in annual report<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[88A](#88A).       Delegation by Finance Minister                                                        44
+[88A](#88A).       Delegation by Finance Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-    **Division 9—Miscellaneous**
+    **Division 9—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[89](#89).          Peak industry body to be given copy of report etc                           45
+[89](#89).          Peak industry body to be given copy of report etc <span style="mso-tab-count: 1 dotted">                          </span>
 
-[90](#90).          Public meetings                                                                                  45
+[90](#90).          Public meetings<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[91](#91).          Minister may give directions in exceptional circumstances               45
+[91](#91).          Minister may give directions in exceptional circumstances<span style="mso-tab-count: 1 dotted">               </span>
 
-[92](#92).          Delegation by the Authority                                                             47
+[92](#92).          Delegation by the Authority<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[93](#93).          Delegation by the Managing Director                                                47
+[93](#93).          Delegation by the Managing Director<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[94](#94).          Limit—fees and charges                                                                     47
+[94](#94).          Limit—fees and charges<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-**Part 3—The Fishing Industry Policy Council** 
+**Part 3—The Fishing Industry Policy Council<span style="mso-tab-count: 1">                                                        </span>** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
 
-[95](#95).          Interpretation                                                                                     48
+[95](#95).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-    **Division 2—Establishment, functions and powers of Council**
+    **Division 2—Establishment, functions and powers of Council<span style="mso-tab-count: 1">               </span>**
 
-[96](#96).          Establishment of Council                                                                   49
+[96](#96).          Establishment of Council<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[97](#97).          Objectives                                                                                          49
+[97](#97).          Objectives<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[98](#98).          Functions of Council                                                                         49
+[98](#98).          Functions of Council<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[99](#99).          Powers of Council                                                                             50
+[99](#99).          Powers of Council<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[100](#100).        Industry conferences                                                                         50
+[100](#100).        Industry conferences<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[101](#101).        Publication of Council reports                                                           50
+[101](#101).        Publication of Council reports<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-    **Division 3—Constitution and meetings of Council**
+    **Division 3—Constitution and meetings of Council<span style="mso-tab-count: 1">                                     </span>**
 
-[102](#102).        Constitution of Council                                                                     52
+[102](#102).        Constitution of Council<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[103](#103).        Acting Chairperson                                                                            53
+[103](#103).        Acting Chairperson<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[104](#104).        Deputies of members                                                                         53
+[104](#104).        Deputies of members<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[105](#105).        Resignation of members                                                                     54
+[105](#105).        Resignation of members<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[106](#106).        Termination of appointments etc                                                      54
+[106](#106).        Termination of appointments etc <span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[107](#107).        Disclosure of interests                                                                       55
+[107](#107).        Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[108](#108).        Meetings                                                                                            55
+[108](#108).        Meetings<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-    **Division 4—Working groups of Council**
+    **Division 4—Working groups of Council<span style="mso-tab-count: 1">                                                           </span>**
 
-[109](#109).        Working groups of Council                                                                57
+[109](#109).        Working groups of Council<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[110](#110).        Disclosure of interests of members of working groups                     58
+[110](#110).        Disclosure of interests of members of working groups<span style="mso-tab-count: 1 dotted">                     </span>
 
-    **Division 5—Miscellaneous**
+    **Division 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[111](#111).        Remuneration and allowances                                                            59
+[111](#111).        Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[112](#112).        Arrangements relating to staff etc                                                      59
+[112](#112).        Arrangements relating to staff etc <span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[113](#113).        Annual report                                                                                    60
+[113](#113).        Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[114](#114).        Regulations                                                                                        61
+[114](#114).        Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
 
- 
+<o:p> </o:p>
 
 
 ## An Act to establish an Australian Fisheries Management Authority and a Fishing Industry Policy Council, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]                
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span><span style="mso-tab-count: 1">                               </span>
 
                    This Act may be cited as the _Fisheries Administration Act 1991_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
-             (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
+             (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
-             (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
+             (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Objects of Act
 
@@ -320,7 +320,7 @@ Attorney-General’s Department, Canberra
 
                     <a name="australian-flag-boat"></a>**_Australian-flagged boat_**has the same meaning as in the _Fisheries Management Act 1991_.
 
-                    <a name="author"></a>**_Authority_** means the Australian Fisheries Management Authority established by section 5.
+                    <a name="author"></a>**_Authority_** means the Australian Fisheries Management Authority established by section 5.
 
                     <a name="borrow"></a>**_borrowing_**, includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the Authority.
 
@@ -352,23 +352,23 @@ Attorney-General’s Department, Canberra
 
                     <a name="ministeri-council"></a>**_Ministerial Council_** means:
 
-                     (a)  subject to paragraph (b), Ministerial Council on Forestry, Fisheries and Aquaculture, whether known by that name or any other name; or
+                     (a)  subject to paragraph (b), Ministerial Council on Forestry, Fisheries and Aquaculture, whether known by that name or any other name; or
 
                      (b)  if another body is prescribed by the regulations for the purposes of this definition—that other body.
 
-                    <a name="nomin-director"></a>**_nominated director_** means a person appointed by the Minister under section 12 to be a nominated director of the Authority.
+                    <a name="nomin-director"></a>**_nominated director_** means a person appointed by the Minister under section 12 to be a nominated director of the Authority.
 
                     <a name="peak-industri-bodi"></a>**_peak industry body_** means such body (whether incorporated or otherwise) representative generally of persons engaged in the industry as is prescribed for the purposes of this definition.
 
                     <a name="plan-manag"></a>**_plan of management_** means a plan of management of a fishery determined by the Authority under an associated law.
 
-                    <a name="precautari-principl"></a>**_precautionary principle_** has the same meaning as in clause 3.5.1 of the Intergovernmental Agreement on the Environment, a copy of which is set out in the Schedule to the _National Environment Protection Council Act 1994_.
+                    <a name="precautari-principl"></a>**_precautionary principle_** has the same meaning as in clause 3.5.1 of the Intergovernmental Agreement on the Environment, a copy of which is set out in the Schedule to the _National Environment Protection Council Act 1994_.
 
-                    <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of Australian Fisheries Management Authority Selection Committees appointed under section 25.
+                    <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of Australian Fisheries Management Authority Selection Committees appointed under section 25.
 
-                    <a name="select-committe"></a>**_Selection Committee_** means an Australian Fisheries Management Authority Selection Committee established under section 28\. 
+                    <a name="select-committe"></a>**_Selection Committee_** means an Australian Fisheries Management Authority Selection Committee established under section 28\. 
 
-Note:          Definitions relating only to Part 3 are in section 95.
+Note:          Definitions relating only to Part 3 are in section 95.
 
              (2)  For the purposes of this Act:
 
@@ -376,9 +376,11 @@ Note:          Definitions relating only to Part 3 are in se
 
                      (b)  in relation to a fishery or a managed fishery that is identified by reference to any matter other than an area, a reference to activities in the fishery or in the managed fishery includes activities in relation to the fishery.
 
-## Part 2—Australian Fisheries Management Authority
+<o:p> </o:p>
 
-### Division 1—Establishment, functions and powers of Authority
+## Part 2<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Australian Fisheries Management Authority</span><o:p></o:p>
+
+### Division 1—Establishment, functions and powers of Authority
 
 ##### <a id="5"></a>5  Establishment
 
@@ -400,7 +402,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                             are carried on consistently with those obligations; and
 
-                    (bb)  to the extent that Australia has obligations:
+                    (bb)  to the extent that <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> has obligations:
 
                               (i)  under international law; or
 
@@ -422,11 +424,11 @@ Note:          Definitions relating only to Part 3 are in se
 
                     (aa)  to devise and implement management regimes that:
 
-                              (i)  relate to fishing for fish stocks in relation to which Australia has obligations under international agreements; and
+                              (i)  relate to fishing for fish stocks in relation to which <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> has obligations under international agreements; and
 
                              (ii)  are consistent with those obligations;
 
-                    (ab)  to the extent that Australia has obligations:
+                    (ab)  to the extent that <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> has obligations:
 
                               (i)  under international law; or
 
@@ -442,7 +444,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                     (da)  to manage and carry out:
 
-                              (i)  programs referred to in paragraphs (b) and (d) that are devised by the Authority; and
+                              (i)  programs referred to in paragraphs (b) and (d) that are devised by the Authority; and
 
                              (ii)  programs of a similar nature that are devised by other persons or bodies;
 
@@ -456,11 +458,9 @@ Note:          Definitions relating only to Part 3 are in se
 
                     (ga)  to liaise and co-operate with and, where obliged under this Act or any associated law or under international law or international agreements to do so, to give information to, overseas and international bodies on matters relating to global, regional or subregional fisheries management organisations or arrangements;
 
-                    (gb)  to disclose, or to authorise a prescribed agency within the meaning of subsection (4) to disclose on its behalf, information relating to fishing activities that may involve a breach of the laws of Australia or of a foreign country, including personal information relating to the fishing activities of individuals that may involve such a breach;
+                     (h)  the functions specified in section 9 relating to consultation;
 
-                     (h)  the functions specified in section 9 relating to consultation;
-
-                      (j)  the functions specified in Division 7 relating to corporate plans and annual operational plans;
+                      (j)  the functions specified in Division 7 relating to corporate plans and annual operational plans;
 
                      (k)  the functions specified in this Part relating to reporting;
 
@@ -480,33 +480,21 @@ Note:          Definitions relating only to Part 3 are in se
 
                    (ma)  to take action in accordance with international law to deter the use of vessels on the high seas for activities that contravene or reduce the effectiveness of measures that are for the conservation and management of fish stocks and are established by:
 
-                              (i)  a subregional or regional fisheries management organisation that Australia is a member of; or
+                              (i)  a subregional or regional fisheries management organisation that <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is a member of; or
 
-                             (ii)  a subregional or regional fisheries management arrangement that Australia participates in;
+                             (ii)  a subregional or regional fisheries management arrangement that <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> participates in;
 
                      (n)  such other functions as are conferred on the Authority by or under this Act or an associated law.
 
-Note:          Section 9 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Authority to prepare an annual report on the Authority.
+Note:          Section 9 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Authority to prepare an annual report on the Authority.
 
-             (2)  The paragraphs of subsection (1) do not limit one another.
-
-             (3)  In disclosing information in the course of an activity referred to in paragraph (1)(g), (ga), (gb) or (ma), or in authorising the disclosure of such information, the Authority may require that the information:
-
-                     (a)  not be disclosed by the body to which it is provided; or
-
-                     (b)  be disclosed only for such purposes, and on such conditions, as the Authority specifies.
-
-             (4)  An agency is a prescribed agency for the purposes of paragraph (1)(gb) if:
-
-                     (a)  it is an agency within the meaning of section 7 of the _Public Service Act 1999_; and
-
-                     (b)  it is declared by the regulations to be a prescribed agency for the purposes of that paragraph.
+             (2)  The paragraphs of subsection (1) do not limit one another.
 
 ##### <a id="8"></a>8  Powers
 
              (1)  The Authority may do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
 
-             (2)  Without limiting the generality of subsection (1), the Authority may:
+             (2)  Without limiting the generality of subsection (1), the Authority may:
 
                      (a)  enter into agreements and contracts; and
 
@@ -536,7 +524,9 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
                      (b)  subject to written guidelines given to the Authority by the Minister, pay expenses (other than travel expenses) reasonably incurred by a body or person in connection with consultations by the Authority.
 
-### Division 2—Constitution and meetings of Authority
+<o:p> </o:p>
+
+### Division 2—Constitution and meetings of Authority
 
 ##### <a id="10"></a>10  Authority is body corporate etc.
 
@@ -574,11 +564,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  The Minister is to appoint a person to be the Government Director only if satisfied that the person has experience in public administration including the formulation of government policy.
 
-             (4)  The nominated directors, other than the first 5 such directors, are to be appointed from persons nominated by a Selection Committee under section 31.
+             (4)  The nominated directors, other than the first 5 such directors, are to be appointed from persons nominated by a Selection Committee under section 31.
 
              (5)  The appointment of a person as a director is not invalid because of a defect or irregularity in connection with the persons nomination or appointment.
 
-             (6)  The Minister must try, so far as the first 5 nominated directors are concerned, to appoint, so far as practicable, such persons as will ensure that the directors of the Authority collectively possess expertise in all the fields of activity referred to in subsection 30 (1).
+             (6)  The Minister must try, so far as the first 5 nominated directors are concerned, to appoint, so far as practicable, such persons as will ensure that the directors of the Authority collectively possess expertise in all the fields of activity referred to in subsection 30 (1).
 
 ##### <a id="13"></a>13  Deputy Chairperson
 
@@ -586,7 +576,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The Minister must, before appointing a person to be the Deputy Chairperson, consult with the Chairperson of the Authority.
 
-             (3)  The Minister may at any time terminate an appointment made under subsection (1).
+             (3)  The Minister may at any time terminate an appointment made under subsection (1).
 
              (4)  A person appointed as Deputy Chairperson ceases to hold the office if the person ceases to be a nominated director.
 
@@ -596,13 +586,13 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  the office of Chairperson of the Authority is vacant (whether or not an appointment has previously been made to the office); or
 
-                     (b)  the Chairperson of the Authority is absent from Australia or is, for any reason, unable to perform the duties of the office;
+                     (b)  the Chairperson of the Authority is absent from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office;
 
 the Deputy Chairperson is to act as Chairperson.
 
              (7)  The Deputy Chairperson has, when acting as Chairperson, all the powers, duties, rights and entitlements of the Chairperson of the Authority.
 
-             (8)  Anything done by or in relation to a person purporting to act as Chairperson under subsection (6) is not invalid merely because:
+             (8)  Anything done by or in relation to a person purporting to act as Chairperson under subsection (6) is not invalid merely because:
 
                      (a)  there was a defect or irregularity in connection with the appointment of the person as Deputy Chairperson; or
 
@@ -642,7 +632,7 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
              (4)  Where a director:
 
-                     (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
+                     (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
 
                      (b)  is in the service or employment of a State, or an authority of a State, on a full-time basis; or
 
@@ -650,7 +640,7 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
 it is a condition of the person’s holding office under this Act that the person pay to the State, within one month of receiving an amount of remuneration under this Act, an amount equal to the amount of remuneration.
 
-             (5)  An amount payable under subsection (4) is a debt due to the State, and the State may recover the amount by action against the person in a court of competent jurisdiction.
+             (5)  An amount payable under subsection (4) is a debt due to the State, and the State may recover the amount by action against the person in a court of competent jurisdiction.
 
              (6)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
@@ -660,11 +650,11 @@ it is a condition of the person’s holding office under this Act that the perso
 
                     <a name="parliam"></a>**_Parliament_** means:
 
-                     (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Australian Capital Territory; and
+                     (a)  in relation to the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>—the Legislative Assembly for the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>; and
 
-                     (b)  in relation to the Northern Territory—the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>—the Legislative Assembly of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.
 
 ##### <a id="18"></a>18  Leave of absence
 
@@ -688,7 +678,7 @@ it is a condition of the person’s holding office under this Act that the perso
 
                      (a)  the Chairperson or a nominated director becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
-                     (b)  the Chairperson or a nominated director, without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
+                     (b)  the Chairperson or a nominated director, without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
 
                      (c)  the Chairperson is absent, except with the leave of the Minister, from 3 consecutive meetings of the Authority; or
 
@@ -702,7 +692,7 @@ the Minister may terminate the appointment of the Chairperson or the nominated d
 
 ##### <a id="23"></a>23  Meetings
 
-             (1)  Subject to subsection (2), meetings of the Authority are to be held at such times and places as the Authority from time to time determines.
+             (1)  Subject to subsection (2), meetings of the Authority are to be held at such times and places as the Authority from time to time determines.
 
              (2)  The Chairperson of the Authority may at any time convene a meeting of the Authority.
 
@@ -738,7 +728,9 @@ the Authority is taken to have passed such a resolution in the terms set out in 
 
                      (b)  if the copies were signed on different days—on the latest of those days.
 
-### Division 3—Nomination and selection process for directors of Authority
+<o:p> </o:p>
+
+### Division 3—Nomination and selection process for directors of Authority
 
 ##### <a id="25"></a>25  Presiding Member
 
@@ -754,11 +746,11 @@ the Authority is taken to have passed such a resolution in the terms set out in 
 
                      (a)  during a vacancy in the office of Presiding Member (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Presiding Member is absent from Australia or is, for any other reason, unable to perform the duties of the office;
+                     (b)  during any period, or during all periods, when the Presiding Member is absent from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office;
 
 but a person appointed to act during the vacancy must not continue to act for more than 12 months.
 
-             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
 
                      (a)  the occasion for the persons appointment had not arisen; or
 
@@ -780,7 +772,7 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
 ##### <a id="28"></a>28  Selection Committee
 
-             (1)  Where the Presiding Member receives a request under section 27, he or she must:
+             (1)  Where the Presiding Member receives a request under section 27, he or she must:
 
                      (a)  establish an Australian Fisheries Management Authority Selection Committee for the purpose of nominating a person or persons for appointment to the Authority; and
 
@@ -792,7 +784,7 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
                               (i)  that nominations are being sought for appointment of a person or persons to the Authority; and
 
-                             (ii)  the qualifications for nomination required by a person under section 30.
+                             (ii)  the qualifications for nomination required by a person under section 30.
 
              (2)  The function of the Selection Committee is, in accordance with the request of the Minister, to nominate a person or persons for appointment to the Authority.
 
@@ -810,7 +802,7 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
                      (d)  a member nominated by the Ministerial Council.
 
-             (2)  A Selection Committee member referred to in paragraph (1)(b), (c) or (d) is to be appointed by the Minister in writing and holds office on a part-time basis.
+             (2)  A Selection Committee member referred to in paragraph (1)(b), (c) or (d) is to be appointed by the Minister in writing and holds office on a part-time basis.
 
 ##### <a id="30"></a>30  Selection of nominees
 
@@ -832,19 +824,19 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
                      (h)  such other fields (if any) as are prescribed.
 
-             (2)  In selecting persons for nomination, a Selection Committee must try to choose such persons as will ensure, as far as practicable, that the directors of the Authority collectively possess expertise in all of the fields referred to in subsection (1).
+             (2)  In selecting persons for nomination, a Selection Committee must try to choose such persons as will ensure, as far as practicable, that the directors of the Authority collectively possess expertise in all of the fields referred to in subsection (1).
 
              (3)  A Selection Committee must not nominate a person:
 
                      (a)  who is a member of the Committee; or
 
-                     (b)  whose appointment would result in the Authority having more than 2 directors currently engaged in a field of activity referred to in paragraph (1)(a) or (b); or
+                     (b)  whose appointment would result in the Authority having more than 2 directors currently engaged in a field of activity referred to in paragraph (1)(a) or (b); or
 
                      (c)  who, under subsection 12(2), would not, in the particular case, be eligible for appointment.
 
 ##### <a id="31"></a>31  Nomination
 
-             (1)  Within the period specified in a notice under section 27:
+             (1)  Within the period specified in a notice under section 27:
 
                      (a)  the Selection Committee must select a person or persons for nomination according to the request; and
 
@@ -868,7 +860,7 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
              (1)  If the Minister is not satisfied that a person nominated by a Selection Committee is suitable for appointment, the Minister may give the Presiding Member written notice that he or she rejects the nomination of the person.
 
-             (2)  The Minister may include in a notice of rejection a further request under section 27 for a nomination of a person for appointment to the position concerned.
+             (2)  The Minister may include in a notice of rejection a further request under section 27 for a nomination of a person for appointment to the position concerned.
 
 ##### <a id="33"></a>33  Meetings of a Selection Committee
 
@@ -928,7 +920,7 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of remuneration for their benefit; or
 
-                     (b)  fails, without reasonable excuse, to comply with his or her obligations under section 38; or
+                     (b)  fails, without reasonable excuse, to comply with his or her obligations under section 38; or
 
                      (c)  is absent, without leave of absence, from 3 consecutive meetings of the Committee;
 
@@ -944,7 +936,7 @@ the Minister may terminate the appointment of the member.
 
 the member must, as soon as practicable after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the Committee.
 
-             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
+             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
 
 ##### <a id="39"></a>39  Resolutions without meetings
 
@@ -970,7 +962,7 @@ the Committee is taken to have passed a resolution in the terms set out in the d
 
              (3)  The Presiding Member may, on behalf of a Selection Committee, engage persons to perform clerical or administrative services in connection with the performance of the Committee’s functions.
 
-             (4)  The terms and conditions of engagement of persons under subsection (1) or (3) are to be determined by the Committee.
+             (4)  The terms and conditions of engagement of persons under subsection (1) or (3) are to be determined by the Committee.
 
 ##### <a id="41"></a>41  Presiding Member to abolish Selection Committee
 
@@ -980,15 +972,15 @@ the Committee is taken to have passed a resolution in the terms set out in the d
 
                      (b)  the Committee has not made any nominations for appointment that have yet to be accepted or rejected by the Minister; and
 
-                     (c)  there are no matters in a request by the Minister under section 27 or 32 that are still to be dealt with by the Committee;
+                     (c)  there are no matters in a request by the Minister under section 27 or 32 that are still to be dealt with by the Committee;
 
 the Presiding Member must abolish the Committee.
 
 ##### <a id="42"></a>42  Annual reports of Selection Committees
 
-             (1)  The Presiding Member must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report on the operations, during the immediately preceding financial year, of Selection Committees (if any) established by the Presiding Member or any other Presiding Member.
+             (1)  The Presiding Member must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report on the operations, during the immediately preceding financial year, of Selection Committees (if any) established by the Presiding Member or any other Presiding Member.
 
-             (2)  Where the first appointment of a Presiding Member does not begin on 1 July, subsection (1) has effect in relation to the period beginning on the day the appointment begins and ending on the next 30 June as if:
+             (2)  Where the first appointment of a Presiding Member does not begin on 1 July, subsection (1) has effect in relation to the period beginning on the day the appointment begins and ending on the next 30 June as if:
 
                      (a)  if the period is less than 3 months—the period were included in the next financial year; or
 
@@ -996,9 +988,11 @@ the Presiding Member must abolish the Committee.
 
              (3)  A report for a financial year may, subject to agreement between the Presiding Member and the Chairperson of the Authority, be included, as a discrete part, in the annual report of the Authority for that financial year.
 
-             (4)  If subsection (3) does not apply to a report under this section, the Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+             (4)  If subsection (3) does not apply to a report under this section, the Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
 
-### Division 4—Managing Director
+<o:p> </o:p>
+
+### Division 4—Managing Director
 
 ##### <a id="43"></a>43  Managing Director
 
@@ -1058,7 +1052,7 @@ the Presiding Member must abolish the Committee.
 
 but a person appointed to act during the vacancy must not continue so to act for more than 12 months.
 
-             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
 
                      (a)  the occasion for the person’s appointment had not arisen; or
 
@@ -1068,7 +1062,9 @@ but a person appointed to act during the vacancy must not continue so to act for
 
                      (d)  the occasion for the person to act had not arisen or had ceased.
 
-### Division 5—Committees
+<o:p> </o:p>
+
+### Division 5—Committees
 
 ##### <a id="54"></a>54  Committees
 
@@ -1100,23 +1096,23 @@ but a person appointed to act during the vacancy must not continue so to act for
 
 the member must, as soon as practicable after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the committee.
 
-             (4)  A disclosure under subsection (3) must be recorded in the minutes of the meeting.
+             (4)  A disclosure under subsection (3) must be recorded in the minutes of the meeting.
 
 ##### <a id="56"></a>56  Management advisory committees
 
-             (1)  Without limiting the power of the Authority to establish committees under section 54, the Authority may, under that section, establish management advisory committees to assist it in the performance of its functions and the exercise of its powers in relation to a fishery.
+             (1)  Without limiting the power of the Authority to establish committees under section 54, the Authority may, under that section, establish management advisory committees to assist it in the performance of its functions and the exercise of its powers in relation to a fishery.
 
              (2)  Where a plan of management makes provision for the performance of functions, or the exercise of powers, by a management advisory committee, the Authority is to establish such a committee for the purposes of that plan.
 
              (3)  The Authority may, after consultation with the members of a management advisory committee, vary the committee’s functions and powers.
 
-             (4)  The Authority must not abolish a management advisory committee referred to in subsection (2) while the plan of management makes provision as mentioned in that subsection.
+             (4)  The Authority must not abolish a management advisory committee referred to in subsection (2) while the plan of management makes provision as mentioned in that subsection.
 
 ##### <a id="57"></a>57  Functions of management advisory committees
 
              (1)  A management advisory committee has such functions as the Authority from time to time determines.
 
-             (2)  Without limiting the generality of subsection (1), the Authority may determine any of the following functions in relation to a management advisory committee:
+             (2)  Without limiting the generality of subsection (1), the Authority may determine any of the following functions in relation to a management advisory committee:
 
                      (a)  the function of being a liaison body between the Authority and persons engaged in a fishery;
 
@@ -1126,7 +1122,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
 ##### <a id="58"></a>58  Powers of management advisory committee etc.
 
-             (1)  Subject to section 59, a management advisory committee has power to do, on behalf of the Authority, all things necessary or convenient to be done for, or in connection with, the performance of its functions.
+             (1)  Subject to section 59, a management advisory committee has power to do, on behalf of the Authority, all things necessary or convenient to be done for, or in connection with, the performance of its functions.
 
           (1A)  Without limiting subsection (1), a management advisory committee:
 
@@ -1172,7 +1168,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
                      (a)  during a vacancy in the office of Chairperson of the committee (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Chairperson of the committee is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
+                     (b)  during any period, or during all periods, when the Chairperson of the committee is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
@@ -1204,7 +1200,7 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
 ##### <a id="64"></a>64  Application of certain provisions to members of management advisory committees
 
-                   Sections 18, 19, 21 and 24 apply to a management advisory committee as if:
+                   Sections 18, 19, 21 and 24 apply to a management advisory committee as if:
 
                      (a)  a reference to a director of the Authority were a reference to a member of the committee (whether or not the member of the committee is also a director of the Authority); and
 
@@ -1244,7 +1240,7 @@ the member must disclose the nature of the interest at a meeting of the committe
 
                       (f)  the inviting of persons to attend meetings of the committee for the purpose of advising or informing the committee on any matter.
 
-             (2)  Except in relation to matters determined by the Authority under subsection (1), the committee may determine the procedure to be followed at or in relation to its meetings.
+             (2)  Except in relation to matters determined by the Authority under subsection (1), the committee may determine the procedure to be followed at or in relation to its meetings.
 
 ##### <a id="66"></a>66  Arrangements relating to staff etc.
 
@@ -1256,13 +1252,13 @@ the member must disclose the nature of the interest at a meeting of the committe
 
              (2)  The Chairperson and other members of a management advisory committee are to be paid such allowances as are prescribed.
 
-             (3)  Subsections (1), (2) and (4) have effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  Subsections (1), (2) and (4) have effect subject to the _Remuneration Tribunal Act 1973_.
 
              (4)  A member of:
 
                      (a)  a committee established under section 54; or
 
-                     (b)  a sub-committee established under subsection 58(1A);
+                     (b)  a sub-committee established under subsection 58(1A);
 
 (other than the Chairperson or other member of a management advisory committee or a member who is a director or employee of the Authority) is to be paid such travelling allowance as is determined by the Remuneration Tribunal in relation to the performance of his or her duties as a member of the committee or sub-committee.
 
@@ -1270,9 +1266,11 @@ the member must disclose the nature of the interest at a meeting of the committe
 
                      (a)  member of any committee established under section 54 other than a management advisory committee.
 
-                     (c)  member of a sub-committee established under subsection 58(1A).
+                     (c)  member of a sub-committee established under subsection 58(1A).
 
-### Division 6—Employees and consultants
+<o:p> </o:p>
+
+### Division 6—Employees and consultants
 
 ##### <a id="68"></a>68  Employees
 
@@ -1298,15 +1296,17 @@ the member must disclose the nature of the interest at a meeting of the committe
 
                    Nothing in this Act requires anyone to do anything incompatible with the principle that employment matters should be dealt with on the basis of merit.
 
-### Division 7—Corporate and annual operational plans
+<o:p> </o:p>
+
+### Division 7—Corporate and annual operational plans
 
 ##### <a id="72"></a>72  Development of corporate plan
 
-             (1)  The Authority must give to the Minister a corporate plan before 1 May 1992 and before 1 May in each subsequent calendar year.
+             (1)  The Authority must give to the Minister a corporate plan before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="5">1 May 1992</st1:date> and before 1 May in each subsequent calendar year.
 
              (2)  A corporate plan is to be prepared after consultation with the peak industry body and with any other person or body considered by the Authority to be appropriate.
 
-             (3)  A corporate plan is to relate to a period commencing on the following 1 July and extending for 3, 4 or 5 years, as the Authority chooses.
+             (3)  A corporate plan is to relate to a period commencing on the following 1 July and extending for 3, 4 or 5 years, as the Authority chooses.
 
              (4)  A corporate plan must:
 
@@ -1314,11 +1314,11 @@ the member must disclose the nature of the interest at a meeting of the committe
 
                      (b)  give a broad outline of the strategies that the Authority considers should be pursued during that period for achieving those goals; and
 
-                     (c)  set out the Authority’s assessment of the factors that will affect the operations of the Authority during the period of the plan in giving effect to the objectives set out in section 6; and
+                     (c)  set out the Authority’s assessment of the factors that will affect the operations of the Authority during the period of the plan in giving effect to the objectives set out in section 6; and
 
                      (d)  include such performance indicators as the Authority considers appropriate against which the performance of the Authority can be assessed during the period of the plan; and
 
-                     (e)  include the human resources development program developed under section 70.
+                     (e)  include the human resources development program developed under section 70.
 
 ##### <a id="73"></a>73  Approval of corporate plan
 
@@ -1328,7 +1328,7 @@ the member must disclose the nature of the interest at a meeting of the committe
 
                      (b)  if the Minister thinks that the interests of fisheries management, or any matter relating to fisheries management, so require—request the Authority to revise the plan appropriately.
 
-             (2)  If the Minister makes a request under paragraph (1)(b), the Minister is to set out the reasons for the request in the notice.
+             (2)  If the Minister makes a request under paragraph (1)(b), the Minister is to set out the reasons for the request in the notice.
 
              (3)  The Authority must consider a request for the revision of a corporate plan and the reasons for the request, make such revision of the plan as it considers appropriate and submit the revised plan to the Minister for approval.
 
@@ -1342,7 +1342,7 @@ whichever is the later.
 
 ##### <a id="74"></a>74  Variation of corporate plan by Authority
 
-             (1)  Subject to subsection (4), the Authority must not vary a corporate plan except with the agreement of the Minister.
+             (1)  Subject to subsection (4), the Authority must not vary a corporate plan except with the agreement of the Minister.
 
              (2)  Where the Authority wishes to vary a corporate plan, the Authority must prepare written proposals for the variations and give a copy of the proposals to the Minister together with a statement setting out the Authority’s reasons for making the proposals.
 
@@ -1366,13 +1366,13 @@ whichever is the later.
 
                      (a)  a corporate plan has come into force; and
 
-                     (b)  a variation of the plan is approved by the Minister under section 74 or 75 or the Authority makes a variation of a minor nature;
+                     (b)  a variation of the plan is approved by the Minister under section 74 or 75 or the Authority makes a variation of a minor nature;
 
 the variation takes effect on the day on which the Authority receives notice of the Minister’s approval or makes the variation of a minor nature, as the case may be.
 
 ##### <a id="77"></a>77  Development of annual operational plan
 
-             (1)  The Authority must, before 1 June 1992 and before 1 June in each subsequent calendar year or such later date as the Minister in the particular case allows, give to the Minister an annual operational plan relating to the period of 12 months commencing on the following 1 July.
+             (1)  The Authority must, before 1 June 1992 and before 1 June in each subsequent calendar year or such later date as the Minister in the particular case allows, give to the Minister an annual operational plan relating to the period of 12 months commencing on the following 1 July.
 
              (2)  An annual operational plan must:
 
@@ -1382,7 +1382,7 @@ the variation takes effect on the day on which the Authority receives notice of 
 
                      (c)  include such performance indicators as the Authority considers appropriate against which the performance of the Authority can be assessed during the period to which the plan relates; and
 
-                     (d)  propose action to implement the human resources development program developed under section 70.
+                     (d)  propose action to implement the human resources development program developed under section 70.
 
 ##### <a id="78"></a>78  Approval of annual operational plan
 
@@ -1392,9 +1392,9 @@ the variation takes effect on the day on which the Authority receives notice of 
 
                      (b)  if the Minister thinks that the plan is inconsistent with the provisions of the relevant corporate plan—request the Authority to revise the annual operational plan appropriately.
 
-             (2)  If the Minister makes a request under paragraph (1)(b), the Minister is to set out the reasons for the request in the notice.
+             (2)  If the Minister makes a request under paragraph (1)(b), the Minister is to set out the reasons for the request in the notice.
 
-             (3)  The Authority must consider a request under paragraph (1)(b) and the statement of reasons, make such revision of the annual operational plan as it considers appropriate and submit the revised plan to the Minister for approval.
+             (3)  The Authority must consider a request under paragraph (1)(b) and the statement of reasons, make such revision of the annual operational plan as it considers appropriate and submit the revised plan to the Minister for approval.
 
              (4)  An annual operational plan comes into force:
 
@@ -1406,11 +1406,13 @@ whichever is the later.
 
 ##### <a id="79"></a>79  Variation of annual operational plan
 
-             (1)  Sections 74, 75 and 76 apply to annual operational plans in the same way as they apply to corporate plans.
+             (1)  Sections 74, 75 and 76 apply to annual operational plans in the same way as they apply to corporate plans.
 
              (2)  When submitting to the Minister proposals for variation of a corporate plan, the Authority must also submit to the Minister proposals for any consequential variations of a relevant annual operational plan.
 
-### Division 8—Finance
+<o:p> </o:p>
+
+### Division 8—Finance
 
 ##### <a id="80"></a>80  Payment of amounts of levy etc.
 
@@ -1418,7 +1420,7 @@ whichever is the later.
 
 **Levy amount** _less_**Deductible component.**
 
-          (1A)  In subsection (1):
+          (1A)  In subsection (1):
 
                     <a name="levi-amount"></a>**_Levy amount_** means any of the following amounts:
 
@@ -1436,7 +1438,7 @@ whichever is the later.
 
                      (g)  an amount received by the Commonwealth in repayment of a loan made under a fisheries adjustment program or a fisheries restructuring program;
 
-                     (h)  an amount received by the Commonwealth as a penalty under section 112 of the _Fisheries Management Act 1991_;
+                     (h)  an amount received by the Commonwealth as a penalty under section 112 of the _Fisheries Management Act 1991_;
 
                       (i)  an amount received by the Commonwealth as a fee under regulations made under paragraph 168(2)(e) of the _Fisheries Management Act 1991_;
 
@@ -1448,17 +1450,17 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                      (a)  if, as a result of the receipt by the Commonwealth of the levy amount, an amount (the **_research component_**) is required to be paid under subparagraph 30A(1)(a)(i) or (ii) of the _Primary Industries and Energy Research and Development Act 1989_ to a R &amp; D Corporation (within the meaning of that Act) established in respect of the fishing industry—an amount equal to the research component; or
 
-                     (b)  if the levy amount is an amount referred to in paragraph (f) of the definition of **_Levy amount_**—an amount equal to so much (if any) of the levy amount as is determined by the Minister to be an amount paid to the Commonwealth for the right to engage in fishing in the Australian fishing zone; or
+                     (b)  if the levy amount is an amount referred to in paragraph (f) of the definition of **_Levy amount_**—an amount equal to so much (if any) of the levy amount as is determined by the Minister to be an amount paid to the Commonwealth for the right to engage in fishing in the Australian fishing zone; or
 
                      (c)  if a part of the levy amount is prescribed for the purposes of this paragraph—an amount equal to the part so prescribed.
 
-             (2)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (2)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="81"></a>81  Money of the Authority
 
                    Money of the Authority consists of:
 
-                     (a)  amounts payable to the Authority under section 80; and
+                     (a)  amounts payable to the Authority under section 80; and
 
                      (b)  such money as is appropriated by the Parliament for the purposes of the Authority; and
 
@@ -1478,7 +1480,7 @@ other than an amount that is declared by the regulations not to be a levy amount
 
 ##### <a id="83"></a>83  Borrowing of money
 
-             (1)  Subject to subsection (2), the Authority may borrow money for the performance of its functions.
+             (1)  Subject to subsection (2), the Authority may borrow money for the performance of its functions.
 
              (2)  Except with the written approval of the Finance Minister, the Authority must not borrow money so that the total amount borrowed at any time exceeds $500,000.
 
@@ -1490,11 +1492,11 @@ other than an amount that is declared by the regulations not to be a levy amount
 
 ##### <a id="84"></a>84  Guarantee of borrowings
 
-             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by the Authority of obligations incurred by it under section 83.
+             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by the Authority of obligations incurred by it under section 83.
 
              (2)  If the Finance Minister determines in writing that obligations incurred by the Authority under that section are guaranteed by the Commonwealth, the obligations are so guaranteed by force of this subsection.
 
-             (3)  A contract under subsection (1) may include:
+             (3)  A contract under subsection (1) may include:
 
                      (a)  a provision agreeing that proceedings under the contract may be taken in courts of a foreign country; or
 
@@ -1508,15 +1510,15 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                    The Authority may give security over the whole or part of its assets for:
 
-                     (a)  the performance by the Authority of any obligation incurred under section 83; or
+                     (a)  the performance by the Authority of any obligation incurred under section 83; or
 
-                     (b)  the payment to the Commonwealth of amounts equal to amounts paid by the Commonwealth under a guarantee under section 84.
+                     (b)  the payment to the Commonwealth of amounts equal to amounts paid by the Commonwealth under a guarantee under section 84.
 
 ##### <a id="87"></a>87  Exemption from tax
 
              (1)  The Authority is not liable to pay tax under any law of the Commonwealth or of a State or Territory.
 
-             (2)  Subsection (1) does not apply to:
+             (2)  Subsection (1) does not apply to:
 
                      (a)  customs duties; or
 
@@ -1524,9 +1526,9 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                      (c)  a law of a State or Territory relating to payroll tax.
 
-             (3)  Despite subsection (1), the Authority is liable to pay fringe benefits tax in respect of fringe benefits provided by the Authority on or after the date of commencement of this subsection.
+             (3)  Despite subsection (1), the Authority is liable to pay fringe benefits tax in respect of fringe benefits provided by the Authority on or after the date of commencement of this subsection.
 
-             (4)  In subsection (3):
+             (4)  In subsection (3):
 
                     <a name="fring-benefit"></a>**_fringe benefit_** means a fringe benefit as defined by subsection 136(1) of the _Fringe Benefits Tax Assessment Act 1986_.
 
@@ -1536,11 +1538,11 @@ other than an amount that is declared by the regulations not to be a levy amount
 
 ##### <a id="88"></a>88  Extra matters to be included in annual report
 
-             (2)  Each annual report on the Authority prepared by the directors under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include:
+             (2)  Each annual report on the Authority prepared by the directors under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include:
 
                      (a)  an assessment of the extent to which the operations of the Authority during the year to which the report relates have contributed:
 
-                              (i)  to the objectives set out in section 6 and, in particular, to the objective set out in paragraph (b) of that section; and
+                              (i)  to the objectives set out in section 6 and, in particular, to the objective set out in paragraph (b) of that section; and
 
                              (ii)  to the goals set out in the corporate plan applicable to the period; and
 
@@ -1564,13 +1566,15 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                      (c)  an evaluation of its overall performance against the performance indicators set out in the corporate plan applicable to the period and the annual operational plan that came into force at the beginning of that year.
 
+<o:p> </o:p>
+
 ##### <a id="88A"></a>88A  Delegation by Finance Minister
 
              (1)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under sections 83 and 84 to an official (within the meaning of the _Financial Management and Accountability Act 1997_).
 
              (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
 
-### Division 9—Miscellaneous
+### Division 9—Miscellaneous
 
 ##### <a id="89"></a>89  Peak industry body to be given copy of report etc.
 
@@ -1596,7 +1600,7 @@ other than an amount that is declared by the regulations not to be a levy amount
 
 ##### <a id="91"></a>91  Minister may give directions in exceptional circumstances
 
-             (1)  Subject to subsection (2), the Minister may give directions in writing to the Authority concerning the performance of its functions and the exercise of its powers, and the Authority must comply with those directions.
+             (1)  Subject to subsection (2), the Minister may give directions in writing to the Authority concerning the performance of its functions and the exercise of its powers, and the Authority must comply with those directions.
 
              (2)  The Minister must not give a direction to the Authority unless:
 
@@ -1606,7 +1610,7 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                      (c)  the Minister has given to the Chairperson of the Authority an adequate opportunity to discuss with the Minister the need for the proposed direction.
 
-             (3)  Subject to subsection (4), where the Minister gives a direction to the Authority:
+             (3)  Subject to subsection (4), where the Minister gives a direction to the Authority:
 
                      (a)  the Minister must:
 
@@ -1620,9 +1624,9 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                              (ii)  particulars of the impact of that direction on the operations of the Authority.
 
-             (4)  Subsection (3) does not apply in relation to a particular direction if the Minister determines, in writing, that compliance with the subsection is undesirable because compliance would, or would be likely to, be prejudicial to the national interest of Australia.
+             (4)  Subsection (3) does not apply in relation to a particular direction if the Minister determines, in writing, that compliance with the subsection is undesirable because compliance would, or would be likely to, be prejudicial to the national interest of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-             (5)  If, in respect of a fishery, there is in force an arrangement under Division 3 of Part 5 of the _Fisheries Management Act 1991_ under which a Joint Authority has the management of the fishery and the fishery is to be managed in accordance with the law of the Commonwealth, references in this section to the Minister are taken, in relation to the fishery, to be references to the Joint Authority.
+             (5)  If, in respect of a fishery, there is in force an arrangement under Division 3 of Part 5 of the _Fisheries Management Act 1991_ under which a Joint Authority has the management of the fishery and the fishery is to be managed in accordance with the law of the Commonwealth, references in this section to the Minister are taken, in relation to the fishery, to be references to the Joint Authority.
 
 ##### <a id="92"></a>92  Delegation by the Authority
 
@@ -1630,13 +1634,13 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                      (a)  a director of the Authority; or
 
-                     (b)  a committee established by the Authority under section 54; or
+                     (b)  a committee established by the Authority under section 54; or
 
                      (c)  a person employed by the Authority; or
 
                      (d)  a person engaged by the Authority under a contract;
 
-any of the Authority’s powers and functions, except the Authority’s powers under section 47 or 50.
+any of the Authority’s powers and functions, except the Authority’s powers under section 47 or 50.
 
              (2)  A delegate of the Authority is, in the exercise of the delegate’s delegated powers, subject to the directions of the Authority.
 
@@ -1648,9 +1652,11 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
                    The amount or rate of a charge or fee imposed or charged under this Act must not be such as to amount to taxation.
 
-## Part 3—The Fishing Industry Policy Council
+<o:p> </o:p>
 
-### Division 1—Preliminary
+## Part 3<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">The Fishing Industry Policy Council</span><o:p></o:p>
+
+### Division 1—Preliminary
 
 ##### <a id="95"></a>95  Interpretation
 
@@ -1660,15 +1666,17 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
 
-                    <a name="council"></a>**_Council_** means the Fishing Industry Policy Council established by section 96.
+                    <a name="council"></a>**_Council_** means the Fishing Industry Policy Council established by section 96.
 
-                    <a name="council-report"></a>**_Council report_** means a report given to the Minister in the performance of a function referred to in section 98.
+                    <a name="council-report"></a>**_Council report_** means a report given to the Minister in the performance of a function referred to in section 98.
 
                     <a name="member"></a>**_member_** means a member of the Council and includes the Chairperson and a Deputy of a member of the Council.
 
-                    <a name="work-group"></a>**_working group_** means a working group of the Council established under section 109.
+                    <a name="work-group"></a>**_working group_** means a working group of the Council established under section 109.
 
-### Division 2—Establishment, functions and powers of Council
+<o:p> </o:p>
+
+### Division 2—Establishment, functions and powers of Council
 
 ##### <a id="96"></a>96  Establishment of Council
 
@@ -1696,9 +1704,9 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
                      (e)  such other functions (if any) as are conferred upon the Council by the regulations.
 
-             (2)  Where a report of a working group is submitted to the Council under subsection 109(7), the Council may adopt the report, with or without amendments, as the report of the Council for the purposes of paragraph (1)(a) or (b).
+             (2)  Where a report of a working group is submitted to the Council under subsection 109(7), the Council may adopt the report, with or without amendments, as the report of the Council for the purposes of paragraph (1)(a) or (b).
 
-             (3)  Without limiting the generality of subsection (1), the Council, in the performance of its functions, may take into account any matter raised at an industry conference convened under section 100.
+             (3)  Without limiting the generality of subsection (1), the Council, in the performance of its functions, may take into account any matter raised at an industry conference convened under section 100.
 
 ##### <a id="99"></a>99  Powers of Council
 
@@ -1708,7 +1716,7 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
              (1)  The Chairperson may, from time to time as he or she considers appropriate, convene conferences of persons concerned with the industry.
 
-             (2)  The Chairperson must convene a conference under subsection (1) whenever he or she is directed to do so by the Council.
+             (2)  The Chairperson must convene a conference under subsection (1) whenever he or she is directed to do so by the Council.
 
              (3)  The purpose of convening a conference is:
 
@@ -1732,7 +1740,7 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
              (1)  Where a Council report is given to the Minister, the Minister is to cause it to be made public in such a way or in such ways as he or she considers appropriate.
 
-             (2)  Without limiting the generality of subsection (1), the Minister, in his or her discretion, may cause a Council report to be made public by causing it to be laid before each House of the Parliament.
+             (2)  Without limiting the generality of subsection (1), the Minister, in his or her discretion, may cause a Council report to be made public by causing it to be laid before each House of the Parliament.
 
              (3)  Where the Minister is satisfied that the publication of a Council report would be contrary to the public interest, the Minister may, in his or her discretion:
 
@@ -1746,7 +1754,7 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
              (6)  The Council must not:
 
-                     (a)  make public a Council report that has not been published by the Minister under subsection (1), paragraph (3)(b) or subsection (5); or
+                     (a)  make public a Council report that has not been published by the Minister under subsection (1), paragraph (3)(b) or subsection (5); or
 
                      (b)  make public a draft of a Council report that has not been so published or that was last so published with deletions; or
 
@@ -1754,11 +1762,13 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
              (7)  Where a member disagrees with a finding or recommendation to be included in a Council report, the report must include a statement of the views of that member in respect of that finding or recommendation and must identify the member holding those views.
 
-             (8)  In subsection (6): 
+             (8)  In subsection (6): 
 
                     <a name="report"></a>**_report_** includes part of a report.
 
-### Division 3—Constitution and meetings of Council
+<o:p> </o:p>
+
+### Division 3—Constitution and meetings of Council
 
 ##### <a id="102"></a>102  Constitution of Council
 
@@ -1786,13 +1796,13 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
              (2)  The members hold office on a part-time basis.
 
-             (3)  The members, other than a member referred to in paragraph (1)(b) or (c), are to be appointed by the Minister and hold office for such period, not exceeding 3 years, as is specified in the instrument of appointment but are eligible for re-appointment in accordance with this Act.
+             (3)  The members, other than a member referred to in paragraph (1)(b) or (c), are to be appointed by the Minister and hold office for such period, not exceeding 3 years, as is specified in the instrument of appointment but are eligible for re-appointment in accordance with this Act.
 
              (4)  The following persons are not eligible for appointment to the Council:
 
                      (a)  directors of the Authority other than the Chairperson of the Authority;
 
-                     (b)  persons (other than a person referred to in paragraph (1)(b) or (c)) who, if appointed, would hold office for more than 3 consecutive terms.
+                     (b)  persons (other than a person referred to in paragraph (1)(b) or (c)) who, if appointed, would hold office for more than 3 consecutive terms.
 
              (5)  The members hold office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
 
@@ -1804,11 +1814,11 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
                      (a)  during a vacancy in the office of Chairperson (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
-             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
 
                      (a)  the occasion for the person’s appointment had not arisen; or
 
@@ -1846,13 +1856,13 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (a)  terminate the appointment of an appointed member for misbehaviour or physical or mental incapacity; or
 
-                     (b)  on the ground of misbehaviour or physical or mental incapacity—give a written direction that a member, other than an appointed member, is not entitled to attend meetings of the Council or receive allowances under section 111.
+                     (b)  on the ground of misbehaviour or physical or mental incapacity—give a written direction that a member, other than an appointed member, is not entitled to attend meetings of the Council or receive allowances under section 111.
 
              (3)  If:
 
                      (a)  a member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
-                     (b)  a member fails, without reasonable excuse, to comply with section 107; or
+                     (b)  a member fails, without reasonable excuse, to comply with section 107; or
 
                      (c)  the Chairperson is absent except with the leave of the Minister from 3 consecutive meetings of the Council; or
 
@@ -1862,7 +1872,7 @@ the Minister must:
 
                      (e)  in the case of an appointed member—terminate the appointment of the member concerned; or
 
-                      (f)  in the case of a member other than an appointed member—give a written direction that the member is not entitled to attend meetings of the Council or receive allowances under section 111.
+                      (f)  in the case of a member other than an appointed member—give a written direction that the member is not entitled to attend meetings of the Council or receive allowances under section 111.
 
              (4)  In this section:
 
@@ -1878,7 +1888,7 @@ the Minister must:
 
 the member must, as soon as practicable after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the Council.
 
-             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
+             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
 
 ##### <a id="108"></a>108  Meetings
 
@@ -1894,7 +1904,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
              (4)  If the Chairperson is not present at a meeting of the Council, the members present are to appoint one of their number to preside at the meeting.
 
-             (5)  At a meeting of the Council, a quorum is constituted by 5 members.
+             (5)  At a meeting of the Council, a quorum is constituted by 5 members.
 
              (6)  A question arising at a meeting of the Council is to be decided by a majority of the votes of the members present and voting.
 
@@ -1904,7 +1914,9 @@ the member must, as soon as practicable after the relevant facts have come to th
 
              (9)  The Council may invite a person to attend a meeting of the Council for the purposes of advising or informing it on any matter.
 
-### Division 4—Working groups of Council
+<o:p> </o:p>
+
+### Division 4—Working groups of Council
 
 ##### <a id="109"></a>109  Working groups of Council
 
@@ -1928,9 +1940,9 @@ the member must, as soon as practicable after the relevant facts have come to th
 
                             (iv)  the manner in which questions arising at a meeting of the working group are to be decided.
 
-             (5)  A working group is to continue in existence, if it is not earlier dissolved by the Council, for the period of 6 months after its establishment or for that period as extended under subsection (6).
+             (5)  A working group is to continue in existence, if it is not earlier dissolved by the Council, for the period of 6 months after its establishment or for that period as extended under subsection (6).
 
-             (6)  Where the Council considers it desirable to do so, the Council may, by resolution, determine that the period of 6 months, or that period as previously extended by virtue of the operation of this subsection, is to be extended or further extended by a period of 6 months immediately following the period so referred to or that period as previously so extended.
+             (6)  Where the Council considers it desirable to do so, the Council may, by resolution, determine that the period of 6 months, or that period as previously extended by virtue of the operation of this subsection, is to be extended or further extended by a period of 6 months immediately following the period so referred to or that period as previously so extended.
 
              (7)  Where the Council establishes a working group to provide advice to it on a matter, the working group must prepare a written report and, as soon as practicable, submit that report to the Council for its consideration.
 
@@ -1946,9 +1958,11 @@ the member must, as soon as practicable after the relevant facts have come to th
 
 the member must, as soon as practicable after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the working group.
 
-             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
+             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
 
-### Division 5—Miscellaneous
+<o:p> </o:p>
+
+### Division 5—Miscellaneous
 
 ##### <a id="111"></a>111  Remuneration and allowances
 
@@ -1956,7 +1970,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
              (2)  The Chairperson is to be paid such allowances as are prescribed.
 
-             (3)  Subsections (1), (2), (4) and (5) have effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  Subsections (1), (2), (4) and (5) have effect subject to the _Remuneration Tribunal Act 1973_.
 
              (4)  A member (other than the Chairperson of the Council or the Chairperson of the Authority) is to be paid such travelling allowance as is prescribed in relation to the performance of his or her duties as a member.
 
@@ -1976,13 +1990,15 @@ the member must, as soon as practicable after the relevant facts have come to th
 
 ##### <a id="113"></a>113  Annual report
 
-             (1)  The Council must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report of its operations during the year that ended on that 30 June.
+             (1)  The Council must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report of its operations during the year that ended on that 30 June.
 
              (2)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-             (3)  For the purposes of subsection (1), if this section does not come into operation on 1 July in any year, that subsection has effect in relation to the period commencing on the day on which this section comes into operation and ending on the 30 June next following that day as if that period were a period of one year ending on that 30 June.
+             (3)  For the purposes of subsection (1), if this section does not come into operation on 1 July in any year, that subsection has effect in relation to the period commencing on the day on which this section comes into operation and ending on the 30 June next following that day as if that period were a period of one year ending on that 30 June.
 
-## Part 4—Miscellaneous
+<o:p> </o:p>
+
+## Part 4—Miscellaneous
 
 ##### <a id="114"></a>114  Regulations
 
@@ -1993,11 +2009,11 @@ the member must, as soon as practicable after the relevant facts have come to th
                      (b)  necessary or convenient to be prescribed in carrying out or giving effect to this Act.
 
 
-# Notes to the _Fisheries Administration Act 1991_
+# Notes to the _<span style="mso-no-proof: yes">Fisheries Administration Act 1991</span>_
 
 ### Note 1
 
-The _Fisheries Administration Act 1991_ as shown in this compilation comprises Act No. 161, 1991 amended as indicated in the Tables below.
+The _Fisheries Administration Act 1991_ as shown in this compilation comprises Act No. 161, 1991 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2015,23 +2031,23 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
@@ -2044,27 +2060,27 @@ of Assent
       <div>161, 1991</div>
     </td>
     <td>
-      <div>10 Nov 1991</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="10" month="11">10 Nov 1991</st1:date></div>
     </td>
     <td>
-      <div>3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="3" month="2">3 Feb 1992</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1992, No. GN1)</div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
     </td>
     <td>
       <div>129, 1994</div>
     </td>
     <td>
-      <div>21 Oct 1994</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="21" month="10">21 Oct 1994</st1:date></div>
     </td>
     <td>
-      <div>S. 3: Royal Assent <i>(a)</i></div>
+      <div>S. 3: Royal Assent <i style="mso-bidi-font-style: normal">(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2078,10 +2094,10 @@ of Assent
       <div>120, 1997</div>
     </td>
     <td>
-      <div>7 July 1997</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="7" month="7">7 July 1997</st1:date></div>
     </td>
     <td>
-      <div>7 July 1997</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="7" month="7">7 July 1997</st1:date></div>
     </td>
     <td>
       <div>Sch. 3 (item 12)</div>
@@ -2095,10 +2111,10 @@ of Assent
       <div>152, 1997</div>
     </td>
     <td>
-      <div>24 Oct 1997</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 784-793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
+      <div>Schedule 2 (items 784-793): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49)</div>
     </td>
     <td>
       <div>—</div>
@@ -2106,16 +2122,16 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
     </td>
     <td>
       <div>102, 1998</div>
     </td>
     <td>
-      <div>30 July 1998</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="30" month="7">30 July 1998</st1:date></div>
     </td>
     <td>
-      <div>30 July 1998</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="30" month="7">30 July 1998</st1:date></div>
     </td>
     <td>
       <div>—</div>
@@ -2123,17 +2139,17 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Fisheries Legislation Amendment Act (No. 1) 1999</div>
+      <div>Fisheries Legislation Amendment Act (No. 1) 1999</div>
     </td>
     <td>
       <div>143, 1999</div>
     </td>
     <td>
-      <div>3 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="3" month="11">3 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1: 16 Dec 1999 ( <i>see Gazette</i>1999, No. S623) 
-Schedule 2: 11 Dec 2001 ( <i>see Gazette</i>2001, No. S485) 
+      <div>Schedule <st1:time minute="16" hour="1">1: 16</st1:time> Dec 1999 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S623) 
+Schedule 2: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="11" month="12">11 Dec 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S485) 
 Remainder: Royal Assent 
 
 </div>
@@ -2150,10 +2166,10 @@ Remainder: Royal Assent
       <div>156, 1999</div>
     </td>
     <td>
-      <div>24 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="24" month="11">24 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 10 (item 84): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
+      <div>Schedule 10 (item 84): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="13" month="3">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2000,No. S114) <i style="mso-bidi-font-style: normal">(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2167,10 +2183,10 @@ Remainder: Royal Assent
       <div>50, 2000</div>
     </td>
     <td>
-      <div>3 May 2000</div>
+      <div>3 May 2000</div>
     </td>
     <td>
-      <div>Schedules 1 and 2: 1 Aug 2000 ( <i>see Gazette</i>2000, No. S415) 
+      <div>Schedules 1 and 2: 1 Aug 2000 ( <i style="mso-bidi-font-style: normal">see Gazette</i>2000, No. S415) 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -2186,11 +2202,11 @@ Remainder: Royal Assent
       <div>28, 2004</div>
     </td>
     <td>
-      <div>1 Apr 2004</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="4">1 Apr 2004</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1: 6 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S321) 
-Remainder: Royal Assent 
+      <div>Schedule 1: 6 Aug 2004 ( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2004, No. S321) 
+Remainder: Royal Assent <o:p></o:p> 
 </div>
     </td>
     <td>
@@ -2199,16 +2215,16 @@ Remainder: Royal Assent
   </tr>
   <tr>
     <td>
-      <div>Fisheries Legislation Amendment (High Seas Fishing Activities and Other Matters) Act 2004</div>
+      <div>Fisheries Legislation Amendment (High Seas Fishing Activities and Other Matters) Act 2004 <o:p></o:p> </div>
     </td>
     <td>
       <div>29, 2004</div>
     </td>
     <td>
-      <div>2 Apr 2004</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="2" month="4">2 Apr 2004</st1:date></div>
     </td>
     <td>
-      <div>Schedules 1 and 2: 20 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S343) 
+      <div>Schedule <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>and <st1:time minute="20" hour="2">2: 20</st1:time>Aug 2004 ( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2004, No. S343) 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -2218,50 +2234,33 @@ Remainder: Royal Assent
   </tr>
   <tr>
     <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
+      <div>Financial Framework Legislation Amendment Act 2005  <o:p></o:p> </div>
     </td>
     <td>
       <div>8, 2005</div>
     </td>
     <td>
-      <div>22 Feb 2005</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 119–123, 174): Royal Assent</div>
+      <div>Schedule 2 (items 119–123, 174): Royal Assent</div>
     </td>
     <td>
-      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Fisheries Legislation Amendment (International Obligations and Other Matters) Act 2005</div>
-    </td>
-    <td>
-      <div>99, 2005</div>
-    </td>
-    <td>
-      <div>6 July 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1, 2): 7 July 2005</div>
-    </td>
-    <td>
-      <div>—</div>
+      <div>Sch. 2 (item 174) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
     </td>
   </tr>
 </tbody></table>
 
 
-_(a)_     The _Fisheries Administration Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(a)_     The _Fisheries Administration Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule 10 (item 84) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule 10 (item 84) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12\. 
+                              (c)   the items in Schedules 10, 11 and 12\. 
 
 
 ## Table of Amendments
@@ -2275,289 +2274,289 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 2</b></div>
+      <div>S. 4 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 6</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 120, 1997; No. 143, 1999; No. 29, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 7</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>ad. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 10(1)</div>
+      <div>S. 6 </div>
     </td>
     <td>
-      <div>ad. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>am. No. 120, 1997</div>
+      <div>am. No. 120, 1997; No. 143, 1999; No. 29, 2004</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 20</div>
+      <div>S. 7 </div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 156, 1999</div>
+      <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 3</b></div>
+      <div>Note to s. 7 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 28, 29</div>
-    </td>
-    <td>
-      <div>am. No. 129, 1994</div>
+      <div>ad. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 4</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 47</div>
-    </td>
-    <td>
-      <div>am. No. 102, 1998</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 50</div>
+      <div>Note to s. 10(1) </div>
     </td>
     <td>
-      <div>am. No. 102, 1998</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 5</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 58</div>
+      <div>S. 12 </div>
     </td>
     <td>
-      <div>am. No. 120, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 64</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997</div>
+      <div>am. No. 120, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 64A</div>
+      <div>S. 20 </div>
     </td>
     <td>
-      <div>ad No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 67</div>
-    </td>
-    <td>
-      <div>am. No. 120, 1997; No. 28, 2004</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 8</b></div>
+      <div>S. 21 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 80</div>
-    </td>
-    <td>
-      <div>am. No. 129, 1994; No. 120, 1997</div>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 81</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 129, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 83, 84</div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 87</div>
+      <div>Ss. 28, 29 </div>
     </td>
     <td>
-      <div>am. No. 50, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 88</div>
-    </td>
-    <td>
-      <div>rs. No. 152, 1997</div>
+      <div>am. No. 129, 1994</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 88</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 88(2)</div>
-    </td>
-    <td>
-      <div>rep. No. 152, 1997</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 88A</div>
+      <div>S. 47 </div>
     </td>
     <td>
-      <div>ad. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 9</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 102, 1998</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 91</div>
+      <div>S. 50 </div>
     </td>
     <td>
-      <div>am. No. 120, 1997</div>
+      <div>am. No. 102, 1998</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 92</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 5 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 102, 1998</div>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58 </div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64A </div>
+    </td>
+    <td>
+      <div>ad No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67 </div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997; No. 28, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 8 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80 </div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994; No. 120, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81 </div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 83, 84 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87 </div>
+    </td>
+    <td>
+      <div>am. No. 50, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 88 </div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 88(2) </div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88A </div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 9 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91 </div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92 </div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
     </td>
   </tr>
 </tbody></table>
@@ -2567,9 +2566,9 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 
 ### Application, saving or transitional provisions
 
-_Fisheries Legislation Amendment Act 1997 (No. 120, 1997)_
+_Fisheries Legislation Amendment Act 1997 (No. 120, 1997)<o:p></o:p>_
 
-## Schedule 3
+## Schedule 3
 
 ## 12  Transitional
 
@@ -2577,23 +2576,21 @@ _Fisheries Legislation Amendment Act 1997 (No. 120, 1997)_
 
 (2)     Any meetings of such a sub-committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub-committee before that commencement are taken to have been validly paid.
 
-(3)     If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
+(3)     If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
+_Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other Matters) Act 2004 (No. 28, 2004)<o:p></o:p>_
 
-_Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other Matters) Act 2004 (No. 28, 2004)_
-
-## Schedule 1
+## Schedule 1
 
 ## 6  Saving provision
 
 Despite the amendment of the _Fisheries Administration Act 1991_ made by item 4 of this Schedule, any determination by the Remuneration Tribunal of the rate of travelling allowance payable to a member of a management advisory committee that is in force immediately before the day of commencement of that amendment continues in force on and after that day in relation to that member until a new rate is prescribed.
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-## Schedule 2
+## Schedule 2
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -2614,6 +2611,4 @@ continues to have effect after the commencing time as if it had been done by the
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
 
- 
-
- 
+<o:p> </o:p>
