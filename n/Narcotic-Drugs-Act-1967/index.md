@@ -1,19 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2008C00421/Html/NarcoticDrugs1967WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00348/Html/FB5E43E4DA765BFACA25700000151182/$FILE/image001.gif)
 
 # Narcotic Drugs Act 1967
 
 **Act No. 53 of 1967 as amended**
 
-This compilation was prepared on 15 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 16 May 2005
+taking into account amendments up to Act No. 38 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -81,7 +82,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [26](#26).          Service of notices
 
-[27](#27).           Regulations
+[27](#27).          Regulations
 
 **First Schedule—Single Convention On Narcotic Drugs, 1961** 
 
@@ -90,6 +91,7 @@ The Parties,
 **Second Schedule—Communication of the Secretary-General of the United Nations dated 11 December, 1964** 
 
 **Notes** 
+
 
 ## An Act to regulate the Manufacture of, and to make other provision with respect to, Narcotic Drugs in accordance with the Single Convention on Narcotic Drugs, 1961
 
@@ -151,7 +153,7 @@ The Parties,
 
 ##### <a id="6"></a>6  Ministers etc. to have regard to Convention
 
-                   The Minister for Health, the Minister for Industry, Technology and Commerce, the Secretary or the CEO shall, in exercising any power or performing any function conferred on him or her by this Act, have regard to the obligations of the Commonwealth under the Convention and to no other matter.
+                   The Minister for Health, the Minister for Industry, Technology and Commerce, the Secretary or the CEO shall, in exercising any power or performing any function conferred on him by this Act, have regard to the obligations of the Commonwealth under the Convention and to no other matter.
 
 ##### <a id="7"></a>7  Inconsistency with State and Territory laws
 
@@ -175,15 +177,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The Minister may require a person who applies for a licence under this section to furnish to the Minister, or to another person specified by the Minister, such information as the Minister considers necessary.
 
-             (3)  Where a person applies for a licence under this section, the Minister shall grant the licence to him or her unless:
+             (3)  Where a person applies for a licence under this section, the Minister shall grant the licence to him unless:
 
-                     (a)  the applicant has failed to furnish any information that he or she has been required to furnish under the last preceding subsection;
+                     (a)  the applicant has failed to furnish any information that he has been required to furnish under the last preceding subsection;
 
                      (b)  the Minister is not satisfied that the applicant manufactures, or proposes to manufacture, the drug specified in the application at the premises so specified; or
 
                      (c)  the Minister is of the opinion that the grant of the licence would not be consistent with the obligations of the Commonwealth under the Convention.
 
-             (4)  The Minister may specify in the licence such conditions applicable to the licence as he or she determines.
+             (4)  The Minister may specify in the licence such conditions applicable to the licence as he determines.
 
              (5)  In this section, **_Minister_** means the Minister for Health.
 
@@ -211,19 +213,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the maximum quantity of the drug to which the permit relates that may be manufactured by the licensed manufacturer at the premises to which the permit relates during the period to which the permit relates; and
 
-                     (b)  the maximum quantity of the drug to which the permit relates that, in the opinion of the Secretary, having regard to the prevailing market conditions, it is necessary for the licensed manufacturer to have in his or her possession at any time during the period to which the permit relates for the normal conduct of business.
+                     (b)  the maximum quantity of the drug to which the permit relates that, in the opinion of the Secretary, having regard to the prevailing market conditions, it is necessary for the licensed manufacturer to have in his possession at any time during the period to which the permit relates for the normal conduct of business.
 
 ##### <a id="12"></a>12  Directions with respect to security of premises and handling of narcotic materials
 
              (1)  The CEO may, by notice in writing served on a licensed manufacturer:
 
-                     (a)  direct him or her to take specified measures for regulating and controlling:
+                     (a)  direct him to take specified measures for regulating and controlling:
 
                               (i)  the entry of persons or vehicles into, or the departure of persons or vehicles from, the licensed premises or a specified part of the licensed premises; or
 
                              (ii)  the entry of persons or vehicles into, or the departure of persons or vehicles from, a specified part of the licensed premises from or into another part of the licensed premises;
 
-                     (b)  direct him or her to take specified measures for preventing:
+                     (b)  direct him to take specified measures for preventing:
 
                               (i)  the entry of persons or vehicles into, or the departure of persons or vehicles from, the licensed premises; or
 
@@ -231,7 +233,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             otherwise than at specified places; or
 
-                     (c)  give directions to him or her with respect to the handling, otherwise than upon the licensed premises, of narcotic materials in his or her possession or control.
+                     (c)  give directions to him with respect to the handling, otherwise than upon the licensed premises, of narcotic materials in his possession or control.
 
              (2)  A direction under this section in relation to the handling of narcotic materials may be given in respect of narcotic materials generally, in respect of a narcotic material of a kind specified in the direction or in respect of such particular narcotic materials as are specified in the direction.
 
@@ -243,11 +245,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="13"></a>13  Directions with respect to manufacturing and labelling of drugs
 
-             (1)  The Secretary may, by notice in writing served on a licensed manufacturer, give directions to him or her with respect to:
+             (1)  The Secretary may, by notice in writing served on a licensed manufacturer, give directions to him with respect to:
 
                      (a)  operations connected with the manufacturing of drugs; or
 
-                     (b)  the labelling of drugs manufactured by him or her.
+                     (b)  the labelling of drugs manufactured by him.
 
              (2)  A direction under this section may be given in respect of the labelling of drugs generally or in respect of a drug of a kind specified in the direction.
 
@@ -255,7 +257,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="14"></a>14  Directions inconsistent with condition of licence
 
-                   Where a direction given to a licensed manufacturer under either of the last two preceding sections is inconsistent with a condition specified in his or her licence, the condition is, to the extent of the inconsistency, of no effect.
+                   Where a direction given to a licensed manufacturer under either of the last two preceding sections is inconsistent with a condition specified in his licence, the condition is, to the extent of the inconsistency, of no effect.
 
 ##### <a id="14A"></a>14A  Review of certain decisions by Administrative Appeals Tribunal
 
@@ -275,37 +277,37 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="15"></a>15  Manufacturing of drugs to be in accordance with licence
 
-             (1)  A person shall not manufacture a drug unless he or she is the holder of a licence granted under section 9 to manufacture that drug.
+             (1)  A person shall not manufacture a drug unless he is the holder of a licence granted under section 9 to manufacture that drug.
 
-             (2)  A licensed manufacturer shall not manufacture that drug to which his or her licence relates:
+             (2)  A licensed manufacturer shall not manufacture that drug to which his licence relates:
 
                      (a)  except at the premises specified in the licence;
 
                      (b)  except in accordance with such conditions, if any, as are specified in the licence; and
 
-                     (c)  except during a period in respect of which he or she has been granted a permit to manufacture the drug.
+                     (c)  except during a period in respect of which he has been granted a permit to manufacture the drug.
 
 ##### <a id="16"></a>16  Manufacturers to comply with permits
 
                    A licensed manufacturer shall not:
 
-                     (a)  during a period in respect of which he or she has been granted a permit, manufacture a quantity of the drug to which the permit relates in excess of the maximum quantity, if any, specified in the permit in pursuance of paragraph 11(2)(a); or
+                     (a)  during a period in respect of which he has been granted a permit, manufacture a quantity of the drug to which the permit relates in excess of the maximum quantity, if any, specified in the permit in pursuance of paragraph 11(2)(a); or
 
-                     (b)  have in his or her possession at any time during a period in respect of which he or she has been granted a permit a quantity of the drug to which the permit relates that is in excess of the maximum quantity, if any, specified in the permit in pursuance of paragraph 11(2)(b).
+                     (b)  have in his possession at any time during a period in respect of which he has been granted a permit a quantity of the drug to which the permit relates that is in excess of the maximum quantity, if any, specified in the permit in pursuance of paragraph 11(2)(b).
 
 ##### <a id="17"></a>17  Licensed manufacturers to comply with directions under section 12 and paragraph 13(1)(a)
 
-                   A licensed manufacturer shall comply with any direction given to him or her in pursuance of section 12 or paragraph 13(1)(a).
+                   A licensed manufacturer shall comply with any direction given to him in pursuance of section 12 or paragraph 13(1)(a).
 
 ##### <a id="18"></a>18  Labelling of drugs etc.
 
-                   A licensed manufacturer shall not supply to any person a drug or a narcotic preparation manufactured by him or her unless the drug or preparation is labelled in accordance with any directions applicable to the drug or preparation given to him or her in pursuance of section 13.
+                   A licensed manufacturer shall not supply to any person a drug or a narcotic preparation manufactured by him unless the drug or preparation is labelled in accordance with any directions applicable to the drug or preparation given to him in pursuance of section 13.
 
 ##### <a id="19"></a>19  Destruction etc. of drugs etc. by licensed manufacturers
 
              (1)  A licensed manufacturer shall not destroy any drug or narcotic preparation except with the consent in writing of the Secretary and except in accordance with any directions specified in the consent.
 
-             (2)  A licensed manufacturer shall not destroy or otherwise dispose of any by-product derived from the manufacture by him or her of a drug or narcotic preparation except with the consent in writing of the Secretary and except in accordance with any directions specified in the consent.
+             (2)  A licensed manufacturer shall not destroy or otherwise dispose of any by-product derived from the manufacture by him of a drug or narcotic preparation except with the consent in writing of the Secretary and except in accordance with any directions specified in the consent.
 
 ##### <a id="20"></a>20  Punishment of offences
 
@@ -343,7 +345,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the stocks of drugs and narcotic preparations from time to time in the possession or control of the person.
 
-             (2)  A person shall comply with a notice served on him or her in pursuance of the last preceding subsection.
+             (2)  A person shall comply with a notice served on him in pursuance of the last preceding subsection.
 
                     Penalty:  One thousand dollars.
 
@@ -353,7 +355,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="24"></a>24  Inspection of manufacturer’s premises etc.
 
-             (1)  A person appointed by the Minister for Health to be an authorized inspector may, at any reasonable time and on production of his or her instrument of appointment, enter the premises of any person who, in accordance with notice served on him or her under the last preceding section, is for the time being required to keep records and furnish returns and information with respect to any matter, being premises on which drugs are manufactured or the business of a wholesale dealer in drugs is carried on, and may:
+             (1)  A person appointed by the Minister for Health to be an authorized inspector may, at any reasonable time and on production of his instrument of appointment, enter the premises of any person who, in accordance with notice served on him under the last preceding section, is for the time being required to keep records and furnish returns and information with respect to any matter, being premises on which drugs are manufactured or the business of a wholesale dealer in drugs is carried on, and may:
 
                      (a)  examine, take stock of and take samples of any drug on the premises or any substance on the premises from which any drug could be manufactured or which is a by-product derived from the manufacture of a drug;
 
@@ -361,7 +363,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (c)  inspect any books, documents or other papers on the premises, and take extracts from, or make copies of, any such books, documents or other papers.
 
-             (2)  A person appointed by the CEO to be an authorized inspector may, at any reasonable time and on production of his or her instrument of appointment, enter any premises at which a licensed manufacturer is, under this Act, licensed to manufacture a drug for the purpose of inspecting the state of those premises or for the purpose of ascertaining what security measures are being taken with respect to any matter concerning which a direction may be given under section 12.
+             (2)  A person appointed by the CEO to be an authorized inspector may, at any reasonable time and on production of his instrument of appointment, enter any premises at which a licensed manufacturer is, under this Act, licensed to manufacture a drug for the purpose of inspecting the state of those premises or for the purpose of ascertaining what security measures are being taken with respect to any matter concerning which a direction may be given under section 12.
 
              (3)  A person is guilty of an offence if:
 
@@ -395,7 +397,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="25"></a>25  Delegation
 
-             (1)  The Minister for Health, the Minister for Industry, Technology and Commerce, or the Secretary may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to a person any of his or her powers and functions under this Act, other than this power of delegation.
+             (1)  The Minister for Health, the Minister for Industry, Technology and Commerce, or the Secretary may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to a person any of his powers and functions under this Act, other than this power of delegation.
 
              (2)  A power or function so delegated, when exercised or performed by the delegate shall, for the purposes of this Act, be deemed to have been exercised or performed by the Minister for Health, the Minister for Industry, Technology and Commerce, or the Secretary, as the case may be.
 
@@ -407,13 +409,14 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  by serving the notice personally on the person or, in the case of a body corporate, on the manager, secretary or other executive officer of the body corporate;
 
-                     (b)  by sending the notice by post to the person at his or her last known place of abode or, in the case of a body corporate having a registered office, at the registered office of the body corporate; or
+                     (b)  by sending the notice by post to the person at his last known place of abode or, in the case of a body corporate having a registered office, at the registered office of the body corporate; or
 
                      (c)  in any other prescribed manner.
 
 ##### <a id="27"></a>27   Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or that are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular prescribing penalties not exceeding Five hundred dollars for offences against the regulations.
+
 
 **The Schedules**
 
@@ -1383,7 +1386,7 @@ ISOMETHADONE (6-dimethylamino-5-methyl-4,4-diphenyl-3-hexanone)
 
 KETOBEMIDONE (4-_meta_ -hydroxyphenyl-1-methyl-4-propionylpiperidine) 
 
-LEVOMETHORPHAN <span style="font-size:10.0pt; font-family:Symbol">*</span>   ((—)-3-methoxy-N-methylmorphinan)
+LEVOMETHORPHAN <span style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol">*</span>   ((—)-3-methoxy-N-methylmorphinan)
 
 LEVOMORAMIDE ((—)-4-\[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine) 
 
@@ -1535,7 +1538,8 @@ KETOBEMIDONE (4-_meta_-hydroxyphenyl-1-methyl-4-propionylpiperidine); and
 
 The salts of the drugs listed in this Schedule whenever the formation of such salts is possible.
 
-# Second Schedule—Communication of the Secretary-General of the United Nations dated 11 December,  1964
+
+# Second Schedule—Communication of the Secretary-General of the United Nations dated 11 December, 1964
 
 _Section 5_
 
@@ -1573,7 +1577,9 @@ _Schedule III_
 
 Of the substances listed in section (1), dextropropoxyphene should be deleted.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 4pt; MARGIN-LEFT: 155.95pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 155.95pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 COMMUNICATION OF THE SECRETARY-GENERAL OF THE UNITED NATIONS DATED 2 FEBRUARY, 1966 
 
@@ -1585,7 +1591,9 @@ This amendment was adopted by the Commission on Narcotic Drugs of the Economic a
 
 The attention of Governments is drawn to article 3, paragraph 7, of the Convention under which such decision of the Commission shall become effective with respect to each Party on the date of its receipt of such communication, and the Parties shall thereupon take such action as may be required under this Convention.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 4pt; MARGIN-LEFT: 155.95pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 155.95pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 COMMUNICATION OF THE SECRETARY-GENERAL OF THE UNITED NATIONS DATED 19 OCTOBER, 1966 
 
@@ -1595,7 +1603,9 @@ The decision of the Commission was taken pursuant to the recommendations of the 
 
 The attention of governments is drawn to Article 3, paragraph 7, of the 1961 Convention by which such decision “shall become effective with respect to each Party on the date of its receipt of such communication, and the Parties shall thereupon take such action as may be required under this Convention”.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 4pt; MARGIN-LEFT: 155.95pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 155.95pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 COMMUNICATION OF THE SECRETARY-GENERAL OF THE UNITED NATIONS DATED
 
@@ -1612,6 +1622,7 @@ _List of preparations included in Schedule III_
 3.         In section 3 delete the words “Solid dose”.
 
 The Secretary-General has the honour to invite attention to Article 3, paragraph 7 of the 1961 Convention whereby the above decisions would become effective with respect to each Party on the date of its receipt of such communication, and the Parties would thereupon take such action as might be required under the Convention. 
+
 
 # Notes to the _Narcotic Drugs Act 1967_
 
@@ -1639,11 +1650,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1653,210 +1666,196 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Narcotic Drugs Act 1967</div>
-  </td>
-  <td>
-    <div>53, 1967</div>
-  </td>
-  <td>
-    <div>30 May 1967</div>
-  </td>
-  <td>
-    <div>1 Jan 1968 ( <i>see Gazette</i>1967, p. 7053)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Narcotic Drugs Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>176, 1976</div>
-  </td>
-  <td>
-    <div>13 Dec 1976</div>
-  </td>
-  <td>
-    <div>1 Feb 1977 ( <i>see Gazette</i>1977, No. S8)</div>
-  </td>
-  <td>
-    <div>Ss. 18 and 19</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXVII (s. 280): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 280(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 13 Dec 1984 ( <i>see Gazette</i>1984, No. S519) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 2(32), 6(1) and 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985</div>
-  </td>
-  <td>
-    <div>39, 1985</div>
-  </td>
-  <td>
-    <div>29 May 1985</div>
-  </td>
-  <td>
-    <div>10 June 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S194)</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>10, 1986</div>
-  </td>
-  <td>
-    <div>13 May 1986</div>
-  </td>
-  <td>
-    <div>13 May 1986</div>
-  </td>
-  <td>
-    <div>Ss. 2(2) and 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs, Excise and Bounty Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>85, 1995</div>
-  </td>
-  <td>
-    <div>1July 1995</div>
-  </td>
-  <td>
-    <div>S. 18 and Schedule 9 (items 81–84): Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 18</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>111, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Appeals Tribunal Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>38, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 228): 16 May 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 390–392): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Narcotic Drugs Act 1967</div>
+    </td>
+    <td>
+      <div>53, 1967</div>
+    </td>
+    <td>
+      <div>30 May 1967</div>
+    </td>
+    <td>
+      <div>1 Jan 1968 ( <i>see Gazette</i>1967, p. 7053)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Narcotic Drugs Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>176, 1976</div>
+    </td>
+    <td>
+      <div>13 Dec 1976</div>
+    </td>
+    <td>
+      <div>1 Feb 1977 ( <i>see Gazette</i>1977, No. S8)</div>
+    </td>
+    <td>
+      <div>Ss. 18 and 19</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXVII (s. 280): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 280(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 13 Dec 1984 ( <i>see Gazette</i>1984, No. S519) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>Ss. 2(32), 6(1) and 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985</div>
+    </td>
+    <td>
+      <div>39, 1985</div>
+    </td>
+    <td>
+      <div>29 May 1985</div>
+    </td>
+    <td>
+      <div>10 June 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S194)</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986</div>
+    </td>
+    <td>
+      <div>10, 1986</div>
+    </td>
+    <td>
+      <div>13 May 1986</div>
+    </td>
+    <td>
+      <div>13 May 1986</div>
+    </td>
+    <td>
+      <div>Ss. 2(2) and 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Customs, Excise and Bounty Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>85, 1995</div>
+    </td>
+    <td>
+      <div>1July 1995</div>
+    </td>
+    <td>
+      <div>S. 18 and Schedule 9 (items 81–84): Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 18</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>111, 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Appeals Tribunal Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>38, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 228): 16 May 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Narcotic Drugs Act 1967_ was amended by Part LXXVII (section 280) only of the _Statute Law_(_Miscellaneous Amendments_)_Act_(_No. 2_)_1982_, subsection 2(1) of which provides as follows:
 
@@ -1871,6 +1870,7 @@ _(c)_     The _Narcotic Drugs Act 1967_ was amended by section 3 only 
 _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3), (4), (5) and (6), this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -1895,270 +1895,241 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 39, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 165, 1984; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 80, 1982; No. 165, 1984; No. 65, 1985; No. 85, 1995; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 165, 1984; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 85, 1995; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 165, 1984; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984; No. 85, 1995; No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 165, 1984; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 80, 1982; No. 65, 1985; No. 10, 1986; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 165, 1984; No. 111, 2001; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 176, 1976; No. 80, 1982; No. 65, 1985; No. 10, 1986; No. 85, 1995; No. 111, 2001; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 176, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 1982; No. 165, 1984; Nos. 39 and 65, 1985; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 39, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 85, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 165, 1984; No. 85, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 80, 1982; No. 165, 1984; No. 65, 1985; No. 85, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9, 10</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 165, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>rs. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 85, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 165, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 165, 1984; No. 85, 1995; No. 38, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15, 16</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>rs. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 165, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 80, 1982; No. 65, 1985; No. 10, 1986; No. 85, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 165, 1984; No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 176, 1976; No. 80, 1982; No. 65, 1985; No. 10, 1986; No. 85, 1995; No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rs. No. 176, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 80, 1982; No. 165, 1984; Nos. 39 and 65, 1985</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2172,11 +2143,10 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
+
  
 * * *
 
 <div id="ftn1">
 
-<span style="font-family:Symbol">*</span>   Dextromethorphan ((+)-3-methoxy-N-methylmorphinan) and dextrorphan ((+)-3-Hydroxy-N-methylmorphinan) are specifically excluded from this Schedule.
-
-</div>
+<span style="FONT-FAMILY: Symbol">*</span>   Dextromethorphan ((+)-3-methoxy-N-methylmorphinan) and dextrorphan ((+)-3-Hydroxy-N-methylmorphinan) are specifically excluded from this Schedule.</div>
