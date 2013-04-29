@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00034/Html/0fc59462-3d94-4e64-bd7d-f1af4ba02033_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00689/Html/50d7f4c6-9b0c-423c-8273-ecac183927e7_files/image001.gif)
 
 # Australian Hearing Services Act 1991
 
 **Act No. 169 of 1991 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 29 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -18,179 +18,179 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                    1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                        1
 
-[6](#6).            Act to bind Crown
+[6](#6).            Act to bind Crown                                                                               3
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                        3
 
 **Part 2—Establishment, functions and powers of authority**
 
-[7](#7).            Establishment of Authority
+[7](#7).            Establishment of Authority                                                                  4
 
-[8](#8).            Functions
+[8](#8).            Functions                                                                                             4
 
-[9](#9).            Powers
+[9](#9).            Powers                                                                                                 7
 
-[9A](#9A).         General criteria for administration of this Act
+[9A](#9A).         General criteria for administration of this Act                                      8
 
-[12](#12).          Minister may give directions
+[12](#12).          Minister may give directions                                                                8
 
 **Part 3—Board of the authority** 
 
     **Division 1—Constitution of the Board**
 
-[13](#13).          The Board
+[13](#13).          The Board                                                                                            9
 
-[14](#14).          Functions of the Board
+[14](#14).          Functions of the Board                                                                         9
 
-[15](#15).          Constitution of the Board
+[15](#15).          Constitution of the Board                                                                     9
 
-[16](#16).          Appointment of Directors
+[16](#16).          Appointment of Directors                                                                    9
 
-[16A](#16A).       Termination of appointment of Directors for underperformance
+[16A](#16A).       Termination of appointment of Directors for underperformance        10
 
     **Division 2—Meetings of the Board**
 
-[17](#17).          Convening of meetings
+[17](#17).          Convening of meetings                                                                      11
 
-[18](#18).          Presiding at meetings
+[18](#18).          Presiding at meetings                                                                         11
 
-[19](#19).          Quorum
+[19](#19).          Quorum                                                                                              11
 
-[20](#20).          Voting at meetings
+[20](#20).          Voting at meetings                                                                             11
 
-[21](#21).          Conduct of meetings
+[21](#21).          Conduct of meetings                                                                          11
 
-[22](#22).          Resolutions without meetings
+[22](#22).          Resolutions without meetings                                                            12
 
-[23](#23).          Records relating to meetings
+[23](#23).          Records relating to meetings                                                              12
 
     **Division 3—Provisions relating to appointed Directors**
 
-[25](#25).          Terms of office
+[25](#25).          Terms of office                                                                                   13
 
-[26](#26).          Terms and conditions of appointment not provided for by Act
+[26](#26).          Terms and conditions of appointment not provided for by Act          13
 
-[27](#27).          Remuneration and allowances
+[27](#27).          Remuneration and allowances                                                            13
 
-[28](#28).          Leave of absence
+[28](#28).          Leave of absence                                                                                13
 
-[29](#29).          Resignation
+[29](#29).          Resignation                                                                                        14
 
-[30](#30).          Outside employment
+[30](#30).          Outside employment                                                                          14
 
-[31](#31).          Termination of appointment
+[31](#31).          Termination of appointment                                                               14
 
-[32](#32).          Acting appointments
+[32](#32).          Acting appointments                                                                          15
 
     **Division 4—Committees of the Board**
 
-[33](#33).          Establishment of committees
+[33](#33).          Establishment of committees                                                              16
 
-[34](#34).          Constitution of committees
+[34](#34).          Constitution of committees                                                                 16
 
-[35](#35).          Procedure of committees
+[35](#35).          Procedure of committees                                                                    16
 
 **Part 4—Operation of authority**
 
-[36](#36).          Corporate plan
+[36](#36).          Corporate plan                                                                                    17
 
-[37](#37).          Corporate plan etc  to be given to Minister
+[37](#37).          Corporate plan etc  to be given to Minister                                         17
 
-[38](#38).          Financial targets and performance information
+[38](#38).          Financial targets and performance information                                   18
 
-[40](#40).          Minister may direct variation of financial plan
+[40](#40).          Minister may direct variation of financial plan                                   18
 
 **Part 5—Managing Director, staff and consultants**
 
-[41](#41).          Managing Director
+[41](#41).          Managing Director                                                                             19
 
-[42](#42).          Duties of Managing Director
+[42](#42).          Duties of Managing Director                                                             19
 
-[43](#43).          Managing Director not to engage in other work
+[43](#43).          Managing Director not to engage in other work                                 19
 
-[44](#44).          Terms and conditions of service of Managing Director
+[44](#44).          Terms and conditions of service of Managing Director                     19
 
-[45](#45).          Resignation
+[45](#45).          Resignation                                                                                        19
 
-[46](#46).          Termination of appointment
+[46](#46).          Termination of appointment                                                               20
 
-[47](#47).          Leave of absence
+[47](#47).          Leave of absence                                                                                20
 
-[48](#48).          Acting Managing Director
+[48](#48).          Acting Managing Director                                                                 20
 
-[49](#49).          Staff of Authority
+[49](#49).          Staff of Authority                                                                               21
 
-[50](#50).          Consultants
+[50](#50).          Consultants                                                                                        22
 
 **Part 6—Finance**
 
-[51](#51).          Money to be appropriated
+[51](#51).          Money to be appropriated                                                                  23
 
-[52](#52).          Money of Authority
+[52](#52).          Money of Authority                                                                           23
 
-[53](#53).          Taxation
+[53](#53).          Taxation                                                                                             24
 
-[54](#54).          Borrowing from Commonwealth
+[54](#54).          Borrowing from Commonwealth                                                       24
 
-[55](#55).          Borrowing from persons other than the Commonwealth
+[55](#55).          Borrowing from persons other than the Commonwealth                   24
 
-[56](#56).          Guarantee of borrowings by Authority
+[56](#56).          Guarantee of borrowings by Authority                                              24
 
-[57](#57).          Authority may give security
+[57](#57).          Authority may give security                                                               25
 
-[60](#60).          Trust money
+[60](#60).          Trust money                                                                                       25
 
-[62](#62).          Charges
+[62](#62).          Charges                                                                                              26
 
-[63](#63).          Contracts
+[63](#63).          Contracts                                                                                            26
 
-[63A](#63A).       Payment of amounts to the Commonwealth
+[63A](#63A).       Payment of amounts to the Commonwealth                                       27
 
-[63B](#63B).       Delegation by Finance Minister
+[63B](#63B).       Delegation by Finance Minister                                                         27
 
 **Part 7—Miscellaneous**
 
-[64](#64).          Internal review of reviewable decisions
+[64](#64).          Internal review of reviewable decisions                                             28
 
-[65](#65).          Review of decisions by Administrative Appeals Tribunal
+[65](#65).          Review of decisions by Administrative Appeals Tribunal                 29
 
-[66](#66).          Person not to use protected names or protected symbols
+[66](#66).          Person not to use protected names or protected symbols                   29
 
-[67](#67).          Confidential information
+[67](#67).          Confidential information                                                                    31
 
-[68](#68).          Arrangements with other Commonwealth Departments, States and Territories
+[68](#68).          Arrangements with other Commonwealth Departments, States and Territories        33
 
-[69](#69).          Delegation by Minister
+[69](#69).          Delegation by Minister                                                                       34
 
-[70](#70).          Delegation by Authority
+[70](#70).          Delegation by Authority                                                                     34
 
-[72](#72).          Transfers of certain Commonwealth assets to Authority
+[72](#72).          Transfers of certain Commonwealth assets to Authority                    34
 
-[73](#73).          Statutory transfer of land etc  to Authority
+[73](#73).          Statutory transfer of land etc  to Authority                                         34
 
-[74](#74).          Money paid in advance to the Commonwealth
+[74](#74).          Money paid in advance to the Commonwealth                                   35
 
-[75](#75).          Rights etc  in respect of services and facilities formerly provided by Department
+[75](#75).          Rights etc  in respect of services and facilities formerly provided by Department    36
 
-[76](#76).          Substitution of Authority for Commonwealth in contracts etc 
+[76](#76).          Substitution of Authority for Commonwealth in contracts etc           36
 
-[77](#77).          Regulations
+[77](#77).          Regulations                                                                                        37
 
 **Part 8—Repeal, consequential amendment and transitional provision**
 
-[78](#78).          Repeal of the _Acoustic Laboratories Act 1948_
+[78](#78).          Repeal of the _Acoustic Laboratories Act 1948_                                   38
 
-[79](#79).          Amendment of the _National Health Act 1953_
+[79](#79).          Amendment of the _National Health Act 1953_                                    38
 
-[80](#80).          Acoustic Laboratories Regulations to continue in force
+[80](#80).          Acoustic Laboratories Regulations to continue in force                     38
 
 **Schedule—Official symbol of the National Acoustic Laboratories** 
 
@@ -350,7 +350,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 The determination has effect accordingly.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (5)  The Minister may, by writing, determine that a specified hearing service is a **_declared hearing service_** for the purposes of the application of paragraph (1)(ab) to:
 
@@ -360,7 +360,7 @@ Note:          For specification by class, see subsection 13(3
 
 The determination has effect accordingly.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (6)  The Minister may, by writing, determine that a specified hearing service is a **_declared hearing service_** for the purposes of the application of paragraph (1)(ac) to:
 
@@ -370,11 +370,11 @@ Note:          For specification by class, see subsection 13(3
 
 The determination has effect accordingly.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (7)  The Minister may, by writing, determine that a specified person is a designated person for the purposes of paragraph (1)(ad). The determination has effect accordingly.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (8)  The Minister may, by writing, determine that a specified hearing service is a **_declared hearing service_** for the purposes of the application of paragraph (1)(ad) to:
 
@@ -384,7 +384,7 @@ Note:          For specification by class, see subsection 13(3
 
 The determination has effect accordingly.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (9)  A determination under subsection (4), (5), (6), (7) or (8) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -610,15 +610,23 @@ Note:          For specification by class, see subsection 13(3
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as an appointed Director (other than the Chairperson):
 
                      (a)  during a vacancy in the office of the Director, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any reason (including the reason that the Director is acting as the Chairperson), unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  A person appointed to act during a vacancy under paragraph (1)(a) or (2)(a) must not continue so to act for more than 12 months.
+
+             (4)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ### Division 4—Committees of the Board
 
@@ -776,9 +784,9 @@ Note:          For rules that apply to acting appointments, se
 
                      (a)  during a vacancy in the office of Managing Director, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
              (2)  A person, other than a member of the staff, who is acting as Managing Director is to be paid the same remuneration and allowances as are payable to the Managing Director.
 
@@ -789,6 +797,16 @@ Note:          For rules that apply to acting appointments, se
                      (b)  so much of any allowance payable to the Managing Director as exceeds the corresponding allowance payable to the person; and
 
                      (c)  if an allowance is payable to the Managing Director but is not payable to the person—that allowance.
+
+             (4)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="49"></a>49  Staff of Authority
 
@@ -1288,13 +1306,13 @@ For access to the wording of the amendments made by this section, _see_ Act No.�
 
 _Section 66_
 
-![](http://www.comlaw.gov.au/Details/C2012C00034/Html/0fc59462-3d94-4e64-bd7d-f1af4ba02033_files/image002.jpg)
+![](http://www.comlaw.gov.au/Details/C2011C00689/Html/50d7f4c6-9b0c-423c-8273-ecac183927e7_files/image002.jpg)
 
 # Schedule 2—Official symbol of Australian Hearing Services 
 
 _Section 66_
 
-![](http://www.comlaw.gov.au/Details/C2012C00034/Html/0fc59462-3d94-4e64-bd7d-f1af4ba02033_files/image003.jpg)
+![](http://www.comlaw.gov.au/Details/C2011C00689/Html/50d7f4c6-9b0c-423c-8273-ecac183927e7_files/image003.jpg)
 
 # Notes to the _Australian Hearing Services Act 1991_
 
@@ -1402,7 +1420,7 @@ of Assent</div>
   <td>
     <div>Ss. 38, 39(a), 41, 43, 44(d) and 49: 12 May 1954 ( <i>see</i>s. 2(2) and <i>Gazette</i>1954, pp. 1055, 1179) 
 S. 40: 1 July 1992 
-Ss. 46 and 47: 18 Dec 1990 
+Ss. 46 and 47: 18 Dec 1990 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1458,7 +1476,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Part 2 (ss. 4–8): 1 July 1994 <i>(c)</i> 
-Part 3 (ss. 9–17): 1 Jan 1994 
+Part 3 (ss. 9–17): 1 Jan 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1528,7 +1546,7 @@ Schedule 1 (Part 2): 1 July 1997 <i>(f)</i></div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 823–837): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
+    <div>Schedule 2 (items 823–837): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1545,7 +1563,7 @@ Schedule 1 (Part 2): 1 July 1997 <i>(f)</i></div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 174–180): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    <div>Schedule 1 (items 174–180): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1562,7 +1580,7 @@ Schedule 1 (Part 2): 1 July 1997 <i>(f)</i></div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 88, 89): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(i)</i></div>
+    <div>Schedule 10 (items 88, 89): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1684,7 +1702,7 @@ Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 156–162) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 156–162) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1935,14 +1953,6 @@ _(k)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
 </tr>
 <tr>
   <td>
-    <div>Notes to s. 8(4)–(8)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9</div>
   </td>
   <td>
@@ -2106,15 +2116,7 @@ _(k)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 82, 1997; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 32(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 82, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2266,15 +2268,7 @@ _(k)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 82, 1997; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 48(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 82, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2478,13 +2472,55 @@ _(k)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 156  Subsections 8(4), (5), (6), (7) and (8) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+## 157  At the end of subsections 32(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 158  Subsections 32(3) and (4)
+
+Repeal the subsections.
+
+## 159  Paragraph 48(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 160  Subsection 48(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 161  At the end of subsection 48(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 162  Subsection 48(4)
+
+Repeal the subsection.
+
+As at 29 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Hearing Services and AGHS Reform Act 1997 (No. 82, 1997)_
 
-## Schedule 1  
+## Schedule 1  
 
 ## Part 2
 
@@ -2494,13 +2530,13 @@ _Note 2:    This item alters the name of an office. Section 25B of the A
 
 ## 92  Transitional—Authority may continue to provide hearing services to eligible persons for up to 6 months
 
-(1)       The Minister may, by writing, determine that, despite the eligible person amendments made by this Schedule, the _Hearing Services Act 1991_ continues to apply, until the specified time, in relation to the provision by the Authority of hearing services to specified eligible persons in specified circumstances, as if those amendments had not been made.
+(1)       The Minister may, by writing, determine that, despite the eligible person amendments made by this Schedule, the Hearing Services Act 1991 continues to apply, until the specified time, in relation to the provision by the Authority of hearing services to specified eligible persons in specified circumstances, as if those amendments had not been made.
 
 _Note:       For specification by class, see subsection 46(2) of the Acts Interpretation Act 1901._
 
 (2)       The time specified in the determination must not be later than 31  December 1997.
 
-(3)       A determination under subitem (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+(3)       A determination under subitem (1) is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
 
 (4)       In this item:
 
@@ -2516,11 +2552,11 @@ _Note:       For specification by class, see subsection 46(2) of the
 
 ## 93  Transitional—amendment of section 24 of the Hearing Services Act 1991
 
-            The amendments of section 24 of the _Hearing Services Act 1991_ made by this Schedule have no effect if that section is repealed on or before 1 July 1997.
+            The amendments of section 24 of the Hearing Services Act 1991 made by this Schedule have no effect if that section is repealed on or before 1 July 1997.
 
 ## 94  Transitional—transfer of certain Authority liabilities to the Commonwealth
 
-(1)       This item applies to a liability of the Authority that was incurred before 1 July 1997 under an arrangement under paragraph 8(1)(d) of the _Hearing Services Act 1991_.
+(1)       This item applies to a liability of the Authority that was incurred before 1 July 1997 under an arrangement under paragraph 8(1)(d) of the Hearing Services Act 1991.
 
 (2)       The Minister may, by writing, make any or all of the following declarations:
 
@@ -2656,6 +2692,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
