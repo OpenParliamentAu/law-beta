@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00602/Html/fd3806f8-5fd8-4e1f-8b30-26349e57bfcd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00634/Html/68687251-3aea-40a2-94df-76957046fb10_files/image001.gif)
 
 # Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011
 
 **Act No. 79 of 2011 as amended**
 
-This compilation was prepared on 3 August 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 5 August 2011
+ taking into account amendments up to Act No. 91 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -322,19 +322,11 @@ Omit “the payment of enrolment advances under section 219RA”, substitute �
 
 Repeal the paragraph.
 
-## 5  Paragraph 66(2)(cb)
-
-Omit “payments under section 219Q or subsection 219QA(2) in respect of fee reduction or payments of enrolment advances under section 219RA”, substitute “various payments”.
-
-## 6  Paragraph 66(2)(cc)
-
-Omit “payments under section 219Q or subsection 219QA(2) in respect of fee reduction or payments of enrolment advances under section 219RA”, substitute “various payments”.
-
 ## 7  Subsection 82(2)
 
 After “service”, insert “(the **_first service_**)”.
 
-## 8  Paragraphs 82(2)(a) and (b)
+## 8  Paragraphs 82(2)(a) to (b)
 
 Repeal the paragraphs, substitute:
 
@@ -428,7 +420,7 @@ one or more child care service payments that are to be made to the service (the 
 
 Note:          For **_child care service payment_** see subsection 3(1).
 
-## 24  After subsection 219RA(1)
+## 24  After subsection 219RA(1)
 
 Insert:
 
@@ -566,7 +558,7 @@ Repeal the subitem, substitute:
 
 <h7 class="ActHead7">Part 2—Technical amendment</h7>
 
-<h9 class="ActHead9" style="page-break-after:avoid">Family Assistance Legislation Amendment (Child Care) Act 2010</h9>
+<h9 class="ActHead9">Family Assistance Legislation Amendment (Child Care) Act 2010</h9>
 
 ## 35  Item 5 of Schedule 5
 
@@ -965,6 +957,23 @@ of Assent</div>
 </tr>
 <tr>
   <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 14): 26 July 2011 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Human Services Legislation Amendment Act 2011</div>
   </td>
   <td>
@@ -975,6 +984,23 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 4 (item 658): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1075,6 +1101,62 @@ _(a)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment A
   </td>
 </tr></table>
 
+_(b)_ Subsection 2(1) (item 3) of the _Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 8 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr></table>
+
 ## Table of Amendments
 
 <table>
@@ -1104,6 +1186,30 @@ _(a)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment A
   </td>
   <td>
     <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Items 5, 6</div>
+  </td>
+  <td>
+    <div>rep. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to item 8</div>
+  </td>
+  <td>
+    <div>am. No. 91, 2011</div>
   </td>
 </tr></table>
 
