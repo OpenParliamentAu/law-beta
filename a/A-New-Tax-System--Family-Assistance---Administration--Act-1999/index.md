@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 27 May 2012
+This compilation was prepared on 26 May 2012
  taking into account amendments up to Act No. 50 of 2012
 
 The text of any of those amendments not in force
@@ -211,12 +211,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
         **Subdivision E—Payment of family tax benefit advance**
 
 [35E](#35E).        Payment of advance
-
-    **Division 2A—Schoolkids bonus**
-
-[35F](#35F).        Entitlement to schoolkids bonus
-
-[35G](#35G).       Payment of schoolkids bonus
 
     **Division 3—Baby bonus and maternity immunisation allowance**
 
@@ -520,7 +514,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61A](#61A).       Variation where failure to notify that the service has ceased to provide care to child
 
-        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6**
+        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of  Part 6**
 
 [62](#62).          Variation where failure to provide information relevant to conditional eligibility etc 
 
@@ -642,10 +636,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [65H](#65H).       Payment of back to school bonus and single income family bonus
 
-    **Division 4CA—ETR payment**
-
-[65HA](#65HA).    Payment of ETR payment
-
     **Division 4D—Clean energy advance**
 
 [65J](#65J).        Payment of clean energy advance
@@ -757,8 +747,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [71K](#71K).       Debts arising in respect of back to school bonus or single income family bonus
 
 [71L](#71L).        Debts arising in respect of clean energy advance
-
-[71M](#71M).      Debts arising in respect of ETR payment
 
 [73](#73).          Debts arising from AAT stay orders
 
@@ -2307,7 +2295,7 @@ the Secretary must determine that the claimant is entitled to be paid family tax
 
 the Secretary must determine that the claimant is entitled to be paid the family tax benefit.
 
-##### <a id="19"></a>19  Determination that no entitlement
+##### <a id="19"></a>19  Determination that no entitlement
 
                    If the Secretary is not satisfied as mentioned in section 16, 17 or 18, the Secretary must determine:
 
@@ -2389,7 +2377,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
 
 where:
 
@@ -2443,7 +2431,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
 
 where:
 
@@ -4194,24 +4182,6 @@ Definitions
 
              (2)  This section is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
 
-### Division 2A—Schoolkids bonus
-
-##### <a id="35F"></a>35F  Entitlement to schoolkids bonus
-
-                   If an individual is eligible under Division 1A of Part 3 of the Family Assistance Act for schoolkids bonus on a bonus test day, the individual is entitled to schoolkids bonus on the bonus test day.
-
-##### <a id="35G"></a>35G  Payment of schoolkids bonus
-
-             (1)  If an individual is entitled to schoolkids bonus on a bonus test day, the Secretary must pay the payment to the individual in a single lump sum:
-
-                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
-
-                     (b)  in such manner as the Secretary considers appropriate.
-
-Note:          The individual does not have to make a claim for the payment.
-
-             (2)  If, on the bonus test day, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3), the Secretary must not pay the schoolkids bonus to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that bonus test day.
-
 ### Division 3—Baby bonus and maternity immunisation allowance
 
 ##### <a id="36"></a>36  Need for a claim
@@ -4789,7 +4759,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -6299,7 +6269,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
 
 where:
 
@@ -6353,7 +6323,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
 
 where:
 
@@ -8801,20 +8771,6 @@ Note:          The individual does not have to make a claim fo
 
 Note:          The individual does not have to make a claim for the bonus.
 
-### Division 4CA—ETR payment
-
-##### <a id="65HA"></a>65HA  Payment of ETR payment
-
-             (1)  If an individual is entitled to an ETR payment, the Secretary must pay the payment to the individual in a single lump sum:
-
-                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
-
-                     (b)  in such manner as the Secretary considers appropriate.
-
-Note:          The individual does not have to make a claim for the payment.
-
-             (2)  If, on 8 May 2012, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3), the Secretary must not pay the ETR payment to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
-
 ### Division 4D—Clean energy advance
 
 ##### <a id="65J"></a>65J  Payment of clean energy advance
@@ -9353,8 +9309,6 @@ the Secretary must vary the determination to undo the effect mentioned in subsec
 
                      (b)  family tax benefit advances;
 
-                   (ba)  schoolkids bonus;
-
                      (c)  baby bonus;
 
                      (d)  maternity immunisation allowance;
@@ -9379,9 +9333,7 @@ the Secretary must vary the determination to undo the effect mentioned in subsec
 
                       (i)  back to school bonus or single income family bonus;
 
-                      (j)  clean energy advance;
-
-                     (k)  ETR payment.
+                      (j)  clean energy advance.
 
              (2)  Subsection (1) has effect subject to:
 
@@ -9489,7 +9441,7 @@ Step 2.   Subtract from the step 1 amount the total amount withdrawn from th
 
 ##### <a id="70"></a>70  Debts due to the Commonwealth
 
-                   If an amount has been paid by way of family assistance, one‑off payment to families, a payment under section 219Q, subsection 219QA(2), section 219QC or subsection 219QD(2), a payment of an enrolment advance under section 219RA, a payment under section 219RD, economic security strategy payment to families, back to school bonus, single income family bonus, a clean energy advance or ETR payment, the amount is a debt due to the Commonwealth only to the extent to which a provision of:
+                   If an amount has been paid by way of family assistance, one‑off payment to families, a payment under section 219Q, subsection 219QA(2), section 219QC or subsection 219QD(2), a payment of an enrolment advance under section 219RA, a payment under section 219RD, economic security strategy payment to families, back to school bonus, single income family bonus or a clean energy advance, the amount is a debt due to the Commonwealth only to the extent to which a provision of:
 
                      (a)  this Act; or
 
@@ -9503,7 +9455,7 @@ No entitlement to amount
 
              (1)  If:
 
-                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus, maternity immunisation allowance, single income family supplement or schoolkids bonus (the **_assistance_**) in respect of a period or event; and
+                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus, maternity immunisation allowance or single income family supplement (the **_assistance_**) in respect of a period or event; and
 
                      (b)  the person was not entitled to the assistance in respect of that period or event;
 
@@ -10233,60 +10185,6 @@ Situation in which part of amount is a debt
 
 the amount by which the advance would have been reduced is a debt due to the Commonwealth by the individual.
 
-##### <a id="71M"></a>71M  Debts arising in respect of ETR payment
-
-             (1)  This section applies in relation to an individual who has been paid an ETR payment.
-
-             (2)  For the purposes of this section, each of the following is a **_relevant determination_** in relation to the individual:
-
-                     (a)  if the ETR payment was made because, at that time, subsection 102A(1) of the Family Assistance Act applied to the individual—the determination referred to in paragraph 102A(1)(a) of that Act;
-
-                     (b)  if the ETR payment was made because, at that time, subsection 102A(2) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 102A(2)(a), (b), (c) and (e) of the Family Assistance Act was paid;
-
-                     (c)  if the ETR payment was made because, at that time, subsection 102A(3) of the Family Assistance Act applied to the individual—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
-
-                     (d)  if the ETR payment was made because, at that time, subsection 102A(4) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied:
-
-                              (i)  paragraphs 102A(4)(a), (c), (d) and (f) of the Family Assistance Act was paid; or
-
-                             (ii)  paragraphs 102A(4)(b), (c), (d) and (f) of the Family Assistance Act was paid, if that instalment was paid to the individual;
-
-                     (e)  if the ETR payment was made because, at that time, subsection 102D(1) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 102D(1)(a), (b) and (c) of the Family Assistance Act was paid;
-
-                      (f)  if the ETR payment was made because, at that time, subsection 102D(2) of the Family Assistance Act applied to the individual—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
-
-                     (g)  if the ETR payment was made because, at that time, subsection 102D(3) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied:
-
-                              (i)  paragraphs 102D(3)(a), (c) and (d) of the Family Assistance Act was paid; or
-
-                             (ii)  paragraphs 102D(3)(b), (c) and (d) of the Family Assistance Act was paid, if that instalment was paid to the individual;
-
-                     (h)  if the ETR payment was made because, at that time, subsection 102F(1) of the Family Assistance Act applied to the individual—the determination referred to in paragraph 102F(1)(a) of that Act.
-
-Situation in which whole amount is a debt
-
-             (3)  If:
-
-                     (a)  after the ETR payment was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to 8 May 2012, is or was (however described) changed, revoked, set aside or superseded by another determination; and
-
-                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
-
-                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the ETR payment was paid, the ETR payment would not have been paid;
-
-the amount of the ETR payment is a debt due to the Commonwealth by the individual.
-
-Situation in which part of amount is a debt
-
-             (4)  If:
-
-                     (a)  after the ETR payment was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to 8 May 2012, is or was (however described) changed, revoked, set aside or superseded by another determination; and
-
-                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
-
-                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the ETR payment was paid, the amount of the ETR payment would have been reduced;
-
-the amount by which the ETR payment would have been reduced is a debt due to the Commonwealth by the individual.
-
 ##### <a id="73"></a>73  Debts arising from AAT stay orders
 
                    If:
@@ -10303,7 +10201,7 @@ the difference between the amount that was in fact paid to the person and the am
 
                    If:
 
-                     (a)  an amount of family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment is paid by cheque; and
+                     (a)  an amount of family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus or clean energy advance is paid by cheque; and
 
                      (b)  a person other than the payee obtains possession of the cheque from the payee; and
 
@@ -10589,7 +10487,7 @@ Note:       For **_child care service payment_** see subsection 3(1)
 
                     <a name="debt"></a>**_debt_** means:
 
-                     (a)  a debt due to the Commonwealth under section 71, 71A, 71B, 71C, 71CAA, 71CAB, 71CA, 71CB, 71CAC, 71D, 71E, 71G, 71GA, 71GB, 71H, 71I, 71J, 71K, 71L, 71M, 73, 74, 76, 77, 78 or 80; or
+                     (a)  a debt due to the Commonwealth under section 71, 71A, 71B, 71C, 71CAA, 71CAB, 71CA, 71CB, 71CAC, 71D, 71E, 71G, 71GA, 71GB, 71H, 71I, 71J, 71K, 71L, 73, 74, 76, 77, 78 or 80; or
 
                      (b)  a debt due to the Commonwealth for which a person is liable because of section 75.
 
@@ -10941,8 +10839,6 @@ the Secretary may give a written notice to the institution setting out the matte
 
                     (aa)  a payment of single income family supplement; or
 
-                   (ab)  a payment of schoolkids bonus; or
-
                      (b)  a payment under section 219Q or subsection 219QA(2) (payments in respect of fee reduction); or
 
                    (ba)  a payment under section 219QC or subsection 219QD(2) (payments in respect of child care rebate); or
@@ -10963,9 +10859,7 @@ the Secretary may give a written notice to the institution setting out the matte
 
                      (e)  a payment of back to school bonus or single income family bonus; or
 
-                      (f)  a payment of clean energy advance; or
-
-                     (g)  a payment of ETR payment.
+                      (f)  a payment of clean energy advance.
 
 ### Division 4—Non‑recovery of debts
 
@@ -11165,7 +11059,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image004.gif)
 
 where:
 
@@ -11441,7 +11335,7 @@ Notice to be given of other review decisions
 
                      (b)  the review decision is in respect of any other original decision that, under section 104, may be reviewed (other than a review decision referred to in subsection (1) or (2));
 
-the Secretary must give notice of the review decision to the person whose entitlement, or possible entitlement, to family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment is affected by the decision.
+the Secretary must give notice of the review decision to the person whose entitlement, or possible entitlement, to family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus or clean energy advance is affected by the decision.
 
 Notice must state effect of review decision
 
@@ -11793,7 +11687,7 @@ Further exceptions
 
                      (h)  a determination decision that a person is or is not entitled to be paid child care benefit by single payment/in substitution because of the death of another individual for care provided by a registered carer if the death occurred in the income year in which the application was made or in the previous income year (a determination of entitlement or no entitlement is made under section 53D or 53E).
 
-             (4)  An application under section 109A for review of a decision (other than an excepted decision) relating to the payment to a person of family assistance, or of one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment, may also be made after the 52 weeks mentioned in subsection (1), if:
+             (4)  An application under section 109A for review of a decision (other than an excepted decision) relating to the payment to a person of family assistance, or of one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus or clean energy advance, may also be made after the 52 weeks mentioned in subsection (1), if:
 
                      (a)  the application for review is made because of an assessment, by the Commissioner of Taxation, of taxable income for a particular income year of any relevant person made on the basis of an income tax return for that person and that particular income year lodged before the end of the next income year; or
 
@@ -11821,7 +11715,7 @@ Further exceptions
 
              (5)  In subsection (4), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
 
-                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment, or CCB %; and
+                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus or clean energy advance, or CCB %; and
 
                      (b)  so far as paragraph (4)(c) is concerned—to any person (including the first‑mentioned person) whose entitlement to child support is relevant in determining the first‑mentioned person’s rate of family tax benefit.
 
@@ -11979,7 +11873,7 @@ the Secretary may declare:
 
                    In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
 
-##### <a id="111"></a>111  Application for review by SSAT
+##### <a id="111"></a>111  Application for review by SSAT
 
              (1)  If the decision reviewer has affirmed, varied or set aside a decision under Division 1, a person affected by the decision may apply to the Social Security Appeals Tribunal for review of the decision as affirmed or varied or, if it has been set aside and another decision substituted, the decision so substituted.
 
@@ -12997,7 +12891,7 @@ application may also be made to the AAT for the review of the decision.
 
                              (ii)  refuse to allocate the number of child care places an approved child care service has applied for under that section;
 
-                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
+                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
 
                     (ia)  a decision under section 207A to reduce the number of child care places allocated to an approved child care service;
 
@@ -16265,8 +16159,6 @@ Note:          For **_child care service payment_** see subsec
 
                      (c)  family tax benefit by single payment/in substitution because of the death of another individual; or
 
-                    (ca)  schoolkids bonus; or
-
                      (d)  baby bonus; or
 
                      (e)  maternity immunisation allowance; or
@@ -16287,9 +16179,7 @@ Note:          For **_child care service payment_** see subsec
 
                      (k)  back to school bonus or single income family bonus; or
 
-                      (l)  clean energy advance; or
-
-                    (m)  ETR payment.
+                      (l)  clean energy advance.
 
 ### Division 2—Appointment of nominees
 
@@ -16371,7 +16261,7 @@ to be given to:
 
 ### Division 3—Payments to payment nominee
 
-##### <a id="219TF"></a>219TF  Payment of amounts to payment nominee
+##### <a id="219TF"></a>219TF  Payment of amounts to payment nominee
 
              (1)  If:
 
@@ -18922,3 +18812,2748 @@ Schedule 5 (items 13–19): 22 July 2009</div>
 </tr>
 <tr>
   <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2010</div>
+  </td>
+  <td>
+    <div>34, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedules 2 and 4: 11 May 2010 
+Schedules 3 and 6: 14 Apr 2010 
+Schedule 5 (items 1–3): 29 June 2007 
+Schedule 5 (items 4–7): 16 May 2009 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 28), Sch. 2 (item 6), Sch. 3 (item 2), Sch. 4 (item 5), Sch. 5 (item 8) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>38, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–5, 16(1), (2), 18–50, 
+157–163): 11 May 2010 
+Schedule 6 and Schedule 7 (item 8): 1 July 2010</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 
+16(1), (2), 157–163) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010</div>
+  </td>
+  <td>
+    <div>45, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–5, 7, 8): Royal Assent 
+Schedule 3: <i>(l)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 7, 8)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>65, 2010</div>
+  </td>
+  <td>
+    <div>28 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 22–38, 100–112) and Schedule 3 (items 1–12): 1 July 2010 
+Schedule 3 (items 13–15): <i>(m)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 
+100–112) and Sch. 3 (item 15) \[ <i>see</i>Note 1]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Paid Parental Leave (Consequential Amendments) Act 2010</div>
+  </td>
+  <td>
+    <div>105, 2010</div>
+  </td>
+  <td>
+    <div>14 July 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 19–28, 30, 31) and Schedule 2 (items 1, 2, 5): 1 Oct 2010 ( <i>see</i>s. 2(1)) 
+Schedule 1 (item 29): 1 Jan 2011</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 1, 2, 5)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 6–8): Royal Assent 
+Schedule 7 (item 16): 19 Apr 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–81): 22 Apr 2011 
+Schedule 2 (items 1–13): <i>(n)</i> 
+Schedule 3 (items 1–8): <i>(n)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+77–81) and Sch. 2 (item 13) 
+S. 2(1) (item 28) (rs. by 91, 2011, Sch. 2 \[item 2]) 
+S. 2(1) (items 
+29–32) (ad. by 91, 2011, Sch. 2 \[item 2])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 2): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 19–45, 655): 1 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>34, 2011</div>
+  </td>
+  <td>
+    <div>26 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 16, 17(1)): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 17(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>50, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 13, 17(5)): 1 Jan 2012 
+Schedule 3: 1 July 2011 
+Schedule 5 (item 1): 28 June 2011</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 17(5)) and Sch. 3 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>53, 2011</div>
+  </td>
+  <td>
+    <div>28 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–20), Schedule 2 (items 5–8) and Schedule 5 (items 19–31): 1 July 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+17–20)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–4, 7–32, 34), Schedule 4 (items 3, 5–7) and Schedule 5: 26 July 2011 
+Schedule 2 (item 4) and Schedule 3 (items 1–6): 22 Aug 2011 
+Schedule 4 (item 4): <i>(o)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 34), Sch. 3 (item 6), Sch. 4 (item 7) and Sch. 5 (item 21) 
+S. 2(1) (item 5) (rs. by 32, 2011, Sch. 4 \[item 658]) 
+S. 2(1) (items 
+6–12) (ad. by 32, 2011, Sch. 4 \[item 658])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 14): 26 July 2011 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 658): <i>(p)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Financial Viability) Act 2011</div>
+  </td>
+  <td>
+    <div>120, 2011</div>
+  </td>
+  <td>
+    <div>14 Oct 2011</div>
+  </td>
+  <td>
+    <div>15 Oct 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 26)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Clean Energy (Household Assistance Amendments) Act 2011</div>
+  </td>
+  <td>
+    <div>141, 2011</div>
+  </td>
+  <td>
+    <div>29 Nov 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 4–14, 33, 34(1), 47): 14 May 2012 
+Schedule 8 (items 6–17): <i>(r)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 34(1)) and Sch. 8 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment Act 2012</div>
+  </td>
+  <td>
+    <div>49, 2012</div>
+  </td>
+  <td>
+    <div>26 May 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–6, 15–45, 52), Schedule 3 (items 3–10) and Schedule 6 (items 29–32): \[ <i>see</i>Note 2 and Table A] 
+Schedule 2 (items 3, 4) and Schedule 6 (items 26, 27): Royal Assent 
+Schedule 6 (item 28): <i>(s)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 52), Sch. 3 (item 10) and Sch. 6 (item 27)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>50, 2012</div>
+  </td>
+  <td>
+    <div>26 May 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–13) and Schedule 2 (items 13–17): \[ <i>see</i>Note 3] 
+Schedule 1 (item 25) and Schedule 2 (item 22): \[ <i>see</i> <i>(t)</i>andNote 3]</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr></table>
+
+_(a)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 1 (items 5 and 6) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Pay As You Go) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+_(b)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 4 only of the _Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999_, subsection 2(3) of which provides as follows:
+
+                 (3)   Schedules 3 and 4 commenced on 1 July 2000.
+
+_(c)_ The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 3 (item 1) only of the _A New Tax System (Tax Administration) Act (No. 1) 2000_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Tax Administration) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+_(d)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Family Assistance and Related Measures) Act 2000_, subsection 2(4) of which provides as follows:
+
+                 (4)   Schedule 2, items 3 to 5 and 15 to 57 of Schedule 3 and Schedules 5 and 6 commence immediately after the commencement of the provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+         The provisions referred to in subsection 2(2) commenced on 1 July 2000.
+
+_(e)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 2 (items 7–10) only of the _Family and Community Services (2000 Budget and Related Measures) Act 2000_, subsection 2(2)(b) of which provides as follows:
+
+                 (2)   The following provisions:
+
+                              (b)   Schedules 2 and 3;
+
+                         commence on 1 January 2001.
+
+_(f)_      The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 1A (items 22–24) only of the _Child Support Legislation Amendment Act 2001_, subsection 2(1A)(a) of which provides as follows:
+
+               (1A)   Items 22, 23, 24, 25 and 26 of Schedule 1A commence on whichever of the following days applies:
+
+                              (a)   if this Act receives the Royal Assent on or before 1 July 2002—on 1 July 2002;
+
+_(g)_     Subsection 2(1) (items 8 and 10) of the _Family and Community Services Legislation Amendment Act 2003_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 52 to 72
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions of the
+        <i>A New Tax System (Family Assistance and Related Measures) Act 2000</i>referred
+        to in subsection 2(2) of that Act
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2000
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      10\. Schedule 2, items 84 to 86
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 2 to the
+        <i>A New Tax System (Family Assistance and Related Measures) Act 2000</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2000
+    </div>
+  </td>
+</tr></table>
+
+_(h)_     Subsection 2(1) (item 8) of the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 95 to 103
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) 1 January 2004; and
+    </div>
+    <div>
+      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+        <i>Higher Education Support Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2004
+    </div>
+  </td>
+</tr></table>
+
+_(i)_      Subsection 2(1) (item 21) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation__Amendment (2008 Budget and Other Measures)__Act 2008_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      21\. Schedule 6, items 16 and 17
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of items 73 and 74 of Schedule 5 to
+        the
+        <i>Child Support Legislation Amendment (Reform of the Child Support Scheme—New
+          Formula and Other Measures) Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      6 December 2006
+    </div>
+  </td>
+</tr></table>
+
+_(j)_      Subsection 2(1) (items 2 and 4) of the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 4.
+    </div>
+  </td>
+  <td>
+    <div>
+      29 June 2007
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      29 June 2007
+    </div>
+  </td>
+</tr></table>
+
+_(k)_     Subsection 2(1) (item 3) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Family Assistance Legislation Amendment (Child Care) Act 2010</i>for the
+        commencement of item 5 of Schedule 5 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      16 May 2009
+    </div>
+  </td>
+</tr></table>
+
+_(l)_      Subsection 2(1) (item 3) of the _Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to the
+        <i>Family Assistance Legislation Amendment (Participation Requirement) Act
+          2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2010
+    </div>
+  </td>
+</tr></table>
+
+_(m)_ Subsection 2(1) (item 4) of the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, items 13 to 15
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 6 of Schedule 2 to the
+        <i>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2010
+    </div>
+  </td>
+</tr></table>
+
+_(n)_ Subsection 2(1) (items 25 and 27–32) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      25\. Schedule 2, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      27\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provision(s) covered by table item 25.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      28\. Schedule 3, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      29\. Schedule 3, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      30\. Schedule 3, item 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      31\. Schedule 3, items 4 and 5
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      32\. Schedule 3, items 6 to 10
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr></table>
+
+_(o)_     Subsection 2(1) (item 6) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 4, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if item 655 of Schedule 4 to the
+        <i>Human Services Legislation Amendment Act 2011</i>commences before the
+        day after this Act receives the Royal Assent, the provision(s) do not commence
+        at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr></table>
+
+_(p)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      7B. Schedule 4, Part 6
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+    <div>
+      However, if section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences before the day this Act receives the Royal
+        Assent, the provision(s) do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      25 July 2011
+    </div>
+  </td>
+</tr></table>
+
+_(q)_     Subsection 2(1) (items 3 and 4) of the _Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 8 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 2, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      21 April 2011
+    </div>
+  </td>
+</tr></table>
+
+_(r)_     Subsection 2(1) (items 6 and 16) of the **_Clean Energy (Household Assistance Amendments) Act 2011_** provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 2
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+        <i>.</i>
+
+    </div>
+    <div>
+      However, if section 3 of the
+        <i>Clean Energy Act 2011</i>does not commence before 14 May 2012, the provision(s)
+        do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      16\. Schedule 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 6.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+_(s)_     Subsection 2(1) (item 17) of the _Family Assistance and Other Legislation Amendment Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      17\. Schedule 6, item 28
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 2 to the
+        <i>Clean Energy (Household Assistance Amendments) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+_(t)_      Subsection 2(1) (items 3 and 5) of the _Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 3 to the
+        <i>Family Assistance and Other Legislation Amendment Act 2012</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i>see</i>Note 3]
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      5\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 3 to the
+        <i>Family Assistance and Other Legislation Amendment Act 2012</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i>see</i>Note 3]
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. Nos. 45 and 138, 2000; No. 47, 2001; Nos. 30 and 150, 2003; No. 59, 2004; No. 111, 2005; Nos. 36 and 82, 2006; Nos. 82 and 118, 2007; No. 53, 2008; Nos. 48 and 50, 2009; Nos. 34, 38, 65 and 105, 2010; Nos. 5, 25, 32, 53, 79, 120 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 179, 1999; No. 45, 2000; No. 122, 2003; No. 33, 2004; No. 63, 2008; No. 48, 2009; No. 38, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 48, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15B</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 16(4)</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 16(5), (6)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 20</div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 20A, 20B</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20C</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 137, 2001; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(4)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 28B(2), (3)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 29(2)</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005; No. 129, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 30B</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 31(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 31A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 31C, 31D</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 31E</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31E</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CA of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AA</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32AB, 32AC</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AD</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32AE</div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AE</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32A</div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32A</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005; No. 61, 2005; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32B, 32C</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32D</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32E–32H</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32J</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32K</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006; No. 34, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32L</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32M, 32N</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32P</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32Q</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32R</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 61, 2005; No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 95, 2002; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35B</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35C, 35D</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35E</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007; No. 63, 2008; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38A</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38B</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38B</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(2)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(3)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 61, 2005; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(3)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(7)</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010; No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(2)</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 130, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
