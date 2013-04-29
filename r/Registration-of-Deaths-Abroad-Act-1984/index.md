@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00812/Html/a6f352ba-aa55-47fc-acc0-5fe8fc7c4184_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00292/Html/c187aa7d-7450-4f25-a72d-c4c265bfd382_files/image001.gif)
 
 # Registration of Deaths Abroad Act 1984
 
 **Act No. 169 of 1984 as amended**
 
-This compilation was prepared on 30 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -733,7 +733,7 @@ of Assent</div>
     <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>1 Dec 1985 ( <i>see Gazette</i>1985, No. S506)</div>
+    <div>1 Dec 1985 ( <i>see Gazette</i>1985, No. S506)</div>
   </td>
   <td>
     <div></div>
@@ -750,9 +750,8 @@ of Assent</div>
     <div>15 June 1988</div>
   </td>
   <td>
-    <div>Part III (ss. 
-17–32), s. 98, Parts IX and X (ss. 99–103): 
-1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
+    <div>Part III (ss. 17‑32), s. 98, Parts IX and X (ss. 99–103): 
+1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -821,7 +820,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 769–771): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    <div>Schedule 1 (items 769–771): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -855,7 +854,7 @@ Remainder: Royal Assent</div>
     <div>27 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 3 (items 33, 34): 1 July 2004 ( <i>see</i>s. 2)</div>
+    <div>Schedule 3 (items 33, 34): 1 July 2004 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -893,23 +892,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 976–980) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1065,38 +1047,6 @@ _(d)_     The _Registration of Deaths Abroad Act 1984_ was amended by Sc
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 976  Subsection 6(1)
-
-Omit “(1)”.
-
-## 977  Paragraph 6(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 978  Subsection 6(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 979  At the end of subsection 6(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 980  Subsections 6(2) to (7)
-
-Repeal the subsections.
-
-As at 30 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1108,21 +1058,5 @@ _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
