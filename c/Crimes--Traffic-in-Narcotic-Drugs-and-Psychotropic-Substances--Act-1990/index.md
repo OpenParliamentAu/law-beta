@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C03155/Html/CrimesTNDPS90_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03154/Html/CrimeTNDPS90_image001.gif)
 
-# Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990
+# Crimes (Traffic In Narcotic Drugs And Psychotropic Substances) Act 1990
 
 **Act No. 97 of 1990 as amended**
 
-This compilation was prepared on 24 May 2001
- taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 10 November 2000 
+ taking into account amendments up to Act No. 182 of 1994
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -25,55 +25,53 @@ Prepared by the Office of Legislative Drafting,
 
 [4](#4).            Act extends to external Territories                                                      4
 
-[4A](#4A).         Application of the _Criminal Code_                                                       4
-
 [5](#5).            Effect of this Act on other laws                                                          4
 
-[6](#6).            Meaning of _dealing in drugs_                                                                5
+[6](#6).            Meaning of _dealing in drugs_                                                                4
 
 [7](#7).            Meaning of _flight_ in relation to aircraft                                                6
 
 [8](#8).            Meaning of _ship at sea_                                                                         6
 
-[8A](#8A).         Proof of knowledge, intent or purpose                                                7
+[8A](#8A).         Proof of knowledge, intent or purpose                                                6
 
 **Part 2—Offences**
 
-[9](#9).            Possession of equipment etc                                                               8
+[9](#9).            Possession of equipment etc                                                               7
 
-[10](#10).          Dealing in drugs on board an Australian aircraft                                  8
+[10](#10).          Dealing in drugs on board an Australian aircraft                                  7
 
-[11](#11).          Dealing in drugs on board an Australian ship                                      9
+[11](#11).          Dealing in drugs on board an Australian ship                                      7
 
-[12](#12).          Dealing in drugs outside Australia                                                     10
+[12](#12).          Dealing in drugs outside Australia                                                       8
 
-[13](#13).          Dealing in drugs outside Australia with a view to commission of offence in Australia etc   11
+[13](#13).          Dealing in drugs outside Australia with a view to commission of offence in Australia etc   8
 
-[14](#14).          Conspiracy etc  outside Australia to commit offence inside Australia 12
+[14](#14).          Conspiracy etc  outside Australia to commit offence inside Australia 9
 
-[15](#15).          Penalties for offences against sections 10 to 13                                12
+[15](#15).          Penalties for offences against sections 10 to 13                                  9
 
-[15A](#15A).       Intentionally converting etc  property derived from a serious State drug offence    16
+[15A](#15A).       Knowingly converting etc  property derived from a serious State drug offence       12
 
-[15B](#15B).       Intentionally concealing etc  property derived from a serious State drug offence    17
+[15B](#15B).       Knowingly concealing etc  property derived from a serious State drug offence       13
 
-[15C](#15C).       Intentionally acquiring etc  property derived from a serious State drug offence      17
+[15C](#15C).       Knowingly acquiring etc  property derived from a serious State drug offence         13
 
 **Part 3—Miscellaneous**
 
-[16](#16).          Prosecutions                                                                                      19
+[16](#16).          Prosecutions                                                                                      14
 
-[17](#17).          Presumption that traffickable quantity etc  of narcotic drug etc  is for sale or supply         19
+[17](#17).          Presumption that traffickable quantity etc  of narcotic drug etc  is for sale or supply         14
 
-[18](#18).          Venue where offence committed on aircraft                                      20
+[18](#18).          Venue where offence committed on aircraft                                      15
 
-[19](#19).          Change of venue                                                                                 20
+[19](#19).          Change of venue                                                                                 15
 
-[20](#20).          Certificates by Minister for Foreign Affairs                                     22
+[20](#20).          Certificates by Minister for Foreign Affairs                                     17
 
-[21](#21).          Section 38 of Judiciary Act                                                               22
+[21](#21).          Section 38 of Judiciary Act                                                               17
 
-[22](#22).          Regulations                                                                                        22
+[22](#22).          Regulations                                                                                        17
 
 **Schedule 1—United Nations Convention Against Illicit Traffic In Narcotic Drugs And Psychotropic Substances** 
 
@@ -86,8 +84,6 @@ Prepared by the Office of Legislative Drafting,
 **Part 2** 
 
 **Notes** 
-
- 
 
 ## An Act to make provision with respect to the traffic in narcotic drugs and psychotropic substances in accordance with the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances
 
@@ -157,12 +153,6 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="deal-drug"></a>**_dealing in drugs_** has the meaning given by section 6.
 
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
                     <a name="interest"></a>**_interest_**, in relation to property, means:
 
                      (a)  a legal or equitable estate or interest in the property; or
@@ -217,12 +207,6 @@ and constitutes an offence against a law of a State or Territory punishable, on 
 
                    This Act extends to all external Territories.
 
-##### <a id="4A"></a>4A  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
 ##### <a id="5"></a>5  Effect of this Act on other laws
 
              (1)  This Act is not intended to exclude or limit the operation of any other law of the Commonwealth or any law of a State or Territory.
@@ -233,17 +217,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  For the purposes of this Act, each of the following is a dealing in drugs:
 
-                     (a)  the cultivation of opium poppy, coca bush or cannabis plant with the intention of producing narcotic drugs;
+                     (a)  the cultivation of opium poppy, coca bush or cannabis plant for the purpose of producing narcotic drugs;
 
                      (b)  the separation of opium, coca leaves, cannabis or cannabis resin from the plant from which they are obtained;
 
                      (c)  the manufacture, extraction or preparation of a narcotic drug or psychotropic substance;
 
-                     (d)  the possession of a narcotic drug or psychotropic substance with the intention of the manufacture, extraction or preparation of another such drug or substance;
+                     (d)  the possession of a narcotic drug or psychotropic substance for the purpose of the manufacture, extraction or preparation of another such drug or substance;
 
-                     (e)  the sale, supply, or possession with the intention of sale or supply, of a narcotic drug or psychotropic substance;
+                     (e)  the sale, supply, or possession for the purpose of sale or supply, of a narcotic drug or psychotropic substance;
 
-                      (f)  the importation into Australia, exportation from Australia, or possession with the intention of such importation or exportation, of a narcotic drug or psychotropic substance;
+                      (f)  the importation into Australia, exportation from Australia, or possession for the purpose of such importation or exportation, of a narcotic drug or psychotropic substance;
 
                     (fa)  the manufacture, transport or distribution of any substance listed in Table I or Table II in the Annex to the Convention or of equipment or materials, with the knowledge that the substance, equipment or materials are to be used for a purpose set out in paragraph (a), (b) or (c);
 
@@ -297,7 +281,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9"></a>9  Possession of equipment etc.
 
-             (1)  A person who has in his or her possession, in Australia, any substance listed in Table I or II in the Annex to the Convention, or any equipment or materials, knowing that the substance, equipment or materials are being used or are to be used in, or for, a dealing in drugs that:
+                   A person who has in his or her possession, in Australia, any substance listed in Table I or II in the Annex to the Convention, or any equipment or materials, knowing that the substance, equipment or materials are being used or are to be used in, or for, a dealing in drugs that:
 
                      (a)  is referred to in paragraph 6(1)(a), (b) or (c); and
 
@@ -315,16 +299,6 @@ is guilty of an offence against this section and is punishable, on conviction, b
 
                      (d)  in any other case—10 years.
 
-             (2)  For the purposes of an offence against this section, absolute liability applies to the following physical elements of circumstance of the offence:
-
-                     (a)  that the possession is in Australia;
-
-                     (b)  that the substance possessed is listed in Table I or II in the Annex to the Convention;
-
-                     (c)  that the dealing in drugs in which, or for which, the substance, equipment or materials are being used or are to be used is a dealing in drugs described in paragraphs (1)(a) and (b).
-
-Note:          For **_absolute liability_** see section 6.2 of the _Criminal Code_.
-
 ##### <a id="10"></a>10  Dealing in drugs on board an Australian aircraft
 
              (1)  A person is guilty of an offence against this section if:
@@ -335,37 +309,13 @@ Note:          For **_absolute liability_** see section 6.2 
 
              (2)  This section does not apply in relation to conduct engaged in by a person on board an Australian aircraft in flight between 2 places in the same State or in the same Territory.
 
-             (3)  For the purposes of an offence against this section, absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-
-                     (a)  that the conduct is engaged in on board an Australian aircraft in flight, whether in or outside Australia;
-
-                     (b)  that the conduct would constitute an offence against a law in force in a State or Territory if it were engaged in by the person in that State or Territory;
-
-                     (c)  if paragraph 6(1)(f) applies—that the importation is into Australia, or the exportation is from Australia;
-
-                     (d)  if paragraph 6(1)(fa) or (g) applies—that the substance is listed in Table I or II in the Annex to the Convention.
-
-Note:          For **_absolute liability_** see section 6.2 of the _Criminal Code_.
-
 ##### <a id="11"></a>11  Dealing in drugs on board an Australian ship
 
-             (1)  A person is guilty of an offence against this section if:
+                   A person is guilty of an offence against this section if:
 
                      (a)  the person, on board an Australian ship at sea, engages in conduct that is a dealing in drugs; and
 
                      (b)  the conduct if engaged in by the person in a State or Territory would constitute an offence against a law of the Commonwealth.
-
-             (2)  For the purposes of an offence against this section, absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-
-                     (a)  that the conduct is engaged in on board an Australian ship at sea;
-
-                     (b)  that the conduct if engaged in by the person in a State or Territory would constitute an offence against a law of the Commonwealth;
-
-                     (c)  if paragraph 6(1)(f) applies—that the importation is into Australia, or the exportation is from Australia;
-
-                     (d)  if paragraph 6(1)(fa) or (g) applies—that the substance is listed in Table I or II in the Annex to the Convention.
-
-Note:          For **_absolute liability_** see section 6.2 of the _Criminal Code_.
 
 ##### <a id="12"></a>12  Dealing in drugs outside Australia
 
@@ -387,23 +337,9 @@ Note:          For **_absolute liability_** see section 6.2 
 
                              (ii)  proceedings taken by that country under the _Extradition Act 1988_ have not resulted in the person being surrendered to that country.
 
-             (3)  For the purposes of an offence against this section, absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-
-                     (a)  that the conduct is engaged in outside Australia;
-
-                     (b)  that the conduct constitutes an offence against the law of a foreign country;
-
-                     (c)  that the conduct would constitute an offence against a law in force in a State or Territory if it were engaged in by the person in that State or Territory;
-
-                     (d)  if paragraph 6(1)(f) applies—that the importation is into Australia, or the exportation is from Australia;
-
-                     (e)  if paragraph 6(1)(fa) or (g) applies—that the substance is listed in Table I or II in the Annex to the Convention.
-
-Note:          For **_absolute liability_** see section 6.2 of the _Criminal Code_.
-
 ##### <a id="13"></a>13  Dealing in drugs outside Australia with a view to commission of offence in Australia etc.
 
-             (1)  A person is guilty of an offence against this section if the person engages, outside Australia, in conduct that is a dealing in drugs with a view to the carrying out:
+                   A person is guilty of an offence against this section if the person engages, outside Australia, in conduct that is a dealing in drugs with a view to the carrying out:
 
                      (a)  in Australia; or
 
@@ -413,49 +349,15 @@ Note:          For **_absolute liability_** see section 6.2 
 
 of a dealing in drugs that constitutes an offence against a law of the Commonwealth, of a State or of a Territory.
 
-             (2)  For the purposes of an offence against this section, absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-
-                     (a)  that the conduct is engaged in outside Australia;
-
-                     (b)  that the view to the carrying out of a dealing in drugs with which the conduct is engaged in, is a view to the carrying out of such a dealing:
-
-                              (i)  in Australia; or
-
-                             (ii)  on board an Australian aircraft in flight outside Australia; or
-
-                            (iii)  on board an Australian ship at sea;
-
-                     (c)  that the carrying out of the dealing in drugs referred to in paragraph (b) constitutes an offence against a law of the Commonwealth, of a State or of a Territory;
-
-                     (d)  if paragraph 6(1)(f) applies—that the importation is into Australia, or the exportation is from Australia;
-
-                     (e)  if paragraph 6(1)(fa) or (g) applies—that the substance is listed in Table I or II in the Annex to the Convention.
-
-Note:          For **_absolute liability_** see section 6.2 of the _Criminal Code_.
-
 ##### <a id="14"></a>14  Conspiracy etc. outside Australia to commit offence inside Australia
 
-             (1)  A person who, by conduct engaged in outside Australia:
+                   A person who, by conduct engaged in outside Australia:
 
                      (a)  conspires, or attempts, to carry out in a State or Territory; or
 
                      (b)  aids, abets, counsels or procures, or is in any way directly or indirectly knowingly concerned in, or party to, the carrying out in a State or Territory of;
 
                    a dealing in drugs referred to in subsection 6(1) that constitutes an offence against a law of that State or Territory is guilty of an offence against this section and is punishable, on conviction, by the same penalty as would be applicable if the person were convicted of the first-mentioned offence.
-
-             (2)  For the purposes of an offence against this section, absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-
-                     (a)  that the conduct is engaged in outside Australia;
-
-                     (b)  that the dealing in drugs is carried out, or is to be carried out, in a State or Territory;
-
-                     (c)  that the carrying out of the dealing in drugs constitutes an offence against a law of that State or Territory;
-
-                     (d)  if paragraph 6(1)(f) applies—that the importation is into Australia, or the exportation is from Australia;
-
-                     (e)  if paragraph 6(1)(fa) or (g) applies—that the substance is listed in Table I or II in the Annex to the Convention.
-
-Note:          For **_absolute liability_** see section 6.2 of the _Criminal Code_.
 
 ##### <a id="15"></a>15  Penalties for offences against sections 10 to 13
 
@@ -639,11 +541,11 @@ TABLE
 
                      (a)  if the court is satisfied that:
 
-                              (i)  the narcotic drug or psychotropic substance that is the subject matter of the dealing was imported into Australia, or exported from Australia, with the intention of sale or supply; or
+                              (i)  the narcotic drug or psychotropic substance that is the subject matter of the dealing was imported into Australia, or exported from Australia, for the purpose of sale or supply; or
 
-                             (ii)  the person possessed the narcotic drug or psychotropic substance with the intention of importation into Australia, or exportation from Australia, with the intention of sale or supply;
+                             (ii)  the person possessed the narcotic drug or psychotropic substance for the purpose of importation into Australia, or exportation from Australia, for the purpose of sale or supply;
 
-                            the person is punishable as if the person had sold or supplied the drug or substance or possessed it with the intention of sale or supply (as the case may be); or
+                            the person is punishable as if the person had sold or supplied the drug or substance or possessed it for the purpose of sale or supply (as the case may be); or
 
                      (b)  if paragraph (a) does not apply—the penalty is imprisonment for a period not exceeding:
 
@@ -667,15 +569,15 @@ TABLE
 
 any conduct that is, under subsection 6(1), a dealing in drugs, the person is punishable as if the person had actually engaged in that conduct.
 
-##### <a id="15A"></a>15A  Intentionally converting etc. property derived from a serious State drug offence
+##### <a id="15A"></a>15A  Knowingly converting etc. property derived from a serious State drug offence
 
-             (1)  Any person who, knowing that any property was derived from a serious State drug offence, in a State other than a prescribed State or a Territory other than a prescribed Territory:
+                   Any person who, knowing that any property was derived from a serious State drug offence, in a State other than a prescribed State or a Territory other than a prescribed Territory:
 
                      (a)  converts that property to his or her own use or to the use of another person; or
 
                      (b)  transfers that property to another person;
 
-with the intention of:
+for the purpose of:
 
                      (c)  concealing or disguising that the property was derived from the offence; or
 
@@ -683,17 +585,9 @@ with the intention of:
 
 is guilty of an offence punishable, on conviction, by imprisonment for a period not exceeding 20 years.
 
-             (2)  For the purposes of an offence against this section, absolute liability applies to the physical element of circumstance of the offence, that the conversion or transfer of property takes place in:
+##### <a id="15B"></a>15B  Knowingly concealing etc. property derived from a serious State drug offence
 
-                     (a)  a State other than a prescribed State; or
-
-                     (b)  a Territory other than a prescribed Territory.
-
-Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
-
-##### <a id="15B"></a>15B  Intentionally concealing etc. property derived from a serious State drug offence
-
-             (1)  Any person who, knowing that any property was derived from a serious State drug offence, in a State other than a prescribed State or a Territory other than a prescribed Territory, conceals or disguises:
+                   Any person who, knowing that any property was derived from a serious State drug offence, in a State other than a prescribed State or a Territory other than a prescribed Territory, conceals or disguises:
 
                      (a)  the nature, source, or location, of the property; or
 
@@ -705,31 +599,15 @@ Note:          For **_absolute liability_**, see section 6.2
 
 is guilty of an offence punishable, on conviction, by imprisonment for a period not exceeding 20 years.
 
-             (2)  For the purposes of an offence against this section, absolute liability applies to the physical element of circumstance of the offence, that the concealing or disguising takes place in:
+##### <a id="15C"></a>15C  Knowingly acquiring etc. property derived from a serious State drug offence
 
-                     (a)  a State other than a prescribed State; or
-
-                     (b)  a Territory other than a prescribed Territory.
-
-Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
-
-##### <a id="15C"></a>15C  Intentionally acquiring etc. property derived from a serious State drug offence
-
-             (1)  If:
+                   If:
 
                      (a)  a person, in a State other than a prescribed State or a Territory other than a prescribed Territory, acquires, has in his or her possession or uses any property; and
 
                      (b)  the person knows or knew at the time when he or she receives or received the property that it was derived from a serious State drug offence;
 
 the person is guilty of an offence punishable, on conviction, by imprisonment for a period not exceeding 20 years.
-
-             (2)  For the purposes of an offence against this section, absolute liability applies to the physical element of circumstance of the offence, that the acquisition, possession or use is in:
-
-                     (a)  a State other than a prescribed State; or
-
-                     (b)  a Territory other than a prescribed Territory.
-
-Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
 ## Part 3—Miscellaneous
 
@@ -757,7 +635,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (b)  imports into, or exports from, Australia; or
 
-                     (c)  has in his or her possession with the intention of importation into, or exportation from, Australia;
+                     (c)  has in his or her possession for the purpose of importation into, or exportation from, Australia;
 
 a traffickable quantity or a commercial quantity of a narcotic drug or of a psychotropic substance specified in Part 1 of Schedule 3, it is presumed that:
 
@@ -767,7 +645,7 @@ a traffickable quantity or a commercial quantity of a narcotic drug or of a psyc
 
                       (f)  the intended importation or exportation;
 
-as the case may be, is with the intention of sale or supply, but that presumption is rebuttable.
+as the case may be, is for the purpose of sale or supply, but that presumption is rebuttable.
 
 ##### <a id="18"></a>18  Venue where offence committed on aircraft
 
@@ -3861,13 +3739,11 @@ Part 2
   </td>
 </tr></table>
 
-# Notes to the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_
+# Notes to the _Crimes (Traffic In Narcotic Drugs And Psychotropic Substances) Act 1990_
 
 ### Note 1
 
 The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_ as shown in this compilation comprises Act No. 97, 1990 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -3876,7 +3752,8 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="31%">
   <col width="16%">
   <col width="18%">
-  <col width="22%">
+  <col width="21%">
+  <col width="0%">
   <col width="14%">
 </colgroup>
 
@@ -3895,7 +3772,7 @@ of Assent</div>
   <td>
     <div>Date of commencement</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Application, saving or transitional provisions</div>
   </td>
 </tr>
@@ -3909,7 +3786,7 @@ of Assent</div>
   <td>
     <div>29 Nov 1990</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>14 Feb 1993 ( <i>see Gazette</i>1993, No. GN4)</div>
   </td>
   <td>
@@ -3926,7 +3803,7 @@ of Assent</div>
   <td>
     <div>26 June 1992</div>
   </td>
-  <td>
+  <td colspan="2">
     <div><i>(a)</i></div>
   </td>
   <td>
@@ -3943,7 +3820,7 @@ of Assent</div>
   <td>
     <div>21 Dec 1992</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
   </td>
   <td>
@@ -3960,29 +3837,20 @@ of Assent</div>
   <td>
     <div>19 Dec 1994</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 31: 16 Jan 1994 <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>S. 4(1), (2) and Schedule 20: <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1), (2)</div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(a)_     2.       This Act commences immediately after the commencement of the Principal Act.
@@ -3998,14 +3866,6 @@ _(b)_    The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substance
 _(c)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_ was amended by section 31 only of the _Crimes and Other Legislation Act 1994_, subsection 2(4) of which provides as follows:
 
            (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_(other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the Crimes (Internationally Protected Persons) Act 1976, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
-
-_(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_ was amended by Schedule 20 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences at the later of the following times:
-
-                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
-
-         Item 15 commenced on 24 May 2001.
 
 ## Table of Amendments
 
@@ -4035,15 +3895,7 @@ _(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substa
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 77 and 196, 1992; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
+    <div>am. Nos. 77 and 196, 1992</div>
   </td>
 </tr>
 <tr>
@@ -4051,7 +3903,7 @@ _(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substa
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 77, 1992; No. 24, 2001</div>
+    <div>am. No. 77, 1992</div>
   </td>
 </tr>
 <tr>
@@ -4064,90 +3916,10 @@ _(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substa
 </tr>
 <tr>
   <td>
-    <div>Ss. 9-15</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15A</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
+    <div>Ss. 15A-15C</div>
   </td>
   <td>
     <div>ad. No. 77, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15B</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15B</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15C</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15C</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4166,17 +3938,5 @@ _(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substa
     <div>ad. No. 77, 1992</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
-
-4  Application of amendments
-
-             (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
