@@ -1,9 +1,8 @@
 
-Public Order (Protection of Persons and Property) Act 1971
+Public Order (Protection of Persons and Property) Act 1971 
 Act No. 26 of 1971 as amended
-This compilation was prepared on 31 May 2004 taking into account amendments up to Act No. 62 of 2004
+This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -28,7 +27,7 @@ Part IIA—Provisions relating to premises of certain federal courts and tribuna
 13A	Interpretation	13
 13B	Application of Part	14
 13C	Power of authorised officer to require information	14
-13D	Power of authorised officer to search a person or require a person to deposit personal effects	15
+13D	Power of authorised officer to search a person or require a person to deposit personal effects	14
 13E	Removal from court premises	16
 13F	Person not to carry firearm, explosive substance or offensive weapon on court premises	17
 13G	Saving	17
@@ -50,7 +49,8 @@ Part IV—General	25
 The Schedule	28
 Part I—Imperial Enactments	28
 Part II—Other enactments in force in Australia	29
-Notes	31
+Notes 		31
+
 An Act relating to the Preservation of Public Order in Certain Territories and in respect of Commonwealth Premises, the Premises of certain Federal Courts and Tribunals and the Premises and Personnel of Diplomatic and Special Missions, Consular Posts, Designated Overseas Missions and International Organizations
 Part I—Preliminary
   
@@ -212,7 +212,7 @@ authorised officer, in relation to a court, means:
 	(i)	the Attorney‑General; or
 	(ii)	if the court has power to administer its own affairs—a person exercising that power on behalf of the court.
 court means a federal court and includes a tribunal, authority or person having power under a law of the Commonwealth to require the production of documents or the answering of questions.
-court premises, in relation to a court, means any premises occupied or used (whether permanently or temporarily or under a lease or otherwise) in connection with the sittings, or any other operations, of the court.
+court premises, in relation to a court, means any premises occupied in connection with the operations of the court.
 explosive substance includes:
 	(a)	any material for making an explosive substance; and
 	(b)	any apparatus, machine, implement or material used, or intended to be used, or adapted, for causing, or aiding in causing, an explosion in or with an explosive substance; and
@@ -474,7 +474,7 @@ Australian Federal Police (Consequential Amendments) Act 1980
 Director of Public Prosecutions (Consequential Amendments) Act 1983
 114, 1983
 14 Dec 1983
-Part XII (ss. 25–27): 5 Mar 1984 (see Gazette 1984, No. S55) (a)
+Part XII (ss. 25‑27): 5 Mar 1984 (see Gazette 1984, No. S55) (a)
 S. 27(2)
 Statute Law (Miscellaneous Provisions) Act (No. 2) 1984
 165, 1984
@@ -509,7 +509,7 @@ S. 24: 1 July 1992 (f)
 Crimes Legislation Amendment Act 1992
 164, 1992
 11 Dec 1992
-Part 1 (ss. 1, 2) and Parts 3–11 (ss. 18–53): 8 Jan 1993 Remainder: 1 Feb 1993 (see Gazette 1993, No. GN1)
+Part 1 (ss. 1, 2) and Parts 3‑11 (ss. 18‑53): 8 Jan 1993 Remainder: 1 Feb 1993 (see Gazette 1993, No. GN1)
 —
 Overseas Missions (Privileges and Immunities) (Consequential Amendments) Act 1995
 58, 1995
@@ -530,14 +530,9 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 42: (h)
-S. 4(1) and (2) [see Table A]
-Law and Justice Legislation Amendment Act 2004
-62, 2004
-26 May 2004
-Schedule 1 (item 54): 27 May 2004
-—
+S. 4(1), (2) [see Table A]
 
-(a)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Part XII (sections 25–27) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2(1) of which provides as follows:
+(a)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Part XII (sections 25‑27) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the Director of Public Prosecutions Act 1983 comes into operation.
 (b)	The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1984, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
@@ -555,22 +550,19 @@ Schedule 1 (item 54): 27 May 2004
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
+
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 Title	
 am. No. 216, 1973; Nos. 58 and 116, 1995
-Part I
-
 S. 3	
 rep. No. 216, 1973
 S. 4	
 am. No. 155, 1979; No. 70, 1980; No. 193, 1985; No. 168,1986; No. 141, 1987; No. 104, 1992; Nos. 58 and 116, 1995
 S. 5A	
 ad. No. 24, 2001
-Part II
-
 Ss. 6, 7	
 am. No. 116, 1995; No. 24, 2001
 S. 8	
@@ -583,15 +575,9 @@ S. 12
 am. No. 141, 1987; No. 116, 1995; No. 24, 2001
 S. 13	
 am. No. 21, 1989
-Part IIA
-
-Part IIA 	
+Part IIA 	 (ss. 13A‑13H)
 ad. No. 116, 1995
-S. 13A	
-ad. No. 116, 1996
-
-am. No. 62, 2004
-S. 13B	
+Ss. 13A, 13B	
 ad. No. 116, 1996
 Ss. 13C, 13D	
 ad. No. 116, 1996
@@ -605,24 +591,18 @@ ad. No. 116, 1996
 am. No. 24, 2001
 Ss. 13G, 13H	
 ad. No. 116, 1996
-Part III
-
 Heading to Part III	
 am. No. 58, 1995
 S. 14	
 am. No. 58, 1995
-Ss. 15–19	
+Ss. 15‑19	
 am. No. 116, 1995; No. 24, 2001
 S. 20	
 am. No. 141, 1987; No. 116, 1995; No. 24, 2001
-Part IV
-
 S. 23	
 am. No. 114, 1983; No. 165, 1984; No. 116, 1995; No. 24, 2001
 S. 25	
 am. No. 168, 1986
-The Schedule
-
 The Schedule	
 am. No. 168, 1986 
 Table A
