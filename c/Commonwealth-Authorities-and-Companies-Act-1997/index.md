@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00707/Html/48d03f4f-ee11-4f3e-8053-862dbe262f9a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00656/Html/b40f6dc7-63e7-41ed-842b-881099931312_files/image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 1 September 2011
+This compilation was prepared on 16 August 2011
  taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force
@@ -18,43 +18,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Reader’s Guide
 
-                   This Guide aims to give you a general overview of the matters covered by this Act. It also gives you some information about the way this Act is organised.
+                   This Guide aims to give you a general overview of the matters covered by this Act. It also gives you some information about the way this Act is organised.
 
 Overview of this Act
 
-                   The rules in this Act apply to Commonwealth authorities and Commonwealth companies. **_Commonwealth authority_** is defined in section 7\. **_Commonwealth company_** is defined in section 34.
+                   The rules in this Act apply to Commonwealth authorities and Commonwealth companies. **_Commonwealth authority_** is defined in section 7\. **_Commonwealth company_** is defined in section 34.
 
-                   This Act regulates certain aspects of the financial affairs of Commonwealth authorities. In particular, it has detailed rules about reporting and accountability. This Act also deals with other matters relating to Commonwealth authorities, such as banking and investment and the conduct of officers.
+                   This Act regulates certain aspects of the financial affairs of Commonwealth authorities. In particular, it has detailed rules about reporting and accountability. This Act also deals with other matters relating to Commonwealth authorities, such as banking and investment and the conduct of officers.
 
-                   For Commonwealth companies, this Act has reporting requirements and other requirements that apply in addition to the requirements of the _Corporations Act 2001_.
+                   For Commonwealth companies, this Act has reporting requirements and other requirements that apply in addition to the requirements of the _Corporations Act 2001_.
 
 Summary of this Act
 
-        Part 1  **_Preliminary_**: This Part deals with the commencement of this Act, its application to things outside Australia and its application to the Crown.
+        Part 1  **Preliminary**: This Part deals with the commencement of this Act, its application to things outside Australia and its application to the Crown.
 
-        Part 2  **_General provisions about definitions, offences and civil penalties_**: This Part contains definitions of terms that are frequently used throughout this Act and general provisions about offences and civil penalty provisions. Schedule 2 sets out the civil and criminal consequences of contravening a civil penalty provision.
+        Part 2  **General provisions about definitions, offences and civil penalties**: This Part contains definitions of terms that are frequently used throughout this Act and general provisions about offences and civil penalty provisions. Schedule 2 sets out the civil and criminal consequences of contravening a civil penalty provision.
 
-        Part 3  **_Reporting and other obligations for Commonwealth authorities_**: This Part sets out reporting and accountability rules for Commonwealth authorities. It also deals with matters such as banking, investment and the conduct of officers. Schedule 1 deals with the content of the annual report, financial statements and auditor’s report.
+        Part 3  **Reporting and other obligations for Commonwealth authorities**: This Part sets out reporting and accountability rules for Commonwealth authorities. It also deals with matters such as banking, investment and the conduct of officers. Schedule 1 deals with the content of the annual report, financial statements and auditor’s report.
 
-     Part 3A  **_Interjurisdictional authorities_**: This Part sets out that the regulations may prescribe a Commonwealth authority to be an interjurisdictional authority. An interjurisdictional authority involves, jointly, the Commonwealth and participating State and/or Territory jurisdictions in the governance of that authority. This Part also provides that the regulations may set out the obligations of officers of an interjurisdictional authority.
+        Part 4  **Reporting and other obligations for Commonwealth companies**: This Part sets out reporting and other rules for Commonwealth companies. These requirements are additional to those that apply under the _Corporations Act 2001_.
 
-        Part 4  **_Reporting and other obligations for Commonwealth companies_**: This Part sets out reporting and other rules for Commonwealth companies. These requirements are additional to those that apply under the _Corporations Act 2001_.
-
-        Part 5  **_Miscellaneous_**: This Part deals with miscellaneous matters such as Finance Minister’s Orders, regulations and delegations.
+        Part 5  **Miscellaneous**: This Part deals with miscellaneous matters such as Finance Minister’s Orders and regulations.
 
 Related legislation
 
-                   The following Acts are directly relevant to the operation or interpretation of this Act.
+                   The following Acts are directly relevant to the operation or interpretation of this Act.
 
-The Annual Appropriation Acts appropriate money out of the Consolidated Revenue Fund, including monies to be paid directly to CAC Act bodies by the relevant portfolio Departments.
+                   The _Auditor‑General Act 1997_ establishes the Office of Auditor‑General and sets out the functions of the Auditor‑General.
 
-                   The _Auditor‑General Act 1997_ establishes the Office of Auditor‑General and sets out the functions of the Auditor‑General.
+                   The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of various terms and provisions that are commonly used in Commonwealth Acts.
 
-                   The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of many terms and provisions that are commonly used in Commonwealth Acts.
+                   This list is not exhaustive. Acts other than those listed above might also affect the operation or interpretation of this Act.
 
-                   The main purpose of the _Financial Management and Accountability Act 1997_ is to establish a framework for the proper management of public money and public property (broadly, money or property that is owned or held by the Commonwealth). Public money and public property is usually handled by Departments and other Agencies on behalf of the Commonwealth.
-
-                   This list is not exhaustive. Acts other than those listed above might also affect the operation or interpretation of this Act.
+                   Another related Act is the _Financial Management and Accountability Act 1997_. Its main purpose is to establish a framework for the proper management of public money and public property (broadly, money or property that is owned or held by the Commonwealth). Public money and public property is usually handled by Departments and other Agencies that act on behalf of the Commonwealth.
 
 # Contents
 
@@ -648,7 +644,7 @@ Note:          This subsection is a civil penalty provision (s
 
              (3)  The plan must cover a period of at least 3 years.
 
-             (4)  If the Commonwealth authority has subsidiaries, the plan must cover both the authority and its subsidiaries. In particular, for each subsidiary the plan must include details of the matters specified in the regulations for the purposes of subsection (6), so far as they are applicable.
+             (4)  If the Commonwealth authority has subsidiaries, the plan must cover both the authority and its subsidiaries. In particular, for each subsidiary the plan must include details of the matters in subsection (6), so far as they are applicable.
 
              (5)  The directors must keep the responsible Minister informed about:
 
@@ -656,9 +652,33 @@ Note:          This subsection is a civil penalty provision (s
 
                      (b)  matters that arise that might significantly affect the achievement of the objectives in the plan.
 
-             (6)  The plan must include details of matters (so far as they are applicable) specified in the regulations for the purposes of this subsection.
+             (6)  The plan must include details of the following matters (so far as they are applicable):
 
-             (7)  The plan must also cover any other matters required by the responsible Minister (which may include further details about the matters specified in the regulations for the purposes of subsection (6)).
+                     (a)  the objectives of the authority;
+
+                     (b)  assumptions about the business environment in which the authority operates;
+
+                     (c)  the business strategies of the authority;
+
+                     (d)  the investment and financing programs of the authority, including strategies for managing financial risk;
+
+                     (e)  financial targets and projections for the authority;
+
+                      (f)  the dividend policy of the authority;
+
+                     (g)  non‑financial performance measures for the authority;
+
+                     (h)  community service obligations of the authority and the strategies and policies the authority is to follow to carry out those obligations;
+
+                      (i)  review of performance against previous corporate plans and targets;
+
+                      (j)  analysis of factors likely to affect achievement of targets or create significant financial risk for the authority or for the Commonwealth;
+
+                     (k)  price control and quality control strategies for goods or services supplied by the authority under a monopoly;
+
+                      (l)  human resource strategies and industrial relations strategies.
+
+             (7)  The plan must also cover any other matters required by the responsible Minister (which may include further details about the matters in subsection (6)).
 
              (8)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding which matters are covered by subsection (5).
 
@@ -1608,7 +1628,7 @@ Note:          This is a civil penalty provision (see Schedule
 
              (3)  The plan must cover a period of at least 3 years.
 
-             (4)  If the Commonwealth company has subsidiaries, the plan must cover both the Commonwealth company and its subsidiaries. In particular, for each subsidiary the plan must include details of the matters specified in the regulations for the purposes of subsection (6), so far as they are applicable.
+             (4)  If the Commonwealth company has subsidiaries, the plan must cover both the Commonwealth company and its subsidiaries. In particular, for each subsidiary the plan must include details of the matters in subsection (6), so far as they are applicable.
 
              (5)  The directors must keep the responsible Minister informed about:
 
@@ -1616,9 +1636,33 @@ Note:          This is a civil penalty provision (see Schedule
 
                      (b)  matters that arise that might significantly affect the achievement of the objectives in the plan.
 
-             (6)  The plan must include details of matters (so far as they are applicable) specified in the regulations for the purposes of this subsection.
+             (6)  The plan must include details of the following matters (so far as they are applicable):
 
-             (7)  The plan must also cover any other matters required by the responsible Minister (which may include further details about the matters specified in the regulations for the purposes of subsection (6)).
+                     (a)  the objectives of the company;
+
+                     (b)  assumptions about the business environment in which the company operates;
+
+                     (c)  the business strategies of the company;
+
+                     (d)  the investment and financing programs of the company, including strategies for managing financial risk;
+
+                     (e)  financial targets and projections for the company;
+
+                      (f)  the dividend policy of the company;
+
+                     (g)  non‑financial performance measures for the company;
+
+                     (h)  community service obligations of the company and the strategies and policies the company is to follow to carry out those obligations;
+
+                      (i)  review of performance against previous corporate plans and targets;
+
+                      (j)  analysis of factors likely to affect achievement of targets or create significant financial risk for the company or for the Commonwealth;
+
+                     (k)  price control and quality control strategies for goods or services supplied by the company under a monopoly;
+
+                      (l)  human resource strategies and industrial relations strategies.
+
+             (7)  The plan must also cover any other matters required by the responsible Minister (which may include further details about the matters in subsection (6)).
 
              (8)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding which matters are covered by subsection (5).
 
@@ -2584,7 +2628,7 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
     <div>4 Aug 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Sept 2011 ( <i>see</i>F2011L01793)</div>
+    <div>Schedule 1: \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 7)</div>
@@ -2989,14 +3033,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3561,14 +3597,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -3968,7 +3996,46 @@ Repeal the subsection.
 
 Repeal the definition.
 
-As at 1 September 2011 the amendments are not incorporated in this compilation.
+As at 16 August 2011 the amendments are not incorporated in this compilation.
+
+### Note 4
+
+_Financial Framework Legislation Amendment Act (No. 1) 2011
+ (No. 89, 2011)_
+
+The following amendments commence on 4 August 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 17(4)
+
+Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
+
+## 2  Subsection 17(6)
+
+Repeal the subsection, substitute:
+
+             (6)  The plan must include details of matters (so far as they are applicable) specified in the regulations for the purposes of this subsection.
+
+## 3  Subsection 17(7)
+
+Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
+
+## 4  Subsection 42(4)
+
+Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
+
+## 5  Subsection 42(6)
+
+Repeal the subsection, substitute:
+
+             (6)  The plan must include details of matters (so far as they are applicable) specified in the regulations for the purposes of this subsection.
+
+## 6  Subsection 42(7)
+
+Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
+
+As at 16 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4097,6 +4164,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 _Financial Framework Legislation Amendment Act (No. 1) 2011
  (No. 89, 2011)_
+
+The following provision commences on 4 August 2012 unless proclaimed earlier:
 
 ## Schedule 1
 
