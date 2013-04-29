@@ -1,7 +1,7 @@
 
 Hazardous Waste (Regulation of Exports and Imports) Act 1989
 Act No. 6 of 1990 as amended
-This compilation was prepared on 22 December 2000 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 25 October 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -119,7 +119,7 @@ Part 6—Miscellaneous	77
 61	Annual report	86
 62	Regulations	86
 Schedule—Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal	87
-Notes		145
+Notes to the Hazardous Waste (Regulation of Exports and Imports) Act 1989	145
 An Act to provide for the regulation of the export, import and transit of hazardous waste, and for related purposes
 Part 1—Preliminary
 Division 1—Introductory
@@ -2441,11 +2441,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (item 505): 5 Dec 1999 (see Gazette 1999, No. S584) (c)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Schedule 2 (items 217, 218, 418, 419): [see (d), Note 2 and Table A]
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 was amended by Schedule 7 (item 16) only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(3) of which provides as follows:
 	(3)	The amendment of the Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 in Schedule 7 to this Act is taken to have commenced immediately after that Act received the Royal Assent.
 (b)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedules 3 and 4 only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(1) of which provides as follows:
@@ -2453,9 +2448,6 @@ Sch. 2 (items 418, 419) [see Table A]
 (c)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedule 1 (item 505) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(d)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedule 2 (items 217 and 218) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
-	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -2623,15 +2615,6 @@ rep. No. 7, 1996
 Schedule	
 am. No. 7, 1996; Statutory Rules 1999 No. 102
 
-Note 2
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following amendments commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-217  Section 54
-Repeal the section.
-218  Section 55
-Repeal the section.
-As at 22 December 2000 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 (No. 7, 1996)
@@ -2660,21 +2643,4 @@ Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)
 Schedule 3
 45  Application
 The amendments of the Hazardous Waste (Regulation of Exports and Imports) Act 1989 made by this Schedule apply in relation to applications for Basel permits, and for variations of Basel permits, made after the commencement of the Environment Protection and Biodiversity Conservation Act 1999.
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
