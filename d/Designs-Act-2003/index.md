@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00740/Html/e440a14b-003c-4e75-8ae6-df2746985535_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00474/Html/DesignsAct2003_image001.gif)
 
 # Designs Act 2003
 
 **Act No. 147 of 2003 as amended**
 
-This compilation was prepared on 13 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 7 July 2010
+ taking into account amendments up to Act No. 96 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -236,7 +236,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [73](#73).          Infringement proceedings
 
-[74](#74).          Counter‑claims
+[74](#74).          Counter-claims
 
 [75](#75).          Remedies for infringement
 
@@ -248,7 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [78](#78).          Court’s power to grant relief
 
-[79](#79).          Counter‑claim
+[79](#79).          Counter-claim
 
 [80](#80).          Mere notification of registration not a threat
 
@@ -596,7 +596,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="commonwealth"></a>**_Commonwealth_** includes a Commonwealth authority.
 
-                    <a name="complex-product"></a>**_complex product_** means a product comprising at least 2 replaceable component parts permitting disassembly and re‑assembly of the product.
+                    <a name="complex-product"></a>**_complex product_** means a product comprising at least 2 replaceable component parts permitting disassembly and re-assembly of the product.
 
                     <a name="continent-shelf"></a>**_continental shelf_** means the continental shelf of Australia as defined in the _Seas and Submerged Lands Act 1973_.
 
@@ -648,7 +648,7 @@ has been granted, whether in Australia or elsewhere.
 
                     <a name="legal-practition"></a>**_legal practitioner_** means a barrister or solicitor of the High Court of Australia or of the Supreme Court of a State or Territory.
 
-                    <a name="locarno-agreem"></a>**_Locarno Agreement_** means the Agreement establishing an International Classification for Industrial Design, signed at Locarno on  8 October 1968.
+                    <a name="locarno-agreem"></a>**_Locarno Agreement_** means the Agreement establishing an International Classification for Industrial Design, signed at Locarno on 8 October 1968.
 
                     <a name="minimum-file-requir"></a>**_minimum filing requirements_** has the meaning given by section 21.
 
@@ -658,11 +658,11 @@ has been granted, whether in Australia or elsewhere.
 
                      (b)  the Supreme Court of a State;
 
-                     (c)  the Supreme Court of the Australian Capital Territory;
+                     (c)  the Supreme Court of the Australian   Capital Territory;
 
-                     (d)  the Supreme Court of the Northern Territory;
+                     (d)  the Supreme Court of the Northern   Territory;
 
-                     (e)  the Supreme Court of Norfolk Island.
+                     (e)  the Supreme Court of Norfolk  Island.
 
                     <a name="prior-art-base"></a>**_prior art base_** has the meaning given by section 15.
 
@@ -720,11 +720,11 @@ has been granted, whether in Australia or elsewhere.
 
              (3)  A thing that has one or more indefinite dimensions is only a product for the purposes of this Act if any one or more of the following applies to the thing:
 
-                     (a)  a cross‑section taken across any indefinite dimension is fixed or varies according to a regular pattern;
+                     (a)  a cross-section taken across any indefinite dimension is fixed or varies according to a regular pattern;
 
                      (b)  all the dimensions remain in proportion;
 
-                     (c)  the cross‑sectional shape remains the same throughout, whether or not the dimensions of that shape vary according to a ratio or series of ratios;
+                     (c)  the cross-sectional shape remains the same throughout, whether or not the dimensions of that shape vary according to a ratio or series of ratios;
 
                      (d)  it has a pattern or ornamentation that repeats itself.
 
@@ -772,13 +772,13 @@ Part 3 specifies:
 
                (a)     who is entitled to be registered as the owner of an unregistered design; and
 
-              (b)     who is the registered owner of a registered design.
+               (b)     who is the registered owner of a registered design.
 
 Part 4 defines the key concepts of **_registrable design_**, **_newness_**, **_distinctiveness_** and **_substantial similarity_**. These concepts are important because:
 
                (a)     in examining a design under Chapter 5, the Registrar must decide whether it is new and distinctive when compared to the prior art base; and
 
-              (b)     in deciding whether a person has infringed a registered design under Chapter 6, a court must consider whether the allegedly infringing design is substantially similar in overall impression to the registered design.
+               (b)     in deciding whether a person has infringed a registered design under Chapter 6, a court must consider whether the allegedly infringing design is substantially similar in overall impression to the registered design.
 
 * * *
 
@@ -904,7 +904,7 @@ Note:          For **_document_**, see section 25 of the _Ac
 
              (3)  Subject to paragraph 15(2)(c), the newness or distinctiveness of a design is not affected by the mere publication or public use of the design in Australia on or after the priority date of the design, or by the registration of another design with the same or a later priority date.
 
-##### <a id="17"></a>17  Certain things to be disregarded in deciding whether a design is new and distinctive
+##### <a id="17"></a>17  Certain things to be disregarded in deciding whether a design is new and distinctive
 
              (1)  For the purpose of deciding whether a design is new and distinctive, the person making the decision must disregard:
 
@@ -1550,7 +1550,7 @@ the Registrar may make a written declaration specifying that a person whom the R
 
                             and as a result of the amendment or response, the Registrar is satisfied as mentioned in subsection (2).
 
-##### <a id="58"></a>58  What happens after Registrar gives notice under section 57
+##### <a id="58"></a>58  What happens after Registrar gives notice under section 57
 
              (1)  This section applies if the Registrar has given a written notice to an applicant under subsection 57(3).
 
@@ -1810,7 +1810,7 @@ Chapter 6 is about infringement.
 
 Part 2 provides that a person infringes a registered design if, without the appropriate authority, the person deals in certain ways with a product that embodies the design, or a design that is substantially similar to it.
 
-Part 2 also provides that the registered owner of a design may bring infringement proceedings. The defendant may counter‑claim for rectification of the Register.
+Part 2 also provides that the registered owner of a design may bring infringement proceedings. The defendant may counter-claim for rectification of the Register.
 
 Various remedies are available, including injunction, damages or an account of profits.
 
@@ -1924,9 +1924,9 @@ the registered owner of the design bears the burden of proving that the person k
 
              (4)  If a person files an application under section 21 for registration of a design as a result of the operation of section 55, the person may only bring infringement proceedings in respect of infringements of the design occurring after the date on which the application was filed under section 21.
 
-##### <a id="74"></a>74  Counter‑claims
+##### <a id="74"></a>74  Counter-claims
 
-                   A defendant in infringement proceedings in respect of a registered design may apply, by way of counter‑claim in the proceedings, for the revocation of the registration of the design under section 93.
+                   A defendant in infringement proceedings in respect of a registered design may apply, by way of counter-claim in the proceedings, for the revocation of the registration of the design under section 93.
 
 ##### <a id="75"></a>75  Remedies for infringement
 
@@ -1984,13 +1984,13 @@ the registered owner of the design bears the burden of proving that the person k
 
                      (b)  the acts about which the threats were made infringe, or would infringe, the registered design.
 
-##### <a id="79"></a>79  Counter‑claim
+##### <a id="79"></a>79  Counter-claim
 
-             (1)  The respondent in proceedings under section 77 in respect of a design may apply, by way of counter‑claim, for relief to which the respondent would be entitled in separate infringement proceedings against the applicant in respect of the design.
+             (1)  The respondent in proceedings under section 77 in respect of a design may apply, by way of counter-claim, for relief to which the respondent would be entitled in separate infringement proceedings against the applicant in respect of the design.
 
-             (2)  If the respondent applies under subsection (1) by way of counter‑claim, the applicant may, without making a separate application under section 93, apply for revocation of the registration of the design.
+             (2)  If the respondent applies under subsection (1) by way of counter-claim, the applicant may, without making a separate application under section 93, apply for revocation of the registration of the design.
 
-             (3)  The provisions of this Act relating to infringement proceedings apply, with the necessary modifications, to a counter‑claim under subsection (1).
+             (3)  The provisions of this Act relating to infringement proceedings apply, with the necessary modifications, to a counter-claim under subsection (1).
 
              (4)  The provisions of this Act relating to proceedings for the revocation of the registration of a design apply, with the necessary modifications, to an application under subsection (2).
 
@@ -2092,7 +2092,7 @@ Part 4 also deals with the capacity of a prescribed court to revoke the regist
 
                      (a)  admit further evidence orally, or on affidavit or otherwise;
 
-                     (b)  permit the examination and cross‑examination of witnesses (including witnesses who gave evidence before the Registrar);
+                     (b)  permit the examination and cross-examination of witnesses (including witnesses who gave evidence before the Registrar);
 
                      (c)  order an issue of fact to be tried as it directs;
 
@@ -2212,7 +2212,7 @@ Part 4 enables the Registrar to prohibit or restrict the publication of inform
 
                      (a)  the Australian Capital Territory, the Northern Territory and Norfolk Island;
 
-                     (b)  an authority of the Australian Capital Territory, the Northern Territory or Norfolk Island.
+                     (b)  an authority of the Australian   Capital Territory, the Northern Territory or Norfolk Island.
 
 ##### <a id="96"></a>96  Use of design by the Commonwealth or a State
 
@@ -2254,7 +2254,7 @@ Part 4 enables the Registrar to prohibit or restrict the publication of inform
 
              (1)  This section applies to an agreement or licence (whether made or given before or after the commencement of this section) fixing the terms on which a person other than the Commonwealth or a State may use a design.
 
-             (2)  Such an agreement or licence is inoperative with respect to the use, after the commencement of this section, of the design under section 96, unless the agreement or licence  has been approved by the Minister or by the Attorney‑General of the State.
+             (2)  Such an agreement or licence is inoperative with respect to the use, after the commencement of this section, of the design under section 96, unless the agreement or licence  has been approved by the Minister or by the Attorney-General of the State.
 
 ##### <a id="100"></a>100  Infringement
 
@@ -2266,7 +2266,7 @@ Part 4 enables the Registrar to prohibit or restrict the publication of inform
 
              (2)  An application under subsection (1) may not be made by the registered owner unless a certificate of examination has been issued.
 
-             (3)  In a proceeding under subsection (1), the Commonwealth or the State concerned is the defendant and may, by way of counter‑claim, apply for the revocation of the registration of the design under section 93.
+             (3)  In a proceeding under subsection (1), the Commonwealth or the State concerned is the defendant and may, by way of counter-claim, apply for the revocation of the registration of the design under section 93.
 
 ##### <a id="102"></a>102  Use of design to cease under court order
 
@@ -2312,7 +2312,7 @@ Part 4 enables the Registrar to prohibit or restrict the publication of inform
 
 ##### <a id="106"></a>106  Acquisition of design by the Commonwealth
 
-             (1)  The Governor‑General may direct that a design disclosed in a design application, or a registered design, be acquired by the Commonwealth.
+             (1)  The Governor-General may direct that a design disclosed in a design application, or a registered design, be acquired by the Commonwealth.
 
              (2)  When a direction is given, all rights in respect of the design are, by force of this section, transferred to and vested in the Commonwealth.
 
@@ -2372,7 +2372,7 @@ the design must be registered or published within the prescribed period.
 
                      (c)  the person’s conduct contravenes the order.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (2)  Subsection (1) does not apply if the person has the Registrar’s written consent.
 
@@ -2576,7 +2576,7 @@ The Designs Office is also established.
 
              (1)  There is to be a Designs Office.
 
-             (2)  There is to be a sub‑office of the Designs Office in every State.
+             (2)  There is to be a sub-office of the Designs Office in every State.
 
 ##### <a id="126"></a>126  Seal of Designs Office
 
@@ -2620,11 +2620,11 @@ Part 3 contains offence provisions.
 
 Part 4 sets out decisions that are reviewable by the Administrative Appeals Tribunal.
 
-Part 4A lets an act be done after the period otherwise provided for doing the act if that period ends on a day when the Designs Office or a sub‑office is not open for business.
+Part 4A lets an act be done after the period otherwise provided for doing the act if that period ends on a day when the Designs Office or a sub-office is not open for business.
 
 Part 5 gives the Registrar the power to extend the time within which specified things must be done.
 
-Part 6 sets out regulation‑making powers and other provisions dealing with miscellaneous matters.
+Part 6 sets out regulation-making powers and other provisions dealing with miscellaneous matters.
 
 * * *
 
@@ -2660,7 +2660,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (b)  the person knows, or is reckless as to whether, the entry is false.
 
-                    Maximum penalty: Imprisonment for 12 months.
+                    Maximum penalty:    Imprisonment for 12 months.
 
              (2)  A person commits an offence if:
 
@@ -2668,7 +2668,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (b)  the person knows that, or is reckless as to whether, the document falsely purports to be a copy of or extract from an entry in the Register.
 
-                    Maximum penalty: Imprisonment for 12 months.
+                    Maximum penalty:    Imprisonment for 12 months.
 
 ##### <a id="132"></a>132  False representation that a design is registered
 
@@ -2678,7 +2678,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (b)  the person knows, or is reckless as to whether, the representation is false.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
              (2)  A person commits an offence if the person:
 
@@ -2686,7 +2686,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (b)  knows that the design is not registered, or is reckless as to whether  the representation is false.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
              (3)  A person commits an offence if:
 
@@ -2696,7 +2696,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (c)  the person knows the design is not registered, or is reckless as to whether the design is registered.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
              (4)  Strict liability applies to paragraph (3)(b).
 
@@ -2718,7 +2718,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (c)  the person knows or is reckless as to whether the person’s office  or business is, or is connected with, the Designs Office _._
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  Strict liability applies to paragraph (1)(b).
 
@@ -2740,7 +2740,7 @@ Part 6 sets out regulation‑making powers and other provisions dealing with m
 
                      (c)  the person knows or is reckless as to whether the person’s conduct contravenes the requirement.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  Subsection (1) does not apply if the person has a lawful excuse.
 
@@ -2766,7 +2766,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  a right to, or licence under, a registered design, whether granted in Australia or anywhere else.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
              (2)  A purchase, sale, acquisition, assignment or transfer made or entered into in contravention of this section is void.
 
@@ -2806,13 +2806,13 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="136A"></a>136A  Doing act when Designs Office reopens after end of period otherwise provided for doing act
 
-             (1)  If the last day of a period provided by this Act (except this section) or the regulations for doing an act is a day when the Designs Office, or a sub‑office of the Designs Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub‑office is open for business.
+             (1)  If the last day of a period provided by this Act (except this section) or the regulations for doing an act is a day when the Designs Office, or a sub-office of the Designs Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub-office is open for business.
 
-             (2)  For the purposes of this section, the Designs Office, or a sub‑office of the Designs Office, is taken not to be open for business on a day:
+             (2)  For the purposes of this section, the Designs Office, or a sub-office of the Designs Office, is taken not to be open for business on a day:
 
-                     (a)  declared by regulations to be a day on which the office or sub‑office is not open for business; or
+                     (a)  declared by regulations to be a day on which the office or sub-office is not open for business; or
 
-                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub‑office is not open for business.
+                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub-office is not open for business.
 
 Declarations
 
@@ -2922,7 +2922,7 @@ the application or registration must be treated as having been restored on the d
 
 ## Part 6—Other
 
-##### <a id="141"></a>141  Powers of agents
+##### <a id="141"></a>141  Powers of agents
 
                    An agent may do any act in connection with the registration of designs, on behalf of any other person.
 
@@ -2940,7 +2940,7 @@ the application or registration must be treated as having been restored on the d
 
                      (a)  by any means determined by the Registrar; or
 
-                     (b)  by delivering the document to a sub‑office of the Designs Office either personally or by post or by any other prescribed means.
+                     (b)  by delivering the document to a sub-office of the Designs Office either personally or by post or by any other prescribed means.
 
 ##### <a id="145"></a>145  Service of documents
 
@@ -2964,7 +2964,7 @@ the application or registration must be treated as having been restored on the d
 
 ##### <a id="149"></a>149  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed; and
 
@@ -3192,11 +3192,11 @@ For all relevant information pertaining to application, saving or transitional p
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -3288,23 +3288,6 @@ Schedule 15 (item 1): 28 Sept 2006</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 532) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3400,8 +3383,8 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -3421,7 +3404,7 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
 </thead>
 <tr>
   <td>
-    <div><b>Chapter 10</b></div>
+    <div> <b>Chapter 10</b> </div>
   </td>
   <td>
     <div></div>
@@ -3437,7 +3420,7 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
 </tr>
 <tr>
   <td>
-    <div><b>Chapter 11</b></div>
+    <div> <b>Chapter 11</b> </div>
   </td>
   <td>
     <div></div>
@@ -3445,7 +3428,7 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div> <b>Part 1</b> </div>
   </td>
   <td>
     <div></div>
@@ -3553,7 +3536,7 @@ Add:
 
 Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 13 September 2011 the amendments are not incorporated in this compilation.
+As at 7 July 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -3581,21 +3564,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 1 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 13 September 2011 the amendment is not incorporated in this compilation.
-
-### Note 4
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 532  Subsection 15(2) (note)
-
-Omit “section 25”, substitute “section 2B”.
-
-As at 13 September 2011 the amendment is not incorporated in this compilation.
+As at 7 July 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -3610,28 +3579,12 @@ The following provision commences on 1 February 2012 or an earlier time determin
 
 ## 7  Application of amendments of the _Designs Act 2003_
 
-(1)       The amendment of the _Designs Act 2003_ made by item 2 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+(1)        The amendment of the _Designs Act 2003_ made by item 2 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
 
-(2)       The amendment of the _Designs Act 2003_ made by item 3 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+(2)        The amendment of the _Designs Act 2003_ made by item 3 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
 
-(3)       The amendments of the _Designs Act 2003_ made by items 4, 5 and 6 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to designs (or interests in designs) that are commenced before the time the items commence.
+(3)        The amendments of the _Designs Act 2003_ made by items 4, 5 and 6 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to designs (or interests in designs) that are commenced before the time the items commence.
 
 _Note:       Items 2 to 6 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
