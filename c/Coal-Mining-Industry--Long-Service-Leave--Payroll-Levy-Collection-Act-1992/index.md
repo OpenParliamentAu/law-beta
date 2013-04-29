@@ -1,70 +1,66 @@
-![](http://www.comlaw.gov.au/Details/C2012C00096/Html/81443860-0c75-4b4e-9f18-df8c8751e884_files/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="B7F9829DBCEA4809CA256FB80017F9F8/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992
 
 **Act No. 61 of 1992 as amended**
 
-This compilation was prepared on 12 January 2012
- taking into account amendments up to Act No. 142 of 2011
+This compilation was prepared on 1 March 2005
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[3A](#3A).         Application of _Criminal Code_
+[3A](#3A).         Application of _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[3B](#3B).         Meaning of _eligible wages_
+[4](#4).            Due date for payment<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[4](#4).            Due date for payment
+[5](#5).            Returns by employers<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Returns by employers
+[6](#6).            Extension of time and payment by instalments<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[6](#6).            Extension of time and payment by instalments
+[7](#7).            Additional levy<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[7](#7).            Additional levy
+[8](#8).            Remission of additional levy<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[8](#8).            Remission of additional levy
+[9](#9).            Recovery of levy or additional levy<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[9](#9).            Recovery of levy or additional levy
+[10](#10).          Audited accounts and certificates to be provided to Corporation<span style="mso-tab-count: 1 dotted">       </span>
 
-[10](#10).          Requirement to give report to Corporation
+[11](#11).          Functions of Corporation under this Act<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[10A](#10A).       Corporation may require auditor to give report
+[12](#12).          Access to premises and books<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[10B](#10B).       Payment of auditor fees
+[13](#13).          Power to obtain information and evidence<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[11](#11).          Functions of Corporation under this Act
+[14](#14).          Secrecy<span style="mso-tab-count: 1 dotted">                                                                                               </span>
 
-[12](#12).          Access to premises and books
+[15](#15).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[13](#13).          Power to obtain information and evidence
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
-[14](#14).          Secrecy
-
-[15](#15).          Regulations
-
-**Notes** 
 
 ## An Act relating to the collection of levy imposed by the _Coal Mining Industry (Long Service Leave) Payroll Levy Act 1992_, and for related purposes
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act commences on the same day as the _Coal Mining Industry (Long Service Leave) Payroll Levy Act 1992_.
 
@@ -72,156 +68,45 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="administr-act"></a>**_Administration Act_** means the _Coal Mining Industry (Long Service Leave) Administration Act 1992_.
-
-                    <a name="base-rate-pai"></a>**_base rate of pay_** has the same meaning as in the _Fair Work Act 2009_.
-
                     <a name="board"></a>**_Board_** means the Board of Directors of the Corporation.
 
-                    <a name="corpor"></a>**_Corporation_** means the Coal Mining Industry (Long Service Leave Funding) Corporation established by the Administration Act.
+                    <a name="corpor"></a>**_Corporation_** means the Coal Mining Industry (Long Service Leave Funding) Corporation established by the Funding Act.
 
-                    <a name="elig-employe"></a>**_eligible employee_** has the same meaning as in the Administration Act.
+                    <a name="elig-employe"></a>**_eligible employee_** has the same meaning as in the Funding Act.
 
-                    <a name="elig-wage"></a>**_eligible wages_** has the meaning given by section 3B.
-
-                    <a name="employ"></a>**_employer_** has the same meaning as in the Administration Act.
+                    <a name="elig-wage"></a>**_eligible wages_** means remuneration or allowances (including production-related bonuses) paid to an eligible employee in respect of employment by virtue of which he or she is an eligible employee, whether or not paid under a relevant industrial instrument, but does not include overtime, penalty rates, the cost or value of benefits provided to an eligible employee otherwise than as remuneration or allowances, or any other allowances which, because of their nature, an eligible employee is not entitled to be paid during a period of long service leave.
 
                     <a name="financi-statem"></a>**_financial statements_**, in relation to a company in relation to a financial year of the company, means the company’s financial statements for that year for the purposes of the _Corporations Act 2001_.
 
-                    <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40 of the Administration Act.
+                    <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40 of the Funding Act.
+
+                    <a name="fund-act"></a>**_Funding Act_** means the _Coal Mining Industry (Long Service Leave Funding) Act 1992_.
 
                     <a name="levi"></a>**_Levy_** means levy imposed by the _Coal Mining Industry (Long Service Leave) Payroll Levy Act 1992_.
 
                     <a name="month"></a>**_month_** means one of the 12 months of the calendar year.
 
-                    <a name="salari-sacrific-arrang"></a>**_salary sacrifice arrangement_** means an arrangement under which an employee chooses to:
-
-                     (a)  forgo a percentage or amount payable to the employee in relation to the performance of work; but
-
-                     (b)  receive some other form of benefit or remuneration.
-
                     <a name="taxat-law"></a>**_taxation law_** has the same meaning as in the _Taxation Administration Act 1953_.
 
 ##### <a id="3A"></a>3A  Application of _Criminal Code_
 
-             (1)  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-             (2)  For the purposes of applying Chapter 2 of the _Criminal Code_ to an offence in a provision referred to in column 1 of an item in the following table, the physical elements of the offence are set out in the provision referred to in column 2 of the item:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="36%">
-  <col width="54%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Physical elements for certain offences</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>
-        <b>Offence</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>
-        <b>Provision setting out physical elements of the offence</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>section 5</div>
-  </td>
-  <td>
-    <div>subsection 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>section 10</div>
-  </td>
-  <td>
-    <div>subsection 10(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>section 10A</div>
-  </td>
-  <td>
-    <div>subsection 10A(3)</div>
-  </td>
-</tr></table>
-
-##### <a id="3B"></a>3B  Meaning of _eligible wages_
-
-             (1)  If an eligible employee is paid a base rate of pay and is not a casual employee, the employee’s **_eligible wages_** are the greater of:
-
-                     (a)  the base rate of pay paid to the employee, including incentive‑based payments and bonuses; and
-
-                     (b)  75% of the base rate of pay paid to the employee, including:
-
-                              (i)  incentive‑based payments and bonuses; and
-
-                             (ii)  overtime or penalty rates; and
-
-                            (iii)  allowances (other than those for reimbursement of expenses).
-
-             (2)  If an eligible employee is paid an annual salary, the employee’s **_eligible wages_** are the annual salary paid to the employee, including incentive‑based payments and bonuses but excluding:
-
-                     (a)  overtime or penalty rates; and
-
-                     (b)  shift‑loadings.
-
-             (3)  If an eligible employee is a casual employee, the employee’s **_eligible wages_** are the base rate of pay paid to the employee, including incentive‑based payments and bonuses.
-
-             (4)  In this section:
-
-                     (a)  a reference to the base rate of pay paid to an employee is a reference to the employee’s base rate of pay before any amounts are deducted under a salary sacrifice arrangement; and
-
-                     (b)  a reference to the annual salary paid to an employee is a reference to the employee’s annual salary before any amounts are deducted under a salary sacrifice arrangement; and
-
-                     (c)  a reference to an incentive‑based payment paid to an employee is a reference to a payment of that kind that is paid to the employee at least once a month; and
-
-                     (d)  a reference to a bonus paid to an employee is a reference to a bonus that is paid to the employee at least once a month.
-
 ##### <a id="4"></a>4  Due date for payment
 
-                   Subject to section 6, levy in respect of eligible wages paid to eligible employees for their employment during a month is payable at the end of the period within which a return is required by this Act to be made in respect of that month.
+                   Subject to section 6, levy in respect of eligible wages paid to eligible employees is payable at the end of the period within which a return is required by this Act to be made in respect of those wages.
 
 ##### <a id="5"></a>5  Returns by employers
 
-             (1)  A person who employs an eligible employee at any time during a month must, within 28 days after the end of that month, make a return in accordance with subsection (2) in respect of that month.
+             (1)  A person who employs eligible employees at any time during a month that ends after the commencement of this Act must, within 28 days after the end of that month, make a return of the eligible wages paid by the person to those employees during that month.
+
+                    Penalty:  $1,000.
+
+          (1A)  Subsection (1) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
              (2)  A return for the purposes of this section:
 
@@ -233,19 +118,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  must be in accordance with a form approved by the Board; and
 
-                     (c)   must contain such information as is required by that form.
+                     (c)  must contain such information as is required by that form.
 
-             (3)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  30 penalty units.
-
-Note 1:       For offences of strict liability, see section 6.1 of the _Criminal Code_.
-
-Note 2:       For the physical elements of this offence, see subsection 3A(2) of this Act.
-
-             (4)  Subsection (1) is a **_civil penalty provision_**.
-
-Note:          Part 7A of the Administration Act provides for pecuniary penalties for contraventions of civil penalty provisions.
+             (3)  It is a defence to a prosecution for failure to comply with subsection (1) if the defendant establishes that there was a reasonable excuse for the failure.
 
 ##### <a id="6"></a>6  Extension of time and payment by instalments
 
@@ -283,11 +158,11 @@ then:
 
                              (ii)  in a case to which paragraph (b) applies—the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00096/Html/81443860-0c75-4b4e-9f18-df8c8751e884_files/image002.gif)
+<v:shape id="_x0000_i1026" style="WIDTH: 204pt; HEIGHT: 30pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B7F9829DBCEA4809CA256FB80017F9F8/$FILE/image003.wmz"></v:imagedata></v:shape>
 
              (4)  In this section:
 
-                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
 ##### <a id="8"></a>8  Remission of additional levy
 
@@ -339,79 +214,35 @@ the Corporation may remit the additional levy or part of the additional levy.
 
                      (b)  otherwise—to the Corporation in such manner as is prescribed by the regulations or, if there are no such regulations, as the Board directs.
 
-             (2)  An amount of levy, or an amount of additional levy under section 7, that is payable but has not been paid may be sued for and recovered by the Corporation or by the other person (if any) to whom the amount is payable, as the case may be, in any court of competent jurisdiction.
+             (2)  Subject to subsection (3), an amount of levy, or an amount of additional levy under section 7, that is payable but has not been paid may be sued for and recovered by the Corporation or by the other person (if any) to whom the amount is payable, as the case may be, in any court of competent jurisdiction.
 
-             (3)  The annual report of the Corporation for a financial year must include particulars of:
+             (3)  The Board must give written notice to the Minister before any proceedings are brought to recover an amount under subsection (2).
 
-                     (a)  any amounts paid to, or recovered by, the Corporation or another person under this section during the financial year; and
+             (4)  The Minister may give directions as to how amounts paid to, or recovered by, the Corporation or another person under this section are to be dealt with before they are paid to the Commonwealth.
 
-                     (b)  any proceedings brought by the Corporation to recover an amount under subsection (2) during the financial year.
+##### <a id="10"></a>10  Audited accounts and certificates to be provided to Corporation
 
-Note:          Section 9 of the _Commonwealth Authorities and Companies Act 1997_ imposes annual reporting requirements.
+             (1)  If a company, at any time during a financial year of the company, employed eligible employees, the auditor of the company appointed under the _Corporations Act 2001_ must give to the Corporation, not later than 6 months after the end of that year, a certificate stating whether, in the opinion of the auditor, the company has paid all amounts of levy, or amounts of additional levy under section 7, that the company was required to pay in respect of that year.
 
-##### <a id="10"></a>10  Requirement to give report to Corporation
+                    Penalty:  $1,000.
 
-             (1)  If a person employs an eligible employee at any time during a financial year, the person must, no later than 6 months after the end of the financial year, give to the Corporation a report prepared by an auditor that:
+             (2)  The Board may give to the auditor of a company that employed eligible employees at any time during a particular period a written notice requiring the auditor to give to the Corporation, not later than 28 days after receiving the notice, a certificate stating whether, in the opinion of the auditor, the company has paid all amounts of levy, or amounts of additional levy under section 7, that the company was required to pay in respect of the first-mentioned period, and, if such a notice is given, the auditor must comply with the notice.
 
-                     (a)  states whether, in the opinion of the auditor, the person has paid all amounts of levy, or amounts of additional levy under section 7, that the person was required to pay in respect of the financial year; and
+                    Penalty:  $1,000.
 
-                     (b)  if, in the opinion of the auditor, the person has not paid all amounts of such levy or additional levy—specifies in what respect and to what extent, in the opinion of the auditor, the person has not paid those amounts; and
+             (3)  If the auditor of a company gives a certificate under subsection (1) or (2) stating that, in the opinion of the auditor, the company has not paid all the amounts of levy, or the amounts of additional levy under section 7, that the company was required to pay in respect of a financial year or other period, the auditor must also state in the certificate in what respect and to what extent, in the auditor’s opinion, the company has not paid those amounts.
 
-                     (c)  if, during the financial year, the person was paid an amount under Part 7 of the Administration Act—states whether, in the opinion of the auditor, the amount paid is correct; and
+                    Penalty:  $1,000.
 
-                     (d)  includes reasons for the opinions contained in the report.
+          (3A)  Subsections (1), (2) and (3) are offences of strict liability.
 
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-                    Penalty:  30 penalty units.
+             (4)  A company is liable to pay to its auditor such fees as the auditor reasonably charges for the giving of a certificate to the Corporation under subsection (1) or (2).
 
-Note 1:       For offences of strict liability, see section 6.1 of the _Criminal Code_.
+             (5)  If a certificate given to the Corporation by the auditor of a company pursuant to a notice given to the auditor by the Board under subsection (2) states that, in the opinion of the auditor, the company has paid all amounts of levy, or amounts of additional levy under section 7, that the company was required to pay in respect of the period to which the notice related, there is payable to the company out of the Fund an amount equal to the amount paid by the company to the auditor under subsection (4) in respect of the giving of the certificate.
 
-Note 2:       For the physical elements of this offence, see subsection 3A(2) of this Act.
-
-             (3)  Subsection (1) is a **_civil penalty provision_**.
-
-Note:          Part 7A of the Administration Act provides for pecuniary penalties for contraventions of civil penalty provisions.
-
-##### <a id="10A"></a>10A  Corporation may require auditor to give report
-
-             (1)  If a person employs an eligible employee at any time during a particular period, the Board may, by written notice given to the person’s auditor, require the auditor to give to the Corporation, by the time specified in the notice, a report prepared by the auditor that:
-
-                     (a)  states whether, in the opinion of the auditor, the person has paid all amounts of levy, or amounts of additional levy under section 7, that the person was required to pay in respect of the period; and
-
-                     (b)  if, in the opinion of the auditor, the person has not paid all amounts of such levy or additional levy—specifies in what respect and to what extent, in the opinion of the auditor, the person has not paid those amounts; and
-
-                     (c)  if, during the period, the person was paid an amount under Part 7 of the Administration Act—states whether, in the opinion of the auditor, the amount paid is correct; and
-
-                     (d)  includes reasons for the opinions contained in the report.
-
-             (2)  The time specified in the notice must be at least 28 days after the day the notice is given to the auditor.
-
-             (3)  If an auditor is given a notice under subsection (1), the auditor must comply with the notice.
-
-             (4)  An auditor commits an offence of strict liability if the auditor contravenes subsection (3).
-
-                    Penalty:  30 penalty units.
-
-Note 1:       For offences of strict liability, see section 6.1 of the _Criminal Code_.
-
-Note 2:       For the physical elements of this offence, see subsection 3A(2) of this Act.
-
-             (5)  Subsection (3) is a **_civil penalty provision_**.
-
-Note:          Part 7A of the Administration Act provides for pecuniary penalties for contraventions of civil penalty provisions.
-
-##### <a id="10B"></a>10B  Payment of auditor fees
-
-             (1)  A person is liable to pay to an auditor such fees as the auditor reasonably charges for preparing a report in respect of the person for the purposes of section 10 or 10A.
-
-             (2)  If:
-
-                     (a)  a person’s auditor gives a report in respect of a particular period to the Corporation in response to a notice under subsection 10A(1); and
-
-                     (b)  the report states that, in the opinion of the auditor, the person has paid all amounts of levy, or amounts of additional levy under section 7, that the person was required to pay in respect of the period;
-
-there is payable to the person out of the Fund an amount equal to the amount paid by the person to the auditor under subsection (1) in respect of the report.
+             (6)  It is a defence to a prosecution for failure to comply with a provision of this section if the defendant establishes that there was a reasonable excuse for the failure.
 
 ##### <a id="11"></a>11  Functions of Corporation under this Act
 
@@ -439,7 +270,7 @@ there is payable to the person out of the Fund an amount equal to the amount pai
 
              (4)  The occupier of any premises entered or proposed to be entered by an officer under subsection (2) must provide the officer with all reasonable facilities and assistance for the effective exercise of powers under this section.
 
-                    Penalty:  30 penalty units.
+                    Penalty:  $3,000.
 
 ##### <a id="13"></a>13  Power to obtain information and evidence
 
@@ -473,15 +304,19 @@ there is payable to the person out of the Fund an amount equal to the amount pai
 
              (8)  A person must not fail to comply with a notice under subsection (2).
 
-                    Penalty:  30 penalty units.
+                    Penalty:  $3,000.
 
           (8A)  Subsection (8) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
+          (8B)  Subsection (8) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (8B) (see subsection 13.3(3) of the _Criminal Code_).
+
              (9)  A person must not, in purported compliance with a notice under subsection (2), give information or evidence knowing that the information or evidence is false or misleading.
 
-                    Penalty for a contravention of this subsection:     Imprisonment for 6 months. 
+                    Penalty for a contravention of this subsection:    Imprisonment for 6 months. 
 
 ##### <a id="14"></a>14  Secrecy
 
@@ -505,7 +340,7 @@ and who, because of the appointment or employment or in the course of the employ
 
 being information disclosed or obtained under or for the purposes of this Act and acquired by the person because of the person’s appointment or employment by the Commonwealth or in the course of such employment, or because of the delegation to the person of powers or functions by the Commissioner of Taxation or in the course of the exercise of such powers or the performance of such functions, as the case may be.
 
-                    Penalty:  100 penalty units or imprisonment for 2 years, or both.
+                    Penalty:  $10,000 or imprisonment for 2 years, or both.
 
           (3A)  Subsection (3) does not apply if the person is acting:
 
@@ -535,7 +370,7 @@ being a document or information acquired by the person because of the person’s
 
 ##### <a id="15"></a>15  Regulations
 
-                   The Governor‑General may make regulations:
+                   The Governor-General may make regulations:
 
                      (a)  prescribing all matters required or permitted by this Act to be prescribed; or
 
@@ -549,17 +384,16 @@ and, in particular:
 
                      (e)  requiring employers to give to such persons as are prescribed information relating to the employment of eligible employees; and
 
-                    (ea)  requiring employers to appoint an auditor; and
+                      (f)  prescribing penalties, not exceeding a fine of $1,000, for offences against the regulations.
 
-                      (f)  prescribing penalties, not exceeding 50 penalty units, for offences against the regulations.
 
-# Notes to the _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_
+# Notes to the _<span style="mso-no-proof: yes">Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992</span>_
 
 ### Note 1
 
 The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ as shown in this compilation comprises Act No. 61 of 1992 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -577,285 +411,228 @@ For all other relevant information pertaining to application, saving or transiti
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992</div>
-  </td>
-  <td>
-    <div>61, 1992</div>
-  </td>
-  <td>
-    <div>26 June 1992</div>
-  </td>
-  <td>
-    <div>26 June 1993 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
-  </td>
-  <td>
-    <div>48, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 34): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 101, 102): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 
-\[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>142, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–9): 2 Oct 2001 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 117, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Coal Mining Industry (Long Service Leave) Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>142, 2011</div>
-  </td>
-  <td>
-    <div>29 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 51–55) and Schedule 3: 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 5, 
-21–26)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992</div>
+    </td>
+    <td>
+      <div>61, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="26" month="6">26 June 1992</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="26" month="6">26 June 1993</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2)</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
+    </td>
+    <td>
+      <div>48, 1998</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="29" month="6">29 June 1998</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 34): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="7">1 July 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1998, No. S316) <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="28" month="6">28 June 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4-14 and Schedule 3 (items 101, 102): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="7">15 July 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S285) <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4-14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>142, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="10">1 Oct 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 2-9): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="2" month="10">2 Oct 2001</st1:date> <i style="mso-bidi-font-style: normal">(c)</i></div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 117, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 1 (item 34) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
-_(b)_ The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 3 (items 101 and 102) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(b)_ The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 3 (items 101 and 102) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections <st1:time minute="56" hour="9">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(c)_ The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 1 (items 2–9) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
+_(c)_ The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 1 (items 2-9) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
+
+<o:p> </o:p>
+
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001; No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3B</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001; No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 48, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. Nos. 55 and 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10A, 10B</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001; No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2011</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A </div>
+    </td>
+    <td>
+      <div>ad. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7 </div>
+    </td>
+    <td>
+      <div>am. No. 48, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10 </div>
+    </td>
+    <td>
+      <div>am. Nos. 55 and 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13, 14 </div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 
- (No. 142, 2001)_
+_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001  (No. 142, 2001)<o:p></o:p>_
 
-##### <a id="4"></a>4  Application of amendments
+## 4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
@@ -863,7 +640,7 @@ _Employment, Workplace Relations and Small Business Legislation Amendment (Appli
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -879,46 +656,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
 
-_Coal Mining Industry (Long Service Leave) Legislation Amendment Act 2011 (No. 142, 2011)_
-
-## Schedule 3
-
-## 5  Application of item 4
-
-The amendment made by item 4 of this Schedule applies in relation to levy payable in respect of employment on or after 1 January 2012.
-
-## 21  Application of item 9
-
-Section 4 of the _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_, as substituted by item 9 of this Schedule, applies in relation to levy payable in respect of employment on or after 1 January 2012.
-
-## 22  Application of items 10 and 11
-
-The amendments made by items 10 and 11 of this Schedule apply in relation to returns made in respect of employment on or after 1 January 2012.
-
-## 23  Application of item 13
-
-The amendment made by item 13 of this Schedule applies to the financial year that started on 1 July 2011 and to later financial years.
-
-## 24  Application of section 10 of the Payroll Levy Collection Act
-
-Section 10 of the _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_, as inserted by item 14 of this Schedule, applies to the financial year that started on 1 July 2011 and to later financial years.
-
-## 25  Application of section 10A of the Payroll Levy Collection Act
-
-Section 10A of the _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_, as inserted by item 14 of this Schedule, applies to a period that ends on or after 1 January 2012, whether or not the period begins before that date.
-
-## 26  Application of items 15 to 18
-
-(1)       The amendments made by items 15 to 18 of this Schedule apply in relation to acts and omissions that occur on or after 1 January 2012.
-
-(2)       For the purposes of this item, if an act or omission is alleged to have occurred between 2 dates, one before and one on or after 1 January 2012, the act or omission is taken to have occurred before 1 January 2012.
-
- 
+<o:p> </o:p>
