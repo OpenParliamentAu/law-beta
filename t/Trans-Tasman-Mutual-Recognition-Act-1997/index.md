@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00353/Html/0C8257BAB5D545DBCA2570000017E621/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00329/Html/5837AE09BC41C1E2CA256FE800810A6E/$FILE/image001.gif)
 
 # Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 16 May 2005
+This compilation was prepared on 15 April 2005
 taking into account amendments up to Act No. 38 of 2005
 
 The text of any of those amendments not in force
@@ -19,215 +19,213 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Principal purpose
+[3](#3).            Principal purpose                                                                                1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
-[5](#5).            Operation of this Act in relation to the Commonwealth
+[5](#5).            Operation of this Act in relation to the Commonwealth                     4
 
-[6](#6).            Operation of this Act in relation to the States
+[6](#6).            Operation of this Act in relation to the States                                    5
 
-[7](#7).            Operation of this Act in relation to New Zealand
+[7](#7).            Operation of this Act in relation to New Zealand                               5
 
-[8](#8).            Crown bound
+[8](#8).            Crown bound                                                                                       6
 
 **Part 2—Goods**
 
-[9](#9).            Trans-Tasman mutual recognition principle
+[9](#9).            Trans-Tasman mutual recognition principle                                        7
 
-[10](#10).          Entitlement to sell goods
+[10](#10).          Entitlement to sell goods                                                                     7
 
-[11](#11).          Requirements that do not need to be complied with
+[11](#11).          Requirements that do not need to be complied with                           7
 
-[12](#12).          Requirements that do need to be complied with
+[12](#12).          Requirements that do need to be complied with                                 8
 
-[13](#13).          Defences to offences regarding sale
+[13](#13).          Defences to offences regarding sale                                                     9
 
-[14](#14).          Goods that comply with local law
+[14](#14).          Goods that comply with local law                                                    10
 
 **Part 3—Occupations** 
 
     **Division 1—Preliminary**
 
-[15](#15).          Trans-Tasman mutual recognition principle
+[15](#15).          Trans-Tasman mutual recognition principle                                      11
 
-[16](#16).          Entitlement to carry on occupation
+[16](#16).          Entitlement to carry on occupation                                                   11
 
-[17](#17).          Application of this Part
+[17](#17).          Application of this Part                                                                     12
 
     **Division 2—Entitlement to registration**
 
-[18](#18).          Notification to local registration authority
+[18](#18).          Notification to local registration authority                                        13
 
-[19](#19).          Entitlement to registration and continued registration
+[19](#19).          Entitlement to registration and continued registration                       14
 
-[20](#20).          Action following notice
+[20](#20).          Action following notice                                                                     15
 
-[21](#21).          Postponement of registration
+[21](#21).          Postponement of registration                                                            15
 
-[22](#22).          Refusal of registration
+[22](#22).          Refusal of registration                                                                        16
 
-[23](#23).          Notification of decision
+[23](#23).          Notification of decision                                                                     17
 
     **Division 3—Interim arrangements**
 
-[24](#24).          Deemed registration
+[24](#24).          Deemed registration                                                                           18
 
-[25](#25).          Duration of deemed registration
+[25](#25).          Duration of deemed registration                                                        18
 
-[26](#26).          Activities under deemed registration
+[26](#26).          Activities under deemed registration                                                 19
 
     **Division 4—Equivalent occupations**
 
-[27](#27).          Equivalent occupations
+[27](#27).          Equivalent occupations                                                                      21
 
-[28](#28).          General principle
+[28](#28).          General principle                                                                               21
 
-[29](#29).          Declarations as to equivalent occupations
+[29](#29).          Declarations as to equivalent occupations                                         21
 
-[30](#30).          Declarations by Australian Tribunal
+[30](#30).          Declarations by Australian Tribunal                                                 22
 
-[31](#31).          Declarations by Ministers
+[31](#31).          Declarations by Ministers                                                                 23
 
     **Division 5—General provisions**
 
-[32](#32).          Disciplinary action
+[32](#32).          Disciplinary action                                                                            24
 
-[33](#33).          Review of decisions
+[33](#33).          Review of decisions                                                                           24
 
-[34](#34).          Costs
+[34](#34).          Costs                                                                                                  25
 
-[35](#35).          Co-operation with and membership of Trans-Tasman Occupations Tribunal (NZ)
+[35](#35).          Co-operation with and membership of Trans-Tasman Occupations Tribunal (NZ)              25
 
-[36](#36).          Residence or domicile
+[36](#36).          Residence or domicile                                                                        26
 
-[37](#37).          Furnishing information
+[37](#37).          Furnishing information                                                                      26
 
-[38](#38).          Receiving information
+[38](#38).          Receiving information                                                                        27
 
-[39](#39).          General responsibilities of local registration authorities
+[39](#39).          General responsibilities of local registration authorities                    27
 
-[40](#40).          Fees
+[40](#40).          Fees                                                                                                    28
 
-[41](#41).          Formalities requiring personal attendance
+[41](#41).          Formalities requiring personal attendance                                         28
 
-[42](#42).          Saving
+[42](#42).          Saving                                                                                                 29
 
 **Part 4—Exclusions and exemptions**
 
-[43](#43).          References to endorsing a proposed regulation
+[43](#43).          References to endorsing a proposed regulation                                 30
 
-[44](#44).          Exclusions
+[44](#44).          Exclusions                                                                                          30
 
-[45](#45).          Permanent exemptions
+[45](#45).          Permanent exemptions                                                                       31
 
-[46](#46).          Temporary exemptions
+[46](#46).          Temporary exemptions                                                                     31
 
-[47](#47).          Continuation of temporary exemptions to enable implementation of ministerial agreements
+[47](#47).          Continuation of temporary exemptions to enable implementation of ministerial agreements 32
 
-[48](#48).          Special exemptions
+[48](#48).          Special exemptions                                                                            33
 
-[49](#49).          Exemptions relating to occupations
+[49](#49).          Exemptions relating to occupations                                                   34
 
 **Part 5—General**
 
-[50](#50).          References to participating jurisdictions
+[50](#50).          References to participating jurisdictions                                           35
 
-[51](#51).          Application of Trans-Tasman mutual recognition principle
+[51](#51).          Application of Trans-Tasman mutual recognition principle             35
 
-[52](#52).          Machinery provisions regarding limitations etc 
+[52](#52).          Machinery provisions regarding limitations etc                                35
 
-[53](#53).          Determining place of production
+[53](#53).          Determining place of production                                                       36
 
-[54](#54).          Commonwealth regulations for temporary exemptions
+[54](#54).          Commonwealth regulations for temporary exemptions                    36
 
 **Schedule 1—Exclusions** 
 
 **Part 1—Introduction**
 
-[1](#1).            Excluded laws
+[1](#1).            Excluded laws                                                                                    37
 
 **Part 2—Laws**
 
-[2](#2).            Customs controls and tariffs (including laws relating to international obligations)
+[2](#2).            Customs controls and tariffs (including laws relating to international obligations) 38
 
-[3](#3).            Intellectual property (including laws relating to the Paris Convention of 20 March 1983 for the Protection of Industrial Property)
+[3](#3).            Intellectual property (including laws relating to the Paris Convention of 20 March 1983 for the Protection of Industrial Property)                                                                                           38
 
-[4](#4).            Other international obligations
+[4](#4).            Other international obligations                                                          39
 
-[5](#5).            Taxation and business franchises
+[5](#5).            Taxation and business franchises                                                       40
 
 **Schedule 2—Permanent exemptions** 
 
 **Part 1—Laws relating to goods: general**
 
-[1](#1).            Quarantine
+[1](#1).            Quarantine                                                                                         41
 
-[2](#2).            Endangered species
+[2](#2).            Endangered species                                                                            41
 
 **Part 2—Laws relating to goods: specific**
 
-[3](#3).            Commonwealth
+[3](#3).            Commonwealth                                                                                  42
 
-[4](#4).            New South Wales
+[4](#4).            New South Wales                                                                              42
 
-[5](#5).            Victoria
+[5](#5).            Victoria                                                                                              43
 
-[6](#6).            Queensland
+[6](#6).            Queensland                                                                                        44
 
-[7](#7).            Western Australia
+[7](#7).            Western Australia                                                                              44
 
-[8](#8).            South Australia
+[8](#8).            South Australia                                                                                  45
 
-[9](#9).            Tasmania
+[9](#9).            Tasmania                                                                                            46
 
-[10](#10).          Australian Capital Territory
+[10](#10).          Australian Capital Territory                                                              46
 
-[11](#11).          Northern Territory
+[11](#11).          Northern Territory                                                                            47
 
 **Schedule 3—Special exemptions**
 
-[1](#1).            Therapeutic goods
+[1](#1).            Therapeutic goods                                                                             48
 
-[2](#2).            Hazardous substances, industrial chemicals and dangerous goods
+[2](#2).            Hazardous substances, industrial chemicals and dangerous goods    48
 
-[3](#3).            Radiocommunications devices
+[3](#3).            Radiocommunications devices                                                           51
 
-[4](#4).            Road vehicles
+[4](#4).            Road vehicles                                                                                     51
 
-[5](#5).            Gas appliances
+[5](#5).            Gas appliances                                                                                   51
 
 **Schedule 4—Exempt laws relating to occupations**
 
-[1](#1).            Exempt laws
+[1](#1).            Exempt laws                                                                                      52
 
-[2](#2).            Medical practitioners
+[2](#2).            Medical practitioners                                                                         52
 
 **Schedule 5—Privacy of information collected under the Act** 
 
 **Part 1—Interpretation**
 
-[1](#1).            Interpretation
+[1](#1).            Interpretation                                                                                     53
 
 **Part 2—Principles**
 
-[2](#2).            Solicitation of personal information from individual concerned
+[2](#2).            Solicitation of personal information from individual concerned        55
 
-[3](#3).            Storage and security of personal information
+[3](#3).            Storage and security of personal information                                    55
 
-[4](#4).            Limits on use of personal information
+[4](#4).            Limits on use of personal information                                               56
 
-[5](#5).            Limits on disclosure for personal information
+[5](#5).            Limits on disclosure for personal information                                   56
 
 **Notes** 
-
- 
 
 
 ## An Act to provide for the recognition within Australia of regulatory standards adopted in New Zealand regarding goods and occupations
@@ -712,7 +710,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (2)  In making decisions for the purposes of this Act, the Australian Tribunal is to have regard to decisions of the New Zealand Tribunal.
 
-             (3)  For the purposes of a review of a decision referred to in subsection 33(1) of this Act, the President of the Australian Tribunal may, in the exercise of the power under subsection 20B(1) of the _Administrative Appeals Tribunal Act 1975_, direct that the persons who are to constitute the Australian Tribunal for the purposes of that review include:
+             (3)  For the purposes of a review of a decision referred to in subsection 33(1) of this Act, the President of the Australian Tribunal may, in the exercise of the power under paragraph 20(1A)(b) of the _Administrative Appeals Tribunal Act 1975_, direct that the persons who are to constitute the Australian Tribunal for the purposes of that review include:
 
                      (a)  the Chairperson of the New Zealand Tribunal; or
 
@@ -720,11 +718,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (4)  The President of the Australian Tribunal must exercise the power given by subsection (3) in accordance with arrangements made from time to time between the President and the Chairperson of the New Zealand Tribunal.
 
-             (5)  A reference in any of the following provisions to a member includes a reference to a person included in a direction under subsection (3) of this section:
-
-                     (a)  the definition of **_authorised member_** in subsection 3(1) of the _Administrative Appeals Tribunal Act 1975_;
-
-                     (b)  Part III, IIIA, IV or VI of the _Administrative Appeals Tribunal Act 1975_.
+             (5)  A reference in Part III, IIIA, IV or VI of the _Administrative Appeals Tribunal Act 1975_ to a member includes a reference to a person included in a direction under subsection (3).
 
              (6)  In spite of anything in any other Act, the Chairperson of the New Zealand Tribunal, or a person included on the panel maintained under the New Zealand Act, is not entitled to remuneration or allowances in respect of service as a member of the Australian Tribunal as permitted by this Act.
 
@@ -1423,7 +1417,7 @@ Prohibited Weapons Act 1989
   </tr>
   <tr>
     <td>
-      <div><i>Firearms Regulation</i> <i>s 1</i> <i>995</i></div>
+      <div><i>Firearms Regulations 1995</i></div>
     </td>
   </tr>
   <tr>
@@ -1433,7 +1427,7 @@ Prohibited Weapons Act 1989
   </tr>
   <tr>
     <td>
-      <div><i>Control of Weapons Regulation</i> <i>s 1</i> <i>990 
+      <div><i>Control of Weapons Regulations 1990 
 
  </i></div>
     </td>
@@ -1450,7 +1444,7 @@ Prohibited Weapons Act 1989
   </tr>
   <tr>
     <td>
-      <div><i>Dangerous Goods (Explosives) Regulation</i> <i>s 1</i> <i>988</i>, Part 8, Division 5 
+      <div><i>Dangerous Goods (Explosives) Regulations 1988</i>, Part 8, Division 5 
 
 </div>
     </td>
@@ -1667,7 +1661,7 @@ Prohibited Weapons Act 1989
   </tr>
   <tr>
     <td>
-      <div><i>Firearms Regulation</i> <i>s 1</i> <i>993</i></div>
+      <div><i>Firearms Regulations 1993</i></div>
     </td>
   </tr>
   <tr>
@@ -1706,7 +1700,7 @@ Prohibited Weapons Act 1989
   </tr>
   <tr>
     <td>
-      <div><i>Gaming Machines Regulation</i> <i>s 1</i> <i>993 
+      <div><i>Gaming Machines Regulations 1993 
 
  </i></div>
     </td>
@@ -2140,7 +2134,7 @@ _Note:       See section 48._
   </tr>
   <tr>
     <td>
-      <div><i>Work Health (Occupational Health and Safety) Regulation</i> <i>s 1</i> <i>992</i>of the Northern Territory</div>
+      <div><i>Work Health (Occupational Health and Safety) Regulations 1992</i>of the Northern Territory</div>
     </td>
   </tr>
   <tr>
@@ -2150,7 +2144,7 @@ _Note:       See section 48._
   </tr>
   <tr>
     <td>
-      <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>980</i>of the Northern Territory</div>
+      <div><i>Dangerous Goods Regulations 1980</i>of the Northern Territory</div>
     </td>
   </tr>
   <tr>
@@ -2160,7 +2154,7 @@ _Note:       See section 48._
   </tr>
   <tr>
     <td>
-      <div><i>Occupational Safety and Health Regulation</i> <i>s 1</i> <i>988</i>of Western Australia</div>
+      <div><i>Occupational Safety and Health Regulations 1988</i>of Western Australia</div>
     </td>
   </tr>
   <tr>
@@ -2170,12 +2164,12 @@ _Note:       See section 48._
   </tr>
   <tr>
     <td>
-      <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>992</i>of Western Australia</div>
+      <div><i>Dangerous Goods Regulations 1992</i>of Western Australia</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Explosives Regulation</i> <i>s 1</i> <i>963</i>of Western Australia</div>
+      <div><i>Explosives Regulations 1963</i>of Western Australia</div>
     </td>
   </tr>
   <tr>
@@ -2230,7 +2224,7 @@ _Note:       See section 48._
   </tr>
   <tr>
     <td>
-      <div><i>Occupational Health, Safety and Welfare Regulation</i> <i>s 1</i> <i>995</i>of South Australia</div>
+      <div><i>Occupational Health, Safety and Welfare Regulations 1995</i>of South Australia</div>
     </td>
   </tr>
   <tr>
@@ -2569,7 +2563,7 @@ the authority must ensure that the forms issued to individuals in connection wit
 
 The _Trans-Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
 
-The _Trans-Tasman Mutual Recognition Act 1997 __was amended by the Trans-Tasman Mutual Recognition Regulation__s 1__999 __(SR 1999 No. 60), the Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1) __(SR __2000 No. 51), the Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1) __(SR __2001 No. 75), the __Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)__(SR __2001 No. 221), the __Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)__(SR __2002 No. 78) and the __Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)__ (SR __2003 No. 72). __The amendments are incorporated in this compilation._
+The _Trans-Tasman Mutual Recognition Act 1997 __was amended by the Trans-Tasman Mutual Recognition Regulations 1999 __(SR 1999 No. 60), the Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1) __(SR __2000 No. 51), the Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1) __(SR __2001 No. 75), the __Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)__(SR __2001 No. 221), the __Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)__(SR __2002 No. 78) and the __Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)__ (SR __2003 No. 72). __The amendments are incorporated in this compilation._
 
 ### Table of Acts
 
@@ -2670,7 +2664,7 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (items 235, 236): 16 May 2005</div>
+      <div>Schedule 1 (items 235, 236): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -2705,14 +2699,6 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)
 <tbody>
   <tr>
     <td>
-      <div>S. 35</div>
-    </td>
-    <td>
-      <div>am. No. 38, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>Schedule 1</div>
     </td>
     <td>
@@ -2736,6 +2722,31 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Administrative Appeals Tribunal Amendment Act 2005 (No. 38, 2005)_
+
+The following amendments commence on 1 October 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 235  Subsection 35(3)
+
+Omit “paragraph 20(1A)(b)”, substitute “subsection 20B(1)”.
+
+## 236  Subsection 35(5)
+
+Repeal the subsection, substitute:
+
+             (5)  A reference in any of the following provisions to a member includes a reference to a person included in a direction under subsection (3) of this section:
+
+                     (a)  the definition of **_authorised member_** in subsection 3(1) of the _Administrative Appeals Tribunal Act 1975_;
+
+                     (b)  Part III, IIIA, IV or VI of the _Administrative Appeals Tribunal Act 1975_.
+
+As at 15 April 2005 the amendments are not incorporated in this compilation.
 
 
  
