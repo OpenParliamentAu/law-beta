@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00646/Html/2dbd8212-d886-4dae-b404-fde3b09b1e8e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00363/Html/SurveillDevices2004_image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 16 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 7 June 2010
+ taking into account amendments up to Act No. 50 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Protected information in the custody of a court, tribunal or Royal Commission
 
-    **Division 2—Reporting and record‑keeping**
+    **Division 2—Reporting and record-keeping**
 
 [49](#49).          Report on each warrant or authorisation
 
@@ -218,7 +218,7 @@ Mutual Assistance in Criminal Matters Act 1987           �
 
 ##### <a id="4"></a>4  Relationship to other laws and matters
 
-             (1)  Except where there is express provision to the contrary, this Act is not intended to affect any other law of the Commonwealth, any law of a State, or any law of a self‑governing Territory, that prohibits or regulates the use of surveillance devices.
+             (1)  Except where there is express provision to the contrary, this Act is not intended to affect any other law of the Commonwealth, any law of a State, or any law of a self-governing Territory, that prohibits or regulates the use of surveillance devices.
 
              (2)  For the avoidance of doubt, except where express provision is made to the contrary, nothing in this Act applies to any body, organisation or agency, however described, that is involved in the collection of information or intelligence.
 
@@ -442,7 +442,7 @@ whether within or beyond Australia.
 
                     <a name=""></a><a name="record"></a>**_record_** includes:
 
-                     (a)  an audio, visual or audio‑visual record; and
+                     (a)  an audio, visual or audio-visual record; and
 
                      (b)  a record in digital form; and
 
@@ -462,11 +462,11 @@ whether within or beyond Australia.
 
                      (c)  an offence against section 15 or 18 of the _Financial Transaction Reports Act 1988_; or
 
-                    (ca)  an offence against section 53, 59, 139, 140 or 141 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; or
+                    (ca)  an offence against section 53, 59, 139, 140 or 141 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; or
 
                      (d)  an offence against section 100, 100A, 100B, 101, 101A or 101AA of the _Fisheries Management Act 1991_; or
 
-                   (da)  an offence against section 46A, 46C, 46D, 49A or 51A of the _Torres Strait Fisheries Act 1984_; or
+                    (da)  an offence against section 46A, 46C, 46D, 49A or 51A of the _Torres Strait Fisheries Act 1984_; or
 
                      (e)  an offence that is prescribed by the regulations.
 
@@ -648,13 +648,13 @@ whether or not that person is physically present for any step in the execution o
 
                      (a)  Deputy President;
 
-                     (b)  full‑time senior member;
+                     (b)  full-time senior member;
 
-                     (c)  part‑time senior member;
+                     (c)  part-time senior member;
 
                      (d)  member.
 
-             (2)  Despite subsection (1), the Minister must not nominate a person who holds an appointment as a part‑time senior member or a member of the Tribunal unless the person:
+             (2)  Despite subsection (1), the Minister must not nominate a person who holds an appointment as a part-time senior member or a member of the Tribunal unless the person:
 
                      (a)  is enrolled as a legal practitioner of the High Court, of another federal court or of the Supreme Court of a State or of the Australian Capital Territory; and
 
@@ -716,7 +716,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
 ##### <a id="15"></a>15  Remote application
 
-             (1)  If a law enforcement officer believes that it is impracticable for an application for a surveillance device warrant to be made in person, the application may be made under section 14 by telephone, fax, e‑mail or any other means of communication.
+             (1)  If a law enforcement officer believes that it is impracticable for an application for a surveillance device warrant to be made in person, the application may be made under section 14 by telephone, fax, e-mail or any other means of communication.
 
              (2)  If transmission by fax is available and an affidavit has been prepared, the person applying must transmit a copy of the affidavit, whether sworn or unsworn, to the eligible Judge or to the nominated AAT member who is to determine the application.
 
@@ -768,7 +768,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                            (vii)  if the warrant authorises the use of a surveillance device in or on an object or class of object—the object or class of object in or on which the use of the surveillance device is authorised; and
 
-                          (viii)  if the warrant authorises the use of a surveillance device in respect of the conversations, activities or location of a person—the name of the person (if known) or the fact that the person’s identity is unknown; and
+                           (viii)  if the warrant authorises the use of a surveillance device in respect of the conversations, activities or location of a person—the name of the person (if known) or the fact that the person’s identity is unknown; and
 
                             (ix)  the period during which the warrant is in force, being a period not exceeding 90 days; and
 
@@ -944,7 +944,7 @@ the application may be made before an affidavit is prepared or sworn.
 
 ##### <a id="23"></a>23  Remote application
 
-             (1)  If a law enforcement officer believes that it is impracticable for an application for a retrieval warrant to be made in person, the application may be made under section 22 by telephone, fax, e‑mail or any other means of communication.
+             (1)  If a law enforcement officer believes that it is impracticable for an application for a retrieval warrant to be made in person, the application may be made under section 22 by telephone, fax, e-mail or any other means of communication.
 
              (2)  If transmission by fax is available and an affidavit has been prepared, the person applying must transmit a copy of the affidavit, whether sworn or unsworn, to the eligible Judge or nominated AAT member who is to determine the application.
 
@@ -1044,7 +1044,7 @@ the application may be made before an affidavit is prepared or sworn.
 
              (2)  If the application is being made by or on behalf of a State or Territory law enforcement officer, the reference in that subsection to a relevant offence does not include a reference to a State offence that has a federal aspect.
 
-             (3)  The application may be made orally, in writing or by telephone, fax, e‑mail or any other means of communication.
+             (3)  The application may be made orally, in writing or by telephone, fax, e-mail or any other means of communication.
 
              (4)  The appropriate authorising officer may give the emergency authorisation if satisfied that there are reasonable grounds for the suspicion founding the application.
 
@@ -1060,7 +1060,7 @@ the application may be made before an affidavit is prepared or sworn.
 
                              (ii)  it is not practicable in the circumstances to apply for a surveillance device warrant.
 
-             (2)  The application may be made orally, in writing or by telephone, fax, e‑mail or any other means of communication.
+             (2)  The application may be made orally, in writing or by telephone, fax, e-mail or any other means of communication.
 
              (3)  The appropriate authorising officer may give the emergency authorisation if satisfied that the recovery order is in force and that there are reasonable grounds for the suspicion founding the application.
 
@@ -1076,7 +1076,7 @@ the application may be made before an affidavit is prepared or sworn.
 
                             (vi)  an offence against section 73.2, 73.3 or 91.1 of the _Criminal Code_; or
 
-                          (viii)  an offence under Subdivision A of Division 72 or Division, 80, 101, 102, 103, 270, 272 or 273 of the _Criminal Code_; or
+                           (viii)  an offence under Subdivision A of Division 72 or Division, 80, 101, 102, 103, 270, 272 or 273 of the _Criminal Code_; or
 
                             (ix)  an offence against section 233B or 233C of the _Migration Act 1958_;
 
@@ -1092,7 +1092,7 @@ the application may be made before an affidavit is prepared or sworn.
 
 the law enforcement officer may apply to an appropriate authorising officer for an emergency authorisation for the use of a surveillance device.
 
-             (2)  The application may be made orally, in writing or by telephone, fax, e‑mail or any other means of communication.
+             (2)  The application may be made orally, in writing or by telephone, fax, e-mail or any other means of communication.
 
              (3)  The appropriate authorising officer may give the emergency authorisation if satisfied that:
 
@@ -1308,7 +1308,7 @@ if the use of that device for that listening or recording purpose is confined to
 
                      (b)  that is referred to in subsection (1);
 
-if the first‑mentioned person is the speaker of the words or is a person, or is included in a class or group of persons, by whom the speaker of the words intends, or should reasonably expect, the words to be heard.
+if the first-mentioned person is the speaker of the words or is a person, or is included in a class or group of persons, by whom the speaker of the words intends, or should reasonably expect, the words to be heard.
 
              (5)  A person (other than a State or Territory law enforcement officer) who is assisting a State or Territory law enforcement officer who is acting in the course of his or her duties in relation to:
 
@@ -1316,7 +1316,7 @@ if the first‑mentioned person is the speaker of the words or is a person, or i
 
                      (b)  the location and safe recovery of a child to whom a recovery order relates;
 
-may, without warrant, use a surveillance device for any purpose that involves listening to, or recording, words spoken by a person if the first‑mentioned person is the speaker of the words or is a person, or is included in a class or group of persons, by whom the speaker of the words intends, or should reasonably expect, the words to be heard.
+may, without warrant, use a surveillance device for any purpose that involves listening to, or recording, words spoken by a person if the first-mentioned person is the speaker of the words or is a person, or is included in a class or group of persons, by whom the speaker of the words intends, or should reasonably expect, the words to be heard.
 
 ##### <a id="39"></a>39  Use and retrieval of tracking devices without warrant in certain circumstances
 
@@ -1326,7 +1326,7 @@ may, without warrant, use a surveillance device for any purpose that involves li
 
              (3)  A law enforcement officer may, with the written permission of an appropriate authorising officer, use a tracking device without a warrant in the location and safe recovery of a child to whom a recovery order relates.
 
-             (4)  Subsections (1) and (3) have effect despite any other law of the Commonwealth or of a State or self‑governing Territory (including any principle of the common law) forbidding the use of such a device without a warrant.
+             (4)  Subsections (1) and (3) have effect despite any other law of the Commonwealth or of a State or self-governing Territory (including any principle of the common law) forbidding the use of such a device without a warrant.
 
              (5)  A tracking device authorisation given under subsection (1) or (3) may authorise the law enforcement officer to use more than one tracking device.
 
@@ -1538,7 +1538,7 @@ the chief officer of the law enforcement agency to which the law enforcement off
 
                      (b)  the use or communication of protected information by a person who believes on reasonable grounds that the use or communication is necessary to help prevent or reduce the risk of serious violence to a person or substantial damage to property; or
 
-                     (c)  the communication to the Director‑General (within the meaning of the _Australian Security Intelligence Organisation Act 1979_) of protected information that relates or appears to relate to any matter within the functions of that organisation; or
+                     (c)  the communication to the Director-General (within the meaning of the _Australian Security Intelligence Organisation Act 1979_) of protected information that relates or appears to relate to any matter within the functions of that organisation; or
 
                      (d)  the communication to the agency head (within the meaning of the _Intelligence Services Act 2001_) of an agency (within the meaning of that Act) of protected information that relates or appears to relate to any matter within the functions of that agency; or
 
@@ -1570,7 +1570,7 @@ the chief officer of the law enforcement agency to which the law enforcement off
 
                      (h)  the performance of any function of the public interest monitor under either the _Crime and Misconduct Act 2001_ of Queensland or the _Police Powers and Responsibilities Act 2000_ of Queensland or under both of those Acts with respect to ensuring compliance with either of those Acts or with this Act;
 
-                      (i)  an investigation under the _Privacy Act 1988_ or any other law of the Commonwealth concerning the privacy of personal information and also any subsequent investigation or prosecution of a relevant offence arising directly from that first‑mentioned investigation.
+                      (i)  an investigation under the _Privacy Act 1988_ or any other law of the Commonwealth concerning the privacy of personal information and also any subsequent investigation or prosecution of a relevant offence arising directly from that first-mentioned investigation.
 
              (6)  Paragraphs (4)(f) and (5)(a), (b) and (c) do not authorise:
 
@@ -1596,7 +1596,7 @@ for a particular purpose, the protected information that has been so communicate
 
              (9)  In this section:
 
-                    <a name="state-territori-relev-offenc"></a>**_State or Territory relevant offence_** means a relevant offence against the law of a State or self‑governing Territory that is punishable by a maximum term of imprisonment of 3 years or more or for life.
+                    <a name="state-territori-relev-offenc"></a>**_State or Territory relevant offence_** means a relevant offence against the law of a State or self-governing Territory that is punishable by a maximum term of imprisonment of 3 years or more or for life.
 
                     <a name="state-territori-relev-proceing"></a>**_State or Territory relevant proceeding_** means:
 
@@ -1666,7 +1666,7 @@ for a particular purpose, the protected information that has been so communicate
 
                    A person is not entitled to search any protected information in the custody of a court, tribunal or Royal Commission unless the court, tribunal or Royal Commission otherwise orders in the interests of justice.
 
-### Division 2—Reporting and record‑keeping
+### Division 2—Reporting and record-keeping
 
 ##### <a id="49"></a>49  Report on each warrant or authorisation
 
@@ -1704,7 +1704,7 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
 
                            (vii)  give details of any premises on which the device was installed or any place at which the device was used; and
 
-                          (viii)  give details of any object in or on which the device was installed and any premises where the object was located when the device was installed; and
+                           (viii)  give details of any object in or on which the device was installed and any premises where the object was located when the device was installed; and
 
                             (ix)  if the warrant is issued or the authorisation given in respect of the investigation of a relevant offence—give details of the benefit to the investigation of the use of the device and of the general use made or to be made of any evidence or information obtained by the use of the device; and
 
@@ -1942,7 +1942,7 @@ to answer questions relevant to the inspection.
 
 when required to do so under this section.
 
-                    Penalty for an offence against this subsection:     Imprisonment for 6 months.
+                    Penalty for an offence against this subsection:          Imprisonment for 6 months.
 
 ##### <a id="57"></a>57  Ombudsman to be given information and access despite other laws
 
@@ -2042,7 +2042,7 @@ all or any of the Ombudsman’s powers under this Division other than a power to
 
              (5)  A certificate must not be admitted in evidence under subsection (2) in prosecution proceedings unless the person charged or a solicitor who has appeared for the person in those proceedings has, at least 14 days before the certificate is sought to be so admitted, been given a copy of the certificate together with reasonable evidence of the intention to produce the certificate as evidence in those proceedings.
 
-             (6)  Subject to subsection (7), if, under subsection (2), a certificate is admitted in evidence in prosecution proceedings, the person charged may require the person giving the certificate to be called as a witness for the prosecution and cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (6)  Subject to subsection (7), if, under subsection (2), a certificate is admitted in evidence in prosecution proceedings, the person charged may require the person giving the certificate to be called as a witness for the prosecution and cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (7)  Subsection (6) does not entitle the person charged to require the person giving a certificate to be called as a witness for the prosecution unless the court before which the prosecution proceedings are brought, by order, allows the person charged to require the person giving the certificate to be so called.
 
@@ -2100,7 +2100,7 @@ as if the warrant, emergency authorisation or tracking device authorisation did 
 
 ##### <a id="66"></a>66  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2188,21 +2188,21 @@ Add:
 
                      (b)  that foreign country requests the provision of material relevant to that investigation or those proceedings; and
 
-                     (c)  the Attorney‑General is satisfied that the material requested is:
+                     (c)  the Attorney-General is satisfied that the material requested is:
 
                               (i)  material lawfully obtained by an enforcement agency in Australia; and
 
                              (ii)  material lawfully in the possession of that enforcement agency;
 
-the Attorney‑General may, by writing in accordance with the approved form, authorise the provision of that material to the requesting country.
+the Attorney-General may, by writing in accordance with the approved form, authorise the provision of that material to the requesting country.
 
-             (2)  Subsection (1) does not permit the Attorney‑General to authorise the provision to the requesting country of material obtained through the use of a surveillance device unless the request relates to an investigation into, or proceedings in relation to, a serious offence against the laws of that country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty.
+             (2)  Subsection (1) does not permit the Attorney-General to authorise the provision to the requesting country of material obtained through the use of a surveillance device unless the request relates to an investigation into, or proceedings in relation to, a serious offence against the laws of that country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty.
 
-             (3)  An authorisation by the Attorney‑General under subsection (1) may include a direction to an authorised officer of the enforcement agency having possession of the material about how the material is to be provided to that foreign country.
+             (3)  An authorisation by the Attorney-General under subsection (1) may include a direction to an authorised officer of the enforcement agency having possession of the material about how the material is to be provided to that foreign country.
 
-             (4)  In authorising the provision of material to a foreign country, the Attorney‑General may specify the uses to which that material can be put.
+             (4)  In authorising the provision of material to a foreign country, the Attorney-General may specify the uses to which that material can be put.
 
-             (5)  An authorisation by the Attorney‑General under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+             (5)  An authorisation by the Attorney-General under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
              (6)  In this section:
 
@@ -2313,7 +2313,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Terrorism Act (No. 2) 2005</div>
+    <div>Anti-Terrorism Act (No. 2) 2005</div>
   </td>
   <td>
     <div>144, 2005</div>
@@ -2348,7 +2348,7 @@ Schedule 9 (item 24): <i>(a)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -2416,7 +2416,7 @@ Schedule 9 (item 24): <i>(a)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -2451,7 +2451,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007</div>
   </td>
   <td>
     <div>52, 2007</div>
@@ -2553,7 +2553,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑People Smuggling and Other Measures Act 2010</div>
+    <div>Anti-People Smuggling and Other Measures Act 2010</div>
   </td>
   <td>
     <div>50, 2010</div>
@@ -2567,26 +2567,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 16)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1099–1101) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (item 19) of the _Anti‑Terrorism Act (No. 2) 2005_ provides as follows:
+_(a)_     Subsection 2(1) (item 19) of the _Anti-Terrorism Act (No. 2) 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2666,7 +2649,7 @@ _(a)_     Subsection 2(1) (item 19) of the _Anti‑Terrorism Act (No.�
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -2677,7 +2660,7 @@ _(a)_     Subsection 2(1) (item 19) of the _Anti‑Terrorism Act (No.�
   </td>
 </tr></table>
 
-_(b)_     Subsection 2(1) (item 3) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
+_(b)_    Subsection 2(1) (item 3) of the _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2722,7 +2705,7 @@ _(b)_     Subsection 2(1) (item 3) of the _Anti‑Money Laundering and
   <td>
     <div>
       Immediately after the commencement of section 2 of the
-        <i>Anti‑Terrorism Act (No. 2) 2005</i>.
+        <i>Anti-Terrorism Act (No. 2) 2005</i>.
     </div>
   </td>
   <td>
@@ -2971,28 +2954,6 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1099  Subsection 41(1) (definition of _contiguous zone_)
-
-Repeal the definition.
-
-## 1100  Subsection 41(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-## 1101  Subsection 44(1) (subparagraph (d)(iii) of the definition of _protected information_)
-
-Omit “(within the meaning of section 41)”.
-
-As at 16 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3003,7 +2964,7 @@ _Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures
 
 ## 75  Application of amendments to conduct before and after commencement
 
-(1)       In this item:
+(1)        In this item:
 
 **_earlier conduct_** means conduct engaged in before the commencement of this Schedule.
 
@@ -3019,15 +2980,15 @@ _Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures
 
                      (b)  any law related to those provisions.
 
-(2)       The amendments made by this Schedule do not apply in relation to earlier conduct.
+(2)        The amendments made by this Schedule do not apply in relation to earlier conduct.
 
-(3)       Despite the amendments made by this Schedule, the old law continues to apply in relation to later conduct if:
+(3)        Despite the amendments made by this Schedule, the old law continues to apply in relation to later conduct if:
 
                      (a)  the later conduct is related to earlier conduct; and
 
                      (b)  because of that relationship, the later conduct would have constituted a physical element (or a part of a physical element) of an offence against the old law, had the old law remained in force.
 
-(4)       If later conduct is alleged against a person in a prosecution for an offence against the old law, that conduct must not be alleged against the person in a prosecution for:
+(4)        If later conduct is alleged against a person in a prosecution for an offence against the old law, that conduct must not be alleged against the person in a prosecution for:
 
                      (a)  an offence against the new law; or
 
@@ -3035,9 +2996,9 @@ _Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures
 
 ## 76  Transitional regulations
 
-(1)       The regulations may make provision for matters of a transitional nature (including any saving or application provisions) arising from the amendments or repeals made by this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature (including any saving or application provisions) arising from the amendments or repeals made by this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -3048,7 +3009,7 @@ _Telecommunications Interception Legislation Amendment Act 2008
 
 ## 9  Transitional provision—appropriate authorising officer
 
-(1)       This item applies to an authorisation in force, immediately before the commencement of this item, under one of the following provisions of the definition of **_appropriate authorising officer_** in relation to a law enforcement officer in subsection 6(1) of the _Surveillance Devices Act 2004_(as in force at that time):
+(1)        This item applies to an authorisation in force, immediately before the commencement of this item, under one of the following provisions of the definition of **_appropriate authorising officer_** in relation to a law enforcement officer in subsection 6(1) of the _Surveillance Devices Act 2004_(as in force at that time):
 
                      (a)  subparagraph (a)(iii);
 
@@ -3062,7 +3023,7 @@ _Telecommunications Interception Legislation Amendment Act 2008
 
                       (f)  subparagraph (f)(iii).
 
-(2)       The authorisation has effect, on and after the commencement of this item, as if it were an authorisation in force under:
+(2)        The authorisation has effect, on and after the commencement of this item, as if it were an authorisation in force under:
 
                      (a)  in the case of an authorisation under subparagraph (a)(iii) of the definition of **_appropriate authorising officer_**—subsection 6A(1) of that Act (as inserted by item 8 of this Schedule); or
 
@@ -3076,15 +3037,15 @@ _Telecommunications Interception Legislation Amendment Act 2008
 
                       (f)  in the case of an authorisation under subparagraph (f)(iii) of the definition of **_appropriate authorising officer_**—subsection 6A(6) of that Act (as inserted by item 8 of this Schedule).
 
-(3)       To avoid doubt, the amendments made by this Schedule do not affect the validity of anything done before the commencement of this item in relation to, or in reliance on, an authorisation to which this item applies.
+(3)        To avoid doubt, the amendments made by this Schedule do not affect the validity of anything done before the commencement of this item in relation to, or in reliance on, an authorisation to which this item applies.
 
 ## 10  Transitional provision—law enforcement officer
 
-(1)       This item applies to an authorisation in force, immediately before the commencement of this item, under subparagraph (aa)(iii) of the definition of **_law enforcement officer_** in subsection 6(1) of the _Surveillance Devices Act 2004_(as in force at that time).
+(1)        This item applies to an authorisation in force, immediately before the commencement of this item, under subparagraph (aa)(iii) of the definition of **_law enforcement officer_** in subsection 6(1) of the _Surveillance Devices Act 2004_(as in force at that time).
 
-(2)       The authorisation has effect, on and after the commencement of this item, as if it were an authorisation in force under section 6B of that Act (as inserted by item 8 of this Schedule).
+(2)        The authorisation has effect, on and after the commencement of this item, as if it were an authorisation in force under section 6B of that Act (as inserted by item 8 of this Schedule).
 
-(3)       To avoid doubt, the amendments made by this Schedule do not affect the validity of anything done before the commencement of this item in relation to, or in reliance on, an authorisation to which this item applies.
+(3)        To avoid doubt, the amendments made by this Schedule do not affect the validity of anything done before the commencement of this item in relation to, or in reliance on, an authorisation to which this item applies.
 
 * * *
 
@@ -3108,28 +3069,12 @@ Despite the amendment made by item 72, subparagraph 30(1)(a)(iii) of the _Surv
 
 * * *
 
-_Anti‑People Smuggling and Other Measures Act 2010 (No. 50, 2010)_
+_Anti-People Smuggling and Other Measures Act 2010 (No. 50, 2010)_
 
 ## Schedule 1
 
 ## 16  Application
 
 Section 30 of the _Surveillance Devices Act 2004_ as amended by this Act applies to investigations begun on or after commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
