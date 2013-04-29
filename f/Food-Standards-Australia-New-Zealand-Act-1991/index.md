@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00311/Html/39efaf8d-5c75-4dcc-a694-4c0dfcd5046b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00743/Html/cf81565b-bbed-4de6-b9a8-f5b79f65f654_files/image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 20 March 2012
+This compilation was prepared on 13 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -800,7 +800,7 @@ to be laid before each House of the Parliament within 15 sitting days of that Ho
 
 ### Division 2—Food regulatory measures
 
-##### <a id="16"></a>16  Matters that may be included in standards and variations of standards
+##### <a id="16"></a>16  Matters that may be included in standards and variations of standards
 
              (1)  Standards, and variations of standards, developed by the Authority may relate to any of the following:
 
@@ -1152,7 +1152,7 @@ Fee to expedite consideration paid after early payment period
 
              (5)  If an applicant pays a charge, or the first instalment of a charge, mentioned in paragraph 27(d) after the end of the early payment period, the Authority must, within 5 business days after that payment, again give public notice of the matters mentioned in subsection (2), including an update on when the Authority now proposes to undertake the key steps in the procedure.
 
-##### <a id="29"></a>29  Assessing the application
+##### <a id="29"></a>29  Assessing the application
 
              (1)  If the Authority accepts an application, the Authority must assess the application.
 
@@ -1186,7 +1186,7 @@ the Authority must give the applicant notice in writing of that fact and state i
 
              (3)  The Authority must not give public notice under section 31 within 10 business days immediately after notice is given to the applicant under subsection (2) of this section.
 
-##### <a id="31"></a>31  Calling for submissions
+##### <a id="31"></a>31  Calling for submissions
 
              (1)  After preparing a draft food regulatory measure or a draft variation of a food regulatory measure as a result of an application, the Authority must give public notice of the matters mentioned in subsection (2).
 
@@ -2190,7 +2190,7 @@ When variation takes effect
 
              (8)  A variation made under subsection (1) takes effect on the day a copy of the variation is published as mentioned in subsection (7), despite subsections 12(1) and (2) of the _Legislative Instruments Act 2003_.
 
-##### <a id="83"></a>83  No limit on the Authority’s power to vary the Maximum Residue Limits Standard
+##### <a id="83"></a>83  No limit on the Authority’s power to vary the Maximum Residue Limits Standard
 
                    This Division does not limit the Authority’s power to vary the Maximum Residue Limits Standard.
 
@@ -2738,7 +2738,7 @@ the Authority must not suspend its consideration of the application unless the a
 
            (11)  The period during which the consideration of the application is suspended is not to be included in the consideration period.
 
-##### <a id="110"></a>110  Rejecting an application or abandoning a proposal
+##### <a id="110"></a>110  Rejecting an application or abandoning a proposal
 
 Notice of rejection
 
@@ -2829,6 +2829,8 @@ the Authority must comply with the notice requirements set out in subsection (
                              (ii)  a State or Territory; or
 
                             (iii)  New Zealand.
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
 ### Division 6—Other matters
 
@@ -3192,15 +3194,21 @@ the person is not entitled to remuneration under this Act.
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person other than the Chairperson to act as a member:
 
                      (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when that member is absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="122"></a>122  Meetings
 
@@ -3352,13 +3360,21 @@ the Minister may terminate the appointment of the member.
 
 ##### <a id="134"></a>134  Acting Chief Executive Officer
 
-                   The Board may appoint a person to act as the Chief Executive Officer:
+             (1)  The Board may appoint a person to act as the Chief Executive Officer:
 
                      (a)  during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ### Division 3—Staff, consultants and assistance from other agencies
 
@@ -4174,7 +4190,7 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 628–633) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 628–633) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -6074,7 +6090,7 @@ Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 108–111</div>
+    <div>Ss. 108–112</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -6086,22 +6102,6 @@ Part 3</div>
   </td>
   <td>
     <div>am. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6244,23 +6244,7 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 121</div>
-  </td>
-  <td>
-    <div>am. No. 81, 2001; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 121(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 122, 123</div>
+    <div>Ss. 121–123</div>
   </td>
   <td>
     <div>am. No. 81, 2001</div>
@@ -6348,7 +6332,7 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 131–133</div>
+    <div>Ss. 131–134</div>
   </td>
   <td>
     <div>ad. No. 201, 1997</div>
@@ -6360,30 +6344,6 @@ No. 81, 2001</div>
   </td>
   <td>
     <div>am. No. 81, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 134</div>
-  </td>
-  <td>
-    <div>ad. No. 201, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 81, 2001; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 134</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7645,6 +7605,44 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 628  Subsection 112(7) (definition of _modifications_)
+
+Repeal the definition.
+
+## 629  At the end of subsections 121(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 630  Subsection 121(3)
+
+Repeal the subsection.
+
+## 631  Subsection 134(1)
+
+Omit “(1)”.
+
+## 632  At the end of subsection 134(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 633  Subsection 134(2)
+
+Repeal the subsection.
+
+As at 13 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -8088,7 +8086,7 @@ _Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 ## Schedule 1
 
-## 77  Application
+## 77  Application
 
 The amendments made by Parts 1 and 4 of this Schedule apply in relation to:
 
@@ -8132,6 +8130,8 @@ The amendments made by items 23 to 38 apply in relation to financial years end
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
