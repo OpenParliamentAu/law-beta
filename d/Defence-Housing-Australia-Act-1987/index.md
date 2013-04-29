@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00216/Html/04ac2db3-b5be-4fcd-b647-fa4c9d377e32_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00379/Html/DefHouAustAct1987WD02_image001.gif)
 
 # Defence Housing Australia Act 1987
 
 **Act No. 101 of 1987 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -146,7 +145,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [63](#63).          Exemption from State and Territory taxation
 
-[63A](#63A).       DHA must make tax‑equivalent payments to the Commonwealth
+[63A](#63A).       DHA must make tax-equivalent payments to the Commonwealth
 
 [64](#64).          Delegation by DHA
 
@@ -166,7 +165,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Defence Housing Australia Act 1987_.
+                   This Act may be cited as the _Defence Housing__Australia__Act 1987_.
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
@@ -176,7 +175,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="appointed-member"></a>**_appointed member_** means the Chairperson or a member referred to in paragraph 12(1)(b), (c), (d) or (f).
 
@@ -196,8 +195,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
-                    <a name="financ-secretari"></a>**_Finance Secretary_** means the Secretary of the Department administered by the Finance Minister.
-
                     <a name="hous"></a>**_house_** includes:
 
                      (a)  any building or part of a building that is used or intended to be used, in whole or in substantial part, for residential accommodation, whether consisting of:
@@ -206,7 +203,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  2 or more attached units of accommodation; or
 
-                            (iii)  multi‑storey units of accommodation; and
+                            (iii)  multi-storey units of accommodation; and
 
                      (b)  outbuildings, fences, walls, permanent provision for lighting, for heating, for water supply, for drainage and for sewerage, and other appurtenances of a house (including a building or part of a building referred to in paragraph (a)).
 
@@ -240,7 +237,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Main function
 
-             (1)  The main function of DHA is to provide adequate and suitable housing for, and housing‑related services to:
+             (1)  The main function of DHA is to provide adequate and suitable housing for, and housing-related services to:
 
                      (a)  members of the Defence Force and their families; and
 
@@ -252,11 +249,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 in order to meet the operational needs of the Defence Force and the requirements of the Department.
 
-             (2)  DHA shall provide such housing and housing‑related services as the Minister, by notice in writing given to DHA, directs is necessary for DHA to provide in order to meet the operational needs of the Defence Force and the requirements of the Department.
+             (2)  DHA shall provide such housing and housing-related services as the Minister, by notice in writing given to DHA, directs is necessary for DHA to provide in order to meet the operational needs of the Defence Force and the requirements of the Department.
 
 ##### <a id="6"></a>6  Additional functions
 
-             (1)  The first additional function of DHA is to provide adequate and suitable housing for, and housing‑related services to:
+             (1)  The first additional function of DHA is to provide adequate and suitable housing for, and housing-related services to:
 
                      (a)  officers and employees of an Agency (within the meaning of the _Financial Management and Accountability Act 1997_) other than the Department, and their families; and
 
@@ -404,7 +401,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  a current or former member of the Defence Force nominated by the Chief of the Defence Force;
 
-                     (d)  a person nominated by the Finance Secretary;
+                     (d)  a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_;
 
                      (e)  the Managing Director;
 
@@ -446,7 +443,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  shall be appointed with effect from the day specified in the instrument of appointment; and
 
-                     (b)  holds office, subject to this Act, for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re‑appointment.
+                     (b)  holds office, subject to this Act, for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re-appointment.
 
              (2)  If the member ceases to hold office before the end of the term of appointment, another person may, in accordance with this Act, be appointed in the member’s place until the end of the term.
 
@@ -512,7 +509,7 @@ the Minister shall terminate the appointment of the appointed member.
 
                      (b)  during any period, or during all periods, when such a member is acting as Chairperson, is absent from Australia or is, for any reason, unable to attend meetings of the Board.
 
-          (2A)  The Finance Minister may appoint a person nominated by the Finance Secretary  to act as the appointed member referred to in paragraph 12(1)(d) during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office).
+          (2A)  The Finance Minister may appoint a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_ to act as the appointed member referred to in paragraph 12(1)(d) during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office).
 
              (3)  An appointment of a person under subsection (1), (2) or (2A) may be expressed to have effect only in specified circumstances.
 
@@ -636,7 +633,7 @@ whichever happens first.
 
 Note:          The persons are eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
-             (4)  The persons mentioned in subsection (2) hold office on a part‑time basis.
+             (4)  The persons mentioned in subsection (2) hold office on a part-time basis.
 
 ##### <a id="28"></a>28  Function of the DHA Advisory Committee
 
@@ -984,13 +981,13 @@ whichever happens first.
 
                      (b)  a certificate that:
 
-                              (i)  is signed by an officer of the Attorney‑General’s Department authorised in writing by the Secretary of that Department to give such certificates;
+                              (i)  is signed by an officer of the Attorney-General’s Department authorised in writing by the Secretary to that Department to give such certificates;
 
                              (ii)  identifies the land, whether by reference to a map or otherwise; and
 
                             (iii)  states that the land is vested in DHA under this section;
 
-                            is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may:
 
@@ -1018,7 +1015,7 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
              (1)  DHA is subject to taxation under the laws of the Commonwealth.
 
-             (2)  DHA is not a public authority for the purposes of section 50‑25 of the _Income Tax Assessment Act 1997_.
+             (2)  DHA is not a public authority for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_.
 
 ##### <a id="63"></a>63  Exemption from State and Territory taxation
 
@@ -1048,9 +1045,9 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
              (5)  Nothing in subsections (1), (3) or (4) shall be read as implying that a company in which DHA has an interest, or that is a partner of DHA or a participant in a joint venture agreement with DHA, is not liable to pay taxes under any law of the Commonwealth or of a State or Territory.
 
-##### <a id="63A"></a>63A  DHA must make tax‑equivalent payments to the Commonwealth
+##### <a id="63A"></a>63A  DHA must make tax-equivalent payments to the Commonwealth
 
-             (1)  The Minister  may inform DHA  in writing of arrangements that are to apply to DHA in relation to a tax‑equivalent payment to be made by DHA to the Commonwealth in respect of each financial year.
+             (1)  The Minister  may inform DHA  in writing of arrangements that are to apply to DHA in relation to a tax-equivalent payment to be made by DHA to the Commonwealth in respect of each financial year.
 
              (2)  To avoid doubt, an instrument under subsection (1) may relate to more than 1 financial year.
 
@@ -1112,7 +1109,7 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
 ##### <a id="67"></a>67  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1122,7 +1119,7 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
 ### Note 1
 
-The _Defence Housing Australia Act 1987_ as shown in this compilation comprises Act No. 101, 1987 amended as indicated in the Tables below.
+The _Defence Housing__Australia__Act 1987_ as shown in this compilation comprises Act No. 101, 1987 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1133,10 +1130,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="17%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -1283,7 +1280,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 66‑68): Royal Assent <i>(b)</i></div>
+    <div>Schedule 4 (items 66-68): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1441,54 +1438,37 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 49) and Schedule 8 (items 3–5): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Defence Housing Australia Act 1987_ was amended by Part IV (sections 9–13) only of the _Defence Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
+_(a)_     The _Defence Housing__Australia__Act 1987_ was amended by Part IV (sections 9–13) only of the _Defence Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Defence Housing Australia Act 1987_ was amended by Schedule 4 (items 66–68) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Defence Housing__Australia__Act 1987_ was amended by Schedule 4 (items 66–68) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Defence Housing Australia Act 1987_ was amended by Schedule 2 (items 23, 80, 106, 129, 141 and 142) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+_(c)_     The _Defence Housing__Australia__Act 1987_ was amended by Schedule 2 (items 23, 80, 106, 129, 141 and 142) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_ The _Defence Housing Australia Act 1987_ was amended by Schedule 2 (items 696–708) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 2 (items 696–708) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(e)_ The _Defence Housing Australia Act 1987_ was amended by Schedule 1 (items 371–380) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 1 (items 371–380) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_ The _Defence Housing Australia Act 1987_ was amended by Schedule 10 (items 76–79) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(f)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 10 (items 76–79) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(g)_ The _Defence Housing Australia Act 1987_ was amended by Schedule 3 (item 167) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(g)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 3 (item 167) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
@@ -1649,7 +1629,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 100, 1988; Nos. 1 and 152, 1997; No. 146, 1999; No. 55, 2001; No. 8, 2005; No. 45, 2006; No. 5, 2011</div>
+    <div>am. No. 100, 1988; Nos. 1 and 152, 1997; No. 146, 1999; No. 55, 2001; No. 8, 2005; No. 45, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1793,7 +1773,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 100, 1988; No. 91, 1992; No. 146, 1999; No. 45, 2006; No. 5, 2011</div>
+    <div>am. No. 100, 1988; No. 91, 1992; No. 146, 1999; No. 45, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1849,7 +1829,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 100, 1988; No. 45, 2006; No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 100, 1988; No. 45, 2006; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2257,7 +2237,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 45, 2006; No. 5, 2011</div>
+    <div>am. No. 146, 1999; No. 45, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2385,7 +2365,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2393,7 +2373,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -2413,8 +2393,8 @@ The amendment made by Schedule 1 to subsection 47(1) of the _Defence Housing A
 
 ## 2  Application of section 62A in respect of certain taxes
 
-(1)       This item applies in relation to a tax that is payable by reference to a period.
+(1)        This item applies in relation to a tax that is payable by reference to a period.
 
-(2)       In respect of such a tax, section 62A of the _Defence Housing Australia Act 1987_ applies in relation to such periods starting on or after the commencement of this item.
+(2)        In respect of such a tax, section 62A of the _Defence Housing__Australia__Act 1987_ applies in relation to such periods starting on or after the commencement of this item.
 
  
