@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00333/Html/37938f95-d759-4943-b0d1-32cad85fe9b8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00076/Html/AustMaritSafeAuth90_WD02_image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 5 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -190,7 +190,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  other environmental damage caused by shipping; and
 
-                   (ba)  to provide for a national search and rescue service; and
+                    (ba)  to provide for a national search and rescue service; and
 
                      (c)  to promote the efficient provision of services by the Authority.
 
@@ -198,13 +198,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="asset"></a>**_assets_** means property of any description, other than rights referred to in sections 32 and 35.
 
                     <a name="author"></a>**_Authority_** means the Australian Maritime Safety Authority established by this Act.
 
-                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day‑to‑day operations of the Authority or a subsidiary of the Authority.
+                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the Authority or a subsidiary of the Authority.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Authority.
 
@@ -219,8 +219,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (c)  the Annexes to that Convention relating to international standards and recommended practices, being Annexes adopted in accordance with that Convention.
 
                     <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Authority.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="member"></a>**_member_** means a member of the Authority and includes the Chairperson and Deputy Chairperson.
 
@@ -274,7 +272,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                              (ii)  an authority or agency of the Commonwealth, a State or either of those Territories; and
 
-                   (cb)  to cooperate with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft and ships; and
+                    (cb)  to cooperate with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft and ships; and
 
                      (d)  to perform such other functions as are conferred on it by or under any other Act; and
 
@@ -374,7 +372,7 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (a)  itself; or
 
-                     (b)  in co‑operation with another person; or
+                     (b)  in co-operation with another person; or
 
                      (c)  by arranging for another person to do so on its behalf.
 
@@ -422,9 +420,9 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (e)  4 other members.
 
-             (2)  The Chairperson may be appointed as a full‑time member or as a part‑time member.
+             (2)  The Chairperson may be appointed as a full-time member or as a part-time member.
 
-             (3)  The members (other than the Chairperson and the Chief Executive Officer) are to be appointed as part‑time members.
+             (3)  The members (other than the Chairperson and the Chief Executive Officer) are to be appointed as part-time members.
 
              (4)  The members (other than the Chief Executive Officer and the member referred to in paragraph (1)(d)) are to be appointed by the Minister, and hold office on such terms and conditions in respect of matters not provided for by this Act as are determined by the Minister in writing.
 
@@ -432,7 +430,7 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
 ##### <a id="14"></a>14  Period of appointment of members
 
-                   Subject to this Part, a member (other than the Chief Executive Officer and the member referred to in paragraph 13(1)(d)) holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re‑appointment.
+                   Subject to this Part, a member (other than the Chief Executive Officer and the member referred to in paragraph 13(1)(d)) holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
 ##### <a id="15"></a>15  Remuneration and allowances of members
 
@@ -444,17 +442,17 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
 ##### <a id="16"></a>16  Outside employment
 
-             (1)  Where the Chairperson has been appointed as a full‑time member, he or she must not engage in paid employment outside the duties of his or her office without the approval of the Minister.
+             (1)  Where the Chairperson has been appointed as a full-time member, he or she must not engage in paid employment outside the duties of his or her office without the approval of the Minister.
 
-             (2)  A member appointed as a part‑time member must not engage in any paid employment that, in the opinion of the Minister, conflicts with the proper performance of the duties of the member.
+             (2)  A member appointed as a part-time member must not engage in any paid employment that, in the opinion of the Minister, conflicts with the proper performance of the duties of the member.
 
 ##### <a id="17"></a>17  Leave of absence
 
-             (1)  A Chairperson appointed as a full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A Chairperson appointed as a full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  The Minister may grant a Chairperson referred to in subsection (1) leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
 
-             (3)  The Minister may grant leave to a Chairperson appointed as a part‑time member to be absent from a meeting or meetings of the Authority.
+             (3)  The Minister may grant leave to a Chairperson appointed as a part-time member to be absent from a meeting or meetings of the Authority.
 
              (4)  The Chairperson may grant leave to another member (other than the Chief Executive Officer) to be absent from a meeting or meetings of the Authority.
 
@@ -478,7 +476,7 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (b)  during any period, or during all periods, when an ordinary member is absent from Australia or is, for any other reason, unable to perform the duties of the office.
 
-             (4)  Where the Chairperson is a part‑time member, a person appointed under paragraph (1)(b) to act as the Chairperson must be appointed on a part‑time basis.
+             (4)  Where the Chairperson is a part-time member, a person appointed under paragraph (1)(b) to act as the Chairperson must be appointed on a part-time basis.
 
              (5)  A person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
@@ -504,13 +502,13 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (a)  a member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
-                     (b)  a member, being a Chairperson who has been appointed as a full‑time member:
+                     (b)  a member, being a Chairperson who has been appointed as a full-time member:
 
                               (i)  engages, except with the approval of the Minister, in paid employment outside the duties of his or her office; or
 
                              (ii)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (c)  a member, not being a Chairperson who has been appointed as a full‑time member:
+                     (c)  a member, not being a Chairperson who has been appointed as a full-time member:
 
                               (i)  engages in paid employment that, in the opinion of the Minister, conflicts with the proper performance of the duties of the member; or
 
@@ -570,7 +568,7 @@ the Minister may terminate the appointment of all members or specified members.
 
              (1)  The Authority may, subject to this Part, regulate proceedings at its meetings as it considers appropriate.
 
-             (2)  Without limiting subsection (1), the Authority may permit members to participate in a particular meeting, or all meetings, by telephone, closed‑circuit television or any other means of communication, and a member who so participates is to be regarded as being present at the meeting.
+             (2)  Without limiting subsection (1), the Authority may permit members to participate in a particular meeting, or all meetings, by telephone, closed-circuit television or any other means of communication, and a member who so participates is to be regarded as being present at the meeting.
 
              (3)  Without limiting subsection (1), the Authority may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
 
@@ -688,7 +686,7 @@ the following provisions have effect.
 
              (4)  Where the interest of the Commonwealth is of such a kind that it is not held from another person, the transfer has effect as a grant to the authority of an estate in fee simple.
 
-             (5)  The Minister must cause to be lodged with the Registrar‑General, Registrar of Titles or other appropriate officer of the relevant State or Territory a copy of the notice, certified in writing signed by an officer of the Department authorised by the Minister for the purpose.
+             (5)  The Minister must cause to be lodged with the Registrar-General, Registrar of Titles or other appropriate officer of the relevant State or Territory a copy of the notice, certified in writing signed by an officer of the Department authorised by the Minister for the purpose.
 
              (6)  The officer with whom a copy is lodged may register the transfer as nearly as possible as if it were a dealing in land and may deal with and give effect to the copy as if it were a grant or conveyance duly executed under the laws in force in the relevant State or Territory.
 
@@ -706,7 +704,7 @@ the following provisions have effect.
 
              (3)  If an amount is determined under paragraph (2)(b), the Commonwealth is to be taken to have made, on the day of the transfer, a loan to the Authority equal to that amount.
 
-             (4)  The terms and conditions of the loan as to interest and otherwise are as determined by the Finance Minister.
+             (4)  The terms and conditions of the loan as to interest and otherwise are as determined by the Minister for Finance.
 
              (5)  Where, immediately before the transfer:
 
@@ -732,7 +730,7 @@ the right, debt, liability or obligation, as the case may be, of the Commonwealt
 
                      (c)  that thing was not done by the Commonwealth before the commencement of this section;
 
-there is payable to the Authority by the Commonwealth an amount that the Minister, having regard to all matters that he or she considers relevant, determines in writing as being payable because of the receipt of the first‑mentioned amount.
+there is payable to the Authority by the Commonwealth an amount that the Minister, having regard to all matters that he or she considers relevant, determines in writing as being payable because of the receipt of the first-mentioned amount.
 
 ##### <a id="35"></a>35  Rights in respect of services and facilities formerly provided by Department
 
@@ -794,7 +792,7 @@ less:
 
 ##### <a id="39"></a>39  Borrowings from Commonwealth
 
-                   The Finance Minister may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to the Authority on such terms and conditions as he or she determines in writing.
+                   The Minister for Finance may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to the Authority on such terms and conditions as he or she determines in writing.
 
 ##### <a id="40"></a>40  Borrowings otherwise than from Commonwealth
 
@@ -837,6 +835,10 @@ are guaranteed by the Commonwealth, the obligations become so guaranteed.
              (5)  Where the Finance Minister guarantees such a borrowing, the Finance Minister must cause to be laid before each House of Parliament, within 15 sitting days of that House after the contract is entered into or the determination made, a notice specifying the amount and term of the borrowing and such other information relating to the borrowing or the guarantee as the Finance Minister considers appropriate.
 
              (6)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under this section to an official (within the meaning of the _Financial Management and Accountability Act 1997_). In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
+
+             (7)  In this section:
+
+                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
 ##### <a id="42"></a>42  Authority may give security
 
@@ -950,7 +952,7 @@ the Authority must inform the Minister in writing of the notice and its contents
 
              (1)  There is to be a Chief Executive Officer of the Authority, who is to be appointed by the Minister after receiving a recommendation from the Authority.
 
-             (2)  Subject to this Part, a person appointed as Chief Executive Officer holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re‑appointment.
+             (2)  Subject to this Part, a person appointed as Chief Executive Officer holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
              (3)  The Chief Executive Officer is, under the Authority, to manage the Authority.
 
@@ -1026,7 +1028,7 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                    The Minister may, by signed instrument, delegate all or any of the powers of the Minister under section 30, 31, 34 or 59 to:
 
-                     (a)  the person holding or performing the duties of the office of Secretary of the Department; or
+                     (a)  the person holding or performing the duties of the office of Secretary to the Department; or
 
                      (b)  an SES employee, or acting SES employee, in the Department.
 
@@ -1056,7 +1058,7 @@ has effect after the transfer as if, to the extent to which the contract or inst
 
 ##### <a id="61"></a>61   Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act:
+                   The Governor-General may make regulations, not inconsistent with this Act:
 
                      (a)  prescribing matters required or permitted by this Act to be prescribed; and
 
@@ -1076,9 +1078,9 @@ has effect after the transfer as if, to the extent to which the contract or inst
 
                      (a)  amends a provision of another Act; or
 
-                     (b)  repeals and re‑enacts a provision of another Act;
+                     (b)  repeals and re-enacts a provision of another Act;
 
-any instrument made, act done, step taken or decision made by a person under that provision (being an instrument, act, step or decision in effect immediately before the amendment or repeal) continues to have effect as if it had been made, done or taken by the appropriate person under that provision as so amended or re‑enacted.
+any instrument made, act done, step taken or decision made by a person under that provision (being an instrument, act, step or decision in effect immediately before the amendment or repeal) continues to have effect as if it had been made, done or taken by the appropriate person under that provision as so amended or re-enacted.
 
              (2)  In an instrument that, by virtue of subsection (1), continues to have effect in the manner provided in that subsection:
 
@@ -1125,7 +1127,7 @@ For access to the wording of the amendments made by this Schedule, _see_ Act No.
 
 ### Note 1
 
-The _Australian Maritime Safety Authority Act 1990_ as shown in this compilation comprises Act No. 78, 1990 amended as indicated in the Tables below.
+The _Australian Maritime Safety Authority Act 1990_ as shown in this compilation comprises Act No. 78, 1990 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1502,7 +1504,7 @@ Royal Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 69): 1 July 2009</div>
+    <div>Schedule 1 (item 69): 1 July 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -1519,24 +1521,7 @@ Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 27–31): 1 Jan 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 30–33) and Schedule 7 (item 22): 19 Apr 2011</div>
+    <div>Schedule 6 (items 1, 27–31): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1551,7 +1536,7 @@ _(a)_     The _Australian Maritime Safety Authority Act 1990_ was amende
 
                               (b)   if that Schedule has commenced before the day on which this Act receives the Royal Assent—on the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Australian Maritime Safety Authority Act 1990_ was amended by section 56 only of the _Transport and Communications Legislation Amendment Act 1991_, subsection 2(9) of which provides as follows:
+_(b)_    The _Australian Maritime Safety Authority Act 1990_ was amended by section 56 only of the _Transport and Communications Legislation Amendment Act 1991_, subsection 2(9) of which provides as follows:
 
                  (9)   The amendment of subsection 48(1) of the _Australian Maritime Safety Authority Act 1990_ in the Schedule is taken to have commenced immediately after section 48 of that Act commenced.
 
@@ -1747,7 +1732,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 130, 1997; No. 5, 2011</div>
+    <div>am. No. 130, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1960,14 +1945,6 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
 </tr>
 <tr>
   <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 37</div>
   </td>
   <td>
@@ -1984,18 +1961,10 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
 </tr>
 <tr>
   <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2107,7 +2076,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2129,7 +2098,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2137,7 +2106,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
