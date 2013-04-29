@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00087/Html/LongServiceLeaveCE1976WD02_image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 3 July 2008
- taking into account amendments up to Act No. 40 of 2008
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -350,9 +350,9 @@ shall, for the purposes of this Act, be deemed to be employed in Government Serv
 
           (2A)  For the purposes of this Act, the Commissioner of the Australian Federal Police, a Deputy Commissioner of the Australian Federal Police or an AFP employee (within the meaning of the _Australian Federal Police Act 1979_) is taken to be employed in Government Service.
 
-             (3)  Subject to subsection (4), this Act does not apply to a person in respect of any period during which he or she held or holds office as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_.
+             (3)  Subject to subsection (4), this Act does not apply to a person in respect of any period during which he or she held or holds office as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_ or as the Solicitor-General.
 
-             (4)  If a person appointed as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_ was, immediately before his or her appointment, a person to whom this Act, an Act repealed by this Act or sections 73 and 74 of the _Public Service Act 1922_ applied, the person may, within 3 months after his or her appointment as a Judge or, if he or she was appointed as such a Judge before the commencement of this Act, within 3 months after the commencement of this Act, elect, by notice in writing to the Attorney-General, that subsection (3) shall not apply to him or her and this Act shall then be deemed to have applied, or to apply, to and in relation to him or her in respect of any period during which he or she held or holds the appointment as if the performance of the duties of the appointment constituted employment in Government Service.
+             (4)  If a person appointed as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_ or as the Solicitor-General was, immediately before his or her appointment, a person to whom this Act, an Act repealed by this Act or sections 73 and 74 of the _Public Service Act 1922_ applied, the person may, within 3 months after his or her appointment as a Judge or as the Solicitor-General or, if he or she was appointed as such a Judge or as Solicitor-General before the commencement of this Act, within 3 months after the commencement of this Act, elect, by notice in writing to the Attorney-General, that subsection (3) shall not apply to him or her and this Act shall then be deemed to have applied, or to apply, to and in relation to him or her in respect of any period during which he or she held or holds the appointment as if the performance of the duties of the appointment constituted employment in Government Service.
 
              (6)  Notwithstanding anything contained in subsection (1) or (2), a person:
 
@@ -700,7 +700,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00087/Html/LongServiceLeaveCE1976WD02_image002.gif)
 
                             where:
 
@@ -710,7 +710,7 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  the long service leave credit related to the full-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00087/Html/LongServiceLeaveCE1976WD02_image003.gif)
 
                             where:
 
@@ -720,7 +720,7 @@ the approving authority shall authorize payment to him or her:
 
                      (c)  the long service leave credit related to the part-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00087/Html/LongServiceLeaveCE1976WD02_image004.gif)
 
                             where:
 
@@ -774,7 +774,7 @@ the approving authority shall authorize payment to him or her:
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00087/Html/LongServiceLeaveCE1976WD02_image005.gif)
 
                                    where:
 
@@ -1654,23 +1654,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Officers Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>40, 2008</div>
-  </td>
-  <td>
-    <div>24 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 3–5): 25 June 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 5) \[ <i>see</i> Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
@@ -1833,7 +1816,7 @@ No. 43, 1996</div>
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 9, 1978; No. 155, 1979; No. 6, 1981; No. 141, 1983; Nos. 109 and 123, 1988; No. 108, 1990; No. 43, 1996; No. 96, 1997; No. 9, 2000; No. 40, 2008</div>
+    <div>am. No. 9, 1978; No. 155, 1979; No. 6, 1981; No. 141, 1983; Nos. 109 and 123, 1988; No. 108, 1990; No. 43, 1996; No. 96, 1997; No. 9, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1950,17 +1933,5 @@ If, immediately before the commencing time, any warrant, writ, order, permission
 (all within the meaning of the _Australian Federal Police Act 1979_ as in force at and after the commencing time).
 
 Note:          A person who is a member or staff member of the Australian Federal Police immediately before the commencing time is taken to be engaged as an AFP employee. Similarly, a person who is a special member of the Australian Federal Police immediately before the commencing time is taken to be appointed as a special member. See item 2 of this Schedule.
-
-* * *
-
-_Law Officers Legislation Amendment Act 2008 (No. 40, 2008)_
-
-## Schedule 1
-
-## 5  Application
-
-The _Long Service Leave (Commonwealth Employees) Act 1976_, as amended by this Schedule, applies to a person in respect of any period (whether before or after the commencement of this item) during which the person holds office as the Solicitor-General if the person was appointed as Solicitor-General after 31 December 1997.
-
-##  
 
  
