@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00593/Html/0ea52670-7d66-44d3-ac24-c97210dad368_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00343/Html/5e2cfb75-363f-465e-ac81-9e214a9e54d3_files/image001.gif)
 
 # Defence Force Discipline Appeals Act 1955
 
 **Act No. 16 of 1955 as amended**
 
-This compilation was prepared on 1 August 2011
+This compilation was prepared on 19 April 2011
  taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force on 
@@ -15,6 +15,8 @@ The operation of amendments that have been incorporated may be
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
+
+ 
 
 # Contents
 
@@ -822,7 +824,7 @@ I, A.B., do solemnly and sincerely promise and declare that I will be faithful a
 
 The _Defence Force Discipline Appeals Act 1955_ as shown in this compilation comprises Act No. 16, 1955 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009 (as amended).
+For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information _see_ Table A. 
 
@@ -1239,42 +1241,7 @@ Schedule 7 (item 45): <i>(g)</i></div>
     <div>Schedule 1 (items 182–248) and Schedules 2–4: Royal Assent</div>
   </td>
   <td>
-    <div>Schs. 2 and 4 
-Sch. 3 (am. by 82, 2011, Sch. 1) \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Military Justice (Interim Measures) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>82, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Schs. 2–4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1288,7 +1255,7 @@ Sch. 3 (am. by 82, 2011, Sch. 1) \[ <i>see</i>Note 1]</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 92, 93): 19 Apr 2011</div>
+    <div>Schedule 5 (items 92, 93): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
