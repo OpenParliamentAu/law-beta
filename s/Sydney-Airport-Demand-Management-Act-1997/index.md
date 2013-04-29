@@ -1,7 +1,7 @@
 
 Sydney Airport Demand Management Act 1997
 Act No. 173 of 1997 as amended
-This compilation was prepared on 8 June 2001 taking into account amendments up to Act No. 45 of 2001
+This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -14,17 +14,16 @@ Part 1—Preliminary	1
 3	Identifying defined terms	1
 4	Overview	2
 5	Consequential amendment of the Airports Act 1996	2
-5A	Part IIIA of the Trade Practices Act 1974 to be subject to this Act	3
-Part 2—The maximum aircraft movement limit at Sydney Airport	4
-6	Maximum movement limit	4
-7	Minister’s power to determine a lower maximum movement limit	4
-8	Consultation about determination of lower maximum movement limit	5
-9	Airservices Australia to monitor compliance with maximum movement limit and to report to Minister	6
-Part 3—Penalties for unauthorised aircraft movements	8
-Division 1—Situations in which penalties apply	8
-10	Aircraft movements to which this Part applies	8
-11	Meaning of no‑slot movement and off‑slot movement	8
-12	Prohibition on no‑slot movements	9
+Part 2—The maximum aircraft movement limit at Sydney Airport	3
+6	Maximum movement limit	3
+7	Minister’s power to determine a lower maximum movement limit	3
+8	Consultation about determination of lower maximum movement limit	4
+9	Airservices Australia to monitor compliance with maximum movement limit and to report to Minister	5
+Part 3—Penalties for unauthorised aircraft movements	7
+Division 1—Situations in which penalties apply	7
+10	Aircraft movements to which this Part applies	7
+11	Meaning of no‑slot movement and off‑slot movement	7
+12	Prohibition on no‑slot movements	8
 13	Prohibition on off‑slot movements	9
 Division 2—Civil penalties	10
 14	Pecuniary penalties for contravention of civil penalty provisions	10
@@ -60,55 +59,55 @@ Division 2—Development and amendment of Scheme	25
 Subdivision A—Development	25
 38	Slot Manager to develop slot management scheme and submit it for approval	25
 39	Minister’s power to request or make amendments	25
-40	Approval of scheme	25
+40	Approval of scheme	26
 41	When Slot Management Scheme comes into force	26
 Subdivision B—Amendment	26
 42	Slot Manager may develop amendments of Slot Management Scheme and submit them for approval	26
 43	Minister’s power to request or develop amendments	26
 44	Approval of amendments	27
-45	When an amendment comes into force	27
-Division 3—Powers of Minister and Compliance Committee in relation to slot allocation	28
-46	Minister’s powers	28
-47	Compliance Committee’s powers	29
-Part 5—The Compliance Scheme	30
-Division 1—Framework within which Scheme to be developed and to operate	30
-48	The Scheme and its basic purpose	30
-49	Contents of Scheme	30
-50	Minister’s power to determine additional requirements	31
-51	Consequence of Scheme not being consistent with section 49	31
-Division 2—Development and amendment of Scheme	32
-Subdivision A—Development	32
-52	Compliance Committee to develop compliance scheme and submit it for approval	32
-53	Minister’s power to request or make amendments	32
-54	Approval of scheme	33
-55	When Compliance Scheme comes into force	33
-Subdivision B—Amendment	33
-56	Compliance Committee may develop amendments of Compliance Scheme and submit them for approval	33
-57	Minister’s power to request or develop amendments	33
-58	Approval of amendments	34
-59	When an amendment comes into force	34
-Part 6—The Slot Manager	35
-60	The Slot Manager	35
-61	Appointment of Slot Manager	35
-62	The legal position of the Slot Manager	35
-63	Termination of appointment	37
-64	Protection of Slot Manager etc. from legal actions	37
-65	Change of Slot Manager	37
-Part 7—The Compliance Committee	38
-66	The Compliance Committee	38
-67	Regulations may deal with appointment and other matters	38
-68	The legal position of the Compliance Committee	38
-69	Protection of Compliance Committee from legal actions	39
-Part 8—Miscellaneous	40
-70	Evidentiary certificates	40
-71	Delegation	40
-72	Crown to be bound	40
-73	Extra‑territorial operation	41
-74	Regulations	41
-Schedule 1—Definitions	42
-1	Definitions	42
-Schedule 2—Amendment of the Airports Act 1996	44
-Notes		45
+45	When an amendment comes into force	28
+Division 3—Powers of Minister and Compliance Committee in relation to slot allocation	29
+46	Minister’s powers	29
+47	Compliance Committee’s powers	30
+Part 5—The Compliance Scheme	31
+Division 1—Framework within which Scheme to be developed and to operate	31
+48	The Scheme and its basic purpose	31
+49	Contents of Scheme	31
+50	Minister’s power to determine additional requirements	32
+51	Consequence of Scheme not being consistent with section 49	32
+Division 2—Development and amendment of Scheme	33
+Subdivision A—Development	33
+52	Compliance Committee to develop compliance scheme and submit it for approval	33
+53	Minister’s power to request or make amendments	33
+54	Approval of scheme	34
+55	When Compliance Scheme comes into force	34
+Subdivision B—Amendment	34
+56	Compliance Committee may develop amendments of Compliance Scheme and submit them for approval	34
+57	Minister’s power to request or develop amendments	34
+58	Approval of amendments	35
+59	When an amendment comes into force	36
+Part 6—The Slot Manager	37
+60	The Slot Manager	37
+61	Appointment of Slot Manager	37
+62	The legal position of the Slot Manager	37
+63	Termination of appointment	39
+64	Protection of Slot Manager etc. from legal actions	39
+65	Change of Slot Manager	39
+Part 7—The Compliance Committee	41
+66	The Compliance Committee	41
+67	Regulations may deal with appointment and other matters	41
+68	The legal position of the Compliance Committee	41
+69	Protection of Compliance Committee from legal actions	42
+Part 8—Miscellaneous	43
+70	Evidentiary certificates	43
+71	Delegation	43
+72	Crown to be bound	43
+73	Extra‑territorial operation	44
+74	Regulations	44
+Schedule 1—Definitions	45
+1	Definitions	45
+Schedule 2—Amendment of the Airports Act 1996	47
+Notes		49
 An Act to limit aircraft movements at Sydney Airport, and for related purposes
 Part 1—Preliminary
   
@@ -147,8 +146,6 @@ Schedule 1
 	(8)	Schedule 1 contains definitions (see also section 3).
 5  Consequential amendment of the Airports Act 1996
 		The Airports Act 1996 is amended as set out in Schedule 2.
-5A  Part IIIA of the Trade Practices Act 1974 to be subject to this Act
-		Part IIIA of the Trade Practices Act 1974 has effect subject to this Act.
 
 Part 2—The maximum aircraft movement limit at Sydney Airport
   
@@ -394,7 +391,6 @@ Division 1—Framework within which Scheme to be developed and to operate
 	(3)	Other laws may impose requirements or restrictions on or in relation to *aircraft movements. The allocation of a slot for an aircraft movement under the Scheme in no way affects the application of such other requirements or restrictions to, or in relation to, the aircraft movement.
 35  Contents of Scheme
 	(1)	The Slot Management Scheme must provide a system for the allocation of slots for aircraft movements at Sydney Airport (other than movements during *curfew periods). In addition to allocation, the Scheme may deal with associated matters such as the variation, suspension, cancellation, surrender or swapping of allocated slots, and the conditions that may be imposed on slots.
-	(1A)	The Scheme may deal with the allocation of slots for specified categories of aircraft movements.
 	(2)	The Scheme must be consistent with the *maximum movement limit.
 	(3)	The Scheme may provide for the authorisation of other persons to exercise powers of the *Slot Manager relating to the allocation of slots, or to slots that have been allocated.
 	(4)	The Scheme must set out guidelines relating to the exercise of the *Slot Manager’s power under subsection 11(4) to make declarations that *aircraft movements are not required to take place in accordance with their allocated slots.
@@ -699,11 +695,6 @@ Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 24 Nov 2000
 Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419)
-Sydney Airport Demand Management Amendment Act 2001
-45, 2001
-5 June 2001
-5 June 2001
-—
 
 (a)	The Sydney Airport Demand Management Act 1997 was amended by Schedule 1 (item 910) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
@@ -712,10 +703,6 @@ Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 5A	
-ad. No. 45, 2001
-S. 35	
-am. No. 45, 2001
 S. 62	
 am. No. 137, 2000
 S. 71	
