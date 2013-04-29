@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00905/Html/7a2112c2-1b89-4cc3-a519-4f4436881bea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00888/Html/5625c77f-a754-448d-a78b-c46391d21d11_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 11 December 2012
- taking into account amendments up to Act No. 180 of 2012
+This compilation was prepared on 30 November 2012
+ taking into account amendments up to Act No. 154 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -224,8 +224,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [61](#61).          Access to premises etc 
 
 [62](#62).          Public officer of company
-
-[62A](#62A).       Notifying and serving companies
 
 [63](#63).          Public officer of trust estate
 
@@ -1729,7 +1727,7 @@ Note:          Strict compliance with the form is not required
 
                     <a name="electron-signatur"></a>**_electronic signature_**, in relation to a person, means a unique identification in an electronic form that is approved by the Registrar.
 
-##### <a id="16B"></a>16B  Registrar’s power to request tax file numbers
+##### <a id="16B"></a>16B  Registrar’s power to request tax file numbers
 
              (1)  This section applies to a person in Australia if the person is a payer or a payee in relation to a registrable maintenance liability.
 
@@ -3478,8 +3476,6 @@ that the record to which the prosecution relates did not correctly record and ex
 
              (2)  Service of any document or requisition at the address for service of the public officer, or on the public officer, is sufficient service on the company for the purposes of this Act, but, if at any time there is not a public officer of the company, service on any person acting or appearing to act in the business of the company is sufficient.
 
-Note:          See section 62A for alternative ways to give a notice to, or serve a process on, a company (through its officers, attorneys or agents).
-
              (3)  The public officer is answerable for the doing of all acts required to be done by the company under this Act, and in case of default is liable to the same penalties.
 
              (4)  Everything done by the public officer that the public officer is required to do in that capacity shall be deemed to have been done by the company.
@@ -3488,15 +3484,7 @@ Note:          See section 62A for alternative ways to give 
 
              (6)  Any proceedings under this Act (including proceedings for an offence against this Act) taken against the public officer shall be deemed to have been taken against the company, and the company is liable jointly with the public officer for any penalty imposed on the public officer.
 
-##### <a id="62A"></a>62A  Notifying and serving companies
-
-                   For the purposes of this Act, if the Registrar thinks fit, a notice or process may be given to, or served on, a company by giving the notice to, or serving the process on:
-
-                     (a)  a director, the secretary or another officer of the company; or
-
-                     (b)  an attorney or agent of the company.
-
-Note:          See subsection 62(2) for alternative ways to serve a document or requisition on a company (through its public officer or someone else acting or appearing to act for the company).
+             (7)  Notwithstanding subsections (1) to (6) (inclusive) and without affecting any of the obligations and liabilities of the public officer, any notice, process or proceeding that under this Act may be given to, served on or taken against the company or public officer may, if the Registrar thinks fit, be given to, served on or taken against any director, secretary or other officer of the company or any attorney or agent of the company, and the director, secretary, officer, attorney or agent has the same liability in relation to the notice, process or proceeding as the company or public officer would have had if it had been given to, served on or taken against the company or public officer.
 
 ##### <a id="63"></a>63  Public officer of trust estate
 
@@ -3724,7 +3712,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00905/Html/7a2112c2-1b89-4cc3-a519-4f4436881bea_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00888/Html/5625c77f-a754-448d-a78b-c46391d21d11_files/image002.gif)
 
 where:
 
@@ -3732,7 +3720,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2012C00905/Html/7a2112c2-1b89-4cc3-a519-4f4436881bea_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00888/Html/5625c77f-a754-448d-a78b-c46391d21d11_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -4676,7 +4664,7 @@ Note:          The Account was established by subsection 5(3) 
 
 ### Division 2—Payments to payees
 
-##### <a id="76"></a>76  Entitlement of payees to be paid collected amounts
+##### <a id="76"></a>76  Entitlement of payees to be paid collected amounts
 
              (1)  Subject to subsection (2) of this section, subsection 79(2) and sections 79A and 79B, every payee of a registered maintenance liability is entitled to be paid, on or before the first Wednesday following the end of each calendar month (in this section called the **_current month_**), an amount equal to the aggregate of:
 
@@ -6097,7 +6085,7 @@ the SSAT Principal Member may authorise the SSAT to proceed to hear the applicat
 
 #### Subdivision C—Submissions from the Registrar
 
-##### <a id="103F"></a>103F  Submissions from the Registrar
+##### <a id="103F"></a>103F  Submissions from the Registrar
 
              (1)  The Registrar may make written submissions to the SSAT.
 
@@ -7021,11 +7009,11 @@ the application of the _Administrative Appeals Tribunal Act 1975_ to
 
 applications for review under subsection 103VA(1) of this Act.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The date of effect of reviews
+<li class="BoxList" style="margin-left:21.25pt">•      The date of effect of
 
-of decisions under the Family Assistance Administration Act that apply for
+reviews of decisions under the Family Assistance Administration Act that apply
 
-child support purposes is dealt with in Division 6.</li>
+for child support purposes is dealt with in Division 6.</li>
 
 * * *
 
@@ -7843,7 +7831,7 @@ within a specified time or at a specified place and time.
 
 ##### <a id="121B"></a>121B  Giving information to overseas authorities
 
-                   If:
+                   If:
 
                      (a)  the Registrar receives a request from an overseas authority for information about a person; and
 
@@ -9091,23 +9079,6 @@ Schedule 4 (item 3): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3 (items 163–169)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Liability for Corporate Fault Reform Act 2012</div>
-  </td>
-  <td>
-    <div>180, 2012</div>
-  </td>
-  <td colspan="2">
-    <div>10 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1–3): 11 Dec 2012</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -10762,30 +10733,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
   <td>
     <div>am. No. 137, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 62(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62A</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
@@ -13793,7 +13740,7 @@ Omit “in that proceeding”, substitute “on that review”.
 
 Omit “proceeding”, substitute “review”.
 
-As at 11 December 2012 the amendments are not incorporated in this compilation.
+As at 30 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
