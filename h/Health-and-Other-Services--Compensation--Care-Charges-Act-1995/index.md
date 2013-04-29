@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00587/Html/7861134134910870CA2570890018C0B7/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00572/Html/B8BCFE0DE4D9216DCA25707B0000D985/$FILE/image001.gif)
 
 # Health and Other Services (Compensation) Care Charges Act 1995
 
 **Act No. 131 of 1995 as amended**
 
-This compilation was prepared on 1 October 2005
+This compilation was prepared on 12 September 2005
 taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
@@ -19,21 +19,21 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Application of this Act to events occurring before the commencement of the _Health and Other Services (Compensation) Act 1995_
+[4](#4).            Application of this Act to events occurring before the commencement of the _Health and Other Services (Compensation) Act 1995_                                                                    1
 
-[5](#5).            Charge on compensation in respect of reimbursements for professional services
+[5](#5).            Charge on compensation in respect of reimbursements for professional services   2
 
-[6](#6).            Charge on compensation amounts in respect of past payments of medicare benefit
+[6](#6).            Charge on compensation amounts in respect of past payments of medicare benefit              2
 
-[7](#7).            Charge on compensation in respect of reimbursements for nursing home care or residential care
+[7](#7).            Charge on compensation in respect of reimbursements for nursing home care or residential care          4
 
-[8](#8).            Charge on compensation in respect of past payments of nursing home benefit or residential care subsidy
+[8](#8).            Charge on compensation in respect of past payments of nursing home benefit or residential care subsidy           5
 
 **Notes** 
 
@@ -54,7 +54,7 @@ Attorney-General’s Department, Canberra
 
                    Unless the contrary intention appears, expressions used in this Act have the same meanings as in the _Health and Other Services (Compensation) Act 1995_.
 
-##### <a id="4"></a>4  Application of this Act to events occurring before the commencement of the _Health and Other Services (Compensation) Act 1995_
+##### <a id="4"></a>4  Application of this Act to events occurring before the commencement of the _Health and Other Services (Compensation) Act 1995_
 
              (1)  This Act only applies in relation to an amount of compensation fixed by a judgment or settlement if the judgment or settlement is made on or after the day on which the _Health and Other Services (Compensation) Act 1995_ commences.
 
@@ -122,7 +122,7 @@ Note:          So far as this section would not be a law impos
 
              (6)  Subject to subsections (7) and (8), and section 37 of the _Health and Other Services (Compensation) Act 1995_, this section does not apply if:
 
-                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Medicare Australia CEO; and
+                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Commission; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -210,7 +210,7 @@ Note:          So far as this section would not be a law impos
 
              (6)  Subject to subsections (7) and (8), and section 37 of the _Health and Other Services (Compensation) Act 1995_, this section does not apply if:
 
-                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Medicare Australia CEO; and
+                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Commission; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -359,9 +359,7 @@ of Assent
       <div>6 Sept 2005</div>
     </td>
     <td>
-      <div>Schedule 2 (items 204, 205): 
-1 Oct 2005 
-</div>
+      <div>Schedule 2 (items 204, 205): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -410,7 +408,7 @@ _(b)_    The _Health and Other Services (Compensation) Care Charges Act 19
       <div>S. 6</div>
     </td>
     <td>
-      <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+      <div>am. No. 150, 2001; No. 84, 2003</div>
     </td>
   </tr>
   <tr>
@@ -442,12 +440,29 @@ _(b)_    The _Health and Other Services (Compensation) Care Charges Act 19
       <div>S. 8</div>
     </td>
     <td>
-      <div>am. No. 113, 1997; No. 150, 2001; No. 84, 2003; 
- No. 111, 2005 
-</div>
+      <div>am. No. 113, 1997; No. 150, 2001; No. 84, 2003</div>
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
+
+The following amendments commence on 6 March 2006 unless proclaimed earlier:
+
+## Schedule 2
+
+## 204  Paragraph 6(6)(a)
+
+Omit “Commission”, substitute “Medicare Australia CEO”.
+
+## 205  Paragraph 8(6)(a)
+
+Omit “Commission”, substitute “Medicare Australia CEO”.
+
+As at 12 September 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
