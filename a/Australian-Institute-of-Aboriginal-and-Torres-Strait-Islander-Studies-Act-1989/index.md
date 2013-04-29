@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00096/Html/AusInstATSIStudies1989WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00521/Html/AusInstATSIStudies1989WD02_image001.gif)
 
 # Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
 **Act No. 149 of 1989 as amended**
 
-This compilation was prepared on 24 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 22 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -680,7 +680,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                               (i)  section 6 of the _Crimes Act 1914_; or
 
-                             (ii)  section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the _Criminal Code_; or
+                             (ii)  section 11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_; or
 
                             (iii)  section 134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the _Criminal Code_;
 
@@ -924,7 +924,7 @@ For access to the wording of the amendments made by this Division,_see_ Act  No.
 
 ### Note 1
 
-The _Australian Institute of Aboriginal and__Torres  Strait__Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
+The _Australian Institute of Aboriginal and__Torres Strait__Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1026,7 +1026,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 316–323: 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
+    <div>Schedule 2 (items 316–323: 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1043,7 +1043,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 192–194): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    <div>Schedule 1 (items 192–194): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1077,7 +1077,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td colspan="2">
@@ -1115,7 +1115,7 @@ Remainder: 24 May 2001</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1129,10 +1129,10 @@ Remainder: 24 May 2001</div>
     <div>22 Mar 2005</div>
   </td>
   <td colspan="2">
-    <div>Schedule 4 (items 12–22): 24 Mar 2005</div>
+    <div>Schedule 4 (items 12–22): 24 Mar 2005</div>
   </td>
   <td>
-    <div>Sch. 4 (item 18) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (item 18) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1151,23 +1151,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 6 (items 
 5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td colspan="2">
-    <div>19 Feb 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 10 (item 4): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -1470,7 +1453,7 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 137, 2000; No. 112, 2001; No. 4, 2010</div>
+    <div>am. No. 137, 2000; No. 112, 2001</div>
   </td>
 </tr>
 <tr>
