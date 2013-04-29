@@ -1,88 +1,87 @@
-![](http://www.comlaw.gov.au/Details/C2009C00144/Html/DefSpecUndtak1952_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00617/Html/7F5550D2903B90A8CA25709600235D12/$FILE/image001.gif)
 
 # Defence (Special Undertakings) Act 1952
 
 **Act No. 19 of 1952 as amended**
 
-This compilation was prepared on 6 April 2009
- taking into account amendments up to Act No. 18 of 2009
+This compilation was prepared on 10 October 2005
+taking into account amendments up to Act No. 121 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[2A](#2A).         Purposes of Act
+[3](#3).            Application                                                                                          1
 
-[3](#3).            Application
+[4](#4).            Interpretation                                                                                       1
 
-[4](#4).            Interpretation
+[5](#5).            Application of the _Criminal Code_                                                       1
 
-[5](#5).            Application of the _Criminal Code_
+[6](#6).            Special defence undertakings                                                               2
 
-[6](#6).            Special defence undertakings
+[7](#7).            Prohibited areas                                                                                   2
 
-[7](#7).            Prohibited areas
+[8](#8).            Minister may declare prohibited areas                                                3
 
-[8](#8).            Minister may declare prohibited areas
+[9](#9).            Unlawful entry etc                                                                               3
 
-[8A](#8A).         Joint Defence Facility Pine Gap
+[10](#10).          Officer in charge                                                                                   4
 
-[9](#9).            Unlawful entry etc 
+[11](#11).          Permits                                                                                                 4
 
-[10](#10).          Officer in charge
+[12](#12).          Compliance with directions of officer in charge                                  5
 
-[11](#11).          Permits
+[13](#13).          Sabotage                                                                                               5
 
-[12](#12).          Compliance with directions of officer in charge
+[14](#14).          Restricted areas                                                                                    5
 
-[13](#13).          Sabotage
+[15](#15).          Orders                                                                                                  6
 
-[14](#14).          Restricted areas
+[16](#16).          Procedure in emergency                                                                       6
 
-[15](#15).          Orders
+[17](#17).          Use of cameras etc                                                                               7
 
-[16](#16).          Procedure in emergency
+[18](#18).          Sea and air traffic                                                                                 7
 
-[17](#17).          Use of cameras etc 
+[19](#19).          Suspension etc  of licences and certificates                                         7
 
-[18](#18).          Sea and air traffic
+[20](#20).          Search of persons in or entering prohibited areas                                8
 
-[19](#19).          Suspension etc  of licences and certificates
+[21](#21).          Search and detention of aircraft                                                           8
 
-[20](#20).          Search of persons in or entering prohibited areas
+[22](#22).          Power to arrest                                                                                    8
 
-[21](#21).          Search and detention of aircraft
+[23](#23).          Arrest of suspected persons                                                                8
 
-[22](#22).          Power to arrest
+[25](#25).          Forfeiture of articles etc                                                                     10
 
-[23](#23).          Arrest of suspected persons
+[26](#26).          No action against Commonwealth                                                     10
 
-[25](#25).          Forfeiture of articles etc 
+[27](#27).          Application of Approved Defence Projects Protection Act             10
 
-[26](#26).          No action against Commonwealth
+[28](#28).          Prosecution of offences                                                                     10
 
-[27](#27).          Application of Approved Defence Projects Protection Act
+[29](#29).          Punishment of offences                                                                     11
 
-[28](#28).          Prosecution of offences
+[31](#31).          Hearing in camera etc                                                                         11
 
-[29](#29).          Punishment of offences
-
-[31](#31).          Hearing in camera etc 
-
-[32](#32).          Regulations
+[32](#32).          Regulations                                                                                        12
 
 **Notes** 
+
 
 ## An Act to provide for the Protection of Special Defence Undertakings
 
@@ -93,26 +92,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act shall come into operation on the day on which it receives the Royal Assent.
-
-##### <a id="2A"></a>2A  Purposes of Act
-
-                   The purposes of this Act are:
-
-                     (a)  to provide for the protection by the Commonwealth of works and undertakings that are carried out for or in relation to:
-
-                              (i)  the defence of Australia; or
-
-                             (ii)  the defence of Australia and the defence of another country; and
-
-                     (b)  to provide for the protection by the Commonwealth of areas that are reserved for:
-
-                              (i)  the defence of Australia; or
-
-                             (ii)  the defence of Australia and the defence of another country; and
-
-                     (c)  to provide for the protection by the Commonwealth of works, undertakings and areas that require special security measures; and
-
-                     (d)  to provide for the protection by the Commonwealth of works, undertakings and areas in order to enable Australia to fulfil its obligations under treaties, conventions and international agreements relating to defence or security.
 
 ##### <a id="3"></a>3  Application
 
@@ -132,12 +111,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="constabl"></a>**_constable_** includes a member or special member of the Australian Federal Police or a member of the police force of a State or Territory.
 
-                    <a name="prohibit-area"></a>**_prohibited area_** means a place, or an area, that is a prohibited area under section 7, 8 or 8A.
-
-                    <a name="restrict-area"></a>**_restricted area_** means an area that is a restricted area under section 14.
-
-                    <a name="special-defenc-undertaking"></a>**_special defence undertaking_** means a work or undertaking that is a special defence undertaking under section 6 or 8A.
-
 ##### <a id="5"></a>5  Application of the _Criminal Code_
 
                    Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
@@ -152,11 +125,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  is declared by the Minister, by notice in the _Gazette_, to be a special defence undertaking;
 
-is a special defence undertaking.
+is a special defence undertaking for the purposes of this Act.
 
 ##### <a id="7"></a>7  Prohibited areas
 
-             (1)  A place (whether or not it belongs to or is used for the purposes of the Queen, the Commonwealth or a State) used or occupied for the purposes of a special defence undertaking is a prohibited area.
+             (1)  A place (whether or not it belongs to or is used for the purposes of the Queen, the Commonwealth or a State) used or occupied for the purposes of a special defence undertaking is a prohibited area for the purposes of this Act.
 
              (2)  Subsection (1) does not apply to:
 
@@ -174,17 +147,7 @@ unless it is used or occupied exclusively for the purposes of a special defence 
 
 ##### <a id="8"></a>8  Minister may declare prohibited areas
 
-                   If it is necessary for the purposes of the defence of the Commonwealth so to do, the Minister may, by notice published in the _Gazette_, declare an area of land or water or an area of land and water (whether or not it belongs to or is used for the purposes of the Queen, the Commonwealth or a State) to be a prohibited area.
-
-##### <a id="8A"></a>8A  Joint Defence Facility Pine Gap
-
-Prohibited area
-
-             (1)  The whole of the area (the **_JDFPG area_**) described in Certificate of Title Volume 321 Folio 075 being NT Portion 4130 from Plan LT091/006 is a prohibited area.
-
-Special defence undertaking
-
-             (2)  A work or undertaking that is carried out at the JDFPG area is a special defence undertaking.
+                   If it is necessary for the purposes of the defence of the Commonwealth so to do, the Minister may, by notice published in the _Gazette_, declare an area of land or water or an area of land and water (whether or not it belongs to or is used for the purposes of the Queen, the Commonwealth or a State) to be, for the purposes of this Act, a prohibited area.
 
 ##### <a id="9"></a>9  Unlawful entry etc.
 
@@ -222,11 +185,11 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="10"></a>10  Officer in charge
 
-                   The Minister may, in writing, appoint a person to be the officer in charge of a prohibited area.
+                   The Minister may, by writing under his hand, appoint a person to be the officer in charge of a prohibited area.
 
 ##### <a id="11"></a>11  Permits
 
-             (1)  The Minister, the officer in charge of a prohibited area, or some other person appointed by the Minister for the purpose, may, in writing, issue a permit authorizing a person to be in, enter or fly over a prohibited area.
+             (1)  The Minister, the officer in charge of a prohibited area, or some other person appointed by the Minister for the purpose, may, by writing under his hand, issue a permit authorizing a person to be in, enter or fly over a prohibited area.
 
              (2)  A permit under this section may be issued subject to such conditions and restrictions as are specified in the permit.
 
@@ -292,9 +255,9 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="14"></a>14  Restricted areas
 
-             (1)  If it is necessary so to do for the protection of a special defence undertaking, the Minister may, by notice published in the _Gazette_, declare an area of land or water or an area of land and water to be a restricted area.
+             (1)  If it is necessary so to do for the protection of a special defence undertaking, the Minister may, by notice published in the _Gazette_, declare an area of land or water or an area of land and water to be a restricted area for the purposes of this Act.
 
-             (2)  Where an area is declared to be a restricted area, the Minister may, by order published in the _Gazette_:
+             (2)  Where an area is declared to be a restricted area for the purposes of this Act, the Minister may, by order published in the _Gazette_:
 
                      (a)  prohibit the flight over that area of persons or aircraft, or of the persons or aircraft included in a class of persons or aircraft specified in the order;
 
@@ -352,7 +315,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="18"></a>18  Sea and air traffic
 
-                   Where a permit under section 11 has been issued to the master of a ship or the pilot of an aircraft for the purpose of enabling the ship or aircraft to enter, pass through or be over a prohibited area, a person lawfully on board the ship or aircraft does not commit an offence against section 9 by reason only of his or her presence on board the ship or aircraft.
+                   Where a permit under section 11 has been issued to the master of a ship or the pilot of an aircraft for the purpose of enabling the ship or aircraft to enter, pass through or be over a prohibited area, a person lawfully on board the ship or aircraft does not commit an offence against section 9 by reason only of his presence on board the ship or aircraft.
 
 ##### <a id="19"></a>19  Suspension etc. of licences and certificates
 
@@ -360,7 +323,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="20"></a>20  Search of persons in or entering prohibited areas
 
-             (1)  A Commonwealth officer acting in the course of his or her duty or employment, or a constable, may, without warrant, detain for the purpose of search, and search, a person in the neighbourhood of, entering, seeking to enter, being within, leaving or seeking to leave a prohibited area, and any bag or other article in the possession of the person.
+             (1)  A Commonwealth officer acting in the course of his duty or employment, or a constable, may, without warrant, detain for the purpose of search, and search, a person in the neighbourhood of, entering, seeking to enter, being within, leaving or seeking to leave a prohibited area, and any bag or other article in the possession of the person.
 
              (2)  A person conducting a search pursuant to subsection (1) may seize anything which appears to that person to have been made, obtained, collected, recorded, possessed or used in contravention of this Act or which that person has reasonable ground for believing to be evidence of an offence against this Act.
 
@@ -368,7 +331,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="21"></a>21  Search and detention of aircraft
 
-                   If it appears to a Commonwealth officer acting in the course of his or her duty or employment, or to a constable, that an aircraft is intended or is likely to be flown in contravention of this Act or of an order under section 14, the officer or constable may enter, search and detain the aircraft and may remove or direct the removal of the aircraft, or any part of it, for the purposes of ensuring its detention or preservation.
+                   If it appears to a Commonwealth officer acting in the course of his duty or employment, or to a constable, that an aircraft is intended or is likely to be flown in contravention of this Act or of an order under section 14, the officer or constable may enter, search and detain the aircraft and may remove or direct the removal of the aircraft, or any part of it, for the purposes of ensuring its detention or preservation.
 
 ##### <a id="22"></a>22  Power to arrest
 
@@ -394,7 +357,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="26"></a>26  No action against Commonwealth
 
-                   No action lies against the Commonwealth, a State, a Commonwealth officer, a constable or any other person acting in accordance with this Act in respect of an arrest, apprehension, detention, search, seizure or act in pursuance of this Act, but, if the Governor-General is satisfied that an arrest, apprehension, detention, search, seizure or act was made or done without reasonable cause, he or she may award reasonable compensation in respect of it.
+                   No action lies against the Commonwealth, a State, a Commonwealth officer, a constable or any other person acting in accordance with this Act in respect of an arrest, apprehension, detention, search, seizure or act in pursuance of this Act, but, if the Governor-General is satisfied that an arrest, apprehension, detention, search, seizure or act was made or done without reasonable cause, he may award reasonable compensation in respect of it.
 
 ##### <a id="27"></a>27  Application of Approved Defence Projects Protection Act
 
@@ -402,9 +365,9 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="28"></a>28  Prosecution of offences
 
-             (1)  A prosecution under this Act or the regulations shall be instituted only by or with the consent of the Attorney-General or of a person acting under his or her direction.
+             (1)  A prosecution under this Act or the regulations shall be instituted only by or with the consent of the Attorney-General or of a person acting under his direction.
 
-             (2)  A person charged with an offence against this Act or the regulations may be arrested, or a warrant for his or her arrest may be issued and executed, and he or she may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General or of a person acting under his or her direction has not been obtained, but no further proceedings shall be taken until that consent has been obtained.
+             (2)  A person charged with an offence against this Act or the regulations may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General or of a person acting under his direction has not been obtained, but no further proceedings shall be taken until that consent has been obtained.
 
              (3)  Nothing in this section prevents the discharge of a person charged if proceedings are not continued within a reasonable time.
 
@@ -424,7 +387,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  order that no report of the whole or a specified part of the proceedings shall be published; or
 
-                     (c)  make such other order and give such directions as he or she thinks necessary for ensuring that an affidavit, exhibit, information or other document used in the proceedings does not remain on the file in the court or in the records of the court after the hearing of the proceedings has been completed.
+                     (c)  make such other order and give such directions as he thinks necessary for ensuring that an affidavit, exhibit, information or other document used in the proceedings does not remain on the file in the court or in the records of the court after the hearing of the proceedings has been completed.
 
              (2)  A person is guilty of an offence if:
 
@@ -437,6 +400,7 @@ Note:          The defendant bears an evidential burden in rel
 ##### <a id="32"></a>32  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular for prescribing penalties for offences against the regulations, but so that no prescribed period of imprisonment shall exceed 6 months and no prescribed pecuniary penalty shall exceed $400.
+
 
 # Notes to the _Defence (Special Undertakings) Act 1952_
 
@@ -453,8 +417,9 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="31%">
   <col width="16%">
   <col width="17%">
-  <col width="22%">
-  <col width="15%">
+  <col width="23%">
+  <col width="0%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -464,335 +429,340 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Defence (Special Undertakings) Act 1952</div>
-  </td>
-  <td>
-    <div>19, 1952</div>
-  </td>
-  <td>
-    <div>10 June 1952</div>
-  </td>
-  <td>
-    <div>10 June 1952</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>S. 7: 18 Mar 1971 ( <i>see</i>s. 2(2) and <i>Gazette</i>1971, 
+<tbody>
+  <tr>
+    <td>
+      <div>Defence (Special Undertakings) Act 1952</div>
+    </td>
+    <td>
+      <div>19, 1952</div>
+    </td>
+    <td>
+      <div>10 June 1952</div>
+    </td>
+    <td colspan="2">
+      <div>10 June 1952</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td colspan="2">
+      <div>S. 7: 18 Mar 1971 ( <i>see</i>s. 2(2) and <i>Gazette</i>1971, 
 p. 2003) 
-Remainder: 1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>19, 1979</div>
-  </td>
-  <td>
-    <div>28 Mar 1979</div>
-  </td>
-  <td>
-    <div>Parts II–XVII 
+Remainder: 1 Dec 1966 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td colspan="2">
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>19, 1979</div>
+    </td>
+    <td>
+      <div>28 Mar 1979</div>
+    </td>
+    <td colspan="2">
+      <div>Parts II–XVII 
 (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 124</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>155, 1979</div>
-  </td>
-  <td>
-    <div>28 Nov 1979</div>
-  </td>
-  <td>
-    <div>19 Oct 1979 ( <i>see 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 124</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>155, 1979</div>
+    </td>
+    <td>
+      <div>28 Nov 1979</div>
+    </td>
+    <td colspan="2">
+      <div>19 Oct 1979 ( <i>see 
+
  </i>s. 2(1) and <i>Gazette</i>1979, No. S206)</div>
-  </td>
-  <td>
-    <div>S. 2(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
-  </td>
-  <td>
-    <div>70, 1980</div>
-  </td>
-  <td>
-    <div>28 May 1980</div>
-  </td>
-  <td>
-    <div>28 May 1980</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Reform Act 1984</div>
-  </td>
-  <td>
-    <div>63, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 152(1): 20 July 1984 ( <i>see Gazette</i>1984, No. S276) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
-  </td>
-  <td>
-    <div>193, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 383): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>141, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent Schedule 1 (items 98–105): 15 Dec 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> as amended by </b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 28): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2005</div>
-  </td>
-  <td>
-    <div>121, 2005</div>
-  </td>
-  <td>
-    <div>6 Oct 2005</div>
-  </td>
-  <td>
-    <div>Schedule 5: <i>(f) 
+    </td>
+    <td>
+      <div>S. 2(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
+    </td>
+    <td>
+      <div>70, 1980</div>
+    </td>
+    <td>
+      <div>28 May 1980</div>
+    </td>
+    <td colspan="2">
+      <div>28 May 1980</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Reform Act 1984</div>
+    </td>
+    <td>
+      <div>63, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td colspan="2">
+      <div>S. 152(1): 20 July 1984 ( <i>see Gazette</i>1984, No. S276) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 3 July 1985 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
+    </td>
+    <td>
+      <div>193, 1985</div>
+    </td>
+    <td>
+      <div>16 Dec 1985</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 3 July 1985 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 16</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td colspan="2">
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (item 383): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>141, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4: Royal Assent Schedule 1 (items 98–105):15 Dec 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A] 
+S. 2(2) (am. by 135, 2003, Sch. 2 (item 28)) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> as amended by </b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>135, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 2 (item 28): <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 2005</div>
+    </td>
+    <td>
+      <div>121, 2005</div>
+    </td>
+    <td>
+      <div>6 Oct 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 5: <i>(f) 
+
  </i>Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation (Miscellaneous Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>18, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3: 27 Mar 2009 
-Schedule 4: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 _(a)_     The _Defence (Special Undertakings) Act 1952_ was amended by subsection 152(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
@@ -882,25 +852,27 @@ _(e)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendme
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 2, item 28
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        9\. Schedule 2, item 28
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of section 2 of the
+          <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 October 2001
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 October 2001
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(f)_      Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
 
@@ -938,24 +910,29 @@ _(f)_      Subsection 2(1) (item 3) of the _Defence Legislation Amen
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 5
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of section 3 of the
+          <i>Legislative Instruments Act 2003</i>.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 ## Table of Amendments
 
@@ -980,294 +957,227 @@ _(f)_      Subsection 2(1) (item 3) of the _Defence Legislation Amen
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 155, 1979; No. 70, 1980; No. 63, 1984; No. 65, 1985; No. 146, 1999; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 141, 2001; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985 (as am. by No. 193, 1985)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 99, 1988; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16, 17</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20, 21</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 141, 2001; No. 18, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 65, 1985</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 155, 1979; No. 70, 1980; No. 63,1984; No. 65, 1985; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985 (as am. by No. 193, 1985)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 99, 1988; No. 121, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16, 17</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18–21</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 19, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 65, 1985</div>
+    </td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 ## Table A
 
@@ -1303,16 +1213,22 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Legislation Amendment (Application of Criminal Code) Act 2001
- (No. 141, 2000)_
+(No. 141, 2000)
+_
 
 ##### <a id="4"></a>4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+##  
+
 
  
 
