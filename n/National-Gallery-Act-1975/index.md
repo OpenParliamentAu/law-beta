@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00300/Html/682a79d4-7b1d-491a-a31f-d1dec10d002b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00832/Html/7c6405b5-3ffd-4a68-a9a0-1d23ce369c64_files/image001.gif)
 
 # National Gallery Act 1975
 
 **Act No. 61 of 1975 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 17 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -504,13 +504,29 @@ the Governor‑General shall terminate his or her appointment.
 
 ##### <a id="31"></a>31  Acting Director
 
-                   The Minister may appoint a person to act in the office of Director:
+             (1)  The Minister may appoint a person to act in the office of Director:
 
                      (a)  during a vacancy in the office; or
 
-                     (b)  during any period, or during all periods, when the person holding the office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
+                     (b)  during any period, or during all periods, when the person holding the office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  Where a person is acting in the office of Director in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of Director; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (5)  While a person is acting in the office of Director, the person has and may exercise all the powers, and shall perform all the functions, of the Director under this Act and the regulations.
+
+             (6)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Minister.
+
+             (7)  The validity of anything done by or in relation to a person purporting to act in the office of Director shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ## Part V—Staff
 
@@ -976,7 +992,7 @@ Schedule 4 (items 100, 101) and Schedule 5 (items 90–92): Royal Assent
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (items 792–796) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 792–796) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1357,22 +1373,6 @@ _(h)_     The _National Gallery Act 1975_ was amended by Schedule 10 (
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 32</div>
   </td>
   <td>
@@ -1540,6 +1540,38 @@ _(h)_     The _National Gallery Act 1975_ was amended by Schedule 10 (
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 792  Subsection 31(1)
+
+Omit “(1)”.
+
+## 793  Paragraph 31(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 794  Subsection 31(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 795  At the end of subsection 31(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 796  Subsections 31(2) to (7)
+
+Repeal the subsections.
+
+As at 17 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1556,6 +1588,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
