@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00208/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00081/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
 
 # Maritime Transport and Offshore Facilities Security Act 2003
 
 **Act No. 131 of 2003 as amended**
 
-This compilation was prepared on 26 May 2009
- taking into account amendments up to Act No. 33 of 2009
+This compilation was prepared on 8 February 2009
+ taking into account amendments up to Act No. 138 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -827,7 +827,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
   </td>
   <td>
     <div>1 July 2004</div>
-    <div>(see
+    <div>(s 2(1);
       <i>Gazette</i>2004, GN11)</div>
   </td>
 </tr>
@@ -1241,7 +1241,7 @@ Part 13 deals with miscellaneous matters.
 
                      (a)  the Australian Defence Force; or
 
-                     (b)  Customs; or
+                     (b)  the Australian Customs Service; or
 
                      (c)  an Agency of the Commonwealth prescribed in the regulations.
 
@@ -1249,7 +1249,7 @@ Part 13 deals with miscellaneous matters.
 
                      (a)  the Australian Defence Force; or
 
-                     (b)  Customs; or
+                     (b)  the Australian Customs Service; or
 
                      (c)  an Agency of the Commonwealth prescribed in the regulations.
 
@@ -1457,7 +1457,7 @@ but does not include a facility that is designed to remain permanently moored fo
 
                              (ii)  is prescribed in the regulations.
 
-Note:          Neither the Australian Defence Force nor Customs can be a maritime industry participant. The regulations may also exclude other Commonwealth Agencies from being maritime industry participants: see subsection 9(2).
+Note:          Neither the Australian Defence Force nor the Australian Customs Service can be a maritime industry participant. The regulations may also exclude other Commonwealth Agencies from being maritime industry participants: see subsection 9(2).
 
                     <a name="maritim-secur-guard"></a>**_maritime security guard_** has the meaning given by subsection 162(1).
 
@@ -1515,7 +1515,7 @@ Note:          Neither the Australian Defence Force nor Custom
 
                              (ii)  is prescribed in the regulations.
 
-Note:          Neither the Australian Defence Force nor Customs can be an offshore industry participant. The regulations may also exclude other Commonwealth Agencies from being offshore industry participants: see subsection 9(3).
+Note:          Neither the Australian Defence Force nor the Australian Customs Service can be an offshore industry participant. The regulations may also exclude other Commonwealth Agencies from being offshore industry participants: see subsection 9(3).
 
                     <a name="offshor-secur-plan"></a>**_offshore security plan_** means a plan prepared for the purposes of Part 5A.
 
@@ -6327,7 +6327,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  Subsection (2) is an offence of strict liability.
 
-##### <a id="163C"></a>163C  Maritime security guards’ power to remove people from zones
+##### <a id="163C"></a>163C  Maritime security guards’ power to remove people from zones
 
              (1)  If:
 
@@ -7313,7 +7313,7 @@ the ship operator for the non-complying ship is liable to pay compensation of a 
 
              (4)  This Act also has the effect that it would have if its operation were expressly confined to acts or omissions taking place in the course of, or in relation to, trade or commerce:
 
-                     (a)  between Australia and places outside   Australia; or
+                     (a)  between Australia and places outside Australia; or
 
                      (b)  among the States; or
 
@@ -7565,26 +7565,9 @@ Schedule 2 (items 36, 37): Royal Assent</div>
   <td>
     <div>Sch. 1 (items 29, 47)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
-  </td>
-  <td>
-    <div>33, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 38–41): 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_    Subsection 2(1) (items 2 and 25) of the _Maritime Transport Security Amendment Act 2005_ provide as follows:
+_(a)_     Subsection 2(1) (items 2 and 25) of the _Maritime Transport Security Amendment Act 2005_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -7836,7 +7819,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 67, 2005; No. 33, 2009</div>
+    <div>am. No. 67, 2005</div>
   </td>
 </tr>
 <tr>
@@ -7852,7 +7835,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 67, 2005; Nos. 17 and 103, 2006; Nos. 117 and 138, 2008; No. 33, 2009</div>
+    <div>am. No. 67, 2005; Nos. 17 and 103, 2006; Nos. 117 and 138, 2008</div>
   </td>
 </tr>
 <tr>
