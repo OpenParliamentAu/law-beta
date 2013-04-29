@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00332/Html/94abea9e-81d3-434f-a384-87745f141410_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00853/Html/ANTSAustBusNum1999_WD02_image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -33,7 +33,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Crown bound by this Act
 
-[5](#5).            Application to government entities, non‑profit sub‑entities, superannuation funds and certain RSE licensees
+[5](#5).            Application to government entities, non-profit sub-entities, superannuation funds and certain RSE licensees
 
 [5A](#5A).         Application to religious practitioners and religious institutions
 
@@ -167,7 +167,7 @@ Reducing registration and reporting requirements
 
 Note:          Section 30 facilitates this object by enabling the Registrar to provide information collected under this Act to State, Territory and local government bodies.
 
-Multi‑agency dealings
+Multi-agency dealings
 
              (4)  The objects of this Act also include allowing the * Registrar to register and maintain details about representatives of * businesses that are registered under this Act, for the purpose of facilitating electronic dealings by those businesses with * government entities.
 
@@ -177,9 +177,9 @@ Multi‑agency dealings
 
                    This Act binds the Crown in each of its capacities, but does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="5"></a>5  Application to government entities, non‑profit sub‑entities, superannuation funds and certain RSE licensees
+##### <a id="5"></a>5  Application to government entities, non-profit sub-entities, superannuation funds and certain RSE licensees
 
-             (1)  This Act applies to a * government entity, a * non‑profit sub‑entity or a * superannuation fund as if it were an * entity * carrying on an * enterprise in * Australia.
+             (1)  This Act applies to a * government entity, a * non-profit sub-entity or a * superannuation fund as if it were an * entity * carrying on an * enterprise in * Australia.
 
              (2)  This Act applies to an * RSE licensee, or an applicant for an * RSE licence, that is a group of individual trustees as if the group were an * entity * carrying on an * enterprise in * Australia.
 
@@ -329,7 +329,7 @@ Note:          Section 12 deals with giving notice to an ent
 
 ##### <a id="12"></a>12  If you are registered, notices may be sent to you at your registered address for service 
 
-             (1)  If * you are registered in the * Australian Business Register, a notice under this Act, or the regulations, may be given to you by leaving it at, or sending it by pre‑paid post to, the address shown in the Register as your address for service.
+             (1)  If * you are registered in the * Australian Business Register, a notice under this Act, or the regulations, may be given to you by leaving it at, or sending it by pre-paid post to, the address shown in the Register as your address for service.
 
 Note:          This subsection applies only to entities registered under section 11.
 
@@ -824,9 +824,9 @@ Note:          Section 12 deals with giving notice to an ent
 
              (4)  The * Registrar must also enter in the * Australian Business Register in relation to a representative the details prescribed in the regulations.
 
-Note 1:       Section 30‑229 of the ITAA 1997 also requires the Registrar to make entries in the Australian Business Register about entities gifts to which are tax‑deductible.
+Note 1:       Section 30-229 of the ITAA 1997 also requires the Registrar to make entries in the Australian Business Register about entities gifts to which are tax-deductible.
 
-Note 2:       Section 426‑65 in Schedule 1 to the _Taxation Administration Act 1953_ also requires the Registrar to make entries in the Australian Business Register about entities that are endorsed in the ways mentioned in that section.
+Note 2:       Section 426-65 in Schedule 1 to the _Taxation Administration Act 1953_ also requires the Registrar to make entries in the Australian Business Register about entities that are endorsed in the ways mentioned in that section.
 
 ##### <a id="26"></a>26  Access to certain information in the Australian Business Register
 
@@ -852,13 +852,13 @@ Note 2:       Section 426‑65 in Schedule 1 to the _Taxation Ad
 
                              (ii)  if a business name is not registered for the entity—any name used for business purposes by the entity;
 
-                     (e)  the date of effect of any GST registration under section 25‑10 of the _A New Tax System (Goods and Services Tax) Act 1999_;
+                     (e)  the date of effect of any GST registration under section 25-10 of the _A New Tax System (Goods and Services Tax) Act 1999_;
 
-                      (f)  the date of effect of any GST cancellation under section 25‑60 of the _A New Tax System (Goods and Services Tax) Act 1999_;
+                      (f)  the date of effect of any GST cancellation under section 25-60 of the _A New Tax System (Goods and Services Tax) Act 1999_;
 
-                     (g)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 30‑229 of the * ITAA 1997;
+                     (g)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 30-229 of the * ITAA 1997;
 
-                    (ga)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 426‑65 or 426‑115 in Schedule 1 to the _Taxation Administration Act 1953_;
+                    (ga)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 426-65 or 426-115 in Schedule 1 to the _Taxation Administration Act 1953_;
 
                      (h)  the entity’s Australian Company Number and Australian Registered Body Number (if any);
 
@@ -866,7 +866,7 @@ Note 2:       Section 426‑65 in Schedule 1 to the _Taxation Ad
 
                       (j)  the State or Territory in which the entity’s principal place of * business is located, and the postcode relating to the location;
 
-                    (ja)  if the entity is an * RSE licensee:
+                     (ja)  if the entity is an * RSE licensee:
 
                               (i)  the class of licence held by the licensee; and
 
@@ -876,7 +876,7 @@ Note 2:       Section 426‑65 in Schedule 1 to the _Taxation Ad
 
                             (iv)  the licensee’s telephone number;
 
-                    (jb)  if the entity is a registrable superannuation entity within the meaning of the _Superannuation Industry (Supervision) Act 1993_:
+                     (jb)  if the entity is a registrable superannuation entity within the meaning of the _Superannuation Industry (Supervision) Act 1993_:
 
                               (i)  the address for the entity recorded by the Australian Prudential Regulation Authority for the purposes of the _Superannuation Industry (Supervision) Act 1993_; and
 
@@ -996,7 +996,7 @@ if the recording or disclosure is not done in accordance with subsection (3).
 
                            (vii)  the head (however described) of a body established for a public purpose by or under a law of a State or Territory (including a local governing body) for the purposes of carrying out functions conferred on the body by a law of the State or Territory; or
 
-                          (viii)  a prescribed body for the prescribed purposes;
+                           (viii)  a prescribed body for the prescribed purposes;
 
                      (d)  the disclosure is by a person authorised by the Registrar to disclose the information and the disclosure is made to:
 
@@ -1040,7 +1040,7 @@ Note:          A disclosure under paragraph (3)(e) could, fo
 
 ##### <a id="31"></a>31  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1120,15 +1120,15 @@ and, in particular:
 
                      (b)  any other unincorporated association or body of * persons;
 
-but does not include a * partnership or a * non‑entity joint venture.
+but does not include a * partnership or a * non-entity joint venture.
 
-                    <a name="connect-australia"></a>**_connected with Australia_**, in relation to a * supply, has the meaning given by section 195‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                    <a name="australia"></a><a name="connect"></a>**_connected with_****_Australia_**, in relation to a * supply, has the meaning given by section 195-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                     <a name="corpor-act-compani"></a>**_Corporations Act company_** means a body registered as a company under the _Corporations Act 2001_.
 
-                    <a name="enterpris"></a>**_enterprise_** has the meaning given by section 9‑20 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                    <a name="enterpris"></a>**_enterprise_** has the meaning given by section 9-20 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
-                    <a name="entiti"></a>**_entity_** has the meaning given by section 184‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                    <a name="entiti"></a>**_entity_** has the meaning given by section 184-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                     <a name="entrusted-person"></a>**_entrusted person_** has the meaning given by subsection 30(1).
 
@@ -1136,7 +1136,7 @@ but does not include a * partnership or a * non‑entity joint venture.
 
                      (a)  a Department of State of the Commonwealth; or
 
-                     (b)  a Department of the Parliament established under the _Parliamentary Service Act 1999_; or
+                     (b)  a Department of the Parliament; or
 
                      (c)  an Executive Agency, or Statutory Agency, within the meaning of the _Public Service Act 1999_; or
 
@@ -1158,15 +1158,15 @@ but does not include a * partnership or a * non‑entity joint venture.
 
                     <a name="itaa-1997"></a>**_ITAA 1997_** means the _Income Tax Assessment Act 1997_.
 
-                    <a name="non-cash-benefit"></a>**_non‑cash benefit_** has the meaning given by subsection 995‑1(1) of the * ITAA 1997.
+                    <a name="non-cash-benefit"></a>**_non-cash benefit_** has the meaning given by subsection 995-1(1) of the * ITAA 1997.
 
-                    <a name="non-entiti-joint-ventur"></a>**_non‑entity joint venture_** means an arrangement that the Registrar is satisfied is a contractual arrangement:
+                    <a name="non-entiti-joint-ventur"></a>**_non-entity joint venture_** means an arrangement that the Registrar is satisfied is a contractual arrangement:
 
                      (a)  under which 2 or more parties undertake an economic activity that is subject to the joint control of the parties; and
 
                      (b)  that is entered into to obtain individual benefits for the parties, in the form of a share of the output of the arrangement rather than joint or collective profits for all the parties.
 
-                    <a name="non-profit-sub-entiti"></a><a name="non-profit-sub-entiti"></a>**_Non‑profit sub‑entity_**: a branch of an entity is a **_non‑profit sub‑entity_** if:
+                    <a name="non-profit-sub-entiti"></a><a name="non-profit-sub-entiti"></a>**_Non-profit sub-entity_**: a branch of an entity is a **_non-profit sub-entity_** if:
 
                      (a)  the entity has chosen to apply Division 63 of the _A New Tax System (Goods and Services Tax) Act 1999_, and that choice still has effect; and
 
@@ -1192,7 +1192,7 @@ but does not include a * partnership or a * non‑entity joint venture.
 
 Note:          The Registrar may delegate powers and functions under section 8 of the _Taxation Administration Act 1953_.
 
-                    <a name="partnership"></a>**_partnership_** has the meaning given by section 995‑1 of the * ITAA 1997.
+                    <a name="partnership"></a>**_partnership_** has the meaning given by section 995-1 of the * ITAA 1997.
 
                     <a name="person"></a>**_person_** includes a * company.
 
@@ -1214,7 +1214,7 @@ Note:          The Registrar may delegate powers and functions
 
                      (b)  a student at an institution who is undertaking a course of instruction in the duties of a minister of religion; or
 
-                     (c)  a full‑time member of a religious order; or
+                     (c)  a full-time member of a religious order; or
 
                      (d)  a student at a college conducted solely for training persons to become members of religious orders.
 
@@ -1224,17 +1224,17 @@ Note:          The Registrar may delegate powers and functions
 
                     <a name="rse-license"></a>**_RSE licensee_** means an RSE licensee within the meaning of the _Superannuation Industry (Supervision) Act 1993_.
 
-                    <a name="superannu-fund"></a>**_superannuation fund_** has the meaning given by section 995‑1 of the ITAA 1997.
+                    <a name="superannu-fund"></a>**_superannuation fund_** has the meaning given by section 995-1 of the ITAA 1997.
 
-                    <a name="suppli"></a>**_supply_** has the meaning given by section 9‑10 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                    <a name="suppli"></a>**_supply_** has the meaning given by section 9-10 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                     <a name="taxat-law"></a>**_taxation law_** has the meaning given by section 2 of the _Taxation Administration Act 1953_.
 
                     <a name="tfn"></a>**_TFN_** means tax file number as defined in section 202A of the * ITAA 1936.
 
-                    <a name="withhold-payment"></a>**_withholding payment_** has the meaning given by subsection 995‑1(1) of the * ITAA 1997.
+                    <a name="withhold-payment"></a>**_withholding payment_** has the meaning given by subsection 995-1(1) of the * ITAA 1997.
 
-                    <a name="withhold-payment"></a>**_withholding payment_** covered by a particular provision in Schedule 1 to the _Taxation Administration Act 1953_ has the meaning given by subsection 995‑1(1) of the * ITAA 1997.
+                    <a name="withhold-payment"></a>**_withholding payment_** covered by a particular provision in Schedule 1 to the _Taxation Administration Act 1953_ has the meaning given by subsection 995-1(1) of the * ITAA 1997.
 
                     <a name=""></a><a name=""></a>**_you_**: if a provision of this Act uses the expression **_you_**, it applies to entities generally, unless its application is expressly limited.
 
@@ -1647,23 +1647,6 @@ Schedule 5 (items 283–287): Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 120): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 1 (items 92–94) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -1672,7 +1655,7 @@ _(a)_     The _A New Tax System (Australian Business Number) Act 1999_ w
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 4 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsections 2(2) and (7) of which provide as follows:
+_(b)_    The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 4 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsections 2(2) and (7) of which provide as follows:
 
                  (2)   Part 1 of Schedule 1 to this Act commences immediately after the commencement of Part 1 of Schedule 1 (other than the items for which specific commencement has been provided) to the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_.
 
@@ -1704,11 +1687,11 @@ _(e)_     The _A New Tax System (Australian Business Number) Act 1999_ w
 
 _(f)_      The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 2 (item 1) and Schedule 4C only of the _A New Tax System (Tax Administration) Act (No. 2) 2000_, subsections 3(1) and (5B) of which provide as follows:
 
-                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                (5B)   Schedule 4C commences, or is taken to have commenced, on 1 July 2000.
 
-         Section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
+         Section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
 
 _(g)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 7 (items 1–3) and Schedule 11 (items 1, 2, 2A and 2B) only of the _Indirect Tax Legislation Amendment Act 2000_, subsections 3(1) and (5) of which provide as follows:
 
@@ -2184,7 +2167,7 @@ No. 42, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 9 of Part 2.</div>
+    <div>Heading to Div. 9 of Part 2</div>
   </td>
   <td colspan="2">
     <div>rs. No. 42, 2009</div>
@@ -2274,7 +2257,7 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 26(4)....................</div>
+    <div>Note to s. 26(4).....................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 42, 2009</div>
@@ -2437,7 +2420,7 @@ No. 95, 2004</div>
     <div>S. 41</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; Nos. 42 and 88, 2009; No. 145, 2010; No. 5, 2011</div>
+    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; Nos. 42 and 88, 2009; No. 145, 2010</div>
   </td>
 </tr>
 <tr height="0">
@@ -2489,7 +2472,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2515,17 +2498,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2565,7 +2548,7 @@ _Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 
 
 ## 296  Regulations may prescribe matters
 
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) in relation to the amendments or repeals made by this Schedule.
+The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) in relation to the amendments or repeals made by this Schedule.
 
 * * *
 
@@ -2575,12 +2558,12 @@ _Tax Laws Amendment (2009 Measures No. 2) Act 2009 (No. 42, 2009)_
 
 ## 32  Application
 
-(1)       The amendments made by items 1, 2, 3, 4, 23 and 28 of this Schedule apply in relation to applications made under section 9 of the _A New Tax System (Australian Business Number) Act 1999_ after the commencement of those items.
+(1)        The amendments made by items 1, 2, 3, 4, 23 and 28 of this Schedule apply in relation to applications made under section 9 of the _A New Tax System (Australian Business Number) Act 1999_ after the commencement of those items.
 
-(2)       The amendments made by items 9 and 10 of this Schedule apply in relation to changes in circumstances, for the purposes of paragraph 14(1)(c) of that Act, happening after the commencement of those items.
+(2)        The amendments made by items 9 and 10 of this Schedule apply in relation to changes in circumstances, for the purposes of paragraph 14(1)(c) of that Act, happening after the commencement of those items.
 
-(3)       The amendment made by item 11 of this Schedule applies in relation to requests given under subsection 15(1) of that Act after the commencement of that item.
+(3)        The amendment made by item 11 of this Schedule applies in relation to requests given under subsection 15(1) of that Act after the commencement of that item.
 
-(4)       The amendment made by item 17 of this Schedule applies in relation to applications made under subsection 18(4) of that Act after the commencement of that item.
+(4)        The amendment made by item 17 of this Schedule applies in relation to applications made under subsection 18(4) of that Act after the commencement of that item.
 
  
