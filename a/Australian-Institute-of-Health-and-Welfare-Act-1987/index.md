@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02147/Html/AustInstHlthWelfA87_image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C02146/Html/AustInstHlthWel87_image001.gif)
 
 # Australian Institute of Health and Welfare Act 1987
 
 **Act No. 41 of 1987 as amended**
 
-This compilation was prepared on 10 July 2001
- taking into account amendments up to Act No. 59 of 2001
+This compilation was prepared on 22 March 2000
+ taking into account amendments up to Act No. 156 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -35,7 +35,7 @@ Prepared by the Office of Legislative Drafting,
 
 [7](#7).            Directions by Minister                                                                        7
 
-    **Division 2—Constitution and meetings of Institute**
+    **Division 2—Constitution and Meetings of Institute**
 
 [8](#8).            Constitution of Institute                                                                      8
 
@@ -95,7 +95,9 @@ Prepared by the Office of Legislative Drafting,
 
 [32](#32).          Regulations                                                                                        26
 
-**Notes** 
+**Schedule—Bodies that may nominate board members** 
+
+**Notes to the _Australian Institute of Health and Welfare Act 1987_** 
 
 ## An Act to establish an Australian Institute of Health and Welfare, and for related purposes
 
@@ -119,7 +121,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="director"></a>**_Director_** means the Director of the Institute.
 
-                    <a name="ethic-committe"></a>**_Ethics Committee_** means the Australian Institute of Health and Welfare Ethics Committee.
+                    <a name="ethic-committe"></a>**_Ethics Committee_** means the Health Ethics Committee of the Australian Institute of Health and Welfare.
 
                     <a name="health-relat-inform-statist"></a>**_health-related information and statistics_** means information and statistics collected and produced from data relevant to health or health services.
 
@@ -311,7 +313,7 @@ Note:          The Commonwealth Authorities and Companies Act 
 
              (3)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Institute.
 
-### Division 2—Constitution and meetings of Institute
+### Division 2—Constitution and Meetings of Institute
 
 ##### <a id="8"></a>8  Constitution of Institute
 
@@ -331,27 +333,41 @@ Note:          The Commonwealth Authorities and Companies Act 
 
                      (e)  the Secretary to the Department;
 
-                      (f)  a person nominated by the Minister who has knowledge of the needs of consumers of health services;
+                      (f)  a person:
 
-                    (fa)  a person nominated by the Minister who has knowledge of the needs of consumers of welfare services;
+                              (i)  who has knowledge of the needs of consumers of health services; and
 
-                    (fb)  a person nominated by the Minister who has knowledge of the needs of consumers of housing assistance services;
+                             (ii)  whose nomination has been recommended by a body that is referred to in the Schedule and that represents consumers of health services; and
 
-                    (fc)  a person nominated by the Minister who has expertise in research into public health issues;
+                            (iii)  who has been nominated by the Minister;
+
+                    (fa)  a person:
+
+                              (i)  who has knowledge of the needs of consumers of welfare services; and
+
+                             (ii)  whose nomination has been recommended by a body that is referred to in the Schedule and that represents consumers of welfare services; and
+
+                            (iii)  who has been nominated by the Minister;
+
+                    (fb)  a person:
+
+                              (i)  who has knowledge of the needs of consumers of housing assistance services; and
+
+                             (ii)  whose nomination has been recommended by a body that is referred to in the Schedule and that represents consumers of housing assistance services; and
+
+                            (iii)  who has been nominated by the Minister;
+
+                    (fc)  a person:
+
+                              (i)  who has expertise in research into public health issues; and
+
+                             (ii)  whose nomination has been recommended by a body that is referred to in the Schedule and that is a peak body promoting research into public health issues; and
+
+                            (iii)  who has been nominated by the Minister;
 
                      (g)  3 other members nominated by the Minister;
 
                      (h)  a member of the staff of the Institute elected by that staff.
-
-       (1AA)  Without limiting the persons who may be nominated by the Minister, the Minister must:
-
-                     (a)  before nominating the member referred to in paragraph (1)(f), seek recommendations from such bodies (if any) representing consumers of health services as are prescribed for the purpose; and
-
-                     (b)  before nominating the member referred to in paragraph 8(1)(fa), seek recommendations from such bodies (if any) representing consumers of welfare services as are prescribed for the purpose; and
-
-                     (c)  before nominating the member referred to in paragraph 8(1)(fb), seek recommendations from such bodies (if any) representing consumers of housing assistance services as are prescribed for the purpose; and
-
-                     (d)  before nominating the member referred to in paragraph 8(1)(fc), seek recommendations from such peak public health research bodies (if any) as are prescribed for the purpose.
 
           (1A)  A recommendation for the purposes of paragraph (1)(f), (fa), (fb) or (fc):
 
@@ -513,11 +529,11 @@ the Governor-General shall terminate the appointment of the member.
 
 ##### <a id="16"></a>16  Committees
 
-             (1)  The Institute shall appoint a committee to be known as the Australian Institute of Health and Welfare Ethics Committee.
+             (1)  The Institute shall appoint a committee to be known as the Health Ethics Committee of the Australian Institute of Health and Welfare.
 
              (2)  The functions and composition of the Ethics Committee shall be as prescribed.
 
-             (3)  Regulations for the purpose of subsection (2) must not be inconsistent with recommendations of the National Health and Medical Research Council.
+             (3)  Regulations shall not be made for the purpose of subsection (2) except in accordance with a recommendation of the National Health and Medical Research Council.
 
              (4)  The Institute may appoint such other committees as it thinks fit to assist it in performing its functions.
 
@@ -729,9 +745,9 @@ shall not, except for the purposes of this Act, either directly or indirectly:
 
                              (ii)  the publication does not identify the information subject.
 
-          (2A)  Paragraph (2)(c) applies only to information that is health-related or welfare-related information and statistics.
+          (2A)  Paragraph (2)(c) applies only to information that is health-related information and statistics.
 
-          (2B)  Paragraph (2)(c) applies to a document only to the extent to which the document contains health-related or welfare-related information and statistics.
+          (2B)  Paragraph (2)(c) applies to a document only to the extent to which the document contains health-related information and statistics.
 
              (3)  A person to whom information is divulged or communicated, or a document is produced, under paragraph (2)(a), (b) or (c), and any person under the control of that person is, in respect of that information or document, subject to subsection (1) as if the person were a person exercising powers, or performing duties or functions, under this Act and had acquired the information or document in the exercise of those powers or the performance of those duties or functions.
 
@@ -825,13 +841,35 @@ during the period to which the report relates.
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed 
 
+# Schedule—Bodies that may nominate board members
+
+_Subsection 8(1)_
+
+Australian Council of Social Service 
+
+Australian Hospital Association 
+
+Australian Medical Association 
+
+Australian Pensioners’ and Superannuants’ Federation 
+
+Australian Private Hospitals’ Association
+
+Brotherhood of St Laurence 
+
+Catholic Social Welfare Commission
+
+Consumers’ Health Forum of Australia 
+
+National Shelter
+
+Public Health Association of Australia 
+
 # Notes to the _Australian Institute of Health and Welfare Act 1987_
 
 ### Note 1
 
 The _Australian Institute of Health and Welfare Act 1987_ as shown in this compilation comprises Act No. 41, 1987 amended as indicated in the Tables below. 
-
-All relevant information pertaining to application, saving or transitional provisions prior to 28 June 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1017,25 +1055,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 2) 2001</div>
-  </td>
-  <td>
-    <div>59, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 7-10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
-Schedule 3 (item 12): 1 Jan 1999 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 4, 9) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Part III (sections 7-9) only of the _Community Services and Health Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows:
@@ -1104,7 +1123,7 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997; No. 59, 2001</div>
+    <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1152,7 +1171,7 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 16, 1992; No. 59, 2001</div>
+    <div>am. No. 16, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1200,7 +1219,7 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 16, 1992; No. 152, 1997; No. 59, 2001</div>
+    <div>am. No. 16, 1992; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1264,7 +1283,7 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 95, 1989; No. 16, 1992; No. 59, 2001</div>
+    <div>am. No. 95, 1989; No. 16, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1282,36 +1301,6 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
   <td>
     <div>ad. No. 16, 1992</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 59, 2001</div>
-  </td>
 </tr></table>
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Health Legislation Amendment Act (No. 2) 2001 (No. 59, 2001)_
-
-## Schedule 1
-
-## 4  Application
-
-The amendments made by this Part apply to appointments made after the commencement of this Part.
-
-## 9  Transitional provision
-
-(1)        Immediately after the commencement of this item, the Institute is taken to have appointed each member of the former Ethics Committee as a member of the Australian Institute of Health and Welfare Ethics Committee.
-
-(2)        The appointment of each such member is taken to end at the time when the member’s term of appointment as a member of the former Ethics Committee would have ended under the instrument appointing the person as a member of that Committee.
-
-(3)        In this item:
-
-**_former Ethics Committee_** means the Health Ethics Committee of the Australian Institute of Health and Welfare, within the meaning of the _Australian Institute of Health and Welfare Act 1987_ as in force immediately before the commencement of this item.
 
  
