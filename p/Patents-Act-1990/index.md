@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 6 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 8 July 2010
+ taking into account amendments up to Act No. 96 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -58,9 +58,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Who may be granted a patent?
 
-[16](#16).          Co‑ownership of patents
+[16](#16).          Co-ownership of patents
 
-[17](#17).          Directions to co‑owners
+[17](#17).          Directions to co-owners
 
 **Part 3—Validity** 
 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Validity of patent not guaranteed
 
-[21](#21).          Validity not implied by making or refusal of non‑infringement declaration
+[21](#21).          Validity not implied by making or refusal of non-infringement declaration
 
     **Division 2—Matters not affecting validity**
 
@@ -122,9 +122,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Specifications
 
-[41](#41).          Specifications: micro‑organisms
+[41](#41).          Specifications: micro-organisms
 
-[42](#42).          Micro‑organisms ceasing to be reasonably available
+[42](#42).          Micro-organisms ceasing to be reasonably available
 
     **Division 3—Priority dates**
 
@@ -162,7 +162,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Chapter 4—Publication**
 
-[53](#53).          Publication of certain information about applicants etc                           
+[53](#53).          Publication of certain information about applicants etc                        
  [_see also_ Table B]
 
 [54](#54).          Notice of publication
@@ -275,23 +275,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [96](#96).          Withdrawn, abandoned or refused applications
 
-**Chapter 9—Re‑examination of standard patents**
+**Chapter 9—Re-examination of standard patents**
 
 [96A](#96A).       Chapter does not apply to innovation patents
 
-[97](#97).          Re‑examination of complete specifications
+[97](#97).          Re-examination of complete specifications
 
-[98](#98).          Report on re‑examination
+[98](#98).          Report on re-examination
 
 [99](#99).          Statement by applicant or patentee
 
 [100](#100).        Copies of report to be given to court
 
-[100A](#100A).     Refusal to grant patent—re‑examination before grant
+[100A](#100A).     Refusal to grant patent—re-examination before grant
 
-[101](#101).        Revocation of patent—re‑examination after grant
+[101](#101).        Revocation of patent—re-examination after grant
 
-**Chapter 9A—Examination, re‑examination and opposition‑innovation patents** 
+**Chapter 9A—Examination, re-examination and opposition-innovation patents** 
 
 **Part 1—Examination of innovation patents**
 
@@ -307,15 +307,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [101F](#101F).      Revocation of innovation patents following examination under section 101B
 
-**Part 2—Re‑examination of innovation patents**
+**Part 2—Re-examination of innovation patents**
 
-[101G](#101G).     Re‑examination of complete specifications of innovation patents
+[101G](#101G).     Re-examination of complete specifications of innovation patents
 
 [101H](#101H).     Patentee statements
 
-[101J](#101J).      Revocation of innovation patent following re‑examination
+[101J](#101J).      Revocation of innovation patent following re-examination
 
-[101K](#101K).     Relevant proceedings and re‑examination
+[101K](#101K).     Relevant proceedings and re-examination
 
 [101L](#101L).      Copies of report to be given to court
 
@@ -377,7 +377,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [120](#120).        Infringement proceedings
 
-[121](#121).        Counter‑claim for revocation of patent
+[121](#121).        Counter-claim for revocation of patent
 
 [121A](#121A).     Burden of proof—infringement of patent for a process
 
@@ -385,15 +385,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [123](#123).        Innocent infringement
 
-**Part 2—Non‑infringement declarations**
+**Part 2—Non-infringement declarations**
 
 [124](#124).        Interpretation
 
-[125](#125).        Application for non‑infringement declaration
+[125](#125).        Application for non-infringement declaration
 
-[126](#126).        Proceedings for non‑infringement declarations
+[126](#126).        Proceedings for non-infringement declarations
 
-[127](#127).        Effect of non‑infringement declarations
+[127](#127).        Effect of non-infringement declarations
 
 **Part 3—Unjustified threats of infringement proceedings**
 
@@ -403,7 +403,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [129A](#129A).     Threats related to an innovation patent application or innovation patent and court’s power to grant relief
 
-[130](#130).        Counter‑claim for infringement
+[130](#130).        Counter-claim for infringement
 
 [131](#131).        Notification of patent not a threat
 
@@ -597,7 +597,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Chapter 21—Administration**
 
-[205](#205).        Patent Office and sub‑offices
+[205](#205).        Patent Office and sub-offices
 
 [206](#206).        Patent Office seal
 
@@ -665,7 +665,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [235](#235).        Other applications and proceedings under 1952 Act
 
-[236](#236).        Micro‑organisms
+[236](#236).        Micro-organisms
 
 [237](#237).        Orders, directions etc  under 1952 Act
 
@@ -678,20 +678,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule 1—Dictionary [_see also_ Table B]** 
 
 **Schedule 2—Consequential Amendments** 
-
-Companies Act 1981                                                                                               170
-
-Designs Act 1906                                                                                                     170
-
-Industry, Technology and Commerce Legislation Amendment Act (No. 2) 1989                170
-
-Jurisdiction of Courts (Cross-vesting) Act 1987                                               170
-
-Nuclear Non-Proliferation (Safeguards) Act 1987                                          170
-
-Sales Tax Assessment Act (No. 1) 1930                                                                171
-
-Trade Marks Act 1955                                                                                            171
 
 **Notes** 
 
@@ -815,7 +801,7 @@ modified examination
 
 nominated person
 
-non‑infringement declaration
+non-infringement declaration
 
 _Official Journal_
 
@@ -863,7 +849,7 @@ provisional specification
 
 receiving Office
 
-re‑examination
+re-examination
 
 Register
 
@@ -877,7 +863,7 @@ relevant international application
 
 relevant proceedings
 
-rules relating to micro‑organisms
+rules relating to micro-organisms
 
 Safeguards Act
 
@@ -909,7 +895,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -920,8 +906,8 @@ work
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Patent application 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Patent application 
 (provisional or complete) 
 ( <i>see section 29</i>)</span></div>
             </div>
@@ -929,45 +915,7 @@ work
         </tr>
       </table>
      </td>
-</tr></table>    <table align="left">
-<colgroup>
-  <col width="0%">
-  <col width="77%">
-  <col width="1%">
-  <col width="22%">
-</colgroup> 
-<tr>
-  <td height="0"></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td height="162"></td>
-  <td rowspan="3" align="left">
-    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image003.gif">
-  </td>
-</tr>
-<tr>
-  <td height="49"></td>
-  <td></td>
-  <td height="49" bgcolor="white">
-
-      <table cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-          <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Patent request 
-refused</span></div>
-            </div>
-          </td>
-        </tr>
-      </table>
-     </td>
-</tr>
-<tr>
-  <td height="493"></td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image004.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image003.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -978,9 +926,9 @@ refused</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
               <div><span style="font-size:8.0pt"> 
- </span> <span style="font-size:7.0pt;font-family:">Filing formalities</span></div>
+ </span> <span style="font-size:7.0pt;font-family:Helvetica">Filing formalities</span></div>
             </div>
           </td>
         </tr>
@@ -997,8 +945,8 @@ refused</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Publication of prescribed 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Publication of prescribed 
 details in <i>Official Journal</i> </span></div>
             </div>
           </td>
@@ -1016,8 +964,8 @@ details in <i>Official Journal</i> </span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Subject-matter of 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Subject-matter of 
 complete specification 
 classified using International 
 Patent Classification</span></div>
@@ -1037,8 +985,8 @@ Patent Classification</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Abstracts prepared for 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Abstracts prepared for 
 search material</span></div>
             </div>
           </td>
@@ -1056,8 +1004,8 @@ search material</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Pay continuation fees 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Pay continuation fees 
 for unaccepted 
 patent requests</span></div>
             </div>
@@ -1076,8 +1024,8 @@ patent requests</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Direction to request 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Direction to request 
 examination unless 
 applicant has already 
 done so ( <i>see section 44</i>)</span></div>
@@ -1097,9 +1045,9 @@ done so ( <i>see section 44</i>)</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
               <div><span style="font-size:8.0pt"> 
- </span> <span style="font-size:7.0pt;font-family:">Request for examination</span></div>
+ </span> <span style="font-size:7.0pt;font-family:Helvetica">Request for examination</span></div>
             </div>
           </td>
         </tr>
@@ -1116,15 +1064,15 @@ done so ( <i>see section 44</i>)</span></div>
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
-            <div style="padding:1.75pt 1.75pt 1.75pt 1.75pt">
-              <div><span style="font-size:7.0pt;font-family:">Examination 
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Examination 
 ( <i>see section 45</i>)</span></div>
             </div>
           </td>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image011.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1136,10 +1084,10 @@ done so ( <i>see section 44</i>)</span></div>
         <tr>
           <td>
             <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
-              <div><span style="font-size:7.0pt;font-family:">Continuation fees are 
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Continuation fees are 
 prescribed and payable under 
 the regulations.</span></div>
-              <div><span style="font-size:7.0pt;font-family:">Applications lapse if 
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Applications lapse if 
 continuation fees are not paid 
 ( <i>see section 142</i>).</span></div>
             </div>
@@ -1147,19 +1095,19 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image013.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
 </colgroup> 
 <tr>
-  <td height="26" bgcolor="white">
+  <td height="27" bgcolor="white">
 
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
             <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
-              <div><span style="font-size:7.0pt;font-family:">Fee payable.</span></div>
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Fee payable.</span></div>
             </div>
           </td>
         </tr>
@@ -1171,13 +1119,13 @@ continuation fees are not paid
   <col width="NaN%">
 </colgroup> 
 <tr>
-  <td height="68" bgcolor="white">
+  <td height="69" bgcolor="white">
 
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
             <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
-              <div><span style="font-size:7.0pt;font-family:">Application lapses if patent 
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Application lapses if patent 
 request and complete 
 specification not accepted 
 within the prescribed period 
@@ -1199,7 +1147,7 @@ within the prescribed period
         <tr>
           <td>
             <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
-              <div><span style="font-size:7.0pt;font-family:">Applicant must request 
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Applicant must request 
 examination as directed or 
 application will lapse ( <i>see 
 section 142</i>).</span></div>
@@ -1214,13 +1162,13 @@ section 142</i>).</span></div>
   <col width="NaN%">
 </colgroup> 
 <tr>
-  <td height="57" bgcolor="white">
+  <td height="58" bgcolor="white">
 
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
             <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
-              <div><span style="font-size:7.0pt;font-family:">Applicant may be required to 
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Applicant may be required to 
 correct deficiencies. Application 
 will lapse if applicant does not 
 comply.</span></div>
@@ -1235,25 +1183,65 @@ comply.</span></div>
   <col width="NaN%">
 </colgroup> 
 <tr>
-  <td height="88" bgcolor="white">
+  <td height="89" bgcolor="white">
 
       <table cellpadding="0" cellspacing="0" width="100%">
         <tr>
           <td>
             <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
-              <div><span style="font-size:7.0pt; font-family:">Fee payable.</span></div>
-              <div><span style="font-size:7.0pt;font-family:">A complete application must be 
+              <div><span style="font-size:7.0pt; font-family:Helvetica">Fee payable.</span></div>
+              <div><span style="font-size:7.0pt;font-family:Helvetica">A complete application must be 
 associated with a provisional 
 application within the 
 prescribed period.</span></div>
-              <div><span style="font-size:7.0pt;font-family:">Provisionals which lapse at this 
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Provisionals which lapse at this 
 stage are not published.</span></div>
             </div>
           </td>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image021.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image020.gif)
+
+  <table align="left">
+<colgroup>
+  <col width="0%">
+  <col width="77%">
+  <col width="1%">
+  <col width="22%">
+</colgroup> 
+<tr>
+  <td height="0"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td height="162"></td>
+  <td rowspan="3" align="left">
+    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image021.gif">
+  </td>
+</tr>
+<tr>
+  <td height="49"></td>
+  <td></td>
+  <td height="49" bgcolor="white">
+
+      <table cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td>
+            <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt">
+              <div><span style="font-size:7.0pt;font-family:Helvetica">Patent request 
+refused</span></div>
+            </div>
+          </td>
+        </tr>
+      </table>
+     </td>
+</tr>
+<tr>
+  <td height="493"></td>
+</tr></table>   
 
 ##### <a id="5"></a>5  Associated applications
 
@@ -1263,19 +1251,19 @@ stage are not published.</span></div>
 
 ##### <a id="6"></a>6  Deposit requirements
 
-                   For the purposes of this Act, the deposit requirements are to be taken to be satisfied in relation to a micro‑organism to which a specification relates if, and only if:
+                   For the purposes of this Act, the deposit requirements are to be taken to be satisfied in relation to a micro-organism to which a specification relates if, and only if:
 
-                     (a)  the micro‑organism was, on or before the date of filing of the specification, deposited with a prescribed depositary institution in accordance with the rules relating to micro‑organisms; and
+                     (a)  the micro-organism was, on or before the date of filing of the specification, deposited with a prescribed depositary institution in accordance with the rules relating to micro-organisms; and
 
-                     (b)  the specification includes, at that date, such relevant information on the characteristics of the micro‑organism as is known to the applicant; and
+                     (b)  the specification includes, at that date, such relevant information on the characteristics of the micro-organism as is known to the applicant; and
 
                      (c)  at all times since the end of the prescribed period, the specification has included:
 
-                              (i)  the name of a prescribed depositary institution from which samples of the micro‑organism are obtainable as provided by the rules relating to micro‑organisms; and
+                              (i)  the name of a prescribed depositary institution from which samples of the micro-organism are obtainable as provided by the rules relating to micro-organisms; and
 
                             (iii)  the file, accession or registration number of the deposit given by the institution; and
 
-                     (d)  at all times since the date of filing of the specification, samples of the micro‑organism have been obtainable from a prescribed depositary institution as provided by those rules.
+                     (d)  at all times since the date of filing of the specification, samples of the micro-organism have been obtainable from a prescribed depositary institution as provided by those rules.
 
 [_Note: see sections 41 and 42_]
 
@@ -1419,7 +1407,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  A patent may be granted to a person whether or not he or she is an Australian citizen.
 
-##### <a id="16"></a>16  Co‑ownership of patents
+##### <a id="16"></a>16  Co-ownership of patents
 
              (1)  Subject to any agreement to the contrary, where there are 2 or more patentees:
 
@@ -1433,7 +1421,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  This section does not affect the rights or obligations of a trustee or of the legal representative of a deceased person, or rights or obligations arising out of either of those relationships.
 
-##### <a id="17"></a>17  Directions to co‑owners
+##### <a id="17"></a>17  Directions to co-owners
 
              (1)  Where there are 2 or more patentees, the Commissioner may, on the application of any of them, give such directions in accordance with the application as the Commissioner thinks fit, being directions about:
 
@@ -1519,9 +1507,9 @@ Certain inventions not patentable inventions for the purposes of an innovation p
 
              (2)  The Commonwealth, the Commissioner, a Deputy Commissioner, or an employee, is not liable because of, or in connection with, doing any act under this Act or the PCT, or any proceedings consequent on doing any such act.
 
-##### <a id="21"></a>21  Validity not implied by making or refusal of non‑infringement declaration
+##### <a id="21"></a>21  Validity not implied by making or refusal of non-infringement declaration
 
-                   The making of, or refusal to make, a non‑infringement declaration in respect of a claim of a patent does not imply that the claim is valid.
+                   The making of, or refusal to make, a non-infringement declaration in respect of a claim of a patent does not imply that the claim is valid.
 
 ### Division 2—Matters not affecting validity
 
@@ -1535,7 +1523,7 @@ Certain inventions not patentable inventions for the purposes of an innovation p
 
                      (a)  the publication or use of the invention, so far as claimed in that claim, on or after the priority date of that claim; or
 
-                     (b)  the grant of another patent which claims the invention, so far as claimed in the first‑mentioned claim, in a claim of the same or a later priority date.
+                     (b)  the grant of another patent which claims the invention, so far as claimed in the first-mentioned claim, in a claim of the same or a later priority date.
 
 ##### <a id="24"></a>24  Validity not affected by certain publication or use
 
@@ -1801,25 +1789,25 @@ the Commissioner may declare in writing that the persons who the Commissioner is
 
              (4)  The claim or claims must relate to one invention only.
 
-##### <a id="41"></a>41  Specifications: micro‑organisms
+##### <a id="41"></a>41  Specifications: micro-organisms
 
-             (1)  To the extent that an invention is a micro‑organism, the complete specification is to be taken to comply with paragraph 40(2)(a), so far as it requires a description of the micro‑organism, if the deposit requirements are satisfied in relation to the micro‑organism.
+             (1)  To the extent that an invention is a micro-organism, the complete specification is to be taken to comply with paragraph 40(2)(a), so far as it requires a description of the micro-organism, if the deposit requirements are satisfied in relation to the micro-organism.
 
              (2)  Where:
 
-                     (a)  an invention involves the use, modification or cultivation of a micro‑organism, other than the micro‑organism mentioned in subsection (1); and
+                     (a)  an invention involves the use, modification or cultivation of a micro-organism, other than the micro-organism mentioned in subsection (1); and
 
-                     (b)  a person skilled in the relevant art in the patent area could not reasonably be expected to perform the invention without having a sample of the micro‑organism before starting to perform the invention; and
+                     (b)  a person skilled in the relevant art in the patent area could not reasonably be expected to perform the invention without having a sample of the micro-organism before starting to perform the invention; and
 
-                     (c)  the micro‑organism is not reasonably available to a person skilled in the relevant art in the patent area;
+                     (c)  the micro-organism is not reasonably available to a person skilled in the relevant art in the patent area;
 
-the specification is to be taken to comply with paragraph 40(2)(a), so far as it requires a description of the micro‑organism, if, and only if, the deposit requirements are satisfied in relation to the micro‑organism.
+the specification is to be taken to comply with paragraph 40(2)(a), so far as it requires a description of the micro-organism, if, and only if, the deposit requirements are satisfied in relation to the micro-organism.
 
-             (3)  For the purposes of this section, a micro‑organism may be taken to be reasonably available to a person even if it is not so available in the patent area.
+             (3)  For the purposes of this section, a micro-organism may be taken to be reasonably available to a person even if it is not so available in the patent area.
 
              (4)  Where:
 
-                     (a)  the requirements specified in paragraph 6(c) or (d) cease to be satisfied in relation to a micro‑organism; and
+                     (a)  the requirements specified in paragraph 6(c) or (d) cease to be satisfied in relation to a micro-organism; and
 
                      (b)  steps are taken at a later time within the prescribed period in accordance with such provisions (if any) of the regulations as are applicable; and
 
@@ -1829,17 +1817,17 @@ those requirements are to be taken to have been satisfied during the period ment
 
 [_Note: see also section 6 in relation to satisfaction of deposit requirements_.]
 
-##### <a id="42"></a>42  Micro‑organisms ceasing to be reasonably available
+##### <a id="42"></a>42  Micro-organisms ceasing to be reasonably available
 
              (1)  Where:
 
                      (a)  a complete application has been made for a patent, or a patent has been granted for an invention of a kind mentioned in paragraph 41(2)(a); and
 
-                     (b)  the relevant micro‑organism was, at the date of filing of the complete specification, reasonably available (within the meaning of section 41) to a skilled person working in the relevant art in the patent area; and
+                     (b)  the relevant micro-organism was, at the date of filing of the complete specification, reasonably available (within the meaning of section 41) to a skilled person working in the relevant art in the patent area; and
 
-                     (c)  the micro‑organism has ceased to be so available;
+                     (c)  the micro-organism has ceased to be so available;
 
-a prescribed court or the Commissioner, on application made in accordance with the regulations, or the Commissioner, on his or her own motion, may declare that the specification does not comply with section 40 unless the deposit requirements are satisfied in relation to the micro‑organism.
+a prescribed court or the Commissioner, on application made in accordance with the regulations, or the Commissioner, on his or her own motion, may declare that the specification does not comply with section 40 unless the deposit requirements are satisfied in relation to the micro-organism.
 
              (2)  Where a declaration is made under subsection (1):
 
@@ -2294,11 +2282,11 @@ Note:          Section 65 sets out the date of a patent.
 
              (5)  For the purposes of this section, the **_first regulatory approval date_**, in relation to a pharmaceutical substance, is:
 
-                     (a)  if no pre‑TGA marketing approval was given in relation to the substance—the date of commencement of the first inclusion in the Australian Register of Therapeutic Goods of goods that contain, or consist of, the substance; or
+                     (a)  if no pre-TGA marketing approval was given in relation to the substance—the date of commencement of the first inclusion in the Australian Register of Therapeutic Goods of goods that contain, or consist of, the substance; or
 
-                     (b)  if pre‑TGA marketing approval was given in relation to the substance—the date of the first approval.
+                     (b)  if pre-TGA marketing approval was given in relation to the substance—the date of the first approval.
 
-             (6)  For the purposes of this section, **_pre‑TGA marketing approval_**, in relation to a pharmaceutical substance, is an approval (however described) by a Minister, or a Secretary to a Department, to:
+             (6)  For the purposes of this section, **_pre-TGA marketing approval_**, in relation to a pharmaceutical substance, is an approval (however described) by a Minister, or a Secretary to a Department, to:
 
                      (a)  market the substance, or a product containing the substance, in Australia; or
 
@@ -2392,7 +2380,7 @@ Refusal
 
                              (ii)  which is in receipt of Commonwealth funds; and
 
-                     (c)  the total amount spent on each type of research and development, including pre‑clinical research and clinical trials, in respect of the drug which was the subject of the application.
+                     (c)  the total amount spent on each type of research and development, including pre-clinical research and clinical trials, in respect of the drug which was the subject of the application.
 
 ##### <a id="77"></a>77  Calculation of term of extension
 
@@ -2460,11 +2448,11 @@ the Commissioner must not make any decision under this Part in relation to the p
 
              (1)  If a complete patent application for a patent is made (but has not lapsed or been refused or withdrawn), the applicant may, in accordance with the regulations, make a further complete application for a patent for an invention:
 
-                     (a)  disclosed in the specification filed in respect of the first‑mentioned application; and
+                     (a)  disclosed in the specification filed in respect of the first-mentioned application; and
 
-                     (b)  where the first‑mentioned application is for a standard patent and at least 3 months have elapsed since the publication of a notice of acceptance of the relevant patent request and specification in the _Official Journal_—falling within the scope of the claims of the accepted specification.
+                     (b)  where the first-mentioned application is for a standard patent and at least 3 months have elapsed since the publication of a notice of acceptance of the relevant patent request and specification in the _Official Journal_—falling within the scope of the claims of the accepted specification.
 
-          (1A)  The reference to a complete patent application first‑mentioned in subsection (1) does not include a reference to a divisional application for an innovation patent provided for in section 79C.
+          (1A)  The reference to a complete patent application first-mentioned in subsection (1) does not include a reference to a divisional application for an innovation patent provided for in section 79C.
 
              (2)  In this section:
 
@@ -2592,7 +2580,7 @@ the term of the patent of addition expires at the end of the unextended term of 
 
              (4)  The filing date of a PCT application is to be taken to be its international filing date.
 
-             (5)  For the purposes of this Act, an indication, in relation to a deposited micro‑organism furnished under Rule 13 _bis_. 4, in relation to a PCT application, is to be taken to be included in the description contained in the PCT application even if the indication is contained in another document.
+             (5)  For the purposes of this Act, an indication, in relation to a deposited micro-organism furnished under Rule 13 _bis_. 4, in relation to a PCT application, is to be taken to be included in the description contained in the PCT application even if the indication is contained in another document.
 
              (6)  The reference in subsection (5) to Rule 13 _bis_. 4 is a reference to Rule 13 _bis_. 4 of the Regulations mentioned in the definition of **_PCT_** in Schedule 1.
 
@@ -2720,13 +2708,13 @@ the applicant may ask the Commissioner to disregard the earlier application for 
 
                      (b)  neither the applicant nor any other applicant may use the earlier application as a basic application for the purposes of this Part.
 
-# Chapter 9—Re‑examination of standard patents
+# Chapter 9—Re-examination of standard patents
 
 ##### <a id="96A"></a>96A  Chapter does not apply to innovation patents
 
                    This Chapter does not apply in relation to innovation patents.
 
-##### <a id="97"></a>97  Re‑examination of complete specifications
+##### <a id="97"></a>97  Re-examination of complete specifications
 
              (1)  Subject to this section and the regulations, if:
 
@@ -2734,25 +2722,25 @@ the applicant may ask the Commissioner to disregard the earlier application for 
 
                      (b)  the patent has not been granted;
 
-the Commissioner may re‑examine the complete specification.
+the Commissioner may re-examine the complete specification.
 
-             (2)  Subject to this section and the regulations, where a patent has been granted, the Commissioner may, and must if asked to do so by the patentee or any other person, re‑examine the complete specification.
+             (2)  Subject to this section and the regulations, where a patent has been granted, the Commissioner may, and must if asked to do so by the patentee or any other person, re-examine the complete specification.
 
-             (3)  Where the validity of a patent is disputed in any proceedings before a prescribed court under this Act, the court may direct the Commissioner to re‑examine the complete specification and the Commissioner must re‑examine the specification accordingly.
+             (3)  Where the validity of a patent is disputed in any proceedings before a prescribed court under this Act, the court may direct the Commissioner to re-examine the complete specification and the Commissioner must re-examine the specification accordingly.
 
-             (4)  Where relevant proceedings in relation to a patent are pending, the Commissioner must not re‑examine the complete specification relating to the patent under subsection (2).
+             (4)  Where relevant proceedings in relation to a patent are pending, the Commissioner must not re-examine the complete specification relating to the patent under subsection (2).
 
              (5)  Where:
 
-                     (a)  the Commissioner has started to re‑examine a complete specification relating to a patent under subsection (2); and
+                     (a)  the Commissioner has started to re-examine a complete specification relating to a patent under subsection (2); and
 
                      (b)  relevant proceedings in relation to the patent are started;
 
-the Commissioner must not continue the re‑examination.
+the Commissioner must not continue the re-examination.
 
-##### <a id="98"></a>98  Report on re‑examination 
+##### <a id="98"></a>98  Report on re-examination 
 
-             (1)  On re‑examining a complete specification, the Commissioner must ascertain and report whether, to the best of his or her knowledge, the invention, so far as claimed in any claim and when compared with the prior art base as it existed before the priority date of that claim:
+             (1)  On re-examining a complete specification, the Commissioner must ascertain and report whether, to the best of his or her knowledge, the invention, so far as claimed in any claim and when compared with the prior art base as it existed before the priority date of that claim:
 
                      (a)  is not novel; and
 
@@ -2770,11 +2758,11 @@ the Commissioner must not continue the re‑examination.
 
 ##### <a id="100"></a>100  Copies of report to be given to court
 
-                   A copy of a report under section 98, and of any statement filed under section 99 in relation to the report, must, where the re‑examination was directed under subsection 97(3), be given to the court that gave the direction.
+                   A copy of a report under section 98, and of any statement filed under section 99 in relation to the report, must, where the re-examination was directed under subsection 97(3), be given to the court that gave the direction.
 
-##### <a id="100A"></a>100A  Refusal to grant patent—re‑examination before grant
+##### <a id="100A"></a>100A  Refusal to grant patent—re-examination before grant
 
-             (1)  Where the Commissioner makes an adverse report on a re‑examination under subsection 97(1), the Commissioner may refuse to grant the patent (see subsection 61(1)).
+             (1)  Where the Commissioner makes an adverse report on a re-examination under subsection 97(1), the Commissioner may refuse to grant the patent (see subsection 61(1)).
 
              (2)  The Commissioner cannot refuse to grant a patent under this section unless the Commissioner:
 
@@ -2784,9 +2772,9 @@ the Commissioner must not continue the re‑examination.
 
              (3)  The applicant may appeal to the Federal Court against a decision of the Commissioner under this section.
 
-##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
+##### <a id="101"></a>101  Revocation of patent—re-examination after grant
 
-             (1)  Where the Commissioner makes an adverse report on a re‑examination under subsection 97(2), the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
+             (1)  Where the Commissioner makes an adverse report on a re-examination under subsection 97(2), the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
 
              (2)  The Commissioner must not revoke a patent under this section unless the Commissioner:
 
@@ -2798,7 +2786,7 @@ the Commissioner must not continue the re‑examination.
 
              (4)  The patentee may appeal to the Federal Court against a decision of the Commissioner under this section.
 
-# Chapter 9A—Examination, re‑examination and opposition‑innovation patents
+# Chapter 9A—Examination, re-examination and opposition-innovation patents
 
 ## Part 1—Examination of innovation patents
 
@@ -2932,9 +2920,9 @@ the Commissioner must revoke the patent.
 
              (4)  An appeal lies to the Federal Court against a decision of the Commissioner revoking a patent.
 
-## Part 2—Re‑examination of innovation patents
+## Part 2—Re-examination of innovation patents
 
-##### <a id="101G"></a>101G  Re‑examination of complete specifications of innovation patents
+##### <a id="101G"></a>101G  Re-examination of complete specifications of innovation patents
 
              (1)  Subject to subsections 101K(2) and (3) and the regulations, after an innovation patent has been certified, the Commissioner:
 
@@ -2942,11 +2930,11 @@ the Commissioner must revoke the patent.
 
                      (b)  must, if asked to do so, in writing, by the patentee or any other person;
 
-re‑examine the complete specification relating to the patent.
+re-examine the complete specification relating to the patent.
 
-             (2)  If the Commissioner re‑examines an innovation patent under subsection (1):
+             (2)  If the Commissioner re-examines an innovation patent under subsection (1):
 
-                     (a)  the Commissioner must re‑examine the complete specification relating to the patent to determine if the patent is invalid and  should be revoked because a ground set out in subsection (3) is made out; and
+                     (a)  the Commissioner must re-examine the complete specification relating to the patent to determine if the patent is invalid and  should be revoked because a ground set out in subsection (3) is made out; and
 
                      (b)  the Commissioner must report on the grounds set out in subsection (3).
 
@@ -2962,13 +2950,13 @@ re‑examine the complete specification relating to the patent.
 
 ##### <a id="101H"></a>101H  Patentee statements
 
-             (1)  If the Commissioner reports that, after re‑examining a patent under section 101G, a ground for the revocation of the patent has been made out, the patentee may, within the prescribed period, file a statement, in accordance with the regulations, disputing the whole or any part of the report.
+             (1)  If the Commissioner reports that, after re-examining a patent under section 101G, a ground for the revocation of the patent has been made out, the patentee may, within the prescribed period, file a statement, in accordance with the regulations, disputing the whole or any part of the report.
 
              (2)  The patentee may file a statement whether or not the patentee takes steps to amend the complete specification, or files a statement of amendments in accordance with a direction under section 106.
 
-##### <a id="101J"></a>101J  Revocation of innovation patent following re‑examination
+##### <a id="101J"></a>101J  Revocation of innovation patent following re-examination
 
-             (1)  If the Commissioner makes an adverse report on a re‑examination under section 101G, the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
+             (1)  If the Commissioner makes an adverse report on a re-examination under section 101G, the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
 
              (2)  If the Commissioner revokes the patent:
 
@@ -2988,23 +2976,23 @@ re‑examine the complete specification relating to the patent.
 
              (5)  The patentee may appeal to the Federal Court against a decision of the Commissioner under this section.
 
-##### <a id="101K"></a>101K  Relevant proceedings and re‑examination
+##### <a id="101K"></a>101K  Relevant proceedings and re-examination
 
-             (1)  If the validity of an innovation patent is disputed in any proceedings before a prescribed court under this Act, the court may direct the Commissioner to re‑examine the complete specification relating to the patent. If so directed, the Commissioner must re‑examine the specification accordingly.
+             (1)  If the validity of an innovation patent is disputed in any proceedings before a prescribed court under this Act, the court may direct the Commissioner to re-examine the complete specification relating to the patent. If so directed, the Commissioner must re-examine the specification accordingly.
 
-             (2)  If relevant proceedings in relation to an innovation patent are pending, the Commissioner must not re‑examine the complete specification relating to the patent.
+             (2)  If relevant proceedings in relation to an innovation patent are pending, the Commissioner must not re-examine the complete specification relating to the patent.
 
              (3)  If:
 
-                     (a)  the Commissioner has started to re‑examine a complete specification relating to an innovation patent; and
+                     (a)  the Commissioner has started to re-examine a complete specification relating to an innovation patent; and
 
                      (b)  relevant proceedings in relation to the patent are started;
 
-the Commissioner must not continue the re‑examination.
+the Commissioner must not continue the re-examination.
 
 ##### <a id="101L"></a>101L  Copies of report to be given to court
 
-                   A copy of a report under paragraph 101G(2)(b), and of any statement filed under section 101H in relation to the report, must, if the re‑examination was directed under subsection 101K(1), be given to the court that gave the direction.
+                   A copy of a report under paragraph 101G(2)(b), and of any statement filed under section 101H in relation to the report, must, if the re-examination was directed under subsection 101K(1), be given to the court that gave the direction.
 
 ## Part 3—Opposition to innovation patents
 
@@ -3104,7 +3092,7 @@ Amendments not allowable if information not provided
 
              (1)  An applicant for a patent or a patentee, may, subject to this Act, and subject to and in accordance with the regulations, ask the Commissioner for leave to amend the relevant patent request or complete specification, or any other filed document, for any purpose including either or both of the following:
 
-                     (a)  removing a lawful ground of objection to the request or specification, whether that objection is raised in the course of an examination or re‑examination or otherwise;
+                     (a)  removing a lawful ground of objection to the request or specification, whether that objection is raised in the course of an examination or re-examination or otherwise;
 
                      (b)  correcting a clerical error or an obvious mistake.
 
@@ -3140,9 +3128,9 @@ Amendments not allowable if information not provided
 
                      (b)  the Commissioner is satisfied that the patent is invalid on grounds that could be removed by appropriate amendments of the specification following:
 
-                              (i)  in the case of a standard patent—re‑examination of the patent; or
+                              (i)  in the case of a standard patent—re-examination of the patent; or
 
-                             (ii)  in the case of an innovation patent—examination of, re‑examination of, or opposition to, the patent;
+                             (ii)  in the case of an innovation patent—examination of, re-examination of, or opposition to, the patent;
 
 the Commissioner may, in accordance with the regulations, direct the patentee to file, within such time as the Commissioner allows, a statement of proposed amendments of the specification for the purpose of removing those grounds.
 
@@ -3354,7 +3342,7 @@ Note:          Part 3 of Chapter 6 provides for the extens
 
                              (ii)  a product that is a raw material needed to produce the substance;
 
-                            (iii)  a product that is a pro‑drug, metabolite or derivative of the substance.
+                            (iii)  a product that is a pro-drug, metabolite or derivative of the substance.
 
 ##### <a id="120"></a>120  Infringement proceedings
 
@@ -3374,11 +3362,11 @@ Note:          Part 3 of Chapter 6 provides for the extens
 
 whichever period ends later.
 
-##### <a id="121"></a>121  Counter‑claim for revocation of patent
+##### <a id="121"></a>121  Counter-claim for revocation of patent
 
-             (1)  A defendant in infringement proceedings may apply by way of counter‑claim in the proceedings for the revocation of the patent.
+             (1)  A defendant in infringement proceedings may apply by way of counter-claim in the proceedings for the revocation of the patent.
 
-             (2)  The provisions of this Act relating to proceedings for the revocation of a patent apply, with the necessary changes, to a counter‑claim.
+             (2)  The provisions of this Act relating to proceedings for the revocation of a patent apply, with the necessary changes, to a counter-claim.
 
 ##### <a id="121A"></a>121A  Burden of proof—infringement of patent for a process
 
@@ -3428,7 +3416,7 @@ whichever period ends later.
 
              (3)  Nothing in this section affects a court’s power to grant relief by way of an injunction.
 
-## Part 2—Non‑infringement declarations
+## Part 2—Non-infringement declarations
 
 ##### <a id="124"></a>124  Interpretation
 
@@ -3436,7 +3424,7 @@ whichever period ends later.
 
                     <a name="patente"></a>**_patentee_** includes an exclusive licensee.
 
-##### <a id="125"></a>125  Application for non‑infringement declaration
+##### <a id="125"></a>125  Application for non-infringement declaration
 
              (1)  A person who wishes to exploit an invention may apply to a prescribed court for a declaration that the exploitation of the invention would not infringe a claim of a particular complete specification.
 
@@ -3448,9 +3436,9 @@ whichever period ends later.
 
              (3)  The nominated person or patentee must be joined as a respondent in the proceedings.
 
-##### <a id="126"></a>126  Proceedings for non‑infringement declarations
+##### <a id="126"></a>126  Proceedings for non-infringement declarations
 
-             (1)  A prescribed court must not make a non‑infringement declaration unless a patent has been granted in respect of the relevant invention and:
+             (1)  A prescribed court must not make a non-infringement declaration unless a patent has been granted in respect of the relevant invention and:
 
                      (a)  the applicant for the declaration:
 
@@ -3464,15 +3452,15 @@ whichever period ends later.
 
                      (c)  if the patent is an innovation patent—the patent has been certified.
 
-             (2)  The validity of a claim cannot be questioned in proceedings for a non‑infringement declaration.
+             (2)  The validity of a claim cannot be questioned in proceedings for a non-infringement declaration.
 
-             (3)  The costs of all parties in proceedings for a non‑infringement declaration must be paid by the applicant for the declaration unless the court otherwise orders.
+             (3)  The costs of all parties in proceedings for a non-infringement declaration must be paid by the applicant for the declaration unless the court otherwise orders.
 
-##### <a id="127"></a>127  Effect of non‑infringement declarations
+##### <a id="127"></a>127  Effect of non-infringement declarations
 
                    If:
 
-                     (a)  a nominated person or patentee has given a person a written admission that the exploitation of an invention would not infringe a claim, or a prescribed court has made a non‑infringement declaration in respect of an invention; and
+                     (a)  a nominated person or patentee has given a person a written admission that the exploitation of an invention would not infringe a claim, or a prescribed court has made a non-infringement declaration in respect of an invention; and
 
                      (b)  the patentee later gets an injunction restraining the person from exploiting the invention as specified in the admission, or the declaration is revoked;
 
@@ -3528,13 +3516,13 @@ Courts power to grant relief in respect of threats made by the patentee of a cer
 
              (3)  If an application under section 128 for relief relates to threats made in respect of a certified innovation patent, the court may grant the applicant the relief applied for unless the respondent satisfies the court that the acts about which the threats were made infringed, or would infringe, a claim that is not shown by the applicant to be invalid.
 
-##### <a id="130"></a>130  Counter‑claim for infringement
+##### <a id="130"></a>130  Counter-claim for infringement
 
-             (1)  The respondent in proceedings under section 128 may apply, by way of counter‑claim, for relief to which the respondent would be entitled in separate proceedings for an infringement by the applicant of the patent to which the threats relate.
+             (1)  The respondent in proceedings under section 128 may apply, by way of counter-claim, for relief to which the respondent would be entitled in separate proceedings for an infringement by the applicant of the patent to which the threats relate.
 
-             (2)  Where the respondent applies by way of counter‑claim, the applicant may, without making a separate application under Chapter 12, apply in the proceedings for the revocation of the patent.
+             (2)  Where the respondent applies by way of counter-claim, the applicant may, without making a separate application under Chapter 12, apply in the proceedings for the revocation of the patent.
 
-             (3)  The provisions of this Act relating to infringement proceedings apply, with the necessary changes, to a counter‑claim.
+             (3)  The provisions of this Act relating to infringement proceedings apply, with the necessary changes, to a counter-claim.
 
 Note:          Infringement proceedings cannot be commenced in respect of an innovation patent unless the patent has first been certified (see subsection 120(1A)).
 
@@ -3586,7 +3574,7 @@ and may direct that the licence is to be granted on any other terms specified in
 
                               (i)  must grant to the applicant a licence to work the other invention insofar as is necessary to work the patented invention; and
 
-                             (ii)  is to be granted, if he or she so requires, a cross‑licence on reasonable terms to work the patented invention; and
+                             (ii)  is to be granted, if he or she so requires, a cross-licence on reasonable terms to work the patented invention; and
 
                      (c)  the court must direct that the licence granted by the patentee of the other invention may be assigned by the applicant:
 
@@ -3706,7 +3694,7 @@ Note:          Those proceedings are in the Federal Court, whi
 
              (2)  A patent application is to be treated as having been withdrawn if, and only if, the applicant lodges a written notice of withdrawal signed by the applicant.
 
-##### <a id="142"></a>142  Lapsing of applications <span style="font-size:9.0pt;font-weight:normal">[_see also_ Table B]</span>
+##### <a id="142"></a>142  Lapsing of applications <span style="font-size:9.0pt; font-weight:normal">[_see also_ Table B]</span>
 
              (1)  A provisional application for a patent lapses at the end of the period prescribed for the purpose of section 38 or, if that period is extended, at the end of the period as so extended.
 
@@ -3892,7 +3880,7 @@ then, except as otherwise prescribed:
 
              (2)  On receiving a notice, the Commissioner must take such steps as are necessary or expedient to give effect to it.
 
-             (3)  Without limiting the generality of subsection (2), the Commissioner may, by written order, prohibit or restrict the publication or communication of information about the subject‑matter of the application, whether generally or in relation to a particular person or class of persons.
+             (3)  Without limiting the generality of subsection (2), the Commissioner may, by written order, prohibit or restrict the publication or communication of information about the subject-matter of the application, whether generally or in relation to a particular person or class of persons.
 
              (4)  A person must not, except in accordance with the written consent of the Commissioner, publish or communicate information in contravention of an order.
 
@@ -3966,7 +3954,7 @@ then, except as otherwise prescribed:
 
                      (a)  admit further evidence orally, or on affidavit or otherwise;
 
-                     (b)  permit the examination and cross‑examination of witnesses, including witnesses who gave evidence before the Commissioner;
+                     (b)  permit the examination and cross-examination of witnesses, including witnesses who gave evidence before the Commissioner;
 
                      (c)  order an issue of fact to be tried as it directs;
 
@@ -4038,7 +4026,7 @@ In making the order, the court is to ensure that the legitimate interests of the
 
                      (a)  if the relevant authority is the Commonwealth—by the Minister; or
 
-                     (b)  if the relevant authority is a State—by the Attorney‑General of the State.
+                     (b)  if the relevant authority is a State—by the Attorney-General of the State.
 
 ##### <a id="167"></a>167  Sale of products
 
@@ -4070,9 +4058,9 @@ the buyer, and any person claiming through the buyer, is entitled to deal with t
 
                      (a)  the alleged relevant authority is the defendant; and
 
-                     (b)  the alleged relevant authority may apply by way of counter‑claim in the proceedings, for the revocation of the patent.
+                     (b)  the alleged relevant authority may apply by way of counter-claim in the proceedings, for the revocation of the patent.
 
-             (3)  The provisions of this Act relating to the revocation of patents apply, with the necessary changes, to a counter‑claim.
+             (3)  The provisions of this Act relating to the revocation of patents apply, with the necessary changes, to a counter-claim.
 
              (4)  An application under subsection (1) in respect of an innovation patent cannot be made unless the patent has been certified.
 
@@ -4084,7 +4072,7 @@ the buyer, and any person claiming through the buyer, is entitled to deal with t
 
 ##### <a id="171"></a>171  Acquisition of inventions or patents by Commonwealth
 
-             (1)  The Governor‑General may direct that a patent, or an invention that is the subject of a patent application, be acquired by the Commonwealth.
+             (1)  The Governor-General may direct that a patent, or an invention that is the subject of a patent application, be acquired by the Commonwealth.
 
              (2)  When a direction is given, all rights in respect of the patent or the invention are, by force of this subsection, transferred to and vested in the Commonwealth.
 
@@ -4108,15 +4096,15 @@ the buyer, and any person claiming through the buyer, is entitled to deal with t
 
              (1)  Subject to any directions of the Minister, the Commissioner may, if it appears to the Commissioner to be necessary or expedient to do so in the interests of the defence of the Commonwealth, by written order:
 
-                     (a)  prohibit or restrict the publication of information about the subject‑matter of an application for a patent (including an international application); or
+                     (a)  prohibit or restrict the publication of information about the subject-matter of an application for a patent (including an international application); or
 
-                     (b)  prohibit or restrict access to a micro‑organism deposited for the purposes of section 41 with a prescribed depositary institution situated in Australia.
+                     (b)  prohibit or restrict access to a micro-organism deposited for the purposes of section 41 with a prescribed depositary institution situated in Australia.
 
              (2)  A person must not contravene a prohibition order except in accordance with the written consent of the Commissioner.
 
                     Penalty: Imprisonment for 2 years.
 
-             (3)  A reference in subsection (1) to giving access to a micro‑organism includes a reference to giving a sample of the micro‑organism.
+             (3)  A reference in subsection (1) to giving access to a micro-organism includes a reference to giving a sample of the micro-organism.
 
 ##### <a id="174"></a>174  Effect of prohibition orders
 
@@ -4128,7 +4116,7 @@ the buyer, and any person claiming through the buyer, is entitled to deal with t
 
 ##### <a id="175"></a>175  Disclosure of information to Commonwealth authority
 
-                   Nothing in this Act prevents disclosing information about an invention, or giving access to, or a sample of, a micro‑organism to a department or authority of the Commonwealth for the purpose of obtaining advice on whether a prohibition order should be made, amended or revoked.
+                   Nothing in this Act prevents disclosing information about an invention, or giving access to, or a sample of, a micro-organism to a department or authority of the Commonwealth for the purpose of obtaining advice on whether a prohibition order should be made, amended or revoked.
 
 ##### <a id="176"></a>176  International applications treated as applications under this Act
 
@@ -4254,7 +4242,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    The Commissioner, each Deputy Commissioner and each employee must not disclose information about a matter that has been or is being dealt with under this Act or the 1952 Act unless required or authorised to do so by this Act, a written direction of the Commissioner or an order of a court.
 
-##### <a id="184"></a>184  Other unauthorised disclosures of information
+##### <a id="184"></a>184  Other unauthorised disclosures of information
 
                    A person to whom section 71 of the Safeguards Act applies must not disclose information about a matter that has been or is being dealt with under this Act or the 1952 Act unless required or authorised to do so by the Safeguards Act, this Act, a written direction of the Director or an order of a court.
 
@@ -4584,11 +4572,11 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 # Chapter 21—Administration
 
-##### <a id="205"></a>205  Patent Office and sub‑offices
+##### <a id="205"></a>205  Patent Office and sub-offices
 
              (1)  For the purposes of this Act, there is to be an office called the Patent Office.
 
-             (2)  There is to be a sub‑office of the Patent Office in each State.
+             (2)  There is to be a sub-office of the Patent Office in each State.
 
 ##### <a id="206"></a>206  Patent Office seal
 
@@ -4638,7 +4626,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="212"></a>212  Copies of examination reports to be communicated
 
-                   A copy of each report relating to an examination or a re‑examination under this Act must, subject to Chapters 15 and 17, be given to the applicant or patentee, as the case requires.
+                   A copy of each report relating to an examination or a re-examination under this Act must, subject to Chapters 15 and 17, be given to the applicant or patentee, as the case requires.
 
 ##### <a id="213"></a>213  Making and signing applications etc.  
 
@@ -4646,7 +4634,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="214"></a>214  Filing of documents
 
-                   A document may be filed with the Patent Office by delivering the document to a sub‑office of the Patent Office either personally or by post or by any other prescribed means.
+                   A document may be filed with the Patent Office by delivering the document to a sub-office of the Patent Office either personally or by post or by any other prescribed means.
 
 ##### <a id="215"></a>215  Death of applicant or nominated person
 
@@ -4700,13 +4688,13 @@ the Commissioner or the Federal Court, as the case may be, may require the perso
 
 ##### <a id="222A"></a>222A  Doing act when Patent Office reopens after end of period otherwise provided for doing act
 
-             (1)  If the last day of a period provided by this Act (except this section) for doing an act is a day when the Patent Office, or a sub‑office of the Patent Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub‑office is open for business.
+             (1)  If the last day of a period provided by this Act (except this section) for doing an act is a day when the Patent Office, or a sub-office of the Patent Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub-office is open for business.
 
-             (2)  For the purposes of this section, the Patent Office, or a sub‑office of the Patent Office, is taken not to be open for business on a day:
+             (2)  For the purposes of this section, the Patent Office, or a sub-office of the Patent Office, is taken not to be open for business on a day:
 
-                     (a)  declared by regulations to be a day on which the office or sub‑office is not open for business; or
+                     (a)  declared by regulations to be a day on which the office or sub-office is not open for business; or
 
-                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub‑office is not open for business.
+                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub-office is not open for business.
 
 Declarations
 
@@ -4936,7 +4924,7 @@ Note:          Some provisions of this Act provide expressly o
 
 ##### <a id="228"></a>228  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act:
 
                      (a)  prescribing matters required or permitted by this Act to be prescribed; and
 
@@ -4950,15 +4938,15 @@ Note:          Some provisions of this Act provide expressly o
 
              (2)  Without limiting subsection (1), that subsection includes the power to make regulations:
 
-                     (a)  making provision for and in relation to the procedures for the examination of a patent request and complete specification and the re‑examination of a complete specification; and
+                     (a)  making provision for and in relation to the procedures for the examination of a patent request and complete specification and the re-examination of a complete specification; and
 
-                     (b)  making provision for and in relation to the reports to be made in relation to an examination and a re‑examination; and
+                     (b)  making provision for and in relation to the reports to be made in relation to an examination and a re-examination; and
 
                      (c)  making provision for and in relation to the amendment of patent requests, provisional and complete specifications, and other filed documents:
 
                               (i)  to correct a clerical error or obvious mistake; or
 
-                             (ii)  to remove a lawful ground of objection, whether the objection is raised in the course of examination or re‑examination or otherwise; or
+                             (ii)  to remove a lawful ground of objection, whether the objection is raised in the course of examination or re-examination or otherwise; or
 
                             (iii)  for any other purpose; and
 
@@ -4970,7 +4958,7 @@ Note:          Some provisions of this Act provide expressly o
 
                      (h)  making provision for and in relation to opposition proceedings; and
 
-                   (ha)  setting out the formalities checking process for innovation patents including, in particular, the following matters:
+                    (ha)  setting out the formalities checking process for innovation patents including, in particular, the following matters:
 
                               (i)  specifying the formalities requirements (including compliance with the requirements of subsections 18(2) and (3)) that must be met in respect of an application for an innovation patent; and
 
@@ -5012,7 +5000,7 @@ Note:          Some provisions of this Act provide expressly o
 
                       (s)  making provision for and in relation to:
 
-                              (i)  the deposit for the purposes of this Act, the Budapest Treaty, or both, of micro‑organisms with prescribed depositary institutions and the storage and testing of, and furnishing of samples of, micro‑organisms by those institutions; and
+                              (i)  the deposit for the purposes of this Act, the Budapest Treaty, or both, of micro-organisms with prescribed depositary institutions and the storage and testing of, and furnishing of samples of, micro-organisms by those institutions; and
 
                              (ii)  the charging of fees by prescribed depositary institutions situated in Australia in relation to the matters described in subparagraph (i); and
 
@@ -5028,7 +5016,7 @@ Note:          Some provisions of this Act provide expressly o
 
                      (y)  making provision for and in relation to the remission of, or the exemption of specified classes of persons from the payment of, the whole or part of a fee; and
 
-                     (z)  prescribing penalties for offences against the regulations not exceeding a fine of $1,000; and
+                      (z)  prescribing penalties for offences against the regulations not exceeding a fine of $1,000; and
 
                     (za)  making such transitional and savings provisions as are necessary or convenient as a result of the repeal of the 1952 Act and the enactment of this Act.
 
@@ -5036,9 +5024,9 @@ Note:          Some provisions of this Act provide expressly o
 
              (4)  Regulations made under paragraph (2)(s) and subsection (3) may make different provision with respect to different matters dealt with by or under those regulations, but this subsection shall not be taken to limit a power to make regulations conferred by any other provision of this Act.
 
-             (5)  The Governor‑General is to make regulations setting out the English texts of the Budapest Treaty and the PCT as in force for Australia on the commencing day, and afterwards such regulations as are necessary to keep those English texts in an up‑to‑date form.
+             (5)  The Governor-General is to make regulations setting out the English texts of the Budapest Treaty and the PCT as in force for Australia on the commencing day, and afterwards such regulations as are necessary to keep those English texts in an up-to-date form.
 
-             (6)  The Governor‑General may make regulations setting out the English text of a treaty relating to the protection of inventions to which Australia is a party (other than the Budapest Treaty or the PCT), being the English text of the treaty as in force for Australia when the regulations are made, and afterwards such regulations as are necessary to keep that English text in an up‑to‑date form.
+             (6)  The Governor-General may make regulations setting out the English text of a treaty relating to the protection of inventions to which Australia is a party (other than the Budapest Treaty or the PCT), being the English text of the treaty as in force for Australia when the regulations are made, and afterwards such regulations as are necessary to keep that English text in an up-to-date form.
 
              (7)  Despite the repeal of the 1952 Act by this Act, regulations made under paragraph (2)(za) may provide for the continued operation of specified provisions of the 1952 Act in relation to prescribed persons or matters, or in prescribed circumstances.
 
@@ -5116,7 +5104,7 @@ and such a patent is not invalid, so far as the invention is claimed in any clai
 
              (2)  Subsection (1) does not apply in relation to an application covered by section 234 of this Act.
 
-##### <a id="236"></a>236  Micro‑organisms
+##### <a id="236"></a>236  Micro-organisms
 
                    Sections 41 and 42 of this Act do not apply in relation to a specification lodged before 7 July 1987.
 
@@ -5124,7 +5112,7 @@ and such a patent is not invalid, so far as the invention is claimed in any clai
 
                    Any report, order or direction made or given under the 1952 Act and in force immediately before the commencing day continues to have effect on and after that day as if it had been made or given under a corresponding provision of this Act.
 
-##### <a id="238"></a>238  The Commissioner and Deputy Commissioner
+##### <a id="238"></a>238  The Commissioner and Deputy Commissioner
 
                    The persons holding office as Commissioner of Patents and Deputy Commissioner of Patents immediately before the commencing day continue to hold those respective offices on and after that day.
 
@@ -5204,7 +5192,7 @@ _Section 3_
 
                     <a name="deposit-requir"></a>**_deposit requirements_** means the requirements specified in paragraphs 6(a) to (d), inclusive.
 
-                    <a name="depositari-institut"></a>**_depositary institution_** means a body or institution that receives, accepts and stores micro‑organisms and furnishes samples of micro‑organisms.
+                    <a name="depositari-institut"></a>**_depositary institution_** means a body or institution that receives, accepts and stores micro-organisms and furnishes samples of micro-organisms.
 
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of Patents.
 
@@ -5280,7 +5268,7 @@ _\[See also section 10]_
 
                     <a name="nomin-person"></a>**_nominated person_** means the person identified in a patent request as the person to whom the patent is to be granted.
 
-                    <a name="non-infring-declar"></a>**_non‑infringement declaration_** means a declaration mentioned in subsection 125(1).
+                    <a name="non-infring-declar"></a>**_non-infringement declaration_** means a declaration mentioned in subsection 125(1).
 
                     <a name="offici-journal"></a>**_Official Journal_** means the official journal mentioned in section 222.
 
@@ -5324,7 +5312,7 @@ _\[See also section 10]_
 
                     <a name="pharmaceut-substanc"></a>**_pharmaceutical substance_** means a substance (including a mixture or compound of substances) for therapeutic use whose application (or one of whose applications) involves: 
 
-                     (a)  a chemical interaction, or physico‑chemical interaction, with a human physiological system; or 
+                     (a)  a chemical interaction, or physico-chemical interaction, with a human physiological system; or 
 
                      (b)  action on an infectious agent, or on a toxin or other poison, in a human body;
 
@@ -5376,11 +5364,11 @@ _\[Note: For the meaning of document see section 25 of the Acts Interpretation
 
                     <a name="receiv-offic"></a>**_receiving Office_** has the same meaning as in the PCT.
 
-                    <a name="re-examin"></a>**_re‑examination_** means:
+                    <a name="re-examin"></a>**_re-examination_** means:
 
-                     (a)  in relation to a complete specification relating to an application for a standard patent—the re‑examination of the complete specification under Chapter 9; and
+                     (a)  in relation to a complete specification relating to an application for a standard patent—the re-examination of the complete specification under Chapter 9; and
 
-                     (b)  in relation to an innovation patent—the re‑examination of the innovation patent under Part 2 of Chapter 9A.
+                     (b)  in relation to an innovation patent—the re-examination of the innovation patent under Part 2 of Chapter 9A.
 
                     <a name="regist"></a>**_Register_** means the Register of Patents mentioned in section 186.
 
@@ -5404,9 +5392,9 @@ _\[Note: For the meaning of document see section 25 of the Acts Interpretation
 
                      (c)  in which the validity of the patent, or of a claim, is in dispute.
 
-                    <a name="rule-relat-micro-organ"></a>**_rules relating to micro‑organisms_** means such provisions of the Budapest Treaty, and such provisions made by or under regulations made under section 228, as are applicable.
+                    <a name="rule-relat-micro-organ"></a>**_rules relating to micro-organisms_** means such provisions of the Budapest Treaty, and such provisions made by or under regulations made under section 228, as are applicable.
 
-                    <a name="safeguard-act"></a>**_Safeguards Act_** means the _Nuclear Non‑Proliferation (Safeguards) Act 1987_.
+                    <a name="safeguard-act"></a>**_Safeguards Act_** means the _Nuclear Non-Proliferation (Safeguards) Act 1987_.
 
                     <a name="seal"></a>**_sealed_** means sealed with the seal of the Patent Office.
 
@@ -5414,15 +5402,15 @@ _\[Note: For the meaning of document see section 25 of the Acts Interpretation
 
                     <a name="standard-patent"></a>**_standard patent_** means letters patent for an invention granted under section 61.
 
-                    <a name="state"></a>**_State_**, in Chapter 17, includes the Australian Capital Territory, the Northern Territory and Norfolk Island.
+                    <a name="state"></a>**_State_**, in Chapter 17, includes the Australian   Capital Territory, the Northern Territory and Norfolk Island.
 
                     <a name="statut-monopoli"></a>**_Statute of Monopolies_** means the Imperial Act known as The Statute of Monopolies.
 
                     <a name="suppli"></a>**_supply_** includes:
 
-                     (a)  supply by way of sale, exchange, lease, hire or hire‑purchase; and
+                     (a)  supply by way of sale, exchange, lease, hire or hire-purchase; and
 
-                     (b)  offer to supply (including supply by way of sale, exchange, lease, hire or hire‑purchase).
+                     (b)  offer to supply (including supply by way of sale, exchange, lease, hire or hire-purchase).
 
                     <a name="territori"></a>**_Territory_** means a Territory in which this Act applies or to which this Act extends.
 
@@ -5450,59 +5438,33 @@ _\[Note: For the meaning of document see section 25 of the Acts Interpretation
 
 _Section 229_
 
-<h9 class="ActHead9" style="margin-top:11.0pt">Companies Act 1981</h9>
+* * *
 
-## Paragraph 204(5)(d)
+**Note:**
 
-Omit “1952”, substitute “_1990_”.
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-<h9 class="ActHead9">Designs Act 1906</h9>
+Companies Act 1981
+ <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 55, 2001, Sch. 1]</span>
 
-## Subsection 4(1) (definition of _Official Journal_)
+Designs Act 1906 
+ <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 147, 2003, s. 150]</span>
 
-Omit the definition, substitute the following definition:
+Industry, Technology and Commerce Legislation Amendment Act (No. 2) 1989 (No. 10, 1990)
 
-                    <a name="offici-journal"></a>**_Official Journal_** has the same meaning as in the _Patents Act 1990_.
+Jurisdiction of Courts (Cross-vesting) Act 1987 
 
-<h9 class="ActHead9">Industry, Technology and Commerce Legislation Amendment Act (No. 2) 1989</h9>
+Nuclear Non-Proliferation (Safeguards) Act 1987 
 
-## Subsection 2(3)
+Sales Tax Assessment Act (No. 1) 1930
+ <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 101, 2006, Sch. 5]</span>
 
-Omit “_Patents Act 1989_”, substitute “_Patents Act 1990_”.
+Trade Marks Act 1955
+ <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 156, 1994, s. 241]</span>
 
-<h9 class="ActHead9">Jurisdiction of Courts (Cross-vesting) Act 1987</h9>
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 83, 1990.
 
-## Schedule
-
-Omit “_Patents Act 1952_”, substitute “_Patents Act 1990_”.
-
-<h9 class="ActHead9">Nuclear Non-Proliferation (Safeguards) Act 1987</h9>
-
-## Paragraph 23(6)(a)
-
-Omit “_1952_”, substitute “_1990_”.
-
-## Paragraph 26(4)(a)
-
-Omit “_1952_”, substitute “_1990_”.
-
-<h9 class="ActHead9" style="page-break-after:avoid">Sales Tax Assessment Act (No. 1) 1930</h9>
-
-## Paragraph 3A(7)(b)
-
-Omit “_1952_”, substitute “_1990_”.
-
-<h9 class="ActHead9">Trade Marks Act 1955</h9>
-
-## Subsection 6(1) (definition of _the Official Journal_)
-
-Omit the definition, substitute the following definition:
-
-                    <a name="offici-journal"></a>**_Official Journal_** has the same meaning as in the _Patents Act 1990_.
-
-## Section 138
-
-Repeal the section.
+* * *
 
 # Notes to the _Patents Act 1990_
 
@@ -5936,30 +5898,13 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 82): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(4) of the _Industry, Technology and Commerce Legislation Amendment Act 1991_ provides as follows:
 
                  (4)   The amendments of the _Patents Act 1990_ are taken to commence, or to have commenced, immediately after the commencement of the _Patents Act 1990_.
 
-_(b)_     The _Patents Act 1990_ was amended by Schedule 1 (items 728–730) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Patents Act 1990_ was amended by Schedule 1 (items 728–730) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -8028,7 +7973,7 @@ Note 1:       The _Personal Property Securities Act 2009_ applies to
 
 Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
 
-As at 6 August 2010 the amendments are not incorporated in this compilation.
+As at 8 July 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8056,26 +8001,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 14 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 6 August 2010 the amendment is not incorporated in this compilation.
-
-### Note 4
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Patents Act 1990</h9>
-
-## 82  Paragraphs 133(2)(b) and (5)(b) and 134(2)(b)
-
-As at 6 August 2010 the amendment is not incorporated in this compilation.
+As at 8 July 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8101,9 +8027,9 @@ After the commencement of this item, the Register of Patent Attorneys kept under
 
 ## 32  Transitional—registered patent attorneys
 
-(1)       This item applies to a person who was, immediately before the commencement of this item, a registered patent attorney within the meaning of the _Patents Act 1990_.
+(1)        This item applies to a person who was, immediately before the commencement of this item, a registered patent attorney within the meaning of the _Patents Act 1990_.
 
-(2)       The _Patents Act 1990_ has effect, after the commencement of this item, in relation to the person, as if the person had been registered as a patent attorney under section 198 of the _Patents Act 1990_ as amended by this Schedule.
+(2)        The _Patents Act 1990_ has effect, after the commencement of this item, in relation to the person, as if the person had been registered as a patent attorney under section 198 of the _Patents Act 1990_ as amended by this Schedule.
 
 ## Schedule 3
 
@@ -8131,7 +8057,7 @@ In this Schedule:
 
 ## 2  Saving and application provisions relating to old law
 
-(1)       Despite the amendments and repeals made by this Act, the old law continues to apply, with the exceptions set out in the following subitems, to:
+(1)        Despite the amendments and repeals made by this Act, the old law continues to apply, with the exceptions set out in the following subitems, to:
 
                      (a)  petty patents in force immediately before the commencement day; and
 
@@ -8145,27 +8071,27 @@ The old law continues to apply as if those amendments and repeals had not been m
 
 Exception—fees payable in respect of petty patents after the commencement day
 
-(2)       The amendments made by items 89 and 90 of Schedule 1 are incorporated into the old law in relation to fees payable in respect of petty patents on or after the commencement day.
+(2)        The amendments made by items 89 and 90 of Schedule 1 are incorporated into the old law in relation to fees payable in respect of petty patents on or after the commencement day.
 
 Exception—under subsection 33(2) of the old law only innovation patents may be granted
 
-(3)       Despite subsection 33(2) of the old law providing that the Commissioner may grant a person who applies for a petty patent if the matters listed in paragraphs 33(2)(a), (b) and (c) are satisfied, the Commissioner, on or after the commencement day, may only grant the person an innovation patent.
+(3)        Despite subsection 33(2) of the old law providing that the Commissioner may grant a person who applies for a petty patent if the matters listed in paragraphs 33(2)(a), (b) and (c) are satisfied, the Commissioner, on or after the commencement day, may only grant the person an innovation patent.
 
 Exception—under sections 34, 35 and 36 of the old law only innovation patents or standard patents may be granted
 
-(4)       Despite section 34, 35 and 36 of the old law providing that the Commissioner may grant a person a patent, the Commissioner, on or after the commencement day, may only grant a person an innovation patent or a standard patent.
+(4)        Despite section 34, 35 and 36 of the old law providing that the Commissioner may grant a person a patent, the Commissioner, on or after the commencement day, may only grant a person an innovation patent or a standard patent.
 
 _Note:       Under the old law, patent means a standard patent or a petty patent. This subitem overrides that meaning for grants of patent that the Commissioner makes on or after the commencement day._
 
 Exception—divisional applications made after commencement day
 
-(5)       Despite subsection 39(1) of the old law providing that a further complete application may be made for a standard patent or a petty patent, on or after the commencement day a further complete application may only be made, as provided for in that subsection, for a standard patent or an innovation patent.
+(5)        Despite subsection 39(1) of the old law providing that a further complete application may be made for a standard patent or a petty patent, on or after the commencement day a further complete application may only be made, as provided for in that subsection, for a standard patent or an innovation patent.
 
-(6)       Despite subsection 39(2) of the old law providing that a patentee of a petty patent may make a further complete application for a petty patent, on or after the commencement day a further complete application may only be made as provided for in that subsection for an innovation patent.
+(6)        Despite subsection 39(2) of the old law providing that a patentee of a petty patent may make a further complete application for a petty patent, on or after the commencement day a further complete application may only be made as provided for in that subsection for an innovation patent.
 
 ## 3  Transitional—applications for petty patents made before the commencement day may be converted to innovation patents or standard patents
 
-(1)       If, before the commencement day:
+(1)        If, before the commencement day:
 
                      (a)  a person files a complete application in respect of a petty patent; and
 
@@ -8173,7 +8099,7 @@ Exception—divisional applications made after commencement day
 
 then, after that day, the person may convert the application, as provided for under subsection 104(2) of the old law.
 
-(2)       However, despite subsection 104(2) of the old law providing that the application may be for a standard patent or a petty patent, an application may only be made for a standard patent or an innovation patent.
+(2)        However, despite subsection 104(2) of the old law providing that the application may be for a standard patent or a petty patent, an application may only be made for a standard patent or an innovation patent.
 
 ## 4  Transitional—Register of Patents
 
@@ -8191,7 +8117,7 @@ To avoid doubt, the continuity of the Register of Patents and the entries on it,
 
 ## 6  Other transitional matters relating to innovation patents and petty patents may be provided for in the regulations
 
-The Governor‑General may make regulations, not inconsistent with this Act or the new law _,_ prescribing other transitional matters, apart from transitional matters provided for in this Schedule, that are necessary or convenient for carrying out or giving effect to:
+The Governor-General may make regulations, not inconsistent with this Act or the new law _,_ prescribing other transitional matters, apart from transitional matters provided for in this Schedule, that are necessary or convenient for carrying out or giving effect to:
 
                      (a)  the introduction of the innovation patent scheme; and
 
@@ -8199,15 +8125,15 @@ The Governor‑General may make regulations, not inconsistent with this Act or t
 
 ## 7  Application
 
-(1)       The amendments made by items 86, 87, 89 and 90 of Schedule 1 do not apply in relation to fees that were due and payable before the day on which this Act commences.
+(1)        The amendments made by items 86, 87, 89 and 90 of Schedule 1 do not apply in relation to fees that were due and payable before the day on which this Act commences.
 
-(2)       The amendments made by items 86, 87, 89 and 90 of Schedule 1 do not apply in relation to fees paid before the day on which this Act commences (even if they were not due until that day or a later day).
+(2)        The amendments made by items 86, 87, 89 and 90 of Schedule 1 do not apply in relation to fees paid before the day on which this Act commences (even if they were not due until that day or a later day).
 
 ## 8  Saving of regulations for subsection 223(9)
 
-(1)       Regulations in force for the purposes of subsection 223(9) of the _Patents Act 1990_ immediately before the day on which this Act commences continue to have effect on and after that day as if they had been made for the purposes of that subsection as amended by this Schedule.
+(1)        Regulations in force for the purposes of subsection 223(9) of the _Patents Act 1990_ immediately before the day on which this Act commences continue to have effect on and after that day as if they had been made for the purposes of that subsection as amended by this Schedule.
 
-(2)       Subitem 1 does not prevent the repeal or amendment of regulations continued by that subitem.
+(2)        Subitem 1 does not prevent the repeal or amendment of regulations continued by that subitem.
 
 * * *
 
@@ -8235,25 +8161,25 @@ The amendments made by this Part apply in relation to:
 
 ## 32  Application
 
-(1)       The amendments made by items 14 and 24 of this Schedule apply in relation to an application if the patent request and complete specification in relation to that application has not been accepted under subsection 49(1) of the _Patents Act 1990_ before the commencement of this Schedule.
+(1)        The amendments made by items 14 and 24 of this Schedule apply in relation to an application if the patent request and complete specification in relation to that application has not been accepted under subsection 49(1) of the _Patents Act 1990_ before the commencement of this Schedule.
 
-(2)       The amendment made by item 15 of this Schedule applies in relation to the acceptance of a patent request and complete specification under subsection 49(1) of the _Patents Act 1990_ on or after the commencement of this Schedule.
+(2)        The amendment made by item 15 of this Schedule applies in relation to the acceptance of a patent request and complete specification under subsection 49(1) of the _Patents Act 1990_ on or after the commencement of this Schedule.
 
-(3)       The amendments made by items 16, 17 and 18 of this Schedule apply in relation to the grant of a patent on or after the commencement of this Schedule.
+(3)        The amendments made by items 16, 17 and 18 of this Schedule apply in relation to the grant of a patent on or after the commencement of this Schedule.
 
-(4)       The amendment made by item 19 of this Schedule applies in relation to a patent unless the Commissioner has started examination of the patent under section 101B of the _Patents Act 1990_ before the commencement of this Schedule.
+(4)        The amendment made by item 19 of this Schedule applies in relation to a patent unless the Commissioner has started examination of the patent under section 101B of the _Patents Act 1990_ before the commencement of this Schedule.
 
-(5)       The amendments made by items 20, 21 and 25 of this Schedule apply in relation to decisions of the Commissioner made under section 101E of the _Patents Act 1990_ on or after the commencement of this Schedule.
+(5)        The amendments made by items 20, 21 and 25 of this Schedule apply in relation to decisions of the Commissioner made under section 101E of the _Patents Act 1990_ on or after the commencement of this Schedule.
 
-(6)       The amendment made by item 23 of this Schedule applies in relation to a patent if the date of the patent is the date on which this Schedule commences or a later date.
+(6)        The amendment made by item 23 of this Schedule applies in relation to a patent if the date of the patent is the date on which this Schedule commences or a later date.
 
-(7)       The amendments made by items 27, 28, 29, 30 and 31 of this Schedule apply in relation to applications made under section 223 of the _Patents Act 1990_ on or after the commencement of this Schedule.
+(7)        The amendments made by items 27, 28, 29, 30 and 31 of this Schedule apply in relation to applications made under section 223 of the _Patents Act 1990_ on or after the commencement of this Schedule.
 
 ## 33  Saving of regulations
 
-(1)       Regulations in force for the purposes of a provision of the _Patents Act 1990_ immediately before the day on which this Schedule commences continue to have effect on and after that day as if they had been made for the purposes of that provision as amended by this Schedule.
+(1)        Regulations in force for the purposes of a provision of the _Patents Act 1990_ immediately before the day on which this Schedule commences continue to have effect on and after that day as if they had been made for the purposes of that provision as amended by this Schedule.
 
-(2)       Subitem (1) does not prevent the repeal or amendment of regulations continued by that subitem.
+(2)        Subitem (1) does not prevent the repeal or amendment of regulations continued by that subitem.
 
 * * *
 
@@ -8263,15 +8189,15 @@ _Intellectual Property Laws Amendment Act 2003 (No. 48, 2003)_
 
 ## 5  Application
 
-(1)       The amendment made by item 2 of this Schedule applies in relation to an application if the patent request and complete specification in relation to that application had not been accepted under subsection 49(1) of the _Patents Act 1990_ before 1 April 2002.
+(1)        The amendment made by item 2 of this Schedule applies in relation to an application if the patent request and complete specification in relation to that application had not been accepted under subsection 49(1) of the _Patents Act 1990_ before 1 April 2002.
 
-(2)       The amendment made by item 3 of this Schedule applies in relation to an innovation patent unless the Commissioner had started examination of the patent under section 101B of the _Patents Act 1990_ before 1 April 2002.
+(2)        The amendment made by item 3 of this Schedule applies in relation to an innovation patent unless the Commissioner had started examination of the patent under section 101B of the _Patents Act 1990_ before 1 April 2002.
 
-(3)       For the purposes of subitem (1), information given before commencement under old subsection 45(3) is taken to be information given under new subsection 45(3).
+(3)        For the purposes of subitem (1), information given before commencement under old subsection 45(3) is taken to be information given under new subsection 45(3).
 
-(4)       For the purposes of subitem (2), information given before commencement under old section 101D is taken to be information given under new section 101D.
+(4)        For the purposes of subitem (2), information given before commencement under old section 101D is taken to be information given under new section 101D.
 
-(5)       In this item:
+(5)        In this item:
 
                     <a name="commenc"></a>**_commencement_** means the time of commencement of Part 1 of this Schedule.
 
@@ -8323,13 +8249,13 @@ The amendments of the _Patents Act 1990_ made by this Schedule apply in relation
 
 ## 9  Application and saving provisions
 
-(1)       The amendments of the _Patents Act 1990_ made by this Schedule apply in relation to conduct (including omissions) that:
+(1)        The amendments of the _Patents Act 1990_ made by this Schedule apply in relation to conduct (including omissions) that:
 
                      (a)  occurs after the commencement of this Schedule; and
 
                      (b)  is connected with a patent granted before, on or after that commencement.
 
-(2)       To avoid doubt, proceedings started in a prescribed court under section 133 or 134 of the _Patents Act 1990_ but not concluded before the commencement of this Schedule may be continued in the court after that commencement as if the amendments of that Act by this Schedule had not been made.
+(2)        To avoid doubt, proceedings started in a prescribed court under section 133 or 134 of the _Patents Act 1990_ but not concluded before the commencement of this Schedule may be continued in the court after that commencement as if the amendments of that Act by this Schedule had not been made.
 
 ## Schedule 9
 
@@ -8354,11 +8280,11 @@ The following provision commences on 1 February 2012 or an earlier time determin
 
 ## 15  Application of amendments of the _Patents Act 1990_
 
-(1)       The amendment of the _Patents Act 1990_ made by item 9 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+(1)        The amendment of the _Patents Act 1990_ made by item 9 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
 
-(2)       The amendment of the _Patents Act 1990_ made by item 10 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+(2)        The amendment of the _Patents Act 1990_ made by item 10 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
 
-(3)       The amendments of the _Patents Act 1990_ made by items 11, 12 and 13 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to patents (or interests in patents) that are commenced before the time the items commence.
+(3)        The amendments of the _Patents Act 1990_ made by items 11, 12 and 13 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to patents (or interests in patents) that are commenced before the time the items commence.
 
 _Note:       Items 9 to 13 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
@@ -8382,7 +8308,7 @@ insert
 
 Subject to subsection (1AC), where
 
-   (1AB)   After subsection 45 (1):
+    (1AB)   After subsection 45 (1):
 
 insert
 
@@ -8448,7 +8374,7 @@ insert
 
 Subject to subsection (1AC), when
 
-   (1AE)   After subsection 48 (1):
+    (1AE)   After subsection 48 (1):
 
 insert
 
@@ -8460,7 +8386,7 @@ insert
 
               (c)      at least 3 months after the applicant complied with the requirements of subsection 89 (3), the Commissioner asks for a copy of the international preliminary examination report from the International Bureau; and
 
-             (d)      the International Bureau advises that the international preliminary examination report is not available; 
+              (d)      the International Bureau advises that the international preliminary examination report is not available; 
 
 the Commissioner may report on these matters and ask the applicant to provide a copy of the international preliminary examination report, or to advise that no amendments were made under Article 34 of the PCT, or to abandon any amendments that may have been made under Article 34 of the PCT.
 
@@ -8520,10 +8446,133 @@ insert
 
                (2)    For a PCT application, the prescribed information is taken to have been published under subsection (1) when the application is published by the International Bureau of the World Intellectual Property Organization.
 
-   (1BA)   Subsection 89 (5):
+    (1BA)   Subsection 89 (5):
 
 substitute
 
          (5)   If:
 
-                (a)    a PCT application has been amended under Article 19 of the PCT before the applicant m
+                (a)    a PCT application has been amended under Article 19 of the PCT before the applicant meets the requirements of subsection (3); or
+
+               (b)    a PCT application has been rectified under Rule 91 of the Regulations mentioned in the definition of **_PCT_** in Schedule 1 before the applicant meets the requirements of subsection (3);
+
+then the description, drawings and claims contained in the application are, for the purposes of this Act, to be taken to have been amended:
+
+                (c)    on the day the amendment was made; or
+
+               (d)    unless the Commissioner disregards the rectification under Rule 91.3 (f) — on the day the rectification was effective.
+
+    (1BD)   After subsection 89 (5):
+
+insert
+
+                  (6)      Subject to subsection (7), where:
+
+              (a)      a PCT application in respect of which Australia has been elected under Chapter II of the PCT has been amended under Article 34 of the PCT; and
+
+              (b)      an international preliminary examination report is established before the applicant meets the requirements of subsection (3);
+
+the description, drawings and claims contained in the application are, for the purposes of this Act, to be taken to have been amended on the day on which the amendment was made.
+
+                  (7)      Subsection (6) does not apply if:
+
+              (a)      the Commissioner has reported under subsection 45 (1AA) or (1AB), or 48 (1AA) or (1AB), or under regulations made for the purpose of section 104, in relation to an application; and
+
+              (b)      the applicant elects under subparagraph 45 (1AC) (b) (ii) or 48 (1AC) (b) (ii), or under regulations made for the purpose of section 104, to abandon any amendments that may have been made under Article 34 of the PCT, or provides the advice mentioned in subparagraph 45 (1AC) (b) (i) or 48 (1AC) (b) (i) or in regulations made for the purpose of section 104.
+
+      (1C)   Paragraph 90 (a):
+
+omit
+
+subsection 92 (1) or (2)
+
+insert
+
+subsection 92 (2)
+
+      (1D)   Paragraph 90 (b):
+
+substitute
+
+                         (b)    where subsection 92 (3) applies — on the day on which the application is published under Article 21 of the PCT.
+
+       (1E)   Section 92:
+
+substitute
+
+92    Notice of publication
+
+(1)    Subsection (2) applies to a PCT application:
+
+(a)    that has not lapsed, or been withdrawn or refused; and
+
+(b)    that is to be treated as an application for a standard patent under this Act; and
+
+(c)    for which the applicant complies with subsection 89 (3) before the end of 18 months after the priority date of the application.
+
+(2)    The Commissioner must publish a notice in the _Official Journal_ stating that the PCT application is open to public inspection:
+
+(a)    if the applicant asks the Commissioner in writing to publish the notice; or
+
+(b)    in any case — as soon as practicable after the end of 18 months after the priority date of the application.
+
+(3)    If:
+
+(a)    the applicant does not comply with subsection 89 (3) within 18 months after the priority date of a PCT application; and
+
+(b)    the application is published under Article 21 of the PCT;
+
+the application is open to public inspection.
+
+(4)    If a PCT application is open to public inspection, any other prescribed documents are also open to public inspection.
+
+(5)    In this section: 
+
+**_priority date_**, for an international application, has the same meaning as in the PCT.
+
+         (2)   Section 141:
+
+omit the section, substitute:
+
+                 **‘141  Withdrawal of applications**
+
+               (1)    Subject to subsection (3), a patent application may be withdrawn at any time except during a period prescribed for the purposes of this section.
+
+               (2)    A patent application is to be treated as having been withdrawn if, and only if, the applicant lodges a written notice of withdrawal signed by the applicant.
+
+               (3)    A PCT application is to be treated as having been withdrawn if Article 11 (3) of the PCT ceases to have effect in Australia in relation to the application under Article 24 (1) (i) of the PCT.’.
+
+         (3)   Subsection 142 (2):
+
+Add at the end: 
+
+                  ‘; or (f)    Article 11 (3) of the PCT ceases to have effect in Australia in relation to the application under Article 24 (1) (ii) or (iii) or Article 39 (2) of the PCT’.
+
+         (4)   Section 223:
+
+After subsection (1) insert:
+
+‘(1A)           If, because of an error or omission by the receiving Office or the International Bureau, a relevant act that is required to be done within a certain time is not, or cannot be, done within that time, the Commissioner must extend the time for doing the act.’.
+
+         (5)   Schedule 1, definition of **_international filing date_**, including the cross-reference to section 10:
+
+substitute
+
+‘**_international filing date_**, in relation to an international application, means:
+
+                (a)    the date given to the international application as its international filing date under Article 11 of the PCT; or
+
+               (b)    if that date is revised under Article 14 of the PCT — that international filing date as so revised; or
+
+                (c)    if the Commissioner has treated another date as the international filing date under Rule 82 _ter_ — that international filing date as so treated.
+
+_\[See also section 10]_’.
+
+ 
+* * *
+
+<div id="ftn1">
+
+<span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[1]</span></span> This heading has been placed in the correct position.
+
+</div>
