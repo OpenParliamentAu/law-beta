@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image001.gif)
 
 # Defence Service Homes Act 1918
 
 **Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force
@@ -1376,7 +1376,7 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
              (3)  The Secretary shall cause a copy of each certificate of entitlement under this section to be given to the credit provider.
 
-             (4)  On the issue of a certificate of entitlement under this section, the amounts of instalments payable under the contract of sale, mortgage or other security to which the certificate relates are, if the credit provider grants instalment relief to the applicant, reduced by the amount specified in the certificate during the period specified in the certificate.
+             (4)  On the issue of a certificate of entitlement under this section, the amounts of instalments payable under the contract of sale, mortgage or other security to which the certificate relates are, if the Bank grants instalment relief to the applicant, reduced by the amount specified in the certificate during the period specified in the certificate.
 
              (5)  In deciding whether a person is suffering financial hardship for the purposes of subsection (1), the Secretary is to have regard to any guidelines approved by the Minister under subsection (6).
 
@@ -2004,7 +2004,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image002.gif)
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -2262,7 +2262,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Commonwealth may do all things necessary or convenient to be done for the purpose of undertaking insurance under this Part and, without limiting the generality of its powers under this section, may enter into an agreement of a kind known as a concessions agreement with a person who is, or is likely to be, the mortgagee of property insured with the Commonwealth.
 
-##### <a id="38D"></a>38D  Insurance of dwelling‑house etc. in which Corporation has an interest
+##### <a id="38D"></a>38D  Insurance of dwelling‑house etc. In which Corporation has an interest
 
              (1)  While the Corporation has an interest in a dwelling‑house, or in any building materials on the site of a dwelling‑house, because of a Corporation advance or a sale by the Corporation, the person liable to repay the advance, or to pay the balance of the purchase money, shall keep the dwelling‑house or building materials insured:
 
@@ -2582,7 +2582,7 @@ Note:          The authorisation under this subsection is only
 
                      (c)  uses on any document, as a description of his trade, business, calling or profession; or
 
-                     (d)  uses as a business name (within the meaning of the _Business Names Registration Act 2011_) or part of a business name;
+                     (d)  uses as the name or part of the name of any firm or company registered in a State or a Territory;
 
 the words “War Service Homes” or “Defence Service Homes” or any words so nearly resembling them as to be likely to deceive, whether alone or in conjunction with any words, shall be deemed to be guilty of an offence against that subsection.
 
@@ -2724,7 +2724,7 @@ Clause
 
 6.6                Effect of Termination
 
-6.7                Agreement approved by Amending Act
+6.7                A          greement approved by Amending Act
 
 6.8                Amending Act Provisions
 
@@ -2974,7 +2974,7 @@ WHEREAS:
 
 A.        The Commonwealth by the Defence Service Homes Act 1918 (the Act) has established a body corporate known as the Defence Service Homes Corporation (the Corporation).
 
-B.        Pursuant to the Act the Corporation currently provides assistance to members of the Australian Defence Force and certain other persons, to acquire homes.
+B.        Pursuant to the Act the Corporation currently provides assistance to membersof the Australian Defence Force and certain other persons, to acquire homes.
 
             Such assistance is provided in the form of, but not limited to, advances secured by mortgages in favour of the Corporation, contracts for the sale of land on terms, as well as assistance in the form of benefits such as those now set out in Sections 18A, 29, 29AA, 29AB, 31, 33 and 35 of the Act.
 
@@ -3553,9 +3553,9 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
 
 4.5.1    In the event that the Bank is in default under this Agreement in payment of part or all of the Consideration referred to in Sub‑clause 3.1; 
 
-(a) on the date of its giving a notice to the Minister under Sub‑clause 4.4;
+(a)   on the date of its giving a notice to the Minister under Sub‑clause 4.4;
 
-(b) on the date upon which the Minister, pursuant to Sub‑clause 4.5, determines a date for vesting; or 
+(b)   on the date upon which the Minister, pursuant to Sub‑clause 4.5, determines a date for vesting; or 
 
 (c)   subsequent to a date being fixed by the Minister for vesting under Sub‑clause 4.5 but prior to vesting being effected; 
 
@@ -3649,7 +3649,9 @@ The Commonwealth further agrees to pay to the Bank and the Bank further agrees t
 
 On the relevant Vesting Date for any Portfolio Asset any application or request by a Borrower or other person relating to a Portfolio Asset for an additional advance pursuant to Section 20 of the Act or for relief pursuant to Sections 29AA or 29AB of the Act or for an exercise of the Corporation’s powers under Sections 31, 33 or 35 of the Act which are in the possession of the Corporation at such relevant Vesting Date shall be dealt with by the parties as follows.
 
-5.2.1    The Commonwealth shall treat any such application or request as an application for Certificate of Entitlement in accordance with Clause 7\. No later than when the Commonwealth delivers a Certificate of Entitlement to the Bank the Commonwealth shall also deliver to the Bank a copy of any such application or request and the Bank shall treat that application or request in the same way as an application for a Subsidised Advance, Instalment Relief or Transfer of Land and Subsidy, whichever is appropriate, is to be treated under Clauses 7 or 8\. 
+5.2.1    The Commonwealth shall treat any such application or request as an application for Certificate of Entitlement in accordance with Clause 7\. 
+
+                 No later than when the Commonwealth delivers a Certificate of Entitlement to the Bank the Commonwealth shall also deliver to the Bank a copy of any such application or request and the Bank shall treat that application or request in the same way as an application for a Subsidised Advance, Instalment Relief or Transfer of Land and Subsidy, whichever is appropriate, is to be treated under Clauses 7 or 8\. 
 
 5.2.2    Where the Corporation has approved a Corporation Advance in respect of any such application or request, or approved any such application or request, on receipt of the Certificate of Entitlement and a copy of the loan approval letter, the Bank shall be bound to make a Subsidised Advance or provide Instalment Relief or give effect to the Transfer of Land and Subsidy on the terms and conditions as set out in Part A of the Certificate of Entitlement.
 
@@ -3927,9 +3929,9 @@ If the Bank provides a banking account then:
 
 (a)   the Bank will deposit Excess Credits in an interest bearing deposit account with funds at call;
 
-(b)   the account will have bill paying facilities, and
+(b)        the account will have bill paying facilities, and
 
-(c)   the account will have a direct credit facility.
+(c)        the account will have a direct credit facility.
 
 9.6       _Obligations of Bank_
 
@@ -4085,7 +4087,7 @@ The amount of Subsidy payable by the Commonwealth shall be calculated as set out
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image003.gif)
 
 where
 
@@ -4213,7 +4215,7 @@ The Commonwealth acknowledges that it shall be a term of any Subsidised Advance 
 
 (a)   participate in or assist in the preparation of an incorrect application for a Certificate of Entitlement, and/or 
 
-(b)   conceal or participate in the concealing of information, 
+(b)        conceal or participate in the concealing of information, 
 
 and such action results in an over‑payment of Subsidy then the Commonwealth shall be entitled to recover from the Bank immediately as a debt all Subsidy payments over‑paid. The Bank shall notify the Commonwealth immediately it becomes aware of any such action.
 
@@ -4348,7 +4350,7 @@ If, within a period of three (3) months after first verifying the facts, agreeme
 
 The Bank warrants that:
 
-15.1.1  it undertakes and represents to the Commonwealth and it is a condition of this Agreement that the execution and delivery of this Agreement has been duly and validly authorised by all necessary corporate action on behalf of the Bank, the Bank has full corporate power and lawful authority to execute and deliver this Agreement and to perform or cause to be performed its obligations herein and this Agreement shall constitute a legal, valid and binding obligation of the Bank enforceable in accordance with its terms and does not conflict with or constitute or result in a breach of or default under any provision of the Bank’s Deed of Settlement;
+15.1.1  it undertakes and represents to the Commonwealth and it is a condition of this Agreement that the execution and delivery of this Agreement has been duly and validly authorised by all necessary corporate action on half of the Bank, the Bank has full corporate power and lawful authority to execute and deliver this Agreement and to perform or cause to be performed its obligations herein and this Agreement shall constitute a legal, valid and binding obligation of the Bank enforceable in accordance with its terms and does not conflict with or constitute or result in a breach of or default under any provision of the Bank’s Deed of Settlement;
 
 15.1.2  to the best of the Bank’s knowledge, no statutory notices have been served on the Bank which might in any way impair, prevent or otherwise interfere with the Bank’s performance of its obligations hereunder; and
 
@@ -4414,7 +4416,7 @@ For the purposes of this Clause, a South African or Namibian person is defined a
 
 19.2.3  During the period referred to in Sub‑clause 19.2.2 the Bank and the Commonwealth shall, if the Commonwealth requests, discuss what action, if any, should be taken in relation to the assessment. If the Commonwealth request and indemnifies the Bank against any costs or expenses which the Bank may incur in so doing, the Bank shall:
 
-(a)   provide the Commonwealth with sufficient information to enable it to prepare any objection or appeal;  
+(a)   provide the Commonwealth with sufficient information to enable it  to prepare any objection or appeal;  
 
 (b)   deliver to the person issuing the assessment any objection or appeal which the Commonwealth prepares and delivers to the Bank;  
 
@@ -4424,7 +4426,7 @@ For the purposes of this Clause, a South African or Namibian person is defined a
 
 (e)   promptly inform the Commonwealth of the outcome of any such appeal, objection or legal proceedings.
 
-19.2.4  In the event that it is a condition of making any objection or appeal pursuant to Sub‑clause 19.2.3 (b) or commencing legal proceedings pursuant to Sub‑clause 19.2.3 (d) that all or any part of the stamp duty assessed be paid then, subject to Sub‑clause 19.2.8, the Commonwealth shall pay the Bank the amount of such stamp duty: 
+19.2.4  In the event that it is a condition of making any objection or appeal pursuant to Sub‑clause 19.2.3 (b) or commencing legal proceedings pursuant to Sub‑clause 19.2.3 (d) that all or any part of the stamp duty assessed be paid then, subject to Sub‑clause 19.2.8, the Commonwealth shall pay the Bank the amount of such stamp duty:  
 
 (a)   where an objection or appeal is to be made by the Bank, prior to the Bank lodging such objection or appeal; and  
 
@@ -4432,9 +4434,9 @@ For the purposes of this Clause, a South African or Namibian person is defined a
 
 19.2.5  Where stamp duty has been paid pursuant to Sub‑clause 19.2.4 and an objection, appeal or legal proceedings establishes that all or part of such stamp duty is not chargeable and the Bank receives a refund of stamp duty paid then the Bank shall forthwith reimburse the Commonwealth the amount of stamp duty not chargeable which has been paid by the Commonwealth, and pay to the Commonwealth any interest or like compensation received by the Bank in connection with that part of the refunded stamp duty paid by the Commonwealth.
 
-19.2.6  If the Commonwealth does not request the Bank to lodge any objection or appeal within the time period specified in Sub‑clause 19.2.2 or to commence legal proceedings after an unsuccessful objection or appeal before the last day for payment of stamp duty prior to the Bank becoming liable to pay any fine or penalty, the Bank shall pay the stamp duty assessed and, subject to Sub‑clause 19.2.8, the Commonwealth shall reimburse the Bank within fourteen (14) days of a request for payment.
+19.2.6  If the Commonwealth does not request the Bank to lodge any objection or appeal within the time period specified in Sub‑clause 19.2.2 or to commence legal proceedings after an unsuccessful objection or appeal  before the last day for payment of stamp duty prior to the Bank becoming liable to pay any fine or penalty, the Bank shall pay the stamp duty  assessed and, subject to Sub‑clause 19.2.8, the Commonwealth shall  reimburse the Bank within fourteen (14) days of a request for payment.
 
-19.2.7  At the time of informing the Commonwealth of the outcome of any legal proceedings under Sub‑clause 19.2.3 (e), the Bank shall, where it is determined that stamp duty is payable, notify the Commonwealth of the remaining amount payable under the indemnity given by the Commonwealth pursuant to Sub‑clause 19.2.3\. Upon receipt of such notification, the Commonwealth shall pay the Bank the amount payable under the indemnity and, subject to Sub‑clause 19.2.8, such stamp duty.
+19.2.7  At the time of informing the Commonwealth of the outcome of any legal proceedings under Sub‑clause 19.2.3 (e), the Bank shall, where it is  determined that stamp duty is payable, notify the Commonwealth of the  remaining amount payable under the indemnity given by the Commonwealth pursuant to Sub‑clause 19.2.3\. Upon receipt of such notification, the Commonwealth shall pay the Bank the amount payable under the indemnity and, subject to Sub‑clause 19.2.8, such stamp duty.
 
 19.2.8  The Commonwealth shall only be obliged to pay or reimburse the Bank in respect of stamp duty to the extent that the sum of such stamp duty and any other stamp duty paid by the Bank on this Agreement and the transfer of Portfolio Assets to the Bank exceeds $500,000.
 
@@ -4560,7 +4562,7 @@ No variation, modification or waiver of any provision of this Agreement nor cons
 
 The Bank acknowledges that any information or document supplied by the Commonwealth in respect of applicants, Entitled Applicants or Borrowers pursuant to this Agreement is to be received by the Bank in confidence and is not to be copied, used, disclosed or otherwise made available to any third person in circumstances in which disclosure is not authorised by a Banker/Customer relationship.
 
-29.1.2  The Bank agrees not to copy, use, disclose or otherwise make available other than for the Bank’s own internal use or to satisfy an obligation arising from this Agreement any names and/or addresses or other identifying particulars of persons who are or were applicants, Entitled Applicants or Borrowers without the prior written consent of the  applicant, Entitled Applicant or Borrower.
+29.1.2  The Bank agrees not to copy, use, disclose or otherwise make available other than for the Bank’s own internal use or to satisfy an obligation arising from this Agreement any names and/or addresses or other identifying particulars of persons who are or were applicants, Entitled Applicants or Borrowers without the prior written consent of the  applicant, Entitled Applicant or Borrower.
 
 29.2     _Commonwealth’s acknowledgement of material_ 
 
@@ -4572,9 +4574,9 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image004.gif)
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image005.gif)
 
 **SCHEDULE “A”**
 
@@ -4733,7 +4735,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image006.gif)
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4745,7 +4747,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image007.gif)
 
 Open/Closed dates
 
@@ -4783,7 +4785,8 @@ Subsidy adjustments from previous month (plus/minus)
 
 Next subsidy due
 
-D.   REPORT ON RETURN COPY OF CERTIFICATE OF ENTITLEMENT
+D.   REPORT ON RETURN COPY OF CERTIFICATE OF 
+ ENTITLEMENT
 
 _Particulars—Subsidised Advances and Instalment Relief_
 
@@ -5125,7 +5128,7 @@ In this Agreement except where the context otherwise requires:
 
 3.3         On or after 1 May of each year commencing on 1 May 1991 the Commonwealth shall provide to the Bank a written invoice detailing its claim for payment of the Unit Fee referred to in Sub‑clause 3.1 in respect of the Unit Fee Claim Period.
 
-3.4         The Bank shall pay the Commonwealth the total amount by way of Unit Fee which the Bank has verified by 11:00 am. on the day which is thirty (30) days after receipt of the Commonwealth’s invoice pursuant to Sub‑clause 3.3.
+3.4         The Bank shall pay the Commonwealth the total amount by way of Unit Fee which the Bank has verified by 11:00 am. On the day which is thirty (30) days after receipt of the Commonwealth’s invoice pursuant to Sub‑clause 3.3.
 
 3.5         Payment shall be made by depositing a cheque for the relevant amount with the Receiver of Public Monies, Department of Veterans’ Affairs, Sydney, New South Wales or in such other manner as the Commonwealth may from time to time advise.
 
@@ -5147,7 +5150,7 @@ In this Agreement except where the context otherwise requires:
 
 (a)   alter the obligations of the Bank set out in the Agreement, the Supplementary Agreement or the draft Bill;
 
-(b)   alter the arrangements for the payment of Subsidy set out in the Agreement, the Supplementary Agreement or the draft Bill;
+(b    alter the arrangements for the payment of Subsidy set out in the Agreement, the Supplementary Agreement or the draft Bill;
 
 (c)   reduce or restrict the entitlements of persons set out in the Agreement, the Act or the draft Bill in a way which is likely to reduce, from levels applying in recent years, the number of Entitled Applicants for advances;
 
@@ -5199,9 +5202,9 @@ This Supplementary Agreement may not be assigned in whole or in part by either p
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image008.gif)
 
-![](http://www.comlaw.gov.au/Details/C2012C00399/Html/2808d423-c551-415e-a27e-e73b1139edc8_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image009.gif)
 
 **SCHEDULE OF AMENDMENTS TO AGREEMENT**
 
@@ -6014,7 +6017,7 @@ _Subsection 6B (9)_
     <div><b>Regulation 9</b></div>
   </td>
   <td>
-    <div>(a) After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
+    <div>(a) After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the D <i>efence Service Homes Act 1918</i>”.</div>
     <div>(b) After “is situated” insert “and which is otherwise in a form acceptable to the Bank”.</div>
   </td>
 </tr>
@@ -6256,8 +6259,6 @@ _Subsection 6B (9)_
 ### Note 1
 
 The _Defence Service Homes Act 1918_ as shown in this compilation comprises Act No. 43, 1918 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by Schedule 1 (item 6) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 8 November 1996 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -7460,7 +7461,7 @@ Schedule (Part 4): 1 July 1991 <i>(n)</i></div>
     <div>14 Nov 1995</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): 1 July 1995 <i>(q)</i>Schedule 1 (items 9, 48, 49, 51, 60): Royal Assent <i>(q)</i></div>
+    <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): Royal Assent <i>(q)</i>Schedule 1 (items 9, 48, 49, 51, 60): 1 July 1995 <i>(q)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 66)</div>
@@ -7750,7 +7751,7 @@ Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 21): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (item 21): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -7795,7 +7796,7 @@ _(i)_      The _Defence Service Homes Act 1918_ was amended by section
 
                    2.   Each provision of this Act commences, or is taken to have commenced, as the case requires, on the day, or at the time, shown by the note in italics at the foot of the provision.
 
-         Commencement of paragraphs 7(b) and (j) provide as follows:
+         Commencement of paragraphs 7(b) and (j) provides as follows:
 
          Immediately after the commencement of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_. 
 
@@ -7805,7 +7806,7 @@ _(j)_      The _Veterans’ Affairs Legislation Amendment Act 1990_ wa
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(k)_     The _Defence Service Homes Act 1918_ was amended by Schedule 4 only of the _Veterans’ Entitlements (Rewrite) Transition Act 1991_, subsection 2(2) of which provides as follows:
+_(k)_     The _Defence Service Homes Act 1918_ was amended by schedule 4 only of the _Veterans’ Entitlements (Rewrite) Transition Act 1991_, subsection 2(2) of which provices as follows:
 
                  (2)   Section 19 commences immediately after the commencement of section 22.
 
@@ -7854,7 +7855,7 @@ _(r)_     The _Defence Service Homes Act 1918_ was amended by Schedule�
 
 _(s)_     The _Defence Service Homes Act 1918_ was amended by Schedule 2 (items 1–4) only of the _Veterans’ Affairs Legislation Amendment (1996‑97 Budget Measures) Act 1997_, subsection 2(1) of which provides as follows:
 
-                 (1)   The following provisions commence on the day on which this Act receives the Royal Assent.
+                 (1)   The following provisions commence on the day on which this Act receives the Royal assent.
 
                               (a)   sections 1, 2 and 3;
 
@@ -7935,14 +7936,6 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>rs. No. 31, 1973</div>
   </td>
 </tr>
 <tr>
@@ -9430,7 +9423,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975; No. 124, 1988; No. 16, 2001; No. 127, 2011</div>
+    <div>am. No. 38, 1947; No. 69, 1954; No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975; No. 124, 1988; No. 16, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11423,6 +11416,22 @@ The amendment history of the repealed provisions of the _Defence Service Homes A
     <div>rep. No. 124, 1988</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 21  Paragraph 50A(2)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  uses as a business name (within the meaning of the _Business Names Registration Act 2011_) or part of a business name;
+
+As at 11 November 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
