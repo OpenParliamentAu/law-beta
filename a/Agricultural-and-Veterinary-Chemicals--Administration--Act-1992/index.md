@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00385/Html/AgVetChemAdmin1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00401/Html/AgVetChemAdmin1992_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 7 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 90 of 2007
 
 The text of any of those amendments not in force on that date is appended in the Notes section
 
@@ -1119,7 +1119,7 @@ whichever is the later.
 
 ##### <a id="57"></a>57  Variation of annual operational plan
 
-             (1)  Section 52 applies to annual operational plans in the same way as it applies to corporate plans.
+             (1)  Section 52 applies to annual operational plans in the same way as they apply to corporate plans.
 
              (2)  When submitting to the Minister proposals for variation of a corporate plan, the APVMA must also submit to the Minister proposals for any consequential variations of a relevant annual operational plan.
 
@@ -2700,23 +2700,6 @@ Remainder: Royal Assent</div>
 1–21)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2008</div>
-    </td>
-    <td>
-      <div>73, 2008</div>
-    </td>
-    <td>
-      <div>3 June 2008</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 4): <i>(g)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
@@ -2752,93 +2735,6 @@ _(f)_      The _Agricultural and Veterinary Chemicals (Administration)
                               (b)   the items in Schedules 1 to 7 (other than item 18 of Schedule 7);
 
                               (c)   the items in Schedules 10, 11 and 12\. 
-
-_(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, item 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 51 of Schedule 1 to the
-        <i>Agricultural and Veterinary Chemicals (Administration) Amendment Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2007
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -3772,7 +3668,7 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 90, 2007; No. 73, 2008</div>
+    <div>am. No. 79, 2004; No. 90, 2007</div>
   </td>
 </tr>
 <tr>
