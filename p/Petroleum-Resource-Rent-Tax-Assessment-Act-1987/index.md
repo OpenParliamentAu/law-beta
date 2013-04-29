@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image001.gif)
 
 # Petroleum Resource Rent Tax Assessment Act 1987
 
 **Act No. 142 of 1987 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 16 October 2009
+ taking into account amendments up to Act No. 102 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -67,6 +67,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [15](#15).          General administration of Act
 
 [16](#16).          Annual report
+
+[17](#17).          Secrecy
+
+[18](#18).          Application of Part in relation to section 20
 
 **Part IV—Petroleum projects**
 
@@ -980,7 +984,7 @@ there is taken not to be a designated company group of which:
 
                      (b)  if the current apportionment percentage changed during the year of tax—means the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image002.gif)
 
                             where:
 
@@ -1006,7 +1010,7 @@ there is taken not to be a designated company group of which:
 
              (2)  The amount of the person’s future closing-down expenditure is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image003.gif)
 
 where:
 
@@ -1032,7 +1036,7 @@ Example:    On the termination of a petroleum project and the coming into 
 
                    The amount of the person’s future closing-down expenditure is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image004.gif)
 
 ##### <a id="3"></a>3  Petroleum pools
 
@@ -1128,7 +1132,7 @@ Post-30 June 2008 petroleum project
 
 then, for the purposes of the application of this Act to the petroleum project mentioned in paragraph (a) of this subsection, the amount of the exploration expenditure mentioned in paragraph (d) of this subsection is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image005.gif)
 
 where:
 
@@ -1316,8 +1320,6 @@ Operation of functional currency provisions unaffected
 
                    The Commissioner has the general administration of this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
 ##### <a id="16"></a>16  Annual report
 
              (1)  The Commissioner shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report on the working of this Act, including any breaches or evasions of this Act of which the Commissioner has notice.
@@ -1325,6 +1327,60 @@ Note:          An effect of this provision is that people who 
              (2)  The Minister shall cause a copy of a report furnished under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
              (3)  For the purposes of section 34C of the _Acts Interpretation Act 1901_, a report that is required by subsection (1) to be furnished as soon as practicable after 30 June in a year shall be taken to be a periodic report relating to the working of this Act during the year ending on that 30 June.
+
+##### <a id="17"></a>17  Secrecy
+
+             (1)  In this section, **_officer_** means a person:
+
+                     (a)  who is or has been appointed or employed by the Commonwealth; or
+
+                     (b)  to whom powers or functions have been delegated by the Commissioner;
+
+and who, by reason of the appointment or employment or in the course of the employment, or by reason of, or in the course of the exercise of powers or the performance of functions under, the delegation, as the case may be, may acquire or has acquired information with respect to the affairs of any other person disclosed or obtained under or for the purposes of this Act.
+
+             (2)  For the purposes of this section, a person who, although not appointed or employed by the Commonwealth, performs services for the Commonwealth shall be taken to be employed by the Commonwealth.
+
+             (3)  Subject to subsection (5), a person who is or has been an officer shall not directly or indirectly:
+
+                     (a)  make a record of any information with respect to the affairs of a second person; or
+
+                     (b)  divulge or communicate to a second person any information with respect to the affairs of a third person;
+
+being information disclosed or obtained under or for the purposes of this Act and acquired by the first-mentioned person by reason of that person’s appointment or employment by the Commonwealth or in the course of such employment, or by reason of the delegation to that person of powers or functions by the Commissioner, or in the course of the exercise of such powers or performance of such functions, as the case may be.
+
+                    Penalty:  100 penalty units or imprisonment for 2 years, or both.
+
+          (3A)  Subsection (3) does not apply to the extent that the person makes the record of the information, or divulges or communicates the information, for the purposes of this Act or in the performance of the person’s duties as an officer.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (3A), see subsection 13.3(3) of the _Criminal Code_.
+
+             (4)  Except where it is necessary to do so for the purpose of carrying into effect the provisions of this Act, a person who is or has been an officer shall not be required:
+
+                     (a)  to produce in court any document made or given under or for the purposes of this Act; or
+
+                     (b)  to divulge or communicate to a court a matter or thing with respect to information disclosed or obtained under or for the purposes of this Act;
+
+being a document or information acquired by the person by reason of the person’s appointment or employment by the Commonwealth or in the course of such employment, or by reason of the delegation to the person of powers or functions by the Commissioner, or in the course of the exercise of such powers or the performance of such functions, as the case may be.
+
+             (5)  Nothing in subsection (3) shall be taken to prohibit the Commissioner, a Deputy Commissioner or a person authorised by the Commissioner or a Deputy Commissioner from communicating any information to:
+
+                     (a)  the Tribunal in connection with proceedings under an Act of which the Commissioner has the general administration; or
+
+                     (b)  a person performing, as an officer, duties arising under an Act of which the Commissioner has the general administration, or regulations under such an Act, for the purpose of enabling the person to perform those duties.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (5), see subsection 13.3(3) of the _Criminal Code_.
+
+             (6)  For the purposes of subsection (3), an officer shall be deemed to have communicated information to another person in contravention of that subsection if the officer communicates the information to any Minister.
+
+             (7)  An officer shall, if and when required by the Commissioner or a Deputy Commissioner to do so, make an oath or declaration, in a manner and form specified by the Commissioner in writing, to maintain secrecy in conformity with the provisions of this section.
+
+##### <a id="18"></a>18  Application of Part in relation to section 20
+
+             (1)  Subject to this section, this Part applies as if section 20 did not form part of this Act.
+
+             (2)  Nothing in subsection 17(3) shall be taken to prohibit the Commissioner, a Deputy Commissioner or a person authorised by the Commissioner or a Deputy Commissioner from communicating, for the purposes of section 20, any information to the Resources Minister or an officer of the Resources Department authorised by the Minister.
+
+             (3)  Where information is communicated under subsection (2) to an officer authorised by the Resources Minister, that officer and any other officer of that Department shall, in respect of that information, be subject to the same rights, privileges, obligations and liabilities under subsections 17(3) and (4) as if the officer were an officer within the meaning of those subsections and the information were information to which those subsections applied.
 
 ## Part IV—Petroleum projects
 
@@ -1464,7 +1520,7 @@ Allowing for Greater Sunrise apportionments
 
              (2)  However, if the petroleum project is a Greater Sunrise project, the person is taken for the purposes of this Act to have a taxable profit in relation to the project and the year of tax of an amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image006.gif)
 
 where:
 
@@ -1728,7 +1784,7 @@ in relation to that expenditure or liability.
 
                      (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 general project expenditure, or any amount that is taken by subsection (3) or Division 5 to be class 1 augmented bond rate general expenditure, incurred by the person in relation to the pre-combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image007.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image007.gif), where:
 
                     <a name=""></a>**_A_** is the amount of the excess; and
 
@@ -1756,7 +1812,7 @@ shall be taken to be class 1 augmented bond rate general expenditure incurred by
 
                      (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 exploration expenditure, or any amount that is taken by subsection (3), paragraph 36 (1) (b) or Division 5 to be class 1 augmented bond rate exploration expenditure, incurred by the person in relation to the pre-combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image008.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image008.gif), where:
 
                     <a name=""></a>**_A_**is so much of the excess as does not exceed the amount of the class 1 augmented bond rate exploration expenditure; and
 
@@ -1800,7 +1856,7 @@ shall be taken to be class 1 augmented bond rate exploration expenditure incurre
 
 incurred by a person in a financial year (in this subsection called the **_assessable year_**) in relation to a petroleum project exceeds the assessable receipts derived by the person in the assessable year in relation to the project, the person is taken to incur, in relation to the project and on the first day of the next financial year, an amount of class 2 augmented bond rate general expenditure worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image009.gif)
 
 where:
 
@@ -1968,7 +2024,7 @@ Note:          The expressions **_SES employee_** and **_actin
 
                    For the purposes of this Act, the amount of **_uplifted frontier expenditure_** that a person is taken to have incurred in a financial year in relation to a petroleum project is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image010.gif)
 
 ##### <a id="37"></a>37  Exploration expenditure
 
@@ -2356,7 +2412,7 @@ Greater Sunrise closing-down credits
 
              (2)  However, for the purposes of the operation of paragraph (1)(a) in relation to a Greater Sunrise project, the amount that is so much of the excess as does not exceed the amount of the closing-down expenditure is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image011.gif)
 
 where:
 
@@ -3176,7 +3232,7 @@ the expenditure is to be translated into Australian currency at the exchange rat
 
 ### Division 1—Returns
 
-##### <a id="59"></a>59  Annual returns
+##### <a id="59"></a>59  Annual returns
 
              (1)  Where a person derives assessable receipts in a year of tax in relation to a petroleum project, the person shall, unless the person has furnished a return or returns under section 60 in relation to the project in relation to the year of tax, furnish to the Commissioner a return in relation to the project in relation to the year of tax not later than 60 days after the end of the year of tax or such later date as the Commissioner allows.
 
@@ -3496,7 +3552,7 @@ Note:          For provisions about collection and recovery of
 
              (1)  Subject to subsection (2), the notional tax amount of a person, in relation to a petroleum project and an instalment period in a year of tax, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image012.gif)
 
 where:
 
@@ -3624,7 +3680,7 @@ Note:          Subdivision 388-B in Schedule 1 to the _Tax
 
              (2)  The rate is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image013.gif)
 
              (3)  In this section:
 
@@ -4218,7 +4274,7 @@ Transfers from a Greater Sunrise project
 
              (1)  If, in relation to a year of tax, transferable exploration expenditure is transferred from a Greater Sunrise project to a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the other petroleum project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image014.gif)
 
 where:
 
@@ -4230,7 +4286,7 @@ Transfers to a Greater Sunrise project
 
              (2)  If, in relation to a year of tax, transferable exploration expenditure is transferred to a Greater Sunrise project from a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the Greater Sunrise project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image015.gif)
 
 where:
 
@@ -4288,7 +4344,7 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (b)  if the ABR expenditure year is an earlier financial year—work out, in relation to the ABR expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image016.gif)
 
                             where:
 
@@ -4394,7 +4450,7 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (a)  work out, in relation to the GDP expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image017.gif)
 
                             where:
 
@@ -4722,7 +4778,7 @@ In this Part, each of the companies in relation to which there is unused transfe
 
 ##### <a id="29"></a>29  Matters dealt with in this Part
 
-                   This Part sets out the rules relating to the transfer by a loss company of transferable exploration expenditure from a petroleum project or an exploration right to a profit company in relation to a petroleum project and the transfer year. In this Part, the project or right from which the expenditure is transferred is called the **_transferring entity_**and the project in relation to which the expenditure is transferred is called the **_receiving project_.**
+                   This Part sets out the rules relating to the transfer by a loss company of transferable exploration expenditure from a petroleum project or an exploration right to a profit company in relation to a petroleum project and the transfer year. In this Part, the project or right from which the expenditure is transferred is called the **_transferring entity_**and the project in relation to which the expenditure is transferred is called the **_receiving project_.**
 
 Note:          Special rules apply in relation to the transfer of Greater Sunrise exploration expenditure: see Part 1A of this Schedule.
 
@@ -4858,7 +4914,7 @@ the following provisions apply:
 
                      (c)  work out, in relation to the ABR expenditure year and each later financial year ending before the transfer year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image018.gif)
 
                             where:
 
@@ -4878,7 +4934,7 @@ the following provisions apply:
 
                      (a)  work out, in relation to the GDP expenditure year and each later financial year ending before the transfer year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00483/Html/PetResRenTaxAss1987_WD02_image019.gif)
 
                             where:
 
@@ -5687,23 +5743,6 @@ Schedule 3 (item 37): 12 May 2009</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 59, 60): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by subsection 29(1) only of the _Taxation Laws Amendment (Tax File Numbers) Act 1988_, subsection 2(1) of which provides as follows:
@@ -6278,26 +6317,10 @@ _(r)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
 </tr>
 <tr>
   <td>
-    <div>Note to s. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 17</div>
   </td>
   <td>
     <div>am. No. 97, 1988; No. 146, 2001; No. 78, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6310,26 +6333,10 @@ _(r)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 18</div>
   </td>
   <td>
     <div>am. No. 88, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7759,4 +7766,54 @@ If:
 
                               (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
 
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Earl
+                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
+
+                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
+
+then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
+
+## 10  Repeals disregarded for the purposes of dependent provisions
+
+If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
+
+## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
+
+This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+* * *
+
+_Offshore Petroleum Amendment (Greater Sunrise) Act 2007 (No. 49, 2007)_
+
+## Schedule 1
+
+## 97  Regulations
+
+(1)        The Governor-General may make regulations in relation to transitional matters arising out of the amendments made by this Act.
+
+(2)        The Governor-General may make regulations making provision (including provision by way of modification or adaptation of any Act) for or in relation to matters consequential on amendments made by this Act.
+
+(3)        The Governor-General may make regulations that:
+
+                     (a)  in the Minister’s opinion, are necessary or convenient for giving effect to any provision of the Greater Sunrise unitisation agreement; and
+
+                     (b)  are not inconsistent with any amendment made by this Act.
+
+(4)        In this item:
+
+**_Greater_****_Sunrise_****_unitisation agreement_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+* * *
+
+_Tax Laws Amendment (2009 Measures No. 3) Act 2009 (No. 47, 2009)_
+
+## Schedule 3
+
+## 20  Application of amendments
+
+The amendments made by this Part apply in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for years of tax that start on or after 1 July 2009.
+
+## 36  Application of amendments
+
+The amendments made by this Part apply in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for years of tax that start on or after 1 July 2008.
+
+ 
