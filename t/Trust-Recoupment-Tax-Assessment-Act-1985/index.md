@@ -1,8 +1,9 @@
 
 Trust Recoupment Tax Assessment Act 1985 
 Act No. 9 of 1985 as amended
-Consolidated as in force on 1 July 1999
+Consolidated as in force on 1 June 1999
 (includes amendments up to Act No. 11 of 1999)
+This Act has uncommenced amendments For uncommenced amendments, see the endnotes
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 1	Short title [see Note 1]	1
@@ -15,10 +16,12 @@ Contents
 8	Liability to pay trust recoupment tax	23
 9	Reduction of liability where tax paid	24
 10	Right of contribution and apportionment of liability	25
+11	Application of payments [see Note 2]	26
 12	Penalty tax	26
 13	Arrangements etc. to avoid operation of Act	30
 14	Regulations	33
 Notes 		35
+
 An Act relating to the assessment and collection of a tax in respect of income of certain trusts
 Do not delete : Chapter placeholder
 Do not delete : Part placeholder
@@ -281,6 +284,10 @@ the person referred to in paragraph (b) may, in a court of competent jurisdictio
 	(ii)	any other relevant circumstances;
 		determine, on just and equitable grounds, the respective proportions of the amount of the trust recoupment tax that the co-defendants are liable to pay.
 	(3)	In this section trust recoupment tax includes late payment tax and penalty tax.
+11  Application of payments [see Note 2]
+	(1)	No part of any payment made to the Commissioner shall be applied in discharge or reduction of any trust recoupment tax while any late payment tax in respect of that trust recoupment tax remains unpaid.
+	(2)	This section has effect in relation to a payment made to the Commissioner notwithstanding any direction of the person making the payment.
+	(3)	In this section, trust recoupment tax includes applied penalty tax and penalty tax.
 12  Penalty tax
 	(1)	Where:
 	(a)	for the purpose of making an assessment, the Commissioner has calculated the trust recoupment tax that is assessable to a person or persons in relation to a taxable amount, not being a secondary taxable amount arising under subsection 6(3);
@@ -403,13 +410,13 @@ Income Tax  (Consequential Amendments) Act 1997
 Taxation Laws Amendment Act (No. 3) 1999
 11, 1999
 31 Mar 1999
-Schedule 1 (item 395): 1 July 1999 (b)
+Schedule 1 (item 395): 1 July 1999 [see (b) and Note 2]
 —
 
 (a)	The Trust Recoupment Tax Assessment Act 1985 was amended by section 113 only of the Taxation Laws Amendment Act (No. 3) 1991, subsection 2(10) of which provides as follows:
 	(10)	Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation. 
 (b)	The Trust Recoupment Tax Assessment Act 1985 was amended by Schedule 1 (item 395) only of the Taxation Laws Amendment Act (No. 3) 1999, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999. 
+	(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999. [see Note 2]
 
 Table of Amendments
 
@@ -422,7 +429,14 @@ S. 4
 am. No. 216, 1991
 S. 6	
 am. No. 109, 1986; No. 70, 1989
-S. 11	
-rep. No. 11, 1999
+
+Note 2
+The Trust Recoupment Tax Assessment Act 1985 was amended by Schedule 1 (item 395) only of the Taxation Laws Amendment Act (No. 3) 1999. The applicable provision provides as follows:
+Schedule 1
+395  Section 11
+Repeal the section.
+Subsection 2(3) of the Taxation Laws Amendment Act (No. 3) 1999  provides as follows:
+(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999.
+As at 1 June 1999 the amendments are not incorporated in this consolidation.
 
 
