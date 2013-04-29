@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00194/Html/88525e24-113c-4082-9fe9-435bd7c49940_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00006/Html/AdminDecJudRev1977_WD02_image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13A](#13A).       Certain information not required to be disclosed
 
-[14](#14).          Certification by Attorney‑General concerning the disclosure of information
+[14](#14).          Certification by Attorney-General concerning the disclosure of information
 
 [15](#15).          Stay of proceedings—Federal Court
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [17](#17).          Change in person holding, or performing the duties of, an office
 
-[18](#18).          Intervention by Attorney‑General
+[18](#18).          Intervention by Attorney-General
 
 [18A](#18A).       Transfer of proceedings to Family Court
 
@@ -100,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self-Government) Act 1988_.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means an authority or other body (whether incorporated or not) that is established or continued in existence by or under an Act.
 
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 other than:
 
-                     (c)  a decision by the Governor‑General; or
+                     (c)  a decision by the Governor-General; or
 
                      (d)  a decision included in any of the classes of decisions set out in Schedule 1.
 
@@ -126,17 +126,17 @@ Note:          Regulations for the purposes of section 19 ca
 
                               (i)  the _Commonwealth Places (Application of Laws) Act 1970_; or
 
-                             (ii)  the _Northern   Territory__(Self‑Government) Act 1978_; or
+                             (ii)  the _Northern   Territory__(Self-Government) Act 1978_; or
 
                             (iii)  an Act or part of an Act that is not an enactment because of section 3A (certain legislation relating to the ACT); or
 
                      (b)  an Ordinance of a Territory other than the Australian Capital Territory or the Northern Territory; or
 
-                     (c)  an instrument (including rules, regulations or by‑laws) made under such an Act or under such an Ordinance, other than any such instrument that is not an enactment because of section 3A; or
+                     (c)  an instrument (including rules, regulations or by-laws) made under such an Act or under such an Ordinance, other than any such instrument that is not an enactment because of section 3A; or
 
                     (ca)  an Act of a State, the Australian Capital Territory or the Northern Territory, or a part of such an Act, described in Schedule 3; or
 
-                   (cb)  an instrument (including rules, regulations or by‑laws) made under an Act or part of an Act covered by paragraph (ca); or
+                    (cb)  an instrument (including rules, regulations or by-laws) made under an Act or part of an Act covered by paragraph (ca); or
 
                      (d)  any other law, or a part of a law, of the Northern Territory declared by the regulations, in accordance with section 19A, to be an enactment for the purposes of this Act;
 
@@ -151,8 +151,6 @@ Note:          Regulations for the purposes of section 19B c
                     <a name="feral-court-rule"></a>**_Federal Court Rules_** means the Rules of Court made under the _Federal Court of Australia Act 1976_.
 
                     <a name="feral-magistr-rule"></a>**_Federal Magistrates Rules_** means the Rules of Court made under the _Federal Magistrates Act 1999_.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="offic-commonwealth"></a>**_officer of the Commonwealth_** has the same meaning as in paragraph 75(v) of the Constitution.
 
@@ -194,7 +192,7 @@ and a reference to a failure to make a decision shall be construed accordingly.
 
              (5)  A reference in this Act to conduct engaged in for the purpose of making a decision includes a reference to the doing of any act or thing preparatory to the making of the decision, including the taking of evidence or the holding of an inquiry or investigation.
 
-             (6)  A document or a statement that is required by this Act to be furnished to a person or a notice that is required by this Act to be given to a person may be posted to the person by a pre‑paid letter:
+             (6)  A document or a statement that is required by this Act to be furnished to a person or a notice that is required by this Act to be given to a person may be posted to the person by a pre-paid letter:
 
                      (a)  where the person has furnished an address at which documents may be served—to that address; or
 
@@ -206,7 +204,7 @@ and a reference to a failure to make a decision shall be construed accordingly.
 
 and, if a document, statement or notice is so posted, then, for the purposes of this Act, the document or statement shall be deemed to be furnished, or the notice shall be deemed to be given, as the case may be, at the time when the document, statement or notice is so posted.
 
-             (7)  A reference in a Schedule to this Act to another Act (including an Act of a State, the Australian Capital Territory or the Northern Territory) or a provision of another Act shall be read as including a reference to regulations or by‑laws in force under that other Act or for the purposes of that provision, as the case may be.
+             (7)  A reference in a Schedule to this Act to another Act (including an Act of a State, the Australian Capital Territory or the Northern Territory) or a provision of another Act shall be read as including a reference to regulations or by-laws in force under that other Act or for the purposes of that provision, as the case may be.
 
           (7A)  If an Act of a State, the Australian Capital Territory or the Northern Territory, or a part of such an Act, described in Schedule 3 applies all or part of another enactment or instrument as a law of the State or Territory, that other enactment or instrument, as so applying, is taken for the purposes of this Act to be included in the Act, or the part of the Act, of the State or Territory.
 
@@ -236,9 +234,9 @@ and, if a document, statement or notice is so posted, then, for the purposes of 
 
              (1)  ACT enactments are not enactments except to the extent that they are covered by paragraph (ca) or (cb) of the definition of **_enactment_** in subsection 3(1).
 
-             (2)  The _Australian Capital Territory__(Self‑Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
+             (2)  The _Australian Capital Territory__(Self-Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
 
-             (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian Capital Territory__Planning and Land Management Act 1988_ are not enactments.
+             (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian   Capital Territory__Planning and Land Management Act 1988_ are not enactments.
 
              (4)  Where the whole of an Act or Ordinance is not an enactment, an instrument made under it is not an enactment.
 
@@ -344,7 +342,7 @@ and, if a document, statement or notice is so posted, then, for the purposes of 
 
                      (b)  the person proposes to make the decision on the basis of the existence of a particular fact, and that fact does not exist.
 
-##### <a id="7"></a>7  Applications in respect of failures to make decisions
+##### <a id="7"></a>7  Applications in respect of failures to make decisions
 
              (1)  Where:
 
@@ -354,7 +352,7 @@ and, if a document, statement or notice is so posted, then, for the purposes of 
 
                      (c)  the person has failed to make that decision;
 
-a person who is aggrieved by the failure of the first‑mentioned person to make the decision may apply to the Federal Court or the Federal Magistrates Court for an order of review in respect of the failure to make the decision on the ground that there has been unreasonable delay in making the decision.
+a person who is aggrieved by the failure of the first-mentioned person to make the decision may apply to the Federal Court or the Federal Magistrates Court for an order of review in respect of the failure to make the decision on the ground that there has been unreasonable delay in making the decision.
 
              (2)  Where:
 
@@ -364,7 +362,7 @@ a person who is aggrieved by the failure of the first‑mentioned person to make
 
                      (c)  the person failed to make that decision before the expiration of that period;
 
-a person who is aggrieved by the failure of the first‑mentioned person to make the decision within that period may apply to the Federal Court or the Federal Magistrates Court for an order of review in respect of the failure to make the decision within that period on the ground that the first‑mentioned person has a duty to make the decision notwithstanding the expiration of that period.
+a person who is aggrieved by the failure of the first-mentioned person to make the decision within that period may apply to the Federal Court or the Federal Magistrates Court for an order of review in respect of the failure to make the decision within that period on the ground that the first-mentioned person has a duty to make the decision notwithstanding the expiration of that period.
 
 ##### <a id="8"></a>8  Jurisdiction of Federal Court of Australia and Federal Magistrates Court
 
@@ -386,7 +384,7 @@ Note:          See also subsections 3(10), (11) and (12).
 
                      (d)  any other decision given, or any order made, by an officer of the Commonwealth or any other conduct that has been, is being, or is proposed to be, engaged in by an officer of the Commonwealth, including a decision, order or conduct given, made or engaged in, as the case may be, in the exercise of judicial power.
 
-Note:          This subsection has effect subject to the _Jurisdiction of Courts (Cross‑vesting) Act 1987_ and to subsection 1337B(3) of the _Corporations Act 2001_.
+Note:          This subsection has effect subject to the _Jurisdiction of Courts (Cross-vesting) Act 1987_ and to subsection 1337B(3) of the _Corporations Act 2001_.
 
              (2)  In this section:
 
@@ -446,7 +444,7 @@ no court has jurisdiction to hear, continue to hear or determine an application 
 
                              (v)  a decision in connection with an appeal arising out of the prosecution; or
 
-                     (b)  a decision of the Attorney‑General to give a certificate under section 26 or 28 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before or during a federal criminal proceeding (within the meaning of that Act) in relation to the offence.
+                     (b)  a decision of the Attorney-General to give a certificate under section 26 or 28 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before or during a federal criminal proceeding (within the meaning of that Act) in relation to the offence.
 
 Note:          A decision to prosecute a person for an offence is not reviewable under this Act: see paragraph (xa) of Schedule 1.
 
@@ -462,13 +460,13 @@ Note:          A decision to prosecute a person for an offence
 
                     <a name="relat-civil-proceing-decision"></a>**_related civil proceeding decision_**, in relation to a civil proceeding, means:
 
-                     (a)  a decision of the Attorney‑General to give:
+                     (a)  a decision of the Attorney-General to give:
 
                               (i)  notice under section 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ in relation to the proceeding; or
 
                              (ii)  a certificate under section 38F or 38H of that Act in relation to the proceeding; or
 
-                     (b)  a decision of the Minister appointed by the Attorney‑General under section 6A of that Act to give:
+                     (b)  a decision of the Minister appointed by the Attorney-General under section 6A of that Act to give:
 
                               (i)  notice under section 6A of that Act in relation to the proceeding; or
 
@@ -492,7 +490,7 @@ Note:          A decision to prosecute a person for an offence
 
                              (ii)  that adequate provision is made by any law other than this Act under which the applicant is entitled to seek a review by the court, by another court, or by another tribunal, authority or person, of that decision, conduct or failure.
 
-             (3)  In this section, **_review_** includes a review by way of reconsideration, re‑hearing, appeal, the grant of an injunction or of a prerogative or statutory writ or the making of a declaratory or other order.
+             (3)  In this section, **_review_** includes a review by way of reconsideration, re-hearing, appeal, the grant of an injunction or of a prerogative or statutory writ or the making of a declaratory or other order.
 
 ##### <a id="11"></a>11  Manner of making applications
 
@@ -514,13 +512,13 @@ Note:          A decision to prosecute a person for an offence
 
                              (ii)  in the case of an application to the Federal Magistrates Court—Federal Magistrates Rules.
 
-             (3)  The prescribed period for the purposes of paragraph (1)(c) is the period commencing on the day on which the decision is made and ending on the twenty‑eighth day after:
+             (3)  The prescribed period for the purposes of paragraph (1)(c) is the period commencing on the day on which the decision is made and ending on the twenty-eighth day after:
 
                      (a)  if the decision sets out the findings on material questions of fact, refers to the evidence or other material on which those findings were based and gives the reasons for the decision—the day on which a document setting out the terms of the decision is furnished to the applicant; or
 
                      (b)  in a case to which paragraph (a) does not apply:
 
-                              (i)  if a statement in writing setting out those findings, referring to that evidence or other material and giving those reasons is furnished to the applicant otherwise than in pursuance of a request under subsection 13(1) not later than the twenty‑eighth day after the day on which a document setting out the terms of the decision is furnished to the applicant—the day on which the statement is so furnished;
+                              (i)  if a statement in writing setting out those findings, referring to that evidence or other material and giving those reasons is furnished to the applicant otherwise than in pursuance of a request under subsection 13(1) not later than the twenty-eighth day after the day on which a document setting out the terms of the decision is furnished to the applicant—the day on which the statement is so furnished;
 
                              (ii)  if the applicant, in accordance with subsection 13(1), requests the person who made the decision to furnish a statement as mentioned in that subsection—the day on which the statement is furnished, the applicant is notified in accordance with subsection 13(3) of the opinion that the applicant was not entitled to make the request, the Federal Court or the Federal Magistrates Court makes an order under subsection 13(4A) declaring that the applicant was not entitled to make the request or the applicant is notified in accordance with subsection 13A(3) or 14(3) that the statement will not be furnished; or
 
@@ -574,9 +572,9 @@ and may have regard to such other matters as it considers relevant.
 
              (2)  Where such a request is made, the person who made the decision shall, subject to this section, as soon as practicable, and in any event within 28 days, after receiving the request, prepare the statement and furnish it to the person who made the request.
 
-             (3)  Where a person to whom a request is made under subsection (1) is of the opinion that the person who made the request was not entitled to make the request, the first‑mentioned person may, within 28 days after receiving the request:
+             (3)  Where a person to whom a request is made under subsection (1) is of the opinion that the person who made the request was not entitled to make the request, the first-mentioned person may, within 28 days after receiving the request:
 
-                     (a)  give to the second‑mentioned person notice in writing of his or her opinion; or
+                     (a)  give to the second-mentioned person notice in writing of his or her opinion; or
 
                      (b)  apply to the Federal Court or the Federal Magistrates Court under subsection (4A) for an order declaring that the person who made the request was not entitled to make the request.
 
@@ -598,7 +596,7 @@ make an order declaring that the person who made the request concerned was, or w
 
              (5)  A person to whom a request for a statement in relation to a decision is made under subsection (1) may refuse to prepare and furnish the statement if:
 
-                     (a)  in the case of a decision the terms of which were recorded in writing and set out in a document that was furnished to the person who made the request—the request was not made on or before the twenty‑eighth day after the day on which that document was so furnished; or
+                     (a)  in the case of a decision the terms of which were recorded in writing and set out in a document that was furnished to the person who made the request—the request was not made on or before the twenty-eighth day after the day on which that document was so furnished; or
 
                      (b)  in any other case—the request was not made within a reasonable time after the decision was made;
 
@@ -640,9 +638,9 @@ and in any such case the person to whom the request was made shall give to the p
 
              (2)  Where a person has been requested in accordance with subsection 13(1) to furnish a statement to a person:
 
-                     (a)  the first‑mentioned person is not required to include in the statement any information in relation to which this section applies; and
+                     (a)  the first-mentioned person is not required to include in the statement any information in relation to which this section applies; and
 
-                     (b)  where the statement would be false or misleading if it did not include such information—the first‑mentioned person is not required by section 13 to furnish the statement.
+                     (b)  where the statement would be false or misleading if it did not include such information—the first-mentioned person is not required by section 13 to furnish the statement.
 
              (3)  Where, by reason of subsection (2), information is not included in a statement furnished by a person or a statement is not furnished by a person, the person shall give notice in writing to the person who requested the statement:
 
@@ -652,9 +650,9 @@ and in any such case the person to whom the request was made shall give to the p
 
              (4)  Nothing in this section affects the power of the Federal Court or the Federal Magistrates Court to make an order for the discovery of documents or to require the giving of evidence or the production of documents to the court.
 
-##### <a id="14"></a>14  Certification by Attorney‑General concerning the disclosure of information
+##### <a id="14"></a>14  Certification by Attorney-General concerning the disclosure of information
 
-             (1)  If the Attorney‑General certifies, by writing signed by him or her, that the disclosure of information concerning a specified matter would be contrary to the public interest:
+             (1)  If the Attorney-General certifies, by writing signed by him or her, that the disclosure of information concerning a specified matter would be contrary to the public interest:
 
                      (a)  by reason that it would prejudice the security, defence or international relations of Australia;
 
@@ -666,9 +664,9 @@ the following provisions of this section have effect.
 
              (2)  Where a person has been requested in accordance with section 13 to furnish a statement to a person:
 
-                     (a)  the first‑mentioned person is not required to include in the statement any information in respect of which the Attorney‑General has certified in accordance with subsection (1) of this section; and
+                     (a)  the first-mentioned person is not required to include in the statement any information in respect of which the Attorney-General has certified in accordance with subsection (1) of this section; and
 
-                     (b)  where the statement would be false or misleading if it did not include such information—the first‑mentioned person is not required by that section to furnish the statement.
+                     (b)  where the statement would be false or misleading if it did not include such information—the first-mentioned person is not required by that section to furnish the statement.
 
              (3)  Where, by reason of subsection (2), information is not included in a statement furnished by a person or a statement is not furnished by a person, the person shall give notice in writing to the person who requested the statement:
 
@@ -704,7 +702,7 @@ the following provisions of this section have effect.
 
              (3)  In this section:
 
-                    <a name="feral-magistr-court-feral-magistr"></a>**_the Federal Magistrates Court or a Federal Magistrate_** has the same meaning as in the _Federal Magistrates Act 1999_.
+                    <a name="feral-magistr"></a><a name="magistr-court"></a><a name="feral"></a>**_the Federal_****_Magistrates Court_****_or a Federal Magistrate_** has the same meaning as in the _Federal Magistrates Act 1999_.
 
 ##### <a id="16"></a>16  Powers of the Federal Court and the Federal Magistrates Court in respect of applications for order of review
 
@@ -750,15 +748,15 @@ this Act has effect as if the decision had been made by:
 
                               (i)  if the decision was made under an enactment referred to in paragraph (a), (b), (c) or (d) of the definition of **_enactment_** in subsection 3(1)—by the Minister administering that enactment, or by a person he or she authorises for the purpose; or
 
-                             (ii)  if the decision was made under an enactment referred to in paragraph (ca) or (cb) of that definition—by the Attorney‑General, or by a person he or she authorises for the purpose.
+                             (ii)  if the decision was made under an enactment referred to in paragraph (ca) or (cb) of that definition—by the Attorney-General, or by a person he or she authorises for the purpose.
 
-##### <a id="18"></a>18  Intervention by Attorney‑General
+##### <a id="18"></a>18  Intervention by Attorney-General
 
-             (1)  The Attorney‑General may, on behalf of the Commonwealth, intervene in a proceeding before the Federal Court or the Federal Magistrates Court under this Act.
+             (1)  The Attorney-General may, on behalf of the Commonwealth, intervene in a proceeding before the Federal Court or the Federal Magistrates Court under this Act.
 
-             (2)  Where the Attorney‑General intervenes in a proceeding in pursuance of this section, the court may, in the proceeding, make such order as to costs against the Commonwealth as the court thinks fit.
+             (2)  Where the Attorney-General intervenes in a proceeding in pursuance of this section, the court may, in the proceeding, make such order as to costs against the Commonwealth as the court thinks fit.
 
-             (3)  Where the Attorney‑General intervenes in a proceeding in pursuance of this section, he or she shall be deemed to be a party to the proceeding.
+             (3)  Where the Attorney-General intervenes in a proceeding in pursuance of this section, he or she shall be deemed to be a party to the proceeding.
 
 ##### <a id="18A"></a>18A  Transfer of proceedings to Family Court
 
@@ -820,23 +818,23 @@ this Act has effect as if the decision had been made by:
 
 but the making of the regulation does not affect the exclusion by section 9 of the jurisdiction of the courts of the States in relation to such a decision, such conduct or such a failure.
 
-             (3)  Regulations made for the purposes of subsection (1) may specify a class of decisions in any way, whether by reference to the nature or subject‑matter of the decisions, by reference to the enactment or provision of an enactment under which they are made, by reference to the holder of the office by whom they are made, or otherwise.
+             (3)  Regulations made for the purposes of subsection (1) may specify a class of decisions in any way, whether by reference to the nature or subject-matter of the decisions, by reference to the enactment or provision of an enactment under which they are made, by reference to the holder of the office by whom they are made, or otherwise.
 
              (4)  A regulation made in pursuance of subsection (1) applies only in relation to decisions made after the regulation takes effect.
 
 ##### <a id="19A"></a>19A  Act to apply in relation to certain Northern Territory laws
 
-             (1)  The regulations may declare a law, or a part of a law, of the Northern Territory, other than a law, or a part of a law, relating to matters in respect of which the Ministers of the Northern Territory have executive authority under the _Northern Territory__(Self‑Government) Act 1978_, to be an enactment for the purposes of this Act.
+             (1)  The regulations may declare a law, or a part of a law, of the Northern Territory, other than a law, or a part of a law, relating to matters in respect of which the Ministers of the Northern Territory have executive authority under the _Northern Territory__(Self-Government) Act 1978_, to be an enactment for the purposes of this Act.
 
 Note:          Because of paragraphs (ca) and (cb) of the definition of **_enactment_** in subsection 3(1), certain laws of the Northern Territory are enactments without the need for a declaration under this subsection.
 
-             (2)  Regulations made for the purposes of this section have effect notwithstanding anything contained in the law of the Northern Territory concerned or in any other law of the Northern Territory.
+             (2)  Regulations made for the purposes of this section have effect notwithstanding anything contained in the law of the Northern   Territory concerned or in any other law of the Northern Territory.
 
 ##### <a id="19B"></a>19B  Regulations may amend Schedule 3
 
                    The regulations may amend Schedule 3 to include, omit or alter a description of:
 
-                     (a)  an Act of a State, the Australian Capital Territory or the Northern Territory, or a class of such Acts; or
+                     (a)  an Act of a State, the Australian   Capital Territory or the Northern Territory, or a class of such Acts; or
 
                      (b)  a part of such an Act or a class of parts of such Acts.
 
@@ -844,7 +842,7 @@ Note:          Schedule 3 identifies Acts of the States, the
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
 # Schedule 1—Classes of decisions that are not decisions to which this Act applies
 
@@ -862,15 +860,15 @@ _Intelligence Services Act 2001_
 
 _Australian Security Intelligence Organisation Act 1979_
 
-_Inspector‑General of Intelligence and Security Act 1986_
+_Inspector-General of Intelligence and Security Act 1986_
 
 _Telecommunications (Interception and Access) Act 1979_
 
 _Telephonic Communications (Interception) Act 1960_;
 
-         (daa)  decisions of the Attorney‑General under section 58A, or subsection 581(3), of the _Telecommunications Act 1997_;
+         (daa)  decisions of the Attorney-General under section 58A, or subsection 581(3), of the _Telecommunications Act 1997_;
 
-         (dab)  decisions of the Attorney‑General under section 104.2 of the _Criminal Code_;
+         (dab)  decisions of the Attorney-General under section 104.2 of the _Criminal Code_;
 
          (dac)  decisions under Division 105 of the _Criminal Code_;
 
@@ -904,17 +902,17 @@ _Petroleum Resource Rent Tax Assessment Act 1987_
 
 _Superannuation Guarantee (Administration) Act 1992_
 
-_Taxation Administration Act 1953,_but only so far as the decisions are made under Part 3‑10 in Schedule 1 to that Act
+_Taxation Administration Act 1953,_but only so far as the decisions are made under Part 3-10 in Schedule 1 to that Act
 
 _Training Guarantee (Administration) Act 1990_
 
-_Trust Recoupment Tax Assessment Act 1985_;
+_Trust Recoupment Tax Assessment Act 1985;_
 
            (ga)  decisions under section 14ZY of the _Taxation Administration Act 1953_ disallowing objections to assessments or calculations of tax, charge or duty;
 
-         (gaa)  decisions of the Commissioner of Taxation under Subdivision 268‑B or section 268‑35 in Schedule 1 to the _Taxation Administration Act 1953_;
+         (gaa)  decisions of the Commissioner of Taxation under Subdivision 268-B or section 268-35 in Schedule 1 to the _Taxation Administration Act 1953_;
 
-Note:          Subdivision 268‑B and section 268‑35 empower the Commissioner to make, reduce and revoke estimates of certain liabilities.
+Note:          Subdivision 268-B and section 268-35 empower the Commissioner to make, reduce and revoke estimates of certain liabilities.
 
            (gb)  decisions making, or forming part of the process of making, or leading up to the making of, assessments under Division 2 of Part 5 of the _Renewable Energy (Electricity) Act 2000_ or decisions disallowing objections to such assessments or decisions amending or refusing to amend such assessments;
 
@@ -928,9 +926,9 @@ Note:          Subdivision 268‑B and section 268‑35 em
 
                       (i)  whether persons are covered by determinations under section 62ZZ of that Act;
 
-                     (ii)  determinations under subsection 62ZZJ(2) of that Act;
+                      (ii)  determinations under subsection 62ZZJ(2) of that Act;
 
-           (hd)  decisions under Subdivision C of Division 2AA of Part II of the _Banking Act 1959_, except so far as they relate to whether account‑holders have protected accounts with ADIs;
+           (hd)  decisions under Subdivision C of Division 2AA of Part II of the _Banking Act 1959_, except so far as they relate to whether account-holders have protected accounts with ADIs;
 
               (j)  decisions, or decisions included in a class of decisions, under the Banking (Foreign Exchange) Regulations in respect of which the Treasurer has certified, by instrument in writing, that the decision or any decision included in the class, as the case may be, is a decision giving effect to the foreign investment policy of the Commonwealth Government;
 
@@ -938,11 +936,11 @@ Note:          Subdivision 268‑B and section 268‑35 em
 
              (o)  decisions under the _Defence Force Discipline Act 1982_;
 
-             (p)  decisions under section 42 of the _Customs Act 1901_ to require and take securities in respect of duty that may be payable under the _Customs Tariff (Anti‑Dumping) Act 1975_;
+             (p)  decisions under section 42 of the _Customs Act 1901_ to require and take securities in respect of duty that may be payable under the _Customs Tariff (Anti-Dumping) Act 1975_;
 
              (q)  decisions under subsection 25(1) or Part IIIA of the _Commonwealth Electoral Act 191_ 8;
 
-           (qa)  decisions under section 176 or 248 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_;
+           (qa)  decisions under section 176 or 248 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_;
 
              (r)  decisions under the _Extradition Act 1988_;
 
@@ -966,13 +964,13 @@ Note:          Subdivision 268‑B and section 268‑35 em
 
 Note:          An application under this Act in relation to other criminal justice process decisions cannot be heard or determined in certain circumstances: see section 9A.
 
-           (xb)  decisions of the Attorney‑General under Part II or III of the _Transfer of Prisoners Act 1983_ refusing applications or requests, or refusing to give consent, on the ground that, or on grounds that include the ground that, refusal is necessary in the interests of security (within the meaning of that Act);
+           (xb)  decisions of the Attorney-General under Part II or III of the _Transfer of Prisoners Act 1983_ refusing applications or requests, or refusing to give consent, on the ground that, or on grounds that include the ground that, refusal is necessary in the interests of security (within the meaning of that Act);
 
-           (xc)  decisions of the Attorney‑General under Part IV of the _Transfer of Prisoners Act 1983_;
+           (xc)  decisions of the Attorney-General under Part IV of the _Transfer of Prisoners Act 1983_;
 
              (y)  decisions of the Administrative Appeals Tribunal (other than decisions made on review of decisions of the Australian Archives) made on a review that is required by the _Administrative Appeals Tribunal Act 1975_ to be conducted by the Security Appeals Division of that Tribunal;
 
-           (ya)  decisions of the DPP or an approved examiner under Part 3‑1 of the _Proceeds of Crime Act 2002_;
+           (ya)  decisions of the DPP or an approved examiner under Part 3-1 of the _Proceeds of Crime Act 2002_;
 
            (yb)  decisions of the DPP to apply for an order under the _Proceeds of Crime Act 2002_;
 
@@ -986,15 +984,15 @@ Note:          An application under this Act in relation to ot
 
                       (i)  decisions of the Chief Judge or the Deputy Chief Judge in the exercise of, or in assisting in the exercise of, the functions or powers mentioned in subsection 21B(1A) of that Act;
 
-                     (ii)  decisions of the Chief Judge or the Attorney‑General whether to consent as mentioned in paragraph 22(2AAA)(a) of that Act;
+                      (ii)  decisions of the Chief Judge or the Attorney-General whether to consent as mentioned in paragraph 22(2AAA)(a) of that Act;
 
            (ze)  the following decisions under the _Federal Court of Australia Act 1976_:
 
                       (i)  decisions of the Chief Justice in the exercise of the functions or powers mentioned in subsection 15(1AA) of that Act;
 
-                     (ii)  decisions of the Chief Justice or the Attorney‑General whether to consent as mentioned in paragraph 6(3)(a) of that Act;
+                      (ii)  decisions of the Chief Justice or the Attorney-General whether to consent as mentioned in paragraph 6(3)(a) of that Act;
 
-           (zf)  decisions of the Chief Federal Magistrate in the exercise of the functions or powers mentioned in subsection 12(3) or (4) of the _Federal Magistrates Act 1999_.
+            (zf)  decisions of the Chief Federal Magistrate in the exercise of the functions or powers mentioned in subsection 12(3) or (4) of the _Federal Magistrates Act 1999_.
 
 # Schedule 2—Classes of decisions that are not decisions to which section 13 applies
 
@@ -1010,7 +1008,7 @@ _Consular Privileges and Immunities Act 1972_
 
 _Diplomatic Privileges and Immunities Act 1967_
 
-_International Organisations (Privileges and Immunities) Act 1963_;
+_International Organisations (Privileges and Immunities) Act 1963;_
 
              (d)  decisions under the _Migration Act 1958_, being:
 
@@ -1020,23 +1018,23 @@ _International Organisations (Privileges and Immunities) Act 1963_;
 
                             (B)  a decision relating to a person who, having entered Australia within the meaning of that Act, was in Australia at the time of the decision;
 
-                     (ii)  decisions in connection with the issue or cancellation of visas;
+                      (ii)  decisions in connection with the issue or cancellation of visas;
 
-                    (iii)  decisions whether a person is a person referred to in paragraph (b) of the definition of **_exempt non‑citizen_**in subsection 5(1) of that Act; or
+                     (iii)  decisions whether a person is a person referred to in paragraph (b) of the definition of **_exempt non-citizen_**in subsection 5(1) of that Act; or
 
-                    (iv)  decisions relating to a person who, having entered Australia as a diplomatic or consular representative of another country, a member of the staff of such a representative or the spouse, de facto partner or a dependent relative of such a representative, was in Australia at the time of the decision (for the purposes of this subparagraph, **_enter Australia_**, **_spouse_**, **_de facto partner_** and relative have the same meanings as in that Act);
+                     (iv)  decisions relating to a person who, having entered Australia as a diplomatic or consular representative of another country, a member of the staff of such a representative or the spouse, de facto partner or a dependent relative of such a representative, was in Australia at the time of the decision (for the purposes of this subparagraph, **_enter Australia_**, **_spouse_**, **_de facto partner_** and relative have the same meanings as in that Act);
 
-           (da)  decisions of the Attorney‑General to give:
+           (da)  decisions of the Attorney-General to give:
 
                       (i)  notice under section 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_; or
 
-                     (ii)  a certificate under section 26, 28, 38F or 38H of that Act;
+                      (ii)  a certificate under section 26, 28, 38F or 38H of that Act;
 
-(db)  decisions of the Minister appointed by the Attorney‑General under section 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ to give:
+(db)  decisions of the Minister appointed by the Attorney-General under section 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ to give:
 
                       (i)  notice under section 6A of that Act; or
 
-                     (ii)  a certificate under section 38F or 38H of that Act;
+                      (ii)  a certificate under section 38F or 38H of that Act;
 
            (dc)  decisions under subsection 8(4) or 9(4) of the _Parliamentary Joint Committee on Law Enforcement Act 2010_;
 
@@ -1044,11 +1042,11 @@ _International Organisations (Privileges and Immunities) Act 1963_;
 
                       (i)  decisions in connection with the investigation, committal for trial or prosecution of persons for any offences against a law of the Commonwealth or of a Territory;
 
-                     (ii)  decisions in connection with the appointment of investigators or inspectors for the purposes of such investigations;
+                      (ii)  decisions in connection with the appointment of investigators or inspectors for the purposes of such investigations;
 
-                    (iii)  decisions in connection with the issue of warrants, including search warrants and seizure warrants, under a law of the Commonwealth or of a Territory;
+                     (iii)  decisions in connection with the issue of warrants, including search warrants and seizure warrants, under a law of the Commonwealth or of a Territory;
 
-                    (iv)  decisions under a law of the Commonwealth or of a Territory requiring the production of documents, the giving of information or the summoning of persons as witnesses;
+                     (iv)  decisions under a law of the Commonwealth or of a Territory requiring the production of documents, the giving of information or the summoning of persons as witnesses;
 
                      (v)  decisions in connection with an appeal (including an application for a new trial or a proceeding to review or call in question the proceedings, decision or jurisdiction of a court or judge) arising out of the prosecution of persons for any offences against a law of the Commonwealth or of a Territory;
 
@@ -1056,25 +1054,25 @@ _International Organisations (Privileges and Immunities) Act 1963_;
 
                       (i)  decisions in connection with a corruption investigation (within the meaning of that Act); or
 
-                     (ii)  decisions in connection with a public inquiry (within the meaning of that Act);
+                      (ii)  decisions in connection with a public inquiry (within the meaning of that Act);
 
            (ea)  decisions under the _Australian Crime Commission Act 2002_ being:
 
                       (i)  decisions in connection with intelligence operations; or
 
-                     (ii)  decisions in connection with investigations of State offences that have a federal aspect;
+                      (ii)  decisions in connection with investigations of State offences that have a federal aspect;
 
              (f)  decisions in connection with the institution or conduct of proceedings in a civil court, including decisions that relate to, or may result in, the bringing of such proceedings for the recovery of pecuniary penalties arising from contraventions of enactments, and, in particular:
 
                       (i)  decisions in connection with the investigation of persons for such contraventions;
 
-                     (ii)  decisions in connection with the appointment of investigators or inspectors for the purposes of such investigations;
+                      (ii)  decisions in connection with the appointment of investigators or inspectors for the purposes of such investigations;
 
-                    (iii)  decisions in connection with the issue of search warrants or seizure warrants issued under Division 1 of Part XII of the _Customs Act 1901_ under enactments; and
+                     (iii)  decisions in connection with the issue of search warrants or seizure warrants issued under Division 1 of Part XII of the _Customs Act 1901_ under enactments; and
 
-                    (iv)  decisions under enactments requiring the production of documents, the giving of information or the summoning of persons as witnesses;
+                     (iv)  decisions under enactments requiring the production of documents, the giving of information or the summoning of persons as witnesses;
 
-             (g)  decisions of the Finance Minister to issue sums out of the Consolidated Revenue Fund under an Act to appropriate moneys out of that Fund for the service of, or for expenditure in respect of, any year;
+             (g)  decisions of the Minister for Finance to issue sums out of the Consolidated Revenue Fund under an Act to appropriate moneys out of that Fund for the service of, or for expenditure in respect of, any year;
 
              (h)  decisions under section 27 of the _Financial Management and Accountability Act 1997_;
 
@@ -1096,7 +1094,7 @@ Australian Honey Board
 
 Australian Industry Development Corporation
 
-Australian Meat and Live‑stock Corporation
+Australian Meat and Live-stock Corporation
 
 Australian Wheat Board
 
@@ -1118,7 +1116,7 @@ Indigenous Business Australia;
 
                       (i)  relate to aircraft design, the construction or maintenance of aircraft or the safe operation of aircraft or otherwise relate to aviation safety; and
 
-                     (ii)  arise out of findings on material questions of fact based on evidence, or other material:
+                      (ii)  arise out of findings on material questions of fact based on evidence, or other material:
 
                             (A)  that was supplied in confidence; or
 
@@ -1132,9 +1130,9 @@ Indigenous Business Australia;
 
                       (i)  the making of appointments in the Australian Public Service or any other Service established by an enactment or to the staff of a Commonwealth authority;
 
-                     (ii)  the engagement of persons as employees under the _Public Service Act 1999_ or under any other enactment that establishes a Service or by a Commonwealth authority; or
+                      (ii)  the engagement of persons as employees under the _Public Service Act 1999_ or under any other enactment that establishes a Service or by a Commonwealth authority; or
 
-                    (iii)  the making of appointments under an enactment or to an office established by, or under, an enactment;
+                     (iii)  the making of appointments under an enactment or to an office established by, or under, an enactment;
 
              (u)  decisions in connection with industrial matters, in respect of the Australian Public Service or any other Service established by an enactment or the staff of a Commonwealth authority;
 
@@ -1144,7 +1142,7 @@ Indigenous Business Australia;
 
                       (i)  engaging, or terminating engagements of, consultants; or
 
-                     (ii)  employing, or terminating the employment of, staff;
+                      (ii)  employing, or terminating the employment of, staff;
 
 under the _Members of Parliament (Staff) Act 1984_;
 
@@ -1170,15 +1168,17 @@ Note:          This Schedule can be amended by the regulations
 
                      (a)  an Act of a State, the Australian Capital Territory or the Northern Territory that applies, as a law of the State or Territory, the Code set out in the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ of the Commonwealth;
 
-                     (d)  the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia as in force from time to time, as that Law applies as a law of South Australia;
+                     (d)  the National Gas Law set out in the Schedule to the _National Gas (__South Australia__) Act 2008_ of South Australia as in force from time to time, as that Law applies as a law of South Australia;
 
                   (daa)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia, as in force from time to time, as a law of that other State or of that Territory—the National Gas Law as so applied;
 
-                 (dab)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time, as that Law applies as a law of Western Australia;
+                  (dab)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time, as that Law applies as a law of Western Australia;
 
-                   (da)  the _National Electricity (South Australia) Act 1996_ of South Australia, or an Act of another State or of the Australian Capital Territory or the Northern Territory that applies the Schedule to that South Australian Act as a law of that other State or of that Territory;
+                    (da)  the _National Electricity (South Australia) Act 1996_ of South Australia, or an Act of another State or of the Australian Capital Territory or the Northern Territory that applies the Schedule to that South Australian Act as a law of that other State or of that Territory;
 
                      (e)  an Act of a State, the Australian Capital Territory or the Northern Territory that applies, as a law of the State or Territory, the text set out in Part 1 of Schedule 1 to the _Competition and Consumer Act 2010_ of the Commonwealth (which forms part of what is commonly known as the Competition Code);
+
+                      (f)  an Act of a State, the Australian Capital Territory or the Northern Territory that applies, as a law of the State or Territory, the text set out in Part 2 of Schedule 1 to the _Competition and Consumer Act 2010_ of the Commonwealth (which forms part of what is commonly known as the New Tax System Price Exploitation Code);
 
                     (fa)  an Act of a State, the Australian Capital Territory or the Northern Territory that applies Schedule 2 to the _Competition and Consumer Act 2010_ as a law of the State or Territory;
 
@@ -1186,7 +1186,7 @@ Note:          This Schedule can be amended by the regulations
 
                      (h)  the _Petroleum (Submerged Lands) Act 1982_ of Queensland;
 
-                   (ha)  the _Petroleum (Submerged Lands) Act 1982_ of Western Australia;
+                    (ha)  the _Petroleum (Submerged Lands) Act 1982_ of Western Australia;
 
                       (i)  the _Petroleum (Submerged Lands) Act 1982_ of Tasmania;
 
@@ -1347,7 +1347,7 @@ Remainder: 1 Jan 1983 ( <i>see</i>s. 2(2) and <i>Gazette</i>1982, No. S274, p. 3
 </tr>
 <tr>
   <td>
-    <div>Customs Securities (Anti‑Dumping) Amendment Act 1982</div>
+    <div>Customs Securities (Anti-Dumping) Amendment Act 1982</div>
   </td>
   <td>
     <div>137, 1982</div>
@@ -1807,7 +1807,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -2898,7 +2898,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑terrorism Act (No. 2) 2004</div>
+    <div>Anti-terrorism Act (No. 2) 2004</div>
   </td>
   <td>
     <div>124, 2004</div>
@@ -3040,7 +3040,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Terrorism Act (No. 2) 2005</div>
+    <div>Anti-Terrorism Act (No. 2) 2005</div>
   </td>
   <td>
     <div>144, 2005</div>
@@ -3075,7 +3075,7 @@ Schedule 4 (item 25): 15 Dec 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Sports Anti‑Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
+    <div>Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
   </td>
   <td>
     <div>7, 2006</div>
@@ -3264,7 +3264,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -3315,7 +3315,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007</div>
   </td>
   <td>
     <div>52, 2007</div>
@@ -3383,7 +3383,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -3584,31 +3584,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 2): Royal Assent 
-Schedule 5 (items 1, 2): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 89 only of the _Public Service Acts Amendment Act 1982_, subsection 2(4) of which provides as follows:
 
                  (4)   The remaining provisions of this Act shall come into operation on such date as is, or on such respective dates as are, fixed by Proclamation.
 
-_(b)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Part XIV (sections 115 and 116) only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows:
+_(b)_    The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Part XIV (sections 115 and 116) only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows:
 
                  (2)   Section 1, this section and sections 16, 17, 18, 19 and 120 and Part XIV shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -3634,7 +3616,7 @@ _(g)_     The _Family Court of Australia (Additional Jurisdiction and Ex
 
                  (6)   Part XI shall be taken to have commenced on 5 April 1988.
 
-_(h)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(h)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -3676,7 +3658,7 @@ _(q)_     The _Qantas Sale Act 1992_ was amended by the Schedule (item�
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(r)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_, subsection 2(2) of which provides as follows:
+_(r)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_, subsection 2(2) of which provides as follows:
 
                  (2)   Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.
 
@@ -3684,9 +3666,9 @@ _(s)_     The _Administrative Decisions (Judicial Review) Act 1977_ was 
 
                  (5)   Schedules 2 and 3, items 1, 26 to 45, 49 to 53 and 56 and 67 of Schedule 4, Schedule 6, items 6 to 11 of Schedule 7 and Schedules 8 and 10 commence on 1 July 1995.
 
-_(t)_      The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
+_(t)_      The _ANL__Sale__Act 1995_ was repealed by section 79 of that Act before coming into operation.
 
-_(u)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Schedule (item 1) only of the _Commonwealth Bank Sale Act 1995_, subsection 2(6) of which provides as follows:
+_(u)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Schedule (item 1) only of the _Commonwealth Bank__Sale__Act 1995_, subsection 2(6) of which provides as follows:
 
                  (6)   Items 1 and 48 of the Schedule commence on the 10th anniversary of the day on which the transfer time occurs. 
 
@@ -3716,11 +3698,11 @@ _(z)_ The _Income Tax (Consequential Amendments) Act 1997_ was amended by Schedu
 
                  (2)   Schedule 8 is taken to have commenced immediately before 1 July 1997.
 
-_(za)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 1) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
+_(za)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 1) only of the _AIDC__Sale__Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities. [_see_ Note 2]
+                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor-General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities. [_see_ Note 2]
 
-_(zb)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 4 (item 1) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(5) of which provides as follows:
+_(zb)_  The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 4 (item 1) only of the _Australian National Railways Commission__Sale__Act 1997_, subsection 2(5) of which provides as follows:
 
                  (5)   The remaining items of Schedule 3 and Schedule 4 commence on a day to be fixed by Proclamation. The day must not be earlier than the later of the day proclaimed for the purposes of subsection (2) and the day proclaimed for the purposes of subsection (3). 
 
@@ -4139,7 +4121,7 @@ _(zs)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Am
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 66, 1978; No. 111, 1980; No. 153, 1982; Nos. 8 and 109, 1988; No. 196, 1992; No. 43, 1996; No. 194, 1999; Nos. 57 and 161, 2000; No. 55, 2001; No. 5, 2011</div>
+    <div>am. No. 66, 1978; No. 111, 1980; No. 153, 1982; Nos. 8 and 109, 1988; No. 196, 1992; No. 43, 1996; No. 194, 1999; Nos. 57 and 161, 2000; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4443,7 +4425,7 @@ _(zs)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Am
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 1982; No. 144, 1983; Nos. 76, 159 and 164, 1984; No. 153, 1986; No. 141, 1987; Nos. 5, 63, 111 and 127, 1988; Nos. 150, 153 and 159, 1989; Nos. 77 and 118, 1990; No. 149, 1991; No. 196, 1992; No. 85, 1995; Nos. 96, 150 and 152, 1997; No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); Nos. 9, 57 and 172, 2000; No. 32, 2003; Nos. 30, 62 and 151, 2004; Nos. 89 and 111, 2005; SLI 2006 No. 50; No. 86, 2006; No. 144, 2008; No. 127, 2010; No. 5, 2011</div>
+    <div>am. No. 111, 1982; No. 144, 1983; Nos. 76, 159 and 164, 1984; No. 153, 1986; No. 141, 1987; Nos. 5, 63, 111 and 127, 1988; Nos. 150, 153 and 159, 1989; Nos. 77 and 118, 1990; No. 149, 1991; No. 196, 1992; No. 85, 1995; Nos. 96, 150 and 152, 1997; No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); Nos. 9, 57 and 172, 2000; No. 32, 2003; Nos. 30, 62 and 151, 2004; Nos. 89 and 111, 2005; SLI 2006 No. 50; No. 86, 2006; No. 144, 2008; No. 127, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4459,13 +4441,13 @@ _(zs)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Am
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 108, 2004; Nos. 7, 17 and 60, 2006; No. 45, 2007; No. 60, 2008; Nos. 17 and 102, 2009; Nos. 44 and 103, 2010; No. 5, 2011</div>
+    <div>am. No. 55, 2001; No. 108, 2004; Nos. 7, 17 and 60, 2006; No. 45, 2007; No. 60, 2008; Nos. 17 and 102, 2009; Nos. 44 and 103, 2010</div>
   </td>
 </tr></table>
 
 ### Note 2
 
-_AIDC   Sale Act 1997 (No. 67, 1997)_
+_AIDC Sale Act 1997 (No. 67, 1997)_
 
 The following amendment commences on proclamation:
 
@@ -4475,7 +4457,7 @@ The following amendment commences on proclamation:
 
 Omit “Australian Industry Development Corporation”.
 
-As at 19 April 2011 the amendment is not incorporated in this compilation.
+As at 1 January 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4537,9 +4519,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -4551,7 +4533,7 @@ _Jurisdiction of Courts Legislation Amendment Act 2000 (No. 57, 2000)_
 
 Definitions
 
-(1)       In this item:
+(1)        In this item:
 
 **_amended Act_** means the _Administrative Decisions (Judicial Review) Act 1977_ as in force after the commencement.
 
@@ -4567,11 +4549,11 @@ Definitions
 
                      (a)  to which the amended Act applies because of the application of paragraph (b) of the definition of **_decision to which this Act applies_** in subsection 3(1) of that Act; and
 
-                     (b)  that was made under a law of the Australian Capital Territory or the Northern Territory.
+                     (b)  that was made under a law of the Australian   Capital Territory or the Northern Territory.
 
 Reviewable State decisions made before the commencement—situations in which period for seeking review under amended Act is extended
 
-(2)       In each of the following situations, the amended Act applies in relation to a person and a reviewable State decision as if the prescribed period for the purposes of paragraph 11(1)(c) of that Act began on the commencement and ended on the later of the 28th day after the commencement and the day on which that prescribed period would, apart from this subitem, have ended:
+(2)        In each of the following situations, the amended Act applies in relation to a person and a reviewable State decision as if the prescribed period for the purposes of paragraph 11(1)(c) of that Act began on the commencement and ended on the later of the 28th day after the commencement and the day on which that prescribed period would, apart from this subitem, have ended:
 
                      (a)  the first situation—the decision was made during the period starting on 20 May 1999 and ending immediately before the commencement;
 
@@ -4583,23 +4565,23 @@ _Note:       The power under paragraph 11(1)(c) of the amended Act t
 
 Reviewable Territory decisions—ACT and NT laws no longer operate to apply the AD(JR) Act
 
-(3)       A law of the Australian Capital Territory or the Northern Territory that provides for the application of the _Administrative Decisions (Judicial Review) Act 1977_ as a law of that Territory is of no effect at any time after the commencement so far as that law purports to apply that Act in relation to a reviewable Territory decision (whenever it was made).
+(3)        A law of the Australian Capital Territory or the Northern Territory that provides for the application of the _Administrative Decisions (Judicial Review) Act 1977_ as a law of that Territory is of no effect at any time after the commencement so far as that law purports to apply that Act in relation to a reviewable Territory decision (whenever it was made).
 
 _Note:       The amended Act applies to these decisions._
 
 Reviewable Territory decisions—review proceedings continue after the commencement under the amended Act
 
-(4)       If, immediately before the commencement, proceedings in relation to a reviewable Territory decision were before a court under the _Administrative Decisions (Judicial Review) Act 1977_ as applying as a law of the Australian Capital Territory or the Northern Territory, then, on and after the commencement, those proceedings continue as if they had been commenced in that court under the amended Act.
+(4)        If, immediately before the commencement, proceedings in relation to a reviewable Territory decision were before a court under the _Administrative Decisions (Judicial Review) Act 1977_ as applying as a law of the Australian Capital Territory or the Northern Territory, then, on and after the commencement, those proceedings continue as if they had been commenced in that court under the amended Act.
 
 Reviewable Territory decisions—continued effect of orders made before the commencement
 
-(5)       An order made by a court before the commencement under the _Administrative Decisions (Judicial Review) Act 1977_ as applying as a law of the Australian Capital Territory or the Northern Territory has effect, on and after the commencement, as if it had been made by that court under the amended Act.
+(5)        An order made by a court before the commencement under the _Administrative Decisions (Judicial Review) Act 1977_ as applying as a law of the Australian Capital Territory or the Northern Territory has effect, on and after the commencement, as if it had been made by that court under the amended Act.
 
 ## Schedule 2
 
 ## 16  Application of amendments
 
-(1)       In this item:
+(1)        In this item:
 
 **_commencement_** means the commencement of the amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule.
 
@@ -4611,7 +4593,7 @@ Reviewable Territory decisions—continued effect of orders made before the comm
 
                      (c)  section 39B of the _Judiciary Act 1903_.
 
-(2)       The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule apply in relation to:
+(2)        The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule apply in relation to:
 
                      (a)  a decision made on or after the commencement to prosecute a person for an offence, even if the conduct alleged to give rise to the offence occurred before the commencement; or
 
@@ -4621,7 +4603,7 @@ Reviewable Territory decisions—continued effect of orders made before the comm
 
                              (ii)  the prosecution of the offence, or an appeal arising out of the prosecution, was commenced before the commencement.
 
-(3)       The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule also apply in relation to:
+(3)        The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule also apply in relation to:
 
                      (a)  a decision made before the commencement to prosecute a person for an offence, unless that decision is the subject of an application that is before a court at 13 April 2000; or
 
@@ -4633,7 +4615,7 @@ _Jurisdiction of Courts (Miscellaneous Amendments) Act 2000 (No. 161, 2000)_
 
 ## Schedule 1
 
-## 16  Pre‑commencement jurisdiction of the Federal Magistrates Court
+## 16  Pre-commencement jurisdiction of the Federal Magistrates   Court
 
 The enactment of this Schedule does not imply that the Parliament did not intend that the Federal Magistrates Court was to have jurisdiction, at a time before the commencement of this item, to hear and determine:
 
@@ -4641,7 +4623,7 @@ The enactment of this Schedule does not imply that the Parliament did not intend
 
                      (b)  a proceeding arising under the _Family Law Act 1975_ that was transferred to the Federal Magistrates Court under section 33B of the _Family Law Act 1975_.
 
-## 17  Pre‑commencement jurisdiction of the Federal Court
+## 17  Pre-commencement jurisdiction of the Federal Court
 
 The enactment of this Schedule does not imply that the Parliament did not intend that the Federal Court was to have jurisdiction, at a time before the commencement of this item, to hear and determine a proceeding arising under the _Administrative Decisions (Judicial Review) Act 1977_ that was transferred to the Federal Court under Part 5 of the _Federal Magistrates Act 1999_.
 
@@ -4653,9 +4635,9 @@ _Migration Legislation Amendment (Judicial Review) Act 2001 (No. 134, 2001)_
 
 ## 8  Application
 
-(1)       If an application for judicial review of a decision under the _Migration Act 1958_ is lodged before the commencement of this Schedule, the _Migration Act 1958_, the _Administrative Appeals Tribunal Act 1975_ and the _Administrative Decisions (Judicial Review) Act 1977_, as in force immediately before that commencement, apply in respect of the application, and in respect of the review, as if this Schedule had not been enacted.
+(1)        If an application for judicial review of a decision under the _Migration Act 1958_ is lodged before the commencement of this Schedule, the _Migration Act 1958_, the _Administrative Appeals Tribunal Act 1975_ and the _Administrative Decisions (Judicial Review) Act 1977_, as in force immediately before that commencement, apply in respect of the application, and in respect of the review, as if this Schedule had not been enacted.
 
-(2)       The _Migration Act 1958_ and the _Administrative Decisions (Judicial Review) Act 1977_, as amended by this Schedule, apply in respect of judicial review of a decision under the _Migration Act 1958_ if:
+(2)        The _Migration Act 1958_ and the _Administrative Decisions (Judicial Review) Act 1977_, as amended by this Schedule, apply in respect of judicial review of a decision under the _Migration Act 1958_ if:
 
                      (a)  the decision was made on or after the commencement of this Schedule; or
 
@@ -4665,7 +4647,7 @@ _Migration Legislation Amendment (Judicial Review) Act 2001 (No. 134, 2001)_
 
                              (ii)  as at that commencement, an application for judicial review of the decision had not been lodged.
 
-(3)       A reference in subitem (1) or (2) to an application for judicial review of a decision is a reference to:
+(3)        A reference in subitem (1) or (2) to an application for judicial review of a decision is a reference to:
 
                      (a)  an application for review of the decision under:
 
@@ -4687,7 +4669,7 @@ _Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
 
 ##### <a id="4"></a>4  Regulations
 
-                   The Governor‑General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
+                   The Governor-General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
 
 * * *
 
@@ -4697,7 +4679,7 @@ _Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001 
 
 ## 6  Application of amendments
 
-(2)       The amendments of the _Administrative Decisions (Judicial Review) Act 1977_ made by items 2, 3, 4 and 5 apply in relation to a decision made on or after the commencement of this item.
+(2)        The amendments of the _Administrative Decisions (Judicial Review) Act 1977_ made by items 2, 3, 4 and 5 apply in relation to a decision made on or after the commencement of this item.
 
 * * *
 
@@ -4715,11 +4697,11 @@ Section 119 of the _Dairy Produce Act 1986_ as in force before the commencemen
 
 ## 129  Final annual reports
 
-(1)       For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
+(1)        For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
 
-(2)       For the purposes of this item, the final reporting period is to be treated as a financial year.
+(2)        For the purposes of this item, the final reporting period is to be treated as a financial year.
 
-(3)       In this item:
+(3)        In this item:
 
 **_final reporting period_** means the period that:
 
@@ -4759,7 +4741,7 @@ Securities lending arrangements
 
                      (b)  the Commonwealth may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed share from the borrower at a later time; or
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
 
                              (ii)  acquire an identical share from the borrower at a later time;
 
@@ -4779,7 +4761,7 @@ Definitions
 
              (7)  In this section:
 
-                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid‑security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
+                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid-security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
                     <a name="commun-fund"></a>**_Communications Fund_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
@@ -4787,7 +4769,7 @@ Definitions
 
                     <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid‑security issuer company.
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
                     <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
@@ -4825,9 +4807,9 @@ Where proceedings are commenced on or after the commencement day in relation to 
 
 * * *
 
-_Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
+_Anti-Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
-##### <a id="4"></a>4  Review of anti‑terrorism laws
+##### <a id="4"></a>4  Review of anti-terrorism laws
 
              (1)  The Council of Australian Governments agreed on 27 September 2005 that the Council would, after 5 years, review the operation of:
 
@@ -4835,7 +4817,7 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
                      (b)  certain State laws.
 
-             (2)  If a copy of the report in relation to the review is given to the Attorney‑General, the Attorney‑General must cause a copy of the report to be laid before each House of Parliament within 15 sitting days after the Attorney‑General receives the copy of the report.
+             (2)  If a copy of the report in relation to the review is given to the Attorney-General, the Attorney-General must cause a copy of the report to be laid before each House of Parliament within 15 sitting days after the Attorney-General receives the copy of the report.
 
 * * *
 
@@ -4880,17 +4862,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -4924,15 +4906,15 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 
 * * *
 
-_Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007 (No. 52, 2007)_
+_Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007 (No. 52, 2007)_
 
 ## Schedule 1
 
-## 65  Judicial review of decisions made under the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_
+## 65  Judicial review of decisions made under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_
 
-(1)       The amendment of paragraph (qa) of Schedule 1 to the _Administrative Decisions (Judicial Review) Act 1977_ made by this Schedule applies in relation to a decision made before, at or after the commencement of this item.
+(1)        The amendment of paragraph (qa) of Schedule 1 to the _Administrative Decisions (Judicial Review) Act 1977_ made by this Schedule applies in relation to a decision made before, at or after the commencement of this item.
 
-(2)       If, apart from this subitem, the prescribed period for the purposes of the application of paragraph 11(1)(c) of the _Administrative Decisions (Judicial Review) Act 1977_ to a decision made under the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ before the commencement of this item would end before that commencement, that prescribed period is taken, for those purposes, to be the period:
+(2)        If, apart from this subitem, the prescribed period for the purposes of the application of paragraph 11(1)(c) of the _Administrative Decisions (Judicial Review) Act 1977_ to a decision made under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ before the commencement of this item would end before that commencement, that prescribed period is taken, for those purposes, to be the period:
 
                      (a)  beginning on the day on which the decision was made; and
 
@@ -4950,7 +4932,7 @@ The amendments made by this Schedule apply to disclosures of information made on
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 2
 
