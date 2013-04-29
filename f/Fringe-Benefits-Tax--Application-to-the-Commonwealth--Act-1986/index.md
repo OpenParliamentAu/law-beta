@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00191/Html/748d9de5-0946-4d7b-bb93-47c0ed1c85be_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00786/Html/0798eb22-16be-4146-8460-ed0ad684eee4_files/image001.gif)
 
 # Fringe Benefits Tax (Application to the Commonwealth) Act 1986
 
 **Act No. 42 of 1986 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 27 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Application of Assessment Act in relation to Commonwealth employment
 
-                   Subject to this Act and to such modifications as are prescribed, the Assessment Act applies, in respect of any matter or thing in respect of the employment of a Commonwealth employee, as if:
+             (1)  Subject to this Act and to such modifications as are prescribed, the Assessment Act applies, in respect of any matter or thing in respect of the employment of a Commonwealth employee, as if:
 
                      (a)  the employee were employed by the responsible Department and not by the Commonwealth;
 
@@ -120,9 +120,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the responsible Department were a government body.
 
+             (2)  In subsection (1), **_modifications_** includes additions, omissions and substitutions.
+
 ##### <a id="5"></a>5  Application of Act to certain Commonwealth authorities
 
-                   Subject to such modifications as are prescribed, this Act applies in relation to an authority of the Commonwealth referred to in paragraph (e) of the definition of **_employer_** in subsection 136(1) of the Assessment Act in like manner as it applies in relation to a Department.
+             (1)  Subject to such modifications as are prescribed, this Act applies in relation to an authority of the Commonwealth referred to in paragraph (e) of the definition of **_employer_** in subsection 136(1) of the Assessment Act in like manner as it applies in relation to a Department.
+
+             (2)  In subsection (1), **_modifications_** includes additions, omissions and substitutions.
 
 ##### <a id="5A"></a>5A  Modified objection, review and appeal provisions
 
@@ -403,7 +407,7 @@ Remainder: 1 July 1986</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 636–640) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 636–640) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 640) and Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -480,15 +484,7 @@ _(d)_     The _Fringe Benefits Tax (Application to the Commonwealth) Act
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 48, 1986; No. 216, 1991; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
+    <div>am. No. 48, 1986; No. 216, 1991</div>
   </td>
 </tr>
 <tr>
@@ -572,11 +568,39 @@ _(d)_     The _Fringe Benefits Tax (Application to the Commonwealth) Act
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 636  Subsection 4(1)
+
+Omit “(1)”.
+
+## 637  Subsection 4(2)
+
+Repeal the subsection.
+
+## 638  Subsection 5(1)
+
+Omit “(1)”.
+
+## 639  Subsection 5(2)
+
+Repeal the subsection.
+
+As at 27 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 2
 
