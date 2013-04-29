@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 5 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 3 June 2011
+ taking into account amendments up to Act No. 37 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1426,7 +1426,7 @@ the Divisional Returning Officer shall be taken to refer to the Divisional Retur
 
 ##### <a id="4B"></a>4B  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the   Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="4C"></a>4C  Registered officer of political party
 
@@ -1454,7 +1454,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="5"></a>5  Interpretation 
 
-                   In this Part:
+                   In this Part:
 
                     <a name="acting-commission"></a>**_acting Commissioner_** includes a person acting as the Electoral Commissioner.
 
@@ -3098,7 +3098,7 @@ section 76 has effect, in its application to the Northern Territory, as if:
 
                      (b)  divide the Northern Territory into such Districts as are specified and set out the boundaries of each District so specified.
 
-             (2)  The Territory of Cocos (Keeling) Islands shall be one District of the Division of the Northern Territory and the Territory of  Christmas Island shall be one District of the Division of that Territory.
+             (2)  The Territory of Cocos (Keeling) Islands shall be one District of the Division of the Northern Territory and the Territory of Christmas Island shall be one District of the Division of that Territory.
 
              (3)  If the Northern Territory is distributed into Electoral Divisions under section 73 or under section 76, as it has effect by virtue of section 76A, this section shall have effect, after the distribution, as if:
 
@@ -5070,7 +5070,7 @@ the Electoral Commissioner must enter the elector’s name on the Roll for the S
 
 ##### <a id="107"></a>107  Alterations to be initialled
 
-                   Every alteration of a Roll shall be made in such a manner that the original entry shall not be obliterated, and the reason for each alteration and the date thereof shall be set against the alteration, together with the initials of the person who makes the alteration.
+                   Every alteration of a Roll shall be made in such a manner that the original entry shall not be obliterated, and the reason for each alteration and the date thereof shall be set against the alteration, together with the initials of the person who makes the alteration.
 
 ##### <a id="108"></a>108  Lists of deaths to be forwarded
 
@@ -6644,7 +6644,7 @@ the Electoral Commissioner must register the claimant as a general postal voter 
 
              (2)  The Electoral Commissioner must give the elector written notice of the cancellation and of the elector’s right to apply for review under Part X.
 
-##### <a id="186"></a>186  Dispatch of postal voting papers to registered general postal voters
+##### <a id="186"></a>186  Dispatch of postal voting papers to registered general postal voters
 
              (1)  As soon as a DRO for a Division receives ballot papers for a Senate election or a House of Representatives election, or both, as the case may be, the DRO must send or arrange for the delivery of postal voting papers to each registered general postal voter for the Division.
 
@@ -8832,7 +8832,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="252"></a>252  Candidates not to take part in polling
 
-                   A candidate shall not take part in any way in the conduct of the polling in Antarctica.
+                   A candidate shall not take part in any way in the conduct of the polling in Antarctica.
 
 ##### <a id="253"></a>253  The polling in Antarctica
 
@@ -9474,7 +9474,7 @@ Definitions
 
                    A scrutiny of votes for a Senate election may be conducted partly under section 273 and partly under section 273A, as long as the requirements of at least one of those sections are met in respect of the scrutiny for that election.
 
-##### <a id="274"></a>274  Scrutiny of votes in House of Representatives elections
+##### <a id="274"></a>274  Scrutiny of votes in House of Representatives elections
 
              (1)  In a House of Representatives election the scrutiny shall, subject to section 266, be conducted in the manner set out in this section.
 
@@ -10310,7 +10310,7 @@ Definitions
 
 ##### <a id="301"></a>301  Death of member of group
 
-                   Where a member of a group for whom eligible votes were given in a Senate election dies, a payment under this Division in respect of the eligible votes given for the group may be made notwithstanding the death of the member and, if:
+                   Where a member of a group for whom eligible votes were given in a Senate election dies, a payment under this Division in respect of the eligible votes given for the group may be made notwithstanding the death of the member and, if:
 
                      (a)  the group was not a group the members of which were endorsed by a registered political party or by registered political parties; and
 
@@ -10324,7 +10324,7 @@ the payment may be made to another member of the group as if the other member we
 
 ### Division 4—Disclosure of donations
 
-##### <a id="303"></a>303  Interpretation
+##### <a id="303"></a>303  Interpretation
 
              (1)  In this Division, unless the contrary intention appears:
 
@@ -11094,7 +11094,7 @@ the following provisions of this subsection have effect:
 
            (11)  A prosecution in respect of an offence against a provision of this section (being an offence committed on or after the commencement of this subsection) may be started at any time within 3 years after the offence was committed.
 
-##### <a id="315A"></a>315A  Recovery of payments
+##### <a id="315A"></a>315A  Recovery of payments
 
              (1)  An action in a court to recover an amount due to the Commonwealth under subsection 299(6) or 306(5) may be brought in the name of the Commonwealth by the Electoral Commissioner.
 
@@ -11422,13 +11422,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -11878,7 +11878,7 @@ Note:          This subsection means that each act of voting (
 
              (5)  In this section, a reference to a nomination paper includes a reference to a facsimile of a nomination paper.
 
-##### <a id="340"></a>340  Prohibition of canvassing near polling booths
+##### <a id="340"></a>340  Prohibition of canvassing near polling booths
 
              (1)  The following acts are, on polling day, and on all days to which the polling is adjourned, prohibited at an entrance of or within a polling booth, or in any public or private place within 6 metres of an entrance of a polling booth, namely:
 
@@ -13063,7 +13063,7 @@ Each of the candidates named below, states that:
 
 ·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
 
 ·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
 
@@ -13531,7 +13531,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13567,8 +13567,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13652,7 +13652,7 @@ FORM E
 <tr>
   <td colspan="2">
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251659776"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251677184"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251676160"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251675136"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
@@ -13669,7 +13669,7 @@ FORM E
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251663872"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251662848"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251661824"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251660800"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
@@ -13733,7 +13733,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13744,7 +13744,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251688448"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13754,7 +13754,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251689472"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image028.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13764,7 +13764,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251690496"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13773,7 +13773,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251684352"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00419/Html/198666be-a1e9-46c3-a4a3-15140c97c903_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -16101,23 +16101,6 @@ Schedule 6 (items 1, 3–10, 21, 22): 14 Jan 2011</div>
   </td>
   <td>
     <div>Sch. 1 (item 7) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 381–407) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 8 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -26297,138 +26280,6 @@ http://www.hcourt.gov.au/media/rowe.pdf
 
              (2)  Sections 94A, 95, 96, 102 and 155 of the _Commonwealth Electoral Act 1918_ were subsequently amended by the _Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011_, which commenced on 25 May 2011.
 
-### Note 8
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 381  Subsection 13(1)
-
-Omit “(1)”.
-
-## 382  Paragraph 13(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 383  Subsection 13(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 384  At the end of subsection 13(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 385  Subsections 13(2) to (6)
-
-Repeal the subsections.
-
-## 386  Subsection 14(1)
-
-Omit “(1)”.
-
-## 387  Paragraph 14(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 388  Subsection 14(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 389  At the end of subsection 14(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 390  Subsections 14(2) to (6)
-
-Repeal the subsections.
-
-## 391  At the end of subsection 19(3)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Electoral Commissioner, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 392  Subsection 19(5)
-
-Repeal the subsection.
-
-## 393  Subsection 26(1)
-
-Omit “(1)”.
-
-## 394  Subparagraph 26(1)(b)(ii)
-
-Omit “Deputy Electoral Commissioner;”, substitute “Deputy Electoral Commissioner.”.
-
-## 395  Subsection 26(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 396  At the end of subsection 26(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 397  Subsections 26(2) to (6)
-
-Repeal the subsections.
-
-## 398  Subsection 27(1)
-
-Omit “(1)”.
-
-## 399  Paragraph 27(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 400  Subsection 27(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 401  At the end of subsection 27(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 402  Subsections 27(2) to (6)
-
-Repeal the subsections.
-
-## 403  At the end of subsection 30(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 404  Subsections 30(3) to (5)
-
-Repeal the subsections.
-
-## 405  At the end of subsection 31(3)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Australian Electoral Officer for a State, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 406  Subsection 31(4)
-
-Repeal the subsection.
-
-## 407  Subsection 253(2)
-
-Omit “6 o’clock in the afternoon by standard time”, substitute “6 pm”.
-
-As at 5 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -27050,22 +26901,6 @@ _Electoral and Referendum Amendment (Provisional Voting) Act 2011
 ## 7  Application of amendments
 
 The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 Table showing new part and section numbers of the _Commonwealth Electoral Act 1918_ after renumbering by the _Commonwealth Electoral Legislation Amendment Act 1984_ (No. 45, 1984).
 
