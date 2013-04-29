@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00485/Html/d7daf0fa-b530-4104-99f3-0dce6786f8bc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00301/Html/AbLandRightNT76_WD02_image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 12 July 2010
+This compilation was prepared on 19 April 2010
  taking into account amendments up to Act No. 38 of 2010
 
 [**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 18 August 2012, _see_ section 70]
@@ -58,7 +58,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Recommendations for grants of Crown land described in Schedule 1
 
-[11](#11).          Recommendations for grants of Crown land other than Schedule 1 land and former public roads
+[11](#11).          Recommendations for grants of Crown land other than Schedule 1 land and former public roads
 
 [11A](#11A).       Land Councils may enter into agreements concerning land under claim
 
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Preliminary**
 
-[20T](#20T).        Definitions
+[20T](#20T).       Definitions
 
     **Division 2—Commonwealth rights** 
 
@@ -190,9 +190,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20Y](#20Y).       Rights holder may permit others to exercise the statutory rights
 
-[20Z](#20Z).        Ownership of buildings or infrastructure
+[20Z](#20Z).       Ownership of buildings or infrastructure
 
-[20ZA](#20ZA).     Variation of initial area
+[20ZA](#20ZA).    Variation of initial area
 
 [20ZB](#20ZB).     Operation of Lands Acquisition Act
 
@@ -200,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20ZC](#20ZC).     Section 19 leases
 
-[20ZD](#20ZD).     Effect of leases on statutory rights
+[20ZD](#20ZD).    Effect of leases on statutory rights
 
         **Subdivision D—When this Division ceases to apply**
 
@@ -212,27 +212,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20ZF](#20ZF).     Application of Division
 
-[20ZG](#20ZG).     Funding body
+[20ZG](#20ZG).    Funding body
 
         **Subdivision B—Statutory rights**
 
-[20ZH](#20ZH).     Funding body has the statutory rights
+[20ZH](#20ZH).    Funding body has the statutory rights
 
 [20ZI](#20ZI).      Transfer of statutory rights
 
 [20ZJ](#20ZJ).      Rights holder may permit others to exercise the statutory rights
 
-[20ZK](#20ZK).     Ownership of buildings or infrastructure
+[20ZK](#20ZK).    Ownership of buildings or infrastructure
 
 [20ZL](#20ZL).     Variation of initial area
 
-[20ZM](#20ZM).    Operation of Lands Acquisition Act
+[20ZM](#20ZM).   Operation of Lands Acquisition Act
 
         **Subdivision C—Leases**
 
-[20ZN](#20ZN).     Section 19 leases
+[20ZN](#20ZN).    Section 19 leases
 
-[20ZO](#20ZO).     Effect of leases on statutory rights
+[20ZO](#20ZO).    Effect of leases on statutory rights
 
         **Subdivision D—When this Division ceases to apply**
 
@@ -492,13 +492,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5** 
 
-**Schedule 2—Ranger Project Area** 
+**Schedule 2** 
 
-**Schedule 3—Eastern Areas on Groote Eylandt** 
+**Schedule 3** 
 
-**Schedule 4—Alligator Rivers Area (No. 3)** 
+**Schedule 4** 
 
-**Schedule 5—Nabarlek Project Area** 
+**Schedule 5** 
 
 **Schedule 6—Anindilyakwa Land Trust** 
 
@@ -618,7 +618,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Aboriginal__Land__Rights (Northern Territory) Act 1976_.
+                   This Act may be cited as the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -632,7 +632,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aborigin"></a>**_Aboriginal_** means a person who is a member of the Aboriginal race of Australia.
 
-                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** means a corporation registered under the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_.
+                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** means a corporation registered under the _Corporations (Aboriginal and__Torres  Strait__Islander) Act 2006_.
 
                     <a name="aborigin-land"></a>**_Aboriginal land_** means:
 
@@ -736,7 +736,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a person who:
 
-                              (i)  if subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_ apply by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—makes an application, under subsection 51(1A) of the first-mentioned Act for the grant of a lease or licence to mine for minerals on that land, while the person holds, under subsection 53(2A) of that Act, a right to explore for minerals on that land; or
+                              (i)  if subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_ apply by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—makes an application, under subsection 51(1A) of the first-mentioned Act for the grant of a lease or licence to mine for minerals on that land, while the person holds, under subsection 53(2A) of that Act, a right to explore for minerals on that land; or
 
                              (ii)  if subparagraph (i) does not apply—makes an application for the grant, under regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_, of a right to mine for, or recover, minerals on that land, while the person holds, under the regulations, a right to explore for minerals on that land.
 
@@ -744,7 +744,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="land-trust"></a>**_Land Trust_** means an Aboriginal Land Trust established under this Act.
 
-                    <a name="law-northern-territori"></a>**_law of the Northern Territory_** means a law made under, or having effect in the Northern Territory by virtue of, the _Northern Territory__(Self-Government) Act 1978_.
+                    <a name="northern-territori"></a><a name="law"></a>**_law of the_****_Northern Territory_** means a law made under, or having effect in the Northern Territory by virtue of, the _Northern Territory__(Self-Government) Act 1978_.
 
                     <a name="miner-royalti"></a>**_mineral royalties_** means royalties payable to the Commonwealth or the Northern Territory in respect of the mining of minerals.
 
@@ -770,13 +770,13 @@ whether suspended in water or not, and includes water but does not include extra
 
                      (b)  if subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_ apply by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—any lease, licence or other right granted under any of those provisions; or
 
-                     (c)  if regulations have been made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_—any right granted under those regulations to explore for, mine for, or recover, minerals;
+                     (c)  if regulations have been made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_—any right granted under those regulations to explore for, mine for, or recover, minerals;
 
 but does not include, when the expression is used in Part IV, any such lease, licence, interest or right that is an exploration licence or exploration retention licence.
 
                     <a name="mission"></a>**_mission_** means a religious society or association the purposes of which are, or include, furthering the spiritual, cultural or economic welfare of Aboriginals, and includes a trustee or trustees empowered to hold land on behalf of such a society or association.
 
-                    <a name="northern-territori-mine-minist"></a>**_Northern Territory Mining Minister_** means the person holding ministerial office under section 36 of the _Northern Territory__(Self-Government) Act 1978_ who is responsible for the administration of the law of the Northern Territory relating to mining for minerals.
+                    <a name="northern-territori-mine-minist"></a>**_Northern Territory Mining Minister_** means the person holding ministerial office under section 36 of the _Northern   Territory__(Self-Government) Act 1978_ who is responsible for the administration of the law of the Northern Territory relating to mining for minerals.
 
                     <a name="nt-entiti"></a>**_NT entity_** means a person approved by the Chief Minister of the Northern Territory under subsection 3AA(1).
 
@@ -810,7 +810,7 @@ but does not include, when the expression is used in Part IV, any such lease, li
 
                      (b)  an interest arising out of the operation of the _Atomic Energy Act 1953_ or any other Act authorizing mining for minerals;
 
-                   (ba)  a lease or other interest in land, or a right granted in respect of land, under a law of the Northern Territory relating, in whole or in part, to the mining or development of extractive mineral deposits;
+                    (ba)  a lease or other interest in land, or a right granted in respect of land, under a law of the Northern Territory relating, in whole or in part, to the mining or development of extractive mineral deposits;
 
                      (c)  an interest arising out of the taking possession, mining or occupation of land by virtue of a miner’s right; or
 
@@ -832,7 +832,7 @@ Note:          Paragraph 22(1)(a) of the _Acts Interpretation 
 
 ##### <a id="3AA"></a>3AA  Approval of NT entities
 
-             (1)  The Chief Minister of the Northern Territory may, by writing, approve a person for the purposes of the definition of **_NT entity_** in subsection 3(1).
+             (1)  The Chief Minister of the Northern   Territory may, by writing, approve a person for the purposes of the definition of **_NT entity_** in subsection 3(1).
 
 Note:          Paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_**includes a body corporate or body politic.
 
@@ -860,7 +860,7 @@ Areas applicable to that Land Trust
 
 ##### <a id="3A"></a>3A  Crown land vested in Northern Territory
 
-             (1)  Notwithstanding any law of the Northern Territory, the application of this Act in relation to Crown land extends to Crown land that is vested in the Northern Territory.
+             (1)  Notwithstanding any law of the Northern   Territory, the application of this Act in relation to Crown land extends to Crown land that is vested in the Northern Territory.
 
              (2)  Notwithstanding any law of the Commonwealth or of the Northern Territory, the Commonwealth is not liable to pay to the Northern Territory any compensation by reason of the making of a grant to a Land Trust of Crown land that is vested in the Northern Territory.
 
@@ -882,15 +882,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the g
 
 ##### <a id="4"></a>4  Land Trusts
 
-             (1)  The Minister may, by notice published in the _Gazette_, establish Aboriginal Land Trusts to hold title to land in the Northern Territory for the benefit of Aboriginals entitled by Aboriginal tradition to the use or occupation of the land concerned, whether or not the traditional entitlement is qualified as to place, time, circumstance, purpose or permission, and, subject to subsections 10(1) and (2), shall so establish Land Trusts to hold the Crown land described in Schedule 1.
+             (1)  The Minister may, by notice published in the _Gazette_, establish Aboriginal Land Trusts to hold title to land in the Northern Territory for the benefit of Aboriginals entitled by Aboriginal tradition to the use or occupation of the land concerned, whether or not the traditional entitlement is qualified as to place, time, circumstance, purpose or permission, and, subject to subsections 10(1) and (2), shall so establish Land Trusts to hold the Crown land described in Schedule 1.
 
-          (1A)  Nothing in this Act shall be taken to imply that the Minister cannot establish, under this section, Land Trusts to hold different areas of land each of which is included within a single area of Crown Land that is described in Schedule 1.
+          (1A)  Nothing in this Act shall be taken to imply that the Minister cannot establish, under this section, Land Trusts to hold different areas of land each of which is included within a single area of Crown  Land that is described in Schedule 1.
 
        (1AA)  A Land Trust to hold any Crown land described in Part 2 or 3 of Schedule 1 must be established not later than 2 years after the commencement of this subsection.
 
-       (1AB)  To avoid doubt, the Minister may establish a Land Trust under subsection (1) for the purpose of it holding land that is to be transferred to it under subsection 19(4).
+        (1AB)  To avoid doubt, the Minister may establish a Land Trust under subsection (1) for the purpose of it holding land that is to be transferred to it under subsection 19(4).
 
-       (1AC)  If:
+        (1AC)  If:
 
                      (a)  the Minister establishes a Land Trust (the **_new Land Trust_**) under subsection (1) for the purpose of it holding land that is to be transferred to it under subsection 19(4) by another Land Trust; and
 
@@ -1078,7 +1078,7 @@ the Minister shall recommend to the Governor-General that the Governor-General e
 
              (3)  For the purposes of this section, a lease of land granted under a law of the Northern Territory relating to mining for minerals shall be deemed to be an estate or interest in that land if the lease was granted before the date of commencement of this section or in pursuance of an agreement entered into by the Commonwealth before that date.
 
-##### <a id="11"></a>11  Recommendations for grants of Crown land other than Schedule 1 land and former public roads
+##### <a id="11"></a>11  Recommendations for grants of Crown land other than Schedule 1 land and former public roads
 
              (1)  Where:
 
@@ -1104,9 +1104,9 @@ the Minister shall:
 
                              (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust.
 
-       (1AA)  Where the Minister has, before the commencement of this subsection, taken action, or, after that commencement, takes action, in pursuance of subsection (1) in relation to a part or parts of the area of land to which a recommendation that is contained in a report made to the Minister by a Commissioner under paragraph 50(1)(a) relates, the taking of that action does not preclude the Minister from taking further action in pursuance of subsection (1) in relation to any other part or parts of the land to which the recommendation relates.
+       (1AA)  Where the Minister has, before the commencement of this subsection, taken action, or, after that commencement, takes action, in pursuance of subsection (1) in relation to a part or parts of the area of land to which a recommendation that is contained in a report made to the Minister by a Commissioner under paragraph 50(1)(a) relates, the taking of that action does not preclude the Minister from taking further action in pursuance of subsection (1) in relation to any other part or parts of the land to which the recommendation relates.
 
-       (1AB)  Where the Minister:
+        (1AB)  Where the Minister:
 
                      (a)  after taking action in pursuance of subsection (1), whether before or after the commencement of this subsection, to establish a Land Trust to hold part only of an area of land to which a recommendation that is contained in a report made by a Commissioner to the Minister under paragraph 50(1)(a) relates; or
 
@@ -1120,7 +1120,7 @@ is satisfied that the Land Trust (in this subsection referred to as the **_previ
 
                      (e)  after any acquisition referred to in paragraph (d) has been effected in relation to the land to be held by the previously established Land Trust, recommend to the Governor-General that a grant of an estate in fee simple in that land be made to that previously established Land Trust.
 
-       (1AC)  Upon the publication in the _Gazette_ of a notice under paragraph (1AB)(c) the declaration contained in that notice has effect according to its tenor.
+        (1AC)  Upon the publication in the _Gazette_ of a notice under paragraph (1AB)(c) the declaration contained in that notice has effect according to its tenor.
 
        (1AD)  Where:
 
@@ -1140,9 +1140,9 @@ the Minister shall, if he or she is satisfied that it is appropriate to do so:
 
                             that are to hold the recommended land or a part or parts of the recommended land for the benefit of Aboriginals who are the relevant Aboriginals in relation to the recommended land or the part or parts of the recommended land; and
 
-                     (e)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is not, and does not include, alienated Crown land—recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
+                     (e)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is not, and does not include, alienated Crown land—recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
 
-                      (f)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is, or includes, alienated Crown land:
+                      (f)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is, or includes, alienated Crown land:
 
                               (i)  ensure that the estates and interests in that land or part of persons (other than the Crown) are acquired by the Crown by surrender or otherwise; and
 
@@ -1172,7 +1172,7 @@ the Minister shall:
 
                              (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor-General that a grant of an estate in fee simple in those areas or parts be made to that Land Trust.
 
-        (1AF)  Where land that is contiguous to Aboriginal land would have been the subject of a recommendation by the Minister under subsection (1), (1AB), (1AD) or (1AE) but for the existence on that land of a stock route (other than a stock route to which subsection 50(2E) applies), then, if the land ceases to be a stock route, the Minister may, on the application of the Land Council for the area in which the land is situated, recommend to the Governor-General that a grant of an estate in fee simple in that land or part of that land be made to the Land Trust that holds, or to one of the Land Trusts that hold, contiguous Aboriginal land.
+        (1AF)  Where land that is contiguous to Aboriginal land would have been the subject of a recommendation by the Minister under subsection (1), (1AB), (1AD) or (1AE) but for the existence on that land of a stock route (other than a stock route to which subsection 50(2E) applies), then, if the land ceases to be a stock route, the Minister may, on the application of the Land Council for the area in which the land is situated, recommend to the Governor-General that a grant of an estate in fee simple in that land or part of that land be made to the Land Trust that holds, or to one of the Land Trusts that hold, contiguous Aboriginal land.
 
           (1A)  Notwithstanding anything to the contrary in this section, where land the subject of a recommendation contained in a report made to the Minister under paragraph 50(1)(a) is land in a Commonwealth reserve under the _Environment Protection and Biodiversity Conservation Act 1999_, being land in which all the estates and interests not held by the Crown are held by the Director, the Minister is not required to ensure that the estates and interests of the Director in the land are acquired by the Crown.
 
@@ -1192,7 +1192,7 @@ the Minister shall:
 
 ##### <a id="11A"></a>11A   Land Councils may enter into agreements concerning land under claim
 
-             (1)  A person who desires to obtain an estate or interest in land the subject of an application of the kind referred to in paragraph 50(1)(a) may, before the land (in this section referred to as **_the relevant land_**) is granted to a Land Trust, make representations to the Land Council in the area of which the relevant land is situated concerning the person’s plans in respect of the relevant land.
+             (1)  A person who desires to obtain an estate or interest in land the subject of an application of the kind referred to in paragraph 50(1)(a) may, before the land (in this section referred to as **_the relevant land_**) is granted to a Land Trust, make representations to the Land Council in the area of which the relevant land is situated concerning the person’s plans in respect of the relevant land.
 
              (2)  Subject to subsection (3), a Land Council to which representations are made pursuant to subsection (1) may, at any time before the relevant land is granted to a Land Trust, agree with the person who made the representations that it will, if the relevant land is granted to a Land Trust, direct the Land Trust to grant an estate or interest in that land to that person and that agreement shall specify the terms and conditions on which the proposed grant is to be made.
 
@@ -1258,7 +1258,7 @@ the Minister shall:
 
                      (c)  rights to explore for minerals, and leases or licences to mine for minerals, on or below the surface of the land may be granted under section 124 of the _Lands Acquisition Act 1989_.
 
-    (2AAA)  Where a deed of grant executed before the commencement of the _Lands Acquisition Act 1989_ is expressed to be subject to a reservation that rights to explore for minerals, and leases or licences to mine for minerals, on or below the surface of the land may be granted under subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_, that reservation has effect on and after the commencement of the _Lands Acquisition Act 1989_ as if it were a reservation to the effect that such rights, leases or licences may be granted in accordance with section 124 of the _Lands Acquisition Act 1989_.
+     (2AAA)  Where a deed of grant executed before the commencement of the _Lands Acquisition Act 1989_ is expressed to be subject to a reservation that rights to explore for minerals, and leases or licences to mine for minerals, on or below the surface of the land may be granted under subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_, that reservation has effect on and after the commencement of the _Lands Acquisition Act 1989_ as if it were a reservation to the effect that such rights, leases or licences may be granted in accordance with section 124 of the _Lands Acquisition Act 1989_.
 
        (2AA)  For the purposes of the operation of subsection (2), any interest in minerals vested in a person, other than the Commonwealth or the Northern Territory, shall be disregarded, and any reservation inserted in a deed of grant in accordance with that subsection is subject to such an interest.
 
@@ -1280,11 +1280,11 @@ not being land constituting, or forming part of, the land described in Schedule�
 
                      (b)  any land within the area delineated by the outer boundaries of the aggregate area comprising Gimbat and Goodparla.
 
-          (2E)  Subsection (2C) applies in relation to a deed of grant in respect of land referred to in paragraph (2D)(b) whether or not the deed took effect before the commencement of this subsection.
+           (2E)  Subsection (2C) applies in relation to a deed of grant in respect of land referred to in paragraph (2D)(b) whether or not the deed took effect before the commencement of this subsection.
 
              (3)  A deed of grant under this section in respect of land that is not Schedule 1 land:
 
-                     (a)  shall identify any land on which there is, at the time of the execution of the deed of grant, a road over which the public has a right of way; and
+                     (a)  shall identify any land on which there is, at the time of the execution of the deed of grant, a road over which the public has a right of way; and 
 
                      (b)  shall be expressed to exclude such land from the grant.
 
@@ -1336,7 +1336,7 @@ Immediate grant of land to Anindilyakwa Land Trust
 
 The deed of grant is not a legislative instrument.
 
-Note:          See subsection (9) for the definition of **_Arnhem Land_****_type 1 deed_**.
+Note:          See subsection (9) for the definition of **_Arnhem  Land_****_type 1 deed_**.
 
 Delayed grant of land to Anindilyakwa Land Trust
 
@@ -1348,7 +1348,7 @@ Delayed grant of land to Anindilyakwa Land Trust
 
 The deed of grant is not a legislative instrument.
 
-Note:          See subsection (9) for the definition of **_Arnhem Land_****_type 2 deed_**.
+Note:          See subsection (9) for the definition of **_Arnhem  Land_****_type 2 deed_**.
 
 Application of other provisions of this Act
 
@@ -1405,7 +1405,7 @@ Land no longer held by Arnhem Land Aboriginal Land Trust
   </td>
   <td>
     <div>The deed is taken to be revoked. At the time the deed of grant executed
-      under subsection (1) takes effect:</div>
+      under subsection (1) takes effect:</div>
     <div>(a) the revocation takes effect; and</div>
     <div>(b) the boundaries are taken to have been varied to no longer relate to
       that part of the land in the area of the Anindilyakwa Land Council.</div>
@@ -1438,7 +1438,7 @@ Land no longer held by Arnhem Land Aboriginal Land Trust
   </td>
   <td>
     <div>The deed is taken to be revoked. At the time the deed of grant executed
-      under subsection (2) is delivered to the Anindilyakwa Land Council:</div>
+      under subsection (2) is delivered to the Anindilyakwa Land Council:</div>
     <div>(a) the revocation takes effect; and</div>
     <div>(b) the boundaries are taken to have been varied to no longer relate to
       that part of the land in the area of the Anindilyakwa Land Council.</div>
@@ -1567,7 +1567,7 @@ Documents
   </td>
   <td>
     <div>The reference is taken, from the day the deed of grant executed under
-      subsection (1) takes effect, to be a reference to that deed.</div>
+      subsection (1) takes effect, to be a reference to that deed.</div>
   </td>
 </tr>
 <tr>
@@ -1581,7 +1581,7 @@ Documents
   </td>
   <td>
     <div>The reference is taken, from the day the deed of grant executed under
-      subsection (2) is delivered to the Anindilyakwa Land Council, to be a reference
+      subsection (2) is delivered to the Anindilyakwa Land Council, to be a reference
       to that deed.</div>
   </td>
 </tr></table>
@@ -1694,7 +1694,7 @@ Note:          See subsection 12(4) for when a deed of grant u
 
                      (b)  land on which there was, at the time of the execution of the deed of grant, a road over which the public had, at that time, a right of way.
 
-             (2)  The jurisdiction conferred by subsection (1) shall be exercised in accordance with the _Supreme Court Act 1979_ of the Northern Territory.
+             (2)  The jurisdiction conferred by subsection (1) shall be exercised in accordance with the _Supreme Court Act 1979_ of the Northern   Territory.
 
 ##### <a id="12AC"></a>12AC  Effect of agreement or order
 
@@ -1744,7 +1744,7 @@ Note:          See subsection 12(4) for when a deed of grant u
 
                      (a)  a Land Council has refused, or is unwilling, to direct a Land Trust to grant to the Director a lease in accordance with an agreement entered into between the Land Council and the Director (including such an agreement entered into by the Minister on behalf of the Land Council) in compliance with the condition referred to in subsection 12(2B); or
 
-                     (b)  a Land Trust has refused, or is unwilling, to take action in accordance with a direction given to it by a Land Council, being a direction to grant to the Director a lease in accordance with an agreement entered into between the Land Council and the Director (including such an agreement entered into by the Minister on behalf of the Land Council) in compliance with the condition referred to in subsection 12(2B);
+                     (b)  a Land Trust has refused, or is unwilling, to take action in accordance with a direction given to it by a Land Council, being a direction to grant to the Director a lease in accordance with an agreement entered into between the Land Council and the Director (including such an agreement entered into by the Minister on behalf of the Land Council) in compliance with the condition referred to in subsection 12(2B);
 
 the Minister may, on behalf of the Land Trust, grant to the Director the lease provided for by the agreement.
 
@@ -1784,7 +1784,7 @@ the Minister may, on behalf of the Land Trust, grant to the Director the lease p
 
                      (b)  is part of land that is leased to an approved entity under section 19A;
 
-nothing in this section prevents the approved entity granting a sublease of the applicable land to the Commonwealth, the Northern Territory or an Authority, as the case may be.
+nothing in this section prevents the approved entity granting a sublease of the applicable land to the Commonwealth, the Northern   Territory or an Authority, as the case may be.
 
           (3C)  If such a sublease is granted, the applicable land ceases to be land to which this section applies.
 
@@ -1812,7 +1812,7 @@ nothing in this section prevents the approved entity granting a sublease of the 
 
                      (a)  in the case of a payment by the Commonwealth—out of the Consolidated Revenue Fund, which is appropriated accordingly; or
 
-                     (b)  in the case of a payment by the Northern Territory—out of moneys lawfully available for the purpose.
+                     (b)  in the case of a payment by the Northern   Territory—out of moneys lawfully available for the purpose.
 
 ##### <a id="18"></a>18  Occupation or use of Aboriginal land by mission
 
@@ -1928,7 +1928,7 @@ Note:          See also section 20A (which deals with the appl
 
        (4AA)  Any right, title or other interest in land transferred under subsection (4) that existed immediately before the transfer is preserved as a right, title or interest in that land after the transfer.
 
-       (4AB)  Any agreement in respect of land transferred under subsection (4) that was entered into by the transferor Land Trust and that is in force immediately before the transfer is taken to have the same force and effect, after the transfer, as the agreement would have had if it had been entered into by the transferee Land Trust.
+        (4AB)  Any agreement in respect of land transferred under subsection (4) that was entered into by the transferor Land Trust and that is in force immediately before the transfer is taken to have the same force and effect, after the transfer, as the agreement would have had if it had been entered into by the transferee Land Trust.
 
           (4A)  With the consent, in writing, of the Minister, and at the direction, in writing, of the relevant Land Council, a Land Trust may, subject to subsection (7), grant an estate or interest in the whole, or any part, of the land vested in it to any person for any purpose.
 
@@ -1958,9 +1958,9 @@ Note:          See also section 20A (which deals with the appl
 
              (9)  Where a grant of an estate or interest is invalidated, by virtue of subsection (6), on account of fraud, that invalidity does not affect the rights of a person who has, for value and without notice of the fraud, accepted the transfer of that estate or interest or been granted an interest dependent upon that estate or interest.
 
-          (9A)  When the Minister is satisfied that a Land Council has refused, or is unwilling, to give a direction under subsection 11A(5) to a Land Trust to grant an estate or interest in land in accordance with an agreement entered into by the Land Council under subsection 11A(2), the Minister shall, in the name of, and on behalf of, that Land Council, give the Land Trust that direction.
+          (9A)  When the Minister is satisfied that a Land Council has refused, or is unwilling, to give a direction under subsection 11A(5) to a Land Trust to grant an estate or interest in land in accordance with an agreement entered into by the Land Council under subsection 11A(2), the Minister shall, in the name of, and on behalf of, that Land Council, give the Land Trust that direction.
 
-          (9B)  Where the Minister is satisfied that a Land Trust has refused, or is unwilling, to comply with a direction given under subsection 11A(5), or subsection (9A) of this section, to grant an estate or interest in particular land on particular terms and conditions, the Minister shall, in the name of, and on behalf of, that Land Trust, grant that estate or interest in relation to that land on those terms and conditions.
+          (9B)  Where the Minister is satisfied that a Land Trust has refused, or is unwilling, to comply with a direction given under subsection 11A(5), or subsection (9A) of this section, to grant an estate or interest in particular land on particular terms and conditions, the Minister shall, in the name of, and on behalf of, that Land Trust, grant that estate or interest in relation to that land on those terms and conditions.
 
            (10)  In this section, **_relevant Land Council_**, in relation to land, means the Land Council for the area in which the land is situated.
 
@@ -2006,7 +2006,7 @@ Land Council direction
 
 Term of lease
 
-             (4)  The term of a lease granted under this section is the term specified in the lease (which must be at least 40 years and no more than 99 years). The term specified in the lease must not be varied. This subsection is subject to subsections (4A) and (5).
+             (4)  The term of a lease granted under this section is the term specified in the lease (which must be at least 40 years and no more than 99 years). The term specified in the lease must not be varied. This subsection is subject to subsections (4A) and (5).
 
           (4A)  A lease granted under this section may provide for the variation of the lease by way of one or more extensions of the term of the lease. The extensions must not result in the term of the lease being more than 99 years.
 
@@ -2086,13 +2086,13 @@ Licences
 
              (1)  This section applies to:
 
-                     (a)  the grant of a lease to a Commonwealth entity under section 19A; or
+                     (a)  the grant of a lease to a Commonwealth entity under section 19A; or
 
                     (aa)  the extension of the term of a lease granted under that section (as mentioned in subsection 19A(4A)) if the lease is held by a Commonwealth entity at the time of the variation mentioned in that subsection; or
 
                      (b)  the transfer of a lease to a Commonwealth entity in accordance with that section; or
 
-                     (c)  the transfer of a lease from a Commonwealth entity to an NT entity in accordance with that section.
+                     (c)  the transfer of a lease from a Commonwealth entity to an NT entity in accordance with that section.
 
 Taxes
 
@@ -2156,7 +2156,7 @@ the Minister may, after consultation with the Land Council and with the person, 
 
              (5)  Where the Minister is satisfied that a Land Council has refused, or is unwilling, to give a direction in compliance with subsection (2) or (4) or a Land Trust has refused, or is unwilling, to comply with such a direction, the Minister may, in the name of, and on behalf of, the Land Trust, grant a lease in accordance with the direction that should have been, or has been, given.
 
-##### <a id="20A"></a>20A  Northern Territory transfer of land law to apply
+##### <a id="20A"></a>20A  Northern   Territory transfer of land law to apply
 
              (1)  Subject to sections 19C to 19E, this section and sections 20SA and 20SB, the law of the Northern Territory relating to the transfer of land applies, according to its tenor, to, and in relation to, any dealing with, or disposition of, an estate or interest in land by, or on behalf of, a Land Trust.
 
@@ -2182,13 +2182,13 @@ Note:          Division 3 deals with the appointment and ter
 
                    The functions of the Executive Director are:
 
-                    (aa)  if the Minister has agreed to a request under subsection 19(3A) or 20CA(2) in relation to a lease, and the Commonwealth intends to enter into the lease—to enter into, on behalf of the Commonwealth, the lease; and
+                    (aa)  if the Minister has agreed to a request under subsection 19(3A) or 20CA(2) in relation to a lease, and the Commonwealth intends to enter into the lease—to enter into, on behalf of the Commonwealth, the lease; and
 
-                   (ab)  to administer leases covered by paragraph (aa), including administering subleases and other rights and interests derived from such leases, in accordance with their terms and conditions; and
+                    (ab)  to administer leases covered by paragraph (aa), including administering subleases and other rights and interests derived from such leases, in accordance with their terms and conditions; and
 
-                    (ac)  if the Minister has agreed to a request under subsection 20CA(2) in relation to a sublease, and the Commonwealth intends to enter into the sublease—to enter into, on behalf of the Commonwealth, the sublease; and
+                    (ac)  if the Minister has agreed to a request under subsection 20CA(2) in relation to a sublease, and the Commonwealth intends to enter into the sublease—to enter into, on behalf of the Commonwealth, the sublease; and
 
-                   (ad)  to administer subleases covered by paragraph (ac), including administering other rights and interests derived from such subleases, in accordance with their terms and conditions; and
+                    (ad)  to administer subleases covered by paragraph (ac), including administering other rights and interests derived from such subleases, in accordance with their terms and conditions; and
 
                      (a)  to enter into, on behalf of the Commonwealth, leases under section 19A; and
 
@@ -2208,7 +2208,7 @@ Note:          Division 3 deals with the appointment and ter
 
                               (i)  that is prescribed by the regulations for the purposes of this section; and
 
-                             (ii)  that has been granted to the proprietor primarily for the benefit of Aboriginal people in the Northern Territory;
+                             (ii)  that has been granted to the proprietor primarily for the benefit of Aboriginal people in the Northern   Territory;
 
                             is considering granting a lease of some or all of the land; or
 
@@ -2216,7 +2216,7 @@ Note:          Division 3 deals with the appointment and ter
 
                               (i)  that is prescribed by the regulations for the purposes of this section; and
 
-                             (ii)  that has been leased to the proprietor primarily for the benefit of Aboriginal people in the Northern Territory;
+                             (ii)  that has been leased to the proprietor primarily for the benefit of Aboriginal people in the Northern   Territory;
 
                             is considering granting a sublease of some or all of the land.
 
@@ -2232,7 +2232,7 @@ Note:          Division 3 deals with the appointment and ter
 
              (5)  In this section:
 
-                    <a name=""></a><a name="commun-live-area"></a>**_community living area_** means  land granted under subsection 46(1A) of the _Lands Acquisition Act_ of the   Northern Territory.
+                    <a name=""></a><a name="commun-live-area"></a>**_community living area_** means  land granted under subsection 46(1A) of the _Lands Acquisition Act_ of the Northern   Territory.
 
 Note:          The reference to the _Lands Acquisition Act_ of the Northern Territory is to be construed as a reference to that Act as originally enacted and as amended from time to time: see section 10A of the _Acts Interpretation Act 1901_ of the Commonwealth.
 
@@ -2240,7 +2240,7 @@ Note:          The reference to the _Lands Acquisition Act_ of
 
                      (a)  the _Special Purposes Leases Act_ of the Northern Territory; or
 
-                     (b)  the _Crown Lands Act_ of the Northern Territory.
+                     (b)  the _Crown Lands Act_ of the Northern   Territory.
 
 Note:          The reference to the _Special Purposes Leases Act_ and the _Crown Lands Act_ of the Northern Territory is to be construed as a reference to that Act as originally enacted and as amended from time to time: see section 10A of the _Acts Interpretation Act 1901_ of the Commonwealth.
 
@@ -2398,7 +2398,7 @@ Taxes
 
 Registration
 
-             (3)  On the application of the Commonwealth, the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of grant as if it were duly executed under that law.
+             (3)  On the application of the Commonwealth, the Registrar-General or other appropriate officer under the law of the Northern   Territory relating to the transfer of land must register the instrument of grant as if it were duly executed under that law.
 
 Subdivision of land
 
@@ -2472,7 +2472,7 @@ to the extent that the law applies to land the subject of the lease or sublease.
 
                      (a)  in Division 2—has the meaning given by subsection 20W(2); and
 
-                     (b)  in Division 3—has the meaning given by subsection 20ZH(2).
+                     (b)  in Division 3—has the meaning given by subsection 20ZH(2).
 
                     <a name="threshold-amount"></a>**_threshold amount_** means:
 
@@ -2548,11 +2548,11 @@ Note:       See also subsection 23(3) (which deals with Land Council
 
 Transfer by Commonwealth
 
-             (1)  If the funding body is the Commonwealth, the Minister may, on behalf of the Commonwealth, transfer all of the statutory rights to the Northern Territory, a Commonwealth authority or a Northern Territory authority by written agreement.
+             (1)  If the funding body is the Commonwealth, the Minister may, on behalf of the Commonwealth, transfer all of the statutory rights to the Northern Territory, a Commonwealth authority or a Northern   Territory authority by written agreement.
 
 Transfer by Commonwealth authority
 
-             (2)  If the funding body is a Commonwealth authority, the authority may transfer all of the statutory rights to the Commonwealth, the Northern Territory, another Commonwealth authority or a Northern Territory authority by written agreement.
+             (2)  If the funding body is a Commonwealth authority, the authority may transfer all of the statutory rights to the Commonwealth, the Northern Territory, another Commonwealth authority or a Northern   Territory authority by written agreement.
 
 ##### <a id="20Y"></a>20Y  Rights holder may permit others to exercise the statutory rights
 
@@ -2732,11 +2732,11 @@ Note:       See also subsection 23(3) (which deals with Land Council
 
 Transfer by Northern Territory
 
-             (1)  If the funding body is the Northern Territory, the Chief Minister of the Northern Territory may, on behalf of the Northern Territory, transfer all of the statutory rights to the Commonwealth, a Commonwealth authority or a Northern Territory authority by written agreement.
+             (1)  If the funding body is the Northern   Territory, the Chief Minister of the Northern Territory may, on behalf of the   Northern Territory, transfer all of the statutory rights to the Commonwealth, a Commonwealth authority or a Northern Territory authority by written agreement.
 
 Transfer by Northern Territory authority
 
-             (2)  If the funding body is a Northern Territory authority, the authority may transfer in writing all of the statutory rights to the Commonwealth, the Northern Territory, a Commonwealth authority or another Northern Territory authority by written agreement.
+             (2)  If the funding body is a Northern   Territory authority, the authority may transfer in writing all of the statutory rights to the Commonwealth, the Northern Territory, a Commonwealth authority or another Northern Territory authority by written agreement.
 
 ##### <a id="20ZJ"></a>20ZJ  Rights holder may permit others to exercise the statutory rights
 
@@ -2858,7 +2858,7 @@ Note:          Subsection 19A(10) deals with preserving rights
 
 ##### <a id="21"></a>21  Establishment of Land Councils
 
-             (1)  The Minister shall, on the commencement of this section, by notice published in the _Gazette_, divide the Northern Territory into at least 2 areas and establish an Aboriginal Land Council for each area.
+             (1)  The Minister shall, on the commencement of this section, by notice published in the _Gazette_, divide the Northern   Territory into at least 2 areas and establish an Aboriginal Land Council for each area.
 
 Note:          New Land Councils may also be established: see sections 21A to 21D.
 
@@ -2952,7 +2952,7 @@ Minister may establish new Land Council if a 55% positive vote
 
                      (b)  it indicates the voter’s preference for either being in favour or against the proposal; and
 
-                     (c)  it does not have upon it any writing or another mark by which, in the opinion of a person authorised under subsection (7), the voter can be identified (not including writing or another mark placed on the ballot paper, whether or not in contravention of any law, by a person involved in conducting the vote).
+                     (c)  it does not have upon it any writing or another mark by which, in the opinion of a person authorised under subsection (7), the voter can be identified (not including writing or another mark placed on the ballot paper, whether or not in contravention of any law, by a person involved in conducting the vote).
 
              (7)  The Electoral Commissioner may, by writing, authorise a member of the staff of the Australian Electoral Commission for the purpose of subsection (6).
 
@@ -3000,7 +3000,7 @@ Notice not a legislative instrument
 
 Note 1:       Subject to section 22A, the _Commonwealth Authorities and Companies Act 1997_ applies to a Land Council. That Act deals with matters relating to reporting and accountability, banking and investment, and conduct of officers.
 
-Note 2:       The activities or operations of a Land Council may be evaluated or audited: see paragraph 193X(1)(ca) of the _Aboriginal and  Torres Strait Islander Act 2005_.
+Note 2:       The activities or operations of a Land Council may be evaluated or audited: see paragraph 193X(1)(ca) of the _Aboriginal and__Torres Strait__Islander Act 2005_.
 
              (2)  All courts, judges and persons acting judicially shall take notice of the common seal of a Land Council affixed to a document and shall presume that it was duly affixed.
 
@@ -3018,7 +3018,7 @@ Note 2:       The activities or operations of a Land Council may be 
 
                      (b)  to protect the interests of traditional Aboriginal owners of, and other Aboriginals interested in, Aboriginal land in the area of the Land Council; and
 
-                   (ba)  to assist Aboriginals in the taking of measures likely to assist in the protection of sacred sites on land (whether or not Aboriginal land) in the area of the Land Council; and
+                    (ba)  to assist Aboriginals in the taking of measures likely to assist in the protection of sacred sites on land (whether or not Aboriginal land) in the area of the Land Council; and
 
                      (c)  to consult with traditional Aboriginal owners of, and other Aboriginals interested in, Aboriginal land in the area of the Land Council with respect to any proposal relating to the use of that land; and
 
@@ -3040,7 +3040,7 @@ Note 2:       The activities or operations of a Land Council may be 
 
                     (fa)  to negotiate, and enter into agreements, as necessary, for the purposes of subsection 70(4); and
 
-                    (fb)  if a lease of land in the area of the Land Council is or has been granted under section 31 of the _Northern Territory National Emergency Response Act 2007_ by a Land Trust—to represent the Land Trust in relation to negotiations to agree on an amount to be paid to the Land Trust under subsection 62(1G) of that Act in relation to that grant; and
+                    (fb)  if a lease of land in the area of the Land Council is or has been granted under section 31 of the _Northern Territory National Emergency Response Act 2007_ by a Land Trust—to represent the Land Trust in relation to negotiations to agree on an amount to be paid to the Land Trust under subsection 62(1G) of that Act in relation to that grant; and
 
                     (fc)  if a lease of land in the area of the Land Council is or has been granted under section 31 of the _Northern Territory National Emergency Response Act 2007_ by the relevant owner of the land (within the meaning of paragraph (b) or (f) of the definition of **_relevant owner_** in section 3 of that Act)—to represent that relevant owner, if requested to do so, in relation to negotiations to agree on an amount to be paid to that relevant owner under subsection 62(1G) of that Act in relation to that grant; and
 
@@ -3100,7 +3100,7 @@ Maintenance of organisational structures and processes
 
 ##### <a id="23A"></a>23A  Power of Land Council to obtain information and documents
 
-             (1)  In this section, **_authorized person_** means a person authorized by a Land Council for the purposes of this section, and any word or phrase that is defined by section 3 of the _Environment Protection (Northern Territory Supreme Court) Act 1978_ and is used in this section has the same meaning as in that Act.
+             (1)  In this section, **_authorized person_** means a person authorized by a Land Council for the purposes of this section, and any word or phrase that is defined by section 3 of the _Environment Protection (__Northern Territory__Supreme Court) Act 1978_ and is used in this section has the same meaning as in that Act.
 
              (2)  An authorized person may, by notice in writing served either personally or by post on a person, require the person (in this subsection referred to as **_the person liable_**):
 
@@ -3116,7 +3116,7 @@ being information or documents that:
 
                              (ii)  any action taken to comply with any requirement of or having effect under a prescribed instrument so far as the requirement relates to the effect of those operations on the environment; and
 
-                     (d)  is, or are, relevant to the question whether or not the Land Council should exercise the power conferred on it by section 4 of the _Environment Protection (Northern Territory Supreme Court) Act 1978_ to make application to the Supreme Court of the Northern Territory of Australia for the making of an order under that section.
+                     (d)  is, or are, relevant to the question whether or not the Land Council should exercise the power conferred on it by section 4 of the _Environment Protection (__Northern   Territory__Supreme Court) Act 1978_ to make application to the Supreme Court of the Northern Territory of Australia for the making of an order under that section.
 
 ##### <a id="23B"></a>23B  Application to Supreme Court for order with respect to information or documents
 
@@ -3136,7 +3136,7 @@ the Court may make an order requiring the person against whom the order is sough
 
 ##### <a id="23C"></a>23C  A person authorised by Land Council to have access to buildings and places in Region
 
-             (1)  In this section, **_authorized person_** means a person authorized by a Land Council for the purposes of this section, and any word or phrase that is defined by section 3 of the _Environment Protection (Northern Territory Supreme Court) Act 1978_ and is used in this section has the same meaning as in that Act.
+             (1)  In this section, **_authorized person_** means a person authorized by a Land Council for the purposes of this section, and any word or phrase that is defined by section 3 of the _Environment Protection (__Northern Territory__Supreme Court) Act 1978_ and is used in this section has the same meaning as in that Act.
 
              (2)  An authorized person is entitled, with the consent of the occupier, to full and free access to all buildings and places in the Alligator Rivers Region for the purpose of obtaining, and reporting to the Land Council, any information that:
 
@@ -3226,7 +3226,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  Where proceedings are commenced before a court with respect to a dispute of a kind referred to in subsection (2), the judge or magistrate constituting the court may, if he or she thinks it appropriate, adjourn the proceedings at any time for the purpose of affording a Land Council the opportunity of undertaking conciliation with a view to the settlement of that dispute.
 
-##### <a id="26"></a>26  Land Council to meet expenses etc. of Land Trust
+##### <a id="26"></a>26  Land Council to meet expenses etc. of Land Trust
 
                    A Land Council shall pay or discharge any administrative expenses, charges or obligations incurred or undertaken by a Land Trust that holds, or is established to hold, land in its area.
 
@@ -3294,7 +3294,7 @@ Delegation to Aboriginal and Torres Strait Islander corporation
 
                      (b)  section 19 (about dealings with interests in land by Land Trusts);
 
-                   (ba)  section 19A (about grant of township leases);
+                    (ba)  section 19A (about grant of township leases);
 
                      (c)  Part IV (about mining);
 
@@ -3312,7 +3312,7 @@ then, if that function or power is delegated, the delegate may perform the funct
 
                      (d)  that any Aboriginal community or group that may be affected by the doing of the act or thing has been consulted and has had adequate opportunity to express its views to the delegate.
 
-##### <a id="28A"></a>28A  Delegation of a Land Council’s functions or powers to Aboriginal and Torres Strait Islander corporation
+##### <a id="28A"></a>28A  Delegation of a Land Council’s functions or powers to Aboriginal and Torres  Strait Islander corporation
 
 Application
 
@@ -3482,7 +3482,7 @@ Notice not a legislative instrument
 
              (1)  If:
 
-                     (a)  a delegation from a Land Council to an Aboriginal and Torres Strait Islander corporation is in force under section 28; and
+                     (a)  a delegation from a Land Council to an Aboriginal and Torres Strait Islander corporation is in force under section 28; and
 
                      (b)  a person requests the Land Council to perform a function or exercise a power covered by the delegation;
 
@@ -3492,7 +3492,7 @@ the Land Council must, as soon as practicable, advise the corporation in writing
 
 ##### <a id="28F"></a>28F  Aboriginal and Torres Strait Islander corporation to give notice of its decisions
 
-                   If an Aboriginal and Torres Strait Islander corporation makes a decision under a delegation from a Land Council under section 28, the corporation must:
+                   If an Aboriginal and Torres Strait Islander corporation makes a decision under a delegation from a Land Council under section 28, the corporation must:
 
                      (a)  record its decision in writing; and
 
@@ -3514,7 +3514,7 @@ Eligibility requirements
 
              (5)  For the purposes of subsections (3) and (4), a **_disqualifying event_** happens in relation to a person if the person:
 
-                     (a)  is convicted of an offence against a law of the Commonwealth, a State or a Territory (not involving dishonesty) and sentenced to a period of imprisonment of 12 months or more; or
+                     (a)  is convicted of an offence against a law of the Commonwealth, a State or a Territory (not involving dishonesty) and sentenced to a period of imprisonment of 12 months or more; or
 
                      (b)  is convicted of an offence against a law of the Commonwealth, a State or a Territory involving dishonesty and sentenced to a period of imprisonment of 3 months or more; or
 
@@ -3682,11 +3682,11 @@ Minutes
 
              (1)  A Land Council shall prepare estimates, in such form as the Minister directs, of its expenditure to meet its administrative costs or capital costs for each financial year and, if the Minister so directs, for any other period and the Land Council shall submit those estimates to the Minister for his or her approval not later than such date as the Minister directs.
 
-Note:          The Minister must have regard to approved estimates in determining what amounts are to be debited from the Account under subsection 64(1).
+Note:          The Minister must have regard to approved estimates in determining what amounts are to be debited from the Account under subsection 64(1).
 
           (1A)  A Land Council must, at the time it submits estimates to the Minister under subsection (1), notify the Minister, in such form as the Minister directs, of:
 
-                     (a)  the total amount of fees it expects to receive under section 33A or 33B during the period to which those estimates relate; and
+                     (a)  the total amount of fees it expects to receive under section 33A or 33B during the period to which those estimates relate; and
 
                      (b)  the total amount of other income it expects to receive during the period to which those estimates relate in relation to performing functions or exercising powers under this Act.
 
@@ -3760,9 +3760,9 @@ the Land Council must, at the time it pays that amount, advise the person in wri
 
 Note 1:       Sections 35B and 35C impose requirements on a body corporate in relation to accountable amounts.
 
-Note 2:       The activities or operations of a body corporate or other person receiving an accountable amount may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_.
+Note 2:       The activities or operations of a body corporate or other person receiving an accountable amount may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
-          (4B)  If a Land Council receives a payment in respect of Aboriginal land under a lease under section 19A, the Land Council must, within 6 months of receiving the payment, pay an amount equal to that payment to an Aboriginal and Torres Strait Islander corporation for the benefit of the traditional Aboriginal owners of the land.
+          (4B)  If a Land Council receives a payment in respect of Aboriginal land under a lease under section 19A, the Land Council must, within 6 months of receiving the payment, pay an amount equal to that payment to an Aboriginal and Torres Strait Islander corporation for the benefit of the traditional Aboriginal owners of the land.
 
              (5)  Where a Land Council has not, before the expiration of the period specified in subsection (2) or (3), disbursed any amount that it is, under that subsection, required to disburse because it has not been able to make a determination under that subsection, the Land Council shall, as soon as practicable after the expiration of that period, but not later than one month after the expiration of that period, give to the Minister a report, in writing, setting out its reasons for not having made that determination.
 
@@ -3774,7 +3774,7 @@ Note 2:       The activities or operations of a body corporate or ot
 
 Note 1:       Sections 35B and 35C impose requirements on a body corporate that receives an amount under a determination.
 
-Note 2:       The activities or operations of a body corporate receiving an amount under a determination may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_.
+Note 2:       The activities or operations of a body corporate receiving an amount under a determination may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
           (6A)  If:
 
@@ -3800,7 +3800,7 @@ the Land Council may, by notice in writing given to the body corporate, suspend 
 
 Note:          Interest may also be payable to the other body corporate under subsection (11).
 
-          (6E)  A notice under subsection (6A) is not a legislative instrument.
+           (6E)  A notice under subsection (6A) is not a legislative instrument.
 
              (8)  Each amount of money that is paid to a Land Council as mentioned in subsection (2), (3), (4) or (4B) shall be held in trust for the bodies to which or persons to whom that amount is eventually to be paid in accordance with this section until that amount is so paid.
 
@@ -3812,7 +3812,7 @@ Note:          Interest may also be payable to the other body 
 
 Note 1:       Sections 35B and 35C impose requirements on a body corporate that receives an amount under this subsection.
 
-Note 2:       The activities or operations of a person receiving a payment under this subsection in certain circumstances may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_.
+Note 2:       The activities or operations of a person receiving a payment under this subsection in certain circumstances may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
 ##### <a id="35A"></a>35A  Making of determinations under subsection 35(2), (3) or (6)
 
@@ -3820,7 +3820,7 @@ Note 2:       The activities or operations of a person receiving a p
 
                      (a)  any report:
 
-                              (i)  of an evaluation or audit conducted under paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_ in relation to the body; and
+                              (i)  of an evaluation or audit conducted under paragraph 193X(1)(cb) of the _Aboriginal and__Torres  Strait__Islander Act 2005_ in relation to the body; and
 
                              (ii)  that was given to the Minister administering Part 4B of that Act in the period of 5 years before the time when the Council began to consider making the determination;
 
@@ -3880,7 +3880,7 @@ must inform the recipient of the amount of the purpose of the payment.
 
                             (iii)  the amount paid to each recipient and the day or days the amount was paid.
 
-             (3)  The body corporate must comply with subsection (2) within 30 days after the day by which it is required to give those financial statements.
+             (3)  The body corporate must comply with subsection (2) within 30 days after the day by which it is required to give those financial statements.
 
 Note:          A body corporate’s failure to do so may affect future payments to the body: see subsections 35(6A) to (6D) and section 35A.
 
@@ -4018,7 +4018,7 @@ Note:          If the consent of the Northern Territory Mining
 
           (2A)  The Minister must decide any extension request within 6 weeks of receiving it. The Minister must, by notice in writing given to the person:
 
-                     (a)  extend the standard period for a period not exceeding 3 months; or
+                     (a)  extend the standard period for a period not exceeding 3 months; or
 
                      (b)  refuse to extend the standard period.
 
@@ -4050,7 +4050,7 @@ Note:          If the consent of the Northern Territory Mining
 
                            (vii)  proposals for minimising the effect of the proposed exploration works on the affected land;
 
-                          (viii)  the estimated cost of exploration;
+                           (viii)  the estimated cost of exploration;
 
                             (ix)  the estimated geological potential of the area;
 
@@ -4060,7 +4060,7 @@ Note:          If the consent of the Northern Territory Mining
 
                            (xii)  proposals for rehabilitation; and
 
-                          (xiii)  proposals for minimising social impact;
+                           (xiii)  proposals for minimising social impact;
 
                      (e)  a description, expressed as fully as practicable, of the various methods for the recovery of any minerals found as a result of the exploration;
 
@@ -4164,7 +4164,7 @@ Standard negotiating period
 
                      (a)  the period of 22 months beginning on 1 January in the calendar year after the calendar year in which the application is received by the Council; or
 
-                     (b)  if, before the end of that 22 month period, the applicant and the Council agree in writing to extend that period by 2 years—that 2 year period; or
+                     (b)  if, before the end of that 22 month period, the applicant and the Council agree in writing to extend that period by 2 years—that 2 year period; or
 
                      (c)  if, before the end of the following period (the **_agreed period_**):
 
@@ -4378,7 +4378,7 @@ is held by the applicant or by the heirs, successors or assigns of that person a
 
                            (vii)  proposals for minimising the effect of the proposed mining works on the affected land;
 
-                          (viii)  any other information of the kind that would, under the law of the Northern Territory relating to the protection of the environment, be required to be included in an environmental impact statement in relation to the proposed mining works;
+                           (viii)  any other information of the kind that would, under the law of the Northern Territory relating to the protection of the environment, be required to be included in an environmental impact statement in relation to the proposed mining works;
 
                             (ix)  proposals for rehabilitation;
 
@@ -4388,7 +4388,7 @@ is held by the applicant or by the heirs, successors or assigns of that person a
 
                            (xii)  infrastructure requirements; and
 
-                          (xiii)  terms and conditions relating to payment;
+                           (xiii)  terms and conditions relating to payment;
 
                      (b)  the name, position and qualifications of the person or persons, not exceeding 3 in number, who will represent the intending miner at meetings convened pursuant to subsection (5) or, in the event that that person or any of those persons is unable so to represent the intending miner, of any other person authorised to represent the intending miner in lieu of the person who is unable so to represent the intending miner.
 
@@ -4462,7 +4462,7 @@ Exploration works
 
              (1)  If:
 
-                     (a)  a Land Council has consented to the grant of an exploration licence (including because of the operation of subsection 42(7)); and
+                     (a)  a Land Council has consented to the grant of an exploration licence (including because of the operation of subsection 42(7)); and
 
                      (b)  the Council, by notice in writing to the Minister, states that:
 
@@ -4492,7 +4492,7 @@ Mining works or activities
 
                               (i)  the proposed mining works or related activities are not in accordance with the description set out under paragraph 41(6)(e) in respect of the application relating to the relevant exploration licence; and
 
-                             (ii)  the Land Council consented to the grant of the licence (including because of the operation of subsection 42(7)); and
+                             (ii)  the Land Council consented to the grant of the licence (including because of the operation of subsection 42(7)); and
 
                             (iii)  the works or activities are causing, or are likely to cause, a significant impact on the affected land and on Aboriginals, to the extent that the Council would not have consented to the grant of the licence; and
 
@@ -4660,7 +4660,7 @@ setting out the terms and conditions to which, if the land becomes Aboriginal la
 
                      (a)  submit to the Land Council, in writing, a comprehensive proposal including, but not limited to, the particulars set out in paragraphs 41(6)(a) to (f), inclusive; and
 
-                     (b)  cause a copy of the proposal to be sent to the Minister.
+                     (b)   cause a copy of the proposal to be sent to the Minister.
 
              (5)  Where the applicant and the Land Council fail to agree upon the terms and conditions within 12 months after receipt of the proposal by the Land Council, the applicant or the Land Council, or both, may, in writing, request the Minister to refer the terms and conditions to a person appointed by the Minister as a Mining Commissioner for determination by conciliation, or, failing that, by arbitration.
 
@@ -4802,9 +4802,9 @@ the copy of the Proclamation shall, for the purposes of this section, be deemed 
 
              (2)  An offence against subsection (1) is an indictable offence and, subject to this section, is punishable on conviction by:
 
-                     (a)  in the case of a natural person—a fine of not more than 120 penalty units or imprisonment for not more than 2 years, or both; or
+                     (a)  in the case of a natural person—a fine of not more than 120 penalty units or imprisonment for not more than 2 years, or both; or
 
-                     (b)  in the case of a body corporate—a fine of not more than 600 penalty units.
+                     (b)  in the case of a body corporate—a fine of not more than 600 penalty units.
 
              (3)  Notwithstanding that an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 
@@ -4816,7 +4816,7 @@ the copy of the Proclamation shall, for the purposes of this section, be deemed 
 
 ## Part V—Aboriginal Land Commissioners
 
-##### <a id="49"></a>49  Aboriginal Land Commissioners
+##### <a id="49"></a>49  Aboriginal  Land Commissioners
 
                    There shall be such number of Aboriginal Land Commissioners as the Minister determines.
 
@@ -4882,7 +4882,7 @@ the Commissioner shall not perform, or continue to perform, a function under tha
 
 the Commissioner shall not perform, or continue to perform, a function under paragraph (1)(a) in relation to the application in respect of that land or that part.
 
-          (2E)  Paragraph (2D)(b) does not apply in relation to:
+           (2E)  Paragraph (2D)(b) does not apply in relation to:
 
                      (a)  a stock route or stock reserve that is, along each of its two longer boundaries, contiguous to land to which the application relates.
 
@@ -4956,7 +4956,7 @@ when required to do so under this section on the ground that the answer to the q
 
                      (d)  might make the person liable to a penalty.
 
-          (3A)  However, the person’s answer to any such question is not admissible in evidence against him or her in proceedings, other than proceedings for an offence against paragraph (6)(b) or section 54B.
+          (3A)  However, the person’s answer to any such question is not admissible in evidence against him or her in proceedings, other than proceedings for an offence against paragraph (6)(b) or section 54B.
 
              (4)  A person attending before a Commissioner in pursuance of this section has the same protection, and is, in addition to the penalties provided by this section, subject to the same liabilities, as a witness in proceedings in the High Court.
 
@@ -5012,15 +5012,15 @@ Note:          For strict liability, see section 6.1 of the _C
 
              (3)  A person who intentionally contravenes or fails to comply with a direction given under this section is guilty of an offence punishable, on summary conviction, by:
 
-                     (a)  in the case of a natural person—a fine of not more than 60 penalty units or imprisonment for not more than 12 months, or both; or
+                     (a)  in the case of a natural person—a fine of not more than 60 penalty units or imprisonment for not more than 12 months, or both; or
 
-                     (b)  in the case of a body corporate—a fine of not more than 300 penalty units.
+                     (b)  in the case of a body corporate—a fine of not more than 300 penalty units.
 
 ##### <a id="54C"></a>54C  Financial assistance in respect of legal representation
 
              (1)  Where:
 
-                     (a)  an application has been made, in accordance with paragraph 50(1)(a), to a Commissioner by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land; and
+                     (a)  an application has been made, in accordance with paragraph 50(1)(a), to a Commissioner by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land; and
 
                      (b)  a person (not being a person by whom, or on whose behalf, the application referred to in paragraph (a) has been made) or an unincorporated association of persons wishes to be, or is, legally represented at the inquiry by the Commissioner into the claim;
 
@@ -5040,7 +5040,7 @@ the Attorney-General or the public servant may authorize, either unconditionally
 
              (1)  A Commissioner may refer a question of law arising in connection with an application referred to in paragraph 50(1)(a) made to the Commissioner to the Federal Court of Australia for determination.
 
-             (2)  The Federal Court of Australia has jurisdiction to hear and determine a question of law referred to it under subsection (1) and that jurisdiction shall be exercised by that Court constituted as a Full Court.
+             (2)  The Federal Court of Australia has jurisdiction to hear and determine a question of law referred to it under subsection (1) and that jurisdiction shall be exercised by that Court constituted as a Full   Court.
 
              (3)  Where a question of law arising in connection with such an application has been referred to the Federal Court of Australia under this section, a Commissioner shall not:
 
@@ -5158,7 +5158,7 @@ such part only of the increase in the amount of those royalties as is determined
 
              (6)  There must be credited to the Account amounts equal to any money paid by any person to the Commonwealth for the purposes of the Account.
 
-             (7)  There must be credited to the Account amounts equal to any amounts from time to time received by the Commonwealth as interest on, or as repayment of, any loan made under subsection 64(4).
+             (7)  There must be credited to the Account amounts equal to any amounts from time to time received by the Commonwealth as interest on, or as repayment of, any loan made under subsection 64(4).
 
 ##### <a id="64"></a>64  Debits from the Account
 
@@ -5180,19 +5180,19 @@ as the case may be.
 
              (4)  There must be debited from the Account  and paid by the Commonwealth  such other amounts as the Minister directs to be paid or applied to or for the benefit of Aboriginals living in the Northern Territory.
 
-Note:          The activities or operations of any individual or organisation that receives a payment under this subsection may be evaluated or audited: see paragraph 193X(1)(cc) of the _Aboriginal and Torres Strait Islander Act 2005_.
+Note:          The activities or operations of any individual or organisation that receives a payment under this subsection may be evaluated or audited: see paragraph 193X(1)(cc) of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
           (4A)  There must be debited from the Account  and paid by the Commonwealth  such other amounts as the Minister directs to be paid in relation to:
 
                     (aa)  the acquiring of a lease by the Commonwealth if the Minister has agreed to a request under subsection 19(3A) or 20CA(2) in relation to the lease; or
 
-                   (ab)  the administering of a lease covered by paragraph (aa) if the Executive Director entered into the lease on behalf of the Commonwealth; or
+                    (ab)  the administering of a lease covered by paragraph (aa) if the Executive Director entered into the lease on behalf of the Commonwealth; or
 
                     (ac)  the acquiring of a sublease by the Commonwealth if the Minister has agreed to a request under subsection 20CA(2) in relation to the sublease; or
 
-                   (ad)  the administering of a sublease covered by paragraph (ac) if the Executive Director entered into the sublease on behalf of the Commonwealth; or
+                    (ad)  the administering of a sublease covered by paragraph (ac) if the Executive Director entered into the sublease on behalf of the Commonwealth; or
 
-                     (a)  the acquiring of leases by, or the administering of leases granted or transferred to, approved entities under section 19A; or
+                     (a)  the acquiring of leases by, or the administering of leases granted or transferred to, approved entities under section 19A; or
 
                      (b)  the payment of amounts under leases granted or transferred to approved entities under section 19A.
 
@@ -5222,7 +5222,7 @@ Note:          The activities or operations of any individual 
 
                      (b)  that specified amounts that are, in the aggregate, equal to that amount are to be respectively taken, for the purposes of this section, to have been debited from the Account in relation to specified Land Councils.
 
-             (4)  If, in consequence of a direction by the Minister under subsection (1) that an amount be debited from the Account, an additional amount is also debited from the Account in accordance with subsection (2), the Minister must, by written instrument, direct, in relation to that additional amount:
+             (4)  If, in consequence of a direction by the Minister under subsection (1) that an amount be debited from the Account, an additional amount is also debited from the Account in accordance with subsection (2), the Minister must, by written instrument, direct, in relation to that additional amount:
 
                      (a)  that the additional amount is to be taken, for the purposes of this section, to have been debited from the Account in relation to a specified Land Council; or
 
@@ -5236,11 +5236,11 @@ Note:          The activities or operations of any individual 
 
                      (a)  any amount that is paid to that Land Council under an agreement under subsection 44(1) or (2); or
 
-                     (b)  any amount that is paid to that Land Council out of the appropriation made by item 07 of subdivision 3 of Division 640 of the _Appropriation Act (No. 1) 1978-79_; or
+                     (b)  any amount that is paid to that Land Council out of the appropriation made by item 07 of subdivision 3 of Division 640 of the _Appropriation Act (No. 1) 1978-79_; or
 
                      (c)  any amount that is paid to that Land Council out of the appropriation made by subdivision 1 of Division 815 of the _Appropriation Act (No. 4) 1980-81_; or
 
-                     (d)  any amount that is paid to that Land Council out of the appropriation made by item 09 of subdivision 3 of Division 120 of the _Appropriation Act (No. 1) 1981-82_; or
+                     (d)  any amount that is paid to that Land Council out of the appropriation made by item 09 of subdivision 3 of Division 120 of the _Appropriation Act (No. 1) 1981-82_; or
 
                      (e)  any other amount that is paid to that Land Council for that purpose by the Commonwealth and that the Minister determines, by written instrument, should not be taken into account for the purposes of this section.
 
@@ -5270,7 +5270,7 @@ Note:          The activities or operations of any individual 
 
           (2A)  For the purposes of paragraph 2(b), the Minister may, from time to time, fix the number of members to be elected by a Land Council having regard to the number of Aboriginals living in the area of that Land Council.
 
-             (3)  The Chair and the members of the Committee elected by each Land Council shall be Aboriginals living in the Northern Territory or whose names are set out in a register maintained in accordance with section 24.
+             (3)  The Chair and the members of the Committee elected by each Land Council shall be Aboriginals living in the Northern   Territory or whose names are set out in a register maintained in accordance with section 24.
 
              (4)  The Minister may, by writing, appoint 1 or 2 persons to be members of the Committee.
 
@@ -5294,7 +5294,7 @@ Note:          The activities or operations of any individual 
 
                      (b)  an interest arising out of the operation of the _Atomic Energy Act 1953_ or any other Act authorizing mining for minerals;
 
-                   (ba)  a lease or other interest in land or a right granted under a law of the Northern Territory relating to the mining or development of extractive mineral deposits;
+                    (ba)  a lease or other interest in land or a right granted under a law of the Northern Territory relating to the mining or development of extractive mineral deposits;
 
                      (c)  an interest arising out of the taking possession, mining or occupation of land by virtue of a miner’s right; and
 
@@ -5358,7 +5358,7 @@ Note:          Subparagraph (b)(i) relates to subsection 50(2A
 
                      (a)  an application has been made under section 50 by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land; and
 
-                     (b)  after the commencement of this subsection, the Commissioner requests the applicants, in writing, to provide further information in relation to the application within a period specified in the request (which must be at least 6 months from the making of the request) and the Commissioner determines in writing that the further information is not provided within that period;
+                     (b)  after the commencement of this subsection, the Commissioner requests the applicants, in writing, to provide further information in relation to the application within a period specified in the request (which must be at least 6 months from the making of the request) and the Commissioner determines in writing that the further information is not provided within that period;
 
 the traditional land claim is taken to have been finally disposed of.
 
@@ -5366,7 +5366,7 @@ the traditional land claim is taken to have been finally disposed of.
 
                      (a)  an application has been made under section 50 by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land; and
 
-                     (b)  paragraphs 50(2B)(b) and (c) are satisfied but the Commissioner has not made a finding under paragraph 50(2B)(d), (e) or (f) in relation to common land (within the meaning of subsection 50(2B)); and
+                     (b)  paragraphs 50(2B)(b) and (c) are satisfied but the Commissioner has not made a finding under paragraph 50(2B)(d), (e) or (f) in relation to common land (within the meaning of subsection 50(2B)); and
 
                      (c)  after the commencement of this subsection, either:
 
@@ -5396,7 +5396,7 @@ the traditional land claim, in so far as it relates to the held land, is taken t
 
            (12)  This subsection applies in relation to an application:
 
-                     (a)  that was made under section 50 before the commencement of this subsection by or on behalf of Aboriginals claiming to have a traditional land claim to qualifying land (whether or not recommendations of the kind referred to in subparagraph 50(1)(a)(ii) have been made and whether or not the application covers other land); and
+                     (a)  that was made under section 50 before the commencement of this subsection by or on behalf of Aboriginals claiming to have a traditional land claim to qualifying land (whether or not recommendations of the kind referred to in subparagraph 50(1)(a)(ii) have been made and whether or not the application covers other land); and
 
                      (b)  that was given the land claim number prescribed by the regulations.
 
@@ -5454,7 +5454,7 @@ Written agreements
 
              (2)  A Land Council may enter into a written agreement with a person in relation to a grant of an estate or interest in an area of land, or in a part of an area of land, specifying the terms and conditions on which the proposed grant is to be made.
 
-             (3)  A Land Council must not enter into an agreement under subsection (2) unless it is satisfied that:
+             (3)  A Land Council must not enter into an agreement under subsection (2) unless it is satisfied that:
 
                      (a)  the traditional Aboriginal owners of the relevant land understand the nature and purpose of the proposed grant and, as a group, consent to it; and
 
@@ -5472,7 +5472,7 @@ Payments
 
                      (a)  apply the payment in accordance with the agreement; or
 
-                     (b)  if the agreement makes no provision in relation to the application of the payment—apply the payment to or for the benefit of the traditional Aboriginal owners of the area of land, or the part of the area of land, referred to in subsection (2).
+                     (b)  if the agreement makes no provision in relation to the application of the payment—apply the payment to or for the benefit of the traditional Aboriginal owners of the area of land, or the part of the area of land, referred to in subsection (2).
 
              (7)  If:
 
@@ -5488,7 +5488,7 @@ the Land Council must, at the time it pays that amount, advise the person in wri
 
 Note 1:       Sections 35B and 35C impose requirements on a body corporate in relation to accountable amounts.
 
-Note 2:       The activities or operations of a body corporate or other person receiving an accountable amount may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_.
+Note 2:       The activities or operations of a body corporate or other person receiving an accountable amount may be evaluated or audited: see paragraph 193X(1)(cb) of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
 Commissioner to continue to assess land claim application
 
@@ -5530,7 +5530,7 @@ Consent of Minister not a legislative instrument
 
                     Penalty:  
 
-                     (a)  for an individual—200 penalty units or imprisonment for 12 months; or
+                     (a)  for an individual—200 penalty units or imprisonment for 12 months; or
 
                      (b)  for a body corporate—1,000 penalty units.
 
@@ -5564,13 +5564,13 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  in performing duties as the Governor-General or as a person appointed to administer the Government of the Commonwealth under section 4 of the Constitution; or
 
-                     (b)  in performing duties as the Administrator, an Acting Administrator, or a Deputy Administrator, of the Northern Territory; or
+                     (b)  in performing duties as the Administrator, an Acting Administrator, or a Deputy Administrator, of the Northern   Territory; or
 
                      (c)  in performing duties as a member of either House of the Parliament or as a member of the Legislative Assembly of the Northern Territory; or
 
                      (d)  as a candidate for election as a member of the House of Representatives for a Northern Territory electorate, as a Senator for the Northern Territory or as a member of the Legislative Assembly of the Northern Territory; or
 
-                     (e)  in performing functions, or exercising powers, under this Act or another law of the Commonwealth or under a law of the   Northern Territory; or
+                     (e)  in performing functions, or exercising powers, under this Act or another law of the Commonwealth or under a law of the Northern Territory; or
 
                       (f)  in performing functions or exercising powers as a Commonwealth or Northern Territory officer; or
 
@@ -5582,7 +5582,7 @@ Note:          A defendant bears an evidential burden in relat
 
        (2AA)  In paragraph (2A)(f):
 
-                    <a name="commonwealth-northern-territori-offic"></a>**_Commonwealth or Northern Territory officer_** means:
+                    <a name="offic"></a><a name="northern-territori"></a><a name="commonwealth"></a>**_Commonwealth or_****_Northern Territory_****_officer_** means:
 
                      (a)  a person who is in the service or employment of the Commonwealth, the Northern Territory or an Authority; or
 
@@ -5592,7 +5592,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2B) (see subsection 13.3(3) of the _Criminal Code_).
 
-       (2BA)  In proceedings against a person for an offence against subsection (1), it is a defence if the person enters or remains on the land in accordance with an authorisation in force under subsection (2BB).
+        (2BA)  In proceedings against a person for an offence against subsection (1), it is a defence if the person enters or remains on the land in accordance with an authorisation in force under subsection (2BB).
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2BA) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -5600,9 +5600,9 @@ Note:          A defendant bears an evidential burden in relat
 
         (2BC)  An authorisation under subsection (2BB) is not a legislative instrument.
 
-       (2BD)  Subsections (2BA) to (2BC) cease to have effect at the end of the period of 5 years beginning on the day on which this subsection commenced.
+        (2BD)  Subsections (2BA) to (2BC) cease to have effect at the end of the period of 5 years beginning on the day on which this subsection commenced.
 
-          (2C)  In proceedings against a person for an offence against subsection (1), it is a defence if:
+          (2C)  In proceedings against a person for an offence against subsection (1), it is a defence if:
 
                      (a)  the land (the **_relevant land_**) the person entered or remained on is part of land (the **_leased land_**) that is leased under:
 
@@ -5618,7 +5618,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2D) (see subsection 13.3(3) of the _Criminal Code_).
 
-          (2E)  In subsection (2D):
+           (2E)  In subsection (2D):
 
                     <a name="commun-land"></a>**_community land_** has the meaning given by section 70A.
 
@@ -5712,7 +5712,7 @@ Limitation
 
              (6)  Subsection (1) applies subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
-             (7)  For the purposes of subsection (6), the regulations may provide that specified provisions of a law of the Northern Territory apply in relation to a road or an area to which subsection (1) applies as if the road or area were open to or used by the public.
+             (7)  For the purposes of subsection (6), the regulations may provide that specified provisions of a law of the Northern   Territory apply in relation to a road or an area to which subsection (1) applies as if the road or area were open to or used by the public.
 
              (8)  Subsection (7) does not limit subsection (6).
 
@@ -5874,7 +5874,7 @@ Limitation
 
              (7)  Subsection (1) applies subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
-             (8)  For the purposes of subsection (7), the regulations may provide that specified provisions of a law of the Northern Territory apply in relation to a road to which subsection (1) applies as if the road were open to or used by the public.
+             (8)  For the purposes of subsection (7), the regulations may provide that specified provisions of a law of the Northern   Territory apply in relation to a road to which subsection (1) applies as if the road were open to or used by the public.
 
              (9)  Subsection (8) does not limit subsection (7).
 
@@ -5942,7 +5942,7 @@ Limitations
 
              (4)  Subsection (1) applies subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
-             (5)  For the purposes of subsection (4), the regulations may provide that specified common areas are taken to be public parks for the purposes of specified provisions of a law of the Northern Territory relating to public parks.
+             (5)  For the purposes of subsection (4), the regulations may provide that specified common areas are taken to be public parks for the purposes of specified provisions of a law of the Northern   Territory relating to public parks.
 
              (6)  Subsection (5) does not limit subsection (4).
 
@@ -5982,7 +5982,7 @@ may, by written determination for the purposes of this section, impose temporary
 
            (13)  The Executive Director of Township Leasing referred to in section 20B may, by writing, delegate his or her power under subsection (12) of this section to an APS employee in the Department.
 
-           (14)  If a common area to which subsection (1) applies is covered by a lease under section 31 of the _Northern Territory__National Emergency Response Act 2007_, the Minister may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the common area for the purpose of protecting public health or safety.
+           (14)  If a common area to which subsection (1) applies is covered by a lease under section 31 of the _Northern   Territory__National Emergency Response Act 2007_, the Minister may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the common area for the purpose of protecting public health or safety.
 
            (15)  Subsections (10), (11), (12) and (14) apply subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
@@ -6020,7 +6020,7 @@ Note:          See section 70A for the definition of **_vest
 
              (3)  Subsection (1) applies subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
-##### <a id="70H"></a>70H  No limit on section 71
+##### <a id="70H"></a>70H  No limit on section 71
 
                    Nothing in sections 70B to 70G limits the application of section 71.
 
@@ -6062,7 +6062,7 @@ Note:          See section 70A for the definition of **_vest
 
                      (b)  laws regulating or authorizing the entry of persons on Aboriginal land, but so that any such laws shall provide for the right of Aboriginals to enter such land in accordance with Aboriginal tradition;
 
-                   (ba)  laws providing for temporary restrictions of the kind referred to in subsection 70B(12), 70E(13) or 70F(10), but so that any such laws do not apply to Aboriginals who enter, and use or occupy, the road or area concerned in accordance with Aboriginal tradition; and
+                    (ba)  laws providing for temporary restrictions of the kind referred to in subsection 70B(12), 70E(13) or 70F(10), but so that any such laws do not apply to Aboriginals who enter, and use or occupy, the road or area concerned in accordance with Aboriginal tradition; and
 
                      (c)  laws providing for the protection or conservation of, or making other provision with respect to, wildlife in the Northern Territory, including wildlife on Aboriginal land, and, in particular, laws providing for schemes of management of wildlife on Aboriginal land, being schemes that are to be formulated in consultation with the Aboriginals using the land to which the scheme applies, but so that any such laws shall provide for the right of Aboriginals to utilise wildlife resources; and
 
@@ -6076,7 +6076,7 @@ but any such law has effect to the extent only that it is capable of operating c
 
                    This Act does not affect the application to Aboriginal land of a law of the Northern Territory to the extent that that law is capable of operating concurrently with this Act.
 
-##### <a id="74AA"></a>74AA  Revoking of permits issued under the Aboriginal Land Act of the Northern Territory
+##### <a id="74AA"></a>74AA  Revoking of permits issued under the Aboriginal Land Act of the Northern   Territory
 
                    A permit issued under section 5 of the _Aboriginal Land Act_ of the Northern Territory may only be revoked by the issuer of the permit.
 
@@ -6084,7 +6084,7 @@ Note:          The reference to the _Aboriginal Land Act_ of t
 
 ##### <a id="74A"></a>74A  Financial assistance in respect of legal representation in closure of seas applications
 
-             (1)  Where, in accordance with a law of the Northern Territory of a kind referred to in paragraph 73(1)(d):
+             (1)  Where, in accordance with a law of the Northern   Territory of a kind referred to in paragraph 73(1)(d):
 
                      (a)  an application is made to the Administrator of the Northern Territory with respect to the regulation or prohibition of the entry of persons into, or the control of fishing or other activities in, waters of the sea, including waters of the territorial sea of Australia, adjoining, and within 2 kilometres of, Aboriginal land;
 
@@ -6116,7 +6116,7 @@ Delegation—except mining
 
                      (d)  an SES employee or acting SES employee in any other Department of the Commonwealth; or
 
-                     (e)  the General Manager of Indigenous Business Australia appointed under section 168 of the _Aboriginal and Torres Strait Islander Act 2005_.
+                     (e)  the General Manager of Indigenous Business Australia appointed under section 168 of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
 Delegation—mining
 
@@ -6142,7 +6142,7 @@ Delegation—mining
 
              (3)  If a delegation under subsection (2) is made, the Northern Territory Mining Minister is taken to have executive authority to perform the delegated functions or exercise the delegated powers.
 
-             (4)  If the Minister delegates the Minister’s function under subsection 41(2A) (about deciding extension requests for applications for consent to the grant of an exploration licence) to the Northern Territory Mining Minister, the Northern Territory Mining Minister may, in writing, delegate that function to another person.
+             (4)  If the Minister delegates the Minister’s function under subsection 41(2A) (about deciding extension requests for applications for consent to the grant of an exploration licence) to the Northern Territory Mining Minister, the Northern Territory Mining Minister may, in writing, delegate that function to another person.
 
              (5)  A function that is performed by a person under a delegation under subsection (4) is taken, for the purposes of this Act, to have been performed by the Minister.
 
@@ -6200,75 +6200,75 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
  
 
-# Schedule 1  
+# Schedule 1  
 
 _Section 4_
 
-## Part 1  
+## Part 1 
 
-ALLIGATOR RIVERS (No. 1)
+ALLIGATOR RIVERS (No. 1) 
 
-All that piece of land in the Northern Territory of Australia containing an area of 4830 square kilometres more or less and bounded by a line commencing at the intersection of the eastern boundary of Pastoral Lease 739 (Mudginberri) with the left bank of the East Alligator River; thence southerly and westerly by the eastern and part of the southern boundary of the said Pastoral Lease to its intersection with meridian of east longitude 132 degrees 53 minutes; thence southerly by the said meridian to its intersection with the parallel of south latitude 12 degrees 43 minutes 12.14 seconds; thence southwesterly to the intersection of parallel of south latitude 12 degrees 44 minutes 45.38 seconds with the meridian of east longitude 132 degrees 51 minutes 47.54 seconds; thence northwesterly to the intersection of parallel of south latitude 12 degrees 43 minutes 38.69 seconds with the meridian of east longitude 132 degrees 48 minutes 29.26 seconds; thence northwesterly on a bearing of 333 degrees 55 minutes 02.58 seconds to its intersection with a line 30.175 metres east of and parallel to the centreline of the road to Oenpelli; thence generally southwesterly by the said line to its intersection with the easterly prolongation of the survey line as shown on Survey Plan A429 lodged with the Surveyor General for the Northern Territory; thence westerly by the said prolongation and the said survey line to the survey line as shown on Survey Plan A913 lodged with the Surveyor General for the Northern Territory; thence westerly by the said survey line and its westerly prolongation to its intersection with the right bank of the South Alligator River; thence southwesterly by a line from the said intersection to the most northern northeastern corner of Pastoral Lease 612 (Goodparla); thence southerly easterly again southerly and southeasterly by eastern northern eastern and northeastern boundaries of the said Pastoral Lease to the northwestern corner of Pastoral Lease 668 (Gimbat); thence easterly by the northern boundary of the said Pastoral Lease and its prolongation easterly to its intersection with the meridian of east longitude 133 degrees; thence northerly by the said meridian to its intersection with the left bank of the East Alligator River; thence generally northerly by the left bank of the East Alligator River to the point of commencement but excluding therefrom Northern Territory Portions 838 and 895.
+All that piece of land in the Northern Territory of Australia containing an area of 4830 square kilometres more or less and bounded by a line commencing at the intersection of the eastern boundary of Pastoral Lease 739 (Mudginberri) with the left bank of the East Alligator River; thence southerly and westerly by the eastern and part of the southern boundary of the said Pastoral Lease to its intersection with meridian of east longitude 132 degrees 53 minutes; thence southerly by the said meridian to its intersection with the parallel of south latitude 12 degrees 43 minutes 12.14 seconds; thence southwesterly to the intersection of parallel of south latitude 12 degrees 44 minutes 45.38 seconds with the meridian of east longitude 132 degrees 51 minutes 47.54 seconds; thence northwesterly to the intersection of parallel of south latitude 12 degrees 43 minutes 38.69 seconds with the meridian of east longitude 132 degrees 48 minutes 29.26 seconds; thence northwesterly on a bearing of 333 degrees 55 minutes 02.58 seconds to its intersection with a line 30.175 metres east of and parallel to the centreline of the road to Oenpelli; thence generally southwesterly by the said line to its intersection with the easterly prolongation of the survey line as shown on Survey Plan A429 lodged with the Surveyor General for the Northern Territory; thence westerly by the said prolongation and the said survey line to the survey line as shown on Survey Plan A913 lodged with the Surveyor General for the Northern Territory; thence westerly by the said survey line and its westerly prolongation to its intersection with the right bank of the South Alligator River; thence southwesterly by a line from the said intersection to the most northern northeastern corner of Pastoral Lease 612 (Goodparla); thence southerly easterly again southerly and southeasterly by eastern northern eastern and northeastern boundaries of the said Pastoral Lease to the northwestern corner of Pastoral Lease 668 (Gimbat); thence easterly by the northern boundary of the said Pastoral Lease and its prolongation easterly to its intersection with the meridian of east longitude 133 degrees; thence northerly by the said meridian to its intersection with the left bank of the East Alligator River; thence generally northerly by the left bank of the East Alligator River to the point of commencement but excluding therefrom Northern Territory Portions 838 and 895\. 
 
 ALLIGATOR RIVERS (No. 2)
 
-All that piece of land in the Northern Territory of Australia containing an area of 390 square kilometres more or less and bounded by a line commencing at the northwestern corner of Pastoral Lease 739 (Mudginberri); thence southerly by part of the western boundary of the said Pastoral Lease to the northeastern corner of Pastoral Lease 737 (Munmarlary); thence northwesterly by a line from the said corner of the said Pastoral Lease to the intersection of the parallel of south latitude 12 degrees 5 minutes 30 seconds with the meridian of east longitude 132 degrees 33 minutes 28 seconds; thence northwesterly by the northwesterly prolongation of the said line to its intersection with the sea coast of Van Diemen Gulf at Point Farewell; thence by the said sea coast and the left bank of the East Alligator River to its intersection with the northern boundary of Pastoral Lease 739 (Mudginberri); thence westerly by the northern boundary of the said Pastoral Lease to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 390 square kilometres more or less and bounded by a line commencing at the northwestern corner of Pastoral Lease 739 (Mudginberri); thence southerly by part of the western boundary of the said Pastoral Lease to the northeastern corner of Pastoral Lease 737 (Munmarlary); thence northwesterly by a line from the said corner of the said Pastoral Lease to the intersection of the parallel of south latitude 12 degrees 5 minutes 30 seconds with the meridian of east longitude 132 degrees 33 minutes 28 seconds; thence northwesterly by the northwesterly prolongation of the said line to its intersection with the sea coast of Van Diemen Gulf at Point Farewell; thence by the said sea coast and the left bank of the East Alligator River to its intersection with the northern boundary of Pastoral Lease 739 (Mudginberri); thence westerly by the northern boundary of the said Pastoral Lease to the point of commencement. 
 
 AMOONGUNA
 
-All those pieces of land near Alice Springs in the Northern Territory of Australia containing an area of 530.5 hectares more or less being Northern Territory Portions 461 and 568 and being more particularly delineated on Survey Plans A 127 and Diagram 492 respectively lodged with the Surveyor-General for the Northern Territory.
+All those pieces of land near Alice Springs in the Northern Territory of Australia containing an area of 530.5 hectares more or less being Northern Territory Portions 461 and 568 and being more particularly delineated on Survey Plans A 127 and Diagram 492 respectively lodged with the Surveyor-General for the Northern Territory.  
 
 ARNHEM LAND (ISLANDS)
 
-All those islands in the Northern Territory of Australia containing an area of 5956 square kilometres more or less bounded by lines described as follows: Commencing at a point on high water mark of Mountnorris Bay bearing 245 degrees and approximately 16 kilometres distant from Coombe Point; thence north to the low water mark of the seacoast of Mountnorris Bay; thence generally northwesterly by the low water mark of the seacoast of Mountnorris Bay to its intersection with the meridian of east longitude 132 degrees 20 minutes; thence north to the parallel of south latitude 10 degrees 50 minutes; thence east to the meridian of east longitude 137 degrees; thence south to a point due east of the seaward extremity of the left bank of the Roper River; thence by a line due west to the said seaward extremity of the left bank of the Roper River; thence generally northeasterly and westerly along low water mark of the seacoast of the mainland of Australia to a point due north of the point of commencement; thence south to the point of commencement; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries.
+All those islands in the Northern Territory of Australia containing an area of 5956 square kilometres more or less bounded by lines described as follows: Commencing at a point on high water mark of Mountnorris Bay bearing 245 degrees and approximately 16 kilometres distant from Coombe Point; thence north to the low water mark of the seacoast of Mountnorris Bay; thence generally northwesterly by the low water mark of the seacoast of Mountnorris Bay to its intersection with the meridian of east longitude 132 degrees 20 minutes; thence north to the parallel of south latitude 10 degrees 50 minutes; thence east to the meridian of east longitude 137 degrees; thence south to a point due east of the seaward extremity of the left bank of the Roper River; thence by a line due west to the said seaward extremity of the left bank of the Roper River; thence generally northeasterly and westerly along low water mark of the seacoast of the mainland of Australia to a point due north of the point of commencement; thence south to the point of commencement; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries.
 
 ARNHEM LAND (MAINLAND)
 
-All that piece of land in the Northern Territory of Australia containing an area of 89872 square kilometres more or less bounded by lines described as follows: Commencing at a point on the high water mark of Mountnorris Bay bearing 245 degrees and approximately 16 kilometres distant from Coombe Point; thence north to the low water mark of the seacoast of Mountnorris Bay; thence generally easterly and southwesterly by the low water mark of the seacoast of Mountnorris Bay, Arafura Sea and the Gulf of Carpenteria to its intersection with the low water mark of the left bank of the Roper River, but excluding from the said boundary line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence generally westerly by the said low water mark of the said river to its intersection with the southerly prolongation of the eastern boundary of Pastoral Lease 657 (Urapunga); thence northerly by the said prolongation and the eastern boundary of the said Pastoral Lease to the northeastern corner of the said Pastoral Lease; thence northerly, westerly, again northerly, again westerly and southerly by eastern, northern, again eastern again northern and western boundaries of Pastoral Leases 726 and 725 (Mainoru) to the most northern northeastern corner of Pastoral Lease 569 (Mountain Valley); thence westerly by the northern boundaries of Pastoral Lease 569 and Pastoral Lease 707 (Waterhouse) to the northeastern corner of Pastoral Lease 705 (Eva Valley); thence westerly by part of a northern boundary of the said Pastoral Lease to the southeastern corner of Pastoral Lease 668 (Gimbat); thence northerly by the eastern boundary of the said Pastoral Lease to the northeastern corner of the said Pastoral Lease; thence northerly by the eastern boundary of the Sanctuary as notified in Northern Territory Government Gazette No. 32 of 9 August 1972 and its northerly prolongation to its intersection with the right bank of the East Alligator River; thence generally northwesterly by the said bank of the East Alligator River to a point due east of the tidal limit of the said river; thence west by a line to the low water mark of the right bank of the East Alligator River; thence generally northwesterly by the said low water mark of the said river to its intersection with the low water mark of the seacoast of Van Diemen Gulf; thence generally northerly by the said low water mark to its intersection with a line bearing 231 degrees from the point of commencement; but excluding from the said boundary line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence northeasterly by the said line bearing 231 degrees to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 89872 square kilometres more or less bounded by lines described as follows: Commencing at a point on the high water mark of Mountnorris Bay bearing 245 degrees and approximately 16 kilometres distant from Coombe Point; thence north to the low water mark of the seacoast of Mountnorris Bay; thence generally easterly and southwesterly by the low water mark of the seacoast of Mountnorris Bay, Arafura Sea and the Gulf of Carpenteria to its intersection with the low water mark of the left bank of the Roper River, but excluding from the said boundary line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence generally westerly by the said low water mark of the said river to its intersection with the southerly prolongation of the eastern boundary of Pastoral Lease 657 (Urapunga); thence northerly by the said prolongation and the eastern boundary of the said Pastoral Lease to the northeastern corner of the said Pastoral Lease; thence northerly, westerly, again northerly, again westerly and southerly by eastern, northern, again eastern again northern and western boundaries of Pastoral Leases 726 and 725 (Mainoru) to the most northern northeastern corner of Pastoral Lease 569 (Mountain Valley); thence westerly by the northern boundaries of Pastoral Lease 569 and Pastoral Lease 707 (Waterhouse) to the northeastern corner of Pastoral Lease 705 (Eva Valley); thence westerly by part of a northern boundary of the said Pastoral Lease to the southeastern corner of Pastoral Lease 668 (Gimbat); thence northerly by the eastern boundary of the said Pastoral Lease to the northeastern corner of the said Pastoral Lease; thence northerly by the eastern boundary of the Sanctuary as notified in Northern Territory Government Gazette No. 32 of 9 August 1972 and its northerly prolongation to its intersection with the right bank of the East Alligator River; thence generally northwesterly by the said bank of the East Alligator River to a point due east of the tidal limit of the said river; thence west by a line to the low water mark of the right bank of the East Alligator River; thence generally northwesterly by the said low water mark of the said river to its intersection with the low water mark of the seacoast of Van Diemen Gulf; thence generally northerly by the said low water mark to its intersection with a line bearing 231 degrees from the point of commencement; but excluding from the said boundary line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence northeasterly by the said line bearing 231 degrees to the point of commencement.  
 
 BATHURST ISLAND
 
-All those pieces of land at Bathurst Island in the Northern Territory of Australia containing an area of 2071 square kilometres more or less being the whole of Bathurst Island above a line along the low water mark and all other islands above a line along the low water mark lying within 5.56 kilometres of the low water mark of Bathurst Island; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries and excluding all that land described in Deed of Grant Volume 22 Folio 196.
+All those pieces of land at Bathurst Island in the Northern Territory of Australia containing an area of 2071 square kilometres more or less being the whole of Bathurst Island above a line along the low water mark and all other islands above a line along the low water mark lying within 5.56 kilometres of the low water mark of Bathurst Island; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries and excluding all that land described in Deed of Grant Volume 22 Folio 196\. 
 
-BESWICK
+BESWICK 
 
-All that piece of land in the Northern Territory of Australia containing an area of 3406 square kilometres more or less: Commencing at the southwestern corner of the Commonage Reserve as notified in Commonwealth of Australia Government Gazette No. 40 of 13 May 1920; thence easterly by the southern boundary of the said Reserve to its intersection with the right bank of Beswick Creek; thence generally northwesterly by the said bank to its intersection with the westerly prolongation of the northern boundary of former Pastoral Lease 158; thence by a line east to its intersection with the southerly prolongation of the most southern of the eastern boundaries of Pastoral Lease 705 (Eva Valley); thence northerly by the said prolongation to the most southern southeastern corner of the said Pastoral Lease; thence northerly and easterly by eastern and southern boundaries of Pastoral Lease 705 (Eva Valley) to the most eastern southeastern corner of the said Pastoral Lease; thence easterly by the southern boundary of Pastoral Lease 707 (Waterhouse) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by southern and western boundaries of Pastoral Lease 569 (Mountain Valley) to the most southern southwestern corner of the said Pastoral Lease; thence southerly, westerly and again southerly by western, northern and again western boundaries of Pastoral Lease 752 (Goondooloo) to the most northern northeastern corner of Pastoral Lease 593 (Esley); thence westerly and southerly by a northern boundary and part of a western boundary of the said Pastoral Lease to the most eastern northeastern corner of Pastoral Lease 635 (Mataranka); thence westerly by part of a northern boundary of the said Pastoral Lease to its intersection with a line on the northeastern side of parallel to and 1669.69 metres distant from the centre line of the North Australia Railway; thence generally northwesterly by the line parallel to and 1669.69 metres distant from the centre line of the North Australia Railway to its intersection with the southerly prolongation of the western boundary of the Commonage Reserve as notified in the Commonwealth of Australia Government Gazette No. 40 of 13 May 1920; thence northerly by the said prolongation to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 3406 square kilometres more or less: Commencing at the southwestern corner of the Commonage Reserve as notified in Commonwealth of Australia Government Gazette No. 40 of 13 May 1920; thence easterly by the southern boundary of the said Reserve to its intersection with the right bank of Beswick Creek; thence generally northwesterly by the said bank to its intersection with the westerly prolongation of the northern boundary of former Pastoral Lease 158; thence by a line east to its intersection with the southerly prolongation of the most southern of the eastern boundaries of Pastoral Lease 705 (Eva Valley); thence northerly by the said prolongation to the most southern southeastern corner of the said Pastoral Lease; thence northerly and easterly by eastern and southern boundaries of Pastoral Lease 705 (Eva Valley) to the most eastern southeastern corner of the said Pastoral Lease; thence easterly by the southern boundary of Pastoral Lease 707 (Waterhouse) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by southern and western boundaries of Pastoral Lease 569 (Mountain Valley) to the most southern southwestern corner of the said Pastoral Lease; thence southerly, westerly and again southerly by western, northern and again western boundaries of Pastoral Lease 752 (Goondooloo) to the most northern northeastern corner of Pastoral Lease 593 (Esley); thence westerly and southerly by a northern boundary and part of a western boundary of the said Pastoral Lease to the most eastern northeastern corner of Pastoral Lease 635 (Mataranka); thence westerly by part of a northern boundary of the said Pastoral Lease to its intersection with a line on the northeastern side of parallel to and 1669.69 metres distant from the centre line of the North Australia Railway; thence generally northwesterly by the line parallel to and 1669.69 metres distant from the centre line of the North Australia Railway to its intersection with the southerly prolongation of the western boundary of the Commonage Reserve as notified in the Commonwealth of Australia Government Gazette No. 40 of 13 May 1920; thence northerly by the said prolongation to the point of commencement. 
 
 DALY RIVER
 
 All that piece of land in the Northern Territory of Australia containing an area of 13467 square kilometres more or less bounded by lines described as follows: Commencing at the intersection of the western boundary of Pastoral Lease 562 (Tipperary) with the low water mark of the left bank of the Daly River; thence southerly by the western boundary of Pastoral Lease 562 to the southwestern corner of the said Pastoral Lease; thence easterly by part of the southern boundary of Pastoral Lease 562 to a point due north of the most northern northwestern corner of Pastoral Lease 597 (Coolibah); thence south to the most northern northwestern corner of Pastoral Lease 597; thence southerly by a western boundary of the said Pastoral Lease to its intersection with the right bank of the Fitzmaurice River; thence generally westerly by the said bank of the Fitzmaurice River to a point north of the tidal limit of the said river; thence south to the low water mark of the right bank of the Fitzmaurice River; thence generally westerly by the said low water mark of the said River to its intersection with the low water mark of the seacoast of the Timor Sea; thence generally northwesterly and northeasterly by the said low water mark to its intersection with the low water mark of the left bank of the Daly River; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries; thence generally southeasterly by the low water mark of the left bank of the Daly River to the point of commencement and including those parts above low water mark of the Peron Islands.
 
-DELISSAVILLE
+DELISSAVILLE 
 
-All that piece of land in the Hundred of Bray County of Palmerston Northern Territory of Australia containing an area of 4091 hectares more or less being Section 25 and being more particularly delineated on Survey Plan OP 1413 lodged with the Surveyor-General for the Northern Territory.
+All that piece of land in the Hundred of Bray County of Palmerston Northern Territory of Australia containing an area of 4091 hectares more or less being Section 25 and being more particularly delineated on Survey Plan OP 1413 lodged with the Surveyor-General for the Northern Territory. 
 
-HAASTS BLUFF
+HAASTS BLUFF 
 
-All that piece of land in the Northern Territory of Australia containing an area of 39610 square kilometres more or less: Commencing at the intersection of the western boundary of the Northern Territory with the parallel of south latitude 23 degrees 1 minute 20.32 seconds; thence east to the meridian of east longitude 130 degrees 36 minutes 16.76 seconds; thence easterly by a line to the southwestern corner of Pastoral Lease 583 (Newhaven); thence easterly by the southern boundary of the said Pastoral Lease and a southern boundary of Pastoral Lease 714 (Mount Wedge) to the southeastern corner of the said Pastoral Lease; thence southerly, easterly and again southerly by part of a western, a southern, and again a western boundary of Pastoral Lease 607 (Derwent) to the northwestern corner of Pastoral Lease 681 (Glen Helen); thence southerly, easterly and again southerly by western, southern and again western boundaries of the said Pastoral Lease to the northwestern corner of Special Purpose Lease 159 (Hermannsburg); thence southerly by the western boundaries of the said Special Purpose Lease and the Western boundary of Reserve No. 1259 as notified in Northern Territory Government Gazette No. 44 of 29 October 1969 to the southwestern corner of the said Special Purpose Lease; thence westerly by part of the northern boundary of Pastoral Lease 629 (Tempe Downs) to the northwestern corner of the said Pastoral Lease; thence west to the western boundary of the Northern Territory; thence north by the said western boundary to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 39610 square kilometres more or less: Commencing at the intersection of the western boundary of the Northern Territory with the parallel of south latitude 23 degrees 1 minute 20.32 seconds; thence east to the meridian of east longitude 130 degrees 36 minutes 16.76 seconds; thence easterly by a line to the southwestern corner of Pastoral Lease 583 (Newhaven); thence easterly by the southern boundary of the said Pastoral Lease and a southern boundary of Pastoral Lease 714 (Mount Wedge) to the southeastern corner of the said Pastoral Lease; thence southerly, easterly and again southerly by part of a western, a southern, and again a western boundary of Pastoral Lease 607 (Derwent) to the northwestern corner of Pastoral Lease 681 (Glen Helen); thence southerly, easterly and again southerly by western, southern and again western boundaries of the said Pastoral Lease to the northwestern corner of Special Purpose Lease 159 (Hermannsburg); thence southerly by the western boundaries of the said Special Purpose Lease and the Western boundary of Reserve No. 1259 as notified in  Northern Territory Government Gazette No. 44 of 29 October 1969 to the southwestern corner of the said Special Purpose Lease; thence westerly by part of the northern boundary of Pastoral Lease 629 (Tempe Downs) to the northwestern corner of the said Pastoral Lease; thence west to the western boundary of the Northern Territory; thence north by the said western boundary to the point of commencement. 
 
 HERMANNSBURG
 
-All that piece of land in the Northern Territory of Australia containing an area of 3807 square kilometres more or less: Commencing at the most southerly southwestern corner of Pastoral Lease 681 (Glen Helen); thence easterly by southern boundaries of the said Pastoral Lease and a southern boundary of Reserve No. 1147 as notified in Northern Territory Government Gazette No. 11 of 17 March 1965 to the most southerly southeastern corner of the said Pastoral Lease; thence southerly and easterly by part of a western and a southern boundary of Pastoral Lease 780 (Owen Springs) and the southern boundary of Reserve No. 1232 as notified in Northern Territory Government Gazette No. 29 of 26 June 1968 to the northwestern corner of Reserve No. 1233 as notified in Northern Territory Government Gazette No. 29 of 26 June 1968; thence southerly, northeasterly, southeasterly and northerly by western, southeastern, southwestern and eastern boundaries of the said Reserve to the northeastern corner of the said Reserve; thence easterly and southerly by part of a southern and a western boundary of Pastoral Lease 780 (Owen Springs) to the most northerly northeastern corner of Pastoral Lease 600 (Henbury); thence westerly by a northern boundary of the said Pastoral Lease to its intersection with the eastern boundary of Reserve No. 1174 as notified in Northern Territory Government Gazette No. 60 of 30 November 1966; thence northerly, westerly, again northerly, again westerly, southerly, easterly and again southerly by part of an eastern, a northern, an eastern, again a northern, a western, a southern and part of a western boundary of the said Reserve to a northeastern corner of Pastoral Lease 600 (Henbury); thence westerly by a northern boundary of the said Pastoral Lease and part of a northern boundary of Pastoral Lease 629 (Tempe Downs) to the most southerly southeastern corner of Reserve No. 1028 as notified in Northern Territory Government Gazette No. 45 of 14 October 1959; thence northerly by part of an eastern boundary of the said Reserve to the southwestern corner of Reserve No. 1259 as notified in Northern Territory Government Gazette No. 44 of 29 October 1969; thence easterly, northerly, and westerly by southern, eastern and northern boundaries of the said Reserve to the northwestern corner of the said Reserve; thence northerly by part of an eastern boundary of Reserve No. 1028 to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 3807 square kilometres more or less: Commencing at the most southerly southwestern corner of Pastoral Lease 681 (Glen Helen); thence easterly by southern boundaries of the said Pastoral Lease and a southern boundary of Reserve No. 1147 as notified in Northern Territory Government Gazette No. 11 of 17 March 1965 to the most southerly southeastern corner of the said Pastoral Lease; thence southerly and easterly by part of a western and a southern boundary of Pastoral Lease 780 (Owen Springs) and the southern boundary of Reserve No. 1232 as notified in Northern Territory Government Gazette No. 29 of 26 June 1968 to the northwestern corner of Reserve No. 1233 as notified in Northern Territory Government Gazette No. 29 of 26 June 1968; thence southerly, northeasterly, southeasterly and northerly by western, southeastern, southwestern and eastern boundaries of the said Reserve to the northeastern corner of the said Reserve; thence easterly and southerly by part of a southern and a western boundary of Pastoral Lease 780 (Owen Springs) to the most northerly northeastern corner of Pastoral Lease 600 (Henbury); thence westerly by a northern boundary of the said Pastoral Lease to its intersection with the eastern boundary of Reserve No. 1174 as notified in Northern Territory Government Gazette No. 60 of 30 November 1966; thence northerly, westerly, again northerly, again westerly, southerly, easterly and again southerly by part of an eastern, a northern, an eastern, again a northern, a western, a southern and part of a western boundary of the said Reserve to a northeastern corner of Pastoral Lease 600 (Henbury); thence westerly by a northern boundary of the said Pastoral Lease and part of a northern boundary of Pastoral Lease 629 (Tempe Downs) to the most southerly southeastern corner of Reserve No. 1028 as notified in Northern Territory Government Gazette No. 45 of 14 October 1959; thence northerly by part of an eastern boundary of the said Reserve to the southwestern corner of Reserve No. 1259 as notified in Northern Territory Government Gazette No. 44 of 29 October 1969; thence easterly, northerly, and westerly by southern, eastern and northern boundaries of the said Reserve to the northwestern corner of the said Reserve; thence northerly by part of an eastern boundary of Reserve No. 1028 to the point of commencement.  
 
 HOOKER CREEK
 
-All that piece of land in the Northern Territory of Australia containing an area of 2193 square kilometres more or less: Commencing at the most southern southwestern corner of Pastoral Lease 529 (Wave Hill); thence east for 1371.6 metres; thence south for 1981.2 metres; thence west for 2285.77 metres; thence north for 1981.2 metres; thence west for 20725.04 metres; thence north for 2434.74 metres; thence west for 32497.28 metres to a point on the eastern boundary of Pastoral Lease 559 (Birrindudu); thence northerly by the said boundary to the northeastern corner of the said Pastoral Lease; thence northerly and easterly by eastern and southern boundaries of Pastoral Lease 550 (Inverway) to the most eastern southeastern corner of the said Pastoral Lease; thence easterly and southerly by southern and western boundaries of Pastoral Lease 529 (Wave Hill) to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 2193 square kilometres more or less: Commencing at the most southern southwestern corner of Pastoral Lease 529 (Wave Hill); thence east for 1371.6 metres; thence south for 1981.2 metres; thence west for 2285.77 metres; thence north for 1981.2 metres; thence west for 20725.04 metres; thence north for 2434.74 metres; thence west for 32497.28 metres to a point on the eastern boundary of Pastoral Lease 559 (Birrindudu); thence northerly by the said boundary to the northeastern corner of the said Pastoral Lease; thence northerly and easterly by eastern and southern boundaries of Pastoral Lease 550 (Inverway) to the most eastern southeastern corner of the said Pastoral Lease; thence easterly and southerly by southern and western boundaries of Pastoral Lease 529 (Wave Hill) to the point of commencement. 
 
 JAY CREEK
 
-All that piece of land in the Northern Territory of Australia containing an area of 300 square kilometres more or less: Commencing at the southwestern corner of Reserve No. 1297 as notified in Northern Territory Government Gazette No. 26 of 1 July 1970; thence easterly and southerly by a southern and western boundary of the said Reserve to the most northerly northwestern corner of Northern Territory Portion 460; thence southwesterly by the northwestern boundary of the said Portion to the most westerly northwestern corner of the said Portion; thence southwesterly, westerly and northerly by northwestern, northern and eastern boundaries of Pastoral Lease 780 (Owen Springs) to a northeastern corner of the said Pastoral Lease; thence easterly, northerly, northeasterly and again easterly by southern, eastern, southeastern and southern boundaries of Pastoral Lease 670 (Hamilton Downs) to a southeastern corner of the said Pastoral Lease; thence southerly by part of the western boundary of Reserve No. 1297 to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 300 square kilometres more or less: Commencing at the southwestern corner of Reserve No. 1297 as notified in Northern Territory Government Gazette No. 26 of 1 July 1970; thence easterly and southerly by a southern and western boundary of the said Reserve to the most northerly northwestern corner of Northern Territory Portion 460; thence southwesterly by the northwestern boundary of the said Portion to the most westerly northwestern corner of the said Portion; thence southwesterly, westerly and northerly by northwestern, northern and eastern boundaries of Pastoral Lease 780 (Owen Springs) to a northeastern corner of the said Pastoral Lease; thence easterly, northerly, northeasterly and again easterly by southern, eastern, southeastern and southern boundaries of Pastoral Lease 670 (Hamilton Downs) to a southeastern corner of the said Pastoral Lease; thence southerly by part of the western boundary of Reserve No. 1297 to the point of commencement. 
 
 LAKE MACKAY
 
-All that piece of land in the Northern Territory of Australia containing an area of 34190 square kilometres more or less: Commencing at the intersection of the western boundary of the Northern Territory with the parallel of south latitude 21 degrees; thence east to a point north of the northwestern corner of Pastoral Lease 764 (Chilla Well); thence south to the said corner of the said Pastoral Lease; thence southerly by the western boundary of Pastoral Lease 764 and part of the western boundary of Pastoral Lease 802 (Mount Doreen) to the parallel of south latitude 22 degrees 30 minutes 10.02 seconds; thence west to the meridian of east longitude 130 degrees 24 minutes 12.38 seconds; thence south to the parallel of south latitude 22 degrees 40 minutes 37.91 seconds; thence southeasterly to the intersection of the meridian of east longitude 130 degrees 36 minutes 16.76 seconds with the parallel of south latitude 23 degrees 1 minute 20.32 seconds; thence west to the western boundary of the Northern Territory; thence north by the said western boundary to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 34190 square kilometres more or less: Commencing at the intersection of the western boundary of the Northern Territory with the parallel of south latitude 21 degrees; thence east to a point north of the northwestern corner of Pastoral Lease 764 (Chilla Well); thence south to the said corner of the said Pastoral Lease; thence southerly by the western boundary of Pastoral Lease 764 and part of the western boundary of Pastoral Lease 802 (Mount Doreen) to the parallel of south latitude 22 degrees 30 minutes 10.02 seconds; thence west to the meridian of east longitude 130 degrees 24 minutes 12.38 seconds; thence south to the parallel of south latitude 22 degrees 40 minutes 37.91 seconds; thence southeasterly to the intersection of the meridian of east longitude 130 degrees 36 minutes 16.76 seconds with the parallel of south latitude 23 degrees 1 minute 20.32 seconds; thence west to the western boundary of the Northern Territory; thence north by the said western boundary to the point of commencement.
 
 LARRAKEAH
 
-All those pieces of land in the Hundreds of Colton and Guy County of Palmerston Northern Territory of Australia containing an area of 3880 hectares more or less:
+All those pieces of land in the Hundreds of Colton and Guy County of Palmerston Northern Territory of Australia containing an area of 3880 hectares more or less: 
 
 _Firstly_
 
-Commencing at the northeastern corner of Section 215 Hundred of Colton; thence southerly by the eastern boundaries of Sections 215 and 213 to the southeastern corner of Section 213; thence southerly by the southerly prolongation of the eastern boundary of Section 213 to the northeastern corner of Section 211; thence southerly and westerly by the eastern and southern boundaries of Section 211 to the southwestern corner of the said Section; thence westerly and southerly by the southern boundary of Section 212 and the eastern boundary of Section 209 to the southeastern corner of Section 209; thence southerly by the southerly prolongation of the eastern boundary of Section 209 to the northeastern corner of Section 208; thence southerly by part of the eastern boundary of Section 208 for a distance of 402.33 metres; thence east to the left bank of the Adelaide River; thence generally northerly by the said bank of the said river to its intersection with the southerly prolongation of the eastern boundary of Section 247; thence northerly by the said prolongation to the southeastern corner of the said Section; thence westerly, southwesterly, northwesterly, northerly, northwesterly and northerly by southern, southeastern, southwestern, western, southwestern and western boundaries of Section 247 to the northwestern corner of the said Section; thence northerly by the western boundary of Section 246 to the northwestern corner of the said Section; thence westerly by the westerly prolongation of the northern boundary of Section 246 to its intersection with the southerly prolongation of the eastern boundary of Section 244; thence northerly by the said prolongation to a point 20.12 metres south of the southeastern corner of Section 244; thence westerly by a line 20.12 metres south of and parallel to the southern boundaries of Sections 244, end of road, 241, 240 and the westerly prolongation of the said line to the point of commencement.
+Commencing at the northeastern corner of Section 215 Hundred of Colton; thence southerly by the eastern boundaries of Sections 215 and 213 to the southeastern corner of Section 213; thence southerly by the southerly prolongation of the eastern boundary of Section 213 to the northeastern corner of Section 211; thence southerly and westerly by the eastern and southern boundaries of Section 211 to the southwestern corner of the said Section; thence westerly and southerly by the southern boundary of Section 212 and the eastern boundary of Section 209 to the southeastern corner of Section 209; thence southerly by the southerly prolongation of the eastern boundary of Section 209 to the northeastern corner of Section 208; thence southerly by part of the eastern boundary of Section 208 for a distance of 402.33 metres; thence east to the left bank of the Adelaide River; thence generally northerly by the said bank of the said river to its intersection with the southerly prolongation of the eastern boundary of Section 247; thence northerly by the said prolongation to the southeastern corner of the said Section; thence westerly, southwesterly, northwesterly, northerly, northwesterly and northerly by southern, southeastern, southwestern, western, southwestern and western boundaries of Section 247 to the northwestern corner of the said Section; thence northerly by the western boundary of Section 246 to the northwestern corner of the said Section; thence westerly by the westerly prolongation of the northern boundary of Section 246 to its intersection with the southerly prolongation of the eastern boundary of Section 244; thence northerly by the said prolongation to a point 20.12 metres south of the southeastern corner of Section 244; thence westerly by a line 20.12 metres south of and parallel to the southern boundaries of Sections 244, end of road, 241, 240 and the westerly prolongation of the said line to the point of commencement. 
 
 _Secondly_
 
@@ -6276,209 +6276,209 @@ Commencing at the southwestern corner of Section 1455 Hundred of Guy; thence n
 
 MELVILLE ISLAND
 
-All those pieces of land at Melville Island in the Northern Territory of Australia containing an area of 5697 square kilometres more or less being all those parts of Melville and Buchanan Islands and all other islands lying within 5.56 kilometres of low water mark of Melville Island above a line along the low water mark surrounding the said islands; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries.
+All those pieces of land at Melville Island in the Northern Territory of Australia containing an area of 5697 square kilometres more or less being all those parts of Melville and Buchanan Islands and all other islands lying within 5.56 kilometres of low water mark of Melville Island above a line along the low water mark surrounding the said islands; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries. 
 
-PETERMANN
+PETERMANN 
 
-All that piece of land in the Northern Territory of Australia containing an area of 44970 square kilometres more or less: Commencing at the northwestern corner of Pastoral Lease 629 (Tempe Downs); thence southerly by a western boundary of the said Pastoral Lease and its southerly prolongation to the parallel of south latitude 24 degrees 50 minutes; thence west to the meridian of east longitude 130 degrees 45 minutes; thence south to the most northern northeastern corner of Reserve No. 1012 as notified in Northern Territory Government Gazette No. 10 of 5 March 1958; thence northwesterly, southerly and easterly by northeastern, western and southern boundaries of the said Reserve to the southeastern corner of the said Reserve; thence southerly to the most western northwestern corner of Pastoral Lease 722 (Mulga Park); thence southerly by a western boundary of the said Pastoral Lease to the southwestern corner of the said Pastoral Lease; thence west along the southern boundary of the Northern Territory to the southwestern corner of the Northern Territory; thence north along the western boundary of the Northern Territory to a point west of the point of commencement; thence east to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 44970 square kilometres more or less: Commencing at the northwestern corner of Pastoral Lease 629 (Tempe Downs); thence southerly by a western boundary of the said Pastoral Lease and its southerly prolongation to the parallel of south latitude 24 degrees 50 minutes; thence west to the meridian of east longitude 130 degrees 45 minutes; thence south to the most northern northeastern corner of Reserve No. 1012 as notified in  Northern Territory Government Gazette No. 10 of 5 March 1958; thence northwesterly, southerly and easterly by northeastern, western and southern boundaries of the said Reserve to the southeastern corner of the said Reserve; thence southerly to the most western northwestern corner of Pastoral Lease 722 (Mulga Park); thence southerly by a western boundary of the said Pastoral Lease to the southwestern corner of the said Pastoral Lease; thence west along the southern boundary of the Northern Territory to the southwestern corner of the Northern Territory; thence north along the western boundary of the Northern Territory to a point west of the point of commencement; thence east to the point of commencement.
 
-SANTA TERESA
+SANTA TERESA 
 
-All that piece of land in the Northern Territory of Australia containing an area of 1243 square kilometres more or less: Commencing at the northwestern corner of Pastoral Lease 627 (Allambi); thence northerly, westerly and again northerly by part of an eastern, a northern and an eastern boundary of Pastoral Lease 595 (Deep Well) to the most southerly southeastern corner of Pastoral Lease 673 (Undoolya); thence northerly and easterly by eastern and southern boundaries of the said Pastoral Lease to a southeastern corner of the said Pastoral Lease; thence southeasterly, southerly, easterly and again southerly by southwestern, western, southern and part of a western boundary of Pastoral Lease 605 (Todd River) to the northern boundary of the Phillipson stock route; thence by lines bearing 269 degrees 57 minutes 5434.1 metres; 299 degrees 46 minutes 10 seconds 417.4 metres; 240 degrees 5 minutes 50 seconds 417.4 metres to the most northern northeastern corner of Pastoral Lease 627 (Allambi); thence westerly by a northern boundary of the said Pastoral Lease to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 1243 square kilometres more or less: Commencing at the northwestern corner of Pastoral Lease 627 (Allambi); thence northerly, westerly and again northerly by part of an eastern, a northern and an eastern boundary of Pastoral Lease 595 (Deep Well) to the most southerly southeastern corner of Pastoral Lease 673 (Undoolya); thence northerly and easterly by eastern and southern boundaries of the said Pastoral Lease to a southeastern corner of the said Pastoral Lease; thence southeasterly, southerly, easterly and again southerly by southwestern, western, southern and part of a western boundary of Pastoral Lease 605 (Todd River) to the northern boundary of the Phillipson stock route; thence by lines bearing 269 degrees 57 minutes 5434.1 metres; 299 degrees 46 minutes 10 seconds 417.4 metres; 240 degrees 5 minutes 50 seconds 417.4 metres to the most northern northeastern corner of Pastoral Lease 627 (Allambi); thence westerly by a northern boundary of the said Pastoral Lease to the point of commencement.
 
 ULURU
 
-All that piece of land in the Northern Territory of Australia containing an area of 132,566 hectares more or less: Commencing at the intersection of the parallel of latitude 25 degrees 16 minutes south with the prolongation north of the eastern boundary of the Petermann Aboriginal Reserve, then south along that prolongation to the parallel of latitude 25 degrees 25 minutes south, then west along that parallel to the meridian of longitude 130 degrees 40 minutes east, then north along that meridian to the parallel of latitude 25 degrees 4 minutes 54 seconds south, then south easterly to a point of latitude 25 degrees 7 minutes 24 seconds south and longitude 130 degrees 45 minutes east, then south along that meridian to the parallel of latitude 25 degrees 16 minutes south, then east along that parallel to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 132,566 hectares more or less: Commencing at the intersection of the parallel of latitude 25 degrees 16 minutes south with the prolongation north of the eastern boundary of the Petermann Aboriginal Reserve, then south along that prolongation to the parallel of latitude 25 degrees 25 minutes south, then west along that parallel to the meridian of longitude 130 degrees 40 minutes east, then north along that meridian to the parallel of latitude 25 degrees 4 minutes 54 seconds south, then south easterly to a point of latitude 25 degrees 7 minutes 24 seconds south and longitude 130 degrees 45 minutes east, then south along that meridian to the parallel of latitude 25 degrees 16 minutes south, then east along that parallel to the point of commencement. 
 
 WAGAIT
 
-All those pieces of land being partly within the Hundreds of Finniss, Glyde and Hart and partly out of Hundred within the County of Palmerston Northern Territory of Australia containing an area of 1447 square kilometres more or less bounded by lines described as follows:
+All those pieces of land being partly within the Hundreds of Finniss, Glyde and Hart and partly out of Hundred within the County of Palmerston Northern Territory of Australia containing an area of 1447 square kilometres more or less bounded by lines described as follows: 
 
-_Firstly_
+Firstly 
 
-Commencing at a point 20.12 metres west of the northwestern corner of Section 1461 Hundred of Hart; thence southerly by a line parallel to and 20.12 metres distant from the western boundary of Section 1461 to a point 20.12 metres north of the northeastern corner of Section 1784; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1784 and 1783 to a point 20.12 metres west of the western boundary of Section 1783; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1783, 1758, 1763, 1766 and 1793 to a point 20.12 metres north of the northern boundary of Section 1762; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1762, 1761, 1760, 1759 and 1781 to a point 20.12 metres west of the western boundary of Section 1781; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1781, 1782 and 1838 to a point 20.12 metres south of the southern boundary of Section 1838; thence easterly by a line parallel to and 20.12 metres south of the southern boundary of Section 1838 to a point 20.12 metres west of the western boundary of Section 1814; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1814, 1822 and 1837 to a point 20.12 metres north of the northern boundary of Section 1842; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1842 and 1875 to a point 20.12 metres west of the western boundary of Section 1875; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1875, 1876 and 1877 to its intersection with a northern boundary of Pastoral Lease 676 (Stapleton); thence westerly by the northern boundary of the said Pastoral Lease and the westerly prolongation of the said boundary to its intersection with the low water mark of the seacoast of the Timor Sea; thence generally northeasterly by the said low water mark to its intersection with the low water mark of the left bank of the Finniss River; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries; thence generally northeasterly and southeasterly by the low water mark of the left bank of the Finniss River to its second intersection with the southern boundary of the Hundred of Glyde; thence easterly by the southern boundary of the Hundred of Glyde and part of the southern boundary of the Hundred of Milne to the point of commencement.
+Commencing at a point 20.12 metres west of the northwestern corner of Section 1461 Hundred of Hart; thence southerly by a line parallel to and 20.12 metres distant from the western boundary of Section 1461 to a point 20.12 metres north of the northeastern corner of Section 1784; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1784 and 1783 to a point 20.12 metres west of the western boundary of Section 1783; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1783, 1758, 1763, 1766 and 1793 to a point 20.12 metres north of the northern boundary of Section 1762; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1762, 1761, 1760, 1759 and 1781 to a point 20.12 metres west of the western boundary of Section 1781; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1781, 1782 and 1838 to a point 20.12 metres south of the southern boundary of Section 1838; thence easterly by a line parallel to and 20.12 metres south of the southern boundary of Section 1838 to a point 20.12 metres west of the western boundary of Section 1814; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1814, 1822 and 1837 to a point 20.12 metres north of the northern boundary of Section 1842; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1842 and 1875 to a point 20.12 metres west of the western boundary of Section 1875; thence southerly by a line parallel to and 20.12 metres west of the western boundaries of Sections 1875, 1876 and 1877 to its intersection with a northern boundary of Pastoral Lease 676 (Stapleton); thence westerly by the northern boundary of the said Pastoral Lease and the westerly prolongation of the said boundary to its intersection with the low water mark of the seacoast of the Timor Sea; thence generally northeasterly by the said low water mark to its intersection with the low water mark of the left bank of the Finniss River; but excluding from the said line those parts along the low water marks of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below low water mark of each of the aforesaid straight lines across each of the aforesaid rivers, streams and estuaries; thence generally northeasterly and southeasterly by the low water mark of the left bank of the Finniss River to its second intersection with the southern boundary of the Hundred of Glyde; thence easterly by the southern boundary of the Hundred of Glyde and part of the southern boundary of the Hundred of Milne to the point of commencement.
 
-_Secondly_
+Secondly 
 
-Commencing at the intersection of the southern boundary of the Hundred of Milne with the left bank of the Finniss River; thence generally southeasterly and easterly by the said bank of the said river to its intersection with the eastern boundary of the Hundred of Finniss; thence southerly by the eastern boundary of the Hundred of Finniss to its intersection with the easterly prolongation of the southern boundary of Section 2067 Hundred of Finniss; thence westerly by the said prolongation to the southeastern corner of Section 2067; thence westerly by the southern boundaries of Sections 2067, 2066, 2065, 2037, 2028 and 2026 to the southwestern corner of Section 2026; thence westerly by the westerly prolongation of the southern boundary of Section 2026 to its intersection with a line parallel to and 20.12 metres east of the eastern boundary of Section 1821 Hundred of Hart; thence northerly by the said line to a point 20.12 metres south of the southern boundary of Section 1460; thence easterly by a line parallel to and 20.12 metres south of the southern boundary of Section 1460 to a point 20.12 metres east of the eastern boundary of the said Section; thence northerly by a line parallel to and 20.12 metres east of the eastern boundaries of Sections 1460, 1459, 1458 and 1457 to a point 20.12 metres south of the southern boundary of Section 1701; thence easterly by a line parallel to and 20.12 metres south of the southern boundaries of Sections 1701, 1700, 1699, 1698 and 1697 to a point 20.12 metres east of the eastern boundary of Section 1697; thence north by a line parallel to and 20.12 metres east of the eastern boundaries of Sections 1697, 1696 and 1684 to a point 20.12 metres north of the northern boundary of Section 1684; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1684 and 1688 to a point 20.12 metres east of the eastern boundary of Section 1790; thence northerly by a line parallel to and 20.12 metres east of the eastern boundary of Section 1790 to a point 20.12 metres north of the northern boundary of Section 1790; thence westerly by a line parallel to and 20.12  metres north of the northern boundaries of Sections 1790 and 1789 to a point 20.12 metres east of the eastern boundary of Section 1797; thence northerly by a line parallel to and 20.12 metres east of the eastern boundary of Section 1797 to its intersection with the southern boundary of the Hundred of Milne; thence easterly by part of the southern boundary of the Hundred of Milne to the point of commencement.
+Commencing at the intersection of the southern boundary of the Hundred of Milne with the left bank of the Finniss River; thence generally southeasterly and easterly by the said bank of the said river to its intersection with the eastern boundary of the Hundred of Finniss; thence southerly by the eastern boundary of the Hundred of Finniss to its intersection with the easterly prolongation of the southern boundary of Section 2067 Hundred of Finniss; thence westerly by the said prolongation to the southeastern corner of Section 2067; thence westerly by the southern boundaries of Sections 2067, 2066, 2065, 2037, 2028 and 2026 to the southwestern corner of Section 2026; thence westerly by the westerly prolongation of the southern boundary of Section 2026 to its intersection with a line parallel to and 20.12 metres east of the eastern boundary of Section 1821 Hundred of Hart; thence northerly by the said line to a point 20.12 metres south of the southern boundary of Section 1460; thence easterly by a line parallel to and 20.12 metres south of the southern boundary of Section 1460 to a point 20.12 metres east of the eastern boundary of the said Section; thence northerly by a line parallel to and 20.12 metres east of the eastern boundaries of Sections 1460, 1459, 1458 and 1457 to a point 20.12 metres south of the southern boundary of Section 1701; thence easterly by a line parallel to and 20.12 metres south of the southern boundaries of Sections 1701, 1700, 1699, 1698 and 1697 to a point 20.12 metres east of the eastern boundary of Section 1697; thence north by a line parallel to and 20.12 metres east of the eastern boundaries of Sections 1697, 1696 and 1684 to a point 20.12 metres north of the northern boundary of Section 1684; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1684 and 1688 to a point 20.12 metres east of the eastern boundary of Section 1790; thence northerly by a line parallel to and 20.12 metres east of the eastern boundary of Section 1790 to a point 20.12 metres north of the northern boundary of Section 1790; thence westerly by a line parallel to and 20.12 metres north of the northern boundaries of Sections 1790 and 1789 to a point 20.12 metres east of the eastern boundary of Section 1797; thence northerly by a line parallel to and 20.12 metres east of the eastern boundary of Section 1797 to its intersection with the southern boundary of the Hundred of Milne; thence easterly by part of the southern boundary of the Hundred of Milne to the point of commencement. 
 
 WARRABRI
 
-All that piece of land in the Northern Territory of Australia containing an area of 440 square kilometres more or less being Northern Territory Portion 599 and being more particularly delineated on Survey Plan A125 lodged with the Surveyor-General for the Northern Territory.
+All that piece of land in the Northern Territory of Australia containing an area of 440 square kilometres more or less being Northern Territory Portion 599 and being more particularly delineated on Survey Plan A125 lodged with the Surveyor-General for the Northern   Territory.
 
 WOOLWONGA
 
-All that piece of land in the Northern Territory of Australia containing an area of 505 square kilometres more or less: Commencing at the intersection of the right bank of the South Alligator River with the southern boundary of Pastoral Lease 737 (Munmarlary); thence easterly by the said boundary to the southeastern corner of the said Pastoral Lease; thence easterly by part of the southern boundary of Pastoral Lease 739 (Mudginberri) to a point on a line on the western side of the road to Oenpelli parallel to and 30.175 metres distant from the centreline of the said road; thence generally southwesterly by the said line to its intersection with the surveyed line as shown on Survey Plan A.429 lodged with the Surveyor-General for the Northern Territory; thence westerly by the said line and the surveyed line as shown on Survey Plan A913 lodged with the Surveyor-General for the Northern Territory; to the intersection with the right bank of the South Alligator River; thence generally northerly by the said bank of the said River to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 505 square kilometres more or less: Commencing at the intersection of the right bank of the South Alligator River with the southern boundary of Pastoral Lease 737 (Munmarlary); thence easterly by the said boundary to the southeastern corner of the said Pastoral Lease; thence easterly by part of the southern boundary of Pastoral Lease 739 (Mudginberri) to a point on a line on the western side of the road to Oenpelli parallel to and 30.175 metres distant from the centreline of the said road; thence generally southwesterly by the said line to its intersection with the surveyed line as shown on Survey Plan A.429 lodged with the Surveyor-General for the Northern Territory; thence westerly by the said line and the surveyed line as shown on Survey Plan A913 lodged with the Surveyor-General for the Northern Territory; to the intersection with the right bank of the South Alligator River; thence generally northerly by the said bank of the said River to the point of commencement.  
 
 YUENDUMU
 
 All the piece of land in the Northern Territory of Australia containing an area of 2201 square kilometres more or less: Commencing at the most westerly southwestern corner of Pastoral Lease 590 (Mount Denison); thence easterly and southerly by southern and western boundaries of the said Pastoral Lease to the most southerly southwestern corner of the said Pastoral Lease; thence westerly and southerly by northern and western boundaries of Pastoral Lease 803 (Mount Allan) to the southwestern corner of the said Pastoral Lease; thence westerly by part of the northern boundary of Pastoral Lease 585 (Mount Wedge) to its intersection with the southerly prolongation of the eastern boundary of Pastoral Lease 802 (Mount Doreen); thence northerly by the said prolongation and part of the said boundary to a point west of the point of commencement; thence east to the point of commencement.
 
-## Part 2  
+## Part 2
 
 AMMAROO LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 2771 hectares more or less, being all of Northern Territory Portion 3834 and being more particularly delineated on Survey Plan S.89/77 lodged with the Northern Territory Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 2771 hectares more or less, being all of Northern Territory Portion 3834 and being more particularly delineated on Survey Plan S.89/77 lodged with the Northern Territory Surveyor-General, Darwin. 
 
-BIRDUM (JOMMET BLOCK) LOCALITY
+BIRDUM (JOMMET BLOCK) LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 83,980 hectares more or less, being all of Northern Territory portion 2016 and being more particularly delineated on Survey Plans S89/299A to S89/299J lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 83,980 hectares more or less, being all of Northern   Territory portion 2016 and being more particularly delineated on Survey Plans S89/299A to S89/299J lodged with the Surveyor-General, Darwin. 
 
 DRY RIVER STOCK RESERVE LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 20,720 hectares more or less, being all of Northern Territory Portion 2119 and being more particularly delineated on Survey Plan S.89/295 lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 20,720 hectares more or less, being all of Northern Territory Portion 2119 and being more particularly delineated on Survey Plan S.89/295 lodged with the Surveyor-General, Darwin. 
 
-ELLIOTT LOCALITY
+ELLIOTT LOCALITY 
 
-All of the two parcels of land in the Northern Territory containing a combined area of 2,774.8 hectares more or less, being all of Northern Territory portions 3720 and 3869 and being more particularly delineated on Survey Plans S.89/38A to S.89/38C lodged with the Surveyor-General, Darwin.
+All of the two parcels of land in the Northern Territory containing a combined area of 2,774.8 hectares more or less, being all of Northern Territory portions 3720 and 3869 and being more particularly delineated on Survey Plans S.89/38A to S.89/38C lodged with the Surveyor-General, Darwin. 
 
-MITTIEBAH LOCALITY
+MITTIEBAH LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 3,050 hectares more or less, being all of Northern Territory portion 562 and being more particularly delineated on Survey Plan S.89/76 lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 3,050 hectares more or less, being all of Northern   Territory portion 562 and being more particularly delineated on Survey Plan S.89/76 lodged with the Surveyor-General, Darwin. 
 
-MT PEACHY (MARYVALE) LOCALITY
+MT PEACHY (MARYVALE) LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 8474 hectares more or less being all of Northern Territory portion 3815 and being more particularly delineated on Survey Plans S.89/82A to S.89/82E lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 8474 hectares more or less being all of Northern   Territory portion 3815 and being more particularly delineated on Survey Plans S.89/82A to S.89/82E lodged with the Surveyor-General, Darwin.
 
 MT SOLITAIRE (HAMILTON DOWNS) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 2750 hectares more or less, being all of Northern Territory portion 3810 and being more particularly delineated on Survey Plans S.89/87A to S.89/87C lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 2750 hectares more or less, being all of Northern   Territory portion 3810 and being more particularly delineated on Survey Plans S.89/87A to S.89/87C lodged with the Surveyor-General, Darwin.  
 
 OORATIPPRA LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 22,000 hectares more or less being all of Northern Territory portion 3823 and being more particularly delineated on Survey Plans S.89/71A to S.89/71D lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 22,000 hectares more or less being all of Northern Territory portion 3823 and being more particularly delineated on Survey Plans S.89/71A to S.89/71D lodged with the Surveyor-General, Darwin. 
 
-RANKEN RIVER LOCALITY
+RANKEN RIVER LOCALITY 
 
-All those parcels of land in the Northern Territory containing an area of 3707 hectares more or less, being all of Northern Territory portions 3826 and 3827 and being more particularly delineated on Survey Plans S.89/68A to S.89/68E lodged with the Surveyor-General, Darwin.
+All those parcels of land in the Northern Territory containing an area of 3707 hectares more or less, being all of Northern Territory portions 3826 and 3827 and being more particularly delineated on Survey Plans S.89/68A to S.89/68E lodged with the Surveyor-General, Darwin. 
 
-SOUDAN LOCALITY
+SOUDAN LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 1553 hectares more or less, being all of Northern Territory Portion 3829 and being more particularly delineated on Survey Plan S.89/66 lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1553 hectares more or less, being all of Northern Territory Portion 3829 and being more particularly delineated on Survey Plan S.89/66 lodged with the Surveyor-General, Darwin. 
 
-TARLTON DOWNS LOCALITY
+TARLTON DOWNS LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 20,150 hectares more or less, being all of Northern Territory portion 1815 and being more particularly delineated on Survey Plans S.89/72A to S.89/72D lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 20,150 hectares more or less, being all of Northern Territory portion 1815 and being more particularly delineated on Survey Plans S.89/72A to S.89/72D lodged with the Surveyor-General, Darwin. 
 
-UNDOOLYA BORE LOCALITY
+UNDOOLYA BORE LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 1355 hectares more or less, being all of Northern Territory Portion 3821 and being more particularly delineated on Survey Plan S.89/74 lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1355 hectares more or less, being all of Northern Territory Portion 3821 and being more particularly delineated on Survey Plan S.89/74 lodged with the Surveyor-General, Darwin. 
 
-## Part 3
+## Part 3 
 
-16 MILE (BOND SPRINGS) LOCALITY
+16 MILE (BOND SPRINGS) LOCALITY 
 
-All that parcel of land in the Northern Territory containing a total area of 3754 hectares more or less, being all of Northern Territory Portion No 3806 and being more particularly delineated on Survey Plan S89/91 lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing a total area of 3754 hectares more or less, being all of Northern Territory Portion No 3806 and being more particularly delineated on Survey Plan S89/91 lodged with the Surveyor-General, Darwin. 
 
-ALICE WELL LOCALITY
+ALICE WELL LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 1,013 hectares more or less, being all of Northern Territory portion 3830 and being more particularly delineated on Survey Plan S.89/65 lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 1,013 hectares more or less, being all of Northern   Territory portion 3830 and being more particularly delineated on Survey Plan S.89/65 lodged with the Surveyor-General, Darwin. 
 
-BLACK TANK BORE (BOND SPRINGS) LOCALITY
+BLACK TANK BORE (BOND SPRINGS) LOCALITY 
 
-All that parcel of land in the Northern Territory containing an area of 3,640 hectares more or less, being all of Northern Territory portion 3805 and being more particularly delineated on Survey Plans S.89/92A and S.89/92B lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern   Territory containing an area of 3,640 hectares more or less, being all of Northern   Territory portion 3805 and being more particularly delineated on Survey Plans S.89/92A and S.89/92B lodged with the Surveyor-General, Darwin. 
 
-FINKE LOCALITY
+FINKE LOCALITY 
 
 All those parcels of land in the Northern Territory containing an area of 13,605.6 hectares more or less.
 
-Firstly:
+Firstly: 
 
-All that parcel of land containing an area of 7,562 hectares more or less, being all of Northern Territory portion 3819 and being more particularly delineated on Survey Plans S.89/78A to S.89/78E lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 7,562 hectares more or less, being all of Northern   Territory portion 3819 and being more particularly delineated on Survey Plans S.89/78A to S.89/78E lodged with the Surveyor-General, Darwin.  
 
-Secondly:
+Secondly: 
 
-All that parcel of land containing an area of 2,520 hectares more or less, being all of Northern Territory portion 3817 and being more particularly delineated on Survey Plan S.89/80 lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 2,520 hectares more or less, being all of Northern Territory portion 3817 and being more particularly delineated on Survey Plan S.89/80 lodged with the Surveyor-General, Darwin. 
 
-Thirdly:
+Thirdly: 
 
-All that parcel of land containing an area of 2,558 hectares more or less, being all of Northern Territory portion 3816 and being more particularly delineated on Survey Plans S.89/81A to S.89/81C lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 2,558 hectares more or less, being all of Northern   Territory portion 3816 and being more particularly delineated on Survey Plans S.89/81A to S.89/81C lodged with the Surveyor-General, Darwin.
 
-Fourthly:
+Fourthly: 
 
-All that parcel of land containing an area of 965.6 hectares more or less, being all of Northern Territory portion 3818 and being more particularly delineated on Survey Plan S.89/79 lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 965.6 hectares more or less, being all of Northern Territory portion 3818 and being more particularly delineated on Survey Plan S.89/79 lodged with the Surveyor-General, Darwin. 
 
-FORSTER RANGE (STIRLING) LOCALITY
+FORSTER RANGE (STIRLING) LOCALITY 
 
-All those parcels of land in the Northern Territory containing an area of 3,690 hectares more or less:
+All those parcels of land in the Northern Territory containing an area of 3,690 hectares more or less: 
 
-Firstly:
+Firstly: 
 
-All that parcel of land containing an area of 1,458 hectares more or less, being all of Northern Territory portion 3822 and being more particularly delineated on Survey Plan S.89/73A lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 1,458 hectares more or less, being all of Northern   Territory portion 3822 and being more particularly delineated on Survey Plan S.89/73A lodged with the Surveyor-General, Darwin. 
 
-Secondly:
+Secondly: 
 
-All that parcel of land containing an area of 2,232 hectares more or less, being all of Northern Territory portion 3831 and being more particularly delineated on Survey Plan S.89/73B lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 2,232 hectares more or less, being all of Northern   Territory portion 3831 and being more particularly delineated on Survey Plan S.89/73B lodged with the Surveyor-General, Darwin. 
 
-HENBURY/ORANGE CREEK LOCALITY
+HENBURY/ORANGE CREEK LOCALITY 
 
-All those parcels of land in the Northern Territory containing an area of 9,215 hectares more or less:
+All those parcels of land in the Northern Territory containing an area of 9,215 hectares more or less: 
 
-Firstly:
+Firstly: 
 
-All that parcel of land containing an area of 2,363 hectares more or less, being all of Northern Territory portion 3814 and being more particularly delineated on Survey Plans S.89/83A and S.89/83B lodged with the Surveyor-General, Darwin.
-
-Secondly:
-
-All that parcel of land containing an area of 2,886 hectares more or less, being all of Northern Territory portion 3813 and being more particularly delineated on Survey Plans S.89/84A and S.89/84B lodged with the Surveyor-General, Darwin.
-
-Thirdly:
-
-All that parcel of land containing an area of 2,024 hectares more or less, being all of Northern Territory portion 3812 and being more particularly delineated on Survey Plans S.89/85A and S.89/85B lodged with the Surveyor-General, Darwin.
-
-Fourthly:
-
-All that parcel of land containing an area of 1,942 hectares more or less, being all of Northern Territory portion 3811 and being more particularly delineated on Survey Plan S.89/86 lodged with the Surveyor-General, Darwin.
-
-JINKA LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 1,376 hectares more or less, being all of Northern Territory portion 3803 and being more particularly delineated on Survey Plan S.89/94 lodged with the Surveyor-General, Darwin.
-
-LORNE CREEK LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 3,344 hectares more or less, being all of Northern Territory portion 3828 and being more particularly delineated on Survey Plans S.89/67A to S.89/67E lodged with the Surveyor-General, Darwin.
-
-MT KATHLEEN (LOVES CREEK) LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 5,291 hectares more or less, being all of Northern Territory portion 3824 and being more particularly delineated on Survey Plans S.89/70A to S.89/70C lodged with the Surveyor-General, Darwin.
-
-NEWCASTLE WATERS LOCALITY
-
-All that parcel of land situated near the town of Newcastle Waters in the Northern Territory of Australia containing an area of 214 hectares more or less, being all of Northern Territory portion 3624 and being more particularly delineated on Survey Plan S.89/37 lodged with the Surveyor-General, Darwin.
-
-NO 47 BORE (ALEXANDRIA) LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 1,549 hectares more or less, being all of Northern Territory portion 3825 and being more particularly delineated on Survey Plans S.89/69A and S.89/69B lodged with the Surveyor-General, Darwin.
-
-SANDOVER RIVER (AMMAROO) LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 1569 hectares more or less, being all of Northern Territory Portion 3802 and being more particularly delineated on Survey Plans S.89/95A to S.89/95E lodged with the Northern Territory Surveyor-General, Darwin.
-
-WILLIAMS BORE (UNDOOLYA) LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 2,469 hectares more or less, being all of Northern Territory portion 3820 and being more particularly delineated on Survey Plans S.89/75A and S.89/75B lodged with the Surveyor-General, Darwin.
-
-WYCLIFFE WELL LOCALITY
-
-All that parcel of land in the Northern Territory containing an area of 809.2 hectares more or less, being all of Northern Territory portion 3804 and being more particularly delineated on Survey Plan S.89/93 lodged with the Surveyor-General, Darwin.
-
-YAMBAH LOCALITY
-
-All those parcels of land in the Northern Territory containing an area of 5,333 hectares more or less:
-
-Firstly:
-
-All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Territory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 2,363 hectares more or less, being all of Northern   Territory portion 3814 and being more particularly delineated on Survey Plans S.89/83A and S.89/83B lodged with the Surveyor-General, Darwin. 
 
 Secondly:
 
-All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Territory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 2,886 hectares more or less, being all of Northern   Territory portion 3813 and being more particularly delineated on Survey Plans S.89/84A and S.89/84B lodged with the Surveyor-General, Darwin. 
 
-Thirdly:
+Thirdly: 
 
-All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin.
+All that parcel of land containing an area of 2,024 hectares more or less, being all of Northern   Territory portion 3812 and being more particularly delineated on Survey Plans S.89/85A and S.89/85B lodged with the Surveyor-General, Darwin. 
 
-## Part 4
+Fourthly: 
+
+All that parcel of land containing an area of 1,942 hectares more or less, being all of Northern   Territory portion 3811 and being more particularly delineated on Survey Plan S.89/86 lodged with the Surveyor-General, Darwin. 
+
+JINKA LOCALITY 
+
+All that parcel of land in the Northern   Territory containing an area of 1,376 hectares more or less, being all of Northern   Territory portion 3803 and being more particularly delineated on Survey Plan S.89/94 lodged with the Surveyor-General, Darwin. 
+
+LORNE CREEK LOCALITY 
+
+All that parcel of land in the Northern   Territory containing an area of 3,344 hectares more or less, being all of Northern   Territory portion 3828 and being more particularly delineated on Survey Plans S.89/67A to S.89/67E lodged with the Surveyor-General, Darwin. 
+
+MT KATHLEEN (LOVES CREEK) LOCALITY 
+
+All that parcel of land in the Northern   Territory containing an area of 5,291 hectares more or less, being all of Northern   Territory portion 3824 and being more particularly delineated on Survey Plans S.89/70A to S.89/70C lodged with the Surveyor-General, Darwin. 
+
+NEWCASTLE WATERS LOCALITY 
+
+All that parcel of land situated near the town of Newcastle Waters in the Northern Territory of Australia containing an area of 214 hectares more or less, being all of Northern   Territory portion 3624 and being more particularly delineated on Survey Plan S.89/37 lodged with the Surveyor-General, Darwin. 
+
+NO 47 BORE (ALEXANDRIA) LOCALITY 
+
+All that parcel of land in the Northern   Territory containing an area of 1,549 hectares more or less, being all of Northern   Territory portion 3825 and being more particularly delineated on Survey Plans S.89/69A and S.89/69B lodged with the Surveyor-General, Darwin. 
+
+SANDOVER RIVER (AMMAROO) LOCALITY 
+
+All that parcel of land in the Northern   Territory containing an area of 1569 hectares more or less, being all of Northern Territory Portion 3802 and being more particularly delineated on Survey Plans S.89/95A to S.89/95E lodged with the Northern Territory Surveyor-General, Darwin. 
+
+WILLIAMS BORE (UNDOOLYA) LOCALITY 
+
+All that parcel of land in the Northern Territory containing an area of 2,469 hectares more or less, being all of Northern Territory portion 3820 and being more particularly delineated on Survey Plans S.89/75A and S.89/75B lodged with the Surveyor-General, Darwin. 
+
+WYCLIFFE WELL LOCALITY 
+
+All that parcel of land in the Northern   Territory containing an area of 809.2 hectares more or less, being all of Northern   Territory portion 3804 and being more particularly delineated on Survey Plan S.89/93 lodged with the Surveyor-General, Darwin. 
+
+YAMBAH LOCALITY 
+
+All those parcels of land in the Northern Territory containing an area of 5,333 hectares more or less: 
+
+Firstly: 
+
+All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern   Territory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor-General, Darwin. 
+
+Secondly: 
+
+All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern   Territory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor-General, Darwin. 
+
+Thirdly: 
+
+All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern   Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin. 
+
+## Part 4 
 
 BAUHINIA DOWNS
 
@@ -6488,29 +6488,29 @@ BRUMBY PLAINS
 
 All that piece of land being Northern Territory Portion 4091 containing an area of approximately 117,000 hectares and being more particularly delineated on Survey Plan S92/164 lodged with the Surveyor-General, Darwin, but excluding all of the land within 50 metres from either side of the centre line of the access road between Northern Territory Portion 2989 and the northernmost boundary of Northern Territory Portion 2929.
 
-CATFISH DREAMING
+CATFISH DREAMING 
 
-All that parcel of land being Northern Territory Portion 4324 containing an area of 42.41 hectares more or less and being more particularly delineated on Survey Plan S93/160 lodged with the Northern Territory Surveyor-General, Darwin.
+All that parcel of land being Northern Territory Portion 4324 containing an area of 42.41 hectares more or less and being more particularly delineated on Survey Plan S93/160 lodged with the Northern Territory Surveyor-General, Darwin.  
 
-EVA VALLEY
+EVA VALLEY 
 
-Pastoral lease number 705—known as Eva Valley Station containing approximately 2926 square kilometres, 68 hectares, 6564 square metres more particularly described as Northern Territory portion 860 in the Northern Territory Crown Lands Lease Register Book—Volume 055 Folio 051.
+Pastoral lease number 705—known as Eva Valley Station containing approximately 2926 square kilometres, 68 hectares, 6564 square metres more particularly described as Northern Territory portion 860 in the Northern Territory Crown Lands Lease Register Book—Volume 055 Folio 051\. 
 
 HARRY CREEK EAST
 
 All that parcel of land being Northern Territory Portion 5624 containing an area of 450.3 hectares more or less and being more particularly delineated on Survey Plan S.98/24 lodged with the Surveyor-General, Darwin.
 
-HODGSON DOWNS
+HODGSON DOWNS 
 
-Pastoral lease number 613—known as Hodgson Downs containing an area of approximately 3,232 square kilometres and being more particularly described as Northern Territory portion 671 in the Northern Territory Crown Lands Lease Register Book—Volume 044 Folio 048 excluding the Hodgson River road and the Miniyeri Community access road and the land on either side of each of those roads to a distance of 50 metres from the centre lines of the roads concerned.
+Pastoral lease number 613—known as Hodgson Downs containing an area of approximately 3,232 square kilometres and being more particularly described as Northern Territory portion 671 in the Northern Territory Crown Lands Lease Register Book—Volume 044 Folio 048 excluding the Hodgson River road and the Miniyeri Community access road and the land on either side of each of those roads to a distance of 50 metres from the centre lines of the roads concerned. 
 
 INNESVALE
 
-All that piece of land in the Northern Territory of Australia containing an area of 283,700 hectares more or less, being Northern Territory Portion 5120 and being more particularly delineated on Survey Plans S97/172 (A to E) lodged with the Surveyor-General, Darwin, but excluding two roads 100 metres wide and one road 50 metres wide as delineated on Survey Plan S97/172E.
+All that piece of land in the Northern Territory of Australia containing an area of 283,700 hectares more or less, being Northern Territory Portion 5120 and being more particularly delineated on Survey Plans S97/172 (A to E) lodged with the Surveyor-General, Darwin, but excluding two roads 100 metres wide and one road 50 metres wide as delineated on Survey Plan S97/172E.
 
-KANTURRPA—KANTTAJI
+KANTURRPA—KANTTAJI 
 
-All that parcel of land being Northern Territory Portion 4236 containing an area of 15,180 hectares more or less and being more particularly delineated on Survey Plan S92/95A lodged with the Northern Territory Surveyor-General, Darwin.
+All that parcel of land being Northern Territory Portion 4236 containing an area of 15,180 hectares more or less and being more particularly delineated on Survey Plan S92/95A lodged with the Northern Territory Surveyor-General, Darwin. 
 
 LOVES CREEK
 
@@ -6546,7 +6546,7 @@ Thirdly:
 
 all that parcel of land containing an area of 6,257 hectares more or less, being all of Northern Territory Portion 4802.
 
-The 3 parcels together being more particularly delineated on Survey Plans S.95/36A to S.95/36C lodged with the Surveyor General, Darwin.
+The 3 parcels together being more particularly delineated on Survey Plans S.95/36A to S.95/36C lodged with the Surveyor General, Darwin.
 
 UPPER DALY
 
@@ -6572,13 +6572,13 @@ URRPANTYENYE
 
 All that piece of land in the Northern Territory of Australia containing an area of 6,554 hectares more or less, being Northern Territory Portion 1084 and being more particularly delineated on Survey Plan S98/203 lodged with the Surveyor-General, Darwin.
 
-WAVE HILL LOCALITY
+WAVE HILL LOCALITY 
 
-All that parcel of land in the Wave Hill Locality of the Northern Territory of Australia containing an area of 1238 km2 more or less bounded by lines commencing at a point 32134 metres due south of the northeast corner of Northern Territory Portion 2654 (Cattle Creek) thence by lines due east for a distance of 3131.5 metres; due south for a distance of 24534 metres; due west to the intersection of the eastern boundary of Northern Territory Portion 2654; thence due north and due east by the eastern and southern boundaries of Northern Territory Portion 2654 to the point of commencement.
+All that parcel of land in the Wave Hill Locality of the Northern Territory of Australia containing an area of 1238 km2 more or less bounded by lines commencing at a point 32134 metres due south of the northeast corner of Northern Territory Portion 2654 (Cattle Creek) thence by lines due east for a distance of 3131.5 metres; due south for a distance of 24534 metres; due west to the intersection of the eastern boundary of Northern Territory Portion 2654; thence due north and due east by the eastern and southern boundaries of Northern Territory Portion 2654 to the point of commencement.
 
-WESTERN DESERT LOCALITY
+WESTERN DESERT LOCALITY 
 
-All that parcel of land being Northern Territory Portion 4199 containing an area of 236,000 hectares more or less and being more particularly delineated on Survey Plan S95/170 lodged with the Northern Territory Surveyor-General, Darwin, but excluding all that land within 75 metres from either side of the centre line of the road that is known as the Tanami Road and that is more particularly shown on that Survey Plan.
+All that parcel of land being Northern Territory Portion 4199 containing an area of 236,000 hectares more or less and being more particularly delineated on Survey Plan S95/170 lodged with the Northern Territory Surveyor-General, Darwin, but excluding all that land within 75 metres from either side of the centre line of the road that is known as the Tanami Road and that is more particularly shown on that Survey Plan. 
 
 WESTERN DESERT (NORTH) LOCALITY
 
@@ -6588,11 +6588,11 @@ All that piece of land being Northern Territory Portion 4198 containing an area 
 
 ARLTUNGA HISTORICAL RESERVE
 
-All that parcel of land near Arltunga in the Northern Territory of Australia containing an area of 5,439 hectares more or less being the whole of Northern Territory Portion 6620 more particularly delineated on Survey Plan S2005/20 lodged with the Surveyor General, Darwin.
+All that parcel of land near Arltunga in the Northern Territory of Australia containing an area of 5,439 hectares more or less being the whole of Northern Territory Portion 6620 more particularly delineated on Survey Plan S2005/20 lodged with the Surveyor General, Darwin.
 
 CHAMBERS PILLAR HISTORICAL RESERVE
 
-All that parcel of land near Maryvale in the Northern Territory of Australia containing an area of 340.2 hectares more or less being the whole of Northern Territory Portion 843 more particularly delineated on Survey Plan B312 lodged with the Surveyor General, Darwin.
+All that parcel of land near Maryvale in the Northern Territory of Australia containing an area of 340.2 hectares more or less being the whole of Northern Territory Portion 843 more particularly delineated on Survey Plan B312 lodged with the Surveyor General, Darwin.
 
 CORROBOREE ROCK CONSERVATION RESERVE
 
@@ -6606,19 +6606,19 @@ DEVILS MARBLES CONSERVATION RESERVE
 
 All that parcel of land near Wauchope in the Northern Territory of Australia containing an area of 1,775 hectares more or less being the whole of Northern Territory Portion 6621 more particularly delineated on Survey Plan S2005/22B lodged with the Surveyor General, Darwin.
 
-EMILY AND JESSIE GAPS   NATURE PARK AND HEAVITREE RANGE EXTENSION
+EMILY AND JESSIE GAPS NATURE PARK AND HEAVITREE RANGE EXTENSION
 
-1)    Emily and Jessie Gaps   Nature Park
+1)    Emily and Jessie Gaps Nature Park
 
 All that parcel of land near Alice Springs in the Northern Territory of Australia containing an area of 670.2 hectares more or less being the whole of Northern Territory Portion 6624 more particularly delineated on Survey Plan S2005/23B lodged with the Surveyor General, Darwin.
 
 2)    Heavitree Range Extension
 
-All that parcel of land in Alice Springs in the Northern Territory of Australia containing an area of 541.6 hectares more or less being the whole of Lot 9519 more particularly delineated on Survey Plan S2005/23A lodged with the Surveyor General, Darwin.
+All that parcel of land in Alice Springs in the Northern Territory of Australia containing an area of 541.6 hectares more or less being the whole of Lot 9519 more particularly delineated on Survey Plan S2005/23A lodged with the Surveyor General, Darwin.
 
 EWANINGA ROCK CARVINGS CONSERVATION RESERVE
 
-All that parcel of land near Owen Springs in the Northern Territory of Australia containing an area of 6.09 hectares more or less being the whole of Northern Territory Portion 953 more particularly delineated on Survey Plan A447 lodged with the Surveyor General, Darwin.
+All that parcel of land near Owen Springs in the Northern Territory of Australia containing an area of 6.09 hectares more or less being the whole of Northern Territory Portion 953 more particularly delineated on Survey Plan A447 lodged with the Surveyor General, Darwin.
 
 FINKE GORGE NATIONAL PARK
 
@@ -6636,7 +6636,7 @@ All those parcels of land near Timber Creek in the Northern Territory of Austral
 
 GREGORY’S TREE HISTORICAL RESERVE
 
-All that parcel of land near Timber Creek in the Northern Territory of Australia containing an area of 2.02 hectares more or less being the whole of Northern Territory Portion 554 more particularly delineated on Survey Plan A155 lodged with the Surveyor General, Darwin.
+All that parcel of land near Timber Creek in the Northern Territory of Australia containing an area of 2.02 hectares more or less being the whole of Northern Territory Portion 554 more particularly delineated on Survey Plan A155 lodged with the Surveyor General, Darwin.
 
 N’DHALA GORGE NATURE PARK
 
@@ -6664,7 +6664,7 @@ All that land being the whole of Northern Territory Portion 6991 delineated on S
 
 All that parcel of land near Hamilton Downs in the Northern Territory of Australia containing an area of 21,100 hectares more or less being the whole of Northern Territory Portion 3472 more particularly delineated on Survey Plan S88/13 lodged with the Surveyor General, Darwin.
 
-4)    Ellery Creek Big Hole Nature Park
+4)    Ellery Creek Big Hole  Nature Park
 
 All that parcel of land near Hermannsburg in the Northern Territory of Australia containing an area of 1,752 hectares more or less being the whole of Northern Territory Portion 6631 more particularly delineated on Survey Plan S2005/28 lodged with the Surveyor General, Darwin.
 
@@ -6688,19 +6688,19 @@ All that parcel of land near Milton Park in the Northern Territory of Australia 
 
 All that parcel of land near Narwietooma in the Northern Territory of Australia containing an area of 13,480 hectares more or less being the whole of Northern Territory Portion 4116 more particularly delineated on Survey Plan S92/29A lodged with the Surveyor General, Darwin.
 
-10)  Redbank Gorge Nature Park
+10)   Redbank Gorge Nature Park
 
-All that parcel of land near Glen Helen in the Northern Territory of Australia containing an area of 1,295 hectares more or less being the whole of Northern Territory Portion 951 more particularly delineated on Survey Plan OP1362 lodged with the Surveyor General, Darwin.
+All that parcel of land near Glen Helen in the Northern Territory of Australia containing an area of 1,295 hectares more or less being the whole of Northern Territory Portion 951 more particularly delineated on Survey Plan OP1362 lodged with the Surveyor General, Darwin.
 
-11)  Serpentine Gorge Nature Park
+11)   Serpentine Gorge Nature Park
 
-All that parcel of land near Owen Springs in the Northern Territory of Australia containing an area of 518 hectares more or less being the whole of Northern Territory Portion 779 more particularly delineated on Survey Plan OP1333 lodged with the Surveyor General, Darwin.
+All that parcel of land near Owen Springs in the Northern Territory of Australia containing an area of 518 hectares more or less being the whole of Northern Territory Portion 779 more particularly delineated on Survey Plan OP1333 lodged with the Surveyor General, Darwin.
 
-12)  Simpson’s Gap National Park
+12)   Simpson’s Gap National Park
 
 All that parcel of land near Simpson’s Gap in the Northern Territory of Australia containing an area of 32,570 hectares more or less being the whole of Northern Territory Portion 6625 more particularly delineated on Survey Plans S2005/25A and S2005/25B lodged with the Surveyor General, Darwin.
 
-13)  Simpson’s Gap National Park Extension
+13)   Simpson’s Gap National Park Extension
 
 All that parcel of land near Alice Springs in the Northern Territory of Australia containing an area of 1,921 hectares more or less being the whole of Northern Territory Portion 6629 more particularly delineated on Survey Plans S2005/27A to D inclusive lodged with the Surveyor General, Darwin.
 
@@ -6708,53 +6708,47 @@ All that parcel of land near Alice Springs in the Northern Territory of Australi
 
 _Sections 40 and 41_
 
-RANGER PROJECT AREA
+RANGER PROJECT AREA 
 
-All that piece of land in the Northern Territory of Australia containing an area of 79 square kilometres more or less bounded by lines described as follows: Commencing at the intersection of latitude 12 degrees 38 minutes with longitude 132 degrees 53 minutes 30 seconds thence proceeding to the intersection of latitude 12 degrees 36 minutes with longitude 132 degrees 53 minutes 30 seconds thence proceeding to the intersection of latitude 12 degrees 36 minutes with longitude 132 degrees 53 minutes thence proceeding to the intersection of latitude 12 degrees 35 minutes with longitude 132 degrees 53 minutes thence proceeding to a point which lies at the intersection of latitude 12 degrees 35 minutes with a line joining the intersections of latitude 12 degrees 29 minutes with longitude 132 degrees 51 minutes and latitude 12 degrees 36 minutes with longitude 132 degrees 55 minutes thence proceeding to the intersection of latitude 12 degrees 36 minutes with longitude 132 degrees 55 minutes thence proceeding to a point which lies at the intersection of longitude 132 degrees 56 minutes 22 seconds with a line joining the intersections of latitude 12 degrees 36 minutes with longitude 132 degrees 55 minutes and latitude 12 degrees 33 minutes 20 seconds with longitude 133 degrees thence proceeding to the intersection of latitude 12 degrees 42 minutes 39 seconds with longitude 132 degrees 56 minutes 22 seconds thence proceeding to the intersection of latitude 12 degrees 42 minutes 39 seconds with longitude 132 degrees 53 minutes thence proceeding to a point which lies at the intersection of longitude 132 degrees 53 minutes with a line joining the intersection of latitude 12 degrees 38 minutes with longitude 132 degrees 53 minutes 30 seconds and latitude 12 degrees 39 minutes 50 seconds with longitude 132 degrees 49 minutes thence proceeding to the intersection of latitude 12 degrees 38 minutes with longitude 132 degrees 53 minutes 30 seconds.
+All that piece of land in the Northern Territory of Australia containing an area of 79 square kilometres more or less bounded by lines described as follows: Commencing at the intersection of latitude 12 degrees 38 minutes with longitude 132 degrees 53 minutes 30 seconds thence proceeding to the intersection of latitude 12 degrees 36 minutes with longitude 132 degrees 53 minutes 30 seconds thence proceeding to the intersection of latitude 12 degrees 36 minutes with longitude 132 degrees 53 minutes thence proceeding to the intersection of latitude 12 degrees 35 minutes with longitude 132 degrees 53 minutes thence proceeding to a point which lies at the intersection of latitude 12 degrees 35 minutes with a line joining the intersections of latitude 12 degrees 29 minutes with longitude 132 degrees 51 minutes and latitude 12 degrees 36 minutes with longitude 132 degrees 55 minutes thence proceeding to the intersection of latitude 12 degrees 36 minutes with longitude 132 degrees 55 minutes thence proceeding to a point which lies at the intersection of longitude 132 degrees 56 minutes 22 seconds with a line joining the intersections of latitude 12 degrees 36 minutes with longitude 132 degrees 55 minutes and latitude 12 degrees 33 minutes 20 seconds with longitude 133 degrees thence proceeding to the intersection of latitude 12 degrees 42 minutes 39 seconds with longitude 132 degrees 56 minutes 22 seconds thence proceeding to the intersection of latitude 12 degrees 42 minutes 39 seconds with longitude 132 degrees 53 minutes thence proceeding to a point which lies at the intersection of longitude 132 degrees 53 minutes with a line joining the intersection of latitude 12 degrees 38 minutes with longitude 132 degrees 53 minutes 30 seconds and latitude 12 degrees 39 minutes 50 seconds with longitude 132 degrees 49 minutes thence proceeding to the intersection of latitude 12 degrees 38 minutes with longitude 132 degrees 53 minutes 30 seconds. 
 
 # Schedule 3
 
 _Section 48AA_
 
-EASTERN AREAS ON GROOTE EYLANDT
+EASTERN AREAS ON GROOTE EYLANDT 
 
-All those pieces of land in the Northern Territory of Australia containing an area of 43.96 square kilometres more or less:
+All those pieces of land in the Northern Territory of Australia containing an area of 43.96 square kilometres more or less: 
 
-_Firstly_
+Firstly 
 
-Commencing at the intersection of latitude 14 degrees 01 minutes with longitude 136 degrees 30 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 01 minutes with longitude 136 degrees 32 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 03 minutes with longitude 136 degrees 32 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 03 minutes with longitude 136 degrees 30 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 02 minutes with longitude 136 degrees 30 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 02 minutes with longitude 136 degrees 30 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 01 minutes with longitude 136 degrees 30 minutes 30 seconds.
+Commencing at the intersection of latitude 14 degrees 01 minutes with longitude 136 degrees 30 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 01 minutes with longitude 136 degrees 32 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 03 minutes with longitude 136 degrees 32 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 03 minutes with longitude 136 degrees 30 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 02 minutes with longitude 136 degrees 30 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 02 minutes with longitude 136 degrees 30 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 01 minutes with longitude 136 degrees 30 minutes 30 seconds. 
 
-_Secondly_
+Secondly 
 
-Commencing at the intersection of latitude 14 degrees 04 minutes with longitude 136 degrees 28 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 04 minutes with longitude 136 degrees 31 minutes thence proceeding to the intersection of latitude 14 degrees 04 minutes 30 seconds with longitude 136 degrees 31 minutes thence proceeding to the intersection of latitude 14 degrees 04 minutes 30 seconds with longitude 136 degrees 34 minutes 15 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes 30 seconds with longitude 136 degrees 34 minutes 15 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes 30 seconds with longitude 136 degrees 31 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes with longitude 136 degrees 31 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes with longitude 136 degrees 30 minutes thence proceeding to the intersection of latitude 14 degrees 05 minutes with longitude 136 degrees 30 minutes thence proceeding to the intersection of latitude 14 degrees 05 minutes with longitude 136 degrees 28 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 04 minutes with longitude 136 degrees 28 minutes 45 seconds.
+Commencing at the intersection of latitude 14 degrees 04 minutes with longitude 136 degrees 28 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 04 minutes with longitude 136 degrees 31 minutes thence proceeding to the intersection of latitude 14 degrees 04 minutes 30 seconds with longitude 136 degrees 31 minutes thence proceeding to the intersection of latitude 14 degrees 04 minutes 30 seconds with longitude 136 degrees 34 minutes 15 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes 30 seconds with longitude 136 degrees 34 minutes 15 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes 30 seconds with longitude 136 degrees 31 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes with longitude 136 degrees 31 minutes 30 seconds thence proceeding to the intersection of latitude 14 degrees 06 minutes with longitude 136 degrees 30 minutes thence proceeding to the intersection of latitude 14 degrees 05 minutes with longitude 136 degrees 30 minutes thence proceeding to the intersection of latitude 14 degrees 05 minutes with longitude 136 degrees 28 minutes 45 seconds thence proceeding to the intersection of latitude 14 degrees 04 minutes with longitude 136 degrees 28 minutes 45 seconds. 
 
 # Schedule 4
 
 _Section 3_
 
-ALLIGATOR RIVERS AREA (No. 3)
+ALLIGATOR RIVERS AREA (No. 3) 
 
-Firstly, all those pieces of land in the Northern Territory of Australia containing an area of 7000 square kilometres more or less bounded by lines described as follows: Commencing at the northwestern corner of Pastoral Lease 739 (Mudginberri); thence southerly by part of the western boundary of the said Pastoral Lease to the northeastern corner of Pastoral Lease 737 (Munmarlary); thence northwesterly by a line to the intersection of the parallel of south latitude 12 degrees 5 minutes 30 seconds with the meridian of east longitude 132 degrees 33 minutes 28 seconds; thence northwesterly by the northwesterly prolongation of the said line to its intersection with the sea coast of Van Diemen Gulf at Point Farewell; thence generally southwesterly by the said sea coast to the left bank of the Wildman River, but excluding therefrom those parts along the sea coast of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below the sea coast of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence generally southeasterly by the said bank of the said river to its intersection with the eastern boundary of Pastoral Lease 785 (Point Stuart); thence southerly, southwesterly and westerly by eastern, southeastern and southern boundaries of the said Pastoral Lease to the southwestern corner of the said Pastoral Lease; thence southerly by the eastern boundary of Pastoral Lease 786 (Point Stuart) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and the eastern boundary of Pastoral Lease 766 (Wildman River) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and an eastern boundary of Pastoral Lease 747 (Annaburro) to the southeastern corner of the said Pastoral Lease; thence easterly by part of a northern boundary of Pastoral Lease 561 (Mt. Bundey) and a northern boundary of Pastoral Lease 612 (Goodparla) to the most northern northeastern corner of Pastoral Lease 612 (Goodparla); thence northeasterly by a line to the intersection of the right bank of the South Alligator River with the westerly prolongation of a surveyed line as shown on Survey Plan A.913 lodged with the Surveyor-General for the Northern Territory; thence generally northerly by the right bank of the South Alligator River to the southwestern corner of Pastoral Lease 737 (Munmarlary); thence easterly by the southern boundary of the said Pastoral Lease and part of the southern boundary of Pastoral Lease 739 (Mudginberri) to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 38 minutes 12.227 seconds; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 38 minutes and the meridian of east longitude 132 degrees 53 minutes 30 seconds; thence north to the parallel of south latitude 12 degrees 36 minutes; thence west to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 35 minutes; thence east to the meridian of east longitude 132 degrees 54 minutes 25.7 seconds; thence southeasterly to the intersection of the parallel of south latitude 12 degrees 36 minutes and the meridian of east longitude 132 degrees 55 minutes; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 35 minutes 16.28 seconds and the meridian of east longitude 132 degrees 56 minutes 22 seconds; thence north to the left bank of the East Alligator River; thence generally westerly by the said bank of the said river and the northern boundary of Pastoral Lease 739 (Mudginberri) to the point of commencement and including those parts above the sea coast of Field and Barren islands.
+Firstly, all those pieces of land in the Northern Territory of Australia containing an area of 7000 square kilometres more or less bounded by lines described as follows: Commencing at the northwestern corner of Pastoral Lease 739 (Mudginberri); thence southerly by part of the western boundary of the said Pastoral Lease to the northeastern corner of Pastoral Lease 737 (Munmarlary); thence northwesterly by a line to the intersection of the parallel of south latitude 12 degrees 5 minutes 30 seconds with the meridian of east longitude 132 degrees 33 minutes 28 seconds; thence northwesterly by the northwesterly prolongation of the said line to its intersection with the sea coast of Van Diemen Gulf at Point Farewell; thence generally southwesterly by the said sea coast to the left bank of the Wildman River, but excluding therefrom those parts along the sea coast of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below the sea coast of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence generally southeasterly by the said bank of the said river to its intersection with the eastern boundary of Pastoral Lease 785 (Point Stuart); thence southerly, southwesterly and westerly by eastern, southeastern and southern boundaries of the said Pastoral Lease to the southwestern corner of the said Pastoral Lease; thence southerly by the eastern boundary of Pastoral Lease 786 (Point Stuart) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and the eastern boundary of Pastoral Lease 766 (Wildman River) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and an eastern boundary of Pastoral Lease 747 (Annaburro) to the southeastern corner of the said Pastoral Lease; thence easterly by part of a northern boundary of Pastoral Lease 561 (Mt. Bundey) and a northern boundary of Pastoral Lease 612 (Goodparla) to the most northern northeastern corner of Pastoral Lease 612 (Goodparla); thence northeasterly by a line to the intersection of the right bank of the South Alligator River with the westerly prolongation of a surveyed line as shown on Survey Plan A.913 lodged with the Surveyor-General for the Northern Territory; thence generally northerly by the right bank of the South Alligator River to the southwestern corner of Pastoral Lease 737 (Munmarlary); thence easterly by the southern boundary of the said Pastoral Lease and part of the southern boundary of Pastoral Lease 739 (Mudginberri) to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 38 minutes 12.227 seconds; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 38 minutes and the meridian of east longitude 132 degrees 53 minutes 30 seconds; thence north to the parallel of south latitude 12 degrees 36 minutes; thence west to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 35 minutes; thence east to the meridian of east longitude 132 degrees 54 minutes 25.7 seconds; thence southeasterly to the intersection of the parallel of south latitude 12 degrees 36 minutes and the meridian of east longitude 132 degrees 55 minutes; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 35 minutes 16.28 seconds and the meridian of east longitude 132 degrees 56 minutes 22 seconds; thence north to the left bank of the East Alligator River; thence generally westerly by the said bank of the said river and the northern boundary of Pastoral Lease 739 (Mudginberri) to the point of commencement and including those parts above the sea coast of Field and Barren islands. 
 
-Secondly, all that piece of land in the Northern Territory of Australia containing an area of 324 square kilometres more or less bounded by lines described as follows: Commencing at the most eastern northeastern corner of Pastoral Lease 668 (Gimbat); thence westerly and northerly by northern and eastern boundaries of the said Pastoral Lease to the most northern northeastern corner of the said Pastoral Lease; thence easterly by the easterly prolongation of the most northern boundary of Pastoral Lease 668 (Gimbat) to its intersection with the meridian of east longitude 133 degrees; thence south to the point of commencement.
+Secondly, all that piece of land in the Northern Territory of Australia containing an area of 324 square kilometres more or less bounded by lines described as follows: Commencing at the most eastern northeastern corner of Pastoral Lease 668 (Gimbat); thence westerly and northerly by northern and eastern boundaries of the said Pastoral Lease to the most northern northeastern corner of the said Pastoral Lease; thence easterly by the easterly prolongation of the most northern boundary of Pastoral Lease 668 (Gimbat) to its intersection with the meridian of east longitude 133 degrees; thence south to the point of commencement. 
 
 # Schedule 5
 
 _Subsection 63(2)_
 
-NABARLEK PROJECT AREA
+NABARLEK PROJECT AREA 
 
 All that piece or parcel of land in the Northern Territory of Australia containing an area of 1279 hectares, the boundary of which is described as follows:
 
-Commencing at the datum peg in the south-west corner of the land hence proceed on a bearing of 270° for a distance of 1000 metres; hence on a bearing of 360° for a distance of 1000 metres; hence on a bearing of 90° for a distance of 500 metres; hence on a bearing of 45° for a distance of 2827.97 metres; hence on a bearing of 80° for a distance of 1999.59 metres; hence on a bearing of 180° for a distance of 1850 metres; hence on a bearing of 90° for a distance of 150 metres; hence on a bearing of 167° 16¢ 30² for a distance of 1589.02 metres; hence on a bearing of 270° for a distance of 1500 metres; hence on a bearing of 180° for a distance of 700 metres; hence on a bearing of 270° for a distance of 721.16 metres; hence on a bearing of 18° 0¢ 30² for a distance of 163.18 metres; hence on a bearing of 
- 327° 40¢ 30² for a distance of 542.37 metres; hence on a bearing of 
- 57° 40¢ 30² for a distance of 195.07 metres; hence on a bearing of 
- 327° 40¢ 30² for a distance of 219.46 metres; hence on a bearing of
-  237° 40¢ 30² for a distance of 195.08 metres; hence on a bearing of 
- 327° 40¢ 30² for a distance of 474.76 metres; hence on a bearing of 
- 259° 30¢ for a distance of 258.25 metres; hence on a bearing of 252° 32¢ 30² for a distance of 276.58 metres; hence on a bearing of 251° 16¢ 30² for a distance of 256.25 metres; hence on a bearing of 257° 2¢ for a distance of 134.36 metres; hence on a bearing of 252° 41¢ for a distance of 140.96 metres; hence on a bearing of 255° 45¢ for a distance of 113.8 metres; hence on a bearing of 254° 27¢ 30² for a distance of 31.04 metres; hence on a bearing of 360° for a distance of 321.26 metres to the point of commencement.
+Commencing at the datum peg in the south-west corner of the land hence proceed on a bearing of 270° for a distance of 1000 metres; hence on a bearing of 360° for a distance of 1000 metres; hence on a bearing of 90° for a distance of 500 metres; hence on a bearing of 45° for a distance of 2827.97 metres; hence on a bearing of 80° for a distance of 1999.59 metres; hence on a bearing of 180° for a distance of 1850 metres; hence on a bearing of 90° for a distance of 150 metres; hence on a bearing of 167° 16¢ 30² for a distance of 1589.02 metres; hence on a bearing of 270° for a distance of 1500 metres; hence on a bearing of 180° for a distance of 700 metres; hence on a bearing of 270° for a distance of 721.16 metres; hence on a bearing of 18° 0¢ 30² for a distance of 163.18 metres; hence on a bearing of 327° 40¢ 30² for a distance of 542.37 metres; hence on a bearing of 57° 40¢ 30² for a distance of 195.07 metres; hence on a bearing of 327° 40¢ 30² for a distance of 219.46 metres; hence on a bearing of 237° 40¢ 30² for a distance of 195.08 metres; hence on a bearing of 327° 40¢ 30² for a distance of 474.76 metres; hence on a bearing of 259° 30¢ for a distance of 258.25 metres; hence on a bearing of 252° 32¢ 30² for a distance of 276.58 metres; hence on a bearing of 251° 16¢ 30² for a distance of 256.25 metres; hence on a bearing of 257° 2¢ for a distance of 134.36 metres; hence on a bearing of 252° 41¢ for a distance of 140.96 metres; hence on a bearing of 255° 45¢ for a distance of 113.8 metres; hence on a bearing of 254° 27¢ 30² for a distance of 31.04 metres; hence on a bearing of 360° for a distance of 321.26 metres to the point of commencement. 
 
-The Datum is located 1500 metres in a direction true west of the Queensland Mines Limited Survey Monument which has the Australian Metric Grid co-ordinates 317,101.15mE 8,638,680.56mN, and latitude 12° 18¢ 33.042² south, longitude 133° 19¢ 05.314² east.
+The Datum is located 1500 metres in a direction true west of the Queensland Mines Limited Survey Monument which has the Australian Metric Grid co-ordinates 317,101.15mE 8,638,680.56mN, and latitude 12° 18¢ 33.042² south, longitude 133° 19¢ 05.314² east. 
 
 All Bearings referred to in this Schedule are true bearings.
 
@@ -6762,9 +6756,9 @@ All Bearings referred to in this Schedule are true bearings.
 
 _Note:       See subsection 4(2A)._
 
-<a id="1"></a>1**Anindilyakwa Land Trust**
+<a id="1"></a>1**Anindilyakwa****Land****Trust**
 
-                   The boundaries of the land to be held by the Anindilyakwa Land Trust are the areas of Groote Eylandt and Bickerton Island and every other island wholly within the area bounded by the lines commencing at a point latitude 13 degrees 30 minutes south and longitude 136 degrees 15 minutes east; thence east by the parallel of latitude 13 degrees 30 minutes south to its intersection with the meridian of longitude 137 degrees east; thence south by the meridian of longitude 137 degrees east to its intersection with the parallel of latitude 14 degrees 30 minutes south; thence west by the parallel of latitude 14 degrees 30 minutes south to its intersection with the meridian of longitude 136 degrees 20 minutes east; thence north westerly to a point of latitude 13 degrees 47 minutes 30 seconds south and longitude of 136 degrees 3 minutes east; thence north easterly to the point of commencement.
+                   The boundaries of the land to be held by the Anindilyakwa Land Trust are the areas of Groote Eylandt and Bickerton Island and every other island wholly within the area bounded by the lines commencing at a point latitude 13 degrees 30 minutes south and longitude 136 degrees 15 minutes east; thence east by the parallel of latitude 13 degrees 30 minutes south to its intersection with the meridian of longitude 137 degrees east; thence south by the meridian of longitude 137 degrees east to its intersection with the parallel of latitude 14 degrees 30 minutes south; thence west by the parallel of latitude 14 degrees 30 minutes south to its intersection with the meridian of longitude 136 degrees 20 minutes east; thence north westerly to a point of latitude 13 degrees 47 minutes 30 seconds south and longitude of 136 degrees 3 minutes east; thence north easterly to the point of commencement.
 
 # Schedule 7—Community land
 
@@ -6790,7 +6784,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -6917,7 +6913,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7000,7 +6998,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7087,7 +7087,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7258,7 +7260,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7341,7 +7345,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7428,7 +7434,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7555,7 +7563,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7642,7 +7652,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7780,7 +7792,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -7865,7 +7879,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8038,7 +8054,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8202,7 +8220,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8406,7 +8426,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 GDA94</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 GDA94</b>
       </div>
     </td>
   </tr>
@@ -8489,7 +8511,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8576,7 +8600,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8791,7 +8817,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8878,7 +8906,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -8972,7 +9002,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9055,7 +9087,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9138,7 +9172,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9221,7 +9257,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9304,7 +9342,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9391,7 +9431,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9496,7 +9538,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9583,7 +9627,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9688,7 +9734,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9771,7 +9819,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9858,7 +9908,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -9941,7 +9993,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10024,7 +10078,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10107,7 +10163,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10190,7 +10248,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10273,7 +10333,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10356,7 +10418,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10443,7 +10507,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10554,7 +10620,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (b)  Area 2 of 10, that is all of that area contained within and bounded by a line commencing at Point 9 listed immediately below, thence initially in a northerly direction along a straight line (loxodrome) to the intersection with the low water mark of the coastline of the Northern Territory at Point 10, thence generally in an easterly direction following the low water mark of that coastline to Point 11, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 13, thence to the point of commencement;
+                     (b)  Area 2 of 10, that is all of that area contained within and bounded by a line commencing at Point 9 listed immediately below, thence initially in a northerly direction along a straight line (loxodrome) to the intersection with the low water mark of the coastline of the Northern Territory at Point 10, thence generally in an easterly direction following the low water mark of that coastline to Point 11, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 13, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -10570,7 +10636,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10664,7 +10732,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10747,7 +10817,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10830,7 +10902,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10913,7 +10987,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10996,7 +11072,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11079,7 +11157,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11173,7 +11253,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11267,7 +11349,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11365,7 +11449,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11492,7 +11578,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11575,7 +11663,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11658,7 +11748,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11745,7 +11837,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11850,7 +11944,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11933,7 +12029,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12000,7 +12098,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (d)  Area 4 of 4, that is all of that area contained within and bounded by a line commencing at Point 15 listed immediately below, thence initially in a south easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 18, thence to the point of commencement.
+                     (d)  Area 4 of 4, that is all of that area contained within and bounded by a line commencing at Point 15 listed immediately below, thence initially in a south easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 18, thence to the point of commencement.
 
 <table>
 <colgroup>
@@ -12016,7 +12114,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12101,7 +12201,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12210,7 +12312,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12315,7 +12419,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12398,7 +12504,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12481,7 +12589,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12564,7 +12674,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12651,7 +12763,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12844,7 +12958,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -12927,7 +13043,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13010,7 +13128,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13108,7 +13228,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13301,7 +13423,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13384,7 +13508,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13467,7 +13593,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13550,7 +13678,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13633,7 +13763,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13716,7 +13848,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13803,7 +13937,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -13974,7 +14110,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14057,7 +14195,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14144,7 +14284,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14359,7 +14501,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14442,7 +14586,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14525,7 +14671,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14608,7 +14756,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14691,7 +14841,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14774,7 +14926,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -14841,11 +14995,11 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="22"></a>22  Maningrida
+##### <a id="22"></a>22  Maningrida
 
                    All that area of land contained within the 5 separate areas of land outlined below having a total area of approximately 10.456 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
-                     (a)  Area 1 of 5, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to the intersection with the low water mark of the coastline of the Northern Territory at Point 6, thence generally in a north easterly direction following the low water mark of that coastline to Point 7, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 14, thence to the point of commencement;
+                     (a)  Area 1 of 5, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to the intersection with the low water mark of the coastline of the Northern Territory at Point 6, thence generally in a north easterly direction following the low water mark of that coastline to Point 7, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 14, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -14861,7 +15015,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15054,7 +15210,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15137,7 +15295,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15220,7 +15380,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15303,7 +15465,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15390,7 +15554,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15572,7 +15738,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15643,7 +15811,7 @@ _Note:       See paragraph 70A(2)(a)._
 
                    All that area of land contained within the 3 separate areas of land outlined below having a total area of approximately 6.253 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
-                     (a)  Area 1 of 3, that is all of that area contained within and bounded by a line commencing on the low water mark of the coastline of the Northern Territory at Point 1 listed immediately below, thence initially in a south easterly direction following the low water mark of that coastline to Point 2, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 14, thence to the point of commencement;
+                     (a)  Area 1 of 3, that is all of that area contained within and bounded by a line commencing on the low water mark of the coastline of the Northern Territory at Point 1 listed immediately below, thence initially in a south easterly direction following the low water mark of that coastline to Point 2, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 14, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -15659,7 +15827,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15852,7 +16022,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -15935,7 +16107,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16022,7 +16196,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16281,7 +16457,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16364,7 +16542,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16449,7 +16629,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16602,7 +16784,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16790,7 +16974,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (b)  Area 2 of 7, that is all of that area contained within and bounded by a line commencing at Point 16 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 19, thence to the point of commencement;
+                     (b)  Area 2 of 7, that is all of that area contained within and bounded by a line commencing at Point 16 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 19, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -16806,7 +16990,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16889,7 +17075,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -16972,7 +17160,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17055,7 +17245,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17138,7 +17330,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17216,7 +17410,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (g)  Area 7 of 7, that is all of that area contained within and bounded by a line commencing at Point 37 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 40, thence to the point of commencement.
+                     (g)  Area 7 of 7, that is all of that area contained within and bounded by a line commencing at Point 37 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 40, thence to the point of commencement.
 
 <table>
 <colgroup>
@@ -17232,7 +17426,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17319,7 +17515,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17402,7 +17600,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17485,7 +17685,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17568,7 +17770,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17695,7 +17899,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17778,7 +17984,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17847,7 +18055,7 @@ _Note:       See paragraph 70A(2)(a)._
 
 ##### <a id="29"></a>29  Mutitjulu
 
-                   All that area of land contained within the area of land outlined below, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in an easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 4, thence to the point of commencement.
+                   All that area of land contained within the area of land outlined below, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in an easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 4, thence to the point of commencement.
 
 <table>
 <colgroup>
@@ -17863,7 +18071,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -17932,7 +18142,7 @@ _Note:       See paragraph 70A(2)(a)._
 
 ##### <a id="30"></a>30  Nguiu
 
-                   That parcel of land described in regulation 5 of the _Aboriginal__Land__Rights (Northern Territory) Regulations 2007_.
+                   That parcel of land described in regulation 5 of the _Aboriginal__Land__Rights (__Northern   Territory__) Regulations 2007_.
 
 ##### <a id="31"></a>31  Ngukurr
 
@@ -17954,7 +18164,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18081,7 +18293,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 GDA94</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 GDA94</b>
       </div>
     </td>
   </tr>
@@ -18168,7 +18382,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18273,7 +18489,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18356,7 +18574,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18427,7 +18647,7 @@ _Note:       See paragraph 70A(2)(a)._
 
                    All that area of land contained within the 4 separate areas of land outlined below having a total area of approximately 7.230 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
-                     (a)  Area 1 of 4, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in a southerly direction along a straight line (loxodrome) to the intersection with the low water mark of the coastline of the Northern Territory at Point 2, thence generally in a south westerly direction following the low water mark of that coastline to Point 3, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 10, thence to the point of commencement;
+                     (a)  Area 1 of 4, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in a southerly direction along a straight line (loxodrome) to the intersection with the low water mark of the coastline of the Northern Territory at Point 2, thence generally in a south westerly direction following the low water mark of that coastline to Point 3, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 10, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -18443,7 +18663,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18592,7 +18814,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18675,7 +18899,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18758,7 +18984,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -18843,7 +19071,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19018,7 +19248,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19189,7 +19421,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19272,7 +19506,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19355,7 +19591,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19438,7 +19676,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19525,7 +19765,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19696,7 +19938,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19779,7 +20023,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19846,7 +20092,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (d)  Area 4 of 7, that is all of that area contained within and bounded by a line commencing at Point 21 listed immediately below, thence initially in a north easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 24, thence to the point of commencement;
+                     (d)  Area 4 of 7, that is all of that area contained within and bounded by a line commencing at Point 21 listed immediately below, thence initially in a north easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 24, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -19862,7 +20108,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -19945,7 +20193,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20028,7 +20278,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20111,7 +20363,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20198,7 +20452,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20391,7 +20647,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20474,7 +20732,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20557,7 +20817,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20642,7 +20904,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20729,7 +20993,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -20944,7 +21210,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21031,7 +21299,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21158,7 +21428,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21241,7 +21513,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 GDA94</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 GDA94</b>
       </div>
     </td>
   </tr>
@@ -21324,7 +21598,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21411,7 +21687,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21516,7 +21794,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21599,7 +21879,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21682,7 +21964,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21765,7 +22049,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21848,7 +22134,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -21917,7 +22205,7 @@ _Note:       See paragraph 70A(2)(a)._
 
 ##### <a id="42"></a>42  Robinson River
 
-                   All that area of land contained within the 3 separate areas of land outlined below having a total area of approximately 4.211 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
+                   All that area of land contained within the 3 separate areas of land outlined below having a total area of approximately 4.211 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
                      (a)  Area 1 of 3, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in an easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 6, thence to the point of commencement;
 
@@ -21935,7 +22223,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22040,7 +22330,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22123,7 +22415,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22210,7 +22504,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22381,7 +22677,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22464,7 +22762,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22551,7 +22851,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22733,7 +23035,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22816,7 +23120,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 GDA94</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 GDA94</b>
       </div>
     </td>
   </tr>
@@ -22899,7 +23205,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -22986,7 +23294,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -23300,7 +23610,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -23383,7 +23695,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -23466,7 +23780,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -23553,7 +23869,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -23779,7 +24097,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -23850,7 +24170,7 @@ _Note:       See paragraph 70A(2)(a)._
 
                    All that area of land contained within the 4 separate areas of land outlined below having a total area of approximately 7.547 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
-                     (a)  Area 1 of 4, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in a southerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to the intersection with the low water mark of the coastline of the Northern Territory at Point 13, thence generally in a south easterly direction following the low water mark of that coastline to Point 14, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 18, thence to the point of commencement;
+                     (a)  Area 1 of 4, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in a southerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to the intersection with the low water mark of the coastline of the Northern Territory at Point 13, thence generally in a south easterly direction following the low water mark of that coastline to Point 14, thence successively along a straight line (loxodrome) between each of the following points in the sequence to Point 18, thence to the point of commencement;
 
 <table>
 <colgroup>
@@ -23866,7 +24186,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24103,7 +24425,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24186,7 +24510,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24269,7 +24595,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24378,7 +24706,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24483,7 +24813,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24566,7 +24898,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24649,7 +24983,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24736,7 +25072,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24907,7 +25245,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -24974,7 +25314,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (c)  Area 3 of 3, that is all of that area contained within and bounded by a line commencing at Point 17 listed immediately below, thence initially in a north easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 20, thence to the point of commencement.
+                     (c)  Area 3 of 3, that is all of that area contained within and bounded by a line commencing at Point 17 listed immediately below, thence initially in a north easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 20, thence to the point of commencement.
 
 <table>
 <colgroup>
@@ -24990,7 +25330,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25077,7 +25419,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25160,7 +25504,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25247,7 +25593,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25446,7 +25794,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-                     (b)  Area 2 of 2, that is all of that area contained within and bounded by a line commencing at Point 17 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 20, thence to the point of commencement.
+                     (b)  Area 2 of 2, that is all of that area contained within and bounded by a line commencing at Point 17 listed immediately below, thence initially in a north westerly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 20, thence to the point of commencement.
 
 <table>
 <colgroup>
@@ -25462,7 +25810,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25549,7 +25899,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25786,7 +26138,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25869,7 +26223,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25952,7 +26308,9 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of</b>
+        <b>Australia</b>
+        <b>1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -26041,11 +26399,11 @@ the point of latitude and longitude referred to in the table is taken to be the 
 
 ### Note 1
 
-The _Aboriginal__Land__Rights (Northern   Territory) Act 1976_ as shown in this compilation comprises Act No. 191, 1976 amended as indicated in the Tables below.
+The _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_ as shown in this compilation comprises Act No. 191, 1976 amended as indicated in the Tables below. 
 
-The _Aboriginal Land Rights (Northern Territory) Act 1976_ was amended by the Aboriginal Land Rights (Northern Territory) (Land Description) Regulations (1990 No. 282 as amended), the Aboriginal Land Rights (Northern Territory) (Land Description) (Ranken River Locality etc.) Regulations (1991 No. 282), the Aboriginal Land Rights (Northern Territory) (Land Description) (Birdum (Jommet Block) Locality) Regulations (1991 No. 340), the Aboriginal Land Rights (Northern Territory) (Land Description) (Mt Kathleen Locality) Regulations (1991 No. 396), the Aboriginal Land Rights (Northern Territory) (Land Description) (Forster Range (Stirling) and other Localities) Regulations (1992 No. 107), the Aboriginal Land Rights (Northern Territory) (Land Description) (16 Mile (Bond Springs) Locality) Regulations (1992 No. 133) and the Aboriginal Land Rights (Northern Territory) (Land Description) (Mt Solitaire Locality) Regulations (1992 No. 369). The amendments are incorporated in this compilation.
+The _Aboriginal Land Rights (Northern Territory) Act 1976_ was amended by the Aboriginal Land Rights (Northern Territory) (Land Description) Regulations (as amended), the Aboriginal Land Rights (Northern Territory) (Land Description) (Ranken River Locality etc.) Regulations, the Aboriginal Land Rights (Northern Territory) (Land Description) (Birdum (Jommet Block) Locality) Regulations, the Aboriginal Land Rights (Northern Territory) (Land Description) (Mt Kathleen Locality) Regulations, the Aboriginal Land Rights (Northern Territory) (Land Description) (Forster Range (Stirling) and other Localities) Regulations, the Aboriginal Land Rights (Northern Territory) (Land Description) (16 Mile (Bond Springs) Locality) Regulations and the Aboriginal Land Rights (Northern Territory) (Land Description) (Mt Solitaire Locality) Regulations. The amendments are incorporated in this compilation. 
 
-For cessation details of subsections 70(2BA), (2BB) and (2BC) _see_ subsection 70(2BD).
+For cessation details of subsections 70(2BA), (2BB) and (2BC) _see_ subsection 70(2BD).
 
 All relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -26093,7 +26451,7 @@ of Assent</div>
   </td>
   <td>
     <div>S. 70: 1 Feb 1979 ( <i>see Gazette</i>1979, No. S9) 
-Remainder: 26 Jan 1977 ( <i>see Gazette</i>1977, No. S6)</div>
+Remainder: 26 Jan 1977 ( <i>see Gazette</i> 1977, No. S6)</div>
   </td>
   <td>
     <div></div>
@@ -26110,7 +26468,7 @@ Remainder: 26 Jan 1977 ( <i>see Gazette</i>1977, No. S6)</div>
     <div>17 May 1978</div>
   </td>
   <td>
-    <div>23 June 1978 ( <i>see Gazette</i>1978, No. S110)</div>
+    <div>23 June 1978 ( <i>see Gazette</i>1978, No. S110)</div>
   </td>
   <td>
     <div>—</div>
@@ -26164,7 +26522,8 @@ Remainder: 26 Jan 1977 ( <i>see Gazette</i>1977, No. S6)</div>
     <div>4 Dec 1979</div>
   </td>
   <td>
-    <div>Ss. 9(2), (3) and 14 S. 13 (rep. by 16, 1982, s. 13)</div>
+    <div>Ss. 9(2), (3) and 14 
+S. 13 (rep. by 16, 1982, s. 13)</div>
   </td>
 </tr>
 <tr>
@@ -26212,7 +26571,7 @@ Remainder: 26 Jan 1977 ( <i>see Gazette</i>1977, No. S6)</div>
     <div>28 May 1980</div>
   </td>
   <td>
-    <div>Ss. 3 and 6-9: 26 Jan 1977 
+    <div>Ss. 3 and 6-9: 26 Jan 1977 
 Remainder: Royal 
 Assent</div>
   </td>
@@ -26232,7 +26591,7 @@ Assent</div>
   </td>
   <td>
     <div>Part I (ss. 1, 2): Royal Assent 
-Div. 1 of Part XI (s. 36): 1 July 1981 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S118) 
+Div. 1 of Part XI (s. 36): 1 July 1981 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S118) 
 Remainder: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, No. S124)</div>
   </td>
   <td>
@@ -26275,7 +26634,7 @@ Remainder: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, No. S124)</
 </tr>
 <tr>
   <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
   </td>
   <td>
     <div>80, 1982</div>
@@ -26284,7 +26643,7 @@ Remainder: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, No. S124)</
     <div>22 Sept 1982</div>
   </td>
   <td>
-    <div>Part IV (ss. 10, 11): 15 April 1982</div>
+    <div>Part IV (ss. 10, 11): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26302,8 +26661,9 @@ Remainder: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, No. S124)</
     <div>22 Sept 1982</div>
   </td>
   <td>
-    <div>Ss. 12 and 13: 15 April 1982 
-S. 14: 20 Oct 1982</div>
+    <div>Ss. 12 and 13: <i>(b)</i> 
+S. 14: 20 Oct 1982 
+ <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26320,7 +26680,7 @@ S. 14: 20 Oct 1982</div>
     <div>25 June 1984</div>
   </td>
   <td>
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245)</div>
+    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(c)</i></div>
   </td>
   <td>
     <div>S. 151(9)</div>
@@ -26354,7 +26714,7 @@ S. 14: 20 Oct 1982</div>
     <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>S. 3: <i>(a)</i></div>
+    <div>S. 3: <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26371,7 +26731,7 @@ S. 14: 20 Oct 1982</div>
     <div>25 June 1984</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -26388,7 +26748,7 @@ S. 14: 20 Oct 1982</div>
     <div>5 June 1985</div>
   </td>
   <td>
-    <div>S. 3: 3 July 1985</div>
+    <div>S. 3: 3 July 1985 <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26422,7 +26782,7 @@ S. 14: 20 Oct 1982</div>
     <div>11 Dec 1985</div>
   </td>
   <td>
-    <div>S. 45: 8 Jan 1986</div>
+    <div>S. 45: 8 Jan 1986 <i>(g)</i></div>
   </td>
   <td>
     <div>S. 45(2)</div>
@@ -26439,7 +26799,7 @@ S. 14: 20 Oct 1982</div>
     <div>18 May 1987</div>
   </td>
   <td>
-    <div>18 May 1987 ( <i>see </i>s. 2)</div>
+    <div>18 May 1987 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -26473,7 +26833,7 @@ S. 14: 20 Oct 1982</div>
     <div>3 June 1988</div>
   </td>
   <td>
-    <div>S. 3: 18 May 1987 <i>(b)</i></div>
+    <div>S. 3: 18 May 1987 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26490,10 +26850,10 @@ S. 14: 20 Oct 1982</div>
     <div>5 June 1987</div>
   </td>
   <td>
-    <div>S. 13 (in part): 1 Sept 1995 ( <i>see Gazette</i>1995, No. S333) 
-S. 25 (in part): 1 Mar 1990 ( <i>see Gazette</i>1990, No. S51) 
+    <div>S. 13 (in part): 1 Sept 1995 ( <i>see Gazette</i>1995, No. S333) 
+S. 25 (in part): 1 Mar 1990 ( <i>see Gazette</i>1990, No. S51) 
 S. 26: 30 June 1986 
-S. 34: <i>(c)</i> 
+S. 34: <i>(i)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -26597,7 +26957,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>18 Dec 1987</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -26631,7 +26991,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>27 Nov 1989</div>
   </td>
   <td>
-    <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
+    <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
   </td>
   <td>
     <div>—</div>
@@ -26750,7 +27110,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (item 3): Royal Assent</div>
+    <div>Schedule 4 (item 3): Royal Assent <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26784,7 +27144,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 113–135): 1 Jan 1998 ( <i>see</i>s. 2(2) and <i>Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (items 113-135): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26818,7 +27178,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>16 July 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (item 4) and Schedule 4 (items 23–37): 16 July 2000 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (item 4), Schedule 4 (items 23-37): 16 July 2000 <i>(m)</i></div>
   </td>
   <td>
     <div>Sch. 4 (items 31, 33) \[ <i>see</i>Table A]</div>
@@ -26835,7 +27195,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 28–31): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 28-31): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26852,7 +27212,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 11 (items 1, 2):1 July 2000</div>
+    <div>Schedule 11 (items 1, 2):1 July 2000 <i>(o)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -26903,7 +27263,8 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 12–16, 418, 419): 24 May 2001</div>
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
@@ -26920,7 +27281,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>17 Sept 2001</div>
   </td>
   <td>
-    <div>S. 4, Schedule 1 (items 42–52) and Schedule 2 (items 86–162): 15 Oct 2001</div>
+    <div>15 Oct 2001</div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -26957,7 +27318,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>S. 4, Schedule 1 (items 59–69, 496) and Schedule 2 (items 11, 12, 174): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+    <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -26971,7 +27332,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>22 Mar 2005</div>
   </td>
   <td>
-    <div>Schedule 4 (items 7–11): 24 Mar 2005</div>
+    <div>Schedule 4 (items 7–11): 24 Mar 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -26992,13 +27353,13 @@ S. 8 (am. by 2, 1990, s. 18)</div>
 13–15, 17–33, 
 35–71, 73–99, 101–103, 159–162, 165–201, 203, 204, 206, 208–218, 220–223, 225–231, 233): 1 Oct 2006 ( <i>see</i>F2006L03153) 
 Schedule 1 (items 4A–4C, 9, 
-104–124D, 
-128–145, 147–158, 202, 224, 232, 234): 1 July 2007 ( <i>see</i>F2007L01930) 
-Schedule 1 (items 100, 219): 5 Sept 2007 
+104–158, 202, 224, 232, 234): 1 July 2007 ( <i>see</i>F2007L01930) 
+Schedule 1 (items 100, 219): 5 Sept 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 206, 208–223, 224(1), (2), (4)–(12), 225–234) Sch. 1 (item 224(3)) (am. by 121, 2007, Sch. 2 \[item 3]) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 206, 208–223, 224(1), (2), (4)–(12), 225–234) 
+Sch. 1 (item 224(3)) (am. by 121, 2007, Sch. 2 \[item 3]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -27029,7 +27390,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2, 3): ( <i>see</i>121, 2007)</div>
+    <div>Schedule 2 (items 2, 3): ( <i>see</i>121, 2007 below)</div>
   </td>
   <td>
     <div>—</div>
@@ -27064,7 +27425,8 @@ Remainder: Royal Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 35–87): 1 July 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -27082,7 +27444,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1: 1 July 2007 ( <i>see</i>F2007L01932) 
-Schedule 2 (items 1–3): <i>(d)</i> 
+Schedule 2 (item 1): <i>(p)</i> 
+Schedule 2 (items 2, 3): <i>(p)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -27104,46 +27467,11 @@ Remainder: Royal Assent</div>
 Schedule 3, Schedule 4 (items 1–10, 18) and Schedule 5 (items 1–3): 18 Aug 2007 
 Schedule 4 (items 11–17): 17 Feb 2008 
 Schedule 5 (item 4): 18 Aug 2007 ( <i>see</i>s. 2(1)) 
-Schedule 5 (items 5, 6): <i>(e)</i></div>
+Schedule 5 (items 5, 6): <i>(q)</i></div>
   </td>
   <td>
-    <div>S. 3 and Sch. 4 (items 
-16–18) 
-Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010</div>
-  </td>
-  <td>
-    <div>93, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 4): \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
+    <div>Ss. 3–5 and Sch. 4 (items 
+16–18) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -27157,7 +27485,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
     <div>1 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–35) and Schedule 3: 2 July 2008</div>
+    <div>2 July 2008</div>
   </td>
   <td>
     <div>Sch. 1 (items 4, 7) \[ <i>see</i>Table A]</div>
@@ -27215,19 +27543,73 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_     The _Public Service Reform Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, paragraph 2(21)(b) of which provides as follows:
+_(a)_     The _Aboriginal__Land__Rights Legislation Amendment Act 1982_ was amended by Part IV (sections 10 and 11) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(2) of which provides as follows:
+
+                 (2)   Part IV and sections 12 and 13 shall be deemed to have come into operation on 15 April 1982.
+
+_(b)_    The _Aboriginal Land Rights (Northern Territory) Act 1976_ was amended by sections 12-14 only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsections 2(2) and (16) of which provide as follows:
+
+                 (2)   Part IV and sections 12 and 13 shall be deemed to have come into operation on 15 April 1982.
+
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+
+_(c)_     The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+
+                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+
+_(d)_     The _Public Service Reform Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, paragraph 2(21)(b) of which provides as follows:
 
                (21)   The amendments of the _Public Service Reform Act 1984_ made by this Act shall:
 
                               (b)   in the case of the amendments of Items 1 and 3 of Schedule 4 to the first-mentioned Act—be deemed to have come into operation on 1 July 1984.
 
-_(b)_     The _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 2) 1987_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(2) of which provides as follows:
+_(e)_     The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(3) of which provides as follows:
 
-                 (2)   The amendment of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 2) 1987_ made by this Act shall be taken to have commenced immediately after the commencement of the first-mentioned Act.
+                 (3)   The amendments of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
 
-_(c)_     Section 34 of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act 1987_ provided for the amendment of section 74 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_. The last-mentioned section was repealed by the _Aboriginal__Land__Rights (Northern Territory) Amendment Act 1989_ before a date was fixed for the commencement of section 34.
+_(f)_      The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-_(d)_     Subsection 2(1) (items 3–5) of the _Aboriginal__Land__Rights (Northern Territory) Amendment (Township Leasing) Act 2007_ provides as follows:
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+_(g)_     The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
+
+                 (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+
+_(h)_     The _Aboriginal__Land__Rights (__Northern Territory__) Amendment Act (No. 2) 1987_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(2) of which provides as follows:
+
+                 (2)   The amendment of the _Aboriginal__Land__Rights (__Northern Territory__) Amendment Act (No. 2) 1987_ made by this Act shall be taken to have commenced immediately after the commencement of the first-mentioned Act.
+
+_(i)_      Section 34 of the _Aboriginal__Land__Rights (__Northern Territory__) Amendment Act 1987_ provided for the amendment of section 74 of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_. The last-mentioned section was repealed by the _Aboriginal__Land__Rights (__Northern   Territory__) Amendment Act 1989_ before a date was fixed for the commencement of section 34.
+
+_(j)_      The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(k)_     The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by Schedule 4 (item 3) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(l)_      The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by Schedule 2 (items 113-135) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(m)_    The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by Schedule 3 (item 4) and Schedule 4 (items 23-30, 32, 34-37) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
+
+_(n)_     The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by Schedule 1 (items 28-31) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to section, this Act commences at the commencing time.
+
+_(o)_     The _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ was amended by Schedule 11 (items 1 and 2) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(9)(b) of which provides as follows
+
+                 (9)   The following provisions commence on 1 July 2000:
+
+                              (b)   Schedule 11 (other than item 44).
+
+_(p)_     Subsection 2(1) (items 3–5) of the _Aboriginal__Land__Rights (__Northern Territory__) Amendment (Township Leasing) Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -27304,9 +27686,22 @@ _(d)_     Subsection 2(1) (items 3–5) of the _Aboriginal__Land__Rights
   <td>
     <div>
       Immediately after the commencement of item 147 of Schedule 1 to the
-        <i>Aboriginal</i>
-        <i>Land</i>
-        <i>Rights (Northern Territory) Amendment Act 2006</i>.
+      <i>
+        Aboriginal
+      </i>
+      <i>
+        Land
+      </i>
+      <i>
+        Rights (
+      </i>
+      <i>
+        Northern Territory
+      </i>
+      <i>
+        ) Amendment Act 2006
+      </i>
+      .
     </div>
   </td>
   <td>
@@ -27343,9 +27738,22 @@ _(d)_     Subsection 2(1) (items 3–5) of the _Aboriginal__Land__Rights
   <td>
     <div>
       Immediately after the commencement of item 224 of Schedule 1 to the
-        <i>Aboriginal</i>
-        <i>Land</i>
-        <i>Rights (Northern Territory) Amendment Act 2006</i>.
+      <i>
+        Aboriginal
+      </i>
+      <i>
+        Land
+      </i>
+      <i>
+        Rights (
+      </i>
+      <i>
+        Northern Territory
+      </i>
+      <i>
+        ) Amendment Act 2006
+      </i>
+      .
     </div>
   </td>
   <td>
@@ -27355,7 +27763,7 @@ _(d)_     Subsection 2(1) (items 3–5) of the _Aboriginal__Land__Rights
   </td>
 </tr></table>
 
-_(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007_ provides as follows:
+_(q)_     Subsection 2(1) (items 3 and 9) of the _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (__Northern Territory__National Emergency Response and Other Measures) Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -27583,7 +27991,7 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 21, 1978; No. 189, 1979; No. 16, 1982 (as am. by No. 80, 1982); No. 80, 1982; No. 72, 1984; Nos. 18 and 40, 1987; No. 92, 1999; No. 112, 2000; No. 112, 2001; No. 93, 2006</div>
+    <div>am. No. 21, 1978; No. 189, 1979; No. 16, 1982 (as am. by No. 80, 1982); No. 80, 1982; No. 72, 1984; Nos. 18 and 40, 1987; No. 92, 1999; No. 112, 2000; No. 112, 2001; No. 93, 2006</div>
   </td>
 </tr>
 <tr>
@@ -27780,15 +28188,7 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 19A(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 67, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 19A(6)</div>
+    <div>Subhead. to s. 19A(5), (6)</div>
   </td>
   <td>
     <div>ad. No. 67, 2008</div>
@@ -27823,7 +28223,7 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
     <div></div>
   </td>
   <td>
-    <div>am. No. 67, 2008</div>
+    <div>am No. 67, 2008</div>
   </td>
 </tr>
 <tr>
@@ -28593,7 +28993,7 @@ No. 93, 2006</div>
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 189, 1979; No. 72, 1980; No. 166, 1985; No. 40, 1987; No. 199, 1991; No. 112, 2001; Nos. 93 and 125, 2006</div>
+    <div>am. No. 189, 1979; No. 72, 1980; No. 166, 1985; No. 40,1987; No. 199, 1991; No. 112, 2001; Nos. 93 and 125, 2006</div>
   </td>
 </tr>
 <tr>
@@ -28638,15 +29038,7 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 28A(1)</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 28A(4), (5)</div>
+    <div>Notes to s. 28A(1), (4), (5).</div>
   </td>
   <td>
     <div>am. No. 125, 2006</div>
@@ -28985,7 +29377,7 @@ No. 93, 2006</div>
     <div>S. 37</div>
   </td>
   <td>
-    <div>rs. No. 152, 1997; No. 93, 2006</div>
+    <div>rs. No. 152, 1997; Nos. 93 and 125, 2006</div>
   </td>
 </tr>
 <tr>
@@ -28993,7 +29385,7 @@ No. 93, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 125, 2006; No. 67, 2008</div>
+    <div>am. No. 67, 2008</div>
   </td>
 </tr>
 <tr>
@@ -29342,15 +29734,7 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 48(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 48(9)</div>
+    <div>Notes to s. 48(4), (9)</div>
   </td>
   <td>
     <div>ad. No. 93, 2006</div>
@@ -29465,7 +29849,7 @@ No. 93, 2006</div>
     <div>S. 50</div>
   </td>
   <td>
-    <div>am. No. 21, 1978; No. 189, 1979; No. 72, 1984; Nos. 18 and 40, 1987; No. 2, 1990; No. 92, 1999; No. 112, 2001; No. 93, 2006</div>
+    <div>am. No. 21, 1978; No. 189, 1979; No. 72, 1984; Nos. 18 and 40, 1987; No. 2, 1990; No. 92, 1999; No. 112, 2001; No. 93, 2006</div>
   </td>
 </tr>
 <tr>
@@ -30094,7 +30478,7 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 1</b></div>
+    <div><b>Schedules</b></div>
   </td>
   <td>
     <div></div>
@@ -30110,26 +30494,10 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 2</div>
   </td>
   <td>
     <div>am. No. 21, 1978; No. 189, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -30142,26 +30510,10 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 4</div>
   </td>
   <td>
     <div>ad. No. 21, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 5</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -30182,26 +30534,10 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 6</div>
   </td>
   <td>
     <div>ad. No. 93, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 7</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -30223,7 +30559,7 @@ _Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
 
 ## 31  Saving
 
-To avoid doubt, the amendments of section 12 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ made by this Schedule does not affect an agreement mentioned in subsection 12(2B) or (2C) of that Act before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
+To avoid doubt, the amendments of section 12 of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ made by this Schedule does not affect an agreement mentioned in subsection 12(2B) or (2C) of that Act before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
 ## 33  Application provision
 
@@ -30231,13 +30567,13 @@ Subsection 12A(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ 
 
 * * *
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -30247,7 +30583,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -30263,7 +30599,8 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 * * *
 
-_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)_
+_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 
+ (No. 112, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -30299,7 +30636,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -30307,7 +30644,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -30317,7 +30654,8 @@ continues to have effect after the commencing time as if it had been done by the
 
 * * *
 
-_Aboriginal Land Rights (Northern Territory) Amendment Act 2006 (No. 93, 2006)_
+_Aboriginal Land Rights (Northern Territory) Amendment Act 2006 
+ (No. 93, 2006)_
 
 ## Schedule 1
 
@@ -30325,17 +30663,17 @@ _Aboriginal Land Rights (Northern Territory) Amendment Act 2006 (No. 93, 200
 
 Land Councils
 
-(1)       Paragraph 193X(1)(ca) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to the activities or operations of a Land Council carried out after the commencement of that item.
+(1)        Paragraph 193X(1)(ca) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to the activities or operations of a Land Council carried out after the commencement of that item.
 
-Persons receiving certain amounts under section 35 of the Aboriginal Land Rights (Northern Territory) Act 1976
+Persons receiving certain amounts under section 35 of the Aboriginal  Land Rights (Northern Territory) Act 1976
 
-(2)       Paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by a body corporate or other person after the commencement of that item (including amounts received under a determination made before that commencement).
+(2)        Paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by a body corporate or other person after the commencement of that item (including amounts received under a determination made before that commencement).
 
-(3)       However, for amounts received under subsection 35(3) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ in accordance with an agreement mentioned in that subsection, the agreement must also have been made after that commencement.
+(3)        However, for amounts received under subsection 35(3) of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_ in accordance with an agreement mentioned in that subsection, the agreement must also have been made after that commencement.
 
-Persons receiving amounts under subsection 64(4) of the Aboriginal Land Rights (Northern Territory) Act 1976
+Persons receiving amounts under subsection 64(4) of the Aboriginal  Land Rights (Northern Territory) Act 1976
 
-(4)       Paragraph 193X(1)(cc) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by an individual or organisation after the commencement of that item.
+(4)        Paragraph 193X(1)(cc) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by an individual or organisation after the commencement of that item.
 
 ## 208  Application—transfers of land between Land Trusts
 
@@ -30345,11 +30683,11 @@ The amendments made by items 42 and 49 apply in relation to transfers made after
 
 Ministerial consent for grants of estate or interests by Land Trust
 
-(1)       The amendment made by item 43 applies in relation to grants of estates or interests after the commencement of that item.
+(1)        The amendment made by item 43 applies in relation to grants of estates or interests after the commencement of that item.
 
 Land Trust authorisations
 
-(2)       The amendment made by item 45 applies in relation to grants of estates or interests either before or after the commencement of that item.
+(2)        The amendment made by item 45 applies in relation to grants of estates or interests either before or after the commencement of that item.
 
 ## 210  Application—entry into contracts
 
@@ -30357,9 +30695,9 @@ The amendment made by item 60 applies in relation to contracts entered into afte
 
 ## 211  Transitional—Land Council delegations
 
-(1)       For the purposes of subsection 28(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, the power of a Land Council to give consent under section 40 of that Act (as in force immediately before the commencement of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 3) 1987_) is not delegable under that subsection.
+(1)        For the purposes of subsection 28(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, the power of a Land Council to give consent under section 40 of that Act (as in force immediately before the commencement of the _Aboriginal__Land__Rights (__Northern Territory__) Amendment Act (No. 3) 1987_) is not delegable under that subsection.
 
-(2)       For the purposes of subsection 28(3) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, the power of a Land Council to give consent under section 40 of that Act (as in force immediately before the commencement of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 3) 1987_) is delegable under that subsection.
+(2)        For the purposes of subsection 28(3) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, the power of a Land Council to give consent under section 40 of that Act (as in force immediately before the commencement of the _Aboriginal__Land__Rights (__Northern Territory__) Amendment Act (No. 3) 1987_) is delegable under that subsection.
 
 ## 212  Application—disclosure of pecuniary interests by Land Council members
 
@@ -30369,11 +30707,11 @@ The amendment made by item 67 applies in relation to interests arising before or
 
 Appointments
 
-(1)       The amendments made by item 68 and item 70 (in so far as it inserts subsections 29A(2) and (3) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_) apply in relation to committees appointed after the commencement of those items.
+(1)        The amendments made by item 68 and item 70 (in so far as it inserts subsections 29A(2) and (3) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_) apply in relation to committees appointed after the commencement of those items.
 
 Minutes
 
-(2)       Subsection 29A(6) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ and subsection 29A(7) of that Act (in so far as it relates to minutes of committee meetings), as inserted by item 70, apply in relation to meetings held after the commencement of that item.
+(2)        Subsection 29A(6) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ and subsection 29A(7) of that Act (in so far as it relates to minutes of committee meetings), as inserted by item 70, apply in relation to meetings held after the commencement of that item.
 
 ## 214  Application—minutes of Land Council meetings
 
@@ -30381,71 +30719,71 @@ The amendment made by item 73 applies in relation to meetings held after the com
 
 ## 215  Application and transitional—Land Council may charge fees for services
 
-(1)       The amendment made by item 74 applies in relation to services provided after the commencement of that item.
+(1)        The amendment made by item 74 applies in relation to services provided after the commencement of that item.
 
-(2)       Despite the repeal of subsection 48J(5) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made by item 162, that subsection continues to apply after the commencement of that item in relation to a payment made after that commencement under an agreement made before that commencement.
+(2)        Despite the repeal of subsection 48J(5) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made by item 162, that subsection continues to apply after the commencement of that item in relation to a payment made after that commencement under an agreement made before that commencement.
 
 ## 216  Application—estimates of Land Council costs
 
-(1)       The amendments made by items 75, 77 and 80 apply in relation to estimates submitted after the commencement of those items.
+(1)        The amendments made by items 75, 77 and 80 apply in relation to estimates submitted after the commencement of those items.
 
-(2)       The amendments made by items 78 and 79 apply in relation to financial years beginning on or after the commencement of those items.
+(2)        The amendments made by items 78 and 79 apply in relation to financial years beginning on or after the commencement of those items.
 
 ## 217  Application—application of moneys of Land Council
 
 The amendments made by items 81, 84, 89, 93, 95, 98 and 181 apply in relation to financial years beginning on or after the commencement of those items.
 
-## 218  Transitional—amounts held in trust under subsection 35(7) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_
+## 218  Transitional—amounts held in trust under subsection 35(7) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_
 
-(1)       If, immediately before the commencement of this item, an amount is held by a Land Council in trust under subsection 35(7) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, the Council must, as soon as practicable after that commencement, pay the amount to the bodies concerned.
+(1)        If, immediately before the commencement of this item, an amount is held by a Land Council in trust under subsection 35(7) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, the Council must, as soon as practicable after that commencement, pay the amount to the bodies concerned.
 
-(2)       Subsection 35(11) of that Act applies in relation to the payment (which is about the payment of interest).
+(2)        Subsection 35(11) of that Act applies in relation to the payment (which is about the payment of interest).
 
-(3)       Subitem (1) applies despite subsection 35(9) of that Act.
+(3)        Subitem (1) applies despite subsection 35(9) of that Act.
 
-## 219  Transitional—amounts held in trust for a body covered by subsection 35(12) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_
+## 219  Transitional—amounts held in trust for a body covered by subsection 35(12) of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_
 
-(1)       If, immediately before the commencement of this item, an amount is held by a Land Council in trust under section 35 of the _Aboriginal Land Rights (Northern Territory) Act 1976_ for a body covered by subsection 35(12) of that Act, the Council must, as soon as practicable after that commencement, pay the amount to the body.
+(1)        If, immediately before the commencement of this item, an amount is held by a Land Council in trust under section 35 of the _Aboriginal Land Rights (Northern Territory) Act 1976_ for a body covered by subsection 35(12) of that Act, the Council must, as soon as practicable after that commencement, pay the amount to the body.
 
-(2)       Subsection 35(11) of that Act applies in relation to the payment (which is about the payment of interest).
+(2)        Subsection 35(11) of that Act applies in relation to the payment (which is about the payment of interest).
 
-(3)       Subitem (1) applies despite subsection 35(9) of that Act.
+(3)        Subitem (1) applies despite subsection 35(9) of that Act.
 
-## 220  Application—Land Council determinations under section 35 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_
+## 220  Application—Land Council determinations under section 35 of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_
 
-Section 35A of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, as inserted by item 101, applies in relation to determinations made after the commencement of that item.
+Section 35A of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, as inserted by item 101, applies in relation to determinations made after the commencement of that item.
 
-## 221  Transitional—old Land Council determinations under section 35 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ of limited effect
+## 221  Transitional—old Land Council determinations under section 35 of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ of limited effect
 
 A determination of a Land Council:
 
                      (a)  made under subsection 35(2) or (3) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ before this item commences; and
 
-                     (b)  that is in force immediately before the end of the period of 5 years beginning on the day on which this item commences;
+                     (b)  that is in force immediately before the end of the period of 5 years beginning on the day on which this item commences;
 
 has no effect after the end of that period in relation to moneys paid to the Council after the end of that period.
 
-## 222  Application—spending of money received from Land Council under the _Aboriginal__Land__Rights (Northern Territory) Act 1976_
+## 222  Application—spending of money received from Land Council under the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_
 
-(1)       Sections 35B and 35C of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, as inserted by item 101, apply in relation to amounts received by a body corporate after the commencement of that item (including amounts received under a determination made before that commencement).
+(1)        Sections 35B and 35C of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, as inserted by item 101, apply in relation to amounts received by a body corporate after the commencement of that item (including amounts received under a determination made before that commencement).
 
-(2)       However, for amounts received under subsection 35(3) of that Act in accordance with an agreement mentioned in that subsection, the agreement must also have been made after that commencement.
+(2)        However, for amounts received under subsection 35(3) of that Act in accordance with an agreement mentioned in that subsection, the agreement must also have been made after that commencement.
 
 ## 223  Application—Land Council annual report
 
-Section 37 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, as inserted by item 102, applies in relation to financial years ending after the commencement of that item.
+Section 37 of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, as inserted by item 102, applies in relation to financial years ending after the commencement of that item.
 
 ## 224  Application and transitional—mining
 
 Applications for consent to grant of exploration licence
 
-(1)       The amendments made by items 104, 108, 109 and 119 apply in relation to applications made under subsection 41(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ after the commencement of those items.
+(1)        The amendments made by items 104, 108, 109 and 119 apply in relation to applications made under subsection 41(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ after the commencement of those items.
 
-(2)       The amendment made by item 111 applies in relation to decisions made by a Land Council after the commencement of that item.
+(2)        The amendment made by item 111 applies in relation to decisions made by a Land Council after the commencement of that item.
 
-(3)       The amendment made by item 116 applies in relation to decisions made by the Minister after the commencement of that item.
+(3)        The amendment made by item 116 applies in relation to decisions made by the Minister after the commencement of that item.
 
-(4)       If:
+(4)        If:
 
                      (a)  within the period of 12 months before the commencement of this item, an application was made under section 41 of the _Aboriginal Land Rights (Northern Territory) Act 1976_; and
 
@@ -30453,7 +30791,7 @@ Applications for consent to grant of exploration licence
 
 then subsections 42(13) to (20) of that Act, as inserted by this Act, are taken to apply in relation to the application.
 
-(5)       If:
+(5)        If:
 
                      (a)  outside the period of 12 months before the commencement of this item, an application was made under section 41 of the _Aboriginal Land Rights (Northern Territory) Act 1976_; and
 
@@ -30465,9 +30803,9 @@ then:
 
                      (d)  subject to paragraph (e), subsections 42(13) to (20) of that Act, as inserted by this Act, are taken to apply in relation to the application; and
 
-                     (e)  on the day this item commences, the applicant and the Land Council concerned are taken to have agreed (under paragraph 42(13)(b) of that Act as inserted by this Act) to a 2 year extension beginning on the day this item commences.
+                     (e)  on the day this item commences, the applicant and the Land Council concerned are taken to have agreed (under paragraph 42(13)(b) of that Act as inserted by this Act) to a 2 year extension beginning on the day this item commences.
 
-(6)       If:
+(6)        If:
 
                      (a)  outside the period of 12 months before the commencement of this item, an application was made under section 41 of the _Aboriginal Land Rights (Northern Territory) Act 1976_; and
 
@@ -30479,25 +30817,25 @@ then:
 
                      (d)  subject to paragraph (e), subsections 42(13) to (20) of that Act, as inserted by this Act, are taken to apply in relation to the application; and
 
-                     (e)  on the day this item commences, the applicant and the Land Council concerned are taken to have agreed (under paragraph 42(13)(c) of that Act as inserted by this Act) to a 12 month extension beginning on the day this item commences.
+                     (e)  on the day this item commences, the applicant and the Land Council concerned are taken to have agreed (under paragraph 42(13)(c) of that Act as inserted by this Act) to a 12 month extension beginning on the day this item commences.
 
 Consent to negotiate
 
-(7)       The amendments made by items 106 and 107 apply in relation to consents given by the Northern Territory Mining Minister (referred to in subsection 41(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_) after the commencement of those items.
+(7)        The amendments made by items 106 and 107 apply in relation to consents given by the Northern Territory Mining Minister (referred to in subsection 41(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_) after the commencement of those items.
 
 Notification of decisions to consent or refuse to consent to grant of exploration licence
 
-(8)       The amendment made by item 112 applies in relation to consents, or refusals to consent, to the grant of an exploration licence that occur after the commencement of that item.
+(8)        The amendment made by item 112 applies in relation to consents, or refusals to consent, to the grant of an exploration licence that occur after the commencement of that item.
 
 Cancellation of exploration licence
 
-(9)       Subsection 47(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, as inserted by item 132, applies to consents given before or after the commencement of that item.
+(9)        Subsection 47(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, as inserted by item 132, applies to consents given before or after the commencement of that item.
 
-(10)     If:
+(10)      If:
 
-                     (a)  a Land Council had given a notice under paragraph 47(1)(b) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_(as in force before the commencement of this item); and
+                     (a)  a Land Council had given a notice under paragraph 47(1)(b) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_(as in force before the commencement of this item); and
 
-                     (b)  immediately before the commencement of this item, the Minister had not made a decision as to whether subsection 47(2) of that Act applied;
+                     (b)  immediately before the commencement of this item, the Minister had not made a decision as to whether subsection 47(2) of that Act applied;
 
 then:
 
@@ -30507,11 +30845,11 @@ then:
 
 Cancellation of mining interest
 
-(11)     If:
+(11)      If:
 
-                     (a)  an intending miner had sent a statement to the Minister under subsection 46(2) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_(as in force before the commencement of this item); and
+                     (a)  an intending miner had sent a statement to the Minister under subsection 46(2) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_(as in force before the commencement of this item); and
 
-                     (b)  immediately before the commencement of this item, the Minister had not made a decision as to whether subsection 47(4) of that Act applied;
+                     (b)  immediately before the commencement of this item, the Minister had not made a decision as to whether subsection 47(4) of that Act applied;
 
 then:
 
@@ -30521,7 +30859,7 @@ then:
 
 Refusals to consent to grant of exploration licence
 
-(12)     The amendments made by items 134, 136, 137, 139, 140, 142 and 144 apply in relation to refusals to consent to the grant of an exploration licence that occur after the commencement of those items.
+(12)      The amendments made by items 134, 136, 137, 139, 140, 142 and 144 apply in relation to refusals to consent to the grant of an exploration licence that occur after the commencement of those items.
 
 ## 225  Application—acting Aboriginal Land Commissioner
 
@@ -30531,29 +30869,29 @@ The amendment made by item 171 applies in relation to appointments made either b
 
 Payments from the Account
 
-(1)       The amendments made by items 173 and 174 apply in relation to determinations made under subsection 64(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ in a financial year beginning on or after the commencement of those items.
+(1)        The amendments made by items 173 and 174 apply in relation to determinations made under subsection 64(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ in a financial year beginning on or after the commencement of those items.
 
-(2)       The amendment made by item 179 applies in relation to payments made under subsection 64(4) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ after the commencement of that item.
+(2)        The amendment made by item 179 applies in relation to payments made under subsection 64(4) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ after the commencement of that item.
 
 Transitional
 
-(3)       If, before the commencement of this item, a Land Council submitted estimates, under subsection 34(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, for a financial year beginning on or after that commencement, paragraph 64(1)(b) of that Act does not apply to determinations of the Minister under subsection 64(1) of that Act in that year in relation to the Council.
+(3)        If, before the commencement of this item, a Land Council submitted estimates, under subsection 34(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, for a financial year beginning on or after that commencement, paragraph 64(1)(b) of that Act does not apply to determinations of the Minister under subsection 64(1) of that Act in that year in relation to the Council.
 
 ## 227  Application—Account Advisory Committee
 
-Subsection 65(6) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, as inserted by item 186, applies in relation to appointments or elections made after the commencement of that item.
+Subsection 65(6) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_, as inserted by item 186, applies in relation to appointments or elections made after the commencement of that item.
 
 ## 228  Application—traditional land claims
 
-(1)       Subparagraph 67A(6)(b)(ii) and subsections 67A(7), (8) and (9) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, as inserted by item 192, apply in relation to applications made before the commencement of that item.
+(1)        Subparagraph 67A(6)(b)(ii) and subsections 67A(7), (8) and (9) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, as inserted by item 192, apply in relation to applications made before the commencement of that item.
 
-(2)       The amendment made by item 193 applies in relation to grants of estates or interests made after the commencement of that item in relation to applications referred to in paragraph 50(1)(a) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made before that commencement.
+(2)        The amendment made by item 193 applies in relation to grants of estates or interests made after the commencement of that item in relation to applications referred to in paragraph 50(1)(a) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made before that commencement.
 
 ## 229  Transitional—existing loan conditions continue in operation
 
 If:
 
-                     (a)  a loan was made under subsection 64(4) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ before the commencement of this item; and
+                     (a)  a loan was made under subsection 64(4) of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_ before the commencement of this item; and
 
                      (b)  there are conditions of the loan in force immediately before that commencement;
 
@@ -30561,7 +30899,7 @@ then those conditions continue to apply after that commencement.
 
 ## 230  Transitional—rules for Land Council meetings
 
-Rules of a Land Council made under subsection 31(7) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ that were in force immediately before the commencement of this item continue to have effect after that commencement as if they had:
+Rules of a Land Council made under subsection 31(7) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ that were in force immediately before the commencement of this item continue to have effect after that commencement as if they had:
 
                      (a)  been made under that subsection as in force after that commencement; and
 
@@ -30569,7 +30907,7 @@ Rules of a Land Council made under subsection 31(7) of the _Aboriginal__Land__Ri
 
 ## 231  Transitional—Land Council delegations
 
-(1)       A delegation of a Land Council in force under subsection 28(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ immediately before the commencement of this item in relation to:
+(1)        A delegation of a Land Council in force under subsection 28(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ immediately before the commencement of this item in relation to:
 
                      (a)  the Chair or another member of the Council; or
 
@@ -30577,11 +30915,11 @@ Rules of a Land Council made under subsection 31(7) of the _Aboriginal__Land__Ri
 
 has effect, after that commencement, as if it had been made under that subsection after that commencement.
 
-(2)       A delegation of a Land Council in force under subsection 28(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ immediately before the commencement of this item, in relation to a committee appointed under section 29A of that Act, has effect, after that commencement, as if it had been made under subsection 28(2) of that Act after that commencement.
+(2)        A delegation of a Land Council in force under subsection 28(1) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ immediately before the commencement of this item, in relation to a committee appointed under section 29A of that Act, has effect, after that commencement, as if it had been made under subsection 28(2) of that Act after that commencement.
 
 ## 232  Transitional—Ministerial delegations
 
-A delegation in force under subsection 76(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ immediately before the commencement of this item has effect, after that commencement, as if it had been made under that subsection after that commencement.
+A delegation in force under subsection 76(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ immediately before the commencement of this item has effect, after that commencement, as if it had been made under that subsection after that commencement.
 
 ## 233  Transitional regulations
 
@@ -30589,15 +30927,16 @@ The Governor-General may make regulations prescribing matters of a transitional 
 
 ## 234  Review of mining provisions
 
-(1)       The Minister must cause an independent review of the operation of Part IV of the _Aboriginal Land Rights (Northern Territory) Act 1976_ to be undertaken as soon as practicable after the fifth anniversary of the commencement of this item.
+(1)        The Minister must cause an independent review of the operation of Part IV of the _Aboriginal Land Rights (Northern Territory) Act 1976_ to be undertaken as soon as practicable after the fifth anniversary of the commencement of this item.
 
-(2)       The persons who undertake such a review must give the Minister a written report of the review.
+(2)        The persons who undertake such a review must give the Minister a written report of the review.
 
-(3)       The Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
+(3)        The Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
 
 * * *
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (No. 101, 2006)_
+_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
+ (No. 101, 2006)_
 
 ## Schedule 6
 
@@ -30635,13 +30974,13 @@ Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former secti
 
                    Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
+                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -30677,15 +31016,15 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpretat
 
 _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007 (No. 128, 2007)_
 
-##### <a id="3"></a>3  Northern Territory (Self-Government) Act
+##### <a id="3"></a>3  Northern   Territory (Self-Government) Act
 
                    Section 49 of the _Northern   Territory__(Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
 
-##### \[NOTE]  <a id="4"></a>4  Racial Discrimination Act
+##### <a id="4"></a>4  Racial Discrimination Act
 
              (1)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are, for the purposes of the _Racial Discrimination Act 1975_, special measures.
 
-             (2)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
+             (2)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
 
              (3)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
 
@@ -30695,7 +31034,7 @@ _Families, Community Services and Indigenous Affairs and Other Legislation Amend
 
                      (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
 
-##### \[NOTE]  <a id="5"></a>5  Some Northern Territory laws excluded
+##### <a id="5"></a>5  Some Northern Territory laws excluded
 
              (1)  Subject to subsections (3) and (4), the provisions of this Act are intended to apply to the exclusion of a law of the Northern Territory that deals with discrimination so far as it would otherwise apply.
 
@@ -30733,13 +31072,13 @@ The operation of this Schedule does not result in a fundamental breach of a leas
 
 ## 18  Compensation for acquisition of property
 
-(1)       Subsection 50(2) of the _Northern Territory (Self-Government) Act 1978_ does not apply in relation to any acquisition of property referred to in that subsection that occurs as a result of:
+(1)        Subsection 50(2) of the _Northern Territory (Self-Government) Act 1978_ does not apply in relation to any acquisition of property referred to in that subsection that occurs as a result of:
 
                      (a)  the operation of this Schedule; or
 
                      (b)  an action taken under, or in accordance with, section 70B, 70C, 70D, 70E, 70F or 70G of the _Aboriginal Land Rights (Northern Territory) Act 1976_ (as inserted by this Schedule).
 
-(2)       However, if:
+(2)        However, if:
 
                      (a)  the operation of this Schedule; or
 
@@ -30747,26 +31086,13 @@ The operation of this Schedule does not result in a fundamental breach of a leas
 
 would result in an acquisition of property to which paragraph 51(xxxi) of the Constitution applies from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(3)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(3)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
-(4)       In subitem (2):
+(4)        In subitem (2):
 
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 **_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-_\[NOTE]:  Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010
- (No. 93, 2010)_
-
-The following amendment commences at the end of 31 December 2010 and amends the _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007_ (No. 128, 2007) as follows:
-
-## Schedule 1
-
-## 1  Sections 4 and 5
-
-Repeal the sections.
-
-As at 12 July 2010 the amendment is not incorporated in this compilation.
 
 * * *
 
@@ -30780,24 +31106,8 @@ The amendment made by item 3 applies in relation to leases granted after the c
 
 ## 7  Application—grant of replacement headleases over townships
 
-(1)       The amendment made by item 5 applies in relation to leases granted after the commencement of that item.
+(1)        The amendment made by item 5 applies in relation to leases granted after the commencement of that item.
 
-(2)       Subsection 19A(5A) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, as inserted by this Schedule, applies in relation to the grant of leases after the commencement of this item (regardless of whether the original lease mentioned in that subsection was granted before or after that commencement).
-
-* * *
-
-_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
-
-The following provision commences at the end of 31 December 2010:
-
-## Schedule 1
-
-## 4  Effect of repeal of sections of Acts by this Schedule
-
-To avoid doubt:
-
-                     (a)  the repeal of sections of an Act by this Schedule does not have retrospective effect; and
-
-                     (b)  section 8 of the _Acts Interpretation Act 1901_ applies to the repeal (unaffected by any contrary intention).
+(2)        Subsection 19A(5A) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, as inserted by this Schedule, applies in relation to the grant of leases after the commencement of this item (regardless of whether the original lease mentioned in that subsection was granted before or after that commencement).
 
  
