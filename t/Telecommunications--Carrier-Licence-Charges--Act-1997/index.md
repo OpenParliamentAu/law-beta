@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00451/Html/F6F76E5145E6DDC2CA2571AE001A0FD6/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00592/Html/645E4CB2FF38E343CA257089001FFBCB/$FILE/image001.gif)
 
 # Telecommunications (Carrier Licence Charges) Act 1997
 
 **Act No. 49 of 1997 as amended**
 
-This compilation was prepared on 11 July 2006
-taking into account amendments up to Act No. 89 of 2006
+This compilation was prepared on 27 September 2005
+taking into account amendments up to Act No. 116 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -325,23 +325,6 @@ Remainder: Royal Assent
         <div>Sch. 1 (item 10)</div>
       </td>
     </tr>
-    <tr>
-      <td>
-        <div>Do Not Call Register (Consequential Amendments) Act 2006</div>
-      </td>
-      <td>
-        <div>89, 2006</div>
-      </td>
-      <td>
-        <div>30 June 2006</div>
-      </td>
-      <td>
-        <div>Schedule 1 (items 72, 73): \[ <i>see</i>Note 2]</div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
   </thead>
 </tbody></table>
 
@@ -534,41 +517,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charg
     </td>
   </tr>
 </tbody></table>
-
-
-### Note 2
-
-_Do Not Call Register (Consequential Amendments) Act 2006 (No. 89, 2006)_
-
-The following amendments commence on 30 June 2007 unless proclaimed earlier:
-
-## Schedule 1
-
-## 72  Subsection 15(4) (definition of _ACMA’s telecommunications functions_)
-
-Omit “_Telecommunications Act 1997._”, substitute:
-
-_Telecommunications Act 1997_, but does not include functions conferred on the ACMA by or under:
-
-                     (a)  the _Do Not Call Register Act 2006_; or
-
-                     (b)  the _Telecommunications Act 1997_ to the extent to which that Act relates to the _Do Not Call Register Act 2006_; or
-
-                     (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part relates to telemarketing activities (within the meaning of that Part).
-
-## 73  Subsection 15(4) (definition of _ACMA’s telecommunications powers_)
-
-Omit “_Telecommunications Act 1997._”, substitute:
-
-_Telecommunications Act 1997_, but does not include powers conferred on the ACMA by or under:
-
-                     (a)  the _Do Not Call Register Act 2006_; or
-
-                     (b)  the _Telecommunications Act 1997_ to the extent to which that Act relates to the _Do Not Call Register Act 2006_; or
-
-                     (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part relates to telemarketing activities (within the meaning of that Part).
-
-As at 11 July 2006 the amendments are not incorporated in this compilation.
 
 
 ## Table A
