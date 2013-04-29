@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00556/Html/c8e1e139-a75a-4cc2-bd51-250d4dc8fa53_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00212/Html/6994fbf5-376f-4396-9b86-8d3834066ad0_files/image001.gif)
 
 # Anti‑Personnel Mines Convention Act 1998
 
 **Act No. 126 of 1998 as amended**
 
-This compilation was prepared on 21 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1100,8 +1100,6 @@ The original of this Convention, of which the Arabic, Chinese, English, French, 
 
 The _Anti-Personnel Mines Convention Act 1998_ as shown in this compilation comprises Act No. 126, 1998 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -1145,7 +1143,7 @@ of Assent</div>
     <div>21 Dec 1998</div>
   </td>
   <td>
-    <div>1 July 1999 ( <i>see Gazette</i>1999, No. S288)</div>
+    <div>1 July 1999 ( <i>see Gazette</i>1999, No. S288)</div>
   </td>
   <td>
     <div></div>
@@ -1162,7 +1160,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 98, 99): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1(items 98, 99): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1196,7 +1194,7 @@ of Assent</div>
     <div>3 July 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 18, 19): <i>(aa)</i></div>
+    <div>Schedule 2 (items 18, 19): <i>(aa)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1213,27 +1211,10 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 10–15), Schedule 6 (items 5, 6) and Schedule 7 (item 17): 19 Apr 2011</div>
+    <div>Schedule 5 (items 10–15), Schedule 6 (items 5, 6) and Schedule 7 (item 17): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 73, 74) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1245,7 +1226,7 @@ _(a)_     The _Anti‑Personnel Mines Convention Act 1998_ was amended b
 
 _(aa)_ The _Public Employment (Consequential and Transitional) Amendment Act 1999_ was amended by Schedule 2 (items 18 and 19) only of the _Statute Law Revision Act 2002_, subsection 2(1) (items 47 and 48) of which provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 <table>
 <colgroup>
@@ -1459,41 +1440,5 @@ _(aa)_ The _Public Employment (Consequential and Transitional) Amendment Act 199
     <div>am. No. 146, 1999 (as am. by No. 63, 2002); No. 5, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 73  Subsection 8(1) (note)
-
-Omit “subsection 46(2)”, substitute “subsection 33(3AB)”.
-
-## 74  Subsections 13(3) and (4) (note)
-
-Omit “subsection 46(2)”, substitute “subsection 33(3AB)”.
-
-As at 21 July 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
