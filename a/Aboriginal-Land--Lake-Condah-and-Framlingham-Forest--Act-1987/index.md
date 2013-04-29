@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image001.gif)
 
 # Aboriginal Land (Lake Condah and Framlingham  Forest) Act 1987
 
 **Act No. 34 of 1987 as amended**
 
-This compilation was prepared on 28 May 2007
+This compilation was prepared on 11 December 2006
  taking into account amendments up to Act No. 152 of 2006
 
 The text of any of those amendments not in force
@@ -20,103 +20,103 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        3
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               3
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       3
 
-[4](#4).            Crown
+[4](#4).            Crown                                                                                                  6
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                       6
 
-[5](#5).            Delegation
+[5](#5).            Delegation                                                                                            6
 
 **Part II—Vesting of Condah land and Framlingham Forest**
 
-[6](#6).            Vesting of Condah land
+[6](#6).            Vesting of Condah land                                                                        8
 
-[7](#7).            Vesting of Framlingham Forest
+[7](#7).            Vesting of Framlingham Forest                                                            8
 
-[8](#8).            Conversion of interests into claims for compensation
+[8](#8).            Conversion of interests into claims for compensation                        9
 
-[9](#9).            Notice to owners
+[9](#9).            Notice to owners                                                                                 9
 
-[10](#10).          Registration of vesting
+[10](#10).          Registration of vesting                                                                         9
 
-[11](#11).          Compensation
+[11](#11).          Compensation                                                                                    10
 
-[12](#12).          Miscellaneous
+[12](#12).          Miscellaneous                                                                                    10
 
 **Part III—Management of Condah land**
 
-[13](#13).          Management, transfer or lease of land
+[13](#13).          Management, transfer or lease of land                                               11
 
-[14](#14).          Rights of access over Condah land
+[14](#14).          Rights of access over Condah land                                                    11
 
-[15](#15).          By-laws
+[15](#15).          By-laws                                                                                             12
 
-[16](#16).          Sacred and significant sites
+[16](#16).          Sacred and significant sites                                                                13
 
-[17](#17).          Committee of Elders
+[17](#17).          Committee of Elders                                                                          14
 
-[18](#18).          Powers of Committee of Elders
+[18](#18).          Powers of Committee of Elders                                                         14
 
-[19](#19).          Winding up
+[19](#19).          Winding up                                                                                        15
 
-[20](#20).          Change of ownership of land
+[20](#20).          Change of ownership of land                                                             15
 
 **Part IV—Management of Framlingham Forest**
 
-[21](#21).          Management, transfer or lease of Framlingham Forest
+[21](#21).          Management, transfer or lease of Framlingham Forest                      17
 
-[22](#22).          Rights of access over Framlingham Forest
+[22](#22).          Rights of access over Framlingham Forest                                        17
 
-[23](#23).          By-laws
+[23](#23).          By-laws                                                                                             18
 
-[24](#24).          Sacred and significant sites
+[24](#24).          Sacred and significant sites                                                                19
 
-[25](#25).          Membership
+[25](#25).          Membership                                                                                      20
 
-[26](#26).          Committee of Elders
+[26](#26).          Committee of Elders                                                                          20
 
-[27](#27).          Power of Committee of Elders
+[27](#27).          Power of Committee of Elders                                                          20
 
-[28](#28).          Winding up
+[28](#28).          Winding up                                                                                        21
 
-[29](#29).          Change of ownership of land
+[29](#29).          Change of ownership of land                                                             22
 
 **Part V—Mining**
 
-[30](#30).          Mining operations
+[30](#30).          Mining operations                                                                             23
 
-[31](#31).          Permission to carry out mining operation
+[31](#31).          Permission to carry out mining operation                                         24
 
-[32](#32).          Payments and other consideration
+[32](#32).          Payments and other consideration                                                     25
 
-[33](#33).          Conciliation and review
+[33](#33).          Conciliation and review                                                                     26
 
-[34](#34).          Sacred or significant sites
+[34](#34).          Sacred or significant sites                                                                   27
 
-[35](#35).          Offences
+[35](#35).          Offences                                                                                             28
 
-[36](#36).          Entry onto relevant land and mining tenements
+[36](#36).          Entry onto relevant land and mining tenements                                28
 
-[37](#37).          Offences by corporations
+[37](#37).          Offences by corporations                                                                  28
 
 **Part VI—Funding**
 
-[38](#38).          Aboriginal Advancement Account
+[38](#38).          Aboriginal Advancement Account                                                     30
 
-[38A](#38A).       Notional accounts within the Aboriginal Advancement Account
+[38A](#38A).       Notional accounts within the Aboriginal Advancement Account     30
 
 **Part VII—Miscellaneous**
 
-[39](#39).          Exemption from land tax
+[39](#39).          Exemption from land tax                                                                    31
 
-[40](#40).          Compensation for acquisition of property
+[40](#40).          Compensation for acquisition of property                                        31
 
-[41](#41).          Regulations
+[41](#41).          Regulations                                                                                        31
 
 **Schedule 1—Land in the Parish of Condah to be vested in the Kerrup-Jmara Elders Aboriginal Corporation** 
 
@@ -448,7 +448,7 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (b)  if a site is known to exist but has not been specifically identified, the boundaries of the site as it is known to exist.
 
-             (2)  The Kerrup-Jmara Elders Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents without the permission of the Governing Committee.
+             (2)  The Kerrup-Jmara Elders Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents (otherwise than for the purposes of Part IIA of the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_) without the permission of the Governing Committee.
 
              (3)  The Governing Committee shall make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
 
@@ -592,11 +592,11 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (b)  if a site is known to exist but has not been specifically identified, the boundaries of the site as it is known to exist.
 
-             (2)  The Kirrae Whurrong Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents without the permission of the Community Council.
+             (2)  The Kirrae Whurrong Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents (otherwise than for the purposes of Part IIA of the _Aboriginal and__Torres Strait__Islander Heritage Protection Act 1984_) without the permission of the Community Council.
 
              (3)  The Community Council shall make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
 
-##### <a id="25"></a>25  Membership
+##### <a id="25"></a>25  Membership
 
              (1)  A person is eligible to be a member of the Kirrae Whurrong Aboriginal Corporation if, and only if, the person has resided on Framlingham Reserve for a continuous period of more than 12 months (whether before or after, or before and after, the commencement of this subsection).
 
@@ -884,17 +884,17 @@ _Section 6_
 
 ## Part A
 
-![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image002.gif)
 
 ## Part B 
 
-![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image003.gif)
 
 # Schedule 2—Land in the Parish of Purnim to be vested in the Kirrae Whurrong Aboriginal Corporation
 
 _Section 7_
 
-![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image004.gif)
 
 # Notes to the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_
 
@@ -1153,9 +1153,7 @@ Remainder: Royal Assent</div>
     <div>7 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1: 8 Dec 2006 
-Schedule 2: 28 May 2007 ( <i>see</i>F2007L01489) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (items 14, 15): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -1263,14 +1261,6 @@ _(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Fore
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part IV</b></div>
   </td>
   <td>
@@ -1283,14 +1273,6 @@ _(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Fore
   </td>
   <td>
     <div>am. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1528,7 +1510,25 @@ Omit “the group to which the land is transferred or granted”, substitute “
 
 Omit “or group” (wherever occurring), substitute “or Aboriginal and Torres Strait Islander corporation”.
 
-As at 28 May 2007 the amendments are not incorporated in this compilation.
+As at 11 December 2006 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Aboriginal and Torres  Strait Islander Heritage Protection Amendment Act 2006 (No. 152, 2006)_
+
+The following amendments commence on proclamation. However if not proclaimed before 7 December 2007 they are repealed on that day, _see_ subsection 2(1) (item 3):
+
+## Schedule 2
+
+## 14  Subsection 16(2)
+
+Omit “(otherwise than for the purposes of Part IIA of the _Aboriginal and__Torres Strait__Islander Heritage Protection Act 1984_)”.
+
+## 15  Subsection 24(2)
+
+Omit “(otherwise than for the purposes of Part IIA of the _Aboriginal and__Torres Strait__Islander Heritage Protection Act 1984_)”.
+
+As at 11 December 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
