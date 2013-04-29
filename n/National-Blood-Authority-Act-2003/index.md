@@ -1,151 +1,153 @@
-![](http://www.comlaw.gov.au/Details/C2006C00188/Html/D36794A4F5DA17E3CA257156001F037D/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 111.75pt; HEIGHT: 87pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="86769A002C1F1335CA256FBF007FA044/$FILE/image001.wmz"></v:imagedata></v:shape>
 
-# National Blood Authority Act 2003
+# National Blood Authority Act 2003<o:p></o:p>
 
-**Act No. 29 of 2003 as amended**
+**Act No. 29 of 2003 as amended<o:p></o:p>**
 
-This compilation was prepared on 12 April 2006
-taking into account amendments up to Act No. 30 of 2006
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="2" month="3">2 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force 
-on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, 
-Canberra
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title \[see Note 1]                                                                        1
+[1](#1).            Short title \[see Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement \[see Note 1]                                                               1
+[2](#2).            Commencement \[see Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Definitions                                                                                           2
+[3](#3).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[4](#4).            Main purpose of this Act                                                                    3
+[4](#4).            Main purpose of this Act<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[5](#5).            This Act binds the Crown                                                                   3
+[5](#5).            This Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[6](#6).            Application to the external Territories                                                3
+[6](#6).            Application to the external Territories<span style="mso-tab-count: 1 dotted">                                                </span>
 
-**Part 2—The National Blood Authority**
+**Part 2—The National Blood Authority<span style="mso-tab-count: 1">                                                                       </span>**
 
-[7](#7).            Establishment                                                                                      4
+[7](#7).            Establishment<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[8](#8).            Functions                                                                                             4
+[8](#8).            Functions<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[9](#9).            Policy principles about the NBA’s functions                                     5
+[9](#9).            Policy principles about the NBA’s functions<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[10](#10).          General Manager’s power to obtain information and documents       5
+[10](#10).          General Manager’s power to obtain information and documents<span style="mso-tab-count: 1 dotted">       </span>
 
-[11](#11).          Protecting confidentiality of information                                            7
+[11](#11).          Protecting confidentiality of information<span style="mso-tab-count: 1 dotted">                                            </span>
 
-**Part 3—The NBA Board**
+**Part 3—The NBA Board<span style="mso-tab-count: 1">                                                                                                   </span>**
 
-[12](#12).          Establishment                                                                                      8
+[12](#12).          Establishment<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[13](#13).          Functions                                                                                             8
+[13](#13).          Functions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[14](#14).          Membership                                                                                        8
+[14](#14).          Membership<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[15](#15).          Appointing members                                                                           8
+[15](#15).          Appointing members<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[16](#16).          Term of appointment                                                                          9
+[16](#16).          Term of appointment<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[17](#17).          Acting appointments                                                                           9
+[17](#17).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[18](#18).          Members’ remuneration                                                                    10
+[18](#18).          Members’ remuneration<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[19](#19).          Leave of absence                                                                                11
+[19](#19).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[20](#20).          Resignation                                                                                        11
+[20](#20).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[21](#21).          Termination of appointment                                                             11
+[21](#21).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[22](#22).          Board procedures                                                                               11
+[22](#22).          Board procedures<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-**Part 4—The NBA General Manager, staff and advisory committees** 
+**Part 4—The NBA General Manager, staff and advisory committees<span style="mso-tab-count: 1">   </span>** 
 
-    **Division 1—The General Manager** 
+    **Division 1—The General Manager<span style="mso-tab-count: 1">                                                                     </span>** 
 
-        **Subdivision A—Establishment and role**
+        **Subdivision A—Establishment and role<span style="mso-tab-count: 1">                                                                </span>**
 
-[23](#23).          General Manager                                                                                13
+[23](#23).          General Manager<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[24](#24).          Function                                                                                             13
+[24](#24).          Function<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[25](#25).          Working with the Board                                                                    13
+[25](#25).          Working with the Board<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[26](#26).          Delegation                                                                                          13
+[26](#26).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-        **Subdivision B—Appointing the General Manager**
+        **Subdivision B—Appointing the General Manager<span style="mso-tab-count: 1">                                              </span>**
 
-[27](#27).          Appointing the General Manager                                                      14
+[27](#27).          Appointing the General Manager<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[28](#28).          Term of appointment                                                                        14
+[28](#28).          Term of appointment<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[29](#29).          Acting appointments                                                                         14
+[29](#29).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[30](#30).          General Manager’s remuneration                                                       14
+[30](#30).          General Manager’s remuneration<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[31](#31).          Outside employment                                                                         15
+[31](#31).          Outside employment<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[32](#32).          Leave of absence                                                                                15
+[32](#32).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[33](#33).          Disclosure of interests                                                                       15
+[33](#33).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[34](#34).          Resignation                                                                                        15
+[34](#34).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[35](#35).          Termination of appointment                                                             15
+[35](#35).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-    **Division 2—Staff and consultants**
+    **Division 2—Staff and consultants<span style="mso-tab-count: 1">                                                                         </span>**
 
-[36](#36).          Staff                                                                                                   17
+[36](#36).          Staff<span style="mso-tab-count: 1 dotted">                                                                                                   </span>
 
-[37](#37).          Consultants                                                                                        17
+[37](#37).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-    **Division 3—Advisory committees**
+    **Division 3—Advisory committees<span style="mso-tab-count: 1">                                                                       </span>**
 
-[38](#38).          Advisory committees                                                                        18
+[38](#38).          Advisory committees<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[39](#39).          Committee members’ remuneration                                                   18
+[39](#39).          Committee members’ remuneration<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-**Part 5—The National Blood Account**
+**Part 5—The National Blood Account<span style="mso-tab-count: 1">                                                                        </span>**
 
-[40](#40).          National Blood Account                                                                    20
+[40](#40).          National Blood Account<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[41](#41).          Credits to the Account                                                                      20
+[41](#41).          Credits to the Account<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[42](#42).          Purposes of the Account                                                                   20
+[42](#42).          Purposes of the Account<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-**Part 6—Miscellaneous**
+**Part 6—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[43](#43).          Corporate plans                                                                                 22
+[43](#43).          Corporate plans<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[44](#44).          Annual reports                                                                                   22
+[44](#44).          Annual reports<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[45](#45).          Regulations                                                                                        22
+[45](#45).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
 
-An Act to enhance the management of Australia’s blood supply, and for related purposes
+An Act to enhance the management of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s blood supply, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title \[see Note 1]
+##### <a id="1"></a>1  Short title<span style="FONT-SIZE: 9pt"> </span><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">\[see Note 1]</span><o:p></o:p>
 
                    This Act may be cited as the _National Blood Authority_ _Act 2003_.
 
-##### <a id="2"></a>2  Commencement \[see Note 1]
+##### <a id="2"></a>2  Commencement<span style="FONT-SIZE: 9pt"> </span><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">\[see Note 1]</span>
 
              (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -158,41 +160,55 @@ An Act to enhance the management of Australia’s blood supply, and for related 
   <tr>
     <td colspan="3">
       <div>
-        <b>Commencement information</b>
+        <b style="mso-bidi-font-weight: normal">Commencement information
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Column 1</b>
+        <b style="mso-bidi-font-weight: normal">Column 1
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 2</b>
+        <b style="mso-bidi-font-weight: normal">Column 2
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 3</b>
+        <b style="mso-bidi-font-weight: normal">Column 3
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Provision(s)</b>
+        <b style="mso-bidi-font-weight: normal">Provision(s)
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Commencement</b>
+        <b style="mso-bidi-font-weight: normal">Commencement
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Date/Details</b>
+        <b style="mso-bidi-font-weight: normal">Date/Details
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
@@ -200,38 +216,44 @@ An Act to enhance the management of Australia’s blood supply, and for related 
 <tbody>
   <tr>
     <td>
-      <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
-        this table</div>
+      <div>1.
+        Sections 1 and 2 and anything in this Act not elsewhere covered
+        by this table</div>
     </td>
     <td>
       <div>The day on which this Act receives the Royal Assent</div>
     </td>
     <td>
-      <div>15 April 2003</div>
+      <div>
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="15" month="4">15 April 2003</st1:date>
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>2\. Sections 3 to 45</div>
+      <div>2.
+        Sections 3 to 45</div>
     </td>
     <td>
       <div>Either:</div>
-      <div>(a) if this Act receives the Royal Assent before 1 July 2003—1 July 2003;
-        or</div>
+      <div>(a) if this Act receives the Royal Assent before
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>—
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; or</div>
       <div>(b) in any other case—a single day to be fixed by Proclamation, subject
         to subsection (3)</div>
     </td>
     <td>
-      <div>1 July 2003 (paragraph (a) applies)</div>
+      <div>
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>(paragraph (a) applies)</div>
     </td>
   </tr>
 </tbody></table>
 
-Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
+Note:<span style="mso-tab-count: 1">          </span>This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
              (2)  Column 3 of the table is for additional information that is not part of this Act. This information may be included in any published version of this Act.
 
-             (3)  If a provision covered by item 2 of the table has not commenced on 1 July 2003, and does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+             (3)  If a provision covered by item 2 of the table has not commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>, and does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Definitions
 
@@ -269,17 +291,17 @@ Note:          This table relates only to the provisions of th
 
                     <a name="cover-territori"></a>**_covered Territories_** means the following:
 
-                     (a)  the Australian Capital Territory;
+                     (a)  the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>;
 
-                     (b)  the Northern Territory;
+                     (b)  the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>;
 
-                     (c)  the Territory of Christmas Island;
+                     (c)  the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Territory</st1:placetype> of <st1:placename>Christmas Island</st1:placename></st1:place>;
 
-                     (d)  the Territory of Cocos (Keeling) Islands;
+                     (d)  the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Territory</st1:placetype> of <st1:placename>Cocos</st1:placename></st1:place> (Keeling) <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Islands</st1:place>;
 
-                     (e)  the Australian Antarctic Territory;
+                     (e)  the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Antarctic Territory</st1:place>;
 
-                      (f)  the Jervis Bay Territory.
+                      (f)  the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Jervis</st1:placename> <st1:placetype>Bay</st1:placetype> <st1:placetype>Territory</st1:placetype></st1:place>.
 
                     <a name="gener-manag"></a>**_General Manager_** means the General Manager (described in Part 4) of the NBA.
 
@@ -289,7 +311,7 @@ Note:          This table relates only to the provisions of th
 
                      (a)  relates to matters in this Act (in particular the supply of blood products and services); and
 
-                     (b)  is between the Commonwealth, the States, the Northern Territory and the Australian Capital Territory; and
+                     (b)  is between the Commonwealth, the States, the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>; and
 
 (c) is in force from time to time.
 
@@ -309,7 +331,9 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="6"></a>6  Application to the external Territories
 
-                   This Act extends to each external Territory except Norfolk Island.
+                   This Act extends to each external Territory except <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
+
+<o:p> </o:p>
 
 ## Part 2—The National Blood Authority
 
@@ -391,9 +415,9 @@ Who may be required to give information
 
                      (a)  the person who has overall responsibility for the provision of hospital services (as defined in section 23E of the _Health Insurance Act 1973_) at a private hospital (as defined in that Act); or
 
-                     (b)  a supplier of blood products and services in Australia; or
+                     (b)  a supplier of blood products and services in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                     (c)  an importer of blood products and services into Australia; or
+                     (c)  an importer of blood products and services into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
                      (d)  a person specified in the regulations.
 
@@ -458,6 +482,8 @@ Compensation for giving documents
                      (b)  service as a Board member; or
 
                      (c)  the performance of services for the NBA or the Board.
+
+<o:p> </o:p>
 
 ## Part 3—The NBA Board
 
@@ -525,13 +551,13 @@ Compensation for giving documents
 
                      (a)  during a vacancy in the office of Chair, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Chair is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or is, for any reason, unable to perform the duties of the office.
 
              (2)  The Minister may appoint a person to act as a Board member:
 
                      (a)  during a vacancy in the office of a Board member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when a Board member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when a Board member is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or is, for any reason, unable to perform the duties of the office.
 
              (3)  The Minister may only appoint a person to act as a Board member described in one of paragraphs 14(b) to (f) if the person is qualified to be appointed as the Board member described in the paragraph concerned.
 
@@ -611,6 +637,8 @@ Note:          A similar rule applies to a Board member who ha
 
              (3)  A determination made under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
+<o:p> </o:p>
+
 ## Part 4—The NBA General Manager, staff and advisory committees
 
 ### Division 1—The General Manager
@@ -665,7 +693,7 @@ Note:          A similar rule applies to a Board member who ha
 
                      (a)  during a vacancy in the office of General Manager, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the General Manager is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the General Manager is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
 
@@ -739,6 +767,8 @@ the Minister may, with the consent of the General Manager, retire the General Ma
 
                      (b)  the Commonwealth Superannuation Board of Trustees No. 1 gives a certificate under section 13 of the _Superannuation Act 1990_.
 
+<o:p> </o:p>
+
 ### Division 2—Staff and consultants
 
 ##### <a id="36"></a>36  Staff
@@ -754,6 +784,8 @@ the Minister may, with the consent of the General Manager, retire the General Ma
 ##### <a id="37"></a>37  Consultants
 
                    The General Manager may, on behalf of the Commonwealth, engage consultants to perform services for the NBA related to the NBA’s functions.
+
+<o:p> </o:p>
 
 ### Division 3—Advisory committees
 
@@ -791,6 +823,8 @@ Note:          A similar rule applies to a person appointed to
 
              (5)  This section (except subsection (2)) has effect subject to the _Remuneration Tribunal Act 1973_.
 
+<o:p> </o:p>
+
 ## Part 5—The National Blood Account
 
 ##### <a id="40"></a>40  National Blood Account
@@ -803,6 +837,8 @@ Note:          A similar rule applies to a person appointed to
 
                    There must be credited to the Account the following:
 
+                     (a)  all money appropriated by the Parliament for the purposes of the Account;
+
                      (b)  amounts that are required to be credited to the Account by the Commonwealth under national blood arrangements described in subparagraph 8(1)(d)(i);
 
                      (c)  amounts equal to amounts received by the Commonwealth in connection with the performance of the NBA’s functions (including amounts received by the Commonwealth under national blood arrangements described in paragraph 8(1)(d));
@@ -813,8 +849,6 @@ Note:          A similar rule applies to a person appointed to
 
                       (f)  amounts equal to amounts of any gifts given or bequests made for the purposes of the Account.
 
-Note:          An Appropriation Act provides for amounts to be credited to a Special Account if any of the purposes of the Account is a purpose that is covered by an item in the Appropriation Act.
-
 ##### <a id="42"></a>42  Purposes of the Account
 
              (1)  This section sets out the purposes of the Account.
@@ -824,6 +858,8 @@ Note:          An Appropriation Act provides for amounts to be
                      (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Commonwealth in the performance of the NBA’s functions; or
 
                      (b)  in payment of any remuneration and allowances payable to any person under this Act.
+
+<o:p> </o:p>
 
 ## Part 6—Miscellaneous
 
@@ -850,13 +886,13 @@ Note:          An Appropriation Act provides for amounts to be
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 
-# Notes to the _National Blood Authority Act 2003_
+# Notes to the _<span style="mso-no-proof: yes">National Blood Authority Act 2003</span>_
 
 ### Note 1
 
-The _National Blood Authority Act 2003_ as shown in this compilation comprises Act No. 29, 2003 amended as indicated in the Tables below.
+The _National Blood Authority Act 2003_ as shown in this compilation comprises Act No. 29, 2003 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -872,44 +908,44 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div>National Blood Authority Act 2003</div>
+      <div>National Blood Authority Act 2003 <o:p></o:p></div>
     </td>
     <td>
       <div>29, 2003</div>
     </td>
     <td>
-      <div>15 Apr 2003</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="15" month="4">15 Apr 2003</st1:date></div>
     </td>
     <td>
-      <div>Ss. 3–45: 1 July 2003 
+      <div>Ss. 3–45: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date> 
 Remainder: Royal Assent 
 </div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -917,39 +953,22 @@ Remainder: Royal Assent
       <div>Financial Framework Legislation Amendment Act 2005</div>
     </td>
     <td>
-      <div>8, 2005</div>
+      <div>8, 2005 <o:p></o:p></div>
     </td>
     <td>
-      <div>22 Feb 2005</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date> <o:p></o:p></div>
     </td>
     <td>
-      <div>S. 4 and Schedule 1 (items 173, 496): Royal Assent</div>
+      <div>S. 4 and Schedule 1 (items 173, 496); Royal Assent <o:p></o:p></div>
     </td>
     <td>
-      <div>S. 4 and Sch. 1 (item 496)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-    </td>
-    <td>
-      <div>30, 2006</div>
-    </td>
-    <td>
-      <div>6 Apr 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 31, 32): 7 Apr 2006</div>
-    </td>
-    <td>
-      <div>—</div>
+      <div>S. 4 and Sch. 1 (item 496) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
     </td>
   </tr>
 </tbody></table>
 
 
-## Table of Amendments
+## Table of Amendments<o:p></o:p>
 
 <table>
 <colgroup>
@@ -957,36 +976,26 @@ Remainder: Royal Assent
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td>
-      <div>S. 41</div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005; No. 30, 2006</div>
+    <td colspan="2">
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 41</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>ad. No. 30, 2006</div>
+      <div>How affected <o:p></o:p> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41  <o:p></o:p></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005 <o:p></o:p></div>
     </td>
   </tr>
 </tbody></table>
@@ -996,7 +1005,7 @@ Remainder: Royal Assent
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -1012,11 +1021,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
 
- 
+<o:p> </o:p>
