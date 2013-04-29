@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00088/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00239/Html/OffshorePetrSaftLevies2003_image001.gif)
 
-# Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003
+# Offshore Petroleum (Safety Levies) Act 2003
 
 **Act No. 117 of 2003 as amended**
 
-This compilation was prepared on 12 February 2009
- taking into account amendments up to Act No. 120 of 2008
+This compilation was prepared on 1 July 2008 
+ taking into account amendments up to Act No. 19 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,47 +18,47 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                   1
+[2](#2).            Commencement
 
-[3](#3).            Definitions                                                                                           2
+[3](#3).            Definitions
 
-[4](#4).            Extension to external Territories                                                          3
+[4](#4).            Extension to external Territories
 
 **Part 2—Safety investigation levy**
 
-[5](#5).            Imposition of safety investigation levy—Commonwealth waters      4
+[5](#5).            Imposition of safety investigation levy—Commonwealth waters
 
-[6](#6).            Imposition of safety investigation levy—designated coastal waters  5
+[6](#6).            Imposition of safety investigation levy—designated coastal waters
 
 **Part 3—Safety case levy**
 
-[7](#7).            Imposition of safety case levy—Commonwealth waters                   8
+[7](#7).            Imposition of safety case levy—Commonwealth waters
 
-[8](#8).            Imposition of safety case levy—designated coastal waters                9
+[8](#8).            Imposition of safety case levy—designated coastal waters
 
 **Part 4—Pipeline safety management plan levy**
 
-[9](#9).            Imposition of pipeline safety management plan levy—Commonwealth waters     11
+[9](#9).            Imposition of pipeline safety management plan levy—Commonwealth waters
 
-[10](#10).          Imposition of pipeline safety management plan levy—designated coastal waters 12
+[10](#10).          Imposition of pipeline safety management plan levy—designated coastal waters
 
 **Part 5—Regulations**
 
-[11](#11).          Regulations                                                                                        15
+[11](#11).          Regulations
 
 **Notes** 
 
-## An Act to impose safety investigation levy, safety case levy, and pipeline safety management plan levy, in relation to offshore petroleum and greenhouse gas facilities
+## An Act to impose safety investigation levy, safety case levy, and pipeline safety management plan levy, in relation to offshore petroleum facilities
 
 ## Part 1—Introduction
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_.
+                   This Act may be cited as the _Offshore Petroleum (Safety Levies) Act 2003_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -152,35 +152,35 @@ Note:          This table relates only to the provisions of th
 
                      (b)  in relation to the designated coastal waters of the Northern Territory—the Territory safety law.
 
-                    <a name="commonwealth-water"></a>**_Commonwealth waters_** has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="commonwealth-water"></a>**_Commonwealth waters_** has the same meaning as in Part 4.8 of the _Offshore Petroleum Act 2006_.
 
-                    <a name="design-coastal-water"></a>**_designated coastal waters_**,in relation to a State or the Northern Territory, has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="design-coastal-water"></a>**_designated coastal waters_**,in relation to a State or the Northern Territory, has the same meaning as in Part 4.8 of the _Offshore Petroleum Act 2006_.
 
-                    <a name="oh-inspector"></a>**_OHS inspector_** has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="oh-inspector"></a>**_OHS inspector_** has the same meaning as in Part 4.8 of the _Offshore Petroleum Act 2006_.
 
                     <a name="pipelin-safeti-manag-plan-levi"></a>**_pipeline safety management plan levy_** means levy imposed by section 9 or 10.
 
-                    <a name="safeti-author"></a>**_Safety Authority_** means the National Offshore Petroleum Safety Authority continued in existence by Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006._
+                    <a name="safeti-author"></a>**_Safety Authority_** means the National Offshore Petroleum Safety Authority continued in existence by Part 4.8 of the _Offshore Petroleum Act 2006._
 
                     <a name="safeti-case-levi"></a>**_safety case levy_** means levy imposed by section 7 or 8.
 
                     <a name="safeti-investig-levi"></a>**_safety investigation levy_** means levy imposed by section 5 or 6.
 
-                    <a name="state-psla"></a>**_State PSLA_** has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="state-psla"></a>**_State PSLA_** has the same meaning as in Part 4.8 of the _Offshore Petroleum Act 2006_.
 
-                    <a name="state-safeti-law"></a>**_State safety law_** means the provisions of a State PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="state-safeti-law"></a>**_State safety law_** means the provisions of a State PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum Act 2006_.
 
-                    <a name="territori-psla"></a>**_Territory PSLA_** has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="territori-psla"></a>**_Territory PSLA_** has the same meaning as in Part 4.8 of the _Offshore Petroleum Act 2006_.
 
-                    <a name="territori-safeti-law"></a>**_Territory safety law_**means the provisions of the Territory PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="territori-safeti-law"></a>**_Territory safety law_**means the provisions of the Territory PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum Act 2006_.
 
                     <a name="year"></a>**_year_** means a 12-month period beginning on 1 January.
 
 ##### <a id="4"></a>4  Extension to external Territories
 
-                   This Act extends to each external Territory to which the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ extends.
+                   This Act extends to each external Territory to which the _Offshore Petroleum Act 2006_ extends.
 
-Note:          See section 34 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          See section 17 of the _Offshore Petroleum Act 2006_.
 
 ## Part 2—Safety investigation levy
 
@@ -202,7 +202,7 @@ levy is imposed on the notifiable accident or occurrence.
 
              (4)  Safety investigation levy is not payable under subsection (1) unless regulations are in force for the purposes of paragraph (1)(c).
 
-Note:          For collection of safety investigation levy, see section 686 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          For collection of safety investigation levy, see section 396 of the _Offshore Petroleum Act 2006_.
 
 Amount of safety investigation levy
 
@@ -216,21 +216,21 @@ Definitions
 
              (8)  In this section:
 
-                    <a name="accid"></a>**_accident_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="accid"></a>**_accident_** has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
-                    <a name="danger-occurr"></a>**_dangerous occurrence_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="danger-occurr"></a>**_dangerous occurrence_** has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
-                    <a name="facil"></a>**_facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="facil"></a>**_facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
-                    <a name="inspect"></a>**_inspection_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="inspect"></a>**_inspection_** has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
                     <a name="notifi-accid-occurr"></a>**_notifiable accident or occurrence_**, in relation to a facility, means an accident or dangerous occurrence:
 
                      (a)  at or near the facility; and
 
-                     (b)  that is required to be notified to the Safety Authority by the operator under clause 82 of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                     (b)  that is required to be notified to the Safety Authority by the operator under clause 82 of Schedule 3 to the _Offshore Petroleum Act 2006_.
 
-                    <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
 ##### <a id="6"></a>6  Imposition of safety investigation levy—designated coastal waters
 
@@ -250,7 +250,7 @@ levy is imposed on the notifiable accident or occurrence.
 
              (4)  Safety investigation levy is not payable under subsection (1) unless regulations are in force for the purposes of paragraph (1)(c).
 
-Note:          For collection of safety investigation levy, see section 686 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          For collection of safety investigation levy, see section 396 of the _Offshore Petroleum Act 2006_.
 
 Amount of safety investigation levy
 
@@ -276,7 +276,7 @@ Definitions
 
                      (a)  at or near the facility; and
 
-                     (b)  that is required to be notified to the Safety Authority by the operator under the provision of the applicable State or Territory safety law that substantially corresponds to clause 82 of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                     (b)  that is required to be notified to the Safety Authority by the operator under the provision of the applicable State or Territory safety law that substantially corresponds to clause 82 of Schedule 3 to the _Offshore Petroleum Act 2006_.
 
                     <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in the applicable State or Territory safety law.
 
@@ -304,7 +304,7 @@ levy is imposed on the safety case in respect of:
 
              (3)  Safety case levy imposed by subsection (1) is payable by the operator of the facility.
 
-Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          For collection of safety case levy, see section 397 of the _Offshore Petroleum Act 2006_.
 
 Amount of safety case levy
 
@@ -320,17 +320,17 @@ Definitions
 
              (8)  In this section:
 
-                    <a name="facil"></a>**_facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a proposed facility.
+                    <a name="facil"></a>**_facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_, and includes a proposed facility.
 
-                    <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
-                    <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum Act 2006_.
 
                     <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_.
 
              (9)  If the regulations referred to in the definition of **_safety case in force in relation to a facility_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
 
-##### <a id="8"></a>8  Imposition of safety case levy—designated coastal waters
+##### <a id="8"></a>8  Imposition of safety case levy—designated coastal waters
 
              (1)  If:
 
@@ -352,7 +352,7 @@ levy is imposed on the safety case in respect of:
 
              (3)  Safety case levy imposed by subsection (1) is payable by the operator of the facility.
 
-Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ .
+Note:          For collection of safety case levy, see section 397 of the _Offshore Petroleum Act 2006_ .
 
 Amount of safety case levy
 
@@ -404,7 +404,7 @@ levy is imposed on the pipeline safety management plan in respect of:
 
              (3)  Pipeline safety management plan levy imposed by subsection (1) is payable by the licensee of the pipeline licence.
 
-Note:          For collection of pipeline safety management plan levy, see section 688 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          For collection of pipeline safety management plan levy, see section 398 of the _Offshore Petroleum Act 2006_.
 
 Amount of pipeline safety management plan levy
 
@@ -420,13 +420,13 @@ Definitions
 
              (8)  In this section:
 
-                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a pipeline that is:
+                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the _Offshore Petroleum Act 2006_, and includes a pipeline that is:
 
                      (a)  proposed to be constructed or operated; or
 
                      (b)  being constructed.
 
-                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum Act 2006_.
 
                     <a name="pipelin-safeti-manag-plan-forc-relat-pipelin"></a>**_pipeline safety management plan in force in relation to a pipeline_**has the same meaning as in the _Petroleum (Submerged Lands) (Pipelines) Regulations 2001_.
 
@@ -456,7 +456,7 @@ levy is imposed on the pipeline safety management plan in respect of:
 
              (3)  Pipeline safety management plan levy imposed by subsection (1) is payable by the licensee of the pipeline licence.
 
-Note:          For collection of pipeline safety management plan levy, see section 688 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          For collection of pipeline safety management plan levy, see section 398 of the _Offshore Petroleum Act 2006_.
 
 Amount of pipeline safety management plan levy
 
@@ -490,11 +490,11 @@ Definitions
 
                    The Governor-General may make regulations for the purposes of sections 5, 6, 7, 8, 9 and 10.
 
-# Notes to the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
+# Notes to the _Offshore Petroleum (Safety Levies) Act 2003_
 
 ### Note 1
 
-The _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_ as shown in this compilation comprises Act No. 117, 2003 amended as indicated in the Tables below.
+The _Offshore Petroleum (Safety Levies) Act 2003_ as shown in this compilation comprises Act No. 117, 2003 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -559,136 +559,12 @@ Remainder: Royal Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273) 
+    <div>Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273) 
 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 
 33–36)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>120, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1: <i>(a)</i> 
-Schedule 2: <i>(a)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Offshore Petroleum (Safety Levies) Amendment Act 2006</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 1 of Schedule 4 to the
-        <i>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 November 2008
-    </div>
   </td>
 </tr></table>
 
@@ -717,15 +593,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </thead>
 <tr>
   <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -733,18 +601,10 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </tr>
 <tr>
   <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 3, 4</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -752,7 +612,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 4</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -768,7 +628,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -776,7 +636,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 5(4)</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -784,7 +644,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -792,7 +652,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 6(4)</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -808,7 +668,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -816,7 +676,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 7(3)</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -832,7 +692,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 8(3)</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -848,7 +708,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -856,7 +716,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 9(3)</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -872,7 +732,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Note to s. 10(3)</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr></table>
 
