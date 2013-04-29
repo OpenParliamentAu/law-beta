@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2010C00198/Html/TransTasMutRecAct1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00172/Html/TransTasMutRecAct1997_WD02_image001.gif)
 
 # Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 16 March 2010
+This compilation was prepared on 18 April 2009
  taking into account amendments up to Act No. 8 of 2007 
- and SLI 2010 No. 42
+ and SLI 2009 No. 65
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1766,11 +1766,6 @@ Prohibited Weapons Act 1989
   <td>
     <div><i>Environment Protection Act 1993</i>, Part 8, Division 2 (dealing with beverage containers)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Summary Offences Act 1953</i>, Section 9B</div>
-  </td>
 </tr></table>
 
 ##### <a id="9"></a>9  Tasmania
@@ -2589,7 +2584,7 @@ the authority must ensure that the forms issued to individuals in connection wit
 
 The _Trans-Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
 
-The _Trans-Tasman Mutual Recognition Act 1997_ was amended by the _Trans-Tasman Mutual Recognition Regulation__s 1__999_ (SR 1999 No. 60), the _Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)_ (SR 2000 No. 51), the _Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 75), the _Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 221), the _Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)_ (SR 2002 No. 78), the _Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)_ (SR 2003 No. 72), the _Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)_ (SLI 2009 No. 65) and the _Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2010 (No. 1)_ (SLI 2010 No. 42). The amendments are incorporated in this compilation.
+The _Trans-Tasman Mutual Recognition Act 1997_ was amended by the _Trans-Tasman Mutual Recognition Regulation__s 1__999_ (SR 1999 No. 60), the _Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)_ (SR 2000 No. 51), the _Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 75), the _Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 221), the _Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)_ (SR 2002 No. 78), the _Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)_ (SR 2003 No. 72) and the _Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)_ (SLI 2009 No. 65). The amendments are incorporated in this compilation.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2774,7 +2769,7 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65; SLI 2010 No. 42</div>
+    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65</div>
   </td>
 </tr>
 <tr>
