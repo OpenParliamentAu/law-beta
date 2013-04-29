@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00872/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00365/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 24 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 8 June 2010
+ taking into account amendments up to Act No. 56 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -37,6 +37,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4](#4).            General administration of Act
 
 [7](#7).            Annual report
+
+[8](#8).            Secrecy
 
 **Part IIA—Interest on early payments**
 
@@ -505,8 +507,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The Commissioner has the general administration of this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
 ##### <a id="7"></a>7  Annual report
 
              (1)  The Commissioner shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report on the working of this Act.
@@ -514,6 +514,38 @@ Note:          An effect of this provision is that people who 
              (2)  The Minister shall cause a copy of a report furnished to him or her under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which he or she receives the report.
 
              (3)  For the purposes of section 34C of the _Acts Interpretation Act 1901_, a report that is required by subsection (1) to be furnished as soon as practicable after 30 June in a year shall be taken to be a periodic report relating to the working of this Act during the year ending on that 30 June.
+
+##### <a id="8"></a>8  Secrecy
+
+             (1)  In this section, **_officer_** means a person:
+
+                     (a)  who is or has been appointed or employed by the Commonwealth; or
+
+                     (b)  to whom powers or functions have been delegated by the Commissioner;
+
+and who, by reason of the appointment or employment or in the course of the employment, or by reason of, or in the course of the exercise of powers or the performance of functions under, the delegation, as the case may be, may acquire or has acquired information with respect to the affairs of any other person disclosed or obtained under or for the purposes of this Act.
+
+          (1A)  For the purposes of this section, a person who, although not appointed or employed by the Commonwealth, performs services for the Commonwealth shall be taken to be employed by the Commonwealth.
+
+             (2)  Subject to subsection (4), an officer who, either directly or indirectly, either while he or she is, or after he or she ceases to be, an officer:
+
+                     (a)  makes a record of any information with respect to the affairs of a second person; or
+
+                     (b)  divulges or communicates to a second person any information with respect to the affairs of a third person;
+
+being information disclosed or obtained under or for the purposes of this Act and acquired by him or her by reason of his or her appointment or employment by the Commonwealth or in the course of such employment, or by reason of the delegation to him or her of powers or functions by the Commissioner, or in the course of the exercise of such powers or the performance of such functions, as the case may be, is guilty of an offence punishable on summary conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 2 years.
+
+          (2A)  Subsection (2) does not apply to the extent that the person makes the record of the information, or divulges or communicates the information, for the purposes of this Act or in the performance of the person’s duties as an officer.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2A), see subsection 13.3(3) of the _Criminal Code_.
+
+             (3)  Except when it is necessary to do so for the purpose of carrying into effect the provisions of this Act, an officer shall not be required to produce in court any document made or given under or for the purposes of this Act, or to divulge or communicate to a court a matter or thing with respect to information disclosed or obtained under or for the purposes of this Act and acquired by him or her by reason of his or her appointment or employment by the Commonwealth or in the course of such employment, or by reason of the delegation to him or her of powers or functions by the Commissioner, or in the course of the exercise of such powers or the performance of such functions, as the case may be.
+
+             (4)  Nothing in subsection (2) shall be taken to prohibit the Commissioner, a Second Commissioner, a Deputy Commissioner or a person authorized by the Commissioner, a Second Commissioner or a Deputy Commissioner from communicating any information to a person performing, as an officer, duties in relation to any Act administered by the Commissioner, for the purpose of enabling the person to perform those duties.
+
+             (5)  For the purposes of subsection (2), an officer shall be deemed to have communicated information to another person in contravention of that subsection if he or she communicates that information to any Minister.
+
+             (6)  An officer shall, if and when required by the Commissioner, a Second Commissioner or a Deputy Commissioner to do so, make an oath or declaration, in a manner and form specified by the Commissioner, to maintain secrecy in conformity with the provisions of this section.
 
 ## Part IIA—Interest on early payments
 
@@ -1097,7 +1129,7 @@ then interest is payable by the Commissioner to the entity on the amount refunde
 
 Note:          Section 12AF defines **_BAS amount_**, **_RBA surplus_** and **_RBA interest day_**.
 
-##### <a id="12AD"></a>12AD  Period of interest for RBA surpluses
+##### <a id="12AD"></a>12AD  Period of interest for RBA surpluses
 
                    Interest under this Part is payable for the period from the end of the RBA interest day until the end of the day on which the refund takes place.
 
@@ -2409,23 +2441,6 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 118, 119): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ provides as follows:
@@ -2881,17 +2896,18 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
 <table>
 <colgroup>
   <col width="34%">
+  <col width="0%">
   <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="2">
+    <td colspan="3">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <div>Provision affected</div>
     </td>
     <td>
@@ -2903,7 +2919,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Title</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 181, 1994</div>
   </td>
 </tr>
@@ -2911,7 +2927,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part I</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -2919,7 +2935,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 1</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 181, 1994</div>
   </td>
 </tr>
@@ -2927,7 +2943,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 3</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010</div>
   </td>
 </tr>
@@ -2935,7 +2951,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 3A</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -2943,7 +2959,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 39, 1996; No. 143, 2007; No. 97, 2008</div>
   </td>
 </tr>
@@ -2951,7 +2967,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 3B</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 146, 2001</div>
   </td>
 </tr>
@@ -2959,7 +2975,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 3C</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 58, 2006</div>
   </td>
 </tr>
@@ -2967,7 +2983,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. Nos. 100 and 101, 2006; No. 56, 2010</div>
   </td>
 </tr>
@@ -2975,23 +2991,15 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part II</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 5, 6</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 123, 1984</div>
   </td>
 </tr>
@@ -2999,7 +3007,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 7</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 123, 1984; No. 43, 1996</div>
   </td>
 </tr>
@@ -3007,23 +3015,15 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 123, 1985; No. 97, 1988; No. 43, 1996; No. 146, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part IIA</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3031,7 +3031,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIA</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3039,7 +3039,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8A</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3047,7 +3047,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 169, 1995; Nos. 11 and 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006; No. 56, 2010</div>
   </td>
 </tr>
@@ -3055,7 +3055,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8B</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3063,7 +3063,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3071,7 +3071,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8C</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3079,7 +3079,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3087,7 +3087,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8D</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3095,7 +3095,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIB</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3103,7 +3103,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIB</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3111,7 +3111,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8E</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3119,7 +3119,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006; No. 56, 2010</div>
   </td>
 </tr>
@@ -3127,7 +3127,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Note to s. 8E(1)</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 170, 2001</div>
   </td>
 </tr>
@@ -3135,7 +3135,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 42, 2009</div>
   </td>
 </tr>
@@ -3143,7 +3143,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8F</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3151,7 +3151,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Heading to s. 8G</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3159,7 +3159,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8G</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3167,7 +3167,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 179, 1999; No. 170, 2001; No. 101, 2004; No. 101, 2006</div>
   </td>
 </tr>
@@ -3175,7 +3175,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Note to s. 8G(1)</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 170, 2001</div>
   </td>
 </tr>
@@ -3183,7 +3183,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 42, 2009</div>
   </td>
 </tr>
@@ -3191,7 +3191,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Heading to s. 8H</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3199,7 +3199,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8H</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3207,7 +3207,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3215,7 +3215,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8I</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3223,7 +3223,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3231,7 +3231,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8J</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3239,7 +3239,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 143, 2007</div>
   </td>
 </tr>
@@ -3247,7 +3247,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8K</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3255,7 +3255,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 161, 2005</div>
   </td>
 </tr>
@@ -3263,7 +3263,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIC</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3271,7 +3271,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIC</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 71, 1997</div>
   </td>
 </tr>
@@ -3279,7 +3279,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 8L–8N</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 71, 1997</div>
   </td>
 </tr>
@@ -3287,7 +3287,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8P</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 71, 1997</div>
   </td>
 </tr>
@@ -3295,7 +3295,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3303,7 +3303,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IID</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3311,7 +3311,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IID</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 71, 1997</div>
   </td>
 </tr>
@@ -3319,7 +3319,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 8Q–8S</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 71, 1997</div>
   </td>
 </tr>
@@ -3327,7 +3327,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8T</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 71, 1997</div>
   </td>
 </tr>
@@ -3335,7 +3335,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3343,7 +3343,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIE</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3351,7 +3351,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIE</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3359,7 +3359,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 8U–8W</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3367,7 +3367,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8X</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3375,7 +3375,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3383,7 +3383,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIF</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3391,7 +3391,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIF</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3399,7 +3399,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 8Y, 8Z</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3407,7 +3407,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8ZA</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3415,7 +3415,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8ZB</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 191, 1997</div>
   </td>
 </tr>
@@ -3423,7 +3423,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 101, 2006</div>
   </td>
 </tr>
@@ -3431,7 +3431,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIG</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3439,7 +3439,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIG</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 9, 2007</div>
   </td>
 </tr>
@@ -3447,7 +3447,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8ZC</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 9, 2007</div>
   </td>
 </tr>
@@ -3455,7 +3455,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 8ZD</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 9, 2007</div>
   </td>
 </tr>
@@ -3463,7 +3463,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 15, 2007</div>
   </td>
 </tr>
@@ -3471,7 +3471,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 8ZE, 8ZF</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 9, 2007</div>
   </td>
 </tr>
@@ -3479,7 +3479,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part III</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3487,7 +3487,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Heading to Part III</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rs. No. 181, 1994</div>
   </td>
 </tr>
@@ -3495,7 +3495,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 9</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 123, 1984; Nos. 58 and 61, 1987; No. 181, 1994; No. 43, 1996, No. 11, 1999; No. 101, 2006; No. 143, 2007; No. 14, 2009</div>
   </td>
 </tr>
@@ -3503,7 +3503,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 10</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 123, 1984; No. 49, 1985; No. 46, 1986; No. 181, 1994; No. 11, 1999; Nos. 58 and 101, 2006; No. 14, 2009</div>
   </td>
 </tr>
@@ -3511,7 +3511,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 10A</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 123, 1984</div>
   </td>
 </tr>
@@ -3519,7 +3519,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 58, 2006</div>
   </td>
 </tr>
@@ -3527,7 +3527,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 101, 2006</div>
   </td>
 </tr>
@@ -3535,7 +3535,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Heading to s. 11</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 143, 2007</div>
   </td>
 </tr>
@@ -3543,7 +3543,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 11</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rs. No. 181, 1994</div>
   </td>
 </tr>
@@ -3551,7 +3551,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 143, 2007</div>
   </td>
 </tr>
@@ -3559,7 +3559,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 11A</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 123, 1984</div>
   </td>
 </tr>
@@ -3567,7 +3567,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 181, 1994</div>
   </td>
 </tr>
@@ -3575,7 +3575,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 12</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 123, 1984; No. 47, 1985; No. 181, 1994; No. 118, 1999; No. 58, 2006</div>
   </td>
 </tr>
@@ -3583,7 +3583,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 101, 2006</div>
   </td>
 </tr>
@@ -3591,7 +3591,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIIA</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3599,7 +3599,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIIA</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3607,7 +3607,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 12A</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3615,7 +3615,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 178, 1999 (as am. by No. 41, 2005); No. 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006; No. 56, 2010</div>
   </td>
 </tr>
@@ -3623,7 +3623,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 12B</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3631,7 +3631,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 12C</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3639,7 +3639,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
@@ -3647,7 +3647,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIIAA</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3655,7 +3655,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIIAA</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 179, 1999</div>
   </td>
 </tr>
@@ -3663,7 +3663,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 12AA–12AD</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 179, 1999</div>
   </td>
 </tr>
@@ -3671,7 +3671,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 12AE</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 179, 1999</div>
   </td>
 </tr>
@@ -3679,7 +3679,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 101, 2006</div>
   </td>
 </tr>
@@ -3687,7 +3687,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 12AF</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 179, 1999</div>
   </td>
 </tr>
@@ -3695,7 +3695,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IIIB</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3703,7 +3703,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Part IIIB</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3711,7 +3711,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Ss. 12D–12F</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 181, 1994</div>
   </td>
 </tr>
@@ -3719,7 +3719,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div><b>Part IV</b></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -3727,7 +3727,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 13</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 181, 1994; No. 179, 1999</div>
   </td>
 </tr>
@@ -3735,7 +3735,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 91, 2000</div>
   </td>
 </tr>
@@ -3743,7 +3743,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>Note</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 91, 2000</div>
   </td>
 </tr>
@@ -3751,9 +3751,14 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>S. 14</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 123, 1984</div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 ## Table A
