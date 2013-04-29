@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00083/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00415/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
 **Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -145,15 +145,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Note:          ADI is short for authorised deposit-taking institution.
 
-                    <a name="authorised-nohc"></a>**_authorised NOHC_** means:
+                    <a name="authorised-nohc"></a>**_authorised NOHC_** means an authorised NOHC within the meaning of either:
 
-                     (a)  an authorised NOHC within the meaning of either:
+                     (a)  the _Banking Act 1959_; or
 
-                              (i)  the _Banking Act 1959_; or
-
-                             (ii)  the _Insurance Act 1973_; or
-
-                     (b)  a registered NOHC within the meaning of the _Life Insurance Act 1995_.
+                     (b)  the _Insurance Act 1973_.
 
 Note:          NOHC is short for non-operating holding company.
 
@@ -209,7 +205,7 @@ Note:          NOHC is short for non-operating holding company
 
                      (b)  the trustee of a superannuation entity.
 
-                    <a name="life-insur-compani"></a>**_life insurance company_** means a company that is registered under section 21 of the _Life Insurance Act 1995_.
+                    <a name="life-insur-compani"></a>**_life insurance company_** means a company that is registered under the _Life Insurance Act 1995_.
 
                     <a name="rsa-provid"></a>**_RSA provider_** has the same meaning as in the _Retirement Savings Accounts Act 1997_.
 
@@ -393,7 +389,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00083/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00415/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -439,7 +435,7 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 
 ## Part 3A—Financial claims scheme levies
 
-##### <a id="26A"></a>26A  Definitions
+##### <a id="26A"></a>26A  Definitions
 
                    In this Part:
 
@@ -473,7 +469,7 @@ Note:          The notice may affect whether and when the ADI 
 
              (1)  If any levy payable by an ADI or general insurer remains unpaid at the start of a levy month after the levy became due for payment, the ADI or general insurer is liable to pay the Commonwealth, for that levy month, a penalty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00083/Html/FinanInstSuperLeviesCollect98WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00415/Html/FinanInstSuperLeviesCollect98WD02_image003.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -877,7 +873,7 @@ Remainder: Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 200, 201): 27 Feb 2010</div>
+    <div>Schedule 1 (items 200, 201): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1106,7 +1102,7 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 121, 1999; No. 14, 2005; No. 92, 2008; No. 75, 2009</div>
+    <div>am. No. 121, 1999; No. 14, 2005; No. 92, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1213,6 +1209,36 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>ad. No. 105, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendments commence on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 200  Section 7 (definition of _authorised NOHC_)
+
+Repeal the definition, substitute:
+
+                    <a name="authorised-nohc"></a>**_authorised NOHC_** means:
+
+                     (a)  an authorised NOHC within the meaning of either:
+
+                              (i)  the _Banking Act 1959_; or
+
+                             (ii)  the _Insurance Act 1973_; or
+
+                     (b)  a registered NOHC within the meaning of the _Life Insurance Act 1995_.
+
+Note:          NOHC is short for non-operating holding company.
+
+## 201  Section 7 (definition of _life insurance company_)
+
+After “under”, insert “section 21 of”.
+
+As at 4 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
