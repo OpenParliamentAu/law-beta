@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00852/Html/cb4d5b73-5ef2-4f50-bf3b-b89c00046f0e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00388/Html/0b71d5fd-60cc-4132-bec1-eb1cd3996450_files/image001.gif)
 
 # Racial Discrimination Act 1975
 
 **Act No. 52 of 1975 as amended**
 
-This compilation was prepared on 21 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -356,7 +356,7 @@ by reason of the race, colour or national or ethnic origin of that second person
 
              (5)  Nothing in this section renders unlawful an act in relation to employment, or an application for employment, in a dwelling‑house or flat occupied by the person who did the act or a person on whose behalf the act was done or by a relative of either of those persons.
 
-##### <a id="16"></a>16  Advertisements
+##### <a id="16"></a>16  Advertisements
 
                    It is unlawful for a person to publish or display, or cause or permit to be published or displayed, an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention to do an act that is unlawful by reason of a provision of this Part or an act that would, but for subsection 12(3) or 15(5), be unlawful by reason of section 12 or 15, as the case may be.
 
@@ -982,7 +982,7 @@ _Article_ 25
 
 ### Note 1
 
-The _Racial Discrimination Act 1975_ as shown in this compilation comprises Act No. 52, 1975 amended as indicated in the Tables below.
+The _Racial Discrimination Act 1975_ as shown in this compilation comprises Act No. 52, 1975 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1416,23 +1416,6 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 968, 969) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2923,26 +2906,6 @@ rep. No. 133, 1999</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 968  At the end of subsection 36(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 969  Subsection 36(6)
-
-Repeal the subsection.
-
-As at 21 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3240,21 +3203,5 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
