@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00945/Html/1b060e7e-8c92-4803-98a9-9dbfa36eb72a_files/image001.gif)
 
 # Competition and Consumer Act 2010
 
 **Act No. 51 of 1974 as amended**
 
-This compilation was prepared on 1 January 2012
- taking into account amendments up to Act No. 185 of 2011
+This compilation was prepared on 8 December 2011
+ taking into account amendments up to Act No. 132 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 119
@@ -24,7 +24,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 8
+                                     Notes 2 – 7
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Extended application of this Act to conduct outside Australia
 
-[6](#6).            Extended application of this Act to persons who are not corporations
+[6](#6).            Extended application of this Act to persons who are not corporations [_see_ Note 2]
 
 [6AA](#6AA).      Application of the _Criminal Code_
 
@@ -508,7 +508,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44ZK](#44ZK).     Intimidation etc 
 
-[44ZL](#44ZL).     Party may request Commission to treat material as confidential
+44ZL  Party may request Commission to treat material as confidential
 
 [44ZM](#44ZM).    Sections 18 and 19 do not apply to the Commission in an arbitration
 
@@ -796,7 +796,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VI—Enforcement and remedies**
 
-[75B](#75B).       Interpretation
+[75B](#75B).       Interpretation [_see_ Note 2]
 
 [76](#76).          Pecuniary penalties
 
@@ -815,7 +815,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [77C](#77C).       Application of section 77A to a person other than a body corporate
 
-[78](#78).          Criminal proceedings not to be brought for contraventions of Part IV
+[78](#78).          Criminal proceedings not to be brought for contraventions of Part IV or V [_see_ Note 2]
 
 [79](#79).          Offences against section 44ZZRF or 44ZZRG
 
@@ -833,15 +833,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [81A](#81A).       Divestiture where merger done under clearance or authorisation granted on false etc  information
 
-[82](#82).          Actions for damages
+[82](#82).          Actions for damages [_see_ Note 2]
 
-[83](#83).          Finding in proceedings to be evidence
+[83](#83).          Finding in proceedings to be evidence [_see_ Note 2]
 
 [84](#84).          Conduct by directors, employees or agents
 
 [85](#85).          Defences
 
-[86](#86).          Jurisdiction of courts
+[86](#86).          Jurisdiction of courts [_see_ Note 2]
 
 [86AA](#86AA).    Limit on jurisdiction of Federal Magistrates Court
 
@@ -1472,15 +1472,11 @@ were a corporation.
 
                      (c)  the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations (as defined by the _Australian Energy Market Act 2004_).
 
-                    <a name="docum"></a>**_document_** means any record of information, and includes:
+                    <a name="docum"></a>**_document_** includes:
 
-                     (a)  anything on which there is writing; and
+                     (a)  a book, plan, paper, parchment or other material on which there is writing or printing, or on which there are marks, symbols or perforations having a meaning for persons qualified to interpret them; and
 
-                     (b)  anything on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them; and
-
-                     (c)  anything from which sounds, images or writings can be reproduced with or without the aid of anything else; and
-
-                     (d)  a map, plan, drawing or photograph.
+                     (b)  a disc, tape, paper or other device from which sounds or messages are capable of being reproduced.
 
                     <a name="dual-list-compani-arrang"></a>**_dual listed company arrangement_** has the same meaning as in section 125‑60 of the _Income Tax Assessment Act 1997_.
 
@@ -1956,7 +1952,7 @@ extends to the engaging in conduct outside Australia by:
 
                      (b)  it is not in the national interest that the consent be given.
 
-##### <a id="6"></a>6  Extended application of this Act to persons who are not corporations
+##### <a id="6"></a>6  Extended application of this Act to persons who are not corporations [_see_ Note 2]
 
              (1)  Without prejudice to its effect apart from this section, this Act also has effect as provided by this section.
 
@@ -2090,7 +2086,7 @@ For the purposes of this subsection, **_likely_** and **_production_** have the 
 
                             to a corporation included a reference to a person not being a corporation.
 
-             (3)  In addition to the effect that this Act, other than Parts IIIA, VIIA and X, has as provided by another subsection of this section, the provisions of Parts 2‑1, 2‑2, 3‑1 (other than Division 3), 3‑3, 3‑4, 4‑1 (other than Division 3), 4‑3, 4‑4 and 5‑3 of the Australian Consumer Law have, by force of this subsection, the effect they would have if:
+             (3)  In addition to the effect that this Act, other than Parts IIIA, VIIA and X, has as provided by another subsection of this section, the provisions of Part IVA, of Divisions 1, 1AAA, 1AA and 1A of Part V and of Divisions 2 and 3 of Part VC have, by force of this subsection, the effect they would have if:
 
                      (a)  those provisions (other than sections 33 and 155 of the Australian Consumer Law) were, by express provision, confined in their operation to engaging in conduct to the extent to which the conduct involves the use of postal, telegraphic or telephonic services or takes place in a radio or television broadcast; and
 
@@ -2232,7 +2228,7 @@ Note:          A State/Territory AER member who is taken to be
 
              (1)  Where there is, or is expected to be, a vacancy in the office of Chairperson, the Governor‑General may appoint a person to act as Chairperson until the filling of the vacancy.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+          (1A)  A person appointed under subsection (1) to act during a vacancy shall not continue so to act for more than 12 months.
 
              (2)  Where the Chairperson is absent from duty or from Australia:
 
@@ -2241,8 +2237,6 @@ Note:          For rules that apply to acting appointments, se
                      (b)  if there is only 1 Deputy Chairperson available to act as Chairperson, that Deputy Chairperson is to act as Chairperson during the absence of the Chairperson; or
 
                      (c)  if there are no Deputy Chairpersons or none of the Deputy Chairpersons are available to act as Chairperson, the Minister may appoint a member of the Commission to act as Chairperson during the absence of the Chairperson, but any such appointment ceases to have effect if a person is appointed as a Deputy Chairperson or a Deputy Chairperson becomes available to act as Chairperson.
-
-Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  A person acting as Chairperson shall act in that capacity on such terms and conditions as the Governor‑General determines and has all the powers and duties, and shall perform all the functions, conferred on the Chairperson by this Act.
 
@@ -2558,13 +2552,21 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
 ##### <a id="29E"></a>29E  Acting Council President
 
-                   The Minister may appoint a Councillor to act as the Council President:
+             (1)  The Minister may appoint a Councillor to act as the Council President:
 
                      (a)  if there is a vacancy in the office of Council President, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Council President is absent from duty or absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in the appointment;
+
+                     (c)  the appointment had ceased to have effect;
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="29F"></a>29F  Remuneration of Councillors
 
@@ -2742,15 +2744,9 @@ Note:          For rules that apply to acting appointments, se
 
 the Minister may appoint a Deputy President or an acting Deputy President to act as President during the absence, or while there is a vacancy in the office of President, as the case may be.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  Where a presidential member (including the President) of the Tribunal is, or is expected to be, absent from duty, the Governor‑General may appoint a person qualified to be appointed as a presidential member to act as a Deputy President during the absence from duty of the member.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (3)  Where a member of the Tribunal other than a presidential member is, or is expected to be, absent from duty, the Governor‑General may appoint a person qualified to be appointed as a member of the Tribunal other than a presidential member to act as such a member during the absence from duty of the member.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (4)  Where a person has been appointed under subsection (2) or (3), the Governor‑General may, by reason of pending proceedings or other special circumstances, direct, before the absent member of the Tribunal resumes duty, that the person so appointed shall continue to act under the appointment after the resumption of duty by the absent member until the Governor‑General terminates the appointment, but a person shall not continue to act as a member of the Tribunal by virtue of this subsection for more than 12 months after the resumption of duty by the absent member.
 
@@ -2855,13 +2851,25 @@ Note:          Subsection 103(2) provides that any presidentia
 
 ##### <a id="44A"></a>44A  Acting appointments
 
-                   The Minister may appoint a person who is engaged under the _Public Service Act 1999_ to act as the Registrar or as a Deputy Registrar during any period, or during all periods, when:
+             (1)  The Minister may appoint a person who is engaged under the _Public Service Act 1999_ to act as the Registrar or as a Deputy Registrar during any period, or during all periods, when:
 
                      (a)  the Registrar or that Deputy Registrar, as the case may be, is absent from duty or from Australia or is, for any other reason, unable to perform the duties and functions of his or her office; or
 
                      (b)  there is a vacancy in the office of Registrar or in that office of Deputy Registrar, as the case may be.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  A person acting as the Registrar or as a Deputy Registrar by reason of a vacancy in the office of Registrar or of that Deputy Registrar shall not continue so to act after the expiration of 12 months after the occurrence of the vacancy.
+
+             (3)  A person appointed to act as the Registrar or as a Deputy Registrar has, while acting as the Registrar or as that Deputy Registrar, as the case may be, all the duties and functions of the Registrar or of that Deputy Registrar, and references in this Act to the Registrar or to a Deputy Registrar shall:
+
+                     (a)  if a person is acting as the Registrar—be read as a reference to the person so acting; or
+
+                     (b)  if a person is acting as a Deputy Registrar—be read as including a reference to the person so acting.
+
+             (4)  The Minister may at any time terminate an appointment of a person to act as the Registrar or as a Deputy Registrar.
+
+             (5)  A person who holds an appointment to act as the Registrar or as a Deputy Registrar may resign his or her appointment by writing under his or her hand delivered to the Minister.
+
+             (6)  The validity of an act done by a person appointed to act as the Registrar or as a Deputy Registrar shall not be questioned in any proceeding on a ground arising from the fact that the occasion for the appointment, or for him or her to act under the appointment, had not arisen or that the appointment had ceased to have effect or the occasion for him or her to act under the appointment had passed.
 
 ## Part IIIAA—The Australian Energy Regulator (AER)
 
@@ -3037,9 +3045,19 @@ Paid employment
 
                      (b)  during any period, or during all periods, when the Commonwealth AER member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
              (2)  If a person acting as the Commonwealth AER member ceases to be a member of the Commission, then the appointment to act as the Commonwealth AER member also ceases.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="44AP"></a>44AP  Appointment of State/Territory AER members
 
@@ -3059,7 +3077,7 @@ Note:          A State/Territory AER member is also taken to b
 
                      (b)  during any period, or during all periods, when the State/Territory AER member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
              (2)  A person is not eligible for appointment to act as a State/Territory AER member unless the person, being a person who has knowledge of, or experience in, industry, commerce, economics, law, consumer protection or public administration, has been nominated for appointment in accordance with the Australian Energy Market Agreement.
 
@@ -3083,9 +3101,19 @@ Note:          A person may cease to be the AER Chair without 
 
                      (b)  during any period, or during all periods, when the AER Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
              (2)  If a person acting as the AER Chair ceases to be an AER member, then the appointment to act as the AER Chair also ceases.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="44AT"></a>44AT  Remuneration of AER members
 
@@ -3357,7 +3385,7 @@ the Federal Court may, on application by the AER on behalf of the Commonwealth, 
 
 to an AER member or to an SES employee, or acting SES employee, assisting the AER as mentioned in section 44AAC.
 
-Note 1:       Section 2B of the _Acts Interpretation Act 1901_ contains the definitions of **_SES employee_** and **_acting SES employee_**.
+Note 1:       Section 17AA of the _Acts Interpretation Act 1901_ contains the definitions of **_SES employee_** and **_acting SES employee_**.
 
 Note 2:       See also sections 34AA to 34A of the _Acts Interpretation Act 1901_, which contain extra rules about delegations.
 
@@ -4150,7 +4178,7 @@ Note:          There are limits on the information to which th
 
                              (ii)  if no period is so specified—the decision of the Tribunal on the application for review comes into operation.
 
-##### <a id="44KB"></a>44KB  Tribunal may order costs be awarded
+##### <a id="44KB"></a>44KB  Tribunal may order costs be awarded
 
              (1)  If the Tribunal is satisfied that it is appropriate to do so, the Tribunal may order that a person who has been made a party to proceedings for a review of a declaration under section 44K pay all or a specified part of the costs of another person who has been made a party to the proceedings.
 
@@ -9585,7 +9613,7 @@ For this purpose, **_law_** means an Act, State Act, enactment or Ordinance.
 
                      (b)  to any provision of a contract of service or of a contract for the provision of services, being a provision under which a person, not being a body corporate, agrees to accept restrictions as to the work, whether as an employee or otherwise, in which he or she may engage during, or after the termination of, the contract;
 
-                     (c)  to any provision of a contract, arrangement or understanding, being a provision obliging a person to comply with or apply standards of dimension, design, quality or performance prepared or approved by Standards Australia or by a prescribed association or body;
+                     (c)  to any provision of a contract, arrangement or understanding, being a provision obliging a person to comply with or apply standards of dimension, design, quality or performance prepared or approved by Standards Australia International Limited or by a prescribed association or body;
 
                      (d)  to any provision of a contract, arrangement or understanding between partners none of whom is a body corporate, being a provision in relation to the terms of the partnership or the conduct of the partnership business or in relation to competition between the partnership and a party to the contract, arrangement or understanding while he or she is, or after he or she ceases to be, a partner;
 
@@ -9871,9 +9899,9 @@ then:
 
 ## Part VI—Enforcement and remedies
 
-##### <a id="75B"></a>75B  Interpretation
+##### <a id="75B"></a>75B  Interpretation [_see_ Note 2]
 
-             (1)  A reference in this Part to a person involved in a contravention of a provision of Part IV or IVB, or of section 95AZN, shall be read as a reference to a person who:
+             (1)  A reference in this Part to a person involved in a contravention of a provision of Part IV, IVA, IVB, V or VC, or of section 95AZN, shall be read as a reference to a person who:
 
                      (a)  has aided, abetted, counselled or procured the contravention;
 
@@ -10097,7 +10125,7 @@ Definitions
 
 the relevant offence is taken to be punishable on conviction by a fine not exceeding 5 penalty units.
 
-##### <a id="78"></a>78  Criminal proceedings not to be brought for contraventions of Part IV
+##### <a id="78"></a>78  Criminal proceedings not to be brought for contraventions of Part IV or V [_see_ Note 2]
 
                    Criminal proceedings do not lie against a person by reason only that the person:
 
@@ -10113,7 +10141,7 @@ the relevant offence is taken to be punishable on conviction by a fine not excee
 
                       (f)  has conspired with others to contravene such a provision.
 
-##### <a id="79"></a>79  Offences against section 44ZZRF or 44ZZRG
+##### <a id="79"></a>79  Offences against section 44ZZRF or 44ZZRG
 
              (1)  A person who:
 
@@ -10465,15 +10493,15 @@ Court may make orders even if not satisfied of all matters
 
                      (b)  for an order under subsection (4)—the matters in subsections (1) and (4).
 
-##### <a id="82"></a>82  Actions for damages
+##### <a id="82"></a>82  Actions for damages [_see_ Note 2]
 
-             (1)  A person who suffers loss or damage by conduct of another person that was done in contravention of a provision of Part IV or IVB may recover the amount of the loss or damage by action against that other person or against any person involved in the contravention.
+             (1)  A person who suffers loss or damage by conduct of another person that was done in contravention of a provision of Part IV, IVA, IVB or V or section 51AC may recover the amount of the loss or damage by action against that other person or against any person involved in the contravention.
 
              (2)  An action under subsection (1) may be commenced at any time within 6 years after the day on which the cause of action that relates to the conduct accrued.
 
-##### <a id="83"></a>83  Finding in proceedings to be evidence
+##### <a id="83"></a>83  Finding in proceedings to be evidence [_see_ Note 2]
 
-                   In a proceeding against a person under section 82 or in an application under subsection 51ADB(1) or 87(1A) for an order against a person, a finding of any fact by a court made in proceedings under section 77, 80, 81, 86C, 86D or 86E, or for an offence against section 44ZZRF or 44ZZRG, in which that person has been found to have contravened, or to have been involved in a contravention of, a provision of Part IV or IVB is _prima facie_ evidence of that fact and the finding may be proved by production of a document under the seal of the court from which the finding appears.
+                   In a proceeding against a person under section 82 or in an application under subsection 51ADB(1) or 87(1A) for an order against a person, a finding of any fact by a court made in proceedings under section 77, 80, 81, 86C, 86D or 86E, or for an offence against section 44ZZRF or 44ZZRG, in which that person has been found to have contravened, or to have been involved in a contravention of, a provision of Part IV, IVA, IVB, V or VC is _prima facie_ evidence of that fact and the finding may be proved by production of a document under the seal of the court from which the finding appears.
 
 ##### <a id="84"></a>84  Conduct by directors, employees or agents
 
@@ -10543,11 +10571,11 @@ the person is not liable to be punished by imprisonment for that offence.
 
 but that the person acted honestly and reasonably and, having regard to all the circumstances of the case, ought fairly to be excused, the Court may relieve the person either wholly or partly from liability to any penalty or damages on such terms as the Court thinks fit.
 
-##### <a id="86"></a>86  Jurisdiction of courts
+##### <a id="86"></a>86  Jurisdiction of courts [_see_ Note 2]
 
        (1AA)  A reference in this section to this Act, or to a Part, Division or section of this Act, is a reference to this Act, or to that Part, Division or section, as it has effect as a law of the Commonwealth.
 
-             (1)  Jurisdiction is conferred on the Federal Court in any matter arising under this Act in respect of which a civil proceeding has, whether before or after the commencement of this section, been instituted under this Part.
+             (1)  Jurisdiction is conferred on the Federal Court in any matter arising under this Act in respect of which a civil proceeding has, whether before or after the commencement of this section, been instituted under this Part or has been instituted in relation to subsection 2(1) of the Australian Consumer Law (as applied under Division 1 of Part XI).
 
           (1A)  Jurisdiction is conferred on the Federal Magistrates Court in any matter arising under section 46 or Part IVB in respect of which a civil proceeding is instituted by a person other than the Minister.
 
@@ -10747,7 +10775,7 @@ Definition
 
 ##### <a id="87"></a>87  Other orders [_see_ Note 2]
 
-             (1)  Without limiting the generality of section 80, where, in a proceeding instituted under this Part, or for an offence against section 44ZZRF or 44ZZRG, the Court finds that a person who is a party to the proceeding has suffered, or is likely to suffer, loss or damage by conduct of another person that was engaged in (whether before or after the commencement of this subsection) in contravention of a provision of Part IV or Division 2 of Part IVB the Court may, whether or not it grants an injunction under section 80 or makes an order under section 82, 86C, 86D or 86E, make such order or orders as it thinks appropriate against the person who engaged in the conduct or a person who was involved in the contravention (including all or any of the orders mentioned in subsection (2) of this section) if the Court considers that the order or orders concerned will compensate the first‑mentioned person in whole or in part for the loss or damage or will prevent or reduce the loss or damage.
+             (1)  Without limiting the generality of section 80, where, in a proceeding instituted under this Part, or for an offence against section 44ZZRF or 44ZZRG, the Court finds that a person who is a party to the proceeding has suffered, or is likely to suffer, loss or damage by conduct of another person that was engaged in (whether before or after the commencement of this subsection) in contravention of a provision of Part IV, IVA, IVB, V or VC, or of the Australian Consumer Law, the Court may, whether or not it grants an injunction under section 80 or makes an order under section 82, 86C, 86D or 86E, make such order or orders as it thinks appropriate against the person who engaged in the conduct or a person who was involved in the contravention (including all or any of the orders mentioned in subsection (2) of this section) if the Court considers that the order or orders concerned will compensate the first‑mentioned person in whole or in part for the loss or damage or will prevent or reduce the loss or damage.
 
           (1A)  Without limiting the generality of sections 51ADB and 80, the Court may:
 
@@ -11095,7 +11123,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  This diagram shows when this Division prevents an award of personal injury damages.
 
-![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00945/Html/1b060e7e-8c92-4803-98a9-9dbfa36eb72a_files/image002.gif)
 
 ##### <a id="87G"></a>87G  Date of discoverability
 
@@ -11207,7 +11235,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
                      (b)  during a later year—the amount worked out (to the nearest multiple of $10) as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00945/Html/1b060e7e-8c92-4803-98a9-9dbfa36eb72a_files/image003.gif)
 
                             where:
 
@@ -11640,7 +11668,7 @@ the court must not award as personal injury damages for the services:
 
                    A court must not, in a proceeding to which this Part applies, award personal injury damages for economic loss due to the loss of employer superannuation contributions an amount that exceeds the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00945/Html/1b060e7e-8c92-4803-98a9-9dbfa36eb72a_files/image004.gif)
 
 where:
 
@@ -13042,9 +13070,9 @@ taken to be refused;</li>
 
 <li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      it
 
-cannot grant the authorisation unless it is satisfied that the acquisition would
+cannot grant the authorisation unless it is satisfied that the acquisition
 
-result, or be likely to result, in such a benefit to the public that the
+would result, or be likely to result, in such a benefit to the public that the
 
 acquisition should be allowed to take place.</li>
 
