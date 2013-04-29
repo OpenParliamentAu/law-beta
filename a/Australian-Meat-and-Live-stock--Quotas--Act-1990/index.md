@@ -1,47 +1,53 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C00233/Html/e7d207a4-79ca-4174-b424-efcd3c639d2d_files/image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C02180/Html/AusMeatLSQuota90_image001.gif)
 
-# Australian Meat and Live‑stock (Quotas) Act 1990 
+# Australian Meat and Live-stock (Quotas) Act 1990 
 
 **Act No. 117 of 1990 as amended**
 
-This compilation was prepared on 2 February 2000
- taking into account amendments up to Act No. 146 of 1999
+Consolidated as in force on 23 February 1999
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to Act No. 207 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
+ 
+
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+1             Short title [_see_ Note1]                                                                         
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+2             Commencement [_see_ Note1]                                                               
 
-[3](#3).            Definitions                                                                                           1
+3             Definitions                                                                                           
 
-[4](#4).            Object of this Act                                                                                 2
+4             Object of this Act                                                                                
 
-[5](#5).            Limitation on exports                                                                           2
+5             Limitation on exports                                                                          
 
-[6](#6).            Quotas                                                                                                  2
+6             Quotas                                                                                                 
 
-[7](#7).            Secretary not obliged to grant quota                                                     3
+7             Secretary not obliged to grant quota                                                    
 
-[8](#8).            Act to have effect subject to Division 3 of Part 2 of the _Australian Meat and Live‑stock Industry Act 1997_           3
+8             Act to have effect subject to Division 3 of Part 2 of the _Australian Meat and Live-stock Industry Act 1997_            
 
-[8A](#8A).         Delegation                                                                                            3
+8A          Delegation                                                                                            
 
-[9](#9).            Regulations                                                                                          3
+9             Regulations                                                                                          
 
-**Notes** 
+#  
 
-## An Act relating to the establishment of systems of quotas to protect the orderly export of Australian meat and live‑stock
+## An Act relating to the establishment of systems of quotas to protect the orderly export of Australian meat and live-stock
+
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
+## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Meat and Live‑stock (Quotas) Act 1990_.
+                   This Act may be cited as the _Australian Meat and Live-stock (Quotas) Act 1990_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -57,13 +63,13 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="export"></a>**_export_** means export from Australia.
 
-                    <a name="good"></a>**_goods_** means meat or live‑stock, as the case requires.
+                    <a name="good"></a>**_goods_** means meat or live-stock, as the case requires.
 
                     <a name="quota"></a>**_quota_** means a quota referred to in section 6.
 
                     <a name="restrict"></a>**_restriction_** includes an economic disincentive, such as a tariff.
 
-             (2)  Unless the contrary intention appears, expressions used in this Act have the same meanings as in Part 2 of the _Australian Meat and Live‑stock Industry Act 1997_.
+             (2)  Unless the contrary intention appears, expressions used in this Act have the same meanings as in Part 2 of the _Australian Meat and Live-stock Industry Act 1997_.
 
              (3)  For the purposes of this Act, the factors by reference to which a class of goods may be determined include, but are not limited to, the following:
 
@@ -115,27 +121,27 @@ Prepared by the Office of Legislative Drafting,
 
 if the Secretary is satisfied that it is not in the best interests of the industry to do so.
 
-##### <a id="8  Act to have effect subject to Division 3 of Part 2 of the Australian Meat and Live‑stock Industry Act 1997"></a>8  Act to have effect subject to Division 3 of Part 2 of the Australian Meat and Live‑stock Industry Act 1997
+##### <a id="8  Act to have effect subject to Division 3 of Part 2 of the Australian Meat and Live-stock Industry Act 1997"></a>8  Act to have effect subject to Division 3 of Part 2 of the Australian Meat and Live-stock Industry Act 1997
 
-                   This Act has effect subject to Division 3 of Part 2 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                   This Act has effect subject to Division 3 of Part 2 of the _Australian Meat and Live-stock Industry Act 1997_.
 
 ##### <a id="8A"></a>8A  Delegation
 
-                   The Secretary may, in writing, delegate all or any of the Secretary’s powers under this Act to a person engaged under the _Public Service Act 1999_, who is employed in the Department.
+                   The Secretary may, in writing, delegate all or any of the Secretary’s powers under this Act to an officer, within the meaning of the _Public Service Act 1922_, or to an APS employee, within the meaning of the _Public Service Act 1997_, who is employed in the Department.
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations prescribing all matters:
+                   The Governor-General may make regulations prescribing all matters:
 
                      (a)  that are required or permitted by this Act to be prescribed; or
 
                      (b)  that are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Australian Meat and Live-stock (Quotas) Act 1990_
+ 
 
-### Note 1
+# NOTE
 
-The _Australian Meat and Live‑stock (Quotas) Act 1990_ as shown in this compilation comprises Act No. 117, 1990 amended as indicated in the Tables below.
+1\.   The _Australian Meat and Live-stock (Quotas) Act 1990_ as shown in this reprint comprises Act No. 117, 1990 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -148,28 +154,30 @@ The _Australian Meat and Live‑stock (Quotas) Act 1990_ as shown in this compil
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
-    <div>Australian Meat and Live‑stock (Quotas) Act 1990</div>
+    <div>Australian Meat and Live-stock (Quotas) Act 1990</div>
   </td>
   <td>
     <div>117, 1990</div>
@@ -178,7 +186,7 @@ of Assent</div>
     <div>28 Dec 1990</div>
   </td>
   <td>
-    <div>28 Dec 1990</div>
+    <div>28 Dec 1990 <i>(a)</i></div>
   </td>
   <td>
     <div></div>
@@ -186,7 +194,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Meat and Live‑stock (Quotas) Amendment Act 1993</div>
+    <div>Australian Meat and Live-stock (Quotas) Amendment Act 1993</div>
   </td>
   <td>
     <div>75, 1993</div>
@@ -220,7 +228,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997</div>
+    <div>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997</div>
   </td>
   <td>
     <div>207, 1997</div>
@@ -229,24 +237,7 @@ of Assent</div>
     <div>17 Dec 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (item 11): Royal Assent Schedule 1 (items 1–10): 1 July 1998 ( <i>see (a)</i>and <i>Gazette</i>1998, No. GN22)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 210): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    <div>Schedule 1 (item 11): Royal Assent Schedule 1 (items 1-10): 1 July 1998 ( <i>see (a)</i>and <i>Gazette</i>1998, No. GN 22)</div>
   </td>
   <td>
     <div>—</div>
@@ -255,19 +246,17 @@ of Assent</div>
 
  
 
-_(a)_ The _Australian Meat and Live‑stock (Quotas) Act 1990_ was amended by Schedule 1 only of the _Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997_, subsections 2(2) and 2(3) of which provide as follows:
+_(a)_ The _Australian Meat and Live-stock (Quotas) Act 1990_ was amended by Schedule 1 only of the _Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997_, subsections 2(2) and 2(3) of which provide as follows:
 
-                 (2)   Item 11 of Schedule 1, item 20 of Schedule 2, Part 1 of Schedule 5, Divisions 1, 4 and 8 of Part 4 of Schedule 5 and Part 6 of Schedule 5 commence on the day on which this Act receives the Royal Assent.
+                 “(2)   Item 11 of Schedule 1, item 20 of Schedule 2, Part 1 of Schedule 5, Divisions 1, 4 and 8 of Part 4 of Schedule 5 and Part 6 of Schedule 5 commence on the day on which this Act receives the Royal Assent.
 
-                 (3)   Subject to subsection (5), Schedule 1 (other than item 11), Schedule 2 (other than item 20), and Part 2 of Schedule 5, commence on the same day as Part 2 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                 “(3)   Subject to subsection (5), Schedule 1 (other than item 11), Schedule 2 (other than item 20), and Part 2 of Schedule 5, commence on the same day as Part 2 of the _Australian Meat and Live-stock Industry Act 1997_.”.
 
-_(b)_ The _Australian Meat and Live‑stock (Quotas) Act 1990_ was amended by Schedule 1 (item 210) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                 (2)   Subject to this section, this Act commences at the commencing time.
+ 
 
 ## Table of Amendments
+
+##  
 
 <table>
 <colgroup>
@@ -275,11 +264,13 @@ _(b)_ The _Australian Meat and Live‑stock (Quotas) Act 1990_ was amended by Sc
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -290,7 +281,7 @@ _(b)_ The _Australian Meat and Live‑stock (Quotas) Act 1990_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>Ss. 3‑6</div>
+    <div>Ss. 3-6</div>
   </td>
   <td>
     <div>am. No. 68, 1995; No. 207, 1997</div>
@@ -350,14 +341,6 @@ _(b)_ The _Australian Meat and Live‑stock (Quotas) Act 1990_ was amended by Sc
   </td>
   <td>
     <div>rs. No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
