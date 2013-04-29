@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00422/Html/B9F2AB276D17A5B0CA2571A80022E355/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00215/Html/773648953E05D64BCA25715D0024817E/$FILE/image001.gif)
 
 # Petroleum Excise (Prices) Act 1987
 
 **Act No. 149 of 1987 as amended**
 
-This compilation was prepared on 10 July 2006
-taking into account amendments up to Act No. 74 of 2006
+This compilation was prepared on 7 April 2006
+taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -77,7 +77,7 @@ Canberra
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="excis-crude-petroleum-oil"></a>**_excisable crude petroleum oil_** means stabilised crude petroleum oil in respect of which subitem 20.5, 20.6 or 20.7 of the Schedule to the _Excise Tariff Act 1921_ applies, or will, upon the entry of the oil for home consumption, apply.
+                    <a name="excis-crude-petroleum-oil"></a>**_excisable crude petroleum oil_** means stabilised crude petroleum oil in respect of which paragraph 17(A)(2) in the Schedule to the _Excise Tariff Act 1921_ applies, or will, upon the entry of the oil for home consumption, apply.
 
                     <a name="final-volwar-price"></a>**_final VOLWARE price_**, in relation to a month and an oil producing region, means the price determined under subsection 7(3) for that month and that region.
 
@@ -145,7 +145,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part II—Determination of prices
 
-##### <a id="6"></a>6  Oil producers to give certain information
+##### <a id="6"></a>6  Oil producers to give certain information
 
              (1)  An oil producer of excisable crude petroleum oil entered for home consumption during a particular month shall, in respect of each transaction entered into by the producer concerning that oil, give to the Minister such information as is prescribed.
 
@@ -269,7 +269,7 @@ and the oil producer shall give the information accordingly.
 
 ## Part III—Miscellaneous
 
-##### <a id="9"></a>9  Inspection of documents
+##### <a id="9"></a>9  Inspection of documents
 
              (1)  For the purpose of verifying information given to the Minister by an oil producer under section 6, a person authorised in writing by the Minister to exercise powers under this section:
 
@@ -561,23 +561,6 @@ Remainder: 24 May 2001
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006</div>
-    </td>
-    <td>
-      <div>74, 2006</div>
-    </td>
-    <td>
-      <div>26 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 95): 1 July 2006</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -617,7 +600,7 @@ _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedu
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; No. 74, 2006</div>
+      <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
@@ -693,7 +676,7 @@ The following amendment commences on proclamation:
 
 Omit “licensee within the meaning of the _Petroleum (Submerged Lands) Act 1967_”, substitute “production licensee within the meaning of the _Offshore Petroleum Act 2006_”.
 
-As at 10 July 2006 the amendment is not incorporated in this compilation.
+As at 7 April 2006 the amendment is not incorporated in this compilation.
 
 
 ## Table A
