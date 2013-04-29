@@ -1,11 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2012C00407/Html/fdc0286c-a63d-487a-9875-e7f1326a0ccc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00257/Html/9b36cf54-9e03-4b10-89cd-5a1e4c362a41_files/image001.gif)
 
 # Clean Energy Regulator Act 2011
 
 **Act No. 163 of 2011 as amended**
 
-This compilation was prepared on 2 April 2012
+This compilation was prepared on 15 February 2012
  taking into account amendments up to Act No. 152 of 2011
+
+[**Note**: Sections 3–57 of this Act are not in force, _see_ s. 2(1) and Note 1]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -695,7 +697,7 @@ Note 2:       For rules that apply to acting appointments, see secti
 
 ### Division 4—Decision‑making by the Regulator
 
-##### <a id="29"></a>29  Holding of meetings
+##### <a id="29"></a>29  Holding of meetings
 
              (1)  The Regulator is to hold such meetings as are necessary for the performance of its functions.
 
@@ -1383,6 +1385,8 @@ Conditions
 
 The _Clean Energy Regulator Act 2011_ as shown in this compilation comprises Act No. 163, 2011 amended as indicated in the Tables below.
 
+Sections 3–57 of this Act are not in force, _see_ s. 2(1).
+
 ### Table of Acts
 
 <table>
@@ -1426,7 +1430,7 @@ of Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Ss. 3–57: 2 Apr 2012 
+    <div>Ss. 3–57: ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1567,6 +1571,6 @@ Insert:
 
                    (ua)  the Australian Renewable Energy Agency;
 
-As at 2 April 2012 the amendment is not incorporated in this compilation.
+As at 15 February 2012 the amendment is not incorporated in this compilation.
 
  
