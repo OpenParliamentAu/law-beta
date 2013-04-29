@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00320/Html/98f5c8ff-38e7-4043-926e-31c5fec99e8c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00929/Html/41eb1eb4-112a-4e1f-8f94-f27322227a26_files/image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 21 March 2012
+This compilation was prepared on 2 December 2011
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force 
@@ -619,8 +619,6 @@ _Related legislation_
              (1)  Expressions used in this Act (or in a particular provision of this Act) that are defined in the Dictionary at the end of this Act have the meanings given to them in the Dictionary.
 
 Note:          Some expressions used in this Act are defined in the _Acts Interpretation Act 1901_, and have the meanings given to them in that Act.
-
-          (1A)  The Dictionary at the end of this Act is part of this Act.
 
              (2)  Notes included in this Act are explanatory notes and do not form part of this Act.
 
@@ -1564,7 +1562,7 @@ Note:          Section 182 gives this section a wider applic
 
              (3)  The opinion rule does not apply to evidence adduced in accordance with a direction under this section.
 
-##### <a id="51"></a>51  Original document rule abolished
+##### <a id="51"></a>51  Original document rule abolished
 
                    The principles and rules of the common law that relate to the means of proving the contents of documents are abolished.
 
@@ -1638,7 +1636,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2012C00320/Html/98f5c8ff-38e7-4043-926e-31c5fec99e8c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00929/Html/41eb1eb4-112a-4e1f-8f94-f27322227a26_files/image002.gif)
 
  
 
@@ -2104,7 +2102,7 @@ _Examples:_
 
 ##### <a id="77"></a>77  Exception: evidence relevant otherwise than as opinion evidence
 
-                   The opinion rule does not apply to evidence of an opinion that is admitted because it is relevant for a purpose other than proof of the existence of a fact about the existence of which the opinion was expressed.
+                   The opinion rule does not apply to evidence of an opinion that is admitted because it is relevant for a purpose other than proof of the existence of a fact about the existence of which the opinion was expressed.
 
 ##### <a id="78"></a>78  Exception: lay opinions
 
@@ -4020,7 +4018,7 @@ Note:          Section 182 gives this Division a wider appli
 
                      (g)  in relation to evidence that a person has been convicted of an offence, being evidence to which subsection 92(2) applies—to call as a witness a person who gave evidence in the proceeding in which the person was so convicted.
 
-##### <a id="167"></a>167  Requests may be made about certain matters
+##### <a id="167"></a>167  Requests may be made about certain matters
 
                    A party may make a reasonable request to another party for the purpose of determining a question that relates to:
 
@@ -5508,7 +5506,7 @@ Royal Assent <i>(d)</i></div>
     <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5624,7 +5622,7 @@ Royal Assent <i>(d)</i></div>
     <div>4 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–99) and Schedule 2 (items 1–13): 1 Jan 2009</div>
+    <div>Schedule 1 (items 1–99) and Schedule 2 (items 1–13): 1 Jan 2009</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -5659,7 +5657,7 @@ Royal Assent <i>(d)</i></div>
     <div>8 July 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (item 32): 5 Aug 2009</div>
+    <div>Schedule 3 (item 32): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -5693,7 +5691,7 @@ Royal Assent <i>(d)</i></div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): 13 Apr 2011</div>
+    <div>Schedule 1 (items 1–3): 13 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5710,10 +5708,10 @@ Royal Assent <i>(d)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 566) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 566) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -5727,7 +5725,7 @@ Royal Assent <i>(d)</i></div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 260A): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 1 (item 260A): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -5813,22 +5811,6 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
   </td>
   <td>
     <div>am. No. 100, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1.1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7181,6 +7163,22 @@ of Part 4.6</div>
 
 ### Note 2
 
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 566  After subsection 3(1)
+
+Insert:
+
+          (1A)  The Dictionary at the end of this Act is part of this Act.
+
+As at 2 December 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
 The following amendment commences on 1 July 2012:
@@ -7191,7 +7189,7 @@ The following amendment commences on 1 July 2012:
 
 After “section 46”, insert “or 46A”.
 
-As at 21 March 2012 the amendment is not incorporated in this compilation.
+As at 2 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -7333,6 +7331,8 @@ The amendments made by this Schedule do not apply in relation to proceedings the
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
