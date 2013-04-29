@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00528/Html/3c40fc46-4c80-4d98-99b9-0fd0c25298c8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00382/Html/870b8b3b-e6a6-4639-9eef-881e5cf57eab_files/image001.gif)
 
 # Education Services for Overseas Students (Registration Charges) Amendment Act 2011
 
 **Act No. 105 of 2011 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 29 March 2012
  taking into account amendments up to Act No. 9 of 2012
 
 The text of any of those amendments not in force
@@ -357,7 +357,7 @@ Repeal the section, substitute:
 
 (1)       The amendments made by this Schedule (other than the amendments made by items 6 and 13 of this Schedule) apply on and after the first 1 January that occurs after this Schedule commences.
 
-(2)       The amendment made by item 6 of this Schedule applies in relation to any recommendation made by a designated authority under section 9AA of the _Education Services for Overseas Students Act 2000_ on or after the first 1 January that occurs after this Schedule commences.
+(2)       The amendment made by item 6 of this Schedule applies in relation to any recommendation made by a designated authority for a State under section 9 of the _Education Services for Overseas Students Act 2000_ on or after the first 1 January that occurs after this Schedule commences.
 
 # Notes to the _Education Services for Overseas Students (Registration Charges) Amendment Act 2011_
 
@@ -426,7 +426,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 2 (item 88): <i>(a)</i></div>
+    <div>Schedule 2 (item 88): \[ <i>see</i> <i>(a)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -515,7 +515,7 @@ _(a)_     Subsection 2(1) (items 6 and 8) of the _Education Services f
   </td>
   <td>
     <div>
-      1 July 2012
+
     </div>
   </td>
 </tr>
@@ -545,52 +545,26 @@ _(a)_     Subsection 2(1) (items 6 and 8) of the _Education Services f
   </td>
   <td>
     <div>
-      1 July 2012
-    </div>
-    <div>
-      (paragraph (a) applies)
+      \[
+        <i>see</i>Note 2]
+
+(paragraph (a) applies)
     </div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 14</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2012</div>
-  </td>
-</tr></table>
+The following amendment commences immediately after 1 July 2012:
+
+## Schedule 2
+
+## 88  Subitem 14(2) of Schedule 1
+
+Omit “for a State under section 9”, substitute “under section 9AA”.
+
+As at 29 March 2012 the amendments are not incorporated in this compilation.
 
  
