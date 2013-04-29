@@ -1,7 +1,7 @@
 
 Interstate Road Transport Act 1985
 Act No. 130 of 1985 as amended
-This compilation was prepared on 1 July 2000  taking into account amendments up to Act No. 40 of 2000
+This compilation was prepared on 30 May 2000  taking into account amendments up to Act No. 40 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -129,7 +129,9 @@ road safety matter means any matter that is directed at:
 standard monitoring device means a device that meets the requirements specified in regulations made for the purposes of subsection 36(1).
 State includes the Australian Capital Territory and the Northern Territory.
 State operator’s licence means a licence granted under a law of a State, being a licence of a kind that is declared by the regulations to be a State operator’s licence for the purposes of this Act.
-trailer means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle that is being towed.
+trailer means:
+	(a)	vehicle (other than a side‑car) without motive power designed for attachment to a motor vehicle; or
+	(b)	a piece of machinery or equipment that is equipped with wheels and designed to be towed behind a vehicle, but is not designed as a means of conveyance.
 vehicle means any means of conveyance which runs on wheels but does not include:
 	(a)	any vehicle used on a railway; or
 	(b)	any vehicle that has an MRC equal to or less than 4.5 tonnes.
@@ -433,7 +435,7 @@ government authority means:
 	(b)	an authority of a State, being an incorporated body but not being a local government body, that is responsible for the construction of roads in, or in an area of, the State.
 wages includes payments in the nature of wages.
 
-Part V—Licensing of interstate road transport operators (sections 24‑35)  [Not in operation—see Notes 2, 3]
+Part V—Licensing of interstate road transport operators (sections 24‑35) [Not in operation—see Notes 2, 3]
 
 Part VI—Monitoring devices
 36  Regulations may specify requirements for monitoring devices [see Note 2]
@@ -741,7 +743,7 @@ Interstate Road Transport Amendment Act 1998
 Interstate Road Transport Amendment Act 2000
 40, 2000
 3 May 2000
-(g)
+[see (g) and Note 4]
 —
 (a)	The Interstate Road Transport Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsections 2(12) and (13) of which provide as follows:
 	(12)	The amendment of paragraph 39(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 39 of the Interstate Road Transport Act 1985 comes or came into operation. 
@@ -759,14 +761,14 @@ Interstate Road Transport Amendment Act 2000
 (f)	The Interstate Road Transport Act 1985 was amended by Schedule 2 (items 881‑888) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (g)	The Interstate Road Transport Act 1985 was amended by the Interstate Road Transport Amendment Act 2000, section 2 of which provides as follows:
-	2	This Act commences immediately after the commencement of the Interstate Road Transport Charge Amendment Act 2000. 	The Interstate Road Transport Charge Amendment Act 2000 commenced on 1 July 2000 (see Gazette 2000, No. S303).
+	2	This Act commences immediately after the commencement of the Interstate Road Transport Charge Amendment Act 2000. [see Note 4]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
-am. No. 168, 1986; No. 23, 1990; No. 128, 1991; No. 50, 1995; No. 152, 1997; No. 43, 1998; No. 40, 2000
+am. No. 168, 1986; No. 23, 1990; No. 128, 1991; No. 50, 1995; No. 152, 1997; No. 43, 1998
 S. 3A	
 ad. No. 128, 1991
 
@@ -889,7 +891,7 @@ am. No. 39, 1988; No. 23, 1990; No. 128, 1991; No. 43, 1998
 Note 2
 Subsection 2(2) of the Interstate Road Transport Act 1985 provides as follows:
 	(2)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
-As at 1 July 2000 no date had been fixed for the commencement of Part V (sections 24‑35), subsections 36(1), (5) and section 37. They are set out below under the heading “EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1995)”. 
+As at 30 May 2000 no date had been fixed for the commencement of Part V (sections 24‑35), subsections 36(1), (5) and section 37. They are set out below under the heading “EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1995)”. 
 Note 3
 Section 30 was amended by section 3 and Schedule 1 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986. The provision of Schedule 1 applicable to the Interstate Road Transport Act 1985 provides as follows:
 Schedule 1
@@ -897,9 +899,15 @@ Subsection 30(5)
 Omit “the Licensing Authority is satisfied that”.
 Subsection 2(7) of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986 provides as follows:
 	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation.
-As at 1 July 2000 no date had been fixed for the amendment of subsection 30(5) and it is not incorporated in this compilation. 
+As at 30 May 2000 no date had been fixed for the amendment of subsection 30(5) and it is not incorporated in this compilation. 
 
-
+Note 4
+The following amendment commences immediately after Act No. 41, 2000, on 1 January 2001 if not proclaimed ealier:
+Schedule 1
+1  Subsection 3(1) (definition of trailer)
+Repeal the definition, substitute:
+trailer means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle that is being towed.
+As at 30 May 2000 the amendment is not incorporated in this compilation.
 EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1985)
 PART V—LICENSING OF INTERSTATE ROAD TRANSPORT OPERATORS
 24  Interpretation [see NOTE 3 below]
