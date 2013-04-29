@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00346/Html/TorresStraitFish1984_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00310/Html/TorresStraitFish1984_WD02_image001.gif)
 
 # Torres  Strait Fisheries Act 1984
 
 **Act No. 23 of 1984 as amended**
 
-This compilation was prepared on 11 May 2010
+This compilation was prepared on 19 April 2010
  taking into account amendments up to Act No. 39 of 2010
 
 The text of any of those amendments not in force
@@ -170,7 +170,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Court may make certain orders
 
-[46AA](#46AA).    Offences relating to a fish receiver licence
+[46AA](#46AA).    Receiving fish without a licence
 
 [46A](#46A).       Commercial fishing by foreign boat in territorial sea within an area of Australian jurisdiction—general
 
@@ -534,11 +534,7 @@ but does not, except to the extent necessary for the purposes of giving effect t
 
                     <a name="ceo"></a>**_CEO_** has the same meaning as in the _Fisheries Administration Act 1991_.
 
-                    <a name="commerci-fisher"></a>**_commercial fisher_** means the holder of a commercial fishing licence.
-
                     <a name="commerci-fish"></a>**_commercial fishing_** means fishing for commercial purposes, but does not include traditional fishing.
-
-                    <a name="commerci-fish-licenc"></a>**_commercial fishing licence_** means a licence that is in force under subsection 19(2) or (4).
 
                     <a name="commun-fish"></a>**_community fishing_** means commercial fishing carried on by:
 
@@ -579,8 +575,6 @@ but does not, except to the extent necessary for the purposes of giving effect t
                       (f)  aircraft use relating to any activity described in this definition except flights in emergencies involving the health or safety of crew members or the safety of a boat; or
 
                      (g)  the processing, carrying or transhipping of fish that have been taken.
-
-                    <a name="fish-receiv-licenc"></a>**_fish receiver licence_** means a licence that is in force under subsection 19(4B).
 
                     <a name="foreign-boat"></a>**_foreign boat_** means a boat other than an Australian boat or a Papua New Guinea boat.
 
@@ -2498,47 +2492,19 @@ the court may, in addition to imposing a penalty in respect of the offence, orde
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="46AA"></a>46AA  Offences relating to a fish receiver licence
+##### <a id="46AA"></a>46AA  Receiving fish without a licence
 
-             (1)  This section relates to fish taken from:
+                   A person (the **_fish receiver_**) commits an offence if:
 
-                     (a)  the Protected Zone; or
+                     (a)  the fish receiver has possession or control of fish which were taken by another person; and
 
-                     (b)  an area of waters that is declared under subsection 15(1).
+                     (b)  the possession or control is not authorised by a licence under subsection 19(3); and
 
-             (2)  A person commits an offence if:
+                     (c)  the taking of the fish by the other person required a licence under subsection 19(2) or (4A) or a Treaty endorsement; and
 
-                     (a)  the person receives fish directly from another person; and
+                     (d)  the fish are to be sold; and
 
-                     (b)  the fish were taken by the other person in circumstances that required the person to hold a commercial fishing licence, or a Treaty endorsement; and
-
-                     (c)  the person intends:
-
-                              (i)  to process the fish, other than for personal consumption or use; or
-
-                             (ii)  to sell the fish; and
-
-                     (d)  the person does not hold a licence that allows the person to receive fish under this Act.
-
-                    Penalty:  50 penalty units.
-
-             (3)  A person receives fish directly from another person if the person receives the fish from:
-
-                     (a)  the other person; or
-
-                     (b)  someone else who has been engaged by the other person to transport the fish to the person.
-
-             (4)  A person commits an offence if:
-
-                     (a)  the person holds a fish receiver licence; and
-
-                     (b)  the person receives fish from someone who is not a commercial fisher; and
-
-                     (c)  the person intends:
-
-                              (i)  to process the fish, other than for personal consumption or use; or
-
-                             (ii)  to sell the fish.
+                     (e)  the fish receiver does not have a licence under subsection 19(4B).
 
                     Penalty:  50 penalty units.
 
@@ -3839,7 +3805,7 @@ HAVE AGREED as follows:
 
                     (iii)  maintain traditional customary associations with areas or features in or in the vicinity of the Protected Zone in relation to their subsistence or livelihood or social, cultural or religious activities.
 
-     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2010C00346/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
+     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2010C00310/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
 
      3.    In this Treaty, the expression “in and in the vicinity of the Protected Zone” describes an area the outer limits of which might vary according to the context in which the expression is used. 
 
@@ -10463,7 +10429,7 @@ Note:          This clause corresponds closely to section 26
 
 Note:          This clause corresponds closely to section 261AG of the _Migration Act 1958_.
 
-##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non-citizen
+##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non-citizen
 
                    If the non-citizen requests that the identification test be carried out by an authorised officer of the same sex as the non-citizen, the test must only be carried out by an authorised officer of the same sex as the non-citizen.
 
@@ -10815,7 +10781,7 @@ Note:          This clause corresponds closely to section 33
 
 ##### <a id="50"></a>50  Application
 
-                   Section 15.4 of the _Criminal Code_ (extended geographical jurisdiction—category D) applies to all offences against this Division.
+                   Section 15.4 of the _Criminal Code_ (extended geographical jurisdiction—category D) applies to all offences against this Division.
 
 Note:          This clause corresponds closely to section 336B of the _Migration Act 1958_.
 
@@ -11041,7 +11007,7 @@ Note:          This clause corresponds closely to section 33
 
 ##### <a id="58"></a>58  Identifying information may be indefinitely retained
 
-                   Identifying information may be indefinitely retained.
+                   Identifying information may be indefinitely retained.
 
 Note:          This clause corresponds closely to paragraph 336L(1)(a) of the _Migration Act 1958_, because under this Schedule identifying information will always be about someone who is or has been in detention.
 
@@ -11133,7 +11099,7 @@ of Assent</div>
     <div>26 Apr 1984</div>
   </td>
   <td colspan="3">
-    <div>15 Feb 1985 ( <i>see Gazette</i>1985, No. S38)</div>
+    <div>15 Feb 1985 ( <i>see Gazette</i>1985, No. S38)</div>
   </td>
   <td>
     <div></div>
@@ -11239,7 +11205,7 @@ Remainder: 3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
     <div>25 Oct 1996</div>
   </td>
   <td colspan="3">
-    <div>Schedule 3 (item 26): 10 Nov 1991 <i>(b)</i></div>
+    <div>Schedule 3 (item 26): 10 Nov 1991 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11274,7 +11240,7 @@ Schedule: 18 Apr 1995 <i>(c)</i></div>
     <div>25 Oct 1996</div>
   </td>
   <td colspan="3">
-    <div>Schedule 5 (items 150–152): Royal Assent <i>(d)</i></div>
+    <div>Schedule 5 (items 150–152): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11308,11 +11274,12 @@ Schedule: 18 Apr 1995 <i>(c)</i></div>
     <div>24 Nov 2000</div>
   </td>
   <td colspan="3">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -11360,9 +11327,9 @@ Remainder: 24 May 2001</div>
     <div>23 Aug 2005</div>
   </td>
   <td colspan="3">
-    <div>Schedule 1 (items 1, 2, 35–45) and Schedule 2 (items 1–9): 24 Aug 2005 
-Schedule 1 (items 3–33) and Schedule 2 (items 10–12): 30 Nov 2005 ( <i>see</i>F2005L03632) 
-Schedule 1 (item 34): <i>(e) 
+    <div>Schedule 1 (items 1, 2, 35–45) and Schedule 2 (items 1–9): 24 Aug 2005 
+Schedule 1 (items 3–33) and Schedule 2 (items 10–12): 30 Nov 2005 ( <i>see</i>F2005L03632) 
+Schedule 1 (item 34): <i>(e) 
  </i>Remainder: Royal Assent</div>
   </td>
   <td>
@@ -11450,7 +11417,7 @@ Schedule 3 (items 285–320): 28 June 2008</div>
     <div>3 July 2008</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2 (item 22): <i>(f)</i></div>
+    <div>Schedule 2 (item 22): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11485,7 +11452,7 @@ Schedule 2 (items 13–18): 22 July 2008</div>
     <div>14 Dec 2009</div>
   </td>
   <td colspan="3">
-    <div>Schedule 1 (items 19, 20): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 1 (items 19, 20): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -11502,7 +11469,7 @@ Schedule 2 (items 13–18): 22 July 2008</div>
     <div>13 Apr 2010</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2: 11 May 2010</div>
+    <div>Schedule 2: \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -11728,7 +11695,7 @@ _(f)_      Subsection 2(1) (item 57) of the _Statute Law Revision Ac
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 163, 1991; No. 43, 1996; No. 137, 2000; No. 103, 2005; No. 61, 2006; No. 104, 2007; No. 36, 2008; No. 39, 2010</div>
+    <div>am. No. 163, 1991; No. 43, 1996; No. 137, 2000; No. 103, 2005; No. 61, 2006; No. 104, 2007; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -12225,14 +12192,6 @@ _(f)_      Subsection 2(1) (item 57) of the _Statute Law Revision Ac
   </td>
   <td>
     <div>ad. No. 104, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 39, 2010</div>
   </td>
 </tr>
 <tr>
@@ -13537,7 +13496,83 @@ Repeal the section, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 11 May 2010 the amendments are not incorporated in this compilation.
+As at 19 April 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Fisheries Legislation Amendment Act 2010 (No. 39, 2010)_
+
+The following amendments commence on 11 May 2010:
+
+## Schedule 2
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="commerci-fisher"></a>**_commercial fisher_** means the holder of a commercial fishing licence.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="commerci-fish-licenc"></a>**_commercial fishing licence_** means a licence that is in force under subsection 19(2) or (4).
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="fish-receiv-licenc"></a>**_fish receiver licence_** means a licence that is in force under subsection 19(4B).
+
+## 4  Section 46AA
+
+Repeal the section, substitute:
+
+##### <a id="46AA"></a>46AA  Offences relating to a fish receiver licence
+
+             (1)  This section relates to fish taken from:
+
+                     (a)  the Protected Zone; or
+
+                     (b)  an area of waters that is declared under subsection 15(1).
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person receives fish directly from another person; and
+
+                     (b)  the fish were taken by the other person in circumstances that required the person to hold a commercial fishing licence, or a Treaty endorsement; and
+
+                     (c)  the person intends:
+
+                              (i)  to process the fish, other than for personal consumption or use; or
+
+                             (ii)  to sell the fish; and
+
+                     (d)  the person does not hold a licence that allows the person to receive fish under this Act.
+
+                    Penalty:  50 penalty units.
+
+             (3)  A person receives fish directly from another person if the person receives the fish from:
+
+                     (a)  the other person; or
+
+                     (b)  someone else who has been engaged by the other person to transport the fish to the person.
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person holds a fish receiver licence; and
+
+                     (b)  the person receives fish from someone who is not a commercial fisher; and
+
+                     (c)  the person intends:
+
+                              (i)  to process the fish, other than for personal consumption or use; or
+
+                             (ii)  to sell the fish.
+
+                    Penalty:  50 penalty units.
+
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
