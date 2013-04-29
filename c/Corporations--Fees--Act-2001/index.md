@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C03047/Html/CorpFees2001_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03046/Html/CorpFees01_image001.gif)
 
 # Corporations (Fees) Act 2001
 
-**Act No. 52 of 2001 as amended**
+**Act No. 52 of 2001 as amended**
 
-This compilation was prepared on 2 May 2002
- taking into account amendments up to Act No. 22 of 2003
+This compilation was prepared on 11 March 2002
+ taking into account amendments up to Act No. 107 of 2001
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -28,11 +25,11 @@ Prepared by the Office of Legislative Drafting,
 
 [5](#5).            Imposition of fees for chargeable matters                                            2
 
-[6](#6).            Matters relating to amount of fees                                                      3
+[6](#6).            Matters relating to amount of fees                                                      2
 
 [7](#7).            Who is liable to pay the fee for a chargeable matter, and time liability is incurred  3
 
-[8](#8).            Regulations                                                                                          6
+[8](#8).            Regulations                                                                                          5
 
 [9](#9).            Transitional matters                                                                             6
 
@@ -210,7 +207,7 @@ Note:          The definition of **_chargeable matter_** in  s
 
 ### Note 1
 
-The _Corporations (Fees) Act 2001_ as shown in this compilation comprises Act No. 52, 2001 amended as indicated in the Tables below.
+The _Corporations (Fees) Act 2001_ as shown in this compilation comprises Act No. 52, 2001 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -262,10 +259,10 @@ of Assent</div>
     <div>52, 2001</div>
   </td>
   <td>
-    <div>28 June 2001</div>
+    <div>28 June 2001</div>
   </td>
   <td>
-    <div>15 July 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
+    <div>15 July 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
   </td>
   <td>
     <div></div>
@@ -287,26 +284,11 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Fees) Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>22, 2003</div>
-  </td>
-  <td>
-    <div>11 Apr 2003</div>
-  </td>
-  <td>
-    <div>\[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
@@ -314,27 +296,20 @@ of Assent</div>
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 107, 2001</div>
+    <div>am. No. 107, 2001</div>
   </td>
 </tr>
 <tr>
@@ -342,38 +317,18 @@ of Assent</div>
     <div>Ss. 6, 7</div>
   </td>
   <td>
-    <div>am. No. 107, 2001</div>
+    <div>am. No. 107, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr></table>
 
-### Note 2
 
-_Corporations (Fees) Amendment Act 2003 (No. 22, 2003)_
-
-The following amendments commence on 1 July 2003:
-
-## Schedule 1
-
-## 1  After section 5
-
-Insert:
-
-##### <a id="5A"></a>5A  Differential fees for electronic compliance in relation to a chargeable matter
-
-                   The regulations may prescribe, in relation to a chargeable matter, different fees having regard to whether the matter is complied with by electronic means.
-
-## 2  Paragraph 6(1)(a)
-
-Omit “$5,000”, substitute “$10,000”.
-
-## 3  Subsection 6(3)
-
-Omit “$25,000”, substitute “$50,000”.
-
-## 4  Section 8
-
-Omit “sections 5 and 6”, substitute “sections 5, 5A and 6”.
-
-As at 2 May 2003 the amendments are not incorporated in this compilation.
 
  
