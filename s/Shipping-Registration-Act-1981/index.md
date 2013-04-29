@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00043/Html/ShippingRegistration1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00573/Html/ShippingRegistration1981_image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 6 October 2006
+ taking into account amendments up to Act No. 24 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -259,7 +259,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
-##### <a id="3"></a>3  Interpretation
+##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -2253,24 +2253,6 @@ Schedule 4 (item 6): 6 Oct 2006</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-    </td>
-    <td>
-      <div>131, 2009</div>
-    </td>
-    <td>
-      <div>14 Dec 2009</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 3 (items 15–38): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 
-33–38) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -2967,149 +2949,6 @@ _(i)_      The _Shipping Registration Act 1981_ was amended by Schedul
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009 
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 15  Subsection 3(1) (definition of _mortgage_)
-
-Repeal the definition.
-
-## 16  Subsection 3(1)
-
-Insert:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act).
-
-Note:          The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-## 17  Part III (heading)
-
-Repeal the heading, substitute:
-
-## Part III—Transfers, transmissions, security interests and other dealings
-
-## 18  Sections 38 to 44A
-
-Repeal the sections.
-
-## 19  Section 47
-
-Omit “41,”.
-
-## 20  After subsection 47A(1)
-
-Insert:
-
-          (1A)  Subsection (1) does not apply to an interest in a ship, or in a share in a ship, that is a PPSA security interest.
-
-## 21  Paragraphs 47B(1)(a) and (b)
-
-Omit “, or as a mortgagee,”.
-
-## 22  Subsection 47D(3)
-
-Repeal the subsection, substitute:
-
-             (3)  A caveat does not prevent the Registrar from entering in the Register the transmission of a ship, or of a share in a ship, to a person if the person becomes entitled to the transmission by operation of law, except to the extent that the caveat specifies otherwise.
-
-## 23  Subparagraph 58(1)(b)(i)
-
-Omit “, other than particulars relating to a mortgage,”.
-
-## 24  Paragraph 58(3)(a)
-
-Omit “except so far as it relates to any unsatisfied mortgage of the ship”.
-
-## 25  After section 59
-
-Insert:
-
-##### <a id="59A"></a>59A  Rectification of Personal Property Securities Register
-
-             (1)  This section applies if:
-
-                     (a)  a financing statement describing a ship, or a share in a ship, has been registered in the PPS Register; and
-
-                     (b)  any of the following circumstances apply (whether or not by reason of a decision of the PPS Registrar):
-
-                              (i)  data in relation to the financing statement (including the entire registration) has been removed from the PPS Register;
-
-                             (ii)  the financing statement, or a financing change statement to amend the financing statement, was wrongly registered, or was registered without sufficient cause;
-
-                            (iii)  there is an error, omission or other defect in the financing statement.
-
-             (2)  A person aggrieved by the circumstance or the PPS Registrar may apply to the Supreme Court of a State or Territory for rectification of the PPS Register.
-
-             (3)  Notice of an application under subsection (2) by a person aggrieved must be served on the PPS Registrar, who:
-
-                     (a)  may appear and be heard; and
-
-                     (b)  must appear if so directed by the Court.
-
-             (4)  On an application under subsection (2), the Court may make such order as it thinks fit directing the rectification of the PPS Register.
-
-             (5)  A Court may, in proceedings on an application under subsection (2), decide any question that it is necessary or expedient to decide in connection with the rectification of the PPS Register.
-
-             (6)  An office copy of an order under subsection (4) must be served on the PPS Registrar, and the PPS Registrar must, upon receipt of the order, rectify the PPS Register accordingly.
-
-             (7)  If the PPS Register is rectified under this section, but could have been similarly rectified under a provision of the _Personal Property Securities Act 2009_, that Act applies as if the PPS Register had been rectified under that provision of the _Personal Property Securities Act 2009_.
-
-Note:          The _Personal Property Securities Act 2009_ includes various rules about access to data in the PPS Register that has been the subject of rectification under that Act. Subsection (7) of this section ensures that those rules apply in relation to rectification under this Act as well.
-
-             (8)  In this section:
-
-                    <a name="financ-chang-statem"></a>**_financing change statement_** has the meaning given by the _Personal Property Securities Act 2009_.
-
-                    <a name="financ-statem"></a>**_financing statement_** has the meaning given by the _Personal Property Securities Act 2009_.
-
-                    <a name="pp-regist"></a>**_PPS Register_** means the Personal Property Securities Register established under section 147 of the _Personal Property Securities Act 2009_.
-
-                    <a name="pp-registrar"></a>**_PPS Registrar_** means the Registrar of Personal Property Securities appointed under section 194 of the _Personal Property Securities Act 2009_.
-
-_Note:       The heading to section 59 is replaced by the heading “Rectification of Australian Register of Ships”._
-
-## 26  Paragraph 66(3)(a)
-
-Omit “except so far as it relates to any unsatisfied mortgage of the ship”.
-
-## 27  Subsections 66(4) to (9) and (11)
-
-Repeal the subsections.
-
-## 28  Subsection 74(1)
-
-Omit “24(1), 26(3), 36(2), 37(1), 41(2), 42(2), 43(1) or 44(1)”, substitute “26(3), 36(2) or 37(1)”.
-
-## 29  Subsection 74(2)
-
-Omit “41(2), 42(2), 43(1) or 44(1), subsection”.
-
-## 30  Section 79
-
-Omit “, the registration of a mortgage, the transfer of a mortgage”.
-
-## 31  Section 81
-
-Omit “, 66”.
-
-## 32  Subsection 82(1)
-
-Omit “, 66”.
-
-As at 2 February 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3121,42 +2960,5 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Personal Property Securities (Consequential Amendments) Act 2009 
- (No. 131, 2009)_
-
-The following provisions commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 33  Application—items 15, 17 to 19 and 22 to 24
-
-(1)        The amendments of the _Shipping Registration Act 1981_ made by items 15, 17 to 19 and 22 to 24 of this Schedule apply in relation to an interest of a mortgagor in a mortgage of a ship, or of a share in a ship, regardless of when the interest arose.
-
-(2)        However, interests that are mortgages registered under the _Shipping Registration Act 1981_ before the time the items covered by subitem (1) commence have the priority between themselves that they would have had under that Act as in force immediately before that time, subject to Chapter 9 (Transitional provisions) of the _Personal Property Securities Act 2009_.
-
-## 34  Application—item 20
-
-The amendment of the _Shipping Registration Act 1981_ made by item 20 of this Schedule does not affect the validity or effectiveness of a caveat lodged under section 47A of the _Shipping Registration Act 1981_ before the time the item commences.
-
-## 35  Application—item 21
-
-The amendment of the _Shipping Registration Act 1981_ made by item 21 of this Schedule does not apply to an interest in relation to which a caveat has been lodged under section 47A of that Act before the time the item commences.
-
-## 36  Application—item 25
-
-The amendment of the _Shipping Registration Act 1981_ made by item 25 of this Schedule applies in relation to a registration under the _Personal Property Securities Act 2009_ with respect to a security interest regardless of when the security interest arises.
-
-## 37  Application—item 27
-
-The requirement in subsection 66(4) of the _Shipping Registration Act 1981_ (as in force immediately before the time item 27 of this Schedule commences) to give notice to a mortgagee stops applying at the time that item commences.
-
-## 38  Application—items 28 and 29
-
-The amendments of the _Shipping Registration Act 1981_ made by items 28 and 29 of this Schedule do not apply in relation to a contravention of a provision mentioned in subsection 74(1) or (2) of that Act (as in force immediately before the time the items commence) if the contravention occurred before that time.
-
-_Note:       The items in this Schedule commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
  
