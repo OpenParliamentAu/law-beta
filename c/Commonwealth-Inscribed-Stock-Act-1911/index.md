@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00429/Html/CwealthInscribStock11_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00321/Html/CwealthInscribStock11_image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 24 July 2008
- taking into account amendments up to Act No. 78 of 2008
+This compilation was prepared on 8 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -27,11 +27,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part II—Creation and issue of stock**
 
-[3A](#3A).         Authority to borrow
-
 [4](#4).            Power to create stock
-
-[5](#5).            Limit on stock and securities on issue
 
 [6](#6).            Stock and interest a charge on revenue
 
@@ -125,9 +121,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51J](#51J).        Directions by Governor-General and Treasurer
 
-[51JA](#51JA).     Delegation by Treasurer of powers under section 3A
-
-[51K](#51K).       Delegation by Treasurer of powers under sections 14 and 29
+[51K](#51K).       Delegation by Treasurer
 
 **Part VI—Miscellaneous**
 
@@ -191,12 +185,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part II—Creation and issue of stock
 
-##### <a id="3A"></a>3A  Authority to borrow
-
-             (1)  The Treasurer may, from time to time, borrow money on behalf of the Commonwealth by issuing stock denominated in Australian currency.
-
-             (2)  Nothing in this section affects the power of the Treasurer under any other Act to borrow money on behalf of the Commonwealth, or to issue stock or securities under this or any other Act in relation to those borrowings.
-
 ##### <a id="4"></a>4  Power to create stock
 
              (1)  The Governor-General may, by writing signed by him or her, create stock, Treasury Bonds, Treasury Notes or other prescribed securities from time to time for:
@@ -205,35 +193,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  converting any loan raised by the Commonwealth into any other loan so raised; or
 
-                     (c)  paying any expenses of carrying this Act into effect that the Governor-General considers are properly payable out of capital; or
-
-                     (d)  lending by the Treasurer under securities lending arrangements under section 5BA of the _Loans Securities Act 1919_.
+                     (c)  paying any expenses of carrying this Act into effect that the Governor-General considers are properly payable out of capital.
 
              (2)  Stock created pursuant to paragraph (1)(a) shall not be issued or sold unless:
 
-                     (a)  authority to borrow the moneys to be raised by the issue or sale is granted by section 3A of this Act or by any other Act; or
+                     (a)  authority to borrow the moneys to be raised by the issue or sale is granted by an Act; or
 
                      (b)  the issue or sale is for the purpose of carrying out an obligation of the Commonwealth under the Financial Agreement.
-
-##### <a id="5"></a>5  Limit on stock and securities on issue
-
-             (1)  The total face value of stock and securities on issue under this Act and the _Loans Securities Act 1919_ at any time must not exceed $75 billion.
-
-             (2)  In working out the total face value of that stock and securities, disregard:
-
-                     (a)  stock and securities issued in relation to money borrowed under the _Loan (Temporary Revenue Deficits) Act 1953_; and
-
-                     (b)  stock and securities loaned by the Treasurer under a securities lending arrangement under section 5BA of the _Loans Securities Act 1919_, or held by or on behalf of the Treasurer for the purpose of such an arrangement; and
-
-                     (c)  stock and securities invested under subsection 39(2) of the _Financial Management and Accountability Act 1997_; and
-
-                     (d)  stock and securities on issue on the commencement of this section, other than Treasury Fixed Coupon Bonds.
-
-             (3)  For the purposes of this section:
-
-                     (a)  the **_face value_** of a Treasury Indexed Bond is taken to be its face value at the time it was issued; and
-
-                     (b)  the **_loan_** of stock or a security is taken to include an arrangement under which it is sold and repurchased.
 
 ##### <a id="6"></a>6  Stock and interest a charge on revenue
 
@@ -587,27 +553,7 @@ has the same force and effect as if it had been done by the Governor-General.
 
                              (ii)  may, subject to any direction given to the Treasurer under paragraph (a), give directions to the other person with respect to the exercise of that power.
 
-##### <a id="51JA"></a>51JA  Delegation by Treasurer of powers under section 3A
-
-             (1)  The Treasurer may, by signed instrument, delegate all or any of the Treasurer’s powers under section 3A to:
-
-                     (a)  an SES employee in the Department; or
-
-                     (b)  an APS employee who holds or performs the duties of an Executive Level 2, or equivalent, position in the Department; or
-
-                     (c)  a person appointed as a staff member of the Reserve Bank Service under section 67 of the _Reserve Bank Act 1959_ who occupies an office or position at an equivalent level to that of an SES employee, or an Executive Level 2, in the Department.
-
-             (2)  The Treasurer must, by signed instrument, give a direction as to the maximum total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_, disregarding stock and securities of the kind mentioned in subsection 5(2), in relation to borrowings under section 3A of this Act and section 4 of the _Loans Redemption and Conversion Act 1921_ while the direction is in force.
-
-             (3)  In exercising the Treasurer’s powers under section 3A, a delegate must comply with:
-
-                     (a)  a direction in force under subsection (2); and
-
-                     (b)  any other direction given, by signed instrument, to the delegate by the Treasurer.
-
-             (4)  The Treasurer must table a direction given under subsection (2) or paragraph (3)(b) in each House of the Parliament no later than 15 sitting days of that House after it is given.
-
-##### <a id="51K"></a>51K  Delegation by Treasurer of powers under sections 14 and 29
+##### <a id="51K"></a>51K  Delegation by Treasurer
 
              (1)  The Treasurer may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Treasurer, delegate to:
 
@@ -1363,24 +1309,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Securities and Investment Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>78, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–5, 12–14): 13 July 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-12–14) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Currency Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
@@ -1506,18 +1434,10 @@ _(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Sch
 </tr>
 <tr>
   <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 25, 1932; No. 26, 1945; No. 95, 1979; No. 72, 1984; No. 21, 2002; No. 78, 2008</div>
+    <div>am. No. 25, 1932; No. 26, 1945; No. 95, 1979; No. 72, 1984; No. 21, 2002</div>
   </td>
 </tr>
 <tr>
@@ -1534,14 +1454,6 @@ _(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Sch
   </td>
   <td>
     <div>rep. No. 18, 1963</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 78, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2242,22 +2154,6 @@ _(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Sch
 </tr>
 <tr>
   <td>
-    <div>S. 51JA</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51K</div>
-  </td>
-  <td>
-    <div>am. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 51K</div>
   </td>
   <td>
@@ -2546,23 +2442,5 @@ If:
                      (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-* * *
-
-_Commonwealth Securities and Investment Legislation Amendment Act 2008 (No. 78, 2008)_
-
-## Schedule 1
-
-## 12  Application of items 1 and 5
-
-The amendments made by items 1 and 5 of this Schedule apply to money borrowed on or after the commencement of those items.
-
-## 13  Application of items 2 and 3
-
-The amendments made by items 2 and 3 of this Schedule apply to stock and securities issued on or after the commencement of those items.
-
-## 14  Application of item 4
-
-The amendment made by item 4 of this Schedule applies on or after the commencement of that item, regardless of whether the stock and securities were issued before, on or after the commencement of that item.
 
  
