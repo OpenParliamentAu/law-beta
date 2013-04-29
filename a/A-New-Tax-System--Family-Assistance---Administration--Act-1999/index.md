@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 30 November 2012
- taking into account amendments up to Act No. 154 of 2012
+This compilation was prepared on 14 August 2012
+ taking into account amendments up to Act No. 98 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -535,7 +536,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [61A](#61A).       Variation where failure to notify that the service has ceased to provide care to child
 
-        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6**
+        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of  Part 6**
 
 [62](#62).          Variation where failure to provide information relevant to conditional eligibility etc 
 
@@ -599,29 +600,29 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision AAA—Election to have child care rebate paid in various ways**
 
-65EAAAA Individual may elect to have child care rebate paid in 
- various ways
+65EAAAAIndividual may elect to have child care rebate paid in various 
+ ways
 
-65EAAAB Period in which election has effect
+65EAAABPeriod in which election has effect
 
-65EAAAC Where no election made for an income year
+65EAAACWhere no election made for an income year
 
         **Subdivision AAB—Weekly payments of child care rebate**
 
-65EAAA Weekly payments of child care rebate
+65EAAAWeekly payments of child care rebate
 
-65EAAB Where individual elects to have child care rebate paid weekly 
+65EAABWhere individual elects to have child care rebate paid weekly 
  to approved child care service
 
-65EAAC Where individual elects to have child care rebate paid weekly 
+65EAACWhere individual elects to have child care rebate paid weekly 
  into own bank account
 
-65EAAD Revising a calculation of weekly child care rebate
+65EAADRevising a calculation of weekly child care rebate
 
-65EAAE If weekly payment is to an approved child care service, notice 
+65EAAEIf weekly payment is to an approved child care service, notice 
  of revised calculation must be given to the service
 
-65EAAF Effect of revised calculation—payment to the individual
+65EAAFEffect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1393,18 +1394,18 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGA Conduct contravening more than one civil penalty provision
+219TSGAConduct contravening more than one civil penalty provision
 
-219TSGB Civil proceedings after criminal proceedings
+219TSGBCivil proceedings after criminal proceedings
 
-219TSGC Criminal proceedings during civil proceedings
+219TSGCCriminal proceedings during civil proceedings
 
-219TSGD Criminal proceedings after civil proceedings
+219TSGDCriminal proceedings after civil proceedings
 
-219TSGE Evidence given in proceedings for penalty not admissible in 
+219TSGEEvidence given in proceedings for penalty not admissible in 
  criminal proceedings
 
-219TSGF Minister requiring person to assist in applications for civil 
+219TSGFMinister requiring person to assist in applications for civil 
  penalty orders
 
     **Division 2—Infringement notices**
@@ -2413,7 +2414,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -2467,7 +2468,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -4920,7 +4921,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -5124,7 +5125,7 @@ Requirements for claim by individual to be effective
 
                             (iii)  be accompanied by any documents;
 
-                            required by the Secretary; and
+                            required by the Secretary; and
 
                      (b)  the bank account requirement set out in section 49G must be satisfied in relation to the claim; and
 
@@ -6420,7 +6421,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -6474,7 +6475,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -7727,7 +7728,8 @@ Consequence of Secretary later finding out that child is receiving care from the
 
 the Secretary must vary the determination to undo the effect mentioned in subsection (1).
 
-#### Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6
+#### Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of 
+ Part 6
 
 ##### <a id="62"></a>62  Variation where failure to provide information relevant to conditional eligibility etc.
 
@@ -9009,7 +9011,7 @@ Form etc. of claim
 
                      (c)  in the case of a claim for payment of single income family supplement in substitution because of the death of another individual—the tax file number requirement in section 65KC must be satisfied in relation to the claim.
 
-##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
+##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(b) (which states what is required for certain claims to be effective).
 
@@ -10449,7 +10451,7 @@ the amount of the cheque is a debt due by the person to the Commonwealth.
 
 the recipient and the other person are jointly and severally liable to pay the debt.
 
-##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
+##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
 
                    If:
 
@@ -10595,7 +10597,7 @@ the determination ceases to have effect from and including the day on which the 
 
              (7)  The Secretary may cancel or vary the determination by written notice given to the person.
 
-##### <a id="78B"></a>78B  Administrative charge
+##### <a id="78B"></a>78B  Administrative charge
 
              (1)  When a person first becomes liable to pay interest under section 78 in respect of the outstanding amount of a particular debt, the person is liable to pay an administrative charge of $50 in respect of the outstanding amount of that debt.
 
@@ -11283,7 +11285,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image004.gif)
 
 where:
 
@@ -14095,7 +14097,7 @@ having power to require the production of documents or the answering of question
 
 ##### <a id="177"></a>177  Penalty for contravention of Subdivision B
 
-                   A person who contravenes a provision of Subdivision B is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 12 months.
+                   A person who contravenes a provision of Subdivision B is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 12 months.
 
 ##### <a id="178"></a>178  Repayment of family assistance
 
@@ -16133,7 +16135,7 @@ Note:          This is a civil penalty provision. Part 8C pr
 
 Note:          For **_child care service payment_** see subsection 3(1).
 
-##### <a id="219QB"></a>219QB  Remitting amounts that cannot be passed on
+##### <a id="219QB"></a>219QB  Remitting amounts that cannot be passed on
 
              (1)  If:
 
@@ -17289,889 +17291,4 @@ the Commonwealth is liable to refund the penalty.
 
              (2)  Any liability of the person for the alleged civil contraventions is discharged.
 
-             (3)  Proceedings under Division 1 must not be brought against the person for the alleged civil contraventions.
-
-##### <a id="219TSN"></a>219TSN  Effect of this Division on civil proceedings
-
-                   This Division does not:
-
-                     (a)  require an infringement notice to be given in relation to an alleged civil contravention; or
-
-                     (b)  affect the liability of a person to have proceedings under Division 1 brought against the person for an alleged civil contravention if:
-
-                              (i)  the person does not comply with an infringement notice relating to the contravention; or
-
-                             (ii)  an infringement notice relating to the contravention is not given to the person; or
-
-                            (iii)  an infringement notice relating to the contravention is given to the person and subsequently withdrawn; or
-
-                     (c)  limit the discretion of the Federal Court of Australia or the Federal Magistrates Court to determine the amount of a penalty to be imposed on a person who is found in proceedings under Division 1 to have contravened a civil penalty provision.
-
-Note:          This Division also does not limit, nor is it affected by, other compliance measures in this Act (for example, sanctions under section 200).
-
-##### <a id="219TSO"></a>219TSO  Appointment of authorised person
-
-                   The Secretary may, by writing, appoint an officer of the Department as an authorised person for the purposes of this Division.
-
-##### <a id="219TSP"></a>219TSP  Regulations
-
-                   The regulations may make further provision in relation to infringement notices.
-
-### Division 3—Suspension of approved child care service’s approval
-
-##### <a id="219TSQ"></a>219TSQ  Suspension of approved child care service’s approval
-
-             (1)  The Secretary may, by notice given to a person who operates an approved child care service, suspend the service’s approval if:
-
-                     (a)  10 infringement notices under section 219TSI are given to the person in relation to the service within a period (the **_infringement period_**) of 12 months; and
-
-                     (b)  in relation to each notice, the time for paying the penalty specified in the notice has ended before the end of the infringement period.
-
-             (2)  The notice must:
-
-                     (a)  specify a day, not earlier than the day on which the notice is given, on which the suspension takes effect; and
-
-                     (b)  specify the grounds upon which the Secretary has suspended the service’s approval.
-
-             (3)  The Secretary may, by notice given to a person who operates the service, revoke the suspension with effect from the day specified in the notice.
-
-## Part 9—Other matters
-
-##### <a id="220"></a>220  General administration of family assistance law
-
-                   The Secretary is, subject to any direction of the Minister, to have the general administration of the family assistance law.
-
-##### <a id="220A"></a>220A  Minister requiring person to assist in criminal proceedings
-
-             (1)  A person commits an offence if:
-
-                     (a)  the Minister requests, in writing, the person to give all reasonable assistance in connection with criminal proceedings for an offence against this Act; and
-
-                     (b)  the person fails to comply with the request.
-
-                    Penalty:  10 penalty units.
-
-Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, document or other things.
-
-             (2)  A request under subsection (1) is not a legislative instrument.
-
-             (3)  The Minister can request a person to assist under subsection (1) if, and only if:
-
-                     (a)  it appears to the Minister that the person is unlikely:
-
-                              (i)  to be a defendant in the proceedings; or
-
-                             (ii)  to have contravened a civil penalty provision constituted by the same, or substantially the same, conduct as the conduct to which the proceedings relates; and
-
-                     (b)  the Minister suspects or believes that the person can give information relevant to the proceedings.
-
-             (4)  The Minister cannot request a person to assist under subsection (1) if the person is or has been a lawyer for a defendant or likely defendant in the proceedings.
-
-             (5)  A court may order a person to comply with a request under subsection (1) in a specified way. Only the Minister may apply to the court for an order under this subsection _._
-
-             (6)  For the purposes of this section, it does not matter whether criminal proceedings for the offence have actually begun.
-
-             (7)  In this section:
-
-                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
-
-##### <a id="221"></a>221  Delegation
-
-             (1)  Subject to this section, the Secretary may delegate to an officer all or any of the powers of the Secretary under the family assistance law, other than the power to engage an expert to carry out an independent audit as mentioned in section 219GB.
-
-             (2)  The Secretary must not delegate such a power to an officer of the Human Services Department, unless the Secretary of the Human Services Department has agreed to the delegation.
-
-             (3)  The Secretary must not delegate the Secretary’s power under subparagraph 168(1)(b)(i) (disclosure of information) except to the Secretary of the Human Services Department, the Chief Executive Centrelink or the Chief Executive Medicare.
-
-             (4)  The Secretary must not delegate to an officer, other than an SES employee or acting SES employee, the Secretary’s powers under either of the following:
-
-                     (a)  section 219GA (Secretary requiring information from person);
-
-                     (b)  Division 2 of Part 8C (infringement notices).
-
-             (5)  The Secretary may delegate to an APS employee in the Department administered by the Minister administering the _Veterans’ Entitlements Act 1986_ all or any of the powers of the Secretary under the family assistance law that relate to the schoolkids bonus, to the extent that eligibility for that bonus is because of a payment of an education allowance under:
-
-                     (a)  the Veterans’ Children Education Scheme; or
-
-                     (b)  the Military Rehabilitation and Compensation Act Education and Training Scheme.
-
-Note:          The expression **_APS employee_** is defined in section 2B of the _Acts Interpretation Act 1901_.
-
-##### <a id="221A"></a>221A  Committees
-
-             (1)  The Minister may in writing establish committees for the purposes of the family assistance law.
-
-Functions
-
-             (2)  A committee has the functions determined in writing by the Minister.
-
-             (3)  A committee must, in performing its functions, comply with any directions given to the committee by the Minister.
-
-Appointments
-
-             (4)  A committee consists of the members appointed in writing by the Minister.
-
-             (5)  A member of a committee holds office on a part‑time basis.
-
-Chair
-
-             (6)  The Minister may designate a member of a committee as the Chair of the committee.
-
-Remuneration and allowances
-
-             (7)  A member of a committee is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
-
-             (8)  A member of a committee is to be paid the allowances that are prescribed by the regulations.
-
-             (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
-
-Disclosure of interests
-
-           (10)  A member of a committee must give written notice to the Minister of any direct or indirect pecuniary interest that the member has or acquires and that conflicts or could conflict with the proper performance of the member’s functions.
-
-Resignation
-
-           (11)  A member of a committee may resign his or her appointment by giving the Minister a written resignation.
-
-Termination
-
-           (12)  The Minister may at any time terminate the appointment of a member of a committee.
-
-##### <a id="222"></a>222  Decisions to be in writing
-
-             (1)  A decision of the Minister or of an officer under the family assistance law must be in writing.
-
-             (2)  Such a decision is taken to be in writing if it is made, or recorded, by means of a computer.
-
-##### <a id="223"></a>223  Secretary may arrange for use of computer programs to make decisions
-
-             (1)  The Secretary may arrange for the use, under the Secretary’s control, of computer programs for any purposes for which the Secretary may make decisions under the family assistance law.
-
-             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Secretary.
-
-##### <a id="224"></a>224  Notice of decisions
-
-             (1)  If a notice of a decision of an officer:
-
-                     (a)  affecting a person’s entitlement to be paid family assistance under the family assistance law; or
-
-                     (b)  affecting a person’s conditional eligibility for child care benefit by fee reduction; or
-
-                     (c)  affecting a weekly limit of hours, a CCB %, a schooling %, eligibility for the special grandparent rate or a rate under section 81 of the Family Assistance Act applicable to a person; or
-
-                  (caa)  about the amount of child care rebate applicable in respect of a person and a child for a week under Subdivision AAB of Division 4AA of Part 3; or
-
-                    (ca)  about the amount of child care rebate applicable in respect of a person and a child for a quarter under Subdivision AA of Division 4AA of Part 3;
-
-is:
-
-                     (d)  delivered to a person personally; or
-
-                     (e)  left at the address of the place of residence or business of the person last known to the Secretary; or
-
-                      (f)  sent by prepaid post to the address of the person last known to the Secretary;
-
-notice of the decision is taken, for the purposes of the family assistance law, to have been given to the person.
-
-             (2)  Notice of a decision of an officer affecting or about a matter referred to in paragraph (1)(a), (b), (c) or (ca) may be given to a person by properly addressing, prepaying and posting the document as a letter.
-
-             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the person at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
-
-##### <a id="224A"></a>224A  Notice of decisions under Part 8 or 8C
-
-             (1)  If a notice of a decision of an officer under Part 8 or 8C  is:
-
-                     (a)  left at the address of the place of business of a child care service last known to the Secretary; or
-
-                     (b)  sent by prepaid post to the address of a child care service last known to the Secretary; or
-
-                     (c)  sent by email to the last known email address of the child care service;
-
-notice of the decision is taken, for the purposes of the family assistance law, to have been given to the service.
-
-             (2)  Notice of a decision of an officer under Part 8 or 8C may be given to a service by properly addressing, prepaying and posting the document as a letter.
-
-             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the service at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
-
-             (4)  For the purposes of this section, a notice of a decision of an officer under Part 8C is:
-
-                     (a)  an infringement notice under section 219TSI; or
-
-                     (b)  a notice of suspension under section 219TSQ.
-
-##### <a id="225"></a>225  Payment of deductions to Commissioner of Taxation
-
-                   The Secretary must, in accordance with section 218 of the _Income Tax Assessment Act 1936,_ or Subdivision 260‑A in Schedule 1 to the _Taxation Administration Act 1953_, for the purpose of enabling the collection of an amount that is, or may become, payable by a recipient of a payment under this Act:
-
-                     (a)  make deductions from the instalments of, or make a deduction from, the payment; and
-
-                     (b)  pay the amount deducted to the Commissioner of Taxation.
-
-This section does not apply to a payment of child care benefit.
-
-##### <a id="226"></a>226  Setting off family assistance entitlement against tax liability
-
-             (1)  If:
-
-                     (a)  a person is entitled to an amount of family assistance (other than child care benefit); and
-
-                     (b)  the person is liable for an amount of primary tax;
-
-the Commissioner of Taxation may determine that the whole or a part of the entitlement is to be set off against the liability.
-
-             (2)  If the Commissioner of Taxation does so:
-
-                     (a)  the amount of the entitlement and the amount of the liability are reduced accordingly; and
-
-                     (b)  the person is taken to have paid so much of the amount of the tax as is equal to the amount set off against the tax liability at the time when the Commissioner sets off the amount or at any earlier time that the Commissioner determines.
-
-             (3)  This section has effect in spite of anything in any other Act or any other law of the Commonwealth.
-
-##### <a id="227"></a>227  Payment of deductions to Child Support Registrar
-
-             (1)  The Secretary must, in accordance with a notice given to the Secretary under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ in relation to a person:
-
-                     (a)  make deductions from instalment amounts of family tax benefit that the person is entitled to be paid under section 23; or
-
-                     (b)  make a deduction from an amount of family tax benefit that the person is entitled to be paid under section 24;
-
-and pay amounts so deducted to the Child Support Registrar.
-
-             (2)  However, the Secretary must not deduct an amount under subsection (1) in contravention of section 228.
-
-             (3)  If the Secretary deducts an amount under subsection (1), then:
-
-                     (a)  on the day the amount is deducted, the total amount of the child support debts of the person (being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_) is taken to be reduced by an amount equal to the amount deducted; and
-
-                     (b)  on the day the amount is deducted, the person is taken to have been paid an amount of family tax benefit equal to the amount deducted.
-
-             (4)  A deduction under subsection (1) may result in the family tax benefit that the person is entitled to be paid being reduced to nil.
-
-##### <a id="228"></a>228  Maximum deduction
-
-             (1)  This section applies if a notice is given under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ to a person that specifies:
-
-                     (a)  an amount to be deducted from family tax benefit that the person is entitled to be paid on a day or days specified in the notice; or
-
-                     (b)  a method of working out such an amount.
-
-             (2)  The amount deducted on a particular day must not exceed the total amount of the child support debts of the person on that day, being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_.
-
-             (3)  If, on a day specified in the notice, the person has at least one FTB child, or one regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit who is not a designated child support child of the person, the amount deducted on that day must not exceed the difference between:
-
-                     (a)  the amount of family tax benefit that the person is entitled to be paid on that day; and
-
-                     (b)  the amount of family tax benefit that the person would be entitled to be paid on that day, assuming that each designated child support child of the person was neither an FTB child, nor a regular care child, of the person on that day.
-
-             (4)  If, on a day specified in the notice:
-
-                     (a)  each FTB child, and each regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit is a designated child support child of the person; and
-
-                     (b)  an income support payment or an income support supplement is payable to the person;
-
-the amount deducted on that day must not exceed the difference between:
-
-                     (c)  the amount of family tax benefit that the person is entitled to be paid on that day; and
-
-                     (d)  the forgone amount in respect of the person’s income support payment or income support supplement.
-
-             (5)  For the purposes of subsection (4), the **_forgone amount_**, in respect of a person’s income support payment or income support supplement, is the amount that represents the difference between:
-
-                     (a)  the amount of the income support payment or the income support supplement that would have been payable to the person if the person had not been entitled to be paid family tax benefit on that day; and
-
-                     (b)  the amount of the income support payment or the income support supplement payable to the person on that day.
-
-             (6)  In this section:
-
-                    <a name="person"></a><a name="design-child-support-child"></a>**_designated child support child_** **_of a person_** has the same meaning as in section 72AB of the _Child Support (Registration and Collection) Act 1988._
-
-                    <a name="incom-support-payment"></a>**_income support payment_** has the same meaning as in the _Social Security Act 1991_.
-
-                    <a name="incom-support-supplem"></a>**_income support supplement_** has the same meaning as in Part IIIA of the _Veterans’ Entitlements Act 1986_.
-
-##### <a id="229"></a>229  Judicial notice of certain matters
-
-             (1)  All courts are to take judicial notice of a signature that purports to be attached or appended to any official document produced under the family assistance law, if the signature is of a person who is or has been an officer.
-
-             (2)  If the signature of a person referred to in subsection (1) purports to be attached or appended to any official document produced under the family assistance law, all courts are to take judicial notice of the fact that the person is, or has been, an officer.
-
-##### <a id="230"></a>230  Documentary evidence
-
-             (1)  If the signature of any person who is or has been an officer purports to be attached or appended to any official document, the document is to be received in all courts as prima facie evidence of the facts and statements contained in it.
-
-             (2)  A statement in writing signed by a person referred to in subsection (1) that another person is or was entitled to, or had received, a payment under this Act on a certain date and of a certain amount is to be received in all courts as prima facie evidence that the person is or was entitled to, or had received, the payment on the date, and of the amount, stated.
-
-##### <a id="231"></a>231  Application of family assistance law to unincorporated bodies
-
-             (1)  The family assistance law applies to an unincorporated body or association (the **_body_**) as if it were a person other than an individual, but it applies with the following 3 changes.
-
-Imposition of obligations
-
-             (2)  Subject to subsection (2A), the first change is that obligations that would be imposed on the body are imposed instead on:
-
-                     (a)  if the body is a partnership—each partner; or
-
-                     (b)  in any other case—each member of the committee of management of the body;
-
-but they may be discharged by any of the partners or any of those members.
-
-          (2A)  If:
-
-                     (a)  an unincorporated body or association is operating an approved child care service; and
-
-                     (b)  a debt becomes due to the Commonwealth by the service under Part 4;
-
-then subsection (2) does not apply in relation to the debt and the debt is taken to be a debt owed by the service.
-
-Note:          One of the effects of this subsection is that subsection 82(2) rather than subsection 82(1) will apply to the debt. Subsection 82(2) provides more ways of recovering debts than subsection 82(1) (for example, setting off debts against advances is permissible).
-
-Commission of offences
-
-             (3)  The second change is that any offence against this Act that would otherwise be committed by the body is taken instead to have been committed by:
-
-                     (a)  if the body is a partnership—any partner:
-
-                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
-
-                             (ii)  who aided, abetted, counselled or procured the relevant act or omission; or
-
-                     (b)  in any other case—any member of the committee of management of the body:
-
-                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
-
-                             (ii)  who aided, abetted, counselled or procured the relevant act or omission.
-
-Contravention of civil penalty provisions
-
-             (4)  The third change is that any contravention of a civil penalty provision that would otherwise be committed by the body is taken instead to have been committed by:
-
-                     (a)  if the body is a partnership—any partner:
-
-                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
-
-                             (ii)  who aided, abetted, counselled or procured the relevant contravention; or
-
-                     (b)  in any other case—any member of the committee of management of the body:
-
-                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
-
-                             (ii)  who aided, abetted, counselled or procured the relevant contravention.
-
-##### <a id="232"></a>232  Annual report
-
-             (1)  As soon as practicable after 30 June in each year, the Secretary must give the Minister a written report on the administrative operation of the family assistance law during the financial year that ended on that 30 June.
-
-             (2)  The Minister is to cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
-
-##### <a id="233"></a>233  Appropriation
-
-                   Payments under this Act are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-##### <a id="234"></a>234  Agreements on administrative arrangements
-
-             (1)  The Secretary and the Principal Member may agree on administrative arrangements to further the objectives of Division 2 of Part 5.
-
-             (2)  The Secretary and the Commissioner of Taxation may agree on administrative arrangements to further the objectives of this Act.
-
-##### <a id="235"></a>235  Regulations
-
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient for carrying out or giving effect to this Act.
-
-Offences and civil penalties
-
-          (1A)  Without limiting subsection (1), the regulations may:
-
-                     (a)  prescribe penalties for offences against the regulations that do not exceed a fine of 10 penalty units; and
-
-                     (b)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
-
-                              (i)  for a body corporate—250 penalty units; or
-
-                             (ii)  in any other case—50 penalty units.
-
-Fees
-
-             (2)  Without limiting subsection (1), the regulations may prescribe fees for the making of applications under section 194 or 207\. Any such fees must not be such as to amount to taxation.
-
-Proof of making of claims etc.
-
-             (3)  Without limiting subsection (1), if a provision of the family assistance law provides that the Secretary or another officer may approve:
-
-                     (a)  the form or manner of making or withdrawing any application or claim; or
-
-                     (b)  the way of doing any other thing that is required or permitted to be done for the purposes of that law;
-
-the regulations may make provision for the proof of the making or withdrawing of the application or claim, or the doing of the other thing, for the purposes of any legal proceedings.
-
-Date of effect of review decisions
-
-             (4)  Without limiting subsection (1), the regulations may provide that specified decisions by:
-
-                     (a)  the Secretary under any provision of this Act; or
-
-                     (b)  an authorised review officer, the Social Security Appeals Tribunal, or the Administrative Appeals Tribunal, under Part 5;
-
-that have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment, only have effect from a specified day before the making of the decisions.
-
-# Notes to the _A New Tax System (Family Assistance) (Administration) Act 1999_
-
-### Note 1
-
-The _A New Tax System (Family Assistance) (Administration) Act 1999_ as shown in this compilation comprises Act No. 81, 1999 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_, _see_ Act No. 65, 2010.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
-  <col width="0%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>A New Tax System (Family Assistance) (Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>81, 1999</div>
-  </td>
-  <td>
-    <div>8 July 1999</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2 and 235(5): Royal Assent Remainder: 1 July 2000 ( <i>see</i>s. 2(2))</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>179, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 5, 6): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>192, 1999</div>
-  </td>
-  <td>
-    <div>23 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 4: 1 July 2000 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>44, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Family Assistance and Related Measures) Act 2000</div>
-  </td>
-  <td>
-    <div>45, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td>
-    <div>Schedules 2, 5 and 6: <i>(d)</i></div>
-  </td>
-  <td>
-    <div>Schs. 5 and 6</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services (2000 Budget and Related Measures) Act 2000</div>
-  </td>
-  <td>
-    <div>138, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 7–10): 1 Jan 2001 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Debt Recovery) Act 2001</div>
-  </td>
-  <td>
-    <div>47, 2001</div>
-  </td>
-  <td>
-    <div>12 June 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 3–27, 29, 32, 33), Schedule 3 (items 1–15) and Schedule 4 (items 1–8A): 1 July 2001 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 17)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Child Support Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>75, 2001</div>
-  </td>
-  <td>
-    <div>30 June 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1A (items 22–24): 1 July 2002 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>137, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance Estimate Tolerance (Transition) Act 2001</div>
-  </td>
-  <td>
-    <div>138, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002</div>
-  </td>
-  <td>
-    <div>95, 2002</div>
-  </td>
-  <td>
-    <div>10 Nov 2002</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 1 July 2003 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 14)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>30, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 2 (items 14–51): Royal Assent 
-Schedule 2 (item 72): <i>(g)</i> 
-Schedule 2 (item 83): 1 July 2000 
-Schedule 2 (items 84–86): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003</div>
-  </td>
-  <td>
-    <div>35, 2003</div>
-  </td>
-  <td>
-    <div>24 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 4–6): 24 Apr 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003</div>
-  </td>
-  <td>
-    <div>122, 2003</div>
-  </td>
-  <td>
-    <div>5 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 1–4): 1 July 2004</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>150, 2003</div>
-  </td>
-  <td>
-    <div>19 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 95): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance Legislation Amendment (Extension of Time Limits) Act 2004</div>
-  </td>
-  <td>
-    <div>33, 2004</div>
-  </td>
-  <td>
-    <div>20 Apr 2004</div>
-  </td>
-  <td>
-    <div>20 Apr 2004</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
-  </td>
-  <td>
-    <div>52, 2004</div>
-  </td>
-  <td>
-    <div>27 Apr 2004</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 9, 10): 1 July 2004 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance Legislation Amendment (More Help for Families—Increased Payments) Act 2004</div>
-  </td>
-  <td>
-    <div>59, 2004</div>
-  </td>
-  <td>
-    <div>26 May 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 9, 10, 11(1)) and Schedule 2 (items 12–33): 1 July 2004</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 11(1)) and Sch. 2 (items 14, 25, 27, 29, 31, 33)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance Legislation Amendment (More Help for Families—One‑off Payments) Act 2004</div>
-  </td>
-  <td>
-    <div>60, 2004</div>
-  </td>
-  <td>
-    <div>26 May 2004</div>
-  </td>
-  <td>
-    <div>26 May 2004</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2004 Election Commitments) Act 2004</div>
-  </td>
-  <td>
-    <div>132, 2004</div>
-  </td>
-  <td>
-    <div>8 Dec 2004</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 44)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005</div>
-  </td>
-  <td>
-    <div>29, 2005</div>
-  </td
+             (3)  Proceedings under Division 1 must not be brought against the 
