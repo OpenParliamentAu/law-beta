@@ -1,12 +1,9 @@
 
 Termination Payments Tax (Assessment and Collection) Act 1997
 Act No. 73 of 1997 as amended 
-Consolidated as in force on 3 November 1999
-(includes amendments up to Act No. 131 of 1999)
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 15 July 1999
+(includes amendments up to Act No. 44 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 Part 1—Preliminary	1
 1	Short title [see Note 1]	1
@@ -16,42 +13,41 @@ Part 1—Preliminary	1
 5	Object of Act	1
 6	Outline of Act	2
 Part 2—Liability to surcharge	3
-7	Application	3
+7	Application [see Note 2]	3
 8	Termination payments surcharge	3
 9	Surcharge payable only on part of certain termination payments	4
 10	Surcharge threshold	5
 Part 3—Assessment and collection of surcharge	8
 11	Assessment of liability to pay surcharge	8
-11A	Periods within which assessments may be amended	9
-12	Amendment of assessments	12
-13	Payment of general interest charge if liability increased by amended assessment	13
-14	Commissioner may use tax file numbers for the purposes of this Act	14
-15	Objections against assessments	14
-Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty	15
-16	Penalty for non‑payment of surcharge	15
-16A	Additional liability to pay general interest charge	15
-17	Recovery of unpaid amounts	16
-18	Payment of surcharge, general interest charge or late payment penalty	16
-Part 5—Administration	17
-21	General administration of Act	17
-22	Annual report	17
-23	Secrecy	17
-Part 6—Miscellaneous	21
-24	Authorised officers	21
-25	Evidence	21
-26	Access to premises etc.	22
-27	Obtaining information and evidence	23
-28	Records to be kept and retained by employer	23
-28A	Commissioner may collect money from person who owes money to a surcharge payer	24
-29	Application of the Criminal Code	27
-30	Regulations	27
-Part 7—Interpretation	28
-31	Definitions	28
-Notes		31
-
+12	Amendment of assessments	9
+13	Payment of general interest charge if liability increased by amended assessment	10
+14	Commissioner may use tax file numbers for the purposes of this Act	10
+15	Objections against assessments	10
+Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty	11
+16	Penalty for non‑payment of surcharge	11
+16A	Additional liability to pay general interest charge	11
+17	Recovery of unpaid amounts	12
+18	Payment of surcharge, general interest charge or late payment penalty	12
+Part 5—Administration	13
+21	General administration of Act	13
+22	Annual report	13
+23	Secrecy	13
+Part 6—Miscellaneous	17
+24	Authorised officers	17
+25	Evidence	17
+26	Access to premises etc.	18
+27	Obtaining information and evidence	19
+28	Records to be kept and retained by employer	19
+28A	Commissioner may collect money from person who owes money to a surcharge payer	21
+29	Application of the Criminal Code	23
+30	Regulations	23
+Part 7—Interpretation	24
+31	Definitions	24
+Notes		27
 An Act relating to the assesment and collection of termination payments tax, and for related purposes
+Do not delete : Chapter placeholder
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Termination Payments Tax (Assessment and Collection) Act 1997.
 2  Commencement [see Note 1]
@@ -69,19 +65,18 @@ Part 1—Preliminary
 •	If the amount calculated is greater than the surcharge threshold, the Commissioner will calculate the rate of surcharge and assess the amount of surcharge payable by the taxpayer on the payments. Only part of certain employment‑related termination payments is subject to the surcharge.
 •	If, after the assessment of surcharge, the taxpayer’s adjusted taxable income is found to be different from the amount that was previously calculated or the termination payments are found to be different from the amount on which the assessment was based, the Commissioner may amend the assessment.
 •	If liability for surcharge is increased as a result of an amendment of an assessment, the general interest charge is payable on the additional surcharge.
-	A taxpayer may object against an assessment of surcharge in the way set out in Part IVC of the Taxation Administration Act 1953 for objecting against assessment of income tax.
+•	The provisions in the Taxation Administration Act 1953 for objecting against assessments of income tax apply to assessments of surcharge.
 •	A late payment penalty applies if surcharge is not paid on time.
-
+
 Part 2—Liability to surcharge
-  
-7  Application 
+7  Application [see Note 2]
 Act provides for surcharge on termination payments
 	(1)	This Act provides for the payment of surcharge on certain payments (termination payments) made to or for high‑earning taxpayers (see subsection 8(2)) in consequence of the termination of their employment.
 Definition of termination payment
 	(2)	A termination payment is a payment that:
 	(a)	is made after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996; and
 	(b)	is the retained amount of an eligible termination payment for the purposes of Subdivision AA of Division 2 of Part III of the Income Tax Assessment Act because of paragraph (a) of the definition of eligible termination payment in subsection 27A(1) of that Act;
-but does not include the retained amount of any post‑June 1994 invalidity component or CGT exempt component of such a payment or an eligible termination payment from an employee share acquisition scheme.
+but does not include the retained amount of any post‑June 1994 invalidity component of such a payment or an eligible termination payment from an employee share acquisition scheme.
 8  Termination payments surcharge
 Surcharge payable on termination payments
 	(1)	Termination payments surcharge is payable on any termination payments made to or for a taxpayer.
@@ -96,7 +91,7 @@ Termination payments made before 20 August 2001
 	(1)	If a termination payment has been or is made to or for a taxpayer after 20 August 1996 and before 20 August 2001, surcharge is payable only on the part of the termination payment that is worked out using the formula:
 
 where:
-post‑20 August 1996 period means the number of days in the period of the taxpayer’s employment for which the termination payment was made that occurred after 20 August 1996.
+post-20 August 1996 period means the number of days in the period of the taxpayer’s employment for which the termination payment was made that occurred after 20 August 1996.
 total period means the number of days in the period of the taxpayer’s employment for which the termination payment was made.
 Termination payments made on or after 20 August 2001
 	(2)	If:
@@ -105,7 +100,7 @@ Termination payments made on or after 20 August 2001
 surcharge is payable only on the part of the termination payment that is worked out using the formula:
 
 where:
-post‑20 August 1996 period means the number of days in the period of the taxpayer’s employment in respect of which the termination payment was made that occurred after 20 August 1996.
+post-20 August 1996 period means the number of days in the period of the taxpayer’s employment in respect of which the termination payment was made that occurred after 20 August 1996.
 total period means the number of days in the period of the taxpayer’s employment in respect of which the termination payment was made.
 10  Surcharge threshold
 Surcharge threshold for 1996‑97 financial year
@@ -134,73 +129,24 @@ Change in index numbers
 Surcharge threshold to be published
 	(7)	The Commissioner must publish before, or as soon as practicable after, the start of the 1997‑98 financial year, and before the start of each later financial year, the surcharge threshold for the financial year.
 Note:	For the purposes of this section, Australian Statistician means the Australian Statistician referred to in subsection 5(2) of the Australian Bureau of Statistics Act 1975.
-
+
 Part 3—Assessment and collection of surcharge
-  
 11  Assessment of liability to pay surcharge
 Commissioner to assess surcharge
-	(1)	For each financial year in which termination payments are made to or for a taxpayer, the Commissioner must make an assessment that:
-	(a)	calculates the taxpayer’s adjusted taxable income; and
+	(1)	For each financial year in which termination payments are made to or for a taxpayer, the Commissioner must:
+	(a)	calculate the taxpayer’s adjusted taxable income; and
 	(b)	if the adjusted taxable income is greater than the surcharge threshold:
-	(i)	calculates the termination payments; and
-	(ii)	calculates the rate of surcharge that applies to the taxpayer; and
-	(iii)	specifies the amount of the surcharge payable or, if no surcharge is payable, states that a nil amount of surcharge is payable; and
-	(c)	if the adjusted taxable income is equal to or less than the surcharge threshold—states that a nil amount of surcharge is payable.
+	(i)	calculate the termination payments; and
+	(ii)	calculate the rate of surcharge that applies to the taxpayer; and
+	(iii)	make an assessment, directed to the taxpayer, of any surcharge payable.
 When surcharge is payable
 	(2)	Surcharge assessed under subsection (1) is payable within one month after the day on which the assessment is made.
-Notice of assessment
-	(3)	When an assessment (including an amended assessment) is made, the Commissioner must, subject to subsection (4), give notice of the assessment to the taxpayer.
-No notice if nil amount assessed
-	(4)	The Commissioner is not required under subsection (3) to give a notice of an assessment if the assessment states that a nil amount of surcharge is payable.
-Particulars in notice of assessment
-	(5)	A notice of assessment must include particulars of the matters contained in the assessment under subsection (1).
-How a notice is to be given
-	(6)	A notice of assessment may be given in any manner prescribed by the regulations.
-Non‑compliance not to affect validity of assessment
-	(7)	The validity of any assessment is not affected by any non‑compliance with a provision of this Act.
-11A  Periods within which assessments may be amended
-General provision
-	(1)	The Commissioner may, subject to this section, at any time amend an assessment of surcharge on a termination payment or termination payments made to or for a taxpayer by making such alterations or additions as the Commissioner thinks necessary, even though surcharge has been paid in respect of the assessment. Such an amendment may be made on the Commissioner’s own initiative or at the request of the member.
-Period for making further amendment
-	(2)	If:
-	(a)	an assessment has been amended in any particular in a way that effected a reduction in the amount of surcharge payable; and
-	(b)	for the purposes of making the amendment, the Commissioner accepted a statement made by or on behalf of a taxpayer;
-the Commissioner may, within 4 years from the date of service of the notice of the amended assessment, further amend the assessment in, or in respect of, that particular in a way that increases the amount of the surcharge payable to the extent that the Commissioner considers necessary.
-Period where avoidance of surcharge
-	(3)	Subject to this section, if there has been an avoidance of surcharge, the Commissioner may:
-	(a)	if the Commissioner is of the opinion that the avoidance of surcharge is due to fraud or evasion—at any time; or
-	(b)	in any other case—within 4 years from the date upon which the surcharge became due and payable under the assessment;
-amend the assessment by making such alterations or additions as the Commissioner thinks necessary to correct the assessment.
-Period where amendment reduces surcharge
-	(4)	An amendment effecting a reduction in the amount of surcharge payable under an assessment is not to be made after the end of 4 years from the date upon which the surcharge became due and payable under the assessment.
-Application or request for extension of period
-	(5)	If:
-	(a)	the Commissioner has begun an examination of the affairs of a taxpayer; and
-	(b)	the examination was not completed within the period within which the Commissioner may amend an assessment to which the examination relates under subsection (3) or, if that period has been extended by any previous order or orders of the Federal Court of Australia made under subsection (6), or by any previous consent or consents of the taxpayer given under subsection (7), within that period as so extended;
-the Commissioner may, before the end of the period referred to in paragraph (b) of this subsection, apply to the Federal Court for an order extending, or request the taxpayer to consent to the extension of, the period within which the Commissioner may amend the assessment under paragraph (3)(b).
-Court may extend period
-	(6)	If, on application made to the Federal Court of Australia in accordance with subsection (5), the Court is satisfied that it was not reasonably practicable, or it was inappropriate, for the Commissioner to complete the examination within the period referred to in paragraph (5)(b) because of any action taken by the taxpayer or any failure of the taxpayer to take action that it would have been reasonable for the taxpayer to take, the Court may make an order extending the period within which the Commissioner may amend the assessment under paragraph (3)(b) for such period as the Court considers appropriate.
-Taxpayer may extend period
-	(7)	If a request is made to the taxpayer in accordance with subsection (5), the taxpayer may, by writing, consent to the extension of the period within which the Commissioner may amend the assessment under paragraph (3)(b) for such period as is specified in the instrument of consent.
-Meaning of take action
-	(8)	In subsection (6), a reference to action taken by a taxpayer includes a reference to the institution by the taxpayer of a proceeding before a court or tribunal.
-Period for further amendment reducing surcharge
-	(9)	If an assessment has, under this section, been amended in any particular, the Commissioner may, within 4 years from the date upon which surcharge became due under the amended assessment, make, in or in respect of that particular, such further amendment of the assessment as, in the Commissioner’s opinion, is necessary to effect such reduction in the amount of surcharge payable under the assessment as is just.
-Case when subsection (9) does not apply
-	(10)	Subsection (9) does not authorise the further amendment of an earlier further amendment of an assessment made under subsection (2).
-Assessment following application by taxpayer
-	(11)	If:
-	(a)	an application for an amendment of an assessment is made by a taxpayer within 4 years from the date upon which surcharge became due and payable under the assessment; and
-	(b)	the taxpayer has given to the Commissioner within that period all information needed by the Commissioner for the purpose of deciding the application;
-the Commissioner may amend the assessment when he or she decides the application even though that period has elapsed.
-How application for amendment is to be made
-	(12)	An application for amendment must be made in writing, on a data processing device or by way of electronic transmission and must be signed in accordance with the regulations.
-Information to be contained in application
-	(13)	An application for amendment must be given in the prescribed manner and contain the prescribed information.
-Certain other powers of amendment not affected
-	(14)	Nothing in this section prevents:
-	(a)	the amendment of an assessment in order to give effect to the decision upon any appeal or review; or
-	(b)	the amendment of an assessment by way of reduction in the amount of surcharge payable pursuant to an objection made against the assessment or pending any appeal or review.
+Information to be included in an assessment
+	(3)	An assessment of surcharge must explain the calculations on which the assessment was based, including particulars of the adjusted taxable income for the financial year, the termination payments and the amount of surcharge, and must state the day by which the surcharge is payable.
+Copy of assessment to be given to taxpayer
+	(4)	When an assessment (including an amended assessment) is made, the Commissioner must give a copy to the taxpayer.
+Nil assessment
+	(5)	If the Commissioner calculates that no surcharge is payable by a taxpayer for a financial year, the calculation is taken, for the purposes of this Act other than subsection (4), to be an assessment on which a nil amount of surcharge was due and payable.
 12  Amendment of assessments
 Application
 	(1)	This section applies if, after the making of an assessment of surcharge on a termination payment or termination payments made to or for a taxpayer in a financial year:
@@ -216,8 +162,6 @@ Amendment reducing surcharge
 	(b)	the Commissioner must:
 	(i)	refund the amount of any surcharge overpaid; or
 	(ii)	apply that amount against any liability of the taxpayer to the Commonwealth under this Act, and refund to the taxpayer any part of that amount not so applied.
-This section subject to section 11A
-	(5)	This section is subject to section 11A.
 13  Payment of general interest charge if liability increased by amended assessment
 Liability to pay general interest charge
 	(1)	If an amendment of an assessment increasing a taxpayer’s liability to pay surcharge for a financial year is made, the taxpayer is liable to pay the general interest charge on the amount of the increase for each day in the period that:
@@ -236,9 +180,8 @@ that assessment is taken to be an amended assessment.
 	(a)	an assessment of surcharge payable by a taxpayer is made; and
 	(b)	the taxpayer is dissatisfied with the assessment;
 the taxpayer may object against it in the way set out in Part IVC of the Taxation Administration Act 1953.
-
+
 Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty
-  
 16  Penalty for non‑payment of surcharge 
 Liability to pay general interest charge
 	(1)	If an amount of surcharge payable by a taxpayer remains unpaid after the time by which it is due to be paid, the taxpayer is liable to pay the general interest charge on the unpaid amount.
@@ -270,9 +213,7 @@ General interest charge period
 	(c)	late payment penalty that is due and payable.
 18  Payment of surcharge, general interest charge or late payment penalty 
 		Surcharge, general interest charge and late payment penalty are payable to the Commissioner.
-
 Part 5—Administration
-  
 21  General administration of Act
 		The Commissioner has the general administration of this Act.
 22  Annual report
@@ -320,9 +261,8 @@ Information may be divulged to court for purposes of this Act
 where it is necessary to do so for the purpose of carrying into effect the provisions of this Act.
 Oath or declaration of secrecy
 	(8)	A person to whom this section applies must, if and when required by the Commissioner, a Second Commissioner or a Deputy Commissioner to do so, make an oath or declaration, in a manner and form determined by the Commissioner in writing, to maintain secrecy in accordance with this section.
-
+
 Part 6—Miscellaneous
-  
 24  Authorised officers
 		The Commissioner may, by writing, authorise a person who is an officer or employee within the meaning of the Public Service Act 1922 to be an authorised officer for the purposes of a provision or provisions of this Part.
 25  Evidence 
@@ -394,11 +334,11 @@ Note 2:	The amount of a penalty unit is stated in section 4AA of the Crimes Act 
 	(c)	the third party holds money on account of some other person for payment to the surcharge payer; or
 	(d)	the third party has authority from some other person to pay money to the surcharge payer;
 whether or not the payment of the money to the surcharge payer is dependent on a pre‑condition that has not been fulfilled.
-	(9)	For the purposes of this section, money that has been paid by a person to a co‑operative housing society for the issue of withdrawable shares in the capital of the society, but has not been repaid, is taken to be:
+	(9)	For the purposes of this section, money that has been paid by a person to a co-operative housing society for the issue of withdrawable shares in the capital of the society, but has not been repaid, is taken to be:
 	(a)	if the money is repayable on demand—money due by the co‑operative housing society to the person; or
-	(b)	if the money is not repayable on demand—money that may become due by the co‑operative housing society to the person.
+	(b)	if the money is not repayable on demand—money that may become due by the co-operative housing society to the person.
 	(10)	In this section:
-co‑operative housing society means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
+co-operative housing society means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
 person includes:
 	(a)	the Commonwealth, a State or a Territory; and
 	(b)	a public authority of the Commonwealth or of a State or Territory, whether or not the authority is incorporated.
@@ -416,13 +356,12 @@ surcharge payer means a person who is liable to pay termination payments surchar
 		The Governor‑General may make regulations prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
+
 Part 7—Interpretation
-  
 31  Definitions 
 		In this Act, unless the contrary intention applies:
 adjusted taxable income of a taxpayer has the same meaning as adjusted taxable income of a member has in the Superannuation Contributions Tax (Assessment and Collection) Act 1997.
-assessment means an assessment made under subsection 11(1).
+assessment means an assessment of surcharge.
 authorised officer means an officer or employee within the meaning of the Public Service Act 1922 who has been authorised in writing by the Commissioner for the purposes of the provision in which the expression occurs.
 Commissioner means the Commissioner of Taxation.
 Deputy Commissioner means a Deputy Commissioner of Taxation.
@@ -436,11 +375,10 @@ surcharge threshold has the meaning given by section 10.
 taxpayer means an individual who is a taxpayer for the purposes of the Income Tax Assessment Act but does not include an individual acting as a trustee.
 termination payment has the meaning given by subsection 7(2).
 termination payments surcharge or surcharge means the tax imposed by the Termination Payments Tax Imposition Act 1997.
-the 1996‑97 financial year means the financial year that started on 1 July 1996.
+the 1996-97 financial year means the financial year that started on 1 July 1996.
 Notes to the Termination Payments Tax (Assessment and Collection) Act 1997
 Note 1
 The Termination Payments Tax (Assessment and Collection) Act 1997 as shown in this consolidation comprises Act No. 73, 1997 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -455,17 +393,7 @@ Termination Payments Tax (Assessment and Collection) Act 1997
 Taxation Laws Amendment Act (No. 3) 1997
 147, 1997
 14 Oct 1997
-Schedule 1 (item 44): Royal Assent (a)
-—
-as amended by
-
-
-
-
-Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999
-131, 1999
-13 Oct 1999
-Schedule 6: 14 Oct 1997 (aa)
+Schedule 1 (Item 44): Royal Assent (a)
 —
 Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997
 191, 1997
@@ -475,46 +403,31 @@ Schedule 9: 5 June 1997 (b)
 Taxation Laws Amendment Act (No. 3) 1999
 11, 1999
 31 Mar 1999
-Schedule 1 (items 376‑392): 1 July 1999 (c)
+Schedule 1 (items 376-392): 1 July 1999 (c)
 
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
 44, 1999
 17 June 1999
-Schedule 7 (items 229-231): 1 July 1999 (see Gazette 1999, No. S283) (d)
+Schedule 7 (items 229–231): 1 July 1999 (see Gazette 1999, No. S283) (d)
 —
-Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999
-131, 1999
-13 Oct 1999
-Schedule 3: Royal Assent (e)
-Sch. 3 (item 7) 
 (a)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (Item 44) only of the Taxation Laws Amendment Act (No. 3) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(aa)	The Taxation Laws Amendment Act (No. 3) 1997 was amended by Schedule 6 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(4) of which provides as follows:
-	(4)	Schedule 6 is taken to have commenced on 14 October 1997, immediately after the commencement of Schedule 1 to the Taxation Laws Amendment Act (No. 3) 1997.
 (b)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 9 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997, subsection 2(5) of which provides as follows:
 	(5)	Schedule 9 is taken to have commenced on 5 June 1997, immediately after the commencement of the Termination Payments Tax (Assessment and Collection) Act 1997.
 (c)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (items 376‑392) only of the Taxation Laws Amendment Act (No. 3) 1999, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999.
-(d)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 7 (items 229‑231) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(2)(e) and (16) of which provide as follows:
+(d)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 7 (items 229–231) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(2)(e) and (16) of which provide as follows:
 	(2)	The following provisions commence on the transfer date:
 	(e)	subject to subsections (12), (14) and (15), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)). 
-	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
-(e)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 3 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(1)of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	(16)	The Governor-General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 6	
-am. Nos. 11 and 131, 1999
-S. 7	
-am. No. 147, 1997 (as am. by No. 131, 1999)
-S. 11	
-am. No. 131, 1999
-S. 11A	
-ad. No. 131, 1999
+am. No. 11, 1999
 S. 12	
-am. No. 191, 1997; No. 131, 1999
+am. No. 191, 1997
 S. 13	
 rs. No. 11, 1999
 Heading to Part 4	
@@ -548,13 +461,11 @@ ad. No. 191, 1997
 
 am. Nos. 11 and 44, 1999
 S. 31	
-am. No. 191, 1997; Nos. 11 and 131, 1999
+am. No. 191, 1997; No. 11, 1999
 
-Table A
-Application, saving or transitional provision
-Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999 (No. 131, 1999
-Schedule 3  
-7  Application of amendments
-		The amendments made by items 2 to 6 apply to assessments of surcharge payable for the financial year beginning on 1 July 1999 and later financial years.
-      
+Note 2
+Subsection 7(2)—Schedule 1 (item 44) of the Taxation Laws Amendment Act (No. 3) 1997 provides as follows:
+44  Subsection 7(2)
+After “invalidity payment”, insert “or CGT exempt component”.
+The proposed amendment was misdescribed and is not incorporated in this consolidation.
 
