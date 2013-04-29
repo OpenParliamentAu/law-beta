@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00656/Html/b40f6dc7-63e7-41ed-842b-881099931312_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00116/Html/ecf44a6a-cf0d-4e77-8a6d-b8f27f810c70_files/image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 16 August 2011
- taking into account amendments up to Act No. 89 of 2011
+This compilation was prepared on 1 March 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 Reader’s Guide
 
@@ -44,7 +44,7 @@ Related legislation
 
                    The following Acts are directly relevant to the operation or interpretation of this Act.
 
-                   The _Auditor‑General Act 1997_ establishes the Office of Auditor‑General and sets out the functions of the Auditor‑General.
+                   The _Auditor-General Act 1997_ establishes the Office of Auditor-General and sets out the functions of the Auditor-General.
 
                    The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of various terms and provisions that are commonly used in Commonwealth Acts.
 
@@ -76,7 +76,7 @@ Related legislation
 
 [7](#7).            Meaning of _Commonwealth authority_
 
-[8](#8).            Role of Auditor‑General
+[8](#8).            Role of Auditor-General
 
     **Division 2—Reporting obligations** 
 
@@ -184,9 +184,9 @@ Related legislation
 
     **Division 1—Preliminary**
 
-[34](#34).          Meaning of _Commonwealth company, wholly‑owned Commonwealth company and related terms_
+[34](#34).          Meaning of _Commonwealth company, wholly-owned Commonwealth company and related terms_
 
-[35](#35).          Role of Auditor‑General
+[35](#35).          Role of Auditor-General
 
     **Division 2—Reporting obligations** 
 
@@ -450,7 +450,7 @@ Related legislation
 
                     <a name="control"></a><a name="entiti"></a><a name="subsidiari"></a>**_subsidiary_**, in relation to a Commonwealth authority or Commonwealth company, means an entity that is controlled by the Commonwealth authority or Commonwealth company. For this purpose, **_entity_** and **_control_** have the same meanings as in the accounting standard that applies for the purpose of deciding whether a company has to prepare consolidated financial statements under the _Corporations Act 2001_.
 
-                    <a name="compani"></a><a name="commonwealth"></a><a name="wholli-owned"></a>**_wholly‑owned_****_Commonwealth_****_company_** has the meaning given by section 34.
+                    <a name="compani"></a><a name="commonwealth"></a><a name="wholli-owned"></a>**_wholly-owned_****_Commonwealth_****_company_** has the meaning given by section 34.
 
 ##### <a id="6"></a>6  Civil penalties
 
@@ -484,13 +484,13 @@ Related legislation
 
              (3)  For the purposes of subsection (1), all money that a body holds is taken to be held by it on its own account, unless the money is public money as defined in section 5 of the _Financial Management and Accountability Act 1997_.
 
-##### <a id="8"></a>8  Role of Auditor‑General
+##### <a id="8"></a>8  Role of Auditor-General
 
-             (1)  The Auditor‑General is to be the auditor of each Commonwealth authority.
+             (1)  The Auditor-General is to be the auditor of each Commonwealth authority.
 
-             (2)  The Auditor‑General is to audit the financial statements of each subsidiary of a Commonwealth authority (there are exceptions to this—see subsection 12(4)).
+             (2)  The Auditor-General is to audit the financial statements of each subsidiary of a Commonwealth authority (there are exceptions to this—see subsection 12(4)).
 
-Note:          If the Auditor‑General is not the subsidiary’s auditor, this means that the Auditor‑General has to do an audit of the statements in addition to that done by the subsidiary’s auditor.
+Note:          If the Auditor-General is not the subsidiary’s auditor, this means that the Auditor-General has to do an audit of the statements in addition to that done by the subsidiary’s auditor.
 
 ### Division 2—Reporting obligations
 
@@ -546,21 +546,21 @@ Note:          This subsection is a civil penalty provision (s
 
 ##### <a id="12"></a>12  Audit of relevant subsidiary’s financial statements
 
-             (1)  Subject to subsection (4), the directors of a Commonwealth authority must do whatever is necessary to ensure that all relevant subsidiary’s financial statements are audited by the Auditor‑General.
+             (1)  Subject to subsection (4), the directors of a Commonwealth authority must do whatever is necessary to ensure that all relevant subsidiary’s financial statements are audited by the Auditor-General.
 
-             (2)  For a subsidiary that is a Corporations Act company that, under the _Corporations Act 2001_, is required to have those statements audited, the Auditor‑General’s report on the subsidiary’s financial statements must be prepared using the relevant rules in the _Corporations Act 2001_. Those rules must also be used for other subsidiaries, so far as is practicable.
+             (2)  For a subsidiary that is a Corporations Act company that, under the _Corporations Act 2001_, is required to have those statements audited, the Auditor-General’s report on the subsidiary’s financial statements must be prepared using the relevant rules in the _Corporations Act 2001_. Those rules must also be used for other subsidiaries, so far as is practicable.
 
              (3)  The directors of the authority must give the report to the responsible Minister, together with a copy of the relevant subsidiary’s financial statements.
 
-             (4)  Relevant financial statements of a subsidiary do not have to be audited by the Auditor‑General if:
+             (4)  Relevant financial statements of a subsidiary do not have to be audited by the Auditor-General if:
 
                      (a)  the subsidiary is incorporated or formed in a place outside Australia; and
 
                      (b)  either:
 
-                              (i)  under the law applying to the subsidiary in that place, the Auditor‑General cannot be appointed as auditor of the subsidiary; or
+                              (i)  under the law applying to the subsidiary in that place, the Auditor-General cannot be appointed as auditor of the subsidiary; or
 
-                             (ii)  in the Auditor‑General’s opinion, it is impracticable or unreasonable for the Auditor‑General to audit, or to be required to audit, the statements.
+                             (ii)  in the Auditor-General’s opinion, it is impracticable or unreasonable for the Auditor-General to audit, or to be required to audit, the statements.
 
              (5)  In this section:
 
@@ -588,7 +588,7 @@ Note:          This subsection is a civil penalty provision (s
 
                      (b)  financial statements, prepared by the directors in accordance with the Finance Minister’s Orders; and
 
-                     (c)  a report prepared by the Auditor‑General in accordance with the regulations.
+                     (c)  a report prepared by the Auditor-General in accordance with the regulations.
 
              (3)  The directors must give the interim report to the responsible Minister within 2 months after the end of the period to which the report relates.
 
@@ -666,7 +666,7 @@ Note:          This subsection is a civil penalty provision (s
 
                       (f)  the dividend policy of the authority;
 
-                     (g)  non‑financial performance measures for the authority;
+                     (g)  non-financial performance measures for the authority;
 
                      (h)  community service obligations of the authority and the strategies and policies the authority is to follow to carry out those obligations;
 
@@ -806,7 +806,7 @@ Good faith—officers
 
 Note 1:       This subsection is a civil penalty provision (see Schedule 2).
 
-Note 2:       Section 187 of the _Corporations Act 2001_ deals with the position of directors of wholly‑owned subsidiaries of Commonwealth authorities.
+Note 2:       Section 187 of the _Corporations Act 2001_ deals with the position of directors of wholly-owned subsidiaries of Commonwealth authorities.
 
 Note 3:       Section 27A makes provision for persons who are also APS employees or Agency Heads.
 
@@ -876,7 +876,7 @@ and fails to exercise his or her powers and discharge his or her duties:
 
                      (d)  for a proper purpose.
 
-Note:          Section 187 of the _Corporations Act 2001_ deals with the position of directors of wholly‑owned subsidiaries of Commonwealth authorities.
+Note:          Section 187 of the _Corporations Act 2001_ deals with the position of directors of wholly-owned subsidiaries of Commonwealth authorities.
 
                     Penalty for a contravention of this subsection: 2,000 penalty units or imprisonment for 5 years, or both.
 
@@ -1438,7 +1438,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ### Division 1—Preliminary
 
-##### <a id="34"></a>34  Meaning of _Commonwealth company,__wholly‑owned__Commonwealth__company and related terms_
+##### <a id="34"></a>34  Meaning of _Commonwealth company,__wholly-owned__Commonwealth__company and related terms_
 
 Meaning of **Commonwealth company**
 
@@ -1450,9 +1450,9 @@ Meaning of **controls**
 
                      (a)  controls the composition of the company’s board; or
 
-                     (b)  is in a position to cast, or control the casting of, more than one‑half of the maximum number of votes that might be cast at a general meeting of the company; or
+                     (b)  is in a position to cast, or control the casting of, more than one-half of the maximum number of votes that might be cast at a general meeting of the company; or
 
-                     (c)  holds more than one‑half of the issued share capital of the company (excluding any part of that issued share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital).
+                     (c)  holds more than one-half of the issued share capital of the company (excluding any part of that issued share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital).
 
           (1B)  Without limiting paragraph (1A)(a), the Commonwealth is taken to control the composition of a company’s board if the Commonwealth can appoint or remove all, or the majority, of the directors of the company.
 
@@ -1466,23 +1466,23 @@ Meaning of **controls**
 
                              (ii)  a statutory office holder.
 
-Meaning of **wholly‑owned****Commonwealth****company**
+Meaning of **wholly-owned****Commonwealth****company**
 
-             (2)  In this Act, **_wholly‑owned_****_Commonwealth_****_company_** means any Commonwealth company, other than a company any of the shares in which are beneficially owned by a person other than the Commonwealth.
+             (2)  In this Act, **_wholly-owned_****_Commonwealth_****_company_** means any Commonwealth company, other than a company any of the shares in which are beneficially owned by a person other than the Commonwealth.
 
-Note:          Because of this definition, a Commonwealth company which is limited by guarantee is a wholly‑owned Commonwealth company.
+Note:          Because of this definition, a Commonwealth company which is limited by guarantee is a wholly-owned Commonwealth company.
 
-##### <a id="35"></a>35  Role of Auditor‑General
+##### <a id="35"></a>35  Role of Auditor-General
 
-             (1)  The Auditor‑General is, in relation to each Commonwealth company, either:
+             (1)  The Auditor-General is, in relation to each Commonwealth company, either:
 
                      (a)  to be the auditor of the company under the _Corporations Act 2001_; or
 
                      (b)  if someone else is the company’s auditor—to give a report on the company’s financial statements (see subsection 36(2)).
 
-             (2)  The Auditor‑General is to audit the financial statements of each subsidiary of a Commonwealth company (there are exceptions to this—see subsection 37(4)).
+             (2)  The Auditor-General is to audit the financial statements of each subsidiary of a Commonwealth company (there are exceptions to this—see subsection 37(4)).
 
-Note:          If the Auditor‑General is not the subsidiary’s auditor, this means that the Auditor‑General has to do an audit of the statements in addition to that done by the subsidiary’s auditor.
+Note:          If the Auditor-General is not the subsidiary’s auditor, this means that the Auditor-General has to do an audit of the statements in addition to that done by the subsidiary’s auditor.
 
 ### Division 2—Reporting obligations
 
@@ -1496,7 +1496,7 @@ Note:          If the Auditor‑General is not the subsidiary�
 
                      (b)  any additional report under subsection (2); and
 
-                     (c)  in the case of a wholly‑owned Commonwealth company—any additional information or report required by the Finance Minister’s Orders.
+                     (c)  in the case of a wholly-owned Commonwealth company—any additional information or report required by the Finance Minister’s Orders.
 
           (1A)  The Commonwealth company must give the reports and information by:
 
@@ -1522,29 +1522,29 @@ Note:          This is a civil penalty provision (see Schedule
 
                     Penalty:  2,000 penalty units or imprisonment for 5 years, or both.
 
-             (2)  If the auditor’s report required by the _Corporations Act 2001_ was prepared by an auditor other than the Auditor‑General, subsection (1) also requires the company to give a report by the Auditor‑General on the financial statements.
+             (2)  If the auditor’s report required by the _Corporations Act 2001_ was prepared by an auditor other than the Auditor-General, subsection (1) also requires the company to give a report by the Auditor-General on the financial statements.
 
-             (3)  In preparing a report for the purposes of subsection (2), the Auditor‑General must use the same _Corporations Act 2001_ rules as applied to the report by the other auditor.
+             (3)  In preparing a report for the purposes of subsection (2), the Auditor-General must use the same _Corporations Act 2001_ rules as applied to the report by the other auditor.
 
-             (4)  If the Commonwealth company is a wholly‑owned Commonwealth company, or is not required to hold an annual general meeting, the responsible Minister must table the documents in each House of the Parliament as soon as practicable after receiving them. In all other cases, the Minister must table the documents in each House of the Parliament as soon as practicable after the annual general meeting of the company.
+             (4)  If the Commonwealth company is a wholly-owned Commonwealth company, or is not required to hold an annual general meeting, the responsible Minister must table the documents in each House of the Parliament as soon as practicable after receiving them. In all other cases, the Minister must table the documents in each House of the Parliament as soon as practicable after the annual general meeting of the company.
 
 ##### <a id="37"></a>37  Audit of relevant subsidiary’s financial statements
 
-             (1)  Subject to subsection (4), the directors of a Commonwealth company must do whatever is necessary to ensure that all relevant subsidiary’s financial statements are audited by the Auditor‑General.
+             (1)  Subject to subsection (4), the directors of a Commonwealth company must do whatever is necessary to ensure that all relevant subsidiary’s financial statements are audited by the Auditor-General.
 
-             (2)  For a subsidiary that is a Corporations Act company that, under the _Corporations Act 2001_, is required to have financial statements audited, the Auditor‑General’s report must be prepared using the relevant rules in the _Corporations Act 2001_. Those rules must also be used for other subsidiaries, so far as is practicable.
+             (2)  For a subsidiary that is a Corporations Act company that, under the _Corporations Act 2001_, is required to have financial statements audited, the Auditor-General’s report must be prepared using the relevant rules in the _Corporations Act 2001_. Those rules must also be used for other subsidiaries, so far as is practicable.
 
              (3)  The directors of the Commonwealth company must give the report to the responsible Minister, together with a copy of the relevant subsidiary’s financial statements.
 
-             (4)  Relevant financial statements of a subsidiary do not have to be audited by the Auditor‑General if:
+             (4)  Relevant financial statements of a subsidiary do not have to be audited by the Auditor-General if:
 
                      (a)  the subsidiary is incorporated or formed in a place outside Australia; and
 
                      (b)  either:
 
-                              (i)  under the law applying to the subsidiary in that place, the Auditor‑General cannot be appointed as auditor of the subsidiary; or
+                              (i)  under the law applying to the subsidiary in that place, the Auditor-General cannot be appointed as auditor of the subsidiary; or
 
-                             (ii)  in the Auditor‑General’s opinion, it is impracticable or unreasonable for the Auditor‑General to audit, or to be required to audit, the statements.
+                             (ii)  in the Auditor-General’s opinion, it is impracticable or unreasonable for the Auditor-General to audit, or to be required to audit, the statements.
 
              (5)  In this section:
 
@@ -1554,7 +1554,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="38"></a>38  Interim reports
 
-             (1)  The Finance Minister may, by notice in the _Gazette_, require particular wholly‑owned Commonwealth companies or a class of wholly‑owned Commonwealth companies to give the responsible Minister either:
+             (1)  The Finance Minister may, by notice in the _Gazette_, require particular wholly-owned Commonwealth companies or a class of wholly-owned Commonwealth companies to give the responsible Minister either:
 
                      (a)  an interim report for the first 6 months of a financial year; or
 
@@ -1572,7 +1572,7 @@ Note:          This is a civil penalty provision (see Schedule
 
                      (b)  financial statements, prepared by the directors in accordance with the Finance Minister’s Orders; and
 
-                     (c)  a report prepared by the Auditor‑General in accordance with the regulations.
+                     (c)  a report prepared by the Auditor-General in accordance with the regulations.
 
              (3)  The directors must give the interim report to the responsible Minister within 2 months after the end of the period to which the report relates.
 
@@ -1582,7 +1582,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="39"></a>39  Estimates
 
-             (1)  The directors of a wholly‑owned Commonwealth company (other than a GBE) must prepare budget estimates for each financial year, and for any other periods directed by the responsible Minister.
+             (1)  The directors of a wholly-owned Commonwealth company (other than a GBE) must prepare budget estimates for each financial year, and for any other periods directed by the responsible Minister.
 
              (2)  The estimates:
 
@@ -1592,7 +1592,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="40"></a>40  Responsible Minister to be notified of significant events
 
-             (1)  If a wholly‑owned Commonwealth company, or any of its subsidiaries, proposes to do any of the following things, the directors of the Commonwealth company must immediately give the responsible Minister written particulars of the proposal:
+             (1)  If a wholly-owned Commonwealth company, or any of its subsidiaries, proposes to do any of the following things, the directors of the Commonwealth company must immediately give the responsible Minister written particulars of the proposal:
 
                      (a)  form a company or participate in the formation of a company;
 
@@ -1610,7 +1610,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="41"></a>41  Keeping responsible Minister and Finance Minister informed
 
-             (1)  The directors of a wholly‑owned Commonwealth company must:
+             (1)  The directors of a wholly-owned Commonwealth company must:
 
                      (a)  keep the responsible Minister informed of the operations of the Commonwealth company and its subsidiaries; and
 
@@ -1622,7 +1622,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="42"></a>42  Corporate plan for GBE
 
-             (1)  This section applies to a wholly‑owned  Commonwealth company that is a GBE.
+             (1)  This section applies to a wholly-owned Commonwealth company that is a GBE.
 
              (2)  The directors must prepare a corporate plan at least once a year and give it to the responsible Minister.
 
@@ -1650,7 +1650,7 @@ Note:          This is a civil penalty provision (see Schedule
 
                       (f)  the dividend policy of the company;
 
-                     (g)  non‑financial performance measures for the company;
+                     (g)  non-financial performance measures for the company;
 
                      (h)  community service obligations of the company and the strategies and policies the company is to follow to carry out those obligations;
 
@@ -1670,13 +1670,13 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="43"></a>43  Compliance with General Policy Orders
 
-             (1)  The directors of a wholly‑owned Commonwealth company must ensure that the company complies with a General Policy Order to the extent that the Order applies to the company.
+             (1)  The directors of a wholly-owned Commonwealth company must ensure that the company complies with a General Policy Order to the extent that the Order applies to the company.
 
              (2)  The directors must also ensure, as far as practicable, that the subsidiaries of the company comply with the Order to that extent.
 
 ##### <a id="44"></a>44  Audit committee
 
-             (1)  The directors of a wholly‑owned Commonwealth company must establish and maintain an audit committee with functions that include:
+             (1)  The directors of a wholly-owned Commonwealth company must establish and maintain an audit committee with functions that include:
 
                      (a)  helping the company and its directors to comply with obligations under this Act and the _Corporations Act 2001_; and
 
@@ -1704,7 +1704,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="47A"></a>47A  Compliance with government procurement requirements
 
-             (1)  This section applies to Commonwealth authorities, and wholly‑owned Commonwealth companies, specified in the regulations for the purposes of this section.
+             (1)  This section applies to Commonwealth authorities, and wholly-owned Commonwealth companies, specified in the regulations for the purposes of this section.
 
              (2)  Subject to subsection (3), the Finance Minister may, in writing, give directions to the directors of an authority or a company to which this section applies on matters related to the procurement of property or services.
 
@@ -1736,9 +1736,9 @@ Finance Minister to make General Policy Orders
 
 Consultation before making General Policy Orders
 
-             (2)  Before making a General Policy Order, the Finance Minister must be satisfied that the responsible Ministers for the Commonwealth authorities and wholly‑owned Commonwealth companies to which the Order will apply have consulted those authorities and companies on the application of the policy.
+             (2)  Before making a General Policy Order, the Finance Minister must be satisfied that the responsible Ministers for the Commonwealth authorities and wholly-owned Commonwealth companies to which the Order will apply have consulted those authorities and companies on the application of the policy.
 
-Note:          The responsible Ministers may consult with the Commonwealth authorities and wholly‑owned Commonwealth companies by consulting:
+Note:          The responsible Ministers may consult with the Commonwealth authorities and wholly-owned Commonwealth companies by consulting:
 
 (a)           if the authority or company has a Chair—the Chair; and
 
@@ -1748,17 +1748,17 @@ Authorities and companies that General Policy Orders apply to
 
              (3)  A General Policy Order applies to:
 
-                     (a)  if the Order is expressed to apply only to specified Commonwealth authorities or wholly‑owned Commonwealth companies—those specified authorities or companies; and
+                     (a)  if the Order is expressed to apply only to specified Commonwealth authorities or wholly-owned Commonwealth companies—those specified authorities or companies; and
 
-                     (b)  if the Order is expressed to apply to all Commonwealth authorities or wholly‑owned Commonwealth companies, other than:
+                     (b)  if the Order is expressed to apply to all Commonwealth authorities or wholly-owned Commonwealth companies, other than:
 
                               (i)  specified authorities or companies; or
 
                              (ii)  a class of authorities or companies;
 
-                            all Commonwealth authorities or wholly‑owned Commonwealth companies except those specified authorities or companies or those authorities or companies that are members of that class; and
+                            all Commonwealth authorities or wholly-owned Commonwealth companies except those specified authorities or companies or those authorities or companies that are members of that class; and
 
-                     (c)  otherwise—all Commonwealth authorities or wholly‑owned Commonwealth companies.
+                     (c)  otherwise—all Commonwealth authorities or wholly-owned Commonwealth companies.
 
 Partial application of General Policy Orders
 
@@ -1800,7 +1800,7 @@ General Policy Orders not to create offences or penalties
 
 ##### <a id="49"></a>49  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1826,7 +1826,7 @@ _Note:       See section 9._
 
                      (b)  financial statements, prepared by the directors under clause 2 of this Schedule; and
 
-                     (c)  the Auditor‑General’s report on those financial statements, prepared under Part 2 of this Schedule and addressed to the responsible Minister.
+                     (c)  the Auditor-General’s report on those financial statements, prepared under Part 2 of this Schedule and addressed to the responsible Minister.
 
 Note:          The report may include other matters, for example, matters that are required by another Act or by Ministerial guidelines.
 
@@ -1844,33 +1844,33 @@ Note:          The report may include other matters, for examp
 
 ##### <a id="3"></a>3  Whether the statements comply with the Finance Minister’s Orders
 
-             (1)  The Auditor‑General must state whether, in the Auditor‑General’s opinion, the financial statements:
+             (1)  The Auditor-General must state whether, in the Auditor-General’s opinion, the financial statements:
 
                      (a)  have been prepared in accordance with the Finance Minister’s Orders; and
 
                      (b)  give a true and fair view of the matters required by those Orders.
 
-             (2)  If the Auditor‑General is not of that opinion, the Auditor‑General must state the reasons.
+             (2)  If the Auditor-General is not of that opinion, the Auditor-General must state the reasons.
 
-             (3)  If the Auditor‑General is of the opinion that failing to prepare the financial statements in accordance with the Finance Minister’s Orders has a quantifiable financial effect, the Auditor‑General must quantify that financial effect and state the amount.
+             (3)  If the Auditor-General is of the opinion that failing to prepare the financial statements in accordance with the Finance Minister’s Orders has a quantifiable financial effect, the Auditor-General must quantify that financial effect and state the amount.
 
 ##### <a id="4"></a>4  Proper accounting records not kept
 
-                   If the Auditor‑General is of the opinion that the authority has contravened section 20, the Auditor‑General must state particulars of the contravention.
+                   If the Auditor-General is of the opinion that the authority has contravened section 20, the Auditor-General must state particulars of the contravention.
 
 ##### <a id="5"></a>5  Inadequate information and explanations
 
-                   If the Auditor‑General is of the opinion that the Auditor‑General did not obtain all necessary information and explanations, the Auditor‑General must state particulars of the shortcomings.
+                   If the Auditor-General is of the opinion that the Auditor-General did not obtain all necessary information and explanations, the Auditor-General must state particulars of the shortcomings.
 
 ##### <a id="6"></a>6  Subsidiaries’ financial statements
 
              (1)  This clause applies if the authority’s financial statements are consolidated financial statements.
 
-             (2)  The Auditor‑General must state the name of each entity (if any) that satisfies the following description:
+             (2)  The Auditor-General must state the name of each entity (if any) that satisfies the following description:
 
                      (a)  the entity was a subsidiary of the authority at any time during the financial year; and
 
-                     (b)  the Auditor‑General has not:
+                     (b)  the Auditor-General has not:
 
                               (i)  acted as auditor of the entity for the financial year; or
 
@@ -1878,19 +1878,19 @@ Note:          The report may include other matters, for examp
 
              (3)  If the consolidated financial statements include information derived from financial statements of an entity of a kind referred to in subclause (2), then:
 
-                     (a)  if the Auditor‑General has not examined those financial statements and the auditor’s report (if any) on them, the Auditor‑General must state that fact; and
+                     (a)  if the Auditor-General has not examined those financial statements and the auditor’s report (if any) on them, the Auditor-General must state that fact; and
 
-                     (b)  if an auditor’s report on any of those financial statements included any qualification, the Auditor‑General must state the name of the subsidiary and particulars of the qualification.
+                     (b)  if an auditor’s report on any of those financial statements included any qualification, the Auditor-General must state the name of the subsidiary and particulars of the qualification.
 
 ##### <a id="7"></a>7  Deficiencies in consolidation
 
-                   If the Auditor‑General is of the opinion that:
+                   If the Auditor-General is of the opinion that:
 
                      (a)  any of the financial statements that were used in preparing consolidated financial statements were not appropriate and proper, in both form and content, to be used in that way; or
 
                      (b)  there was any deficiency in the procedures and methods used in arriving at the amounts taken in to consolidated financial statements;
 
-the Auditor‑General must state particulars of the deficiency.
+the Auditor-General must state particulars of the deficiency.
 
 # Schedule 2—Civil consequences of contravening civil penalty provisions
 
@@ -2599,40 +2599,6 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 376–380) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 380) and Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>89, 2011</div>
-  </td>
-  <td>
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 7)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Authorities and Companies Act 1997_ was amended by Schedule 1 (item 299) only of the Public _Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -2865,7 +2831,7 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -3972,71 +3938,6 @@ Omit “at common law and in equity”, substitute “under the general law”.
 
 The proposed amendments were misdescribed and are not incorporated in this compilation.
 
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 376  Section 5 (definition of _APS employee_)
-
-Repeal the definition.
-
-## 377  Subsection 33(1)
-
-Omit “(1)”.
-
-## 378  Subsection 33(2)
-
-Repeal the subsection.
-
-## 379  Subsection 46(2) (definition of _modifications_)
-
-Repeal the definition.
-
-As at 16 August 2011 the amendments are not incorporated in this compilation.
-
-### Note 4
-
-_Financial Framework Legislation Amendment Act (No. 1) 2011
- (No. 89, 2011)_
-
-The following amendments commence on 4 August 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Subsection 17(4)
-
-Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
-
-## 2  Subsection 17(6)
-
-Repeal the subsection, substitute:
-
-             (6)  The plan must include details of matters (so far as they are applicable) specified in the regulations for the purposes of this subsection.
-
-## 3  Subsection 17(7)
-
-Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
-
-## 4  Subsection 42(4)
-
-Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
-
-## 5  Subsection 42(6)
-
-Repeal the subsection, substitute:
-
-             (6)  The plan must include details of matters (so far as they are applicable) specified in the regulations for the purposes of this subsection.
-
-## 6  Subsection 42(7)
-
-Omit “in subsection (6)”, substitute “specified in the regulations for the purposes of subsection (6)”.
-
-As at 16 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4074,7 +3975,7 @@ _Commonwealth Authorities and Companies Amendment Act 2008
 
 (1)       The amendments made by items 14 to 18, 46 to 48, 57 (in so far as the amendment made by that item relates to Commonwealth companies), 58 to 66 and 68 of this Schedule apply in relation to annual reports of a Commonwealth authority or Commonwealth company for financial years of the Commonwealth authority or Commonwealth company that commence on or after the commencement of this item.
 
-(2)       The amendments made by items 21 and 49 of this Schedule apply in relation to Auditor‑General’s reports on financial statements of a subsidiary of a Commonwealth authority or Commonwealth company for the subsidiary’s annual accounting periods that commence on or after the commencement of this item.
+(2)       The amendments made by items 21 and 49 of this Schedule apply in relation to Auditor-General’s reports on financial statements of a subsidiary of a Commonwealth authority or Commonwealth company for the subsidiary’s annual accounting periods that commence on or after the commencement of this item.
 
 (3)       The amendments made by items 24 and 57 (in so far as the amendment made by that item relates to Commonwealth authorities) of this Schedule apply in relation to accounting records of a Commonwealth authority for financial years of the Commonwealth authority that commence on or after the commencement of this item.
 
@@ -4100,13 +4001,13 @@ When part of section 28 notification ceases to be in force
 
 (4)       If a determination is made under item 73 that a part of all notifications about a particular general policy ceases to be in force, then that part of a section 28 notification about that policy ceases to be in force when the determination takes effect.
 
-## 72  Transitional provision—general policy notifications for wholly‑owned  Commonwealth company
+## 72  Transitional provision—general policy notifications for wholly-owned Commonwealth company
 
 Application of this item
 
 (1)       This item applies to a notification (a **_section 43 notification_**) that:
 
-                     (a)  was given to a wholly‑owned Commonwealth company under section 43 of the _Commonwealth Authorities and Companies Act 1997_ before the commencement of this item; and
+                     (a)  was given to a wholly-owned Commonwealth company under section 43 of the _Commonwealth Authorities and Companies Act 1997_ before the commencement of this item; and
 
                      (b)  is in force immediately before the commencement of this item.
 
@@ -4135,42 +4036,5 @@ When part of section 43 notification ceases to be in force
 ## 74  Transitional provision—general policy notifications
 
 Section 48A of the _Commonwealth Authorities and Companies Act 1997_ applies to consultation on the application of a general policy of the Australian Government occurring before or after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 380  Saving of regulations
-
-(1)       Regulations in force for the purposes of subsection 33(1) of the _Commonwealth Authorities and Companies Act 1997_ immediately before the commencement of this item continue in force on and after that commencement as if they were regulations in force for the purposes of section 33 of that Act.
-
-(2)       The amendment made by item 379 does not affect the validity of regulations in force for the purposes of subsection 46(1) of the _Commonwealth Authorities and Companies Act 1997_ immediately before the commencement of that item.
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 1) 2011
- (No. 89, 2011)_
-
-The following provision commences on 4 August 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 7  Application of amendments made by this Schedule
-
-The amendments made by this Schedule apply in respect of a corporate plan prepared on or after the commencement of this item.
 
  
