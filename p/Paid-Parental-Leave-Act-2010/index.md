@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00404/Html/ec3f52c5-0d67-48d5-a5ec-548516ca2319_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00209/Html/bdc0b6a7-a4d1-4d39-ac69-300978550400_files/image001.gif)
 
 # Paid Parental Leave Act 2010
 
 **Act No. 104 of 2010 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -881,6 +881,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [308](#308).        Regulations
 
 **Notes** 
+
 ## An Act to provide for the payment of parental leave pay, and for related purposes
 
 # Chapter 1—Introduction
@@ -889,7 +890,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Paid Parental Leave Act 2010_.
 
@@ -951,9 +952,9 @@ The Secretary cannot make that determination if the person is not eligible for p
 
 income test and the Australian residency test; and</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(b)   be the child’s primary carer;
+<li class="BoxList" style="margin-left:21.25pt">(b)   be the child’s primary
 
-and</li>
+carer; and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(c)   not have returned to work;
 
@@ -2221,7 +2222,7 @@ Step 4.   Use section 44 to round off the provisional indexed amount: the 
 
              (1)  The **_indexation factor_** is worked out using the following formula and applying subsections (2) and (3):
 
-![](http://www.comlaw.gov.au/Details/C2011C00404/Html/ec3f52c5-0d67-48d5-a5ec-548516ca2319_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00209/Html/bdc0b6a7-a4d1-4d39-ac69-300978550400_files/image002.gif)
 
 where:
 
@@ -2781,7 +2782,7 @@ Note 3:       See section 96 for when the employer is taken to hav
 
                      (c)  the amount of any other instalment that is to be paid to, or in relation to, the person on the payday for the instalment.
 
-##### <a id="74"></a>74  Method of payment of instalment payable by employer
+##### <a id="74"></a>74  Method of payment of instalment payable by employer
 
                    An instalment payable to a person by an employer must be paid in money by one, or a combination, of the following methods:
 
@@ -5400,7 +5401,7 @@ Working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00404/Html/ec3f52c5-0d67-48d5-a5ec-548516ca2319_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00209/Html/bdc0b6a7-a4d1-4d39-ac69-300978550400_files/image003.gif)
 
 where:
 
@@ -6126,7 +6127,7 @@ Offence
 
                     Penalty for contravention of this subsection:        Imprisonment for 2 years.
 
-##### <a id="234"></a>234  Arrangements for hearing of application
+##### <a id="234"></a>234  Arrangements for hearing of application
 
              (1)  If an application is made to the SSAT for review of a decision, the Principal Member must fix a day, time and place for the hearing of the application.
 
@@ -7450,7 +7451,7 @@ Note:          Notice of decisions can also be given electroni
 
 ##### <a id="308"></a>308  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor‑General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -7502,7 +7503,7 @@ of Assent</div>
     <div>104, 2010</div>
   </td>
   <td>
-    <div>14 July 2010</div>
+    <div>14 July 2010</div>
   </td>
   <td>
     <div>1 Oct 2010</div>
@@ -7522,24 +7523,7 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (item 131): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 468–505): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 6 (item 131): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -7601,273 +7585,5 @@ of Assent</div>
     <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 468  Section 6 (definition of _CEO_)
-
-Repeal the definition.
-
-## 469  Section 6
-
-Insert:
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-## 470  Section 6
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 470A  Section 6
-
-Insert:
-
-                    <a name="famili-assist-law"></a>**_family assistance law_** has the same meaning as in the _A New Tax System (Family Assistance) (Administration) Act 1999_.
-
-## 471  Section 6
-
-Insert:
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-## 472  Section 6
-
-Insert:
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
-
-## 473  Section 6 (paragraphs (b) and (c) of the definition of _PPL agency_)
-
-Repeal the paragraphs, substitute:
-
-                     (b)  the Human Services Department.
-
-## 474  Section 6 (definition of _PPL agency head_)
-
-Repeal the definition.
-
-## 475  Section 6
-
-Insert:
-
-                    <a name="ppl-agenc-repres"></a>**_PPL agency representative_** means:
-
-                     (a)  for the Department—the Secretary; or
-
-                     (b)  for the Human Services Department—the Chief Executive Centrelink or the Chief Executive Medicare.
-
-## 476  Section 6 (before paragraph (a) of the definition of _protected information_)
-
-Insert:
-
-                    (aa)  information about a person that is or was held in the records of the Department or the Human Services Department; or
-
-## 477  Section 6 (paragraph (a) of the definition of _protected information_)
-
-Omit “is or was held in the records of the Department or the Commonwealth Services Delivery Agency”, substitute “was held in the records of the Commonwealth Services Delivery Agency (within the meaning of the _Commonwealth Services Delivery Agency Act 1997_ as in force before 1 July 2011)”.
-
-## 478  Section 6 (paragraph (b) of the definition of _protected information_)
-
-Omit “is or was held in the records of Medicare Australia”, substitute “was held in the records of Medicare Australia (within the meaning of the _Medicare Australia Act 1973_ as in force before 1 July 2011)”.
-
-## 479  Section 6 (definition of _service arrangements_)
-
-Repeal the definition.
-
-## 479A  Section 6
-
-Insert:
-
-                    <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the Social Security Act.
-
-## 479B  After paragraph 127(2)(d)
-
-Insert:
-
-                   (da)  for the purposes of the family assistance law; or
-
-                   (db)  for the purposes of the social security law; or
-
-                   (dc)  for the purposes of the _Student Assistance Act 1973_; or
-
-## 480  Subsection 206(4)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 481  Subsection 207(4)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 482  Paragraph 208(4)(b)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 483  Section 213
-
-Omit:
-
-* * *
-
-This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency heads (which are not subject to internal review).
-
-* * *
-
-substitute:
-
-* * *
-
-This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency representatives (which are not subject to internal review).
-
-* * *
-
-## 484  Paragraph 215(1)(d)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 485  Subparagraphs 217(1)(a)(iii) and (iv)
-
-Repeal the subparagraphs, substitute:
-
-                            (iii)  if the decision was made by the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department—an office of the Human Services Department; or
-
-## 486  Subparagraph 218(c)(ii)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 487  Paragraphs 222(1)(c) and (d)
-
-Repeal the paragraphs, substitute:
-
-                     (c)  if the claimant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
-
-                     (d)  if the claimant decision was made by the Chief Executive Medicare—the Chief Executive Medicare; and
-
-## 488  Paragraph 223(1)(d)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 489  Subparagraph 226(c)(ii)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 490  Paragraphs 230(c) and (d)
-
-Repeal the paragraphs, substitute:
-
-                     (c)  if the relevant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
-
-                     (d)  if the relevant decision was made by the Chief Executive Medicare—the Chief Executive Medicare.
-
-## 491  Section 231
-
-Omit:
-
-* * *
-
-Division 3 sets out how people other than PPL agency heads may make submissions to the SSAT.
-
-Division 4 sets out how PPL agency heads may make submissions to the SSAT.
-
-* * *
-
-substitute:
-
-* * *
-
-Division 3 sets out how people other than PPL agency representatives may make submissions to the SSAT.
-
-Division 4 sets out how PPL agency representatives may make submissions to the SSAT.
-
-* * *
-
-## 492  Subsection 232(1)
-
-Omit “, of the Commonwealth Services Delivery Agency or of Medicare Australia”, substitute “or of the Human Services Department”.
-
-## 493  Division 3 of Part 5‑3 (heading)
-
-Repeal the heading, substitute:
-
-### Division 3—Submissions from parties other than PPL agency representatives
-
-## 494  Section 236
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-_Note:       The heading to section 236 is altered by omitting “PPL agency heads” and substituting “PPL agency representatives”._
-
-## 495  Division 4 of Part 5‑3 (heading)
-
-Repeal the heading, substitute:
-
-### Division 4—Submissions from PPL agency representatives
-
-## 496  Section 240
-
-Omit “PPL agency head” (wherever occurring), substitute “PPL agency representative”.
-
-_Note 1:    The heading to section 240 is altered by omitting “PPL agency heads” and substituting “PPL agency representatives”._
-
-_Note 2:    The heading to subsection 240(2) is altered by omitting “PPL agency head” and substituting “PPL agency representative”._
-
-_Note 3:    The heading to subsection 240(4) is altered by omitting “PPL agency head” and substituting “PPL agency representative”._
-
-## 497  Subsection 257(3)
-
-Omit “PPL agency head” (wherever occurring), substitute “PPL agency representative”.
-
-## 498  Subsection 257(6)
-
-Omit “PPL agency head”, substitute “PPL agency representative”.
-
-## 499  Paragraphs 266(1)(a) and (b)
-
-Repeal the paragraphs, substitute:
-
-                     (a)  if the decision that was reviewed by the SSAT was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink;
-
-                     (b)  if the decision that was reviewed by the SSAT was made by the Chief Executive Medicare—the Chief Executive Medicare;
-
-## 500  Paragraph 303(1)(b)
-
-Omit “but does not include the CEO or an employee of the Commonwealth Services Delivery Agency”, substitute “but not including the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department”.
-
-## 501  Subsection 303(2)
-
-Omit “and in accordance with service arrangements”.
-
-## 502  Subsection 303(2)
-
-Omit “the CEO of, or an employee of, the Commonwealth Services Delivery Agency or Medicare Australia”, substitute “the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department”.
-
-## 503  Paragraph 303(3)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                    (aa)  the Chief Executive Medicare; or
-
-## 504  Subsection 303(4)
-
-Omit “the CEO of the Commonwealth Services Delivery Agency or Medicare Australia”, substitute “the Chief Executive Centrelink or the Chief Executive Medicare”.
-
-## 505  Subsection 303(5)
-
-Repeal the subsection, substitute:
-
-             (5)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any other provision in the _Human Services (Centrelink) Act 1997_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
-
-             (6)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any other provision in the _Human Services (Medicare) Act 1973_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
-
-As at 30 May 2011 the amendments are not incorporated in this compilation.
 
  
