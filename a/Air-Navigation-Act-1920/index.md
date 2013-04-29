@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00264/Html/bfaa2861-329f-408d-835b-9a1b31ba2ab8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00563/Html/0af349c5-1c06-42d6-be7d-d5bd589e8e88_files/image001.gif)
 
 # Air Navigation Act 1920
 
 **Act No. 50 of 1920 as amended**
 
-This compilation was prepared on 15 February 2012
+This compilation was prepared on 22 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -303,6 +303,8 @@ Note:          A defendant bears an evidential burden in relat
                      (b)  that is under the protection of a foreign country; or
 
                      (c)  for whose international relations a foreign country is responsible.
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
 
                     <a name="australian-intern-airlin"></a>**_Australian international airline_** means an international airline (other than Qantas) that may be permitted to carry passengers or freight, or both passengers and freight, under a bilateral arrangement as an airline designated by Australia to operate a scheduled international air service.
 
@@ -3368,7 +3370,7 @@ Schedule 1 (items 9–11): Royal Assent <i>(p)</i></div>
     <div>5 Apr 2002</div>
   </td>
   <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -3472,7 +3474,7 @@ Schedule 2 (item 2): Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (am. by 149, 2004, Sch. 2 \[item 2]) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (am. by 149, 2004, Sch. 2 \[items 2, 3]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3507,7 +3509,7 @@ Remainder: Royal Assent</div>
 Schedule 2 (item 3): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 3) \[ <i>see</i>Table A]</div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -3556,7 +3558,8 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 3): 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653)</div>
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -3607,7 +3610,7 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 52) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 52) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3694,7 +3697,7 @@ _(o)_     The _Air Navigation Act 1920_ was amended by the _Transport Le
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
 
-_(p)_     The _Air Navigation Act 1920_ was amended by Schedule 1 (items 1–4) only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsections 2(1), (2) and (5) of which provide as follows:
+_(p)_     The _Air Navigation Act 1920_ was amended by Schedule 1 (Part A \[items 1–4]) only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsections 2(1), (2) and (5) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), Schedule 1 (other than items 9, 10 and 11) and Schedule 5 commence on a day or days to be fixed by Proclamation. 
 
@@ -3716,7 +3719,7 @@ _(s)_ The _Air Navigation Act 1920_ was amended by Schedule 3 (items 19–21
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(t)_ Subsection 2(1) (item 4) of the _Statute Law Revision Act 2002_ provides as follows:
+_(t)_ Subsection 2(1) (item 4) of  of the _Statute Law Revision Act 2002_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -3862,7 +3865,7 @@ _(u)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
 
 _(v)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provide as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences on the day or at the time specified in column 2 of the table.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 <table>
 <colgroup>
@@ -3899,7 +3902,7 @@ _(v)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 <tr>
   <td>
     <div>
-      2\. Sections 4 and 5
+      2\. Section 4
     </div>
   </td>
   <td>
@@ -4299,17 +4302,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 39, 1960; No. 72, 1961; No. 8, 1963; No. 79, 1971; No. 130, 1973; No. 91, 1977; No. 27, 1980; No. 69, 1986; No. 71, 1992; No. 5, 1994</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
@@ -4541,7 +4533,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 168, 1994; No. 95, 1995; No. 95, 1998; No. 156, 1999; No. 48, 2000; No. 55, 2001; No. 21, 2007; No. 46, 2011</div>
+    <div>am. No. 168, 1994; No. 95, 1995; No. 95, 1998; No. 156, 1999; No. 48, 2000; No. 55, 2001; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4952,39 +4944,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 19CD–19CH</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19CJ–19CN</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19CP–19CR</div>
+    <div>Ss. 19CD–19CR</div>
   </td>
   <td colspan="2">
     <div>ad. No. 174, 1995</div>
@@ -5040,22 +5000,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 19DA–19DF</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 19EA–19EE</div>
   </td>
   <td colspan="2">
@@ -5073,6 +5017,22 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 <tr>
   <td>
     <div>Ss. 19FA–19FH</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19DA–19DF</div>
   </td>
   <td colspan="2">
     <div>ad. No. 174, 1995</div>
@@ -5184,23 +5144,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 19HA–19HH</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19HJ</div>
+    <div>Ss. 19HA–19HJ</div>
   </td>
   <td colspan="2">
     <div>ad. No. 174, 1995</div>
@@ -5280,23 +5224,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>S. 19HN</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19HP–19HR</div>
+    <div>Ss. 19HN–19HR</div>
   </td>
   <td colspan="2">
     <div>ad. No. 174, 1995</div>
@@ -5663,34 +5591,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 22F–22H</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 8, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 9, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22J</div>
+    <div>Ss. 22F–22J</div>
   </td>
   <td>
     <div>ad. No. 89, 1995</div>
@@ -6028,7 +5929,23 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 22ZVA–22ZVG</div>
+    <div>Ss. 22ZVA, 22ZVB</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 143, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 9, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22ZVC–22ZVG</div>
   </td>
   <td colspan="2">
     <div>ad. No. 143, 2002</div>
@@ -6509,8 +6426,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>Heading to Second Schedule</div>
   </td>
   <td>
-    <div>
-rep. No. 27, 1980</div>
+    <div>rep. No. 27, 1980</div>
   </td>
   <td>
     <div></div>
@@ -6675,8 +6591,7 @@ rep. No. 27, 1980</div>
     <div>Heading to Seventh Schedule</div>
   </td>
   <td>
-    <div>
-rep. No. 27, 1980</div>
+    <div>rep. No. 27, 1980</div>
   </td>
   <td>
     <div></div>
@@ -6804,21 +6719,25 @@ rep. No. 27, 1980</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 52  Subsection 11A(4) (definition of _Australian citizen_)
+
+Repeal the definition.
+
+As at 22 July 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
-
-##### <a id="4"></a>4  Application of Amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002 (No. 8, 2002)_
 
 ##### <a id="4"></a>4  Application of Amendments
 
@@ -6925,12 +6844,6 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
 Subsection 15(2) (which deals with the obligation for aviation industry participants to comply with the transport security programs of other participants) of the _Aviation Transport Security Act 2004_ does not apply in relation to a program continued as a transport security program under paragraph 1(2)(b) of this Schedule.
 
-* * *
-
-_Aviation Security Amendment Act 2004 (No. 149, 2004)_
-
-## Schedule 2
-
 ## 3  Transitional provision
 
 The exercise or purported exercise (whether before, at or after the commencement of this item) of the power under regulation 5 of the _Air Navigation (Aviation Security Status Checking) Regulations 2004_ to determine that a person has an adverse aviation security status is taken for all purposes to be, and is taken for all purposes always to have been, prescribed administrative action in respect of the person for the purposes of Part IV of the _Australian Security Intelligence Organisation Act 1979_.
@@ -6988,6 +6901,8 @@ _Aviation Legislation Amendment (International Airline Licences and Carriers’ 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
