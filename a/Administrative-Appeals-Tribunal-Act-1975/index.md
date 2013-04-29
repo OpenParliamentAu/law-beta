@@ -1,370 +1,369 @@
-![](http://www.comlaw.gov.au/Details/C2011C00500/Html/d28bc5b0-15e2-4f92-9451-e20b5c69e9b7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00058/Html/AdminAppealsTribunal75_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 1 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[2A](#2A).         Tribunal’s objective                                                                              1
+[2A](#2A).         Tribunal’s objective
 
-[3](#3).            Interpretation                                                                                        1
+[3](#3).            Interpretation
 
-[4](#4).            Extension to external Territories                                                           5
+[4](#4).            Extension to external Territories
 
 **Part II—Establishment of the Administrative Appeals Tribunal** 
 
     **Division 1—Establishment of Tribunal**
 
-[5](#5).            Establishment of Tribunal                                                                    6
+[5](#5).            Establishment of Tribunal
 
     **Division 2—Members of Tribunal**
 
-[6](#6).            Appointment of members of Tribunal                                                  7
+[6](#6).            Appointment of members of Tribunal
 
-[7](#7).            Qualifications for appointment                                                             7
+[7](#7).            Qualifications for appointment
 
-[7A](#7A).         Appointment of a Judge as a presidential member not to affect tenure etc                8
+[7A](#7A).         Appointment of a Judge as a presidential member not to affect tenure etc 
 
-[8](#8).            Term of appointment                                                                            9
+[8](#8).            Term of appointment
 
-[9](#9).            Remuneration and allowances                                                              9
+[9](#9).            Remuneration and allowances
 
-[10](#10).          Acting appointments                                                                            9
+[10](#10).          Acting appointments
 
-[10A](#10A).       Delegation                                                                                          12
+[10A](#10A).       Delegation
 
-[10B](#10B).       Oath or affirmation of office                                                              12
+[10B](#10B).       Oath or affirmation of office
 
-[11](#11).          Outside employment                                                                          13
+[11](#11).          Outside employment
 
-[12](#12).          Leave of absence                                                                                13
+[12](#12).          Leave of absence
 
-[13](#13).          Removal from office                                                                          13
+[13](#13).          Removal from office
 
-[14](#14).          Disclosure of interests by members                                                   15
+[14](#14).          Disclosure of interests by members
 
-[15](#15).          Resignation                                                                                        16
+[15](#15).          Resignation
 
 **Part III—Organization of the Tribunal** 
 
     **Division 1—Divisions of the Tribunal**
 
-[19](#19).          Divisions of the Tribunal                                                                   17
+[19](#19).          Divisions of the Tribunal
 
     **Division 2—Arrangement of business of the Tribunal**
 
-[20](#20).          Arrangement of business                                                                   19
+[20](#20).          Arrangement of business
 
-[20A](#20A).       Places of sitting                                                                                  19
+[20A](#20A).       Places of sitting
 
     **Division 3—Constitution and reconstitution of the Tribunal**
 
-[20B](#20B).       President may give directions as to constitution of Tribunal              20
+[20B](#20B).       President may give directions as to constitution of Tribunal
 
-[21](#21).          Constitution of Tribunal for exercise of powers                                 20
+[21](#21).          Constitution of Tribunal for exercise of powers
 
-[21AA](#21AA).    Constitution of Security Appeals Division—general                         21
+[21AA](#21AA).    Constitution of Security Appeals Division—general
 
-[21AB](#21AB).    Constitution of Security Appeals Division—proceedings to review certain decisions under the _Archives Act 1983_                                                                                                           22
+[21AB](#21AB).    Constitution of Security Appeals Division—proceedings to review certain decisions under the _Archives Act 1983_
 
-[21A](#21A).       Reconstitution of Tribunal at the request of a party                            25
+[21A](#21A).       Reconstitution of Tribunal at the request of a party
 
-[22](#22).          Member Presiding                                                                              26
+[22](#22).          Member Presiding
 
-[23](#23).          Reconstitution of Tribunal if member is unavailable                          27
+[23](#23).          Reconstitution of Tribunal if member is unavailable
 
-[23A](#23A).       Reconstitution of Tribunal to achieve expeditious and efficient conduct of proceeding            29
+[23A](#23A).       Reconstitution of Tribunal to achieve expeditious and efficient conduct of proceeding
 
-[23B](#23B).       Matters to which the President must have regard in constituting the Tribunal          30
+[23B](#23B).       Matters to which the President must have regard in constituting the Tribunal
 
-[23C](#23C).       Limitation on composition of reconstituted Tribunal                          31
+[23C](#23C).       Limitation on composition of reconstituted Tribunal
 
-[23D](#23D).       Tribunal may have regard to record of previous proceeding              31
+[23D](#23D).       Tribunal may have regard to record of previous proceeding
 
-[23E](#23E).        Constitution of Tribunal for review of amount taxed—general rule   32
+[23E](#23E).        Constitution of Tribunal for review of amount taxed—general rule
 
-[23F](#23F).        Constitution of Tribunal for review of amount taxed—member unavailable            33
+[23F](#23F).        Constitution of Tribunal for review of amount taxed—member unavailable
 
 **Part IIIAA—Small Taxation Claims Tribunal**
 
-[24AA](#24AA).    Definitions                                                                                         35
+[24AA](#24AA).    Definitions
 
-[24AB](#24AB).    Reviews of relevant taxation decisions to be heard before the Taxation Appeals Division       35
+[24AB](#24AB).    Reviews of relevant taxation decisions to be heard before the Taxation Appeals Division
 
-[24AC](#24AC).    Small Taxation Claims Tribunal to hear certain tax disputes              35
+[24AC](#24AC).    Small Taxation Claims Tribunal to hear certain tax disputes
 
-[24AD](#24AD).    What happens if the Small Taxation Claims Tribunal considers that the tax in dispute is not less than the determined amount                                                                                               36
+[24AD](#24AD).    What happens if the Small Taxation Claims Tribunal considers that the tax in dispute is not less than the determined amount
 
 **Part IIIA—Management of the Tribunal** 
 
     **Division 1—Management responsibilities of President and Registrar**
 
-[24A](#24A).       Management of administrative affairs of Tribunal                              39
+[24A](#24A).       Management of administrative affairs of Tribunal
 
-[24B](#24B).       Registrar of the Tribunal                                                                    39
+[24B](#24B).       Registrar of the Tribunal
 
     **Division 2—Appointment, powers etc. of Registrar**
 
-[24C](#24C).       Appointment of Registrar                                                                   40
+[24C](#24C).       Appointment of Registrar
 
-[24D](#24D).       Powers of the Registrar                                                                      40
+[24D](#24D).       Powers of the Registrar
 
-[24E](#24E).        Remuneration of Registrar                                                                 40
+[24E](#24E).        Remuneration of Registrar
 
-[24F](#24F).        Terms and conditions of appointment of Registrar                             40
+[24F](#24F).        Terms and conditions of appointment of Registrar
 
-[24G](#24G).       Leave of absence                                                                                41
+[24G](#24G).       Leave of absence
 
-[24H](#24H).       Resignation                                                                                        41
+[24H](#24H).       Resignation
 
-[24J](#24J).        Outside employment of Registrar                                                       41
+[24J](#24J).        Outside employment of Registrar
 
-[24K](#24K).       Termination of appointment                                                               41
+[24K](#24K).       Termination of appointment
 
-[24L](#24L).        Disclosure of interests by Registrar                                                   42
+[24L](#24L).        Disclosure of interests by Registrar
 
-[24M](#24M).      Acting Registrar                                                                                 43
+[24M](#24M).      Acting Registrar
 
     **Division 3—Other officers and staff of Tribunal**
 
-[24N](#24N).       Officers and staff of the Tribunal                                                       44
+[24N](#24N).       Officers and staff of the Tribunal
 
-[24P](#24P).        Statutory Agency etc  for purposes of Public Service Act                 44
+[24P](#24P).        Statutory Agency etc  for purposes of Public Service Act
 
-[24Q](#24Q).       Engagement of consultants etc                                                           45
+[24Q](#24Q).       Engagement of consultants etc 
 
     **Division 4—Miscellaneous administrative matters**
 
-[24R](#24R).       Annual report                                                                                     46
+[24R](#24R).       Annual report
 
-[24V](#24V).       Delegation of administrative powers of President                              46
+[24V](#24V).       Delegation of administrative powers of President
 
-[24W](#24W).      Proceedings arising out of administration of Tribunal                        46
+[24W](#24W).      Proceedings arising out of administration of Tribunal
 
 **Part IV—Reviews by the Tribunal of decisions** 
 
     **Division 1—Applications for review of decisions**
 
-[25](#25).          Tribunal may review certain decisions                                               47
+[25](#25).          Tribunal may review certain decisions
 
-[26](#26).          Restriction on powers of decision‑maker after application for review is made         50
+[26](#26).          Restriction on powers of decision-maker after application for review is made
 
-[27](#27).          Persons who may apply to Tribunal                                                   50
+[27](#27).          Persons who may apply to Tribunal
 
-[27AA](#27AA).    Applications to Tribunal under Australian Security Intelligence Organisation Act   51
+[27AA](#27AA).    Applications to Tribunal under Australian Security Intelligence Organisation Act
 
-[27A](#27A).       Notice of decision and review rights to be given                                51
+[27A](#27A).       Notice of decision and review rights to be given
 
-[27B](#27B).       Review—Code of Practice                                                                 53
+[27B](#27B).       Review—Code of Practice
 
-[28](#28).          Person affected by decision may obtain reasons for decision             53
+[28](#28).          Person affected by decision may obtain reasons for decision
 
-[29](#29).          Manner of applying for review                                                          57
+[29](#29).          Manner of applying for review
 
-[29A](#29A).       Applications—payment of fees                                                          61
+[29A](#29A).       Applications—payment of fees
 
-[29B](#29B).       Notice of application                                                                          61
+[29B](#29B).       Notice of application
 
     **Division 2—Parties and procedure**
 
-[30](#30).          Parties to proceeding before Tribunal                                                 62
+[30](#30).          Parties to proceeding before Tribunal
 
-[30A](#30A).       Intervention by Attorney‑General                                                      63
+[30A](#30A).       Intervention by Attorney-General
 
-[31](#31).          Tribunal to determine persons whose interests are affected by decision 63
+[31](#31).          Tribunal to determine persons whose interests are affected by decision
 
-[32](#32).          Representation before Tribunal                                                          63
+[32](#32).          Representation before Tribunal
 
-[33](#33).          Procedure of Tribunal                                                                        63
+[33](#33).          Procedure of Tribunal
 
     **Division 3—Alternative dispute resolution processes**
 
-[34](#34).          Scope of Division                                                                              66
+[34](#34).          Scope of Division
 
-[34A](#34A).       Referral of proceeding for alternative dispute resolution process       66
+[34A](#34A).       Referral of proceeding for alternative dispute resolution process
 
-[34B](#34B).       Alternative dispute resolution processes—proceeding before the Small Taxation Claims Tribunal          67
+[34B](#34B).       Alternative dispute resolution processes—proceeding before the Small Taxation Claims Tribunal
 
-[34C](#34C).       Directions by President                                                                      68
+[34C](#34C).       Directions by President
 
-[34D](#34D).       Agreement about the terms of a decision etc                                      68
+[34D](#34D).       Agreement about the terms of a decision etc 
 
-[34E](#34E).        Evidence not admissible                                                                     69
+[34E](#34E).        Evidence not admissible
 
-[34F](#34F).        Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal               70
+[34F](#34F).        Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal
 
-[34G](#34G).       Participation by telephone etc                                                             70
+[34G](#34G).       Participation by telephone etc 
 
-[34H](#34H).       Engagement of persons to conduct alternative dispute resolution processes             71
+[34H](#34H).       Engagement of persons to conduct alternative dispute resolution processes
 
     **Division 4—Hearings and evidence**
 
-[34J](#34J).        Circumstances in which hearing may be dispensed with                    72
+[34J](#34J).        Circumstances in which hearing may be dispensed with
 
-[35](#35).          Hearings to be in public except in special circumstances                    72
+[35](#35).          Hearings to be in public except in special circumstances
 
-[35AA](#35AA).    Restriction on publication of evidence and findings in a proceeding before the Security Appeals Division             73
+[35AA](#35AA).    Restriction on publication of evidence and findings in a proceeding before the Security Appeals Division
 
-[35A](#35A).       Participation by telephone etc                                                             74
+[35A](#35A).       Participation by telephone etc 
 
-[36](#36).          Disclosure not required: Attorney‑General’s public interest certificate 74
+[36](#36).          Disclosure not required: Attorney-General’s public interest certificate
 
-[36A](#36A).       Answering questions where Attorney‑General intervenes on public interest grounds             76
+[36A](#36A).       Answering questions where Attorney-General intervenes on public interest grounds
 
-[36B](#36B).       Disclosure not required: State Attorney‑General’s public interest certificate            77
+[36B](#36B).       Disclosure not required: State Attorney-General’s public interest certificate
 
-[36C](#36C).       Answering questions where State Attorney‑General intervenes on public interest grounds     79
+[36C](#36C).       Answering questions where State Attorney-General intervenes on public interest grounds
 
-[36D](#36D).       Public interest questions under sections 36, 36A and 36C                 80
+[36D](#36D).       Public interest questions under sections 36, 36A and 36C
 
-[37](#37).          Lodging of material documents with Tribunal                                    82
+[37](#37).          Lodging of material documents with Tribunal
 
-[38](#38).          Power of Tribunal to obtain additional statements                              85
+[38](#38).          Power of Tribunal to obtain additional statements
 
-[38A](#38A).       Director‑General of Security to lodge certain material with Tribunal 86
+[38A](#38A).       Director-General of Security to lodge certain material with Tribunal
 
-[39](#39).          Opportunity to make submissions concerning evidence                     86
+[39](#39).          Opportunity to make submissions concerning evidence
 
-[39A](#39A).       Procedure at certain hearings in Security Appeals Division               87
+[39A](#39A).       Procedure at certain hearings in Security Appeals Division
 
-[39B](#39B).       Certain documents and information not to be disclosed in proceedings before Security Appeals Division              90
+[39B](#39B).       Certain documents and information not to be disclosed in proceedings before Security Appeals Division
 
     **Division 5—Procedural powers of Tribunal**
 
-[40](#40).          Powers of Tribunal etc                                                                       93
+[40](#40).          Powers of Tribunal etc 
 
-[41](#41).          Operation and implementation of a decision that is subject to review 95
+[41](#41).          Operation and implementation of a decision that is subject to review
 
-[42](#42).          Resolving disagreements                                                                    97
+[42](#42).          Resolving disagreements
 
-[42A](#42A).       Discontinuance, dismissal, reinstatement etc  of application               98
+[42A](#42A).       Discontinuance, dismissal, reinstatement etc  of application
 
-[42B](#42B).       Power of Tribunal where a proceeding is frivolous or vexatious     100
+[42B](#42B).       Power of Tribunal where a proceeding is frivolous or vexatious
 
-[42C](#42C).       Power of Tribunal if parties reach agreement                                   100
+[42C](#42C).       Power of Tribunal if parties reach agreement
 
-[42D](#42D).       Power to remit matters to decision‑maker for further consideration 101
+[42D](#42D).       Power to remit matters to decision-maker for further consideration
 
     **Division 6—Tribunal’s decision on review**
 
-[43](#43).          Tribunal’s decision on review                                                          103
+[43](#43).          Tribunal’s decision on review
 
     **Division 7—Miscellaneous**
 
-[43AAA](#43AAA). Findings of Tribunal in certain proceedings before Security Appeals Division        106
+[43AAA](#43AAA). Findings of Tribunal in certain proceedings before Security Appeals Division
 
-[43AA](#43AA).    Correction of errors in decisions or statement of reasons                 107
+[43AA](#43AA).    Correction of errors in decisions or statement of reasons
 
-[43A](#43A).       Return of documents etc  at completion of proceeding                     108
+[43A](#43A).       Return of documents etc  at completion of proceeding
 
 **Part IVA—Appeals and references of questions of law to the Federal Court of Australia**
 
-[43B](#43B).       Part applies whether Tribunal’s power conferred by an enactment or by a law of a State        109
+[43B](#43B).       Part applies whether Tribunal’s power conferred by an enactment or by a law of a State
 
-[44](#44).          Appeals to Federal Court of Australia from decisions of the Tribunal 109
+[44](#44).          Appeals to Federal Court of Australia from decisions of the Tribunal
 
-[44AA](#44AA).    Transfer of appeals from Federal Court to Federal Magistrates Court 112
+[44AA](#44AA).    Transfer of appeals from Federal Court to Federal Magistrates Court
 
-[44A](#44A).       Operation and implementation of a decision that is subject to appeal 114
+[44A](#44A).       Operation and implementation of a decision that is subject to appeal
 
-[45](#45).          Reference of questions of law to Federal Court of Australia            116
+[45](#45).          Reference of questions of law to Federal Court of Australia
 
-[46](#46).          Sending of documents to, and disclosure of documents by, the Federal Court of Australia and the Federal Magistrates Court                                                                                                116
+[46](#46).          Sending of documents to, and disclosure of documents by, the Federal Court of Australia and the Federal Magistrates Court
 
 **Part V—Administrative Review Council**
 
-[47](#47).          Interpretation                                                                                    119
+[47](#47).          Interpretation
 
-[48](#48).          Establishment of Council                                                                 119
+[48](#48).          Establishment of Council
 
-[49](#49).          Composition of Council                                                                   119
+[49](#49).          Composition of Council
 
-[50](#50).          Qualifications for appointment                                                         120
+[50](#50).          Qualifications for appointment
 
-[51](#51).          Functions and powers of Council                                                    120
+[51](#51).          Functions and powers of Council
 
-[51A](#51A).       Minister may give directions to the Council                                     122
+[51A](#51A).       Minister may give directions to the Council
 
-[51B](#51B).       Minister may refer matters to the Council                                        122
+[51B](#51B).       Minister may refer matters to the Council
 
-[51C](#51C).       Reports by the Council                                                                     122
+[51C](#51C).       Reports by the Council
 
-[52](#52).          Period of appointment                                                                      123
+[52](#52).          Period of appointment
 
-[53](#53).          Remuneration and allowances                                                          123
+[53](#53).          Remuneration and allowances
 
-[54](#54).          Resignation                                                                                      124
+[54](#54).          Resignation
 
-[55](#55).          Removal from office                                                                        124
+[55](#55).          Removal from office
 
-[56](#56).          Meetings                                                                                          124
+[56](#56).          Meetings
 
-[57](#57).          Staff of Council                                                                                125
+[57](#57).          Staff of Council
 
-[58](#58).          Annual Report                                                                                  126
+[58](#58).          Annual Report
 
 **Part VI—Miscellaneous**
 
-[59](#59).          Advisory opinions                                                                           127
+[59](#59).          Advisory opinions
 
-[59A](#59A).       Authorised members                                                                        127
+[59A](#59A).       Authorised members
 
-[60](#60).          Protection of members, alternative dispute resolution practitioners, Registrars, District Registrars, Deputy Registrars, Conference Registrars, barristers and witnesses                              128
+[60](#60).          Protection of members, alternative dispute resolution practitioners, Registrars, District Registrars, Deputy Registrars, Conference Registrars, barristers and witnesses
 
-[61](#61).          Failure to comply with summons                                                     129
+[61](#61).          Failure to comply with summons
 
-[62](#62).          Refusal to be sworn or to answer questions                                     130
+[62](#62).          Refusal to be sworn or to answer questions
 
-[62A](#62A).       False or misleading evidence                                                            131
+[62A](#62A).       False or misleading evidence
 
-[62B](#62B).       Extended operation of certain provisions                                         131
+[62B](#62B).       Extended operation of certain provisions
 
-[63](#63).          Contempt of Tribunal                                                                       131
+[63](#63).          Contempt of Tribunal
 
-[64](#64).          Registries                                                                                         132
+[64](#64).          Registries
 
-[65](#65).          Officers of Tribunal                                                                         133
+[65](#65).          Officers of Tribunal
 
-[66](#66).          Confidential information not to be disclosed                                    133
+[66](#66).          Confidential information not to be disclosed
 
-[66A](#66A).       Application of confidentiality provisions in other Acts                    134
+[66A](#66A).       Application of confidentiality provisions in other Acts
 
-[67](#67).          Fees for compliance with summons                                                 135
+[67](#67).          Fees for compliance with summons
 
-[67A](#67A).       Giving of notices                                                                              135
+[67A](#67A).       Giving of notices
 
-[68](#68).          Lodging of documents                                                                     136
+[68](#68).          Lodging of documents
 
-[68AA](#68AA).    How documents may be given to a person                                       136
+[68AA](#68AA).    How documents may be given to a person
 
-[68A](#68A).       Calculation of short periods of time                                                 137
+[68A](#68A).       Calculation of short periods of time
 
-[69](#69).          Legal assistance                                                                                137
+[69](#69).          Legal assistance
 
-[69A](#69A).       Procedure for taxing costs                                                                138
+[69A](#69A).       Procedure for taxing costs
 
-[69B](#69B).       Costs in certain proceedings in Security Appeals Division              139
+[69B](#69B).       Costs in certain proceedings in Security Appeals Division
 
-[70](#70).          Regulations                                                                                      139
+[70](#70).          Regulations
 
 **Schedule 2** 
 
@@ -378,7 +377,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> </span>[_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> </span>[_see_ Note 1]
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -424,8 +423,6 @@ Paragraphs (b) to (f) of this definition do not limit paragraph (a) of this 
 
                     <a name="confer-registrar"></a>**_Conference Registrar_** means a Conference Registrar of the Tribunal.
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
-
                     <a name="deputi-presid"></a>**_Deputy President_** means a member appointed as a Deputy President of the Tribunal after the commencement of Part III of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_.
 
                     <a name="deputi-registrar"></a>**_Deputy Registrar_** means a Deputy Registrar of the Tribunal.
@@ -438,13 +435,13 @@ Paragraphs (b) to (f) of this definition do not limit paragraph (a) of this 
 
                      (b)  an Ordinance of a Territory other than the Northern Territory, the Australian Capital Territory or Norfolk Island; or
 
-                     (c)  an instrument (including rules, regulations or by‑laws) made under an Act or under such an Ordinance;
+                     (c)  an instrument (including rules, regulations or by-laws) made under an Act or under such an Ordinance;
 
 and includes an enactment as amended by another enactment.
 
 Note:          See also subsection 25(8) (Norfolk Island enactments).
 
-                    <a name="full-time-member"></a>**_full‑time member_** means a member who is appointed as a full‑time member.
+                    <a name="full-time-member"></a>**_full-time member_** means a member who is appointed as a full-time member.
 
                     <a name="judg"></a>**_Judge_** means:
 
@@ -454,13 +451,13 @@ Note:          See also subsection 25(8) (Norfolk Island enact
 
                     <a name="member"></a>**_member_** means a presidential member, a senior member, or any other member of the Tribunal.
 
-                    <a name="non-presidenti-member"></a>**_non‑presidential member_** means a member other than a presidential member.
+                    <a name="non-presidenti-member"></a>**_non-presidential member_** means a member other than a presidential member.
 
                     <a name="norfolk-island-enact"></a>**_Norfolk Island enactment_** means:
 
                      (a)  an enactment (within the meaning of the _Norfolk Island Act 1979_); or
 
-                     (b)  an instrument (including rules, regulations or by‑laws) made under such an enactment;
+                     (b)  an instrument (including rules, regulations or by-laws) made under such an enactment;
 
 and includes a Norfolk Island enactment as amended by another Norfolk Island enactment.
 
@@ -470,7 +467,7 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
                     <a name="offic-tribun"></a>**_officer of the Tribunal_** means the Registrar, a District Registrar, a Conference Registrar or a Deputy Registrar.
 
-                    <a name="part-time-member"></a>**_part‑time member_** means a member who is appointed as a part‑time member.
+                    <a name="part-time-member"></a>**_part-time member_** means a member who is appointed as a part-time member.
 
                     <a name="presid"></a>**_President_** means the President of the Tribunal.
 
@@ -546,13 +543,13 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
 ##### <a id="6"></a>6  Appointment of members of Tribunal
 
-             (1)  The members shall be appointed by the Governor‑General.
+             (1)  The members shall be appointed by the Governor-General.
 
              (2)  A Judge who is to be appointed as a member (other than the President) of the Tribunal shall be appointed as a presidential member.
 
              (3)  A person (other than a Judge) who is to be appointed as a member of the Tribunal shall be appointed as a Deputy President of the Tribunal, as a senior member of the Tribunal, or as a member of the Tribunal.
 
-             (4)  A member (other than a Judge) shall be appointed either as a full‑time member or as a part‑time member.
+             (4)  A member (other than a Judge) shall be appointed either as a full-time member or as a part-time member.
 
 ##### <a id="7"></a>7  Qualifications for appointment
 
@@ -582,11 +579,11 @@ Senior member
 
                             and has been so enrolled for at least 5 years; or
 
-                     (b)  has, in the opinion of the Governor‑General, special knowledge or skill relevant to the duties of a senior member.
+                     (b)  has, in the opinion of the Governor-General, special knowledge or skill relevant to the duties of a senior member.
 
-Non‑presidential member
+Non-presidential member
 
-             (2)  A person must not be appointed as a non‑presidential member (other than a senior member) unless he or she:
+             (2)  A person must not be appointed as a non-presidential member (other than a senior member) unless he or she:
 
                      (a)  is enrolled as a legal practitioner (however described) of:
 
@@ -596,9 +593,9 @@ Non‑presidential member
 
                      (b)  has had experience, for not less than 5 years, at a high level in industry, commerce, public administration, industrial relations, the practice of a profession or the service of a government or of an authority of a government; or
 
-                     (c)  has obtained a degree of a university, or an educational qualification of a similar standing, after studies in the field of law, economics or public administration or some other field considered by the Governor‑General to have substantial relevance to the duties of such a member; or
+                     (c)  has obtained a degree of a university, or an educational qualification of a similar standing, after studies in the field of law, economics or public administration or some other field considered by the Governor-General to have substantial relevance to the duties of such a member; or
 
-                     (d)  has, in the opinion of the Governor‑General, special knowledge or skill in relation to any class of matters in respect of which decisions may be made in the exercise of powers conferred by an enactment, being decisions in respect of which applications may be made to the Tribunal for review.
+                     (d)  has, in the opinion of the Governor-General, special knowledge or skill in relation to any class of matters in respect of which decisions may be made in the exercise of powers conferred by an enactment, being decisions in respect of which applications may be made to the Tribunal for review.
 
 ##### <a id="7A"></a>7A  Appointment of a Judge as a presidential member not to affect tenure etc.
 
@@ -606,7 +603,7 @@ Non‑presidential member
 
 ##### <a id="8"></a>8  Term of appointment
 
-             (3)  Subject to this Part, a member holds office for such period of at most 7 years as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (3)  Subject to this Part, a member holds office for such period of at most 7 years as is specified in the instrument of appointment, but is eligible for re-appointment.
 
              (4)  A presidential member who is a Judge ceases to hold office as a member if he or she ceases to be a Judge.
 
@@ -624,47 +621,47 @@ Non‑presidential member
 
 Acting President
 
-             (1)  The Governor‑General may appoint a Judge of the Federal Court of Australia to act as President during any period, or during all periods, when the President is absent from duty or from Australia or during a vacancy in the office of President.
+             (1)  The Governor-General may appoint a Judge of the Federal Court of Australia to act as President during any period, or during all periods, when the President is absent from duty or from Australia or during a vacancy in the office of President.
 
 Acting Deputy President
 
              (2)  If a Deputy President is, or is expected to be:
 
-                     (a)  in the case of a full‑time Deputy President—absent from duty or from Australia; or
+                     (a)  in the case of a full-time Deputy President—absent from duty or from Australia; or
 
-                     (b)  in the case of a part‑time Deputy President—unavailable to perform the duties of his or her office;
+                     (b)  in the case of a part-time Deputy President—unavailable to perform the duties of his or her office;
 
-the Governor‑General may appoint a person qualified to be appointed as a Deputy President:
+the Governor-General may appoint a person qualified to be appointed as a Deputy President:
 
-                     (c)  in a case to which paragraph (a) applies—to act as a full‑time Deputy President during the absence; or
+                     (c)  in a case to which paragraph (a) applies—to act as a full-time Deputy President during the absence; or
 
-                     (d)  in a case to which paragraph (b) applies—to act as a part‑time Deputy President during the period of unavailability.
+                     (d)  in a case to which paragraph (b) applies—to act as a part-time Deputy President during the period of unavailability.
 
-Acting non‑presidential member
+Acting non-presidential member
 
-             (3)  Where a non‑presidential member is, or is expected to be:
+             (3)  Where a non-presidential member is, or is expected to be:
 
-                     (a)  in the case of a full‑time member—absent from duty or from Australia; or
+                     (a)  in the case of a full-time member—absent from duty or from Australia; or
 
-                     (b)  in the case of a part‑time member—unavailable to perform the duties of his or her office;
+                     (b)  in the case of a part-time member—unavailable to perform the duties of his or her office;
 
-the Governor‑General may appoint a person:
+the Governor-General may appoint a person:
 
-                     (c)  in a case to which paragraph (a) applies—to act as a full‑time non‑presidential member during the absence; or
+                     (c)  in a case to which paragraph (a) applies—to act as a full-time non-presidential member during the absence; or
 
-                     (d)  in a case to which paragraph (b) applies—to act as a part‑time non‑presidential member during the period of unavailability.
+                     (d)  in a case to which paragraph (b) applies—to act as a part-time non-presidential member during the period of unavailability.
 
-             (4)  A person shall not be appointed under subsection (3) to act as a senior member, or as a non‑presidential member other than a senior member, unless the person is qualified to be appointed as a senior member or as such a non‑presidential member, as the case requires.
+             (4)  A person shall not be appointed under subsection (3) to act as a senior member, or as a non-presidential member other than a senior member, unless the person is qualified to be appointed as a senior member or as such a non-presidential member, as the case requires.
 
 Extension of acting appointment
 
-             (5)  Where a person has been appointed under subsection (2) or (3), the Minister may, by reason of a pending proceeding or other special circumstances, direct, before the absent or unavailable member ceases to be absent or unavailable, that the person so appointed shall continue to act under the appointment after the member ceases to be absent or unavailable until he or she resigns the appointment or the Governor‑General terminates the appointment, but a person shall not continue to act by virtue of this subsection for more than 12 months after the member ceases to be absent or unavailable.
+             (5)  Where a person has been appointed under subsection (2) or (3), the Minister may, by reason of a pending proceeding or other special circumstances, direct, before the absent or unavailable member ceases to be absent or unavailable, that the person so appointed shall continue to act under the appointment after the member ceases to be absent or unavailable until he or she resigns the appointment or the Governor-General terminates the appointment, but a person shall not continue to act by virtue of this subsection for more than 12 months after the member ceases to be absent or unavailable.
 
-             (6)  Where a person has been appointed under this section to act as a member during the absence or unavailability of a member and the member ceases to hold office without having resumed duty or become available to perform the duties of his or her office, the period of appointment of the person so appointed shall, subject to this Act, be deemed to continue until he or she resigns the appointment, the appointment is terminated by the Governor‑General or a period of 12 months elapses from the day on which the absent or unavailable member ceases to hold office, whichever first happens.
+             (6)  Where a person has been appointed under this section to act as a member during the absence or unavailability of a member and the member ceases to hold office without having resumed duty or become available to perform the duties of his or her office, the period of appointment of the person so appointed shall, subject to this Act, be deemed to continue until he or she resigns the appointment, the appointment is terminated by the Governor-General or a period of 12 months elapses from the day on which the absent or unavailable member ceases to hold office, whichever first happens.
 
 Terms and conditions
 
-             (7)  A person acting as a Deputy President or as a non‑presidential member shall act in that capacity on such terms and conditions as the Minister determines.
+             (7)  A person acting as a Deputy President or as a non-presidential member shall act in that capacity on such terms and conditions as the Minister determines.
 
 Resignation
 
@@ -674,13 +671,13 @@ Resignation
 
                      (b)  a Deputy President; or
 
-                     (c)  a non‑presidential member;
+                     (c)  a non-presidential member;
 
-may resign his or her acting appointment by giving the Governor‑General a written resignation. The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
+may resign his or her acting appointment by giving the Governor-General a written resignation. The resignation takes effect on the day it is received by the Governor-General or, if a later day is specified in the resignation, on that later day.
 
 Exercise of powers
 
-           (10)  A person acting as the President, as a Deputy President, as a senior member or as a non‑presidential member other than a senior member in accordance with this section has and may exercise all the powers, and shall perform all the functions and duties, conferred or imposed by this Act on the President, on a Deputy President, on a senior member or on a non‑presidential member other than a senior member, as the case may be, and, for the purposes of the exercise of those powers, or the performance of those functions and duties, this Act has effect as if a reference to the President, to a Deputy President, to a senior member or to a non‑presidential member other than a senior member included a reference to a person acting as the President, as a Deputy President, as a senior member, or as a non‑presidential member other than a senior member, as the case may be.
+           (10)  A person acting as the President, as a Deputy President, as a senior member or as a non-presidential member other than a senior member in accordance with this section has and may exercise all the powers, and shall perform all the functions and duties, conferred or imposed by this Act on the President, on a Deputy President, on a senior member or on a non-presidential member other than a senior member, as the case may be, and, for the purposes of the exercise of those powers, or the performance of those functions and duties, this Act has effect as if a reference to the President, to a Deputy President, to a senior member or to a non-presidential member other than a senior member included a reference to a person acting as the President, as a Deputy President, as a senior member, or as a non-presidential member other than a senior member, as the case may be.
 
 Validity of decisions etc.
 
@@ -698,33 +695,33 @@ Validity of decisions etc.
 
 ##### <a id="10B"></a>10B  Oath or affirmation of office
 
-                   A person who is appointed or re‑appointed after the commencement of this section as a member shall, before proceeding to discharge the duties of his or her office, take before the Governor‑General, a Justice of the High Court or a Judge of another federal court or of the Supreme Court of a State or Territory an oath or affirmation in accordance with the form in Schedule 2.
+                   A person who is appointed or re-appointed after the commencement of this section as a member shall, before proceeding to discharge the duties of his or her office, take before the Governor-General, a Justice of the High Court or a Judge of another federal court or of the Supreme Court of a State or Territory an oath or affirmation in accordance with the form in Schedule 2.
 
 ##### <a id="11"></a>11  Outside employment
 
-             (1)  Subject to subsection (2), a full‑time member shall not, except with the consent of the Minister, engage in paid employment outside the duties of his or her office.
+             (1)  Subject to subsection (2), a full-time member shall not, except with the consent of the Minister, engage in paid employment outside the duties of his or her office.
 
-             (2)  Subsection (1) does not apply in relation to the holding by a full‑time member of an office or appointment in the Defence Force.
+             (2)  Subsection (1) does not apply in relation to the holding by a full-time member of an office or appointment in the Defence Force.
 
 ##### <a id="12"></a>12  Leave of absence
 
-             (1)  A full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+             (2)  The Minister may grant a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="13"></a>13  Removal from office
 
 Removal on grounds of proved misbehaviour or incapacity
 
-             (1)  The Governor‑General may remove a member from office on an address praying for his or her removal on the ground of proved misbehaviour or incapacity being presented to the Governor‑General by each House of the Parliament in the same session of the Parliament.
+             (1)  The Governor-General may remove a member from office on an address praying for his or her removal on the ground of proved misbehaviour or incapacity being presented to the Governor-General by each House of the Parliament in the same session of the Parliament.
 
 Suspension on grounds of misbehaviour or incapacity
 
-             (2)  The Governor‑General may suspend a non‑presidential member from office on the ground of misbehaviour or incapacity.
+             (2)  The Governor-General may suspend a non-presidential member from office on the ground of misbehaviour or incapacity.
 
-             (3)  Where the Governor‑General suspends a non‑presidential member from office, the Minister shall cause a statement of the ground of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
+             (3)  Where the Governor-General suspends a non-presidential member from office, the Minister shall cause a statement of the ground of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
 
-             (4)  Where such a statement has been laid before a House of the Parliament, that House may, within 15 sitting days of that House after the day on which the statement has been laid before it, by resolution, declare that the member should be removed from office and, if each House so passes such a resolution, the Governor‑General shall remove the member from office.
+             (4)  Where such a statement has been laid before a House of the Parliament, that House may, within 15 sitting days of that House after the day on which the statement has been laid before it, by resolution, declare that the member should be removed from office and, if each House so passes such a resolution, the Governor-General shall remove the member from office.
 
              (5)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement has been laid before that House, that House has not passed such a resolution, the suspension terminates.
 
@@ -732,17 +729,17 @@ Suspension on grounds of misbehaviour or incapacity
 
 Removal on ground of bankruptcy
 
-             (7)  If a member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit, the Governor‑General shall remove him or her from office.
+             (7)  If a member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit, the Governor-General shall remove him or her from office.
 
 Retirement on ground of incapacity
 
-             (9)  The Governor‑General may, with the consent of a member who is:
+             (9)  The Governor-General may, with the consent of a member who is:
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
                      (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
 retire the member from office on the ground of incapacity.
 
@@ -762,7 +759,7 @@ CSS
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
 PSS
 
@@ -772,17 +769,17 @@ PSS
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
 PSSAP
 
            (14)  In spite of anything contained in this section, a member who:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="14"></a>14  Disclosure of interests by members
 
@@ -800,9 +797,9 @@ is not capable of being retired from office on the ground of invalidity (within 
 
 ##### <a id="15"></a>15  Resignation
 
-             (1)  A member may resign his or her appointment by giving the Governor‑General a written resignation.
+             (1)  A member may resign his or her appointment by giving the Governor-General a written resignation.
 
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
+             (2)  The resignation takes effect on the day it is received by the Governor-General or, if a later day is specified in the resignation, on that later day.
 
 ## Part III—Organization of the Tribunal
 
@@ -822,15 +819,15 @@ Divisions of the Tribunal
 
                   (baa)  Security Appeals Division;
 
-                   (ba)  Taxation Appeals Division;
+                    (ba)  Taxation Appeals Division;
 
                      (c)  Valuation and Compensation Division; and
 
                      (d)  such other Divisions as are prescribed.
 
-Assignment of non‑presidential member to Division or Divisions
+Assignment of non-presidential member to Division or Divisions
 
-             (3)  The Minister must assign a non‑presidential member to a particular Division or Divisions of the Tribunal and may, with the consent of the member but not otherwise, vary the assignment.
+             (3)  The Minister must assign a non-presidential member to a particular Division or Divisions of the Tribunal and may, with the consent of the member but not otherwise, vary the assignment.
 
        (3AA)  Before the Minister exercises a power conferred by subsection (3), the Minister must consult the President.
 
@@ -840,11 +837,11 @@ Taxation Appeals Division
 
 Security Appeals Division
 
-          (3B)  A non‑presidential member must not be assigned to the Security Appeals Division if he or she is, or has been, the Director‑General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
+          (3B)  A non-presidential member must not be assigned to the Security Appeals Division if he or she is, or has been, the Director-General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
 
 Exercise of powers
 
-             (4)  A non‑presidential member shall exercise, or participate in the exercise of, the powers of the Tribunal only in the Division or Divisions of the Tribunal to which he or she is assigned.
+             (4)  A non-presidential member shall exercise, or participate in the exercise of, the powers of the Tribunal only in the Division or Divisions of the Tribunal to which he or she is assigned.
 
 Validity
 
@@ -914,7 +911,7 @@ Note:          See also section 23B.
 
 Scope
 
-    (1AAA)  This section does not apply in relation to proceedings in the Security Appeals Division.
+     (1AAA)  This section does not apply in relation to proceedings in the Security Appeals Division.
 
 Constitution of Tribunal
 
@@ -942,7 +939,7 @@ Constitution of Security Appeals Division
 
 When presidential member must not participate
 
-             (3)  A presidential member must not participate in the proceeding if he or she is, or has been, the Director‑General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
+             (3)  A presidential member must not participate in the proceeding if he or she is, or has been, the Director-General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
 
 Presidential member to preside
 
@@ -990,7 +987,7 @@ Constitution of Security Appeals Division
 
 When presidential member must not participate
 
-             (3)  A presidential member must not participate in the proceeding if he or she is, or has been, the Director‑General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
+             (3)  A presidential member must not participate in the proceeding if he or she is, or has been, the Director-General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
 
 Reconstitution of Division at the request of a party
 
@@ -1084,17 +1081,17 @@ Multiple member Tribunal—who is to preside
 
                     (aa)  if the President is not a member of the Tribunal as so constituted, but a presidential member who is a Judge is a member of the Tribunal as so constituted—that presidential member shall preside;
 
-                   (ab)  if a presidential member who is a Judge is not a member of the Tribunal as so constituted but 2 or more Deputy Presidents are members of the Tribunal as so constituted—one of those Deputy Presidents who is directed by the President to do so is to preside;
+                    (ab)  if a presidential member who is a Judge is not a member of the Tribunal as so constituted but 2 or more Deputy Presidents are members of the Tribunal as so constituted—one of those Deputy Presidents who is directed by the President to do so is to preside;
 
                      (b)  if a presidential member who is a Judge is not a member of the Tribunal as so constituted, but a Deputy President is a member of the Tribunal as so constituted—that Deputy President shall preside; or
 
-                     (c)  if the Tribunal is constituted only by non‑presidential members:
+                     (c)  if the Tribunal is constituted only by non-presidential members:
 
-                              (i)  where one only of those non‑presidential members is a senior member—he or she shall preside;
+                              (i)  where one only of those non-presidential members is a senior member—he or she shall preside;
 
-                             (ii)  where 2 or more of those non‑presidential members are senior members—one of those senior members who is directed by the President to do so shall preside; or
+                             (ii)  where 2 or more of those non-presidential members are senior members—one of those senior members who is directed by the President to do so shall preside; or
 
-                            (iii)  where none of those non‑presidential members is a senior member—one of those non‑presidential members who is directed by the President to do so shall preside.
+                            (iii)  where none of those non-presidential members is a senior member—one of those non-presidential members who is directed by the President to do so shall preside.
 
 Reconstituted Tribunal—who is to preside
 
@@ -1350,7 +1347,7 @@ Limitations on President’s powers to give directions
 
                              (ii)  the application does not state as mentioned in subparagraph (i) but, before the start of the hearing of the application, the applicant notifies the Tribunal in writing of the amount that the applicant considers to be the amount of tax in dispute and the amount so notified is less than the determined amount; or
 
-                    (aa)  the decision relates to an application made by the applicant under section 340‑5 in Schedule 1 to the _Taxation Administration Act 1953_; or
+                    (aa)  the decision relates to an application made by the applicant under section 340-5 in Schedule 1 to the _Taxation Administration Act 1953_; or
 
                      (b)  the decision is a decision refusing a request for an extension of time;
 
@@ -1396,7 +1393,7 @@ the Tribunal may make an order declaring that subsection 24AC(1) is not to apply
 
                               (i)  is made by the same applicant; and
 
-                             (ii)  may, in the opinion of the Registrar, a District Registrar or a Deputy Registrar, be conveniently heard before the Administrative Appeals Tribunal at the same time as the first‑mentioned application or applications;
+                             (ii)  may, in the opinion of the Registrar, a District Registrar or a Deputy Registrar, be conveniently heard before the Administrative Appeals Tribunal at the same time as the first-mentioned application or applications;
 
 the following provisions apply:
 
@@ -1432,7 +1429,7 @@ the following provisions apply:
 
 ##### <a id="24C"></a>24C  Appointment of Registrar
 
-                   The Registrar is appointed by the Governor‑General on the nomination of the President.
+                   The Registrar is appointed by the Governor-General on the nomination of the President.
 
 ##### <a id="24D"></a>24D  Powers of the Registrar
 
@@ -1454,7 +1451,7 @@ the following provisions apply:
 
 ##### <a id="24F"></a>24F  Terms and conditions of appointment of Registrar
 
-             (1)  The Registrar holds office for the period (not longer than 5 years) specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+             (1)  The Registrar holds office for the period (not longer than 5 years) specified in the instrument of his or her appointment, but is eligible for re-appointment.
 
              (4)  The Registrar holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the President.
 
@@ -1466,9 +1463,9 @@ the following provisions apply:
 
 ##### <a id="24H"></a>24H  Resignation
 
-             (1)  The Registrar may resign his or her appointment by giving the Governor‑General a written resignation.
+             (1)  The Registrar may resign his or her appointment by giving the Governor-General a written resignation.
 
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
+             (2)  The resignation takes effect on the day it is received by the Governor-General or, if a later day is specified in the resignation, on that later day.
 
 ##### <a id="24J"></a>24J  Outside employment of Registrar
 
@@ -1478,9 +1475,9 @@ the following provisions apply:
 
 ##### <a id="24K"></a>24K  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Registrar for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Registrar for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General is required to terminate the appointment of the Registrar if the Registrar:
+             (2)  The Governor-General is required to terminate the appointment of the Registrar if the Registrar:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
@@ -1496,9 +1493,9 @@ the following provisions apply:
 
                      (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
-the Governor‑General may, with the Registrar’s consent, retire the Registrar from office on the ground of incapacity.
+the Governor-General may, with the Registrar’s consent, retire the Registrar from office on the ground of incapacity.
 
              (4)  In spite of anything contained in this section, a Registrar who:
 
@@ -1506,7 +1503,7 @@ the Governor‑General may, with the Registrar’s consent, retire the Registrar
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (5)  In spite of anything contained in this section, a Registrar who:
 
@@ -1514,15 +1511,15 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
              (6)  In spite of anything contained in this section, a Registrar who:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="24L"></a>24L  Disclosure of interests by Registrar
 
@@ -1556,7 +1553,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
           (1A)  The Conference Registrars are appointed by the President.
 
-          (1B)  A person who holds an office of District Registrar, Deputy Registrar or Conference Registrar may be appointed to another of those offices without the appointment affecting his or her appointment to the first‑mentioned office.
+          (1B)  A person who holds an office of District Registrar, Deputy Registrar or Conference Registrar may be appointed to another of those offices without the appointment affecting his or her appointment to the first-mentioned office.
 
              (2)  The District Registrars and Deputy Registrars are appointed by the Registrar.
 
@@ -1648,7 +1645,7 @@ Tribunal may determine scope of review
 
           (4A)  The Tribunal may determine the scope of the review of a decision by limiting the questions of fact, the evidence and the issues that it considers.
 
-Failure of decision‑maker to meet deadline
+Failure of decision-maker to meet deadline
 
              (5)  For the purposes of an enactment that makes provision in accordance with this section for the making of applications to the Tribunal for review of decisions, a failure by a person to do an act or thing within the period prescribed by that enactment, or by another enactment having effect under that enactment, as the period within which that person is required or permitted to do that act or thing shall be deemed to constitute the making of a decision by that person at the expiration of that period not to do that act or thing.
 
@@ -1668,7 +1665,7 @@ Enactment may add to, exclude or modify operation of certain provisions
 
                      (b)  those sections and subsections have effect subject to any provisions so included.
 
-What happens if decision‑maker ceases to hold office etc.
+What happens if decision-maker ceases to hold office etc.
 
              (7)  Where:
 
@@ -1712,7 +1709,7 @@ has effect as if:
 
 were an enactment (within the meaning of this Act).
 
-##### <a id="26"></a>26  Restriction on powers of decision‑maker after application for review is made
+##### <a id="26"></a>26  Restriction on powers of decision-maker after application for review is made
 
              (1)  Subject to section 42D, after an application is made to the Tribunal for a review of a decision, the decision may not be altered otherwise than by the Tribunal on the review unless:
 
@@ -1792,7 +1789,7 @@ Note:          The enactment may be regulations made for the p
 
 ##### <a id="27B"></a>27B  Review—Code of Practice
 
-             (1)  The Attorney‑General may determine, in writing, a Code of Practice for the purpose of facilitating the operation of subsection 27A(1).
+             (1)  The Attorney-General may determine, in writing, a Code of Practice for the purpose of facilitating the operation of subsection 27A(1).
 
              (2)  A person, in taking action under subsection 27A(1), must have regard to any such Code of Practice that is then in force.
 
@@ -1806,21 +1803,21 @@ Request for statement of reasons
 
 Exception—Security Appeals Division
 
-    (1AAA)  Subsection (1) does not apply to a decision if the powers of the Tribunal in respect of an application for review of the decision are required by subsection 19(6) to be exercised in the Security Appeals Division.
+     (1AAA)  Subsection (1) does not apply to a decision if the powers of the Tribunal in respect of an application for review of the decision are required by subsection 19(6) to be exercised in the Security Appeals Division.
 
-What happens if decision‑maker contests applicant’s entitlement to statement of reasons
+What happens if decision-maker contests applicant’s entitlement to statement of reasons
 
        (1AA)  Where a person to whom a request for a statement in relation to a decision is made by an applicant under subsection (1) is of the opinion that the applicant is not entitled to be given the statement, that person shall, as soon as practicable but in any case within 28 days after receiving the request, give to the applicant notice in writing of his or her opinion.
 
-       (1AB)  A person who gives a notice under subsection (1AA) with respect to a request for a statement in relation to a decision is not required to comply with the request unless the Tribunal, on application under subsection (1AC), decides that the applicant was entitled to be given the statement, and, if the Tribunal so decides, the first‑mentioned person shall prepare the statement and give it to the applicant within 28 days after the decision of the Tribunal is given.
+        (1AB)  A person who gives a notice under subsection (1AA) with respect to a request for a statement in relation to a decision is not required to comply with the request unless the Tribunal, on application under subsection (1AC), decides that the applicant was entitled to be given the statement, and, if the Tribunal so decides, the first-mentioned person shall prepare the statement and give it to the applicant within 28 days after the decision of the Tribunal is given.
 
-       (1AC)  The Tribunal shall, on an application being made, as prescribed, by an applicant who has received a notice under subsection (1AA) with respect to a request for a statement in relation to a decision, decide whether the applicant was, or was not, entitled to be given the statement.
+        (1AC)  The Tribunal shall, on an application being made, as prescribed, by an applicant who has received a notice under subsection (1AA) with respect to a request for a statement in relation to a decision, decide whether the applicant was, or was not, entitled to be given the statement.
 
-When decision‑maker may refuse to give statement of reasons
+When decision-maker may refuse to give statement of reasons
 
           (1A)  A person to whom a request for a statement in relation to a decision is made under subsection (1) may refuse to prepare and give the statement if:
 
-                     (a)  in the case of a decision the terms of which were recorded in writing and set out in a document that was given to the applicant—the request was not made on or before the twenty‑eighth day after the day on which that document was given to the applicant; or
+                     (a)  in the case of a decision the terms of which were recorded in writing and set out in a document that was given to the applicant—the request was not made on or before the twenty-eighth day after the day on which that document was given to the applicant; or
 
                      (b)  in any other case—the request was not made within a reasonable time after the decision was made;
 
@@ -1830,7 +1827,7 @@ and in any such case the person to whom the request was made shall give to the a
 
 Public interest certificate
 
-             (2)  If the Attorney‑General certifies, by writing signed by him or her, that the disclosure of any matter contained in a statement prepared in accordance with subsection (1) would be contrary to the public interest:
+             (2)  If the Attorney-General certifies, by writing signed by him or her, that the disclosure of any matter contained in a statement prepared in accordance with subsection (1) would be contrary to the public interest:
 
                      (a)  by reason that it would prejudice the security, defence or international relations of Australia;
 
@@ -1842,7 +1839,7 @@ subsections (3) and (3A) have effect.
 
              (3)  A person to whom a request for a statement in relation to a decision is made under subsection (1):
 
-                     (a)  is not required to include in the statement any matter in relation to which the Attorney‑General has given a certificate under subsection (2); and
+                     (a)  is not required to include in the statement any matter in relation to which the Attorney-General has given a certificate under subsection (2); and
 
                      (b)  where the statement would be false or misleading if it did not include such matter—is not required by subsection (1) to give the statement to the applicant.
 
@@ -1854,7 +1851,7 @@ subsections (3) and (3A) have effect.
 
                              (ii)  in a case where the statement is not given—that the statement will not be given and giving the reason for not giving the statement; and
 
-                     (b)  subsections 36(2), (3), (3A) and (4) and 36D(1) to (6), inclusive, apply in relation to any statement referred to in paragraph 37(1)(a) in relation to that decision that is lodged with the Tribunal under section 37 as if the certificate were a certificate given under subsection 36(1) in relation to any such matter that is contained in the last‑mentioned statement.
+                     (b)  subsections 36(2), (3), (3A) and (4) and 36D(1) to (6), inclusive, apply in relation to any statement referred to in paragraph 37(1)(a) in relation to that decision that is lodged with the Tribunal under section 37 as if the certificate were a certificate given under subsection 36(1) in relation to any such matter that is contained in the last-mentioned statement.
 
 When applicant not entitled to request statement of reasons
 
@@ -1884,7 +1881,7 @@ Inadequate statement of reasons
 
                              (ii)  a statement indicating any part or parts of the assessment with which the applicant does not agree and setting out the grounds on which the application is made; and
 
-                   (cb)  in respect of an application under subsection 54(2) of the _Australian Security Intelligence Organisation Act 1979_—must be accompanied by a statement setting out the grounds on which the application is made;
+                    (cb)  in respect of an application under subsection 54(2) of the _Australian Security Intelligence Organisation Act 1979_—must be accompanied by a statement setting out the grounds on which the application is made;
 
                      (d)  if the terms of the decision were recorded in writing and set out in a document that was given to the applicant or the decision is deemed to be made by reason of the operation of subsection 25(5) or (5A)—shall be lodged with the Tribunal within the prescribed time.
 
@@ -1906,25 +1903,25 @@ the Tribunal may, by notice given to the applicant, request the applicant to ame
 
 Prescribed time for making applications—general
 
-             (2)  Subject to subsection (3), the prescribed time for the purposes of paragraph (1)(d) is the period commencing on the day on which the decision is made and ending on the twenty‑eighth day after:
+             (2)  Subject to subsection (3), the prescribed time for the purposes of paragraph (1)(d) is the period commencing on the day on which the decision is made and ending on the twenty-eighth day after:
 
                      (a)  if the decision sets out the findings on material questions of fact and the reasons for the decision—the day on which a document setting out the terms of the decision is given to the applicant; or
 
                      (b)  if the decision does not set out those findings and reasons:
 
-                              (i)  if a statement in writing setting out those findings and reasons is given to the applicant otherwise than in pursuance of a request under subsection 28(1) not later than the twenty‑eighth day after the day on which a document setting out the terms of the decision is given to the applicant—the day on which the statement is so given;
+                              (i)  if a statement in writing setting out those findings and reasons is given to the applicant otherwise than in pursuance of a request under subsection 28(1) not later than the twenty-eighth day after the day on which a document setting out the terms of the decision is given to the applicant—the day on which the statement is so given;
 
                              (ii)  if the applicant, in accordance with subsection 28(1), requests the person who made the decision to give a statement as mentioned in that subsection—the day on which the statement is given or the applicant is notified in accordance with subsection 28(3A) that the statement will not be given; or
 
                             (iii)  in any other case—the day on which a document setting out the terms of the decision is given to the applicant.
 
-Prescribed time for making applications—decision‑maker’s failure to meet deadline
+Prescribed time for making applications—decision-maker’s failure to meet deadline
 
              (3)  In the case of a decision that is deemed to be made by reason of the operation of subsection 25(5) or (5A), the prescribed time for the purposes of paragraph (1)(d) is the period commencing on the day on which the decision is deemed to be made and ending:
 
-                     (a)  in a case to which paragraph (b) does not apply—on the twenty‑eighth day after that day; or
+                     (a)  in a case to which paragraph (b) does not apply—on the twenty-eighth day after that day; or
 
-                     (b)  in the case where the person whose failure to do an act or thing within a particular period is deemed by subsection 25(5) or (5A) to constitute the making of the decision makes or purports to make, after the expiration of that period, a decision either to do or not to do that act or thing, being a decision the terms of which were recorded in writing and set out in a document that was given to the applicant—on the twenty‑eighth day after:
+                     (b)  in the case where the person whose failure to do an act or thing within a particular period is deemed by subsection 25(5) or (5A) to constitute the making of the decision makes or purports to make, after the expiration of that period, a decision either to do or not to do that act or thing, being a decision the terms of which were recorded in writing and set out in a document that was given to the applicant—on the twenty-eighth day after:
 
                               (i)  if the decision sets out the findings on material questions of fact and the reasons for the decision—the day on which a document setting out the terms of the decision is given to the applicant; or
 
@@ -1964,7 +1961,7 @@ Tribunal may extend time for making application
 
            (10)  If a person to whom a notice is given under subsection (9), within the prescribed time after the notice is received by him or her, gives notice to the Tribunal, as prescribed, stating that he or she wishes to oppose the application, the Tribunal shall not determine the application except after a hearing at which the applicant and any person who so gave notice to the Tribunal are given a reasonable opportunity of presenting their respective cases.
 
-Decision‑maker to be notified of application for review
+Decision-maker to be notified of application for review
 
            (11)  The Registrar, a District Registrar or a Deputy Registrar shall cause notice in writing of an application for a review of a decision, in accordance with the prescribed form, to be given to the person who made the decision.
 
@@ -1976,7 +1973,7 @@ Decision‑maker to be notified of application for review
 
 ##### <a id="29B"></a>29B  Notice of application
 
-                   If an application is duly made to the Tribunal for the review of a security assessment, the Tribunal must cause a copy of the application, and of the statement lodged with the application, to be given to the Director‑General of Security and to the Commonwealth agency to which the assessment was given.
+                   If an application is duly made to the Tribunal for the review of a security assessment, the Tribunal must cause a copy of the application, and of the statement lodged with the application, to be given to the Director-General of Security and to the Commonwealth agency to which the assessment was given.
 
 ### Division 2—Parties and procedure
 
@@ -1994,11 +1991,11 @@ Parties
 
                      (b)  the person who made the decision;
 
-                     (c)  if the Attorney‑General intervenes in the proceeding under section 30A—the Attorney‑General; and
+                     (c)  if the Attorney-General intervenes in the proceeding under section 30A—the Attorney-General; and
 
                      (d)  any other person who has been made a party to the proceeding by the Tribunal on application by the person in accordance with subsection (1A).
 
-Note:          See also subsections 36(3A) and 36A(2A) (Attorney‑General deemed to be a party to certain proceedings), and subsections 36B(4) and 36C(3) (State Attorney‑General deemed to be a party to certain proceedings).
+Note:          See also subsections 36(3A) and 36A(2A) (Attorney-General deemed to be a party to certain proceedings), and subsections 36B(4) and 36C(3) (State Attorney-General deemed to be a party to certain proceedings).
 
 Person whose interests are affected may apply to be a party
 
@@ -2014,13 +2011,13 @@ Official name
 
 shall be described in the proceeding by his or her official name.
 
-##### <a id="30A"></a>30A  Intervention by Attorney‑General
+##### <a id="30A"></a>30A  Intervention by Attorney-General
 
        (1AA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-             (1)  The Attorney‑General may, on behalf of the Commonwealth, intervene in a proceeding before the Tribunal.
+             (1)  The Attorney-General may, on behalf of the Commonwealth, intervene in a proceeding before the Tribunal.
 
-             (2)  Where the Attorney‑General intervenes under subsection (1) in a proceeding for a review of a decision, the Attorney‑General may authorize the payment to a party to the proceeding by the Commonwealth of such costs as he or she considers were reasonably incurred by that party in relation to the proceeding as a result of that intervention.
+             (2)  Where the Attorney-General intervenes under subsection (1) in a proceeding for a review of a decision, the Attorney-General may authorize the payment to a party to the proceeding by the Commonwealth of such costs as he or she considers were reasonably incurred by that party in relation to the proceeding as a result of that intervention.
 
 ##### <a id="31"></a>31  Tribunal to determine persons whose interests are affected by decision
 
@@ -2042,7 +2039,7 @@ shall be described in the proceeding by his or her official name.
 
                      (c)  the Tribunal is not bound by the rules of evidence but may inform itself on any matter in such manner as it thinks appropriate.
 
-Decision‑maker must assist Tribunal
+Decision-maker must assist Tribunal
 
        (1AA)  In a proceeding before the Tribunal for a review of a decision, the person who made the decision must use his or her best endeavours to assist the Tribunal to make its decision in relation to the proceeding.
 
@@ -2268,7 +2265,7 @@ that member is not entitled to be a member of the Tribunal as constituted for th
 
                      (a)  telephone; or
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
@@ -2340,21 +2337,21 @@ the Tribunal shall take as the basis of its consideration the principle that it 
 
                      (a)  telephone; or
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
              (2)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-##### <a id="36"></a>36  Disclosure not required: Attorney‑General’s public interest certificate
+##### <a id="36"></a>36  Disclosure not required: Attorney-General’s public interest certificate
 
 Scope
 
        (1AA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-Attorney‑General may issue public interest certificate
+Attorney-General may issue public interest certificate
 
-             (1)  If the Attorney‑General certifies, by writing signed by him or her, that the disclosure of information concerning a specified matter, or the disclosure of any matter contained in a document, would be contrary to the public interest:
+             (1)  If the Attorney-General certifies, by writing signed by him or her, that the disclosure of information concerning a specified matter, or the disclosure of any matter contained in a document, would be contrary to the public interest:
 
                      (a)  by reason that it would prejudice the security, defence or international relations of Australia;
 
@@ -2370,47 +2367,47 @@ Protection of information etc.
 
 Disclosure of information etc.
 
-             (3)  Where the Attorney‑General has certified in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a) or (b), the Tribunal shall consider whether the information or the matter should be disclosed to all or any of the parties to the proceeding and, if it decides that the information or the matter should be so disclosed, the Tribunal shall make the information available or permit the part of the document containing the matter to be inspected accordingly.
+             (3)  Where the Attorney-General has certified in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a) or (b), the Tribunal shall consider whether the information or the matter should be disclosed to all or any of the parties to the proceeding and, if it decides that the information or the matter should be so disclosed, the Tribunal shall make the information available or permit the part of the document containing the matter to be inspected accordingly.
 
-Attorney‑General taken to be a party
+Attorney-General taken to be a party
 
-          (3A)  Where, in relation to a proceeding to which the Attorney‑General would not, but for this subsection, be a party, the Attorney‑General certifies in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a) or (b), the Attorney‑General shall, for the purposes of this Act, be deemed to be a party to the proceeding.
+          (3A)  Where, in relation to a proceeding to which the Attorney-General would not, but for this subsection, be a party, the Attorney-General certifies in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a) or (b), the Attorney-General shall, for the purposes of this Act, be deemed to be a party to the proceeding.
 
 What Tribunal must consider in deciding whether to disclose information etc.
 
-             (4)  In considering whether information or matter contained in a document should be disclosed as mentioned in subsection (3), the Tribunal shall take as the basis of its consideration the principle that it is desirable in the interest of securing the effective performance of the functions of the Tribunal that the parties to a proceeding should be made aware of all relevant matters but shall pay due regard to any reason specified by the Attorney‑General in the certificate as a reason why the disclosure of the information or of the matter contained in the document, as the case may be, would be contrary to the public interest.
+             (4)  In considering whether information or matter contained in a document should be disclosed as mentioned in subsection (3), the Tribunal shall take as the basis of its consideration the principle that it is desirable in the interest of securing the effective performance of the functions of the Tribunal that the parties to a proceeding should be made aware of all relevant matters but shall pay due regard to any reason specified by the Attorney-General in the certificate as a reason why the disclosure of the information or of the matter contained in the document, as the case may be, would be contrary to the public interest.
 
-##### <a id="36A"></a>36A  Answering questions where Attorney‑General intervenes on public interest grounds
+##### <a id="36A"></a>36A  Answering questions where Attorney-General intervenes on public interest grounds
 
 Scope
 
        (1AA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-Intervention by Attorney‑General
+Intervention by Attorney-General
 
-             (1)  Where, at the hearing of a proceeding before the Tribunal, a person is asked a question in the course of giving evidence, the Attorney‑General may inform the Tribunal that, in his or her opinion, the answering of the question would be contrary to the public interest for a specified reason or reasons, being a reason or reasons mentioned in subsection 36(1).
+             (1)  Where, at the hearing of a proceeding before the Tribunal, a person is asked a question in the course of giving evidence, the Attorney-General may inform the Tribunal that, in his or her opinion, the answering of the question would be contrary to the public interest for a specified reason or reasons, being a reason or reasons mentioned in subsection 36(1).
 
 When person excused from answering question
 
-             (2)  Where the Attorney‑General so informs the Tribunal that, in his or her opinion, the answering by a person of a question would be contrary to the public interest, that person is excused from answering the question unless:
+             (2)  Where the Attorney-General so informs the Tribunal that, in his or her opinion, the answering by a person of a question would be contrary to the public interest, that person is excused from answering the question unless:
 
                      (a)  in the case where the reason specified is, or the reasons specified include, a reason referred to in paragraph 36(1)(a) or (b)—a court, on an appeal under section 44 or a reference under section 45, decides that the answering of the question would not be contrary to the public interest; or
 
                      (b)  in any other case—the Tribunal decides that the answering of the question would not be contrary to the public interest.
 
-Attorney‑General taken to be a party
+Attorney-General taken to be a party
 
-          (2A)  Where the Attorney‑General informs the Tribunal that, in his or her opinion, the answering by a person of a question at the hearing of a proceeding would be contrary to the public interest, being a proceeding to which the Attorney‑General would not, but for this subsection, be a party, the Attorney‑General shall, for the purposes of this Act, be deemed to be a party to the proceeding.
+          (2A)  Where the Attorney-General informs the Tribunal that, in his or her opinion, the answering by a person of a question at the hearing of a proceeding would be contrary to the public interest, being a proceeding to which the Attorney-General would not, but for this subsection, be a party, the Attorney-General shall, for the purposes of this Act, be deemed to be a party to the proceeding.
 
-##### <a id="36B"></a>36B  Disclosure not required: State Attorney‑General’s public interest certificate
+##### <a id="36B"></a>36B  Disclosure not required: State Attorney-General’s public interest certificate
 
 Scope
 
        (1AA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-State Attorney‑General may issue public interest certificate
+State Attorney-General may issue public interest certificate
 
-             (1)  If the Attorney‑General of a State certifies, by writing signed by him or her, that the disclosure of information concerning a specified matter, or the disclosure of any matter contained in a document, would be contrary to the public interest:
+             (1)  If the Attorney-General of a State certifies, by writing signed by him or her, that the disclosure of information concerning a specified matter, or the disclosure of any matter contained in a document, would be contrary to the public interest:
 
                      (a)  by reason that it would involve the disclosure of deliberations or decisions of the Cabinet, or of a Committee of the Cabinet, of the State; or
 
@@ -2424,21 +2421,21 @@ Protection of information etc.
 
 Disclosure of information etc.
 
-             (3)  Where the Attorney‑General of a State has certified in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a), the Tribunal shall consider whether the information or the matter should be disclosed to all or any of the parties to the proceeding and, if it decides that the information or the matter should be so disclosed, the Tribunal shall make the information available or permit the part of the document containing the matter to be inspected accordingly.
+             (3)  Where the Attorney-General of a State has certified in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a), the Tribunal shall consider whether the information or the matter should be disclosed to all or any of the parties to the proceeding and, if it decides that the information or the matter should be so disclosed, the Tribunal shall make the information available or permit the part of the document containing the matter to be inspected accordingly.
 
-State Attorney‑General taken to be a party
+State Attorney-General taken to be a party
 
-             (4)  Where, in relation to a proceeding to which the Attorney‑General of a State would not, but for this subsection, be a party, that Attorney‑General certifies in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a), that Attorney‑General shall, for the purposes of this Act, be taken to be a party to the proceeding.
+             (4)  Where, in relation to a proceeding to which the Attorney-General of a State would not, but for this subsection, be a party, that Attorney-General certifies in accordance with subsection (1) that the disclosure of information, or of matter contained in a document, would be contrary to the public interest but the certificate does not specify a reason referred to in paragraph (1)(a), that Attorney-General shall, for the purposes of this Act, be taken to be a party to the proceeding.
 
 What Tribunal must consider in deciding whether to disclose information etc.
 
-             (5)  In considering whether information, or matter contained in a document, should be disclosed as mentioned in subsection (3), the Tribunal shall take as the basis of its consideration the principle that it is desirable in the interest of securing the effective performance of the Tribunal’s functions that the parties to a proceeding should be made aware of all relevant matters, but shall pay due regard to any reason that the Attorney‑General of the State has specified in the certificate as a reason why the disclosure of the information, or of the matter contained in the document, as the case may be, would be contrary to the public interest.
+             (5)  In considering whether information, or matter contained in a document, should be disclosed as mentioned in subsection (3), the Tribunal shall take as the basis of its consideration the principle that it is desirable in the interest of securing the effective performance of the Tribunal’s functions that the parties to a proceeding should be made aware of all relevant matters, but shall pay due regard to any reason that the Attorney-General of the State has specified in the certificate as a reason why the disclosure of the information, or of the matter contained in the document, as the case may be, would be contrary to the public interest.
 
 Norfolk Island
 
              (6)  In this section:
 
-                    <a name="attornei-gener"></a>**_Attorney‑General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
+                    <a name="attornei-gener"></a>**_Attorney-General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
 
                     <a name="cabinet"></a>**_Cabinet_**, in relation to Norfolk Island, means a body that:
 
@@ -2448,33 +2445,33 @@ Norfolk Island
 
                     <a name="state"></a>**_State_** includes Norfolk Island.
 
-##### <a id="36C"></a>36C  Answering questions where State Attorney‑General intervenes on public interest grounds
+##### <a id="36C"></a>36C  Answering questions where State Attorney-General intervenes on public interest grounds
 
 Scope
 
        (1AA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-Intervention by State Attorney‑General
+Intervention by State Attorney-General
 
-             (1)  Where, at the hearing of a proceeding before the Tribunal, a person is asked a question in the course of giving evidence, the Attorney‑General of a State may inform the Tribunal that, in his or her opinion, the answering of the question would be contrary to the public interest for a specified reason or reasons, being a reason or reasons mentioned in subsection 36B(1).
+             (1)  Where, at the hearing of a proceeding before the Tribunal, a person is asked a question in the course of giving evidence, the Attorney-General of a State may inform the Tribunal that, in his or her opinion, the answering of the question would be contrary to the public interest for a specified reason or reasons, being a reason or reasons mentioned in subsection 36B(1).
 
 When person excused from answering question
 
-             (2)  Where the Attorney‑General of a State informs the Tribunal that, in his or her opinion, the answering by a person of a question would be contrary to the public interest, that person is excused from answering the question unless:
+             (2)  Where the Attorney-General of a State informs the Tribunal that, in his or her opinion, the answering by a person of a question would be contrary to the public interest, that person is excused from answering the question unless:
 
                      (a)  if the reason specified is, or the reasons specified include, a reason referred to in paragraph 36B(1)(a)—a court, on an appeal under section 44 or a reference under section 45, decides that the answering of the question would not be contrary to the public interest; or
 
                      (b)  otherwise—the Tribunal decides that the answering of the question would not be contrary to the public interest.
 
-State Attorney‑General taken to be a party
+State Attorney-General taken to be a party
 
-             (3)  Where the Attorney‑General of a State informs the Tribunal that, in his or her opinion, the answering by a person of a question at the hearing of a proceeding would be contrary to the public interest and, but for this subsection, that Attorney‑General would not be a party to the proceeding, that Attorney‑General shall, for the purposes of this Act, be taken to be a party to the proceeding.
+             (3)  Where the Attorney-General of a State informs the Tribunal that, in his or her opinion, the answering by a person of a question at the hearing of a proceeding would be contrary to the public interest and, but for this subsection, that Attorney-General would not be a party to the proceeding, that Attorney-General shall, for the purposes of this Act, be taken to be a party to the proceeding.
 
 Norfolk Island
 
              (4)  In this section:
 
-                    <a name="attornei-gener"></a>**_Attorney‑General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
+                    <a name="attornei-gener"></a>**_Attorney-General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
 
                     <a name="state"></a>**_State_** includes Norfolk Island.
 
@@ -2526,9 +2523,9 @@ Public interest
 
              (6)  Sections 36 and 36B exclude the operation of any rules of law that relate to the public interest and would otherwise apply in relation to the disclosure of information, or of matter contained in documents, in proceedings before the Tribunal.
 
-Commonwealth Attorney‑General or State Attorney‑General may appear or be represented
+Commonwealth Attorney-General or State Attorney-General may appear or be represented
 
-             (7)  The Attorney‑General, or the Attorney‑General of a State:
+             (7)  The Attorney-General, or the Attorney-General of a State:
 
                      (a)  may appear before the Tribunal personally, or may be represented before the Tribunal by a barrister, solicitor or other person, in order to inform the Tribunal of his or her opinion in accordance with section 36A or 36C; or
 
@@ -2538,7 +2535,7 @@ Norfolk Island
 
              (8)  In this section:
 
-                    <a name="attornei-gener"></a>**_Attorney‑General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
+                    <a name="attornei-gener"></a>**_Attorney-General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
 
                     <a name="state"></a>**_State_** includes Norfolk Island.
 
@@ -2546,9 +2543,9 @@ Norfolk Island
 
 Scope
 
-    (1AAA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
+     (1AAA)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-Decision‑maker must lodge statement of reasons and relevant documents
+Decision-maker must lodge statement of reasons and relevant documents
 
              (1)  Subject to this section, a person who has made a decision that is the subject of an application for a review by the Tribunal must, within 28 days after receiving notice of the application (or within such further period as the Tribunal allows), lodge with the Tribunal 2 copies of:
 
@@ -2560,9 +2557,9 @@ Decision‑maker must lodge statement of reasons and relevant documents
 
 Document setting out reasons for decision may be lodged instead of statement
 
-       (1AB)  Subject to any other Act, the President may, in relation to a particular decision or class of decisions, direct that the person who is obliged to lodge with the Tribunal the statement referred to in paragraph (1)(a) may, in lieu of lodging the statement, lodge with the Tribunal, within the period applicable under subsection (1), 2 copies of the document setting out the reasons for the decision that is the subject of the application for review.
+        (1AB)  Subject to any other Act, the President may, in relation to a particular decision or class of decisions, direct that the person who is obliged to lodge with the Tribunal the statement referred to in paragraph (1)(a) may, in lieu of lodging the statement, lodge with the Tribunal, within the period applicable under subsection (1), 2 copies of the document setting out the reasons for the decision that is the subject of the application for review.
 
-       (1AC)  If a person has, in accordance with a direction given under subsection (1AB), lodged with the Tribunal 2 copies of the document setting out the reasons for a decision, the Tribunal may at any later time direct the person to lodge with the Tribunal, within such period as the Tribunal determines, a statement in accordance with paragraph (1)(a).
+        (1AC)  If a person has, in accordance with a direction given under subsection (1AB), lodged with the Tribunal 2 copies of the document setting out the reasons for a decision, the Tribunal may at any later time direct the person to lodge with the Tribunal, within such period as the Tribunal determines, a statement in accordance with paragraph (1)(a).
 
        (1AD)  If a person who has made a decision that is the subject of an application for a review by the Tribunal has given to a party to the proceeding a statement in relation to the decision under subsection 28(1), the reference in paragraph (1)(a) to a statement is taken to be a reference to the statement given under subsection 28(1).
 
@@ -2584,7 +2581,7 @@ When document not required to be lodged
 
                    the person is not required to comply with paragraph (1)(b) in relation to the document or part of the document unless and until the Tribunal, after hearing the application for the direction, directs the person to do so.
 
-       (1AG)  Subsection (1AF) does not affect the obligation of a person referred to in that subsection to comply with paragraph (1)(b) in relation to any document or part of a document to which that subsection does not apply.
+        (1AG)  Subsection (1AF) does not affect the obligation of a person referred to in that subsection to comply with paragraph (1)(b) in relation to any document or part of a document to which that subsection does not apply.
 
 Tribunal may shorten deadline for lodging documents
 
@@ -2612,11 +2609,11 @@ Privilege and public interest
 
              (2)  This section does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
-##### <a id="38A"></a>38A  Director‑General of Security to lodge certain material with Tribunal
+##### <a id="38A"></a>38A  Director-General of Security to lodge certain material with Tribunal
 
-             (1)  If an application for review of a security assessment is made in a case in which the Attorney‑General has given a certificate certifying in accordance with paragraph 38(2)(b) of the _Australian Security Intelligence Organisation Act 1979_, the Director‑General of Security must, within 30 days after receiving notice of the application, lodge with the Tribunal a copy of the certificate, together with a copy of the whole of the assessment.
+             (1)  If an application for review of a security assessment is made in a case in which the Attorney-General has given a certificate certifying in accordance with paragraph 38(2)(b) of the _Australian Security Intelligence Organisation Act 1979_, the Director-General of Security must, within 30 days after receiving notice of the application, lodge with the Tribunal a copy of the certificate, together with a copy of the whole of the assessment.
 
-             (2)  The Tribunal must not, at any time, tell the applicant of the existence of, or permit the applicant to have access to any copy or particulars of, a certificate of the Attorney‑General referred to in subsection (1) or any matter to which the certificate relates.
+             (2)  The Tribunal must not, at any time, tell the applicant of the existence of, or permit the applicant to have access to any copy or particulars of, a certificate of the Attorney-General referred to in subsection (1) or any matter to which the certificate relates.
 
 ##### <a id="39"></a>39  Opportunity to make submissions concerning evidence
 
@@ -2632,11 +2629,11 @@ Review of security assessment
 
 Parties
 
-             (2)  The parties to the proceeding are the Director‑General of Security and the applicant, but the Commonwealth agency to which the assessment is given is entitled to adduce evidence and make submissions.
+             (2)  The parties to the proceeding are the Director-General of Security and the applicant, but the Commonwealth agency to which the assessment is given is entitled to adduce evidence and make submissions.
 
-Director‑General of Security must present all relevant information
+Director-General of Security must present all relevant information
 
-             (3)  It is the duty of the Director‑General of Security to present to the Tribunal all relevant information available to the Director‑General, whether favourable or unfavourable to the applicant.
+             (3)  It is the duty of the Director-General of Security to present to the Tribunal all relevant information available to the Director-General, whether favourable or unfavourable to the applicant.
 
 Member may require parties to attend etc.
 
@@ -2648,13 +2645,13 @@ Proceedings to be in private
 
 Right of parties etc. to be present
 
-             (6)  Subject to subsection (9), the applicant and a person representing the applicant may be present when the Tribunal is hearing submissions made or evidence adduced by the Director‑General of Security or the Commonwealth agency to which the assessment was given.
+             (6)  Subject to subsection (9), the applicant and a person representing the applicant may be present when the Tribunal is hearing submissions made or evidence adduced by the Director-General of Security or the Commonwealth agency to which the assessment was given.
 
-             (7)  The Director‑General of Security or a person representing the Director‑General, and a person representing the Commonwealth agency to which the assessment was given, may be present when the Tribunal is hearing submissions made or evidence adduced by the applicant.
+             (7)  The Director-General of Security or a person representing the Director-General, and a person representing the Commonwealth agency to which the assessment was given, may be present when the Tribunal is hearing submissions made or evidence adduced by the applicant.
 
 Security/defence certificate
 
-             (8)  The Minister administering the _Australian Security Intelligence Organisation Act 1979_(the **_responsible Minister_**) may, by signed writing, certify that evidence proposed to be adduced or submissions proposed to be made by or on behalf of the Director‑General of Security or the Commonwealth agency to which the assessment was given are of such a nature that the disclosure of the evidence or submissions would be contrary to the public interest because it would prejudice security or the defence of Australia.
+             (8)  The Minister administering the _Australian Security Intelligence Organisation Act 1979_(the **_responsible Minister_**) may, by signed writing, certify that evidence proposed to be adduced or submissions proposed to be made by or on behalf of the Director-General of Security or the Commonwealth agency to which the assessment was given are of such a nature that the disclosure of the evidence or submissions would be contrary to the public interest because it would prejudice security or the defence of Australia.
 
              (9)  If such a certificate is given:
 
@@ -2670,17 +2667,17 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 Protection of identity of person giving evidence
 
-           (11)  If the Director‑General of Security so requests, the Tribunal must do all things necessary to ensure that the identity of a person giving evidence on behalf of the Director‑General of Security is not revealed.
+           (11)  If the Director-General of Security so requests, the Tribunal must do all things necessary to ensure that the identity of a person giving evidence on behalf of the Director-General of Security is not revealed.
 
 Evidence and submissions
 
-           (12)  The Tribunal must first hear evidence adduced, and submissions made, by or on behalf of the Director‑General of Security and any evidence or submissions that the Commonwealth agency to which the assessment was given may wish to adduce or make.
+           (12)  The Tribunal must first hear evidence adduced, and submissions made, by or on behalf of the Director-General of Security and any evidence or submissions that the Commonwealth agency to which the assessment was given may wish to adduce or make.
 
            (13)  The Tribunal must next permit the applicant, if he or she so desires, to adduce evidence before, and make submissions to, the Tribunal.
 
            (14)  The Tribunal may, on its own initiative and at any stage of the proceedings, invite a person to give evidence, or cause a person to be summoned to give evidence.
 
-           (15)  If a person invited or summoned to give evidence under subsection (14) is an officer or employee of the Australian Security Intelligence Organisation or of the Commonwealth agency to which the assessment was given, subsection (8) applies as if any evidence to be given by the person were evidence proposed to be adduced by or on behalf of the Director‑General of Security or that agency, as the case may be.
+           (15)  If a person invited or summoned to give evidence under subsection (14) is an officer or employee of the Australian Security Intelligence Organisation or of the Commonwealth agency to which the assessment was given, subsection (8) applies as if any evidence to be given by the person were evidence proposed to be adduced by or on behalf of the Director-General of Security or that agency, as the case may be.
 
            (16)  If:
 
@@ -2688,9 +2685,9 @@ Evidence and submissions
 
                      (b)  after that case has been presented, the other party adduces evidence; and
 
-                     (c)  the Tribunal thinks that, because of evidence adduced by the other party, the first‑mentioned party should be further heard;
+                     (c)  the Tribunal thinks that, because of evidence adduced by the other party, the first-mentioned party should be further heard;
 
-the Tribunal must give the first‑mentioned party an opportunity of adducing further evidence but must not give to the applicant any particulars of any evidence to which a certificate given under subsection (8) relates.
+the Tribunal must give the first-mentioned party an opportunity of adducing further evidence but must not give to the applicant any particulars of any evidence to which a certificate given under subsection (8) relates.
 
            (17)  A member of the Tribunal may ask questions of a witness before the Tribunal and the presidential member presiding may require a witness to answer any such question.
 
@@ -2710,9 +2707,9 @@ Scope
 
              (1)  This section applies to a proceeding in the Security Appeals Division to which section 39A applies.
 
-Attorney‑General may issue public interest certificate
+Attorney-General may issue public interest certificate
 
-             (2)  If the Attorney‑General certifies, by signed writing, that the disclosure of information with respect to a matter stated in the certificate, or the disclosure of the contents of a document, would be contrary to the public interest:
+             (2)  If the Attorney-General certifies, by signed writing, that the disclosure of information with respect to a matter stated in the certificate, or the disclosure of the contents of a document, would be contrary to the public interest:
 
                      (a)  because it would prejudice security or the defence or international relations of Australia; or
 
@@ -2730,15 +2727,15 @@ Protection of information etc.
 
                      (b)  in respect of a document produced to the Tribunal—that the document is returned to the person by whom it was produced.
 
-             (4)  Subsection (3) does not apply in relation to disclosure to the Director‑General of Security or his or her representative if the reason stated in the certificate is the reason referred to in paragraph (2)(a).
+             (4)  Subsection (3) does not apply in relation to disclosure to the Director-General of Security or his or her representative if the reason stated in the certificate is the reason referred to in paragraph (2)(a).
 
 Disclosure of information etc.
 
              (5)  If:
 
-                     (a)  the Attorney‑General has certified in accordance with subsection (2) that the disclosure of information or of the contents of a document would be contrary to the public interest but the certificate does not state a reason referred to in paragraph (2)(a) or (b); and
+                     (a)  the Attorney-General has certified in accordance with subsection (2) that the disclosure of information or of the contents of a document would be contrary to the public interest but the certificate does not state a reason referred to in paragraph (2)(a) or (b); and
 
-                     (b)  the presidential member presiding is satisfied that the interests of justice outweigh the reason stated by the Attorney‑General;
+                     (b)  the presidential member presiding is satisfied that the interests of justice outweigh the reason stated by the Attorney-General;
 
 the presidential member may authorise the disclosure of the information, or of the contents of the document to, the applicant.
 
@@ -2748,7 +2745,7 @@ What presidential member must consider in deciding whether to authorise disclosu
 
                      (a)  the presidential member must take as the basis of his or her consideration the principle that it is desirable, in the interest of ensuring that the Tribunal performs its functions effectively, that the parties should be made aware of all relevant matters; but
 
-                     (b)  the presidential member must pay due regard to any reason stated by the Attorney‑General in the certificate as a reason why the disclosure of the information or of the contents of the document, as the case may be, would be contrary to the public interest.
+                     (b)  the presidential member must pay due regard to any reason stated by the Attorney-General in the certificate as a reason why the disclosure of the information or of the contents of the document, as the case may be, would be contrary to the public interest.
 
 Disclosure of information etc. to staff of Tribunal
 
@@ -2760,11 +2757,11 @@ Public interest
 
 Copy of document
 
-             (9)  If the Attorney‑General has given a certificate under subsection (2) in respect of a document, this section applies in relation to a document that is a copy of the first‑mentioned document as if the copy were the original document.
+             (9)  If the Attorney-General has given a certificate under subsection (2) in respect of a document, this section applies in relation to a document that is a copy of the first-mentioned document as if the copy were the original document.
 
 Certificate lodged under subsection 38A(1)
 
-           (10)  For the purposes of this section, if the Director‑General of Security, in accordance with subsection 38A(1), has lodged with the Tribunal a certificate of the Attorney‑General given under subsection 38(2) of the _Australian Security Intelligence Organisation Act 1979_, the certificate is taken to be a certificate certifying to the Tribunal that the disclosure of the information to which the certificate relates would be contrary to the public interest because it would prejudice security.
+           (10)  For the purposes of this section, if the Director-General of Security, in accordance with subsection 38A(1), has lodged with the Tribunal a certificate of the Attorney-General given under subsection 38(2) of the _Australian Security Intelligence Organisation Act 1979_, the certificate is taken to be a certificate certifying to the Tribunal that the disclosure of the information to which the certificate relates would be contrary to the public interest because it would prejudice security.
 
 Duty of Tribunal
 
@@ -2798,7 +2795,7 @@ Summons
 
           (1D)  A presidential member, a senior member or an authorised member may give a party to a proceeding leave to inspect a document produced under a summons.
 
-          (1E)  A person named in a summons for production of a book, document or thing may produce the book, document or thing at the Registry where the summons was issued before the date specified in the summons and, unless the Tribunal otherwise directs, is not required to attend the hearing concerned unless the person is also required to give evidence at the hearing concerned.
+           (1E)  A person named in a summons for production of a book, document or thing may produce the book, document or thing at the Registry where the summons was issued before the date specified in the summons and, unless the Tribunal otherwise directs, is not required to attend the hearing concerned unless the person is also required to give evidence at the hearing concerned.
 
 Oath or affirmation
 
@@ -2818,7 +2815,7 @@ Representation
 
 Tribunal’s power to take evidence
 
-             (5)  The power of the Tribunal under paragraph (1)(a) to take evidence on oath or affirmation may be exercised on behalf of the Tribunal in relation to a particular proceeding before the Tribunal by the member who is to preside at the hearing of that proceeding or by another person (whether a member or not) authorized by the first‑mentioned member and that power may be so exercised within or outside Australia but the Tribunal may direct that the power is to be exercised subject to limitations specified by the Tribunal.
+             (5)  The power of the Tribunal under paragraph (1)(a) to take evidence on oath or affirmation may be exercised on behalf of the Tribunal in relation to a particular proceeding before the Tribunal by the member who is to preside at the hearing of that proceeding or by another person (whether a member or not) authorized by the first-mentioned member and that power may be so exercised within or outside Australia but the Tribunal may direct that the power is to be exercised subject to limitations specified by the Tribunal.
 
              (6)  Where a person other than the member who is to preside at the hearing of a proceeding is authorized to take evidence in relation to the proceeding in accordance with subsection (5):
 
@@ -2836,7 +2833,7 @@ Incidental proceedings
 
              (2)  The Tribunal may, on request being made, as prescribed, by a party to a proceeding before the Tribunal (in this section referred to as the **_relevant proceeding_**), if the Tribunal is of the opinion that it is desirable to do so after taking into account the interests of any persons who may be affected by the review, make such order or orders staying or otherwise affecting the operation or implementation of the decision to which the relevant proceeding relates or a part of that decision as the Tribunal considers appropriate for the purpose of securing the effectiveness of the hearing and determination of the application for review.
 
-             (3)  Where an order is in force under subsection (2) (including an order that has previously been varied on one or more occasions under this subsection), the Tribunal may, on request being made, as prescribed, by a party to the relevant proceeding, make an order varying or revoking the first‑mentioned order.
+             (3)  Where an order is in force under subsection (2) (including an order that has previously been varied on one or more occasions under this subsection), the Tribunal may, on request being made, as prescribed, by a party to the relevant proceeding, make an order varying or revoking the first-mentioned order.
 
              (4)  Subject to subsection (5), the Tribunal shall not:
 
@@ -2848,7 +2845,7 @@ Incidental proceedings
 
                              (ii)  the person who requested the making of the order under subsection (2); and
 
-                            (iii)  if the order under subsection (2) has previously been varied by an order or orders under subsection (3)—the person or persons who requested the making of the last‑mentioned order or orders;
+                            (iii)  if the order under subsection (2) has previously been varied by an order or orders under subsection (3)—the person or persons who requested the making of the last-mentioned order or orders;
 
                             have been given a reasonable opportunity to make submissions to the Tribunal, as the case may be, in relation to the matter.
 
@@ -2992,7 +2989,7 @@ the Tribunal may, if it appears to it to be appropriate to do so, act in accorda
 
              (3)  If the agreement relates to a part of the proceeding or a matter arising out of the proceeding, the Tribunal may in its decision in the proceeding give effect to the terms of the agreement without, if it has not already done so, dealing at the hearing of the proceeding with the part of the proceeding or the matter arising out of the proceeding, as the case may be, to which the agreement relates.
 
-##### <a id="42D"></a>42D  Power to remit matters to decision‑maker for further consideration
+##### <a id="42D"></a>42D  Power to remit matters to decision-maker for further consideration
 
              (1)  At any stage of a proceeding for review of a decision, the Tribunal may remit the decision to the person who made it for reconsideration of the decision by the person.
 
@@ -3098,7 +3095,7 @@ then, unless the Tribunal, the Federal Court of Australia or the Federal Magistr
 
                      (d)  if such an appeal is brought—the appeal is determined.
 
-Tribunal’s decision taken to be decision of decision‑maker
+Tribunal’s decision taken to be decision of decision-maker
 
              (6)  A decision of a person as varied by the Tribunal, or a decision made by the Tribunal in substitution for the decision of a person, shall, for all purposes (other than the purposes of applications to the Tribunal for a review or of appeals in accordance with section 44), be deemed to be a decision of that person and, upon the coming into operation of the decision of the Tribunal, unless the Tribunal otherwise orders, has effect, or shall be deemed to have had effect, on and from the day on which the decision under review has or had effect.
 
@@ -3118,7 +3115,7 @@ Findings
 
 Copies of findings to be given to parties etc.
 
-             (4)  Subject to subsection (5), the Tribunal must cause copies of its findings to be given to the applicant, the Director‑General of Security, the Commonwealth agency to which the assessment was given and the Attorney‑General.
+             (4)  Subject to subsection (5), the Tribunal must cause copies of its findings to be given to the applicant, the Director-General of Security, the Commonwealth agency to which the assessment was given and the Attorney-General.
 
              (5)  The Tribunal may direct that the whole or a particular part of its findings, so far as they relate to a matter that has not already been disclosed to the applicant, is not to be given to the applicant or is not to be given to the Commonwealth agency to which the assessment was given.
 
@@ -3128,7 +3125,7 @@ Applicant may publish findings
 
 Tribunal may attach comments to findings
 
-             (7)  The Tribunal may attach to a copy of findings to be given to the Director‑General under this section, any comments the Tribunal wishes to make on matters relating to procedures or practices of the Australian Security Intelligence Organisation that have come to the Tribunal’s attention as a result of a review.
+             (7)  The Tribunal may attach to a copy of findings to be given to the Director-General under this section, any comments the Tribunal wishes to make on matters relating to procedures or practices of the Australian Security Intelligence Organisation that have come to the Tribunal’s attention as a result of a review.
 
              (8)  The Tribunal must give the Minister a copy of any comments attached as mentioned in subsection (7).
 
@@ -3192,7 +3189,7 @@ When and how appeal instituted
 
           (2A)  An appeal by a person under subsection (1) or (2) shall be instituted:
 
-                     (a)  not later than the twenty‑eighth day after the day on which a document setting out the terms of the decision of the Tribunal is given to the person or within such further time as the Federal Court of Australia (whether before or after the expiration of that day) allows; and
+                     (a)  not later than the twenty-eighth day after the day on which a document setting out the terms of the decision of the Tribunal is given to the person or within such further time as the Federal Court of Australia (whether before or after the expiration of that day) allows; and
 
                      (b)  in such manner as is prescribed by rules of court made under the _Federal Court of Australia Act 1976_.
 
@@ -3268,7 +3265,7 @@ Transfer of appeals
 
              (1)  If an appeal under subsection 44(1) or (2) is pending in the Federal Court of Australia, the Federal Court of Australia may, by order, transfer the appeal from the Federal Court of Australia to the Federal Magistrates Court.
 
-             (2)  However, the Federal Court of Australia must not transfer an appeal to the Federal Magistrates Court if the appeal:
+             (2)  However, the Federal Court of Australia must not transfer an appeal to the Federal Magistrates   Court if the appeal:
 
                      (a)  relates to a decision given by the Tribunal constituted by a member who was, or by members at least one of whom was, a presidential member; or
 
@@ -3348,7 +3345,7 @@ as the Federal Magistrates Court or Federal Magistrate considers appropriate for
 
                      (b)  the Federal Magistrates Court or a Federal Magistrate;
 
-may make an order varying or revoking the first‑mentioned order.
+may make an order varying or revoking the first-mentioned order.
 
              (4)  An order in force under subsection (2) or (2A) (including an order that has previously been varied on one or more occasions under subsection (3)):
 
@@ -3444,9 +3441,9 @@ the court shall permit the part of the document in which the matter is contained
 
                              (ii)  if a higher number than 10 is prescribed by the regulations for the purposes of this subparagraph—that higher number of members.
 
-             (2)  The members referred to in paragraph (1)(d) shall be appointed by the Governor‑General and shall be appointed as part‑time members.
+             (2)  The members referred to in paragraph (1)(d) shall be appointed by the Governor-General and shall be appointed as part-time members.
 
-          (2A)  The Governor‑General shall appoint one of the members to be the President of the Council.
+          (2A)  The Governor-General shall appoint one of the members to be the President of the Council.
 
              (3)  The performance of the functions or the exercise of the powers of the Council is not affected by a vacancy in the office of a member referred to in paragraph (1)(a), (b), (c) or (ca) or by reason of the number of appointed members falling below 3 for not more than 3 months.
 
@@ -3466,7 +3463,7 @@ the court shall permit the part of the document in which the matter is contained
 
                     (aa)  to keep the Commonwealth administrative law system under review, monitor developments in administrative law and recommend to the Minister improvements that might be made to the system; and
 
-                   (ab)  to inquire into the adequacy of the procedures used by authorities of the Commonwealth and other persons who exercise administrative discretions or make administrative decisions, and consult with and advise them about those procedures, for the purpose of ensuring that the discretions are exercised, or the decisions are made, in a just and equitable manner; and
+                    (ab)  to inquire into the adequacy of the procedures used by authorities of the Commonwealth and other persons who exercise administrative discretions or make administrative decisions, and consult with and advise them about those procedures, for the purpose of ensuring that the discretions are exercised, or the decisions are made, in a just and equitable manner; and
 
                      (a)  to ascertain, and keep under review, the classes of administrative decisions that are not the subject of review by a court, tribunal or other body; and
 
@@ -3522,7 +3519,7 @@ the Council is to prepare a report on the matter and give the report to the Mini
 
 General rule
 
-             (1)  Subject to this section, an appointed member shall be appointed for such period, not exceeding 3 years, as the Governor‑General specifies in the instrument of his or her appointment, but is eligible for re‑appointment.
+             (1)  Subject to this section, an appointed member shall be appointed for such period, not exceeding 3 years, as the Governor-General specifies in the instrument of his or her appointment, but is eligible for re-appointment.
 
 Special rule—appointment for a particular project
 
@@ -3534,7 +3531,7 @@ Special rule—appointment for a particular project
 
                      (b)  the person is to take part in the project and has the rights of a member only for the purposes of taking part in the project; and
 
-                     (c)  the Governor‑General may at any time, by writing, terminate the appointment; and
+                     (c)  the Governor-General may at any time, by writing, terminate the appointment; and
 
                      (d)  if the appointment has not previously ended under paragraph (a) or under section 54 or 55 or been terminated under paragraph (c), it ends when the President of the Council certifies in writing that the Council has finished the project; and
 
@@ -3546,19 +3543,19 @@ Special rule—appointment for a particular project
 
              (2)  An appointed member shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973‑1974_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973-1974_.
 
 ##### <a id="54"></a>54  Resignation
 
-             (1)  An appointed member may resign his or her appointment by giving the Governor‑General a written resignation.
+             (1)  An appointed member may resign his or her appointment by giving the Governor-General a written resignation.
 
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
+             (2)  The resignation takes effect on the day it is received by the Governor-General or, if a later day is specified in the resignation, on that later day.
 
 ##### <a id="55"></a>55  Removal from office
 
-             (1)  The Governor‑General may remove an appointed member from office for misbehaviour or incapacity.
+             (1)  The Governor-General may remove an appointed member from office for misbehaviour or incapacity.
 
-             (2)  If an appointed member is absent, except by leave of the Minister, from 3 consecutive meetings of the Council, the Governor‑General may remove him or her from office.
+             (2)  If an appointed member is absent, except by leave of the Minister, from 3 consecutive meetings of the Council, the Governor-General may remove him or her from office.
 
 ##### <a id="56"></a>56  Meetings
 
@@ -3830,9 +3827,9 @@ Contempt of Tribunal
 
 ##### <a id="64"></a>64  Registries
 
-             (1)  The Governor‑General shall cause such Registries of the Tribunal to be established as he or she thinks fit, but so that at least one Registry shall be established in each State.
+             (1)  The Governor-General shall cause such Registries of the Tribunal to be established as he or she thinks fit, but so that at least one Registry shall be established in each State.
 
-             (2)  The Governor‑General shall designate one of the Registries as the Principal Registry.
+             (2)  The Governor-General shall designate one of the Registries as the Principal Registry.
 
 ##### <a id="65"></a>65  Officers of Tribunal
 
@@ -3978,9 +3975,9 @@ Electronic communication
 
                      (c)  proposes to institute a proceeding, or is a party to a proceeding instituted, before a court in respect of a matter arising under this Act;
 
-may apply to the Attorney‑General for the provision of assistance under this section in respect of the proceeding.
+may apply to the Attorney-General for the provision of assistance under this section in respect of the proceeding.
 
-             (2)  Where an application is made by a person under subsection (1), the Attorney‑General may, if he or she is satisfied that it would involve hardship to that person to refuse the application and that, in all the circumstances, it is reasonable that the application should be granted, authorize the provision by the Commonwealth to that person, either unconditionally or subject to such conditions as the Attorney‑General determines, of such legal or financial assistance in relation to the proceeding as the Attorney‑General determines.
+             (2)  Where an application is made by a person under subsection (1), the Attorney-General may, if he or she is satisfied that it would involve hardship to that person to refuse the application and that, in all the circumstances, it is reasonable that the application should be granted, authorize the provision by the Commonwealth to that person, either unconditionally or subject to such conditions as the Attorney-General determines, of such legal or financial assistance in relation to the proceeding as the Attorney-General determines.
 
 ##### <a id="69A"></a>69A  Procedure for taxing costs
 
@@ -4006,7 +4003,7 @@ the President may give such directions as he or she thinks appropriate for the c
 
                      (c)  set aside the amount and remit the matter to the Registrar, District Registrar or Deputy Registrar, as the case may be, to be taxed in accordance with the directions of the Tribunal.
 
-             (4)  An amount that a party to a proceeding is required under an order made by the Tribunal to pay to another party to the proceeding is recoverable by the other party as a debt due to the other party by the first‑mentioned party.
+             (4)  An amount that a party to a proceeding is required under an order made by the Tribunal to pay to another party to the proceeding is recoverable by the other party as a debt due to the other party by the first-mentioned party.
 
 ##### <a id="69B"></a>69B  Costs in certain proceedings in Security Appeals Division
 
@@ -4024,7 +4021,7 @@ the Tribunal may order that the costs reasonably incurred by the applicant in co
 
 ##### <a id="70"></a>70  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
              (2)  Without limiting the generality of subsection (1):
 
@@ -4062,15 +4059,17 @@ The _Administrative Appeals Tribunal Act 1975_ as shown in this compilation comp
 
 The _Administrative Appeals Tribunal Act 1975_ was amended by the Administrative Appeals Tribunal (Social Services Act) Regulations. The amendments made by these Regulations were repealed by the _Statute Law Revision Act 1981_(No. 61, 1981).
 
-The _Administrative Appeals Tribunal Act 1975_ was amended by the Administrative Appeals Tribunal (Patent Attorneys) Regulations. The amendment made by these Regulations was repealed by the _Customs and Excise Legislation Amendment Act 1990_ (No. 111, 1990).
+The _Administrative Appeals Tribunal Act 1975_ was amended by the Administrative Appeals Tribunal (Patent Attorneys) Regulations. The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 30 May 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
 The _Administrative Appeals Tribunal Act 1975_ was modified by the _Commonwealth Employees’ Rehabilitation and Compensation Act 1988_(No. 75, 1988), the _Social Security Act 1991_(No. 46, 1991), the _Taxation Laws Amendment Act (No. 3) 1991_(No. 216, 1991) and the _Migration Reform Act 1992_(No. 184, 1992). The modifications made by these Acts are not incorporated in this compilation.
 
-The _Administrative Appeals Tribunal Act 1975_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended). The modification is not incorporated in this compilation.
+The _Administrative Appeals Tribunal Act 1975_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
 <table>
 <colgroup>
@@ -4113,7 +4112,7 @@ of Assent</div>
     <div>28 Aug 1975</div>
   </td>
   <td>
-    <div>1 July 1976 ( <i>see Gazette</i>1976, No. S94)</div>
+    <div>1 July 1976 ( <i>see Gazette</i>1976, No. S94)</div>
   </td>
   <td>
     <div></div>
@@ -4148,7 +4147,7 @@ Remainder: 1 Oct 1976</div>
     <div>31 Aug 1976</div>
   </td>
   <td>
-    <div>Ss. 5 and 6: 1 Sept 1976 
+    <div>Ss. 5 and 6: 1 Sept 1976 
 Ss. 4, 15 and 18: 
 1 July 1976 
 Remainder: Royal Assent</div>
@@ -4185,7 +4184,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 1976</div>
   </td>
   <td>
-    <div>1 Feb 1977 ( <i>see</i>s. 2 and <i>Gazette</i>1977, No. S3)</div>
+    <div>1 Feb 1977 ( <i>see</i>s. 2 and <i>Gazette</i>1977, No. S3)</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -4202,7 +4201,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 1976</div>
   </td>
   <td>
-    <div>Ss. 3, 4, 6, 7 and 10: 1 Feb 1977 ( <i>see Gazette</i>1977, No. S3, p. 2) 
+    <div>Ss. 3, 4, 6, 7 and 10: 1 Feb 1977 ( <i>see Gazette</i>1977, No. S3, p. 2) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4220,7 +4219,8 @@ Remainder: Royal Assent</div>
     <div>9 Dec 1976</div>
   </td>
   <td>
-    <div>Ss. 3, 4, 7 and 10: 1 Feb 1977 ( <i>see Gazette</i>1977, No. S3, p. 3) 
+    <div>Ss. 3, 4, 7 and 10: 
+1 Feb 1977 ( <i>see Gazette</i>1977, No. S3, p. 3) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4241,7 +4241,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 1, 2 and 30: Royal Assent 
 Ss. 14 and 31: 
 1 July 1976 
-Remainder: 20 June 1977 ( <i>see Gazette</i>1977, No. S93)</div>
+Remainder: 20 June 1977 ( <i>see Gazette</i>1977, No. S93)</div>
   </td>
   <td>
     <div>—</div>
@@ -4365,7 +4365,7 @@ Remainder: 1 June 1977</div>
   </td>
   <td>
     <div>Parts II–XVII 
-(ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+(ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4401,7 +4401,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 3(b), 4 and 5: 
-1 July 1980 ( <i>see Gazette</i>1980, No. S146) 
+1 July 1980 ( <i>see Gazette</i>1980, No. S146) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4437,7 +4437,7 @@ Remainder: Royal Assent</div>
     <div>12 June 1981</div>
   </td>
   <td>
-    <div>Ss. 3, 4 and 115: Royal Assent</div>
+    <div>Ss. 3, 4 and 115: Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>S. 4(2)</div>
@@ -4456,7 +4456,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Part III (ss. 5–40): 
-4 June 1982</div>
+4 June 1982 <i>(c)</i></div>
   </td>
   <td>
     <div>Ss. 7(2), 39 and 40</div>
@@ -4474,7 +4474,7 @@ Remainder: Royal Assent</div>
     <div>22 Sept 1982</div>
   </td>
   <td>
-    <div>S. 280: Royal Assent</div>
+    <div>S. 280: Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4491,7 +4491,7 @@ Remainder: Royal Assent</div>
     <div>22 Nov 1983</div>
   </td>
   <td>
-    <div>S. 3: <i>(b)</i></div>
+    <div>S. 3: Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4508,7 +4508,7 @@ Remainder: Royal Assent</div>
     <div>25 June 1984</div>
   </td>
   <td>
-    <div>S. 151(1) and (9): 1 July 1984 ( <i>see Gazette</i>1984, No. S245)</div>
+    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(f)</i></div>
   </td>
   <td>
     <div>S. 151(9)</div>
@@ -4525,7 +4525,7 @@ Remainder: Royal Assent</div>
     <div>25 June 1984</div>
   </td>
   <td>
-    <div>Ss. 3 and 5(1): 23 July 1984</div>
+    <div>S. 3: 23 July 1984 <i>(g)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -4542,7 +4542,7 @@ Remainder: Royal Assent</div>
     <div>5 June 1985</div>
   </td>
   <td>
-    <div>S. 3: 3 July 1985</div>
+    <div>S. 3: 3 July 1985 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4559,7 +4559,7 @@ Remainder: Royal Assent</div>
     <div>16 Dec 1985</div>
   </td>
   <td>
-    <div>Ss. 3 and 16: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>S. 16</div>
@@ -4576,7 +4576,9 @@ Remainder: Royal Assent</div>
     <div>24 June 1986</div>
   </td>
   <td>
-    <div>S.4: 1 July 1986</div>
+    <div>S. 31, Parts VII and VIII 
+(ss. 45–56): 24 June 1986 ( <i>see</i>s. 2(2)) 
+Remainder: 1 July 1986</div>
   </td>
   <td>
     <div>—</div>
@@ -4593,7 +4595,7 @@ Remainder: Royal Assent</div>
     <div>3 June 1988</div>
   </td>
   <td>
-    <div>Ss. 3 and 5(1): Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(k)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -4611,7 +4613,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Part III 
-(ss. 17–32), s. 98, Parts IX and X (ss. 99–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
+(ss. 17–32), s. 98, Parts IX and X (ss. 99–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4620,7 +4622,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -4629,7 +4631,7 @@ Remainder: Royal Assent</div>
     <div>6 Dec 1988</div>
   </td>
   <td>
-    <div>S. 32: 11 May 1989 ( <i>see Gazette</i>1989, No. S164)</div>
+    <div>S. 32: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4646,7 +4648,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Part III (ss. 6–16): Royal Assent</div>
+    <div>Part III (ss. 6–16): Royal Assent <i>(m)</i></div>
   </td>
   <td>
     <div>Ss. 8(2) and 9(2)</div>
@@ -4681,7 +4683,7 @@ Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S398)</div>
     <div>21 Dec 1990</div>
   </td>
   <td>
-    <div>S. 48: Royal Assent</div>
+    <div>S. 48: Royal Assent <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4717,7 +4719,7 @@ Remainder: Royal Assent</div>
     <div>12 Sept 1991</div>
   </td>
   <td>
-    <div>Schedule: 10 Oct 1991</div>
+    <div>Schedule: 10 Oct 1991 <i>(o)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4752,7 +4754,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>S. 4 (Schedule \[Part 1]): 11 June 1993 <i>(c)</i></div>
+    <div>S. 4 (Schedule \[Part 1]): 11 June 1993 <i>(p)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4787,7 +4789,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Part 3 (ss. 6–8): 
-3 July 1994 ( <i>see Gazette</i>1994, No. S242)</div>
+3 July 1994 ( <i>see Gazette</i>1994, No. S242) <i>(q)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4804,7 +4806,7 @@ Remainder: Royal Assent</div>
     <div>5 July 1994</div>
   </td>
   <td>
-    <div>S. 8: Royal Assent</div>
+    <div>S. 8: Royal Assent <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4838,7 +4840,7 @@ Remainder: Royal Assent</div>
     <div>9 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 2): 11 Nov 1996 ( <i>see Gazette</i>1996, No. GN43)</div>
+    <div>Schedule 2 (items 1, 2): 11 Nov 1996 ( <i>see Gazette</i>1996, No. GN43) <i>(s)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4855,8 +4857,9 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 2 (items 6, 7): <i>(d)</i> 
-Schedule 4 (items 4, 5) and Schedule 5 (items 4–6): Royal Assent <i>(d)</i></div>
+    <div>Schedule 2 
+(items 6, 7): <i>(t)</i></div>
+    <div>Schedule 4 (items 4, 5) and Schedule 5 (items 4–6): Royal Assent <i>(t)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4874,8 +4877,8 @@ Schedule 4 (items 4, 5) and Schedule 5 (items 4–6): Royal Assent <i>(d
   </td>
   <td>
     <div>Schedule 16 
-(item 1): 25 May 1997 
-Schedule 19 (item 2): Royal Assent</div>
+(item 1): 25 May 1997 <i>(u)</i> 
+Schedule 19 (item 2): Royal Assent <i>(u)</i></div>
   </td>
   <td>
     <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
@@ -4910,7 +4913,7 @@ Schedule 19 (item 2): Royal Assent</div>
   </td>
   <td>
     <div>Schedule 3 
-(items 1, 2): <i>(e)</i></div>
+(items 1, 2): <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4927,8 +4930,8 @@ Schedule 19 (item 2): Royal Assent</div>
     <div>17 Apr 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 3–6): 1 July 1997 ( <i>see Gazette</i>1997, No. S244) 
-Schedule 1 (item 2): Royal Assent</div>
+    <div>Schedule 1 (items 1, 3–6): 1 July 1997 ( <i>see Gazette</i>1997, No. S244) <i>(w)</i></div>
+    <div>Schedule 1 (item 2): Royal Assent <i>(w)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4945,7 +4948,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 139, 140): 1 Jan 1998 ( <i>see s. </i>2(2) and <i>Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (items 139, 140): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(x)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4962,7 +4965,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 1: Royal Assent</div>
+    <div>Schedule 1: Royal Assent <i>(y)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4979,7 +4982,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 41–47): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 41–47): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(z)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4996,7 +4999,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 3): 24 Nov 2000</div>
+    <div>Schedule 12 (items 1, 3): 24 Nov 2000 <i>(za)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5013,7 +5016,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 3–15): <i>(f)</i></div>
+    <div>Schedule 3 (items 1, 3–15): <i>(zb)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5030,7 +5033,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>23 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 3: 23 Dec 1999</div>
+    <div>Schedule 3: 23 Dec 1999 <i>(zc)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5064,10 +5067,10 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 11, 12): 15 July 2001 ( <i>see</i>s. 2 (3) and <i>Gazette</i>2001, No. S285)</div>
+    <div>Ss. 4–14 and Schedule 3 (items 11, 12): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zd)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5081,10 +5084,10 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 6(1)): Royal Assent</div>
+    <div>Schedule 2 (items 1, 6(1)): Royal Assent <i>(ze)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (item 6(1)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 6(1)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5101,7 +5104,7 @@ Schedule 1 (item 2): Royal Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5153,7 +5156,7 @@ Schedule 1 (item 2): Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 7(2) \[ <i>see</i>Table A]</div>
+    <div>S. 7(2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5186,10 +5189,11 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1) and Schedule 3 (items 14, 15): 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653)</div>
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (items 14, 15) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 14, 15) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5200,10 +5204,10 @@ Remainder: Royal Assent</div>
     <div>26, 2008</div>
   </td>
   <td>
-    <div>23 June 2008</div>
+    <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–8): Royal Assent</div>
+    <div>Schedule 1 (items 1–8): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -5220,7 +5224,7 @@ Remainder: Royal Assent</div>
     <div>6 Oct 2009</div>
   </td>
   <td>
-    <div>Schedule 3: 7 Oct 2009</div>
+    <div>Schedule 3: 7 Oct 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -5237,11 +5241,11 @@ Remainder: Royal Assent</div>
     <div>7 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 5): Royal Assent</div>
+    <div>Schedule 3 (items 1, 5): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (item 5) \[in part] 
-\[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (item 5) \[in part] 
+\[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5252,13 +5256,13 @@ Remainder: Royal Assent</div>
     <div>51, 2010</div>
   </td>
   <td>
-    <div>31 May 2010</div>
+    <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 41A, 41B): <i>(g)</i></div>
+    <div>Schedule 6 (items 41A, 41B) and Schedule 7: <i>(zf)</i></div>
   </td>
   <td>
-    <div>—</div>
+    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5272,41 +5276,7 @@ Remainder: Royal Assent</div>
     <div>10 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 126–154): 1 Jan 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 32–34) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3): <i>(h)</i></div>
+    <div>Schedule 1 (items 126–154): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5317,17 +5287,77 @@ _(a)_     The _Administrative Appeals Tribunal Act 1975_ was amended by 
 
                  (2)   The amendments of the _Administrative Appeals Tribunal Act 1975_ made by this Act shall be deemed to have come into operation on the date of commencement of that Act. 
 
-_(b)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(3) of which provides as follows: 
+_(b)_    The _Administrative Appeals Tribunal Act 1975_ was amended by sections 3, 4 and 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
+
+_(c)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Part III (sections 5–40) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows: 
+
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent. 
+
+_(d)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 280 only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent. 
+
+_(e)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(3) of which provides as follows: 
 
                  (3)   The amendment of the _Administrative Appeals Tribunal Act 1975_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent. 
 
-_(c)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule (Part 1) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsections 2(2) and (3) of which provide as follows: 
+_(f)_      The _Administrative Appeals Tribunal Act 1975_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
+
+                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation. 
+
+_(g)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent. 
+
+_(h)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent. 
+
+_(j)_      The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
+
+_(k)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
+
+_(l)_      The _Administrative Appeals Tribunal Act 1975_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
+
+                 (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation. 
+
+_(m)_    The _Administrative Appeals Tribunal Act 1975_ was amended by Part III (sections 6–16) only of the _Law and Justice Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
+
+_(n)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 48 only of the _Customs and Excise Legislation Amendment Act 1990_, subsection 2(2) of which provides as follows: 
+
+                 (2)   Sections 1, 2 and 3, paragraphs 4(a), (b), (c), (d) and (g), sections 5, 11, 27 and 30, paragraphs 34(d) and (e), sections 35 and 36, section 37 so far as it relates to the amendments included in Schedule 2 that relate to section 209 of the _Customs Act 1901_, and sections 38, 39, 47, 48 and 49 commence on the day on which this Act receives the Royal Assent. 
+
+_(o)_     The _Administrative Appeals Tribunal Act 1975_ was amended by the Schedule only of the _Law and Justice Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
+
+_(p)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule (Part 1) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsections 2(2) and (3) of which provide as follows: 
 
                  (2)   Subject to subsection (3), the amendment of the _Administrative Appeals Tribunal Act 1975_ made by this Act commences on a day to be fixed by Proclamation. 
 
                  (3)   If the amendment mentioned in subsection (2) does not commence under that subsection within the period of 6 months commencing on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. 
 
-_(d)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 2 (items 6 and 7), Schedule 4 (items 4 and 5) and Schedule 5 (items 4–6) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(q)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Part 3 (sections 6–8) only of the _Law and Justice Legislation Amendment Act 1994_, subsection 2(2) of which provides as follows: 
+
+                 (2)   Part 3 commences on a day to be fixed by Proclamation. 
+
+_(r)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 8 only of the _Corporations Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Parts 1, 2 and 3 and Schedules 5 and 9 commence on the day on which this Act receives the Royal Assent. 
+
+_(s)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 2 (items 1 and 2) only of the _Australian Law Reform Commission (Repeal, Transitional and Miscellaneous) Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the same day as the _Australian Law Reform Commission Act 1996_.
+
+_(t)_      The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 2 (items 6 and 7), Schedule 4 (items 4 and 5) and Schedule 5 (items 4–6) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -5337,20 +5367,68 @@ _(d)_     The _Administrative Appeals Tribunal Act 1975_ was amended by 
 
          Section 48 commenced on 21 December 1990.
 
-_(e)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
+_(u)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 16 (item 1) and Schedule 19 (item 2) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsections 2(1)–(3) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
+
+                 (3)   If an item of a Schedule does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. 
+
+_(v)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
 
                  (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
          The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
 
-_(f)_      The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 3 (items 1 and 
+_(w)_    The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 1 (items 1–6) only of the _Law and Justice Legislation Amendment Act 1997_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   Items 1, and 3 to 6, of Schedule 1, items 4, 5, and 9 to 16, of Schedule 14 and items 1 to 6, and 8 to 11, of Schedule 16 commence on a day or days to be fixed by Proclamation. 
+
+_(x)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 2 (items 139 and 140) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(y)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 1 only of the _Law and Justice Legislation Amendment Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(z)_     The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 1 (items 41–47) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(za)_   The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 12 (items 1 and 3) only of the _Corporate Law Economic Reform Program Act 1999_, subsections 2(2)(c) and (4) of which provide as follows:
+
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+
+                         (c)  the items in Schedules 10, 11 and 12.
+
+                 (4)   If an item in Schedule 11 or 12 does not commence under subsection (2) within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
+_(zb)_  The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 3 (items 1 and 
  3–15) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
 
          The other Schedules commenced on 10 December 1999.
 
-_(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
+_(zc)_   The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 3 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
+
+_(zd)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 3 (items 11 and 12) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 2 (item 1) only of the _Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001,_ subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -5437,62 +5515,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
   <td>
     <div>
-      1 November 2010
-    </div>
-  </td>
-</tr></table>
-
-_(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
+      1 November 2010
     </div>
   </td>
 </tr></table>
@@ -5541,7 +5564,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 65, 1978; No. 26, 1982; Nos. 109 and 120, 1988; No. 157, 1989; No. 31, 1993; No. 175, 1995; No. 34, 1997; No. 161, 1999; No. 38, 2005; No. 139, 2010; No. 58, 2011</div>
+    <div>am. No. 58, 1977; No. 65, 1978; No. 26, 1982; Nos. 109 and 120, 1988; No. 157, 1989; No. 31, 1993; No. 175, 1995; No. 34, 1997; No. 161, 1999; No. 38, 2005; No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5850,7 +5873,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 13(1), (2).</div>
+    <div>Subheads. to s. 13(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -5885,7 +5908,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
     <div></div>
   </td>
   <td>
-    <div>rs. No. 26, 2008</div>
+    <div>rs. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5901,7 +5924,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 26, 1982; No. 94, 1992; No. 175, 1995; No. 38, 2005; No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 58, 1977; No. 26, 1982; No. 94, 1992; No. 175, 1995; No. 38, 2005; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6042,7 +6065,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 19(4)–(6).</div>
+    <div>Subheads. to s. 19(4)–(6)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -6165,7 +6188,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 7, 2005; No. 21, 2007; No. 99, 2009</div>
+    <div>am. No. 161, 1999; No. 7, 2005; No. 21, 2007; No. 99, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6234,7 +6257,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 22(1), (2).</div>
+    <div>Subheads. to s. 22(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -6509,7 +6532,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
     <div>S. 24K</div>
   </td>
   <td>
-    <div>ad. No. 157, 1989</div>
+    <div>ad. No. 157, 1989; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6517,7 +6540,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1992; No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 94, 1992</div>
   </td>
 </tr>
 <tr>
@@ -6690,7 +6713,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part IV</div>
+    <div>Heading to Div. 1 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -6882,7 +6905,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 28(4), (5).</div>
+    <div>Subheads. to s. 28(4), (5)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -6906,7 +6929,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 29(2)–(4).</div>
+    <div>Subheads. to s. 29(2)–(4)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -6978,7 +7001,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part IV</div>
+    <div>Heading to Div. 2 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7098,7 +7121,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part IV ad.</div>
+    <div>Heading to Div. 3 of Part IV. ad.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7162,7 +7185,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part IV</div>
+    <div>Heading to Div. 4 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7244,7 +7267,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 36(1)–(3).</div>
+    <div>Subheads. to s. 36(1)–(3)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7460,7 +7483,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 37(2), (3).</div>
+    <div>Subheads. to s. 37(2), (3)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7613,7 +7636,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 5 of Part IV</div>
+    <div>Heading to Div. 5 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7637,7 +7660,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 40(4), (5).</div>
+    <div>Subheads. to s. 40(4), (5)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7797,7 +7820,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 6 of Part IV</div>
+    <div>Heading to Div. 6 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7813,7 +7836,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 43(1), (2).</div>
+    <div>Subhead. to s. 43(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7821,7 +7844,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 43(3), (4).</div>
+    <div>Subhead. to s. 43(3), (4)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7861,7 +7884,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 7 of Part IV</div>
+    <div>Heading to Div. 7 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -7999,7 +8022,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 44(1), (2).</div>
+    <div>Subheads. to s. 44(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8015,7 +8038,7 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 44(3), (4).</div>
+    <div>Subheads. to s. 44(3), (4)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8120,7 +8143,7 @@ s. 44AA(7)–(10)</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 46(1), (2).</div>
+    <div>Subheads. to s. 46(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8184,7 +8207,7 @@ s. 44AA(7)–(10)</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 52(1), (2).</div>
+    <div>Subheads. to s. 52(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8240,7 +8263,7 @@ s. 44AA(7)–(10)</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 56(4), (5).</div>
+    <div>Subheads. to s. 56(4), (5)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8328,7 +8351,7 @@ s. 44AA(7)–(10)</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 60(2), (3).</div>
+    <div>Subheads. to s. 60(2), (3)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8456,7 +8479,7 @@ s. 44AA(7)–(10)</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 66(1)–(4).</div>
+    <div>Subheads. to s. 66(1)–(4)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -8669,31 +8692,15 @@ s. 44AA(7)–(10)</div>
   <td>
     <div>ad. No. 26, 1982</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 32  Subsection 24M(1)
-
-Omit “(1)”.
-
-## 33  At the end of subsection 24M(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 34  Subsections 24M(2) and (3)
-
-Repeal the subsections.
-
-As at 1 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -8707,7 +8714,7 @@ _Jurisdiction of Courts Legislation Amendment Act 2000 (No. 57, 2000)_
 
 Definitions
 
-(1)       In this item:
+(1)        In this item:
 
 **_amended Act_** means the _Administrative Appeals Tribunal Act 1975_ as in force after the commencement.
 
@@ -8723,7 +8730,7 @@ Definitions
 
 Appellable State decisions made before the commencement—situations in which period for appealing under amended Act is extended
 
-(2)       In each of the following situations, the amended Act applies in relation to a person and an appellable State decision as if the 28 day period referred to in subsection 44(2A) of that Act began on the commencement:
+(2)        In each of the following situations, the amended Act applies in relation to a person and an appellable State decision as if the 28 day period referred to in subsection 44(2A) of that Act began on the commencement:
 
                      (a)  the first situation—the decision was made before the commencement and that 28 day period would otherwise have begun during the period starting on 20 May 1999 and ending immediately before the commencement;
 
@@ -8735,27 +8742,27 @@ _Note:       The power under subsection 44(2A) of the amended Act to
 
 Appellable Territory decisions—ACT and NT laws no longer operate to apply sections 44 to 46 of the AAT Act
 
-(3)       A law of the Australian Capital Territory or the Northern Territory that provides for the application of the _Administrative Appeals Tribunal Act 1975_ as a law of that Territory is of no effect after the commencement so far as that law purports to apply all or any of sections 44 to 46 of that Act in relation to an appellable Territory decision (whenever it was made).
+(3)        A law of the Australian Capital Territory or the Northern Territory that provides for the application of the _Administrative Appeals Tribunal Act 1975_ as a law of that Territory is of no effect after the commencement so far as that law purports to apply all or any of sections 44 to 46 of that Act in relation to an appellable Territory decision (whenever it was made).
 
 _Note:       Part IVA of the amended Act applies to these decisions._
 
 Appellable Territory decisions—proceedings under sections 44 to 46 continue after the commencement under the amended Act
 
-(4)       If, immediately before the commencement, proceedings in relation to an appellable Territory decision were before a court under any of sections 44 to 46 of the _Administrative Appeals Tribunal Act 1975_ as applying as a law of the Australian Capital Territory or the Northern Territory, then, from the commencement, those proceedings continue as if they had been commenced in that court under the amended Act.
+(4)        If, immediately before the commencement, proceedings in relation to an appellable Territory decision were before a court under any of sections 44 to 46 of the _Administrative Appeals Tribunal Act 1975_ as applying as a law of the Australian Capital Territory or the Northern Territory, then, from the commencement, those proceedings continue as if they had been commenced in that court under the amended Act.
 
 Appellable Territory decisions—continued effect of orders made before the commencement under sections 44 to 46
 
-(5)       An order made by a court before the commencement under any of sections 44 to 46 of the _Administrative Appeals Tribunal Act 1975_ as applying as a law of the Australian Capital Territory or the Northern Territory has effect, from the commencement, as if it had been made by that court under the amended Act.
+(5)        An order made by a court before the commencement under any of sections 44 to 46 of the _Administrative Appeals Tribunal Act 1975_ as applying as a law of the Australian Capital Territory or the Northern Territory has effect, from the commencement, as if it had been made by that court under the amended Act.
 
 * * *
 
-_Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001 (No. 157, 2001)_
+_Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001 (No. 157, 2001)_
 
 ## Schedule 2
 
 ## 6  Application of amendments
 
-(1)       The amendment of the _Administrative Appeals Tribunal Act 1975_ made by item 1 applies in relation to an appeal instituted in the Federal Court of Australia on or after the commencement of this item.
+(1)        The amendment of the _Administrative Appeals Tribunal Act 1975_ made by item 1 applies in relation to an appeal instituted in the Federal Court of Australia on or after the commencement of this item.
 
 * * *
 
@@ -8798,19 +8805,19 @@ Despite the repeal of subsections 3(4) and (5) of the _Administrative Appeals Tr
 
 ## 22  Transitional—section 8 of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a member if the member was covered by subsection 8(1) or (2) of the _Administrative Appeals Tribunal Act 1975_ immediately before the commencement of this item.
+(1)        This item applies to a member if the member was covered by subsection 8(1) or (2) of the _Administrative Appeals Tribunal Act 1975_ immediately before the commencement of this item.
 
-(2)       Despite the repeal of subsections 8(1) and (2) of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, those subsections continue to apply after the commencement of this item, in relation to the member’s appointment, as if those repeals had not happened.
+(2)        Despite the repeal of subsections 8(1) and (2) of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, those subsections continue to apply after the commencement of this item, in relation to the member’s appointment, as if those repeals had not happened.
 
 ## 28  Transitional—subsection 10(2) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to an appointment if:
+(1)        This item applies to an appointment if:
 
                      (a)  the appointment was made under subsection 10(2) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the appointment was in force immediately before the commencement of this item.
 
-(2)       The appointment has effect, after the commencement of this item, as if it had been made under subsection 10(2) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The appointment has effect, after the commencement of this item, as if it had been made under subsection 10(2) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 31  Transitional—subsection 13(8) of the _Administrative Appeals Tribunal Act 1975_
 
@@ -8818,47 +8825,47 @@ Despite the repeal of subsection 13(8) of the _Administrative Appeals Tribunal A
 
 ## 34  Transitional—section 16 of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies if a person was appointed as a presidential member (within the meaning of section 16 of the _Administrative Appeals Tribunal Act 1975_) before the commencement of this item.
+(1)        This item applies if a person was appointed as a presidential member (within the meaning of section 16 of the _Administrative Appeals Tribunal Act 1975_) before the commencement of this item.
 
-(2)       Despite the repeal of section 16 of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, that section continues to apply after the commencement of this item, in relation to the person, as if that repeal had not happened.
+(2)        Despite the repeal of section 16 of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, that section continues to apply after the commencement of this item, in relation to the person, as if that repeal had not happened.
 
 ## 37  Transitional—subsection 19(3) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies if the assignment of a non‑presidential member to a particular Division or Divisions of the Tribunal was in force immediately before the commencement of this item.
+(1)        This item applies if the assignment of a non-presidential member to a particular Division or Divisions of the Tribunal was in force immediately before the commencement of this item.
 
-(2)       The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the Minister had, immediately after that commencement, assigned the member to that Division or those Divisions under subsection 19(3) of that Act.
+(2)        The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the Minister had, immediately after that commencement, assigned the member to that Division or those Divisions under subsection 19(3) of that Act.
 
-(3)       To avoid doubt, the Minister is not bound by the member’s instrument of appointment in exercising a power conferred by subsection 19(3) of the _Administrative Appeals Tribunal Act 1975_.
+(3)        To avoid doubt, the Minister is not bound by the member’s instrument of appointment in exercising a power conferred by subsection 19(3) of the _Administrative Appeals Tribunal Act 1975_.
 
 ## 41  Transitional—subsection 20(2) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given for the purposes of paragraph 20(1A)(d) or (e) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction has effect, after the commencement of this item, as if it had been given under subsection 20(2) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction has effect, after the commencement of this item, as if it had been given under subsection 20(2) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 42  Transitional—subsection 20(4) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given for the purposes of paragraph 20(1A)(a) or (c) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction has effect, after the commencement of this item, as if it had been given under subsection 20(4) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction has effect, after the commencement of this item, as if it had been given under subsection 20(4) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 45  Transitional—section 20B of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given for the purposes of paragraph 20(1A)(b) or subsection 20(2) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction has effect, after the commencement of this item, as if it had been given under subsection 20B(1) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction has effect, after the commencement of this item, as if it had been given under subsection 20B(1) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 51  Transitional—paragraph 21(1A)(a) of the _Administrative Appeals Tribunal Act 1975_
 
@@ -8866,11 +8873,11 @@ The amendment made by item 50 does not apply to a proceeding if, immediately b
 
 ## 54  Transitional—subsection 21(2) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a proceeding before the Tribunal if, immediately before the commencement of this item, the Tribunal was constituted by a particular member, for the purposes of the proceeding, in accordance with subsection 21(2) of the _Administrative Appeals Tribunal Act 1975_.
+(1)        This item applies to a proceeding before the Tribunal if, immediately before the commencement of this item, the Tribunal was constituted by a particular member, for the purposes of the proceeding, in accordance with subsection 21(2) of the _Administrative Appeals Tribunal Act 1975_.
 
-(2)       The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the Tribunal had been constituted by that member, for the purposes of the proceeding, in accordance with a direction given under section 20B of that Act.
+(2)        The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the Tribunal had been constituted by that member, for the purposes of the proceeding, in accordance with a direction given under section 20B of that Act.
 
-(3)       Subitem (2) does not prevent the reconstitution of the Tribunal.
+(3)        Subitem (2) does not prevent the reconstitution of the Tribunal.
 
 ## 56  Transitional—subsections 21(3) and (4) of the _Administrative Appeals Tribunal Act 1975_
 
@@ -8886,11 +8893,11 @@ The amendments of subsection 22(2) of the _Administrative Appeals Tribunal Act 1
 
 ## 67  Transitional—paragraph 23(1)(a) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a proceeding before the Tribunal if, immediately before the commencement of this item, the Tribunal was constituted by a particular member or members, for the purposes of the proceeding, in accordance with paragraph 23(1)(a) of the _Administrative Appeals Tribunal Act 1975_.
+(1)        This item applies to a proceeding before the Tribunal if, immediately before the commencement of this item, the Tribunal was constituted by a particular member or members, for the purposes of the proceeding, in accordance with paragraph 23(1)(a) of the _Administrative Appeals Tribunal Act 1975_.
 
-(2)       The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the Tribunal had been constituted by that member or those members, for the purposes of the proceeding, in accordance with a direction given under subsection 20B(1) of that Act.
+(2)        The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the Tribunal had been constituted by that member or those members, for the purposes of the proceeding, in accordance with a direction given under subsection 20B(1) of that Act.
 
-(3)       Subitem (2) does not prevent the reconstitution of the Tribunal.
+(3)        Subitem (2) does not prevent the reconstitution of the Tribunal.
 
 ## 68  Transitional—section 23D of the _Administrative Appeals Tribunal Act 1975_
 
@@ -8906,59 +8913,59 @@ The amendment of subsection 29(7) of the _Administrative Appeals Tribunal Act 19
 
 ## 111  Transitional—subsection 33(4) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to the power to make an authorisation under subsection 33(4) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(1)        This item applies to the power to make an authorisation under subsection 33(4) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
-(2)       For the purposes of section 4 of the _Acts Interpretation Act 1901_, that power is taken to be a power to make an instrument of an administrative character.
+(2)        For the purposes of section 4 of the _Acts Interpretation Act 1901_, that power is taken to be a power to make an instrument of an administrative character.
 
 ## 113  Transitional—paragraph 34A(1)(a) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given under subsection 34(1) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction, except to the extent to which it identifies the person who is to preside over a conference, has effect, after the commencement of this item, as if it had been given under paragraph 34A(1)(a) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction, except to the extent to which it identifies the person who is to preside over a conference, has effect, after the commencement of this item, as if it had been given under paragraph 34A(1)(a) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 114  Transitional—paragraph 34A(1)(b) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given under subsection 34A(1) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction, except to the extent to which it identifies the person who is to be the mediator, has effect, after the commencement of this item, as if it had been given under paragraph 34A(1)(b) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction, except to the extent to which it identifies the person who is to be the mediator, has effect, after the commencement of this item, as if it had been given under paragraph 34A(1)(b) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 115  Transitional—paragraph 34B(3)(e) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given under subparagraph 34A(1A)(b)(ii) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction, except to the extent to which it identifies the person who is to be the mediator, has effect, after the commencement of this item, as if it had been given under paragraph 34B(3)(e) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction, except to the extent to which it identifies the person who is to be the mediator, has effect, after the commencement of this item, as if it had been given under paragraph 34B(3)(e) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 116  Transitional—subsection 34A(2) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a direction if:
+(1)        This item applies to a direction if:
 
                      (a)  the direction was given under subsection 34(2) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the direction was in force immediately before the commencement of this item.
 
-(2)       The direction has effect, after the commencement of this item, as if it had been given under subsection 34A(2) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The direction has effect, after the commencement of this item, as if it had been given under subsection 34A(2) of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 117  Transitional—Division 3 of Part IV of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to a conference or mediation if:
+(1)        This item applies to a conference or mediation if:
 
                      (a)  the conference or mediation had begun, before the commencement of this item, under section 34 or 34A of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the conference or mediation had not been completed before the commencement of this item.
 
-(2)       The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if:
+(2)        The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if:
 
                      (a)  the conference or mediation were a conference or mediation under Division 3 of Part IV of that Act; and
 
@@ -8970,7 +8977,7 @@ and the conference or mediation is to be continued accordingly.
 
 ## 118  Transitional—paragraph 34D(1)(a) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to an agreement if:
+(1)        This item applies to an agreement if:
 
                      (a)  the agreement was entered into before the commencement of this item; and
 
@@ -8978,7 +8985,7 @@ and the conference or mediation is to be continued accordingly.
 
                      (c)  the Tribunal had not exercised its powers under subsection 34A(5) or (6) of that Act, in relation to the agreement, before the commencement of this item.
 
-(2)       The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the agreement were an agreement to which paragraph 34D(1)(a) of that Act applies.
+(2)        The _Administrative Appeals Tribunal Act 1975_ has effect, after the commencement of this item, as if the agreement were an agreement to which paragraph 34D(1)(a) of that Act applies.
 
 ## 119  Transitional—subsections 34(3) and 34A(7) of the _Administrative Appeals Tribunal Act 1975_
 
@@ -8986,9 +8993,9 @@ Despite the repeal of subsections 34(3) and 34A(7) of the _Administrative Appeal
 
 ## 120  Transitional—subsections 34(4) and 34A(8) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       Despite the repeal of subsection 34(4) of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, that subsection continues to apply after the commencement of this item, in relation to a conference that was completed before the commencement of this item, as if that repeal had not happened.
+(1)        Despite the repeal of subsection 34(4) of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, that subsection continues to apply after the commencement of this item, in relation to a conference that was completed before the commencement of this item, as if that repeal had not happened.
 
-(2)       Despite the repeal of subsection 34A(8) of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, that subsection continues to apply after the commencement of this item, in relation to a mediation that was completed before the commencement of this item, as if:
+(2)        Despite the repeal of subsection 34A(8) of the _Administrative Appeals Tribunal Act 1975_ by this Schedule, that subsection continues to apply after the commencement of this item, in relation to a mediation that was completed before the commencement of this item, as if:
 
                      (a)  that repeal had not happened; and
 
@@ -9008,13 +9015,13 @@ The amendments made by items 136 and 137 apply to a summons issued after the c
 
 ## 144  Transitional—subsections 41(2) and (3) of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to an order if:
+(1)        This item applies to an order if:
 
                      (a)  the order was made by a presidential member under subsection 41(2) or (3) of the _Administrative Appeals Tribunal Act 1975_; and
 
                      (b)  the order was in force immediately before the commencement of this item.
 
-(2)       The order has effect, after the commencement of this item, as if it had been made by the Tribunal under subsection 41(2) or (3), as the case may be, of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(2)        The order has effect, after the commencement of this item, as if it had been made by the Tribunal under subsection 41(2) or (3), as the case may be, of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
 ## 152  Application—section 42 of the _Administrative Appeals Tribunal Act 1975_
 
@@ -9034,9 +9041,9 @@ The amendment of subsection 45(1) of the _Administrative Appeals Tribunal Act 19
 
 ## 181  Transitional—section 59A of the _Administrative Appeals Tribunal Act 1975_
 
-(1)       This item applies to the power to make an authorisation under section 59A of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
+(1)        This item applies to the power to make an authorisation under section 59A of the _Administrative Appeals Tribunal Act 1975_ as amended by this Schedule.
 
-(2)       For the purposes of section 4 of the _Acts Interpretation Act 1901_, that power is taken to be a power to make an instrument of an administrative character.
+(2)        For the purposes of section 4 of the _Acts Interpretation Act 1901_, that power is taken to be a power to make an instrument of an administrative character.
 
 ## 184  Transitional—subsection 60(1A) of the _Administrative Appeals Tribunal Act 1975_
 
@@ -9048,7 +9055,7 @@ The amendments of section 67 of the _Administrative Appeals Tribunal Act 1975_
 
 ## 201  Transitional—acts or things done  on basis that provision of _Administrative Appeals Tribunal Act 1975_ referred to furnishing etc.
 
-(1)       This item applies to an act or thing if:
+(1)        This item applies to an act or thing if:
 
                      (a)  the act or thing was done before the commencement of this item; and
 
@@ -9066,7 +9073,7 @@ The amendments of section 67 of the _Administrative Appeals Tribunal Act 1975_
 
                             (vi)  service.
 
-(2)       After the commencement of this item, the act or thing is as valid as it would have been if it had been done on the basis that the provision had referred instead to whichever of the following expressions is appropriate:
+(2)        After the commencement of this item, the act or thing is as valid as it would have been if it had been done on the basis that the provision had referred instead to whichever of the following expressions is appropriate:
 
                      (a)  give;
 
@@ -9074,11 +9081,11 @@ The amendments of section 67 of the _Administrative Appeals Tribunal Act 1975_
 
                      (c)  giving.
 
-(3)       This item is enacted for the avoidance of doubt.
+(3)        This item is enacted for the avoidance of doubt.
 
 ## 202  Transitional regulations
 
-The Governor‑General may make regulations in relation to transitional matters arising out of the amendments made by this Schedule.
+The Governor-General may make regulations in relation to transitional matters arising out of the amendments made by this Schedule.
 
 * * *
 
@@ -9106,7 +9113,7 @@ _Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009
 
 ## 5  Saving of regulations
 
-(1)       Despite the repeal of a provision that is specified in column 2 of the following table, as in force immediately before commencement, regulations that:
+(1)        Despite the repeal of a provision that is specified in column 2 of the following table, as in force immediately before commencement, regulations that:
 
                      (a)  were made for the purposes of that provision; and
 
@@ -9180,24 +9187,28 @@ continue to have effect on and after commencement as if those regulations had be
   </td>
 </tr></table>
 
-(2)       In this item:
+(2)        In this item:
 
 **_commencement_** means the commencement of this item.
 
-* * *
+## Table B
 
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+### Modifications
 
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
+_A.C.T. Self-Government (Consequential Provisions) Regulations_
 
-## Schedule 3
+## After section 36A:
 
-## 10  Saving—appointments
+Insert the following section:
 
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
+## 36AA Interpretation of sections 36B, 36C and 36D
 
-## 11  Transitional regulations
+In sections 36B, 36C and 36D, unless the contrary intention appears:
 
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+                    <a name="attornei-gener"></a>**_Attorney-General_** includes the Minister administering the _Administrative Appeals Tribunal Act 1989_ of the Australian   Capital Territory.
+
+                    <a name="cabinet"></a>**_Cabinet_** includes the Australian Capital Territory Executive.
+
+                    <a name="state"></a>**_State_** includes the Australian Capital   Territory.
 
  
