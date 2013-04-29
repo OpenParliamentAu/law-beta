@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01748/Html/AirForce23_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01747/Html/AirForce23_image001.gif)
 
 # Air Force Act 1923
 
 **Act No. 33 of 1923 as amended**
 
-This compilation was prepared on 19 April 2001
- taking into account amendments up to Act No. 10 of 2001
+This compilation was prepared on 15 September 2000
+ taking into account amendments up to Act No. 119 of 2000
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -25,21 +25,27 @@ Prepared by the Office of Legislative Drafting,
 
 [4B](#4B).         Permanent Air Force                                                                            1
 
-[4C](#4C).         Air Force Reserve                                                                                1
+[4C](#4C).         Air Force Emergency Force                                                                 1
+
+[4D](#4D).         Australian Air Force Reserve                                                              2
 
 [4E](#4E).          Voluntary entry                                                                                   2
 
-[4F](#4F).          Territorial limits of service                                                                  2
+[4F](#4F).          Territorial limits of service                                                                  3
 
-[4G](#4G).         Service of the Permanent Air Force                                                     2
+[4G](#4G).         Service of the Permanent Air Force                                                     3
 
-[4J](#4J).          Service of the Air Force Reserve                                                         2
+[4H](#4H).         Service of the Air Force Emergency Force                                          3
 
-[8](#8).            Air Training Corps                                                                              3
+[4HA](#4HA).      Service of the Air Force Emergency Force other than continuous full time service  3
 
-[8A](#8A).         Delegation                                                                                            4
+[4J](#4J).          Service of the Australian Air Force Reserve                                        4
 
-[9](#9).            Regulations                                                                                          5
+[8](#8).            Air Training Corps                                                                              6
+
+[8A](#8A).         Delegation                                                                                            7
+
+[9](#9).            Regulations                                                                                          8
 
 **Notes**
 
@@ -47,11 +53,11 @@ Prepared by the Office of Legislative Drafting,
 
 ## An Act relating to Air Defence
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Air Force Act 1923_.
 
-##### <a id="2"></a>2  Interpretation
+##### <a id="2"></a>2  Interpretation
 
                    In this Act unless the contrary intention appears:
 
@@ -67,39 +73,63 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="4A"></a>4A  Australian Air Force
 
-                   The Australian Air Force consists of 2 parts:
-
-                     (a)  the Permanent Air Force; and
-
-                     (b)  the Air Force Reserve.
+                   The Australian Air Force consists of 3 parts, namely, the Permanent Air Force, the Air Force Emergency Force and the Australian Air Force Reserve. 
 
 ##### <a id="4B"></a>4B  Permanent Air Force
 
                    The Permanent Air Force consists of:
 
-                     (a)  officers appointed to, and airmen enlisted in, the Permanent Air Force; and
+                     (a)  officers appointed to, and airmen enlisted in, that force; and
 
-                     (b)  officers and airmen transferred to the Permanent Air Force from:
+                     (b)  officers and airmen transferred to that force from:
 
-                              (i)  the Air Force Reserve; or
+                              (i)  the Air Force Emergency Force; or
 
-                             (ii)  the Australian Navy; or
+                             (ii)  the Australian Air Force Reserve; or
 
-                            (iii)  the Australian Army.
+                            (iii)  the Australian Army; or
 
-##### <a id="4C"></a>4C  Air Force Reserve
+                            (iv)  the Australian Navy.
 
-                   The Air Force Reserve consists of:
+##### <a id="4C"></a>4C  Air Force Emergency Force<span style="font-size:9.0pt; font-weight:normal"> </span>
 
-                     (a)  officers appointed to, and airmen enlisted in, the Air Force Reserve; and
+                   The Air Force Emergency Force consists of:
 
-                     (b)  officers and airmen transferred to the Air Force Reserve from:
+                     (a)  officers appointed to, and airmen enlisted in, that force; and
+
+                     (b)  officers and airmen transferred to that force from:
 
                               (i)  the Permanent Air Force; or
 
-                             (ii)  the Australian Navy; or
+                             (ii)  the Australian Air Force Reserve; or
 
-                            (iii)  the Australian Army.
+                            (iii)  the Australian Army; or
+
+                            (iv)  the Australian Navy.
+
+##### <a id="4D"></a>4D  Australian Air Force Reserve<span style="font-size:9.0pt; font-weight:normal"> </span>
+
+             (1)  The Australian Air Force Reserve consists of the Air Force Active Reserve, the Air Force General Reserve and the Air Force Specialist Reserve. 
+
+             (2)  The Active Citizen Air Force in existence immediately before the commencement of this section continues in existence as a force forming part of the Australian Air Force Reserve, under the name Air Force Active Reserve, but so that the identity and membership of the force is not affected. 
+
+             (3)  The Air Force Reserve in existence immediately before the commencement of this section continues in existence as a force forming part of the Australian Air Force Reserve, under the name Air Force General Reserve, but so that the identity and membership of the force is not affected. 
+
+             (4)  The Air Force Active Reserve, the Air Force General Reserve and the Air Force Specialist Reserve respectively consist of:
+
+                     (a)  officers appointed to, and airmen enlisted in, that part of the Australian Air Force Reserve; and
+
+                     (b)  officers and airmen transferred to that part of the Australian Air Force Reserve from:
+
+                              (i)  the Permanent Air Force;
+
+                             (ii)  the Air Force Emergency Force; or
+
+                            (iii)  another part of the Australian Air Force Reserve; or
+
+                            (iv)  the Australian Army; or
+
+                             (v)  the Australian Navy.
 
 ##### <a id="4E"></a>4E  Voluntary entry
 
@@ -113,25 +143,63 @@ Prepared by the Office of Legislative Drafting,
 
              (1)  Members of the Permanent Air Force are bound to render continuous full time air-force service. 
 
-##### <a id="4J"></a>4J  Service of the Air Force Reserve
+##### <a id="4H"></a>4H  Service of the Air Force Emergency Force
 
-             (1)  A member of the Air Force Reserve is not bound to render continuous full time air-force service otherwise than:
+             (1)  Members of the Air Force Emergency Force are not bound to render continuous full time air-force service otherwise than:
+
+                     (a)  as provided by subsection (2); or
+
+                     (b)  while they are members of a part of that force called out for continuous full time service under section 50D, 51A, 51B or 51C of the Defence Act. 
+
+             (2)  A member of the Air Force Emergency Force may, at any time, voluntarily undertake to render continuous full time air-force service for a period specified by the member and, if the undertaking is accepted, the member is bound to render continuous full time air-force service for:
+
+                     (a)  the specified period; or
+
+                     (b)  such periods within the specified period as the Chief of Air Force directs, in writing. 
+
+##### <a id="4HA"></a>4HA  Service of the Air Force Emergency Force other than continuous full time service 
+
+             (1)  Where the Chief of Air Force is of the opinion that a particular member of the Air Force Emergency Force, or members within a particular class of members of that Force, should undergo a period of training, he may, by instrument in writing, require the member or members to render air-force service (other than continuous full time air-force service) for that purpose. 
+
+             (2)  Subject to subsection (3), while a member is required to render air-force service pursuant to subsection (1), he is bound to render that service for such period or periods in a specified training period as the Chief of Air Force directs in the instrument requiring him to render air-force service. 
+
+             (3)  The period or periods of service by a member specified in an instrument or instruments pursuant to subsection (2) shall not, either continuously or in the aggregate, exceed 30 days in any training period. 
+
+             (4)  A member of the Air Force Emergency Force may, at any time, voluntarily undertake to render air-force service (other than continuous full time air-force service) for a period specified by him, and, if that undertaking is accepted, he is bound to render air-force service in accordance with that undertaking or for such period or periods within that specified period as the Chief of Air Force directs. 
+
+             (5)  In this section, **_training period_**, in relation to a member of the Air Force Emergency Force, means a period of 12 consecutive months commencing on the date of the member’s transfer or appointment to, or enlistment in, that Force or on an anniversary of that date, as the case requires. 
+
+##### <a id="4J"></a>4J  Service of the Australian Air Force Reserve
+
+             (1)  Members of the Australian Air Force Reserve are not bound to render continuous full time air-force service otherwise than:
 
                      (a)  as provided in this section; or
 
-                     (b)  as a result of a call out order under section 50D, 51A, 51B or 51C of the Defence Act.
+                     (b)  while they are members of a part of that force called out for continuous full time service under section 50E, 50F, 51A, 51B or 51C of the Defence Act. 
 
-             (2)  The regulations must set, or provide for the setting of, training periods for the Air Force Reserve.
+             (2)  The regulations shall fix, or make provision for fixing, training periods in respect of the Air Force Active Reserve and the Air Force Specialist Reserve, or different training periods in respect of different parts, or different classes of members, of those Reserves. 
 
-Note:          Different training periods may be set for different parts of the Air Force Reserve or for different classes of members of the Air Force Reserve: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
+          (2A)  Members of the Air Force Active Reserve or the Air Force Specialist Reserve are bound to render, in each training period, air-force service, other than continuous full time air-force service, for such periods as are fixed by or in accordance with the regulations, unless exempted by or in accordance with the regulations from the obligation to render the whole or a part of that service. 
 
-          (2A)  A member of the Air Force Reserve is bound to render, in each training period, air-force service (other than continuous full time air-force service) for such periods as are set by or under the regulations. However, a member may be exempted by or under the regulations from the obligation to render all, or a specified part, of that service.
+          (2B)  The regulations:
 
-Note:          Different service may be required of different parts of the Air Force Reserve, or of different classes of members of the Air Force Reserve, or in different periods: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
+                     (a)  may make provision for different periods of air-force service with respect to different parts, or different classes of members, of the Air Force Active Reserve or the Air Force Specialist Reserve; and
 
-             (3)  A member of the Air Force Reserve may, at any time, voluntarily undertake to render continuous full time air-force service for a period specified by him and, if that undertaking is accepted, he is bound to render that form of service for that specified period, or for such period or periods within that specified period, as the Chief of Air Force directs. 
+                     (b)  may make provision for exempting:
 
-             (4)  A member of the Air Force Reserve may at any time voluntarily undertake to render air-force service, other than continuous full time air-force service, for a period or periods specified by him, and, if that undertaking is accepted, the member is bound to render air-force service in accordance with that undertaking or for such period or periods within that specified period, or within those specified periods, as the case may be, as the Chief of Air Force directs. 
+                              (i)  a particular member of the Air Force Active Reserve or the Air Force Specialist Reserve; or
+
+                             (ii)  members within a specified class of members of the Air Force Active Reserve or the Air Force Specialist Reserve;
+
+                            from the obligation to render, during a training period, the whole or part of the air-force service that he or they would otherwise be bound to render during that period. 
+
+             (3)  A member of the Australian Air Force Reserve may, at any time, voluntarily undertake to render continuous full time air-force service for a period specified by him and, if that undertaking is accepted, he is bound to render that form of service for that specified period, or for such period or periods within that specified period, as the Chief of Air Force directs. 
+
+             (4)  A member of the Australian Air Force Reserve may at any time voluntarily undertake to render air-force service, other than continuous full time air-force service, for a period or periods specified by him, and, if that undertaking is accepted, the member is bound to render air-force service in accordance with that undertaking or for such period or periods within that specified period, or within those specified periods, as the case may be, as the Chief of Air Force directs. 
+
+             (5)  Where a period is fixed, for the purposes of this subsection, by or in accordance with the regulations, in respect of a part, or a class of members, of the Air Force Active Reserve or the Air Force Specialist Reserve, a member of that Reserve included in that part or class may, in addition to rendering air-force service that he is bound to render in pursuance of subsection (2A) or (4), render voluntarily, in a training period, air-force service for a period not exceeding, or for periods not exceeding in the aggregate, the period so fixed. 
+
+             (6)  Where a kind or kinds of air-force service is or are fixed, for the purposes of this subsection, by or in accordance with the regulations in respect of a part, or a class of members, of the Air Force Active Reserve or the Air Force Specialist Reserve, being a part or class in respect of which a period is fixed for the purposes of subsection (5), that subsection does not authorize a member of that Reserve included in that part or class to render voluntarily air-force service of a kind other than a kind so fixed. 
 
 ##### <a id="8"></a>8  Air Training Corps
 
@@ -169,7 +237,7 @@ Note:          Different service may be required of different 
 
 ##### <a id="8A"></a>8A  Delegation
 
-             (1)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force all or any of his powers under section 4J. 
+             (1)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force all or any of his powers under sections 4H, 4HA and 4J. 
 
              (2)  A delegation under this section may be made either generally or as otherwise provided in the instrument of delegation. 
 
@@ -192,8 +260,6 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
 ### Note 1
 
 The _Air Force Act 1923_ as shown in this compilation comprises Act No. 33, 1923 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -606,31 +672,12 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1-6, 94, 95): 
-19 Apr 2001 <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-94, 95) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Air Force Act 1923_ was amended by sections 90-96 only of the _Defence Force_
  _Re-organization Act 1975_, section 2 of which provides as follows:
 
-                    2   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
+                   2.   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
 _(b)_    The _Defence Force Re-organization Act 1975_ was amended by section 120 only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows:
 
@@ -653,12 +700,6 @@ _(e)_     The _Air Force Act 1923_ was amended by sections 3-9 only of
 _(f)_      The _Air Force Act 1923_ was amended by Part II (sections 3, 4) only of the _Defence Legislation Amendment Act (No. 2) 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1-6) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-
- 
 
 ## Table of Amendments
 
@@ -803,14 +844,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 4B, 4C</div>
   </td>
   <td>
@@ -843,14 +876,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4D</div>
   </td>
   <td>
@@ -871,14 +896,6 @@ ad. = added or inserted      am. = amended      rep. = repea
   </td>
   <td>
     <div>am. No. 65, 1987; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -963,14 +980,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4HA</div>
   </td>
   <td>
@@ -987,22 +996,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4J</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4J</div>
   </td>
   <td>
@@ -1014,7 +1007,7 @@ ad. = added or inserted      am. = amended      rep. = repea
     <div></div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 119, 2000; No. 10, 2001</div>
+    <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 119, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1134,7 +1127,7 @@ ad. = added or inserted      am. = amended      rep. = repea
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 1987; No. 1, 1997; No. 10, 2001</div>
+    <div>am. No. 65, 1987; No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1153,29 +1146,5 @@ ad. = added or inserted      am. = amended      rep. = repea
     <div>am. No. 96, 1975; No. 153, 1982</div>
   </td>
 </tr></table>
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)_
-
-## Schedule 2
-
-## 94  Saving—old regulations
-
-(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
-
-_Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
-
-(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
-
-## 95  Regulations about transitional matters
-
-(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
-
-(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
-
-(3)        Subitem (2) does not limit the scope of subitem (1).
 
  
