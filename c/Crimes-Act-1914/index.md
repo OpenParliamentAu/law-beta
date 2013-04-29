@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00064/Html/60e1766e-f639-4571-aee1-d776a1cfd6bd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00016/Html/b9cfa167-b0b0-455a-85e7-a04ae6a87328_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 5 January 2012
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 **Volume 1**includes:  Table of Contents
 
@@ -4137,7 +4137,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00064/Html/60e1766e-f639-4571-aee1-d776a1cfd6bd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00016/Html/b9cfa167-b0b0-455a-85e7-a04ae6a87328_files/image002.gif)
 
 where:
 
@@ -4359,7 +4359,7 @@ the performance or exercise by the Official Trustee of functions, duties or powe
 
                      (b)  institute proceedings for the summary conviction of any person in respect of any offence against the law of the Commonwealth punishable on summary conviction.
 
-##### <a id="15"></a>15  Remand of defendant
+##### <a id="15"></a>15  Remand of defendant
 
                    Where a person is charged, before a court of summary jurisdiction, with an offence against the law of the Commonwealth, if, from the absence of witnesses or from any other reasonable cause, it becomes necessary or advisable to defer the hearing of the case, the court before whom the accused person appears or is brought, may:
 
@@ -5541,7 +5541,7 @@ Note:          An authority is granted under subsection 15GI(1
 
                      (b)  the person was a law enforcement participant at the time of suffering the loss, damage or injury.
 
-##### <a id="15HG"></a>15HG  Notification requirements
+##### <a id="15HG"></a>15HG  Notification requirements
 
              (1)  If:
 
@@ -7113,7 +7113,7 @@ Note 2:       The mere existence of an exception under subsection 
 
 ### Division 7—General
 
-##### <a id="15LH"></a>15LH  Delegation of chief officer’s functions
+##### <a id="15LH"></a>15LH  Delegation of chief officer’s functions
 
              (1)  Except as provided by this section (and despite any other Act or law to the contrary) the functions of a chief officer under this Part may not be delegated to any other person.
 
@@ -8223,11 +8223,9 @@ Extended meaning of **prosecutor**and **defendant**
 
              (4)  This Part has effect, in relation to a proceeding under the _Proceeds of Crime Act 2002_, as if:
 
-                     (a)  the responsible authority for the proceeding under that Act were the prosecutor; and
+                     (a)  the Director of Public Prosecutions were the prosecutor; and
 
                      (b)  each other party to the proceeding were a defendant in the proceeding.
-
-Note:          Under that Act, the responsible authority is the Commissioner of the Australian Federal Police or the Director of Public Prosecutions (see the definitions of **_responsible authority_** and **_proceeds of crime authority_** in section 338 of that Act). Responsibility can be transferred between these authorities (see section 315B of that Act).
 
 ##### <a id="15YV"></a>15YV  When court may take evidence by video link
 
@@ -11667,7 +11665,7 @@ the investigating official must offer the services of another legal practitioner
 
                      (a)  another law of the Commonwealth; or
 
-                     (b)  a provision of a law of the Australian C  apital Territory.
+                     (b)  a provision of a law of the Australian Capital Territory.
 
 ##### <a id="23U"></a>23U  Tape recording of information required to be given to person under arrest
 
@@ -11715,7 +11713,7 @@ the investigating official must offer the services of another legal practitioner
 
 ##### <a id="23W"></a>23W  Proof of belief
 
-                   In any proceedings, the burden lies on the prosecution to prove that an investigating official had a belief on reasonable grounds as to a matter referred to in this Part.
+                   In any proceedings, the burden lies on the prosecution to prove that an investigating official had a belief on reasonable grounds as to a matter referred to in this Part.
 
 ## Part ID—Forensic procedures
 
