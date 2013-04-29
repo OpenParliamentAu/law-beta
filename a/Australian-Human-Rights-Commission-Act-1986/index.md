@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00365/Html/8f6ebbc7-ca8e-42f1-9c6b-1aa4e9fa7fd6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00865/Html/AusHumanRightsComm1986_WD02_image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 9 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 December 2010
+ incorporating amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Commission may engage in consultations
 
-[16](#16).          Inter‑governmental arrangements
+[16](#16).          Inter-governmental arrangements
 
 [18](#18).          Declarations by Minister
 
@@ -216,7 +216,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46PR](#46PR).     Court not bound by technicalities
 
-[46PS](#46PS).     Report by President to court
+[46PS](#46PS).      Report by President to court
 
 [46PT](#46PT).     Assistance by Commission
 
@@ -238,7 +238,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Protection from civil actions
 
-[49](#49).          Non‑disclosure of private information
+[49](#49).          Non-disclosure of private information
 
 [49A](#49A).       Information stored otherwise than in written form
 
@@ -300,7 +300,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
-                    <a name="enact"></a><a name="australian-capit-territori"></a>**_Australian Capital Territory_****_enactment_** means an enactment of the Australian Capital Territory within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_, or an instrument made under such an enactment.
+                    <a name="enact"></a><a name="australian-capit-territori"></a>**_Australian Capital Territory_****_enactment_** means an enactment of the Australian Capital Territory within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_, or an instrument made under such an enactment.
 
                     <a name="author"></a>**_authority_** means:
 
@@ -310,7 +310,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  an incorporated company over which the Commonwealth is in a position to exercise control;
 
-                            (iii)  a person holding or performing the duties of an office or appointment established or made under a Commonwealth enactment or by the Governor‑General or a Minister of the Commonwealth (not being an office or appointment referred to in subparagraph (c)(iii));
+                            (iii)  a person holding or performing the duties of an office or appointment established or made under a Commonwealth enactment or by the Governor-General or a Minister of the Commonwealth (not being an office or appointment referred to in subparagraph (c)(iii));
 
                             (iv)  a body, or a person holding or performing the duties of an office or appointment, that is declared by the regulations to be an authority of the Commonwealth for the purposes of this Act;
 
@@ -360,8 +360,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the Declaration on the Rights of Disabled Persons proclaimed by the General Assembly of the United Nations on 9 December 1975, a copy of the English text of which is set out in Schedule 5.
 
-                    <a name="defenc-depart"></a>**_Defence Department_** means the Department of State that deals with defence and that is administered by the Minister administering section 1 of the _Defence Act 1903_.
-
                     <a name="disabl-discrimin-commission"></a>**_Disability Discrimination Commissioner_** means the Disability Discrimination Commissioner appointed under the _Disability Discrimination Act 1992_.
 
                     <a name="discrimin"></a>**_discrimination_**, except in Part IIB, means:
@@ -386,7 +384,7 @@ but does not include any distinction, exclusion or preference:
 
                     <a name="human-right"></a>**_human rights_** means the rights and freedoms recognised in the Covenant, declared by the Declarations or recognised or declared by any relevant international instrument.
 
-                    <a name="instrum"></a>**_instrument_** includes a rule, regulation or by‑law.
+                    <a name="instrum"></a>**_instrument_** includes a rule, regulation or by-law.
 
                     <a name="instrument"></a>**_instrumentality_**, in relation to a State, includes:
 
@@ -418,9 +416,9 @@ but does not include any distinction, exclusion or preference:
 
                      (a)  in relation to a State—a Minister of the Crown of that State; and
 
-                     (b)  in relation to the Australian Capital Territory or the Northern Territory—a Minister of that Territory.
+                     (b)  in relation to the Australian   Capital Territory or the Northern Territory—a Minister of that Territory.
 
-                    <a name="enact"></a><a name="northern-territori"></a>**_Northern Territory_****_enactment_** means an enactment of the Northern Territory within the meaning of the _Northern Territory__(Self‑Government) Act 1978_ or an instrument made under such an enactment.
+                    <a name="enact"></a><a name="northern-territori"></a>**_Northern Territory_****_enactment_** means an enactment of the Northern Territory within the meaning of the _Northern   Territory__(Self-Government) Act 1978_ or an instrument made under such an enactment.
 
                     <a name="practic"></a>**_practice_** means a practice engaged in:
 
@@ -464,7 +462,7 @@ but does not include any distinction, exclusion or preference:
 
                     <a name=""></a><a name="termin"></a>**_terminate_**, in relation to a complaint, means decline to inquire into the complaint, or discontinue an inquiry into the complaint.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory.
 
                     <a name="territori-act"></a>**_Territory Act_** means an Act passed by a legislature of a Territory
 
@@ -606,13 +604,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The members must act in a way that promotes the collegiate nature of the Commission.
 
-             (6)  The functions of the Commission under paragraphs 11(1)(aa), 11(1)(ab), 11(1)(f) and 31(b) and the functions of the Commission under paragraphs 11(1)(p) and 31(k), to the extent that they relate to the performance of the first‑mentioned functions, shall be performed by the President, and a reference in this Act to the Commission or to a member of the Commission shall, in relation to the performance of any of those functions, be read as a reference to the President.
+             (6)  The functions of the Commission under paragraphs 11(1)(aa), 11(1)(ab), 11(1)(f) and 31(b) and the functions of the Commission under paragraphs 11(1)(p) and 31(k), to the extent that they relate to the performance of the first-mentioned functions, shall be performed by the President, and a reference in this Act to the Commission or to a member of the Commission shall, in relation to the performance of any of those functions, be read as a reference to the President.
 
              (7)  The performance of the functions or the exercise of the powers of the Commission is not affected by reason only of a vacancy in the office of President, Human Rights Commissioner, Race Discrimination Commissioner, Aboriginal and Torres Strait Islander Social Justice Commissioner, Sex Discrimination Commissioner or Disability Discrimination Commissioner.
 
 ##### <a id="8A"></a>8A  The President
 
-             (1)  The President is to be appointed by the Governor‑General as a full‑time member or a part‑time member.
+             (1)  The President is to be appointed by the Governor-General as a full-time member or a part-time member.
 
              (2)  The President is the senior member of the Commission.
 
@@ -620,13 +618,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8B"></a>8B  The Human Rights Commissioner
 
-             (1)  The Human Rights Commissioner is to be appointed by the Governor‑General as a full‑time member.
+             (1)  The Human Rights Commissioner is to be appointed by the Governor-General as a full-time member.
 
              (2)  A person is not qualified to be appointed as the Human Rights Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
 
 ##### <a id="9"></a>9  Arrangement for appointment of the holder of a judicial office of a State
 
-             (1)  The Governor‑General may, for the purpose of appointing to the Commission a person who is the holder of a judicial office of a State, enter into such arrangement with the Governor of that State as is necessary to secure that person’s services.
+             (1)  The Governor-General may, for the purpose of appointing to the Commission a person who is the holder of a judicial office of a State, enter into such arrangement with the Governor of that State as is necessary to secure that person’s services.
 
              (2)  An arrangement under subsection (1) may provide for the Commonwealth to reimburse a State with respect to the services of the person to whom the arrangement relates.
 
@@ -664,7 +662,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     (aa)  to inquire into, and attempt to conciliate, complaints of unlawful discrimination; and
 
-                   (ab)  to deal with complaints lodged under Part IIC; and
+                    (ab)  to deal with complaints lodged under Part IIC; and
 
                      (b)  such functions as are to be performed by the Commission pursuant to an arrangement in force under section 16; and
 
@@ -682,7 +680,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (g)  to promote an understanding and acceptance, and the public discussion, of human rights in Australia; and
 
-                     (h)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting human rights, and to co‑ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth; and
+                     (h)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting human rights, and to co-ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth; and
 
                       (j)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to human rights; and
 
@@ -702,9 +700,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  regard an act or practice as being inconsistent with or contrary to any human right for the purposes of paragraph (1)(f) where the act or practice is done or engaged in solely for the purpose referred to in paragraph (a) of this subsection.
 
-             (3)  Notwithstanding paragraphs (1)(a), (d) and (f), the functions of the Commission do not include inquiring into an act or practice of an intelligence agency, and, where a complaint is made to the Commission alleging that an act or practice of such an agency is inconsistent with or contrary to any human right, constitutes discrimination, or is unlawful under the _Racial Discrimination Act 1975_, the _Sex Discrimination Act 1984_, the _Disability Discrimination Act 1992_, or the _Age Discrimination Act 2004_, the Commission shall refer the complaint to the Inspector‑General of Intelligence and Security.
+             (3)  Notwithstanding paragraphs (1)(a), (d) and (f), the functions of the Commission do not include inquiring into an act or practice of an intelligence agency, and, where a complaint is made to the Commission alleging that an act or practice of such an agency is inconsistent with or contrary to any human right, constitutes discrimination, or is unlawful under the _Racial Discrimination Act 1975_, the _Sex Discrimination Act 1984_, the _Disability Discrimination Act 1992_, or the _Age Discrimination Act 2004_, the Commission shall refer the complaint to the Inspector-General of Intelligence and Security.
 
-             (4)  A reference in subsection (3) to an intelligence agency is a reference to the Australian Secret Intelligence Service, the Australian Security Intelligence Organisation, the Office of National Assessments, that part of the Defence Department known as the Defence Signals Directorate (including any part of the Defence Force that performs functions on behalf of that part of the Department), that part of the Defence Department known as the Defence Imagery and Geospatial Organisation (including any part of the Defence Force that performs functions on behalf of that part of the Department) or that part of the Defence Department known as the Defence Intelligence Organisation.
+             (4)  A reference in subsection (3) to an intelligence agency is a reference to the Australian Secret Intelligence Service, the Australian Security Intelligence Organisation, the Office of National Assessments, that part of the Department of Defence known as the Defence Signals Directorate (including any part of the Defence Force that performs functions on behalf of that part of the Department), that part of the Department of Defence known as the Defence Imagery and Geospatial Organisation (including any part of the Defence Force that performs functions on behalf of that part of the Department) or that part of the Department of Defence known as the Defence Intelligence Organisation.
 
 ##### <a id="13"></a>13  Powers of Commission
 
@@ -742,7 +740,7 @@ is necessary to protect the security of employment, the privacy or any human rig
 
 shall not be published, or shall not be published except in such manner, and to such persons, as the Commission specifies.
 
-             (4)  Where the Commission has given a direction under subsection (3) in relation to the publication of any evidence or information or of the contents of a document, the direction does not prevent a person from communicating to another person a matter contained in the evidence, information or document if the first‑mentioned person has knowledge of the matter otherwise than by reason of the evidence or information having been given or the document having been produced to the Commission.
+             (4)  Where the Commission has given a direction under subsection (3) in relation to the publication of any evidence or information or of the contents of a document, the direction does not prevent a person from communicating to another person a matter contained in the evidence, information or document if the first-mentioned person has knowledge of the matter otherwise than by reason of the evidence or information having been given or the document having been produced to the Commission.
 
              (5)  In deciding whether or not to give a direction under subsection (3), the Commission shall have regard to the need to prevent such of the following as are relevant to the circumstances:
 
@@ -780,9 +778,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="15"></a>15  Commission may engage in consultations
 
-                   For the purposes of the performance of its functions, the Commission may work with and consult appropriate persons, governmental organisations and non‑governmental organisations.
+                   For the purposes of the performance of its functions, the Commission may work with and consult appropriate persons, governmental organisations and non-governmental organisations.
 
-##### <a id="16"></a>16  Inter‑governmental arrangements
+##### <a id="16"></a>16  Inter-governmental arrangements
 
              (1)  The Minister may make an arrangement with a Minister of a State for or in relation to:
 
@@ -882,7 +880,7 @@ to a member of the Commission other than the Human Rights Commissioner.
 
                      (a)  a complaint has been made to the Commission in relation to an act or practice; and
 
-                     (b)  because the Commission is of the opinion that the subject‑matter of the complaint could be more effectively or conveniently dealt with by the Information Commissioner in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the _Privacy Act 1988_, the Commission decides not to inquire, or not to continue to inquire, into that act or practice;
+                     (b)  because the Commission is of the opinion that the subject-matter of the complaint could be more effectively or conveniently dealt with by the Information Commissioner in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the _Privacy Act 1988_, the Commission decides not to inquire, or not to continue to inquire, into that act or practice;
 
 the Commission shall:
 
@@ -932,7 +930,7 @@ it is the duty of the Commission to take reasonable steps to provide appropriate
 
 the person shall forthwith notify that agency of the making of the requirement.
 
-             (3)  A reference in subsection (2) to an intelligence agency is a reference to the Australian Secret Intelligence Service, the Australian Security Intelligence Organisation, the Office of National Assessments, or the Defence Imagery and Geospatial Organisation, the Defence Intelligence Organisation or the Defence Signals Directorate of the Defence Department.
+             (3)  A reference in subsection (2) to an intelligence agency is a reference to the Australian Secret Intelligence Service, the Australian Security Intelligence Organisation, the Office of National Assessments, or the Defence Imagery and Geospatial Organisation, the Defence Intelligence Organisation or the Defence Signals Directorate of the Department of Defence.
 
              (4)  Where documents are produced to the Commission in accordance with a requirement under subsection (1), the Commission:
 
@@ -984,7 +982,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="24"></a>24  Disclosure of information or contents of documents
 
-             (1)  Where the Attorney‑General furnishes to the Commission a certificate certifying that the giving to the Commission, or to a person acting for or on behalf of the Commission, of information concerning a specified matter (including the giving of information in answer to a question) or the production to the Commission, or to a person acting for or on behalf of the Commission, of a specified document would be contrary to the public interest:
+             (1)  Where the Attorney-General furnishes to the Commission a certificate certifying that the giving to the Commission, or to a person acting for or on behalf of the Commission, of information concerning a specified matter (including the giving of information in answer to a question) or the production to the Commission, or to a person acting for or on behalf of the Commission, of a specified document would be contrary to the public interest:
 
                      (a)  by reason that it would prejudice the security, defence or international relations of Australia; or
 
@@ -1004,15 +1002,15 @@ Note:          A defendant bears an evidential burden in relat
 
 neither the Commission nor any other person is entitled to require a person to give any information concerning the matter or to produce the document.
 
-          (1A)  In relation to the performance of functions by the Aboriginal and Torres Strait Islander Social Justice Commissioner under Part IIA, subsection (1) (other than paragraphs (1)(a) and (b)) has effect in relation to a certificate given by the Attorney‑General of a State or Territory in the same way as it has effect in relation to a certificate given by the Attorney‑General of the Commonwealth. For the purposes of this additional effect, references to the Cabinet, a Committee of the Cabinet or the Executive Council are to be treated as references to the corresponding body or committee of the State or Territory concerned.
+          (1A)  In relation to the performance of functions by the Aboriginal and Torres Strait Islander Social Justice Commissioner under Part IIA, subsection (1) (other than paragraphs (1)(a) and (b)) has effect in relation to a certificate given by the Attorney-General of a State or Territory in the same way as it has effect in relation to a certificate given by the Attorney-General of the Commonwealth. For the purposes of this additional effect, references to the Cabinet, a Committee of the Cabinet or the Executive Council are to be treated as references to the corresponding body or committee of the State or Territory concerned.
 
-             (2)  Without limiting the operation of subsection (1), where the Attorney‑General furnishes to the Commission a certificate certifying that the giving to the Commission, or to a person acting for or on behalf of the Commission, of information as to the existence or non‑existence of information concerning a specified matter (including the giving of information in answer to a question) or as to the existence or non‑existence of any one or more documents required to be produced to the Commission, or to a person acting for or on behalf of the Commission, would be contrary to the public interest:
+             (2)  Without limiting the operation of subsection (1), where the Attorney-General furnishes to the Commission a certificate certifying that the giving to the Commission, or to a person acting for or on behalf of the Commission, of information as to the existence or non-existence of information concerning a specified matter (including the giving of information in answer to a question) or as to the existence or non-existence of any one or more documents required to be produced to the Commission, or to a person acting for or on behalf of the Commission, would be contrary to the public interest:
 
                      (a)  by reason that it would prejudice the security, defence or international relations of Australia; or
 
                      (b)  by reason that it would prejudice the proper performance of the functions of the Australian Crime Commission;
 
-neither the Commission nor a person acting for or on behalf of the Commission is entitled, pursuant to this Act, to require a person to give any information as to the existence or non‑existence of information concerning that matter or as to the existence or non‑existence of that document or those documents.
+neither the Commission nor a person acting for or on behalf of the Commission is entitled, pursuant to this Act, to require a person to give any information as to the existence or non-existence of information concerning that matter or as to the existence or non-existence of that document or those documents.
 
              (3)  Notwithstanding the provisions of any law, a person is not excused:
 
@@ -1176,7 +1174,7 @@ the Commission shall give a copy of a report setting out its findings, and the r
 
                      (c)  to promote an understanding and acceptance, and the public discussion, of equality of opportunity and treatment in employment and occupation in Australia;
 
-                     (d)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting equality of opportunity and treatment in employment and occupation, and to co‑ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth;
+                     (d)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting equality of opportunity and treatment in employment and occupation, and to co-ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth;
 
                      (e)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to equality of opportunity and treatment in employment and occupation;
 
@@ -1318,9 +1316,9 @@ the Commission shall give a copy of a report setting out its findings, and the r
 
 ##### <a id="37"></a>37  Terms and conditions of appointment
 
-             (1)  Subject to subsection (2), an appointed member holds office for such period, not exceeding 7 years, as is specified in the instrument of the member’s appointment, but is eligible for re‑appointment.
+             (1)  Subject to subsection (2), an appointed member holds office for such period, not exceeding 7 years, as is specified in the instrument of the member’s appointment, but is eligible for re-appointment.
 
-             (4)  An appointed member, other than a member who is a Judge, holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (4)  An appointed member, other than a member who is a Judge, holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="38"></a>38  Remuneration and allowances
 
@@ -1334,37 +1332,37 @@ the Commission shall give a copy of a report setting out its findings, and the r
 
 ##### <a id="39"></a>39  Leave of absence
 
-             (1)  A person appointed as a full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A person appointed as a full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-          (1A)  The Minister may grant a person appointed as a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+          (1A)  The Minister may grant a person appointed as a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-             (2)  The Minister may grant to a person appointed as a part‑time member leave of absence from a meeting of the Commission.
+             (2)  The Minister may grant to a person appointed as a part-time member leave of absence from a meeting of the Commission.
 
 ##### <a id="40"></a>40  Resignation
 
-                   An appointed member may resign from the office of member by writing signed by the member and delivered to the Governor‑General.
+                   An appointed member may resign from the office of member by writing signed by the member and delivered to the Governor-General.
 
 ##### <a id="41"></a>41  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a member by reason of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a member by reason of misbehaviour or physical or mental incapacity.
 
              (2)  If:
 
                      (a)  a member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-                     (b)  a full‑time member engages, except with the approval of the Minister, in paid employment outside the duties of the office of member;
+                     (b)  a full-time member engages, except with the approval of the Minister, in paid employment outside the duties of the office of member;
 
-                     (c)  a full‑time member is absent from duty, except on leave of absence, for 14 consecutive days, or for 28 days in any period of 12 months;
+                     (c)  a full-time member is absent from duty, except on leave of absence, for 14 consecutive days, or for 28 days in any period of 12 months;
 
-                     (d)  a part‑time member is absent, except on leave granted by the Minister in accordance with subsection 39(2), from 3 consecutive meetings of the Commission; or
+                     (d)  a part-time member is absent, except on leave granted by the Minister in accordance with subsection 39(2), from 3 consecutive meetings of the Commission; or
 
                      (e)  a member fails, without reasonable excuse, to comply with section 42;
 
-the Governor‑General shall terminate the appointment of that member.
+the Governor-General shall terminate the appointment of that member.
 
              (3)  In subsections (1) and (2), **_member_** means an appointed member but does not include a member who is a Judge.
 
-             (4)  If an appointed member who is a Judge ceases to be a Judge, the Governor‑General may terminate the appointment of the member.
+             (4)  If an appointed member who is a Judge ceases to be a Judge, the Governor-General may terminate the appointment of the member.
 
 ##### <a id="42"></a>42  Disclosure of interests
 
@@ -1396,7 +1394,7 @@ the Governor‑General shall terminate the appointment of that member.
 
              (2)  The President shall convene such meetings of the Commission as, in the President’s opinion, are necessary for the efficient performance of its functions.
 
-             (3)  At a meeting of the Commission a quorum is constituted by a number of members that is not less than one‑half of the number of members for the time being holding office under section 8.
+             (3)  At a meeting of the Commission a quorum is constituted by a number of members that is not less than one-half of the number of members for the time being holding office under section 8.
 
              (4)  The President shall preside at all meetings of the Commission at which the President is present.
 
@@ -1468,7 +1466,7 @@ the Governor‑General shall terminate the appointment of that member.
 
 ##### <a id="46B"></a>46B  Aboriginal and Torres Strait Islander Social Justice Commissioner
 
-             (1)  There is to be an Aboriginal and Torres Strait Islander Social Justice Commissioner, who is to be appointed by the Governor‑General.
+             (1)  There is to be an Aboriginal and Torres Strait Islander Social Justice Commissioner, who is to be appointed by the Governor-General.
 
              (2)  A person is not qualified to be appointed unless the Minister is satisfied that the person has significant experience in community life of Aboriginal persons or Torres Strait Islanders.
 
@@ -1510,9 +1508,9 @@ Note:          Functions are also conferred on the Commission 
 
 ##### <a id="46D"></a>46D  Terms and conditions of appointment
 
-             (1)  Subject to this Division, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (1)  Subject to this Division, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 
-             (2)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="46E"></a>46E  Remuneration
 
@@ -1534,17 +1532,17 @@ Note:          Functions are also conferred on the Commission 
 
 ##### <a id="46H"></a>46H  Resignation
 
-                   The Commissioner may resign from the office of Commissioner by writing given to the Governor‑General.
+                   The Commissioner may resign from the office of Commissioner by writing given to the Governor-General.
 
 ##### <a id="46I"></a>46I  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Commissioner because of:
+             (1)  The Governor-General may terminate the appointment of the Commissioner because of:
 
                      (a)  misbehaviour; or
 
                      (b)  a disability that makes the Commissioner incapable of performing the inherent requirements of the office.
 
-             (2)  The Governor‑General must terminate the appointment of the Commissioner if the Commissioner:
+             (2)  The Governor-General must terminate the appointment of the Commissioner if the Commissioner:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
@@ -1620,7 +1618,7 @@ the agency must comply with the requirement by producing a copy with that inform
 
                      (a)  to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by the Minister; and
 
-                     (b)  to be sent to the Attorney‑General of each State and Territory within 7 days after the report is first laid before either House of the Parliament under paragraph (a).
+                     (b)  to be sent to the Attorney-General of each State and Territory within 7 days after the report is first laid before either House of the Parliament under paragraph (a).
 
 ## Part IIB—Redress for unlawful discrimination
 
@@ -1900,7 +1898,7 @@ Note:          Part IVA of the _Federal Court of Australia A
 
                      (b)  an order requiring a respondent to perform any reasonable act or course of conduct to redress any loss or damage suffered by an applicant;
 
-                     (c)  an order requiring a respondent to employ or re‑employ an applicant; 
+                     (c)  an order requiring a respondent to employ or re-employ an applicant; 
 
                      (d)  an order requiring a respondent to pay to an applicant damages by way of compensation for any loss or damage suffered because of the conduct of the respondent;
 
@@ -1968,29 +1966,29 @@ Note:          Part IVA of the _Federal Court of Australia A
 
                      (b)  is a respondent in proceedings in the Federal Court or the Federal Magistrates Court under this Division;
 
-may apply to the Attorney‑General for the provision of assistance under this section in respect of the proceedings.
+may apply to the Attorney-General for the provision of assistance under this section in respect of the proceedings.
 
-             (2)  If a person makes an application for assistance and the Attorney‑General is satisfied that:
+             (2)  If a person makes an application for assistance and the Attorney-General is satisfied that:
 
                      (a)  it will involve hardship to that person to refuse the application; and
 
                      (b)  in all the circumstances, it is reasonable to grant the application;
 
-the Attorney‑General may authorise the provision by the Commonwealth to that person, on such conditions (if any) as the Attorney‑General determines, of such legal or financial assistance in respect of the proceedings as the Attorney‑General determines.
+the Attorney-General may authorise the provision by the Commonwealth to that person, on such conditions (if any) as the Attorney-General determines, of such legal or financial assistance in respect of the proceedings as the Attorney-General determines.
 
 ##### <a id="46PV"></a>46PV  _Amicus curiae_ function of Commission members
 
-             (1)  A special‑purpose Commissioner has the function of assisting the Federal Court and the Federal Magistrates Court, as _amicus curiae_, in the following proceedings under this Division:
+             (1)  A special-purpose Commissioner has the function of assisting the Federal Court and the Federal Magistrates Court, as _amicus curiae_, in the following proceedings under this Division:
 
-                     (a)  proceedings in which the special‑purpose Commissioner thinks that the orders sought, or likely to be sought, may affect to a significant extent the human rights of persons who are not parties to the proceedings;
+                     (a)  proceedings in which the special-purpose Commissioner thinks that the orders sought, or likely to be sought, may affect to a significant extent the human rights of persons who are not parties to the proceedings;
 
-                     (b)  proceedings that, in the opinion of the special‑purpose Commissioner, have significant implications for the administration of the relevant Act or Acts;
+                     (b)  proceedings that, in the opinion of the special-purpose Commissioner, have significant implications for the administration of the relevant Act or Acts;
 
-                     (c)  proceedings that involve special circumstances that satisfy the special‑purpose Commissioner that it would be in the public interest for the special‑purpose Commissioner to assist the court concerned as _amicus curiae_.
+                     (c)  proceedings that involve special circumstances that satisfy the special-purpose Commissioner that it would be in the public interest for the special-purpose Commissioner to assist the court concerned as _amicus curiae_.
 
              (2)  The function may only be exercised with the leave of the court concerned.
 
-             (3)  In this section, **_special‑purpose Commissioner_** means:
+             (3)  In this section, **_special-purpose Commissioner_** means:
 
                      (a)  the Aboriginal and Torres Strait Islander Social Justice Commissioner; and
 
@@ -2158,11 +2156,11 @@ to be an international instrument relating to human rights and freedoms for the 
 
 a person is not liable to an action, suit or proceeding in respect of loss, damage or injury of any kind suffered by another person by reason only that the complaint or submission was made, the document or information was furnished or the evidence was given.
 
-##### <a id="49"></a>49  Non‑disclosure of private information
+##### <a id="49"></a>49  Non-disclosure of private information
 
              (1)  A person who is, or has at any time been, a member of the Commission or a member of the staff referred to in section 43 or is acting, or has at any time acted, for or on behalf of the Commission shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first‑mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or
 
                      (b)  make use of any such information as is mentioned in paragraph (a); or
 
@@ -2172,9 +2170,9 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 
              (2)  A person who is, or has at any time been, a member of the Commission or a member of the staff referred to in section 43 or is acting, or has at any time acted, for or on behalf of the Commission shall not be required:
 
-                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first‑mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or
+                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or
 
-                     (b)  to produce in a court a document relating to the affairs of another person of which the first‑mentioned person has custody, or to which that person has access, by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission;
+                     (b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission;
 
 except where it is necessary to do so for the purposes of this Act.
 
@@ -2224,7 +2222,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="50"></a>50  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2236,17 +2234,17 @@ _Section 3_
 
 The General Conference of the International Labour Organisation, 
 
-Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Forty‑second Session on 4 June 1958, and 
+Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Forty-second Session on 4 June 1958, and 
 
 Having decided upon the adoption of certain proposals with regard to discrimination in the field of employment and occupation, which is the fourth item on the agenda of the session, and 
 
 Having determined that these proposals shall take the form of an international Convention, and 
 
-Considering that the Declaration of Philadelphia affirms that all human beings, irrespective of race, creed or sex, have the right to pursue both their material well‑being and their spiritual development in conditions of freedom and dignity, of economic security and equal opportunity, and 
+Considering that the Declaration of Philadelphia affirms that all human beings, irrespective of race, creed or sex, have the right to pursue both their material well-being and their spiritual development in conditions of freedom and dignity, of economic security and equal opportunity, and 
 
 Considering further that discrimination constitutes a violation of rights enunciated by the Universal Declaration of Human Rights,
 
-adopts this twenty‑fifth day of June of the year one thousand nine hundred and fifty‑eight the following Convention, which may be cited as the Discrimination (Employment and Occupation) Convention, 1958:
+adopts this twenty-fifth day of June of the year one thousand nine hundred and fifty-eight the following Convention, which may be cited as the Discrimination (Employment and Occupation) Convention, 1958:
 
 _Article 1_
 
@@ -2256,9 +2254,9 @@ _Article 1_
 
 (_b_)   such other distinction, exclusion or preference which has the effect of nullifying or impairing equality of opportunity or treatment in employment or occupation as may be determined by the Member concerned after consultation with representative employer’s and worker’s organisations, where such exist, and with other appropriate bodies. 
 
-2.    Any distinction, exclusion or preference in respect of a particular job based on the inherent requirements thereof shall not be deemed to be discrimination. 
+2.     Any distinction, exclusion or preference in respect of a particular job based on the inherent requirements thereof shall not be deemed to be discrimination. 
 
-3.    For the purpose of this Convention the terms “employment” and “occupation” include access to vocational training, access to employment and to particular occupations, and terms and conditions of employment. 
+3.     For the purpose of this Convention the terms “employment” and “occupation” include access to vocational training, access to employment and to particular occupations, and terms and conditions of employment. 
 
 _Article 2_
 
@@ -2268,7 +2266,7 @@ _Article 3_
 
 Each Member for which this Convention is in force undertakes, by methods appropriate to national conditions and practice— 
 
-(_a_)   to seek the co‑operation of employers’ and workers’ organisations and other appropriate bodies in promoting the acceptance and observance of this policy; 
+(_a_)   to seek the co-operation of employers’ and workers’ organisations and other appropriate bodies in promoting the acceptance and observance of this policy; 
 
 (_b_)   to enact such legislation and to promote such educational programmes as may be calculated to secure the acceptance and observance of the policy; 
 
@@ -2278,7 +2276,7 @@ Each Member for which this Convention is in force undertakes, by methods appropr
 
 (_e_)   to ensure observance of the policy in the activities of vocational guidance, vocational training and placement services under the direction of a national authority; 
 
-(_f_)    to indicate in its annual reports on the application of the Convention the action taken in pursuance of the policy and the results secured by such action. 
+(_f_)   to indicate in its annual reports on the application of the Convention the action taken in pursuance of the policy and the results secured by such action. 
 
 _Article 4_
 
@@ -2286,43 +2284,43 @@ Any measures affecting an individual who is justifiably suspected of, or engaged
 
 _Article 5_
 
-1.    Special measures of protection or assistance provided for in other Conventions or Recommendations adopted by the International Labour Conference shall not be deemed to be discrimination. 
+1.     Special measures of protection or assistance provided for in other Conventions or Recommendations adopted by the International Labour Conference shall not be deemed to be discrimination. 
 
-2.    Any Member may, after consultation with representative employers’ and workers’ organisations, where such exist, determine that other special measures designed to meet the particular requirements of persons who, for reasons such as sex, age, disablement, family responsibilities or social or cultural status, are generally recognised to require special protection or assistance, shall not be deemed to be discrimination. 
+2.     Any Member may, after consultation with representative employers’ and workers’ organisations, where such exist, determine that other special measures designed to meet the particular requirements of persons who, for reasons such as sex, age, disablement, family responsibilities or social or cultural status, are generally recognised to require special protection or assistance, shall not be deemed to be discrimination. 
 
 _Article 6_
 
-Each Member which ratifies this Convention undertakes to apply it to non‑metropolitan territories in accordance with the provisions of the Constitution of the International Labour Organisation. 
+Each Member which ratifies this Convention undertakes to apply it to non-metropolitan territories in accordance with the provisions of the Constitution of the International Labour Organisation. 
 
 _Article 7_
 
-The formal ratifications of this Convention shall be communicated to the Director‑General of the International Labour Office for registration. 
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration. 
 
 _Article 8_
 
-1.    This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director‑General. 
+1.     This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General. 
 
-2.    It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director‑General. 
+2.     It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General. 
 
-3.    Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered. 
+3.     Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered. 
 
 _Article 9_
 
-1.    A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director‑General of the International Labour Office for registration. 
+1.     A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. 
 
 Such denunciation shall not take effect until one year after the date on which it is registered. 
 
-2.    Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
+2.     Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
 _Article 10_
 
-1.    The Director‑General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation. 
+1.     The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation. 
 
-2.    When notifying the members of the Organisation of the registration of the second ratification communicated to him, the Director‑General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force. 
+2.     When notifying the members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force. 
 
 _Article 11_
 
-The Director‑General of the International Labour Office shall communicate to the Secretary‑General of the United Nations for registration in accordance with Article 102 of the Charter of the United Nations full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles. 
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with Article 102 of the Charter of the United Nations full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles. 
 
 _Article 12_
 
@@ -2330,13 +2328,13 @@ At such times as it may consider necessary the Governing Body of the Internation
 
 _Article 13_
 
-1.    Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides—
+1.     Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides—
 
 (_a_)    the ratification by a Member of the new revising Convention shall _ipso jure_ involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 9 above, if and when the new revising Convention shall have come into force; 
 
 (_b_)    as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members. 
 
-2.    This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention. 
+2.     This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention. 
 
 _Article 14_
 
@@ -2366,21 +2364,21 @@ _Agree_ upon the following articles:
 
 _Article 1_
 
-1.    All peoples have the right of self‑determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development. 
+1.     All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development. 
 
-2.    All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co‑operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence. 
+2.     All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co-operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence. 
 
-3.    The States Parties to the present Covenant, including those having responsibility for the administration of Non‑Self‑Governing and Trust Territories, shall promote the realization of the right of self‑determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations. 
+3.     The States Parties to the present Covenant, including those having responsibility for the administration of Non-Self-Governing and Trust Territories, shall promote the realization of the right of self-determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations. 
 
 **PART II**
 
 _Article 2_
 
-1.    Each State Party to the present Covenant undertakes to respect and to ensure to all individuals within its territory and subject to its jurisdiction the rights recognized in the present Covenant, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. 
+1.     Each State Party to the present Covenant undertakes to respect and to ensure to all individuals within its territory and subject to its jurisdiction the rights recognized in the present Covenant, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. 
 
-2.    Where not already provided for by existing legislative or other measures, each State Party to the present Covenant undertakes to take the necessary steps, in accordance with its constitutional processes and with the provisions of the present Covenant, to adopt such legislative or other measures as may be necessary to give effect to the rights recognized in the present Covenant. 
+2.     Where not already provided for by existing legislative or other measures, each State Party to the present Covenant undertakes to take the necessary steps, in accordance with its constitutional processes and with the provisions of the present Covenant, to adopt such legislative or other measures as may be necessary to give effect to the rights recognized in the present Covenant. 
 
-3.    Each State Party to the present Covenant undertakes: 
+3.     Each State Party to the present Covenant undertakes: 
 
 (_a_)   To ensure that any person whose rights or freedoms as herein recognized are violated shall have an effective remedy, notwithstanding that the violation has been committed by persons acting in an official capacity; 
 
@@ -2394,33 +2392,33 @@ The States Parties to the present Covenant undertake to ensure the equal right o
 
 _Article 4_
 
-1.    In time of public emergency which threatens the life of the nation and the existence of which is officially proclaimed, the States Parties to the present Covenant may take measures derogating from their obligations under the present Covenant to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with their other obligations under international law and do not involve discrimination solely on the ground of race, colour, sex, language, religion or social origin. 
+1.     In time of public emergency which threatens the life of the nation and the existence of which is officially proclaimed, the States Parties to the present Covenant may take measures derogating from their obligations under the present Covenant to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with their other obligations under international law and do not involve discrimination solely on the ground of race, colour, sex, language, religion or social origin. 
 
-2.    No derogation from articles 6, 7, 8 (paragraphs 1 and 2), 11, 15, 16 and 18 may be made under this provision. 
+2.     No derogation from articles 6, 7, 8 (paragraphs 1 and 2), 11, 15, 16 and 18 may be made under this provision. 
 
-3.    Any State Party to the present Covenant availing itself of the right of derogation shall immediately inform the other States Parties to the present Covenant, through the intermediary of the Secretary‑General of the United Nations, of the provisions from which it has derogated and of the reasons by which it was actuated. A further communication shall be made, through the same intermediary, on the date on which it terminates such derogation. 
+3.     Any State Party to the present Covenant availing itself of the right of derogation shall immediately inform the other States Parties to the present Covenant, through the intermediary of the Secretary-General of the United Nations, of the provisions from which it has derogated and of the reasons by which it was actuated. A further communication shall be made, through the same intermediary, on the date on which it terminates such derogation. 
 
 _Article 5_
 
-1.    Nothing in the present Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights and freedoms recognized herein or at their limitation to a greater extent than is provided for in the present Covenant. 
+1.     Nothing in the present Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights and freedoms recognized herein or at their limitation to a greater extent than is provided for in the present Covenant. 
 
-2.    There shall be no restriction upon or derogation from any of the fundamental human rights recognized or existing in any State Party to the present Covenant pursuant to law, conventions, regulations or custom on the pretext that the present Covenant does not recognize such rights or that it recognizes them to a lesser extent. 
+2.     There shall be no restriction upon or derogation from any of the fundamental human rights recognized or existing in any State Party to the present Covenant pursuant to law, conventions, regulations or custom on the pretext that the present Covenant does not recognize such rights or that it recognizes them to a lesser extent. 
 
 **PART III**
 
 _Article 6_
 
-1.    Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life. 
+1.     Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life. 
 
-2.    In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the time of the commission of the crime and not contrary to the provisions of the present Covenant and to the Convention on the Prevention and Punishment of the Crime of Genocide. This penalty can only be carried out pursuant to a final judgment rendered by a competent court. 
+2.     In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the time of the commission of the crime and not contrary to the provisions of the present Covenant and to the Convention on the Prevention and Punishment of the Crime of Genocide. This penalty can only be carried out pursuant to a final judgment rendered by a competent court. 
 
-3.    When deprivation of life constitutes the crime of genocide, it is understood that nothing in this article shall authorize any State Party to the present Covenant to derogate in any way from any obligation assumed under the provisions of the Convention on the Prevention and Punishment of the Crime of Genocide. 
+3.     When deprivation of life constitutes the crime of genocide, it is understood that nothing in this article shall authorize any State Party to the present Covenant to derogate in any way from any obligation assumed under the provisions of the Convention on the Prevention and Punishment of the Crime of Genocide. 
 
-4.    Anyone sentenced to death shall have the right to seek pardon or commutation of the sentence. Amnesty, pardon or commutation of the sentence of death may be granted in all cases. 
+4.     Anyone sentenced to death shall have the right to seek pardon or commutation of the sentence. Amnesty, pardon or commutation of the sentence of death may be granted in all cases. 
 
-5.    Sentence of death shall not be imposed for crimes committed by persons below eighteen years of age and shall not be carried out on pregnant women. 
+5.     Sentence of death shall not be imposed for crimes committed by persons below eighteen years of age and shall not be carried out on pregnant women. 
 
-6.    Nothing in this article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
+6.     Nothing in this article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
 
 _Article 7_
 
@@ -2428,9 +2426,9 @@ No one shall be subjected to torture or to cruel, inhuman or degrading treatment
 
 _Article 8_
 
-1.    No one shall be held in slavery; slavery and the slave‑trade in all their forms shall be prohibited. 
+1.     No one shall be held in slavery; slavery and the slave-trade in all their forms shall be prohibited. 
 
-2.    No one shall be held in servitude. 
+2.     No one shall be held in servitude. 
 
 3.  (_a_)        No one shall be required to perform forced or compulsory labour; 
 
@@ -2438,35 +2436,35 @@ _Article 8_
 
 (_c_)   For the purpose of this paragraph the term “forced or compulsory labour” shall not include: 
 
-               (i)  Any work or service, not referred to in sub‑paragraph (_b_), normally required of a person who is under detention in consequence of a lawful order of a court, or of a person during conditional release from such detention; 
+               (i)  Any work or service, not referred to in sub-paragraph (_b_), normally required of a person who is under detention in consequence of a lawful order of a court, or of a person during conditional release from such detention; 
 
-              (ii)  Any service of a military character and, in countries where conscientious objection is recognized, any national service required by law of conscientious objectors; 
+               (ii)  Any service of a military character and, in countries where conscientious objection is recognized, any national service required by law of conscientious objectors; 
 
-             (iii)  Any service exacted in cases of emergency or calamity threatening the life or well‑being of the community; 
+              (iii)  Any service exacted in cases of emergency or calamity threatening the life or well-being of the community; 
 
-             (iv)  Any work or service which forms part of normal civil obligations. 
+              (iv)  Any work or service which forms part of normal civil obligations. 
 
 _Article 9_
 
-1.    Everyone has the right to liberty and security of person. No one shall be subjected to arbitrary arrest or detention. No one shall be deprived of his liberty except on such grounds and in accordance with such procedure as are established by law. 
+1.     Everyone has the right to liberty and security of person. No one shall be subjected to arbitrary arrest or detention. No one shall be deprived of his liberty except on such grounds and in accordance with such procedure as are established by law. 
 
-2.    Anyone who is arrested shall be informed, at the time of arrest, of the reasons for his arrest and shall be promptly informed of any charges against him. 
+2.     Anyone who is arrested shall be informed, at the time of arrest, of the reasons for his arrest and shall be promptly informed of any charges against him. 
 
-3.    Anyone arrested or detained on a criminal charge shall be brought promptly before a judge or other officer authorized by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release. It shall not be the general rule that persons awaiting trial shall be detained in custody, but release may be subject to guarantees to appear for trial, at any other stage of the judicial proceedings, and, should occasion arise, for execution of the judgment. 
+3.     Anyone arrested or detained on a criminal charge shall be brought promptly before a judge or other officer authorized by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release. It shall not be the general rule that persons awaiting trial shall be detained in custody, but release may be subject to guarantees to appear for trial, at any other stage of the judicial proceedings, and, should occasion arise, for execution of the judgment. 
 
-4.    Anyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings before a court, in order that that court may decide without delay on the lawfulness of his detention and order his release if the detention is not lawful. 
+4.     Anyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings before a court, in order that that court may decide without delay on the lawfulness of his detention and order his release if the detention is not lawful. 
 
-5.    Anyone who has been the victim of unlawful arrest or detention shall have an enforceable right to compensation. 
+5.     Anyone who has been the victim of unlawful arrest or detention shall have an enforceable right to compensation. 
 
 _Article 10_
 
-1.    All persons deprived of their liberty shall be treated with humanity and with respect for the inherent dignity of the human person. 
+1.     All persons deprived of their liberty shall be treated with humanity and with respect for the inherent dignity of the human person. 
 
 2.  (_a_)        Accused persons shall, save in exceptional circumstances, be segregated from convicted persons and shall be subject to separate treatment appropriate to their status as unconvicted persons;
 
 (_b_)   Accused juvenile persons shall be separated from adults and brought as speedily as possible for adjudication. 
 
-3.    The penitentiary system shall comprise treatment of prisoners the essential aim of which shall be their reformation and social rehabilitation. Juvenile offenders shall be segregated from adults and be accorded treatment appropriate to their age and legal status. 
+3.     The penitentiary system shall comprise treatment of prisoners the essential aim of which shall be their reformation and social rehabilitation. Juvenile offenders shall be segregated from adults and be accorded treatment appropriate to their age and legal status. 
 
 _Article 11_
 
@@ -2474,13 +2472,13 @@ No one shall be imprisoned merely on the ground of inability to fulfil a contrac
 
 _Article 12_
 
-1.    Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence. 
+1.     Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence. 
 
-2.    Everyone shall be free to leave any country, including his own. 
+2.     Everyone shall be free to leave any country, including his own. 
 
-3.    The above‑mentioned rights shall not be subject to any restrictions except those which are provided by law, are necessary to protect national security, public order (_ordre public_), public health or morals or the rights and freedoms of others, and are consistent with the other rights recognized in the present Covenant. 
+3.     The above-mentioned rights shall not be subject to any restrictions except those which are provided by law, are necessary to protect national security, public order (_ordre public_), public health or morals or the rights and freedoms of others, and are consistent with the other rights recognized in the present Covenant. 
 
-4.    No one shall be arbitrarily deprived of the right to enter his own country. 
+4.     No one shall be arbitrarily deprived of the right to enter his own country. 
 
 _Article 13_
 
@@ -2488,11 +2486,11 @@ An alien lawfully in the territory of a State Party to the present Covenant may 
 
 _Article 14_
 
-1.    All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The Press and the public may be excluded from all or part of a trial for reasons of morals, public order (_ordre public_) or national security in a democratic society, or when the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes or the guardianship of children. 
+1.     All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The Press and the public may be excluded from all or part of a trial for reasons of morals, public order (_ordre public_) or national security in a democratic society, or when the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes or the guardianship of children. 
 
-2.    Everyone charged with a criminal offence shall have the right to be presumed innocent until proved guilty according to law. 
+2.     Everyone charged with a criminal offence shall have the right to be presumed innocent until proved guilty according to law. 
 
-3.    In the determination of any criminal charge against him, everyone shall be entitled to the following minimum guarantees, in full equality; 
+3.     In the determination of any criminal charge against him, everyone shall be entitled to the following minimum guarantees, in full equality; 
 
 (_a_)   To be informed promptly and in detail in a language which he understands of the nature and cause of the charge against him; 
 
@@ -2508,19 +2506,19 @@ _Article 14_
 
 (_g_)   Not to be compelled to testify against himself or to confess guilt.
 
-4.    In the case of juvenile persons, the procedure shall be such as will take account of their age and the desirability of promoting their rehabilitation. 
+4.     In the case of juvenile persons, the procedure shall be such as will take account of their age and the desirability of promoting their rehabilitation. 
 
-5.    Everyone convicted of a crime shall have the right to his conviction and sentence being reviewed by a higher tribunal according to law. 
+5.     Everyone convicted of a crime shall have the right to his conviction and sentence being reviewed by a higher tribunal according to law. 
 
-6.    When a person has by a final decision been convicted of a criminal offence and when subsequently his conviction has been reversed or he has been pardoned on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non‑disclosure of the unknown fact in time is wholly or partly attributable to him. 
+6.     When a person has by a final decision been convicted of a criminal offence and when subsequently his conviction has been reversed or he has been pardoned on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partly attributable to him. 
 
-7.    No one shall be liable to be tried or punished again for an offence for which he has already been finally convicted or acquitted in accordance with the law and penal procedure of each country. 
+7.     No one shall be liable to be tried or punished again for an offence for which he has already been finally convicted or acquitted in accordance with the law and penal procedure of each country. 
 
 _Article 15_
 
-1.    No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time when the criminal offence was committed. If, subsequent to the commission of the offence, provision is made by law for the imposition of a lighter penalty, the offender shall benefit thereby. 
+1.     No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time when the criminal offence was committed. If, subsequent to the commission of the offence, provision is made by law for the imposition of a lighter penalty, the offender shall benefit thereby. 
 
-2.    Nothing in this article shall prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognized by the community of nations. 
+2.     Nothing in this article shall prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognized by the community of nations. 
 
 _Article 16_
 
@@ -2528,27 +2526,27 @@ Everyone shall have the right to recognition everywhere as a person before the l
 
 _Article 17_
 
-1.    No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation. 
+1.     No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation. 
 
-2.    Everyone has the right to the protection of the law against such interference or attacks. 
+2.     Everyone has the right to the protection of the law against such interference or attacks. 
 
 _Article 18_
 
-1.    Everyone shall have the right to freedom of thought, conscience and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice and teaching. 
+1.     Everyone shall have the right to freedom of thought, conscience and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice and teaching. 
 
-2.    No one shall be subject to coercion which would impair his freedom to have or to adopt a religion or belief of his choice. 
+2.     No one shall be subject to coercion which would impair his freedom to have or to adopt a religion or belief of his choice. 
 
-3.    Freedom to manifest one’s religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health or morals or the fundamental rights and freedoms of others. 
+3.     Freedom to manifest one’s religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health or morals or the fundamental rights and freedoms of others. 
 
-4.    The States Parties to the present Covenant undertake to have respect for the liberty of parents and, when applicable, legal guardians to ensure the religious and moral education of their children in conformity with their own convictions. 
+4.     The States Parties to the present Covenant undertake to have respect for the liberty of parents and, when applicable, legal guardians to ensure the religious and moral education of their children in conformity with their own convictions. 
 
 _Article 19_
 
-1.    Everyone shall have the right to hold opinions without interference. 
+1.     Everyone shall have the right to hold opinions without interference. 
 
-2.    Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice. 
+2.     Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice. 
 
-3.    The exercise of the rights provided for in paragraph 2 of this article carries with it special duties and responsibilities. It may therefore be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:
+3.     The exercise of the rights provided for in paragraph 2 of this article carries with it special duties and responsibilities. It may therefore be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:
 
 (_a_)   For respect of the rights or reputations of others; 
 
@@ -2556,9 +2554,9 @@ _Article 19_
 
 _Article 20_
 
-1.    Any propaganda for war shall be prohibited by law. 
+1.     Any propaganda for war shall be prohibited by law. 
 
-2.    Any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law. 
+2.     Any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law. 
 
 _Article 21_
 
@@ -2566,29 +2564,29 @@ The right of peaceful assembly shall be recognized. No restrictions may be place
 
 _Article 22_
 
-1.    Everyone shall have the right to freedom of association with others, including the right to form and join trade unions for the protection of his interests. 
+1.     Everyone shall have the right to freedom of association with others, including the right to form and join trade unions for the protection of his interests. 
 
-2.    No restrictions may be placed on the exercise of this right other than those which are prescribed by law and which are necessary in a democratic society in the interests of national security or public safety, public order (_ordre_ _public_), the protection of public health or morals or the protection of the rights and freedoms of others. This article shall not prevent the imposition of lawful restrictions on members of the armed forces and of the police in their exercise of this right. 
+2.     No restrictions may be placed on the exercise of this right other than those which are prescribed by law and which are necessary in a democratic society in the interests of national security or public safety, public order (_ordre_ _public_), the protection of public health or morals or the protection of the rights and freedoms of others. This article shall not prevent the imposition of lawful restrictions on members of the armed forces and of the police in their exercise of this right. 
 
-3.    Nothing in this article shall authorize States Parties to the International Labour Organisation Convention of 1948 concerning Freedom of Association and Protection of the Right to Organize to take legislative measures which would prejudice, or to apply the law in such a manner as to prejudice, the guarantees provided for in that Convention. 
+3.     Nothing in this article shall authorize States Parties to the International Labour Organisation Convention of 1948 concerning Freedom of Association and Protection of the Right to Organize to take legislative measures which would prejudice, or to apply the law in such a manner as to prejudice, the guarantees provided for in that Convention. 
 
 _Article 23_
 
-1.    The family is the natural and fundamental group unit of society and is entitled to protection by society and the State. 
+1.     The family is the natural and fundamental group unit of society and is entitled to protection by society and the State. 
 
-2.    The right of men and women of marriageable age to marry and to found a family shall be recognized. 
+2.     The right of men and women of marriageable age to marry and to found a family shall be recognized. 
 
-3.    No marriage shall be entered into without the free and full consent of the intending spouses. 
+3.     No marriage shall be entered into without the free and full consent of the intending spouses. 
 
-4.    States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at its dissolution. In the case of dissolution, provision shall be made for the necessary protection of any children. 
+4.     States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at its dissolution. In the case of dissolution, provision shall be made for the necessary protection of any children. 
 
 _Article 24_
 
-1.    Every child shall have, without any discrimination as to race, colour, sex, language, religion, national or social origin, property or birth, the right to such measures of protection as are required by his status as a minor, on the part of his family, society and the State. 
+1.     Every child shall have, without any discrimination as to race, colour, sex, language, religion, national or social origin, property or birth, the right to such measures of protection as are required by his status as a minor, on the part of his family, society and the State. 
 
-2.    Every child shall be registered immediately after birth and shall have a name. 
+2.     Every child shall be registered immediately after birth and shall have a name. 
 
-3.    Every child has the right to acquire a nationality. 
+3.     Every child has the right to acquire a nationality. 
 
 _Article 25_
 
@@ -2612,55 +2610,55 @@ In those States in which ethnic, religious or linguistic minorities exist, perso
 
 _Article 28_
 
-1.    There shall be established a Human Rights Committee (hereafter referred to in the present Covenant as the Committee). It shall consist of eighteen members and shall carry out the functions hereinafter provided. 
+1.     There shall be established a Human Rights Committee (hereafter referred to in the present Covenant as the Committee). It shall consist of eighteen members and shall carry out the functions hereinafter provided. 
 
-2.    The Committee shall be composed of nationals of the States parties to the present Covenant who shall be persons of high moral character and recognized competence in the field of human rights, consideration being given to the usefulness of the participation of some persons having legal experience. 
+2.     The Committee shall be composed of nationals of the States parties to the present Covenant who shall be persons of high moral character and recognized competence in the field of human rights, consideration being given to the usefulness of the participation of some persons having legal experience. 
 
-3.    The members of the Committee shall be elected and shall serve in their personal capacity. 
+3.     The members of the Committee shall be elected and shall serve in their personal capacity. 
 
 _Article 29_
 
-1.    The members of the Committee shall be elected by secret ballot from a list of persons possessing the qualifications prescribed in article 28 and nominated for the purpose by the States Parties to the present Covenant. 
+1.     The members of the Committee shall be elected by secret ballot from a list of persons possessing the qualifications prescribed in article 28 and nominated for the purpose by the States Parties to the present Covenant. 
 
-2.    Each State Party to the present Covenant may nominate not more than two persons. These persons shall be nationals of the nominating State. 
+2.     Each State Party to the present Covenant may nominate not more than two persons. These persons shall be nationals of the nominating State. 
 
-3.    A person shall be eligible for renomination. 
+3.     A person shall be eligible for renomination. 
 
 _Article 30_
 
-1.    The initial election shall be held no later than six months after the date of the entry into force of the present Covenant. 
+1.     The initial election shall be held no later than six months after the date of the entry into force of the present Covenant. 
 
-2.    At least four months before the date of each election to the Committee, other than an election to fill a vacancy declared in accordance with article 34, the Secretary‑General of the United Nations shall address a written invitation to the States Parties to the present Covenant to submit their nominations for membership of the Committee within three months. 
+2.     At least four months before the date of each election to the Committee, other than an election to fill a vacancy declared in accordance with article 34, the Secretary-General of the United Nations shall address a written invitation to the States Parties to the present Covenant to submit their nominations for membership of the Committee within three months. 
 
-3.    The Secretary‑General of the United Nations shall prepare a list in alphabetical order of all the persons thus nominated, with an indication of the States Parties which have nominated them, and shall submit it to the States Parties to the present Covenant no later than one month before the date of each election. 
+3.     The Secretary-General of the United Nations shall prepare a list in alphabetical order of all the persons thus nominated, with an indication of the States Parties which have nominated them, and shall submit it to the States Parties to the present Covenant no later than one month before the date of each election. 
 
-4.    Elections of the members of the Committee shall be held at a meeting of the States Parties to the present Covenant convened by the Secretary‑General of the United Nations at the Headquarters of the United Nations. At that meeting, for which two thirds of the States Parties to the present covenant shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+4.     Elections of the members of the Committee shall be held at a meeting of the States Parties to the present Covenant convened by the Secretary-General of the United Nations at the Headquarters of the United Nations. At that meeting, for which two thirds of the States Parties to the present covenant shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
 _Article 31_
 
-1.    The Committee may not include more than one national of the same State. 
+1.     The Committee may not include more than one national of the same State. 
 
-2.    In the election of the Committee, consideration shall be given to equitable geographical distribution of membership and to the representation of the different forms of civilization and of the principal legal systems. 
+2.     In the election of the Committee, consideration shall be given to equitable geographical distribution of membership and to the representation of the different forms of civilization and of the principal legal systems. 
 
 _Article 32_
 
-1.    The members of the Committee shall be elected for a term of four years. They shall be eligible for re‑election if renominated. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these nine members shall be chosen by lot by the Chairman of the meeting referred to in article 30, paragraph 4\. 
+1.     The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election if renominated. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these nine members shall be chosen by lot by the Chairman of the meeting referred to in article 30, paragraph 4\. 
 
-2.    Elections at the expiry of office shall be held in accordance with the preceding articles of this part of the present Covenant. 
+2.     Elections at the expiry of office shall be held in accordance with the preceding articles of this part of the present Covenant. 
 
 _Article 33_
 
-1.    If, in the unanimous opinion of the other members, a member of the Committee has ceased to carry out his functions for any cause other than absence of a temporary character, the Chairman of the Committee shall notify the Secretary‑General of the United Nations, who shall then declare the seat of that member to be vacant. 
+1.     If, in the unanimous opinion of the other members, a member of the Committee has ceased to carry out his functions for any cause other than absence of a temporary character, the Chairman of the Committee shall notify the Secretary-General of the United Nations, who shall then declare the seat of that member to be vacant. 
 
-2.    In the event of the death or the resignation of a member of the Committee, the Chairman shall immediately notify the Secretary‑General of the United Nations, who shall declare the seat vacant from the date of death or the date on which the resignation takes effect. 
+2.     In the event of the death or the resignation of a member of the Committee, the Chairman shall immediately notify the Secretary-General of the United Nations, who shall declare the seat vacant from the date of death or the date on which the resignation takes effect. 
 
 _Article 34_
 
-1.    When a vacancy is declared in accordance with article 33 and if the term of office of the member to be replaced does not expire within six months of the declaration of the vacancy, the Secretary‑General of the United Nations shall notify each of the States Parties to the present Covenant, which may within two months submit nominations in accordance with article 29 for the purpose of filling the vacancy. 
+1.     When a vacancy is declared in accordance with article 33 and if the term of office of the member to be replaced does not expire within six months of the declaration of the vacancy, the Secretary-General of the United Nations shall notify each of the States Parties to the present Covenant, which may within two months submit nominations in accordance with article 29 for the purpose of filling the vacancy. 
 
-2.    The Secretary‑General of the United Nations shall prepare a list in alphabetical order of the persons thus nominated and shall submit it to the States Parties to the present Covenant. The election to fill the vacancy shall then take place in accordance with the relevant provisions of this part of the present Covenant. 
+2.     The Secretary-General of the United Nations shall prepare a list in alphabetical order of the persons thus nominated and shall submit it to the States Parties to the present Covenant. The election to fill the vacancy shall then take place in accordance with the relevant provisions of this part of the present Covenant. 
 
-3.    A member of the Committee elected to fill a vacancy declared in accordance with article 33 shall hold office for the remainder of the term of the member who vacated the seat on the Committee under the provisions of that article. 
+3.     A member of the Committee elected to fill a vacancy declared in accordance with article 33 shall hold office for the remainder of the term of the member who vacated the seat on the Committee under the provisions of that article. 
 
 _Article 35_
 
@@ -2668,15 +2666,15 @@ The members of the Committee shall, with the approval of the General Assembly of
 
 _Article 36_
 
-The Secretary‑General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Covenant. 
+The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Covenant. 
 
 _Article 37_
 
-1.    The Secretary‑General of the United Nations shall convene the initial meeting of the Committee at the Headquarters of the United Nations. 
+1.     The Secretary-General of the United Nations shall convene the initial meeting of the Committee at the Headquarters of the United Nations. 
 
-2.    After its initial meeting, the Committee shall meet at such times as shall be provided in its rules of procedure.
+2.     After its initial meeting, the Committee shall meet at such times as shall be provided in its rules of procedure.
 
-3.    The Committee shall normally meet at the Headquarters of the United Nations or at the United Nations Office at Geneva. 
+3.     The Committee shall normally meet at the Headquarters of the United Nations or at the United Nations Office at Geneva. 
 
 _Article 38_
 
@@ -2684,9 +2682,9 @@ Every member of the Committee shall, before taking up his duties, make a solemn 
 
 _Article 39_
 
-1.    The Committee shall elect its officers for a term of two years. They may be re‑elected. 
+1.     The Committee shall elect its officers for a term of two years. They may be re-elected. 
 
-2.    The Committee shall establish its own rules of procedure, but these rules shall provide, _inter alia_, that: 
+2.     The Committee shall establish its own rules of procedure, but these rules shall provide, _inter alia_, that: 
 
 (_a_)   Twelve members shall constitute a quorum; 
 
@@ -2694,23 +2692,23 @@ _Article 39_
 
 _Article 40_
 
-1.    The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights: 
+1.     The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights: 
 
 (_a_)   Within one year of the entry into force of the present Covenant for the States Parties concerned; 
 
 (_b_)   Thereafter whenever the Committee so requests. 
 
-2.    All reports shall be submitted to the Secretary‑General of the United Nations, who shall transmit them to the Committee for consideration. Reports shall indicate the factors and difficulties, if any, affecting the implementation of the present Covenant. 
+2.     All reports shall be submitted to the Secretary-General of the United Nations, who shall transmit them to the Committee for consideration. Reports shall indicate the factors and difficulties, if any, affecting the implementation of the present Covenant. 
 
-3.    The Secretary‑General of the United Nations may, after consultation with the Committee, transmit to the specialized agencies concerned copies of such parts of the reports as may fall within their field of competence. 
+3.     The Secretary-General of the United Nations may, after consultation with the Committee, transmit to the specialized agencies concerned copies of such parts of the reports as may fall within their field of competence. 
 
-4.    The Committee shall study the reports submitted by the States Parties to the present Covenant. It shall transmit its reports, and such general comments as it may consider appropriate, to the States Parties. The Committee may also transmit to the Economic and Social Council these comments along with the copies of the reports it has received from States Parties to the present Covenant. 
+4.     The Committee shall study the reports submitted by the States Parties to the present Covenant. It shall transmit its reports, and such general comments as it may consider appropriate, to the States Parties. The Committee may also transmit to the Economic and Social Council these comments along with the copies of the reports it has received from States Parties to the present Covenant. 
 
-5.    The States Parties to the present Covenant may submit to the Committee observations on any comments that may be made in accordance with paragraph 4 of this article. 
+5.     The States Parties to the present Covenant may submit to the Committee observations on any comments that may be made in accordance with paragraph 4 of this article. 
 
 _Article 41_
 
-1.    A State Party to the present Covenant may at any time declare under this article that it recognizes the competence of the Committee to receive and consider communications to the effect that a State Party claims that another State Party is not fulfilling its obligations under the present Covenant. Communications under this article may be received and considered only if submitted by a State Party which has made a declaration recognizing in regard to itself the competence of the Committee. No communications shall be received by the Committee if it concerns a State Party which has not made such a declaration. Communications received under this article shall be dealt with in accordance with the following procedure: 
+1.     A State Party to the present Covenant may at any time declare under this article that it recognizes the competence of the Committee to receive and consider communications to the effect that a State Party claims that another State Party is not fulfilling its obligations under the present Covenant. Communications under this article may be received and considered only if submitted by a State Party which has made a declaration recognizing in regard to itself the competence of the Committee. No communications shall be received by the Committee if it concerns a State Party which has not made such a declaration. Communications received under this article shall be dealt with in accordance with the following procedure: 
 
 (_a_)   If a State Party to the present Covenant considers that another State Party is not giving effect to the provisions of the present Covenant, it may, by written communication, bring the matter to the attention of that State Party. Within three months after the receipt of the communication, the receiving State shall afford the State which sent the communication an explanation or any other statement in writing clarifying the matter which should include, to the extent possible and pertinent, reference to domestic procedures and remedies taken, pending, or available in the matter. 
 
@@ -2720,55 +2718,55 @@ _Article 41_
 
 (_d_)   The Committee shall hold closed meetings when examining communications under this article. 
 
-(_e_)   Subject to the provisions of sub‑paragraph (_c_), the Committee shall make available its good offices to the States Parties concerned with a view to a friendly solution of the matter on the basis of respect for human rights and fundamental freedoms as recognized in the present Covenant. 
+(_e_)   Subject to the provisions of sub-paragraph (_c_), the Committee shall make available its good offices to the States Parties concerned with a view to a friendly solution of the matter on the basis of respect for human rights and fundamental freedoms as recognized in the present Covenant. 
 
-(_f_)    In any matter referred to it, the Committee may call upon the States Parties concerned, referred to in sub‑paragraph (_b_), to supply any relevant information. 
+(_f_)    In any matter referred to it, the Committee may call upon the States Parties concerned, referred to in sub-paragraph (_b_), to supply any relevant information. 
 
-(_g_)   The States Parties concerned, referred to in sub‑paragraph (_b_), shall have the right to be represented when the matter is being considered in the Committee and to make submissions orally and/or in writing. 
+(_g_)   The States Parties concerned, referred to in sub-paragraph (_b_), shall have the right to be represented when the matter is being considered in the Committee and to make submissions orally and/or in writing. 
 
-(_h_)   The Committee shall, within twelve months after the date of receipt of notice under sub‑paragraph (_b_), submit a report:
+(_h_)   The Committee shall, within twelve months after the date of receipt of notice under sub-paragraph (_b_), submit a report:
 
-(i)    If a solution within the terms of sub‑paragraph (_e_) is reached, the Committee shall confine its report to a brief statement of the facts and of the solution reached;
+(i)    If a solution within the terms of sub-paragraph (_e_) is reached, the Committee shall confine its report to a brief statement of the facts and of the solution reached;
 
-(ii)   If a solution within the terms of sub‑paragraph (_e_) is not reached, the Committee shall confine its report to a brief statement of the facts; the written submissions and record of the oral submissions made by the States Parties concerned shall be attached to the report. 
+(ii)   If a solution within the terms of sub-paragraph (_e_) is not reached, the Committee shall confine its report to a brief statement of the facts; the written submissions and record of the oral submissions made by the States Parties concerned shall be attached to the report. 
 
 In every matter, the report shall be communicated to the States Parties concerned. 
 
-2.    The provisions of this article shall come into force when ten States Parties to the present Covenant have made declarations under paragraph 1 of this article. 
+2.     The provisions of this article shall come into force when ten States Parties to the present Covenant have made declarations under paragraph 1 of this article. 
 
-Such declarations shall be deposited by the States Parties with the Secretary‑General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary‑General. Such a withdrawal shall not prejudice the consideration of any matter which is the subject of a communication already transmitted under this article; no further communication by any State Party shall be received after the notification of withdrawal of the declaration has been received by the Secretary‑General, unless the State Party concerned has made a new declaration. 
+Such declarations shall be deposited by the States Parties with the Secretary-General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary-General. Such a withdrawal shall not prejudice the consideration of any matter which is the subject of a communication already transmitted under this article; no further communication by any State Party shall be received after the notification of withdrawal of the declaration has been received by the Secretary-General, unless the State Party concerned has made a new declaration. 
 
 _Article 42_
 
 1.  (_a_)   If a matter referred to the Committee in accordance with article 41 is not resolved to the satisfaction of the States Parties concerned, the Committee may, with the prior consent of the States Parties concerned, appoint an _ad hoc_ Conciliation Commission (hereinafter referred to as the Commission). The good offices of the Commission shall be made available to the States Parties concerned with a view to an amicable solution of the matter on the basis of respect for the present Covenant; 
 
-(_b_)   The Commission shall consist of five persons acceptable to the States Parties concerned. If the States Parties concerned fail to reach agreement within three months on all or part of the composition of the Commission the members of the Commission concerning whom no agreement has been reached shall be elected by secret ballot by a two‑thirds majority vote of the Committee from among its members. 
+(_b_)   The Commission shall consist of five persons acceptable to the States Parties concerned. If the States Parties concerned fail to reach agreement within three months on all or part of the composition of the Commission the members of the Commission concerning whom no agreement has been reached shall be elected by secret ballot by a two-thirds majority vote of the Committee from among its members. 
 
-2.    The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States Parties concerned, or of a State not party to the present Covenant, or of a State Party which has not made a declaration under article 41\. 
+2.     The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States Parties concerned, or of a State not party to the present Covenant, or of a State Party which has not made a declaration under article 41\. 
 
-3.    The Commission shall elect its own Chairman and adopt its own rules of procedure.
+3.     The Commission shall elect its own Chairman and adopt its own rules of procedure.
 
-4.    The meetings of the Commission shall normally be held at the Headquarters of the United Nations or at the United Nations Office at Geneva. However, they may be held at such other convenient places as the Commission may determine in consultation with the Secretary‑General of the United Nations and the States Parties concerned. 
+4.     The meetings of the Commission shall normally be held at the Headquarters of the United Nations or at the United Nations Office at Geneva. However, they may be held at such other convenient places as the Commission may determine in consultation with the Secretary-General of the United Nations and the States Parties concerned. 
 
-5.    The secretariat provided in accordance with article 36 shall also service the commissions appointed under this article. 
+5.     The secretariat provided in accordance with article 36 shall also service the commissions appointed under this article. 
 
-6.    The information received and collated by the Committee shall be made available to the Commission and the Commission may call upon the States Parties concerned to supply any other relevant information. 
+6.     The information received and collated by the Committee shall be made available to the Commission and the Commission may call upon the States Parties concerned to supply any other relevant information. 
 
-7.    When the Commission has fully considered the matter, but in any event not later than twelve months after having been seized of the matter, it shall submit to the Chairman of the Committee a report for communication to the States Parties concerned. 
+7.     When the Commission has fully considered the matter, but in any event not later than twelve months after having been seized of the matter, it shall submit to the Chairman of the Committee a report for communication to the States Parties concerned. 
 
 (_a_)   If the Commission is unable to complete its consideration of the matter within twelve months, it shall confine its report to a brief statement of the status of its consideration of the matter; 
 
 (_b_)   If an amicable solution to the matter on the basis of respect for human rights as recognized in the present Covenant is reached, the Commission shall confine its report to a brief statement of the facts and of the solution reached. 
 
-(_c_)   If a solution within the terms of sub‑paragraph (_b_) is not reached, the Commission’s report shall embody its findings on all questions of fact relevant to the issues between the States Parties concerned, and its views on the possibilities of an amicable solution of the matter. This report shall also contain the written submissions and a record of the oral submissions made by the States Parties concerned. 
+(_c_)   If a solution within the terms of sub-paragraph (_b_) is not reached, the Commission’s report shall embody its findings on all questions of fact relevant to the issues between the States Parties concerned, and its views on the possibilities of an amicable solution of the matter. This report shall also contain the written submissions and a record of the oral submissions made by the States Parties concerned. 
 
-(_d_)   If the Commission’s report is submitted under sub‑paragraph (_c_), the States Parties concerned shall, within three months of the receipt of the report, notify the Chairman of the Committee whether or not they accept the contents of the report of the Commission. 
+(_d_)   If the Commission’s report is submitted under sub-paragraph (_c_), the States Parties concerned shall, within three months of the receipt of the report, notify the Chairman of the Committee whether or not they accept the contents of the report of the Commission. 
 
-8.    The provisions of this article are without prejudice to the responsibilities of the Committee under article 41\. 
+8.     The provisions of this article are without prejudice to the responsibilities of the Committee under article 41\. 
 
-9.    The States Parties concerned shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary‑General of the United Nations. 
+9.     The States Parties concerned shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary-General of the United Nations. 
 
-10.   The Secretary‑General of the United Nations shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States Parties concerned, in accordance with paragraph 9 of this article. 
+10.    The Secretary-General of the United Nations shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States Parties concerned, in accordance with paragraph 9 of this article. 
 
 _Article 43_
 
@@ -2796,21 +2794,21 @@ Nothing in the present Covenant shall be interpreted as impairing the inherent r
 
 _Article 48_
 
-1.    The present Covenant is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a party to the present Covenant. 
+1.     The present Covenant is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a party to the present Covenant. 
 
-2.    The present Covenant is subject to ratification. Instruments of ratification shall be deposited with the Secretary‑General of the United Nations. 
+2.     The present Covenant is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations. 
 
-3.    The present Covenant shall be open to accession by any State referred to in paragraph 1 of this article. 
+3.     The present Covenant shall be open to accession by any State referred to in paragraph 1 of this article. 
 
-4.    Accession shall be effected by the deposit of an instrument of accession with the Secretary‑General of the United Nations. 
+4.     Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations. 
 
-5.    The Secretary‑General of the United Nations shall inform all States which have signed this Covenant or acceded to it of the deposit of each instrument of ratification or accession. 
+5.     The Secretary-General of the United Nations shall inform all States which have signed this Covenant or acceded to it of the deposit of each instrument of ratification or accession. 
 
 _Article 49_
 
-1.    The present Covenant shall enter into force three months after the date of the deposit with the Secretary‑General of the United Nations of the thirty‑fifth instrument of ratification or instrument of accession. 
+1.     The present Covenant shall enter into force three months after the date of the deposit with the Secretary-General of the United Nations of the thirty-fifth instrument of ratification or instrument of accession. 
 
-2.    For each State ratifying the present Covenant or acceding to it after the deposit of the thirty‑fifth instrument of ratification or instrument of accession, the present Covenant shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession. 
+2.     For each State ratifying the present Covenant or acceding to it after the deposit of the thirty-fifth instrument of ratification or instrument of accession, the present Covenant shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession. 
 
 _Article 50_
 
@@ -2818,15 +2816,15 @@ The provisions of the present Covenant shall extend to all parts of federal Stat
 
 _Article 51_
 
-1.    Any State Party to the present Covenant may propose an amendment and file it with the Secretary‑General of the United Nations. The Secretary‑General of the United Nations shall thereupon communicate any proposed amendments to the States Parties to the present Covenant with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that at least one third of the States Parties favours such a conference, the Secretary‑General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+1.     Any State Party to the present Covenant may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General of the United Nations shall thereupon communicate any proposed amendments to the States Parties to the present Covenant with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that at least one third of the States Parties favours such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
 
-2.    Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two‑thirds majority of the States Parties to the present Covenant in accordance with their respective constitutional processes. 
+2.     Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Covenant in accordance with their respective constitutional processes. 
 
-3.    When amendments come into force, they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Covenant and any earlier amendment which they have accepted. 
+3.     When amendments come into force, they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Covenant and any earlier amendment which they have accepted. 
 
 Article 52 
 
-Irrespective of the notifications made under article 48, paragraph 5, the Secretary‑General of the United Nations shall inform all States referred to in paragraph 1 of the same article of the following particulars: 
+Irrespective of the notifications made under article 48, paragraph 5, the Secretary-General of the United Nations shall inform all States referred to in paragraph 1 of the same article of the following particulars: 
 
 (_a_)   Signatures, ratifications and accessions under article 48; 
 
@@ -2834,11 +2832,11 @@ Irrespective of the notifications made under article 48, paragraph 5, the Secret
 
 Article 53 
 
-1.    The present Covenant, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations. 
+1.     The present Covenant, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations. 
 
-2.    The Secretary‑General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in article 48\. 
+2.     The Secretary-General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in article 48\. 
 
-IN FAITH WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed the present Covenant, opened for signature at New York, on the nineteenth day of December, one thousand nine hundred and sixty‑six. 
+IN FAITH WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed the present Covenant, opened for signature at New York, on the nineteenth day of December, one thousand nine hundred and sixty-six. 
 
 # Schedule 3—Declaration of the Rights of the Child
 
@@ -2874,7 +2872,7 @@ The child shall be entitled from his birth to a name and a nationality.
 
 _Principle 4_
 
-The child shall enjoy the benefits of social security. He shall be entitled to grow and develop in health; to this end, special care and protection shall be provided both to him and to his mother, including adequate pre‑natal and post‑natal care. The child shall have the right to adequate nutrition, housing, recreation and medical services. 
+The child shall enjoy the benefits of social security. He shall be entitled to grow and develop in health; to this end, special care and protection shall be provided both to him and to his mother, including adequate pre-natal and post-natal care. The child shall have the right to adequate nutrition, housing, recreation and medical services. 
 
 _Principle 5_
 
@@ -2914,7 +2912,7 @@ _Section 3_
 
 _The General Assembly,_
 
-_Mindful_ of the pledge of the States Members of the United Nations under the Charter to take joint and separate action in co‑operation with the Organization to promote higher standards of living, full employment and conditions of economic and social progress and development, 
+_Mindful_ of the pledge of the States Members of the United Nations under the Charter to take joint and separate action in co-operation with the Organization to promote higher standards of living, full employment and conditions of economic and social progress and development, 
 
 _Reaffirming_ faith in human rights and fundamental freedoms and in the principles of peace, of the dignity and worth of the human person and of social justice proclaimed in the Charter, 
 
@@ -2928,19 +2926,19 @@ _Aware_ that certain countries, at their present stage of development, can devot
 
 _Proclaims_ this Declaration on the Rights of Mentally Retarded Persons and calls for national and international action to ensure that it will be used as a common basis and frame of reference for the protection of these rights: 
 
-1.    The mentally retarded person has, to the maximum degree of feasibility, the same rights as other human beings. 
+1.     The mentally retarded person has, to the maximum degree of feasibility, the same rights as other human beings. 
 
-2.    The mentally retarded person has a right to proper medical care and physical therapy and to such education, training, rehabilitation and guidance as will enable him to develop his ability and maximum potential. 
+2.     The mentally retarded person has a right to proper medical care and physical therapy and to such education, training, rehabilitation and guidance as will enable him to develop his ability and maximum potential. 
 
-3.    The mentally retarded person has a right to economic security and to a decent standard of living. He has a right to perform productive work or to engage in any other meaningful occupation to the fullest possible extent of his capabilities. 
+3.     The mentally retarded person has a right to economic security and to a decent standard of living. He has a right to perform productive work or to engage in any other meaningful occupation to the fullest possible extent of his capabilities. 
 
-4.    Whenever possible, the mentally retarded person should live with his own family or with foster parents and participate in different forms of community life. The family with which he lives should receive assistance. If care in an institution becomes necessary, it should be provided in surroundings and other circumstances as close as possible to those of normal life.
+4.     Whenever possible, the mentally retarded person should live with his own family or with foster parents and participate in different forms of community life. The family with which he lives should receive assistance. If care in an institution becomes necessary, it should be provided in surroundings and other circumstances as close as possible to those of normal life.
 
-5.    The mentally retarded person has a right to a qualified guardian when this is required to protect his personal well‑being and interests. 
+5.     The mentally retarded person has a right to a qualified guardian when this is required to protect his personal well-being and interests. 
 
-6.    The mentally retarded person has a right to protection from exploitation, abuse and degrading treatment. If prosecuted for any offence, he shall have a right to due process of law with full recognition being given to his degree of mental responsibility. 
+6.     The mentally retarded person has a right to protection from exploitation, abuse and degrading treatment. If prosecuted for any offence, he shall have a right to due process of law with full recognition being given to his degree of mental responsibility. 
 
-7.    Whenever mentally retarded persons are unable, because of the severity of their handicap, to exercise all their rights in a meaningful way or it should become necessary to restrict or deny some or all of these rights, the procedure used for that restriction or denial of rights must contain proper legal safeguards against every form of abuse. This procedure must be based on an evaluation of the social capability of the mentally retarded person by qualified experts and must be subject to periodic review and to the right of appeal to higher authorities. 
+7.     Whenever mentally retarded persons are unable, because of the severity of their handicap, to exercise all their rights in a meaningful way or it should become necessary to restrict or deny some or all of these rights, the procedure used for that restriction or denial of rights must contain proper legal safeguards against every form of abuse. This procedure must be based on an evaluation of the social capability of the mentally retarded person by qualified experts and must be subject to periodic review and to the right of appeal to higher authorities. 
 
  
 
@@ -2950,7 +2948,7 @@ _Section 3_
 
 _The General Assembly,_
 
-_Mindful_ of the pledge made by Member States, under the Charter of the United Nations; to take joint and separate action in co‑operation with the Organization to promote higher standards of living, full employment and conditions of economic and social progress and development, 
+_Mindful_ of the pledge made by Member States, under the Charter of the United Nations; to take joint and separate action in co-operation with the Organization to promote higher standards of living, full employment and conditions of economic and social progress and development, 
 
 _Reaffirming_ its faith in human rights and fundamental freedoms and in the principles of peace, of the dignity and worth of the human person and of social justice proclaimed in the Charter, 
 
@@ -2966,31 +2964,31 @@ _Aware_ that certain countries, at their present stage of development, can devot
 
 _Proclaims_ this Declaration on the Rights of Disabled Persons and calls for national and international action to ensure that it will be used as a common basis and frame of reference for the protection of these rights: 
 
-1.    The term “disabled person” means any person unable to ensure by himself or herself, wholly or partly, the necessities of a normal individual and/or social life, as a result of deficiency, either congenital or not, in his or her physical or mental capabilities. 
+1.     The term “disabled person” means any person unable to ensure by himself or herself, wholly or partly, the necessities of a normal individual and/or social life, as a result of deficiency, either congenital or not, in his or her physical or mental capabilities. 
 
-2.    Disabled persons shall enjoy all the rights set forth in this Declaration. These rights shall be granted to all disabled persons without any exception whatsoever and without distinction or discrimination on the basis of race, colour, sex, language, religion, political or other opinions, national or social origin, state of wealth, birth or any other situation applying either to the disabled person himself or herself or to his or her family.
+2.     Disabled persons shall enjoy all the rights set forth in this Declaration. These rights shall be granted to all disabled persons without any exception whatsoever and without distinction or discrimination on the basis of race, colour, sex, language, religion, political or other opinions, national or social origin, state of wealth, birth or any other situation applying either to the disabled person himself or herself or to his or her family.
 
-3.    Disabled persons have the inherent right to respect for their human dignity. Disabled persons, whatever the origin, nature and seriousness of their handicaps and disabilities, have the same fundamental rights as their fellow‑citizens of the same age, which implies first and foremost the right to enjoy a decent life, as normal and full as possible. 
+3.     Disabled persons have the inherent right to respect for their human dignity. Disabled persons, whatever the origin, nature and seriousness of their handicaps and disabilities, have the same fundamental rights as their fellow-citizens of the same age, which implies first and foremost the right to enjoy a decent life, as normal and full as possible. 
 
-4.    Disabled persons have the same civil and political rights as other human beings; paragraph 7 of the Declaration on the Rights of Mentally Retarded Persons applies to any possible limitation or suppression of those rights for mentally disabled persons. 
+4.     Disabled persons have the same civil and political rights as other human beings; paragraph 7 of the Declaration on the Rights of Mentally Retarded Persons applies to any possible limitation or suppression of those rights for mentally disabled persons. 
 
-5.    Disabled persons are entitled to the measures designed to enable them to become as self‑reliant as possible. 
+5.     Disabled persons are entitled to the measures designed to enable them to become as self-reliant as possible. 
 
-6.    Disabled persons have the right to medical, psychological and functional treatment, including prosthetic and orthetic appliances, to medical and social rehabilitation, education, vocational training and rehabilitation, aid, counselling, placement services and other services which will enable them to develop their capabilities and skills to the maximum and will hasten the process of their social integration or reintegration. 
+6.     Disabled persons have the right to medical, psychological and functional treatment, including prosthetic and orthetic appliances, to medical and social rehabilitation, education, vocational training and rehabilitation, aid, counselling, placement services and other services which will enable them to develop their capabilities and skills to the maximum and will hasten the process of their social integration or reintegration. 
 
-7.    Disabled persons have the right to economic and social security and to a decent level of living. They have the right, according to their capabilities, to secure and retain employment or to engage in a useful, productive and remunerative occupation and to join trade unions. 
+7.     Disabled persons have the right to economic and social security and to a decent level of living. They have the right, according to their capabilities, to secure and retain employment or to engage in a useful, productive and remunerative occupation and to join trade unions. 
 
-8.    Disabled persons are entitled to have their special needs taken into consideration at all stages of economic and social planning. 
+8.     Disabled persons are entitled to have their special needs taken into consideration at all stages of economic and social planning. 
 
-9.    Disabled persons have the right to live with their families or with foster parents and to participate in all social, creative or recreational activities. No disabled person shall be subjected, as far as his or her residence is concerned, to differential treatment other than that required by his or her condition or by the improvement which he or she may derive therefrom. If the stay of a disabled person in a specialized establishment is indispensable, the environment and living conditions therein shall be as close as possible to those of the normal life of a person of his or her age. 
+9.     Disabled persons have the right to live with their families or with foster parents and to participate in all social, creative or recreational activities. No disabled person shall be subjected, as far as his or her residence is concerned, to differential treatment other than that required by his or her condition or by the improvement which he or she may derive therefrom. If the stay of a disabled person in a specialized establishment is indispensable, the environment and living conditions therein shall be as close as possible to those of the normal life of a person of his or her age. 
 
-10.  Disabled persons shall be protected against all exploitation, all regulations and all treatment of a discriminatory, abusive or degrading nature. 
+10.   Disabled persons shall be protected against all exploitation, all regulations and all treatment of a discriminatory, abusive or degrading nature. 
 
-11.  Disabled persons shall be able to avail themselves of qualified legal aid when such aid proves indispensable for the protection of their persons and property. If judicial proceedings are instituted against them, the legal procedure applied shall take their physical and mental condition fully into account. 
+11.   Disabled persons shall be able to avail themselves of qualified legal aid when such aid proves indispensable for the protection of their persons and property. If judicial proceedings are instituted against them, the legal procedure applied shall take their physical and mental condition fully into account. 
 
-12.  Organizations of disabled persons may be usefully consulted in all matters regarding the rights of disabled persons. 
+12.   Organizations of disabled persons may be usefully consulted in all matters regarding the rights of disabled persons. 
 
-13.  Disabled persons, their families and communities shall be fully informed, by all appropriate means, of the rights contained in this Declaration. 
+13.   Disabled persons, their families and communities shall be fully informed, by all appropriate means, of the rights contained in this Declaration. 
 
 # Notes to the _Australian Human Rights Commission Act 1986_
 
@@ -3757,26 +3755,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 7–9): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3788,9 +3766,9 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Australian Human Rights Commission Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(17) of which provides as follows:
 
-               (17)   The amendment of the _Human Rights and Equal Opportunity Commission Act 1986_ made by this Act shall be deemed to have come into operation on the commencement of the _Inspector‑General of Intelligence and Security Act 1986_.
+               (17)   The amendment of the _Human Rights and Equal Opportunity Commission Act 1986_ made by this Act shall be deemed to have come into operation on the commencement of the _Inspector-General of Intelligence and Security Act 1986_.
 
-_(b)_     The _Australian Human Rights Commission Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Human Rights Commission Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -4055,7 +4033,7 @@ _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -4074,7 +4052,7 @@ _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -4198,7 +4176,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010; No. 5, 2011</div>
+    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4334,7 +4312,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 75, 1990; No. 132, 1992; Nos. 133 and 161, 1999; No. 40, 2004; No. 128, 2005; No. 70, 2009; No. 5, 2011</div>
+    <div>am. No. 141, 1987; No. 75, 1990; No. 132, 1992; Nos. 133 and 161, 1999; No. 40, 2004; No. 128, 2005; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4414,7 +4392,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 75, 1990; No. 128, 2005; No. 5, 2011</div>
+    <div>am. No. 75, 1990; No. 128, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4675,7 +4653,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 </tr>
 <tr>
   <td>
-    <div>Note to s. 46C(1)...............</div>
+    <div>Note to s. 46C(1).................</div>
   </td>
   <td>
     <div>ad. No. 70, 2009</div>
@@ -4859,7 +4837,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part IIB</div>
+    <div>Heading to Div. 2 of Part IIB.</div>
   </td>
   <td>
     <div>rs. No. 194, 1999</div>
@@ -5178,7 +5156,7 @@ _Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
 
 ### Division 1—Interpretation
 
-##### <a id="4"></a>4  Interpretation
+##### <a id="4"></a>4  Interpretation
 
                    In this Part:
 
@@ -5424,7 +5402,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="21"></a>21  Regulations 
 
-             (1)  The Governor‑General may make regulations prescribing matters: 
+             (1)  The Governor-General may make regulations prescribing matters: 
 
                      (a)  required or permitted by this Act to be prescribed; or 
 
@@ -5442,9 +5420,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -5454,9 +5432,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -5464,9 +5442,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -5506,9 +5484,9 @@ The amendment of subsection 46PO(2) of the _Human Rights and Equal Opportunity C
 
 ## 158  Application
 
-(1)       Subsection 47(2) of the _Human Rights and Equal Opportunity Commission Act 1986_, as amended by this Part, applies to declarations made after the commencement of this Part.
+(1)        Subsection 47(2) of the _Human Rights and Equal Opportunity Commission Act 1986_, as amended by this Part, applies to declarations made after the commencement of this Part.
 
-(2)       Subsection 47(3) of the _Human Rights and Equal Opportunity Commission Act 1986_, as amended by this Part, applies to declarations made before, on or after the commencement of this Part.
+(2)        Subsection 47(3) of the _Human Rights and Equal Opportunity Commission Act 1986_, as amended by this Part, applies to declarations made before, on or after the commencement of this Part.
 
 * * *
 
