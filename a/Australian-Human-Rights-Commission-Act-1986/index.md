@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00585/Html/effbf8f7-a66d-4002-a3f2-26f27d601bee_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00072/Html/3de101e3-fe74-4b01-b09d-8d706612481f_files/image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 7 August 2012
- taking into account amendments up to Act No. 89 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -171,44 +171,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [46L](#46L).        Commissioner must give information to the Commission
 
 [46M](#46M).      Minister must table etc  report of Commissioner
-
-**Part IIAA—National Children’s Commissioner** 
-
-    **Division 1—Establishment and functions**
-
-[46MA](#46MA).   National Children’s Commissioner
-
-[46MB](#46MB).    Functions of Commission that are to be performed by National Children’s Commissioner
-
-    **Division 2—Apppointment**
-
-[46MC](#46MC).    Appointment of National Children’s Commissioner
-
-[46MD](#46MD).   Period of appointment
-
-[46ME](#46ME).    Acting appointment
-
-    **Division 3—Terms and conditions**
-
-[46MF](#46MF).    Remuneration and allowances
-
-[46MG](#46MG).   Leave of absence
-
-[46MH](#46MH).   Outside employment
-
-[46MI](#46MI).     Resignation
-
-[46MJ](#46MJ).     Termination of appointment
-
-[46MK](#46MK).    Other terms and conditions
-
-    **Division 4—Miscellaneous**
-
-[46ML](#46ML).    National Children’s Commissioner may obtain information from Commonwealth government agencies
-
-[46MM](#46MM).   National Children’s Commissioner must give information to the Commission
-
-[46MN](#46MN).   Minister must table reports of National Children’s Commissioner
 
 **Part IIB—Redress for unlawful discrimination** 
 
@@ -376,8 +338,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iv)  a body, or a person holding or performing the duties of an office or appointment, that is declared by the regulations to be an authority of the Territory for the purposes of this Act.
 
-                    <a name="children"></a>**_children_** means people under the age of 18.
-
                     <a name="class-member"></a>**_class member_**, in relation to a representative complaint, means any of the persons on whose behalf the complaint was lodged, but does not include a person who has withdrawn under section 46PC.
 
                     <a name="commiss"></a>**_Commission_** means the Australian Human Rights Commission established by this Act.
@@ -462,8 +422,6 @@ but does not include any distinction, exclusion or preference:
 
                      (b)  in relation to the Australian Capital Territory or the Northern Territory—a Minister of that Territory.
 
-                    <a name="nation-children-commission"></a>**_National Children’s Commissioner_** means the National Children’s Commissioner referred to in section 46MA.
-
                     <a name="enact"></a><a name="northern-territori"></a>**_Northern Territory_****_enactment_** means an enactment of the Northern Territory within the meaning of the _Northern Territory__(Self‑Government) Act 1978_ or an instrument made under such an enactment.
 
                     <a name="practic"></a>**_practice_** means a practice engaged in:
@@ -508,7 +466,7 @@ but does not include any distinction, exclusion or preference:
 
                     <a name=""></a><a name="termin"></a>**_terminate_**, in relation to a complaint, means decline to inquire into the complaint, or discontinue an inquiry into the complaint.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian C  apital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
 
                     <a name="territori-act"></a>**_Territory Act_** means an Act passed by a legislature of a Territory
 
@@ -648,15 +606,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (e)  the Age Discrimination Commissioner; and
 
-                      (f)  the Disability Discrimination Commissioner; and
-
-                     (g)  the National Children’s Commissioner.
+                      (f)  the Disability Discrimination Commissioner.
 
              (2)  The members must act in a way that promotes the collegiate nature of the Commission.
 
              (6)  The functions of the Commission under paragraphs 11(1)(aa), 11(1)(ab), 11(1)(f) and 31(b) and the functions of the Commission under paragraphs 11(1)(p) and 31(k), to the extent that they relate to the performance of the first‑mentioned functions, shall be performed by the President, and a reference in this Act to the Commission or to a member of the Commission shall, in relation to the performance of any of those functions, be read as a reference to the President.
 
-             (7)  The performance of the functions or the exercise of the powers of the Commission is not affected by reason only of a vacancy in the office of President, Human Rights Commissioner, Race Discrimination Commissioner, Aboriginal and Torres Strait Islander Social Justice Commissioner, Sex Discrimination Commissioner, Age Discrimination Commissioner, Disability Discrimination Commissioner or National Children’s Commissioner.
+             (7)  The performance of the functions or the exercise of the powers of the Commission is not affected by reason only of a vacancy in the office of President, Human Rights Commissioner, Race Discrimination Commissioner, Aboriginal and Torres Strait Islander Social Justice Commissioner, Sex Discrimination Commissioner, Age Discrimination Commissioner or Disability Discrimination Commissioner.
 
 ##### <a id="8A"></a>8A  The President
 
@@ -1656,202 +1612,6 @@ the agency must comply with the requirement by producing a copy with that inform
 
                      (b)  to be sent to the Attorney‑General of each State and Territory within 7 days after the report is first laid before either House of the Parliament under paragraph (a).
 
-## Part IIAA—National Children’s Commissioner
-
-### Division 1—Establishment and functions
-
-##### <a id="46MA"></a>46MA  National Children’s Commissioner
-
-                   There is to be a National Children’s Commissioner.
-
-##### <a id="46MB"></a>46MB  Functions of Commission that are to be performed by National Children’s Commissioner
-
-             (1)  The following functions are conferred on the Commission:
-
-                     (a)  to submit a report to the Minister that complies with subsection (3) as soon as practicable after 30 June in each year;
-
-                     (b)  to promote discussion and awareness of matters relating to the human rights of children in Australia;
-
-                     (c)  to undertake research, or educational or other programs, for the purpose of promoting respect for the human rights of children in Australia, and promoting the enjoyment and exercise of human rights by children in Australia;
-
-                     (d)  to examine existing and proposed Commonwealth enactments for the purpose of ascertaining whether they recognise and protect the human rights of children in Australia, and to report to the Minister the results of any such examination.
-
-             (2)  The functions of the Commission under this section are to be performed by the National Children’s Commissioner on behalf of the Commission.
-
-             (3)  A report under paragraph (1)(a):
-
-                     (a)  must deal with such matters, relating to the enjoyment and exercise of human rights by children in Australia, as the National Children’s Commissioner considers appropriate; and
-
-                     (b)  may include recommendations that the Commissioner considers appropriate as to the action that should be taken to ensure the enjoyment and exercise of human rights by children in Australia.
-
-             (4)  In performing functions under this section, the National Children’s Commissioner may give particular attention to children who are at risk or vulnerable.
-
-             (5)  In performing functions under this section, the National Children’s Commissioner may consult any of the following:
-
-                     (a)  children;
-
-                     (b)  Departments and authorities of the Commonwealth, and of the States and Territories;
-
-                     (c)  non‑governmental organisations;
-
-                     (d)  international organisations and agencies;
-
-                     (e)  such other organisations, agencies or persons as the Commissioner considers appropriate.
-
-             (6)  In performing functions under this section, the National Children’s Commissioner must, as appropriate, have regard to:
-
-                     (a)  the Universal Declaration of Human Rights (United Nations General Assembly Resolution A/RES/217(III) A (1948); and
-
-                     (b)  the following, as amended and in force for Australia from time to time:
-
-                              (i)  the International Convention on the Elimination of all Forms of Racial Discrimination done at New York on 21 December 1965 (\[1975] ATS 40);
-
-                             (ii)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 (\[1976] ATS 5);
-
-                            (iii)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 (\[1980] ATS 23);
-
-                            (iv)  the Convention on the Elimination of All Forms of Discrimination Against Women done at New York on 18 December 1979 (\[1983] ATS 9);
-
-                             (v)  the Convention on the Rights of the Child done at New York on 20 November 1989 (\[1991] ATS 4);
-
-                            (vi)  the Convention on the Rights of Persons with Disabilities done at New York on 13 December 2006 (\[2008] ATS 12); and
-
-                     (c)  such other instruments relating to human rights as the Commissioner considers relevant.
-
-Note 1:       In 2012, the text of the Universal Declaration of Human Rights was accessible through the United Nations website (www.un.org).
-
-Note 2:       In 2012, the text of an international agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-### Division 2—Apppointment
-
-##### <a id="46MC"></a>46MC  Appointment of National Children’s Commissioner
-
-             (1)  The National Children’s Commissioner is to be appointed by the Governor‑General by written instrument, on a full‑time basis.
-
-             (2)  A person must not be appointed as the National Children’s Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
-
-##### <a id="46MD"></a>46MD  Period of appointment
-
-                   The National Children’s Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 7 years.
-
-Note:          For re‑appointment, see section 33AA of the _Acts Interpretation Act 1901_.
-
-##### <a id="46ME"></a>46ME  Acting appointment
-
-                   The Minister may, by written instrument, appoint a person to act as the National Children’s Commissioner:
-
-                     (a)  during a vacancy in the office of the Commissioner (whether or not an appointment has previously been made to the office); or
-
-                     (b)  during any period, or during all periods, when the Commissioner:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the office.
-
-Note:          See also sections 20, 33AB and 33A of the _Acts Interpretation Act 1901_.
-
-### Division 3—Terms and conditions
-
-##### <a id="46MF"></a>46MF  Remuneration and allowances
-
-             (1)  The National Children’s Commissioner is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
-
-             (2)  The National Children’s Commissioner is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="46MG"></a>46MG  Leave of absence
-
-             (1)  The National Children’s Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (2)  The Minister may grant the National Children’s Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
-
-##### <a id="46MH"></a>46MH  Outside employment
-
-                   The National Children’s Commissioner must not engage in paid employment outside the duties of his or her office without the approval of the Minister.
-
-##### <a id="46MI"></a>46MI  Resignation
-
-             (1)  The National Children’s Commissioner may resign his or her appointment by giving the Governor‑General a written resignation.
-
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
-
-##### <a id="46MJ"></a>46MJ  Termination of appointment
-
-                   The Governor‑General may terminate the appointment of the National Children’s Commissioner:
-
-                     (a)  for misbehaviour; or
-
-                     (b)  if the Commissioner is unable to perform the duties of his or her office because of physical or mental incapacity; or
-
-                     (c)  if the Commissioner:
-
-                              (i)  becomes bankrupt; or
-
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of remuneration for the benefit of his or her creditors; or
-
-                     (d)  if the Commissioner is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
-
-                     (e)  if the Commissioner engages in paid employment contrary to section 46MH.
-
-##### <a id="46MK"></a>46MK  Other terms and conditions
-
-                   The National Children’s Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
-
-### Division 4—Miscellaneous
-
-##### <a id="46ML"></a>46ML  National Children’s Commissioner may obtain information from Commonwealth government agencies
-
-             (1)  If the National Children’s Commissioner has reason to believe that a Commonwealth government agency has information or a document relevant to the performance by the Commissioner of functions under this Part, the Commissioner may give a written notice to the agency requiring the agency:
-
-                     (a)  to give the information to the Commissioner in writing signed by or on behalf of the agency; or
-
-                     (b)  to produce the document to the Commissioner.
-
-             (2)  The notice must state:
-
-                     (a)  the place at which the information or document is to be given or produced; and
-
-                     (b)  the time at which, or period within which, the information or document is to be given or produced.
-
-             (3)  The time or period stated under paragraph (2)(b) must be reasonable.
-
-             (4)  A Commonwealth government agency must not, in response to a requirement under this section:
-
-                     (a)  give information in a manner that would reveal the identity of a particular individual; or
-
-                     (b)  produce a document that reveals the identity of a particular individual;
-
-unless the individual has consented to the giving of the information or the production of the document.
-
-             (5)  If:
-
-                     (a)  subsection (4) would prevent a Commonwealth government agency from complying with a requirement under this section to produce a document; and
-
-                     (b)  the agency is able to provide a copy of the document that has had deleted from it the information that would reveal the identity of the individual concerned;
-
-the agency must comply with the requirement by producing a copy with that information deleted.
-
-             (6)  In this section:
-
-                    <a name="commonwealth-govern-agenc"></a>**_Commonwealth government agency_** means:
-
-                     (a)  a Department or authority of the Commonwealth; or
-
-                     (b)  a person who performs the functions of, or performs functions within, a Department or authority of the Commonwealth.
-
-##### <a id="46MM"></a>46MM  National Children’s Commissioner must give information to the Commission
-
-                   The National Children’s Commissioner must give to the Commission such information as the Commission from time to time requires relating to the operations of the Commissioner under this Part.
-
-##### <a id="46MN"></a>46MN  Minister must table reports of National Children’s Commissioner
-
-                   The Minister must cause a copy of each report received by the Minister under this Part to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by the Minister.
-
 ## Part IIB—Redress for unlawful discrimination
 
 ### Division 1—Conciliation by the President
@@ -2232,9 +1992,7 @@ the Attorney‑General may authorise the provision by the Commonwealth to that p
 
                      (e)  the Sex Discrimination Commissioner; and
 
-                      (f)  the Age Discrimination Commissioner; and
-
-                     (g)  the National Children’s Commissioner.
+                      (f)  the Age Discrimination Commissioner.
 
 ## Part IIC—Referral of discriminatory awards and determinations to other bodies
 
@@ -2446,7 +2204,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    If information is recorded or stored by means of a mechanical, electronic or other device, any duty imposed by this Act to produce the document recording that information is to be construed as a duty to provide a document containing a clear reproduction in writing of the information.
 
-##### <a id="49B"></a>49B  Jurisdiction of Federal Court and Federal Magistrates Court
+##### <a id="49B"></a>49B  Jurisdiction of Federal Court and Federal Magistrates Court
 
                    The Federal Court and the Federal Magistrates Court have concurrent jurisdiction with respect to civil matters arising under Part IIB or IIC.
 
@@ -4044,27 +3802,6 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Australian Human Rights Commission Amendment (National Children’s Commissioner) Act 2012</div>
-  </td>
-  <td>
-    <div>89, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2012 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7, 8) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4484,7 +4221,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010; Nos. 5 and 40, 2011; No. 89, 2012</div>
+    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010; Nos. 5 and 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4556,7 +4293,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; Nos. 132 and 180, 1992; No. 59, 1995; No. 133, 1999; No. 2, 2000; No. 40, 2011; No. 89, 2012</div>
+    <div>am. No. 119, 1988; Nos. 132 and 180, 1992; No. 59, 1995; No. 133, 1999; No. 2, 2000; No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5057,166 +4794,6 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 </tr>
 <tr>
   <td>
-    <div><b>Part IIAA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIAA</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MA</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MB</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MC</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MD</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46ME</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MF</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MG</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MH</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MI</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MJ</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MK</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46ML</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MM</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46MN</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part IIB</b></div>
   </td>
   <td>
@@ -5492,7 +5069,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>am. No. 194, 1999; No. 40, 2011; No. 89, 2012</div>
+    <div>am. No. 194, 1999; No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6029,23 +5606,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Australian Human Rights Commission Amendment (National Children’s Commissioner) Act 2012 (No. 89, 2012)_
-
-## Schedule 1
-
-## 7  First report of the National Children’s Commissioner
-
-The first report under paragraph 46MB(1)(a) of the _Australian Human Rights Commission Act 1986_ (as amended by this Act) is to be submitted to the Minister as soon as practicable after 30 June 2013.
-
-## 8  Application of amendment made by item 6
-
-The amendment made by item 6 applies in relation to proceedings:
-
-                     (a)  that commence on or after the commencement of that item; or
-
-                     (b)  that commenced before the commencement of that item, and that had not been completed by that commencement.
 
  
