@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00619/Html/0bc1cb5a-3a4a-46a2-8e4e-820969b7c9b1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00316/Html/fa69189d-b7ee-4b76-bbd9-fb6fb4b22a6b_files/image001.gif)
 
 # Paid Parental Leave Act 2010
 
 **Act No. 104 of 2010 as amended**
 
-This compilation was prepared on 31 July 2012
- taking into account amendments up to Act No. 109 of 2012
+This compilation was prepared on 21 March 2012
+ taking into account amendments up to Act No. 52 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -135,8 +135,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [35](#35).          When a person performs _paid work_
 
 [36](#36).          When there is a _permissible break_
-
-[36A](#36A).       Premature birth or pregnancy‑related complications or illness
 
     **Division 4—The income test** 
 
@@ -577,8 +575,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 8—Miscellaneous**
 
 [201](#201).        Overseas application of debts
-
-[201A](#201A).     Debts arising from civil penalty orders
 
 **Chapter 5—Review of decisions** 
 
@@ -1434,19 +1430,11 @@ and, without limiting paragraphs (a), (b) and (c), includes a police reservist
 
                     <a name="verifi"></a>**_verifies_** a child’s birth: see section 18.
 
-                    <a name="vocat-placem"></a>**_vocational placement_** means a placement that is:
-
-                     (a)  undertaken with an employer for which a person is not entitled to be paid any remuneration; and
-
-                     (b)  undertaken as a requirement of an education or training course; and
-
-                     (c)  authorised under a law or an administrative arrangement of the Commonwealth, a State or a Territory.
-
                     <a name="week-dai"></a>**_week day_** means a day that is not a Saturday or a Sunday.
 
                     <a name="work-dai"></a>**_working day_** means a day that is not a Saturday, a Sunday or a public holiday.
 
-                    <a name="work-test"></a>**_work test_**: see Division 3 of Part 2‑3.
+                    <a name="work-test"></a>**_work test_**: see section 32.
 
                     <a name="work-test-period"></a>**_work test period_**: see section 33.
 
@@ -1972,7 +1960,7 @@ bonus.</li>
 
 There are other eligibility criteria that apply for more unusual cases—see subsection 31(3) (which deals with when a child is stillborn or dies) and subsection 31(4) (which allows the PPL rules to prescribe eligibility criteria).
 
-Division 3 has the work test. To satisfy the work test, a person must have performed enough paid work or taken enough paid leave in a particular period before the day the child was born (for a primary claimant) or the day the person became the child’s primary carer (for a secondary claimant). Special rules apply in the case of premature birth or complications or illness related to the pregnancy.
+Division 3 has the work test. To satisfy the work test, a person must have performed enough paid work or taken enough paid leave in a particular period before the day the child was born (for a primary claimant) or the day the person became the child’s primary carer (for a secondary claimant).
 
 Division 4 has the income test. To satisfy the income test, the person’s income for a particular income year must not be more than the PPL income limit (which is $150,000 until 30 June 2014 and then indexed).
 
@@ -1992,7 +1980,7 @@ Division 7 sets out when a person returns to work after the birth of a child. 
 
              (2)  First, a person is **_eligible_** for parental leave pay for a child on a day if, on that day:
 
-                     (a)  the person satisfies the work test (see Division 3); and
+                     (a)  the person satisfies the work test (see Division 3) or subsection (4A) applies to the person; and
 
                      (b)  the person satisfies the income test (see Division 4); and
 
@@ -2020,7 +2008,7 @@ Division 7 sets out when a person returns to work after the birth of a child. 
 
                      (a)  if the person is the primary claimant:
 
-                              (i)  the person satisfies the work test (see Division 3); and
+                              (i)  the person satisfies the work test (see Division 3) or subsection (4A) applies to the person; and
 
                              (ii)  the person satisfies the income test (see Division 4); and
 
@@ -2029,6 +2017,20 @@ Division 7 sets out when a person returns to work after the birth of a child. 
                             (iv)  the person satisfies the conditions prescribed by the PPL rules; and
 
                      (b)  if the person is a secondary claimant or tertiary claimant—the person satisfies the conditions prescribed by the PPL rules.
+
+          (4A)  This subsection applies to a person if:
+
+                     (a)  the person does not satisfy the work test in relation to a child; and
+
+                     (b)  the person is the birth mother of the child; and
+
+                     (c)  the Secretary is satisfied that either or both of the following subparagraphs apply:
+
+                              (i)  the child was born prematurely;
+
+                             (ii)  while the person was pregnant with the child, the person had complications or illness related to the pregnancy which prevented the person from performing paid work; and
+
+                     (d)  the Secretary is satisfied that the person would have satisfied the work test if either or both of the subparagraphs in paragraph (c) had not applied.
 
              (5)  Despite subsections (2), (3) and (4), a person is not **_eligible_** for parental leave pay for a child on a day if, on that day, the person is deceased.
 
@@ -2061,14 +2063,6 @@ Step 4.   Work out whether there is a period (a **_qualifying period_**) of 
 Step 5.   If the person has performed at least 330 hours of qualifying work in a qualifying period, the person satisfies the **_work test_**.
 
 * * *
-
-Note:          A person may also satisfy the work test despite not satisfying the test in step 5, if:
-
-(a)    the child was born prematurely; or
-
-(b)    while the person was pregnant with the child, the person had complications or illness related to the pregnancy which prevented the person from performing paid work.
-
-                   See section 36A.
 
 ##### <a id="33"></a>33  The _work test period_
 
@@ -2143,20 +2137,6 @@ Permissible break at the start of the work test period
                      (c)  the later qualifying work day was no more than 56 consecutive days after the earlier qualifying work day;
 
 then the day or period of consecutive days on which the person did not perform qualifying work between the first day in the work test period and the later qualifying work day (including the first day of the work test period) is a **_permissible break_**.
-
-##### <a id="36A"></a>36A  Premature birth or pregnancy‑related complications or illness
-
-                   A person also satisfies the **_work test_** on a day if:
-
-                     (a)  the person is the birth mother of the child; and
-
-                     (b)  the Secretary is satisfied that either or both of the following circumstances existed:
-
-                              (i)  the child was born prematurely;
-
-                             (ii)  while the person was pregnant with the child, the person had complications or illness related to the pregnancy which prevented the person from performing paid work; and
-
-                     (c)  the Secretary is satisfied that the person would have satisfied the work test on the day in accordance with section 32 if that circumstance, or those circumstances, had not existed.
 
 ### Division 4—The income test
 
@@ -2240,7 +2220,7 @@ Step 4.   Use section 44 to round off the provisional indexed amount: the 
 
              (1)  The **_indexation factor_** is worked out using the following formula and applying subsections (2) and (3):
 
-![](http://www.comlaw.gov.au/Details/C2012C00619/Html/0bc1cb5a-3a4a-46a2-8e4e-820969b7c9b1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00316/Html/fa69189d-b7ee-4b76-bbd9-fb6fb4b22a6b_files/image002.gif)
 
 where:
 
@@ -2376,19 +2356,7 @@ then, despite section 45, the person does not satisfy the **_Australian reside
 
                      (b)  both the person and the entity consent to the person performing work for the entity on that day; and
 
-                     (c)  the day is not within:
-
-                              (i)  if the person suggested or requested that he or she perform work for the entity on that day—14 days after the day the child was born; or
-
-                             (ii)  otherwise—42 days after the day the child was born.
-
-Note 1:       Performance of work on keeping in touch days is also dealt with, for the purposes of unpaid parental leave, in section 79A of the _Fair Work Act 2009_.
-
-Note 2:       The employer will be obliged, under the relevant contract of employment or industrial instrument, to pay the employee for performing work on a keeping in touch day.
-
-Note 3:       Section 344 of the _Fair Work Act 2009_ prohibits the exertion of undue influence or undue pressure on the person in relation to a decision by the person whether to consent to performing work on keeping in touch days: see subsection 79A(3) of that Act.
-
-Note 4:       That section, and section 343 of that Act, contain other prohibitions on coercion and undue influence or pressure.
+                     (c)  the day is not within 14 days after the day the child was born.
 
 ## Part 2‑4—Claims for parental leave pay
 
@@ -2944,13 +2912,9 @@ Note:          This subsection is a civil penalty provision (s
 
                      (b)  if paragraph (1)(e) applies—not more than 30 days before the day the employer ceased, or is likely to cease, to carry on the business; and
 
-                     (c)  in the manner set out in a written notice given to the employer under subsection (2B).
+                     (c)  in writing.
 
 Note:          This subsection is a civil penalty provision (see section 146).
-
-          (2A)  The Secretary must approve a manner of notification that an employer must use when notifying the Secretary of an event under this section.
-
-          (2B)  The Secretary must, by written notice, notify the employer of the approved manner of notification.
 
 When obligation to notify of certain events ceases
 
@@ -3466,9 +3430,7 @@ Employer may confirm bank account information in election
 
                      (c)  any information prescribed by the PPL rules.
 
-          (2A)  The notice given to the employer must also be dated. The date of the notice must be the date the preparation of the notice was completed.
-
-             (3)  The employer must give the notice to the Secretary within 14 days of the date of the notice given by the Secretary.
+             (3)  The employer must give the notice within 14 days of the date of the notice given by the Secretary.
 
 Note:          This subsection is a civil penalty provision (see section 146).
 
@@ -4043,9 +4005,9 @@ Note:          Information disclosed under this section must a
 
              (1)  A person commits an offence if:
 
-                     (a)  the person solicits the disclosure of information from an officer or another person; and
+                     (a)  the person solicits the disclosure of protected information from an officer or another person; and
 
-                     (b)  the disclosure would be in contravention of this Division; and
+                     (b)  the disclosure would be in contravention of this Subdivision; and
 
                      (c)  the information is protected information.
 
@@ -5027,7 +4989,7 @@ Interest not payable on debts incurred because of Commonwealth administrative er
 
              (7)  A person is not liable under this section to pay interest on a debt, or the proportion of a debt, that was incurred because of an administrative error made by the Commonwealth or an agent of the Commonwealth.
 
-##### <a id="176"></a>176  Interest on debts—application
+##### <a id="176"></a>176  Interest on debts—application
 
                    An amount of interest payable on a debt under section 175 that has been paid on the debt is to be applied as follows:
 
@@ -5443,7 +5405,7 @@ Working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00619/Html/0bc1cb5a-3a4a-46a2-8e4e-820969b7c9b1_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00316/Html/fa69189d-b7ee-4b76-bbd9-fb6fb4b22a6b_files/image003.gif)
 
 where:
 
@@ -5494,10 +5456,6 @@ where:
                      (b)  all persons, irrespective of their nationality or citizenship.
 
 Note:          Section 171 provides for debts under the _Data‑matching Program (Assistance and Tax) Act 1990_.
-
-##### <a id="201A"></a>201A  Debts arising from civil penalty orders
-
-                   This Part does not apply to a debt arising from a civil penalty order.
 
 # Chapter 5—Review of decisions
 
@@ -5814,8 +5772,6 @@ Division 3 allows employers to apply for SSAT review of employer determination
                             (iv)  section 56;
 
                              (v)  subsection 61(2);
-
-                           (va)  subsection 82(2A);
 
                             (vi)  paragraph 109(2)(a);
 
@@ -6651,8 +6607,6 @@ Notice of further review right
 
              (6)  When the SSAT determines a review in relation to an SSAT reviewable claimant decision, the Principal Member must give each party to the review (other than a PPL agency representative) a written notice that includes a statement to the effect that, if the party is dissatisfied with the decision of the SSAT, application may, subject to the AAT Act, be made to the AAT for review of the decision.
 
-             (7)  A failure to comply with subsection (6) in relation to a decision of the SSAT does not affect the validity of the decision.
-
 ### Division 10—Correction of errors in decisions or statements of reasons
 
 ##### <a id="258"></a>258  Correction of errors in decisions or statements of reasons
@@ -6785,7 +6739,7 @@ Division 3 modifies the AAT Act for the purposes of reviews of decisions made 
 
 the applicant may, instead of proceeding with the application under subsection (1) or (2), withdraw the application.
 
-##### <a id="263"></a>263  Settlement of proceedings before the AAT
+##### <a id="263"></a>263  Settlement of proceedings before the AAT
 
              (1)  The Secretary may agree with other parties to proceedings before the AAT that relate to the recovery of a debt that the proceedings be settled. The agreement must be in writing.
 
@@ -6991,19 +6945,13 @@ Note:          Section 31 deals with eligibility for parenta
 
 ##### <a id="278"></a>278  How this Act applies to Commonwealth employment
 
-             (1)  This Act applies in relation to a person who is engaged by or on behalf of the Commonwealth as an employee, to perform functions in a Commonwealth agency as if:
+                   This Act applies in relation to a person who is engaged by or on behalf of the Commonwealth as an employee, to perform functions in a Commonwealth agency as if:
 
                      (a)  the employee were employed by the agency (rather than the Commonwealth) for whom the person is to perform functions; and
 
                      (b)  the agency were a body corporate; and
 
                      (c)  the head of the agency (however described) has all the rights, duties and powers of an employer in relation to the employee.
-
-             (2)  However, for the purposes of working out for the purposes of paragraph 101(1)(c) (which deals with when the Secretary must make an employer determination) whether the person has, or will have, been employed by the Commonwealth agency for at least 12 months:
-
-                     (a)  treat the reference in that paragraph to the employer as being a reference to the Commonwealth; and
-
-                     (b)  disregard subsection (1) of this section.
 
 ## Part 6‑2—Nominees
 
@@ -7029,7 +6977,7 @@ Divisions 3, 4 and 5 deal with the consequences of such an appointment.
 
                      (a)  appoint a person (including a body corporate) to be the payment nominee of another person for the purposes of this Act; and
 
-                     (b)  direct that the whole or a specified part of an instalment payable by the Secretary to the nominee’s principal under Part 3‑3 be paid to the nominee.
+                     (b)  direct that the whole or a specified part of an instalment payable to the nominee’s principal be paid to the nominee.
 
 Note:          The Secretary must make the appointment in accordance with section 282.
 
@@ -7413,8 +7361,6 @@ Division 4 deals with other miscellaneous matters (such as delegations and reg
 
 ##### <a id="303"></a>303  Delegation
 
-General powers
-
              (1)  The Secretary may, in writing, delegate all or any of his or her powers under this Act (other than Divisions 3 and 5 of Part 4‑2 and paragraph 128(1)(b) (which deal with civil penalty orders, infringement notices and disclosing information to Agency Heads)) to:
 
                      (a)  an officer; or
@@ -7425,13 +7371,11 @@ General powers
 
                              (ii)  another authority of the Commonwealth; or
 
-                            (iii)  an organisation that performs services for the Commonwealth.
+                            (iii)  an organisation that performs services for the Commonwealth;
 
-          (1A)  Paragraphs (1)(a) and (b) do not apply to the Chief Executive Centrelink, Chief Executive Medicare or an APS employee in the Human Services Department.
+                            but not including the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department _._
 
              (2)  The Secretary may, in writing, delegate all or any of his or her powers under this Act (other than Divisions 3 and 5 of Part 4‑2 and paragraph 128(1)(b) (which deal with civil penalty orders, infringement notices and disclosing information to Agency Heads)) to the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department.
-
-Powers under Division 3 or 5 of Part 4‑2
 
              (3)  The Secretary may, in writing, delegate the Secretary’s powers under Division 3 or 5 of Part 4‑2 (which deal with civil penalty orders and infringement notices) to:
 
@@ -7441,25 +7385,11 @@ Powers under Division 3 or 5 of Part 4‑2
 
                      (b)  an SES employee or an acting SES employee.
 
-          (3A)  If the Secretary delegates any of his or her powers under Division 3 or 5 of Part 4‑2 to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any provision in the _Human Services (Centrelink) Act 1997_, delegate the power to a Departmental employee (within the meaning of that Act) who is neither:
-
-                     (a)  an SES employee; nor
-
-                     (b)  an acting SES employee.
-
-          (3B)  If the Secretary delegates any of his or her powers under Division 3 or 5 of Part 4‑2 to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any provision in the _Human Services (Medicare) Act 1973_, delegate the power to a Departmental employee (within the meaning of that Act) who is neither:
-
-                     (a)  an SES employee; nor
-
-                     (b)  an acting SES employee.
-
-Power under paragraph 128(1)(b)
-
              (4)  The Secretary cannot delegate to anyone except the Chief Executive Centrelink or the Chief Executive Medicare the Secretary’s power under paragraph 128(1)(b) to disclose information to an Agency Head (within the meaning of the _Public Service Act 1999_).
 
-             (5)  If the Secretary delegates his or her power under paragraph 128(1)(b) to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any provision in the _Human Services (Centrelink) Act 1997_, delegate that power to a Departmental employee (within the meaning of that Act).
+             (5)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any other provision in the _Human Services (Centrelink) Act 1997_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
 
-             (6)  If the Secretary delegates his or her power under paragraph 128(1)(b) to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any provision in the _Human Services (Medicare) Act 1973_, delegate that power to a Departmental employee (within the meaning of that Act).
+             (6)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any other provision in the _Human Services (Medicare) Act 1973_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
 
 ##### <a id="304"></a>304  Decisions to be in writing
 
@@ -7601,7 +7531,7 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (item 131): 19 Apr 2011</div>
+    <div>Schedule 6 (item 131): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -7618,7 +7548,7 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 468–505): 1 July 2011</div>
+    <div>Schedule 4 (items 468–505): 1 July 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -7635,10 +7565,10 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 901) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 901) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -7652,46 +7582,10 @@ of Assent</div>
     <div>28 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3–5): 30 June 2011</div>
+    <div>Schedule 2 (items 3–5): 30 June 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>98, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 16, 17, 88(1), (3)): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 88(1), (3))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>109, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–105): \[ <i>see</i>Note 3] 
-Schedule 2 (items 1–8): 1 Oct 2010 ( <i>see</i>s. 2(1)) 
-Schedule 2 (items 22–48): 23 July 2012</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 27)</div>
   </td>
 </tr></table>
 
@@ -7747,7 +7641,7 @@ Schedule 2 (items 22–48): 23 July 2012</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 5, 32 and 46, 2011; No. 109, 2012</div>
+    <div>am. Nos. 5, 32 and 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7779,39 +7673,7 @@ Schedule 2 (items 22–48): 23 July 2012</div>
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 52, 2011; No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 32</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2012</div>
+    <div>am. No. 52, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7856,86 +7718,6 @@ Schedule 2 (items 22–48): 23 July 2012</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1–4 to s. 50</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3-5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 4</b></div>
   </td>
   <td>
@@ -7968,38 +7750,6 @@ Schedule 2 (items 22–48): 23 July 2012</div>
 </tr>
 <tr>
   <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4-3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 201A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 5</b></div>
   </td>
   <td>
@@ -8024,23 +7774,7 @@ Schedule 2 (items 22–48): 23 July 2012</div>
 </tr>
 <tr>
   <td>
-    <div>S. 206</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 207</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 208</div>
+    <div>Ss. 206–208</div>
   </td>
   <td>
     <div>am. No. 32, 2011</div>
@@ -8083,20 +7817,12 @@ Schedule 2 (items 22–48): 23 July 2012</div>
     <div>S. 215</div>
   </td>
   <td>
-    <div>am. No. 32, 2011; No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 217</div>
-  </td>
-  <td>
     <div>am. No. 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 218</div>
+    <div>Ss. 217, 218</div>
   </td>
   <td>
     <div>am. No. 32, 2011</div>
@@ -8277,7 +8003,7 @@ Part 5-3</div>
     <div>S. 257</div>
   </td>
   <td>
-    <div>am. No. 32, 2011; No. 109, 2012</div>
+    <div>am. No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8314,54 +8040,6 @@ Part 5-3</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 6-1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 278</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 280</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6‑3</b></div>
   </td>
   <td>
@@ -8381,1421 +8059,9 @@ Part 5-3</div>
     <div>S. 303</div>
   </td>
   <td>
-    <div>am. No. 32, 2011; No. 109, 2012</div>
+    <div>am. No. 32, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
-
-The following amendment commences on 1 January 2013:
-
-## Schedule 2
-
-## 16  Subsection 45(2)
-
-Repeal the subsection, substitute:
-
-When a person satisfies this subsection
-
-             (2)  A person satisfies this subsection if:
-
-                     (a)  the person is the holder of a visa determined by the Minister for the purposes of subparagraph 729(2)(f)(v) of the Social Security Act; and
-
-                     (b)  either:
-
-                              (i)  the person is in Australia; or
-
-                             (ii)  the person is temporarily absent from Australia for not more than 6 weeks and the absence is an allowable absence in relation to special benefit within the meaning of Part 4.2 of that Act.
-
-## 17  Paragraphs 46(2)(a) and (b) and (3)(d)
-
-Omit “13 weeks”, substitute “6 weeks”.
-
-As at 31 July 2012 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012 (No. 109, 2012)_
-
-The following amendments commences on 1 October 2012:
-
-## Schedule 1
-
-## 1  Title
-
-Repeal the title, substitute:
-
-## An Act to provide for a paid parental leave scheme, and for related purposes
-
-## 2  Division 1A of Part 1‑1 (heading)
-
-Repeal the heading, substitute:
-
-### Division 1A—Objects of this Act
-
-## 3  Section 3A (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="3A"></a>3A  Objects of this Act
-
-## 4  Before subsection 3A(1)
-
-Insert:
-
-          (1A)  This Act establishes a paid parental leave scheme with 2 payments—parental leave pay, and dad and partner pay.
-
-          (1B)  The objects of the paid parental leave scheme are to:
-
-                     (a)  signal that taking time out of the paid workforce to care for a child is part of the usual course of life and work for both parents; and
-
-                     (b)  promote equality between men and women and balance between work and family life.
-
-## 5  Subsection 3A(1)
-
-Omit “this Act”, substitute “parental leave pay”.
-
-## 6  Paragraph 3A(1)(c)
-
-Omit “workforce; and”, substitute “workforce.”.
-
-## 7  Paragraph 3A(1)(d)
-
-Repeal the paragraph.
-
-## 8  Subsection 3A(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The object of dad and partner pay is to provide financial support to fathers and partners caring for newborn or newly adopted children, in order to:
-
-                     (a)  increase the time that fathers and partners take off work around the time of birth or adoption; and
-
-                     (b)  create further opportunities for fathers and partners to bond with the child; and
-
-                     (c)  allow fathers and partners to take a greater share of caring responsibilities and to support mothers and partners from the beginning.
-
-## 9  Section 4 (first paragraph under the heading “Overview”)
-
-Omit “to a person”, substitute “and dad and partner pay”.
-
-## 10  Section 4 (after the last paragraph under the heading “Overview”)
-
-Insert:
-
-* * *
-
-Dad and partner pay is a one‑off payment that relates to a period of up to 2 weeks. The period is called the person’s DAPP period. The person’s DAPP period may be the full 2 weeks or a lesser period (if the person is not eligible for dad and partner pay for that full period).
-
-Dad and partner pay is paid at the national minimum wage for each week day during the person’s DAPP period. Dad and partner pay is paid by the Secretary.
-
-* * *
-
-## 11  Section 4 (before the heading “Chapter 4—Compliance and enforcement”)
-
-Insert:
-
-* * *
-
-_Chapter 3A—Dad and partner pay_
-
-Chapter 3A sets out when dad and partner pay is payable to a person. The key provisions for the Chapter are found in Part 3A‑1.
-
-A person can only be paid dad and partner pay if the Secretary makes a determination that dad and partner pay is payable to the person. Part 3A‑2 has rules about when the Secretary can make that determination.
-
-The Secretary cannot make that determination if the person is not eligible for dad and partner pay. Part 3A‑3 has the rules about eligibility. For the main case, to be eligible a person must (broadly):
-
-<li class="BoxList" style="margin-left:21.25pt">(a)   satisfy the work test, the
-
-income test and the Australian residency test; and</li>
-
-<li class="BoxList" style="margin-left:21.25pt">(b)   be caring for the child; and</li>
-
-<li class="BoxList" style="margin-left:21.25pt">(c)   not be working.</li>
-
-The Secretary also cannot make that determination if the person has not made a claim for dad and partner pay. Part 3A‑4 has the rules about claims.
-
-Part 3A‑5 sets out how dad and partner pay is paid to a person. Generally, dad and partner pay is paid by the Secretary as a single payment.
-
-* * *
-
-## 12  Section 4 (last paragraph under the heading “Chapter 4—Compliance and enforcement”)
-
-Omit “parental leave pay scheme”, substitute “paid parental leave scheme”.
-
-## 13  Section 4 (third paragraph under the heading “Chapter 6—Miscellaneous”)
-
-After “parental leave pay”, insert “, or a payment of dad and partner pay,”.
-
-## 14  Section 6
-
-Insert:
-
-                    <a name="care"></a>**_caring_**: see subsections 115CL(1) and (4).
-
-## 15  Section 6 (definition of _claim_)
-
-Repeal the definition, substitute:
-
-                    <a name="claim"></a>**_claim_** means:
-
-                     (a)  for parental leave pay—a primary claim, a secondary claim or a tertiary claim for parental leave pay for a child; or
-
-                     (b)  for dad and partner pay—a claim for dad and partner pay for a child.
-
-## 16  Section 6 (definition of _claimant_)
-
-Omit “or tertiary claimant”, substitute “, tertiary claimant or DAPP claimant”.
-
-## 17  Section 6
-
-Insert:
-
-                    <a name="dad-partner-pai"></a>**_dad and partner pay_** means payments of dad and partner pay under this Act.
-
-## 18  Section 6
-
-Insert:
-
-                    <a name="dapp-claimant"></a>**_DAPP claimant_** means a person who has made an effective claim for dad and partner pay for a child.
-
-## 19  Section 6
-
-Insert:
-
-                    <a name="dapp-period"></a>**_DAPP period_**: see subsection 115AE(1).
-
-## 20  Section 6 (definition of _effective claim_)
-
-Repeal the definition, substitute:
-
-                    <a name="effect-claim"></a>**_effective claim_** means:
-
-                     (a)  for parental leave pay—a claim that is made in accordance with Part 2‑4; or
-
-                     (b)  for dad and partner pay—a claim that is made in accordance with Part 3A‑4.
-
-## 21  Section 6 (definition of _eligible_)
-
-Repeal the definition, substitute:
-
-                    <a name="elig"></a>**_eligible_**:
-
-                     (a)  for parental leave pay—see section 31; or
-
-                     (b)  for dad and partner pay—see section 115CB.
-
-## 22  Section 6 (definition of _income test_)
-
-Repeal the definition, substitute:
-
-                    <a name="incom-test"></a>**_income test_**: see sections 37 and 115CG.
-
-Note:          Division 4 of Part 3A‑3 (which includes section 115CG) is relevant in applying the income test to claimants for dad and partner pay.
-
-## 23  Section 6 (definition of _initial eligibility determination_)
-
-Repeal the definition, substitute:
-
-                    <a name="initi-elig-determin"></a>**_initial eligibility determination_**:
-
-                     (a)  for parental leave pay—see section 26; or
-
-                     (b)  for dad and partner pay—see section 115BL.
-
-## 24  Section 6
-
-Insert:
-
-                    <a name="maximum-dapp-period"></a>**_maximum DAPP period_**: see subsection 115AE(3).
-
-## 25  Section 6
-
-Insert:
-
-                    <a name="maximum-dapp-period-end-dai"></a>**_maximum DAPP period end day_**: see subsection 115AE(5).
-
-## 26  Section 6
-
-Insert:
-
-                    <a name="maximum-dapp-period-start-dai"></a>**_maximum DAPP period start day_**: see subsection 115AE(4).
-
-## 27  Section 6 (definition of _nominated start date_)
-
-Repeal the definition, substitute:
-
-                    <a name="nomin-start-date"></a>**_nominated start date_**:
-
-                     (a)  for parental leave pay—see subsection 57(1); or
-
-                     (b)  for dad and partner pay—see subsection 115DG(1).
-
-## 28  Section 6
-
-Insert:
-
-                    <a name="not-work"></a>**_not working_**: see section 115CM.
-
-## 29  Section 6 (definition of _payability determination_)
-
-Repeal the definition, substitute:
-
-                    <a name="payabl-determin"></a>**_payability determination_** means:
-
-                     (a)  for parental leave pay—a determination made under section 13, 14, 15, 16 or 17 that parental leave pay is, or is not, payable to a person for a child; or
-
-                     (b)  for dad and partner pay—a determination made under section 115BB that dad and partner pay is, or is not, payable to a person for a child.
-
-## 30  Section 6 (definition of _reference income year_)
-
-Repeal the definition, substitute:
-
-                    <a name="refer-incom-year"></a>**_reference income year_**:
-
-                     (a)  for a primary claimant or a secondary claimant—see section 39; or
-
-                     (b)  for a DAPP claimant—see section 115CH.
-
-## 31  Section 6 (definition of _reference period_)
-
-Repeal the definition, substitute:
-
-                    <a name="refer-period"></a>**_reference period_**:
-
-                     (a)  for a person claiming parental leave pay—see subsection 47(2); or
-
-                     (b)  for a person claiming dad and partner pay—see subsection 115CL(2).
-
-## 32  Section 6 (definition of _relevant PPL income limit_)
-
-Repeal the definition, substitute:
-
-                    <a name="relev-ppl-incom-limit"></a>**_relevant PPL income limit_**:
-
-                     (a)  for a primary claimant or a secondary claimant—see section 40; or
-
-                     (b)  for a DAPP claimant—see section 115CJ.
-
-## 33  Section 6 (definition of _saved amount_)
-
-Repeal the definition, substitute:
-
-                    <a name="save-amount"></a>**_saved amount_**:
-
-                     (a)  for parental leave pay—see subsection 97(2); or
-
-                     (b)  for dad and partner pay—see subsection 115EK(2).
-
-## 34  Section 6 (definition of _work test_)
-
-Repeal the definition, substitute:
-
-                    <a name="work-test"></a>**_work test_**: see Division 3 of Part 2‑3 and sections 115CE and 115CF.
-
-Note:          Sections 115CE and 115CF and other provisions of Division 3 of Part 3A‑3 are relevant in applying the work test to claimants for dad and partner pay.
-
-## 35  Section 6 (definition of _work test period_)
-
-Repeal the definition, substitute:
-
-                    <a name="work-test-period"></a>**_work test period_**:
-
-                     (a)  for a primary claimant or a secondary claimant—see section 33; or
-
-                     (b)  for a DAPP claimant—see section 115CD.
-
-## 36  Section 21 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="21"></a>21  Parental leave pay is already payable to the person etc.
-
-## 37  Subsection 21(1)
-
-Repeal the subsection, substitute:
-
-             (1)  The Secretary must not make a payability determination that parental leave pay is payable to a person for a child if:
-
-                     (a)  there is in force another payability determination that parental leave pay is payable to the person for the child, in respect of a different claim made by the person; or
-
-                     (b)  if the person is the primary claimant—there is in force a payability determination that parental leave pay is payable to:
-
-                              (i)  the person’s partner for the child; or
-
-                             (ii)  the person’s former partner (when he or she was the person’s partner) for the child; or
-
-                     (c)  if the person is the secondary claimant—there is in force a payability determination that parental leave pay is payable to:
-
-                              (i)  the person’s partner for the child (other than as the primary claimant to which the person’s secondary claim relates); or
-
-                             (ii)  the person’s former partner (when he or she was the person’s partner) for the child (other than as the primary claimant to which the person’s secondary claim relates).
-
-## 38  Section 22
-
-After “payability determination”, insert “about parental leave pay”.
-
-## 39  Section 23
-
-After “A payability determination”, insert “about parental leave pay”.
-
-## 40  Section 24
-
-After “payability determination”, insert “about parental leave pay”.
-
-## 41  Division 5 of Part 2‑2 (heading)
-
-Repeal the heading, substitute:
-
-### Division 5—Initial eligibility determinations about parental leave pay
-
-## 42  Section 27
-
-After “eligibility determination”, insert “about parental leave pay”.
-
-## 43  Section 28
-
-After “determination”, insert “about parental leave pay”.
-
-## 44  Section 29
-
-After “eligibility determination”, insert “about parental leave pay”.
-
-## 45  Section 30
-
-Omit “pregnancy.”, substitute “pregnancy (see section 36A) or if the person is already eligible for dad and partner pay (see section 36B).”.
-
-## 46  Section 30
-
-Omit “indexed”, substitute “indexed. A special rule applies if the person is already eligible for dad and partner pay (see subsection 37(2)”.
-
-## 47  Before subsection 31(2)
-
-Insert:
-
-Eligible
-
-## 48  After subsection 31(4)
-
-Insert:
-
-Not eligible—overlap with DAPP period
-
-          (4A)  If there is in force a payability determination that dad and partner pay is payable to a person for a child for the person’s DAPP period, then, despite subsections (2), (3) and (4), the person is not **_eligible_** for parental leave pay for the child on a day that is in the DAPP period.
-
-Not eligible—excess days
-
-          (4B)  Despite subsections (2), (3) and (4), if:
-
-                     (a)  there is in force a payability determination that dad and partner pay is payable to a person for a child for the person’s DAPP period; and
-
-                     (b)  combined, the total days in the DAPP period and the reference period for the person’s claim for parental leave pay for the child exceed 126;
-
-then:
-
-                     (c)  the Secretary must exclude from the reference period the excess number of days; and
-
-                     (d)  the person is not **_eligible_** for parental leave pay for the child on a day excluded by the Secretary.
-
-Not eligible—claimant deceased
-
-## 49  Section 32 (method statement, step 1)
-
-Repeal the step, substitute:
-
-* * *
-
-Step 1.   Work out the person’s work test period.
-
-                   Note:             **_Work test period_** is defined in section 33 for primary claimants and secondary claimants and in section 115CD for DAPP claimants.
-
-* * *
-
-## 50  Section 32 (note)
-
-Omit “Note”, substitute “Note 1”.
-
-## 51  Section 32 (note)
-
-Omit “section 36A”, substitute “sections 36A (for claimants for parental leave pay) and 115CE (for DAPP claimants)”.
-
-## 52  At the end of section 32
-
-Add:
-
-Note 2:       Section 36B is an alternative way of satisfying the work test for a person claiming parental leave pay who is already eligible for dad and partner pay. An equivalent provision is in section 115CF for a DAPP claimant who is already eligible for parental leave pay.
-
-## 53  At the end of subsection 33(3)
-
-Add:
-
-Note:          For the **_work test period_** for a DAPP claimant, see section 115CD.
-
-## 54  At the end of Division 3 of Part 2‑3
-
-Add:
-
-##### <a id="36B"></a>36B  Claimant for parental leave pay who is already eligible for dad and partner pay
-
-                   A claimant for parental leave pay also satisfies the **_work test_** on a day if the Secretary is satisfied that the claimant is eligible for dad and partner pay for the child.
-
-Note:          See section 115CF for an equivalent provision for a DAPP claimant.
-
-## 55  Section 37
-
-Before “A person”, insert “(1)”.
-
-## 56  At the end of section 37
-
-Add:
-
-             (2)  A claimant for parental leave pay also satisfies the **_income test_** on a day if the Secretary is satisfied that the claimant is eligible for dad and partner pay for the child.
-
-Note:          See subsection 115CG(2) for an equivalent provision for a DAPP claimant.
-
-## 57  At the end of section 39
-
-Add:
-
-Note:          For the **_reference income year_** for a DAPP claimant, see section 115CH.
-
-## 58  At the end of section 40
-
-Add:
-
-Note:          For the **_relevant PPL income limit_** for a DAPP claimant, see section 115CJ.
-
-## 59  At the end of section 52
-
-Add “for parental leave pay”.
-
-## 60  Subsection 53(1)
-
-After “claims”, insert “for parental leave pay”.
-
-## 61  Subsections 55(1), (2) and (3)
-
-After “A claim”, insert “for parental leave pay”.
-
-## 62  Subsection 56(1)
-
-After “The claim”, insert “for parental leave pay”.
-
-## 63  Subsection 59(1)
-
-After “The claim”, insert “for parental leave pay”.
-
-## 64  Section 60
-
-After “A claim”, insert “for parental leave pay”.
-
-## 65  Subsection 61(1)
-
-After “effective claim”, insert “for parental leave pay”.
-
-## 66  Subsection 61(3)
-
-After “claim”, insert “for parental leave pay”.
-
-## 67  After Chapter 3
-
-Insert:
-
-# Chapter 3A—Dad and partner pay
-
-## Part 3A‑1—Key provisions
-
-### Division 1—Guide to this Part
-
-##### <a id="115AA"></a>115AA  Guide to this Part
-
-* * *
-
-This Part has the key provisions for this Chapter (which deals with dad and partner pay).
-
-A person can only be paid dad and partner pay if the Secretary makes a determination that dad and partner pay is payable to the person. Part 3A‑2 has the rules about when the Secretary can make that determination.
-
-The Secretary cannot make that determination if the person has not made a claim for dad and partner pay.
-
-If the Secretary makes a determination that dad and partner pay is payable to a person for a child, the amount of dad and partner pay is worked out by reference to the period for which the person is eligible for dad and partner pay. This period is the person’s DAPP period. The maximum period for which any person may be eligible for dad and partner pay is 2 weeks. A person’s DAPP period may be the full 2 weeks or a lesser period (if the person is not eligible for dad and partner pay for that full period).
-
-Generally, dad and partner pay is paid by the Secretary as a single payment.
-
-* * *
-
-### Division 2—When dad and partner pay is payable to a person
-
-##### <a id="115AB"></a>115AB  A determination must be made for dad and partner pay to be payable to a person
-
-                   Dad and partner pay is payable to a person for a child for a period if a determination of the Secretary that dad and partner pay is payable to the person for that period is in force under section 115BB.
-
-Note:          See Part 3A‑2 for the rules about when the Secretary can make a determination that dad and partner pay is, or is not, payable to a person.
-
-##### <a id="115AC"></a>115AC  For the determination to be made, the person must be eligible
-
-                   The Secretary cannot make a determination that dad and partner pay is payable to a person for a child for a period unless the person was or will be eligible for dad and partner pay during the period.
-
-Note:          See Part 3A‑3 for the rules about when a person is eligible for dad and partner pay.
-
-##### <a id="115AD"></a>115AD  For the determination to be made, the person must claim
-
-                   The Secretary cannot make a determination that dad and partner pay is payable to a person for a child for a period unless the person has made an effective claim for the child.
-
-Note:          See Part 3A‑4 for the rules about how to make an effective claim.
-
-##### <a id="115AE"></a>115AE  The determination must specify the person’s _DAPP period_
-
-             (1)  If the Secretary makes a determination that dad and partner pay is payable to a person for a child, the Secretary must specify, in the determination, the period for which dad and partner pay is payable to the person. That period is the person’s **_DAPP period_**.
-
-Note:          For a DAPP claimant’s DAPP period, see subsection 115BB(3).
-
-             (2)  A person’s DAPP period must be the same as, or within, the maximum DAPP period for the child.
-
-             (3)  The **_maximum DAPP period_** for a child is the period that:
-
-                     (a)  starts on the child’s maximum DAPP period start day; and
-
-                     (b)  ends on the child’s maximum DAPP period end day.
-
-             (4)  The **_maximum DAPP period start day_** for a child is the later of the following days:
-
-                     (a)  the day the child was born;
-
-                     (b)  the claimant’s nominated start date.
-
-             (5)  The **_maximum DAPP period end day_** for a child is the earlier of the following days:
-
-                     (a)  the day that is 13 days after the maximum DAPP period start day;
-
-                     (b)  the day before the child’s first birthday.
-
-## Part 3A‑2—Determinations about whether dad and partner pay is payable to a person
-
-### Division 1—Guide to this Part
-
-##### <a id="115BA"></a>115BA  Guide to this Part
-
-* * *
-
-This Part is about the Secretary making determinations about whether dad and partner pay is payable to a person. These determinations are payability determinations. A person cannot be paid dad and partner pay unless there is a payability determination that dad and partner pay is payable to the person.
-
-Division 2 has the rules that apply to the Secretary when making a payability determination.
-
-Division 3 has restrictions that apply in particular circumstances to prevent the Secretary from making a payability determination that dad and partner pay is payable to a person (for example, where the child’s birth has not been verified or the person has already been paid dad and partner pay for the child).
-
-Division 4 has general rules that apply to payability determinations (for example, if the Secretary makes a determination, the Secretary must give a notice of it to the claimant).
-
-Division 5 deals with initial eligibility determinations. These determinations can be made by the Secretary before the Secretary makes a payability determination. The Secretary can make an initial eligibility determination if the Secretary is satisfied that the person satisfies, or will satisfy, particular eligibility criteria (the work test, the income test and the Australian residency test). If the Secretary makes a determination, the Secretary must give a notice of it to the claimant.
-
-* * *
-
-### Division 2—Determinations about whether dad and partner pay is payable to a person
-
-##### <a id="115BB"></a>115BB  Determination on a claim for dad and partner pay
-
-When Secretary must make determination
-
-             (1)  If a person has made an effective claim for dad and partner pay for a child, the Secretary must make a determination on the claim.
-
-When dad and partner pay is payable to DAPP claimant
-
-             (2)  The Secretary must determine that dad and partner pay is payable to the DAPP claimant for the claimant’s DAPP period if, when making the determination, the Secretary is satisfied that the DAPP claimant was or will be eligible for dad and partner pay on each day in that period.
-
-Note:          The Secretary is prevented from making a determination under this subsection in certain circumstances: see Division 3.
-
-DAPP claimant’s DAPP period
-
-             (3)  The Secretary must specify in the determination under subsection (2) that the claimant’s DAPP period:
-
-                     (a)  starts on the child’s maximum DAPP period start day; and
-
-                     (b)  ends on:
-
-                              (i)  if the Secretary is satisfied that the DAPP claimant was or will be eligible for dad and partner pay on each day in the child’s maximum DAPP period—the child’s maximum DAPP period end day; or
-
-                             (ii)  if the Secretary is satisfied that the DAPP claimant was or will be eligible for a period that is shorter than the child’s maximum DAPP period—the last day in the child’s maximum DAPP period that the DAPP claimant was or will be eligible for dad and partner pay.
-
-When dad and partner pay is not payable to DAPP claimant
-
-             (4)  The Secretary must determine that dad and partner pay is not payable to the DAPP claimant if the Secretary is not satisfied of the matters in subsection (2).
-
-### Division 3—When the Secretary cannot make a determination that dad and partner pay is payable
-
-##### <a id="115BC"></a>115BC  The child’s birth has not been verified
-
-                   The Secretary must not make a payability determination that dad and partner pay is payable to a person for a child unless a person has verified the child’s birth.
-
-Note:          See subsection 18(2) for how a person **_verifies_** a child’s birth.
-
-##### <a id="115BD"></a>115BD  The child was born before 1 January 2013
-
-                   The Secretary must not make a payability determination that dad and partner pay is payable to a person for a child if the child was born before 1 January 2013.
-
-##### <a id="115BE"></a>115BE  Multiple births
-
-                   The Secretary must not make a payability determination that dad and partner pay is payable to a person for a child if:
-
-                     (a)  the child and another child are born during the same multiple birth; and
-
-                     (b)  dad and partner pay is or was payable to the person or another person for the other child.
-
-##### <a id="115BF"></a>115BF  Dad and partner pay is already payable to the person etc.
-
-             (1)  The Secretary must not make a payability determination that dad and partner pay is payable to a person for a child if:
-
-                     (a)  there is in force another payability determination that dad and partner pay is payable to the person for the child, in respect of a different claim made by the person; or
-
-                     (b)  there is in force a payability determination that dad and partner pay is payable to another person for the child.
-
-             (2)  Paragraph (1)(b) does not apply to a claim that is made in circumstances prescribed by the PPL rules.
-
-### Division 4—General provisions applying to determinations about whether dad and partner pay is payable
-
-##### <a id="115BG"></a>115BG  Assumptions when making the determination
-
-                   In deciding whether to make a payability determination about dad and partner pay, the Secretary may act on the assumption that the state of affairs known to the Secretary when making the determination will remain unchanged.
-
-##### <a id="115BH"></a>115BH  When the determination is in force
-
-                   A payability determination about dad and partner pay comes into force on the day it is made and continues in force unless it is:
-
-                     (a)  revoked under section 115BK (which deals with revoking a payability determination on the DAPP claimant’s request); or
-
-                     (b)  set aside under Chapter 5 (which deals with review of decisions).
-
-##### <a id="115BJ"></a>115BJ  Notice of the determination
-
-                   If the Secretary makes a payability determination about dad and partner pay, the Secretary must give a notice of the determination to the DAPP claimant, stating:
-
-                     (a)  whether dad and partner pay is payable; and
-
-                     (b)  if dad and partner pay is payable—the DAPP claimant’s DAPP period; and
-
-                     (c)  that the DAPP claimant may apply for review of the determination in the manner set out in Chapter 5.
-
-##### <a id="115BK"></a>115BK  Revoking the determination on request
-
-             (1)  If:
-
-                     (a)  a payability determination is made that dad and partner pay is payable to a person; and
-
-                     (b)  the person requests the Secretary to revoke the determination; and
-
-                     (c)  the request is made:
-
-                              (i)  before the start of the person’s DAPP period; and
-
-                             (ii)  in a manner approved by the Secretary;
-
-then the Secretary must revoke the determination.
-
-             (2)  The revocation is taken to have come into force on the day the person requested the Secretary to revoke the determination.
-
-### Division 5—Initial eligibility determinations about dad and partner pay
-
-##### <a id="115BL"></a>115BL  Initial eligibility determinations
-
-                   If a person makes an effective claim for dad and partner pay, the Secretary may make a determination (the **_initial eligibility determination_**) that the person is initially eligible for dad and partner pay for the child if, when making the determination, the Secretary is satisfied that the person:
-
-                     (a)  satisfies:
-
-                              (i)  the work test; and
-
-                             (ii)  the income test; and
-
-                            (iii)  the Australian residency test; or
-
-                     (b)  will satisfy those tests on the day immediately before the person’s nominated start date.
-
-##### <a id="115BM"></a>115BM  Assumptions when making the initial eligibility determination
-
-                   In deciding whether to make an initial eligibility determination about dad and partner pay, the Secretary may act on the assumption that the state of affairs known to the Secretary when making the determination will remain unchanged.
-
-##### <a id="115BN"></a>115BN  When the initial eligibility determination comes into force
-
-                   An initial eligibility determination about dad and partner pay comes into force on the day it is made.
-
-##### <a id="115BP"></a>115BP  Notice of the initial eligibility determination
-
-                   If the Secretary makes an initial eligibility determination about dad and partner pay, the Secretary must give a notice of the determination to the DAPP claimant.
-
-## Part 3A‑3—Eligibility for dad and partner pay
-
-### Division 1—Guide to this Part
-
-##### <a id="115CA"></a>115CA  Guide to this Part
-
-* * *
-
-This Part sets out when a person is eligible for dad and partner pay. The Secretary cannot make a payability determination that dad and partner pay is payable if the person is not eligible for it.
-
-Division 2 sets out when a person is eligible for dad and partner pay. Subsection 115CB(2) deals with the main case and requires that for a person to be eligible for dad and partner pay for a child, the person must (broadly):
-
-<li class="BoxList" style="margin-left:21.25pt">(a)   satisfy the work test, the
-
-income test and the Australian residency test; and</li>
-
-<li class="BoxList" style="margin-left:21.25pt">(b)   be caring for the child; and</li>
-
-<li class="BoxList" style="margin-left:21.25pt">(c)   not be working.</li>
-
-There are other eligibility criteria that apply for more unusual cases—see subsection 115CB(3) (which deals with when a child is stillborn or dies) and subsection 115CB(4) (which allows the PPL rules to prescribe eligibility criteria).
-
-The work test is mostly in Division 3 of Part 2‑3, but Division 3 of this Part has provisions relevant to DAPP claimants. To satisfy the work test, a person must have performed enough paid work or taken enough paid leave in a particular period before the person’s nominated start date for dad and partner pay. Special rules apply in the case of premature birth or complications or illness related to the pregnancy (see section 115CE) or if the person is already eligible for parental leave pay (see section 115CF).
-
-The income test is mostly in Division 4 of Part 2‑3, but Division 4 of this Part has provisions relevant to DAPP claimants. To satisfy the income test, the person’s income for a particular income year must not be more than the PPL income limit (which is $150,000 until 30 June 2014 and then indexed). A special rule applies if the person is already eligible for parental leave pay (see subsection 115CG(2)).
-
-The Australian residency test is in Division 5 of Part 2‑3\. To satisfy this test, the person must be an Australian resident or be in a special class of visa holder.
-
-Division 6 of this Part sets out when a person is caring for a child. For the main case, a person will not be eligible for dad and partner pay if the person is not caring for the child.
-
-Division 7 of this Part sets out when a person is not working. For the main case, a person will not be eligible for dad and partner pay if the person performs one hour or more of work other than for a purpose of performing the work for a business that the person carries on and that consists of overseeing the business or is an occasional administrative task.
-
-* * *
-
-### Division 2—When a DAPP claimant is eligible for dad and partner pay
-
-##### <a id="115CB"></a>115CB  When a DAPP claimant is _eligible_ for dad and partner pay
-
-             (1)  This section sets out when a DAPP claimant is eligible for dad and partner pay for a child on a day.
-
-Eligible
-
-             (2)  First, a DAPP claimant is **_eligible_** for dad and partner pay for a child on a day if, on that day:
-
-                     (a)  the claimant satisfies the work test (see Division 3 of Part 2‑3 and sections 115CD, 115CE and 115CF); and
-
-                     (b)  the claimant satisfies the income test (see Division 4 of Part 2‑3 and sections 115CG, 115CH and 115CJ); and
-
-                     (c)  the claimant satisfies the Australian residency test (see Division 5 of Part 2‑3); and
-
-                     (d)  the claimant is caring for the child (see Division 6 of this Part); and
-
-                     (e)  the claimant is not working (see Division 7 of this Part).
-
-             (3)  Second, a DAPP claimant is **_eligible_** for dad and partner pay for a child on a day if:
-
-                     (a)  the child is stillborn or has died before that day; and
-
-                     (b)  on that day, the claimant would be eligible under subsection (2) for dad and partner pay for the child, if paragraphs (2)(d) and (e) were disregarded; and
-
-                     (c)  the claimant would have been caring for the child on that day had the child not been stillborn or died.
-
-             (4)  Third, a DAPP claimant is **_eligible_** for dad and partner pay  for a child on a day if, on that day, the claimant satisfies:
-
-                     (a)  the work test (see Division 3 of Part 2‑3 and sections 115CD, 115CE and 115CF); and
-
-                     (b)  the income test (see Division 4 of Part 2‑3 and sections 115CG, 115CH and 115CJ); and
-
-                     (c)  the Australian residency test (see Division 5 of Part 2‑3); and
-
-                     (d)  the conditions prescribed by the PPL rules.
-
-Not eligible—overlap with PPL period
-
-             (5)  If there is in force a payability determination that parental leave pay is payable to a person for a child for the person’s PPL period, then, despite subsections (2), (3) and (4), the person is not **_eligible_** for dad and partner pay for the child on a day that is in the PPL period.
-
-Not eligible—overlap with DAPP period for another child
-
-             (6)  If there is in force a payability determination that dad and partner pay is payable to a person for a child for the person’s DAPP period, then, despite subsections (2), (3) and (4), the person is not **_eligible_** for dad and partner pay for another child on a day that is in that DAPP period.
-
-Not eligible—excess days
-
-             (7)  Despite subsections (2), (3) and (4), if:
-
-                     (a)  there is in force a payability determination that parental leave pay is payable to a person for a child for the person’s PPL period; and
-
-                     (b)  combined, the total days in the PPL period and the reference period for the person’s claim for dad and partner pay for the child exceed 126;
-
-then:
-
-                     (c)  the Secretary must exclude from the reference period the excess number of days; and
-
-                     (d)  the person is not **_eligible_** for dad and partner pay for the child on a day excluded by the Secretary.
-
-Not eligible—claimant deceased
-
-             (8)  Despite subsections (2), (3) and (4), a DAPP claimant is not **_eligible_** for dad and partner pay for a child on a day if, on that day, the claimant is deceased.
-
-### Division 3—Applying the work test to claimants for dad and partner pay
-
-##### <a id="115CC"></a>115CC  When a DAPP claimant satisfies the work test
-
-                   To work out whether a DAPP claimant satisfies the work test on a day in accordance with section 32, use the method statement in section 32 with the work test period  in section 115CD.
-
-Note:          Sections 115CE and 115CF in this Division are alternative ways of satisfying the work test for DAPP claimants.
-
-##### <a id="115CD"></a>115CD  The _work test period_
-
-                   For the purposes of satisfying the work test in accordance with section 32, the **_work test period_** for a DAPP claimant is the 392 days immediately before the claimant’s nominated start date.
-
-Note:          Sections 115CE and 115CF in this Division are alternative ways of satisfying the work test for DAPP claimants.
-
-##### <a id="115CE"></a>115CE  Premature birth
-
-                   A DAPP claimant also satisfies the **_work test_** on a day if:
-
-                     (a)  the Secretary is satisfied that the child was born prematurely; and
-
-                     (b)  the Secretary is satisfied that the DAPP claimant would have satisfied the work test on the day in accordance with section 32 if the child had not been born prematurely.
-
-##### <a id="115CF"></a>115CF  DAPP claimant who is already eligible for parental leave pay
-
-                   A DAPP claimant also satisfies the **_work test_** on a day if the Secretary is satisfied that the DAPP claimant is eligible for parental leave pay for the child.
-
-### Division 4—Applying the income test to claimants for dad and partner pay
-
-##### <a id="115CG"></a>115CG  When a DAPP claimant satisfies the _income test_
-
-             (1)  To work out whether a DAPP claimant satisfies the income test in subsection 37(1) on a day, use the income test in subsection 37(1) with the reference income year  in section 115CH and the relevant PPL income limit in section 115CJ.
-
-             (2)  A DAPP claimant also satisfies the **_income test_** on a day if the Secretary is satisfied that the DAPP claimant is eligible for parental leave pay for the child.
-
-##### <a id="115CH"></a>115CH  The _reference income year_
-
-                   The **_reference income year_** for a DAPP claimant is the income year that ended before the earlier of the following days:
-
-                     (a)  the day the DAPP claimant made the claim for dad and partner pay;
-
-                     (b)  the DAPP claimant’s nominated start date.
-
-##### <a id="115CJ"></a>115CJ  The _relevant PPL income limit_
-
-                   The **_relevant PPL income limit_** for a DAPP claimant is the PPL income limit that applies on the earlier of the following days:
-
-                     (a)  the day the DAPP claimant made the claim for dad and partner pay;
-
-                     (b)  the DAPP claimant’s nominated start date.
-
-Note:          For **_PPL income limit_**, see section 41\. The PPL income limit may be indexed under Subdivision B of Division 4 of Part 2‑3.
-
-### Division 5—Applying the Australian residency test to claimants for dad and partner pay
-
-##### <a id="115CK"></a>115CK  When a DAPP claimant satisfies the _Australian residency test_
-
-                   To work out whether a DAPP claimant satisfies the Australian residency test on a day, use the Australian residency test in sections 45 and 46.
-
-### Division 6—Caring for a child
-
-##### <a id="115CL"></a>115CL  When a DAPP claimant is _caring_ for  a child
-
-             (1)  A DAPP claimant is **_caring_** for  a child on a day in the DAPP claimant’s reference period if the child is in the DAPP claimant’s care in that period.
-
-             (2)  A DAPP claimant’s **_reference period_** is the period that is determined by the Secretary for the purposes of making a payability determination on the DAPP claimant’s claim.
-
-             (3)  More than one person may be caring for the same child on any particular day. This does not prevent one of the persons being the primary carer of the child under section 47.
-
-             (4)  Despite subsection (1), a person is not **_caring_** for  a child on a day if, before that day, the child has died.
-
-### Division 7—Not working
-
-##### <a id="115CM"></a>115CM  When a DAPP claimant is _not working_
-
-             (1)  A DAPP claimant is **_not working_** on a day if neither of the following apply on that day:
-
-                     (a)  the DAPP claimant performs one hour or more of paid work, other than for a purpose that is a permissible purpose under subsection 49(2);
-
-                     (b)  the DAPP claimant is on paid leave.
-
-             (2)  However, the PPL rules may prescribe circumstances in which a DAPP claimant is taken to be **_not working_** even though paragraph (1)(a) or (b) applies to the claimant.
-
-## Part 3A‑4—Claims for dad and partner pay
-
-### Division 1—Guide to this Part
-
-##### <a id="115DA"></a>115DA  Guide to this Part
-
-* * *
-
-This Part is about claims for dad and partner pay. A person cannot be paid dad and partner pay unless the person has first made a claim for it.
-
-Division 2 sets out the rules about claims. Section 115DD sets out who can make a claim for dad and partner pay.
-
-The Secretary cannot make a payability determination on a claim unless it is an effective claim. To be effective, the claim must be made by the right person and satisfy the requirements in the provisions listed in section 115DE. One of those requirements is that the claim must be in the form, and contain the information, required by the Secretary (see section 115DF). Another requirement is that the claim must be made in the period set out in section 115DK.
-
-* * *
-
-### Division 2—Claims for dad and partner day
-
-##### <a id="115DB"></a>115DB  Who can claim
-
-                   Only a natural person can make a claim for dad and partner pay.
-
-##### <a id="115DC"></a>115DC  Form of claim
-
-                   A claim for dad and partner pay must be made in the form approved by the Secretary for claims for dad and partner pay.
-
-##### <a id="115DD"></a>115DD  Who can make a claim for dad and partner pay
-
-                   Only the following people can make a claim for dad and partner pay for a child:
-
-                     (a)  the biological father of the child;
-
-                     (b)  the partner of the child’s birth mother;
-
-                     (c)  an adoptive parent of the child;
-
-                     (d)  a person who satisfies circumstances prescribed by the PPL rules.
-
-##### <a id="115DE"></a>115DE  When a claim is effective
-
-             (1)  A claim for dad and partner pay is not effective unless the requirements of the following provisions that apply to the claim are satisfied:
-
-                     (a)  section 115DF (which deals with the form etc. of the claim);
-
-                     (b)  section 115DG (which deals with the nominated start date);
-
-                     (c)  section 115DH (which deals with expected or actual date of birth);
-
-                     (d)  section 115DJ (which deals with tax file number statements);
-
-                     (e)  section 115DK (which deals with when to make the claim).
-
-             (2)  A claim for dad and partner pay is also not effective if it is made by a person who cannot make a claim under section 115DD.
-
-             (3)  A claim for dad and partner pay that is not effective is taken not to have been made.
-
-##### <a id="115DF"></a>115DF  Requirements of the claim
-
-                   The claim for dad and partner pay must:
-
-                     (a)  be made in the form approved, and the manner required, by the Secretary for dad and partner pay; and
-
-                     (b)  contain any information required by the Secretary; and
-
-                     (c)  be accompanied by any documents required by the Secretary.
-
-##### <a id="115DG"></a>115DG  Nominated start date
-
-             (1)  The claim must state a specific date (the **_nominated start date_**) which is the first day of the period for which the claimant wants to be paid dad and partner pay.
-
-             (2)  The nominated start date must be on or after:
-
-                     (a)  if the claim is made before the child is born—the expected date of birth of the child; or
-
-                     (b)  if the claim is made after the child is born—the child’s actual date of birth.
-
-             (3)  Before a payability determination is made on the claim for dad and partner pay, the claimant may change his or her nominated start date by notifying the Secretary of the new nominated start date.
-
-             (4)  If a payability determination is made that dad and partner pay is payable to the claimant, the claimant may only change his or her nominated start date (the **_old date_**) by notifying the Secretary, before the old date, of the new nominated start date.
-
-##### <a id="115DH"></a>115DH  Expected or actual date of birth
-
-                   The claim for dad and partner pay for a child must specify the child’s expected date of birth or, if made after the child is born, the child’s actual date of birth.
-
-##### <a id="115DJ"></a>115DJ  Tax file number statement
-
-                   The claim for dad and partner pay must contain the person’s tax file number statement, which is a statement of the kind set out in subsection 59(2), (3) or (4).
-
-##### <a id="115DK"></a>115DK  When to claim
-
-                   A claim for dad and partner pay for a child must be made in the period that:
-
-                     (a)  starts on the day that is 97 days before the expected date of birth of the child; and
-
-                     (b)  ends on the day before the child’s first birthday.
-
-##### <a id="115DL"></a>115DL  Claim may be withdrawn or varied
-
-             (1)  After making an effective claim for dad and partner pay, the person may withdraw or vary the claim before a payability determination is made on it.
-
-             (2)  The person may only do so in a manner approved by the Secretary.
-
-             (3)  If a claim is withdrawn, it is taken never to have been made.
-
-## Part 3A‑5—Payment of dad and partner pay
-
-### Division 1—Guide to this Part
-
-##### <a id="115EA"></a>115EA  Guide to this Part
-
-* * *
-
-This Part is about the payment of dad and partner pay.
-
-Generally, dad and partner pay is paid by the Secretary as a single payment.
-
-The amount is worked out by reference to the period for which the person is eligible for dad and partner pay.
-
-* * *
-
-### Division 2—Payment of dad and partner pay
-
-##### <a id="115EB"></a>115EB  Payment of dad and partner pay
-
-                   If the Secretary makes a payability determination that dad and partner pay is payable to a person for a child, the Secretary must pay the dad and partner pay to the person as soon as practicable after making the determination (but not before the start of the person’s DAPP period).
-
-##### <a id="115EC"></a>115EC  Amount of dad and partner pay
-
-                   The amount of dad and partner pay to be paid to the person is the total of the daily national minimum wage amounts for each week day during the person’s DAPP period.
-
-Note:          See subsection 65(2) for the **_daily national minimum wage amount_** for a day.
-
-##### <a id="115ED"></a>115ED  Method of payment of dad and partner pay
-
-             (1)  The Secretary must pay dad and partner pay that is payable to a person to the credit of a bank account nominated and maintained by the person.
-
-             (2)  The Secretary may direct that the whole or a part of a payment of dad and partner pay is to be paid in a way different from that provided for by subsection (1). If the Secretary gives the direction, the payment is to be paid in accordance with the direction.
-
-             (3)  A direction made under subsection (2) is not a legislative instrument.
-
-##### <a id="115EE"></a>115EE  Giving person record of payment
-
-                   If the Secretary pays dad and partner pay to or in relation to a person, in particular circumstances, the Secretary must give the person the information prescribed by the PPL rules in relation to dad and partner pay paid in those circumstances.
-
-##### <a id="115EF"></a>115EF  Effect of extending DAPP period after review
-
-             (1)  If:
-
-                     (a)  the Secretary has made a payability determination that dad and partner pay is payable to a person; and
-
-                     (b)  after the Secretary has paid the dad and partner pay, a decision is made in relation to the payability determination that has the effect that a higher amount of dad and partner pay is payable to the person;
-
-the Secretary must pay the person the difference between the higher amount and the amount already paid to the person as soon as practicable after the decision is made.
-
-             (2)  To avoid doubt, any difference worked out under subsection (1) is also dad and partner pay.
-
-##### <a id="115EG"></a>115EG  Protection of payment
-
-             (1)  A payment of dad and partner pay is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
-
-Note:          Section 115EK (which deals with the effect of a garnishee etc. order) also provides a protection for an account into which dad and partner pay has been paid.
-
-             (2)  Subsection (1) has effect subject to section 115EH.
-
-##### <a id="115EH"></a>115EH  Deductions for PAYG withholding
-
-                   The Secretary may deduct an amount from a payment of dad and partner pay to a person if the Secretary is required to withhold the amount under section 12‑110 in Schedule 1 to the _Taxation Administration Act 1953_.
-
-##### <a id="115EJ"></a>115EJ  No other deductions
-
-                   An amount must not be deducted from a payment of dad and partner pay except in accordance with section 115EH. This section applies despite any other law of the Commonwealth, a State or a Territory.
-
-##### <a id="115EK"></a>115EK  Effect of garnishee etc. order
-
-             (1)  If:
-
-                     (a)  dad and partner pay has been paid to the credit of an account; and
-
-                     (b)  a court order in the nature of a garnishee order comes into force in relation to the account;
-
-the court order does not apply to the saved amount (if any) in the account.
-
-             (2)  The **_saved amount_** is worked out as follows:
-
-* * *
-
-_Method statement_
-
-Step 1.   Work out the total amount of dad and partner pay that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
-
-Step 2.   Subtract from the step 1 amount the total amount withdrawn from the account during the same 4 week period: the result is the **_saved amount_**.
-
-* * *
-
-##### <a id="115EL"></a>115EL  Exemption from operation of workers’ compensation and accident compensation laws
-
-             (1)  The payment of dad and partner pay is not to be taken into account for the purposes of the following provisions or laws:
-
-                     (a)  a provision of a law of the Commonwealth, a State or a Territory, if the provision deals with:
-
-                              (i)  workers’ compensation; or
-
-                             (ii)  accident compensation;
-
-                     (b)  a law, or a provision of a law, prescribed by the PPL rules, to the extent that the law or provision deals with a matter referred to in paragraph (a).
-
-             (2)  The PPL rules may provide that subsection (1) does not apply in relation to a prescribed provision of a law of the Commonwealth, a State or a Territory.
-
-##### <a id="115EM"></a>115EM  DAPP period is not a period of paid leave
-
-                   Despite any law of the Commonwealth, a State or a Territory, or any industrial instrument (however described), a period of unpaid leave is not to be taken to be a period of paid leave just because a person receives dad and partner pay for all or part of that period.
-
-## 68  Section 116
-
-After “Subdivision C of Division 2 imposes an obligation on a person to whom instalments of parental leave pay are payable”, insert “, or to whom dad and partner pay is payable,”.
-
-## 69  Section 117
-
-Before “The Secretary”, insert “(1)”.
-
-## 70  At the end of section 117
-
-Add:
-
-             (2)  The Secretary may require a person to give information, or produce a document that is in the person’s custody or under the person’s control, to a specified agency if the Secretary considers that the information or document may be relevant to one or more of the following:
-
-                     (a)  determining whether a person who has made an effective claim for dad and partner pay is or was eligible for dad and partner pay, or is or was initially eligible for dad and partner pay;
-
-                     (b)  determining whether dad and partner pay is or was payable to a person;
-
-                     (c)  ensuring the Secretary can pay dad and partner pay into the bank account of a person to whom dad and partner pay is payable.
-
-## 71  Paragraph 122(1)(a)
-
-Omit “paragraph 117(d) (which deals”, substitute “paragraph 117(1)(d) or (2)(c) (which deal”.
-
-## 72  Paragraph 123(a)
-
-After “pay”, insert “or dad and partner pay”.
-
-## 73  At the end of subsection 124(2)
-
-Add:
-
-                   ; (c)  to detect cases in which dad and partner pay has been paid when it should not have been paid;
-
-                     (d)  to verify, in relation to persons who have made effective claims for dad and partner pay, the eligibility of those persons for that pay.
-
-## 74  Subsections 125(1) and (2)
-
-Repeal the subsections, substitute:
-
-             (1)  A person who has made an effective claim for parental leave pay, in respect of which there is not in force any payability determination that parental leave pay is not payable, must notify the Secretary of the following things:
-
-                     (a)  anything that causes the person to cease to be eligible for parental leave pay on a day;
-
-                     (b)  anything that is likely to have the effect described in paragraph (a).
-
-             (2)  A person who has made an effective claim for dad and partner pay, in respect of which there is not in force any payability determination that dad and partner pay is not payable, must notify the Secretary of the following things:
-
-                     (a)  anything that causes the person to cease to be eligible for dad and partner pay on a day;
-
-                     (b)  anything that is likely to have the effect described in paragraph (a).
-
-## 75  Section 133 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="133"></a>133  Repayment of instalment of parental leave pay, PPL funding amount or dad and partner pay
-
-## 76  At the end of paragraph 133(1)(b) (before the note)
-
-Add:
-
-                     ; or (iii)  paid to, or in relation to, the person by way of dad and partner pay because of the act, failure or omission that constituted the offence.
-
-## 77  Paragraph 138(2)(a)
-
-Omit “or a PPL funding amount”, substitute “, a PPL funding amount or dad and partner pay”.
-
-## 78  Section 164
-
-Omit “the parental leave pay scheme”, substitute “the paid parental leave scheme”.
-
-## 79  Section 164
-
-After “overpayments or mistaken payments of parental leave pay”, insert “or dad and partner pay”.
-
-## 80  Section 164
-
-Omit “or PPL funding amounts”, substitute “, PPL funding amounts or dad and partner pay”.
-
-## 81  Section 165
-
-Omit “or a PPL funding amount”, substitute “, a PPL funding amount or dad and partner pay”.
-
-## 82  After section 168
-
-Insert:
-
-##### <a id="168A"></a>168A  Dad and partner pay debts
-
-             (1)  This section applies if:
-
-                     (a)  the Secretary pays an amount (the **_Secretary payment_**) to, or in relation to, a person for a child by way of dad and partner pay; and
-
-                     (b)  the total of Secretary payments paid for the child exceeds the total of amounts that are payable to, or in relation to, the person for the child under Part 3A‑5 (which deals with the payment of dad and partner pay by the Secretary).
-
-Note:          Dad and partner pay may cease to be payable after it has already been paid, if the payability determination is later set aside or varied.
-
-             (2)  An amount equal to the amount of the excess is a debt due to the Commonwealth by the person.
-
-Example:    If no dad and partner pay is payable to, or in relation to, a person for the child, the amount of the excess is the total amount of the Secretary payments.
-
-             (3)  The debt under subsection (2) arises:
-
-                     (a)  if the person has a DAPP period for the child—immediately after the end of the person’s DAPP period; or
-
-                     (b)  otherwise—when subsection (1) starts to apply in relation to a Secretary payment.
-
-Note 1:       The person does not have a DAPP period for the child if a payability determination that dad and partner pay is payable to the person for the child has not been made, or has been set aside. In such a case, a debt will arise as soon as there is an excess as referred to in subsection (1).
-
-Note 2:       This section may apply to overpayments by way of payments that are mistakenly paid. For example, an overpayment or mistaken payment may arise due to administrative error, the setting aside or variation of a payability determination or payments following a stay order under subsection 41(2) of the AAT Act.
-
-## 83  Section 169 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="169"></a>169  Wrong person receives parental leave pay instalment, PPL funding amount or dad and partner pay
-
-## 84  Paragraph 169(1)(a)
-
-Omit “or a PPL funding amount”, substitute “, a PPL funding amount or dad and partner pay”.
-
-## 85  Paragraph 171(a)
-
-After “instalment”, insert “or by way of dad and partner pay”.
-
-## 86  Paragraph 192(1)(a)
-
-Omit “or a PPL funding amount”, substitute “, a PPL funding amount or dad and partner pay”.
-
-## 87  Paragraph 192(2)(a)
-
-Omit “or PPL funding amount”, substitute “, PPL funding amount or dad and partner pay”.
-
-## 88  After subparagraph 215(2)(a)(vii)
-
-Insert:
-
-                         (viia)  subparagraph 115BK(1)(c)(ii);
-
-                         (viib)  section 115DC;
-
-                         (viic)  section 115DF;
-
-                         (viid)  subsection 115DL(2);
-
-## 89  Subparagraph 273(1)(a)(i)
-
-After “pay”, insert “or dad and partner pay”.
-
-## 90  Subparagraph 273(1)(a)(ii)
-
-After “pay”, insert “, or dad and partner pay,”.
-
-## 91  Paragraph 273(1)(c)
-
-After “pay”, insert “or dad and partner pay”.
-
-## 92  After subsection 277(1)
-
-Insert:
-
-          (1A)  If:
-
-                     (a)  a claim is made for dad and partner pay for a child; and
-
-                     (b)  before or after the claim is made, the child is stillborn or dies;
-
-then this Act (other than sections 115CB and 115CL) applies as if a reference to the DAPP claimant caring for the child were a reference to the DAPP claimant caring for the child had the child not been stillborn or died.
-
-Note:          Section 115CB deals with eligibility for dad and partner pay and section 115CL defines when a person is caring for a child for the purposes of dad and partner pay.
-
-## 93  At the end of subsection 277(2)
-
-Add “or (1A)”.
-
-## 94  Section 279
-
-After “(who are people who can receive payments of instalments of parental leave pay”, insert “, or payments of dad and partner pay,”.
-
-## 95  Paragraph 280(1)(a)
-
-Omit “of this Act”, substitute “of parental leave pay or dad and partner pay, or both”.
-
-## 96  Paragraph 280(1)(b)
-
-Before “direct”, insert “if the appointment is for parental leave pay—”.
-
-## 97  At the end of subsection 280(1)
-
-Add:
-
-             ; and (c)  if the appointment is for dad and partner pay—direct that the whole or a specified part of a payment of dad and partner pay payable to the nominee’s principal be paid to the nominee.
-
-## 98  Subsection 281(1)
-
-Omit “of this Act”, substitute “of parental leave pay or dad and partner pay, or both”.
-
-## 99  Division 3 of Part 6‑2 (heading)
-
-Repeal the heading, substitute:
-
-### Division 3—Payment to payment nominee
-
-## 100  After section 284
-
-Insert:
-
-##### <a id="284A"></a>284A  Payment of dad and partner pay to payment nominee
-
-             (1)  If:
-
-                     (a)  a person has a payment nominee; and
-
-                     (b)  the whole or a part of a payment of dad and partner pay is payable to the person; and
-
-                     (c)  the Secretary has given a direction in relation to the payment under section 280;
-
-the payment must be paid in accordance with the direction.
-
-             (2)  A payment of dad and partner pay paid to the payment nominee of a person:
-
-                     (a)  is paid to the payment nominee on behalf of the person; and
-
-                     (b)  is taken, for the purposes of this Act (other than this Part), to have been paid to the person and to have been so paid when it was paid to the nominee.
-
-             (3)  A payment of dad and partner pay that is to be paid to the payment nominee of a person must be paid to the credit of a bank account nominated and maintained by the nominee.
-
-             (4)  The Secretary may direct that the whole or a part of a payment of dad and partner pay that is to be paid to a payment nominee be paid to the payment nominee in a different way from that provided for by subsection (3). If the Secretary gives such a direction, a payment to which the direction relates must be paid in accordance with the direction.
-
-             (5)  A direction given under subsection (4) is not a legislative instrument.
-
-## 101  Section 285
-
-Repeal the section, substitute:
-
-##### <a id="285"></a>285  Actions of correspondence nominee on behalf of principal
-
-Correspondence nominee for parental leave pay
-
-             (1)  If a person has a correspondence nominee for parental leave pay, any act that may be done by the person under, or for the purposes of, this Act (other than Division 2 or 3) in relation to parental leave pay may be done by that correspondence nominee.
-
-Note:          This subsection is subject to section 296 (which deals with the right of the nominee to attend with a principal) and subsection (3) of this section.
-
-             (2)  Without limiting subsection (1), if a person has a correspondence nominee for parental leave pay, an application or claim that may be made by a person under this Act in relation to parental leave pay may be made by that correspondence nominee on behalf of the person, and an application or claim so made is taken to be made by the person.
-
-             (3)  If, under a provision of this Act, the Secretary gives a notice in relation to parental leave pay to a person who has a correspondence nominee for parental leave pay, subsection (1) does not extend to an act that is required by the notice to be done by the person.
-
-Correspondence nominee for dad and partner pay
-
-             (4)  If a person has a correspondence nominee for dad and partner pay, any act that may be done by the person under, or for the purposes of, this Act (other than Division 2 or 3) in relation to dad and partner pay may be done by that correspondence nominee.
-
-Note:          This subsection is subject to section 296 (which deals with the right of the nominee to attend with a principal) and subsection (6) of this section.
-
-             (5)  Without limiting subsection (4), if a person has a correspondence nominee for dad and partner pay, an application or claim that may be made by a person under this Act in relation to dad and partner pay may be made by that correspondence nominee on behalf of the person, and an application or claim so made is taken to be made by the person.
-
-             (6)  If, under a provision of this Act, the Secretary gives a notice in relation to dad and partner pay to a person who has a correspondence nominee for dad and partner pay, subsection (1) does not extend to an act that is required by the notice to be done by the person.
-
-Effect of acts done by correspondence nominee
-
-             (7)  An act done by a person’s correspondence nominee under this section has effect, for the purposes of this Act (other than this Part), as if it had been done by the person.
-
-## 102  Subsection 286(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If a person has a correspondence nominee for parental leave pay, any notice that the Secretary is required or authorised by this Act to give to the person in relation to parental leave pay may be given by the Secretary to that correspondence nominee.
-
-          (1A)  If a person has a correspondence nominee for dad and partner pay, any notice that the Secretary is required or authorised by this Act to give to the person in relation to dad and partner pay may be given by the Secretary to that correspondence nominee.
-
-## 103  Subsection 286(2)
-
-Omit “The notice”, substitute “A notice given under subsection (1) or (1A)”.
-
-## 104  Paragraphs 286(3)(a) and (4)(a)
-
-After “(1)”, insert “or (1A)”.
-
-## 105  Subsection 289(1)
-
-After “an instalment”, insert “, or a payment of dad and partner pay,”.
-
-As at 31 July 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -9812,45 +8078,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
-
-## Schedule 2
-
-The following provision commences on 1 January 2013:
-
-## 88  Application provisions
-
-(1)       Subject to subitems (2) to (6), the amendments made by this Schedule apply in relation to periods of absence from Australia starting on or after 1 January 2013.
-
-(3)       The amendments made by items 3, 7, 17, 25, 48 and 61 apply in relation to individuals returning to Australia on or after 1 January 2013, whether the absence from Australia started before, on or after that date.
-
-* * *
-
-_Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012 (No. 109, 2012)_
-
-## Schedule 2
-
-## 27  Application and transitional provision
-
-Application provision
-
-(1)       The amendments made by items 25 and 26 of this Schedule apply in relation to notices that must be given to the Secretary under subsection 82(1) of the _Paid Parental Leave Act 2010_ on or after the commencement of this item.
-
-Transitional provision
-
-(2)       The Secretary is taken to give an employer a written notice under subsection 82(2B) of the _Paid Parental Leave Act 2010_ setting out a manner of notification if the Secretary:
-
-                     (a)  publishes on a PPL agency’s website a notice setting out that manner; or
-
-                     (b)  notifies the employer of that manner by another means that the Secretary considers appropriate.
-
-(3)       Subitem (2) does not apply if the Secretary made the relevant employer determination later than 6 months after the commencement of this item.
-
-Delegation
-
-(4)       Subsections 303(1) and (2) of that Act (which deal with delegation) apply in relation to this item in the same way as they apply in relation to section 82 of that Act.
 
  
