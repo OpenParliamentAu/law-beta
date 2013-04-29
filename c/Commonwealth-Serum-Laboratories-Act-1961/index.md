@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00055/Html/b054e66a-8f91-4ecb-947f-fb78993f9cb3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00721/Html/984c1e5a-31a3-4f2d-abd3-e06d81d8597d_files/image001.gif)
 
 # Commonwealth Serum Laboratories Act 1961
 
 **Act No. 38 of 1961 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 5 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -413,6 +413,8 @@ under the _Corporations Act 2001_.
                             (iii)  bodies corporate that have been determined to be Australian bodies corporate under a previous application of this definition; or
 
                             (iv)  Australian fund managers.
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
 
                     <a name="australian-fund-manag"></a>**_Australian fund manager_** means the trustee or manager of a fund in which the total interests of Australian individuals, Australian government bodies and Australian bodies corporate represent at least 60% of the total interests in the fund.
 
@@ -882,7 +884,7 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 
 ##### <a id="32"></a>32  Exemptions relating to exempt matters
 
-                   Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:
+                   Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:
 
                      (a)  an exempt matter; or
 
@@ -1474,7 +1476,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 408) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 408) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1509,7 +1511,7 @@ _(e)_     The _Commonwealth Serum Laboratories Act 1961_ was amended by 
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_      The _Commonwealth Serum Laboratories Act 1961_ was amended by Schedule 5 (item 13) only of the _Corporate Law Economic Reform Program Act 1999_, paragraph 2(2)(b) of which provides as follows:
+_(f)_      The _Commonwealth Serum Laboratories Act 1961_ was amended by Schedule 5 (item 13) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(b) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -1810,7 +1812,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
 </tr>
 <tr>
   <td>
-    <div>Ss. 17, 18</div>
+    <div>Ss. 17–18</div>
   </td>
   <td>
     <div>ad. No. 77, 1990</div>
@@ -1885,7 +1887,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. No. 156, 1999; Nos. 55 and 123, 2001; No. 21, 2007; No. 46, 2011</div>
+    <div>am. No. 156, 1999; Nos. 55 and 123, 2001; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2181,7 +2183,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. No. 118, 1999; No. 101, 2006</div>
+    <div>am. No. 118, 1999; No. 101,2006</div>
   </td>
 </tr>
 <tr>
@@ -2190,14 +2192,6 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
   </td>
   <td>
     <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 39, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2875,6 +2869,14 @@ Certain provisions of the _Commonwealth Serum Laboratories Act 1961_, as amended
     <div></div>
   </td>
   <td>
+    <div>rep. No. 77, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
     <div>am. No. 39, 1997</div>
   </td>
 </tr>
@@ -3111,6 +3113,20 @@ Certain provisions of the _Commonwealth Serum Laboratories Act 1961_, as amended
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 408  Subsection 19B(1) (definition of _Australian citizen_)
+
+Repeal the definition.
+
+As at 5 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3200,9 +3216,11 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
 ## Schedule 3
 
-## 10  Saving—appointments
+## 10  Saving—appointments
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
