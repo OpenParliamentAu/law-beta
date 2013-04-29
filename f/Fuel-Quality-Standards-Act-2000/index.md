@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00160/Html/FuelQualityStandards2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00506/Html/FuelQualityStandards2000_WD02_image001.gif)
 
 # Fuel Quality Standards Act 2000
 
 **Act No. 153 of 2000 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 10 November 2009
+ taking into account amendments up to Act No. 107 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Applicable fuel standard for fuel supplies                                          4
 
-[6](#6).            Act binds the Crown                                                                           5
+[6](#6).            Act binds the Crown                                                                           4
 
 [7](#7).            External Territories                                                                              5
 
@@ -48,7 +48,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Offence—supplying fuel that does not comply with fuel standards  7
 
-[12AA](#12AA).    Civil penalty—supplying fuel that does not comply with fuel standards              8
+[12AA](#12AA).    Civil penalty—supplying fuel that does not comply with fuel standards              7
 
 [12A](#12A).       Offence—supplying fuel that does not comply with fuel quality information standards      8
 
@@ -218,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [58A](#58A).       How sample is to be dealt with                                                         52
 
-[58B](#58B).       Evidentiary certificates in relation to certain matters                        53
+[58B](#58B).       Evidentiary certificates in relation to certain matters                        52
 
     **Division 8—Warrants**
 
@@ -1272,7 +1272,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  The Minister must make the Register available for any person to inspect it at the times and places published in the _Gazette_.
 
-             (2)  The Register is also to be made available for inspection on the internet.
+             (2)  The Register is also to be made available for inspection on the Internet.
 
 ##### <a id="34"></a>34  Notice of proposed entries in the Register
 
@@ -1288,7 +1288,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  invite persons to make submissions on the proposal; and
 
-                     (b)  specify the addresses (including an internet address) to which submissions may be sent; and
+                     (b)  specify the addresses (including an Internet address) to which submissions may be sent; and
 
                      (c)  specify the day by which submissions must be sent (which must be at least 60 days after the day the notice is published).
 
@@ -1322,7 +1322,7 @@ Notice to persons who made submissions
 
                      (b)  remove a fuel additive, or a class of fuel additives, from the Register.
 
-             (2)  The guidelines are to be made available for inspection on the internet.
+             (2)  The guidelines are to be made available for inspection on the Internet.
 
 ## Part 3—Enforcement
 
@@ -2877,23 +2877,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 16, 111, 119, 137)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137(a)): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Fuel Quality Standards Act 2000_ was amended by Schedule 2 (items 2–13) only of the _Environmental Legislation Amendment Act 2001_, subsections 2(1) and (3)(a) of which provide as follows:
@@ -2909,109 +2892,6 @@ _(a)_     The _Fuel Quality Standards Act 2000_ was amended by Schedule�
                                      (ii)   items 3, 9, 12 and 13 of Schedule 2 commence immediately after the commencement of Parts 4 to 10 of the _Administrative Review Tribunal Act 2001_;
 
          The _Administrative Review Tribunal Bill_ has not been enacted. Therefore these amendments do not commence.
-
-_(b)_    Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -3656,14 +3536,6 @@ Div. 3 of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 33, 34</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
@@ -3675,7 +3547,7 @@ Div. 3 of Part 2</div>
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 107, 2009; No. 8, 2010</div>
+    <div>am. No. 107, 2009</div>
   </td>
 </tr>
 <tr>
