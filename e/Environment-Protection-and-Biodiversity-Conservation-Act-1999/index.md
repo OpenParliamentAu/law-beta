@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00801/Html/2304b776-5afe-4154-9995-42b874e71d94_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00786/Html/b7b84825-dce6-4f1e-8c7c-9f4632a01040_files/image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 9 November 2012
- taking into account amendments up to Act No. 145 of 2012
+This compilation was prepared on 5 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 266
@@ -591,8 +591,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [131](#131).        Inviting comments from other Ministers before decision
 
 [131AA](#131AA).  Inviting comments before decision from person proposing to take action and designated proponent
-
-[131AB](#131AB).  Minister must obtain advice from Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development
 
 [131A](#131A).     Inviting public comment before decision
 
@@ -2492,7 +2490,7 @@ Actions outside Commonwealth marine areas affecting those areas
 
 Fishing in State or Territory waters managed by Commonwealth
 
-             (3)  A person must not take in the coastal waters (as defined in the _Fisheries Management Act 1991_) of a State or the Northern Territory an action:
+             (3)  A person must not take in the coastal waters (as defined in the _Fisheries Management Act 1991_) of a State or the   Northern Territory an action:
 
                      (a)  that:
 
@@ -7433,14 +7431,6 @@ Notice of extension of time
 
                      (b)  publish the specification in accordance with the regulations.
 
-Time does not run while awaiting advice from Independent Expert Scientific Committee
-
-          (4A)  If, under section 131AB, the Minister is required to obtain advice from the Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development before making a decision whether or not to approve the taking of an action, a day is not to be counted as a business day for the purposes of subsection (1B) if it is:
-
-                     (a)  on or after the day the Minister requested the advice; and
-
-                     (b)  on or before the day on which the Minister obtains the advice.
-
 Time does not run while further information is sought
 
              (5)  If, under section 132, the Minister has requested more information for the purposes of making a decision whether or not to approve the taking of an action, a day is not to be counted as a business day for the purposes of subsection (1B) if it is:
@@ -7534,24 +7524,6 @@ This does not limit the comments such a Minister may give.
                      (a)  the Minister’s decision under section 133 whether or not to approve, for the purposes of a controlling provision, the taking of the action; and
 
                      (b)  if the decision is to approve, for the purposes of a controlling provision, the taking of the action, and the Minister decides, under section 134, to attach conditions to the approval—the Minister’s decision under section 134 to attach those conditions to the approval.
-
-##### <a id="131AB"></a>131AB  Minister must obtain advice from Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development
-
-             (1)  This section applies if:
-
-                     (a)  the taking of an action, for the purposes of a controlling provision, involves:
-
-                              (i)  coal seam gas development; or
-
-                             (ii)  large coal mining development; and
-
-                     (b)  the Minister believes that the taking of the action:
-
-                              (i)  is likely to have a significant impact on water resources, including any impacts of associated salt production and/or salinity; and
-
-                             (ii)  may have an adverse impact on a matter protected by a provision of Part 3.
-
-             (2)  Before the Minister decides whether or not to approve, for the purposes of the controlling provision, the taking of the action, the Minister must obtain the advice of the Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development.
 
 ##### <a id="131A"></a>131A  Inviting public comment before decision
 
@@ -7923,8 +7895,6 @@ Factors to be taken into account
 
                       (f)  any relevant comments given to the Minister in accordance with an invitation under section 131 or 131A; and
 
-                    (fa)  any relevant advice obtained by the Minister from the Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development in accordance with section 131AB; and
-
                      (g)  if a notice relating to the action was given to the Minister under subsection 132A(3)—the information in the notice.
 
 Note:          The Minister must also take into account any relevant comments given to the Minister in response to an invitation under paragraph 131AA(1)(b). See subsection 131AA(6).
@@ -8003,7 +7973,7 @@ the Minister must, in deciding whether to so approve the taking of the action, h
 
 ##### <a id="140A"></a>140A  No approval for certain nuclear installations
 
-                   The Minister must not approve an action consisting of or involving the construction or operation of any of the following nuclear installations:
+                   The Minister must not approve an action consisting of or involving the construction or operation of any of the following nuclear installations:
 
                      (a)  a nuclear fuel fabrication plant;
 
@@ -8613,7 +8583,7 @@ Note:          For the meaning of **_endorsed policy, plan or 
 
              (3)  The Minister must have regard to any approved conservation advice for the species or community.
 
-##### <a id="146L"></a>146L  Approvals relating to listed migratory species
+##### <a id="146L"></a>146L  Approvals relating to listed migratory species
 
                    If the approval relates to a listed migratory species, the Minister must not act inconsistently with whichever of the following conventions or agreements because of which the species is listed:
 
