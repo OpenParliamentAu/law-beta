@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00751/Html/a385d258-88d3-4eea-a0a2-b31f7c97e6af_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00369/Html/34292436-301a-4556-bc65-d913244509a6_files/image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 15 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 10 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 266
@@ -23,7 +23,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 4
+                                     Notes 2 and 3
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -649,8 +649,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [145C](#145C).     Application to Minister to extend period of effect of approval
 
-[145D](#145D).     Minister must decide whether or not to extend approval 
- period
+[145D](#145D).     Minister must decide whether or not to extend approval period
 
 [145E](#145E).      Minister may request further information for making decision
 
@@ -936,8 +935,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [207B](#207B).     Offence of knowingly damaging critical habitat
 
-[207C](#207C).     Sale or lease of Commonwealth land containing critical 
- habitat
+[207C](#207C).     Sale or lease of Commonwealth land containing critical habitat
 
         **Subdivision C—Miscellaneous**
 
@@ -2775,7 +2773,7 @@ Exceptions to prohibition
 
 Note:          Section 28 regulates actions by the Commonwealth or a Commonwealth agency with a significant impact on the environment.
 
-##### <a id="24C"></a>24C  Offences relating to Great Barrier Reef Marine Park
+##### <a id="24C"></a>24C  Offences relating to Great Barrier Reef Marine Park
 
 Actions in Great Barrier Reef Marine Park affecting the environment
 
@@ -4596,7 +4594,7 @@ Note:          In that case, section 43A applies instead.
 
 #### Subdivision A—Power to make bilateral agreements
 
-##### <a id="45"></a>45  Minister may make agreement
+##### <a id="45"></a>45  Minister may make agreement
 
 Making bilateral agreement
 
@@ -8940,7 +8938,7 @@ Publication of notice
 
 ### Division 3—Exemptions
 
-##### <a id="158"></a>158  Exemptions from Part 3 and this Chapter
+##### <a id="158"></a>158  Exemptions from Part 3 and this Chapter
 
              (1)  A person proposing to take a controlled action, or the designated proponent of an action, may apply in writing to the Minister for an exemption from a specified provision of Part 3 or of this Chapter.
 
@@ -9506,7 +9504,7 @@ may withdraw the referral, by written notice to the Minister.
 
 ### Division 1—Identifying and monitoring biodiversity
 
-##### <a id="171"></a>171  Identifying and monitoring biodiversity
+##### <a id="171"></a>171  Identifying and monitoring biodiversity
 
              (1)  The Minister may, on behalf of the Commonwealth, co‑operate with, and give financial or other assistance to, any person for the purpose of identifying and monitoring components of biodiversity.
 
