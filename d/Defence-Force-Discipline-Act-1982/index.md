@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00594/Html/afa29a33-7c5b-415b-b915-4cac6c2db004_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00464/Html/DefenceForceDiscipline1982_image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 1 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 7 July 2010
+ taking into account amendments up to Act No. 95 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Extension to external Territories
 
-[9](#9).            Extra‑territorial operation of Act
+[9](#9).            Extra-territorial operation of Act
 
 **Part II—Criminal liability**
 
@@ -252,7 +252,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [68A](#68A).       Scale of custodial punishments
 
-[68C](#68C).       Custodial punishments may be imposed for certain non‑custodial service offences
+[68C](#68C).       Custodial punishments may be imposed for certain non-custodial service offences
 
 [69](#69).          Punishment not to be more severe than maximum punishment
 
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [101S](#101S).      Persons to be cautioned
 
-[101T](#101T).      Questioning of persons charged with service offences
+[101T](#101T).     Questioning of persons charged with service offences
 
 [101U](#101U).     Persons charged with same service offence
 
@@ -392,9 +392,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [101Y](#101Y).     Search warrants may be granted by telephone
 
-[101Z](#101Z).      Searches in emergencies
+[101Z](#101Z).     Searches in emergencies
 
-[101ZA](#101ZA).   Consent to search
+[101ZA](#101ZA).  Consent to search
 
     **Division 7—Exclusion of evidence**
 
@@ -866,15 +866,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  service by the member in connection with operations against the enemy;
 
-                     (b)  service by the member with a force specified in a declaration by the Governor‑General that is in force under subsection 4(1); or
+                     (b)  service by the member with a force specified in a declaration by the Governor-General that is in force under subsection 4(1); or
 
-                     (c)  service by the member in an area specified in a declaration by the Governor‑General that is in force under subsection 4(2).
+                     (c)  service by the member in an area specified in a declaration by the Governor-General that is in force under subsection 4(2).
 
                     <a name="aircraft"></a>**_aircraft_** includes any machine that can derive support in the atmosphere from the reactions of the air.
 
                     <a name="airman"></a>**_airman_** means a member of the Australian Air Force, not being an officer.
 
-                    <a name="allied-forc"></a>**_allied force_** means a force of another country that is acting in co‑operation with the Defence Force.
+                    <a name="allied-forc"></a>**_allied force_** means a force of another country that is acting in co-operation with the Defence Force.
 
                     <a name="ancillari-offenc"></a>**_ancillary offence_**, in relation to an offence against this Act or the regulations, means an offence against:
 
@@ -900,7 +900,7 @@ that relates to the first Territory offence.
 
                     <a name="countri"></a>**_another country_** means a country other than Australia.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="appropri-author"></a>**_appropriate authority_**:
 
@@ -980,7 +980,7 @@ that relates to the first Territory offence.
 
                      (b)  a member of the Reserves who:
 
-                              (i)  is rendering continuous full‑time service; or
+                              (i)  is rendering continuous full-time service; or
 
                              (ii)  is on duty or in uniform.
 
@@ -1034,7 +1034,7 @@ that relates to the first Territory offence.
 
                     <a name="mical-practition"></a>**_medical practitioner_** means a person who is registered or licensed as a medical practitioner under a law of a State or Territory that provides for the registration or licensing of medical practitioners.
 
-                    <a name="member-below-non-commiss-rank"></a>**_member below non‑commissioned rank_** means a member of the Defence Force who is not an officer, a warrant officer or a non‑commissioned officer.
+                    <a name="member-below-non-commiss-rank"></a>**_member below non-commissioned rank_** means a member of the Defence Force who is not an officer, a warrant officer or a non-commissioned officer.
 
                     <a name="mutini"></a>**_mutiny_** means a combination between persons who are, or of whom at least 2 are, members of the Defence Force:
 
@@ -1042,17 +1042,17 @@ that relates to the first Territory offence.
 
                      (b)  to resist such lawful authority in such a manner as to prejudice substantially the operational efficiency of the Defence Force or of, or of a part of, an allied force.
 
-                    <a name="non-commiss-offic"></a>**_non‑commissioned officer_** means:
+                    <a name="non-commiss-offic"></a>**_non-commissioned officer_** means:
 
                      (a)  a sailor holding a rank not higher than the rank of chief petty officer and not lower than the rank of leading seaman;
 
-                     (b)  a soldier holding a rank not higher than the rank of staff sergeant and not lower than the rank of lance‑corporal; or
+                     (b)  a soldier holding a rank not higher than the rank of staff sergeant and not lower than the rank of lance-corporal; or
 
                      (c)  an airman holding a rank not higher than the rank of flight sergeant and not lower than the rank of corporal.
 
                     <a name="offic"></a>**_officer_** means:
 
-                     (a)  in relation to the Australian Navy—a person appointed as an officer of the Australian Navy, including a person who holds the rank in the Australian Navy of Acting Sub‑Lieutenant or of Midshipman; and
+                     (a)  in relation to the Australian Navy—a person appointed as an officer of the Australian Navy, including a person who holds the rank in the Australian Navy of Acting Sub-Lieutenant or of Midshipman; and
 
                      (b)  in relation to the Australian Army and the Australian Air Force—a person appointed as an officer of the Australian Army or the Australian Air Force.
 
@@ -1090,17 +1090,17 @@ that relates to the first Territory offence.
 
                      (b)  the _Defence Act 1903_ in its application to and in relation to the Australian Navy and the members of the Australian Navy;
 
-                     (c)  where any law of the United Kingdom applied during that period to or in relation to the Australian Navy or the members of the Australian Navy—that law in that application;
+                     (c)  where any law of the United   Kingdom applied during that period to or in relation to the Australian Navy or the members of the Australian Navy—that law in that application;
 
                      (d)  the _Defence Act 1903_ and the regulations in force under that Act in their application to and in relation to the Australian Army and the members of the Australian Army;
 
-                     (e)  where any law of the United Kingdom applied during that period to or in relation to the Australian Army or the members of the Australian Army—that law in that application;
+                     (e)  where any law of the United   Kingdom applied during that period to or in relation to the Australian Army or the members of the Australian Army—that law in that application;
 
                       (f)  the _Air Force Act 1923_ and regulations in force under that Act;
 
                      (g)  the _Defence Act 1903_ in its application to and in relation to the Australian Air Force and the members of the Australian Air Force;
 
-                     (h)  where any law of the United Kingdom applied during that period to or in relation to the Australian Air Force or the members of the Australian Air Force—that law in that application.
+                     (h)  where any law of the United   Kingdom applied during that period to or in relation to the Australian Air Force or the members of the Australian Air Force—that law in that application.
 
                     <a name="prison"></a>**_prisoner_** means a convicted person on whom a punishment of imprisonment has been imposed.
 
@@ -1240,7 +1240,7 @@ Note 3:       The laws of the Australian Capital Territory in force 
 
                     <a name="enemi"></a>**_the enemy_** means a body politic or an armed force engaged in operations of war against Australia or an allied force and includes any force (including mutineers and pirates) engaged in armed hostilities against the Defence Force or an allied force.
 
-                    <a name="video-link"></a>**_video link_** means facilities (for example, closed‑circuit television facilities) that enable audio and visual communication between persons in different places.
+                    <a name="video-link"></a>**_video link_** means facilities (for example, closed-circuit television facilities) that enable audio and visual communication between persons in different places.
 
                     <a name="warrant-offic"></a>**_warrant officer_** means a sailor, soldier or airman who holds the rank of warrant officer.
 
@@ -1248,7 +1248,7 @@ Note 3:       The laws of the Australian Capital Territory in force 
 
              (3)  A reference in this Act to an arm of the Defence Force shall be read as a reference to the Australian Navy, the Australian Army or the Australian Air Force, as the case may be.
 
-          (3A)  Before the Governor‑General makes a regulation prescribing a provision of a law for the purposes of paragraph (e) of the definition of **_ancillary Territory offence_** in subsection (1), the Minister must be satisfied that the provision is equivalent to, or has the same effect as, a provision referred to in paragraph (c) or (d) of that definition.
+          (3A)  Before the Governor-General makes a regulation prescribing a provision of a law for the purposes of paragraph (e) of the definition of **_ancillary Territory offence_** in subsection (1), the Minister must be satisfied that the provision is equivalent to, or has the same effect as, a provision referred to in paragraph (c) or (d) of that definition.
 
              (4)  For the purposes of subparagraph (b)(ii) of the definition of **_defence member_** in subsection (1):
 
@@ -1324,9 +1324,9 @@ the detainee shall be taken, for the purposes of this Act, to have escaped from 
 
 ##### <a id="4"></a>4  Declaration of active service for disciplinary purposes
 
-             (1)  The Governor‑General may, by writing under his or her hand, declare a specified force to be on active service for the purposes of this Act.
+             (1)  The Governor-General may, by writing under his or her hand, declare a specified force to be on active service for the purposes of this Act.
 
-             (2)  The Governor‑General may, by writing under his or her hand, declare the members of the Defence Force who are serving in a specified area to be on active service for the purposes of this Act.
+             (2)  The Governor-General may, by writing under his or her hand, declare the members of the Defence Force who are serving in a specified area to be on active service for the purposes of this Act.
 
              (3)  A copy of a declaration made under subsection (1) or (2) shall be published in the _Gazette_.
 
@@ -1390,7 +1390,7 @@ the detainee shall be taken, for the purposes of this Act, to have escaped from 
 
                    This Act extends to every external Territory.
 
-##### <a id="9"></a>9  Extra‑territorial operation of Act
+##### <a id="9"></a>9  Extra-territorial operation of Act
 
                    The provisions of this Act apply, according to their tenor, both in and outside Australia but do not apply in relation to any person outside Australia unless that person is a defence member or a defence civilian.
 
@@ -1436,7 +1436,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ### Division 1—Offences relating to operations against the enemy
 
-##### <a id="15"></a>15  Abandoning or surrendering a post etc.
+##### <a id="15"></a>15  Abandoning or surrendering a post etc.
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -1446,7 +1446,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the person abandons or surrenders to the enemy the place or thing mentioned in paragraph (a).
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1462,7 +1462,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  by engaging in the conduct, the person intends to bring about that result.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1476,7 +1476,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person serves with the enemy, aids the enemy in prosecuting hostilities or measures likely to influence morale or aids the enemy in any other manner that is not authorised by international law.
 
-                    Maximum punishment:     Imprisonment for life.
+                    Maximum punishment:        Imprisonment for life.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1486,7 +1486,7 @@ Note:          The defendant bears a legal burden in relation 
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if the person provides the enemy with, or permits or enables the enemy to have access to, arms, ammunition, vehicles, supplies of any description or any other thing likely to assist the enemy.
 
-                    Maximum punishment:     Imprisonment for life.
+                    Maximum punishment:        Imprisonment for life.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1502,9 +1502,9 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  that other person is not a prisoner of war; and
 
-                     (d)  the first‑mentioned person knows that the other person is an enemy person.
+                     (d)  the first-mentioned person knows that the other person is an enemy person.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1524,7 +1524,7 @@ Note:          The defendant bears a legal burden in relation 
 
                             (iii)  alters or interferes with apparatus for giving or receiving a signal, message or other communication.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1542,7 +1542,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person does not use his or her utmost exertions to carry those orders into effect.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1556,7 +1556,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the conduct imperils the success of operations against the enemy.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1566,7 +1566,7 @@ Note:          The defendant bears a legal burden in relation 
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if the person communicates with, or gives intelligence to, the enemy.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1584,7 +1584,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  the person knows or could reasonably be expected to know that the information is likely to be directly or indirectly  useful in operations against the enemy.
 
-                    Maximum punishment:     Imprisonment for 15 years.
+                    Maximum punishment:        Imprisonment for 15 years.
 
              (2)  It is a defence if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1598,7 +1598,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person engages in that conduct with intent to assist the enemy.
 
-                    Maximum punishment:     Imprisonment for life.
+                    Maximum punishment:        Imprisonment for life.
 
              (2)  In paragraph (1)(a), strict liability applies to the physical element of circumstance, that the conduct constitutes an offence against the section concerned.
 
@@ -1618,7 +1618,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the member does not properly perform his or her duty in any other manner in attacking or defending against the enemy.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  It is a defence if the member proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -1638,7 +1638,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  by spreading the report the person intends to create despondency or unnecessary alarm.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -1650,7 +1650,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  by spreading the report the person intends to create despondency or unnecessary alarm.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
 ##### <a id="19"></a>19  Conduct after capture by the enemy
 
@@ -1662,7 +1662,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the member does not take those steps.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -1672,7 +1672,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the member prevents or discourages the other person from taking those steps.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (3)  A defence member is guilty of an offence if:
 
@@ -1682,7 +1682,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the conduct is detrimental to other persons also captured by the enemy.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (4)  A defence member is guilty of an offence if:
 
@@ -1690,9 +1690,9 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the member is in a position of authority over other persons also captured by the enemy; and
 
-                     (c)  the member ill‑treats those other persons.
+                     (c)  the member ill-treats those other persons.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
 ### Division 2—Mutiny, desertion and unauthorised absence
 
@@ -1700,7 +1700,7 @@ Note:          The defendant bears a legal burden in relation 
 
              (1)  A defence member who takes part in a mutiny is guilty of an offence.
 
-                    Maximum punishment:     Imprisonment for 10 years.
+                    Maximum punishment:        Imprisonment for 10 years.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -1708,7 +1708,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the mutiny’s object, or one of its objects, is the refusal or avoidance of duty or service in connection with operations against the enemy or the impeding of the performance of such a duty or service.
 
-                    Maximum punishment:     Imprisonment for life.
+                    Maximum punishment:        Imprisonment for life.
 
 ##### <a id="21"></a>21  Failing to suppress mutiny
 
@@ -1724,7 +1724,7 @@ Note:          The defendant bears a legal burden in relation 
 
                              (ii)  to report to proper authority without delay that the mutiny is taking place or is intended.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -1744,7 +1744,7 @@ Note:          The defendant bears a legal burden in relation 
 
                              (ii)  to report to proper authority without delay that the mutiny is taking place or is intended.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
 ##### <a id="22"></a>22  Desertion
 
@@ -1754,7 +1754,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  without leave, and with the intention of avoiding that service, departs from, or does not attend at, his or her place of duty.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -1764,7 +1764,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the conduct manifests an intention to avoid active service.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
 ##### <a id="23"></a>23  Absence from duty
 
@@ -1774,7 +1774,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  does not attend for the duty.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  A defence member is guilty of an offence if the member:
 
@@ -1782,7 +1782,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  ceases to perform the duty before he or she is permitted to do so.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (3)  An offence under this section is an offence of strict liability.
 
@@ -1796,7 +1796,7 @@ Note:          The defendant bears a legal burden in relation 
 
              (1)  A defence member who is absent without leave is guilty of an offence.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  An offence under subsection (1) is an offence of strict liability.
 
@@ -1816,7 +1816,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  that person is a superior officer.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  Strict liability applies to paragraph (1)(b).
 
@@ -1834,7 +1834,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person is a superior officer.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -1844,7 +1844,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the person is a superior officer.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (3)  An offence against this section is an offence of strict liability.
 
@@ -1864,7 +1864,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the member disobeys the command.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  Strict liability applies to paragraphs (1)(b) and (c).
 
@@ -1888,9 +1888,9 @@ Note:          The defendant bears a legal burden in relation 
 
                              (ii)  affects the safety of the ship, aircraft or vehicle or of the persons on board the ship, aircraft or vehicle; and
 
-                     (d)  the first‑mentioned person does not comply with the direction.
+                     (d)  the first-mentioned person does not comply with the direction.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  Strict liability applies to paragraph (1)(d).
 
@@ -1908,7 +1908,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person does not comply with the order.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  An offence under subsection (1) is an offence of strict liability.
 
@@ -1928,7 +1928,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  that other person is on guard duty.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -1940,7 +1940,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  that other person is on guard duty.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
 ##### <a id="31"></a>31  Obstructing a police member
 
@@ -1954,7 +1954,7 @@ Note:          The defendant bears a legal burden in relation 
 
                              (ii)  is lawfully exercising authority under or on behalf of a service police officer.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -1968,7 +1968,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the member refuses to assist that other person.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (3)  In paragraphs (1)(b) and (2)(b), strict liability applies to the physical element of circumstance, that the person was a police member, or a person lawfully exercising authority under or on behalf of a service police officer.
 
@@ -1990,7 +1990,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  leaves his or her post before being regularly relieved or otherwise absents himself or herself from a place where it is the member’s duty to be.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  Strict liability applies to paragraphs (1)(a), (b), (c) and (d).
 
@@ -2004,7 +2004,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  engages in conduct that constitutes an offence against subsection (1).
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (4)  Strict liability applies to paragraph (3)(c).
 
@@ -2028,17 +2028,17 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  uses insulting or provocative words to another person.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
 ##### <a id="34"></a>34  Assaulting a subordinate
 
              (1)  A defence member is guilty of an offence if:
 
-                     (a)  the member assaults or ill‑treats a person; and
+                     (a)  the member assaults or ill-treats a person; and
 
                      (b)  the person is a member of the Defence Force who is of subordinate rank to the member.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  Strict liability applies to paragraph (1)(b).
 
@@ -2084,11 +2084,11 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the conduct causes, or is likely to cause, the death of or grievous bodily harm to another person; and
 
-                     (d)  the first‑mentioned person knows of the matter mentioned in paragraph (c); and
+                     (d)  the first-mentioned person knows of the matter mentioned in paragraph (c); and
 
-                     (e)  where the person mentioned in paragraph (c) is an enemy person—the conduct is not in the execution of the first‑mentioned person’s duty.
+                     (e)  where the person mentioned in paragraph (c) is an enemy person—the conduct is not in the execution of the first-mentioned person’s duty.
 
-                    Maximum punishment:     Imprisonment for 10 years.
+                    Maximum punishment:        Imprisonment for 10 years.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2104,11 +2104,11 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the conduct causes, or is likely to cause, the death of or grievous bodily harm to another person; and
 
-                     (d)  the first‑mentioned person is reckless as to the matter mentioned in paragraph (c); and
+                     (d)  the first-mentioned person is reckless as to the matter mentioned in paragraph (c); and
 
-                     (e)  where the person mentioned in paragraph (c) is an enemy person—the conduct is not in the execution of the first‑mentioned person’s duty.
+                     (e)  where the person mentioned in paragraph (c) is an enemy person—the conduct is not in the execution of the first-mentioned person’s duty.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (3)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2124,11 +2124,11 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the conduct causes, or is likely to cause, the death of or grievous bodily harm to another person; and
 
-                     (d)  the first‑mentioned person is negligent as to the matter mentioned in paragraph (c); and
+                     (d)  the first-mentioned person is negligent as to the matter mentioned in paragraph (c); and
 
-                     (e)  where the person mentioned in paragraph (c) is an enemy person—the conduct is not in the execution of the first‑mentioned person’s duty.
+                     (e)  where the person mentioned in paragraph (c) is an enemy person—the conduct is not in the execution of the first-mentioned person’s duty.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
 ##### <a id="36A"></a>36A  Unauthorised discharge of weapon
 
@@ -2162,7 +2162,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the member is intoxicated (see subsection (3)).
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  An offence under this section is an offence of strict liability.
 
@@ -2178,7 +2178,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  by act or omission, causes himself or herself to suffer from a sickness or disability or prolongs or aggravates a sickness or disability from which he or she is suffering.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -2190,7 +2190,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (d)  the member knows that the representation is false.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
 ### Division 5—Offences relating to ships, vehicles, aircraft and weapons
 
@@ -2204,7 +2204,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the member intends that the conduct will have that result.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -2214,7 +2214,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the member is reckless as to whether the conduct will have that result.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (3)  A defence member is guilty of an offence if:
 
@@ -2224,7 +2224,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the member is negligent as to whether the conduct will have that result.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
 ##### <a id="40"></a>40  Driving while intoxicated
 
@@ -2234,7 +2234,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the person is under the influence of intoxicating liquor or a drug to such an extent as to be incapable of having proper control of the vehicle.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2242,7 +2242,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the person is under the influence of intoxicating liquor or a drug to such an extent as to be incapable of having proper control of the vehicle.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (3)  An offence under this section is an offence of absolute liability.
 
@@ -2256,7 +2256,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (b)  the person does so at a speed, or in a manner, dangerous to another person in that place.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2264,7 +2264,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (b)  the person does so at a speed, or in a manner, dangerous to another person on that land.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (3)  Absolute liability applies to paragraphs (1)(a) and (2)(a).
 
@@ -2286,7 +2286,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the person uses a service vehicle for an unauthorised purpose.
 
-                    Maximum punishment:     Imprisonment for 3 months.
+                    Maximum punishment:        Imprisonment for 3 months.
 
              (2)  An offence under this section is an offence of strict liability.
 
@@ -2304,7 +2304,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person does so without due care and attention or without reasonable consideration for another person in that place.
 
-                    Maximum punishment:     
+                    Maximum punishment:        
 
                      (c)  if the person is a member of the Defence Force—a fine of the amount of the member’s pay for 7 days; or
 
@@ -2316,7 +2316,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person does so without due care and attention or without reasonable consideration for another person on that land.
 
-                    Maximum punishment:     
+                    Maximum punishment:        
 
                      (c)  if the person is a member of the Defence Force—a fine of the amount of the member’s pay for 7 days; or
 
@@ -2338,7 +2338,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (d)  the member is reckless or negligent as to the matter in paragraph (c).
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  Strict liability applies to paragraph (1)(b).
 
@@ -2358,7 +2358,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the person does not take reasonable care to ensure the accuracy of the certificate, document or entry.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
 ### Division 5A—Property offences
 
@@ -2374,7 +2374,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the person intends that result.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2384,7 +2384,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the person is reckless as to that result.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (3)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2394,7 +2394,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the person is negligent as to that result.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (4)  It is a defence to a charge under subsection (1) if the person proves that he or she had a reasonable excuse for engaging in the relevant conduct.
 
@@ -2408,13 +2408,13 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the property is, or forms part of, service property issued for the person’s use, or entrusted to the person’s care, in connection with the person’s duties.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  Absolute liability applies to paragraph (1)(a).
 
 Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
-             (3)  It is a defence if the person proves that he or she took reasonable steps for the safe‑keeping of the lost property.
+             (3)  It is a defence if the person proves that he or she took reasonable steps for the safe-keeping of the lost property.
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (3). See section 13.4 of the _Criminal Code_.
 
@@ -2426,7 +2426,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the person has no lawful authority for being in possession of the property.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  An offence under subsection (1) is an offence of strict liability.
 
@@ -2452,7 +2452,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the property may reasonably be suspected of having been unlawfully obtained.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  An offence under subsection (1) is an offence of strict liability.
 
@@ -2508,7 +2508,7 @@ Note:          In the case of the offence of theft, see also s
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if the person dishonestly appropriates property belonging to another with the intention of permanently depriving the other of the property.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  For the purposes of this Act, an offence against subsection (1) is to be known as the offence of theft.
 
@@ -2626,7 +2626,7 @@ Note:          See also paragraph 47J(2)(a).
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if the person dishonestly receives stolen property, knowing or believing the property to be stolen.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  For the purposes of this Act, an offence against subsection (1) is to be known as the offence of receiving.
 
@@ -2738,7 +2738,7 @@ Definition
 
                      (c)  takes any vehicle, equipment or stores captured from or abandoned by the enemy.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -2748,7 +2748,7 @@ Definition
 
                      (c)  the person knows of those circumstances.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (3)  It is a defence to a charge under this section if the person proves that he or she took or received the property for the service of the Commonwealth or had other reasonable excuse for the relevant conduct.
 
@@ -2766,7 +2766,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the person disobeys the order.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  Strict liability applies to paragraphs (1)(b) and (c).
 
@@ -2792,7 +2792,7 @@ Note:          The defendant bears a legal burden in relation 
 
                             (iv)  has him or her in custody.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  In paragraph (1)(b), strict liability applies to the physical element of circumstance, that the conduct mentioned in that paragraph is lawful.
 
@@ -2812,7 +2812,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the member does not take the action.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -2822,7 +2822,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  the member does not take the action.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (3)  It is a defence to a charge under this section if the member proves that he or she had a reasonable excuse for not taking the required action.
 
@@ -2832,7 +2832,7 @@ Note:          The defendant bears a legal burden in relation 
 
                    A person who is a defence member or a defence civilian is guilty of an offence if the person escapes from custody.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
 ##### <a id="52"></a>52  Giving false evidence
 
@@ -2846,7 +2846,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  the statement is material in those proceedings.
 
-                    Maximum punishment:     Imprisonment for 5 years.
+                    Maximum punishment:        Imprisonment for 5 years.
 
              (2)  A person is not liable to be convicted of an offence under this section only on the evidence of one witness as to the falsity of the statement alleged to be false.
 
@@ -2862,7 +2862,7 @@ Note:          The defendant bears a legal burden in relation 
 
                              (ii)  fails to appear and report himself or herself from day to day and has not been excused or released by the tribunal from further attendance.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (2)  A person who is a defence member or a defence civilian is guilty of an offence if the person is appearing as a witness before a service tribunal and the person:
 
@@ -2872,7 +2872,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (c)  refuses or fails to produce a document that the person was required to produce by a summons served on the person, as provided for by the rules of procedure, or by an order.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (3)  It is a defence to a charge under subsection (1) or (2) if the person proves that he or she had a reasonable excuse for the relevant conduct.
 
@@ -2888,7 +2888,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (d)  engages in any other conduct that would, if a service tribunal were a court of record, constitute a contempt of that court.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (5)  If an offence under subsection (4) is committed by a person in relation to a service tribunal that is a court martial or a Defence Force magistrate, during proceedings before the tribunal, the tribunal, if it considers it expedient to do so, may then and there order that the person be taken into custody and call on the person to show cause why the person should not be convicted of the offence.
 
@@ -2906,7 +2906,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  by act or omission, the member intentionally allows the person to escape.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -2916,15 +2916,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the member has no authority to release the person.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (3)  A person who is a defence member or a defence civilian is guilty of an offence if the person intentionally facilitates the escape of a person from custody or a place of confinement.
 
-Maximum punishment:     Imprisonment for 12 months.
+Maximum punishment:        Imprisonment for 12 months.
 
-             (4)  A person who is a defence member or a defence civilian is guilty of an offence if, with intent to facilitate an escape from a place of confinement of another person, the first‑mentioned person conveys anything into that place.
+             (4)  A person who is a defence member or a defence civilian is guilty of an offence if, with intent to facilitate an escape from a place of confinement of another person, the first-mentioned person conveys anything into that place.
 
-Maximum punishment:     Imprisonment for 12 months.
+Maximum punishment:        Imprisonment for 12 months.
 
 ### Division 6A—Custodial offences
 
@@ -2980,7 +2980,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (e)  the person does not make an entry in a service document that it is the person’s duty to make so that the document is rendered false in a material particular.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  In subsection (1):
 
@@ -3012,7 +3012,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (e)  the application arises out of, or is based on, membership of, or service in or in connection with, the Defence Force.
 
-                    Maximum punishment:     Imprisonment for 12 months.
+                    Maximum punishment:        Imprisonment for 12 months.
 
              (2)  Subsection (1) does not apply as a result of subparagraph (1)(b)(i) if the statement is not false or misleading in a material particular.
 
@@ -3046,7 +3046,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (e)  the application arises out of, or is based on, membership of, or service in or in connection with, the Defence Force.
 
-                    Maximum punishment:     Imprisonment for 6 months.
+                    Maximum punishment:        Imprisonment for 6 months.
 
              (5)  Subsection (4) does not apply as a result of subparagraph (4)(b)(i) if the statement is not false or misleading in a material particular.
 
@@ -3076,7 +3076,7 @@ Note:          A defendant bears an evidential burden in relat
 
 and as a result of that application, the person is appointed to or enlisted in the Defence Force.
 
-                    Maximum punishment:     Imprisonment for 3 months.
+                    Maximum punishment:        Imprisonment for 3 months.
 
              (2)  A defence member is guilty of an offence if:
 
@@ -3090,7 +3090,7 @@ and as a result of that application, the person is appointed to or enlisted in t
 
                      (c)  with intent to deceive, the member does not disclose, if and when lawfully required to do so, particulars of any prior service in the Defence Force.
 
-                    Maximum punishment:     Imprisonment for 3 months.
+                    Maximum punishment:        Imprisonment for 3 months.
 
 ##### <a id="58"></a>58  Unauthorised disclosure of information
 
@@ -3102,7 +3102,7 @@ and as a result of that application, the person is appointed to or enlisted in t
 
                      (c)  the disclosure is likely to be prejudicial to the security or defence of Australia.
 
-                    Maximum punishment:     Imprisonment for 2 years.
+                    Maximum punishment:        Imprisonment for 2 years.
 
              (2)  Strict liability applies to paragraph (1)(c).
 
@@ -3124,7 +3124,7 @@ Selling, dealing or trafficking in a prohibited drug—defence member or defence
 
                      (c)  knows the nature of the drug.
 
-                    Maximum punishment:     Imprisonment for 10 years.
+                    Maximum punishment:        Imprisonment for 10 years.
 
              (2)  It is a defence to a charge under subsection (1) if the person proves that he or she had lawful authority for the conduct mentioned in paragraph (1)(b).
 
@@ -3206,7 +3206,7 @@ Administering a prohibited drug—defence member or defence civilian in Australi
 
           (6A)  It is a defence to a charge under subsection (6) if the person proves that he or she had lawful authority for the conduct mentioned in paragraph (6)(b).
 
-Possessing non‑trafficable quantity of a prohibited drug—defence member in Australia
+Possessing non-trafficable quantity of a prohibited drug—defence member in Australia
 
              (7)  A defence member is guilty of an offence if the member:
 
@@ -3262,7 +3262,7 @@ Definitions
 
              (1)  A defence member is guilty of an offence if the member does an act that is likely to prejudice the discipline of, or bring discredit on, the Defence Force.
 
-                    Maximum punishment:     Imprisonment for 3 months.
+                    Maximum punishment:        Imprisonment for 3 months.
 
           (1A)  A defence member is guilty of an offence if:
 
@@ -3270,7 +3270,7 @@ Definitions
 
                      (b)  the omission is likely to prejudice the discipline of, or bring discredit on, the Defence Force.
 
-                    Maximum punishment:     Imprisonment for 3 months.
+                    Maximum punishment:        Imprisonment for 3 months.
 
              (2)  An offence against subsection (1) or (1A) is an offence of strict liability.
 
@@ -3330,11 +3330,11 @@ Note:          Section 10 of this Act applies Chapter 2 of
 
                      (b)  the conduct would constitute the commission of a service offence.
 
-                    Maximum punishment:     
+                    Maximum punishment:        
 
-                     (c)  if the last‑mentioned offence is punishable by a fixed punishment—that fixed punishment; or
+                     (c)  if the last-mentioned offence is punishable by a fixed punishment—that fixed punishment; or
 
-                     (d)  otherwise—a punishment that is not more severe than the maximum punishment for the last‑mentioned offence.
+                     (d)  otherwise—a punishment that is not more severe than the maximum punishment for the last-mentioned offence.
 
              (2)  Strict liability applies to paragraph (1)(b).
 
@@ -3426,7 +3426,7 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
                      (n)  extra duties for a period not exceeding 7 days;
 
-                   (na)  extra drill for not more than 2 sessions of 30 minutes each per day for a period not exceeding 3 days;
+                    (na)  extra drill for not more than 2 sessions of 30 minutes each per day for a period not exceeding 3 days;
 
                      (p)  reprimand.
 
@@ -3466,7 +3466,7 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
              (3)  The officer in charge of a detention centre in which a detainee subject to a custodial punishment is undergoing a punishment of detention may moderate the consequences of the custodial punishment in relation to the detainee in such manner as the officer thinks appropriate having regard to the particular circumstances of the case and to any directions, in writing, of the Chief of the Defence Force or a service chief.
 
-##### <a id="68C"></a>68C  Custodial punishments may be imposed for certain non‑custodial service offences
+##### <a id="68C"></a>68C  Custodial punishments may be imposed for certain non-custodial service offences
 
              (1)  Subject to subsection 71(4), where a person is convicted of a service offence to which this subsection applies, a service tribunal may, in lieu of imposing a punishment of a kind referred to in subsection 68(1), impose a custodial punishment on the person in respect of the conviction.
 
@@ -3526,7 +3526,7 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
              (1)  A service tribunal shall not impose a punishment of imprisonment on a member of the Defence Force whom it has convicted of a service offence unless the tribunal also imposes on that member in respect of that conviction the punishment of dismissal from the Defence Force.
 
-          (1A)  A service tribunal must not impose on a non‑commissioned officer who has been convicted of a service offence a punishment of detention unless the tribunal also imposes the punishment of reduction in rank to a rank below non‑commissioned rank.
+          (1A)  A service tribunal must not impose on a non-commissioned officer who has been convicted of a service offence a punishment of detention unless the tribunal also imposes the punishment of reduction in rank to a rank below non-commissioned rank.
 
              (2)  A service tribunal shall not impose a punishment of detention on a member of the Defence Force who has been convicted of a service offence if the member, at the time of conviction, had not attained the age of 18 years.
 
@@ -3544,7 +3544,7 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
                      (b)  the person were convicted in that Territory.
 
-             (2)  The fixing of a non‑parole period by a service tribunal under the provisions of the _Crimes Act 1914_ as applied by virtue of subsection (1) to the service tribunal shall be taken, for the purposes of this Act, to be an order fixing that non‑parole period made by the service tribunal under this Part.
+             (2)  The fixing of a non-parole period by a service tribunal under the provisions of the _Crimes Act 1914_ as applied by virtue of subsection (1) to the service tribunal shall be taken, for the purposes of this Act, to be an order fixing that non-parole period made by the service tribunal under this Part.
 
 ##### <a id="73"></a>73  Imposition of fines
 
@@ -3634,9 +3634,9 @@ the punishments so imposed (including the punishment the suspension of which is 
 
 the reviewing authority may order that the punishments so imposed (including the punishment the suspension of which is revoked) shall be cumulative.
 
-             (5)  A service tribunal or a reviewing authority that has revoked a suspension of a punishment on the recommendation of a service tribunal shall not order that prescribed punishments shall be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first‑mentioned punishments) that the tribunal could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the tribunal.
+             (5)  A service tribunal or a reviewing authority that has revoked a suspension of a punishment on the recommendation of a service tribunal shall not order that prescribed punishments shall be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first-mentioned punishments) that the tribunal could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the tribunal.
 
-          (5A)  A reviewing authority that has revoked the suspension of the whole or a part of a punishment under subsection 80(4), on the recommendation of a service tribunal, must not order that prescribed punishments are to be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first‑mentioned punishments) that the service tribunal could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the service tribunal.
+          (5A)  A reviewing authority that has revoked the suspension of the whole or a part of a punishment under subsection 80(4), on the recommendation of a service tribunal, must not order that prescribed punishments are to be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first-mentioned punishments) that the service tribunal could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the service tribunal.
 
              (6)  Where:
 
@@ -3644,7 +3644,7 @@ the reviewing authority may order that the punishments so imposed (including the
 
                      (b)  the service tribunal imposes on the person for that service offence a punishment of detention;
 
-that last‑mentioned punishment shall commence at the expiration of the period of detention that the person was serving when the offence was committed.
+that last-mentioned punishment shall commence at the expiration of the period of detention that the person was serving when the offence was committed.
 
 ##### <a id="75"></a>75  Conviction without punishment
 
@@ -3910,7 +3910,7 @@ Note:          A charge referred to a Defence Force magistrate
 
                             (iii)  a defence civilian;
 
-                     (b)  a warrant officer or a non‑commissioned officer has a power of arrest over a sailor, soldier or airman in respect of whom he or she is a superior officer;
+                     (b)  a warrant officer or a non-commissioned officer has a power of arrest over a sailor, soldier or airman in respect of whom he or she is a superior officer;
 
                      (c)  a member of:
 
@@ -3928,7 +3928,7 @@ Note:          A charge referred to a Defence Force magistrate
 
                               (i)  an officer has a power of arrest over any other officer; and
 
-                             (ii)  a warrant officer or a non‑commissioned officer has a power of arrest over any other sailor, soldier or airman.
+                             (ii)  a warrant officer or a non-commissioned officer has a power of arrest over any other sailor, soldier or airman.
 
              (3)  A power of arrest under subsection (1) may be exercised:
 
@@ -4212,7 +4212,7 @@ shall cause the imposition, variation or revocation to be notified to the person
 
                      (a)  a police member; or
 
-                     (b)  an officer, warrant officer or non‑commissioned officer (not being a police member) engaged in the investigation of a service offence.
+                     (b)  an officer, warrant officer or non-commissioned officer (not being a police member) engaged in the investigation of a service offence.
 
                     <a name="relev-act"></a>**_relevant act_**, in relation to a service offence, means:
 
@@ -4410,7 +4410,7 @@ the investigating officer must offer the services of another legal practitioner 
 
                      (a)  if the person in custody is a member of the Australian Navy—a member of the Australian Navy holding the rank of Commander or a higher rank; or
 
-                     (b)  if the person in custody is a member of the Australian Army—a member of the Australian Army holding the rank of Lieutenant‑Colonel or a higher rank; or
+                     (b)  if the person in custody is a member of the Australian Army—a member of the Australian Army holding the rank of Lieutenant-Colonel or a higher rank; or
 
                      (c)  if the person in custody is a member of the Australian Air Force—a member of the Australian Air Force holding the rank of Wing Commander or a higher rank.
 
@@ -4482,11 +4482,11 @@ shall be deemed not to be made voluntarily.
 
                      (c)  if a transcript of the tape recording is prepared—make a copy of the transcript available to the person or his or her legal representative within 7 days after the preparation of the transcript.
 
-             (3)  In proceedings for a service offence, evidence to which this section applies may be admitted even if the requirements of this section have not been complied with, or there is insufficient evidence of compliance with those requirements, if, having regard to the nature of and the reasons for the non‑compliance or insufficiency of evidence and any other relevant matters, the service tribunal or, in the case of a court martial, the judge advocate of the court martial, is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
+             (3)  In proceedings for a service offence, evidence to which this section applies may be admitted even if the requirements of this section have not been complied with, or there is insufficient evidence of compliance with those requirements, if, having regard to the nature of and the reasons for the non-compliance or insufficiency of evidence and any other relevant matters, the service tribunal or, in the case of a court martial, the judge advocate of the court martial, is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
 
-             (4)  In proceedings for a service offence, evidence to which this section applies may be admitted even if a provision of subsection (2) has not been complied with if, having regard to the reasons for the non‑compliance and any other relevant matters, the service tribunal or, in the case of a court martial, the judge advocate of the court martial, is satisfied that it was not practicable to comply with that provision.
+             (4)  In proceedings for a service offence, evidence to which this section applies may be admitted even if a provision of subsection (2) has not been complied with if, having regard to the reasons for the non-compliance and any other relevant matters, the service tribunal or, in the case of a court martial, the judge advocate of the court martial, is satisfied that it was not practicable to comply with that provision.
 
-             (5)  If the judge advocate of a court martial permits evidence to be given under subsection (3) or (4), the judge advocate must inform the members of the court martial of the non‑compliance with the requirements of this section, or of the absence of sufficient evidence of compliance with those requirements, as the case may be, and give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
+             (5)  If the judge advocate of a court martial permits evidence to be given under subsection (3) or (4), the judge advocate must inform the members of the court martial of the non-compliance with the requirements of this section, or of the absence of sufficient evidence of compliance with those requirements, as the case may be, and give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
 
              (6)  The explanation referred to in subparagraph (1)(b)(v) is to be in accordance with the following form:
 
@@ -4544,7 +4544,7 @@ and the requirements of subsections (5) and (6) are observed in respect of the
 
                      (b)  inform the accused that the other sound recording will be retained by the Defence Force and may be used in evidence; and
 
-                     (c)  advise the accused to make arrangements for the safe‑keeping of the sound recording handed to him or her so that it will be available for comparison with the sound recording retained by the Defence Force and, if requested to do so by the accused, afford the accused an opportunity of making arrangements for the safe‑keeping of the sound recording on his or her behalf.
+                     (c)  advise the accused to make arrangements for the safe-keeping of the sound recording handed to him or her so that it will be available for comparison with the sound recording retained by the Defence Force and, if requested to do so by the accused, afford the accused an opportunity of making arrangements for the safe-keeping of the sound recording on his or her behalf.
 
              (6)  Where a sound recording has been handed to a person in accordance with subsection (5), the investigating officer in charge of the investigation shall, upon request, provide, as soon as practicable, reasonable facilities to the accused or the accused’s legal practitioner to enable the sound recording to be reproduced in sound.
 
@@ -4562,9 +4562,9 @@ and the requirements of subsections (5) and (6) are observed in respect of the
 
 the prosecution is not prevented from leading evidence of a confession by reason only of anything said by the accused, during, or at the end of, the reading to the accused of a record in writing containing the confession, concerning the accuracy of the record, but this subsection does not prevent a judge advocate from directing the members of a court martial with respect to the weight to be accorded to the statement as evidence.
 
-           (10)  A service tribunal or, in the case of a court martial, the judge advocate of the court martial, may admit evidence of a confession notwithstanding that the requirements of this section have not been complied with, or that there is insufficient evidence of compliance with those requirements, if, having regard to the nature of, and the reasons for, the non‑compliance or insufficiency of evidence and any other relevant matters, the service tribunal or the judge advocate is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
+           (10)  A service tribunal or, in the case of a court martial, the judge advocate of the court martial, may admit evidence of a confession notwithstanding that the requirements of this section have not been complied with, or that there is insufficient evidence of compliance with those requirements, if, having regard to the nature of, and the reasons for, the non-compliance or insufficiency of evidence and any other relevant matters, the service tribunal or the judge advocate is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
 
-           (11)  Where the judge advocate of a court martial, in pursuance of subsection (10), permits evidence to be given before the members of the court martial, the judge advocate shall, if he or she considers that the interests of justice so require, inform the members of the court martial of the non‑compliance with the requirements of this section, or of the absence of sufficient evidence of compliance with those requirements, and give the members of the court martial such warning concerning the evidence as he or she thinks appropriate in the circumstances.
+           (11)  Where the judge advocate of a court martial, in pursuance of subsection (10), permits evidence to be given before the members of the court martial, the judge advocate shall, if he or she considers that the interests of justice so require, inform the members of the court martial of the non-compliance with the requirements of this section, or of the absence of sufficient evidence of compliance with those requirements, and give the members of the court martial such warning concerning the evidence as he or she thinks appropriate in the circumstances.
 
            (12)  A reference in this section to a multiple sound recording apparatus is a reference to a sound recording apparatus:
 
@@ -4918,7 +4918,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  in any other case—if the person consents, read the copy of the statement, or cause the copy of the statement to be read, to the person.
 
-             (3)  Where a person to whom a copy of a statement is furnished in accordance with subsection (1) voluntarily proposes to make, or commences to make, a statement to an investigating officer in relation to the relevant service offence by way of comment on the first‑mentioned statement, the investigating officer shall caution the person in a language in which the person is reasonably fluent, in writing, and also, if practicable, orally, before the person commences to make the statement or, if it is not practicable to do so, as soon as practicable after the person commences to make the statement, that the person is not obliged to, but may if the person wishes, make a statement and that the statement may be used in evidence.
+             (3)  Where a person to whom a copy of a statement is furnished in accordance with subsection (1) voluntarily proposes to make, or commences to make, a statement to an investigating officer in relation to the relevant service offence by way of comment on the first-mentioned statement, the investigating officer shall caution the person in a language in which the person is reasonably fluent, in writing, and also, if practicable, orally, before the person commences to make the statement or, if it is not practicable to do so, as soon as practicable after the person commences to make the statement, that the person is not obliged to, but may if the person wishes, make a statement and that the statement may be used in evidence.
 
              (4)  A reference in this section to a written statement includes a reference to a record in writing of an interview, being an interview in respect of which subsection 101K(3) has been complied with.
 
@@ -5034,7 +5034,7 @@ the warrant shall be deemed to authorize the investigating officer to seize that
 
                      (b)  if the person refuses or fails to comply with the requirement—remove the clothing.
 
-             (7)  A person shall not be searched by, or in the presence of, a person who is not of the same sex as the first‑mentioned person.
+             (7)  A person shall not be searched by, or in the presence of, a person who is not of the same sex as the first-mentioned person.
 
 ##### <a id="101Y"></a>101Y  Search warrants may be granted by telephone
 
@@ -5122,7 +5122,7 @@ and may seize any such thing found in the course of the search if:
 
                      (b)  if the person refuses or fails to comply with the requirement—remove the clothing.
 
-             (5)  A person shall not be searched by, or in the presence of, a person who is not of the same sex as the first‑mentioned person.
+             (5)  A person shall not be searched by, or in the presence of, a person who is not of the same sex as the first-mentioned person.
 
              (6)  In subsections (2) and (3), **_offensive weapon_** means any thing:
 
@@ -5268,7 +5268,7 @@ Note:          Under paragraph 103(1)(b), the Director of Mili
 
                    A superior summary authority has jurisdiction to try a charge against:
 
-                     (a)  an officer who is 2 or more ranks junior to him or her, being an officer of or below the rank of rear admiral, major‑general or air vice‑marshal; or
+                     (a)  an officer who is 2 or more ranks junior to him or her, being an officer of or below the rank of rear admiral, major-general or air vice-marshal; or
 
                      (b)  a warrant officer; or
 
@@ -5394,9 +5394,9 @@ Note 2:       If the summary authority is dealing with 2 or more acc
 
                               (i)  an officer of or below the rank of rear admiral but above the rank of lieutenant commander; or
 
-                             (ii)  an officer of or below the rank of major‑general but above the rank of major; or
+                             (ii)  an officer of or below the rank of major-general but above the rank of major; or
 
-                            (iii)  an officer of or below the rank of air vice‑marshal but above the rank of squadron leader.
+                            (iii)  an officer of or below the rank of air vice-marshal but above the rank of squadron leader.
 
              (3)  The accused person must be given an opportunity to obtain legal advice in relation to the election if a legal officer is reasonably available to give such advice.
 
@@ -5502,7 +5502,7 @@ a summary authority who subsequently deals with the charge shall deal with the c
 
                      (a)  in the case of a general court martial—the naval rank of captain or the rank of colonel or group captain; or
 
-                     (b)  in the case of a restricted court martial—the rank of commander, lieutenant‑colonel or wing commander.
+                     (b)  in the case of a restricted court martial—the rank of commander, lieutenant-colonel or wing commander.
 
           (2A)  Subsection (2) does not apply in relation to a person who becomes President of a court martial in pursuance of:
 
@@ -5566,7 +5566,7 @@ shall notify the Registrar forthwith.
 
 ##### <a id="123"></a>123  Substitution of members etc.
 
-                   At any time before a court martial is sworn or affirmed, the Registrar may revoke the appointment of an officer to be a member or reserve member of the court martial or the judge advocate and appoint an officer to be a member or reserve member or the judge advocate, as the case may be, in the place of that first‑mentioned officer.
+                   At any time before a court martial is sworn or affirmed, the Registrar may revoke the appointment of an officer to be a member or reserve member of the court martial or the judge advocate and appoint an officer to be a member or reserve member or the judge advocate, as the case may be, in the place of that first-mentioned officer.
 
 Note:          The Registrar must not appoint a person as the judge advocate of a court martial unless the person has been nominated by the Judge Advocate General: see section 129B.
 
@@ -5626,7 +5626,7 @@ the judge advocate must direct the Registrar to dissolve the court martial.
 
 ##### <a id="126"></a>126  Inability to attend after plea
 
-             (1)  Where the President is unable to attend at any time after the accused person’s plea of not guilty or guilty has been recorded by a court martial, the next senior member shall become the President of the court martial and the first‑mentioned President shall take no further part in the proceedings.
+             (1)  Where the President is unable to attend at any time after the accused person’s plea of not guilty or guilty has been recorded by a court martial, the next senior member shall become the President of the court martial and the first-mentioned President shall take no further part in the proceedings.
 
              (2)  Where a member of a court martial is unable to attend at any time after the accused person’s plea of not guilty or guilty has been recorded by a court martial, that member shall take no further part in the proceedings.
 
@@ -5778,9 +5778,9 @@ if the Registrar believes the person to be:
 
           (3A)  Nothing in subsection (1) shall be taken to require the summary authority, in trying a charge in accordance with that subsection, to form either an opinion of the kind referred to in paragraph (1)(c) or an opinion of the kind referred to in paragraph (1)(d) unless:
 
-                     (a)  the accused person has submitted that the summary authority should form an opinion of the first‑mentioned kind; or
+                     (a)  the accused person has submitted that the summary authority should form an opinion of the first-mentioned kind; or
 
-                     (b)  the interests of justice require that the summary authority should form an opinion of the first‑mentioned kind.
+                     (b)  the interests of justice require that the summary authority should form an opinion of the first-mentioned kind.
 
              (4)  A summary authority, before taking action under paragraph (1)(g), shall hear evidence relevant to the determination of what action should be taken.
 
@@ -5928,9 +5928,9 @@ the court martial shall record a plea of not guilty and proceed accordingly in a
 
           (4A)  Nothing in subsection (1) shall be taken to require the judge advocate to give either a ruling of the kind referred to in paragraph (1)(c) or a ruling of the kind referred to in paragraph (1)(d) unless:
 
-                     (a)  the accused person has submitted that the judge advocate should give a ruling of the first‑mentioned kind; or
+                     (a)  the accused person has submitted that the judge advocate should give a ruling of the first-mentioned kind; or
 
-                     (b)  the interests of justice require that the judge advocate should give a ruling of the first‑mentioned kind.
+                     (b)  the interests of justice require that the judge advocate should give a ruling of the first-mentioned kind.
 
              (5)  A court martial, before taking action under paragraph (1)(g), shall hear evidence relevant to the determination of what action should be taken.
 
@@ -6012,9 +6012,9 @@ the Defence Force magistrate shall record a plea of not guilty and proceed accor
 
           (4A)  Nothing in subsection (1) shall be taken to require the Defence Force magistrate to give either a ruling of the kind referred to in paragraph (1)(c) or a ruling of the kind referred to in paragraph (1)(d) unless:
 
-                     (a)  the accused person has submitted that the Defence Force magistrate should give a ruling of the first‑mentioned kind; or
+                     (a)  the accused person has submitted that the Defence Force magistrate should give a ruling of the first-mentioned kind; or
 
-                     (b)  the interests of justice require that the Defence Force magistrate should give a ruling of the first‑mentioned kind.
+                     (b)  the interests of justice require that the Defence Force magistrate should give a ruling of the first-mentioned kind.
 
              (5)  A Defence Force magistrate, before taking action under paragraph (1)(g), shall hear evidence relevant to the determination of what action should be taken.
 
@@ -6220,17 +6220,17 @@ that, for any reason, the charge should be amended, the summary authority, Direc
 
              (1)  For the purposes of this section:
 
-                     (a)  an offence against this Act (other than section 61) is an alternative offence in relation to another such offence if the first‑mentioned offence is specified in column 2 of Schedule 6 opposite to the reference to the other offence in column 1 of that Schedule;
+                     (a)  an offence against this Act (other than section 61) is an alternative offence in relation to another such offence if the first-mentioned offence is specified in column 2 of Schedule 6 opposite to the reference to the other offence in column 1 of that Schedule;
 
                      (b)  an offence against section 11.1 of the _Criminal Code_, being a service offence that is an ancillary offence in relation to an offence against this Act (other than section 61) or the regulations is an alternative offence in relation to that offence against this Act or the regulations;
 
-                   (ba)  an offence against section 61 that is based on an ancillary Territory offence against section 11.1 of the _Criminal Code_, or section 44 of the _Criminal Code 2002_ of the Australian Capital Territory, in relation to another Territory offence (the **_first Territory offence_**), is an alternative offence in relation to another offence against section 61 that is based on the first Territory offence;
+                    (ba)  an offence against section 61 that is based on an ancillary Territory offence against section 11.1 of the _Criminal Code_, or section 44 of the _Criminal Code 2002_ of the Australian Capital Territory, in relation to another Territory offence (the **_first Territory offence_**), is an alternative offence in relation to another offence against section 61 that is based on the first Territory offence;
 
-                     (c)  an offence against section 61 is an alternative offence in relation to another such offence if the relevant Territory offence in relation to the first‑mentioned offence is an alternative offence in relation to the relevant Territory offence in relation to the other offence against section 61;
+                     (c)  an offence against section 61 is an alternative offence in relation to another such offence if the relevant Territory offence in relation to the first-mentioned offence is an alternative offence in relation to the relevant Territory offence in relation to the other offence against section 61;
 
-                     (d)  a Territory offence is an alternative offence in relation to another Territory offence if a court exercising jurisdiction in or in relation to the Jervis Bay Territory could, in a trial of a person on a charge of the other Territory offence, convict the person of the first‑mentioned Territory offence; and
+                     (d)  a Territory offence is an alternative offence in relation to another Territory offence if a court exercising jurisdiction in or in relation to the Jervis Bay Territory could, in a trial of a person on a charge of the other Territory offence, convict the person of the first-mentioned Territory offence; and
 
-                     (e)  an old system offence is an alternative offence in relation to another old system offence if, in accordance with previous service law, a court martial could, in a trial of a person on a charge of the other old system offence, have convicted the person of the first‑mentioned old system offence.
+                     (e)  an old system offence is an alternative offence in relation to another old system offence if, in accordance with previous service law, a court martial could, in a trial of a person on a charge of the other old system offence, have convicted the person of the first-mentioned old system offence.
 
              (2)  Where a service tribunal acquits a person of a service offence but is satisfied beyond reasonable doubt of facts that prove that the person is guilty of another service offence that is an alternative offence in relation to the offence of which the person has been acquitted, the service tribunal may convict the person of that other offence.
 
@@ -6238,9 +6238,9 @@ that, for any reason, the charge should be amended, the summary authority, Direc
 
                      (a)  a person is charged with a service offence;
 
-                     (b)  the person pleads not guilty to the charge but guilty to another service offence that is an alternative offence in relation to the first‑mentioned service offence; and
+                     (b)  the person pleads not guilty to the charge but guilty to another service offence that is an alternative offence in relation to the first-mentioned service offence; and
 
-                     (c)  the prosecution consents to the acceptance of the last‑mentioned plea;
+                     (c)  the prosecution consents to the acceptance of the last-mentioned plea;
 
 the trial shall proceed as if the person:
 
@@ -6248,7 +6248,7 @@ the trial shall proceed as if the person:
 
                      (e)  had pleaded guilty to a charge of the other service offence; and
 
-                      (f)  had not been charged with the first‑mentioned offence.
+                      (f)  had not been charged with the first-mentioned offence.
 
 ##### <a id="143"></a>143  Condonation no bar to proceedings
 
@@ -6286,13 +6286,13 @@ the person is not liable to be tried by a service tribunal for a service offence
 
              (1)  Where a summary authority considers that an accused person, by reason of mental impairment, may not be able to understand the proceedings against him or her and accordingly may be unfit to stand trial, the authority shall refer the charge to the Director of Military Prosecutions.
 
-             (2)  Where a court martial or a Defence Force magistrate is satisfied that an accused person, by reason of mental impairment, is not able to understand the proceedings against him or her and accordingly is unfit to stand trial, the court martial or the Defence Force magistrate shall so find and shall direct that the person be kept in strict custody until the pleasure of the Governor‑General is known.
+             (2)  Where a court martial or a Defence Force magistrate is satisfied that an accused person, by reason of mental impairment, is not able to understand the proceedings against him or her and accordingly is unfit to stand trial, the court martial or the Defence Force magistrate shall so find and shall direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
              (3)  Where, in a trial of a charge by a summary authority of an accused person, evidence is adduced that shows, or tends to show, that the accused person, at the time of the act or omission the subject of the charge, was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the authority shall refer the charge to the Director of Military Prosecutions.
 
              (4)  Where, in a trial of a charge by a court martial or a Defence Force magistrate, the court martial or the Defence Force magistrate finds that the accused person, at the time of the act or omission the subject of the charge, was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the court martial or the Defence Force magistrate shall find the accused person not guilty on the ground of mental impairment and shall acquit the person of the charge on the ground of mental impairment.
 
-             (5)  Where an accused person is acquitted by a court martial or a Defence Force magistrate of a charge on the ground of mental impairment, the court martial or the Defence Force magistrate shall record the ground of the acquittal and shall direct that the accused person be kept in strict custody until the pleasure of the Governor‑General is known.
+             (5)  Where an accused person is acquitted by a court martial or a Defence Force magistrate of a charge on the ground of mental impairment, the court martial or the Defence Force magistrate shall record the ground of the acquittal and shall direct that the accused person be kept in strict custody until the pleasure of the Governor-General is known.
 
 ##### <a id="145A"></a>145A  Notice of alibi
 
@@ -6404,7 +6404,7 @@ Note:          The Summary Authority Rules may make provision 
 
              (5)  This section applies whether the person giving testimony is in or outside Australia, but does not apply if the person giving testimony is in New Zealand.
 
-Note:          See the _Evidence and Procedure (New Zealand) Act 1994_.
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
 
 ##### <a id="148B"></a>148B  Appearance of persons or submissions made by video link or audio link
 
@@ -6424,7 +6424,7 @@ by way of video link or audio link.
 
              (3)  This section applies whether the person appearing is in or outside Australia, but does not apply if the person appearing is in New Zealand.
 
-Note:          See the _Evidence and Procedure (New Zealand) Act 1994_.
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
 
 ##### <a id="148C"></a>148C  Conditions for use of video links and audio links
 
@@ -6526,9 +6526,9 @@ Eligible persons
 
                    A President must seek the advice of a judge advocate before exercising a power conferred upon the President by this Subdivision.
 
-##### <a id="148F"></a>148F  New Zealand proceedings
+##### <a id="148F"></a>148F  New   Zealand proceedings
 
-                   This Subdivision does not affect the operation of the _Evidence and Procedure (New Zealand) Act 1994_.
+                   This Subdivision does not affect the operation of the _Evidence and Procedure (__New Zealand__) Act 1994_.
 
 #### Subdivision C—Rules of procedure for service tribunals
 
@@ -6562,7 +6562,7 @@ Eligible persons
 
                      (a)  the practice and procedure to be followed by the court martial or Defence Force magistrate and, in particular, providing for:
 
-                              (i)  pre‑trial hearings and directions; and
+                              (i)  pre-trial hearings and directions; and
 
                              (ii)  the attendance of witnesses; and
 
@@ -6574,7 +6574,7 @@ Eligible persons
 
                            (vii)  the forms to be used in relation to proceedings before the court martial or Defence Force magistrate; and
 
-                          (viii)  the service of any process of the court martial or Defence Force magistrate; and
+                           (viii)  the service of any process of the court martial or Defence Force magistrate; and
 
                             (ix)  charge sheets in proceedings before the court martial or Defence Force magistrate; and
 
@@ -6584,7 +6584,7 @@ Eligible persons
 
                            (xii)  the duties of the Registrar in respect of the practice and procedure of the court martial or Defence Force magistrate; and
 
-                          (xiii)  the maintenance of the customs and traditions of the Defence Force in proceedings before the court martial or Defence Force magistrate; and
+                           (xiii)  the maintenance of the customs and traditions of the Defence Force in proceedings before the court martial or Defence Force magistrate; and
 
                      (c)  any matter required or permitted by this Act to be prescribed by the Rules.
 
@@ -6714,9 +6714,9 @@ the reviewing authority shall receive and consider that evidence and, if the rev
 
                      (b)  substitute for the conviction so quashed an acquittal on the ground of unsoundness of mind; and
 
-                     (c)  direct that the person be kept in strict custody until the pleasure of the Governor‑General is known.
+                     (c)  direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
-             (4)  Where in a review it appears to the reviewing authority that the court martial or the Defence Force magistrate should have found that the convicted person, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the reviewing authority shall quash the conviction and direct that the person be kept in strict custody until the pleasure of the Governor‑General is known.
+             (4)  Where in a review it appears to the reviewing authority that the court martial or the Defence Force magistrate should have found that the convicted person, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the reviewing authority shall quash the conviction and direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
              (5)  A reviewing authority shall not quash a conviction under subsection (3) or (4) if there are grounds for quashing the conviction under subsection (1) or (2).
 
@@ -6788,9 +6788,9 @@ the reviewing authority shall annul the taking into consideration of that servic
 
                      (d)  if the service tribunal made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the service tribunal.
 
-             (6)  Where in a review it appears to the reviewing authority that a service tribunal has imposed a punishment of imprisonment on a convicted person and has not fixed a non‑parole period during which the person is not to be eligible to be released on parole under the provisions of the _Crimes Act 1914_ in their application, by virtue of subsection 72(1) of this Act, to the service tribunal, the reviewing authority may fix such a non‑parole period.
+             (6)  Where in a review it appears to the reviewing authority that a service tribunal has imposed a punishment of imprisonment on a convicted person and has not fixed a non-parole period during which the person is not to be eligible to be released on parole under the provisions of the _Crimes Act 1914_ in their application, by virtue of subsection 72(1) of this Act, to the service tribunal, the reviewing authority may fix such a non-parole period.
 
-             (7)  Section 72 applies in relation to the fixing of a non‑parole period under subsection (6) as if the reviewing authority were the service tribunal concerned.
+             (7)  Section 72 applies in relation to the fixing of a non-parole period under subsection (6) as if the reviewing authority were the service tribunal concerned.
 
              (8)  Where in a review it appears to the reviewing authority that a service tribunal that has imposed a punishment of detention on a convicted person should have made an order under subsection 78(1) suspending that punishment, the reviewing authority may, if he or she thinks fit, make an order suspending that punishment or such part of that punishment as has not been served.
 
@@ -6826,7 +6826,7 @@ the reviewing authority shall quash the prescribed acquittal.
 
 the reviewing authority shall receive and consider that evidence and, if the reviewing authority considers that the prescribed acquittal cannot be supported having regard to that evidence, the reviewing authority shall quash the prescribed acquittal.
 
-             (3)  Where in a review it appears to the reviewing authority that the service tribunal should have found that the person, by reason of unsoundness of mind, was unable to understand the proceedings against him or her and accordingly was unfit to stand trial, the reviewing authority shall quash the prescribed acquittal and direct that the person be kept in strict custody until the pleasure of the Governor‑General is known.
+             (3)  Where in a review it appears to the reviewing authority that the service tribunal should have found that the person, by reason of unsoundness of mind, was unable to understand the proceedings against him or her and accordingly was unfit to stand trial, the reviewing authority shall quash the prescribed acquittal and direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
              (4)  A reviewing authority shall not quash a prescribed acquittal under subsection (1) or (2) if there are grounds for quashing the prescribed acquittal under subsection (3).
 
@@ -6912,7 +6912,7 @@ but does not include a defence member covered by a determination in force under 
 
                     <a name="relev-disciplin-offic"></a>**_relevant discipline officer_**, in relation to a prescribed defence member, has the meaning given by section 169BB.
 
-                    <a name="relev-offic"></a>**_relevant officer_** means a member of the Defence Force who holds a rank of non‑commissioned officer or a higher rank.
+                    <a name="relev-offic"></a>**_relevant officer_** means a member of the Defence Force who holds a rank of non-commissioned officer or a higher rank.
 
 ##### <a id="169B"></a>169B  Appointment of discipline officers
 
@@ -7004,7 +7004,7 @@ but does not include a defence member covered by a determination in force under 
   </td>
   <td>
     <div>Warrant officer</div>
-    <div>Non‑commissioned officer</div>
+    <div>Non-commissioned officer</div>
   </td>
   <td>
     <div>Discipline officer who is at least 2 ranks senior to the prescribed defence
@@ -7016,7 +7016,7 @@ but does not include a defence member covered by a determination in force under 
     <div>4</div>
   </td>
   <td>
-    <div>Member below non‑commissioned rank</div>
+    <div>Member below non-commissioned rank</div>
   </td>
   <td>
     <div>Discipline officer who is at least 2 ranks senior to the prescribed defence
@@ -7128,7 +7128,7 @@ Punishments that may be imposed in respect of disciplinary infringements
   <td>
     <div>Junior officer</div>
     <div>Warrant officer</div>
-    <div>Non‑commissioned officer</div>
+    <div>Non-commissioned officer</div>
   </td>
   <td>
     <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
@@ -7146,7 +7146,7 @@ Punishments that may be imposed in respect of disciplinary infringements
   </td>
   <td>
     <div>Officer cadet</div>
-    <div>Member below non‑commissioned rank</div>
+    <div>Member below non-commissioned rank</div>
   </td>
   <td>
     <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
@@ -7251,7 +7251,7 @@ Note:          A report under this section is a **_relevant re
 
              (3)  A warrant under subsection (1) may require all police members and members and special members of the Australian Federal Police, or a specified member of the Defence Force who is not a police member, to convey the prisoner or detainee specified in the warrant to such prison or detention centre as is specified in the warrant and there to deliver him or her into the custody of the officer in charge of the prison or detention centre or some other officer doing duty at the prison or detention centre, and the warrant may be executed by any police member or member or special member of the Australian Federal Police or the member of the Defence Force specified in the warrant, as the case requires.
 
-             (4)  Where a person is delivered into custody at a prison or detention centre in pursuance of a warrant under subsection (1), the person may, subject to this Act, be detained in that prison or any other prison in the same State or Territory as the first‑mentioned prison, or that or any other detention centre, as the case requires, for as long as his or her detention is necessary for the execution of the punishment by reason of which the warrant was issued.
+             (4)  Where a person is delivered into custody at a prison or detention centre in pursuance of a warrant under subsection (1), the person may, subject to this Act, be detained in that prison or any other prison in the same State or Territory as the first-mentioned prison, or that or any other detention centre, as the case requires, for as long as his or her detention is necessary for the execution of the punishment by reason of which the warrant was issued.
 
              (5)  In this section, **_detainee_** means a convicted person on whom a punishment of detention has been imposed.
 
@@ -7411,9 +7411,9 @@ the reviewing authority may order that the execution of the punishment shall be 
 
 ##### <a id="179"></a>179  Judge Advocate General and Deputy Judge Advocates General
 
-             (1)  There shall be a Judge Advocate General, who shall be appointed by the Governor‑General to hold his or her appointment either on a full‑time basis or on a part‑time basis.
+             (1)  There shall be a Judge Advocate General, who shall be appointed by the Governor-General to hold his or her appointment either on a full-time basis or on a part-time basis.
 
-             (2)  The Governor‑General may appoint one or more Deputy Judge Advocates General, who shall be so appointed to hold their appointments either on a full‑time basis or on a part‑time basis.
+             (2)  The Governor-General may appoint one or more Deputy Judge Advocates General, who shall be so appointed to hold their appointments either on a full-time basis or on a part-time basis.
 
              (3)  The Judge Advocate General shall have such functions, powers and duties as are conferred on the Judge Advocate General by this Act or any other law.
 
@@ -7445,13 +7445,13 @@ the reviewing authority may order that the execution of the punishment shall be 
 
              (3)  In this section:
 
-                    <a name="minist"></a>**_Minister_**, in relation to the Northern Territory, means a person holding an office referred to in section 34 of the _Northern Territory__(Self‑Government) Act 1978_.
+                    <a name="minist"></a>**_Minister_**, in relation to the Northern   Territory, means a person holding an office referred to in section 34 of the _Northern Territory__(Self-Government) Act 1978_.
 
-##### <a id="183"></a>183  Terms and conditions of appointment etc.
+##### <a id="183"></a>183  Terms and conditions of appointment etc.
 
              (1)  The Judge Advocate General or a Deputy Judge Advocate General holds office for such period, not exceeding 7 years, as is specified in the instrument of the Judge Advocate General’s appointment.
 
-             (3)  The Judge Advocate General or a Deputy Judge Advocate General holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (3)  The Judge Advocate General or a Deputy Judge Advocate General holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="184"></a>184  Oath or affirmation of Judge Advocate General and Deputy Judge Advocate General
 
@@ -7477,9 +7477,9 @@ the reviewing authority may order that the execution of the punishment shall be 
 
 ##### <a id="186"></a>186  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Judge Advocate General or a Deputy Judge Advocate General (not being a Justice or Judge of a federal court or of a Supreme Court of a State or Territory) by reason of the misbehaviour or physical or mental incapacity of the Judge Advocate General or the Deputy Judge Advocate General, as the case may be.
+             (1)  The Governor-General may terminate the appointment of the Judge Advocate General or a Deputy Judge Advocate General (not being a Justice or Judge of a federal court or of a Supreme Court of a State or Territory) by reason of the misbehaviour or physical or mental incapacity of the Judge Advocate General or the Deputy Judge Advocate General, as the case may be.
 
-             (2)  If the Judge Advocate General or a Deputy Judge Advocate General (not being a Justice or Judge of a federal court or of a Supreme Court of a State or Territory) becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit, the Governor‑General shall terminate the appointment of the Judge Advocate General or the Deputy Judge Advocate General, as the case may be.
+             (2)  If the Judge Advocate General or a Deputy Judge Advocate General (not being a Justice or Judge of a federal court or of a Supreme Court of a State or Territory) becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit, the Governor-General shall terminate the appointment of the Judge Advocate General or the Deputy Judge Advocate General, as the case may be.
 
              (3)  A Judge Advocate General or a Deputy Judge Advocate General who is a Justice or Judge of a federal court or of a Supreme Court of a State or Territory ceases to hold office if he or she no longer holds office as such a Justice or Judge.
 
@@ -7487,7 +7487,7 @@ the reviewing authority may order that the execution of the punishment shall be 
 
 ##### <a id="187"></a>187  Resignation
 
-                   The Judge Advocate General or a Deputy Judge Advocate General may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+                   The Judge Advocate General or a Deputy Judge Advocate General may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="188"></a>188  Acting Judge Advocate General or Deputy Judge Advocate General
 
@@ -7583,7 +7583,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (1)  The Registrar is to be appointed by the Minister by written instrument.
 
-             (2)  The Registrar holds office on a full‑time basis.
+             (2)  The Registrar holds office on a full-time basis.
 
              (3)  The Registrar holds office on the terms and conditions (if any) in respect of matters not provided for by this Act that are determined by the Minister.
 
@@ -7593,7 +7593,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
 
-                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full‑time service; and
+                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full-time service; and
 
                      (c)  the person holds a rank not lower than the naval rank of captain or the rank of colonel or group captain.
 
@@ -7669,7 +7669,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                               (i)  a member of the Permanent Navy, the Regular Army or the Permanent Air Force; or
 
-                             (ii)  a member of the Reserves who is rendering continuous full‑time service.
+                             (ii)  a member of the Reserves who is rendering continuous full-time service.
 
 ##### <a id="188FK"></a>188FK  Standing obligation to disclose interests
 
@@ -7705,7 +7705,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
 
-                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full‑time service; and
+                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full-time service; and
 
                      (c)  the person holds a rank not lower than lieutenant commander, major or squadron leader.
 
@@ -7825,7 +7825,7 @@ Note:          The annual report prepared by the Director of M
 
              (1)  The Director of Military Prosecutions is to be appointed by the Minister by written instrument.
 
-             (2)  The Director of Military Prosecutions holds office on a full‑time basis.
+             (2)  The Director of Military Prosecutions holds office on a full-time basis.
 
              (3)  The Director of Military Prosecutions holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
 
@@ -7835,7 +7835,7 @@ Note:          The annual report prepared by the Director of M
 
                      (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
 
-                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full‑time service; and
+                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full-time service; and
 
                      (c)  the person holds a rank not lower than the naval rank of commodore or the rank of brigadier or air commodore.
 
@@ -7911,7 +7911,7 @@ Note:          The annual report prepared by the Director of M
 
                               (i)  a member of the Permanent Navy, the Regular Army or the Permanent Air Force; or
 
-                             (ii)  a member of the Reserves who is rendering continuous full‑time service.
+                             (ii)  a member of the Reserves who is rendering continuous full-time service.
 
 ##### <a id="188GO"></a>188GO  Standing obligation to disclose interests
 
@@ -7947,9 +7947,9 @@ Note:          The annual report prepared by the Director of M
 
                      (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
 
-                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full‑time service; and
+                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force or is a member of the Reserves who is rendering continuous full-time service; and
 
-                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant‑colonel or wing commander.
+                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant-colonel or wing commander.
 
 ##### <a id="188GQ"></a>188GQ  Staff
 
@@ -8021,13 +8021,13 @@ in relation to an act done or omitted to be done in good faith in the exercise o
 
 ##### <a id="194"></a>194  Persons found to be of unsound mind
 
-             (1)  Where a direction has been given under section 145, 158 or 164 that a person be kept in strict custody until the pleasure of the Governor‑General is known, the Governor‑General may, by writing signed by him or her, order that the person be detained in safe custody in such place and in accordance with such directions, if any, as the Governor‑General specifies in the order.
+             (1)  Where a direction has been given under section 145, 158 or 164 that a person be kept in strict custody until the pleasure of the Governor-General is known, the Governor-General may, by writing signed by him or her, order that the person be detained in safe custody in such place and in accordance with such directions, if any, as the Governor-General specifies in the order.
 
-             (2)  The Governor‑General may, from time to time, by writing signed by him or her, vary an order made under subsection (1), either as to the place specified in the order or the directions so specified, or as to both, in such manner as the person thinks fit.
+             (2)  The Governor-General may, from time to time, by writing signed by him or her, vary an order made under subsection (1), either as to the place specified in the order or the directions so specified, or as to both, in such manner as the person thinks fit.
 
-             (3)  The Governor‑General may, by writing signed by him or her, order that a person detained in safe custody in pursuance of an order made under subsection (1) (being a person who, by reason of unsoundness of mind, has been acquitted of the service offence with which he or she was charged) be released from custody either unconditionally or subject to such conditions as are specified in the order.
+             (3)  The Governor-General may, by writing signed by him or her, order that a person detained in safe custody in pursuance of an order made under subsection (1) (being a person who, by reason of unsoundness of mind, has been acquitted of the service offence with which he or she was charged) be released from custody either unconditionally or subject to such conditions as are specified in the order.
 
-             (4)  Where the Governor‑General orders that a person be released from custody subject to conditions, the Governor‑General may, at any time, by writing signed by him or her:
+             (4)  Where the Governor-General orders that a person be released from custody subject to conditions, the Governor-General may, at any time, by writing signed by him or her:
 
                      (a)  vary or revoke any or all of the conditions or impose additional conditions; or
 
@@ -8035,13 +8035,13 @@ in relation to an act done or omitted to be done in good faith in the exercise o
 
              (5)  Where an order in respect of a person under subsection (3) is revoked or the person fails to comply with a condition of such an order, the person may, without warrant, be arrested by any constable and may be detained in safe custody in accordance with the order made in respect of the person under subsection (1) as if the order under subsection (3) had not been made.
 
-             (6)  Upon the Governor‑General making an order under subsection (3) that a person be released from custody unconditionally or upon the Governor‑General revoking all the conditions subject to which a person has been released from custody in pursuance of an order made under that subsection, the order made under subsection (1) in respect of the person ceases to have effect.
+             (6)  Upon the Governor-General making an order under subsection (3) that a person be released from custody unconditionally or upon the Governor-General revoking all the conditions subject to which a person has been released from custody in pursuance of an order made under that subsection, the order made under subsection (1) in respect of the person ceases to have effect.
 
-             (7)  Where an order is made under subsection (1) in respect of a person who, by reason of unsoundness of mind, is unfit to be tried, he or she shall be detained until the Governor‑General is satisfied by the certificate in writing of not less than 2 medical practitioners that the person has become of sound mind and is fit to be tried, and, upon the Governor‑General being so satisfied, the Governor‑General may, by writing signed by him or her, refer the charge to the Director of Military Prosecutions and, pending the decision of the Director of Military Prosecutions under section 103, order the removal of the person to such custody as is specified in the order.
+             (7)  Where an order is made under subsection (1) in respect of a person who, by reason of unsoundness of mind, is unfit to be tried, he or she shall be detained until the Governor-General is satisfied by the certificate in writing of not less than 2 medical practitioners that the person has become of sound mind and is fit to be tried, and, upon the Governor-General being so satisfied, the Governor-General may, by writing signed by him or her, refer the charge to the Director of Military Prosecutions and, pending the decision of the Director of Military Prosecutions under section 103, order the removal of the person to such custody as is specified in the order.
 
-             (8)  For the purposes of the preceding provisions of this section, **_Governor‑General_** means the Governor‑General acting with the advice of the Attorney‑General.
+             (8)  For the purposes of the preceding provisions of this section, **_Governor-General_** means the Governor-General acting with the advice of the Attorney-General.
 
-             (9)  The Governor‑General may make arrangements with the Governor of a State or the Administrator of the Northern Territory for or in relation to the detention in institutions maintained by the State or the Northern Territory, as the case may be, of persons in respect of whom orders are made under subsection (1).
+             (9)  The Governor-General may make arrangements with the Governor of a State or the Administrator of the Northern   Territory for or in relation to the detention in institutions maintained by the State or the Northern Territory, as the case may be, of persons in respect of whom orders are made under subsection (1).
 
 ##### <a id="194A"></a>194A  Persons required as witnesses before service tribunals
 
@@ -8049,27 +8049,27 @@ in relation to an act done or omitted to be done in good faith in the exercise o
 
                      (a)  a person (in this section referred to as the **_prisoner_**) who is required as a witness before a service tribunal is undergoing a sentence of imprisonment in a State or Territory other than the State or Territory in which the service tribunal is to sit during the period when the prisoner will be so required as a witness; and
 
-                     (b)  the prisoner is produced in the last‑mentioned State or Territory in pursuance of an instrument, issued under the rules of procedure, directed to the person in charge of the prison where the prisoner is undergoing the sentence of imprisonment;
+                     (b)  the prisoner is produced in the last-mentioned State or Territory in pursuance of an instrument, issued under the rules of procedure, directed to the person in charge of the prison where the prisoner is undergoing the sentence of imprisonment;
 
 then:
 
-                     (c)  the prisoner, while in the last‑mentioned State or Territory in pursuance of the instrument, shall be deemed to be undergoing the sentence of imprisonment; and
+                     (c)  the prisoner, while in the last-mentioned  State or Territory in pursuance of the instrument, shall be deemed to be undergoing the sentence of imprisonment; and
 
-                     (d)  the person in whose custody the prisoner is placed has the same powers, in relation to the detention or disposition of the prisoner, as the person to whom the instrument was directed has in the first‑mentioned State or Territory.
+                     (d)  the person in whose custody the prisoner is placed has the same powers, in relation to the detention or disposition of the prisoner, as the person to whom the instrument was directed has in the first-mentioned State or Territory.
 
 ##### <a id="195"></a>195  Supply of record of proceedings
 
-             (1)  Subject to this section, a person who has been tried by a court martial or a Defence Force magistrate is, upon application made to the Attorney‑General before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
+             (1)  Subject to this section, a person who has been tried by a court martial or a Defence Force magistrate is, upon application made to the Attorney-General before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
 
-             (2)  Subject to this section, where a person tried by a court martial or a Defence Force magistrate has died before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial, his or her legal personal representative or, subject to subsection (3), a person approved by the Attorney‑General as that person’s representative is, upon application made to the Attorney‑General before the expiration of a period of 1 year commencing on the date of the death of the deceased person and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
+             (2)  Subject to this section, where a person tried by a court martial or a Defence Force magistrate has died before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial, his or her legal personal representative or, subject to subsection (3), a person approved by the Attorney-General as that person’s representative is, upon application made to the Attorney-General before the expiration of a period of 1 year commencing on the date of the death of the deceased person and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
 
-             (3)  If there is a legal personal representative of a deceased person, the Attorney‑General shall not approve a person as a representative of a deceased person unless the Attorney‑General is satisfied that the legal personal representative has declined to take action in relation to the making of the application under subsection (2).
+             (3)  If there is a legal personal representative of a deceased person, the Attorney-General shall not approve a person as a representative of a deceased person unless the Attorney-General is satisfied that the legal personal representative has declined to take action in relation to the making of the application under subsection (2).
 
              (4)  Nothing in this section authorizes, or requires, the supply of a copy of the record of evidence the publication of which was prohibited by an order under subsection 140(2).
 
              (5)  Nothing in this section affects the power of a civil court to make an order for the discovery of documents or the giving of evidence in, or the production of documents to, a civil court.
 
-             (6)  Where the record of the proceedings of a trial to which an application under subsection (1) or (2) relates is held by the Chief of the Defence Force or a service chief, the Attorney‑General may make arrangements with the Chief of the Defence Force or the service chief for the supply of a copy of the record to the applicant.
+             (6)  Where the record of the proceedings of a trial to which an application under subsection (1) or (2) relates is held by the Chief of the Defence Force or a service chief, the Attorney-General may make arrangements with the Chief of the Defence Force or the service chief for the supply of a copy of the record to the applicant.
 
 ##### <a id="196"></a>196  Judge advocates’ panel
 
@@ -8121,7 +8121,7 @@ during the year ending on that 31 December.
 
 ##### <a id="197"></a>197  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -8559,9 +8559,9 @@ Punishments that may be imposed on certain officers
     <div>Officer:</div>
     <div>(a) of or below the rank of rear admiral but above the rank of lieutenant
       commander; or</div>
-    <div>(b) of or below the rank of major‑general but above the rank of major;
+    <div>(b) of or below the rank of major-general but above the rank of major;
       or</div>
-    <div>(c) of or below the rank of air vice‑marshal but above the rank of squadron
+    <div>(c) of or below the rank of air vice-marshal but above the rank of squadron
       leader</div>
   </td>
   <td>
@@ -8743,7 +8743,7 @@ Punishments that may be imposed on other persons
     <div>2</div>
   </td>
   <td>
-    <div>Non‑commissioned officer</div>
+    <div>Non-commissioned officer</div>
   </td>
   <td>
     <div>Reduction in rank by one rank or, in the case of a corporal of the Army,
@@ -8763,7 +8763,7 @@ Punishments that may be imposed on other persons
     <div>3</div>
   </td>
   <td>
-    <div>Member below non‑commissioned rank who, at the time he or she committed
+    <div>Member below non-commissioned rank who, at the time he or she committed
       the service offence of which he or she has been convicted, was on active
       service</div>
   </td>
@@ -8788,7 +8788,7 @@ Punishments that may be imposed on other persons
     <div>4</div>
   </td>
   <td>
-    <div>Member below non‑commissioned rank who, at the time he or she committed
+    <div>Member below non-commissioned rank who, at the time he or she committed
       the service offence of which he or she has been convicted, was not on active
       service</div>
   </td>
@@ -8872,7 +8872,7 @@ Punishments that may be imposed on other persons
     <div>1</div>
   </td>
   <td>
-    <div>Non‑commissioned officer of, or below, the rank of leading seaman or corporal</div>
+    <div>Non-commissioned officer of, or below, the rank of leading seaman or corporal</div>
   </td>
   <td>
     <div>Fine not exceeding the amount of the convicted person’s pay for 3 days</div>
@@ -8885,7 +8885,7 @@ Punishments that may be imposed on other persons
     <div>2</div>
   </td>
   <td>
-    <div>Member below non‑commissioned rank</div>
+    <div>Member below non-commissioned rank</div>
   </td>
   <td>
     <div>Fine not exceeding the amount of the convicted person’s pay for 3 days</div>
@@ -8969,11 +8969,11 @@ _Sections 184, 188AF, 188AT, 188FF and 188GJ_
 
 OATH
 
-I, _A.B.,_ do swear that I will well and truly serve Her Majesty in the office of                 and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God!
+I, _A.B.,_ do swear that I will well and truly serve Her Majesty in the office of                       and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will: So help me God!
 
 AFFIRMATION
 
-I, A.B., do solemnly and sincerely promise and declare that I will well and truly serve Her Majesty in the office of                       and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
+I, A.B., do solemnly and sincerely promise and declare that I will well and truly serve Her Majesty in the office of       and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 
 # Schedule 5
 
@@ -8981,11 +8981,11 @@ _Section 196_
 
 OATH
 
-I, _A.B.,_ do swear that I will well and truly serve Her Majesty in the office of judge advocate and I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God!
+I, _A.B.,_ do swear that I will well and truly serve Her Majesty in the office of judge advocate and I will do right to all manner of people according to law, without fear or favour, affection or ill-will: So help me God!
 
 AFFIRMATION
 
-I, _A.B.,_ do solemnly and sincerely promise and declare that I will well and truly serve Her Majesty in the office of judge advocate and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
+I, _A.B.,_ do solemnly and sincerely promise and declare that I will well and truly serve Her Majesty in the office of judge advocate and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 
 # Schedule 6—Alternative offences
 
@@ -9419,11 +9419,11 @@ _Section 142_
 
 The _Defence Force Discipline Act 1982_ as shown in this compilation comprises Act No. 152, 1982 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009 (as amended).
+For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-Schedule 3 of the _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulations 1985_ (1985 No. 125). Schedule 3 was repealed and substituted by the _Defence Legislation Amendment Act 2008_(No. 6 of 2008). These modifications no longer apply.
+Schedule 3 of the _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulation__s 1__985_ (1985 No. 125). Schedule 3 was repealed and substituted by the _Defence Legislation Amendment Act 2008_(No. 6 of 2008). These modifications no longer apply.
 
 ### Table of Acts
 
@@ -10062,42 +10062,7 @@ Schedule 7 (item 39): <i>(p)</i></div>
     <div>Schedule 1 (items 1–176) and Schedules 2–4: Royal Assent</div>
   </td>
   <td>
-    <div>Schs. 2 and 4 
-Sch. 3 (am. by 82, 2011, Sch. 1) \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Military Justice (Interim Measures) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>82, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Schs. 2–4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -10136,7 +10101,7 @@ Sch. 3 (am. by 82, 2011, Sch. 1) \[ <i>see</i>Note 1]</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
+    <div>Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
   </td>
   <td>
     <div>36, 2010</div>
@@ -10167,30 +10132,13 @@ Sch. 3 (am. by 82, 2011, Sch. 1) \[ <i>see</i>Note 1]</div>
   <td>
     <div>Sch. 5 (item 13) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 510–518) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(16) of which provides as follows:
 
-               (16)   Section 7 and the amendments of the _Defence Force Discipline Act 1982_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent or, if Part II of that first‑mentioned Act is not in force on the day immediately before the day on which this Act receives the Royal Assent, immediately after that Part comes into operation.
+               (16)   Section 7 and the amendments of the _Defence Force Discipline Act 1982_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent or, if Part II of that first-mentioned Act is not in force on the day immediately before the day on which this Act receives the Royal Assent, immediately after that Part comes into operation.
 
-_(b)_     The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -10352,7 +10300,7 @@ _(na)_   Subsection 2(1) (item 39) of the _Statute Law Revision Act 2002_p
   </td>
 </tr></table>
 
-_(nb)_   Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
+_(nb)_  Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -13268,7 +13216,7 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part VII.</div>
+    <div>Heading to Div. 1 of Part VII</div>
   </td>
   <td colspan="2">
     <div>rs. No. 142, 2005</div>
@@ -14669,7 +14617,7 @@ No. 91, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Renumbered s. 129D.........</div>
+    <div>Renumbered s. 129D..........</div>
   </td>
   <td colspan="2">
     <div>No. 91, 2009</div>
@@ -15788,7 +15736,7 @@ ad. No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part VIIIA</div>
+    <div>Heading to Div. 1 of Part VIIIA.</div>
   </td>
   <td colspan="2">
     <div>rs. No. 91, 2009</div>
@@ -18501,9 +18449,9 @@ ad. No. 159, 2006</div>
 
 ### Note 2
 
-_Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
+_Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
 
-The following amendments commence at the same time as section 3 of the _Trans‑Tasman Proceedings Act 2010_:
+The following amendments commence at the same time as section 3 of the _Trans-Tasman Proceedings Act 2010_:
 
 ## Schedule 2
 
@@ -18511,71 +18459,19 @@ The following amendments commence at the same time as section 3 of the _Trans�
 
 Repeal the note, substitute:
 
-Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
 
 ## 11  Subsection 148B(3) (note)
 
 Repeal the note, substitute:
 
-Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
 
 ## 12  Section 148F
 
-Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
+Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans-Tasman Proceedings Act 2010_”.
 
-As at 1 August 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 510  Subsection 188(1)
-
-Omit “(1)”.
-
-## 511  Paragraph 188(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 512  Subsection 188(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 513  At the end of subsection 188(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 514  Subsections 188(2) to (8)
-
-Repeal the subsections.
-
-## 515  At the end of subsection 188FL(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 516  Subsection 188FL(2)
-
-Repeal the subsection.
-
-## 517  At the end of subsection 188GP(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 518  Subsection 188GP(2)
-
-Repeal the subsection.
-
-As at 1 August 2011 the amendments are not incorporated in this compilation.
+As at 7 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -18587,19 +18483,19 @@ _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) A
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
 * * *
 
@@ -18640,13 +18536,13 @@ _Defence Legislation Amendment Act (No. 2) 2005 (No. 142, 2005)_
 
 ## 114  Transitional provision—functions and powers of convening authorities
 
-(1)       This item applies to a function or power conferred on a convening authority by the old law if:
+(1)        This item applies to a function or power conferred on a convening authority by the old law if:
 
                      (a)  the function or power relates to a charge (including a proceeding in respect of a charge); and
 
                      (b)  as at the commencement time, the charge or proceeding had not been finally dealt with under the old law.
 
-(2)       If:
+(2)        If:
 
                      (a)  the convening authority performed the function or exercised the power before the commencement time; and
 
@@ -18654,7 +18550,7 @@ _Defence Legislation Amendment Act (No. 2) 2005 (No. 142, 2005)_
 
 the new law has effect as if the designated person had performed the function, or exercised the power, under the new law.
 
-(3)       If:
+(3)        If:
 
                      (a)  apart from the amendments made by this Schedule, the convening authority would have been required or permitted to perform the function or exercise the power; and
 
@@ -18662,7 +18558,7 @@ the new law has effect as if the designated person had performed the function, o
 
 the designated person may perform the function, or exercise the power, under the new law.
 
-(4)       In this item:
+(4)        In this item:
 
 **_commencement time_** means the time at which item 1 of this Schedule commences.
 
@@ -18684,7 +18580,7 @@ the designated person may perform the function, or exercise the power, under the
 
 ## 115  Regulations
 
-The Governor‑General may make regulations in relation to transitional matters arising out of the amendments of the _Defence Force Discipline Act 1982_ made by this Schedule.
+The Governor-General may make regulations in relation to transitional matters arising out of the amendments of the _Defence Force Discipline Act 1982_ made by this Schedule.
 
 * * *
 
@@ -18706,15 +18602,15 @@ In this Part:
 
 ## 256  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to a service offence committed by a person on or after the commencement day.
+(1)        The amendments made by this Schedule apply in relation to a service offence committed by a person on or after the commencement day.
 
-(2)       The amendments made by this Schedule also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day, the person had not been charged with the offence under the old DFDA.
+(2)        The amendments made by this Schedule also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day, the person had not been charged with the offence under the old DFDA.
 
 ## 257  Before commencement day, Director of Military Prosecutions requested trial by court martial or Defence Force magistrate
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, before the commencement day:
+(1)        Subitem (2) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to convene a court martial to try a charge of a service offence that was committed by a person before the commencement day; and
 
@@ -18724,7 +18620,7 @@ Trial by court martial
 
                              (ii)  had convened the court martial, but the person had not been asked to plead at the trial.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  if a court martial had been convened before the commencement day—on the commencement day, the court martial is taken to have been dissolved; and
 
@@ -18738,7 +18634,7 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (4) applies if, before the commencement day:
+(3)        Subitem (4) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to refer a charge of a service offence that was committed by a person before the commencement day to a Defence Force magistrate for trial; and
 
@@ -18748,7 +18644,7 @@ Trial by Defence Force magistrate
 
                              (ii)  had referred the charge, but the person had not been asked to plead at the trial.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  if the charge had been referred to a Defence Force magistrate before the commencement day—on the commencement day, the reference is taken to have been terminated; and
 
@@ -18762,11 +18658,11 @@ Trial by Defence Force magistrate
 
 Elections for trial by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  before the commencement day, a person made an election under subsection 131(1) of the old DFDA to have a charge against him or her tried by a court martial or Defence Force magistrate; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -18774,7 +18670,7 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, before the commencement day:
+(1)        Subitem (2) applies if, before the commencement day:
 
                      (a)  a court martial convicted a person of a service offence committed before the commencement day, but the court martial had not taken action under Part IV of the old DFDA; and
 
@@ -18786,7 +18682,7 @@ Trial by court martial
 
                              (ii)  had convened a new court martial for the purpose of taking such action, but the new court martial had not begun to hear evidence relevant to determining what action should be taken.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  if a new court martial was convened before the commencement day—on the commencement day, the new court martial is taken to have been dissolved; and
 
@@ -18796,7 +18692,7 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (4) applies if, before the commencement day:
+(3)        Subitem (4) applies if, before the commencement day:
 
                      (a)  a charge of, or conviction for, a service offence that was committed by a person before the commencement day was referred to a Defence Force magistrate; and
 
@@ -18816,7 +18712,7 @@ Trial by Defence Force magistrate
 
                      (e)  the new Defence Force magistrate or court martial had not begun to hear evidence relevant to determining what action should be taken.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  if the conviction was referred to another Defence Force magistrate before the commencement day—on the commencement day, the reference is taken to have been terminated; and
 
@@ -18830,7 +18726,7 @@ Trial by Defence Force magistrate
 
 Punishment imposed by court martial
 
-(1)       Subitem (2) applies if, before the commencement day:
+(1)        Subitem (2) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to convene a court martial to take action under Part IV of the old DFDA in relation to a conviction for a service offence that was committed by a person before the commencement day; and
 
@@ -18840,7 +18736,7 @@ Punishment imposed by court martial
 
                              (ii)  had convened the court martial, but the court martial had not begun to hear evidence relevant to determining what action should be taken.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  if a court martial had been convened before the commencement day—on the commencement day, the court martial is taken to have been dissolved; and
 
@@ -18854,7 +18750,7 @@ Punishment imposed by court martial
 
 Punishment imposed by Defence Force magistrate
 
-(3)       Subitem (4) applies if, before the commencement day:
+(3)        Subitem (4) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to refer a conviction for a service offence that was committed by a person before the commencement day to a Defence Force magistrate to take action under Part IV of the old DFDA; and
 
@@ -18864,7 +18760,7 @@ Punishment imposed by Defence Force magistrate
 
                              (ii)  had referred the conviction, but the Defence Force magistrate had not begun to hear evidence relevant to determining what action should be taken.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  if the conviction had been referred to a Defence Force magistrate before the commencement day—on the commencement day, the reference is taken to have been terminated; and
 
@@ -18878,11 +18774,11 @@ Punishment imposed by Defence Force magistrate
 
 Elections to be punished by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  before the commencement day, a person made an election under subsection 131(2A) or (3) of the old DFDA to be punished by a court martial or Defence Force magistrate in relation to his or her conviction; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian   Military Court to take action;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -18890,9 +18786,9 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to try a charge of a service offence that was committed by a person before the commencement day.
+(1)        Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to try a charge of a service offence that was committed by a person before the commencement day.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -18904,9 +18800,9 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a charge of a service offence that was committed by a person before the commencement day to a Defence Force magistrate for trial.
+(3)        Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a charge of a service offence that was committed by a person before the commencement day to a Defence Force magistrate for trial.
 
-(4)       If this item applies, then:
+(4)        If this item applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -18918,11 +18814,11 @@ Trial by Defence Force magistrate
 
 Elections made for trial by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  after the commencement day, a person makes an election under subsection 131(1) of the old DFDA to have a charge against him or her tried by a court martial or Defence Force magistrate; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -18930,7 +18826,7 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, on or after the commencement day:
+(1)        Subitem (2) applies if, on or after the commencement day:
 
                      (a)  the Registrar of Military Justice dissolves a court martial under section 125 of the old DFDA; and
 
@@ -18940,7 +18836,7 @@ Trial by court martial
 
                              (ii)  before the court martial has taken action under Part IV of the old DFDA in relation to the person.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  immediately after the court martial is dissolved, the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action under Part IV of the new DFDA in relation to the person; and
 
@@ -18948,7 +18844,7 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (4) applies if, on or after the commencement day:
+(3)        Subitem (4) applies if, on or after the commencement day:
 
                      (a)  the Registrar of Military Justice terminates a reference to a Defence Force magistrate under section 129A of the old DFDA in relation to a charge of, or conviction for, a service offence that was committed by a person before the commencement day; and
 
@@ -18958,7 +18854,7 @@ Trial by Defence Force magistrate
 
                              (ii)  in relation to a conviction—before the Defence Force magistrate has taken action under Part IV of the old DFDA in relation to the person.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  immediately after the reference is terminated, the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action under Part IV of the new DFDA in relation to the person; and
 
@@ -18968,9 +18864,9 @@ Trial by Defence Force magistrate
 
 Punishment imposed by court martial
 
-(1)       Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to take action under Part IV of the old DFDA in relation to a conviction for a service offence that was committed before the commencement day.
+(1)        Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to take action under Part IV of the old DFDA in relation to a conviction for a service offence that was committed before the commencement day.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -18982,9 +18878,9 @@ Punishment imposed by court martial
 
 Punishment imposed by Defence Force magistrate
 
-(3)       Subitem (4) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a conviction for a service offence that was committed by a person before the commencement day to a Defence Force magistrate to take action under Part IV of the old DFDA in relation to the person.
+(3)        Subitem (4) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a conviction for a service offence that was committed by a person before the commencement day to a Defence Force magistrate to take action under Part IV of the old DFDA in relation to the person.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -18996,17 +18892,17 @@ Punishment imposed by Defence Force magistrate
 
 Elections made for punishment by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  after the commencement day, a person makes an election under subsection 131(2A) or (3) of the old DFDA to be punished by a court martial or Defence Force magistrate in relation to his or her conviction; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian   Military Court to take action;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
 ## 263  Registrar of Military Justice and Director of Military Prosecutions
 
-(1)       If:
+(1)        If:
 
                      (a)  a person has been appointed as the Registrar of Military Justice before the commencement day; and
 
@@ -19014,11 +18910,11 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 then, on the commencement day:
 
-                     (c)  the appointment is taken to have included the appointment of the person as the Registrar of the Australian Military Court under section 188FB of the new DFDA; and
+                     (c)  the appointment is taken to have included the appointment of the person as the Registrar of the Australian   Military Court under section 188FB of the new DFDA; and
 
-                     (d)  the person is taken to have made and subscribed an oath or affirmation as the Registrar of the Australian Military Court before a Military Judge under section 188FF of the new DFDA.
+                     (d)  the person is taken to have made and subscribed an oath or affirmation as the Registrar of the Australian   Military Court before a Military Judge under section 188FF of the new DFDA.
 
-(2)       If:
+(2)        If:
 
                      (a)  a person is appointed as the Registrar of the Australian Military Court under section 188FB of the new DFDA after the commencement day; and
 
@@ -19034,9 +18930,9 @@ then:
 
                      (d)  when the person makes and subscribes an oath or affirmation as the Registrar of the Australian Military Court before a Military Judge under section 188FF of the new DFDA, the person is taken also to have made and subscribed an oath or affirmation as the Registrar of Military Justice before the Judge Advocate General under section 188FF of the old DFDA.
 
-(3)       The person who is the Director of Military Prosecutions immediately before the commencement day is taken, on the commencement day, to have made and subscribed an oath or affirmation before a Military Judge under section 188GJ of the new DFDA.
+(3)        The person who is the Director of Military Prosecutions immediately before the commencement day is taken, on the commencement day, to have made and subscribed an oath or affirmation before a Military Judge under section 188GJ of the new DFDA.
 
-(4)       If:
+(4)        If:
 
                      (a)  a person is appointed as the Director of Military Prosecutions after the commencement day; and
 
@@ -19050,7 +18946,7 @@ then, when the person makes and subscribes an oath or affirmation before a Milit
 
 ## 264  Regulations prescribing transitional matters
 
-The Governor‑General may make regulations in relation to transitional matters arising out of the amendments made by this Schedule.
+The Governor-General may make regulations in relation to transitional matters arising out of the amendments made by this Schedule.
 
 ## Schedule 2
 
@@ -19098,9 +18994,9 @@ In this Schedule:
 
 ## 2  Application of main amendments made by this Act
 
-(1)       The main amendments made by this Act apply in relation to a service offence committed by a person on or after the commencement day.
+(1)        The main amendments made by this Act apply in relation to a service offence committed by a person on or after the commencement day.
 
-(2)       The main amendments made by this Act also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day:
+(2)        The main amendments made by this Act also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day:
 
                      (a)  the person had not been charged with the offence under the old DFDA; or
 
@@ -19108,17 +19004,17 @@ In this Schedule:
 
 ## 3  Application of amendments of offences and disciplinary infringements
 
-(1)       The amendments made by the following provisions of this Act apply in relation to acts and omissions that take place on or after the commencement day:
+(1)        The amendments made by the following provisions of this Act apply in relation to acts and omissions that take place on or after the commencement day:
 
                      (a)  Part 1 of Schedule 5;
 
                      (b)  Schedule 6.
 
-(2)       For the purposes of this item, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the commencement day, the act or omission is alleged to have taken place before the commencement day.
+(2)        For the purposes of this item, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the commencement day, the act or omission is alleged to have taken place before the commencement day.
 
 ## 4  Continued application of old law to proceedings in progress before commencement day
 
-(1)       This item applies if, before the commencement day:
+(1)        This item applies if, before the commencement day:
 
                      (a)  a person had been charged with a service offence under the old DFDA; and
 
@@ -19126,9 +19022,9 @@ In this Schedule:
 
                      (c)  those proceedings (including any appeal to the Defence Force Discipline Appeal Tribunal) had not been finally determined under the old law.
 
-(2)       Despite the main amendments made by this Act, and subject to subitem (3), the old law continues to apply after the commencement day in relation to the proceedings, including any review under Part IX of the old DFDA, as if those amendments had not been made.
+(2)        Despite the main amendments made by this Act, and subject to subitem (3), the old law continues to apply after the commencement day in relation to the proceedings, including any review under Part IX of the old DFDA, as if those amendments had not been made.
 
-(3)       A review of the proceedings must not be commenced under section 155 of the old DFDA after the end of 31 December 2008.
+(3)        A review of the proceedings must not be commenced under section 155 of the old DFDA after the end of 31 December 2008.
 
 ## 4A  Application of amendments to trials by the Australian Military Court of multiple charges or accused persons together
 
@@ -19144,7 +19040,7 @@ Rules made by the Judge Advocate General under section 149 of the old DFDA tha
 
 ## 6  Proceedings before examining officers
 
-(1)       If, before the repeal of section 130A of the _Defence Force Discipline Act 1982_ by item 27 of Schedule 7 to this Act:
+(1)        If, before the repeal of section 130A of the _Defence Force Discipline Act 1982_ by item 27 of Schedule 7 to this Act:
 
                      (a)  a legal officer had started to hear evidence in relation to a charge under that section; but
 
@@ -19152,7 +19048,7 @@ Rules made by the Judge Advocate General under section 149 of the old DFDA tha
 
 the officer must complete hearing the evidence in relation to the charge as if the repeal had not happened.
 
-(2)       If, before the repeal of section 130A of the _Defence Force Discipline Act 1982_ by item 27 of Schedule 7 to this Act:
+(2)        If, before the repeal of section 130A of the _Defence Force Discipline Act 1982_ by item 27 of Schedule 7 to this Act:
 
                      (a)  a commanding officer had, under that section, given a legal officer a direction to hear evidence in relation to a charge; but
 
@@ -19166,7 +19062,7 @@ An appointment made under section 150 of the old DFDA that was in force immedi
 
 ## 8  Regulations may deal with transitional, saving or application matters
 
-The Governor‑General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments and repeals made by this Act.
+The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments and repeals made by this Act.
 
 * * *
 
@@ -19176,24 +19072,8 @@ _Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
 
 ## 13  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to acts and omissions that take place on or after the commencement of this item.
+(1)        The amendments made by this Schedule apply in relation to acts and omissions that take place on or after the commencement of this item.
 
-(2)       For the purposes of this item, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the commencement of this item, the act or omission is alleged to have taken place before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        For the purposes of this item, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the commencement of this item, the act or omission is alleged to have taken place before the commencement of this item.
 
  
