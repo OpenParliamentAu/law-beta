@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00850/Html/352f9aeb-6d80-4cbe-90f6-aebd775926de_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00274/Html/9efe680f-82fa-4049-8392-c85942d87754_files/image001.gif)
 
 # National Museum of Australia Act 1980
 
 **Act No. 115 of 1980 as amended**
 
-This compilation was prepared on 20 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1052,23 +1052,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 2 (items 825–832) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -1545,52 +1528,6 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 825  Subsection 3(1) (definition of _appoint_)
-
-Repeal the definition.
-
-## 826  Paragraph 3(2)(b)
-
-Omit “, within the meaning of the _Seas and Submerged Lands Act 1973_,”.
-
-## 827  At the end of subsection 20(9)
-
-Add:
-
-Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
-
-## 828  Subsections 20(10) to (12)
-
-Repeal the subsections.
-
-## 829  Paragraph 29(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 830  Subsection 29(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 831  At the end of subsection 29(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 832  Subsections 29(2) to (6), (8) and (9)
-
-Repeal the subsections.
-
-As at 20 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1603,21 +1540,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
