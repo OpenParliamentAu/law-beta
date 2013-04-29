@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2012C00921/Html/313efd91-d421-4fcd-a7ed-34b8c79de5da_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00918/Html/ce229803-0e60-4126-8bc9-644e63c951d1_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 19 December 2012
- taking into account amendments up to Act No. 180 of 2012
+This compilation was prepared on 10 December 2012
+ taking into account amendments up to Act No. 169 of 2012
 
-[**Note**: Part 10 ceases to have effect on 16 July 2022, _see_ section 116]
+[**Note**: Part 10 ceases to have effect on 16 July 2022, _see_ section 116]
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -357,7 +357,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [103](#103).        Supplying prohibited material in and to prohibited material areas
 
-[104](#104).        Liability of body corporate managers
+[104](#104).        Body corporate managers taken to have committed offences
 
 [105](#105).        Division does not apply to postal services
 
@@ -3071,8 +3071,6 @@ then this Part continues to apply in relation to that area, after the revocation
 
                     Penalty:  50 penalty units.
 
-Note:          For the liability of a body corporate manager, or a State/Territory body corporate manager, see section 104.
-
 ##### <a id="102"></a>102  Possession or control of level 2 prohibited material in prohibited material areas
 
                    A person commits an offence if:
@@ -3084,8 +3082,6 @@ Note:          For the liability of a body corporate manager, 
                      (c)  the material is in a prohibited material area.
 
                     Penalty:  100 penalty units.
-
-Note:          For the liability of a body corporate manager, or a State/Territory body corporate manager, see section 104.
 
 ##### <a id="103"></a>103  Supplying prohibited material in and to prohibited material areas
 
@@ -3111,8 +3107,6 @@ Supply generally
 
                     Penalty:  100 penalty units.
 
-Note:          For the liability of a body corporate manager, or a State/Territory body corporate manager, see section 104.
-
 Supplying 5 or more items
 
              (2)  A person commits an offence if:
@@ -3137,8 +3131,6 @@ Supplying 5 or more items
 
                     Penalty:  200 penalty units or imprisonment for 2 years, or both.
 
-Note:          For the liability of a body corporate manager, or a State/Territory body corporate manager, see section 104.
-
              (3)  For the purposes of proving an offence against subsection (2), a person who engages in conduct specified in subparagraph (2)(a)(ii), (iii), (iv) or (v) in a prohibited material area, is taken to have done so:
 
                      (a)  intending to supply the material; or
@@ -3153,41 +3145,21 @@ as the subparagraph requires, to a person in a prohibited material area.
 
 Note:          A defendant bears a legal burden in relation to the matters in subsection (4)—see section 13.4 of the _Criminal Code_.
 
-##### <a id="104"></a>104  Liability of body corporate managers
+##### <a id="104"></a>104  Body corporate managers taken to have committed offences
 
-Body corporate managers generally
+             (1)  An offence against this Part that is committed by a body corporate is also taken to have been committed by:
 
-             (1)  A body corporate manager commits an offence if:
+                     (a)  each body corporate manager; and
 
-                     (a)  the body corporate commits an offence against this Part; and
+                     (b)  any State/Territory body corporate manager for the State or Territory in which the offence is committed.
 
-                     (b)  the manager knew that the offence would be committed; and
+             (2)  A body corporate manager or State/Territory body corporate manager does not commit an offence because of subsection (1) if he or she:
 
-                     (c)  the manager was in a position to influence the conduct of the body corporate in relation to the commission of the offence; and
+                     (a)  does not know of the circumstances that constitute the offence; or
 
-                     (d)  the manager failed to take all reasonable steps to prevent the commission of the offence.
+                     (b)  knows of those circumstances but takes all reasonable steps to prevent the commission of the offence as soon as possible after he or she becomes aware of those circumstances.
 
-State/Territory body corporate managers
-
-             (2)  A State/Territory body corporate manager for a State or Territory commits an offence if:
-
-                     (a)  the body corporate commits an offence against this Part within the State or Territory; and
-
-                     (b)  the manager knew that the offence would be committed; and
-
-                     (c)  the manager was in a position to influence the conduct of the body corporate in relation to the commission of the offence; and
-
-                     (d)  the manager failed to take all reasonable steps to prevent the commission of the offence.
-
-Maximum penalties
-
-             (3)  The maximum penalty for an offence against subsection (1) or (2) is one‑fifth of the maximum penalty that could be imposed for the offence committed by the body corporate, subject to subsection (4).
-
-             (4)  An offence against subsection (1) or (2) that relates to an offence committed by a body corporate against subsection 103(2) (supplying 5 or more items in or to a prescribed area) is punishable by either or both of the following:
-
-                     (a)  a pecuniary penalty not exceeding 200 penalty units;
-
-                     (b)  imprisonment for a term not exceeding 2 years.
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2)—see subsection 13.3(3) of the _Criminal Code_.
 
 ##### <a id="105"></a>105  Division does not apply to postal services
 
@@ -3794,7 +3766,7 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
     <div>Schedule 3: 16 July 2012 ( <i>see </i>s. 2(1))</div>
   </td>
   <td>
-    <div>Sch. 3 (items 15, 16)</div>
+    <div>Sch. 3 (items 15, 16)</div>
   </td>
 </tr>
 <tr>
@@ -3827,23 +3799,6 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   <td>
     <div>Schedule 2 (items 158, 159): 3 Dec 2012 ( <i>see</i>s. 2(1)) 
 Schedule 4 (item 13): \[ <i>see (f)</i>and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Liability for Corporate Fault Reform Act 2012</div>
-  </td>
-  <td>
-    <div>180, 2012</div>
-  </td>
-  <td>
-    <div>10 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 4–6): 11 Dec 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -5698,14 +5653,6 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 101</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 102</div>
   </td>
   <td>
@@ -5726,14 +5673,6 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
   </td>
   <td>
     <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 102</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5762,34 +5701,10 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 103(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 104</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5963,13 +5878,13 @@ Omit “or MA 15+”, substitute “, MA 15+ or R 18+”.
 
 After “MA 15+”, insert “, R 18+”.
 
-As at 19 December 2012 the amendments are not incorporated in this compilation.
+As at 10 December 2012 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
 _Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)_
 
-The following amendment commences immediately after the commencement of Schedule 1 to the _Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012_(still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 14):
+The following amendment commences immediately after the commencement of Schedule 1 to the _Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012_(still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 14):
 
 ## Schedule 4
 
@@ -5977,7 +5892,7 @@ The following amendment commences immediately after the commencement of Schedule
 
 After “not‑for‑profit entity”, insert “(within the meaning of the _Income Tax Assessment Act 1997_)”.
 
-As at 19 December 2012 the amendment is not incorporated in this compilation.
+As at 10 December 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -6410,8 +6325,7 @@ _Classification (Publications, Films and Computer Games) Amendment (Assessments 
 
 * * *
 
-_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 
- (No. 93, 2010)_
+_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
 
 ## Schedule 1
 
@@ -6439,7 +6353,7 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012 (No. 101, 2012)_
+_Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012 (No. 101, 2012)_
 
 ## Schedule 3
 
