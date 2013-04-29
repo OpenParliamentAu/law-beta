@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00252/Html/7ed2c2b4-260b-4121-903f-a0e2b041f583_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00122/Html/AircraftNoiseLevyColection95_WD02_image001.gif)
 
 # Aircraft Noise Levy Collection Act 1995
 
 **Act No. 98 of 1995 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act 5 of 2011
+This compilation was prepared on 26 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -44,13 +44,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Penalty for late payment of levy
 
-[10](#10).          Remission of late‑payment penalty
+[10](#10).          Remission of late-payment penalty
 
 [11](#11).          Manner of payment
 
-[12](#12).          Recovery of unpaid levy and late‑payment penalty
+[12](#12).          Recovery of unpaid levy and late-payment penalty
 
-[13](#13).          Refund of overpayment of levy or late‑payment penalty
+[13](#13).          Refund of overpayment of levy or late-payment penalty
 
 **Part 4—Powers to gather information relevant to collecting levy**
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5—Miscellaneous**
 
-[17](#17).          Agreement for collecting levy and late‑payment penalty
+[17](#17).          Agreement for collecting levy and late-payment penalty
 
 [18](#18).          Evidentiary certificates
 
@@ -86,7 +86,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act commences on the same day as the _Aircraft Noise Levy Act 1995_.
 
-##### <a id="3"></a>3  Definitions
+##### <a id="3"></a>3  Definitions
 
                    In this Act, unless the contrary intention appears:
 
@@ -94,13 +94,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means a corporation established for a public purpose by a law of the Commonwealth.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="jet-aircraft"></a>**_jet aircraft_** means an aircraft that is propelled by one or more turbofan engines, turbojet engines, unducted fan engines or rocket engines.
 
                     <a name="land"></a>**_landing_** means a landing of a jet aircraft at an airport that is a leviable airport when the landing occurs.
 
-                    <a name="late-payment-penalti"></a>**_late‑payment penalty_** means penalty imposed by section 9.
+                    <a name="late-payment-penalti"></a>**_late-payment penalty_** means penalty imposed by section 9.
 
                     <a name="leviabl-airport"></a>**_leviable airport_** means an airport that is declared to be a leviable airport under section 7.
 
@@ -116,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="public-build"></a>**_public building_** means:
 
-                     (a)  a hospital that provides health care to in‑patients; or
+                     (a)  a hospital that provides health care to in-patients; or
 
                      (b)  a nursing home; or
 
@@ -126,13 +124,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  provision of residential care for aged people;
 
-                            (iii)  provision of centre‑based child care for groups of children;
+                            (iii)  provision of centre-based child care for groups of children;
 
                             (iv)  religious services.
 
                     <a name="qualifi-airport"></a>**_qualifying airport_** has the meaning given by section 6.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
 ##### <a id="4"></a>4  Operator of a jet aircraft
 
@@ -258,7 +256,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Act binds Crown
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory and of the Northern Territory.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory and of the Northern   Territory.
 
 ##### <a id="5A"></a>5A  Application of the _Criminal Code_
 
@@ -280,9 +278,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  at that time there is:
 
-                              (i)  a public building within a 25‑unit contour shown on an Australian Noise Exposure Forecast previously prepared for the area around the airport for a date after that time; or
+                              (i)  a public building within a 25-unit contour shown on an Australian Noise Exposure Forecast previously prepared for the area around the airport for a date after that time; or
 
-                             (ii)  a residence within a 30‑unit contour shown on an Australian Noise Exposure Forecast previously prepared for the area around the airport for a date after that time; and
+                             (ii)  a residence within a 30-unit contour shown on an Australian Noise Exposure Forecast previously prepared for the area around the airport for a date after that time; and
 
                      (b)  the Commonwealth is funding at that time, or has funded before that time, a noise amelioration program for the airport.
 
@@ -322,7 +320,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (7)  The Minister is taken:
 
-                     (a)  to have declared under subsection (1) that Sydney (Kingsford‑Smith) Airport is a leviable airport for the period from and including 1 July 1996 to and including 21 February 2001; and
+                     (a)  to have declared under subsection (1) that Sydney (Kingsford-Smith) Airport is a leviable airport for the period from and including 1 July 1996 to and including 21 February 2001; and
 
                      (b)  to have made that declaration by notice published in the _Gazette_ before 1 July 1996.
 
@@ -346,11 +344,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (5)  If the judgment debt bears interest, the penalty payable under subsection (1) is reduced by the following amount: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00252/Html/7ed2c2b4-260b-4121-903f-a0e2b041f583_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00122/Html/AircraftNoiseLevyColection95_WD02_image002.gif)
 
-##### <a id="10"></a>10  Remission of late‑payment penalty
+##### <a id="10"></a>10  Remission of late-payment penalty
 
-             (1)  If late‑payment penalty is payable in relation to levy on a landing, the Secretary may remit some or all of the late‑payment penalty in any of the following cases:
+             (1)  If late-payment penalty is payable in relation to levy on a landing, the Secretary may remit some or all of the late-payment penalty in any of the following cases:
 
                      (a)  the Secretary is satisfied that the operator of the jet aircraft that made the landing did not contribute to the delay in payment and has taken reasonable steps to mitigate the causes of the delay;
 
@@ -376,19 +374,19 @@ The delegation must be in writing.
 
 ##### <a id="11"></a>11  Manner of payment
 
-                   Levy and late‑payment penalty must be paid in the manner prescribed by the regulations.
+                   Levy and late-payment penalty must be paid in the manner prescribed by the regulations.
 
-##### <a id="12"></a>12  Recovery of unpaid levy and late‑payment penalty
+##### <a id="12"></a>12  Recovery of unpaid levy and late-payment penalty
 
-             (1)  Unpaid levy on a landing and related late‑payment penalty may be recovered as a debt in any court of competent jurisdiction by the Secretary suing on behalf of the Commonwealth.
+             (1)  Unpaid levy on a landing and related late-payment penalty may be recovered as a debt in any court of competent jurisdiction by the Secretary suing on behalf of the Commonwealth.
 
              (2)  The Secretary may delegate to a Commonwealth authority the Secretary’s power under subsection (1). The delegation must be in writing.
 
              (3)  In exercising the delegated power, the delegate is subject to any directions given by the Secretary.
 
-##### <a id="13"></a>13  Refund of overpayment of levy or late‑payment penalty
+##### <a id="13"></a>13  Refund of overpayment of levy or late-payment penalty
 
-                   An amount of levy or late‑payment penalty that is overpaid by the operator of a jet aircraft may be credited against a liability of the operator to pay levy or late‑payment penalty, and must be refunded to the extent that it is not credited.
+                   An amount of levy or late-payment penalty that is overpaid by the operator of a jet aircraft may be credited against a liability of the operator to pay levy or late-payment penalty, and must be refunded to the extent that it is not credited.
 
 ## Part 4—Powers to gather information relevant to collecting levy
 
@@ -432,7 +430,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  criminal proceedings other than proceedings for an offence against subsection (1) or (4); or
 
-                     (b)  proceedings for recovery of an amount of late‑payment penalty.
+                     (b)  proceedings for recovery of an amount of late-payment penalty.
 
              (4)  A person who presents a document, makes a statement or gives a return or information, that is false or misleading in a material particular, to a person carrying out functions under this Act is guilty of an offence punishable on conviction by a term of imprisonment not exceeding 12 months.
 
@@ -486,13 +484,13 @@ that relates to an offence against this Act.
 
 ## Part 5—Miscellaneous
 
-##### <a id="17"></a>17  Agreement for collecting levy and late‑payment penalty
+##### <a id="17"></a>17  Agreement for collecting levy and late-payment penalty
 
-             (1)  On behalf of the Commonwealth, the Finance Minister may enter into an agreement with a Commonwealth authority for the receipt or custody of levy or late‑payment penalty on behalf of the Commonwealth.
+             (1)  On behalf of the Commonwealth, the Minister for Finance may enter into an agreement with a Commonwealth authority for the receipt or custody of levy or late-payment penalty on behalf of the Commonwealth.
 
-             (2)  The Finance Minister may delegate his or her power under subsection (1) to an SES employee or acting SES employee. The delegation must be in writing.
+             (2)  The Minister for Finance may delegate his or her power under subsection (1) to an SES employee or acting SES employee. The delegation must be in writing.
 
-             (3)  In exercising the delegated power, the delegate is subject to any directions given by the Finance Minister.
+             (3)  In exercising the delegated power, the delegate is subject to any directions given by the Minister for Finance.
 
 ##### <a id="18"></a>18  Evidentiary certificates
 
@@ -538,7 +536,7 @@ whether or not the authority’s powers and functions (apart from this section) 
 
 ##### <a id="21"></a>21  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -550,7 +548,7 @@ whether or not the authority’s powers and functions (apart from this section) 
 
                      (b)  requiring operators of jet aircraft to give returns or information for the purposes of this Act; and
 
-                     (c)  rules of procedure in proceedings for recovery of levy or late‑payment penalty; and
+                     (c)  rules of procedure in proceedings for recovery of levy or late-payment penalty; and
 
                      (d)  prescribing penalties, not exceeding a fine of 10 penalty units, for offences against the regulations.
 
@@ -593,166 +591,149 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>Aircraft Noise Levy Collection Act 1995</div>
-  </td>
-  <td>
-    <div>98, 1995</div>
-  </td>
-  <td>
-    <div>5 Sept 1995</div>
-  </td>
-  <td>
-    <div>5 Sept 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 152): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 63‑66): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aircraft Noise Levy Collection Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>17, 2001</div>
-  </td>
-  <td>
-    <div>30 Mar 2001</div>
-  </td>
-  <td>
-    <div>30 Mar 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>143, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002</div>
-  </td>
-  <td>
-    <div>8, 2002</div>
-  </td>
-  <td>
-    <div>4 Apr 2002</div>
-  </td>
-  <td>
-    <div>5 Apr 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008</div>
-  </td>
-  <td>
-    <div>87, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 24): 20 Mar 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 1): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 3, 4) and Schedule 7 (item 6): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>Aircraft Noise Levy Collection Act 1995</div>
+    </td>
+    <td>
+      <div>98, 1995</div>
+    </td>
+    <td>
+      <div>5 Sept 1995</div>
+    </td>
+    <td>
+      <div>5 Sept 1995</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 152): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 63-66): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aircraft Noise Levy Collection Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>17, 2001</div>
+    </td>
+    <td>
+      <div>30 Mar 2001</div>
+    </td>
+    <td>
+      <div>30 Mar 2001</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>143, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>2 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002</div>
+    </td>
+    <td>
+      <div>8, 2002</div>
+    </td>
+    <td>
+      <div>4 Apr 2002</div>
+    </td>
+    <td>
+      <div>5 Apr 2002</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008</div>
+    </td>
+    <td>
+      <div>87, 2008</div>
+    </td>
+    <td>
+      <div>20 Sept 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 24): 20 Mar 2009</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
+    </td>
+    <td>
+      <div>4, 2010</div>
+    </td>
+    <td>
+      <div>19 Feb 2010</div>
+    </td>
+    <td>
+      <div>Schedule 11 (item 1): 20 Feb 2010</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Aircraft Noise Levy Collection Act 1995_ was amended by Schedule 2 (item 152) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     The _Aircraft Noise Levy Collection Act 1995_ was amended by Schedule 1 (items 63‑66) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Schedule 1 (items 63-66) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -786,14 +767,6 @@ _(b)_     The _Aircraft Noise Levy Collection Act 1995_ was amended by S
     </td>
     <td>
       <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 5, 2011</div>
     </td>
   </tr>
   <tr>
@@ -889,7 +862,7 @@ _(b)_     The _Aircraft Noise Levy Collection Act 1995_ was amended by S
       <div>S. 17</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 146, 1999; No. 5, 2011</div>
+      <div>am. No. 152, 1997; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
