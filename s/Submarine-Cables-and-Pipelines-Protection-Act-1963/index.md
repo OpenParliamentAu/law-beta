@@ -1,455 +1,567 @@
-![](http://www.comlaw.gov.au/Details/C2005C00548/Html/7522A950B42B8C85CA25706D001FE198/$FILE/image001.gif)
+**
 
-# Submarine Cables and Pipelines Protection Act 1963
-
-**Act No. 61 of 1963 as amended**
-
-This compilation was prepared on 30 August 2005
-taking into account amendments up to Act No. 104 of 2005
-
-The text of any of those amendments not in force 
-on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963 
+**
 
 
-# Contents
+**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
-
-[2](#2).            Commencement [_see_ Note 1]                                                               1
-
-[3](#3).            Saving of other laws                                                                             1
-
-[4](#4).            Extension of Act to Territories                                                            1
-
-[5](#5).            Act applies only to cables and pipelines beneath the high seas          1
-
-[5A](#5A).         Application of the _Criminal Code_                                                       2
-
-[6](#6).            Act binds Crown                                                                                 2
-
-[7](#7).            Persons not to break or injure submarine cables or pipelines              2
-
-[8](#8).            Liability for breaking or injuring a cable or pipeline                            2
-
-[9](#9).            Indemnity for loss of anchor etc                                                          2
-
-[10](#10).          Punishment of offences                                                                       2
-
-[11](#11).          Jurisdiction of courts                                                                           2
-
-**Notes** 
+###  Compilation Information 
+**
 
 
-## An Act relating to the Protection of Submarine Cables and Pipelines beneath the High Seas
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Submarine Cables and Pipelines Protection Act 1963_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
 
-##### <a id="3"></a>3  Saving of other laws
+**
 
-             (1)  This Act shall be read and construed as being in addition to and not in derogation of or in substitution for any other law of the Commonwealth or of a State or Territory. 
+###  Long Title 
+**
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Submarine Cables and Pipelines Protection Act 1963_.
 
-             (2)  The reference in the last preceding subsection to a law of the Commonwealth includes a reference to the Imperial Act known as the Submarine Telegraph Act, 1885, insofar as that Act is part of the law of the Commonwealth. 
+ 
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 2   Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which it receives the Royal
 
-##### <a id="4"></a>4  Extension of Act to Territories
+Assent.
 
-                   This Act extends to all the Territories. 
+ 
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 3  Saving of other laws 
+<dt>(1)</dt><dd>This Act shall be read and construed as being in addition to and not in
 
-##### <a id="5"></a>5  Act applies only to cables and pipelines beneath the high seas
+derogation of or in substitution for any other law of the Commonwealth or of a
 
-             (1)  A reference in this Act to a submarine cable or pipeline shall be read as a reference only to a cable or pipeline beneath the high seas or in the exclusive economic zone  or to such part of a cable or pipeline as is beneath the high seas or in the exclusive economic zone. 
+State or Territory. </dd> <dt>(2)</dt><dd>The reference in the last preceding subsection to a law of the Commonwealth includes a reference to the Imperial Act known as the Submarine Telegraph Act, 1885, insofar as that Act is part of the law of the Commonwealth. </dd> 
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 4  Extension of Act to Territories 
+This Act extends to all the Territories.
 
-             (2)  In subsection (1):
+ 
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 5  Act applies only to cables and pipelines beneath the high seas 
+<dt>(1)</dt><dd>A reference in this Act to a submarine cable or pipeline shall be read as
 
-                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+a reference only to a cable or pipeline beneath the high seas or in the
 
-                    <a name="high-sea"></a>**_high seas_** has the same meaning as in the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982.
+exclusive economic zone  or to such part of a cable or pipeline as is beneath
 
-##### <a id="5A"></a>5A  Application of the _Criminal Code_
+the high seas or in the exclusive economic zone. </dd> <dt>(2)</dt><dd>In subsection&#160;(1): </dd> 
+<dl compact=""><dl compact="">
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
+_exclusive economic zone_ has the same meaning as in the _Seas and Submerged Lands Act 1973_. _high seas_ has the same meaning as in the United Nations Convention on the Law of the Sea done at Montego Bay on 10&#160;December 1982\.  </dl></dl>
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+**
 
-##### <a id="6"></a>6  Act binds Crown
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 5A  Application of the _Criminal Code_ 
+**
 
-                   This Act binds the Crown in right of the Commonwealth or of a State and any authority constituted by or under a law of the Commonwealth, a State or a Territory. 
+ <dl compact="">
 
-##### <a id="7"></a>7  Persons not to break or injure submarine cables or pipelines
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences created by
 
-             (1)  A person commits an offence if the person engages in conduct and the conduct results in a ship registered in Australia or in a Territory breaking or injuring:
+this Act.
 
-                     (a)  a submarine telegraph or a telephone cable in such a manner as might interrupt or obstruct telegraphic or telephonic communications; or
+ </dl>
 
-                     (b)  a submarine pipeline; or
+<dl compact=""><dl compact="">
 
-                     (c)  a submarine high-voltage cable.
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-                    Penalty:  $2,000, or imprisonment for 12 months.
+general principles of criminal responsibility.
 
-          (1A)  A person commits an offence if the person engages in conduct and the person is negligent as to whether the conduct will result in a ship registered in Australia or in a Territory breaking or injuring:
+ </dl></dl>
 
-                     (a)  a submarine telegraph or a telephone cable in such a manner as might interrupt or obstruct telegraphic or telephonic communications; or
+<center>Back to Top</center>
 
-                     (b)  a submarine pipeline; or
+**
 
-                     (c)  a submarine high-voltage cable.
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 6  Act binds Crown 
+**
 
-                    Penalty:  $1,000, or imprisonment for 3 months.
+ <dl compact="">
 
-             (2)  Where:
+		This Act binds the Crown in right of the Commonwealth or of a State and any
 
-                     (a)  a breakage of, or an injury to, a cable or pipeline is caused by persons acting with the sole object of saving their lives or their ships; and
+authority constituted by or under a law of the Commonwealth, a State or a
 
-                     (b)  those persons took all necessary precautions to avoid breaking or injuring the cable or pipeline,
+Territory.
+
+ </dl>
+
+**
+
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 7  Persons not to break or injure submarine cables or pipelines 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>A person commits an offence if the person engages in conduct and the
+
+conduct results in a ship registered in Australia or in a Territory breaking or
+
+injuring:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a submarine telegraph or a telephone cable in such a manner as might
+
+interrupt or obstruct telegraphic or telephonic communications; or</dd>
+
+<dt>(b)</dt><dd>a submarine pipeline; or</dd>
+
+<dt>(c)</dt><dd>a submarine high-voltage cable.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	$2,000, or imprisonment for 12 months.
+
+<dl compact="">
+
+<dt>(1A)</dt><dd>A person commits an offence if the person engages in conduct and the
+
+person is negligent as to whether the conduct will result in a ship registered
+
+in Australia or in a Territory breaking or injuring:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a submarine telegraph or a telephone cable in such a manner as might
+
+interrupt or obstruct telegraphic or telephonic communications; or</dd>
+
+<dt>(b)</dt><dd>a submarine pipeline; or</dd>
+
+<dt>(c)</dt><dd>a submarine high-voltage cable.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	$1,000, or imprisonment for 3 months.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a breakage of, or an injury to, a cable or pipeline is caused by persons
+
+acting with the sole object of saving their lives or their ships; and</dd>
+
+<dt>(b)</dt><dd>those persons took all necessary precautions to avoid breaking or injuring
+
+the cable or pipeline,
+
+</dd>
+
+</dl></dl></dl>
 
 the last preceding subsection does not apply in relation to the break or injury. 
 
-             (3)  In this section:
+<dl compact="">
 
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+<dt>(3)</dt><dd>In this section:
 
-                     (a)  do an act; or
+</dd> </dl>
 
-                     (b)  omit to perform an act.
+<def><dl compact=""><dl compact="">
 
-##### <a id="8"></a>8  Liability for breaking or injuring a cable or pipeline
+_engage in conduct_ means:
 
-                   If a person, in the course of laying or repairing a submarine cable or pipeline of which he is the owner, causes a break in or injury to another cable or pipeline, he is liable to bear the cost of repairing the break or injury. 
+ </dl></dl>
 
-##### <a id="9"></a>9  Indemnity for loss of anchor etc
+<dl compact=""><dl compact=""><dl compact="">
 
-                   If, after all reasonable precautionary measures have been taken, an anchor, a net or any other fishing gear belonging to a ship is sacrificed in order to avoid injuring a submarine cable or pipeline, the owner of the ship is entitled to be indemnified for his loss by the owner of the cable or pipeline. 
+<dt>(a)</dt><dd>do an act; or</dd>
 
-##### <a id="10"></a>10  Punishment of offences
+<dt>(b)</dt><dd>omit to perform an act.
 
-             (1)  An offence against this Act may be prosecuted either summarily or upon indictment, but an offender is not liable to be punished more than once in respect of the same offence. 
+</dd>
 
-             (2)  In summary proceedings against a person for an offence against this Act, the court shall not impose on that person, in respect of the offence, a penalty exceeding One thousand dollars or imprisonment for a term exceeding three months. 
+</dl></dl></dl>
 
-##### <a id="11"></a>11  Jurisdiction of courts
+**
 
-             (1)  Subject to the succeeding provisions of this section:
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 8  Liability for breaking or injuring a cable or pipeline 
+**
 
-                     (a)  the several courts of the States are invested with federal jurisdiction; and
+ <dl compact="">
 
-                     (b)  jurisdiction is conferred on the several courts of the Territories,
+		If a person, in the course of laying or repairing a submarine cable or
+
+pipeline of which he is the owner, causes a break in or injury to another cable
+
+or pipeline, he is liable to bear the cost of repairing the break or injury.
+
+ </dl>
+
+**
+
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 9  Indemnity for loss of anchor etc 
+**
+
+ <dl compact="">
+
+		If, after all reasonable precautionary measures have been taken, an anchor, a
+
+net or any other fishing gear belonging to a ship is sacrificed in order to
+
+avoid injuring a submarine cable or pipeline, the owner of the ship is entitled
+
+to be indemnified for his loss by the owner of the cable or pipeline.
+
+ </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 10  Punishment of offences 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An offence against this Act may be prosecuted either summarily or upon
+
+indictment, but an offender is not liable to be punished more than once in
+
+respect of the same offence. </dd> <dt>(2)</dt><dd>In summary proceedings against a person for an offence against this Act, the court shall not impose on that person, in respect of the offence, a penalty exceeding One thousand dollars or imprisonment for a term exceeding three months. </dd> </dl>
+
+**
+
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963- SECT 11  Jurisdiction of courts 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to the succeeding provisions of this section:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the several courts of the States are invested with federal jurisdiction;
+
+and</dd>
+
+<dt>(b)</dt><dd>jurisdiction is conferred on the several courts of the Territories,
+
+</dd>
+
+</dl></dl></dl>
 
 with respect to offences against this Act. 
 
-             (2)  The jurisdiction invested in or conferred on courts by the last preceding subsection is invested or conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, whether those limits are as to subject-matter or otherwise, but subject to the conditions and restrictions specified in paragraphs (a), (b) and (c) of subsection (2) of section thirty-nine of the _Judiciary Act 1903-1960_. 
+<dl compact="">
 
-             (3)  The jurisdiction invested in, or conferred on, a court of summary jurisdiction by this section shall not be judicially exercised except by a Chief, Police, Stipendiary, Resident or Special Magistrate. 
+<dt>(2)</dt><dd>The jurisdiction invested in or conferred on courts by the last preceding
 
-             (4)  The trial on indictment of an offence against this Act, not being an offence committed within a State, may be held in any State or in any Territory. 
+subsection is invested or conferred within the limits (other than limits having
 
-             (5)  Subject to this Act, the laws of a State or Territory with respect to the arrest and custody of offenders or persons charged with offences and the procedure for:
+effect by reference to the places at which offences are committed) of their
 
-                     (a)  their summary conviction;
+several jurisdictions, whether those limits are as to subject-matter or
 
-                     (b)  their examination and commitment for trial on indictment;
+otherwise, but subject to the conditions and restrictions specified in
 
-                     (c)  their trial and conviction on indictment; and
+paragraphs&#160;(a), (b) and (c) of subsection (2) of section thirty-nine of
 
-                     (d)  the hearing and determination of appeals arising out of any such trial or conviction or out of any proceedings connected therewith,
+the _Judiciary Act 1903-1960_. </dd> <dt>(3)</dt><dd>The jurisdiction invested in, or conferred on, a court of summary jurisdiction by this section shall not be judicially exercised except by a Chief, Police, Stipendiary, Resident or Special Magistrate. </dd> <dt>(4)</dt><dd>The trial on indictment of an offence against this Act, not being an offence committed within a State, may be held in any State or in any Territory. </dd> <dt>(5)</dt><dd>Subject to this Act, the laws of a State or Territory with respect to the arrest and custody of offenders or persons charged with offences and the procedure for: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>their summary conviction;</dd>
+
+<dt>(b)</dt><dd>their examination and commitment for trial on indictment;</dd>
+
+<dt>(c)</dt><dd>their trial and conviction on indictment; and</dd>
+
+<dt>(d)</dt><dd>the hearing and determination of appeals arising out of any such trial or
+
+conviction or out of any proceedings connected therewith,
+
+</dd>
+
+</dl></dl></dl>
 
 and for holding accused persons to bail apply, so far as they are applicable, to a person who is charged in that State or Territory with an offence against this Act. 
 
-             (6)  Except as provided by this section, the _Judiciary Act 1903-1960_ applies in relation to offences against this Act. 
+<dl compact="">
+
+<dt>(6)</dt><dd>Except as provided by this section, the _Judiciary Act 1903-1960_
+
+applies in relation to offences against this Act.
+
+</dd> </dl>
+
+<center>**
+
+###  SUBMARINE CABLES AND PIPELINES PROTECTION ACT 1963<centreit>Notes to the _Submarine Cables and Pipelines Protection Act 1963_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Submarine Cables and Pipelines Protection Act 1963_ as shown in this compilation comprises Act No.&#160;61, 1963 amended as indicated in the Tables below.
+ All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<center>Back to Top</center>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Submarine Cables and Pipelines Protection Act 1963</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>61, 1963</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>28 Oct 1963</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>28 Oct 1963</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision (Decimal Currency) Act 1966</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>93, 1966</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29 Oct 1966</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Dec 1966</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1973</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>216, 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19 Dec 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>31 Dec 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 9(1)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>2 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>S. 4 \[see Table A]</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>International Maritime Conventions Legislation Amendment Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>149, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Schedule 4: Royal Assent <i>(a)</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>&#151;</div>
+
+  </th>
+</tr></table>_(a) Back to Top_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Schedule 4 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+**Table of Amendments**
+
+ad. = added or inserted	am. = amended	rep. = repealed	rs. = repealed and substituted 
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Preamble</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 149, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 3, 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 149, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 143, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 7</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 1966; No.&#160;216, 1973; No. 143, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 10</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 1966</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 11</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973</div>
+
+  </td>
+</tr></table>**Table A**
+
+**Application, saving or transitional provisions**
+
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001_(No. 143, 2001) 
+
+**4  Application of Amendments**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
+
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
+
+</def>
 
 
-# Notes to the _Submarine Cables and Pipelines Protection Act 1963_
-
-### Note 1
-
-The _Submarine Cables and Pipelines Protection Act 1963_ as shown in this compilation comprises Act No. 61, 1963 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="23%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Submarine Cables and Pipelines Protection Act 1963</div>
-    </td>
-    <td>
-      <div>61, 1963</div>
-    </td>
-    <td>
-      <div>28 Oct 1963</div>
-    </td>
-    <td>
-      <div>28 Oct 1963</div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-    </td>
-    <td>
-      <div>93, 1966</div>
-    </td>
-    <td>
-      <div>29 Oct 1966</div>
-    </td>
-    <td>
-      <div>1 Dec 1966</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1973</div>
-    </td>
-    <td>
-      <div>216, 1973</div>
-    </td>
-    <td>
-      <div>19 Dec 1973</div>
-    </td>
-    <td>
-      <div>31 Dec 1973</div>
-    </td>
-    <td>
-      <div>S. 9(1)</div>
-    </td>
-  </tr>
-  <thead>
-    <tr>
-      <td>
-        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-      </td>
-      <td>
-        <div>143, 2001</div>
-      </td>
-      <td>
-        <div>1 Oct 2001</div>
-      </td>
-      <td>
-        <div>2 Oct 2001</div>
-      </td>
-      <td>
-        <div>S. 4 \[ <i>see</i>Table A]</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>International Maritime Conventions Legislation Amendment Act 2001</div>
-      </td>
-      <td>
-        <div>149, 2001</div>
-      </td>
-      <td>
-        <div>1 Oct 2001</div>
-      </td>
-      <td>
-        <div>Schedule 4: Royal Assent <i>(a)</i></div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005</div>
-      </td>
-      <td>
-        <div>104, 2005</div>
-      </td>
-      <td>
-        <div>23 Aug 2005</div>
-      </td>
-      <td>
-        <div>Schedule 1 (item 1): \[ <i>see</i>Note 2]</div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
-  </thead>
-</tbody></table>
-
-
-_(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Schedule 4 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Preamble</div>
-    </td>
-    <td>
-      <div>rep. No. 149, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 3, 4</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 149, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 93, 1966; No. 216, 1973; No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 10</div>
-    </td>
-    <td>
-      <div>am. No. 93, 1966</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-### Note 2
-
-_Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005 (No. 104, 2005)_
-
-The following amendment commences on 20 September 2005:
-
-## Schedule 1
-
-## 1  Subsection 5(1)
-
-Repeal the subsection, substitute:
-
-             (1)  This Act applies only to a submarine cable or pipeline, or that part of a submarine cable or pipeline:
-
-                     (a)  that is beneath the high seas or in the exclusive economic zone; and
-
-                     (b)  that is not a submarine cable (within the meaning of Schedule 3A to the _Telecommunications Act 1997_) in a protection zone (within the meaning of that Schedule).
-
-As at 30 August 2005 the amendment is not incorporated in this compilation.
-
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
-
-##### <a id="4"></a>4  Application of Amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-
- 
-
- 
