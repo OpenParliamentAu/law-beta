@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00547/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00598/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
 **Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 17 October 2008
- taking into account amendments up to Act No. 92 of 2008
+This compilation was prepared on 28 September 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -17,71 +17,71 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Act binds the Crown
+[3](#3).            Act binds the Crown                                                                           1
 
-[4](#4).            External Territories
+[4](#4).            External Territories                                                                              1
 
-[5](#5).            Application of Act to Lloyd’s
+[5](#5).            Application of Act to Lloyd’s                                                            1
 
-[6](#6).            Definitions
+[6](#6).            Definitions                                                                                           1
 
 **Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
 
-[7](#7).            Definitions
+[7](#7).            Definitions                                                                                           2
 
-[8](#8).            Liability to levy
+[8](#8).            Liability to levy                                                                                   4
 
-[9](#9).            When levy due for payment
+[9](#9).            When levy due for payment                                                                5
 
-[10](#10).          Late payment penalty
+[10](#10).          Late payment penalty                                                                         6
 
-[11](#11).          Payment of levy and late payment penalty
+[11](#11).          Payment of levy and late payment penalty                                        6
 
-[12](#12).          Waiver of levy and late payment penalty
+[12](#12).          Waiver of levy and late payment penalty                                           6
 
-[13](#13).          Recovery of levy and late payment penalty
+[13](#13).          Recovery of levy and late payment penalty                                       7
 
-[14](#14).          Exempting laws ineffective
+[14](#14).          Exempting laws ineffective                                                                  7
 
-[15](#15).          Regulations may modify this Part if levy Act commences during a financial year
+[15](#15).          Regulations may modify this Part if levy Act commences during a financial year  7
 
 **Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
 
-[16](#16).          Definitions
+[16](#16).          Definitions                                                                                           8
 
-[17](#17).          Fund’s accounts to be prima facie evidence of value of its assets
+[17](#17).          Fund’s accounts to be prima facie evidence of value of its assets       8
 
-[18](#18).          Liability to levy
+[18](#18).          Liability to levy                                                                                   9
 
-[19](#19).          When levy due for payment
+[19](#19).          When levy due for payment                                                                9
 
-[20](#20).          Late payment penalty
+[20](#20).          Late payment penalty                                                                         9
 
-[21](#21).          Payment of levy and late payment penalty
+[21](#21).          Payment of levy and late payment penalty                                        9
 
-[22](#22).          Waiver of late payment penalty
+[22](#22).          Waiver of late payment penalty                                                          9
 
-[23](#23).          Recovery of levy and late payment penalty
+[23](#23).          Recovery of levy and late payment penalty                                     10
 
-[24](#24).          Application of levy, late payment penalty and repayments of financial assistance
+[24](#24).          Application of levy, late payment penalty and repayments of financial assistance               10
 
-[25](#25).          Exempting laws ineffective
+[25](#25).          Exempting laws ineffective                                                                10
 
-[26](#26).          Delegation
+[26](#26).          Delegation                                                                                          10
 
 **Part 4—Miscellaneous**
 
-[27](#27).          Review of certain decisions
+[27](#27).          Review of certain decisions                                                               11
 
-[28](#28).          Statements to accompany notification of decisions
+[28](#28).          Statements to accompany notification of decisions                          12
 
-[29](#29).          Regulations
+[29](#29).          Regulations                                                                                        13
 
 **Notes** 
 
@@ -361,7 +361,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00547/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00598/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -733,23 +733,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (item 21)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>First Home Saver Accounts (Further Provisions) Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>92, 2008</div>
-  </td>
-  <td>
-    <div>30 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 2–5): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 (items 3 and 4) only of the _Superannuation Legislation Amendment Act (No. 3) 1999,_ subsection 2(1) of which provides as follows _:_
@@ -961,43 +944,6 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>rs. No. 8, 2005; No. 154, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_First Home Saver Accounts (Further Provisions) Amendment Act 2008
- (No. 92, 2008)_
-
-The following amendments commence on 1 July 2009:
-
-## Schedule 3
-
-## 2  Section 7 (at the end of the definition of _leviable body_)
-
-Add:
-
-                   ; (g)  a leviable FHSA entity.
-
-## 3  Section 7
-
-Insert:
-
-                    <a name="leviabl-fhsa-entiti"></a>**_leviable FHSA entity_** has the same meaning as in the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_.
-
-## 4  Section 7 (at the end of the definition of _levy_)
-
-Add:
-
-               ; or (g)  in respect of a leviable body that is a leviable FHSA entity—levy imposed by the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_.
-
-## 5  At the end of section 8
-
-Add:
-
-Leviable FHSA entities
-
-             (7)  A body corporate or trustee that is a leviable FHSA entity at any time during a financial year that ends after the commencement of the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_ is liable to pay a levy imposed in respect of that financial year.
-
-As at 17 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
