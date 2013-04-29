@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00904/Html/5053be5a-375b-485e-89ea-6848e5130789_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00867/Html/11a8478d-e898-4557-801f-bcadb6f18dba_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 13 December 2012
- taking into account amendments up to Act No. 177 of 2012
+This compilation was prepared on 29 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -165,8 +165,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [45](#45).          Documents containing material obtained in confidence
 
-[45A](#45A).       Parliamentary Budget Office documents
-
 [46](#46).          Documents disclosure of which would be contempt of Parliament or contempt of court
 
 [47](#47).          Documents disclosing trade secrets or commercially valuable information
@@ -177,8 +175,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [47B](#47B).       Public interest conditional exemptions—Commonwealth‑State relations etc 
 
-[47C](#47C).       Public interest conditional exemptions—deliberative 
- processes
+[47C](#47C).       Public interest conditional exemptions—deliberative processes
 
 [47D](#47D).       Public interest conditional exemptions—financial or property interests of the Commonwealth or Norfolk Island
 
@@ -338,7 +335,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [55T](#55T).        Information gathering powers—production of exempt documents generally
 
-[55U](#55U).       Information gathering powers—production of national security, Cabinet or Parliamentary Budget Office documents
+[55U](#55U).       Information gathering powers—production of national security and cabinet documents
 
 [55V](#55V).       Information gathering powers—further searches for a document
 
@@ -402,7 +399,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [61](#61).          Onus
 
-[61A](#61A).       Modification of the _Administrative Appeals Tribunal  Act 1975_
+[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act 1975_
 
 [62](#62).          Application of section 28 of Administrative Appeals Tribunal Act etc 
 
@@ -1971,7 +1968,7 @@ access in that form may be refused and access given in another form.
 
                              (ii)  a Norfolk Island Minister considers that the document concerned is of such general public interest that the Legislative Assembly of Norfolk Island should be informed of the contents of the document before the document is otherwise made public;
 
-                            until the end of 5 sitting days of the Legislative Assembly of Norfolk Island.
+                            until the end of 5 sitting days of the Legislative Assembly of Norfolk Island.
 
              (2)  Where the provision of access to a document is deferred in accordance with subsection (1), the agency or Minister shall, in informing the applicant of the reasons for the decision, indicate, as far as practicable, the period for which the deferment will operate.
 
@@ -2161,27 +2158,13 @@ Document not received as required by contract
 
 ##### <a id="25"></a>25  Information as to existence of certain documents
 
-             (1)  Nothing in this Act shall be taken to require an agency or Minister to give information as to the existence or non‑existence of a document where information as to the existence or non‑existence of that document, if included in a document of an agency, would cause the last‑mentioned document to be:
+             (1)  Nothing in this Act shall be taken to require an agency or Minister to give information as to the existence or non‑existence of a document where information as to the existence or non‑existence of that document, if included in a document of an agency, would cause the last‑mentioned document to be an exempt document by virtue of section 33 or subsection 37(1).
 
-                     (a)  an exempt document by virtue of section 33 or subsection 37(1) or 45A(1); or
+             (2)  Where a request relates to a document that is, or if it existed would be, of a kind referred to in subsection (1), the agency or Minister dealing with the request may give notice in writing to the applicant that the agency or the Minister, as the case may be, neither confirms nor denies the existence, as a document of the agency or an official document of the Minister, of such a document but that, assuming the existence of such a document, it would be an exempt document under section 33 or subsection 37(1) and, where such a notice is given:
 
-                     (b)  an exempt document to the extent referred to in subsection 45A(2) or (3).
+                     (a)  section 26 applies as if the decision to give such a notice were a decision referred to in that section; and
 
-             (2)  If a request relates to a document that is, or if it existed would be, of a kind referred to in subsection (1), the agency or Minister dealing with the request may give notice in writing to the applicant that the agency or the Minister (as the case may be) neither confirms nor denies the existence, as a document of the agency or an official document of the Minister, of such a document but that, assuming the existence of such a document, it would be:
-
-                     (a)  an exempt document by virtue of section 33 or subsection 37(1) or 45A(1); or
-
-                     (b)  an exempt document to the extent referred to in subsection 45A(2) or (3).
-
-             (3)  If a notice is given under subsection (2) of this section:
-
-                     (a)  section 26 applies as if the decision to give the notice were a decision referred to in that section; and
-
-                     (b)  the decision is taken, for the purposes of Part VI, to be a decision refusing to grant access to the document in accordance with the request referred to in subsection (2) of this section, for the reason that the document would, if it existed, be:
-
-                              (i)  an exempt document by virtue of section 33 or subsection 37(1) or 45A(1); or
-
-                             (ii)  an exempt document to the extent referred to in subsection 45A(2) or (3).
+                     (b)  the decision shall, for the purposes of Part VI, be deemed to be a decision refusing to grant access to the document in accordance with the request for the reason that the document would, if it existed, be an exempt document under section 33 or subsection 37(1), as the case may be.
 
 ##### <a id="26"></a>26  Reasons and other particulars of decisions to be given
 
@@ -2862,54 +2845,6 @@ Note:          For **_operational information_**, see section�
                      (a)  a person in the capacity of Minister, member of the staff of a Minister or officer of an agency; or
 
                      (b)  an agency, the Commonwealth or Norfolk Island.
-
-##### <a id="45A"></a>45A  Parliamentary Budget Office documents
-
-General rules
-
-             (1)  A document is an exempt document if:
-
-                     (a)  both of the following are satisfied:
-
-                              (i)  the document originated from the Parliamentary Budget Officer or the Parliamentary Budget Office;
-
-                             (ii)  the document was prepared in response to, or otherwise relates to, a confidential request; or
-
-                     (b)  the document was brought into existence for the dominant purpose of providing information to the Parliamentary Budget Officer or the Parliamentary Budget Office relating to a confidential request; or
-
-                     (c)  the document was provided to the Parliamentary Budget Officer or the Parliamentary Budget Office in response to a request by the Parliamentary Budget Officer for more information in relation to a confidential request; or
-
-                     (d)  the document is a draft of a document to which paragraph (a), (b) or (c) applies.
-
-             (2)  A document is an exempt document to the extent that it is a copy or part of, or contains an extract from, a document to which subsection (1) applies.
-
-             (3)  A document is an exempt document to the extent that it contains information the disclosure of which would reveal that a confidential request has been made to the Parliamentary Budget Officer or the Parliamentary Budget Office, unless the existence of the request has been disclosed by the Senator or Member of the House of Representatives who made the request.
-
-Exceptions
-
-             (4)  A document is not an exempt document only because it is attached to a document to which subsection (1), (2) or (3) applies.
-
-Note:          However, the attachment itself may be an exempt document.
-
-             (5)  Information in a document to which subsection (1), (2) or (3) applies is not exempt matter because of this section if the information has been made publicly available by the Parliamentary Budget Officer:
-
-                     (a)  under section 64U of the _Parliamentary Service Act 1999_; or
-
-                     (b)  in a statement made under subsection 64V(4) of that Act.
-
-             (6)  Information in a document to which subsection (1), (2) or (3) applies is not exempt matter because of this section if the information has been made publicly available by the Senator or Member of the House of Representatives who made the confidential request to which the document relates.
-
-             (7)  Information in a document to which subsection (1), (2) or (3) applies is not exempt matter because of this section if the information consists of purely factual material, unless:
-
-                     (a)  the disclosure of the information would reveal the existence of a confidential request; and
-
-                     (b)  the existence of the confidential request has not been disclosed by the Senator or Member of the House of Representatives who made the request.
-
-Definition
-
-             (8)  In this section:
-
-                    <a name="confidenti-request"></a>**_confidential request_** means a request referred to in paragraph 64E(1)(a) or (c) of the _Parliamentary Service Act 1999_ that includes a direction under paragraph 64H(3)(d) or section 64M (as the case may be) of that Act to treat the request or any other information relating to the request as confidential.
 
 ##### <a id="46"></a>46  Documents disclosure of which would be contempt of Parliament or contempt of court
 
@@ -4508,7 +4443,7 @@ Scope
 
                      (b)  section 55U does not apply to the document.
 
-Note:          Section 55U deals with the production of documents that are claimed to be exempt documents under section 33 (national security etc.), 34 (Cabinet documents) or 45A (Parliamentary Budget Office documents).
+Note:          Section 55U deals with the production of documents that are claimed to be exempt documents under section 33 (national security etc.) or 34 (Cabinet documents).
 
 Exempt document produced under obligation
 
@@ -4526,13 +4461,13 @@ Production to determine whether access can be given to part of document
 
                      (b)  a member of the staff of the Information Commissioner in the course of the performance of his or her duties as a member of that staff.
 
-##### <a id="55U"></a>55U  Information gathering powers—production of national security, Cabinet or Parliamentary Budget Office documents
+##### <a id="55U"></a>55U  Information gathering powers—production of national security and cabinet documents
 
-             (1)  This section applies to an IC review of a decision in relation to a document that is claimed to be an exempt document under section 33 (national security documents), 34 (Cabinet documents) or 45A (Parliamentary Budget Office documents).
+             (1)  This section applies to an IC review of a decision in relation to a document that is claimed to be an exempt document under section 33 (national security documents) or 34 (cabinet documents).
 
              (2)  The Information Commissioner may only require the production of the document in accordance with this section.
 
-             (3)  If the Information Commissioner is not satisfied by evidence on affidavit or otherwise that the document is an exempt document under section 33, 34 or 45A, the Information Commissioner may require the document to be produced for inspection by the Information Commissioner.
+             (3)  If the Information Commissioner is not satisfied by evidence on affidavit or otherwise that the document is an exempt document under section 33 or 34, the Information Commissioner may require the document to be produced for inspection by the Information Commissioner.
 
              (4)  If the Information Commissioner is satisfied that the document is an exempt document, the Information Commissioner must return the document to the person by whom it was produced without permitting a person to have access to the document or disclosing the contents of the document to a person, unless the person is:
 
@@ -4852,7 +4787,7 @@ Time for applying to Tribunal if Information Commissioner declines to review dec
 
 ##### <a id="58B"></a>58B  Constitution of Tribunal for proceedings about certain exempt documents
 
-             (1)  If an application is made to the Tribunal for review in relation to a decision refusing to grant access to a document in accordance with a request, being a document that is claimed to be an exempt document under section 33, 34 or 45A, then the Tribunal must be constituted in accordance with subsection (2) for the purposes of any proceeding in relation to the application.
+             (1)  If an application is made to the Tribunal for review in relation to a decision refusing to grant access to a document in accordance with a request, being a document that is claimed to be an exempt document under section 33 or 34, then the Tribunal must be constituted in accordance with subsection (2) for the purposes of any proceeding in relation to the application.
 
              (2)  For the purposes of a proceeding referred to in subsection (1), the Tribunal shall be constituted by:
 
@@ -4890,9 +4825,9 @@ Time for applying to Tribunal if Information Commissioner declines to review dec
 
 ##### <a id="58E"></a>58E  Production to the Tribunal of certain exempt documents
 
-             (1)  In any proceedings before the Tribunal under this Act in relation to a document that is claimed to be an exempt document under section 33, 34 or 45A, the Tribunal is entitled to require the production of the document in accordance with this section and not in accordance with section 64, section 37 of the _Administrative Appeals Tribunal Act 1975_ or otherwise.
+             (1)  In any proceedings before the Tribunal under this Act in relation to a document that is claimed to be an exempt document under section 33 or 34, the Tribunal is entitled to require the production of the document in accordance with this section and not in accordance with section 64, section 37 of the _Administrative Appeals Tribunal Act 1975_ or otherwise.
 
-             (2)  If the Tribunal is not satisfied by evidence on affidavit or otherwise that the document is an exempt document under section 33, 34 or 45A, the Tribunal may require the document to be produced for inspection by the Tribunal as constituted for the purposes of the proceeding.
+             (2)  If the Tribunal is not satisfied by evidence on affidavit or otherwise that the document is an exempt document under section 33 or 34, the Tribunal may require the document to be produced for inspection by the Tribunal as constituted for the purposes of the proceeding.
 
              (3)  If, after an inspection of a document under this section, the Tribunal is satisfied that the document is an exempt document, the Tribunal must return the document to the person by whom it was produced without permitting a person to have access to the document or disclosing the contents of the document to a person, unless the person is:
 
@@ -5261,7 +5196,7 @@ may inspect, or have access to, the document.
 
                      (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector‑General of Intelligence and Security.
 
-Note:          The Tribunal is not entitled, under this section, to require production of documents that are exempt under section 33, 34 or 45A, but is entitled to do so under section 58E if the Tribunal is not satisfied by evidence on affidavit or otherwise that the document is an exempt document.
+Note:          The Tribunal is not entitled, under this section, to require production of documents that are exempt under section 33 or 34, but is entitled to do so under section 58E if the Tribunal is not satisfied by evidence on affidavit or otherwise that the document is an exempt document.
 
           (4A)  In making an order for the purposes of subsection (1) or (2), the Tribunal may require the relevant document to be produced at any time later than 28 days after the decision‑maker was given notice of the application, even if that time is before the Tribunal has begun to hear argument or otherwise deal with the matter.
 
@@ -5575,7 +5510,7 @@ Places in respect of which Attorney‑General makes declaration
 
                      (b)  the authorised person complies with any conditions specified in the approval.
 
-##### <a id="79"></a>79  Information Commissioner investigations—obliging production of information and documents
+##### <a id="79"></a>79  Information Commissioner investigations—obliging production of information and documents
 
 Scope
 
@@ -8435,23 +8370,6 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Parliamentary Budget Office) Act 2012</div>
-  </td>
-  <td>
-    <div>177, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–12): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 12) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Freedom of Information Act 1982_ was amended by section 62 only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
@@ -9598,7 +9516,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Territories Law Reform A
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 81, 1983; No. 51, 2010; No. 177, 2012</div>
+    <div>am. No. 81, 1983; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10057,14 +9975,6 @@ Part IV</div>
   </td>
   <td>
     <div>am. No. 81, 1983; No. 111, 1986; No. 137, 1991; No. 43, 1996; No. 62, 2004; Nos. 51 and 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 177, 2012</div>
   </td>
 </tr>
 <tr>
@@ -10877,95 +10787,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 55R</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55S</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55T</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 55T(1)</div>
-  </td>
-  <td>
-    <div>am. No. 177, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 55U</div>
-  </td>
-  <td>
-    <div>rs. No. 177, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55U</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 177, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55V</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55W</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55X</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55Y</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55Z</div>
+    <div>Ss. 55R–55Z</div>
   </td>
   <td>
     <div>ad. No. 51, 2010</div>
@@ -11212,7 +11034,7 @@ Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 99, 2009; No. 51, 2010; No. 177, 2012</div>
+    <div>am. No. 43, 1996; No. 99, 2009; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11277,14 +11099,6 @@ Part VIIA</div>
   </td>
   <td>
     <div>rs. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 177, 2012</div>
   </td>
 </tr>
 <tr>
@@ -11470,14 +11284,6 @@ Part VIIA</div>
   </td>
   <td>
     <div>am. No. 81, 1983; No. 137, 1991; No. 43, 1996; No. 194, 1999; No. 38, 2005; No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 64(2)</div>
-  </td>
-  <td>
-    <div>am. No. 177, 2012</div>
   </td>
 </tr>
 <tr>
@@ -12381,24 +12187,6 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Freedom of Information Amendment (Parliamentary Budget Office) Act 2012 (No. 177, 2012)_
-
-## Schedule 1
-
-## 12  Application of amendments
-
-(1)       The amendments of the _Freedom of Information Act 1982_ made by this Schedule apply in relation to a request made under section 15 of that Act that is received after the commencement of this item.
-
-(2)       The amendments of the _Freedom of Information Act 1982_ made by this Schedule also apply in relation to a request made under section 15 of that Act that was received during the period:
-
-                     (a)  commencing on the day after the Bill for this Act was introduced into the House of Representatives; and
-
-                     (b)  ending immediately before the commencement of this item;
-
-if the agency or Minister to whom the request was made has not made a decision on the request, or has not been taken to have made a decision on the request, before the commencement of this item.
 
 ## Table B
 
