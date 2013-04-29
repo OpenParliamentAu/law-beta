@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00398/Html/7634f6c6-7aea-4c89-9b2c-df3286d211df_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00376/Html/973b4746-d5d0-4867-af6e-f0ba2d82a902_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 2 April 2012
  taking into account amendments up to Act No. 184 of 2011
 
 The text of any of those amendments not in force
@@ -146,8 +146,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12DMA Liability of recipient for unsolicited financial services etc](#12DMA Liability of recipient for unsolicited financial services etc).
 
-[12DMB](#12DMB). Assertion of right to payment for unauthorised 
- advertisements
+[12DMB](#12DMB). Assertion of right to payment for unauthorised advertisements
 
 [12DN](#12DN).    Application of provisions of this Division to information providers
 
@@ -1697,11 +1696,7 @@ but failure of the Minister to do so does not affect the instrument’s validity
 
                       (i)  the _National Consumer Credit Protection Act 2009_;
 
-                      (j)  the _National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009_;
-
-                     (k)  the _Business Names Registration Act 2011_;
-
-                      (l)  the _Business Names Registration (Transitional and Consequential Provisions) Act 2011_.
+                      (j)  the _National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009_.
 
              (2)  ASIC has the function of monitoring and promoting market integrity and consumer protection in relation to the Australian financial system.
 
@@ -3144,7 +3139,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (4)  In a proceeding against a person in respect of a contravention of this section, the burden lies on the person of proving that the person had reasonable cause to believe that there was a right to payment.
 
-##### <a id="12DMA"></a>12DMA  Liability of recipient for unsolicited financial services etc.
+##### <a id="12DMA"></a>12DMA  Liability of recipient for unsolicited financial services etc.
 
                    If a person, in trade or commerce, supplies unsolicited financial services or unsolicited financial products to another person, the other person:
 
@@ -3911,7 +3906,7 @@ the Federal Court may, on the application of a party to the proceeding or of its
 
                             (iii)  issue, and direct the issue of, writs of such kinds;
 
-                            as the Federal Court could have in and in relation to the proceeding; and
+                            as the Federal Court could have in and in relation to the proceeding; and
 
                      (d)  remedies, orders and writs granted, made or issued by the Family Court in and in relation to the proceeding have effect, and may be enforced by the Family Court, as if they had been granted, made or issued by the Federal Court; and
 
@@ -4425,7 +4420,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  The court is not to give leave for the joinder of any person who was a party to any previously concluded proceedings in respect of the apportionable claim.
 
-##### <a id="12GW"></a>12GW  Application of Subdivision
+##### <a id="12GW"></a>12GW  Application of Subdivision
 
                    Nothing in this Subdivision:
 
@@ -6836,7 +6831,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
 ##### <a id="122"></a>122  Staff seconded to ASIC
 
-                   In addition to the other staff members, officers and employees of Agencies (within the meaning of the _Public Service Act 1999_), and of authorities of the Commonwealth, whose services are made available to ASIC in connection with the performance or exercise of any of its functions or powers are to assist ASIC.
+                   In addition to the other staff members, officers and employees of Agencies (within the meaning of the _Public Service Act 1999_), and of authorities of the Commonwealth, whose services are made available to ASIC in connection with the performance or exercise of any of its functions or powers are to assist ASIC.
 
 ## Part 7—Preventing conflicts of interest and misuse of information
 
@@ -6963,8 +6958,6 @@ is required to consider a matter in which the person has a direct or indirect pe
                      (b)  the performance of functions or services by the person by way of assisting an ASIC delegate;
 
 is taken to be authorised use and disclosure of the information.
-
-          (3A)  Using or disclosing information in accordance with the consent of the person who provided the information is authorised use and disclosure of the information.
 
              (4)  Where the Chairperson is satisfied that particular information:
 
@@ -7160,23 +7153,11 @@ Contents of annual report
 
                      (h)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_;
 
-                      (i)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_;
-
-                      (j)  information about the operation of the _Business Names Registration Act 2011_ including:
-
-                              (i)  details of the level of access to the Business Names Register using the internet and other facilities; and
-
-                             (ii)  the timeliness with which ASIC carries out its duties, functions and powers under the Act; and
-
-                            (iii)  the cost of registration of a business name under the Act.
+                      (i)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
 
 Annual report to be tabled in Parliament
 
              (3)  The Minister must cause a copy of each annual report to be tabled in each House within 15 sitting days of that House after the day on which the Minister receives the report.
-
-Annual report to be sent to the Attorney‑General of each State and Territory
-
-             (4)  The Minister must cause a copy of each annual report to be sent to the Attorney‑General of each State and Territory as soon as practical after the Minister receives the report.
 
 ### Division 3—Liability to taxation
 
@@ -7828,7 +7809,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    Subject to this Act, the Chairperson, the Deputy Chairperson and each other member holds office for such term of at most 3 years as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
 
-##### <a id="206"></a>206  Resignation from office
+##### <a id="206"></a>206  Resignation from office
 
                    A person may resign his or her office as Chairperson, Deputy Chairperson or member by writing signed and delivered to the Minister.
 
@@ -8314,7 +8295,7 @@ the amount of the costs of and incidental to the hearing so required to be paid 
 
 ##### <a id="224"></a>224  Main objects of this Part
 
-                   The main objects of this Part are:
+                   The main objects of this Part are:
 
                      (a)  to facilitate the development of accounting standards that require the provision of financial information that:
 
@@ -8794,7 +8775,7 @@ Note:          Subsection 227(4) allows the AASB to make or fo
 
                    The Minister may give the AASB a direction about the role of international accounting standards in the Australian accounting standard setting system. Before giving a direction under this section, the Minister must receive and consider a report from the FRC about the desirability of giving the direction. The AASB must comply with the direction.
 
-##### <a id="234"></a>234  Validity of accounting standards
+##### <a id="234"></a>234  Validity of accounting standards
 
                    A failure to comply with this Division in relation to the making of an accounting standard does not affect the validity of the standard.
 
@@ -10086,7 +10067,7 @@ Note:          The new ASIC legislation contains provisions th
 
              (1)  In this Part:
 
-                    <a name="carri-provision"></a>**_carried over provision_** of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory means a provision of that legislation that:
+                    <a name="carri-provision"></a>**_carried over provision_** of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Ter  ritory means a provision of that legislation that:
 
                      (a)  was in force immediately before the commencement; and
 
@@ -10290,7 +10271,7 @@ the transitional provision is taken to operate so that:
 
 ### Division 3—Carrying over the old ASIC Regulations
 
-##### <a id="263"></a>263  Division has effect subject to Division 7 regulations
+##### <a id="263"></a>263  Division has effect subject to Division 7 regulations
 
                    This Division has effect subject to regulations made for the purposes of Division 7.
 
@@ -10824,7 +10805,7 @@ the corresponding provision of the new ASIC legislation is taken to contain an e
 
              (1)  Subject to subsection (2), a reference in, or taken immediately before the commencement to be in, an instrument, other than:
 
-                     (a)  an Act of a State, the Australian Capital Territory, the Northern Territory or Norfolk Island; or
+                     (a)  an Act of a State, the Australian C  apital Territory, the Northern Territory or Norfolk Island; or
 
                      (b)  an instrument made under such an Act;
 
@@ -10932,7 +10913,7 @@ Note:          Instead, an equivalent right or liability will 
 
 ##### <a id="285A"></a>285A  Definitions
 
-                   In this Part:
+                   In this Part:
 
                     <a name="amending-act"></a>**_amending Act_** means the _Corporate Law Economic Reform Program (Audit Reform and Corporate Disclosure) Act 2004_.
 
@@ -11791,7 +11772,7 @@ Schedule 3 (items 9–14, 18–32, 57): 15 Apr 2010</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 4–7): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 4–7): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -11809,7 +11790,7 @@ Schedule 3 (items 9–14, 18–32, 57): 15 Apr 2010</div>
   </td>
   <td>
     <div>Schedule 1 (items 47–49): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
-Schedule 1 (item 256A): \[ <i>see</i>Note 2]</div>
+Schedule 1 (item 256A): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -12420,7 +12401,7 @@ No. 74, 2007</div>
     <div>S. 12A</div>
   </td>
   <td>
-    <div>am. No. 122, 2001; No. 45, 2008; No. 135, 2009; No. 127, 2011</div>
+    <div>am. No. 122, 2001; No. 45, 2008; No. 135, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14192,7 +14173,7 @@ Part 2</div>
     <div>S. 127</div>
   </td>
   <td>
-    <div>am. Nos. 122, 123 and 166, 2001; Nos. 41, 116 and 141, 2003; No. 103, 2004; No. 1, 2007; No. 92, 2008; No. 145, 2010; Nos. 102, 127 and 132, 2011</div>
+    <div>am. Nos. 122, 123 and 166, 2001; Nos. 41, 116 and 141, 2003; No. 103, 2004; No. 1, 2007; No. 92, 2008; No. 145, 2010; Nos. 102 and 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -14273,14 +14254,6 @@ Part 2</div>
   </td>
   <td>
     <div>ad. No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 127, 2011</div>
   </td>
 </tr>
 <tr>
@@ -15789,6 +15762,50 @@ Part 12</div>
 
 ### Note 2
 
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 4  At the end of subsection 12A(1)
+
+Add:
+
+                   ; (k)  the _Business Names Registration Act 2011_;
+
+                      (l)  the _Business Names Registration (Transitional and Consequential Provisions) Act 2011_.
+
+## 5  After subsection 127(3)
+
+Insert:
+
+          (3A)  Using or disclosing information in accordance with the consent of the person who provided the information is authorised use and disclosure of the information.
+
+## 6  At the end of subsection 136(2)
+
+Add:
+
+                    ; (j)  information about the operation of the _Business Names Registration Act 2011_ including:
+
+                              (i)  details of the level of access to the Business Names Register using the internet and other facilities; and
+
+                             (ii)  the timeliness with which ASIC carries out its duties, functions and powers under the Act; and
+
+                            (iii)  the cost of registration of a business name under the Act.
+
+## 7  At the end of section 136
+
+Add:
+
+Annual report to be sent to the Attorney‑General of each State and Territory
+
+             (4)  The Minister must cause a copy of each annual report to be sent to the Attorney‑General of each State and Territory as soon as practical after the Minister receives the report.
+
+As at 2 April 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
 The following amendment commences on 1 July 2012:
@@ -15801,7 +15818,7 @@ Add:
 
                     ; (f)  the Climate Change Authority.
 
-As at 20 April 2012 the amendment is not incorporated in this compilation.
+As at 2 April 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
