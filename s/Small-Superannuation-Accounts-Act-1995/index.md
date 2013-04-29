@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00341/Html/b169c2fc-4679-4be7-a0fb-996fe3961d9e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image001.gif)
 
 # Small Superannuation Accounts Act 1995
 
 **Act No. 52 of 1995 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -270,9 +270,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [91](#91).          Giving of documents to unincorporated associations
 
-**Part 12A—Government co‑contributions for low income earners**
+**Part 12A—Government co-contributions for low income earners**
 
-[91A](#91A).       Commissioner of Taxation may deposit Government co‑contributions for low income earners into individual’s account
+[91A](#91A).       Commissioner of Taxation may deposit Government co-contributions for low income earners into individual’s account
 
 [91B](#91B).       Act generally applies to deposits under this Part in the same way as it applies to deposits under Part 4
 
@@ -280,7 +280,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [91D](#91D).       Crediting of deposits
 
-[91E](#91E).        Debiting account with overpayment of Government co‑contribution
+[91E](#91E).        Debiting account with overpayment of Government co-contribution
 
 [91F](#91F).        Withdrawal of account balances
 
@@ -384,9 +384,11 @@ deposits. There is an annual deduction limit of $1,200 per employee. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The accounts may also be
 
-credited with Government co‑contributions payable under the _Superannuation (Government Co‑contribution for Low Income Earners) Act 2003_. The rules for
+credited with Government co-contributions payable under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_. The
 
-these deposits differ in some respects from those that apply to other deposits.</li>
+rules for these deposits differ in some respects from those that apply to other
+
+deposits.</li>
 
 * * *
 
@@ -422,13 +424,9 @@ Note:          The Schedule extends the ordinary meaning of **
 
                     <a name="employ"></a><a name="employe"></a><a name="employ"></a>**_employment_** has a meaning corresponding to **_employee_** and **_employer_**.
 
-                    <a name="financ-depart"></a>**_Finance Department_** means the Department administered by the Finance Minister.
+                    <a name="govern-co-contribut"></a>**_Government co-contribution_** in respect of an individual means a Government co-contribution payable in respect of the individual under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
-                    <a name="govern-co-contribut"></a>**_Government co‑contribution_** in respect of an individual means a Government co‑contribution payable in respect of the individual under the _Superannuation (Government Co‑contribution for Low Income Earners) Act 2003_.
-
-                    <a name="leav-australia"></a>**_leave Australia_** has the same meaning as in the _Migration Act 1958_.
+                    <a name="australia"></a><a name="leav"></a>**_leave_****_Australia_** has the same meaning as in the _Migration Act 1958_.
 
                     <a name="person"></a>**_person_** has a meaning affected by sections 87 and 90.
 
@@ -590,7 +588,7 @@ Note:          Section 4 provides that **_account_** means a
 
 ##### <a id="13"></a>13  Outline of credits to accounts
 
-                   The following is a simplified outline of the types of credits that may be made to an individual’s account. 
+                   The following is a simplified outline of the types of credits that may be made to an individual’s account. 
 
 * * *
 
@@ -652,7 +650,7 @@ the Special Account and paid by the Commonwealth to the individual if:</li>
 
                (a)     the balance is less than $200; and
 
-              (b)     the individual has ceased to be employed by all depositors.
+               (b)     the individual has ceased to be employed by all depositors.
 
 _Receipt of Commonwealth income support payments_
 
@@ -700,15 +698,15 @@ Australian resident for income tax purposes and:</li>
 
                (a)     the individual is not in employment; or
 
-              (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia.
+               (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia.
 
 _Former temporary resident_
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount
+<li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount standing
 
-standing to the credit of an individual’s account may be debited from the
+to the credit of an individual’s account may be debited from the Special
 
-Special Account if the individual is a former temporary resident.</li>
+Account if the individual is a former temporary resident.</li>
 
 _Death of individual_
 
@@ -732,7 +730,7 @@ refunding deposits that were:</li>
 
                (a)     accompanied by false or defective deposit forms; or
 
-              (b)     made by mistake.
+               (b)     made by mistake.
 
 * * *
 
@@ -754,7 +752,7 @@ Duty
 
 Payment split under Family Law Act
 
-             (3)  If an account is subject to a payment split, then the Commissioner may open an account in the name of the non‑member spouse.
+             (3)  If an account is subject to a payment split, then the Commissioner may open an account in the name of the non-member spouse.
 
              (4)  The balance of the account when it is opened is an amount worked out in accordance with the regulations.
 
@@ -766,7 +764,7 @@ Payment split under Family Law Act
 
                     <a name="member-spous"></a>**_member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
 
-                    <a name="non-member-spous"></a>**_non‑member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
+                    <a name="non-member-spous"></a>**_non-member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
 
                     <a name="payment-split"></a>**_payment split_** means a payment split under Part VIIIB of the _Family Law Act 1975_.
 
@@ -794,7 +792,7 @@ Note 4:       Section 67 deals with individuals who are not Austra
 
 Note 5:       Section 67A deals with individuals who have permanently departed from Australia.
 
-Note 6:       Section 91E deals with debiting of accounts to recover overpayments of Government co‑contributions.
+Note 6:       Section 91E deals with debiting of accounts to recover overpayments of Government co-contributions.
 
 ### Division 5—Rules about accounts
 
@@ -928,7 +926,7 @@ include certain declarations. </li>
 
                (a)     that the depositor is the employer, or former employer, of the individual; and 
 
-              (b)     that the depositor is making the deposit instead of making a superannuation contribution in respect of the individual. 
+               (b)     that the depositor is making the deposit instead of making a superannuation contribution in respect of the individual. 
 
 <li class="BoxList" style="margin-left:21.25pt">•      A defect in the deposit
 
@@ -1134,7 +1132,7 @@ to work out: </li>
 
                (a)     how interest is funded; and 
 
-              (b)     the rate at which interest accrues to an account. 
+               (b)     the rate at which interest accrues to an account. 
 
 * * *
 
@@ -1144,7 +1142,7 @@ to work out: </li>
 
                      (a)  the income derived by the Commonwealth during the quarter from the investment of amounts standing to the credit of the Special Account;
 
-                     (b)  the amount (if any) determined by the Finance Minister in relation to the quarter having regard to the amount standing to the credit of the Special Account that remains uninvested from time to time during the quarter.
+                     (b)  the amount (if any) determined by the Minister for Finance in relation to the quarter having regard to the amount standing to the credit of the Special Account that remains uninvested from time to time during the quarter.
 
 ##### <a id="39"></a>39  Net interest amount
 
@@ -1158,7 +1156,7 @@ Net interest amount
 
 Note:          **_Gross interest amount_** is defined by section 38.
 
-Carry‑forward amount
+Carry-forward amount
 
              (2)  For the purposes of this section, if:
 
@@ -1168,17 +1166,17 @@ exceeds:
 
                      (b)  the gross interest amount for the quarter;
 
-the excess is taken to be the carry‑forward amount for the quarter.
+the excess is taken to be the carry-forward amount for the quarter.
 
 Note:          **_Gross interest amount_** is defined by section 38.
 
-Allocation of carry‑forward amounts
+Allocation of carry-forward amounts
 
-             (3)  For the purposes of this section, the Finance Minister may determine that:
+             (3)  For the purposes of this section, the Minister for Finance may determine that:
 
-                     (a)  a carry‑forward amount for a quarter is to be allocated to a later quarter; or
+                     (a)  a carry-forward amount for a quarter is to be allocated to a later quarter; or
 
-                     (b)  different parts of the carry‑forward amount for a quarter are to be allocated to different later quarters.
+                     (b)  different parts of the carry-forward amount for a quarter are to be allocated to different later quarters.
 
 Amortisation
 
@@ -1216,9 +1214,9 @@ Special Account.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Since interest only accrues
 
-on the first $1,200 of an account balance, it is possible for a surplus to
+on the first $1,200 of an account balance, it is possible for a surplus to build
 
-build up in the Unallocated Interest Pool. The surplus can be debited from the
+up in the Unallocated Interest Pool. The surplus can be debited from the
 
 Special Account.</li>
 
@@ -1248,7 +1246,7 @@ Debits from Pool
 
 When section applies
 
-             (1)  This section applies if the Finance Minister is satisfied that:
+             (1)  This section applies if the Minister for Finance is satisfied that:
 
                      (a)  the balance of the Unallocated Interest Pool is nil; or
 
@@ -1256,7 +1254,7 @@ When section applies
 
 Supplementation
 
-             (2)  The Finance Minister may determine that the Unallocated Interest Pool is to be supplemented by a specified amount.
+             (2)  The Minister for Finance may determine that the Unallocated Interest Pool is to be supplemented by a specified amount.
 
 Crediting of the supplementation amount
 
@@ -1334,7 +1332,7 @@ Provisional rate
 
              (3)  Calculate the **_provisional rate_** for the quarter as a percentage (to 4 decimal places) using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00341/Html/b169c2fc-4679-4be7-a0fb-996fe3961d9e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image002.gif)
 
 where:
 
@@ -1358,7 +1356,7 @@ Capped rate
 
              (5)  Calculate the **_capped rate_** as a percentage (to 4 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00341/Html/b169c2fc-4679-4be7-a0fb-996fe3961d9e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image003.gif)
 
 where:
 
@@ -1430,7 +1428,7 @@ Allocation day event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00341/Html/b169c2fc-4679-4be7-a0fb-996fe3961d9e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image004.gif)
 
                             where:
 
@@ -1444,7 +1442,7 @@ Withdrawal event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00341/Html/b169c2fc-4679-4be7-a0fb-996fe3961d9e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1458,7 +1456,7 @@ Inactive account debit event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00341/Html/b169c2fc-4679-4be7-a0fb-996fe3961d9e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1468,7 +1466,7 @@ Inactive account debit event
 
 Transitional—withdrawal event before first allocation day
 
-             (6)  Despite paragraph (4)(a), if the withdrawal event occurs before the allocation day for the quarter beginning on 1 July 1995, that paragraph has effect, in relation to that event, as if the adjusted allocation rate were 0.4% or such higher rate as the Finance Minister determines.
+             (6)  Despite paragraph (4)(a), if the withdrawal event occurs before the allocation day for the quarter beginning on 1 July 1995, that paragraph has effect, in relation to that event, as if the adjusted allocation rate were 0.4% or such higher rate as the Minister for Finance determines.
 
 ##### <a id="51"></a>51  Rounding up
 
@@ -1488,7 +1486,7 @@ an account in the following cases: </li>
 
                (a)     a deposit is refunded; 
 
-              (b)     a shortfall component is incorrectly credited to the account; 
+               (b)     a shortfall component is incorrectly credited to the account; 
 
                (c)     the $1,200 limit has been avoided by the use of multiple accounts.
 
@@ -1580,7 +1578,7 @@ withdrawals of account balances: </li>
 
                (a)     transfers of account balances to superannuation funds or RSAs; 
 
-              (b)     direct withdrawals of account balances by individuals;
+               (b)     direct withdrawals of account balances by individuals;
 
                (c)     withdrawals of account balances after death. 
 
@@ -1588,9 +1586,9 @@ withdrawals of account balances: </li>
 
 depositor has 14 days to apply for a refund of a deposit on the grounds that
 
-the deposit was made by mistake. During the 14‑day period, the individual’s
+the deposit was made by mistake. During the 14-day period, the
 
-account will be frozen. </li>
+individual’s account will be frozen. </li>
 
 * * *
 
@@ -1612,7 +1610,7 @@ depositor a chance to apply for a refund of the deposit. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If the depositor applies
 
-for a refund of the deposit, the 14‑day period will be extended until the
+for a refund of the deposit, the 14-day period will be extended until the
 
 application is finalised. </li>
 
@@ -1640,13 +1638,13 @@ When section applies
 
 Individual’s request frozen for 14 days
 
-             (2)  The individual’s request has no effect at any time during that 14‑day period.
+             (2)  The individual’s request has no effect at any time during that 14-day period.
 
 Note:          This gives the depositor a chance to apply for a refund of the deposit.
 
 Individual’s request frozen for additional period
 
-             (3)  If an application for a refund of the deposit or purported deposit was made under section 73 during that 14‑day period, then:
+             (3)  If an application for a refund of the deposit or purported deposit was made under section 73 during that 14-day period, then:
 
                      (a)  if the refund application is granted—the individual’s request has no effect at any time; or
 
@@ -1654,7 +1652,7 @@ Individual’s request frozen for additional period
 
                               (i)  the time is after the refund application is made but before the end of the period of 21 days after the giving of the notice of refusal; or
 
-                             (ii)  if, during that 21‑day period, the refund applicant asks the Commissioner of Taxation to reconsider the refund application—the time is during the period when that reconsideration, or any later application to the Administrative Appeals Tribunal, has not been finalised.
+                             (ii)  if, during that 21-day period, the refund applicant asks the Commissioner of Taxation to reconsider the refund application—the time is during the period when that reconsideration, or any later application to the Administrative Appeals Tribunal, has not been finalised.
 
 When reconsiderations finalised
 
@@ -1676,7 +1674,7 @@ When section applies
 
 Request frozen for 14 days
 
-             (2)  The request has no effect at any time during that 14‑day period.
+             (2)  The request has no effect at any time during that 14-day period.
 
 Note:          This gives the Commissioner a chance to correct mistakes.
 
@@ -1684,7 +1682,7 @@ Note:          This gives the Commissioner a chance to correct
 
 ##### <a id="60"></a>60  Timing of withdrawals
 
-24‑hour delay
+24-hour delay
 
              (1)  If a request is made under this Part, the Commissioner of Taxation must wait at least 24 hours before complying with the request.
 
@@ -1720,7 +1718,7 @@ Compliance test for funds
 
                              (ii)  is not subject to a direction under section 63 of that Act.
 
-Note:          Section 63 of the _Superannuation Industry (Supervision) Act 1993_ deals with funds that have been directed not to accept contributions from an employer‑sponsor.
+Note:          Section 63 of the _Superannuation Industry (Supervision) Act 1993_ deals with funds that have been directed not to accept contributions from an employer-sponsor.
 
 Form of transfer request
 
@@ -1804,7 +1802,7 @@ individual’s account may be withdrawn if: </li>
 
                (a)     the balance is less than $200; and 
 
-              (b)     the individual has ceased to be employed by all depositors. 
+               (b)     the individual has ceased to be employed by all depositors. 
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
@@ -1830,7 +1828,7 @@ old and is not an Australian resident for income tax purposes and: </li>
 
                (a)     the individual is not in employment; or 
 
-              (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia. 
+               (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia. 
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
@@ -1926,7 +1924,7 @@ Individual’s account to be debited
 
                      (a)  any of the following payments (as defined in section 23 of the _Social Security Act 1991_):
 
-                              (i)  a social security benefit (other than an austudy payment or a youth allowance paid to a person who is undertaking full‑time study);
+                              (i)  a social security benefit (other than an austudy payment or a youth allowance paid to a person who is undertaking full-time study);
 
                              (ii)  a social security pension;
 
@@ -2020,7 +2018,7 @@ Withdrawal request
 
                      (b)  the individual satisfies the Commissioner of Taxation that the individual is not a resident (within the meaning of the _Income Tax Assessment Act 1936_); and
 
-                   (ba)  the individual is at least 55 years old when he or she gives the withdrawal request; and
+                    (ba)  the individual is at least 55 years old when he or she gives the withdrawal request; and
 
                      (c)  the individual satisfies the Commissioner of Taxation that:
 
@@ -2250,7 +2248,7 @@ Obligations under this section prevail over obligations under Part 7
 
                      (b)  an obligation imposed on the Commissioner of Taxation by Part 7;
 
-the first‑mentioned obligation prevails.
+the first-mentioned obligation prevails.
 
 Note:          Part 7 deals with withdrawals.
 
@@ -2352,7 +2350,7 @@ Appropriation
 
 ##### <a id="78"></a>78  Simplified outline
 
-                   The following is a simplified outline of this Part: 
+                   The following is a simplified outline of this Part: 
 
 * * *
 
@@ -2462,7 +2460,7 @@ Original decision
 
                      (a)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision by the Commissioner of Taxation in accordance with subsection 82(1); and
 
-                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Commissioner of Taxation upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Commissioner of Taxation upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
 Note:          **_Reviewable decision_** is defined by section 81.
 
@@ -2560,11 +2558,11 @@ Note:          **_Superannuation accounts law_** is defined by
 
                    For the purposes of this Act, if a document is given to a member of the committee of management of an unincorporated association in accordance with section 28A of the _Acts Interpretation Act 1901_, the document is taken to have been given to the unincorporated association.
 
-## Part 12A—Government co‑contributions for low income earners
+## Part 12A—Government co-contributions for low income earners
 
-##### <a id="91A"></a>91A  Commissioner of Taxation may deposit Government co‑contributions for low income earners into individual’s account
+##### <a id="91A"></a>91A  Commissioner of Taxation may deposit Government co-contributions for low income earners into individual’s account
 
-                   In addition to the deposits that may be made under Part 4, the Commissioner of Taxation may credit to an individual’s account a Government co‑contribution payable in respect of the individual.
+                   In addition to the deposits that may be made under Part 4, the Commissioner of Taxation may credit to an individual’s account a Government co-contribution payable in respect of the individual.
 
 ##### <a id="91B"></a>91B  Act generally applies to deposits under this Part in the same way as it applies to deposits under Part 4
 
@@ -2584,9 +2582,9 @@ Note:          **_Superannuation accounts law_** is defined by
 
              (3)  As soon as practicable after the amount is credited to the Special Account under subsection (2), the individual’s account is to be credited with an amount equal to the deposit.
 
-##### <a id="91E"></a>91E  Debiting account with overpayment of Government co‑contribution
+##### <a id="91E"></a>91E  Debiting account with overpayment of Government co-contribution
 
-                   Under section 24 of the _Superannuation (Government Co‑contribution for Low Income Earners) Act 2003_, the Commissioner may, in certain circumstances, debit an individual’s account as a way of recovering an overpayment of a Government co‑contribution if the account includes deposits made under this Part.
+                   Under section 24 of the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_, the Commissioner may, in certain circumstances, debit an individual’s account as a way of recovering an overpayment of a Government co-contribution if the account includes deposits made under this Part.
 
 ##### <a id="91F"></a>91F  Withdrawal of account balances
 
@@ -2618,7 +2616,7 @@ Interpretation
 
 ##### <a id="92"></a>92  Delegation
 
-                   The Finance Minister may, by writing, delegate to an officer of the Finance Department any or all of his or her powers under this Act.
+                   The Minister for Finance may, by writing, delegate to an officer of the Department of Finance any or all of his or her powers under this Act.
 
 ##### <a id="93"></a>93  Annual report
 
@@ -2628,7 +2626,7 @@ Interpretation
 
 ##### <a id="94"></a>94  Regulations
 
-                   The Governor‑General may make regulations prescribing all matters:
+                   The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2815,7 +2813,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (items 19–28): 1 Jan 1997( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    <div>Schedule 3 (items 19-28): 1 Jan 1997( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2908,7 +2906,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
+    <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
   </td>
   <td>
     <div>111, 2003</div>
@@ -2977,7 +2975,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
   </td>
   <td>
     <div>134, 2008</div>
@@ -3025,23 +3023,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 191–194) and Schedule 6 (items 98, 99): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Small Superannuation Accounts Act 1995_ was amended by Schedule 2 (item 97) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
@@ -3062,8 +3043,7 @@ _(c)_ The _Small Superannuation Accounts Act 1995_ was amended by Schedule 3 (
 
                               (g)   the amendments of the _Small Superannuation Accounts Act 1995_ commence on the same day as the _Financial Management and Accountability Act 1997_;
 
-_(d)_ The _Small Superannuation Accounts Act 1995_ was amended by Schedule 1 (items 
- 163–166) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(d)_ The _Small Superannuation Accounts Act 1995_ was amended by Schedule 1 (items 163–166) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
@@ -3210,7 +3190,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008; No. 27, 2009; No. 5, 2011</div>
+    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008; No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3570,7 +3550,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Ss. 38, 39</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3602,7 +3582,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3666,7 +3646,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 50</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4095,14 +4075,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 95</div>
   </td>
   <td>
@@ -4142,11 +4114,11 @@ _Superannuation (Unclaimed Money and Lost Members) Consequential and Transitiona
 
 ##### <a id="8"></a>8  Application of certain items of Schedule 1
 
-                   Items 8, 10, 12, 13, 14, 34, 35, 39, 44, 45, 46, 47, 48, 49 and 73 of Schedule 1 do not apply in respect of the half‑year in which the New Act receives the Royal Assent.
+                   Items 8, 10, 12, 13, 14, 34, 35, 39, 44, 45, 46, 47, 48, 49 and 73 of Schedule 1 do not apply in respect of the half-year in which the New Act receives the Royal Assent.
 
 * * *
 
-_Taxation Laws Amendment (Superannuation) Act (No. 1) 2002 (No. 15, 2002)_
+_Taxation Laws Amendment (Superannuation) Act (No. 1) 2002 (No. 15, 2002)_
 
 ## Schedule 1
 
@@ -4156,7 +4128,7 @@ The amendments made by this Schedule apply to payments made on or after 1 July
 
 * * *
 
-_Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
+_Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
 
 ## Schedule 1
 
@@ -4197,11 +4169,11 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
@@ -4209,12 +4181,12 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
 
 ## Schedule 4
 
 ## 5  Application of amendments of the _Small Superannuation Accounts Act 1995_
 
-The amendments of the _Small Superannuation Accounts Act 1995_ made by this Schedule apply to the 2008‑2009 year of income and later years.
+The amendments of the _Small Superannuation Accounts Act 1995_ made by this Schedule apply to the 2008-2009 year of income and later years.
 
  
