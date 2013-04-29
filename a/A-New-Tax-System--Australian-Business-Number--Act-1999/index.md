@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00016/Html/0ed39830-b44c-4f8f-ace9-2731dd68526a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00395/Html/32f22297-3db0-4de2-9178-6945137c43b2_files/image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 7 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 147 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -218,20 +219,6 @@ Note:          This will mean that such an activity will be an
                      (a)  you are * carrying on an * enterprise in * Australia; or
 
                      (b)  in the course or furtherance of carrying on an enterprise, you make * supplies that are * connected with Australia.
-
-ACNC types of entities and deductible gift recipients
-
-          (1A)  Subsections (1B) and (1C) apply if:
-
-                     (a)  you would be entitled to be endorsed under Subdivision 30‑BA of the _Income Tax Assessment Act 1997_ as a deductible gift recipient if you had an * ABN, because you are described (but not by name) in item 1 or 2 of the table in section 30‑15; or
-
-                     (b)  you meet the description of a type of entity in column 1 of the table in subsection 25‑5(5) of the _Australian Charities and Not‑for‑profits Commission Act 2012_.
-
-          (1B)  The reference in paragraph (1)(a) of this section to * Australia is treated as including a reference to the external Territories.
-
-          (1C)  The reference in paragraph (1)(b) to * supplies that are * connected with Australia is treated as including a reference to supplies that would be connected with Australia if, for the purposes of section 9‑25 of the _A New Tax System (Goods and Services Tax) Act 1999_, Australia included the external Territories.
-
-Corporations Act companies
 
              (2)  A * Corporations Act company is entitled to have an Australian Business Number (* ABN).
 
@@ -1716,23 +1703,6 @@ Schedule 2 (item 27): \[ <i>see</i>s. 2(1) and Note 2]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 2): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 1 (items 92–94) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -1923,18 +1893,10 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 8(2)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td colspan="2">
-    <div>am. No. 177, 1999; No. 55, 2001; No. 169, 2012</div>
+    <div>am. No. 177, 1999; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2545,7 +2507,7 @@ Repeal the paragraph, substitute:
 
                      (d)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_;
 
-As at 7 January 2013 the amendment is not incorporated in this compilation.
+As at 20 April 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
