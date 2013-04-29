@@ -1,24 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image001.gif)
 
 # Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998
 
-**Act No. 45 of 1998 as amended**
+**Act No. 45 of 1998 as amended** 
 
-This compilation was prepared on 26 March 2010
+**This compilation was prepared on 19 July 2005** 
 
-**\[This Act was amended by Act No. 100 of 2005; No. 8 of 2010]**
+**\[This Act was amended by Act No. 100 of 2005]**
 
-**Amendments from Act No. 100 of 2005**
+**Amendments from Act No. 100 of 2005**
 
-\[Schedule 2 (item 28) amended heading to item 41 of Schedule 9
-Schedule 2 (item 29) amended item 169 of Schedule 9
-Schedule 2 (items 28 and 29) commenced immediately after 1 July 1998]
+\[Schedule 2 (item 28) amended heading to item 41 of Schedule 9
+Schedule 2 (item 29) amended item 169 of Schedule 9
 
-**Amendment from Act No. 8 of 2010**
-
-\[Schedule 2 (item 22) repealed item 22 of Schedule 7
-
-Schedule 2 (item 22) commenced <span style="COLOR: black">on 1 March 2010</span>]
+Schedule 2 (items 28 and 29) commenced immediately after 1 July 1998]
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, Canberra
@@ -26,140 +21,140 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title                                                                                             1
+[1](#1).            Short title
 
-[2](#2).            Commencement                                                                                   1
+[2](#2).            Commencement
 
-[3](#3).            Schedule(s)                                                                                           2
+[3](#3).            Schedule(s)
 
-**Schedule 1—Amendment of the Social Security Act 1991 relating to austudy payment** 
+**Schedule 1—Amendment of the Social Security Act 1991 relating to austudy payment** 
 
-**Schedule 2—Amendment of the Social Security Act 1991 relating to youth allowance** 
+**Schedule 2—Amendment of the Social Security Act 1991 relating to youth allowance** 
 
-**Schedule 3—Amendment of the Social Security Act 1991 relating to youth allowance and austudy payment provisions** 
+**Schedule 3—Amendment of the Social Security Act 1991 relating to youth allowance and austudy payment provisions** 
 
-Part 1—Amendments commencing after youth allowance and austudy payment provisions commence and the Budget Measures Act has been assented to                                     120
+Part 1—Amendments commencing after youth allowance and austudy payment provisions commence and the Budget Measures Act has been assented to                                     120
 
-Part 2—Other amendments commencing on 1 July 1998 after certain provisions of the Budget Measures Act 124
+Part 2—Other amendments commencing on 1 July 1998 after certain provisions of the Budget Measures Act 123
 
-Part 3—Amendment commencing on 20 September 1998                          125
+Part 3—Amendment commencing on 20 September 1998                          124
 
-Part 4—Amendments commencing on 1 July 1999 after some provisions of the Budget Measures Act               126
+Part 4—Amendments commencing on 1 July 1999 after some provisions of the Budget Measures Act               125
 
-**Schedule 4—Amendment of the Social Security Act 1991 relating to pensioner education supplement** 
+**Schedule 4—Amendment of the Social Security Act 1991 relating to pensioner education supplement** 
 
-**Schedule 5—Amendments relating to the Student Financial Supplement Scheme** 
+**Schedule 5—Amendments relating to the Student Financial Supplement Scheme** 
 
-Part 1—Amendment of the Social Security Act 1991                                    173
+Part 1—Amendment of the Social Security Act 1991                                    172
 
-Part 2—Consequential amendments of other Acts                                          182
+Part 2—Consequential amendments of other Acts                                          181
 
-Data-matching Program (Assistance and Tax) Act 1990                                182
+Data-matching Program (Assistance and Tax) Act 1990                                181
 
-Veterans’ Entitlements Act 1986                                                                          182
+Veterans’ Entitlements Act 1986                                                                          181
 
-**Schedule 6—Amendment of the Social Security Act 1991 relating to fares allowance** 
+**Schedule 6—Amendment of the Social Security Act 1991 relating to fares allowance** 
 
-**Schedule 7—Amendment of the Social Security Act 1991 relating to indexation** 
+**Schedule 7—Amendment of the Social Security Act 1991 relating to indexation** 
 
-**Schedule 8—Amendment of the Social Security Act 1991 relating to Rate Calculators** 
+**Schedule 8—Amendment of the Social Security Act 1991 relating to Rate Calculators** 
 
-**Schedule 9—Consequential amendments of the Social Security Act 1991** 
+**Schedule 9—Consequential amendments of the Social Security Act 1991** 
 
-Part 1—Amendments relating to definitions                                                        200
+Part 1—Amendments relating to definitions                                                        199
 
-Part 2—Amendments relating to newstart allowance                                      208
+Part 2—Amendments relating to newstart allowance                                      207
 
-Part 3—Amendments relating to sickness allowance                                      211
+Part 3—Amendments relating to sickness allowance                                      210
 
-Part 4—Amendments relating to family allowance                                           214
+Part 4—Amendments relating to family allowance                                           213
 
-Part 5—Amendment relating to child disability allowance                             216
+Part 5—Amendment relating to child disability allowance                             215
 
-Part 6—Amendments relating to family tax payments                                     217
+Part 6—Amendments relating to family tax payments                                     216
 
-Part 7—Amendments relating to education leaver’s waiting period          219
+Part 7—Amendments relating to education leaver’s waiting period          218
 
-Part 8—Amendments relating to education entry payments and employment entry payments          221
+Part 8—Amendments relating to education entry payments and employment entry payments          220
 
-Part 9—Amendments relating to incorrect or inappropriate claims           224
+Part 9—Amendments relating to incorrect or inappropriate claims           223
 
-Part 10—Amendments relating to claims made by telephone, facsimile or computer  226
+Part 10—Amendments relating to claims made by telephone, facsimile or computer  225
 
-Part 11—Amendments relating to multiple entitlement exclusion provisions                    227
+Part 11—Amendments relating to multiple entitlement exclusion provisions                    226
 
-Part 12—Amendments relating to automatic termination provisions         228
+Part 12—Amendments relating to automatic termination provisions         227
 
-Part 13—Amendments relating to automatic rate reduction provisions   229
+Part 13—Amendments relating to automatic rate reduction provisions   228
 
-Part 14—Amendments relating to mobility allowance                                    231
+Part 14—Amendments relating to mobility allowance                                    230
 
-Part 15—Amendments relating to special benefit                                             232
+Part 15—Amendments relating to special benefit                                             231
 
-Part 16—Amendments relating to exclusion from assets test                       234
+Part 16—Amendments relating to exclusion from assets test                       233
 
-Part 17—Amendments relating to the value of the assets of members of couples        235
+Part 17—Amendments relating to the value of the assets of members of couples        234
 
-Part 18—Amendments relating to partner allowance                                      236
+Part 18—Amendments relating to partner allowance                                      235
 
-Part 19—Amendments relating to parenting payment                                     239
+Part 19—Amendments relating to parenting payment                                     238
 
-Part 20—Amendments relating to advance payments                                    242
+Part 20—Amendments relating to advance payments                                    241
 
-Part 21—Amendments relating to overpayment and debt recovery         243
+Part 21—Amendments relating to overpayment and debt recovery         242
 
-Part 22—Amendments relating to compensation recovery                           246
+Part 22—Amendments relating to compensation recovery                           245
 
-Part 23—Amendments relating to the review of decisions                            248
+Part 23—Amendments relating to the review of decisions                            247
 
-Part 24—Miscellaneous amendments                                                                   252
+Part 24—Miscellaneous amendments                                                                   251
 
-**Schedule 10—Amendment of the Social Security Act 1991 relating to saving and transitional provisions** 
+**Schedule 10—Amendment of the Social Security Act 1991 relating to saving and transitional provisions** 
 
-**Schedule 11—Amendment of the Student and Youth Assistance Act 1973, and related transitional provisions** 
+**Schedule 11—Amendment of the Student and Youth Assistance Act 1973, and related transitional provisions** 
 
-Part 1—Amendment of the Student and Youth Assistance Act 1973     268
+Part 1—Amendment of the Student and Youth Assistance Act 1973     267
 
-Part 2—Transitional provisions                                                                                293
+Part 2—Transitional provisions                                                                                292
 
-**Schedule 12—Consequential taxation amendments** 
+**Schedule 12—Consequential taxation amendments** 
 
-Income Tax Assessment Act 1936                                                                          300
+Income Tax Assessment Act 1936                                                                          299
 
-Income Tax Assessment Act 1997                                                                          303
+Income Tax Assessment Act 1997                                                                          302
 
-Taxation (Interest on Overpayments and Early Payments) Act 1983           306
+Taxation (Interest on Overpayments and Early Payments) Act 1983           305
 
-**Schedule 13—Amendment of various Acts consequential on youth allowance and austudy payment** 
+**Schedule 13—Amendment of various Acts consequential on youth allowance and austudy payment** 
 
-Aged Care Act 1997                                                                                                307
+Aged Care Act 1997                                                                                                306
 
-Bankruptcy Act 1966                                                                                              307
+Bankruptcy Act 1966                                                                                              306
 
-Child Care Payments Act 1997                                                                             307
+Child Care Payments Act 1997                                                                             306
 
-Data-matching Program (Assistance and Tax) Act 1990                                308
+Data-matching Program (Assistance and Tax) Act 1990                                307
 
-Disability Services Act 1986                                                                                 308
+Disability Services Act 1986                                                                                 307
 
-Farm Household Support Act 1992                                                                     308
+Farm Household Support Act 1992                                                                     307
 
-Health Insurance Act 1973                                                                                    310
+Health Insurance Act 1973                                                                                    309
 
-National Health Act 1953                                                                                      314
+National Health Act 1953                                                                                      313
 
-Registration of Deaths Abroad Act 1984                                                            314
+Registration of Deaths Abroad Act 1984                                                            313
 
-Telecommunications Act 1997                                                                              315
+Telecommunications Act 1997                                                                              314
 
-Veterans’ Entitlements Act 1986                                                                          315
+Veterans’ Entitlements Act 1986                                                                          314
 
-**Schedule 14—Amendment of the Social Security Act 1991 relating to minimum age for youth allowance** 
+**Schedule 14—Amendment of the Social Security Act 1991 relating to minimum age for youth allowance** 
 
 
 ## An Act to amend the _Social Security Act 1991_, and for related purposes
 
-[_Assented to 17 June 1998_]
+[_Assented to__17 June 1998_]
 
 The Parliament of Australia enacts:
 
@@ -169,11 +164,11 @@ The Parliament of Australia enacts:
 
 ##### <a id="2"></a>2  Commencement
 
-             (1)  Subject to subsections (2) to (10), this Act commences on 1 July 1998.
+             (1)  Subject to subsections (2) to (10), this Act commences on 1 July 1998.
 
-             (2)  Schedule 2 commences on 1 July 1998, immediately after the commencement of the _Social Security Legislation Amendment (Youth Allowance) Act 1998_ (the **_Youth Allowance Act_**).
+             (2)  Schedule 2 commences on 1 July 1998, immediately after the commencement of the _Social Security Legislation Amendment (Youth Allowance) Act 1998_ (the **_Youth Allowance Act_**).
 
-             (3)  Part 1 of Schedule 3 commences immediately after whichever of the following events occurs later:
+             (3)  Part 1 of Schedule 3 commences immediately after whichever of the following events occurs later:
 
                      (a)  the commencement of the Youth Allowance Act;
 
@@ -181,32 +176,32 @@ The Parliament of Australia enacts:
 
 If the 2 events occur at the same time, that Part commences immediately after the commencement of the Youth Allowance Act.
 
-             (4)  Despite subsection (3), if the Budget Measures Act receives the Royal Assent after 1 July 1998, item 2 of Schedule 3 to this Act commences immediately after the commencement of the Youth Allowance Act.
+             (4)  Despite subsection (3), if the Budget Measures Act receives the Royal Assent after 1 July 1998, item 2 of Schedule 3 to this Act commences immediately after the commencement of the Youth Allowance Act.
 
-             (5)  Part 2 of Schedule 3 commences immediately after the commencement of items 4, 5, 6 and 11 of Schedule 4 to the Budget Measures Act.
+             (5)  Part 2 of Schedule 3 commences immediately after the commencement of items 4, 5, 6 and 11 of Schedule 4 to the Budget Measures Act.
 
-             (6)  Part 3 of Schedule 3 commences on 20 September 1998, immediately after the commencement of Schedule 3 to the Budget Measures Act.
+             (6)  Part 3 of Schedule 3 commences on 20 September 1998, immediately after the commencement of Schedule 3 to the Budget Measures Act.
 
-             (7)  Part 4 of Schedule 3 commences on 1 July 1999, immediately after the commencement of item 1 of Schedule 5 to the Budget Measures Act.
+             (7)  Part 4 of Schedule 3 commences on 1 July 1999, immediately after the commencement of item 1 of Schedule 5 to the Budget Measures Act.
 
-             (8)  Items 89 to 91 of Schedule 9 commence on the day on which this Act receives the Royal Assent.
+             (8)  Items 89 to 91 of Schedule 9 commence on the day on which this Act receives the Royal Assent.
 
-             (9)  Item 1 of Schedule 10 commences on the day on which this Act receives the Royal Assent.
+             (9)  Item 1 of Schedule 10 commences on the day on which this Act receives the Royal Assent.
 
-           (10)  Item 71 of Schedule 13 commences on 20 September 1998, immediately after the commencement of Part 4 of Schedule 1 to the _Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997_.
+           (10)  Item 71 of Schedule 13 commences on 20 September 1998, immediately after the commencement of Part 4 of Schedule 1 to the _Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997_.
 
-           (11)  Schedule 14 commences immediately after the commencement of subsection 543A(2A) of the _Social Security Act 1991_ (inserted in that Act by the _Social Security Legislation Amendment (Youth Allowance) Act 1998_).
+           (11)  Schedule 14 commences immediately after the commencement of subsection 543A(2A) of the _Social Security Act 1991_ (inserted in that Act by the _Social Security Legislation Amendment (Youth Allowance) Act 1998_).
 
 ##### <a id="3"></a>3  Schedule(s)
 
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 
  
 
-###### Schedule 1—Amendment of the Social Security Act 1991 relating to austudy payment
+###### Schedule 1—Amendment of the Social Security Act 1991 relating to austudy payment
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Insert the following entries in their appropriate alphabetical position, determined on a letter-by-letter basis:
 
@@ -235,11 +230,11 @@ Insert the following entries in their appropriate alphabetical position, determi
   </tr>
 </tbody></table>
 
-## 2  Section 3 (entry relating to living at home)
+## 2  Section 3 (entry relating to living at home)
 
 After “1067E”, insert “and 1067J”.
 
-## 3  Section 3 (entry relating to long term income support student)
+## 3  Section 3 (entry relating to long term income support student)
 
 After “1067F”, insert “and 1067K”.
 
@@ -255,13 +250,13 @@ Insert:
 
                     <a name="tafe-institut"></a>**_TAFE institution_** means an institution that is a technical and further education institution for the purposes of the _Student Assistance Act 1973_.
 
-## 6  Before Part 2.12
+## 6  Before Part 2.12
 
 Insert:
 
-## Part 2.11A—Austudy payment
+## Part 2.11A—Austudy payment
 
-### Division 1—Qualification for austudy payment
+### Division 1—Qualification for austudy payment
 
 #### Subdivision A—Basic qualifications
 
@@ -275,7 +270,7 @@ Insert:
 
                      (c)  the person satisfies the residency requirements that apply to the person under Subdivision D.
 
-Note:          Division 2 sets out situations in which an austudy payment is not payable even if the person qualifies for it.
+Note:          Division 2 sets out situations in which an austudy payment is not payable even if the person qualifies for it.
 
 ##### <a id="568A"></a>568A  Qualification for austudy payment—transferee from social security pension
 
@@ -295,7 +290,7 @@ the person is taken to be qualified for an austudy payment for the whole of the 
 
 General
 
-             (1)  Subject to subsection (2), a person satisfies the activity test in respect of a period if the person satisfies the Secretary that, throughout the period, the person is undertaking qualifying study (see section 569A).
+             (1)  Subject to subsection (2), a person satisfies the activity test in respect of a period if the person satisfies the Secretary that, throughout the period, the person is undertaking qualifying study (see section 569A).
 
 Persons who do not satisfy the activity test
 
@@ -313,7 +308,7 @@ Note:          For **_educational institution_** see subsectio
 
 Industrial instrument
 
-             (3)  In paragraph (2)(a):
+             (3)  In paragraph (2)(a):
 
                     <a name="industri-instrum"></a>**_industrial instrument_** means an award or agreement (however described) that:
 
@@ -327,7 +322,7 @@ Industrial instrument
 
 ##### <a id="569A"></a>569A  Undertaking qualifying study
 
-                   For the purposes of this Part, a person is **_undertaking qualifying study_** if:
+                   For the purposes of this Part, a person is **_undertaking qualifying study_** if:
 
                      (a)  the person:
 
@@ -337,15 +332,15 @@ Industrial instrument
 
                             (iii)  was enrolled in the course and satisfies the Secretary that he or she intends, and has (since no longer being enrolled) always intended, to enrol in another course of education (at the same or a different educational institution) when enrolments in the other course are next accepted; and
 
-                     (b)  the course in which the person is enrolled, or intends to enrol, is an approved course of education or study (see section 569B); and
+                     (b)  the course in which the person is enrolled, or intends to enrol, is an approved course of education or study (see section 569B); and
 
-                     (c)  the person is a full-time student or a concessional study-load student in respect of that course (see sections 569C and 569D); and
+                     (c)  the person is a full-time student or a concessional study-load student in respect of that course (see sections 569C and 569D); and
 
-                     (d)  the person satisfies the progress rules (see sections 569G and 569H).
+                     (d)  the person satisfies the progress rules (see sections 569G and 569H).
 
 ##### <a id="569B"></a>569B  Approved course of education or study
 
-                   For the purposes of paragraph 569A(b), a course is an approved course of education or study if it is a course that the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, to be a secondary course or a tertiary course for the purposes of that Act.
+                   For the purposes of paragraph 569A(b), a course is an approved course of education or study if it is a course that the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, to be a secondary course or a tertiary course for the purposes of that Act.
 
 ##### <a id="569C"></a>569C  Full-time students
 
@@ -355,7 +350,7 @@ Industrial instrument
 
                      (b)  in the case of a person who intends to enrol in the course for a particular study period—the person intends to undertake at least three quarters of the normal amount of full-time study in respect of the course for that period.
 
-Note:          For **_normal amount of full-time study_** see section 569E.
+Note:          For **_normal amount of full-time study_** see section 569E.
 
 ##### <a id="569D"></a>569D  Concessional study-load students
 
@@ -377,9 +372,9 @@ Note:          For **_normal amount of full-time study_** see 
 
                      (b)  in the case of a person who intends to enrol in the course for a particular study period—the person intends to undertake at least two thirds, but less than three quarters, of the normal amount of full-time study in respect of the course for that period.
 
-Note:          For **_normal amount of full-time study_** see section 569E.
+Note:          For **_normal amount of full-time study_** see section 569E.
 
-             (4)  Subsection (2) applies to a person if:
+             (4)  Subsection (2) applies to a person if:
 
                      (a)  an officer in the Commonwealth Rehabilitation Service has stated in writing that:
 
@@ -399,7 +394,7 @@ Note:          For **_normal amount of full-time study_** see 
 
                              (ii)  cannot successfully undertake the normal amount of full-time study in respect of the course because of the disability.
 
-             (5)  Subsection (3) applies to a person if:
+             (5)  Subsection (3) applies to a person if:
 
                      (a)  the person cannot undertake the course as a full-time student because of:
 
@@ -419,7 +414,7 @@ Note:          For **_normal amount of full-time study_** see 
 
                      (c)  otherwise—an amount of full-time study equivalent to the average amount of full-time study that a person would have to undertake for the duration of the course in order to complete the course in the minimum amount of time needed to complete it.
 
-             (2)  Without limiting subsection (1), the **_normal amount of full-time study_** in respect of a course is an average, taken over the duration of the period for which the person in question is enrolled in the course, of 20 contact hours per week.
+             (2)  Without limiting subsection (1), the **_normal amount of full-time study_** in respect of a course is an average, taken over the duration of the period for which the person in question is enrolled in the course, of 20 contact hours per week.
 
 ##### <a id="569F"></a>569F  First fortnight of classes
 
@@ -435,13 +430,13 @@ if the person is enrolled in the course and undertakes study in respect of the c
 
 General rule
 
-             (1)  Subject to subsection (2), a person enrolled in, or intending to enrol in, a secondary course satisfies the progress rules for the purposes of paragraph 569A(d) if, in the Secretary’s opinion, the person is making satisfactory progress towards completing the course.
+             (1)  Subject to subsection (2), a person enrolled in, or intending to enrol in, a secondary course satisfies the progress rules for the purposes of paragraph 569A(d) if, in the Secretary’s opinion, the person is making satisfactory progress towards completing the course.
 
 Students repeating year 12
 
              (2)  A person does not satisfy the progress rules if:
 
-                     (a)  the person is enrolled in a secondary course that is at year 12 level, or the overall level of which is at year 12 level (see subsections (3) and (4)); and
+                     (a)  the person is enrolled in a secondary course that is at year 12 level, or the overall level of which is at year 12 level (see subsections (3) and (4)); and
 
                      (b)  the person has been a full-time student in respect of a course at that level (a **_previous course_**) in each of 2 previous years; and
 
@@ -467,7 +462,7 @@ Overall level of course at year 12 level
 
 Meaning of secondary course
 
-             (5)  For the purposes of this section, a course is a secondary course if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a secondary course for the purposes of that Act.
+             (5)  For the purposes of this section, a course is a secondary course if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a secondary course for the purposes of that Act.
 
 ##### <a id="569H"></a>569H  Progress rules—tertiary students
 
@@ -481,7 +476,7 @@ Full-time students
 
 the time already spent by the student on the course, or on one or more other tertiary courses at the same level as that course, does not exceed the allowable study time for that course.
 
-Note:          For allowable study time for a course see subsection (3).
+Note:          For allowable study time for a course see subsection (3).
 
 Concessional study-load students
 
@@ -493,7 +488,7 @@ Concessional study-load students
 
 the time already spent by the person on the course, or on one or more other tertiary courses at the same level as that course, does not exceed the allowable study time for the course.
 
-Note:          For allowable study time for a course see subsections (3) and (4).
+Note:          For allowable study time for a course see subsections (3) and (4).
 
 Allowable study time—full-time students and 66% concessional study-load students
 
@@ -519,7 +514,7 @@ Time spent by person studying part-time
 
              (5)  If a student has studied part-time for a course over a certain period, the time spent by the student on that course is taken to be the proportion of that period calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image002.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image002.gif)</sub>
 
 where:
 
@@ -541,7 +536,7 @@ Current full-time students who have previously undertaken courses as concessiona
 
                             as a concessional study-load student; and
 
-                     (c)  the time spent by the person undertaking the part of the course referred to in subparagraph (b)(i), or the course or courses referred to in subparagraph (b)(ii), (the **_previous study_**) is not to be disregarded under subsection (7);
+                     (c)  the time spent by the person undertaking the part of the course referred to in subparagraph (b)(i), or the course or courses referred to in subparagraph (b)(ii), (the **_previous study_**) is not to be disregarded under subsection (7);
 
 the time spent by the person undertaking the previous study is taken to be equal to the minimum amount of time that a full-time student would have taken to complete the previous study. 
 
@@ -655,7 +650,7 @@ Level D courses
 
 Meaning of tertiary course
 
-           (13)  For the purposes of this section, a course is a tertiary course if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a tertiary course for the purposes of that Act.
+           (13)  For the purposes of this section, a course is a tertiary course if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a tertiary course for the purposes of that Act.
 
 #### Subdivision C—Austudy age
 
@@ -663,7 +658,7 @@ Meaning of tertiary course
 
 General
 
-             (1)  Subject to subsection (2), a person is of austudy age for the purposes of this Part if the person is at least 25 years old.
+             (1)  Subject to subsection (2), a person is of austudy age for the purposes of this Part if the person is at least 25 years old.
 
 Study begun before turning 25
 
@@ -701,9 +696,9 @@ Temporary return to Australia
 
                      (b)  leaves Australia before the end of 13 weeks after he or she so returned to Australia;
 
-the person is taken, for the purposes of paragraph (1)(b), to have continued to be absent from Australia throughout the period from the time of the return to the time when the person so left Australia.
+the person is taken, for the purposes of paragraph (1)(b), to have continued to be absent from Australia throughout the period from the time of the return to the time when the person so left Australia.
 
-### Division 2—Situations in which austudy payment is not payable
+### Division 2—Situations in which austudy payment is not payable
 
 #### Subdivision A—The basic rules
 
@@ -725,9 +720,9 @@ the person is taken, for the purposes of paragraph (1)(b), to have continued t
 
                      (g)  while the person’s austudy payment rate would be nil.
 
-Note 1:       An austudy payment is not payable if the person is in gaol or is undergoing psychiatric confinement because the person has been charged with committing an offence (see Division 2 of Part 3.13).
+Note 1:       An austudy payment is not payable if the person is in gaol or is undergoing psychiatric confinement because the person has been charged with committing an offence (see Division 2 of Part 3.13).
 
-Note 2:       An austudy payment is not payable to a person if the person is subject to a compensation preclusion period (see Part 3.14).
+Note 2:       An austudy payment is not payable to a person if the person is subject to a compensation preclusion period (see Part 3.14).
 
 #### Subdivision B—Assets test
 
@@ -739,9 +734,9 @@ Note 2:       An austudy payment is not payable to a person if the p
 
                      (b)  the value of the person’s assets is more than the person’s assets value limit.
 
-Note 1:       For persons excluded from application of test see section 573A.
+Note 1:       For persons excluded from application of test see section 573A.
 
-Note 2:       For **_assets value limit_** see section 573B.
+Note 2:       For **_assets value limit_** see section 573B.
 
 ##### <a id="573A"></a>573A  Who is excluded from application of assets test
 
@@ -749,7 +744,7 @@ Note 2:       For **_assets value limit_** see section 573B.
 
                      (a)  a payment of pension, benefit or allowance referred to in the table at the end of this section; or
 
-                     (b)  a payment under Part 5 or 6 of the _Farm Household Support Act 1992_.
+                     (b)  a payment under Part 5 or 6 of the _Farm Household Support Act 1992_.
 
 <table>
 <colgroup>
@@ -761,21 +756,15 @@ Note 2:       For **_assets value limit_** see section 573B.
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Table of pensions, benefits and allowances</b>
-      </div>
+      <div><b>Table of pensions, benefits and allowances</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b>Item</b></div>
     </td>
     <td colspan="2">
-      <div>
-        <b>Type of pension, benefit and allowance</b>
-      </div>
+      <div><b>Type of pension, benefit and allowance</b></div>
     </td>
   </tr>
 </thead>
@@ -788,7 +777,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Age pension</div>
     </td>
     <td>
-      <div>(Part 2.2)</div>
+      <div>(Part 2.2)</div>
     </td>
   </tr>
   <tr>
@@ -799,7 +788,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Service pension (age)</div>
     </td>
     <td>
-      <div>(Section 36 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 36 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -810,7 +799,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Defence widow’s pension—if the widow has no dependent children</div>
     </td>
     <td>
-      <div>(Section 70 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 70 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -821,7 +810,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>War widow’s pension—if the widow has no dependent children</div>
     </td>
     <td>
-      <div>(Section 13 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 13 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -832,7 +821,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Mature age allowance</div>
     </td>
     <td>
-      <div>(Part 2.12A or 2.12B)</div>
+      <div>(Part 2.12A or 2.12B)</div>
     </td>
   </tr>
   <tr>
@@ -843,7 +832,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Rehabilitation allowance</div>
     </td>
     <td>
-      <div>(Clause 35 of Schedule 1A)</div>
+      <div>(Clause 35 of Schedule 1A)</div>
     </td>
   </tr>
   <tr>
@@ -865,7 +854,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Carer payment</div>
     </td>
     <td>
-      <div>(Part 2.5)</div>
+      <div>(Part 2.5)</div>
     </td>
   </tr>
   <tr>
@@ -876,7 +865,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Service pension (carer)</div>
     </td>
     <td>
-      <div>(Section 39 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 39 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -887,7 +876,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Defence widow’s pension—if the widow has a dependent child</div>
     </td>
     <td>
-      <div>(Section 70 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 70 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -898,7 +887,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Disability support pension</div>
     </td>
     <td>
-      <div>(Part 2.3)</div>
+      <div>(Part 2.3)</div>
     </td>
   </tr>
   <tr>
@@ -909,7 +898,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Service pension (invalidity)</div>
     </td>
     <td>
-      <div>(Section 37 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 37 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -920,7 +909,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>War widow’s pension—if the widow has a dependent child</div>
     </td>
     <td>
-      <div>(Section 13 of the Veterans’ Entitlements Act)</div>
+      <div>(Section 13 of the Veterans’ Entitlements Act)</div>
     </td>
   </tr>
   <tr>
@@ -931,7 +920,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Newstart allowance</div>
     </td>
     <td>
-      <div>(Part 2.12)</div>
+      <div>(Part 2.12)</div>
     </td>
   </tr>
   <tr>
@@ -942,7 +931,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Sickness allowance</div>
     </td>
     <td>
-      <div>(Part 2.14)</div>
+      <div>(Part 2.14)</div>
     </td>
   </tr>
   <tr>
@@ -953,7 +942,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Special benefit</div>
     </td>
     <td>
-      <div>(Part 2.15)</div>
+      <div>(Part 2.15)</div>
     </td>
   </tr>
   <tr>
@@ -964,7 +953,7 @@ Note 2:       For **_assets value limit_** see section 573B.
       <div>Benefit PP (partnered)</div>
     </td>
     <td>
-      <div>(Part 2.10)</div>
+      <div>(Part 2.10)</div>
     </td>
   </tr>
 </tbody></table>
@@ -975,7 +964,7 @@ Note 2:       For **_assets value limit_** see section 573B.
 
                      (a)  $125,750 if the person:
 
-                              (i)  is not a member of a couple (see section 4); and
+                              (i)  is not a member of a couple (see section 4); and
 
                              (ii)  is a homeowner; or
 
@@ -999,21 +988,21 @@ Note 2:       For **_assets value limit_** see section 573B.
 
 Note 1:       For **_homeowner_** see subsection 11(4).
 
-Note 2:       The amounts in this section are indexed annually on 1 July (see sections 1191 to 1194).
+Note 2:       The amounts in this section are indexed annually on 1 July (see sections 1191 to 1194).
 
-             (2)  If the Secretary determines in writing a higher amount in substitution for an amount specified in subsection (1) (the **_existing amount_**), the higher amount is taken, from the commencement of this section, to have been substituted for the existing amount. A determination under this subsection is a disallowable instrument.
+             (2)  If the Secretary determines in writing a higher amount in substitution for an amount specified in subsection (1) (the **_existing amount_**), the higher amount is taken, from the commencement of this section, to have been substituted for the existing amount. A determination under this subsection is a disallowable instrument.
 
-             (3)  Subsection (2) and this subsection are repealed at the end of 31 December 1998.
+             (3)  Subsection (2) and this subsection are repealed at the end of 31 December 1998.
 
 ##### <a id="573C"></a>573C  Value of person’s assets to include value of assets of partner
 
                    The value of a person’s assets is the sum of the following values:
 
-                     (a)  the value of the person’s assets (disregarding paragraph (b));
+                     (a)  the value of the person’s assets (disregarding paragraph (b));
 
-                     (b)  if the person is a member of a couple (see section 4)—the value of the assets of the person’s partner.
+                     (b)  if the person is a member of a couple (see section 4)—the value of the assets of the person’s partner.
 
-Sections 573D and 573E apply for the purpose of working out the value of the person’s assets and of his or her partner (if any).
+Sections 573D and 573E apply for the purpose of working out the value of the person’s assets and of his or her partner (if any).
 
 ##### <a id="573D"></a>573D  Assets of trust in which person benefits
 
@@ -1029,7 +1018,7 @@ Sections 573D and 573E apply for the purpose of working out the value of the p
 
                    If:
 
-                     (a)  an exceptional circumstances certificate referred to in section 8A of the _Farm Household Support Act 1992_ was issued in respect of a person; and
+                     (a)  an exceptional circumstances certificate referred to in section 8A of the _Farm Household Support Act 1992_ was issued in respect of a person; and
 
                      (b)  the certificate has effect;
 
@@ -1043,7 +1032,7 @@ the person’s assets do not include any asset that is an exempt asset in respec
 
 ##### <a id="574A"></a>574A  Provisional commencement day—initial incorrect or inappropriate claim followed by claim for austudy payment
 
-                   Subject to section 574B, if:
+                   Subject to section 574B, if:
 
                      (a)  a person makes a claim (**_initial claim_**) for:
 
@@ -1071,7 +1060,7 @@ the person’s provisional commencement day is the person’s transfer day.
 
 Note:          For **_transferee to austudy payment_** and **_transfer day_** see subsections 23(6) and (7).
 
-##### <a id="574C"></a>574C  Provisional commencement day—application of section 577C or reduction of rate to nil
+##### <a id="574C"></a>574C  Provisional commencement day—application of section 577C or reduction of rate to nil
 
                    If:
 
@@ -1079,13 +1068,13 @@ Note:          For **_transferee to austudy payment_** and **_
 
                      (b)  either:
 
-                              (i)  the person is subject to an administrative exclusion because of the application of section 577C; or
+                              (i)  the person is subject to an administrative exclusion because of the application of section 577C; or
 
-                             (ii)  an administrative breach rate reduction period under Subdivision C of Division 5 applies to the person and the person’s administrative breach reduced rate is a nil rate; and
+                             (ii)  an administrative breach rate reduction period under Subdivision C of Division 5 applies to the person and the person’s administrative breach reduced rate is a nil rate; and
 
                      (c)  payment of the allowance is cancelled or automatically terminated; and
 
-                     (d)  the person lodges a claim for austudy payment within 14 days after the date of effect of the cancellation or automatic termination referred to in paragraph (c);
+                     (d)  the person lodges a claim for austudy payment within 14 days after the date of effect of the cancellation or automatic termination referred to in paragraph (c);
 
 the person’s provisional commencement day is the day after the date of effect of the cancellation or automatic termination.
 
@@ -1107,9 +1096,9 @@ the person’s provisional commencement day is the day on which he or she was af
 
                    For the purposes of this Part, a person may be subject to the following waiting periods:
 
-                     (a)  a liquid assets test waiting period (see sections 575A, 575B and 575C);
+                     (a)  a liquid assets test waiting period (see sections 575A, 575B and 575C);
 
-                     (b)  a newly arrived resident’s waiting period (see sections 575D and 575E).
+                     (b)  a newly arrived resident’s waiting period (see sections 575D and 575E).
 
 ##### <a id="575A"></a>575A  Liquid assets test waiting period
 
@@ -1127,13 +1116,13 @@ When person subject to liquid assets test waiting period—general
 
 the person is subject to a liquid assets test waiting period.
 
-Note 1:       For **_liquid assets_** and **_maximum reserve_** see section 14A.
+Note 1:       For **_liquid assets_** and **_maximum reserve_** see section 14A.
 
 Note 2:       For **_transferee to austudy payment_** see subsections 23(6) and (7).
 
 Exception—person already subject to liquid assets test waiting period in previous 12 months
 
-             (2)  Subsection (1) does not apply to a person if, at any time during the 12 months before:
+             (2)  Subsection (1) does not apply to a person if, at any time during the 12 months before:
 
                      (a)  the day on which the person becomes qualified for austudy payment; or
 
@@ -1157,7 +1146,7 @@ Note 2:       For **_unavoidable or reasonable expenditure_** see su
 
 Exception—certain transferees to austudy payment
 
-             (4)  Subsection (1) does not apply to a person if:
+             (4)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a transferee to austudy payment; and
 
@@ -1173,15 +1162,15 @@ Number of weeks
 
              (1)  A person’s liquid assets test waiting period is:
 
-                     (a)  if the result obtained under subsection (2) is 13 or more whole weeks—13 weeks; or
+                     (a)  if the result obtained under subsection (2) is 13 or more whole weeks—13 weeks; or
 
-                     (b)  if the result obtained under subsection (2) is fewer than 13 whole weeks—the number of whole weeks obtained under that subsection.
+                     (b)  if the result obtained under subsection (2) is fewer than 13 whole weeks—the number of whole weeks obtained under that subsection.
 
 Working out number of weeks
 
-             (2)  Subject to subsection (3), the number of weeks is worked out by using the following formula:
+             (2)  Subject to subsection (3), the number of weeks is worked out by using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image003.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image003.gif)</sub>
 
 where:
 
@@ -1197,7 +1186,7 @@ where:
 
 Weeks etc. to be disregarded
 
-             (3)  For the purposes of subsection (2), disregard:
+             (3)  For the purposes of subsection (2), disregard:
 
                      (a)  any weeks after the person claimed austudy payment during which the person was not qualified for austudy payment; and
 
@@ -1209,7 +1198,7 @@ Basic rule
 
              (1)  Subject to this section, a person is subject to a newly arrived resident’s waiting period if the person:
 
-                     (a)  has entered Australia on or after 4 March 1997; and
+                     (a)  has entered Australia on or after 4 March 1997; and
 
                      (b)  has not been an Australian resident in Australia for a period of, or periods totalling, 104 weeks.
 
@@ -1217,31 +1206,31 @@ Note:          For **_Australian resident_** see subsection 7(
 
 Exception—qualifying residence exemption
 
-             (2)  Subsection (1) does not apply to a person who has a qualifying residence exemption for an austudy payment.
+             (2)  Subsection (1) does not apply to a person who has a qualifying residence exemption for an austudy payment.
 
 Note:          For **_qualifying residence exemption_** see subsection 7(6).
 
 Exception—person already subject to waiting period etc.
 
-             (3)  Subsection (1) does not apply to a person if:
+             (3)  Subsection (1) does not apply to a person if:
 
                      (a)  the person has been subject to:
 
                               (i)  a newly arrived resident’s waiting period under this Act; or
 
-                             (ii)  a waiting period under Part 2 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; or
+                             (ii)  a waiting period under Part 2 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; or
 
-                            (iii)  a newly arrived resident’s waiting period under Part 8 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; and
+                            (iii)  a newly arrived resident’s waiting period under Part 8 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; and
 
                      (b)  that period has ended.
 
-             (4)  Subsection (1) does not apply to a person if:
+             (4)  Subsection (1) does not apply to a person if:
 
                      (a)  the person would:
 
                               (i)  if the person had made a claim under this Act for a social security payment other than youth allowance—have been subject to a newly arrived resident’s waiting period under this Act; or
 
-                             (ii)  if the person had, before 1 July 1998, made a claim under the _Student Assistance Act 1973_—have been subject to a waiting period under Part 2 of that Act or a newly arrived resident’s waiting period under Part 8 of that Act;
+                             (ii)  if the person had, before 1 July 1998, made a claim under the _Student Assistance Act 1973_—have been subject to a waiting period under Part 2 of that Act or a newly arrived resident’s waiting period under Part 8 of that Act;
 
                             and that period would have ended; or
 
@@ -1277,25 +1266,25 @@ Note:          For **_Australian resident_** see subsection 7(
 
                      (b)  the latest breach is the third or subsequent activity test breach in the 2 years immediately before the day after the latest breach.
 
-Note:          If the latest breach is the first or second activity test breach in the 2 years before the latest breach, an activity test rate reduction period applies to the person (see Subdivision B of Division 5).
+Note:          If the latest breach is the first or second activity test breach in the 2 years before the latest breach, an activity test rate reduction period applies to the person (see Subdivision B of Division 5).
 
 ##### <a id="576A"></a>576A  Activity test breaches
 
                    A person has committed an activity test breach if:
 
-                     (a)  the person fails to satisfy the activity test (see Subdivision B of Division 1); or
+                     (a)  the person fails to satisfy the activity test (see Subdivision B of Division 1); or
 
                      (b)  the person refuses or fails, without reasonable excuse, to provide information in relation to the person’s income from remunerative work when required to do so under this Act; or
 
                      (c)  the person knowingly or recklessly provides false or misleading information in relation to the person’s income from remunerative work when required to do so under this Act.
 
-Note:          An activity test breach may also arise under other sections of this Act and the _Student Assistance Act 1973_ as in force immediately before the commencement of section 576A of this Act (see subsection 23(1)).
+Note:          An activity test breach may also arise under other sections of this Act and the _Student Assistance Act 1973_ as in force immediately before the commencement of section 576A of this Act (see subsection 23(1)).
 
 ##### <a id="576B"></a>576B  Length of activity test non-payment period
 
 Basic rule
 
-             (1)  Subject to subsection (2), the length of an activity test non-payment period is 8 weeks.
+             (1)  Subject to subsection (2), the length of an activity test non-payment period is 8 weeks.
 
 Pre-existing non-payment period
 
@@ -1307,15 +1296,15 @@ Notice of start of period
 
              (1)  If an activity test non-payment period applies to a person under this Part, the Secretary must give the person a written notice telling the person of the start of the period.
 
-          (1A)  A notice under subsection (1) must contain reasons why the activity test non-payment period applies to the person.
+          (1A)  A notice under subsection (1) must contain reasons why the activity test non-payment period applies to the person.
 
 General rule
 
-             (2)  Subject to subsection (3) of this section and section 576E, the activity test non-payment period starts on the day on which the notice is given to the person.
+             (2)  Subject to subsection (3) of this section and section 576E, the activity test non-payment period starts on the day on which the notice is given to the person.
 
 Austudy payment ceasing to be payable
 
-             (3)  Subject to section 576E, if:
+             (3)  Subject to section 576E, if:
 
                      (a)  on or before the day on which a person’s activity test non-payment period would (apart from this subsection) have started, an austudy payment ceases to be payable to the person; and
 
@@ -1333,15 +1322,15 @@ Application of section
 
                      (b)  during the whole or a part of that period, the whole or a part of an activity test breach rate reduction period (**_overlap period_**) applies to the person.
 
-Note:          An administrative breach rate reduction period may also apply to the person (see section 583C).
+Note:          An administrative breach rate reduction period may also apply to the person (see section 583C).
 
 Overlap period
 
-             (2)  Subject to subsection (4), the activity test non-payment period and the activity test breach rate reduction period are to run concurrently during the overlap period.
+             (2)  Subject to subsection (4), the activity test non-payment period and the activity test breach rate reduction period are to run concurrently during the overlap period.
 
 Which restriction is to apply
 
-             (3)  Subject to section 576E, only the non-payment restriction relating to the activity test non-payment period is to apply to the person during the overlap period.
+             (3)  Subject to section 576E, only the non-payment restriction relating to the activity test non-payment period is to apply to the person during the overlap period.
 
 Pre-existing activity test breach rate reduction period
 
@@ -1357,7 +1346,7 @@ Application of section
 
                      (b)  during the whole or a part of that period, the whole or a part of a waiting period (**_overlap period_**) applies to the person.
 
-Note:          An administrative breach rate reduction period may also apply to the person (see section 583C).
+Note:          An administrative breach rate reduction period may also apply to the person (see section 583C).
 
 Overlap period
 
@@ -1367,9 +1356,9 @@ Which restriction is to apply
 
              (3)  Despite any other provision of this Act, only the restriction on payment relating to the waiting period is to apply to the person during the overlap period.
 
-##### <a id="576F"></a>576F  Effect of sections 576C, 576D and 576E
+##### <a id="576F"></a>576F  Effect of sections 576C, 576D and 576E
 
-                   For the avoidance of doubt, sections 576C, 576D and 576E do not prevent an austudy payment ceasing to be payable in circumstances that do not involve the application of an activity test non-payment period under this Part.
+                   For the avoidance of doubt, sections 576C, 576D and 576E do not prevent an austudy payment ceasing to be payable in circumstances that do not involve the application of an activity test non-payment period under this Part.
 
 ##### <a id="576G"></a>576G  Where one event may give rise to both an activity test penalty and an administrative breach rate reduction period
 
@@ -1379,7 +1368,7 @@ Which restriction is to apply
 
 ##### <a id="577"></a>577  Administrative exclusions
 
-                   For the purposes of this Division, a person is subject to an administrative exclusion while one or more of sections 577A to 577D apply to the person.
+                   For the purposes of this Division, a person is subject to an administrative exclusion while one or more of sections 577A to 577D apply to the person.
 
 Note:          These sections apply because the person fails to do certain things. It is open to the person to end the administrative exclusion by doing those things.
 
@@ -1389,7 +1378,7 @@ Person must provide tax file number or employment declaration
 
              (1)  A person is subject to an administrative exclusion if:
 
-                     (a)  the Secretary has requested the person under section 579F or 586:
+                     (a)  the Secretary has requested the person under section 579F or 586:
 
                               (i)  to give the Secretary a written statement of the person’s tax file number; or
 
@@ -1399,7 +1388,7 @@ Person must provide tax file number or employment declaration
 
                               (i)  given the Secretary a written statement of the person’s tax file number; nor
 
-                             (ii)  given the Secretary an employment declaration and satisfied either subsection (2) or (3).
+                             (ii)  given the Secretary an employment declaration and satisfied either subsection (2) or (3).
 
 Person does not know tax file number
 
@@ -1443,17 +1432,17 @@ Application for tax file number pending
 
 Person must provide partner’s tax file number
 
-             (1)  Subject to subsection (4), a person is subject to an administrative exclusion if:
+             (1)  Subject to subsection (4), a person is subject to an administrative exclusion if:
 
                      (a)  the person is a member of a couple; and
 
-                     (b)  the person is requested under section 579G or 586A to give the Secretary a written statement of the tax file number of the person’s partner; and
+                     (b)  the person is requested under section 579G or 586A to give the Secretary a written statement of the tax file number of the person’s partner; and
 
                      (c)  at the end of 28 days after the request is made the person has neither:
 
                               (i)  given the Secretary a written statement of the partner’s tax file number; nor
 
-                             (ii)  given the Secretary a declaration by the partner in a form approved by the Secretary and satisfied either subsection (2) or (3).
+                             (ii)  given the Secretary a declaration by the partner in a form approved by the Secretary and satisfied either subsection (2) or (3).
 
 Partner does not know tax file number
 
@@ -1503,13 +1492,13 @@ Secretary may waive requirement
 
                              (ii)  a statement of the partner’s tax file number;
 
-                            (iii)  a declaration by the partner under subparagraph (1)(c)(ii).
+                            (iii)  a declaration by the partner under subparagraph (1)(c)(ii).
 
 ##### <a id="577C"></a>577C  Failure to attend the Department etc.—person required to satisfy activity test etc.
 
 Requirement to attend the Department etc.
 
-             (1)  Subject to subsection (2), a person is subject to an administrative exclusion if:
+             (1)  Subject to subsection (2), a person is subject to an administrative exclusion if:
 
                      (a)  a person is receiving, or has lodged a claim for, an austudy payment; and
 
@@ -1535,7 +1524,7 @@ Requirement to attend the Department etc.
 
 Content of notice
 
-          (1A)  A notice under paragraph (1)(c) must inform the person to whom it is given of the effect of failure by the person to comply with the requirement set out in the notice without reasonable excuse.
+          (1A)  A notice under paragraph (1)(c) must inform the person to whom it is given of the effect of failure by the person to comply with the requirement set out in the notice without reasonable excuse.
 
 Reasonable excuse for non-compliance
 
@@ -1561,15 +1550,15 @@ Cessation of administrative exclusion
 
 #### Subdivision G—Multiple entitlement exclusions
 
-##### <a id="578"></a>578  Multiple entitlement exclusions
+##### <a id="578"></a>578  Multiple entitlement exclusions
 
                    For the purposes of this Division, a person is subject to a multiple entitlement exclusion if:
 
                      (a)  the person is receiving an austudy payment and another social security benefit, a social security pension or a service pension becomes payable to the person; or
 
-                     (b)  a payment under a scheme referred to in section 578A has been or may be made to the person; or
+                     (b)  a payment under a scheme referred to in section 578A has been or may be made to the person; or
 
-                     (c)  an assurance of support applies to the person (see section 578B); or
+                     (c)  an assurance of support applies to the person (see section 578B); or
 
                      (d)  the person has received, or may receive, income that is paid by a community or group from funds provided under a Commonwealth funded employment program.
 
@@ -1579,7 +1568,7 @@ Note:          For **_Commonwealth funded employment program_*
 
 General
 
-             (1)  Subject to subsection (2), the schemes for the purposes of paragraph 578(b) are:
+             (1)  Subject to subsection (2), the schemes for the purposes of paragraph 578(b) are:
 
                      (a)  a prescribed educational scheme other than the ABSTUDY Tertiary Scheme to the extent that it applies to part-time students; and
 
@@ -1591,7 +1580,7 @@ General
 
                      (e)  a LEAP program.
 
-Note 1:       For **_prescribed educational scheme_** see section 5.
+Note 1:       For **_prescribed educational scheme_** see section 5.
 
 Note 2:       For **_LEAP program_** see subsection 23(1).
 
@@ -1609,7 +1598,7 @@ Application made under ABSTUDY Scheme
 
                      (c)  the person was receiving an austudy payment immediately before the start of the course;
 
-the Secretary may decide that the person is not subject to a multiple entitlement exclusion, because of subsection (1), before:
+the Secretary may decide that the person is not subject to a multiple entitlement exclusion, because of subsection (1), before:
 
                      (d)  the application is determined; or
 
@@ -1629,7 +1618,7 @@ whichever happens first.
 
 Note:          For **_assurance of support_** see subsection 23(1).
 
-### Division 3—Claim for austudy payment
+### Division 3—Claim for austudy payment
 
 ##### <a id="579"></a>579  Need for a claim
 
@@ -1637,11 +1626,11 @@ Proper claim
 
              (1)  A person who wants to be granted an austudy payment must make a proper claim for the austudy payment.
 
-Note:          For **_proper claim_** see section 579A (form), sections 579B and 579C (manner of lodgment) and section 579D (residence/presence in Australia).
+Note:          For **_proper claim_** see section 579A (form), sections 579B and 579C (manner of lodgment) and section 579D (residence/presence in Australia).
 
 Claim taken not to be made
 
-             (2)  For the purposes of subsection (1), if:
+             (2)  For the purposes of subsection (1), if:
 
                      (a)  a claim for an austudy payment is made by or on behalf of a person; and
 
@@ -1667,7 +1656,7 @@ the claim is taken not to have been made.
 
 Contacting Department prior to lodging claim
 
-             (1)  A person is taken to have lodged a claim in accordance with section 579B on the day on which the Department is contacted under paragraph (a) of this section if:
+             (1)  A person is taken to have lodged a claim in accordance with section 579B on the day on which the Department is contacted under paragraph (a) of this section if:
 
                      (a)  the Department is contacted by or on behalf of the person by telephone, or by the transmission of a message by use of facsimile or computer equipment, in relation to making a claim for:
 
@@ -1683,29 +1672,29 @@ Contacting Department prior to lodging claim
 
                      (c)  the Secretary gives the person a written notice acknowledging that the Department has been contacted in relation to making the claim; and
 
-                     (d)  the person lodges a claim for a pension or allowance referred to in paragraph (a) within the period allowed under this section; and
+                     (d)  the person lodges a claim for a pension or allowance referred to in paragraph (a) within the period allowed under this section; and
 
-                     (e)  if the claim referred to in paragraph (d) is not a claim for an austudy payment—the person subsequently lodges a claim for an austudy payment; and
+                     (e)  if the claim referred to in paragraph (d) is not a claim for an austudy payment—the person subsequently lodges a claim for an austudy payment; and
 
                       (f)  either:
 
-                              (i)  the person gives the Secretary the notice referred to in paragraph (c) when lodging the claim referred to in paragraph (d); or
+                              (i)  the person gives the Secretary the notice referred to in paragraph (c) when lodging the claim referred to in paragraph (d); or
 
-                             (ii)  the Department has a written record that the notice referred to in paragraph (c) has been sent to the person.
+                             (ii)  the Department has a written record that the notice referred to in paragraph (c) has been sent to the person.
 
 Period for lodging claim
 
-             (2)  Subject to subsection (3), for the purposes of paragraph (1)(d), the period is 14 days after the day on which the Department is contacted.
+             (2)  Subject to subsection (3), for the purposes of paragraph (1)(d), the period is 14 days after the day on which the Department is contacted.
 
 Extensions of period
 
              (3)  The Secretary may determine by written notice given to the person:
 
-                     (a)  within the 14 day period referred to in subsection (2); or
+                     (a)  within the 14 day period referred to in subsection (2); or
 
                      (b)  within the period of any extension under this subsection;
 
-that the period for the purposes of paragraph (1)(d) is extended for such further period as the Secretary considers reasonable.
+that the period for the purposes of paragraph (1)(d) is extended for such further period as the Secretary considers reasonable.
 
 Time Department taken to have been contacted
 
@@ -1783,7 +1772,7 @@ Note 1:       In some cases the request can be satisfied by giving t
 
 Note 2:       The Secretary may waive the requirement in some cases (see subsection 577B(4)).
 
-### Division 4—Determination of claim
+### Division 4—Determination of claim
 
 ##### <a id="580"></a>580  Secretary to determine claim
 
@@ -1821,7 +1810,7 @@ Person subject to waiting period etc.
 
 Date of effect
 
-             (1)  Subject to this section, a determination under section 580A takes effect on the day on which the determination is made or on any later day or earlier day that is stated in the determination.
+             (1)  Subject to this section, a determination under section 580A takes effect on the day on which the determination is made or on any later day or earlier day that is stated in the determination.
 
 Notified decision—review sought within 3 months
 
@@ -1831,7 +1820,7 @@ Notified decision—review sought within 3 months
 
                      (b)  a notice is given to the person telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
@@ -1845,7 +1834,7 @@ Notified decision—review sought after 3 months
 
                      (b)  a notice is given to the person telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, more than 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, more than 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
@@ -1859,29 +1848,29 @@ Decision not notified
 
                      (b)  no notice is given to the person telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
 the determination takes effect on the day on which the previous decision took effect.
 
-### Division 5—Rate of austudy payment
+### Division 5—Rate of austudy payment
 
 #### Subdivision A—Rate of austudy payment
 
 ##### <a id="581"></a>581  How to work out a person’s austudy payment rate
 
-Austudy Payment Rate Calculator in section 1067L
+Austudy Payment Rate Calculator in section 1067L
 
-             (1)  Subject to this section, the rate of a person’s austudy payment is to be worked out in accordance with the Austudy Payment Rate Calculator in section 1067L.
+             (1)  Subject to this section, the rate of a person’s austudy payment is to be worked out in accordance with the Austudy Payment Rate Calculator in section 1067L.
 
 Activity test breach rate reduction period only
 
-             (2)  Subject to subsection (4), if an activity test breach rate reduction period applies to the person, the person’s rate of austudy payment for that period is to be worked out in accordance with Subdivision B.
+             (2)  Subject to subsection (4), if an activity test breach rate reduction period applies to the person, the person’s rate of austudy payment for that period is to be worked out in accordance with Subdivision B.
 
 Administrative breach rate reduction period only
 
-             (3)  Subject to subsection (4), if an administrative breach rate reduction period applies to the person, the person’s rate of austudy payment for that period is to be worked out in accordance with Subdivision C.
+             (3)  Subject to subsection (4), if an administrative breach rate reduction period applies to the person, the person’s rate of austudy payment for that period is to be worked out in accordance with Subdivision C.
 
 Activity test breach rate reduction period and administrative breach rate reduction period
 
@@ -1893,17 +1882,17 @@ Activity test breach rate reduction period and administrative breach rate reduct
 
                    An activity test breach rate reduction period applies to a person if:
 
-                     (a)  a person commits an activity test breach referred to in section 576A (**_latest breach_**); and
+                     (a)  a person commits an activity test breach referred to in section 576A (**_latest breach_**); and
 
                      (b)  the latest breach is the first or second activity test breach in the 2 years immediately before the day after the latest breach.
 
-Note:          If the latest breach is the third or subsequent activity test breach in the 2 years before the latest breach, an activity test non-payment period applies to the person (see Subdivision E of Division 2).
+Note:          If the latest breach is the third or subsequent activity test breach in the 2 years before the latest breach, an activity test non-payment period applies to the person (see Subdivision E of Division 2).
 
 ##### <a id="582A"></a>582A  Length of activity test breach rate reduction period
 
 Basic rule
 
-             (1)  Subject to subsection (2), the length of an activity test breach rate reduction period is 26 weeks.
+             (1)  Subject to subsection (2), the length of an activity test breach rate reduction period is 26 weeks.
 
 Pre-existing rate reduction period
 
@@ -1915,11 +1904,11 @@ Notice of start of period
 
              (1)  If an activity test breach rate reduction period applies to a person under this Part, the Secretary must give to the person a written notice telling the person of the start of the period.
 
-          (1A)  A notice under subsection (1) must contain reasons why the activity test breach rate reduction period applies to the person.
+          (1A)  A notice under subsection (1) must contain reasons why the activity test breach rate reduction period applies to the person.
 
 General rule
 
-             (2)  Subject to subsection (3), the activity test breach rate reduction period starts on the day on which the notice is given to the person.
+             (2)  Subject to subsection (3), the activity test breach rate reduction period starts on the day on which the notice is given to the person.
 
 Austudy payment ceasing to be payable
 
@@ -1935,7 +1924,7 @@ Application of section
 
                      (b)  during the whole or a part of that period the whole or a part of a waiting period also applies to the person (**_overlap period_**).
 
-Note:          Other periods such as an administrative breach rate reduction period may also apply (see section 583D).
+Note:          Other periods such as an administrative breach rate reduction period may also apply (see section 583D).
 
 Overlap period
 
@@ -1955,19 +1944,19 @@ Activity test breach reduced rate
 
 _Method statement_
 
-_Step 1_.   Work out the person’s maximum basic rate of austudy payment using Module B of the Austudy Payment Rate Calculator in section 1067L: the result is the **_maximum payment rate_**.
+_Step 1._   Work out the person’s maximum basic rate of austudy payment using Module B of the Austudy Payment Rate Calculator in section 1067L: the result is the **_maximum payment rate_**.
 
-_Step 2_.   Work out the rate reduction amount as follows:
+_Step 2._   Work out the rate reduction amount as follows:
 
                (a)     if the activity test breach is the person’s first breach in the 2 year period:
 
-                        <sub>![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image004.gif)</sub>
+                        <sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image004.gif)</sub>
 
                (b)     if the activity test breach is the person’s second breach in the 2 year period:
 
-                        <sub>![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image005.gif)</sub>
+                        <sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image005.gif)</sub>
 
-_Step 3_.   Take the rate reduction amount away from the rate of austudy payment worked out in accordance with the Austudy Payment Rate Calculator in section 1067L: the result is the **_activity test breach reduced rate_**.
+_Step 3._   Take the rate reduction amount away from the rate of austudy payment worked out in accordance with the Austudy Payment Rate Calculator in section 1067L: the result is the **_activity test breach reduced rate_**.
 
                    Note:             An activity test breach reduced rate may be a nil rate.</div>
 
@@ -1983,11 +1972,11 @@ Meaning of 2 year period
 
 General rule
 
-             (1)  Subject to subsection (2), an administrative breach rate reduction period applies to a person if:
+             (1)  Subject to subsection (2), an administrative breach rate reduction period applies to a person if:
 
-                     (a)  the person is subject to an administrative exclusion because of the application of section 577C and an austudy payment later becomes payable to the person; or
+                     (a)  the person is subject to an administrative exclusion because of the application of section 577C and an austudy payment later becomes payable to the person; or
 
-                     (b)  the person refuses or fails, without reasonable excuse, to comply with a requirement made of the person under section 586A, 586B, 586C or 1304.
+                     (b)  the person refuses or fails, without reasonable excuse, to comply with a requirement made of the person under section 586A, 586B, 586C or 1304.
 
 Exception
 
@@ -2001,13 +1990,13 @@ Exception
 
                      (d)  payment of the austudy payment is cancelled or automatically terminated; and
 
-                     (e)  the person lodges a claim for an austudy payment more than 14 days after the date of effect of the cancellation or automatic termination referred to in paragraph (d).
+                     (e)  the person lodges a claim for an austudy payment more than 14 days after the date of effect of the cancellation or automatic termination referred to in paragraph (d).
 
 ##### <a id="583A"></a>583A  Length of administrative breach rate reduction period
 
 Basic rule
 
-             (1)  Subject to subsection (2), the length of an administrative breach rate reduction period is 13 weeks.
+             (1)  Subject to subsection (2), the length of an administrative breach rate reduction period is 13 weeks.
 
 Pre-existing administrative breach rate reduction period
 
@@ -2019,11 +2008,11 @@ Notice of start of period
 
              (1)  If an administrative breach rate reduction period applies to a person under this Part, the Secretary must give to the person a written notice telling the person of the start of the period.
 
-          (1A)  A notice under subsection (1) must contain reasons why the administrative breach rate reduction period applies to the person.
+          (1A)  A notice under subsection (1) must contain reasons why the administrative breach rate reduction period applies to the person.
 
 General rule
 
-             (2)  Subject to subsection (3), the administrative breach rate reduction period starts on the day on which the notice is given to the person.
+             (2)  Subject to subsection (3), the administrative breach rate reduction period starts on the day on which the notice is given to the person.
 
 Austudy payment ceasing to be payable
 
@@ -2045,7 +2034,7 @@ Application of section
 
                      (b)  during the whole or a part of that period, the whole or a part of an activity test non-payment period also applies to the person (**_overlap period_**).
 
-Note:          Other periods such as a waiting period may also apply (see section 583E).
+Note:          Other periods such as a waiting period may also apply (see section 583E).
 
 Overlap period
 
@@ -2053,7 +2042,7 @@ Overlap period
 
 Which restriction is to apply
 
-             (3)  Subject to section 576E, the non-payment penalty relating to the activity test non-payment period is to apply to the person during the overlap period.
+             (3)  Subject to section 576E, the non-payment penalty relating to the activity test non-payment period is to apply to the person during the overlap period.
 
 ##### <a id="583D"></a>583D  Interaction with activity test breach rate reduction periods
 
@@ -2065,19 +2054,19 @@ Application of section
 
                      (b)  during the whole or a part of that period, the whole or a part of an activity test breach rate reduction period also applies to the person (**_overlap period_**).
 
-Note:          Other periods such as a waiting period may also apply (see section 583E).
+Note:          Other periods such as a waiting period may also apply (see section 583E).
 
 Overlap period
 
-             (2)  Subject to subsection (3), the administrative breach rate reduction period and the whole or a part of the activity test breach rate reduction period are to run concurrently during the overlap period.
+             (2)  Subject to subsection (3), the administrative breach rate reduction period and the whole or a part of the activity test breach rate reduction period are to run concurrently during the overlap period.
 
 Which restriction is to apply
 
-             (3)  Subject to sections 576D, 582C and 582D, the only rate reduction amount that is to apply to the person during the overlap period is the higher of the following:
+             (3)  Subject to sections 576D, 582C and 582D, the only rate reduction amount that is to apply to the person during the overlap period is the higher of the following:
 
                      (a)  the rate reduction amount that relates to the activity test breach rate reduction period (see subsection 582D(1));
 
-                     (b)  the rate reduction amount that relates to the administrative breach rate reduction period (see section 583G).
+                     (b)  the rate reduction amount that relates to the administrative breach rate reduction period (see section 583G).
 
 ##### <a id="583E"></a>583E  Interaction with waiting periods
 
@@ -2089,7 +2078,7 @@ Application of section
 
                      (b)  during the whole or a part of that period the whole or a part of a waiting period also applies to the person (**_overlap period_**).
 
-Note:          Other periods such as an activity test breach rate reduction period may also apply (see section 583D).
+Note:          Other periods such as an activity test breach rate reduction period may also apply (see section 583D).
 
 Overlap period
 
@@ -2099,9 +2088,9 @@ Which restriction is to apply
 
              (3)  Despite any other provision of this Act, only the restriction on payment relating to the waiting period is to apply to the person during the overlap period.
 
-##### <a id="583F"></a>583F  Effect of sections 583C, 583D and 583E
+##### <a id="583F"></a>583F  Effect of sections 583C, 583D and 583E
 
-                   For the avoidance of doubt, sections 583C, 583D and 583E do not prevent an austudy payment ceasing to be payable in circumstances that do not involve the application of an administrative breach rate reduction period.
+                   For the avoidance of doubt, sections 583C, 583D and 583E do not prevent an austudy payment ceasing to be payable in circumstances that do not involve the application of an administrative breach rate reduction period.
 
 ##### <a id="583G"></a>583G  Rate of austudy payment where administrative breach rate reduction applies
 
@@ -2111,15 +2100,15 @@ Which restriction is to apply
 
 _Method statement_
 
-_Step 1_. Work out the person’s maximum basic rate of austudy payment using Module B of the Austudy Payment Rate Calculator in section 1067L: the result is the **_maximum payment rate_**.
+_Step 1._ Work out the person’s maximum basic rate of austudy payment using Module B of the Austudy Payment Rate Calculator in section 1067L: the result is the **_maximum payment rate_**.
 
-_Step 2_. Multiply the person’s maximum payment rate by 0.16: the result is the **_rate reduction amount_**.
+_Step 2._ Multiply the person’s maximum payment rate by 0.16: the result is the **_rate reduction amount_**.
 
-_Step 3_. Take the rate reduction amount away from the rate of austudy payment worked out in accordance with the Austudy Payment Rate Calculator in section 1067L: the result is the **_administrative breach reduced rate_**.
+_Step 3._ Take the rate reduction amount away from the rate of austudy payment worked out in accordance with the Austudy Payment Rate Calculator in section 1067L: the result is the **_administrative breach reduced rate_**.
 
                    Note:             An administrative breach reduced rate may be a nil rate.</div>
 
-### Division 6—Payment of austudy payment
+### Division 6—Payment of austudy payment
 
 ##### <a id="584"></a>584  Start of austudy payment
 
@@ -2129,9 +2118,9 @@ _Step 3_. Take the rate reduction amount away from the rate of austudy payment w
 
                      (b)  no provision of this Act makes the allowance not payable to the person.
 
-Note 1:       For qualification see Subdivision A of Division 1.
+Note 1:       For qualification see Subdivision A of Division 1.
 
-Note 2:       For circumstances in which an austudy payment is not payable see section 572.
+Note 2:       For circumstances in which an austudy payment is not payable see section 572.
 
 ##### <a id="584A"></a>584A  Instalments
 
@@ -2155,7 +2144,7 @@ Period less than a fortnight
 
 the instalment for the period is the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image006.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image006.gif)</sub>
 
 Period consisting of whole fortnights and period less than fortnight
 
@@ -2171,7 +2160,7 @@ Period consisting of whole fortnights and period less than fortnight
 
 the instalment, in so far as it relates to the period that is less than a fortnight, is the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image006.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image006.gif)</sub>
 
 ##### <a id="584C"></a>584C  Rounding off instalment
 
@@ -2191,9 +2180,9 @@ the amount of the instalment is to be increased to the person’s fortnightly PA
 
 Fortnightly PA rate
 
-             (3)  For the purposes of subsection (2), the person’s **_fortnightly PA rate_** is the rate worked out by using the formula:
+             (3)  For the purposes of subsection (2), the person’s **_fortnightly PA rate_** is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image007.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image007.gif)</sub>
 
 where:
 
@@ -2203,11 +2192,11 @@ where:
 
                      (b)  if the instalment is for a period of less than a fortnight—the number worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image008.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image008.gif)</sub>
 
                      (c)  if the instalment is for a period that consists of a number of whole fortnights and a period of less than a fortnight—the number worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image009.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image009.gif)</sub>
 
                     <a name="pharmaceut-allow-rate"></a>**_pharmaceutical allowance rate_** means the fortnightly amount of pharmaceutical allowance added to the person’s maximum basic rate in working out the amount of the instalment.
 
@@ -2217,17 +2206,17 @@ Amount increased to $1.00
 
 ##### <a id="584D"></a>584D  Austudy payment or advance to be paid to person or nominee
 
-             (1)  Subject to subsection (3), instalments of a person’s austudy payment are to be paid to that person.
+             (1)  Subject to subsection (3), instalments of a person’s austudy payment are to be paid to that person.
 
              (2)  The Secretary may direct that the whole or part of the instalments of a person’s austudy payment is to be paid to someone else on behalf of the person.
 
-             (3)  If the Secretary makes a direction under subsection (2), the instalments are to be paid in accordance with the direction.
+             (3)  If the Secretary makes a direction under subsection (2), the instalments are to be paid in accordance with the direction.
 
 ##### <a id="584E"></a>584E  Payment into bank account etc.
 
 Manner of payment
 
-             (1)  An amount that is to be paid to a person under section 584D is to be paid in the manner set out in this section.
+             (1)  An amount that is to be paid to a person under section 584D is to be paid in the manner set out in this section.
 
 Payment into account
 
@@ -2239,11 +2228,11 @@ Joint or common account
 
 Secretary may direct payment in different way
 
-             (4)  The Secretary may direct that the whole or a part of the amount be paid to the person in a different way from that provided for by subsection (2).
+             (4)  The Secretary may direct that the whole or a part of the amount be paid to the person in a different way from that provided for by subsection (2).
 
 Payment in accordance with direction
 
-             (5)  If the Secretary gives a direction under subsection (4), the amount is to be paid in accordance with the direction.
+             (5)  If the Secretary gives a direction under subsection (4), the amount is to be paid in accordance with the direction.
 
 ##### <a id="584F"></a>584F  If austudy payment payday would fall on public holiday etc.
 
@@ -2273,15 +2262,15 @@ the Secretary may pay the amount to the person who, in the Secretary’s opinion
 
 No further liability for Commonwealth
 
-             (2)  If the Secretary pays an amount of austudy payment under subsection (1), the Commonwealth has no further liability to any person in respect of that amount of austudy payment.
+             (2)  If the Secretary pays an amount of austudy payment under subsection (1), the Commonwealth has no further liability to any person in respect of that amount of austudy payment.
 
-### Division 7—Protection of austudy payment
+### Division 7—Protection of austudy payment
 
 ##### <a id="585"></a>585  Austudy payment to be absolutely inalienable
 
 Austudy payment absolutely inalienable
 
-             (1)  Subject to subsections (2) and (3) and section 1359, an austudy payment is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
+             (1)  Subject to subsections (2) and (3) and section 1359, an austudy payment is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
 
 Payments to Commissioner of Taxation at recipient’s request
 
@@ -2291,13 +2280,13 @@ Payments to Commissioner of Taxation at recipient’s request
 
                      (b)  to pay the amount to be deducted to the Commissioner of Taxation.
 
-Note:          The Secretary must make deductions from a person’s austudy payment if requested by the Commissioner of Taxation (see section 1359).
+Note:          The Secretary must make deductions from a person’s austudy payment if requested by the Commissioner of Taxation (see section 1359).
 
 Deductions from instalments with recipient’s consent
 
-             (3)  The Secretary may make deductions from the instalments of austudy payment payable to a person if the person consents under section 1234A to the Secretary making the deduction.
+             (3)  The Secretary may make deductions from the instalments of austudy payment payable to a person if the person consents under section 1234A to the Secretary making the deduction.
 
-Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving an austudy payment.
+Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving an austudy payment.
 
 ##### <a id="585A"></a>585A  Effect of garnishee or attachment order
 
@@ -2321,9 +2310,9 @@ Method of working out saved amount
 
 _Method statement_
 
-_Step 1_.   Work out the total amount of austudy payment payable to the person that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
+_Step 1._   Work out the total amount of austudy payment payable to the person that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
 
-_Step 2_.   Subtract from that amount the total amount withdrawn from the account during the same 4 week period: the result is the **_saved amount_**.</div>
+_Step 2._   Subtract from that amount the total amount withdrawn from the account during the same 4 week period: the result is the **_saved amount_**.</div>
 
 Single, joint or common account
 
@@ -2335,7 +2324,7 @@ Single, joint or common account
 
                      (c)  in common with another person.
 
-### Division 8—Obligations of recipients
+### Division 8—Obligations of recipients
 
 ##### <a id="586"></a>586  Secretary may request recipient to give statement of recipient’s tax file number
 
@@ -2395,11 +2384,11 @@ Secretary may give notice requiring information
 
 Event or change relevant to payment
 
-             (2)  An event or change of circumstances is not to be stated in a notice under subsection (1) unless the occurrence of the event or change of circumstances might affect the payment of the austudy payment.
+             (2)  An event or change of circumstances is not to be stated in a notice under subsection (1) unless the occurrence of the event or change of circumstances might affect the payment of the austudy payment.
 
 Formalities related to notice
 
-             (3)  Subject to subsection (4), a notice under subsection (1):
+             (3)  Subject to subsection (4), a notice under subsection (1):
 
                      (a)  must be in writing; and
 
@@ -2415,11 +2404,11 @@ Formalities related to notice
 
 Validity of notice
 
-             (4)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (3)(c) or (e).
+             (4)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (3)(c) or (e).
 
 Period within which information to be given
 
-             (5)  Subject to subsections (6) and (7), the period stated under paragraph (3)(d) must end at least 14 days after:
+             (5)  Subject to subsections (6) and (7), the period stated under paragraph (3)(d) must end at least 14 days after:
 
                      (a)  the day on which the event or change of circumstances occurs; or
 
@@ -2427,19 +2416,19 @@ Period within which information to be given
 
 Person leaving Australia
 
-             (6)  If a notice requires the person to tell the Department of any proposal by the person to leave Australia, subsection (5) does not apply to that requirement.
+             (6)  If a notice requires the person to tell the Department of any proposal by the person to leave Australia, subsection (5) does not apply to that requirement.
 
 Information as to compensation payment
 
-             (7)  If the notice requires information about receipt of a compensation payment, the period stated under paragraph (3)(d) in relation to the information must end at least 14 days after the day on which the person becomes aware that he or she has received or is to receive a compensation payment.
+             (7)  If the notice requires information about receipt of a compensation payment, the period stated under paragraph (3)(d) in relation to the information must end at least 14 days after the day on which the person becomes aware that he or she has received or is to receive a compensation payment.
 
 Refusal or failure to comply with notice
 
-             (8)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
+             (8)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
 
                     Penalty:  Imprisonment for 6 months.
 
-Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
 Application overseas
 
@@ -2457,7 +2446,7 @@ Secretary may give notice requiring statement on matter
 
 Formalities related to notice
 
-             (2)  Subject to subsection (3), a notice under subsection (1):
+             (2)  Subject to subsection (3), a notice under subsection (1):
 
                      (a)  must be in writing; and
 
@@ -2473,23 +2462,23 @@ Formalities related to notice
 
 Validity of notice
 
-             (3)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (2)(c) or (e).
+             (3)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (2)(c) or (e).
 
 Period within which statement to be provided
 
-             (4)  The period stated under paragraph (2)(d) must end at least 14 days after the day on which the notice is given.
+             (4)  The period stated under paragraph (2)(d) must end at least 14 days after the day on which the notice is given.
 
 Statement must be in approved form
 
-             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
+             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
 
 Refusal or failure to comply with notice
 
-             (6)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
+             (6)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
 
                     Penalty:  Imprisonment for 6 months.
 
-Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
 Application overseas
 
@@ -2499,7 +2488,7 @@ Application overseas
 
                      (b)  all people irrespective of their nationality or citizenship.
 
-### Division 9—Continuation, variation and termination
+### Division 9—Continuation, variation and termination
 
 #### Subdivision A—General
 
@@ -2515,23 +2504,23 @@ Entitlement determination
 
 continues in effect until:
 
-                     (c)  the austudy payment ceases to be payable under section 588, 588A, 588B, 588C or 588D; or
+                     (c)  the austudy payment ceases to be payable under section 588, 588A, 588B, 588C or 588D; or
 
-                     (d)  a further determination in relation to the austudy payment under section 590B or 590C has taken effect.
+                     (d)  a further determination in relation to the austudy payment under section 590B or 590C has taken effect.
 
-Note 1:       For paragraph (a) see section 580A.
+Note 1:       For paragraph (a) see section 580A.
 
-Note 2:       For paragraph (b) see section 590E—this paragraph is relevant if the determination in question reverses an earlier cancellation or suspension.
+Note 2:       For paragraph (b) see section 590E—this paragraph is relevant if the determination in question reverses an earlier cancellation or suspension.
 
-Note 3:       For paragraph (d) see also section 590D.
+Note 3:       For paragraph (d) see also section 590D.
 
 Rate determination
 
              (2)  A determination of the rate of an austudy payment continues in effect until:
 
-                     (a)  the austudy payment becomes payable at a lower rate under section 589, 589A or 589B; or
+                     (a)  the austudy payment becomes payable at a lower rate under section 589, 589A or 589B; or
 
-                     (b)  a further determination in relation to the austudy payment under section 590 or 590A has taken effect.
+                     (b)  a further determination in relation to the austudy payment under section 590 or 590A has taken effect.
 
 #### Subdivision B—Automatic termination
 
@@ -2551,11 +2540,11 @@ Rate determination
 
 the austudy payment ceases to be payable to the person immediately before the day on which the pension, benefit or other payment becomes payable to, or in respect of, the person.
 
-##### <a id="588A"></a>588A  Automatic termination—compliance with section 568B notification obligations
+##### <a id="588A"></a>588A  Automatic termination—compliance with section 568B notification obligations
 
                    If:
 
-                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
+                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
 
                      (b)  the notice requires the person to tell the Department of the occurrence of an event or change in circumstances within a stated period (**_notification period_**); and
 
@@ -2573,11 +2562,11 @@ the austudy payment ceases to be payable to the person immediately before the da
 
 the austudy payment continues to be payable to the person until the end of the notification period and then ceases to be payable to the person.
 
-##### <a id="588B"></a>588B  Automatic termination—non-compliance with section 586B notification obligations
+##### <a id="588B"></a>588B  Automatic termination—non-compliance with section 586B notification obligations
 
                    If:
 
-                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
+                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
 
                      (b)  the notice requires the person to tell the Department of the occurrence of an event or change in circumstances within a stated period (**_notification period_**); and
 
@@ -2593,27 +2582,27 @@ the austudy payment continues to be payable to the person until the end of the n
 
 the austudy payment ceases to be payable to the person immediately before the day on which the event or change in circumstances occurs.
 
-##### <a id="588C"></a>588C  Automatic termination—failure to provide section 586C statement
+##### <a id="588C"></a>588C  Automatic termination—failure to provide section 586C statement
 
 Austudy payment ceases to be payable
 
              (1)  If:
 
-                     (a)  a person who is receiving an austudy payment is given a notice under section 586C requiring the person to give the Department a statement; and
+                     (a)  a person who is receiving an austudy payment is given a notice under section 586C requiring the person to give the Department a statement; and
 
                      (b)  the notice relates to the payment of the austudy payment in respect of a period stated in the notice; and
 
                      (c)  the person does not comply with the notice;
 
-then, subject to subsection (2), the austudy payment ceases to be payable to the person as from the first day in that period.
+then, subject to subsection (2), the austudy payment ceases to be payable to the person as from the first day in that period.
 
 Secretary may determine that austudy payment continues
 
-             (2)  If the Secretary is satisfied that, in the special circumstances of the case, it is appropriate to do so, the Secretary may determine in writing that subsection (1) does not apply to the person from a day stated in the determination.
+             (2)  If the Secretary is satisfied that, in the special circumstances of the case, it is appropriate to do so, the Secretary may determine in writing that subsection (1) does not apply to the person from a day stated in the determination.
 
 Stated day
 
-             (3)  The day stated under subsection (2) may be before or after the making of the determination.
+             (3)  The day stated under subsection (2) may be before or after the making of the determination.
 
 ##### <a id="588D"></a>588D  Changes to payments by computer following automatic termination
 
@@ -2627,7 +2616,7 @@ Stated day
 
 there is taken to be a decision by the Secretary that the automatic termination provision applies to the person’s austudy payment.
 
-Note:          The decision that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
+Note:          The decision that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
 
 #### Subdivision C—Automatic rate reduction
 
@@ -2647,11 +2636,11 @@ Note:          The decision that is taken to have been made is
 
 the austudy payment becomes payable to the person at the reduced rate on the day on which the partner starts to receive that pension or benefit.
 
-##### <a id="589A"></a>589A  Automatic rate reduction—compliance with section 586B obligations
+##### <a id="589A"></a>589A  Automatic rate reduction—compliance with section 586B obligations
 
                    If:
 
-                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
+                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
 
                      (b)  the notice requires the person to tell the Department of the occurrence of an event or change in circumstances within a stated period (**_notification period_**); and 
 
@@ -2665,11 +2654,11 @@ the austudy payment becomes payable to the person at the reduced rate on the day
 
 the austudy payment becomes payable to the person at the reduced rate immediately after the end of the notification period.
 
-##### <a id="589B"></a>589B  Automatic rate reduction—non-compliance with section 586B notification obligations
+##### <a id="589B"></a>589B  Automatic rate reduction—non-compliance with section 586B notification obligations
 
                    If:
 
-                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
+                     (a)  a person who is receiving an austudy payment is given a notice under section 586B; and
 
                      (b)  the notice requires the person to tell the Department of the occurrence of an event or change in circumstances within a stated period (**_notification period_**); and
 
@@ -2693,7 +2682,7 @@ the austudy payment becomes payable to the person at the reduced rate immediatel
 
 there is taken to be a decision by the Secretary that the automatic rate reduction provision applies to the person’s austudy payment.
 
-Note:          The decision that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
+Note:          The decision that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
 
 #### Subdivision D—Determinations
 
@@ -2701,37 +2690,37 @@ Note:          The decision that is taken to have been made is
 
                    If the Secretary is satisfied that the rate at which an austudy payment is being, or has been, paid is less than the rate provided for by this Act, the Secretary is to determine that the rate is to be increased to the rate stated in the determination.
 
-Note:          For the date of effect of a determination under this section see section 591.
+Note:          For the date of effect of a determination under this section see section 591.
 
 ##### <a id="590A"></a>590A  Rate reduction determination
 
                    If the Secretary is satisfied that the rate at which an austudy payment is being, or has been, paid is more than the rate provided for by this Act, the Secretary is to determine that the rate is to be reduced to the rate stated in the determination.
 
-Note 1:       A determination under this section is not necessary if an automatic rate reduction is produced by section 589B (see subsection 587(2)).
+Note 1:       A determination under this section is not necessary if an automatic rate reduction is produced by section 589B (see subsection 587(2)).
 
-Note 2:       For the date of effect of a determination under this section see section 591A.
+Note 2:       For the date of effect of a determination under this section see section 591A.
 
 ##### <a id="590B"></a>590B  Cancellation or suspension determination
 
                    If the Secretary is satisfied that an austudy payment is being, or has been, paid to a person to whom it is not, or was not, payable under this Act, the Secretary is to determine that the austudy payment is to be cancelled or suspended.
 
-Note 1:       A determination under this section is not necessary if an automatic termination is produced by section 588, 588A, 588B, 588C or 588D (see subsection 587(1)).
+Note 1:       A determination under this section is not necessary if an automatic termination is produced by section 588, 588A, 588B, 588C or 588D (see subsection 587(1)).
 
-Note 2:       For the date of effect of a determination under this section see section 591A.
+Note 2:       For the date of effect of a determination under this section see section 591A.
 
-##### <a id="590C"></a>590C  Cancellation or suspension for failure to comply with section 586C, 1304 or 1305 notice
+##### <a id="590C"></a>590C  Cancellation or suspension for failure to comply with section 586C, 1304 or 1305 notice
 
                    If:
 
-                     (a)  a person who is receiving an austudy payment is given a notice under section 586C, 1304 or 1305; and
+                     (a)  a person who is receiving an austudy payment is given a notice under section 586C, 1304 or 1305; and
 
                      (b)  the person does not comply with the requirements set out in the notice;
 
 the Secretary may determine that the austudy payment is to be cancelled or suspended.
 
-Note 1:       This section will not apply if section 588B or 590B applies.
+Note 1:       This section will not apply if section 588B or 590B applies.
 
-Note 2:       For the date of effect of a determination under this section see section 591A.
+Note 2:       For the date of effect of a determination under this section see section 591A.
 
 ##### <a id="590D"></a>590D  Changes to payments by computer
 
@@ -2745,7 +2734,7 @@ Note 2:       For the date of effect of a determination under this s
 
 the change is taken to have been made because of a determination by the Secretary for that reason.
 
-Note:          The determination that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
+Note:          The determination that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
 
 ##### <a id="590E"></a>590E  Resumption of payment after cancellation or suspension
 
@@ -2753,7 +2742,7 @@ Secretary to determine austudy payment payable
 
              (1)  If the Secretary:
 
-                     (a)  cancels or suspends a person’s austudy payment under section 590B or 590C; and
+                     (a)  cancels or suspends a person’s austudy payment under section 590B or 590C; and
 
                      (b)  reconsiders the decision to cancel or suspend; and
 
@@ -2767,9 +2756,9 @@ the Secretary is to determine that an austudy payment was or is payable to the p
 
 Reconsideration on application or Secretary’s initiative
 
-             (2)  The reconsideration referred to in paragraph (1)(b) may be a reconsideration on an application under section 1240 for review or a reconsideration on the Secretary’s own initiative.
+             (2)  The reconsideration referred to in paragraph (1)(b) may be a reconsideration on an application under section 1240 for review or a reconsideration on the Secretary’s own initiative.
 
-Note:          For the date of effect of a determination under this section see section 591.
+Note:          For the date of effect of a determination under this section see section 591.
 
 #### Subdivision E—Date of effect of determination
 
@@ -2777,7 +2766,7 @@ Note:          For the date of effect of a determination under
 
 Method of working out date
 
-             (1)  The day on which a determination under section 590 or 590E (**_favourable determination_**) takes effect is worked out in accordance with this section.
+             (1)  The day on which a determination under section 590 or 590E (**_favourable determination_**) takes effect is worked out in accordance with this section.
 
 Notified decision—review sought within 3 months
 
@@ -2787,7 +2776,7 @@ Notified decision—review sought within 3 months
 
                      (b)  a notice is given to the person to whom the austudy payment is payable telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a favourable determination is made as a result of the application for review;
 
@@ -2801,7 +2790,7 @@ Notified decision—review sought after 3 months
 
                      (b)  a notice is given to the person to whom the austudy payment is payable telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 more than 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 more than 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a favourable determination is made as a result of the application for review;
 
@@ -2815,7 +2804,7 @@ Decision not notified
 
                      (b)  no notice is given to the person to whom the austudy payment is payable telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
 
                      (d)  a favourable determination is made as a result of the application for review;
 
@@ -2833,13 +2822,13 @@ Other determinations
 
 General
 
-             (1)  The day on which a determination under section 590A, 590B or 590C (**_adverse determination_**) takes effect is worked out in accordance with this section.
+             (1)  The day on which a determination under section 590A, 590B or 590C (**_adverse determination_**) takes effect is worked out in accordance with this section.
 
-Note:          If the adverse determination depends on a discretion or opinion and a person affected by the determination applies for review, the Secretary may continue payment pending the outcome of the review (see section 1241 (internal review) and section 1251 (review by Social Security Appeals Tribunal)).
+Note:          If the adverse determination depends on a discretion or opinion and a person affected by the determination applies for review, the Secretary may continue payment pending the outcome of the review (see section 1241 (internal review) and section 1251 (review by Social Security Appeals Tribunal)).
 
 Date determination takes effect
 
-             (2)  Subject to subsection (9), the adverse determination takes effect on:
+             (2)  Subject to subsection (9), the adverse determination takes effect on:
 
                      (a)  the day on which the determination is made; or
 
@@ -2847,17 +2836,17 @@ Date determination takes effect
 
 Later date than determination
 
-             (3)  Subject to subsections (4), (5), (6), (7) and (8), the day stated under paragraph (2)(b) must be later than the day on which the determination is made.
+             (3)  Subject to subsections (4), (5), (6), (7) and (8), the day stated under paragraph (2)(b) must be later than the day on which the determination is made.
 
 Contravention of Act by person whose austudy payment is affected
 
              (4)  If:
 
-                     (a)  the person whose austudy payment is affected by the adverse determination has contravened a provision of this Act (other than section 586C, 1304, 1305, 1306 or 1307); and
+                     (a)  the person whose austudy payment is affected by the adverse determination has contravened a provision of this Act (other than section 586C, 1304, 1305, 1306 or 1307); and
 
                      (b)  the contravention causes a delay in making the determination;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
 False statement or misrepresentation—suspension or cancellation
 
@@ -2867,7 +2856,7 @@ False statement or misrepresentation—suspension or cancellation
 
                      (b)  because of the false statement or misrepresentation, austudy payment has been paid to a person when it should have been cancelled or suspended;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
 False statement or misrepresentation—rate reduction
 
@@ -2877,7 +2866,7 @@ False statement or misrepresentation—rate reduction
 
                      (b)  because of the false statement or misrepresentation, the rate at which austudy payment was paid to a person was more than it should have been;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
 Payment of arrears of periodic compensation—suspension or cancellation
 
@@ -2887,7 +2876,7 @@ Payment of arrears of periodic compensation—suspension or cancellation
 
                      (b)  an austudy payment has been paid to the person or the person’s partner when, because of the payment of arrears of periodic compensation, austudy payment should have been cancelled or suspended;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
 Payment of arrears of periodic compensation payments—rate reduction
 
@@ -2897,13 +2886,13 @@ Payment of arrears of periodic compensation payments—rate reduction
 
                      (b)  the rate at which austudy payment was paid to the person or the person’s partner was, because of the payment of arrears of periodic compensation, more than the rate at which austudy payment should have been paid;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
-Section 586C statements
+Section 586C statements
 
-             (9)  If the adverse determination is made following a person having given the Department a statement about a matter in accordance with section 586C, the determination takes effect on the day on which the matter arose.
+             (9)  If the adverse determination is made following a person having given the Department a statement about a matter in accordance with section 586C, the determination takes effect on the day on which the matter arose.
 
-### Division 10—Bereavement payments on death of partner
+### Division 10—Bereavement payments on death of partner
 
 ##### <a id="592"></a>592  Qualification for payments under this Division
 
@@ -2929,17 +2918,17 @@ Qualification for payment
 
                       (f)  on the person’s payday immediately before the first available bereavement adjustment payday, the amount that would be payable to the person if the person were not qualified for payments under this Division is less than the sum of:
 
-                              (i)  the amount that would otherwise be payable to the person under section 592C (person’s continued rate) on that payday; and
+                              (i)  the amount that would otherwise be payable to the person under section 592C (person’s continued rate) on that payday; and
 
-                             (ii)  the amount (if any) that would otherwise be payable to the person under section 592A (continued payment of partner’s pension or benefit) on the partner’s payday immediately before the first available bereavement adjustment payday;
+                             (ii)  the amount (if any) that would otherwise be payable to the person under section 592A (continued payment of partner’s pension or benefit) on the partner’s payday immediately before the first available bereavement adjustment payday;
 
 the person is qualified for payments under this Division to cover the bereavement period.
 
-Note 1:       Section 592A provides for the payment to the person, up to the first available bereavement adjustment payday, of amounts equal to the instalments that would have been paid to the person’s partner during that period if the partner had not died.
+Note 1:       Section 592A provides for the payment to the person, up to the first available bereavement adjustment payday, of amounts equal to the instalments that would have been paid to the person’s partner during that period if the partner had not died.
 
-Note 2:       Section 592B provides for a lump sum that represents the instalments that would have been paid to the person’s partner, between the first available bereavement adjustment payday and the end of the bereavement period, if the partner had not died.
+Note 2:       Section 592B provides for a lump sum that represents the instalments that would have been paid to the person’s partner, between the first available bereavement adjustment payday and the end of the bereavement period, if the partner had not died.
 
-Note 3:       For **_first available_** **_bereavement adjustment payday_** and **_bereavement period_** see section 21.
+Note 3:       For **_first available_** **_bereavement adjustment payday_** and **_bereavement period_** see section 21.
 
 Choice not to receive payments
 
@@ -2947,7 +2936,7 @@ Choice not to receive payments
 
 Form of choice
 
-             (3)  A choice under subsection (2):
+             (3)  A choice under subsection (2):
 
                      (a)  must be made by written notice to the Secretary; and
 
@@ -2957,13 +2946,13 @@ Form of choice
 
 Rate during bereavement period
 
-             (4)  If a person is qualified for payments under this Division in relation to the partner’s death, the rate at which austudy payment is payable to the person during the bereavement period is, unless the person has made a choice under subsection (2), governed by section 592C.
+             (4)  If a person is qualified for payments under this Division in relation to the partner’s death, the rate at which austudy payment is payable to the person during the bereavement period is, unless the person has made a choice under subsection (2), governed by section 592C.
 
 ##### <a id="592A"></a>592A  Continued payment of partner’s pension or benefit
 
                    If a person is qualified for payments under this Division in relation to the death of the person’s partner, there is payable to the person, on each of the partner’s paydays in the bereavement rate continuation period, an amount equal to the amount that would have been payable to the partner on that payday if the partner had not died.
 
-Note:          For **_bereavement rate continuation period_** see section 21.
+Note:          For **_bereavement rate continuation period_** see section 21.
 
 ##### <a id="592B"></a>592B  Lump sum payable in some circumstances
 
@@ -2981,7 +2970,7 @@ there is payable to the person as a lump sum an amount worked out using the lump
 
 _Method statement_
 
-_Step 1_.   Add up:
+_Step 1._   Add up:
 
                (a)     the amount that, if the person’s partner had not died, would have been payable to the person on the person’s payday immediately before the first available bereavement adjustment payday; and
 
@@ -2989,13 +2978,13 @@ _Step 1_.   Add up:
 
               the result is the **_combined rate_**.
 
-_Step 2_.   Work out the amount that, apart from section 592C, would have been payable to the person on the person’s payday immediately before the first available bereavement adjustment payday: the result is the **_person’s individual rate_**.
+_Step 2._   Work out the amount that, apart from section 592C, would have been payable to the person on the person’s payday immediately before the first available bereavement adjustment payday: the result is the **_person’s individual rate_**.
 
-_Step 3_. Take the person’s individual rate away from the combined rate: the result is the **_partner’s instalment component_**.
+_Step 3._ Take the person’s individual rate away from the combined rate: the result is the **_partner’s instalment component_**.
 
-_Step 4_. Work out the number of the partner’s paydays in the **_bereavement lump sum period_**.
+_Step 4._ Work out the number of the partner’s paydays in the **_bereavement lump sum period_**.
 
-_Step 5_. Multiply the partner’s instalment component by the number obtained in Step 4: the result is the amount of the lump sum payable to the person under this section.</div>
+_Step 5._ Multiply the partner’s instalment component by the number obtained in Step 4: the result is the amount of the lump sum payable to the person under this section.</div>
 
 ##### <a id="592C"></a>592C  Adjustment of person’s austudy payment rate
 
@@ -3029,7 +3018,7 @@ there is payable, to any person that the Secretary thinks appropriate, as a lump
 
 _Method statement_
 
-_Step 1_. Add up:
+_Step 1._ Add up:
 
                (a)     the amount that, if neither the person nor the person’s partner had died, would have been payable to the person on the person’s payday immediately after the day on which the person dies; and
 
@@ -3037,13 +3026,13 @@ _Step 1_. Add up:
 
               the result is the **_combined rate_**.
 
-_Step 2_.   Work out the amount that, apart from section 592C, would have been payable to the person on the person’s payday immediately after the day on which the person died if the person had not died: the result is the **_person’s individual rate_**.
+_Step 2._   Work out the amount that, apart from section 592C, would have been payable to the person on the person’s payday immediately after the day on which the person died if the person had not died: the result is the **_person’s individual rate_**.
 
-_Step 3_. Take the person’s individual rate away from the combined rate: the result is the **_partner’s instalment component_**.
+_Step 3._ Take the person’s individual rate away from the combined rate: the result is the **_partner’s instalment component_**.
 
-_Step 4_. Work out the number of paydays of the partner in the period that begins on the day after the person dies and ends on the day on which the bereavement period ends.
+_Step 4._ Work out the number of paydays of the partner in the period that begins on the day after the person dies and ends on the day on which the bereavement period ends.
 
-_Step 5_. Multiply the partner’s instalment component by the number obtained in Step 4: the result is the amount of the lump sum payable under this section.</div>
+_Step 5._ Multiply the partner’s instalment component by the number obtained in Step 4: the result is the amount of the lump sum payable under this section.</div>
 
 ##### <a id="592E"></a>592E  Matters affecting payments under this Division
 
@@ -3053,15 +3042,15 @@ Recovery/reduction of amount payable
 
                      (a)  a person is qualified for payments under this Division in relation to the death of the person’s partner; and
 
-                     (b)  after the person’s partner died, an amount to which the partner would have been entitled if the partner had not died has been paid under this Act or under Part III of the Veterans’ Entitlements Act; and
+                     (b)  after the person’s partner died, an amount to which the partner would have been entitled if the partner had not died has been paid under this Act or under Part III of the Veterans’ Entitlements Act; and
 
                      (c)  the Secretary is not satisfied that the person has not had the benefit of that amount;
 
 the following provisions have effect:
 
-                     (d)  the amount referred to in paragraph (b) is not recoverable from the person or from the personal representative of the person’s partner, except to the extent (if any) that the amount is more than the amount payable to the person under this Division;
+                     (d)  the amount referred to in paragraph (b) is not recoverable from the person or from the personal representative of the person’s partner, except to the extent (if any) that the amount is more than the amount payable to the person under this Division;
 
-                     (e)  the amount payable to the person under this Division is to be reduced by the amount referred to in paragraph (b).
+                     (e)  the amount payable to the person under this Division is to be reduced by the amount referred to in paragraph (b).
 
 Financial institution not liable
 
@@ -3069,31 +3058,31 @@ Financial institution not liable
 
                      (a)  a person is qualified for payments under this Division in relation to the death of the person’s partner; and
 
-                     (b)  the amount to which the person’s partner would have been entitled if the person’s partner had not died has been paid under this Act or under Part III of the Veterans’ Entitlements Act, within the bereavement period, into an account with a bank, credit union or building society (financial institution); and
+                     (b)  the amount to which the person’s partner would have been entitled if the person’s partner had not died has been paid under this Act or under Part III of the Veterans’ Entitlements Act, within the bereavement period, into an account with a bank, credit union or building society (financial institution); and
 
-                     (c)  the financial institution pays to the person, out of the account, an amount not more than the total of the amounts paid as mentioned in paragraph (b);
+                     (c)  the financial institution pays to the person, out of the account, an amount not more than the total of the amounts paid as mentioned in paragraph (b);
 
 the financial institution is, despite anything in any other law, not liable to any action, claim or demand by the Commonwealth, the personal representative of the person’s partner or anyone else in respect of the payment of that money to the person.
 
-## 7  After Part 3.5
+## 7  After Part 3.5
 
 Insert:
 
-## Part 3.5A—Austudy Payment Rate Calculator
+## Part 3.5A—Austudy Payment Rate Calculator
 
 ##### <a id="1067H"></a>1067H  Definitions
 
                    In this Part:
 
-                    <a name="live-home"></a>**_living at home_** has the meaning given by section 1067J.
+                    <a name="live-home"></a>**_living at home_** has the meaning given by section 1067J.
 
-                    <a name="long-term-incom-support-student"></a>**_long term income support student_** has the meaning given by section 1067K.
+                    <a name="long-term-incom-support-student"></a>**_long term income support student_** has the meaning given by section 1067K.
 
 ##### <a id="1067J"></a>1067J  Person living at home
 
                    A person **_lives at home_** if the person lives at the home of either or both of his or her parents.
 
-Note:          For parent see section 5 (paragraph (a) of the definition of **_parent_**).
+Note:          For parent see section 5 (paragraph (a) of the definition of **_parent_**).
 
 ##### <a id="1067K"></a>1067K  Long term income support student
 
@@ -3133,7 +3122,7 @@ Note:          For parent see section 5 (paragraph (a) of 
 
 Note 1:       For **_dependent child_** see subsections 5(2) to (9).
 
-Note 2:       For **_full-time student_** and **_concessional study-load student_** see sections 569C and 569D.
+Note 2:       For **_full-time student_** and **_concessional study-load student_** see sections 569C and 569D.
 
              (2)  A person is also a **_long term income support student_** if the person:
 
@@ -3175,23 +3164,23 @@ Method of calculating rate
 
 _Method statement_
 
-_Step 1_. Work out the person’s maximum basic rate using Module B below.
+_Step 1._ Work out the person’s maximum basic rate using Module B below.
 
-_Step 2_. Work out the amount a fortnight (if any) of pharmaceutical allowance using Module C below.
+_Step 2._ Work out the amount a fortnight (if any) of pharmaceutical allowance using Module C below.
 
-_Step 3_. Add up the amounts obtained in Steps 1 to 2: the result is the **_maximum payment rate_**.
+_Step 3._ Add up the amounts obtained in Steps 1 to 2: the result is the **_maximum payment rate_**.
 
-_Step 4_. Apply the income test using Module D below to work out the person’s income reduction.
+_Step 4._ Apply the income test using Module D below to work out the person’s income reduction.
 
-_Step 5_. Take away the person’s income reduction from the maximum payment rate: the result is the **_provisional payment rate_**.
+_Step 5._ Take away the person’s income reduction from the maximum payment rate: the result is the **_provisional payment rate_**.
 
-                   Note:             If a person’s rate is reduced under this step, the order in which the reduction is to be made is laid down by section 1207 (maximum basic rate first, then pharmaceutical allowance).
+                   Note:             If a person’s rate is reduced under this step, the order in which the reduction is to be made is laid down by section 1207 (maximum basic rate first, then pharmaceutical allowance).
 
-_Step 6_.   The rate of payment is the difference between:
+_Step 6._   The rate of payment is the difference between:
 
                (a)     the provisional payment rate; and
 
-               (b)     any advance payment deduction (see Part 3.16A);
+               (b)     any advance payment deduction (see Part 3.16A);
 
               plus any applicable amount of remote area allowance (see Module F below).</div>
 
@@ -3201,15 +3190,15 @@ Maximum basic rate
 
   1067L-B1  A person’s maximum basic rate is to be worked out as follows:
 
-                     (a)  if the person is not a long term income support student (see section 1067K)—use Table BA;
+                     (a)  if the person is not a long term income support student (see section 1067K)—use Table BA;
 
                      (b)  if the person is a long term income support student—use point 1067L-B3.
 
 Person who is not a long term income support student
 
-  1067L-B2  If the person is not a long term income support student (see section 1067K), work out whether the person:
+  1067L-B2  If the person is not a long term income support student (see section 1067K), work out whether the person:
 
-                     (a)  is a member of a couple (see section 4); and 
+                     (a)  is a member of a couple (see section 4); and 
 
                      (b)  has a dependent child (see subsections 5(2) to (9)).
 
@@ -3225,30 +3214,21 @@ The person’s maximum basic rate is the amount in column 3 of the table that co
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Table BA—Maximum basic rates (persons who are not long term income support
-          students)</b>
-      </div>
+      <div><b>Table BA—Maximum basic rates (persons who are not long term income support students)</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>Item</div>
+      <div><b>Column 1</b></div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>Person’s situation</div>
+      <div><b>Column 2</b></div>
+      <div><b>Person’s situation</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-      <div>Rate</div>
+      <div><b>Column 3</b></div>
+      <div><b>Rate</b></div>
     </td>
   </tr>
 </thead>
@@ -3288,13 +3268,13 @@ The person’s maximum basic rate is the amount in column 3 of the table that co
   </tr>
 </tbody></table>
 
-Note:          The rates in column 3 are indexed annually in line with CPI increases (see sections 1191 to 1194).
+Note:          The rates in column 3 are indexed annually in line with CPI increases (see sections 1191 to 1194).
 
                    _Long term income support student_
 
-  1067L-B3  If the person is a long term income support student (see section 1067K), the person’s maximum basic rate is $322.40.
+  1067L-B3  If the person is a long term income support student (see section 1067K), the person’s maximum basic rate is $322.40.
 
-Note:          The rate provided for in this point is indexed annually in line with CPI increases (see sections 1191 to 1194).
+Note:          The rate provided for in this point is indexed annually in line with CPI increases (see sections 1191 to 1194).
 
 #### Module C—Pharmaceutical allowance
 
@@ -3310,7 +3290,7 @@ Qualification for pharmaceutical allowance
 
 Note 1:       For **_income support payment_** see subsection 23(1).
 
-Note 2:       For the determination of the continuous period in respect of which a person received income support payments see section 38B.
+Note 2:       For the determination of the continuous period in respect of which a person received income support payments see section 38B.
 
 No pharmaceutical allowance if partner receiving pharmaceutical allowance under the Veterans’ Entitlements Act and not a service pensioner
 
@@ -3322,7 +3302,7 @@ No pharmaceutical allowance if partner receiving pharmaceutical allowance under 
 
                      (c)  the person’s partner is not receiving a service pension.
 
-Note:          If paragraphs (a), (b) and (c) apply to the person’s partner, the partner is receiving pharmaceutical allowance under the Veterans’ Entitlements Act at the higher rate (rather than the person and the person’s partner each receiving pharmaceutical allowance at the lower rate).
+Note:          If paragraphs (a), (b) and (c) apply to the person’s partner, the partner is receiving pharmaceutical allowance under the Veterans’ Entitlements Act at the higher rate (rather than the person and the person’s partner each receiving pharmaceutical allowance at the lower rate).
 
 Amount of pharmaceutical allowance
 
@@ -3338,29 +3318,21 @@ Amount of pharmaceutical allowance
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Table C—Pharmaceutical allowance amounts</b>
-      </div>
+      <div><b>Table C—Pharmaceutical allowance amounts</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>Item</div>
+      <div><b>Column 1</b></div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>Person’s family situation</div>
+      <div><b>Column 2</b></div>
+      <div><b>Person’s family situation</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-      <div>Amount per fortnight</div>
+      <div><b>Column 3</b></div>
+      <div><b>Amount per fortnight</b></div>
     </td>
   </tr>
 </thead>
@@ -3433,9 +3405,9 @@ Amount of pharmaceutical allowance
   </tr>
 </tbody></table>
 
-Note 1:       For **_member of a couple_**, **_partnered_**, **_illness separated couple_**, **_respite care couple_** and **_partnered (partner in gaol)_** see section 4.
+Note 1:       For **_member of a couple_**, **_partnered_**, **_illness separated couple_**, **_respite care couple_** and **_partnered (partner in gaol)_** see section 4.
 
-Note 2:       The amounts in column 3 are indexed or adjusted annually in line with CPI increases on 1 January (see sections 1191 to 1194 and 1206A).
+Note 2:       The amounts in column 3 are indexed or adjusted annually in line with CPI increases on 1 January (see sections 1191 to 1194 and 1206A).
 
 #### Module D—Income test
 
@@ -3453,37 +3425,37 @@ on the person’s maximum payment rate:
 
 _Method statement_
 
-_Step 1_. Work out the amount of the person’s ordinary income on a fortnightly basis (where appropriate, taking into account the matters provided for in points 1067L-D2 to 1067L-D24).
+_Step 1._ Work out the amount of the person’s ordinary income on a fortnightly basis (where appropriate, taking into account the matters provided for in points 1067L-D2 to 1067L-D24).
 
                    Note:             The person’s ordinary income may be reduced under Module E below (student income bank).
 
-_Step 2_. If the person is a member of a couple, work out the partner income free area using point 1067L-D25.
+_Step 2._ If the person is a member of a couple, work out the partner income free area using point 1067L-D25.
 
                    Note:             The partner income free area is the maximum amount of ordinary income the person’s partner can have without affecting the person’s benefit.
 
-_Step 3_. Use point 1067L-D26 to work out the person’s partner income excess. (If there is no partner income excess under that point, the person’s partner income excess is taken to be nil.)
+_Step 3._ Use point 1067L-D26 to work out the person’s partner income excess. (If there is no partner income excess under that point, the person’s partner income excess is taken to be nil.)
 
-_Step 4_. Use the person’s partner income excess to work out the person’s partner income reduction using point 1067L-D27.
+_Step 4._ Use the person’s partner income excess to work out the person’s partner income reduction using point 1067L-D27.
 
-_Step 5_.   Use point 1067L-D29 to work out the person’s ordinary income excess. (If there is no ordinary income excess under that point, the person’s ordinary income excess is taken to be nil.)
+_Step 5._   Use point 1067L-D29 to work out the person’s ordinary income excess. (If there is no ordinary income excess under that point, the person’s ordinary income excess is taken to be nil.)
 
-_Step 6_. Use the person’s ordinary income excess to work out the person’s ordinary income reduction using points 1067L-D30, 1067L-D31 and 1067L-D32.
+_Step 6._ Use the person’s ordinary income excess to work out the person’s ordinary income reduction using points 1067L-D30, 1067L-D31 and 1067L-D32.
 
-_Step 7_. Add the person’s partner income reduction and ordinary income reduction: the result is the **_person’s income reduction_** referred to in Step 4 of the Method statement in point 1067L-A1.</div>
+_Step 7._ Add the person’s partner income reduction and ordinary income reduction: the result is the **_person’s income reduction_** referred to in Step 4 of the Method statement in point 1067L-A1.</div>
 
 Note 1:       For **_ordinary income_** see subsection 8(1).
 
 Note 2:       The application of the income test is affected by provisions concerning the following:
 
-(a)           the general concept of ordinary income (sections 1072 and 1073);
+(a)           the general concept of ordinary income (sections 1072 and 1073);
 
-(b)           business income (sections 1074 and 1075);
+(b)           business income (sections 1074 and 1075);
 
-(c)           deemed income from financial assets (sections 1076 to 1084A);
+(c)           deemed income from financial assets (sections 1076 to 1084A);
 
-(d)           income from income streams (sections 1096 to 1099D);
+(d)           income from income streams (sections 1096 to 1099D);
 
-(e)           disposal of income (sections 1106 to 1112).
+(e)           disposal of income (sections 1106 to 1112).
 
 Ordinary income of members of certain couples
 
@@ -3615,7 +3587,7 @@ Definitions
 
                     <a name="payment-fortnight"></a>**_payment fortnight_** means a fortnight in respect of which an austudy payment is paid, or would be paid apart from the application of an income maintenance period, to a person.
 
-                    <a name="roll"></a><a name=""></a><a name="roll"></a>**_roll_**-**_over_**, in relation to a lump sum leave payment, has the meaning that **_roll-over_** has in section 27D of the _Income Tax Assessment Act 1936_ in relation to an eligible termination payment.
+                    <a name="roll"></a><a name=""></a><a name="roll"></a>**_roll_**-**_over_**, in relation to a lump sum leave payment, has the meaning that **_roll-over_** has in section 27D of the _Income Tax Assessment Act 1936_ in relation to an eligible termination payment.
 
 Meaning of leave payment
 
@@ -3633,7 +3605,7 @@ Board and lodging
 
 Ordinary income generally taken into account when first earned, derived or received
 
-1067L-D19  Subject to points 1067L-D20, 1067L-D21, 1067L-D23 and 1067L-D24 and section 1073, ordinary income is to be taken into account in the fortnight in which it is first earned, derived or received.
+1067L-D19  Subject to points 1067L-D20, 1067L-D21, 1067L-D23 and 1067L-D24 and section 1073, ordinary income is to be taken into account in the fortnight in which it is first earned, derived or received.
 
 Claimant or recipient receives lump sum amount for remunerative work
 
@@ -3699,13 +3671,13 @@ the person is taken to receive, in a fortnight falling within, or overlapping wi
 
                      (d)  multiplying the daily rate by the number of days in the fortnight that are also within the periodic payments period.
 
-Note:          For **_periodic payments period_** see section 17.
+Note:          For **_periodic payments period_** see section 17.
 
 Partner income free area
 
 1067L-D25  The partner income free area for a person is:
 
-                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
+                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
 
                      (b)  if the person’s partner is not receiving a social security benefit and has turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which newstart allowance would not be payable to the partner if the partner were qualified for a newstart allowance; or
 
@@ -3737,11 +3709,11 @@ Facts:         Alice’s partner Martin has an ordinary income o
 
 Result:       Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067L-D26 of:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image010.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image010.gif)</sub>
 
                    Alice’s partner income reduction under point 1067L-D27 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image011.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image011.gif)</sub>
 
 Ordinary income free area
 
@@ -3779,13 +3751,13 @@ Result:       Alice’s ordinary income free area under point 1067L-
 
                    Her ordinary income exceeds her ordinary income free area. She therefore has an ordinary income excess under point 1067L-D29 of:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image012.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image012.gif)</sub>
 
                    Because her ordinary income excess does not exceed $80:
 
 (a)           her lower range reduction under point 1067L-D31 is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image013.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image013.gif)</sub>
 
 (b)           there is no upper range reduction under point 1067L-D32.
 
@@ -3793,7 +3765,7 @@ Result:       Alice’s ordinary income free area under point 1067L-
 
                    Alice’s income reduction referred to in Step 4 of point 1067L-A1 is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image014.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image014.gif)</sub>
 
 #### Module E—Student income bank
 
@@ -3805,7 +3777,7 @@ Student income bank
 
                      (b)  if it is to be reduced, the amount of the reduction.
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image015.gif)
 
 Income bank credit
 
@@ -3815,11 +3787,11 @@ Income bank credit
 
 _Method statement_
 
-_Step 1_.   Assume that the person’s income bank credit, at the time this Module starts applying to the person, is an opening balance of zero.
+_Step 1._   Assume that the person’s income bank credit, at the time this Module starts applying to the person, is an opening balance of zero.
 
-_Step 2_.   If, for the person’s first income bank fortnight, the person has an income credit under point 1067L-E3, add it to the opening balance.
+_Step 2._   If, for the person’s first income bank fortnight, the person has an income credit under point 1067L-E3, add it to the opening balance.
 
-_Step 3_.   For each subsequent income bank fortnight of the person, up to but not including the fortnight in question, either:
+_Step 3._   For each subsequent income bank fortnight of the person, up to but not including the fortnight in question, either:
 
                (a)     if the person has an income credit for that fortnight under point 1067L-E3—add it to the balance of the person’s income bank credit in respect of all the previous fortnights, but not so as to increase the balance beyond $6,000; or
 
@@ -3878,35 +3850,25 @@ Rate of remote area allowance
 <thead>
   <tr>
     <td colspan="4">
-      <div>
-        <b>Table F—Remote area allowance</b>
-      </div>
+      <div><b>Table F—Remote area allowance</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>Item</div>
+      <div><b>Column 1</b></div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>Person’s family situation</div>
+      <div><b>Column 2</b></div>
+      <div><b>Person’s family situation</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-      <div>Basic allowance</div>
+      <div><b>Column 3</b></div>
+      <div><b>Basic allowance</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 4</b>
-      </div>
-      <div>Additional allowance for each child</div>
+      <div><b>Column 4</b></div>
+      <div><b>Additional allowance for each child</b></div>
     </td>
   </tr>
 </thead>
@@ -3969,7 +3931,7 @@ Rate of remote area allowance
   </tr>
 </tbody></table>
 
-Note:          For **_member of a couple_**,**_partnered_**, **_illness separated couple_** and **_partnered (partner in gaol)_** see section 4.
+Note:          For **_member of a couple_**,**_partnered_**, **_illness separated couple_** and **_partnered (partner in gaol)_** see section 4.
 
 Meaning of remote area allowance
 
@@ -4022,9 +3984,9 @@ Note 2:       For **_minimum family allowance rate_** see subsection
 
  
 
-###### Schedule 2—Amendment of the Social Security Act 1991 relating to youth allowance
+###### Schedule 2—Amendment of the Social Security Act 1991 relating to youth allowance
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Insert the following entry in its appropriate alphabetical position, determined on a letter-by-letter basis:
 
@@ -4051,21 +4013,21 @@ Repeal the subsection, substitute:
 
           (6A)  A person who:
 
-                     (a)  has claimed youth allowance and is not independent within the meaning of Part 3.5; or
+                     (a)  has claimed youth allowance and is not independent within the meaning of Part 3.5; or
 
-                     (b)  is receiving a youth allowance and is not independent within the meaning of Part 3.5; or
+                     (b)  is receiving a youth allowance and is not independent within the meaning of Part 3.5; or
 
-                     (c)  is a member of a couple of which a person referred to in paragraph (b) is the other member;
+                     (c)  is a member of a couple of which a person referred to in paragraph (b) is the other member;
 
 is not a **_member of a couple_** for the purposes of:
 
                      (d)  the provisions of this Act referred to in the table at the end of this subsection; and
 
-                     (e)  any provision of this Act that applies for the purposes of a provision mentioned in paragraph (d); and
+                     (e)  any provision of this Act that applies for the purposes of a provision mentioned in paragraph (d); and
 
-                      (f)  any provision of this Act that applies for the purposes of Module E (Ordinary income test) of the Pension PP (Single) Rate Calculator in section 1068A or section 500Q (Parenting payment assets test for person not member of a couple).
+                      (f)  any provision of this Act that applies for the purposes of Module E (Ordinary income test) of the Pension PP (Single) Rate Calculator in section 1068A or section 500Q (Parenting payment assets test for person not member of a couple).
 
-Note:          Paragraphs (e) and (f) have the effect of treating a person as not being a member of a couple in provisions that apply for the purposes of the income test, assets test, liquid assets test or compensation recovery provisions, including section 8 (Income test definitions), section 11 (Assets test definitions), section 14A (Social security benefit liquid assets test provisions), section 17 (Compensation recovery definitions), section 19B (Financial hardship provisions liquid assets test definition), Part 3.10 (General provisions relating to the ordinary income test) and Part 3.12 (General provisions relating to the assets test).
+Note:          Paragraphs (e) and (f) have the effect of treating a person as not being a member of a couple in provisions that apply for the purposes of the income test, assets test, liquid assets test or compensation recovery provisions, including section 8 (Income test definitions), section 11 (Assets test definitions), section 14A (Social security benefit liquid assets test provisions), section 17 (Compensation recovery definitions), section 19B (Financial hardship provisions liquid assets test definition), Part 3.10 (General provisions relating to the ordinary income test) and Part 3.12 (General provisions relating to the assets test).
 
 <table>
 <colgroup>
@@ -4077,26 +4039,18 @@ Note:          Paragraphs (e) and (f) have the effect of tre
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Affected provisions</b>
-      </div>
+      <div><b>Affected provisions</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Provisions of this Act</b>
-      </div>
+      <div><b>Provisions of this Act</b></div>
     </td>
     <td>
-      <div>
-        <b>Subject matter</b>
-      </div>
+      <div><b>Subject matter</b></div>
     </td>
   </tr>
 </thead>
@@ -4106,7 +4060,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>1</div>
     </td>
     <td>
-      <div>Subdivision AB of Division 2 of Part 2.11</div>
+      <div>Subdivision AB of Division 2 of Part 2.11</div>
     </td>
     <td>
       <div>Youth allowance assets test</div>
@@ -4117,7 +4071,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>2</div>
     </td>
     <td>
-      <div>sections 549A to 549C</div>
+      <div>sections 549A to 549C</div>
     </td>
     <td>
       <div>Youth allowance liquid assets test</div>
@@ -4128,7 +4082,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>3</div>
     </td>
     <td>
-      <div>Subdivision B of Division 2 of Part 2.11A</div>
+      <div>Subdivision B of Division 2 of Part 2.11A</div>
     </td>
     <td>
       <div>Austudy payment assets test</div>
@@ -4139,7 +4093,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>4</div>
     </td>
     <td>
-      <div>sections 575A to 575C</div>
+      <div>sections 575A to 575C</div>
     </td>
     <td>
       <div>Austudy payment liquid assets test</div>
@@ -4150,7 +4104,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>5</div>
     </td>
     <td>
-      <div>section 598</div>
+      <div>section 598</div>
     </td>
     <td>
       <div>Newstart allowance liquid assets test</div>
@@ -4161,7 +4115,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>6</div>
     </td>
     <td>
-      <div>sections 611 and 612</div>
+      <div>sections 611 and 612</div>
     </td>
     <td>
       <div>Newstart allowance assets test</div>
@@ -4172,7 +4126,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>7</div>
     </td>
     <td>
-      <div>sections 660YCJ and 660YCK</div>
+      <div>sections 660YCJ and 660YCK</div>
     </td>
     <td>
       <div>Mature age allowance assets test</div>
@@ -4183,7 +4137,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>8</div>
     </td>
     <td>
-      <div>section 676</div>
+      <div>section 676</div>
     </td>
     <td>
       <div>Sickness allowance liquid assets test</div>
@@ -4194,7 +4148,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>9</div>
     </td>
     <td>
-      <div>sections 680 and 681</div>
+      <div>sections 680 and 681</div>
     </td>
     <td>
       <div>Sickness allowance assets test</div>
@@ -4205,7 +4159,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>10</div>
     </td>
     <td>
-      <div>sections 733 and 734</div>
+      <div>sections 733 and 734</div>
     </td>
     <td>
       <div>Special benefit assets test</div>
@@ -4216,7 +4170,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>11</div>
     </td>
     <td>
-      <div>section 771HF</div>
+      <div>section 771HF</div>
     </td>
     <td>
       <div>Partner allowance assets test</div>
@@ -4304,7 +4258,7 @@ Note:          Paragraphs (e) and (f) have the effect of tre
       <div>19</div>
     </td>
     <td>
-      <div>Part 3.14</div>
+      <div>Part 3.14</div>
     </td>
     <td>
       <div>Compensation recovery</div>
@@ -4320,11 +4274,11 @@ Insert:
 
                      (a)  youth allowance is payable to a person; and
 
-                     (b)  the person is not independent (see section 1067A) and is required to live away from home (see section 1067D); and
+                     (b)  the person is not independent (see section 1067A) and is required to live away from home (see section 1067D); and
 
                      (c)  the person is attending boarding school while living away from home;
 
-then, for the purposes of subsection (2):
+then, for the purposes of subsection (2):
 
                      (d)  the boarding school is taken to be the person’s principal home while the person is attending the school; and
 
@@ -4362,13 +4316,13 @@ Repeal the paragraph, substitute:
 
                              (ii)  intends to undertake in the next study period for which he or she intends to enrol for the course;
 
-                            at least three quarters of the normal amount of full-time study in respect of the course for that period (see subsections (2) to (4)); and
+                            at least three quarters of the normal amount of full-time study in respect of the course for that period (see subsections (2) to (4)); and
 
 ## 10  Subsection 541B(4)
 
 Repeal the subsection, substitute:
 
-             (4)  For the purposes of paragraph (1)(b), a person is taken to be undertaking full-time study in respect of a course during the period (the **_relevant period_**):
+             (4)  For the purposes of paragraph (1)(b), a person is taken to be undertaking full-time study in respect of a course during the period (the **_relevant period_**):
 
                      (a)  starting on the first day of classes in a study period; and
 
@@ -4378,7 +4332,7 @@ if the person is enrolled in the course and undertakes study in respect of the c
 
 ## 11  Subsection 541B(5)
 
-Omit all the words from and including “determined”, substitute “determined, under section 5D of the _Student Assistance Act 1973_, to be a secondary course or a tertiary course for the purposes of that Act”.
+Omit all the words from and including “determined”, substitute “determined, under section 5D of the _Student Assistance Act 1973_, to be a secondary course or a tertiary course for the purposes of that Act”.
 
 ## 12  Before paragraph 547(a)
 
@@ -4390,7 +4344,7 @@ Insert:
 
 Omit “an alternative support”, substitute “a multiple entitlement”.
 
-## 14  After Subdivision A of Division 2 of Part 2.11
+## 14  After Subdivision A of Division 2 of Part 2.11
 
 Insert:
 
@@ -4404,9 +4358,9 @@ Insert:
 
                      (b)  the value of the person’s assets is more than the person’s assets value limit.
 
-Note 1:       For persons excluded from application of test see section 547B.
+Note 1:       For persons excluded from application of test see section 547B.
 
-Note 2:       For **_assets value limit_** see section 547C.
+Note 2:       For **_assets value limit_** see section 547C.
 
 ##### <a id="547B"></a>547B  Who is excluded from application of assets test?
 
@@ -4414,25 +4368,25 @@ Note 2:       For **_assets value limit_** see section 547C.
 
                      (a)  a payment of pension, benefit or allowance referred to in Module L; or
 
-                     (b)  a payment under Part 5 or 6 of the _Farm Household Support Act 1992_.
+                     (b)  a payment under Part 5 or 6 of the _Farm Household Support Act 1992_.
 
              (2)  A person is excluded from the application of the youth allowance assets test if:
 
                      (a)  the person is not independent; but
 
-                     (b)  in working out the rate of youth allowance payable to the person, the parental income test is not applied because of point 1067G-F3 (other than paragraph (d)).
+                     (b)  in working out the rate of youth allowance payable to the person, the parental income test is not applied because of point 1067G-F3 (other than paragraph (d)).
 
 ##### <a id="547C"></a>547C  Assets value limit
 
              (1)  A person’s **_assets value limit_** is:
 
-                     (a)  $407,250 if the person is not independent (see section 1067A); or
+                     (a)  $407,250 if the person is not independent (see section 1067A); or
 
                      (b)  $125,750 if the person:
 
                               (i)  is independent; and
 
-                             (ii)  is not a member of a couple (see section 4); and
+                             (ii)  is not a member of a couple (see section 4); and
 
                             (iii)  is a homeowner; or
 
@@ -4462,23 +4416,23 @@ Note 2:       For **_assets value limit_** see section 547C.
 
 Note 1:       For **_homeowner_** see subsection 11(4).
 
-Note 2:       The amount in paragraph (a) is indexed annually on 1 January and the amounts in paragraphs (b), (c), (d) and (e) are indexed annually on 1 July (see sections 1191 to 1194).
+Note 2:       The amount in paragraph (a) is indexed annually on 1 January and the amounts in paragraphs (b), (c), (d) and (e) are indexed annually on 1 July (see sections 1191 to 1194).
 
-             (2)  If the Secretary determines in writing a higher amount in substitution for the amount specified in paragraph (1)(b), (c), (d) or (e) (the **_existing amount_**), the higher amount is taken, from the commencement of this section, to have been substituted for the existing amount. A determination under this subsection is a disallowable instrument.
+             (2)  If the Secretary determines in writing a higher amount in substitution for the amount specified in paragraph (1)(b), (c), (d) or (e) (the **_existing amount_**), the higher amount is taken, from the commencement of this section, to have been substituted for the existing amount. A determination under this subsection is a disallowable instrument.
 
-             (3)  Subsection (2) and this subsection are repealed at the end of 31 December 1998.
+             (3)  Subsection (2) and this subsection are repealed at the end of 31 December 1998.
 
 ##### <a id="547D"></a>547D  Value of person’s assets to include value of assets of partner or family members in certain circumstances
 
                    The value of a person’s assets is the sum of the following values:
 
-                     (a)  the value of the person’s assets (disregarding paragraphs (b) and (c));
+                     (a)  the value of the person’s assets (disregarding paragraphs (b) and (c));
 
-                     (b)  if the person is independent (see section 1067A) and is a member of a couple (see section 4)—the value of the assets of the person’s partner;
+                     (b)  if the person is independent (see section 1067A) and is a member of a couple (see section 4)—the value of the assets of the person’s partner;
 
                      (c)  if the person is not independent—the value of the assets of each person who is a family member of the person.
 
-Sections 547E to 547G apply for the purpose of working out the value of the assets of the person and of any other person who is the partner, or a family member, of the person.
+Sections 547E to 547G apply for the purpose of working out the value of the assets of the person and of any other person who is the partner, or a family member, of the person.
 
 ##### <a id="547E"></a>547E  Assets of trust in which person benefits
 
@@ -4494,7 +4448,7 @@ Sections 547E to 547G apply for the purpose of working out the value of the as
 
                    If:
 
-                     (a)  an exceptional circumstances certificate referred to in section 8A of the _Farm Household Support Act 1992_ was issued in respect of a person; and
+                     (a)  an exceptional circumstances certificate referred to in section 8A of the _Farm Household Support Act 1992_ was issued in respect of a person; and
 
                      (b)  the certificate has effect;
 
@@ -4502,13 +4456,13 @@ the person’s assets do not include any asset that is an exempt asset in respec
 
 ##### <a id="547G"></a>547G  How business assets are treated
 
-             (1)  If (and only if) paragraph 547D(c) applies in working out the value of the assets of a person, assets of a business are treated in accordance with subsections (2) and (3). For this purpose, a business includes:
+             (1)  If (and only if) paragraph 547D(c) applies in working out the value of the assets of a person, assets of a business are treated in accordance with subsections (2) and (3). For this purpose, a business includes:
 
                      (a)  the carrying on of primary production; and
 
                      (b)  the provision of professional services.
 
-             (2)  Subject to subsection (3), 50% of the value of a person’s interest in the assets of a business is disregarded if the person, or his or her partner, is wholly or mainly engaged in the business and the business:
+             (2)  Subject to subsection (3), 50% of the value of a person’s interest in the assets of a business is disregarded if the person, or his or her partner, is wholly or mainly engaged in the business and the business:
 
                      (a)  is owned by the person; or
 
@@ -4518,7 +4472,7 @@ the person’s assets do not include any asset that is an exempt asset in respec
 
                      (d)  is carried on by the trustee of a trust in which the person is a beneficiary.
 
-             (3)  Subsection (2) does not apply to assets of a business that are of any of the following kinds:
+             (3)  Subsection (2) does not apply to assets of a business that are of any of the following kinds:
 
                      (a)  cash on hand, bank deposits, bank bonds, or similar readily realisable assets;
 
@@ -4552,23 +4506,23 @@ _Note:       The heading to subsection 549A(3) is altered by omittin
 
 ## 18  Paragraph 549D(1)(a)
 
-Omit “1 January 1993”, substitute “4 March 1997”.
+Omit “1 January 1993”, substitute “4 March 1997”.
 
 ## 19  Subparagraph 549D(3)(a)(ii)
 
 After “_1973_”, insert “as in force immediately before the commencement of this section”.
 
-## 20  At the end of section 549D
+## 20  At the end of section 549D
 
 Add:
 
-             (4)  Subsection (1) does not apply to a person if:
+             (4)  Subsection (1) does not apply to a person if:
 
                      (a)  the person would:
 
                               (i)  if the person had made a claim under this Act for a social security payment other than youth allowance—have been subject to a newly arrived resident’s waiting period under this Act; or
 
-                             (ii)  if the person had, before 1 July 1998, made a claim under the _Student Assistance Act 1973_—have been subject to a waiting period under Part 2 of that Act or a newly arrived resident’s waiting period under Part 8 of that Act;
+                             (ii)  if the person had, before 1 July 1998, made a claim under the _Student Assistance Act 1973_—have been subject to a waiting period under Part 2 of that Act or a newly arrived resident’s waiting period under Part 8 of that Act;
 
                             and that period would have ended; or
 
@@ -4580,47 +4534,47 @@ Add:
 
                      (c)  in the case of an AUSTUDY allowance recipient—the person was not subject to a waiting period.
 
-             (5)  Subsection (1) does not apply to a person if:
+             (5)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a New Zealand citizen; and
 
-                     (b)  the person became, or first became, an Australian resident before 1 July 1998; and
+                     (b)  the person became, or first became, an Australian resident before 1 July 1998; and
 
                      (c)  one of the following subparagraphs applies to the person:
 
                               (i)  when the person made the claim for youth allowance, the person had been an Australian resident for the immediately preceding 12 months or had been continuously present in Australia for the immediately preceding 6 months; or
 
-                             (ii)  the person was immediately before 1 July 1998 qualified for sickness allowance or youth training allowance; or
+                             (ii)  the person was immediately before 1 July 1998 qualified for sickness allowance or youth training allowance; or
 
                             (iii)  the person has previously received sickness allowance or youth training allowance.
 
 ## 21  Paragraph 549E(a)
 
-Omit “on or after 1 January 1993”.
+Omit “on or after 1 January 1993”.
 
-## 22  Subdivision F of Division 2 of Part 2.11 (heading)
+## 22  Subdivision F of Division 2 of Part 2.11 (heading)
 
 Repeal the heading, substitute:
 
 #### Subdivision F—Multiple entitlement exclusions
 
-## 23  Section 552
+## 23  Section 552
 
 Omit “an alternative support”, substitute “a multiple entitlement”.
 
-_Note:       The heading to section 552 is altered by omitting “Alternative support” and substituting “Multiple entitlement”._
+_Note:       The heading to section 552 is altered by omitting “Alternative support” and substituting “Multiple entitlement”._
 
 ## 24  Subsection 552A(2)
 
 Omit “an alternative support”, substitute “a multiple entitlement”.
 
-## 25  At the end of section 1067B (but before the note)
+## 25  At the end of section 1067B (but before the note)
 
        Add:
 
               ; and (f)  is not a person who:
 
-                              (i)  qualified for the independent living allowance under the AUSTUDY scheme, as in force immediately before the commencement of Schedule 11 to the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, only under AUSTUDY Regulation 68, as in force at that time; and
+                              (i)  qualified for the independent living allowance under the AUSTUDY scheme, as in force immediately before the commencement of Schedule 11 to the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, only under AUSTUDY Regulation 68, as in force at that time; and
 
                              (ii)  had not, at that time, turned 25.
 
@@ -4646,7 +4600,7 @@ Repeal the steps.
 
 Omit “payment” (wherever occurring), substitute “allowance”.
 
-## 30  Section 1067G (Module E of the Youth Allowance Rate Calculator)
+## 30  Section 1067G (Module E of the Youth Allowance Rate Calculator)
 
 Repeal the Module.
 
@@ -4660,7 +4614,7 @@ Insert:
 
                     (aa)  a person’s combined parental income for the tax year following the base tax year is substantially less than it was in the base tax year and is likely to continue to be so for 2 years after the later of:
 
-                              (i)  1 January in the tax year following the base tax year; or
+                              (i)  1 January in the tax year following the base tax year; or
 
                              (ii)  the day on which the combined parental income is reduced; and
 
@@ -4714,7 +4668,7 @@ but does not include employment (whether or not the employment is remunerated by
 
 Repeal the paragraph, substitute:
 
-                     (b)  the student is undertaking full-time study in a course of study or instruction that the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, to be a tertiary course for the purposes of that Act; and
+                     (b)  the student is undertaking full-time study in a course of study or instruction that the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, to be a tertiary course for the purposes of that Act; and
 
 ## 39  Paragraph 1067G-F24(d)
 
@@ -4828,7 +4782,7 @@ Single payment in respect of different kinds of leave—employment terminated
 
 ## 50  Point 1067G-H23
 
-Omit “1067G-H24 and 1067G-H25”, substitute “1067G-H23A, 1067-H23B, 1067G-H24 and 1067G-H25 and section 1073”.
+Omit “1067G-H24 and 1067G-H25”, substitute “1067G-H23A, 1067-H23B, 1067G-H24 and 1067G-H25 and section 1073”.
 
 ## 51  After point 1067G-H23
 
@@ -4880,11 +4834,11 @@ Partner income free area
 
 1067G-H26  The partner income free area for a person is:
 
-                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
+                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
 
                      (b)  if the person’s partner is not receiving a social security benefit and has turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which newstart allowance would not be payable to the partner if the partner were qualified for a newstart allowance; or
 
-                      (c)  if the person’s partner is receiving a social security benefit—the amount of income of the partner (rounded up to the nearest dollar) beyond which that benefit would not be payable to the partner.
+                     (c)  if the person’s partner is receiving a social security benefit—the amount of income of the partner (rounded up to the nearest dollar) beyond which that benefit would not be payable to the partner.
 
 ## 53  Point 1067G-K8
 
@@ -4894,18 +4848,18 @@ Omit “payment” (wherever occurring), substitute “allowance”.
 
 Omit “**payment**”, substitute “**allowance**”.
 
-## 55  Section 1067G (table items 19 and 27 in Module L of the Youth Allowance Rate Calculator)
+## 55  Section 1067G (table items 19 and 27 in Module L of the Youth Allowance Rate Calculator)
 
 Repeal the items.
 
 
  
 
-###### Schedule 3—Amendment of the Social Security Act 1991 relating to youth allowance and austudy payment provisions
+###### Schedule 3—Amendment of the Social Security Act 1991 relating to youth allowance and austudy payment provisions
 
-Part 1—Amendments commencing after youth allowance and austudy payment provisions commence and the Budget Measures Act has been assented to
+Part 1—Amendments commencing after youth allowance and austudy payment provisions commence and the Budget Measures Act has been assented to
 
-## 1  Subsection 5(1) (subparagraph (b)(ii) of the definition of _independent young person_)
+## 1  Subsection 5(1) (subparagraph (b)(ii) of the definition of _independent young person_)
 
 Omit “a youth training allowance or”.
 
@@ -4929,7 +4883,7 @@ Insert:
 
 Add:
 
-             ; and (d)  may be cancelled by the Secretary after a review under paragraph (c).
+             ; and (d)  may be cancelled by the Secretary after a review under paragraph (c).
 
 ## 6  After subparagraph 549A(5)(a)(i)
 
@@ -5015,7 +4969,7 @@ Repeal the paragraph.
 
 Repeal the note.
 
-Part 2—Other amendments commencing on 1 July 1998 after certain provisions of the Budget Measures Act
+Part 2—Other amendments commencing on 1 July 1998 after certain provisions of the Budget Measures Act
 
 ## 18  Subsection 19C(1) (note 1)
 
@@ -5037,23 +4991,23 @@ After “claim for”, insert “austudy payment,”.
 
 Repeal the paragraph, substitute:
 
-                     (c)  in relation to youth allowance—means the maximum payment rate worked out at Step 4 of the Method statement in Module A of the Youth Allowance Rate Calculator in section 1067G; or
+                     (c)  in relation to youth allowance—means the maximum payment rate worked out at Step 4 of the Method statement in Module A of the Youth Allowance Rate Calculator in section 1067G; or
 
-                    (ca)  in relation to austudy payment—means the maximum payment rate worked out at Step 3 of the Method statement in Module A of the Austudy Payment Rate Calculator in section 1067L; or
+                    (ca)  in relation to austudy payment—means the maximum payment rate worked out at Step 3 of the Method statement in Module A of the Austudy Payment Rate Calculator in section 1067L; or
 
 ## 23  Subsection 19C(9)
 
 Repeal the subsection.
 
-Part 3—Amendment commencing on 20 September 1998
+Part 3—Amendment commencing on 20 September 1998
 
-## 24  Point 1067G-H1 (paragraph (d) of note 2)
+## 24  Point 1067G-H1 (paragraph (d) of note 2)
 
 Repeal the paragraph, substitute:
 
-(d)           income streams (sections 1095 to 1099D);
+(d)           income streams (sections 1095 to 1099D);
 
-Part 4—Amendments commencing on 1 July 1999 after some provisions of the Budget Measures Act
+Part 4—Amendments commencing on 1 July 1999 after some provisions of the Budget Measures Act
 
 ## 25  Subsection 19C(1) (note 1)
 
@@ -5106,9 +5060,9 @@ Note 3:       If an income maintenance period applies to a person, t
 
  
 
-###### Schedule 4—Amendment of the Social Security Act 1991 relating to pensioner education supplement
+###### Schedule 4—Amendment of the Social Security Act 1991 relating to pensioner education supplement
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Insert the following entries in their appropriate alphabetical position, determined on a letter-by-letter basis:
 
@@ -5161,13 +5115,13 @@ After “a mobility allowance”, insert “, a pensioner education supplement�
 
 Insert:
 
-                    <a name="full-year-cours"></a>**_full year course_** has the meaning given by subsection (10C).
+                    <a name="full-year-cours"></a>**_full year course_** has the meaning given by subsection (10C).
 
-                    <a name="late-start-cours"></a>**_late starting course_** has the meaning given by subsection (10D).
+                    <a name="late-start-cours"></a>**_late starting course_** has the meaning given by subsection (10D).
 
                     <a name="pension-educ-supplem-paydai"></a>**_pensioner education supplement payday_** means:
 
-                     (a)  the Wednesday that falls on 15 July 1998; and
+                     (a)  the Wednesday that falls on 15 July 1998; and
 
                      (b)  each succeeding alternate Wednesday.
 
@@ -5183,25 +5137,25 @@ Insert:
 
                      (a)  a course of education that starts:
 
-                              (i)  on 1 January; or
+                              (i)  on 1 January; or
 
-                             (ii)  after 1 January and before 1 April; or
+                             (ii)  after 1 January and before 1 April; or
 
-                            (iii)  on 1 July; or
+                            (iii)  on 1 July; or
 
-                            (iv)  after 1 July and before 1 August;
+                            (iv)  after 1 July and before 1 August;
 
                             and lasts for more than 30 weeks (including vacations); or
 
                      (b)  an articulated short course sequence whose first course starts:
 
-                              (i)  on 1 January; or
+                              (i)  on 1 January; or
 
-                             (ii)  after 1 January and before 1 April; or
+                             (ii)  after 1 January and before 1 April; or
 
-                            (iii)  on 1 July; or
+                            (iii)  on 1 July; or
 
-                            (iv)  after 1 July and before 1 August;
+                            (iv)  after 1 July and before 1 August;
 
                             and the length of whose courses (including vacations) add up to more than 30 weeks.
 
@@ -5211,25 +5165,25 @@ Insert:
 
                      (a)  a course of education that starts:
 
-                              (i)  on 1 April; or
+                              (i)  on 1 April; or
 
-                             (ii)  after 1 April and before 1 July; or
+                             (ii)  after 1 April and before 1 July; or
 
-                            (iii)  after 31 July;
+                            (iii)  after 31 July;
 
                             and lasts for more than 30 weeks (including vacations); or
 
                      (b)  an articulated short course sequence whose first course starts:
 
-                              (i)  on 1 April; or
+                              (i)  on 1 April; or
 
-                             (ii)  after 1 April and before 1 July; or
+                             (ii)  after 1 April and before 1 July; or
 
-                            (iii)  after 31 July;
+                            (iii)  after 31 July;
 
                             and the length of whose courses (including vacations) add up to more than 30 weeks.
 
-         (10E)  In subsections (10C) and (10D):
+         (10E)  In subsections (10C) and (10D):
 
                     <a name="articulated-short-cours-sequenc"></a>**_articulated short course sequence_** means a sequence of 2 or more articulated short courses that:
 
@@ -5239,7 +5193,7 @@ Insert:
 
                      (c)  ends at the end of the last day of the last course in the sequence.
 
-         (10F)  For the purposes of subsection (10E), if:
+         (10F)  For the purposes of subsection (10E), if:
 
                      (a)  a person undertakes at least 2 short courses of education; and 
 
@@ -5255,13 +5209,13 @@ Insert:
 
 each of the short courses is an **_articulated short course_**.
 
-## 5  After Part 2.24
+## 5  After Part 2.24
 
 Insert:
 
-## Part 2.24A—Pensioner education supplement
+## Part 2.24A—Pensioner education supplement
 
-### Division 1—Qualification for pensioner education supplement
+### Division 1—Qualification for pensioner education supplement
 
 #### Subdivision A—The basic rules
 
@@ -5277,7 +5231,7 @@ Insert:
 
                      (d)  meets the residency requirements under Subdivision E.
 
-Note:          Division 2 sets out situations in which pensioner education supplement is not payable even if the person qualifies for it.
+Note:          Division 2 sets out situations in which pensioner education supplement is not payable even if the person qualifies for it.
 
 #### Subdivision B—Undertaking qualifying study
 
@@ -5295,11 +5249,11 @@ General
 
                             (iii)  was enrolled in the course and satisfies the Secretary that he or she intends, and has (since no longer being enrolled) always intended, to enrol in another course of education (at the same or a different educational institution) when enrolments in the other course are next accepted; and
 
-                     (b)  the course in which the person is enrolled, or intends to enrol, is an approved course of education or study (see section 1061PC); and
+                     (b)  the course in which the person is enrolled, or intends to enrol, is an approved course of education or study (see section 1061PC); and
 
-                     (c)  the person is a full-time student or a concessional study-load student in respect of that course (see sections 1061PD and 1061PE); and
+                     (c)  the person is a full-time student or a concessional study-load student in respect of that course (see sections 1061PD and 1061PE); and
 
-                     (d)  the person satisfies the progress rules (see sections 1061PH and 1061PI).
+                     (d)  the person satisfies the progress rules (see sections 1061PH and 1061PI).
 
 Persons not undertaking qualifying study
 
@@ -5315,11 +5269,11 @@ Persons not undertaking qualifying study
 
 Note:          For **_educational institution_** see subsection 23(1).
 
-Taken to be undertaking qualifying study from 1 January 
+Taken to be undertaking qualifying study from 1 January 
 
-             (3)  For the purpose of subsection (1), a person is taken to have been undertaking qualifying study from 1 January in a particular year if:
+             (3)  For the purpose of subsection (1), a person is taken to have been undertaking qualifying study from 1 January in a particular year if:
 
-                     (a)  the person is enrolled in a course of education that is a full year course starting before 1 April in that year; and
+                     (a)  the person is enrolled in a course of education that is a full year course starting before 1 April in that year; and
 
                      (b)  the person starts his or her full year course before that day; and
 
@@ -5329,11 +5283,11 @@ Taken to be undertaking qualifying study from 1 January
 
                              (ii)  the person did not undertake full-time or part-time study for more than one semester (excluding vacations) during the immediately preceding 12 months and the Secretary is satisfied that this was due to the person’s illness or to other circumstances beyond the person’s control.
 
-Taken to be undertaking qualifying study from 1 July 
+Taken to be undertaking qualifying study from 1 July 
 
-             (4)  For the purpose of subsection (1), a person is taken to have been undertaking qualifying study from 1 July in a particular year if:
+             (4)  For the purpose of subsection (1), a person is taken to have been undertaking qualifying study from 1 July in a particular year if:
 
-                     (a)  the person is enrolled in a course of education that is a full year course starting on or after 1 July in that year; and
+                     (a)  the person is enrolled in a course of education that is a full year course starting on or after 1 July in that year; and
 
                      (b)  the person starts his or her full year course on or after that day; and
 
@@ -5343,17 +5297,17 @@ Taken to be undertaking qualifying study from 1 July
 
                              (ii)  the person did not undertake full-time or part-time study for more than one semester (excluding vacations) during the immediately preceding 12 months and the Secretary is satisfied that this was due to the person’s illness or to other circumstances beyond the person’s control.
 
-Taken to be undertaking qualifying study until 31 December 
+Taken to be undertaking qualifying study until 31 December 
 
-             (5)  For the purpose of subsection (1), a person is taken to be undertaking qualifying study until the end of 31 December in a particular year if:
+             (5)  For the purpose of subsection (1), a person is taken to be undertaking qualifying study until the end of 31 December in a particular year if:
 
-                     (a)  the person completes his or her course of education after 15 September but before 31 December in that year; and
+                     (a)  the person completes his or her course of education after 15 September but before 31 December in that year; and
 
                      (b)  the person’s course of education is a full year course or a late starting course.
 
 Industrial instruments
 
-             (6)  In paragraph (2)(a):
+             (6)  In paragraph (2)(a):
 
                     <a name="industri-instrum"></a>**_industrial instrument_** means an award or agreement (however described) that:
 
@@ -5367,7 +5321,7 @@ Industrial instruments
 
 ##### <a id="1061PC"></a>1061PC  Approved course of education or study
 
-                   For the purposes of paragraph 1061PB(1)(b), a course is an approved course of education or study if it is a course that the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, to be a secondary course or a tertiary course for the purposes of that Act.
+                   For the purposes of paragraph 1061PB(1)(b), a course is an approved course of education or study if it is a course that the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, to be a secondary course or a tertiary course for the purposes of that Act.
 
 ##### <a id="1061PD"></a>1061PD  Full-time students
 
@@ -5377,7 +5331,7 @@ Industrial instruments
 
                      (b)  in the case of a person who intends to enrol in the course for a particular study period—the person intends to undertake at least three quarters of the normal amount of full-time study in respect of the course for that period.
 
-Note:          For **_normal amount of full-time study_** see section 1061PF.
+Note:          For **_normal amount of full-time study_** see section 1061PF.
 
 ##### <a id="1061PE"></a>1061PE  Concessional study-load students
 
@@ -5399,9 +5353,9 @@ Note:          For **_normal amount of full-time study_** see 
 
                      (b)  in the case of a person who intends to enrol in the course for a particular study period—the person intends to undertake at least two thirds, but less than three quarters, of the normal amount of full-time study in respect of the course for that period.
 
-Note:          For **_normal amount of full-time study_** see section 1061PF.
+Note:          For **_normal amount of full-time study_** see section 1061PF.
 
-             (4)  Subsection (2) applies to a person if:
+             (4)  Subsection (2) applies to a person if:
 
                      (a)  an officer in the Commonwealth Rehabilitation Service has stated in writing that:
 
@@ -5435,11 +5389,11 @@ Note:          For **_normal amount of full-time study_** see 
 
                             (iii)  is receiving a widow allowance under this Act; or
 
-                            (iv)  is receiving a pension under Part II of the Veterans’ Entitlements Act; or
+                            (iv)  is receiving a pension under Part II of the Veterans’ Entitlements Act; or
 
-                             (v)  is receiving pension under Part IV of the Veterans’ Entitlements Act.
+                             (v)  is receiving pension under Part IV of the Veterans’ Entitlements Act.
 
-             (5)  Subsection (3) applies to a person if:
+             (5)  Subsection (3) applies to a person if:
 
                      (a)  the person cannot undertake the course as a full-time student because of:
 
@@ -5459,7 +5413,7 @@ Note:          For **_normal amount of full-time study_** see 
 
                      (c)  otherwise—an amount of full-time study equivalent to the average amount of full-time study that a person would have to undertake for the duration of the course in order to complete the course in the minimum amount of time needed to complete it.
 
-             (2)  Without limiting subsection (1), the **_normal amount of full-time study_** in respect of a course is an average, taken over the duration of the period for which the person in question is enrolled in the course, of 20 contact hours per week.
+             (2)  Without limiting subsection (1), the **_normal amount of full-time study_** in respect of a course is an average, taken over the duration of the period for which the person in question is enrolled in the course, of 20 contact hours per week.
 
 ##### <a id="1061PG"></a>1061PG  First fortnight of classes
 
@@ -5475,13 +5429,13 @@ if the person is enrolled in the course and undertakes study in respect of the c
 
 General rule
 
-             (1)  Subject to subsection (2), a person enrolled in, or intending to enrol in, a secondary course satisfies the progress rules for the purposes of paragraph 1061PB(1)(d) if, in the Secretary’s opinion, the person is making satisfactory progress towards completing the course.
+             (1)  Subject to subsection (2), a person enrolled in, or intending to enrol in, a secondary course satisfies the progress rules for the purposes of paragraph 1061PB(1)(d) if, in the Secretary’s opinion, the person is making satisfactory progress towards completing the course.
 
 Students repeating year 12
 
              (2)  A person does not satisfy the progress rules if:
 
-                     (a)  the person is enrolled in a secondary course that is at year 12 level, or the overall level of which is at year 12 level (see subsections (3) and (4)); and
+                     (a)  the person is enrolled in a secondary course that is at year 12 level, or the overall level of which is at year 12 level (see subsections (3) and (4)); and
 
                      (b)  the person has been a full-time student in respect of a course at that level (a **_previous course_**) in each of 2 previous years; and
 
@@ -5507,7 +5461,7 @@ Overall level of course at year 12 level
 
 Meaning of secondary course
 
-             (5)  For the purposes of this section, a course is a **_secondary course_** if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a secondary course for the purposes of that Act.
+             (5)  For the purposes of this section, a course is a **_secondary course_** if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a secondary course for the purposes of that Act.
 
 ##### <a id="1061PI"></a>1061PI  Progress rules—tertiary students
 
@@ -5521,7 +5475,7 @@ Full-time students
 
 the time already spent by the student on the course, or on one or more other tertiary courses at the same level as that course, does not exceed the allowable study time for that course.
 
-Note:          For allowable study time for a course see subsection (3).
+Note:          For allowable study time for a course see subsection (3).
 
 Concessional study-load students
 
@@ -5533,7 +5487,7 @@ Concessional study-load students
 
 the time already spent by the person on the course, or on one or more other tertiary courses at the same level as that course, does not exceed the allowable study time for the course.
 
-Note:          For allowable study time for a course see subsections (3) and (4).
+Note:          For allowable study time for a course see subsections (3) and (4).
 
 Allowable study time—full-time students and 66% concessional study-load students
 
@@ -5559,7 +5513,7 @@ Time spent by person studying part-time
 
              (5)  If a student has studied part-time for a course over a certain period, the time spent by the student on that course is taken to be the proportion of that period calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image002.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image002.gif)</sub>
 
 where:
 
@@ -5581,7 +5535,7 @@ Current full-time students who have previously undertaken courses as concessiona
 
                             as a concessional study-load student; and
 
-                     (c)  the time spent by the person undertaking the part of the course referred to in subparagraph (b)(i), or the course or courses referred to in subparagraph (b)(ii), (the **_previous study_**) is not to be disregarded under subsection (7);
+                     (c)  the time spent by the person undertaking the part of the course referred to in subparagraph (b)(i), or the course or courses referred to in subparagraph (b)(ii), (the **_previous study_**) is not to be disregarded under subsection (7);
 
 the time spent by the person undertaking the previous study is taken to be equal to the minimum amount of time that a full-time student would have taken to complete the previous study. 
 
@@ -5695,7 +5649,7 @@ Level D courses
 
 Meaning of **tertiary course**
 
-           (13)  For the purposes of this section, a course is a **_tertiary course_** if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a tertiary course for the purposes of that Act.
+           (13)  For the purposes of this section, a course is a **_tertiary course_** if the Employment Minister has determined, under section 5D of the _Student Assistance Act 1973_, that the course is a tertiary course for the purposes of that Act.
 
 #### Subdivision C—Payments attracting pensioner education supplement
 
@@ -5705,9 +5659,9 @@ General
 
              (1)  A person is receiving a payment attracting pensioner education supplement if the person is receiving:
 
-                     (a)  a payment under this Act set out in subsection (2); or
+                     (a)  a payment under this Act set out in subsection (2); or
 
-                     (b)  a pension under the Veterans’ Entitlements Act set out in subsection (3).
+                     (b)  a pension under the Veterans’ Entitlements Act set out in subsection (3).
 
 Payments under this Act
 
@@ -5727,13 +5681,13 @@ Payments under this Act
 
                      (g)  in the case of a person who is a sole parent—a special benefit;
 
-                     (h)  a rehabilitation allowance payable under clause 35 of Schedule 1A.
+                     (h)  a rehabilitation allowance payable under clause 35 of Schedule 1A.
 
 Pensions under the Veterans’ Entitlements Act
 
              (3)  The pensions under the Veterans’ Entitlements Act are the following:
 
-                     (a)  in the case of a person who has a dependent child—a pension under Part II of that Act;
+                     (a)  in the case of a person who has a dependent child—a pension under Part II of that Act;
 
                      (b)  an invalidity service pension;
 
@@ -5741,7 +5695,7 @@ Pensions under the Veterans’ Entitlements Act
 
                      (d)  a carer service pension;
 
-                     (e)  in the case of a person who has a dependent child—a pension under Part IV of that Act.
+                     (e)  in the case of a person who has a dependent child—a pension under Part IV of that Act.
 
 #### Subdivision D—Pensioner education supplement age
 
@@ -5803,7 +5757,7 @@ Person in State care
 
                      (b)  there is a current direction from such a court, Minister or Department placing the person in the guardianship, care or custody of someone who is not the person’s parent; or
 
-                     (c)  the person stopped being in a situation described in paragraph (a) or (b) only because of his or her age.
+                     (c)  the person stopped being in a situation described in paragraph (a) or (b) only because of his or her age.
 
 A person to whom this subsection applies is taken, for the purposes of this Part, to be **_in State care_**.
 
@@ -5829,7 +5783,7 @@ Unreasonable to live at home
 
                      (a)  is an Australian resident; and
 
-                     (b)  subject to section 1061PN, is in Australia.
+                     (b)  subject to section 1061PN, is in Australia.
 
 ##### <a id="1061PN"></a>1061PN  Absence of persons overseas
 
@@ -5851,7 +5805,7 @@ Temporary return to Australia
 
 the person is taken to have continued to be absent from Australia throughout the period from the time of the person’s return to the time when the person so left Australia.
 
-### Division 2—Situations in which pensioner education supplement is not payable
+### Division 2—Situations in which pensioner education supplement is not payable
 
 #### Subdivision A—The basic rules
 
@@ -5865,13 +5819,13 @@ the person is taken to have continued to be absent from Australia throughout the
 
                      (c)  the person is subject to a multiple entitlement exclusion (see Subdivision D).
 
-Note:          A pensioner education supplement is not payable if the person is in gaol or is undergoing psychiatric confinement because the person has been charged with committing an offence (see Division 4 of Part 3.13).
+Note:          A pensioner education supplement is not payable if the person is in gaol or is undergoing psychiatric confinement because the person has been charged with committing an offence (see Division 4 of Part 3.13).
 
 #### Subdivision B—Provisional commencement day
 
 ##### <a id="1061PP"></a>1061PP  Pensioner education supplement generally not payable before claim
 
-                   A pensioner education supplement is not payable to a person before the person’s provisional commencement day (see sections 1061PQ, 1061PR and 1061PS).
+                   A pensioner education supplement is not payable to a person before the person’s provisional commencement day (see sections 1061PQ, 1061PR and 1061PS).
 
 ##### <a id="1061PQ"></a>1061PQ  Provisional commencement day—basic rule
 
@@ -5879,39 +5833,39 @@ Note:          A pensioner education supplement is not payable
 
 ##### <a id="1061PR"></a>1061PR  Claim made within 4 weeks of becoming qualified
 
-                   Subject to section 1061PS, if a person claims a pensioner education supplement within 4 weeks after becoming qualified for the supplement, the person’s provisional commencement day is the day on which he or she became qualified.
+                   Subject to section 1061PS, if a person claims a pensioner education supplement within 4 weeks after becoming qualified for the supplement, the person’s provisional commencement day is the day on which he or she became qualified.
 
 ##### <a id="1061PS"></a>1061PS  Claims made before closing dates
 
-Claims made before 1 April
+Claims made before 1 April
 
              (1)  If:
 
-                     (a)  a person claims a pensioner education supplement before 1 April in a particular year; and
+                     (a)  a person claims a pensioner education supplement before 1 April in a particular year; and
 
                      (b)  the person’s course of education is a full year course that starts before that day;
 
-the person’s provisional commencement day is 1 January of that year.
+the person’s provisional commencement day is 1 January of that year.
 
-Claims made before 1 August
+Claims made before 1 August
 
              (2)  If:
 
-                     (a)  a person claims pensioner education supplement before 1 August in a particular year; and
+                     (a)  a person claims pensioner education supplement before 1 August in a particular year; and
 
                      (b)  the person’s course of education is a full year course that starts in that year:
 
-                              (i)  on 1 July; or
+                              (i)  on 1 July; or
 
-                             (ii)  after 1 July and before 1 August;
+                             (ii)  after 1 July and before 1 August;
 
-the person’s provisional commencement day is 1 July of that year.
+the person’s provisional commencement day is 1 July of that year.
 
 #### Subdivision C—Newly arrived resident’s waiting period
 
 ##### <a id="1061PT"></a>1061PT  Pensioner education supplement not payable during newly arrived resident’s waiting period
 
-                   A pensioner education supplement is not payable to a person while the person is subject to a newly arrived resident’s waiting period (see sections 1061PU and 1061PV).
+                   A pensioner education supplement is not payable to a person while the person is subject to a newly arrived resident’s waiting period (see sections 1061PU and 1061PV).
 
 ##### <a id="1061PU"></a>1061PU  Newly arrived resident’s waiting period
 
@@ -5919,7 +5873,7 @@ Basic rule
 
              (1)  Subject to this section, a person is subject to a newly arrived resident’s waiting period if the person:
 
-                     (a)  has entered Australia on or after 4 March 1997; and
+                     (a)  has entered Australia on or after 4 March 1997; and
 
                      (b)  has not been an Australian resident in Australia for a period of, or periods totalling, 104 weeks.
 
@@ -5927,31 +5881,31 @@ Note:          For **_Australian resident_** see subsection 7(
 
 Exception—qualifying resident exemption
 
-             (2)  Subsection (1) does not apply to a person who has a qualifying residence exemption for an austudy payment.
+             (2)  Subsection (1) does not apply to a person who has a qualifying residence exemption for an austudy payment.
 
 Note:          For **_qualifying residence exemption_** see subsection 7(6).
 
 Exception—person already subject to waiting period etc.
 
-             (3)  Subsection (1) does not apply to a person if:
+             (3)  Subsection (1) does not apply to a person if:
 
                      (a)  the person has been subject to:
 
                               (i)  a newly arrived resident’s waiting period under this Act; or
 
-                             (ii)  a waiting period under Part 2 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; or
+                             (ii)  a waiting period under Part 2 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; or
 
-                            (iii)  a newly arrived resident’s waiting period under Part 8 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; and
+                            (iii)  a newly arrived resident’s waiting period under Part 8 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998; and
 
                      (b)  that period has ended.
 
-             (4)  Subsection (1) does not apply to a person if:
+             (4)  Subsection (1) does not apply to a person if:
 
                      (a)  the person would:
 
                               (i)  if the person had made a claim under this Act for a social security payment other than youth allowance—have been subject to a newly arrived resident’s waiting period under this Act; or
 
-                             (ii)  if the person had, before 1 July 1998, made a claim under the _Student Assistance Act 1973_—have been subject to a waiting period under Part 2 of that Act or a newly arrived resident’s waiting period under Part 8 of that Act;
+                             (ii)  if the person had, before 1 July 1998, made a claim under the _Student Assistance Act 1973_—have been subject to a waiting period under Part 2 of that Act or a newly arrived resident’s waiting period under Part 8 of that Act;
 
                             and that period would have ended; or
 
@@ -5983,7 +5937,7 @@ Note:          For **_Australian resident_** see subsection 7(
 
                    A pensioner education supplement is not payable to a person if the person is subject to a multiple entitlement exclusion.
 
-### Division 3—Claim for pensioner education supplement
+### Division 3—Claim for pensioner education supplement
 
 ##### <a id="1061PY"></a>1061PY  Need for a claim
 
@@ -5991,11 +5945,11 @@ Proper claim
 
              (1)  A person who wants to be granted a pensioner education supplement must make a proper claim for a pensioner education supplement.
 
-Note           For **_proper claim_** see section 1061PZ (form), section 1061PZA (lodgment of claim) and section 1061PZB (residence/presence in Australia).
+Note           For **_proper claim_** see section 1061PZ (form), section 1061PZA (lodgment of claim) and section 1061PZB (residence/presence in Australia).
 
 Claim taken not to be made
 
-             (2)  For the purposes of subsection (1), if:
+             (2)  For the purposes of subsection (1), if:
 
                      (a)  a claim for pensioner education supplement is made by or on behalf of a person; and
 
@@ -6043,7 +5997,7 @@ Manner of withdrawal
 
              (3)  A withdrawal may be made orally or in writing.
 
-### Division 4—Determination of claim
+### Division 4—Determination of claim
 
 ##### <a id="1061PZD"></a>1061PZD  Secretary to determine claim
 
@@ -6061,7 +6015,7 @@ Manner of withdrawal
 
 Date of effect
 
-             (1)  Subject to this section, a determination under section 1061PZE takes effect on the day on which the determination is made or on any later day or earlier day that is stated in the determination.
+             (1)  Subject to this section, a determination under section 1061PZE takes effect on the day on which the determination is made or on any later day or earlier day that is stated in the determination.
 
 Notified decision—review sought within 3 months
 
@@ -6071,7 +6025,7 @@ Notified decision—review sought within 3 months
 
                      (b)  a notice is given to the person telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
@@ -6085,7 +6039,7 @@ Notified decision—review sought after 3 months
 
                      (b)  a notice is given to the person telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, more than 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, more than 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
@@ -6099,19 +6053,19 @@ Decision not notified
 
                      (b)  no notice is given to the person telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
 the determination takes effect on the day on which the previous decision took effect.
 
-### Division 5—Rate of pensioner education supplement
+### Division 5—Rate of pensioner education supplement
 
 ##### <a id="1061PZG"></a>1061PZG  Rate of pensioner education supplement
 
                    The pensioner education supplement rate is $60.00 per fortnight.
 
-### Division 6—Payment of pensioner education supplement
+### Division 6—Payment of pensioner education supplement
 
 ##### <a id="1061PZH"></a>1061PZH  Start of pensioner education supplement
 
@@ -6121,19 +6075,19 @@ the determination takes effect on the day on which the previous decision took ef
 
                      (b)  no provision of this Act makes the supplement not payable to the person.
 
-Note 1:       For qualification see Subdivision A of Division 1.
+Note 1:       For qualification see Subdivision A of Division 1.
 
-Note 2:       For circumstances in which a pensioner education supplement may not be payable see section 1061PO.
+Note 2:       For circumstances in which a pensioner education supplement may not be payable see section 1061PO.
 
 ##### <a id="1061PZI"></a>1061PZI  Payment by instalments
 
-             (1)  Subject to section 1061PZJ, a full instalment of pensioner education supplement is payable to a person on each pensioner education supplement payday on which:
+             (1)  Subject to section 1061PZJ, a full instalment of pensioner education supplement is payable to a person on each pensioner education supplement payday on which:
 
                      (a)  the person is qualified for the supplement; and
 
                      (b)  the supplement is payable to the person.
 
-             (2)  If the person is outside Australia, the instalments referred to in subsection (1) are to be paid to the person on such pensioner education supplement paydays as the Secretary determines for the purposes of this subsection.
+             (2)  If the person is outside Australia, the instalments referred to in subsection (1) are to be paid to the person on such pensioner education supplement paydays as the Secretary determines for the purposes of this subsection.
 
 ##### <a id="1061PZJ"></a>1061PZJ  Effect on instalments of back-dating claim
 
@@ -6151,13 +6105,13 @@ then:
 
                      (e)  a full instalment of pensioner education supplement in respect of that payday or each of those paydays is payable on the first pensioner education supplement payday on or after that payday or the last of those paydays.
 
-Note:          For **_provisional commencement day_** see Subdivision B of Division 2.
+Note:          For **_provisional commencement day_** see Subdivision B of Division 2.
 
 ##### <a id="1061PZK"></a>1061PZK  Instalment to be paid to person or nominee
 
 Payments to person
 
-             (1)  Subject to subsection (2), instalments of a person’s pensioner education supplement are to be paid to the person.
+             (1)  Subject to subsection (2), instalments of a person’s pensioner education supplement are to be paid to the person.
 
 Direction to pay to someone else
 
@@ -6165,13 +6119,13 @@ Direction to pay to someone else
 
 Payment in accordance with direction
 
-             (3)  If the Secretary gives a direction under subsection (2), the instalments are to be paid in accordance with the direction.
+             (3)  If the Secretary gives a direction under subsection (2), the instalments are to be paid in accordance with the direction.
 
 ##### <a id="1061PZL"></a>1061PZL  Payment into bank account etc.
 
 Manner of payment
 
-             (1)  An amount that is to be paid to a person under section 1061PZK is to be paid in the manner set out in this section.
+             (1)  An amount that is to be paid to a person under section 1061PZK is to be paid in the manner set out in this section.
 
 Payment into account
 
@@ -6183,17 +6137,17 @@ Joint or common account
 
 Secretary may direct payment in different way
 
-             (4)  The Secretary may direct that the whole or a part of the amount be paid to the person in a different way from that provided for by subsection (2).
+             (4)  The Secretary may direct that the whole or a part of the amount be paid to the person in a different way from that provided for by subsection (2).
 
 Payment in accordance with direction
 
-             (5)  If the Secretary gives a direction under subsection (4), the amount is to be paid in accordance with the direction.
+             (5)  If the Secretary gives a direction under subsection (4), the amount is to be paid in accordance with the direction.
 
 ##### <a id="1061PZM"></a>1061PZM  If supplement payday would fall on public holiday etc.
 
                    If the Secretary is satisfied that an amount of pensioner education supplement that would normally be paid on a particular day cannot reasonably be paid on that day (because, for example, it is a public holiday or a bank holiday), the Secretary may direct that the amount be paid on an earlier day.
 
-##### <a id="1061PZN"></a>1061PZN  Payment of supplement after death
+##### <a id="1061PZN"></a>1061PZN  Payment of supplement after death
 
 Payment to person determined by Secretary
 
@@ -6217,15 +6171,15 @@ the Secretary may pay the amount to the person who, in the Secretary’s opinion
 
 No further liability for Commonwealth
 
-             (2)  If the Secretary pays an amount of pensioner education supplement under subsection (1), the Commonwealth has no further liability to any person in respect of that amount of pensioner education supplement.
+             (2)  If the Secretary pays an amount of pensioner education supplement under subsection (1), the Commonwealth has no further liability to any person in respect of that amount of pensioner education supplement.
 
-### Division 7—Protection of pensioner education supplement
+### Division 7—Protection of pensioner education supplement
 
 ##### <a id="1061PZO"></a>1061PZO  Pensioner education supplement to be absolutely inalienable
 
 Supplement absolutely inalienable
 
-             (1)  Subject to subsections (2) and (3) and section 1359, pensioner education supplement is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
+             (1)  Subject to subsections (2) and (3) and section 1359, pensioner education supplement is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
 
 Payments to Commissioner of Taxation at recipient’s request
 
@@ -6235,13 +6189,13 @@ Payments to Commissioner of Taxation at recipient’s request
 
                      (b)  to pay the amount to be deducted to the Commissioner of Taxation.
 
-Note:          The Secretary must make deductions from a person’s pensioner education supplement if requested by the Commissioner of Taxation (see section 1359).
+Note:          The Secretary must make deductions from a person’s pensioner education supplement if requested by the Commissioner of Taxation (see section 1359).
 
 Deductions from instalments with recipient’s consent
 
-             (3)  The Secretary may make deductions from the instalments of pensioner education supplement payable to a person if the person consents under section 1234A to the Secretary making the deduction.
+             (3)  The Secretary may make deductions from the instalments of pensioner education supplement payable to a person if the person consents under section 1234A to the Secretary making the deduction.
 
-Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving a pensioner education supplement.
+Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving a pensioner education supplement.
 
 ##### <a id="1061PZP"></a>1061PZP  Effect of garnishee or attachment order
 
@@ -6265,9 +6219,9 @@ Method of working out saved amount
 
 _Method statement_
 
-_Step 1_.   Work out the total amount of pensioner education supplement payable to the person that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
+_Step 1._   Work out the total amount of pensioner education supplement payable to the person that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
 
-_Step 2_.   Subtract from that amount the total amount withdrawn from the account during the same 4 week period: the result is the **_saved amount_**.</div>
+_Step 2._   Subtract from that amount the total amount withdrawn from the account during the same 4 week period: the result is the **_saved amount_**.</div>
 
 Single, joint or common account
 
@@ -6279,7 +6233,7 @@ Single, joint or common account
 
                      (c)  in common with another person.
 
-### Division 8—Obligations of recipients
+### Division 8—Obligations of recipients
 
 ##### <a id="1061PZQ"></a>1061PZQ  Secretary may require notice from recipient of the happening of an event or a change in circumstances
 
@@ -6293,11 +6247,11 @@ Secretary may give notice requiring information
 
 Event or change relevant to payment
 
-             (2)  An event or change of circumstances is not to be stated in a notice under subsection (1) unless the occurrence of the event or change of circumstances might affect the payment of the pensioner education supplement.
+             (2)  An event or change of circumstances is not to be stated in a notice under subsection (1) unless the occurrence of the event or change of circumstances might affect the payment of the pensioner education supplement.
 
 Formalities related to notice
 
-             (3)  Subject to subsection (4), a notice under subsection (1):
+             (3)  Subject to subsection (4), a notice under subsection (1):
 
                      (a)  must be in writing; and
 
@@ -6313,11 +6267,11 @@ Formalities related to notice
 
 Validity of notice
 
-             (4)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (3)(c) or (e).
+             (4)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (3)(c) or (e).
 
 Period within which information to be given
 
-             (5)  Subject to subsection (6), the period stated under paragraph (3)(d) must end at least 14 days after:
+             (5)  Subject to subsection (6), the period stated under paragraph (3)(d) must end at least 14 days after:
 
                      (a)  the day on which the event or change of circumstances occurs; or
 
@@ -6325,15 +6279,15 @@ Period within which information to be given
 
 Person leaving Australia
 
-             (6)  If a notice requires the person to tell the Department of any proposal by the person to leave Australia, subsection (5) does not apply to that requirement.
+             (6)  If a notice requires the person to tell the Department of any proposal by the person to leave Australia, subsection (5) does not apply to that requirement.
 
 Refusal or failure to comply with notice
 
-             (7)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
+             (7)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
 
                     Penalty:  Imprisonment for 6 months.
 
-Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
 Application overseas
 
@@ -6351,7 +6305,7 @@ Secretary may give notice requiring statement on matter
 
 Formalities related to notice
 
-             (2)  Subject to subsection (3), a notice under subsection (1):
+             (2)  Subject to subsection (3), a notice under subsection (1):
 
                      (a)  must be in writing; and
 
@@ -6367,23 +6321,23 @@ Formalities related to notice
 
 Validity of notice
 
-             (3)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (2)(c) or (e).
+             (3)  A notice under subsection (1) is not invalid merely because it fails to comply with paragraph (2)(c) or (e).
 
 Period within which statement to be provided
 
-             (4)  The period stated under paragraph (2)(d) must end at least 14 days after the day on which the notice is given.
+             (4)  The period stated under paragraph (2)(d) must end at least 14 days after the day on which the notice is given.
 
 Statement must be in approved form
 
-             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
+             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
 
 Refusal or failure to comply with notice
 
-             (6)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
+             (6)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under subsection (1) to the extent that the person is capable of complying with the notice.
 
                     Penalty:  Imprisonment for 6 months.
 
-Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
 Application overseas
 
@@ -6393,7 +6347,7 @@ Application overseas
 
                      (b)  all people irrespective of their nationality or citizenship.
 
-### Division 9—Continuation, variation and termination
+### Division 9—Continuation, variation and termination
 
 #### Subdivision A—General
 
@@ -6407,23 +6361,23 @@ Application overseas
 
 continues in effect until:
 
-                     (c)  the supplement ceases to be payable under section 1061PZT, 1061PZU or 1061PZV; or
+                     (c)  the supplement ceases to be payable under section 1061PZT, 1061PZU or 1061PZV; or
 
-                     (d)  a further determination in relation to the supplement under section 1061PZX or 1061PZY has taken effect.
+                     (d)  a further determination in relation to the supplement under section 1061PZX or 1061PZY has taken effect.
 
-Note 1:       For paragraph (a) see section 1061PZE.
+Note 1:       For paragraph (a) see section 1061PZE.
 
-Note 2:       For paragraph (b) see section 1061PZZA—this paragraph is relevant if the determination in question reverses an earlier cancellation or suspension.
+Note 2:       For paragraph (b) see section 1061PZZA—this paragraph is relevant if the determination in question reverses an earlier cancellation or suspension.
 
-Note 3:       For paragraph (d) see also section 1061PZZ.
+Note 3:       For paragraph (d) see also section 1061PZZ.
 
 #### Subdivision B—Automatic termination
 
-##### <a id="1061PZT"></a>1061PZT  Automatic termination—compliance with section 1061PZQ notification obligations
+##### <a id="1061PZT"></a>1061PZT  Automatic termination—compliance with section 1061PZQ notification obligations
 
                    If:
 
-                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZQ; and
+                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZQ; and
 
                      (b)  the notice requires the person to tell the Department of the occurrence of an event or change in circumstances within a stated period (**_notification period_**); and
 
@@ -6441,11 +6395,11 @@ Note 3:       For paragraph (d) see also section 1061PZZ.
 
 the supplement continues to be payable to the person until the end of the notification period and then ceases to be payable to the person.
 
-##### <a id="1061PZU"></a>1061PZU  Automatic termination—non-compliance with section 1061PZQ notification obligations
+##### <a id="1061PZU"></a>1061PZU  Automatic termination—non-compliance with section 1061PZQ notification obligations
 
                    If:
 
-                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZQ; and
+                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZQ; and
 
                      (b)  the notice requires the person to tell the Department of the occurrence of an event or change in circumstances within a stated period (**_notification period_**); and
 
@@ -6461,27 +6415,27 @@ the supplement continues to be payable to the person until the end of the notifi
 
 the supplement ceases to be payable to the person immediately before the day on which the event or change in circumstances occurs.
 
-##### <a id="1061PZV"></a>1061PZV  Automatic termination—failure to provide section 1061PZR statement
+##### <a id="1061PZV"></a>1061PZV  Automatic termination—failure to provide section 1061PZR statement
 
 Supplement ceases to be payable
 
              (1)  If:
 
-                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZR requiring the person to give the Department a statement; and
+                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZR requiring the person to give the Department a statement; and
 
                      (b)  the notice relates to the payment of the supplement in respect of a period stated in the notice; and
 
                      (c)  the person does not comply with the notice;
 
-then, subject to subsection (2), the supplement ceases to be payable to the person as from the first day in that period.
+then, subject to subsection (2), the supplement ceases to be payable to the person as from the first day in that period.
 
 Secretary may determine that supplement continues
 
-             (2)  If the Secretary is satisfied that, in the special circumstances of the case, it is appropriate to do so, the Secretary may determine in writing that subsection (1) does not apply to the person from a day stated in the determination.
+             (2)  If the Secretary is satisfied that, in the special circumstances of the case, it is appropriate to do so, the Secretary may determine in writing that subsection (1) does not apply to the person from a day stated in the determination.
 
 Stated day
 
-             (3)  The day stated under subsection (2) may be before or after the making of the determination.
+             (3)  The day stated under subsection (2) may be before or after the making of the determination.
 
 ##### <a id="1061PZW"></a>1061PZW  Changes to payments by computer following automatic termination
 
@@ -6495,7 +6449,7 @@ Stated day
 
 there is taken to be a decision by the Secretary that the automatic termination provision applies to the person’s supplement.
 
-Note:          The decision that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
+Note:          The decision that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
 
 #### Subdivision C—Determinations
 
@@ -6503,23 +6457,23 @@ Note:          The decision that is taken to have been made is
 
                    If the Secretary is satisfied that a pensioner education supplement is being, or has been, paid to a person to whom it is not, or was not, payable under this Act, the Secretary is to determine that the supplement is to be cancelled or suspended.
 
-Note 1:       A determination under this section is not necessary if an automatic termination is produced by section 1061PZT, 1061PZU or 1061PZV (see section 1061PZS).
+Note 1:       A determination under this section is not necessary if an automatic termination is produced by section 1061PZT, 1061PZU or 1061PZV (see section 1061PZS).
 
-Note 2:       For the date of effect of a determination under this section see section 1061PZZC.
+Note 2:       For the date of effect of a determination under this section see section 1061PZZC.
 
-##### <a id="1061PZY"></a>1061PZY  Cancellation or suspension for failure to comply with section 1061PZR, 1304 or 1305 notice
+##### <a id="1061PZY"></a>1061PZY  Cancellation or suspension for failure to comply with section 1061PZR, 1304 or 1305 notice
 
                    If:
 
-                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZR, 1304 or 1305; and
+                     (a)  a person who is receiving a pensioner education supplement is given a notice under section 1061PZR, 1304 or 1305; and
 
                      (b)  the person does not comply with the requirements set out in the notice;
 
 the Secretary may determine that the supplement is to be cancelled or suspended.
 
-Note 1:       This section will not apply if section 1061PZT or 1061PZX applies.
+Note 1:       This section will not apply if section 1061PZT or 1061PZX applies.
 
-Note 2:       For the date of effect of a determination under this section see section 1061PZZC.
+Note 2:       For the date of effect of a determination under this section see section 1061PZZC.
 
 ##### <a id="1061PZZ"></a>1061PZZ  Changes to payments by computer
 
@@ -6533,7 +6487,7 @@ Note 2:       For the date of effect of a determination under this s
 
 the change is taken to have been made because of a determination by the Secretary for that reason.
 
-Note:          The determination that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
+Note:          The determination that is taken to have been made is a decision of an officer for the purposes of review by the Secretary (see sections 1239 and 1240) and the Social Security Appeals Tribunal (see section 1247).
 
 ##### <a id="1061PZZA"></a>1061PZZA  Resumption of payment after cancellation or suspension
 
@@ -6541,7 +6495,7 @@ Secretary to determine supplement payable
 
              (1)  If the Secretary:
 
-                     (a)  cancels or suspends a person’s pensioner education supplement under section 1061PZX or 1061PZY; and
+                     (a)  cancels or suspends a person’s pensioner education supplement under section 1061PZX or 1061PZY; and
 
                      (b)  reconsiders the decision to cancel or suspend; and
 
@@ -6555,9 +6509,9 @@ the Secretary is to determine that a pensioner education supplement was or is pa
 
 Reconsideration on application or Secretary’s initiative
 
-             (2)  The reconsideration referred to in paragraph (1)(b) may be a reconsideration of an application under section 1240 for review or a reconsideration on the Secretary’s own initiative.
+             (2)  The reconsideration referred to in paragraph (1)(b) may be a reconsideration of an application under section 1240 for review or a reconsideration on the Secretary’s own initiative.
 
-Note:          For the date of effect of a determination under this section see section 1061PZZB.
+Note:          For the date of effect of a determination under this section see section 1061PZZB.
 
 #### Subdivision D—Date of effect of determination
 
@@ -6565,7 +6519,7 @@ Note:          For the date of effect of a determination under
 
 Method of working out date
 
-             (1)  The day on which a determination under section 1061PZZA (**_favourable determination_**) takes effect is worked out in accordance with this section.
+             (1)  The day on which a determination under section 1061PZZA (**_favourable determination_**) takes effect is worked out in accordance with this section.
 
 Notified decision—review sought within 3 months
 
@@ -6575,7 +6529,7 @@ Notified decision—review sought within 3 months
 
                      (b)  a notice is given to the person to whom the supplement is payable telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a favourable determination is made as a result of the application for review;
 
@@ -6589,7 +6543,7 @@ Notified decision—review sought after 3 months
 
                      (b)  a notice is given to the person to whom the supplement is payable telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 more than 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 more than 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a favourable determination is made as a result of the application for review;
 
@@ -6603,7 +6557,7 @@ Decision not notified
 
                      (b)  no notice is given to the person to whom the supplement is payable telling the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
 
                      (d)  a favourable determination is made as a result of the application for review;
 
@@ -6621,13 +6575,13 @@ Other determinations
 
 General
 
-             (1)  The day on which a determination under section 1061PZX or 1061PZY (**_adverse determination_**) takes effect is worked out in accordance with this section.
+             (1)  The day on which a determination under section 1061PZX or 1061PZY (**_adverse determination_**) takes effect is worked out in accordance with this section.
 
-Note:          If the adverse determination depends on a discretion or opinion and a person affected by the determination applies for review, the Secretary may continue payment pending the outcome of the review (see section 1241 (internal review) and section 1251 (review by Social Security Appeals Tribunal)).
+Note:          If the adverse determination depends on a discretion or opinion and a person affected by the determination applies for review, the Secretary may continue payment pending the outcome of the review (see section 1241 (internal review) and section 1251 (review by Social Security Appeals Tribunal)).
 
 Date determination takes effect
 
-             (2)  Subject to subsection (6), the adverse determination takes effect on:
+             (2)  Subject to subsection (6), the adverse determination takes effect on:
 
                      (a)  the day on which the determination is made; or
 
@@ -6635,17 +6589,17 @@ Date determination takes effect
 
 Later date than determination
 
-             (3)  Subject to subsections (4) and (5), the day stated under paragraph (2)(b) must be later than the day on which the determination is made.
+             (3)  Subject to subsections (4) and (5), the day stated under paragraph (2)(b) must be later than the day on which the determination is made.
 
 Contravention of Act by person whose supplement is affected
 
              (4)  If:
 
-                     (a)  the person whose supplement is affected by the adverse determination has contravened a provision of this Act (other than section 1061PZR, 1304, 1305, 1306 or 1307); and
+                     (a)  the person whose supplement is affected by the adverse determination has contravened a provision of this Act (other than section 1061PZR, 1304, 1305, 1306 or 1307); and
 
                      (b)  the contravention causes a delay in making the determination;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
 False statement or misrepresentation—suspension or cancellation
 
@@ -6655,17 +6609,17 @@ False statement or misrepresentation—suspension or cancellation
 
                      (b)  because of the false statement or misrepresentation, the supplement has been paid to a person when it should have been cancelled or suspended;
 
-the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
+the day stated under paragraph (2)(b) may be earlier than the day on which the determination is made.
 
-Section 1061PZR statements
+Section 1061PZR statements
 
-             (6)  If the adverse determination is made following a person having given the Department a statement about a matter in accordance with section 1061PZR, the determination takes effect on the day on which the matter arose.
+             (6)  If the adverse determination is made following a person having given the Department a statement about a matter in accordance with section 1061PZR, the determination takes effect on the day on which the matter arose.
 
-## 6  At the end of Part 3.13
+## 6  At the end of Part 3.13
 
 Add:
 
-### Division 4—Pensioner education supplement
+### Division 4—Pensioner education supplement
 
 ##### <a id="1162A"></a>1162A  Pensioner education supplement not payable while person in gaol or in psychiatric confinement following criminal charge
 
@@ -6684,11 +6638,11 @@ Note 3:       For **_psychiatric confinement_** see subsections 23(8
 
  
 
-###### Schedule 5—Amendments relating to the Student Financial Supplement Scheme
+###### Schedule 5—Amendments relating to the Student Financial Supplement Scheme
 
-Part 1—Amendment of the Social Security Act 1991
+Part 1—Amendment of the Social Security Act 1991
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Insert the following entry in its appropriate position, determined on a letter-by-letter basis:
 
@@ -6709,7 +6663,7 @@ Insert the following entry in its appropriate position, determined on a letter-b
   </tr>
 </tbody></table>
 
-## 2  Subsection 5(1) (paragraph (ca) of the definition of _prescribed educational scheme_)
+## 2  Subsection 5(1) (paragraph (ca) of the definition of _prescribed educational scheme_)
 
 Omit “the”, substitute “a”.
 
@@ -6721,11 +6675,11 @@ Omit “the Student”, substitute “a Student”.
 
 Insert:
 
-                    <a name="financi-supplem"></a>**_financial supplement_** means financial supplement under the Student Financial Supplement Scheme established under Chapter 2B.
+                    <a name="financi-supplem"></a>**_financial supplement_** means financial supplement under the Student Financial Supplement Scheme established under Chapter 2B.
 
-## 5  Subsection 23(1) (paragraph (b) of the definition of _student assistance benefit decision_)
+## 5  Subsection 23(1) (paragraph (b) of the definition of _student assistance benefit decision_)
 
-After “Scheme”, insert “constituted by Part 4A of the _Student Assistance Act 1973_”.
+After “Scheme”, insert “constituted by Part 4A of the _Student Assistance Act 1973_”.
 
 ## 6  Subsection 23(1) (definition of _Student Financial Supplement Scheme_)
 
@@ -6733,9 +6687,9 @@ Repeal the definition, substitute:
 
                     <a name="student-financi-supplem-scheme"></a>**_Student Financial Supplement Scheme_** means:
 
-                     (a)  the scheme constituted by Part 4A of the _Student Assistance Act 1973_; or
+                     (a)  the scheme constituted by Part 4A of the _Student Assistance Act 1973_; or
 
-                     (b)  the scheme established under Chapter 2B of this Act.
+                     (b)  the scheme established under Chapter 2B of this Act.
 
 ## 7  Paragraph 500V(2)(c) and subparagraph 660XCO(1)(a)(iii)
 
@@ -6749,11 +6703,11 @@ Omit “under the Student Financial Supplement Scheme”.
 
 Omit “the”, substitute “a”.
 
-## 10  After Chapter 2A
+## 10  After Chapter 2A
 
 Insert:
 
-# Chapter 2B—Student Financial Supplement Scheme
+# Chapter 2B—Student Financial Supplement Scheme
 
 ##### <a id="1061ZW"></a>1061ZW  Object of this Chapter
 
@@ -6765,7 +6719,7 @@ Insert:
 
              (2)  The Minister may, from time to time, vary or revoke the scheme by instrument in writing.
 
-             (3)  The scheme, whether as originally established or as varied, must include provisions of the kind mentioned in section 1061ZY, in addition to satisfying the requirements of subsection (1).
+             (3)  The scheme, whether as originally established or as varied, must include provisions of the kind mentioned in section 1061ZY, in addition to satisfying the requirements of subsection (1).
 
              (4)  An instrument under this section has effect according to its terms, despite anything else in this Act or in any other Act.
 
@@ -6777,13 +6731,13 @@ Insert:
 
              (2)  The scheme must provide that the student is not liable to pay interest to the financial corporation in respect of financial supplement received by the student, but must provide for payment by the Commonwealth, without cost to the student, of a subsidy to the financial corporation that includes an amount in lieu of interest.
 
-             (3)  The scheme must provide for the amount of the financial supplement that has to be repaid under a contract to be indexed on 1 June in the year next following the year in which the contract is entered into, and on 1 June in each subsequent year. The amount by which the supplement is increased by indexation is to be owed by the student to the Commonwealth and not to the financial corporation. Under the scheme, the student is to be entitled, but not required, to make early repayments in respect of the supplement during the period of the contract. The scheme is to provide for a discount for any repayments before the end of that period.
+             (3)  The scheme must provide for the amount of the financial supplement that has to be repaid under a contract to be indexed on 1 June in the year next following the year in which the contract is entered into, and on 1 June in each subsequent year. The amount by which the supplement is increased by indexation is to be owed by the student to the Commonwealth and not to the financial corporation. Under the scheme, the student is to be entitled, but not required, to make early repayments in respect of the supplement during the period of the contract. The scheme is to provide for a discount for any repayments before the end of that period.
 
              (4)  The scheme must provide that if financial supplement paid to a student is not repaid in full before the end of the period of the contract, the obligation to repay the outstanding amount of the supplement is assigned to the Commonwealth, and the indexed amount is repayable by the student to the Commonwealth through the taxation system when the student’s income reaches a specified level.
 
-##### <a id="1061ZZ"></a>1061ZZ  Other matters that may be covered in a section 1061ZX instrument
+##### <a id="1061ZZ"></a>1061ZZ  Other matters that may be covered in a section 1061ZX instrument
 
-                   Without limiting section 1061ZX, an instrument under that section may include any provisions that are necessary or convenient for carrying out or giving effect to the scheme, including, for example, provisions relating to the following matters:
+                   Without limiting section 1061ZX, an instrument under that section may include any provisions that are necessary or convenient for carrying out or giving effect to the scheme, including, for example, provisions relating to the following matters:
 
                      (a)  the tertiary students who are eligible to obtain financial supplement;
 
@@ -6813,7 +6767,7 @@ Insert:
 
                      (n)  the delegation of powers conferred on the Secretary under the scheme;
 
-                     (o)  transitional matters arising out of the enactment of this Chapter, the establishment of the scheme and the consequential amendment of Part 4A of the _Student Assistance Act 1973_.
+                     (o)  transitional matters arising out of the enactment of this Chapter, the establishment of the scheme and the consequential amendment of Part 4A of the _Student Assistance Act 1973_.
 
 ##### <a id="1061ZZA"></a>1061ZZA  Secretary may request recipient to give statement of recipient’s tax file number
 
@@ -6861,7 +6815,7 @@ Failure to satisfy request
 
              (3)  In this section:
 
-                    <a name="parent"></a><a name="parent"></a>**_parent_** has the same meaning as in paragraph (b) of the definition of **_parent_** in subsection 5(1).
+                    <a name="parent"></a><a name="parent"></a>**_parent_** has the same meaning as in paragraph (b) of the definition of **_parent_** in subsection 5(1).
 
 ## 11  At the end of subsection 1304(1)
 
@@ -6883,7 +6837,7 @@ Add:
 
 ## 13  Subsection 1305(1)
 
-After “this Act”, insert “, the Student Financial Supplement Scheme established under Chapter 2B”.
+After “this Act”, insert “, the Student Financial Supplement Scheme established under Chapter 2B”.
 
 ## 14  At the end of subsection 1305(9)
 
@@ -6895,7 +6849,7 @@ Add:
 
 ## 15  Paragraph 1306(1)(a)
 
-After “this Act”, insert “, the Student Financial Supplement Scheme established under Chapter 2B”.
+After “this Act”, insert “, the Student Financial Supplement Scheme established under Chapter 2B”.
 
 ## 16  At the end of subsection 1306(8)
 
@@ -6929,7 +6883,7 @@ Add:
 
                      (e)  all persons, irrespective of their nationality, who are obtaining, or have obtained, financial supplement.
 
-## 21  At the end of section 1343
+## 21  At the end of section 1343
 
 Add:
 
@@ -6943,7 +6897,7 @@ Insert:
 
                     (aa)  application for financial supplement; or
 
-_Note:       The heading to section 1344 is altered by inserting “, applications” after “claims”._
+_Note:       The heading to section 1344 is altered by inserting “, applications” after “claims”._
 
 ## 23  At the end of subsection 1345(1)
 
@@ -6965,40 +6919,40 @@ Insert:
 
 After “payment”, insert “or financial supplement”.
 
-_Note:       The heading to section 1351 is altered by omitting “or allowance” and substituting “, allowance or financial supplement”._
+_Note:       The heading to section 1351 is altered by omitting “or allowance” and substituting “, allowance or financial supplement”._
 
 ## 27  Subsection 1363(1)
 
-After “Act”, insert “, and payments by the Commonwealth to financial corporations under the Student Financial Supplement Scheme established under Chapter 2B of this Act,”.
+After “Act”, insert “, and payments by the Commonwealth to financial corporations under the Student Financial Supplement Scheme established under Chapter 2B of this Act,”.
 
-Part 2—Consequential amendments of other Acts
+Part 2—Consequential amendments of other Acts
 
 Data-matching Program (Assistance and Tax) Act 1990
 
-## 28  Subsection 3(1) (subparagraph (b)(iia) of the definition of _personal assistance_)
+## 28  Subsection 3(1) (subparagraph (b)(iia) of the definition of _personal assistance_)
 
 Repeal the subparagraph, substitute:
 
-                           (iia)  financial supplement under the Student Financial Supplement Scheme constituted by Part 4A of the _Student Assistance Act 1973_;
+                           (iia)  financial supplement under the Student Financial Supplement Scheme constituted by Part 4A of the _Student Assistance Act 1973_;
 
-## 29  Subsection 3(1) (after paragraph (ca) of the definition of _personal assistance_)
+## 29  Subsection 3(1) (after paragraph (ca) of the definition of _personal assistance_)
 
 Insert:
 
-                    (cb)  a payment of financial supplement under the Student Financial Supplement Scheme established under Chapter 2B of the _Social Security Act 1991_; or
+                    (cb)  a payment of financial supplement under the Student Financial Supplement Scheme established under Chapter 2B of the _Social Security Act 1991_; or
 
 Veterans’ Entitlements Act 1986
 
 ## 30  Paragraph 118AA(c)
 
-After “Scheme”, insert “constituted by Part 4A of the _Student Assistance Act 1973_ or established under Chapter 2B of the _Social Security Act 1991_”.
+After “Scheme”, insert “constituted by Part 4A of the _Student Assistance Act 1973_ or established under Chapter 2B of the _Social Security Act 1991_”.
 
 
  
 
-###### Schedule 6—Amendment of the Social Security Act 1991 relating to fares allowance
+###### Schedule 6—Amendment of the Social Security Act 1991 relating to fares allowance
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Insert the following entry in its appropriate position, determined on a letter-by-letter basis:
 
@@ -7023,13 +6977,13 @@ Insert the following entry in its appropriate position, determined on a letter-b
 
 Insert:
 
-                    <a name="fare-allow"></a>**_fares allowance_** means fares allowance under an instrument in force under section 1061ZAAA.
+                    <a name="fare-allow"></a>**_fares allowance_** means fares allowance under an instrument in force under section 1061ZAAA.
 
-## 3  At the end of Chapter 2
+## 3  At the end of Chapter 2
 
 Add:
 
-## Part 2.26—Fares allowance
+## Part 2.26—Fares allowance
 
 ##### <a id="1061ZAAA"></a>1061ZAAA  Minister may provide for fares allowance
 
@@ -7041,9 +6995,9 @@ Add:
 
              (4)  An instrument made under this section is a disallowable instrument.
 
-##### <a id="1061ZAAB"></a>1061ZAAB  Matters that may be covered in a section 1061ZAAA instrument
+##### <a id="1061ZAAB"></a>1061ZAAB  Matters that may be covered in a section 1061ZAAA instrument
 
-                   Without limiting section 1061ZAAA, an instrument made under that section may include provisions relating to the following matters:
+                   Without limiting section 1061ZAAA, an instrument made under that section may include provisions relating to the following matters:
 
                      (a)  the tertiary students who are eligible for fares allowance;
 
@@ -7065,7 +7019,7 @@ Add:
 
                       (j)  the recovery by the Commonwealth of amounts paid by way of fares allowance that should not have been paid;
 
-                     (k)  transitional matters arising out of the enactment of this Part and the making of an instrument providing for fares allowance under section 1061ZAAA.
+                     (k)  transitional matters arising out of the enactment of this Part and the making of an instrument providing for fares allowance under section 1061ZAAA.
 
 ## 4  After paragraph 1304(1)(c)
 
@@ -7131,7 +7085,7 @@ Insert:
 
 After “Act”, insert “or of fares allowance”.
 
-## 17  Section 1347
+## 17  Section 1347
 
 Omit “which is:”, substitute “for which the person is not eligible, or which is:”.
 
@@ -7152,17 +7106,17 @@ Insert:
 
  
 
-###### Schedule 7—Amendment of the Social Security Act 1991 relating to indexation
+###### Schedule 7—Amendment of the Social Security Act 1991 relating to indexation
 
-## 1  Section 1190 (table item 2, column 4)
+## 1  Section 1190 (table item 2, column 4)
 
 Omit “\[Benefit Rate Calculator A—point 1067-B1—Table B—column 3A—all amounts]”.
 
-## 2  Section 1190 (table item 3, column 4)
+## 2  Section 1190 (table item 3, column 4)
 
 Omit “\[Benefit Rate Calculator A—point 1067-B1—Table B—column 3B—all amounts]”.
 
-## 3  Section 1190 (table item 3A)
+## 3  Section 1190 (table item 3A)
 
 Repeal the item, substitute:
 
@@ -7177,25 +7131,16 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        3A.
-      </div>
+      <div>3A.</div>
     </td>
     <td>
-      <div>
-        Maximum basic rate for youth allowance
-      </div>
+      <div>Maximum basic rate for youth allowance</div>
     </td>
     <td>
-      <div>
-        YA MBR
-      </div>
+      <div>YA MBR</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-B2—Table BA—column 3—all
-          amounts]
-      </div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-B2—Table BA—column 3—all amounts]</div>
     </td>
   </tr>
   <tr>
@@ -7209,10 +7154,7 @@ Repeal the item, substitute:
       <div> </div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-B3—Table BB—column 3—all
-          amounts]
-      </div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-B3—Table BB—column 3—all amounts]</div>
     </td>
   </tr>
   <tr>
@@ -7226,33 +7168,21 @@ Repeal the item, substitute:
       <div> </div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-B4—Table BC—column 3—all
-          amounts]
-      </div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-B4—Table BC—column 3—all amounts]</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        3B.
-      </div>
+      <div>3B.</div>
     </td>
     <td>
-      <div>
-        Maximum basic rate for austudy payment
-      </div>
+      <div>Maximum basic rate for austudy payment</div>
     </td>
     <td>
-      <div>
-        AP MBR
-      </div>
+      <div>AP MBR</div>
     </td>
     <td>
-      <div>
-        \[Austudy Payment Rate Calculator—point 1067L-B2—Table BA—column 3—all
-          amounts]
-      </div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-B2—Table BA—column 3—all amounts]</div>
     </td>
   </tr>
   <tr>
@@ -7266,19 +7196,16 @@ Repeal the item, substitute:
       <div></div>
     </td>
     <td>
-      <div>
-        \[Austudy Payment Rate Calculator—point 1067L-B3—Table BB—column 3—all
-          amounts]
-      </div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-B3—Table BB—column 3—all amounts]</div>
     </td>
   </tr>
 </tbody></table>
 
-## 4  Section 1190 (table item 18, column 4)
+## 4  Section 1190 (table item 18, column 4)
 
 Omit “\[Benefit Rate Calculator A—point 1067-F13—Table F—column 4—all amounts]”.
 
-## 5  Section 1190 (table item 18AA)
+## 5  Section 1190 (table item 18AA)
 
 Repeal the item, substitute:
 
@@ -7293,42 +7220,33 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        18AA.
-      </div>
+      <div>18AA.</div>
     </td>
     <td>
-      <div>
-        Rate of rent assistance for youth allowance
-      </div>
+      <div>Rate of rent assistance for youth allowance</div>
     </td>
     <td>
-      <div>
-        YA RA
-      </div>
+      <div>YA RA</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-D6—Table DB—column 4—all
-          amounts]
-      </div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-D6—Table DB—column 4—all amounts]</div>
     </td>
   </tr>
 </tbody></table>
 
-## 6  Section 1190 (table item 18A, column 2)
+## 6  Section 1190 (table item 18A, column 2)
 
 Omit “sickness benefit”, substitute “sickness allowance”.
 
-## 7  Section 1190 (table item 18A, column 4)
+## 7  Section 1190 (table item 18A, column 4)
 
 Omit “\[Benefit Rate Calculator A—point 1067-F1A—Table FA—column 3—all amounts]”.
 
-## 8  Section 1190 (table item 18A, column 4)
+## 8  Section 1190 (table item 18A, column 4)
 
 Omit “\[Benefit Rate Calculator A—point 1067-F13—Table F—column 3—rent threshold amounts]”.
 
-## 9  Section 1190 (table item 18B)
+## 9  Section 1190 (table item 18B)
 
 Repeal the item, substitute:
 
@@ -7343,32 +7261,23 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        18B.
-      </div>
+      <div>18B.</div>
     </td>
     <td>
-      <div>
-        Rent threshold rate for youth allowance
-      </div>
+      <div>Rent threshold rate for youth allowance</div>
     </td>
     <td>
-      <div>
-        YA rent threshold
-      </div>
+      <div>YA rent threshold</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-D2—Table DA—column 3—all
-          amounts]
-      </div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-D2—Table DA—column 3—all amounts]</div>
     </td>
   </tr>
 </tbody></table>
 
-## 10  Section 1190 (table item 28, column 4)
+## 10  Section 1190 (table item 28, column 4)
 
-After “\[subsection 408CE(2)—table—column 3—item 1]”, insert:
+After “\[subsection 408CE(2)—table—column 3—item 1]”, insert:
 
 <table>
 <colgroup>
@@ -7391,14 +7300,14 @@ After “\[subsection 408CE(2)—table—column 3—item 1]”, insert:
       <div></div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
   </tr>
 </tbody></table>
 
-## 11  Section 1190 (table item 29, column 4)
+## 11  Section 1190 (table item 29, column 4)
 
-After “\[subsection 408CE(2)—table—column 3—item 2]”, insert:
+After “\[subsection 408CE(2)—table—column 3—item 2]”, insert:
 
 <table>
 <colgroup>
@@ -7411,14 +7320,10 @@ After “\[subsection 408CE(2)—table—column 3—item 2]”, insert:
 <tbody>
   <tr>
     <td>
-      <div>
-        .
-      </div>
+      <div>.</div>
     </td>
     <td>
-      <div>
-        \[paragraph 547C(c)]
-      </div>
+      <div>\[paragraph 547C(c)]</div>
       <div>\[paragraph 573B(b)]</div>
     </td>
     <td>
@@ -7430,9 +7335,9 @@ After “\[subsection 408CE(2)—table—column 3—item 2]”, insert:
   </tr>
 </tbody></table>
 
-## 12  Section 1190 (table item 30, column 4)
+## 12  Section 1190 (table item 30, column 4)
 
-Before “\[subsection 611(2)—table—column 3A—item 2]”, insert:
+Before “\[subsection 611(2)—table—column 3A—item 2]”, insert:
 
 <table>
 <colgroup>
@@ -7448,9 +7353,7 @@ Before “\[subsection 611(2)—table—column 3A—item 2]”, insert:
       <div> </div>
     </td>
     <td>
-      <div>
-        \[paragraph 547C(d)]
-      </div>
+      <div>\[paragraph 547C(d)]</div>
       <div>\[paragraph 573B(c)]</div>
     </td>
     <td>
@@ -7462,9 +7365,9 @@ Before “\[subsection 611(2)—table—column 3A—item 2]”, insert:
   </tr>
 </tbody></table>
 
-## 13  Section 1190 (table item 31, column 4)
+## 13  Section 1190 (table item 31, column 4)
 
-Before “\[subsection 611(2)—table—column 3B—item 2]”, insert:
+Before “\[subsection 611(2)—table—column 3B—item 2]”, insert:
 
 <table>
 <colgroup>
@@ -7480,9 +7383,7 @@ Before “\[subsection 611(2)—table—column 3B—item 2]”, insert:
       <div> </div>
     </td>
     <td>
-      <div>
-        \[paragraph 547C(e)]
-      </div>
+      <div>\[paragraph 547C(e)]</div>
       <div>\[paragraph 573B(d)]</div>
     </td>
     <td>
@@ -7494,7 +7395,7 @@ Before “\[subsection 611(2)—table—column 3B—item 2]”, insert:
   </tr>
 </tbody></table>
 
-## 14  Section 1190 (after table item 33)
+## 14  Section 1190 (after table item 33)
 
 Insert:
 
@@ -7509,62 +7410,57 @@ Insert:
 <tbody>
   <tr>
     <td>
-      <div>
-        33A.
-      </div>
+      <div>33A.</div>
     </td>
     <td>
-      <div>
-        Assets value limit for youth allowance for person who is not independent
-          (see section 1067A)
-      </div>
+      <div>Assets value limit for youth allowance for person who is not independent (see section 1067A)</div>
     </td>
     <td>
-      <div>
-        YA (non-independent) AVL
-      </div>
+      <div>YA (non-independent) AVL</div>
     </td>
     <td>
-      <div>
-        \[paragraph 547C(a)]
-      </div>
+      <div>\[paragraph 547C(a)]</div>
     </td>
   </tr>
 </tbody></table>
 
-## 15  Section 1190 (before table item 41, column 2)
+## 15  Section 1190 (before table item 41, column 2)
 
 Omit “**Parental means test**”, substitute “**Parental income test**”.
 
-## 16  Section 1190 (table item 41, column 3)
+## 16  Section 1190 (table item 41, column 3)
 
 After “parental”, insert “income”.
 
-## 17  Section 1190 (table item 41, column 4)
+## 17  Section 1190 (table item 41, column 4)
 
 Omit “\[Benefit Rate Calculator A—point 1067-G17—Table G— column 1]”, substitute “\[paragraph 1067G-F22(a)]”.
 
-## 18  Section 1190 (table item 42)
+## 18  Section 1190 (table item 42)
 
 Repeal the item.
 
-## 19  Section 1190 (table item 45, column 4)
+## 19  Section 1190 (table item 45, column 4)
 
-Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 1]”.
+Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 1]”.
 
-## 20  Section 1190 (table item 47, column 4)
+## 20  Section 1190 (table item 47, column 4)
 
-Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 2]”.
+Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 2]”.
 
-## 21  Section 1190 (table item 49, column 4)
+## 21  Section 1190 (table item 49, column 4)
 
-Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—items 4 and 5]”.
+Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—items 4 and 5]”.
 
-## 23  Section 1190 (table item 49D, column 4)
+## 22  Section 1190 (table item 49B, column 4)
 
-Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 7]”.
+Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 5]”.
 
-## 24  Section 1190 (table items 49E to 49J)
+## 23  Section 1190 (table item 49D, column 4)
+
+Omit “\[Benefit Rate Calculator A—point 1067-D9—table—column 3—item 7]”.
+
+## 24  Section 1190 (table items 49E to 49J)
 
 Repeal the items, substitute:
 
@@ -7579,14 +7475,10 @@ Repeal the items, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        49E.
-      </div>
+      <div>49E.</div>
     </td>
     <td>
-      <div>
-        Rate of pharmaceutical allowance for a person who:
-      </div>
+      <div>Rate of pharmaceutical allowance for a person who:</div>
       <div>
         (a) is receiving a youth allowance or an austudy payment; and
       </div>
@@ -7595,29 +7487,19 @@ Repeal the items, substitute:
       </div>
     </td>
     <td>
-      <div>
-        PA (YA/AP) single
-      </div>
+      <div>PA (YA/AP) single</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 1—column
-          3]
-      </div>
-      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 1—column
-        3]</div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 1—column 3]</div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 1—column 3]</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        49F.
-      </div>
+      <div>49F.</div>
     </td>
     <td>
-      <div>
-        Rate of pharmaceutical allowance for a person who:
-      </div>
+      <div>Rate of pharmaceutical allowance for a person who:</div>
       <div>
         (a) is receiving a youth allowance or an austudy payment; and
       </div>
@@ -7626,29 +7508,19 @@ Repeal the items, substitute:
       </div>
     </td>
     <td>
-      <div>
-        PA (YA/AP) partnered
-      </div>
+      <div>PA (YA/AP) partnered</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 2—column
-          3]
-      </div>
-      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 2—column
-        3]</div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 2—column 3]</div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 2—column 3]</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        49G.
-      </div>
+      <div>49G.</div>
     </td>
     <td>
-      <div>
-        Rate of pharmaceutical allowance for a person who:
-      </div>
+      <div>Rate of pharmaceutical allowance for a person who:</div>
       <div>
         (a) is receiving a youth allowance or an austudy payment; and
       </div>
@@ -7657,29 +7529,19 @@ Repeal the items, substitute:
       </div>
     </td>
     <td>
-      <div>
-        PA (YA/AP) (item 49G)
-      </div>
+      <div>PA (YA/AP) (item 49G)</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-C3—Table C—items 3 and 4—column
-          3]
-      </div>
-      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—items 3 and 4—column
-        3]</div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-C3—Table C—items 3 and 4—column 3]</div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—items 3 and 4—column 3]</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        49H.
-      </div>
+      <div>49H.</div>
     </td>
     <td>
-      <div>
-        Rate of pharmaceutical allowance for a person who:
-      </div>
+      <div>Rate of pharmaceutical allowance for a person who:</div>
       <div>
         (a) is receiving a youth allowance or an austudy payment; and
       </div>
@@ -7688,29 +7550,19 @@ Repeal the items, substitute:
       </div>
     </td>
     <td>
-      <div>
-        PA (YA/AP) (item 49H)
-      </div>
+      <div>PA (YA/AP) (item 49H)</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 5—column
-          3]
-      </div>
-      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 5—column
-        3]</div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 5—column 3]</div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 5—column 3]</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        49J.
-      </div>
+      <div>49J.</div>
     </td>
     <td>
-      <div>
-        Rate of pharmaceutical allowance for a person who:
-      </div>
+      <div>Rate of pharmaceutical allowance for a person who:</div>
       <div>
         (a) is receiving a youth allowance or an austudy payment; and
       </div>
@@ -7719,30 +7571,24 @@ Repeal the items, substitute:
       </div>
     </td>
     <td>
-      <div>
-        PA (YA/AP) (item 49J)
-      </div>
+      <div>PA (YA/AP) (item 49J)</div>
     </td>
     <td>
-      <div>
-        \[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 6—column
-          3]
-      </div>
-      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 6—column
-        3]</div>
+      <div>\[Youth Allowance Rate Calculator—point 1067G-C3—Table C—item 6—column 3]</div>
+      <div>\[Austudy Payment Rate Calculator—point 1067L-C3—Table C—item 6—column 3]</div>
     </td>
   </tr>
 </tbody></table>
 
-## 25  Section 1190 (table items 3, 18, 45, 47, 49, 49B and 49D)
+## 25  Section 1190 (table items 3, 18, 45, 47, 49, 49B and 49D)
 
 Omit “(other than sickness allowance payable to a person referred to in subsection 709(3))”.
 
-## 26  Section 1190 (table items 18A and 28 to 33)
+## 26  Section 1190 (table items 18A and 28 to 33)
 
 Omit “(other than sickness benefit payable to a person referred to in subsection 709(3))”.
 
-## 27  Subsection 1191(1) (table item 3A)
+## 27  Subsection 1191(1) (table item 3A)
 
 Repeal the item, substitute:
 
@@ -7759,73 +7605,47 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        3A.
-      </div>
+      <div>3A.</div>
     </td>
     <td>
-      <div>
-        YA MBR
-      </div>
+      <div>YA MBR</div>
     </td>
     <td>
-      <div>
-        1 January
-      </div>
+      <div>1 January</div>
     </td>
     <td>
-      <div>
-        June
-      </div>
+      <div>June</div>
     </td>
     <td>
-      <div>
-        highest June quarter before reference quarter (but not earlier than June
-          quarter 1997)
-      </div>
+      <div>highest June quarter before reference quarter (but not earlier than June quarter 1997)</div>
     </td>
     <td>
-      <div>
-        $0.10
-      </div>
+      <div>$0.10</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        3B.
-      </div>
+      <div>3B.</div>
     </td>
     <td>
-      <div>
-        AP MBR
-      </div>
+      <div>AP MBR</div>
     </td>
     <td>
-      <div>
-        1 January
-      </div>
+      <div>1 January</div>
     </td>
     <td>
-      <div>
-        June
-      </div>
+      <div>June</div>
     </td>
     <td>
-      <div>
-        highest June quarter before reference quarter (but not earlier than June
-          quarter 1997)
-      </div>
+      <div>highest June quarter before reference quarter (but not earlier than June quarter 1997)</div>
     </td>
     <td>
-      <div>
-        $0.10
-      </div>
+      <div>$0.10</div>
     </td>
   </tr>
 </tbody></table>
 
-## 28  Subsection 1191(1) (table item 12AA)
+## 28  Subsection 1191(1) (table item 12AA)
 
 Repeal the item, substitute:
 
@@ -7842,34 +7662,22 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        12AA.
-      </div>
+      <div>12AA.</div>
     </td>
     <td>
-      <div>
-        YA RA
-      </div>
+      <div>YA RA</div>
     </td>
     <td>
-      <div>
-        (a) 20 March
-      </div>
+      <div>(a) 20 March</div>
     </td>
     <td>
-      <div>
-        (a) December
-      </div>
+      <div>(a) December</div>
     </td>
     <td>
-      <div>
-        highest June or
-      </div>
+      <div>highest June or</div>
     </td>
     <td>
-      <div>
-        $0.20
-      </div>
+      <div>$0.20</div>
     </td>
   </tr>
   <tr>
@@ -7880,20 +7688,13 @@ Repeal the item, substitute:
       <div> </div>
     </td>
     <td>
-      <div>
-        (b) 20 Sept
-      </div>
+      <div>(b) 20 Sept</div>
     </td>
     <td>
-      <div>
-        (b) June
-      </div>
+      <div>(b) June</div>
     </td>
     <td>
-      <div>
-        December quarter before reference quarter (but not earlier than June quarter
-          1997)
-      </div>
+      <div>December quarter before reference quarter (but not earlier than June quarter 1997)</div>
     </td>
     <td>
       <div> </div>
@@ -7901,7 +7702,7 @@ Repeal the item, substitute:
   </tr>
 </tbody></table>
 
-## 29  Subsection 1191(1) (table item 12B)
+## 29  Subsection 1191(1) (table item 12B)
 
 Repeal the item, substitute:
 
@@ -7918,34 +7719,22 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        12B.
-      </div>
+      <div>12B.</div>
     </td>
     <td>
-      <div>
-        YA
-      </div>
+      <div>YA</div>
     </td>
     <td>
-      <div>
-        (a) 20 March
-      </div>
+      <div>(a) 20 March</div>
     </td>
     <td>
-      <div>
-        (a) December
-      </div>
+      <div>(a) December</div>
     </td>
     <td>
-      <div>
-        highest June or
-      </div>
+      <div>highest June or</div>
     </td>
     <td>
-      <div>
-        $0.20
-      </div>
+      <div>$0.20</div>
     </td>
   </tr>
   <tr>
@@ -7953,25 +7742,16 @@ Repeal the item, substitute:
       <div> </div>
     </td>
     <td>
-      <div>
-        Rent threshold
-      </div>
+      <div>Rent threshold</div>
     </td>
     <td>
-      <div>
-        (b) 20 Sept
-      </div>
+      <div>(b) 20 Sept</div>
     </td>
     <td>
-      <div>
-        (b) June
-      </div>
+      <div>(b) June</div>
     </td>
     <td>
-      <div>
-        December quarter before reference quarter (but not earlier than June quarter
-          1997)
-      </div>
+      <div>December quarter before reference quarter (but not earlier than June quarter 1997)</div>
     </td>
     <td>
       <div> </div>
@@ -7979,7 +7759,7 @@ Repeal the item, substitute:
   </tr>
 </tbody></table>
 
-## 30  Subsection 1191(1) (table item 24)
+## 30  Subsection 1191(1) (table item 24)
 
 Repeal the item, substitute:
 
@@ -7996,43 +7776,31 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        24.
-      </div>
+      <div>24.</div>
     </td>
     <td>
-      <div>
-        YA (non-independent) AVL
-      </div>
+      <div>YA (non-independent) AVL</div>
     </td>
     <td>
-      <div>
-        1 January
-      </div>
+      <div>1 January</div>
     </td>
     <td>
-      <div>
-        June
-      </div>
+      <div>June</div>
     </td>
     <td>
-      <div>
-        most recent June quarter before reference quarter
-      </div>
+      <div>most recent June quarter before reference quarter</div>
     </td>
     <td>
-      <div>
-        $250.00
-      </div>
+      <div>$250.00</div>
     </td>
   </tr>
 </tbody></table>
 
-## 31  Subsection 1191(1) (before table item 30, column 2)
+## 31  Subsection 1191(1) (before table item 30, column 2)
 
 Omit “**Parental means test**”, substitute “**Parental income test**”.
 
-## 32  Subsection 1191(1) (table item 33A)
+## 32  Subsection 1191(1) (table item 33A)
 
 Repeal the item, substitute:
 
@@ -8049,60 +7817,47 @@ Repeal the item, substitute:
 <tbody>
   <tr>
     <td>
-      <div>
-        33A.
-      </div>
+      <div>33A.</div>
     </td>
     <td>
-      <div>
-        PA (YA/AP) partnered (item 49F) and PA (YA/AP) (item 49H)
-      </div>
+      <div>PA (YA/AP) partnered (item 49F) and PA (YA/AP) (item 49H)</div>
     </td>
     <td>
-      <div>
-        1 January
-      </div>
+      <div>1 January</div>
     </td>
     <td>
-      <div>
-        September
-      </div>
+      <div>September</div>
     </td>
     <td>
-      <div>
-        highest September quarter before reference quarter (but not earlier than
-          Sept quarter 1997)
-      </div>
+      <div>highest September quarter before reference quarter (but not earlier than Sept quarter 1997)</div>
     </td>
     <td>
-      <div>
-        $0.10
-      </div>
+      <div>$0.10</div>
     </td>
   </tr>
 </tbody></table>
 
-## 33  Section 1198A (table, column 2)
+## 33  Section 1198A (table, column 2)
 
 Omit “**Benefit Rate Calculator A—point 1067-B1—Table B**” (wherever occurring).
 
-## 34  Section 1198A (table items 1 to 4)
+## 34  Section 1198A (table items 1 to 4)
 
 Repeal the items.
 
-## 35  Section 1198A (table items 9 to 12)
+## 35  Section 1198A (table items 9 to 12)
 
 Repeal the items.
 
-## 36  Section 1198B (table, column 2)
+## 36  Section 1198B (table, column 2)
 
 Omit “**Benefit Rate Calculator A—point 1067-B1—Table B**” (wherever occurring).
 
-## 37  Section 1198B (table items 1 to 4)
+## 37  Section 1198B (table items 1 to 4)
 
 Repeal the items.
 
-## 38  Section 1198B (table items 9 to 12)
+## 38  Section 1198B (table items 9 to 12)
 
 Repeal the items.
 
@@ -8110,18 +7865,18 @@ Repeal the items.
 
 Repeal the subsection, substitute:
 
-             (4)  This Act has effect as if, on 1 January 1999 and on 1 January in each later year, there were substituted for the PA (YA/AP) single rate, the PA (YA/AP) (item 49G) rate and the PA (YA/AP) (item 49J) rate the amount worked out by using the formula:
+             (4)  This Act has effect as if, on 1 January 1999 and on 1 January in each later year, there were substituted for the PA (YA/AP) single rate, the PA (YA/AP) (item 49G) rate and the PA (YA/AP) (item 49J) rate the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image016.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image016.gif)</sub>
 
 where:
 
-                    <a name="current-pa-ya-ap-partner-rate"></a>**_current PA (YA/AP) partnered rate_** means the current figure, as at that 1 January, for the PA (YA/AP) partnered rate.
+                    <a name="current-pa-ya-ap-partner-rate"></a>**_current PA (YA/AP) partnered rate_** means the current figure, as at that 1 January, for the PA (YA/AP) partnered rate.
 
 
  
 
-###### Schedule 8—Amendment of the Social Security Act 1991 relating to Rate Calculators
+###### Schedule 8—Amendment of the Social Security Act 1991 relating to Rate Calculators
 
 ## 1  Subparagraph 38B(6)(a)(iii)
 
@@ -8133,7 +7888,7 @@ Repeal the subparagraph.
 
 ## 3  Paragraph 38B(6)(b)
 
-Omit “526(1)(j)”, substitute “547(c), section 553B or paragraph”.
+Omit “526(1)(j)”, substitute “547(c), section 553B or paragraph”.
 
 ## 4  Paragraphs 408PB(7)(a) and (8)(a)
 
@@ -8155,21 +7910,21 @@ Add “worked out under Module B of Benefit Rate Calculator B”.
 
 Repeal the subsection.
 
-## 9  Section 644A
+## 9  Section 644A
 
 Repeal the section.
 
-## 10  Section 644H (step 1 of the method statement)
+## 10  Section 644H (step 1 of the method statement)
 
 Repeal the step, substitute:
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 1_.   Work out the person’s maximum basic rate of newstart allowance specified in Table B of Module B of Part 3.6 (Benefit Rate Calculator B): the result is called the **_maximum payment rate_**.</div>
+_Step 1._   Work out the person’s maximum basic rate of newstart allowance specified in Table B of Module B of Part 3.6 (Benefit Rate Calculator B): the result is called the **_maximum payment rate_**.</div>
 
-## 11  Section 644H (step 3 of the method statement)
+## 11  Section 644H (step 3 of the method statement)
 
-Omit “Benefit Rate Calculator A in section 1067 or Benefit Rate Calculator B in section 1068, as the case requires”, substitute “Benefit Rate Calculator B in section 1068”.
+Omit “Benefit Rate Calculator A in section 1067 or Benefit Rate Calculator B in section 1068, as the case requires”, substitute “Benefit Rate Calculator B in section 1068”.
 
 ## 12  Paragraphs 660L(7)(a), 660L(8)(a), 660YJR(7)(a), 660YJR(8)(a), 728R(7)(a), 728R(8)(a), 771NS(7)(a) and 771NS(8)(a)
 
@@ -8183,7 +7938,7 @@ Omit “the relevant Benefit Rate Calculator”, substitute “Benefit Rate Calc
 
 Add “and point 1064-E12”.
 
-## 15  Section 1064 (at the end of Module E of Pension Rate Calculator A)
+## 15  Section 1064 (at the end of Module E of Pension Rate Calculator A)
 
 Add:
 
@@ -8199,7 +7954,7 @@ Omit “or a youth training allowance”.
 
 Add “and point 1066-E10”.
 
-## 18  Section 1066 (at the end of Module E of Pension Rate Calculator C)
+## 18  Section 1066 (at the end of Module E of Pension Rate Calculator C)
 
 Add:
 
@@ -8211,7 +7966,7 @@ Add:
 
 Add “and point 1066A-F11”.
 
-## 20  Section 1066A (at the end of Module F of Pension Rate Calculator D)
+## 20  Section 1066A (at the end of Module F of Pension Rate Calculator D)
 
 Add:
 
@@ -8227,7 +7982,7 @@ Partner income free area
 
      1068-G9  The partner income free area for a person is:
 
-                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
+                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
 
                      (b)  if the person’s partner is not receiving a social security benefit and has turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which newstart allowance would not be payable to the partner if the partner were qualified for a newstart allowance; or
 
@@ -8237,7 +7992,7 @@ Partner income free area
 
 Add “and point 1068A-E21”.
 
-## 23  Section 1068A (at the end of Module E of the Pension PP (Single) Rate Calculator)
+## 23  Section 1068A (at the end of Module E of the Pension PP (Single) Rate Calculator)
 
 Add:
 
@@ -8253,7 +8008,7 @@ Partner income free area
 
 1068B-D22  The partner income free area for a person is:
 
-                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
+                     (a)  if the person’s partner is not receiving a social security benefit and has not turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which youth allowance would not be payable to the partner if the partner were qualified for a youth allowance and were not undertaking full-time study (see section 541B); or
 
                      (b)  if the person’s partner is not receiving a social security benefit and has turned 21—the amount of income of the partner (rounded up to the nearest dollar) beyond which newstart allowance would not be payable to the partner if the partner were qualified for a newstart allowance; or
 
@@ -8277,7 +8032,7 @@ Repeal the subparagraph.
 
 ## 29  Subsection 1131(1A)
 
-Omit “section 1067 (Benefit Rate Calculator A)”, substitute “section 1067G (Youth Allowance Rate Calculator)”.
+Omit “section 1067 (Benefit Rate Calculator A)”, substitute “section 1067G (Youth Allowance Rate Calculator)”.
 
 ## 30  Subsection 1132(2) (note)
 
@@ -8289,7 +8044,7 @@ Omit “1067”, substitute “1067G, 1067L”.
 
 ## 32  Subsection 1157A(1) (note 2)
 
-Omit “Module G of Benefit Rate Calculator A in section 1067”, substitute “Module F of the Youth Allowance Rate Calculator in section 1067G”.
+Omit “Module G of Benefit Rate Calculator A in section 1067”, substitute “Module F of the Youth Allowance Rate Calculator in section 1067G”.
 
 ## 33  Subsection 1207(2) (table row relating to Benefit Rate Calculator A)
 
@@ -8308,7 +8063,7 @@ Repeal the row, substitute:
 <tbody>
   <tr>
     <td>
-      <div>Youth Allowance Rate Calculator (section 1067G)</div>
+      <div>Youth Allowance Rate Calculator (section 1067G)</div>
     </td>
     <td>
       <div>Module C</div>
@@ -8328,7 +8083,7 @@ Repeal the row, substitute:
   </tr>
   <tr>
     <td>
-      <div>Austudy Payment Rate Calculator (section 1067L)</div>
+      <div>Austudy Payment Rate Calculator (section 1067L)</div>
     </td>
     <td>
       <div>Module C</div>
@@ -8348,22 +8103,22 @@ Repeal the row, substitute:
   </tr>
 </tbody></table>
 
-## 34  Paragraph 41(3)(f) of Schedule 1A 
+## 34  Paragraph 41(3)(f) of Schedule 1A 
 
 Repeal the paragraph.
 
-## 35  Clause 47 of Schedule 1A
+## 35  Clause 47 of Schedule 1A
 
 Repeal the clause.
 
 
  
 
-###### Schedule 9—Consequential amendments of the Social Security Act 1991
+###### Schedule 9—Consequential amendments of the Social Security Act 1991
 
-Part 1—Amendments relating to definitions
+Part 1—Amendments relating to definitions
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Omit:
 
@@ -8404,7 +8159,7 @@ Omit “or a youth training allowance”.
 
 Repeal the note.
 
-## 5  Subsection 5(1) (paragraph (a) of the definition of _prescribed educational scheme_)
+## 5  Subsection 5(1) (paragraph (a) of the definition of _prescribed educational scheme_)
 
 Repeal the paragraph.
 
@@ -8416,7 +8171,7 @@ Repeal the paragraphs.
 
 Repeal the subsection.
 
-## 8  Subsection 5A(6) (paragraph (b) of the definition of _recipient child_)
+## 8  Subsection 5A(6) (paragraph (b) of the definition of _recipient child_)
 
 Repeal the paragraph.
 
@@ -8452,7 +8207,7 @@ Omit “or a youth training allowance”.
 
 ## 15  Subsection 10A(2)
 
-Omit “Module G of Benefit Rate Calculator A in section 1067”, substitute “Module F of the Youth Allowance Rate Calculator in section 1067G”.
+Omit “Module G of Benefit Rate Calculator A in section 1067”, substitute “Module F of the Youth Allowance Rate Calculator in section 1067G”.
 
 ## 16  Subsections 14A(1) and (2)
 
@@ -8464,7 +8219,7 @@ Omit all the words from and including “but does not include”, substitute:
 
 but does not include:
 
-                     (d)  an amount that is a qualifying eligible termination payment for the purposes of Subdivision AA of Division 2 of Part III of the Income Tax Assessment Act; or
+                     (d)  an amount that is a qualifying eligible termination payment for the purposes of Subdivision AA of Division 2 of Part III of the Income Tax Assessment Act; or
 
                      (e)  in the case of a person who:
 
@@ -8508,7 +8263,7 @@ Insert:
 
                      (c)  since becoming qualified for youth allowance or austudy payments (as the case requires), the person had not already made such a payment in order to discharge that debt in part;
 
-the amount of the payment referred to in paragraph (b) is to be disregarded for the purposes of determining the amount of the person’s liquid assets.
+the amount of the payment referred to in paragraph (b) is to be disregarded for the purposes of determining the amount of the person’s liquid assets.
 
 ## 21  Subsection 14A(6)
 
@@ -8518,9 +8273,9 @@ After “section”, insert “549A, 575A,”.
 
 Add at the end:
 
-               ; or (p)  a youth training allowance under Part 8 of the _Student Assistance Act 1973_ as previously in force.
+               ; or (p)  a youth training allowance under Part 8 of the _Student Assistance Act 1973_ as previously in force.
 
-## 23  Subsection 19C(1) (paragraph (c) of the note)
+## 23  Subsection 19C(1) (paragraph (c) of the note)
 
 Repeal the paragraph.
 
@@ -8528,33 +8283,33 @@ Repeal the paragraph.
 
 After “claim for”, insert “austudy payment or”.
 
-## 25  Section 22 (paragraph (b) of the definition of _review_)
+## 25  Section 22 (paragraph (b) of the definition of _review_)
 
 Omit “_and Youth_”.
 
-## 26  Subsection 23(1) (paragraph (a) of the definition of _activity test breach_)
+## 26  Subsection 23(1) (paragraph (a) of the definition of _activity test breach_)
 
 After “section”, insert “550A, 576A,”.
 
-## 27  Subsection 23(1) (paragraph (a) of the definition of _activity test breach rate reduction period_)
+## 27  Subsection 23(1) (paragraph (a) of the definition of _activity test breach rate reduction period_)
 
 After “section”, insert “557, 582 or”.
 
-## 28  Subsection 23(1) (paragraph (a) of the definition of _activity test non-payment period_)
+## 28  Subsection 23(1) (paragraph (a) of the definition of _activity test non-payment period_)
 
 After “section”, insert “550, 576 or”.
 
-## 29  Subsection 23(1) (paragraph (a) of the definition of _administrative breach rate reduction period_)
+## 29  Subsection 23(1) (paragraph (a) of the definition of _administrative breach rate reduction period_)
 
 After “section”, insert “558, 583 or”.
 
 ## 30  Subsection 23(1) (definition of _approved program of work supplement_)
 
-Add at the end “or under section 556A to a person receiving youth allowance”.
+Add at the end “or under section 556A to a person receiving youth allowance”.
 
 ## 31  Subsection 23(1) (definition of _AUSTUDY allowance_)
 
-Add at the end “, being the scheme under Part 2 of the _Student Assistance Act 1973_ as previously in force”.
+Add at the end “, being the scheme under Part 2 of the _Student Assistance Act 1973_ as previously in force”.
 
 ## 32  Subsection 23(1) (definition of _automatic deferment provision_)
 
@@ -8568,47 +8323,47 @@ Repeal the definition.
 
 Repeal the definition, substitute:
 
-                    <a name="famili-member"></a>**_family member_** has the meaning given by subsections (14) and (15).
+                    <a name="famili-member"></a>**_family member_** has the meaning given by subsections (14) and (15).
 
 ## 35  Subsection 23(1) (definition of _income maintenance period_)
 
 Omit “1067-H5G and 1067-H5H, 1067E-G6G and 1067E-G6H”, substitute “1067G-H11 and 1067G-H12, 1067L-D5 and 1067L-D6”.
 
-## 36  Subsection 23(1) (after paragraph (b) of the definition of _newly arrived resident’s waiting period_)
+## 36  Subsection 23(1) (after paragraph (b) of the definition of _newly arrived resident’s waiting period_)
 
 Insert:
 
-                     (c)  a youth allowance newly arrived resident’s waiting period under section 549D; or
+                     (c)  a youth allowance newly arrived resident’s waiting period under section 549D; or
 
-                    (ca)  an austudy payment newly arrived resident’s waiting period under section 575D; or
+                    (ca)  an austudy payment newly arrived resident’s waiting period under section 575D; or
 
-                    (cb)  a pensioner education supplement newly arrived resident’s waiting period under section 1061PU; or
+                    (cb)  a pensioner education supplement newly arrived resident’s waiting period under section 1061PU; or
 
-## 37  Subsection 23(1) (after paragraph (ga) of the definition of _recipient notification notice_)
-
-Insert:
-
-                     (h)  section 561B (youth allowance); or
-
-                    (ha)  section 586B (austudy payment); or
-
-                    (hb)  section 1061PZQ (pensioner education supplement); or
-
-## 38  Subsection 23(1) (after paragraph (ga) of the definition of _recipient statement notice_)
+## 37  Subsection 23(1) (after paragraph (ga) of the definition of _recipient notification notice_)
 
 Insert:
 
-                     (h)  section 561C (youth allowance); or
+                     (h)  section 561B (youth allowance); or
 
-                    (ha)  section 586C (austudy payment); or
+                    (ha)  section 586B (austudy payment); or
 
-                    (hb)  section 1061PZR (pensioner education supplement); or
+                    (hb)  section 1061PZQ (pensioner education supplement); or
 
-## 39  Subsection 23(1) (subparagraph (b)(ii) of the definition of _Secretary_)
+## 38  Subsection 23(1) (after paragraph (ga) of the definition of _recipient statement notice_)
+
+Insert:
+
+                     (h)  section 561C (youth allowance); or
+
+                    (ha)  section 586C (austudy payment); or
+
+                    (hb)  section 1061PZR (pensioner education supplement); or
+
+## 39  Subsection 23(1) (subparagraph (b)(ii) of the definition of _Secretary_)
 
 Omit “_and Youth_”.
 
-## 40  Subsection 23(1) (after paragraph (aa) of the definition of _social security benefit_)
+## 40  Subsection 23(1) (after paragraph (aa) of the definition of _social security benefit_)
 
 Insert:
 
@@ -8616,7 +8371,7 @@ Insert:
 
                   (aac)  austudy payment; or
 
-## 41  Subsection 23(1) (after paragraph (g) of the definition of _social security entitlement_)
+## 41  Subsection 23(1) (after paragraph (g) of the definition of _social security entitlement_)
 
 Insert:
 
@@ -8624,15 +8379,15 @@ Insert:
 
                     (hb)  an austudy payment; or
 
-## 42  Subsection 23(1) (paragraph (a) of the definition of _social security recipient status_)
+## 42  Subsection 23(1) (paragraph (a) of the definition of _social security recipient status_)
 
 Omit “job search allowance” (first occurring), substitute “youth allowance, an austudy payment”.
 
-## 43  Subsection 23(1) (paragraphs (a) and (b) of the definition of _social security recipient status_)
+## 43  Subsection 23(1) (paragraphs (a) and (b) of the definition of _social security recipient status_)
 
 Omit “a job search allowance,”.
 
-## 44  Subsection 23(1) (paragraphs (c), (fd) and (i) of the definition of _waiting period_)
+## 44  Subsection 23(1) (paragraphs (c), (fd) and (i) of the definition of _waiting period_)
 
 Repeal the paragraphs.
 
@@ -8660,33 +8415,33 @@ Repeal the subsection.
 
 After “sections”, insert “549A to 549C, 575A to 575C,”.
 
-## 51  At the end of section 23
+## 51  At the end of section 23
 
 Add:
 
-           (14)  For the purposes of this Act other than Part 2.11 and the Youth Allowance Rate Calculator in section 1067G, each of the following is a **_family member_** in relation to a person (the **_relevant person_**):
+           (14)  For the purposes of this Act other than Part 2.11 and the Youth Allowance Rate Calculator in section 1067G, each of the following is a **_family member_** in relation to a person (the **_relevant person_**):
 
                      (a)  the partner, father or mother of the relevant person;
 
                      (b)  a sister, brother or child of the relevant person;
 
-                     (c)  any other person who, in the opinion of the Secretary, should be treated for the purposes of this definition as one of the relevant person’s relations described in paragraph (a) or (b).
+                     (c)  any other person who, in the opinion of the Secretary, should be treated for the purposes of this definition as one of the relevant person’s relations described in paragraph (a) or (b).
 
-           (15)  For the purposes of Part 2.11 and the Youth Allowance Rate Calculator in section 1067G, each of the following is a **_family member_** in relation to a person (the **_relevant person_**):
+           (15)  For the purposes of Part 2.11 and the Youth Allowance Rate Calculator in section 1067G, each of the following is a **_family member_** in relation to a person (the **_relevant person_**):
 
                      (a)  a parent of the relevant person;
 
                      (b)  a child of a parent of the relevant person who is wholly or substantially dependent on the parent, being either a child under 16 or a child who:
 
-                              (i)  is at least 16 years of age but has not yet attained the maximum age for youth allowance under section 543B (disregarding subsection 543B(2)); and
+                              (i)  is at least 16 years of age but has not yet attained the maximum age for youth allowance under section 543B (disregarding subsection 543B(2)); and
 
-                             (ii)  is not independent (see section 1067A); and
+                             (ii)  is not independent (see section 1067A); and
 
                             (iii)  is not receiving a pension, benefit or allowance referred to in Module L of the Rate Calculator.
 
-Note:          For parent see subsection 5(1), paragraph (b) of the definition of **_parent_**.
+Note:          For parent see subsection 5(1), paragraph (b) of the definition of **_parent_**.
 
-Part 2—Amendments relating to newstart allowance
+Part 2—Amendments relating to newstart allowance
 
 ## 52  Subparagraph 593(1)(g)(i)
 
@@ -8702,7 +8457,7 @@ Omit “youth training allowance” (wherever occurring), substitute “youth al
 
 ## 55  Subsection 593(1) (note 12)
 
-Omit “section 67 of the _Student and Youth Assistance Act 1973_”, substitute “section 540C”.
+Omit “section 67 of the _Student and Youth Assistance Act 1973_”, substitute “section 540C”.
 
 ## 56  Subparagraph 593(1B)(b)(i)
 
@@ -8726,7 +8481,7 @@ Omit “youth training allowance” (wherever occurring), substitute “youth al
 
 ## 61  Subsection 593(2) (note 9)
 
-Omit “section 67 of the _Student and Youth Assistance Act 1973_”, substitute “section 540C”.
+Omit “section 67 of the _Student and Youth Assistance Act 1973_”, substitute “section 540C”.
 
 ## 62  Subsection 593(2B)
 
@@ -8802,21 +8557,21 @@ After “work”, insert “or study”.
 
 Omit “youth training allowance”, substitute “youth allowance”.
 
-## 78  Section 643
+## 78  Section 643
 
 Repeal the section, substitute:
 
 ##### <a id="643"></a>643  How to work out a person’s newstart allowance rate
 
-                   A person’s newstart allowance rate is to be worked out using Benefit Rate Calculator B at the end of section 1068.
+                   A person’s newstart allowance rate is to be worked out using Benefit Rate Calculator B at the end of section 1068.
 
-Note:          For double payments on release from gaol see section 1161.
+Note:          For double payments on release from gaol see section 1161.
 
-## 79  Section 644A
+## 79  Section 644A
 
 Repeal the section.
 
-Part 3—Amendments relating to sickness allowance
+Part 3—Amendments relating to sickness allowance
 
 ## 80  Paragraph 666(1)(a)
 
@@ -8870,11 +8625,11 @@ Note:          For **_transferee to sickness allowance_** see 
 
 Repeal the subsection, substitute:
 
-             (3)  The liquid assets test waiting period in relation to the claim is to be worked out under subsections (3A), (3B) and (3C).
+             (3)  The liquid assets test waiting period in relation to the claim is to be worked out under subsections (3A), (3B) and (3C).
 
           (3A)  Work out the number of formula weeks (disregarding any fractions of a week) in relation to the claim using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image017.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image017.gif)</sub>
 
 where:
 
@@ -8890,7 +8645,7 @@ where:
 
           (3B)  If the number of formula weeks is equal to or greater than 13 weeks, the liquid assets test waiting period in relation to the claim is 13 weeks.
 
-          (3C)  If subsection (3B) does not apply, the liquid assets test waiting period in relation to the claim is the number of weeks equal to the number of formula weeks.
+          (3C)  If subsection (3B) does not apply, the liquid assets test waiting period in relation to the claim is the number of weeks equal to the number of formula weeks.
 
 ## 92  At the end of subsection 676(4)
 
@@ -8900,7 +8655,7 @@ Add “or study”.
 
 Add “or study”.
 
-## 94  Paragraph 676(4A)(c)
+## 94  Paragraph 676(4A)(c)
 
 After “work” (first occurring), insert “or study”.
 
@@ -8916,9 +8671,9 @@ Repeal the subsection, substitute:
 
                      (a)  a person becomes qualified for austudy payment; and
 
-                     (b)  because of paragraph 572(c), austudy payment is not payable to the person while the person is subject to a liquid assets test waiting period (see section 575A); and
+                     (b)  because of paragraph 572(c), austudy payment is not payable to the person while the person is subject to a liquid assets test waiting period (see section 575A); and
 
-                     (c)  within the liquid assets test waiting period referred to in paragraph (b):
+                     (c)  within the liquid assets test waiting period referred to in paragraph (b):
 
                               (i)  the person becomes incapacitated for study; and
 
@@ -8934,25 +8689,25 @@ Repeal the subsection.
 
 Repeal the subsection.
 
-## 99  Section 709
+## 99  Section 709
 
 Repeal the section, substitute:
 
 ##### <a id="709"></a>709  How to work out a person’s sickness allowance rate
 
-                   A person’s sickness allowance rate is to be worked out using Benefit Rate Calculator B at the end of section 1068.
+                   A person’s sickness allowance rate is to be worked out using Benefit Rate Calculator B at the end of section 1068.
 
-## 100  Sections 713 and 714
+## 100  Sections 713 and 714
 
 Repeal the sections.
 
-Part 4—Amendments relating to family allowance
+Part 4—Amendments relating to family allowance
 
 ## 101  Paragraph 838(1A)(a)
 
 Omit “, youth training allowance”.
 
-## 102  Section 843
+## 102  Section 843
 
 Add at the end:
 
@@ -8968,15 +8723,15 @@ Add at the end:
 
 that person’s provisional commencement day is the day on which the initial claim is made.
 
-## 103  At the end of section 894
+## 103  At the end of section 894
 
 Add:
 
-             ; and (c)  subject to subsection (2), the child’s age during the bereavement rate continuation period were taken to be the age of the child when he or she died.
+             ; and (c)  subject to subsection (2), the child’s age during the bereavement rate continuation period were taken to be the age of the child when he or she died.
 
-             (2)  Paragraph (1)(c) does not apply to a child who was 12 years of age when he or she died.
+             (2)  Paragraph (1)(c) does not apply to a child who was 12 years of age when he or she died.
 
-## 104  Subsection 1069-B2(1) (table item 3)
+## 104  Subsection 1069-B2(1) (table item 3)
 
 Omit “$55.70”, substitute “$23.50”.
 
@@ -8990,7 +8745,7 @@ Add:
 
 After “include”, insert “a pensioner education supplement or”.
 
-Part 5—Amendment relating to child disability allowance
+Part 5—Amendment relating to child disability allowance
 
 ## 107  After subparagraph 953(b)(iii)
 
@@ -8998,7 +8753,7 @@ Insert:
 
                            (iiia)  the child receiving youth allowance; or
 
-Part 6—Amendments relating to family tax payments
+Part 6—Amendments relating to family tax payments
 
 ## 108  After subsection 900AA(1)
 
@@ -9008,19 +8763,19 @@ Insert:
 
                      (a)  but for paragraph 5(6)(b), the young person would be a dependent child of that other person; and
 
-                     (b)  the young person is not independent within the meaning of section 1067A; and 
+                     (b)  the young person is not independent within the meaning of section 1067A; and 
 
                      (c)  the young person is under 18 years of age and is undertaking full-time secondary study.
 
 ## 109  Subsection 900AA(3)
 
-Omit “subsection (4)”, substitute “subsections (1A) and (4)”.
+Omit “subsection (4)”, substitute “subsections (1A) and (4)”.
 
 ## 110  After subsection 900AD(3)
 
 Insert:
 
-          (3A)  Subject to subsections (5) and (6), a person is qualified for family tax payment if:
+          (3A)  Subject to subsections (5) and (6), a person is qualified for family tax payment if:
 
                      (a)  the person has at least one FTP child; and
 
@@ -9032,21 +8787,21 @@ Insert:
 
                      (c)  the person has a notional family allowance excess.
 
-Note:          For **_notional family allowance excess_** see subsection (3B).
+Note:          For **_notional family allowance excess_** see subsection (3B).
 
-          (3B)  Use the Method statement below to work out if a person has a notional family allowance excess for the purposes of subsection (3A).
+          (3B)  Use the Method statement below to work out if a person has a notional family allowance excess for the purposes of subsection (3A).
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Method statement_
 
-_Step 1_. Work out the person’s family allowance rate using the Family Allowance Rate Calculator in section 1069 as if the amount in column 3 of item 3 of Table B in point 1069-B2 were $60.20 and each FTP child of the person were an FA child.
+_Step 1._ Work out the person’s family allowance rate using the Family Allowance Rate Calculator in section 1069 as if the amount in column 3 of item 3 of Table B in point 1069-B2 were $60.20 and each FTP child of the person were an FA child.
 
-_Step 2_. Work out the person’s minimum family allowance rate (see subsection 6(1)) as if each FTP child of the person were an FA child.
+_Step 2._ Work out the person’s minimum family allowance rate (see subsection 6(1)) as if each FTP child of the person were an FA child.
 
-_Step 3_.   If the person’s family allowance rate is greater than the person’s minimum family allowance rate, the person has a **_notional family allowance excess_**.</div>
+_Step 3._   If the person’s family allowance rate is greater than the person’s minimum family allowance rate, the person has a **_notional family allowance excess_**.</div>
 
-Part 7—Amendments relating to education leaver’s waiting period
+Part 7—Amendments relating to education leaver’s waiting period
 
 ## 111  Paragraph 608(1)(h)
 
@@ -9056,7 +8811,7 @@ Repeal the paragraph.
 
 Repeal the subsection.
 
-## 113  Subsection 616(2) (paragraph (c) of note 2)
+## 113  Subsection 616(2) (paragraph (c) of note 2)
 
 Repeal the paragraph.
 
@@ -9064,7 +8819,7 @@ Repeal the paragraph.
 
 Repeal the note.
 
-## 115  Subsection 616A(2) (paragraph (c) of note 1)
+## 115  Subsection 616A(2) (paragraph (c) of note 1)
 
 Repeal the paragraph.
 
@@ -9076,7 +8831,7 @@ Repeal the note.
 
 Repeal the note.
 
-## 118  Sections 622, 623 and 623AA
+## 118  Sections 622, 623 and 623AA
 
 Repeal the sections.
 
@@ -9088,7 +8843,7 @@ Repeal the paragraph.
 
 Repeal the subsection.
 
-## 121  Subsection 688(2) (paragraph (c) of note 1)
+## 121  Subsection 688(2) (paragraph (c) of note 1)
 
 Repeal the paragraph.
 
@@ -9104,11 +8859,11 @@ Repeal the note.
 
 Repeal the note.
 
-## 125  Sections 695, 696 and 696A
+## 125  Sections 695, 696 and 696A
 
 Repeal the sections.
 
-Part 8—Amendments relating to education entry payments and employment entry payments
+Part 8—Amendments relating to education entry payments and employment entry payments
 
 ## 126  Paragraph 661(1)(a)
 
@@ -9118,7 +8873,7 @@ Omit “18”, substitute “21”.
 
 Omit “a job search allowance or”.
 
-## 128  Sections 663 and 664
+## 128  Sections 663 and 664
 
 Repeal the sections.
 
@@ -9132,7 +8887,7 @@ Repeal the paragraphs, substitute:
 
                      (b)  a pension education supplement is payable to the person; and
 
-Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
+Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
 
 ## 131  Paragraphs 665E(b) and (c)
 
@@ -9140,7 +8895,7 @@ Repeal the paragraphs, substitute:
 
                      (b)  a pension education supplement is payable to the person; and
 
-Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
+Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
 
 ## 132  Paragraphs 665I(b) and (c)
 
@@ -9148,7 +8903,7 @@ Repeal the paragraphs, substitute:
 
                      (b)  a pension education supplement is payable to the person; and
 
-Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
+Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
 
 ## 133  Paragraphs 665M(c) and (d)
 
@@ -9156,13 +8911,13 @@ Repeal the paragraphs, substitute:
 
                      (c)  a pensioner education supplement is payable to the person; and
 
-Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
+Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
 
-## 134  Division 6 of Part 2.13A (heading)
+## 134  Division 6 of Part 2.13A (heading)
 
 Repeal the heading, substitute:
 
-### Division 6—Former job search or newstart allowance recipients
+### Division 6—Former job search or newstart allowance recipients
 
 ## 135  Subparagraph 665U(1)(a)(i)
 
@@ -9198,13 +8953,13 @@ Repeal the paragraphs, substitute:
 
                      (b)  a pensioner education supplement is payable to the person; and
 
-Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
+Note:       Pensioner education supplement is payable to a person even if a person’s whole payment has been traded in, or traded back, under the Student Financial Supplement Scheme established under Chapter 2B.
 
 ## 143  Subparagraphs 665ZG(a)(i), 665ZL(a)(i) and 665ZQ(a)(i)
 
 Omit “AUSTUDY scheme or”.
 
-Part 9—Amendments relating to incorrect or inappropriate claims
+Part 9—Amendments relating to incorrect or inappropriate claims
 
 ## 144  Subparagraphs 46(2)(a)(ia)
 
@@ -9270,7 +9025,7 @@ Repeal the subparagraph.
 
 Repeal the subparagraph.
 
-Part 10—Amendments relating to claims made by telephone, facsimile or computer
+Part 10—Amendments relating to claims made by telephone, facsimile or computer
 
 ## 160  Subparagraph 100A(1)(a)(iv)
 
@@ -9282,7 +9037,7 @@ Repeal the subparagraph, substitute:
 
 ## 161  Paragraph 500M(1)(a)
 
-After “section 100A”, insert “, 554C, 579C”.
+After “section 100A”, insert “, 554C, 579C”.
 
 ## 162  Subparagraph 615A(1)(a)(iv)
 
@@ -9292,7 +9047,7 @@ Repeal the subparagraph, substitute:
 
                              (v)  an austudy payment; and
 
-## 163  Subparagraph 687A(1)(a)(iv)
+## 163  Subparagraph 687A(1)(a)(iv)
 
 Repeal the subparagraph, substitute:
 
@@ -9300,7 +9055,7 @@ Repeal the subparagraph, substitute:
 
                              (v)  an austudy payment; and
 
-Part 11—Amendments relating to multiple entitlement exclusion provisions
+Part 11—Amendments relating to multiple entitlement exclusion provisions
 
 ## 164  Paragraphs 103(2)(b), 202(2)(b), 321(2)(b) and 500S(3)(b)
 
@@ -9326,7 +9081,7 @@ Omit “, a newstart allowance or a youth training allowance”, substitute “o
 
 Omit “, a youth training allowance”.
 
-Part 12—Amendments relating to automatic termination provisions
+Part 12—Amendments relating to automatic termination provisions
 
 ## 170  Paragraphs 136(b), 175B(b), 225A(b), 225B(c), 344A(b), 392A(b) and 508(2)(b)
 
@@ -9336,7 +9091,7 @@ Omit “, youth training allowance”.
 
 Omit “, a youth training allowance”.
 
-## 172  Sections 175B, 225A, 225B, 344A, 392A, 508, 660A, 660XJB, 660XJC, 728D, 762A and 771NB
+## 172  Sections 175B, 225A, 225B, 344A, 392A, 508, 660A, 660XJB, 660XJC, 728D, 762A and 771NB
 
 Omit “, benefit or allowance”, substitute “or benefit”.
 
@@ -9348,7 +9103,7 @@ Omit “or a youth training allowance”.
 
 Omit “or youth training allowance”.
 
-Part 13—Amendments relating to automatic rate reduction provisions
+Part 13—Amendments relating to automatic rate reduction provisions
 
 ## 175  Subparagraph 73A(b)(ia)
 
@@ -9370,7 +9125,7 @@ Repeal the subparagraph.
 
 Omit “, benefit or allowance”, substitute “or benefit”.
 
-## 180  Section 509A
+## 180  Section 509A
 
 Omit “, benefit or allowance” (last occurring), substitute “or benefit”.
 
@@ -9386,7 +9141,7 @@ Repeal the subparagraph.
 
 Omit “, benefit or allowance”, substitute “or benefit”.
 
-## 184  Section 660XJF
+## 184  Section 660XJF
 
 Omit “, benefit or youth training allowance”, substitute “or benefit”.
 
@@ -9398,7 +9153,7 @@ Omit “(ii) a youth training allowance; or”.
 
 Omit “, benefit or youth training allowance”, substitute “or benefit”.
 
-## 187  Section 728G
+## 187  Section 728G
 
 Omit “, benefit or youth training allowance” (last occurring), substitute “or benefit”.
 
@@ -9410,11 +9165,11 @@ Omit “or a youth training allowance”.
 
 Omit “or youth training allowance”.
 
-## 190  Section 771NH
+## 190  Section 771NH
 
 Omit “or youth training allowance” (last occurring).
 
-Part 14—Amendments relating to mobility allowance
+Part 14—Amendments relating to mobility allowance
 
 ## 191  Subparagraph 1035(ba)(ii)
 
@@ -9424,11 +9179,11 @@ Omit “or youth training allowance under the _Student and Youth Assistance Act 
 
 Repeal the subparagraph, substitute:
 
-                             (ii)  to receive youth allowance for a reason other than the application of section 541A, 544A, 544C, 550, 553B or 565C; or
+                             (ii)  to receive youth allowance for a reason other than the application of section 541A, 544A, 544C, 550, 553B or 565C; or
 
-                            (iii)  to receive an austudy payment for a reason other than the application of section 569, 576 or 590C; or
+                            (iii)  to receive an austudy payment for a reason other than the application of section 569, 576 or 590C; or
 
-Part 15—Amendments relating to special benefit
+Part 15—Amendments relating to special benefit
 
 ## 193  Paragraph 729(2)(ba)
 
@@ -9448,25 +9203,25 @@ Repeal the paragraphs, substitute:
 
                     (da)  the person is not disqualified for a youth allowance for the period because of the operation of:
 
-                              (i)  section 541A (failure to satisfy the activity test); or
+                              (i)  section 541A (failure to satisfy the activity test); or
 
-                             (ii)  section 544 (requirements relating to Youth Allowance Activity Agreements); and
+                             (ii)  section 544 (requirements relating to Youth Allowance Activity Agreements); and
 
-                    (db)  the person is not disqualified for an austudy payment for the period because the person fails to satisfy the activity test within the meaning of section 569; and
+                    (db)  the person is not disqualified for an austudy payment for the period because the person fails to satisfy the activity test within the meaning of section 569; and
 
                     (dc)  youth allowance is not payable to the person for the period and that result is not because of the operation of:
 
-                              (i)  section 550 (application of activity test non-payment period); or
+                              (i)  section 550 (application of activity test non-payment period); or
 
-                             (ii)  section 553B (move to an area of lower employment prospects); or
+                             (ii)  section 553B (move to an area of lower employment prospects); or
 
-                            (iii)  section 565C (failure to comply with section 561C, 1304 or 1305 notices); and
+                            (iii)  section 565C (failure to comply with section 561C, 1304 or 1305 notices); and
 
                     (dd)  austudy payment is not payable to the person for the period and that result is not because of the operation of:
 
-                              (i)  section 576 (application of activity test non-payment period); or
+                              (i)  section 576 (application of activity test non-payment period); or
 
-                             (ii)  section 588D (non-compliance with section 586C notification obligations); and
+                             (ii)  section 588D (non-compliance with section 586C notification obligations); and
 
 ## 197  Subsection 729(4A)
 
@@ -9476,7 +9231,7 @@ Omit “(db) a youth training allowance”, substitute “(dc) a youth allowance
 
 Insert:
 
-          (4B)  For the purposes of paragraph (2)(dd), an austudy payment is taken not to be payable to a person for a period because of the operation of a provision if:
+          (4B)  For the purposes of paragraph (2)(dd), an austudy payment is taken not to be payable to a person for a period because of the operation of a provision if:
 
                      (a)  the person has claimed the payment for the period and the payment is not payable to the person because of the operation of the provision; or
 
@@ -9490,7 +9245,7 @@ Omit “16” (wherever occurring), substitute “18”.
 
 Omit “youth training allowance” (wherever occurring), substitute “youth allowance, austudy payment”.
 
-Part 16—Amendments relating to exclusion from assets test
+Part 16—Amendments relating to exclusion from assets test
 
 ## 201  Subsections 611(1) and (1A)
 
@@ -9508,9 +9263,9 @@ Repeal the subsections, substitute:
 
 Repeal the paragraphs, substitute:
 
-                     (b)  is not independent within the meaning of section 1067A.
+                     (b)  is not independent within the meaning of section 1067A.
 
-Part 17—Amendments relating to the value of the assets of members of couples
+Part 17—Amendments relating to the value of the assets of members of couples
 
 ## 204  Subparagraph 612(1)(b)(ii)
 
@@ -9536,7 +9291,7 @@ Omit “or youth training allowance”.
 
 Omit “or a youth training allowance”.
 
-Part 18—Amendments relating to partner allowance
+Part 18—Amendments relating to partner allowance
 
 ## 210  Subparagraph 771HA(1)(c)(i)
 
@@ -9550,13 +9305,13 @@ Omit “AUSTUDY allowance,”.
 
 Insert:
 
-        (1BA)  For the purposes of paragraph (1)(c), the person’s partner is taken to be receiving youth allowance if the person’s partner would be receiving youth allowance except for the imposition of:
+        (1BA)  For the purposes of paragraph (1)(c), the person’s partner is taken to be receiving youth allowance if the person’s partner would be receiving youth allowance except for the imposition of:
 
-                     (a)  a period of non-payment under Subdivision D of Division 2 of Part 2.11; or
+                     (a)  a period of non-payment under Subdivision D of Division 2 of Part 2.11; or
 
-                     (b)  an employment-related exclusion under section 553A or 553B.
+                     (b)  an employment-related exclusion under section 553A or 553B.
 
-        (1BB)  For the purposes of paragraph (1)(c), the person’s partner is taken to be receiving austudy payment if the person’s partner would be receiving austudy payment except for the imposition of a period of non-payment under Subdivision E of Division 2 of Part 2.11A.
+        (1BB)  For the purposes of paragraph (1)(c), the person’s partner is taken to be receiving austudy payment if the person’s partner would be receiving austudy payment except for the imposition of a period of non-payment under Subdivision E of Division 2 of Part 2.11A.
 
 ## 213  Subsection 771HA(3)
 
@@ -9566,23 +9321,23 @@ Omit “youth training allowance”, substitute “youth allowance, austudy paym
 
 Repeal the paragraph, substitute:
 
-                     (b)  a period of non-payment applies to the person under paragraph 608(1)(j), Subdivision D of Division 2 of Part 2.11 or Subdivision E of Division 2 of Part 2.11A; or
+                     (b)  a period of non-payment applies to the person under paragraph 608(1)(j), Subdivision D of Division 2 of Part 2.11 or Subdivision E of Division 2 of Part 2.11A; or
 
-                     (c)  the person is subject to an employment-related exclusion for a period under section 553B or 553C;
+                     (c)  the person is subject to an employment-related exclusion for a period under section 553B or 553C;
 
-## 215  At the end of subsection 771HA(3)
+## 215  At the end of subsection 771HA(3)
 
 Add:
 
-Note 4:       Subdivision D of Division 2 of Part 2.11 and Subdivision E of Division 2 of Part 2.11A provide respectively for non-payment periods for youth allowance recipients and non-payment periods for austudy payment recipients in certain circumstances.
+Note 4:       Subdivision D of Division 2 of Part 2.11 and Subdivision E of Division 2 of Part 2.11A provide respectively for non-payment periods for youth allowance recipients and non-payment periods for austudy payment recipients in certain circumstances.
 
 ## 216  Subsection 771HA(3A)
 
-Omit “Part 2.12 or Part 8 of the _Student and Youth Assistance Act 1973_”, substitute “Subdivision B of Division 5 of Part 2.11, Subdivision B of Division 5 of Part 2.11A or Subdivision AA of Division 4 of Part 2.12”.
+Omit “Part 2.12 or Part 8 of the _Student and Youth Assistance Act 1973_”, substitute “Subdivision B of Division 5 of Part 2.11, Subdivision B of Division 5 of Part 2.11A or Subdivision AA of Division 4 of Part 2.12”.
 
 ## 217  Subsection 771HA(3B)
 
-Omit “Part 2.12 or Part 8 of the _Student and Youth Assistance Act 1973_”, substitute “Subdivision C of Division 5 of Part 2.11, Subdivision C of Division 5 of Part 2.11A or Subdivision B of Division 4 of Part 2.12”.
+Omit “Part 2.12 or Part 8 of the _Student and Youth Assistance Act 1973_”, substitute “Subdivision C of Division 5 of Part 2.11, Subdivision C of Division 5 of Part 2.11A or Subdivision B of Division 4 of Part 2.12”.
 
 ## 218  Subsection 771KE(2)
 
@@ -9614,7 +9369,7 @@ _Note:       The heading to subsection 771NX(2A) is altered by omitt
 
 Omit “youth training allowance”, substitute “youth allowance or an austudy payment”.
 
-Part 19—Amendments relating to parenting payment
+Part 19—Amendments relating to parenting payment
 
 ## 225  Paragraph 500I(1)(i)
 
@@ -9630,7 +9385,7 @@ Before “615A”, insert “554C, 579C,”.
 
 ## 228  Paragraph 500M(1)(a)
 
-Omit “, or section 91A of the _Student and Youth Assistance Act 1973_,”.
+Omit “, or section 91A of the _Student and Youth Assistance Act 1973_,”.
 
 ## 229  Paragraph 500S(3)(b)
 
@@ -9652,17 +9407,17 @@ Repeal the paragraph.
 
 Repeal the paragraphs, substitute:
 
-                     (c)  a period of non-payment of youth allowance has been applied to the person under Subdivision D of Division 2 of Part 2.11; or
+                     (c)  a period of non-payment of youth allowance has been applied to the person under Subdivision D of Division 2 of Part 2.11; or
 
-                     (d)  the person is subject to an employment-related exclusion for a period under section 553B or 553C; or
+                     (d)  the person is subject to an employment-related exclusion for a period under section 553B or 553C; or
 
-                     (e)  an activity test breach rate reduction period or an administrative breach rate reduction for youth allowance has been applied to the person under Subdivision B or C of Division 5 of Part 2.11; or
+                     (e)  an activity test breach rate reduction period or an administrative breach rate reduction for youth allowance has been applied to the person under Subdivision B or C of Division 5 of Part 2.11; or
 
-                      (f)  a period of non-payment of austudy payment has been applied to the person under Subdivision E of Division 2 of Part 2.11A; or
+                      (f)  a period of non-payment of austudy payment has been applied to the person under Subdivision E of Division 2 of Part 2.11A; or
 
-                     (g)  an activity test breach rate reduction period or an administrative breach rate reduction for austudy payment has been applied to the person under Subdivision B or C of Division 5 of Part 2.11A;
+                     (g)  an activity test breach rate reduction period or an administrative breach rate reduction for austudy payment has been applied to the person under Subdivision B or C of Division 5 of Part 2.11A;
 
-_Note:       The heading to section 500Y is altered by omitting “and youth training allowance” and substituting “, youth allowance and austudy payment”._
+_Note:       The heading to section 500Y is altered by omitting “and youth training allowance” and substituting “, youth allowance and austudy payment”._
 
 ## 234  Paragraph 508(2)(b)
 
@@ -9684,9 +9439,9 @@ Omit “or youth training allowance”.
 
 Omit “an AUSTUDY allowance”, substitute “a payment under the ABSTUDY scheme (the **_ABSTUDY payment_**)”.
 
-_Note:       The headings to sections 508B and 509E are altered by omitting “AUSTUDY allowance” and substituting “a payment under the ABSTUDY scheme”._
+_Note:       The headings to sections 508B and 509E are altered by omitting “AUSTUDY allowance” and substituting “a payment under the ABSTUDY scheme”._
 
-## 239  Section 508B and subsection 509E(2)
+## 239  Section 508B and subsection 509E(2)
 
 Omit “the AUSTUDY allowance”, substitute “the ABSTUDY payment”.
 
@@ -9698,37 +9453,37 @@ Omit “or the AUSTUDY scheme”.
 
 Omit “an AUSTUDY allowance”, substitute “a payment under the ABSTUDY scheme”.
 
-Part 20—Amendments relating to advance payments
+Part 20—Amendments relating to advance payments
 
 ## 242  Subsection 1061A(1)
 
-Omit “subsection (4)”, substitute “this section”.
+Omit “subsection (4)”, substitute “this section”.
 
 ## 243  After subsection 1061A(1)
 
 Insert:
 
-             (2)  The Secretary may determine in writing that paragraph (1)(b) does not apply to a person who has applied for an advance of youth allowance or austudy payment and the determination has effect accordingly. The determination is a disallowable instrument.
+             (2)  The Secretary may determine in writing that paragraph (1)(b) does not apply to a person who has applied for an advance of youth allowance or austudy payment and the determination has effect accordingly. The determination is a disallowable instrument.
 
 ## 244  Subsections 1061EE(1) and (6)
 
 Before “mature age”, insert “youth allowance, austudy payment,”.
 
-_Note:       The heading to section 1061EE is altered by inserting “youth allowance, austudy payment,” before “mature age”._
+_Note:       The heading to section 1061EE is altered by inserting “youth allowance, austudy payment,” before “mature age”._
 
 ## 245  Subsection 1061EE(4)
 
 Before “newstart”, insert “youth allowance, austudy payment or”.
 
-Part 21—Amendments relating to overpayment and debt recovery
+Part 21—Amendments relating to overpayment and debt recovery
 
 ## 246  Subsection 1222(1) (note 1)
 
 Insert the following entry in its appropriate place:
 
-•              section 1227B debts—debts arising under Part 8 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998.
+•              section 1227B debts—debts arising under Part 8 of the _Student Assistance Act 1973_ as in force immediately before 1 July 1998.
 
-## 247  Subsection 1222(2) (after table item 8)
+## 247  Subsection 1222(2) (after table item 8)
 
 Insert:
 
@@ -9770,43 +9525,43 @@ Omit “newstart allowance—the rate of the person’s newstart allowance”, s
 
 Repeal the note, substitute:
 
-Note:          For **_newstart training supplement_** see section 644 and for **_approved program of work supplement_** see sections 556A and 644AAA.
+Note:          For **_newstart training supplement_** see section 644 and for **_approved program of work supplement_** see sections 556A and 644AAA.
 
 ## 250  Paragraph 1223AA(1)(b)
 
-Before “section 658”, insert “section 561C (youth allowance), section 586C (austudy payment),”.
+Before “section 658”, insert “section 561C (youth allowance), section 586C (austudy payment),”.
 
 ## 251  Paragraph 1224AA(1)(a)
 
 Omit “instalment”, substitute “amount”.
 
-## 252  After section 1227A
+## 252  After section 1227A
 
 Insert:
 
-##### <a id="1227B"></a>1227B  Debts arising under Part 8 of the _Student Assistance Act 1973_ as in force before 1 July 1998
+##### <a id="1227B"></a>1227B  Debts arising under Part 8 of the _Student Assistance Act 1973_ as in force before 1 July 1998
 
-                   If an amount that was a debt due to the Commonwealth under Part 8 of the _Student Assistance Act 1973_ (as in force immediately before 1 July 1998) remained still due immediately before that day, that amount is a debt that is due to the Commonwealth under this Act.
+                   If an amount that was a debt due to the Commonwealth under Part 8 of the _Student Assistance Act 1973_ (as in force immediately before 1 July 1998) remained still due immediately before that day, that amount is a debt that is due to the Commonwealth under this Act.
 
 ## 253  Subparagraph 1228(2)(c)(i)
 
-After “Scheme”, insert “, being the scheme under Part 2 of the _Student Assistance Act 1973_ as previously in force”.
+After “Scheme”, insert “, being the scheme under Part 2 of the _Student Assistance Act 1973_ as previously in force”.
 
 ## 254  Paragraph 1228(2)(ca)
 
 Repeal the paragraph.
 
-## 255  Section 1230B
+## 255  Section 1230B
 
 After “1227A”, insert “, 1227B”.
 
-## 256  Subsection 1230C(2) (paragraph (a) of the definition of _debt_)
+## 256  Subsection 1230C(2) (paragraph (a) of the definition of _debt_)
 
 After “1227”, insert “, 1227B”.
 
 ## 257  Paragraph 1234A(1)(a)
 
-After “_1992_”, insert “or incurred a debt under Part 8 of the _Student Assistance Act 1973_ as in force before 1 July 1998”.
+After “_1992_”, insert “or incurred a debt under Part 8 of the _Student Assistance Act 1973_ as in force before 1 July 1998”.
 
 ## 258  After subsection 1237AAC(1)
 
@@ -9824,13 +9579,13 @@ Insert:
 
                              (ii)  the other person had lodged a claim;
 
-the Secretary must waive the debt to the extent set out in subsection (2A).
+the Secretary must waive the debt to the extent set out in subsection (2A).
 
 ## 259  After subsection 1237AAC(2)
 
 Insert:
 
-          (2A)  The Secretary must waive under subsection (1A) the right to recover the amount of debt equal to the amount of family allowance that would have been payable to the other person in the 3-year period ending on the day on which the overpayment is stopped if:
+          (2A)  The Secretary must waive under subsection (1A) the right to recover the amount of debt equal to the amount of family allowance that would have been payable to the other person in the 3-year period ending on the day on which the overpayment is stopped if:
 
                      (a)  the debtor had been an FA child of the person; and
 
@@ -9838,9 +9593,9 @@ Insert:
 
 ## 260  Subsection 1237AAC(3)
 
-Omit “subsection (2)”, substitute “subsections (2) and (2A)”.
+Omit “subsection (2)”, substitute “subsections (2) and (2A)”.
 
-Part 22—Amendments relating to compensation recovery
+Part 22—Amendments relating to compensation recovery
 
 ## 261  Paragraphs 1166(4)(b) and 1166(4A)(c)
 
@@ -9890,7 +9645,7 @@ Omit “youth training allowable or”.
 
 Omit “and (if applicable) amounts of youth training allowance”.
 
-Part 23—Amendments relating to the review of decisions
+Part 23—Amendments relating to the review of decisions
 
 ## 273  Subsection 1239(1) (note 1)
 
@@ -9900,13 +9655,13 @@ After “509F,”, insert “563E, 564C, 588D, 589C,”.
 
 After “510H,”, insert “565D, 590D,”.
 
-## 275  After section 1242A
+## 275  After section 1242A
 
 Insert:
 
-##### <a id="1242B"></a>1242B  Automatic payment if review of section 544C terms decision sought
+##### <a id="1242B"></a>1242B  Automatic payment if review of section 544C terms decision sought
 
-             (1)  This section applies to a decision to give a notice under section 544C because of a person’s failure to agree to terms of a Youth Allowance Activity Agreement proposed by the Secretary (subparagraph 544C(1)(b)(iii)).
+             (1)  This section applies to a decision to give a notice under section 544C because of a person’s failure to agree to terms of a Youth Allowance Activity Agreement proposed by the Secretary (subparagraph 544C(1)(b)(iii)).
 
 Note:          Notice results in disqualification for youth allowance for failure to enter Youth Allowance Activity Agreement.
 
@@ -9920,11 +9675,11 @@ the following provisions have effect:
 
                      (c)  payment of the youth allowance is to be made pending the determination of the review, as if the Youth Allowance Activity Agreement had not been required;
 
-                     (d)  if payment of the allowance had ceased for a period before the person applied for the review—arrears of allowance are payable to the person for the period in spite of section 566A;
+                     (d)  if payment of the allowance had ceased for a period before the person applied for the review—arrears of allowance are payable to the person for the period in spite of section 566A;
 
                      (e)  this Act (other than this Chapter) applies as if the Youth Allowance Activity Agreement had not been required.
 
-             (3)  Subsection (2) ceases to have effect if:
+             (3)  Subsection (2) ceases to have effect if:
 
                      (a)  the application for review is withdrawn; or
 
@@ -9934,27 +9689,27 @@ the following provisions have effect:
 
 Insert:
 
-                     (ia)  a decision under section 544B to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force; and
+                     (ia)  a decision under section 544B to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force; and
 
 ## 277  After subsection 1248(1)
 
 Insert:
 
-          (1A)  The Social Security Appeals Tribunal may only review a decision under section 544B (to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force) if the application is expressed to be an application for review of that decision.
+          (1A)  The Social Security Appeals Tribunal may only review a decision under section 544B (to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force) if the application is expressed to be an application for review of that decision.
 
 ## 278  Paragraph 1250(1)(d)
 
 After “423”, insert “, 554A, 554B, 579A, 579B”.
 
-## 279  After section 1252A
+## 279  After section 1252A
 
 Insert:
 
-##### <a id="1252B"></a>1252B  Automatic payment if review of section 544C terms decision sought
+##### <a id="1252B"></a>1252B  Automatic payment if review of section 544C terms decision sought
 
              (1)  If:
 
-                     (a)  a decision has been made, whether before or after the commencement of this paragraph, to give a notice under section 544C because of a person’s failure to agree to terms of a Youth Allowance Activity Agreement proposed by the Secretary (subparagraph 544C(1)(b)(iii)); and
+                     (a)  a decision has been made, whether before or after the commencement of this paragraph, to give a notice under section 544C because of a person’s failure to agree to terms of a Youth Allowance Activity Agreement proposed by the Secretary (subparagraph 544C(1)(b)(iii)); and
 
                      (b)  a person applies to the Social Security Appeals Tribunal under subsection 1247(1) for review of the decision; and
 
@@ -9964,31 +9719,31 @@ the following provisions have effect:
 
                      (d)  payment of the youth allowance is to be made pending the determination of the review, as if the Agreement had not been required;
 
-                     (e)  if payment of the allowance had ceased for a period before the person applied for the review—arrears of allowance are payable to the person for the period in spite of section 566A;
+                     (e)  if payment of the allowance had ceased for a period before the person applied for the review—arrears of allowance are payable to the person for the period in spite of section 566A;
 
                       (f)  this Act (other than this Chapter) applies as if the Agreement had not been required.
 
-             (2)  Subsection (1) ceases to have effect if:
+             (2)  Subsection (1) ceases to have effect if:
 
                      (a)  the application for review is withdrawn; or
 
                      (b)  the review of the decision is determined.
 
-## 280  Section 1254A
+## 280  Section 1254A
 
-After “force” (second occurring), insert “, a decision under section 544B to the extent to which it relates to the terms of the Youth Allowance Activity Agreement that is in force”.
+After “force” (second occurring), insert “, a decision under section 544B to the extent to which it relates to the terms of the Youth Allowance Activity Agreement that is in force”.
 
 ## 281  After paragraph 1255(6)(a)
 
 Insert:
 
-                    (ab)  a decision under section 544B to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force; or
+                    (ab)  a decision under section 544B to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force; or
 
 ## 282  After paragraph 1256A(1)(a)
 
 Insert:
 
-                    (ab)  a decision under section 544B to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force; or
+                    (ab)  a decision under section 544B to the extent to which it relates to the terms of a Youth Allowance Activity Agreement that is in force; or
 
 ## 283  Subsections 1260(1), 1261(1A) and 1263(1), paragraph 1264(2)(b), subsection 1269(1), paragraphs 1273(2)(b), 1273(2)(c), 1279(1)(a) and 1279(5)(aa)
 
@@ -9996,9 +9751,9 @@ Omit “_and Youth_”.
 
 ## 284  Subsection 1261(1)
 
-Omit all the words to and including “the Secretary”, substitute “If an application under Part 6.2 of this Act, under Division 2 of Part 9 of the _Student Assistance Act 1973_ or under Part 2 of Chapter 9 of the _Child Care Payments Act 1997_ is sent or delivered to an office of the Agency, the Secretary”.
+Omit all the words to and including “the Secretary”, substitute “If an application under Part 6.2 of this Act, under Division 2 of Part 9 of the _Student Assistance Act 1973_ or under Part 2 of Chapter 9 of the _Child Care Payments Act 1997_ is sent or delivered to an office of the Agency, the Secretary”.
 
-Part 24—Miscellaneous amendments
+Part 24—Miscellaneous amendments
 
 ## 285  Subparagraph 82(5)(b)(iib)
 
@@ -10064,7 +9819,7 @@ After “obtaining”, insert “youth allowance, austudy payment,”.
 
 Repeal the subparagraph.
 
-## 301  Paragraph 771HC(1)(c)
+## 301  Paragraph 771HC(1)(c)
 
 Omit “or a youth training allowance,”.
 
@@ -10100,7 +9855,7 @@ Omit “or the AUSTUDY scheme”.
 
 Omit “, a youth training allowance”.
 
-## 310  Section 1073
+## 310  Section 1073
 
 Omit “1067-H5A to 1067-H5R (inclusive), 1067E-G6A to 1067E-G6R”, substitute “1067G-H5 to 1067G-H20 (inclusive), 1067L-D4 to 1067L-D16”.
 
@@ -10158,11 +9913,11 @@ Repeal the paragraph, substitute:
 
                           (xvii)  the results or grade obtained by the person;
 
-## 315  Subsection 1312(1), paragraph 1312(1A)(d), subparagraph 1312A(b)(i), section 1312A (note 2), paragraph 1312B(b), section 1313, paragraph 1314(1)(a) and subsection 1318(3)
+## 315  Subsection 1312(1), paragraph 1312(1A)(d), subparagraph 1312A(b)(i), section 1312A (note 2), paragraph 1312B(b), section 1313, paragraph 1314(1)(a) and subsection 1318(3)
 
-Omit “Part 8 of the _Student and Youth Assistance Act 1973_,” (wherever occurring).
+Omit “Part 8 of the _Student and Youth Assistance Act 1973_,” (wherever occurring).
 
-## 316  Paragraphs 1336(3)(c) and (d), subsections 1336(5) and (7) and section 1337
+## 316  Paragraphs 1336(3)(c) and (d), subsections 1336(5) and (7) and section 1337
 
 Omit “, the _Student and Youth Assistance Act 1973_”.
 
@@ -10173,17 +9928,17 @@ Repeal the subsection.
 
  
 
-###### Schedule 10—Amendment of the Social Security Act 1991 relating to saving and transitional provisions
+###### Schedule 10—Amendment of the Social Security Act 1991 relating to saving and transitional provisions
 
-## 1  At the end of Schedule 1A
+## 1  At the end of Schedule 1A
 
 Add:
 
 ##### <a id="109"></a>109  Application of liquid assets test waiting period for sickness allowance
 
-                   This Act, as amended by item 91 of Schedule 9 to the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, applies to sickness allowance for which a claim was lodged on or after the commencement of that item.
+                   This Act, as amended by item 91 of Schedule 9 to the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, applies to sickness allowance for which a claim was lodged on or after the commencement of that item.
 
-## 2  At the end of Schedule 1A
+## 2  At the end of Schedule 1A
 
 Add:
 
@@ -10191,7 +9946,7 @@ Add:
 
 Continuing effect of certain determinations 
 
-             (1)  If a determination, notice, statement or other instrument made or given under this Act in relation to a newstart allowance or sickness allowance for a person under 21 years was in force, or had effect, immediately before 1 July 1998, then, subject to clause 114, the determination, notice, statement or other instrument:
+             (1)  If a determination, notice, statement or other instrument made or given under this Act in relation to a newstart allowance or sickness allowance for a person under 21 years was in force, or had effect, immediately before 1 July 1998, then, subject to clause 114, the determination, notice, statement or other instrument:
 
                      (a)  continues to be in force, or continues to have effect, on and after that day; and
 
@@ -10205,7 +9960,7 @@ as if it were a determination, notice, statement or other instrument made or giv
 
                      (b)  is to be taken to have been in force, or to have had effect;
 
-immediately before 1 July 1998, that determination, notice, statement or other instrument:
+immediately before 1 July 1998, that determination, notice, statement or other instrument:
 
                      (c)  continues, or is taken to continue, to be in force or to have effect, on and after that day; and
 
@@ -10213,9 +9968,9 @@ immediately before 1 July 1998, that determination, notice, statement or other
 
 as if it were a determination, notice, statement or other instrument made or given under this Act in relation to a youth allowance.
 
-Person of youth allowance age receiving AUSTUDY living allowance immediately before 1 July 1998
+Person of youth allowance age receiving AUSTUDY living allowance immediately before 1 July 1998
 
-             (3)  If an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of:
+             (3)  If an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of:
 
                      (a)  a person who is of youth allowance age on that day; or
 
@@ -10227,19 +9982,19 @@ then, on and after that day:
 
                      (d)  a youth allowance is payable, or is to be taken to have been payable, to the person; and
 
-                     (e)  subject to subclause (4), Part 2.11 applies to the person;
+                     (e)  subject to subclause (4), Part 2.11 applies to the person;
 
 as if he or she had made a claim for youth allowance under that Part and the claim had been granted.
 
              (4)  If:
 
-                     (a)  youth allowance is payable, or is to be taken to have been payable, because of subclause (3), to a person referred to in paragraph (3)(b) or (c); and
+                     (a)  youth allowance is payable, or is to be taken to have been payable, because of subclause (3), to a person referred to in paragraph (3)(b) or (c); and
 
-                     (b)  the person ceases to undertake the course of study that the person was undertaking immediately before 1 July 1998;
+                     (b)  the person ceases to undertake the course of study that the person was undertaking immediately before 1 July 1998;
 
 youth allowance ceases to be payable to the person.
 
-             (5)  A person referred to in paragraph (3)(c) who is under 25 on 1 July 1998 is taken to be independent for the purposes of Parts 2.11 and 3.15.
+             (5)  A person referred to in paragraph (3)(c) who is under 25 on 1 July 1998 is taken to be independent for the purposes of Parts 2.11 and 3.15.
 
 Pending claims of youth training allowance etc.
 
@@ -10247,25 +10002,25 @@ Pending claims of youth training allowance etc.
 
                      (a)  one of the following circumstances apply:
 
-                              (i)  a person lodged a claim for a youth training allowance (under the _Student Assistance Act 1973_) before 1 July 1998;
+                              (i)  a person lodged a claim for a youth training allowance (under the _Student Assistance Act 1973_) before 1 July 1998;
 
-                             (ii)  a person who is of youth allowance age lodged an application for an AUSTUDY living allowance (under the AUSTUDY regulations) before 1 July 1998;
+                             (ii)  a person who is of youth allowance age lodged an application for an AUSTUDY living allowance (under the AUSTUDY regulations) before 1 July 1998;
 
-                            (iii)  a person who is under 21 years lodged a claim for newstart allowance or sickness allowance before 1 July 1998; and
+                            (iii)  a person who is under 21 years lodged a claim for newstart allowance or sickness allowance before 1 July 1998; and
 
                      (b)  the claim was not determined, or the application dealt with, before that date;
 
 the claim or application has effect on or after that date as if it were a claim for youth allowance lodged under this Act.
 
-             (7)  Subclause (6) has effect subject to item 131 of Part 2 of Schedule 11 to the _Social Security Legislation (Youth Allowance Consequential and Related Measures) Act 1998_.
+             (7)  Subclause (6) has effect subject to item 131 of Part 2 of Schedule 11 to the _Social Security Legislation (Youth Allowance Consequential and Related Measures) Act 1998_.
 
 ##### <a id="111"></a>111  Austudy payment in place of AUSTUDY living allowance
 
-Person of austudy age receiving AUSTUDY living allowance immediately before 1 July 1998
+Person of austudy age receiving AUSTUDY living allowance immediately before 1 July 1998
 
              (1)  If:
 
-                     (a)  an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of a person other than:
+                     (a)  an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of a person other than:
 
                               (i)  a person who, immediately before that day, was receiving rent assistance under regulation 102B of the AUSTUDY Regulations as then in force; or
 
@@ -10277,17 +10032,17 @@ then, on and after that day:
 
                      (c)  an austudy payment is payable, or is to be taken to have been payable, to the person; and
 
-                     (d)  Part 2.11A applies to the person;
+                     (d)  Part 2.11A applies to the person;
 
 as if he or she had made a claim for austudy payment under that Part and the claim had been granted.
 
-Note:          A youth allowance is payable to a person referred to in subparagraph (a)(i) or (ii) (see clause 109).
+Note:          A youth allowance is payable to a person referred to in subparagraph (a)(i) or (ii) (see clause 109).
 
 Pending claims for AUSTUDY living allowance
 
              (2)  If:
 
-                     (a)  a person who is of austudy age lodged an application for an AUSTUDY living allowance (under the AUSTUDY regulations) before 1 July 1998; and
+                     (a)  a person who is of austudy age lodged an application for an AUSTUDY living allowance (under the AUSTUDY regulations) before 1 July 1998; and
 
                      (b)  the application was not dealt with before that date;
 
@@ -10295,19 +10050,19 @@ the application has effect on or after that date as if it were a claim for austu
 
 ##### <a id="111A"></a>111A  $3,000 opening balance for student income bank for students transferring from AUSTUDY
 
-             (1)  If an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of a person who is of youth allowance age on that day, then Step 1 of the Method Statement in point 1067G-J3 applies to the person as if the reference in that Step to zero were a reference to $3,000.
+             (1)  If an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of a person who is of youth allowance age on that day, then Step 1 of the Method Statement in point 1067G-J3 applies to the person as if the reference in that Step to zero were a reference to $3,000.
 
-             (2)  If an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of a person who is of AUSTUDY age on that day, then Step 1 of the Method Statement in point 1067L-E2 applies to the person as if the reference in that Step to zero were a reference to $3,000.
+             (2)  If an AUSTUDY living allowance was payable, or is to be taken to have been payable, immediately before 1 July 1998, to or in respect of a person who is of AUSTUDY age on that day, then Step 1 of the Method Statement in point 1067L-E2 applies to the person as if the reference in that Step to zero were a reference to $3,000.
 
 ##### <a id="112"></a>112  Pensioner education supplement under the Social Security Act in place of pensioner education supplement under the Austudy Regulations
 
-Person receiving pensioner education supplement immediately before 1 July 1998 
+Person receiving pensioner education supplement immediately before 1 July 1998 
 
-             (1)  If a pensioner education supplement under the AUSTUDY Regulations was payable, or is to be taken to have been payable, immediately before 1 July 1998, to a person, then, on and after that day:
+             (1)  If a pensioner education supplement under the AUSTUDY Regulations was payable, or is to be taken to have been payable, immediately before 1 July 1998, to a person, then, on and after that day:
 
                      (a)  a pensioner education supplement under this Act is payable, or is to be taken to have been payable, to the person; and
 
-                     (b)  Part 2.24A applies to the person;
+                     (b)  Part 2.24A applies to the person;
 
 as if he or she had made a claim for pensioner education supplement under that Part and the claim had been granted.
 
@@ -10315,83 +10070,83 @@ Pending claims of pensioner education supplement
 
              (2)  If:
 
-                     (a)  a person lodged an application for a pensioner education supplement under the AUSTUDY Regulations before 1 July 1998; and
+                     (a)  a person lodged an application for a pensioner education supplement under the AUSTUDY Regulations before 1 July 1998; and
 
                      (b)  the application was not determined, or the application dealt with, before that date;
 
 the application has effect on or after that date as if it were a claim for pensioner education supplement lodged under this Act.
 
-##### <a id="113"></a>113  Certain persons receiving benefit PP (partnered) and pensioner education supplement immediately before 1 July 1998
+##### <a id="113"></a>113  Certain persons receiving benefit PP (partnered) and pensioner education supplement immediately before 1 July 1998
 
              (1)  If:
 
-                     (a)  immediately before 20 March 1998, a person who satisfied the qualification requirements for sole parent pension under subparagraph 249(1)(a)(ii) or (iv) was receiving a sole parent pension; and
+                     (a)  immediately before 20 March 1998, a person who satisfied the qualification requirements for sole parent pension under subparagraph 249(1)(a)(ii) or (iv) was receiving a sole parent pension; and
 
-                     (b)  a benefit PP (partnered) became payable to the person on that day and continued to be payable until immediately before 1 July 1998; and 
+                     (b)  a benefit PP (partnered) became payable to the person on that day and continued to be payable until immediately before 1 July 1998; and 
 
-                     (c)  a pensioner education supplement under the AUSTUDY Regulations was payable, or is to be taken to have been payable, immediately before 1 July 1998, to the person;
+                     (c)  a pensioner education supplement under the AUSTUDY Regulations was payable, or is to be taken to have been payable, immediately before 1 July 1998, to the person;
 
-then, on and after 1 July 1998:
+then, on and after 1 July 1998:
 
                      (d)  a pensioner education supplement under this Act is payable, or is to be taken to have been payable, to the person; and
 
-                     (e)  subject to subclauses (2), (3) and (4), Part 2.24A applies to the person; 
+                     (e)  subject to subclauses (2), (3) and (4), Part 2.24A applies to the person; 
 
 as if he or she had made a claim for pensioner education supplement under that Part and the claim had been granted.
 
-             (2)  If the person ceases to undertake the course of study that the person was undertaking immediately before 1 July 1998, pensioner education supplement ceases to be payable to the person.
+             (2)  If the person ceases to undertake the course of study that the person was undertaking immediately before 1 July 1998, pensioner education supplement ceases to be payable to the person.
 
-             (3)  For the purposes of Part 2.24A, the person is taken to be receiving a payment attracting pensioner education supplement under this Act if the person satisfies the requirements referred to in subparagraph 249(1)(a)(ii) or (iv) as in force immediately before 20 March 1998.
+             (3)  For the purposes of Part 2.24A, the person is taken to be receiving a payment attracting pensioner education supplement under this Act if the person satisfies the requirements referred to in subparagraph 249(1)(a)(ii) or (iv) as in force immediately before 20 March 1998.
 
 Note:          Subparagraphs 249(1)(a)(ii) and (iv) were repealed by the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_.
 
-             (4)  For the purposes of Part 2.24A, subsection 1061PE(2) is taken to apply to the person.
+             (4)  For the purposes of Part 2.24A, subsection 1061PE(2) is taken to apply to the person.
 
-##### <a id="114"></a>114  Claims for newstart allowance (under 21 years) or sickness allowance (under 21 years) made on or after 1 July 1998 in respect of period before that date
+##### <a id="114"></a>114  Claims for newstart allowance (under 21 years) or sickness allowance (under 21 years) made on or after 1 July 1998 in respect of period before that date
 
                    If:
 
-                     (a)  a person who is under 21 years lodges a claim for newstart allowance or sickness allowance on or after 1 July 1998; and
+                     (a)  a person who is under 21 years lodges a claim for newstart allowance or sickness allowance on or after 1 July 1998; and
 
-                     (b)  the claim is made in respect of a period commencing before 1 July 1998;
+                     (b)  the claim is made in respect of a period commencing before 1 July 1998;
 
 the claim has effect as if it had been made immediately before that date.
 
-##### <a id="115"></a>115  Persons under 21 receiving newstart allowance or sickness allowance on 17 June 1997
+##### <a id="115"></a>115  Persons under 21 receiving newstart allowance or sickness allowance on 17 June 1997
 
              (1)  If:
 
-                     (a)  a person was, on 17 June 1997, under 21 years of age and a recipient of newstart allowance or sickness allowance; and
+                     (a)  a person was, on 17 June 1997, under 21 years of age and a recipient of newstart allowance or sickness allowance; and
 
-                     (b)  the person did not cease to be, and was immediately before 1 July 1998, a recipient of newstart allowance or sickness allowance; and
+                     (b)  the person did not cease to be, and was immediately before 1 July 1998, a recipient of newstart allowance or sickness allowance; and
 
-                     (c)  the person was, immediately before 1 July 1998, under 21 years of age;
+                     (c)  the person was, immediately before 1 July 1998, under 21 years of age;
 
 then:
 
-                     (d)  clause 109 does not apply in relation to the person; and
+                     (d)  clause 109 does not apply in relation to the person; and
 
                      (e)  the person is to continue to receive the newstart allowance or sickness allowance on and after that day; and
 
-                      (f)  subject to subclauses (2) and (3), Part 2.12 or 2.14 (as the case may be) as in force immediately before that day continues to apply to the person.
+                      (f)  subject to subclauses (2) and (3), Part 2.12 or 2.14 (as the case may be) as in force immediately before that day continues to apply to the person.
 
-             (2)  If, on or after 1 July 1998, the Secretary cancels or suspends:
+             (2)  If, on or after 1 July 1998, the Secretary cancels or suspends:
 
-                     (a)  a person’s newstart allowance under section 660I or 660IA; or
+                     (a)  a person’s newstart allowance under section 660I or 660IA; or
 
-                     (b)  a person’s sickness allowance under section 728L or 728M;
+                     (b)  a person’s sickness allowance under section 728L or 728M;
 
-a determination by the Secretary under section 660J or 728P (as the case may be) that the allowance is payable to the person does not have effect unless the determination is made within 6 weeks after the Secretary’s decision to cancel or suspend the allowance.
+a determination by the Secretary under section 660J or 728P (as the case may be) that the allowance is payable to the person does not have effect unless the determination is made within 6 weeks after the Secretary’s decision to cancel or suspend the allowance.
 
-             (3)  Newstart allowance or sickness allowance ceases to be payable to a person who has been receiving it because of subclause (1) if the person makes a claim for youth allowance and the claim is granted.
+             (3)  Newstart allowance or sickness allowance ceases to be payable to a person who has been receiving it because of subclause (1) if the person makes a claim for youth allowance and the claim is granted.
 
 ##### <a id="116"></a>116  Newstart or sickness allowance bereavement payment in respect of death of partner
 
                    If:
 
-                     (a)  immediately before 1 July 1998:
+                     (a)  immediately before 1 July 1998:
 
-                              (i)  a person was qualified for a payment under Division 9 of Part 2.12 or Division 9 of Part 2.14; and
+                              (i)  a person was qualified for a payment under Division 9 of Part 2.12 or Division 9 of Part 2.14; and
 
                              (ii)  the period for which the person was qualified had not yet ended; and
 
@@ -10399,35 +10154,35 @@ a determination by the Secretary under section 660J or 728P (as the case may b
 
 then:
 
-                     (c)  the person remains qualified for that payment on and after 1 July 1998 as if:
+                     (c)  the person remains qualified for that payment on and after 1 July 1998 as if:
 
-                              (i)  in the case of a person qualified for a payment under Division 9 of Part 2.12—that Part and Part 3.5 or 3.6 (whichever was applicable), as in force immediately before that date, continued to apply to him or her; or
+                              (i)  in the case of a person qualified for a payment under Division 9 of Part 2.12—that Part and Part 3.5 or 3.6 (whichever was applicable), as in force immediately before that date, continued to apply to him or her; or
 
-                             (ii)  in the case of a person qualified for a payment under Division 9 of Part 2.14—that Part and Part 3.5, 3.5A or 3.6 (whichever is applicable), as in force immediately before that date, continued to apply to him or her; and
+                             (ii)  in the case of a person qualified for a payment under Division 9 of Part 2.14—that Part and Part 3.5, 3.5A or 3.6 (whichever is applicable), as in force immediately before that date, continued to apply to him or her; and
 
                      (d)  subclause 109(1) (dealing with continuing effect of determinations) does not apply to the person; and
 
-                     (e)  on the day after the end of the period referred to in subparagraph (a)(ii), the person is taken to have made a claim for youth allowance.
+                     (e)  on the day after the end of the period referred to in subparagraph (a)(ii), the person is taken to have made a claim for youth allowance.
 
 ##### <a id="117"></a>117  Youth training allowance bereavement payment in respect of death of partner
 
-                   If, immediately before 1 July 1998:
+                   If, immediately before 1 July 1998:
 
-                     (a)  a person was qualified for a payment under Division 10 of Part 8 of the _Student Assistance Act 1973_; and
+                     (a)  a person was qualified for a payment under Division 10 of Part 8 of the _Student Assistance Act 1973_; and
 
                      (b)  the period for which the person was qualified had not yet ended;
 
 then:
 
-                     (c)  the person remains qualified for that payment on and after 1 July 1998 as if Part 8 of, and Schedule 1 to, that Act as in force immediately before that date were still in force; and
+                     (c)  the person remains qualified for that payment on and after 1 July 1998 as if Part 8 of, and Schedule 1 to, that Act as in force immediately before that date were still in force; and
 
                      (d)  subclause 109(1) (dealing with continuing effect of determinations) does not apply to the person; and
 
-                     (e)  on the day after the end of the period referred to in paragraph (b), the person is taken to have made a claim for youth allowance.
+                     (e)  on the day after the end of the period referred to in paragraph (b), the person is taken to have made a claim for youth allowance.
 
-##### <a id="118"></a>118  Qualification for double orphan pension for certain young persons who were qualified to receive payments under the AUSTUDY scheme immediately before 1 July 1998
+##### <a id="118"></a>118  Qualification for double orphan pension for certain young persons who were qualified to receive payments under the AUSTUDY scheme immediately before 1 July 1998
 
-                   If a person or an approved care organisation was, immediately before 1 July 1998, qualified (under section 999) for a double orphan pension for a young person who, at the time:
+                   If a person or an approved care organisation was, immediately before 1 July 1998, qualified (under section 999) for a double orphan pension for a young person who, at the time:
 
                      (a)  was over 16, but under 22, years of age; and
 
@@ -10447,90 +10202,90 @@ whichever occurs first.
 
                    If:
 
-                     (a)  on the last family allowance payday before 1 July 1998, a person (the **_FA recipient_**) received an instalment of family allowance (the **_relevant instalment_**) that was paid to the person at a rate higher than the person’s minimum family allowance rate; and
+                     (a)  on the last family allowance payday before 1 July 1998, a person (the **_FA recipient_**) received an instalment of family allowance (the **_relevant instalment_**) that was paid to the person at a rate higher than the person’s minimum family allowance rate; and
 
-                     (b)  the relevant instalment consisted of, or included, an amount in respect of an FA child (the **_young person_**) who becomes a youth allowance recipient before the first family allowance payday after 1 July 1998;
+                     (b)  the relevant instalment consisted of, or included, an amount in respect of an FA child (the **_young person_**) who becomes a youth allowance recipient before the first family allowance payday after 1 July 1998;
 
-there is payable to the FA recipient in respect of the young person, on the first family allowance payday after 1 July 1998, an amount of family allowance equal to the amount of family allowance that was payable to the FA recipient in respect of the young person on the last family allowance payday before 1 July 1998.
+there is payable to the FA recipient in respect of the young person, on the first family allowance payday after 1 July 1998, an amount of family allowance equal to the amount of family allowance that was payable to the FA recipient in respect of the young person on the last family allowance payday before 1 July 1998.
 
 ##### <a id="120"></a>120  Application—income maintenance period rules
 
-             (1)  Point 1067G-H11 (dealing with income maintenance periods in relation to continuing employment) applies to the following persons in respect of a leave period starting on or after 1 July 1998:
+             (1)  Point 1067G-H11 (dealing with income maintenance periods in relation to continuing employment) applies to the following persons in respect of a leave period starting on or after 1 July 1998:
 
-                     (a)  a person who makes a claim for youth allowance on or after 1 July 1998 and to whom subclause (2) does not apply;
+                     (a)  a person who makes a claim for youth allowance on or after 1 July 1998 and to whom subclause (2) does not apply;
 
-                     (b)  a youth allowance recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
+                     (b)  a youth allowance recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
 
              (2)  If:
 
-                     (a)  a determination applying an income maintenance period to a person who was or is in employment had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
+                     (a)  a determination applying an income maintenance period to a person who was or is in employment had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
 
-                     (b)  a youth allowance becomes payable to the person on or after 1 July 1998; and
+                     (b)  a youth allowance becomes payable to the person on or after 1 July 1998; and
 
                      (c)  the income maintenance period has not ended when the youth allowance becomes payable to the person;
 
-point 1067G-H11 (dealing with income maintenance periods in relation to continuing employment) applies to the person in respect of a leave period starting on or after 20 March 1998.
+point 1067G-H11 (dealing with income maintenance periods in relation to continuing employment) applies to the person in respect of a leave period starting on or after 20 March 1998.
 
-             (3)  Point 1067G-H12 (dealing with income maintenance periods in relation to terminated employment) applies to the following persons in respect of any leave payment received by those persons on or after 1 July 1998:
+             (3)  Point 1067G-H12 (dealing with income maintenance periods in relation to terminated employment) applies to the following persons in respect of any leave payment received by those persons on or after 1 July 1998:
 
-                     (a)  a person who makes a claim for youth allowance on or after 1 July 1998 and to whom subclause (4) does not apply;
+                     (a)  a person who makes a claim for youth allowance on or after 1 July 1998 and to whom subclause (4) does not apply;
 
-                     (b)  a youth allowance recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
+                     (b)  a youth allowance recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
 
              (4)  If:
 
-                     (a)  a determination applying an income maintenance period to a person whose employment has been terminated had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
+                     (a)  a determination applying an income maintenance period to a person whose employment has been terminated had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
 
-                     (b)  a youth allowance becomes payable to the person on or after 1 July 1998; and
+                     (b)  a youth allowance becomes payable to the person on or after 1 July 1998; and
 
                      (c)  the income maintenance period has not ended when the youth allowance becomes payable to the person;
 
 point 1067G-H12 (dealing with income maintenance periods in relation to terminated employment) applies to the person in respect of any leave payment received by the person on or after 20 September 1997.
 
-             (5)  Point 1067L-D5 (dealing with income maintenance periods in relation to continuing employment) applies to the following persons in respect of a leave period starting on or after 1 July 1998:
+             (5)  Point 1067L-D5 (dealing with income maintenance periods in relation to continuing employment) applies to the following persons in respect of a leave period starting on or after 1 July 1998:
 
-                     (a)  a person who makes a claim for austudy payment on or after 1 July 1998 and to whom subclause (6) does not apply;
+                     (a)  a person who makes a claim for austudy payment on or after 1 July 1998 and to whom subclause (6) does not apply;
 
-                     (b)  an austudy payment recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
+                     (b)  an austudy payment recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
 
              (6)  If:
 
-                     (a)  a determination applying an income maintenance period to a person who was or is in employment had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
+                     (a)  a determination applying an income maintenance period to a person who was or is in employment had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
 
-                     (b)  an austudy payment becomes payable to the person on or after 1 July 1998; and
+                     (b)  an austudy payment becomes payable to the person on or after 1 July 1998; and
 
                      (c)  the income maintenance period has not ended when the austudy payment becomes payable to the person;
 
-point 1067L-D5 (dealing with income maintenance periods in relation to continuing employment) applies to the person in respect of a leave period starting on or after 20 March 1998.
+point 1067L-D5 (dealing with income maintenance periods in relation to continuing employment) applies to the person in respect of a leave period starting on or after 20 March 1998.
 
-             (7)  Point 1067L-D6 (dealing with income maintenance periods in relation to terminated employment) applies to the following persons in respect of any leave payment received by those persons on or after 1 July 1998:
+             (7)  Point 1067L-D6 (dealing with income maintenance periods in relation to terminated employment) applies to the following persons in respect of any leave payment received by those persons on or after 1 July 1998:
 
-                     (a)  a person who makes a claim for austudy payment on or after 1 July 1998 and to whom subclause (8) does not apply;
+                     (a)  a person who makes a claim for austudy payment on or after 1 July 1998 and to whom subclause (8) does not apply;
 
-                     (b)  an austudy payment recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
+                     (b)  an austudy payment recipient who immediately before 1 July 1998 was receiving an AUSTUDY allowance.
 
              (8)  If:
 
-                     (a)  a determination applying an income maintenance period to a person whose employment has been terminated had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
+                     (a)  a determination applying an income maintenance period to a person whose employment has been terminated had effect, or is to be taken to have had effect, immediately before 1 July 1998; and
 
-                     (b)  an austudy payment becomes payable to the person on or after 1 July 1998; and
+                     (b)  an austudy payment becomes payable to the person on or after 1 July 1998; and
 
                      (c)  the income maintenance period has not ended when the austudy payment becomes payable to the person;
 
-point 1067L-D6 (dealing with income maintenance periods in relation to terminated employment) applies to the person in respect of any leave payment received by the person on or after 20 September 1997.
+point 1067L-D6 (dealing with income maintenance periods in relation to terminated employment) applies to the person in respect of any leave payment received by the person on or after 20 September 1997.
 
 
  
 
-###### Schedule 11—Amendment of the Student and Youth Assistance Act 1973, and related transitional provisions
+###### Schedule 11—Amendment of the Student and Youth Assistance Act 1973, and related transitional provisions
 
-Part 1—Amendment of the Student and Youth Assistance Act 1973
+Part 1—Amendment of the Student and Youth Assistance Act 1973
 
 ## 1  Title
 
 Omit “**students and young people**”, substitute “**certain students**”.
 
-## 2  Section 1
+## 2  Section 1
 
 Omit “_and Youth_”_._
 
@@ -10568,29 +10323,29 @@ Repeal the definition, substitute:
 
 Repeal the definition.
 
-## 8  Subsection 3(1) (paragraph (a) of the definition of _student assistance benefit_)
+## 8  Subsection 3(1) (paragraph (a) of the definition of _student assistance benefit_)
 
 Repeal the paragraph, substitute:
 
-                     (a)  the AUSTUDY scheme under this Act as in force before 1 July 1998; or
+                     (a)  the AUSTUDY scheme under this Act as in force before 1 July 1998; or
 
-## 9  Subsection 3(1) (paragraph (b) of the definition of _student assistance benefit_)
+## 9  Subsection 3(1) (paragraph (b) of the definition of _student assistance benefit_)
 
-After “Scheme”, insert “(including the Scheme as in force before 1 July 1998)”.
+After “Scheme”, insert “(including the Scheme as in force before 1 July 1998)”.
 
-## 10  Subsection 3(1) (paragraph (a) of the definition of _student assistance overpayment_)
+## 10  Subsection 3(1) (paragraph (a) of the definition of _student assistance overpayment_)
 
 Repeal the paragraph, substitute:
 
                      (a)  an amount:
 
-                              (i)  paid under the AUSTUDY scheme under this Act as in force before 1 July 1998; and
+                              (i)  paid under the AUSTUDY scheme under this Act as in force before 1 July 1998; and
 
                              (ii)  that should not have been paid; or
 
-## 11  Subsection 3(1) (paragraph (b) of the definition of _student assistance overpayment_)
+## 11  Subsection 3(1) (paragraph (b) of the definition of _student assistance overpayment_)
 
-Omit “12U(2)(c)”, substitute “12U(2)(c) (including a debt accrued under either of those paragraphs as in force before 1 July 1998)”.
+Omit “12U(2)(c)”, substitute “12U(2)(c) (including a debt accrued under either of those paragraphs as in force before 1 July 1998)”.
 
 ## 12  Subsection 3(1) (definition of _technical and further education institution_)
 
@@ -10606,7 +10361,7 @@ Repeal the definition.
 
 Insert:
 
-          (2A)  A determination by the Minister for the purposes of the definition of **_education institution_**,_higher education institution_, **_secondary school_** or **_technical and further education institution_** is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+          (2A)  A determination by the Minister for the purposes of the definition of **_education institution_**,_higher education institution_, **_secondary school_** or **_technical and further education institution_** is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ## 15  Subsection 5(1)
 
@@ -10614,7 +10369,7 @@ Repeal the subsection, substitute:
 
              (1)  This Act binds the Crown in all its capacities.
 
-## 16  At the end of Part 1
+## 16  At the end of Part 1
 
 Add:
 
@@ -10632,11 +10387,11 @@ Add:
 
                      (b)  was in force immediately before that day;
 
-is taken to be a determination under subsection (1) of this section and may be amended or repealed accordingly.
+is taken to be a determination under subsection (1) of this section and may be amended or repealed accordingly.
 
-             (3)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (3)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-## 17  Parts 2 and 4
+## 17  Parts 2 and 4
 
 Repeal the Parts.
 
@@ -10672,13 +10427,13 @@ Repeal the subsection, substitute:
 
                               (i)  that institution; or
 
-                             (ii)  a place in respect of which a determination under subsection (3) is in force;
+                             (ii)  a place in respect of which a determination under subsection (3) is in force;
 
 the person is, for the purposes of this section, taken to be undertaking that course or that part of that course wholly at that institution.
 
-             (3)  The Minister may determine in writing that subsection (2) does not apply in relation to a place, or a class of place, specified in the determination.
+             (3)  The Minister may determine in writing that subsection (2) does not apply in relation to a place, or a class of place, specified in the determination.
 
-             (4)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (4)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
              (5)  If a person is undertaking, or proposes to undertake, by correspondence with an education institution:
 
@@ -10688,7 +10443,7 @@ the person is, for the purposes of this section, taken to be undertaking that co
 
 offered by that education institution, the person is, for the purposes of this section, taken to be undertaking that course, or that part of that course, wholly at that institution.
 
-## 24  Section 12E
+## 24  Section 12E
 
 Omit “the AUSTUDY scheme or”.
 
@@ -10700,37 +10455,37 @@ Omit “the AUSTUDY scheme or” (wherever occurring).
 
 Insert:
 
-          (5A)  The Minister must cause to be published in the _Gazette_ before each 1 June the indexation factor worked out under subsection (4) (as affected by subsection (5)) in relation to the period of 12 months beginning on that day.
+          (5A)  The Minister must cause to be published in the _Gazette_ before each 1 June the indexation factor worked out under subsection (4) (as affected by subsection (5)) in relation to the period of 12 months beginning on that day.
 
-          (5B)  An indexation factor published under subsection 12ZZB(3) before the commencement of this subsection has effect as if it were an indexation factor published under subsection (5A).
+          (5B)  An indexation factor published under subsection 12ZZB(3) before the commencement of this subsection has effect as if it were an indexation factor published under subsection (5A).
 
 ## 27  After subsection 12ZF(7)
 
 Insert:
 
-          (7A)  The Commissioner must cause to be published in the _Gazette_ before each 1 June the indexation factor worked out under subsection (6) (as affected by subsection (7)) that is applicable in working out FS debts and accumulated FS debts incurred in the 1 June concerned.
+          (7A)  The Commissioner must cause to be published in the _Gazette_ before each 1 June the indexation factor worked out under subsection (6) (as affected by subsection (7)) that is applicable in working out FS debts and accumulated FS debts incurred in the 1 June concerned.
 
-          (7B)  An indexation factor published under subsection 12ZZB(4) before the commencement of this subsection has effect as if it were an indexation factor published under subsection (7A).
+          (7B)  An indexation factor published under subsection 12ZZB(4) before the commencement of this subsection has effect as if it were an indexation factor published under subsection (7A).
 
-## 28  Part 4B
+## 28  Part 4B
 
 Repeal the Part.
 
-## 29  Part 6 (heading)
+## 29  Part 6 (heading)
 
 Repeal the heading, substitute:
 
-## Part 6—Overpayments arising under this Act and certain administrative schemes
+## Part 6—Overpayments arising under this Act and certain administrative schemes
 
-## 30  Section 38
+## 30  Section 38
 
 Repeal the section.
 
-## 31  Before section 40
+## 31  Before section 40
 
 Insert:
 
-### Division 1—Debts recoverable by the Commonwealth
+### Division 1—Debts recoverable by the Commonwealth
 
 ##### <a id="38"></a>38  What is a debt?
 
@@ -10742,19 +10497,19 @@ Insert:
 
                      (b)  a student assistance overpayment;
 
-                     (c)  an amount payable to the Commonwealth in relation to an amount of a kind referred to in paragraph (a) or (b) (including an amount payable under section 40 or subsection 42(10)).
+                     (c)  an amount payable to the Commonwealth in relation to an amount of a kind referred to in paragraph (a) or (b) (including an amount payable under section 40 or subsection 42(10)).
 
 ##### <a id="39"></a>39  Debts are recoverable by the Commonwealth
 
                    If a person:
 
-                     (a)  has been paid an amount of a kind referred to in paragraph (a) or (b) of the definition of **_debt_** in section 38; or
+                     (a)  has been paid an amount of a kind referred to in paragraph (a) or (b) of the definition of **_debt_** in section 38; or
 
-                     (b)  incurs an amount referred to in paragraph (c) of that definition;
+                     (b)  incurs an amount referred to in paragraph (c) of that definition;
 
 the amount is a debt owed by the person to the Commonwealth.
 
-### Division 2—Recovery of debts
+### Division 2—Recovery of debts
 
 ##### <a id="39A"></a>39A  Secretary may allow payment of debt by instalments
 
@@ -10764,7 +10519,7 @@ Decision of Secretary
 
 When decision takes effect
 
-             (2)  A decision made under subsection (1) takes effect:
+             (2)  A decision made under subsection (1) takes effect:
 
                      (a)  if a day is so stated in the decision as the day on which the decision takes effect—on the day so stated (whether that day is before, on or after the day on which the decision was made); or
 
@@ -10774,11 +10529,11 @@ Saving provision
 
              (3)  For the purposes of this section, a decision that:
 
-                     (a)  was made under section 284 as applied by subsection 43(2) as in force before 1 July 1998; and
+                     (a)  was made under section 284 as applied by subsection 43(2) as in force before 1 July 1998; and
 
                      (b)  was in force immediately before that day;
 
-is taken to be a decision under subsection (1) of this section.
+is taken to be a decision under subsection (1) of this section.
 
 ## 32  Subsection 40(1)
 
@@ -10790,7 +10545,7 @@ Repeal the subsection, substitute:
 
 Repeal the subsection, substitute:
 
-             (5)  Interest is not payable under this section in relation to the recoverable amount in relation to any period during which a decision under section 39A is in force in relation to the recoverable amount unless the decision provides that interest is to be so payable or an instalment is not paid in accordance with the decision.
+             (5)  Interest is not payable under this section in relation to the recoverable amount in relation to any period during which a decision under section 39A is in force in relation to the recoverable amount unless the decision provides that interest is to be so payable or an instalment is not paid in accordance with the decision.
 
 ## 34  Subsection 42(1)
 
@@ -10806,7 +10561,7 @@ Omit “recoverable amount” (wherever occurring), substitute “debt”.
 
 ## 37  Subsection 42(11)
 
-Omit “recoverable amount”, substitute “debt referred to in paragraph (2)(a)”.
+Omit “recoverable amount”, substitute “debt referred to in paragraph (2)(a)”.
 
 ## 38  Subsection 42(13)
 
@@ -10818,11 +10573,11 @@ Repeal the subsection, substitute:
 
                      (b)  apportion any amount recovered under this section in relation to the debts in such proportion as the Secretary considers appropriate.
 
-## 39  Section 43
+## 39  Section 43
 
 Repeal the section, substitute:
 
-### Division 3—Non-recovery of debts
+### Division 3—Non-recovery of debts
 
 ##### <a id="43"></a>43  Secretary may write off debt
 
@@ -10832,11 +10587,11 @@ Writing off debt
 
 Class of debts
 
-             (2)  For the purposes of subsection (1), the Secretary may write off debts that are included in a class of debts determined by the Minister by notice published in the _Gazette_.
+             (2)  For the purposes of subsection (1), the Secretary may write off debts that are included in a class of debts determined by the Minister by notice published in the _Gazette_.
 
 When decision takes effect
 
-             (3)  A decision made under subsection (1) takes effect:
+             (3)  A decision made under subsection (1) takes effect:
 
                      (a)  if a day is stated in the decision as the day on which the decision takes effect—on the day so stated (whether that day is before, on or after the day on which the decision is made); or
 
@@ -10848,7 +10603,7 @@ Note:          If the Secretary writes off a debt, this means 
 
 Secretary’s limited power to waive
 
-             (1)  The Secretary may, on behalf of the Commonwealth, waive the Commonwealth’s right to recover the whole or a part of a debt only in the circumstances described in section 43B, 43C, 43D, 43E or 43F.
+             (1)  The Secretary may, on behalf of the Commonwealth, waive the Commonwealth’s right to recover the whole or a part of a debt only in the circumstances described in section 43B, 43C, 43D, 43E or 43F.
 
 When waiver takes effect
 
@@ -10864,13 +10619,13 @@ Note:          If the Secretary waives the Commonwealth’s ri
 
 Administrative error
 
-             (1)  Subject to subsection (2), the Secretary must waive the right to recover the proportion of a debt that is attributable solely to an administrative error made by the Commonwealth if the debtor received in good faith the payment or payments that gave rise to that proportion of the debt.
+             (1)  Subject to subsection (2), the Secretary must waive the right to recover the proportion of a debt that is attributable solely to an administrative error made by the Commonwealth if the debtor received in good faith the payment or payments that gave rise to that proportion of the debt.
 
-Note:          Subsection (1) does not allow waiver of part of a debt that was caused partly by administrative error and partly by one or more other factors (such as error by the debtor).
+Note:          Subsection (1) does not allow waiver of part of a debt that was caused partly by administrative error and partly by one or more other factors (such as error by the debtor).
 
-Circumstances under which subsection (1) applies
+Circumstances under which subsection (1) applies
 
-             (2)  Subsection (1) only applies if:
+             (2)  Subsection (1) only applies if:
 
                      (a)  the debt is not raised within a period of 6 weeks from the first payment that caused the debt; or
 
@@ -10952,23 +10707,23 @@ Agreement for part-payment in satisfaction of outstanding debt
 
 Limits on agreement to accept part-payment in satisfaction of outstanding debt
 
-             (5)  The Secretary must not make an agreement described in subsection (4) unless the Secretary is satisfied that:
+             (5)  The Secretary must not make an agreement described in subsection (4) unless the Secretary is satisfied that:
 
                      (a)  the debtor cannot repay more of the debt than the agreed amount; and
 
                      (b)  the agreed amount is at least the present value of the unpaid amount repaid in instalments whose amount and timing are determined by the Secretary; and
 
-                     (c)  it would take at least 12 months to recover the unpaid amount under this Part if subsection (4) did not apply.
+                     (c)  it would take at least 12 months to recover the unpaid amount under this Part if subsection (4) did not apply.
 
 Formula for working out present value of unpaid amount
 
-             (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
+             (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image018.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image018.gif)</sub>
 
 where:
 
-                    <a name="annual-repay"></a>**_annual repayment_** is the amount of the debt that the Secretary believes would be recovered under this Part in a year if subsection (4) did not apply in relation to the debt.
+                    <a name="annual-repay"></a>**_annual repayment_** is the amount of the debt that the Secretary believes would be recovered under this Part in a year if subsection (4) did not apply in relation to the debt.
 
                     <a name="interest"></a>**_interest_** is the annual rate of interest specified by the Minister in a written notice.
 
@@ -10984,15 +10739,15 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
 Result:       The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-                   ![](http://www.comlaw.gov.au/Details/C2010C00285/Html/D11BAE1FDCCEA431CA257705001FA710/$FILE/SocialSecLegAmendYouthAllowConseqRelatMeasures1998_image019.gif)
+                   <sub>![](http://www.comlaw.gov.au/Details/C2005C00511/Html/9CFAA544ADC3F569CA25704A0004645A/$FILE/image019.gif)</sub>
 
-                   As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
+                   As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
-                   If the Secretary makes the agreement, the Secretary must, in accordance with subsection (4), waive the remaining $1,300 of the debt (being the difference between the unpaid amount of $6,000 and the agreed amount of $4,700).
+                   If the Secretary makes the agreement, the Secretary must, in accordance with subsection (4), waive the remaining $1,300 of the debt (being the difference between the unpaid amount of $6,000 and the agreed amount of $4,700).
 
 Notice is a disallowable instrument
 
-             (7)  A notice described in the definition of **_interest_** in subsection (6) is a disallowable instrument for the purpose of section 46A of the _Acts Interpretation Act 1901_.
+             (7)  A notice described in the definition of **_interest_** in subsection (6) is a disallowable instrument for the purpose of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="43F"></a>43F  Waiver in special circumstances
 
@@ -11008,45 +10763,45 @@ Notice is a disallowable instrument
 
                      (c)  it is more appropriate to waive than to write off the debt or part of the debt.
 
-Note:          Section 43 allows the Secretary to write off a debt on behalf of the Commonwealth.
+Note:          Section 43 allows the Secretary to write off a debt on behalf of the Commonwealth.
 
 ## 40  Application
 
-The amendments made by items 29 to 39 apply to debts arising before, on or after 1 July 1998.
+The amendments made by items 29 to 39 apply to debts arising before, on or after 1 July 1998.
 
 ## 41  Subsection 44A(1)
 
 Omit “the AUSTUDY scheme or”.
 
-## 42  Section 48
+## 42  Section 48
 
-Omit “under this Act other than Part 8 (including an amount under a financial supplement contract)”, substitute “under a financial supplement contract”.
+Omit “under this Act other than Part 8 (including an amount under a financial supplement contract)”, substitute “under a financial supplement contract”.
 
 ## 43  Subparagraph 49(1)(a)(i)
 
-Omit “a request under section 20 or 21 or”.
+Omit “a request under section 20 or 21 or”.
 
 ## 44  Subparagraph 49(1)(a)(ii)
 
-Omit “other than Part 8”.
+Omit “other than Part 8”.
 
 ## 45  Subparagraph 49(1)(a)(iii)
 
 Repeal the subparagraph, substitute:
 
-                            (iii)  to affect the rate of a benefit referred to in paragraph (a) of the definition of **_student assistance benefit_**; or
+                            (iii)  to affect the rate of a benefit referred to in paragraph (a) of the definition of **_student assistance benefit_**; or
 
 ## 46  Paragraphs 49(1)(b) and (c) and subsections 49(2), (3) and (4)
 
-Omit “other than Part 8” (wherever occurring).
+Omit “other than Part 8” (wherever occurring).
 
 ## 47  Subsections 50(1) and (2)
 
-Omit “(other than Part 8)” (wherever occurring).
+Omit “(other than Part 8)” (wherever occurring).
 
 ## 48  Paragraph 51(1)(a)
 
-Omit “other than Part 8”, substitute “(including an amount that was paid as a student assistance benefit under this Act as in force before 1 July 1998)”.
+Omit “other than Part 8”, substitute “(including an amount that was paid as a student assistance benefit under this Act as in force before 1 July 1998)”.
 
 ## 49  Paragraph 55A(1)(a)
 
@@ -11056,9 +10811,9 @@ Repeal the paragraph.
 
 Repeal the subsection, substitute:
 
-       (1AA)  The Consolidated Revenue Fund is appropriated as necessary for the purposes of Part 2 of Schedule 11 to the_Social Security Legislation (Youth Allowance Consequential and_ _Related Measures) Act 1998_.
+       (1AA)  The Consolidated Revenue Fund is appropriated as necessary for the purposes of Part 2 of Schedule 11 to the_Social Security Legislation (Youth Allowance Consequential and_ _Related Measures) Act 1998._
 
-Note:          Part 2 of Schedule 11 to the_Social Security Legislation (Youth Allowance Consequential and Related Measures) Act 1998_ makes various transitional provisions, with effect from 1 July 1998, that relate to the abolition of the Youth Training Allowance, AUSTUDY and Financial Supplement relating to AUSTUDY. Subsection (1AA) of this section enables money to be appropriated for purposes such as the payment of a benefit under the AUSTUDY scheme after 1 July 1998 following a review under a transitional provision in that Part of that Schedule. 
+Note:          Part 2 of Schedule 11 to the_Social Security Legislation (Youth Allowance Consequential and Related Measures) Act 1998_ makes various transitional provisions, with effect from 1 July 1998, that relate to the abolition of the Youth Training Allowance, AUSTUDY and Financial Supplement relating to AUSTUDY. Subsection (1AA) of this section enables money to be appropriated for purposes such as the payment of a benefit under the AUSTUDY scheme after 1 July 1998 following a review under a transitional provision in that Part of that Schedule. 
 
 ## 51  Paragraph 56(a)
 
@@ -11072,7 +10827,7 @@ Omit “under the AUSTUDY scheme or”.
 
 Repeal the paragraph.
 
-## 54  At the end of section 56
+## 54  At the end of section 56
 
 Add:
 
@@ -11088,15 +10843,15 @@ Add:
 
                      (b)  their replacement by allowances, benefits or payments under the _Social Security Act 1991_.
 
-             (3)  Without limiting subsection (2), and in spite of any other provisions in this Act or any other Act, regulations under subsection (2) may modify the effect of a provision in Part 2 of Schedule 11 to the _Social Security Legislation (Youth Allowance Consequential and Related Measures) Act 1998_ so as to:
+             (3)  Without limiting subsection (2), and in spite of any other provisions in this Act or any other Act, regulations under subsection (2) may modify the effect of a provision in Part 2 of Schedule 11 to the _Social Security Legislation (Youth Allowance Consequential and Related Measures) Act 1998_ so as to:
 
-                     (a)  enable a payment of a benefit under the AUSTUDY scheme (as previously in force under this Act) to be made to a person in respect of a period ending at the end of 3 July 1998 in specified circumstances; and
+                     (a)  enable a payment of a benefit under the AUSTUDY scheme (as previously in force under this Act) to be made to a person in respect of a period ending at the end of 3 July 1998 in specified circumstances; and
 
-                     (b)  enable such a payment, to the extent that it relates to the period beginning on 1 July 1998 and ending at the end of 3 July 1998, to be disregarded in determining the person’s entitlement to any youth allowance or austudy payment under the _Social Security Act 1991_; and
+                     (b)  enable such a payment, to the extent that it relates to the period beginning on 1 July 1998 and ending at the end of 3 July 1998, to be disregarded in determining the person’s entitlement to any youth allowance or austudy payment under the _Social Security Act 1991_; and
 
-                     (c)  enable the receipt by the person of any youth allowance or austudy payment under the _Social Security Act 1991_, to the extent that it relates to the period referred to in paragraph (b), to be disregarded in determining the person’s entitlement to the payment referred to in paragraph (a).
+                     (c)  enable the receipt by the person of any youth allowance or austudy payment under the _Social Security Act 1991_, to the extent that it relates to the period referred to in paragraph (b), to be disregarded in determining the person’s entitlement to the payment referred to in paragraph (a).
 
-## 55  Part 8
+## 55  Part 8
 
 Repeal the Part.
 
@@ -11122,7 +10877,7 @@ Repeal the subsection, substitute:
 
 Decisions that are not reviewed
 
-             (2)  Subsection (1) does not apply to a decision of the Secretary that relates to the Secretary’s powers under section 326A to settle proceedings before the Administrative Appeals Tribunal.
+             (2)  Subsection (1) does not apply to a decision of the Secretary that relates to the Secretary’s powers under section 326A to settle proceedings before the Administrative Appeals Tribunal.
 
 ## 61  Subsection 304(1) (note)
 
@@ -11134,7 +10889,7 @@ Repeal the subsection, substitute:
 
 Period within which application for internal review to be sought
 
-             (2)  An application under subsection (1) for the review of a decision must be made within:
+             (2)  An application under subsection (1) for the review of a decision must be made within:
 
                      (a)  3 months; or
 
@@ -11150,9 +10905,9 @@ Omit “benefit under the AUSTUDY scheme, Financial Supplement, or youth trainin
 
 Repeal the definition, substitute:
 
-                    <a name="advers-decision"></a>**_adverse decision_** means a decision under section 12R or 12T to stop the payment of Financial Supplement to a person.
+                    <a name="advers-decision"></a>**_adverse decision_** means a decision under section 12R or 12T to stop the payment of Financial Supplement to a person.
 
-## 65  Section 307
+## 65  Section 307
 
 Repeal the section.
 
@@ -11178,7 +10933,7 @@ Repeal the subsection, substitute:
 
 Period within which application for review by SSAT to be sought
 
-             (3)  An application under subsection (1) to the Social Security Appeals Tribunal for review of a decision must be made within:
+             (3)  An application under subsection (1) to the Social Security Appeals Tribunal for review of a decision must be made within:
 
                      (a)  3 months; or 
 
@@ -11186,11 +10941,11 @@ Period within which application for review by SSAT to be sought
 
 after the original decision was affirmed, varied or set aside by the Secretary or an authorised review officer.
 
-## 71  Section 312
+## 71  Section 312
 
 Repeal the section.
 
-## 72  Section 313
+## 72  Section 313
 
 Repeal the section, substitute:
 
@@ -11198,9 +10953,9 @@ Repeal the section, substitute:
 
                    The Social Security Appeals Tribunal cannot review a decision:
 
-                     (a)  under section 343 or 345 (notice requiring information from any person); or
+                     (a)  under section 343 or 345 (notice requiring information from any person); or
 
-                     (b)  under section 305 or 314 (continuation of payment pending review of adverse decision).
+                     (b)  under section 305 or 314 (continuation of payment pending review of adverse decision).
 
 ## 73  Subsection 314(1)
 
@@ -11210,9 +10965,9 @@ Omit “benefit under the AUSTUDY scheme, Financial Supplement or youth training
 
 Repeal the definition, substitute:
 
-                    <a name="advers-decision"></a>**_adverse decision_** means a decision under section 12R or 12T to stop the payment of Financial Supplement to a person.
+                    <a name="advers-decision"></a>**_adverse decision_** means a decision under section 12R or 12T to stop the payment of Financial Supplement to a person.
 
-## 75  Section 315
+## 75  Section 315
 
 Repeal the section.
 
@@ -11246,23 +11001,23 @@ Repeal the paragraphs.
 
 Repeal the subsection.
 
-## 82  Section 317
+## 82  Section 317
 
 Repeal the section.
 
 ## 83  Subsection 318(3)
 
-Omit “subsections (4) and”, substitute “subsection”.
+Omit “subsections (4) and”, substitute “subsection”.
 
 ## 84  Subsection 318(4)
 
-Repeal the subsection (including the note).
+Repeal the subsection (including the note).
 
 ## 85  Subsection 318(6)
 
 Repeal the subsection.
 
-## 86  Section 319
+## 86  Section 319
 
 Repeal the section.
 
@@ -11286,7 +11041,7 @@ Omit “or” (last occurring).
 
 Repeal the paragraph.
 
-## 92  Section 326
+## 92  Section 326
 
 Repeal the section.
 
@@ -11302,7 +11057,7 @@ Omit “or the Secretary to the Department of Social Security, as the case requi
 
 Omit “128”, substitute “1281”.
 
-## 96  Section 334
+## 96  Section 334
 
 Omit all the words (other than the note) after “made the decision”, substitute “were references to the Secretary”.
 
@@ -11314,7 +11069,7 @@ Repeal the paragraph.
 
 Omit “of the Department of which he or she is an officer”.
 
-## 99  Section 337
+## 99  Section 337
 
 Repeal the section.
 
@@ -11332,19 +11087,19 @@ Secretary may not delegate power under paragraph 355(1)(b)
 
 CEO may not subdelegate power under paragraph 355(1)(b)
 
-          (2A)  If the Secretary delegates to the CEO the Secretary’s power under paragraph 355(1)(b), the CEO cannot, despite section 33 of the Agency Act, delegate the power to an employee of the Agency.
+          (2A)  If the Secretary delegates to the CEO the Secretary’s power under paragraph 355(1)(b), the CEO cannot, despite section 33 of the Agency Act, delegate the power to an employee of the Agency.
 
 ## 102  Subsections 338(3), (4) and (5)
 
 Repeal the subsections.
 
-## 103  Section 338A
+## 103  Section 338A
 
 Repeal the section.
 
 ## 104  Subsection 339(1)
 
-Omit “Subject to subsection (2), the”, substitute “The”.
+Omit “Subject to subsection (2), the”, substitute “The”.
 
 ## 105  Subsection 339(2)
 
@@ -11352,7 +11107,7 @@ Repeal the subsection.
 
 ## 106  Subsection 341(1) 
 
-Omit “other than Part 8”.
+Omit “other than Part 8”.
 
 ## 107  Subsection 341(2)
 
@@ -11360,21 +11115,21 @@ Repeal the subsection.
 
 ## 108  Subsection 343(2)
 
-Repeal the subsection (except the note).
+Repeal the subsection (except the note).
 
 ## 109  Subsection 344(2)
 
-Repeal the subsection (including the note).
+Repeal the subsection (including the note).
 
-_Note:       The heading to subsection 344(1) is altered by omitting “other than Part 8”._
+_Note:       The heading to subsection 344(1) is altered by omitting “other than Part 8”._
 
 ## 110  Subsection 345(2)
 
-Repeal the subsection (except the note).
+Repeal the subsection (except the note).
 
-_Note:       The heading to subsection 345(1) is altered by omitting “other than Part 8”._
+_Note:       The heading to subsection 345(1) is altered by omitting “other than Part 8”._
 
-## 111  Section 346
+## 111  Section 346
 
 Repeal the section.
 
@@ -11402,11 +11157,11 @@ Repeal the subsections.
 
 Omit “, 345 or 346”, substitute “or 345”.
 
-## 118  Section 348
+## 118  Section 348
 
 Omit “of Social Security”.
 
-## 119  Section 349
+## 119  Section 349
 
 Repeal the section.
 
@@ -11418,7 +11173,7 @@ Omit “or the Social Security Act”.
 
 Omit “or the Social Security Act”.
 
-## 122  Section 352 (note 2)
+## 122  Section 352 (note 2)
 
 Omit “or the Social Security Act”.
 
@@ -11426,7 +11181,7 @@ Omit “or the Social Security Act”.
 
 Omit “or the Social Security Act”.
 
-## 124  Section 354
+## 124  Section 354
 
 Omit “or the Social Security Act” (wherever occurring).
 
@@ -11434,7 +11189,7 @@ Omit “or the Social Security Act” (wherever occurring).
 
 Omit “or the Social Security Act”.
 
-## 126  Section 358 (note 4)
+## 126  Section 358 (note 4)
 
 Repeal the note.
 
@@ -11446,11 +11201,11 @@ Repeal the note.
 
 Omit “or the Social Security Act”.
 
-## 129  Schedules 1, 2, 3 and 5
+## 129  Schedules 1, 2, 3 and 5
 
 Repeal the Schedules.
 
-Part 2—Transitional provisions
+Part 2—Transitional provisions
 
 ## 130  Definitions
 
@@ -11468,7 +11223,7 @@ In this Part, unless the contrary intention appears:
 
                     <a name=""></a><a name="authorised-review-offic"></a>**_authorised review officer_** means  an authorised review officer under the SA Act. 
 
-                    <a name="commenc-dai"></a>**_commencement day_** means 1 July 1998.
+                    <a name="commenc-dai"></a>**_commencement day_** means 1 July 1998.
 
                     <a name="offic"></a>**_officer_** has the same meaning as in the SA Act.
 
@@ -11476,29 +11231,29 @@ In this Part, unless the contrary intention appears:
 
                     <a name="secretari"></a>**_Secretary_** means:
 
-                     (a)  in relation to a decision of the kind referred to in paragraph (a) or (c) of the definition of **_applicable decision_**—the Secretary to the Department of Employment, Education, Training and Youth Affairs; or
+                     (a)  in relation to a decision of the kind referred to in paragraph (a) or (c) of the definition of **_applicable decision_**—the Secretary to the Department of Employment, Education, Training and Youth Affairs; or
 
-                     (b)  in relation to a decision of the kind referred to in paragraph (b) of the definition of **_applicable decision_**—the Secretary to the Department of Social Security.
+                     (b)  in relation to a decision of the kind referred to in paragraph (b) of the definition of **_applicable decision_**—the Secretary to the Department of Social Security.
 
                     <a name="ssat"></a>**_SSAT_** means the Social Security Appeals Tribunal.
 
-## 131  Transitional provisions—AUSTUDY payment for period ending on 3 July 1998
+## 131  Transitional provisions—AUSTUDY payment for period ending on 3 July 1998
 
 (1)        If:
 
-                     (a)  a payment of a benefit under the AUSTUDY scheme (including an advance payment) was made before the commencement day to a person in respect of a period that ends at the end of 3 July 1998; and
+                     (a)  a payment of a benefit under the AUSTUDY scheme (including an advance payment) was made before the commencement day to a person in respect of a period that ends at the end of 3 July 1998; and
 
                      (b)  the payment would have been lawfully made under the SA Act if that Act were not amended by this Schedule;
 
 that payment is taken to have been lawfully made as if the SA Act as in force immediately before the commencement day had continued in force.
 
-(2)        To avoid doubt, subitem (1) does not affect the working out of an amount of student assistance benefit overpayment under Part 6 of the SA Act.
+(2)        To avoid doubt, subitem (1) does not affect the working out of an amount of student assistance benefit overpayment under Part 6 of the SA Act.
 
 (3)        In spite of any provision in any other legislation:
 
-                     (a)  a person’s receipt of a benefit under the AUSTUDY scheme as referred to in subitem (1), to the extent that it relates to a period beginning on 1 July 1998 and ending at the end of 3 July 1998, is to be disregarded in working out the person’s entitlement to any youth allowance or austudy payment under the _Social Security Act 1991_; and
+                     (a)  a person’s receipt of a benefit under the AUSTUDY scheme as referred to in subitem (1), to the extent that it relates to a period beginning on 1 July 1998 and ending at the end of 3 July 1998, is to be disregarded in working out the person’s entitlement to any youth allowance or austudy payment under the _Social Security Act 1991_; and
 
-                     (b)  any youth allowance or austudy payment under the _Social Security Act 1991_ that the person receives, to the extent that it relates to that period, is to be disregarded in working out the person’s entitlement to a benefit that is authorised to be paid under subitem (1).
+                     (b)  any youth allowance or austudy payment under the _Social Security Act 1991_ that the person receives, to the extent that it relates to that period, is to be disregarded in working out the person’s entitlement to a benefit that is authorised to be paid under subitem (1).
 
 ## 132  Transitional provisions—claims and applications
 
@@ -11534,13 +11289,13 @@ the application has effect as if it had been made immediately before that day an
 
 (4)        Nothing in this item permits the granting of a benefit under the AUSTUDY scheme, a youth training allowance or a financial supplement for a period after the commencement day.
 
-_Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
+_Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
 
 ## 133  Transitional provisions—review of decisions made before commencement day
 
-(1)        Subject to subitem (4), if:
+(1)        Subject to subitem (4), if:
 
-                     (a)  an applicable decision might have been reviewed by the Secretary under section 303 of the SA Act before the commencement day; but
+                     (a)  an applicable decision might have been reviewed by the Secretary under section 303 of the SA Act before the commencement day; but
 
                      (b)  the Secretary did not so review that decision before that day;
 
@@ -11552,9 +11307,9 @@ then, on and after that day:
 
 as if the SA Act as in force immediately before that day had continued in force.
 
-(2)        Subject to subitem (4), if:
+(2)        Subject to subitem (4), if:
 
-                     (a)  a person might have applied to the Secretary, the SSAT or the AAT for a review of an applicable decision under Part 9 of the SA Act before the commencement day; but
+                     (a)  a person might have applied to the Secretary, the SSAT or the AAT for a review of an applicable decision under Part 9 of the SA Act before the commencement day; but
 
                      (b)  the person did not apply for such a review before that day;
 
@@ -11566,17 +11321,17 @@ then, on and after that day:
 
 as if the SA Act as in force immediately before that day had continued in force.
 
-(3)        Subject to subitem (4), if:
+(3)        Subject to subitem (4), if:
 
-                     (a)  an application to the Secretary, the SSAT or the AAT for a review of an applicable decision under Part 9 of the SA Act was made before the commencement day; and
+                     (a)  an application to the Secretary, the SSAT or the AAT for a review of an applicable decision under Part 9 of the SA Act was made before the commencement day; and
 
                      (b)  the application was not determined before that day;
 
 then, on and after that day, the application and any review (including any further review) resulting from that application have effect as if the SA Act as in force immediately before that day had continued in force.
 
-(4)        The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), (2) or (3), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme, a youth training allowance or Financial Supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
+(4)        The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), (2) or (3), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme, a youth training allowance or Financial Supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
 
-_Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
+_Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
 
 (5)        For the purposes of this item, if an applicable decision was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in this item to an applicable decision includes a reference to:
 
@@ -11588,11 +11343,11 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
 ## 134  Transitional provisions—review of decisions made on or after commencement day
 
-(1)        Subject to subitem (2), if:
+(1)        Subject to subitem (2), if:
 
                      (a)  on or after the commencement day an officer made a decision in relation to the AUSTUDY scheme, or in relation to the Student Financial Supplement Scheme in connection with the AUSTUDY scheme, under:
 
-                              (i)  Part 6 of the SA Act; or
+                              (i)  Part 6 of the SA Act; or
 
                              (ii)  the SA Act as continued in force because of this Part of the Schedule; and
 
@@ -11600,11 +11355,11 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
 the person has that right as if the SA Act as in force immediately before the commencement day had continued in force.
 
-(2)        The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme or the payment of a financial supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
+(2)        The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme or the payment of a financial supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
 
-_Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
+_Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
 
-(3)        For the purposes of this item, if a decision referred to in paragraph (1)(a) was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in subitem (1) to that decision includes a reference to:
+(3)        For the purposes of this item, if a decision referred to in paragraph (1)(a) was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in subitem (1) to that decision includes a reference to:
 
                      (a)  if a decision has been affirmed in connection with that review or further review—the decision as affirmed; or
 
@@ -11624,7 +11379,7 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
                      (b)  a student assistance overpayment;
 
-                     (c)  an amount payable to the Commonwealth in relation to an amount of a kind referred to in paragraph (a) or (b) (including an amount payable under section 40 or subsection 42(10) of the SA Act).
+                     (c)  an amount payable to the Commonwealth in relation to an amount of a kind referred to in paragraph (a) or (b) (including an amount payable under section 40 or subsection 42(10) of the SA Act).
 
                     <a name="secretari"></a>**_Secretary_** means:
 
@@ -11645,11 +11400,11 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
  
 
-###### Schedule 12—Consequential taxation amendments
+###### Schedule 12—Consequential taxation amendments
 
 Income Tax Assessment Act 1936
 
-## 1  Subsection 6(1) (subparagraph (b)(i) of the definition of _Commonwealth education or training payment_)
+## 1  Subsection 6(1) (subparagraph (b)(i) of the definition of _Commonwealth education or training payment_)
 
 Repeal the subparagraph.
 
@@ -11669,19 +11424,19 @@ Repeal the subsections.
 
 After “_Higher Education Funding Act 1988_”, insert “, the _Social Security Act 1991_”.
 
-## 6  Subsection 79A(4) (paragraph (a) of the definition of _prescribed allowance_)
+## 6  Subsection 79A(4) (paragraph (a) of the definition of _prescribed allowance_)
 
-Omit “, Part 8 of the _Student and Youth Assistance Act 1973_”.
+Omit “, Part 8 of the _Student and Youth Assistance Act 1973_”.
 
-## 7  Subsection 82A(2) (paragraph (c) of the definition of _expenses of self-education_)
+## 7  Subsection 82A(2) (paragraph (c) of the definition of _expenses of self-education_)
 
-After “under”, insert “Chapter 2B of the _Social Security Act 1991_ or”.
+After “under”, insert “Chapter 2B of the _Social Security Act 1991_ or”.
 
-## 8  Subsection 160AAA(1) (paragraph (a) of the definition of _rebatable benefit_)
+## 8  Subsection 160AAA(1) (paragraph (a) of the definition of _rebatable benefit_)
 
 After “2.8A,”, insert “2.11, 2.11A,”.
 
-## 9  Subsection 160AAA(1) (paragraph (b) of the definition of _rebatable pension_)
+## 9  Subsection 160AAA(1) (paragraph (b) of the definition of _rebatable pension_)
 
 After “PP (partnered),”, insert “2.11, 2.11A,”.
 
@@ -11691,7 +11446,7 @@ Insert:
 
                     <a name="f-assess-debt"></a>**_FS assessment debt_** means an FS assessment debt under:
 
-                     (a)  an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme; or
+                     (a)  an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme; or
 
                      (b)  the _Student Assistance Act 1973_.
 
@@ -11699,13 +11454,13 @@ Insert:
 
 Insert:
 
-                    <a name="hec-assess-debt"></a>**_HEC assessment debt_** has the same meaning as in Chapter 5A of the _Higher Education Funding Act 1988_; 
+                    <a name="hec-assess-debt"></a>**_HEC assessment debt_** has the same meaning as in Chapter 5A of the _Higher Education Funding Act 1988_; 
 
 ## 12  After paragraph 202(h)
 
 Insert:
 
-                    (ha)  to facilitate the administration of a provision of an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme, being a provision relating to the recovery through the taxation system of a student’s outstanding indebtedness in respect of financial supplement paid to the student in accordance with the Scheme; and
+                    (ha)  to facilitate the administration of a provision of an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme, being a provision relating to the recovery through the taxation system of a student’s outstanding indebtedness in respect of financial supplement paid to the student in accordance with the Scheme; and
 
 ## 13  Paragraph 202CB(6)(a)
 
@@ -11721,7 +11476,7 @@ Repeal the paragraph.
 
 ## 16  Paragraph 202CB(6)(b)
 
-Omit “such a benefit or pension”, substitute “a payment referred to in paragraph (a)”.
+Omit “such a benefit or pension”, substitute “a payment referred to in paragraph (a)”.
 
 ## 17  Paragraph 202CE(7)(a)
 
@@ -11737,9 +11492,9 @@ Repeal the paragraph.
 
 ## 20  Paragraph 202CE(7)(b)
 
-Omit “such a benefit or pension”, substitute “a payment referred to in paragraph (a)”.
+Omit “such a benefit or pension”, substitute “a payment referred to in paragraph (a)”.
 
-## 21  Subsection 221A(1) (paragraph (c) of the definition of _prescribed non-resident_)
+## 21  Subsection 221A(1) (paragraph (c) of the definition of _prescribed non-resident_)
 
 After “Part” insert “2.11, 2.11A,”. 
 
@@ -11749,25 +11504,25 @@ Repeal the definition, substitute:
 
                     <a name="f-assess-debt"></a>**_FS assessment debt_** means an FS assessment debt under:
 
-                     (a)  an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme; or
+                     (a)  an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme; or
 
                      (b)  the _Student Assistance Act 1973_.
 
 ## 23  Application—payments of AUSTUDY
 
-The amendments to the _Income Tax Assessment Act 1936_ made by this Part do not apply to payments of benefits under the AUSTUDY scheme under Part 2 of the _Student Assistance Act 1973_ (as in force before 1 July 1998).
+The amendments to the _Income Tax Assessment Act 1936_ made by this Part do not apply to payments of benefits under the AUSTUDY scheme under Part 2 of the _Student Assistance Act 1973_ (as in force before 1 July 1998).
 
-Note:          This Act repeals Part 2 of the _Student Assistance Act 1973_(as in force before 1 July 1998), and payments of benefits under the AUSTUDY scheme will cease to be made under that Part.
+Note:          This Act repeals Part 2 of the _Student Assistance Act 1973_(as in force before 1 July 1998), and payments of benefits under the AUSTUDY scheme will cease to be made under that Part.
 
 ## 24  Application—payments of youth training allowance
 
-The amendments to the _Income Tax Assessment Act 1936_ made by this Part do not apply to payments of youth training allowance under Part 8 of the _Student Assistance Act 1973_ (as in force before 1 July 1998).
+The amendments to the _Income Tax Assessment Act 1936_ made by this Part do not apply to payments of youth training allowance under Part 8 of the _Student Assistance Act 1973_ (as in force before 1 July 1998).
 
-Note:          This Act repeals Part 8 of the _Student Assistance Act 1973_(as in force before 1 July 1998), and payments of youth training allowance will cease to be made under that Part.
+Note:          This Act repeals Part 8 of the _Student Assistance Act 1973_(as in force before 1 July 1998), and payments of youth training allowance will cease to be made under that Part.
 
 Income Tax Assessment Act 1997
 
-## 25  Section 11-15 (table item headed “social security or like payments”)
+## 25  Section 11-15 (table item headed “social security or like payments”)
 
 Omit:
 
@@ -11783,18 +11538,16 @@ Omit:
       <div>youth training allowance, payment of............................</div>
     </td>
     <td>
-      <div>
-        <b>24ABZE and 24ABZF</b>
-      </div>
+      <div><b>24ABZE and 24ABZF</b></div>
     </td>
   </tr>
 </tbody></table>
 
 ## 26  Paragraph 26-20(1)(d)
 
-After “under”, insert “Chapter 2B of the _Social Security Act 1991_ or”.
+After “under”, insert “Chapter 2B of the _Social Security Act 1991_ or”.
 
-## 27  Section 52-10 (after table item 2.1)
+## 27  Section 52-10 (after table item 2.1)
 
 Insert:
 
@@ -11814,27 +11567,24 @@ Insert:
       <div>2A.1</div>
     </td>
     <td>
-      <div>
-        <b>Austudy payment</b>
-      </div>
+      <div><b>Austudy payment</b></div>
     </td>
     <td>
-      <div>Supplementary amount is exempt (see section 52-15)</div>
+      <div>Supplementary amount is exempt (see section 52-15)</div>
     </td>
     <td>
-      <div>Supplementary amount, and tax-free amount, are exempt (see sections 52-15
-        and 52-20)</div>
+      <div>Supplementary amount, and tax-free amount, are exempt (see sections 52-15 and 52-20)</div>
     </td>
     <td>
       <div>Exempt</div>
     </td>
     <td>
-      <div>Exempt up to the tax-free amount (see section 52-30)</div>
+      <div>Exempt up to the tax-free amount (see section 52-30)</div>
     </td>
   </tr>
 </tbody></table>
 
-## 28  Section 52-10 (after table item 13.1)
+## 28  Section 52-10 (after table item 13.1)
 
 Insert:
 
@@ -11854,9 +11604,7 @@ Insert:
       <div>13A.1</div>
     </td>
     <td>
-      <div>
-        <b>Fares allowance</b>
-      </div>
+      <div><b>Fares allowance</b></div>
     </td>
     <td>
       <div>Exempt</div>
@@ -11873,7 +11621,7 @@ Insert:
   </tr>
 </tbody></table>
 
-## 29  Section 52-10 (after table item 22.1)
+## 29  Section 52-10 (after table item 22.1)
 
 Insert:
 
@@ -11893,9 +11641,7 @@ Insert:
       <div>22A.1</div>
     </td>
     <td>
-      <div>
-        <b>Pensioner education supplement</b>
-      </div>
+      <div><b>Pensioner education supplement</b></div>
     </td>
     <td>
       <div>Exempt</div>
@@ -11912,7 +11658,7 @@ Insert:
   </tr>
 </tbody></table>
 
-## 30  Section 52-10 (at the end of the table)
+## 30  Section 52-10 (at the end of the table)
 
 Add:
 
@@ -11932,51 +11678,48 @@ Add:
       <div>35.1</div>
     </td>
     <td>
-      <div>
-        <b>Youth allowance</b>
-      </div>
+      <div><b>Youth allowance</b></div>
     </td>
     <td>
-      <div>Supplementary amount is exempt (see section 52-15)</div>
+      <div>Supplementary amount is exempt (see section 52-15)</div>
     </td>
     <td>
-      <div>Supplementary amount, and tax-free amount, are exempt (see sections 52-15
-        and 52-20)</div>
+      <div>Supplementary amount, and tax-free amount, are exempt (see sections 52-15 and 52-20)</div>
     </td>
     <td>
       <div>Exempt</div>
     </td>
     <td>
-      <div>Exempt up to the tax-free amount (see section 52-30)</div>
+      <div>Exempt up to the tax-free amount (see section 52-30)</div>
     </td>
   </tr>
 </tbody></table>
 
-## 31  Section 52-15 (table item 1, paragraph (d) of the column relating to the supplementary amount)
+## 31  Section 52-15 (table item 1, paragraph (d) of the column relating to the supplementary amount)
 
 Omit “; and”.
 
-## 32  Section 52-15 (table item 1, paragraph (e) of the column relating to the supplementary amount)
+## 32  Section 52-15 (table item 1, paragraph (e) of the column relating to the supplementary amount)
 
 Repeal the paragraph.
 
-## 33  Section 52-15 (table item 2)
+## 33  Section 52-15 (table item 2)
 
 After “Widow allowance”, insert “Youth allowance”.
 
-## 34  Section 52-15 (table item 2, paragraph (c) of the column relating to the supplementary amount)
+## 34  Section 52-15 (table item 2, paragraph (c) of the column relating to the supplementary amount)
 
 Omit “; and”.
 
-## 35  Section 52-15 (table item 2, paragraph (d) of the column relating to the supplementary amount)
+## 35  Section 52-15 (table item 2, paragraph (d) of the column relating to the supplementary amount)
 
 Repeal the paragraph.
 
-## 36  Section 52-15 (table item 4, paragraph (d) of the column relating to the supplementary amount)
+## 36  Section 52-15 (table item 4, paragraph (d) of the column relating to the supplementary amount)
 
 Repeal the paragraph.
 
-## 37  Section 52-15 (at the end of the table)
+## 37  Section 52-15 (at the end of the table)
 
 Add:
 
@@ -12004,7 +11747,7 @@ Add:
   </tr>
 </tbody></table>
 
-## 38  Subsection 52-20(3) (after table item 5)
+## 38  Subsection 52-20(3) (after table item 5)
 
 Insert:
 
@@ -12021,7 +11764,7 @@ Insert:
       <div>5A</div>
     </td>
     <td>
-      <div>Division 10 of Part 2.11</div>
+      <div>Division 10 of Part 2.11</div>
     </td>
     <td>
       <div>paragraph 567(1)(f)</div>
@@ -12032,7 +11775,7 @@ Insert:
       <div>5B</div>
     </td>
     <td>
-      <div>Division 10 of Part 2.11A</div>
+      <div>Division 10 of Part 2.11A</div>
     </td>
     <td>
       <div>paragraph 592(1)(f)</div>
@@ -12042,13 +11785,13 @@ Insert:
 
 ## 39  Subsection 52-30(1)
 
-Before “Mature age allowance (paid under Part 2.12B)”, insert “Austudy payment”.
+Before “Mature age allowance (paid under Part 2.12B)”, insert “Austudy payment”.
 
 ## 40  Subsection 52-30(1) (at the end of the table)
 
 Add “Youth allowance”.
 
-## 41  Section 52-40 (after table item 2)
+## 41  Section 52-40 (after table item 2)
 
 Insert:
 
@@ -12070,18 +11813,18 @@ Insert:
       <div>Austudy payment</div>
     </td>
     <td>
-      <div>Part 2.11A</div>
+      <div>Part 2.11A</div>
     </td>
     <td>
-      <div>Section 592A</div>
+      <div>Section 592A</div>
     </td>
     <td>
-      <div>Section 592B</div>
+      <div>Section 592B</div>
     </td>
   </tr>
 </tbody></table>
 
-## 42  Section 52-40 (after table item 13)
+## 42  Section 52-40 (after table item 13)
 
 Insert:
 
@@ -12103,7 +11846,7 @@ Insert:
       <div>Fares allowance</div>
     </td>
     <td>
-      <div>Part 2.26</div>
+      <div>Part 2.26</div>
     </td>
     <td>
       <div>Not applicable</div>
@@ -12114,7 +11857,7 @@ Insert:
   </tr>
 </tbody></table>
 
-## 43  Section 52-40 (after table item 22)
+## 43  Section 52-40 (after table item 22)
 
 Insert:
 
@@ -12136,7 +11879,7 @@ Insert:
       <div>Pensioner education supplement</div>
     </td>
     <td>
-      <div>Part 2.27</div>
+      <div>Part 2.27</div>
     </td>
     <td>
       <div>Not applicable</div>
@@ -12147,7 +11890,7 @@ Insert:
   </tr>
 </tbody></table>
 
-## 44  Section 52-40 (at the end of the table)
+## 44  Section 52-40 (at the end of the table)
 
 Add:
 
@@ -12169,13 +11912,13 @@ Add:
       <div>Youth allowance</div>
     </td>
     <td>
-      <div>Part 2.11</div>
+      <div>Part 2.11</div>
     </td>
     <td>
-      <div>Section 567A</div>
+      <div>Section 567A</div>
     </td>
     <td>
-      <div>Section 567B</div>
+      <div>Section 567B</div>
     </td>
   </tr>
 </tbody></table>
@@ -12196,32 +11939,32 @@ Repeal the definition, substitute:
 
                     <a name="f-assess-debt"></a>**_FS assessment debt_** means an FS assessment debt under:
 
-                     (a)  an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme; or
+                     (a)  an instrument under Chapter 2B of the _Social Security Act 1991_ establishing a Student Financial Supplement Scheme; or
 
                      (b)  the _Student Assistance Act 1973_.
 
 
  
 
-###### Schedule 13—Amendment of various Acts consequential on youth allowance and austudy payment
+###### Schedule 13—Amendment of various Acts consequential on youth allowance and austudy payment
 
 Aged Care Act 1997
 
-## 1  Clause 1 of Schedule 1 (paragraph (c) of the definition of _income support payment_)
+## 1  Clause 1 of Schedule 1 (paragraph (c) of the definition of _income support payment_)
 
 Omit “_1992_; or”, substitute “_1992_.”.
 
-## 2  Clause 1 of Schedule 1 (paragraph (d) of the definition of _income support payment_)
+## 2  Clause 1 of Schedule 1 (paragraph (d) of the definition of _income support payment_)
 
 Repeal the paragraph.
 
 ## 3  Application
 
-The amendments made by items 1 and 2 apply for the purposes of working out whether a person was receiving income support payment at or after the commencement of this item.
+The amendments made by items 1 and 2 apply for the purposes of working out whether a person was receiving income support payment at or after the commencement of this item.
 
 Bankruptcy Act 1966
 
-## 4  Section 139L (subparagraph (b)(iii) of the definition of _income_)
+## 4  Section 139L (subparagraph (b)(iii) of the definition of _income_)
 
 Repeal the subparagraph.
 
@@ -12231,7 +11974,7 @@ Child Care Payments Act 1997
 
 Insert:
 
-                    (ba)  receives a youth allowance or a newstart allowance under Part 2.11 or 2.12 of the _Social Security Act 1991_; or
+                    (ba)  receives a youth allowance or a newstart allowance under Part 2.11 or 2.12 of the _Social Security Act 1991_; or
 
 ## 6  Paragraph 15(1)(d)
 
@@ -12253,17 +11996,17 @@ Repeal the paragraph, substitute:
 
 Data-matching Program (Assistance and Tax) Act 1990
 
-## 9  Subsection 3(1) (at the end of paragraph (da) of the definition of _personal assistance_)
+## 9  Subsection 3(1) (at the end of paragraph (da) of the definition of _personal assistance_)
 
-Add “as in force before 1 July 1998”.
+Add “as in force before 1 July 1998”.
 
 Disability Services Act 1986
 
-## 10  Subsection 22(4) (paragraph (b) of the definition of _pensioner or beneficiary_)
+## 10  Subsection 22(4) (paragraph (b) of the definition of _pensioner or beneficiary_)
 
 After “2.7,”, insert “2.11, 2.11A,”.
 
-## 11  Subsection 22(4) (paragraph (ca) of the definition of _pensioner or beneficiary_)
+## 11  Subsection 22(4) (paragraph (ca) of the definition of _pensioner or beneficiary_)
 
 Repeal the paragraph.
 
@@ -12279,7 +12022,7 @@ After “**_social security benefit_**”, insert “**_youth allowance_**”.
 
 ## 14  Subsection 3(2) (definition of _youth training allowance_)
 
-After “_1973_”, insert “as in force before 1 July 1998”.
+After “_1973_”, insert “as in force before 1 July 1998”.
 
 ## 15  Subsection 5(2)
 
@@ -12301,7 +12044,7 @@ Omit “youth training allowance or newstart allowance”, substitute “newstar
 
 Omit “18”, substitute “21”.
 
-_Note:       The heading to section 21A is altered by omitting “18” and substituting “21”._
+_Note:       The heading to section 21A is altered by omitting “18” and substituting “21”._
 
 ## 20  Paragraphs 21A(1)(a) and (b)
 
@@ -12311,7 +12054,7 @@ Omit “training” (wherever occurring).
 
 Omit “18”, substitute “21”.
 
-_Note:       The heading to section 22 is altered by omitting “18” and substituting “21”._
+_Note:       The heading to section 22 is altered by omitting “18” and substituting “21”._
 
 ## 22  Paragraph 43(1)(a)
 
@@ -12331,7 +12074,7 @@ Repeal the subsection, substitute:
 
              (4)  If the farm was sold within the period of 9 months from the beginning of the grant period in relation to the person and the person had not reached the age of 21 years at the time of the sale:
 
-                     (a)  the person is entitled to a grant equal to the amount of youth allowance that would be payable to the person in respect of the period (the **_youth qualifying period_**) from the time of the sale of the farm to the end of the period of 9 months or the time when the person reaches the age of 21 years, whichever first happens, if, under Part 2.11 of the _Social Security Act 1991_:
+                     (a)  the person is entitled to a grant equal to the amount of youth allowance that would be payable to the person in respect of the period (the **_youth qualifying period_**) from the time of the sale of the farm to the end of the period of 9 months or the time when the person reaches the age of 21 years, whichever first happens, if, under Part 2.11 of the _Social Security Act 1991_:
 
                               (i)  the person were entitled to receive youth allowance for the youth qualifying period; and
 
@@ -12343,11 +12086,11 @@ Repeal the subsection, substitute:
 
                              (ii)  newstart allowance were payable to the person at the rate that would be the person’s maximum payment rate at the beginning of the post-21 period.
 
-Note:       For the person’s maximum payment rate, see the Youth Allowance Rate Calculator in Part 3.5 of the _Social Security Act 1991_ or Module A of the Benefit Rate Calculator applicable to the person under section 643 of that Act (as appropriate).
+Note:       For the person’s maximum payment rate, see the Youth Allowance Rate Calculator in Part 3.5 of the _Social Security Act 1991_ or Module A of the Benefit Rate Calculator applicable to the person under section 643 of that Act (as appropriate).
 
 ## 26  Application
 
-The amendments made by items 24 and 25 apply in relation to the sale of farms on or after the commencement of this item.
+The amendments made by items 24 and 25 apply in relation to the sale of farms on or after the commencement of this item.
 
 Health Insurance Act 1973
 
@@ -12363,7 +12106,7 @@ Insert:
 
 ## 29  Subsection 4D(1A)
 
-Omit “training allowance under Part 8 of the _Student and Youth Assistance Act 1973_”, substitute “allowance but is not undertaking full-time study as defined in the _Social Security Act 1991_”.
+Omit “training allowance under Part 8 of the _Student and Youth Assistance Act 1973_”, substitute “allowance but is not undertaking full-time study as defined in the _Social Security Act 1991_”.
 
 ## 30  Subsection 4D(3) (definition of _qualified recipient_)
 
@@ -12383,7 +12126,7 @@ Repeal the definition, substitute:
 
 ## 31  Transitional provision for qualified recipients
 
-Section 4D of the _Health Insurance Act 1973_ as amended by item 30 operates as if a person who received youth training allowance under Part 8 of the _Student and Youth Assistance Act 1973_ before the commencement of that item had received a social security benefit under the _Social Security Act 1991_ for each period for which the person received youth training allowance.
+Section 4D of the _Health Insurance Act 1973_ as amended by item 30 operates as if a person who received youth training allowance under Part 8 of the _Student and Youth Assistance Act 1973_ before the commencement of that item had received a social security benefit under the _Social Security Act 1991_ for each period for which the person received youth training allowance.
 
 ## 32  After subsection 5B(1)
 
@@ -12391,7 +12134,7 @@ Insert:
 
           (1A)  If:
 
-                     (a)  a person was declared under section 5D to be a disadvantaged person; and
+                     (a)  a person was declared under section 5D to be a disadvantaged person; and
 
                      (b)  on the last day for which that declaration was in force he or she:
 
@@ -12401,7 +12144,7 @@ Insert:
 
                      (c)  he or she received youth allowance for that day;
 
-this section applies to him or her as if he or she had lodged on that day an application in accordance with subsection (1) of this section.
+this section applies to him or her as if he or she had lodged on that day an application in accordance with subsection (1) of this section.
 
 ## 33  Subsection 5B(12) (definition of _dependant_)
 
@@ -12419,9 +12162,9 @@ Repeal the definition, substitute:
 
 ## 34  Subsection 5B(12) (definition of _income_)
 
-Omit “or Part 8 of the _Student and Youth Assistance Act 1973_”.
+Omit “or Part 8 of the _Student and Youth Assistance Act 1973_”.
 
-## 35  Subsection 5B(12) (paragraph (aa) of the definition of _income_)
+## 35  Subsection 5B(12) (paragraph (aa) of the definition of _income_)
 
 Repeal the paragraph.
 
@@ -12429,13 +12172,13 @@ Repeal the paragraph.
 
 Omit “youth training allowance”, substitute “youth allowance”.
 
-_Note:       The heading to section 5D is altered by inserting “, youth allowance” after “newstart allowance”._
+_Note:       The heading to section 5D is altered by inserting “, youth allowance” after “newstart allowance”._
 
 ## 37  After subsection 5D(1)
 
 Insert:
 
-       (1AA)  However, the Secretary must not declare a person to be a disadvantaged person under subsection (1) if the person is undertaking full-time study (as defined in the _Social Security Act 1991_) when he or she is granted a youth allowance.
+       (1AA)  However, the Secretary must not declare a person to be a disadvantaged person under subsection (1) if the person is undertaking full-time study (as defined in the _Social Security Act 1991_) when he or she is granted a youth allowance.
 
 ## 38  Paragraph 5D(1A)(b)
 
@@ -12445,9 +12188,9 @@ Omit “youth training allowance”, substitute “youth allowance”.
 
 Insert:
 
-             (2)  However, the Secretary must not declare a person to be a disadvantaged person under subsection (1A) if the person is undertaking full-time study (as defined in the _Social Security Act 1991_) when a determination is made to pay him or her a youth allowance.
+             (2)  However, the Secretary must not declare a person to be a disadvantaged person under subsection (1A) if the person is undertaking full-time study (as defined in the _Social Security Act 1991_) when a determination is made to pay him or her a youth allowance.
 
-             (3)  Subsections (1AA) and (2) do not cause a declaration under this section to cease to be in force if the person who is the subject of the declaration starts to undertake full-time study (as defined in the _Social Security Act 1991_) while the declaration is in force.
+             (3)  Subsections (1AA) and (2) do not cause a declaration under this section to cease to be in force if the person who is the subject of the declaration starts to undertake full-time study (as defined in the _Social Security Act 1991_) while the declaration is in force.
 
 ## 40  Subsection 5D(8) (definition of _youth training allowance_)
 
@@ -12455,23 +12198,23 @@ Repeal the definition.
 
 ## 41  Saving provision
 
-A declaration made under section 5D of the _Health Insurance Act 1973_ as in force before the commencement of this item continues in force for the period specified in the declaration, despite the amendment of that section by this Act.
+A declaration made under section 5D of the _Health Insurance Act 1973_ as in force before the commencement of this item continues in force for the period specified in the declaration, despite the amendment of that section by this Act.
 
-## 42  Section 130H
+## 42  Section 130H
 
-Omit “and sections 351 to 360 of the _Student and Youth Assistance Act 1973_”.
+Omit “and sections 351 to 360 of the _Student and Youth Assistance Act 1973_”.
 
 National Health Act 1953
 
-## 43  Subsection 4(1) (subparagraph (aa)(iii) of the definition of _pensioner_)
+## 43  Subsection 4(1) (subparagraph (aa)(iii) of the definition of _pensioner_)
 
 After “mature age allowance”, insert “or austudy payment”.
 
-## 44  Subsection 4(1) (subparagraph (a)(i) of the definition of _social security beneficiary_)
+## 44  Subsection 4(1) (subparagraph (a)(i) of the definition of _social security beneficiary_)
 
 After “benefit”, insert “(other than youth allowance or austudy payment)”.
 
-## 45  Subsection 4(1) (paragraph (aa) of the definition of _social security beneficiary_)
+## 45  Subsection 4(1) (paragraph (aa) of the definition of _social security beneficiary_)
 
 Repeal the paragraph, substitute:
 
@@ -12479,9 +12222,9 @@ Repeal the paragraph, substitute:
 
 ## 46  Application
 
-The amendments made by items 44 and 45 apply for the purposes of working out whether a person is a social security beneficiary (within the meaning of the _National Health Act 1953_) at a time after the commencement of those items.
+The amendments made by items 44 and 45 apply for the purposes of working out whether a person is a social security beneficiary (within the meaning of the _National Health Act 1953_) at a time after the commencement of those items.
 
-## 47  Subsection 84(1) (paragraph (ae) of the definition of _concessional beneficiary_)
+## 47  Subsection 84(1) (paragraph (ae) of the definition of _concessional beneficiary_)
 
 Repeal the paragraph, substitute:
 
@@ -12489,19 +12232,19 @@ Repeal the paragraph, substitute:
 
 Registration of Deaths Abroad Act 1984
 
-## 48  Subsection 3(1) (paragraph (ca) of the definition of _prescribed person_)
+## 48  Subsection 3(1) (paragraph (ca) of the definition of _prescribed person_)
 
 Repeal the paragraph.
 
 Telecommunications Act 1997
 
-## 49  Subsection 23(11) (paragraph (a) of the definition of _tertiary education institution_)
+## 49  Subsection 23(11) (paragraph (a) of the definition of _tertiary education institution_)
 
 Omit “_Student and Youth Assistance Act 1973_”, substitute “_Student Assistance Act 1973_”.
 
 Veterans’ Entitlements Act 1986
 
-## 50  Section 5 (index)
+## 50  Section 5 (index)
 
 Omit:
 
@@ -12530,7 +12273,7 @@ Omit:
   </tr>
 </tbody></table>
 
-## 51  Section 5 (index)
+## 51  Section 5 (index)
 
 Insert in their appropriate alphabetical position, determined on a letter-by-letter basis:
 
@@ -12571,15 +12314,15 @@ Insert:
 
                      (a)  is receiving a youth allowance under the Social Security Act; and
 
-                     (b)  is not independent within the meaning of Part 3.5 of that Act;
+                     (b)  is not independent within the meaning of Part 3.5 of that Act;
 
 is not a **_member of a couple_** for the purposes of:
 
                      (c)  the provisions of this Act referred to in the table at the end of this subsection; and
 
-                     (d)  any provision of this Act that applies for the purposes of a provision mentioned in paragraph (c).
+                     (d)  any provision of this Act that applies for the purposes of a provision mentioned in paragraph (c).
 
-Note:          Paragraph (d) has the effect of treating a person as not being a member of a couple in provisions that apply for the purposes of the income test, assets test or compensation recovery provisions, including section 5H (Income test definitions), section 5L (Assets test definitions), section 5NB (Compensation recovery definitions) and Divisions 1 to 11 of Part IIIB (General provisions relating to the income and assets tests).
+Note:          Paragraph (d) has the effect of treating a person as not being a member of a couple in provisions that apply for the purposes of the income test, assets test or compensation recovery provisions, including section 5H (Income test definitions), section 5L (Assets test definitions), section 5NB (Compensation recovery definitions) and Divisions 1 to 11 of Part IIIB (General provisions relating to the income and assets tests).
 
 <table>
 <colgroup>
@@ -12591,26 +12334,18 @@ Note:          Paragraph (d) has the effect of treating a pe
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Affected provisions</b>
-      </div>
+      <div><b>Affected provisions</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Provisions of this Act</b>
-      </div>
+      <div><b>Provisions of this Act</b></div>
     </td>
     <td>
-      <div>
-        <b>Subject matter</b>
-      </div>
+      <div><b>Subject matter</b></div>
     </td>
   </tr>
 </thead>
@@ -12620,7 +12355,7 @@ Note:          Paragraph (d) has the effect of treating a pe
       <div>1</div>
     </td>
     <td>
-      <div>Part IIIC</div>
+      <div>Part IIIC</div>
     </td>
     <td>
       <div>Compensation recovery</div>
@@ -12631,7 +12366,7 @@ Note:          Paragraph (d) has the effect of treating a pe
       <div>2</div>
     </td>
     <td>
-      <div>Module E of the Rate Calculator in Part 2 of Schedule 6</div>
+      <div>Module E of the Rate Calculator in Part 2 of Schedule 6</div>
     </td>
     <td>
       <div>Ordinary/adjusted income test</div>
@@ -12642,7 +12377,7 @@ Note:          Paragraph (d) has the effect of treating a pe
       <div>3</div>
     </td>
     <td>
-      <div>Module F of the Rate Calculator in Part 2 of Schedule 6</div>
+      <div>Module F of the Rate Calculator in Part 2 of Schedule 6</div>
     </td>
     <td>
       <div>Assets test</div>
@@ -12662,7 +12397,7 @@ Repeal the subparagraph.
 
 Omit “or a youth training allowance”.
 
-## 57  Subsection 5F(1) (at the end of paragraph (j) of the definition of _child_)
+## 57  Subsection 5F(1) (at the end of paragraph (j) of the definition of _child_)
 
 Add “(except youth allowance paid because the person is at least 16 but less than 25 and is receiving full-time education at a school, college or university)”.
 
@@ -12680,7 +12415,7 @@ Repeal the paragraph.
 
 ## 61  Application
 
-The repeal of paragraph 5H(8)(ha) of the _Veterans’ Entitlements Act 1986_ applies for the purposes of working out income earned, derived or received after 1 July 1998.
+The repeal of paragraph 5H(8)(ha) of the _Veterans’ Entitlements Act 1986_ applies for the purposes of working out income earned, derived or received after 1 July 1998.
 
 ## 62  Subparagraph 5H(8)(v)(i)
 
@@ -12700,13 +12435,13 @@ Insert:
 
 Repeal the definition.
 
-## 66  Subsection 5Q(1) (after paragraph (aa) of the definition of _social security benefit_)
+## 66  Subsection 5Q(1) (after paragraph (aa) of the definition of _social security benefit_)
 
 Insert:
 
-                    (ab)  youth allowance under Part 2.11; or
+                    (ab)  youth allowance under Part 2.11; or
 
-                    (ac)  austudy payment under Part 2.11A; or
+                    (ac)  austudy payment under Part 2.11A; or
 
 ## 67  Subsection 5Q(1)
 
@@ -12754,23 +12489,23 @@ Repeal the paragraph, substitute:
 
 Omit “AUSTUDY scheme”, substitute “Social Security Act or the _Student Assistance Act 1973_”.
 
-## 76  Subparagraph 118AA(d)(i)
+## 76  Subparagraph 118AA(d)(i)
 
-Omit “an approved course under the AUSTUDY scheme”, substitute “the subject of a determination made under section 5D of the _Student Assistance Act 1973_ by the Minister administering that Act”.
+Omit “an approved course under the AUSTUDY scheme”, substitute “the subject of a determination made under section 5D of the _Student Assistance Act 1973_ by the Minister administering that Act”.
 
-## 77  Subsection 205(8) (paragraph (d) of the definition of _prescribed educational scheme_)
+## 77  Subsection 205(8) (paragraph (d) of the definition of _prescribed educational scheme_)
 
 Repeal the paragraph.
 
 ## 78  Saving provision
 
-The amendment made by item 77 does not affect arrangements or proceedings for recovery of an amount purportedly paid under the AUSTUDY scheme before the commencement of this item but was not lawfully payable under that scheme.
+The amendment made by item 77 does not affect arrangements or proceedings for recovery of an amount purportedly paid under the AUSTUDY scheme before the commencement of this item but was not lawfully payable under that scheme.
 
-## 79  After subclause 10(3) of Schedule 5
+## 79  After subclause 10(3) of Schedule 5
 
 Insert:
 
-          (3A)  Subclause (2) ceases to apply to the rate of service pension or income support supplement payable to a person:
+          (3A)  Subclause (2) ceases to apply to the rate of service pension or income support supplement payable to a person:
 
                      (a)  from the start of the day the _Social Security Legislation Amendment (Youth Allowance) Act 1998_ commences, if the child or youngest child because of whom this clause applies to the person is 16 or over then; or
 
@@ -12784,15 +12519,15 @@ Insert:
 
 at a time at or after the commencement of the _Social Security Legislation Amendment (Youth Allowance) Act 1998_, disregard a child who is 16 or over at the time.
 
-## 80  Paragraph SCH6-E10(d) of Schedule 6
+## 80  Paragraph SCH6-E10(d) of Schedule 6
 
 Repeal the paragraph.
 
-## 81  Paragraph SCH6-G4(b) of Schedule 6
+## 81  Paragraph SCH6-G4(b) of Schedule 6
 
 Omit “, a social security benefit or a youth training allowance”, substitute “or a social security benefit”.
 
-## 82  At the end of Module E of the Rate Calculator in Schedule 6
+## 82  At the end of Module E of the Rate Calculator in Schedule 6
 
 Add:
 
@@ -12803,7 +12538,7 @@ SCH6-E12  In this Module:
 
  
 
-###### Schedule 14—Amendment of the Social Security Act 1991 relating to minimum age for youth allowance
+###### Schedule 14—Amendment of the Social Security Act 1991 relating to minimum age for youth allowance
 
 ## 1  Paragraph 543A(2A)(p)
 
