@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00323/Html/225C8A30559D1765CA25719A001D06B6/$FILE/image001.gif)
 
 # Trust Recoupment Tax Assessment Act 1985 
 
 **Act No. 9 of 1985 as amended**
 
-This compilation was prepared on 29 September 2006 
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 1 July 2006 
+taking into account amendments up to Act No. 55 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -46,6 +47,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to the assessment and collection of a tax in respect of income of certain trusts
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -60,11 +62,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="applied-penalti-tax"></a>**_applied penalty tax_** means a penalty under Part 4-25 in Schedule 1 to the _Taxation Administration Act 1953_ in relation to trust recoupment tax.
+                    <a name="applied-penalti-tax"></a>**_applied penalty tax_** means additional tax under Part VII of the Assessment Act in relation to trust recoupment tax.
 
                     <a name="assess-act"></a>**_Assessment Act_** means the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_.
 
-                    <a name="associ"></a>**_associate_** has the same meaning in relation to a person as that expression has in relation to a person in section 318 of the Assessment Act.
+                    <a name="associ"></a>**_associate_** has the same meaning in relation to a person as that expression has in relation to a person in section 26AAB of the Assessment Act.
 
                     <a name="compani"></a>**_company_** does not include a company in the capacity of trustee of a trust estate.
 
@@ -80,7 +82,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="elig-beneficiari-class"></a>**_eligible beneficiaries class_**, in relation to a secondary taxable amount, means the eligible beneficiaries class ascertained under section 6 in relation to that secondary taxable amount.
 
-                    <a name="late-payment-tax"></a>**_late payment tax_** means general interest charge under Part IIA of the _Taxation Administration Act 1953_ in relation to trust recoupment tax, applied penalty tax or penalty tax.
+                    <a name="late-payment-tax"></a>**_late payment tax_** means additional tax under section 207 of the Assessment Act in relation to trust recoupment tax, applied penalty tax or penalty tax.
 
                     <a name="penalti-tax"></a>**_penalty tax_** means additional tax payable under section 12.
 
@@ -166,19 +168,25 @@ it would be concluded that the person, or any of the persons, who entered into o
 
 ##### <a id="4"></a>4  Application of tax legislation
 
-             (1)  Unless the contrary intention appears in this Act, sections 6 and 7A, Part II, section 21, Part IV, section 204, and Parts VII and VIII of the Assessment Act, Part IIA of, and Part 4-15 in Schedule 1 to, the _Taxation Administration Act 1953_, and regulations made under those Acts, apply for the purposes of the assessment and collection of trust recoupment tax and penalty tax, in like manner, _mutatis mutandis_, as those provisions apply for the purposes of the assessment and collection of income tax under the Assessment Act.
+             (1)  Unless the contrary intention appears in this Act, sections 6 and 7A, Part II, section 21, Part IV, Division 1 of Part VI, and Parts VII and VIII of the Assessment Act, and regulations made under that Act, apply for the purposes of the assessment and collection of trust recoupment tax and penalty tax, in like manner, _mutatis mutandis_, as those provisions apply for the purposes of the assessment and collection of income tax under the Assessment Act.
 
-             (2)  A reference in this Act to a provision of the Assessment Act or of the _Taxation Administration Act 1953_ shall, unless the contrary intention appears, be read as a reference to that provision in its application, in accordance with subsection (1), for the purposes of this Act.
+             (2)  A reference in this Act to a provision of the Assessment Act shall, unless the contrary intention appears, be read as a reference to that provision in its application, in accordance with subsection (1), for the purposes of this Act.
 
              (3)  For the purposes of section 14 of the Assessment Act, this Act shall be deemed to be part of the Assessment Act.
 
-             (4)  Nothing in section 16 of the Assessment Act or section 3C of the _Taxation Administration Act 1953_ prevents:
+             (4)  Nothing in section 16 of the Assessment Act prevents:
 
                      (a)  the disclosure, to a person who is, or in the opinion of the Commissioner is likely to become, liable to pay trust recoupment tax, or to pay income tax by virtue of the operation of section 7 of this Act, of information relating to the affairs of another person where that information was, or in the opinion of the Commissioner is likely to be, taken into account in the assessment of the liability of the first-mentioned person to pay trust recoupment tax, or to pay income tax by virtue of the operation of section 7 of this Act, as the case may be; or
 
                      (b)  the disclosure, to a person who is, or in the opinion of the Commissioner is likely to become, jointly and severally liable with other persons to pay trust recoupment tax, of the identity of, and particulars of the liability of, any of the other persons liable to pay that trust recoupment tax.
 
              (5)  Nothing in section 170 of the Assessment Act prevents the amendment, at any time, of an assessment for the purpose of giving effect to subsection 6(2) or section 7 of this Act.
+
+             (6)  Proceedings shall not be instituted against a person under section 209 of the Assessment Act, or subsection 255-5(2) in Schedule 1 to the _Taxation Administration Act 1953_, for the recovery of any trust recoupment tax, or penalty tax, payable on a secondary taxable amount unless:
+
+                     (a)  the notice of assessment in respect of that tax was served on the person; or
+
+                     (b)  the Commissioner has served on the person a notice in writing to the effect that it is intended to commence proceedings for recovery of that tax and a period of 30 days has expired after the date of service of the notice.
 
              (7)  Unless the contrary intention appears, a reference in section 215 of the Assessment Act to tax shall be deemed to include a reference to:
 
@@ -190,7 +198,7 @@ it would be concluded that the person, or any of the persons, who entered into o
 
                      (d)  penalty tax.
 
-             (9)  For the purposes of the application of any of the provisions of the Assessment Act  or of the _Taxation Administration Act 1953_ in accordance with subsection (1), where 2 or more persons are jointly and severally liable to pay trust recoupment tax, or penalty tax, on a secondary taxable amount, service of a notice of assessment or any other notice in respect of that liability on any of those persons shall be deemed to be service of the notice on each of those persons.
+             (9)  For the purposes of the application of any of the provisions of the Assessment Act in accordance with subsection (1), where 2 or more persons are jointly and severally liable to pay trust recoupment tax, or penalty tax, on a secondary taxable amount, service of a notice of assessment or any other notice in respect of that liability on any of those persons shall be deemed to be service of the notice on each of those persons.
 
            (10)  The validity of an assessment of the trust recoupment tax or penalty tax payable on a secondary taxable amount by the persons included in an eligible beneficiaries class in relation to that secondary taxable amount is not affected by reason that the notice of assessment identifies only one or some of the persons included in that eligible beneficiaries class.
 
@@ -256,7 +264,7 @@ the vested and indefeasible interest of the beneficiary in so much of the increa
 
                      (a)  where the benefit was derived before the end of the year of income in which the relevant trust income was derived—the amount or value of the benefit at the time at which it was derived; or
 
-                     (b)  in any other case—an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image002.gif) where:
+                     (b)  in any other case—an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00323/Html/225C8A30559D1765CA25719A001D06B6/$FILE/image002.gif) where:
 
                             **_A_**     is the amount or value of the benefit at the time at which it was, will be, or may reasonably be expected to be, derived; and
 
@@ -464,7 +472,7 @@ may grant the request or refuse the request.
 
                      (a)  a company taxable amount shall be taken to exist in relation to the company, in relation to the year of income in relation to which the elected taxable amount exists, of an amount equal to the elected taxable amount;
 
-                     (b)  for the purposes of the application of the Assessment Act, other than Division 7 of Part III, in relation to each person making the request:
+                     (b)  for the purposes of the application of the Assessment Act, other than Division 7 of Part III and Division 4 of Part VI, in relation to each person making the request:
 
                               (i)  the company shall be deemed to have paid to the person, as a shareholder in the company, a dividend of an amount equal to the amount specified in the request under paragraph (4)(d) in relation to the person;
 
@@ -542,7 +550,7 @@ an amount equal to the amount paid as mentioned in paragraph (b) shall be deem
 
 the person referred to in paragraph (b) may, in a court of competent jurisdiction, recover by way of contribution and as a debt from any of the other persons included in the class such part of the amount paid as the court considers just and equitable.
 
-             (2)  Where proceedings against a person under Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ for recovery of any trust recoupment tax payable on a secondary taxable amount are instituted in any court, the court may:
+             (2)  Where proceedings against a person under section 209 of the Assessment Act for recovery of any trust recoupment tax payable on a secondary taxable amount are instituted in any court, the court may:
 
                      (a)  on the application of the person, join, as co-defendant or as co-defendants in the proceedings, a specified person or specified persons who are included in the eligible beneficiaries class in relation to the secondary taxable amount; and
 
@@ -568,7 +576,7 @@ the person referred to in paragraph (b) may, in a court of competent jurisdict
 
                      (d)  the index number in relation to the quarter immediately preceding the assessment quarter exceeds the index number in relation to the March quarter of the year of income that immediately succeeded the year of income to which the taxable amount relates;
 
-the person is liable or, in the case of persons included in an eligible beneficiaries class, the persons are jointly and severally liable, to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image003.gif) where:
+the person is liable or, in the case of persons included in an eligible beneficiaries class, the persons are jointly and severally liable, to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00323/Html/225C8A30559D1765CA25719A001D06B6/$FILE/image003.gif) where:
 
                     <a name=""></a>**_A_**   is the amount of the trust recoupment tax referred to in    paragraph (a);
 
@@ -592,8 +600,8 @@ the person is liable or, in the case of persons included in an eligible benefici
 
                      (e)  the index number in relation to the quarter immediately preceding the assessment quarter exceeds the index number in relation to the March quarter of the year of income that immediately succeeded the relevant year of income;
 
-the person is liable to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image003.gif)
- where:
+the person is liable to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00323/Html/225C8A30559D1765CA25719A001D06B6/$FILE/image003.gif)
+where:
 
                     <a name=""></a>**_A_**   is:
 
@@ -727,6 +735,7 @@ then, in any prescribed recovery proceedings, the transfer shall be treated as b
 
 and, in particular, may make regulations prescribing penalties not exceeding a fine of $500 for offences against the regulations.
 
+
 # Notes to the _Trust Recoupment Tax Assessment Act 1985_
 
 ### Note 1
@@ -753,11 +762,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -767,162 +778,149 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Trust Recoupment Tax Assessment Act 1985</div>
-  </td>
-  <td>
-    <div>9, 1985</div>
-  </td>
-  <td>
-    <div>5 Apr 1985</div>
-  </td>
-  <td>
-    <div>5 Apr 1985</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws (Miscellaneous Provisions) Act 1986</div>
-  </td>
-  <td>
-    <div>109, 1986</div>
-  </td>
-  <td>
-    <div>4 Nov 1986</div>
-  </td>
-  <td>
-    <div>4 Nov 1986</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment (Rates and Rebates) Act 1989</div>
-  </td>
-  <td>
-    <div>70, 1989</div>
-  </td>
-  <td>
-    <div>21 June 1989</div>
-  </td>
-  <td>
-    <div>21 June 1989</div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1991</div>
-  </td>
-  <td>
-    <div>216, 1991</div>
-  </td>
-  <td>
-    <div>24 Dec 1991</div>
-  </td>
-  <td>
-    <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 114</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>39, 1997</div>
-  </td>
-  <td>
-    <div>17 Apr 1997</div>
-  </td>
-  <td>
-    <div>1 July 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1999</div>
-  </td>
-  <td>
-    <div>11, 1999</div>
-  </td>
-  <td>
-    <div>31 Mar 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 395): 1 July 1999 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>44, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 72): <i>(c) 
+<tbody>
+  <tr>
+    <td>
+      <div>Trust Recoupment Tax Assessment Act 1985</div>
+    </td>
+    <td>
+      <div>9, 1985</div>
+    </td>
+    <td>
+      <div>5 Apr 1985</div>
+    </td>
+    <td>
+      <div>5 Apr 1985</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws (Miscellaneous Provisions) Act 1986</div>
+    </td>
+    <td>
+      <div>109, 1986</div>
+    </td>
+    <td>
+      <div>4 Nov 1986</div>
+    </td>
+    <td>
+      <div>4 Nov 1986</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment (Rates and Rebates) Act 1989</div>
+    </td>
+    <td>
+      <div>70, 1989</div>
+    </td>
+    <td>
+      <div>21 June 1989</div>
+    </td>
+    <td>
+      <div>21 June 1989</div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1991</div>
+    </td>
+    <td>
+      <div>216, 1991</div>
+    </td>
+    <td>
+      <div>24 Dec 1991</div>
+    </td>
+    <td>
+      <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 114</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Income Tax (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>39, 1997</div>
+    </td>
+    <td>
+      <div>17 Apr 1997</div>
+    </td>
+    <td>
+      <div>1 July 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1999</div>
+    </td>
+    <td>
+      <div>11, 1999</div>
+    </td>
+    <td>
+      <div>31 Mar 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 395): 1 July 1999 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>44, 2000</div>
+    </td>
+    <td>
+      <div>3 May 2000</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 72): <i>(c) 
+
  </i>Schedule 3 (items 73, 74): 1 July 2000 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 74) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006</div>
-  </td>
-  <td>
-    <div>55, 2006</div>
-  </td>
-  <td>
-    <div>19 June 2006</div>
-  </td>
-  <td>
-    <div>Schedules 1, 3 and 4: 1 July 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 32(1)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 318), Schedule 2 (items 996–1006) and Schedule 6 (items 1, 6–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 1, 
-6–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>Sch. 3 (item 74) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006</div>
+    </td>
+    <td>
+      <div>55, 2006</div>
+    </td>
+    <td>
+      <div>19 June 2006</div>
+    </td>
+    <td>
+      <div>Schedules 1, 3 and 4: 1 July 2006 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 32(1)) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Trust Recoupment Tax Assessment Act 1985_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
 
@@ -939,6 +937,7 @@ _(c)_ The _Trust Recoupment Tax Assessment Act 1985_ was amended by Schedule 3
                  (9)   Items 39, 40, 52, 53, 73 and 74 of Schedule 3 commence, or are taken to have commenced, on 1 July 2000\. 
 
          Section 1 commenced on 22 December 1999.
+
 
 ## Table of Amendments
 
@@ -963,62 +962,49 @@ _(c)_ The _Trust Recoupment Tax Assessment Act 1985_ was amended by Schedule 3
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 39, 1997; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1991; No. 44, 2000; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1986; No. 70, 1989; No. 55, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 11, 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 39, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1991; No. 44, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1986; No. 70, 1989; No. 55, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rep. No. 11, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1032,7 +1018,9 @@ _A New Tax System (Tax Administration) Act (No. 1) 2000 (No. 44, 2000)_
 
 Despite the repeal of subsection 4(8) of the _Trust Recoupment Tax Assessment Act 1985_ by item 73, that subsection continues to have effect in relation to a person who dies before 1 July 2000.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006 (No. 55, 2006)_
 
@@ -1042,83 +1030,5 @@ _Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangemen
 
 (1)        The amendments made by this Schedule, except the amendment of the _Income Tax (Bearer Debentures) Act 1971_, apply to assessments for the 2006-2007 year of income and later years of income.
 
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 1  Application of Schedule 1 and 2 amendments
-
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
-
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
-
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
