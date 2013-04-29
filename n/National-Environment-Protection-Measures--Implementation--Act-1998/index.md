@@ -1,7 +1,7 @@
 
 National Environment Protection Measures (Implementation) Act 1998
 Act No. 129 of 1998 as amended
-This compilation was prepared on 30 July 2001  taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 15 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -108,7 +108,7 @@ Commonwealth authority means:
 	(b)	a body, whether incorporated or not, that is established by the Governor‑General or by a Minister; or
 	(c)	a body that is:
 	(i)	an incorporated company over which the Commonwealth or a body referred to in paragraph (a) or (b) is in a position to exercise control; or
-	(ii)	a subsidiary (within the meaning of the Corporations Act 2001) of an incorporated company referred to in subparagraph (i).
+	(ii)	a subsidiary (within the meaning of the Corporations Law) of an incorporated company referred to in subparagraph (i).
 Commonwealth place means a place (other than the seat of government) with respect to which the Parliament, under section 52 of the Constitution, has, subject to the Constitution, exclusive power to make laws for the peace, order and good government of the Commonwealth.
 continental shelf of Australia has the same meaning as in the Seas and Submerged Lands Act 1973.
 Department means a Department of State of the Commonwealth.
@@ -630,8 +630,7 @@ independent review means a review undertaken by persons who:
 Notes to the National Environment Protection Measures (Implementation) Act 1998
 Note 1
 The National Environment Protection Measures (Implementation) Act 1998 as shown in this compilation comprises Act No. 129, 1998 amended as indicated in the Tables below.
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
-For all other relevant information pertaining to application, saving or transitional provisions see Table A. 
+For all relevant information pertaining to application, saving or transitional provisions see Table A. 
 Table of Acts
 Act
 Number  and year
@@ -648,22 +647,13 @@ Environment and Heritage Legislation Amendment (Application of Criminal Code) Ac
 22 Mar 2001
 S. 4 and Schedule 1 (items 104, 105): 24 May 2001 (a)
 S. 4
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 339): 15 July 2001 (see Gazette 2001, No. S285) (b)
-Ss. 4‑14
 (a)	The National Environment Protection Measures (Implementation) Act 1998 was amended by Schedule 1 (items 104 and 105) only of the Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(c) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the latest of the following days:
 	(c)	the day on which item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 commences.
-(b)	The National Environment Protection Measures (Implementation) Act 1998 was amended by Schedule 3 (item 339) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 5 	
-am. No. 55, 2001
 S. 6A 	
 ad. No. 15, 2001
 S. 29 	
