@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00325/Html/DefenceForceDiscipline1982_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00169/Html/DefenceForceDiscipline1982_image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 36 of 2010
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -4276,7 +4276,7 @@ then, unless the contrary intention appears, the provisions of this Part have ef
 
 ### Division 2—Duties of investigating officers when interviewing suspects
 
-##### <a id="101A"></a>101A  Interpretation
+##### <a id="101A"></a>101A  Interpretation
 
                    Where the investigating officer in charge of investigating a service offence has grounds for believing that a person who is in custody in respect of the service offence has committed another service offence, the person shall, for the purposes of this Division, be deemed to be in custody in respect of both of the service offences.
 
@@ -9597,8 +9597,7 @@ Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S173)</div>
     <div>6 Dec 1988</div>
   </td>
   <td>
-    <div>Part IV (ss. 
-20–23): Royal Assent <i>(d)</i></div>
+    <div>Part IV (ss. 20–23): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>S. 23(2)</div>
@@ -9861,7 +9860,7 @@ Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
+S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
   </td>
 </tr>
 <tr>
@@ -9982,7 +9981,7 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
 Schedule 1 (items 2, 100–105, 108, 115): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 114, 115) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 114, 115) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -10069,23 +10068,6 @@ Schedule 7 (item 39): <i>(p)</i></div>
   </td>
   <td>
     <div>Schedule 1 (items 19–24): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
-  </td>
-  <td>
-    <div>36, 2010</div>
-  </td>
-  <td>
-    <div>13 Apr 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 10–12): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -18350,32 +18332,6 @@ ad. No. 159, 2006</div>
   <td></td>
 </tr></table>
 
-### Note 2
-
-_Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act  2010 (No. 36, 2010)_
-
-The following amendments commence at the same time as section 3 of the _Trans-Tasman Proceedings Act 2010_:
-
-## Schedule 2
-
-## 10  Subsection 148A(5) (note)
-
-Repeal the note, substitute:
-
-Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
-
-## 11  Subsection 148B(3) (note)
-
-Repeal the note, substitute:
-
-Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
-
-## 12  Section 148F
-
-Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans-Tasman Proceedings Act 2010_”.
-
-As at 19 April 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -18531,7 +18487,7 @@ Trial by court martial
 
                               (i)  is taken to have withdrawn the request; and
 
-                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial; and
+                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial; and
 
                      (c)  on and after the commencement day, the new law applies in relation to the service offence as if the offence had been committed after the commencement day.
 
@@ -18721,7 +18677,7 @@ Elections made for trial by court martial or Defence Force magistrate
 
                      (a)  after the commencement day, a person makes an election under subsection 131(1) of the old DFDA to have a charge against him or her tried by a court martial or Defence Force magistrate; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military   Court for trial;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
