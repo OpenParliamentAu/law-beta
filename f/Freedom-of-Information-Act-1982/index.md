@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00867/Html/11a8478d-e898-4557-801f-bcadb6f18dba_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00231/Html/e1a81235-2c9e-4252-814a-cd0245aeb1ce_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 29 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 15 February 2012
+ taking into account amendments up to Act No. 170 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -149,7 +150,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [31B](#31B).       Exempt documents for the purposes of this Part
 
-[32](#32).          Interpretation
+[32](#32).          Interpretation [_see_ Note 2]
 
     **Division 2—Exemptions**
 
@@ -175,7 +176,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [47B](#47B).       Public interest conditional exemptions—Commonwealth‑State relations etc 
 
-[47C](#47C).       Public interest conditional exemptions—deliberative processes
+[47C](#47C).       Public interest conditional exemptions—deliberative 
+ processes
 
 [47D](#47D).       Public interest conditional exemptions—financial or property interests of the Commonwealth or Norfolk Island
 
@@ -219,7 +221,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [53A](#53A).       What is an _access refusal decision_?
 
-[53B](#53B).       What is an _access grant decision_?
+[53B](#53B).       What is an _access grant decision_? [_see_ Note 3]
 
 [53C](#53C).       Internal review—who is an _affected third party_?
 
@@ -399,7 +401,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [61](#61).          Onus
 
-[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act 1975_
+[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act  1975_
 
 [62](#62).          Application of section 28 of Administrative Appeals Tribunal Act etc 
 
@@ -2706,11 +2708,11 @@ Note 1:       A document is an **_exempt document_** for the purpose
 
 Note 2:       Access must generally be given to a conditionally exempt document unless it would be contrary to the public interest (see section 11A).
 
-##### <a id="32"></a>32  Interpretation
+##### <a id="32"></a>32  Interpretation [_see_ Note 2]
 
-                   A provision of this Part by virtue of which documents referred to in the provision are exempt documents, or are conditionally exempt:
+                   A provision of this Part by virtue of which documents referred to in the provision are exempt documents:
 
-                     (a)  shall not be construed as limited in its scope or operation in any way by any other provision of this Part by virtue of which documents are exempt documents, or are conditionally exempt; and
+                     (a)  shall not be construed as limited in its scope or operation in any way by any other provision of this Part by virtue of which documents are exempt documents; and
 
                      (b)  shall not be construed as not applying to a particular document by reason that another provision of this Part of a kind mentioned in paragraph (a) also applies to that document.
 
@@ -3392,7 +3394,7 @@ Sections 53A, 53B and 53C define the terms **_access refusal decision_**, **_a
 
 Note:          If a decision is not made on a request under section 15 within the time required by that section, a decision is taken to have been made to refuse to give access to a document in accordance with the request (see section 15AC).
 
-##### <a id="53B"></a>53B  What is an _access grant decision_?
+##### <a id="53B"></a>53B  What is an _access grant decision_? [_see_ Note 3]
 
              (1)  An **_access grant decision_** is a decision covered by the following table:
 
@@ -3438,13 +3440,13 @@ Note:          The table covers documents that may be conditio
   </td>
   <td>
     <div>consultation with a State under section 26A (documents affecting Commonwealth‑State
-      relations etc.) is required</div>
+      relations) is required</div>
   </td>
   <td>
     <div>a decision of an agency or Minister to give the applicant access to the
       document (or an edited copy of the document) because:</div>
     <div>(a) the document is not conditionally exempt under section 47B (Commonwealth‑State
-      relations etc.); or</div>
+      relations); or</div>
     <div>(b) access to the document would not, on balance, be contrary to the public
       interest for the purposes of subsection 11A(5).</div>
   </td>
@@ -3574,7 +3576,7 @@ Note:          The table covers documents that may be conditio
   </td>
   <td>
     <div>consultation with a State under section 26A (documents affecting Commonwealth‑State
-      relations etc.) is required</div>
+      relations) is required</div>
   </td>
   <td>
     <div>the State.</div>
@@ -4035,7 +4037,7 @@ Note:          Subsection 25(1) deals with information about t
 
              (2)  The Information Commissioner must deal with the IC review application for review of the deemed decision as if it were an IC review application for the review of the actual decision, subject otherwise to this Part.
 
-Note:          When making the actual decision, a consultation requirement under section 26A (documents affecting Commonwealth‑State relations etc.), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
+Note:          When making the actual decision, a consultation requirement under section 26A (documents affecting Commonwealth‑State relations), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
 
 ### Division 6—Procedure in IC review
 
@@ -4223,7 +4225,7 @@ Note:          For **_affected third party_**, see section 5
 
                      (c)  requiring a record of personal information to be amended or annotated in accordance with the application.
 
-Note:          When making the revised decision, a consultation requirement under section 26A (documents affecting Commonwealth‑State relations etc.), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
+Note:          When making the revised decision, a consultation requirement under section 26A (documents affecting Commonwealth‑State relations), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
 
              (2)  If an agency or Minister varies (or sets aside and substitutes) an access refusal decision under subsection (1):
 
@@ -8141,45 +8143,8 @@ Schedule 5 (item 137(a), (c)): <i>(j)</i></div>
 Schedule 2 and Schedule 3 (item 15): 1 May 2011</div>
   </td>
   <td>
-    <div>Sch. 2 (item 4), Sch. 3 (item 39) and Sch. 6 (item 40) 
-Sch. 4 (item 65) (am. by 136, 2012, Sch. 2 \[item 17]) 
-Sch. 6 (item 41) (am. by 136, 2012, Sch. 2 \[item 18]) \[ <i>see</i>Table A] 
+    <div>Sch. 2 (item 4), Sch. 3 (item 39), Sch. 4 (item 65) and Sch. 6 (items 40, 41) \[ <i>see</i>Table A] 
 Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 16–18): <i>(ka) 
- </i>Schedule 2 (item 42): <i>(ka)</i></div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -8196,40 +8161,6 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>Schedule 1 (item 66): 11 Dec 2010 
 Schedule 1 (items 155–175, 183–239): 1 Jan 2011 
 Schedule 1 (items 176–182): <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 42): ( <i>see</i>136, 2012 above)</div>
   </td>
   <td>
     <div>—</div>
@@ -8349,23 +8280,6 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
   </td>
   <td>
     <div>Schedule 3 (items 1–3): 15 Feb 2012 ( <i>see</i>F2012L00277)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 57–59): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -8759,100 +8673,6 @@ _(k)_ Subsection 2(1) (items 2, 4, 6 and 7) of the _Freedom of Information Ame
   <td>
     <div>
       1 November 2010
-    </div>
-  </td>
-</tr></table>
-
-_(ka)_ Subsection 2(1) (items 16, 17 and 32) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="20%">
-  <col width="56%">
-  <col width="23%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      16\. Schedule 2, item 16
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Freedom of Information Amendment (Reform) Act 2010</i>for the commencement
-        of item 23 of Schedule 3 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 November 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      17\. Schedule 2, items 17 and 18
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Freedom of Information Amendment (Reform) Act 2010</i>for the commencement
-        of Schedule 4 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 November 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      32\. Schedule 2, item 42
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Territories Law Reform Act 2010</i>for the commencement of item 210 of
-        Schedule 1 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2011
     </div>
   </td>
 </tr></table>
@@ -9746,14 +9566,6 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010 (as am. by No. 136, 2012)</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -10390,7 +10202,7 @@ Part IV</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 139, 2010; No. 136, 2012</div>
+    <div>am. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10587,39 +10399,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 54U</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54V</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54W</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54X</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54Y</div>
+    <div>Ss. 54U–54Y</div>
   </td>
   <td>
     <div>ad. No. 51, 2010</div>
@@ -10630,7 +10410,7 @@ Part IV</div>
     <div>Note to s. 54Y(2)</div>
   </td>
   <td>
-    <div>am. No. 139, 2010; No. 136, 2012</div>
+    <div>am. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10683,23 +10463,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 55E</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55F</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55G</div>
+    <div>Ss. 55E–55G</div>
   </td>
   <td>
     <div>ad. No. 51, 2010</div>
@@ -10710,7 +10474,7 @@ Part IV</div>
     <div>Note to s. 55G(1)</div>
   </td>
   <td>
-    <div>am. No. 139, 2010; No. 136, 2012</div>
+    <div>am. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11898,6 +11662,30 @@ Part VIII</div>
   </td>
 </tr></table>
 
+### Note 2
+
+Section 32—Schedule 3 (item 23) of the _Freedom of Information Amendment (Reform) Act 2010_ (No. 51, 2010) provides as follows:
+
+## Schedule 3
+
+## 23  Section 32
+
+After “exempt documents,” (wherever occurring), insert “, or are conditionally exempt”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 3
+
+Section 53B (table item 1)—Schedule 1 (item 210) of the _Territories Law Reform Act 2010_ (No. 139, 2010) provides as follows:
+
+## Schedule 1
+
+## 210  Section 53B (table item 1)
+
+After “relations”, insert “etc.”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -12116,7 +11904,7 @@ Internal review and IC review
 
 (1)       An amendment made by an item in Part 1 (other than an amendment covered by subitem (2), (3) or (4)) applies in relation to the following:
 
-                     (a)  requests for access made under section 15 of the _Freedom of Information Act 1982_ that are received at or after the commencement of that item;
+                     (a)  requests for access made under section 15 of the _Freedom of Information 1982_ that are received at or after the commencement of that item;
 
                      (b)  applications under section 48 of that Act that are received at or after the commencement of that item.
 
@@ -12146,7 +11934,7 @@ The amendments made by items 2, 3, 7, 16, 19 and 33 apply in relation to contr
 
 The amendments made by items 4, 6, 8, 10 to 13, 17, 20 to 32 and 34 to 39 apply in apply in relation to the following:
 
-                     (a)  requests for access made under section 15 of the _Freedom of Information Act 1982_ that are received at or after the commencement of those items;
+                     (a)  requests for access made under section 15 of the _Freedom of Information 1982_ that are received at or after the commencement of those items;
 
                      (b)  applications under section 48 of that Act that are received at or after the commencement of those items.
 
