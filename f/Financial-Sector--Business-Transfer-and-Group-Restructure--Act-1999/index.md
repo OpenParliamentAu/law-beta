@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00024/Html/27aaf7aa-e48e-4eb2-9904-82f00431fff2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00518/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 27 July 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -208,11 +208,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    Without prejudice to its effect apart from this section, this Act also has the effect it would have if each reference to a body corporate were, by express provision, confined to a body corporate that is a corporation to which paragraph 51(xx) of the Constitution applies.
 
-##### <a id="4"></a>4  Definitions
+##### <a id="4"></a>4  Definitions
 
              (1)  In this Act, the following words and expressions have the meanings set out below:
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit‑taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
+                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
 
                     <a name="approved-section-20-statem"></a>**_approved section 20 statement_** means a statement given to APRA under subsection 20(1) in relation to which an approval under subsection 20(2) is in force.
 
@@ -270,9 +270,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="life-insur-compani"></a>**_life insurance company_** means a body corporate that is registered under section 21 of the _Life Insurance Act 1995_.
 
-                    <a name="nohc"></a>**_NOHC_** is short for non‑operating holding company.
+                    <a name="nohc"></a>**_NOHC_** is short for non-operating holding company.
 
-                    <a name=""></a><a name="non-operating-hold-compani"></a>**_non‑operating holding company_**, of a body corporate, has the same meaning as in the _Banking Act 1959_.
+                    <a name=""></a><a name="non-operating-hold-compani"></a>**_non-operating holding company_**, of a body corporate, has the same meaning as in the _Banking Act 1959_.
 
                     <a name="operating-bodi"></a>**_operating body_** has the meaning given by section 36B.
 
@@ -338,7 +338,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="6"></a>6  External Territories
+##### <a id="6"></a>6  External  Territories
 
                    This Act extends to every external Territory.
 
@@ -348,7 +348,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="7A"></a>7A  Application of sections 8 and 8A of the APRA Act
 
-To avoid doubt, sections 8 and 8A of the _Australian Prudential Regulation Authority Act 1998_(which deal with APRA’s objectives and trans‑Tasman cooperation respectively) apply to the performance of functions and the exercise of powers by APRA under this Act.
+To avoid doubt, sections 8 and 8A of the _Australian Prudential Regulation Authority Act 1998_(which deal with APRA’s objectives and trans-Tasman cooperation respectively) apply to the performance of functions and the exercise of powers by APRA under this Act.
 
 ## Part 2—Overview of Act
 
@@ -796,7 +796,7 @@ Transfer of unregulated business from life insurance company
 
 Transfer of business from general insurer
 
-          (1E)  APRA may make a written determination that there is to be a transfer of business from one general insurer to another general insurer, other than a transfer only of business of the transferring body that is not regulated business, if, and only if:
+           (1E)  APRA may make a written determination that there is to be a transfer of business from one general insurer to another general insurer, other than a transfer only of business of the transferring body that is not regulated business, if, and only if:
 
                      (a)  APRA is satisfied that:
 
@@ -1124,7 +1124,7 @@ Note:          Alternative ways of dealing with places of busi
 
 ##### <a id="36A"></a>36A  Outline of Part
 
-             (1)  This Part deals with proposals by an ADI, general insurer or life insurer (the **_operating body_**) for a restructure arrangement (under Part 5.1 of the _Corporations Act 2001_) that would make the operating body a subsidiary of a non‑operating holding company (**_NOHC_**).
+             (1)  This Part deals with proposals by an ADI, general insurer or life insurer (the **_operating body_**) for a restructure arrangement (under Part 5.1 of the _Corporations Act 2001_) that would make the operating body a subsidiary of a non-operating holding company (**_NOHC_**).
 
              (2)  The operating body may apply (under section 36B) to the Minister for a restructure approval, including a restructure instrument (see section 36G).
 
@@ -1202,7 +1202,7 @@ Note:          Alternative ways of dealing with places of busi
 
                      (c)  if the body is a general insurer—standards in force under section 32 of the _Insurance Act 1973_.
 
-##### <a id="36D"></a>36D  Restructure approvals—consultation
+##### <a id="36D"></a>36D  Restructure approvals—consultation
 
                    In deciding whether to issue a restructure approval, the Minister may consult with any or all of the following:
 
@@ -1254,7 +1254,7 @@ Amendment or revocation of conditions
 
                      (b)  the extent (if any) to which the bodies specified in the instrument are given relief from the requirement in section 254T of that Act.
 
-Note 1:       Division 1 of Part 2J.1 of the _Corporations Act 2001_ deals with restrictions in share capital. Part 2J.2 of that Act deals with self‑acquisition and control of shares.
+Note 1:       Division 1 of Part 2J.1 of the _Corporations Act 2001_ deals with restrictions in share capital. Part 2J.2 of that Act deals with self-acquisition and control of shares.
 
 Note 2:       Section 254T of that Act provides that dividends may only be paid if:
 
@@ -1602,19 +1602,19 @@ Note:          For the effect of a certificate of transfer, se
 
              (5)  Nothing in this Act limits the operation of any of the provisions of the _Privacy Act 1988_.
 
-             (6)  Subject to subsection (9A), nothing in this Act limits the operation of any of the provisions of the _Competition and Consumer Act 2010_.
+             (6)  Subject to subsection (9A), nothing in this Act limits the operation of any of the provisions of the _Trade Practices Act 1974_.
 
              (7)  Nothing in this Act limits the operation of any of the provisions of the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
              (8)  Nothing in this Act limits the operation of section 63 of the _Banking Act 1959_.
 
-             (9)  For the purposes of section 50 and related provisions of the _Competition and Consumer Act 2010_ a transfer of business (whether voluntary or compulsory), or a transfer pursuant to an internal transfer certificate, that takes effect under this Act is taken to be:
+             (9)  For the purposes of section 50 and related provisions of the _Trade Practices Act 1974_ a transfer of business (whether voluntary or compulsory), or a transfer pursuant to an internal transfer certificate, that takes effect under this Act is taken to be:
 
                      (a)  to the extent that the transfer is of shares in the capital of a body corporate—an acquisition of the shares by the receiving body; and
 
                      (b)  to the extent that the transfer is of other assets—an acquisition of those assets by the receiving body.
 
-          (9A)  For the purposes of subsection 51(1) of the _Competition and Consumer Act 2010_, the following things are specified and specifically authorised:
+          (9A)  For the purposes of subsection 51(1) of the _Trade Practices Act 1974_, the following things are specified and specifically authorised:
 
                      (a)  a transfer of business under Part 4;
 
@@ -1680,7 +1680,7 @@ operate independently of each other. In particular, a decision under one of thos
 
 ##### <a id="47"></a>47  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1792,10 +1792,11 @@ of Assent</div>
     <div>24 June 2003</div>
   </td>
   <td>
-    <div>Schedule 2 (items 8–10): 1 July 2003 ( <i>see Gazette</i>2003, No. S230)</div>
+    <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>—</div>
+    <div>Sch. 3</div>
   </td>
 </tr>
 <tr>
@@ -1819,7 +1820,7 @@ Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Financial Sector Legislation Amendment (Trans‑Tasman Banking Supervision) Act 2006</div>
+    <div>Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006</div>
   </td>
   <td>
     <div>147, 2006</div>
@@ -1828,7 +1829,7 @@ Royal Assent</div>
     <div>6 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 24): Royal Assent</div>
+    <div>6 Dec 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -1845,7 +1846,7 @@ Royal Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 and Schedule 3 (items 2–9): Royal Assent</div>
+    <div>28 June 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -1965,7 +1966,7 @@ Schedule 4 (items 5, 6): 27 July 2010</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 61): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 61): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2106,7 +2107,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -2498,7 +2499,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 117, 2007; No. 105, 2008; No. 54, 2009; No. 103, 2010</div>
+    <div>am. No. 117, 2007; No. 105, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2526,9 +2527,91 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Financial Sector (Business Transfer and Group Restructure) Act 1999</h9>
+
+## 61  Subsections 43(6), (9) and (9A)
+
+As at 27 July 2010 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
+
+_Australian Prudential Regulation Authority Amendment Act 2003
+ (No. 42, 2003)_
+
+## Schedule 3
+
+## 1  Definitions
+
+In this Schedule:
+
+**_amended Act_** means the _Australian Prudential Regulation Authority Act 1998_ as in force after the commencement of the amendments.
+
+**_commencement of the amendments_** means the commencement of the amendments made by Schedule 1.
+
+**_old Act_** means the _Australian Prudential Regulation Authority Act 1998_ as in force immediately before the commencement of the amendments.
+
+## 2  APRA’s corporate existence is continued
+
+(1)        The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
+
+_Note:       Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA._
+
+(2)        However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
+
+_Note:       These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed._
+
+## 3  Continued protection from liability
+
+Section 58 of the old Act continues to apply in relation to conduct, before the commencement of the amendments, of APRA’s Board, a member of APRA’s Board or an agent of a member of APRA’s Board.
+
+_Note:       The reference to a member of APRA’s Board covers APRA’s Chief Executive Officer._
+
+## 4  Continued effect of certain delegations
+
+(1)        A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+
+(2)        A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+
+(3)        A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
+
+_Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
+
+## 5  Continued effect of determinations of terms and conditions for staff and consultants
+
+A determination of terms and conditions in force, immediately before the commencement of the amendments, under subsection 45(2) or 47(2) of the old Act continues to have effect after that commencement as if it were a determination by APRA under that subsection of the amended Act.
+
+## 6  Continued effect of approvals under paragraph 56(5)(b)
+
+An approval in force, immediately before the commencement of the amendments, under paragraph 56(5)(b) of the old Act continues to have effect after that commencement as if it were an approval by APRA under that paragraph of the amended Act.
+
+## 7  Continued or extended effect of certain regulations
+
+(1)        Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+
+(2)        Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+
+## 8  Delegations by ASIC to APRA staff members
+
+(1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+
+(2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+
+* * *
 
 _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
  (No. 101, 2006)_
@@ -2539,7 +2622,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2565,17 +2648,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2615,12 +2698,12 @@ _Financial System Legislation Amendment (Financial Claims Scheme and Other Measu
 
 ## 19  Application
 
-(1)       The amendments of sections 8, 24 and 25 of the _Financial Sector (Business Transfer and Group Restructure) Act 1999_ made by this Schedule apply to the making of determinations on or after the commencement of this Schedule.
+(1)        The amendments of sections 8, 24 and 25 of the _Financial Sector (Business Transfer and Group Restructure) Act 1999_ made by this Schedule apply to the making of determinations on or after the commencement of this Schedule.
 
-(2)       Section 36AA of that Act applies in relation to contracts made after the commencement of this Schedule.
+(2)        Section 36AA of that Act applies in relation to contracts made after the commencement of this Schedule.
 
-(3)       The amendments of section 43 of that Act made by this Schedule apply in relation to transfers occurring on or after the commencement of this Schedule.
+(3)        The amendments of section 43 of that Act made by this Schedule apply in relation to transfers occurring on or after the commencement of this Schedule.
 
-(4)       The amendment of section 44 of that Act made by this Schedule applies to acquisitions of property occurring on or after the commencement of this Schedule.
+(4)        The amendment of section 44 of that Act made by this Schedule applies to acquisitions of property occurring on or after the commencement of this Schedule.
 
  
