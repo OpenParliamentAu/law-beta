@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2007C00002/Html/Archives1983_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00445/Html/40EE365191D683C1CA2571AE000CF8E7/$FILE/image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 30 December 2006
- taking into account amendments up to Act No. 86 of 2006
+This compilation was prepared on 13 July 2006
+taking into account amendments up to Act No. 86 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney–General’s Department, Canberra
+Attorney–General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -84,7 +86,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22B](#22B).       Census information
 
-[23](#23).           Records of inter–governmental authorities
+[23](#23).          Records of inter–governmental authorities
 
     **Division 2—Dealings with Commonwealth records**
 
@@ -205,6 +207,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [71](#71).          Regulations
 
 **Notes** 
+
 
 ## An Act relating to the preservation and use of archival resources, and for related purposes
 
@@ -364,7 +367,7 @@ but do not include:
 
                       (f)  material that, in the opinion of the Minister, ought to be in the archives of another country or in the archives of an international organization;
 
-                     (g)  material that relates only or principally to the history or government of a State, the Northern Territory or Norfolk  Island or of a Colony that became part of the Commonwealth, not being:
+                     (g)  material that relates only or principally to the history or government of a State, the Northern Territory or Norfolk Island or of a Colony that became part of the Commonwealth, not being:
 
                               (i)  Commonwealth records;
 
@@ -482,7 +485,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (k)  to conduct research, and provide advice, in relation to the management and preservation of records and other archival material;
 
-                      (l)  to develop and foster the co–ordination of activities relating to the preservation and use of the archival resources of the Commonwealth and other archival resources relating to   Australia; and
+                      (l)  to develop and foster the co–ordination of activities relating to the preservation and use of the archival resources of the Commonwealth and other archival resources relating to Australia; and
 
                     (m)  with the approval of the Minister, and in accordance with arrangements made with a person responsible for exempt material, to perform any of the foregoing functions in relation to that material as if that material formed part of the archival resources of the Commonwealth.
 
@@ -906,7 +909,7 @@ Definition
 
              (1)  Where it appears to the Minister that the Government of a State, of the Australian Capital Territory or of the Northern Territory, as the case may be, might reasonably wish to contend that the making available of a record under section 31 could adversely affect the interests of that State, of the Australian Capital Territory or of the Northern Territory, as the case may be, the record shall not be made available unless there has been consultation between the Commonwealth and that State, the Australian Capital Territory or the Northern Territory.
 
-             (2)  For the purpose of facilitating consultation under subsection (1), the Commonwealth may enter into such arrangements with a State, with the Australian Capital Territory or with the Northern   Territory as it thinks appropriate.
+             (2)  For the purpose of facilitating consultation under subsection (1), the Commonwealth may enter into such arrangements with a State, with the Australian Capital Territory or with the Northern Territory as it thinks appropriate.
 
 ##### <a id="33"></a>33  Exempt records
 
@@ -947,16 +950,6 @@ Definition
                      (a)  a person who is providing, or has provided, confidential information to the Australian Crime Commission in relation to such a matter; or
 
                      (b)  a person who is providing, or has provided, confidential information to the Australian Federal Police in relation to such a matter; or
-
-                    (ba)  a person who is providing, or has provided, confidential information to:
-
-                              (i)  the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_); or
-
-                             (ii)  a staff member of ACLEI (within the meaning of that Act); or
-
-                            (iii)  a special investigator for the purposes of Division 4 of Part 12 of that Act;
-
-                            in relation to such a matter; or
 
                      (c)  a person who is, or has been, a witness within the meaning of the _Witness Protection Act 1994_ under the National Witness Protection Program.
 
@@ -1580,7 +1573,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ## Part IX—Miscellaneous
 
-##### <a id="68"></a>68  Annual Report
+##### <a id="68"></a>68  Annual Report
 
              (1)  The Archives shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of its operations during the 12 months ending on that date.
 
@@ -1630,6 +1623,9 @@ including, but without limiting the generality of the foregoing, regulations mak
 
                      (e)  the provision of prescribed discretionary services for persons other than Commonwealth institutions.
 
+ 
+
+
 # Notes to the _Archives Act 1983_
 
 ### Note 1
@@ -1646,8 +1642,9 @@ All relevant information pertaining to application, saving or transitional provi
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="19%">
-  <col width="21%">
+  <col width="17%">
+  <col width="1%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
@@ -1658,11 +1655,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1672,557 +1671,575 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Archives Act 1983</div>
-  </td>
-  <td>
-    <div>79, 1983</div>
-  </td>
-  <td>
-    <div>3 Nov 1983</div>
-  </td>
-  <td>
-    <div>6 June 1984 ( <i>see Gazette</i>1984, No. S206)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 2(32) and 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence and Security (Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>102, 1986</div>
-  </td>
-  <td>
-    <div>17 Oct 1986</div>
-  </td>
-  <td>
-    <div>1 Feb 1987 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S13)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>38, 1988</div>
-  </td>
-  <td>
-    <div>3 June 1988</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.C.T. Self–Government (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>109, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 32 (in part): 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Postal Services Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>126, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
+<tbody>
+  <tr>
+    <td>
+      <div>Archives Act 1983</div>
+    </td>
+    <td>
+      <div>79, 1983</div>
+    </td>
+    <td>
+      <div>3 Nov 1983</div>
+    </td>
+    <td colspan="2">
+      <div>6 June 1984 ( <i>see Gazette</i>1984, No. S206)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(a)</i></div>
+    </td>
+    <td>
+      <div>Ss. 2(32) and 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Intelligence and Security (Consequential Amendments) Act 1986</div>
+    </td>
+    <td>
+      <div>102, 1986</div>
+    </td>
+    <td>
+      <div>17 Oct 1986</div>
+    </td>
+    <td colspan="2">
+      <div>1 Feb 1987 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S13)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>38, 1988</div>
+    </td>
+    <td>
+      <div>3 June 1988</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A.C.T. Self–Government (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>109, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td colspan="2">
+      <div>S. 32 (in part): 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Postal Services Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>126, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
 Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>75, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>S. 5: Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Services Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>80, 1990</div>
-  </td>
-  <td>
-    <div>23 Oct 1990</div>
-  </td>
-  <td>
-    <div>23 Oct 1990</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Special Broadcasting Service Act 1991</div>
-  </td>
-  <td>
-    <div>180, 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>S. 116: 23 Dec 1991 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Act 1992</div>
-  </td>
-  <td>
-    <div>196, 1992</div>
-  </td>
-  <td>
-    <div>21 Dec 1992</div>
-  </td>
-  <td>
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(g)</i> 
-Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>60, 1993</div>
-  </td>
-  <td>
-    <div>3 Nov 1993</div>
-  </td>
-  <td>
-    <div>10 Mar 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>168, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 3 (item 17): Royal Assent <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994</div>
-  </td>
-  <td>
-    <div>33, 1994</div>
-  </td>
-  <td>
-    <div>15 Mar 1994</div>
-  </td>
-  <td>
-    <div>Ss. 3–6: Royal Assent <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Archives Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>10, 1995</div>
-  </td>
-  <td>
-    <div>15 Mar 1995</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>75, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td colspan="2">
+      <div>S. 5: Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Services Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>80, 1990</div>
+    </td>
+    <td>
+      <div>23 Oct 1990</div>
+    </td>
+    <td colspan="2">
+      <div>23 Oct 1990</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Special Broadcasting Service Act 1991</div>
+    </td>
+    <td>
+      <div>180, 1991</div>
+    </td>
+    <td>
+      <div>25 Nov 1991</div>
+    </td>
+    <td colspan="2">
+      <div>S. 116: 23 Dec 1991 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Act 1992</div>
+    </td>
+    <td>
+      <div>196, 1992</div>
+    </td>
+    <td>
+      <div>21 Dec 1992</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(g)</i> 
+Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(g)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>60, 1993</div>
+    </td>
+    <td>
+      <div>3 Nov 1993</div>
+    </td>
+    <td colspan="2">
+      <div>10 Mar 1993</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>168, 1994</div>
+    </td>
+    <td>
+      <div>16 Dec 1994</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3 (item 17): Royal Assent <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994</div>
+    </td>
+    <td>
+      <div>33, 1994</div>
+    </td>
+    <td>
+      <div>15 Mar 1994</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 3–6: Royal Assent <i>(i)</i></div>
+    </td>
+    <td>
+      <div>S. 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Archives Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>10, 1995</div>
+    </td>
+    <td>
+      <div>15 Mar 1995</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1 and 2: Royal Assent 
 Ss. 3(c) and 6–8: <i>(j)</i> 
-Remainder: 7 June 1995 ( <i>see Gazette</i>1995, No. S201)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 10) and Schedule 5 (items 16–18): Royal Assent <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>189, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div><i>(l)</i></div>
-  </td>
-  <td>
-    <div>S. 2 (am. by 145, 1999, Sch. 1 (item 2))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Act 1999</div>
-  </td>
-  <td>
-    <div>145, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div><i>(m)</i></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 100–103): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(n)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>161, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 17): <i>(o)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>194, 1999</div>
-  </td>
-  <td>
-    <div>23 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 5: 23 Dec 1999 <i>(p)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>9, 2000</div>
-  </td>
-  <td>
-    <div>7 Mar 2000</div>
-  </td>
-  <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Census Information Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>30, 2000</div>
-  </td>
-  <td>
-    <div>19 Apr 2000</div>
-  </td>
-  <td>
-    <div>19 Apr 2000</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>5, 2001</div>
-  </td>
-  <td>
-    <div>20 Mar 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 1–6): <i>(q)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Crime Commission Establishment Act 2002</div>
-  </td>
-  <td>
-    <div>125, 2002</div>
-  </td>
-  <td>
-    <div>10 Dec 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): 1 Jan 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 9–11): 17 June 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Appeals Tribunal Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>38, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 203–205): 16 May 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 205) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>128, 2005</div>
-  </td>
-  <td>
-    <div>4 Nov 2005</div>
-  </td>
-  <td>
-    <div>Schedules 1–8: 2 Dec 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Census Information Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>10, 2006</div>
-  </td>
-  <td>
-    <div>23 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 20 April 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>86, 2006</div>
-  </td>
-  <td>
-    <div>30 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 2): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: 7 June 1995 ( <i>see Gazette</i>1995, No. S201) 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4 (item 10) and Schedule 5 (items 16–18): Royal Assent <i>(k)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>189, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td colspan="2">
+      <div><i>(l)</i></div>
+    </td>
+    <td>
+      <div>S. 2 (am. by 145, 1999, Sch. 1 (item 2))</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service Act 1999</div>
+    </td>
+    <td>
+      <div>145, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td colspan="2">
+      <div><i>(m)</i></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 100–103): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(n)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>161, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 3 (items 1, 17): <i>(o)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>194, 1999</div>
+    </td>
+    <td>
+      <div>23 Dec 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 5: 23 Dec 1999 <i>(p)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police Legislation Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>9, 2000</div>
+    </td>
+    <td>
+      <div>7 Mar 2000</div>
+    </td>
+    <td colspan="2">
+      <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Census Information Legislation Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>30, 2000</div>
+    </td>
+    <td>
+      <div>19 Apr 2000</div>
+    </td>
+    <td colspan="2">
+      <div>19 Apr 2000</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>5, 2001</div>
+    </td>
+    <td>
+      <div>20 Mar 2001</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (items 1–6): <i>(q)</i></div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Crime Commission Establishment Act 2002</div>
+    </td>
+    <td>
+      <div>125, 2002</div>
+    </td>
+    <td>
+      <div>10 Dec 2002</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 2 (item 1): 1 Jan 2003</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>135, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 2 (items 9–11): 17 June 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Appeals Tribunal Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>38, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 203–205): 16 May 2005</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 205) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Intelligence Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>128, 2005</div>
+    </td>
+    <td>
+      <div>4 Nov 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedules 1–8: 2 Dec 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Census Information Legislation Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>10, 2006</div>
+    </td>
+    <td>
+      <div>23 Mar 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedules 1 and 2: 20 April 2006 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>86, 2006</div>
+    </td>
+    <td>
+      <div>30 June, 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (item 2): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Archives Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsections 2(1) and (5) of which provide as follows:
 
@@ -2318,6 +2335,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
 
          Item 15 commenced on 24 May 2001.
 
+
 ## Table of Amendments
 
 <table>
@@ -2341,494 +2359,522 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3A, 3B</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rs. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td>
-    <div>am. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 146, 1999; No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13–17</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22B</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 30, 2000; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1986; No. 75, 1990; No. 10, 1995; No. 43, 1996; No. 161, 1999; No. 128, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 30A</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988; No. 10, 1995; No. 43, 1996; No. 125, 2002; No. 86, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988; No. 180, 1991; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42, 43</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 45, 46</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1995; No. 43, 1996; No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 194, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 43, 1996; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69A</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984; No. 80, 1990</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 3(7)</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3A, 3B</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>rs. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 5</div>
+    </td>
+    <td>
+      <div>am. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 146, 1999; No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>rs. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 10</div>
+    </td>
+    <td>
+      <div>rs. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13–17</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22A</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22B</div>
+    </td>
+    <td>
+      <div>ad. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 30, 2000; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 102, 1986; No. 75, 1990; No. 10, 1995; No. 43, 1996; No. 161, 1999; No. 128, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 30A</div>
+    </td>
+    <td>
+      <div>am. No. 10, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30A</div>
+    </td>
+    <td>
+      <div>ad. No. 30, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 10, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988; No. 10, 1995; No. 43, 1996; No. 125, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988; No. 180, 1991; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 42, 43</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 45, 46</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1995; No. 43, 1996; No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 38, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 194, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 43, 1996; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IX</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69A</div>
+    </td>
+    <td>
+      <div>ad. No. 80, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1984; No. 80, 1990</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006 (No. 86, 2006)_
+
+The following amendments commence on 30 December 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 2  After paragraph 33(1A)(b)
+
+Insert:
+
+                    (ba)  a person who is providing, or has provided, confidential information to:
+
+                              (i)  the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_); or
+
+                             (ii)  a staff member of ACLEI (within the meaning of that Act); or
+
+                            (iii)  a special investigator for the purposes of Division 4 of Part 12 of that Act;
+
+                            in relation to such a matter; or
+
+As at 13 July 2006 the amendments are not incorporated in this compilation.
+
 
 ## Table A
 
@@ -2866,7 +2912,9 @@ Note:          A person who is a member or staff member of the
 
 (2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001 (No. 5, 2001)_
 
@@ -2876,7 +2924,9 @@ _Communications and the Arts Legislation Amendment (Application of Criminal Code
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Administrative Appeals Tribunal Amendment Act 2005 (No. 38, 2005)_
 
@@ -2886,6 +2936,7 @@ _Administrative Appeals Tribunal Amendment Act 2005 (No. 38, 2005)_
 
 The amendments made by items 203 and 204 do not apply to a proceeding if, immediately before the commencement of this item, the Tribunal was constituted for the purposes of the proceeding by one or more members.
 
+
 ## Table B
 
 **Modifications**
@@ -2894,7 +2945,7 @@ Archives (Records of the Parliament) Regulations (1995 No.91)
 
 Schedule           Modifications of the Act
 
-<span style="font-size:8.0pt;font-weight:normal"> </span><span style="font-size:8.0pt;font-weight:normal"> </span>
+<span style="FONT-WEIGHT: normal; FONT-SIZE: 8pt"> </span><span style="FONT-WEIGHT: normal; FONT-SIZE: 8pt"> </span>
 
 (regulation 5)
 
@@ -3012,7 +3063,7 @@ Schedule           Modifications of the Act
 
                          (iii)    the Department of the House of Representatives;
 
-                        the Speaker; and
+the Speaker; and
 
                 (c)    in the case of records that are in the possession of:
 
@@ -3182,9 +3233,7 @@ Omit the subsection, substitute:
 
                          (iii)    a record to which the Archives is not entitled to have access unless the conditions that are specified in the resolution or determination are complied with; or 
 
-               (b)    the Presiding Officer makes a similar determination in writing, with the agreement of the Director–General, in relation to a Class B record;
-
-                the Archives must comply with the resolution or determination.
+               (b)    the Presiding Officer makes a similar determination in writing, with the agreement of the Director–General, in relation to a Class B record; the Archives must comply with the resolution or determination.
 
       (1A)   If the Archives seeks access to a Class B record that is not in the custody of the Archives, and a person responsible for the custody of the record considers that it may be appropriate for the Presiding Officer to make a determination in relation to the record, the person must:
 
@@ -3329,5 +3378,6 @@ Omit ‘Commonwealth record’, substitute ‘Class B record’.
 Omit ‘a record’, substitute ‘a Class B record’.
 
 15.4         Subsection 39 (2): Omit ‘Commonwealth’, substitute ‘Class B’.
+
 
  
