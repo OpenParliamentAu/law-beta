@@ -1,28 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2009C00430/Html/EvidenceandProcNZ1994_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00850/Html/image001.gif)
 
 # Evidence and Procedure (New Zealand) Act 1994
 
 **Act No. 111 of 1994 as amended**
 
-**\[Note: This Act is to be repealed by Act No. 36 of 2010 _see_ s. 2(1)**
-
-**For saving provision _see_ Act No. 36, 2010, Schedule 2 (item 2)]**
-
-This compilation was prepared on 10 September 2009
- taking into account amendments up to Act No. 77 of 2009
+This compilation was prepared on 24 May 2001
+ taking into account amendments up to Act No. 24 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
 [1](#1).            Short title [_see_ Note 1]                                                                        1
 
@@ -168,19 +161,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  a map, plan, drawing or photograph.
 
-                    <a name="excluded-famili-proceing"></a>**_excluded family proceeding_** means:
-
-                     (a)  a proceeding in respect of an application made under the Convention on the Civil Aspects of International Child Abduction signed at The Hague on 25 October 1980; or
-
-                     (b)  a proceeding relating to the status or property of a person who is not fully able to manage his or her own affairs.
-
-Note:          The text of the Convention referred to in paragraph (a) is set out in Australian Treaty Series 1987 No. 2 (\[1987] ATS 2). In 2009, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
                     <a name="expens"></a>**_expenses_**, in relation to a subpoena, include the reasonable costs of:
 
                      (a)  necessary travel to and from, and accommodation at, the place where complying with the subpoena is required; or
 
                      (b)  finding, collating and producing a document or thing; for the purposes of complying with the subpoena.
+
+                    <a name="famili-proceing"></a>**_family proceeding_** means a proceeding relating to:
+
+                     (a)  guardianship of a child; or
+
+                     (b)  custody of a child; or
+
+                     (c)  access to a child; or
+
+                     (d)  marriage or divorce; or
+
+                     (e)  maintenance of a child; or
+
+                      (f)  maintenance of a spouse or former spouse; or
+
+                     (g)  property arising out of a marital relationship or a de facto relationship (including a former marital relationship or a former de facto relationship), being property owned by one of the spouses or both of them; or
+
+                     (h)  paternity; or
+
+                      (i)  adoption; or
+
+                      (j)  protection of persons from domestic violence or domestic molestation; or
+
+                     (k)  the status or property of a person who is not fully able to manage his or her own affairs.
 
                     <a name="fax"></a>**_fax_**, in relation to a document, means a copy of the document that has been reproduced by facsimile telegraphy.
 
@@ -258,11 +267,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7"></a>7  Application of this Part
 
-                   This Part applies to a subpoena that is issued in a proceeding, other than a criminal proceeding or an excluded family proceeding, in:
+                   This Part applies to a subpoena that is issued in a proceeding in:
 
                      (a)  a federal court; or
 
-                     (b)  a court of a State or Territory that is a court specified in regulations made for the purposes of this paragraph.
+                     (b)  a court of a State or Territory that is a court specified in regulations made for the purposes of this paragraph; 
+
+other than a criminal proceeding or family proceeding.
 
 ##### <a id="8"></a>8  Service of subpoenas in New Zealand
 
@@ -420,7 +431,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    This Part (other than section 23) applies to a subpoena:
 
-                     (a)  that was issued in a proceeding in a New Zealand court, other than a criminal proceeding or an excluded family proceeding; and
+                     (a)  that was issued in a proceeding in a New Zealand court, other than a criminal proceeding or a family proceeding; and
 
                      (b)  in relation to which a Judge of the High Court of New Zealand has given leave for its service in Australia.
 
@@ -514,7 +525,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the evidence or submission can more conveniently be given or made from New Zealand.
 
-             (3)  The court may exercise in New Zealand, in connection with taking evidence or receiving submissions by video link or telephone, all its powers which it is permitted, under New Zealand law, to exercise in New Zealand.
+             (3)  The court may exercise in New Zealand, in connection with taking evidence the court is permitted, under New Zealand law, to exercise in New Zealand.
 
 ##### <a id="26"></a>26  Taking evidence by video link
 
@@ -802,7 +813,7 @@ unless the person establishes that the contravention should be excused.
 
 The _Evidence and Procedure (New Zealand) Act 1994_ as shown in this compilation comprises Act No. 111, 1994 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -815,27 +826,25 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td>
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Evidence and Procedure (New Zealand) Act 1994</div>
@@ -865,37 +874,22 @@ Remainder: 1 Apr 1995 ( <i>see Gazette</i>1995, No. GN8)</div>
     <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>S. 4(1), (2) and Schedule 26: <i>(a)</i></div>
+    <div>S. 4(1), (2) and Schedule 26: <i>(a)</i></div>
   </td>
   <td>
     <div>S. 4(1), (2)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice (Cross Border and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>77, 2009</div>
-  </td>
-  <td>
-    <div>7 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 6)</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amended by Schedule 26 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amended by Schedule 26 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
-         Item 15 commenced on 24 May 2001.
+         Item 15 commenced on 24 May 2001.
+
+ 
 
 ## Table of Amendments
 
@@ -905,35 +899,17 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
+    <div>Provision affected</div>
   </td>
   <td>
-    <div>am. No. 77, 2009</div>
+    <div>How affected</div>
   </td>
 </tr>
 <tr>
@@ -941,63 +917,7 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
     <div>S. 6A</div>
   </td>
   <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>ad. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1005,7 +925,7 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 24, 2001</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr></table>
 
@@ -1013,7 +933,7 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
 
 ### Application, saving or transitional provisions
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1021,15 +941,6 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
-
-_Law and Justice (Cross Border and Other Amendments) Act 2009 
- (No. 77, 2009)_
-
-## Schedule 3
-
-## 6  Application
-
-The amendments made by items 3, 4 and 5 apply in relation to a proceeding commenced on or after the commencement of this item.
+ 
 
  
