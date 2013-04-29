@@ -1,141 +1,141 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02154/Html/AusInstMariSci72_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02153/Html/AusInstMarSci72_image001.gif)
 
 # Australian Institute of Marine Science Act 1972 
 
 **Act No. 55 of 1972 as amended**
 
-This compilation was prepared on 22 March 2000
- taking into account amendments up to Act No. 156 of 1999
+Consolidated as in force on 9 April 1998
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to Act No. 152 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
- 
-
-## Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).               Short title [_see_ Note 1]                                                                           
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).               Commencement [_see_ Note 1]                                                                 
 
-[4](#4).            Repeal                                                                                                  1
+[4](#4).               Repeal                                                                                                    
 
-[5](#5).            Interpretation                                                                                       1
+[5](#5).               Interpretation                                                                                         
 
-[6](#6).            Application of Act outside Australia                                                  2
+[6](#6).               Application of Act outside Australia                                                    
 
 **Part II—Australian Institute of Marine Science**
 
-[7](#7).            The Institute                                                                                        3
+[7](#7).               The Institute                                                                                          
 
-[9](#9).            Functions of Institute                                                                          3
+[9](#9).               Functions of Institute                                                                            
 
-[10](#10).          Powers of Institute                                                                              4
+[10](#10).             Powers of Institute                                                                                
 
 **Part III—Council of the Institute**
 
-[10A](#10A).       Interpretation                                                                                       6
+[10A](#10A).          Interpretation                                                                                         
 
-[11](#11).          Institute to be governed by Council                                                    6
+[11](#11).             Institute to be governed by Council                                                       
 
-[12](#12).          Constitution of Council                                                                       6
+[12](#12).             Constitution of Council                                                                         
 
-[13](#13).          Leave of absence                                                                                  6
+[13](#13).             Leave of absence                                                                                    
 
-[14](#14).          Resignation of members                                                                       7
+[14](#14).             Resignation of members                                                                         
 
-[15](#15).          Termination of appointment                                                               7
+[15](#15).             Termination of appointment                                                                  
 
-[16](#16).          Vacation of office                                                                                 7
+[16](#16).             Vacation of office                                                                                   
 
-[17](#17).          Acting members                                                                                   7
+[17](#17).             Acting members                                                                                     
 
-[19](#19).          Fees and allowances                                                                             8
+[19](#19).             Fees and allowances                                                                               
 
-[20](#20).          Meetings of Council                                                                            8
+[20](#20).             Meetings of Council                                                                               
 
-[20A](#20A).       Director not to take part in certain deliberations of Council               9
+[20A](#20A).          Director not to take part in certain deliberations of Council                 
 
 **Part IV—Director of the Institute**
 
-[21](#21).          Director of Institute                                                                           10
+[21](#21).             Director of Institute                                                                               
 
-[22](#22).          Tenure of office                                                                                 10
+[22](#22).             Tenure of office                                                                                      
 
-[23](#23).          Functions of Director                                                                        10
+[23](#23).             Functions of Director                                                                             
 
-[24](#24).          Remuneration and allowances of Director                                         10
+[24](#24).             Remuneration and allowances of Director                                             
 
-[25](#25).          Leave of absence                                                                                10
+[25](#25).             Leave of absence                                                                                    
 
-[26](#26).          Resignation                                                                                        11
+[26](#26).             Resignation                                                                                             
 
-[27](#27).          Termination of appointment                                                             11
+[27](#27).             Termination of appointment                                                                
 
-[28](#28).          Vacation of office of Director                                                            11
+[28](#28).             Vacation of office of Director                                                              
 
-[29](#29).          Director not to undertake any other work                                         11
+[29](#29).             Director not to undertake any other work                                           
 
-[30](#30).          Acting Director                                                                                  12
+[30](#30).             Acting Director                                                                                    
 
-[31](#31).          Oath or affirmation                                                                            13
+[31](#31).             Oath or affirmation                                                                              
 
 **Part V—Staff**
 
-[33](#33).          Appointment of officers                                                                    14
+[33](#33).             Appointment of officers                                                                      
 
-[34](#34).          Terms and conditions of appointment of officers                             14
+[34](#34).             Terms and conditions of appointment of officers                               
 
-[35](#35).          Temporary and casual employees                                                     14
+[35](#35).             Temporary and casual employees                                                       
 
 **Part VI—Finance**
 
-[36](#36).          Moneys payable to Institute                                                             15
+[36](#36).             Moneys payable to Institute                                                               
 
-[38](#38).          Application of moneys                                                                      15
+[38](#38).             Application of moneys                                                                        
 
-[42](#42).          Limit on contracts                                                                              15
+[42](#42).             Limit on contracts                                                                                
 
-[43](#43).          Exemption from taxation                                                                   15
+[43](#43).             Exemption from taxation                                                                      
 
 **Part VII—Miscellaneous**
 
-[45](#45).          Committees                                                                                        16
+[45](#45).             Committees                                                                                          
 
-[46](#46).          Application of Air Accidents (Commonwealth Liability) Act         16
+[46](#46).             Application of Air Accidents (Commonwealth Liability) Act            
 
-[48](#48).          Inventions etc  of officers and employees                                         16
+[48](#48).             Inventions etc  of officers and employees                                           
 
-[49](#49).          Bonuses for discoveries by officers and employees                          17
+[49](#49).             Bonuses for discoveries by officers and employees                            
 
-[50](#50).          Fees and agreements for investigations                                              17
+[50](#50).             Fees and agreements for investigations                                                
 
-[51](#51).          Regulations                                                                                        17
+[51](#51).             Regulations                                                                                           
 
-**The Schedule** 
+**The Schedule**
 
-**Notes to the _Australian Institute of Marine Science Act 1972_** 
+#  
 
 ## An Act relating to the Australian Institute of Marine Science
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Institute of Marine Science Act 1972._
+This Act may be cited as the _Australian Institute of Marine Science Act 1972_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+This Act shall come into operation on a date to be fixed by Proclamation.
 
 ##### <a id="4"></a>4  Repeal
 
-                   The Australian Institute of Marine Science Act 1970 is repealed.
+The _Australian Institute of Marine Science Act 1970_ is repealed.
 
 ##### <a id="5"></a>5  Interpretation
 
@@ -165,9 +165,11 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="6"></a>6  Application of Act outside Australia
 
-                   The Institute is not limited, in the performance of its functions and the exercise of its powers, to Australia and the territorial waters of Australia and this Act applies both within and outside Australia and extends to all the external Territories.
+The Institute is not limited, in the performance of its functions and the exercise of its powers, to Australia and the territorial waters of Australia and this Act applies both within and outside Australia and extends to all the external Territories.
 
 ## Part II—Australian Institute of Marine Science
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="7"></a>7  The Institute
 
@@ -263,13 +265,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ## Part III—Council of the Institute
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="10A"></a>10A  Interpretation
 
-                   In this Part, a reference to a member or an acting member does not, except in section 18 and subsections 20(5) and (6), include a reference to the Director or an Acting Director.
+In this Part, a reference to a member or an acting member does not, except in section 18 and subsections 20(5) and (6), include a reference to the Director or an Acting Director.
 
 ##### <a id="11"></a>11  Institute to be governed by Council
 
-                   The Institute shall be governed by a council to be known as the Council of the Institute of Marine Science.
+The Institute shall be governed by a council to be known as the Council of the Institute of Marine Science.
 
 ##### <a id="12"></a>12  Constitution of Council
 
@@ -291,25 +295,25 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="13"></a>13  Leave of absence
 
-                   The Minister may grant leave of absence to a member upon such terms and conditions as the Minister determines.
+The Minister may grant leave of absence to a member upon such terms and conditions as the Minister determines.
 
 ##### <a id="14"></a>14  Resignation of members
 
-                   A member may resign from office by writing signed by the member and delivered to the Governor-General.
+A member may resign from office by writing signed by the member and delivered to the Governor-General.
 
 ##### <a id="15"></a>15  Termination of appointment
 
-                   The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
+The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
 
 ##### <a id="16"></a>16  Vacation of office
 
-                   If a member:
+If a member:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-                     (b)  is absent, except on leave granted by the Minister, from 3 consecutive meetings of the Council; or
+                     (b)  is absent, except on leave granted by the Minister, from 3 consecutive meetings of the Council; or
 
-                     (c)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (c)  fails, without reasonable excuse, to comply with section 21 of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Governor-General shall, by notice published in the _Gazette_, declare that the office of the member is vacant, and thereupon the office shall be deemed to be vacant.
 
@@ -347,7 +351,7 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
 ##### <a id="20A"></a>20A  Director not to take part in certain deliberations of Council
 
-                   The Director:
+The Director:
 
                      (a)  shall not take part in any deliberation or decision of the Council with respect to the grant of leave to him or her by the Council; and
 
@@ -355,9 +359,11 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
 ## Part IV—Director of the Institute
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="21"></a>21  Director of Institute
 
-                   There shall be a Director of the Institute, who shall be appointed by the Governor-General on the recommendation of the Council.
+There shall be a Director of the Institute, who shall be appointed by the Governor-General on the recommendation of the Council.
 
 ##### <a id="22"></a>22  Tenure of office
 
@@ -367,7 +373,7 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
 ##### <a id="23"></a>23  Functions of Director
 
-                   Subject to the general direction of the Council, the Director shall manage the affairs of the Institute.
+Subject to the general direction of the Council, the Director shall manage the affairs of the Institute.
 
 ##### <a id="24"></a>24  Remuneration and allowances of Director
 
@@ -379,29 +385,29 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
 ##### <a id="25"></a>25  Leave of absence
 
-             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  Subject to section 87E of the _Public Service Act 1922_, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  The Council may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="26"></a>26  Resignation
 
-                   The Director may resign from office by writing signed by the Director and delivered to the Governor-General.
+The Director may resign from office by writing signed by the Director and delivered to the Governor-General.
 
 ##### <a id="27"></a>27  Termination of appointment
 
-                   The Governor-General may retire the Director on the ground of invalidity.
+The Governor-General may retire the Director on the ground of invalidity.
 
 ##### <a id="28"></a>28  Vacation of office of Director
 
-                   If the Director:
+If the Director:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
                      (b)  is guilty of misbehaviour;
 
-                     (c)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+                     (c)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (d)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (d)  fails, without reasonable excuse, to comply with his or her obligations under section 21 of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Governor-General shall remove the Director from office.
 
@@ -439,9 +445,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="31"></a>31  Oath or affirmation
 
-                   The Director or an Acting Director shall not perform the duties of his or her office unless he or she has made and subscribed, before a justice of the peace or a commissioner for taking affidavits, an oath or affirmation of allegiance in accordance with the form of oath or affirmation in the Schedule.
+The Director or an Acting Director shall not perform the duties of his or her office unless he or she has made and subscribed, before a justice of the peace or a commissioner for taking affidavits, an oath or affirmation of allegiance in accordance with the form of oath or affirmation in the Schedule.
 
 ## Part V—Staff
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="33"></a>33  Appointment of officers
 
@@ -457,7 +465,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="34"></a>34  Terms and conditions of appointment of officers
 
-                   Officers are not subject to the _Public Service Act 1999_ but hold office on such terms and conditions as are determined by the Council.
+Officers are not subject to the _Public Service Act 1922_ but hold office on such terms and conditions as are determined by the Council.
 
 ##### <a id="35"></a>35  Temporary and casual employees
 
@@ -468,6 +476,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
              (4)  The terms and conditions of employment of employees shall be such as are determined by the Council.
 
 ## Part VI—Finance
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="36"></a>36  Moneys payable to Institute
 
@@ -487,13 +497,15 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="42"></a>42  Limit on contracts
 
-                   The Institute shall not, except with the approval of the Minister, enter into a contract involving the payment by the Institute of an amount exceeding $100,000.
+The Institute shall not, except with the approval of the Minister, enter into a contract involving the payment by the Institute of an amount exceeding $100,000.
 
 ##### <a id="43"></a>43  Exemption from taxation
 
-                   The Institute is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+The Institute is not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
 ## Part VII—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="45"></a>45  Committees
 
@@ -509,9 +521,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (4)  A Committee shall make such enquiries, and furnish to the Council such reports, in connexion with the matter in relation to which it has been appointed as the Council directs.
 
-##### <a id="46"></a>46  Application of Air Accidents (Commonwealth Liability) Act
+##### <a id="46"></a>46   Application of Air Accidents (Commonwealth Liability) Act
 
-                   The Institute is a Commonwealth authority for the purposes of the _Air Accidents (Commonwealth Liability) Act 1963_.
+The Institute is a Commonwealth authority for the purposes of the _Air Accidents (Commonwealth Liability) Act 1963_.
 
 ##### <a id="48"></a>48  Inventions etc. of officers and employees
 
@@ -521,21 +533,23 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="49"></a>49  Bonuses for discoveries by officers and employees
 
-                   The Council may pay to officers and employees, or to persons working on behalf of the Institute, such bonuses as the Council, with the approval of the Minister, determines in respect of useful discoveries or inventions made by those officers, employees or persons.
+The Council may pay to officers and employees, or to persons working on behalf of the Institute, such bonuses as the Council, with the approval of the Minister, determines in respect of useful discoveries or inventions made by those officers, employees or persons.
 
 ##### <a id="50"></a>50  Fees and agreements for investigations
 
-                   The Council may charge such fees, and may agree to such conditions, as it thinks fit for investigations carried out by the Institute at the request of any person.
+The Council may charge such fees, and may agree to such conditions, as it thinks fit for investigations carried out by the Institute at the request of any person.
 
 ##### <a id="51"></a>51  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for penalties not exceeding a fine of $100 for offences against the regulations
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for penalties not exceeding a fine of $100 for offences against the regulations  
 
-# The Schedule
+* * *
 
-_Sections 31, 33(2) and 35(3)_
+<span style="font-size:16.0pt">The Schedule</span>
 
-OATH
+Sections 31, 33(2) and 35(3) 
+
+OATH 
 
           I, A. B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law. 
 
@@ -545,13 +559,13 @@ AFFIRMATION
 
           I, A. B., do solemnly and sincerely promise and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law. 
 
-# Notes to the _Australian Institute of Marine Science Act 1972_
+* * *
 
-### Note 1
+# NOTE
 
-The _Australian Institute of Marine Science Act 1972_ as shown in this compilation comprises Act No. 55, 1972 amended as indicated in the Tables below. 
+1.  The _Australian Institute of Marine Science Act 1972_ as shown in this reprint comprises Act No. 55, 1972 amended as indicated in the Tables below. 
 
-### Table of Acts
+Table of Acts
 
 <table>
 <colgroup>
@@ -821,77 +835,31 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 198, 199): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 38, 39): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 
 _(b)_    The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.”
 
 _(c)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.”
 
 _(d)_     The _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(29) of which provides as follows:
 
-                (29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first-mentioned Act received the Royal Assent.
+               “(29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first-mentioned Act received the Royal Assent.”
 
 _(e)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 4 (items 28-30) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
 _(f)_      The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 2 (items 338-346) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_,
-
-_(g)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(h)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
-
-                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
-
-                             (c)   the items in Schedules 10, 11 and 12.
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_,”
 
  
 
@@ -1017,7 +985,7 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. Nos. 76 and 168, 1986; No. 152, 1997; No. 156, 1999</div>
+    <div>am. Nos. 76 and 168, 1986; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1110,14 +1078,6 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
@@ -1129,7 +1089,7 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997; No. 156, 1999</div>
+    <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1174,15 +1134,7 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
 </tr>
 <tr>
   <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 199, 1991; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
+    <div>Ss. 34, 35</div>
   </td>
   <td>
     <div>am. No. 76, 1986; No. 199, 1991</div>
