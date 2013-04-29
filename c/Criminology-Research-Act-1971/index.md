@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00729/Html/c0536b5f-ef9b-422d-b7fc-ff6a80976924_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00470/Html/e152074f-2d65-4b7c-8641-8009ad5560b7_files/image001.gif)
 
 # Criminology Research Act 1971
 
 **Act No. 15 of 1971 as amended**
 
-This compilation was prepared on 8 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -20,61 +20,61 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[4](#4).            Interpretation                                                                                        1
+[4](#4).            Interpretation
 
 **Part II—The Australian Institute of Criminology** 
 
     **Division 1—Establishment, functions and powers of Institute**
 
-[5](#5).            Establishment of Institute                                                                     3
+[5](#5).            Establishment of Institute
 
-[6](#6).            Functions of Institute                                                                           3
+[6](#6).            Functions of Institute
 
-[6A](#6A).         Power of Attorney‑General to request Institute to perform certain functions           3
+[6A](#6A).         Power of Attorney‑General to request Institute to perform certain functions
 
     **Division 3—Director, Acting Director and staff of Institute**
 
-[15](#15).          Director of Institute                                                                              5
+[15](#15).          Director of Institute
 
-[16](#16).          Functions of Director                                                                           5
+[16](#16).          Functions of Director
 
-[17](#17).          Tenure of office of Director                                                                 6
+[17](#17).          Tenure of office of Director
 
-[18](#18).          Remuneration and allowances of Director                                            6
+[18](#18).          Remuneration and allowances of Director
 
-[19](#19).          Leave of absence of Director                                                                7
+[19](#19).          Leave of absence of Director
 
-[20](#20).          Termination of appointment of Director                                               7
+[20](#20).          Termination of appointment of Director
 
-[21](#21).          Vacation of office of Director                                                              7
+[21](#21).          Vacation of office of Director
 
-[22](#22).          Acting Director                                                                                    7
+[22](#22).          Acting Director
 
-[23](#23).          Staff of the Institute                                                                              8
+[23](#23).          Staff of the Institute
 
-[24](#24).          Consultants                                                                                          9
+[24](#24).          Consultants
 
 **Part III—Criminology Research Advisory Council**
 
-[33](#33).          Criminology Research Advisory Council                                          10
+[33](#33).          Criminology Research Advisory Council
 
-[34](#34).          Meetings of the Advisory Council                                                     10
+[34](#34).          Meetings of the Advisory Council
 
 **Part V—Miscellaneous**
 
-[46](#46).          Criminology Research Special Account                                             11
+[46](#46).          Criminology Research Special Account
 
-[47](#47).          Institute may charge for services                                                        12
+[47](#47).          Institute may charge for services
 
-[48](#48).          Delegation by Director                                                                       12
+[48](#48).          Delegation by Director
 
-[49](#49).          Annual report                                                                                     12
+[49](#49).          Annual report
 
-[51](#51).          Regulations                                                                                        12
+[51](#51).          Regulations
 
 **Notes** 
 
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1] 
 
-                   This Act may be cited as the _Criminology Research Act 1971_.
+                   This Act may be cited as the _Criminology Research Act 1971_.  
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -684,7 +684,7 @@ Remainder: Royal Assent</div>
     <div>17 Dec 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 7: 1 July 2011</div>
+    <div>Schedule 7: 1 July 2011</div>
   </td>
   <td>
     <div>Sch. 7 (items 
@@ -702,27 +702,10 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (items 79, 80): 19 Apr 2011</div>
+    <div>Schedule 5 (items 79, 80): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 462–466) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -889,7 +872,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>Div. 2 of Part II</div>
+    <div>Div. 2 of Part II</div>
   </td>
   <td>
     <div>rep. No. 148, 2010</div>
@@ -1121,7 +1104,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>Div. 4 of Part II</div>
+    <div>Div. 4 of Part II</div>
   </td>
   <td>
     <div>rep. No. 148, 2010</div>
@@ -1249,7 +1232,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>Part III</div>
+    <div>Part III</div>
   </td>
   <td>
     <div>rs. No. 148, 2010</div>
@@ -1441,7 +1424,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>Part IV</div>
+    <div>Part IV</div>
   </td>
   <td>
     <div>rep. No. 148, 2010</div>
@@ -1552,38 +1535,6 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 462  Subsection 22(1)
-
-Omit “(1)”.
-
-## 463  Paragraph 22(1)(b)
-
-Omit “Director;”, substitute “Director.”.
-
-## 464  Subsection 22(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 465  At the end of subsection 22(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 466  Subsections 22(2) to (7)
-
-Repeal the subsections.
-
-As at 8 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1598,9 +1549,9 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2010 (No. 148, 2010)_
+_Financial Framework Legislation Amendment Act 2010 (No. 148, 2010)_
 
-## Schedule 7
+## Schedule 7
 
 ## 19  Institute and Board
 
@@ -1807,21 +1758,5 @@ the Institute may meet the requirements in a single report for the period.
                      (g)  transfers, redundancy, resignations, or termination of employment;
 
                      (h)  leave.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
