@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00217/Html/InsContracts1984WD2002_image001.gif)
 
 # Insurance Contracts Act 1984
 
 **Act No. 80 of 1984 as amended**
 
-This compilation was prepared on 2 July 2008
- taking into account amendments up to Act No. 54 of 2008
+This compilation was prepared on 5 April 2007 
+ taking into account amendments up to Act No. 32 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -291,8 +291,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  of reinsurance; or
 
                      (b)  of insurance entered into, or proposed to be entered into, by a private health insurer within the meaning of the _Private Health Insurance Act 2007_ in respect of its health insurance business within the meaning of Division 121 of that Act; or
-
-                    (ba)  of insurance entered into, or proposed to be entered into, by a private health insurer within the meaning of the _Private Health Insurance Act 2007_ in respect of its health-related business within the meaning of section 131-15 of that Act that is conducted through a health benefits fund (as defined by section 131-10 of that Act); or
 
                      (c)  of insurance entered into, or proposed to be entered into, by a friendly society; or
 
@@ -820,7 +818,7 @@ but does not apply where the insurer would have entered into the contract, for t
 
              (3)  If the insurer is not entitled to avoid the contract or, being entitled to avoid the contract (whether under subsection (2) or otherwise) has not done so, the liability of the insurer in respect of a claim is reduced to the amount that would place the insurer in a position in which the insurer would have been if the failure had not occurred or the misrepresentation had not been made.
 
-##### <a id="29"></a>29  Life insurance
+##### <a id="29"></a>29  Life insurance
 
              (1)  This section applies where the person who became the insured under a contract of life insurance upon the contract being entered into:
 
@@ -840,7 +838,7 @@ but does not apply where:
 
              (4)  If the insurer has not avoided the contract, whether under subsection (2) or (3) or otherwise, the insurer may, by notice in writing given to the insured before the expiration of 3 years after the contract was entered into, vary the contract by substituting for the sum insured (including any bonuses) a sum that is not less than the sum ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00217/Html/InsContracts1984WD2002_image002.gif)
 
 where:
 
@@ -858,7 +856,7 @@ where:
 
              (1)  In this section, **_the standard formula_**, in relation to a contract of life insurance means the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00217/Html/InsContracts1984WD2002_image002.gif)
 
 where:
 
@@ -1052,7 +1050,7 @@ the provision is void.
 
                      (b)  but for this subsection, an average provision included in the contract would have the effect of reducing the liability of the insurer in respect of loss of or damage to the property to an amount that is less than the amount ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00217/Html/InsContracts1984WD2002_image003.gif)
 
                             where:
 
@@ -1350,7 +1348,7 @@ then, by force of this section, there exists between the parties to the original
 
              (6)  If the claim is not for total loss of the property insured, the premium is an amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00217/Html/InsContracts1984WD2002_image004.gif)
 
 where:
 
@@ -1360,7 +1358,7 @@ where:
 
                     period of original contract means the number of days in the period of the original contract.
 
-##### <a id="59"></a>59  Cancellation procedure
+##### <a id="59"></a>59  Cancellation procedure
 
              (1)  An insurer who wishes to exercise a right to cancel a contract of insurance shall give notice in writing of the proposed cancellation to the insured.
 
@@ -2126,23 +2124,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Private Health Insurance Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>54, 2008</div>
-  </td>
-  <td>
-    <div>25 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 5): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Insurance Contracts Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -2243,7 +2224,7 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. Nos. 65 and 187, 1985; No. 76, 1986; No. 149, 1991; No. 107, 1997; No. 11, 2000; No. 96, 2002; No. 32, 2007; No. 54, 2008</div>
+    <div>am. Nos. 65 and 187, 1985; No. 76, 1986; No. 149, 1991; No. 107, 1997; No. 11, 2000; No. 96, 2002; No. 32, 2007</div>
   </td>
 </tr>
 <tr>
