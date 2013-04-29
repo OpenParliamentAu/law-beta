@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00379/Html/DefHouAustAct1987WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00678/Html/DefHouAustAct1987WD02_image001.gif)
 
 # Defence Housing Australia Act 1987
 
 **Act No. 101 of 1987 as amended**
 
-This compilation was prepared on 7 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 22 November 2006
+ taking into account amendments up to Act No. 45 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -511,9 +511,9 @@ the Minister shall terminate the appointment of the appointed member.
 
           (2A)  The Finance Minister may appoint a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_ to act as the appointed member referred to in paragraph 12(1)(d) during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office).
 
-             (3)  An appointment of a person under subsection (1), (2) or (2A) may be expressed to have effect only in specified circumstances.
+             (3)  An appointment of a person under subsection (1) (2), or (2A) may be expressed to have effect only in specified circumstances.
 
-             (4)  A person appointed under subsection (1), (2) or (2A) to act during a vacancy in the office of Chairperson or another appointed member shall not continue to act for more than 6 months.
+             (4)  A person appointed under subsection (1) (2), or (2A) to act during a vacancy in the office of Chairperson or another appointed member shall not continue to act for more than 6 months.
 
              (5)  Where:
 
@@ -1421,23 +1421,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 19, 20): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Housing__Australia__Act 1987_ was amended by Part IV (sections 9–13) only of the _Defence Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
@@ -1471,111 +1454,6 @@ _(f)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 10 (i
 _(g)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 3 (item 167) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-_(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      11\. Schedule 1, item 19
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 59 of Schedule 1 to the
-        <i>Defence Housing Authority Amendment Act 2006</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 November 2006
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      12\. Schedule 1, item 20
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 60 of Schedule 1 to the
-        <i>Defence Housing Authority Amendment Act 2006</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 November 2006
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1829,7 +1707,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 100, 1988; No. 45, 2006; No. 73, 2008</div>
+    <div>am. No. 100, 1988; No. 45, 2006</div>
   </td>
 </tr>
 <tr>
