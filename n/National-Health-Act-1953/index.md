@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 22 November 2012
+This compilation was prepared on 18 October 2012
  taking into account amendments up to Act No. 136 of 2012
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
@@ -688,6 +688,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                      (c)  a body that is permitted, by a law of a State or Territory, to assume or use the expression **_friendly society_**; or
 
                      (d)  a body that, immediately before the date that is the transfer date for the purposes of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, was registered or incorporated as a friendly society under a law of a State or Territory.
+
+                    <a name="health-depart"></a>**_Health Department_** means the Department administered by the Health Minister.
+
+                    <a name="health-minist"></a>**_Health Minister_** means the Minister administering this Act.
 
                     <a name="hospit"></a>**_hospital_** has the meaning given by subsection 121‑5(5) of the _Private Health Insurance Act 2007_.
 
@@ -2785,7 +2789,7 @@ Special patient contribution
 
                    The **_proportional ex‑manufacturer price_** for a pack quantity (other than the pricing quantity) of a listed brand of a pharmaceutical item on a day is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image002.gif)
 
 where:
 
@@ -4587,7 +4591,7 @@ Apportioning if pricing quantity changes
 
              (6)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
 
 where:
 
@@ -4783,13 +4787,13 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image004.gif)
 
 Apportioning if pricing quantity changes
 
              (7)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
 
 where:
 
@@ -4873,7 +4877,7 @@ Apportioning if pricing quantity changes
 
           (4B)  If the pricing quantity of the related brand of the related item on the day before the reduction day is different from the pricing quantity of the related brand of the related item on the reduction day, then, for the purposes of subparagraphs (3)(a)(ii), (3)(b)(ii), (4)(a)(ii) and (4)(b)(ii), the approved ex‑manufacturer price of the related brand of the related item on the day before the reduction day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
 
 where:
 
@@ -4917,7 +4921,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image004.gif)
 
 Section does not limit Minister’s powers
 
@@ -4985,7 +4989,7 @@ Apportioning if pricing quantity changes
 
              (5)  If the pricing quantity of the existing brand of the existing item on the day before the reduction day is different from the pricing quantity of the existing brand of the existing item on the reduction day, then, for the purposes of subsection (4), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the reduction day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
 
 where:
 
@@ -5260,7 +5264,7 @@ Apportioning if pricing quantity changes
 
           (2A)  If the pricing quantity of the listed brand of the pharmaceutical item on the day before the reduction day is different from the pricing quantity of the listed brand of the pharmaceutical item on the reduction day, then, for the purposes of subsection (1) and paragraph (2)(b), the approved ex‑manufacturer price of the listed brand of the pharmaceutical item on the day before the reduction day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
 
 where:
 
@@ -5842,7 +5846,7 @@ Claimed price reduction
 
 then, on the reduction day the claimed price for that pack quantity of the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image005.gif)
 
 where:
 
@@ -5856,7 +5860,7 @@ Apportioning if pricing quantity changes
 
           (4A)  If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity of the brand of the pharmaceutical item on the reduction day, then, for the purposes of subsections (3) and (4), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image006.gif)
 
 where:
 
@@ -5906,7 +5910,7 @@ Claimed price reduction
 
 then, on the reduction day the claimed price for that pack quantity of the new brand of the existing item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image007.gif)
 
 where:
 
@@ -6406,7 +6410,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image008.gif)
 
 where:
 
@@ -6420,7 +6424,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image009.gif)
 
 where:
 
@@ -6686,7 +6690,7 @@ Review
 
                      (a)  the average number of times a submission is presented before gaining approval and the reasons provided for requiring applicants to resubmit;
 
-                     (b)  the average fee for submissions by type of submission (major/minor/generic according to the Department’s classifications);
+                     (b)  the average fee for submissions by type of submission (major/minor/generic according to Health Department classifications);
 
                      (c)  the number of applications where the population is likely to be small and utilisation of the drug, medicinal preparation or vaccine is likely to be highly targeted;
 
@@ -7552,7 +7556,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image010.gif)
 
 where:
 
@@ -8698,7 +8702,7 @@ then the collection of the information by the organisation to whom the informati
 
 ##### <a id="139C"></a>139C  Information with respect to concessional beneficiaries
 
-                   In spite of sections 202 to 210 of the _Social Security (Administration) Act 1999_, the Secretary of the Department of Family and Community Services or an officer authorised by him or her for the purpose may communicate to the Secretary or an officer authorised by him or her any information with respect to the operation of Part 2A.1 of the _Social Security Act 1991_.
+                   In spite of sections 202 to 210 of the _Social Security (Administration) Act 1999_, the Secretary of the Department of Family and Community Services or an officer authorised by him or her for the purpose may communicate to the Secretary of the Health Department or an officer authorised by him or her any information with respect to the operation of Part 2A.1 of the _Social Security Act 1991_.
 
 ##### <a id="140"></a>140  Regulations
 
@@ -13694,7 +13698,7 @@ Schedule 4 (item 654): <i>(zzzi)</i></div>
   </td>
   <td>
     <div>Schedule 1 (items 90–92): Royal Assent 
-Schedule 5 (items 6–9): 20 Oct 2012</div>
+Schedule 5 (items 6–9): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -31082,7 +31086,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 5, 2011; No. 136, 2012</div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -32878,7 +32882,7 @@ Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 
     <div></div>
   </td>
   <td>
-    <div>am. No. 5, 2011; No. 136, 2012</div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -33153,6 +33157,32 @@ Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 
     <div>rep. No. 86, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Statute Law Revision Act 2012 (No. 136, 2012)_
+
+The following amendments commence on 20 October 2012:
+
+## Schedule 5
+
+## 6  Subsection 4(1) (definition of _Health Department_)
+
+Repeal the definition.
+
+## 7  Subsection 4(1) (definition of _Health Minister_)
+
+Repeal the definition.
+
+## 8  Paragraph 99YBC(2)(b)
+
+Omit “Health Department classifications”, substitute “the Department’s classifications”.
+
+## 9  Section 139C
+
+Omit “Secretary of the Health Department”, substitute “Secretary”.
+
+As at 18 October 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -33592,7 +33622,7 @@ _Health Legislation Amendment Act (No. 1) 2001 (No. 6, 2001)_
 
 _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)_
 
-## <a id="4"></a>4  Application of amendments
+## <a id="4"></a>4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
@@ -33933,7 +33963,7 @@ The amendments made by this Schedule to section 85 of the _National Health Act
 
 The amendments made by this Schedule that insert subsections 4(2), 84(1B), 88(1AA), 88(1B) and 88(8) of the _National Health Act 1953_ apply to prescriptions written on and after the commencement of this Schedule.
 
-## 98  Application of amendments to section 84AAA of the _National Health Act 1953_
+## 98  Application of amendments to section 84AAA of the _National Health Act 1953_
 
 The amendments made by this Schedule to section 84AAA of the _National Health Act 1953_ apply in relation to supplies made on or after the commencement of this Schedule of pharmaceutical benefits that have pharmaceutical items that are specified in a legislative instrument made under that section on or after the commencement of this Schedule.
 
@@ -34262,7 +34292,7 @@ Step 2—Work out the ex‑manufacturer price for the agreed quantity
 
 (5)       Work out the **_price to pharmacists_** for the relevant quantity of the relevant brand of the pharmaceutical item as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image011.gif)
 
 where:
 
@@ -34276,7 +34306,7 @@ where:
 
 (6)       If the price to pharmacists for the relevant quantity of the relevant brand of the pharmaceutical item is less than, or equal to, $1,000, then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image012.gif)
 
 where:
 
@@ -34292,7 +34322,7 @@ where:
 
 then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image013.gif)
 
 where:
 
@@ -34308,7 +34338,7 @@ where:
 
 then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image014.gif)
 
 where:
 
@@ -34324,7 +34354,7 @@ Step 3—Work out the proportional ex‑manufacturer price
 
 (9)       Work out the **_proportional ex‑manufacturer price_** for the pricing quantity of the relevant brand of the pharmaceutical item on the commencement day as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image015.gif)
 
 where:
 
