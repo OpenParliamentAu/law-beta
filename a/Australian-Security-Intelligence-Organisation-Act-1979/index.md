@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2007C00235/Html/ASIO1979_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00091/Html/ASIO1979_WD02_image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 2 April 2007
- taking into account amendments up to Act No. 21 of 2007
+This compilation was prepared on 22 February 2007
+ taking into account amendments up to Act No. 3 of 2007
 
-**\[Note: Division 3 of Part III ceases to be in force on****22 July  2016****,  _see_ section 34ZZ]**
+**\[Note: Division 3 of Part III ceases to be in force on****22 July 2016****,  _see_ section 34ZZ]**
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -4641,23 +4641,6 @@ Schedule 3A (items 10–22): <i>(s)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Citizenship (Transitionals and Consequentials) Act 2007</div>
-  </td>
-  <td>
-    <div>21, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 5): \[ <i>see</i>s. 2(1) and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -7774,22 +7757,7 @@ Repeal the definition, substitute:
 
 Note:          A person can commit a terrorism offence against Part 5.3 of the _Criminal Code_ even if no terrorist act (as defined in that Part) occurs.
 
-As at 2 April 2007 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Australian Citizenship (Transitionals and Consequentials) Act 2007
- (No. 21, 2007)_
-
-The following amendment commences on 15 September 2007 unless proclaimed earlier:
-
-## Schedule 1
-
-## 5  Subsection 35(1) (paragraph (c) of the definition of _prescribed administrative action_)
-
-Omit “_Australian Citizenship Act 1948_”, substitute “_Australian Citizenship Act 2007_”.
-
-As at 2 April 2007 the amendment is not incorporated in this compilation.
+As at 22 February 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
