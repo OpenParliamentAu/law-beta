@@ -1,17 +1,18 @@
-![](http://www.comlaw.gov.au/Details/C2011C00345/Html/a6cc9ae6-69c1-452f-b663-68f5ec533f03_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00124/Html/2083d694-295d-4762-8765-e3f81c34f60c_files/image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 4 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 March 2011
+ taking into account amendments up to Act No. 3 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated 
+ may be affected by application provisions that are set out in 
+ the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
@@ -924,7 +925,7 @@ the High Court may, upon application of a party or upon application by or on beh
 
 ##### <a id="47"></a>47  Application
 
-                   This Part applies to and in relation to:
+                   This Part applies to and in relation to:
 
                      (a)  all natural persons, whether resident in Australia or not and whether Australian citizens or not; and
 
@@ -1062,7 +1063,7 @@ but the High Court may at any time, by order, revoke or vary such an order.
 
                      (b)  who is either:
 
-                              (i)  the Secretary of the Attorney‑General’s Department; or
+                              (i)  the Secretary to the Attorney‑General’s Department; or
 
                              (ii)  a person in the Attorney‑General’s Department who is engaged under the _Public Service Act 1999_.
 
@@ -1148,7 +1149,7 @@ the amount charged is taken to have been paid by the client.
 
                     <a name="compani"></a>**_company_** means a body corporate that is incorporated, or taken to be incorporated, under the _Corporations Act 2001_.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
+                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister for Finance and Administration.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -2434,7 +2435,7 @@ The _Judiciary Act 1903_ was affected by section 44 of the _CSL Sale Act 1993_
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 31 March 1999 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 31 March 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -4060,23 +4061,6 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   </td>
   <td>
     <div>Schedule 6: 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 120) and Schedule 7 (item 84): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5893,7 +5877,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; Nos. 3 and 5, 2011</div>
+    <div>am. No. 146, 1999; No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5981,7 +5965,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; Nos. 3 and 5, 2011</div>
+    <div>am. No. 55, 2001; No. 3, 2011</div>
   </td>
 </tr>
 <tr>
