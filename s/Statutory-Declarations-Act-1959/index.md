@@ -1,7 +1,7 @@
 
 Statutory Declarations Act 1959
 Act No. 52 of 1959 as amended
-This compilation was prepared on 10 January 2002 taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 13 November 2000 taking into account amendments up to Act No. 43 of 1996
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -13,18 +13,16 @@ Contents
 3	Repeal and saving	1
 4	Interpretation	1
 5	Application	1
-5A	Application of the Criminal Code	2
 6	Authority to make and use statutory declarations	2
 7	References to statutory declarations	2
-8	How statutory declaration is made	3
+8	How statutory declaration is made	2
 10	Declarations under other laws	3
 11	False declarations	3
 12	Jurisdiction of courts	3
 13	Extension of Act to Territories [see Note 2]	4
-14	Regulations	5
+14	Regulations	4
 The Schedule—Commonwealth of Australia	6
 Notes		7
-
 
 An Act relating to Statutory Declarations
 1  Short title [see Note 1]
@@ -45,9 +43,6 @@ Territory does not include the Northern Territory.
 5  Application
 	(1)	Subject to this section, this Act applies both within and without the Commonwealth.
 	(2)	Except as provided by subsection (8) of section twelve of this Act, this Act does not apply in a Territory not forming part of the Commonwealth unless this Act extends to that Territory by virtue of section thirteen of this Act.
-5A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 6  Authority to make and use statutory declarations
 	(1)	A person may, if he or she so desires, make a statutory declaration in relation to any matter.
 	(2)	Subject to the next succeeding subsection, a statutory declaration may be used:
@@ -64,7 +59,7 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 10  Declarations under other laws
 		Where, by a law of the Commonwealth or of a Territory (whether passed or made before or after the commencement of this Act), a declaration is required to be made by a person before some other person, the declaration may, unless the contrary intention appears in that law, be made before the person mentioned in that law or before a person before whom a statutory declaration under this Act may be made.
 11  False declarations
-		A person must not intentionally make a false statement in a statutory declaration.
+		A person must not wilfully make a false statement in a statutory declaration.
 Penalty:	Imprisonment for 4 years.
 12  Jurisdiction of courts
 	(1)	Subject to the succeeding provisions of this section:
@@ -112,7 +107,6 @@ Before me,
 Notes to the Statutory Declarations Act 1959
 Note 1
 The Statutory Declarations Act 1959 as shown in this compilation comprises Act No. 52, 1959 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information see Table A. 
 Table of Acts
 
 Act
@@ -120,7 +114,6 @@ Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
-
 
 Statutory Declarations Act 1959
 52, 1959
@@ -157,11 +150,6 @@ Statute Law Revision Act 1996
 25 Oct 1996
 Schedule 5 (item 143): Royal Assent (c)
 — 
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 46: (d)
-S. 4(1), (2) [see Table A]
 (a)	The Statutory Declarations Act 1959 was amended by the Schedule only of the Law and Justice Legislation Amendment Act 1991, subsection 2(4) of which provides as follows:
 	(4)	Subject to subsection (5), the amendments of the Statutory Declarations Act 1959 made by this Act, and subsections 3(3) and (4), commence on a day to be fixed by Proclamation.
 	The amendments of the Statutory Declarations Act 1959 and subsections 3(3) and (4) came into operation on 12 December 1991 (see Gazette 1991, No. S336)
@@ -169,11 +157,6 @@ S. 4(1), (2) [see Table A]
 	(7)	Part 2 of the Schedule commences on the 28th day after the day on which this Act receives the Royal Assent.
 (c)	The Statutory Declarations Act 1959 was amended by Schedule 5 (item 143) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(d)	The Statutory Declarations Act 1959 was amended by Schedule 46 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -182,8 +165,6 @@ S. 3
 am. No. 136, 1991
 S. 4	
 am. No. 216, 1973; No. 115, 1990; No. 136, 1991
-S. 5A	
-ad. No. 24, 2001
 S. 6	
 am. No. 43, 1996
 S. 7	
@@ -196,19 +177,10 @@ S. 11
 am. No. 93, 1966
 
 rs. No. 165, 1992
-
-am. No. 24, 2001
 S. 12	
 am. No.115, 1990
 S. 14	
 ad. No. 136, 1991 
 Note 2
 Section 13—By Proclamation dated 14 September 1972 and in force at 31 August 1979, this Act was declared to extend to the Territories of Christmas Island and Cocos (Keeling) Islands (see Gazette 1972, No. 93).
-Section 13—By Proclamation dated 4 February 1993, this Act was declared to extend to the Territories of the Australian Antarctic Territory, the Coral Sea Islands Territory, the Territory of Ashmore and Cartier Islands and the Territory of Heard Island and McDonald Islands (see Gazette 1993, No. GN6).
-Table A
-Application, saving or transitional provisions
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
