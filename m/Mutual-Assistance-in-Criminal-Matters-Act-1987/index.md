@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00473/Html/MutAssistCriminalMatt1987_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00552/Html/MutAssistCriminalMatt1987_WD02_image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 8 July 2010
- taking into account amendments up to Act No. 96 of 2010
+This compilation was prepared on 4 December 2009
+ taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -308,7 +308,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Mutual Assistance in Criminal Matters Act 1987_.
 
@@ -1552,7 +1552,7 @@ has been registered under this Subdivision for cancellation of the registration.
 
 #### Subdivision B—Restraining orders relating to foreign criminal proceedings
 
-##### <a id="34J"></a>34J  Requests for restraining orders
+##### <a id="34J"></a>34J  Requests for restraining orders
 
              (1)  If:
 
@@ -3250,23 +3250,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Corporations and Other Amendments) Act 2010</div>
-  </td>
-  <td>
-    <div>96, 2010</div>
-  </td>
-  <td>
-    <div>6 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 3, 4): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Legislation Amendment Act (No. 2) 1988_ was amended by Part VII (sections
@@ -3309,17 +3292,24 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 
 <table>
 <colgroup>
-  <col width="34%">
+  <col width="0%">
+  <col width="33%">
   <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
+    <td>
+      <div></div>
+    </td>
     <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
+    <td>
+      <div></div>
+    </td>
     <td>
       <div>Provision affected</div>
     </td>
@@ -3329,7 +3319,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </tr>
 </thead>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part I</b></div>
   </td>
   <td>
@@ -3337,7 +3327,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 3</div>
   </td>
   <td>
@@ -3345,7 +3335,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 4A</div>
   </td>
   <td>
@@ -3353,7 +3343,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 5, 6</div>
   </td>
   <td>
@@ -3361,7 +3351,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 7</div>
   </td>
   <td>
@@ -3369,7 +3359,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3377,7 +3367,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 8</div>
   </td>
   <td>
@@ -3385,7 +3375,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 10</div>
   </td>
   <td>
@@ -3393,7 +3383,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 11</div>
   </td>
   <td>
@@ -3401,7 +3391,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part II</b></div>
   </td>
   <td>
@@ -3409,7 +3399,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 12</div>
   </td>
   <td>
@@ -3417,7 +3407,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Heading to s. 13</div>
   </td>
   <td>
@@ -3425,7 +3415,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 13</div>
   </td>
   <td>
@@ -3433,7 +3423,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 13A</div>
   </td>
   <td>
@@ -3441,7 +3431,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3449,7 +3439,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part III</b></div>
   </td>
   <td>
@@ -3457,7 +3447,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 14</div>
   </td>
   <td>
@@ -3465,7 +3455,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Heading to s. 15</div>
   </td>
   <td>
@@ -3473,7 +3463,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 15</div>
   </td>
   <td>
@@ -3481,7 +3471,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part IV</b></div>
   </td>
   <td>
@@ -3489,7 +3479,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 1</b></div>
   </td>
   <td>
@@ -3497,7 +3487,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 16</div>
   </td>
   <td>
@@ -3505,7 +3495,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 19</div>
   </td>
   <td>
@@ -3513,7 +3503,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 20</div>
   </td>
   <td>
@@ -3521,7 +3511,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Heading to s. 21</div>
   </td>
   <td>
@@ -3529,7 +3519,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 21</div>
   </td>
   <td>
@@ -3537,7 +3527,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 24</div>
   </td>
   <td>
@@ -3545,7 +3535,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 25</div>
   </td>
   <td>
@@ -3553,7 +3543,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 25A</div>
   </td>
   <td>
@@ -3561,7 +3551,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3569,7 +3559,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 26, 27</div>
   </td>
   <td>
@@ -3577,7 +3567,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part V</b></div>
   </td>
   <td>
@@ -3585,7 +3575,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 29</div>
   </td>
   <td>
@@ -3593,7 +3583,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 30</div>
   </td>
   <td>
@@ -3601,7 +3591,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 31</div>
   </td>
   <td>
@@ -3609,7 +3599,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 31A</div>
   </td>
   <td>
@@ -3617,7 +3607,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part VI</b></div>
   </td>
   <td>
@@ -3625,7 +3615,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 1</b></div>
   </td>
   <td>
@@ -3633,7 +3623,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 32, 33</div>
   </td>
   <td>
@@ -3641,7 +3631,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3649,7 +3639,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Div. 2 of Part VI</div>
   </td>
   <td>
@@ -3657,7 +3647,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Subdivision A</b></div>
   </td>
   <td>
@@ -3665,7 +3655,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 34</div>
   </td>
   <td>
@@ -3673,7 +3663,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3681,7 +3671,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 34A–34H</div>
   </td>
   <td>
@@ -3689,7 +3679,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Subdivision B</b></div>
   </td>
   <td>
@@ -3697,7 +3687,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 34J–34M</div>
   </td>
   <td>
@@ -3705,7 +3695,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -3713,7 +3703,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 34N</div>
   </td>
   <td>
@@ -3721,7 +3711,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 34P, 34Q</div>
   </td>
   <td>
@@ -3729,7 +3719,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Subdivision D</b></div>
   </td>
   <td>
@@ -3737,7 +3727,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 34R–34W</div>
   </td>
   <td>
@@ -3745,7 +3735,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Subdivision E</b></div>
   </td>
   <td>
@@ -3753,7 +3743,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 34X–34Z</div>
   </td>
   <td>
@@ -3761,7 +3751,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Subdivision F</b></div>
   </td>
   <td>
@@ -3769,7 +3759,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 34ZA–34ZF</div>
   </td>
   <td>
@@ -3777,7 +3767,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -3785,7 +3775,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Div. 3 of Part VI</div>
   </td>
   <td>
@@ -3793,7 +3783,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 35</div>
   </td>
   <td>
@@ -3801,7 +3791,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3809,7 +3799,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 35A–35H</div>
   </td>
   <td>
@@ -3817,7 +3807,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 35J–35M</div>
   </td>
   <td>
@@ -3825,7 +3815,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 36, 37</div>
   </td>
   <td>
@@ -3833,7 +3823,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3841,7 +3831,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Heading to Part VIA</div>
   </td>
   <td>
@@ -3849,7 +3839,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3857,7 +3847,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Part VIA</div>
   </td>
   <td>
@@ -3865,7 +3855,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3873,7 +3863,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 37A</div>
   </td>
   <td>
@@ -3881,7 +3871,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3889,7 +3879,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -3897,7 +3887,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Part VII</div>
   </td>
   <td>
@@ -3905,7 +3895,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 38</div>
   </td>
   <td>
@@ -3913,7 +3903,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part VIIA</b></div>
   </td>
   <td>
@@ -3921,7 +3911,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Part VIIA</div>
   </td>
   <td>
@@ -3929,7 +3919,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 1</b></div>
   </td>
   <td>
@@ -3937,7 +3927,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 38A</div>
   </td>
   <td>
@@ -3945,7 +3935,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3953,7 +3943,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 38B–38I</div>
   </td>
   <td>
@@ -3961,7 +3951,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -3969,7 +3959,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 38J–38R</div>
   </td>
   <td>
@@ -3977,7 +3967,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 4</b></div>
   </td>
   <td>
@@ -3985,7 +3975,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 38S–38V</div>
   </td>
   <td>
@@ -3993,7 +3983,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Division 5</b></div>
   </td>
   <td>
@@ -4001,7 +3991,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 38W–38Z</div>
   </td>
   <td>
@@ -4009,7 +3999,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 38ZA</div>
   </td>
   <td>
@@ -4017,7 +4007,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -4025,7 +4015,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 38ZB</div>
   </td>
   <td>
@@ -4033,7 +4023,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Part VIII</b></div>
   </td>
   <td>
@@ -4041,7 +4031,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Heading to s. 39</div>
   </td>
   <td>
@@ -4049,7 +4039,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 39</div>
   </td>
   <td>
@@ -4057,7 +4047,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 39A</div>
   </td>
   <td>
@@ -4065,7 +4055,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -4073,7 +4063,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 39B</div>
   </td>
   <td>
@@ -4081,7 +4071,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 40</div>
   </td>
   <td>
@@ -4089,7 +4079,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 43</div>
   </td>
   <td>
@@ -4097,7 +4087,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>S. 43A</div>
   </td>
   <td>
@@ -4105,7 +4095,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -4113,45 +4103,18 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Ss. 43B, 43C</div>
   </td>
   <td>
     <div>ad. No. 40, 1996</div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
-
-### Note 2
-
-_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 3  At the end of section 35J
-
-Add:
-
-             (4)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the charge (to the extent, if any, to which that Act applies in relation to the property charged).
-
-Note 1:       The effect of this subsection is that the priority between the charge and a security interest in the property to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges created by this section after the commencement of subsection (4) (which is at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
-
-## 4  Subsection 35L(4) (definition of _registration authority_)
-
-Repeal the definition, substitute:
-
-                    <a name="registr-author"></a>**_registration authority_**, in relation to property of a particular kind, means:
-
-                     (a)  an authority responsible for administering a law of the Commonwealth, a State or a Territory providing for registration of title to, or charges over, property of that kind; or
-
-                     (b)  the Registrar of Personal Property Securities, if the _Personal Property Securities Act 2009_ provides for the registration of data in relation to that kind of personal property for the purposes of paragraph 148(c) of that Act.
-
-Note:       The _Personal Property Securities Act 2009_ provides for the registration of such data if regulations are made for the purposes of paragraph 148(c) of that Act.
-
-As at 8 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
