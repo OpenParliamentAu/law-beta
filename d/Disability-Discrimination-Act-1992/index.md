@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00402/Html/DisabilityDiscrimination1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00351/Html/DisabilityDiscrimination1992_WD02_image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 5 August 2009
+This compilation was prepared on 20 July 2009
  taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
@@ -28,15 +28,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Interpretation
 
-[5](#5).            Direct disability discrimination
+[5](#5).            Disability discrimination
 
 [6](#6).            Indirect disability discrimination
 
-[7](#7).            Discrimination in relation to associates
+[7](#7).            Disability discrimination—palliative and therapeutic devices and auxiliary aids
 
-[8](#8).            Discrimination in relation to carers, assistants, assistance animals and disability aids
+[8](#8).            Disability discrimination—interpreters, readers and assistants
 
-[9](#9).            Carer, assistant, assistance animal and disability aid definitions
+[9](#9).            Disability discrimination—guide dogs, hearing assistance dogs and trained animals
 
 [10](#10).          Act done because of disability and for other reason
 
@@ -68,10 +68,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Employment agencies
 
-[21A](#21A).       Exception—inherent requirements
-
-[21B](#21B).       Exception—unjustifiable hardship
-
     **Division 2—Discrimination in other areas**
 
 [22](#22).          Education
@@ -90,11 +86,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29](#29).          Administration of Commonwealth laws and programs
 
-[29A](#29A).       Unjustifiable hardship
-
 [30](#30).          Requests for information
-
-    **Division 2A—Disability standards**
 
 [31](#31).          Disability standards
 
@@ -108,9 +100,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Harassment in employment
 
+[36](#36).          Harassment in employment—associates with disabilities
+
 [37](#37).          Harassment in education
 
+[38](#38).          Harassment in education—associates with disabilities
+
 [39](#39).          Harassment in relation to the provision of goods and services
+
+[40](#40).          Harassment in relation to the provision of goods and services—associates with disabilities
 
     **Division 4—Offences**
 
@@ -134,6 +132,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [49](#49).          Exemption for charities
 
+[50](#50).          Telecommunications
+
 [51](#51).          Pensions and allowances
 
 [52](#52).          Migration
@@ -141,8 +141,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [53](#53).          Combat duties and peacekeeping services
 
 [54](#54).          Peacekeeping services by the AFP
-
-[54A](#54A).       Assistance animals
 
 [55](#55).          Commission may grant exemptions
 
@@ -154,7 +152,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Action plans**
 
-[59](#59).          Scope
+[59](#59).          Interpretation
 
 [60](#60).          Action plans
 
@@ -164,13 +162,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [63](#63).          Amendment of action plans
 
-[64](#64).          Action plans may be given to Commission
+[64](#64).          Copy of action plan to be given to Commission
 
-**Part 4—Functions of the Australian Human Rights Commission** 
+[65](#65).          Commission to sell action plans to public
+
+**Part 4—Functions of Human Rights and Equal Opportunity Commission** 
 
     **Division 1—Preliminary**
 
-[67](#67).          Functions of the Commission
+[67](#67).          Functions of Human Rights and Equal Opportunity Commission
 
 **Part 5—Other offences**
 
@@ -280,8 +280,6 @@ but does not include:
 
                      (h)  an office or appointment in the Australian Public Service.
 
-                    <a name="assist-anim"></a>**_assistance animal_** has the meaning given by subsection 9(2).
-
                     <a name="associ"></a>**_associate_**, in relation to a person, includes:
 
                      (a)  a spouse of the person; and
@@ -294,11 +292,11 @@ but does not include:
 
                      (e)  another person who is in a business, sporting or recreational relationship with the person.
 
-                    <a name="carer-assist"></a>**_carer or assistant_** has the meaning given by subsection 9(1).
+                    <a name="auxiliari-aid"></a>**_auxiliary aid_** means equipment (other than a palliative or therapeutic device) that provides assistance to a person with a disability to alleviate the effect of the disability.
 
                     <a name="club"></a>**_club_** means an association (whether incorporated or unincorporated) of persons associated together for social, literary, cultural, political, sporting, athletic or other lawful purposes that provides and maintains its facilities, in whole or in part, from the funds of the association.
 
-                    <a name="commiss"></a>**_Commission_** means the Australian Human Rights Commission.
+                    <a name="commiss"></a>**_Commission_** means the Human Rights and Equal Opportunity Commission established by the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="commiss-agent"></a>**_commission agent_** means a person who does work for another person as the agent of that other person and who is remunerated, whether in whole or in part, by commission.
 
@@ -336,15 +334,11 @@ but does not include:
 
                     <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person under a contract between the employer of the first-mentioned person and that other person.
 
-                    <a name="convent"></a>**_Convention_** means the Discrimination (Employment and Occupation) Convention, 1958 adopted by the General Conference of the International Labour Organization on 25 June 1958, a copy of the English text of which is set out in Schedule 1 of the _Australian Human Rights Commission Act 1986_.
+                    <a name="convent"></a>**_Convention_** means the Discrimination (Employment and Occupation) Convention, 1958 adopted by the General Conference of the International Labour Organization on 25 June 1958, a copy of the English text of which is set out in Schedule 1 of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
-                    <a name="coven-civil-polit-right"></a>**_Covenant on Civil and Political Rights_** means the International Covenant on Civil and Political Rights, a copy of the English text of which is set out in Schedule 2 of the _Australian Human Rights Commission Act 1986_.
+                    <a name="coven-civil-polit-right"></a>**_Covenant on Civil and Political Rights_** means the International Covenant on Civil and Political Rights, a copy of the English text of which is set out in Schedule 2 of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="depart"></a>**_Department_** means an Agency within the meaning of the _Public Service Act 1999_.
-
-                    <a name="disabl-convent"></a>**_Disabilities Convention_** means the Convention on the Rights of Persons with Disabilities, done at New York on 30 March 2007, as in force for Australia.
-
-Note:          The text of the Convention is set out in Australian Treaty Series 2008 No. 12 (\[2008] ATS 12). In 2008, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
 
                     <a name="disabl"></a>**_disability_**, in relation to a person, means:
 
@@ -368,19 +362,13 @@ and includes a disability that:
 
                       (i)  previously existed but no longer exists; or
 
-                      (j)  may exist in the future (including because of a genetic predisposition to that disability); or
+                      (j)  may exist in the future; or
 
                      (k)  is imputed to a person.
 
-To avoid doubt, a **_disability_** that is otherwise covered by this definition includes behaviour that is a symptom or manifestation of the disability.
+                    <a name="disabl-discrimin"></a>**_disability discrimination_** has the meaning given by sections 5 to 9 (inclusive).
 
-                    <a name="disabl-aid"></a>**_disability aid_** has the meaning given by subsection 9(3).
-
-                    <a name="disabl-standard"></a>**_disability standards_** has the meaning given by subsection 31(1).
-
-                    <a name="discrimin"></a>**_discriminate_** has the meaning given by sections 5 and 6.
-
-Note:          Section 7 (associates) and section 8 (carers, assistants, assistance animals and disability aids) extend the concept of discrimination.
+                    <a name="discrimin"></a>**_discriminate_** has the meaning given by sections 5 to 9 (inclusive).
 
                     <a name="docum"></a>**_document_** includes any book, register or other record of information, however compiled, recorded or stored.
 
@@ -408,13 +396,15 @@ Note:          Section 7 (associates) and section 8 (carer
 
                     <a name="employ-agenc"></a>**_employment agency_** means any person who, or body that, whether for payment or not, assists persons to find employment or other work or assists employers to find employees or workers, and includes the Commonwealth Employment Service.
 
-                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Australian Human Rights Commission Act 1986_.
+                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="exempt"></a>**_exemption_** means an exemption granted under section 55.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
                     <a name="function"></a>**_function_** includes duty.
+
+                    <a name="institut-tertiari-educ"></a>**_institution of tertiary education_** means a university, technical and further education institution or other institution at which tertiary education or training is provided.
 
                     <a name="instrument-state"></a>**_instrumentality of a State_** means a body or authority established for a public purpose by a law of a State and includes a local government body.
 
@@ -436,7 +426,7 @@ Note:          Section 7 (associates) and section 8 (carer
 
                     <a name="princip-execut"></a>**_principal executive_**, in relation to a Commonwealth agency, has the same meaning as in Part V of the _Privacy Act 1988_.
 
-                    <a name="propos-enact"></a>**_proposed enactment_** has the same meaning as in the _Australian Human Rights Commission Act 1986_.
+                    <a name="propos-enact"></a>**_proposed enactment_** has the same meaning as in the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="public-author-commonwealth"></a>**_public authority of the Commonwealth_** means:
 
@@ -445,8 +435,6 @@ Note:          Section 7 (associates) and section 8 (carer
                      (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or
 
                      (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control.
-
-                    <a name="reason-adjust"></a><a name="reason-adjust"></a>**_reasonable adjustment_**: an adjustment to be made by a person is a **_reasonable adjustment_** unless making the adjustment would impose an unjustifiable hardship on the person.
 
                     <a name="regist-organis"></a>**_registered organisation_** means an organisation registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_.
 
@@ -468,9 +456,13 @@ Note:          Section 7 (associates) and section 8 (carer
 
                     <a name="state"></a>**_State_**, except in subsections 12(11) and (12), includes the Australian Capital Territory and the Northern Territory.
 
+                    <a name="technic-further-educ-institut"></a>**_technical and further education institution_** has the same meaning as that expression has in the _Employment, Education and Training Act 1988_.
+
                     <a name="administr-offic"></a><a name="territori"></a>**_Territory_**, except in subsection 12(12) or in paragraph (c) of the definition of **_administrative office_** in this subsection, does not include the Australian Capital Territory and the Northern Territory.
 
-                    <a name="unjustifi-hardship"></a>**_unjustifiable hardship_** has a meaning affected by section 11.
+                    <a name="act"></a>**_this Act_** includes the regulations.
+
+                    <a name="unjustifi-hardship"></a>**_unjustifiable hardship_** has the meaning given by section 11.
 
                     <a name="voluntari-bodi"></a>**_voluntary body_** means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include:
 
@@ -482,173 +474,79 @@ Note:          Section 7 (associates) and section 8 (carer
 
              (2)  For the purposes of this Act, refusing or failing to do an act is taken to be the doing of an act and a reference to an act includes a reference to a refusal or failure to do an act.
 
-##### <a id="5"></a>5  Direct disability discrimination
+##### <a id="5"></a>5  Disability discrimination
 
-             (1)  For the purposes of this Act, a person (the **_discriminator_**) **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if, because of the disability, the discriminator treats, or proposes to treat, the aggrieved person less favourably than the discriminator would treat a person without the disability in circumstances that are not materially different.
+             (1)  For the purposes of this Act, a person (**_discriminator_**) discriminates against another person (**_aggrieved person_**) on the ground of a disability of the aggrieved person if, because of the aggrieved person’s disability, the discriminator treats or proposes to treat the aggrieved person less favourably than, in circumstances that are the same or are not materially different, the discriminator treats or would treat a person without the disability.
 
-             (2)  For the purposes of this Act, a person (the **_discriminator_**) also **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
-
-                     (a)  the discriminator does not make, or proposes not to make, reasonable adjustments for the person; and
-
-                     (b)  the failure to make the reasonable adjustments has, or would have, the effect that the aggrieved person is, because of the disability, treated less favourably than a person without the disability would be treated in circumstances that are not materially different.
-
-             (3)  For the purposes of this section, circumstances are not **_materially different_** because of the fact that, because of the disability, the aggrieved person requires adjustments.
+             (2)  For the purposes of subsection (1), circumstances in which a person treats or would treat another person with a disability are not materially different because of the fact that different accommodation or services may be required by the person with a disability.
 
 ##### <a id="6"></a>6  Indirect disability discrimination
 
-             (1)  For the purposes of this Act, a person (the **_discriminator_**) **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
+                   For the purposes of this Act, a person (**_discriminator_**) discriminates against another person (**_aggrieved person_**) on the ground of a disability of the aggrieved person if the discriminator requires the aggrieved person to comply with a requirement or condition:
 
-                     (a)  the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and
+                     (a)  with which a substantially higher proportion of persons without the disability comply or are able to comply; and
 
-                     (b)  because of the disability, the aggrieved person does not or would not comply, or is not able or would not be able to comply, with the requirement or condition; and
+                     (b)  which is not reasonable having regard to the circumstances of the case; and
 
-                     (c)  the requirement or condition has, or is likely to have, the effect of disadvantaging persons with the disability.
+                     (c)  with which the aggrieved person does not or is not able to comply.
 
-             (2)  For the purposes of this Act, a person (the **_discriminator_**) also **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
+##### <a id="7"></a>7  Disability discrimination—palliative and therapeutic devices and auxiliary aids
 
-                     (a)  the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and
+                   For the purposes of this Act, a person (**_discriminator_**) discriminates against another person with a disability (**_aggrieved person_**) if the discriminator treats the aggrieved person less favourably because of the fact that the aggrieved person is accompanied by, or possesses:
 
-                     (b)  because of the disability, the aggrieved person would comply, or would be able to comply, with the requirement or condition only if the discriminator made reasonable adjustments for the person, but the discriminator does not do so or proposes not to do so; and
+                     (a)  a palliative or therapeutic device; or
 
-                     (c)  the failure to make reasonable adjustments has, or is likely to have, the effect of disadvantaging persons with the disability.
+                     (b)  an auxiliary aid;
 
-             (3)  Subsection (1) or (2) does not apply if the requirement or condition is reasonable, having regard to the circumstances of the case.
+that is used by the aggrieved person, or because of any matter related to that fact, whether or not it is the discriminator’s practice to treat less favourably any person who is accompanied by, or is in possession of, and is the user of:
 
-             (4)  For the purposes of subsection (3), the burden of proving that the requirement or condition is reasonable, having regard to the circumstances of the case, lies on the person who requires, or proposes to require, the person with the disability to comply with the requirement or condition.
+                     (c)  such a palliative or therapeutic device; or
 
-##### <a id="7"></a>7  Discrimination in relation to associates
+                     (d)  such an auxiliary aid.
 
-             (1)  This Act applies in relation to a person who has an associate with a disability in the same way as it applies in relation to a person with the disability.
+##### <a id="8"></a>8  Disability discrimination—interpreters, readers and assistants
 
-Example:    It is unlawful, under section 15, for an employer to discriminate against an employee on the ground of a disability of any of the employee’s associates.
+                   For the purposes of this Act, a person (**_discriminator_**) discriminates against another person with a disability (**_aggrieved person_**) if the discriminator treats the aggrieved person less favourably because of the fact that the aggrieved person is accompanied by:
 
-             (2)  For the purposes of subsection (1), but without limiting that subsection, this Act has effect in relation to a person who has an associate with a disability as if:
+                     (a)  an interpreter; or
 
-                     (a)  each reference to something being done or needed because of a disability were a reference to the thing being done or needed because of the fact that the person has an associate with the disability; and
+                     (b)  a reader; or
 
-                     (b)  each other reference to a disability were a reference to the disability of the associate.
+                     (c)  an assistant; or
 
-             (3)  This section does not apply to section 53 or 54 (combat duties and peacekeeping services) or subsection 54A(2) or (3) (assistance animals).
+                     (d)  a carer;
 
-Note:          The combined effect of sections 7 and 8 is that this Act applies in relation to a person who has an associate who has a carer, assistant, assistance animal or disability aid in the same way as it applies in relation to a person with a disability.
+who provides interpretive, reading or other services to the aggrieved person because of the disability, or because of any matter related to that fact, whether or not it is the discriminator’s practice to treat less favourably any person who is accompanied by:
 
-##### <a id="8"></a>8  Discrimination in relation to carers, assistants, assistance animals and disability aids
+                     (e)  an interpreter; or
 
-             (1)  This Act applies in relation to having a carer, assistant, assistance animal or disability aid in the same way as it applies in relation to having a disability.
+                      (f)  a reader; or
 
-Example:    For the purposes of section 5 (direct discrimination), circumstances are not materially different because of the fact that a person with a disability requires adjustments for the person’s carer, assistant, assistance animal or disability aid (see subsection 5(3)).
+                     (g)  an assistant; or
 
-             (2)  For the purposes of subsection (1), but without limiting that subsection, this Act has effect in relation to a person with a disability who has a carer, assistant, assistance animal or disability aid as if:
+                     (h)  a carer.
 
-                     (a)  each reference to something being done or needed because of a disability were a reference to the thing being done or needed because of the fact that the person has the carer, assistant, animal or aid; and
+##### <a id="9"></a>9  Disability discrimination—guide dogs, hearing assistance dogs and trained animals
 
-                     (b)  each other reference to a disability were a reference to the carer, assistant, animal or aid.
+             (1)  For the purposes of this Act, a person (**_discriminator_**) discriminates against a person with:
 
-             (3)  This section does not apply to section 48 (infectious diseases) or section 54A (exemptions in relation to assistance animals).
+                     (a)  a visual disability; or
 
-Note:          The combined effect of sections 7 and 8 is that this Act applies in relation to a person who has an associate who has a carer, assistant, assistance animal or disability aid in the same way as it applies in relation to a person with a disability.
+                     (b)  a hearing disability; or
 
-##### <a id="9"></a>9  Carer, assistant, assistance animal and disability aid definitions
+                     (c)  any other disability;
 
-Meanings of **carer or assistant**, **assistance animal** and **disability aid**
+(**_aggrieved person_**) if the discriminator treats the aggrieved person less favourably because of the fact that the aggrieved person possesses, or is accompanied by:
 
-             (1)  For the purposes of this Act, a **_carer or assistant_**, in relation to a person with a disability, is one of the following who provides assistance or services to the person because of the disability:
+                     (d)  a guide dog; or
 
-                     (a)  a carer;
+                     (e)  a dog trained to assist the aggrieved person in activities where hearing is required, or because of any matter related to that fact; or
 
-                     (b)  an assistant;
+                      (f)  any other animal trained to assist the aggrieved person to alleviate the effect of the disability, or because of any matter related to that fact;
 
-                     (c)  an interpreter;
+whether or not it is the discriminator’s practice to treat less favourably any person who possesses, or is accompanied by, a dog or any other animal.
 
-                     (d)  a reader.
-
-             (2)  For the purposes of this Act, an **_assistance animal_** is a dog or other animal:
-
-                     (a)  accredited under a law of a State or Territory that provides for the accreditation of animals trained to assist a persons with a disability to alleviate the effect of the disability; or
-
-                     (b)  accredited by an animal training organisation prescribed by the regulations for the purposes of this paragraph; or
-
-                     (c)  trained:
-
-                              (i)  to assist a person with a disability to alleviate the effect of the disability; and
-
-                             (ii)  to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
-
-Note:          For exemptions from Part 2 for discrimination in relation to assistance animals, see section 54A.
-
-             (3)  For the purposes of this Act, a **_disability aid_**, in relation to a person with a disability, is equipment (including a palliative or therapeutic device) that:
-
-                     (a)  is used by the person; and
-
-                     (b)  provides assistance to alleviate the effect of the disability.
-
-Having a carer, assistant, assistance animal or disability aid
-
-             (4)  The following table has effect:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="30%">
-  <col width="59%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Having a carer, assistant, assistance animal or disability aid</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>For the purposes of this Act, a person with a disability
-          <i>has</i>…</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>if the person …</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>a carer or assistant</div>
-  </td>
-  <td>
-    <div>(a) is presently accompanied by the carer or assistant; or</div>
-    <div>(b) was previously accompanied by the carer or assistant; or</div>
-    <div>(c) may be accompanied by the carer or assistant in the future; or</div>
-    <div>(d) is imputed to be accompanied by the carer or assistant.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>an assistance animal or disability aid</div>
-  </td>
-  <td>
-    <div>(a) is presently accompanied by, or possesses, the animal or aid; or</div>
-    <div>(b) was previously accompanied by, or possessed, the animal or aid; or</div>
-    <div>(c) may be accompanied by, or possess, the animal or aid in the future;
-      or</div>
-    <div>(d) is imputed to be accompanied by, or to possess, the animal or aid.</div>
-  </td>
-</tr></table>
+             (2)  Subsection (1) does not affect the liability of a person with a disability for damage to property caused by a dog or other animal trained to assist the person to alleviate the effect of the disability or because of any matter related to that fact.
 
 ##### <a id="10"></a>10  Act done because of disability and for other reason
 
@@ -662,21 +560,15 @@ then, for the purposes of this Act, the act is taken to be done for that reason.
 
 ##### <a id="11"></a>11  Unjustifiable hardship
 
-             (1)  For the purposes of this Act, in determining whether a hardship that would be imposed on a person (the **_first person_**) would be an **_unjustifiable hardship_**, all relevant circumstances of the particular case must be taken into account, including the following:
+                   For the purposes of this Act, in determining what constitutes unjustifiable hardship, all relevant circumstances of the particular case are to be taken into account including:
 
-                     (a)  the nature of the benefit or detriment likely to accrue to, or to be suffered by, any person concerned;
+                     (a)  the nature of the benefit or detriment likely to accrue or be suffered by any persons concerned; and
 
-                     (b)  the effect of the disability of any person concerned;
+                     (b)  the effect of the disability of a person concerned; and
 
-                     (c)  the financial circumstances, and the estimated amount of expenditure required to be made, by the first person;
+                     (c)  the financial circumstances and the estimated amount of expenditure required to be made by the person claiming unjustifiable hardship; and
 
-                     (d)  the availability of financial and other assistance to the first person;
-
-                     (e)  any relevant action plans given to the Commission under section 64.
-
-Example:    One of the circumstances covered by paragraph (1)(a) is the nature of the benefit or detriment likely to accrue to, or to be suffered by, the community.
-
-             (2)  For the purposes of this Act, the burden of proving that something would impose unjustifiable hardship lies on the person claiming unjustifiable hardship.
+                     (d)  in the case of the provision of services, or the making available of facilities—an action plan given to the Commission under section 64.
 
 ##### <a id="12"></a>12  Application of Act
 
@@ -684,7 +576,7 @@ Example:    One of the circumstances covered by paragraph (1)(a) is the 
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
-                    <a name="limit-applic-provision"></a>**_limited application provisions_** means the provisions of Divisions 1, 2, 2A and 3 of Part 2 other than sections 20, 29 and 30.
+                    <a name="limit-applic-provision"></a>**_limited application provisions_** means the provisions of Divisions 1, 2 and 3 of Part 2 other than sections 20, 29 and 30.
 
              (2)  Subject to this section, this Act applies throughout Australia.
 
@@ -713,8 +605,6 @@ in the exercise of a power conferred by a law of the Commonwealth or a law of a 
                      (a)  give effect to the Convention; or
 
                      (b)  give effect to the Covenant on Civil and Political Rights; or
-
-                    (ba)  give effect to the Disabilities Convention; or
 
                      (c)  give effect to the International Covenant on Economic, Social and Cultural Rights; or
 
@@ -760,19 +650,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that is capable of operating concurrently with this Act.
 
-          (3A)  Subsection (3) does not apply in relation to Division 2A of Part 2 (Disability standards).
-
              (4)  If:
 
-                     (a)  a law of a State or Territory relating to discrimination deals with a matter dealt with by this Act (including a matter dealt with by a disability standard); and
+                     (a)  a law of a State or Territory relating to discrimination deals with a matter dealt with by this Act; and
 
-                     (b)  a person has made a complaint or initiated a proceeding under that law in respect of an act or omission in respect of which the person would, apart from this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part 2 of this Act;
+                     (b)  a person has made a complaint or initiated a proceeding under that law in respect of an act or omission in respect of which the person would, apart from this subsection, have been entitled to make a complaint under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part 2 of this Act;
 
-the person is not entitled to make a complaint or institute a proceeding under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part 2 of this Act.
+the person is not entitled to make a complaint or institute a proceeding under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part 2 of this Act.
 
              (5)  If:
 
-                     (a)  a law of a State or Territory deals with a matter dealt with by this Act (including a matter dealt with by a disability standard); and
+                     (a)  a law of a State or Territory deals with a matter dealt with by this Act; and
 
                      (b)  an act or omission by a person that constitutes an offence against that law also constitutes an offence against this Act;
 
@@ -790,7 +678,7 @@ the person may be prosecuted and convicted either under that law of the State or
 
 ##### <a id="15"></a>15  Discrimination in employment
 
-             (1)  It is unlawful for an employer or a person acting or purporting to act on behalf of an employer to discriminate against a person on the ground of the other person’s disability:
+             (1)  It is unlawful for an employer or a person acting or purporting to act on behalf of an employer to discriminate against a person on the ground of the other person’s disability or a disability of any of that other person’s associates:
 
                      (a)  in the arrangements made for the purpose of determining who should be offered employment; or
 
@@ -798,7 +686,7 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (c)  in the terms or conditions on which employment is offered.
 
-             (2)  It is unlawful for an employer or a person acting or purporting to act on behalf of an employer to discriminate against an employee on the ground of the employee’s disability:
+             (2)  It is unlawful for an employer or a person acting or purporting to act on behalf of an employer to discriminate against an employee on the ground of the employee’s disability or a disability of any of that employee’s associates:
 
                      (a)  in the terms or conditions of employment that the employer affords the employee; or
 
@@ -810,9 +698,15 @@ the person may be prosecuted and convicted either under that law of the State or
 
              (3)  Neither paragraph (1)(a) nor (b) renders it unlawful for a person to discriminate against another person, on the ground of the other person’s disability, in connection with employment to perform domestic duties on the premises on which the first-mentioned person resides.
 
+             (4)  Neither paragraph (1)(b) nor (2)(c) renders unlawful discrimination by an employer against a person on the ground of the person’s disability, if taking into account the person’s past training, qualifications and experience relevant to the particular employment and, if the person is already employed by the employer, the person’s performance as an employee, and all other relevant factors that it is reasonable to take into account, the person because of his or her disability:
+
+                     (a)  would be unable to carry out the inherent requirements of the particular employment; or
+
+                     (b)  would, in order to carry out those requirements, require services or facilities that are not required by persons without the disability and the provision of which would impose an unjustifiable hardship on the employer.
+
 ##### <a id="16"></a>16  Discrimination against commission agents
 
-             (1)  It is unlawful for a principal to discriminate against a person on the ground of the person’s disability:
+             (1)  It is unlawful for a principal to discriminate against a person on the ground of the person’s disability or a disability of any of that person’s associates:
 
                      (a)  in the arrangements the principal makes for the purpose of determining who should be engaged as a commission agent; or
 
@@ -820,7 +714,7 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (c)  in the terms or conditions on which the person is engaged as a commission agent.
 
-             (2)  It is unlawful for a principal to discriminate against a commission agent on the ground of the commission agent’s disability:
+             (2)  It is unlawful for a principal to discriminate against a commission agent on the ground of the commission agent’s disability or a disability of any of the person’s associates:
 
                      (a)  in the terms or conditions that the principal affords the commission agent as a commission agent; or
 
@@ -830,9 +724,15 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (d)  by subjecting the commission agent to any other detriment.
 
+             (3)  Neither paragraph (1)(b) nor (2)(c) renders unlawful discrimination by a principal against a person on the ground of the person’s disability, if taking into account the person’s past training, qualifications and experience relevant to engagement as a commission agent and, if the person is already engaged by the principal as a commission agent, the person’s performance as a commission agent, and all other relevant factors that it is reasonable to take into account, the person because of his or her disability:
+
+                     (a)  would be unable to carry out the inherent requirements of a commission agent; or
+
+                     (b)  would, in order to carry out those requirements, require services or facilities that are not required by persons without the disability and the provision of which would impose an unjustifiable hardship on the principal.
+
 ##### <a id="17"></a>17  Discrimination against contract workers
 
-                   It is unlawful for a principal to discriminate against a contract worker on the ground of the contract worker’s disability:
+             (1)  It is unlawful for a principal to discriminate against a contract worker on the ground of the contract worker’s disability or a disability of any of the contract worker’s associates:
 
                      (a)  in the terms or conditions on which the principal allows the contract worker to work; or
 
@@ -842,21 +742,27 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (d)  by subjecting the contract worker to any other detriment.
 
+             (2)  Paragraph (1)(b) does not render it unlawful for a principal to discriminate against a contract worker on the ground of the contract worker’s disability, if taking into account the contract worker’s past training, qualifications and experience relevant to working as a contract worker and, if the person is already working for the principal as a contract worker, the contract worker’s performance as a contract worker, and all other relevant factors that it is reasonable to take into account, the person because of the contract worker’s disability:
+
+                     (a)  would be unable to carry out the inherent requirements of a contract worker; or
+
+                     (b)  would, in order to carry out those requirements, require services or facilities that are not required by persons without the disability and the provision of which would impose an unjustifiable hardship on the principal.
+
 ##### <a id="18"></a>18  Partnerships
 
-             (1)  It is unlawful for 3 or more persons who are proposing to form themselves into a partnership to discriminate against another person on the ground of the other person’s disability:
+             (1)  It is unlawful for 3 or more persons who are proposing to form themselves into a partnership to discriminate against another person on the ground of the other person’s disability or a disability of any of the other person’s associates:
 
                      (a)  in determining who should be invited to become a partner in the partnership; or
 
                      (b)  in the terms or conditions on which the other person is invited to become a partner in the partnership.
 
-             (2)  It is unlawful for any one or more of the partners in a partnership consisting of 3 or more partners to discriminate against another person on the ground of the other person’s disability:
+             (2)  It is unlawful for any one or more of the partners in a partnership consisting of 3 or more partners to discriminate against another person on the ground of the other person’s disability or a disability of any of the other person’s associates:
 
                      (a)  in determining who should be invited to become a partner in the partnership; or
 
                      (b)  in the terms or conditions on which the other person is invited to become a partner in the partnership.
 
-             (3)  It is unlawful for any one or more of the partners in a partnership consisting of 3 or more partners to discriminate against another partner in the partnership on the ground of the other partner’s disability:
+             (3)  It is unlawful for any one or more of the partners in a partnership consisting of 3 or more partners to discriminate against another partner in the partnership on the ground of the other partner’s disability or a disability of any of the other person’s associates:
 
                      (a)  by denying the other partner access, or limiting the other partner’s access, to any benefit arising from being a partner in the partnership; or
 
@@ -864,9 +770,15 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (c)  by subjecting the partner to any other detriment.
 
+             (4)  Neither paragraph (1)(a), (2)(a) nor (3)(b) renders unlawful discrimination by a person against another person on the ground of the other person’s disability, if taking into account the other person’s past training, qualifications and experience relevant to the proposed partnership or the partnership and, if the other person is already a partner, the other person’s performance as a partner, and all other relevant factors that it is reasonable to take into account, the person because of the other person’s disability:
+
+                     (a)  would be unable to carry out the inherent requirements of a partner in the proposed partnership or the partnership; or
+
+                     (b)  would, in order to carry out those requirements, require services or facilities that are not required by partners without the disability and the provision of which would impose an unjustifiable hardship on the partnership.
+
 ##### <a id="19"></a>19  Qualifying bodies
 
-                   It is unlawful for an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation to discriminate against a person on the ground of the person’s disability:
+             (1)  It is unlawful for an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation to discriminate against a person on the ground of the person’s disability or a disability of any of the person’s associates:
 
                      (a)  by refusing or failing to confer, renew or extend the authorisation or qualification; or
 
@@ -874,15 +786,17 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (c)  by revoking or withdrawing the authorisation or qualification or varying the terms or the conditions upon which it is held.
 
+             (2)  This section does not render it unlawful for an authority or body to discriminate against a person on the ground of the person’s disability, if taking into account the person’s past training, qualifications and experience relevant to the particular profession, trade or occupation and, if the person is already a member of the profession, carrying on the trade or engaged in the occupation, the person’s performance in the profession, trade or occupation, and all other relevant factors that it is reasonable to take into account, the person because of his or her disability, would be unable to carry out the inherent requirements of the profession, trade or occupation.
+
 ##### <a id="20"></a>20  Registered organisations under the _Fair Work (Registered Organisations) Act 2009_
 
-             (1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person’s disability:
+             (1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person’s disability or a disability of any of the person’s associates:
 
                      (a)  by refusing or failing to accept the person’s application for membership; or
 
                      (b)  in the terms or conditions on which the organisation is prepared to admit the person to membership.
 
-             (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member’s disability:
+             (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member’s disability or a disability of any of the member’s associates:
 
                      (a)  by denying the member access or limiting the member’s access, to any benefit provided by the organisation; or
 
@@ -892,7 +806,7 @@ the person may be prosecuted and convicted either under that law of the State or
 
 ##### <a id="21"></a>21  Employment agencies
 
-             (1)  It is unlawful for an employment agency to discriminate against a person on the ground of the person’s disability:
+             (1)  It is unlawful for an employment agency to discriminate against a person on the ground of the person’s disability or a disability of any of the person’s associates:
 
                      (a)  by refusing to provide the person with any of its services; or
 
@@ -900,67 +814,19 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (c)  in the manner in which it provides the person with any of its services.
 
-             (2)  This Part does not require an employment agency to ensure that an employer complies with this Act.
-
-             (3)  Subsection (2) does not affect the operation of section 122 (which applies if an employment agency causes, instructs, induces, aids or permits an employer to do an unlawful act).
-
-##### <a id="21A"></a>21A  Exception—inherent requirements
-
-Inherent requirements
-
-             (1)  This Division does not render it unlawful for a person (the **_discriminator_**) to discriminate against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
-
-                     (a)  the discrimination relates to particular work (including promotion or transfer to particular work); and
-
-                     (b)  because of the disability, the aggrieved person would be unable to carry out the inherent requirements of the particular work, even if the relevant employer, principal or partnership made reasonable adjustments for the aggrieved person.
-
-             (2)  For the purposes of paragraph (1)(b), the following factors are to be taken into account in determining whether the aggrieved person would be able to carry out the inherent requirements of the particular work:
-
-                     (a)  the aggrieved person’s past training, qualifications and experience relevant to the particular work;
-
-                     (b)  if the aggrieved person already works for the discriminator—the aggrieved person’s performance in working for the discriminator;
-
-                     (c)  any other factor that it is reasonable to take into account.
-
-             (3)  For the purposes of this section, the aggrieved person **_works_** for another person if:
-
-                     (a)  the other person employs the aggrieved person; or
-
-                     (b)  the other person engages the aggrieved person as a commission agent; or
-
-                     (c)  the aggrieved person works for the other person as a contract worker; or
-
-                     (d)  the other person and the aggrieved person are members of a partnership; or
-
-                     (e)  both of the following apply:
-
-                              (i)  the other person is an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation;
-
-                             (ii)  the aggrieved person is a member of that profession, carrying on that trade or engaged in that occupation.
-
-Opportunities for promotion, transfer and training and registered organisations
-
-             (4)  This section does not apply in relation to:
-
-                     (a)  discrimination referred to in paragraph 15(2)(b) or (d), 16(2)(b) or (d), 17(1)(c) or (d) or 18(3)(c), other than discrimination in determining who should be offered promotion or transfer; or
-
-                     (b)  discrimination referred to in section 20 (registered organisations under the _Fair Work (Registered Organisations) Act 2009_).
-
-##### <a id="21B"></a>21B  Exception—unjustifiable hardship
-
-                   This Division does not render it unlawful for a person (the **_discriminator_**) to discriminate against another person on the ground of a disability of the other person if avoiding the discrimination would impose an unjustifiable hardship on the discriminator.
+             (2)  This section does not render it unlawful for an employment agency to discriminate against a person on the ground of the person’s disability, if taking into account the person’s past training, qualifications and experience relevant to the work sought, and all other relevant factors that it is reasonable to take into account, the person because of his or her disability, would be unable to carry out the inherent requirements of the work sought.
 
 ### Division 2—Discrimination in other areas
 
 ##### <a id="22"></a>22  Education
 
-             (1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person’s disability:
+             (1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person’s disability or a disability of any of the other person’s associates:
 
                      (a)  by refusing or failing to accept the person’s application for admission as a student; or
 
                      (b)  in the terms or conditions on which it is prepared to admit the person as a student.
 
-             (2)  It is unlawful for an educational authority to discriminate against a student on the ground of the student’s disability:
+             (2)  It is unlawful for an educational authority to discriminate against a student on the ground of the student’s disability or a disability of any of the student’s associates:
 
                      (a)  by denying the student access, or limiting the student’s access, to any benefit provided by the educational authority; or
 
@@ -968,7 +834,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (c)  by subjecting the student to any other detriment.
 
-          (2A)  It is unlawful for an education provider to discriminate against a person on the ground of the person’s disability:
+          (2A)  It is unlawful for an education provider to discriminate against a person on the ground of the person’s disability or a disability of any of the person’s associates:
 
                      (a)  by developing curricula or training courses having a content that will either exclude the person from participation, or subject the person to any other detriment; or
 
@@ -976,9 +842,11 @@ Opportunities for promotion, transfer and training and registered organisations
 
              (3)  This section does not render it unlawful to discriminate against a person on the ground of the person’s disability in respect of admission to an educational institution established wholly or primarily for students who have a particular disability where the person does not have that particular disability.
 
+             (4)  This section does not make it unlawful for an education provider to discriminate against a person or student as described in subsection (1), (2) or (2A) on the ground of the disability of the person or student or a disability of any associate of the person or student if avoidance of that discrimination would impose an unjustifiable hardship on the education provider concerned.
+
 ##### <a id="23"></a>23  Access to premises
 
-                   It is unlawful for a person to discriminate against another person on the ground of the other person’s disability:
+             (1)  It is unlawful for a person to discriminate against another person on the ground of the other person’s disability or a disability of any of that other person’s associates:
 
                      (a)  by refusing to allow the other person access to, or the use of, any premises that the public or a section of the public is entitled or allowed to enter or use (whether for payment or not); or
 
@@ -992,9 +860,15 @@ Opportunities for promotion, transfer and training and registered organisations
 
                       (f)  by requiring the other person to leave such premises or cease to use such facilities.
 
+             (2)  This section does not render it unlawful to discriminate against a person on the ground of the person’s disability in relation to the provision of access to premises if:
+
+                     (a)  the premises are so designed or constructed as to be inaccessible to a person with a disability; and
+
+                     (b)  any alteration to the premises to provide such access would impose unjustifiable hardship on the person who would have to provide that access.
+
 ##### <a id="24"></a>24  Goods, services and facilities
 
-                   It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person’s disability:
+             (1)  It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person’s disability or a disability of any of that other person’s associates:
 
                      (a)  by refusing to provide the other person with those goods or services or to make those facilities available to the other person; or
 
@@ -1002,9 +876,11 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (c)  in the manner in which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
 
+             (2)  This section does not render it unlawful to discriminate against a person on the ground of the person’s disability if the provision of the goods or services, or making facilities available, would impose unjustifiable hardship on the person who provides the goods or services or makes the facilities available.
+
 ##### <a id="25"></a>25  Accommodation
 
-             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability:
+             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability or a disability of any of that other person’s associates:
 
                      (a)  by refusing the other person’s application for accommodation; or
 
@@ -1012,7 +888,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (c)  by deferring the other person’s application for accommodation or according to the other person a lower order of precedence in any list of applicants for that accommodation.
 
-             (2)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability:
+             (2)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability or a disability of any of the other person’s associates:
 
                      (a)  by denying the other person access, or limiting the other person’s access, to any benefit associated with accommodation occupied by the other person; or
 
@@ -1040,15 +916,13 @@ Opportunities for promotion, transfer and training and registered organisations
 
                              (ii)  the accommodation provided in those premises is for no more than 3 persons other than a person referred to in subparagraph (a)(i) or near relatives of such a person; or
 
-                     (b)  the provision of accommodation if:
+                     (b)  the accommodation is provided by a charitable or other voluntary body solely for persons who have a particular disability and the person discriminated against does not have that particular disability; or
 
-                              (i)  the accommodation is provided by a charitable or other voluntary body solely for persons who have a particular disability; and
-
-                             (ii)  the person discriminated against does not have that particular disability.
+                     (c)  the provision of accommodation in premises where special services or facilities would be required by the person with a disability and the provision of such special services or facilities would impose unjustifiable hardship on the person providing or proposing to provide the accommodation whether as principal or agent.
 
 ##### <a id="26"></a>26  Land
 
-             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability:
+             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability or a disability of any of that person’s associates:
 
                      (a)  by refusing or failing to dispose of an estate or interest in land to the other person; or
 
@@ -1058,13 +932,13 @@ Opportunities for promotion, transfer and training and registered organisations
 
 ##### <a id="27"></a>27  Clubs and incorporated associations
 
-             (1)  It is unlawful for a club or incorporated association, the committee of management of a club or a member of the committee of management of a club or incorporated association to discriminate against a person who is not a member of the club or association on the ground of the person’s disability:
+             (1)  It is unlawful for a club or incorporated association, the committee of management of a club or a member of the committee of management of a club or incorporated association to discriminate against a person who is not a member of the club or association on the ground of the person’s disability or a disability of any of that person’s associates:
 
                      (a)  by refusing or failing to accept the person’s application for membership; or
 
                      (b)  in the terms or conditions on which the club or association is prepared to admit the person to membership.
 
-             (2)  It is unlawful for a club or incorporated association, the committee of management of a club or a member of the committee of management of a club or incorporated association to discriminate against a person who is a member of the club or association on the ground of the member’s disability:
+             (2)  It is unlawful for a club or incorporated association, the committee of management of a club or a member of the committee of management of a club or incorporated association to discriminate against a person who is a member of the club or association on the ground of the member’s disability or a disability of any of the member’s associates:
 
                      (a)  in the terms or conditions of membership that are afforded to the member; or
 
@@ -1076,11 +950,13 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (e)  by subjecting the member to any other detriment.
 
+             (3)  Paragraph (2)(c) does not render unlawful discrimination where, because of the person’s disability, the person requires the benefit to be provided in a special manner and the benefit cannot without unjustifiable hardship be so provided by the club or incorporated association.
+
              (4)  Neither subsection (1) nor (2) renders it unlawful to discriminate against a person on the ground of the person’s disability if membership (however described) of the club or incorporated association is restricted only to persons who have a particular disability and the first-mentioned person does not have that disability.
 
 ##### <a id="28"></a>28  Sport
 
-             (1)  It is unlawful for a person to discriminate against another person on the ground of the other person’s disability by excluding that other person from a sporting activity.
+             (1)  It is unlawful for a person to discriminate against another person on the ground of the other person’s disability or a disability of any of the other person’s associates by excluding that other person from a sporting activity.
 
              (2)  In subsection (1), a reference to a sporting activity includes a reference to an administrative or coaching activity in relation to any sport.
 
@@ -1094,61 +970,63 @@ Opportunities for promotion, transfer and training and registered organisations
 
 ##### <a id="29"></a>29  Administration of Commonwealth laws and programs
 
-                   It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person on the ground of the other person’s disability in the performance of that function, the exercise of that power or the fulfilment of that responsibility.
-
-##### <a id="29A"></a>29A  Unjustifiable hardship
-
-                   This Division (other than section 30) does not render it unlawful for a person (the **_discriminator_**) to discriminate against another person on the ground of a disability of the other person if avoiding the discrimination would impose an unjustifiable hardship on the discriminator.
+                   It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person on the ground of the other person’s disability, or a disability of any of the other person’s associates in the performance of that function, the exercise of that power or the fulfilment of that responsibility.
 
 ##### <a id="30"></a>30  Requests for information
 
-             (1)  This section applies in relation to a person (the **_first person_**) if, under Division 1 or this Division, it would be unlawful for the first person, in doing a particular act, to discriminate against another person on the ground of a disability of the other person.
-
-             (2)  It is unlawful for the first person to request or require the other person to provide information (whether by completing a form or otherwise) if:
-
-                     (a)  the first person requests or requires the information in connection with, or for the purposes of, doing the act referred to in subsection (1); and
-
-                     (b)  either or both of the following applies:
-
-                              (i)  persons who do not have the disability would not be requested or required to provide the information in circumstances that are not materially different;
-
-                             (ii)  the information relates to the disability.
-
-             (3)  Subsection (2) does not apply if:
-
-                     (a)  evidence is produced to the effect that none of the purposes for which the first person requested or required the information was the purpose of unlawfully discriminating against the other person on the ground of the disability; and
-
-                     (b)  the evidence is not rebutted.
-
-Example:    An employer may not require a prospective employee to provide genetic information if the employer intends to use that information to unlawfully discriminate against the employee on the ground of a disability of the employee.
-
-                   However, the employer may require such information in order to determine if the prospective employee would be able to carry out the inherent requirements of the employment or to determine what reasonable adjustments to make for the employee.
-
-             (4)  This section has effect subject to subsection 54A(5) (evidence that an animal is an assistance animal).
-
-### Division 2A—Disability standards
+                   If, because of another provision of this Part (other than section 32), it would be unlawful, in particular circumstances, for a person to discriminate against another person on the ground of the other person’s disability, in doing a particular act, it is unlawful for the first-mentioned person to request or require the other person to provide, in connection with or for the purposes of the doing of the act, information (whether by completing a form or otherwise) that persons who do not have a disability would not, in circumstances that are the same or are not materially different, be requested or required to provide.
 
 ##### <a id="31"></a>31  Disability standards
 
-             (1)  The Minister may, by legislative instrument, formulate standards, to be known as **_disability standards_**, in relation to any area in which it is unlawful under this Part for a person to discriminate against another person on the ground of a disability of the other person.
+             (1)  The Minister may formulate standards, to be known as disability standards, in relation to:
 
-             (2)  Without limiting subsection (1), a disability standard may:
+                     (a)  the employment of persons with a disability; and
 
-                     (a)  deal with the following:
+                     (b)  the education of persons with a disability; and
 
-                              (i)  reasonable adjustments;
+                     (c)  the accommodation of persons with a disability; and
 
-                             (ii)  strategies and programs to prevent harassment or victimisation of persons with a disability;
+                     (d)  the provision of public transportation services and facilities by:
 
-                            (iii)  unjustifiable hardship;
+                              (i)  the Commonwealth; and
 
-                            (iv)  exemptions from the disability standard, including the power (if any) of the Commission to grant such exemptions; or
+                             (ii)  a State; and
 
-                     (b)  provide that the disability standard, in whole or in part, is or is not intended to affect the operation of a law of a State or Territory.
+                            (iii)  a Territory; and
 
-             (3)  Before making a disability standard, the Minister must take into consideration any comments made to the Minister by a Minister of a State or Territory who is responsible for matters relating to disability discrimination.
+                            (iv)  a public authority of the Commonwealth; and
 
-             (4)  A legislative instrument made under this section does not take effect before the end of the period in which it could be disallowed in either House of the Parliament.
+                             (v)  an instrumentality of a State; and
+
+                            (vi)  a public authority of a Territory; and
+
+                           (vii)  any other person;
+
+                            to a person with a disability; and
+
+                     (e)  the administration of Commonwealth laws and programs in respect of persons with a disability; and
+
+                      (f)  the access to or the use of any premises, by persons with a disability, that the public or a section of the public is entitled or allowed to enter or use (whether for payment or not).
+
+          (1A)  For the avoidance of doubt, disability standards may require a person or body dealing with persons with disabilities to put in place reasonable adjustments to eliminate, as far as possible, discrimination against those persons.
+
+          (1B)  Disability standards in relation to the education of persons with disabilities may require education providers to develop strategies and programs that prevent harassment or victimisation of persons with disabilities, in relation to those disabilities.
+
+          (1C)  For the avoidance of doubt, unjustifiable hardship does not excuse an education provider from complying with a requirement made by disability standards under subsection (1B). This does not affect (by implication) the operation of section 32 in relation to other contraventions of disability standards.
+
+             (2)  Disability standards formulated in accordance with this section are to be laid before each House of the Parliament within 15 sitting days of that House after the disability standards are formulated and take effect only as provided by the following provisions of this section.
+
+             (3)  If:
+
+                     (a)  notice of a motion to amend the disability standards is given in either House of the Parliament within 15 sitting days after the disability standards have been laid before that House; and
+
+                     (b)  the disability standards, whether or not as amended, are subsequently approved by that House; and
+
+                     (c)  the other House approves the disability standards in the form approved by the first-mentioned House;
+
+the disability standards take effect in the form so approved from the day on which that other House approves the disability standards in that form.
+
+             (4)  If no notice of a motion to amend the disability standards is given in the House of Representatives or the Senate within 15 sitting days of the particular House after the disability standards have been laid before that House, the disability standards take effect from the day immediately after that 15th sitting day or, where that day differs in respect of each House, the later of those days.
 
 ##### <a id="32"></a>32  Unlawful to contravene disability standards
 
@@ -1160,7 +1038,7 @@ Example:    An employer may not require a prospective employee to provide 
 
 ##### <a id="34"></a>34  This Part not to apply if person acts in accordance with disability standards
 
-                   If a person acts in accordance with a disability standard this Part (other than this Division) does not apply to the person’s act.
+                   If a person acts in accordance with a disability standard this Part does not apply to the person’s act.
 
 ### Division 3—Discrimination involving harassment
 
@@ -1214,6 +1092,56 @@ in relation to the disability.
 
 in relation to the disability.
 
+##### <a id="36"></a>36  Harassment in employment—associates with disabilities
+
+             (1)  It is unlawful for a person to harass another person who:
+
+                     (a)  is an employee of that person; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
+             (2)  It is unlawful for a person to harass another person who:
+
+                     (a)  is an employee of a person by whom the first-mentioned person is employed; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
+             (3)  It is unlawful for a person to harass another person:
+
+                     (a)  who is seeking employment by the first-mentioned person or by an employer of the first-mentioned person; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
+             (4)  It is unlawful for a person to harass another person who:
+
+                     (a)  is a commission agent or contract worker of that person; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
+             (5)  It is unlawful for a person to harass another person who:
+
+                     (a)  is a commission agent or contract worker of a person of whom the first-mentioned person is a commission agent or contract worker; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
+             (6)  It is unlawful for a person to harass another person who:
+
+                     (a)  is seeking to become a commission agent or contract worker of the first-mentioned person or of a person of whom the first-mentioned person is a commission agent or contract worker; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
 ##### <a id="37"></a>37  Harassment in education
 
                    It is unlawful for a person who is a member of the staff of an educational institution to harass another person who:
@@ -1224,6 +1152,16 @@ in relation to the disability.
 
 in relation to the disability.
 
+##### <a id="38"></a>38  Harassment in education—associates with disabilities
+
+                   It is unlawful for a person who is a member of the staff of an educational institution to harass another person who:
+
+                     (a)  is a student at that educational institution or is seeking admission to that educational institution as a student; and
+
+                     (b)  has an associate with a disability;
+
+in relation to the disability.
+
 ##### <a id="39"></a>39  Harassment in relation to the provision of goods and services
 
                    It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to harass another person who:
@@ -1231,6 +1169,16 @@ in relation to the disability.
                      (a)  wants to acquire the goods or services or to make use of the facilities; and
 
                      (b)  has a disability;
+
+in relation to the disability.
+
+##### <a id="40"></a>40  Harassment in relation to the provision of goods and services—associates with disabilities
+
+                   It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to harass another person who:
+
+                     (a)  wants to acquire the goods or services or to make use of the facilities; and
+
+                     (b)  has an associate with a disability;
 
 in relation to the disability.
 
@@ -1248,17 +1196,17 @@ in relation to the disability.
 
              (2)  For the purposes of subsection (1), a person is taken to commit an act of victimisation against another person if the first-mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person:
 
-                     (a)  has made, or proposes to make, a complaint under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (a)  has made, or proposes to make, a complaint under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
-                     (b)  has brought, or proposes to bring, proceedings under this Act or the _Australian Human Rights Commission Act 1986_ against any person; or
+                     (b)  has brought, or proposes to bring, proceedings under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_ against any person; or
 
-                     (c)  has given, or proposes to give, any information, or has produced, or proposes to produce, any documents to a person exercising or performing any power or function under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (c)  has given, or proposes to give, any information, or has produced, or proposes to produce, any documents to a person exercising or performing any power or function under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
-                     (d)  has attended, or proposes to attend, a conference held under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (d)  has attended, or proposes to attend, a conference held under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
-                     (e)  has appeared, or proposes to appear, as a witness in a proceeding under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (e)  has appeared, or proposes to appear, as a witness in a proceeding under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
-                      (f)  has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the _Australian Human Rights Commission Act 1986_; or
+                      (f)  has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
                      (g)  has made an allegation that a person has done an act that is unlawful by reason of a provision of this Part;
 
@@ -1268,7 +1216,7 @@ or on the ground that the first-mentioned person believes that the other person 
 
                    It is an offence for a person:
 
-                     (a)  to incite the doing of an act that is unlawful under a provision of Division 1, 2, 2A or 3; or
+                     (a)  to incite the doing of an act that is unlawful under a provision of Divisions 1, 2 or 3; or
 
                      (c)  to assist or promote whether by financial assistance or otherwise the doing of such an act.
 
@@ -1276,9 +1224,9 @@ or on the ground that the first-mentioned person believes that the other person 
 
 ##### <a id="44"></a>44  Advertisements
 
-             (1)  It is an offence for a person to publish or display, or cause or permit to be published or displayed, an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention by that person to do an act that is unlawful under a provision of Division 1, 2, 2A or 3.
+             (1)  It is an offence for a person to publish or display, or cause or permit to be published or displayed, an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention by that person to do an act that is unlawful under a provision of Division 1, 2 or 3.
 
-                    Penalty:  10 penalty units.
+                    Penalty:  $1,000.
 
              (2)  For the purposes of subsection (1),**_advertisement_** includes every form of advertisement or notice, whether to the public or not, and whether in a newspaper or other publication, by television or radio, by display of notices, signs, labels, show cards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films or in any other way, and the reference in that subsection to publish or display, in relation to an advertisement, is to be construed accordingly.
 
@@ -1286,13 +1234,13 @@ or on the ground that the first-mentioned person believes that the other person 
 
 ##### <a id="45"></a>45  Special measures
 
-             (1)  This Part does not render it unlawful to do an act that is reasonably intended to:
+                   This Part does not render it unlawful to do an act that is reasonably intended to:
 
                      (a)  ensure that persons who have a disability have equal opportunities with other persons in circumstances in relation to which a provision is made by this Act; or
 
                      (b)  afford persons who have a disability or a particular disability, goods or access to facilities, services or opportunities to meet their special needs in relation to:
 
-                              (i)  employment, education, accommodation, clubs or sport; or
+                              (i)  employment, education, accommodation, clubs or sport; and
 
                              (ii)  the provision of goods, services, facilities or land; or
 
@@ -1313,14 +1261,6 @@ or on the ground that the first-mentioned person believes that the other person 
                             (iv)  the administration of Commonwealth laws and programs; or
 
                              (v)  their capacity to live independently.
-
-             (2)  However, subsection (1) does not apply:
-
-                     (a)  in relation to discrimination in implementing a measure referred to in that subsection if the discrimination is not necessary for implementing the measure; or
-
-                     (b)  in relation to the rates of salary or wages paid to persons with disabilities.
-
-Note:          For discrimination in relation to the rates of salary or wages paid to persons with disabilities, see paragraphs 47(1)(c) and (d).
 
 ##### <a id="46"></a>46  Superannuation and insurance
 
@@ -1396,6 +1336,8 @@ Note:          A person does not comply with an industrial ins
 
              (2)  This Part does not render unlawful anything done by a person in direct compliance with a prescribed law.
 
+             (3)  During the period beginning at the commencement of this section and ending 3 years after the day this section commences, this Part does not render unlawful anything done by a person in direct compliance with another law.
+
              (4)  In subsection (1):
 
                     <a name="disabl-support-pension"></a>**_disability support pension_** has the same meaning as in the _Social Security Act 1991_.
@@ -1418,8 +1360,6 @@ Note:          See also subsection 98(6B) of the _Civil Aviati
 
                      (b)  the discrimination is reasonably necessary to protect public health.
 
-Note:          For discrimination in relation to an assistance animal that has an infectious disease, see subsection 54A(4).
-
 ##### <a id="49"></a>49  Exemption for charities
 
              (1)  This Part does not:
@@ -1435,6 +1375,28 @@ Note:          For discrimination in relation to an assistance
                     <a name="charit-benefit"></a>**_charitable benefits_** means benefits for purposes that are exclusively charitable according to the law in force in any part of Australia.
 
                     <a name="charit-instrum"></a>**_charitable instrument_** means a deed, will or other document, whether made before or after the commencement of this Act, that confers charitable benefits or enables charitable benefits to be conferred on persons.
+
+##### <a id="50"></a>50  Telecommunications
+
+             (1)  This Part does not render it unlawful for:
+
+                     (a)  a carrier; or
+
+                     (b)  a supplier of an eligible service;
+
+to discriminate against another person on the ground of the other person’s disability in the provision of telecommunications services through payphones and public payphones.
+
+             (2)  In this section:
+
+                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1991_.
+
+                    <a name="elig-servic"></a>**_eligible service_** has the same meaning as in the _Telecommunications Act 1991_.
+
+                    <a name="payphon"></a>**_payphone_** has the same meaning as in the _Telecommunications Act 1991_.
+
+                    <a name="public-payphon"></a>**_public payphone_** has the same meaning as in the _Telecommunications Act 1991_.
+
+             (3)  Subsection (1) ceases to be in force at the end of 3 years after the day this section commences.
 
 ##### <a id="51"></a>51  Pensions and allowances
 
@@ -1462,15 +1424,11 @@ Note:          For discrimination in relation to an assistance
 
 ##### <a id="52"></a>52  Migration
 
-                   Divisions 1, 2 and 2A do not:
+                   Neither Division 1 nor 2:
 
-                     (a)  affect discriminatory provisions in:
+                     (a)  affect discriminatory provisions in the _Migration Act 1958_ or any regulation made under that Act; or
 
-                              (i)  the _Migration Act 1958_; or
-
-                             (ii)  a legislative instrument made under that Act; or
-
-                     (b)  render unlawful anything that is permitted or required to be done by that Act or instrument.
+                     (b)  render unlawful anything done by a person in relation to the administration of that Act or those regulations.
 
 ##### <a id="53"></a>53  Combat duties and peacekeeping services
 
@@ -1506,44 +1464,6 @@ Note:          For discrimination in relation to an assistance
 
                     <a name="peacekeep-forc"></a>**_Peacekeeping Force_** means a force raised or organised for the purpose of peacekeeping in an area outside Australia.
 
-##### <a id="54A"></a>54A  Assistance animals
-
-             (1)  This section applies in relation to a person with a disability who has an assistance animal.
-
-Note:          For when a person with a disability **_has an assistance animal_**, see subsections 9(2) and (4).
-
-             (2)  This Part does not render it unlawful for a person to request or to require that the assistance animal remain under the control of:
-
-                     (a)  the person with the disability; or
-
-                     (b)  another person on behalf of the person with the disability.
-
-             (3)  For the purposes of subsection (2), an assistance animal may be under the control of a person even if it is not under the person’s direct physical control.
-
-             (4)  This Part does not render it unlawful for a person (the **_discriminator_**) to discriminate against the person with the disability on the ground of the disability, if:
-
-                     (a)  the discriminator reasonably suspects that the assistance animal has an infectious disease; and
-
-                     (b)  the discrimination is reasonably necessary to protect public health or the health of other animals.
-
-             (5)  This Part does not render it unlawful for a person to request the person with the disability to produce evidence that:
-
-                     (a)  the animal is an assistance animal; or
-
-                     (b)  the animal is trained to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
-
-             (6)  This Part does not render it unlawful for a person (the **_discriminator_**) to discriminate against the person with the disability on the ground that the person with the disability has the assistance animal, if:
-
-                     (a)  the discriminator requests or requires the person with the disability to produce evidence referred to in subsection (5); and
-
-                     (b)  the person with the disability neither:
-
-                              (i)  produces evidence that the animal is an assistance animal; nor
-
-                             (ii)  produces evidence that the animal is trained to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
-
-             (7)  This Part does not affect the liability of a person for damage to property caused by an assistance animal.
-
 ##### <a id="55"></a>55  Commission may grant exemptions
 
              (1)  The Commission may, on application by:
@@ -1564,7 +1484,7 @@ Note:          For when a person with a disability **_has an a
 
                             (iii)  on behalf of another person or other persons;
 
-by instrument grant to the person or persons to whom the application relates, as the case may be, an exemption from the operation of a provision of Division 1 or 2, as specified in the instrument.
+by instrument grant to the person or persons to whom the application relates, as the case may be, an exemption from the operation of a provision of Division 1 or 2 (other than section 31 or 32), as specified in the instrument.
 
           (1A)  The Commission may, on application by:
 
@@ -1586,7 +1506,7 @@ by instrument grant to the person or persons to whom the application relates, as
 
 by instrument grant to the person or persons to whom the application relates, as the case may be, an exemption from the operation of section 32, as specified in the instrument.
 
-          (1B)  An exemption granted under subsection (1A) must be in relation to a specified disability standard and only applies to the extent that the disability standard deals with the provision of public transportation services and facilities.
+          (1B)  An exemption granted under subsection (1A) must be in relation to a specified disability standard and only applies to the extent that the disability standard deals with the provision of public transportation services and facilities covered by paragraph 31(1)(d).
 
           (1C)  If the regulations prescribe a body as a body that the Commission must consult in relation to the kinds of public transportation services or facilities that will be dealt with in an exemption under subsection (1A), the Commission must consult that body before granting the exemption.
 
@@ -1622,53 +1542,69 @@ by instrument grant to the person or persons to whom the application relates, as
 
 ##### <a id="58"></a>58  Effect of exemptions
 
-                   This Part does not render it unlawful for a person who has been granted an exemption from a provision of Division 1, 2 or 2A, or a person in the employment or under the direction or control of a person who has been granted such an exemption, to do an act in accordance with the provisions of the instrument by which the exemption was granted.
+                   This Part does not render it unlawful for a person who has been granted an exemption from a provision of Division 1 or 2, or a person in the employment or under the direction or control of a person who has been granted such an exemption, to do an act in accordance with the provisions of the instrument by which the exemption was granted.
 
 ## Part 3—Action plans
 
-##### <a id="59"></a>59  Scope
+##### <a id="59"></a>59  Interpretation
 
-                   This Part applies in relation to a person (the **_action planner_**) who, under Part 2, is prohibited from discriminating against another person on the ground of a disability of the other person.
+                   In this Part:
+
+                    <a name="servic-provid"></a>**_service provider_** means a Department, a department of a State, a public authority of the Commonwealth, an instrumentality of a State, an educational institution or a person who:
+
+                     (a)  provides goods or services; or
+
+                     (b)  makes facilities available;
+
+whether for payment or not.
 
 ##### <a id="60"></a>60  Action plans
 
-                   The action planner may prepare and implement an action plan.
+                   A service provider may prepare and implement an action plan.
 
 ##### <a id="61"></a>61  Provisions of action plans
 
-                   The action plan must include provisions relating to:
+                   The action plan of a service provider must include provisions relating to:
 
                      (a)  the devising of policies and programs to achieve the objects of this Act; and
 
-                     (b)  the communication of these policies and programs to persons within the action planner; and
+                     (b)  the communication of these policies and programs to persons within the service provider; and
 
-                     (c)  the review of practices within the action planner with a view to the identification of any discriminatory practices; and
+                     (c)  the review of practices within the service provider with a view to the identification of any discriminatory practices; and
 
                      (d)  the setting of goals and targets, where these may reasonably be determined against which the success of the plan in achieving the objects of the Act may be assessed; and
 
                      (e)  the means, other than those referred to in paragraph (d), of evaluating the policies and programs referred to in paragraph (a); and
 
-                      (f)  the appointment of persons within the action planner to implement the provisions referred to in paragraphs (a) to (e) (inclusive).
+                      (f)  the appointment of persons within the service provider to implement the provisions referred to in paragraphs (a) to (e) (inclusive).
 
 ##### <a id="62"></a>62  Action plans may have other provisions
 
-                   The action plan may include provisions, other than those referred to in section 61, that are not inconsistent with the objects of this Act.
+                   The action plan of a service provider may include provisions, other than those referred to in section 61, that are not inconsistent with the objects of this Act.
 
 ##### <a id="63"></a>63  Amendment of action plans
 
-                   The action planner may, at any time, amend the action plan.
+                   A service provider may, at any time, amend its action plan.
 
-##### <a id="64"></a>64  Action plans may be given to Commission
+##### <a id="64"></a>64  Copy of action plan to be given to Commission
 
-             (1)  The action planner may give a copy of the action plan, or of any amendments to the action plan, to the Commission.
+                   A service provider may give:
 
-             (2)  If the action planner does so, the Commission must make the copy available to the public.
+                     (a)  a copy of its action plan; or
 
-## Part 4—Functions of the Australian Human Rights Commission
+                     (b)  any amendments to the plan;
+
+to the Commission.
+
+##### <a id="65"></a>65  Commission to sell action plans to public
+
+                   The Commission is to sell copies of action plans or amendments to action plans given to it under section 64 to the public for a prescribed fee.
+
+## Part 4—Functions of Human Rights and Equal Opportunity Commission
 
 ### Division 1—Preliminary
 
-##### <a id="67"></a>67  Functions of the Commission
+##### <a id="67"></a>67  Functions of Human Rights and Equal Opportunity Commission
 
              (1)  The following functions are conferred on the Commission:
 
@@ -1694,9 +1630,9 @@ by instrument grant to the person or persons to whom the application relates, as
 
                     (m)  to do anything incidental or conducive to the performance of any of the preceding functions.
 
-Note:          For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the _Australian Human Rights Commission Act 1986_.
+Note:          For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
-             (2)  The Commission is not to regard an enactment or proposed enactment as being inconsistent with or contrary to the objects of this Act for the purposes of paragraph (1)(i) because of a provision of the enactment or proposed enactment that is included for the purpose referred to in subsection 45(1) (special measures).
+             (2)  The Commission is not to regard an enactment or proposed enactment as being inconsistent with or contrary to the objects of this Act for the purposes of paragraph (1)(i) because of a provision of the enactment or proposed enactment that is included for the purpose referred to in section 45.
 
 ## Part 5—Other offences
 
@@ -1704,7 +1640,7 @@ Note:          For the provisions about inquiries into complai
 
              (1)  If a person has engaged in an act of discrimination that would, apart from section 46, be unlawful, the President or the Commission may, by notice in writing served on the person as prescribed, require the person within 28 days after service of the notice on the person, to disclose to the President or to the Commission, as the case may be, the source of the actuarial or statistical data on which the act of discrimination was based and, where the President or the Commission, as the case may be, makes such a requirement of a person, the person must not fail to comply with the requirement.
 
-                    Penalty:  10 penalty units.
+                    Penalty:  $1,000.
 
           (1A)  Subsection (1) does not apply if the person has a reasonable excuse.
 
@@ -1722,7 +1658,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  There is to be a Disability Discrimination Commissioner, who is to be appointed by the Governor-General.
 
-             (2)  A person is not qualified to be appointed as the Disability Discrimination Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
+             (2)  A person is not qualified to be appointed as the Disability Discrimination Commissioner unless the Governor-General is satisfied that the person has appropriate qualifications, knowledge or experience.
 
 ##### <a id="114"></a>114  Terms and conditions of appointment
 
@@ -1812,7 +1748,7 @@ approved by the Commission, all or any of the powers exercisable by the Commissi
 
 ##### <a id="122"></a>122  Liability of persons involved in unlawful acts
 
-                   A person who causes, instructs, induces, aids or permits another person to do an act that is unlawful under Division 1, 2, 2A or 3 of Part 2 is, for the purposes of this Act, taken also to have done the act.
+                   A person who causes, instructs, induces, aids or permits another person to do an act that is unlawful under Division 1, 2 or 3 of Part 2 is, for the purposes of this Act, taken also to have done the act.
 
 ##### <a id="123"></a>123  Conduct by directors, servants and agents
 
@@ -1862,21 +1798,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="126"></a>126  Protection from civil actions
 
-          (1A)  Subsection (1) applies in relation to any of the following persons:
-
-                     (a)  the Commission;
-
-                     (b)  the Commissioner or another member of the Commission;
-
-                     (c)  a person acting under the direction or authority of:
-
-                              (i)  the Commission; or
-
-                             (ii)  the Commissioner or another member of the Commission;
-
-                     (d)  a person acting under a delegation under section 121.
-
-             (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission.
+             (1)  The Commission, a member of the Commission, the Commissioner or a person acting under the direction or authority of the Commission or of the Commissioner or a delegate under section 121 is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission or the Commissioner.
 
              (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person because only that submission was made, the document or information was given or the evidence was given.
 
@@ -1904,7 +1826,7 @@ except where it is necessary to do so for the purposes of this Act.
 
                      (a)  making a record of information that is required or permitted by an Act to be recorded, if the record is made for the purposes of or under that Act; or
 
-                     (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the _Australian Human Rights Commission Act 1986_; or
+                     (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
                      (c)  divulging or communicating information, or producing a document that is required or permitted by an Act to be divulged, communicated or produced as the case may be, if the information is divulged or communicated, or the document is produced, for the purposes of or under that Act.
 
@@ -1950,7 +1872,7 @@ Note:          A defendant bears an evidential burden in relat
 
           (1A)  Without limiting the generality of subsection (1), the Governor-General may make regulations for the purposes of subsection 55(1C) prescribing a body as a body that the Commission must consult in relation to all or specified kinds of public transportation services or facilities.
 
-             (2)  Before making any regulations for the purposes of section 47, the Governor-General is to take into consideration any comments made to the Minister by a Minister of a State or Territory who is responsible for matters relating to disability discrimination.
+             (2)  Before making any regulations for the purposes of section 31 or 47, the Governor-General is to take into consideration any comments made to the Minister by a Minister of a State or Territory who is responsible for matters relating to disability discrimination.
 
 # Notes to the _Disability Discrimination Act 1992_
 
@@ -2338,7 +2260,7 @@ Remainder: Royal Assent</div>
     <div>21 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (item 26): <i>(k)</i></div>
+    <div>Schedule 2 (item 26): \[ <i>see (k)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2409,7 +2331,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>S. 4: Royal Assent 
 Schedule 5 (items 28–30, 65, 66, 84): <i>(l) 
- </i>Schedule 5 (item 31): <i>(l)</i></div>
+ </i>Schedule 5 (item 31): \[ <i>see</i> <i>(l)</i>and Note 3]</div>
   </td>
   <td>
     <div>S. 4 and Sch. 5 (item 84) \[ <i>see</i>Table A]</div>
@@ -2427,16 +2349,16 @@ Schedule 5 (items 28–30, 65, 66, 84): <i>(l)
   </td>
   <td>
     <div>Schedule 2 (items 
-1–90) and Schedule 3 (items 22–31, 117, 118): 5 Aug 2009 
+1–90) and Schedule 3 (items 22–31, 117, 118): \[ <i>see</i>Note 4 and Table A] 
 Schedule 2 (items 101, 102): 27 Mar 2006 ( <i>see</i>s. 2(1)) 
-Schedule 2 (items 103–105): \[ <i>see</i>Note 2]</div>
+Schedule 2 (items 103–105): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>Sch. 2 (items 63, 86) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_     The _Disability Discrimination Act 1992_ was amended by the _Sex Discrimination and other Legislation Amendment Act 1992_, subsection 2(2) of which provides as follows:
+_(a)_    The _Disability Discrimination Act 1992_ was amended by the _Sex Discrimination and other Legislation Amendment Act 1992_, subsection 2(2) of which provides as follows:
 
                  (2)   An amendment of a provision of the _Disability Discrimination Act 1992_ commences:
 
@@ -2638,12 +2560,14 @@ _(k)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </td>
   <td>
     <div>
+      \[
+        <i>see</i>Note 2]
+    </div>
+    <div>
       (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
-
- The _Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendment made by Schedule 2 (item 26) did not commence.
 
 _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
@@ -2726,7 +2650,8 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
   </td>
   <td>
     <div>
-      5 August 2009
+      \[
+        <i>see</i>Note 3]
     </div>
     <div>
       (paragraph (b) applies)
@@ -2826,31 +2751,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50; Nos. 54 and 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5–9</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
+    <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2866,7 +2767,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2887,50 +2788,10 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
 </tr>
 <tr>
   <td>
-    <div>Ss. 15–19</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 20</div>
   </td>
   <td>
     <div>am. No. 60, 1996; No. 105, 2002; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20, 21</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21B</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2946,48 +2807,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 19, 2005; No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23–29</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2A 
-of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2009</div>
+    <div>am. No. 19, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3000,50 +2820,10 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 33</div>
   </td>
   <td>
     <div>rs. No. 62, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3059,7 +2839,7 @@ of Part 2</div>
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3067,15 +2847,7 @@ of Part 2</div>
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3084,14 +2856,6 @@ of Part 2</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3128,22 +2892,6 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 48</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 51</div>
   </td>
   <td>
@@ -3152,74 +2900,10 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54A</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 62, 2002; No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 60–62</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 63, 64</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
+    <div>am. No. 62, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3235,7 +2919,7 @@ of Part 2</div>
     <div>Heading to Part 4</div>
   </td>
   <td>
-    <div>rs. No. 133, 1999; No. 70, 2009</div>
+    <div>rs. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3256,18 +2940,10 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 67</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3276,14 +2952,6 @@ of Part 2</div>
   </td>
   <td>
     <div>ad. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3651,7 +3319,7 @@ of Part 2</div>
     <div>S. 107</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 133, 1999; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3691,7 +3359,7 @@ of Part 2</div>
     <div>S. 113</div>
   </td>
   <td>
-    <div>am. No. 59, 1995; No. 70, 2009</div>
+    <div>am. No. 59, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3712,14 +3380,6 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 122</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 123</div>
   </td>
   <td>
@@ -3731,7 +3391,7 @@ of Part 2</div>
     <div>S. 126</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3739,7 +3399,7 @@ of Part 2</div>
     <div>S. 127</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3763,13 +3423,875 @@ of Part 2</div>
     <div>S. 132</div>
   </td>
   <td>
-    <div>am. No. 62, 2002; No. 70, 2009</div>
+    <div>am. No. 62, 2002</div>
   </td>
 </tr></table>
 
 ### Note 2
 
+_Age Discrimination (Consequential Provisions) Act 2004 (No. 40, 2004)_
+
+The following amendment commences immediately after the commencement of Schedule 1 to the _Australian Human Rights Commission Legislation Act 2004_:
+
+## Schedule 2
+
+## 26  Paragraph 67(3)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  whether, in the Attorney-General’s opinion, the proceedings have significant implications for the administration of any of the following Acts:
+
+                              (i)  this Act;
+
+                             (ii)  the _Age Discrimination Act 2004_;
+
+                            (iii)  the _Australian Human Rights Commission Act 1986_;
+
+                            (iv)  the _Racial Discrimination Act 1975_;
+
+                             (v)  the _Sex Discrimination Act 1984_;
+
+As at 20 July 2009 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
+
+The following amendment commences immediately after 5 August 2009:
+
+## Schedule 5
+
+## 31  Paragraph 21A(4)(b)
+
+Omit “_Workplace Relations Act 1996_”, substitute “_Fair Work (Registered Organisations) Act 2009_”.
+
+As at 20 July 2009 the amendment is not incorporated in this compilation.
+
+### Note 4
+
 _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)_
+
+The following amendments commence on 5 August 2009:
+
+## Schedule 2
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="assist-anim"></a>**_assistance animal_** has the meaning given by subsection 9(2).
+
+## 2  Subsection 4(1) (definition of _auxiliary aid_)
+
+Repeal the definition.
+
+## 3  Subsection 4(1)
+
+Insert:
+
+                    <a name="carer-assist"></a>**_carer or assistant_** has the meaning given by subsection 9(1).
+
+## 4  Subsection 4(1)
+
+Insert:
+
+                    <a name="disabl-convent"></a>**_Disabilities Convention_** means the Convention on the Rights of Persons with Disabilities, done at New York on 30 March 2007, as in force for Australia.
+
+Note:          The text of the Convention is set out in Australian Treaty Series 2008 No. 12 (\[2008] ATS 12). In 2008, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+## 5  Subsection 4(1) (paragraph (j) of the definition of _disability_)
+
+After “future”, insert “(including because of a genetic predisposition to that disability)”.
+
+## 6  Subsection 4(1) (at the end of the definition of _disability_)
+
+Add:
+
+To avoid doubt, a **_disability_** that is otherwise covered by this definition includes behaviour that is a symptom or manifestation of the disability.
+
+## 7  Subsection 4(1)
+
+Insert:
+
+                    <a name="disabl-aid"></a>**_disability aid_** has the meaning given by subsection 9(3).
+
+## 8  Subsection 4(1) (definition of _disability discrimination_)
+
+Repeal the definition.
+
+## 9  Subsection 4(1)
+
+Insert:
+
+                    <a name="disabl-standard"></a>**_disability standards_** has the meaning given by subsection 31(1).
+
+## 10  Subsection 4(1) (definition of _discriminate_)
+
+Omit “sections 5 to 9 (inclusive)”, substitute “sections 5 and 6”.
+
+## 11  Subsection 4(1) (at the end of the definition of _discriminate_)
+
+Add:
+
+Note:          Section 7 (associates) and section 8 (carers, assistants, assistance animals and disability aids) extend the concept of discrimination.
+
+## 12  Subsection 4(1) (definition of _institution of tertiary education_)
+
+Repeal the definition.
+
+## 13  Subsection 4(1)
+
+Insert:
+
+                    <a name="reason-adjust"></a><a name="reason-adjust"></a>**_reasonable adjustment_**: an adjustment to be made by a person is a **_reasonable adjustment_** unless making the adjustment would impose an unjustifiable hardship on the person.
+
+## 14  Subsection 4(1) (definition of _technical and further education institution_)
+
+Repeal the definition.
+
+## 15  Subsection 4(1) (definition of _this Act_)
+
+Repeal the definition.
+
+## 16  Subsection 4(1) (definition of _unjustifiable hardship_)
+
+Repeal the definition, substitute:
+
+                    <a name="unjustifi-hardship"></a>**_unjustifiable hardship_** has a meaning affected by section 11.
+
+## 17  Sections 5 to 9
+
+Repeal the sections, substitute:
+
+##### <a id="5"></a>5  Direct disability discrimination
+
+             (1)  For the purposes of this Act, a person (the **_discriminator_**) **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if, because of the disability, the discriminator treats, or proposes to treat, the aggrieved person less favourably than the discriminator would treat a person without the disability in circumstances that are not materially different.
+
+             (2)  For the purposes of this Act, a person (the **_discriminator_**) also **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
+
+                     (a)  the discriminator does not make, or proposes not to make, reasonable adjustments for the person; and
+
+                     (b)  the failure to make the reasonable adjustments has, or would have, the effect that the aggrieved person is, because of the disability, treated less favourably than a person without the disability would be treated in circumstances that are not materially different.
+
+             (3)  For the purposes of this section, circumstances are not **_materially different_** because of the fact that, because of the disability, the aggrieved person requires adjustments.
+
+##### <a id="6"></a>6  Indirect disability discrimination
+
+             (1)  For the purposes of this Act, a person (the **_discriminator_**) **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
+
+                     (a)  the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and
+
+                     (b)  because of the disability, the aggrieved person does not or would not comply, or is not able or would not be able to comply, with the requirement or condition; and
+
+                     (c)  the requirement or condition has, or is likely to have, the effect of disadvantaging persons with the disability.
+
+             (2)  For the purposes of this Act, a person (the **_discriminator_**) also **_discriminates_** against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
+
+                     (a)  the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and
+
+                     (b)  because of the disability, the aggrieved person would comply, or would be able to comply, with the requirement or condition only if the discriminator made reasonable adjustments for the person, but the discriminator does not do so or proposes not to do so; and
+
+                     (c)  the failure to make reasonable adjustments has, or is likely to have, the effect of disadvantaging persons with the disability.
+
+             (3)  Subsection (1) or (2) does not apply if the requirement or condition is reasonable, having regard to the circumstances of the case.
+
+             (4)  For the purposes of subsection (3), the burden of proving that the requirement or condition is reasonable, having regard to the circumstances of the case, lies on the person who requires, or proposes to require, the person with the disability to comply with the requirement or condition.
+
+##### <a id="7"></a>7  Discrimination in relation to associates
+
+             (1)  This Act applies in relation to a person who has an associate with a disability in the same way as it applies in relation to a person with the disability.
+
+Example:    It is unlawful, under section 15, for an employer to discriminate against an employee on the ground of a disability of any of the employee’s associates.
+
+             (2)  For the purposes of subsection (1), but without limiting that subsection, this Act has effect in relation to a person who has an associate with a disability as if:
+
+                     (a)  each reference to something being done or needed because of a disability were a reference to the thing being done or needed because of the fact that the person has an associate with the disability; and
+
+                     (b)  each other reference to a disability were a reference to the disability of the associate.
+
+             (3)  This section does not apply to section 53 or 54 (combat duties and peacekeeping services) or subsection 54A(2) or (3) (assistance animals).
+
+Note:          The combined effect of sections 7 and 8 is that this Act applies in relation to a person who has an associate who has a carer, assistant, assistance animal or disability aid in the same way as it applies in relation to a person with a disability.
+
+##### <a id="8"></a>8  Discrimination in relation to carers, assistants, assistance animals and disability aids
+
+             (1)  This Act applies in relation to having a carer, assistant, assistance animal or disability aid in the same way as it applies in relation to having a disability.
+
+Example:    For the purposes of section 5 (direct discrimination), circumstances are not materially different because of the fact that a person with a disability requires adjustments for the person’s carer, assistant, assistance animal or disability aid (see subsection 5(3)).
+
+             (2)  For the purposes of subsection (1), but without limiting that subsection, this Act has effect in relation to a person with a disability who has a carer, assistant, assistance animal or disability aid as if:
+
+                     (a)  each reference to something being done or needed because of a disability were a reference to the thing being done or needed because of the fact that the person has the carer, assistant, animal or aid; and
+
+                     (b)  each other reference to a disability were a reference to the carer, assistant, animal or aid.
+
+             (3)  This section does not apply to section 48 (infectious diseases) or section 54A (exemptions in relation to assistance animals).
+
+Note:          The combined effect of sections 7 and 8 is that this Act applies in relation to a person who has an associate who has a carer, assistant, assistance animal or disability aid in the same way as it applies in relation to a person with a disability.
+
+##### <a id="9"></a>9  Carer, assistant, assistance animal and disability aid definitions
+
+Meanings of **carer or assistant**, **assistance animal** and **disability aid**
+
+             (1)  For the purposes of this Act, a **_carer or assistant_**, in relation to a person with a disability, is one of the following who provides assistance or services to the person because of the disability:
+
+                     (a)  a carer;
+
+                     (b)  an assistant;
+
+                     (c)  an interpreter;
+
+                     (d)  a reader.
+
+             (2)  For the purposes of this Act, an **_assistance animal_** is a dog or other animal:
+
+                     (a)  accredited under a law of a State or Territory that provides for the accreditation of animals trained to assist a persons with a disability to alleviate the effect of the disability; or
+
+                     (b)  accredited by an animal training organisation prescribed by the regulations for the purposes of this paragraph; or
+
+                     (c)  trained:
+
+                              (i)  to assist a person with a disability to alleviate the effect of the disability; and
+
+                             (ii)  to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
+
+Note:          For exemptions from Part 2 for discrimination in relation to assistance animals, see section 54A.
+
+             (3)  For the purposes of this Act, a **_disability aid_**, in relation to a person with a disability, is equipment (including a palliative or therapeutic device) that:
+
+                     (a)  is used by the person; and
+
+                     (b)  provides assistance to alleviate the effect of the disability.
+
+Having a carer, assistant, assistance animal or disability aid
+
+             (4)  The following table has effect:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="30%">
+  <col width="59%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Having a carer, assistant, assistance animal or disability aid</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>For the purposes of this Act, a person with a disability
+          <i>has</i>…</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>if the person …</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>a carer or assistant</div>
+  </td>
+  <td>
+    <div>(a) is presently accompanied by the carer or assistant; or</div>
+    <div>(b) was previously accompanied by the carer or assistant; or</div>
+    <div>(c) may be accompanied by the carer or assistant in the future; or</div>
+    <div>(d) is imputed to be accompanied by the carer or assistant.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>an assistance animal or disability aid</div>
+  </td>
+  <td>
+    <div>(a) is presently accompanied by, or possesses, the animal or aid; or</div>
+    <div>(b) was previously accompanied by, or possessed, the animal or aid; or</div>
+    <div>(c) may be accompanied by, or possess, the animal or aid in the future;
+      or</div>
+    <div>(d) is imputed to be accompanied by, or to possess, the animal or aid.</div>
+  </td>
+</tr></table>
+
+## 18  Section 11
+
+Repeal the section, substitute:
+
+##### <a id="11"></a>11  Unjustifiable hardship
+
+             (1)  For the purposes of this Act, in determining whether a hardship that would be imposed on a person (the **_first person_**) would be an **_unjustifiable hardship_**, all relevant circumstances of the particular case must be taken into account, including the following:
+
+                     (a)  the nature of the benefit or detriment likely to accrue to, or to be suffered by, any person concerned;
+
+                     (b)  the effect of the disability of any person concerned;
+
+                     (c)  the financial circumstances, and the estimated amount of expenditure required to be made, by the first person;
+
+                     (d)  the availability of financial and other assistance to the first person;
+
+                     (e)  any relevant action plans given to the Commission under section 64.
+
+Example:    One of the circumstances covered by paragraph (1)(a) is the nature of the benefit or detriment likely to accrue to, or to be suffered by, the community.
+
+             (2)  For the purposes of this Act, the burden of proving that something would impose unjustifiable hardship lies on the person claiming unjustifiable hardship.
+
+## 19  Subsection 12(1) (definition of _limited application provisions_)
+
+After “Divisions 1, 2”, insert “, 2A”.
+
+## 20  After paragraph 12(8)(b)
+
+Insert:
+
+                    (ba)  give effect to the Disabilities Convention; or
+
+## 21  After subsection 13(3)
+
+Insert:
+
+          (3A)  Subsection (3) does not apply in relation to Division 2A of Part 2 (Disability standards).
+
+## 22  Paragraphs 13(4)(a) and (5)(a)
+
+After “this Act”, insert “(including a matter dealt with by a disability standard)”.
+
+## 23  Subsection 15(1)
+
+Omit “or a disability of any of that other person’s associates”.
+
+## 24  Subsection 15(2)
+
+Omit “or a disability of any of that employee’s associates”.
+
+## 25  Subsection 15(4)
+
+Repeal the subsection.
+
+## 26  Subsection 16(1)
+
+Omit “or a disability of any of that person’s associates”.
+
+## 27  Subsection 16(2)
+
+Omit “or a disability of any of the person’s associates”.
+
+## 28  Subsection 16(3)
+
+Repeal the subsection.
+
+## 29  Subsection 17(1)
+
+Omit “(1)”.
+
+## 30  Subsection 17(1)
+
+Omit “or a disability of any of the contract worker’s associates”.
+
+## 31  Subsection 17(2)
+
+Repeal the subsection.
+
+## 32  Subsections 18(1), (2) and (3)
+
+Omit “or a disability of any of the other person’s associates”.
+
+## 33  Subsection 18(4)
+
+Repeal the subsection.
+
+## 34  Subsection 19(1)
+
+Omit “(1)”.
+
+## 35  Subsection 19(1)
+
+Omit “or a disability of any of the person’s associates”.
+
+## 36  Subsection 19(2)
+
+Repeal the subsection.
+
+## 37  Subsection 20(1)
+
+Omit “or a disability of any of the person’s associates”.
+
+## 38  Subsection 20(2)
+
+Omit “or a disability of any of the member’s associates”.
+
+## 39  Subsection 21(1)
+
+Omit “or a disability of any of the person’s associates”.
+
+## 40  Subsection 21(2)
+
+Repeal the subsection, substitute:
+
+             (2)  This Part does not require an employment agency to ensure that an employer complies with this Act.
+
+             (3)  Subsection (2) does not affect the operation of section 122 (which applies if an employment agency causes, instructs, induces, aids or permits an employer to do an unlawful act).
+
+## 41  At the end of Division 1 of Part 2
+
+Add:
+
+##### <a id="21A"></a>21A  Exception—inherent requirements
+
+Inherent requirements
+
+             (1)  This Division does not render it unlawful for a person (the **_discriminator_**) to discriminate against another person (the **_aggrieved person_**) on the ground of a disability of the aggrieved person if:
+
+                     (a)  the discrimination relates to particular work (including promotion or transfer to particular work); and
+
+                     (b)  because of the disability, the aggrieved person would be unable to carry out the inherent requirements of the particular work, even if the relevant employer, principal or partnership made reasonable adjustments for the aggrieved person.
+
+             (2)  For the purposes of paragraph (1)(b), the following factors are to be taken into account in determining whether the aggrieved person would be able to carry out the inherent requirements of the particular work:
+
+                     (a)  the aggrieved person’s past training, qualifications and experience relevant to the particular work;
+
+                     (b)  if the aggrieved person already works for the discriminator—the aggrieved person’s performance in working for the discriminator;
+
+                     (c)  any other factor that it is reasonable to take into account.
+
+             (3)  For the purposes of this section, the aggrieved person **_works_** for another person if:
+
+                     (a)  the other person employs the aggrieved person; or
+
+                     (b)  the other person engages the aggrieved person as a commission agent; or
+
+                     (c)  the aggrieved person works for the other person as a contract worker; or
+
+                     (d)  the other person and the aggrieved person are members of a partnership; or
+
+                     (e)  both of the following apply:
+
+                              (i)  the other person is an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation;
+
+                             (ii)  the aggrieved person is a member of that profession, carrying on that trade or engaged in that occupation.
+
+Opportunities for promotion, transfer and training and registered organisations
+
+             (4)  This section does not apply in relation to:
+
+                     (a)  discrimination referred to in paragraph 15(2)(b) or (d), 16(2)(b) or (d), 17(1)(c) or (d) or 18(3)(c), other than discrimination in determining who should be offered promotion or transfer; or
+
+                     (b)  discrimination referred to in section 20 (registered organisations under the _Workplace Relations Act 1996_).
+
+##### <a id="21B"></a>21B  Exception—unjustifiable hardship
+
+                   This Division does not render it unlawful for a person (the **_discriminator_**) to discriminate against another person on the ground of a disability of the other person if avoiding the discrimination would impose an unjustifiable hardship on the discriminator.
+
+## 42  Subsection 22(1)
+
+Omit “or a disability of any of the other person’s associates”.
+
+## 43  Subsection 22(2)
+
+Omit “or a disability of any of the student’s associates”.
+
+## 44  Subsection 22(2A)
+
+Omit “or a disability of any of the person’s associates”.
+
+## 45  Subsection 22(4)
+
+Repeal the subsection.
+
+## 46  Subsection 23(1)
+
+Omit “(1)”.
+
+## 47  Subsection 23(1)
+
+Omit “or a disability of any of that other person’s associates”.
+
+## 48  Subsection 23(2)
+
+Repeal the subsection.
+
+## 49  Subsection 24(1)
+
+Omit “(1)”.
+
+## 50  Subsection 24(1)
+
+Omit “or a disability of any of that other person’s associates”.
+
+## 51  Subsection 24(2)
+
+Repeal the subsection.
+
+## 52  Subsection 25(1)
+
+Omit “or a disability of any of that other person’s associates”.
+
+## 53  Subsection 25(2)
+
+Omit “or a disability of any of the other person’s associates”.
+
+## 54  Paragraphs 25(3)(b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  the provision of accommodation if:
+
+                              (i)  the accommodation is provided by a charitable or other voluntary body solely for persons who have a particular disability; and
+
+                             (ii)  the person discriminated against does not have that particular disability.
+
+## 55  Subsections 26(1) and 27(1)
+
+Omit “or a disability of any of that person’s associates”.
+
+## 56  Subsection 27(2)
+
+Omit “or a disability of any of the member’s associates”.
+
+## 57  Subsection 27(3)
+
+Repeal the subsection.
+
+## 58  Subsection 28(1)
+
+Omit “or a disability of any of the other person’s associates”.
+
+## 59  Section 29
+
+Omit “, or a disability of any of the other person’s associates”.
+
+## 60  Section 30
+
+Repeal the section, substitute:
+
+##### <a id="29A"></a>29A  Unjustifiable hardship
+
+                   This Division (other than section 30) does not render it unlawful for a person (the **_discriminator_**) to discriminate against another person on the ground of a disability of the other person if avoiding the discrimination would impose an unjustifiable hardship on the discriminator.
+
+##### <a id="30"></a>30  Requests for information
+
+             (1)  This section applies in relation to a person (the **_first person_**) if, under Division 1 or this Division, it would be unlawful for the first person, in doing a particular act, to discriminate against another person on the ground of a disability of the other person.
+
+             (2)  It is unlawful for the first person to request or require the other person to provide information (whether by completing a form or otherwise) if:
+
+                     (a)  the first person requests or requires the information in connection with, or for the purposes of, doing the act referred to in subsection (1); and
+
+                     (b)  either or both of the following applies:
+
+                              (i)  persons who do not have the disability would not be requested or required to provide the information in circumstances that are not materially different;
+
+                             (ii)  the information relates to the disability.
+
+             (3)  Subsection (2) does not apply if:
+
+                     (a)  evidence is produced to the effect that none of the purposes for which the first person requested or required the information was the purpose of unlawfully discriminating against the other person on the ground of the disability; and
+
+                     (b)  the evidence is not rebutted.
+
+Example:    An employer may not require a prospective employee to provide genetic information if the employer intends to use that information to unlawfully discriminate against the employee on the ground of a disability of the employee.
+
+                   However, the employer may require such information in order to determine if the prospective employee would be able to carry out the inherent requirements of the employment or to determine what reasonable adjustments to make for the employee.
+
+             (4)  This section has effect subject to subsection 54A(5) (evidence that an animal is an assistance animal).
+
+## 61  Before section 31
+
+Insert:
+
+### Division 2A—Disability standards
+
+## 62  Section 31
+
+Repeal the section, substitute:
+
+##### <a id="31"></a>31  Disability standards
+
+             (1)  The Minister may, by legislative instrument, formulate standards, to be known as **_disability standards_**, in relation to any area in which it is unlawful under this Part for a person to discriminate against another person on the ground of a disability of the other person.
+
+             (2)  Without limiting subsection (1), a disability standard may:
+
+                     (a)  deal with the following:
+
+                              (i)  reasonable adjustments;
+
+                             (ii)  strategies and programs to prevent harassment or victimisation of persons with a disability;
+
+                            (iii)  unjustifiable hardship;
+
+                            (iv)  exemptions from the disability standard, including the power (if any) of the Commission to grant such exemptions; or
+
+                     (b)  provide that the disability standard, in whole or in part, is or is not intended to affect the operation of a law of a State or Territory.
+
+             (3)  Before making a disability standard, the Minister must take into consideration any comments made to the Minister by a Minister of a State or Territory who is responsible for matters relating to disability discrimination.
+
+             (4)  A legislative instrument made under this section does not take effect before the end of the period in which it could be disallowed in either House of the Parliament.
+
+## 64  Section 34
+
+After “this Part”, insert “(other than this Division)”.
+
+## 65  Sections 36, 38 and 40
+
+Repeal the sections.
+
+## 66  Paragraph 43(a)
+
+Omit “Divisions 1, 2”, substitute “Division 1, 2, 2A”.
+
+## 67  Subsection 44(1)
+
+After “Division 1, 2”, insert “, 2A”.
+
+## 68  Subsection 44(1) (penalty)
+
+Omit “$1,000”, substitute “10 penalty units”.
+
+## 69  Section 45
+
+Before “This Part”, insert “(1)”.
+
+## 70  Subparagraph 45(b)(i)
+
+Omit “and”, substitute “or”.
+
+## 71  At the end of section 45
+
+Add:
+
+             (2)  However, subsection (1) does not apply:
+
+                     (a)  in relation to discrimination in implementing a measure referred to in that subsection if the discrimination is not necessary for implementing the measure; or
+
+                     (b)  in relation to the rates of salary or wages paid to persons with disabilities.
+
+Note:          For discrimination in relation to the rates of salary or wages paid to persons with disabilities, see paragraphs 47(1)(c) and (d).
+
+## 72  Subsection 47(3)
+
+Repeal the subsection.
+
+## 73  At the end of section 48
+
+Add:
+
+Note:          For discrimination in relation to an assistance animal that has an infectious disease, see subsection 54A(4).
+
+## 74  Section 50
+
+Repeal the section.
+
+## 75  Section 52
+
+Repeal the section, substitute:
+
+##### <a id="52"></a>52  Migration
+
+                   Divisions 1, 2 and 2A do not:
+
+                     (a)  affect discriminatory provisions in:
+
+                              (i)  the _Migration Act 1958_; or
+
+                             (ii)  a legislative instrument made under that Act; or
+
+                     (b)  render unlawful anything that is permitted or required to be done by that Act or instrument.
+
+## 76  After section 54
+
+Insert:
+
+##### <a id="54A"></a>54A  Assistance animals
+
+             (1)  This section applies in relation to a person with a disability who has an assistance animal.
+
+Note:          For when a person with a disability **_has an assistance animal_**, see subsections 9(2) and (4).
+
+             (2)  This Part does not render it unlawful for a person to request or to require that the assistance animal remain under the control of:
+
+                     (a)  the person with the disability; or
+
+                     (b)  another person on behalf of the person with the disability.
+
+             (3)  For the purposes of subsection (2), an assistance animal may be under the control of a person even if it is not under the person’s direct physical control.
+
+             (4)  This Part does not render it unlawful for a person (the **_discriminator_**) to discriminate against the person with the disability on the ground of the disability, if:
+
+                     (a)  the discriminator reasonably suspects that the assistance animal has an infectious disease; and
+
+                     (b)  the discrimination is reasonably necessary to protect public health or the health of other animals.
+
+             (5)  This Part does not render it unlawful for a person to request the person with the disability to produce evidence that:
+
+                     (a)  the animal is an assistance animal; or
+
+                     (b)  the animal is trained to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
+
+             (6)  This Part does not render it unlawful for a person (the **_discriminator_**) to discriminate against the person with the disability on the ground that the person with the disability has the assistance animal, if:
+
+                     (a)  the discriminator requests or requires the person with the disability to produce evidence referred to in subsection (5); and
+
+                     (b)  the person with the disability neither:
+
+                              (i)  produces evidence that the animal is an assistance animal; nor
+
+                             (ii)  produces evidence that the animal is trained to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
+
+             (7)  This Part does not affect the liability of a person for damage to property caused by an assistance animal.
+
+## 77  Subsection 55(1)
+
+Omit “(other than section 31 or 32)”.
+
+## 78  Subsection 55(1B)
+
+Omit “covered by paragraph 31(1)(d)”.
+
+## 79  Section 58
+
+Omit “Division 1 or 2”, substitute “Division 1, 2 or 2A”.
+
+## 80  Section 59
+
+Repeal the section, substitute:
+
+##### <a id="59"></a>59  Scope
+
+                   This Part applies in relation to a person (the **_action planner_**) who, under Part 2, is prohibited from discriminating against another person on the ground of a disability of the other person.
+
+## 81  Section 60
+
+Omit “A service provider”, substitute “The action planner”.
+
+## 82  Section 61
+
+Omit “of a service provider”.
+
+## 83  Paragraphs 61(b), (c) and (f)
+
+Omit “service provider”, substitute “action planner”.
+
+## 84  Section 62
+
+Omit “of a service provider”.
+
+## 85  Sections 63, 64 and 65
+
+Repeal the sections, substitute:
+
+##### <a id="63"></a>63  Amendment of action plans
+
+                   The action planner may, at any time, amend the action plan.
+
+##### <a id="64"></a>64  Action plans may be given to Commission
+
+             (1)  The action planner may give a copy of the action plan, or of any amendments to the action plan, to the Commission.
+
+             (2)  If the action planner does so, the Commission must make the copy available to the public.
+
+## 87  Subsection 67(2)
+
+Omit “section 45”, substitute “subsection 45(1) (special measures)”.
+
+## 88  Subsection 107(1) (penalty)
+
+Omit “$1,000”, substitute “10 penalty units”.
+
+## 89  Section 122
+
+After “Division 1, 2”, insert “, 2A”.
+
+## 90  Subsection 132(2)
+
+Omit “31 or”.
+
+## Schedule 3
+
+## 22  Subsection 4(1) (definition of _Commission_)
+
+Repeal the definition, substitute:
+
+                    <a name="commiss"></a>**_Commission_** means the Australian Human Rights Commission.
+
+## 23  Subsection 4(1) (definition of _Convention_)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 24  Subsection 4(1) (definition of _Covenant on Civil and Political Rights_)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 25  Subsection 4(1) (definition of _enactment_)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 26  Subsection 4(1) (definition of _proposed enactment_)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 27  Subsection 13(4)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_” (wherever occurring), substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 28  Paragraphs 42(2)(a) to (f)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 29  Part 4 (heading)
+
+Repeal the heading, substitute:
+
+## Part 4—Functions of the Australian Human Rights Commission
+
+## 30  Subsection 67(1) (note)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+_Note:       The heading to section 67 is replaced by the heading “Functions of the Commission”._
+
+## 31  Paragraph 127(3)(b)
+
+Omit “_Human Rights and Equal Opportunity Commission Act 1986_”, substitute “_Australian Human Rights Commission Act 1986_”.
+
+## 117  Subsection 113(2)
+
+Omit “Governor-General”, substitute “Minister”.
+
+## 118  Subsection 126(1)
+
+Repeal the subsection, substitute:
+
+          (1A)  Subsection (1) applies in relation to any of the following persons:
+
+                     (a)  the Commission;
+
+                     (b)  the Commissioner or another member of the Commission;
+
+                     (c)  a person acting under the direction or authority of:
+
+                              (i)  the Commission; or
+
+                             (ii)  the Commissioner or another member of the Commission;
+
+                     (d)  a person acting under a delegation under section 121.
+
+             (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission.
 
 The following amendments commence on 8 January 2010 unless proclaimed earlier:
 
@@ -3787,7 +4309,7 @@ Omit “or (1A)”.
 
 Omit “Division 1, 2 or 2A”, substitute “Division 1 or 2”.
 
-As at 5 August 2009 the amendments are not incorporated in this compilation.
+As at 20 July 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4148,6 +4670,8 @@ Despite the amendment made by item 29 of this Schedule, the _Disability Discri
 * * *
 
 _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)_
+
+The following provisions commence on 5 August 2009:
 
 ## Schedule 2
 
