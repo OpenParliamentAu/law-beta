@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00621/Html/FinancTransReports1988_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00368/Html/FinancTransReports1988_image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 2 December 2008
- taking into account amendments up to Act No. 124 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 52 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -678,11 +678,9 @@ unless:
 
                               (i)  the cash dealer is a reporting entity;
 
-                             (ii)  the transaction occurred after 11 March 2010;
+                             (ii)  the transaction occurred after the commencement of Division 3 of Part 3 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_;
 
                             (iii)  the transaction is a designated service transaction.
-
-          (1A)  Subsection (1) does not apply in relation to a transaction if the cash dealer complies with section 43 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the transaction.
 
              (2)  The report shall be prepared in the approved form, contain the reportable details of the transaction and be signed by the cash dealer or otherwise authenticated by the cash dealer in a way approved by the AUSTRAC CEO.
 
@@ -864,7 +862,7 @@ the institution may enter the transaction in its exemption register.
 
 the institution may enter the class of transactions consisting of transactions of that kind, against the name of the other party, in its exemption register.
 
-          (2A)  Despite subsections (1) and (2), a financial institution must not enter a designated service transaction, or a class of designated service transactions, in its exemption register after 11 March 2010.
+          (2A)  Despite subsections (1) and (2), a financial institution must not enter a designated service transaction, or a class of designated service transactions, in its exemption register after the commencement of Division 1 of Part 3 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
              (3)  Where a financial institution has entered a class of transactions in its exemption register against the name of a person, the AUSTRAC CEO may, by written notice to the institution, direct the institution:
 
@@ -1068,7 +1066,7 @@ the time when the currency is taken out of Australia is the time when it is irre
 
 ##### <a id="15A"></a>15A  Reports of significant cash transactions
 
-             (1)  Subject to subsections (3A) and (3B), if a significant cash transaction is entered into by or on behalf of a solicitor, a solicitor corporation, or a partnership of solicitors, in the course of practising as a solicitor or solicitors, the solicitor, corporation or partnership must, before the end of the reporting period:
+             (1)  Subject to subsection (3A), if a significant cash transaction is entered into by or on behalf of a solicitor, a solicitor corporation, or a partnership of solicitors, in the course of practising as a solicitor or solicitors, the solicitor, corporation or partnership must, before the end of the reporting period:
 
                      (a)  prepare a report of the transaction; and
 
@@ -1092,11 +1090,9 @@ the time when the currency is taken out of Australia is the time when it is irre
 
                      (a)  the solicitor, corporation or partnership is a reporting entity; and
 
-                     (b)  the transaction occurred after 11 March 2010; and
+                     (b)  the transaction occurred after the commencement of Division 1 of Part 3 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (c)  the transaction is a designated service transaction.
-
-          (3B)  Subsection (1) does not apply in relation to a transaction if the solicitor, corporation or partnership complies with section 43 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the transaction.
 
              (4)  In this section:
 
@@ -1106,7 +1102,7 @@ the time when the currency is taken out of Australia is the time when it is irre
 
 ##### <a id="16"></a>16  Reports of suspect transactions
 
-             (1)  Subject to subsections (4A) and (4B), where:
+             (1)  Subject to subsection (4A), where:
 
                      (a)  a cash dealer is a party to a transaction; and
 
@@ -1126,7 +1122,7 @@ the cash dealer, whether or not required to report the transaction under Divisio
 
                      (d)  communicate the information contained in the report to the AUSTRAC CEO.
 
-          (1A)  Subject to subsections (4A) and (4B), where:
+          (1A)  Subject to subsection (4A), where:
 
                      (a)  a cash dealer is a party to a transaction; and
 
@@ -1172,11 +1168,9 @@ give such further information as is specified in the request to the extent to wh
 
                      (a)  the cash dealer is a reporting entity; and
 
-                     (b)  the transaction occurs after 11 March 2010; and
+                     (b)  the transaction occurs after the commencement of Division 1 of Part 3 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (c)  the transaction is a designated service transaction.
-
-          (4B)  Subsection (1) or (1A) does not apply in relation to a transaction if the cash dealer complies with section 41 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the transaction.
 
              (5)  An action, suit or proceeding does not lie against:
 
@@ -1280,7 +1274,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
              (1)  If:
 
-                     (a)  before 12 March 2010, a cash dealer in Australia is:
+                     (a)  before the commencement of Division 1 of Part 3 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_, a cash dealer in Australia is:
 
                               (i)  the sender of an international funds transfer instruction transmitted out of Australia; or
 
@@ -1293,8 +1287,6 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
                              (ii)  the cash dealer is not an ADI;
 
 the dealer must, before the reporting time, prepare a report of the instruction.
-
-          (1A)  Subsection (1) does not apply in relation to an instruction if the cash dealer complies with section 45 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the instruction.
 
              (2)  The report must be in the approved form and include the prescribed details.
 
@@ -2344,7 +2336,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 ##### <a id="40D"></a>40D  Meaning of _customer-generated financial transaction document_
 
-                   In this Part:
+                   In this Part:
 
                     <a name="custom-gener-financi-transact-docum"></a>**_customer-generated financial transaction document_**, in relation to a financial institution, means a financial transaction document of the institution:
 
@@ -3065,7 +3057,7 @@ of Assent</div>
 Ss. 3–6, 24, Parts IV, V, VI and VII (ss. 25–43): 1 July 1988 ( <i>see Gazette</i>1988, No. S192) 
 Ss. 7–15: 1 July 1990 ( <i>see Gazette</i>1989, No. S359) 
 Ss. 16 and 17: 
-1 Jan 1990 ( <i>see Gazette</i>1989, No. S359) 
+1 Jan 1990 ( <i>see Gazette</i>1989, No. S359) 
 Remainder: 1 Feb 1991 ( <i>see Gazette</i>1990, No. S288)</div>
   </td>
   <td>
@@ -3087,10 +3079,10 @@ Remainder: 1 Feb 1991 ( <i>see Gazette</i>1990, No. S288)</div>
 51–53 and Part 4 (ss. 54, 55): Royal Assent 
 Ss. 20–22: 30 June 1990 ( <i>see</i>s. 2(2)) 
 Ss. 39 and 48: 
-1 July 1990 ( <i>see</i>s. 2(3)) 
-Ss. 40(1) and 50(1): 1 July 1990 ( <i>see</i>s. 2(5) and <i>Gazette</i>1990, No. S158) 
+1 July 1990 ( <i>see</i>s. 2(3)) 
+Ss. 40(1) and 50(1): 1 July 1990 ( <i>see</i>s. 2(5) and <i>Gazette</i>1990, No. S158) 
 S. 40(2): 1 July 1990 ( <i>see</i>s. 2(7) and <i>Gazette</i>1989, No. S359) 
-Ss. 41–45 and 49: 1 Feb 1991 ( <i>see</i>s. 2(8)–(12) and <i>Gazette</i>1990, No. S288) 
+Ss. 41–45 and 49: 1 Feb 1991 ( <i>see</i>s. 2(8)–(12) and <i>Gazette</i>1990, No. S288) 
 Remainder: 17 July 1990</div>
   </td>
   <td>
@@ -3239,7 +3231,7 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 3 (items 11, 12): 11 Dec 1992 <i>(b)</i></div>
+    <div>Schedule 3 (items 11, 12): 11 Dec 1992 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3273,7 +3265,7 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
     <div>23 June 1994</div>
   </td>
   <td>
-    <div>Part 7 (ss. 45–47): 1 July 1994 ( <i>see Gazette</i>1994, No. S242) <i>(d)</i></div>
+    <div>Part 7 (ss. 45–47): 1 July 1994 ( <i>see Gazette</i>1994, No. S242) <i>(d)</i></div>
   </td>
   <td>
     <div>S. 45</div>
@@ -3427,7 +3419,7 @@ Remainder: 1 Mar 1997 ( <i>see Gazette</i>1997, No. S50)</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 64–81): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(g)</i></div>
+    <div>Schedule 1 (items 64–81): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3495,7 +3487,7 @@ Remainder: 1 Mar 1997 ( <i>see Gazette</i>1997, No. S50)</div>
     <div>17 June 1999</div>
   </td>
   <td>
-    <div>Schedule 7 (items 46–49): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(j) 
+    <div>Schedule 7 (items 46–49): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(j) 
  </i>Schedule 8: Royal Assent <i>(j)</i></div>
   </td>
   <td>
@@ -3549,7 +3541,7 @@ Remainder: 18 Jan 2001</div>
     <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 13 Oct 1999 <i>(k)</i></div>
+    <div>Schedule 1 (items 1, 2): 13 Oct 1999 <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3566,7 +3558,7 @@ Remainder: 18 Jan 2001</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 482–485): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+    <div>Schedule 1 (items 482–485): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3583,7 +3575,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 25): 24 Nov 2000 <i>(m)</i></div>
+    <div>Schedule 12 (items 1, 25): 24 Nov 2000 <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3620,7 +3612,7 @@ Remainder: 18 Jan 2001</div>
     <div>S. 4(1), (2) and Schedule 29: <i>(o)</i></div>
   </td>
   <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    <div>S. 4(1), (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3634,7 +3626,7 @@ Remainder: 18 Jan 2001</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 195–198): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(p)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 195–198): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(p)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -3668,7 +3660,7 @@ Remainder: 18 Jan 2001</div>
     <div>27 Sept 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 232–236): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(r)</i></div>
+    <div>Schedule 1 (items 232–236): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3687,7 +3679,7 @@ Remainder: 18 Jan 2001</div>
   <td>
     <div>Schedules 1–7, 
 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
-Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3705,7 +3697,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 6: 29 Oct 2001 <i>(s)</i></div>
+    <div>Schedule 6: 29 Oct 2001 <i>(s)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3791,7 +3783,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>10 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 41–76, 226): 1 Jan 2003</div>
+    <div>Schedule 2 (items 41–76, 226): 1 Jan 2003</div>
   </td>
   <td>
     <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
@@ -3808,9 +3800,9 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>19 Dec 2002</div>
   </td>
   <td>
-    <div>Schedules 1, 2 and Schedule 3 (items 1–22, 
+    <div>Schedules 1, 2 and Schedule 3 (items 1–22, 
 24–26): 16 Jan 2003 
-Schedule 3 (item 23): 1 Jan 2003 ( <i>see</i>s. 2(1) (item 4) and <i>Gazette</i>2002, No. GN44) 
+Schedule 3 (item 23): 1 Jan 2003 ( <i>see</i>s. 2(1) (item 4) and <i>Gazette</i>2002, No. GN44) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3846,7 +3838,7 @@ Remainder: Royal Assent</div>
     <div>5 Dec 2003</div>
   </td>
   <td>
-    <div>Schedule 2 (items 4–13): Royal Assent</div>
+    <div>Schedule 2 (items 4–13): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (item 13) \[ <i>see</i>Table A]</div>
@@ -3863,7 +3855,7 @@ Remainder: Royal Assent</div>
     <div>6 July 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 15–20): Royal Assent</div>
+    <div>Schedule 1 (items 15–20): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -3915,7 +3907,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Schedule 9 (items 3, 4, 7): Royal Assent 
-Schedule 3 (item 4): 15 Dec 2005 
+Schedule 3 (item 4): 15 Dec 2005 
 Schedule 9 (items 1, 2, 5, 6, 8–21): <i>(t)</i></div>
   </td>
   <td>
@@ -3952,7 +3944,7 @@ S. 2(1) (items 8, 10, 11, 13–19) (am. by 170, 2006, Sch. 1 \[items
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–11): <i>(ta)</i></div>
+    <div>Schedule 1 (items 2–11): <i>(ta)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3969,7 +3961,7 @@ S. 2(1) (items 8, 10, 11, 13–19) (am. by 170, 2006, Sch. 1 \[items
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 33–40): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 33–40): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4040,12 +4032,10 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 40–57, 59–78, 
 80–89, 93–112, 114–119, 121, 123, 125–128, 131–146): 13 Dec 2006 ( <i>see</i>s. 2(1)) 
-Schedule 1 (items 58, 79, 90–92, 113, 120, 122, 124, 129, 130, 
-159–165): <i>(v)</i></div>
+Schedule 1 (items 58, 79, 90–92, 113, 120,122, 124, 129, 130): <i>(v)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (items 
-159–165)</div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -4131,23 +4121,6 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (item 57A): <i>(w) 
  </i>Schedule 1 (item 58): 13 Apr 2007 
 Schedule 1 (items 59–61): 13 Dec 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Transaction Reports Amendment (Transitional Arrangements) Act 2008</div>
-  </td>
-  <td>
-    <div>124, 2008</div>
-  </td>
-  <td>
-    <div>25 Nov 2008</div>
-  </td>
-  <td>
-    <div>25 Nov 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -4340,7 +4313,7 @@ _(s)_ The _Financial Transaction Reports Act 1988_ was amended by Schedule 6 o
 
                  (5)   The remainder of this Act commences on the 28th day after the day on which it receives the Royal Assent.
 
-_(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the _Anti-Terrorism Act (No. 2) 2005_ provides as follows:
+_(t)_      Subsection 2(1) (items 8, 10, 11, 13–19) of the _Anti-Terrorism Act (No. 2) 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4623,24 +4596,6 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
   <td>
     <div>
       Do not commence
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 1, items 152 to 165
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 3 of the
-        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      13 December 2006
     </div>
   </td>
 </tr></table>
@@ -5210,7 +5165,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 164, 1992; No. 170, 2006; No. 52, 2007; No. 124, 2008</div>
+    <div>am. No. 164, 1992; No. 170, 2006; No. 52, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5250,7 +5205,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 170, 2006; No. 124, 2008</div>
+    <div>am. No. 170, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5354,7 +5309,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div></div>
   </td>
   <td>
-    <div>am. No. 170, 2006; No. 124, 2008</div>
+    <div>am. No. 170, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5370,7 +5325,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. Nos. 28, 123 and 188, 1991; No. 33, 1997; Nos. 24 and 135, 2001; Nos. 66 and 125, 2002; Nos. 100, 136 and 144, 2005; Nos. 86 and 170, 2006; No. 124, 2008</div>
+    <div>am. Nos. 28, 123 and 188, 1991; No. 33, 1997; Nos. 24 and 135, 2001; Nos. 66 and 125, 2002; Nos. 100, 136 and 144, 2005; Nos. 86 and 170, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5426,7 +5381,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div></div>
   </td>
   <td>
-    <div>am. No. 48, 1998; No. 170, 2006; No. 124, 2008</div>
+    <div>am. No. 48, 1998; No. 170, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5455,7 +5410,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
 </tr>
 <tr>
   <td>
-    <div>S. 17G</div>
+    <div>S17G</div>
   </td>
   <td>
     <div>ad. No. 188, 1991</div>
@@ -5570,7 +5525,15 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div></div>
   </td>
   <td>
-    <div>am. No. 129, 2005; No. 170, 2006</div>
+    <div>am. No. 170, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Example to s. 20A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 129, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6715,113 +6678,5 @@ _Anti-Terrorism Act (No. 2) 2005 (No. 144, 2005)_
                      (b)  certain State laws.
 
              (2)  If a copy of the report in relation to the review is given to the Attorney-General, the Attorney-General must cause a copy of the report to be laid before each House of Parliament within 15 sitting days after the Attorney-General receives the copy of the report.
-
-* * *
-
-## _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_(No. 170, 2006)
-
-## 159  Instrument of appointment—AUSTRAC CEO
-
-(1)        This item applies to an instrument of appointment that:
-
-                     (a)  was in force immediately before the commencement of this item; and
-
-                     (b)  was made under subsection 36(1) of the _Financial Transaction Reports Act 1988_.
-
-(2)        If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
-
-                     (a)  it had been made under subsection 214(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
-
-                     (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
-
-(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
-
-## 160  Terms and conditions of appointment—AUSTRAC CEO
-
-(1)        This item applies to an instrument that:
-
-                     (a)  was in force immediately before the commencement of this item; and
-
-                     (b)  was made under subsection 36(2) of the _Financial Transaction Reports Act 1988_.
-
-(2)        If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument (to the extent to which it deals with matters not covered by the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_) has effect, after the commencement of this item, as if:
-
-                     (a)  it had been made under section 220 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
-
-                     (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
-
-(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
-
-## 161  Acting appointments
-
-(1)        This item applies to an instrument of appointment that:
-
-                     (a)  was in force immediately before the commencement of this item; and
-
-                     (b)  was made under subsection 37(1) of the _Financial Transaction Reports Act 1988_.
-
-(2)        The instrument has effect, after the commencement of this item, as if:
-
-                     (a)  it had been made under subsection 221(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
-
-                     (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
-
-(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
-
-## 162  Leave—AUSTRAC CEO
-
-(1)        This item applies to an instrument that:
-
-                     (a)  was in force immediately before the commencement of this item; and
-
-                     (b)  was made under subsection 36B(2) of the _Financial Transaction Reports Act 1988_.
-
-(2)        If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
-
-                     (a)  it had been made under subsection 216(2) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
-
-                     (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
-
-(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
-
-## 163  Delegations
-
-(1)        This item applies to an instrument of delegation that:
-
-                     (a)  was in force immediately before the commencement of this item; and
-
-                     (b)  was made under section 39 of the _Financial Transaction Reports Act 1988_.
-
-(2)        The instrument has effect, after the commencement of this item, as if:
-
-                     (a)  it had been made under subsection 222(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
-
-                     (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
-
-(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
-
-## 164  Consultants
-
-(1)        This item applies to an agreement or determination that:
-
-                     (a)  was in force immediately before the commencement of this item; and
-
-                     (b)  was made under subsection 40A(1) or (2) of the _Financial Transaction Reports Act 1988_.
-
-(2)        The agreement or determination has effect, after the commencement of this item, as if:
-
-                     (a)  it had been made under subsection 225(1) or (2), as the case requires, of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
-
-                     (b)  a reference in the agreement or determination to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
-
-(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
-
-## 165  Transitional regulations
-
-The Governor-General may make regulations prescribing matters of a transitional nature relating to:
-
-                     (a)  the amendments made by this Act; or
-
-                     (b)  the enactment of this Act or the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
 
  
