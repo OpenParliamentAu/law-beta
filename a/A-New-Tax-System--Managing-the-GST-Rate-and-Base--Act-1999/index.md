@@ -1,104 +1,110 @@
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image001.gif)
 
 # A New Tax System (Commonwealth-State Financial Arrangements) Act 1999
 
 **Act No. 110 of 1999 as amended**
 
-This compilation was prepared on 20 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 7 July 2006
+taking into account amendments up to Act No.
+ 73 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Outline of Act
+[3](#3).            Outline of Act                                                                                      1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            GST revenue
+[5](#5).            GST revenue                                                                                        4
 
-[6](#6).            Hospital grants
+[6](#6).            Hospital grants                                                                                    6
 
-[7](#7).            Determination of population of a State
+[7](#7).            Determination of population of a State                                               8
 
-[8](#8).            Index factor
+[8](#8).            Index factor                                                                                          8
 
-[9](#9).            Relativities factor
+[9](#9).            Relativities factor                                                                                 9
 
 **Part 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations**
 
-[10](#10).          Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations
+[10](#10).          Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations   10
 
 **Part 3—Changing the rate and base of GST**
 
-[11](#11).          Changing the rate and base of GST
+[11](#11).          Changing the rate and base of GST                                                    11
 
-[12](#12).          Definitions
+[12](#12).          Definitions                                                                                         11
 
 **Part 4—Grants to the States** 
 
     **Division 1—GST revenue grants**
 
-[13](#13).          GST revenue grants
+[13](#13).          GST revenue grants                                                                           12
 
     **Division 2—Other grants**
 
-[14](#14).          Franchise fees windfall tax reimbursement payments
+[14](#14).          Franchise fees windfall tax reimbursement payments                       13
 
-[15](#15).          Competition Agreement payments
+[15](#15).          Competition Agreement payments                                                   13
+
+[16](#16).          Revenue replacement payments—2000-01                                       15
 
     **Division 3—Payment of grants**
 
-[17](#17).          Overpayment or underpayment of grant
+[17](#17).          Overpayment or underpayment of grant                                           23
 
-[18](#18).          Advance payments for GST year
+[18](#18).          Advance payments for GST year                                                      23
 
-[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance
+[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance           23
 
 **Part 5—Miscellaneous**
 
-[20](#20).          Appropriation
+[20](#20).          Appropriation                                                                                   24
 
-[21](#21).          Delegation by Treasurer
+[21](#21).          Delegation by Treasurer                                                                    24
 
-[22](#22).          Determinations
+[22](#22).          Determinations                                                                                  24
 
-[23](#23).          Regulations
+[23](#23).          Regulations                                                                                        24
 
 **Schedule 1—Transitional arrangements**
 
-[1](#1).            Overview
+[1](#1).            Overview                                                                                           25
 
-[2](#2).            Guaranteed minimum amount
+[2](#2).            Guaranteed minimum amount                                                            25
 
-[3](#3).            First GST year—GST revenue does not exceed guaranteed minimum amounts
+[3](#3).            First GST year—GST revenue does not exceed guaranteed minimum amounts     25
 
-[4](#4).            Second GST year—GST revenue does not exceed guaranteed minimum amounts
+[4](#4).            Second GST year—GST revenue does not exceed guaranteed minimum amounts  26
 
-[5](#5).            First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts
+[5](#5).            First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts           27
 
-[6](#6).            Third or prescribed transitional GST years—guaranteed minimum amount
+[6](#6).            Third or prescribed transitional GST years—guaranteed minimum amount           28
 
-[7](#7).            Residual adjustment amounts for grants under clause 6
+[7](#7).            Residual adjustment amounts for grants under clause 6                    29
 
 **Schedule 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations** 
 
 **Notes** 
 
-## An Act to provide financial assistance to the States, the Australian   Capital Territory and the Northern Territory, and for related purposes
+
+## An Act to provide financial assistance to the States, the Australian Capital Territory and the Northern Territory, and for related purposes
 
 ## Part 1—Preliminary
 
@@ -122,7 +128,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Outline of Act
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 This Act provides for GST revenue to be distributed to the States. This revenue can be used by the States for any purpose. In addition, some other amounts are payable to the States.
 
@@ -140,9 +146,7 @@ Part 5 contains miscellaneous provisions.
 
 Schedule 1 contains provisions that apply for the transitional GST years. These ensure that no State can receive less than a guaranteed minimum amount and allow the Commonwealth to make grants totalling more than the GST revenue in certain circumstances.
 
-Schedule 2 contains a copy of the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations.
-
-* * *
+Schedule 2 contains a copy of the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations.</div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -150,7 +154,7 @@ Schedule 2 contains a copy of the Intergovernmental Agreement on the Reform of
 
                     <a name="estimated-popul"></a>**_estimated population_** has the meaning given by section 7.
 
-                    <a name="gener-interest-charg"></a>**_general interest charge_** means the charge worked out under Part IIA of the _Taxation Administration Act 1953_.
+                    <a name="gener-interest-charg"></a>**_general interest charge_** means the charge worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
                     <a name="gst"></a>**_GST_** has the same meaning as in the GST Act.
 
@@ -196,15 +200,15 @@ These are described by a figure referring to 2 years (for example, the 2000-01 G
 
                     <a name="rel-factor"></a>**_relativities factor_** for a State for a GST year has the meaning given by section 9.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
-                    <a name="torr-strait-treati"></a>**_Torres Strait Treaty_** means the Treaty between   Australia and the Independent State of Papua New Guinea concerning Sovereignty and Maritime Boundaries in the area between the 2 countries, including the area known as Torres Strait, and Related Matters, signed at Sydney,  Australia on 18 December 1978.
+                    <a name="torr-strait-treati"></a>**_Torres Strait Treaty_** means the Treaty between Australia and the Independent State of Papua New Guinea concerning Sovereignty and Maritime Boundaries in the area between the 2 countries, including the area known as Torres Strait, and Related Matters, signed at Sydney, Australia on 18 December 1978.
 
 Note:          The text of the Treaty is set out in the Australian Treaty Series 1985 No. 4.
 
                     <a name="transition-gst-year"></a>**_transitional GST year_** means:
 
-                     (a)  a GST year commencing on or before  1 July 2002; or
+                     (a)  a GST year commencing on or before 1 July 2002; or
 
                      (b)  a later prescribed GST year.
 
@@ -224,7 +228,7 @@ These are described by a figure referring to 2 years (for example, the 2000-01 t
 
              (2)  The **_GST revenue_** for a GST year is the amount determined by the Commissioner as the amount worked out in the following way:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Step 1._ Add together all of the actual amounts determined for matters covered by subsection (3) for the period from 1 July to 31 May in the GST year.
 
@@ -240,9 +244,7 @@ _Step 6._ Add the result of Step 4 to the result of Step 5.
 
 _Step 7._ Subtract the result of Step 6 from the result of Step 3.
 
-_Step 8._ Adjust the result worked out in Step 7 for the GST year by the amount necessary to take account of the difference between the estimates made in relation to June in the previous GST year and the actual amounts determined for that month.
-
-* * *
+_Step 8._ Adjust the result worked out in Step 7 for the GST year by the amount necessary to take account of the difference between the estimates made in relation to June in the previous GST year and the actual amounts determined for that month.</div>
 
              (3)  The matters are:
 
@@ -282,7 +284,7 @@ Note:          The capacity for new GST refund provisions to b
 
              (1)  A **_hospital grant_** for a State for a GST year is the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image002.gif)
 
 where:
 
@@ -332,7 +334,7 @@ where:
 
              (1)  The index factor for a GST year is the factor worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image003.gif)
 
 where:
 
@@ -402,7 +404,7 @@ Note:          Paragraph B3(ii) of Appendix B to the agreement
 
                    Subject to this Act, each State is entitled to the payment, by way of financial assistance, for a GST year, of a grant worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image004.gif)
 
 where:
 
@@ -440,7 +442,7 @@ the maximum competition payment amount worked out under whichever of subsection�
 
              (2)  The **_maximum competition payment amount_** for a State for the 2000-01 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image005.gif)
 
 where:
 
@@ -454,7 +456,7 @@ where:
 
              (3)  The **_maximum competition payment amount_** for a State for the 2001-02 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image006.gif)
 
 where:
 
@@ -468,7 +470,7 @@ where:
 
              (4)  The **_maximum competition payment amount_** for a State for a later GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image005.gif)
 
 where:
 
@@ -479,6 +481,518 @@ where:
                     <a name="state-popul"></a>**_State population_** means the estimated population of the State on 31 December in the GST year (see subsection 7(1)).
 
                     <a name="total-popul"></a>**_total population_** means the sum of the estimated populations of all of the States on 31 December in the GST year.
+
+##### <a id="16"></a>16  Revenue replacement payments—2000-01
+
+             (1)  Each State is to be paid by way of financial assistance, for the 2000-01 GST year, a revenue replacement payment.
+
+             (2)  The **_revenue replacement payment_** for a State for the 2000-01 GST year is:
+
+![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image007.gif)
+
+where:
+
+                    <a name="alcohol-base-amount"></a>**_alcohol base amount_** means the sum of:
+
+                     (a)  the amounts determined by the Commissioner of Taxation, before 15 June 2001, to be the additional amount of sales tax on taxable dealings that occurred before 1 July 2000 to which the Sales Tax (Surcharge) Acts relate that was, or is likely to be, collected in the GST year because of a Commonwealth surcharge; and
+
+                     (b)  if the June 2000 alcohol base amount exceeds the June 2000 alcohol base amount estimate—the amount of the excess;
+
+less the sum of:
+
+                     (c)  if the June 2000 alcohol base amount estimate exceeds the June 2000 alcohol base amount—the amount of the excess; and
+
+                     (d)  the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of that surcharge or those surcharges, to the extent that the administrative costs relate to taxable dealings that occurred before 1 July 2000.
+
+                    <a name="alcohol-share"></a>**_alcohol share_** for a State means:
+
+                     (a)  if paragraph (b) does not apply—the number set out opposite the name of the State in the table at the end of this definition; or
+
+                     (b)  if the regulations prescribe a number as the alcohol share for each State for the purposes of this definition—the number so prescribed for the State.
+
+<table>
+<colgroup>
+  <col width="13%">
+  <col width="51%">
+  <col width="36%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div><b>Revenue replacement payments—alcohol share</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Item</b></div>
+    </td>
+    <td>
+      <div><b>State</b></div>
+    </td>
+    <td>
+      <div><b>Alcohol share</b></div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>New South Wales</div>
+    </td>
+    <td>
+      <div>0.33796</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Victoria</div>
+    </td>
+    <td>
+      <div>0.22332</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Queensland</div>
+    </td>
+    <td>
+      <div>0.19314</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Western Australia</div>
+    </td>
+    <td>
+      <div>0.11147</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>South Australia</div>
+    </td>
+    <td>
+      <div>0.07857</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Tasmania</div>
+    </td>
+    <td>
+      <div>0.02415</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Australian Capital Territory</div>
+    </td>
+    <td>
+      <div>0.01569</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Northern Territory</div>
+    </td>
+    <td>
+      <div>0.01569</div>
+    </td>
+  </tr>
+</tbody></table>
+
+                    <a name="petroleum-base-amount"></a>**_petroleum base amount_** means the sum of:
+
+                     (a)  the amount determined by the Chief Executive Officer of Customs, before 15 June 2001, to be the additional amount of customs duty on goods, imported before 1 July 2000, falling to subheadings of Chapter 27 of Schedule 3 to the _Customs Tariff Act 1995_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+
+Note:       Chapter 27 of Schedule 3 to the _Customs Tariff Act 1995_ deals with petroleum products.
+
+                     (b)  the amount determined by the Commissioner of Taxation to be the additional amount of excise duty on goods, manufactured or produced before 1 July 2000, falling to items 11 and 12 of the Schedule to the _Excise Tariff Act 1921_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+
+Note:       Items 11 and 12 of the Schedule to the _Excise Tariff Act 1921_ deal with petroleum products.
+
+                     (c)  if the June 2000 petroleum base amount exceeds the June 2000 petroleum base amount estimate—the amount of the excess;
+
+less the sum of:
+
+                     (d)  if the June 2000 petroleum base amount estimate exceeds the June 2000 petroleum base amount—the amount of the excess; and
+
+                     (e)  the amount determined by the Chief Executive Officer of Customs to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (a), to the extent that the administrative costs relate to goods that were imported before 1 July 2000; and
+
+                      (f)  the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (b), to the extent that the administrative costs relate to goods that were manufactured or produced before 1 July 2000.
+
+                    <a name="petroleum-share"></a>**_petroleum share_** for a State means:
+
+                     (a)  if paragraph (b) does not apply—the number set out opposite the name of the State in the table at the end of this definition; or
+
+                     (b)  if the regulations prescribe a number as the petroleum share for each State for the purposes of this definition—the number so prescribed for the State.
+
+<table>
+<colgroup>
+  <col width="13%">
+  <col width="51%">
+  <col width="36%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div><b>Revenue replacement payments—petroleum share</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Item</b></div>
+    </td>
+    <td>
+      <div><b>State</b></div>
+    </td>
+    <td>
+      <div><b>Petroleum share</b></div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>New South Wales</div>
+    </td>
+    <td>
+      <div>0.30039</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Victoria</div>
+    </td>
+    <td>
+      <div>0.20153</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Queensland</div>
+    </td>
+    <td>
+      <div>0.19593</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Western Australia</div>
+    </td>
+    <td>
+      <div>0.17118</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>South Australia</div>
+    </td>
+    <td>
+      <div>0.07549</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Tasmania</div>
+    </td>
+    <td>
+      <div>0.02453</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Australian Capital Territory</div>
+    </td>
+    <td>
+      <div>0.01291</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Northern Territory</div>
+    </td>
+    <td>
+      <div>0.01804</div>
+    </td>
+  </tr>
+</tbody></table>
+
+                    <a name="tobacco-base-amount"></a>**_tobacco base amount_** means the sum of:
+
+                     (a)  the amount determined by the Chief Executive Officer of Customs, before 15 June 2001, to be the additional amount of customs duty on goods, imported before 1 July 2000, falling to subheadings of Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+
+Note:       Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_ deals with tobacco and manufactured tobacco substitutes.
+
+                     (b)  the amount determined by the Commissioner of Taxation to be the additional amount of excise duty on goods, manufactured or produced before 1 July 2000, falling to items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+
+Note:       Items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ deal with tobacco, cigars and cigarettes.
+
+                     (c)  if the June 2000 tobacco base amount exceeds the June 2000 tobacco base amount estimate—the amount of the excess;
+
+less the sum of:
+
+                     (d)  if the June 2000 tobacco base amount estimate exceeds the June 2000 tobacco base amount—the amount of the excess; and
+
+                     (e)  the amount determined by the Chief Executive Officer of Customs to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (a), to the extent that the administrative costs relate to goods that were imported before 1 July 2000; and
+
+                      (f)  the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (b), to the extent that the administrative costs relate to goods that were manufactured or produced before 1 July 2000.
+
+                    <a name="tobacco-share"></a>**_tobacco share_** for a State means:
+
+                     (a)  if paragraph (b) does not apply—the number set out opposite the name of the State in the table at the end of this definition; or
+
+                     (b)  if the regulations prescribe a number as the tobacco share for each State for the purposes of this definition—the number so prescribed for the State.
+
+<table>
+<colgroup>
+  <col width="13%">
+  <col width="51%">
+  <col width="36%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div><b>Revenue replacement payments—tobacco share</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Item</b></div>
+    </td>
+    <td>
+      <div><b>State</b></div>
+    </td>
+    <td>
+      <div><b>Tobacco share</b></div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>New South Wales</div>
+    </td>
+    <td>
+      <div>0.32492</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Victoria</div>
+    </td>
+    <td>
+      <div>0.21803</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Queensland</div>
+    </td>
+    <td>
+      <div>0.19065</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Western Australia</div>
+    </td>
+    <td>
+      <div>0.11100</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>South Australia</div>
+    </td>
+    <td>
+      <div>0.08988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Tasmania</div>
+    </td>
+    <td>
+      <div>0.03226</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Australian Capital Territory</div>
+    </td>
+    <td>
+      <div>0.01456</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Northern Territory</div>
+    </td>
+    <td>
+      <div>0.01870</div>
+    </td>
+  </tr>
+</tbody></table>
+
+             (3)  In determining, for the purposes of subsection (2), the additional amount of customs duty or excise duty that was collected, or is likely to be collected, during a particular period because of a Commonwealth surcharge:
+
+                     (a)  the Chief Executive Officer of Customs is to take into account the impact of the operation of section 19 of the _Customs Tariff Act 1995_; and
+
+                     (b)  the Commissioner of Taxation is to take into account the impact of the operation of section 6A of the _Excise Tariff Act 1921_.
+
+Note:          Section 19 of the _Customs Tariff Act 1995_ and section 6A of the _Excise Tariff Act 1921_ provide for the automatic indexation of certain rates of duty which include rates payable on tobacco etc. and petroleum products.
+
+             (4)  If, after the commencement of this Act, the _Customs Tariff Act 1995_ or the _Excise Tariff Act 1921_ is amended to vary the method of calculating duty on goods falling to:
+
+                     (a)  subheadings of Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_; or
+
+                     (b)  items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_;
+
+then, for the purposes of subsection (2), the additional amount of customs duty or excise duty that was collected, or is likely to be collected, during a particular period is to be determined on the basis that the amendment had not been made.
+
+             (5)  For the purpose of subsection (4):
+
+                     (a)  a Customs Tariff or Customs Tariff alteration proposed in the Parliament is taken to be an amendment of the _Customs Tariff Act 1995_; and
+
+                     (b)  an excise tariff alteration proposed in the Parliament is taken to be an amendment of the _Excise Tariff Act 1921_.
+
+             (6)  In this section:
+
+                    <a name="commonwealth-surcharg"></a>**_Commonwealth surcharge_** means the variation effected by a Surcharge Act in the rate of duty of customs or excise payable on specified goods or in the rate of sales tax applicable to specified taxable dealings (as the case may be).
+
+                    <a name="june-2000-alcohol-base-amount"></a>**_June 2000 alcohol base amount_** means the amount determined by the Commissioner of Taxation, before 15 June 2001, to be the additional amount of sales tax on taxable dealings to which the Sales Tax (Surcharge) Acts relate that was collected during the month of June 2000 because of a Commonwealth surcharge.
+
+                    <a name="june-2000-alcohol-base-amount-estim"></a>**_June 2000 alcohol base amount estimate_** means the amount determined by the Commissioner of Taxation to be the June 2000 alcohol base amount estimate for the purposes of Schedule 6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal).
+
+                    <a name="june-2000-petroleum-base-amount"></a>**_June 2000 petroleum base amount_** means the sum of the amounts determined by the Chief Executive Officer of Customs, before 15 June 2001, to be:
+
+                     (a)  the additional amount of customs duty falling to subheadings of Chapter 27 of Schedule 3 to the _Customs Tariff Act 1995_ that was collected during the month of June 2000 because of a Commonwealth surcharge; and
+
+                     (b)  the additional amount of excise duty falling to items 11 and 12 of the Schedule to the _Excise Tariff Act 1921_ that was collected during the month of June 2000 because of a Commonwealth surcharge.
+
+                    <a name="june-2000-petroleum-base-amount-estim"></a>**_June 2000 petroleum base amount estimate_** has the same meaning as in Schedule 6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal).
+
+                    <a name="june-2000-tobacco-base-amount"></a>**_June 2000 tobacco base amount_** means the sum of:
+
+                     (a)  the amount determined by the Chief Executive Officer of Customs, before 15 June 2001, to be the additional amount of customs duty falling to subheadings of Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_ that was collected during the month of June 2000 because of a Commonwealth surcharge; and
+
+                     (b)  the amount determined by the Commissioner of Taxation, before 15 June 2001, to be the additional amount of excise duty falling to items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ that was collected during the month of June 2000 because of a Commonwealth surcharge.
+
+                    <a name="june-2000-tobacco-base-amount-estim"></a>**_June 2000 tobacco base amount estimate_** has the same meaning as in Schedule 6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal).
+
+                    <a name="sale-tax-surcharg-act"></a>**_Sales Tax (Surcharge) Acts_** means the following Acts:
+
+                     (a)  the _Sales Tax (Customs) (Alcoholic Beverages) Act 1997_;
+
+                     (b)  the _Sales Tax (Excise) (Alcoholic Beverages) Act 1997_;
+
+                     (c)  the _Sales Tax (General) (Alcoholic Beverages) Act 1997_.
+
+Note:          These Acts increase the rates of tax that apply to taxable dealings with the following goods:
+
+(a)           goods covered by Item 1 of Schedule 7 to the _Sales Tax (Exemptions and Classifications) Act 1992_;
+
+(b)           beer, spirits, liqueurs or spirituous liquors;
+
+(c)           beverages that contain beer, spirits (other than spirits for fortifying wine or other beverages), liqueurs or spirituous liquors.
+
+                    <a name="surcharg-act"></a>**_Surcharge Acts_** means the following Acts:
+
+                     (a)  the _Customs Tariff Amendment Act (No. 3) 1997_;
+
+                     (b)  the _Excise Tariff Amendment Act (No. 3) 1997_;
+
+                     (c)  the Sales Tax (Surcharge) Acts;
+
+                     (d)  any Act that varies:
+
+                              (i)  the rate of the duty of customs payable on goods falling to subheadings of Chapter 24 or 27 of the _Customs Tariff Act 1995_; or
+
+                             (ii)  the rate of the duty of excise payable on goods falling to item 6, 7, 8 or 11 of the Schedule to the _Excise Tariff Act 1921_; or
+
+                            (iii)  the rate of sales tax applicable to any of the taxable dealings to which the Sales Tax (Surcharge) Acts relate;
+
+                            and is prescribed for the purposes of this definition.
+
+Note 1:       The _Customs Tariff Amendment Act (No. 3) 1997_ increases the rate of the duty of customs payable on goods falling to certain subheadings of Chapters 24 and 27 of Schedule 3 to the _Customs Tariff Act 1995_. The relevant subheadings of Chapter 24 deal with tobacco and manufactured tobacco substitutes. The relevant subheadings of Chapter 27 deal with petroleum products.
+
+Note 2:       The _Excise Tariff Amendment Act (No. 3) 1997_ increases the rate of the duty of excise payable on goods falling to items 6, 7, 8 and 11 in the Schedule to the _Excise Tariff Act 1921_. Items 6, 7 and 8 in that Schedule deal with tobacco, cigars and cigarettes. Item 11 deals with petroleum products.
 
 ### Division 3—Payment of grants
 
@@ -530,6 +1044,7 @@ is, for the purposes of this Act, conclusively presumed to be correct.
 
                      (b)  prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Schedule 1—Transitional arrangements
 
 _Note:       See section 13_
@@ -558,7 +1073,7 @@ _Note:       See section 13_
 
              (4)  The amount of the increase for the GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image007.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image008.gif)</sub>
 
 where:
 
@@ -588,7 +1103,7 @@ where:
 
              (4)  The amount of the increase for the GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image007.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image008.gif)</sub>
 
 where:
 
@@ -606,7 +1121,7 @@ where:
 
              (2)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is more than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image008.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image009.gif)</sub>
 
 where:
 
@@ -642,6 +1157,7 @@ where:
 
              (5)  The Treasurer may, by signed writing, delegate to an SES employee in the Department all or any of the Treasurer’s functions under subclauses (1), (3) and (4). The delegate must perform a delegated function subject to any directions of the Treasurer.
 
+
 # Schedule 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations
 
 _Note:       See section 10._
@@ -666,7 +1182,7 @@ THE NORTHERN TERRITORY OF AUSTRALIA
 
 WHEREAS 
 
-(1)     the Special Premiers’ Conference on 13 November  1998 developed principles for the reform of Commonwealth-State financial relations;
+(1)     the Special Premiers’ Conference on 13 November 1998 developed principles for the reform of Commonwealth-State financial relations;
 
 (2)     the Commonwealth, States and Territories are in agreement that the current financial relationship between levels of government must be reformed to facilitate a stronger and more productive federal system for the new millennium;
 
@@ -722,7 +1238,7 @@ PART 2—Commonwealth-State Financial reform
 
 •        Bed taxes, from 1 July 2000; 
 
-•        Financial Institutions Duty, from 1 July  2001;
+•        Financial Institutions Duty, from 1 July 2001;
 
 •        Stamp duties on quoted marketable securities from 1 July 2001;
 
@@ -914,27 +1430,29 @@ Part 4—institutional arrangements
   <col width="45%">
 </colgroup>
 
-<tr>
-  <td>
+<tbody>
+  <tr>
+    <td>
 
-    <div>
-      The Honourable John Winston Howard,
-    </div>
-    <div>
-      Prime Minister of the Commonwealth of
-      Australia
-      ,
-    </div>
-    <div>
-      on the 20th day of June 1999
-    </div>
-  </td>
-  <td>
-    <div>
+      <div>
+        The Honourable John Winston Howard,
+      </div>
+      <div>
+        Prime Minister of the Commonwealth of
+        Australia
+        ,
+      </div>
+      <div>
+        on the 20th day of June 1999
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 <table>
 <colgroup>
@@ -942,278 +1460,280 @@ Part 4—institutional arrangements
   <col width="45%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      The Honourable Robert John Carr,
-    </div>
-    <div>
-      Premier of the State of
-      New South Wales
-      ,
-    </div>
-    <div>
-      on the 24th day of June 1999
-    </div>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        The Honourable Robert John Carr,
+      </div>
+      <div>
+        Premier of the State of
+        New South Wales
+        ,
+      </div>
+      <div>
+        on the 24th day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      The Honourable Jeffrey Gibb Kennett,
-    </div>
-    <div>
-      Premier of the State of
-      Victoria
-      ,
-    </div>
-    <div>
-      on the 26th day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        The Honourable Jeffrey Gibb Kennett,
+      </div>
+      <div>
+        Premier of the State of
+        Victoria
+        ,
+      </div>
+      <div>
+        on the 26th day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      The Honourable Peter Douglas Beattie,
-    </div>
-    <div>
-      Premier of the State of
-      Queensland
-      ,
-    </div>
-    <div>
-      on the 25th day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        The Honourable Peter Douglas Beattie,
+      </div>
+      <div>
+        Premier of the State of
+        Queensland
+        ,
+      </div>
+      <div>
+        on the 25th day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      The Honourable
-      Richard Fairfax Court
-      ,
-    </div>
-    <div>
-      Premier of the State of
-      Western Australia
-      ,
-    </div>
-    <div>
-      on the 29th day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        The Honourable
+        Richard Fairfax Court
+        ,
+      </div>
+      <div>
+        Premier of the State of
+        Western Australia
+        ,
+      </div>
+      <div>
+        on the 29th day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      The Honourable John Wayne Olsen,
-    </div>
-    <div>
-      Premier of the State of
-      South Australia
-      ,
-    </div>
-    <div>
-      on the 25th day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        The Honourable John Wayne Olsen,
+      </div>
+      <div>
+        Premier of the State of
+        South Australia
+        ,
+      </div>
+      <div>
+        on the 25th day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      The Honourable James Alexander Bacon,
-    </div>
-    <div>
-      Premier of the State of
-      Tasmania
-      ,
-    </div>
-    <div>
-      on the 25th day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        The Honourable James Alexander Bacon,
+      </div>
+      <div>
+        Premier of the State of
+        Tasmania
+        ,
+      </div>
+      <div>
+        on the 25th day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Kate Carnell,
-    </div>
-    <div>
-      Chief Minister of the
-      Australian Capital Territory
-      ,
-    </div>
-    <div>
-      on the 22nd day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        Kate Carnell,
+      </div>
+      <div>
+        Chief Minister of the
+        Australian Capital Territory
+        ,
+      </div>
+      <div>
+        on the 22nd day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      The Honourable Denis Gabriel Burke,
-    </div>
-    <div>
-      Chief Minister of the
-      Northern Territory
-      of
-      Australia
-      ,
-    </div>
-    <div>
-      on the 22nd day of June 1999
-    </div>
-    <div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        The Honourable Denis Gabriel Burke,
+      </div>
+      <div>
+        Chief Minister of the
+        Northern Territory
+        of
+        Australia
+        ,
+      </div>
+      <div>
+        on the 22nd day of June 1999
+      </div>
+      <div>
 
-    </div>
-  </td>
-  <td>
-    <div>
+      </div>
+    </td>
+    <td>
+      <div>
 
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 APPENDICES
 
@@ -1435,7 +1955,7 @@ FIRST HOME OWNERS SCHEME
 
 **Principles**
 
-D1.    The States and Territories will make legislative provision for the First Home Owners Scheme (FHOS) from 1 July  2000 which will incorporate programme criteria consistent with the following principles:
+D1.    The States and Territories will make legislative provision for the First Home Owners Scheme (FHOS) from 1 July 2000 which will incorporate programme criteria consistent with the following principles:
 
 (i)       Eligible applicants will be entitled to $7,000 assistance (per application) on eligible homes under the FHOS.
 
@@ -1485,7 +2005,7 @@ E6.     The GST Administration Sub-Committee, which will commence operat
 
 E7.     The GST Administration Sub-Committee will comprise officials from each Party to the Agreement including representatives from the ATO as required. The Commonwealth Treasury will chair the GST Administration Sub-Committee.
 
-E8.     The Chair will convene the GST Administration Sub-Committee in consultation with other members of the Sub-Committee as often as may be necessary to conduct its business. If the Chair receives a request from a member of the Sub-Committee, the Chair will consult with the other members concerning convening a meeting. 
+E8.    The Chair will convene the GST Administration Sub-Committee in consultation with other members of the Sub-Committee as often as may be necessary to conduct its business. If the Chair receives a request from a member of the Sub-Committee, the Chair will consult with the other members concerning convening a meeting. 
 
 E9.     The functions of the Sub-Committee will include:
 
@@ -1499,7 +2019,7 @@ E9.     The functions of the Sub-Committee will include:
 
 E10.   The States and Territories will be consulted on draft Public Rulings prior to consideration by the ATO Rulings Panel and before public consultation. There will be a representative from the States and Territories on the ATO Rulings Panel in relation to GST matters. 
 
-E11.   Public rulings will not be referred to the Ministerial Council. However, the GST Administration Sub-Committee will refer a proposed GST change to the Ministerial Council for consideration if the Sub-Committee is of the view that the change could have a significant impact on GST revenues and so warrants Ministerial review.
+E11.  Public rulings will not be referred to the Ministerial Council. However, the GST Administration Sub-Committee will refer a proposed GST change to the Ministerial Council for consideration if the Sub-Committee is of the view that the change could have a significant impact on GST revenues and so warrants Ministerial review.
 
 E12.   Draft legislation which might significantly affect the GST base will be forwarded through the GST Administrative Sub-Committee to the Ministerial Council for consideration.
 
@@ -1599,6 +2119,7 @@ F21.   The ATO will arrange for an audit of the systems for the control of G
 
 F22.   The ATO will undertake to establish, by the end of the Transitional year ending 30 June 2002, final GST benchmarking arrangements with relevant overseas administrations, subject to their agreement. The ATO will discuss benchmarking plans with the GST Administration Sub-Committee.
 
+
 # Notes to the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_
 
 ### Note 1
@@ -1625,11 +2146,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1639,178 +2162,164 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>A New Tax System (Commonwealth-State Financial Arrangements) Act 1999</div>
-  </td>
-  <td>
-    <div>110, 1999</div>
-  </td>
-  <td>
-    <div>10 Sept 1999</div>
-  </td>
-  <td>
-    <div>10 Sept 1999</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 95): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 17): <i>(aa)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>177, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3: <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>21, 2004</div>
-  </td>
-  <td>
-    <div>23 Mar 2004</div>
-  </td>
-  <td>
-    <div>23 Mar 2004</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 3, 10)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005</div>
-  </td>
-  <td>
-    <div>10, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): 1 July 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
-  </td>
-  <td>
-    <div>58, 2006</div>
-  </td>
-  <td>
-    <div>22 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>73, 2006</div>
-  </td>
-  <td>
-    <div>26 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 
-(item 64): 1 July 2006 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 3), Schedule 2 (items 1017, 1018) and Schedule 6 (items 1, 6–11): 
-Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 1, 6–11)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>A New Tax System (Commonwealth-State Financial Arrangements) Act 1999</div>
+    </td>
+    <td>
+      <div>110, 1999</div>
+    </td>
+    <td>
+      <div>10 Sept 1999</div>
+    </td>
+    <td>
+      <div>10 Sept 1999</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 95): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 17): <i>(aa)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>177, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 3: <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>21, 2004</div>
+    </td>
+    <td>
+      <div>23 Mar 2004</div>
+    </td>
+    <td>
+      <div>23 Mar 2004</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 3, 10)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005</div>
+    </td>
+    <td>
+      <div>10, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1, 2): 1 July 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
+    </td>
+    <td>
+      <div>58, 2006</div>
+    </td>
+    <td>
+      <div>22 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 7 (item 1): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
+    </td>
+    <td>
+      <div>73, 2006</div>
+    </td>
+    <td>
+      <div>26 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 5 
+(item 64): 1 July 2006 ( <i>see</i>s. 2(1)) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 1 (item 95) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
@@ -1858,17 +2367,19 @@ _(aa)_   The _Public Employment (Consequential and Transitional) Amendment A
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>46\. Schedule 2, item 17</div>
-  </td>
-  <td>
-    <div>Immediately after the time specified in the <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>for the commencement of item 95 of Schedule 1 to that Act</div>
-  </td>
-  <td>
-    <div>5 December 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>46\. Schedule 2, item 17</div>
+    </td>
+    <td>
+      <div>Immediately after the time specified in the <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>for the commencement of item 95 of Schedule 1 to that Act</div>
+    </td>
+    <td>
+      <div>5 December 1999</div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(b)_    The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 3 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(6) of which provides as follows:
 
@@ -1877,6 +2388,7 @@ _Schedule 3—Commonwealth-State financial arrangements_
                  (6)   Schedule 3 is taken to have commenced immediately after the commencement of the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
          The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ commenced on 10 September 1999.
+
 
 ## Table of Amendments
 
@@ -1901,118 +2413,97 @@ _Schedule 3—Commonwealth-State financial arrangements_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 177, 1999; No. 10, 2005; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 177, 1999; No. 21, 2004; No. 58, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>am. No. 21, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 73, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999 (as am. by No. 63, 2002)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 1, 2</div>
-  </td>
-  <td>
-    <div>am. No. 21, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 10, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 177, 1999; No. 10, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 177, 1999; No. 21, 2004; No. 58, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6, 7</div>
+    </td>
+    <td>
+      <div>am. No. 21, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 10(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 73, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999 (as am. by No. 63, 2002)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cc. 1, 2</div>
+    </td>
+    <td>
+      <div>am. No. 21, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 7</div>
+    </td>
+    <td>
+      <div>ad. No. 21, 2004</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2044,83 +2535,7 @@ _A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004
 
 **_GST year_**has the same meaning as it has in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
-* * *
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 1  Application of Schedule 1 and 2 amendments
-
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
-
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
-
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+ 
 
  
