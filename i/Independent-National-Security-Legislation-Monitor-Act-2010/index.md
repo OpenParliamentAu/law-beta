@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00804/Html/9fca353e-dfe3-4134-8513-95033c356c62_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00288/Html/7b6c5e2c-19e2-44eb-8867-7c40d4615949_files/image001.gif)
 
 # Independent National Security Legislation Monitor Act 2010
 
 **Act No. 32 of 2010 as amended**
 
-This compilation was prepared on 29 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,85 +18,85 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Object                                                                                                   1
+[3](#3).            Object
 
-[4](#4).            Definitions                                                                                           1
+[4](#4).            Definitions
 
 **Part 2—Independent National Security Legislation Monitor** 
 
     **Division 1—Establishment, functions and powers of Independent National Security Legislation Monitor**
 
-[5](#5).            Independent National Security Legislation Monitor                             5
+[5](#5).            Independent National Security Legislation Monitor
 
-[6](#6).            Functions of the Independent National Security Legislation Monitor  5
+[6](#6).            Functions of the Independent National Security Legislation Monitor
 
-[7](#7).            References to the Independent National Security Legislation Monitor by the Prime Minister  6
+[7](#7).            References to the Independent National Security Legislation Monitor by the Prime Minister
 
-[7A](#7A).         References to the Independent National Security Legislation Monitor by the Committee on Intelligence and Security                                                                                                             6
+[7A](#7A).         References to the Independent National Security Legislation Monitor by the Committee on Intelligence and Security
 
-[8](#8).            Regard to be had to international obligations and constitutional arrangements         7
+[8](#8).            Regard to be had to international obligations and constitutional arrangements
 
-[9](#9).            Emphasis to be given to counter‑terrorism and national security legislation that has been applied or considered recently                                                                                                             7
+[9](#9).            Emphasis to be given to counter‑terrorism and national security legislation that has been applied or considered recently
 
-[10](#10).          Consultation with agencies etc                                                             7
+[10](#10).          Consultation with agencies etc 
 
     **Division 2—Appointment of Independent National Security Legislation Monitor**
 
-[11](#11).          Appointment                                                                                        9
+[11](#11).          Appointment
 
-[12](#12).          Term of appointment                                                                            9
+[12](#12).          Term of appointment
 
-[13](#13).          Remuneration and allowances                                                              9
+[13](#13).          Remuneration and allowances
 
-[14](#14).          Leave of absence                                                                                10
+[14](#14).          Leave of absence
 
-[15](#15).          Outside employment                                                                          10
+[15](#15).          Outside employment
 
-[16](#16).          Disclosure of interests to the Prime Minister                                     10
+[16](#16).          Disclosure of interests to the Prime Minister
 
-[17](#17).          Other terms and conditions                                                                10
+[17](#17).          Other terms and conditions
 
-[18](#18).          Resignation                                                                                        10
+[18](#18).          Resignation
 
-[19](#19).          Termination of appointment                                                               11
+[19](#19).          Termination of appointment
 
-[20](#20).          Acting Independent National Security Legislation Monitor               11
+[20](#20).          Acting Independent National Security Legislation Monitor
 
 **Part 3—Information gathering powers**
 
-[21](#21).          Independent National Security Legislation Monitor may hold hearings 13
+[21](#21).          Independent National Security Legislation Monitor may hold hearings
 
-[22](#22).          Independent National Security Legislation Monitor may summon person               13
+[22](#22).          Independent National Security Legislation Monitor may summon person
 
-[23](#23).          Evidence on oath or by affirmation                                                    14
+[23](#23).          Evidence on oath or by affirmation
 
-[24](#24).          Independent National Security Legislation Monitor may request production of a document or thing       14
+[24](#24).          Independent National Security Legislation Monitor may request production of a document or thing
 
-[25](#25).          Offences                                                                                             15
+[25](#25).          Offences
 
-[26](#26).          No criminal or civil liability under secrecy provisions                       16
+[26](#26).          No criminal or civil liability under secrecy provisions
 
-[27](#27).          Independent National Security Legislation Monitor may retain documents or things               16
+[27](#27).          Independent National Security Legislation Monitor may retain documents or things
 
-[28](#28).          Protection of information and documents                                           17
+[28](#28).          Protection of information and documents
 
 **Part 4—Reporting requirements**
 
-[29](#29).          Annual report                                                                                     18
+[29](#29).          Annual report
 
-[30](#30).          Report on a reference by the Prime Minister                                      19
+[30](#30).          Report on a reference by the Prime Minister
 
 **Part 5—Miscellaneous**
 
-[31](#31).          Immunity from legal action                                                                21
+[31](#31).          Immunity from legal action
 
-[32](#32).          Regulations                                                                                        21
+[32](#32).          Regulations
 
 **Notes** 
 
@@ -262,7 +262,7 @@ the communication, divulging or publication of information, the production of, o
 
                      (c)  if a matter relating to counter‑terrorism or national security is referred to the Monitor by the Prime Minister—to report on the reference;
 
-                     (d)  to assess whether Australia’s counter‑terrorism or national security legislation is being used for matters unrelated to terrorism and national security.
+                     (d)  to assess whether Australia’s counter-terrorism or national security legislation is being used for matters unrelated to terrorism and national security.
 
           (1A)  If a matter is referred to the Independent National Security Legislation Monitor by the Committee on Intelligence and Security, the Monitor may perform the function set out in paragraph (1)(a) or (b) in relation to the matter.
 
@@ -664,15 +664,15 @@ to be presented to each House of the Parliament within 15 sitting days of that H
 
              (3)  The Prime Minister may, before the Independent National Security Legislation Monitor gives his or her report on a reference, direct the Monitor to give an interim report to the Prime Minister on the Monitor’s work on the reference.
 
-             (4)  If the Independent National Security Legislation Monitor considers that a report to the Prime Minister under subsection (1) or (3) contains information of the kind referred to in subsection 29(3), the Monitor must also prepare and give to the Prime Minister, at the same time as the report, a version of the report which does not contain that information (a **_declassified report_**).
+             (4)  If the Independent National Security Legislation Monitor considers that a report to the Prime Minister under subsection (1) or (3) contains information of the kind referred to in subsection 29(3), the Monitor must also prepare and give to the Prime Minister, at the same time as the report, a version of the report which does not contain that information (a **_declassified report_**).
 
-             (5)  In determining whether a report contains information of the kind referred to in subsection 29(3), the Independent National Security Legislation Monitor may consult the responsible Minister or responsible Ministers concerned.
+             (5)  In determining whether a report contains information of the kind referred to in subsection 29(3), the Independent National Security Legislation Monitor may consult the responsible Minister or responsible Ministers concerned.
 
              (6)  The Prime Minister must cause a copy of:
 
-                     (a)  each report under subsections (1) and (3); or
+                     (a)  each report under subsections (1) and (3); or
 
-                     (b)  if a report contains information of the kind referred to in subsection 29(3)—the corresponding declassified report;
+                     (b)  if a report contains information of the kind referred to in subsection 29(3)—the corresponding declassified report;
 
 to be presented to each House of the Parliament within 15 sitting days of that House after the day on which he or she receives the report.
 
@@ -700,15 +700,13 @@ to be presented to each House of the Parliament within 15 sitting days of that H
 
 The _Independent_ _National Security Legislation Monitor Act 2010_ as shown in this compilation comprises Act No. 32, 2010 amended as indicated in the Tables below. 
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
-  <col width="28%">
+  <col width="29%">
   <col width="17%">
-  <col width="17%">
+  <col width="16%">
   <col width="21%">
   <col width="17%">
 </colgroup>
@@ -762,27 +760,10 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (items 51–53): 19 Apr 2011</div>
+    <div>Schedule 6 (items 51–53): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 699–701) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -811,7 +792,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -825,47 +806,5 @@ of Assent</div>
     <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 699  Subsection 20(1)
-
-Omit “(1)”.
-
-## 700  Subsection 20(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 701  Subsection 20(2)
-
-Repeal the subsection.
-
-As at 29 September 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
