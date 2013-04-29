@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00541/Html/IncomeTaxDefIntSecTaxFileNumWithTaxAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00587/Html/IncomeTaxDefIntSecTaxFileNumWithTaxAct1991_WD02_image001.gif)
 
 # Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991
 
 **Act No. 215 of 1991 as amended**
 
-This compilation was prepared on 16 October 2008
- taking into account amendments up to Act No. 97 of 2008
+This compilation was prepared on 9 October 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,15 +18,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Act to bind Crown
+[3](#3).            Act to bind Crown                                                                               1
 
-[4](#4).            Imposition of tax
+[4](#4).            Imposition of tax                                                                                 1
 
 **Notes** 
+
+ 
 
 ## An Act to impose a tax on the non-quotation of tax file numbers in respect of certain deferred interest securities
 
@@ -44,7 +46,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Imposition of tax
 
-                   Tax payable in accordance with section 14-55 in Schedule 1 to the _Taxation Administration Act 1953_ is imposed.
+                   Tax payable in accordance with section section 14-55 in Schedule 1 to the _Taxation Administration Act 1953_ is imposed.
 
 # Notes to the _Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991_
 
@@ -96,7 +98,7 @@ of Assent</div>
       <div>24 Dec 1991</div>
     </td>
     <td>
-      <div>24 Dec 1991 ( <i>see</i>s. 2)</div>
+      <div>24 Dec 1991</div>
     </td>
     <td>
       <div></div>
@@ -121,24 +123,9 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
 6–11)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2008 Measures No. 4) Act 2008</div>
-    </td>
-    <td>
-      <div>97, 2008</div>
-    </td>
-    <td>
-      <div>3 Oct 2008</div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 174): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
+
+ 
 
 ## Table of Amendments
 
@@ -168,7 +155,7 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 101, 2006; No. 97, 2008</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr></table>
 
