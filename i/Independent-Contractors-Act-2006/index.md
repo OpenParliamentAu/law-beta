@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00183/Html/774a847e-c034-43a7-be07-15e41521e6f6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00797/Html/9493e524-b470-47fd-8a8e-8cc82ed31004_files/image001.gif)
 
 # Independent Contractors Act 2006
 
 **Act No. 162 of 2006 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 28 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -823,6 +823,10 @@ the following provisions have effect:
 
              (4)  Subsection (3) does not apply to regulations that create, modify or otherwise affect a provision that makes a person liable to an offence or civil penalty.
 
+             (5)  In this section:
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
+
 ##### <a id="43"></a>43  Power to make regulations
 
                    The Governor‑General may make regulations prescribing matters:
@@ -917,7 +921,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 698) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 698) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1097,23 +1101,21 @@ _(a)_ Subsection 2(1) (item 37) of the _Fair Work (State Referral and Conseque
   <td>
     <div>am. No. 54, 2009</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 698  Subsection 42(5)
+
+Repeal the subsection.
+
+As at 28 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1130,6 +1132,8 @@ Despite the amendment of subsection 34(7) of the _Independent Contractors Act 20
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
