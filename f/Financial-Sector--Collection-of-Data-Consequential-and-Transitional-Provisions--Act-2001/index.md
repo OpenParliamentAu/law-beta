@@ -1,925 +1,1834 @@
-![](http://www.comlaw.gov.au/Details/C2007C00597/Html/FinanSectorCollectDataConseqTransProvis2001_image001.gif)
+**
 
-# Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001
+###  FINANCIAL SECTOR (COLLECTION OF DATA--CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001 
+**
 
-**Act No. 121 of 2001 as amended**
 
-This compilation was prepared on 28 September 2007
+**
 
-**\[This Act was amended by Act No. 123 of 2001; No. 154 of 2007]**
+###  Compilation Information 
+**
 
-**Amendments from Act No. 123 of 2001**
 
-\[Schedule 2 (item 1) repealed items 92 and 92A of Schedule 2
- Schedule 2 (item 2) repealed items 101 to 130AA of Schedule 2
 
-Schedule 2 (items 1 and 2) commenced on 11 March 2002]
 
-**Amendment from Act No. 154 of 2007**
 
-\[Schedule 3 (item 2) repealed item 152 of Schedule 2
 
-Schedule 3 (item 2) commenced on 24 September 2007]
+**
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+###  Long Title 
+**
+Financial Sector (Collection of Data) Act 2001
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-# Contents
+		This Act may be cited as the _Financial Sector (Collection of DataConsequential and Transitional Provisions) Act 2001_.
 
-[1](#1).            Short title                                                                                             1
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[2](#2).            Commencement                                                                                   1
+<dt>(1)</dt><dd>Sections&#160;1, 2 and 3 commence on the day on which this Act receives
 
-[3](#3).            Schedule(s)                                                                                           1
+the Royal Assent.</dd> <dt>(2)</dt><dd>Schedules&#160;1 to 3 commence on the same day as Parts&#160;2 to 4 of the _Financial Sector (Collection of Data) Act 2001_. </dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 3  Schedule(s) 
+<dl compact="">
 
-**Schedule 1—Repeal** 
+		Subject to section&#160;2, each Act that is specified in a Schedule to this
 
-Financial Corporations Act 1974                                                                            3
+Act is amended or repealed as set out in the applicable items in the Schedule
 
-**Schedule 2—Amendments** 
+concerned, and any other item in a Schedule to this Act has effect according to
 
-Part 1—Australian Prudential Regulation Authority Act 1998                        4
+its terms.
 
-Part 2—Banking Act 1959                                                                                            7
+ </dl>
+**
 
-Part 3—Insurance Act 1973                                                                                         9
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001Schedule&#160;1&#151;Repeal 
+**
+Financial Corporations Act 1974
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 1  The whole of the Act. 
+**
 
-Part 4—Life Insurance Act 1995                                                                              12
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001Schedule&#160;2&#151;Amendments 
+**
+**
 
-Part 5—Retirement Savings Accounts Act 1997                                               16
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;1&#151;Australian Prudential Regulation Authority Act 1998 </part>
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 1  Subsection 56(1) 
+<dl compact=""><dl compact="">
 
-Part 6—Superannuation Industry (Supervision) Act 1993                             19
+_financial sector entity_ has the same meaning as in the
 
-Part 7—Other Acts                                                                                                        23
+_Financial Sector (Collection of Data) Act 2001_.
 
-Broadcasting Services Act 1992                                                                             23
+ </dl></dl>
 
-Cheques Act 1986                                                                                                      23
+**
 
-Financial Corporations (Transfer of Assets and Liabilities) Act 1993          23
-
-Financial Institutions Supervisory Levies Collection Act 1998                      23
-
-Income Tax Assessment Act 1936                                                                            24
-
-Insurance Acquisitions and Takeovers Act 1991                                                25
-
-National Crime Authority Act 1984                                                                       27
-
-Reserve Bank Act 1959                                                                                             27
-
-Taxation Administration Act 1953                                                                         28
-
-Telecommunications (Consumer Protection and Service Standards) Act 1999 28
-
-**Schedule 3—Transitional provisions** 
-
-## An Act to repeal and amend various Acts, and to deal with transitional matters, in connection with the enactment of the _Financial Sector (Collection of Data) Act 2001_, and for related purposes
-
-##### <a id="1"></a>1  Short title
-
-                   This Act may be cited as the _Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001_.
-
-##### <a id="2"></a>2  Commencement
-
-             (1)  Sections 1, 2 and 3 commence on the day on which this Act receives the Royal Assent.
-
-             (2)  Schedules 1 to 3 commence on the same day as Parts 2 to 4 of the _Financial Sector (Collection of Data) Act 2001_.
-
-##### <a id="3"></a>3  Schedule(s)
-
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
-
- 
-
-###### Schedule 1—Repeal
-
-<h9 class="ActHead9">Financial Corporations Act 1974</h9>
-
-## 1  The whole of the Act.
-
-Repeal the Act.
-
-###### Schedule 2—Amendments
-
-<h7 class="ActHead7">Part 1—Australian Prudential Regulation Authority Act 1998</h7>
-
-## 1  Subsection 56(1)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 2  Subsection 56(1) (after paragraph&#160;(b) of the definition of _Act covered by this section_) 
+**
 
 Insert:
 
-                    <a name="financi-sector-entiti"></a>**_financial sector entity_** has the same meaning as in the _Financial Sector (Collection of Data) Act 2001_.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 2  Subsection 56(1) (after paragraph (b) of the definition of _Act covered by this section_)
+<dt>(ba)</dt><dd>the _Financial Sector (Collection of Data) Act 2001_;
 
-Insert:
+</dd>
 
-                    (ba)  the _Financial Sector (Collection of Data) Act 2001_;
+</dl></dl></dl>
 
-## 3  Subsection 56(1) (at the end of paragraph (c) of the definition of _protected document_)
+<center>Back to Top</center>
 
-Add “or”.
+**
 
-## 4  Subsection 56(1) (after paragraph (c) of the definition of _protected document_)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 3  Subsection 56(1) (at the end of paragraph&#160;(c) of the definition of _protected document_) 
+**
 
-Insert:
+Add "or".
 
-                    (ca)  a registered entity; or
+**
 
-                    (cb)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the Corporations Law) to a registered entity; or
-
-                    (cc)  a person who has been, is, or proposes to be, a customer of a registered entity;
-
-## 5  Subsection 56(1) (at the end of paragraph (c) of the definition of _protected information_)
-
-Add “or”.
-
-## 6  Subsection 56(1) (after paragraph (c) of the definition of _protected information_)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 4  Subsection 56(1) (after paragraph&#160;(c) of the definition of _protected document_) 
+**
 
 Insert:
 
-                    (ca)  a registered entity; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                    (cb)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the Corporations Law) to a registered entity; or
+<dt>(ca)</dt><dd>a registered entity; or</dd>
 
-                    (cc)  a person who has been, is, or proposes to be, a customer of a registered entity;
+<dt>(cb)</dt><dd>a body corporate (including a body corporate that has ceased to exist)
 
-## 7  Subsection 56(1)
+that has at any time been, or is, related (within the meaning of the
+
+Corporations Law) to a registered entity; or</dd>
+
+<dt>(cc)</dt><dd>a person who has been, is, or proposes to be, a customer of a registered
+
+entity;
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 5  Subsection 56(1) (at the end of paragraph&#160;(c) of the definition of _protected information_) 
+**
+
+Add "or".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 6  Subsection 56(1) (after paragraph&#160;(c) of the definition of _protected information_) 
+**
 
 Insert:
 
-                    <a name="regist-entiti"></a>**_registered entity_** means a corporation that is, or has at any time been, a registered entity within the meaning of the _Financial Sector (Collection of Data) Act 2001_.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 8  Paragraph 56(2)(c)
+<dt>(ca)</dt><dd>a registered entity; or</dd>
 
-After “(5),”, insert “(5A), (5B), (5C),”.
+<dt>(cb)</dt><dd>a body corporate (including a body corporate that has ceased to exist)
 
-## 9  After subsection 56(5)
+that has at any time been, or is, related (within the meaning of the
 
-Insert:
+Corporations Law) to a registered entity; or</dd>
 
-          (5A)  It is not an offence if the production by a person of a document that was given to APRA under section 9 or 13 of the _Financial Sector (Collection of Data) Act 2001_ is to the Australian Statistician for the purposes of the _Census and Statistics Act 1905_.
+<dt>(cc)</dt><dd>a person who has been, is, or proposes to be, a customer of a registered
 
-Note:          A defendant bears an evidential burden in relation to matters in subsection (5A) (see section 13.3(3) of the _Criminal Code_).
+entity;
 
-          (5B)  It is not an offence if the production by a person of a document that was given to APRA under section 9 or 13 of the _Financial Sector (Collection of Data) Act 2001_ is to:
+</dd>
 
-                     (a)  the Reserve Bank of Australia; or
+</dl></dl></dl>
 
-                     (b)  another prescribed authority.
+**
 
-Note:          A defendant bears an evidential burden in relation to matters in subsection (5B) (see section 13.3(3) of the _Criminal Code_).
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 7  Subsection 56(1) 
+**
 
-          (5C)  If a document relating to a financial sector entity (other than an entity that is, or is included in a class of entities that are, excluded by the regulations from the operation of this subsection) is a reporting document that:
+ Insert:
 
-                     (a)  was given by the entity to APRA under section 13 of the _Financial Sector (Collection of Data) Act 2001_; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  is determined by APRA under section 57 to be a document that does not contain confidential information;
+_registered entity_ means a corporation that is, or has at any time
+
+been, a registered entity within the meaning of the _Financial Sector (Collection of Data) Act 2001_.
+
+ </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 8  Paragraph 56(2)(c) 
+**
+
+ After "(5),", insert "(5A), (5B), (5C),".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 9  After subsection 56(5) 
+**
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(5A)</dt><dd>It is not an offence if the production by a person of a document that was
+
+given to APRA under section&#160;9 or 13 of the _Financial Sector (Collection of Data) Act 2001_ is to the Australian Statistician for the purposes of the
+
+_Census and Statistics Act 1905_.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to
+
+matters in subsection&#160;(5A) (see section&#160;13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5B)</dt><dd>It is not an offence if the production by a person of a document that was
+
+given to APRA under section&#160;9 or 13 of the _Financial Sector (Collection of Data) Act 2001_ is to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Reserve Bank of Australia; or</dd>
+
+<dt>(b)</dt><dd>another prescribed authority.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to
+
+matters in subsection&#160;(5B) (see section&#160;13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5C)</dt><dd>If a document relating to a financial sector entity (other than an entity
+
+that is, or is included in a class of entities that are, excluded by the
+
+regulations from the operation of this subsection) is a reporting document that:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>was given by the entity to APRA under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_; and</dd>
+
+<dt>(b)</dt><dd>is determined by APRA under section&#160;57 to be a document that does not
+
+contain confidential information;
+
+</dd>
+
+</dl></dl></dl>
 
 it is not an offence to disclose the document, or any information contained in the document, to any person (including to disclose the document by making it available for inspection by the public or to disclose the information by making a document containing the information so available).
 
-Note:          A defendant bears an evidential burden in relation to matters in subsection (5C) (see section 13.3(3) of the _Criminal Code_).
+<dl compact=""><dl compact="">
 
-## 10  At the end of Part 6
+Note:	A defendant bears an evidential burden in relation to
 
-Add:
+matters in subsection&#160;(5C) (see section&#160;13.3(3) of the _Criminal Code_).
 
-##### <a id="57"></a>57  Determination as to confidentiality
+ </dl></dl>
 
-             (1)  APRA may determine whether a document that was given to APRA by a registered entity, or by a body regulated by APRA, under section 13 of the _Financial Sector (Collection of Data) Act 2001_ contains confidential information, but must not make such a determination unless APRA has:
+**
 
-                     (a)  given to the entity or body, or to an association or other body representing the class of entities or bodies within which the entity or body is included, a reasonable opportunity to make representations as to whether information of the kind contained in the document is confidential; and
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 10  At the end of Part&#160;6 
+**
 
-                     (b)  taken any such representations into account.
+ Add: 
 
-             (2)  A determination made under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+**
 
-<h7 class="ActHead7">Part 2—Banking Act 1959</h7>
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 57  Determination as to confidentiality 
+**
 
-## 11  Subparagraph 9A(2)(a)(i)
+ <dl compact=""><dl compact="">
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+<dt>(1)</dt><dd>APRA may determine whether a document that was given to APRA by a
 
-## 12  Subparagraph 11AB(2)(a)(i)
+registered entity, or by a body regulated by APRA, under section&#160;13 of the
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+_Financial Sector (Collection of Data) Act 2001_ contains confidential
 
-## 13  After paragraph 11CA(1)(d)
+information, but must not make such a determination unless APRA has:
 
-Insert:
+</dd> </dl></dl>
 
-               ; or (e)  the body corporate has contravened a requirement under the _Financial Sector (Collection of Data) Act 2001_.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 14  Subparagraphs 16B(2)(a)(ii), (3)(a)(ii) and (4)(a)(ii)
+<dt>(a)</dt><dd>given to the entity or body, or to an association or other body
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+representing the class of entities or bodies within which the entity or body is
 
-## 15  At the end of section 16C
+included, a reasonable opportunity to make representations as to whether
 
-Add “or the _Financial Sector (Collection of Data) Act 2001_”.
+information of the kind contained in the document is confidential; and</dd>
 
-## 16  Part VI
+<dt>(b)</dt><dd>taken any such representations into account.
 
-Repeal the Part.
+</dd>
 
-## 17  Subsection 62(5)
+</dl></dl></dl>
 
-Repeal the subsection.
+<dl compact=""><dl compact="">
 
-## 18  Application
+<dt>(2)</dt><dd>A determination made under subsection&#160;(1) is a disallowable
 
-(1)        The amendments made by this Part apply to a financial sector entity (within the meaning of the _Financial Sector (Collection of Data) Act 2001_) that is a body referred to in subitem (2) only on and after the day on which the reporting standards determined under section 13 of that Act begin to apply under section 15 of that Act to a class or kind of financial sector entities in which that body is included.
+instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
 
-(2)        The bodies are:
+</dd> </dl></dl>
 
-                     (a)  ADIs; and
+<center>**
 
-                     (b)  authorised NOHCs; and
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;2&#151;Banking Act 1959 </part>
+**</center>
 
-                     (c)  subsidiaries of ADIs; and
+**
 
-                     (d)  subsidiaries of authorised NOHCs.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 11  Subparagraph 9A(2)(a)(i) 
+**
 
-(3)        Expressions used in subitem (2) have the same meanings as in the _Banking Act 1959_.
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-<h7 class="ActHead7">Part 3—Insurance Act 1973</h7>
+**
 
-## 19  Subsection 3(1) (definition of _accounts_)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 12  Subparagraph 11AB(2)(a)(i) 
+**
 
-Omit “subsections 44(1) and (3) and 49J(1) and (3)”.
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-## 20  Subsection 3(1) (definition of _quarterly statutory accounts_)
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 13  After paragraph 11CA(1)(d) 
+**
+
+ Insert:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+	; or (e)	the body corporate has contravened a requirement under the
+
+_Financial Sector (Collection of Data) Act 2001_.
+
+</dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 14  Subparagraphs 16B(2)(a)(ii), (3)(a)(ii) and (4)(a)(ii) 
+**
+
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 15  At the end of section&#160;16C 
+**
+
+ Add "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 16  Part&#160;VI 
+**
+
+ Repeal the Part.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 17  Subsection 62(5) 
+**
+
+ Repeal the subsection.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 18  Application 
+**
+
+ (1)	The amendments made by this Part apply to a financial sector entity (within the meaning of the _Financial Sector (Collection of Data) Act Back to Top 2001_) that is a body referred to in subitem&#160;(2) only on and after the day on which the reporting standards determined under section&#160;13 of that Act begin to apply under section&#160;15 of that Act to a class or kind of financial sector entities in which that body is included.
+ (2)	The bodies are:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>ADIs; and</dd>
+
+<dt>(b)</dt><dd>authorised NOHCs; and</dd>
+
+<dt>(c)</dt><dd>subsidiaries of ADIs; and</dd>
+
+<dt>(d)</dt><dd>subsidiaries of authorised NOHCs.
+
+</dd>
+
+</dl></dl></dl>
+
+(3)	Expressions used in subitem&#160;(2) have the same meanings as in the _Banking Act 1959_.
+
+<center>**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;3&#151;Insurance Act 1973 </part>
+**</center>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 19  Subsection 3(1) (definition of _accounts_) 
+**
+
+ Omit "subsections 44(1) and (3) and 49J(1) and (3)".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 20  Subsection 3(1) (definition of _quarterly statutory accounts_) 
+**
 
 Repeal the definition.
 
-## 21  Subsection 3(1) (definition of _statutory accounts_)
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 21  Subsection 3(1) (definition of _statutory accounts_) 
+**
 
 Repeal the definition, substitute:
 
-                    <a name="statutori-account"></a>**_statutory accounts_**, in relation to a body corporate, means the reporting documents that the body corporate is required under section 13 of the _Financial Sector (Collection of Data) Act 2001_ to lodge with APRA.
+<def><dl compact=""><dl compact="">
 
-## 22  Subsection 3(1) (definition of _yearly statutory accounts_)
+_statutory accounts_, in relation to a body corporate, means the
+
+reporting documents that the body corporate is required under section&#160;13
+
+of the _Financial Sector (Collection of Data) Act 2001_ to lodge with APRA.
+
+ </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 22  Subsection 3(1) (definition of _yearly statutory accounts_) 
+**
 
 Repeal the definition, substitute:
 
-                    <a name="yearli-statutori-account"></a>**_yearly statutory accounts_**, in relation to a body corporate, means the reporting documents that the body corporate is required under section 13 of the _Financial Sector (Collection of Data) Act 2001_ to lodge with APRA in respect of a financial year.
+<def><dl compact=""><dl compact="">
 
-## 23  Paragraph 23(f)
+_yearly statutory accounts_, in relation to a body corporate, means
 
-After “Act”, insert “and the _Financial Sector (Collection of Data) Act 2001_”.
+the reporting documents that the body corporate is required under
 
-## 24  Paragraph 24(f)
+section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_ to
 
-After “Act”, insert “and the _Financial Sector (Collection of Data) Act 2001_”.
+lodge with APRA in respect of a financial year.
 
-## 25  Sections 44 and 45
+ </dl></dl>
 
-Repeal the sections.
+**
 
-## 26  Section 49
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 23  Paragraph 23(f) 
+**
 
-Repeal the section.
+ After "Act", insert "and the _Financial Sector (Collection of Data) Act 2001_".
 
-## 27  Sections 49J and 49K
+**
 
-Repeal the sections.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 24  Paragraph 24(f) 
+**
 
-## 28  Section 49P
+ After "Act", insert "and the _Financial Sector (Collection of Data) Act 2001_".
 
-Repeal the section.
+**
 
-## 29  Paragraph 52(1)(b)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 25  Sections&#160;44 and 45 
+**
 
-After “Act” (wherever occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+ Repeal the sections.
 
-## 30  Subsection 52(1B)
+**
 
-After “Act” (second and third occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 26  Section&#160;49 
+**
 
-## 31  Subsection 62(1)
+ Repeal the section.
 
-After “Act” (second and third occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 32  Subparagraph 62(1A)(b)(ii)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 27  Sections&#160;49J and 49K 
+**
 
-After “Act” (wherever occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+ Repeal the sections.
 
-## 33  Subsection 115(1)
+**
 
-After “Act” (second occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 28  Section&#160;49P 
+**
 
-## 34  Subsection 115A(1)
+ Repeal the section.
 
-After “Act” (last occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 35  Paragraph 115A(2)(a)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 29  Paragraph 52(1)(b) 
+**
 
-After “Act” (last occurring), insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+ After "Act" (wherever occurring), insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-## 36  Subparagraph 115A(3)(a)(i)
+**
 
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 30  Subsection 52(1B) 
+**
 
-## 37  Subparagraph 117A(1)(a)
+ After "Act" (second and third occurring), insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 38  Subsection 123(2)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 31  Subsection 62(1) 
+**
 
-Repeal the subsection.
+ After "Act" (second and third occurring), insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-_Note:       The heading to section 123 is altered by omitting “, accounts”._
+**
 
-## 39  Subsection 123(4)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 32  Subparagraph 62(1A)(b)(ii) 
+**
 
-Omit “or (2)”.
+ After "Act" (wherever occurring), insert "or the _Financial Sector Back to Top (Collection of Data) Act 2001_".
 
-## 40  Subsection 128(1)
+**
 
-Omit “, 44”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 33  Subsection 115(1) 
+**
 
-## 41  Subsection 128(1)
+ After "Act" (second occurring), insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-Omit “, 49J”.
+**
 
-## 42  Paragraph 128(1)(b)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 34  Subsection 115A(1) 
+**
 
-Omit “44,”.
+ After "Act" (last occurring), insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-## 43  Paragraph 128(1)(b)
+**
 
-Omit “, 49J”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 35  Paragraph 115A(2)(a) 
+**
 
-## 44  Paragraph 132(c)
+ After "Act" (last occurring), insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 36  Subparagraph 115A(3)(a)(i) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 37  Subparagraph 117A(1)(a) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 38  Subsection 123(2) 
+**
+
+ Repeal the subsection.
+
+Note:	The heading to section&#160;123 is altered by omitting ", accounts".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 39  Subsection 123(4) 
+**
+
+ Omit "or (2)".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 40  Subsection 128(1) 
+**
+
+ Omit ", 44".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 41  Subsection 128(1) 
+**
+
+ Omit ", 49J".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 42  Paragraph 128(1)(b) 
+**
+
+ Omit "44,".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 43  Paragraph 128(1)(b) 
+**
+
+ Omit ", 49J".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 44  Paragraph 132(c) 
+**
+
+ Repeal the paragraph.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 45  Application 
+**
+
+ The amendments made by this Part apply only on and after the day on which the reporting standards determined under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section&#160;15 of that Act to financial sector entities (within the meaning of that Act) whose sole or principal business in Australia is insurance business (within the meaning of the _Insurance Act 1973_).
+
+<center>**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;4&#151;Life Insurance Act 1995 </part>
+**</center>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 46  Paragraph 21(3)(e) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 47  Section&#160;57 
+**
+
+ Omit "section&#160;82", substitute "the _Financial Sector (Collection of Data) Act 2001_"_._
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 48  Section&#160;82 
+**
+
+ Repeal the section.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 49  Subsection 83(2) 
+**
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The audit must be carried out before reporting documents as at the end of
+
+that financial year are given to APRA under the _Financial Sector (Collection of Data) Act 2001_.
+
+</dd> </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 50  Subsection 83(3) 
+**
+
+ Omit "prepared under subsection 82(1) are not effective for the purposes of this Act", substitute "referred to in subsection&#160;(2) are not effective for the purposes of this Act or the _Financial Sector (Collection of Data) Act Back to Top 2001_"_._
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 51  Paragraph 88(1)(a) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 52  Subparagraph 88(3)(a)(i) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 53  Paragraph 89(2)(a) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 54  Paragraph 92(1)(a) 
+**
+
+ Omit "section&#160;82", substitute "the _Financial Sector (Collection of Data) Act 2001_"_._
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 55  Paragraph 98(1)(a) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 56  Subparagraph 98(3)(a)(i) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 57  Sections&#160;117 and 118 
+**
+
+ Repeal the sections.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 58  Section&#160;121 
+**
+
+ Repeal the section.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 59  Section&#160;122 
+**
+
+ Omit "referred to in subsection 82(1)", substitute "under the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 60  Subsection 124(1) 
+**
+
+ Omit "section&#160;118", substitute "the _Financial Sector (Collection of Data) Act 2001_"_._
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 61  Subsection 125A(1) (paragraph&#160;(b) of the definition of _provision to which this section applies_) 
+**
 
 Repeal the paragraph.
 
-## 45  Application
+**
 
-The amendments made by this Part apply only on and after the day on which the reporting standards determined under section 13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section 15 of that Act to financial sector entities (within the meaning of that Act) whose sole or principal business in Australia is insurance business (within the meaning of the _Insurance Act 1973_).
-
-<h7 class="ActHead7">Part 4—Life Insurance Act 1995</h7>
-
-## 46  Paragraph 21(3)(e)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 47  Section 57
-
-Omit “section 82”, substitute “the _Financial Sector (Collection of Data) Act 2001_”_._
-
-## 48  Section 82
-
-Repeal the section.
-
-## 49  Subsection 83(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The audit must be carried out before reporting documents as at the end of that financial year are given to APRA under the _Financial Sector (Collection of Data) Act 2001_.
-
-## 50  Subsection 83(3)
-
-Omit “prepared under subsection 82(1) are not effective for the purposes of this Act”, substitute “referred to in subsection (2) are not effective for the purposes of this Act or the _Financial Sector (Collection of Data) Act 2001_”_._
-
-## 51  Paragraph 88(1)(a)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 52  Subparagraph 88(3)(a)(i)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 53  Paragraph 89(2)(a)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 54  Paragraph 92(1)(a)
-
-Omit “section 82”, substitute “the _Financial Sector (Collection of Data) Act 2001_”_._
-
-## 55  Paragraph 98(1)(a)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 56  Subparagraph 98(3)(a)(i)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 57  Sections 117 and 118
-
-Repeal the sections.
-
-## 58  Section 121
-
-Repeal the section.
-
-## 59  Section 122
-
-Omit “referred to in subsection 82(1)”, substitute “under the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 60  Subsection 124(1)
-
-Omit “section 118”, substitute “the _Financial Sector (Collection of Data) Act 2001_”_._
-
-## 61  Subsection 125A(1) (paragraph (b) of the definition of _provision to which this section applies_)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 62  Subsection 125B(1) (paragraph&#160;(b) of the definition of _provision to which this section applies_) 
+**
 
 Repeal the paragraph.
 
-## 62  Subsection 125B(1) (paragraph (b) of the definition of _provision to which this section applies_)
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 63  Subparagraph 136(b)(i) 
+**
+
+ After "_Life Insurance Act 1945_", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 64  Subparagraph 136(b)(ii) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 65  Paragraphs 150(1)(b) and (c) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 66  Section&#160;166 
+**
+
+ After "Act" (first occurring), insert "or the operation of the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 67  At the end of section&#160;166 
+**
+
+ Add "or the provisions of the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 68  At the end of subsection 230A(3) 
+**
+
+ Add "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 69  Paragraph 230B(1)(a) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 70  Subsection 236(1) (paragraph&#160;(zb) of the definition of _reviewable decision_) 
+**
 
 Repeal the paragraph.
 
-## 63  Subparagraph 136(b)(i)
+**
 
-After “_Life Insurance Act 1945_”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 64  Subparagraph 136(b)(ii)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 65  Paragraphs 150(1)(b) and (c)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 66  Section 166
-
-After “Act” (first occurring), insert “or the operation of the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 67  At the end of section 166
-
-Add “or the provisions of the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 68  At the end of subsection 230A(3)
-
-Add “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 69  Paragraph 230B(1)(a)
-
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
-
-## 70  Subsection 236(1) (paragraph (zb) of the definition of _reviewable decision_)
-
-Repeal the paragraph.
-
-## 71  Subsection 236(1) (paragraphs (zd), (ze) and (zf) of the definition of _reviewable decision_)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 71  Subsection 236(1) (paragraphs&#160;(zd), (ze) and (zf) of the definition of _reviewable decision_) <center>[Back to Top](#top)</center> 
+**
 
 Repeal the paragraphs.
 
-## 72  Sections 243 and 244
+**
 
-Repeal the sections.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 72  Sections&#160;243 and 244 
+**
 
-## 73  Subsection 248(2)
+ Repeal the sections.
 
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 74  Schedule
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 73  Subsection 248(2) 
+**
 
-Insert:
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-                    <a name="report-docum"></a>**_reporting document_** has the same meaning as in the _Financial Sector (Collection of Data) Act 2001_.
+**
 
-## 75  Application
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 74  Schedule 
+**
 
-The amendments made by this Part apply only on and after the day on which the reporting standards determined under section 13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section 15 of that Act to financial sector entities (within the meaning of that Act) that are registered under the _Life Insurance Act 1995_.
+ Insert:
 
-<h7 class="ActHead7">Part 5—Retirement Savings Accounts Act 1997</h7>
+<def><dl compact=""><dl compact="">
 
-## 76  Subparagraph 3(1)(a)(iv)
+_reporting document_ has the same meaning as in the _Financial Sector (Collection of Data) Act 2001_.
 
-Repeal the subparagraph, substitute:
+ </dl></dl>
 
-                            (iv)  section 183; and
+**
 
-## 77  Paragraph 3(2)(d)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 75  Application 
+**
 
-Omit “, 184, 193 and 194”, substitute “and 184”.
+ The amendments made by this Part apply only on and after the day on which the reporting standards determined under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section&#160;15 of that Act to financial sector entities (within the meaning of that Act) that are registered under the _Life Insurance Act 1995_.
 
-## 78  Section 16 (definition of _lodge_)
+<center>**
 
-Repeal the definition.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;5&#151;Retirement Savings Accounts Act 1997 </part>
+**</center>
 
-## 79  Section 16 (paragraph (o) of the definition of _reviewable decision_)
+**
 
-Omit “182; or”, substitute “182.”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 76  Subparagraph 3(1)(a)(iv) 
+**
 
-## 80  Section 16 (paragraph (p) of the definition of _reviewable decision_)
+ Repeal the subparagraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(iv)</dt><dd>section&#160;183; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 77  Paragraph 3(2)(d) 
+**
+
+ Omit ", 184, 193 and 194", substitute "and 184".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 78  Section&#160;16 (definition of _lodge_) 
+**
+
+ Repeal the definition.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 79  Section&#160;16 (paragraph&#160;(o) of the definition of _reviewable decision_) 
+**
+
+Omit "182; or", substitute "182.".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 80  Section&#160;16 (paragraph&#160;(p) of the definition of _reviewable decision_) 
+**
 
 Repeal the paragraph.
 
-## 81  Section 37
+**
 
-Omit “and to require RSA providers to provide an annual return to APRA”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 81  Section&#160;37 
+**
 
-## 82  Paragraphs 44(1)(a) and (b)
+ Omit "and to require RSA providers to provide an annual return to APRA".
 
-Repeal the paragraphs.
+**
 
-_Note:       The heading to section 44 is replaced by the heading “RSA provider to give copy of audit report to APRA”._
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 82  Paragraphs 44(1)(a) and (b) 
+**
 
-## 83  At the end of subsection 44(1)
+ Repeal the paragraphs.
 
-Add:
+Note:	The heading to section&#160;44 is replaced by the heading "RSA provider to give copy of audit report to APRA".
 
-Note:          The _Financial Sector (Collection of Data) Act 2001_ makes provision for annual returns and other financial documents to be given by RSA providers to APRA.
+**
 
-## 84  Subsections 44(3) and (4)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 83  At the end of subsection 44(1) 
+**
 
-Repeal the subsections, substitute:
+ Add:
 
-Endorsement of report on return
+<dl compact=""><dl compact="">
 
-             (4)  If the return given under the _Financial Sector (Collection of Data) Act 2001_ is not given on a data processing device, or by way of electronic transmission, the report referred to in subsection (1) may be endorsed on the return.
+Note:	The _Financial Sector (Collection of Data) Act 2001_
 
-## 85  Subsection 64(2)
+makes provision for annual returns and other financial documents to be given by
 
-Omit “returns in accordance with section 44”, substitute “reporting documents referred to in section 13 of the _Financial Sector (Collection of Data) Act 2001_”.
+RSA providers to APRA.
 
-## 86  Subsections 65(1) and (3)
+ </dl></dl>
 
-After “regulations”, insert “and the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 87  Paragraph 66(1)(a)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 84  Subsections 44(3) and (4) 
+**
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+ Repeal the subsections, substitute:
 
-## 88  Subparagraphs 67(1)(a)(iii) and 68(1)(a)(iii)
+_Endorsement of report on return_
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+<dl compact=""><dl compact="">
 
-## 89  Subsection 95(1)
+<dt>(4)</dt><dd>If the return given under the _Financial Sector (Collection of Data) Act 2001_ is not given on a data processing device, or by way of electronic
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+transmission, the report referred to in subsection&#160;(1) may be endorsed on
 
-## 90  Subsection 144(2)
+the return.
 
-Repeal the subsection, substitute:
+</dd> </dl></dl>
 
-Financial returns
+**
 
-             (2)  The form of a financial return a copy of which is required to be given by an RSA provider to APRA under section 13 of the _Financial Sector (Collection of Data) Act 2001_ may require the return to contain the provider’s tax file number.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 85  Subsection 64(2) 
+**
 
-## 91  Subparagraph 161(1)(a)(ii)
+ Omit "returns in accordance with section&#160;44", substitute "reporting documents referred to in section&#160;13 of the _Financial Sector (Collection Back to Top of Data) Act 2001_".
 
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 93  Sections 193 and 194
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 86  Subsections 65(1) and (3) 
+**
 
-Repeal the sections.
+ After "regulations", insert "and the _Financial Sector (Collection of Data) Act 2001_".
 
-## 94  Application
+**
 
-The amendments made by this Part apply only on and after the day on which the reporting standards determined under section 13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section 15 of that Act to financial sector entities (within the meaning of that Act) that are RSA providers (within the meaning of the _Retirement Savings Accounts Act 1997_).
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 87  Paragraph 66(1)(a) 
+**
 
-<h7 class="ActHead7">Part 6—Superannuation Industry (Supervision) Act 1993</h7>
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-## 97  Paragraphs 36(1)(a) and (b)
+**
 
-Repeal the paragraphs.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 88  Subparagraphs 67(1)(a)(iii) and 68(1)(a)(iii) 
+**
 
-_Note:       The heading to section 36 is replaced by the heading “Trustee to give copy of audit report to APRA”._
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-## 98  After subsection 36(1)
+**
 
-Insert:
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 89  Subsection 95(1) 
+**
 
-Note:          The _Financial Sector (Collection of Data) Act 2001_ makes provision for annual returns and other financial documents to be given by trustees to APRA.
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-## 99  Subsections 36(3) and (4)
+**
 
-Repeal the subsections, substitute:
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 90  Subsection 144(2) 
+**
 
-Endorsement of report on return
+ Repeal the subsection, substitute:
 
-             (4)  If the return given under the _Financial Sector (Collection of Data) Act 2001_ is not given on a data processing device, or by way of electronic transmission, the report referred to in subsection (1) may be endorsed on the return.
+_Financial returns_
 
-## 100  Subsection 36(5)
+<dl compact=""><dl compact="">
 
-Omit “under this section”, substitute “under the _Financial Sector (Collection of Data) Act 2001_”.
+<dt>(2)</dt><dd>The form of a financial return a copy of which is required to be given by
 
-## 130A  After paragraph 111(1)(a)
+an RSA provider to APRA under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_&#160;may require the return to contain the
 
-Insert:
+provider's tax file number.
 
-                    (aa)  if the entity is not a self managed superannuation fund—so keep its accounts as to enable the preparation of reporting documents referred to in section 13 of the _Financial Sector (Collection of Data) Act 2001_; and
+</dd> </dl></dl>
 
-## 131  At the beginning of paragraph 111(1)(b)
+**
 
-Insert “if the entity is a self managed superannuation fund—”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 91  Subparagraph 161(1)(a)(ii) 
+**
 
-## 131A  Subparagraph 111(1)(b)(ii)
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
 
-Omit “36”, substitute “36A”.
+**
 
-## 132  Subsection 112(1)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 93  Sections&#160;193 and 194 
+**
 
-After “superannuation entity”, insert “that is a self managed superannuation fund”.
+ Repeal the sections.
 
-## 132A  Before paragraph 113(3)(a)
+**
 
-Insert:
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 94  Application 
+**
 
-                    (aa)  must, if it is approved for a superannuation entity that is not a self managed superannuation fund, either:
+ The amendments made by this Part apply only on and after the day on which the reporting standards determined under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section&#160;15 of that Act to financial sector entities (within the meaning of that Act) that are RSA providers (within the meaning of the _Retirement Savings Accounts Act 1997_).
 
-                              (i)  relate solely to the audit of financial statements given to APRA under the _Financial Sector (Collection of Data) Act 2001_ and prepared in respect of a year of income; or
+<center>**
 
-                             (ii)  relate not only to the audit of those statements, but also to the audit of such other accounts and statements, prepared in respect of a year of income, as are identified in the form; and
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;6&#151;Superannuation Industry (Supervision) Act 1993 </part>
+**</center>
 
-## 133  Paragraph 113(3)(a)
+**
 
-After “must”, insert “, if it is approved for a superannuation entity that is a self managed superannuation fund—”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 97  Paragraphs 36(1)(a) and (b) 
+**
 
-## 134  Paragraph 113(3)(b)
+ Repeal the paragraphs.
 
-After “regulations”, insert “and the _Financial Sector (Collection of Data) Act 2001_”.
+Note:	The heading to section&#160;36 is replaced by the heading "Trustee to give copy of audit report to APRA".
 
-## 135  Paragraphs 120A(1)(a) and (2)(a)
+**
 
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 98  After subsection 36(1) 
+**
 
-## 136  Paragraphs 129(1)(a) and (b)
+ Insert:
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+<dl compact=""><dl compact="">
 
-## 137  Paragraph 130(1)(b)
+Note:	The _Financial Sector (Collection of Data) Act 2001_
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+makes provision for annual returns and other financial documents to be given by
 
-## 138  Subparagraph 131(1)(a)(iii)
+trustees to APRA.
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+ </dl></dl>
 
-## 139  Subparagraph 131A(1)(a)(iii)
+**
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 99  Subsections 36(3) and (4) 
+**
 
-## 141  Paragraph 252G(1)(b)
+ Repeal the subsections, substitute:
 
-After “Act”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+_Endorsement of report on return_
 
-## 142  Subsection 252G(1) (note)
+<dl compact=""><dl compact="">
 
-Omit “section 36”, substitute “the _Financial Sector (Collection of Data) Act 2001_”.
+<dt>(4)</dt><dd>If the return given under the _Financial Sector (Collection of Data) Act 2001_ is not given on a data processing device, or by way of electronic
 
-## 142A  Subsection 252G(2) (note)
+transmission, the report referred to in subsection&#160;(1) may be endorsed on
 
-Omit “section 36”, substitute “the _Financial Sector (Collection of Data) Act 2001_”.
+the return.
 
-## 143  Paragraph 263(1)(a)
+</dd> </dl></dl>
 
-After “regulations”, insert “or the _Financial Sector (Collection of Data) Act 2001_”.
+**
 
-## 144  Subsection 299U(2)
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 100  Subsection 36(5) 
+**
 
-Repeal the subsection, substitute:
+ Omit "under this section", substitute "under the _Financial Sector (Collection of Data) Act 2001_".
 
-Financial return
+**
 
-             (2)  The form of a financial return a copy of which is required to be given by a superannuation entity to APRA under section 13 of the _Financial Sector (Collection of Data) Act 2001_ may require the return to contain the entity’s tax file number.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 130A  After paragraph 111(1)(a) 
+**
 
-## 145  Subparagraph 313(1)(a)(ii)
+ Insert:
 
-After “Act”, insert “or under the _Financial Sector (Collection of Data) Act 2001_ in connection with a superannuation entity”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 146  At the end of section 347A
+<dt>(aa)</dt><dd>if the entity is not a self managed superannuation fund&#151;so keep its
 
-Add:
+accounts as to enable the preparation of reporting documents referred to in
 
-           (13)  In this section:
+section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_;
 
-                    <a name="regul"></a>**_Regulator_** means the Commissioner of Taxation.
+and
 
-## 146A  At the end of section 348
+</dd>
 
-Add:
+</dl></dl></dl>
 
-             (4)  In this section:
+<center>Back to Top</center>
 
-                    <a name="regul"></a>**_Regulator_** means the Commissioner of Taxation.
+**
 
-## 147  Application
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 131  At the beginning of paragraph 111(1)(b) 
+**
 
-The amendments made by this Part apply only on and after the day on which the reporting standards determined under section 13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section 15 of that Act to financial sector entities (within the meaning of that Act) that are trustees of superannuation entities (within the meaning of the _Superannuation Industry (Supervision) Act 1993_).
+ Insert "if the entity is a self managed superannuation fund&#151;".
 
-<h7 class="ActHead7">Part 7—Other Acts</h7>
+**
 
-<h9 class="ActHead9">Broadcasting Services Act 1992</h9>
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 131A  Subparagraph 111(1)(b)(ii) 
+**
 
-## 148  Subclause 4(4) of Schedule 1 (subparagraph (c)(i) of the definition of _authorised lender_)
+ Omit "36", substitute "36A".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 132  Subsection 112(1) 
+**
+
+ After "superannuation entity", insert "that is a self managed superannuation fund".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 132A  Before paragraph 113(3)(a) 
+**
+
+ Insert:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(aa)</dt><dd>must, if it is approved for a superannuation entity that is not a self
+
+managed superannuation fund, either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>relate solely to the audit of financial statements given to APRA under the
+
+_Financial Sector (Collection of Data) Act 2001_ and prepared in respect
+
+of a year of income; or</dd>
+
+<dt>(ii)</dt><dd>relate not only to the audit of those statements, but also to the audit
+
+of such other accounts and statements, prepared in respect of a year of income,
+
+as are identified in the form; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 133  Paragraph 113(3)(a) 
+**
+
+ After "must", insert ", if it is approved for a superannuation entity that is a self managed superannuation fund&#151;".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 134  Paragraph 113(3)(b) 
+**
+
+ After "regulations", insert "and the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 135  Paragraphs 120A(1)(a) and (2)(a) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 136  Paragraphs 129(1)(a) and (b) 
+**
+
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 137  Paragraph 130(1)(b) 
+**
+
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 138  Subparagraph 131(1)(a)(iii) 
+**
+
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 139  Subparagraph 131A(1)(a)(iii) 
+**
+
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 141  Paragraph 252G(1)(b) 
+**
+
+ After "Act", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 142  Subsection 252G(1) (note) 
+**
+
+ Omit "section&#160;36", substitute "the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 142A  Subsection 252G(2) (note) 
+**
+
+ Omit "section&#160;36", substitute "the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 143  Paragraph 263(1)(a) 
+**
+
+ After "regulations", insert "or the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 144  Subsection 299U(2) 
+**
+
+ Repeal the subsection, substitute:
+
+_Financial return_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The form of a financial return a copy of which is required to be given by
+
+a superannuation entity to APRA under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_&#160;may require the return to contain
+
+the entity's tax file number.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 145  Subparagraph 313(1)(a)(ii) 
+**
+
+ After "Act", insert "or under the _Financial Sector (Collection of Data) Act 2001_ in connection with a superannuation entity".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 146  At the end of section&#160;347A 
+**
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(13)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Regulator_ means the Commissioner of Taxation.
+
+ </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 146A  At the end of section&#160;348 
+**
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Regulator_ means the Commissioner of Taxation.
+
+ </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 147  Application 
+**
+
+ The amendments made by this Part apply only on and after the day on which the reporting standards determined under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section&#160;15 of that Act to financial sector entities (within the meaning of that Act) that are trustees of superannuation entities (within the meaning of the _Superannuation Industry (Supervision) Act 1993_).
+
+<center>**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<part>Part&#160;7&#151;Other Acts </part>
+**</center>
+
+_Broadcasting Services Act 1992_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 148  Subclause 4(4) of Schedule&#160;1 (subparagraph&#160;(c)(i) of the definition of _authorised lender_) 
+**
 
 Repeal the subparagraph, substitute:
 
-                              (i)  that is a registered entity under the _Financial Sector (Collection of Data) Act 2001_; or
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Cheques Act 1986</h9>
+<dt>(i)</dt><dd>that is a registered entity under the _Financial Sector (Collection of Data) Act 2001_; or
 
-## 149  Subsection 3(1) (definition of _FCA institution_)
+</dd>
 
-Omit “registered corporation under the _Financial Corporations Act 1974_”, substitute “registered entity under the _Financial Sector (Collection of Data) Act 2001_”.
+</dl></dl></dl></dl>
 
-<h9 class="ActHead9">Financial Corporations (Transfer of Assets and Liabilities) Act 1993</h9>
+_Cheques Act 1986_
 
-## 150  Section 3 (paragraph (b) of the definition of _eligible subsidiary_)
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 149  Subsection 3(1) (definition of _FCA institution_) 
+**
+
+ Omit "registered corporation under the _Financial Corporations Act 1974_", substitute "registered entity under the _Financial Sector (Collection of Data) Act 2001_". 
+
+_Financial Corporations (Transfer of Assets and Liabilities) Act 1993_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 150  Section&#160;3 (paragraph&#160;(b) of the definition of _eligible subsidiary_) 
+**
 
 Repeal the paragraph, substitute:
 
-                     (b)  is a financial corporation that is a registered entity under the _Financial Sector (Collection of Data) Act 2001_; and
+<dl compact=""><dl compact=""><dl compact="">
 
-## 151  Paragraph 4(b)
+<dt>(b)</dt><dd>is a financial corporation that is a registered entity under the
 
-Repeal the paragraph, substitute:
+_Financial Sector (Collection of Data) Act 2001_; and
 
-                     (b)  is, under the _Financial Sector (Collection of Data) Act 2001_, a registered entity included in the category for money market corporations.
+</dd>
 
-<h9 class="ActHead9">Financial Institutions Supervisory Levies Collection Act 1998</h9>
+</dl></dl></dl>
 
-## 152  Paragraph 9(2)(a)
+**
 
-## 153  Transitional
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 151  Paragraph 4(b) 
+**
 
-The amendment made by item 152 applies to the payment of levy (within the meaning of the _Financial Institutions Supervisory Levies Collection Act 1998_) for the financial year beginning on 1 July 2002 and for all subsequent financial years.
+ Repeal the paragraph, substitute:
 
-<h9 class="ActHead9">Income Tax Assessment Act 1936</h9>
+<dl compact=""><dl compact=""><dl compact="">
 
-## 154  Subparagraph 128AE(2)(e)(i)
+<dt>(b)</dt><dd>is, under the _Financial Sector (Collection of Data) Act 2001_, a
 
-Repeal the subparagraph, substitute:
+registered entity included in the category for money market corporations.
 
-                              (i)  that is, under the _Financial Sector (Collection of Data) Act 2001_, a registered entity included in the category for money market corporations; or
+</dd>
 
-## 155  Section 159GZA (definition of _financial institution_)
+</dl></dl></dl>
+
+_Financial Institutions Supervisory Levies Collection Act 1998_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 152  Paragraph 9(2)(a) 
+**
+
+ Omit " of a return under section&#160;36 of the _Superannuation Industry (Supervision) Act 1993_", substitute "giving of a copy of a financial 
+<center>Back to Top</center>
+ statement to APRA under the _Financial Sector (Collection of Data) Act 2001_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 153  Transitional 
+**
+
+ The amendment made by item&#160;152 applies to the payment of levy (within the meaning of the _Financial Institutions Supervisory Levies Collection Act 1998_) for the financial year beginning on 1&#160;July 2002 and for all subsequent financial years. 
+
+_Income Tax Assessment Act 1936_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 154  Subparagraph 128AE(2)(e)(i) 
+**
+
+ Repeal the subparagraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>that is, under the _Financial Sector (Collection of Data) Act 2001_,
+
+a registered entity included in the category for money market corporations; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 155  Section&#160;159GZA (definition of _financial institution_) 
+**
 
 Repeal the definition, substitute:
 
-                    <a name="financi-institut"></a>**_financial institution_** has the meaning given by section 159GZAA.
+<def><dl compact=""><dl compact="">
 
-## 156  After section 159GZA
+_financial institution_ has the meaning given by
 
-Insert:
+section&#160;159GZAA.
 
-##### <a id="159GZAA"></a>159GZAA  Financial institution
+ </dl></dl>
 
-             (1)  In this Division, unless the contrary intention applies:
+**
 
-                    <a name="financi-institut"></a>**_financial institution_** means:
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 156  After section&#160;159GZA 
+**
 
-                     (a)  a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_; or
+ Insert: 
 
-                     (b)  a corporation to which subsection (2) applies.
+**
 
-             (2)  This subsection applies to a corporation that is a registrable corporation for the purposes of the _Financial Sector (Collection of Data) Act 2001_ because of paragraph 6(1)(a) or (b) of that Act or would be such a registrable corporation because of that paragraph if paragraphs 6(2)(h), (i) and (j) of that Act were omitted and the following paragraph substituted:
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 159GZAA  Financial institution 
+**
 
-                     (h)  the sole or principal purpose for which the corporation borrows money is to lend money to an associate, within the meaning of Division 16F of Part III of the _Income Tax Assessment Act 1936_, of the corporation or of a foreign controller, within the meaning of that Division, of the corporation.
+ <dl compact=""><dl compact="">
 
-## 157  Section 317 (paragraph (c) of the definition of _AFI_ or _Australian Financial Institution_)
+<dt>(1)</dt><dd>In this Division, unless the contrary intention applies:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_financial institution_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a body corporate that is an ADI (authorised deposit-taking institution)
+
+for the purposes of the _Banking Act 1959_; or</dd>
+
+<dt>(b)</dt><dd>a corporation to which subsection&#160;(2) applies.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>This subsection applies to a corporation that is a registrable corporation
+
+for the purposes of the _Financial Sector (Collection of Data) Act 2001_
+
+because of paragraph 6(1)(a) or (b) of that Act or would be such a registrable
+
+corporation because of that paragraph if paragraphs 6(2)(h), (i) and (j) of
+
+that Act were omitted and the following paragraph substituted:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(h)</dt><dd>the sole or principal purpose for which the corporation borrows money is
+
+to lend money to an associate, within the meaning of Division&#160;16F of
+
+Part&#160;III of the _Income Tax Assessment Act 1936_, of the corporation
+
+or of a foreign controller, within the meaning of that Division, of the
+
+corporation.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 157  Section&#160;317 (paragraph&#160;(c) of the definition of _AFI_ or _Australian Financial Institution_) 
+**
 
 Repeal the paragraph, substitute:
 
-                     (c)  a registered entity under the _Financial Sector (Collection of Data) Act 2001_;
+<dl compact=""><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Insurance Acquisitions and Takeovers Act 1991</h9>
+<dt>(c)</dt><dd>a registered entity under the _Financial Sector (Collection of Data) Act 2001_;
 
-## 158  Section 4 (definition of _value_)
+</dd>
 
-Repeal the definition, substitute:
+</dl></dl></dl>
 
-                    <a name="valu"></a>**_value_** of an asset of a company at a particular time means the amount that, if:
+_Insurance Acquisitions and Takeovers Act 1991_
 
-                     (a)  an accounting period of the company had ended at that time; and
+**
 
-                     (b)  the company had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, that accounting period; and
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 158  Section&#160;4 (definition of _value_) 
+**
 
-                     (c)  the financial statements had been prepared in accordance with applicable accounting principles;
+ Repeal the definition, substitute:
+
+<def><dl compact=""><dl compact="">
+
+_value_ of an asset of a company at a particular time means the
+
+amount that, if:
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an accounting period of the company had ended at that time; and</dd>
+
+<dt>(b)</dt><dd>the company had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end
+
+of, that accounting period; and</dd>
+
+<dt>(c)</dt><dd>the financial statements had been prepared in accordance with applicable
+
+accounting principles;
+
+</dd>
+
+</dl></dl></dl>
 
 would have been shown in those statements as the value of the asset at that time.
 
-## 159  Sections 77, 78 and 79
+**
 
-Repeal the sections, substitute:
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 159  Sections&#160;77, 78 and 79 
+**
 
-##### <a id="77"></a>77  Company’s financial statements to be prima facie evidence of value of its assets
+ Repeal the sections, substitute: 
 
-             (1)  This section applies if:
+**
 
-                     (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business, or a company registered under the _Life Insurance Act 1995_, had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 77  Company's financial statements to be prima facie evidence of value of its assets 
+**
 
-                     (b)  an amount is shown in those statements as the value of an asset of the company as at the end of the accounting period.
+<dl compact=""><dl compact="">
 
-             (2)  For the purposes of this Act, the financial statements are prima facie evidence of the value of the asset as at the end of the accounting period.
+<dt>(1)</dt><dd>This section applies if:
 
-             (3)  APRA may certify that a document is a copy of the financial statements.
+</dd> </dl></dl>
 
-             (4)  This section applies to the certified copy as if it were the original.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="78"></a>78  Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance
+<dt>(a)</dt><dd>a company authorised under the _Insurance Act 1973_ to carry on
 
-             (1)  This section applies if:
+insurance business, or a company registered under the _Life Insurance Act 1995_, had, under the _Financial Sector (Collection of Data) Act 2001_,
 
-                     (a)  a company registered under the _Life Insurance Act 1995_ had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
+given to APRA copies of financial statements for, or as at the end of, a
 
-                     (b)  an amount is shown in those statements as the total net liabilities in respect of all of the company’s contracts of life insurance as at the end of the accounting period.
+particular accounting period; and</dd>
 
-             (2)  For the purposes of this Act, the financial statements are prima facie evidence of the total net liabilities in respect of all of the company’s contracts of life insurance as at the end of the accounting period.
+<dt>(b)</dt><dd>an amount is shown in those statements as the value of an asset of the
 
-             (3)  APRA may certify that a document is a copy of the financial statements.
+company as at the end of the accounting period.
 
-             (4)  This section applies to the certified copy as if it were the original.
+</dd>
 
-##### <a id="79"></a>79  Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision
+</dl></dl></dl>
 
-             (1)  This section applies if:
+<dl compact=""><dl compact="">
 
-                     (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
+<dt>(2)</dt><dd>For the purposes of this Act, the financial statements are prima facie
 
-                     (b)  either:
+evidence of the value of the asset as at the end of the accounting period.</dd> <dt>(3)</dt><dd>APRA may certify that a document is a copy of the financial statements.</dd> <dt>(4)</dt><dd>This section applies to the certified copy as if it were the original. </dd> </dl></dl>
 
-                              (i)  an amount is shown in those statements as the company’s unearned premiums provision as at the end of the accounting period; or
+**
 
-                             (ii)  an amount is shown in those statements as the company’s outstanding claims provision as at the end of the accounting period.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 78  Company's financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance 
+**
 
-             (2)  For the purposes of this Act, the financial statements are prima facie evidence of:
+<dl compact=""><dl compact="">
 
-                     (a)  if subparagraph (1)(b)(i) applies—the company’s unearned premiums provision as at the end of the accounting period; or
+<dt>(1)</dt><dd>This section applies if:
 
-                     (b)  if subparagraph (1)(b)(ii) applies—the company’s outstanding claims provision as at the end of the accounting period.
+</dd> </dl></dl>
 
-             (3)  APRA may certify that a document is a copy of the financial statements.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  This section applies to the certified copy as if it were the original.
+<dt>(a)</dt><dd>a company registered under the _Life Insurance Act 1995_ had, under
 
-## 160  Application
+the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies
 
-The amendments made by items 158 and 159 apply to financial sector entities (within the meaning of the _Financial Sector (Collection of Data) Act 2001_) that are companies authorised under the _Insurance Act 1973_ to carry on insurance business, or companies registered under the _Life Insurance Act 1995_, only on and after the day on which the reporting standards determined under section 13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section 15 of that Act to the financial sector entities concerned.
+of financial statements for, or as at the end of, a particular accounting
 
-<h9 class="ActHead9">National Crime Authority Act 1984</h9>
+period; and</dd>
 
-## 161  Schedule 1
+<dt>(b)</dt><dd>an amount is shown in those statements as the total net liabilities in
 
-Omit “_Financial Corporations Act 1974_, section 27”.
+respect of all of the company's contracts of life insurance as at the end of
 
-<h9 class="ActHead9">Reserve Bank Act 1959</h9>
+the accounting period.
 
-## 162  Subsection 79A(1) (definition of _protected document_)
+</dd>
 
-Omit “, the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_”, substitute “or the repealed _Banks (Shareholdings) Act 1972_”.
+</dl></dl></dl>
 
-## 163  Subsection 79A(1) (definition of _protected information_)
+<dl compact=""><dl compact="">
 
-Omit “, the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_”, substitute “or the repealed _Banks (Shareholdings) Act 1972_”.
+<dt>(2)</dt><dd>For the purposes of this Act, the financial statements are prima facie
 
-## 164  Subsection 79A(2)
+evidence of the total net liabilities in respect of all of the company's
 
-Omit “, the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_”, substitute “or the repealed _Banks (Shareholdings) Act 1972_”.
+contracts of life insurance as at the end of the accounting period.</dd> <dt>(3)</dt><dd>APRA may certify that a document is a copy of the financial statements.</dd> <dt>(4)</dt><dd>This section applies to the certified copy as if it were the original. </dd> </dl></dl>
 
-## 165  Subsection 79A(8)
+**
 
-Omit “, the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_”, substitute “or the repealed _Banks (Shareholdings) Act 1972_”.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 79  Company's financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision 
+**
 
-<h9 class="ActHead9">Taxation Administration Act 1953</h9>
+<dl compact=""><dl compact="">
 
-## 166  Section 13L (paragraph (c) of the definition of _financial institution_)
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a company authorised under the _Insurance Act 1973_ to carry on
+
+insurance business had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end
+
+of, a particular accounting period; and</dd>
+
+<dt>(b)</dt><dd>either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an amount is shown in those statements as the company's unearned premiums
+
+provision as at the end of the accounting period; or</dd>
+
+<dt>(ii)</dt><dd>an amount is shown in those statements as the company's outstanding
+
+claims provision as at the end of the accounting period.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this Act, the financial statements are prima facie
+
+evidence of:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if subparagraph&#160;(1)(b)(i) applies&#151;the company's unearned premiums
+
+provision as at the end of the accounting period; or</dd>
+
+<dt>(b)</dt><dd>if subparagraph&#160;(1)(b)(ii) applies&#151;the company's outstanding claims
+
+provision as at the end of the accounting period.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>APRA may certify that a document is a copy of the financial statements.</dd> <dt>(4)</dt><dd>This section applies to the certified copy as if it were the original. </dd> </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 160  Application 
+**
+
+ The amendments made by items&#160;158 and 159 apply to financial sector entities (within the meaning of the _Financial Sector (Collection of Data) Act 2001_) that are companies authorised under the _Insurance Act 1973_ to carry on insurance business, or companies registered under the _Life Insurance Act 1995_, only on and after the day on which the reporting standards determined under section&#160;13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section&#160;15 of that Act to the financial sector entities concerned. 
+
+_National Crime Authority Act 1984_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 161  Schedule&#160;1 
+**
+
+ Omit "_Financial Corporations Act 1974_, section&#160;27". 
+
+_Reserve Bank Act 1959_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 162  Subsection 79A(1) (definition of _protected document_) 
+**
+
+Omit ", the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_", substitute "or the repealed _Banks (Shareholdings) Act 1972_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 163  Subsection 79A(1) (definition of _protected information_) 
+**
+
+Omit ", the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_", substitute "or the repealed _Banks (Shareholdings) Act 1972_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 164  Subsection 79A(2) 
+**
+
+ Omit ", the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_", substitute "or the repealed _Banks (Shareholdings) Act 1972_".
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 165  Subsection 79A(8) 
+**
+
+ Omit ", the repealed _Banks (Shareholdings) Act 1972_ or the _Financial Corporations Act 1974_", substitute "or the repealed _Banks (Shareholdings) Act 1972_". 
+
+_Taxation Administration Act 1953_
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 166  Section&#160;13L (paragraph&#160;(c) of the definition of _financial institution_) 
+**
 
 Repeal the paragraph, substitute:
 
-                     (c)  a registered entity under the _Financial Sector (Collection of Data) Act 2001_.
+<dl compact=""><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Telecommunications (Consumer Protection and Service Standards) Act 1999</h9>
+<dt>(c)</dt><dd>a registered entity under the _Financial Sector (Collection of Data) Act 2001_.
 
-## 167  Paragraph 90(3)(d)
+</dd>
 
-Omit “registered corporation within the meaning of the _Financial Corporations Act 1974_”, substitute “registered entity under the _Financial Sector (Collection of Data) Act 2001_”.
+</dl></dl></dl>
 
-###### Schedule 3—Transitional provisions
+_Telecommunications (Consumer Protection and Service Standards) Act 1999_
 
-## 1  Treatment of certain exemptions and determinations in connection with obligations of corporations to register
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 167  Paragraph 90(3)(d) 
+**
+
+ Omit "registered corporation within the meaning of the _Financial Corporations Act 1974_", substitute "registered entity under the _Financial Sector (Collection of Data) Act 2001_".
+
+<center>**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001Schedule&#160;3&#151;Transitional provisions 
+**</center>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 1  Treatment of certain exemptions and determinations in connection with obligations of corporations to register 
+**
 
 An exemption or determination by the Reserve Bank that was in force immediately before the commencement of this Schedule under paragraph 8(2)(l) of the _Financial Corporations Act 1974_ continues to have effect as if it were an exemption or determination by APRA under paragraph 7(2)(j) of the _Financial Sector (Collection of Data) Act 2001_.
 
-## 2  Former Register of Corporations
+**
 
-On the commencement of this Schedule, the Register of Corporations that, immediately before that commencement, was kept by the Reserve Bank under subsection 9(9) of the _Financial Corporations Act 1974_ continues in existence as the Register of Entities kept by APRA under section 8 of the _Financial Sector (Collection of Data) Act 2001_.
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 2  Former Register of Corporations 
+**
 
-## 3  Former list of registered corporations and categories
+ On the commencement of this Schedule, the Register of Corporations that, immediately before that commencement, was kept by the Reserve Bank under subsection 9(9) of the _Financial Corporations Act 1974_ continues in existence as the Register of Entities kept by APRA under section&#160;8 of the _Financial Sector (Collection of Data) Act 2001_.
 
-(1)        On the commencement of this Schedule:
+**
 
-                     (a)  the list (the **_former list_**) of registered corporations, divided into categories, that, immediately before that commencement, was prepared by the Reserve Bank under section 10 of the _Financial Corporations Act 1974_ continues in existence as a list (the **_new list_**) of the names of registered entities, divided into categories, kept by APRA under subsection 11(1) of the _Financial Sector (Collection of Data) Act 2001_; and
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 3  Former list of registered corporations and categories 
+**
 
-                     (b)  a reference in any instrument having effect under an Act to a corporation included in a particular category in the former list is taken to be a reference to that corporation in its capacity as a registered entity included in the corresponding category in the new list.
+ (1)	On the commencement of this Schedule:
 
-(2)        An obligation on the Reserve Bank to publish notice, or to notify a person, of a matter under section 10 of the _Financial Corporations Act 1974_, being an obligation that is undischarged as at the commencement of this Schedule, becomes, on that commencement, an obligation that APRA is to discharge in respect of the corresponding matter under section 11 of the _Financial Sector (Collection of Data) Act 2001_.
+<dl compact=""><dl compact=""><dl compact="">
 
-(3)        A determination by the Reserve Bank that was in force under a provision of section 10 of the _Financial Corporations Act 1974_ immediately before the commencement of this Schedule continues to have effect, after that commencement, as if it were a determination by APRA under the corresponding provision of section 11 of the _Financial Sector (Collection of Data) Act 2001_.
+<dt>(a)</dt><dd>the list (the _former list_) of registered corporations,
 
-(4)        A request to the Reserve Bank under subsection 10(7) of the _Financial Corporations Act 1974_ that has not been dealt with by the commencement of this Schedule is, after that commencement, to be dealt with by APRA as if it were a request under subsection 11(7) of the _Financial Sector (Collection of Data) Act 2001_.
+divided into categories, that, immediately before that commencement, was
 
-## 4  Definitions
+prepared by the Reserve Bank under section&#160;10 of the _Financial Corporations Act 1974_ continues in existence as a list (the _new list_) of the names of registered entities, divided into categories,
 
-In this Schedule:
+kept by APRA under subsection 11(1) of the _Financial Sector (Collection of Data) Act 2001_; and</dd>
 
-**_APRA_** means the Australian Prudential Regulation Authority.
+<dt>(b)</dt><dd>a reference in any instrument having effect under an Act to a corporation
 
-**_Reserve Bank_** means the Reserve Bank of Australia.
+included in a particular category in the former list is taken to be a reference
 
- 
+to that corporation in its capacity as a registered entity included in the
+
+corresponding category in the new list.
+
+</dd>
+
+</dl></dl></dl>
+
+(2)	An obligation on the Reserve Bank to publish notice, or to notify a person, of a matter under section&#160;10 of the _Financial Corporations Act 1974_, being an obligation that is undischarged as at the commencement of this Schedule, becomes, on that commencement, an obligation that APRA is to discharge in respect of the corresponding matter under section&#160;11 of the _Financial Sector (Collection of Data) Act 2001_.
+ (3)	A determination by the Reserve Bank that was in force under a provision of section&#160;10 of the _Financial Corporations Act 1974_ immediately before the commencement of this Schedule continues to have effect, after that commencement, as if it were a determination by APRA under the corresponding provision of section&#160;11 of the _Financial Sector (Collection of Data) Act 2001_.
+ (4)	A request to the Reserve Bank under subsection 10(7) of the _Financial Corporations Act 1974_ that has not been dealt with by the commencement of this Schedule is, after that commencement, to be dealt with by APRA as if it were a request under subsection 11(7) of the _Financial Sector (Collection of Data) Act 2001_.
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001- SECT 4  Definitions 
+**
+
+ In this Schedule:
+ _APRA_ means the Australian Prudential Regulation Authority.
+ _Reserve Bank_ means the Reserve Bank of Australia. 
+
+<center>**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA&#151;CONSEQUENTIAL AND TRANSITIONAL PROVISIONS) ACT 2001<centreit>Notes to the _Financial Sector (Collection of DataConsequential and Transitional Provisions) Act 2001_ </centreit>
+**</center>
+
+**Note 1**
+
+Act No.&#160;121, 2001; assented to 24 September 2001.
+ Ss. 1-3 commenced on Royal Assent.
+Remainder: _see_ s. 2 and _Gazette_ 2001, No. S401.
+
+</def></def></def></def></def>
+
+</def></def></def>
+
+</def>
+
+
