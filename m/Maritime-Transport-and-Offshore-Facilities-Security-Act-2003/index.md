@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00334/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00186/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
 
 # Maritime Transport and Offshore Facilities Security Act 2003
 
 **Act No. 131 of 2003 as amended**
 
-This compilation was prepared on 17 July 2008
+This compilation was prepared on 28 March 2007
  taking into account amendments up to Act No. 8 of 2007
 
 The text of any of those amendments not in force
@@ -110,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Security levels and complying with plans
 
-[26](#26).          Maritime security level 1, 2 or 3 applies with security directions
+[26](#26).          Maritime security level 1, 2 or 3 applies with security directions [_see_ Note 2]
 
     **Division 3—Notifying maritime security level 2 and 3 declarations and revocations**
 
@@ -1119,7 +1119,7 @@ Note:          This table relates only to the provisions of th
 
 ### Division 2—Purpose and simplified overview of this Act
 
-##### <a id="3"></a>3  Purpose of this Act
+##### <a id="3"></a>3  Purpose of this Act
 
              (1)  The purpose of this Act is to safeguard against unlawful interference with maritime transport or offshore facilities.
 
@@ -1549,7 +1549,7 @@ Note:          A passenger ship may also be a cargo ship.
 
                     <a name="incid-report-respons"></a><a name="person"></a>**_person with_** **_incident reporting responsibilities_** has the meaning given by subsection 175(4).
 
-                    <a name="petroleum"></a>**_petroleum_** has the same meaning as in the _Offshore Petroleum Act 2006_.
+                    <a name="petroleum"></a>**_petroleum_** has the same meaning as in the _Petroleum (Submerged Lands) Act 1967_.
 
                     <a name="port"></a>**_port_** has the meaning given by section 12.
 
@@ -1881,7 +1881,7 @@ Note:          A FPSO or FSU is both a ship and an offshore fa
 
                      (c)  the views of the person, or persons, responsible for managing the operations of the facility; and
 
-                     (d)  whether the person is the operator in relation to the facility for the purposes of Schedule 3 to the _Offshore Petroleum Act 2006_.
+                     (d)  whether the person is the operator in relation to the facility for the purposes of Schedule 7 to the _Petroleum (Submerged Lands) Act 1967_.
 
 ### Division 7B—Offences and enforcement action in relation to non-regulated foreign ships
 
@@ -2271,7 +2271,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  if the maritime industry participant conducts operations covered by the declaration within a security regulated offshore facility and is not the offshore facility operator—the offshore facility operator.
 
-##### <a id="31"></a>31  Notifying revocations
+##### <a id="31"></a>31  Notifying revocations
 
 Secretary must notify of revocations
 
@@ -7424,14 +7424,15 @@ Remainder: Royal Assent</div>
     <div>26 June 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2, 15–21, 
-23–28, 33–38, 
+    <div>Schedule 1 
+(items 1, 2, 15–21, 23–28, 33–38, 
 40–42, 44–47, 
 58–60, 96, 97, 105, 145–155, 209–214, 
 217–225): 27 June 2005 
-Schedule 1 (items 3–14, 22, 29–32, 39, 43, 48–57, 
-61–95, 98–104, 106–144, 
-156–208, 215, 216): 30 Sept 2005 ( <i>see</i>F2005L02681) 
+Schedule 1 
+(items 3–14, 22, 29–32, 39, 43, 
+48–57, 61–95, 
+98–104, 106–144, 156–208, 215, 216): 30 Sept 2005 ( <i>see</i>F2005L02681) 
 Schedule 2: <i>(a)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -7485,7 +7486,7 @@ Remainder: Royal Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 44, 45): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
+    <div>Schedule 2 (items 44, 45): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -7503,7 +7504,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (item 1) and Schedule 2: 28 Sept 2006 
-Schedule 1 (items 2–4): 27 Mar 2007 
+Schedule 1 (items 2–4): 27 Mar 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -7522,7 +7523,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1: 6 Nov 2006 ( <i>see</i>F2006L03565) 
-Schedule 2 (items 36, 37): Royal Assent</div>
+Schedule 2 (items 36, 37): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 42)</div>
@@ -7797,7 +7798,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 67, 2005; Nos. 17 and 103, 2006</div>
+    <div>am. No. 67, 2005; No. 103, 2006</div>
   </td>
 </tr>
 <tr>
@@ -7866,26 +7867,10 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div>Ss. 17A, 17B</div>
+    <div>Ss. 17A–17C</div>
   </td>
   <td>
     <div>ad. No. 67, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17C</div>
-  </td>
-  <td>
-    <div>ad. No. 67, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 17, 2006</div>
   </td>
 </tr>
 <tr>
@@ -9696,6 +9681,25 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>am. No. 67, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+ (No. 17, 2006)_
+
+The following amendments commence on proclamation:
+
+## Schedule 2
+
+## 44  Section 10 (definition of _petroleum_)
+
+Omit “_Petroleum (Submerged Lands) Act 1967_”, substitute “_Offshore Petroleum Act 2006_”.
+
+## 45  Paragraph 17C(2)(d)
+
+Omit “Schedule 7 to the _Petroleum (Submerged Lands) Act 1967_”, substitute “Schedule 3 to the _Offshore Petroleum Act 2006_”.
+
+As at 28 March 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
