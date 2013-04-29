@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00179/Html/6BBD4394165DC2D1CA25715500824199/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00362/Html/9ACE4E919F29B08CCA25700E001FF0E7/$FILE/image001.gif)
 
 # Australian Institute of Marine Science Act 1972
 
-**Act No. 55 of 1972 as amended**
+**Act No. 55 of 1972 as amended**
 
-This compilation was prepared on 11 April 2006
-taking into account amendments up to Act No. 30 of 2006
+This compilation was prepared on 26 May 2005
+taking into account amendments up to Act No. 54 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -34,7 +34,7 @@ Canberra
 
 [6](#6).            Application of Act outside Australia
 
-**Part II—Australian Institute of Marine Science**
+**Part II—Australian Institute of Marine Science**
 
 [7](#7).            The Institute
 
@@ -42,7 +42,7 @@ Canberra
 
 [10](#10).          Powers of Institute
 
-**Part III—Council of the Institute**
+**Part III—Council of the Institute**
 
 [10A](#10A).       Interpretation
 
@@ -88,7 +88,7 @@ Canberra
 
 [30](#30).          Acting Chief Executive Officer
 
-**Part V—Staff**
+**Part V—Staff**
 
 [33](#33).          Appointment of officers
 
@@ -96,7 +96,7 @@ Canberra
 
 [35](#35).          Temporary and casual employees
 
-**Part VI—Finance**
+**Part VI—Finance**
 
 [36](#36).          Moneys payable to Institute
 
@@ -116,7 +116,7 @@ Canberra
 
 [43](#43).          Exemption from taxation
 
-**Part VII—Miscellaneous**
+**Part VII—Miscellaneous**
 
 [45](#45).          Committees
 
@@ -128,11 +128,11 @@ Canberra
 
 [50](#50).          Fees and agreements for investigations
 
-[50A](#50A).       Delegation of powers by Finance Minister
-
 [51](#51).          Regulations
 
 **Notes** 
+
+ 
 
 
 ## An Act relating to the Australian Institute of Marine Science
@@ -157,7 +157,7 @@ Canberra
 
                     <a name="acting-chief-execut-offic"></a>**_Acting Chief Executive Officer_** means an acting Chief Executive Officer of the Institute appointed under section 30.
 
-                    <a name="acting-member"></a>**_acting member_** means an acting Chairperson, Acting Chief Executive Officer or other acting member appointed under section 17.
+                    <a name="acting-member"></a>**_acting member_** means an acting Chairperson, Acting Chief Executive Officer or other acting member appointed under section 17.
 
                     <a name="applic-us"></a>**_application and use_** means:
 
@@ -185,7 +185,7 @@ Canberra
 
                     <a name="council"></a>**_the Council_** means the Council of the Institute.
 
-                    <a name="institut"></a>**_the Institute_** means the Australian Institute of Marine Science referred to in section 7.
+                    <a name="institut"></a>**_the Institute_** means the Australian Institute of Marine Science referred to in section 7.
 
                     <a name="vessel"></a>**_vessel_** includes ship, boat or other craft.
 
@@ -193,11 +193,11 @@ Canberra
 
                    The Institute is not limited, in the performance of its functions and the exercise of its powers, to Australia and the territorial waters of Australia and this Act applies both within and outside Australia and extends to all the external Territories.
 
-## Part II—Australian Institute of Marine Science
+## Part II—Australian Institute of Marine Science
 
 ##### <a id="7"></a>7  The Institute
 
-             (1)  Notwithstanding the repeal effected by section 4, the institute established by the _Australian Institute of Marine Science Act 1970_ under the name of the Australian Institute of Marine Science is continued in existence by this Act under that name.
+             (1)  Notwithstanding the repeal effected by section 4, the institute established by the _Australian Institute of Marine Science Act 1970_ under the name of the Australian Institute of Marine Science is continued in existence by this Act under that name.
 
              (2)  The Institute:
 
@@ -249,7 +249,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (h)  to make available to other persons, on a commercial basis, the knowledge, expertise, equipment, facilities, resources and property of the Institute; and
 
-                      (i)  to do anything incidental or conducive to the performance of any of the functions in paragraphs (a) to (h).
+                      (i)  to do anything incidental or conducive to the performance of any of the functions in paragraphs (a) to (h).
 
              (2)  The Institute may perform its functions to the extent only that they are not in excess of the functions that may be conferred on it by virtue of any of the legislative powers of the Parliament and, in particular, may perform its functions:
 
@@ -297,7 +297,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (1)  Subject to any directions of the Minister, whether general or with respect to a particular matter, the Institute has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-             (2)  Without limiting the generality of subsection (1), the powers of the Institute referred in that subsection include power:
+             (2)  Without limiting the generality of subsection (1), the powers of the Institute referred in that subsection include power:
 
                      (a)  to enter into contracts;
 
@@ -337,7 +337,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  The Governor-General may make available, for the purposes of the Institute, any land or buildings owned or held under lease by the Commonwealth.
 
-## Part III—Council of the Institute
+## Part III—Council of the Institute
 
 ##### <a id="10A"></a>10A  Interpretation
 
@@ -385,9 +385,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
-                     (b)  is absent, except on leave granted by the Minister, from 3 consecutive meetings of the Council; or
+                     (b)  is absent, except on leave granted by the Minister, from 3 consecutive meetings of the Council; or
 
-                     (c)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
+                     (c)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
 
                      (d)  is covered by subsection (2);
 
@@ -413,7 +413,7 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
              (2)  A member or acting member shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="20"></a>20  Meetings of Council
 
@@ -483,9 +483,9 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
                      (b)  is guilty of misbehaviour;
 
-                     (c)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+                     (c)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (d)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (d)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Governor-General shall remove the Chief Executive Officer from office.
 
@@ -493,7 +493,7 @@ the Governor-General shall remove the Chief Executive Officer from office.
 
              (1)  The Chief Executive Officer shall not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
 
-             (2)  The Minister shall not give an approval for the purposes of subsection (1) unless satisfied that the paid employment will not interfere with the performance of the duties of the Chief Executive Officer under this Act.
+             (2)  The Minister shall not give an approval for the purposes of subsection (1) unless satisfied that the paid employment will not interfere with the performance of the duties of the Chief Executive Officer under this Act.
 
 ##### <a id="30"></a>30  Acting Chief Executive Officer
 
@@ -505,9 +505,9 @@ the Governor-General shall remove the Chief Executive Officer from office.
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (3)  Where a person is acting in the office of Chief Executive Officer in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+             (3)  Where a person is acting in the office of Chief Executive Officer in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
 
              (4)  The Minister may:
 
@@ -515,13 +515,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  terminate such an appointment at any time.
 
-             (5)  An appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+             (5)  An appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
              (6)  While a person is acting in the office of Chief Executive Officer, the person has and may exercise all the powers, and shall perform all the functions, of the Chief Executive Officer.
 
              (7)  The validity of anything done by or in relation to a person purporting to act in the office of Chief Executive Officer shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
-## Part V—Staff
+## Part V—Staff
 
 ##### <a id="33"></a>33  Appointment of officers
 
@@ -537,13 +537,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (4)  The terms and conditions of employment of employees shall be such as are determined by the Council.
 
-## Part VI—Finance
+## Part VI—Finance
 
 ##### <a id="36"></a>36  Moneys payable to Institute
 
              (1)  There are payable to the Institute such moneys as are appropriated by the Parliament for the purposes of the Institute.
 
-             (2)  The Finance Minister may give directions as to the amounts in which and the times at which, moneys referred to in subsection (1) are to be paid to the Institute.
+             (2)  The Finance Minister may give directions as to the amounts in which and the times at which, moneys referred to in subsection (1) are to be paid to the Institute.
 
 ##### <a id="38"></a>38  Application of moneys
 
@@ -555,11 +555,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (c)  in making any other payments which the Institute is authorised or required to make under this Act or any other law.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="42"></a>42  Limit on contracts
 
-                   The Institute shall not, except with the approval of the Minister, enter into a contract involving the payment by the Institute of an amount  exceeding:
+                   The Institute shall not, except with the approval of the Minister, enter into a contract involving the payment by the Institute of an amount  exceeding:
 
                      (a)  $1 million; or
 
@@ -609,7 +609,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  a document executed by or on behalf of the Institute for the purposes of a borrowing by the Institute.
 
-## Part VII—Miscellaneous
+## Part VII—Miscellaneous
 
 ##### <a id="45"></a>45  Committees
 
@@ -619,7 +619,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
           (2A)  A member of a Committee shall be paid such remuneration by way of fees as is determined by the Remuneration Tribunal and such allowances as are prescribed.
 
-          (2B)  Subsection (2A) has effect subject to the _Remuneration Tribunal Act 1973_.
+          (2B)  Subsection (2A) has effect subject to the _Remuneration Tribunal Act 1973_.
 
              (3)  A member of a Committee shall hold office on such terms and conditions as the Council with the approval of the Minister determines.
 
@@ -643,21 +643,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                    The Council may charge such fees, and may agree to such conditions, as it thinks fit for investigations carried out by the Institute at the request of any person.
 
-##### <a id="50A"></a>50A  Delegation of powers by Finance Minister
-
-             (1)  The Finance Minister may, by written instrument, delegate to an official (within the meaning of the _Financial Management and Accountability Act 1997_) the power:
-
-                     (a)  to approve the provision of guarantees as mentioned in paragraph 10(2)(hb); or
-
-                     (b)  to approve the borrowing of money on terms and conditions specified in, or consistent with, the approval as mentioned in subsection 42B(1); or
-
-                     (c)  to enter into contracts as mentioned in subsection 42C(1); or
-
-                     (d)  to make determinations as mentioned in subsection 42C(2).
-
-             (2)  In exercising power under a delegation, the official must comply with any directions of the Finance Minister.
-
-##### <a id="51"></a>51  Regulations
+##### <a id="51"></a>51  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for penalties not exceeding a fine of $100 for offences against the regulations
 
@@ -666,7 +652,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ### Note 1
 
-The _Australian Institute of Marine Science Act 1972_ as shown in this compilation comprises Act No. 55, 1972 amended as indicated in the Tables below. 
+The _Australian Institute of Marine Science Act 1972_ as shown in this compilation comprises Act No. 55, 1972 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -714,10 +700,10 @@ of Assent
       <div>55, 1972</div>
     </td>
     <td>
-      <div>9 June 1972</div>
+      <div>9 June 1972</div>
     </td>
     <td>
-      <div>1 July 1972 ( <i>see Gazette</i>1972, No. 53, p. 5)</div>
+      <div>1 July 1972 ( <i>see Gazette</i>1972, No. 53, p. 5)</div>
     </td>
     <td>
       <div></div>
@@ -731,10 +717,10 @@ of Assent
       <div>61, 1973</div>
     </td>
     <td>
-      <div>18 June 1973</div>
+      <div>18 June 1973</div>
     </td>
     <td>
-      <div>18 June 1973</div>
+      <div>18 June 1973</div>
     </td>
     <td>
       <div>—</div>
@@ -765,10 +751,10 @@ of Assent
       <div>36, 1978</div>
     </td>
     <td>
-      <div>12 June 1978</div>
+      <div>12 June 1978</div>
     </td>
     <td>
-      <div>12 June 1978</div>
+      <div>12 June 1978</div>
     </td>
     <td>
       <div>S. 8</div>
@@ -776,16 +762,16 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
     </td>
     <td colspan="2">
       <div>65, 1985</div>
     </td>
     <td>
-      <div>5 June 1985</div>
+      <div>5 June 1985</div>
     </td>
     <td>
-      <div>S. 3: 3 July 1985 <i>(a)</i></div>
+      <div>S. 3: 3 July 1985 <i>(a)</i></div>
     </td>
     <td>
       <div>S. 6</div>
@@ -793,13 +779,13 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
     </td>
     <td colspan="2">
       <div>76, 1986</div>
     </td>
     <td>
-      <div>24 June 1986</div>
+      <div>24 June 1986</div>
     </td>
     <td>
       <div>S. 3: Royal Assent <i>(b)</i></div>
@@ -810,7 +796,7 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
     </td>
     <td colspan="2">
       <div>168, 1986</div>
@@ -867,7 +853,7 @@ of Assent
       <div>122, 1991</div>
     </td>
     <td>
-      <div>27 June 1991</div>
+      <div>27 June 1991</div>
     </td>
     <td>
       <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
@@ -908,7 +894,7 @@ Remainder: Royal Assent
       <div>11 Dec 1992</div>
     </td>
     <td>
-      <div>Part 5 (ss. 14, 15): 30 July 1975 
+      <div>Part 5 (ss. 14, 15): 30 July 1975 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -927,7 +913,7 @@ Remainder: Royal Assent
       <div>25 Oct 1996</div>
     </td>
     <td>
-      <div>Schedule 4 (items 28–30): Royal Assent <i>(e)</i></div>
+      <div>Schedule 4 (items 28–30): Royal Assent <i>(e)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -944,7 +930,7 @@ Remainder: Royal Assent
       <div>24 Oct 1997</div>
     </td>
     <td>
-      <div>Schedule 2 (items 338–346): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
+      <div>Schedule 2 (items 338–346): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -961,7 +947,7 @@ Remainder: Royal Assent
       <div>11 Nov 1999</div>
     </td>
     <td>
-      <div>Schedule 1 (items 198, 199): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
+      <div>Schedule 1 (items 198, 199): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -978,7 +964,7 @@ Remainder: Royal Assent
       <div>24 Nov 1999</div>
     </td>
     <td>
-      <div>Schedule 10 (items 38, 39): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
+      <div>Schedule 10 (items 38, 39): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -998,7 +984,7 @@ Remainder: Royal Assent
       <div>29 Oct 2001</div>
     </td>
     <td>
-      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
   <tr>
@@ -1015,7 +1001,7 @@ Remainder: Royal Assent
       <div>10 Nov 2002</div>
     </td>
     <td>
-      <div>Sch. 1 (item 11) \[ <i>see</i>Table A]</div>
+      <div>Sch. 1 (item 11) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
   <tr>
@@ -1026,27 +1012,10 @@ Remainder: Royal Assent
       <div>54, 2005</div>
     </td>
     <td>
-      <div>25 May 2005</div>
+      <div>25 May 2005</div>
     </td>
     <td>
-      <div>25 May 2005</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-    </td>
-    <td colspan="2">
-      <div>30, 2006</div>
-    </td>
-    <td>
-      <div>6 Apr 2006</div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 2): 7 Apr 2006</div>
+      <div>25 May 2005</div>
     </td>
     <td>
       <div>—</div>
@@ -1063,43 +1032,43 @@ Remainder: Royal Assent
 </tbody></table>
 
 
-_(a)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(a)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_    The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(c)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
+_(c)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(d)_     The _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(29) of which provides as follows:
+_(d)_     The _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(29) of which provides as follows:
 
-               (29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first-mentioned Act received the Royal Assent.
+               (29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first-mentioned Act received the Royal Assent.
 
-_(e)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 4 (items 
+_(e)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 4 (items 
 28–30) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_      The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 2 (items 
+_(f)_      The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 2 (items 
 338–346) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_,
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_,
 
-_(g)_     The _Australian__Institute__of__Marine Science Act__1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(g)_     The _Australian__Institute__of__Marine Science Act__1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12.
+                              (c)   the items in Schedules 10, 11 and 12.
 
 
 ## Table of Amendments
@@ -1128,7 +1097,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
 <tbody>
   <tr>
     <td>
-      <div><b>Part I</b></div>
+      <div><b>Part I</b></div>
     </td>
     <td>
       <div></div>
@@ -1139,7 +1108,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 3</div>
     </td>
     <td>
-      <div>rep. No. 216, 1973</div>
+      <div>rep. No. 216, 1973</div>
     </td>
   </tr>
   <tr>
@@ -1147,7 +1116,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 5</div>
     </td>
     <td>
-      <div>am. Nos. 76 and 168, 1986; No. 168, 1992; No. 152, 1997; No. 98, 2002; No. 54, 2005</div>
+      <div>am. Nos. 76 and 168, 1986; No. 168, 1992; No. 152, 1997; No. 98, 2002; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1155,12 +1124,12 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 6</div>
     </td>
     <td>
-      <div>am. No. 216, 1973</div>
+      <div>am. No. 216, 1973</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part II</b></div>
+      <div><b>Part II</b></div>
     </td>
     <td>
       <div></div>
@@ -1171,7 +1140,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 7</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 152, 1997</div>
+      <div>am. No. 76, 1986; No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1179,7 +1148,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 8</div>
     </td>
     <td>
-      <div>rep. No. 61, 1973</div>
+      <div>rep. No. 61, 1973</div>
     </td>
   </tr>
   <tr>
@@ -1187,7 +1156,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 9</div>
     </td>
     <td>
-      <div>rs. No. 168, 1992</div>
+      <div>rs. No. 168, 1992</div>
     </td>
   </tr>
   <tr>
@@ -1195,7 +1164,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 98, 2002</div>
+      <div>am. No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1203,7 +1172,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 10</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 168, 1992; No. 98, 2002</div>
+      <div>am. No. 76, 1986; No. 168, 1992; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1211,7 +1180,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 10AA</div>
     </td>
     <td>
-      <div>ad. No. 168, 1992</div>
+      <div>ad. No. 168, 1992</div>
     </td>
   </tr>
   <tr>
@@ -1219,12 +1188,12 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part III</b></div>
+      <div><b>Part III</b></div>
     </td>
     <td>
       <div></div>
@@ -1235,7 +1204,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 10A</div>
     </td>
     <td>
-      <div>ad. No. 168, 1986</div>
+      <div>ad. No. 168, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1243,7 +1212,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 98, 2002; No. 54, 2005</div>
+      <div>am. No. 98, 2002; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1251,7 +1220,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 12</div>
     </td>
     <td>
-      <div>am. Nos. 76 and 168, 1986; No. 54, 2005</div>
+      <div>am. Nos. 76 and 168, 1986; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1259,7 +1228,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 14</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1267,7 +1236,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 16</div>
     </td>
     <td>
-      <div>am. Nos. 76 and 168, 1986; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
+      <div>am. Nos. 76 and 168, 1986; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1275,7 +1244,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 17</div>
     </td>
     <td>
-      <div>am. No. 168, 1986</div>
+      <div>am. No. 168, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1291,7 +1260,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1299,7 +1268,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 19</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1307,7 +1276,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 43, 1996</div>
+      <div>am. No. 43, 1996</div>
     </td>
   </tr>
   <tr>
@@ -1315,7 +1284,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 20</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 168, 1986 (as am. by No. 141, 1987)</div>
+      <div>am. No. 76, 1986; No. 168, 1986 (as am. by No. 141, 1987)</div>
     </td>
   </tr>
   <tr>
@@ -1323,7 +1292,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 20A</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1331,7 +1300,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 20A</div>
     </td>
     <td>
-      <div>ad. No. 168, 1986</div>
+      <div>ad. No. 168, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1339,12 +1308,12 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part IV</b></div>
+      <div><b>Part IV</b></div>
     </td>
     <td>
       <div></div>
@@ -1352,10 +1321,10 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
   </tr>
   <tr>
     <td>
-      <div>Heading to Part IV</div>
+      <div>Heading to Part IV</div>
     </td>
     <td>
-      <div>rs. No. 54, 2005</div>
+      <div>rs. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1363,7 +1332,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 21</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1371,7 +1340,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 21</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1379,7 +1348,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 22</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 159, 2001; No. 54, 2005</div>
+      <div>am. No. 76, 1986; No. 159, 2001; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1387,7 +1356,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 23</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1395,7 +1364,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 23</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1403,7 +1372,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 24</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1411,7 +1380,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 24</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1419,7 +1388,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 43, 1996; No. 54, 2005</div>
+      <div>am. No. 43, 1996; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1427,7 +1396,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 25</div>
     </td>
     <td>
-      <div>rs. No. 122, 1991</div>
+      <div>rs. No. 122, 1991</div>
     </td>
   </tr>
   <tr>
@@ -1435,7 +1404,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 146, 1999; No. 54, 2005</div>
+      <div>am. No. 146, 1999; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1443,7 +1412,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 26</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1451,7 +1420,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1459,7 +1428,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 27</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1467,7 +1436,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 28</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1475,7 +1444,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 28</div>
     </td>
     <td>
-      <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
+      <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1483,7 +1452,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 29</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1491,7 +1460,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 29</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 54, 2005</div>
+      <div>am. No. 76, 1986; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1499,7 +1468,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Heading to s. 30</div>
     </td>
     <td>
-      <div>am. No. 54, 2005</div>
+      <div>am. No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1507,7 +1476,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 30</div>
     </td>
     <td>
-      <div>rs. No. 65, 1985</div>
+      <div>rs. No. 65, 1985</div>
     </td>
   </tr>
   <tr>
@@ -1515,7 +1484,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>am. No. 159, 2001; No. 54, 2005</div>
+      <div>am. No. 159, 2001; No. 54, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1523,7 +1492,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 31</div>
     </td>
     <td>
-      <div>am. No. 76, 1986</div>
+      <div>am. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1531,7 +1500,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 98, 2002</div>
+      <div>rep. No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1539,12 +1508,12 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 32</div>
     </td>
     <td>
-      <div>rep. No. 76, 1986</div>
+      <div>rep. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part V</b></div>
+      <div><b>Part V</b></div>
     </td>
     <td>
       <div></div>
@@ -1555,7 +1524,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 33</div>
     </td>
     <td>
-      <div>am. No. 65, 1985; No. 76, 1986; No. 98, 2002</div>
+      <div>am. No. 65, 1985; No. 76, 1986; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1563,7 +1532,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 34</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 199, 1991; No. 146, 1999</div>
+      <div>am. No. 76, 1986; No. 199, 1991; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
@@ -1571,12 +1540,12 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 35</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 199, 1991; No. 98, 2002</div>
+      <div>am. No. 76, 1986; No. 199, 1991; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part VI</b></div>
+      <div><b>Part VI</b></div>
     </td>
     <td>
       <div></div>
@@ -1587,7 +1556,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 36</div>
     </td>
     <td>
-      <div>am. No. 36, 1978; No. 76, 1986; No. 98, 2002</div>
+      <div>am. No. 36, 1978; No. 76, 1986; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1595,7 +1564,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 37</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1603,7 +1572,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1611,7 +1580,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 38</div>
     </td>
     <td>
-      <div>am. No. 36, 1978; No. 76, 1986; No. 152, 1997; No. 98, 2002</div>
+      <div>am. No. 36, 1978; No. 76, 1986; No. 152, 1997; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1619,7 +1588,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 39</div>
     </td>
     <td>
-      <div>rep. No. 76, 1986</div>
+      <div>rep. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1627,7 +1596,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 40</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1635,7 +1604,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1643,7 +1612,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 41</div>
     </td>
     <td>
-      <div>rep. No. 76, 1986</div>
+      <div>rep. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1651,7 +1620,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 42</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 98, 2002</div>
+      <div>am. No. 76, 1986; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1659,7 +1628,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>Ss. 42A–42E</div>
     </td>
     <td>
-      <div>ad. No. 98, 2002</div>
+      <div>ad. No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1667,7 +1636,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 43</div>
     </td>
     <td>
-      <div>am. No. 216, 1973; No. 98, 2002</div>
+      <div>am. No. 216, 1973; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1675,7 +1644,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 44</div>
     </td>
     <td>
-      <div>am. No. 36, 1978</div>
+      <div>am. No. 36, 1978</div>
     </td>
   </tr>
   <tr>
@@ -1683,12 +1652,12 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 76, 1986</div>
+      <div>rep. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part VII</b></div>
+      <div><b>Part VII</b></div>
     </td>
     <td>
       <div></div>
@@ -1699,7 +1668,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 45</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 43, 1996</div>
+      <div>am. No. 76, 1986; No. 43, 1996</div>
     </td>
   </tr>
   <tr>
@@ -1707,7 +1676,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 46</div>
     </td>
     <td>
-      <div>rs. No. 76, 1986</div>
+      <div>rs. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1715,7 +1684,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 47</div>
     </td>
     <td>
-      <div>am. No. 216, 1973</div>
+      <div>am. No. 216, 1973</div>
     </td>
   </tr>
   <tr>
@@ -1723,7 +1692,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div></div>
     </td>
     <td>
-      <div>rep. No. 65, 1985</div>
+      <div>rep. No. 65, 1985</div>
     </td>
   </tr>
   <tr>
@@ -1731,7 +1700,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 48</div>
     </td>
     <td>
-      <div>am. No. 76, 1986; No. 98, 2002</div>
+      <div>am. No. 76, 1986; No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1739,15 +1708,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 49</div>
     </td>
     <td>
-      <div>am. No. 98, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 50A</div>
-    </td>
-    <td>
-      <div>ad. No. 30, 2006</div>
+      <div>am. No. 98, 2002</div>
     </td>
   </tr>
   <tr>
@@ -1755,7 +1716,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>S. 51</div>
     </td>
     <td>
-      <div>am. No. 76, 1986</div>
+      <div>am. No. 76, 1986</div>
     </td>
   </tr>
   <tr>
@@ -1763,7 +1724,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
       <div>The Schedule</div>
     </td>
     <td>
-      <div>rep. No. 98, 2002</div>
+      <div>rep. No. 98, 2002</div>
     </td>
   </tr>
 </tbody></table>
@@ -1775,7 +1736,7 @@ _(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was 
 
 _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
 
-## Schedule 1
+## Schedule 1
 
 ## 97  Application of amendments
 
@@ -1785,15 +1746,13 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
  </div>
 
-_Research Agencies Legislation Amendment Act 2002 (No. 98, 2002)_
+_Research Agencies Legislation Amendment Act 2002 (No. 98, 2002)_
 
-## Schedule 1
+## Schedule 1
 
 ## 11  Transitional—pre-commencement functions and powers
 
 In determining the functions and powers that the Institute had before the commencement of this item, the amendments made by this Part are to be disregarded.
 
-
- 
 
  
