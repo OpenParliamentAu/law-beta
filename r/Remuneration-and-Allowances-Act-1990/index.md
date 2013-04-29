@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00391/Html/RemAndAllowAct90_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00107/Html/RemAndAllowAct90_WD02_image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 21 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -42,7 +42,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8A](#8A).         Regulations
 
-**Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)** 
+**Part 3—Amendments of Industrial Relations Act 1988** 
 
 **Schedule 1—Holders of Judicial and other offices** 
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  Determinations Nos. 15, 16 and 22 of 1989 of the Remuneration Tribunal dated 16 November 1989.
 
-##### <a id="3A"></a>3A  Operation of Remuneration Tribunal Determination
+##### <a id="3A"></a>3A  Operation of Remuneration Tribunal Determination
 
                    Determination No. 12 of 1994 of the Remuneration Tribunal, dated 30 June 1994, does not operate on or after the date of commencement of this section.
 
@@ -630,7 +630,7 @@ _Section 4_
 
 3.    <u>Additional Remuneration</u>
 
-A Judge who is also Aboriginal Land Commissioner, Chairperson of the Australian Electoral Commission, Chief Judge of the Supreme Court of Norfolk Island, President of the Administrative Appeals Tribunal, President of the Law Reform Commission or President of the Australian Competition Tribunal is to receive $750 per annum in addition to the rate per annum of salary of the office of Judge.
+A Judge who is also Aboriginal Land Commissioner, Chairman of the Australian Electoral Commission, Chief Judge of the Supreme Court of Norfolk Island, President of the Administrative Appeals Tribunal, President of the Law Reform Commission or President of the Australian Competition Tribunal is to receive $750 per annum in addition to the rate per annum of salary of the office of Judge.
 
 4.    <u>High Court </u><u>Canberra</u><u> Allowance</u>
 
@@ -1024,7 +1024,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Chairperson, Australian Competition and Consumer Commission</div>
+    <div>Chairman, Australian Competition and Consumer Commission</div>
   </td>
   <td>
     <div>117,258</div>
@@ -1128,7 +1128,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div> Chairperson, Commonwealth Grants Commission</div>
+    <div>Chairman, Commonwealth Grants Commission</div>
   </td>
   <td>
     <div>111,004</div>
@@ -2457,23 +2457,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 443–445): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 only of the _Industrial Relations Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
@@ -2667,7 +2650,7 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999; SLI 2006 No. 50; No. 73, 2008</div>
+    <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -2675,7 +2658,7 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005; SLI 2006 No. 50; No. 73, 2008</div>
+    <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
