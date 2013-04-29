@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00228/Html/f5e87c51-6876-4252-9ed9-d86339bb216c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00376/Html/FairWorkRegOrg2009_image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 20 July 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1012,7 +1012,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Application of the Fair Work Act to transitionally recognised associations
 
-[4](#4).            Representation rights of transitionally recognised associations of employees
+[4](#4).            Representation rights of transitionally recognised associations of employees [_see_ Note 2]
 
 [5](#5).            Cancellation of transitional recognition
 
@@ -2620,7 +2620,7 @@ the rules of the proposed amalgamated organisation must not permit the person to
 
              (2)  An officer or employee of an organisation or branch of an organisation commits an offence if he or she fails to comply with a requirement made under subsection (1).
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (3)  An offence against subsection (2) is an offence of strict liability.
 
@@ -3226,7 +3226,7 @@ Interference with ballot papers
 
                      (k)  does an act that results in a ballot box or other ballot receptacle being destroyed, taken, opened or otherwise interfered with.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Hindering the ballot, threats and bribes etc.
 
@@ -3250,7 +3250,7 @@ Hindering the ballot, threats and bribes etc.
 
                       (f)  counsels or advises a person entitled to vote to refrain from voting.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Secrecy of vote
 
@@ -3266,7 +3266,7 @@ Secrecy of vote
 
                      (b)  in the case where the relevant person is a person performing duties for the purposes of the ballot—the relevant person shows another person, or permits another person to have access to, a ballot paper used in the ballot, otherwise than in the performance of the duties.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 ### Division 6—Amalgamation taking effect
 
@@ -3866,7 +3866,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          A defendant bears an evidential burden in relation to the matter mentioned in subsection (4), see subsection 13.3(3) of the _Criminal Code_.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (5)  A person is not excused from giving information or producing or making available a document under this section on the ground that the information or the production or making available of the document might tend to incriminate the person or expose the person to a penalty.
 
@@ -3932,7 +3932,7 @@ Interference with ballot papers
 
                      (k)  does an act that results in a ballot box or other ballot receptacle being destroyed, taken, opened or otherwise interfered with.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Hindering the ballot, threats and bribes etc.
 
@@ -3956,7 +3956,7 @@ Hindering the ballot, threats and bribes etc.
 
                       (f)  counsels or advises a person entitled to vote to refrain from voting.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Secrecy of vote
 
@@ -3972,7 +3972,7 @@ Secrecy of vote
 
                      (b)  in the case where the relevant person is a person performing duties for the purposes of the ballot—the relevant person shows another person, or permits another person to have access to, a ballot paper used in the ballot, otherwise than in the performance of the duties.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 ##### <a id="106"></a>106  Certificate showing particulars of the ballot
 
@@ -4360,7 +4360,7 @@ holds the equivalent office in the newly registered organisation as if he or she
 
 ### Division 4—Validation
 
-##### <a id="126"></a>126  Validation of certain acts done in good faith
+##### <a id="126"></a>126  Validation of certain acts done in good faith
 
              (1)  Subject to this section and to section 128, an act done in good faith for the purposes of a proposed or completed withdrawal from amalgamation by:
 
@@ -4820,7 +4820,7 @@ Part 3 sets out processes available to members who think that their organisati
 
                            (vii)  the times when, and the terms on which, persons become or cease (otherwise than by resignation) to be members; and
 
-                          (viii)  the resignation of members under section 174; and
+                           (viii)  the resignation of members under section 174; and
 
                             (ix)  the manner in which the property of the organisation is to be controlled and its funds invested; and
 
@@ -4830,7 +4830,7 @@ Part 3 sets out processes available to members who think that their organisati
 
                            (xii)  the keeping of a register of the members, arranged, where there are branches of the organisation, according to branches; and
 
-                          (xiii)  the manner in which its rules may be altered; and
+                           (xiii)  the manner in which its rules may be altered; and
 
                      (c)  may provide for the removal from office of a person elected to an office in the organisation only where the person has been found guilty, under the rules of the organisation, of:
 
@@ -5380,7 +5380,7 @@ Note:          If the General Manager consents to the alterati
 
                    In proceedings under this Act or the Fair Work Act, a copy of the rules of an organisation certified by the General Manager to be a true and correct copy is evidence of the rules of the organisation.
 
-##### <a id="162"></a>162  Powers of FWA
+##### <a id="162"></a>162  Powers of FWA
 
                    The powers of FWA under this Division are exercisable only by the President or a Deputy President.
 
@@ -5848,7 +5848,7 @@ Part 4 sets out the circumstances in which people are disqualified from holdin
 
 ## Part 2—Conduct of elections for office and other positions
 
-##### <a id="182"></a>182  Conduct by AEC
+##### <a id="182"></a>182  Conduct by AEC
 
 Elections for office
 
@@ -5888,7 +5888,7 @@ Elections for other positions
 
              (1)  A person commits an offence if the person uses, causes or inflicts any violence, injury, punishment, damage, loss or disadvantage to another person because the other person has lodged an objection under subsection 184(1).
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  A person commits an offence if the person:
 
@@ -5896,7 +5896,7 @@ Elections for other positions
 
                      (b)  asks for or obtains, or offers or agrees to ask for or obtain, any property or benefit of any kind (whether for that person or another person), on the understanding that the lodging of an objection under subsection 184(1) will be influenced or affected in any way.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 ##### <a id="186"></a>186  General Manager may permit organisation or branch to conduct its elections for office
 
@@ -5968,7 +5968,7 @@ the General Manager must arrange for the conduct of the election by the AEC.
 
                    An organisation or branch commits an offence if it uses, or allows to be used, its property or resources to help a candidate against another candidate in an election under this Part for an office or other position.
 
-                    Maximum penalty: 100 penalty units.
+                    Maximum penalty:    100 penalty units.
 
 ##### <a id="191"></a>191  Organisation to provide returning officer with copy of register
 
@@ -5976,7 +5976,7 @@ the General Manager must arrange for the conduct of the election by the AEC.
 
              (2)  An officer or employee of the organisation or branch commits an offence if he or she fails to comply with a request under subsection (1).
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (3)  Subsection (2) does not apply if the officer or employee complied with the request as promptly as he or she was capable.
 
@@ -6028,7 +6028,7 @@ Note:          This subsection is a civil penalty provision (s
 
              (2)  A person commits an offence if the person does not comply with a direction under subsection (1).
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (3)  Subsection (2) does not apply so far as the person is not capable of complying.
 
@@ -6064,7 +6064,7 @@ the Electoral Commissioner must arrange for the completion of the conduct of the
 
                      (b)  any other person in complying with a direction under subsection 193(1).
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 ##### <a id="195"></a>195  Improper interference with election process
 
@@ -6104,7 +6104,7 @@ Interference with ballot papers
 
                      (k)  does an act that results in a ballot box or other ballot receptacle being destroyed, taken, opened or otherwise interfered with.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Threats in relation to votes, candidature etc.
 
@@ -6118,7 +6118,7 @@ Threats in relation to votes, candidature etc.
 
                      (d)  any promise of any vote, omission, support or opposition.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Offers of bribes
 
@@ -6132,7 +6132,7 @@ Offers of bribes
 
                      (d)  any promise of any vote, omission, support or opposition.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Acceptance of bribes
 
@@ -6146,7 +6146,7 @@ Acceptance of bribes
 
                      (d)  any promise of any vote, omission, support or opposition.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Secrecy of vote
 
@@ -6156,7 +6156,7 @@ Secrecy of vote
 
                      (b)  if the relevant person is a person performing duties for the purposes of the election—if the relevant person shows to another person, or permits another person to have access to, a ballot paper used in the election, otherwise than in the performance of the duties.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 ##### <a id="196"></a>196  Death of candidate
 
@@ -6268,7 +6268,7 @@ Definitions
 
              (3)  An organisation or branch of an organisation commits an offence if the organisation or branch contravenes subsection (1) or (2).
 
-                    Maximum penalty: 100 penalty units.
+                    Maximum penalty:    100 penalty units.
 
              (4)  Subsection (3) does not apply if the organisation has a reasonable excuse.
 
@@ -6276,7 +6276,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (5)  An officer or employee of an organisation or branch commits an offence if the officer or employee contravenes subsection (1) or (2).
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (6)  Subsection (5) does not apply if the officer or employee has a reasonable excuse.
 
@@ -6342,7 +6342,7 @@ the Court must fix a time and place for conducting the inquiry, and may give suc
 
                      (b)  hinders or obstructs the General Manager, or a person acting on his or her behalf, in the exercise of powers under subsection (2).
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (6)  Strict liability applies to paragraph (5)(a).
 
@@ -6400,7 +6400,7 @@ Offence: failing to return identity card
 
                      (c)  the person does not, as soon as is practicable after so ceasing, return the identity card to the General Manager.
 
-                    Maximum penalty: 1 penalty unit.
+                    Maximum penalty:    1 penalty unit.
 
              (7)  An offence against subsection (6) is an offence of strict liability.
 
@@ -6764,7 +6764,7 @@ Note:          This section is a civil penalty provision (see 
 
                              (ii)  the copy is required to be kept by an organisation under section 231.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (2)  Strict liability applies to paragraph (1)(c).
 
@@ -7334,7 +7334,7 @@ Note:          This subsection is a civil penalty provision (s
 
                      (b)  does not comply with a request under paragraph 257(2)(a) by an auditor of a reporting unit to produce a record or other document in the custody or under the control of the officer, employee or member.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  Strict liability applies to paragraph (1)(b).
 
@@ -7386,7 +7386,7 @@ Note:          This section is a civil penalty provision (see 
 
              (3)  An officer, employee or member of an organisation or branch commits an offence if he or she hinders or obstructs the auditor of a reporting unit from attending a part of the meeting that the auditor is entitled to attend.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (4)  A person commits an offence if:
 
@@ -7398,7 +7398,7 @@ Note:          This section is a civil penalty provision (see 
 
                      (d)  the person fails, as soon as practicable after having received the indication, to afford to the auditor an opportunity to be heard.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (5)  It is a defence to an offence against a subsection of this section if the person did not know, and could not reasonably have known, that the auditor, or the person authorised by the auditor, to whom the charge relates was a person in relation to whom the subsection applied.
 
@@ -7564,7 +7564,7 @@ Note:          This section is a civil penalty provision (see 
 
 ### Division 6—Reduced reporting requirements for particular reporting units
 
-##### <a id="269"></a>269  Reporting units with substantial common membership with State registered bodies
+##### <a id="269"></a>269  Reporting units with substantial common membership with State registered bodies
 
              (1)  This section applies to a reporting unit if there is an industrial association (the **_associated State body_**) that:
 
@@ -8190,7 +8190,7 @@ It also sets out the relationship with criminal proceedings arising out of the s
 
                      (b)  subsection 52(3) (false statement);
 
-                   (ba)  subsection 95(3C) (direction to provide information);
+                    (ba)  subsection 95(3C) (direction to provide information);
 
                      (c)  subsection 104(1) (declaration about register);
 
@@ -8238,15 +8238,15 @@ It also sets out the relationship with criminal proceedings arising out of the s
 
                      (y)  subsections 256(3), (4), (5) and (6) (persons not to be auditors);
 
-                     (z)  subsections 257(10) and (11) (auditor’s report);
+                      (z)  subsections 257(10) and (11) (auditor’s report);
 
                     (za)  section 259 (forwarding notices to auditors);
 
-                   (zb)  subsections 263(2), (3) and (5) (removal of auditor);
+                    (zb)  subsections 263(2), (3) and (5) (removal of auditor);
 
                     (zc)  subsection 264(3) (distribution of auditor’s reasons for resignation);
 
-                   (zd)  subsections 265(1), (4) and (5) and 266(1) and section 267 (accounts, reports etc.);
+                    (zd)  subsections 265(1), (4) and (5) and 266(1) and section 267 (accounts, reports etc.);
 
                     (ze)  section 268 (failure to lodge accounts etc.);
 
@@ -8254,15 +8254,15 @@ It also sets out the relationship with criminal proceedings arising out of the s
 
                     (zg)  subsections 272(3) and (5) (providing information to members);
 
-                   (zh)  subsection 274(1) (frivolous or vexatious applications);
+                    (zh)  subsection 274(1) (frivolous or vexatious applications);
 
-                    (zi)  section 276 (disclosure of information);
+                     (zi)  section 276 (disclosure of information);
 
-                    (zj)  subsections 285(1), 286(1) and (2), 287(1) and (2), and 288(1) and (2) (officers’ duties);
+                     (zj)  subsections 285(1), 286(1) and (2), 287(1) and (2), and 288(1) and (2) (officers’ duties);
 
-                   (zk)  subsections 297(2) and (3), 298(2) and (3), 299(2) and (3), 300(2) and (3), 301(2) and (3), 302(2) and (3), and 303(2) (officers’ duties);
+                    (zk)  subsections 297(2) and (3), 298(2) and (3), 299(2) and (3), 300(2) and (3), 301(2) and (3), 302(2) and (3), and 303(2) (officers’ duties);
 
-                    (zl)  subsection 347(1) (provision of rules to members).
+                     (zl)  subsection 347(1) (provision of rules to members).
 
              (3)  For the purposes of this Part, any contravention of a civil penalty provision by a branch or reporting unit is taken to be a contravention by the organisation of which the branch or reporting unit is part.
 
@@ -8698,7 +8698,7 @@ and the Court may make a declaration accordingly.
 
                      (o)  a person who incurred costs in relation to an inquiry into a ballot under Part 2 of Chapter 3, other than the person who applied for the inquiry;
 
-                   (oa)  a person who was a party to a proceeding under Part 3 of Chapter 3;
+                    (oa)  a person who was a party to a proceeding under Part 3 of Chapter 3;
 
                      (p)  a person who was a party to a proceeding under Part 2 of Chapter 11;
 
@@ -8914,7 +8914,7 @@ Note:          In appropriate circumstances, the General Manag
 
                      (c)  when attending before the General Manager in accordance with a requirement under subsection 335(2), the person makes a statement, whether orally or in writing, and the person knows, or is reckless as to whether, the statement is false or misleading.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  Strict liability applies to paragraph (1)(a).
 
@@ -9058,7 +9058,7 @@ Offence for contravening subsection (1), (2) or (3)
 
              (6)  A person commits an offence if the person contravenes subsection (1), (2) or (3).
 
-                    Maximum penalty: 25 penalty units or imprisonment for 6 months, or both.
+                    Maximum penalty:    25 penalty units or imprisonment for 6 months, or both.
 
              (7)  In a prosecution for an offence that relates to a contravention of subsection (2), it is not necessary to prove that the person threatened actually feared that the threat would be carried out.
 
@@ -9198,11 +9198,11 @@ the General Manager must reduce the order to writing, sign it and seal it with t
 
                     (aa)  matters in relation to which applications are made to the Court under subsection 109(1) (giving effect to withdrawal of constituent part from amalgamated organisation); and
 
-                   (ab)  matters in relation to which applications are made to the Court under subsection 118(2) (giving effect to requirement to take necessary steps in relation to withdrawal from amalgamation); and
+                    (ab)  matters in relation to which applications are made to the Court under subsection 118(2) (giving effect to requirement to take necessary steps in relation to withdrawal from amalgamation); and
 
                     (ac)  matters in relation to which applications are made to the Court under subsection 125(1) (resolving difficulties in relation to application of Part 3 of Chapter 3 to a matter); and
 
-                   (ad)  matters in relation to which applications are made to the Court under subsection 128(1) (validation of certain acts done for purposes of proposed or completed withdrawal from amalgamation); and
+                    (ad)  matters in relation to which applications are made to the Court under subsection 128(1) (validation of certain acts done for purposes of proposed or completed withdrawal from amalgamation); and
 
                     (ae)  matters in relation to which applications are made to the Court under subsection 129(1) (invalidity in proposed or completed withdrawal from amalgamation); and
 
@@ -9248,7 +9248,7 @@ the General Manager must reduce the order to writing, sign it and seal it with t
 
                      (b)  may, of the Judge’s own motion or on the application of a party, refer the matter to a Full Court to be heard and determined.
 
-             (2)  If a Judge refers a matter to a Full Court under subsection (1), the Full Court may have regard to any evidence given, or arguments adduced, in the proceeding before the Judge.
+             (2)  If a Judge refers a matter to a Full   Court under subsection (1), the Full Court may have regard to any evidence given, or arguments adduced, in the proceeding before the Judge.
 
              (3)  This section applies in addition to, and does not affect the operation of, section 339A.
 
@@ -9378,7 +9378,7 @@ Note:          This subsection is a civil penalty provision (s
 
                      (c)  must specify the period (of not less than 14 days) within which the relevant copy must be provided.
 
-             (3)  An organisation or branch whose rules or list of offices, or of the persons holding the offices, are available on the internet must inform a member seeking a copy of that fact. However, informing the member of that fact does not affect the organisation’s or branch’s other obligations under this section and the regulations.
+             (3)  An organisation or branch whose rules or list of offices, or of the persons holding the offices, are available on the Internet must inform a member seeking a copy of that fact. However, informing the member of that fact does not affect the organisation’s or branch’s other obligations under this section and the regulations.
 
              (4)  The regulations may:
 
@@ -9408,7 +9408,7 @@ Note:          This subsection is a civil penalty provision (s
 
                      (b)  the person knows the representation is false.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (2)  A person commits an offence if:
 
@@ -9416,7 +9416,7 @@ Note:          This subsection is a civil penalty provision (s
 
                      (b)  the person knows that he or she does not have authority to do so.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
 ##### <a id="351"></a>351  No imprisonment in default
 
@@ -9508,7 +9508,7 @@ Note:          This subsection is a civil penalty provision (s
 
              (6)  A person commits an offence if the person gives as evidence, or publishes, any information in contravention of this section or a direction given under this section.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
 ##### <a id="357"></a>357  Application of penalty
 
@@ -9870,9 +9870,9 @@ _Note:       See section 5B._
 
                      (b)  a right to represent its members’ industrial interests outside the State in relation to which it is a State-registered association.
 
-##### <a id="4"></a>4  Representation rights of transitionally recognised associations of employees
+##### <a id="4"></a>4  Representation rights of transitionally recognised associations of employees [_see_ Note 2]
 
-             (1)  Regulations made for the purposes of this subclause may make provision for FWA to make orders in relation to the right of a transitionally recognised association to represent the interests under the Fair Work Act, on and after the commencement of provisions of that Act, of a particular class or group of employees.
+             (1)  Regulations made for the purposes of this subclause may make provision for FWA to make orders in relation to the right of a transitionally recognised association to represent the interests under this Act, on or after the reform commencement, of a particular class or group of employees.
 
              (2)  Without limiting subclause (1), the regulations may specify the weight that FWA is to give, in making such an order, to a State demarcation order.
 
@@ -10140,7 +10140,7 @@ Section 40 of the _Independent Contractors Act 2006_ (Act No. 162, 2006) is 
 
 All other relevant information pertaining to application, saving or transitional provisions prior to 25 November 1996 is not included in this compilation. For all subsequent information _see_ Table A.
 
-The _Fair Work (Registered Organisations) Act 2009_ was modified by the Industrial Relations (Christmas Island) Regulations (1992 No. 225 as amended). The modifications are not incorporated in this compilation.
+The _Fair Work (Registered Organisations) Act 2009_ was modified by the Industrial Relations (Christmas  Island) Regulations (1992 No. 225 as amended). The modifications are not incorporated in this compilation.
 
 <table>
 <colgroup>
@@ -11863,40 +11863,6 @@ Schedule 22 (item 91): <i>(w)</i></div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 6): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
   </td>
   <td>
@@ -11911,31 +11877,13 @@ Schedule 22 (item 91): <i>(w)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 27): <i>(y) 
- </i>Schedule 5 (item 137(a)): <i>(y)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Fair Work (Registered Organisations) Act 2009_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
-_(b)_     The _Australian Federal Police Legislation Amendment Act (No. 2) 1989_ was amended by subsection 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Federal Police Legislation Amendment Act (No. 2) 1989_ was amended by subsection 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -12135,9 +12083,9 @@ _(p)_ The _Fair Work (Registered Organisations) Act 2009_ was amended by Schedul
 
                               (b)   immediately after the commencement of:
 
-                                     (i)   if item 28 of Schedule 12 to the _Workplace Relations Legislation Amendment (More Jobs, Better Pay) Act 2001_ commences—that item; or
+                                      (i)   if item 28 of Schedule 12 to the _Workplace Relations Legislation Amendment (More Jobs, Better Pay) Act 2001_ commences—that item; or
 
-                                    (ii)   if item 29 of Schedule 1 to the _Workplace Relations Amendment (Secret Ballots for Protected Action) Act 2001_ commences—that item. 
+                                     (ii)   if item 29 of Schedule 1 to the _Workplace Relations Amendment (Secret Ballots for Protected Action) Act 2001_ commences—that item. 
 
          The _Workplace Relations Legislation Amendment (More Jobs, Better Pay) Act 2001_ and the _Workplace Relations Amendment (Secret Ballots for Protected Action) Act 2001_ have not been enacted. Therefore this amendment does not commence.
 
@@ -12726,95 +12674,6 @@ _(w)_ Subsection 2(1) (items 2, 7 and 8) of the _Fair Work (Transitional Provi
 </tr></table>
 
 _(x)_ The sections and clauses of Schedules of the _Fair Work (Registered Organisations) Act 2009_ to be amended by the _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009_ (No. 70, 2009) were repealed by the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ (No. 55, 2009) before the amendments made by the _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009_ (No. 70, 2009) commenced.
-
-_(y)_ Subsection 2(1) (items 3, 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, item 27
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 3 of Schedule 22 to the
-        <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
 
  
 
@@ -15768,7 +15627,7 @@ rep. No. 55, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Subdiv. J of Div. 2 of Part 7</div>
+    <div>Subdiv. J of Div. 2 of Part 7.</div>
   </td>
   <td>
     <div>rep. No. 8, 2008</div>
@@ -21017,7 +20876,7 @@ No. 8, 2008</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 11</div>
+    <div>Heading to Div. 3 of Part 11.</div>
   </td>
   <td>
     <div>rs. No. 8, 2008</div>
@@ -23565,7 +23424,7 @@ rep. No. 55, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 14</div>
+    <div>Heading to Div. 1 of Part 14.</div>
   </td>
   <td>
     <div>am. No. 109, 1992</div>
@@ -23629,7 +23488,7 @@ rep. No. 55, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 14</div>
+    <div>Heading to Div. 2 of Part 14.</div>
   </td>
   <td>
     <div>ad. No. 153, 2005</div>
@@ -26213,7 +26072,7 @@ rep. No. 55, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 20</div>
+    <div>Heading to Div. 1 of Part 20.</div>
   </td>
   <td>
     <div>ad. No. 60, 1996</div>
@@ -26389,7 +26248,7 @@ rep. No. 55, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 20</div>
+    <div>Heading to Div. 2 of Part 20.</div>
   </td>
   <td>
     <div>ad. No. 60, 1996</div>
@@ -26429,7 +26288,7 @@ rep. No. 55, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 20</div>
+    <div>Heading to Div. 3 of Part 20.</div>
   </td>
   <td>
     <div>ad. No. 60, 1996</div>
@@ -31873,23 +31732,7 @@ of Chapt. 11</div>
 </tr>
 <tr>
   <td>
-    <div>S. 347</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2009; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 348, 349</div>
+    <div>Ss. 347–349</div>
   </td>
   <td>
     <div>ad. No. 104, 2002</div>
@@ -36049,7 +35892,7 @@ No. 55, 2009</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2009; No. 8, 2010</div>
+    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -42912,6 +42755,18 @@ Part XVII</div>
   </td>
 </tr></table>
 
+### Note 2
+
+Subclause 4(1) of Schedule 1—Schedule 22 (item 244) of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ (No. 55, 2009) provides as follows:
+
+## Schedule 22
+
+## 244  Subclause 4(1) of Schedule 10 (renumbered Schedule 1)
+
+Omit “this Act, on and after the reform commencement”, substitute “the Fair Work Act, on and after the commencement of provisions of that Act”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -42923,23 +42778,23 @@ _Workplace Relations and Other Legislation Amendment Act 1996
 
 ## 11  Transitional—applications under section 118A of the Workplace Relations Act in respect of which the substantive hearing has not begun
 
-(1)       This item applies to an application made under section 118A of the Workplace Relations Act but in respect of which the Commission had not begun the substantive hearing before the commencement of this item.
+(1)        This item applies to an application made under section 118A of the Workplace Relations Act but in respect of which the Commission had not begun the substantive hearing before the commencement of this item.
 
-(2)       After the commencement of this item, the application has effect as if it were an application made under section 118A of the Workplace Relations Act as amended by this Schedule.
+(2)        After the commencement of this item, the application has effect as if it were an application made under section 118A of the Workplace Relations Act as amended by this Schedule.
 
 ## 12  Transitional—applications under section 118A of the Workplace Relations Act in respect of which the substantive hearing has begun
 
-(1)       This item applies to an application made under section 118A of the Workplace Relations Act and in respect of which the Commission had begun the substantive hearing before the commencement of this item.
+(1)        This item applies to an application made under section 118A of the Workplace Relations Act and in respect of which the Commission had begun the substantive hearing before the commencement of this item.
 
-(2)       Despite the amendments made to section 118A of the Workplace Relations Act by this Schedule, that section as in force immediately before the commencement of this item continues to apply in relation to the hearing of the application.
+(2)        Despite the amendments made to section 118A of the Workplace Relations Act by this Schedule, that section as in force immediately before the commencement of this item continues to apply in relation to the hearing of the application.
 
-(3)       An order made as a result of the hearing of the application has effect as if it had been made under section 118A of the Workplace Relations Act as amended by this Schedule.
+(3)        An order made as a result of the hearing of the application has effect as if it had been made under section 118A of the Workplace Relations Act as amended by this Schedule.
 
 ## 13  Transitional—orders under section 118A of the Workplace Relations Act
 
-(1)       This item applies to an order that was in force under section 118A of the Workplace Relations Act immediately before the commencement of this item.
+(1)        This item applies to an order that was in force under section 118A of the Workplace Relations Act immediately before the commencement of this item.
 
-(2)       The order continues in force, after the commencement of this item, as if it had been made under section 118A of the Workplace Relations Act as amended by this Schedule.
+(2)        The order continues in force, after the commencement of this item, as if it had been made under section 118A of the Workplace Relations Act as amended by this Schedule.
 
 ## Schedule 5  
 
@@ -42971,15 +42826,15 @@ For the purposes of this Part, **_special consent provisions_** are provisions o
 
 ## 49  Variation of awards during the interim period
 
-(1)       If one or more of the parties to an award apply to the Commission for a variation of the award under this item, the Commission may, during the interim period, vary the award so that it only deals with allowable award matters.
+(1)        If one or more of the parties to an award apply to the Commission for a variation of the award under this item, the Commission may, during the interim period, vary the award so that it only deals with allowable award matters.
 
-(2)       For the purposes of this item, an exceptional matters order is taken to relate wholly to allowable award matters.
+(2)        For the purposes of this item, an exceptional matters order is taken to relate wholly to allowable award matters.
 
-(3)       Special consent provisions cannot be varied under this item before the termination time for those provisions.
+(3)        Special consent provisions cannot be varied under this item before the termination time for those provisions.
 
-(4)       The Commission may only deal with the application by arbitration if it is satisfied that the applicant or applicants have made reasonable attempts to reach agreement with the other parties to the award about how the award should be varied and the treatment of matters that are not allowable award matters.
+(4)        The Commission may only deal with the application by arbitration if it is satisfied that the applicant or applicants have made reasonable attempts to reach agreement with the other parties to the award about how the award should be varied and the treatment of matters that are not allowable award matters.
 
-(5)       If:
+(5)        If:
 
                      (a)  the award provides for rates of pay that, in the opinion of the Commission:
 
@@ -42991,9 +42846,9 @@ For the purposes of this Part, **_special consent provisions_** are provisions o
 
 the Commission may vary the award so that it provides for minimum rates of pay consistent with sections 88A and 88B of the Principal Act and the limitation on the Commission’s power in subsection 89A(3) of that Act.
 
-(6)       If the Commission varies the award under subitem (5), it must include in the award provisions that ensure that overall entitlements to pay provided by the award are not reduced by that variation, unless the Commission considers that it would be in the public interest not to include such provisions.
+(6)        If the Commission varies the award under subitem (5), it must include in the award provisions that ensure that overall entitlements to pay provided by the award are not reduced by that variation, unless the Commission considers that it would be in the public interest not to include such provisions.
 
-(7)       The Commission must, if it considers it appropriate, review the award to determine whether or not it meets the following criteria:
+(7)        The Commission must, if it considers it appropriate, review the award to determine whether or not it meets the following criteria:
 
                      (a)  it does not include matters of detail or process that are more appropriately dealt with by agreement at the workplace or enterprise level;
 
@@ -43001,7 +42856,7 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                      (c)  it does not contain provisions that have the effect of restricting or hindering productivity, having regard to fairness to employees.
 
-(8)       The Commission must also review the award to determine whether or not it meets the following criteria:
+(8)        The Commission must also review the award to determine whether or not it meets the following criteria:
 
                      (a)  where appropriate, it contains facilitative provisions that allow agreement at the workplace or enterprise level, between employers and employees (including individual employees), on how the award provisions are to apply;
 
@@ -43015,31 +42870,31 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                       (f)  it does not contain provisions that discriminate against an employee because of, or for reasons including, race, colour, sex, sexual preference, age, physical or mental disability, marital status, family responsibilities, pregnancy, religion, political opinion, national extraction or social origin.
 
-(9)       If the Commission determines that the award does not meet the criteria set out in subitem (7) or (8), the Commission may take whatever steps it considers appropriate to facilitate the variation of the award so that it does meet those criteria.
+(9)        If the Commission determines that the award does not meet the criteria set out in subitem (7) or (8), the Commission may take whatever steps it considers appropriate to facilitate the variation of the award so that it does meet those criteria.
 
 ## 50  Parts of awards cease to have effect at the end of the interim period
 
-(1)       At the end of the interim period, each award ceases to have effect to the extent that it provides for matters other than allowable award matters.
+(1)        At the end of the interim period, each award ceases to have effect to the extent that it provides for matters other than allowable award matters.
 
-(2)       For the purposes of this item, an exceptional matters order is taken to relate wholly to allowable award matters.
+(2)        For the purposes of this item, an exceptional matters order is taken to relate wholly to allowable award matters.
 
-(3)       For the purposes of this item, an award that is made under subsection 170MX(3) of the Principal Act, or varied under item 49 of this Schedule, is taken to provide wholly for allowable award matters.
+(3)        For the purposes of this item, an award that is made under subsection 170MX(3) of the Principal Act, or varied under item 49 of this Schedule, is taken to provide wholly for allowable award matters.
 
-(4)       If the termination time for special consent provisions is after the end of the interim period, then this item and item 51 apply to the special consent provisions as if a reference to the end of the interim period were instead a reference to the termination time.
+(4)        If the termination time for special consent provisions is after the end of the interim period, then this item and item 51 apply to the special consent provisions as if a reference to the end of the interim period were instead a reference to the termination time.
 
 ## 51  Variation of awards after the end of the interim period
 
-(1)       As soon as practicable after the end of the interim period, the Commission must review each award:
+(1)        As soon as practicable after the end of the interim period, the Commission must review each award:
 
                      (a)  that is in force; and
 
                      (b)  that the Commission is satisfied has been affected by item 50.
 
-(2)       The Commission must vary the award to remove provisions that ceased to have effect under item 50.
+(2)        The Commission must vary the award to remove provisions that ceased to have effect under item 50.
 
-(3)       When varying the award under subitem (2), the Commission may also vary the award so that, in relation to an allowable award matter, the award is expressed in a way that reasonably represents the entitlements of employees in respect of that matter as provided in the award as in force immediately before the end of the interim period.
+(3)        When varying the award under subitem (2), the Commission may also vary the award so that, in relation to an allowable award matter, the award is expressed in a way that reasonably represents the entitlements of employees in respect of that matter as provided in the award as in force immediately before the end of the interim period.
 
-(4)       If, immediately before the end of the interim period, the award provided for rates of pay that, in the opinion of the Commission:
+(4)        If, immediately before the end of the interim period, the award provided for rates of pay that, in the opinion of the Commission:
 
                      (a)  were not operating as minimum rates of pay; or
 
@@ -43047,9 +42902,9 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
 the Commission may vary the award so that it provides for minimum rates of pay consistent with sections 88A and 88B of the Principal Act and the limitation on the Commission’s power in subsection 89A(3) of that Act.
 
-(5)       If the Commission varies the award under subitem (4), it must include in the award provisions that ensure that overall entitlements to pay provided by the award are not reduced by that variation, unless the Commission considers that it would be in the public interest not to include such provisions.
+(5)        If the Commission varies the award under subitem (4), it must include in the award provisions that ensure that overall entitlements to pay provided by the award are not reduced by that variation, unless the Commission considers that it would be in the public interest not to include such provisions.
 
-(6)       The Commission must, if it considers it appropriate, review the award to determine whether or not it meets the following criteria:
+(6)        The Commission must, if it considers it appropriate, review the award to determine whether or not it meets the following criteria:
 
                      (a)  it does not include matters of detail or process that are more appropriately dealt with by agreement at the workplace or enterprise level;
 
@@ -43057,7 +42912,7 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                      (c)  it does not contain provisions that have the effect of restricting or hindering productivity, having regard to fairness to employees.
 
-(7)       The Commission must also review the award to determine whether or not it meets the following criteria:
+(7)        The Commission must also review the award to determine whether or not it meets the following criteria:
 
                      (a)  where appropriate, it contains facilitative provisions that allow agreement at the workplace or enterprise level, between employers and employees (including individual employees), on how the award provisions are to apply;
 
@@ -43073,11 +42928,11 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                       (f)  it does not contain provisions that discriminate against an employee because of, or for reasons including, race, colour, sex, sexual preference, age, physical or mental disability, marital status, family responsibilities, pregnancy, religion, political opinion, national extraction or social origin.
 
-(8)       If the Commission determines that the award does not meet the criteria set out in subitem (6) or (7), the Commission may take whatever steps it considers appropriate to facilitate the variation of the award so that it does meet those criteria.
+(8)        If the Commission determines that the award does not meet the criteria set out in subitem (6) or (7), the Commission may take whatever steps it considers appropriate to facilitate the variation of the award so that it does meet those criteria.
 
 ## 52  Corporations not bound by State awards
 
-(1)       If:
+(1)        If:
 
                      (a)  a constitutional corporation is bound by an award in respect of an employee; and
 
@@ -43087,13 +42942,13 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
 then the corporation is not bound by the State award in relation to the employee unless it becomes bound as a result of an application by the corporation to the relevant State industrial authority.
 
-(2)       Subitem (1) does not operate so that a State award, or part of a State award, prevails over an award of the Commission.
+(2)        Subitem (1) does not operate so that a State award, or part of a State award, prevails over an award of the Commission.
 
 ## 53  Matters to be dealt with by Full Bench
 
-(1)       After the commencement of this Part, a Full Bench may establish principles about varying awards under this Part.
+(1)        After the commencement of this Part, a Full Bench may establish principles about varying awards under this Part.
 
-(2)       After such principles (if any) have been established, the power of the Commission to vary an award under this Part is exercisable only by a Full Bench unless the contents of the award:
+(2)        After such principles (if any) have been established, the power of the Commission to vary an award under this Part is exercisable only by a Full Bench unless the contents of the award:
 
                      (a)  give effect to determinations of a Full Bench under this Part; or
 
@@ -43101,7 +42956,7 @@ then the corporation is not bound by the State award in relation to the employee
 
 ## 54  Certain provisions not discriminatory
 
-(1)       A provision of an award does not discriminate against an employee for the purposes of paragraph 49(8)(f) or 51(7)(f) merely because:
+(1)        A provision of an award does not discriminate against an employee for the purposes of paragraph 49(8)(f) or 51(7)(f) merely because:
 
                      (a)  it provides for a junior rate of pay; or
 
@@ -43121,15 +42976,15 @@ The repeal of subsection 111(1A) of the Principal Act does not apply to any proc
 
 ## 17  Application of amendments
 
-(1)       Subject to this item and other provisions in this Act, the Workplace Relations Act as amended by this Schedule applies to terminations of employment occurring on or after 30 March 1994.
+(1)        Subject to this item and other provisions in this Act, the Workplace Relations Act as amended by this Schedule applies to terminations of employment occurring on or after 30 March 1994.
 
-(2)       The Workplace Relations Act as amended by this Schedule does not apply to a termination of employment occurring before the commencement of this Schedule if an application was made in respect of that termination under section 170EA of the Workplace Relations Act as in force at any time before that commencement.
+(2)        The Workplace Relations Act as amended by this Schedule does not apply to a termination of employment occurring before the commencement of this Schedule if an application was made in respect of that termination under section 170EA of the Workplace Relations Act as in force at any time before that commencement.
 
-(3)       Subject to Schedule 16 and any provision in an Act, if an application was made under section 170EA of the Workplace Relations Act as in force at any time before the commencement of this Schedule, that Act as so in force continues to be in force in respect of any proceeding arising from that application.
+(3)        Subject to Schedule 16 and any provision in an Act, if an application was made under section 170EA of the Workplace Relations Act as in force at any time before the commencement of this Schedule, that Act as so in force continues to be in force in respect of any proceeding arising from that application.
 
-(4)       If, in the continuing application of this Act as in force before the commencement of this Schedule, the Commission decides, after the transfer day as defined for the purposes of Part 3 of Schedule 16, to refer a matter to the Industrial Relations Court of Australia, that matter is to be treated, for the purposes of that Part, as if it had been so referred before that day and item 64 of that Part applies accordingly.
+(4)        If, in the continuing application of this Act as in force before the commencement of this Schedule, the Commission decides, after the transfer day as defined for the purposes of Part 3 of Schedule 16, to refer a matter to the Industrial Relations Court of Australia, that matter is to be treated, for the purposes of that Part, as if it had been so referred before that day and item 64 of that Part applies accordingly.
 
-(5)       Item 14 of Schedule 2 to the _Industrial Relations and Other Legislation Amendment Act 1995_ continues to have effect in relation to an application made under section 170EA of the Workplace Relations Act as in force before the commencement of this Schedule. However, that item ceases to have effect in relation to a termination of employment for which no application under that section has been made before the commencement of this Schedule.
+(5)        Item 14 of Schedule 2 to the _Industrial Relations and Other Legislation Amendment Act 1995_ continues to have effect in relation to an application made under section 170EA of the Workplace Relations Act as in force before the commencement of this Schedule. However, that item ceases to have effect in relation to a termination of employment for which no application under that section has been made before the commencement of this Schedule.
 
 ## Schedule 7  
 
@@ -43139,15 +42994,15 @@ Any order made under Division 1 of Part VIA of the Workplace Relations Act a
 
 ## 13  Application of section 170BHA
 
-(1)       Subsections 170BHA(1) and (2) of the Workplace Relations Act have effect in relation to the prevention of an application being made under Division 2 of Part VIA of that Act on or after the commencement of this Schedule, whether or not the proceedings for an alternative remedy referred to in subsection 170BHA(1) began before that commencement.
+(1)        Subsections 170BHA(1) and (2) of the Workplace Relations Act have effect in relation to the prevention of an application being made under Division 2 of Part VIA of that Act on or after the commencement of this Schedule, whether or not the proceedings for an alternative remedy referred to in subsection 170BHA(1) began before that commencement.
 
-(2)       Subsections 170BHA(3) and (4) of the Workplace Relations Act have effect in relation to the prevention of the taking of proceedings for an alternative remedy referred to in subsection 170BHA(3) on or after the commencement of this Schedule, whether or not the application under Division 2 of Part VIA referred to in that subsection was made before that commencement.
+(2)        Subsections 170BHA(3) and (4) of the Workplace Relations Act have effect in relation to the prevention of the taking of proceedings for an alternative remedy referred to in subsection 170BHA(3) on or after the commencement of this Schedule, whether or not the application under Division 2 of Part VIA referred to in that subsection was made before that commencement.
 
 ## Schedule 8  
 
 ## 23  Application and transitional
 
-(1)       Subject to this item, the amendments made by this Schedule apply to:
+(1)        Subject to this item, the amendments made by this Schedule apply to:
 
                      (a)  an agreement made after the commencement of this Schedule; and
 
@@ -43155,7 +43010,7 @@ Any order made under Division 1 of Part VIA of the Workplace Relations Act a
 
 New termination provisions apply to pre-commencement certified agreements
 
-(2)       If:
+(2)        If:
 
                      (a)  an agreement was entered into before the commencement of this Schedule and was covered by Division 2 of Part VIB of the _Workplace Relations Act 1996_ as then in force; and
 
@@ -43171,7 +43026,7 @@ then, after the commencement of this Schedule, section 170MH of that Act as am
 
 Enterprise flexibility agreements that prevail over certified agreements
 
-(3)       If:
+(3)        If:
 
                      (a)  an enterprise flexibility agreement is continued in force by Schedule 9; and
 
@@ -43185,7 +43040,7 @@ then the enterprise flexibility agreement prevails over the certified agreement,
 
 Certified agreements that prevail over enterprise flexibility agreements
 
-(4)       If:
+(4)        If:
 
                      (a)  an enterprise flexibility agreement is continued in force by Schedule 9; and
 
@@ -43197,19 +43052,19 @@ the certified agreement prevails over the enterprise flexibility agreement, to t
 
 170MX(3) awards and exceptional matters orders prevail over pre- and post-commencement certified agreements
 
-(5)       Subsections 170LY(2) and (3) of the _Workplace Relations Act 1996_ as amended by this Schedule apply to certified agreements whether certified before or after the commencement of this Schedule.
+(5)        Subsections 170LY(2) and (3) of the _Workplace Relations Act 1996_ as amended by this Schedule apply to certified agreements whether certified before or after the commencement of this Schedule.
 
 Ongoing matters under Bargaining Division
 
-(6)       The Commission may continue to deal with an ongoing matter (see subitem (7)), on and after the day on which this Schedule commences, in the exercise of the functions and powers of the Commission under the _Workplace Relations Act 1996_ as amended by this Act.
+(6)        The Commission may continue to deal with an ongoing matter (see subitem (7)), on and after the day on which this Schedule commences, in the exercise of the functions and powers of the Commission under the _Workplace Relations Act 1996_ as amended by this Act.
 
 Meaning of **ongoing matters**
 
-(7)       In subitem (6), an **_ongoing matter_** means a matter that the Commission had started to deal with, before the day on which this Schedule commenced, in the exercise of the functions and powers described in the _Workplace Relations Act 1996_ (as then in force) as the Bargaining Division’s functions and powers.
+(7)        In subitem (6), an **_ongoing matter_** means a matter that the Commission had started to deal with, before the day on which this Schedule commenced, in the exercise of the functions and powers described in the _Workplace Relations Act 1996_ (as then in force) as the Bargaining Division’s functions and powers.
 
 Annual report under former section 170RC
 
-(8)       Section 170RC of the _Workplace Relations Act 1996_ as in force immediately before the commencement of this Schedule does not require, and is taken never to have required, the Minister to cause a person to review and to report to the Minister in relation to the reporting period ending on 31 December 1996.
+(8)        Section 170RC of the _Workplace Relations Act 1996_ as in force immediately before the commencement of this Schedule does not require, and is taken never to have required, the Minister to cause a person to review and to report to the Minister in relation to the reporting period ending on 31 December 1996.
 
 ## Schedule 9  
 
@@ -43217,11 +43072,11 @@ Annual report under former section 170RC
 
 Pre-commencement EFA continues despite amendments of Act
 
-(1)       Despite the amendments made by Part 1 of this Schedule, a pre-commencement EFA continues to have effect, to the extent provided by the following subitems, as if those amendments had not been made.
+(1)        Despite the amendments made by Part 1 of this Schedule, a pre-commencement EFA continues to have effect, to the extent provided by the following subitems, as if those amendments had not been made.
 
 Period of operation ending after commencement of amendments
 
-(2)       If the period of operation of the EFA ends after the commencement of this Part:
+(2)        If the period of operation of the EFA ends after the commencement of this Part:
 
                      (a)  the EFA continues in force until the end of the period of operation; and
 
@@ -43229,23 +43084,23 @@ Period of operation ending after commencement of amendments
 
 Period of operation ending before commencement of amendments
 
-(3)       If the period of the EFA ended before the commencement of this Part, the EFA continues in force after the commencement of this Part until terminated by the Commission under subitem (4).
+(3)        If the period of the EFA ended before the commencement of this Part, the EFA continues in force after the commencement of this Part until terminated by the Commission under subitem (4).
 
 Termination by Commission
 
-(4)       The Commission may, on application by a party to an EFA, terminate the EFA if the Commission considers that it is not contrary to the public interest to do so. The termination takes effect at the end of the day on which the Commission makes its determination, or at such later time as is specified in the determination.
+(4)        The Commission may, on application by a party to an EFA, terminate the EFA if the Commission considers that it is not contrary to the public interest to do so. The termination takes effect at the end of the day on which the Commission makes its determination, or at such later time as is specified in the determination.
 
 Period of operation cannot be extended
 
-(5)       The period of operation of the EFA cannot be extended after the commencement of this Part.
+(5)        The period of operation of the EFA cannot be extended after the commencement of this Part.
 
 EFA is displaced by Australian workplace agreement
 
-(6)       If an Australian workplace agreement comes into operation in relation to an employee who is bound by the EFA, the EFA ceases to have effect in relation to that employee.
+(6)        If an Australian workplace agreement comes into operation in relation to an employee who is bound by the EFA, the EFA ceases to have effect in relation to that employee.
 
 EFA displaced by certain awards or orders
 
-(7)       The following prevail over an EFA, to the extent of any inconsistency:
+(7)        The following prevail over an EFA, to the extent of any inconsistency:
 
                      (a)  an exceptional matters order;
 
@@ -43253,7 +43108,7 @@ EFA displaced by certain awards or orders
 
 Disability Discrimination Act
 
-(8)       For the purposes of the _Disability Discrimination Act 1984_, an EFA is taken to be an award of the kind referred to in:
+(8)        For the purposes of the _Disability Discrimination Act 1984_, an EFA is taken to be an award of the kind referred to in:
 
                      (a)  the definition of **_Commonwealth law_** in section 4 of that Act; and
 
@@ -43261,11 +43116,11 @@ Disability Discrimination Act
 
 Sex Discrimination Act
 
-(9)       For the purposes of the _Sex Discrimination Act 1984_, an EFA is taken to be an award of the kind referred to in section 40 of that Act.
+(9)        For the purposes of the _Sex Discrimination Act 1984_, an EFA is taken to be an award of the kind referred to in section 40 of that Act.
 
 Interpretation
 
-(10)     In this item:
+(10)      In this item:
 
                     <a name="efa"></a>**_EFA_** means an enterprise flexibility agreement.
 
@@ -43295,9 +43150,9 @@ Despite items 1, 4, 6, 7 and 11, sections 125 and 166 and Division 2 of Pa
 
 ## 41  Transitional—notices under subsections 280(7) and (8) of the Workplace Relations Act
 
-(1)       A notice given by a Registrar under subsection 280(7) of the Workplace Relations Act to an officer or employee of an organisation before the commencement of item 28 is, after that commencement, taken to have been given under subsection 280B(1) of the Workplace Relations Act.
+(1)        A notice given by a Registrar under subsection 280(7) of the Workplace Relations Act to an officer or employee of an organisation before the commencement of item 28 is, after that commencement, taken to have been given under subsection 280B(1) of the Workplace Relations Act.
 
-(2)       A notice given by a Registrar under subsection 280(8) of the Workplace Relations Act to an organisation before the commencement of item 28 is, after that commencement, taken to have been given under subsection 280B(3) of the Workplace Relations Act.
+(2)        A notice given by a Registrar under subsection 280(8) of the Workplace Relations Act to an organisation before the commencement of item 28 is, after that commencement, taken to have been given under subsection 280B(3) of the Workplace Relations Act.
 
 ## Schedule 17  
 
@@ -43347,9 +43202,9 @@ _Note:       If no certificate was granted under section 163D of t
 
 ## 32  If certificate under section 163D of old WR Act granted in relation to conduct that continues after commencement
 
-(1)       This item applies if, before the commencement, the Commission granted a certificate under section 163D of the old WR Act in relation to a dispute about conduct and the conduct continues after the commencement.
+(1)        This item applies if, before the commencement, the Commission granted a certificate under section 163D of the old WR Act in relation to a dispute about conduct and the conduct continues after the commencement.
 
-(2)       In relation to so much of the conduct as occurred before the commencement:
+(2)        In relation to so much of the conduct as occurred before the commencement:
 
                      (a)  the old WR Act continues to apply to that conduct as though the amendments made by this Schedule had not been made; and
 
@@ -43357,7 +43212,7 @@ _Note:       If no certificate was granted under section 163D of t
 
                      (c)  if, under Part 3 of Schedule 16, the Industrial Relations Court continues to have jurisdiction in relation to proceedings begun before the jurisdiction transfer day in relation to that conduct, that Court may, in accordance with that Part of that Schedule, continue to exercise jurisdiction in the proceedings.
 
-(3)       In relation to so much of the conduct as occurs after the commencement, the amended TP Act applies as if that conduct had started on the commencement.
+(3)        In relation to so much of the conduct as occurs after the commencement, the amended TP Act applies as if that conduct had started on the commencement.
 
 ## 33  If no certificate under section 163D of old WR Act granted in relation to conduct that continues after commencement
 
@@ -43379,15 +43234,15 @@ If conduct to which section 45D of the old TP Act applied ended before the com
 
 ## 35  If conduct to which section 45D of old TP Act applied continues after commencement
 
-(1)       This item applies if conduct to which section 45D of the old TP Act applied started before the commencement and continues after the commencement.
+(1)        This item applies if conduct to which section 45D of the old TP Act applied started before the commencement and continues after the commencement.
 
-(2)       In relation to so much of the conduct as occurred before the commencement, the old TP Act continues to apply to that conduct as though the amendments made by this Schedule had not been made.
+(2)        In relation to so much of the conduct as occurred before the commencement, the old TP Act continues to apply to that conduct as though the amendments made by this Schedule had not been made.
 
-(3)       In relation to so much of the conduct as occurs after the commencement, the amended TP Act applies as if that conduct started on the commencement.
+(3)        In relation to so much of the conduct as occurs after the commencement, the amended TP Act applies as if that conduct started on the commencement.
 
 ## 36  Power to vary or rescind orders and injunctions made under repealed provisions
 
-(1)       An order or injunction:
+(1)        An order or injunction:
 
                      (a)  made by a court before the commencement under or in relation to a repealed provision; or
 
@@ -43395,9 +43250,9 @@ If conduct to which section 45D of the old TP Act applied ended before the com
 
 may, subject to subsection (2), be varied or rescinded by the court after the commencement, despite the repeal of the provision, as if the amendments made by this Schedule had not been made.
 
-(2)       If the court that made the order or injunction is or was the Industrial Relations Court of Australia, the power to vary or rescind the order or injunction given by subsection (1) is, on or after the jurisdiction transfer day, to be exercised by the Federal Court of Australia, unless Part 3 of Schedule 16 provides for the Industrial Relations Court of Australia to continue to exercise jurisdiction in proceedings for the variation or rescission of the order or injunction.
+(2)        If the court that made the order or injunction is or was the Industrial Relations Court of Australia, the power to vary or rescind the order or injunction given by subsection (1) is, on or after the jurisdiction transfer day, to be exercised by the Federal Court of Australia, unless Part 3 of Schedule 16 provides for the Industrial Relations Court of Australia to continue to exercise jurisdiction in proceedings for the variation or rescission of the order or injunction.
 
-(3)       In this section:
+(3)        In this section:
 
                     <a name="repeal-provision"></a>**_repealed provision_** means:
 
@@ -43407,7 +43262,7 @@ may, subject to subsection (2), be varied or rescinded by the court after the 
 
 ## 37  Power to vary or revoke decisions of Commission made under repealed provisions
 
-(1)       A decision of the Commission:
+(1)        A decision of the Commission:
 
                      (a)  made before the commencement under or in relation to a repealed provision; or
 
@@ -43415,7 +43270,7 @@ may, subject to subsection (2), be varied or rescinded by the court after the 
 
 may be varied or revoked by the Commission after the commencement, despite the repeal of the provision, as if the amendments made by this Schedule had not been made.
 
-(2)       In this section:
+(2)        In this section:
 
                     <a name="decision"></a>**_decision_** includes an order, direction or determination.
 
@@ -43438,7 +43293,7 @@ For the purposes of the application of Part XA of the _Workplace Relations Act
 
 ## 10  Application of section 298Z
 
-(1)       Section 298Z of the _Workplace Relations Act 1996_ applies to an agreement that was:
+(1)        Section 298Z of the _Workplace Relations Act 1996_ applies to an agreement that was:
 
                      (a)  entered into before the commencement of Schedule 8 to the _Workplace Relations and Other Legislation Amendment Act 1996_; and
 
@@ -43446,7 +43301,7 @@ For the purposes of the application of Part XA of the _Workplace Relations Act
 
 as if the agreement were a certified agreement. Section 298Z so applies in spite of anything in section 170MK of the _Workplace Relations Act 1996_ as in force before the commencement of Schedule 8 to the _Workplace Relations and Other Legislation Amendment Act 1996_.
 
-(2)       Section 298Z of the _Workplace Relations Act 1996_ applies to an enterprise flexibility agreement that is in force at the commencement of this Schedule as if the enterprise flexibility agreement were a certified agreement. Section 298Z so applies in spite of anything in section 170NL of the _Workplace Relations Act 1996_ as in force before the commencement of Schedule 8 to the _Workplace Relations and Other Legislation Amendment Act 1996_.
+(2)        Section 298Z of the _Workplace Relations Act 1996_ applies to an enterprise flexibility agreement that is in force at the commencement of this Schedule as if the enterprise flexibility agreement were a certified agreement. Section 298Z so applies in spite of anything in section 170NL of the _Workplace Relations Act 1996_ as in force before the commencement of Schedule 8 to the _Workplace Relations and Other Legislation Amendment Act 1996_.
 
 ## Schedule 6  
 
@@ -43460,7 +43315,7 @@ The amendments made by items 8, 9 and 11 do not apply in relation to any propo
 
 ## 16  Applications for withdrawals from amalgamations
 
-(1)       If:
+(1)        If:
 
                      (a)  an application was made, before the commencement of this Schedule, under section 253ZJ of the _Workplace Relations Act 1996_, for a ballot to be held to decide whether a constituent part of an amalgamated organisation should withdraw from the organisation; and
 
@@ -43468,7 +43323,7 @@ The amendments made by items 8, 9 and 11 do not apply in relation to any propo
 
 the amendments made by items 8, 9 and 11 apply in relation to the proposal for withdrawal, subject to the modifications specified in subitem (2).
 
-(2)       The modifications that apply in relation to the proposal for withdrawal are as follows:
+(2)        The modifications that apply in relation to the proposal for withdrawal are as follows:
 
                      (a)  the requirement under subsection 253ZJA(1) of the _Workplace Relations Act 1996_ that the application referred to in that subsection must be accompanied by the outline referred to in that subsection is taken to be a requirement that the outline must be filed with the Court within such time as the Court allows;
 
@@ -43480,9 +43335,9 @@ Section 253ZW of the _Workplace Relations Act 1996_ applies to acts or omissio
 
 ## 18  Applications, and commenced ballots, for withdrawals from amalgamations
 
-(1)       Subject to subitem (2), the amendments made by items 2, 3, 4, 7 and 12 apply in relation to any application made before the commencement of this Schedule for a ballot to be held to decide whether a constituent part of an amalgamated organisation should withdraw from the organisation.
+(1)        Subject to subitem (2), the amendments made by items 2, 3, 4, 7 and 12 apply in relation to any application made before the commencement of this Schedule for a ballot to be held to decide whether a constituent part of an amalgamated organisation should withdraw from the organisation.
 
-(2)       The amendments made by items 2, 3, 4, 7 and 12:
+(2)        The amendments made by items 2, 3, 4, 7 and 12:
 
                      (a)  do not apply to the extent (if any) that they would, apart from this paragraph, invalidate the application; and
 
@@ -43526,9 +43381,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -43540,7 +43395,7 @@ _Timor Gap Treaty (Transitional Arrangements) Act 2000 (No. 25, 2000)_
 
                     <a name="transition-time"></a>**_transition time_** means 1.23 am Australian Central Standard Time on 26 October 1999.
 
-Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world-wide web site.
+Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East  Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world-wide web site.
 
 * * *
 
@@ -43550,7 +43405,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -43560,7 +43415,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -43650,9 +43505,9 @@ _Workplace Relations Legislation Amendment (Registration and Accountability of O
 
 ## 114  Transitional and saving provisions
 
-(1)       An application made under section 291A of the _Workplace Relations Act 1996_ but not determined before the commencement of this item is taken to have been made under section 170LKA of that Act as in force after that commencement.
+(1)        An application made under section 291A of the _Workplace Relations Act 1996_ but not determined before the commencement of this item is taken to have been made under section 170LKA of that Act as in force after that commencement.
 
-(2)       A certificate in force under section 291A of the _Workplace Relations Act 1996_ as in force immediately before the commencement of this item continues in force on and after that commencement as if it had been issued under section 170LKA of that Act as in force after that commencement.
+(2)        A certificate in force under section 291A of the _Workplace Relations Act 1996_ as in force immediately before the commencement of this item continues in force on and after that commencement as if it had been issued under section 170LKA of that Act as in force after that commencement.
 
 * * *
 
@@ -43737,7 +43592,7 @@ To avoid doubt, the amendments made by this Schedule apply in relation to an emp
 
 * * *
 
-_Workplace Relations Amendment (Fair Termination) Act 2003 (No. 104, 2003)_
+_Workplace Relations Amendment (Fair Termination) Act 2003 (No. 104, 2003)_
 
 ## Schedule 1
 
@@ -43795,31 +43650,31 @@ The amendment of the Principal Act made by item 15 applies only in relation to
 
 ## 33  Saving provision in relation to certain regulations made for the purposes of sections 353A and 514 of the Principal Act
 
-(1)       Any regulations made for the purposes of section 353A of the Principal Act and dealing with record keeping in relation to employees covered by an employment agreement (within the meaning of Part XV) that are in force immediately before the commencement of items 17, 18 and 19 continue in force, on and after that day, as if they were regulations made to deal with that matter for the purposes of subsection 514(2) of that Act as amended by those items.
+(1)        Any regulations made for the purposes of section 353A of the Principal Act and dealing with record keeping in relation to employees covered by an employment agreement (within the meaning of Part XV) that are in force immediately before the commencement of items 17, 18 and 19 continue in force, on and after that day, as if they were regulations made to deal with that matter for the purposes of subsection 514(2) of that Act as amended by those items.
 
-(2)       Any regulations made for the purposes of section 514 of the Principal Act that are in force immediately before the commencement of item 18 continue in force, on and after that day, as if they were regulations made for the purposes of subsection 514(3) of that Act as amended by that item.
+(2)        Any regulations made for the purposes of section 514 of the Principal Act that are in force immediately before the commencement of item 18 continue in force, on and after that day, as if they were regulations made for the purposes of subsection 514(3) of that Act as amended by that item.
 
 ## 34  Application of items 21 and 26—annual leave
 
-(1)       The amendments of the Principal Act made by items 21 and 26 (except the insertion of clause 1E of Schedule 1A) apply to the calculation of an employee’s annual leave in respect of:
+(1)        The amendments of the Principal Act made by items 21 and 26 (except the insertion of clause 1E of Schedule 1A) apply to the calculation of an employee’s annual leave in respect of:
 
                      (a)  the first year of the employee’s employment that commences on or after the commencing day; and
 
                      (b)  each subsequent year of the employee’s employment.
 
-(2)       For the purpose of the application of subitem (1) to an employee engaged before the commencing day and continuing in that employment on that day, the reference in paragraph (1)(a) to the first year of the employee’s employment that commences after the commencing day is a reference to the year commencing on the first anniversary of that engagement occurring on or after that day.
+(2)        For the purpose of the application of subitem (1) to an employee engaged before the commencing day and continuing in that employment on that day, the reference in paragraph (1)(a) to the first year of the employee’s employment that commences after the commencing day is a reference to the year commencing on the first anniversary of that engagement occurring on or after that day.
 
-(3)       The rule in subitem (1) applies even if an employee only works part of a year.
+(3)        The rule in subitem (1) applies even if an employee only works part of a year.
 
-(4)       To avoid doubt, the amendments made by items 21 and 26 do not affect any annual leave accumulated by an employee under Schedule 1A of the Principal Act before the commencing day.
+(4)        To avoid doubt, the amendments made by items 21 and 26 do not affect any annual leave accumulated by an employee under Schedule 1A of the Principal Act before the commencing day.
 
-(5)       In this item:
+(5)        In this item:
 
 **_commencing day_** means the day that items 21 and 26 of this Schedule commence.
 
 ## 35  Application of items 21 and 26—personal leave
 
-(1)       The amendments of the Principal Act made by items 21 and 26 (except the insertion of clause 1E of Schedule 1A) apply to:
+(1)        The amendments of the Principal Act made by items 21 and 26 (except the insertion of clause 1E of Schedule 1A) apply to:
 
                      (a)  the calculation of an employee’s personal leave in respect of:
 
@@ -43829,13 +43684,13 @@ The amendment of the Principal Act made by item 15 applies only in relation to
 
                      (b)  personal leave taken on or after the commencing day.
 
-(2)       For the purpose of the application of paragraph (1)(a) to an employee engaged before the commencing day and continuing in that employment on that day, the reference in subparagraph (1)(a)(i) to the first year of the employee’s employment that commences after the commencing day is a reference to the year commencing on the first anniversary of that engagement occurring on or after that day.
+(2)        For the purpose of the application of paragraph (1)(a) to an employee engaged before the commencing day and continuing in that employment on that day, the reference in subparagraph (1)(a)(i) to the first year of the employee’s employment that commences after the commencing day is a reference to the year commencing on the first anniversary of that engagement occurring on or after that day.
 
-(3)       The rule in paragraph (1)(a) applies even if an employee only works part of a year.
+(3)        The rule in paragraph (1)(a) applies even if an employee only works part of a year.
 
-(4)       Any sick leave accumulated by an employee under paragraph 1(1)(b) of Schedule 1A as in force immediately before the commencing day is taken to be personal leave accumulated by the employee as at the commencing day.
+(4)        Any sick leave accumulated by an employee under paragraph 1(1)(b) of Schedule 1A as in force immediately before the commencing day is taken to be personal leave accumulated by the employee as at the commencing day.
 
-(5)       In this item:
+(5)        In this item:
 
 **_commencing day_** means the day that items 21 and 26 of this Schedule commence.
 
@@ -43865,9 +43720,9 @@ The amendment of the _Workplace Relations Act 1996_ made by item 8 of this Sch
 
 ## 13  Transitional—date when common rule comes into force
 
-(1)       If the Commission makes a declaration of common rule under section 141 of the _Workplace Relations Act 1996_(as it has effect because of subsection 493A(2) of that Act) within the period of 12 months starting on the day on which this item commences, the declaration comes into force immediately after the end of that period.
+(1)        If the Commission makes a declaration of common rule under section 141 of the _Workplace Relations Act 1996_(as it has effect because of subsection 493A(2) of that Act) within the period of 12 months starting on the day on which this item commences, the declaration comes into force immediately after the end of that period.
 
-(2)       Subitem (1) does not apply if the Commission specifies a condition in the declaration that the common rule is to come into force after the end of that period.
+(2)        Subitem (1) does not apply if the Commission specifies a condition in the declaration that the common rule is to come into force after the end of that period.
 
 ## Schedule 4
 
@@ -43894,13 +43749,13 @@ _Workplace Relations Amendment (Codifying Contempt Offences) Act 2004
 
 ## 6  Application of new offences in section 303
 
-(1)       Subsection 303(3) of the _Workplace Relations Act 1996_ (as amended by this Act) applies to the giving of false evidence after the commencement.
+(1)        Subsection 303(3) of the _Workplace Relations Act 1996_ (as amended by this Act) applies to the giving of false evidence after the commencement.
 
-(2)       Subsection 303(4) of the _Workplace Relations Act 1996_ (as amended by this Act) applies to the inducement after the commencement.
+(2)        Subsection 303(4) of the _Workplace Relations Act 1996_ (as amended by this Act) applies to the inducement after the commencement.
 
 ## Schedule 3
 
-## 25  Application of amendments
+## 25  Application of amendments
 
 The amendments made by this Schedule  apply in relation to contraventions occurring after the commencement of the amendments.
 
@@ -43912,7 +43767,7 @@ The amendments made by Part 1 of this Schedule apply to persons convicted of a
 
 ## 10  Transitional
 
-(1)       This item applies where:
+(1)        This item applies where:
 
                      (a)  a person was convicted of a prescribed offence before the commencement of Part 1 of this Schedule; and
 
@@ -43922,19 +43777,19 @@ The amendments made by Part 1 of this Schedule apply to persons convicted of a
 
                      (d)  the person holds an office in an organisation when Part 1 of this Schedule commences.
 
-(2)       Despite subsection 215(2) of Schedule 1B to the Principal Act:
+(2)        Despite subsection 215(2) of Schedule 1B to the Principal Act:
 
                      (a)  the person does not cease to hold the office until the end of the period of 28 days after the commencement of Part 1 of this Schedule; and
 
                      (b)  nothing done by the person before the commencement of that Part in fulfilment of that office is affected by the amendments made by that Part.
 
-(3)       Despite subsection 217(1) of Schedule 1B to the Principal Act, the person may, subject to subsection 217(4) of that Schedule, within 28 days after the commencement of Part 1 of this Schedule, apply to the Federal Court under section 217 of that Schedule for leave to hold office in organisations.
+(3)        Despite subsection 217(1) of Schedule 1B to the Principal Act, the person may, subject to subsection 217(4) of that Schedule, within 28 days after the commencement of Part 1 of this Schedule, apply to the Federal Court under section 217 of that Schedule for leave to hold office in organisations.
 
 ## 11  Savings—applications and orders under section 216 of Schedule 1B to the Principal Act
 
-(1)       If, before the commencement of Part 1 of this Schedule, a person makes an application to the Federal Court under section 216 of Schedule 1B to the Principal Act, that application is to be dealt with as if that Schedule had not been amended by Part 1 of this Schedule.
+(1)        If, before the commencement of Part 1 of this Schedule, a person makes an application to the Federal Court under section 216 of Schedule 1B to the Principal Act, that application is to be dealt with as if that Schedule had not been amended by Part 1 of this Schedule.
 
-(2)       If:
+(2)        If:
 
                      (a)  the Federal Court makes an order under section 216 of Schedule 1B to the Principal Act before the commencement of Part 1 of this Schedule; or
 
@@ -43944,9 +43799,9 @@ that order has effect after the commencement of Part 1 of this Schedule as if 
 
 ## 12  Savings—applications and orders under section 217 of Schedule 1B to the Principal Act
 
-(1)       If, before the commencement of Part 1 of this Schedule, a person makes an application to the Federal Court under section 217 of Schedule 1B to the Principal Act, that application is to be dealt with as if Schedule 1B to the Principal Act had not been amended by that Part.
+(1)        If, before the commencement of Part 1 of this Schedule, a person makes an application to the Federal Court under section 217 of Schedule 1B to the Principal Act, that application is to be dealt with as if Schedule 1B to the Principal Act had not been amended by that Part.
 
-(2)       If:
+(2)        If:
 
                      (a)  the Federal Court makes an order under section 217 of Schedule 1B to the Principal Act before the commencement of Part 1 of this Schedule; or
 
@@ -44003,15 +43858,15 @@ _Workplace Relations Legislation Amendment (Independent Contractors) Act 2006 (N
 
 ## 5  Saving—investigations and proceedings under the Workplace Relations Act 1996 in progress at the reform commencement
 
-(1)       This item applies to an investigation or proceeding in relation to a breach, or suspected breach, of subsection 905(1) of the _Workplace Relations Act 1996_ as in force before the reform commencement that:
+(1)        This item applies to an investigation or proceeding in relation to a breach, or suspected breach, of subsection 905(1) of the _Workplace Relations Act 1996_ as in force before the reform commencement that:
 
                      (a)  was commenced before the reform commencement under Part 22 of the _Workplace Relations Act 1996_; and
 
                      (b)  was not completed or finally determined, as the case requires, before the reform commencement.
 
-(2)       Despite the repeal of Part 22 of the _Workplace Relations Act 1996_ by item 3 of this Schedule, that Part continues to apply to the investigation or proceeding mentioned in subitem (1) after the reform commencement as if the Part had not been repealed.
+(2)        Despite the repeal of Part 22 of the _Workplace Relations Act 1996_ by item 3 of this Schedule, that Part continues to apply to the investigation or proceeding mentioned in subitem (1) after the reform commencement as if the Part had not been repealed.
 
-(3)       In this item:
+(3)        In this item:
 
 **_reform commencement_** means the commencement of Part 2 of the _Independent Contractors Act 2006_.
 
@@ -44039,9 +43894,9 @@ The amendments made by items 4 and 5 of this Schedule apply only in relation t
 
 ## 52  Application of item 7
 
-(1)       The amendment of the _Workplace Relations Act 1996_ made by item 7 of this Schedule applies, and is taken always to have applied, on and from the reform commencement to an unlodged agreement, within the meaning of paragraph 347(2A)(b) of the _Workplace Relations Act 1996_, in relation to which a declaration was lodged on or after the reform commencement.
+(1)        The amendment of the _Workplace Relations Act 1996_ made by item 7 of this Schedule applies, and is taken always to have applied, on and from the reform commencement to an unlodged agreement, within the meaning of paragraph 347(2A)(b) of the _Workplace Relations Act 1996_, in relation to which a declaration was lodged on or after the reform commencement.
 
-(2)       In this item:
+(2)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
@@ -44055,25 +43910,25 @@ The amendments made by items 13 to 16 apply to a ballot in respect of which a 
 
 ## 55  Transitional provision—items 13 to 16
 
-(1)       This item applies to a ballot in respect of which a ballot order was made under section 462 of the _Workplace Relations Act 1996_ before the commencement of this item if:
+(1)        This item applies to a ballot in respect of which a ballot order was made under section 462 of the _Workplace Relations Act 1996_ before the commencement of this item if:
 
                      (a)  the authorised ballot agent for the ballot was the Australian Electoral Commission; and
 
                      (b)  the Australian Electoral Commission certifies that the ballot had not been completed at the commencement of this item.
 
-(2)       After the commencement of this item, section 483 of the _Workplace Relations Act 1996_ is taken to apply to the incomplete ballot as if the ballot had been completed at the time of the certification referred to in paragraph (1)(b), so far as section 483 relates to costs:
+(2)        After the commencement of this item, section 483 of the _Workplace Relations Act 1996_ is taken to apply to the incomplete ballot as if the ballot had been completed at the time of the certification referred to in paragraph (1)(b), so far as section 483 relates to costs:
 
                      (a)  incurred by the Australian Electoral Commission; and
 
                      (b)  in respect of which, had the applicant been liable for the costs of the incomplete ballot, the applicant’s liability would have been able to have been discharged under subsections 483(5) and (6).
 
-(3)       To avoid doubt, this item does not affect any liability of the applicant in relation to the cost of holding the incomplete ballot and, in particular, does not impose any additional liability upon the applicant.
+(3)        To avoid doubt, this item does not affect any liability of the applicant in relation to the cost of holding the incomplete ballot and, in particular, does not impose any additional liability upon the applicant.
 
 ## 56  Application of items 25 and 26
 
-(1)       The amendments of the _Workplace Relations Act 1996_ made by items 25 and 26 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a transferring transitional employee.
+(1)        The amendments of the _Workplace Relations Act 1996_ made by items 25 and 26 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a transferring transitional employee.
 
-(2)       In this item:
+(2)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
@@ -44081,51 +43936,51 @@ The amendments made by items 13 to 16 apply to a ballot in respect of which a 
 
 ## 57  Application of items 24, 29 and 34 to 40
 
-(1)       The amendments of the _Workplace Relations Act 1996_ made by items 24, 29 and 34 to 40 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a section 170MX award (within the meaning of the _Workplace Relations Act 1996_).
+(1)        The amendments of the _Workplace Relations Act 1996_ made by items 24, 29 and 34 to 40 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a section 170MX award (within the meaning of the _Workplace Relations Act 1996_).
 
-(2)       However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
+(2)        However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
 
-(3)       In this item:
+(3)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
 ## 58  Application of items 31 and 33
 
-(1)       The amendments of the _Workplace Relations Act 1996_ made by items 31 and 33 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre-reform certified agreement, a preserved State agreement, a notional agreement preserving State awards or a pre-reform AWA that is in operation on the reform commencement, whether or not the pre-reform certified agreement, the preserved State agreement, the notional agreement preserving State awards or the pre-reform AWA is in operation at the commencement of this item.
+(1)        The amendments of the _Workplace Relations Act 1996_ made by items 31 and 33 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre-reform certified agreement, a preserved State agreement, a notional agreement preserving State awards or a pre-reform AWA that is in operation on the reform commencement, whether or not the pre-reform certified agreement, the preserved State agreement, the notional agreement preserving State awards or the pre-reform AWA is in operation at the commencement of this item.
 
-(2)       However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
+(2)        However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
 
-(3)       In this item:
+(3)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
 ## 59  Application of items 41 and 45
 
-(1)       The amendments of the _Workplace Relations Act 1996_ made by items 41 and 45 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to an employee (including, but not limited to, for the purposes of Division 7 of Part 7 of that Act).
+(1)        The amendments of the _Workplace Relations Act 1996_ made by items 41 and 45 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to an employee (including, but not limited to, for the purposes of Division 7 of Part 7 of that Act).
 
-(2)       However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
+(2)        However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
 
-(3)       In this item:
+(3)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
 ## 60  Application of items 46 and 47
 
-(1)       The amendments of the _Workplace Relations Act 1996_ made by items 46 and 47 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to an employee.
+(1)        The amendments of the _Workplace Relations Act 1996_ made by items 46 and 47 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to an employee.
 
-(2)       However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
+(2)        However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
 
-(3)       In this item:
+(3)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
 ## 61  Application of item 48
 
-(1)       The amendment of the _Workplace Relations Act 1996_ made by item 48 of this Schedule applies, and is taken always to have applied, on and from the reform commencement, in relation to a transferring employee.
+(1)        The amendment of the _Workplace Relations Act 1996_ made by item 48 of this Schedule applies, and is taken always to have applied, on and from the reform commencement, in relation to a transferring employee.
 
-(2)       However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
+(2)        However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
 
-(3)       In this item:
+(3)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
@@ -44133,9 +43988,9 @@ The amendments made by items 13 to 16 apply to a ballot in respect of which a 
 
 ## 62  Application of items 49 and 50
 
-(1)       The amendments of the _Workplace Relations Amendment (Work Choices) Act 2005_ made by items 49 and 50 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre-reform award or a transitional award within the meaning of the _Workplace Relations Act 1996_.
+(1)        The amendments of the _Workplace Relations Amendment (Work Choices) Act 2005_ made by items 49 and 50 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre-reform award or a transitional award within the meaning of the _Workplace Relations Act 1996_.
 
-(2)       In this item:
+(2)        In this item:
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
@@ -44148,13 +44003,13 @@ _Workplace Relations Amendment (A Stronger Safety Net) Act 2007
 
 ## 32  General transitional provision
 
-(1)       This item applies to anything done by or in relation to the Employment Advocate before the commencement of this Schedule.
+(1)        This item applies to anything done by or in relation to the Employment Advocate before the commencement of this Schedule.
 
-(2)       For the purposes of the operation of an Act, or an instrument (including regulations) or agreement made under an Act, in relation to a time on or after the commencement of this Schedule, the thing is taken to have been done by or in relation to the Workplace Authority Director.
+(2)        For the purposes of the operation of an Act, or an instrument (including regulations) or agreement made under an Act, in relation to a time on or after the commencement of this Schedule, the thing is taken to have been done by or in relation to the Workplace Authority Director.
 
-(3)       Subitem (2) does not affect the time the thing was done.
+(3)        Subitem (2) does not affect the time the thing was done.
 
-(4)       This item does not affect the following items in this Part.
+(4)        This item does not affect the following items in this Part.
 
 ## 33  Substitution of parties to proceedings
 
@@ -44162,7 +44017,7 @@ From the commencement of this Schedule, the Workplace Authority Director is subs
 
 ## 34  Gazette notices of requirements
 
-(1)       This item applies to a requirement that:
+(1)        This item applies to a requirement that:
 
                      (a)  was made under any of the following provisions of the _Workplace Relations Act 1996_:
 
@@ -44180,7 +44035,7 @@ From the commencement of this Schedule, the Workplace Authority Director is subs
 
                            (vii)  paragraph 392(5)(b);
 
-                          (viii)  paragraph 392(5)(c);
+                           (viii)  paragraph 392(5)(c);
 
                             (ix)  paragraph 393(5)(c);
 
@@ -44192,61 +44047,61 @@ From the commencement of this Schedule, the Workplace Authority Director is subs
 
                      (c)  was in force immediately before the amendment.
 
-(2)       The requirement has effect on and after the amendment as if it had been made under the provision as amended.
+(2)        The requirement has effect on and after the amendment as if it had been made under the provision as amended.
 
-(3)       This item does not prevent amendment or revocation of the requirement.
+(3)        This item does not prevent amendment or revocation of the requirement.
 
 ## 35  Workplace agreement officials
 
-(1)       For the purposes of the operation of section 165 of the _Workplace Relations Act 1996_ on and after the amendment of that section by this Schedule, a person is taken to be a workplace agreement official if the person was, at any time before that amendment, a workplace agreement official as defined in that section before that amendment.
+(1)        For the purposes of the operation of section 165 of the _Workplace Relations Act 1996_ on and after the amendment of that section by this Schedule, a person is taken to be a workplace agreement official if the person was, at any time before that amendment, a workplace agreement official as defined in that section before that amendment.
 
-(2)       Subitem (1) does not limit the definition of **_workplace agreement official_** in subsection 4(1) of the _Workplace Relations Act 1996_ as amended by this Schedule.
+(2)        Subitem (1) does not limit the definition of **_workplace agreement official_** in subsection 4(1) of the _Workplace Relations Act 1996_ as amended by this Schedule.
 
 ## 36  Annual report on Employment Advocate’s operations
 
-(1)       Despite its repeal by this Schedule, section 155 (Annual report) of the _Workplace Relations Act 1996_ continues to apply in relation to each financial year that:
+(1)        Despite its repeal by this Schedule, section 155 (Annual report) of the _Workplace Relations Act 1996_ continues to apply in relation to each financial year that:
 
                      (a)  is the financial year (the **_repeal year_**) in which this Schedule commences or the financial year immediately before the repeal year; and
 
                      (b)  is a financial year for which the Employment Advocate had not given the Minister a report under that section before the repeal.
 
-(2)       However, that section applies as if it required the Workplace Authority Director (instead of the Employment Advocate) to prepare and give the report.
+(2)        However, that section applies as if it required the Workplace Authority Director (instead of the Employment Advocate) to prepare and give the report.
 
 ## Schedule 3
 
 ## 18  Workplace inspectors
 
-(1)       This item applies to an appointment if:
+(1)        This item applies to an appointment if:
 
                      (a)  the appointment was made under subsection 167(2) of the _Workplace Relations Act 1996_; and
 
                      (b)  the appointment was in force immediately before the commencement of this Schedule.
 
-(2)       The appointment has effect, after the commencement of this item, as if it had been made under subsection 167(2) of the _Workplace Relations Act 1996_ as amended by this Schedule.
+(2)        The appointment has effect, after the commencement of this item, as if it had been made under subsection 167(2) of the _Workplace Relations Act 1996_ as amended by this Schedule.
 
 ## 19  Identity cards
 
-(1)       Subitem (2) applies to an identity card if:
+(1)        Subitem (2) applies to an identity card if:
 
                      (a)  the identity card was issued under subsection 168(1) of the _Workplace Relations Act 1996_; and
 
                      (b)  the identity card was in force immediately before the commencement of this Schedule.
 
-(2)       The identity card has effect, after the commencement of this item, as if it had been issued under subsection 168(1) of the _Workplace Relations Act 1996_ as amended by this Schedule.
+(2)        The identity card has effect, after the commencement of this item, as if it had been issued under subsection 168(1) of the _Workplace Relations Act 1996_ as amended by this Schedule.
 
-(3)       The amendment of subsection 168(3) of the _Workplace Relations Act 1996_ made by this Schedule applies to persons ceasing to be inspectors after the commencement of this Schedule.
+(3)        The amendment of subsection 168(3) of the _Workplace Relations Act 1996_ made by this Schedule applies to persons ceasing to be inspectors after the commencement of this Schedule.
 
 ## 20  Disclosures qualifying for whistleblowers’ protection
 
-(1)       This item applies to a disclosure of information that qualified for protection under Part 4A of Chapter 11 of Schedule 1 to the _Workplace Relations Act 1996_, because of subparagraph 337A(b)(v) of that Schedule as in force before the repeal and substitution of that subparagraph by this Schedule.
+(1)        This item applies to a disclosure of information that qualified for protection under Part 4A of Chapter 11 of Schedule 1 to the _Workplace Relations Act 1996_, because of subparagraph 337A(b)(v) of that Schedule as in force before the repeal and substitution of that subparagraph by this Schedule.
 
-(2)       On and after the commencement of this Schedule, the disclosure qualifies for protection under that Part, despite that repeal and substitution.
+(2)        On and after the commencement of this Schedule, the disclosure qualifies for protection under that Part, despite that repeal and substitution.
 
 ## Schedule 4
 
 ## 3  Transitional—regulations made for the purposes of section 356 of the _Workplace Relations Act 1996_
 
-(1)       This item applies to regulations that:
+(1)        This item applies to regulations that:
 
                      (a)  were made for the purposes of section 356 of the _Workplace Relations Act 1996_; and
 
@@ -44254,7 +44109,7 @@ From the commencement of this Schedule, the Workplace Authority Director is subs
 
 but does not apply to subregulation 8.5(7) of the _Workplace Relations Regulations 2006_.
 
-(2)       The regulations have effect, after the commencement of this item, as if they had been made for the purposes of paragraph 356(1)(f) of the _Workplace Relations Act 1996_ as amended by this Act.
+(2)        The regulations have effect, after the commencement of this item, as if they had been made for the purposes of paragraph 356(1)(f) of the _Workplace Relations Act 1996_ as amended by this Act.
 
 ## Schedule 6
 
@@ -44280,13 +44135,13 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
 
 ## 15A  Effect of repeal of section 399
 
-(1)       To avoid doubt, if, immediately before the commencement of this item, an industrial instrument had no effect because of the operation of section 399 of the pre-transition Act, the repeal of that section by this Act:
+(1)        To avoid doubt, if, immediately before the commencement of this item, an industrial instrument had no effect because of the operation of section 399 of the pre-transition Act, the repeal of that section by this Act:
 
                      (a)  does not cause the instrument to have effect after that commencement; and
 
                      (b)  does not cause any protected award condition to cease to have effect.
 
-(2)       In this item:
+(2)        In this item:
 
 **_industrial instrument_** means an instrument mentioned in subsection 399(3) of the pre-transition Act, and includes any of the following (except to the extent that they contain protected award conditions):
 
@@ -44304,15 +44159,15 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
 
 ## 53  Wage reviews in progress before commencement time—previous wage-setting powers of the AFPC
 
-(1)       This item applies to a wage review that is being conducted by AFPC under Division 2 of Part 2 of the _Workplace Relations Act 1996_ before the commencement time if:
+(1)        This item applies to a wage review that is being conducted by AFPC under Division 2 of Part 2 of the _Workplace Relations Act 1996_ before the commencement time if:
 
                      (a)  the wage review relates to whether the AFPC should exercise a previous wage-setting power of the AFPC; and
 
                      (b)  the wage review is not completed before the commencement time.
 
-(2)       The AFPC is not to continue to conduct the wage review after the commencement time, to the extent that the wage review relates to the exercise of the previous wage-setting power of the AFPC.
+(2)        The AFPC is not to continue to conduct the wage review after the commencement time, to the extent that the wage review relates to the exercise of the previous wage-setting power of the AFPC.
 
-(3)       In this item:
+(3)        In this item:
 
 **_commencement time_** means the time when this Schedule commences.
 
