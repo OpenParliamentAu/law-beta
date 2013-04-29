@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00353/Html/BankruptcyEstateCharg1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00254/Html/BankruptcyEstateCharg1997_WD02_image001.gif)
 
 # Bankruptcy (Estate Charges) Act 1997
 
 **Act No. 12 of 1997 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 13 April 2007
  taking into account amendments up to Act No. 43 of 2007
 
 The text of any of those amendments not in force
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Interest charge
 
-             (1)  An amount of interest to which a person is entitled, in his or her personal capacity, under subsection 169(1B) or 185LD(3) of the _Bankruptcy Act 1966_ is payable to the Commonwealth as a charge.
+             (1)  An amount of interest to which a person is entitled, in his or her personal capacity, under subsection 169(1B) of the _Bankruptcy Act 1966_ is payable to the Commonwealth as a charge.
 
           (1A)  No charge is payable by a person in respect of an account for a charge period if the amount of that charge would be less than $10, or a higher amount prescribed by the regulations.
 
@@ -106,8 +106,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (aa)  is the trustee of a composition or scheme of arrangement under Division 6 of Part IV of the _Bankruptcy Act 1966_; or
 
-                    (ab)  is the administrator of a debt agreement under Part IX of the _Bankruptcy Act 1966_; or
-
                      (b)  is controlling trustee in relation to a debtor whose property has become subject to control under Division 2 of Part X of the _Bankruptcy Act 1966_; or
 
                      (c)  is the trustee of a personal insolvency agreement executed in relation to a debtor under Part X of the _Bankruptcy Act 1966_; or
@@ -115,8 +113,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (d)  is the trustee of the estate of a deceased person under Part XI of the _Bankruptcy Act 1966_.
 
           (1A)  No charge is payable by a person for a charge period in respect of a particular estate, personal insolvency agreement, composition or debtor (as the case requires) if the amount of that charge would be less than $10, or a higher amount prescribed by the regulations.
-
-          (1B)  Charge is not payable by a person in the person’s capacity as administrator of a debt agreement under Part IX of the _Bankruptcy Act 1966_ if the person is the debtor to whom the debt agreement relates.
 
              (2)  The charge is payable by the person to the Commonwealth.
 
@@ -354,7 +350,7 @@ Remainder: Royal Assent</div>
     <div>10 Apr 2007</div>
   </td>
   <td>
-    <div>1 July 2007</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1, (item 4)</div>
@@ -381,94 +377,52 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
+      <div><b> Commencement information </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
+      <div><b> Column 1 </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
+      <div><b> Column 2 </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
+      <div><b> Column 3 </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
+      <div><b> Provision(s) </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
+      <div><b> Commencement </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
+      <div><b> Date/Details </b></div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      2\. Schedule 1, items 1 to 10
-    </div>
+    <div>2\. Schedule 1, items 1 to 10</div>
   </td>
   <td>
-    <div>
-      Immediately after section 1 of the
-        <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences
-    </div>
+    <div>Immediately after section 1 of the <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences</div>
   </td>
   <td>
-    <div>
-      3 July 2002
-    </div>
+    <div>3 July 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      4\. Schedule 1, items 12 and 13
-    </div>
+    <div>4\. Schedule 1, items 12 and 13</div>
   </td>
   <td>
-    <div>
-      Immediately after section 1 of the
-        <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences
-    </div>
+    <div>Immediately after section 1 of the <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences</div>
   </td>
   <td>
-    <div>
-      3 July 2002
-    </div>
+    <div>3 July 2002</div>
   </td>
 </tr></table>
 
@@ -524,7 +478,7 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004; No. 43, 2007</div>
+    <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004</div>
   </td>
 </tr>
 <tr>
@@ -540,7 +494,7 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004; No. 43, 2007</div>
+    <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004</div>
   </td>
 </tr>
 <tr>
@@ -631,6 +585,32 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     <div></div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Bankruptcy (Estate Charges) Amendment Act 2007 (No. 43, 2007)_
+
+The following amendments commence on 1 July 2007:
+
+## Schedule 1
+
+## 1  Subsection 5(1)
+
+After “169(1B)”, insert “or 185LD(3)”.
+
+## 2  After paragraph 6(1)(aa)
+
+Insert:
+
+                    (ab)  is the administrator of a debt agreement under Part IX of the _Bankruptcy Act 1966_; or
+
+## 3  After subsection 6(1A)
+
+Insert:
+
+          (1B)  Charge is not payable by a person in the person’s capacity as administrator of a debt agreement under Part IX of the _Bankruptcy Act 1966_ if the person is the debtor to whom the debt agreement relates.
+
+As at 13 April 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -756,6 +736,8 @@ The amendments of the _Bankruptcy (Estate Charges) Act 1997_ made by this Schedu
 * * *
 
 _Bankruptcy (Estate Charges) Amendment Act 2007 (No. 43, 2007)_
+
+The following provision commences on 1 July 2007:
 
 ## Schedule 1
 
