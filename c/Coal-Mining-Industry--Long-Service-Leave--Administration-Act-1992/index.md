@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00049/Html/6df75090-0011-4b92-91dc-ee349b8d7a66_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00040/Html/9020f314-52a6-4d13-8b97-f33d36c485a8_files/image001.gif)
 
 # Coal Mining Industry (Long Service Leave) Administration Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 18 January 2013
- taking into account amendments up to Act No. 174 of 2012
+This compilation was prepared on 1 January 2012
+ taking into account amendments up to Act No. 142 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -153,9 +154,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 4—Remedies relating to long service leave** 
 
-        **Subdivision A—The Fair Work Commission**
+        **Subdivision A—FWA**
 
-[39D](#39D).       FWC may deal with disputes relating to long service leave
+[39D](#39D).       FWA may deal with disputes relating to long service leave
 
         **Subdivision B—Court orders**
 
@@ -361,7 +362,7 @@ Note:          For prescription or declaration by class, see s
 
                     <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40.
 
-                    <a name="fwc"></a>**_FWC_** means the Fair Work Commission.
+                    <a name="fwa"></a>**_FWA_** has the same meaning as in the _Fair Work Act 2009_.
 
                     <a name="industri-associ"></a>**_industrial association_** has the same meaning as in the _Fair Work Act 2009_.
 
@@ -817,7 +818,7 @@ paragraph (2)(c) does not apply in respect of the employee’s previous qualif
 
              (2)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00049/Html/6df75090-0011-4b92-91dc-ee349b8d7a66_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00040/Html/9020f314-52a6-4d13-8b97-f33d36c485a8_files/image002.gif)
 
 where:
 
@@ -1179,13 +1180,13 @@ Note 2:       Division 4 of this Part provides other remedies for 
 
 ### Division 4—Remedies relating to long service leave
 
-#### Subdivision A—The Fair Work Commission
+#### Subdivision A—FWA
 
-##### <a id="39D"></a>39D  FWC may deal with disputes relating to long service leave
+##### <a id="39D"></a>39D  FWA may deal with disputes relating to long service leave
 
-             (1)  Despite subsection 595(1) of the _Fair Work Act 2009_, the FWC may deal with a dispute (an **_LSL dispute_**) about matters in relation to long service leave under this Part.
+             (1)  Despite subsection 595(1) of the _Fair Work Act 2009_, FWA may deal with a dispute (an **_LSL dispute_**) about matters in relation to long service leave under this Part.
 
-             (2)  For the purposes of the FWC dealing with an LSL dispute, the _Fair Work Act 2009_ applies as if:
+             (2)  For the purposes of FWA dealing with an LSL dispute, the _Fair Work Act 2009_ applies as if:
 
                      (a)  the dispute were a dispute in relation to the National Employment Standards; and
 
@@ -1613,7 +1614,7 @@ commits a separate contravention of that provision in respect of each day during
 
 ## Part 8—Miscellaneous
 
-##### <a id="50"></a>50  Delegation
+##### <a id="50"></a>50  Delegation
 
              (1)  Subject to subsection (1A), the Corporation may, by writing under its seal, delegate to:
 
@@ -1721,7 +1722,7 @@ Note:          Part 7A provides for pecuniary penalties for 
 
                      (g)  the Federal Magistrates Court states a case or reserves a question for the consideration of the Federal Court in a matter arising under this Act or the Payroll Levy Collection Act; or
 
-                     (h)  the President of the FWC refers, under section 608 of the _Fair Work Act 2009_, a question of law arising from an LSL dispute to the Federal Court; or
+                     (h)  the President of FWA refers, under section 608 of the _Fair Work Act 2009_, a question of law arising from an LSL dispute to the Federal Court; or
 
                       (i)  the High Court remits a matter arising under this Act or the Payroll Levy Collection Act to the Federal Court.
 
@@ -2068,23 +2069,6 @@ Schedule 4 (item 2): 1 Jan 2012</div>
   <td>
     <div>Sch. 2 (item 14)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 1262–1267): 1 Jan 2013</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Coal Mining Industry (Long Service Leave) Administration Act 1992_ was amended by Schedule 2 (items 624–632) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -2252,7 +2236,7 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009; Nos. 5 and 142, 2011; No. 174, 2012</div>
+    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009; Nos. 5 and 142, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2545,35 +2529,10 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. A of 
-Div. 4 of Part 5A</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 39D</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39D</div>
   </td>
   <td>
     <div>ad. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2858,39 +2817,7 @@ Div. 4 of Part 5A</div>
 </tr>
 <tr>
   <td>
-    <div>S. 52A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52B</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52C</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52D</div>
+    <div>Ss. 52A–52D</div>
   </td>
   <td>
     <div>ad. No. 142, 2011</div>
