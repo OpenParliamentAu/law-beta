@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00423/Html/86857946-0da9-4735-bfd8-aa73efdb803e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00812/Html/RemuneTribunl1973_WD02_image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 6 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 15 December 2010
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,67 +14,67 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
 **Part II—Remuneration etc. for certain offices and appointments** 
 
     **Division 1—Preliminary**
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       2
 
-[3A](#3A).         Principal executive offices
+[3A](#3A).         Principal executive offices                                                                   6
 
-[3B](#3B).         Employing body
+[3B](#3B).         Employing body                                                                                  7
 
-[3C](#3C).         Provisions relating to declarations under sections 3A and 3B
+[3C](#3C).         Provisions relating to declarations under sections 3A and 3B             7
 
     **Division 2—Determinations and reports by the Remuneration Tribunal**
 
-[4](#4).            Establishment of Remuneration Tribunal
+[4](#4).            Establishment of Remuneration Tribunal                                            9
 
-[4A](#4A).         Acting President
+[4A](#4A).         Acting President                                                                                  9
 
-[4B](#4B).         Disclosure of interest by Tribunal members
+[4B](#4B).         Disclosure of interest by Tribunal members                                     10
 
-[5](#5).            Functions of Tribunal
+[5](#5).            Functions of Tribunal                                                                        11
 
-[6](#6).            Inquiries and reports by Tribunal
+[6](#6).            Inquiries and reports by Tribunal                                                      12
 
-[7](#7).            Inquiries and determinations by Tribunal
+[7](#7).            Inquiries and determinations by Tribunal                                          13
 
-[8](#8).            Time of making reports and determinations
+[8](#8).            Time of making reports and determinations                                      21
 
-[8A](#8A).         Time of making recreation leave determinations
+[8A](#8A).         Time of making recreation leave determinations                                22
 
-[8B](#8B).         Hearings in relation to discriminatory determinations
+[8B](#8B).         Hearings in relation to discriminatory determinations                       22
 
-[8C](#8C).         Review of discriminatory determinations
+[8C](#8C).         Review of discriminatory determinations                                          23
 
-[9](#9).            Resignation and removal from office
+[9](#9).            Resignation and removal from office                                                 24
 
-[10](#10).          Meetings of the Tribunal
+[10](#10).          Meetings of the Tribunal                                                                   24
 
-[11](#11).          Method of inquiry by Tribunal
+[11](#11).          Method of inquiry by Tribunal                                                         24
 
-[12](#12).          Fees and allowances
+[12](#12).          Fees and allowances                                                                           25
 
-[12AA](#12AA).    Annual report
+[12AA](#12AA).    Annual report                                                                                    25
 
     **Division 3—Determinations by employing bodies for principal executive offices**
 
-[12C](#12C).       Terms and conditions determined by employing body
+[12C](#12C).       Terms and conditions determined by employing body                     26
 
 **Part IV—Miscellaneous**
 
-[13](#13).          Regulations
+[13](#13).          Regulations                                                                                        27
 
 **Notes** 
 
@@ -98,13 +98,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Part, unless the contrary intention appears:
 
-                    <a name="aborigin-corpor-nation-aborigin-confer"></a>**_Aboriginal Corporation of the National Aboriginal Conference_** means the corporation of that name registered under the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_.
+                    <a name="aborigin-corpor-nation-aborigin-confer"></a>**_Aboriginal Corporation of the National Aboriginal Conference_** means the corporation of that name registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_.
 
                     <a name="act-offic"></a>**_ACT office_** means:
 
-                     (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_; or
+                     (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self-Government (Consequential Provisions) Act 1988_; or
 
-                     (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                     (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self-Government) Act 1988_.
 
                     <a name="allow"></a>**_allowance_** includes, but is not limited to, an annual allowance and a travelling allowance.
 
@@ -112,11 +112,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="employing-bodi"></a>**_employing body_**, in relation to a principal executive office for which the Minister has, under section 3B, declared a person, authority or body to be the employing body, means that person, authority or body.
 
-                    <a name="execut-educ-offic"></a>**_executive education office_** means an office of the Vice‑Chancellor, or Deputy Vice‑Chancellor, of the Australian National University.
+                    <a name="execut-educ-offic"></a>**_executive education office_** means an office of the Vice-Chancellor, or Deputy Vice-Chancellor, of the Australian National  University.
 
                     <a name="higher-educ-institut"></a>**_higher education institution_** means an institution that is a higher education institution within the meaning of the _Employment, Education and Training Act 1988_(other than an institution declared by the regulations not to be a higher education institution for the purposes of this Act), and includes any other institution declared by the regulations to be a higher education institution for the purposes of this Act.
 
-                    <a name="member"></a>**_member_** means a member of the Tribunal and includes a person appointed temporarily in the place of a member under subsection 33(4) of the _Acts Interpretation Act 1901‑1973_.
+                    <a name="member"></a>**_member_** means a member of the Tribunal and includes a person appointed temporarily in the place of a member under subsection 33(4) of the _Acts Interpretation Act 1901-1973_.
 
                     <a name="offic"></a>**_office_** includes position.
 
@@ -158,7 +158,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  A reference in this Part to remuneration shall be read as including a reference to annual allowances.
 
-             (3)  A reference in this Part to an office includes a reference to an office that, within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_, is an office of member of the Assembly or Minister and any office in or in connection with that Assembly that can be held only by a member of that Assembly.
+             (3)  A reference in this Part to an office includes a reference to an office that, within the meaning of the _Australian   Capital Territory__(Self-Government) Act 1988_, is an office of member of the Assembly or Minister and any office in or in connection with that Assembly that can be held only by a member of that Assembly.
 
              (4)  In this Part, a reference to a public office is a reference to:
 
@@ -166,11 +166,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an office established by, or an appointment made under, a law of a Territory, being an office or appointment, or an office or appointment included in a class of offices or appointments, specified by the Minister, by a notice in writing given to the President, to be an office or appointment or a class of offices or appointments to which this Part is to apply;
 
-                     (c)  an appointment made by the Governor‑General or a Minister of State otherwise than under a law of the Commonwealth or a law of a Territory, being an appointment, or an appointment included in a class of appointments, specified by the Minister, by a notice in writing given to the President, to be an appointment or a class of appointments to which this Part is to apply;
+                     (c)  an appointment made by the Governor-General or a Minister of State otherwise than under a law of the Commonwealth or a law of a Territory, being an appointment, or an appointment included in a class of appointments, specified by the Minister, by a notice in writing given to the President, to be an appointment or a class of appointments to which this Part is to apply;
 
                      (d)  an office or appointment in the service or employment of a public statutory corporation, being an office or appointment that is specified by the Minister, by a notice in writing given to the President, to be a senior office or senior appointment, as the case may be, in the service or employment of the corporation to which this Part is to apply;
 
-                   (da)  an appointment as a director of an incorporated company limited by guarantee where the interests and rights of the members in or in relation to the company are beneficially owned by the Commonwealth, being an appointment that is specified by the Minister, by a notice in writing given to the President, to be an appointment to which this Part is to apply;
+                    (da)  an appointment as a director of an incorporated company limited by guarantee where the interests and rights of the members in or in relation to the company are beneficially owned by the Commonwealth, being an appointment that is specified by the Minister, by a notice in writing given to the President, to be an appointment to which this Part is to apply;
 
                      (e)  an appointment as a director of an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Commonwealth;
 
@@ -184,7 +184,7 @@ but does not include a reference to any of the following offices or appointments
 
                       (j)  the office of President of Fair Work Australia;
 
-                    (ja)  an office of member of the Legislative Assembly, of member of the Council, or of Minister of the Territory, within the meaning of the _Northern Territory__(Self‑Government) Act 1978_;
+                     (ja)  an office of member of the Legislative Assembly, of member of the Council, or of Minister of the Territory, within the meaning of the _Northern Territory__(Self-Government) Act 1978_;
 
                    (jaa)  an office of member of the Legislative Assembly, of member of the Executive Council, or of Minister, within the meaning of the _Norfolk Island__Act 1979_;
 
@@ -192,7 +192,7 @@ but does not include a reference to any of the following offices or appointments
 
                       (l)  an office or appointment the terms and conditions of which are fixed under the _Trade Representatives Act 1933_;
 
-                    (m)  an office or appointment (other than the office of Director‑General of Security) in the Australian Security Intelligence Organisation;
+                    (m)  an office or appointment (other than the office of Director-General of Security) in the Australian Security Intelligence Organisation;
 
                      (p)  persons who are employed under section 42 of the _Naval Defence Act 1910_;
 
@@ -262,13 +262,13 @@ and the person with whom such a contract is made or to whom such a Commission or
 
 ### Division 2—Determinations and reports by the Remuneration Tribunal
 
-##### <a id="4"></a>4  Establishment of Remuneration Tribunal
+##### <a id="4"></a>4  Establishment of Remuneration Tribunal
 
              (1)  For the purposes of this Part, there is hereby established a Tribunal to be known as the Remuneration Tribunal.
 
-             (2)  The Tribunal shall consist of three members appointed by the Governor‑General on a part‑time basis.
+             (2)  The Tribunal shall consist of three members appointed by the Governor-General on a part-time basis.
 
-             (3)  Subject to this Part, a member holds office for a period not exceeding 5 years, but is eligible for re‑appointment.
+             (3)  Subject to this Part, a member holds office for a period not exceeding 5 years, but is eligible for re-appointment.
 
              (4)  A person shall not be appointed as a member if he or she is:
 
@@ -282,7 +282,7 @@ and the person with whom such a contract is made or to whom such a Commission or
 
                      (e)  a person who, by virtue of an Act, has the same status as a Justice or Judge of a court referred to in paragraph (d).
 
-             (5)  The Governor‑General shall appoint one of the members to be the President of the Tribunal.
+             (5)  The Governor-General shall appoint one of the members to be the President of the Tribunal.
 
              (7)  The exercise of the powers, and the performance of the functions, of the Tribunal are not affected by a vacancy in the membership of the Tribunal.
 
@@ -340,7 +340,7 @@ then, if the President considers that the member should not take part, or contin
 
                      (a)  national minimum wage orders made by Fair Work Australia; or
 
-                     (b)  if Fair Work Australia has not yet made its first national minimum wage order—the last wage‑setting decision of the Australian Fair Pay Commission.
+                     (b)  if Fair Work Australia has not yet made its first national minimum wage order—the last wage-setting decision of the Australian Fair Pay Commission.
 
              (2)  An additional function of the Tribunal is to provide advice to the Australian National University and the University of Canberra in relation to terms and conditions (including remuneration and allowances) on which executive education offices in those bodies are to be held.
 
@@ -380,7 +380,7 @@ then, if the President considers that the member should not take part, or contin
 
           (2A)  The Tribunal, from time to time as provided by this Part, is to inquire into, and report to the Minister on, the rates of salaries in relation to:
 
-                     (a)  Vice‑Chancellors, Principals and other chief executive officers of higher education institutions (other than Commonwealth higher education institutions); and
+                     (a)  Vice-Chancellors, Principals and other chief executive officers of higher education institutions (other than Commonwealth higher education institutions); and
 
                      (b)  deputies (however described) of officers referred to in paragraph (a);
 
@@ -388,9 +388,9 @@ that should be used as a basis for making grants in relation to recurrent expend
 
              (3)  Where the Tribunal inquires into a matter referred to in subsection (1) or (2A):
 
-                     (a)  the Tribunal may also inquire into, and report on, any matter that is, or is considered by it to be, significantly related to the first‑mentioned matter; and
+                     (a)  the Tribunal may also inquire into, and report on, any matter that is, or is considered by it to be, significantly related to the first-mentioned matter; and
 
-                     (b)  if the Minister, by a notice in writing given to the President, requests the Tribunal to inquire into, and report on, a matter specified in the notice, being a matter that is, or is considered by the Minister to be, significantly related to the first‑mentioned matter, the Tribunal shall inquire into, and report on, the matter specified in the notice.
+                     (b)  if the Minister, by a notice in writing given to the President, requests the Tribunal to inquire into, and report on, a matter specified in the notice, being a matter that is, or is considered by the Minister to be, significantly related to the first-mentioned matter, the Tribunal shall inquire into, and report on, the matter specified in the notice.
 
              (4)  If the Tribunal reports that alterations are desirable in respect of a matter, it shall, in its report, recommend the nature and extent of the alterations that should be made.
 
@@ -404,11 +404,11 @@ that should be used as a basis for making grants in relation to recurrent expend
 
              (3)  The Tribunal shall, from time to time as provided by this Part, inquire into, and determine, the remuneration to be paid to the holders of public offices other than holders of those offices who are members of, or candidates for election to, either House of the Parliament.
 
-       (3AA)  The Tribunal, as provided by this Part, is to inquire into, and determine, the recreation leave entitlements of the full‑time holders of relevant offices other than holders of those offices who are members of, or candidates for election to, either House of the Parliament.
+       (3AA)  The Tribunal, as provided by this Part, is to inquire into, and determine, the recreation leave entitlements of the full-time holders of relevant offices other than holders of those offices who are members of, or candidates for election to, either House of the Parliament.
 
-       (3AB)  For the purposes of subsection (3AA), a relevant office is a public office in relation to which a law of the Commonwealth provides that the holder of the office has such recreation leave entitlements as are determined by the Tribunal.
+        (3AB)  For the purposes of subsection (3AA), a relevant office is a public office in relation to which a law of the Commonwealth provides that the holder of the office has such recreation leave entitlements as are determined by the Tribunal.
 
-       (3AC)  The holder of a public office that is a relevant office within the meaning of subsection (3AA) may take recreation leave only with the approval of the person, authority or body, or a delegate of the person, authority or body, who may, under a law of the Commonwealth, grant leave of absence other than recreation leave to the holder of that office.
+        (3AC)  The holder of a public office that is a relevant office within the meaning of subsection (3AA) may take recreation leave only with the approval of the person, authority or body, or a delegate of the person, authority or body, who may, under a law of the Commonwealth, grant leave of absence other than recreation leave to the holder of that office.
 
        (3AD)  Where a law of the Commonwealth does not specify a person, authority or body who may grant leave of absence other than recreation leave to the holder of such an office, the Tribunal may specify a person, authority or body whose approval is required in relation to the taking of recreation leave by the holder of that office.
 
@@ -416,7 +416,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
           (3B)  The Tribunal may determine that the remuneration to be paid to the holder of an office is the same as that of the holder of another office referred to in the determination, including another office the remuneration payable to the holder of which is determined by some other Commonwealth tribunal or authority.
 
-          (3C)  The Tribunal may determine that the recreation leave entitlements of the full‑time holder of a public office are the same as those of the holder of another office referred to in the determination, including another office the entitlements of the holder of which are determined by some other Commonwealth tribunal or authority.
+          (3C)  The Tribunal may determine that the recreation leave entitlements of the full-time holder of a public office are the same as those of the holder of another office referred to in the determination, including another office the entitlements of the holder of which are determined by some other Commonwealth tribunal or authority.
 
           (3D)  The Tribunal may, from time to time as provided by this Part:
 
@@ -424,17 +424,17 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                      (b)  in determining under that subsection a classification structure for principal executive offices, determine the terms and conditions (including remuneration and allowances, or bands of remuneration and allowances) applicable to each classification within the classification structure.
 
-          (3E)  The Tribunal may, from time to time, make recommendations as to any matters relating to principal executive offices, either generally or in respect of a particular principal executive office or particular principal executive offices.
+           (3E)  The Tribunal may, from time to time, make recommendations as to any matters relating to principal executive offices, either generally or in respect of a particular principal executive office or particular principal executive offices.
 
            (3F)  In determining under subsection (3D) the terms and conditions as to the remuneration or band of remuneration that is to be applicable to a classification within a classification structure, the Tribunal must have regard to the superannuation entitlements of the holders of principal executive offices assigned to the classification.
 
              (4)  Where the Tribunal inquires into a matter referred to in subsection (1), (2), (3), (3AA) or (3D):
 
-                     (a)  the Tribunal may also inquire into, and either determine or report on, any matter that is, or is considered by it to be, significantly related to the first‑mentioned matter; and
+                     (a)  the Tribunal may also inquire into, and either determine or report on, any matter that is, or is considered by it to be, significantly related to the first-mentioned matter; and
 
-                     (b)  if the Minister, by a notice in writing given to the President, requests the Tribunal to inquire into, and either to determine or report on, a matter specified in the notice, being a matter that is, or is considered by the Minister to be, significantly related to the first‑mentioned matter, the Tribunal shall inquire into the matter specified in the notice and either determine or report on that matter, as the case may be, in accordance with the request.
+                     (b)  if the Minister, by a notice in writing given to the President, requests the Tribunal to inquire into, and either to determine or report on, a matter specified in the notice, being a matter that is, or is considered by the Minister to be, significantly related to the first-mentioned matter, the Tribunal shall inquire into the matter specified in the notice and either determine or report on that matter, as the case may be, in accordance with the request.
 
-          (4A)  The Tribunal may inquire into and determine the travelling allowances to be paid to members of committees established under section 54, and members of sub‑committees established under subsection 58(1A), of the _Fisheries Administration Act 1991_ in relation to the performance of their duties as members of the committees or sub‑committees.
+          (4A)  The Tribunal may inquire into and determine the travelling allowances to be paid to members of committees established under section 54, and members of sub-committees established under subsection 58(1A), of the _Fisheries Administration Act 1991_ in relation to the performance of their duties as members of the committees or sub-committees.
 
           (4B)  The Tribunal may inquire into and determine the travelling allowances to be paid to the President of Fair Work Australia  for travel within Australia.
 
@@ -458,7 +458,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
           (5D)  Except to the extent that subsection (5C) applies, a determination to which subsection (5A) applies takes effect according to subsection (5).
 
-          (5E)  Where, under subsection (5C), a determination, so far as it relates to a particular office, comes into operation after the date specified in the determination, a person who held the office at any time during the period of deferral is entitled to receive the difference between:
+           (5E)  Where, under subsection (5C), a determination, so far as it relates to a particular office, comes into operation after the date specified in the determination, a person who held the office at any time during the period of deferral is entitled to receive the difference between:
 
                      (a)  the remuneration that would have been payable to him or her in respect of that period if the determination had come into operation according to subsection (5); and
 
@@ -494,7 +494,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                             being a corporation or company that has funds under its control that are lawfully available to pay the remuneration or allowances—be paid in accordance with the determination out of those funds; and
 
-                    (aa)  in the case of remuneration or allowances payable to a person who holds an office of Magistrate within the meaning of the law of the Northern Territory known as the _Justices Act_ as in force from time to time—be paid in accordance with the determination out of public moneys of the Territory within the meaning of Part V of the _Northern Territory (Self‑Government) Act 1978_; and
+                    (aa)  in the case of remuneration or allowances payable to a person who holds an office of Magistrate within the meaning of the law of the Northern Territory known as the _Justices Act_ as in force from time to time—be paid in accordance with the determination out of public moneys of the Territory within the meaning of Part V of the _Northern Territory (Self-Government) Act 1978_; and
 
                 (acaa)  in the case of remuneration or allowances payable to a person who holds an office or appointment under Part 3A of the _Aboriginal and Torres Strait Islander Act 2005_—be paid in accordance with the determination out of money of the Torres Strait Regional Authority that is lawfully available to pay the remuneration or allowances; and
 
@@ -504,7 +504,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                   (acb)  in the case of remuneration or allowances payable to a person who holds an office or appointment under the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_—be paid in accordance with the determination out of money of the Australian Institute of Aboriginal and Torres Strait Islander Studies that is lawfully available to pay the remuneration or allowances; and
 
-                   (ad)  in the case of remuneration or allowances payable to a person who holds the office of Commissioner of Private Health Insurance Administration, an office of member of the Private Health Insurance Administration Council or the office of Director of that Council—to be paid in accordance with the determination out of funds under the control of that Council; and
+                    (ad)  in the case of remuneration or allowances payable to a person who holds the office of Commissioner of Private Health Insurance Administration, an office of member of the Private Health Insurance Administration Council or the office of Director of that Council—to be paid in accordance with the determination out of funds under the control of that Council; and
 
                      (b)  in any other case—be paid in accordance with the determination out of the Consolidated Revenue Fund.
 
@@ -514,13 +514,13 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                      (b)  in any other case—out of the Consolidated Revenue Fund, such expenses as he or she reasonably incurs in respect of his or her holding, or performing the duties of, that office.
 
-           (11)  Except as prescribed, or as authorized or approved by or under any other law of the Commonwealth or any law of a Territory, a person is not entitled to be paid any remuneration in respect of his or her holding, or performing the duties of, a public office on a part‑time basis if the person holds any office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of the Commonwealth, the Administration of a Territory, a public statutory corporation, an incorporated company referred to in paragraph 3(4)(da) or an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Commonwealth or by a public statutory corporation.
+           (11)  Except as prescribed, or as authorized or approved by or under any other law of the Commonwealth or any law of a Territory, a person is not entitled to be paid any remuneration in respect of his or her holding, or performing the duties of, a public office on a part-time basis if the person holds any office or appointment, or is otherwise employed, on a full-time basis in the service or employment of the Commonwealth, the Administration of a Territory, a public statutory corporation, an incorporated company referred to in paragraph 3(4)(da) or an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Commonwealth or by a public statutory corporation.
 
         (11A)  For the purposes of subsection (11), an office of member of the Aboriginal Corporation of the National Aboriginal Conference shall be deemed to be an office in the service of the Commonwealth.
 
            (12)  Except as prescribed, a person is not entitled to be paid any remuneration in respect of his or her holding, or performing the duties of, a public office if the person holds a judicial office in the service of the Government of a State or of a country other than Australia.
 
-        (12A)  Where the same person holds each of two public offices on a full‑time basis:
+        (12A)  Where the same person holds each of two public offices on a full-time basis:
 
                      (a)  if the salary applicable to one of those offices is higher than the salary applicable to the other of those offices—he or she shall be remunerated only by the salary and annual allowance (if any) applicable to the office to which the higher salary is applicable; or
 
@@ -566,17 +566,17 @@ the Tribunal shall, as soon as practicable but without prejudice to its obligati
 
              (2)  Where:
 
-                     (a)  a public office becomes a relevant office within the meaning of subsection 7(3AA) and is held by a person on a full‑time basis; or
+                     (a)  a public office becomes a relevant office within the meaning of subsection 7(3AA) and is held by a person on a full-time basis; or
 
-                     (b)  a public office, being such a relevant office, comes into existence and is held by a person on a full‑time basis; or
+                     (b)  a public office, being such a relevant office, comes into existence and is held by a person on a full-time basis; or
 
-                     (c)  a substantial change in the functions or duties to be performed by the holder of a public office has occurred since the Tribunal last determined the recreation leave entitlement of a full‑time holder of that office;
+                     (c)  a substantial change in the functions or duties to be performed by the holder of a public office has occurred since the Tribunal last determined the recreation leave entitlement of a full-time holder of that office;
 
-the Tribunal must, as soon as practicable but without prejudice to its obligations under subsection (1), inquire into and determine the recreation leave entitlements of a full‑time holder of that office.
+the Tribunal must, as soon as practicable but without prejudice to its obligations under subsection (1), inquire into and determine the recreation leave entitlements of a full-time holder of that office.
 
              (3)  Subsection (2) does not apply in relation to the holder of a public office who is a member of, or a candidate for election to, either House of the Parliament.
 
-             (4)  Where the Tribunal inquires into, and determines, the recreation leave entitlements of a full‑time holder of a public office in accordance with subsection (2), the Tribunal may also inquire into, and either determine or report on, any matter that is, or is considered by it to be, significantly related to those entitlements.
+             (4)  Where the Tribunal inquires into, and determines, the recreation leave entitlements of a full-time holder of a public office in accordance with subsection (2), the Tribunal may also inquire into, and either determine or report on, any matter that is, or is considered by it to be, significantly related to those entitlements.
 
 ##### <a id="8B"></a>8B  Hearings in relation to discriminatory determinations
 
@@ -618,9 +618,9 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
 ##### <a id="9"></a>9  Resignation and removal from office
 
-             (1)  A member may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+             (1)  A member may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
-             (2)  The Governor‑General may remove a member from office for misbehaviour or physical or mental incapacity.
+             (2)  The Governor-General may remove a member from office for misbehaviour or physical or mental incapacity.
 
              (3)  A member ceases to hold office if he or she becomes a person mentioned in subsection 4(4).
 
@@ -682,7 +682,7 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
 ##### <a id="13"></a>13  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Remuneration Tribunal Act 1973_
 
@@ -694,7 +694,7 @@ The _Remuneration Tribunal Act 1973_ was amended by the _Public Employment (Cons
 
 All relevant information pertaining to application, saving or transitional provisions prior to 16 December 1995 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Remuneration Tribunal Act 1973_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+The _Remuneration Tribunal Act 1973_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
 ### Table of Acts
 
@@ -764,7 +764,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Defence Force Re‑organization Act 1975</div>
+    <div>Defence Force Re-organization Act 1975</div>
   </td>
   <td>
     <div>96, 1975</div>
@@ -1165,7 +1165,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -1924,30 +1924,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 551, 552): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Remuneration Tribunal Act 1973_ was amended by sections 182 and 183 only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows: 
+_(a)_     The _Remuneration Tribunal Act 1973_ was amended by sections 182 and 183 only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows: 
 
                     2   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
-_(b)_     The _Remuneration Tribunal Act 1973_ was amended by section 117 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Remuneration Tribunal Act 1973_ was amended by section 117 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -1957,7 +1940,7 @@ _(c)_     The _Remuneration Tribunal Act 1973_ was amended by Part XX 
 
 _(d)_     The _Remuneration Tribunal Act 1973_ was amended by Part XIX (section 68) only of the _Statute Law (Miscellaneous Amendments) Act 1981_, subsection 2(12) of which provides as follows: 
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(e)_     The _Remuneration Tribunal Act 1973_ was amended by section 95 only of the _Public Service Acts Amendment Act 1982_, subsection 2(4) of which provides as follows: 
 
@@ -1965,7 +1948,7 @@ _(e)_     The _Remuneration Tribunal Act 1973_ was amended by section 
 
 _(f)_      The _Remuneration Tribunal Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(g)_     The _Remuneration Tribunal Act 1973_ was amended by Part IV (sections 9 and 10) only of the _Remuneration and Allowances Amendment Act 1983_, subsection 2(1) of which provides as follows: 
 
@@ -1983,7 +1966,7 @@ _(j)_      The _Remuneration Tribunal Act 1973_ was amended by section
 
 _(k)_     The _Remuneration Tribunal Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(l)_      The _Remuneration Tribunal Act 1973_ was amended by Part VIII (section 60) only of the _Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985_, subsection 2(1) of which provides as follows: 
 
@@ -1995,7 +1978,7 @@ _(m)_    The _Remuneration Tribunal Act 1973_ was amended by section 86 
 
                  (2)   The remaining provisions of this Act commence on the commencement of section 8 of the _Industrial Relations Act 1988_.
 
-_(n)_     The _Remuneration Tribunal Act 1973_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
+_(n)_     The _Remuneration Tribunal Act 1973_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -2007,7 +1990,7 @@ _(p)_     The _Remuneration Tribunal Act 1973_ was amended by section 
 
                  (1)   Sections 1, 2, 25 and 26 commence on the day on which this Act receives the Royal Assent.
 
-_(q)_     The _Remuneration Tribunal Act 1973_ was amended by section 80 only of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_, subsection 2(3)(b) of which provides as follows: 
+_(q)_     The _Remuneration Tribunal Act 1973_ was amended by section 80 only of the _Aboriginal and__Torres Strait__Islander Commission Amendment Act (No. 3) 1993_, subsection 2(3)(b) of which provides as follows: 
 
                  (3)   The following provisions commence on 1 July 1994: 
 
@@ -2184,7 +2167,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -2203,7 +2186,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -2723,31 +2706,7 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the paragraph.
 
-As at 6 June 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 551  Subsection 3(1) (paragraph (d) of the definition of _principal executive office_)
-
-Repeal the paragraph.
-
-## 552  After paragraph 3(4)(m)
-
-Insert:
-
-                     (n)  the Chief Executive Centrelink (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-                     (o)  the Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_);
-
-                   (oa)  the Child Support Registrar;
-
-As at 6 June 2011 the amendments are not incorporated in this compilation.
+As at 15 December 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -2760,23 +2719,23 @@ _Industrial Relations and other Legislation Amendment Act 1995
 
 ## 4  Continuance of determinations until new conditions substituted
 
-(1)       Despite the amendments of the _Remuneration Tribunal Act 1973_ made by this Act, any determination of the Remuneration Tribunal:
+(1)        Despite the amendments of the _Remuneration Tribunal Act 1973_ made by this Act, any determination of the Remuneration Tribunal:
 
-                     (a)  that relates to the salary payable to the Vice‑Chancellor or Deputy Vice‑Chancellor of the Australian National University; and
+                     (a)  that relates to the salary payable to the Vice-Chancellor or Deputy Vice-Chancellor of the Australian National  University; and
 
                      (b)  that was in force immediately before those amendments;
 
 continues in force in relation to that office until such time as the Council of the Australian National University makes a determination in substitution for that determination as so continued in force.
 
-(2)       Despite the amendments of the _Remuneration Tribunal Act 1973_ made by this Act, any determination of the Remuneration Tribunal:
+(2)        Despite the amendments of the _Remuneration Tribunal Act 1973_ made by this Act, any determination of the Remuneration Tribunal:
 
-                     (a)  that relates to the salary payable to the Vice‑Chancellor or Deputy Vice‑Chancellor of the University of Canberra; and
+                     (a)  that relates to the salary payable to the Vice-Chancellor or Deputy Vice-Chancellor of the University  of Canberra; and
 
                      (b)  that was in force immediately before those amendments;
 
 continues in force in relation to that office until such time as the Council of the University of Canberra makes a determination in substitution for the determination as so continued in force.
 
-(3)       Despite the amendments of the _Remuneration Tribunal Act 1973_ made by this Act, any determination of the Remuneration Tribunal:
+(3)        Despite the amendments of the _Remuneration Tribunal Act 1973_ made by this Act, any determination of the Remuneration Tribunal:
 
                      (a)  that relates to the salary payable to the Principal or Deputy Principal of the Australian Maritime College; and
 
@@ -2798,13 +2757,13 @@ This Part sets out transitional provisions relating to the transfer of the respo
 
 In this Part, unless the contrary intention appears:
 
-                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital   Territory__(Self‑Government) Act 1988_.
+                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital   Territory__(Self-Government) Act 1988_.
 
                     <a name="transfer-dai"></a>**_transfer day_** means the day on which Part 1 of this Schedule commences.
 
                     <a name="univers"></a>**_University_** means the University of Canberra established by section 4 of the University Act.
 
-                    <a name="univers-act"></a>**_University Act_** means the _University__of Canberra Act__1989_ as in force from time to time before the transfer day.
+                    <a name="univers-act"></a>**_University Act_** means the _University__of__Canberra Act__1989_ as in force from time to time before the transfer day.
 
 ## 21  Terms and conditions of employment of University employees
 
@@ -2812,7 +2771,7 @@ If a person was employed by the University immediately before the transfer day, 
 
 ## 22  Audit
 
-If the transfer day is less than a year after the end of the last period in respect of which a report was made by the Auditor‑General under subsection 37(4) of the University Act, that subsection has effect in respect of the period (the final reporting period) beginning immediately after the end of that last period and ending immediately before the transfer day as if the reference to a year in that subsection were a reference to the final reporting period.
+If the transfer day is less than a year after the end of the last period in respect of which a report was made by the Auditor-General under subsection 37(4) of the University Act, that subsection has effect in respect of the period (the final reporting period) beginning immediately after the end of that last period and ending immediately before the transfer day as if the reference to a year in that subsection were a reference to the final reporting period.
 
 ## 23  Annual report and financial statements
 
@@ -3074,7 +3033,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="21"></a>21  Regulations 
 
-             (1)  The Governor‑General may make regulations prescribing matters: 
+             (1)  The Governor-General may make regulations prescribing matters: 
 
                      (a)  required or permitted by this Act to be prescribed; or 
 
@@ -3098,7 +3057,7 @@ _Remuneration Tribunal Amendment Act 2001 (No. 27, 2001)_
 
 ## 13  Saving and transitional
 
-(1)       If:
+(1)        If:
 
                      (a)  at the commencement of this item, a person holds a principal executive office referred to any of paragraphs (a) to (l) of the definition of **_principal executive office_** in subsection 3(1) of the _Remuneration Tribunal Act 1973_; and
 
@@ -3108,7 +3067,7 @@ _Remuneration Tribunal Amendment Act 2001 (No. 27, 2001)_
 
 the validity of the existing terms and conditions is not affected by the amendment made by item 12.
 
-(2)       However, at the end of the period for which the person was appointed to the office, the employing body must (whether the person is re‑appointed, or another person is appointed, to the office) make a new determination of the terms and conditions applicable in respect of the office in compliance with section 12C of the _Remuneration Tribunal Act 1973_.
+(2)        However, at the end of the period for which the person was appointed to the office, the employing body must (whether the person is re-appointed, or another person is appointed, to the office) make a new determination of the terms and conditions applicable in respect of the office in compliance with section 12C of the _Remuneration Tribunal Act 1973_.
 
 * * *
 
@@ -3118,29 +3077,29 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 
 ## 160  Transitional provision relating to section 3
 
-(1)       Despite the repeal of paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_ by item 104, that paragraph, as in force immediately before that repeal, continues to apply in relation to an office of member of the Australian Industrial Relations Commission until that Commission ceases to exist.
+(1)        Despite the repeal of paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_ by item 104, that paragraph, as in force immediately before that repeal, continues to apply in relation to an office of member of the Australian Industrial Relations Commission until that Commission ceases to exist.
 
-(2)       The reference in paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_, as substituted by item 104, to the office of President of Fair Work Australia is taken to include a reference to an office of member (other than President) of Fair Work Australia, but only in relation to persons who are taken to have been appointed to that office under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+(2)        The reference in paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_, as substituted by item 104, to the office of President of Fair Work Australia is taken to include a reference to an office of member (other than President) of Fair Work Australia, but only in relation to persons who are taken to have been appointed to that office under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
 ## 161  Transitional provision relating to section 7
 
-(1)       Despite the amendment of subsection 7(4B) of the _Remuneration Tribunal Act 1973_ by item 106, that subsection, as in force immediately before that amendment, continues to apply in relation to members of the Australian Industrial Relations Commission until that Commission ceases to exist _._
+(1)        Despite the amendment of subsection 7(4B) of the _Remuneration Tribunal Act 1973_ by item 106, that subsection, as in force immediately before that amendment, continues to apply in relation to members of the Australian Industrial Relations Commission until that Commission ceases to exist _._
 
-(2)       The reference in subsection 7(4B) of the _Remuneration Tribunal Act 1973_, as amended by item 106, to the President of Fair Work Australia is taken to include a reference to the other members of Fair Work Australia, but only in relation to persons who are taken to have been appointed as such a member under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+(2)        The reference in subsection 7(4B) of the _Remuneration Tribunal Act 1973_, as amended by item 106, to the President of Fair Work Australia is taken to include a reference to the other members of Fair Work Australia, but only in relation to persons who are taken to have been appointed as such a member under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
-(3)       Despite the repeal of subsection 7(4C) of the _Remuneration Tribunal Act 1973_ by item 107, that subsection, as in force immediately before that repeal, continues to apply in relation to members of the Australian Fair Pay Commission until that Commission ceases to exist.
+(3)        Despite the repeal of subsection 7(4C) of the _Remuneration Tribunal Act 1973_ by item 107, that subsection, as in force immediately before that repeal, continues to apply in relation to members of the Australian Fair Pay Commission until that Commission ceases to exist.
 
 ## Table B
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations _
+_A.C.T. Self-Government (Consequential Provisions) Regulations _
 
 ## Subsection 3(1):  
 
 Insert the following definition: 
 
-                    <a name="enact"></a>**_enactment_** has the same meaning as in section 3 of the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="enact"></a>**_enactment_** has the same meaning as in section 3 of the _Australian Capital Territory__(Self-Government) Act 1988_.
 
 Add “or a corporation established for a public purpose by a law of the Australian Capital Territory” at the end of the definition of **_public statutory corporation_**.
 
@@ -3150,42 +3109,42 @@ Insert in paragraph (b) “(other than an enactment)” after “Territory”.
 
 Omit paragraph (fb), substitute:
 
-             (fb)     an executive education office;
+              (fb)     an executive education office;
 
-             (fc)     an office established by, or an appointment made under, an enactment, being an office or appointment, or an office or appointment included in a class of offices or appointments, specified by a Minister within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_, by a notice given to the Chairman, to be an office or appointment or a class of offices or appointments to which this Part is to apply;
+              (fc)     an office established by, or an appointment made under, an enactment, being an office or appointment, or an office or appointment included in a class of offices or appointments, specified by a Minister within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_, by a notice given to the Chairman, to be an office or appointment or a class of offices or appointments to which this Part is to apply;
 
-             (fd)     an appointment, otherwise than under an enactment, made by a Minister within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_, being an appointment, or an appointment included in a class of appointments, specified by the Minister, by a notice given to the Chairman, to be an appointment or a class of appointments to which this Part is to apply;
+              (fd)     an appointment, otherwise than under an enactment, made by a Minister within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_, being an appointment, or an appointment included in a class of appointments, specified by the Minister, by a notice given to the Chairman, to be an appointment or a class of appointments to which this Part is to apply;
 
-             (fe)     an office or appointment in the service or employment of a public statutory corporation established under an enactment, being an office or appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_, by a notice given to the Chairman to be a senior office or senior appointment, as the case may be, in the service or employment of the corporation to which this Part is to apply;
+              (fe)     an office or appointment in the service or employment of a public statutory corporation established under an enactment, being an office or appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_, by a notice given to the Chairman to be a senior office or senior appointment, as the case may be, in the service or employment of the corporation to which this Part is to apply;
 
-              (ff)     an appointment as a director of an incorporated company limited by guarantee where the interests and rights of the members in or in relation to the company are beneficially owned by the Australian Capital Territory, being an appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_, by a notice given to the Chairman, to be an appointment to which this Part is to apply;
+              (ff)     an appointment as a director of an incorporated company limited by guarantee where the interests and rights of the members in or in relation to the company are beneficially owned by the Australian Capital Territory, being an appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_, by a notice given to the Chairman, to be an appointment to which this Part is to apply;
 
-             (fg)     an appointment as a director of an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Australian Capital Territory;
+              (fg)     an appointment as a director of an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Australian Capital Territory;
 
-             (fh)     an office or appointment in the service or employment of an incorporated company referred to in paragraph (ff) or (fg), being an office or appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_, by a notice given to the Chairman, to be a senior office or senior appointment, as the case may be, in the service or employment of the Company to which this Part is to apply.
+              (fh)     an office or appointment in the service or employment of an incorporated company referred to in paragraph (ff) or (fg), being an office or appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_, by a notice given to the Chairman, to be a senior office or senior appointment, as the case may be, in the service or employment of the Company to which this Part is to apply.
 
-Omit from paragraph (k) “Commonwealth Teaching Service”, substitute “Australian Capital Territory public service established under subsection 54(1) of the _Australian Capital Territory (Self‑Government) Act 1988_”.
+Omit from paragraph (k) “Commonwealth Teaching Service”, substitute “Australian Capital Territory public service established under subsection 54(1) of the _Australian Capital Territory (Self-Government) Act 1988_”.
 
 Omit from paragraph (t) “or (f)”, substitute “(f), (ff) or (fg)”.
 
 ## Subsection 7(3):  
 
-Omit “and to the holders of”, substitute “, the offices of Head of Administration and Associate Head of Administration within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_ and”.
+Omit “and to the holders of”, substitute “, the offices of Head of Administration and Associate Head of Administration within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_ and”.
 
 ## Section 7:  
 
 Add at the end of the following subsection:
 
-         “(15)  In spite of the preceding provisions of this section, remuneration or allowances:
+          “(15)  In spite of the preceding provisions of this section, remuneration or allowances:
 
                      (a)  payable to a person who holds an office or appointment referred to in subsection 3(3) or paragraph 3(4)(fc), (fd), (fe), (ff), (fg) or (fh); and
 
                      (b)  to which a determination applies;
 
-may be paid in accordance with the determination out of the public money of the Australian Capital Territory within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_.”
+may be paid in accordance with the determination out of the public money of the Australian Capital Territory within the meaning of the _Australian   Capital Territory__(Self-Government) Act 1988_.”
 
 ## Subsection 8(4):  
 
-After “1922” insert “or the office of Head of Administration or Associate Head of Administration within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_”.
+After “1922” insert “or the office of Head of Administration or Associate Head of Administration within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_”.
 
  
