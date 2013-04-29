@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00810/Html/160decc5-3b37-45a5-8d5a-35fec2cbe28d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00514/Html/ReserveBank1959_WD02_image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 30 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 27 July 2010
+ taking into account amendments up to Act No. 82 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -150,7 +150,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Interpretation
 
-[34](#34).          Issue, re‑issue and cancellation of notes
+[34](#34).          Issue, re-issue and cancellation of notes
 
 [35](#35).          Denominations of notes
 
@@ -234,7 +234,7 @@ _Commonwealth Bank Act 1953_.
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit‑taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
+                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
 
                     <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
 
@@ -270,7 +270,7 @@ _Commonwealth Bank Act 1953_.
 
                     <a name="reserv-bank"></a><a name="bank"></a>**_the Bank_** or **_the Reserve Bank_** means the Reserve Bank of Australia.
 
-                    <a name="former-commonwealth-bank-australia"></a>**_the former Commonwealth Bank of Australia_** means the Commonwealth Bank of Australia established under the _Commonwealth Bank Act 1911_ and continued in existence under the _Commonwealth Bank Act 1945_.
+                    <a name="australia"></a><a name="former-commonwealth-bank"></a>**_the former Commonwealth Bank of_****_Australia_** means the Commonwealth Bank of Australia established under the _Commonwealth Bank Act 1911_ and continued in existence under the _Commonwealth Bank Act 1945_.
 
                     <a name="governor"></a>**_the Governor_** means the Governor of the Bank.
 
@@ -324,7 +324,7 @@ Note:          Subject to section 7A, the _Commonwealth Auth
 
                      (c)  to lend money;
 
-                     (d)  to buy, sell, discount and re‑discount bills of exchange, promissory notes and treasury bills;
+                     (d)  to buy, sell, discount and re-discount bills of exchange, promissory notes and treasury bills;
 
                      (e)  to buy and sell securities issued by the Commonwealth and other securities;
 
@@ -426,7 +426,7 @@ the disagreement is to be resolved as determined by the Governor.
 
              (3)  If the Treasurer and the relevant Board are unable to reach agreement, the relevant Board shall forthwith furnish to the Treasurer a statement in relation to the matter in respect of which the difference of opinion has arisen.
 
-             (4)  The Treasurer may then submit a recommendation to the Governor‑General, and the Governor‑General, acting with the advice of the Federal Executive Council, may, by order, determine the policy to be adopted by the Bank.
+             (4)  The Treasurer may then submit a recommendation to the Governor-General, and the Governor-General, acting with the advice of the Federal Executive Council, may, by order, determine the policy to be adopted by the Bank.
 
              (5)  The Treasurer shall inform the relevant Board of the policy so determined and shall, at the same time, inform the relevant Board that the Government accepts responsibility for the adoption by the Bank of that policy and will take such action (if any) within its powers as the Government considers to be necessary by reason of the adoption of that policy.
 
@@ -590,7 +590,7 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
                      (a)  are to be appointed by the Treasurer; and
 
-                     (b)  shall be appointed for such period, not exceeding 7 years, as the Treasurer determines but are eligible for re‑appointment; and
+                     (b)  shall be appointed for such period, not exceeding 7 years, as the Treasurer determines but are eligible for re-appointment; and
 
                      (c)  hold office subject to good behaviour.
 
@@ -640,7 +640,7 @@ the Treasurer shall terminate his appointment.
 
              (4)  All appointments under this section are to be in writing.
 
-             (5)  All appointments under this section are to be on a part‑time basis.
+             (5)  All appointments under this section are to be on a part-time basis.
 
 Note 1:       Members appointed under subsection (1) or (2) are not appointed for a specified period, however, their appointments can be terminated at any time (see section 25K).
 
@@ -858,13 +858,13 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
                     <a name="australian-note"></a>**_Australian note_** means a note issued under the _Australian Notes Act 1910_, under Part VII of the _Commonwealth Bank Act 1911_, under Part VI of the _Commonwealth Bank Act 1945_ or under this Part as in force at any time.
 
-##### <a id="34"></a>34  Issue, re‑issue and cancellation of notes
+##### <a id="34"></a>34  Issue, re-issue and cancellation of notes
 
              (1)  Subject to this Act, the Bank may:
 
                      (a)  issue Australian notes;
 
-                     (b)  re‑issue Australian notes; and
+                     (b)  re-issue Australian notes; and
 
                      (c)  cancel Australian notes.
 
@@ -1085,7 +1085,7 @@ It also includes information disclosed or obtained in the course of, or for the 
 
              (2)  Subject to this section, a person who is or has been an officer must not, except for the purposes of this Act, the _Banking Act 1959_, Part 7.3 of the _Corporations Act 2001_, section 62ZZD of the _Insurance Act 1973_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_, directly or indirectly:
 
-                     (a)  disclose to any person, or to a court, any protected information acquired by the first‑mentioned person in the course of his or her duties as an officer; or
+                     (a)  disclose to any person, or to a court, any protected information acquired by the first-mentioned person in the course of his or her duties as an officer; or
 
                      (b)  produce to any person, or to a court, a protected document.
 
@@ -1097,7 +1097,7 @@ Note 2:       Chapter 2 of the _Criminal Code_ sets out the genera
 
              (3)  Subsection (2) does not prohibit a person from disclosing prohibited information, or producing a protected document, if the person to whose affairs the information or document relates:
 
-                     (a)  is the employer of the first‑mentioned person; or
+                     (a)  is the employer of the first-mentioned person; or
 
                      (b)  agrees in writing to the disclosure of the information or the production of the document, as the case may be.
 
@@ -1195,7 +1195,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="86"></a>86  Priority of debts due by other ADIs
 
-                   Notwithstanding anything contained in any law relating to the winding‑up of companies, but subject to subsection 13A(3) of the _Banking Act 1959_, debts due to the Bank by an ADI shall, in the winding‑up, have priority over all other debts.
+                   Notwithstanding anything contained in any law relating to the winding-up of companies, but subject to subsection 13A(3) of the _Banking Act 1959_, debts due to the Bank by an ADI shall, in the winding-up, have priority over all other debts.
 
 ##### <a id="87"></a>87  Validity of acts and transactions of Bank
 
@@ -1203,7 +1203,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="89"></a>89  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act or for the conduct of business by the Bank and, in particular, prescribing penalties not exceeding 10 penalty units for offences against the regulations.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act or for the conduct of business by the Bank and, in particular, prescribing penalties not exceeding 10 penalty units for offences against the regulations.
 
 # Notes to the _Reserve Bank Act 1959_
 
@@ -1224,6 +1224,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="30%">
   <col width="16%">
   <col width="17%">
+  <col width="1%">
   <col width="21%">
   <col width="16%">
   <col width="0%">
@@ -1238,7 +1239,7 @@ All relevant information pertaining to application, saving or transitional provi
       <div>Number 
 and year</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Date 
 of Assent</div>
     </td>
@@ -1263,7 +1264,7 @@ of Assent</div>
   <td>
     <div>23 Apr 1959</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>14 Jan 1960 ( <i>see Gazette</i>1960, p. 47)</div>
   </td>
   <td>
@@ -1283,7 +1284,7 @@ of Assent</div>
   <td>
     <div>10 Dec 1965</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>14 Feb 1966</div>
   </td>
   <td>
@@ -1303,7 +1304,7 @@ of Assent</div>
   <td>
     <div>29 Oct 1966</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>1 Dec 1966</div>
   </td>
   <td>
@@ -1323,7 +1324,7 @@ of Assent</div>
   <td>
     <div>26 Oct 1973</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 5: 22 Mar 1971 
 Remainder: Royal Assent</div>
   </td>
@@ -1344,7 +1345,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>19 Dec 1973</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>31 Dec 1973</div>
   </td>
   <td>
@@ -1364,7 +1365,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>12 June 1978</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>12 June 1978</div>
   </td>
   <td>
@@ -1384,7 +1385,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>28 Nov 1979</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
   </td>
   <td>
@@ -1404,7 +1405,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>28 May 1980</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>28 May 1980</div>
   </td>
   <td>
@@ -1424,7 +1425,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>17 Sept 1981</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 1–3: Royal Assent 
 Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   </td>
@@ -1445,7 +1446,7 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -1465,7 +1466,7 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>16 Dec 1985</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 3: 16 Dec 1985 <i>(a)</i></div>
   </td>
   <td>
@@ -1485,7 +1486,7 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>25 June 1984</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 153: 1 Nov 1984 ( <i>see Gazette</i>1984, No. S383) <i>(b)</i></div>
   </td>
   <td>
@@ -1505,7 +1506,7 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>25 June 1984</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>29 June 1984 ( <i>see Gazette</i>1984, No. S241)</div>
   </td>
   <td>
@@ -1525,7 +1526,7 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>5 June 1985</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 3: 3 July 1985 <i>(c)</i></div>
   </td>
   <td>
@@ -1545,7 +1546,7 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>18 Dec 1986</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 3–8 and 12: 18 Dec 1986 
 Ss. 9–11 and Part III (ss.13–17): 30 Nov 1988 ( <i>see Gazette</i>1988, No. S362) 
 Remainder: 15 Jan 1987</div>
@@ -1567,7 +1568,7 @@ Remainder: 15 Jan 1987</div>
   <td>
     <div>14 Dec 1988</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Part II (ss. 3–12): 26 Jan 1989 
 Part VI (ss. 26–31): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S399) 
 Part VII (ss. 32–37): 14 Nov 1988 
@@ -1590,7 +1591,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>7 Nov 1989</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Part I (ss. 1, 2), ss. 3, 26, 29–33, 35, 38 and 40: Royal Assent 
 S. 23(1): 4 May 1989 
 S. 39: 23 Jan 1988 
@@ -1613,7 +1614,7 @@ Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
   <td>
     <div>28 Dec 1990</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 62: 17 Apr 1991 ( <i>see Gazette</i>1991, No. S72) <i>(d)</i></div>
   </td>
   <td>
@@ -1633,7 +1634,7 @@ Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
   <td>
     <div>21 Dec 1992</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 2(6) and 22–34: Royal Assent <i>(e)</i> 
 S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   </td>
@@ -1654,7 +1655,7 @@ S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -1674,7 +1675,7 @@ S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 3 (item 7): 21 Dec 1992 <i>(f)</i></div>
   </td>
   <td>
@@ -1694,7 +1695,7 @@ S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   <td>
     <div>9 June 1994</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 69–74: Royal Assent <i>(g)</i></div>
   </td>
   <td>
@@ -1714,7 +1715,7 @@ S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   <td>
     <div>16 Dec 1995</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 3 and 20: Royal Assent <i>(h)</i> 
 Schedule (items 57, 58): <i>(h)</i></div>
   </td>
@@ -1735,7 +1736,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 4 (item 127): Royal Assent <i>(i)</i></div>
   </td>
   <td>
@@ -1755,7 +1756,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
   <td>
     <div>30 June 1997</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 13: Royal Assent <i>(j)</i></div>
   </td>
   <td>
@@ -1775,7 +1776,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
   <td>
     <div>24 Oct 1997</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 2 (items 1149–1159): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(k)</i></div>
   </td>
   <td>
@@ -1795,7 +1796,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
   <td>
     <div>29 June 1998</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (items 149–154): 1 July 1998 <i>(l)</i></div>
   </td>
   <td>
@@ -1815,7 +1816,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
   <td>
     <div>29 June 1998</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 14: 1 July 1998 <i>(m) 
  </i>Schedule 19: 29 June 1998</div>
   </td>
@@ -1837,7 +1838,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
   <td>
     <div>17 June 1999</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 5: Royal Assent <i>(n)</i> 
 Schedule 8: Royal Assent <i>(n)</i></div>
   </td>
@@ -1858,7 +1859,7 @@ Schedule 8: Royal Assent <i>(n)</i></div>
   <td>
     <div>11 Nov 1999</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (items 789–793): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(o)</i></div>
   </td>
   <td>
@@ -1878,7 +1879,7 @@ Schedule 8: Royal Assent <i>(n)</i></div>
   <td>
     <div>24 Nov 1999</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 10 (item 114): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(p)</i></div>
   </td>
   <td>
@@ -1898,7 +1899,7 @@ Schedule 8: Royal Assent <i>(n)</i></div>
   <td>
     <div>3 Apr 2000</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 7 and Schedule 12 (item 9): Royal Assent <i>(q)</i> 
 Schedule 12 (items 1–3): 3 Apr 2000 <i>(q)</i></div>
   </td>
@@ -1919,7 +1920,7 @@ Schedule 12 (items 1–3): 3 Apr 2000 <i>(q)</i></div>
   <td>
     <div>21 Dec 2000</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (item 21): Royal Assent 
 Remainder: 18 Jan 2001</div>
   </td>
@@ -1940,11 +1941,11 @@ Remainder: 18 Jan 2001</div>
   <td>
     <div>28 June 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 4–14 and Schedule 3 (item 458): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285 <i>(r)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
   <td>
     <div></div>
@@ -1960,7 +1961,7 @@ Remainder: 18 Jan 2001</div>
   <td>
     <div>24 Sept 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 1–3: Royal Assent 
 Remainder:1 July 2002 ( <i>see</i>s. 2(2) and Gazette 2002, No. GN24)</div>
   </td>
@@ -1978,7 +1979,7 @@ Remainder:1 July 2002 ( <i>see</i>s. 2(2) and Gazette 2002, No. GN24)</div>
   <td>
     <div>27 Sept 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 1, 2 and Schedule 3 (items 1–27): Royal Assent 
 Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
   </td>
@@ -1999,7 +2000,7 @@ Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
   <td>
     <div>26 June 2002</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 7: 27 June 2002</div>
   </td>
   <td colspan="2">
@@ -2016,7 +2017,7 @@ Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
   <td>
     <div>24 June 2003</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 1–3: Royal Assent 
 Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</div>
   </td>
@@ -2034,7 +2035,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   <td>
     <div>3 July 2008</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 4 (items 450, 451): 4 July 2008</div>
   </td>
   <td colspan="2">
@@ -2051,7 +2052,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   <td>
     <div>20 Sept 2008</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (items 63–66): 20 Mar 2009</div>
   </td>
   <td colspan="2">
@@ -2068,7 +2069,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   <td>
     <div>17 Oct 2008</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (item 59): <i>(s)</i></div>
   </td>
   <td colspan="2">
@@ -2085,29 +2086,21 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   <td>
     <div>29 June 2010</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 4 (item 27): 27 July 2010</div>
   </td>
   <td colspan="2">
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 991–993) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(a)_     The _Crimes (Currency) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
@@ -2116,13 +2109,13 @@ _(a)_     The _Crimes (Currency) Act 1981_ was amended by section 3 on
 
                  (7)   The amendments of the _Crimes (Currency) Act 1981_ made by this Act (other than the amendment of section 2 of that Act) shall come into operation immediately after the amendment of section 2 of that Act made by this Act comes into operation.
 
-_(b)_     The _Reserve Bank Act 1959_ was amended by section 153 only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+_(b)_    The _Reserve Bank Act 1959_ was amended by section 153 only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
 _(c)_     The _Reserve Bank Act 1959_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Reserve Bank Act 1959_ was amended by section 62 only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
 
@@ -2138,11 +2131,11 @@ _(f)_      The _Banking Legislation Amendment Act 1922_ was amended by
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(g)_     The _Reserve Bank Act 1959_ was amended by sections 69–74 only of the _Banking (State Bank of South Australia and Other Matters) Act 1994_, subsection 2(1) of which provides as follows:
+_(g)_     The _Reserve Bank Act 1959_ was amended by sections 69–74 only of the _Banking (State Bank of__South   Australia__and Other Matters) Act 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     The _Reserve Bank Act 1959_ was amended by sections 3, 20 and the Schedule (items 57 and 58) only of the _Commonwealth Bank Sale Act 1995_, subsections 2(1) and (2) of which provide as follows:
+_(h)_     The _Reserve Bank Act 1959_ was amended by sections 3, 20 and the Schedule (items 57 and 58) only of the _Commonwealth Bank__Sale__Act 1995_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2298,7 +2291,8 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
 <tr>
   <td>
     <div>
-      3\. Schedules 2 to 5
+      3\. Schedules 
+      2 to 5
     </div>
   </td>
   <td>
@@ -3713,28 +3707,6 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 991  Subsection 6A(1)
-
-Omit “(1)”.
-
-## 992  Subsection 6A(1)
-
-Omit “, other than subsection (2) of this section,”.
-
-## 993  Subsection 6A(2)
-
-Repeal the subsection.
-
-As at 30 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3757,19 +3729,19 @@ In this Act, unless the contrary intention appears:
 
 ## 20  Exemption from certain State and Territory taxes
 
-(1)       No tax is payable under a law of a State or Territory in respect of an exempt matter or anything connected with an exempt matter.
+(1)        No tax is payable under a law of a State or Territory in respect of an exempt matter or anything connected with an exempt matter.
 
-(2)       An authorised person may, by signed writing, certify that:
+(2)        An authorised person may, by signed writing, certify that:
 
                      (a)  a specified matter or thing is an exempt matter; or
 
                      (b)  a specified thing was done in connection with a specified exempt matter.
 
-(3)       For all purposes and in all proceedings, a certificate under subsection (2) is evidence of the matter stated in the certificate.
+(3)        For all purposes and in all proceedings, a certificate under subsection (2) is evidence of the matter stated in the certificate.
 
-(4)       A document that appears to be a certificate under subsection (2) is taken to be such a certificate and to have been properly given unless the contrary is established.
+(4)        A document that appears to be a certificate under subsection (2) is taken to be such a certificate and to have been properly given unless the contrary is established.
 
-(5)       In this section:
+(5)        In this section:
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
@@ -3801,16 +3773,15 @@ In this Act, unless the contrary intention appears:
 
 * * *
 
-_Audit (Transitional and Miscellaneous) Amendment Act 1997 
- (No. 152, 1997)_
+_Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)_
 
 ## Schedule 4  
 
 ## 4  Transfers from old Funds to new Funds
 
-(1)       Money in the old Loan Fund immediately before the commencement of this Schedule must be transferred to the new Loan Fund.
+(1)        Money in the old Loan Fund immediately before the commencement of this Schedule must be transferred to the new Loan Fund.
 
-(2)       If:
+(2)        If:
 
                      (a)  immediately before the commencement of this Schedule, money was in an account (however described) that was established or continued in existence by an Act that is amended by Schedule 2 to this Act; and
 
@@ -3818,13 +3789,13 @@ _Audit (Transitional and Miscellaneous) Amendment Act 1997
 
 the money must be transferred from that account to the component of the Reserved Money Fund that is established to replace that account.
 
-(3)       If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
+(3)        If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
 
-(4)       Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
+(4)        Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
 
-(5)       The disallowance rules in section 22 of the Financial Management and Accountability Act 1997 do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
+(5)        The disallowance rules in section 22 of the Financial Management and Accountability Act 1997 do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
 
-(6)       The old Loan Fund and the old Trust Fund are appropriated for the purposes of this item.
+(6)        The old Loan Fund and the old Trust Fund are appropriated for the purposes of this item.
 
 * * *
 
@@ -3868,7 +3839,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
-(1)       The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
                      (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
@@ -3876,7 +3847,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  the amendments and repeals made by the Schedules to this Act.
 
-(2)       Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
                      (a)  by applying (with or without modifications) to the matter:
 
@@ -3890,9 +3861,9 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-(3)       Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(4)       Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
                      (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
@@ -3900,15 +3871,15 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
                      (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-(6)       In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-(7)       In this item:
+(7)        In this item:
 
                     <a name="replac-legisl"></a>**_replaced legislation_** means:
 
@@ -3924,13 +3895,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
 ## 23  Power to make regulations
 
-The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
 * * *
 
@@ -3948,7 +3919,7 @@ In this Part:
 
 **_Imposition Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Imposition Act 1998_; 
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_; 
 
                      (b)  the _General Insurance Supervisory Levy Imposition Act 1998_; 
 
@@ -3962,7 +3933,7 @@ In this Part:
 
 **_Validation Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
 
                      (b)  the _General Insurance Supervisory Levy Determination Validation Act 2000_;
 
@@ -3974,13 +3945,13 @@ In this Part:
 
 ## 2  Deferral of date for paying levy
 
-(1)       This item applies to a levy paying entity if, because of section 4 of a Validation Act:
+(1)        This item applies to a levy paying entity if, because of section 4 of a Validation Act:
 
                      (a)  the entity is liable to pay levy imposed by an Imposition Act; and
 
                      (b)  the levy payable by the entity would, apart from this item, have been due and payable under section 9 of the Collection Act before the deferred payment day.
 
-(2)       The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
+(2)        The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
 
 _Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
@@ -3990,7 +3961,7 @@ Nothing in this Part or the Validation Acts is taken to make a person criminally
 
 ## 9  Disqualification
 
-(1)       This item applies if a person:
+(1)        This item applies if a person:
 
                      (a)  was a member of the Reserve Bank Board immediately before the commencement of Schedule 7 to this Act; and
 
@@ -4000,9 +3971,9 @@ Nothing in this Part or the Validation Acts is taken to make a person criminally
 
                      (d)  would, apart from this item, have been disqualified from the Reserve Bank Board under section 17 of the amended Act, immediately after that commencement, because of holding that position with that ADI.
 
-(2)       Despite section 17 of the amended Act, the person is not disqualified from the Reserve Bank Board under that section merely because the person continues to hold that position with that ADI after that commencement.
+(2)        Despite section 17 of the amended Act, the person is not disqualified from the Reserve Bank Board under that section merely because the person continues to hold that position with that ADI after that commencement.
 
-(3)       In this item:
+(3)        In this item:
 
 **_ADI_** has the same meaning as in the amended Act.
 
@@ -4022,9 +3993,9 @@ _Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000)_
 
 ## 9  Transitional provision for staff of the Reserve Bank
 
-(1)       A person appointed as an officer or a temporary or casual employee under Part VII of the _Reserve Bank Act 1959_ as in force immediately before the commencement of this item and whose appointment is in force immediately before that commencement, is taken to have been appointed as a member of the Reserve Bank Service under section 67 of that Act as in force immediately after the commencement of this item.
+(1)        A person appointed as an officer or a temporary or casual employee under Part VII of the _Reserve Bank Act 1959_ as in force immediately before the commencement of this item and whose appointment is in force immediately before that commencement, is taken to have been appointed as a member of the Reserve Bank Service under section 67 of that Act as in force immediately after the commencement of this item.
 
-(2)       The rights and entitlements of a person covered by subitem (1) are not affected merely because they cease to be appointed under Part VII of the _Reserve Bank Act 1959_ as in force immediately before the commencement of this item and are taken to have been appointed under section 67 of that Act as in force immediately after the commencement of this item.
+(2)        The rights and entitlements of a person covered by subitem (1) are not affected merely because they cease to be appointed under Part VII of the _Reserve Bank Act 1959_ as in force immediately before the commencement of this item and are taken to have been appointed under section 67 of that Act as in force immediately after the commencement of this item.
 
 * * *
 
@@ -4034,9 +4005,9 @@ _Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)_
 
 ## 21  Application
 
-(1)       The amendments made by items 2, 9, 10 and 16 apply only in respect of appointments made after the commencement of this Schedule.
+(1)        The amendments made by items 2, 9, 10 and 16 apply only in respect of appointments made after the commencement of this Schedule.
 
-(2)       The amendments made by items 6, 7, 14 and 15 do not apply to a person who resigned the relevant office before the commencement of this Schedule but whose appointment had not been terminated before that commencement.
+(2)        The amendments made by items 6, 7, 14 and 15 do not apply to a person who resigned the relevant office before the commencement of this Schedule but whose appointment had not been terminated before that commencement.
 
 * * *
 
@@ -4057,11 +4028,11 @@ In this Schedule:
 
 ## 2  APRA’s corporate existence is continued
 
-(1)       The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
+(1)        The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
 
 _Note:       Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA._
 
-(2)       However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
+(2)        However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
 
 _Note:       These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed._
 
@@ -4073,11 +4044,11 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 ## 4  Continued effect of certain delegations
 
-(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+(1)        A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
 
-(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+(2)        A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
 
-(3)       A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
+(3)        A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
@@ -4091,30 +4062,14 @@ An approval in force, immediately before the commencement of the amendments, und
 
 ## 7  Continued or extended effect of certain regulations
 
-(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+(1)        Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
 
-(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+(2)        Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
 
 ## 8  Delegations by ASIC to APRA staff members
 
-(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+(1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
-(2)       For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
  
