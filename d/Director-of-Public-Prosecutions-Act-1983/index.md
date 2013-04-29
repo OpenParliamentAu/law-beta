@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00425/Html/ff51ba97-48d2-4428-8b3f-e73c1cbea00d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00111/Html/60f5ef74-3a6d-42da-a899-a91d5ca9bd0c_files/image001.gif)
 
 # Director of Public Prosecutions Act 1983
 
 **Act No. 113 of 1983 as amended**
 
-This compilation was prepared on 7 May 2012
- taking into account amendments up to Act No. 24 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -724,6 +724,14 @@ whether or not he or she would, but for this section, be entitled to practise in
 
           (1A)  Where the Director institutes or carries on proceedings for the recovery of pecuniary penalties, or co‑ordinates or supervises the institution or carrying on of proceedings for the recovery of pecuniary penalties, in respect of a matter, a court may, at any time during or after the completion of proceedings for the recovery of pecuniary penalties in respect of the matter, make, in relation to a proceeding in the court that relates to the recovery of pecuniary penalties in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
 
+       (1AB)  If the Director applies to a court under section 25 of the _Proceeds of Crime Act 2002_ for a restraining order under that Act, the court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters:
+
+                     (a)  that are referred to in subsection 17(3) or 18(3), paragraph 19(1)(e) or subsection 20(3) (whichever is applicable) of that Act; and
+
+                     (b)  that were contained in an affidavit made in support of the application;
+
+if it appears to the Court to be necessary to make the order in order to prevent prejudice to the administration of justice.
+
           (1B)  If the Director applies to the Supreme Court of a State or Territory:
 
                      (a)  under subsection 43(1) of the _Proceeds of Crime Act 1987_ for a restraining order under that Act; or
@@ -732,9 +740,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
 the Court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters referred to in subsection 44(3), (5), (6), (7) or (7A) of that Act that were contained in an affidavit made in support of the application if it appears to the Court to be necessary to make the order in order to prevent prejudice to the administration of justice.
 
-Note:          If the Director (or the Commissioner for the Australian Federal Police) applies for a restraining order under the _Proceeds of Crime Act 2002_, a court may make an order corresponding to the order mentioned in this subsection under section 28A of that Act.
-
-             (2)  The power conferred by subsection (1), (1A) or (1B) is in addition to, and shall not be taken to derogate from, any other power of a court.
+             (2)  The power conferred by subsection (1), (1A), (1AB) or (1B) is in addition to, and shall not be taken to derogate from, any other power of a court.
 
              (3)  In this section, **_proceeding_** means:
 
@@ -1898,24 +1904,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002 No. GN44)</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Powers and Offences) Act 2012</div>
-  </td>
-  <td>
-    <div>24, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 
-1–3, 11(1)): 5 Apr 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 6 (item 11(1)) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Director of Public Prosecutions Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
@@ -2205,15 +2193,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 88, 1986; No. 182, 1994; No. 86, 2002; No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16A(1B)</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2012</div>
+    <div>am. No. 88, 1986; No. 182, 1994; No. 86, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2510,19 +2490,6 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Crimes Legislation Amendment (Powers and Offences) Act 2012 
- (No. 24, 2012)_
-
-## Schedule 6
-
-## 11  Application—publication prohibitions relating to restraining and freezing orders
-
-(1)       The amendments of the _Director of Public Prosecutions Act 1983_ made by items 1, 2 and 3 of this Schedule, and the amendment of the _Proceeds of Crime Act 2002_ made by item 9 of this Schedule, apply in relation to an application made on or after the commencement of those items for a restraining order under the _Proceeds of Crime Act 2002_ (whether the conduct on the basis of which the restraining order is sought occurred before, on or after that commencement).
-
-_Note:       For the commencement of items 1, 2, 3 and 9 of this Schedule, see section 2._
 
 ## Table B
 
