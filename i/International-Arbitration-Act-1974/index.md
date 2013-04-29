@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00568/Html/InternationalArbit1974_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00354/Html/InternationalArbit1974_WD02_image001.gif)
 
 # International Arbitration Act 1974
 
 **Act No. 136 of 1974 as amended**
 
-This compilation was prepared on 15 December 2009
- taking into account amendments up to Act No. 122 of 2009
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="convent-countri"></a>**_Convention country_** means a country (other than Australia) that is a Contracting State within the meaning of the Convention.
 
-                    <a name="court"></a>**_court_** means any court in Australia, including, but not limited to, the Federal Court of Australia and a court of a State or Territory.
+                    <a name="court"></a>**_court_** means any court in Australia, including a court of a State or Territory.
 
                     <a name="foreign-award"></a>**_foreign award_** means an arbitral award made, in pursuance of an arbitration agreement, in a country other than Australia, being an arbitral award in relation to which the Convention applies.
 
@@ -213,8 +213,6 @@ on the application of a party to the agreement, the court shall, by order, upon 
              (1)  Subject to this Part, a foreign award is binding by virtue of this Act for all purposes on the parties to the arbitration agreement in pursuance of which it was made.
 
              (2)  Subject to this Part, a foreign award may be enforced in a court of a State or Territory as if the award had been made in that State or Territory in accordance with the law of that State or Territory.
-
-             (3)  Subject to this Part, a foreign award may, with the leave of the Federal Court of Australia, be enforced in the Federal Court of Australia as if the award were a judgment or order of the Federal Court of Australia.
 
              (4)  Where:
 
@@ -350,9 +348,7 @@ The following courts shall be taken to have been specified in Article 6 of the M
 
                               (i)  the Supreme Court of that Territory; or
 
-                             (ii)  if there is no Supreme Court established in that Territory—the Supreme Court of the State or Territory that has jurisdiction in relation to that Territory;
-
-                     (c)  in any case—the Federal Court of Australia.
+                             (ii)  if there is no Supreme Court established in that Territory—the Supreme Court of the State or Territory that has jurisdiction in relation to that Territory.
 
 ##### <a id="19"></a>19  Articles 34 and 36 of Model Law—public policy
 
@@ -535,10 +531,6 @@ as if any reference in that chapter to an arbitral award or an award were a refe
              (1)  The Supreme Court of each State and Territory is designated for the purposes of Article 54.
 
              (2)  An award may be enforced in the Supreme Court of a State or Territory as if the award had been made in that State or Territory in accordance with the law of the State or Territory.
-
-             (3)  The Federal Court of Australia is designated for the purposes of Article 54.
-
-             (4)  An award may, with the leave of the Federal Court of Australia, be enforced in the Federal Court of Australia as if the award were a judgment or order of the Federal Court of Australia.
 
 ### Division 3—Miscellaneous
 
@@ -1833,23 +1825,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009</div>
-  </td>
-  <td>
-    <div>122, 2009</div>
-  </td>
-  <td>
-    <div>7 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _International Arbitration Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
@@ -1968,7 +1943,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 25, 1989; No. 122, 2009</div>
+    <div>am. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -2000,7 +1975,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 19, 1979; No. 25, 1989; No. 73, 2008; No. 122, 2009</div>
+    <div>am. No. 19, 1979; No. 25, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2085,31 +2060,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Ss. 16, 17</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 122, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19–21</div>
+    <div>Ss. 16–21</div>
   </td>
   <td>
     <div>ad. No. 25, 1989</div>
@@ -2189,26 +2140,10 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Ss. 32–34</div>
+    <div>Ss. 32–35</div>
   </td>
   <td>
     <div>ad. No. 107, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 122, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2221,7 +2156,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Ss. 36–38</div>
+    <div>Ss. 33–38</div>
   </td>
   <td>
     <div>ad. No. 107, 1990</div>
