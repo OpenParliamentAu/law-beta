@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00452/Html/a8e5b42f-0a2b-4b91-8dd3-42a5119bfc43_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00582/Html/25807c80-a953-437d-96b7-129addba5350_files/image001.gif)
 
 # Tertiary Education Quality and Standards Agency Act 2011
 
 **Act No. 73 of 2011 as amended**
 
-This compilation was prepared on 18 May 2012
- taking into account amendments up to Act No. 9 of 2012
+This compilation was prepared on 29 July 2011
+ taking into account amendments up to Act No. 74 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -566,7 +566,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Tertiary Education Quality and Standards Agency Act 2011_.
 
@@ -780,7 +780,7 @@ Note:          This table relates only to the provisions of this
 
 ##### <a id="3"></a>3  Objects
 
-                   The objects of this Act are:
+                   The objects of this Act are:
 
                      (a)  to provide for national consistency in the regulation of higher education; and
 
@@ -4854,8 +4854,6 @@ Note:          This section extends to, for example, a thing d
 
 The _Tertiary Education Quality and Standards Agency Act 2011_ as shown in this compilation comprises Act No. 73, 2011 amended as indicated in the Tables below. 
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -4863,8 +4861,8 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="29%">
   <col width="17%">
   <col width="17%">
-  <col width="21%">
-  <col width="16%">
+  <col width="19%">
+  <col width="17%">
 </colgroup>
 
 <thead>
@@ -4899,10 +4897,7 @@ of Assent</div>
     <div>29 June 2011</div>
   </td>
   <td>
-    <div>Ss. 3–8, 10–12, 58, 132–197 and 199–205: 29 July 2011 
-Ss. 9, 13–57, 
-59–131 and 198: 29 Jan 2012 
-Remainder: Royal Assent</div>
+    <div><i>See</i>s. 2(1)</div>
   </td>
   <td>
     <div></div>
@@ -4923,23 +4918,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>9, 2012</div>
-  </td>
-  <td>
-    <div>20 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 39, 44, 62): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 44, 62)</div>
   </td>
 </tr></table>
 
@@ -5091,45 +5069,5 @@ _(a)_     Subsection 2(1) (item 11) of the _Tertiary Education Quality
     <div>am. No. 74, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 39  Paragraph 189(1)(e)
-
-Omit “the Fund Manager, or the operator of an applicable tuition assurance scheme,”, substitute “the TPS Director,”.
-
-As at 18 May 2012 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
-
-The following provisions commence on 1 July 2012:
-
-## Schedule 1
-
-## 44  Application—defaults after commencement
-
-The amendments made by this Schedule apply in relation to any default by a registered provider, or an overseas student or intending overseas student, that occurs after this item commences.
-
-## 62  Constitutional safety net
-
-(1)       If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
-
-(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-(3)       In this item:
-
-**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
  
