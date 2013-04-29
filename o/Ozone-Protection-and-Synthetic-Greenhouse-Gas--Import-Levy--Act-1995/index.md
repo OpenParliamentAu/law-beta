@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00927/Html/61082c9f-a00a-46c6-a870-5816f92a79f9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00524/Html/ad13a435-3367-40f2-8822-fe9edf567d8c_files/image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995
 
 **Act No. 126 of 1995 as amended**
 
-This compilation was prepared on 18 December 2012
- taking into account amendments up to Act No. 202 of 2012
+This compilation was prepared on 1 July 2012
+ taking into account amendments up to Act No. 164 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -53,6 +54,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    In this Act:
 
+                    <a name="benchmark-averag-auction-charg"></a>**_benchmark average auction charge_** has the same meaning as in the _Clean Energy Act 2011_.
+
                     <a name="carbon-unit"></a>**_carbon unit_** has the same meaning as in the _Clean Energy Act 2011_.
 
                     <a name="fix-charg-year"></a>**_fixed charge year_** has the same meaning as in the _Clean Energy Act 2011_.
@@ -62,8 +65,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                     <a name="issu"></a>**_issue_**, in relation to a carbon unit, has the same meaning as in the _Clean Energy Act 2011_.
 
                     <a name="mical-equip"></a>**_medical equipment_** includes a pharmaceutical product.
-
-                    <a name="per-tonn-carbon-price-equival"></a>**_per‑tonne carbon price equivalent_** has the same meaning as in the _Clean Energy Act 2011_.
 
                     <a name="vintag-year"></a>**_vintage year_** has the same meaning as in the _Clean Energy Act 2011_.
 
@@ -105,7 +106,7 @@ levy is imposed on the licensee in respect of that import.
 
              (7)  The amount of levy imposed by subsection (1) on a licensee in respect of the import of an SGG in a quarter is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00927/Html/61082c9f-a00a-46c6-a870-5816f92a79f9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00524/Html/ad13a435-3367-40f2-8822-fe9edf567d8c_files/image002.gif)
 
 where:
 
@@ -113,7 +114,7 @@ where:
 
                      (a)  if the quarter is in a fixed charge year—the per unit charge applicable under subsection 100(1) of the _Clean Energy Act 2011_ for the issue of a carbon unit with a vintage year of that fixed charge year; or
 
-                     (b)  if the quarter is in a flexible charge year—the per‑tonne carbon price equivalent most recently published under section 196A of the _Clean Energy Act 2011_ before the start of the quarter.
+                     (b)  if the quarter is in a flexible charge year—the benchmark average auction charge for the previous financial year.
 
                     <a name="prescrib-rate"></a>**_prescribed rate_** means the rate prescribed by the regulations.
 
@@ -139,7 +140,7 @@ the Minister may, by written notice given to the licensee, determine that the li
 
            (10)  For the purposes of subsection (9), the **_carbon charge component_** of the amount of the levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00927/Html/61082c9f-a00a-46c6-a870-5816f92a79f9_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00524/Html/ad13a435-3367-40f2-8822-fe9edf567d8c_files/image003.gif)
 
 where:
 
@@ -203,7 +204,7 @@ levy is imposed on the licensee in respect of that import.
 
              (5)  The amount of levy imposed by subsection (1) on a licensee in respect of the import of SGG equipment during a quarter is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00927/Html/61082c9f-a00a-46c6-a870-5816f92a79f9_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00524/Html/ad13a435-3367-40f2-8822-fe9edf567d8c_files/image004.gif)
 
 where:
 
@@ -211,7 +212,7 @@ where:
 
                      (a)  if the quarter is in a fixed charge year—the per unit charge applicable under subsection 100(1) of the _Clean Energy Act 2011_ for the issue of a carbon unit with a vintage year of that fixed charge year; or
 
-                     (b)  if the quarter is in a flexible charge year—the per‑tonne carbon price equivalent most recently published under section 196A of the _Clean Energy Act 2011_ before the start of the quarter.
+                     (b)  if the quarter is in a flexible charge year—the benchmark average auction charge for the previous financial year.
 
                     <a name="prescrib-rate"></a>**_prescribed rate_** means the rate prescribed by the regulations.
 
@@ -305,7 +306,7 @@ of Assent</div>
     <div>1 Jan 1996</div>
   </td>
   <td>
-    <div></div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -341,112 +342,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 10)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment (Per‑tonne Carbon Price Equivalent) Act 2012</div>
-  </td>
-  <td>
-    <div>202, 2012</div>
-  </td>
-  <td>
-    <div>12 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: <i>(a)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (item 2) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment (Per‑tonne Carbon Price Equivalent) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 1 of Schedule 1 to the
-        <i>Clean Energy Amendment (International Emissions Trading and Other Measures)
-          Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      14 December 2012
-    </div>
   </td>
 </tr></table>
 
@@ -507,14 +402,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Ozone Protection and Synthe
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 202, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 2B</div>
   </td>
   <td>
@@ -535,14 +422,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Ozone Protection and Synthe
   </td>
   <td>
     <div>ad. No. 164, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 202, 2012</div>
   </td>
 </tr>
 <tr>
@@ -575,14 +454,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Ozone Protection and Synthe
   </td>
   <td>
     <div>ad. No. 164, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 202, 2012</div>
   </td>
 </tr>
 <tr>
