@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00835/Html/a8e04be7-caff-4403-abcb-7a625f3d9b93_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00854/Html/QantasSale1992_WD02HYP_image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 18 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Payment for share subscription
 
-[16](#16).          Commonwealth takeover of certain Commonwealth‑guaranteed obligations in connection with Qantas
+[16](#16).          Commonwealth takeover of certain Commonwealth-guaranteed obligations in connection with Qantas
 
 [17](#17).          Commonwealth takeover of certain obligations in connection with Qantas other than those referred to in section 16
 
@@ -242,7 +242,7 @@ Sections 22, 23
 
                      (b)  impose restrictions on the issue and ownership (including joint ownership) of shares in Qantas so as to prevent any one foreign person having relevant interests in shares in Qantas that represent more than 25% of the total value of the issued share capital of Qantas; and
 
-                     (c)  impose restrictions on the counting of votes in respect of the appointment, replacement and removal of a director of Qantas so as to prevent the votes attaching to all substantial foreign shareholdings being counted in respect of the appointment, replacement or removal of more than one‑third of the directors of Qantas who hold office, at any particular time; and
+                     (c)  impose restrictions on the counting of votes in respect of the appointment, replacement and removal of a director of Qantas so as to prevent the votes attaching to all substantial foreign shareholdings being counted in respect of the appointment, replacement or removal of more than one-third of the directors of Qantas who hold office, at any particular time; and
 
                      (d)  confer the following powers on the directors of Qantas to enable the directors to enforce the restrictions referred to in paragraphs (a), (b) and (c):
 
@@ -264,7 +264,7 @@ Sections 22, 23
 
                      (h)  require that of the facilities, taken in aggregate, which are used by Qantas in the provision of scheduled international air transport services (for example, facilities for the maintenance and housing of aircraft, catering, flight operations, training and administration), the facilities located in Australia, when compared with those located in any other country, must represent the principal operational centre for Qantas; and
 
-                      (i)  require that, at all times, at least two‑thirds of the directors of Qantas are to be Australian citizens; and
+                      (i)  require that, at all times, at least two-thirds of the directors of Qantas are to be Australian citizens; and
 
                       (j)  require that, at a meeting of the board of directors of Qantas, the director presiding at the meeting (however described) must be an Australian citizen; and
 
@@ -474,7 +474,7 @@ the Court may, on the application of the Minister, grant an injunction, on such 
 
                      (b)  whether or not Qantas or the person has previously engaged in conduct of that kind; and
 
-                     (c)  whether or not there is an imminent danger of substantial damage to any person if Qantas or the first‑mentioned person engages in conduct of that kind.
+                     (c)  whether or not there is an imminent danger of substantial damage to any person if Qantas or the first-mentioned person engages in conduct of that kind.
 
              (7)  The power of the Court to grant an injunction requiring Qantas or any other person to do an act or thing may be exercised:
 
@@ -482,7 +482,7 @@ the Court may, on the application of the Minister, grant an injunction, on such 
 
                      (b)  whether or not Qantas or the person has previously refused or failed to do that act or thing; and
 
-                     (c)  whether or not there is an imminent danger of substantial damage to any person if Qantas or the first‑mentioned person refused or fails to do that act or thing.
+                     (c)  whether or not there is an imminent danger of substantial damage to any person if Qantas or the first-mentioned person refused or fails to do that act or thing.
 
              (8)  If the Minister applies to the Court for the grant of an injunction under this section, the Court must not require the Minister, as a condition of granting an interim injunction, to give an undertaking as to damages.
 
@@ -560,7 +560,7 @@ authorise the payment to Qantas of all or part of the money payable for shares i
 
              (4)  The total of all amounts paid under subsection (1) must not exceed $1,400,000,000.
 
-##### <a id="16"></a>16  Commonwealth takeover of certain Commonwealth‑guaranteed obligations in connection with Qantas
+##### <a id="16"></a>16  Commonwealth takeover of certain Commonwealth-guaranteed obligations in connection with Qantas
 
              (1)  The Treasurer may, on the Commonwealth’s behalf:
 
@@ -658,7 +658,7 @@ enter into an agreement to take over an obligation to which this section applies
 
 by the Commonwealth.
 
-##### <a id="21"></a>21  This Part to have effect despite Corporations Act
+##### <a id="21"></a>21  This Part to have effect despite Corporations Act
 
                    This Part has effect despite any provision of the _Corporations Act 2001_ of a State or an internal Territory.
 
@@ -720,7 +720,7 @@ if it were assumed that the employee had been retrenched immediately before the 
 
              (4)  Long service leave granted in the circumstances set out in paragraph (1)(b) or (c) is to be taken so as to expire immediately before the employee is to cease to be an employee.
 
-             (5)  If a period of long service leave may be granted to an employee under subsection (1), the employer may, at the request of the employee, grant the employee long service leave on half salary for a period not exceeding twice that first‑mentioned period.
+             (5)  If a period of long service leave may be granted to an employee under subsection (1), the employer may, at the request of the employee, grant the employee long service leave on half salary for a period not exceeding twice that first-mentioned period.
 
              (6)  Subsection (2) does not apply to an employee who, by written notice given to his or her employer before the employee ceases to be an employee, requests the employer not to make a payment to the employee under that subsection.
 
@@ -760,13 +760,13 @@ the employer must authorise payment to a dependant of the employee of an amount 
 
                      (b)  for the expression in that section “section 16 or 17” there were substituted the expression “subsection 26(2) of the _Qantas Sale Act 1992_”.
 
-           (12)  To avoid doubt, it is declared that this section does not affect an employee’s post‑sale long service leave rights.
+           (12)  To avoid doubt, it is declared that this section does not affect an employee’s post-sale long service leave rights.
 
            (13)  Unless the contrary intention appears, expressions used in this section and in the Long Service Leave Act have the same respective meanings as in that Act.
 
            (14)  In this section:
 
-                    <a name="employe"></a>**_employee_** includes a person employed in a full‑time or part‑time capacity.
+                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or part-time capacity.
 
                     <a name="law"></a>**_law_** means:
 
@@ -774,7 +774,7 @@ the employer must authorise payment to a dependant of the employee of an amount 
 
                      (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post‑sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) after the commencement of this section.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) after the commencement of this section.
 
 ##### <a id="27"></a>27  Transitional provisions relating to the SRC Act
 
@@ -802,7 +802,7 @@ the employer must authorise payment to a dependant of the employee of an amount 
 
                             (iii)  the following word and paragraph were added to the end of subsection 96H(1): 
 
-                                 “; or (f)  in the case of an authority—the authority ceased to be required to pay a premium under this Division in respect of part of a financial year.”; and
+                                  “; or (f)  in the case of an authority—the authority ceased to be required to pay a premium under this Division in respect of part of a financial year.”; and
 
                      (g)  Part VIIIA of the SRC Act continues to apply to Australian Airlines as if:
 
@@ -882,7 +882,7 @@ the employer must authorise payment to a dependant of the employee of an amount 
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
-                     (a)  the Secretary to the Attorney‑General’s Department; or
+                     (a)  the Secretary to the Attorney-General’s Department; or
 
                      (b)  an SES employee, or acting SES employee, in the Department who is authorised by the Secretary, in writing, for the purposes of this section.
 
@@ -992,7 +992,7 @@ but does not include a tax, fee (other than a fee payable under the _Corporation
 
              (1)  Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply to regulations that include a declaration that the regulations are connected with the sale of Qantas.
 
-             (2)  Subsection (1) does not apply unless the Governor‑General is satisfied, before making the regulations, that the regulations are connected with the sale of Qantas.
+             (2)  Subsection (1) does not apply unless the Governor-General is satisfied, before making the regulations, that the regulations are connected with the sale of Qantas.
 
              (3)  Regulations referred to in subsection (1) are to take effect, as declared in those regulations, on a specified day, being the day on which Part 2, 4 or 7 of the Schedule commences.
 
@@ -1018,7 +1018,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00835/Html/a8e04be7-caff-4403-abcb-7a625f3d9b93_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00854/Html/QantasSale1992_WD02HYP_image002.gif)
 
 where:
 
@@ -1040,7 +1040,7 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00835/Html/a8e04be7-caff-4403-abcb-7a625f3d9b93_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00854/Html/QantasSale1992_WD02HYP_image003.gif)
 
 where:
 
@@ -1160,7 +1160,7 @@ _Crimes (Internationally Protected Persons) Act 1976_
 
 _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_
 
-_Nuclear Non‑Proliferation (Safeguards) Act 1987_
+_Nuclear Non-Proliferation (Safeguards) Act 1987_
 
 _South Pacific Nuclear Free Zone Treaty Act 1986_
 
@@ -1244,8 +1244,6 @@ Sections 35, 37 and 50 are repealed, _see_ sections 36, 38 and 51.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -1253,8 +1251,8 @@ For all other relevant information pertaining to application, saving or transiti
   <col width="30%">
   <col width="16%">
   <col width="18%">
-  <col width="21%">
-  <col width="16%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1491,23 +1489,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 965) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsections 2(2) and (6) of the _Qantas Sale Act 1992_ provide as follows:
@@ -1518,7 +1499,7 @@ _(a)_     Subsections 2(2) and (6) of the _Qantas Sale Act 1992_ provide
 
          Section 25 and Schedule (Parts 3, 6, 7) of the _Qantas Sale Act 1992_ are taken to have been repealed on 31 August 1995.
 
-_(b)_     The _Qantas Sale Act 1992_ was amended by the Schedule (items 70 and 71) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
+_(b)_    The _Qantas Sale Act 1992_ was amended by the Schedule (items 70 and 71) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) to (10) (inclusive), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1905,37 +1886,5 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>am. Nos. 5 and 168, 1994</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 965  Subsection 7(7) (definition of _Australian citizen_)
-
-Repeal the definition.
-
-As at 18 October 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
