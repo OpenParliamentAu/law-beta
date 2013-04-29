@@ -1,395 +1,333 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C03238/Html/CrownDbts81_image001.gif)
 
-###  CROWN DEBTS (PRIORITY) ACT 1981 
-**
+# Crown Debts (Priority) Act 1981
 
+**Act No. 93 of 1981 as amended**
 
-**
+This compilation was prepared on 14 November 2000
+ taking into account amendments up to Act No. 170 of 1995
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
+[3](#3).            Crown subject to State and Territory laws with respect to priority  1
 
+[4](#4).            Certain rights of the Crown not affected                                             1
 
-**
+**Notes** 
 
-###  Long Title 
-**
-###  CROWN DEBTS (PRIORITY) ACT 1981- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Crown Debts (Priority) Act 1981_.
+ 
 
- 
-###  CROWN DEBTS (PRIORITY) ACT 1981- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on the day on which the _Companies Act 1981_ comes into operation.
+## An Act relating to the priority of Crown debts
 
- 
-###  CROWN DEBTS (PRIORITY) ACT 1981- SECT 3  Crown subject to State and Territory laws with respect to priority 
-Notwithstanding any prerogative right or privilege of the Crown in right of
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-the Commonwealth, the Crown in right of the Commonwealth is subject to any
+                   This Act may be cited as the _Crown Debts (Priority) Act 1981_.
 
-provision of a law of a State or Territory:
+##### <a id="2"></a>2  Commencement [_see_Note 1]
 
- 
-<dl compact=""><dl compact="">
+                   This Act shall come into operation on the day on which the _Companies Act 1981_ comes into operation.
 
-<dt>(a)</dt><dd>relating to the order in which debts or liabilities of a body (whether
+##### <a id="3"></a>3  Crown subject to State and Territory laws with respect to priority
 
-corporate or unincorporate) are to be paid or discharged; </dd>
+                   Notwithstanding any prerogative right or privilege of the Crown in right of the Commonwealth, the Crown in right of the Commonwealth is subject to any provision of a law of a State or Territory:
 
-<dt>(b)</dt><dd>relating to the avoidance of preferences received by creditors of a body
+                     (a)  relating to the order in which debts or liabilities of a body (whether corporate or unincorporate) are to be paid or discharged; 
 
-(whether corporate or unincorporate); or</dd>
+                     (b)  relating to the avoidance of preferences received by creditors of a body (whether corporate or unincorporate); or
 
-<dt>(c)</dt><dd>relating to the effect on creditors or members of a body (whether
+                     (c)  relating to the effect on creditors or members of a body (whether corporate or unincorporate) of a compromise or arrangement between the body and another person or other persons.
 
-corporate or unincorporate) of a compromise or arrangement between the body and
+##### <a id="4"></a>4  Certain rights of the Crown not affected
 
-another person or other persons.
+                   Nothing in section 3, in the _Companies Act 1981_ or in the _Corporations Act 1989_ affects the operation of section, subsections 221YHJ(3), (4) and (5) or 221YHZD(3), (4) and (5) or section 221YU of the _Income Tax Assessment Act 1936_ or of section 32 of the _Life Insurance Policy Holders’ Protection Levies Collection Act 1991_.
 
-</dd>
+Note:   The provisions of the _Income Tax Assessment Act 1936_ referred to do not apply to liabilities arising after 30 June 1993.
 
-</dl></dl>
-###  CROWN DEBTS (PRIORITY) ACT 1981- SECT 4  Certain rights of the Crown not affected 
-Nothing in section&#160;3, in the _Corporations Act 2001_ affects the
+# Notes to the _Crown Debts (Priority) Act 1981_
 
-operation of section, subsections 221YHJ(3), (4) and (5) or 221YHZD(3), (4) and
+### Note 1
 
-<dt>(5)</dt><dd>or section&#160;221YU of the _Income Tax Assessment Act 1936_ or of
+The _Crown Debts (Priority) Act 1981_ as shown in this compilation comprises Act No. 93, 1981 amended as indicated in the Tables below.
 
-section&#160;32 of the _Life Insurance Policy Holders&apos; Protection Levies Collection Act 1991_.
+### Table of Acts
 
-</dd> 
-<dl compact="">
+* * *
 
-Note:	The provisions of the _Income Tax Assessment Act 1936_ referred to do not apply to liabilities arising after 30&#160;June 1993.
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
- </dl>
-**
-
-###  CROWN DEBTS (PRIORITY) ACT 1981<centreit>Notes to the _Crown Debts (Priority) Act 1981_ </centreit>
-**
-Note 1
-Crown Debts (Priority) Act 1981
-
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-see
-Table of Acts
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
 
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
+* * *
 
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
+<tr>
+  <td>
+    <div>Crown Debts (Priority) Act 1981</div>
   </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Crown Debts (Priority) Act 1981_</div>
-
-  </td>
-  <td colspan="1" align="left">
+  <td>
     <div>93, 1981</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>18&#160;June 1981</div>
-
+  <td>
+    <div>18 June 1981</div>
   </td>
-  <td colspan="1" align="left">
-    <div>1&#160;July 1982 ( _see_s. 2 and _Gazette_1982, No. S124)</div>
-
+  <td>
+    <div>1 July 1982 ( <i>see</i>s. 2 and <i>Gazette</i>1982, No. S124)</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Income Tax (Payments for Work) (Consequential Amendments) Act 1983_</div>
-
+<tr>
+  <td>
+    <div>Income Tax (Payments for Work) (Consequential Amendments) Act 1983</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18, 1983</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>14&#160;June 1983</div>
-
+  <td>
+    <div>14 June 1983</div>
   </td>
-  <td colspan="1" align="left">
-    <div>14&#160;June 1983 ( _see_s. 2)</div>
-
+  <td>
+    <div>14 June 1983 ( <i>see</i>s. 2)</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Taxation Laws Amendment Act (No.&#160;4) 1986_</div>
-
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 4) 1986</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>154, 1986</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1986</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>S. 8(c): 10&#160;June 1986 
-Part&#160;II (ss. 3-6), ss. 8(a), 9, 10 and 11: 1 Jan 1987 
-Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( _see_s. 2 (4)) 
-S. 55: 1 Mar 1987 ( _see Gazette_1987, No. S32) 
+  <td>
+    <div>S. 8(c): 10 June 1986 
+Part II (ss. 3-6), ss. 8(a), 9, 10 and 11: 1 Jan 1987 
+Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( <i>see</i>s. 2 (4)) 
+S. 55: 1 Mar 1987 ( <i>see Gazette</i>1987, No. S32) 
 Remainder: 18 Dec 1986</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Corporations Legislation Amendment Act 1990_</div>
-
+<tr>
+  <td>
+    <div>Corporations Legislation Amendment Act 1990</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>110, 1990</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1990</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>S. 18: 1 Jan 1991 ( _see Gazette_1990, No. S335) _(a)_</div>
-
+  <td>
+    <div>S. 18: 1 Jan 1991 ( <i>see Gazette</i>1990, No. S335) <i>(a)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Corporations Legislation Amendment Act 1991_</div>
-
+<tr>
+  <td>
+    <div>Corporations Legislation Amendment Act 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>110, 1991</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>27&#160;June 1991</div>
-
+  <td>
+    <div>27 June 1991</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Part&#160;5 (ss. 12, 13): 1 Jan 1991 _(b)_</div>
-
+  <td>
+    <div>Part 5 (ss. 12, 13): 1 Jan 1991 <i>(b)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Life Insurance Policy Holders' Protection Levies Collection Act 1991_</div>
-
+<tr>
+  <td>
+    <div>Life Insurance Policy Holders’ Protection Levies Collection Act 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>3, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>6 Jan 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>6 Jan 1992</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Insolvency (Tax Priorities) Legislation Amendment Act 1993_</div>
-
+<tr>
+  <td>
+    <div>Insolvency (Tax Priorities) Legislation Amendment Act 1993</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>32, 1993</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>16&#160;June 1993</div>
-
+  <td>
+    <div>16 June 1993</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Ss. 6, 7, 9, 11, 13, 15 and Part&#160;5 (ss. 29, 30): 1&#160;June 1993 
-Part&#160;4 (ss. 20-28): 1&#160;July 1993 
+  <td>
+    <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
+Part 4 (ss. 20-28): 1 July 1993 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>**as amended by**</div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Statute Law Revision Act 1996_</div>
-
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>43, 1996</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 Oct 1996</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;3 (item&#160;32): 16&#160;June 1993 _(c)_</div>
-
+  <td>
+    <div>Schedule 3 (item 32): 16 June 1993 <i>(c)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Taxation Laws Amendment Act (No.&#160;3) 1995_</div>
-
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 3) 1995</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>170, 1995</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Dec 1995</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;2 (items&#160;61, 64): Royal Assent _(d)_</div>
-
+  <td>
+    <div>Schedule 2 (items 61, 64): Royal Assent <i>(d)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>Sch. 2 (item&#160;64)</div>
-
+  <td>
+    <div>Sch. 2 (item 64)</div>
   </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Corporations (Repeals, Consequentials and Transitionals) Act 2001_</div>
+</tr></table>
 
-  </td>
-  <td colspan="1" align="left">
-    <div>55, 2001</div>
+_(a)_     The _Crown Debts (Priority) Act 1981_ was amended by subsection 18(2) only of the _Corporations Legislation Amendment Act 1990_, subsection 2(2) of which provides as follows:
 
-  </td>
-  <td colspan="1" align="left">
-    <div>28 June 2001</div>
+                 (2)   The remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 4-14 and Schedule 3 (item 151): 15 July 2001 ( _see Gazette_2001, No. S285) _(e)_</div>
+_(b)_    The _Crown Debts (Priority) Act 1981_ was amended by Part 5 (sections 12 and 13) only of the _Corporations Legislation Amendment Act 1991_, subsection 2(9) of which provides as follows:
 
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 4-14</div>
+                 (9)   Part 5 is taken to have commenced on 1 January 1991.
 
-  </td>
-</tr>
-(a)
-Crown Debts (Priority) Act 1981
-Corporations Legislation Amendment Act 1990
-(b)
-Crown Debts (Priority) Act 1981
-Corporations Legislation Amendment Act 1991
-(c)
-Insolvency (Tax Priorities) Legislation Amendment Act 1993
-Statute Law Revision Act 1996
-(d)
-Crown Debts (Priority) Act 1981
-Taxation Laws Amendment Act (No. 3) 1995
-(e)
-Crown Debts (Priority) Act 1981
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-Corporations Act 2001
-Table of Amendments
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+_(c)_     The _Insolvency (Tax Priorities) Legislation Amendment Act 1993_ was amended by Schedule 3 (item 32) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent. 
+
+_(d)_     The _Crown Debts (Priority) Act 1981_ was amended by the _Taxation Laws Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;18, 1983; No.&#160;154, 1986; No.&#160;110, 1990; No. 110,1991; No.&#160;3, 1992; No.&#160;32, 1993 (as am. by No.&#160;43, 1996); No.&#160;170, 1995; No. 55, 2001</div>
-
+  <td>
+    <div>am. No. 18, 1983; No. 154, 1986; No. 110, 1990; No. 110,1991; No. 3, 1992; No. 32, 1993 (as am. by No. 43, 1996); No. 170, 1995</div>
   </td>
-</tr>
+</tr></table>
 
-
-
-
+ 
