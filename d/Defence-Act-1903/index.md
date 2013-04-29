@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00089/Html/b0fe8f7d-34c9-4220-adc8-6220856d0b95_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00523/Html/Defence03_WD02_image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 2 August 2010
  taking into account amendments up to Act No. 95 of 2010
 
 The text of any of those amendments not in force
@@ -166,17 +166,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision B—Special powers of members of the Defence Force**
 
-[51SE](#51SE).     Special powers of members of the Defence Force
+[51SE](#51SE).      Special powers of members of the Defence Force
 
         **Subdivision C—Powers that may be exercised anywhere in an offshore area**
 
-[51SF](#51SF).     Declaration of offshore general security area
+[51SF](#51SF).      Declaration of offshore general security area
 
 [51SG](#51SG).     Authorisation to search facilities in the offshore general security area for dangerous and other things
 
 [51SH](#51SH).     Copy of offshore search authorisation to be given to occupier etc 
 
-[51SI](#51SI).      Occupier etc  entitled to be present during search
+[51SI](#51SI).       Occupier etc  entitled to be present during search
 
 [51SJ](#51SJ).      Search of vessel or aircraft in the offshore general security area for dangerous or other things
 
@@ -184,7 +184,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision D—Powers that may be exercised only in relation to an offshore designated area in the offshore general security area**
 
-[51SL](#51SL).     Declaration of offshore designated area
+[51SL](#51SL).      Declaration of offshore designated area
 
 [51SM](#51SM).    Control of movement in relation to an offshore designated area in the offshore general security area
 
@@ -194,7 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51SO](#51SO).     Power to require person to answer questions or produce documents
 
-[51SP](#51SP).     Power to require person to operate facility, vessel or aircraft or machinery or equipment
+[51SP](#51SP).      Power to require person to operate facility, vessel or aircraft or machinery or equipment
 
 [51SQ](#51SQ).     Geographical jurisdiction for offences
 
@@ -202,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51SR](#51SR).     Application of this Division and Division 4
 
-[51SS](#51SS).     Geographical application
+[51SS](#51SS).      Geographical application
 
 [51ST](#51ST).     Special powers of members of the Defence Force
 
@@ -210,7 +210,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision A—Use of reasonable and necessary force**
 
-[51T](#51T).        Use of reasonable and necessary force
+[51T](#51T).       Use of reasonable and necessary force
 
 [51U](#51U).       Persons to be informed of offence if detained
 
@@ -272,9 +272,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [58KA](#58KA).    Single member may conduct Tribunal’s business
 
-[58KB](#58KB).     Procedure where single member is conducting Tribunal’s business
+[58KB](#58KB).    Procedure where single member is conducting Tribunal’s business
 
-[58KC](#58KC).     Review of action etc  of single member
+[58KC](#58KC).    Review of action etc  of single member
 
 [58KD](#58KD).    Determinations giving effect to agreement between the parties
 
@@ -294,7 +294,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [58S](#58S).        Defence Force Advocate
 
-[58T](#58T).        Functions of Advocate
+[58T](#58T).       Functions of Advocate
 
 [58U](#58U).       Tenure and terms of office
 
@@ -344,11 +344,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61CJ](#61CJ).      Other terms and conditions
 
-[61CK](#61CK).     Leave of absence
+[61CK](#61CK).    Leave of absence
 
 [61CL](#61CL).     Resignation
 
-[61CM](#61CM).    Removal from office
+[61CM](#61CM).   Removal from office
 
 [61CN](#61CN).    Member of a Tribunal unavailable to complete proceeding
 
@@ -368,13 +368,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61CU](#61CU).    Hearings
 
-[61CV](#61CV).    Onus of proof
+[61CV](#61CV).     Onus of proof
 
 [61CW](#61CW).    Protection of members and persons giving evidence etc 
 
 [61CX](#61CX).    Fees for persons giving evidence
 
-[61CY](#61CY).    Failure of witness to attend
+[61CY](#61CY).     Failure of witness to attend
 
 [61CZ](#61CZ).     Refusal to be sworn or to answer questions etc 
 
@@ -388,7 +388,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61CZD](#61CZD).  Appeals from AAT
 
-[61CZE](#61CZE).   Operation etc  of decision subject to appeal
+[61CZE](#61CZE).  Operation etc  of decision subject to appeal
 
 **Part V—Cadets**
 
@@ -532,80 +532,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [110S](#110S).      Delegation
 
-**Part VIIIC—Defence Honours and Awards Appeals Tribunal** 
-
-    **Division 1—Preliminary**
-
-[110T](#110T).      Definitions
-
-    **Division 2—Establishment and functions of Defence Honours and Awards Appeals Tribunal**
-
-[110U](#110U).     Establishment of Tribunal
-
-[110UA](#110UA).  Functions of Tribunal
-
-[110UB](#110UB).  Tribunal and Tribunal members not subject to direction
-
-    **Division 3—Review of decisions by the Tribunal**
-
-[110V](#110V).     What decisions are reviewable?
-
-[110VA](#110VA).  Who can apply for review?
-
-[110VB](#110VB).  Review of decisions by the Tribunal
-
-[110VC](#110VC).  Power to dismiss review applications
-
-    **Division 4—Inquiries by the Tribunal**
-
-[110W](#110W).    Minister may direct Tribunal to hold inquiry
-
-    **Division 5—General provisions relating to operation of the Tribunal**
-
-[110X](#110X).     Role of the Chair
-
-[110XA](#110XA).  Constitution of Tribunal for Tribunal proceedings
-
-[110XB](#110XB).  What happens if a Tribunal member stops being available
-
-[110XC](#110XC).  Summoning persons to give evidence or produce documents
-
-[110XD](#110XD).  Protection of confidential or sensitive evidence or submissions etc 
-
-[110XE](#110XE).   Formal requirements relating to decisions etc  of the Tribunal
-
-[110XF](#110XF).   Protection of Tribunal members and other persons
-
-[110XG](#110XG).  Disclosure of interests by Tribunal members
-
-[110XH](#110XH).  Procedural rules
-
-    **Division 6—Tribunal members**
-
-[110Y](#110Y).     Constitution of Tribunal
-
-[110YA](#110YA).  Appointment of Tribunal members
-
-[110YB](#110YB).  Period of appointment
-
-[110YC](#110YC).  Acting appointments
-
-[110YD](#110YD).  Other employment
-
-[110YE](#110YE).   Remuneration
-
-[110YF](#110YF).   Leave
-
-[110YG](#110YG).  Resignation
-
-[110YH](#110YH).  Termination
-
-[110YI](#110YI).    Other terms and conditions
-
-    **Division 7—Miscellaneous**
-
-[110Z](#110Z).      Regulations
-
 **Part IX—Legal procedure**
 
 [111](#111).        Subscription, arms etc  vested in commanding officer
@@ -654,7 +580,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116S](#116S).      Appointment of rangers
 
-[116T](#116T).      Rangers _ex officio_
+[116T](#116T).     Rangers _ex officio_
 
 [116U](#116U).     Identity cards
 
@@ -666,13 +592,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116Y](#116Y).     Assaulting etc  rangers
 
-[116ZA](#116ZA).   Officers and employees of governments and authorities
+[116ZA](#116ZA).  Officers and employees of governments and authorities
 
 [116ZB](#116ZB).   Prosecution of offences
 
 [116ZC](#116ZC).   Concurrent operation of State and Territory laws
 
-[116ZD](#116ZD).   By-laws
+[116ZD](#116ZD).  By-laws
 
 **Part IXC—Salvage claims**
 
@@ -990,7 +916,7 @@ but an officer appointed to act during a vacancy shall not continue so to act fo
 
 ### Division 3—The service of the Army
 
-##### <a id="45"></a>45  Service of the Regular Army
+##### <a id="45"></a>45  Service of the Regular Army
 
                    Members of the Regular Army are bound to render continuous full time military service.
 
@@ -1212,7 +1138,7 @@ but does not include:
 
                     <a name="search-member"></a>**_search members_**, in relation to a search authorisation, has the meaning given by paragraph 51L(2)(d).
 
-                    <a name="self-govern-territori"></a>**_self-governing Territory_** means the Australian Capital Territory, the Northern Territory or Norfolk Island.
+                    <a name="self-govern-territori"></a>**_self-governing Territory_** means the Australian   Capital Territory, the Northern Territory or Norfolk Island.
 
                     <a name="substant-crimin-law"></a>**_substantive criminal law_** means law (including unwritten law):
 
@@ -2618,7 +2544,7 @@ is not admissible in evidence against the person in criminal proceedings other t
 
                      (b)  the person fails to comply with the requirement.
 
-                    Penalty for contravention of this subsection:        30 penalty units.
+                    Penalty for contravention of this subsection:   30 penalty units.
 
 ##### <a id="51SQ"></a>51SQ  Geographical jurisdiction for offences
 
@@ -2788,7 +2714,7 @@ Further restrictions on use of force
 
 ##### <a id="51WA"></a>51WA  Applicable criminal law
 
-             (1)  The substantive criminal law of the Jervis Bay Territory, as in force from time to time, applies in relation to a criminal act of a member of the Defence Force that is done, or purported to be done, under this Part.
+             (1)  The substantive criminal law of the Jervis  Bay Territory, as in force from time to time, applies in relation to a criminal act of a member of the Defence Force that is done, or purported to be done, under this Part.
 
              (2)  The substantive criminal law of the States and the other Territories, as in force from time to time, does not apply in relation to a criminal act of a member of the Defence Force that is done, or purported to be done, under this Part.
 
@@ -2966,7 +2892,7 @@ Note:          The definitions of **_public sector superannuat
 
 ##### <a id="58A"></a>58A  Interpretation
 
-                   In this Division, unless the contrary intention appears:
+                   In this Division, unless the contrary intention appears:
 
                     <a name="cadet"></a>**_cadet_** means an officer, instructor or cadet in the Australian Army Cadets, the Australian Navy Cadets or the Australian Air Force Cadets, and includes a person who has ceased to be such an officer, instructor or cadet, whether by reason of death or otherwise.
 
@@ -3874,7 +3800,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (4)  Subsection 46(1) of the AAT Act applies in relation to such a review as if the words preceding paragraph (a) of that subsection read as follows:
 
-                   “(1)  When a question of law is referred to the Federal Court of Australia in accordance with section 45:”.
+                    “(1)  When a question of law is referred to the Federal Court of Australia in accordance with section 45:”.
 
 ##### <a id="61CZD"></a>61CZD  Appeals from AAT
 
@@ -4046,7 +3972,7 @@ any arms accoutrements or other naval, military or air-force articles belonging 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-       (1AB)  Paragraph (1)(c) does not apply if the person proves that he or she had lawful cause for possessing the thing in question.
+        (1AB)  Paragraph (1)(c) does not apply if the person proves that he or she had lawful cause for possessing the thing in question.
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (1AB). See section 13.4 of the _Criminal Code_.
 
@@ -4546,7 +4472,7 @@ Note 2:       For delegations, see section 120A.
 
                      (b)  the defence member or defence civilian refuses or fails to provide the sample.
 
-                    Maximum penalty: Imprisonment for 6 months.
+                    Maximum penalty:    Imprisonment for 6 months.
 
              (2)  In paragraph (1)(a), strict liability applies to the physical element of circumstance, that the requirement is under section 94.
 
@@ -4562,7 +4488,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the person is not authorised under this Part or the Defence Instructions to do so.
 
-                    Maximum penalty: Imprisonment for 6 months.
+                    Maximum penalty:    Imprisonment for 6 months.
 
              (2)  In paragraph (1)(a), strict liability applies to the physical element of circumstance, that the requirement is under section 94.
 
@@ -4811,578 +4737,6 @@ Note:          The regulations may make provision in relation 
 ##### <a id="110S"></a>110S  Delegation
 
                    The Inspector-General ADF may, by instrument in writing, delegate his or her power under section 110P to an officer holding a rank not lower than the naval rank of captain or the rank of colonel or group captain.
-
-## Part VIIIC—Defence Honours and Awards Appeals Tribunal
-
-### Division 1—Preliminary
-
-##### <a id="110T"></a>110T  Definitions
-
-                   In this Part:
-
-                    <a name="chair"></a>**_Chair_** means the Chair of the Tribunal.
-
-                    <a name="defenc-award"></a>**_defence award_** has the meaning given by the regulations.
-
-                    <a name="defenc-honour"></a>**_defence honour_** has the meaning given by the regulations.
-
-                    <a name="elig-servic"></a>**_eligible service_** means:
-
-                     (a)  service in the Defence Force; or
-
-                     (b)  service under the control, or at the direction, of the Defence Force or a member of the Defence Force.
-
-                    <a name="foreign-award"></a>**_foreign award_** means an honour or award given by a government of a foreign country, or by an international organisation.
-
-                    <a name="inquiri"></a>**_inquiry_** means an inquiry under Division 4.
-
-                    <a name="lawyer"></a>**_lawyer_** means a person who is enrolled as a barrister, a solicitor, a barrister and solicitor, or a legal practitioner, of a federal court or a court of a State or Territory.
-
-                    <a name="procur-rule"></a>**_procedural rules_** means the procedural rules made under section 110XH.
-
-                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by section 110V.
-
-                    <a name="review-review-decision"></a>**_review of a reviewable decision_** means a review under Division 3.
-
-                    <a name="tribun"></a>**_Tribunal_** means the Defence Honours and Awards Appeals Tribunal established by section 110U.
-
-                    <a name="tribun-member"></a>**_Tribunal member_** means a member of the Tribunal, including the Chair.
-
-                    <a name="tribun-proceing"></a>**_Tribunal proceeding_** means:
-
-                     (a)  a review of a reviewable decision; or
-
-                     (b)  an inquiry.
-
-### Division 2—Establishment and functions of Defence Honours and Awards Appeals Tribunal
-
-##### <a id="110U"></a>110U  Establishment of Tribunal
-
-             (1)  The Defence Honours and Awards Appeals Tribunal is established by this section.
-
-             (2)  The Tribunal has the privileges and immunities of the Crown.
-
-##### <a id="110UA"></a>110UA  Functions of Tribunal
-
-                   The functions of the Tribunal are:
-
-                     (a)  to review reviewable decisions in accordance with Division 3; and
-
-                     (b)  to inquire into matters concerning honours or awards for eligible service in accordance with Division 4.
-
-##### <a id="110UB"></a>110UB  Tribunal and Tribunal members not subject to direction
-
-                   Except as provided by this Part (including the procedural rules) or another law of the Commonwealth, neither the Tribunal, nor any Tribunal member, is subject to direction from anyone in relation to the performance or exercise of the Tribunal’s or member’s functions or powers.
-
-### Division 3—Review of decisions by the Tribunal
-
-##### <a id="110V"></a>110V  What decisions are reviewable?
-
-             (1)  A **_reviewable decision_** is a decision (whether made before or after the commencement of this Part) in relation to which the following conditions are satisfied:
-
-                     (a)  the decision is or was a refusal to recommend a person or group of persons for any of the following in relation to eligible service:
-
-                              (i)  a defence honour;
-
-                             (ii)  a defence award;
-
-                            (iii)  a foreign award;
-
-                     (b)  the decision is or was made:
-
-                              (i)  by or on behalf of the Minister, or a former Minister (a **_former Defence Minister_**) whose ministerial responsibilities included defence or matters related to defence; or
-
-                             (ii)  by a person within the Department, or a former Department of State of the Commonwealth that was administered by a former Defence Minister; or
-
-                            (iii)  by a person within the Defence Force, or an arm of the Defence Force;
-
-                     (c)  the decision is or was made in response to an application.
-
-             (2)  However, a decision is not a **_reviewable decision_** if the decision:
-
-                     (a)  was made before 3 September 1939; or
-
-                     (b)  relates to service rendered before 3 September 1939.
-
-##### <a id="110VA"></a>110VA  Who can apply for review?
-
-                   An application for review of a reviewable decision can only be made by the person, or one or more of the persons, who made the application referred to in paragraph 110V(1)(c).
-
-##### <a id="110VB"></a>110VB  Review of decisions by the Tribunal
-
-Decisions relating to defence honours
-
-             (1)  If an application is properly made to the Tribunal for review of a reviewable decision relating to a defence honour, the Tribunal:
-
-                     (a)  must review the decision; and
-
-                     (b)  may make any recommendations to the Minister that the Tribunal considers appropriate.
-
-Note 1:       The Tribunal does not have power to affirm or set aside the decision.
-
-Note 2:       Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
-
-Decisions relating to defence awards and foreign awards
-
-             (2)  If an application is properly made to the Tribunal for review of a reviewable decision relating to a defence award or a foreign award, the Tribunal must review the decision and:
-
-                     (a)  affirm the decision; or
-
-                     (b)  set the decision aside and:
-
-                              (i)  substitute a new decision (being a decision to recommend a person or group of persons for a defence award or a foreign award); or
-
-                             (ii)  refer the matter to a person determined by the Tribunal, for reconsideration in accordance with any directions of the Tribunal.
-
-Note:          Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
-
-             (3)  The Tribunal may also make any recommendations to the Minister that the Tribunal considers appropriate and that arise out of, or relate to, the Tribunal’s review under subsection (2) of a reviewable decision.
-
-             (4)  If, under subsection (2), the Tribunal sets aside a reviewable decision and substitutes a new decision then, unless the Tribunal determines otherwise, the substituted decision:
-
-                     (a)  is taken to be a decision of the person who made the reviewable decision (except for the purpose of any review of the substituted decision, whether by the Tribunal or otherwise); and
-
-                     (b)  has effect, or is taken to have had effect, on and from the date determined by the Tribunal.
-
-             (5)  If, under subsection (2), the Tribunal sets aside a reviewable decision and refers the matter to a person determined by the Tribunal, for reconsideration in accordance with any directions of the Tribunal:
-
-                     (a)  the person must reconsider the matter accordingly; and
-
-                     (b)  if the person’s decision on the reconsideration is a refusal of a kind described in paragraph 110V(1)(a)—the decision is taken to be a reviewable decision made by that person in response to an application made by the person or persons who made the application referred to in subsection (2) of this section.
-
-Tribunal is bound by eligibility criteria that governed making of reviewable decision
-
-             (6)  In reviewing a reviewable decision, the Tribunal is bound by the eligibility criteria that governed the making of the reviewable decision.
-
-             (7)  The regulations may define or otherwise clarify the meaning of **_eligibility criteria_** for the purpose of subsection (6).
-
-##### <a id="110VC"></a>110VC  Power to dismiss review applications
-
-             (1)  Despite section 110VB, the Chair may, in writing, dismiss an application for review of a reviewable decision if the Chair considers that:
-
-                     (a)  there is another process for review, by the Commonwealth, of the decision, and it would be preferable for the decision to first be reviewed by that process; or
-
-                     (b)  the question whether the person, or group of persons, concerned should be recommended for the defence honour, defence award or foreign award concerned has already been adequately reviewed (whether by the Tribunal or otherwise); or
-
-                     (c)  the application is frivolous or vexatious.
-
-             (2)  The Chair’s power under subsection (1) to dismiss an application for review of a reviewable decision may be exercised at any time, whether before or after the Tribunal has started to review the decision.
-
-             (3)  A dismissal under subsection (1) is not a legislative instrument.
-
-### Division 4—Inquiries by the Tribunal
-
-##### <a id="110W"></a>110W  Minister may direct Tribunal to hold inquiry
-
-             (1)  The Minister may, in writing, give the Tribunal a direction to hold an inquiry into a specified matter concerning honours or awards for eligible service.
-
-             (2)  If the Minister gives the Tribunal a direction under subsection (1), the Tribunal:
-
-                     (a)  must hold an inquiry into the specified matter; and
-
-                     (b)  must report to the Minister on the outcomes  of the inquiry.
-
-Note:          Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
-
-             (3)  The report to the Minister may include any recommendations that the Tribunal considers appropriate and that arise out of, or relate to, the inquiry.
-
-             (4)  A direction under subsection (1) is not a legislative instrument.
-
-### Division 5—General provisions relating to operation of the Tribunal
-
-##### <a id="110X"></a>110X  Role of the Chair
-
-             (1)  The Chair is the executive officer of the Tribunal and is responsible for its overall operation and administration.
-
-             (2)  The Chair may, in writing, delegate all or any of his or her functions or powers to another Tribunal member.
-
-             (3)  In performing functions or exercising powers under a delegation, the delegate must comply with any directions of the Chair.
-
-Note:          See also sections 34AA and 34AB of the _Acts Interpretation Act 1901_.
-
-##### <a id="110XA"></a>110XA  Constitution of Tribunal for Tribunal proceedings
-
-How the Tribunal is to be constituted
-
-             (1)  Subject to this section, for a particular Tribunal proceeding, the Tribunal is to be constituted by one or more Tribunal members determined by the Chair.
-
-             (2)  If the Tribunal proceeding is an inquiry, the Tribunal must be constituted by 3 or more Tribunal members.
-
-             (3)  The Chair must also comply with any requirements of the procedural rules relating to the constitution of the Tribunal for Tribunal proceedings.
-
-What happens if the Tribunal is constituted by more than one Tribunal member
-
-             (4)  If the Tribunal is constituted by more than one Tribunal member, the following provisions have effect:
-
-                     (a)  the presiding Tribunal member is:
-
-                              (i)  if the Chair is a member of the Tribunal as so constituted—the Chair; or
-
-                             (ii)  otherwise—the Tribunal member who is directed by the Chair to preside;
-
-                     (b)  a decision of the majority of the Tribunal members who constitute the Tribunal prevails;
-
-                     (c)  if there is no majority, the decision of the presiding Tribunal member prevails.
-
-Formal requirements for determinations and directions
-
-             (5)  A determination or direction by the Chair under this section must be in writing.
-
-             (6)  A determination or direction by the Chair under this section is not a legislative instrument.
-
-##### <a id="110XB"></a>110XB  What happens if a Tribunal member stops being available
-
-When this section applies
-
-             (1)  This section applies if:
-
-                     (a)  a Tribunal member (the **_unavailable member_**) constitutes, or is one of the Tribunal members who constitute, the Tribunal for the purpose of a Tribunal proceeding; and
-
-                     (b)  before the proceeding is completed:
-
-                              (i)  the Tribunal member stops being a Tribunal member for any reason; or
-
-                             (ii)  the Tribunal member is not available for the purpose of the proceeding for any reason; or
-
-                            (iii)  the Tribunal member is prohibited by section 110XG from continuing to take part in the proceeding; or
-
-                            (iv)  the Tribunal member is directed by the Chair not to continue to take part in the proceeding.
-
-Chair to direct course of action
-
-             (2)  The Chair must either:
-
-                     (a)  direct that the Tribunal proceeding be started afresh; or
-
-                     (b)  direct that the Tribunal proceeding be completed.
-
-If Chair directs that proceeding be started afresh
-
-             (3)  If the Chair directs that the Tribunal proceeding be started afresh:
-
-                     (a)  the Chair must, in accordance with section 110XA, determine the Tribunal member or members who are to constitute the Tribunal for that purpose; and
-
-                     (b)  subject to paragraph (c) of this subsection, the Tribunal, as so constituted, must start to deal with the proceeding afresh; and
-
-                     (c)  the Tribunal, as so constituted, may have regard to any record of the proceeding before the Tribunal as previously constituted (including a record of any evidence given or submissions made).
-
-If Chair directs that proceeding be completed
-
-             (4)  If the Chair directs that the Tribunal proceeding be completed:
-
-                     (a)  if the unavailable member constituted the Tribunal—the Chair must direct another Tribunal member or Tribunal members to constitute the Tribunal for the purpose of completing the proceeding; or
-
-                     (b)  if the unavailable member is one of the Tribunal members who constituted the Tribunal—the Chair must:
-
-                              (i)  direct the remaining Tribunal member or Tribunal members to constitute the Tribunal for the purpose of completing the Tribunal proceeding; or
-
-                             (ii)  direct a Tribunal member or Tribunal members to constitute the Tribunal for the purpose of completing the Tribunal proceeding.
-
-             (5)  If subsection (4) applies in relation to a Tribunal proceeding:
-
-                     (a)  if the Tribunal proceeding is an inquiry—the requirement in subsection 110XA(2) that the Tribunal must be constituted by 3 or more Tribunal members does not apply; and
-
-                     (b)  a direction under subparagraph (4)(b)(ii) of this section may be given to any Tribunal member (including the remaining Tribunal member or one of the remaining Tribunal members); and
-
-                     (c)  the Tribunal, as constituted in accordance with a direction under subsection (4) of this section, must complete the Tribunal proceeding; and
-
-                     (d)  for the purpose of completing the Tribunal proceeding, the Tribunal, as so constituted, may have regard to any record of the proceeding before the Tribunal as previously constituted (including a record of any evidence given or submissions made).
-
-Formal requirements for directions
-
-             (6)  A direction by the Chair under this section must be in writing.
-
-             (7)  A direction by the Chair under this section is not a legislative instrument.
-
-##### <a id="110XC"></a>110XC  Summoning persons to give evidence or produce documents
-
-             (1)  The Tribunal may summon a person to attend before the Tribunal to give evidence or produce documents for the purpose of a Tribunal proceeding.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person has been given a summons under subsection (1); and
-
-                     (b)  the person fails to comply with the summons.
-
-                    Penalty:  Imprisonment for 6 months or 30 penalty units, or both.
-
-             (3)  Subsection (2) does not apply if the person has a reasonable excuse.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (4)  Without limiting subsection (3), it is a reasonable excuse for a person to refuse or fail to give evidence or produce a document if giving the evidence, or producing the document, would tend to incriminate the person.
-
-             (5)  A person summoned under subsection (1) is entitled to be paid the same fees, and allowances for expenses, as apply under section 67 of the _Administrative Appeals Tribunal Act 1975_ in relation to persons summoned under that Act. The fees and allowances are payable by the Commonwealth.
-
-##### <a id="110XD"></a>110XD  Protection of confidential or sensitive evidence or submissions etc.
-
-             (1)  The Tribunal may make an order prohibiting or restricting the publication of any of the following if the Tribunal is satisfied that it is desirable to do so, whether for reasons of confidentiality or sensitivity:
-
-                     (a)  evidence given, documents produced or submissions made to the Tribunal in relation to a Tribunal proceeding;
-
-                     (b)  the names and addresses of persons giving evidence, producing documents, or making submissions to the Tribunal in relation to a Tribunal proceeding;
-
-                     (c)  the whole or any part of any decision or report made or given by the Tribunal, or the Tribunal’s reasons for any such decision or report.
-
-Note:          Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the person’s conduct contravenes an order made under subsection (1).
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
-
-##### <a id="110XE"></a>110XE  Formal requirements relating to decisions etc. of the Tribunal
-
-Decisions etc. to be in writing
-
-             (1)  Decisions, orders, determinations, reports and recommendations of the Tribunal must be in writing.
-
-Review decisions
-
-             (2)  The Tribunal’s decision on the review of a reviewable decision must include a statement of the Tribunal’s reasons for its decision.
-
-             (3)  Subject to any orders under section 110XD:
-
-                     (a)  the Tribunal must cause a copy of its decision on the review of a reviewable decision to be given to the person or persons who applied for the review; and
-
-                     (b)  the Tribunal may also give a copy of its decision on the review of a reviewable decision to any other person that the Tribunal considers appropriate.
-
-Inquiry reports
-
-             (4)  Subject to any orders under section 110XD, the Tribunal must cause a copy of its report on an inquiry to be published on the Tribunal’s website or by another means that the Tribunal considers appropriate.
-
-##### <a id="110XF"></a>110XF  Protection of Tribunal members and other persons
-
-             (1)  A Tribunal member has, in performing his or her functions or exercising his or her powers as a Tribunal member, the same protection and immunity as a Justice of the High Court.
-
-             (2)  A person representing another person before the Tribunal has the same protection and immunity as a barrister has in appearing for a party in proceedings in the High Court.
-
-             (3)  A person summoned to attend, or appearing, before the Tribunal to give evidence or make submissions has the same protection, and is (in addition to the penalties provided by this Part) subject to the same liabilities, as a witness in proceedings in the High Court.
-
-##### <a id="110XG"></a>110XG  Disclosure of interests by Tribunal members
-
-When this section applies
-
-             (1)  This section applies if a Tribunal member who constitutes, or is one of the Tribunal members who constitute, the Tribunal for the purpose of a Tribunal proceeding has or acquires any interest (the **_potential conflict_**) that conflicts or could conflict with the proper performance of the member’s functions in relation to the proceeding.
-
-Note:          Failure to comply with the requirements of this section is a ground for termination: see section 110YH.
-
-If the Tribunal member is the Chair
-
-             (2)  If the Tribunal member is the Chair:
-
-                     (a)  the Chair must disclose the potential conflict to the Minister, and to all persons who appear or have appeared before the Tribunal in the Tribunal proceeding; and
-
-                     (b)  the Chair must not continue to take part in the proceeding unless the Minister consents in writing.
-
-If the Tribunal member is not the Chair
-
-             (3)  If the Tribunal member is not the Chair:
-
-                     (a)  the Tribunal member must disclose the potential conflict to the Chair, and to all persons who appear or have appeared before the Tribunal in the Tribunal proceeding; and
-
-                     (b)  the Tribunal member must not continue to take part in the proceeding unless the Chair consents in writing.
-
-Consent is not a legislative instrument
-
-             (4)  A consent by the Minister or the Chair under subsection (2) or (3) is not a legislative instrument.
-
-##### <a id="110XH"></a>110XH  Procedural rules
-
-             (1)  After consulting the other Tribunal members, the Chair may, by legislative instrument, make procedural rules (not inconsistent with this Part) in relation to the practice and procedure to be followed by or in relation to the Tribunal.
-
-             (2)  Without limiting subsection (1), the procedural rules may provide for the following:
-
-                     (a)  the constitution of the Tribunal for Tribunal proceedings;
-
-                     (b)  how the work of the Tribunal is to be allocated between the Tribunal members;
-
-                     (c)  the nature or form of Tribunal proceedings (for example, whether proceedings are to take the form of a hearing, and whether a hearing is to be in public or private);
-
-                     (d)  the circumstances in which a person may be represented by a lawyer or other person in a Tribunal proceeding;
-
-                     (e)  how applications are to be made to the Tribunal;
-
-                      (f)  requiring lodgment with the Tribunal of material relating to the making of reviewable decisions that are the subject of applications to the Tribunal;
-
-                     (g)  how evidence is to be given, or submissions are to be made, to the Tribunal;
-
-                     (h)  how people are to be summoned to attend before the Tribunal;
-
-                      (i)  any other matters that the Chair considers necessary or convenient.
-
-             (3)  The procedural rules must be complied with in relation to Tribunal proceedings.
-
-### Division 6—Tribunal members
-
-##### <a id="110Y"></a>110Y  Constitution of Tribunal
-
-                   The Tribunal consists of the following Tribunal members:
-
-                     (a)  the Chair of the Tribunal;
-
-                     (b)  a minimum of 6, and maximum of 10, other Tribunal members.
-
-##### <a id="110YA"></a>110YA  Appointment of Tribunal members
-
-             (1)  The Tribunal members are to be appointed by the Minister, in writing, on a part-time basis.
-
-             (2)  The instrument of appointment of a Tribunal member must specify whether the member is appointed as the Chair of the Tribunal, or as one of the other Tribunal members.
-
-             (3)  In making appointments, the Minister must have regard to the desirability of:
-
-                     (a)  reflecting a diversity of expertise, experience and gender among the Tribunal members; and
-
-                     (b)  the Tribunal members being independent of those who usually make reviewable decisions.
-
-             (4)  A person is not eligible to be appointed as the Chair if:
-
-                     (a)  the person is, or has at any time been, a member of the Defence Force rendering continuous full-time service; or
-
-                     (b)  in the Minister’s opinion, the person does not have an appropriate level of security clearance.
-
-             (5)  A person is not eligible to be appointed as one of the other Tribunal members if:
-
-                     (a)  the person is, or has at any time within the previous 12 months been, a member of the Defence Force rendering continuous full-time service; or
-
-                     (b)  in the Minister’s opinion, the person does not have an appropriate level of security clearance.
-
-##### <a id="110YB"></a>110YB  Period of appointment
-
-             (1)  A Tribunal member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
-
-             (2)  Subject to subsections (3) and (4), a Tribunal member is eligible for reappointment as a Tribunal member.
-
-             (3)  A person must not hold office as Chair for more than 6 consecutive years.
-
-             (4)  A person must not hold office as one of the other Tribunal members for more than 6 consecutive years.
-
-##### <a id="110YC"></a>110YC  Acting appointments
-
-Appointment of acting Chair
-
-             (1)  The Minister may, in writing, appoint a Tribunal member to act as the Chair:
-
-                     (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
-
-                     (b)  during any period, or during all periods, when the Chair:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the office.
-
-Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
-
-Appointment of other acting Tribunal members
-
-             (2)  The Chair may, in writing, appoint a person to act as a Tribunal member (other than the Chair):
-
-                     (a)  during a vacancy in an office of Tribunal member (other than the Chair), whether or not an appointment has previously been made to the office; or
-
-                     (b)  during any period, or during all periods, when a Tribunal member (other than the Chair):
-
-                              (i)  is acting as the Chair; or
-
-                             (ii)  is absent from duty or from Australia; or
-
-                            (iii)  is, for any reason, unable to perform the duties of the office.
-
-Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
-
-             (3)  In appointing a person to act as a Tribunal member, the Chair must have regard to the desirability of:
-
-                     (a)  reflecting a diversity of expertise, experience and gender among the Tribunal members; and
-
-                     (b)  the Tribunal members being independent of those who usually make reviewable decisions.
-
-Protection from invalidity
-
-             (4)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there was a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Determining whether there is a vacancy in an office of Tribunal member
-
-             (5)  For the purpose of:
-
-                     (a)  a reference in this section to a vacancy in an office of Tribunal member; or
-
-                     (b)  a reference in the _Acts Interpretation Act 1901_ to a vacancy in the membership of a body;
-
-there are taken to be 10 offices of Tribunal members in addition to the Chair.
-
-##### <a id="110YD"></a>110YD  Other employment
-
-                   A Tribunal member must not engage in any paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of the member’s functions.
-
-##### <a id="110YE"></a>110YE  Remuneration
-
-             (1)  A Tribunal member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Tribunal member is to be paid the remuneration that is prescribed by the regulations.
-
-             (2)  A Tribunal member is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="110YF"></a>110YF  Leave
-
-             (1)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
-
-             (2)  The Chair may grant leave of absence to any other Tribunal member on the terms and conditions that the Chair determines.
-
-##### <a id="110YG"></a>110YG  Resignation
-
-             (1)  A Tribunal member may resign his or her appointment by giving the Minister a written resignation.
-
-             (2)  The resignation takes effect on the day it is received by the Minister or, if a later day is specified in the resignation, on that later day.
-
-##### <a id="110YH"></a>110YH  Termination
-
-             (1)  The Minister may terminate the appointment of a Tribunal member for misbehaviour or physical or mental incapacity.
-
-             (2)  The Minister may terminate the appointment of a Tribunal member if:
-
-                     (a)  the Tribunal member:
-
-                              (i)  becomes bankrupt; or
-
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the Tribunal member fails, without reasonable excuse, to comply with section 110XG (disclosure of interests by Tribunal members); or
-
-                     (c)  the Tribunal member engages in paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of the member’s functions.
-
-             (3)  If the Chair ceases to be eligible for appointment (see subsection 110YA(4)), the Minister must terminate the appointment of the Chair.
-
-             (4)  If a Tribunal member (other than the Chair) ceases to be eligible for appointment (see subsection 110YA(5)), the Minister must terminate the appointment of the Tribunal member.
-
-##### <a id="110YI"></a>110YI  Other terms and conditions
-
-                   A Tribunal member holds office on the terms and conditions (if any) in relation to matters not covered by this Part that are determined by the Minister.
-
-### Division 7—Miscellaneous
-
-##### <a id="110Z"></a>110Z  Regulations
-
-                   Without limiting the generality of section 124, the regulations may make provision for or in relation to any of the following:
-
-                     (a)  any fees that are to be payable in relation to applications to the Tribunal;
-
-                     (b)  prohibiting the disclosure of information obtained by the Tribunal, a member of the Tribunal or a person assisting the Tribunal;
-
-                     (c)  proof of decisions or orders of the Tribunal.
 
 ## Part IX—Legal procedure
 
@@ -5778,7 +5132,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (y)  providing for the issue of licences, permits and authorities, the conditions subject to which they are issued and the charging of fees by the Minister in respect of such licences, permits and authorities;
 
-                     (z)  the imposition of charges for:
+                      (z)  the imposition of charges for:
 
                               (i)  the parking or stopping of vehicles;
 
@@ -5790,7 +5144,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     (za)  providing for penalties, not exceeding a fine of $500, for offences against the by-laws; and
 
-                   (zb)  providing for any matter incidental to or connected with any of the foregoing.
+                    (zb)  providing for any matter incidental to or connected with any of the foregoing.
 
 ## Part IXC—Salvage claims
 
@@ -5946,7 +5300,7 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
           (3D)  To avoid doubt, the powers of delegation under subsections (3A) and (3B) extend only to the powers of the Secretary and the Chief of the Defence Force to issue Defence Instructions (General), and not to any other powers that the Secretary and the Chief of the Defence Force have under that section.
 
-          (3E)  The Chief of the Defence Force may, by instrument in writing, delegate his or her power under section 93A to:
+           (3E)  The Chief of the Defence Force may, by instrument in writing, delegate his or her power under section 93A to:
 
                      (a)  an officer of the Army who holds the rank of Brigadier or a higher rank; or
 
@@ -5958,7 +5312,7 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
        (4AA)  The Chief of Army may, in writing, delegate to an officer of the Army who holds a rank not below the rank of Brigadier his or her powers under subsection 9A(3) to issue Defence Instructions (Army) and section 93A.
 
-    (4AAA)  The Chief of the Army may, in writing, delegate all or any of his or her powers under sections 100, 101, 103 and 104 to:
+     (4AAA)  The Chief of the Army may, in writing, delegate all or any of his or her powers under sections 100, 101, 103 and 104 to:
 
                      (a)  an officer of the Army who holds the rank of Lieutenant- Colonel or a higher rank; or
 
@@ -5966,9 +5320,9 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
           (4A)  The Chief of Navy may, by instrument in writing, delegate to an officer of the Navy his powers under sections 50D and 123A.
 
-       (4AB)  The Chief of Navy may, by instrument in writing, delegate to an officer of the Navy who holds a rank not below the rank of Commodore his or her powers under subsection 9A(3) to issue Defence Instructions (Navy) and section 93A.
+        (4AB)  The Chief of Navy may, by instrument in writing, delegate to an officer of the Navy who holds a rank not below the rank of Commodore his or her powers under subsection 9A(3) to issue Defence Instructions (Navy) and section 93A.
 
-       (4AC)  The Chief of the Navy may, in writing, delegate all or any of his or her powers under sections 100, 101, 103 and 104 to:
+        (4AC)  The Chief of the Navy may, in writing, delegate all or any of his or her powers under sections 100, 101, 103 and 104 to:
 
                      (a)  an officer of the Navy who holds the rank of Commander or a higher rank; or
 
@@ -6099,7 +5453,7 @@ the paying officer shall, subject to subsection (13), in relation to each pay-
 
                    The production of an appointment, or order in writing purporting to be granted or made according to the provisions of this Act shall be _prima facie_ evidence of the appointment, or order, without proving the signature or seal thereto, or the authority of the person granting or making the appointment, or order.
 
-##### <a id="122"></a>122  Appointments etc. not invalid because of defect etc. in connection with appointment
+##### <a id="122"></a>122  Appointments etc. not invalid because of defect etc. in connection with appointment
 
                    The appointment of an officer of the Australian Navy, the Australian Army or the Australian Air Force, the enlistment of a sailor, soldier or airman, and any extension of such an appointment or enlistment is not invalid because of a defect or irregularity in connection with the appointment, enlistment or extension, as the case may be.
 
@@ -6317,7 +5671,7 @@ Note:          Payments under this section must be made from m
 
                     (aa)  the transfer of members between different arms, or parts of arms, of the Defence Force; and
 
-                   (ab)  the training of members and;
+                    (ab)  the training of members and;
 
                     (ac)  conditions of service of members; and
 
@@ -6345,23 +5699,23 @@ Note:          Payments under this section must be made from m
 
                      (k)  The empowering of clubs, associations or national bodies referred to in paragraph (j) to make, alter and repeal rules, not inconsistent with this Act, for the conduct of their affairs and for the conduct of any rifle competitions promoted by them; and
 
-                   (ka)  The establishment, management, operation and control of canteens on rifle ranges or on the premises of rifle clubs, including the possession, supply, sale, purchase and consumption of intoxicating liquor at any such range or club; and
+                    (ka)  The establishment, management, operation and control of canteens on rifle ranges or on the premises of rifle clubs, including the possession, supply, sale, purchase and consumption of intoxicating liquor at any such range or club; and
 
                     (m)  The furnishing of means of conveyance and transport in time of war; and
 
                      (n)  The regulation of the quartering or billeting of members of the Defence Force in time of war; and
 
-                   (na)  The regulation, control or prohibition of the construction or use of buildings, erections or installations, the use of apparatus, machines or vehicles, and the removal in whole or in part of buildings, erections, installations, apparatus, trees or other natural obstacles, within prescribed areas, being areas in which the regulation, control, prohibition or removal is necessary for the defence of Australia; and
+                    (na)  The regulation, control or prohibition of the construction or use of buildings, erections or installations, the use of apparatus, machines or vehicles, and the removal in whole or in part of buildings, erections, installations, apparatus, trees or other natural obstacles, within prescribed areas, being areas in which the regulation, control, prohibition or removal is necessary for the defence of Australia; and
 
-                   (nb)  The declaration as a prohibited area of a place (including a place owned by, or held in right of, the Commonwealth or a State) used or intended to be used for a purpose of defence, the prohibition of a person entering, being in or remaining in the prohibited area without permission and the removal of any such person from the area; and
+                    (nb)  The declaration as a prohibited area of a place (including a place owned by, or held in right of, the Commonwealth or a State) used or intended to be used for a purpose of defence, the prohibition of a person entering, being in or remaining in the prohibited area without permission and the removal of any such person from the area; and
 
-                   (nc)  The prohibition of the use, except as prescribed, of a word, group of letters, object or device which is descriptive or indicative of:
+                    (nc)  The prohibition of the use, except as prescribed, of a word, group of letters, object or device which is descriptive or indicative of:
 
                               (i)  a part of the Naval Forces, Military Forces or Air Forces of a part of the King’s dominions; or
 
                              (ii)  a service or body of persons associated with the defence of Australia; and
 
-                   (nd)  The establishment, maintenance and operation of any factory or undertaking under section 63; and
+                    (nd)  The establishment, maintenance and operation of any factory or undertaking under section 63; and
 
                      (o)  The establishment, management, operation and control of canteens and the establishment, management, operation and control of messes including, but without limiting the generality of the foregoing, the subjection of:
 
@@ -6371,31 +5725,31 @@ Note:          Payments under this section must be made from m
 
                             (iii)  a specified organization established under the regulations that establishes, manages, operates or controls canteens, to taxation (other than income tax) under a law of the Commonwealth or of a State or Territory; and
 
-                   (oa)  The management and disposal of the funds and property of units of the Defence Force; and
+                    (oa)  The management and disposal of the funds and property of units of the Defence Force; and
 
                      (p)  The regulation of any naval, military or air-force operation or practice, including any naval, military or air-force operation or practice in or adjacent to Australia of a country other than Australia; and
 
-                   (pa)  The regulation or prohibition of the emission of smoke from factories or other buildings within the prescribed distance from any gun, fort, searchlight, signal station, observation post, or other work of defence during, or immediately before any naval, military or air force practice; and
+                    (pa)  The regulation or prohibition of the emission of smoke from factories or other buildings within the prescribed distance from any gun, fort, searchlight, signal station, observation post, or other work of defence during, or immediately before any naval, military or air force practice; and
 
                      (q)  The preservation of the public safety in or at any naval, military or air-force operation or practice; and
 
-                   (qa)  The entry upon and survey of lands for defence purposes; and
+                    (qa)  The entry upon and survey of lands for defence purposes; and
 
                   (qaa)  The declaration and use of any area (by whomever owned or held) as a practice area for any naval, military or air force operation or practice and the regulation or prohibition of any entry upon or use of a practice area, including the prohibition of a person entering, being in or remaining in a practice area and the removal of any such person from the area; and
 
-                   (qb)  The post mortem examination and disposal of the bodies of members of the Defence Force who die while on service; and
+                    (qb)  The post mortem examination and disposal of the bodies of members of the Defence Force who die while on service; and
 
-                 (qba)  The provision and maintenance of, and the execution of work in connexion with, the graves of persons who have died:
+                  (qba)  The provision and maintenance of, and the execution of work in connexion with, the graves of persons who have died:
 
                               (i)  while on service as members of the Defence Force; or
 
                              (ii)  as a result of service as members of the Defence Force; and
 
-                   (qc)  Prisoners of war; and
+                    (qc)  Prisoners of war; and
 
-                   (qd)  The command, control and administration of bodies of 2 or more arms of the Defence Force acting together or of a part of the Defence Force consisting of members of 2 or more arms of the Defence Force; and
+                    (qd)  The command, control and administration of bodies of 2 or more arms of the Defence Force acting together or of a part of the Defence Force consisting of members of 2 or more arms of the Defence Force; and
 
-                   (qe)  The administration of oaths to, the taking of affidavits of, and the attestation of the execution of documents by, members of the Defence Force while on service outside Australia; and
+                    (qe)  The administration of oaths to, the taking of affidavits of, and the attestation of the execution of documents by, members of the Defence Force while on service outside Australia; and
 
                     (qf)  The execution and revocation of powers of attorney by persons under the age of 21 years who are members of the Defence Force and the validity and effect of powers of attorney executed by such persons; and
 
@@ -6421,7 +5775,7 @@ on the basis that, after a specified time or on a specified event occurring, the
 
 Example:    The regulations might allow for a soldier to enlist for a total of 8 years, with the first 4 years to be served in the Regular Army and the last 4 years in the Army Reserve, or vice versa, or any other combination of service.
 
-       (1AB)  Subsection (1AA) does not limit the scope of subsection (1).
+        (1AB)  Subsection (1AA) does not limit the scope of subsection (1).
 
 (1B)  In paragraphs (1)(b), (c), (e) and (i), **_cadet_**_, member_ and **_member of the family_** have the same respective meanings as in Part IIIA.
 
@@ -8726,7 +8080,7 @@ Schedule 7 (item 38): <i>(za)</i></div>
     <div>5 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 5 Jan 2011 
+    <div>Schedule 1: \[ <i>see</i>Note 4 and Table A] 
 Schedule 2: Royal Assent 
 Schedule 3: 2 Aug 2010</div>
   </td>
@@ -8737,7 +8091,7 @@ Schedule 3: 2 Aug 2010</div>
 
 _(a)_     By section 2 of the _Defence Act 1915_(No. 3, 1915), section 7 of the _Defence Act 1914_(No. 36, 1914) is deemed to have commenced on 1 August 1914.
 
-_(b)_     The _Defence Act 1903_ was amended by sections 3–61 only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows:
+_(b)_    The _Defence Act 1903_ was amended by sections 3–61 only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows:
 
                    2.   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
@@ -9173,7 +8527,7 @@ _(za)_   Subsection 2(1) (item 9) of the _Defence Legislation Amendment Ac
   </td>
 </tr></table>
 
-_(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
+_(zb)_  Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -11889,7 +11243,7 @@ _(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div>Renumbered s. 51B.........</div>
+    <div>Renumbered s. 51B..........</div>
   </td>
   <td>
     <div>No. 119, 2000</div>
@@ -13149,7 +12503,7 @@ Div. 4 of Part IIIAAA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part IV</div>
+    <div>Heading to Div. 1 of Part IV.</div>
   </td>
   <td>
     <div>ad. No. 91, 1992</div>
@@ -15082,166 +14436,6 @@ Part VIIIA</div>
   </td>
   <td>
     <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIIIC</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIIIC</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110T</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110U</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110UA, 110UB</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110V</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110VA–110VC</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110W</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110X</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110XA–110XH</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110Y</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110YA–110YI</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110Z</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
   </td>
 </tr>
 <tr>
@@ -17396,6 +16590,592 @@ Subsection 4(1), definition of **_Time of War_**—For Proclamations relating to
 
 Section 63 and subsection 124(1)—Subsection 45(3) of the _Naval Defence Act 1910_ provides that the power to make regulations contained in section 45 of that Act is in addition to any power to make regulations contained in the _Defence Act 1903_.
 
+### Note 4
+
+_Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
+
+The following amendment commences on 5 January 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  After Part VIIIB
+
+Insert:
+
+## Part VIIIC—Defence Honours and Awards Appeals Tribunal
+
+### Division 1—Preliminary
+
+##### <a id="110T"></a>110T  Definitions
+
+                   In this Part:
+
+                    <a name="chair"></a>**_Chair_** means the Chair of the Tribunal.
+
+                    <a name="defenc-award"></a>**_defence award_** has the meaning given by the regulations.
+
+                    <a name="defenc-honour"></a>**_defence honour_** has the meaning given by the regulations.
+
+                    <a name="elig-servic"></a>**_eligible service_** means:
+
+                     (a)  service in the Defence Force; or
+
+                     (b)  service under the control, or at the direction, of the Defence Force or a member of the Defence Force.
+
+                    <a name="foreign-award"></a>**_foreign award_** means an honour or award given by a government of a foreign country, or by an international organisation.
+
+                    <a name="inquiri"></a>**_inquiry_** means an inquiry under Division 4.
+
+                    <a name="lawyer"></a>**_lawyer_** means a person who is enrolled as a barrister, a solicitor, a barrister and solicitor, or a legal practitioner, of a federal court or a court of a State or Territory.
+
+                    <a name="procur-rule"></a>**_procedural rules_** means the procedural rules made under section 110XH.
+
+                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by section 110V.
+
+                    <a name="review-review-decision"></a>**_review of a reviewable decision_** means a review under Division 3.
+
+                    <a name="tribun"></a>**_Tribunal_** means the Defence Honours and Awards Appeals Tribunal established by section 110U.
+
+                    <a name="tribun-member"></a>**_Tribunal member_** means a member of the Tribunal, including the Chair.
+
+                    <a name="tribun-proceing"></a>**_Tribunal proceeding_** means:
+
+                     (a)  a review of a reviewable decision; or
+
+                     (b)  an inquiry.
+
+### Division 2—Establishment and functions of Defence Honours and Awards Appeals Tribunal
+
+##### <a id="110U"></a>110U  Establishment of Tribunal
+
+             (1)  The Defence Honours and Awards Appeals Tribunal is established by this section.
+
+             (2)  The Tribunal has the privileges and immunities of the Crown.
+
+##### <a id="110UA"></a>110UA  Functions of Tribunal
+
+                   The functions of the Tribunal are:
+
+                     (a)  to review reviewable decisions in accordance with Division 3; and
+
+                     (b)  to inquire into matters concerning honours or awards for eligible service in accordance with Division 4.
+
+##### <a id="110UB"></a>110UB  Tribunal and Tribunal members not subject to direction
+
+                   Except as provided by this Part (including the procedural rules) or another law of the Commonwealth, neither the Tribunal, nor any Tribunal member, is subject to direction from anyone in relation to the performance or exercise of the Tribunal’s or member’s functions or powers.
+
+### Division 3—Review of decisions by the Tribunal
+
+##### <a id="110V"></a>110V  What decisions are reviewable?
+
+             (1)  A **_reviewable decision_** is a decision (whether made before or after the commencement of this Part) in relation to which the following conditions are satisfied:
+
+                     (a)  the decision is or was a refusal to recommend a person or group of persons for any of the following in relation to eligible service:
+
+                              (i)  a defence honour;
+
+                             (ii)  a defence award;
+
+                            (iii)  a foreign award;
+
+                     (b)  the decision is or was made:
+
+                              (i)  by or on behalf of the Minister, or a former Minister (a **_former Defence Minister_**) whose ministerial responsibilities included defence or matters related to defence; or
+
+                             (ii)  by a person within the Department, or a former Department of State of the Commonwealth that was administered by a former Defence Minister; or
+
+                            (iii)  by a person within the Defence Force, or an arm of the Defence Force;
+
+                     (c)  the decision is or was made in response to an application.
+
+             (2)  However, a decision is not a **_reviewable decision_** if the decision:
+
+                     (a)  was made before 3 September 1939; or
+
+                     (b)  relates to service rendered before 3 September 1939.
+
+##### <a id="110VA"></a>110VA  Who can apply for review?
+
+                   An application for review of a reviewable decision can only be made by the person, or one or more of the persons, who made the application referred to in paragraph 110V(1)(c).
+
+##### <a id="110VB"></a>110VB  Review of decisions by the Tribunal
+
+Decisions relating to defence honours
+
+             (1)  If an application is properly made to the Tribunal for review of a reviewable decision relating to a defence honour, the Tribunal:
+
+                     (a)  must review the decision; and
+
+                     (b)  may make any recommendations to the Minister that the Tribunal considers appropriate.
+
+Note 1:       The Tribunal does not have power to affirm or set aside the decision.
+
+Note 2:       Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
+
+Decisions relating to defence awards and foreign awards
+
+             (2)  If an application is properly made to the Tribunal for review of a reviewable decision relating to a defence award or a foreign award, the Tribunal must review the decision and:
+
+                     (a)  affirm the decision; or
+
+                     (b)  set the decision aside and:
+
+                              (i)  substitute a new decision (being a decision to recommend a person or group of persons for a defence award or a foreign award); or
+
+                             (ii)  refer the matter to a person determined by the Tribunal, for reconsideration in accordance with any directions of the Tribunal.
+
+Note:          Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
+
+             (3)  The Tribunal may also make any recommendations to the Minister that the Tribunal considers appropriate and that arise out of, or relate to, the Tribunal’s review under subsection (2) of a reviewable decision.
+
+             (4)  If, under subsection (2), the Tribunal sets aside a reviewable decision and substitutes a new decision then, unless the Tribunal determines otherwise, the substituted decision:
+
+                     (a)  is taken to be a decision of the person who made the reviewable decision (except for the purpose of any review of the substituted decision, whether by the Tribunal or otherwise); and
+
+                     (b)  has effect, or is taken to have had effect, on and from the date determined by the Tribunal.
+
+             (5)  If, under subsection (2), the Tribunal sets aside a reviewable decision and refers the matter to a person determined by the Tribunal, for reconsideration in accordance with any directions of the Tribunal:
+
+                     (a)  the person must reconsider the matter accordingly; and
+
+                     (b)  if the person’s decision on the reconsideration is a refusal of a kind described in paragraph 110V(1)(a)—the decision is taken to be a reviewable decision made by that person in response to an application made by the person or persons who made the application referred to in subsection (2) of this section.
+
+Tribunal is bound by eligibility criteria that governed making of reviewable decision
+
+             (6)  In reviewing a reviewable decision, the Tribunal is bound by the eligibility criteria that governed the making of the reviewable decision.
+
+             (7)  The regulations may define or otherwise clarify the meaning of **_eligibility criteria_** for the purpose of subsection (6).
+
+##### <a id="110VC"></a>110VC  Power to dismiss review applications
+
+             (1)  Despite section 110VB, the Chair may, in writing, dismiss an application for review of a reviewable decision if the Chair considers that:
+
+                     (a)  there is another process for review, by the Commonwealth, of the decision, and it would be preferable for the decision to first be reviewed by that process; or
+
+                     (b)  the question whether the person, or group of persons, concerned should be recommended for the defence honour, defence award or foreign award concerned has already been adequately reviewed (whether by the Tribunal or otherwise); or
+
+                     (c)  the application is frivolous or vexatious.
+
+             (2)  The Chair’s power under subsection (1) to dismiss an application for review of a reviewable decision may be exercised at any time, whether before or after the Tribunal has started to review the decision.
+
+             (3)  A dismissal under subsection (1) is not a legislative instrument.
+
+### Division 4—Inquiries by the Tribunal
+
+##### <a id="110W"></a>110W  Minister may direct Tribunal to hold inquiry
+
+             (1)  The Minister may, in writing, give the Tribunal a direction to hold an inquiry into a specified matter concerning honours or awards for eligible service.
+
+             (2)  If the Minister gives the Tribunal a direction under subsection (1), the Tribunal:
+
+                     (a)  must hold an inquiry into the specified matter; and
+
+                     (b)  must report to the Minister on the outcomes  of the inquiry.
+
+Note:          Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
+
+             (3)  The report to the Minister may include any recommendations that the Tribunal considers appropriate and that arise out of, or relate to, the inquiry.
+
+             (4)  A direction under subsection (1) is not a legislative instrument.
+
+### Division 5—General provisions relating to operation of the Tribunal
+
+##### <a id="110X"></a>110X  Role of the Chair
+
+             (1)  The Chair is the executive officer of the Tribunal and is responsible for its overall operation and administration.
+
+             (2)  The Chair may, in writing, delegate all or any of his or her functions or powers to another Tribunal member.
+
+             (3)  In performing functions or exercising powers under a delegation, the delegate must comply with any directions of the Chair.
+
+Note:          See also sections 34AA and 34AB of the _Acts Interpretation Act 1901_.
+
+##### <a id="110XA"></a>110XA  Constitution of Tribunal for Tribunal proceedings
+
+How the Tribunal is to be constituted
+
+             (1)  Subject to this section, for a particular Tribunal proceeding, the Tribunal is to be constituted by one or more Tribunal members determined by the Chair.
+
+             (2)  If the Tribunal proceeding is an inquiry, the Tribunal must be constituted by 3 or more Tribunal members.
+
+             (3)  The Chair must also comply with any requirements of the procedural rules relating to the constitution of the Tribunal for Tribunal proceedings.
+
+What happens if the Tribunal is constituted by more than one Tribunal member
+
+             (4)  If the Tribunal is constituted by more than one Tribunal member, the following provisions have effect:
+
+                     (a)  the presiding Tribunal member is:
+
+                              (i)  if the Chair is a member of the Tribunal as so constituted—the Chair; or
+
+                             (ii)  otherwise—the Tribunal member who is directed by the Chair to preside;
+
+                     (b)  a decision of the majority of the Tribunal members who constitute the Tribunal prevails;
+
+                     (c)  if there is no majority, the decision of the presiding Tribunal member prevails.
+
+Formal requirements for determinations and directions
+
+             (5)  A determination or direction by the Chair under this section must be in writing.
+
+             (6)  A determination or direction by the Chair under this section is not a legislative instrument.
+
+##### <a id="110XB"></a>110XB  What happens if a Tribunal member stops being available
+
+When this section applies
+
+             (1)  This section applies if:
+
+                     (a)  a Tribunal member (the **_unavailable member_**) constitutes, or is one of the Tribunal members who constitute, the Tribunal for the purpose of a Tribunal proceeding; and
+
+                     (b)  before the proceeding is completed:
+
+                              (i)  the Tribunal member stops being a Tribunal member for any reason; or
+
+                             (ii)  the Tribunal member is not available for the purpose of the proceeding for any reason; or
+
+                            (iii)  the Tribunal member is prohibited by section 110XG from continuing to take part in the proceeding; or
+
+                            (iv)  the Tribunal member is directed by the Chair not to continue to take part in the proceeding.
+
+Chair to direct course of action
+
+             (2)  The Chair must either:
+
+                     (a)  direct that the Tribunal proceeding be started afresh; or
+
+                     (b)  direct that the Tribunal proceeding be completed.
+
+If Chair directs that proceeding be started afresh
+
+             (3)  If the Chair directs that the Tribunal proceeding be started afresh:
+
+                     (a)  the Chair must, in accordance with section 110XA, determine the Tribunal member or members who are to constitute the Tribunal for that purpose; and
+
+                     (b)  subject to paragraph (c) of this subsection, the Tribunal, as so constituted, must start to deal with the proceeding afresh; and
+
+                     (c)  the Tribunal, as so constituted, may have regard to any record of the proceeding before the Tribunal as previously constituted (including a record of any evidence given or submissions made).
+
+If Chair directs that proceeding be completed
+
+             (4)  If the Chair directs that the Tribunal proceeding be completed:
+
+                     (a)  if the unavailable member constituted the Tribunal—the Chair must direct another Tribunal member or Tribunal members to constitute the Tribunal for the purpose of completing the proceeding; or
+
+                     (b)  if the unavailable member is one of the Tribunal members who constituted the Tribunal—the Chair must:
+
+                              (i)  direct the remaining Tribunal member or Tribunal members to constitute the Tribunal for the purpose of completing the Tribunal proceeding; or
+
+                             (ii)  direct a Tribunal member or Tribunal members to constitute the Tribunal for the purpose of completing the Tribunal proceeding.
+
+             (5)  If subsection (4) applies in relation to a Tribunal proceeding:
+
+                     (a)  if the Tribunal proceeding is an inquiry—the requirement in subsection 110XA(2) that the Tribunal must be constituted by 3 or more Tribunal members does not apply; and
+
+                     (b)  a direction under subparagraph (4)(b)(ii) of this section may be given to any Tribunal member (including the remaining Tribunal member or one of the remaining Tribunal members); and
+
+                     (c)  the Tribunal, as constituted in accordance with a direction under subsection (4) of this section, must complete the Tribunal proceeding; and
+
+                     (d)  for the purpose of completing the Tribunal proceeding, the Tribunal, as so constituted, may have regard to any record of the proceeding before the Tribunal as previously constituted (including a record of any evidence given or submissions made).
+
+Formal requirements for directions
+
+             (6)  A direction by the Chair under this section must be in writing.
+
+             (7)  A direction by the Chair under this section is not a legislative instrument.
+
+##### <a id="110XC"></a>110XC  Summoning persons to give evidence or produce documents
+
+             (1)  The Tribunal may summon a person to attend before the Tribunal to give evidence or produce documents for the purpose of a Tribunal proceeding.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person has been given a summons under subsection (1); and
+
+                     (b)  the person fails to comply with the summons.
+
+                    Penalty:  Imprisonment for 6 months or 30 penalty units, or both.
+
+             (3)  Subsection (2) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (4)  Without limiting subsection (3), it is a reasonable excuse for a person to refuse or fail to give evidence or produce a document if giving the evidence, or producing the document, would tend to incriminate the person.
+
+             (5)  A person summoned under subsection (1) is entitled to be paid the same fees, and allowances for expenses, as apply under section 67 of the _Administrative Appeals Tribunal Act 1975_ in relation to persons summoned under that Act. The fees and allowances are payable by the Commonwealth.
+
+##### <a id="110XD"></a>110XD  Protection of confidential or sensitive evidence or submissions etc.
+
+             (1)  The Tribunal may make an order prohibiting or restricting the publication of any of the following if the Tribunal is satisfied that it is desirable to do so, whether for reasons of confidentiality or sensitivity:
+
+                     (a)  evidence given, documents produced or submissions made to the Tribunal in relation to a Tribunal proceeding;
+
+                     (b)  the names and addresses of persons giving evidence, producing documents, or making submissions to the Tribunal in relation to a Tribunal proceeding;
+
+                     (c)  the whole or any part of any decision or report made or given by the Tribunal, or the Tribunal’s reasons for any such decision or report.
+
+Note:          Formal requirements relating to decisions etc. of the Tribunal are dealt with in section 110XE.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the person’s conduct contravenes an order made under subsection (1).
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+##### <a id="110XE"></a>110XE  Formal requirements relating to decisions etc. of the Tribunal
+
+Decisions etc. to be in writing
+
+             (1)  Decisions, orders, determinations, reports and recommendations of the Tribunal must be in writing.
+
+Review decisions
+
+             (2)  The Tribunal’s decision on the review of a reviewable decision must include a statement of the Tribunal’s reasons for its decision.
+
+             (3)  Subject to any orders under section 110XD:
+
+                     (a)  the Tribunal must cause a copy of its decision on the review of a reviewable decision to be given to the person or persons who applied for the review; and
+
+                     (b)  the Tribunal may also give a copy of its decision on the review of a reviewable decision to any other person that the Tribunal considers appropriate.
+
+Inquiry reports
+
+             (4)  Subject to any orders under section 110XD, the Tribunal must cause a copy of its report on an inquiry to be published on the Tribunal’s website or by another means that the Tribunal considers appropriate.
+
+##### <a id="110XF"></a>110XF  Protection of Tribunal members and other persons
+
+             (1)  A Tribunal member has, in performing his or her functions or exercising his or her powers as a Tribunal member, the same protection and immunity as a Justice of the High Court.
+
+             (2)  A person representing another person before the Tribunal has the same protection and immunity as a barrister has in appearing for a party in proceedings in the High Court.
+
+             (3)  A person summoned to attend, or appearing, before the Tribunal to give evidence or make submissions has the same protection, and is (in addition to the penalties provided by this Part) subject to the same liabilities, as a witness in proceedings in the High Court.
+
+##### <a id="110XG"></a>110XG  Disclosure of interests by Tribunal members
+
+When this section applies
+
+             (1)  This section applies if a Tribunal member who constitutes, or is one of the Tribunal members who constitute, the Tribunal for the purpose of a Tribunal proceeding has or acquires any interest (the **_potential conflict_**) that conflicts or could conflict with the proper performance of the member’s functions in relation to the proceeding.
+
+Note:          Failure to comply with the requirements of this section is a ground for termination: see section 110YH.
+
+If the Tribunal member is the Chair
+
+             (2)  If the Tribunal member is the Chair:
+
+                     (a)  the Chair must disclose the potential conflict to the Minister, and to all persons who appear or have appeared before the Tribunal in the Tribunal proceeding; and
+
+                     (b)  the Chair must not continue to take part in the proceeding unless the Minister consents in writing.
+
+If the Tribunal member is not the Chair
+
+             (3)  If the Tribunal member is not the Chair:
+
+                     (a)  the Tribunal member must disclose the potential conflict to the Chair, and to all persons who appear or have appeared before the Tribunal in the Tribunal proceeding; and
+
+                     (b)  the Tribunal member must not continue to take part in the proceeding unless the Chair consents in writing.
+
+Consent is not a legislative instrument
+
+             (4)  A consent by the Minister or the Chair under subsection (2) or (3) is not a legislative instrument.
+
+##### <a id="110XH"></a>110XH  Procedural rules
+
+             (1)  After consulting the other Tribunal members, the Chair may, by legislative instrument, make procedural rules (not inconsistent with this Part) in relation to the practice and procedure to be followed by or in relation to the Tribunal.
+
+             (2)  Without limiting subsection (1), the procedural rules may provide for the following:
+
+                     (a)  the constitution of the Tribunal for Tribunal proceedings;
+
+                     (b)  how the work of the Tribunal is to be allocated between the Tribunal members;
+
+                     (c)  the nature or form of Tribunal proceedings (for example, whether proceedings are to take the form of a hearing, and whether a hearing is to be in public or private);
+
+                     (d)  the circumstances in which a person may be represented by a lawyer or other person in a Tribunal proceeding;
+
+                     (e)  how applications are to be made to the Tribunal;
+
+                      (f)  requiring lodgment with the Tribunal of material relating to the making of reviewable decisions that are the subject of applications to the Tribunal;
+
+                     (g)  how evidence is to be given, or submissions are to be made, to the Tribunal;
+
+                     (h)  how people are to be summoned to attend before the Tribunal;
+
+                      (i)  any other matters that the Chair considers necessary or convenient.
+
+             (3)  The procedural rules must be complied with in relation to Tribunal proceedings.
+
+### Division 6—Tribunal members
+
+##### <a id="110Y"></a>110Y  Constitution of Tribunal
+
+                   The Tribunal consists of the following Tribunal members:
+
+                     (a)  the Chair of the Tribunal;
+
+                     (b)  a minimum of 6, and maximum of 10, other Tribunal members.
+
+##### <a id="110YA"></a>110YA  Appointment of Tribunal members
+
+             (1)  The Tribunal members are to be appointed by the Minister, in writing, on a part-time basis.
+
+             (2)  The instrument of appointment of a Tribunal member must specify whether the member is appointed as the Chair of the Tribunal, or as one of the other Tribunal members.
+
+             (3)  In making appointments, the Minister must have regard to the desirability of:
+
+                     (a)  reflecting a diversity of expertise, experience and gender among the Tribunal members; and
+
+                     (b)  the Tribunal members being independent of those who usually make reviewable decisions.
+
+             (4)  A person is not eligible to be appointed as the Chair if:
+
+                     (a)  the person is, or has at any time been, a member of the Defence Force rendering continuous full-time service; or
+
+                     (b)  in the Minister’s opinion, the person does not have an appropriate level of security clearance.
+
+             (5)  A person is not eligible to be appointed as one of the other Tribunal members if:
+
+                     (a)  the person is, or has at any time within the previous 12 months been, a member of the Defence Force rendering continuous full-time service; or
+
+                     (b)  in the Minister’s opinion, the person does not have an appropriate level of security clearance.
+
+##### <a id="110YB"></a>110YB  Period of appointment
+
+             (1)  A Tribunal member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+
+             (2)  Subject to subsections (3) and (4), a Tribunal member is eligible for reappointment as a Tribunal member.
+
+             (3)  A person must not hold office as Chair for more than 6 consecutive years.
+
+             (4)  A person must not hold office as one of the other Tribunal members for more than 6 consecutive years.
+
+##### <a id="110YC"></a>110YC  Acting appointments
+
+Appointment of acting Chair
+
+             (1)  The Minister may, in writing, appoint a Tribunal member to act as the Chair:
+
+                     (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Chair:
+
+                              (i)  is absent from duty or from Australia; or
+
+                             (ii)  is, for any reason, unable to perform the duties of the office.
+
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
+
+Appointment of other acting Tribunal members
+
+             (2)  The Chair may, in writing, appoint a person to act as a Tribunal member (other than the Chair):
+
+                     (a)  during a vacancy in an office of Tribunal member (other than the Chair), whether or not an appointment has previously been made to the office; or
+
+                     (b)  during any period, or during all periods, when a Tribunal member (other than the Chair):
+
+                              (i)  is acting as the Chair; or
+
+                             (ii)  is absent from duty or from Australia; or
+
+                            (iii)  is, for any reason, unable to perform the duties of the office.
+
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
+
+             (3)  In appointing a person to act as a Tribunal member, the Chair must have regard to the desirability of:
+
+                     (a)  reflecting a diversity of expertise, experience and gender among the Tribunal members; and
+
+                     (b)  the Tribunal members being independent of those who usually make reviewable decisions.
+
+Protection from invalidity
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Determining whether there is a vacancy in an office of Tribunal member
+
+             (5)  For the purpose of:
+
+                     (a)  a reference in this section to a vacancy in an office of Tribunal member; or
+
+                     (b)  a reference in the _Acts Interpretation Act 1901_ to a vacancy in the membership of a body;
+
+there are taken to be 10 offices of Tribunal members in addition to the Chair.
+
+##### <a id="110YD"></a>110YD  Other employment
+
+                   A Tribunal member must not engage in any paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of the member’s functions.
+
+##### <a id="110YE"></a>110YE  Remuneration
+
+             (1)  A Tribunal member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Tribunal member is to be paid the remuneration that is prescribed by the regulations.
+
+             (2)  A Tribunal member is to be paid the allowances that are prescribed by the regulations.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="110YF"></a>110YF  Leave
+
+             (1)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
+
+             (2)  The Chair may grant leave of absence to any other Tribunal member on the terms and conditions that the Chair determines.
+
+##### <a id="110YG"></a>110YG  Resignation
+
+             (1)  A Tribunal member may resign his or her appointment by giving the Minister a written resignation.
+
+             (2)  The resignation takes effect on the day it is received by the Minister or, if a later day is specified in the resignation, on that later day.
+
+##### <a id="110YH"></a>110YH  Termination
+
+             (1)  The Minister may terminate the appointment of a Tribunal member for misbehaviour or physical or mental incapacity.
+
+             (2)  The Minister may terminate the appointment of a Tribunal member if:
+
+                     (a)  the Tribunal member:
+
+                              (i)  becomes bankrupt; or
+
+                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                            (iii)  compounds with his or her creditors; or
+
+                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
+
+                     (b)  the Tribunal member fails, without reasonable excuse, to comply with section 110XG (disclosure of interests by Tribunal members); or
+
+                     (c)  the Tribunal member engages in paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of the member’s functions.
+
+             (3)  If the Chair ceases to be eligible for appointment (see subsection 110YA(4)), the Minister must terminate the appointment of the Chair.
+
+             (4)  If a Tribunal member (other than the Chair) ceases to be eligible for appointment (see subsection 110YA(5)), the Minister must terminate the appointment of the Tribunal member.
+
+##### <a id="110YI"></a>110YI  Other terms and conditions
+
+                   A Tribunal member holds office on the terms and conditions (if any) in relation to matters not covered by this Part that are determined by the Minister.
+
+### Division 7—Miscellaneous
+
+##### <a id="110Z"></a>110Z  Regulations
+
+                   Without limiting the generality of section 124, the regulations may make provision for or in relation to any of the following:
+
+                     (a)  any fees that are to be payable in relation to applications to the Tribunal;
+
+                     (b)  prohibiting the disclosure of information obtained by the Tribunal, a member of the Tribunal or a person assisting the Tribunal;
+
+                     (c)  proof of decisions or orders of the Tribunal.
+
+As at 2 August 2010 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -17644,7 +17424,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="18"></a>18  Referrals under the old SDA
 
-                   The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
+                   The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
 
 ##### <a id="19"></a>19  Inquiries started by Human Rights Commissioner
 
@@ -17699,7 +17479,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -17709,7 +17489,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -17749,9 +17529,9 @@ Although item 19 repeals sections 36 to 44A of the _Defence Act 1903_, those
 
 ## 93  Most of the old provisions may be superseded by new regulations
 
-(1)       However, the repealed provisions mentioned in items 89, 90, 91 and 92 continue to apply under those items only to the extent that they are consistent with regulations made after the repeal for the purposes of section 124 of the _Defence Act 1903_.
+(1)        However, the repealed provisions mentioned in items 89, 90, 91 and 92 continue to apply under those items only to the extent that they are consistent with regulations made after the repeal for the purposes of section 124 of the _Defence Act 1903_.
 
-(2)       If such regulations are made, then:
+(2)        If such regulations are made, then:
 
                      (a)  to the extent of the inconsistency, those provisions permanently cease to apply from the time that the inconsistency arises; and
 
@@ -17759,31 +17539,31 @@ Although item 19 repeals sections 36 to 44A of the _Defence Act 1903_, those
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
 ## Schedule 3
 
 ## 7  Application of new Protection Act to defence service
 
-(1)       The _Defence Reserve Service (Protection) Act 2001_ applies in relation to all defence service undertaken after that Act commences (the **_commencement time_**), except in so far as the service is rendered only as a result of:
+(1)        The _Defence Reserve Service (Protection) Act 2001_ applies in relation to all defence service undertaken after that Act commences (the **_commencement time_**), except in so far as the service is rendered only as a result of:
 
                      (a)  being called out under Division 4 of Part III, or under Part IIIA, of the _Defence Act 1903_ before the commencement time; or
 
                      (b)  a voluntary undertaking to render continuous full time service that a member gave before the commencement time.
 
-(2)       The _Defence (Re-establishment) Act 1965_ continues to apply in relation to defence service covered by paragraph (1)(a) or (b), despite the repeal of that Act by this Schedule.
+(2)        The _Defence (Re-establishment) Act 1965_ continues to apply in relation to defence service covered by paragraph (1)(a) or (b), despite the repeal of that Act by this Schedule.
 
 ## Schedule 4
 
@@ -17799,7 +17579,7 @@ _New Business Tax System (Capital Allowances—Transitional and Consequential) A
 
 ## 488  Application
 
-(1)       Subject to this item, the amendments made by this Schedule apply to:
+(1)        Subject to this item, the amendments made by this Schedule apply to:
 
                      (a)  depreciating assets:
 
@@ -17837,7 +17617,7 @@ _Taxation Laws Amendment (Superannuation) Act (No. 2) 2002
 
 ## 202  Application of amendments made by Part 2
 
-(1)       The amendment made by item 169  applies in relation to determinations under section 52 of the _Defence Act 1903_ for periods starting on or after 1 July 2003.
+(1)        The amendment made by item 169  applies in relation to determinations under section 52 of the _Defence Act 1903_ for periods starting on or after 1 July 2003.
 
 * * *
 
@@ -17877,11 +17657,11 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -17903,7 +17683,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -17917,7 +17697,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -17953,9 +17733,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor-General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -17965,11 +17745,11 @@ _Defence Legislation Amendment Act (No. 2) 2005 (No. 142, 2005)_
 
 ## 6  Saving provision in relation to certain regulations
 
-(1)       Part 7 of the _Defence (Inquiry) Regulations 1985_, as in force immediately before the commencement of Part VIIIB of the _Defence Act 1903_, continues in force, on and after that commencement, as if it had been made under paragraph 124(1)(h) of the _Defence Act 1903_.
+(1)        Part 7 of the _Defence (Inquiry) Regulations 1985_, as in force immediately before the commencement of Part VIIIB of the _Defence Act 1903_, continues in force, on and after that commencement, as if it had been made under paragraph 124(1)(h) of the _Defence Act 1903_.
 
-(2)       Any inquiry that, immediately before the commencement of Part VIIIB of the _Defence Act 1903_, was being conducted under Part 7 of the _Defence (Inquiry) Regulations 1985_, is taken after that commencement to continue under the regulations continued in force by subitem (1)_._
+(2)        Any inquiry that, immediately before the commencement of Part VIIIB of the _Defence Act 1903_, was being conducted under Part 7 of the _Defence (Inquiry) Regulations 1985_, is taken after that commencement to continue under the regulations continued in force by subitem (1)_._
 
-(3)       Subitem (1) does not prevent the amendment or repeal of Part 7 of the _Defence (Inquiry) Regulations 1985._
+(3)        Subitem (1) does not prevent the amendment or repeal of Part 7 of the _Defence (Inquiry) Regulations 1985._
 
 ## 7  Transitional regulations
 
@@ -18062,9 +17842,9 @@ _Defence Legislation Amendment Act 2006 (No. 159, 2006)_
 
 ## 256  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to a service offence committed by a person on or after the commencement day.
+(1)        The amendments made by this Schedule apply in relation to a service offence committed by a person on or after the commencement day.
 
-(2)       The amendments made by this Schedule also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day, the person had not been charged with the offence under the old DFDA.
+(2)        The amendments made by this Schedule also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day, the person had not been charged with the offence under the old DFDA.
 
 * * *
 
@@ -18074,13 +17854,13 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 
 ## 159  Transitional provision relating to the appointment of the President of the Defence Force Remuneration Tribunal
 
-(1)       Despite the amendment made by item 94, an appointment as President of the Defence Force Remuneration Tribunal in effect under section 58G of the _Defence Act 1903_ immediately before the commencement of that amendment continues in effect on and after that commencement, subject to:
+(1)        Despite the amendment made by item 94, an appointment as President of the Defence Force Remuneration Tribunal in effect under section 58G of the _Defence Act 1903_ immediately before the commencement of that amendment continues in effect on and after that commencement, subject to:
 
                      (a)  its terms; and
 
                      (b)  the amendments made by this Schedule.
 
-(2)       However, for the purposes of an appointment continued in effect by subitem (1), the requirement in paragraph 58L(2)(c) of the _Defence Act 1903_ (as amended by this Act) that the President of the Defence Force Remuneration Tribunal be a Deputy President of FWA may be met instead by the President being a presidential member of the Commission (within the meaning of section 58F of the _Defence Act 1903_ as in force immediately before the commencement of item 93).
+(2)        However, for the purposes of an appointment continued in effect by subitem (1), the requirement in paragraph 58L(2)(c) of the _Defence Act 1903_ (as amended by this Act) that the President of the Defence Force Remuneration Tribunal be a Deputy President of FWA may be met instead by the President being a presidential member of the Commission (within the meaning of section 58F of the _Defence Act 1903_ as in force immediately before the commencement of item 93).
 
 * * *
 
@@ -18095,6 +17875,24 @@ An appointment by the Governor-General that was in force, immediately before the
 * * *
 
 _Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
+
+## Schedule 2
+
+## 9  Application of amendments
+
+The amendments made by this Schedule apply in relation to positive test results returned after the commencement of this Schedule.
+
+## Schedule 3
+
+## 5  Application of amendments
+
+The amendments made by this Schedule apply in relation to:
+
+                     (a)  the making of determinations on or after the commencement of this Schedule; and
+
+                     (b)  the making of variations or revocations of determinations on or after that commencement.
+
+The following provisions commence on 5 January 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
@@ -18112,13 +17910,13 @@ In this Part:
 
 ## 3  Completion of reviews and inquiries by new Tribunal
 
-(1)       If the old Tribunal had started dealing with a review or inquiry before the commencement but had not completed the review or inquiry by the commencement:
+(1)        If the old Tribunal had started dealing with a review or inquiry before the commencement but had not completed the review or inquiry by the commencement:
 
                      (a)  the new Tribunal is to complete the review or inquiry, and take any related action, in accordance with the amended Act; and
 
                      (b)  for that purpose, anything done by or in relation to the old Tribunal for the purpose of the review or inquiry is taken to have been done by or in relation to the new Tribunal.
 
-(2)       If:
+(2)        If:
 
                      (a)  before the commencement, an application for review had been properly made to the old Tribunal but the old Tribunal had not yet started to deal with the review by the commencement; or
 
@@ -18128,23 +17926,23 @@ the new Tribunal must deal with the application or direction as if it had been p
 
 ## 4  Members of the old Tribunal are automatically appointed to the new Tribunal
 
-(1)       Subject to this item:
+(1)        Subject to this item:
 
                      (a)  the person who, immediately before the commencement, held office as the Chair of the old Tribunal is taken, on the commencement, to be appointed under the amended Act as the Chair of the new Tribunal; and
 
                      (b)  each other person who, immediately before the commencement, held office as a member (other than the Chair) of the old Tribunal is taken, on the commencement, to be appointed under the amended Act as a member (other than the Chair) of the new Tribunal.
 
-(2)       The period for which a person is, by paragraph (1)(a) or (b), taken to be appointed as the Chair, or another member, of the new Tribunal is to be determined in writing by the Minister. The period determined must be either be 12 months or 24 months.
+(2)        The period for which a person is, by paragraph (1)(a) or (b), taken to be appointed as the Chair, or another member, of the new Tribunal is to be determined in writing by the Minister. The period determined must be either be 12 months or 24 months.
 
-(3)       In making determinations under subitem (2), the Minister must endeavour to ensure that there is a reasonably equal division between the number of persons taken to be appointed for 12 months, and the number of persons taken to be appointed for 24 months.
+(3)        In making determinations under subitem (2), the Minister must endeavour to ensure that there is a reasonably equal division between the number of persons taken to be appointed for 12 months, and the number of persons taken to be appointed for 24 months.
 
-(4)       For the purpose of the application of subsection 110YB(3) of the amended Act in relation to a person who is taken to be appointed as the Chair of the new Tribunal:
+(4)        For the purpose of the application of subsection 110YB(3) of the amended Act in relation to a person who is taken to be appointed as the Chair of the new Tribunal:
 
                      (a)  the period for which the person held office as the Chair of the old Tribunal is to be counted towards the limit specified in that subsection; and
 
                      (b)  if the person is taken to be appointed as the Chair of the new Tribunal for 24 months—subsection 110YB(3) of the amended Act has effect in relation to the person as if it specified a limit of 7 consecutive years (rather than 6 consecutive years).
 
-(5)       For the purpose of the application of subsection 110YB(4) of the amended Act in relation to a person who is taken to be appointed as a member (other than the Chair) of the new Tribunal:
+(5)        For the purpose of the application of subsection 110YB(4) of the amended Act in relation to a person who is taken to be appointed as a member (other than the Chair) of the new Tribunal:
 
                      (a)  the period for which the person held office as a member (other than the Chair) of the old Tribunal is to be counted towards the limit specified in that subsection; and
 
@@ -18152,24 +17950,8 @@ the new Tribunal must deal with the application or direction as if it had been p
 
 ## 5  Regulations dealing with transition from old Tribunal to new Tribunal
 
-(1)       The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to the transition from the old Tribunal to the new Tribunal.
+(1)        The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to the transition from the old Tribunal to the new Tribunal.
 
-(2)       The provisions of this Part have effect subject to any such regulations.
-
-## Schedule 2
-
-## 9  Application of amendments
-
-The amendments made by this Schedule apply in relation to positive test results returned after the commencement of this Schedule.
-
-## Schedule 3
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to:
-
-                     (a)  the making of determinations on or after the commencement of this Schedule; and
-
-                     (b)  the making of variations or revocations of determinations on or after that commencement.
+(2)        The provisions of this Part have effect subject to any such regulations.
 
  
