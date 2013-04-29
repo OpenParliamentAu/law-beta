@@ -1,7 +1,7 @@
 
 Norfolk Island Act 1979
 Act No. 25 of 1979 as amended
-This compilation was prepared on 22 October 2001 taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 30 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -13,7 +13,6 @@ Part I—Preliminary	5
 2	Commencement [see Note 1]	5
 3	Repeals	5
 4	Interpretation	5
-4A	Application of the Criminal Code	7
 Part II—Administration	8
 5	Administrator and Administration	8
 6	Appointment of Administrator	8
@@ -27,9 +26,9 @@ Part III—The Executive Council	12
 13	Appointment of executive members	13
 14	Tenure of office	13
 15	Oath or affirmation of member of Executive Council and executive member	14
-Part IV—Legislation	14
-Division 1—Laws	14
-16	Continuance of existing laws	14
+Part IV—Legislation	15
+Division 1—Laws	15
+16	Continuance of existing laws	15
 17	Amendment and repeal of existing laws	15
 18	Application of Commonwealth Acts	15
 Division 2—Legislative power of Legislative Assembly	16
@@ -37,7 +36,7 @@ Division 2—Legislative power of Legislative Assembly	16
 20	Powers, privileges and immunities of Legislative Assembly	17
 21	Presentation of proposed laws	17
 22	Signification of pleasure on proposed law reserved	18
-23	Disallowance of laws by Governor‑General	18
+23	Disallowance of laws by Governor‑General	19
 24	Reason for withholding assent etc. to be tabled in Legislative Assembly	19
 25	Proposal of money votes	20
 26	Governor‑General may introduce proposed law	20
@@ -95,7 +94,7 @@ Part VII—The Judicial System	43
 54	Seniority of Judges	44
 55	Holding of other judicial offices	44
 56	Salaries and travelling allowances	44
-57	Oath or affirmation of Judge	44
+57	Oath or affirmation of Judge	45
 58	Exercise of jurisdiction	45
 59	Jurisdiction of Supreme Court	45
 60	Establishment of courts and tribunals	45
@@ -118,17 +117,16 @@ Part IX—Transitional	49
 76	Audit	51
 77	Regulations	52
 Schedules	53
-Schedule 1—The Territory of Norfolk Island	Error! Bookmark not defined.
-Schedule 2	Error! Bookmark not defined.
-Schedule 3	Error! Bookmark not defined.
-Schedule 4	Error! Bookmark not defined.
-Schedule 5	Error! Bookmark not defined.
-Schedule 6	Error! Bookmark not defined.
-Schedule 7	Error! Bookmark not defined.
-Schedule 8	Error! Bookmark not defined.
-Schedule 9	Error! Bookmark not defined.
+Schedule 1—The Territory of Norfolk Island	53
+Schedule 2	54
+Schedule 3	58
+Schedule 4	59
+Schedule 5	60
+Schedule 6	61
+Schedule 7	62
+Schedule 8	63
+Schedule 9	64
 Notes		65
-
 An Act to provide for the government of Norfolk Island
 		WHEREAS by an Act of the Parliament of the United Kingdom, made and passed in the sixth and seventh years of the reign of Her Majesty Queen Victoria intituled “An Act to amend so much of an Act of the last Session, for the Government of New South Wales and Van Diemen’s Land, as relates to Norfolk Island,” it was, amongst other things, enacted that it should be lawful for Her Majesty, by Letters Patent under the Great Seal of the United Kingdom, to sever Norfolk Island from the Government of New South Wales and to annex it to the Government and Colony of Van Diemen’s Land:
 		AND WHEREAS Her Majesty Queen Victoria, in exercise of the powers vested in Her by the said Act, by a Commission under the Great Seal of the United Kingdom bearing date the twenty‑fourth day of October, 1843, appointed that from and after the twenty‑ninth day of September, 1844, Norfolk Island should be severed from the Government of New South Wales and annexed to the Government and Colony of Van Diemen’s Land:
@@ -185,9 +183,6 @@ Territory means Norfolk Island, that is to say, the Territory of Norfolk Island 
 	(2)	The specification of a matter in an item in Schedule 2 or 3 shall not be taken to limit the generality of any matter specified in any other item in that Schedule.
 	(3)	A reference in this Act to a law, or to regulations, in force immediately before a particular date shall be read as including a reference to any provisions of the law, or of the regulations, that are not to come into operation until that date or a later date.
 
-4A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences created by this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Administration
   
@@ -581,8 +576,6 @@ and, where the Treasurer makes such a determination, the repayment of that money
 	(2)	The Auditor or a person authorised in writing by the Auditor may make copies of, or take extracts from, any such accounts, records, documents or papers.
 	(3)	The Auditor or a person authorised in writing by the Auditor may require any person to furnish the Auditor with such information in the possession of that person or to which that person has access as the Auditor or authorised person considers necessary for the purposes of the powers and functions of the Auditor under this Act, and the person shall comply with the requirement.
 	(4)	A person who contravenes subsection (3) is guilty of an offence punishable, upon conviction, by a fine not exceeding $200.
-	(4A)	An offence under subsection (4) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(5)	In this section, prescribed authority means a Territory authority whose accounts are not required to be audited under an enactment.
 51F  Auditor not subject to direction
 		Subject to section 51G, the Auditor is not, in the exercise of powers and the performance of functions under this Act, subject to the directions of the Minister, the Administrator, the Legislative Assembly or any member of the Legislative Assembly.
@@ -976,7 +969,6 @@ Note 1
 The Norfolk Island Act 1979 as shown in this compilation comprises Act No. 25, 1979 amended as indicated in the Tables below. 
 The Norfolk Island Act 1979 was amended by the Norfolk Island (Exercise of Powers) Regulations (Statutory Rules 1981 No. 153 as amended). The amendments are incorporated in this compilation. 
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -1098,11 +1090,6 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 399): 15 July 2001 (see Gazette 2001, No. S285) (m)
 Ss. 4‑14
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001
-143, 2001
-1 Oct 2001
-2 Oct 2001
-S. 4 [see Table A]
 (a)	The Norfolk Island Act 1979 was amended by Part XXVIII (sections 164 and 165) only of the Statute Law (Miscellaneous Amendments) Act (No. 1) 1982, subsection 2(12) of which provides as follows:
 	(12)	The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
 (b)	The Statute Law (Miscellaneous Amendments) Act (No. 1) 1982 was amended by Part LXXI (sections 262 and 263) only of the Statute Law (Miscellaneous Amendments) Act (No. 2) 1982, subsection 2(11) of which provides as follows:
@@ -1136,8 +1123,6 @@ Provision affected
 How affected
 S. 4	
 am. No. 120, 1981; No. 27, 1988; No. 60, 1989; No. 25, 1995
-S. 4A	
-ad. No. 143, 2001
 S. 8	
 am. No. 21, 1992
 S. 9	
@@ -1182,16 +1167,14 @@ Ss. 51C, 51D
 ad. No. 27, 1988
 
 am. No. 25, 1995
-S. 51E	
-ad. No. 27, 1988
-
-am. No. 143, 2001
-S. 51F	
+Ss. 51E, 51F	
 ad. No. 27, 1988
 S. 51G	
 ad. No. 27, 1988
 
 am. No. 152, 1997
+S. 51H	
+ad. No. 27, 1988
 Ss. 52, 53	
 am. No. 120, 1981; No. 60, 1989
 S. 53A	
@@ -1214,10 +1197,4 @@ Schedule 2
 am. Statutory Rules 1981 No. 153 (as am. by 1984 No. 33; 1985 No. 173; 1989 No. 268; 1992 No. 164)
 Schedule 3	
 am. Statutory Rules 1981 No.153 (as am. by 1989 No. 268)
-Table A
-Application, saving or transitional provisions
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)
-4  Application of Amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
