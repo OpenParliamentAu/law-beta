@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2010C00297/Html/TransTasMutRecAct1997_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00198/Html/TransTasMutRecAct1997_WD02_image001.gif)
 
 # Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 20 April 2010
+This compilation was prepared on 16 March 2010
  taking into account amendments up to Act No. 8 of 2007 
- and SLI 2010 No. 72
+ and SLI 2010 No. 42
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -191,7 +191,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11](#11).          Northern Territory
 
-**Schedule 3—Special exemptions** 
+**Schedule 3—Special exemptions**
+
+[1](#1).            Therapeutic goods
+
+[2](#2).            Hazardous substances, industrial chemicals and dangerous goods
+
+[3](#3).            Radiocommunications devices
+
+[4](#4).            Road vehicles
+
+[5](#5).            Gas appliances
 
 **Schedule 4—Exempt laws relating to occupations**
 
@@ -869,7 +879,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
                     <a name="ministeri-agreem"></a>**_ministerial agreement_** means an agreement of Ministers of participating jurisdictions made in relation to goods or laws that are the subject of an exemption under section 46.
 
-##### <a id="48"></a>48  Special exemptions
+##### <a id="48"></a>48  Special exemptions
 
              (1)  This Act does not affect the operation of laws of an Australian jurisdiction that relate to goods and that are specified or described in Schedule 3, to the extent that Schedule 3 indicates that they are exempt from the operation of this Act.
 
@@ -1245,33 +1255,6 @@ _Note:       See section 45._
 </tr>
 <tr>
   <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Industrial Chemicals (Notification and Assessment) Act 1989</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety (Commonwealth Employment) Act 1991</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Road Transport Reform (Dangerous Goods) Act 1995</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Trade Practices Act 1974</i>, Division 1A of Part V, to the extent that it deals with child restraints for motor vehicles 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Indecent material</b></div>
   </td>
 </tr>
@@ -1317,43 +1300,6 @@ _Note:       See section 45._
 <tr>
   <td>
     <div><i>Imported Food Control Act 1992</i>(to the extent that it deals with risk categorised food commodities)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Radiocommunications devices</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Radiocommunications Act 1992</i>, other than the part of Division 7 of Part 4.1 of that Act that deals with labelling a device</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Road vehicles</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Motor Vehicle Standards Act 1989 
-
- </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Therapeutic Goods Act 1989</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Therapeutic Goods (Charges) Act 1989</i></div>
   </td>
 </tr></table>
 
@@ -1404,44 +1350,12 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Supply Act 1996</i>,to the extent that it deals with the regulation of gas appliances</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Therapeutic Goods Act 1966</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety Act 1983</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1975</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Factories, Shops and Industries Act 1962</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Fair Trading Act 1987</i>, sections 26, 30, 31 and 38, to the extent that those sections deal with the regulation of child restraints for motor vehicles 
-
-</div>
+    <div><i>Gas Supply Act 1996</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater</div>
   </td>
 </tr>
 <tr>
@@ -1463,19 +1377,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Ozone Protection Act 1989 
-
- </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Therapeutic Goods Act 1966</i>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
+    <div><i>Ozone Protection Act 1989</i></div>
   </td>
 </tr></table>
 
@@ -1544,34 +1446,12 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Gas Safety Act 1997</b>, to the extent that it deals with the regulation of gas appliances 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Drugs, Poisons and Controlled Substances Act 1981</b>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Dangerous Goods Act 1985</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Occupational Health and Safety Act 1985</b></div>
+    <div><i>Gas Safety Act 1997</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater</div>
   </td>
 </tr>
 <tr>
@@ -1594,21 +1474,6 @@ Prohibited Weapons Act 1989
 <tr>
   <td>
     <div><i>Environment Protection Act 1970</i>, sections 16 and 41 (to the extent that they deal with ozone depleting substances) and paragraph 71(1)(gba)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Drugs, Poisons and Controlled Substances Act 1981</b>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic Goods (Victoria) Act 1994</b>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
   </td>
 </tr></table>
 
@@ -1657,34 +1522,12 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Petroleum and Gas (Production and Safety) Act 2004</i>, to the extent that it deals with the regulation of gas appliances 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety Act 1995</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Fair Trading Act 1989</i>, sections 81, 83, 85 and 85A, to the extent that those sections deal with the regulation of child restraints for motor vehicles 
+    <div><i>Petroleum and Gas (Production and Safety) Act 2004</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
   </td>
@@ -1714,16 +1557,6 @@ Prohibited Weapons Act 1989
 <tr>
   <td>
     <div><i>Environmental Protection (Interim) Regulation 1995</i>under the <i>Environmental Protection Act 1994</i>(to the extent that it deals with ozone depleting substances)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
   </td>
 </tr></table>
 
@@ -1772,44 +1605,12 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Standards Act 1972</i>, to the extent that it deals with the regulation of gas appliances 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1964</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Safety and Health Act 1984</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Explosives and Dangerous Goods Act 1961</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Consumer Affairs Act 1971</i>, sections 23Q, 23R and 23U, to the extent that those sections deal with the regulation of child restraints for motor vehicles</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Fair Trading Act 1987</i>, sections 50 and 59, to the extent that those sections deal with the regulation of child restraints for motor vehicles 
+    <div><i>Gas Standards Act 1972</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
   </td>
@@ -1849,16 +1650,6 @@ Prohibited Weapons Act 1989
 <tr>
   <td>
     <div><i>Environmental Protection Act 1986</i>(to the extent that it deals with ozone protection)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1964</i>,to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
   </td>
 </tr></table>
 
@@ -1927,36 +1718,14 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Act 1997</i>,to the extent that it deals with the regulation of gas appliances 
+    <div><i>Gas Act 1997</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Controlled Substances Act 1984</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Substances Act 1979</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health, Safety and Welfare Act 1986 
-
- </i></div>
   </td>
 </tr>
 <tr>
@@ -2001,16 +1770,6 @@ Prohibited Weapons Act 1989
 <tr>
   <td>
     <div><i>Summary Offences Act 1953</i>, Section 9B</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Controlled Substances Act 1984</i>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
   </td>
 </tr></table>
 
@@ -2059,36 +1818,14 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Act 2000</i>,to the extent that it deals with the regulation of gas appliances 
+    <div><i>Gas Act 2000</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1971</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1976</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety Act 1995 
-
- </i></div>
   </td>
 </tr>
 <tr>
@@ -2124,19 +1861,9 @@ Prohibited Weapons Act 1989
   <td>
     <div><i>Living Marine Resources Management Act 1995</i>(to the extent that it relates to the possession, sale or capture of abalone, crayfish or scallops of a certain minimum size)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1971</i>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
-  </td>
 </tr></table>
 
-##### <a id="10"></a>10  Australian  Capital Territory
+##### <a id="10"></a>10  Australian   Capital Territory
 
 <table>
 <colgroup>
@@ -2181,31 +1908,14 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Safety Act 2000</i>,to the extent that it deals with the regulation of gas appliances 
+    <div><i>Gas Safety Act 2000</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Drugs Act 1978</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety Act 1989 
-
- </i></div>
   </td>
 </tr>
 <tr>
@@ -2232,19 +1942,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Ozone Protection Act 1991 
-
- </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Drugs Act 1978</i>, to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
+    <div><i>Ozone Protection Act 1991</i></div>
   </td>
 </tr></table>
 
@@ -2293,36 +1991,14 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas appliances</b></div>
+    <div><b>Gas Appliances</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Dangerous Goods Act</i>, to the extent that it deals with the regulation of gas appliances 
+    <div><i>Dangerous Goods Act</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Hazardous substances, industrial chemicals and dangerous goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Dangerous Drugs Act</i>, to the extent that it deals with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Work Health Act 
-
- </i></div>
   </td>
 </tr>
 <tr>
@@ -2344,19 +2020,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Ozone Protection Act 1990 
-
- </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Therapeutic goods</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Dangerous Drugs Act</i>,to the extent that it deals with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act</div>
+    <div><i>Ozone Protection Act 1990</i></div>
   </td>
 </tr></table>
 
@@ -2367,6 +2031,405 @@ Prohibited Weapons Act 1989
 _Note:       See section 48._
 
                    The laws specified or described in this Schedule are exempt from the operation of this Act.
+
+##### <a id="1"></a>1  Therapeutic goods
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div><i>Therapeutic Goods Act 1989</i>of the Commonwealth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Therapeutic Goods (Charges) Act 1989</i>of the Commonwealth 
+
+</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>The following laws are exempt, to the extent that they deal with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act:</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons and Therapeutic Goods Act 1966</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Drugs, Poisons and Controlled Substances Act 1981</i>of Victoria</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Therapeutic Goods (</i> <i>Victoria</i> <i>) Act 1994</i>of Victoria</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons Act 1964</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Controlled Substances Act 1984</i>of South Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons Act 1971</i>of Tasmania</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons and Dangerous Drugs Act 1983</i>of the Northern Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons and Drugs Act 1978</i>of the Australian Capital Territory</div>
+  </td>
+</tr></table>
+
+##### <a id="2"></a>2  Hazardous substances, industrial chemicals and dangerous goods
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>The following laws, to the extent that they deal with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act:</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons and Therapeutic Goods Act 1966</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Drugs, Poisons and Controlled Substances Act 1981</i>of Victoria</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Controlled Substances Act 1984</i>of South Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons Act 1964</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons Act 1971</i>of Tasmania</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons and Dangerous Drugs Act</i>of the Northern Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Poisons and Drugs Act 1978</i>of the Australian Capital Territory</div>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>The following laws:</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Industrial Chemicals (Notification and Assessment) Act 1989</i>of the Commonwealth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety (Commonwealth Employment) Act 1991</i>of the Commonwealth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety (Commonwealth Employment) (National Standards) Regulations</i>of the Commonwealth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Road Transport Reform (Dangerous Goods) Act 1995</i>of the Commonwealth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Work Health Act 1986</i>of the Northern Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Work Health (Occupational Health and Safety) Regulation</i> <i>s 1</i> <i>992</i>of the Northern Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act 1980</i>of the Northern Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>980</i>of the Northern Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Safety and Health Act 1984</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Safety and Health Regulation</i> <i>s 1</i> <i>988</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Explosives and Dangerous Goods Act 1961</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>992</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Explosives Regulation</i> <i>s 1</i> <i>963</i>of Western Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety Act 1983</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety (Hazardous Substances) Regulation 1996</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act 1975</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Regulation 1978</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods (Gas Installations) Regulation 1982</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act 1985</i>of Victoria</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act 1976</i>of Tasmania</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Factories, Shops and Industries Act 1962</i>of New South Wales</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Substances Act 1979</i>of South Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health, Safety and Welfare Act 1986</i>of South Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health, Safety and Welfare Regulation</i> <i>s 1</i> <i>995</i>of South Australia</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety Act 1985</i>of Victoria</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Regulations under the Occupational Health and Safety Act 1985</i>of Victoria</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Workplace Health and Safety Act 1995</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Workplace Health and Safety Regulation 1989</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Workplace Health and Safety Regulation 1995</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Workplace Health and Safety (Hazardous Substances) Compliance Standard 1995</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Workplace Health and Safety (Lead) Compliance Standard 1995</i>of Queensland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Workplace Health and Safety Act 1995</i>of Tasmania</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety Act 1989</i>of the Australian Capital Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Occupational Health and Safety Regulations</i>of the Australian Capital Territory</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Trade Practices Act 1974</i>of the Commonwealth, Division 1A of Part V, to the extent that it relates to the regulation of, or issues in relation to, child restraints for motor vehicles</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Fair Trading Act 1987</i>of New South Wales, sections 26, 30, 31 and 38, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Fair Trading Act 1989</i>of Queensland, sections 81, 83, 85 and 85A, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Consumer Affairs Act 1971</i>of Western Australia, sections 23Q, 23R and 23U, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Fair Trading Act 1987</i>of Western Australia, sections 50 and 59, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+  </td>
+</tr></table>
+
+##### <a id="3"></a>3  Radiocommunications devices
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div><i>Radiocommunications Act 1992</i>of the Commonwealth, other than Division 7 of Part 4.1 of that Act to the extent that the Division deals with labelling a device in accordance with the <i>Radiocommunications (Compliance Labelling — Incidental Emissions) Notice 2001</i>made under section 182 of that Act</div>
+    <div><i>Not e </i>  The <i>Radiocommunications (Compliance Labelling — Incidental Emissions) Notice 2001</i>applies to devices to which the <i>Radiocommunications (Electromagnetic Compatibility) Standard 2001</i>applies.</div>
+  </td>
+</tr></table>
+
+##### <a id="4"></a>4  Road vehicles
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div><i>Motor Vehicle Standards Act 1989</i>of the Commonwealth</div>
+  </td>
+</tr></table>
+
+##### <a id="5"></a>5  Gas appliances
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div><i>Gas Supply Act 1996</i>of New South Wales (to the extent that it relates to regulation of gas appliances that are not covered by clause 4 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Gas Safety Act 1997</i>of Victoria (to the extent that it relates to regulation of gas appliances that are not covered by clause 5 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Petroleum and Gas (Production and Safety) Act 2004</i>of Queensland (to the extent that it relates to regulation of gas appliances that are not covered by clause 6 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Gas Standards Act 1972</i>of Western Australia (to the extent that it relates to regulation of gas appliances that are not covered by clause 7 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Gas Act 1997</i>of South Australia (to the extent that it relates to regulation of gas appliances that are not covered by clause 8 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Gas Act 2000</i>of Tasmania (to the extent that it relates to regulation of gas appliances that are not covered by clause 9 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Gas Safety Act 2000</i>of the Australian Capital Territory (to the extent that it relates to regulation of gas appliances that are not covered by clause 10 in Schedule 2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act</i>of the Northern Territory (to the extent that it relates to regulation of gas appliances that are not covered by clause 11 in Schedule 2)</div>
+  </td>
+</tr></table>
 
  
 
@@ -2526,6 +2589,8 @@ the authority must ensure that the forms issued to individuals in connection wit
 
 The _Trans-Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
 
+The _Trans-Tasman Mutual Recognition Act 1997_ was amended by the _Trans-Tasman Mutual Recognition Regulation__s 1__999_ (SR 1999 No. 60), the _Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)_ (SR 2000 No. 51), the _Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 75), the _Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 221), the _Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)_ (SR 2002 No. 78), the _Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)_ (SR 2003 No. 72), the _Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)_ (SLI 2009 No. 65) and the _Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2010 (No. 1)_ (SLI 2010 No. 42). The amendments are incorporated in this compilation.
+
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -2665,194 +2730,6 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
   </td>
 </tr></table>
 
-From 1 January 2005 the Statutory Rules series ceased to exist and is replaced with Select Legislative Instruments (SLI).  Numbering conventions remain the same, ie Year and Number.
-
-### Table of Instruments
-
-<table>
-<colgroup>
-  <col width="27%">
-  <col width="18%">
-  <col width="20%">
-  <col width="21%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>Year 
-and number</div>
-    </td>
-    <td>
-      <div>Date of notification 
-in <i>Gazette</i>or FRLI registration</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Regulations 1999</div>
-  </td>
-  <td>
-    <div>1999 No. 60</div>
-  </td>
-  <td>
-    <div>16 Apr 1999</div>
-  </td>
-  <td>
-    <div>1 May 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)</div>
-  </td>
-  <td>
-    <div>2000 No. 51</div>
-  </td>
-  <td>
-    <div>19 Apr 2000</div>
-  </td>
-  <td>
-    <div>19 Apr 2000</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)</div>
-  </td>
-  <td>
-    <div>2001 No. 75</div>
-  </td>
-  <td>
-    <div>20 Apr 2001</div>
-  </td>
-  <td>
-    <div>20 Apr 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)</div>
-  </td>
-  <td>
-    <div>2001 No. 221</div>
-  </td>
-  <td>
-    <div>23 Aug 2001</div>
-  </td>
-  <td>
-    <div>23 Aug 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)</div>
-  </td>
-  <td>
-    <div>2002 No. 78</div>
-  </td>
-  <td>
-    <div>18 Apr 2002</div>
-  </td>
-  <td>
-    <div>18 Apr 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)</div>
-  </td>
-  <td>
-    <div>2003 No. 72</div>
-  </td>
-  <td>
-    <div>28 Apr 2003</div>
-  </td>
-  <td>
-    <div>28 Apr 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)</div>
-  </td>
-  <td>
-    <div>2009 No. 65</div>
-  </td>
-  <td>
-    <div>17 Apr 2009</div>
-  </td>
-  <td>
-    <div>18 Apr 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2010 (No. 1)</div>
-  </td>
-  <td>
-    <div>2010 No. 42</div>
-  </td>
-  <td>
-    <div>15 Mar 2010</div>
-  </td>
-  <td>
-    <div>16 Mar 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition (Modification of Act) Regulations 2010 (No. 1)</div>
-  </td>
-  <td>
-    <div>2010 No. 72</div>
-  </td>
-  <td>
-    <div>19 Apr 2010</div>
-  </td>
-  <td>
-    <div>20 Apr 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -2897,7 +2774,7 @@ in <i>Gazette</i>or FRLI registration</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65; SLI 2010 Nos. 42 and 72</div>
+    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65; SLI 2010 No. 42</div>
   </td>
 </tr>
 <tr>
@@ -2905,7 +2782,7 @@ in <i>Gazette</i>or FRLI registration</div>
     <div>Schedule 3</div>
   </td>
   <td>
-    <div>am. Statutory Rules 1999 No. 60; Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 75; Statutory Rules 2002 No. 78; Statutory Rules 2003 No. 72; SLI 2009 No. 65; SLI 2010 No. 72</div>
+    <div>am. Statutory Rules 1999 No. 60; Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 75; Statutory Rules 2002 No. 78; Statutory Rules 2003 No. 72; SLI 2009 No. 65</div>
   </td>
 </tr></table>
 
