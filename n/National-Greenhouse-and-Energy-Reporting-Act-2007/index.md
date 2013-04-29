@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image001.gif)
 
 # National Greenhouse and Energy Reporting Act 2007
 
 **Act No. 175 of 2007 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 8 December 2011
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
@@ -472,6 +472,8 @@ Note:          **_Innocent passage_** is defined in section 
 
                     <a name="energi"></a>**_energy_**, includes fuel, or any other energy commodity, of a kind specified in the regulations.
 
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_**has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="facil"></a>**_facility_** has the meaning given by section 9.
 
                     <a name="financi-control"></a>**_financial control_** has the meaning given by section 22R.
@@ -730,7 +732,7 @@ On 30 June 2010 the corporation is still registered under Division 3\. The c
 
              (2)  If a member of a controlling corporation’s group has operational control of a facility for a number of, but not all, days in a financial year (the **_control days_**), subparagraphs (1)(d)(i) to (iii) have effect as though each threshold were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image002.gif)
 
 Reporting transfer certificate
 
@@ -1266,7 +1268,7 @@ Refusal
 
                      (b)  the certificate is cancelled under section 22P.
 
-##### <a id="22N"></a>22N  Surrender of reporting transfer certificate
+##### <a id="22N"></a>22N  Surrender of reporting transfer certificate
 
 Scope
 
@@ -1596,7 +1598,7 @@ for the purposes of, or in connection with, court or tribunal proceedings, or pr
 
 #### Subdivision A—Civil penalty orders
 
-##### <a id="29"></a>29  Civil penalty provisions
+##### <a id="29"></a>29  Civil penalty provisions
 
                    The following are **_civil penalty provisions_** for the purposes of this Act:
 
@@ -2669,7 +2671,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 797) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 797) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2704,12 +2706,12 @@ Schedule 2: 16 Sept 2011</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 106–155, 158–192, 214, 219): \[ <i>see</i>s. 2(1), Note 2 and Table A] 
+    <div>Schedule 1 (items 106–155, 158–192, 214, 219): \[ <i>see</i>s. 2(1), Note 3 and Table A] 
 Schedule 1 (items 261A–278, 
 280–301, 303–305, 
 307–310, 312–316, 319–334, 336–371, 375–381, 
 384–415A, 
-452–455): \[ <i>see</i>Note 2 and Table A]</div>
+452–455): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 214, 219, 452–455)</div>
@@ -2876,7 +2878,7 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009; Nos. 46 and 102, 2011</div>
+    <div>am. No. 84, 2008; No. 87, 2009; No. 102, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3385,11 +3387,25 @@ Div. 4 of Part 6</div>
   </td>
 </tr></table>
 
-### Note 2
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 797  Section 7 (definition of _exclusive economic zone_)
+
+Repeal the definition.
+
+As at 8 December 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
-The following amendments commence on 2 April 2012:
+The following amendments commence at the same time as section 3 of the _Clean Energy Act 2011_:
 
 ## Schedule 1
 
@@ -3423,7 +3439,7 @@ Insert:
 
 Omit “Greenhouse and Energy Data Officer”, substitute “Regulator”.
 
-## 112  Paragraph 11(1)(b)
+## 112  Paragraph 11(1)(b)
 
 Omit “Greenhouse and Energy Data Officer”, substitute “Regulator”.
 
@@ -3527,7 +3543,7 @@ Omit “Greenhouse and Energy Data Officer”, substitute “Regulator”.
 
 Omit “Greenhouse and Energy Data Officer”, substitute “Regulator”.
 
-## 135  Subsection 22K(2)
+## 135  Subsection 22K(2)
 
 Omit “Greenhouse and Energy Data Officer”, substitute “Regulator”.
 
@@ -4882,7 +4898,7 @@ Operational control—nomination not made
 
              (9)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image003.gif)
 
 where:
 
@@ -4948,7 +4964,7 @@ Operational control
 
              (7)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image004.gif)
 
 where:
 
@@ -5016,7 +5032,7 @@ Operational control—nomination not made
 
              (9)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image005.gif)
 
 where:
 
@@ -5078,7 +5094,7 @@ Operational control
 
              (7)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image004.gif)
 
 where:
 
@@ -5238,7 +5254,7 @@ Repeal the heading, substitute:
 
 ### Division 3—Registration of controlling corporations
 
-## 355  Section 18
+## 355  Section 18
 
 Repeal the section.
 
@@ -5830,7 +5846,7 @@ Insert:
 
            (1J)  If the person was the holder of the relevant reporting transfer certificate or financial control liability transfer certificate in relation to the facility for a number of, but not all, days in the financial year (the **_control days_**), paragraphs (1H)(a), (b) and (c) have effect as though each amount mentioned in the relevant paragraph were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00091/Html/fc92a515-18ec-441e-8a9d-fd061e83268d_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image006.gif)
 
           (1K)  Subsection (1H) does not apply to:
 
@@ -6106,7 +6122,7 @@ Repeal the penalty, substitute:
 
 Insert:
 
-##### <a id="74AA"></a>74AA  Audit of persons providing reports under section 22A
+##### <a id="74AA"></a>74AA  Audit of persons providing reports under section 22A
 
              (1)  This section applies if:
 
@@ -6392,7 +6408,7 @@ Government response to recommendations
 
                      (c)  such other persons as the Minister considers relevant.
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 8 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -6418,6 +6434,8 @@ _National Greenhouse and Energy Reporting Amendment Act 2008
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
@@ -6449,7 +6467,7 @@ _Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
-The following provisions commence on 2 April 2012:
+The following provisions commence at the same time as section 3 of the _Clean Energy Act 2011_:
 
 ## Schedule 1
 
