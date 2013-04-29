@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00599/Html/AusPostalCorporation1989WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00195/Html/AusPostalCorporation1989WD02_image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 25 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 156 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -524,7 +524,7 @@ and includes:
 
              (4)  In this section:
 
-                    <a name="offshor-area"></a>**_offshore area_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="offshor-area"></a>**_offshore area_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum Act 2006_.
 
                     <a name="territori"></a>**_Territory_** does not include Norfolk Island.
 
@@ -2237,7 +2237,7 @@ only applies to Australia Post on and after that day.
 
                     <a name="wine-tax"></a>**_wine tax_** has the same meaning as in the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
-##### <a id="90F"></a>90F  Meaning of _authorised ASIO officer_ 
+##### <a id="90F"></a>90F  Meaning of _authorised ASIO officer_ 
 
              (1)  For the purposes of Division 2, an **_authorised ASIO officer_** is an officer or employee of ASIO authorised in writing by a person mentioned in subsection (2) to receive disclosures under this Part.
 
@@ -3547,23 +3547,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 25) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>117, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 3): 22 Nov 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Postal Corporation Act 1989_ was amended by Part 5 (sections 11–13) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
@@ -3722,7 +3705,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 71, 1992; No. 17, 2006; No. 117, 2008</div>
+    <div>am. No. 71, 1992; No. 17, 2006</div>
   </td>
 </tr>
 <tr>
