@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00708/Html/b2ae1bb8-5e36-4d39-ad18-19338f91f00f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00313/Html/bccf00c8-ab26-4326-a45c-5f477f0fd517_files/image001.gif)
 
 # Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
 **Act No. 149 of 1989 as amended**
 
-This compilation was prepared on 1 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -620,7 +620,7 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
                    The Institute may, by writing under its seal, delegate any or all of its functions and powers to the Principal or to a member of the staff of the Institute.
 
-##### <a id="45"></a>45  Remuneration and allowances
+##### <a id="45"></a>45  Remuneration and allowances
 
              (1)  The following provisions apply in relation to the holder of an office who is, by a provision of this Act, entitled to remuneration and allowances in accordance with this section:
 
@@ -1189,23 +1189,6 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 171–173) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1550,32 +1533,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 171  At the end of subsection 18(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Council Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 172  At the end of subsections 18(2) and (5)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 173  Subsection 18(7)
-
-Repeal the subsection.
-
-As at 1 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1626,7 +1583,7 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 ## Schedule 1
 
-## 97  Application of amendments
+## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
@@ -1715,21 +1672,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
