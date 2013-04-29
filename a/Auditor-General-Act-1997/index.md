@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00217/Html/AuditGeneral997_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00028/Html/AuditGeneral997_image001.gif)
 
 # Auditor-General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 27 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 1 January 2008
+ taking into account amendments up to Act No. 166 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -963,9 +963,7 @@ Note:          Section 8A of the _Public Accounts and Audit 
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                     (b)  a member of the superannuation scheme established by the Trust Deed under the _Superannuation Act 1990_; or
-
-                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (b)  a member of the superannuation scheme established by the Trust Deed under the _Superannuation Act 1990_;
 
 the Governor-General may, with the consent of the Auditor-General, retire the Auditor-General from office on the ground of physical or mental incapacity.
 
@@ -973,19 +971,13 @@ the Governor-General may, with the consent of the Auditor-General, retire the Au
 
                      (a)  the Auditor-General is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  the Board (within the meaning of the _Superannuation Act 1976_) gives a certificate under section 54C of that Act.
+                     (b)  the CSS Board gives a certificate under section 54C of the _Superannuation Act 1976_.
 
              (5)  For the purposes of the _Superannuation Act 1990_, the Auditor-General is taken to have been retired from office on the ground of invalidity if:
 
                      (a)  the Auditor-General is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  the Board (within the meaning of the _Superannuation Act 1990_) gives a certificate under section 13 of that Act.
-
-             (6)  For the purposes of the _Superannuation Act 2005_, the Auditor-General is taken to have been retired from office on the ground of invalidity if:
-
-                     (a)  the Auditor-General is removed or retired from office on the ground of physical or mental incapacity; and
-
-                     (b)  the Board (within the meaning of the _Superannuation Act 2005_) gives an approval and certificate under section 43 of that Act.
+                     (b)  the PSS Board gives a certificate under section 13 of the _Superannuation Act 1990_.
 
 ##### <a id="7"></a>7  Acting appointment
 
@@ -1061,9 +1053,7 @@ Note:          Section 8A of the _Public Accounts and Audit 
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                     (b)  a member of the superannuation scheme established by the Trust Deed under the _Superannuation Act 1990_; or
-
-                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (b)  a member of the superannuation scheme established by the Trust Deed under the _Superannuation Act 1990_;
 
 the Governor-General may, with the consent of the Independent Auditor, retire the Independent Auditor from office on the ground of physical or mental incapacity.
 
@@ -1071,19 +1061,13 @@ the Governor-General may, with the consent of the Independent Auditor, retire th
 
                      (a)  the Independent Auditor is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  the Board (within the meaning of the _Superannuation Act 1976_) gives a certificate under section 54C of that Act.
+                     (b)  the CSS Board gives a certificate under section 54C of the _Superannuation Act 1976_.
 
              (5)  For the purposes of the _Superannuation Act 1990_, the Independent Auditor is taken to have been retired from office on the ground of invalidity if:
 
                      (a)  the Independent Auditor is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  the Board (within the meaning of the _Superannuation Act 1990_) gives a certificate under section 13 of that Act.
-
-             (6)  For the purposes of the _Superannuation Act 2005_, the Independent Auditor is taken to have been retired from office on the ground of invalidity if:
-
-                     (a)  the Independent Auditor is removed or retired from office on the ground of physical or mental incapacity; and
-
-                     (b)  the Board (within the meaning of the _Superannuation Act 2005_) gives an approval and certificate under section 43 of that Act.
+                     (b)  the PSS Board gives a certificate under section 13 of the _Superannuation Act 1990_.
 
 ##### <a id="6"></a>6  Acting appointment
 
@@ -1231,23 +1215,6 @@ Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Sch. 1 (item 13(1))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 9–16): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1433,23 +1400,7 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr></table>
 
