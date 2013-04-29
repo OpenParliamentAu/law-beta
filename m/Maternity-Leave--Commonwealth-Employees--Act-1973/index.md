@@ -1,54 +1,57 @@
-![](http://www.comlaw.gov.au/Details/C2009C00320/Html/MatLveCwlthEmploy73_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00072/Html/4B3C51A1B4FA6D31CA25713E002102D3/$FILE/image001.gif)
 
 # Maternity Leave (Commonwealth Employees) Act 1973
 
 **Act No. 72 of 1973 as amended**
 
-This compilation was prepared on 15 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 194 of 1999 and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Application of Act
+[4](#4).            Application of Act                                                                              2
 
-[5](#5).            Persons in relation to whom Act applies
+[5](#5).            Persons in relation to whom Act applies                                            3
 
-[5A](#5A).         How Act applies to persons employed in Parliamentary Departments
+[5A](#5A).         How Act applies to persons employed in Parliamentary Departments 4
 
-[6](#6).            Absence from duty in relation to childbirth
+[6](#6).            Absence from duty in relation to childbirth                                        5
 
-[7](#7).            Employee may continue to perform, or resume, duty in certain circumstances
+[7](#7).            Employee may continue to perform, or resume, duty in certain circumstances      8
 
-[7A](#7A).         Other applications to resume duty
+[7A](#7A).         Other applications to resume duty                                                      9
 
-[7B](#7B).         Grant of maternity leave not to affect continuity of service
+[7B](#7B).         Grant of maternity leave not to affect continuity of service             11
 
-[8](#8).            APS employees on maternity leave
+[8](#8).            APS employees on maternity leave                                                   11
 
-[9](#9).            Temporary employees on maternity leave
+[9](#9).            Temporary employees on maternity leave                                        12
 
-[10](#10).          No discrimination by reason of pregnancy
+[10](#10).          No discrimination by reason of pregnancy                                        12
 
-[11](#11).          Delegation by Agency Head
+[11](#11).          Delegation by Agency Head                                                              12
 
-[15](#15).          Regulations
+[15](#15).          Regulations                                                                                        13
 
 **Notes** 
+
 
 ## An Act to make provision for Maternity Leave in respect of Employees of the Commonwealth and certain other Persons, and for other purposes
 
@@ -66,7 +69,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="agenc-head"></a>**_Agency Head_**, in relation to an employee, means:
 
-                     (a)   in the case of an employee in an Agency (within the meaning of the _Public Service Act 1999_)—the Agency Head within the meaning of that Act; or
+                     (a)  in the case of an employee in an Agency (within the meaning of the _Public Service Act 1999_)—the Agency Head within the meaning of that Act; or
 
                      (b)  in the case of an employee in a prescribed authority—the chief executive officer (however described) of the prescribed authority.
 
@@ -80,7 +83,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="prescrib-author"></a>**_prescribed authority_** means:
 
-                     (a)  a body corporate (other than an incorporated company, society or association) that is incorporated for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern   Territory) and is declared by the regulations to be a body corporate in relation to which this Act applies;
+                     (a)  a body corporate (other than an incorporated company, society or association) that is incorporated for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be a body corporate in relation to which this Act applies;
 
                      (b)  an unincorporated body that is established for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be an unincorporated body in relation to which this Act applies; or
 
@@ -302,7 +305,7 @@ a certificate given by a medical practitioner certifying that, in the opinion of
 
 ##### <a id="8"></a>8  APS employees on maternity leave
 
-                   Section 84 of the _Fair Work Act 2009_ applies to a female APS employee if:
+                   Sections 280 and 281 of the _Workplace Relations Act 1996_ apply to a female APS employee if:
 
                      (a)  the employee is absent from duty in accordance with section 6; and
 
@@ -344,6 +347,7 @@ that authority shall give to the woman preference over all other persons (other 
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Maternity Leave (Commonwealth Employees) Act 1973_
 
 ### Note 1
@@ -376,11 +380,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -390,314 +396,309 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Maternity Leave (Australian Government Employees) Act 1973</div>
-  </td>
-  <td>
-    <div>72, 1973</div>
-  </td>
-  <td>
-    <div>18 June 1973</div>
-  </td>
-  <td>
-    <div>18 June 1973</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Maternity Leave (Australian Government Employees) Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>168, 1978</div>
-  </td>
-  <td>
-    <div>28 Nov 1978</div>
-  </td>
-  <td>
-    <div>S. 7(2): 15 Mar 1981 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S43) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 5(2) and 11</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>155, 1979</div>
-  </td>
-  <td>
-    <div>28 Nov 1979</div>
-  </td>
-  <td>
-    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>109, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 24: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) 
-S. 32 : <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 24 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Capital Territory Government Service (Consequential Provisions) Act 1994</div>
-  </td>
-  <td>
-    <div>92, 1994</div>
-  </td>
-  <td>
-    <div>29 June 1994</div>
-  </td>
-  <td>
-    <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>OTC (Conversion into Public Company) Act 1988</div>
-  </td>
-  <td>
-    <div>129, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 7(2), 8(2), 9, 11–22 and 25: 1 Apr 1989 ( <i>see Gazette</i>1989, No. S92) 
+<tbody>
+  <tr>
+    <td>
+      <div>Maternity Leave (Australian Government Employees) Act 1973</div>
+    </td>
+    <td>
+      <div>72, 1973</div>
+    </td>
+    <td>
+      <div>18 June 1973</div>
+    </td>
+    <td>
+      <div>18 June 1973</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Maternity Leave (Australian Government Employees) Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>168, 1978</div>
+    </td>
+    <td>
+      <div>28 Nov 1978</div>
+    </td>
+    <td>
+      <div>S. 7(2): 15 Mar 1981 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S43) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 5(2) and 11</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>155, 1979</div>
+    </td>
+    <td>
+      <div>28 Nov 1979</div>
+    </td>
+    <td>
+      <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>109, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 24: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) 
+S. 32 : <i>(a)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 24 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Capital Territory Government Service (Consequential Provisions) Act 1994</div>
+    </td>
+    <td>
+      <div>92, 1994</div>
+    </td>
+    <td>
+      <div>29 June 1994</div>
+    </td>
+    <td>
+      <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>OTC (Conversion into Public Company) Act 1988</div>
+    </td>
+    <td>
+      <div>129, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Ss. 7(2), 8(2), 9, 11–22 and 25: 1 Apr 1989 ( <i>see Gazette</i>1989, No. S92) 
 S. 8(1): 16 Mar 1989 ( <i>see Gazette</i>1989, No. S92) 
 S. 8(3): 1 Apr 1989 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>215, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>199, 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>215, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
 Parts 9-11 (ss. 
 34–40): 18 Feb 1991 
-Remainder: 21 Jan 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations and other Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>109, 1993</div>
-  </td>
-  <td>
-    <div>22 Dec 1993</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2 and 58: Royal Assent 
+Remainder: 21 Jan 1993 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations and other Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>109, 1993</div>
+    </td>
+    <td>
+      <div>22 Dec 1993</div>
+    </td>
+    <td>
+      <div>Ss. 1, 2 and 58: Royal Assent 
 S. 32: 5 Jan 1994 
 S. 34: 6 Sept 1991 
 S. 47: 24 Dec 1992 
-Remainder: 19 Jan 1994</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 72): <i>(b)</i> 
-Schedule 5 (items 80-83): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>189, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div><i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Act 1999</div>
-  </td>
-  <td>
-    <div>145, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div><i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 568–585): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>194, 1999</div>
-  </td>
-  <td>
-    <div>23 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 19: 23 Dec 1999 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 8 (item 101): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: 19 Jan 1994 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 72): <i>(b)</i> 
+Schedule 5 (items 80-83): Royal Assent <i>(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>189, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td>
+      <div><i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service Act 1999</div>
+    </td>
+    <td>
+      <div>145, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div><i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 568–585): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>194, 1999</div>
+    </td>
+    <td>
+      <div>23 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 19: 23 Dec 1999 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
-         Section 21 of the _Australian Capital   Territory__Government Service (Consequential Provisions) Act 1994_ provides as follows:
+         Section 21 of the _Australian Capital Territory__Government Service (Consequential Provisions) Act 1994_ provides as follows:
 
     21(1)   Items in Schedule 5 to the Principal Act, as amended by this Act, that have not commenced under section 2 of the Principal Act commence immediately after the commencement of this Act.
 
@@ -739,93 +740,6 @@ _(f)_      The _Maternity Leave (Commonwealth Employees) Act 1973_ was
 
                  (1)   Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
 
-_(g)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 8, items 1 to 130
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -850,182 +764,185 @@ _(g)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>rs. No. 168, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1978; No. 129, 1988; No. 109, 1993; No. 43, 1996; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1978; No. 155, 1979; No. 109, 1988 (as am. by No. 92, 1994); No. 43, 1996; Nos. 146 and 194, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1978; No. 215, 1992; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rs. No. 168, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 215, 1992; No. 43, 1996; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7B</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1978; No. 199, 1991; No. 215, 1992; No. 109, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 168, 1978; No. 215, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rep. No. 168, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 215, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>rep. No. 168, 1978</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>rs. No. 168, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1978; No. 129, 1988; No. 109, 1993; No. 43, 1996; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1978; No. 155, 1979; No. 109, 1988 (as am. by No. 92, 1994); No. 43, 1996; Nos. 146 and 194, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1978; No. 215, 1992; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rs. No. 168, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 215, 1992; No. 43, 1996; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7B</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1978; No. 199, 1991; No. 215, 1992; No. 109, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rs. No. 168, 1978; No. 215, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 109, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>rep. No. 168, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 215, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 109, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13, 14</div>
+    </td>
+    <td>
+      <div>rep. No. 168, 1978</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1057,6 +974,7 @@ _A.C.T. Self-Government (Consequential Provisions) Act 1988 (No. 109, 1988)_
 
              (3)  Decisions for the purposes of the Act made in relation to Territory staff by the Public Service Commissioner that were in effect at the commencement of this section continue in effect as if made by the Head of Administration.
 
+
 ## Table B
 
 ### Modifications
@@ -1073,7 +991,7 @@ Insert the following subsection:
 
 Insert the following definition:
 
-                    <a name="self-govern-act"></a>**_Self-Government Act_** means the _Australian   Capital Territory__(Self-Government) Act 1988_.
+                    <a name="self-govern-act"></a>**_Self-Government Act_** means the _Australian Capital Territory__(Self-Government) Act 1988_.
 
 ## Paragraph 5(1)(a):
 
@@ -1108,5 +1026,8 @@ Omit the subsection.
 ## Section 11:
 
 Omit the section.
+
+
+ 
 
  
