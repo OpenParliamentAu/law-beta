@@ -1,145 +1,289 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="1BD4AC93B88AF684CA256FC0001D21AC/$FILE/image001.png"></v:imagedata></v:shape><o:p></o:p>
+![](http://www.comlaw.gov.au/Details/C2005C00009/Html/AirNavigation1920_WD02_files/image002.gif)<o:p></o:p>
 
 # Air Navigation Act 1920<o:p></o:p>
 
 **Act No. 50 of 1920 as amended<o:p></o:p>**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="10" month="3">10 March 2005</st1:date>
-taking into account amendments up to Act No. 149 of 2004<o:p></o:p>
+This compilation was prepared on <st1:date month="1" day="1" year="2005">1 January 2005</st1:date>
+ taking into account amendments up to Act No. 64 of 2004<o:p></o:p>
 
 The text of any of those amendments not in force 
-on that date is appended in the Notes section<o:p></o:p>
+ on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
+ affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
-
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, <st1:city><st1:place>Canberra</st1:place></st1:city><o:p></o:p>
 
 # Contents<o:p></o:p>
 
-**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
+**Part 1—Preliminary<span style="mso-tab-count:1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[2](#2).            Extension to Territories<span style="mso-tab-count: 1 dotted">                                                                       </span>
+[2](#2).            Extension to Territories<span style="mso-tab-count:1 dotted">                                                                       </span>
 
-[2A](#2A).         Act to bind Crown<span style="mso-tab-count: 1 dotted">                                                                               </span>
+[2A](#2A).         Act to bind Crown<span style="mso-tab-count:1 dotted">                                                                               </span>
 
-[2B](#2B).         Act not to apply to state aircraft<span style="mso-tab-count: 1 dotted">                                                        </span>
+[2B](#2B).         Act not to apply to state aircraft<span style="mso-tab-count:1 dotted">                                                        </span>
 
-[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+[3](#3).            Interpretation<span style="mso-tab-count:1 dotted">                                                                                       </span>
 
-[3AB](#3AB).      Aircraft flights: when do they start?<span style="mso-tab-count: 1 dotted">                                                   </span>
+[3AA](#3AA).      Meaning of _threaten_<span style="mso-tab-count:1 dotted">                                                                             </span>
 
-[3AC](#3AC).      Aircraft flights: when do they end?<span style="mso-tab-count: 1 dotted">                                                     </span>
+[3AB](#3AB).      Aircraft flights: when do they start?<span style="mso-tab-count:1 dotted">                                                   </span>
 
-[3AG](#3AG).      Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                       </span>
+[3AC](#3AC).      Aircraft flights: when do they end?<span style="mso-tab-count:1 dotted">                                                     </span>
 
-**Part 2—Regulation of Air Navigation<span style="mso-tab-count: 1">                                                                         </span>**
+[3AD](#3AD).      Screening and clearance<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[3A](#3A).         Approval of ratification of Chicago Convention etc <span style="mso-tab-count: 1 dotted">                          </span>
+[3AE](#3AE).       Meaning of unlawful interference with aviation<span style="mso-tab-count:1 dotted">                                  </span>
 
-[4](#4).            Texts of Chicago Convention etc <span style="mso-tab-count: 1 dotted">                                                        </span>
+[3AF](#3AF).       Uniformed security force<span style="mso-tab-count:1 dotted">                                                                     </span>
 
-[5](#5).            Contracting States<span style="mso-tab-count: 1 dotted">                                                                                </span>
+[3AG](#3AG).      Application of the _Criminal Code_<span style="mso-tab-count:1 dotted">                                                       </span>
 
-[9](#9).            International airports<span style="mso-tab-count: 1 dotted">                                                                           </span>
+**Part 2—Regulation of Air Navigation<span style="mso-tab-count: 1">                                                                       </span>**
 
-[10](#10).          International aircraft to land at and take off from designated airports<span style="mso-tab-count: 1 dotted"> </span>
+[3A](#3A).         Approval of ratification of Chicago Convention etc <span style="mso-tab-count:1 dotted">                        </span>
 
-[11](#11).          Freedoms of the air<span style="mso-tab-count: 1 dotted">                                                                              </span>
+[4](#4).            Texts of Chicago Convention etc <span style="mso-tab-count:1 dotted">                                                      </span>
 
-[11A](#11A).       Foreign shareholdings in Australian international airlines<span style="mso-tab-count: 1 dotted">                   </span>
+[5](#5).            Contracting States<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[11B](#11B).       Injunctions relating to section 11A<span style="mso-tab-count: 1 dotted">                                                    </span>
+[9](#9).            International airports<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[12](#12).          International airline licences<span style="mso-tab-count: 1 dotted">                                                               </span>
+[10](#10).          International aircraft to land at and take off from designated airports<span style="mso-tab-count:1 dotted"> </span>
 
-[13](#13).          Suspension or cancellation of international airline licences<span style="mso-tab-count: 1 dotted">               </span>
+[11](#11).          Freedoms of the air<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[14](#14).          Non-scheduled flights by aircraft possessing nationality of a Contracting State<span style="mso-tab-count: 1">    </span>
+[11A](#11A).       Foreign shareholdings in Australian international airlines<span style="mso-tab-count:1 dotted">                 </span>
 
-[15](#15).          Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
+[11B](#11B).       Injunctions relating to section 11A<span style="mso-tab-count:1 dotted">                                                    </span>
 
-[15A](#15A).       Aircraft on non-scheduled flights not to take on or discharge passengers, cargo or mail without permission<span style="mso-tab-count: 1">        </span>
+[12](#12).          International airline licences<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[15B](#15B).       Applications for permission to operate non-scheduled flights<span style="mso-tab-count: 1 dotted">         </span>
+[13](#13).          Suspension or cancellation of international airline licences<span style="mso-tab-count:1 dotted">               </span>
 
-[15C](#15C).       Information to be contained in application<span style="mso-tab-count: 1 dotted">                                        </span>
+[14](#14).          Non-scheduled flights by aircraft possessing nationality of a Contracting State<span style="mso-tab-count:1">    </span>
 
-[15D](#15D).       Determination of application for permission<span style="mso-tab-count: 1 dotted">                                    </span>
+[15](#15).          Definitions<span style="mso-tab-count:1 dotted">                                                                                         </span>
 
-[15E](#15E).        Variation of permission on application by charter operator<span style="mso-tab-count: 1 dotted">             </span>
+[15A](#15A).       Aircraft on non-scheduled flights not to take on or discharge passengers, cargo or mail without permission<span style="mso-tab-count:1">        </span>
 
-[15F](#15F).        Variation, suspension or cancellation of permission on Secretary’s initiative<span style="mso-tab-count: 1">         </span>
+[15B](#15B).       Applications for permission to operate non-scheduled flights<span style="mso-tab-count:1 dotted">         </span>
 
-[16](#16).          Aircraft on international flights to comply with laws<span style="mso-tab-count: 1 dotted">                       </span>
+[15C](#15C).       Information to be contained in application<span style="mso-tab-count:1 dotted">                                        </span>
 
-[17](#17).          Aircraft on international flights to have permission<span style="mso-tab-count: 1 dotted">                          </span>
+[15D](#15D).       Determination of application for permission<span style="mso-tab-count:1 dotted">                                    </span>
 
-[18](#18).          Publication of determinations<span style="mso-tab-count: 1 dotted">                                                            </span>
+[15E](#15E).        Variation of permission on application by charter operator<span style="mso-tab-count:1 dotted">             </span>
 
-[19](#19).          Carriage of munitions<span style="mso-tab-count: 1 dotted">                                                                         </span>
+[15F](#15F).        Variation, suspension or cancellation of permission on Secretary’s initiative<span style="mso-tab-count:1">         </span>
 
-**Part 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
+[16](#16).          Aircraft on international flights to comply with laws<span style="mso-tab-count:1 dotted">                       </span>
 
-[23A](#23A).       Review of decisions by Administrative Appeals Tribunal<span style="mso-tab-count: 1 dotted">               </span>
+[17](#17).          Aircraft on international flights to have permission<span style="mso-tab-count:1 dotted">                          </span>
 
-[23](#23).          Defences in proceedings with respect to offences<span style="mso-tab-count: 1 dotted">                             </span>
+[18](#18).          Publication of determinations<span style="mso-tab-count:1 dotted">                                                            </span>
 
-[24](#24).          Crown not liable to prosecution<span style="mso-tab-count: 1 dotted">                                                        </span>
+[19](#19).          Carriage of munitions<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[24A](#24A).       Conduct by directors, servants and agents<span style="mso-tab-count: 1 dotted">                                        </span>
+**Part 3—Aviation security<span style="mso-tab-count:1">                                                                                                 </span>** 
 
-[26](#26).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+    **Division 1—Passengers and baggage etc.<span style="mso-tab-count: 1">                                                       </span>**
 
-[27](#27).          Extra-territorial operation of regulations<span style="mso-tab-count: 1 dotted">                                           </span>
+[20](#20).          Screening of passengers and their possessions<span style="mso-tab-count:1 dotted">                                  </span>
 
-[27A](#27A).       Registration of security interests in relation to aircraft and components of aircraft<span style="mso-tab-count: 1">               </span>
+[20A](#20A).       Screening by aircraft operators<span style="mso-tab-count:1 dotted">                                                          </span>
 
-[29](#29).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
+[21](#21).          Designation of sterile areas<span style="mso-tab-count:1 dotted">                                                                </span>
 
-[30](#30).          Powers and functions under State and Northern Territory laws<span style="mso-tab-count: 1 dotted">       </span>
+[21A](#21A).       Appointment of screening authorities<span style="mso-tab-count:1 dotted">                                               </span>
 
-[31](#31).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+[21B](#21B).       Maintenance of sterile areas<span style="mso-tab-count:1 dotted">                                                              </span>
+
+[21C](#21C).       Screening at sterile areas<span style="mso-tab-count:1 dotted">                                                                    </span>
+
+[22](#22).          Sterile areas and screening point: weapons<span style="mso-tab-count:1 dotted">                                        </span>
+
+[22A](#22A).       Screening of people generally: sterile areas<span style="mso-tab-count:1 dotted">                                        </span>
+
+[22B](#22B).       Screening officer has no power to remove person’s clothing<span style="mso-tab-count:1 dotted">            </span>
+
+[22C](#22C).       Carriage of baggage<span style="mso-tab-count:1 dotted">                                                                             </span>
+
+[22D](#22D).       Carriage of weapons on aircraft<span style="mso-tab-count:1 dotted">                                                         </span>
+
+    **Division 2—Report of unlawful interference with aviation etc.<span style="mso-tab-count:1">            </span>**
+
+[22E](#22E).        Definitions<span style="mso-tab-count:1 dotted">                                                                                         </span>
+
+[22F](#22F).        Report of threat of unlawful interference with aviation etc —employees<span style="mso-tab-count:1">              </span>
+
+[22G](#22G).       Report of threat of unlawful interference with aviation etc —
+ aircraft operator<span style="mso-tab-count:1 dotted">                                                                                 </span>
+
+[22H](#22H).       Report of threat etc —airport operator<span style="mso-tab-count:1 dotted">                                             </span>
+
+[22J](#22J).        Report of threat etc —other people<span style="mso-tab-count:1 dotted">                                                  </span>
+
+[22K](#22K).       Report must comply with certain requirements<span style="mso-tab-count:1 dotted">                                </span>
+
+[22L](#22L).        False or misleading reports<span style="mso-tab-count:1 dotted">                                                                </span>
+
+    **Division 3—Aviation security programs<span style="mso-tab-count: 1">                                                          </span>**
+
+[22M](#22M).      Application<span style="mso-tab-count:1 dotted">                                                                                        </span>
+
+[22N](#22N).       Definitions<span style="mso-tab-count:1 dotted">                                                                                         </span>
+
+[22P](#22P).        Aviation security program<span style="mso-tab-count:1 dotted">                                                                 </span>
+
+[22Q](#22Q).       Preparation and submission of proposed aviation security program<span style="mso-tab-count:1 dotted"> </span>
+
+[22R](#22R).       Approval or rejection of proposed program<span style="mso-tab-count:1 dotted">                                     </span>
+
+[22S](#22S).        Start and duration of approved program<span style="mso-tab-count:1 dotted">                                           </span>
+
+[22T](#22T).       Cancellation of approval of program<span style="mso-tab-count:1 dotted">                                                 </span>
+
+[22U](#22U).       Direction to vary program<span style="mso-tab-count:1 dotted">                                                                 </span>
+
+[22V](#22V).       Review of program by operator<span style="mso-tab-count:1 dotted">                                                        </span>
+
+[22W](#22W).      Offence—international air service by regular public transport operations<span style="mso-tab-count:1">              </span>
+
+[22X](#22X).       Offence—international air service by charter operations<span style="mso-tab-count:1 dotted">                  </span>
+
+[22Y](#22Y).       Offence—domestic air service by regular public transport operations<span style="mso-tab-count:1 dotted"> </span>
+
+    **Division 4—Airport security programs<span style="mso-tab-count: 1">                                                             </span>**
+
+[22Z](#22Z).       Definitions<span style="mso-tab-count:1 dotted">                                                                                         </span>
+
+[22ZA](#22ZA).    Airport security program<span style="mso-tab-count:1 dotted">                                                                  </span>
+
+[22ZB](#22ZB).     Airport security committees<span style="mso-tab-count:1 dotted">                                                             </span>
+
+[22ZC](#22ZC).     Preparation and submission of proposed airport security program<span style="mso-tab-count:1 dotted">  </span>
+
+[22ZD](#22ZD).    Approval or rejection of proposed program<span style="mso-tab-count:1 dotted">                                     </span>
+
+[22ZE](#22ZE).     Start and duration of approved program<span style="mso-tab-count:1 dotted">                                           </span>
+
+[22ZF](#22ZF).     Cancellation of approval of program<span style="mso-tab-count:1 dotted">                                                 </span>
+
+[22ZG](#22ZG).    Direction to vary program<span style="mso-tab-count:1 dotted">                                                                 </span>
+
+[22ZH](#22ZH).    Review of program by operator<span style="mso-tab-count:1 dotted">                                                        </span>
+
+[22ZJ](#22ZJ).      Operator of categorised airport to have an approved airport security program<span style="mso-tab-count:1">      </span>
+
+    **Division 5—Security measures etc. applicable to categorised airports<span style="mso-tab-count:1"> </span>**
+
+[22ZK](#22ZK).    Airport categories<span style="mso-tab-count:1 dotted">                                                                              </span>
+
+[22ZL](#22ZL).     Category 1 airports—prescribed requirements<span style="mso-tab-count:1 dotted">                                 </span>
+
+[22ZM](#22ZM).   Category 2 airports—prescribed requirements<span style="mso-tab-count:1 dotted">                                 </span>
+
+[22ZN](#22ZN).    Category 3 airports—prescribed requirements<span style="mso-tab-count:1 dotted">                                 </span>
+
+[22ZO](#22ZO).    Category 4 airports—prescribed requirements<span style="mso-tab-count:1 dotted">                                 </span>
+
+[22ZP](#22ZP).     Category 5 airports—prescribed requirements<span style="mso-tab-count:1 dotted">                                 </span>
+
+[22ZQ](#22ZQ).    Secretary’s power of direction<span style="mso-tab-count:1 dotted">                                                          </span>
+
+[22ZR](#22ZR).     Carriage or discharge of firearms at a categorised airport<span style="mso-tab-count:1 dotted">                  </span>
+
+[22ZS](#22ZS).     Approval of certain works at airports<span style="mso-tab-count:1 dotted">                                               </span>
+
+    **Division 6—Miscellaneous<span style="mso-tab-count:1">                                                                                      </span>**
+
+[22ZT](#22ZT).     Removal of person who fails to leave a place when requested by an authorised officer<span style="mso-tab-count:1">         </span>
+
+[22ZU](#22ZU).    Weapon surrendered or delivered to operator of aircraft<span style="mso-tab-count:1 dotted">                   </span>
+
+[22ZV](#22ZV).     Secretary may give directions<span style="mso-tab-count:1 dotted">                                                            </span>
+
+**Part 3A—Information-gathering for aviation security purposes<span style="mso-tab-count:1">                </span>** 
+
+    **Division 1—Secretary may require aviation security information<span style="mso-tab-count:1">      </span>**
+
+[22ZVA](#22ZVA).  Secretary may require aviation security information<span style="mso-tab-count:1 dotted">                         </span>
+
+[22ZVB](#22ZVB).  Self-incrimination<span style="mso-tab-count:1 dotted">                                                                               </span>
+
+    **Division 2—Protection and use of aviation security information<span style="mso-tab-count:1">        </span>**
+
+[22ZVC](#22ZVC).  Interpretation<span style="mso-tab-count:1 dotted">                                                                                     </span>
+
+[22ZVD](#22ZVD).  Use or disclosure by Departmental officials other than for aviation security purposes<span style="mso-tab-count:1">         </span>
+
+[22ZVE](#22ZVE).  Disclosure other than in excepted circumstances<span style="mso-tab-count:1 dotted">                              </span>
+
+[22ZVF](#22ZVF).  Disclosure to court or tribunal<span style="mso-tab-count:1 dotted">                                                           </span>
+
+[22ZVG](#22ZVG).  Protection for person who gives information<span style="mso-tab-count:1 dotted">                                    </span>
+
+**Part 4—Miscellaneous<span style="mso-tab-count:1">                                                                                                       </span>**
+
+[23A](#23A).       Review of decisions by Administrative Appeals Tribunal<span style="mso-tab-count:1 dotted">               </span>
+
+[23](#23).          Defences in proceedings with respect to offences<span style="mso-tab-count:1 dotted">                             </span>
+
+[24](#24).          Crown not liable to prosecution<span style="mso-tab-count:1 dotted">                                                        </span>
+
+[24A](#24A).       Conduct by directors, servants and agents<span style="mso-tab-count:1 dotted">                                        </span>
+
+[26](#26).          Regulations<span style="mso-tab-count:1 dotted">                                                                                        </span>
+
+[27](#27).          Extra-territorial operation of regulations<span style="mso-tab-count:1 dotted">                                           </span>
+
+[27A](#27A).       Registration of security interests in relation to aircraft and components of aircraft<span style="mso-tab-count:1">               </span>
+
+[29](#29).          Annual report<span style="mso-tab-count:1 dotted">                                                                                    </span>
+
+[30](#30).          Powers and functions under State and Northern Territory laws<span style="mso-tab-count:1 dotted">       </span>
+
+[31](#31).          Delegation<span style="mso-tab-count:1 dotted">                                                                                          </span>
 
 **Schedule 1—Convention on International Civil Aviation<span style="mso-tab-count: 1">                               </span>** 
 
-**Schedule 2—International Air Services Transit Agreement<span style="mso-tab-count: 1">                        </span>** 
+**Schedule 2—International Air Services Transit Agreement<span style="mso-tab-count: 1">                      </span>** 
 
-**Schedule 3—Protocol relating to an amendment to the Convention on International Civil Aviation<span style="mso-tab-count: 1">          </span>** 
+**Schedule 3—Protocol relating to an amendment to the Convention on International Civil Aviation<span style="mso-tab-count:1">          </span>** 
 
-**Schedule 4—Protocol relating to certain amendments to the Convention on International Civil Aviation<span style="mso-tab-count: 1">                                                                                                                                      </span>** 
+**Schedule 4—Protocol relating to certain amendments to the Convention on International Civil Aviation<span style="mso-tab-count:1">                                                                                                                                    </span>** 
 
-**Schedule 5—Protocol relating to an amendment to the Convention on International Civil Aviation<span style="mso-tab-count: 1">          </span>** 
+**Schedule 5—Protocol relating to an amendment to the Convention on International Civil Aviation<span style="mso-tab-count:1">          </span>** 
 
-**Schedule 6—Protocol relating to an amendment to the Convention on International Civil Aviation<span style="mso-spacerun: yes">  </span>Signed at Rome, on 15 September 1962<span style="mso-tab-count: 1">                                                               </span>** 
+**Schedule 6—Protocol relating to an amendment to the Convention on International Civil Aviation<span style="mso-spacerun:yes">  </span>Signed at Rome, on 15 September 1962<span style="mso-tab-count:1">                                                             </span>** 
 
-**Schedule 7—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at New York, on 12 March 1971<span style="mso-tab-count: 1">                                                                     </span>** 
+**Schedule 7—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at New York, on 12 March 1971<span style="mso-tab-count: 1">                                                                   </span>** 
 
-**Schedule 8—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at Vienna, on 7 July 1971<span style="mso-tab-count: 1">                                                                                    </span>** 
+**Schedule 8—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at Vienna, on 7 July 1971<span style="mso-tab-count:1">                                                                                  </span>** 
 
-**Schedule 9—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal, on 16 October 1974<span style="mso-tab-count: 1">                         </span>** 
+**Schedule 9—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal, on 16 October 1974<span style="mso-tab-count:1">                       </span>** 
 
-**Schedule 9A—Protocol relating to an amendment to the Convention on International Civil Aviation signed at Montreal on 6 October 1980<span style="mso-tab-count: 1">                                                                 </span>** 
+**Schedule 9A—Protocol relating to an amendment to the Convention on International Civil Aviation signed at Montreal on 6 October 1980<span style="mso-tab-count: 1">                                                               </span>** 
 
-**Schedule 10—Protocol relating to an amendment to the Convention on International Civil Aviation signed at Montreal on 10 May 1984<span style="mso-tab-count: 1">                                                                      </span>** 
+**Schedule 10—Protocol relating to an amendment to the Convention on International Civil Aviation signed at Montreal on 10 May 1984<span style="mso-tab-count: 1">                                                                    </span>** 
 
-**Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at Montreal on 6 October 1989<span style="mso-tab-count: 1">                             </span>** 
+**Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at Montreal on 6 October 1989<span style="mso-tab-count:1">                           </span>** 
 
-**Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990<span style="mso-tab-count: 1">                          </span>** 
+**Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990<span style="mso-tab-count:1">                        </span>** 
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
-
+**Notes<span style="mso-tab-count: 1">                                                                                                                                          </span>** 
 
 ## An Act relating to Air Navigation<o:p></o:p>
 
 ## Part 1—Preliminary<o:p></o:p>
 
-##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span><o:p></o:p>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal"> [_see_ Note 1]</span><o:p></o:p>
 
                    This Act may be cited as the _Air Navigation Act 1920_.<o:p></o:p>
 
@@ -149,7 +293,7 @@ Attorney-General’s Department,
 
 ##### <a id="2A"></a>2A  Act to bind Crown<o:p></o:p>
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States and of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.<o:p></o:p>
+                   This Act binds the Crown in right of the Commonwealth, of each of the States and of the <st1:state><st1:place>Northern Territory</st1:place></st1:state>.<o:p></o:p>
 
 ##### <a id="2B"></a>2B  Act not to apply to state aircraft<o:p></o:p>
 
@@ -165,6 +309,8 @@ Attorney-General’s Department,
 
                     <a name="airport"></a>**_airport_** means an area of land or water (including any buildings, installations and equipment situated in the area) intended for use either wholly or partly for the arrival, departure or movement of aircraft.<o:p></o:p>
 
+                    <a name="airport-secur-committe"></a>**_airport security committee_** means an airport security committee established under section 22ZB.<o:p></o:p>
+
                     <a name="air-servic"></a>**_air service_** means a service of providing air transportation of people or goods, or both people and goods, by:<o:p></o:p>
 
                      (a)  regular public transport operation; or<o:p></o:p>
@@ -175,15 +321,33 @@ Attorney-General’s Department,
 
                     <a name="australian-territori"></a>**_Australian territory_** means:<o:p></o:p>
 
-                     (a)  the territory of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and of every external Territory;<o:p></o:p>
+                     (a)  the territory of <st1:country-region><st1:place>Australia</st1:place></st1:country-region> and of every external Territory;<o:p></o:p>
 
-                     (b)  the territorial sea of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and of every external Territory; and<o:p></o:p>
+                     (b)  the territorial sea of <st1:country-region><st1:place>Australia</st1:place></st1:country-region> and of every external Territory; and<o:p></o:p>
 
                      (c)  the air space over any such territory or sea.<o:p></o:p>
+
+                    <a name="aviat-industri-particip"></a>**_aviation industry participant_** means:<o:p></o:p>
+
+                     (a)  an airport operator prescribed by the regulations for the purposes of this paragraph; or<o:p></o:p>
+
+                     (b)  an aircraft operator prescribed by the regulations for the purposes of this paragraph; or<o:p></o:p>
+
+                     (c)  a person, prescribed by the regulations for the purposes of this paragraph, who carries on the business of handling international air cargo; or<o:p></o:p>
+
+                     (d)  a person, prescribed by the regulations for the purposes of this paragraph, who provides aviation security services.<o:p></o:p>
+
+                    <a name="aviat-secur"></a>**_aviation security_** means a combination of measures and human and material resources intended to safeguard aviation against unlawful interference.<o:p></o:p>
+
+                    <a name="aviat-secur-inform"></a>**_aviation security information_** means information that relates to compliance, or a failure to comply, with regulations under this Act that relate to aviation security.<o:p></o:p>
 
                     <a name="baggag"></a>**_baggage_** means any article or possession of a passenger or crew member that is to be carried on board an aircraft, but does not include an article that is accessible to the passenger or crew member while the aircraft is in flight.<o:p></o:p>
 
                     <a name="carriag"></a>**_carriage_** means carriage anywhere on board an aircraft.<o:p></o:p>
+
+                    <a name="categoris-airport"></a>**_categorised airport_** means an airport categorised under section 22ZK.<o:p></o:p>
+
+                    <a name="charter-aircraft"></a>**_charter aircraft_** means an aircraft engaged in a charter operation.<o:p></o:p>
 
                     <a name="charter-oper"></a>**_charter operation_** means an operation of an aircraft for the purpose of:<o:p></o:p>
 
@@ -211,9 +375,15 @@ Attorney-General’s Department,
 
                             (iii)  is not available to the general public.<o:p></o:p>
 
-                    <a name="contract-state"></a>**_Contracting State_** means a country, other than <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, that is a party to the Chicago Convention.<o:p></o:p>
+                    <a name="clear"></a>**_clear_**, in relation to the screening of people, vehicles or goods, has the meaning given by section 3AD.<o:p></o:p>
+
+                    <a name="contract-state"></a>**_Contracting State_** means a country, other than <st1:country-region><st1:place>Australia</st1:place></st1:country-region>, that is a party to the Chicago Convention.<o:p></o:p>
 
                     <a name="crew"></a>**_crew_**, in relation to an aircraft, includes every person having duties or functions on board the aircraft during the flight of the aircraft in connexion with the flying or safety of the aircraft.<o:p></o:p>
+
+                    <a name="domest-air-servic"></a>**_domestic air service_** means an air service provided by means of a flight from a place within <st1:country-region><st1:place>Australia</st1:place></st1:country-region> to another place within <st1:country-region><st1:place>Australia</st1:place></st1:country-region> with no intermediate stop outside <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.<o:p></o:p>
+
+                    <a name="emerg-oper-centr"></a>**_emergency operations centre_**, in relation to an airport, means the facility established at the airport for the purpose of co-ordinating the response to, or to a threat of, an unlawful interference with aviation.<o:p></o:p>
 
                     <a name="intern-airlin"></a>**_international airline_** means an air transport enterprise offering or operating an international air service.<o:p></o:p>
 
@@ -221,13 +391,17 @@ Attorney-General’s Department,
 
                     <a name="intern-air-servic"></a>**_international air service_** means an air service provided by means of a flight:<o:p></o:p>
 
-                     (a)  from a place within <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to a place outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                     (a)  from a place within <st1:country-region><st1:place>Australia</st1:place></st1:country-region> to a place outside <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
-                     (b)  from a place outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to a place within <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.<o:p></o:p>
+                     (b)  from a place outside <st1:country-region><st1:place>Australia</st1:place></st1:country-region> to a place within <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.<o:p></o:p>
 
                     <a name="non-schuled-flight"></a>**_non-scheduled flight_**, in relation to an aircraft, means a flight by the aircraft into or from Australian territory where the flight is not made under the authority of an international airline licence issued by the Secretary under the regulations.<o:p></o:p>
 
                     <a name="pilot-command"></a>**_pilot in command_**, in relation to an aircraft, means the pilot responsible for the operation and safety of the aircraft during the flight of the aircraft.<o:p></o:p>
+
+                    <a name="protect-servic-offic"></a>**_protective service officer_** means a protective service officer within the meaning of the _Australian Federal Police Act 1979_.<o:p></o:p>
+
+                    <a name="regular-public-transport-aircraft"></a>**_regular public transport aircraft_** means an aircraft engaged in a regular public transport operation.<o:p></o:p>
 
                     <a name="regular-public-transport-oper"></a>**_regular public transport operation_** means an operation of an aircraft for the purpose of an air service that:<o:p></o:p>
 
@@ -237,15 +411,31 @@ Attorney-General’s Department,
 
                      (c)  is available to the general public on a regular basis.<o:p></o:p>
 
+                    <a name="screen"></a>**_screen_** has the meaning given by section 3AD.<o:p></o:p>
+
+                    <a name="screen-author"></a>**_screening authority_** means a person appointed under section 21A to be a screening authority.<o:p></o:p>
+
+                    <a name="screen-offic"></a>**_screening officer_** means a person authorised or required to screen people, vehicles or goods under this Act.<o:p></o:p>
+
+                    <a name="screen-point"></a>**_screening point_** means a place (whether in an airport or not) where screening and clearance of people, vehicles or goods for the purposes of this Act are conducted.<o:p></o:p>
+
+                    <a name="secur-restrict-area"></a>**_security restricted area_**, in relation to an airport, means any part of the airport that is identified as a security restricted area in an airport security program prepared for the airport by the operator of the airport and approved by the Secretary under subsection 22ZD(1).<o:p></o:p>
+
                     <a name="state-aircraft"></a>**_state aircraft_** means:<o:p></o:p>
 
                      (a)  aircraft of any part of the Defence Force (including any aircraft that is commanded by a member of that Force in the course of his or her duties as such a member); and<o:p></o:p>
 
-                     (b)  aircraft used in the military, customs or police services of a country other than <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.<o:p></o:p>
+                     (b)  aircraft used in the military, customs or police services of a country other than <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.<o:p></o:p>
 
-                    <a name="air-transit-agreem"></a>**_the Air Transit Agreement_** means the International Air Services Transit Agreement concluded at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1944" day="7" month="12">7 December 1944</st1:date>.<o:p></o:p>
+                    <a name="steril-area"></a>**_sterile area_** means a place designated under section 21 as a sterile area.<o:p></o:p>
 
-                    <a name="convent"></a><a name="chicago"></a><a name=""></a>**_the_**<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Chicago_**</st1:place></st1:city>**_Convention_** means the Convention on International Civil Aviation concluded at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1944" day="7" month="12">7 December 1944</st1:date>.<o:p></o:p>
+                    <a name="termin-facil"></a>**_terminal facility_** means an area at an airport that is used to facilitate the movement of passengers onto or from an aircraft.<o:p></o:p>
+
+                    <a name="oper"></a><a name="termin-oper"></a>**_terminal operator_** or **_operator_**, in relation to a terminal facility, means a person who is responsible (whether alone or jointly with another person) for the day-to-day management of the whole, or a part, of the terminal facility.<o:p></o:p>
+
+                    <a name="air-transit-agreem"></a>**_the Air Transit Agreement_** means the International Air Services Transit Agreement concluded at <st1:city><st1:place>Chicago</st1:place></st1:city> on <st1:date month="12" day="7" year="1944">7 December 1944</st1:date>.<o:p></o:p>
+
+                    <a name="convent"></a><a name="chicago"></a><a name=""></a>**_the_**<st1:city><st1:place>**_Chicago_**</st1:place></st1:city>**_Convention_** means the Convention on International Civil Aviation concluded at <st1:city><st1:place>Chicago</st1:place></st1:city> on <st1:date month="12" day="7" year="1944">7 December 1944</st1:date>.<o:p></o:p>
 
                     <a name="intern-air-transport-associ"></a>**_the International Air Transport Association_** means the association incorporated under that name by Act 9-10 George VI., Chapter 51, of the Parliament of Canada.<o:p></o:p>
 
@@ -257,7 +447,29 @@ Attorney-General’s Department,
 
                     <a name="threaten"></a>**_threaten_** has the meaning given by section 3AA.<o:p></o:p>
 
+                    <a name="transceiv"></a>**_transceiver_** includes a mobile telephone.<o:p></o:p>
+
+                    <a name="uniformed-secur-forc"></a>**_uniformed security force_**, in relation to an airport, has the meaning given by section 3AF.<o:p></o:p>
+
+                    <a name="unlaw-interfer-aviat"></a>**_unlawful interference with aviation_** has the meaning given by section 3AE.<o:p></o:p>
+
+                    <a name="weapon"></a>**_weapon_** means:<o:p></o:p>
+
+                     (a)  a firearm of any kind; or<o:p></o:p>
+
+                     (b)  a thing stated in the regulations to be a weapon;<o:p></o:p>
+
+and includes a device that:<o:p></o:p>
+
+                     (c)  except for the absence of, or a defect in, a part of the device, would be a weapon of a kind mentioned in paragraph (a) or (b); or<o:p></o:p>
+
+                     (d)  is reasonably capable of being converted into a weapon of a kind mentioned in paragraph (a) or (b).<o:p></o:p>
+
              (2)  Any reference in this Act to a contravention of, or failure to comply with, a provision of this Act includes a reference to a contravention of, or failure to comply with, an instruction, direction, condition or requirement issued, given, made or imposed in pursuance of this Act.<o:p></o:p>
+
+##### <a id="3AA"></a>3AA  Meaning of _threaten_ <o:p></o:p>
+
+                   For the purposes of this Act, a person is taken to **_threaten_** to do an act if the person makes a statement, or does anything else, showing, or from which it could reasonably be inferred, that it is his or her intention to do the act.<o:p></o:p>
 
 ##### <a id="3AB"></a>3AB  Aircraft flights: when do they start?<o:p></o:p>
 
@@ -281,6 +493,86 @@ Attorney-General’s Department,
 
 the flight is, for the purposes of this Act, taken to end when the aircraft is destroyed, or the flight is abandoned, as the case may be.<o:p></o:p>
 
+##### <a id="3AD"></a>3AD  Screening and clearance <o:p></o:p>
+
+             (1)  A person or vehicle is, or goods are, **_screened_** for the purposes of this Act when a screening officer applies testing procedures to the person, vehicle or goods in order to detect the presence of any weapon that might be on the person, or in the vehicle or goods.<o:p></o:p>
+
+             (2)  The person or vehicle is, or goods are,**_cleared_** for the purposes of this Act if:<o:p></o:p>
+
+                     (a)  the screening has not revealed the presence of any weapon on the person or in the vehicle or goods; or<o:p></o:p>
+
+                     (b)  in respect of a screening that has revealed the presence of a weapon on the person or in the vehicle or goods—the weapon is surrendered to the screening officer.<o:p></o:p>
+
+##### <a id="3AE"></a>3AE  Meaning of unlawful interference with aviation<o:p></o:p>
+
+             (1)  In this Act, an **_unlawful interference with aviation_** is any of the following acts that is committed by a person without a lawful excuse:<o:p></o:p>
+
+                     (a)  seizing, or exercising control of, an aircraft by force, or threat of force, or any other form of intimidation;<o:p></o:p>
+
+                     (b)  committing, against a person on board an aircraft in flight, an act of violence that is likely to endanger the safety of the aircraft;<o:p></o:p>
+
+                     (c)  destroying an aircraft that is in service;<o:p></o:p>
+
+                     (d)  causing, to an aircraft in service, damage that:<o:p></o:p>
+
+                              (i)  renders the aircraft incapable of flight; or<o:p></o:p>
+
+                             (ii)  is likely to endanger its safety in flight;<o:p></o:p>
+
+                     (e)  placing, or causing to be placed, on board an aircraft in service a thing that is likely to:<o:p></o:p>
+
+                              (i)  destroy the aircraft; or<o:p></o:p>
+
+                             (ii)  render it incapable of flight; or<o:p></o:p>
+
+                            (iii)  endanger its safety in flight;<o:p></o:p>
+
+                      (f)  destroying or damaging any air navigation facilities, if the destruction or damage is likely to endanger the safety of an aircraft in flight;<o:p></o:p>
+
+                     (g)  interfering with the operation of any air navigation facilities, if the interference is likely to endanger the safety of an aircraft in flight;<o:p></o:p>
+
+                     (h)  communicating information that the person knows to be false, if the communication of the information endangers the safety of an aircraft in flight;<o:p></o:p>
+
+                      (i)  using a weapon or other thing to commit an act of violence against a person at an airport, if the act:<o:p></o:p>
+
+                              (i)  causes, or is likely to cause, serious injury or death; and<o:p></o:p>
+
+                             (ii)  endangers, or is likely to endanger, the safe operation of the airport or the safety of anyone at the airport;<o:p></o:p>
+
+                      (j)  using a weapon, or any other thing:<o:p></o:p>
+
+                              (i)  to destroy, or cause serious damage to, the facilities of an airport; or<o:p></o:p>
+
+                             (ii)  to destroy, or cause serious damage to, an aircraft that is not in service and is located within an airport; or<o:p></o:p>
+
+                            (iii)  to disrupt the operation of an airport;<o:p></o:p>
+
+                            if the use of the weapon or thing endangers, or is likely to endanger, the safe operation of the airport;<o:p></o:p>
+
+                     (k)  attempting to commit an act described in any of the above paragraphs.<o:p></o:p>
+
+             (2)  In this section:<o:p></o:p>
+
+                    <a name="flight"></a>**_in flight_**, in relation to an aircraft, has the same meaning as in Article 2 of the Montreal Convention.<o:p></o:p>
+
+                    <a name="servic"></a>**_in service_**, in relation to an aircraft, has the same meaning as in Article 2 of the Montreal Convention.<o:p></o:p>
+
+                    <a name="montreal-convent"></a>**_Montreal Convention_** means the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, ratified by <st1:country-region><st1:place>Australia</st1:place></st1:country-region> on <st1:date month="7" day="12" year="1973">12 July 1973</st1:date>, and whose English text is set out in Schedule 2 to the _Crimes (Aviation) Act 1991_.<o:p></o:p>
+
+##### <a id="3AF"></a>3AF  Uniformed security force<o:p></o:p>
+
+                   In this Act, a reference to a **_uniformed security force_** in relation to an airport is a reference to a group of people:<o:p></o:p>
+
+                     (a)  who are made available by a body (for example, the Australian Protective Service) to be engaged by the operator of the airport to patrol the airport in accordance with the directions of the operator of the airport; and<o:p></o:p>
+
+                     (b)  each of whom, when so patrolling the airport:<o:p></o:p>
+
+                              (i)  wears a uniform; and<o:p></o:p>
+
+                             (ii)  carries a firearm of a kind that is approved by the Secretary in writing for the purposes of this section; and<o:p></o:p>
+
+                            (iii)  carries a transceiver that enables him or her to communicate with other members of the body, the airport operator or the police force of the State or Territory in which the airport is located.<o:p></o:p>
+
 ##### <a id="3AG"></a>3AG  Application of the _Criminal Code_
 
                    Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences created by this Act.<o:p></o:p>
@@ -293,9 +585,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="3A"></a>3A  Approval of ratification of Chicago Convention etc.<o:p></o:p>
 
-             (1)  The ratification on behalf of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of the Chicago Convention is approved.<o:p></o:p>
+             (1)  The ratification on behalf of <st1:country-region><st1:place>Australia</st1:place></st1:country-region> of the Chicago Convention is approved.<o:p></o:p>
 
-             (2)  Approval is given to the ratification on behalf of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of:<o:p></o:p>
+             (2)  Approval is given to the ratification on behalf of <st1:country-region><st1:place>Australia</st1:place></st1:country-region> of:<o:p></o:p>
 
                      (a)  the Air Transit Agreement; and<o:p></o:p>
 
@@ -303,15 +595,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the Protocol amending Articles 48(a), 49(e) and 61 of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on 14 June 1954; and<o:p></o:p>
 
-                     (d)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1961" day="21" month="6">21 June 1961</st1:date>; and<o:p></o:p>
+                     (d)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date month="6" day="21" year="1961">21 June  1961</st1:date>; and<o:p></o:p>
 
-                     (e)  the Protocol amending Article 48(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1962" day="14" month="9">14 September 1962</st1:date>; and<o:p></o:p>
+                     (e)  the Protocol amending Article 48(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date month="9" day="14" year="1962">14 September  1962</st1:date>; and<o:p></o:p>
 
                       (f)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on 12 March 1971; and<o:p></o:p>
 
                      (g)  the Protocol amending Article 56 of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on 7 July 1971; and<o:p></o:p>
 
-                     (h)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="14" month="10">14 October 1974</st1:date>; and<o:p></o:p>
+                     (h)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date month="10" day="14" year="1974">14 October  1974</st1:date>; and<o:p></o:p>
 
                       (i)  the Protocol inserting in the Convention Article 83 bis, approved by the Assembly of the International Civil Aviation Organization on 6 October 1980; and<o:p></o:p>
 
@@ -319,9 +611,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (k)  the Protocol amending Article 56 of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on 6 October 1989; and<o:p></o:p>
 
-                      (l)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="26" month="10">26 October 1990</st1:date>.<o:p></o:p>
+                      (l)  the Protocol amending Article 50(a) of the Chicago Convention, approved by the Assembly of the International Civil Aviation Organization on <st1:date month="10" day="26" year="1990">26 October  1990</st1:date>.<o:p></o:p>
 
-##### <a id="4"></a>4  Texts of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> Convention etc. <o:p></o:p>
+##### <a id="4"></a>4  Texts of <st1:city><st1:place>Chicago</st1:place></st1:city> Convention etc. <o:p></o:p>
 
                    For the purposes of this Act, the texts of the Chicago Convention, the Air Transit Agreement and the Protocols referred to in section 3A shall be deemed to be the English texts set out respectively in Schedules 1, 2, 3, 4, 5, 6, 7, 8, 9, 9A, 10, 11 and 12.<o:p></o:p>
 
@@ -339,7 +631,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  Subject to such exceptions as are prescribed:<o:p></o:p>
 
-                     (a) an aircraft arriving in Australian territory from a place outside Australian territory shall land at an aerodrome designated as an international airport under section 9; and<o:p></o:p>
+                     (a)  an aircraft arriving in Australian territory from a place outside Australian territory shall land at an aerodrome designated as an international airport under section 9; and<o:p></o:p>
 
                      (b)  an aircraft departing from Australian territory for a place outside Australian territory shall take-off from an aerodrome so designated.<o:p></o:p>
 
@@ -353,7 +645,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="11"></a>11  Freedoms of the air<o:p></o:p>
 
-             (1)  Subject to section 12, a scheduled international air service conducted by an international airline of a country other than <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> that is a party to the Air Transit Agreement has, in respect of Australian territory, the following freedoms of the air:<o:p></o:p>
+             (1)  Subject to section 12, a scheduled international air service conducted by an international airline of a country other than <st1:country-region><st1:place>Australia</st1:place></st1:country-region> that is a party to the Air Transit Agreement has, in respect of Australian territory, the following freedoms of the air:<o:p></o:p>
 
                      (a)  the privilege to fly across Australian territory without landing; and<o:p></o:p>
 
@@ -395,11 +687,11 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 1948_.<o:p></o:p>
 
-                    <a name="australian-intern-airlin"></a>**_Australian international airline_** means an international airline (other than Qantas) that may be permitted to carry passengers or freight, or both passengers and freight, under a bilateral arrangement as an airline designated by <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to operate a scheduled international air service.<o:p></o:p>
+                    <a name="australian-intern-airlin"></a>**_Australian international airline_** means an international airline (other than Qantas) that may be permitted to carry passengers or freight, or both passengers and freight, under a bilateral arrangement as an airline designated by <st1:country-region><st1:place>Australia</st1:place></st1:country-region> to operate a scheduled international air service.<o:p></o:p>
 
                     <a name="australian-person"></a>**_Australian person_** means:<o:p></o:p>
 
-                     (a)  an individual who is an Australian citizen or is ordinarily resident in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                     (a)  an individual who is an Australian citizen or is ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
                      (b)  the Commonwealth, a State or a Territory; or<o:p></o:p>
 
@@ -423,7 +715,7 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="bilater-arrang"></a>**_bilateral arrangement_** means an agreement or arrangement between:<o:p></o:p>
 
-                     (a)  <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or an entity or organisation nominated or otherwise similarly authorised by <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to enter into the agreement or arrangement; and<o:p></o:p>
+                     (a)  <st1:country-region><st1:place>Australia</st1:place></st1:country-region>, or an entity or organisation nominated or otherwise similarly authorised by <st1:country-region><st1:place>Australia</st1:place></st1:country-region> to enter into the agreement or arrangement; and<o:p></o:p>
 
                      (b)  another country;<o:p></o:p>
 
@@ -543,21 +835,21 @@ Note:          A defendant bears an evidential burden in relat
 
                    The Minister may vary, suspend or cancel an international airline licence issued to an international airline if and only if:<o:p></o:p>
 
-                     (a)  the airline or any aircraft operated by the airline fails to comply with a provision of this Act, the regulations, the _Civil Aviation Act 1988_, the regulations made under that Act, the _Aviation Transport Security Act 2004_, the regulations made under that Act, or the terms of its licence;<o:p></o:p>
+                     (a)  the airline or any aircraft operated by the airline fails to comply with a provision of this Act, the regulations, the _Civil Aviation Act 1988_, the regulations made under that Act, or the terms of its licence;<o:p></o:p>
 
                      (b)  the airline fails to conform to, or comply with, any term or condition of the relevant agreement or arrangement referred to in section 12;<o:p></o:p>
 
                      (c)  in the opinion of the Minister:<o:p></o:p>
 
-                              (i)  the airline or an aircraft operated by the airline is likely to fail to comply with this Act, the regulations, the _Civil Aviation Act 1988_, the regulations made under that Act, the _Aviation Transport Security Act 2004_, the regulations made under that Act, or the terms of its licence; or<o:p></o:p>
+                              (i)  the airline or an aircraft operated by the airline is likely to fail to comply with this Act, the regulations, the _Civil Aviation Act 1988_, the regulations made under that Act, or the terms of its licence; or<o:p></o:p>
 
                              (ii)  adequate provision has not been made by the relevant authority to ensure that the airline and aircraft operated by the airline substantially conform to and comply with the standards, practices and procedures set out in the Chicago Convention and the Annexes to that Convention;<o:p></o:p>
 
-                            and, in the opinion of the Minister, the likely failure or the lack of provision is likely to affect the safety of air navigation in relation to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                            and, in the opinion of the Minister, the likely failure or the lack of provision is likely to affect the safety of air navigation in relation to <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
                      (d)  in the opinion of the Minister it is necessary or desirable to do so for the purpose of preserving or promoting fair competition in international air transport services.<o:p></o:p>
 
-##### <a id="14"></a>14  Non-scheduled flights by aircraft possessing nationality of a <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place><o:p></o:p>
+##### <a id="14"></a>14  Non-scheduled flights by aircraft possessing nationality of a <st1:place><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place><o:p></o:p>
 
                    An aircraft that possesses the nationality of a Contracting State may, subject to observance of the terms of the Chicago Convention and the provisions of this Act, the regulations, the _Civil Aviation Act 1988_ and the regulations made under that Act, fly in transit non-stop across Australian territory, or land in Australian territory for non-traffic purposes, in the course of a non-scheduled flight without the necessity of obtaining prior permission.
 
@@ -621,15 +913,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                               (i)  the need of people to travel on, or to send cargo and mail by, aircraft; and<o:p></o:p>
 
-                             (ii)  the promotion of trade and tourism to and from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and<o:p></o:p>
+                             (ii)  the promotion of trade and tourism to and from <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; and<o:p></o:p>
 
-                            (iii)  if the application relates to a program of flights to or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>—whether there is to be a wide range of places in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> that will be served under the program; and<o:p></o:p>
+                            (iii)  if the application relates to a program of flights to or from <st1:country-region><st1:place>Australia</st1:place></st1:country-region>—whether there is to be a wide range of places in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> that will be served under the program; and<o:p></o:p>
 
                             (iv)  if foreign interests hold substantial ownership and effective control of a charterer or a charter operator—employment and investment in, and general development of, the Australian Aviation industry; and<o:p></o:p>
 
                              (v)  aviation security; and<o:p></o:p>
 
-                            (vi)  <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s international relations;<o:p></o:p>
+                            (vi)  <st1:country-region><st1:place>Australia</st1:place></st1:country-region>’s international relations;<o:p></o:p>
 
                      (b)  the availability of capacity (within the meaning of the _International Air Services Commission Act 1992_) on scheduled international air services, and any relevant determination made by the International Air Services Commission in respect of the allocation of capacity on those services;<o:p></o:p>
 
@@ -745,15 +1037,15 @@ Note:          If a body corporate is convicted of an offence,
 
                               (i)  the need of people to travel on, or to send cargo and mail by, aircraft; and<o:p></o:p>
 
-                             (ii)  the promotion of trade and tourism to and from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and<o:p></o:p>
+                             (ii)  the promotion of trade and tourism to and from <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; and<o:p></o:p>
 
-                            (iii)  if the application relates to a program of flights to or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>—whether there is to be a wide range of places in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> that will be served under the program; and<o:p></o:p>
+                            (iii)  if the application relates to a program of flights to or from <st1:country-region><st1:place>Australia</st1:place></st1:country-region>—whether there is to be a wide range of places in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> that will be served under the program; and<o:p></o:p>
 
                             (iv)  if foreign interests hold substantial ownership and effective control of the charterer or the charter operator—employment and investment in, and general development of, the Australian Aviation industry; and<o:p></o:p>
 
                              (v)  aviation security; and<o:p></o:p>
 
-                            (vi)  <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s international relations;<o:p></o:p>
+                            (vi)  <st1:country-region><st1:place>Australia</st1:place></st1:country-region>’s international relations;<o:p></o:p>
 
                      (b)  the availability of capacity (within the meaning of the _International Air Services Commission Act 1992_) on scheduled international air services, and any relevant determination made by the International Air Services Commission in respect of the allocation of capacity on those services;<o:p></o:p>
 
@@ -863,7 +1155,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="18"></a>18  Publication of determinations<o:p></o:p>
 
-                   The Secretary must cause any determinations made under subsection<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>5A(3) and 17(1B) to be included in the Aeronautical Information Publications published under regulations made under the _Air Services Act 1995_.<o:p></o:p>
+                   The Secretary must cause any determinations made under subsection<st1:personname>s  1</st1:personname>5A(3) and 17(1B) to be included in the Aeronautical Information Publications published under regulations made under the _Air Services Act 1995_.<o:p></o:p>
 
 ##### <a id="19"></a>19  Carriage of munitions<o:p></o:p>
 
@@ -887,6 +1179,1848 @@ Note:          A defendant bears an evidential burden in relat
 
 <o:p> </o:p>
 
+## Part 3—Aviation security<o:p></o:p>
+
+### Division 1—Passengers and baggage etc.<o:p></o:p>
+
+##### <a id="20"></a>20  Screening of passengers and their possessions <o:p></o:p>
+
+             (1)  This section applies to an aircraft that is:<o:p></o:p>
+
+                     (a)  a regular public transport aircraft that:<o:p></o:p>
+
+                              (i)  is fitted to carry 100 or more passengers; and<o:p></o:p>
+
+                             (ii)  is not engaged in an international flight; or<o:p></o:p>
+
+                     (b)  a regular public transport aircraft that is engaged in an international flight; or<o:p></o:p>
+
+                     (c)  a charter aircraft that:<o:p></o:p>
+
+                              (i)  is fitted to carry 100 or more passengers; and<o:p></o:p>
+
+                             (ii)  is not engaged in an international flight; or<o:p></o:p>
+
+                     (d)  a charter aircraft that:<o:p></o:p>
+
+                              (i)  is fitted to carry 38 or more passengers; and<o:p></o:p>
+
+                             (ii)  is engaged in an international flight.<o:p></o:p>
+
+             (2)  The operator of an aircraft must not permit a passenger who has not been screened and cleared by the operator to board the aircraft.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+       (2AA)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2AA) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+          (2A)  A passenger must not board an aircraft unless the passenger has been screened and cleared by the operator of the aircraft to board the aircraft.<o:p></o:p>
+
+                    Penalty:  80 penalty units.<o:p></o:p>
+
+             (3)  For the purposes of subsections (2) and (2A), a person who:<o:p></o:p>
+
+                     (a)  has been screened and cleared at an Australian airport before embarking on an aircraft flight; and<o:p></o:p>
+
+                     (b)  has disembarked from the aircraft at an Australian airport; and<o:p></o:p>
+
+                     (c)  has not had an opportunity to make physical contact with a person who:<o:p></o:p>
+
+                              (i)  is required by this Division to be screened but has not been screened; or<o:p></o:p>
+
+                             (ii)  having been screened, has afterwards had an opportunity to make physical contact with a person of a kind referred to in this paragraph;<o:p></o:p>
+
+is taken to have been screened and cleared for the purpose of entering a sterile area in relation to another flight of that aircraft or a flight of another aircraft or for the purpose of boarding that aircraft or another aircraft.<o:p></o:p>
+
+          (3A)  For the purposes of subsections (2) and (2A), if a person boards an aircraft after leaving a sterile area at which the person has been screened and cleared, the person is taken to have been screened and cleared by the aircraft operator to board the aircraft if, between leaving the sterile area and boarding the aircraft, the person has not had an opportunity to make physical contact with another person who:<o:p></o:p>
+
+                     (a)  is required by this Division to be screened but has not been screened; or<o:p></o:p>
+
+                     (b)  having been screened, has afterwards had an opportunity to make physical contact with a person of a kind referred to in paragraph (a) or this paragraph.<o:p></o:p>
+
+             (4)  Subsections (2) and (2A) do not apply if:<o:p></o:p>
+
+                     (a)  the Secretary has exempted the passenger in writing from screening and clearance; or<o:p></o:p>
+
+                     (b)  the passenger is included in a class of people that the Secretary has exempted in writing from screening and clearance.<o:p></o:p>
+
+             (5)  The operator of an aircraft must not permit a passenger’s accompanying possessions that have not been screened and cleared by the operator to be brought on board the aircraft.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (5A)  Subsection (5) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (5A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (6)  Subsection (5) does not apply if:<o:p></o:p>
+
+                     (a)  the Secretary has exempted the possessions in writing from screening and clearance; or<o:p></o:p>
+
+                     (b)  the possessions are included in a class of items that the Secretary has exempted in writing from screening and clearance.<o:p></o:p>
+
+             (7)  An offence constituted by a contravention of subsection (2) or (5) is an offence of strict liability.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+##### <a id="20A"></a>20A  Screening by aircraft operators<o:p></o:p>
+
+             (1)  An aircraft operator screening people, vehicles or goods, other than at a sterile area, must do so:<o:p></o:p>
+
+                     (a)  in the manner and on the occasions that the Secretary directs in writing; and<o:p></o:p>
+
+                     (b)  by the use of people who meet any requirements in relation to qualification, training, experience or appropriate physical attributes that are determined by the Secretary in writing; and<o:p></o:p>
+
+                     (c)  by the use of equipment that conforms to, and is operated in accordance with, specifications determined by the Secretary in writing; and<o:p></o:p>
+
+                     (d)  by the use of areas, buildings or rooms reserved for the purposes of screening and clearance.<o:p></o:p>
+
+             (2)  An aircraft operator must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+             (3)  An aircraft operator must not permit a person, a vehicle or goods to pass a screening point that is not at a sterile area in order to enter an aircraft, if the screening equipment detects a metal or unidentified object that is on the person, or in the vehicle or goods, unless:<o:p></o:p>
+
+                     (a)  the operator is satisfied that the object is not a danger to aviation security; or<o:p></o:p>
+
+                     (b)  the object is surrendered to the operator.<o:p></o:p>
+
+             (4)  An aircraft operator must not contravene subsection (3).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+             (5)  Subject to subsections (6) and (7), an aircraft operator must ensure that passengers or intending passengers of the aircraft do not have an opportunity to make physical contact with another person who:<o:p></o:p>
+
+                     (a)  is required by this Division to be screened but has not been screened; or<o:p></o:p>
+
+                     (b)  having been screened, has afterwards had an opportunity to make physical contact with a person of a kind referred to in paragraph (a) or this paragraph.<o:p></o:p>
+
+             (6)  The requirement in subsection (5) applies in relation to a passenger or intending passenger who leaves a sterile area, having been screened and cleared at the sterile area, for the period beginning immediately after the passenger or intending passenger leaves the sterile area and ending when the passenger or intending passenger boards the aircraft.<o:p></o:p>
+
+             (7)  The requirement in subsection (5) applies in relation to a passenger or intending passenger who is not covered by subsection (6) for the period beginning immediately after the passenger or intending passenger is screened and cleared and ending when the passenger or intending passenger boards the aircraft.<o:p></o:p>
+
+             (8)  In spite of subsection (5), an aircraft operator is not required to ensure that passengers, or intending passengers, do not make physical contact with:<o:p></o:p>
+
+                     (a)  a person, vehicle or goods authorised in writing by the Secretary to be in an area used by those passengers or intending passengers; and<o:p></o:p>
+
+                     (b)  a person, vehicle or goods in a class of people, vehicles or goods that are authorised in writing by the Secretary to be in an area used by those passengers or intending passengers.<o:p></o:p>
+
+             (9)  An aircraft operator must not contravene subsection (5).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (9A)  Subsection (2), (4) or (9) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (9A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+           (10)  An offence constituted by a contravention of subsection (1), (3) or (5) is an offence of strict liability.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+##### <a id="21"></a>21  Designation of sterile areas<o:p></o:p>
+
+             (1)  The Secretary may, in writing, designate a place used to process passengers or intending passengers of aircraft to which section 20 applies as a sterile area.<o:p></o:p>
+
+             (2)  The place may be wholly or partly within or outside a terminal building.<o:p></o:p>
+
+             (3)  The Secretary may designate the place:<o:p></o:p>
+
+                     (a)  as a full-time sterile area; or<o:p></o:p>
+
+                     (b)  as a sterile area only during the period or periods specified in the designation (for example, during specified hours of each day).<o:p></o:p>
+
+             (4)  If the Secretary designates a place as a sterile area only during a particular period or periods, a reference in this Act to a sterile area is a reference to the place during the period or periods, as the case may be.<o:p></o:p>
+
+             (5)  The Secretary may designate the place subject to such conditions (if any) as are specified in the designation.<o:p></o:p>
+
+##### <a id="21A"></a>21A  Appointment of screening authorities<o:p></o:p>
+
+             (1)  If the Secretary designates a place as a sterile area, the Secretary may, in writing, appoint a person, or 2 or more persons jointly, to be the screening authority in respect of the area, or the part or parts of the area (including its perimeter or any part of its perimeter) specified in the appointment.<o:p></o:p>
+
+             (2)  The Secretary must make sufficient appointments under subsection (1) to ensure that at all times:<o:p></o:p>
+
+                     (a)  there is at least one screening authority in respect of the whole of the sterile area; or<o:p></o:p>
+
+                     (b)  if one or more screening authorities are appointed in relation to a part or parts of the area—there is at least one screening authority in respect of the remainder of the area.<o:p></o:p>
+
+             (3)  If a sterile area is wholly outside a terminal facility, the Secretary must not appoint a person to be a screening authority in respect of the area, or any part of it, unless:<o:p></o:p>
+
+                     (a)  the person is an operator of aircraft whose passengers or intending passengers are to use the area, or the part of the area; or<o:p></o:p>
+
+                     (b)  the person is an operator of a terminal facility that is contiguous to, or operationally connected with, the sterile area; or <o:p></o:p>
+
+                     (c)  if neither paragraph (a) nor (b) applies—the person has consented in writing to the appointment.<o:p></o:p>
+
+             (4)  If a sterile area is wholly or partly inside a terminal facility, the Secretary must not appoint a person to be a screening authority in respect of the area, or any part of it, unless:<o:p></o:p>
+
+                     (a)  the person is an operator of the terminal facility; or<o:p></o:p>
+
+                     (b)  the person is an operator of aircraft whose passengers or intending passengers are to use the area, or the part of the area; or<o:p></o:p>
+
+                     (c)  if neither paragraph (a) nor (b) applies—the person has consented in writing to the appointment.<o:p></o:p>
+
+##### <a id="21B"></a>21B  Maintenance of sterile areas<o:p></o:p>
+
+             (1)  The Secretary may give a screening authority written directions relating to the proper maintenance of the sterile area, or part of the sterile area, in respect of which the screening authority is appointed.<o:p></o:p>
+
+             (2)  A screening authority must not contravene a direction given to the authority under subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the authority has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence against subsection (2) is an offence of strict liability.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+##### <a id="21C"></a>21C  Screening at sterile areas<o:p></o:p>
+
+             (1)  A screening authority in respect of a sterile area, or part of a sterile area, must ensure that people, vehicles and goods do not enter the area or part of the area unless they:<o:p></o:p>
+
+                     (a)  have been screened and cleared for the purpose of entering the area; or<o:p></o:p>
+
+                     (b)  are exempted by the Secretary in writing from screening and clearance; or<o:p></o:p>
+
+                     (c)  are in a class of people, vehicles or goods exempted by the Secretary in writing from screening and clearance.<o:p></o:p>
+
+             (2)  A screening authority in respect of a sterile area, or part of a sterile area, must ensure that people, vehicles and goods do not remain in the area, or part of the area, unless they:<o:p></o:p>
+
+                     (a)  have been screened and cleared for the purpose of entering the area; or<o:p></o:p>
+
+                     (b)  are exempted by the Secretary in writing from screening and clearance; or<o:p></o:p>
+
+                     (c)  are in a class of people, vehicles or goods exempted by the Secretary in writing from screening and clearance.<o:p></o:p>
+
+             (3)  A screening authority must not contravene subsection (1) or (2).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the authority has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  An offence constituted by a contravention of subsection (1) or (2) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22"></a>22  Sterile areas and screening point: weapons<o:p></o:p>
+
+             (1)  A person must not carry a weapon through a screening point, or have a weapon in his or her possession in a sterile area, unless the person:<o:p></o:p>
+
+                     (a)  is a member of the Australian Federal Police, or of a police force of a State or Territory, who is on duty; or<o:p></o:p>
+
+                     (b)  is a member of a uniformed security force who is on duty; or<o:p></o:p>
+
+                     (c)  is permitted in writing by the Secretary to carry the weapon.<o:p></o:p>
+
+                    Penalty:  Imprisonment for 5 years.<o:p></o:p>
+
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment.<o:p></o:p>
+
+             (2)  If an authorised officer:<o:p></o:p>
+
+                     (a)  reasonably suspects that a person has carried a weapon through a screening point, or has a weapon in his or her possession in a sterile area, in contravention of subsection (1); and<o:p></o:p>
+
+                     (b)  does not think it appropriate to arrest the person;<o:p></o:p>
+
+the officer may request the person to leave the screening point or sterile area, as the case may be.<o:p></o:p>
+
+             (3)  If the person fails to comply with the request, section 22ZT has effect.<o:p></o:p>
+
+             (4)  In this section:<o:p></o:p>
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means:<o:p></o:p>
+
+                     (a)  a member of a uniformed security force who is on duty; or<o:p></o:p>
+
+                     (b)  a member of the Australian Federal Police, or of a police force of a State or Territory, who is on duty.<o:p></o:p>
+
+##### <a id="22A"></a>22A  Screening of people generally: sterile areas <o:p></o:p>
+
+             (1)  A person must not enter a sterile area unless:<o:p></o:p>
+
+                     (a)  the person has been screened and cleared for the purpose of entering the area; or<o:p></o:p>
+
+                     (b)  the Secretary has exempted the person in writing from screening and clearance; or<o:p></o:p>
+
+                     (c)  the person is included in a class of people that the Secretary has exempted in writing from screening and clearance.<o:p></o:p>
+
+                    Penalty:  80 penalty units.<o:p></o:p>
+
+             (2)  A person must not take a vehicle into a sterile area unless:<o:p></o:p>
+
+                     (a)  the person:<o:p></o:p>
+
+                              (i)  has been screened and cleared for the purpose of entering the sterile sarea; or<o:p></o:p>
+
+                             (ii)  has been exempted by the Secretary in writing from screening and clearance; or<o:p></o:p>
+
+                            (iii)  is included in a class of people that the Secretary has exempted in writing from screening and clearance; and<o:p></o:p>
+
+                     (b)  the vehicle:<o:p></o:p>
+
+                              (i)  has been screened and cleared for the purpose of entering the sterile area; or<o:p></o:p>
+
+                             (ii)  has been exempted by the Secretary in writing from screening and clearance; or<o:p></o:p>
+
+                            (iii)  is included in a class of vehicles that the Secretary has exempted in writing from screening and clearance.<o:p></o:p>
+
+                    Penalty:  80 penalty units.<o:p></o:p>
+
+             (3)  A person must not take goods into a sterile area unless:<o:p></o:p>
+
+                     (a)  the person:<o:p></o:p>
+
+                              (i)  has been screened and cleared for the purpose of entering the sterile area; or<o:p></o:p>
+
+                             (ii)  has been exempted by the Secretary in writing from screening and clearance; or<o:p></o:p>
+
+                            (iii)  is included in a class of people that the Secretary has exempted in writing from screening and clearance; and<o:p></o:p>
+
+                     (b)  the goods:<o:p></o:p>
+
+                              (i)  have been screened and cleared for the purpose of entering the sterile area; or<o:p></o:p>
+
+                             (ii)  have been exempted by the Secretary in writing from screening and clearance; or<o:p></o:p>
+
+                            (iii)  are included in a class of goods that the Secretary has exempted in writing from screening and clearance.<o:p></o:p>
+
+                    Penalty:  80 penalty units.<o:p></o:p>
+
+             (4)  For the purposes of subsections (1) to (3), a person who:<o:p></o:p>
+
+                     (a)  has been screened and cleared at an Australian airport before embarking on an aircraft flight; and<o:p></o:p>
+
+                     (b)  has disembarked from the aircraft at an Australian airport; and<o:p></o:p>
+
+                     (c)  has not had an opportunity to make physical contact with a person who:<o:p></o:p>
+
+                              (i)  is required by this Division to be screened but has not been screened; or<o:p></o:p>
+
+                             (ii)  having been screened, has afterwards had an opportunity to make physical contact with a person of a kind referred to in this paragraph;<o:p></o:p>
+
+is taken to have been screened and cleared for the purpose of entering a sterile area in relation to another flight of that aircraft or a flight of another aircraft or for the purpose of boarding that aircraft or another aircraft.<o:p></o:p>
+
+             (5)  A screening authority screening people, goods or vehicles must do so:<o:p></o:p>
+
+                     (a)  in the manner and on the occasions that the Secretary directs in writing; and<o:p></o:p>
+
+                     (b)  by the use of people who meet any requirements in relation to qualification, training, experience or appropriate physical attributes that are determined by the Secretary in writing; and<o:p></o:p>
+
+                     (c)  by the use of equipment that conforms to, and is operated in accordance with, specifications determined by the Secretary in writing; and<o:p></o:p>
+
+                     (d)  by the use of areas, buildings or rooms reserved for the purposes of screening and clearance.<o:p></o:p>
+
+             (6)  A screening authority must not contravene subsection (5).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (6A)  A screening authority in respect of a sterile area, or a part of a sterile area that includes a screening point, must not permit a person, a vehicle or goods to pass the screening point to enter the sterile area if the screening equipment detects a metal or unidentified object that is on the person, or in the vehicle or goods, unless:<o:p></o:p>
+
+                     (a)  the screening authority is satisfied that the object is not a danger to aviation security; or<o:p></o:p>
+
+                     (b)  the object is surrendered to the screening authority.<o:p></o:p>
+
+             (7)  If a screening authority is an aircraft operator, the operator must not permit a person, a vehicle or goods to enter an aircraft of the operator if the screening equipment detects a metal or unidentified object that is on the person, or in the vehicle or goods, unless:<o:p></o:p>
+
+                     (a)  the operator is satisfied that the object is not a danger to aviation security; or<o:p></o:p>
+
+                     (b)  the object is surrendered to the operator.<o:p></o:p>
+
+             (8)  A screening authority must not contravene subsection (6A) or (7).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+             (9)  Subject to subsection (11), a screening authority in respect of a sterile area, or part of a sterile area, must ensure that persons who are in the area or part of the area do not have an opportunity to make physical contact with another person who:<o:p></o:p>
+
+                     (a)  is required by this Division to be screened but has not been screened; or<o:p></o:p>
+
+                     (b)  having been screened, has afterwards had an opportunity to make physical contact with a person of a kind referred to in paragraph (a) or this paragraph.<o:p></o:p>
+
+           (11)  In spite of subsection (9), a screening authority is not required to ensure that passengers, or intending passengers, do not make physical contact with:<o:p></o:p>
+
+                     (a)  a person, vehicle or goods authorised in writing by the Secretary to be in an area used by those passengers or intending passengers; and<o:p></o:p>
+
+                     (b)  a person, vehicle or goods in a class of people, vehicles or goods that are authorised in writing by the Secretary to be in an area used by those passengers or intending passengers.<o:p></o:p>
+
+           (12)  A screening authority must not contravene subsection (9).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+        (12A)  Subsection (6), (8) or (12) does not apply if the authority has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (12A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+           (13)  An offence constituted by a contravention of subsection (5), (6A), (7) or (9) is an offence of strict liability.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+##### <a id="22B"></a>22B  Screening officer has no power to remove person’s clothing <o:p></o:p>
+
+             (1)  A screening officer screening a person may request the person to remove any of the person’s headwear, handwear, footwear and outer clothing for the purposes of the screening.<o:p></o:p>
+
+             (2)  If:<o:p></o:p>
+
+                     (a)  the person refuses to comply with the request; and<o:p></o:p>
+
+                     (b)  as a result of the refusal, the screening officer is unable to screen and clear the person;<o:p></o:p>
+
+the screening officer may refuse to permit the person to enter a sterile area and, if the screening officer is an aircraft operator, may refuse to permit the person to enter an aircraft of the operator.<o:p></o:p>
+
+             (3)  A screening officer screening a person must not:<o:p></o:p>
+
+                     (a)  subject to subsections (1) and (2), require the person to remove any of the person’s clothing; or<o:p></o:p>
+
+                     (b)  remove or cause the removal of any of the person’s clothing.<o:p></o:p>
+
+             (4)  A screening officer must not contravene subsection (3).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (4A)  Subsection (4) does not apply if the officer has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (5)  An offence constituted by a contravention of subsection (3) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22C"></a>22C  Carriage of baggage<o:p></o:p>
+
+             (1)  This section applies to an aircraft that is:<o:p></o:p>
+
+                     (a)  a regular public transport aircraft; or<o:p></o:p>
+
+                     (b)  a charter aircraft;<o:p></o:p>
+
+that is fitted to carry 38 or more passengers.<o:p></o:p>
+
+             (2)  The operator of an aircraft must not accept baggage for carriage on board the aircraft for a person who fails or refuses to provide to the operator his or her ticket or other authorisation for travel on that aircraft.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+             (3)  Subsection (2) does not apply if the Secretary has directed in writing that:<o:p></o:p>
+
+                     (a)  the aircraft; or<o:p></o:p>
+
+                     (b)  a class of aircraft that includes the aircraft; or<o:p></o:p>
+
+                     (c)  the baggage; or<o:p></o:p>
+
+                     (d)  a class of baggage that includes the baggage;<o:p></o:p>
+
+is exempt from the operation of that subsection.<o:p></o:p>
+
+             (4)  The operator of an aircraft must not fail to ensure that a tag indicating the flight number and destination of the aircraft is securely attached to each item of baggage accepted by the operator for carriage on board the aircraft.<o:p></o:p>
+
+                    Penalty:  20 penalty units.<o:p></o:p>
+
+             (5)  The operator of an aircraft must not allow baggage accepted by the operator for carriage on board the aircraft to be accessible by a person other than the operator before the completion of the flight.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+             (6)  The operator of an aircraft must determine, before the aircraft starts a flight, whether a person whose baggage has been accepted for carriage in the aircraft:<o:p></o:p>
+
+                     (a)  has disembarked from the aircraft; or<o:p></o:p>
+
+                     (b)  has not boarded the aircraft.<o:p></o:p>
+
+             (7)  An aircraft operator must not contravene subsection (6).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+             (8)  Subject to subsections (10) and (11), if a person whose baggage has been accepted by an aircraft operator to be carried on board an aircraft:<o:p></o:p>
+
+                     (a)  has disembarked from the aircraft; or<o:p></o:p>
+
+                     (b)  has not boarded the aircraft;<o:p></o:p>
+
+the operator of the aircraft must remove the baggage from the aircraft before the aircraft starts a flight.<o:p></o:p>
+
+             (9)  An aircraft operator must not contravene subsection (8).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+           (10)  Subsection (8) does not apply if:<o:p></o:p>
+
+                     (a)  the Secretary has directed in writing that:<o:p></o:p>
+
+                              (i)  the aircraft; or<o:p></o:p>
+
+                             (ii)  a class of aircraft that includes the aircraft; or<o:p></o:p>
+
+                            (iii)  the baggage; or<o:p></o:p>
+
+                            (iv)  a class of baggage that includes the baggage;<o:p></o:p>
+
+                            is exempt from the operation of that subsection; or<o:p></o:p>
+
+                     (b)  the person is intentionally prevented by the operator from entering or remaining in the aircraft and the operator reasonably believes that the baggage is unlikely to represent a danger to people on board the aircraft; or<o:p></o:p>
+
+                     (c)  the person died before boarding the aircraft; or<o:p></o:p>
+
+                     (d)  the person died after boarding the aircraft and the body of the person has been removed from the aircraft; or<o:p></o:p>
+
+                     (e)  the person has disembarked from the aircraft during an unscheduled landing of the aircraft that is for safety or other operational purposes; or<o:p></o:p>
+
+                      (f)  the person has disembarked from the aircraft or has not boarded the aircraft because the person travels in another aircraft at the offer of the operator.<o:p></o:p>
+
+           (11)  Subsection (8) does not apply to a person’s baggage that is on board an aircraft if:<o:p></o:p>
+
+                     (a)  the person has boarded another aircraft, whether an aircraft of the operator or another operator; and<o:p></o:p>
+
+                     (b)  the baggage was placed on the first-mentioned aircraft because of an inadvertent act or omission of an aircraft operator; and<o:p></o:p>
+
+                     (c)  the placing of the baggage on the first-mentioned aircraft was not caused or contributed to by anything done by the person.<o:p></o:p>
+
+        (11A)  Subsection (2), (4), (5), (7) or (9) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (11A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+           (12)  An offence constituted by a contravention of this section is an offence of strict liability.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+##### <a id="22D"></a>22D  Carriage of weapons on aircraft<o:p></o:p>
+
+             (1)  A person on board a charter aircraft or a regular transport aircraft (whether during a flight or not) must not:<o:p></o:p>
+
+                     (a)  carry a weapon; or<o:p></o:p>
+
+                     (b)  otherwise have in his or her possession a weapon that is located at a place in the aircraft that is accessible to the person.<o:p></o:p>
+
+                    Penalty:  Imprisonment for 7 years.<o:p></o:p>
+
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose in respect of an offence an appropriate fine instead of, or in addition to, a term of imprisonment.<o:p></o:p>
+
+             (2)  Subsection (1) does not apply in relation to a weapon that:<o:p></o:p>
+
+                     (a)  is carried on board the aircraft in accordance with a written direction or permission of the Secretary; or<o:p></o:p>
+
+                     (b)  is carried:<o:p></o:p>
+
+                              (i)  because an animal that could endanger the safety of the aircraft, or the safety of people on board the aircraft, is being carried on board the aircraft; and<o:p></o:p>
+
+                             (ii)  under the control of the pilot in command of the aircraft; or<o:p></o:p>
+
+                     (c)  forms part of the equipment of the aircraft in accordance with the operations manual for the aircraft.<o:p></o:p>
+
+             (3)  If a direction or permission under paragraph (2)(a) sets out conditions under which, or the manner in which, the weapon is to be carried on board the aircraft, the operator of the aircraft must ensure that the weapon is carried on board the aircraft in accordance with the direction or permission.<o:p></o:p>
+
+             (4)  An aircraft operator must not contravene subsection (3).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (4A)  Subsection (4) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (5)  An offence constituted by a contravention of subsection (3) is an offence of strict liability.<o:p></o:p>
+
+             (6)  If an authorised officer:<o:p></o:p>
+
+                     (a)  reasonably suspects that a person on board an aircraft is carrying a weapon, or otherwise has a weapon in his or her possession, in contravention of subsection (1); and<o:p></o:p>
+
+                     (b)  does not think it appropriate to arrest the person;<o:p></o:p>
+
+the officer may request the person to leave the aircraft before the aircraft starts a flight.<o:p></o:p>
+
+             (7)  If the person fails to comply with the request, section 22ZT has effect.<o:p></o:p>
+
+             (8)  In this section:<o:p></o:p>
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means:<o:p></o:p>
+
+                     (a)  a member of a uniformed security force who is on duty; or<o:p></o:p>
+
+                     (b)  a member of the Australian Federal Police, or of a police force of a State or Territory, who is on duty.<o:p></o:p>
+
+Note:          Carriage of weapons on an aircraft is also subject to provisions in the _Civil Aviation Act 1988_ and _Crimes (Aviation) Act 1991_.<o:p></o:p>
+
+<o:p> </o:p>
+
+### Division 2—Report of unlawful interference with aviation etc.<o:p></o:p>
+
+##### <a id="22E"></a>22E  Definitions<o:p></o:p>
+
+                   In this Division, unless the contrary intention appears:<o:p></o:p>
+
+                    <a name="employe"></a>**_employee_**, in relation to an employer, means:<o:p></o:p>
+
+                     (a)  a person employed by the employer; or<o:p></o:p>
+
+                     (b)  a person engaged under a contract for services between the person and the employer.<o:p></o:p>
+
+                    <a name="employ"></a>**_employer_** means:<o:p></o:p>
+
+                     (a)  an aircraft operator; or<o:p></o:p>
+
+                     (b)  an airport operator; or<o:p></o:p>
+
+                     (c)  a person to whom a lease or licence has been granted in respect of land within an airport; or<o:p></o:p>
+
+                     (d)  a person to whom a right has been granted to use an area or a building, or a part of a building, at an airport.<o:p></o:p>
+
+##### <a id="22F"></a>22F  Report of threat of unlawful interference with aviation
+ etc.—employees<o:p></o:p>
+
+             (1)  An employee who becomes aware of:<o:p></o:p>
+
+                     (a)  a threat of an unlawful interference with aviation; or<o:p></o:p>
+
+                     (b)  an unlawful interference with aviation;<o:p></o:p>
+
+must, as soon as possible, report the threat or interference, as the case may be, to his or her employer.<o:p></o:p>
+
+             (2)  An employee must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the employee has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22G"></a>22G  Report of threat of unlawful interference with aviation 
+ etc.—aircraft operator<o:p></o:p>
+
+             (1)  An aircraft operator who becomes aware of:<o:p></o:p>
+
+                     (a)  a threat of an unlawful interference with aviation; or<o:p></o:p>
+
+                     (b)  an unlawful interference with aviation;<o:p></o:p>
+
+must, as soon as possible, report the threat or interference, as the case may be, to:<o:p></o:p>
+
+                     (c)  if it relates to an airport—the operator of the airport; and<o:p></o:p>
+
+                     (d)  if it relates to an aircraft of another operator—the other operator; and<o:p></o:p>
+
+                     (e)  if it relates to an aircraft of the operator:<o:p></o:p>
+
+                              (i)  the Department; and<o:p></o:p>
+
+                             (ii)  the Australian Federal Police or the police force of a State or Territory; and<o:p></o:p>
+
+                      (f)  if it is an interference with aviation that relates to an aircraft of the operator in flight—Airservices <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; and<o:p></o:p>
+
+                     (g)  if it is an interference with aviation that relates to an aircraft of the operator that is in an airport—the operator of the airport.<o:p></o:p>
+
+             (2)  If:<o:p></o:p>
+
+                     (a)  an aircraft operator becomes aware of a threat of unlawful interference with aviation; and<o:p></o:p>
+
+                     (b)  the threat relates to an aircraft of the operator; and<o:p></o:p>
+
+                     (c)  either:<o:p></o:p>
+
+                              (i)  the operator assesses the threat and decides that the threat is credible; or<o:p></o:p>
+
+                             (ii)  for whatever reason, the operator is unable to determine whether the threat is credible;<o:p></o:p>
+
+the operator must, as soon as possible, report the threat to:<o:p></o:p>
+
+                     (d)  Airservices Australia; and<o:p></o:p>
+
+                     (e)  if the aircraft is on an airport—the operator of the airport.<o:p></o:p>
+
+             (3)  An aircraft operator must not contravene subsection (1) or (2).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  An offence constituted by a contravention of this section is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22H"></a>22H  Report of threat etc.—airport operator<o:p></o:p>
+
+             (1)  The operator of an airport who becomes aware of:<o:p></o:p>
+
+                     (a)  a threat of an unlawful interference with aviation; or<o:p></o:p>
+
+                     (b)  an unlawful interference with aviation;<o:p></o:p>
+
+must, as soon as soon as possible, report the threat or interference, as the case may be, to:<o:p></o:p>
+
+                     (c)  if it relates to an aircraft—the operator of the aircraft; and<o:p></o:p>
+
+                     (d)  if it relates to an airport of another airport operator—the other airport operator; and<o:p></o:p>
+
+                     (e)  if it relates to an airport of the operator:<o:p></o:p>
+
+                              (i)  the Department; and<o:p></o:p>
+
+                             (ii)  the Australian Federal Police or the police force of a State or Territory; and<o:p></o:p>
+
+                      (f)  if it relates to an area or part of an airport of the operator for which a lease or licence has been granted to another person—the other person.<o:p></o:p>
+
+             (2)  For the purposes of subsection (1), the operator is not required to report under paragraph (1)(f) if the threat or unlawful interference:<o:p></o:p>
+
+                     (a)  relates to the airport in general; and<o:p></o:p>
+
+                     (b)  is not specifically directed at the area or part of the airport for which the lease or licence has been granted.<o:p></o:p>
+
+             (3)  An airport operator must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22J"></a>22J  Report of threat etc.—other people<o:p></o:p>
+
+             (1)  This section applies to the following people:<o:p></o:p>
+
+                     (a)  an employee of the Department;<o:p></o:p>
+
+                     (b)  an employee of Airservices <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;<o:p></o:p>
+
+                     (c)  a member of the Australian Federal Police or of the police force of a State or Territory on duty at an airport;<o:p></o:p>
+
+                     (d)  a member of a uniformed security force on duty at an airport;<o:p></o:p>
+
+                     (e)  a person (other than an aircraft operator or airport operator) to whom a lease or licence has been granted in respect of land within an airport;<o:p></o:p>
+
+                      (f)  a person (other than an aircraft operator or airport operator) to whom a right has been granted to use an area at an airport.<o:p></o:p>
+
+             (2)  A person to whom this section applies who becomes aware of:<o:p></o:p>
+
+                     (a)  a threat of an unlawful interference with aviation; or<o:p></o:p>
+
+                     (b)  an unlawful interference with aviation;<o:p></o:p>
+
+must, as soon as possible, report the threat or interference to:<o:p></o:p>
+
+                     (c)  if it relates to an aircraft—the operator of the aircraft; and<o:p></o:p>
+
+                     (d)  if it relates to an airport—the operator of the airport.<o:p></o:p>
+
+             (3)  A person must not contravene subsection (2).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the person has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  An offence constituted by a contravention of subsection (2) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22K"></a>22K  Report must comply with certain requirements<o:p></o:p>
+
+             (1)  The Secretary may, by notice published in the _Gazette_, set out:<o:p></o:p>
+
+                     (a)  information that must be included in a report that is required to be made to a person under a provision of this Division; or<o:p></o:p>
+
+                     (b)  the manner in which the report must be made to the person.<o:p></o:p>
+
+             (2)  A notice under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.<o:p></o:p>
+
+             (3)  If requirements set out under subsection (1) are in force in relation to a report required to be made to a person under a provision of this Division, a report is taken not to have been made to the person under the provision unless it complies with the requirements.<o:p></o:p>
+
+##### <a id="22L"></a>22L  False or misleading reports<o:p></o:p>
+
+             (1)  A person must not make a report under this Division that is false or misleading in a material particular.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (1A)  Subsection (1) does not apply if the person has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (2)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+<o:p> </o:p>
+
+### Division 3—Aviation security programs<o:p></o:p>
+
+##### <a id="22M"></a>22M  Application<o:p></o:p>
+
+                   This Division applies to the following air services:<o:p></o:p>
+
+                     (a)  an international air service by regular public transport operations;<o:p></o:p>
+
+                     (b)  an international air service by charter operations;<o:p></o:p>
+
+                     (c)  a domestic air service by regular public transport operations using aircraft fitted to carry 38 or more passengers.<o:p></o:p>
+
+##### <a id="22N"></a>22N  Definitions<o:p></o:p>
+
+                   In this Division:<o:p></o:p>
+
+                    <a name="approved-program"></a>**_approved program_** means an aviation security program in respect of which the Secretary’s approval under section 22R is in force, and includes such a program as varied under section 22U or 22V.<o:p></o:p>
+
+                    <a name="aviat-secur-program"></a>**_aviation security program_** has the meaning given by section 22P.<o:p></o:p>
+
+                    <a name="program-purpos"></a>**_program purposes_**, in relation to a proposed program or an approved program means the purposes referred to in paragraphs 22P(1)(a) to (j).<o:p></o:p>
+
+                    <a name="propos-program"></a>**_proposed program_** means a proposed aviation security program prepared under section 22Q.<o:p></o:p>
+
+##### <a id="22P"></a>22P  Aviation security program<o:p></o:p>
+
+             (1)  For the purposes of this Division, an **_aviation security program_** of an aircraft operator is a program that describes the equipment to be used, and sets out the procedures to be followed, by the operator for each of the following purposes in relation to aircraft operated by the operator:<o:p></o:p>
+
+                     (a)  preventing the unlawful carriage on an aircraft of the operator of:<o:p></o:p>
+
+                              (i)  any weapon; or<o:p></o:p>
+
+                             (ii)  any other thing that may endanger the safety of the aircraft or of any people or property on board the aircraft;<o:p></o:p>
+
+                     (b)  preventing any person from having unlawful access to an aircraft;<o:p></o:p>
+
+                     (c)  ensuring that all baggage, mail, cargo, equipment, goods or any other articles are accepted to be taken on board an aircraft only by:<o:p></o:p>
+
+                              (i)  an employee of the operator; or<o:p></o:p>
+
+                             (ii)  an agent or representative duly authorised by the operator;<o:p></o:p>
+
+                     (d)  preventing baggage, mail, cargo, equipment, goods and any other articles from being taken on board an aircraft except in accordance with security procedures set out in the program;<o:p></o:p>
+
+                     (e)  protecting an aircraft and people and property on board an aircraft when there is reason to believe that a danger exists to the aircraft or to the people or property;<o:p></o:p>
+
+                      (f)  carrying a weapon on board an aircraft in a secure manner under paragraph 22D(2)(a);<o:p></o:p>
+
+                     (g)  carrying on board an aircraft in a secure manner a person who is in lawful custody;<o:p></o:p>
+
+                     (h)  responding to threats of unlawful interference with aviation in relation to:<o:p></o:p>
+
+                              (i)  an aircraft; and<o:p></o:p>
+
+                             (ii)  the air service conducted or offered to be conducted by the operator;<o:p></o:p>
+
+                      (i)  reporting:<o:p></o:p>
+
+                              (i)  threats of an unlawful interference with aviation; and<o:p></o:p>
+
+                             (ii)  an unlawful interference with aviation;<o:p></o:p>
+
+                            under this Act;<o:p></o:p>
+
+                      (j)  responding to an unlawful interference with aviation against an aircraft.<o:p></o:p>
+
+             (2)  The reference in subsection (1) to the equipment and procedures includes a reference to equipment to be used, and procedures to be followed, by the operator:<o:p></o:p>
+
+                     (a)  at an airport at which an aircraft of the operator lands; and<o:p></o:p>
+
+                     (b)  on board such an aircraft while it is at an airport.<o:p></o:p>
+
+             (3)  If the program relates to an international air service, the reference in subsection (1) to the equipment and procedures includes a reference to equipment to be used, and procedures to be followed, by the operator:<o:p></o:p>
+
+                     (a)  on board an aircraft of the operator while it is in flight to or from <st1:country-region><st1:place>Australia</st1:place></st1:country-region>, or within <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
+
+                     (b)  in respect of an aircraft that is in flight to <st1:country-region><st1:place>Australia</st1:place></st1:country-region>—at the place outside <st1:country-region><st1:place>Australia</st1:place></st1:country-region> at which the aircraft:<o:p></o:p>
+
+                              (i)  last lands; or<o:p></o:p>
+
+                             (ii)  last takes on board passengers or baggage, mail, equipment, cargo, goods or any other articles;<o:p></o:p>
+
+                            before the flight.<o:p></o:p>
+
+##### <a id="22Q"></a>22Q  Preparation and submission of proposed aviation security program<o:p></o:p>
+
+                   An aircraft operator who proposes to conduct or offers to conduct an air service may prepare in writing, and submit to the Secretary for approval, a proposed aviation security program.<o:p></o:p>
+
+##### <a id="22R"></a>22R  Approval or rejection of proposed program<o:p></o:p>
+
+             (1)  If the Secretary is satisfied that a proposed program submitted by an aircraft operator is adequate for each of the program purposes, the Secretary must approve the program by giving written notice of the approval to the aircraft operator.<o:p></o:p>
+
+             (2)  Subject to section 22U, if the Secretary is not satisfied that a proposed program submitted by an aircraft operator is adequate for each of those purposes, the Secretary must refuse to approve the program by giving written notice of the refusal to the aircraft operator.<o:p></o:p>
+
+             (3)  An aviation security program in respect of which an approval under the regulations was in force immediately before the commencement of this section is taken to have been approved under subsection (1).<o:p></o:p>
+
+##### <a id="22S"></a>22S  Start and duration of approved program<o:p></o:p>
+
+             (1)  An approved program comes into force:<o:p></o:p>
+
+                     (a)  unless paragraph (b) applies—on the day on which it is approved; or<o:p></o:p>
+
+                     (b)  if a later day is stated in the notice of approval—on the later day.<o:p></o:p>
+
+             (2)  The approval of an aviation security program remains in force until the approval is cancelled under section 22T or subsection 22U(4).<o:p></o:p>
+
+##### <a id="22T"></a>22T  Cancellation of approval of program<o:p></o:p>
+
+                   If, at any time, the Secretary is satisfied that:<o:p></o:p>
+
+                     (a)  an approved program is not adequate for any one or more of the program purposes; and<o:p></o:p>
+
+                     (b)  action to vary the program under section 22U is not appropriate;<o:p></o:p>
+
+the Secretary must cancel the approval by giving written notice of the cancellation to the aircraft operator who submitted the program.<o:p></o:p>
+
+##### <a id="22U"></a>22U  Direction to vary program<o:p></o:p>
+
+             (1)  If the Secretary is satisfied that a proposed program or an approved program is not adequate for any one or more of the program purposes, the Secretary may, by written notice given to the aircraft operator who submitted the program, direct the operator to vary the program.<o:p></o:p>
+
+             (2)  The Secretary must not give a direction in relation to a program purpose unless the Secretary is satisfied that the variation will make the program adequate for that program purpose.<o:p></o:p>
+
+             (3)  In the notice, the Secretary must:<o:p></o:p>
+
+                     (a)  set out the variation; and<o:p></o:p>
+
+                     (b)  state the time within which the aircraft operator must submit a revised program incorporating the variation to the Secretary for approval.<o:p></o:p>
+
+             (4)  If the aircraft operator fails to comply with the direction within the stated time, the Secretary must:<o:p></o:p>
+
+                     (a)  refuse to approve the proposed program; or<o:p></o:p>
+
+                     (b)  cancel the approval of the approved program;<o:p></o:p>
+
+as the case requires, by giving written notice of the refusal or cancellation, as the case may be, to the aircraft operator.<o:p></o:p>
+
+##### <a id="22V"></a>22V  Review of program by operator<o:p></o:p>
+
+             (1)  An aircraft operator may, at any time, review an approved program prepared by the aircraft operator.<o:p></o:p>
+
+             (2)  In reviewing the approved program, the aircraft operator may have regard to:<o:p></o:p>
+
+                     (a)  developments, whether in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or overseas, in relation to:<o:p></o:p>
+
+                              (i)  the equipment used; and<o:p></o:p>
+
+                             (ii)  the procedures followed;<o:p></o:p>
+
+                            in relation to aviation security; and<o:p></o:p>
+
+                     (b)  experience gained in relation to aviation security, whether in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or overseas, by other aircraft operators.<o:p></o:p>
+
+             (3)  If the aircraft operator is satisfied that:<o:p></o:p>
+
+                     (a)  the approved program is no longer adequate for any one or more of the program purposes; or<o:p></o:p>
+
+                     (b)  the effectiveness of the program for those purposes could be substantially improved;<o:p></o:p>
+
+the operator may prepare in writing, and submit to the Secretary for approval, proposals for any variation of the program that the operator thinks necessary.<o:p></o:p>
+
+             (4)  If the Secretary is satisfied that the program, when varied as proposed, will:<o:p></o:p>
+
+                     (a)  be a program adequate for each of the program purposes; or<o:p></o:p>
+
+                     (b)  be substantially more effective for those purposes;<o:p></o:p>
+
+the Secretary must approve the proposals by giving written notice of the approval to the aircraft operator.<o:p></o:p>
+
+             (5)  If the Secretary is not so satisfied, the Secretary must refuse to approve the proposals by giving written notice of the refusal to the aircraft operator.<o:p></o:p>
+
+##### <a id="22W"></a>22W  Offence—international air service by regular public transport operations<o:p></o:p>
+
+             (1)  Subject to subsection (2), an aircraft operator must not conduct an international air service by regular public transport operations unless:<o:p></o:p>
+
+                     (a)  an approved program is in force in relation to the operator; and<o:p></o:p>
+
+                     (b)  in conducting the service, the operator complies with the program in relation to:<o:p></o:p>
+
+                              (i)  an aircraft used in the service; and<o:p></o:p>
+
+                             (ii)  any person or thing on board the aircraft.<o:p></o:p>
+
+             (2)  Subsection (1) only applies in respect of an aircraft while it:<o:p></o:p>
+
+                     (a)  flies over Australian territory; or<o:p></o:p>
+
+                     (b)  lands at, takes off from, or otherwise is situated at, an airport in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.<o:p></o:p>
+
+             (3)  An aircraft operator must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22X"></a>22X  Offence—international air service by charter operations<o:p></o:p>
+
+             (1)  Subject to subsection (3), an aircraft operator must not conduct an international air service by charter operations unless:<o:p></o:p>
+
+                     (a)  an approved program is in force in relation to the operator, or the operator has adopted an approved program of another operator in accordance with subsection (2); and<o:p></o:p>
+
+                     (b)  in conducting the service, the operator complies with the program in relation to:<o:p></o:p>
+
+                              (i)  an aircraft used in the service; and<o:p></o:p>
+
+                             (ii)  any person or thing on board the aircraft.<o:p></o:p>
+
+             (2)  For the purposes of subsection (1), an aircraft operator adopts an approved program of another operator if:<o:p></o:p>
+
+                     (a)  the other operator has consented in writing to the adoption of the program by the first-mentioned operator; and<o:p></o:p>
+
+                     (b)  the Secretary, on the first-mentioned operator’s application, has approved, in writing, the adoption.<o:p></o:p>
+
+             (3)  Subsection (1) only applies in respect of an aircraft while it:<o:p></o:p>
+
+                     (a)  flies over Australian territory; or<o:p></o:p>
+
+                     (b)  lands at, takes off from, or is otherwise situated at, an airport in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.<o:p></o:p>
+
+             (4)  An aircraft operator must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (4A)  Subsection (4) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (5)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22Y"></a>22Y  Offence—domestic air service by regular public transport operations<o:p></o:p>
+
+             (1)  An aircraft operator must not conduct a domestic air service referred to in paragraph 22M(c) unless:<o:p></o:p>
+
+                     (a)  an approved program is in force in relation to the operator; and<o:p></o:p>
+
+                     (b)  in conducting the service, the operator complies with the program in relation to:<o:p></o:p>
+
+                              (i)  an aircraft used in the service; and<o:p></o:p>
+
+                             (ii)  any person or thing on board the aircraft.<o:p></o:p>
+
+             (2)  An aircraft operator must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+<o:p> </o:p>
+
+### Division 4—Airport security programs<o:p></o:p>
+
+##### <a id="22Z"></a>22Z  Definitions<o:p></o:p>
+
+                   In this Division:<o:p></o:p>
+
+                    <a name="airport-secur-program"></a>**_airport security program_** has the meaning given by section 22ZA.<o:p></o:p>
+
+                    <a name="approved-program"></a>**_approved program_** means an airport security program in respect of which the Secretary’s approval under section 22ZD is in force, and includes such a program as varied under section 22ZG or 22ZH.<o:p></o:p>
+
+                    <a name="program-purpos"></a>**_program purposes_**, in relation to a proposed program or an approved program, means the purposes referred to in paragraphs 22ZA(1)(a) to (e).<o:p></o:p>
+
+                    <a name="propos-program"></a>**_proposed program_** means a proposed airport security program prepared under section 22ZC.<o:p></o:p>
+
+##### <st1:place><st1:placename><a id="22ZA"></a>22ZA</st1:placename><span style="mso-spacerun:yes">  </span><st1:placetype>Airport</st1:placetype></st1:place> security program<o:p></o:p>
+
+             (1)  For the purposes of this Division, an **_airport security program_** of an airport operator is a program that describes the human and other resources to be used, and the procedures to be followed, by the operator in relation to the airport for each of the following purposes:<o:p></o:p>
+
+                     (a)  preventing, detecting, deterring and responding to an unlawful interference with aviation at the airport;<o:p></o:p>
+
+                     (b)  responding to an unlawful interference with aviation against aircraft intending to land at the airport;<o:p></o:p>
+
+                     (c)  responding to a threat of an unlawful interference with aviation relating to:<o:p></o:p>
+
+                              (i)  the airport or any part of it; or<o:p></o:p>
+
+                             (ii)  an aircraft at the airport; or<o:p></o:p>
+
+                            (iii)  an aircraft that is intended to land at the airport;<o:p></o:p>
+
+                     (d)  preventing unauthorised people from having access to areas of the airport;<o:p></o:p>
+
+                     (e)  reporting:<o:p></o:p>
+
+                              (i)  threats of an unlawful interference with aviation; and<o:p></o:p>
+
+                             (ii)  an unlawful interference with aviation;<o:p></o:p>
+
+                            under this Act.<o:p></o:p>
+
+             (2)  The reference in subsection (1) to a description of the human and other resources to be used, and the procedures to be followed, in relation to an airport for the purposes referred to in that subsection includes a reference to a description of:<o:p></o:p>
+
+                     (a)  the airport’s fencing, barriers and gates; and<o:p></o:p>
+
+                     (b)  any security restricted areas of the airport; and<o:p></o:p>
+
+                     (c)  if the airport is a category 1 or 2 airport—the operation of the airport’s emergency operations centre; and<o:p></o:p>
+
+                     (d)  if the airport is a category 1, 2 or 3 airport—the patrolling of the airport by a uniformed security force.<o:p></o:p>
+
+##### <st1:place><st1:placename><a id="22ZB"></a>22ZB</st1:placename><span style="mso-spacerun:yes">  </span><st1:placetype>Airport</st1:placetype></st1:place> security committees<o:p></o:p>
+
+             (1)  The operator of a category 1, 2, 3 or 4 airport must ensure that there is an airport security committee for the airport.<o:p></o:p>
+
+             (2)  An airport operator must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  100 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+             (4)  An airport security committee is to consist of people who are:<o:p></o:p>
+
+                     (a)  nominated in writing by the airport operator; and<o:p></o:p>
+
+                     (b)  approved in writing by the Secretary.<o:p></o:p>
+
+             (5)  The function of an airport security committee is to make recommendations to the airport operator about:<o:p></o:p>
+
+                     (a)  the preparation of an airport security program for the airport; and<o:p></o:p>
+
+                     (b)  the implementation of the airport security program in relation to the airport.<o:p></o:p>
+
+             (6)  The airport operator is to convene:<o:p></o:p>
+
+                     (a)  any meetings of the airport security committee that the Secretary requires; and<o:p></o:p>
+
+                     (b)  any additional meetings of the committee that the airport operator thinks necessary for the efficient performance of the committee’s functions.<o:p></o:p>
+
+             (7)  The airport operator or a representative of the airport operator is to preside at meetings of the airport security committee.<o:p></o:p>
+
+             (8)  In subsection (7):<o:p></o:p>
+
+                    <a name="repres-airport-oper"></a>**_representative of the airport operator_** means an individual who is:<o:p></o:p>
+
+                     (a)  nominated by the airport operator; and<o:p></o:p>
+
+                     (b)  approved in writing by the Secretary;<o:p></o:p>
+
+as the airport operator’s representative.<o:p></o:p>
+
+##### <a id="22ZC"></a>22ZC  Preparation and submission of proposed airport security program<o:p></o:p>
+
+             (1)  The operator of an airport may prepare in writing, and submit to the Secretary for approval, a proposed airport security program for the airport.<o:p></o:p>
+
+             (2)  If the airport is a category 1, 2, 3 or 4 airport, the operator must have regard to any recommendation of the airport security committee in relation to the airport when preparing the proposed program.<o:p></o:p>
+
+##### <a id="22ZD"></a>22ZD  Approval or rejection of proposed program<o:p></o:p>
+
+             (1)  If the Secretary is satisfied that a proposed program submitted by an airport operator is adequate for each of the program purposes, the Secretary must approve the program by giving written notice of the approval to the airport operator.<o:p></o:p>
+
+             (2)  Subject to section 22ZG, if the Secretary is not satisfied that the proposed program is adequate for each of those purposes, the Secretary must refuse to approve the program by giving written notice of the refusal to the airport operator.<o:p></o:p>
+
+##### <a id="22ZE"></a>22ZE  Start and duration of approved program<o:p></o:p>
+
+             (1)  An approved program comes into force:<o:p></o:p>
+
+                     (a)  unless paragraph (b) applies—on the day on which it is approved; or<o:p></o:p>
+
+                     (b)  if a later day is stated in the notice of approval—on the later day.<o:p></o:p>
+
+             (2)  The approval of an airport security program remains in force until the approval is cancelled under section 22ZF or subsection 22ZG(4).<o:p></o:p>
+
+##### <a id="22ZF"></a>22ZF  Cancellation of approval of program<o:p></o:p>
+
+                   If, at any time, the Secretary is satisfied that:<o:p></o:p>
+
+                     (a)  an approved program is not adequate for any one or more of the program purposes; and<o:p></o:p>
+
+                     (b)  action to vary the program under section 22ZG is not appropriate;<o:p></o:p>
+
+the Secretary must cancel the approval by giving written notice of the cancellation to the airport operator who prepared the program.<o:p></o:p>
+
+##### <a id="22ZG"></a>22ZG  Direction to vary program<o:p></o:p>
+
+             (1)  If the Secretary is not satisfied that a proposed program or an approved program for an airport is adequate for any one or more of the program purposes, the Secretary may, by written notice given to the operator of the airport, direct the operator to vary the program.<o:p></o:p>
+
+             (2)  The Secretary must not give a direction in relation to a program purpose unless the Secretary is satisfied that the variation will make the program adequate for that program purpose.<o:p></o:p>
+
+             (3)  In the notice, the Secretary must:<o:p></o:p>
+
+                     (a)  set out the variation; and<o:p></o:p>
+
+                     (b)  state the time within which the airport operator must submit a revised program incorporating the variation to the Secretary for approval.<o:p></o:p>
+
+             (4)  If the airport operator fails to comply with the direction within the stated time, the Secretary must:<o:p></o:p>
+
+                     (a)  refuse to approve the proposed program; or<o:p></o:p>
+
+                     (b)  cancel the approval of the approved program;<o:p></o:p>
+
+as the case requires, by giving written notice of the refusal or cancellation, as the case may be, to the airport operator.<o:p></o:p>
+
+##### <a id="22ZH"></a>22ZH  Review of program by operator<o:p></o:p>
+
+             (1)  An airport operator may, at any time, review an approved program prepared by the airport operator.<o:p></o:p>
+
+             (2)  In reviewing the approved program, the airport operator may have regard to:<o:p></o:p>
+
+                     (a)  developments, whether in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or overseas, in relation to:<o:p></o:p>
+
+                              (i)  the human and other resources used; and<o:p></o:p>
+
+                             (ii)  the procedures followed;<o:p></o:p>
+
+                            in relation to aviation security; and<o:p></o:p>
+
+                     (b)  experience gained in relation to aviation security, whether in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or overseas, by other airport operators.<o:p></o:p>
+
+             (3)  If the airport operator is satisfied that:<o:p></o:p>
+
+                     (a)  the approved program is no longer adequate for any one or more of the program purposes; or<o:p></o:p>
+
+                     (b)  the effectiveness of the program for those purposes could be substantially improved;<o:p></o:p>
+
+the operator may prepare in writing, and submit to the Secretary for approval, proposals for any variation of the program that the operator thinks necessary.<o:p></o:p>
+
+             (4)  If the Secretary is satisfied that the program, when varied as proposed, will:<o:p></o:p>
+
+                     (a)  be a program adequate for each of the program purposes; or<o:p></o:p>
+
+                     (b)  be substantially more effective for those purposes;<o:p></o:p>
+
+the Secretary must approve the proposals by giving written notice of the approval to the airport operator.<o:p></o:p>
+
+             (5)  If the Secretary is not so satisfied, the Secretary must refuse to approve the proposals by giving written notice of the refusal to the airport operator.<o:p></o:p>
+
+##### <a id="22ZJ"></a>22ZJ  Operator of categorised airport to have an approved airport security program<o:p></o:p>
+
+             (1)  The operator of a categorised airport must:<o:p></o:p>
+
+                     (a)  ensure that an approved airport security program is in force at all times for the airport; and<o:p></o:p>
+
+                     (b)  comply with the program.<o:p></o:p>
+
+             (2)  An operator of a categorised airport must not contravene subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of subsection (1) is an offence of strict liability.<o:p></o:p>
+
+<o:p> </o:p>
+
+### Division 5—Security measures etc. applicable to categorised airports<o:p></o:p>
+
+##### <st1:place><st1:placename><a id="22ZK"></a>22ZK</st1:placename><span style="mso-spacerun:yes">  </span><st1:placetype>Airport</st1:placetype></st1:place> categories<o:p></o:p>
+
+             (1)  The Secretary may, by written notice given to the operator of an airport, categorise the airport as a category 1, 2, 3, 4 or 5 airport.<o:p></o:p>
+
+             (2)  The notice comes into force:<o:p></o:p>
+
+                     (a)  unless paragraph (b) applies—on the day on which it is given; or<o:p></o:p>
+
+                     (b)  if a later day is stated in the notice—on the later day.<o:p></o:p>
+
+##### <a id="22ZL"></a>22ZL  Category 1 airports—prescribed requirements<o:p></o:p>
+
+             (1)  The regulations may, in relation to a category 1 airport, prescribe matters relating to any of the following:<o:p></o:p>
+
+                     (a)  patrolling of the airport by members of a uniformed security force;<o:p></o:p>
+
+                     (b)  patrolling of the airport by other security personnel;<o:p></o:p>
+
+                     (c)  attendance at the airport by members of a police force and other security personnel;<o:p></o:p>
+
+                     (d)  responding to security emergencies at the airport;<o:p></o:p>
+
+                     (e)  the operation of a security control centre at the airport;<o:p></o:p>
+
+                      (f)  security restricted areas at the airport;<o:p></o:p>
+
+                     (g)  meetings of an airport security committee;<o:p></o:p>
+
+                     (h)  appointment of an officer to co-ordinate aviation security at the airport;<o:p></o:p>
+
+                      (i)  provision of lighting, fencing and storage facilities at the airport.<o:p></o:p>
+
+             (2)  The operator of a category 1 airport must not contravene regulations prescribed under subsection (1).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of regulations prescribed under subsection (1) is an offence of strict liability.<o:p></o:p>
+
+             (4)  In this section:<o:p></o:p>
+
+                    <a name="secur-control-centr"></a>**_security control centre_** means the place at an airport where the airport operator co-ordinates routine measures that relate to aviation security.<o:p></o:p>
+
+##### <a id="22ZM"></a>22ZM  Category 2 airports—prescribed requirements<o:p></o:p>
+
+             (1)  The regulations may, in relation to a category 2 airport, prescribe matters relating to any of the following:<o:p></o:p>
+
+                     (a)  patrolling of the airport by members of a uniformed security force;<o:p></o:p>
+
+                     (b)  patrolling of the airport by other security personnel;<o:p></o:p>
+
+                     (c)  attendance at the airport by members of a police force and other security personnel;<o:p></o:p>
+
+                     (d)  responding to security emergencies at the airport;<o:p></o:p>
+
+                     (e)  security restricted areas at the airport;<o:p></o:p>
+
+                      (f)  meetings of an airport security committee;<o:p></o:p>
+
+                     (g)  appointment of an officer to co-ordinate aviation security at the airport;<o:p></o:p>
+
+                     (h)  provision of lighting, fencing and storage facilities at the airport.<o:p></o:p>
+
+             (2)  The operator of a category 2 airport must not contravene regulations prescribed under subsection (1).<o:p></o:p>
+
+                    Penalty:  160 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of regulations prescribed under subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22ZN"></a>22ZN  Category 3 airports—prescribed requirements<o:p></o:p>
+
+             (1)  The regulations may, in relation to a category 3 airport, prescribe matters relating to any of the following:<o:p></o:p>
+
+                     (a)  patrolling of the airport by members of a uniformed security force;<o:p></o:p>
+
+                     (b)  patrolling of the airport by other security personnel;<o:p></o:p>
+
+                     (c)  attendance at the airport by members of a police force and other security personnel;<o:p></o:p>
+
+                     (d)  responding to security emergencies at the airport;<o:p></o:p>
+
+                     (e)  security restricted areas at the airport;<o:p></o:p>
+
+                      (f)  meetings of an airport security committee;<o:p></o:p>
+
+                     (g)  appointment of an officer to co-ordinate aviation security at the airport;<o:p></o:p>
+
+                     (h)  provision of lighting, fencing and storage facilities at the airport.<o:p></o:p>
+
+             (2)  The operator of a category 3 airport must not contravene regulations prescribed under subsection (1).<o:p></o:p>
+
+                    Penalty:  120 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of regulations prescribed under subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22ZO"></a>22ZO  Category 4 airports—prescribed requirements<o:p></o:p>
+
+             (1)  The regulations may, in relation to a category 4 airport, prescribe matters relating to any of the following:<o:p></o:p>
+
+                     (a)  security restricted areas at the airport;<o:p></o:p>
+
+                     (b)  attendance at the airport by members of a police force and other security personnel;<o:p></o:p>
+
+                     (c)  meetings of an airport security committee;<o:p></o:p>
+
+                     (d)  appointment of an officer to co-ordinate aviation security at the airport;<o:p></o:p>
+
+                     (e)  provision of fencing facilities at the airport.<o:p></o:p>
+
+             (2)  The operator of a class 4 airport must not contravene regulations prescribed under subsection (1).<o:p></o:p>
+
+                    Penalty:  80 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of regulations prescribed under subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22ZP"></a>22ZP  Category 5 airports—prescribed requirements<o:p></o:p>
+
+             (1)  The regulations may, in relation to a category 5 airport, prescribe matters relating to any of the following:<o:p></o:p>
+
+                     (a)  security restricted areas at the airport;<o:p></o:p>
+
+                     (b)  attendance at the airport by members of a police force.<o:p></o:p>
+
+             (2)  The operator of a category 5 airport must not contravene regulations prescribed under subsection (1).<o:p></o:p>
+
+                    Penalty:  40 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (2A)  Subsection (2) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (3)  An offence constituted by a contravention of regulations prescribed under subsection (1) is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22ZQ"></a>22ZQ  Secretary’s power of direction<o:p></o:p>
+
+             (1)  The Secretary may, by written notice given to the operator of a categorised airport, direct the operator to comply, in relation to the airport, with a requirement of the regulations that relates to another category of airports if the Secretary reasonably believes that the requirement is appropriate or necessary at the airport in the circumstances.<o:p></o:p>
+
+             (2)  A direction may be limited as to the time or times at which, or may prescribe a manner in which, a requirement is to be complied with.<o:p></o:p>
+
+             (3)  An airport operator who is given a direction must not contravene the direction.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the operator has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  An offence constituted by a contravention of a direction is an offence of strict liability.<o:p></o:p>
+
+##### <a id="22ZR"></a>22ZR  Carriage or discharge of firearms at a categorised airport<o:p></o:p>
+
+             (1)  Subject to subsection (2), a person in a security restricted area of a categorised airport must not:<o:p></o:p>
+
+                     (a)  carry a firearm; or<o:p></o:p>
+
+                     (b)  discharge a firearm.<o:p></o:p>
+
+                    Penalty:  Imprisonment for 7 years.<o:p></o:p>
+
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment.<o:p></o:p>
+
+             (2)  Subsection (1) does not apply if the person is:<o:p></o:p>
+
+                     (a)  an officer or employee of the Department who is on duty; or<o:p></o:p>
+
+                     (b)  a member of the Defence Force who is on duty; or<o:p></o:p>
+
+                     (c)  a member of a uniformed security force who is on duty;<o:p></o:p>
+
+                     (d)  a member of the Australian Federal Police or a police force of a State or Territory who is on duty; or<o:p></o:p>
+
+                     (e)  a protective service officer who is on duty; or<o:p></o:p>
+
+                      (f)  an officer or employee of Airservices <st1:country-region><st1:place>Australia</st1:place></st1:country-region> acting in connection with safety of air navigation; or<o:p></o:p>
+
+                     (g)  a person acting with the authority of a person mentioned in any of the above paragraphs; or<o:p></o:p>
+
+                     (h)  a person exempted by the Secretary in writing from the operation of that subsection; or<o:p></o:p>
+
+                      (i)  the operator of the airport or a person who is acting with the operator’s authority.<o:p></o:p>
+
+             (3)  If an authorised officer:<o:p></o:p>
+
+                     (a)  reasonably suspects that a person in a security restricted area is carrying or has discharged a firearm in contravention of subsection (1); and<o:p></o:p>
+
+                     (b)  does not think it appropriate to arrest the person;<o:p></o:p>
+
+the officer may request the person to leave the security restricted area.<o:p></o:p>
+
+             (4)  If the person fails to comply with the request, section 22ZT has effect.<o:p></o:p>
+
+             (5)  In this section:<o:p></o:p>
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means:<o:p></o:p>
+
+                     (a)  a member of a uniformed security force who is on duty; or<o:p></o:p>
+
+                     (b)  a member of the Australian Federal Police, or of a police force of a State or Territory, who is on duty.<o:p></o:p>
+
+##### <a id="22ZS"></a>22ZS  Approval of certain works at airports<o:p></o:p>
+
+             (1)  In this section:<o:p></o:p>
+
+                    <a name="facil"></a>**_facility_** means any of the following facilities at an airport:<o:p></o:p>
+
+                     (a)  a facility to control the access of people, vehicles or goods to a security restricted area, including any of the following:<o:p></o:p>
+
+                              (i)  gates;<o:p></o:p>
+
+                             (ii)  doors;<o:p></o:p>
+
+                            (iii)  fences;<o:p></o:p>
+
+                            (iv)  the exterior of a building in the airport that faces a security restricted area;<o:p></o:p>
+
+                     (b)  a sterile area;<o:p></o:p>
+
+                     (c)  a cargo handling facility;<o:p></o:p>
+
+                     (d)  a baggage handling facility;<o:p></o:p>
+
+                     (e)  a facility for the storage of mishandled or misrouted baggage.<o:p></o:p>
+
+             (2)  If:<o:p></o:p>
+
+                     (a)  the operator of a category 1, 2 or 3 airport wishes to construct, alter or add to a facility at the airport; or<o:p></o:p>
+
+                     (b)  the operator of an aircraft wishes to construct, alter or add to a facility at a category 1, 2 or 3 airport;<o:p></o:p>
+
+the operator may submit written plans setting out the proposed construction, alteration or addition to the Secretary for approval.<o:p></o:p>
+
+             (3)  The plans must set out particulars of the proposal in sufficient detail to allow the proposal to be properly considered by the Secretary.<o:p></o:p>
+
+             (4)  The Secretary must, within 30 days after receiving the plans, by written notice given to the operator:<o:p></o:p>
+
+                     (a)  approve the plans; or<o:p></o:p>
+
+                     (b)  approve the plans subject to a variation set out in the approval; or<o:p></o:p>
+
+                     (c)  reject the plans.<o:p></o:p>
+
+             (5)  If the Secretary does not comply with subsection (4), the plans are taken to be approved by the Secretary at the end of the period of 30 days.<o:p></o:p>
+
+             (6)  If the Secretary:<o:p></o:p>
+
+                     (a)  approves the plans subject to a variation; or<o:p></o:p>
+
+                     (b)  rejects the plans;<o:p></o:p>
+
+the operator may submit to the Secretary, for approval, written plans that incorporate the variation and any other revisions.<o:p></o:p>
+
+             (7)  This section applies to plans submitted under subsection (6) as if they were submitted under subsection (2).<o:p></o:p>
+
+             (8)  A person must not construct, alter or add to a facility at a category 1, 2 or 3 airport except in accordance with:<o:p></o:p>
+
+                     (a)  plans approved under this section; or<o:p></o:p>
+
+                     (b)  plans approved subject to a variation under this section.<o:p></o:p>
+
+             (9)  A person must not contravene subsection (8).<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.<o:p></o:p>
+
+          (9A)  Subsection (9) does not apply if the person has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (9A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+           (10)  An offence constituted by a contravention of subsection (8) is an offence of strict liability.<o:p></o:p>
+
+<o:p> </o:p>
+
+### Division 6—Miscellaneous<o:p></o:p>
+
+##### <a id="22ZT"></a>22ZT  Removal of person who fails to leave a place when requested by an authorised officer<o:p></o:p>
+
+             (1)  In this section:<o:p></o:p>
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means:<o:p></o:p>
+
+                     (a)  a member of a uniformed security force who is on duty; or<o:p></o:p>
+
+                     (b)  a member of the Australian Federal Police, or of a police force of a State or Territory, who is on duty.<o:p></o:p>
+
+             (2)  This section applies if a person has refused or failed, within a reasonable time, to comply with the request made by an authorised officer under subsection 22(2), 22D(6) or 22ZR(3).<o:p></o:p>
+
+             (3)  Subject to this section, the authorised officer may use force to remove the person:<o:p></o:p>
+
+                     (a)  if the request was made under subsection 22(2)—from the screening point or sterile area and from any security restricted area; or<o:p></o:p>
+
+                     (b)  if the request was made under subsection 22D(6)—from the aircraft and from any sterile area or security restricted area; or<o:p></o:p>
+
+                     (c)  if the request was made under subsection 22ZR(3)—from the security restricted area and from any sterile area.<o:p></o:p>
+
+             (4)  An authorised officer must not, in the course of removing a person under subsection (3) use more force, or subject the person to greater indignity, than is necessary and reasonable to remove the person.<o:p></o:p>
+
+             (5)  The authorised officer may not remove the person under subsection (3) if, following the officer’s request, one of the following occurs:<o:p></o:p>
+
+                     (a)  if the request was made under subsection 22(2):<o:p></o:p>
+
+                              (i)  the person voluntarily surrenders the weapon to the operator of an aircraft and the operator agrees to carry the weapon on board the aircraft; or<o:p></o:p>
+
+                             (ii)  the person voluntarily surrenders the weapon to the authorised officer;<o:p></o:p>
+
+                     (b)  if the request was made under subsection 22D(6):<o:p></o:p>
+
+                              (i)  the person voluntarily surrenders the weapon to the operator of the aircraft and the operator agrees to carry the weapon on board the aircraft; or<o:p></o:p>
+
+                             (ii)  the person voluntarily surrenders the weapon to the authorised officer;<o:p></o:p>
+
+                     (c)  if the request was made under subsection 22ZR(3):<o:p></o:p>
+
+                              (i)  the person voluntarily surrenders the firearm to the operator of an aircraft and the operator agrees to carry the firearm on board the aircraft; or<o:p></o:p>
+
+                             (ii)  the person voluntarily surrenders the firearm to the authorised officer; or<o:p></o:p>
+
+                            (iii)   the person voluntarily surrenders the firearm to a person referred to in any of the paragraphs of subsection 22ZR(2);<o:p></o:p>
+
+                     (d)  in any case:<o:p></o:p>
+
+                              (i)  the person consents to being screened, and to having his or her accompanying possessions screened, by an aircraft operator; and<o:p></o:p>
+
+                             (ii)  the person and those possessions are screened and cleared by the aircraft operator (whether or not they have previously been screened and cleared by an aircraft operator).<o:p></o:p>
+
+             (6)  Subject to subsection (7), if a weapon is surrendered by the person to the authorised officer or a person referred to in any of the paragraphs of subsection 22ZR(2):<o:p></o:p>
+
+                     (a)  if the person by whom the weapon was surrendered is proposing to travel on an aircraft and the operator of the aircraft agrees to carry the weapon on board the aircraft, the person to whom the weapon was surrendered must deliver it to the operator; or<o:p></o:p>
+
+                     (b)  otherwise—the person to whom the weapon was surrendered must return the weapon to the person who surrendered it, but only when that person is not in a sterile area, an aircraft or a security restricted area.<o:p></o:p>
+
+             (7)  If a person to whom a weapon is surrendered (the **_weapon-holder_**) as mentioned in subsection (6) reasonably suspects that the possession of the weapon by the person who surrendered it may have contravened a law of the Commonwealth, of a State or of a Territory, the weapon-holder:<o:p></o:p>
+
+                     (a)  must not deliver the weapon to the operator of an aircraft or return it to the person who surrendered it; and<o:p></o:p>
+
+                     (b)  must, as soon as possible, report the surrender of the weapon to a member of the Australian Federal Police or of a police force of a State or Territory.<o:p></o:p>
+
+             (8)  If the weapon-holder ceases to have the suspicion referred to in subsection (7), the weapon-holder must, as soon as possible, deal with the weapon in accordance with subsection (6).<o:p></o:p>
+
+##### <a id="22ZU"></a>22ZU  Weapon surrendered or delivered to operator of aircraft<o:p></o:p>
+
+             (1)  This section applies if a weapon is:<o:p></o:p>
+
+                     (a)  surrendered to an aircraft operator by a person (the **_weapon-owner_**):<o:p></o:p>
+
+                              (i)  following the screening of a person, vehicle or goods under this Act; or<o:p></o:p>
+
+                             (ii)  under paragraph 22ZT(5)(a), (b) or (c); or<o:p></o:p>
+
+                     (b)  delivered to an aircraft operator under paragraph 22ZT(6)(a) by someone to whom it was surrendered by a person (the **_weapon-owner_**) under subsection 22ZT(5).<o:p></o:p>
+
+             (2)  Subject to subsection (4), if the weapon-owner is travelling on a flight in an aircraft of the operator, the operator must cause the weapon to be returned to the weapon-owner at the end of the flight.<o:p></o:p>
+
+             (3)  Subject to subsection (4), if the weapon-owner is not travelling on a flight in an aircraft of the operator, the operator must return the weapon to the weapon-owner, but only when the weapon-owner is not in a sterile area, an aircraft or a security restricted area.<o:p></o:p>
+
+             (4)  If the aircraft operator reasonably suspects that the possession of the weapon by the weapon-owner may have contravened a law of the Commonwealth, of a State or of a Territory, the operator:<o:p></o:p>
+
+                     (a)  must not return the weapon to the weapon-owner; and<o:p></o:p>
+
+                     (b)  must as soon as possible, report the surrender of the weapon to a member of the Australian Federal Police or of a police force of a State or Territory.<o:p></o:p>
+
+             (5)  If the operator ceases to have the suspicion referred to in subsection (4), the operator must, as soon as possible, deal with the weapon in accordance with subsection (2) or (3), as the case requires.<o:p></o:p>
+
+##### <a id="22ZV"></a>22ZV  Secretary may give directions<o:p></o:p>
+
+             (1)  In this section:<o:p></o:p>
+
+                    <a name="court"></a>**_court_** includes:<o:p></o:p>
+
+                     (a)  a tribunal; or<o:p></o:p>
+
+                     (b)  an authority; or<o:p></o:p>
+
+                     (c)  a person;<o:p></o:p>
+
+that has power to require the production of documents or the answering of questions.<o:p></o:p>
+
+                    <a name="design-person"></a>**_designated person_** means a person who is:<o:p></o:p>
+
+                     (a)  an officer or employee of the Department; or<o:p></o:p>
+
+                     (b)  a member of the staff of Airservices <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
+
+                     (c)  an airport operator; or<o:p></o:p>
+
+                     (d)  an aircraft operator; or<o:p></o:p>
+
+                     (e)  a person to whom a lease or licence has been granted in respect of land within an airport; or<o:p></o:p>
+
+                      (f)  a person to whom a right has been granted to use an area or a building, or a part of a building, at an airport; or<o:p></o:p>
+
+                     (g)  an authority, other than Airservices <st1:country-region><st1:place>Australia</st1:place></st1:country-region>, to which a right to use an airport or part of an airport (including a building, or a part of a building) has been granted; or<o:p></o:p>
+
+                     (h)  a person employed by an operator, person or authority mentioned in paragraph (c), (d), (e), (f) or (g).<o:p></o:p>
+
+                    <a name="passeng"></a>**_passenger_** includes an intending passenger.<o:p></o:p>
+
+             (2)  The Secretary may give written directions to a designated person or a passenger in relation to the measures and resources to be used:<o:p></o:p>
+
+                     (a)  in responding to a threat of an unlawful interference with aviation in relation to:<o:p></o:p>
+
+                              (i)  an aircraft; or<o:p></o:p>
+
+                             (ii)  an airport; or<o:p></o:p>
+
+                     (b)  in controlling access to a part of an airport.<o:p></o:p>
+
+             (3)  A person must not fail to comply with a direction under subsection (2) that is:<o:p></o:p>
+
+                     (a)  given to the person; or<o:p></o:p>
+
+                     (b)  clearly displayed at a place where the direction is to be complied with by the person.<o:p></o:p>
+
+                    Penalty:  200 penalty units.<o:p></o:p>
+
+          (3A)  Subsection (3) does not apply if the person has a reasonable excuse.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+             (4)  Subject to subsection (5), a person must not:<o:p></o:p>
+
+                     (a)  disclose to a passenger a direction under subsection (2) that is not expressed to be a direction to a passenger; or<o:p></o:p>
+
+                     (b)  disclose to a person who is not a designated person a direction under subsection (2) that is expressed to be a direction to a designated person only.<o:p></o:p>
+
+                    Penalty:  20 penalty units.<o:p></o:p>
+
+             (5)  A designated person who makes a disclosure of a kind referred to in subsection (4) is not guilty of an offence because of that subsection if the disclosure is reasonably necessary for the purpose of the exercise of his or her powers, or the performance of his or her functions or duties, as a designated person.<o:p></o:p>
+
+             (6)  Subsection (4) does not preclude the disclosure of a direction to a court in any civil or criminal proceeding.<o:p></o:p>
+
+             (7)  An offence constituted by a contravention of this section is an offence of strict liability.<o:p></o:p>
+
+<o:p> </o:p>
+
+## Part 3A—Information-gathering for aviation security purposes<o:p></o:p>
+
+### Division 1—Secretary may require aviation security information<o:p></o:p>
+
+##### <a id="22ZVA"></a>22ZVA<span style="mso-fareast-language:EN-US; layout-grid-mode:line"> </span><span style="mso-spacerun:yes"> </span>Secretary may require aviation security information<o:p></o:p>
+
+             (1)  This section applies if the Secretary believes on reasonable grounds that an aviation industry participant has aviation security information of a kind prescribed in the regulations for the purposes of this section.<o:p></o:p>
+
+             (2)  The Secretary may, by written notice given to the aviation industry participant, require the participant to give any such information to the Secretary, within the period and in the way specified in the notice. The period must not be less than 14 days.<o:p></o:p>
+
+             (3)  Without limiting subsection (2), the Secretary may specify in the notice any one or more of the following ways for the participant to give the information:<o:p></o:p>
+
+                     (a)  orally;<o:p></o:p>
+
+                     (b)  in writing;<o:p></o:p>
+
+                     (c)  by electronic transmission.<o:p></o:p>
+
+             (4)  If:<o:p></o:p>
+
+                     (a)  a person engages in conduct; and<o:p></o:p>
+
+                     (b)  the result of the conduct is that the person contravenes a requirement under subsection (2);<o:p></o:p>
+
+the person is guilty of an offence punishable, on conviction, by a fine not exceeding 45 penalty units.<o:p></o:p>
+
+             (5)  In this section:<o:p></o:p>
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** has the same meaning as in the _Criminal Code_.<o:p></o:p>
+
+##### <a id="22ZVB"></a>22ZVB<span style="mso-fareast-language:EN-US; layout-grid-mode:line"> </span><span style="mso-spacerun:yes"> </span>Self-incrimination<o:p></o:p>
+
+                   An individual is not excused from giving the aviation security information on the ground that the information might tend to incriminate the individual or expose the individual to a penalty.<o:p></o:p>
+
+Note:          Division 2 limits the use of information given to the Secretary under this Division and provides protection for the person who gives the information.<o:p></o:p>
+
+<o:p> </o:p>
+
+### Division 2—Protection and use of aviation security information<o:p></o:p>
+
+##### <a id="22ZVC"></a>22ZVC  Interpretation<o:p></o:p>
+
+             (1)  For the purposes of this Division, if a person gives a Departmental official aviation security information, whether in compliance with a notice under section 22ZVA or otherwise, then, subject to subsection (2), the information is **_protected information_** and the person is the **_protected_** **_person_** in relation to the information.<o:p></o:p>
+
+             (2)  Subsection (1) does not apply if:<o:p></o:p>
+
+                     (a)  the information is given to the Departmental official in the course of an investigation by the official that relates to compliance, or a failure to comply, with regulations under this Act that relate to aviation security; and<o:p></o:p>
+
+                     (b)  the information is not given in compliance with a notice under section 22ZVA.<o:p></o:p>
+
+             (3)  In this Division:<o:p></o:p>
+
+                    <a name="ap-employe"></a>**_APS employee_** has the same meaning as in the _Public Service Act 1999_.<o:p></o:p>
+
+                    <a name="department-offici"></a>**_Departmental official_** means a person acting in the course of his or her duties as:<o:p></o:p>
+
+                     (a)  the Secretary of the Department; or<o:p></o:p>
+
+                     (b)  an APS employee in the Department; or<o:p></o:p>
+
+                     (c)  a delegate under this Act or the regulations.<o:p></o:p>
+
+##### <a id="22ZVD"></a>22ZVD  Use or disclosure by Departmental officials other than for aviation security purposes<o:p></o:p>
+
+             (1)  If:<o:p></o:p>
+
+                     (a)  a Departmental official uses or discloses protected information; and<o:p></o:p>
+
+                     (b)  that use or disclosure is not for the purposes of aviation security; and<o:p></o:p>
+
+                     (c)  the Departmental official is reckless as to whether the information is protected information;<o:p></o:p>
+
+the Departmental official is guilty of an offence punishable, on conviction, by a fine not exceeding 45 penalty units.<o:p></o:p>
+
+Exception to subsection (1)<o:p></o:p>
+
+             (2)  Subsection (1) does not apply if the protected information is used or disclosed for the purposes of a prosecution, or defending a prosecution, of:<o:p></o:p>
+
+                     (a)  an offence against that subsection; or<o:p></o:p>
+
+                     (b)  an offence against section 137.1 or 137.2 of the _Criminal Code_.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+##### <a id="22ZVE"></a>22ZVE  Disclosure other than in excepted circumstances<o:p></o:p>
+
+             (1)  If:<o:p></o:p>
+
+                     (a)  a person (whether or not a Departmental official) discloses protected information to another person; and<o:p></o:p>
+
+                     (b)  the person does not disclose the information in excepted circumstances (see subsection (2)); and<o:p></o:p>
+
+                     (c)  the person is reckless as to whether the information is protected information;<o:p></o:p>
+
+the person is guilty of an offence punishable, on conviction, by a fine not exceeding 45 penalty units.<o:p></o:p>
+
+Meaning of **excepted circumstances**<o:p></o:p>
+
+             (2)  For the purposes of paragraph (1)(b), the protected information is disclosed in **_excepted circumstances_** if it is disclosed to:<o:p></o:p>
+
+                     (a)  a Departmental official; or<o:p></o:p>
+
+                     (b)  a Commonwealth Minister; or<o:p></o:p>
+
+                     (c)  a member of the staff of a Commonwealth Minister who is nominated by the Minister to receive protected information on the Minister’s behalf; or<o:p></o:p>
+
+                     (d)  a person acting in the course of his or her duties as a member of the Parliament of the Commonwealth; or<o:p></o:p>
+
+                     (e)  either:<o:p></o:p>
+
+(i)  an aviation industry participant; or<o:p></o:p>
+
+                             (ii)  a person (other than a Departmental official) acting in the course of his or her duties in an Agency (within the meaning of the _Public Service Act 1999_);<o:p></o:p>
+
+                            in a form that does not identify, and is not reasonably capable of being used to identify, the protected person.<o:p></o:p>
+
+Exceptions to subsection (1)<o:p></o:p>
+
+             (3)  Subsection (1) does not apply if:<o:p></o:p>
+
+                     (a)  the person discloses the protected information with the consent of the protected person; or<o:p></o:p>
+
+                     (b)  the protected information is disclosed for the purposes of a prosecution, or defending a prosecution, of:<o:p></o:p>
+
+                              (i)  an offence against that subsection; or<o:p></o:p>
+
+                             (ii)  an offence against section 137.1 or 137.2 of the _Criminal Code_.<o:p></o:p>
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+
+##### <a id="22ZVF"></a>22ZVF  Disclosure to court or tribunal<o:p></o:p>
+
+                   A person is not to be required to disclose protected information to a court or tribunal except in a prosecution of an offence mentioned in subsection 22ZVD(2) or paragraph 22ZVE(3)(b).<o:p></o:p>
+
+##### <a id="22ZVG"></a>22ZVG  Protection for person who gives information<o:p></o:p>
+
+                   Neither:<o:p></o:p>
+
+                     (a)  giving protected information; nor<o:p></o:p>
+
+                     (b)  any information, document or thing obtained as a direct or indirect consequence of giving protected information;<o:p></o:p>
+
+is admissible in evidence against the protected person in a criminal proceeding, or any other proceeding for the recovery of a penalty, other than a proceeding under section 137.1 or 137.2 of the _Criminal Code_.<o:p></o:p>
+
+<o:p> </o:p>
+
 ## Part 4—Miscellaneous<o:p></o:p>
 
 ##### <a id="23A"></a>23A  Review of decisions by Administrative Appeals Tribunal <o:p></o:p>
@@ -901,7 +3035,35 @@ Note:          A defendant bears an evidential burden in relat
 
                      (d)  to vary, suspend or cancel a permission under subsection 15F(1); or<o:p></o:p>
 
-                     (e)  to refuse a permission under subsection 17(1).<o:p></o:p>
+                     (e)  to refuse a permission under subsection 17(1); or<o:p></o:p>
+
+                     (h)  to refuse to approve a proposed aviation security program under section 22R or 22U; or<o:p></o:p>
+
+                      (i)  to direct an aircraft operator to vary a proposed program or an approved program under subsection 22U(1); or<o:p></o:p>
+
+                      (j)  to direct an airport operator to vary a proposed program or an approved program under subsection 22ZG(1); or<o:p></o:p>
+
+                     (k)  to refuse to approve a proposed airport security program under section 22ZD or 22ZG; or<o:p></o:p>
+
+                      (l)  to cancel the approval of an aviation security program under section 22T or 22U; or<o:p></o:p>
+
+                    (m)  to cancel the approval of an airport security program under section 22ZF or 22ZG; or<o:p></o:p>
+
+                     (n)  to refuse to approve a proposal to vary an aviation security program under section 22V; or<o:p></o:p>
+
+                     (o)  to refuse to approve the adoption of an approved aviation security program under paragraph 22X(2)(b); or<o:p></o:p>
+
+                     (p)  to refuse to approve a proposal to vary an airport security program under section 22ZH; or<o:p></o:p>
+
+                     (q)  to categorise an airport under section 22ZK; or<o:p></o:p>
+
+                      (r)  to give a direction under subsection 22ZQ(1); or<o:p></o:p>
+
+                      (s)  to approve plans subject to a variation under section 22ZS; or<o:p></o:p>
+
+                      (t)  to reject plans under section 22ZS; or<o:p></o:p>
+
+                     (u)  to give a direction under subsection 22ZV(2).<o:p></o:p>
 
              (2)  Notice of a decision by the Secretary to which subsection (1) applies must include a statement to the effect that:<o:p></o:p>
 
@@ -979,6 +3141,8 @@ the person is not liable to be punished by imprisonment for the offence.<o:p></o
 
              (2)  Without limiting the generality of the preceding provisions of this section, the regulations that may be made under the powers conferred by those provisions include regulations for or in relation to:<o:p></o:p>
 
+                     (a)  aviation security;<o:p></o:p>
+
                      (c)  the licensing of air transport operations;<o:p></o:p>
 
                     (ca)  the charging and recovery of fees and other charges in respect of matters specified in the regulations, being matters in relation to which expenses are incurred by the Commonwealth under this Act or under the regulations, but not being fees or charges the amounts or rates of which exceed amounts or rates that are reasonably related to the expenses incurred by the Commonwealth in relation to the matters in respect of which the fees or charges are payable or that otherwise amount to taxation;<o:p></o:p>
@@ -993,9 +3157,9 @@ the person is not liable to be punished by imprisonment for the offence.<o:p></o
 
                       (l)  enabling a person who is alleged to have contravened a specified provision of the regulations to pay to the Commonwealth, as an alternative to prosecution, a specified penalty, not exceeding an amount equal to one-fifth of the maximum penalty prescribed for contravening that provision.<o:p></o:p>
 
-             (4)  The preceding provisions of this section (including provisions that do not contain references to the States or to a Territory) have effect as if the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> were a State.<o:p></o:p>
+             (4)  The preceding provisions of this section (including provisions that do not contain references to the States or to a Territory) have effect as if the <st1:state><st1:place>Northern Territory</st1:place></st1:state> were a State.<o:p></o:p>
 
-             (5)  A law of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> does not have effect to the extent to which it is inconsistent with a provision of the regulations having effect in that Territory.<o:p></o:p>
+             (5)  A law of the <st1:state><st1:place>Northern   Territory</st1:place></st1:state> does not have effect to the extent to which it is inconsistent with a provision of the regulations having effect in that Territory.<o:p></o:p>
 
 ##### <a id="27"></a>27  Extra-territorial operation of regulations<o:p></o:p>
 
@@ -1015,11 +3179,11 @@ while the aircraft are outside Australian territory.<o:p></o:p>
 
                     <a name="australian-intern-carriag"></a>**_Australian international carriage_** means the carriage of passengers or freight, or both passengers and freight, whether within or outside Australian territory, by an aircraft that:<o:p></o:p>
 
-                     (a)  is operated by an airline that is designated, nominated or otherwise similarly authorised by <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under a bilateral arrangement to engage in such carriage; or<o:p></o:p>
+                     (a)  is operated by an airline that is designated, nominated or otherwise similarly authorised by <st1:country-region><st1:place>Australia</st1:place></st1:country-region> under a bilateral arrangement to engage in such carriage; or<o:p></o:p>
 
-                     (b)  is operated by an airline incorporated in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                     (b)  is operated by an airline incorporated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
-                     (c)  is operated by an airline having its principal place of business in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                     (c)  is operated by an airline having its principal place of business in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
                      (d)  is operated by an Australian operator and is subject to section 15A or 17; or<o:p></o:p>
 
@@ -1045,21 +3209,21 @@ while the aircraft are outside Australian territory.<o:p></o:p>
 
                               (i)  is an Australian citizen; or<o:p></o:p>
 
-                             (ii)  is ordinarily resident in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                             (ii)  is ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
                      (b)  a body corporate that:<o:p></o:p>
 
-                              (i)  is incorporated in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                              (i)  is incorporated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
-                             (ii)  has its principal place of business in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.<o:p></o:p>
+                             (ii)  has its principal place of business in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.<o:p></o:p>
 
                     <a name="bilater-arrang"></a>**_bilateral arrangement_** means an agreement or arrangement between:<o:p></o:p>
 
-                     (a)  <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or an entity or organisation nominated or otherwise similarly authorised by <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to enter into the agreement or arrangement; and<o:p></o:p>
+                     (a)  <st1:country-region><st1:place>Australia</st1:place></st1:country-region>, or an entity or organisation nominated or otherwise similarly authorised by <st1:country-region><st1:place>Australia</st1:place></st1:country-region> to enter into the agreement or arrangement; and<o:p></o:p>
 
                      (b)  a foreign country;<o:p></o:p>
 
-under which the carriage by air of passengers or freight, or both passengers and freight, between <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the foreign country is permitted.<o:p></o:p>
+under which the carriage by air of passengers or freight, or both passengers and freight, between <st1:country-region><st1:place>Australia</st1:place></st1:country-region> and the foreign country is permitted.<o:p></o:p>
 
                     <a name="foreign-countri"></a>**_foreign country_** includes any region:<o:p></o:p>
 
@@ -1081,7 +3245,7 @@ under which the carriage by air of passengers or freight, or both passengers and
 
                      (a)  that engages in trade or commerce:<o:p></o:p>
 
-                              (i)  between <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and places outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+                              (i)  between <st1:country-region><st1:place>Australia</st1:place></st1:country-region> and places outside <st1:country-region><st1:place>Australia</st1:place></st1:country-region>; or<o:p></o:p>
 
                              (ii)  among the States; or<o:p></o:p>
 
@@ -1187,9 +3351,9 @@ under which the carriage by air of passengers or freight, or both passengers and
 
              (2)  The Minister shall cause a copy of a report furnished to him or her under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which he or she receives the report.<o:p></o:p>
 
-##### <a id="30"></a>30  Powers and functions under State and <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> laws<o:p></o:p>
+##### <a id="30"></a>30  Powers and functions under State and <st1:state><st1:place>Northern Territory</st1:place></st1:state> laws<o:p></o:p>
 
-                   It is hereby declared to be the intention of the Parliament that an officer, authority or person having powers or functions under this Act or the regulations may also have, exercise and perform similar powers or functions conferred by the law of a State or of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> relating to air navigation.<o:p></o:p>
+                   It is hereby declared to be the intention of the Parliament that an officer, authority or person having powers or functions under this Act or the regulations may also have, exercise and perform similar powers or functions conferred by the law of a State or of the <st1:state><st1:place>Northern   Territory</st1:place></st1:state> relating to air navigation.<o:p></o:p>
 
 ##### <a id="31"></a>31  Delegation<o:p></o:p>
 
@@ -1198,7 +3362,6 @@ under which the carriage by air of passengers or freight, or both passengers and
              (2)  A power or function so delegated may be exercised or performed by the delegate in accordance with the instrument of delegation.<o:p></o:p>
 
              (3)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Minister or the Secretary, as the case may be.<o:p></o:p>
-
 
 # Schedule 1—Convention on International Civil Aviation <o:p></o:p>
 
@@ -1214,9 +3377,9 @@ THEREFORE, the undersigned governments having agreed on certain principles and a
 
 Have accordingly concluded this Convention to that end.<o:p></o:p>
 
-PART <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">I.</st1:place>—AIR NAVIGATION<o:p></o:p>
+PART <st1:place>I.</st1:place>—AIR NAVIGATION<o:p></o:p>
 
-<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><?xml:namespace prefix = st2 ns = "urn:schemas:contacts" /><st2:sn>CHAPTER</st2:sn> <st2:sn>I.</st2:sn></st1:place>—GENERAL PRINCIPLES AND APPLICATION OF THE CONVENTION. <o:p></o:p>
+<st1:place><st2:sn>CHAPTER</st2:sn>  <st2:sn>I.</st2:sn></st1:place>—GENERAL PRINCIPLES AND APPLICATION OF THE CONVENTION. <o:p></o:p>
 
 _Article_ 1.
 
@@ -1248,7 +3411,7 @@ _Article_ 4.
 
 Each contracting State agrees not to use civil aviation for any purpose inconsistent with the aims of this Convention. <o:p></o:p>
 
-CHAPTER II.—<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>FLIGHT</st1:placename> <st1:placename>OVER</st1:placename> <st1:placetype>TERRITORY</st1:placetype></st1:place> OF CONTRACTING STATES. <o:p></o:p>
+CHAPTER II.—<st1:place><st1:placename>FLIGHT</st1:placename> <st1:placename>OVER</st1:placename>  <st1:placetype>TERRITORY</st1:placetype></st1:place> OF CONTRACTING STATES. <o:p></o:p>
 
 _Article_ 5.
 
@@ -1598,7 +3761,7 @@ _Article_ 45\. <o:p></o:p>
 
 **Permanent seat. <o:p></o:p>**
 
-The permanent seat of the Organization shall be at such place as shall be determined at the final meeting of the Interim Assembly of the Provisional International Civil Aviation Organization set up by the Interim Agreement on International Civil Aviation signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1944" day="7" month="12">December 7, 1944</st1:date>. The seat may be temporarily transferred elsewhere by decision of the Council. <o:p></o:p>
+The permanent seat of the Organization shall be at such place as shall be determined at the final meeting of the Interim Assembly of the Provisional International Civil Aviation Organization set up by the Interim Agreement on International Civil Aviation signed at <st1:city><st1:place>Chicago</st1:place></st1:city> on <st1:date month="12" day="7" year="1944">December 7, 1944</st1:date>. The seat may be temporarily transferred elsewhere by decision of the Council. <o:p></o:p>
 
 _Article_ 46\. <o:p></o:p>
 
@@ -1816,9 +3979,9 @@ _Article_ 66\. <o:p></o:p>
 
 **Functions relating to other agreements. <o:p></o:p>**
 
-(_a_)   The Organization shall also carry out the functions placed upon it by the International Air Services Transit Agreement and by the International Air Transport Agreement drawn up at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1944" day="7" month="12">December 7, 1944</st1:date>, in accordance with the terms and conditions therein set forth. <o:p></o:p>
+(_a_)   The Organization shall also carry out the functions placed upon it by the International Air Services Transit Agreement and by the International Air Transport Agreement drawn up at <st1:city><st1:place>Chicago</st1:place></st1:city> on <st1:date month="12" day="7" year="1944">December 7, 1944</st1:date>, in accordance with the terms and conditions therein set forth. <o:p></o:p>
 
-(_b_)   Members of the Assembly and the Council who have not accepted the International Air Services Transit Agreement or the International Air Transport Agreement drawn up at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1944" day="7" month="12">December 7, 1944</st1:date> shall not have the right to vote on any questions referred to the Assembly or Council under the provisions of the relevant Agreement. <o:p></o:p>
+(_b_)   Members of the Assembly and the Council who have not accepted the International Air Services Transit Agreement or the International Air Transport Agreement drawn up at <st1:city><st1:place>Chicago</st1:place></st1:city> on <st1:date month="12" day="7" year="1944">December 7, 1944</st1:date> shall not have the right to vote on any questions referred to the Assembly or Council under the provisions of the relevant Agreement. <o:p></o:p>
 
 PART III.—INTERNATIONAL AIR TRANSPORT. <o:p></o:p>
 
@@ -1912,9 +4075,9 @@ CHAPTER XVII—OTHER AERONAUTICAL AGREEMENTS AND ARRANGEMENTS. <o:p></o:p>
 
 _Article_ 80\. <o:p></o:p>
 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**Paris**</st1:place></st1:city>**and Habana Conventions. <o:p></o:p>**
+<st1:city><st1:place>**Paris**</st1:place></st1:city>**and Habana Conventions. <o:p></o:p>**
 
-Each contracting State undertakes, immediately upon the coming into force of this Convention, to give notice of denunciation of the Convention relating to the Regulation of Aerial Navigation signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Paris</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1919" day="13" month="10">October 13, 1919</st1:date> or the Convention on Commercial Aviation signed at Habana on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1928" day="20" month="2">February 20, 1928</st1:date>, if it is a party to either. As between contracting States, this Convention supersedes the Conventions of Paris and Habana previously referred to. <o:p></o:p>
+Each contracting State undertakes, immediately upon the coming into force of this Convention, to give notice of denunciation of the Convention relating to the Regulation of Aerial Navigation signed at <st1:city><st1:place>Paris</st1:place></st1:city> on <st1:date month="10" day="13" year="1919">October 13, 1919</st1:date> or the Convention on Commercial Aviation signed at Habana on <st1:date month="2" day="20" year="1928">February 20, 1928</st1:date>, if it is a party to either. As between contracting States, this Convention supersedes the Conventions of Paris and Habana previously referred to. <o:p></o:p>
 
 _Article_ 81\. <o:p></o:p>
 
@@ -1926,7 +4089,7 @@ _Article_ 82\. <o:p></o:p>
 
 **Abrogation of inconsistent arrangements. <o:p></o:p>**
 
-The contracting States accept this Convention as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which, before becoming a member of the Organization has undertaken any obligations toward a <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>non-contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> or a national of a contracting State or of a <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>non-contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> inconsistent with the terms of this Convention, shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Convention. <o:p></o:p>
+The contracting States accept this Convention as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which, before becoming a member of the Organization has undertaken any obligations toward a <st1:place><st1:placename>non-contracting</st1:placename>  <st1:placetype>State</st1:placetype></st1:place> or a national of a contracting State or of a <st1:place><st1:placename>non-contracting</st1:placename>  <st1:placetype>State</st1:placetype></st1:place> inconsistent with the terms of this Convention, shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Convention. <o:p></o:p>
 
 _Article_ 83\. <o:p></o:p>
 
@@ -1990,11 +4153,11 @@ _Article_ 91\. <o:p></o:p>
 
 **Ratification of Convention. <o:p></o:p>**
 
-(_a_)   This Convention shall be subject to ratification by the signatory States. The instruments of ratification shall be deposited in the archives of the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States of America</st1:place></st1:country-region>, which shall give notice of the date of the deposit to each of the signatory and adhering States. <o:p></o:p>
+(_a_)   This Convention shall be subject to ratification by the signatory States. The instruments of ratification shall be deposited in the archives of the Government of the <st1:country-region><st1:place>United States of America</st1:place></st1:country-region>, which shall give notice of the date of the deposit to each of the signatory and adhering States. <o:p></o:p>
 
 (_b_)   As soon as this Convention has been ratified or adhered to by twenty-six States it shall come into force between them on the thirtieth day after deposit of the twenty-sixth instrument. It shall come into force for each State ratifying thereafter on the thirtieth day after the deposit of its instrument of ratification. <o:p></o:p>
 
-(_c_)   It shall be the duty of the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States of America</st1:place></st1:country-region> to notify the government of each of the signatory and adhering States of the date on which this Convention comes into force. <o:p></o:p>
+(_c_)   It shall be the duty of the Government of the <st1:country-region><st1:place>United   States of America</st1:place></st1:country-region> to notify the government of each of the signatory and adhering States of the date on which this Convention comes into force. <o:p></o:p>
 
 _Article_ 92\. <o:p></o:p>
 
@@ -2022,7 +4185,7 @@ _Article_ 95.<o:p></o:p>
 
 **Denunciation of Convention.<o:p></o:p>**
 
-(_a_)   Any contracting State may give notice of denunciation of this Convention three years after its coming into effect by notification addressed to the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States of America</st1:place></st1:country-region>, which shall at once inform each of the contracting States. <o:p></o:p>
+(_a_)   Any contracting State may give notice of denunciation of this Convention three years after its coming into effect by notification addressed to the Government of the <st1:country-region><st1:place>United States of America</st1:place></st1:country-region>, which shall at once inform each of the contracting States. <o:p></o:p>
 
 (_b_)   Denunciation shall take effect one year from the date of the receipt of the notification and shall operate only as regards the State effecting the denunciation. <o:p></o:p>
 
@@ -2044,7 +4207,7 @@ SIGNATURE OF CONVENTION.<o:p></o:p>
 
 IN WITNESS WHEREOF, the undersigned plenipotentiaries, having been duly authorized, sign this Convention on behalf of their respective governments on the dates appearing opposite their signatures. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> the seventh day of December 1944, in the English language. A text drawn up in the English, French, and Spanish languages, each of which shall be of equal authenticity, shall be open for signature at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Washington</st1:city>, <st1:state>D.C.</st1:state></st1:place> Both texts shall be deposited in the archives of the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States of America</st1:place></st1:country-region>, and certified copies shall be transmitted by that Government to the governments of all the States which may sign or adhere to this Convention.<o:p></o:p>
+DONE at <st1:city><st1:place>Chicago</st1:place></st1:city> the seventh day of December 1944, in the English language. A text drawn up in the English, French, and Spanish languages, each of which shall be of equal authenticity, shall be open for signature at <st1:place><st1:city>Washington</st1:city>,  <st1:state>D.C.</st1:state></st1:place> Both texts shall be deposited in the archives of the Government of the <st1:country-region><st1:place>United States   of America</st1:place></st1:country-region>, and certified copies shall be transmitted by that Government to the governments of all the States which may sign or adhere to this Convention.<o:p></o:p>
 
 <o:p> </o:p>
 
@@ -2068,7 +4231,7 @@ The privileges of this section shall not be applicable with respect to airports 
 
 _Section 2._
 
-The exercise of the foregoing privileges shall be in accordance with the provisions of the Interim Agreement on International Civil Aviation and, when it comes into force, with the provisions of the Convention on International Civil Aviation, both drawn up at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1944" day="7" month="12">December 7, 1944</st1:date>.<o:p></o:p>
+The exercise of the foregoing privileges shall be in accordance with the provisions of the Interim Agreement on International Civil Aviation and, when it comes into force, with the provisions of the Convention on International Civil Aviation, both drawn up at <st1:city><st1:place>Chicago</st1:place></st1:city> on <st1:date month="12" day="7" year="1944">December 7, 1944</st1:date>.<o:p></o:p>
 
 _Section 3._
 
@@ -2116,13 +4279,13 @@ _Signatures and Acceptances of Agreement._
 
 The undersigned delegates to the International Civil Aviation Conference, convened in Chicago on November 1, 1944, have affixed their signatures to this Agreement with the understanding that the Government of the United States of America shall be informed at the earliest possible date by each of the governments on whose behalf the Agreement has been signed whether signature on its behalf shall constitute an acceptance of the Agreement by that government and an obligation binding upon it. <o:p></o:p>
 
-Any State a member of the International Civil Aviation Organization may accept the present Agreement as an obligation binding upon it by notification of its acceptance to the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States</st1:place></st1:country-region>, and such acceptance shall become effective upon the date of the receipt of such notification by that Government. <o:p></o:p>
+Any State a member of the International Civil Aviation Organization may accept the present Agreement as an obligation binding upon it by notification of its acceptance to the Government of the <st1:country-region><st1:place>United States</st1:place></st1:country-region>, and such acceptance shall become effective upon the date of the receipt of such notification by that Government. <o:p></o:p>
 
-This Agreement shall come into force as between contracting States upon its acceptance by each of them. Thereafter it shall become binding as to each other State indicating its acceptance to the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States</st1:place></st1:country-region> on the date of the receipt of the acceptance by that Government. The Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States</st1:place></st1:country-region> shall inform all signatory and accepting States of the date of all acceptances of the Agreement, and of the date on which it comes into force for each accepting State. <o:p></o:p>
+This Agreement shall come into force as between contracting States upon its acceptance by each of them. Thereafter it shall become binding as to each other State indicating its acceptance to the Government of the <st1:country-region><st1:place>United   States</st1:place></st1:country-region> on the date of the receipt of the acceptance by that Government. The Government of the <st1:country-region><st1:place>United   States</st1:place></st1:country-region> shall inform all signatory and accepting States of the date of all acceptances of the Agreement, and of the date on which it comes into force for each accepting State. <o:p></o:p>
 
 IN WITNESS WHEREOF, the undersigned, having been duly authorized, sign this Agreement on behalf of their respective governments on the dates appearing opposite their respective signatures. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> the seventh day of December, 1944, in the English language. A text drawn up in the English, French, and Spanish languages, each of which shall be of equal authenticity, shall be opened for signature at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Washington</st1:city>, <st1:state>D.C.</st1:state></st1:place> Both texts shall be deposited in the archives of the Government of the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States of America</st1:place></st1:country-region>, and certified copies shall be transmitted by that Government to the governments of all the States which may sign and accept this Agreement. <o:p></o:p>
+DONE at <st1:city><st1:place>Chicago</st1:place></st1:city> the seventh day of December, 1944, in the English language. A text drawn up in the English, French, and Spanish languages, each of which shall be of equal authenticity, shall be opened for signature at <st1:place><st1:city>Washington</st1:city>,  <st1:state>D.C.</st1:state></st1:place> Both texts shall be deposited in the archives of the Government of the <st1:country-region><st1:place>United States   of America</st1:place></st1:country-region>, and certified copies shall be transmitted by that Government to the governments of all the States which may sign and accept this Agreement. <o:p></o:p>
 
 <o:p> </o:p>
 
@@ -2132,9 +4295,9 @@ _Section 4_
 
 The Assembly of the International Civil Aviation Organization, <o:p></o:p>
 
-Having met in its Eighth Session, at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city>, on the first day of June, 1954, and <o:p></o:p>
+Having met in its Eighth Session, at <st1:city><st1:place>Montreal</st1:place></st1:city>, on the first day of June, 1954, and <o:p></o:p>
 
-Having considered it desirable to amend the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
+Having considered it desirable to amend the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
 
 Approved, on the fourteenth day of June of the year one thousand nine hundred and fifty-four, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2164,7 +4327,7 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN FAITH WHEREOF, the President and the Secretary General of the Eighth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the fourteenth day of June of the year one thousand nine hundred and fifty-four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944.<o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the fourteenth day of June of the year one thousand nine hundred and fifty-four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944.<o:p></o:p>
 
 <o:p> </o:p>
 
@@ -2174,9 +4337,9 @@ _Section 4_
 
 The Assembly of the International Civil Aviation Organization, <o:p></o:p>
 
-Having met in its Eighth Session, at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city>, on the first day of June, 1954, and <o:p></o:p>
+Having met in its Eighth Session, at <st1:city><st1:place>Montreal</st1:place></st1:city>, on the first day of June, 1954, and <o:p></o:p>
 
-Having considered it desirable to amend the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
+Having considered it desirable to amend the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
 
 Approved, on the fourteenth day of June of the year one thousand nine hundred and fifty-four, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendments to the said Convention: <o:p></o:p>
 
@@ -2208,7 +4371,7 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN FAITH WHEREOF, the President and the Secretary General of the Eighth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the fourteenth day of June of the year one thousand nine hundred and fifty-four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944\. <o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the fourteenth day of June of the year one thousand nine hundred and fifty-four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944\. <o:p></o:p>
 
 <o:p> </o:p>
 
@@ -2218,13 +4381,13 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION,<o:p></o:p>
 
-HAVING MET in its Thirteenth (Extraordinary) Session, at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city>, on the nineteenth day of June, 1961, <o:p></o:p>
+HAVING MET in its Thirteenth (Extraordinary) Session, at <st1:city><st1:place>Montreal</st1:place></st1:city>, on the nineteenth day of June, 1961, <o:p></o:p>
 
 HAVING NOTED that it is the general desire of Contracting States to enlarge the membership of the Council,<o:p></o:p>
 
 HAVING CONSIDERED it proper to provide for six additional seats in the Council and, accordingly, to increase the membership from twenty-one to twenty-seven, <o:p></o:p>
 
-AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
+AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
 
 APPROVED, on the twenty-first day of June of the year one thousand nine hundred and sixty-one, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2252,25 +4415,24 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN FAITH WHEREOF, the President and Secretary General of the Thirteenth (Extraordinary) Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the twenty-first day of June of the year one thousand nine hundred and sixty-one in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944\. <o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the twenty-first day of June of the year one thousand nine hundred and sixty-one in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944\. <o:p></o:p>
 
 <o:p> </o:p>
 
 # Schedule 6—Protocol relating to an amendment to the Convention on International Civil Aviation 
-Signed at 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Rome</span></st1:place></st1:city><span class="CharChapText">, on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1962" day="15" month="9"><span class="CharChapText">15 September 1962</span></st1:date><o:p></o:p>
+ Signed at <st1:city><st1:place><span class="CharChapText">Rome</span></st1:place></st1:city><span class="CharChapText">, on </span><st1:date month="9" day="15" year="1962"><span class="CharChapText">15 September 1962</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION,<o:p></o:p>
 
-HAVING MET in its Fourteenth Session, at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Rome</st1:place></st1:city>, on the twenty-first day of August, 1962, <o:p></o:p>
+HAVING MET in its Fourteenth Session, at <st1:city><st1:place>Rome</st1:place></st1:city>, on the twenty-first day of August, 1962, <o:p></o:p>
 
 HAVING NOTED that it is the general desire of contracting States that the minimum number of contracting States which may request the holding of an extraordinary meeting of the Assembly should be increased from the present figure of ten, <o:p></o:p>
 
 HAVING CONSIDERED it proper to increase the said number to one-fifth of the total number of contracting States, <o:p></o:p>
 
-AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
+AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December, 1944, <o:p></o:p>
 
 APPROVED, on the fourteenth day of September of the year one thousand nine hundred and sixty-two, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention:<o:p></o:p>
 
@@ -2298,23 +4460,23 @@ With respect to any contracting State ratifying this protocol after the date afo
 
 IN FAITH WHEREOF, the President and the Secretary General of the Fourteenth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Rome</st1:place></st1:city> on the fifteenth day of September of the year one thousand nine hundred and sixty-two in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation aforementioned. <o:p></o:p>
+DONE at <st1:city><st1:place>Rome</st1:place></st1:city> on the fifteenth day of September of the year one thousand nine hundred and sixty-two in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation aforementioned. <o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 7—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">New York</span></st1:place></st1:state><span class="CharChapText">, on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1971" day="12" month="3"><span class="CharChapText">12 March 1971</span></st1:date><o:p></o:p>
+# Schedule 7—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at <st1:state><st1:place><span class="CharChapText">New York</span></st1:place></st1:state><span class="CharChapText">, on </span><st1:date month="3" day="12" year="1971"><span class="CharChapText">12 March 1971</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION<o:p></o:p>
 
-HAVING MET in Extraordinary Session, at <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New York</st1:place></st1:state>, on the eleventh day of March 1971, <o:p></o:p>
+HAVING MET in Extraordinary Session, at <st1:state><st1:place>New York</st1:place></st1:state>, on the eleventh day of March 1971, <o:p></o:p>
 
 HAVING NOTED that it is the general desire of contracting States to enlarge the membership of the Council, <o:p></o:p>
 
 HAVING CONSIDERED it proper to provide for three seats in the Council additional to the six seats which were provided for by the amendment adopted on the twenty-first day of June 1961 to the Convention on International Civil Aviation (Chicago, 1944) and, accordingly, to increase the membership of the Council to thirty, <o:p></o:p>
 
-AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
+AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
 
 APPROVED, on the twelfth day of March 1971, in accordance with the provisions of paragraph (a) of Article 94 of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2344,23 +4506,23 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Extraordinary Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, signed this Protocol. <o:p></o:p>
 
-DONE at New York on the twelfth day of March of the year one thousand nine hundred and seventy-one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
+DONE at New York on the twelfth day of March of the year one thousand nine hundred and seventy-one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 8—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Vienna</span></st1:place></st1:city><span class="CharChapText">, on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1971" day="7" month="7"><span class="CharChapText">7 July 1971</span></st1:date><o:p></o:p>
+# Schedule 8—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at <st1:city><st1:place><span class="CharChapText">Vienna</span></st1:place></st1:city><span class="CharChapText">, on </span><st1:date month="7" day="7" year="1971"><span class="CharChapText">7 July 1971</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION<o:p></o:p>
 
-HAVING MET in its Eighteenth Session, at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Vienna</st1:place></st1:city>, on the fifth day of July 1971, <o:p></o:p>
+HAVING MET in its Eighteenth Session, at <st1:city><st1:place>Vienna</st1:place></st1:city>, on the fifth day of July 1971, <o:p></o:p>
 
 HAVING NOTED that it is the general desire of Contracting States to enlarge the membership of the Air Navigation Commission, <o:p></o:p>
 
 HAVING CONSIDERED it proper to increase the membership of that body from twelve to fifteen, and <o:p></o:p>
 
-HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
+HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
 
 (1)   APPROVED, in accordance with the provisions of Article 94 (a) of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2388,27 +4550,27 @@ The Secretary General shall immediately notify all Contracting States of the dat
 
 The Secretary General shall immediately notify all States parties to the said Convention of the date on which this Protocol comes into force; <o:p></o:p>
 
-With respect to any <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> ratifying this Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization.<o:p></o:p>
+With respect to any <st1:place><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> ratifying this Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization.<o:p></o:p>
 
 IN WITNESS WHEREOF, the President and the Secretary General of the Eighteenth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Vienna</st1:place></st1:city> on the seventh day of July of the year one thousand nine hundred and seventy-one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
+DONE at <st1:city><st1:place>Vienna</st1:place></st1:city> on the seventh day of July of the year one thousand nine hundred and seventy-one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 9—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText">, on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="16" month="10"><span class="CharChapText">16 October 1974</span></st1:date><o:p></o:p>
+# Schedule 9—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at <st1:city><st1:place><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText">, on </span><st1:date month="10" day="16" year="1974"><span class="CharChapText">16 October 1974</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION<o:p></o:p>
 
-HAVING MET in its Twenty-first Session, at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="14" month="10">14 October 1974</st1:date>, <o:p></o:p>
+HAVING MET in its Twenty-first Session, at <st1:city><st1:place>Montreal</st1:place></st1:city> on <st1:date month="10" day="14" year="1974">14 October 1974</st1:date>, <o:p></o:p>
 
 HAVING NOTED that it is the general desire of contracting States to enlarge the membership of the Council, <o:p></o:p>
 
 HAVING CONSIDERED it proper to provide for three additional seats in the Council, and accordingly to increase the membership from thirty to thirty-three, in order to permit an increase in the representation of States elected in the second, and particularly the third, part of the election, and <o:p></o:p>
 
-HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
+HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
 
 (1)   APPROVED, in accordance with the provisions of Article 94 (a) of the Convention aforesaid, the following proposed amendment to the said Convention:<o:p></o:p>
 
@@ -2438,17 +4600,17 @@ This Protocol has been drawn up by the Secretary General of the Organization; <o
 
 IN WITNESS WHEREOF, the President and the Secretary General of the Twenty-first Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the sixteenth day of October of the year one thousand nine hundred and seventy-four, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to the States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the sixteenth day of October of the year one thousand nine hundred and seventy-four, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to the States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 9A—Protocol relating to an amendment to the Convention on International Civil Aviation signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1980" day="6" month="10"><span class="CharChapText">6 October 1980</span></st1:date><o:p></o:p>
+# Schedule 9A—Protocol relating to an amendment to the Convention on International Civil Aviation signed at <st1:city><st1:place><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date month="10" day="6" year="1980"><span class="CharChapText">6 October 1980</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION <o:p></o:p>
 
-HAVING MET in its Twenty-third Session at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1980" day="6" month="10">6 October 1980</st1:date>,<o:p></o:p>
+HAVING MET in its Twenty-third Session at <st1:city><st1:place>Montreal</st1:place></st1:city> on <st1:date month="10" day="6" year="1980">6 October 1980</st1:date>,<o:p></o:p>
 
 HAVING NOTED Resolutions A21-22 and A22-28 on lease, charter and interchange of aircraft in international operations, <o:p></o:p>
 
@@ -2456,7 +4618,7 @@ HAVING NOTED the draft amendment to the Convention on International Civil Aviati
 
 HAVING NOTED that it is the general desire of Contracting States to make a provision for the transfer of certain functions and duties from the State of registry to the State of the operator of the aircraft in the case of lease, charter or interchange or any similar arrangements with respect to such aircraft, <o:p></o:p>
 
-HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
+HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
 
 1.  APPROVES, in accordance with the provisions of Article 94 _(a)_ of the Convention aforesaid, the following proposed amendment to the said Convention:<o:p></o:p>
 
@@ -2466,7 +4628,7 @@ Insert after Article 83 the following new Article 83 _bis_: <o:p></o:p>
 
 _Transfer of certain functions and duties_
 
-_(a)_ Notwithstanding the provisions of Article<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>2, 30, 31 and 32(a), when an aircraft registered in a contracting State is operated pursuant to an agreement for the lease, charter or interchange of the aircraft or any similar arrangement by an operator who has his principal place of business or, if he has no such place of business, his permanent residence in another contracting State, the State of registry may, by agreement with such other State, transfer to it all or part of its functions and duties as State of registry in respect of that aircraft under Article<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>2, 30, 31 and 32(a). The State of registry shall be relieved of responsibility in respect of the functions and duties transferred. <o:p></o:p>
+_(a)_ Notwithstanding the provisions of Article<st1:personname>s 1</st1:personname>2, 30, 31 and 32(a), when an aircraft registered in a contracting State is operated pursuant to an agreement for the lease, charter or interchange of the aircraft or any similar arrangement by an operator who has his principal place of business or, if he has no such place of business, his permanent residence in another contracting State, the State of registry may, by agreement with such other State, transfer to it all or part of its functions and duties as State of registry in respect of that aircraft under Article<st1:personname>s 1</st1:personname>2, 30, 31 and 32(a). The State of registry shall be relieved of responsibility in respect of the functions and duties transferred. <o:p></o:p>
 
 _(b)_ The transfer shall not have effect in respect of other contracting States before either the agreement between States in which it is embodied has been registered with the Council and made public pursuant to Article 83 or the existence and scope of the agreement have been directly communicated to the authorities of the other contracting State or States concerned by a State party to the agreement. <o:p></o:p>
 
@@ -2488,7 +4650,7 @@ _(c)_ The provisions of paragraphs (a) and (b) above shall also be applicable 
 
             f)     The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force.<o:p></o:p>
 
-           g)     With respect to any <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization.<o:p></o:p>
+           g)     With respect to any <st1:place><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization.<o:p></o:p>
 
 CONSEQUENTLY, pursuant to the aforesaid action of the Assembly,<o:p></o:p>
 
@@ -2496,17 +4658,17 @@ This Protocol has been drawn up by the Secretary General of the Organization.<o:
 
 IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-third Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.<o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the sixth day of October of the year one thousand nine hundred and eighty, in a single document in the English, French, Russian, and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the sixth day of October of the year one thousand nine hundred and eighty, in a single document in the English, French, Russian, and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 10—Protocol relating to an amendment to the Convention on International Civil Aviation signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="10" month="5"><span class="CharChapText">10 May 1984</span></st1:date><o:p></o:p>
+# Schedule 10—Protocol relating to an amendment to the Convention on International Civil Aviation signed at <st1:city><st1:place><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date month="5" day="10" year="1984"><span class="CharChapText">10 May 1984</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION<o:p></o:p>
 
-HAVING MET in its Twenty-fifth Session (Extraordinary) at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="10" month="5">10 May 1984</st1:date>,<o:p></o:p>
+HAVING MET in its Twenty-fifth Session (Extraordinary) at <st1:city><st1:place>Montreal</st1:place></st1:city> on <st1:date month="5" day="10" year="1984">10 May 1984</st1:date>,<o:p></o:p>
 
 HAVING NOTED that international civil aviation can greatly help to create and preserve friendship and understanding among the nations and peoples of the world, yet its abuse can become a threat to general security, <o:p></o:p>
 
@@ -2516,7 +4678,7 @@ HAVING NOTED that it is necessary that international civil aviation may be devel
 
 HAVING NOTED that in keeping with elementary considerations of humanity the safety and the lives of persons on board civil aircraft must be assured,<o:p></o:p>
 
-HAVING NOTED that in the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944 the contracting States <o:p></o:p>
+HAVING NOTED that in the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944 the contracting States <o:p></o:p>
 
 —recognize that every State has complete and exclusive sovereignty over the airspace above its territory, <o:p></o:p>
 
@@ -2528,7 +4690,7 @@ HAVING NOTED the resolve of the contracting States to take appropriate measures 
 
 HAVING NOTED the general desire of contracting States to reaffirm the principle of non-use of weapons against civil aircraft in flight, <o:p></o:p>
 
-1.    DECIDES that it is desirable therefore to amend the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
+1.    DECIDES that it is desirable therefore to amend the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
 
 2.    APPROVES, in accordance with the provision of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2568,23 +4730,23 @@ This Protocol has been drawn up by the Secretary General of the Organization. <o
 
 IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-fifth Session (Extraordinary) of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.<o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the 10th day of May of the year one thousand nine hundred and eighty-four, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the 10th day of May of the year one thousand nine hundred and eighty-four, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="6" month="10"><span class="CharChapText">6 October 1989</span></st1:date><o:p></o:p>
+# Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at <st1:city><st1:place><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date month="10" day="6" year="1989"><span class="CharChapText">6 October 1989</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION <o:p></o:p>
 
-HAVING MET in its Twenty-seventh Session at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="6" month="10">6 October 1989</st1:date>, <o:p></o:p>
+HAVING MET in its Twenty-seventh Session at <st1:city><st1:place>Montreal</st1:place></st1:city> on <st1:date month="10" day="6" year="1989">6 October 1989</st1:date>, <o:p></o:p>
 
 HAVING NOTED that it is the general desire of Contracting States to enlarge the membership of the Air Navigation Commission, <o:p></o:p>
 
 HAVING CONSIDERED it proper to increase the membership of that body from fifteen to nineteen, and <o:p></o:p>
 
-HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
+HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944, <o:p></o:p>
 
 1.    APPROVES, in accordance with the provisions of Article 94(_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2606,7 +4768,7 @@ e)    The Secretary General shall immediately notify all Contracting State
 
 f)     The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force. <o:p></o:p>
 
-g)    With respect to any <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. <o:p></o:p>
+g)    With respect to any <st1:place><st1:placename>Contracting</st1:placename>  <st1:placetype>State</st1:placetype></st1:place> ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. <o:p></o:p>
 
 CONSEQUENTLY, pursuant to the aforesaid action of the Assembly, <o:p></o:p>
 
@@ -2614,23 +4776,23 @@ This Protocol has been drawn up by the Secretary General of the Organization.<o:
 
 IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-seventh Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.<o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the sixth day of October of the year one thousand nine hundred and eighty-nine, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944\. <o:p></o:p>
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the sixth day of October of the year one thousand nine hundred and eighty-nine, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944\. <o:p></o:p>
 
 <o:p> </o:p>
 
-# Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="26" month="10"><span class="CharChapText">26 October 1990</span></st1:date><o:p></o:p>
+# Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at <st1:city><st1:place><span class="CharChapText">Montreal</span></st1:place></st1:city><span class="CharChapText"> on </span><st1:date month="10" day="26" year="1990"><span class="CharChapText">26 October 1990</span></st1:date><o:p></o:p>
 
 _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION<o:p></o:p>
 
-HAVING MET in its Twenty-eighth Session (Extraordinary) at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="25" month="10">25 October 1990</st1:date>; <o:p></o:p>
+HAVING MET in its Twenty-eighth Session (Extraordinary) at <st1:city><st1:place>Montreal</st1:place></st1:city> on <st1:date month="10" day="25" year="1990">25 October 1990</st1:date>; <o:p></o:p>
 
 HAVING NOTED that it is the desire of a large number of Contracting States to enlarge the membership of the Council in order to ensure better balance by means of an increased representation of Contracting States; <o:p></o:p>
 
 HAVING CONSIDERED it appropriate to increase the membership of that body from thirty-three to thirty-six; <o:p></o:p>
 
-HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944; <o:p></o:p>
+HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944; <o:p></o:p>
 
 1.     APPROVES, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: <o:p></o:p>
 
@@ -2652,7 +4814,7 @@ e)    The Secretary General shall immediately notify all Contracting State
 
 f)     The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force. <o:p></o:p>
 
-g)    With respect to any <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Contracting</st1:placename> <st1:placetype>State</st1:placetype></st1:place> ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. <o:p></o:p>
+g)    With respect to any <st1:place><st1:placename>Contracting</st1:placename>  <st1:placetype>State</st1:placetype></st1:place> ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. <o:p></o:p>
 
 CONSEQUENTLY, pursuant to the aforesaid action of the Assembly, <o:p></o:p>
 
@@ -2660,8 +4822,7 @@ This Protocol has been drawn up by the Secretary General of the Organization.<o:
 
 IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-eighth Session (Extraordinary) of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. <o:p></o:p>
 
-DONE at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Montreal</st1:place></st1:city> on the twenty-sixth day of October of the year one thousand nine hundred and ninety, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
-
+DONE at <st1:city><st1:place>Montreal</st1:place></st1:city> on the twenty-sixth day of October of the year one thousand nine hundred and ninety, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at <st1:city><st1:place>Chicago</st1:place></st1:city> on the seventh day of December 1944.<o:p></o:p>
 
 # Notes to the _Air Navigation Act 1920_<o:p></o:p>
 
@@ -2671,7 +4832,7 @@ The _Air Navigation Act 1920_ as shown in this compilation comprises Act No. 5
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.<o:p></o:p>
 
-All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="10">1 October 2001</st1:date> is not included in this compilation. For subsequent information _see_ Table A.<o:p></o:p>
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date month="10" day="1" year="2001">1 October  2001</st1:date> is not included in this compilation. For subsequent information _see_ Table A.<o:p></o:p>
 
 ### Table of Acts<o:p></o:p>
 
@@ -2691,13 +4852,11 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year <o:p></o:p> 
- </div>
+and year <o:p></o:p> </div>
     </td>
     <td>
       <div>Date 
-of Assent <o:p></o:p> 
- </div>
+of Assent <o:p></o:p> </div>
     </td>
     <td>
       <div>Date of commencement <o:p></o:p> </div>
@@ -2707,960 +4866,905 @@ of Assent <o:p></o:p>
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1920 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>50, 1920 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1920" day="2" month="12">2 Dec 1920</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><i style="mso-bidi-font-style: normal">(a)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1936 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>93, 1936 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1936" day="7" month="12">7 Dec 1936</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1936" day="7" month="12">7 Dec 1936</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>6, 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="2" month="4">2 Apr 1947</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="30" month="4">30 Apr 1947</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 6 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act (No. 2) 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>89, 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="11" month="12">11 Dec 1947</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="11" month="12">11 Dec 1947</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1950 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>80, 1950 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1950" day="16" month="12">16 Dec 1950</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1950" day="31" month="12">31 Dec 1950</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 16 and 17 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1960" day="10" month="6">10 June 1960</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1960" day="19" month="8">19 Aug 1960</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1960, 
-p. 2903) <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div> S. 6 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1961 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>72, 1961 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1961" day="27" month="10">27 Oct 1961</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1961" day="24" month="11">24 Nov 1961</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1963 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>8, 1963 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>20 May 1963 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1963" day="17" month="6">17 June 1963</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision (Decimal Currency) Act 1966 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>93, 1966 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="29" month="10">29 Oct 1966</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="1" month="12">1 Dec 1966</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1971 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>79, 1971 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1971" day="7" month="10">7 Oct 1971</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1971" day="4" month="11">4 Nov 1971</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>130, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="13" month="11">13 Nov 1973</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="13" month="11">13 Nov 1973</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>216, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="19" month="12">19 Dec 1973</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="31" month="12">31 Dec 1973</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 9(1) and 10 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Act 1974 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>124, 1974 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="3" month="12">3 Dec 1974</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 4, 5, 6(1) and 10: 1 Apr 1976 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1976, No. S55) 
-Ss. 7, 9, 12(1) and 13: 1 Mar 1975 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1975, No. S36) 
-Remainder: Royal Assent <o:p></o:p> 
-
-</div>
-    </td>
-    <td>
-      <div>Ss. 9–11 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Amendment Act 1977 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>91, 1977 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1977" day="12" month="9">12 Sept 1977</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1977" day="12" month="9">12 Sept 1977</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>19, 1979 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1979" day="28" month="3">28 Mar 1979</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Parts II–XVII (ss. 3–123): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1979" day="15" month="5">15 May 1979</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1979, No. S86) 
-Remainder: Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>S. 124 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Amendment Act 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>8 May 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1980" day="1" month="6">1 June 1980</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1980, No. G21, p. 3) <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> Statute Law (Miscellaneous Amendments) Act (No. 2) 1982 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>80, 1982 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1982" day="22" month="9">22 Sept 1982</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Part LXXVII (s. 280): Royal Assent <i style="mso-bidi-font-style: normal">(b)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 280(2) and (3) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>39, 1983 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1983" day="20" month="6">20 June 1983</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 3: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1983" day="18" month="7">18 July 1983</st1:date> <i style="mso-bidi-font-style: normal">(c)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 7(1) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Amendment Act 1984 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>69, 1984 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="25" month="6">25 June 1984</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="25" month="6">25 June 1984</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Amendment Act (No. 2) 1984 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>108, 1984 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="17" month="10">17 Oct 1984</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="14" month="11">14 Nov 1984</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Amendment Act 1986 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>69, 1986 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1986" day="24" month="6">24 June 1986</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 5–7: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1986" day="5" month="8">5 Aug 1986</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1986, No. S364) 
-Remainder: Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Civil Aviation Act 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>63, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="15" month="6">15 June 1988</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Part III (ss. 17–32), 
+<tr>
+  <td>
+    <div>Air Navigation Act 1920 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>50, 1920 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="2" year="1920">2 Dec 1920</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><i style="mso-bidi-font-style:normal">(a)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1936 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>93, 1936 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="7" year="1936">7 Dec 1936</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="7" year="1936">7 Dec 1936</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>6, 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="2" year="1947">2 Apr 1947</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="30" year="1947">30 Apr 1947</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 6 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act (No. 2) 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>89, 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="11" year="1947">11 Dec 1947</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="11" year="1947">11 Dec 1947</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 4 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1950 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>80, 1950 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="16" year="1950">16 Dec 1950</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="31" year="1950">31 Dec 1950</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 16 and 17 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="10" year="1960">10 June 1960</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="8" day="19" year="1960">19 Aug 1960</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1960, 
+p. 2903) <o:p></o:p></div>
+  </td>
+  <td>
+    <div> S. 6 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1961 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>72, 1961 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="27" year="1961">27 Oct 1961</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="11" day="24" year="1961">24 Nov 1961</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1963 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>8, 1963 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>20 May 1963 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="17" year="1963">17 June 1963</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision (Decimal Currency) Act 1966 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>93, 1966 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="29" year="1966">29 Oct 1966</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="1" year="1966">1 Dec 1966</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1971 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>79, 1971 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="7" year="1971">7 Oct 1971</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="11" day="4" year="1971">4 Nov 1971</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>130, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="11" day="13" year="1973">13 Nov 1973</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="11" day="13" year="1973">13 Nov 1973</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>216, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="19" year="1973">19 Dec 1973</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="31" year="1973">31 Dec 1973</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 9(1) and 10 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Act 1974 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>124, 1974 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="3" year="1974">3 Dec 1974</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 4, 5, 6(1) and 10: 1 Apr 1976 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1976, No. S55) 
+Ss. 7, 9, 12(1) and 13: 1 Mar 1975 ( <i style="mso-bidi-font-style:normal">see Gazette</i>1975, No. S36) 
+Remainder: Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 9–11 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Amendment Act 1977 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>91, 1977 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="9" day="12" year="1977">12 Sept 1977</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="9" day="12" year="1977">12 Sept 1977</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>19, 1979 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="3" day="28" year="1979">28 Mar 1979</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Parts II–XVII (ss. 3–123): <st1:date month="5" day="15" year="1979">15 May 1979</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1979, No. S86) 
+Remainder: Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 124 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Amendment Act 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>8 May 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="1" year="1980">1 June 1980</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1980, No. G21, p. 3) <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> Statute Law (Miscellaneous Amendments) Act (No. 2) 1982 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>80, 1982 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="9" day="22" year="1982">22 Sept 1982</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Part LXXVII (s. 280): Royal Assent <i style="mso-bidi-font-style:normal">(b)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 280(2) and (3) <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>39, 1983 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="20" year="1983">20 June 1983</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 3: <st1:date month="7" day="18" year="1983">18 July 1983</st1:date> <i style="mso-bidi-font-style:normal">(c)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 7(1) <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Amendment Act 1984 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>69, 1984 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="25" year="1984">25 June 1984</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="25" year="1984">25 June 1984</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Amendment Act (No. 2) 1984 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>108, 1984 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="17" year="1984">17 Oct 1984</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="11" day="14" year="1984">14 Nov 1984</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Amendment Act 1986 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>69, 1986 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="24" year="1986">24 June 1986</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 5–7: <st1:date month="8" day="5" year="1986">5 Aug 1986</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1986, No. S364) 
+Remainder: Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Civil Aviation Act 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>63, 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="15" year="1988">15 June 1988</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Part III (ss. 17–32), 
 s. 98, Parts IX and X (ss. 99–103): 
- <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="1" month="7">1 July 1988</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1988, No. S189) 
-Remainder: Royal Assent <o:p></o:p> 
-
-</div>
-    </td>
-    <td>
-      <div>Ss. 100, 102(1) and 103 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport Legislation Amendment Act 1989 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>6, 1989 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="16" month="3">16 Mar 1989</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 8: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="15" month="6">15 June 1988</st1:date> <i style="mso-bidi-font-style: normal">(d)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Air Navigation Amendment Act 1989 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>45, 1989 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="8" month="6">8 June 1989</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="8" month="6">8 June 1989</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Communications Legislation Amendment Act (No. 2) 1989 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>23, 1990 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="17" month="1">17 Jan 1990</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Part 2 (ss. 3–5): Royal Assent <i style="mso-bidi-font-style: normal">(e)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Communications Legislation Amendment Act 1990 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>11, 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="21" month="1">21 Jan 1991</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4(1): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="1" month="7">1 July 1988</st1:date> <i style="mso-bidi-font-style: normal">(f)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4(2) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Communications Legislation Amendment Act (No. 2) 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>71, 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="26" month="6">26 June 1992</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Part 2 (ss. 3–6): Royal Assent <i style="mso-bidi-font-style: normal">(g)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> Transport and Communications Legislation Amendment Act 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>82, 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="30" month="6">30 June 1992</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 3, 4, 5(1) and 8–15: Royal Assent <i style="mso-bidi-font-style: normal">(h)</i> 
-Ss. 5(2), 6 and <st1:time minute="30" hour="7">7: 30</st1:time>Dec 1992 <i style="mso-bidi-font-style: normal">(h)</i> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Communications Legislation Amendment Act (No. 2) 1993 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>5, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="18" month="1">18 Jan 1994</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule (items 1–3): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="2" month="10">2 Oct 1997</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. S387) <i style="mso-bidi-font-style: normal">(i)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Communications Legislation Amendment Act 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>64, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>30 May 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 3(1): Royal Assent <i style="mso-bidi-font-style: normal">(j)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Qantas Sale Amendment Act 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>168, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="16" month="12">16 Dec 1994</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 3: Royal Assent <i style="mso-bidi-font-style: normal">(k)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Civil Aviation Legislation Amendment Act 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>82, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="30" month="6">30 June 1995</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 5: 6 July 1995 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1995, No. S270) 
- <i style="mso-bidi-font-style: normal">(l)</i> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport Legislation Amendment Act (No. 2) 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="20" month="7">20 July 1995</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule (Part 1 \[items 1–22, 24, 25]): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="16" month="11">16 Nov 1995</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1995, No. S435) <i style="mso-bidi-font-style: normal">(m)</i> 
-Schedule (Part 1 \[item 23]): Royal Assent <i style="mso-bidi-font-style: normal">(m)</i> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1996 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>43, 1996 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="25" month="10">25 Oct 1996</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 127): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="20" month="7">20 July 1995</st1:date> <i style="mso-bidi-font-style: normal">(n)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport Legislation Amendment Act 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>95, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="27" month="7">27 July 1995</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (Part A \[items 1–4]): Royal Assent <i style="mso-bidi-font-style: normal">(o)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport Legislation Amendment Act (No. 3) 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>174, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="16" month="12">16 Dec 1995</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="1" month="7">1 July 1995</st1:date> 
-Remainder: Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Legislation Amendment Act (No. 1) 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>30, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="17" month="4">17 Apr 1997</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="17" month="4">17 Apr 1997</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Legislation Amendment Act (No. 1) 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>95, 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="23" month="7">23 July 1998</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1–8, 
-12–41): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="4" month="6">4 June 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S233) <i style="mso-bidi-font-style: normal">(p)</i> 
-Schedule 1 (items 9–11): Royal Assent <i style="mso-bidi-font-style: normal">(p)</i> <o:p></o:p> 
-
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Corporate Law Economic Reform Program Act 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>156, 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="24" month="11">24 Nov 1999</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 5 (item 1): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="13" month="3">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2000,No. S114) <i style="mso-bidi-font-style: normal">(q)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Legislation Amendment Act (No. 1) 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>48, 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>3 May 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1: Royal Assent <i style="mso-bidi-font-style: normal">(r)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>55, 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="28" month="6">28 June 2001</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 4–14 and Schedule 3 (items 19–21): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="7">15 July 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S285) <i style="mso-bidi-font-style: normal">(s)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 4–14 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>143, 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="10">1 Oct 2001</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="2" month="10">2 Oct 2001</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4 \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>8, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="4" month="4">4 Apr 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="5" month="4">5 Apr 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>63, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="3" month="7">3 July 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 3): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> <i style="mso-bidi-font-style: normal">(t) <o:p></o:p> </i></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Legislation Amendment Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>143, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="19" month="12">19 Dec 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2: Royal Assent <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport Safety Investigation (Consequential Amendments) Act 2003 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>19, 2003 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="11" month="4">11 Apr 2003</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1, 2): <i style="mso-bidi-font-style: normal">(u)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 2) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Civil Aviation Legislation Amendment Act 2003 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>83, 2003 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="6" month="9">6 Sept 2003</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 1): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="6" month="9">6 Sept 2004</st1:date> 
-Schedule 2 (item 2): Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
-    </td>
-    <td>
-      <div>140, 2003</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="17" month="12">17 Dec 2003</st1:date></div>
-    </td>
-    <td>
-      <div>S. 4 and Schedule 1 (item 8): <i style="mso-bidi-font-style: normal">(v)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4 \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004</div>
-    </td>
-    <td>
-      <div>9, 2004</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="10" month="3">10 Mar 2004</st1:date></div>
-    </td>
-    <td>
-      <div>Schedules 1–3: 10 Mar 2005 ( <i style="mso-bidi-font-style: normal">see</i>s. 2) 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 3 (am. by 149, 2004, Sch.2 \[items 2,  3]) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Security Amendment Act 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>149, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="14" month="12">14 Dec 2004</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 2): <i style="mso-bidi-font-style: normal">(w)</i> 
-Schedule 2 (item 3): Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Federal Police and Other Legislation Amendment Act 2004</div>
-    </td>
-    <td>
-      <div>64, 2004</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="22" month="6">22 June 2004</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 1): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">1 July 2004</st1:date></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
-
+ <st1:date month="7" day="1" year="1988">1 July 1988</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1988, No. S189) 
+Remainder: Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 100, 102(1) and 103 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by <o:p></o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport Legislation Amendment Act 1989 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>6, 1989 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="3" day="16" year="1989">16 Mar 1989</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 8: <st1:date month="6" day="15" year="1988">15 June 1988</st1:date> <i style="mso-bidi-font-style:normal">(d)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Air Navigation Amendment Act 1989 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>45, 1989 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="8" year="1989">8 June 1989</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="8" year="1989">8 June 1989</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Communications Legislation Amendment Act (No. 2) 1989 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>23, 1990 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="1" day="17" year="1990">17 Jan 1990</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Part 2 (ss. 3–5): Royal Assent <i style="mso-bidi-font-style:normal">(e)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Communications Legislation Amendment Act 1990 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>11, 1991 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="1" day="21" year="1991">21 Jan 1991</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 4(1): <st1:date month="7" day="1" year="1988">1 July 1988</st1:date> <i style="mso-bidi-font-style:normal">(f)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 4(2) <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Communications Legislation Amendment Act (No. 2) 1992 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>71, 1992 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="26" year="1992">26 June 1992</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Part 2 (ss. 3–6): Royal Assent <i style="mso-bidi-font-style:normal">(g)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> Transport and Communications Legislation Amendment Act 1992 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>82, 1992 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="30" year="1992">30 June 1992</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 3, 4, 5(1) and 8–15: Royal Assent <i style="mso-bidi-font-style:normal">(h)</i> 
+Ss. 5(2), 6 and <st1:time hour="7" minute="30">7: 30</st1:time>Dec 1992 <i style="mso-bidi-font-style:normal">(h)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Communications Legislation Amendment Act (No. 2) 1993 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>5, 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="1" day="18" year="1994">18 Jan 1994</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule (items 1–3): <st1:date month="10" day="2" year="1997">2 Oct 1997</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1997, No. S387) <i style="mso-bidi-font-style:normal">(i)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Communications Legislation Amendment Act 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>64, 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>30 May 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 3(1): Royal Assent <i style="mso-bidi-font-style: normal">(j)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Qantas Sale Amendment Act 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>168, 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="16" year="1994">16 Dec 1994</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i style="mso-bidi-font-style:normal">(k)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Civil Aviation Legislation Amendment Act 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>82, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="30" year="1995">30 June 1995</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 5: 6 July 1995 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1995, No. S270) 
+ <i style="mso-bidi-font-style:normal">(l)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport Legislation Amendment Act (No. 2) 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="7" day="20" year="1995">20 July 1995</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule (Part 1 \[items 1–22, 24, 25]): <st1:date month="11" day="16" year="1995">16 Nov 1995</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1995, No. S435) <i style="mso-bidi-font-style:normal">(m)</i> 
+Schedule (Part 1 \[item 23]): Royal Assent <i style="mso-bidi-font-style: normal">(m)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by <o:p></o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>43, 1996 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="25" year="1996">25 Oct 1996</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 127): <st1:date month="7" day="20" year="1995">20 July 1995</st1:date> <i style="mso-bidi-font-style: normal">(n)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport Legislation Amendment Act 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>95, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="7" day="27" year="1995">27 July 1995</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 1 (Part A \[items 1–4]): Royal Assent <i style="mso-bidi-font-style:normal">(o)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport Legislation Amendment Act (No. 3) 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>174, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="16" year="1995">16 Dec 1995</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 4: <st1:date month="7" day="1" year="1995">1 July 1995</st1:date> 
+Remainder: Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Aviation Legislation Amendment Act (No. 1) 1997 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>30, 1997 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="17" year="1997">17 Apr 1997</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="17" year="1997">17 Apr 1997</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Aviation Legislation Amendment Act (No. 1) 1998 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>95, 1998 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="7" day="23" year="1998">23 July 1998</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–8, 
+12–41): <st1:date month="6" day="4" year="1999">4 June 1999</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1999, No. S233) <i style="mso-bidi-font-style:normal">(p)</i> 
+Schedule 1 (items 9–11): Royal Assent <i style="mso-bidi-font-style: normal">(p)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>156, 1999 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="11" day="24" year="1999">24 Nov 1999</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 1): <st1:date month="3" day="13" year="2000">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style:normal">Gazette</i>2000,No. S114) <i style="mso-bidi-font-style: normal">(q)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Aviation Legislation Amendment Act (No. 1) 2000 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>48, 2000 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>3 May 2000 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 1: Royal Assent <i style="mso-bidi-font-style: normal">(r)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>55, 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="28" year="2001">28 June 2001</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 4–14 and Schedule 3 (items 19–21): <st1:date month="7" day="15" year="2001">15 July 2001</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>2001, No. S285) <i style="mso-bidi-font-style:normal">(s)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Ss. 4–14 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>143, 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="1" year="2001">1 Oct 2001</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="10" day="2" year="2001">2 Oct 2001</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i style="mso-bidi-font-style:normal">see</i>Table A] <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>8, 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="4" year="2002">4 Apr 2002</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="5" year="2002">5 Apr 2002</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>63, 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="7" day="3" year="2002">3 July 2002</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 3): <st1:date month="7" day="1" year="1999">1 July 1999</st1:date> <i style="mso-bidi-font-style: normal">(t) <o:p></o:p> </i></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Aviation Legislation Amendment Act 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>143, 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="19" year="2002">19 Dec 2002</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 2: Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Transport Safety Investigation (Consequential Amendments) Act 2003 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>19, 2003 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="4" day="11" year="2003">11 Apr 2003</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 2): <i style="mso-bidi-font-style: normal">(u)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 2) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Civil Aviation Legislation Amendment Act 2003 <o:p></o:p></div>
+  </td>
+  <td>
+    <div>83, 2003 <o:p></o:p></div>
+  </td>
+  <td>
+    <div><st1:date month="9" day="6" year="2003">6 Sept 2003</st1:date> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): <st1:date month="9" day="6" year="2004">6 Sept 2004</st1:date> 
+Schedule 2 (item 2): Royal Assent <o:p></o:p></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>140, 2003</div>
+  </td>
+  <td>
+    <div><st1:date month="12" day="17" year="2003">17 Dec 2003</st1:date></div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 1 (item 8): <i style="mso-bidi-font-style:normal">(v)</i> <o:p></o:p></div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i style="mso-bidi-font-style:normal">see</i>Table A] <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004</div>
+  </td>
+  <td>
+    <div>9, 2004</div>
+  </td>
+  <td>
+    <div><st1:date month="3" day="10" year="2004">10 Mar 2004</st1:date></div>
+  </td>
+  <td>
+    <div>Schedule <st1:personname>s 1</st1:personname>and 3: \[ <i style="mso-bidi-font-style:normal">see (w),</i>Note 2 and Table A]</div>
+  </td>
+  <td>
+    <div>Sch. 3 \[ <i style="mso-bidi-font-style:normal">see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Federal Police and Other Legislation Amendment Act 2004</div>
+  </td>
+  <td>
+    <div>64, 2004</div>
+  </td>
+  <td>
+    <div><st1:date month="6" day="22" year="2004">22 June 2004</st1:date></div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): <st1:date month="7" day="1" year="2004">1 July 2004</st1:date></div>
+  </td>
+  <td>
+    <div>— <o:p></o:p></div>
+  </td>
+</tr></table>
 
 _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follows:<o:p></o:p>
 
@@ -3668,13 +5772,13 @@ _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follo
 
          The respective dates so fixed were:<o:p></o:p>
 
-                              (a)   in relation to the then several States and Territories—<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1921" day="28" month="3">28 March 1921</st1:date> (_see Gazette_ 1921, p. 480);<o:p></o:p>
+                              (a)   in relation to the then several States and Territories—<st1:date month="3" day="28" year="1921">28 March 1921</st1:date> (_see Gazette_ 1921, p. 480);<o:p></o:p>
 
-                              (b)   in relation to the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Territory</st1:placetype> of <st1:placename>Cocos</st1:placename></st1:place> (Keeling) <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Islands</st1:place>—<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1955" day="23" month="11">23 November 1955</st1:date> (_see Gazette_ 1955, p. 3824A);<o:p></o:p>
+                              (b)   in relation to the <st1:place><st1:placetype>Territory</st1:placetype>  of <st1:placename>Cocos</st1:placename></st1:place> (Keeling) <st1:place>Islands</st1:place>—<st1:date month="11" day="23" year="1955">23 November 1955</st1:date> (_see Gazette_ 1955, p. 3824A);<o:p></o:p>
 
-                              (c)   in relation to the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Antarctic Territory</st1:place>—<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1956" day="19" month="4">19 April 1956</st1:date> (_see Gazette_ 1956, p. 1068); and<o:p></o:p>
+                              (c)   in relation to the <st1:place>Australian  Antarctic Territory</st1:place>—<st1:date month="4" day="19" year="1956">19 April  1956</st1:date> (_see Gazette_ 1956, p. 1068); and<o:p></o:p>
 
-                              (d)   in relation to the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Territory</st1:placetype> of <st1:placename>Christmas Island</st1:placename></st1:place>—<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1959" day="10" month="4">10 April 1959</st1:date> (_see Gazette_ 1959, p. 1149).<o:p></o:p>
+                              (d)   in relation to the <st1:place><st1:placetype>Territory</st1:placetype>  of <st1:placename>Christmas Island</st1:placename></st1:place>—<st1:date month="4" day="10" year="1959">10 April 1959</st1:date> (_see Gazette_ 1959, p. 1149).<o:p></o:p>
 
 _(b)_    The _Air Navigation Act 1920_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:<o:p></o:p>
 
@@ -3686,7 +5790,7 @@ _(c)_     The _Air Navigation Act 1920_ was amended by section 3 only 
 
 _(d)_     The _Civil Aviation Act 1988_ was amended by section 8 only of the _Transport Legislation Amendment Act 1989_, subsection 2(3) of which provides as follows:<o:p></o:p>
 
-                 (3)   The amendments of the _Civil Aviation Act 1988_ made by this Act shall be taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="15" month="6">15 June 1988</st1:date>.<o:p></o:p>
+                 (3)   The amendments of the _Civil Aviation Act 1988_ made by this Act shall be taken to have commenced on <st1:date month="6" day="15" year="1988">15 June 1988</st1:date>.<o:p></o:p>
 
 _(e)_     The _Air Navigation Act 1920_ was amended by Part 2 (sections 3–5) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:<o:p></o:p>
 
@@ -3762,7 +5866,7 @@ _(r)_     The _Air Navigation Act 1920_ was amended by Schedule 1 only
 
 _(s)_ The _Air Navigation Act 1920_ was amended by Schedule 3 (items 19–21) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:<o:p></o:p>
 
-                 (3)   Subject to subsections <st1:time minute="56" hour="9">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.<o:p></o:p>
+                 (3)   Subject to subsections <st1:time hour="9" minute="56">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.<o:p></o:p>
 
 _(t)_ Subsection 2(1) (item 4) of  of the _Statute Law Revision Act 2002_ provides as follows:<o:p></o:p>
 
@@ -3848,38 +5952,36 @@ _(t)_ Subsection 2(1) (item 4) of  of the _Statute Law Revision Act 2002_ pr
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        4.
-          <span style="mso-spacerun: yes"></span>Schedule 1, items 3, 4 and 5
-          <o:p></o:p>
+<tr>
+  <td>
+    <div>
+      4.
+        <span style="mso-spacerun:yes"></span>Schedule 1, items 3, 4 and 5
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">
-          1 July 1999
-        </st1:date>
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="7" day="1" year="1999">
+        1 July 1999
+      </st1:date>
 
-          <o:p></o:p>
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">
-          1 July 1999
-        </st1:date>
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="7" day="1" year="1999">
+        1 July 1999
+      </st1:date>
 
-          <o:p></o:p>
+        <o:p></o:p>
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+    </div>
+  </td>
+</tr></table>
 
 _(u)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequential Amendments) Act 2003_ provides as follows:<o:p></o:p>
 
@@ -3923,38 +6025,36 @@ _(u)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2.
-          <span style="mso-spacerun: yes"></span>Schedule 1
-          <o:p></o:p>
+<tr>
+  <td>
+    <div>
+      2.
+        <span style="mso-spacerun:yes"></span>Schedule 1
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of section 3 of the
-          <i style="mso-bidi-font-style: normal">Transport Safety Investigation Act 2003</i>
-          <o:p></o:p>
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 3 of the
+        <i style="mso-bidi-font-style:normal">Transport Safety Investigation Act 2003</i>
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">
-          1 July 2003
-        </st1:date>
-        (
-          <i style="mso-bidi-font-style: normal">see Gazette</i>2003, No. S229)
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="7" day="1" year="2003">
+        1 July 2003
+      </st1:date>
+      (
+        <i style="mso-bidi-font-style: normal">see Gazette</i>2003, No. S229)
 
-          <o:p></o:p>
+        <o:p></o:p>
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+    </div>
+  </td>
+</tr></table>
 
 _(v)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provide as follows:<o:p></o:p>
 
@@ -4000,72 +6100,70 @@ _(v)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrument
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2
-        .
-          <span style="mso-spacerun: yes"></span>
+<tr>
+  <td>
+    <div>
+      2
+      .
+        <span style="mso-spacerun:yes"></span>
 
-        Section 4
-          <o:p></o:p>
+      Section 4
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of sections 3 to 62 of the
-          <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
-          <o:p></o:p>
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of sections 3 to 62 of the
+        <i style="mso-bidi-font-style:normal">Legislative Instruments Act 2003</i>
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="1">
-          1 January 2005
-        </st1:date>
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="1" day="1" year="2005">
+        1 January 2005
+      </st1:date>
 
-          <o:p></o:p>
+        <o:p></o:p>
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        3.
-          <span style="mso-spacerun: yes"></span>Schedule 1
-          <o:p></o:p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      3.
+        <span style="mso-spacerun:yes"></span>Schedule 1
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of sections 3 to 62 of the
-          <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of sections 3 to 62 of the
+        <i style="mso-bidi-font-style:normal">Legislative Instruments Act 2003</i>
 
-          <o:p></o:p>
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="1">
-          1 January 2005
-        </st1:date>
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="1" day="1" year="2005">
+        1 January 2005
+      </st1:date>
 
-          <o:p></o:p>
+        <o:p></o:p>
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+    </div>
+  </td>
+</tr></table>
 
-_(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ provides as follows:<o:p></o:p>
+_(w)_ Subsection 2(1) (item 2) of the _Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004_ provides as follows:<o:p></o:p>
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.<o:p></o:p>
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 <table>
 <colgroup>
@@ -4105,52 +6203,32 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        3.
-          <span style="mso-spacerun: yes"></span>Schedule 2, items 1 and 2
-          <o:p></o:p>
+<tr>
+  <td>
+    <div>
+      2.
+        <span style="mso-spacerun:yes"></span>Schedules 1, 2 and 3
+        <o:p></o:p>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        The later of:
-          <o:p></o:p>
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as section 3 of the
+        <i style="mso-bidi-font-style:normal">Aviation Transport Security Act 2004</i>
+        <o:p></o:p>
 
-      </div>
-      <div>
-        (a)
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i style="mso-bidi-font-style:normal">see</i>Note 2]
+        <o:p></o:p>
 
-        the start of the day on which this Act receives the Royal Assent; and
-          <o:p></o:p>
-
-      </div>
-      <div>
-        (b)
-
-        immediately after the commencement of section 3 of the
-          <i style="mso-bidi-font-style: normal">Aviation Transport Security Act 2004</i>.
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="10" month="3">
-          10 March 2005
-        </st1:date>
-
-(paragraph (b) applies)
-          <o:p></o:p>
-
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
+    </div>
+  </td>
+</tr></table>
 
 ## Table of Amendments<o:p></o:p>
 
@@ -4182,2656 +6260,2650 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 1  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 2  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 2A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 124, 1974; No. 91, 1977 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 2B  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 124, 1974 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 6, 1947; No. 80, 1950 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 80, 1982; No. 39, 1983; No. 63, 1988; No. 23, 1990; No. 89,1995 (as am. by No. 43, 1996); No. 30, 1997; No. 95, 1998; No. 48, 2000; No. 143, 2002; No. 83, 2003; Nos. 9 and 64, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3AA  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 3AB, 3AC  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3AD  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 95, 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 3AE, 3AF  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3AG  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 143, 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 2  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 6, 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 93, 1936; No. 6, 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 6, 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 72, 1961; No. 8, 1963; No. 79, 1971; No. 130, 1973; No. 91, 1977; No. 27, 1980; No. 69, 1986; No. 71, 1992; No. 5, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 6, 1947 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 89, 1947; No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 130, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 79, 1971 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 124, 1974 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 124, 1974; No. 27, 1980; No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 10  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 27, 1980; No. 82, 1992; No. 89, 1995; No. 143, 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 27, 1980; No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11A  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 64, 1994 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 168, 1994; No. 95, 1995; No. 95, 1998; No. 156, 1999; No. 48, 2000; No. 55, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11B  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 64, 1994 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 48, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 124, 1974; No. 82, 1992; No. 89, 1995; No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 108, 1984; No. 63, 1988; No. 45, 1989; No. 82, 1992; No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13A  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 82, 1992 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 89, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 30, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 130, 1973; No. 124, 1974; No. 27, 1980; No. 63, 1988; No. 82, 1992; No. 89, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rs. No. 30, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 27, 1980; No. 63, 1988; No. 82, 1992; No. 89, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rs. No. 30, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15A  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 30, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 15B–15F  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 30, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 216, 1973; No. 124, 1974; No. 91, 1977 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rs. No. 82, 1992 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 130, 1973; No. 124, 1974; No. 27, 1980; No. 63, 1988; No. 82, 1992; No. 89, 1995; No. 30, 1997; No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 124, 1974 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 82, 1992 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 82, 1995; No. 30, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 82, 1992; No. 89, 1995; No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rs. No. 143, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 2A  
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Part 1 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 1  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rs. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1974; No. 91, 1977 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2B  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1974 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>am. No. 6, 1947; No. 80, 1950 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rs. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 80, 1982; No. 39, 1983; No. 63, 1988; No. 23, 1990; No. 89,1995 (as am. by No. 43, 1996); No. 30, 1997; No. 95, 1998; No. 48, 2000; No. 143, 2002; No. 83, 2003; No. 64, 2004 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 3AA–3AC  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3AD  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 95, 1998 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 3AE–3AF  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3AG  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Part 2 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 2  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 6, 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1936; No. 6, 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 6, 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1961; No. 8, 1963; No. 79, 1971; No. 130, 1973; No. 91, 1977; No. 27, 1980; No. 69, 1986; No. 71, 1992; No. 5, 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 6, 1947 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rs. No. 89, 1947; No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 130, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 79, 1971 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1974 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1974; No. 27, 1980; No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 27, 1980; No. 82, 1992; No. 89, 1995; No. 143, 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 27, 1980; No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11A  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 64, 1994 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 168, 1994; No. 95, 1995; No. 95, 1998; No. 156, 1999; No. 48, 2000; No. 55, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11B  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 64, 1994 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 48, 2000 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 124, 1974; No. 82, 1992; No. 89, 1995; No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 108, 1984; No. 63, 1988; No. 45, 1989; No. 82, 1992 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13A  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 82, 1992 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 89, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 30, 1997 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 130, 1973; No. 124, 1974; No. 27, 1980; No. 63, 1988; No. 82, 1992; No. 89, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 30, 1997 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 27, 1980; No. 63, 1988; No. 82, 1992; No. 89, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 30, 1997 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 30, 1997 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 15B–15F  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 30, 1997 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 216, 1973; No. 124, 1974; No. 91, 1977 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 82, 1992 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 130, 1973; No. 124, 1974; No. 27, 1980; No. 63, 1988; No. 82, 1992; No. 89, 1995; No. 30, 1997; No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 124, 1974 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 82, 1992 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 82, 1995; No. 30, 1997 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 82, 1992; No. 89, 1995; No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 143, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 2A  
 
- <o:p></o:p> 
+ <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 
+rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19AA–19AG  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19BA  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19BB  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19BC  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19CA, 19CB  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19CC  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19CD–19CR  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19CS  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19CT, 19CU  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19EA–19EE  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 119FA–19FH  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19DA–19DF  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19FJ  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19FK–19FM  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19GA–19GC  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19GD  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 119GE  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19HA–19HJ  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19HK  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19HL  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19HM  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 63, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 19HN–19HR  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 174, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 19, 2003 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Part 3 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 3  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 130, 1973; No. 124, 1974; No. 91, 1977; No. 27, 1980; No. 80, 1982 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 95, 1998; No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20A  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 95, 1998 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 91, 1977; No. 27, 1980 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 95, 1998 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 69, 1986 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 95, 1998 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 21B, 21C  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 95, 1998 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1966; No. 124, 1974; No. 27, 1980; No. 39, 1983; No. 69, 1986; No. 63, 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 1992 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22A, 22B  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 95, 1998; No. 8, 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22C, 22D  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 2 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22E  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2002 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22F–22J  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22K  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22L  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 3 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22M–22V  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22W–22Y  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 4 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22Z  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22ZA  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22ZB  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22ZC–22ZH  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22ZJ  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 5 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22ZK  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22ZL–22ZS  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 8, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 6 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22ZT, 22ZU  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22ZV  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td colspan="2">
+    <div>am. Nos. 8 and 143, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Part 3A <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 3A  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 143, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 1 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22ZVA, 22ZVB  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 143, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Division 2 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22ZVC–22ZVG  <o:p></o:p></div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 143, 2002 <o:p></o:p></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22ZW  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 30, 1997 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Part 4 <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 4  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 30, 1997 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 95, 1998 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 69, 1986; No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1974; No. 91, 1977; No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2001 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 19, 1979 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1966; Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 39, 1983; No. 63, 1988 (as am. by No. 6, 1989); No. 23, 1990; No. 11, 1991; No. 82, 1992; No. 48, 2000 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rs. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 30, 1997 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 69, 1984 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 174, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 30, 1997 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. Nos. 130 and 216, 1973; No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 63, 1988 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 140, 2003 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. Nos. 130 and 216, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rs. No. 39, 1983 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1974; No. 89, 1995 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b style="mso-bidi-font-weight:normal">Schedules <o:p></o:p> </b></div>
+  </td>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to the Schedules  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><o:p> </o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to First Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 1  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>First Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Second Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 2  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Second Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Third Schedule . <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 3  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Third Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Fourth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 4  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fourth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 39, 1960 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Fifth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 5  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fifth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1961 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Sixth Schedule . <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 6  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Sixth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 8, 1963 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Seventh Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 7  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Seventh Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 79, 1971 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Eighth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 8  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Eighth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1973 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Ninth Schedule . <o:p></o:p></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 9  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 1980 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ninth Schedule  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 91, 1977 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 9A  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 5, 1994 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 10  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 69, 1986 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedules 11, 12  <o:p></o:p></div>
+  </td>
+  <td>
+    <div>ad. No. 71, 1992 <o:p></o:p></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr></table>
 
-</div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 
-rep. No. 19, 2003 <o:p></o:p> 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19AA–19AG  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19BA  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19BB  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19BC  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19CA, 19CB  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19CC  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19CD–19CR  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19CS  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rs. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19CT, 19CU  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19EA–19EE  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 119FA–19FH  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19DA–19DF  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19FJ  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19FK–19FM  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19GA–19GC  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19GD  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 119GE  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19HA–19HJ  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19HK  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19HL  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19HM  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 63, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19HN–19HR  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 174, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 19, 2003 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 3  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 130, 1973; No. 124, 1974; No. 91, 1977; No. 27, 1980; No. 80, 1982 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 95, 1998; No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20A  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 95, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 91, 1977; No. 27, 1980 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rs. No. 95, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 69, 1986 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 95, 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 21B, 21C  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 95, 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 93, 1966; No. 124, 1974; No. 27, 1980; No. 39, 1983; No. 69, 1986; No. 63, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 82, 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22A, 22B  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 95, 1998; No. 8, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22C, 22D  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22E  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 143, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22F–22J  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22K  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22L  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22M–22V  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22W–22Y  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22Z  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22ZA  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22ZB  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22ZC–22ZH  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22ZJ  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22ZK  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22ZL–22ZS  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 8, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22ZT, 22ZU  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22ZV  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>am. Nos. 8 and 143, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 3A  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 143, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22ZVA, 22ZVB  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 143, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 22ZVC–22ZVG  <o:p></o:p></div>
-    </td>
-    <td colspan="2">
-      <div>ad. No. 143, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td colspan="2">
-      <div>rep. No. 9, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22ZW  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 30, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 4  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 30, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 95, 1998; No. 9, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 69, 1986; No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 24  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 124, 1974; No. 91, 1977; No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 24A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 143, 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 25  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 19, 1979 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 93, 1966; Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 39, 1983; No. 63, 1988 (as am. by No. 6, 1989); No. 23, 1990; No. 11, 1991; No. 82, 1992; No. 48, 2000; No. 9, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 27  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 30, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 27A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 69, 1984 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 174, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 30, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 28  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. Nos. 130 and 216, 1973; No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 63, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 140, 2003 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 29  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. Nos. 130 and 216, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 39, 1983 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 30  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 31  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 124, 1974; No. 89, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Schedules <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to the Schedules  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to First Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 1  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>First Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Second Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 2  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Second Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Third Schedule . <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 3  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Third Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Fourth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 4  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Fourth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 39, 1960 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Fifth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 5  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Fifth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 72, 1961 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Sixth Schedule . <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 6  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Sixth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 8, 1963 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Seventh Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 7  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Seventh Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 79, 1971 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Eighth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 8  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Eighth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 130, 1973 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Ninth Schedule . <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Schedule 9  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 27, 1980 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ninth Schedule  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 91, 1977 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule 9A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 5, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule 10  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 69, 1986 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedules 11, 12  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 71, 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</tbody></table>
+### Note 2<o:p></o:p>
 
+_Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004 (No. 9, 2004)<o:p></o:p>_
+
+The following amendments commence on <st1:date month="3" day="10" year="2005">10 March 2005</st1:date> unless proclaimed earlier:<o:p></o:p>
+
+## Schedule 1<o:p></o:p>
+
+## 1  Subsection 3(1) (definition of _airport security committee_)
+
+Repeal the definition.
+
+## 2  Subsection 3(1) (definition of _aviation industry participant_)
+
+Repeal the definition.
+
+## 3  Subsection 3(1) (definition of _aviation security_)
+
+Repeal the definition.
+
+## 4  Subsection 3(1) (definition of _aviation security information_)
+
+Repeal the definition.
+
+## 5  Subsection 3(1) (definition of _categorised airport_)
+
+Repeal the definition.
+
+## 6  Subsection 3(1) (definition of _charter aircraft_)
+
+Repeal the definition.
+
+## 7  Subsection 3(1) (definition of _clear_)
+
+Repeal the definition.
+
+## 8  Subsection 3(1) (definition of _domestic air service_)
+
+Repeal the definition.
+
+## 9  Subsection 3(1) (definition of _emergency operations centre_)
+
+Repeal the definition.
+
+## 10  Subsection 3(1) (definition of _protective service officer_)
+
+Repeal the definition.
+
+## 11  Subsection 3(1) (definition of _regular public transport aircraft_)
+
+Repeal the definition.
+
+## 12  Subsection 3(1) (definition of _screen_)
+
+Repeal the definition.
+
+## 13  Subsection 3(1) (definition of _screening authority_)
+
+Repeal the definition.
+
+## 14  Subsection 3(1) (definition of _screening officer_)
+
+Repeal the definition.
+
+## 15  Subsection 3(1) (definition of _screening point_)
+
+Repeal the definition.
+
+## 16  Subsection 3(1) (definition of _security restricted area_)
+
+Repeal the definition.
+
+## 17  Subsection 3(1) (definition of _sterile area_)
+
+Repeal the definition.
+
+## 18  Subsection 3(1) (definition of _terminal facility_)
+
+Repeal the definition.
+
+## 19  Subsection 3(1) (definition of _terminal operator_)
+
+Repeal the definition.
+
+## 20  Subsection 3(1) (definition of _transceiver_)
+
+Repeal the definition.
+
+## 21  Subsection 3(1) (definition of _uniformed security force_)
+
+Repeal the definition.
+
+## 22  Subsection 3(1) (definition of _unlawful interference with aviation_)
+
+Repeal the definition.
+
+## 23  Subsection 3(1) (definition of _weapon_)
+
+Repeal the definition.
+
+## 24  Section 3AA
+
+Repeal the section.
+
+## 25  Section 3AD
+
+Repeal the section.
+
+## 26  Section 3AE
+
+Repeal the section.
+
+## 27  Section 3AF
+
+Repeal the section.
+
+## 28  Paragraph 13(a)
+
+After “the _Civil Aviation Act 1988_, the regulations made under that Act,”, insert “the _Aviation Transport Security Act 2004_, the regulations made under that Act,”.
+
+## 29  Subparagraph 13(c)(i)
+
+After “the _Civil Aviation Act 1988_, the regulations made under that Act,”, insert “the _Aviation Transport Security Act 2004_, the regulations made under that Act,”.
+
+## 30  Part 3
+
+Repeal the Part.
+
+## 31  Part 3A
+
+Repeal the Part.
+
+## 32  Paragraph 23A(1)(e)
+
+Omit “subsection 17(1); or”, substitute “subsection 17(1).”.
+
+## 33  Paragraphs 23A(1)(h) to (u)
+
+Repeal the paragraphs.
+
+## 34  Paragraph 26(2)(a)
+
+Repeal the paragraph.
+
+## 35  Section 28
+
+Repeal the section.
+
+As at <st1:date month="1" day="1" year="2005">1 January 2005</st1:date> the amendments are not incorporated in this compilation.<o:p></o:p>
 
 ## Table A<o:p></o:p>
 
@@ -6848,8 +8920,7 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 * * *
 
 _Transport Safety Investigation (Consequential Amendments) Act 2003 
-(No. 19, 2003)<o:p></o:p>
-_
+ (No. 19, 2003)<o:p></o:p>_
 
 ## Schedule 1
 
@@ -6913,6 +8984,8 @@ the enabling legislation has effect, on and after the commencing day, as if:
 
 _Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004 (No. 9, 2004)<o:p></o:p>_
 
+The following provisions commence on <st1:date month="3" day="10" year="2005">10 March 2005</st1:date> unless proclaimed earlier:<o:p></o:p>
+
 ## Schedule 3<o:p></o:p>
 
 ## 1  Regulations
@@ -6929,10 +9002,6 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
                      (b)  providing for aviation security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                    (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
-
-                    (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
-
                      (c)  for other transitional measures in relation to the transition from the old Act to the new Act.
 
 (3)        In this item:
@@ -6944,10 +9013,5 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 ## 2  Aviation security program continuation
 
 Subsection 15(2) (which deals with the obligation for aviation industry participants to comply with the transport security programs of other participants) of the _Aviation Transport Security Act 2004_ does not apply in relation to a program continued as a transport security program under paragraph 1(2)(b) of this Schedule.
-
-## 3  Transitional provision
-
-The exercise or purported exercise (whether before, at or after the commencement of this item) of the power under regulation 5 of the _Air Navigation (Aviation Security Status Checking) Regulations 2004_ to determine that a person has an adverse aviation security status is taken for all purposes to be, and is taken for all purposes always to have been, prescribed administrative action in respect of the person for the purposes of Part IV of the _Australian Security Intelligence Organisation Act 1979_.
-
 
 <o:p> </o:p>
