@@ -1,15 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00370/Html/3449dde6-2754-4c45-a07b-06a78285d21d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00224/Html/f780741c-8242-4948-b00a-a98a8e055d6f_files/image001.gif)
 
 # Parliamentary Entitlements Act 1990
 
 **Act No. 28 of 1990 as amended**
 
-This compilation was prepared on 11 May 2011
+This compilation was prepared on 19 April 2011
  taking into account amendments up to Act No. 5 of 2011
 
-[**Note**: The Scheduled benefits are varied or omitted in accordance with 
- Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ 
- (SR 1997 No. 318 as amended) _see_ Table A]
+[**Note**: The Scheduled benefits are varied or omitted in accordance with Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ (SR 1997 No. 318 as amended) _see_ Table A]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -160,7 +158,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 then, during that year, the person is entitled only to a proportionate amount of that benefit worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00370/Html/3449dde6-2754-4c45-a07b-06a78285d21d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00224/Html/f780741c-8242-4948-b00a-a98a8e055d6f_files/image002.gif)
 
              (2)  An amount so worked out must be rounded to the nearest whole number that is greater than zero.
 
@@ -210,7 +208,7 @@ then, during that year, the person is entitled only to a proportionate amount of
 
              (1)  In its application to the financial year 1989‑90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00370/Html/3449dde6-2754-4c45-a07b-06a78285d21d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00224/Html/f780741c-8242-4948-b00a-a98a8e055d6f_files/image003.gif)
 
                     <a name="remain-number-dai"></a>where **_remaining number of days_** means the number of days in that financial year from and including the day on which this Act commences.
 
@@ -566,7 +564,7 @@ of Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 7 (item 51): 10 Dec 2008</div>
+    <div>Schedule 7 (item 51): 10 Dec 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -583,7 +581,7 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 178–181): 19 Apr 2011</div>
+    <div>Schedule 5 (items 178–181): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -648,23 +646,13 @@ of Assent</div>
 
 ## Table A
 
-_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250); 2011 No. 55)_
+_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250))_
 
 Schedule 1        Variation or omission of Scheduled benefits in Schedule 1 to the _Parliamentary Entitlements Act 1990_
 
 (regulation 2A)
 
 Part 1          Variations or omissions for Part 1
-
-\[100AA] Item 2
-
-after
-
-symbols,
-
-insert
-
-as approved by the Minister,
 
 <a id="\[100]"></a>\[100]       Item 3
 
@@ -732,34 +720,6 @@ substitute
     </div>
     <div>(a) from 1 October 2009 to 30 June 2010 — $26 178; and</div>
     <div>(b) for each subsequent financial year — $35 000 indexed annually.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (3)
-    </div>
-  </td>
-  <td>
-    <div>
-      If, in the previous financial year, a member received a benefit under
-        regulation 3EA — the amount in paragraph 7 (2) (b) is reduced by the amount
-        of the benefit spent by the member on office requisites and stationery.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (4)
-    </div>
-  </td>
-  <td>
-    <div>
-      However, the Minister may, having regard to the particular circumstances
-        of a member, waive the requirement in subitem 7 (3) in relation to the
-        member.
-    </div>
   </td>
 </tr></table>
 
