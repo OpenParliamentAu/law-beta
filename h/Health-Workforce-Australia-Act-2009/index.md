@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00032/Html/59770454-2620-4df6-b28e-d8007fe4c17c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00824/Html/dfa9488e-1cb6-4671-a486-63b201d79419_files/image001.gif)
 
 # Health Workforce Australia Act 2009
 
 **Act No. 72 of 2009 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 13 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -392,8 +392,6 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may, with the agreement of the Ministerial Conference, appoint a person to act as a member (other than as Chair):
 
                      (a)  during a vacancy in the office of a member (whether or not an appointment has previously been made to the office); or
@@ -406,9 +404,19 @@ Note:          For rules that apply to acting appointments, se
 
                             (iii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (3)  An appointment under subsection (1) or (2) is to be made by written instrument.
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) or (2) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more about acting appointments, see sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="14"></a>14  Remuneration
 
@@ -588,8 +596,6 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  Before the Board makes an appointment under subsection (1):
 
                      (a)  the Board must consult the Minister; and
@@ -597,6 +603,18 @@ Note:          For rules that apply to acting appointments, se
                      (b)  the Minister must consult the Ministerial Conference.
 
              (3)  An appointment under subsection (1) is to be made by written instrument.
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more about acting appointments, see sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="29"></a>29  Outside employment
 
@@ -664,7 +682,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="35"></a>35  Other terms and conditions
 
-                   The CEO holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Board.
+                   The CEO holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Board.
 
 ### Division 2—Staff and consultants
 
@@ -820,106 +838,50 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 680–683) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 680–683) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 13(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 28(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 680  At the end of subsections 13(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 681  Subsection 13(4)
+
+Repeal the subsection.
+
+## 682  At the end of subsection 28(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 683  Subsection 28(4)
+
+Repeal the subsection.
+
+As at 13 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
