@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00171/Html/b41e8176-22f5-45ec-b34f-ee69703ef865_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00819/Html/7b2ad305-7c0e-4074-9bda-61f24fea3a4f_files/image001.gif)
 
 # Liquid Fuel Emergency Act 1984
 
 **Act No. 5 of 1984 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 5 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -189,6 +189,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (c)  is incorporated in an internal Territory.
 
                     <a name="court"></a>**_Court_** means the Federal Court of Australia.
+
+                    <a name="docum"></a>**_document_** includes:
+
+                     (a)  a book, plan, paper, parchment, film or other material on which there is writing or printing, or on which there are marks, symbols or perforations having a meaning for persons qualified to interpret them;
+
+                     (b)  a disc, tape, paper, film or other device from which sounds or images are capable of being reproduced; and
+
+                     (c)  any other record of information.
 
                     <a name="energi-minist"></a>**_Energy Minister_** means:
 
@@ -1574,7 +1582,7 @@ Ancillary contraventions
 
                      (e)  the person has conspired with others to contravene the provision.
 
-##### <a id="35"></a>35  Civil action for recovery of pecuniary penalties
+##### <a id="35"></a>35  Civil action for recovery of pecuniary penalties
 
              (1)  The Minister may institute a proceeding in the Court for the recovery on behalf of the Commonwealth of a pecuniary penalty referred to in section 34.
 
@@ -2011,7 +2019,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (item 756) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 756) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2078,7 +2086,7 @@ _(b)_     The _Liquid Fuel Emergency Act 1984_ was amended by the _Evide
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 140, 2001; No. 86, 2007; No. 46, 2011</div>
+    <div>am. No. 65, 1985; No. 140, 2001; No. 86, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2514,6 +2522,20 @@ _(b)_     The _Liquid Fuel Emergency Act 1984_ was amended by the _Evide
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 756  Subsection 3(1) (definition of _document_)
+
+Repeal the definition.
+
+As at 5 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2541,6 +2563,8 @@ _Liquid Fuel Emergency Amendment Act 2007 (No. 86, 2007)_
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
