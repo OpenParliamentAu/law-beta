@@ -1,97 +1,96 @@
- 
+  
 
-![](http://www.comlaw.gov.au/Details/C2008C00511/Html/AdelaideAirportCurfew2000_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01112/Html/AdelaideAirportCurfew2000_image001.gif)
 
 # Adelaide Airport Curfew Act 2000
 
 **Act No. 29 of 2000 as amended**
 
-This compilation was prepared on 2 October 2008
+This compilation was prepared on 22 October 2001
 
-taking into account amendments up to Act No. 87 of 2008
+taking into account amendments up to Act No. 143 of 2001
 
-The text of any of those amendments not in force 
+The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Explanation of runway names
+[4](#4).            Explanation of runway names                                                             4
 
-[5](#5).            Time is legal time in South Australia
+[5](#5).            Time is legal time in South Australia                                                   5
 
-[5A](#5A).         Application of the _Criminal Code_
+[5A](#5A).         Application of the _Criminal Code_                                                       5
 
 **Part 2—The curfew**
 
-[6](#6).            Prohibition on taking off or landing during curfew periods
+[6](#6).            Prohibition on taking off or landing during curfew periods                 6
 
 **Part 3—Permitted aircraft movements** 
 
     **Division 1—International aircraft movements during curfew shoulder periods**
 
-[7](#7).            International aircraft to which this Division applies
+[7](#7).            International aircraft to which this Division applies                           7
 
-[8](#8).            Quota on movements by international aircraft during curfew shoulder periods
+[8](#8).            Quota on movements by international aircraft during curfew shoulder periods      7
 
-[9](#9).            Applications to operate international aircraft during curfew shoulder periods
+[9](#9).            Applications to operate international aircraft during curfew shoulder periods       7
 
     **Division 2—Low noise heavy freight aircraft movements during curfew periods**
 
-[10](#10).          Restrictions on movements by low noise heavy freight aircraft during curfew periods
+[10](#10).          Restrictions on movements by low noise heavy freight aircraft during curfew periods          9
 
-[11](#11).          Applications to operate low noise heavy freight aircraft during curfew periods
+[11](#11).          Applications to operate low noise heavy freight aircraft during curfew periods    9
 
     **Division 3—Other aircraft movements during curfew periods**
 
-[12](#12).          Propeller-driven aircraft under 34,000 kilograms that comply with noise standards
+[12](#12).          Propeller-driven aircraft under 34,000 kilograms that comply with noise standards              11
 
-[13](#13).          Jet aircraft under 34,000 kilograms that comply with noise standards
+[13](#13).          Jet aircraft under 34,000 kilograms that comply with noise standards 11
 
-[14](#14).          Take-off when taxi clearance received before start of curfew period
+[14](#14).          Take-off when taxi clearance received before start of curfew period 11
 
     **Division 4—Landing on runways other than runway 05**
 
-[15](#15).          Landing of aircraft during curfew periods on runways other than runway 05
+[15](#15).          Landing of aircraft during curfew periods on runways other than runway 05        12
 
     **Division 5—Emergencies and dispensations**
 
-[16](#16).          Aircraft may take off or land in emergencies or if Minister grants dispensation
+[16](#16).          Aircraft may take off or land in emergencies or if Minister grants dispensation     14
 
-[17](#17).          Emergencies
+[17](#17).          Emergencies                                                                                       14
 
-[18](#18).          Minister may grant dispensations
+[18](#18).          Minister may grant dispensations                                                     14
 
 **Part 4—Provision of information**
 
-[19](#19).          Authorised person may require the provision of information
+[19](#19).          Authorised person may require the provision of information           16
 
-[20](#20).          Provision of false information
+[20](#20).          Provision of false information                                                           16
 
 **Part 5—Miscellaneous**
 
-[21](#21).          Delegation
+[21](#21).          Delegation                                                                                          18
 
-[22](#22).          Appointments as authorised persons
+[22](#22).          Appointments as authorised persons                                                18
 
-[23](#23).          Conduct by directors, employees and agents
+[23](#23).          Conduct by directors, employees and agents                                    18
 
-[24](#24).          Regulations
+[24](#24).          Regulations                                                                                        19
 
 **Notes** 
+
+ 
 
 ## An Act to impose a curfew and related restrictions on aircraft movements at Adelaide Airport, and for related purposes
 
@@ -209,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The diagram below shows the runways at Adelaide  Airport.
 
-![](http://www.comlaw.gov.au/Details/C2008C00511/Html/AdelaideAirportCurfew2000_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01112/Html/AdelaideAirportCurfew2000_image002.gif)
 
              (2)  The following runway names have the meanings indicated where they are used in this Act:
 
@@ -593,6 +592,8 @@ For all relevant information pertaining to application, saving or transitional p
 
 ### Table of Acts
 
+* * *
+
 <table>
 <colgroup>
   <col width="30%">
@@ -622,7 +623,19 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Adelaide Airport Curfew Act 2000</div>
@@ -656,26 +669,11 @@ of Assent</div>
   <td>
     <div>S. 4</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008</div>
-  </td>
-  <td>
-    <div>87, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 23, 26, 27): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 26, 27)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
@@ -683,35 +681,28 @@ of Assent</div>
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 143, 2001</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2001</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>S. 6</div>
   </td>
   <td>
-    <div>rs. No. 143, 2001</div>
+    <div>rs. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -719,7 +710,7 @@ of Assent</div>
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 143, 2001</div>
+    <div>am. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -727,7 +718,7 @@ of Assent</div>
     <div>S. 20</div>
   </td>
   <td>
-    <div>rs. No. 143, 2001</div>
+    <div>rs. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -735,29 +726,17 @@ of Assent</div>
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 143, 2001</div>
+    <div>am. No. 143, 2001</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
-
-The following amendment commences on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 23  Subparagraph 3(2)(b)(i)
-
-Omit “section 12 of”, substitute “regulations made under”.
-
-As at 2 October 2008 the amendment is not incorporated in this compilation.
+ 
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
 
 ##### <a id="4"></a>4  Application of Amendments
 
@@ -765,56 +744,6 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
-
-_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
-
-The following provisions commence on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 26  Pre-commencement licences
-
-(1)        Despite the amendments made by this Schedule, the old law continues to apply in relation to the operation of a scheduled international air service in respect of which an international airline licence was in force immediately before the commencement time.
-
-(2)        Subitem (1) has effect in relation to the operation of the service until whichever of the following first occurs:
-
-                     (a)  the international airline licence is surrendered or cancelled in accordance with the old law as it continues to apply under subitem (1);
-
-                     (b)  an international airline licence is granted, in respect of the operation of the service, under regulations made under the _Air Navigation Act 1920_ as in force at or after the commencement time;
-
-                     (c)  the international airline licence is cancelled under subitem (3).
-
-(3)        If the international airline licence is not surrendered or cancelled as mentioned in paragraph (2)(a) of this item, it is cancelled, by force of this subitem, when whichever of the following first occurs:
-
-                     (a)  an international airline licence is granted in respect of the operation of the service as mentioned in paragraph (2)(b) of this item;
-
-                     (b)  the period of 6 months beginning at the commencement time ends.
-
-(4)        The Minister may, by legislative instrument, determine that the period mentioned in paragraph (3)(b) of this item is extended for a specified licence by the period, not exceeding 2 months, specified in the determination. The Minister cannot extend the period for a particular licence more than once.
-
-(5)        A determination under subitem (4) has effect accordingly.
-
-(6)        In this item:
-
-**_commencement time_** means the time when this Schedule commences.
-
-**_old law_** means:
-
-                     (a)  an Act amended by this Schedule, as in force immediately before the commencement time; and
-
-                     (b)  regulations, as in force from time to time, made under such an Act, as in force immediately before the commencement time.
-
-## 27  Constitutional safety net—acquisition of property
-
-(1)        If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
-
-(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-(3)        In this item:
-
-**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+ 
 
  
