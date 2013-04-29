@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00845/Html/e3c4ecc2-cce7-4fcc-a410-1226795b3cdf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00523/Html/HearingServiceAGHSReform1997_image001.gif)
 
 # Hearing Services and AGHS Reform Act 1997
 
 **Act No. 82 of 1997 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 20 November 2009
+ taking into account amendments up to Act No. 111 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,13 +34,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Nominated company
 
-[6](#6).            Commonwealth‑owned company
+[6](#6).            Commonwealth-owned company
 
 [7](#7).            Crown to be bound
 
 [8](#8).            External Territories
 
-[9](#9).            Extra‑territorial operation
+[9](#9).            Extra-territorial operation
 
     **Division 2—Transfers from the Commonwealth to the nominated company**
 
@@ -58,6 +58,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Transfer of records
 
+    **Division 3—Transfer of certain amounts to the nominated company**
+
+[17](#17).          Transfer time
+
+[18](#18).          Transfer of Trust Account balance to nominated company
+
+[19](#19).          Transfer of Reserve balance to nominated company
+
     **Division 4—Exemption of nominated company from State and Territory taxes**
 
 [20](#20).          Exemption of nominated company from State and Territory taxes
@@ -66,7 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Nominated company not to be an agency of the Commonwealth etc 
 
-[22](#22).          Compensation—constitutional safety‑net
+[22](#22).          Compensation—constitutional safety-net
 
 **Part 3—Amendments**
 
@@ -74,15 +82,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 2—Amendment of the Social Security Act 1991** 
 
-Social Security Act 1991                                                                                          14
+Social Security Act 1991                                                                                          16
 
 **Schedule 3—Amendment of the Veterans’ Entitlements Act 1986** 
 
-Veterans’ Entitlements Act 1986                                                                            15
+Veterans’ Entitlements Act 1986                                                                            17
 
 **Schedule 4—Amendment of the Privacy Act 1988** 
 
-Privacy Act 1988                                                                                                       16
+Privacy Act 1988                                                                                                       18
 
 **Notes** 
 
@@ -104,7 +112,7 @@ Privacy Act 1988                     �
 
 ### Division 1—Introduction
 
-##### <a id="3"></a>3  Simplified outline
+##### <a id="3"></a>3  Simplified outline
 
                    The following is a simplified outline of this Part:
 
@@ -144,7 +152,7 @@ transferred to the nominated company.</li>
 
 nominated company will be exempt from State and Territory taxes so long as the
 
-company is Commonwealth‑owned.</li>
+company is Commonwealth-owned.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•    The
 
@@ -164,7 +172,7 @@ nominated company will not be treated as an agency of the Commonwealth.</li>
 
                      (b)  any right, power, privilege or immunity, whether actual, contingent or prospective.
 
-                    <a name="commonwealth-owned"></a>**_Commonwealth‑owned_**, in relation to a company, has the meaning given by section 6.
+                    <a name="commonwealth-owned"></a>**_Commonwealth-owned_**, in relation to a company, has the meaning given by section 6.
 
                     <a name="contract"></a>**_contract_** includes:
 
@@ -186,7 +194,7 @@ nominated company will not be treated as an agency of the Commonwealth.</li>
 
              (2)  The company must:
 
-                     (a)  be incorporated under the _Corporations Act 2001;_ and
+                     (a)  be incorporated under the _Corporations Act 2001_ and
 
                      (b)  have a share capital.
 
@@ -194,19 +202,19 @@ nominated company will not be treated as an agency of the Commonwealth.</li>
 
              (4)  A copy of the declaration is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-##### <a id="6"></a>6  Commonwealth‑owned company
+##### <a id="6"></a>6  Commonwealth-owned company
 
-                   For the purposes of this Part, a company is **_Commonwealth‑owned_** at a particular time if, and only if, all the shares in the company are beneficially owned by the Commonwealth at that time.
+                   For the purposes of this Part, a company is **_Commonwealth-owned_** at a particular time if, and only if, all the shares in the company are beneficially owned by the Commonwealth at that time.
 
 ##### <a id="7"></a>7  Crown to be bound
 
                    This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
-##### <a id="8"></a>8  External Territories 
+##### <a id="8"></a>8  External  Territories 
 
                    This Part extends to all the external Territories.
 
-##### <a id="9"></a>9  Extra‑territorial operation
+##### <a id="9"></a>9  Extra-territorial operation
 
                    This Part extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
 
@@ -230,7 +238,7 @@ Note:          An asset or instrument may be specified by name
 
              (4)  A copy of a declaration under subsection (2) is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-             (5)  A time specified under paragraph (2)(a) must be a time when the nominated company is Commonwealth‑owned.
+             (5)  A time specified under paragraph (2)(a) must be a time when the nominated company is Commonwealth-owned.
 
              (6)  Subsection (2) does not prevent the Commonwealth from transferring an asset to the nominated company otherwise than under that subsection.
 
@@ -258,7 +266,7 @@ Note:          An asset or instrument may be specified by name
 
              (7)  A copy of a declaration under this section is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-             (8)  A time specified under subsection (2) or (3) must be a time when the nominated company is Commonwealth‑owned.
+             (8)  A time specified under subsection (2) or (3) must be a time when the nominated company is Commonwealth-owned.
 
              (9)  This section does not, by implication, limit section 10.
 
@@ -280,7 +288,7 @@ Note:          A contract or instrument may be specified by na
 
              (4)  A copy of a declaration under subsection (2) is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-             (5)  A time specified under paragraph (2)(a) must be a time when the nominated company is Commonwealth‑owned.
+             (5)  A time specified under paragraph (2)(a) must be a time when the nominated company is Commonwealth-owned.
 
 Note:          A liability or instrument may be specified by name, by inclusion in a specified class or in any other way.
 
@@ -326,7 +334,7 @@ then, unless the Minister otherwise determines in writing in relation to the pro
 
              (1)  This section applies to a record of the Commonwealth that relates to the AGHS.
 
-             (2)  If the nominated company is Commonwealth‑owned, the Minister may direct the Secretary to the Department to transfer specified records to the nominated company.
+             (2)  If the nominated company is Commonwealth-owned, the Minister may direct the Secretary to the Department to transfer specified records to the nominated company.
 
 Note:          A record may be specified by name, by inclusion in a specified class or in any other way.
 
@@ -336,13 +344,45 @@ Note:          A record may be specified by name, by inclusion
 
                     <a name="record"></a>**_record_** has the same meaning as in the _Archives Act 1983_.
 
+### Division 3—Transfer of certain amounts to the nominated company
+
+##### <a id="17"></a>17  Transfer time
+
+             (1)  The Minister may, by writing, determine that a specified time is the **_transfer time_** for the purposes of this Division.
+
+             (2)  The determination has effect accordingly.
+
+##### <a id="18"></a>18  Transfer of Trust Account balance to nominated company
+
+             (1)  This section applies if the _Audit Act 1901_ is in force at the transfer time.
+
+             (2)  As soon as practicable after the transfer time, there is payable to the nominated company, out of the Consolidated Revenue Fund, an amount equal to the balance of the Australian Government Health Service Trust Account as at the transfer time.
+
+Note:          The Australian Government Health Service Trust Account will be closed under the _Audit Act 1901_ and the balance transferred to the Consolidated Revenue Fund under that Act.
+
+             (3)  The Consolidated Revenue Fund is appropriated accordingly.
+
+             (4)  The payment under subsection (2) is to be made by way of consideration, or partial consideration, for an issue of shares by the nominated company to the Commonwealth.
+
+##### <a id="19"></a>19  Transfer of Reserve balance to nominated company
+
+             (1)  This section applies if the _Financial Management and Accountability Act 1997_ is in force at the transfer time.
+
+             (2)  As soon as practicable after the transfer time, there is payable to the nominated company, out of the Consolidated Revenue Fund, an amount equal to the balance of the Australian Government Health Service Reserve as at the transfer time.
+
+Note:          The Australian Government Health Service Reserve will be abolished under the _Financial Management and Accountability Act 1997_ and the balance transferred to the Consolidated Revenue Fund under that Act.
+
+             (3)  The Consolidated Revenue Fund is appropriated accordingly.
+
+             (4)  The payment under subsection (2) is to be made by way of consideration, or partial consideration, for an issue of shares by the nominated company to the Commonwealth.
+
 ### Division 4—Exemption of nominated company from State and Territory taxes
 
 ##### <a id="20"></a>20  Exemption of nominated company from State and Territory taxes
 
                    The nominated company is not subject to taxation under a law of a State or Territory in respect of a particular period if, throughout that period: 
 
-                     (a)  the nominated company is Commonwealth‑owned; and
+                     (a)  the nominated company is Commonwealth-owned; and
 
                      (b)  the nominated company only carries on activities that are within the legislative powers of the Parliament.
 
@@ -372,7 +412,7 @@ Note:          A record may be specified by name, by inclusion
 
                      (b)  regulations or any other instrument made under such an Act.
 
-##### <a id="22"></a>22  Compensation—constitutional safety‑net
+##### <a id="22"></a>22  Compensation—constitutional safety-net
 
              (1)  If:
 
@@ -426,7 +466,7 @@ Insert:
 
                      (b)  is either:
 
-                              (i)  Commonwealth‑owned (within the meaning of that Part); or
+                              (i)  Commonwealth-owned (within the meaning of that Part); or
 
                              (ii)  a corporation.
 
@@ -476,9 +516,9 @@ After “other than”, insert “an eligible hearing service provider or”.
 
 Add:
 
-               or (ec)  an act done, or a practice engaged in, as the case may be, by a Minister in relation to the affairs of an eligible hearing service provider, being affairs in connection with the provision of hearing services under an agreement made under Part 3 of the _Hearing Services Administration Act 1997_; or
+                or (ec)  an act done, or a practice engaged in, as the case may be, by a Minister in relation to the affairs of an eligible hearing service provider, being affairs in connection with the provision of hearing services under an agreement made under Part 3 of the _Hearing Services Administration Act 1997_; or
 
-                   (ed)  an act done, or a practice engaged in, as the case may be, by a Minister in relation to a record that is in the Minister’s possession in his or her capacity as a Minister and relates to the affairs of an eligible hearing service provider, being affairs in connection with the provision of hearing services under an agreement made under Part 3 of the _Hearing Services Administration Act 1997_; 
+                    (ed)  an act done, or a practice engaged in, as the case may be, by a Minister in relation to a record that is in the Minister’s possession in his or her capacity as a Minister and relates to the affairs of an eligible hearing service provider, being affairs in connection with the provision of hearing services under an agreement made under Part 3 of the _Hearing Services Administration Act 1997_; 
 
 ## 10  Section 37 (at the end of the table)
 
@@ -532,13 +572,13 @@ After “does not include”, insert “the nominated AGHS company, an eligible 
 
 ## 12  Transitional regulations
 
-(1)       The Governor‑General may make regulations in relation to transitional matters arising from the amendments made by this Schedule.
+(1)        The Governor-General may make regulations in relation to transitional matters arising from the amendments made by this Schedule.
 
-(2)       The Governor‑General may make regulations modifying the application of the _Privacy Act 1988_ in relation to transitional matters in connection with the transfer of any of the operations or records of the Australian Government Health Service to the nominated AGHS company.
+(2)        The Governor-General may make regulations modifying the application of the _Privacy Act 1988_ in relation to transitional matters in connection with the transfer of any of the operations or records of the Australian Government Health Service to the nominated AGHS company.
 
-(3)       Subitems (1) and (2) do not limit each other.
+(3)        Subitems (1) and (2) do not limit each other.
 
-(4)       In this item:
+(4)        In this item:
 
                     <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
@@ -669,23 +709,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 16)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 13): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -908,34 +931,10 @@ _(d)_     Subsection 2(1) (item 34) of the _Statute Law Revision Act 2
 </tr>
 <tr>
   <td>
-    <div>Div. 3 of Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17–19</div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 1</div>
   </td>
   <td>
     <div>rep. No. 111, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
