@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 28 March 2012
- taking into account amendments up to Act No. 12 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 159 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -158,7 +158,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -174,11 +174,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -240,7 +240,7 @@ Application: 1999‑2000 year of income onwards
 
 General rule
 
-                   The amount of surcharge payable by a person on the person’s reportable fringe benefits total for a year of income is the total of the amounts worked out under whichever of Divisions 2, 3 and 4 apply to the person for a period in the year of income.
+             (1)  The amount of surcharge payable by a person on the person’s reportable fringe benefits total for a year of income is the total of the amounts worked out under whichever of Divisions 2, 3 and 4 apply to the person for a period in the year of income.
 
 ### Division 2—Amount of surcharge for single person without dependants
 
@@ -264,7 +264,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -316,7 +316,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -406,7 +406,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image007.gif)
 
 where:
 
@@ -938,23 +938,6 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
   <td>
     <div>Sch. 2 (item 11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2011 Measures No. 9) Act 2012</div>
-  </td>
-  <td>
-    <div>12, 2012</div>
-  </td>
-  <td>
-    <div>21 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 22): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
@@ -1176,7 +1159,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 53, 2000; No. 12, 2012</div>
+    <div>am. No. 53, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1264,7 +1247,7 @@ The following amendment commences on 1 July 2012:
 
 Omit “$18,839”, substitute “20,542”.
 
-As at 28 March 2012 the amendment is not incorporated in this compilation.
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
