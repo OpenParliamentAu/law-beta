@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00672/Html/a7cbc784-5915-4afe-9efd-6cf76235ce9d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00415/Html/e6279064-d622-4247-9bdb-2cdd7123fc79_files/image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 20 September 2012
+This compilation was prepared on 30 April 2012
  taking into account amendments up to Act No. 24 of 2012
 
 The text of any of those amendments not in force
@@ -184,13 +184,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Amendment of other legislation and transitional and saving provisions** 
 
-Australian Federal Police Act 1979                                                                      77
+Australian Federal Police Act 1979                                                                      75
 
-Criminal Code Act 1995                                                                                          78
+Criminal Code Act 1995                                                                                          76
 
-Customs Act 1901                                                                                                      79
+Customs Act 1901                                                                                                      77
 
-Mutual Assistance in Criminal Matters Act 1987                                               80
+Mutual Assistance in Criminal Matters Act 1987                                               78
 
 **Notes** 
 
@@ -358,8 +358,6 @@ Mutual Assistance in Criminal Matters Act 1987           �
 
                     <a name="integr-commission"></a>**_Integrity Commissioner_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
-                    <a name="investig-proceing"></a>**_investigative proceeding_** has the same meaning as in the _Mutual Assistance in Criminal Matters Act 1987._
-
                     <a name="law-enforc-agenc"></a>**_law enforcement agency_** means the following agencies:
 
                      (a)  the Australian Federal Police;
@@ -413,10 +411,6 @@ Mutual Assistance in Criminal Matters Act 1987           �
                      (a)  adjust, relocate, repair or service the device; and
 
                      (b)  replace a faulty device.
-
-                    <a name="mutual-assist-applic"></a>**_mutual assistance application_** means an application for a surveillance device warrant made under a mutual assistance authorisation.
-
-                    <a name="mutual-assist-authoris"></a>**_mutual assistance authorisation_** means an authorisation under subsection 15CA(1) of the _Mutual Assistance in Criminal Matters Act 1987._
 
                     <a name="new-south-wale-crime-commiss"></a>**_New South Wales Crime Commission_** means the New South Wales Crime Commission constituted by the _New South Wales Crime Commission Act 1985_ of New South Wales.
 
@@ -694,17 +688,7 @@ whether or not that person is physically present for any step in the execution o
 
                      (b)  the law enforcement officer suspects on reasonable grounds that the use of a surveillance device may assist in the location and safe recovery of the child to whom the recovery order relates.
 
-          (3A)  A law enforcement officer (or another person on his or her behalf) may apply for the issue of a surveillance device warrant if he or she:
-
-                     (a)  is authorised to do so under a mutual assistance authorisation; and
-
-                     (b)  suspects on reasonable grounds that the use of a surveillance device is necessary, in the course of the investigation or investigative proceeding to which the authorisation relates, for the purpose of enabling evidence to be obtained of:
-
-                              (i)  the commission of the offence to which the authorisation relates; or
-
-                             (ii)  the identity or location of the persons suspected of committing the offence.
-
-             (4)  The application under subsection (1), (3) or (3A) may be made to an eligible Judge or to a nominated AAT member.
+             (4)  The application under subsection (1) or (3) may be made to an eligible Judge or to a nominated AAT member.
 
              (5)  An application:
 
@@ -744,15 +728,13 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                      (b)  in the case of a warrant sought in relation to a recovery order—that such an order is in force and that there are reasonable grounds for the suspicion founding the application for the warrant; and
 
-                   (ba)  in the case of a warrant sought in relation to a mutual assistance authorisation—that such an authorisation is in force and that there are reasonable grounds for the suspicion founding the application for the warrant; and
-
                      (c)  in the case of an unsworn application—that it would have been impracticable for an affidavit to have been sworn or prepared before the application was made; and
 
                      (d)  in the case of a remote application—that it would have been impracticable for the application to have been made in person.
 
              (2)  In determining whether a surveillance device warrant should be issued, the eligible Judge or nominated AAT member must have regard to:
 
-                     (a)  in the case of a warrant sought in relation to a relevant offence or a mutual assistance authorisation—the nature and gravity of the alleged offence; and
+                     (a)  in the case of a warrant sought in relation to a relevant offence—the nature and gravity of the alleged offence; and
 
                      (b)  in the case of a warrant sought to assist in the location and safe recovery of a child to whom a recovery order relates—the circumstances that gave rise to the making of the order; and
 
@@ -760,9 +742,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                      (d)  the existence of any alternative means of obtaining the evidence or information sought to be obtained; and
 
-                     (e)  in the case of a warrant sought in relation to a relevant offence or a recovery order—the likely evidentiary or intelligence value of any evidence or information sought to be obtained; and
-
-                    (ea)  in the case of a warrant sought in relation to a mutual assistance authorisation—the likely evidentiary or intelligence value of any evidence or information sought to be obtained, to the extent that this is possible to determine from information obtained from the foreign country to which the authorisation relates; and
+                     (e)  the likely evidentiary or intelligence value of any evidence or information sought to be obtained; and
 
                       (f)  any previous warrant sought or issued under this Division in connection with the same alleged offence or the same recovery order.
 
@@ -779,8 +759,6 @@ an application for a warrant may be made before an affidavit is prepared or swor
                              (ii)  if the warrant relates to one or more alleged relevant offences—the alleged offences in respect of which the warrant is issued; and
 
                             (iii)  if the warrant relates to a recovery order—the date the order was made and the name of the child to whom the order relates; and
-
-                          (iiia)  if the warrant relates to a mutual assistance authorisation—the offence or offences against the law of a foreign country to which the authorisation relates; and
 
                             (iv)  the date the warrant is issued; and
 
@@ -888,7 +866,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
              (1)  A surveillance device warrant may, by instrument in writing, be revoked by an eligible Judge or nominated AAT member on his or her own initiative at any time before the expiration of the period of validity specified in the warrant.
 
-             (2)  If the circumstances set out in paragraphs 21(2)(a) and (b), 21(3)(a) and (b) or 21(3A)(a) and (b) apply in relation to a surveillance device warrant—the chief officer of the law enforcement agency to which the law enforcement officer to whom the warrant was issued belongs or is seconded must, by instrument in writing, revoke the warrant.
+             (2)  If the circumstances set out in paragraphs 21(2)(a) and (b) or 21(3)(a) and (b) apply in relation to a surveillance device warrant—the chief officer of the law enforcement agency to which the law enforcement officer to whom the warrant was issued belongs or is seconded must, by instrument in writing, revoke the warrant.
 
              (3)  The instrument revoking a warrant must be signed by the eligible Judge, the nominated AAT member or the chief officer of the law enforcement agency, as the case requires.
 
@@ -902,7 +880,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
 the law enforcement officer is not subject to any civil or criminal liability for any act done in the proper execution of that warrant before the officer is made aware of the revocation.
 
-##### <a id="21"></a>21  Discontinuance of use of surveillance device under warrant
+##### <a id="21"></a>21  Discontinuance of use of surveillance device under warrant
 
              (1)  This section applies if a surveillance device warrant is issued to a law enforcement officer.
 
@@ -922,31 +900,13 @@ the chief officer must, in addition to revoking the warrant under section 20, 
 
 the chief officer must, in addition to revoking the warrant under section 20, take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued.
 
-          (3A)  If:
-
-                     (a)  a surveillance device warrant has been sought by or on behalf of a law enforcement officer as authorised under a mutual assistance authorisation; and
-
-                     (b)  the chief officer of the law enforcement agency to which the law enforcement officer belongs or is seconded is satisfied that the use of a surveillance device is no longer required for the purpose of enabling evidence to be obtained of:
-
-                              (i)  the commission of the offence against a law of a foreign country to which the authorisation relates; or
-
-                             (ii)  the identity or location of the persons suspected of committing the offence;
-
-the chief officer must, in addition to revoking the warrant under section 20, take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued.
-
              (4)  If the chief officer of a law enforcement agency is notified that a warrant has been revoked by an eligible Judge or a nominated AAT member under section 20, he or she must take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued as soon as practicable.
 
              (5)  If the law enforcement officer to whom the warrant is issued, or who is primarily responsible for executing the warrant, believes that use of a surveillance device under the warrant is no longer necessary for the purpose:
 
                      (a)  if the warrant was issued in relation to a relevant offence—of enabling evidence to be obtained of the commission of the relevant offence or the identity or location of the offender; or
 
-                     (b)  if the warrant was issued in relation to a recovery order—of enabling the location and safe recovery of the child to whom the order relates; or
-
-                     (c)  if the warrant was issued in relation to a mutual assistance authorisation—of enabling evidence to be obtained of:
-
-                              (i)  the commission of the offence against a law of a foreign country to which the authorisation relates; or
-
-                             (ii)  the identity or location of the persons suspected of committing the offence;
+                     (b)  if the warrant was issued in relation to a recovery order—of enabling the location and safe recovery of the child to whom the order relates;
 
 he or she must immediately inform the chief officer of the law enforcement agency to which he or she belongs or is seconded.
 
@@ -1586,11 +1546,7 @@ the chief officer of the law enforcement agency to which the law enforcement off
 
                             in the performance of his or her official functions; or
 
-                      (f)  the communication of information for the purpose of providing the information to a foreign country, or an appropriate authority of a foreign country, if:
-
-                              (i)  the provision of the information has been authorised under subsection 13A(1) of the _Mutual Assistance in Criminal Matters Act 1987_; or
-
-                             (ii)  the information was obtained under, or relates to, a surveillance device warrant issued in relation to a mutual assistance authorisation.
+                      (f)  the communication of information to a foreign country or an appropriate authority of a foreign country, or the use of information so communicated, in accordance with the _Mutual Assistance in Criminal Matters Act 1987_, if that communication or use relates to the investigation of an offence or the conduct of proceedings in respect of an offence against a law of that foreign country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty; or
 
              (5)  Protected information may be used, recorded, communicated or published, or may be admitted in evidence, if it is necessary to do so for any of the following purposes:
 
@@ -1776,8 +1732,6 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
 
                      (a)  the number of applications for warrants made by or on behalf of, and the number of warrants issued to, law enforcement officers of the agency during that year; and
 
-                    (aa)  the number of mutual assistance applications made by or on behalf of, and the number of warrants issued as a result of such applications to, law enforcement officers of the agency during that year; and
-
                      (b)  the number of applications for emergency authorisations made by, and the number of emergency authorisations given to, law enforcement officers of the agency during that year; and
 
                      (c)  the number of applications for tracking device authorisations made by, and the number of such authorisations given to, law enforcement officers of the agency during that year; and
@@ -1786,8 +1740,6 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
 
                      (e)  the number of applications for warrants, emergency authorisations or tracking device authorisations made by or on behalf of law enforcement officers of the agency that were refused during that year, and the reasons for refusal; and
 
-                    (ea)  the number of mutual assistance applications made by or on behalf of law enforcement officers of the agency that were refused during that year, and the reasons for refusal; and
-
                       (f)  the number of applications for extensions of warrants made by or on behalf of law enforcement officers of the agency during that year, the number of extensions granted or refused and the reasons why they were granted or refused; and
 
                      (g)  the number of arrests made by law enforcement officers of the agency during that year on the basis (wholly or partly) of information obtained by the use of a surveillance device under a warrant, emergency authorisation or tracking device authorisation; and
@@ -1795,8 +1747,6 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
                      (h)  the number of instances during that year in which the location and safe recovery of children to whom recovery orders related was assisted (wholly or partly) by information obtained by the use of a surveillance device under a warrant, emergency authorisation or tracking device authorisation; and
 
                       (i)  the number of prosecutions for relevant offences that were commenced during that year in which information obtained by the use of a surveillance device under a warrant, emergency authorisation or tracking device authorisation was given in evidence and the number of those prosecutions in which a person was found guilty; and
-
-                    (ia)  for each offence (the **_foreign offence_**) against a law of a foreign country in respect of which a warrant was issued as a result of a mutual assistance application made by or on behalf of law enforcement officers of the agency during the year—the offence (if any), under a law of the Commonwealth, or of a State or a Territory, that is of the same nature as, or a substantially similar nature to, the foreign offence; and
 
                       (j)  any other information relating to the use of surveillance devices and the administration of this Act that the Minister considers appropriate.
 
@@ -1875,8 +1825,6 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
                              (ii)  if the warrant was issued in relation to a relevant offence—the relevant offence in relation to which the warrant was issued; and
 
                             (iii)  if the warrant was issued in relation to a recovery order—the date of issue of the recovery order and the name of the child to whom the order related; and
-
-                          (iiia)  if the warrant was issued in relation to a mutual assistance authorisation—the offence against the law of the foreign country to which the authorisation relates; and
 
                             (iv)  the period during which the warrant is in force; and
 
@@ -2374,7 +2322,7 @@ of Assent</div>
 Schedule 9 (item 24): <i>(a)</i></div>
   </td>
   <td>
-    <div>S. 2(1) (item 19) (am. by 170, 2006, Sch. 1 \[item 11])</div>
+    <div>S. 2(1) (item 19) (am. by 170, 2006, Sch. 1 \[item 11])</div>
   </td>
 </tr>
 <tr>
@@ -2545,7 +2493,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1: 4 Oct 2008</div>
   </td>
   <td>
-    <div>Sch. 1 (items 9, 10)</div>
+    <div>Sch. 1 (items 9, 10)</div>
   </td>
 </tr>
 <tr>
@@ -2579,7 +2527,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 7 (items 24, 29): 20 Feb 2010</div>
   </td>
   <td>
-    <div>Sch. 7 (item 29)</div>
+    <div>Sch. 7 (item 29)</div>
   </td>
 </tr>
 <tr>
@@ -2630,7 +2578,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 1099–1101) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -2645,8 +2593,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 3 (items 51, 52, 
-54–69) and Schedule 4 (item 4): 20 Sept 2012 
-Schedule 3 (item 53): <i>(d)</i></div>
+54–69): \[ <i>see</i>Note 2 and Table A] 
+Schedule 3 (item 53) and Schedule 4 (item 4): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Sch. 3 (item 69)</div>
@@ -2871,71 +2819,12 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
   </td>
 </tr></table>
 
-_(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 3, item 53
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as the provision(s) covered by table item 2.
-    </div>
-    <div>
-      However, if item 2 of Schedule 2 to the
-        <i>Cybercrime Legislation Amendment Act 2012</i>has not commenced before
-        that time, the provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="32%">
+  <col width="68%">
 </colgroup>
 
 <thead>
@@ -2974,20 +2863,12 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 86 and 170, 2006; Nos. 52 and 104, 2007; No. 95, 2008; No. 32, 2009; No. 4, 2010; Nos. 7 and 24, 2012</div>
+    <div>am. Nos. 86 and 170, 2006; Nos. 52 and 104, 2007; No. 95, 2008; No. 32, 2009; No. 4, 2010; No. 24, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6B</div>
+    <div>Ss. 6A, 6B</div>
   </td>
   <td>
     <div>ad. No. 95, 2008</div>
@@ -3011,50 +2892,10 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 18</div>
   </td>
   <td>
     <div>am. No. 40, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3179,38 +3020,6 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
 </tr>
 <tr>
   <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -3225,6 +3034,154 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>am. No. 86, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012 (No. 7, 2012)_
+
+The following amendments commence on 20 September 2012 unless proclaimed earlier:
+
+## Schedule 3
+
+## 51  Subsection 6(1)
+
+Insert:
+
+                    <a name="investig-proceing"></a>**_investigative proceeding_** has the same meaning as in the _Mutual Assistance in Criminal Matters Act 1987._
+
+## 52  Subsection 6(1)
+
+Insert:
+
+                    <a name="mutual-assist-applic"></a>**_mutual assistance application_** means an application for a surveillance device warrant made under a mutual assistance authorisation.
+
+## 54  After subsection 14(3)
+
+Insert:
+
+          (3A)  A law enforcement officer (or another person on his or her behalf) may apply for the issue of a surveillance device warrant if he or she:
+
+                     (a)  is authorised to do so under a mutual assistance authorisation; and
+
+                     (b)  suspects on reasonable grounds that the use of a surveillance device is necessary, in the course of the investigation or investigative proceeding to which the authorisation relates, for the purpose of enabling evidence to be obtained of:
+
+                              (i)  the commission of the offence to which the authorisation relates; or
+
+                             (ii)  the identity or location of the persons suspected of committing the offence.
+
+## 55  Subsection 14(4)
+
+Omit “(1) or (3)”, substitute “(1), (3) or (3A)”.
+
+## 56  After paragraph 16(1)(b)
+
+Insert:
+
+                   (ba)  in the case of a warrant sought in relation to a mutual assistance authorisation—that such an authorisation is in force and that there are reasonable grounds for the suspicion founding the application for the warrant; and
+
+## 57  Paragraph 16(2)(a)
+
+After “relevant offence”, insert “or a mutual assistance authorisation”.
+
+## 58  Paragraph 16(2)(e)
+
+Before “the likely”, insert “in the case of a warrant sought in relation to a relevant offence or a recovery order—”.
+
+## 59  After paragraph 16(2)(e)
+
+Insert:
+
+                    (ea)  in the case of a warrant sought in relation to a mutual assistance authorisation—the likely evidentiary or intelligence value of any evidence or information sought to be obtained, to the extent that this is possible to determine from information obtained from the foreign country to which the authorisation relates; and
+
+## 60  After subparagraph 17(1)(b)(iii)
+
+Insert:
+
+                          (iiia)  if the warrant relates to a mutual assistance authorisation—the offence or offences against the law of a foreign country to which the authorisation relates; and
+
+## 61  Subsection 20(2)
+
+Omit “or 21(3)(a) and (b)”, substitute “, 21(3)(a) and (b) or 21(3A)(a) and (b)”.
+
+## 62  After subsection 21(3)
+
+Insert:
+
+          (3A)  If:
+
+                     (a)  a surveillance device warrant has been sought by or on behalf of a law enforcement officer as authorised under a mutual assistance authorisation; and
+
+                     (b)  the chief officer of the law enforcement agency to which the law enforcement officer belongs or is seconded is satisfied that the use of a surveillance device is no longer required for the purpose of enabling evidence to be obtained of:
+
+                              (i)  the commission of the offence against a law of a foreign country to which the authorisation relates; or
+
+                             (ii)  the identity or location of the persons suspected of committing the offence;
+
+the chief officer must, in addition to revoking the warrant under section 20, take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued.
+
+## 63  After paragraph 21(5)(b)
+
+Insert:
+
+                 or (c)  if the warrant was issued in relation to a mutual assistance authorisation—of enabling evidence to be obtained of:
+
+                              (i)  the commission of the offence against a law of a foreign country to which the authorisation relates; or
+
+                             (ii)  the identity or location of the persons suspected of committing the offence;
+
+## 64  Paragraph 45(4)(f)
+
+Repeal the paragraph, substitute:
+
+                      (f)  the communication of information for the purpose of providing the information to a foreign country, or an appropriate authority of a foreign country, if:
+
+                              (i)  the provision of the information has been authorised under subsection 13A(1) of the _Mutual Assistance in Criminal Matters Act 1987_; or
+
+                             (ii)  the information was obtained under, or relates to, a surveillance device warrant issued in relation to a mutual assistance authorisation.
+
+## 65  After paragraph 50(1)(a)
+
+Insert:
+
+                    (aa)  the number of mutual assistance applications made by or on behalf of, and the number of warrants issued as a result of such applications to, law enforcement officers of the agency during that year; and
+
+## 66  After paragraph 50(1)(e)
+
+Insert:
+
+                    (ea)  the number of mutual assistance applications made by or on behalf of law enforcement officers of the agency that were refused during that year, and the reasons for refusal; and
+
+## 67  After paragraph 50(1)(i)
+
+Insert:
+
+                    (ia)  for each offence (the **_foreign offence_**) against a law of a foreign country in respect of which a warrant was issued as a result of a mutual assistance application made by or on behalf of law enforcement officers of the agency during the year—the offence (if any), under a law of the Commonwealth, or of a State or a Territory, that is of the same nature as, or a substantially similar nature to, the foreign offence; and
+
+## 68  After subparagraph 53(2)(c)(iii)
+
+Insert:
+
+                          (iiia)  if the warrant was issued in relation to a mutual assistance authorisation—the offence against the law of the foreign country to which the authorisation relates; and
+
+The following amendments commence on 20 September 2012 unless proclaimed earlier. However, the amendments may not commence, _see_ subsection 2(1) (items 9 and 14):
+
+## Schedule 3
+
+## 53  Subsection 6(1)
+
+Insert:
+
+                    <a name="mutual-assist-authoris"></a>**_mutual assistance authorisation_** means an authorisation under subsection 15F(1) of the _Mutual Assistance in Criminal Matters Act 1987._
+
+## Schedule 4
+
+## 4  Subsection 6(1)
+
+Insert:
+
+                    <a name="mutual-assist-authoris"></a>**_mutual assistance authorisation_** means an authorisation under subsection 15CA(1) of the _Mutual Assistance in Criminal Matters Act 1987._
+
+As at 30 April 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3366,6 +3323,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012 (No. 7, 2012)_
+
+The following provision commences on 20 September 2012 unless proclaimed earlier:
 
 ## Schedule 3
 
