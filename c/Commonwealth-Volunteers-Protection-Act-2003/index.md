@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00290/Html/2b68ae13-5e64-48ee-b704-128f006cdb19_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00335/Html/CwlthVoluntProtection2003_image001.gif)
 
 # Commonwealth Volunteers Protection Act 2003
 
 **Act No. 2 of 2003 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -150,19 +150,19 @@ Note:          This table relates only to the provisions of th
 
                      (a)  a Federal Court;
 
-                     (b)  a Department of the Parliament established under the _Parliamentary Service Act 1999_;
+                     (b)  a Department of the Parliament;
 
                      (c)  a body (not being a body corporate) established or continued in existence for a public purpose by or under a Commonwealth law, other than a body established by or under:
 
-                              (i)  the _Australian   Capital Territory__(Self‑Government) Act 1988_; or
+                              (i)  the _Australian   Capital Territory__(Self-Government) Act 1988_; or
 
                              (ii)  the _Norfolk Island__Act 1979_; or
 
-                            (iii)  the _Northern   Territory__(Self‑Government) Act 1978_.
+                            (iii)  the _Northern   Territory__(Self-Government) Act 1978_.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means a body corporate established or continued in existence for a public purpose  by or under a Commonwealth law, but does not include:
 
-                     (a)  a corporation registered under the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_; or
+                     (a)  a corporation registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_; or
 
                      (b)  an organisation registered or an association recognised under the _Fair Work (Registered Organisations) Act 2009_; or
 
@@ -170,7 +170,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="organised"></a>**_organised_** includes directed and supervised.
 
-                    <a name="recreat-drug"></a>**_recreational drug_** means a drug consumed voluntarily for non‑medicinal purposes and includes alcohol.
+                    <a name="recreat-drug"></a>**_recreational drug_** means a drug consumed voluntarily for non-medicinal purposes and includes alcohol.
 
                     <a name="voluntari-basi"></a>**_voluntary basis_** has the meaning given by subsections (2) and (3).
 
@@ -222,11 +222,11 @@ Protection
 
                      (b)  organised by the Commonwealth or the Commonwealth authority.
 
-Third‑party insurance or defamation
+Third-party insurance or defamation
 
              (2)  Subsection (1) does not apply to:
 
-                     (a)  a liability that is covered by a scheme of compulsory third‑party motor vehicle insurance; or
+                     (a)  a liability that is covered by a scheme of compulsory third-party motor vehicle insurance; or
 
                      (b)  a liability for defamation.
 
@@ -264,9 +264,9 @@ Individual acting outside scope of authority or instructions
 
                    This Act does not override or limit the operation of the _Damage by Aircraft Act 1999_.
 
-##### <a id="11"></a>11  Regulations
+##### <a id="11"></a>11  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -362,23 +362,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 124): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
@@ -457,7 +440,7 @@ _(a)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -491,21 +474,13 @@ _(a)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div><b> Part 1 </b></div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 125, 2006; No. 54, 2009; No. 5, 2011</div>
+    <div>am. No. 125, 2006; No. 54, 2009</div>
   </td>
 </tr></table>
 
