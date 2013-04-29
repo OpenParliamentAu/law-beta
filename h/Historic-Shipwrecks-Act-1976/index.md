@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00103/Html/HistoricShipwrecks1976_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00189/Html/HistoricShipwrecks1976_image001.gif)
 
 # Historic Shipwrecks Act 1976
 
 **Act No. 190 of 1976 as amended**
 
-This compilation was prepared on 24 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -194,7 +194,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
                      (a)  an offence against the regulations;
 
-                     (b)  an offence against this Act that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_; and
+                     (b)  an offence against this Act that is taken to have been committed because of section 11.2 of the _Criminal Code_; and
 
                      (c)  an offence against section 11.1 or 11.4 of the _Criminal Code_ in relation to this Act.
 
@@ -954,7 +954,7 @@ In its deliberations the Committee will have, as its general aim, the purpose of
 
 Most material so far recovered from the vessels are samples capable of statistical treatment.
 
-A representative collection of the contents of each statistical sample should be made available to a museum of the Netherlands Government and a museum of the Commonwealth Government. Thus, in the case of coin, for example, both the Netherlands and Commonwealth Governments would receive as complete a series as possible representing the mintings and values contained within each of the wrecks. These will provide their museums with ample material of this class of objects for display purposes and sufficient to enable a scholar to make the initial qualitative studies which would possibly lead him to a more detailed statistical treatment of the bulk sample retained in the   Western Australian Museum. 
+A representative collection of the contents of each statistical sample should be made available to a museum of the Netherlands Government and a museum of the Commonwealth Government. Thus, in the case of coin, for example, both the Netherlands and Commonwealth Governments would receive as complete a series as possible representing the mintings and values contained within each of the wrecks. These will provide their museums with ample material of this class of objects for display purposes and sufficient to enable a scholar to make the initial qualitative studies which would possibly lead him to a more detailed statistical treatment of the bulk sample retained in the Western Australian Museum. 
 
 **Less common or rare objects**
 
@@ -1246,23 +1246,6 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 10 (item 21): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1323,14 +1306,6 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 2</div>
   </td>
   <td>
@@ -1342,7 +1317,7 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 88, 1980; No. 61, 1981; No. 22, 1984; No. 65, 1985; No. 15, 2001; No. 17, 2006; No. 4, 2010</div>
+    <div>am. No. 88, 1980; No. 61, 1981; No. 22, 1984; No. 65, 1985; No. 15, 2001; No. 17, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1367,14 +1342,6 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
   </td>
   <td>
     <div>ad. No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1455,14 +1422,6 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
   </td>
   <td>
     <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
