@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00840/Html/ca528a8a-0e70-4aef-8760-58eed16bba70_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00215/Html/InteractGamb2001WD02_image001.gif)
 
 # Interactive Gambling Act 2001
 
 **Act No. 84 of 2001 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Prohibited internet gambling services
 
-[8](#8).            Australian‑customer link
+[8](#8).            Australian-customer link
 
 [8A](#8A).         Excluded wagering service
 
@@ -44,7 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9A](#9A).         Designated country
 
-[9B](#9B).         Designated country‑customer link
+[9B](#9B).         Designated country-customer link
 
 [10](#10).          Exempt services
 
@@ -54,15 +54,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Extension to external Territories
 
-[14](#14).          Extra‑territorial application
+[14](#14).          Extra-territorial application
 
 **Part 2—Offence of providing an interactive gambling service to customers in Australia**
 
 [15](#15).          Offence of providing an interactive gambling service to customers in Australia
 
-**Part 2A—Offence of providing an Australian‑based interactive gambling service to customers in designated countries**
+**Part 2A—Offence of providing an Australian-based interactive gambling service to customers in designated countries**
 
-[15A](#15A).       Offence of providing an Australian‑based interactive gambling service to customers in designated countries
+[15A](#15A).       Offence of providing an Australian-based interactive gambling service to customers in designated countries
 
 **Part 3—Complaints system: prohibited internet gambling content** 
 
@@ -92,17 +92,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Deferral of action in order to avoid prejudicing a criminal investigation
 
-[26](#26).          Anti‑avoidance—notified internet content
+[26](#26).          Anti-avoidance—notified internet content
 
-[27](#27).          Anti‑avoidance—special access‑prevention notice
+[27](#27).          Anti-avoidance—special access-prevention notice
 
-[28](#28).          Compliance with access‑prevention notices
+[28](#28).          Compliance with access-prevention notices
 
 [29](#29).          Notification of internet content
 
 [30](#30).          Application of notifications under this Division
 
-[31](#31).          ACMA may be taken to have issued access‑prevention notices
+[31](#31).          ACMA may be taken to have issued access-prevention notices
 
 **Part 4—Complaints system: industry code and industry standard** 
 
@@ -204,7 +204,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61BF](#61BF).     Exception—products or services having the same name as an interactive gambling service
 
-[61BG](#61BG).    Exception—anti‑gambling advertisements
+[61BG](#61BG).    Exception—anti-gambling advertisements
 
 [61BGA](#61BGA). Exception—advertisements of a kind specified in the regulations
 
@@ -330,9 +330,9 @@ Act regulates interactive gambling services by:</li>
 
                (a)     prohibiting interactive gambling services from being provided to customers in Australia; and
 
-             (aa)     prohibiting Australian‑based interactive gambling services from being provided to customers in designated countries; and
+             (aa)     prohibiting Australian-based interactive gambling services from being provided to customers in designated countries; and
 
-              (b)     establishing a complaints‑based system to deal with internet gambling services where the relevant content (**_prohibited internet gambling content_**) is available for access by customers in Australia.
+               (b)     establishing a complaints-based system to deal with internet gambling services where the relevant content (**_prohibited internet gambling content_**) is available for access by customers in Australia.
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person may complain to
 
@@ -340,19 +340,21 @@ the ACMA about **_prohibited internet gambling content_**.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If prohibited internet
 
-gambling content is **_hosted in Australia_** and the ACMA considers
+gambling content is **_hosted in_****_Australia_** and the ACMA
 
-that the complaint should be referred to an Australian police force, the ACMA
+considers that the complaint should be referred to an Australian police force,
 
-must refer the complaint to a member of an Australian police force.</li>
+the ACMA must refer the complaint to a member of an Australian police force.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If prohibited internet
 
-gambling content is **_hosted outside Australia_**, the ACMA must:</li>
+gambling content is **_hosted outside_****_Australia_**, the ACMA
+
+must:</li>
 
                (a)     if the ACMA considers that the content should be referred to a law enforcement agency—notify the content to a member of an Australian police force; and
 
-              (b)     notify the content to internet service providers so that the providers can deal with the content in accordance with procedures specified in an industry code or industry standard (for example, procedures relating to the provision of regularly updated internet content filtering software to subscribers).
+               (b)     notify the content to internet service providers so that the providers can deal with the content in accordance with procedures specified in an industry code or industry standard (for example, procedures relating to the provision of regularly updated internet content filtering software to subscribers).
 
 <li class="BoxList" style="margin-left:21.25pt">•      Bodies and associations
 
@@ -380,7 +382,7 @@ advertising of interactive gambling services.</li>
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
-                    <a name="australian-custom-link"></a>**_Australian‑customer link_** has the meaning given by section 8.
+                    <a name="australian-custom-link"></a>**_Australian-customer link_** has the meaning given by section 8.
 
                     <a name="australian-polic-forc"></a>**_Australian police force_** means:
 
@@ -408,7 +410,7 @@ advertising of interactive gambling services.</li>
 
                     <a name="design-countri"></a>**_designated country_** has the meaning given by section 9A.
 
-                    <a name="design-countri-custom-link"></a>**_designated country‑customer link_** has the meaning given by section 9B.
+                    <a name="design-countri-custom-link"></a>**_designated country-customer link_** has the meaning given by section 9B.
 
                     <a name="design-datacast-link"></a>**_designated datacasting link_** has the meaning given by section 8C.
 
@@ -468,7 +470,7 @@ Note:          For example, the ACMA may make matters or thing
 
 Note:          This definition relates to the offences created by section 15 and Part 7A.
 
-                    <a name="internet-carriag-servic"></a>**_internet carriage service_**means a listed carriage service that enables end‑users to access the internet.
+                    <a name="internet-carriag-servic"></a>**_internet carriage service_**means a listed carriage service that enables end-users to access the internet.
 
                     <a name="internet-content"></a>**_internet content_** has the same meaning as in Schedule 5 to the _Broadcasting Services Act 1992_.
 
@@ -480,7 +482,7 @@ Note:          This definition relates to the offences created
 
                     <a name="onlin-provid-rule"></a>**_online provider rule_** has the meaning given by section 54.
 
-                    <a name="prohibit-internet-gambl-content"></a>**_prohibited internet gambling content_** means internet content that is accessed, or available for access, by an end‑user in the capacity of customer of a prohibited internet gambling service.
+                    <a name="prohibit-internet-gambl-content"></a>**_prohibited internet gambling content_** means internet content that is accessed, or available for access, by an end-user in the capacity of customer of a prohibited internet gambling service.
 
 Note:          This definition relates to the complaints system.
 
@@ -488,9 +490,9 @@ Note:          This definition relates to the complaints syste
 
 Note:          This definition relates to the complaints system.
 
-                    <a name="special-access-prevent-notic"></a>**_special access‑prevention notice_** means a notice under section 27.
+                    <a name="special-access-prevent-notic"></a>**_special access-prevention notice_** means a notice under section 27.
 
-                    <a name="standard-access-prevent-notic"></a>**_standard access‑prevention notice_** means a notice under paragraph 24(1)(c).
+                    <a name="standard-access-prevent-notic"></a>**_standard access-prevention notice_** means a notice under paragraph 24(1)(c).
 
                     <a name="standard-telephon-servic"></a>**_standard telephone service_** has the same meaning as in the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
@@ -538,11 +540,11 @@ Excluded services
 
                     (aa)  an excluded wagering service (see section 8A);
 
-                   (ab)  an excluded gaming service (see section 8B);
+                    (ab)  an excluded gaming service (see section 8B);
 
                     (ac)  a service that has a designated broadcasting link (see section 8C);
 
-                   (ad)  a service that has a designated datacasting link (see section 8C);
+                    (ad)  a service that has a designated datacasting link (see section 8C);
 
                     (ae)  an excluded lottery service (see section 8D);
 
@@ -572,11 +574,11 @@ Excluded services
 
                     (aa)  an excluded wagering service (see section 8A);
 
-                   (ab)  an excluded gaming service (see section 8B);
+                    (ab)  an excluded gaming service (see section 8B);
 
                     (ac)  a service that has a designated broadcasting link (see section 8C);
 
-                   (ad)  a service that has a designated datacasting link (see section 8C);
+                    (ad)  a service that has a designated datacasting link (see section 8C);
 
                     (ae)  an excluded lottery service (see section 8D);
 
@@ -584,9 +586,9 @@ Excluded services
 
                      (b)  an exempt service (see section 10).
 
-##### <a id="8"></a>8  Australian‑customer link
+##### <a id="8"></a>8  Australian-customer link
 
-                   For the purposes of this Act, a gambling service has an **_Australian‑customer link_** if, and only if, any or all of the customers of the service are physically present in Australia.
+                   For the purposes of this Act, a gambling service has an **_Australian-customer link_** if, and only if, any or all of the customers of the service are physically present in Australia.
 
 ##### <a id="8A"></a>8A  Excluded wagering service
 
@@ -688,7 +690,7 @@ Designated datacasting link
 
           (1B)  Without limiting subsection (1A), a condition specified in regulations made for the purposes of that subsection may provide that the lottery must not be:
 
-                     (a)  a highly repetitive or frequently drawn form of a keno‑type lottery; or
+                     (a)  a highly repetitive or frequently drawn form of a keno-type lottery; or
 
                      (b)  a similar lottery.
 
@@ -728,9 +730,9 @@ made by the government of that country.
 
              (6)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="9B"></a>9B  Designated country‑customer link
+##### <a id="9B"></a>9B  Designated country-customer link
 
-                   For the purposes of this Act, a gambling service has a **_designated country‑customer link_** if, and only if, any or all of the customers of the service are physically present in a designated country.
+                   For the purposes of this Act, a gambling service has a **_designated country-customer link_** if, and only if, any or all of the customers of the service are physically present in a designated country.
 
 ##### <a id="10"></a>10  Exempt services
 
@@ -760,7 +762,7 @@ made by the government of that country.
 
                    This Act extends to every external Territory.
 
-##### <a id="14"></a>14  Extra‑territorial application
+##### <a id="14"></a>14  Extra-territorial application
 
                    Unless the contrary intention appears, this Act extends to acts, omissions, matters and things outside Australia.
 
@@ -772,7 +774,7 @@ made by the government of that country.
 
                      (a)  the person intentionally provides an interactive gambling service; and
 
-                     (b)  the service has an Australian‑customer link (see section 8).
+                     (b)  the service has an Australian-customer link (see section 8).
 
                     Penalty:  2,000 penalty units.
 
@@ -784,11 +786,11 @@ made by the government of that country.
 
                      (b)  could not, with reasonable diligence, have ascertained;
 
-that the service had an Australian‑customer link.
+that the service had an Australian-customer link.
 
 Note:          The defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (4)  For the purposes of subsection (3), in determining whether the person could, with reasonable diligence, have ascertained that the service had an Australian‑customer link, the following matters are to be taken into account:
+             (4)  For the purposes of subsection (3), in determining whether the person could, with reasonable diligence, have ascertained that the service had an Australian-customer link, the following matters are to be taken into account:
 
                      (a)  whether prospective customers were informed that Australian law prohibits the provision of the service to customers who are physically present in Australia;
 
@@ -806,15 +808,15 @@ Note:          The defendant bears an evidential burden in rel
 
              (5)  Section 15.4 of the _Criminal Code_ (extended geographical jurisdiction—category D) applies to an offence against subsection (1).
 
-## Part 2A—Offence of providing an Australian‑based interactive gambling service to customers in designated countries
+## Part 2A—Offence of providing an Australian-based interactive gambling service to customers in designated countries
 
-##### <a id="15A"></a>15A  Offence of providing an Australian‑based interactive gambling service to customers in designated countries
+##### <a id="15A"></a>15A  Offence of providing an Australian-based interactive gambling service to customers in designated countries
 
              (1)  A person is guilty of an offence if:
 
-                     (a)  the person intentionally provides an Australian‑based interactive gambling service; and
+                     (a)  the person intentionally provides an Australian-based interactive gambling service; and
 
-                     (b)  the service has a designated country‑customer link (see section 9B).
+                     (b)  the service has a designated country-customer link (see section 9B).
 
                     Penalty:  2,000 penalty units.
 
@@ -826,11 +828,11 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  could not, with reasonable diligence, have ascertained;
 
-that the service had a designated country‑customer link.
+that the service had a designated country-customer link.
 
 Note:          The defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (4)  For the purposes of subsection (3), in determining whether the person could, with reasonable diligence, have ascertained that the service had a designated country‑customer link, the following matters are to be taken into account:
+             (4)  For the purposes of subsection (3), in determining whether the person could, with reasonable diligence, have ascertained that the service had a designated country-customer link, the following matters are to be taken into account:
 
                      (a)  whether prospective customers were informed that Australian law prohibits the provision of the service to customers who are physically present in a designated country;
 
@@ -848,9 +850,9 @@ Note:          The defendant bears an evidential burden in rel
 
              (5)  Section 15.4 of the _Criminal Code_ (extended geographical jurisdiction—category D) applies to an offence against subsection (1).
 
-             (6)  For the purposes of this section, an **_Australian‑based interactive gambling service_** is an interactive gambling service, where the service has an Australian‑provider link.
+             (6)  For the purposes of this section, an **_Australian-based interactive gambling service_** is an interactive gambling service, where the service has an Australian-provider link.
 
-             (7)  For the purposes of this section, an interactive gambling service has an **_Australian‑provider link_** if, and only if:
+             (7)  For the purposes of this section, an interactive gambling service has an **_Australian-provider link_** if, and only if:
 
                      (a)  the service is provided in the course of carrying on a business in Australia; or
 
@@ -860,7 +862,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (d)  the service is provided to customers using an internet carriage service, and any or all of the relevant internet content is hosted in Australia.
 
-             (8)  For the purposes of this section, the **_relevant internet content_**, in relation to an interactive gambling service, is internet content that is accessed, or available for access, by an end‑user in the capacity of customer of the service.
+             (8)  For the purposes of this section, the **_relevant internet content_**, in relation to an interactive gambling service, is internet content that is accessed, or available for access, by an end-user in the capacity of customer of the service.
 
 ## Part 3—Complaints system: prohibited internet gambling content
 
@@ -868,7 +870,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="16"></a>16  Complaints about prohibited internet gambling content
 
-             (1)  If a person has reason to believe that end‑users in Australia can access prohibited internet gambling content using an internet carriage service, the person may make a complaint to the ACMA about the matter.
+             (1)  If a person has reason to believe that end-users in Australia can access prohibited internet gambling content using an internet carriage service, the person may make a complaint to the ACMA about the matter.
 
 Content of complaint
 
@@ -964,7 +966,7 @@ Referral to Australian police force
 
                    The ACMA may investigate any of the following matters if the ACMA thinks that it is desirable to do so:
 
-                     (a)  whether an internet service provider is supplying an internet carriage service that enables end‑users to access prohibited internet gambling content hosted outside Australia;
+                     (a)  whether an internet service provider is supplying an internet carriage service that enables end-users to access prohibited internet gambling content hosted outside Australia;
 
                      (b)  whether:
 
@@ -1002,7 +1004,7 @@ Referral to Australian police force
 
                      (b)  if a code registered, and/or a standard determined, under Part 4 deals exclusively with the designated internet gambling matters—notify the content to internet service providers under the designated notification scheme set out in the code or standard, as the case may be; and
 
-                     (c)  if paragraph (b) does not apply—give each internet service provider known to the ACMA a written notice (a **_standard access‑prevention notice_**) directing the provider to take all reasonable steps to prevent end‑users from accessing the content.
+                     (c)  if paragraph (b) does not apply—give each internet service provider known to the ACMA a written notice (a **_standard access-prevention notice_**) directing the provider to take all reasonable steps to prevent end-users from accessing the content.
 
 Note 1:       For internet content hosted in Australia, see subsection 20(3).
 
@@ -1016,15 +1018,15 @@ Note 2:       The ACMA may be taken to have given a notice under par
 
              (3)  Subsection (2) does not, by implication, limit the matters to which regard must be had.
 
-Recognised alternative access‑prevention arrangements
+Recognised alternative access-prevention arrangements
 
-             (4)  An internet service provider is not required to comply with a standard access‑prevention notice in relation to a particular end‑user if access by the end‑user is subject to a recognised alternative access‑prevention arrangement (as defined by subsection (5)) that is applicable to the end‑user.
+             (4)  An internet service provider is not required to comply with a standard access-prevention notice in relation to a particular end-user if access by the end-user is subject to a recognised alternative access-prevention arrangement (as defined by subsection (5)) that is applicable to the end-user.
 
-             (5)  The ACMA may, by written instrument, declare that a specified arrangement is a **_recognised alternative access‑prevention arrangement_** for the purposes of the application of this Division to one or more specified end‑users if the ACMA is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end‑users to prohibited internet gambling content.
+             (5)  The ACMA may, by written instrument, declare that a specified arrangement is a **_recognised alternative access-prevention arrangement_** for the purposes of the application of this Division to one or more specified end-users if the ACMA is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end-users to prohibited internet gambling content.
 
 Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
-             (6)  The following are examples of arrangements that could be declared to be recognised alternative access‑prevention arrangements under subsection (5):
+             (6)  The following are examples of arrangements that could be declared to be recognised alternative access-prevention arrangements under subsection (5):
 
                      (a)  an arrangement that involves the use of regularly updated internet content filtering software;
 
@@ -1054,13 +1056,13 @@ the ACMA may defer taking that action until the end of that period.
 
              (2)  Subsection (1) has effect despite anything in section 24.
 
-##### <a id="26"></a>26  Anti‑avoidance—notified internet content
+##### <a id="26"></a>26  Anti-avoidance—notified internet content
 
                    If:
 
                      (a)  particular internet content has been notified to internet service providers as mentioned in paragraph 24(1)(b); and
 
-                     (b)  the ACMA is satisfied that internet content (the **_similar internet content_**) that is the same as, or substantially similar to, the first‑mentioned internet content is being hosted outside Australia; and
+                     (b)  the ACMA is satisfied that internet content (the **_similar internet content_**) that is the same as, or substantially similar to, the first-mentioned internet content is being hosted outside Australia; and
 
                      (c)  the ACMA is satisfied that the similar internet content is prohibited internet gambling content; and
 
@@ -1068,17 +1070,17 @@ the ACMA may defer taking that action until the end of that period.
 
 the ACMA must notify the similar internet content to internet service providers under the designated notification scheme set out in the code or standard, as the case may be.
 
-##### <a id="27"></a>27  Anti‑avoidance—special access‑prevention notice
+##### <a id="27"></a>27  Anti-avoidance—special access-prevention notice
 
              (1)  If:
 
-                     (a)  a standard access‑prevention notice relating to particular internet content is applicable to a particular internet service provider; and
+                     (a)  a standard access-prevention notice relating to particular internet content is applicable to a particular internet service provider; and
 
-                     (b)  the ACMA is satisfied that the internet service provider is supplying an internet carriage service that enables end‑users to access internet content (the **_similar internet content_**) that is the same as, or substantially similar to, the internet content identified in the standard access‑prevention notice; and
+                     (b)  the ACMA is satisfied that the internet service provider is supplying an internet carriage service that enables end-users to access internet content (the **_similar internet content_**) that is the same as, or substantially similar to, the internet content identified in the standard access-prevention notice; and
 
                      (c)  the ACMA is satisfied that the similar internet content is prohibited internet gambling content;
 
-the ACMA may give the provider a written notice (**_special access‑prevention notice_**) directing the provider to take all reasonable steps to prevent end‑users from accessing the similar internet content at any time when the standard access‑prevention notice is in force.
+the ACMA may give the provider a written notice (**_special access-prevention notice_**) directing the provider to take all reasonable steps to prevent end-users from accessing the similar internet content at any time when the standard access-prevention notice is in force.
 
 Note:          The ACMA may be taken to have given a notice under this section—see section 31.
 
@@ -1090,19 +1092,19 @@ Note:          The ACMA may be taken to have given a notice un
 
              (3)  Subsection (2) does not, by implication, limit the matters to which regard must be had.
 
-Recognised alternative access‑prevention arrangements
+Recognised alternative access-prevention arrangements
 
-             (4)  An internet service provider is not required to comply with a special access‑prevention notice in relation to a particular end‑user if access by the end‑user is subject to a recognised alternative access‑prevention arrangement (as defined by subsection 24(5)) that is applicable to the end‑user.
+             (4)  An internet service provider is not required to comply with a special access-prevention notice in relation to a particular end-user if access by the end-user is subject to a recognised alternative access-prevention arrangement (as defined by subsection 24(5)) that is applicable to the end-user.
 
-##### <a id="28"></a>28  Compliance with access‑prevention notices
+##### <a id="28"></a>28  Compliance with access-prevention notices
 
-Standard access‑prevention notice
+Standard access-prevention notice
 
-             (1)  An internet service provider must comply with a standard access‑prevention notice that applies to the provider as soon as practicable, and in any event by 6 pm on the next business day, after the notice was given to the provider.
+             (1)  An internet service provider must comply with a standard access-prevention notice that applies to the provider as soon as practicable, and in any event by 6 pm on the next business day, after the notice was given to the provider.
 
-Special access‑prevention notice
+Special access-prevention notice
 
-             (2)  An internet service provider must comply with a special access‑prevention notice that applies to the provider as soon as practicable, and in any event by 6 pm on the next business day, after the notice was given to the provider.
+             (2)  An internet service provider must comply with a special access-prevention notice that applies to the provider as soon as practicable, and in any event by 6 pm on the next business day, after the notice was given to the provider.
 
 Note:          For enforcement, see Part 5.
 
@@ -1122,7 +1124,7 @@ Note:          For enforcement, see Part 5.
 
 Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
-##### <a id="31"></a>31  ACMA may be taken to have issued access‑prevention notices
+##### <a id="31"></a>31  ACMA may be taken to have issued access-prevention notices
 
              (1)  Subject to subsection (2), the ACMA may, by written instrument, formulate a scheme:
 
@@ -1130,9 +1132,9 @@ Note:          For specification by class, see subsection 46(2
 
                      (b)  under which the ACMA is taken, for the purposes of this Act, to have done any or all of the following:
 
-                              (i)  given each internet service provider a standard access‑prevention notice under paragraph 24(1)(c);
+                              (i)  given each internet service provider a standard access-prevention notice under paragraph 24(1)(c);
 
-                             (ii)  given each internet service provider a special access‑prevention notice under section 27.
+                             (ii)  given each internet service provider a special access-prevention notice under section 27.
 
              (2)  It is a minimum requirement for a scheme formulated under subsection (1) that each internet service provider be alerted by electronic means to the existence of a notice.
 
@@ -1234,19 +1236,19 @@ Matters that must be dealt with by industry code or industry standard
 
 the designated internet gambling matters.
 
-Designated alternative access‑prevention arrangements
+Designated alternative access-prevention arrangements
 
-             (3)  An industry code or an industry standard may provide that an internet service provider is not required to deal with internet content notified under paragraph 24(1)(b) or section 26 by taking steps to prevent particular end‑users from accessing the content if access by the end‑users is subject to an arrangement that is declared by the code or standard to be a designated alternative access‑prevention arrangement for the purposes of the application of this section to those end‑users.
+             (3)  An industry code or an industry standard may provide that an internet service provider is not required to deal with internet content notified under paragraph 24(1)(b) or section 26 by taking steps to prevent particular end-users from accessing the content if access by the end-users is subject to an arrangement that is declared by the code or standard to be a designated alternative access-prevention arrangement for the purposes of the application of this section to those end-users.
 
-             (4)  An industry code developed by a body or association must not declare that a specified arrangement is a designated alternative access‑prevention arrangement for the purposes of the application of this section to one or more specified end‑users unless the body or association is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end‑users to prohibited internet gambling content.
-
-Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
-
-             (5)  An industry standard determined by the ACMA must not declare that a specified arrangement is a designated alternative access‑prevention arrangement for the purposes of the application of this section to one or more specified end‑users unless the ACMA is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end‑users to prohibited internet gambling content.
+             (4)  An industry code developed by a body or association must not declare that a specified arrangement is a designated alternative access-prevention arrangement for the purposes of the application of this section to one or more specified end-users unless the body or association is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end-users to prohibited internet gambling content.
 
 Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
-             (6)  The following are examples of arrangements that could be declared to be designated alternative access‑prevention arrangements:
+             (5)  An industry standard determined by the ACMA must not declare that a specified arrangement is a designated alternative access-prevention arrangement for the purposes of the application of this section to one or more specified end-users unless the ACMA is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end-users to prohibited internet gambling content.
+
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
+
+             (6)  The following are examples of arrangements that could be declared to be designated alternative access-prevention arrangements:
 
                      (a)  an arrangement that involves the use of regularly updated internet content filtering software;
 
@@ -1620,7 +1622,7 @@ Note:          See also section 57.
 
                      (c)  the person’s conduct contravenes the direction.
 
-                    Penalty for contravention of this subsection:        50 penalty units.
+                    Penalty for contravention of this subsection:     50 penalty units.
 
 Note:          See also section 57.
 
@@ -1660,9 +1662,9 @@ in so far as the code or standard deals with the procedures referred to in parag
 
              (1)  An application may be made to the Tribunal for a review of any of the following decisions made by the ACMA:
 
-                     (a)  a decision to give an internet service provider a standard access‑prevention notice;
+                     (a)  a decision to give an internet service provider a standard access-prevention notice;
 
-                     (b)  a decision to give an internet service provider a special access‑prevention notice;
+                     (b)  a decision to give an internet service provider a special access-prevention notice;
 
                      (c)  a decision under section 42 or 56 to:
 
@@ -1834,7 +1836,7 @@ Related bodies corporate taken to be associated with each other
 
              (3)  For the purposes of subsection (2), the question whether 2 bodies corporate are related to each other is to be determined in the same way as the question would be determined under the Corporations Law.
 
-##### <a id="61BG"></a>61BG  Exception—anti‑gambling advertisements
+##### <a id="61BG"></a>61BG  Exception—anti-gambling advertisements
 
                    If:
 
@@ -1938,7 +1940,7 @@ then, despite section 61BA, the advertisement is not an interactive gambling s
 
                      (c)  the broadcast or datacast is not permitted by section 61DC.
 
-                    Penalty for contravention of this subsection:        120 penalty units.
+                    Penalty for contravention of this subsection: 120 penalty units.
 
 ##### <a id="61DB"></a>61DB  Accidental or incidental broadcast or datacast permitted
 
@@ -1994,9 +1996,9 @@ then, despite section 61BA, the advertisement is not an interactive gambling s
 
                     Penalty:  120 penalty units.
 
-             (3)  For the purposes of this section, an interactive gambling service advertisement that is included on a website is taken to be published **_in Australia_** if, and only if:
+             (3)  For the purposes of this section, an interactive gambling service advertisement that is included on a website is taken to be published **_in_****_Australia_** if, and only if:
 
-                     (a)  the website is accessed, or is available for access, by end‑users in Australia; and
+                     (a)  the website is accessed, or is available for access, by end-users in Australia; and
 
                      (b)  having regard to:
 
@@ -2288,7 +2290,7 @@ it is necessary to establish the state of mind of a person other than a body cor
 
                      (b)  an ancillary offence relating to this Act;
 
-to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  If:
 
@@ -2426,7 +2428,7 @@ Definition
 
 ##### <a id="70"></a>70  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
@@ -2597,23 +2599,6 @@ Schedule 5 (items 137, 138): <i>(d)</i></div>
   </td>
   <td>
     <div>Sch. 5 (item 138)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 735–739) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3622,36 +3607,6 @@ Part 3</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 735  Section 4 (definition of _business day_)
-
-Repeal the definition.
-
-## 736  Subsection 24(5) (note)
-
-Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
-
-## 737  Section 30 (note)
-
-Omit “subsection 46(2)”, substitute “subsection 33(3AB)”.
-
-## 738  Subsection 37(4) (note)
-
-Omit “subsection 46(2)”, substitute “subsection 33(3AB)”.
-
-## 739  Subsection 37(5) (note)
-
-Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
-
-As at 19 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3679,21 +3634,5 @@ _Note:       Headings to the following provisions are not altered by
 (c)              section 123WG and subsection 123WG(2) of the _Social Security (Administration) Act 1999_;
 
 (d)              section 59 of the _Telstra Corporation Act 1991_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
