@@ -1,2448 +1,1338 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02137/Html/AusInstATSIStudies89_image001.gif)
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989 
-**
+# Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
+**Act No. 149 of 1989 as amended**
 
-**
+This compilation was prepared on 15 October 2001
+ taking into account amendments up to Act No. 112 of 2001
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part 1—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
+[3](#3).            Interpretation                                                                                       1
 
-**
+[3A](#3A).         Application of the _Criminal Code_                                                       2
 
-###  Long Title 
-**
-**
+**Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies**
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;1&#151;Preliminary </part>
-**
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_.
+[4](#4).            Australian Institute of Aboriginal and Torres Strait Islander Studies 3
 
- 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 2  Commencement [_see_ Note 1] 
-This Act commences on the commencement of the _Aboriginal and Torres Strait Islander Commission Act 1989_.
+**Part 3—Functions of Institute**
 
- 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 3  Interpretation 
-In this Act, unless the contrary intention appears:
+[5](#5).            Functions of Institute                                                                          4
 
- 
-<dl compact=""><dl compact="">
+[6](#6).            Powers of Institute                                                                              4
 
-_Aboriginal and Torres Strait Islander studies_ means research and
+**Part 4—Members of Institute**
 
-study in relation to aspects of the culture, history and society of Aboriginal
+[7](#7).            Members of Institute                                                                           6
 
-persons or Torres Strait Islanders. _Aboriginal person_ means a person of the Aboriginal race of Australia. _Advisory Board_ means the Torres Strait Islander Advisory Board established by section&#160;82 of the Commission Act. _appointed Councillor_ means a Councillor referred to in paragraph 12(1)(b) or (c). _Commission_ means the Aboriginal and Torres Strait Islander Commission established by section&#160;6 of the Commission Act. _Commission Act_ means the _Aboriginal and Torres Strait Islander Commission Act 1989_. _Council_ means the Council of the Institute referred to in section&#160;12\. _Council Chairperson_ means the Chairperson of the Council appointed under subsection 14(1). _Councillor_ means a member of the Council. _elected Councillor_ means a Councillor referred to in paragraph 12(1)(a). _Institute_ means the Australian Institute of Aboriginal and Torres Strait Islander Studies established by section&#160;4\. _Institute rules_ means rules made by the Council under section&#160;48\. _Principal_ means the Principal of the Institute referred to in section&#160;24\. _Research Advisory Committee_ means the Research Advisory Committee of the Institute referred to in section&#160;31\. _Torres Strait Islander_ means a descendant of an indigenous inhabitant of the Torres Strait Islands. _TSRA_ means the Torres Strait Regional Authority established by Part&#160;3A of the Commission Act.  </dl></dl>
+[8](#8).            Period of membership                                                                          6
 
-**
+[9](#9).            Resignation                                                                                          7
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 3A  Application of the _Criminal Code_ 
-**
+[10](#10).          Register of members                                                                            7
 
-<center>Back to Top</center>
+[11](#11).          Rights of members                                                                               7
 
- <dl compact="">
+**Part 5—Council of Institute** 
 
-		Chapter&#160;2 of the _Criminal Code_(except Part&#160;2.5) applies to
+    **Division 1—Constitution of Council**
 
-all offences against this Act.
+[12](#12).          Constitution of Council                                                                       8
 
- </dl>
+[13](#13).          Responsibilities of Council                                                                  8
 
-<dl compact=""><dl compact="">
+[14](#14).          Chairperson and Deputy Chairperson of Council                               8
 
-Note 1:	Chapter&#160;2 of the _Criminal Code_ sets out the
+    **Division 2—Administrative provisions**
 
-general principles of criminal responsibility. Note 2:	Part&#160;2.5 of the _Criminal Code_ (which deals with corporate criminal responsibility) is excluded from applying to offences against this Act by subsection 47(10).  </dl></dl>
+[15](#15).          Term of office                                                                                      9
 
-<center>**
+[16](#16).          Remuneration and allowances                                                              9
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;2&#151;Australian Institute of Aboriginal and Torres Strait Islander Studies </part>
-**</center>
+[17](#17).          Leave of absence                                                                                  9
 
-**
+[18](#18).          Acting appointments                                                                           9
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 4  Australian Institute of Aboriginal and Torres Strait Islander Studies 
-**
+[20](#20).          Resignation                                                                                        11
 
-<dl compact="">
+[21](#21).          Termination of membership of Council                                             11
 
-<dt>(1)</dt><dd>An Australian Institute of Aboriginal and Torres Strait Islander Studies
+[22](#22).          Other terms and conditions                                                               11
 
-is established.</dd> <dt>(2)</dt><dd>The Institute: </dd> </dl>
+    **Division 3—Operations of Council**
 
-<dl compact=""><dl compact=""><dl compact="">
+[23](#23).          Meetings of Council                                                                          12
 
-<dt>(a)</dt><dd>is a body corporate;</dd>
+**Part 6—Principal**
 
-<dt>(b)</dt><dd>shall have a seal;</dd>
+[24](#24).          Principal                                                                                             14
 
-<dt>(c)</dt><dd>may acquire, hold and dispose of real and personal property; and</dd>
+[25](#25).          Period of appointment                                                                       14
 
-<dt>(d)</dt><dd>may sue and be sued.
+[26](#26).          Remuneration and allowances                                                            14
 
-</dd>
+[26A](#26A).       Recreation leave                                                                                 14
 
-</dl></dl></dl>
+[27](#27).          Resignation                                                                                        14
 
-<dl compact=""><dl compact="">
+[28](#28).          Other terms and conditions                                                               15
 
-Note:	The _Commonwealth Authorities and Companies Act 1997_
+**Part 7—Staff**
 
-applies to the Institute. That Act deals with matters relating to Commonwealth
+[29](#29).          Staff                                                                                                   16
 
-authorities, including reporting and accountability, banking and investment,
+[30](#30).          Consultants                                                                                        16
 
-and conduct of officers.
+**Part 8—Research Advisory Committee**
 
- </dl></dl>
+[31](#31).          Research Advisory Committee                                                          17
 
-<dl compact="">
+[32](#32).          Functions of Research Advisory Committee                                    17
 
-<dt>(3)</dt><dd>The seal of the Institute shall be kept in such custody as the Council
+[33](#33).          Remuneration and allowances                                                            17
 
-directs and shall not be used except as authorised by the Council.</dd> <dt>(4)</dt><dd>All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of the Institute appearing on a document and shall presume that it was duly affixed. </dd> </dl>
+[34](#34).          Resignation                                                                                        17
 
-<center>**
+[35](#35).          Other terms and conditions                                                               18
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;3&#151;Functions of Institute </part>
-**</center>
+**Part 9—Finance**
 
-**
+[36](#36).          Money payable to the Institute                                                        19
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 5  Functions of Institute 
-**
+[38](#38).          Application of money held by Institute                                            19
 
- <dl compact="">
+[39](#39).          Exemption from taxation                                                                   19
 
-		The Institute has the following functions:
+**Part 10—Miscellaneous**
 
- </dl>
+[41](#41).          Certain information not to be disclosed                                             20
 
-<dl compact=""><dl compact=""><dl compact="">
+[42](#42).          Informing Commission and TSRA about general conduct of Institute 20
 
-<dt>(a)</dt><dd>to undertake and promote Aboriginal and Torres Strait Islander studies;</dd>
+[43](#43).          Minister or Commission may ask for advice                                     20
 
-<dt>(b)</dt><dd>to publish the results of Aboriginal and Torres Strait Islander studies
+[44](#44).          Delegation to Principal or staff                                                          21
 
-and to assist in the publication of the results of such studies;</dd>
+[45](#45).          Remuneration and allowances                                                            21
 
-<dt>(c)</dt><dd>to conduct research in fields relevant to Aboriginal and Torres Strait
+[45A](#45A).       Recreation leave                                                                                 22
 
-Islander studies and to encourage other persons or bodies to conduct such
+[47](#47).          Conduct of directors, servants and agents                                         22
 
-research;</dd>
+[48](#48).          Rules                                                                                                  24
 
-<dt>(d)</dt><dd>to assist in training persons, particularly Aboriginal persons and Torres
+[49](#49).          Regulations                                                                                        24
 
-Strait Islanders, as research workers in fields relevant to Aboriginal and
+**Part 11—Consequential and transitional provisions** 
 
-Torres Strait Islander studies;</dd>
+    **Division 1—Preliminary**
 
-<dt>(e)</dt><dd>to establish and maintain a cultural resource collection consisting of
+[50](#50).          Interpretation                                                                                     25
 
-materials relating to Aboriginal and Torres Strait Islander studies;</dd>
+    **Division 2—Repeal**
 
-<dt>(f)</dt><dd>to encourage understanding, in the general community, of Aboriginal and
+[51](#51).          Repeal                                                                                                27
 
-Torres Strait Islander societies;</dd>
+    **Division 3—Transitional provisions**
 
-<dt>(g)</dt><dd>such other functions as are conferred on the Institute by this Act;</dd>
+[52](#52).          Interim Council                                                                                  28
 
-<dt>(h)</dt><dd>to do anything else that is incidental or conducive to the performance of
+[53](#53).          First Principal of the Institute                                                           28
 
-any of the preceding functions.
+[54](#54).          Transfer of assets and liabilities of old Institute                               29
 
-</dd>
+[55](#55).          Old Institute instruments                                                                  29
 
-</dl></dl></dl>
+[56](#56).          Pending proceedings                                                                          30
 
-<center>Back to Top</center>
+[57](#57).          Research Advisory Committee                                                          30
 
-**
+[59](#59).          Certificates with respect to assets, liabilities and instruments          30
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 6  Powers of Institute 
-**
+[60](#60).          State or Territory officer may act on certificate                                31
 
- <dl compact="">
+[61](#61).          Transfer of appropriated money                                                       31
 
-<dt>(1)</dt><dd>The Institute has power to do all things that are necessary or convenient
+[62](#62).          Contracts of employment not preserved                                           32
 
-to be done for or in connection with the performance of its functions.</dd> <dt>(2)</dt><dd>The powers of the Institute under subsection&#160;(1) include, but are not limited to, the following powers: </dd> </dl>
+[63](#63).          Transfer of staff to Australian Public Service                                   32
 
-<dl compact=""><dl compact=""><dl compact="">
+[64](#64).          Operation of Superannuation Benefit (Interim Arrangement) Act    32
 
-<dt>(a)</dt><dd>to accept gifts, grants, bequests and devises made to it;</dd>
+[65](#65).          Exemption from taxation                                                                   33
 
-<dt>(b)</dt><dd>to act as trustee of money and other property vested in it on trust.
+    **Division 4—Consequential amendments of other Acts**
 
-</dd>
+[Sections 66 and 67](#Sections 66 and 67).                                                                                           34
 
-</dl></dl></dl>
+**Notes** 
 
-<dl compact="">
+ 
 
-<dt>(3)</dt><dd>In spite of anything contained in this Act, any money or other property
+## An Act to establish an Australian Institute of Aboriginal and Torres Strait Islander Studies, and for related purposes
 
-held by the Institute on trust shall be dealt with in accordance with the
+## Part 1—Preliminary
 
-powers and duties of the Institute as trustee.
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-</dd> </dl>
+                   This Act may be cited as the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_.
 
-<center>**
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;4&#151;Members of Institute </part>
-**</center>
+                   This Act commences on the commencement of the _Aboriginal and Torres Strait Islander Commission Act 1989_.
 
-**
+##### <a id="3"></a>3  Interpretation
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 7  Members of Institute 
-**
+                   In this Act, unless the contrary intention appears:
 
- <dl compact="">
+                    <a name="aborigin-torr-strait-island-studi"></a>**_Aboriginal and Torres Strait Islander studies_** means research and study in relation to aspects of the culture, history and society of Aboriginal persons or Torres Strait Islanders.
 
-<dt>(1)</dt><dd>The following persons are, subject to this Part, members of the Institute:
+                    <a name="aborigin-person"></a>**_Aboriginal person_** means a person of the Aboriginal race of Australia.
 
-</dd> </dl>
+                    <a name="advisori-board"></a>**_Advisory Board_** means the Torres Strait Islander Advisory Board established by section 82 of the Commission Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="appointed-councillor"></a>**_appointed Councillor_** means a Councillor referred to in paragraph 12(1)(b) or (c).
 
-<dt>(a)</dt><dd>all persons who, immediately before the commencement of this section, were
+                    <a name="commiss"></a>**_Commission_** means the Aboriginal and Torres Strait Islander Commission established by section 6 of the Commission Act.
 
-members of the Australian Institute of Aboriginal Studies;</dd>
+                    <a name="commiss-act"></a>**_Commission Act_** means the _Aboriginal and Torres Strait Islander Commission Act 1989_.
 
-<dt>(b)</dt><dd>all persons who, immediately before that commencement, were listed in a
+                    <a name="council"></a>**_Council_** means the Council of the Institute referred to in section 12.
 
-register maintained by the Australian Institute of Aboriginal Studies as
+                    <a name="council-chairperson"></a>**_Council Chairperson_** means the Chairperson of the Council appointed under subsection 14(1).
 
-associate members or corresponding members of that Institute;</dd>
+                    <a name="councillor"></a>**_Councillor_** means a member of the Council.
 
-<dt>(c)</dt><dd>such other persons as are appointed by the Council to be members of the
+                    <a name="elected-councillor"></a>**_elected Councillor_** means a Councillor referred to in paragraph 12(1)(a).
 
-Institute.
+                    <a name="institut"></a>**_Institute_** means the Australian Institute of Aboriginal and Torres Strait Islander Studies established by section 4.
 
-</dd>
+                    <a name="institut-rule"></a>**_Institute rules_** means rules made by the Council under section 48.
 
-</dl></dl></dl>
+                    <a name="princip"></a>**_Principal_** means the Principal of the Institute referred to in section 24.
 
-<dl compact="">
+                    <a name="research-advisori-committe"></a>**_Research Advisory Committee_** means the Research Advisory Committee of the Institute referred to in section 31.
 
-<dt>(2)</dt><dd>The Council shall not appoint a person to be a member of the Institute
+                    <a name="torr-strait-island"></a>**_Torres Strait Islander_** means a descendant of an indigenous inhabitant of the Torres Strait Islands.
 
-unless:
+                    <a name="tsra"></a>**_TSRA_** means the Torres Strait Regional Authority established by Part 3A of the Commission Act.
 
-</dd> </dl>
+##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
-<dl compact=""><dl compact=""><dl compact="">
+                   Chapter 2 of the _Criminal Code_(except Part 2.5) applies to all offences against this Act.
 
-<dt>(a)</dt><dd>the person has applied for membership of the Institute in accordance with
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-the Institute rules;</dd>
+Note 2:       Part 2.5 of the _Criminal Code_ (which deals with corporate criminal responsibility) is excluded from applying to offences against this Act by subsection 47(10).
 
-<dt>(b)</dt><dd>the person has a demonstrated interest in Aboriginal and Torres Strait
+## Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies
 
-Islander studies;</dd>
+##### <a id="4"></a>4  Australian Institute of Aboriginal and Torres Strait Islander Studies
 
-<dt>(c)</dt><dd>the Research Advisory Committee has advised the Council whether or not the
+             (1)  An Australian Institute of Aboriginal and Torres Strait Islander Studies is established.
 
-Committee considers the person should be appointed; and</dd>
+             (2)  The Institute:
 
-<dt>(d)</dt><dd>the Council has considered the advice of the Committee.
+                     (a)  is a body corporate;
 
-</dd>
+                     (b)  shall have a seal;
 
-</dl></dl></dl>
+                     (c)  may acquire, hold and dispose of real and personal property; and
 
-**
+                     (d)  may sue and be sued.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 8  Period of membership 
-**
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
- <dl compact="">
+             (3)  The seal of the Institute shall be kept in such custody as the Council directs and shall not be used except as authorised by the Council.
 
-<dt>(1)</dt><dd>A person who becomes a member of the Institute because of paragraph
+             (4)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of the Institute appearing on a document and shall presume that it was duly affixed.
 
-7(1)(a), or because of an appointment under paragraph 7(1)(c), continues to be
+## Part 3—Functions of Institute
 
-a member because of that paragraph or appointment for a period of 5 years.</dd> <dt>(2)</dt><dd>A person who becomes a member of the Institute because of paragraph 7(1)(b) continues to be a member because of that paragraph: </dd> </dl>
+##### <a id="5"></a>5  Functions of Institute
 
-<dl compact=""><dl compact=""><dl compact="">
+                   The Institute has the following functions:
 
-<dt>(a)</dt><dd>in the case of a person listed as an associate member of the Australian
+                     (a)  to undertake and promote Aboriginal and Torres Strait Islander studies;
 
-Institute of Aboriginal Studies&#151;for a period equal to so much of the person's
+                     (b)  to publish the results of Aboriginal and Torres Strait Islander studies and to assist in the publication of the results of such studies;
 
-term as an associate member as remained unexpired at the commencement of this
+                     (c)  to conduct research in fields relevant to Aboriginal and Torres Strait Islander studies and to encourage other persons or bodies to conduct such research;
 
-section; and</dd>
+                     (d)  to assist in training persons, particularly Aboriginal persons and Torres Strait Islanders, as research workers in fields relevant to Aboriginal and Torres Strait Islander studies;
 
-<dt>(b)</dt><dd>in the case of a person listed as a corresponding member of the Australian
+                     (e)  to establish and maintain a cultural resource collection consisting of materials relating to Aboriginal and Torres Strait Islander studies;
 
-Institute of Aboriginal Studies&#151;for a period of 5 years.
+                      (f)  to encourage understanding, in the general community, of Aboriginal and Torres Strait Islander societies;
 
-</dd>
+                     (g)  such other functions as are conferred on the Institute by this Act;
 
-</dl></dl></dl>
+                     (h)  to do anything else that is incidental or conducive to the performance of any of the preceding functions.
 
-<dl compact="">
+##### <a id="6"></a>6  Powers of Institute
 
-<dt>(3)</dt><dd>Nothing in this section prevents the Council from appointing as a member
+             (1)  The Institute has power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions.
 
-of the Institute a person who has previously been a member of the Institute.
+             (2)  The powers of the Institute under subsection (1) include, but are not limited to, the following powers:
 
-</dd> </dl>
+                     (a)  to accept gifts, grants, bequests and devises made to it;
 
-<center>Back to Top</center>
+                     (b)  to act as trustee of money and other property vested in it on trust.
 
-**
+             (3)  In spite of anything contained in this Act, any money or other property held by the Institute on trust shall be dealt with in accordance with the powers and duties of the Institute as trustee.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 9  Resignation 
-**
+## Part 4—Members of Institute
 
- <dl compact="">
+##### <a id="7"></a>7  Members of Institute
 
-		A member of the Institute may resign by writing signed by him or her and sent
+             (1)  The following persons are, subject to this Part, members of the Institute:
 
-to the Principal.
+                     (a)  all persons who, immediately before the commencement of this section, were members of the Australian Institute of Aboriginal Studies;
 
- </dl>
+                     (b)  all persons who, immediately before that commencement, were listed in a register maintained by the Australian Institute of Aboriginal Studies as associate members or corresponding members of that Institute;
 
-**
+                     (c)  such other persons as are appointed by the Council to be members of the Institute.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 10  Register of members 
-**
+             (2)  The Council shall not appoint a person to be a member of the Institute unless:
 
- <dl compact="">
+                     (a)  the person has applied for membership of the Institute in accordance with the Institute rules;
 
-		The Principal shall establish and maintain a register of the members of the
+                     (b)  the person has a demonstrated interest in Aboriginal and Torres Strait Islander studies;
 
-Institute.
+                     (c)  the Research Advisory Committee has advised the Council whether or not the Committee considers the person should be appointed; and
 
- </dl>
+                     (d)  the Council has considered the advice of the Committee.
 
-**
+##### <a id="8"></a>8  Period of membership
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 11  Rights of members 
-**
+             (1)  A person who becomes a member of the Institute because of paragraph 7(1)(a), or because of an appointment under paragraph 7(1)(c), continues to be a member because of that paragraph or appointment for a period of 5 years.
 
- <dl compact="">
+             (2)  A person who becomes a member of the Institute because of paragraph 7(1)(b) continues to be a member because of that paragraph:
 
-		Membership of the Institute does not confer any rights or powers other than
+                     (a)  in the case of a person listed as an associate member of the Australian Institute of Aboriginal Studies—for a period equal to so much of the person’s term as an associate member as remained unexpired at the commencement of this section; and
 
-those expressly conferred by this Act or by the Institute rules.
+                     (b)  in the case of a person listed as a corresponding member of the Australian Institute of Aboriginal Studies—for a period of 5 years.
 
- </dl>
+             (3)  Nothing in this section prevents the Council from appointing as a member of the Institute a person who has previously been a member of the Institute.
 
-<center>**
+##### <a id="9"></a>9  Resignation
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;5&#151;Council of Institute </part>
-**</center>
+                   A member of the Institute may resign by writing signed by him or her and sent to the Principal.
 
-<center>**
+##### <a id="10"></a>10  Register of members
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;1&#151;Constitution of Council </division> 
-**</center>
+                   The Principal shall establish and maintain a register of the members of the Institute.
 
-**
+##### <a id="11"></a>11  Rights of members
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 12  Constitution of Council 
-**
+                   Membership of the Institute does not confer any rights or powers other than those expressly conferred by this Act or by the Institute rules.
 
- <dl compact="">
+## Part 5—Council of Institute
 
-<dt>(1)</dt><dd>There shall be a Council of the Institute consisting of the following
+### Division 1—Constitution of Council
 
-members:
+##### <a id="12"></a>12  Constitution of Council
 
-</dd> </dl>
+             (1)  There shall be a Council of the Institute consisting of the following members:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  4 persons elected by the members of the Institute in accordance with the Institute rules, being persons who are themselves members of the Institute;
 
-<dt>(a)</dt><dd>4 persons elected by the members of the Institute in accordance with the
+                     (b)  one person appointed by the Minister, being a person who is a Torres Strait Islander and whose appointment has been recommended by the Advisory Board;
 
-Institute rules, being persons who are themselves members of the Institute;</dd>
+                     (c)  4 other persons appointed by the Minister, being persons who are Aboriginal persons or Torres Strait Islanders.
 
-<dt>(b)</dt><dd>one person appointed by the Minister, being a person who is a Torres
+             (2)  All the Councillors hold office on a part-time basis.
 
-Strait Islander and whose appointment has been recommended by the Advisory
+##### <a id="13"></a>13  Responsibilities of Council
 
-Board;</dd>
+                   It is the responsibility of the Council to ensure the proper and efficient performance of the functions of the Institute and to determine the policy of the Institute with respect to any matter.
 
-<dt>(c)</dt><dd>4 other persons appointed by the Minister, being persons who are
+##### <a id="14"></a>14  Chairperson and Deputy Chairperson of Council
 
-Aboriginal persons or Torres Strait Islanders.
+             (1)  The Minister shall appoint a Chairperson and a Deputy Chairperson of the Council from among the Councillors.
 
-</dd>
+             (2)  The Councillor who is the Chairperson or the Deputy Chairperson of the Council ceases to be the Chairperson or the Deputy Chairperson of the Council, as the case may be, if he or she ceases to be a Councillor.
 
-</dl></dl></dl>
+### Division 2—Administrative provisions
 
-<dl compact="">
+##### <a id="15"></a>15  Term of office
 
-<dt>(2)</dt><dd>All the Councillors hold office on a part-time basis.
+             (1)  An appointed Councillor holds office for such period, not exceeding 4 years, as is specified in the instrument of appointment.
 
-</dd> </dl>
+             (2)  An elected Councillor holds office for such period, not exceeding 4 years, as is determined in accordance with the Institute rules.
 
-**
+##### <a id="16"></a>16  Remuneration and allowances
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 13  Responsibilities of Council 
-**
+                   A Councillor is entitled to remuneration and allowances in accordance with section 45.
 
- <dl compact="">
+##### <a id="17"></a>17  Leave of absence
 
-		It is the responsibility of the Council to ensure the proper and efficient
+             (1)  The Minister may grant a Councillor leave of absence from duty on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
 
-performance of the functions of the Institute and to determine the policy of
+             (2)  The Minister may delegate, to the Council Chairperson, the power under subsection (1) to grant leave of absence to the other Councillors.
 
-the Institute with respect to any matter.
+##### <a id="18"></a>18  Acting appointments
 
- </dl>
+             (1)  The Deputy Chairperson of the Council shall act as the Council Chairperson:
 
-**
+                     (a)  during a vacancy in the office of Council Chairperson, whether or not an appointment has previously been made to the office; or
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 14  Chairperson and Deputy Chairperson of Council 
-**
+                     (b)  during any period, or during all periods, when the Council Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
- <dl compact="">
+             (2)  The Minister may appoint a person to act in the office of an appointed Councillor:
 
-<dt>(1)</dt><dd>The Minister shall appoint a Chairperson and a Deputy Chairperson of the
+                     (a)  during a vacancy in that office, whether or not an appointment has previously been made to the office; or
 
-Council from among the Councillors.</dd> <dt>(2)</dt><dd>The Councillor who is the Chairperson or the Deputy Chairperson of the Council ceases to be the Chairperson or the Deputy Chairperson of the Council, as the case may be, if he or she ceases to be a Councillor. </dd> </dl>
+                     (b)  during any period, or during all periods, when the appointed Councillor is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-<center>**
+             (3)  A person appointed to act during a vacancy in the office of an appointed Councillor under subsection (2):
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;2&#151;Administrative provisions </division> 
-**</center>
+                     (a)  shall not continue so to act for more than 6 months; and
 
-**
+                     (b)  shall not be re-appointed to act during that vacancy for a period that would be continuous with the period of 6 months from the date when the person first started acting during that vacancy.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 15  Term of office 
-**
+             (4)  The Minister shall not appoint a person to act in an office of appointed Councillor unless, having regard to section 12, the person could be appointed to that office.
 
- <dl compact="">
+             (5)  The Minister may appoint a member of the Institute to act in the office of an elected Councillor during any period, or during all periods, when the elected Councillor is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-<dt>(1)</dt><dd>An appointed Councillor holds office for such period, not exceeding 4
+             (6)  The appointment of a person to act in the office of a Councillor who is also the Chairperson or Deputy Chairperson of the Council does not constitute an appointment of the person to act as the Chairperson or Deputy Chairperson, as the case may be.
 
-years, as is specified in the instrument of appointment.</dd> <dt>(2)</dt><dd>An elected Councillor holds office for such period, not exceeding 4 years, as is determined in accordance with the Institute rules. </dd> </dl>
+             (7)  Anything done by or in relation to a person purporting to act under an appointment made under this section is not invalid merely because:
 
-**
+                     (a)  the occasion for the appointment had not arisen;
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 16  Remuneration and allowances <center>[Back to Top](#top)</center> 
-**
+                     (b)  there was a defect or irregularity in connection with the appointment;
 
- <dl compact="">
+                     (c)  the appointment had ceased to have effect; or
 
-		A Councillor is entitled to remuneration and allowances in accordance with
+                     (d)  the occasion to act had not arisen or had ceased.
 
-section&#160;45.
+##### <a id="20"></a>20  Resignation
 
- </dl>
+                   A Councillor may resign by writing signed by him or her and sent to the Minister.
 
-**
+##### <a id="21"></a>21  Termination of membership of Council
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 17  Leave of absence 
-**
+             (1)  The Minister may terminate a person’s membership of the Council because of misbehaviour or physical or mental incapacity.
 
- <dl compact="">
+             (2)  If a member of the Council:
 
-<dt>(1)</dt><dd>The Minister may grant a Councillor leave of absence from duty on such
+                     (a)  is absent, except on leave granted under section 17, from 3 consecutive meetings of the Council; or
 
-terms and conditions as to remuneration or otherwise as the Minister determines
+                     (b)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-in writing.</dd> <dt>(2)</dt><dd>The Minister may delegate, to the Council Chairperson, the power under subsection&#160;(1) to grant leave of absence to the other Councillors. </dd> </dl>
+the Minister shall terminate the person’s membership of the Council.
 
-**
+             (3)  An elected Councillor ceases to be a Councillor if he or she ceases to be a member of the Institute.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 18  Acting appointments 
-**
+##### <a id="22"></a>22  Other terms and conditions
 
- <dl compact="">
+                   A Councillor holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister by notice in writing published in the _Gazette_.
 
-<dt>(1)</dt><dd>The Deputy Chairperson of the Council shall act as the Council Chairperson:
+### Division 3—Operations of Council
 
-</dd> </dl>
+##### <a id="23"></a>23  Meetings of Council
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The Council Chairperson shall convene such meetings of the Council as, in the Chairperson’s opinion, are necessary for the efficient performance of the Council’s responsibilities.
 
-<dt>(a)</dt><dd>during a vacancy in the office of Council Chairperson, whether or not an
+             (2)  The Minister may, at any time, convene a meeting of the Council.
 
-appointment has previously been made to the office; or</dd>
+             (3)  The Council Chairperson shall convene a meeting of the Council upon receipt of a written request for a meeting signed by at least 4 Councillors.
 
-<dt>(b)</dt><dd>during any period, or during all periods, when the Council Chairperson is
+             (4)  At a meeting of the Council, a quorum is constituted by 5 Councillors.
 
-absent from duty or from Australia or is, for any reason, unable to perform the
+             (5)  Where:
 
-duties of the office.
+                     (a)  a Councillor who is present at a meeting is required by section 19 not to be present during the deliberations, or to take part in any decision, of the Council with respect to a particular matter; and
 
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Minister may appoint a person to act in the office of an appointed
-
-Councillor:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>during a vacancy in that office, whether or not an appointment has
-
-previously been made to the office; or</dd>
-
-<dt>(b)</dt><dd>during any period, or during all periods, when the appointed Councillor is
-
-absent from duty or from Australia, or is, for any reason, unable to perform
-
-the duties of the office.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>A person appointed to act during a vacancy in the office of an appointed
-
-Councillor under subsection&#160;(2):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>shall not continue so to act for more than 6 months; and</dd>
-
-<dt>(b)</dt><dd>shall not be re-appointed to act during that vacancy for a period that
-
-would be continuous with the period of 6 months from the date when the person
-
-first started acting during that vacancy.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>The Minister shall not appoint a person to act in an office of appointed
-
-Councillor unless, having regard to section&#160;12, the person could be
-
-appointed to that office.</dd> <dt>(5)</dt><dd>The Minister may appoint a member of the Institute to act in the office of an elected Councillor during any period, or during all periods, when the elected Councillor is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.</dd> <dt>(6)</dt><dd>The appointment of a person to act in the office of a Councillor who is also the Chairperson or Deputy Chairperson of the Council does not constitute an appointment of the person to act as the Chairperson or Deputy Chairperson, as the case may be.</dd> <dt>(7)</dt><dd>Anything done by or in relation to a person purporting to act under an appointment made under this section is not invalid merely because: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the occasion for the appointment had not arisen;</dd>
-
-<dt>(b)</dt><dd>there was a defect or irregularity in connection with the appointment;</dd>
-
-<dt>(c)</dt><dd>the appointment had ceased to have effect; or</dd>
-
-<dt>(d)</dt><dd>the occasion to act had not arisen or had ceased.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 20  Resignation 
-**
-
- <dl compact="">
-
-		A Councillor may resign by writing signed by him or her and sent to the
-
-Minister.
-
- </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 21  Termination of membership of Council 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister may terminate a person's membership of the Council because of
-
-misbehaviour or physical or mental incapacity.</dd> <dt>(2)</dt><dd>If a member of the Council: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>is absent, except on leave granted under section&#160;17, from 3
-
-consecutive meetings of the Council; or</dd>
-
-<dt>(b)</dt><dd>fails, without reasonable excuse, to comply with section&#160;27F or 27J
-
-of the _Commonwealth Authorities and Companies Act 1997_;
-
-</dd>
-
-</dl></dl></dl>
-
-the Minister shall terminate the person's membership of the Council.
-
-<dl compact="">
-
-<dt>(3)</dt><dd>An elected Councillor ceases to be a Councillor if he or she ceases to be
-
-a member of the Institute.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 22  Other terms and conditions 
-**
-
- <dl compact="">
-
-		A Councillor holds office on such terms and conditions (if any) in respect of
-
-matters not provided for by this Act as are determined by the Minister by
-
-notice in writing published in the _Gazette_.
-
- </dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;3&#151;Operations of Council </division> 
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 23  Meetings of Council 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Council Chairperson shall convene such meetings of the Council as, in
-
-the Chairperson's opinion, are necessary for the efficient performance of the
-
-Council's responsibilities.</dd> <dt>(2)</dt><dd>The Minister may, at any time, convene a meeting of the Council.</dd> <dt>(3)</dt><dd>The Council Chairperson shall convene a meeting of the Council upon receipt of a written request for a meeting signed by at least 4 Councillors.</dd> <dt>(4)</dt><dd>At a meeting of the Council, a quorum is constituted by 5 Councillors.</dd> <dt>(5)</dt><dd>Where: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a Councillor who is present at a meeting is required by section&#160;19
-
-not to be present during the deliberations, or to take part in any decision, of
-
-the Council with respect to a particular matter; and</dd>
-
-<dt>(b)</dt><dd>when the Councillor leaves the meeting there is no longer a quorum present;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  when the Councillor leaves the meeting there is no longer a quorum present;
 
 the Councillors remaining at the meeting constitute a quorum for the purpose of any deliberation or decision at that meeting with respect to that matter.
 
-<dl compact="">
+             (6)  The Council Chairperson shall preside at all meetings of the Council at which he or she is present.
 
-<dt>(6)</dt><dd>The Council Chairperson shall preside at all meetings of the Council at
+             (7)  If the Council Chairperson is not present at a meeting of the Council:
 
-which he or she is present.</dd> <dt>(7)</dt><dd>If the Council Chairperson is not present at a meeting of the Council: </dd> </dl>
+                     (a)  if the Deputy Chairperson of the Council is present, the Deputy Chairperson of the Council shall preside at the meeting; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  in any other case, the Councillors present shall elect one of their number to preside at the meeting.
 
-<dt>(a)</dt><dd>if the Deputy Chairperson of the Council is present, the Deputy
+             (8)  Questions arising at a meeting of the Council shall be determined by a majority of the votes of the Councillors present and voting.
 
-Chairperson of the Council shall preside at the meeting; and</dd>
+             (9)  The person presiding at a meeting of the Council has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
 
-<dt>(b)</dt><dd>in any other case, the Councillors present shall elect one of their number
+           (10)  The Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall cause minutes of those proceedings to be kept.
 
-to preside at the meeting.
+## Part 6—Principal
 
-</dd>
+##### <a id="24"></a>24  Principal
 
-</dl></dl></dl>
+             (1)  There shall be a Principal of the Institute who shall be appointed by the Council.
 
-<dl compact="">
+             (2)  The Principal shall, subject to subsection (3), manage the day-to-day administration of the Institute.
 
-<dt>(8)</dt><dd>Questions arising at a meeting of the Council shall be determined by a
+             (3)  The Principal shall, in managing the administration of the Institute and in exercising any powers conferred on the Principal by this Act, act in accordance with any policies determined, and any directions given, by the Council in writing.
 
-majority of the votes of the Councillors present and voting.</dd> <dt>(9)</dt><dd>The person presiding at a meeting of the Council has a deliberative vote and, in the event of an equality of votes, also has a casting vote.</dd> <dt>(10)</dt><dd>The Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall cause minutes of those proceedings to be kept. </dd> </dl>
+##### <a id="25"></a>25  Period of appointment
 
-<center>Back to Top</center>
+             (1)  The Principal holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment.
 
-<center>**
+             (2)  A person who has attained the age of 65 years shall not be appointed as Principal and a person shall not be appointed as Principal for a period that extends beyond the day on which the person will attain the age of 65 years.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;6&#151;Principal </part>
-**</center>
+##### <a id="26"></a>26  Remuneration and allowances
 
-**
+                   The Principal is entitled to remuneration and allowances in accordance with section 45.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 24  Principal 
-**
+##### <a id="26A"></a>26A  Recreation leave
 
- <dl compact="">
+                   The Principal is entitled to recreation leave in accordance with section 45A.
 
-<dt>(1)</dt><dd>There shall be a Principal of the Institute who shall be appointed by the
+##### <a id="27"></a>27  Resignation
 
-Council.</dd> <dt>(2)</dt><dd>The Principal shall, subject to subsection&#160;(3), manage the day-to-day administration of the Institute.</dd> <dt>(3)</dt><dd>The Principal shall, in managing the administration of the Institute and in exercising any powers conferred on the Principal by this Act, act in accordance with any policies determined, and any directions given, by the Council in writing. </dd> </dl>
+                   The Principal may resign by writing signed by him or her and sent to the Council.
 
-**
+##### <a id="28"></a>28  Other terms and conditions
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 25  Period of appointment 
-**
+                   The Principal holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Council by notice in writing published in the _Gazette_.
 
- <dl compact="">
+## Part 7—Staff
 
-<dt>(1)</dt><dd>The Principal holds office for such period, not exceeding 5 years, as is
+##### <a id="29"></a>29  Staff
 
-specified in the instrument of appointment.
+             (1)  Subject to section 30, the staff required to assist the Institute in the performance of its functions shall be persons engaged under the _Public Service Act 1999_.
 
-</dd> </dl>
+             (2)  For the purposes of the _Public Service Act 1999_:
 
-**
+                     (a)  the Principal and the APS employees assisting the Principal together constitute a Statutory Agency; and
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 26  Remuneration and allowances 
-**
+                     (b)  the Principal is the Head of that Statutory Agency.
 
- <dl compact="">
+##### <a id="30"></a>30  Consultants
 
-		The Principal is entitled to remuneration and allowances in accordance with
+             (1)  The Principal may, on behalf of the Institute, engage as consultants to the Institute persons having suitable qualifications and experience.
 
-section&#160;45.
+             (2)  The terms and conditions on which consultants are engaged shall be as determined by the Council by notice published in the _Gazette_.
 
- </dl>
+## Part 8—Research Advisory Committee
 
-**
+##### <a id="31"></a>31  Research Advisory Committee
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 26A  Recreation leave 
-**
+             (1)  There shall be a Research Advisory Committee of the Institute consisting of the following members:
 
- <dl compact="">
+                     (a)  3 members of the Council appointed by the Council;
 
-		The Principal is entitled to recreation leave in accordance with
+                     (b)  8 members of the Institute elected by the members of the Institute in accordance with the Institute rules;
 
-section&#160;45A.
+                     (c)  the Principal.
 
- </dl>
+             (2)  A member who was appointed under paragraph (1)(a) ceases to be a member if he or she ceases to be a Councillor.
 
-**
+             (3)  A person elected as a member as mentioned in paragraph (1)(b) ceases to be a member of the Research Advisory Committee if he or she ceases to be a member of the Institute.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 27  Resignation 
-**
+##### <a id="32"></a>32  Functions of Research Advisory Committee
 
- <dl compact="">
+                   The Research Advisory Committee has the following functions:
 
-		The Principal may resign by writing signed by him or her and sent to the
+                     (a)  to assess applications for research grants made to the Institute and to make recommendations to the Council in relation to such applications;
 
-Council.
+                     (b)  to advise the Council in relation to research matters;
 
- </dl>
+                     (c)  to advise the Council in relation to applications for membership of the Institute.
 
-**
+##### <a id="33"></a>33  Remuneration and allowances
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 28  Other terms and conditions 
-**
+                   A member of the Research Advisory Committee is entitled to remuneration and allowances in accordance with section 45.
 
- <dl compact="">
+##### <a id="34"></a>34  Resignation
 
-		The Principal holds office on such terms and conditions (if any) in respect
+                   A member of the Research Advisory Committee may resign by writing signed by him or her and sent to the Council.
 
-of matters not provided for by this Act as are determined by the Council by
+##### <a id="35"></a>35  Other terms and conditions
 
-notice in writing published in the _Gazette_.
+                   A member of the Research Advisory Committee holds office for such period, and on such terms and conditions in respect of matters not provided for by this Act, as are determined by the Council by notice published in the _Gazette_.
 
- </dl>
+## Part 9—Finance
 
-<center>**
+##### <a id="36"></a>36  Money payable to the Institute
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;7&#151;Staff </part>
-**</center>
+             (1)  There is payable to the Institute such money as is appropriated by the Parliament for the purposes of the Institute.
 
-**
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, money so appropriated is to be paid to the Institute.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 29  Staff 
-**
+##### <a id="38"></a>38  Application of money held by Institute
 
- <dl compact="">
+             (1)  Money held by the Institute shall be applied only:
 
-<dt>(1)</dt><dd>Subject to section&#160;30, the staff required to assist the Institute in
+                     (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Institute in the performance of its functions and the exercise of its powers;
 
-the performance of its functions shall be persons engaged under the _Public Service Act 1999_.</dd> <dt>(2)</dt><dd>For the purposes of the _Public Service Act 1999_: </dd> </dl>
+                     (b)  in payment of any remuneration and allowances payable to any person under this Act or any other Act; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  in making any other payments which the Institute is authorised or required to make under this Act.
 
-<dt>(a)</dt><dd>the Principal and the APS employees assisting the Principal together
+             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-constitute a Statutory Agency; and</dd>
+##### <a id="39"></a>39  Exemption from taxation
 
-<dt>(b)</dt><dd>the Principal is the Head of that Statutory Agency.
+                   The Institute is not subject to taxation (including taxation under the _Debits Tax Act 1982_) under any law of the Commonwealth or of a State or Territory.
 
-</dd>
+## Part 10—Miscellaneous
 
-</dl></dl></dl>
+##### <a id="41"></a>41  Certain information not to be disclosed
 
-**
+             (1)  Where information or other matter has been deposited with the Institute under conditions of restricted access, the Institute or the Council shall not disclose that information or other matter except in accordance with those conditions.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 30  Consultants 
-**
+             (2)  The Institute or the Council shall not disclose information or other matter held by it (including information or other matter covered by subsection (1)) if that disclosure would be inconsistent with the views or sensitivities of relevant Aboriginal persons or Torres Strait Islanders.
 
- <dl compact="">
+##### <a id="42"></a>42  Informing Commission and TSRA about general conduct of Institute
 
-<dt>(1)</dt><dd>The Principal may, on behalf of the Institute, engage as consultants to
+             (2)  The Council may from time to time inform the Commission and the TSRA about the general conduct of the activities of the Institute.
 
-the Institute persons having suitable qualifications and experience.</dd> <dt>(2)</dt><dd>The terms and conditions on which consultants are engaged shall be as determined by the Council by notice published in the _Gazette_. </dd> </dl>
+             (3)  Where the Council receives a request from the Commission or the TSRA for information about the activities of the Institute, the Council may give to the Commission or the TSRA, as the case may be, such information relating to the activities of the Institute as the Council thinks appropriate.
 
-<center>Back to Top</center>
+##### <a id="43"></a>43  Minister or Commission may ask for advice
 
-<center>**
+             (1)  The Minister, the Commission or the TSRA may, from time to time, ask the Council to provide advice on aspects of the culture, history and society of Aboriginal persons and Torres Strait Islanders.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;8&#151;Research Advisory Committee </part>
-**</center>
+             (2)  The Council:
 
-**
+                     (a)  shall comply with a request under subsection (1) made by the Minister; and
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 31  Research Advisory Committee 
-**
+                     (b)  may comply with a request under subsection (1) made by the Commission or the TSRA.
 
- <dl compact="">
+             (3)  The Council may, in response to a request under subsection (1):
 
-<dt>(1)</dt><dd>There shall be a Research Advisory Committee of the Institute consisting
+                     (a)  prepare its advice having regard only to any relevant information that is already in the possession of the Institute; or
 
-of the following members:
+                     (b)  if the Council considers it appropriate to do so—arrange for the conduct of research into the matter to which the request relates by or on behalf of the Institute, and prepare its advice having regard to that research and to any other relevant information that is otherwise in the possession of the Institute.
 
-</dd> </dl>
+##### <a id="44"></a>44  Delegation to Principal or staff
 
-<dl compact=""><dl compact=""><dl compact="">
+                   The Institute may, by writing under its seal, delegate any or all of its functions and powers to the Principal or to a member of the staff of the Institute.
 
-<dt>(a)</dt><dd>3 members of the Council appointed by the Council;</dd>
+##### <a id="45"></a>45  Remuneration and allowances
 
-<dt>(b)</dt><dd>8 members of the Institute elected by the members of the Institute in
+             (1)  The following provisions apply in relation to the holder of an office who is, by a provision of this Act, entitled to remuneration and allowances in accordance with this section:
 
-accordance with the Institute rules;</dd>
+                     (a)  the holder of the office shall be paid such remuneration as is determined by the Remuneration Tribunal;
 
-<dt>(c)</dt><dd>the Principal.
+                     (b)  if no determination of that remuneration by the Remuneration Tribunal is in operation, the holder of the office shall be paid such remuneration as is determined, in writing, by the Minister;
 
-</dd>
+                     (c)  the holder of the office shall be paid such allowances as are determined, in writing, by the Minister.
 
-</dl></dl></dl>
+             (2)  A determination by the Minister for the purposes of paragraph (1)(b) or (c) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<dl compact="">
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-<dt>(2)</dt><dd>A member who was appointed under paragraph&#160;(1)(a) ceases to be a
+##### <a id="45A"></a>45A  Recreation leave
 
-member if he or she ceases to be a Councillor.</dd> <dt>(3)</dt><dd>A person elected as a member as mentioned in paragraph&#160;(1)(b) ceases to be a member of the Research Advisory Committee if he or she ceases to be a member of the Institute. </dd> </dl>
+                   The holder of an office who is, by a provision of this Act, entitled to recreation leave in accordance with this section is entitled to such recreation leave as is determined by the Remuneration Tribunal.
 
-**
+##### <a id="47"></a>47  Conduct of directors, servants and agents
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 32  Functions of Research Advisory Committee 
-**
+             (1)  Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
 
- <dl compact="">
+                     (a)  that the conduct was engaged in by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority; and
 
-		The Research Advisory Committee has the following functions:
+                     (b)  that the director, servant or agent had the state of mind.
 
- </dl>
+             (2)  Any conduct engaged in on behalf of a body corporate by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the body corporate unless the body corporate establishes that the body corporate took reasonable precautions and exercised due diligence to avoid the conduct.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show:
 
-<dt>(a)</dt><dd>to assess applications for research grants made to the Institute and to
+                     (a)  that the conduct was engaged in by a servant or agent of the person within the scope of his or her actual or apparent authority; and
 
-make recommendations to the Council in relation to such applications;</dd>
+                     (b)  that the servant or agent had the state of mind.
 
-<dt>(b)</dt><dd>to advise the Council in relation to research matters;</dd>
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
-<dt>(c)</dt><dd>to advise the Council in relation to applications for membership of the
+             (5)  Where:
 
-Institute.
+                     (a)  a person other than a body corporate is convicted of an offence; and
 
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 33  Remuneration and allowances 
-**
-
- <dl compact="">
-
-		A member of the Research Advisory Committee is entitled to remuneration and
-
-allowances in accordance with section&#160;45.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 34  Resignation 
-**
-
- <dl compact="">
-
-		A member of the Research Advisory Committee may resign by writing signed by
-
-him or her and sent to the Council.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 35  Other terms and conditions 
-**
-
- <dl compact="">
-
-		A member of the Research Advisory Committee holds office for such period, and
-
-on such terms and conditions in respect of matters not provided for by this
-
-Act, as are determined by the Council by notice published in the _Gazette_.
-
- </dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;9&#151;Finance </part>
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 36  Money payable to the Institute 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>There is payable to the Institute such money as is appropriated by the
-
-Parliament for the purposes of the Institute.</dd> <dt>(2)</dt><dd>The Minister for Finance may give directions as to the amounts in which, and the times at which, money so appropriated is to be paid to the Institute. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 38  Application of money held by Institute 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Money held by the Institute shall be applied only:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in payment or discharge of the costs, expenses and other obligations
-
-incurred by the Institute in the performance of its functions and the exercise
-
-of its powers;</dd>
-
-<dt>(b)</dt><dd>in payment of any remuneration and allowances payable to any person under
-
-this Act or any other Act; and</dd>
-
-<dt>(c)</dt><dd>in making any other payments which the Institute is authorised or required
-
-to make under this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subsection&#160;(1) does not prevent investment of surplus money of the
-
-Institute under section&#160;18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 39  Exemption from taxation 
-**
-
- <dl compact="">
-
-		The Institute is not subject to taxation (including taxation under the
-
-_Debits Tax Act 1982_) under any law of the Commonwealth or of a State or
-
-Territory.
-
- </dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;10&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 41  Certain information not to be disclosed 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where information or other matter has been deposited with the Institute
-
-under conditions of restricted access, the Institute or the Council shall not
-
-disclose that information or other matter except in accordance with those
-
-conditions.</dd> <dt>(2)</dt><dd>The Institute or the Council shall not disclose information or other matter held by it (including information or other matter covered by subsection&#160;(1)) if that disclosure would be inconsistent with the views or sensitivities of relevant Aboriginal persons or Torres Strait Islanders. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 42  Informing Commission and TSRA about general conduct of Institute 
-**
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Council may from time to time inform the Commission and the TSRA about
-
-the general conduct of the activities of the Institute.</dd> <dt>(3)</dt><dd>Where the Council receives a request from the Commission or the TSRA for information about the activities of the Institute, the Council may give to the Commission or the TSRA, as the case may be, such information relating to the activities of the Institute as the Council thinks appropriate. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 43  Minister or Commission may ask for advice 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister, the Commission or the TSRA may, from time to time, ask the
-
-Council to provide advice on aspects of the culture, history and society of
-
-Aboriginal persons and Torres Strait Islanders.</dd> <dt>(2)</dt><dd>The Council: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>shall comply with a request under subsection&#160;(1) made by the
-
-Minister; and</dd>
-
-<dt>(b)</dt><dd>may comply with a request under subsection&#160;(1) made by the Commission
-
-or the TSRA.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>The Council may, in response to a request under subsection&#160;(1):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>prepare its advice having regard only to any relevant information that is
-
-already in the possession of the Institute; or</dd>
-
-<dt>(b)</dt><dd>if the Council considers it appropriate to do so&#151;arrange for the conduct
-
-of research into the matter to which the request relates by or on behalf of the
-
-Institute, and prepare its advice having regard to that research and to any
-
-other relevant information that is otherwise in the possession of the Institute.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 44  Delegation to Principal or staff 
-**
-
- <dl compact="">
-
-		The Institute may, by writing under its seal, delegate any or all of its
-
-functions and powers to the Principal or to a member of the staff of the
-
-Institute.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 45  Remuneration and allowances 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The following provisions apply in relation to the holder of an office who
-
-is, by a provision of this Act, entitled to remuneration and allowances in
-
-accordance with this section:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the holder of the office shall be paid such remuneration as is determined
-
-by the Remuneration Tribunal;</dd>
-
-<dt>(b)</dt><dd>if no determination of that remuneration by the Remuneration Tribunal is
-
-in operation, the holder of the office shall be paid such remuneration as is
-
-determined, in writing, by the Minister;</dd>
-
-<dt>(c)</dt><dd>the holder of the office shall be paid such allowances as are determined,
-
-in writing, by the Minister.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A determination by the Minister for the purposes of paragraph&#160;(1)(b)
-
-or (c) is a disallowable instrument for the purposes of section&#160;46A of the
-
-_Acts Interpretation Act 1901_.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 45A  Recreation leave 
-**
-
- <dl compact="">
-
-		The holder of an office who is, by a provision of this Act, entitled to
-
-recreation leave in accordance with this section is entitled to such recreation
-
-leave as is determined by the Remuneration Tribunal.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 47  Conduct of directors, servants and agents 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where, in proceedings for an offence against this Act, it is necessary to
-
-establish the state of mind of a body corporate in relation to particular
-
-conduct, it is sufficient to show:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that the conduct was engaged in by a director, servant or agent of the
-
-body corporate within the scope of his or her actual or apparent authority;
-
-and</dd>
-
-<dt>(b)</dt><dd>that the director, servant or agent had the state of mind.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Any conduct engaged in on behalf of a body corporate by a director,
-
-servant or agent of the body corporate within the scope of his or her actual or
-
-apparent authority shall be taken, for the purposes of a prosecution for an
-
-offence against this Act, to have been engaged in also by the body corporate
-
-unless the body corporate establishes that the body corporate took reasonable
-
-precautions and exercised due diligence to avoid the conduct.</dd> <dt>(3)</dt><dd>Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that the conduct was engaged in by a servant or agent of the person within
-
-the scope of his or her actual or apparent authority; and</dd>
-
-<dt>(b)</dt><dd>that the servant or agent had the state of mind.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>Any conduct engaged in on behalf of a person other than a body corporate
-
-by a servant or agent of the person within the scope of his or her actual or
-
-apparent authority shall be taken, for the purposes of a prosecution for an
-
-offence against this Act, to have been engaged in also by the first-mentioned
-
-person unless the first-mentioned person establishes that the first-mentioned
-
-person took reasonable precautions and exercised due diligence to avoid the
-
-conduct.</dd> <dt>(5)</dt><dd>Where: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person other than a body corporate is convicted of an offence; and</dd>
-
-<dt>(b)</dt><dd>the person would not have been convicted of the offence if
-
-subsections&#160;(3) and (4) had not been enacted;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the person would not have been convicted of the offence if subsections (3) and (4) had not been enacted;
 
 the person is not liable to be punished by imprisonment for that offence.
 
-<dl compact="">
+             (6)  A reference in subsection (1) or (3) to the state of mind of a person includes a reference to:
 
-<dt>(6)</dt><dd>A reference in subsection&#160;(1) or (3) to the state of mind of a person
+                     (a)  the knowledge, intention, opinion, belief or purpose of the person; and
 
-includes a reference to:
+                     (b)  the person’s reasons for the intention, opinion, belief or purpose.
 
-</dd> </dl>
+             (7)  A reference in this section to a director of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (8)  A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
 
-<dt>(a)</dt><dd>the knowledge, intention, opinion, belief or purpose of the person; and</dd>
+             (9)  A reference in this section to an offence against this Act includes a reference to:
 
-<dt>(b)</dt><dd>the person's reasons for the intention, opinion, belief or purpose.
+                     (a)  an offence created by the regulations; and
 
-</dd>
+                     (b)  an offence created by:
 
-</dl></dl></dl>
+                              (i)  section 6 of the _Crimes Act 1914_; or
 
-<dl compact="">
+                             (ii)  section 11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_; or
 
-<dt>(7)</dt><dd>A reference in this section to a director of a body corporate includes a
+                            (iii)  section 134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the _Criminal Code_;
 
-reference to a constituent member of a body corporate incorporated for a public
+                            being an offence that relates to this Act or the regulations.
 
-purpose by a law of the Commonwealth, of a State or of a Territory.</dd> <dt>(8)</dt><dd>A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.</dd> <dt>(9)</dt><dd>A reference in this section to an offence against this Act includes a reference to: </dd> </dl>
+           (10)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+Note:          Part 2.5 of the _Criminal Code_ deals with corporate criminal responsibility.
 
-<dt>(a)</dt><dd>an offence created by the regulations; and</dd>
+##### <a id="48"></a>48  Rules
 
-<dt>(b)</dt><dd>an offence created by:
+             (1)  The Council may make rules, not inconsistent with this Act or the regulations, prescribing matters:
 
-</dd>
+                     (a)  required or permitted by this Act to be prescribed by the Institute rules; or
 
-</dl></dl></dl>
+                     (b)  necessary or convenient to be prescribed by the Institute rules in connection with the conduct of the affairs of the Institute.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (2)  Rules made under this section are not statutory rules within the meaning of the _Statutory Rules Publication Act 1903_.
 
-<dt>(i)</dt><dd>section&#160;6 of the _Crimes Act 1914_; or</dd>
+##### <a id="49"></a>49  Regulations
 
-<dt>(ii)</dt><dd>section&#160;11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_; or</dd>
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
-<dt>(iii)</dt><dd>section&#160;134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the
+                     (a)  required or permitted by this Act to be prescribed; or
 
-_Criminal Code_;
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-</dd>
+             (2)  Without limiting the generality of subsection (1), the regulations may:
 
-</dl></dl></dl></dl>
+                     (a)  prescribe fees payable in respect of any matter under this Act; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  provide penalties for breaches of the regulations not exceeding:
 
-		being an offence that relates to this Act or the regulations.
+                              (i)  in the case of a natural person—$1,000; or
 
-</dl></dl></dl>
+                             (ii)  in the case of a body corporate—$5,000.
 
-<dl compact="">
+## Part 11—Consequential and transitional provisions
 
-<dt>(10)</dt><dd>Part&#160;2.5 of the _Criminal Code_ does not apply to an offence
+### Division 1—Preliminary
 
-against this Act.
+##### <a id="50"></a>50  Interpretation
 
-</dd> </dl>
+                   In this Part, unless the contrary intention appears:
 
-<dl compact=""><dl compact="">
+                    <a name="asset"></a>**_assets_** means property of every kind, and, without limiting the generality of the foregoing, includes:
 
-Note:	Part&#160;2.5 of the _Criminal Code_ deals with
+                     (a)  choses in action; and
 
-corporate criminal responsibility.
+                     (b)  rights, interests and claims of every kind in or to property, whether arising under or by virtue of an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing.
 
- </dl></dl>
+                    <a name="authorised-offic"></a>**_authorised officer_** means the Minister, the Principal or a member of the staff of the new Institute authorised by the Minister in writing for the purposes of this Part.
 
-**
+                    <a name="commenc"></a>**_commencement_** means the commencement of this Act.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 48  Rules 
-**
+                    <a name="liabil"></a>**_liabilities_** means liabilities of every kind, and, without limiting the generality of the foregoing, includes obligations of every kind, whether arising under or by virtue of an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing.
 
- <dl compact="">
+                    <a name="new-institut"></a>**_new Institute_** means the Australian Institute of Aboriginal and Torres Strait Islander Studies.
 
-<dt>(1)</dt><dd>The Council may make rules, not inconsistent with this Act or the
+                    <a name="old-institut"></a>**_old Institute_** means the Australian Institute of Aboriginal Studies.
 
-regulations, prescribing matters:
+                    <a name="old-institut-instrum"></a>**_old Institute instrument_** means an instrument:
 
-</dd> </dl>
+                     (a)  to which the old Institute was a party;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  that was given to or in favour of the old Institute;
 
-<dt>(a)</dt><dd>required or permitted by this Act to be prescribed by the Institute rules;
+                     (c)  in which a reference is made to the old Institute; or
 
-or</dd>
-
-<dt>(b)</dt><dd>necessary or convenient to be prescribed by the Institute rules in
-
-connection with the conduct of the affairs of the Institute.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Rules made under this section are not statutory rules within the meaning
-
-of the _Statutory Rules Publication Act 1903_.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 49  Regulations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing all matters:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
-
-<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
-
-to this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Without limiting the generality of subsection&#160;(1), the regulations
-
-may:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>prescribe fees payable in respect of any matter under this Act; and</dd>
-
-<dt>(b)</dt><dd>provide penalties for breaches of the regulations not exceeding:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in the case of a natural person&#151;$1,000; or</dd>
-
-<dt>(ii)</dt><dd>in the case of a body corporate&#151;$5,000.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<part>Part&#160;11&#151;Consequential and transitional provisions </part>
-**</center>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;1&#151;Preliminary </division> 
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 50  Interpretation 
-**
-
- <dl compact="">
-
-		In this Part, unless the contrary intention appears:
-
- </dl>
-
-<def><dl compact=""><dl compact="">
-
-_assets_ means property of every kind, and, without limiting the
-
-generality of the foregoing, includes:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>choses in action; and</dd>
-
-<dt>(b)</dt><dd>rights, interests and claims of every kind in or to property, whether
-
-arising under or by virtue of an instrument or otherwise, and whether
-
-liquidated or unliquidated, certain or contingent, accrued or accruing.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_authorised officer_ means the Minister, the Principal or a member
-
-of the staff of the new Institute authorised by the Minister in writing for the
-
-purposes of this Part. _commencement_ means the commencement of this Act. _liabilities_ means liabilities of every kind, and, without limiting the generality of the foregoing, includes obligations of every kind, whether arising under or by virtue of an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing. _new Institute_ means the Australian Institute of Aboriginal and Torres Strait Islander Studies. _old Institute_ means the Australian Institute of Aboriginal Studies. _old Institute instrument_ means an instrument:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to which the old Institute was a party;</dd>
-
-<dt>(b)</dt><dd>that was given to or in favour of the old Institute;</dd>
-
-<dt>(c)</dt><dd>in which a reference is made to the old Institute; or</dd>
-
-<dt>(d)</dt><dd>under which money is, or may become, payable, or any other property is to
-
-be, or may become liable to be, transferred, to or by the old Institute;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  under which money is, or may become, payable, or any other property is to be, or may become liable to be, transferred, to or by the old Institute;
 
 being an instrument subsisting immediately before the commencement.
 
-<center>**
+### Division 2—Repeal
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;2&#151;Repeal </division> 
-**</center>
+##### <a id="51"></a>51  Repeal
 
-**
+                   The _Australian Institute of Aboriginal Studies Act 1964_ is repealed.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 51  Repeal 
-**
+### Division 3—Transitional provisions
 
- <dl compact="">
+##### <a id="52"></a>52  Interim Council
 
-		The _Australian Institute of Aboriginal Studies Act 1964_ is repealed.
+             (1)  This section applies in spite of anything in Part 5.
 
- </dl>
+             (2)  The persons who, immediately before the commencement, were members of the Council of the old Institute hold office as members of the Council of the new Institute during the transitional period.
 
-<center>**
+             (3)  Appointments of persons to the Council made under paragraphs 12(1)(b) and (c) during the transitional period take effect at the end of the transitional period.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;3&#151;Transitional provisions </division> 
-**</center>
+             (4)  If, immediately after the transitional period, not all positions on the Council have been filled, then, until persons have been appointed to all positions on the Council, the quorum at a meeting of the Council is constituted by a majority of the number of members of the Council holding office on the day of the meeting.
 
-**
+             (5)  In this section:
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 52  Interim Council 
-**
+                    <a name="transition-period"></a>**_transitional period_** means the period starting at the commencement and ending:
 
- <dl compact="">
+                     (a)  3 months later; or
 
-<dt>(1)</dt><dd>This section applies in spite of anything in Part&#160;5.</dd> <dt>(2)</dt><dd>The persons who, immediately before the commencement, were members of the Council of the old Institute hold office as members of the Council of the new Institute during the transitional period.</dd> <dt>(3)</dt><dd>Appointments of persons to the Council made under paragraphs 12(1)(b) and <dt>(c)</dt><dd>during the transitional period take effect at the end of the transitional period.</dd>
+                     (b)  when the results of the first elections held under paragraph 12(1)(a) are declared;
 
- <dt>(4)</dt><dd>If, immediately after the transitional period, not all positions on the Council have been filled, then, until persons have been appointed to all positions on the Council, the quorum at a meeting of the Council is constituted by a majority of the number of members of the Council holding office on the day of the meeting.</dd>
+whichever is earlier.
 
- <dt>(5)</dt><dd>In this section: </dd>
+##### <a id="53"></a>53  First Principal of the Institute
 
-</dd></dl>
+                   The following provisions apply in relation to the first Principal of the Institute in spite of anything to the contrary in Part 6:
 
-<center>Back to Top</center>
+                     (a)  the first Principal shall be the person who, immediately before the commencement, held the office of Principal of the Australian Institute of Aboriginal Studies;
 
-<def><dl compact=""><dl compact="">
+                     (b)  that person commences to hold the office of Principal at the commencement as if he or she had been appointed to that office by the Council for a period (in this section called the **_notional appointment period_**) equal to so much of the person’s term as Principal of the Australian Institute of Aboriginal Studies as remained unexpired immediately before the commencement;
 
-_transitional period_ means the period starting at the commencement
+                     (c)  that person is, as holder of the office of Principal during the notional appointment period, entitled to remuneration and allowances in accordance with section 45;
 
-and ending:
+                     (d)  except as provided by paragraph (c), the terms and conditions applicable to that person as holder of the office of Principal during the notional appointment period are the same as the terms and conditions that were applicable to the person as holder of the office of Principal of the Australian Institute of Aboriginal Studies immediately before the commencement.
 
- </dl></dl>
+##### <a id="54"></a>54  Transfer of assets and liabilities of old Institute
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  At the commencement, the assets and liabilities of the old Institute become assets and liabilities of the new Institute.
 
-<dt>(a)</dt><dd>3 months later; or</dd>
+             (2)  The following provisions apply to assets and liabilities that have become assets and liabilities of the new Institute because of subsection (1):
 
-<dt>(b)</dt><dd>when the results of the first elections held under paragraph 12(1)(a) are
+                     (a)  an asset that was, immediately before the commencement, held by the old Institute on trust shall, after the commencement, be held by the new Institute on trust and subject to the terms of the trust on which the asset was so held by the old Institute;
 
-declared;
+                     (b)  liabilities of the old Institute to make payments shall, after the commencement, be taken to be liabilities incurred by the new Institute in the performance of its functions and the exercise of its powers.
 
-</dd>
+##### <a id="55"></a>55  Old Institute instruments
 
-</dl></dl></dl>
+                   An old Institute instrument continues to have effect after the commencement but, in its operation in relation to acts, transactions, matters or things done, entered into or occurring after the commencement, has effect as if a reference in the instrument to the old Institute were a reference to the new Institute.
 
-whichever is earlier. 
+##### <a id="56"></a>56  Pending proceedings
 
-**
+                   Where, immediately before the commencement, proceedings to which the old Institute was a party were pending in any court, the new Institute is, after the commencement, substituted for the old Institute as a party to the proceedings and has the same rights in the proceedings as the old Institute had.
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 53  First Principal of the Institute 
-**
+##### <a id="57"></a>57  Research Advisory Committee
 
- <dl compact="">
+             (1)  A member of the Research Advisory Committee appointed under paragraph 31(1)(a) during the transitional period ceases to hold office as a member of the Research Advisory Committee at the end of the transitional period.
 
-		The following provisions apply in relation to the first Principal of the
+             (2)  Until persons have been appointed or elected to all the positions on the Research Advisory Committee covered by paragraphs 31(1)(a) and (b), the quorum at a meeting of the Research Advisory Committee is constituted by a majority of the number of members of the Research Advisory Committee holding office on the day of the meeting.
 
-Institute in spite of anything to the contrary in Part&#160;6:
+             (3)  In this section:
 
- </dl>
+                    <a name="transition-period"></a>**_transitional period_** has the same meaning as it has in section 52.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="59"></a>59  Certificates with respect to assets, liabilities and instruments
 
-<dt>(a)</dt><dd>the first Principal shall be the person who, immediately before the
+             (1)  An authorised officer may, by writing, certify that:
 
-commencement, held the office of Principal of the Australian Institute of
+                     (a)  an asset or liability specified or described in the certificate became, because of section 54, an asset or liability of the new Institute; or
 
-Aboriginal Studies;</dd>
+                     (b)  an instrument specified or described in the certificate is an old Institute instrument.
 
-<dt>(b)</dt><dd>that person commences to hold the office of Principal at the commencement
+             (2)  A certificate under subsection (1) is, in all courts and for all purposes, evidence of the matter stated in the certificate.
 
-as if he or she had been appointed to that office by the Council for a period
+             (3)  Where a document purports to be a certificate under subsection (1) signed by a person purporting to be an authorised officer, judicial notice shall be taken of the signature of the person and of the fact that the person is or was an authorised officer.
 
-(in this section called the _notional appointment period_) equal to
+##### <a id="60"></a>60  State or Territory officer may act on certificate
 
-so much of the person's term as Principal of the Australian Institute of
+                   Where:
 
-Aboriginal Studies as remained unexpired immediately before the commencement;</dd>
+                     (a)  under section 54, an estate or interest in land becomes an asset of the new Institute; and
 
-<dt>(c)</dt><dd>that person is, as holder of the office of Principal during the notional
+                     (b)  a certificate that:
 
-appointment period, entitled to remuneration and allowances in accordance with
+                              (i)  identifies the land and the estate or interest;
 
-section&#160;45;</dd>
+                             (ii)  states that the estate or interest has, because of that section, become an asset of the new Institute; and
 
-<dt>(d)</dt><dd>except as provided by paragraph&#160;(c), the terms and conditions
+                            (iii)  is signed by an officer of the Attorney-General’s Department authorised by the Secretary to that Department to give such certificates;
 
-applicable to that person as holder of the office of Principal during the
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
-notional appointment period are the same as the terms and conditions that were
+the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the new Institute duly executed under the laws in force in that State or Territory.
 
-applicable to the person as holder of the office of Principal of the Australian
+##### <a id="61"></a>61  Transfer of appropriated money
 
-Institute of Aboriginal Studies immediately before the commencement.
+             (1)  The following provisions have effect for the purposes of the operation of an Appropriation Act after the commencement:
 
-</dd>
+                     (a)  references in the Act to the old Institute shall be read as references to the new Institute;
 
-</dl></dl></dl>
+                     (b)  references in the Act to the _Australian Institute of Aboriginal Studies Act 1964_ shall be read as references to this Act.
 
-**
+             (2)  In this section:
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 54  Transfer of assets and liabilities of old Institute 
-**
+                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for expenditure in respect of a financial year and includes an Act appropriating money, by way of interim provision, for such expenditure.
 
- <dl compact="">
+##### <a id="62"></a>62  Contracts of employment not preserved
 
-<dt>(1)</dt><dd>At the commencement, the assets and liabilities of the old Institute
+                   Nothing in this Part preserves a contract of employment entered into by the old Institute.
 
-become assets and liabilities of the new Institute.</dd> <dt>(2)</dt><dd>The following provisions apply to assets and liabilities that have become assets and liabilities of the new Institute because of subsection&#160;(1): </dd> </dl>
+##### <a id="63"></a>63  Transfer of staff to Australian Public Service
 
-<dl compact=""><dl compact=""><dl compact="">
+                   Section 81B of the _Public Service Act 1922_ has effect in relation to any person who, immediately before the commencement:
 
-<dt>(a)</dt><dd>an asset that was, immediately before the commencement, held by the old
+                     (a)  was employed by the old Institute; and
 
-Institute on trust shall, after the commencement, be held by the new Institute
+                     (b)  was an unattached officer for the purposes of the _Public Service Act 1922_;
 
-on trust and subject to the terms of the trust on which the asset was so held
+as if the person had ceased to be an officer of the Australian Public Service immediately before the commencement.
 
-by the old Institute;</dd>
+##### <a id="64"></a>64  Operation of Superannuation Benefit (Interim Arrangement) Act
 
-<dt>(b)</dt><dd>liabilities of the old Institute to make payments shall, after the
+             (1)  The Superannuation Act and any related law apply in relation to any person who:
 
-commencement, be taken to be liabilities incurred by the new Institute in the
+                     (a)  before the commencement, was employed by the old Institute; and
 
-performance of its functions and the exercise of its powers.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 55  Old Institute instruments 
-**
-
- <dl compact="">
-
-		An old Institute instrument continues to have effect after the commencement
-
-but, in its operation in relation to acts, transactions, matters or things
-
-done, entered into or occurring after the commencement, has effect as if a
-
-reference in the instrument to the old Institute were a reference to the new
-
-Institute.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 56  Pending proceedings 
-**
-
- <dl compact="">
-
-		Where, immediately before the commencement, proceedings to which the old
-
-Institute was a party were pending in any court, the new Institute is, after
-
-the commencement, substituted for the old Institute as a party to the
-
-proceedings and has the same rights in the proceedings as the old Institute had.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 57  Research Advisory Committee 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A member of the Research Advisory Committee appointed under paragraph
-
-31(1)(a) during the transitional period ceases to hold office as a member of
-
-the Research Advisory Committee at the end of the transitional period.</dd> <dt>(2)</dt><dd>Until persons have been appointed or elected to all the positions on the Research Advisory Committee covered by paragraphs 31(1)(a) and (b), the quorum at a meeting of the Research Advisory Committee is constituted by a majority of the number of members of the Research Advisory Committee holding office on the day of the meeting.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
-
-<center>Back to Top</center>
-
-<def><dl compact=""><dl compact="">
-
-_transitional period_ has the same meaning as it has in
-
-section&#160;52.
-
- </dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 59  Certificates with respect to assets, liabilities and instruments 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>An authorised officer may, by writing, certify that:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an asset or liability specified or described in the certificate became,
-
-because of section&#160;54, an asset or liability of the new Institute; or</dd>
-
-<dt>(b)</dt><dd>an instrument specified or described in the certificate is an old
-
-Institute instrument.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A certificate under subsection&#160;(1) is, in all courts and for all
-
-purposes, evidence of the matter stated in the certificate.</dd> <dt>(3)</dt><dd>Where a document purports to be a certificate under subsection&#160;(1) signed by a person purporting to be an authorised officer, judicial notice shall be taken of the signature of the person and of the fact that the person is or was an authorised officer. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 60  State or Territory officer may act on certificate 
-**
-
- <dl compact="">
-
-		Where:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>under section&#160;54, an estate or interest in land becomes an asset of
-
-the new Institute; and</dd>
-
-<dt>(b)</dt><dd>a certificate that:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>identifies the land and the estate or interest;</dd>
-
-<dt>(ii)</dt><dd>states that the estate or interest has, because of that section, become
-
-an asset of the new Institute; and</dd>
-
-<dt>(iii)</dt><dd>is signed by an officer of the Attorney-General's Department authorised
-
-by the Secretary to that Department to give such certificates;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		is lodged with the Registrar-General, Registrar of Titles or other proper
-
-officer of the State or Territory in which the land is situated;
-
-</dl></dl></dl>
-
-the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the new Institute duly executed under the laws in force in that State or Territory. 
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 61  Transfer of appropriated money 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The following provisions have effect for the purposes of the operation of
-
-an Appropriation Act after the commencement:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>references in the Act to the old Institute shall be read as references to
-
-the new Institute;</dd>
-
-<dt>(b)</dt><dd>references in the Act to the _Australian Institute of Aboriginal Studies Act 1964_ shall be read as references to this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In this section:
-
-</dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_Appropriation Act_ means an Act appropriating money for
-
-expenditure in respect of a financial year and includes an Act appropriating
-
-money, by way of interim provision, for such expenditure.
-
- </dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 62  Contracts of employment not preserved 
-**
-
- <dl compact="">
-
-		Nothing in this Part preserves a contract of employment entered into by the
-
-old Institute.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 63  Transfer of staff to Australian Public Service 
-**
-
- <dl compact="">
-
-		Section&#160;81B of the _Public Service Act 1922_ has effect in relation
-
-to any person who, immediately before the commencement:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>was employed by the old Institute; and</dd>
-
-<dt>(b)</dt><dd>was an unattached officer for the purposes of the _Public Service Act 1922_;
-
-</dd>
-
-</dl></dl></dl>
-
-as if the person had ceased to be an officer of the Australian Public Service immediately before the commencement. 
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 64  Operation of Superannuation Benefit (Interim Arrangement) Act 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>The Superannuation Act and any related law apply in relation to any person
-
-who:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before the commencement, was employed by the old Institute; and</dd>
-
-<dt>(b)</dt><dd>after the commencement, is employed under the _Public Service Act 1922_ in the new Institute;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  after the commencement, is employed under the _Public Service Act 1922_ in the new Institute;
 
 as if:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the person’s employer was in each case the same body; and
 
-<dt>(c)</dt><dd>the person's employer was in each case the same body; and</dd>
+                     (d)  the continuity of the person’s employment was not affected by the abolition of the old Institute and the establishment of the new Institute.
 
-<dt>(d)</dt><dd>the continuity of the person's employment was not affected by the
+             (2)  In this section:
 
-abolition of the old Institute and the establishment of the new Institute.
+                    <a name="relat-law"></a>**_related law_** means any law of the Commonwealth, to the extent that it relates to the superannuation benefits covered by the Superannuation Act.
 
-</dd>
+                    <a name="superannu-act"></a>**_Superannuation Act_** means the _Superannuation Benefit (Interim Arrangement) Act 1988_.
 
-</dl></dl></dl>
+##### <a id="65"></a>65  Exemption from taxation
 
-<dl compact="">
+                   An instrument is not subject to stamp duty or any other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing, that the instrument was made or given because of, or for a purpose connected with, this Division.
 
-<dt>(2)</dt><dd>In this section:
+### Division 4—Consequential amendments of other Acts
 
-</dd> </dl>
+##### Sections <a id="66"></a>66 and 67  
 
-<def><dl compact=""><dl compact="">
+* * *
 
-_related law_ means any law of the Commonwealth, to the extent that
+**Note:**
 
-it relates to the superannuation benefits covered by the Superannuation Act. _Superannuation Act_ means the _Superannuation Benefit (Interim Arrangement) Act 1988_.  </dl></dl>
+The amendments made by sections 66 and 67 are incorporated in the compilations on SCALEplus of the _Remuneration Tribunal Act 1973_ and the _Sales Tax (Exemptions and Classifications) Act 1992_.
 
-**
+For access to the wording of the amendments made by this Division, click here [_Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ No. 149, 1989].
 
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT 65  Exemption from taxation 
-**
+* * *
 
- <dl compact="">
+# Notes to the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_
 
-		An instrument is not subject to stamp duty or any other tax under a law of
+### Note 1
 
-the Commonwealth or of a State or Territory if an authorised officer certifies,
+The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
 
-in writing, that the instrument was made or given because of, or for a purpose
+All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
-connected with, this Division.
+### Table of Acts
 
- </dl>
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="21%">
+  <col width="15%">
+</colgroup>
 
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<division>Division&#160;4&#151;Consequential amendments of other Acts </division> 
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989- SECT  66 and 67 
-**
-
- <dl compact="">
-
- </dl>
-
-Note:
- The amendments made by sections&#160;66 and 67 are incorporated in the compilations on SCALEplus of the _Remuneration Tribunal Act 1973_ and the _Sales Tax (Exemptions and Classifications) Act 1992_.
- For access to the wording of the amendments made by this Division, click here. 
-
-<center>Back to Top</center>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF ABORIGINAL AND TORRES STRAIT ISLANDER STUDIES ACT 1989<centreit>Notes to the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as shown in this compilation comprises Act No.&#160;149, 1989 amended as indicated in the Tables below.
- All relevant information pertaining to application, saving or transitional provisions prior to 24&#160;November 2000 is not included in this compilation. For subsequent information _see_ Table A.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989</i></div>
-
+<tr>
+  <td>
+    <div>Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>149, 1989</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>27 Nov 1989</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>5 Mar 1990 ( <i>see</i>s. 2 and <i>Gazette</i>1990, No. S48)</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Industrial Relations Legislation Amendment Act 1991</i></div>
-
+<tr>
+  <td>
+    <div>Industrial Relations Legislation Amendment Act 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>122, 1991</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>27&#160;June 1991</div>
-
+  <td>
+    <div>27 June 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
 Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 31(2)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Aboriginal and Torres Strait Islander Commission Amendment Act (No.&#160;3) 1993</i></div>
-
+<tr>
+  <td>
+    <div>Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1, 1994</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>14 Jan 1994</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>S. 80: 1&#160;July 1994 <i>(a)</i></div>
-
+  <td>
+    <div>S. 80: 1 July 1994 <i>(a)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
-
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>152, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Oct 1997</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;2 (items&#160;316-323: 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
-
+  <td>
+    <div>Schedule 2 (items 316-323: 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>146, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (items&#160;192-194): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 192-194): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Corporate Law Economic Reform Program Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>156, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;10 (item&#160;34): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(d)</i></div>
-
+  <td>
+    <div>Schedule 10 (item 34): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(d)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</i></div>
-
+<tr>
+  <td>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>137, 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Nov 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
-Remainder: 24&#160;May 2001</div>
-
+Remainder: 24 May 2001</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Sch. 2 (items&#160;418, 419) \[ <i>see</i>Table A]</div>
-
+  <td>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
-
+<tr>
+  <td>
+    <div>Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>112, 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>17 Sept 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>15 Oct 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>159, 2001</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Oct 2001</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>29 Oct 2001</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-
   </td>
 </tr></table>
 
-<center>Back to Top</center>
+ 
 
-_(a)_	The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by section&#160;80 only of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_, paragraph 2(3)(b) of which provides as follows:
+_(a)_     The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by section 80 only of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_, paragraph 2(3)(b) of which provides as follows:
 
-	(3)	The following provisions commence on 1&#160;July 1994:
+                 (3)   The following provisions commence on 1 July 1994:
 
-	(b)	Part&#160;28 (other than Subdivision A of Division&#160;2) and Schedules&#160;2 and 3.
+                              (b)   Part 28 (other than Subdivision A of Division 2) and Schedules 2 and 3.
 
-_(b)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by Schedule&#160;2 (items&#160;316-323) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(b)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by Schedule 2 (items 316-323) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-	(2)	Schedules&#160;1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(c)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by Schedule&#160;2 (items&#160;192-194) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(c)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by Schedule 2 (items 192-194) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
- 	(2)	Subject to this section, this Act commences at the commencing time.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-_(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by Schedule&#160;10 (item&#160;34) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
+_(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by Schedule 10 (item 34) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
-	(c)	the items in Schedules&#160;10, 11 and 12.
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-**Table of Amendments**
+                              (c)   the items in Schedules 10, 11 and 12.
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<tr>
+  <td colspan="2">
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;1, 1994</div>
-
+  <td>
+    <div>am. No. 1, 1994</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 112, 2001</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Note to s. 4(2)</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;152, 1997</div>
-
+  <td>
+    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 19</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;152, 1997</div>
-
+  <td>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;152, 1997; No.&#160;156, 1999</div>
-
+  <td>
+    <div>am. No. 152, 1997; No. 156, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 25</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 159, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 26A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;122, 1991</div>
-
+  <td>
+    <div>ad. No. 122, 1991</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 29</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;146, 1999</div>
-
+  <td>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 37</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;152, 1997</div>
-
+  <td>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 38</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;152, 1997</div>
-
+  <td>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 40</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;152, 1997</div>
-
+  <td>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to s. 42</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;152, 1997</div>
-
+  <td>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 42</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;1, 1994; No.&#160;152, 1997</div>
-
+  <td>
+    <div>am. No. 1, 1994; No. 152, 1997</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 43</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;1, 1994</div>
-
+  <td>
+    <div>am. No. 1, 1994</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 45A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;122, 1991</div>
-
+  <td>
+    <div>ad. No. 122, 1991</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;146, 1999</div>
-
+  <td>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 46</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;137, 2000</div>
-
+  <td>
+    <div>rep. No. 137, 2000</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 47</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;137, 2000; No. 112, 2001</div>
-
+  <td>
+    <div>am. No. 137, 2000; No. 112, 2001</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 58</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;152, 1997</div>
-
+  <td>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr></table>
 
-**Table A**
+ 
 
-**Application, saving or transitional provisions**
+Table A
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ (No.&#160;137, 2000)
+### Application, saving or transitional provisions
 
-**Schedule&#160;2** **418  Transitional&#151;pre-commencement offences** (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
-<dl compact=""><dl compact=""><dl compact="">
+## Schedule 2
 
-<dt>(a)</dt><dd>an offence committed before the commencement of this item; or</dd>
+## 418  Transitional—pre-commencement offences
 
-<dt>(b)</dt><dd>proceedings for an offence alleged to have been committed before the
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
-commencement of this item; or</dd>
+                     (a)  an offence committed before the commencement of this item; or
 
-<dt>(c)</dt><dd>any matter connected with, or arising out of, such proceedings;
+                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
 
-</dd>
-
-</dl></dl></dl>
+                     (c)  any matter connected with, or arising out of, such proceedings;
 
 as if the amendment or repeal had not been made.
 
-(2)	Subitem&#160;(1) does not limit the operation of section&#160;8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-**419  Transitional&#151;pre-commencement notices**
+## 419  Transitional—pre-commencement notices
 
 If:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
 
-<dt>(a)</dt><dd>a provision in force immediately before the commencement of this item
+                     (b)  any or all of those other provisions are repealed by this Schedule; and
 
-required that a notice set out the effect of one or more other provisions;
-
-and</dd>
-
-<dt>(b)</dt><dd>any or all of those other provisions are repealed by this Schedule; and</dd>
-
-<dt>(c)</dt><dd>the first-mentioned provision is amended by this Schedule;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001_&#160;(No.&#160;112, 2001) 
+* * *
 
-**4  Application of amendments**
+_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)_
 
-<dl compact="">
+##### <a id="4"></a>4  Application of amendments
 
-<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
-place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001_(No.&#160;159, 2001)
-
-**Schedule 1** **97  Application of amendments** The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-</def>
-
-</def></def>
-
-</def>
-
-</def></def>
-
-
+ 
