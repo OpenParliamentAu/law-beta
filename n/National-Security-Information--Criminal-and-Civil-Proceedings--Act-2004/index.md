@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00375/Html/3ff385a0-9298-4241-9bd3-d3129b92b16c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00851/Html/NatSecInfoCrimCivilProc2004WD02_image001.gif)
 
 # National Security Information (Criminal and Civil Proceedings) Act 2004
 
 **Act No. 150 of 2004 as amended**
 
-This compilation was prepared on 24 May 2011
+This compilation was prepared on 22 December 2010
  taking into account amendments up to Act No. 127 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -76,9 +76,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Protection of information whose disclosure in federal criminal proceedings is likely to prejudice etc. national security** 
 
-    **Division 1A—Attorney‑General etc. may attend and be heard at federal criminal proceedings**
+    **Division 1A—Attorney-General etc. may attend and be heard at federal criminal proceedings**
 
-[20A](#20A).       Attorney‑General etc  may attend and be heard at federal criminal proceedings
+[20A](#20A).       Attorney-General etc  may attend and be heard at federal criminal proceedings
 
     **Division 1B—Court to consider hearing in camera etc.**
 
@@ -92,25 +92,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23](#23).          Protection of national security information disclosed in a federal criminal proceeding
 
-    **Division 2—Attorney‑General’s certificates for protection of information in federal criminal proceedings** 
+    **Division 2—Attorney-General’s certificates for protection of information in federal criminal proceedings** 
 
-        **Subdivision A—Notifying Attorney‑General etc. of expected disclosure in federal criminal proceedings**
+        **Subdivision A—Notifying Attorney-General etc. of expected disclosure in federal criminal proceedings**
 
 [24](#24).          Notification of expected disclosure of national security information
 
-        **Subdivision B—Notifying Attorney‑General etc. where disclosure expected by witness answering question in federal criminal proceedings**
+        **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in federal criminal proceedings**
 
 [25](#25).          Preventing witnesses from disclosing information in federal criminal proceedings by not allowing them to answer questions
 
-        **Subdivision C—Attorney‑General’s federal criminal proceedings certificates**
+        **Subdivision C—Attorney-General’s federal criminal proceedings certificates**
 
-[26](#26).          Attorney‑General’s criminal non‑disclosure certificate
+[26](#26).          Attorney-General’s criminal non-disclosure certificate
 
-[27](#27).          Consequences of Attorney‑General giving criminal non‑disclosure certificate
+[27](#27).          Consequences of Attorney-General giving criminal non-disclosure certificate
 
-[28](#28).          Attorney‑General’s criminal witness exclusion certificate
+[28](#28).          Attorney-General’s criminal witness exclusion certificate
 
-    **Division 3—Closed hearings and non‑disclosure or witness exclusion orders in federal criminal proceedings**
+    **Division 3—Closed hearings and non-disclosure or witness exclusion orders in federal criminal proceedings**
 
 [29](#29).          Closed hearing requirements in federal criminal proceedings
 
@@ -138,9 +138,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3A—Protection of information whose disclosure in civil proceedings is likely to prejudice etc. national security** 
 
-    **Division 1A—Attorney‑General etc. may attend and be heard at civil proceedings**
+    **Division 1A—Attorney-General etc. may attend and be heard at civil proceedings**
 
-[38AA](#38AA).    Attorney‑General etc  may attend and be heard at civil proceedings
+[38AA](#38AA).    Attorney-General etc  may attend and be heard at civil proceedings
 
     **Division 1B—Court to consider hearing in camera etc.**
 
@@ -154,25 +154,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38C](#38C).       Protection of national security information disclosed in a civil proceeding
 
-    **Division 2—Attorney‑General’s certificates for protection of information in civil proceedings** 
+    **Division 2—Attorney-General’s certificates for protection of information in civil proceedings** 
 
-        **Subdivision A—Notifying Attorney‑General etc. of expected disclosure in civil proceedings**
+        **Subdivision A—Notifying Attorney-General etc. of expected disclosure in civil proceedings**
 
 [38D](#38D).       Notification of expected disclosure of national security information
 
-        **Subdivision B—Notifying Attorney‑General etc. where disclosure expected by witness answering question in civil proceedings**
+        **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in civil proceedings**
 
 [38E](#38E).        Preventing witnesses from disclosing information in civil proceedings by not allowing them to answer questions
 
-        **Subdivision C—Attorney‑General’s civil proceedings certificates**
+        **Subdivision C—Attorney-General’s civil proceedings certificates**
 
-[38F](#38F).        Attorney‑General’s civil non‑disclosure certificate
+[38F](#38F).        Attorney-General’s civil non-disclosure certificate
 
-[38G](#38G).       Consequences of Attorney‑General giving civil non‑disclosure certificate
+[38G](#38G).       Consequences of Attorney-General giving civil non-disclosure certificate
 
-[38H](#38H).       Attorney‑General’s civil witness exclusion certificate
+[38H](#38H).       Attorney-General’s civil witness exclusion certificate
 
-    **Division 3—Closed hearings and non‑disclosure or witness exclusion orders in civil proceedings**
+    **Division 3—Closed hearings and non-disclosure or witness exclusion orders in civil proceedings**
 
 [38I](#38I).         Closed hearing requirements in civil proceedings
 
@@ -210,43 +210,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Offences relating to federal criminal proceedings**
 
-[40](#40).          Offence to disclose information before Attorney‑General gives criminal non‑disclosure certificate etc  under section 26
+[40](#40).          Offence to disclose information before Attorney-General gives criminal non-disclosure certificate etc  under section 26
 
-[41](#41).          Offence to disclose information before Attorney‑General gives criminal witness exclusion certificate etc  under section 28
+[41](#41).          Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc  under section 28
 
-[42](#42).          Offence to contravene requirement to notify Attorney‑General etc  under sections 24 and 25
+[42](#42).          Offence to contravene requirement to notify Attorney-General etc  under sections 24 and 25
 
-[43](#43).          Offence to disclose information contrary to Attorney‑General’s criminal non‑disclosure certificate given under section 26
+[43](#43).          Offence to disclose information contrary to Attorney-General’s criminal non-disclosure certificate given under section 26
 
-[44](#44).          Offence to call witness contrary to Attorney‑General’s criminal witness exclusion certificate given under section 28
+[44](#44).          Offence to call witness contrary to Attorney-General’s criminal witness exclusion certificate given under section 28
 
 [45](#45).          Offence to contravene court order
-
-[45A](#45A).       Offence to contravene regulations
 
 [46](#46).          Offence to disclose information in federal criminal proceedings to certain persons without security clearance etc 
 
     **Division 2—Offences relating to civil proceedings**
 
-[46A](#46A).       Offence to disclose information before Attorney‑General gives civil non‑disclosure certificate etc  under section 38F
+[46A](#46A).       Offence to disclose information before Attorney-General gives civil non-disclosure certificate etc  under section 38F
 
-[46B](#46B).       Offence to disclose information before Attorney‑General gives civil witness exclusion certificate etc  under section 38H
+[46B](#46B).       Offence to disclose information before Attorney-General gives civil witness exclusion certificate etc  under section 38H
 
-[46C](#46C).       Offence to contravene requirement to notify Attorney‑General etc  under sections 38D and 38E
+[46C](#46C).       Offence to contravene requirement to notify Attorney-General etc  under sections 38D and 38E
 
-[46D](#46D).       Offence to disclose information contrary to Attorney‑General’s civil non‑disclosure certificate given under section 38F
+[46D](#46D).       Offence to disclose information contrary to Attorney-General’s civil non-disclosure certificate given under section 38F
 
-[46E](#46E).        Offence to call witness contrary to Attorney‑General’s civil witness exclusion certificate given under section 38H
+[46E](#46E).        Offence to call witness contrary to Attorney-General’s civil witness exclusion certificate given under section 38H
 
 [46F](#46F).        Offence to contravene court order
-
-[46FA](#46FA).     Offence to contravene regulations
 
 [46G](#46G).       Offence to disclose information in civil proceedings to certain persons without security clearance etc 
 
 **Part 6—Miscellaneous**
 
-[47](#47).          Report to Parliament on certificates given by Attorney‑General etc 
+[47](#47).          Report to Parliament on certificates given by Attorney-General etc 
 
 [48](#48).          Rules of court
 
@@ -370,21 +366,21 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="6A"></a>6A  Application of Act to civil proceedings
 
-Application to civil proceedings—Attorney‑General not a party to proceedings
+Application to civil proceedings—Attorney-General not a party to proceedings
 
              (1)  If:
 
-                     (a)  the Attorney‑General is not a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
+                     (a)  the Attorney-General is not a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
 
-                     (b)  the Attorney‑General gives notice in writing to the parties to the proceeding, the legal representatives of the parties to the proceeding and the court that this Act applies to the proceeding;
+                     (b)  the Attorney-General gives notice in writing to the parties to the proceeding, the legal representatives of the parties to the proceeding and the court that this Act applies to the proceeding;
 
 then, subject to subsection (5), this Act applies to the proceeding.
 
-Application to civil proceedings—Attorney‑General a party to proceedings
+Application to civil proceedings—Attorney-General a party to proceedings
 
              (2)  If:
 
-                     (a)  the Attorney‑General is, or becomes, a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
+                     (a)  the Attorney-General is, or becomes, a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
 
                      (b)  the Minister appointed under subsection (3) or (4) gives notice in writing to the parties to the proceeding, the legal representatives of the parties to the proceeding and the court that this Act applies to the proceeding;
 
@@ -392,7 +388,7 @@ then:
 
                      (c)  subject to subsection (5), this Act applies to the proceeding; and
 
-                     (d)  the Minister must perform the functions and exercise the powers, in relation to the proceeding, that are conferred on the Attorney‑General under Divisions 1A, 1, 2, 3 and 4 of Part 3A; and
+                     (d)  the Minister must perform the functions and exercise the powers, in relation to the proceeding, that are conferred on the Attorney-General under Divisions 1A, 1, 2, 3 and 4 of Part 3A; and
 
                      (e)  references in:
 
@@ -402,21 +398,21 @@ then:
 
                             (iii)  Division 2 of Part 5;
 
-                            to the Attorney‑General (other than references to the Attorney‑General as a party to the proceeding) are to be read as references to the Minister.
+                            to the Attorney-General (other than references to the Attorney-General as a party to the proceeding) are to be read as references to the Minister.
 
-Attorney‑General to appoint alternative Minister
+Attorney-General to appoint alternative Minister
 
-             (3)  The Attorney‑General must, as soon as possible after the commencement of this section, appoint in writing another Minister for the purposes of the operation of subsection (2) in relation to all civil proceedings.
+             (3)  The Attorney-General must, as soon as possible after the commencement of this section, appoint in writing another Minister for the purposes of the operation of subsection (2) in relation to all civil proceedings.
 
-             (4)  If the Minister appointed under subsection (3) is, or becomes, a party to a civil proceeding to which the Attorney‑General also is or becomes a party, the Attorney‑General must appoint a different Minister for the purposes of the operation of subsection (2) in relation to that civil proceeding.
+             (4)  If the Minister appointed under subsection (3) is, or becomes, a party to a civil proceeding to which the Attorney-General also is or becomes a party, the Attorney-General must appoint a different Minister for the purposes of the operation of subsection (2) in relation to that civil proceeding.
 
 Application to civil proceedings—notice given after a proceeding has begun
 
-             (5)  If the Attorney‑General or the Minister gives the notice after the proceeding has begun, this Act only applies to the parts of the proceeding that occur after the notice is given (whether or not those parts began before that time).
+             (5)  If the Attorney-General or the Minister gives the notice after the proceeding has begun, this Act only applies to the parts of the proceeding that occur after the notice is given (whether or not those parts began before that time).
 
 Notice and appointment are not legislative instruments
 
-             (6)  A notice given under subsection (1) or (2) and an appointment made by the Attorney‑General under subsection (3) or (4) are not legislative instruments for the purposes of the _Legislative Instruments Act 2003_.
+             (6)  A notice given under subsection (1) or (2) and an appointment made by the Attorney-General under subsection (3) or (4) are not legislative instruments for the purposes of the _Legislative Instruments Act 2003_.
 
 ## Part 2—Interpretation
 
@@ -530,9 +526,9 @@ whether orally or by giving, or disclosing the contents of, a document.
 
                              (ii)  a related criminal justice process decision (within the meaning of subsection 39B(3) of that Act);
 
-                     (g)  any other pre‑trial, interlocutory or post‑trial proceeding prescribed by regulations for the purposes of this paragraph.
+                     (g)  any other pre-trial, interlocutory or post-trial proceeding prescribed by regulations for the purposes of this paragraph.
 
-             (3)  To avoid doubt, a re‑trial, and proceedings relating to the re‑trial (including those mentioned in subsection (2)), are part of the same criminal proceeding as the trial.
+             (3)  To avoid doubt, a re-trial, and proceedings relating to the re-trial (including those mentioned in subsection (2)), are part of the same criminal proceeding as the trial.
 
 ##### <a id="14"></a>14  Meaning of _federal criminal proceeding_
 
@@ -562,7 +558,7 @@ Note:          The Act only applies to a civil proceeding in r
 
                      (d)  any interlocutory or other proceeding prescribed by regulations for the purposes of this paragraph.
 
-             (3)  To avoid doubt, a re‑hearing, and proceedings relating to the re‑hearing (including those mentioned in subsection (2)), are part of the same civil proceeding as the hearing.
+             (3)  To avoid doubt, a re-hearing, and proceedings relating to the re-hearing (including those mentioned in subsection (2)), are part of the same civil proceeding as the hearing.
 
 ### Division 4—Other interpretation provisions
 
@@ -572,13 +568,11 @@ Note:          The Act only applies to a civil proceeding in r
 
                      (a)  the person is the prosecutor in a federal criminal proceeding and the person discloses the information in the course of his or her duties in relation to the proceeding; or
 
-                     (b)  the person discloses the information in circumstances specified by the Attorney‑General in a certificate or advice given under section 26, 28, 38F or 38H.
+                     (b)  the person discloses the information in circumstances specified by the Attorney-General in a certificate or advice given under section 26, 28, 38F or 38H.
 
 ##### <a id="17"></a>17  Meaning of _likely to prejudice national security_
 
-             (1)  A disclosure of information is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the disclosure will prejudice national security.
-
-             (2)  The contravention of a requirement is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the contravention will prejudice national security.
+                   A disclosure of information is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the disclosure will prejudice national security.
 
 ##### <a id="18"></a>18  Operation of other Acts etc.
 
@@ -638,17 +632,17 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
 ## Part 3—Protection of information whose disclosure in federal criminal proceedings is likely to prejudice etc. national security
 
-### Division 1A—Attorney‑General etc. may attend and be heard at federal criminal proceedings
+### Division 1A—Attorney-General etc. may attend and be heard at federal criminal proceedings
 
-##### <a id="20A"></a>20A  Attorney‑General etc. may attend and be heard at federal criminal proceedings
+##### <a id="20A"></a>20A  Attorney-General etc. may attend and be heard at federal criminal proceedings
 
                    If, in a federal criminal proceeding, an issue arises relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, then any or all of the following may attend and be heard at the proceeding:
 
-                     (a)  the Attorney‑General;
+                     (a)  the Attorney-General;
 
-                     (b)  the Attorney‑General’s legal representative;
+                     (b)  the Attorney-General’s legal representative;
 
-                     (c)  any other representative of the Attorney‑General.
+                     (c)  any other representative of the Attorney-General.
 
 ### Division 1B—Court to consider hearing in camera etc.
 
@@ -666,7 +660,7 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
 ##### <a id="21"></a>21  National security information hearings
 
-             (1)  At any time during a federal criminal proceeding, the Attorney‑General, the Attorney‑General’s legal representative, the prosecutor, the defendant or the defendant’s legal representative may apply to the court for the court to hold a hearing to consider issues relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, including:
+             (1)  At any time during a federal criminal proceeding, the Attorney-General, the Attorney-General’s legal representative, the prosecutor, the defendant or the defendant’s legal representative may apply to the court for the court to hold a hearing to consider issues relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, including:
 
                      (a)  the making of an arrangement of the kind mentioned in section 22; and
 
@@ -674,11 +668,11 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
           (1A)  As soon as possible after making the application, the applicant must notify each of the following that the application has been made:
 
-                     (a)  if the applicant is the Attorney‑General or the Attorney‑General’s legal representative—the prosecutor, the defendant and the defendant’s legal representative;
+                     (a)  if the applicant is the Attorney-General or the Attorney-General’s legal representative—the prosecutor, the defendant and the defendant’s legal representative;
 
-                     (b)  if the applicant is the prosecutor—the Attorney‑General, the defendant and the defendant’s legal representative;
+                     (b)  if the applicant is the prosecutor—the Attorney-General, the defendant and the defendant’s legal representative;
 
-                     (c)  if the applicant is the defendant or the defendant’s legal representative—the Attorney‑General and the prosecutor.
+                     (c)  if the applicant is the defendant or the defendant’s legal representative—the Attorney-General and the prosecutor.
 
              (2)  The court must hold the hearing as soon as possible after the application is made.
 
@@ -686,7 +680,7 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
              (1)  At any time during a federal criminal proceeding:
 
-                     (a)  the Attorney‑General, on the Commonwealth’s behalf; and
+                     (a)  the Attorney-General, on the Commonwealth’s behalf; and
 
                      (b)  the prosecutor; and
 
@@ -706,9 +700,9 @@ may agree to an arrangement about the disclosure, protection, storage, handling 
 
              (2)  This section does not apply to information that is the subject of an order that is in force under section 22.
 
-### Division 2—Attorney‑General’s certificates for protection of information in federal criminal proceedings
+### Division 2—Attorney-General’s certificates for protection of information in federal criminal proceedings
 
-#### Subdivision A—Notifying Attorney‑General etc. of expected disclosure in federal criminal proceedings
+#### Subdivision A—Notifying Attorney-General etc. of expected disclosure in federal criminal proceedings
 
 ##### <a id="24"></a>24  Notification of expected disclosure of national security information
 
@@ -720,7 +714,7 @@ may agree to an arrangement about the disclosure, protection, storage, handling 
 
                      (c)  on his or her application, the court has issued a subpoena to, or made another order in relation to, another person who, because of that subpoena or order, is required (other than as a witness) to disclose national security information in a federal criminal proceeding;
 
-then he or she must, as soon as practicable, give the Attorney‑General notice in writing of that knowledge or belief.
+then he or she must, as soon as practicable, give the Attorney-General notice in writing of that knowledge or belief.
 
 Note 1:       Failure to give notice as required by this subsection is an offence in certain circumstances: see section 42.
 
@@ -744,7 +738,7 @@ When not required to give notice
 
                              (ii)  is the subject of an order that is in force under section 22 or 31; or
 
-                     (d)  the Attorney‑General has given the person advice about the disclosure of the information under subsection 26(7) or 28(10).
+                     (d)  the Attorney-General has given the person advice about the disclosure of the information under subsection 26(7) or 28(10).
 
 Requirements for notice
 
@@ -758,7 +752,7 @@ Requirements for notice
 
 Informing the court etc. of an expected disclosure
 
-             (3)  A person who gives notice under subsection (1) must also advise the following, in writing, that notice has been given to the Attorney‑General:
+             (3)  A person who gives notice under subsection (1) must also advise the following, in writing, that notice has been given to the Attorney-General:
 
                      (a)  if the person is the prosecutor:
 
@@ -784,15 +778,15 @@ Note:          Failure to give advice as required by this subs
 
 Note:          A contravention of this subsection is an offence in certain circumstances: see section 42.
 
-Adjournment to allow sufficient time for Attorney‑General to act on the notice
+Adjournment to allow sufficient time for Attorney-General to act on the notice
 
-             (5)  On receiving the advice, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney‑General:
+             (5)  On receiving the advice, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney-General:
 
                      (a)  gives a copy of a certificate to the court under subsection 26(4) or 28(3); or
 
                      (b)  gives advice to the court under subsection 26(7) or 28(10) (which applies if a decision is made not to give a certificate).
 
-#### Subdivision B—Notifying Attorney‑General etc. where disclosure expected by witness answering question in federal criminal proceedings
+#### Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in federal criminal proceedings
 
 ##### <a id="25"></a>25  Preventing witnesses from disclosing information in federal criminal proceedings by not allowing them to answer questions
 
@@ -812,7 +806,7 @@ Note:          Failure to advise the court is an offence: see 
 
                      (a)  another person has already advised the court about the disclosure of the information under that subsection; or
 
-                     (b)  a notice has been given to the Attorney‑General under subsection 24(1) about the disclosure of the information; or
+                     (b)  a notice has been given to the Attorney-General under subsection 24(1) about the disclosure of the information; or
 
                      (c)  the disclosure of the information:
 
@@ -820,67 +814,67 @@ Note:          Failure to advise the court is an offence: see 
 
                              (ii)  is the subject of an order that is in force under section 22 or 31; or
 
-                     (d)  the Attorney‑General has given the person advice about the disclosure of the information under subsection 26(7).
+                     (d)  the Attorney-General has given the person advice about the disclosure of the information under subsection 26(7).
 
 Witness to give written answer
 
              (3)  If the court is advised under subsection (2) and the witness would, apart from this section, be required to answer the question, the court must order that the witness give the court a written answer to the question.
 
-             (4)  The court must show the written answer to the prosecutor and, if present, the Attorney‑General, the Attorney‑General’s legal representative and any other representative of the Attorney‑General.
+             (4)  The court must show the written answer to the prosecutor and, if present, the Attorney-General, the Attorney-General’s legal representative and any other representative of the Attorney-General.
 
              (5)  If:
 
-                     (a)  under subsection (4), the Attorney‑General’s representative (other than the Attorney‑General’s legal representative) is shown the written answer; and
+                     (a)  under subsection (4), the Attorney-General’s representative (other than the Attorney-General’s legal representative) is shown the written answer; and
 
                      (b)  he or she knows or believes that, if the written answer were to be given in evidence in the proceeding, the information that would be disclosed in the witness’s answer is national security information;
 
 then he or she must advise the prosecutor of that knowledge or belief.
 
-Prosecutor must give notice to Attorney‑General etc.
+Prosecutor must give notice to Attorney-General etc.
 
              (6)  If the prosecutor knows, believes, or is advised under subsection (5), that, if the written answer were to be given in evidence in the proceeding, the information that would be disclosed in the witness’s answer is national security information, then the prosecutor must:
 
                      (a)  advise the court of that knowledge, belief or advice; and
 
-                     (b)  as soon as practicable, give the Attorney‑General notice in writing of that knowledge, belief or advice.
+                     (b)  as soon as practicable, give the Attorney-General notice in writing of that knowledge, belief or advice.
 
-Note:          Failure to advise the court or to notify the Attorney‑General is an offence in certain circumstances: see section 42.
+Note:          Failure to advise the court or to notify the Attorney-General is an offence in certain circumstances: see section 42.
 
-             (7)  However, the prosecutor need not advise the court or give the Attorney‑General notice about the written answer under subsection (6) if the information disclosed by the written answer:
+             (7)  However, the prosecutor need not advise the court or give the Attorney-General notice about the written answer under subsection (6) if the information disclosed by the written answer:
 
                      (a)  is the subject of a certificate or advice given to the prosecutor under section 26 and the certificate still has effect; or
 
                      (b)  is the subject of an order that is in force under section 22 or 31.
 
-Adjournment to allow sufficient time for Attorney‑General to act on the notice
+Adjournment to allow sufficient time for Attorney-General to act on the notice
 
-             (8)  If the court is advised under subsection (6), it must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney‑General:
+             (8)  If the court is advised under subsection (6), it must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney-General:
 
                      (a)  gives a copy of a certificate to the court under subsection 26(4); or
 
                      (b)  gives advice to the court under subsection 26(7) (which applies if a decision is made not to give a certificate).
 
-#### Subdivision C—Attorney‑General’s federal criminal proceedings certificates
+#### Subdivision C—Attorney-General’s federal criminal proceedings certificates
 
-##### <a id="26"></a>26  Attorney‑General’s criminal non‑disclosure certificate
+##### <a id="26"></a>26  Attorney-General’s criminal non-disclosure certificate
 
              (1)  This section applies if:
 
                      (a)  any of the following happens:
 
-                              (i)  the Attorney‑General is notified under section 24 that the prosecutor, the defendant or the defendant’s legal representative knows or believes that he or she, or another person, will disclose information in a federal criminal proceeding;
+                              (i)  the Attorney-General is notified under section 24 that the prosecutor, the defendant or the defendant’s legal representative knows or believes that he or she, or another person, will disclose information in a federal criminal proceeding;
 
-                             (ii)  the Attorney‑General for any reason expects that any of the circumstances mentioned in paragraphs 24(1)(a) to (c) will arise under which the prosecutor, the defendant, the defendant’s legal representative or another person will disclose information in a federal criminal proceeding;
+                             (ii)  the Attorney-General for any reason expects that any of the circumstances mentioned in paragraphs 24(1)(a) to (c) will arise under which the prosecutor, the defendant, the defendant’s legal representative or another person will disclose information in a federal criminal proceeding;
 
-                            (iii)  the Attorney‑General is notified under subsection 25(6) that the prosecutor knows, believes or is advised that an answer by a witness in a hearing in relation to a federal criminal proceeding will disclose information; and
+                            (iii)  the Attorney-General is notified under subsection 25(6) that the prosecutor knows, believes or is advised that an answer by a witness in a hearing in relation to a federal criminal proceeding will disclose information; and
 
                      (b)  paragraph 28(1)(a) (about the mere presence of a witness constituting disclosure) does not apply; and
 
-                     (c)  the Attorney‑General considers that the disclosure is likely to prejudice national security.
+                     (c)  the Attorney-General considers that the disclosure is likely to prejudice national security.
 
-Attorney‑General may give a certificate—case where information is in the form of a document
+Attorney-General may give a certificate—case where information is in the form of a document
 
-             (2)  If the information would be disclosed in a document (the **_source document_**), the Attorney‑General may give each potential discloser (see subsection (8)) of the information in the proceeding:
+             (2)  If the information would be disclosed in a document (the **_source document_**), the Attorney-General may give each potential discloser (see subsection (8)) of the information in the proceeding:
 
                      (a)  any of the following:
 
@@ -894,9 +888,9 @@ Attorney‑General may give a certificate—case where information is in the for
 
                      (b)  a certificate that describes the information and states that the potential discloser must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise).
 
-Attorney‑General may give a certificate—case where information is not in the form of a document
+Attorney-General may give a certificate—case where information is not in the form of a document
 
-             (3)  If the information would be disclosed other than in a document, the Attorney‑General may give each potential discloser of the information in the proceeding:
+             (3)  If the information would be disclosed other than in a document, the Attorney-General may give each potential discloser of the information in the proceeding:
 
                      (a)  either:
 
@@ -908,7 +902,7 @@ Attorney‑General may give a certificate—case where information is not in the
 
                      (b)  a certificate that describes the information and states that the potential discloser must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise).
 
-             (4)  The Attorney‑General must give the court a copy of:
+             (4)  The Attorney-General must give the court a copy of:
 
                      (a)  in any case—the certificate; and
 
@@ -918,15 +912,15 @@ Attorney‑General may give a certificate—case where information is not in the
 
 Duration of a certificate
 
-             (5)  The certificate ceases to have effect when any order by the court under section 31 on the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney‑General before then.
+             (5)  The certificate ceases to have effect when any order by the court under section 31 on the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney-General before then.
 
 Certificate is not a legislative instrument
 
              (6)  A certificate given to a potential discloser under this section is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-Attorney‑General may decide not to give a certificate
+Attorney-General may decide not to give a certificate
 
-             (7)  If the Attorney‑General decides not to do as mentioned in subsection (2) or (3), the Attorney‑General must, in writing, advise each potential discloser and the court of his or her decision.
+             (7)  If the Attorney-General decides not to do as mentioned in subsection (2) or (3), the Attorney-General must, in writing, advise each potential discloser and the court of his or her decision.
 
 Definition of **potential discloser**
 
@@ -938,15 +932,15 @@ Definition of **potential discloser**
 
                      (c)  if subparagraph (1)(a)(iii) applies—the witness mentioned in that subparagraph.
 
-##### <a id="27"></a>27  Consequences of Attorney‑General giving criminal non‑disclosure certificate
+##### <a id="27"></a>27  Consequences of Attorney-General giving criminal non-disclosure certificate
 
-Consequences of certificate for pre‑trial proceedings
+Consequences of certificate for pre-trial proceedings
 
-             (1)  If, in a federal criminal proceeding, the Attorney‑General gives a potential discloser a certificate under section 26 at any time during a part of the proceeding that occurs before the trial begins, then the certificate is conclusive evidence, during that part of the proceeding and any later part that occurs before the hearing mentioned in paragraph (3)(a) begins, that disclosure of the information in the proceeding is likely to prejudice national security.
+             (1)  If, in a federal criminal proceeding, the Attorney-General gives a potential discloser a certificate under section 26 at any time during a part of the proceeding that occurs before the trial begins, then the certificate is conclusive evidence, during that part of the proceeding and any later part that occurs before the hearing mentioned in paragraph (3)(a) begins, that disclosure of the information in the proceeding is likely to prejudice national security.
 
 Court hearing
 
-             (3)  If, in a federal criminal proceeding, the Attorney‑General gives a potential discloser a certificate under section 26 at any time during the proceeding, the court must:
+             (3)  If, in a federal criminal proceeding, the Attorney-General gives a potential discloser a certificate under section 26 at any time during the proceeding, the court must:
 
                      (a)  in any case where the certificate is given to the court before the trial begins—before the trial begins, hold a hearing to decide whether to make an order under section 31 in relation to the disclosure of the information; or
 
@@ -954,31 +948,31 @@ Court hearing
 
                      (c)  if subparagraph 26(1)(a)(ii) applies and the certificate is given to the court after the trial begins—adjourn the proceeding for the purpose of holding a hearing to decide whether to make an order under section 31 in relation to the disclosure of the information.
 
-             (4)  If the Attorney‑General revokes the certificate at any time while the proceeding is adjourned or the hearing is being held, the court must end the adjournment or the hearing.
+             (4)  If the Attorney-General revokes the certificate at any time while the proceeding is adjourned or the hearing is being held, the court must end the adjournment or the hearing.
 
              (5)  The closed hearing requirements apply to the hearing.
 
-##### <a id="28"></a>28  Attorney‑General’s criminal witness exclusion certificate
+##### <a id="28"></a>28  Attorney-General’s criminal witness exclusion certificate
 
              (1)  This section applies if:
 
                      (a)  either:
 
-                              (i)  the Attorney‑General is notified under section 24 that the prosecutor, the defendant or the defendant’s legal representative knows or believes that a person whom he or she intends to call as a witness in a federal criminal proceeding will disclose information by the person’s mere presence; or
+                              (i)  the Attorney-General is notified under section 24 that the prosecutor, the defendant or the defendant’s legal representative knows or believes that a person whom he or she intends to call as a witness in a federal criminal proceeding will disclose information by the person’s mere presence; or
 
-                             (ii)  the Attorney‑General for any reason expects that a person whom the prosecutor, the defendant or the defendant’s legal representative intends to call as a witness in a federal criminal proceeding will disclose information by his or her mere presence; and
+                             (ii)  the Attorney-General for any reason expects that a person whom the prosecutor, the defendant or the defendant’s legal representative intends to call as a witness in a federal criminal proceeding will disclose information by his or her mere presence; and
 
-                     (b)  the Attorney‑General considers that the disclosure is likely to prejudice national security.
+                     (b)  the Attorney-General considers that the disclosure is likely to prejudice national security.
 
-Attorney‑General may give a certificate
+Attorney-General may give a certificate
 
-             (2)  The Attorney‑General may give a certificate to the prosecutor, the defendant or the defendant’s legal representative, as the case may be, that states that the prosecutor, the defendant or the defendant’s legal representative must not call the person as a witness in the federal criminal proceeding.
+             (2)  The Attorney-General may give a certificate to the prosecutor, the defendant or the defendant’s legal representative, as the case may be, that states that the prosecutor, the defendant or the defendant’s legal representative must not call the person as a witness in the federal criminal proceeding.
 
-             (3)  The Attorney‑General must give a copy of the certificate to the court.
+             (3)  The Attorney-General must give a copy of the certificate to the court.
 
 Duration of a certificate
 
-             (4)  The certificate ceases to have effect when any order by the court under section 31 on the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney‑General before then.
+             (4)  The certificate ceases to have effect when any order by the court under section 31 on the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney-General before then.
 
 Court hearing
 
@@ -990,17 +984,17 @@ Court hearing
 
              (7)  The closed hearing requirements apply to the hearing.
 
-             (8)  If the Attorney‑General revokes the certificate at any time while the proceeding is adjourned or the hearing is being held, the court must end the adjournment or the hearing.
+             (8)  If the Attorney-General revokes the certificate at any time while the proceeding is adjourned or the hearing is being held, the court must end the adjournment or the hearing.
 
 Certificate is not a legislative instrument
 
              (9)  A certificate given to the prosecutor, the defendant or the defendant’s legal representative under this section is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-Attorney‑General may decide not to give a certificate
+Attorney-General may decide not to give a certificate
 
-           (10)  If the Attorney‑General decides not to do as mentioned in subsection (2), the Attorney‑General must, in writing, advise the prosecutor, the defendant or the defendant’s legal representative, as the case requires, and the court of his or her decision.
+           (10)  If the Attorney-General decides not to do as mentioned in subsection (2), the Attorney-General must, in writing, advise the prosecutor, the defendant or the defendant’s legal representative, as the case requires, and the court of his or her decision.
 
-### Division 3—Closed hearings and non‑disclosure or witness exclusion orders in federal criminal proceedings
+### Division 3—Closed hearings and non-disclosure or witness exclusion orders in federal criminal proceedings
 
 ##### <a id="29"></a>29  Closed hearing requirements in federal criminal proceedings
 
@@ -1010,7 +1004,7 @@ Note:          The fact that those provisions provide that the
 
 Who may be present
 
-             (2)  Subject to this section, no‑one, including the jury (if any), must be present at the hearing except:
+             (2)  Subject to this section, no-one, including the jury (if any), must be present at the hearing except:
 
                      (a)  the magistrate, judge or judges comprising the court; and
 
@@ -1022,7 +1016,7 @@ Who may be present
 
                      (e)  any legal representative of the defendant; and
 
-                      (f)  the Attorney‑General, the Attorney‑General’s legal representative and any other representative of the Attorney‑General; and
+                      (f)  the Attorney-General, the Attorney-General’s legal representative and any other representative of the Attorney-General; and
 
                      (g)  any witnesses allowed by the court.
 
@@ -1040,7 +1034,7 @@ and that the disclosure would be likely to prejudice national security, the cour
 
                      (e)  gives information in arguing why the information should not be disclosed, or why the witness should not be called to give evidence, in the proceeding.
 
-Defendant’s submissions about prosecutor’s non‑disclosure arguments
+Defendant’s submissions about prosecutor’s non-disclosure arguments
 
              (4)  If, at the hearing, the prosecutor or any person mentioned in paragraph (2)(f) argues that any information should not be disclosed, or that the witness should not be called to give evidence, in the proceeding, the defendant and any legal representative of the defendant must be given the opportunity to make submissions to the court about the argument that the information should not be disclosed or the witness should not be called.
 
@@ -1052,13 +1046,13 @@ Court to make etc. record of hearing
 
                      (b)  keep the record; and
 
-                     (c)  make the record available to:           
+                     (c)  make the record available to:  
 
                               (i)  a court that hears an appeal against, or reviews, its decision on the hearing; and
 
                              (ii)  the prosecutor; and
 
-                            (iii)  the Attorney‑General and any legal representative of the Attorney‑General; and
+                            (iii)  the Attorney-General and any legal representative of the Attorney-General; and
 
                      (d)  allow any legal representative of the defendant, who has been given a security clearance at the level considered appropriate by the Secretary, to have access to the record, and to prepare documents or records in relation to the record, in a way and at a place prescribed by the regulations for the purposes of this paragraph; and
 
@@ -1066,7 +1060,7 @@ Court to make etc. record of hearing
 
 Copy of proposed record to be given to prosecutor etc.
 
-             (6)  Before the court makes the record under subsection (5), the court must give a copy of the proposed record to the prosecutor and the Attorney‑General (each of whom is a **_record recipient_**).
+             (6)  Before the court makes the record under subsection (5), the court must give a copy of the proposed record to the prosecutor and the Attorney-General (each of whom is a **_record recipient_**).
 
 Statement recipient may request variation of proposed record
 
@@ -1088,7 +1082,7 @@ Court’s decision
 
 ##### <a id="31"></a>31  Court orders in federal criminal proceedings
 
-Non‑disclosure certificate hearings
+Non-disclosure certificate hearings
 
              (1)  After holding a hearing required under subsection 27(3) in relation to the disclosure of information in a federal criminal proceeding, the court must make an order under one of subsections (2), (4) and (5) of this section.
 
@@ -1100,7 +1094,7 @@ Non‑disclosure certificate hearings
 
                      (c)  any other specified person;
 
-must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise), but may, subject to subsection (3), disclose (which disclosure may or may not be the same as was permitted in the Attorney‑General’s certificate) in the proceeding:
+must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise), but may, subject to subsection (3), disclose (which disclosure may or may not be the same as was permitted in the Attorney-General’s certificate) in the proceeding:
 
                      (d)  a copy of the document with the information deleted; or
 
@@ -1140,7 +1134,7 @@ Factors to be considered by court
 
              (7)  The Court must, in deciding what order to make under this section, consider the following matters:
 
-                     (a)  whether, having regard to the Attorney‑General’s certificate, there would be a risk of prejudice to national security if:
+                     (a)  whether, having regard to the Attorney-General’s certificate, there would be a risk of prejudice to national security if:
 
                               (i)  where the certificate was given under subsection 26(2) or (3)—the information were disclosed in contravention of the certificate; or
 
@@ -1166,11 +1160,11 @@ Requirement to give reasons
 
                      (d)  any legal representative of the defendant;
 
-                     (e)  the Attorney‑General and any legal representative of the Attorney‑General.
+                     (e)  the Attorney-General and any legal representative of the Attorney-General.
 
 Copy of proposed statement to be given to prosecutor etc.
 
-             (2)  Before the court gives its statement under subsection (1), the court must give a copy of the proposed statement to the prosecutor and the Attorney‑General (each of whom is a **_statement recipient_**).
+             (2)  Before the court gives its statement under subsection (1), the court must give a copy of the proposed statement to the prosecutor and the Attorney-General (each of whom is a **_statement recipient_**).
 
 Statement recipient may request variation of proposed statement
 
@@ -1206,7 +1200,7 @@ Court’s decision
 
                      (b)  after holding the hearing, the court makes an order under subsection 31(5) that any person may disclose the information;
 
-the order does not have the effect that there are grounds for re‑conducting any part of the proceeding that took place before the trial began.
+the order does not have the effect that there are grounds for re-conducting any part of the proceeding that took place before the trial began.
 
              (2)  If:
 
@@ -1214,7 +1208,7 @@ the order does not have the effect that there are grounds for re‑conducting an
 
                      (b)  after holding the hearing, the court makes an order under paragraph 31(6)(b) that the person may be called as a witness;
 
-the order does not have the effect that there are grounds for re‑conducting any part of the proceeding that took place before the trial began.
+the order does not have the effect that there are grounds for re-conducting any part of the proceeding that took place before the trial began.
 
 ##### <a id="36"></a>36  Adjournment after certain court orders
 
@@ -1242,7 +1236,7 @@ the order does not have the effect that there are grounds for re‑conducting an
 
 ##### <a id="37"></a>37  Appeals against court orders under section 31
 
-             (1)  The prosecutor, the defendant or the Attorney‑General may appeal against any order of the court made under section 31.
+             (1)  The prosecutor, the defendant or the Attorney-General may appeal against any order of the court made under section 31.
 
              (2)  The court that has jurisdiction to hear and determine appeals from the judgment on the trial in the proceeding has jurisdiction to hear and determine any appeal under this section.
 
@@ -1254,17 +1248,17 @@ the order does not have the effect that there are grounds for re‑conducting an
 
 ## Part 3A—Protection of information whose disclosure in civil proceedings is likely to prejudice etc. national security
 
-### Division 1A—Attorney‑General etc. may attend and be heard at civil proceedings
+### Division 1A—Attorney-General etc. may attend and be heard at civil proceedings
 
-##### <a id="38AA"></a>38AA  Attorney‑General etc. may attend and be heard at civil proceedings
+##### <a id="38AA"></a>38AA  Attorney-General etc. may attend and be heard at civil proceedings
 
                    If, in a civil proceeding, an issue arises relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, then any or all of the following may attend and be heard at the proceeding:
 
-                     (a)  the Attorney‑General;
+                     (a)  the Attorney-General;
 
-                     (b)  the Attorney‑General’s legal representative;
+                     (b)  the Attorney-General’s legal representative;
 
-                     (c)  any other representative of the Attorney‑General.
+                     (c)  any other representative of the Attorney-General.
 
 ### Division 1B—Court to consider hearing in camera etc.
 
@@ -1282,7 +1276,7 @@ the order does not have the effect that there are grounds for re‑conducting an
 
 ##### <a id="38A"></a>38A  National security information hearings
 
-             (1)  At any time during a civil proceeding, the Attorney General, the Attorney‑General’s legal representative, a party to the proceeding or a party’s legal representative may apply to the court for the court to hold a hearing to consider issues relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, including:
+             (1)  At any time during a civil proceeding, the Attorney General, the Attorney-General’s legal representative, a party to the proceeding or a party’s legal representative may apply to the court for the court to hold a hearing to consider issues relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, including:
 
                      (a)  the making of an arrangement of the kind mentioned in section 38B; and
 
@@ -1290,17 +1284,17 @@ the order does not have the effect that there are grounds for re‑conducting an
 
              (2)  As soon as possible after making the application, the applicant must notify each of the following that the application has been made:
 
-                     (a)  if the applicant is the Attorney‑General or the Attorney‑General’s legal representative—the parties and the parties’ legal representatives;
+                     (a)  if the applicant is the Attorney-General or the Attorney-General’s legal representative—the parties and the parties’ legal representatives;
 
-                     (b)  if the applicant is a party or a party’s legal representative—the Attorney‑General, the other parties and the other parties’ legal representatives.
+                     (b)  if the applicant is a party or a party’s legal representative—the Attorney-General, the other parties and the other parties’ legal representatives.
 
              (4)  The court must hold the hearing as soon as possible after the application is made.
 
-##### <a id="38B"></a>38B  Arrangements for civil proceedings about disclosures etc. of national security information
+##### <a id="38B"></a>38B  Arrangements for civil proceedings about disclosures etc. of national security information
 
              (1)  At any time during a civil proceeding:
 
-                     (a)  the Attorney‑General, on the Commonwealth’s behalf; and
+                     (a)  the Attorney-General, on the Commonwealth’s behalf; and
 
                      (b)  the parties to the proceeding, or their legal representatives on their behalf;
 
@@ -1318,9 +1312,9 @@ may agree to an arrangement about the disclosure, protection, storage, handling 
 
              (2)  This section does not apply to information that is the subject of an order that is in force under section 38B.
 
-### Division 2—Attorney‑General’s certificates for protection of information in civil proceedings
+### Division 2—Attorney-General’s certificates for protection of information in civil proceedings
 
-#### Subdivision A—Notifying Attorney‑General etc. of expected disclosure in civil proceedings
+#### Subdivision A—Notifying Attorney-General etc. of expected disclosure in civil proceedings
 
 ##### <a id="38D"></a>38D  Notification of expected disclosure of national security information
 
@@ -1332,13 +1326,13 @@ may agree to an arrangement about the disclosure, protection, storage, handling 
 
                      (c)  on his or her application, the court has issued a subpoena to, or made another order in relation to, another person who, because of that subpoena or order, is required (other than as a witness) to disclose national security information in the proceeding;
 
-then he or she must, as soon as practicable, give the Attorney‑General notice in writing of that knowledge or belief.
+then he or she must, as soon as practicable, give the Attorney-General notice in writing of that knowledge or belief.
 
 Note 1:       Failure to give notice as required by this section is an offence in certain circumstances: see section 46C.
 
 Note 2:       Section 38E deals with the situation where a party, or a party’s legal representative, knows or believes that information that will be disclosed in a witness’s answer is national security information.
 
-             (2)  However, a party or a party’s legal representative need not give the Attorney‑General notice about the disclosure of the information under subsection (1) if:
+             (2)  However, a party or a party’s legal representative need not give the Attorney-General notice about the disclosure of the information under subsection (1) if:
 
                     (aa)  another person has already given notice about the disclosure of the information under that subsection; or
 
@@ -1354,7 +1348,7 @@ Note 2:       Section 38E deals with the situation where a party, 
 
                              (ii)  is the subject of an order in force under section 38B or 38L; or
 
-                     (c)  the Attorney‑General has given the party or the legal representative advice about the disclosure of the information under subsection 38F(7) or 38H(9).
+                     (c)  the Attorney-General has given the party or the legal representative advice about the disclosure of the information under subsection 38F(7) or 38H(9).
 
 Note:          Subsections 38F(6) and 38H(5) specify when a certificate ceases to have effect.
 
@@ -1380,19 +1374,19 @@ Informing the court etc. of an expected disclosure
 
                      (d)  any other person mentioned in paragraph (1)(b) or (c);
 
-that notice has been given to the Attorney‑General. The advice must include a description of the information.
+that notice has been given to the Attorney-General. The advice must include a description of the information.
 
 Note:          Failure to give advice as required by this section is an offence in certain circumstances: see section 46C.
 
-Adjournment to allow sufficient time for Attorney‑General to act on the notice
+Adjournment to allow sufficient time for Attorney-General to act on the notice
 
-             (5)  On receiving the advice, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney‑General:
+             (5)  On receiving the advice, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney-General:
 
                      (a)  gives a copy of a certificate to the court under subsection 38F(5) or 38H(4); or
 
                      (b)  gives advice to the court under subsection 38F(7) or 38H(9) (which applies if a decision is made not to give a certificate).
 
-#### Subdivision B—Notifying Attorney‑General etc. where disclosure expected by witness answering question in civil proceedings
+#### Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in civil proceedings
 
 ##### <a id="38E"></a>38E  Preventing witnesses from disclosing information in civil proceedings by not allowing them to answer questions
 
@@ -1412,7 +1406,7 @@ Note:          Failure to advise the court is an offence: see 
 
                      (a)  another person has already advised the court about the disclosure of the information under that subsection; or
 
-                     (b)  a notice has been given to the Attorney‑General under subsection 38D(1) about the disclosure of the information; or
+                     (b)  a notice has been given to the Attorney-General under subsection 38D(1) about the disclosure of the information; or
 
                      (c)  the disclosure of the information:
 
@@ -1420,7 +1414,7 @@ Note:          Failure to advise the court is an offence: see 
 
                              (ii)  is the subject of an order that is in force under section 38B or 38L; or
 
-                     (d)  the Attorney‑General has given the person advice about the disclosure of the information under subsection 38F(7).
+                     (d)  the Attorney-General has given the person advice about the disclosure of the information under subsection 38F(7).
 
 Witness must give written answer to question
 
@@ -1436,31 +1430,31 @@ Court must adjourn proceeding
 
 Note:          Subsection 38F(6) specifies when a certificate ceases to have effect.
 
-             (5)  If the court adjourns a part of the proceeding under subsection (4), the court must give the written answer to the Attorney‑General.
+             (5)  If the court adjourns a part of the proceeding under subsection (4), the court must give the written answer to the Attorney-General.
 
-             (6)  The court must continue the adjournment until the Attorney‑General gives a copy of a certificate to the court under subsection 38F(5) or gives advice to the court under subsection 38F(7) (which applies if a decision is made not to give a certificate).
+             (6)  The court must continue the adjournment until the Attorney-General gives a copy of a certificate to the court under subsection 38F(5) or gives advice to the court under subsection 38F(7) (which applies if a decision is made not to give a certificate).
 
-#### Subdivision C—Attorney‑General’s civil proceedings certificates
+#### Subdivision C—Attorney-General’s civil proceedings certificates
 
-##### <a id="38F"></a>38F  Attorney‑General’s civil non‑disclosure certificate
+##### <a id="38F"></a>38F  Attorney-General’s civil non-disclosure certificate
 
              (1)  This section applies if:
 
                      (a)  any of the following happens:
 
-                              (i)  the Attorney‑General is notified under section 38D that a party, or the legal representative of a party, to a civil proceeding knows or believes that he or she or another person will disclose information in the proceeding;
+                              (i)  the Attorney-General is notified under section 38D that a party, or the legal representative of a party, to a civil proceeding knows or believes that he or she or another person will disclose information in the proceeding;
 
-                             (ii)  the Attorney‑General for any reason expects that any of the circumstances mentioned in paragraphs 38D(1)(a) to (c) will arise under which a party, the legal representative of a party or another person will disclose information in a civil proceeding;
+                             (ii)  the Attorney-General for any reason expects that any of the circumstances mentioned in paragraphs 38D(1)(a) to (c) will arise under which a party, the legal representative of a party or another person will disclose information in a civil proceeding;
 
-                            (iii)  the Attorney‑General considers that a written answer given by a witness under section 38E in a civil proceeding will disclose information; and
+                            (iii)  the Attorney-General considers that a written answer given by a witness under section 38E in a civil proceeding will disclose information; and
 
                      (b)  paragraph 38H(1)(a) (about the mere presence of a witness constituting disclosure) does not apply; and
 
-                     (c)  the Attorney‑General considers that the disclosure is likely to prejudice national security.
+                     (c)  the Attorney-General considers that the disclosure is likely to prejudice national security.
 
-Attorney‑General may give a certificate—case where information is in the form of a document
+Attorney-General may give a certificate—case where information is in the form of a document
 
-             (2)  If the information would be disclosed in a document (the **_source document_**), the Attorney‑General may give each potential discloser (see subsection (9)) of the information in the proceeding:
+             (2)  If the information would be disclosed in a document (the **_source document_**), the Attorney-General may give each potential discloser (see subsection (9)) of the information in the proceeding:
 
                      (a)  any of the following:
 
@@ -1474,9 +1468,9 @@ Attorney‑General may give a certificate—case where information is in the for
 
                      (b)  a certificate that describes the information and states that the potential discloser must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise).
 
-Attorney‑General may give a certificate—case where information is not in the form of a document
+Attorney-General may give a certificate—case where information is not in the form of a document
 
-             (3)  If the information would be disclosed other than in a document, the Attorney‑General may give each potential discloser of the information in the proceeding:
+             (3)  If the information would be disclosed other than in a document, the Attorney-General may give each potential discloser of the information in the proceeding:
 
                      (a)  either:
 
@@ -1494,7 +1488,7 @@ Certificate may be given at same time as notice is given under section 6A
 
 Copy of certificate must be given to the court
 
-             (5)  The Attorney‑General must give the court a copy of:
+             (5)  The Attorney-General must give the court a copy of:
 
                      (a)  in any case—the certificate; and
 
@@ -1506,13 +1500,13 @@ Duration of a certificate
 
              (6)  The certificate ceases to have effect when:
 
-                     (a)  the court makes an order under section 38B about the disclosure, in the proceeding, of information that is the subject of the certificate, unless the certificate is revoked by the Attorney‑General before then; or
+                     (a)  the court makes an order under section 38B about the disclosure, in the proceeding, of information that is the subject of the certificate, unless the certificate is revoked by the Attorney-General before then; or
 
-                     (b)  any order by the court under section 38Lon the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney‑General before then.
+                     (b)  any order by the court under section 38Lon the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney-General before then.
 
-Attorney‑General may decide not to give a certificate
+Attorney-General may decide not to give a certificate
 
-             (7)  If the Attorney‑General decides not to do as mentioned in subsection (2) or (3), the Attorney‑General must, in writing, advise each potential discloser and the court of his or her decision.
+             (7)  If the Attorney-General decides not to do as mentioned in subsection (2) or (3), the Attorney-General must, in writing, advise each potential discloser and the court of his or her decision.
 
 Certificate and written advice are not legislative instruments
 
@@ -1528,9 +1522,9 @@ Definition of **potential discloser**
 
                      (c)  if subparagraph (1)(a)(iii) applies—the witness mentioned in that subparagraph.
 
-##### <a id="38G"></a>38G  Consequences of Attorney‑General giving civil non‑disclosure certificate
+##### <a id="38G"></a>38G  Consequences of Attorney-General giving civil non-disclosure certificate
 
-             (1)  If, under section 38F, the Attorney‑General gives a potential discloser a certificate at any time during a civil proceeding, the court must:
+             (1)  If, under section 38F, the Attorney-General gives a potential discloser a certificate at any time during a civil proceeding, the court must:
 
                      (a)  in any case where the certificate is given to the court before the substantive hearing in the proceeding begins—before the substantive hearing in the proceeding begins, hold a hearing to decide whether to make an order under section 38L in relation to the disclosure of the information; or
 
@@ -1542,27 +1536,27 @@ Definition of **potential discloser**
 
                      (a)  the court makes an order under section 38B about the disclosure, in the proceeding, of information that is the subject of the certificate; or
 
-                     (b)  the Attorney‑General revokes the certificate;
+                     (b)  the Attorney-General revokes the certificate;
 
 the court must end the adjournment or the hearing.
 
              (3)  The closed hearing requirements apply to the hearing to decide whether to make an order under section 38L.
 
-##### <a id="38H"></a>38H  Attorney‑General’s civil witness exclusion certificate
+##### <a id="38H"></a>38H  Attorney-General’s civil witness exclusion certificate
 
              (1)  This section applies if:
 
                      (a)  either:
 
-                              (i)  the Attorney‑General is notified under section 38D that a party, or the legal representative of a party, to a civil proceeding knows or believes that a person whom the party or legal representative intends to call as a witness in the proceeding will disclose information by his or her mere presence; or
+                              (i)  the Attorney-General is notified under section 38D that a party, or the legal representative of a party, to a civil proceeding knows or believes that a person whom the party or legal representative intends to call as a witness in the proceeding will disclose information by his or her mere presence; or
 
-                             (ii)  the Attorney‑General for any reason expects that a person whom a party, or the legal representative of a party, to a civil proceeding intends to call as a witness in the proceeding will disclose information by his or her mere presence; and
+                             (ii)  the Attorney-General for any reason expects that a person whom a party, or the legal representative of a party, to a civil proceeding intends to call as a witness in the proceeding will disclose information by his or her mere presence; and
 
-                     (b)  the Attorney‑General considers that the disclosure is likely to prejudice national security.
+                     (b)  the Attorney-General considers that the disclosure is likely to prejudice national security.
 
-Attorney‑General may give a certificate
+Attorney-General may give a certificate
 
-             (2)  The Attorney‑General may give a certificate to the relevant party or legal representative that states that he or she must not call the person as a witness in the proceeding.
+             (2)  The Attorney-General may give a certificate to the relevant party or legal representative that states that he or she must not call the person as a witness in the proceeding.
 
 Certificate may be given at same time as notice is given under section 6A
 
@@ -1570,15 +1564,15 @@ Certificate may be given at same time as notice is given under section 6A
 
 Copy of certificate must be given to the court
 
-             (4)  The Attorney‑General must give a copy of the certificate to the court.
+             (4)  The Attorney-General must give a copy of the certificate to the court.
 
 Duration of a certificate
 
              (5)  The certificate ceases to have effect when:
 
-                     (a)  the court makes an order under section 38B about the disclosure, in the proceeding, of information by the mere presence of the person who is the subject of the certificate, unless the certificate is revoked by the Attorney‑General before then; or
+                     (a)  the court makes an order under section 38B about the disclosure, in the proceeding, of information by the mere presence of the person who is the subject of the certificate, unless the certificate is revoked by the Attorney-General before then; or
 
-                     (b)  any order by the court under section 38Lon the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney‑General before then.
+                     (b)  any order by the court under section 38Lon the hearing in relation to the certificate ceases to be subject to appeal, unless the certificate is revoked by the Attorney-General before then.
 
 Court hearing
 
@@ -1594,13 +1588,13 @@ Court hearing
 
                      (a)  the court makes an order under section 38B about the disclosure, in the proceeding, of information by the mere presence of the person who is the subject of the certificate; or
 
-                     (b)  the Attorney‑General revokes the certificate;
+                     (b)  the Attorney-General revokes the certificate;
 
 the court must end the adjournment or the hearing.
 
-Attorney‑General may decide not to give a certificate
+Attorney-General may decide not to give a certificate
 
-             (9)  If the Attorney‑General decides not to do as mentioned in subsection (2), the Attorney‑General must, in writing, advise:
+             (9)  If the Attorney-General decides not to do as mentioned in subsection (2), the Attorney-General must, in writing, advise:
 
                      (a)  the relevant party or legal representative; and
 
@@ -1612,7 +1606,7 @@ Certificate and written advice are not legislative instruments
 
            (10)  A certificate given under subsection (2) and a written advice given under subsection (9) are not legislative instruments for the purposes of the _Legislative Instruments Act 2003_.
 
-### Division 3—Closed hearings and non‑disclosure or witness exclusion orders in civil proceedings
+### Division 3—Closed hearings and non-disclosure or witness exclusion orders in civil proceedings
 
 ##### <a id="38I"></a>38I  Closed hearing requirements in civil proceedings
 
@@ -1622,7 +1616,7 @@ Note:          The fact that those provisions provide that the
 
 Who may be present
 
-             (2)  Subject to this section, no‑one, including the jury (if any), must be present at the hearing except:
+             (2)  Subject to this section, no-one, including the jury (if any), must be present at the hearing except:
 
                      (a)  the magistrate, judge or judges comprising the court; and
 
@@ -1632,7 +1626,7 @@ Who may be present
 
                      (d)  the parties’ legal representatives; and
 
-                     (e)  the Attorney‑General, the Attorney‑General’s legal representative and any other representative of the Attorney‑General; and
+                     (e)  the Attorney-General, the Attorney-General’s legal representative and any other representative of the Attorney-General; and
 
                       (f)  any witnesses allowed by the court.
 
@@ -1656,7 +1650,7 @@ the court may order that the party, the legal representative or the court offici
 
                      (d)  gives information in arguing why the information should not be disclosed, or why the witness should not be called to give evidence, in the proceeding.
 
-Submissions about non‑disclosure arguments
+Submissions about non-disclosure arguments
 
              (4)  If, at the hearing, any person referred to in paragraph (2)(e) argues that:
 
@@ -1678,13 +1672,13 @@ Court to make etc. record of hearing
 
                      (d)  not make the record available to, nor allow the record to be accessed by, anyone except as mentioned in this section.
 
-Copy of record to be given to the Attorney‑General etc.
+Copy of record to be given to the Attorney-General etc.
 
-             (6)  If section 38K applies, the court must give a copy of the record to the Attorney‑General and his or her legal representative.
+             (6)  If section 38K applies, the court must give a copy of the record to the Attorney-General and his or her legal representative.
 
 Request to vary record
 
-             (7)  If the Attorney‑General considers that:
+             (7)  If the Attorney-General considers that:
 
                      (a)  allowing access to the record by:
 
@@ -1696,7 +1690,7 @@ Request to vary record
 
                      (b)  the disclosure is likely to prejudice national security;
 
-the Attorney‑General or his or her legal representative may request that the court vary the record so that the information will not be disclosed.
+the Attorney-General or his or her legal representative may request that the court vary the record so that the information will not be disclosed.
 
 Decision by the court
 
@@ -1724,17 +1718,17 @@ Access to the record by a party or party’s legal representative
 
 ##### <a id="38J"></a>38J  Request to delay making record available pending appeal decision
 
-             (1)  If the court makes a decision under subsection 38I(8), the Attorney‑General or his or her legal representative may request that the court delay allowing access to the varied record or the record as mentioned in paragraph 38I(9)(a) to allow time for the Attorney‑General to:
+             (1)  If the court makes a decision under subsection 38I(8), the Attorney-General or his or her legal representative may request that the court delay allowing access to the varied record or the record as mentioned in paragraph 38I(9)(a) to allow time for the Attorney-General to:
 
                      (a)  decide whether to appeal against the court’s decision; and
 
-                     (b)  if the Attorney‑General decides to do so—make the appeal.
+                     (b)  if the Attorney-General decides to do so—make the appeal.
 
              (2)  The court must grant the request.
 
 ##### <a id="38L"></a>38L  Court orders in civil proceedings
 
-Civil non‑disclosure certificate hearings
+Civil non-disclosure certificate hearings
 
              (1)  After holding a hearing required under subsection 38G(1) in relation to the disclosure of information in a civil proceeding, the court must make an order under one of subsections (2), (4) and (5) of this section.
 
@@ -1746,7 +1740,7 @@ Civil non‑disclosure certificate hearings
 
                      (c)  any other specified person;
 
-must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise), but may, subject to subsection (3), disclose (which disclosure may or may not be the same as was permitted in the Attorney‑General’s certificate) in the proceeding:
+must not, except in permitted circumstances, disclose the information (whether in the proceeding or otherwise), but may, subject to subsection (3), disclose (which disclosure may or may not be the same as was permitted in the Attorney-General’s certificate) in the proceeding:
 
                      (d)  a copy of the document with the information deleted; or
 
@@ -1786,7 +1780,7 @@ Factors to be considered by court
 
              (7)  The court must, in deciding what order to make under this section, consider the following matters:
 
-                     (a)  whether, having regard to the Attorney‑General’s certificate, there would be a risk of prejudice to national security if:
+                     (a)  whether, having regard to the Attorney-General’s certificate, there would be a risk of prejudice to national security if:
 
                               (i)  where the certificate was given under subsection 38F(2) or (3)—the information were disclosed in contravention of the certificate; or
 
@@ -1810,15 +1804,15 @@ Requirement to give reasons
 
                      (c)  the parties’ legal representatives;
 
-                     (d)  the Attorney‑General and his or her legal representative.
+                     (d)  the Attorney-General and his or her legal representative.
 
-Copy of proposed statement to be given to the Attorney‑General etc.
+Copy of proposed statement to be given to the Attorney-General etc.
 
-             (2)  Before the court gives its statement under subsection (1), the court must give a copy of the proposed statement to the Attorney‑General and his or her legal representative.
+             (2)  Before the court gives its statement under subsection (1), the court must give a copy of the proposed statement to the Attorney-General and his or her legal representative.
 
 Request to vary proposed statement
 
-             (3)  If the Attorney‑General considers that giving the proposed statement will disclose information and the disclosure is likely to prejudice national security, the Attorney‑General or his or her legal representative may request that the court vary the proposed statement so that the information will not be disclosed.
+             (3)  If the Attorney-General considers that giving the proposed statement will disclose information and the disclosure is likely to prejudice national security, the Attorney-General or his or her legal representative may request that the court vary the proposed statement so that the information will not be disclosed.
 
 Court’s decision
 
@@ -1826,11 +1820,11 @@ Court’s decision
 
 ##### <a id="38N"></a>38N  Request to delay giving section 38M statement pending appeal decision
 
-             (1)  If the court makes a decision under section 38M, the Attorney‑General or his or her legal representative may request that the court delay giving its statement of reasons to allow time for the Attorney‑General to:
+             (1)  If the court makes a decision under section 38M, the Attorney-General or his or her legal representative may request that the court delay giving its statement of reasons to allow time for the Attorney-General to:
 
                      (a)  decide whether to appeal against the court’s decision; and
 
-                     (b)  if the Attorney‑General decides to do so—make the appeal.
+                     (b)  if the Attorney-General decides to do so—make the appeal.
 
              (2)  The court must grant the request.
 
@@ -1862,19 +1856,19 @@ Court’s decision
 
 ##### <a id="38Q"></a>38Q  Appeal against court decision under section 38I
 
-             (1)  The Attorney‑General may appeal against a decision of the court made under subsection 38I(8).
+             (1)  The Attorney-General may appeal against a decision of the court made under subsection 38I(8).
 
              (2)  The court that has jurisdiction to hear and determine appeals from the judgment in the proceeding has jurisdiction to hear and determine any appeal under this section.
 
 ##### <a id="38R"></a>38R  Appeals against court orders under section 38L
 
-             (1)  A party to a civil proceeding or the Attorney‑General may appeal against any order of the court made under section 38L.
+             (1)  A party to a civil proceeding or the Attorney-General may appeal against any order of the court made under section 38L.
 
              (2)  The court that has jurisdiction to hear and determine appeals from the judgment in the proceeding has jurisdiction to hear and determine any appeal under this section.
 
 ##### <a id="38S"></a>38S  Appeal against court decisions under section 38M
 
-             (1)  The Attorney‑General may appeal against any decision of the court made under section 38M.
+             (1)  The Attorney-General may appeal against any decision of the court made under section 38M.
 
              (2)  The court that has jurisdiction to hear and determine appeals from the judgment in the proceeding has jurisdiction to hear and determine any appeal under this section.
 
@@ -1884,7 +1878,7 @@ Court’s decision
 
 ##### <a id="39"></a>39  Security clearance for defendant’s legal representative etc.
 
-             (1)  This section applies if, before or during a federal criminal proceeding, the Secretary of the Attorney‑General’s Department gives written notice to any of the following persons:
+             (1)  This section applies if, before or during a federal criminal proceeding, the Secretary of the Attorney-General’s Department gives written notice to any of the following persons:
 
                      (a)  a legal representative of the defendant;
 
@@ -1928,7 +1922,7 @@ Prosecutor may advise the court that the defendant’s legal representative has 
 
 ##### <a id="39A"></a>39A  Security clearance for parties etc. to a civil proceeding
 
-             (1)  This section applies if, in a civil proceeding, the Secretary of the Attorney‑General’s Department gives written notice to any of the following persons:
+             (1)  This section applies if, in a civil proceeding, the Secretary of the Attorney-General’s Department gives written notice to any of the following persons:
 
                      (a)  a party to the proceeding;
 
@@ -2002,19 +1996,19 @@ Notice given by Secretary not a legislative instrument
 
 ### Division 1—Offences relating to federal criminal proceedings
 
-##### <a id="40"></a>40  Offence to disclose information before Attorney‑General gives criminal non‑disclosure certificate etc. under section 26
+##### <a id="40"></a>40  Offence to disclose information before Attorney-General gives criminal non-disclosure certificate etc. under section 26
 
-Disclosure where notice given to Attorney‑General under subsection 24(1)
+Disclosure where notice given to Attorney-General under subsection 24(1)
 
              (1)  A person commits an offence if:
 
                      (a)  the person is the prosecutor, the defendant or the defendant’s legal representative in a federal criminal proceeding; and
 
-                     (b)  the person gives notice to the Attorney‑General under subsection 24(1) about the disclosure of information in the proceeding; and
+                     (b)  the person gives notice to the Attorney-General under subsection 24(1) about the disclosure of information in the proceeding; and
 
                      (c)  section 41 does not apply; and
 
-                     (d)  after giving the notice, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney‑General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
+                     (d)  after giving the notice, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
 
                      (e)  the disclosure does not take place in permitted circumstances; and
 
@@ -2026,13 +2020,13 @@ Disclosure where advice given under subsection 24(3)
 
           (1A)  A person commits an offence if:
 
-                     (a)  the person is advised under subsection 24(3) that a notice about the disclosure of information in a federal criminal proceeding has been given to the Attorney‑General; and
+                     (a)  the person is advised under subsection 24(3) that a notice about the disclosure of information in a federal criminal proceeding has been given to the Attorney-General; and
 
                      (b)  the advice includes a description of the information; and
 
                      (c)  section 41 does not apply; and
 
-                     (d)  after being advised, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney‑General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
+                     (d)  after being advised, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
 
                      (e)  the disclosure does not take place in permitted circumstances; and
 
@@ -2040,15 +2034,15 @@ Disclosure where advice given under subsection 24(3)
 
                     Penalty:  Imprisonment for 2 years.
 
-Disclosure where notice given to Attorney‑General under section 25
+Disclosure where notice given to Attorney-General under section 25
 
              (2)  If:
 
-                     (a)  the prosecutor gives notice to the Attorney‑General under subsection 25(6) that the prosecutor knows, believes or is advised that an answer by a witness in a hearing in relation to a federal criminal proceeding will disclose information; and
+                     (a)  the prosecutor gives notice to the Attorney-General under subsection 25(6) that the prosecutor knows, believes or is advised that an answer by a witness in a hearing in relation to a federal criminal proceeding will disclose information; and
 
                      (b)  section 41 does not apply; and
 
-                     (c)  the prosecutor or the witness discloses the information (whether in the proceeding or otherwise) at any time before the Attorney‑General gives the prosecutor or the witness a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
+                     (c)  the prosecutor or the witness discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the prosecutor or the witness a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
 
                      (d)  the disclosure does not take place in permitted circumstances; and
 
@@ -2058,21 +2052,21 @@ the prosecutor or the witness commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="41"></a>41  Offence to disclose information before Attorney‑General gives criminal witness exclusion certificate etc. under section 28
+##### <a id="41"></a>41  Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc. under section 28
 
                    A person commits an offence if:
 
                      (a)  the person is the prosecutor, the defendant or the defendant’s legal representative in a federal criminal proceeding; and
 
-                     (b)  the person notifies the Attorney‑General under subsection 24(1) that he or she knows or believes that a person (the **_second person_**) whom he or she intends to call as a witness in a federal criminal proceeding will disclose information by the second person’s mere presence; and
+                     (b)  the person notifies the Attorney-General under subsection 24(1) that he or she knows or believes that a person (the **_second person_**) whom he or she intends to call as a witness in a federal criminal proceeding will disclose information by the second person’s mere presence; and
 
-                     (c)  after giving the notice, the person calls the second person as a witness in the proceeding at any time before the Attorney‑General gives the person a certificate under subsection 28(2) or advice under subsection 28(10) in relation to the calling of the second person as a witness; and
+                     (c)  after giving the notice, the person calls the second person as a witness in the proceeding at any time before the Attorney-General gives the person a certificate under subsection 28(2) or advice under subsection 28(10) in relation to the calling of the second person as a witness; and
 
                      (d)  the disclosure of the information by the mere presence of the second person is likely to prejudice national security.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="42"></a>42  Offence to contravene requirement to notify Attorney‑General etc. under sections 24 and 25
+##### <a id="42"></a>42  Offence to contravene requirement to notify Attorney-General etc. under sections 24 and 25
 
                    A person commits an offence if:
 
@@ -2082,7 +2076,7 @@ the prosecutor or the witness commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="43"></a>43  Offence to disclose information contrary to Attorney‑General’s criminal non‑disclosure certificate given under section 26
+##### <a id="43"></a>43  Offence to disclose information contrary to Attorney-General’s criminal non-disclosure certificate given under section 26
 
                    A person commits an offence if:
 
@@ -2092,7 +2086,7 @@ the prosecutor or the witness commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="44"></a>44  Offence to call witness contrary to Attorney‑General’s criminal witness exclusion certificate given under section 28
+##### <a id="44"></a>44  Offence to call witness contrary to Attorney-General’s criminal witness exclusion certificate given under section 28
 
                    A person commits an offence if:
 
@@ -2113,28 +2107,6 @@ the prosecutor or the witness commits an offence.
 the person commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
-
-##### <a id="45A"></a>45A  Offence to contravene regulations
-
-             (1)  A person commits an offence if:
-
-                     (a)  regulations made under section 23 require the person to comply with a requirement relating to the storage, handling or destruction of national security information; and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the conduct results in the requirement being contravened; and
-
-                     (d)  the contravention of the requirement is likely to prejudice national security.
-
-                    Penalty:  6 months imprisonment.
-
-             (2)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
 
 ##### <a id="46"></a>46  Offence to disclose information in federal criminal proceedings to certain persons without security clearance etc.
 
@@ -2160,19 +2132,19 @@ the person commits an offence.
 
 ### Division 2—Offences relating to civil proceedings
 
-##### <a id="46A"></a>46A  Offence to disclose information before Attorney‑General gives civil non‑disclosure certificate etc. under section 38F
+##### <a id="46A"></a>46A  Offence to disclose information before Attorney-General gives civil non-disclosure certificate etc. under section 38F
 
-Disclosure where notice given to Attorney‑General under subsection 38D(1)
+Disclosure where notice given to Attorney-General under subsection 38D(1)
 
              (1)  A person commits an offence if:
 
                      (a)  the person is a party, or a legal representative of a party, to a civil proceeding; and
 
-                     (b)  the person gives notice to the Attorney‑General under subsection 38D(1) about the disclosure of information in the proceeding; and
+                     (b)  the person gives notice to the Attorney-General under subsection 38D(1) about the disclosure of information in the proceeding; and
 
                      (c)  section 46B does not apply; and
 
-                     (d)  after giving the notice, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney‑General gives the person a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
+                     (d)  after giving the notice, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
 
                      (e)  the disclosure does not take place in permitted circumstances; and
 
@@ -2184,13 +2156,13 @@ Disclosure where advice given under subsection 38D(4)
 
           (1A)  A person commits an offence if:
 
-                     (a)  the person is advised under subsection 38D(4) that a notice about the disclosure of information in a civil proceeding has been given to the Attorney‑General; and
+                     (a)  the person is advised under subsection 38D(4) that a notice about the disclosure of information in a civil proceeding has been given to the Attorney-General; and
 
                      (b)  the advice includes a description of the information; and
 
                      (c)  section 46B does not apply; and
 
-                     (d)  after being advised, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney‑General gives the person a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
+                     (d)  after being advised, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
 
                      (e)  the disclosure does not take place in permitted circumstances; and
 
@@ -2198,7 +2170,7 @@ Disclosure where advice given under subsection 38D(4)
 
                     Penalty:  Imprisonment for 2 years.
 
-Disclosure where notice given to Attorney‑General under section 38E
+Disclosure where notice given to Attorney-General under section 38E
 
              (2)  If:
 
@@ -2206,7 +2178,7 @@ Disclosure where notice given to Attorney‑General under section 38E
 
                      (b)  section 46B does not apply; and
 
-                     (c)  the witness discloses information given in the written answer (whether in the proceeding or otherwise) at any time after the written answer is given to the court and before the Attorney‑General gives the witness a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
+                     (c)  the witness discloses information given in the written answer (whether in the proceeding or otherwise) at any time after the written answer is given to the court and before the Attorney-General gives the witness a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
 
                      (d)  the disclosure does not take place in permitted circumstances; and
 
@@ -2216,21 +2188,21 @@ the witness commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="46B"></a>46B  Offence to disclose information before Attorney‑General gives civil witness exclusion certificate etc. under section 38H
+##### <a id="46B"></a>46B  Offence to disclose information before Attorney-General gives civil witness exclusion certificate etc. under section 38H
 
                    A person commits an offence if:
 
                      (a)  the person is a party, or the legal representative of a party, to a civil proceeding; and
 
-                     (b)  the person notifies the Attorney‑General under subsection 38D(1) that he or she knows or believes that a person (the **_second person_**) whom he or she intends to call as a witness in the proceeding will disclose information by the second person’s mere presence; and
+                     (b)  the person notifies the Attorney-General under subsection 38D(1) that he or she knows or believes that a person (the **_second person_**) whom he or she intends to call as a witness in the proceeding will disclose information by the second person’s mere presence; and
 
-                     (c)  after giving the notice, the person calls the second person as a witness in the proceeding at any time before the Attorney‑General gives the person a certificate under subsection 38H(2) or advice under subsection 38H(9) in relation to the calling of the second person as a witness; and
+                     (c)  after giving the notice, the person calls the second person as a witness in the proceeding at any time before the Attorney-General gives the person a certificate under subsection 38H(2) or advice under subsection 38H(9) in relation to the calling of the second person as a witness; and
 
                      (d)  the disclosure of the information by the mere presence of the second person is likely to prejudice national security.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="46C"></a>46C  Offence to contravene requirement to notify Attorney‑General etc. under sections 38D and 38E
+##### <a id="46C"></a>46C  Offence to contravene requirement to notify Attorney-General etc. under sections 38D and 38E
 
                    A person commits an offence if:
 
@@ -2242,7 +2214,7 @@ the witness commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="46D"></a>46D  Offence to disclose information contrary to Attorney‑General’s civil non‑disclosure certificate given under section 38F
+##### <a id="46D"></a>46D  Offence to disclose information contrary to Attorney-General’s civil non-disclosure certificate given under section 38F
 
                    A person commits an offence if:
 
@@ -2252,7 +2224,7 @@ the witness commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="46E"></a>46E  Offence to call witness contrary to Attorney‑General’s civil witness exclusion certificate given under section 38H
+##### <a id="46E"></a>46E  Offence to call witness contrary to Attorney-General’s civil witness exclusion certificate given under section 38H
 
                    A person commits an offence if:
 
@@ -2273,28 +2245,6 @@ the witness commits an offence.
 the person commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
-
-##### <a id="46FA"></a>46FA  Offence to contravene regulations
-
-             (1)  A person commits an offence if:
-
-                     (a)  regulations made under section 38C require the person to comply with a requirement relating to the storage, handling or destruction of national security information; and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the conduct results in the requirement being contravened; and
-
-                     (d)  the contravention of the requirement is likely to prejudice national security.
-
-                    Penalty:  6 months imprisonment.
-
-             (2)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
 
 ##### <a id="46G"></a>46G  Offence to disclose information in civil proceedings to certain persons without security clearance etc.
 
@@ -2322,15 +2272,15 @@ the person commits an offence.
 
 ## Part 6—Miscellaneous
 
-##### <a id="47"></a>47  Report to Parliament on certificates given by Attorney‑General etc.
+##### <a id="47"></a>47  Report to Parliament on certificates given by Attorney-General etc.
 
-                   As soon as practicable after 30 June in each year, the Attorney‑General must cause to be laid before each House of the Parliament a report that:
+                   As soon as practicable after 30 June in each year, the Attorney-General must cause to be laid before each House of the Parliament a report that:
 
                      (a)  states the number of certificates given during the year:
 
-                              (i)  under sections 26, 28, 38F and 38H by the Attorney‑General; and
+                              (i)  under sections 26, 28, 38F and 38H by the Attorney-General; and
 
-                             (ii)  under sections 38F and 38H by the Minister appointed by the Attorney‑General under section 6A; and
+                             (ii)  under sections 38F and 38H by the Minister appointed by the Attorney-General under section 6A; and
 
                      (b)  identifies the criminal proceedings and civil proceedings to which the certificates relate.
 
@@ -2344,7 +2294,7 @@ the person commits an offence.
 
 ##### <a id="49"></a>49  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2436,7 +2386,8 @@ Remainder: Royal Assent</div>
     <div>6 July 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–28): 3 Aug 2005</div>
+    <div>Schedule 1: 3 Aug 2005 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2456,7 +2407,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 8 (items 1–16, 
 18–102, 104–106, 
 108–110): 22 Dec 2010 
-Schedule 8 (items 17, 103, 107): 24 May 2011</div>
+Schedule 8 (items 17, 103, 107): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Sch. 8 (items 109, 110)</div>
@@ -2688,14 +2639,6 @@ Schedule 8 (items 17, 103, 107): 24 May 2011</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 127, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subhead to s. 19(1)</div>
   </td>
   <td>
@@ -2792,7 +2735,7 @@ Schedule 8 (items 17, 103, 107): 24 May 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 3</div>
+    <div>Heading to Div. 1 of Part 3.</div>
   </td>
   <td>
     <div>rs. No. 89, 2005</div>
@@ -2856,7 +2799,7 @@ Schedule 8 (items 17, 103, 107): 24 May 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 3</div>
+    <div>Heading to Div. 2 of Part 3.</div>
   </td>
   <td>
     <div>rs. No. 89, 2005</div>
@@ -2872,7 +2815,7 @@ Schedule 8 (items 17, 103, 107): 24 May 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. A of . 
+    <div>Heading to Subdiv. A of 
 Div. 2 of Part 3</div>
   </td>
   <td>
@@ -2913,7 +2856,7 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. B of . 
+    <div>Heading to Subdiv. B of 
 Div. 2 of Part 3</div>
   </td>
   <td>
@@ -2946,7 +2889,7 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. C of . 
+    <div>Heading to Subdiv. C of 
 Div. 2 of Part 3</div>
   </td>
   <td>
@@ -3011,7 +2954,7 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 3</div>
+    <div>Heading to Div. 3 of Part 3.</div>
   </td>
   <td>
     <div>rs. No. 89, 2005</div>
@@ -3083,7 +3026,7 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part 3</div>
+    <div>Heading to Div. 4 of Part 3.</div>
   </td>
   <td>
     <div>rs. No. 89, 2005</div>
@@ -3483,7 +3426,7 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 4</div>
+    <div>Heading to Div. 1 of Part 4.</div>
   </td>
   <td>
     <div>ad. No. 89, 2005</div>
@@ -3547,7 +3490,7 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 5</div>
+    <div>Heading to Div. 1 of Part 5.</div>
   </td>
   <td>
     <div>ad. No. 89, 2005</div>
@@ -3635,14 +3578,6 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 46</div>
   </td>
   <td>
@@ -3715,14 +3650,6 @@ Div. 2 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 46FA</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 46G</div>
   </td>
   <td>
@@ -3754,6 +3681,78 @@ Div. 2 of Part 3</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_National Security Legislation Amendment Act 2010 (No. 127, 2010)_
+
+The following amendments commence on 24 May 2011 unless proclaimed earlier:
+
+## Schedule 8
+
+## 17  Section 17
+
+Repeal the section, substitute:
+
+##### <a id="17"></a>17  Meaning of _likely to prejudice national security_
+
+             (1)  A disclosure of information is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the disclosure will prejudice national security.
+
+             (2)  The contravention of a requirement is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the contravention will prejudice national security.
+
+## 103  After section 45
+
+Insert:
+
+##### <a id="45A"></a>45A  Offence to contravene regulations
+
+             (1)  A person commits an offence if:
+
+                     (a)  regulations made under section 23 require the person to comply with a requirement relating to the storage, handling or destruction of national security information; and
+
+                     (b)  the person engages in conduct; and
+
+                     (c)  the conduct results in the requirement being contravened; and
+
+                     (d)  the contravention of the requirement is likely to prejudice national security.
+
+                    Penalty:  6 months imprisonment.
+
+             (2)  In this section:
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+## 107  After section 46F
+
+Insert:
+
+##### <a id="46FA"></a>46FA  Offence to contravene regulations
+
+             (1)  A person commits an offence if:
+
+                     (a)  regulations made under section 38C require the person to comply with a requirement relating to the storage, handling or destruction of national security information; and
+
+                     (b)  the person engages in conduct; and
+
+                     (c)  the conduct results in the requirement being contravened; and
+
+                     (d)  the contravention of the requirement is likely to prejudice national security.
+
+                    Penalty:  6 months imprisonment.
+
+             (2)  In this section:
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+As at 22 December 2010 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3766,7 +3765,7 @@ _National Security Legislation Amendment Act 2010 (No. 127, 2010)_
 
 Notice given after commencement
 
-(1)       The amendments made by this Schedule (other than items 17, 103 and 107) apply on and after the commencement of this item to:
+(1)        The amendments made by this Schedule (other than items 17, 103 and 107) apply on and after the commencement of this item to:
 
                      (a)  a federal criminal proceeding in relation to which a notice is given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ on or after that commencement; and
 
@@ -3774,7 +3773,7 @@ Notice given after commencement
 
 whether or not the proceeding begins before or after that commencement.
 
-(2)       The amendments made by items 17, 103 and 107 of this Schedule apply on and after the commencement of those items to:
+(2)        The amendments made by items 17, 103 and 107 of this Schedule apply on and after the commencement of those items to:
 
                      (a)  a federal criminal proceeding in relation to which a notice is given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ on or after that commencement; and
 
@@ -3784,7 +3783,7 @@ whether or not the proceeding begins before or after that commencement.
 
 Notice given before commencement
 
-(3)       The amendments made by this Schedule (other than items 17, 103 and 107) apply on and after the commencement of this item to:
+(3)        The amendments made by this Schedule (other than items 17, 103 and 107) apply on and after the commencement of this item to:
 
                      (a)  a federal criminal proceeding in relation to which a notice was given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before that commencement; and
 
@@ -3792,7 +3791,7 @@ Notice given before commencement
 
 but only to the parts of the proceeding that occur after that commencement (whether or not those parts began before that commencement).
 
-(4)       The amendments made by items 17, 103 and 107 of this Schedule apply on and after the commencement of those items to:
+(4)        The amendments made by items 17, 103 and 107 of this Schedule apply on and after the commencement of those items to:
 
                      (a)  a federal criminal proceeding in relation to which a notice was given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before that commencement; and
 
@@ -3800,7 +3799,7 @@ but only to the parts of the proceeding that occur after that commencement (whet
 
 but only to the parts of the proceeding that occur after that commencement (whether or not those parts began before that commencement).
 
-(5)       If, under section 6 or 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_, a notice was given before the commencement of this item, then:
+(5)        If, under section 6 or 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_, a notice was given before the commencement of this item, then:
 
                      (a)  any orders that were made; and
 
