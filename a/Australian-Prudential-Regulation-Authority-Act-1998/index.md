@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00859/Html/7c096fc3-5080-4d7f-a19e-26319b7896f0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00527/Html/69ed2664-2c1c-4da3-a116-3de336679236_files/image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 24 October 2011
- taking into account amendments up to Act No. 108 of 2011
+This compilation was prepared on 13 July 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1424,7 +1424,7 @@ and, in particular, prescribing penalties, not exceeding 10 penalty units, for o
 
 ### Note 1
 
-The _Australian Prudential Regulation Authority Act 1998_ as shown in this compilation comprises Act No. 50, 1998 amended as indicated in the Tables below.
+The _Australian Prudential Regulation Authority Act 1998_ as shown in this compilation comprises Act No. 50, 1998 amended as indicated in the Tables below. 
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1621,7 +1621,7 @@ provisions</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 53, 54): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    <div>Schedule 10 (items 53, 54): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2008,23 +2008,6 @@ Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011</div>
-  </td>
-  <td>
-    <div>108, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 17–19, 22): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 22)</div>
   </td>
 </tr></table>
 
@@ -3324,47 +3307,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsection.
 
-As at 24 October 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011 (No. 108, 2011)_
-
-The following amendments commence on 1  November 2011 (_see_ F2011L02110):
-
-## Schedule 1
-
-## 17  Paragraphs 50(1)(a) and (b)
-
-Repeal the paragraphs, substitute:
-
-                     (a)  a determination specifying the amount of the levy money payable to the Commonwealth, in respect of levy for that financial year, to cover the costs to the Commonwealth of:
-
-                              (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
-
-                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account;
-
-                     (b)  a determination, in respect of each class of levy for that financial year, specifying the amount of the levy money payable to the Commonwealth in respect of that class of levy for that financial year, to cover the costs to the Commonwealth of:
-
-                              (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
-
-                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account.
-
-Note:          Regulations made under the _Superannuation Industry (Supervision) Act 1993_ and the _Retirement Savings Accounts Act 1997_ provide for the making of determinations about the release of benefits on compassionate grounds.
-
-## 18  Subsection 50(6)
-
-Insert:
-
-                    <a name="retir-save-account"></a>**_retirement savings account_** has the same meaning as in the _Retirement Savings Accounts Act 1997_.
-
-## 19  Subsection 50(6)
-
-Insert:
-
-                    <a name="superannu-entiti"></a>**_superannuation entity_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
-
-As at 24 October 2011 the amendments are not incorporated in this compilation.
+As at 13 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3889,21 +3832,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011 (No. 108, 2011)_
-
-The following provision commences on 1 November 2011 (_see_ F2011L02110):
-
-## Schedule 1
-
-## 22  Application provision—determinations about amount of levy money to cover Commonwealth costs
-
-The amendments made by Part 2 of this Schedule apply to:
-
-                     (a)  the financial year that includes the day this Schedule commences; and
-
-                     (b)  any financial year that commences after this Schedule commences.
 
  
