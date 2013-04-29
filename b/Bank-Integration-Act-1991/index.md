@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00558/Html/BankIntegration91_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00537/Html/BankIntegration91_image001.gif)
 
 # Bank Integration Act 1991
 
 **Act No. 210 of 1991 as amended**
 
-This compilation was prepared on 27 September 2007
- taking into account amendments up to Act No. 143 of 2007
+This compilation was prepared on 26 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -420,7 +420,7 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
 
                      (b)  all allowable deductions and capital losses incurred or taken to be incurred by the transferring bank; and
 
-                     (c)  all other consequences (including the balances of tax losses that are carried forward) for the transferring bank;
+                     (c)  all other consequences (including the balances of tax losses that are carried forward and foreign tax credits) for the transferring bank;
 
 are taken to have been derived or incurred by, or to have occurred in relation to, the receiving bank and not the transferring bank.
 
@@ -977,23 +977,6 @@ of Assent</div>
     <div>Sch. 6 (items 1, 
 5–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2007 Measures No. 4) Act 2007</div>
-  </td>
-  <td>
-    <div>143, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 8, 222, 225, 226): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 222, 225, 226)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Bank Integration Act 1991_ was amended by Schedule 3 (item 6) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
@@ -1068,7 +1051,7 @@ _(d)_ The _Bank Integration Act 1991_ was amended by Schedule 3 (item 79) on
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 39, 1997; No. 101, 2006; No. 143, 2007</div>
+    <div>am. No. 39, 1997; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1180,43 +1163,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-
-* * *
-
-_Tax Laws Amendment (2007 Measures No. 4) Act 2007 (No. 143, 2007)_
-
-## Schedule 1
-
-## 222  Application
-
-Subject to items 223 and 224, the amendments made by this Schedule apply in relation to income years, statutory accounting periods and notional accounting periods starting on or after the first 1 July that occurs after the day on which this Act receives the Royal Assent.
-
-## 225  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 226  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example:    For the 2006-07 income year, Smart Investor Pty Ltd, an Australian resident private investment company, has assessable foreign income in the passive income class on which it has paid foreign tax for which it wishes to claim a foreign tax credit. The company also has a tax loss for the year from its Australian investments. When it lodges its tax return for the year it does not elect to claim a deduction for any of the tax loss under section 79DA of the ITAA 1936, because the Australian tax payable on its passive foreign income equals the foreign tax it has paid.
-
-                   In 2009 the amount of foreign tax payable in respect of some foreign rental income it had included in its return for the 2006-07 year is reduced and Smart Investor receives a refund of the difference in foreign tax. Smart Investor Pty Ltd then applies to be able to make an election under section 79DA, that is, after the _Tax Laws Amendment (2007 Measures No. 4) Act 2007_ (which repeals section 79DA) receives Royal Assent. The Commissioner allows Smart Investor to submit an election to claim a deduction for so much of its 2006-07 tax loss as to reduce the amount of Australian tax payable on its 2006-07 assessable foreign income to the revised foreign tax paid, by the end of 2009.
-
-                   Despite the repeal of section 79DA, item 226 allows the Commissioner to permit an election to be lodged after the return for 2006-07 has been lodged, and to amend Smart Investor’s assessment for that year, because these actions relate to a thing done, and periods ending, before the repeal of section 79DA applies.
 
  
