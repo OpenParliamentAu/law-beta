@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00639/Html/be53cc4a-ef5f-47ff-9545-4785a079c8ae_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00469/Html/d89a3a9b-c098-4cb6-8663-e2a2316660f9_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 12 August 2011
- taking into account amendments up to Act No. 88 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1230,7 +1230,7 @@ Note:          If this Act is amended by one or more other Act
 
 (b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
-                   This Act continues to apply in Western Aust  ralia in relation to exnuptial children as if those amendments had not been made.
+                   This Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made.
 
              (6)  Nothing in this section affects the operation of the provisions of this Act to the extent that they give effect to an international maintenance arrangement.
 
@@ -1341,18 +1341,6 @@ Note:          See sections 20 and 33A of the _Acts Interpre
              (1)  The Registrar may, in writing, delegate all or any of the Registrar’s powers or functions under this Act to an officer or employee of the Department.
 
           (1A)  The Registrar may, in writing, delegate all or any of his or her powers or functions under this Act to the Chief Executive Centrelink.
-
-          (1B)  Without limiting subsection (1) or (1A), the Registrar may, in writing, delegate all or any of his or her powers or functions under this Act to a person engaged (whether as an employee or otherwise) by:
-
-                     (a)  the Registrar; or
-
-                     (b)  an Agency (within the meaning of the _Public Service Act 1999_); or
-
-                     (c)  another authority of the Commonwealth; or
-
-                     (d)  an organisation that performs services for the Commonwealth.
-
-          (1C)  Any information provided to a person as a result of a delegation by the Registrar under subsection (1B) must be retained, processed and stored in Australia at all times and must not in any way be transmitted outside Australia.
 
              (2)  A delegation may be made subject to a power of review and alteration by the Registrar, within a period specified in the instrument of delegation, of acts done under the delegation.
 
@@ -2661,7 +2649,7 @@ Note:          Section 16A provides for the Registrar to spe
 
              (2)  A debt due under this section is recoverable by the payee from the payer in a court of competent jurisdiction.
 
-##### <a id="39"></a>39  Application for variation to enable liability to again become enforceable under Act
+##### <a id="39"></a>39  Application for variation to enable liability to again become enforceable under Act
 
              (1)  If a registered maintenance liability is not enforceable under this Act because of an election made under section 38A or a decision by the Registrar under section 38B, the payee may apply to the Registrar for the liability to again become enforceable under this Act.
 
@@ -3069,31 +3057,21 @@ the Registrar shall forthwith give a notice in writing to the employer to whom t
 
              (3)  Where the Registrar gives a notice under subsection (1), (2) or (2A) to an employer in relation to the payer of an enforceable maintenance liability, the Registrar shall forthwith give a copy of the notice to the payer.
 
-##### <a id="46"></a>46  Duty of employer to make deductions from salary or wages
+##### <a id="46"></a>46  Duty of employer to make deductions from salary or wages
 
              (1)  Subject to this section, where an employer pays salary or wages to an employee in relation to whom a notice given to the employer under subsection 45(1) is in force, the employer shall, at the time of paying the salary or wages, make a deduction from the salary or wages in accordance with this section.
 
+                    Penalty:  $1,000.
+
+          (1A)  Subsection (1) is an offence of strict liability.
+
              (2)  Subject to subsection (4), the amount of the deduction is the amount ascertained by applying the weekly deduction rate specified in the notice to the period in relation to which the salary or wages are paid.
 
-             (4)  Where the amount of the salary or wages exceeds the amount of the deduction that would, but for this subsection, be required to be made from the salary or wages by less than the amount (the **_protected earnings amount_**) ascertained by applying the protected earnings rate to the period in relation to which the salary or wages are paid, the amount of the deduction is the amount by which the amount of the salary or wages exceeds the protected earnings amount.
+             (3)  Where the amount of the salary or wages is less than the amount (in subsection (4) called the **_protected earnings amount_**) ascertained by applying the protected earnings rate to the period in relation to which the salary or wages are paid, no deduction shall be made.
 
-          (4A)  An employer commits an offence if:
+             (4)  Where the amount of the salary or wages exceeds the amount of the deduction that would, but for this subsection, be required to be made from the salary or wages by less than the protected earnings amount, the amount of the deduction is the amount by which the amount of the salary or wages exceeds the protected earnings amount.
 
-                     (a)  the employer is required to make a deduction under subsection (1) in relation to an employee; and
-
-                     (b)  the employer refuses or fails to make the deduction.
-
-                    Penalty:  10 penalty units.
-
-          (4B)  Subsection (4A) does not apply if the amount of the employee’s salary or wages is less than the protected earnings amount.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4B) (see subsection 13.3(3) of the _Criminal Code_).
-
-          (4C)  An offence against subsection (4A) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (5)  Where a person (in this subsection called the **_convicted person_**) is convicted before a court of an offence against subsection (4A) in relation to the refusal or failure of the convicted person or another person to make a deduction from salary or wages in accordance with this section, the court may, in addition to imposing a penalty on the convicted person, order the convicted person to pay to the Registrar, as a debt due to the Commonwealth, an amount not exceeding the amount of the deduction.
+             (5)  Where a person (in this subsection called the **_convicted person_**) is convicted before a court of an offence against subsection (1) in relation to the refusal or failure of the convicted person or another person to make a deduction from salary or wages in accordance with this section, the court may, in addition to imposing a penalty on the convicted person, order the convicted person to pay to the Registrar, as a debt due to the Commonwealth, an amount not exceeding the amount of the deduction.
 
              (6)  For the purposes of this section, where an employer pays an amount of salary or wages to an employee, then:
 
@@ -3113,7 +3091,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (7)  Where salary or wages for a week or part of a week is or are paid by an employer in 2 or more separate amounts, all the amounts shall, for the purposes of this section, be aggregated, and the employer may make the deduction wholly from one amount or partly from 2 or more amounts.
 
-             (8)  For the purposes of subsections (4) and (4B), the amount of any salary or wages shall be taken to be the amount of the salary or wages after amounts (if any) that are required to be withheld from the salary or wages under Part 2‑5 in Schedule 1 to the _Taxation Administration Act 1953_ have been withheld.
+             (8)  For the purposes of subsections (3) and (4), the amount of any salary or wages shall be taken to be the amount of the salary or wages after amounts (if any) that are required to be withheld from the salary or wages under Part 2‑5 in Schedule 1 to the _Taxation Administration Act 1953_ have been withheld.
 
              (9)  Subsection (1) has, and is taken to have had, no effect to the extent (if any) that it is inconsistent with paragraph 72(iii) or 103(iii) of the Constitution.
 
@@ -3125,6 +3103,8 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  give notice to the Registrar in the manner specified by the Registrar.
 
+                    Penalty:  $5,000 or imprisonment for 12 months, or both.
+
 Note:          Section 16A provides for the Registrar to specify the manner in which a notice may be given.
 
           (1A)  Where:
@@ -3135,6 +3115,8 @@ Note:          Section 16A provides for the Registrar to spe
 
 the employer must, not later than the seventh day of the following month, give to the Registrar notice in the manner specified by the Registrar.
 
+                    Penalty:  $1,000.
+
              (2)  When an employer makes a payment of salary or wages to an employee in relation to whom a notice given to the employer under subsection 45(1) is in force, the employer shall notify the employee, in writing:
 
                      (a)  of the amount of the deduction made under this Part from the salary or wages; or
@@ -3143,35 +3125,13 @@ the employer must, not later than the seventh day of the following month, give t
 
 as the case requires.
 
+                    Penalty:  $1,000.
+
              (3)  Where, in any month, an employee in relation to whom a notice given to an employer under subsection 45(1) is in force ceases to be an employee of the employer, the employer shall, not later than the seventh day of the following month, notify the Registrar in the manner specified by the Registrar.
 
-          (3A)  An employer commits an offence if:
+                    Penalty:  $500.
 
-                     (a)  the employer is subject to a requirement under subsection (1); and
-
-                     (b)  the employer refuses or fails to comply with the requirement.
-
-                    Penalty:  50 penalty units, or 12 months imprisonment, or both.
-
-          (3B)  An employer commits an offence if:
-
-                     (a)  the employer is subject to a requirement under subsection (1A) or (2); and
-
-                     (b)  the employer refuses or fails to comply with the requirement.
-
-                    Penalty:  10 penalty units.
-
-          (3C)  An employer commits an offence if:
-
-                     (a)  the employer is subject to a requirement under subsection (3); and
-
-                     (b)  the employer refuses or fails to comply with the requirement.
-
-                    Penalty:  5 penalty units.
-
-          (3D)  An offence against subsection (3B) or (3C) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+          (3A)  Subsections (1A), (2) and (3) are offences of strict liability.
 
              (4)  The Registrar may, by notice in writing served on an employer, vary in relation to the employer, in such instances and to such extent as the Registrar thinks fit, any of the requirements of subsections (1), (1A), (2) and (3).
 
@@ -3399,31 +3359,21 @@ must not, directly or indirectly, divulge or communicate to a second person any 
 
                      (b)  retain those records for a period of 5 years.
 
-             (2)  An employer who is required by subsection (1) to keep records must keep the records:
+             (2)  The records shall be kept:
 
                      (a)  in writing in the English language or so as to enable the records to be readily accessible and convertible into writing in the English language; and
 
                      (b)  so as to enable the matters and acts referred to in paragraph (1)(a) to be readily ascertained.
 
-             (3)  An employer commits an offence if:
+             (3)  Nothing in this section shall be taken to require a person to retain records where:
 
-                     (a)  the employer is subject to a requirement under subsection (1) or (2); and
+                     (a)  the Registrar has notified the person that retention of the records is not required; or
 
-                     (b)  the employer refuses or fails to comply with the requirement.
+                     (b)  the person is a company that has gone into liquidation and has been finally dissolved.
 
-                    Penalty:  20 penalty units.
+             (4)  Subsections (1) and (2) are offences of strict liability.
 
-             (4)  Subsection (3) does not apply if:
-
-                     (a)  the Registrar has notified the employer that the retention of records under subsection (1) is not required; or
-
-                     (b)  the employer is a company that has gone into liquidation and has been finally dissolved.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (5)  An offence against subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+                    Penalty:  $2,000.
 
 ##### <a id="60"></a>60  Incorrectly keeping records etc.
 
@@ -3705,7 +3655,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00639/Html/be53cc4a-ef5f-47ff-9545-4785a079c8ae_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00469/Html/d89a3a9b-c098-4cb6-8663-e2a2316660f9_files/image002.gif)
 
 where:
 
@@ -3713,7 +3663,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2011C00639/Html/be53cc4a-ef5f-47ff-9545-4785a079c8ae_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00469/Html/d89a3a9b-c098-4cb6-8663-e2a2316660f9_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -4587,17 +4537,9 @@ is not admissible in evidence against the individual in any criminal proceedings
 
 the person must give a copy of the certificate to an authorised officer for inspection, if requested to do so by the authorised officer.
 
-             (2)  A person commits an offence if:
+                    Maximum penalty: 5 penalty units.
 
-                     (a)  an authorised officer requests under subsection (1) that the person give a copy of a departure authorisation certificate to the officer; and
-
-                     (b)  the person refuses or fails to comply with the request.
-
-                    Penalty:  5 penalty units.
-
-             (3)  An offence against subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  Strict liability, within the meaning of section 6.1 of the _Criminal Code_, applies to subsection (1).
 
 ### Division 7—Definitions etc.
 
@@ -4863,7 +4805,7 @@ of Part VIII of this Act.</li>
 
 * * *
 
-##### <a id="79E"></a>79E  Object of this Part
+##### <a id="79E"></a>79E  Object of this Part
 
                    The object of this Part is to provide for internal reconsideration of decisions of the Registrar before the decisions may be reviewed by the SSAT under Part VIIA.
 
@@ -6988,19 +6930,19 @@ the decision or prevent the taking of any action to implement the decision.</li>
 
 final, the Registrar must implement the decision.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person might commit an offence
+<li class="BoxList" style="margin-left:21.25pt">•      A person might commit an
 
-if the person publishes an account of a proceeding, or a list of proceedings,
+offence if the person publishes an account of a proceeding, or a list of
 
-under Part VIIA or Division 3 of Part VIII that identifies a
+proceedings, under Part VIIA or Division 3 of Part VIII that
 
-witness or party.</li>
+identifies a witness or party.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Division 5 modifies
 
-the application of the _Administrative Appeals Tribunal Act 1975_ to applications
+the application of the _Administrative Appeals Tribunal Act 1975_ to
 
-for review under subsection 103VA(1) of this Act.</li>
+applications for review under subsection 103VA(1) of this Act.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The date of effect of
 
@@ -7790,15 +7732,11 @@ that the statement to which the prosecution relates was false or misleading.
 
              (1)  Where:
 
-                     (a)  a person is convicted before a court of an offence against:
+                     (a)  a person is convicted before a court of an offence against paragraph 47(1)(b) or subsection 120(3); or
 
-                              (i)  subsection 47(3A) in relation to the refusal or failure of the person to comply, in whole or in part, with the requirement under paragraph 47(1)(b); or
+                     (b)  a court makes an order under section 19B of the _Crimes Act 1914_ in relation to a person in relation to an offence against paragraph 47(1)(b) or subsection 120(3);
 
-                             (ii)  subsection 120(3) in relation to the refusal or failure of the person to comply, in whole or in part, with a requirement referred to in that subsection; or
-
-                     (b)  a court makes an order under section 19B of the _Crimes Act 1914_ in relation to a person in relation to such an offence;
-
-the court may, in addition to imposing a penalty on the person or making such an order in relation to the person, as the case may be, and even though the time for complying with the requirement or any other such requirement has passed, order the person to comply with:
+in relation to the refusal or failure of the person to comply (whether in whole or in part) with a requirement made by or under this Act, the court may, in addition to imposing a penalty on the person or making such an order in relation to the person, as the case may be, and even though the time for complying with the requirement or any other such requirement has passed, order the person to comply with:
 
                      (c)  the requirement; and
 
@@ -8971,40 +8909,6 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 334–348) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Child Support (Registration and Collection) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>88, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>5 Aug 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -9783,7 +9687,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 124, 1989; No. 29, 1997; No. 146, 1999; No. 75, 2001; Nos. 32 and 88, 2011</div>
+    <div>am. No. 124, 1989; No. 29, 1997; No. 146, 1999; No. 75, 2001; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10536,7 +10440,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 216, 1991; No. 179, 1999; No. 137, 2001; No. 88, 2011</div>
+    <div>am. No. 216, 1991; No. 179, 1999; No. 137, 2001</div>
   </td>
 </tr>
 <tr>
@@ -10544,7 +10448,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 163, 1989; No. 120, 1998; No. 137, 2001; No. 88, 2011</div>
+    <div>am. No. 163, 1989; No. 120, 1998; No. 137, 2001</div>
   </td>
 </tr>
 <tr>
@@ -10632,7 +10536,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 84, 1997; No. 137, 2001; No. 88, 2011</div>
+    <div>am. No. 84, 1997; No. 137, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11149,26 +11053,10 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
 </tr>
 <tr>
   <td>
-    <div>Ss. 72U, 72V</div>
+    <div>Ss. 72U–72W</div>
   </td>
   <td>
     <div>ad. No. 75, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72W</div>
-  </td>
-  <td>
-    <div>ad. No. 75, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 88, 2011</div>
   </td>
 </tr>
 <tr>
@@ -13216,7 +13104,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 121</div>
   </td>
   <td>
-    <div>am. No. 124, 1989; No. 137, 2001; No. 88, 2011</div>
+    <div>am. No. 124, 1989; No. 137, 2001</div>
   </td>
 </tr>
 <tr>
@@ -13251,76 +13139,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>am. No. 82, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 334  Subsection 4(1) (definition of _closing day_)
-
-Omit “month” (wherever occurring), substitute “calendar month”.
-
-## 335  Subsection 4(1) (definition of _month_)
-
-Repeal the definition.
-
-## 336  Subsection 26A(3) (example)
-
-Omit “month”, substitute “calendar month or a month”.
-
-## 337  Subsection 26B(4) (example 2)
-
-Omit “calendar”.
-
-## 338  Subsection 44(10)
-
-Omit “one month”, substitute “one calendar month or one month”.
-
-## 339  Section 47
-
-Omit “month” (wherever occurring), substitute “calendar month”.
-
-## 340  Paragraphs 53(a), (b) and (c)
-
-Omit “month”, substitute “calendar month”.
-
-## 341  Subsection 65A(3) (example 2)
-
-Omit “calendar”.
-
-## 342  Subsection 66(1)
-
-Omit “month”, substitute “calendar month”.
-
-## 343  Subsection 67(1AA)
-
-Omit “month”, substitute “calendar month”.
-
-## 344  Subsection 71AA(4) (example)
-
-Omit “month” (wherever occurring), substitute “calendar month”.
-
-## 345  Subsection 76(1)
-
-Omit “each month”, substitute “each calendar month”.
-
-## 346  Paragraph 76(1)(a)
-
-Omit “the month”, substitute “the calendar month”.
-
-## 347  Paragraphs 77(a) and (b)
-
-Omit “month”, substitute “calendar month”.
-
-## 348  Section 78
-
-Omit “month” (wherever occurring), substitute “calendar month”.
-
-As at 12 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -13936,7 +13754,7 @@ then the Assessment Act and the Registration and Collection Act, as in force imm
 
 ## 74  Registrar to review all agreements
 
-(1)       Before 1 July 2008, the Registrar must:
+(1)       Before 1 July  2008, the Registrar must:
 
                      (a)  review every child support agreement made before that day that will be in force:
 
@@ -14475,21 +14293,5 @@ To avoid doubt, section 72AD of the _Child Support (Registration and Collectio
                      (b)  a debt of a kind referred to in subparagraph (1)(b)(ii) of that section;
 
 that existed immediately before the commencement of this item in the same way that it applies to such a liability or debt that comes into existence after that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
