@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00336/Html/d0cf77b2-abef-49cf-ab5d-8a03c8fc4b66_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00130/Html/8af645be-5c7d-4811-90e2-a3df555c4901_files/image001.gif)
 
 # International Transfer of Prisoners Act 1997
 
 **Act No. 75 of 1997 as amended**
 
-This compilation was prepared on 5 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 March 2011
+ taking into account amendments up to Act No. 3 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1014,7 +1014,7 @@ Note:       See, for example, subsection 19AZD (3) of the _Crimes Ac
 
                    The Attorney‑General may delegate in writing all or any of the Attorney‑General’s powers under this Act or the regulations to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an SES employee, or acting SES employee, in the Department.
 
@@ -1126,7 +1126,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 5 June 2002 ( <i>see Gazette</i>2002, No. GN22)</div>
+Remainder: 5 June 2002 ( <i>see Gazette</i>2002, No. GN22)</div>
   </td>
   <td>
     <div></div>
@@ -1160,7 +1160,7 @@ Remainder: 5 June 2002 ( <i>see Gazette</i>2002, No. GN22)</div>
     <div>19 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 3 (items 24–26): 16 Jan 2003</div>
+    <div>Schedule 3 (items 24–26): 16 Jan 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -1212,23 +1212,6 @@ Remainder: 5 June 2002 ( <i>see Gazette</i>2002, No. GN22)</div>
   </td>
   <td>
     <div>Schedule 2 (item 24): 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 80): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1331,7 +1314,7 @@ _(a)_ The _International Transfer of Prisoners Act 1997_ was amended by Schedule
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
