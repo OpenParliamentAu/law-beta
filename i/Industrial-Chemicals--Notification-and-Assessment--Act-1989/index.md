@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00553/Html/IndCheNotAss1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00529/Html/IndCheNotAss1989_WD02_image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 17 September 2007
+This compilation was prepared on 24 August 2007
  taking into account amendments up to Act No. 134 of 2007
 
 The text of any of those amendments not in force
@@ -18,581 +18,575 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects of Act
+[3](#3).            Object of Act                                                                                       1
 
-[4](#4).            Additional operation of Act
+[4](#4).            Additional operation of Act                                                                2
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                       2
 
-[6](#6).            Meaning of chemical
+[6](#6).            Meaning of chemical                                                                          13
 
-[7](#7).            Meaning of industrial chemical
+[7](#7).            Meaning of industrial chemical                                                          14
 
-[7A](#7A).         Meaning of value of relevant industrial chemicals etc 
+[7A](#7A).         Meaning of value of relevant industrial chemicals etc                       16
 
-[8](#8).            Application of Act
+[8](#8).            Application of Act                                                                            17
 
-[9](#9).            Act to bind Crown
+[9](#9).            Act to bind Crown                                                                             17
 
-[10](#10).          Relationship to other Commonwealth laws etc 
+[10](#10).          Relationship to other Commonwealth laws etc                                 17
 
-[10AA](#10AA).    Application of _Criminal Code_
+[10AA](#10AA).    Application of _Criminal Code_                                                           17
 
-[10A](#10A).       Consultation with Gene Technology Regulator
+[10A](#10A).       Consultation with Gene Technology Regulator                                17
 
-[10B](#10B).       Director may seek advice about classes of GM products
+[10B](#10B).       Director may seek advice about classes of GM products                 18
 
-[10C](#10C).       Director to take advice into account
+[10C](#10C).       Director to take advice into account                                                  19
 
 **Part 2—Australian Inventory of Chemical Substances** 
 
     **Division 1—Keeping of Inventory**
 
-[11](#11).          Inventory
+[11](#11).          Inventory                                                                                           20
 
-[12](#12).          Content of Inventory
+[12](#12).          Content of Inventory                                                                         20
 
-[13](#13).          Conditions of use etc  of, and other information about, chemicals
+[13](#13).          Conditions of use etc  of, and other information about, chemicals    21
 
-[13A](#13A).       Director to notify of inclusion or variation of particulars
+[13A](#13A).       Director to notify of inclusion or variation of particulars                 22
 
-[13B](#13B).       Inclusion of new industrial chemical in non-confidential section of Inventory before 5 years
+[13B](#13B).       Inclusion of new industrial chemical in non-confidential section of Inventory before 5 years                23
 
-[14](#14).          Inclusion of new industrial chemical in Inventory after 5 years
+[14](#14).          Inclusion of new industrial chemical in Inventory after 5 years        24
 
-[15](#15).          Inventory to be publicly available
+[15](#15).          Inventory to be publicly available                                                     25
 
-[15A](#15A).       Offence for failing to comply with conditions of use etc 
+[15A](#15A).       Offence for failing to comply with conditions of use etc                  25
 
     **Division 2—Confidential Section of Inventory**
 
-[16](#16).          Confidential section
+[16](#16).          Confidential section                                                                           27
 
-[17](#17).          Holder of a confidence
+[17](#17).          Holder of a confidence                                                                       27
 
-[18](#18).          Effect of inclusion in confidential section
+[18](#18).          Effect of inclusion in confidential section                                          27
 
-[18A](#18A).       Transfer of industrial chemical from non-confidential section to confidential section
+[18A](#18A).       Transfer of industrial chemical from non-confidential section to confidential section            28
 
-[19](#19).          Transfer of industrial chemical from confidential section to non-confidential section
+[19](#19).          Transfer of industrial chemical from confidential section to non-confidential section            29
 
     **Division 3—Amendment of Inventory**
 
-[20](#20).          Amendment of Inventory
+[20](#20).          Amendment of Inventory                                                                  32
 
-[20AA](#20AA).    Chemicals wrongly included in the Inventory
+[20AA](#20AA).    Chemicals wrongly included in the Inventory                                   32
 
-[20AB](#20AB).    Details of trade name products
+[20AB](#20AB).    Details of trade name products                                                          33
 
     **Division 4—Amnesty in respect of Eligible Chemicals**
 
-[20A](#20A).       Object of amnesty
+[20A](#20A).       Object of amnesty                                                                             36
 
-[20B](#20B).       Amnesty period
+[20B](#20B).       Amnesty period                                                                                 36
 
-[20C](#20C).       Who may apply
+[20C](#20C).       Who may apply                                                                                 36
 
-[20D](#20D).       How application is to be made
+[20D](#20D).       How application is to be made                                                          36
 
-[20E](#20E).        Determination of application
+[20E](#20E).        Determination of application                                                             37
 
-[20F](#20F).        Effect of inclusion of chemical in Inventory
+[20F](#20F).        Effect of inclusion of chemical in Inventory                                      37
 
-[20G](#20G).       Effect of refusal of application
+[20G](#20G).       Effect of refusal of application                                                          37
 
 **Part 3—Notification and Assessment of Industrial Chemicals** 
 
     **Division 1—New Industrial Chemicals to be Assessed**
 
-[21](#21).          Introduction of new industrial chemicals
+[21](#21).          Introduction of new industrial chemicals                                           39
 
-[21AA](#21AA).    Annual reporting obligations for introductions under section 21
+[21AA](#21AA).    Annual reporting obligations for introductions under section 21      41
 
-[21AAA](#21AAA). Exempt information supplied under section 21AA
-
-[21AB](#21AB).    List of chemicals and summary of information
+[21AB](#21AB).    List of chemicals exempt under subsections 21(4) and (6)                42
 
     **Division 1A—Commercial Evaluation Permit System**
 
-[21A](#21A).       Object of commercial evaluation permit system
+[21A](#21A).       Object of commercial evaluation permit system                               43
 
-[21B](#21B).       Application for commercial evaluation permit or renewal of permit
+[21B](#21B).       Application for commercial evaluation permit or renewal of permit 43
 
-[21C](#21C).       Joint applications
+[21C](#21C).       Joint applications                                                                              44
 
-[21D](#21D).       Form of application etc 
+[21D](#21D).       Form of application etc                                                                     44
 
-[21E](#21E).        Restrictions on applications
+[21E](#21E).        Restrictions on applications                                                              45
 
-[21F](#21F).        Director may request further information about application
+[21F](#21F).        Director may require applicant etc  to give further information        46
 
-[21G](#21G).       Grant of commercial evaluation permit
+[21G](#21G).       Grant of commercial evaluation permit                                             46
 
-[21H](#21H).       Refusal of application
+[21H](#21H).       Refusal of application                                                                        46
 
-[21J](#21J).        Notice of permit to be published in Chemical Gazette
+[21J](#21J).        Permits—publication in Chemical Gazette                                       47
 
-[21K](#21K).       Duration of commercial evaluation permit
+[21K](#21K).       Duration of commercial evaluation permit                                        47
 
-[21L](#21L).        Conditions of commercial evaluation permit
+[21L](#21L).        Conditions of commercial evaluation permit                                     47
 
-[21M](#21M).      Additional operation of section 21L
+[21M](#21M).      Additional operation of section 21L                                                  49
 
-[21N](#21N).       Cancellation of commercial evaluation permit
+[21N](#21N).       Cancellation of commercial evaluation permit                                   50
 
-[21P](#21P).        Exempt information
+[21P](#21P).        Exempt information                                                                           50
 
     **Division 1B—Low Volume Chemicals Permit System**
 
-[21Q](#21Q).       Object of permit system for low volume chemicals
+[21Q](#21Q).       Object of permit system for low volume chemicals                          51
 
-[21R](#21R).       Who may apply for permit or renewal of permit
+[21R](#21R).       Who may apply for permit or renewal of permit                              51
 
-[21S](#21S).        How application is to be made
+[21S](#21S).        How application is to be made                                                          52
 
-[21SA](#21SA).     Director may request further information about application
+[21SA](#21SA).     Director may request further information about application            53
 
-[21T](#21T).       Applicant may withdraw or amend application
+[21T](#21T).       Applicant may withdraw or amend application                                53
 
-[21U](#21U).       Determination of application
+[21U](#21U).       Determination of application                                                             53
 
-[21V](#21V).       Duration of permit
+[21V](#21V).       Duration of permit                                                                             54
 
-[21W](#21W).      Permit may be subject to conditions
+[21W](#21W).      Permit may be subject to conditions                                                 54
 
-[21X](#21X).       Form of permit
+[21X](#21X).       Form of permit                                                                                  56
 
-[21Y](#21Y).       Notice of permit to be published in Chemical Gazette
+[21Y](#21Y).       Notice of permit to be published in Chemical Gazette                     57
 
-[21Z](#21Z).       Notice of refusal of application
+[21Z](#21Z).       Notice of refusal of application                                                         57
 
-[21ZA](#21ZA).    List of low volume chemicals
+[21ZA](#21ZA).    List of low volume chemicals                                                            57
 
-[21ZB](#21ZB).     Exempt information
+[21ZB](#21ZB).     Exempt information                                                                           57
 
     **Division 1C—Controlled use permit system**
 
-[22A](#22A).       Object of controlled use permit system
+[22A](#22A).       Object of controlled use permit system                                            58
 
-[22B](#22B).       Who may apply for permit or renewal of permit
+[22B](#22B).       Who may apply for permit or renewal of permit                              58
 
-[22C](#22C).       How application is to be made
+[22C](#22C).       How application is to be made                                                          59
 
-[22D](#22D).       Director may request further information about application
+[22D](#22D).       Director may request further information about application            60
 
-[22E](#22E).        Applicant may withdraw or amend application
+[22E](#22E).        Applicant may withdraw or amend application                                60
 
-[22F](#22F).        Determination of application
+[22F](#22F).        Determination of application                                                             60
 
-[22G](#22G).       Duration of permit
+[22G](#22G).       Duration of permit                                                                             61
 
-[22H](#22H).       Permit may be subject to conditions
+[22H](#22H).       Permit may be subject to conditions                                                 61
 
-[22I](#22I).         Offence for contravention of permit
+[22I](#22I).         Offence for contravention of permit                                                  63
 
-[22J](#22J).        Cancellation of permit
+[22J](#22J).        Cancellation of permit                                                                       63
 
-[22K](#22K).       Form of permit
+[22K](#22K).       Form of permit                                                                                  63
 
-[22L](#22L).        Notice of permit to be published in Chemical Gazette
+[22L](#22L).        Notice of permit to be published in Chemical Gazette                     63
 
-[22M](#22M).      Notice of refusal of application
+[22M](#22M).      Notice of refusal of application                                                         64
 
-[22N](#22N).       List of controlled use chemicals
+[22N](#22N).       List of controlled use chemicals                                                         64
 
-[22O](#22O).       Exempt information
+[22O](#22O).       Exempt information                                                                           64
 
     **Division 2—Notification Procedures before Assessment**
 
-[22P](#22P).        Object and overview of assessment certificates
+[22P](#22P).        Object and overview of assessment certificates                                65
 
-[23](#23).          Application for a non-self-assessed assessment certificate for any chemical
+[23](#23).          Application for a non-self-assessed assessment certificate for any chemical          65
 
-[23A](#23A).       Application for a self-assessed assessment certificate for certain chemicals
+[23A](#23A).       Application for a self-assessed assessment certificate for certain chemicals           67
 
-[24](#24).          Variation of requirements of section 23
+[24](#24).          Variation of requirements of section 23                                             68
 
-[24A](#24A).       Variation of requirement for notification statement in case of polymers of low concern
+[24A](#24A).       Variation of requirement for notification statement in case of polymers of low concern        69
 
-[25](#25).          Exempt information about new industrial chemical
+[25](#25).          Exempt information about new industrial chemical                           69
 
-[26](#26).          Withdrawal of application
+[26](#26).          Withdrawal of application                                                                 69
 
-[27](#27).          Director may require further information
+[27](#27).          Director may require further information                                          69
 
-[28](#28).          Applicants to give further information
+[28](#28).          Applicants to give further information                                              70
 
-[29](#29).          Further exempt information
+[29](#29).          Further exempt information                                                               71
 
-[30](#30).          Permits allowing introduction before assessment
+[30](#30).          Permits allowing introduction before assessment                              71
 
-[30A](#30A).       Application for early introduction of non-hazardous chemicals
+[30A](#30A).       Application for early introduction of non-hazardous chemicals       73
 
-[30AA](#30AA).    Dual applications for introduction permits
+[30AA](#30AA).    Dual applications for introduction permits                                       74
 
-[30B](#30B).       Exempt information about early introduction
+[30B](#30B).       Exempt information about early introduction                                   75
 
-[30C](#30C).       Revocation of permit
+[30C](#30C).       Revocation of permit                                                                         75
 
     **Division 3—Assessment, self-assessment and reports**
 
-[31](#31).          Assessment of chemical
+[31](#31).          Assessment of chemical                                                                     76
 
-[31A](#31A).       Time periods for applications for non-self-assessed assessment certificates under section 23
+[31A](#31A).       Time periods for applications for non-self-assessed assessment certificates under section 23              76
 
-[31B](#31B).       Time periods for applications for self-assessed assessment certificates under section 23A
+[31B](#31B).       Time periods for applications for self-assessed assessment certificates under section 23A   77
 
-[32](#32).          Nature of non-self-assessed assessment
+[32](#32).          Nature of non-self-assessed assessment                                            78
 
-[33](#33).          Contents of non-self-assessed assessment report
+[33](#33).          Contents of non-self-assessed assessment report                             79
 
-[33A](#33A).       Nature of self-assessed assessment
+[33A](#33A).       Nature of self-assessed assessment                                                   80
 
-[33B](#33B).       Contents of self-assessed assessment report
+[33B](#33B).       Contents of self-assessed assessment report                                    80
 
-[33C](#33C).       Moving from the self-assessed system to the non-self-assessed system
+[33C](#33C).       Moving from the self-assessed system to the non-self-assessed system                81
 
-[34](#34).          Full public report
+[34](#34).          Full public report                                                                               82
 
-[35](#35).          Summary report
+[35](#35).          Summary report                                                                                 82
 
-[36](#36).          Notice to applicant on completing report
+[36](#36).          Notice to applicant on completing report                                         82
 
-[37](#37).          Application for variation of assessment report
+[37](#37).          Application for variation of assessment report                                 83
 
-[38](#38).          Publication of report
+[38](#38).          Publication of report                                                                          83
 
-[39](#39).          Giving of assessment certificates
+[39](#39).          Giving of assessment certificates                                                       85
 
-[40](#40).          Application for variation of full public report
+[40](#40).          Application for variation of full public report                                  85
 
     **Division 3A—Extension of original assessment certificates**
 
-[40A](#40A).       Application for extension of original assessment certificate to cover other importers or manufacturers
+[40A](#40A).       Application for extension of original assessment certificate to cover other importers or manufacturers                87
 
-[40B](#40B).       Requests for additional information
+[40B](#40B).       Requests for additional information                                                  88
 
-[40C](#40C).       Applicants to give further information
+[40C](#40C).       Applicants to give further information                                              88
 
-[40D](#40D).       Exempt information
+[40D](#40D).       Exempt information                                                                           89
 
-[40E](#40E).        Director to prepare modifications of original assessment report
+[40E](#40E).        Director to prepare modifications of original assessment report      89
 
-[40F](#40F).        Variation of additional information
+[40F](#40F).        Variation of additional information                                                    90
 
-[40G](#40G).       Publication of modifications
+[40G](#40G).       Publication of modifications                                                              90
 
-[40H](#40H).       Extensions of original assessment certificate
+[40H](#40H).       Extensions of original assessment certificate                                     91
 
-[40J](#40J).        Withdrawal of application
+[40J](#40J).        Withdrawal of application                                                                 91
 
     **Division 3B—Obligations relating to certain permits and self-assessed assessment certificates**
 
-[40K](#40K).       Record keeping requirements
+[40K](#40K).       Record keeping requirements                                                             92
 
-[40L](#40L).        Director may obtain information and documents
+[40L](#40L).        Director may obtain information and documents                              92
 
-[40M](#40M).      Self-incrimination
+[40M](#40M).      Self-incrimination                                                                               93
 
-[40N](#40N).       Annual reports
+[40N](#40N).       Annual reports                                                                                   94
 
     **Division 4—Effect of Other Notification Schemes**
 
-[41](#41).          Approved State and Territory notification procedures
+[41](#41).          Approved State and Territory notification procedures                     95
 
-[42](#42).          Exempt information given under section 41
+[42](#42).          Exempt information given under section 41                                      96
 
-[43](#43).          Approved foreign scheme
+[43](#43).          Approved foreign scheme                                                                  96
 
-[44](#44).          Chemical notified and assessed under approved foreign scheme
+[44](#44).          Chemical notified and assessed under approved foreign scheme       97
 
-[45](#45).          Exempt information given under section 44
+[45](#45).          Exempt information given under section 44                                      98
 
-[46](#46).          Interim Notification Scheme
+[46](#46).          Interim Notification Scheme                                                              98
 
     **Division 5—Priority Existing Chemicals** 
 
         **Subdivision A—Application**
 
-[47](#47).          Application of Division
+[47](#47).          Application of Division                                                                   100
 
         **Subdivision B—Information for decision on recommendation**
 
-[48](#48).          Information about use and introduction of chemicals
+[48](#48).          Information about use and introduction of chemicals                      100
 
-[50](#50).          Exempt information supplied under section 48
+[50](#50).          Exempt information supplied under section 48                               101
 
-[50A](#50A).       Summary of information given under section 48
+[50A](#50A).       Summary of information given under section 48                             101
 
         **Subdivision C—Declaration of priority existing chemicals**
 
-[50B](#50B).       Recommendation of declaration of priority existing chemical
+[50B](#50B).       Recommendation of declaration of priority existing chemical         102
 
-[51](#51).          Declaration of priority existing chemicals
+[51](#51).          Declaration of priority existing chemicals                                       103
 
-[54](#54).          List of priority existing chemicals
+[54](#54).          List of priority existing chemicals                                                   104
 
         **Subdivision D—Assessment of priority existing chemicals**
 
-[55](#55).          Applications for assessment of priority existing chemicals
+[55](#55).          Applications for assessment of priority existing chemicals            105
 
-[56](#56).          Introduction of priority existing chemicals
+[56](#56).          Introduction of priority existing chemicals                                      105
 
-[57](#57).          Assessment of priority existing chemical
+[57](#57).          Assessment of priority existing chemical                                        105
 
-[58](#58).          Obtaining information for assessment
+[58](#58).          Obtaining information for assessment                                             106
 
-[59](#59).          Time for compliance with varied notice
+[59](#59).          Time for compliance with varied notice                                          108
 
-[60](#60).          Exempt information about priority existing chemical
+[60](#60).          Exempt information about priority existing chemical                      108
 
-[60A](#60A).       Nature of assessment
+[60A](#60A).       Nature of assessment                                                                       108
 
-[60B](#60B).       Contents of assessment reports
+[60B](#60B).       Contents of assessment reports                                                      109
 
-[60C](#60C).       Draft assessment report
+[60C](#60C).       Draft assessment report                                                                  110
 
-[60D](#60D).       Checking draft assessment report for errors
+[60D](#60D).       Checking draft assessment report for errors                                    110
 
-[60E](#60E).        Variation of draft assessment report
+[60E](#60E).        Variation of draft assessment report                                               110
 
-[60F](#60F).        Publication of final assessment report
+[60F](#60F).        Publication of final assessment report                                             111
 
-[61](#61).          Prohibition of priority existing chemical until assessment complete
+[61](#61).          Prohibition of priority existing chemical until assessment complete 112
 
-[62](#62).          Publication of final assessment report revokes declaration
+[62](#62).          Publication of final assessment report revokes declaration             114
 
-[63](#63).          Removal of priority existing chemical from Inventory
+[63](#63).          Removal of priority existing chemical from Inventory                    114
 
     **Division 6—Secondary Notification after Assessment**
 
-[64](#64).          Introducer to notify Director of certain matters
+[64](#64).          Introducer to notify Director of certain matters                              115
 
-[65](#65).          Secondary notification
+[65](#65).          Secondary notification                                                                     116
 
-[66](#66).          Exempt information about chemicals subject to secondary notification
+[66](#66).          Exempt information about chemicals subject to secondary notification  117
 
-[67](#67).          Failure to comply with secondary notification requirements
+[67](#67).          Failure to comply with secondary notification requirements          117
 
-[68](#68).          Assessment of new industrial chemical of which secondary notification required
+[68](#68).          Assessment of new industrial chemical of which secondary notification required  118
 
-[68A](#68A).       Assessment of existing chemicals of which secondary notification required
+[68A](#68A).       Assessment of existing chemicals of which secondary notification required           119
 
-[69](#69).          Obtaining information for purposes of assessment
+[69](#69).          Obtaining information for purposes of assessment                         120
 
-[70](#70).          Variation of assessment certificate on secondary notification
+[70](#70).          Variation of assessment certificate on secondary notification         121
 
-[71](#71).          List of chemicals requiring secondary notification
+[71](#71).          List of chemicals requiring secondary notification                          121
 
-[72](#72).          Revocation of requirement for secondary notification
+[72](#72).          Revocation of requirement for secondary notification                    121
 
     **Division 7—Assessment Certificates**
 
-[73](#73).          Transfer of assessment certificates
+[73](#73).          Transfer of assessment certificates                                                  122
 
-[74](#74).          Record of assessment certificates
+[74](#74).          Record of assessment certificates                                                    122
 
     **Division 8—Confidentiality**
 
-[75](#75).          Exempt information
+[75](#75).          Exempt information                                                                         124
 
-[76](#76).          Confidentiality by Director etc 
+[76](#76).          Confidentiality by Director etc                                                       124
 
     **Division 9—Access to Assessment Information**
 
-[78](#78).          Full public report etc  to be available
+[77](#77).          Notification of introduction                                                             125
 
-[79](#79).          Disclosure of exempt information in certain circumstances
+[78](#78).          Full public report etc  to be available                                              125
 
-[80](#80).          Notice of disclosure of information
+[79](#79).          Disclosure of exempt information in certain circumstances            125
+
+[80](#80).          Notice of disclosure of information                                                 126
 
 **Part 3A—Registration of introducers of industrial chemicals** 
 
     **Division 1—Preliminary**
 
-[80A](#80A).       Overview of this Part
+[80A](#80A).       Overview of this Part                                                                      127
 
-[80B](#80B).       Person must be registered to introduce relevant industrial chemicals
+[80B](#80B).       Person must be registered to introduce relevant industrial chemicals 127
 
     **Division 2—The Register**
 
-[80C](#80C).       Establishment of Register
+[80C](#80C).       Establishment of Register                                                                128
 
-[80D](#80D).       Content of Register
+[80D](#80D).       Content of Register                                                                          128
 
     **Division 3—Registration**
 
-[80E](#80E).        Applying for new registration
+[80E](#80E).        Applying for new registration                                                         129
 
-[80F](#80F).        Application for new registration
+[80F](#80F).        Application for new registration                                                     129
 
-[80G](#80G).       Grant of application for new registration
+[80G](#80G).       Grant of application for new registration                                        130
 
-[80H](#80H).       Certificate of registration
+[80H](#80H).       Certificate of registration                                                                 130
 
-[80J](#80J).        Registration period
+[80J](#80J).        Registration period                                                                          130
 
-[80K](#80K).       Applying for renewal of registration
+[80K](#80K).       Applying for renewal of registration                                               130
 
-[80KA](#80KA).    Renewal applications made for next year
+[80KA](#80KA).    Renewal applications made for next year                                        131
 
-[80KB](#80KB).    Late renewal applications are subject to a penalty
+[80KB](#80KB).    Late renewal applications are subject to a penalty                          131
 
-[80KC](#80KC).    Director must give notice of renewal decision
+[80KC](#80KC).    Director must give notice of renewal decision                                 132
 
-[80L](#80L).        Withdrawal of application
+[80L](#80L).        Withdrawal of application                                                               132
 
-[80M](#80M).      Time for dealing with applications
+[80M](#80M).      Time for dealing with applications                                                  133
 
-[80N](#80N).       Director may require further information
+[80N](#80N).       Director may require further information                                        133
 
-[80P](#80P).        Cancellation or endorsement of registration in certain cases
+[80P](#80P).        Cancellation or endorsement of registration in certain cases           134
 
-[80Q](#80Q).       Certain registered persons to provide final statements concerning introduction
+[80Q](#80Q).       Certain registered persons to provide final statements concerning introduction     135
 
-[80QA](#80QA).    Assessment of registration charge by Director in respect of certain registered persons
+[80QA](#80QA).    Assessment of registration charge by Director in respect of certain registered persons         135
 
-[80QB](#80QB).    Fresh assessments
+[80QB](#80QB).    Fresh assessments                                                                           136
 
-[80QC](#80QC).    Reconsideration and review of assessments
+[80QC](#80QC).    Reconsideration and review of assessments                                    137
 
-[80QD](#80QD).    Retention of records by certain registered persons
+[80QD](#80QD).    Retention of records by certain registered persons                         138
 
-[80R](#80R).       Transfer of registration
+[80R](#80R).       Transfer of registration                                                                    138
 
     **Division 4—Registration charge**
 
-[80S](#80S).        Registration charge
+[80S](#80S).        Registration charge                                                                           140
 
-[80T](#80T).       Amount of charge
+[80T](#80T).       Amount of charge                                                                            140
 
-[80U](#80U).       Waiver or remission of charge
+[80U](#80U).       Waiver or remission of charge                                                          141
 
     **Division 5—Miscellaneous**
 
-[80W](#80W).      Power of the Director to obtain information
-
-**Part 3B—Standards for cosmetics imported into, or manufactured in, Australia**
-
-[81](#81).          Setting standards
-
-[81A](#81A).       Complying with standards
+[80W](#80W).      Power of the Director to obtain information                                   142
 
 **Part 4—Enforcement** 
 
     **Division 1—Offences, injunctions and charge recovery**
 
-[82](#82).          Knowledge of chemical to which charge relates
+[82](#82).          Knowledge of chemical to which charge relates                               143
 
-[83](#83).          Injunctions
+[83](#83).          Injunctions                                                                                       143
 
-[83A](#83A).       Recovery of registration charge
+[83A](#83A).       Recovery of registration charge                                                       144
 
     **Division 2—Inspectors**
 
-[84](#84).          Appointment of inspectors
+[84](#84).          Appointment of inspectors                                                             145
 
-[85](#85).          Identity cards
+[85](#85).          Identity cards                                                                                   145
 
-[86](#86).          Searches to monitor compliance with Act etc 
+[86](#86).          Searches to monitor compliance with Act etc                                 145
 
-[87](#87).          Offence-related searches and seizures
+[87](#87).          Offence-related searches and seizures                                             146
 
-[88](#88).          Power to require information and documents
+[88](#88).          Power to require information and documents                                  148
 
-[89](#89).          Exempt information given to inspectors
+[89](#89).          Exempt information given to inspectors                                          149
 
 **Part 5—Administration**
 
-[90](#90).          Director
+[90](#90).          Director                                                                                            150
 
-[91](#91).          Functions of Director
+[91](#91).          Functions of Director                                                                      150
 
-[92](#92).          Terms and conditions of appointment of Director
+[92](#92).          Terms and conditions of appointment of Director                          150
 
-[93](#93).          Remuneration of Director
+[93](#93).          Remuneration of Director                                                                150
 
-[94](#94).          Leave of absence of Director
+[94](#94).          Leave of absence of Director                                                           151
 
-[95](#95).          Resignation of Director
+[95](#95).          Resignation of Director                                                                    151
 
-[96](#96).          Termination of appointment of Director
+[96](#96).          Termination of appointment of Director                                         151
 
-[97](#97).          Acting Director
+[97](#97).          Acting Director                                                                                151
 
-[98](#98).          Disclosure of interests of Director
+[98](#98).          Disclosure of interests of Director                                                  152
 
-[99](#99).          Arrangements relating to staff of the Department
+[99](#99).          Arrangements relating to staff of the Department                           152
 
-[100](#100).        Arrangements relating to staff of Departments
+[100](#100).        Arrangements relating to staff of Departments                               152
 
-[100A](#100A).     Industrial Chemicals Account
+[100A](#100A).     Industrial Chemicals Account                                                          153
 
-[100B](#100B).     Credits to Account
+[100B](#100B).     Credits to Account                                                                          153
 
-[100C](#100C).     Purposes of the Account
+[100C](#100C).     Purposes of the Account                                                                 154
 
 **Part 5A—Information exchange under the Rotterdam Convention** 
 
     **Division 1—Definitions**
 
-[100D](#100D).     Definitions
+[100D](#100D).     Definitions                                                                                       155
 
     **Division 2—Notification of final regulatory action**
 
-[100E](#100E).      Notification of final regulatory action
+[100E](#100E).      Notification of final regulatory action                                             156
 
     **Division 3—Exchange of certain information about industrial chemicals**
 
-[100F](#100F).      Exchange of certain information about industrial chemicals
+[100F](#100F).      Exchange of certain information about industrial chemicals            158
 
     **Division 4—Information gathering**
 
-[100G](#100G).     Director may obtain information and documents
+[100G](#100G).     Director may obtain information and documents                            159
 
-[100H](#100H).     Self-incrimination
+[100H](#100H).     Self-incrimination                                                                             160
 
-[100J](#100J).      Copies of documents
+[100J](#100J).      Copies of documents                                                                       160
 
-[100K](#100K).     Director may retain documents
+[100K](#100K).     Director may retain documents                                                       160
 
 **Part 6—Miscellaneous**
 
-[101](#101).        Legal proceedings not to lie
+[101](#101).        Legal proceedings not to lie                                                             161
 
-[102](#102).        Application for review
+[102](#102).        Application for review                                                                    161
 
-[103](#103).        Statement to accompany notice of decisions
+[103](#103).        Statement to accompany notice of decisions                                   162
 
-[104](#104).        Delegation by Minister
+[104](#104).        Delegation by Minister                                                                    162
 
-[104A](#104A).     Delegation by Director
+[104A](#104A).     Delegation by Director                                                                    163
 
-[105](#105).        Variation of Schedule
+[105](#105).        Variation of Schedule                                                                       163
 
-[106](#106).        International agreements or arrangements on movements of industrial chemicals into or out of Australia
+[106](#106).        International agreements or arrangements on movements of industrial chemicals into or out of Australia             163
 
-[107](#107).        Chemical Gazette
+[107](#107).        Chemical Gazette                                                                             165
 
-[108](#108).        Annual report
+[108](#108).        Annual report                                                                                  165
 
-[109](#109).        Conduct by servants or agents
+[109](#109).        Conduct by servants or agents                                                        165
 
-[110](#110).        Fees
+[110](#110).        Fees                                                                                                  166
 
-[110A](#110A).     Late renewal penalties
+[110A](#110A).     Late renewal penalties                                                                     168
 
-[110B](#110B).     Approved forms may be electronic
+[110B](#110B).     Approved forms may be electronic                                                 169
 
-[110C](#110C).     Chemical Gazette to be publicly available
+[110C](#110C).     Chemical Gazette to be publicly available                                       169
 
-[111](#111).        Regulations
+[111](#111).        Regulations                                                                                      169
 
 **Schedule—Matters to be dealt with in notification statement about chemical** 
 
@@ -606,7 +600,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish a national system of notification and assessment of industrial chemicals, to provide for registration of certain persons proposing to introduce industrial chemicals, to provide for national standards for cosmetics imported into, or manufactured in, Australia, and for related purposes
+## An Act to establish a national system of notification and assessment of industrial chemicals, to provide for registration of certain persons proposing to introduce industrial chemicals, and for related purposes
 
 ## Part 1—Preliminary
 
@@ -622,29 +616,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (3)  If a provision referred to in subsection (2) does not commence under that subsection within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
-##### <a id="3"></a>3  Objects of Act
+##### <a id="3"></a>3  Object of Act
 
-                   The objects of this Act are to provide for:
+                   The object of this Act is to provide for a national system of notification and assessment of industrial chemicals for the purposes of:
 
-                     (a)  a national system of notification and assessment of industrial chemicals for the purposes of:
+                     (a)  aiding in the protection of the Australian people and the environment by finding out the risks to occupational health and safety, to public health and to the environment that could be associated with the importation, manufacture or use of the chemicals; and
 
-                              (i)  aiding in the protection of the Australian people and the environment by finding out the risks to occupational health and safety, to public health and to the environment that could be associated with the importation, manufacture or use of the chemicals; and
+                     (b)  providing information, and making recommendations, about the chemicals to Commonwealth, State and Territory bodies with responsibilities for the regulation of industrial chemicals; and
 
-                             (ii)  providing information, and making recommendations, about the chemicals to Commonwealth, State and Territory bodies with responsibilities for the regulation of industrial chemicals; and
+                     (c)  giving effect to Australia’s obligations under international agreements relating to the regulation of chemicals; and
 
-                            (iii)  giving effect to Australia’s obligations under international agreements relating to the regulation of chemicals; and
+                     (d)  collecting statistics in relation to the chemicals;
 
-                            (iv)  collecting statistics in relation to the chemicals;
-
-                            being a system under which information about the properties and effects of the chemicals is obtained from importers and manufacturers of the chemicals; and
-
-                     (b)  national standards for cosmetics imported into, or manufactured in, Australia and the enforcement of those standards.
+being a system under which information about the properties and effects of the chemicals is obtained from importers and manufacturers of the chemicals.
 
 ##### <a id="4"></a>4  Additional operation of Act
 
-                   Without prejudice to its effect apart from this section, this Act also has, because of this section, the effect it would have if the references to the manufacture of industrial chemicals or cosmetics in Australia were, by express provision, confined to:
+                   Without prejudice to its effect apart from this section, this Act also has, because of this section, the effect it would have if the references to the manufacture of industrial chemicals in Australia were, by express provision, confined to:
 
-                     (a)  the manufacture of those chemicals or cosmetics in Australia:
+                     (a)  the manufacture of those chemicals in Australia:
 
                               (i)  by foreign corporations, within the meaning of paragraph 51(xx) of the Constitution; or
 
@@ -654,7 +644,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iv)  for supply to, or to an authority or instrumentality of, the Commonwealth or a Territory; and
 
-                     (b)  the manufacture of those chemicals or cosmetics in a Territory.
+                     (b)  the manufacture of those chemicals in a Territory.
 
 ##### <a id="5"></a>5  Interpretation
 
@@ -716,14 +706,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  where the regulations prescribe days for those purposes—on any of the prescribed days.
 
-                    <a name="chemic-name"></a>**_chemical name_**, in relation to a chemical, means:
-
-                     (a)  in the case of a pure chemical—the Chemical Abstracts preferred Index Name, or, if such a name is not available, the name used, or to be used, by the International Union for Pure and Applied Chemistry; or
-
-                     (b)  in any other case—a complete description of the chemical;
-
-including, in the case of a biopolymer, a description of the biological source of the biopolymer.
-
                     <a name="commerci"></a>**_commercial_** includes financial.
 
                     <a name="commerci-evalu"></a>**_commercial evaluation_**, in relation to an industrial chemical, means testing the chemical with a view to ascertaining its potential for commercial application.
@@ -734,37 +716,7 @@ including, in the case of a biopolymer, a description of the biological source o
 
                     <a name="control-us-permit"></a>**_controlled use permit_** means a permit under section 22F.
 
-                    <a name="cosmet"></a>**_cosmetic_** means:
-
-                     (a)  a substance or preparation intended for placement in contact with any external part of the human body, including:
-
-                              (i)  the mucous membranes of the oral cavity; and
-
-                             (ii)  the teeth;
-
-                            with a view to:
-
-                            (iii)  altering the odours of the body; or
-
-                            (iv)  changing its appearance; or
-
-                             (v)  cleansing it; or
-
-                            (vi)  maintaining it in good condition; or
-
-                           (vii)  perfuming it; or
-
-                           (viii)  protecting it; or
-
-                     (b)  a substance or preparation prescribed by regulations made for the purposes of this paragraph;
-
-but does not include:
-
-                     (c)  a therapeutic good within the meaning of the _Therapeutic Goods Act 1989_; or
-
-                     (d)  a substance or preparation prescribed by regulations made for the purposes of this paragraph.
-
-Note:          An ingredient or component of a cosmetic could be an industrial chemical.
+                    <a name="cosmet-product"></a><a name="cosmet"></a>**_cosmetic_** has the same meaning as **_cosmetic product_** has in the Trade Practices (Consumer Product Information Standards) (Cosmetics) Regulations 1991.
 
                     <a name="danger-good"></a>**_dangerous good_** has the meaning given by the ADG Code.
 
@@ -774,7 +726,7 @@ Note:          An ingredient or component of a cosmetic could 
 
                     <a name="director"></a>**_Director_** means the Director, National Industrial Chemicals Notification and Assessment Scheme, appointed under section 90.
 
-                    <a name="dispos"></a>**_disposal_**, in relation to a chemical or cosmetic, includes disposal of waste resulting from the manufacture or use of the chemical or cosmetic.
+                    <a name="dispos"></a>**_disposal_**, in relation to a chemical, includes disposal of waste resulting from the manufacture or use of the chemical.
 
                     <a name="elig-chemic"></a>**_eligible chemical_** means an industrial chemical that was eligible to be submitted for inclusion in the Inventory at a time during the period that began on 1 December 1977 and ended on 16 July 1990.
 
@@ -812,7 +764,7 @@ Note:          An ingredient or component of a cosmetic could 
 
                     <a name="gm-product"></a>**_GM product_** has the same meaning as in the _Gene Technology Act 2000_.
 
-                    <a name="handl"></a>**_handling_**, in relation to a chemical or cosmetic, includes transporting the chemical or cosmetic.
+                    <a name="handl"></a>**_handling_**, in relation to a chemical, includes transporting the chemical.
 
                     <a name="hazard-chemic"></a>**_hazardous chemical_** has the meaning prescribed by the regulations.
 
@@ -822,7 +774,7 @@ Note:          An ingredient or component of a cosmetic could 
 
                     <a name="holder-confid"></a>**_holder of a confidence_**, in relation to an industrial chemical, means a person who under section 17 is to be treated as the holder of a confidence about the chemical.
 
-                    <a name="import"></a>**_import_**, in relation to an industrial chemical or a cosmetic, means do an act which constitutes importation of the chemical or cosmetic for the purposes of the _Customs Act 1901_, or would constitute such importation if that Act extended to the external Territories.
+                    <a name="import"></a>**_import_**, in relation to an industrial chemical, means do an act which constitutes importation of the chemical for the purposes of the _Customs Act 1901_, or would constitute such importation if that Act extended to the external Territories.
 
                     <a name="import"></a>**_importer_**, in relation to an industrial chemical, means a person who imports or proposes to import the chemical.
 
@@ -1220,7 +1172,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00553/Html/IndCheNotAss1989_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00529/Html/IndCheNotAss1989_WD02_image002.gif)
 
 where:
 
@@ -1890,7 +1842,7 @@ Note 2:       A person who introduces a new industrial chemical unde
 
              (1)  A person who introduces a new industrial chemical in a registration year under subsection 21(4) or (6) must provide a report to the Director stating:
 
-                     (a)  the chemical name of the chemical that was introduced in the year; and
+                     (a)  the name of the chemical that was introduced in the year; and
 
                      (b)  the volume of the chemical that was introduced in the year.
 
@@ -1914,13 +1866,7 @@ Note 2:       If a person does not provide the report in accordance 
 
 Note:          Because of this subsection, 120 penalty units is the maximum penalty that can be imposed for offences against subsection (4).
 
-##### <a id="21AAA"></a>21AAA  Exempt information supplied under section 21AA
-
-             (1)  A report under section 21AA may be accompanied by an application in the approved form that some or all of the information stated in the report be treated as exempt information under section 75.
-
-             (2)  If a person applies under subsection (1) for the chemical name of a chemical introduced during a registration year to be exempt information, the application must include a trade name of the chemical.
-
-##### <a id="21AB"></a>21AB  List of chemicals and summary of information
+##### <a id="21AB"></a>21AB  List of chemicals exempt under subsections 21(4) and (6)
 
              (1)  The Director must maintain a list of:
 
@@ -1928,23 +1874,7 @@ Note:          Because of this subsection, 120 penalty units i
 
                      (b)  the volume of such chemicals.
 
-             (2)  At least once during the next registration year, the Director must prepare a summary of the information given to the Director under subsection 21AA(1).
-
-             (3)  The summary must:
-
-                     (a)  include any information of a kind that is prescribed by the regulations; and
-
-                     (b)  not contain any exempt information.
-
-             (4)  If:
-
-                     (a)  the Director has refused an application made under section 21AAA for information given as a result of the notice under section 21AA to be treated as exempt information; and
-
-                     (b)  the applicant applies to the Tribunal under section 102 for review of the decision;
-
-the Director must, in spite of subsection (2), delay the preparation of the summary until the application for review has been finalised.
-
-             (5)  When the Director has prepared the summary, he or she must publish the summary in the Chemical Gazette.
+             (2)  At least once during the next registration year, the Director must publish the list in the Chemical Gazette.
 
 ### Division 1A—Commercial Evaluation Permit System
 
@@ -2044,11 +1974,15 @@ Form of paragraph 21B(1)(b) agreement
 
                      (b)  if a person agrees (whether jointly or otherwise) to be bound by the conditions of the permit—another commercial evaluation permit relating to the commercial evaluation by the person (whether jointly or otherwise) of the same chemical will be in force.
 
-##### <a id="21F"></a>21F  Director may request further information about application
+##### <a id="21F"></a>21F  Director may require applicant etc. to give further information
 
-             (1)  The Director may give an applicant, or another person who agrees (jointly or otherwise) to be bound by the conditions of the permit, a written notice requiring the person given the notice to give the Director further information about a matter referred to in subsection 21D(2), or a matter referred to in the application for the renewal of the commercial evaluation permit, within the period specified in the notice.
+                   The Director may refuse to consider an application unless:
 
-             (2)  The notice must specify a period of at least 14 days.
+                     (a)  in any case—the applicant; or
+
+                     (b)  if a person agrees (whether jointly or otherwise) to be bound by the conditions of the permit—that person;
+
+gives the Director such further information about the application as the Director requires.
 
 ##### <a id="21G"></a>21G  Grant of commercial evaluation permit
 
@@ -2084,29 +2018,15 @@ Application to be refused unless quantity of chemical is reasonably needed
 
                             that was false or misleading in a material particular.
 
-Failure to provide further information
-
-       (3AA)  The Director may refuse an application if further information required by the Director under section 21F is not given to the Director within the period specified in the notice requiring that further information.
-
           (3A)  The Director may refuse an application for a renewal of a commercial evaluation permit if the Director is satisfied that the conditions in subsection 21B(2) have not been met.
 
 \[Notification of refusal of application]
 
              (4)  If the Director refuses an application, the Director must give written notice of the refusal to the applicant.
 
-##### <a id="21J"></a>21J  Notice of permit to be published in Chemical Gazette
+##### <a id="21J"></a>21J  Permits—publication in Chemical Gazette
 
-                   As soon as practicable after a commercial evaluation permit is issued, the Director must cause to be published in the Chemical Gazette a notice stating that the permit has been issued and setting out:
-
-                     (a)  the name of the holder, or holders, of the permit; and
-
-                     (b)  either:
-
-                              (i)  a trade name of the chemical; or
-
-                             (ii)  the chemical name of the chemical; and
-
-                     (c)  the period of the permit.
+                   If the Director grants a commercial evaluation permit, the Director must publish in the Chemical Gazette a notice setting out particulars of the permit.
 
 ##### <a id="21K"></a>21K  Duration of commercial evaluation permit
 
@@ -2214,7 +2134,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    The object of the permit system for low volume chemicals is to:
 
-                     (a)  provide a simple means of by-passing the assessment certificate system in respect of a new industrial chemical if the total of the quantities of the chemical that are to be introduced by the person in any 12 month period will not exceed 100 kilograms (or 1,000 kilograms in certain cases); and
+                     (a)  provide a simple means of by-passing the assessment certificate system in respect of a new industrial chemical if the total of the quantities of the chemical that are to be introduced by the person in any calendar year will not exceed 100 kilograms (or 1,000 kilograms in certain cases); and
 
                      (b)  ensure that the means of by-passing the assessment certificate system is subject to adequate safeguards.
 
@@ -2268,9 +2188,9 @@ Note:          A defendant bears an evidential burden in relat
 
                             (iv)  states the quantity of the chemical proposed to be introduced by the applicant in:
 
-                                        (A)  the 12 month period beginning on the date on which the application is made; and
+                                        (A)  the period beginning on the date on which the application is made and ending at the end of the calendar year in which that date occurs; and
 
-                                        (B)  each of the next two 12 month periods; and
+                                        (B)  each of the next 3 calendar years; and
 
                      (b)  has paid the prescribed fee.
 
@@ -2310,7 +2230,7 @@ Note:          A defendant bears an evidential burden in relat
 
                             (iii)  any other matters that the Director considers relevant;
 
-                     (c)  the total quantity of the chemical that is proposed to be introduced by the applicant during any 12 month period does not exceed:
+                     (c)  the total quantity of the chemical that is proposed to be introduced by the applicant during any calendar year does not exceed:
 
                               (i)  if guidelines prescribed for the purposes of this section apply to the chemical—1,000 kilograms; or
 
@@ -2334,7 +2254,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the function or use of the chemical has changed, or is likely to change, significantly;
 
-                     (b)  the amount of the chemical being introduced under the permit in the 12 month period referred to in sub-subparagraph 21S(2)(a)(iv)(A) or in a 12 month period referred to in sub-subparagraph 21S(2)(a)(iv)(B) has exceeded, or is likely to exceed, the quantity stated in the written statement provided under subsection 21S(2) or the application for the renewal of the permit;
+                     (b)  the amount of the chemical being introduced under the permit in the period referred to in sub-subparagraph 21S(2)(a)(iv)(A) or in a calendar year referred to in sub-subparagraph 21S(2)(a)(iv)(B) has exceeded, or is likely to exceed, the quantity stated in the written statement provided under subsection 21S(2) or the application for the renewal of the permit;
 
                      (c)  in the case of a chemical not manufactured, or proposed to be manufactured, in Australia when the permit was last issued—it has begun to be manufactured in Australia;
 
@@ -2402,13 +2322,9 @@ Note:          A defendant bears an evidential burden in relat
 
                    As soon as practicable after a low volume permit is issued, the Director must cause to be published in the Chemical Gazette a notice stating that the permit has been issued and setting out:
 
-                     (a)  the name of the holder, or holders, of the permit; and
+                     (a)  the name of the holder of the permit; and
 
-                     (b)  either:
-
-                              (i)  a trade name of the chemical; or
-
-                             (ii)  the chemical name of the chemical; and
+                     (b)  the trade name of the low volume chemical; and
 
                      (c)  the period of the permit.
 
@@ -2428,7 +2344,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  An application for a low volume permit, or an application for a renewal of a low volume permit, may include an application that certain information given in accordance with section 21S be treated as exempt information under section 75.
 
-             (2)  The giving of information about a matter under section 21SA, or in accordance with a condition of a kind mentioned in subsection 21W(1), may be accompanied by an application in the approved form that some or all of the information be treated as exempt information under section 75.
+             (2)  The giving of information about a chemical in accordance with a condition of a kind mentioned in subsection 21W(1) may be accompanied by an application in the approved form that some or all of the information be treated as exempt information under section 75.
 
 ### Division 1C—Controlled use permit system
 
@@ -2484,9 +2400,9 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  contains a summary of the chemical’s effects on occupational health and safety, public health and the environment; and
 
-                     (c)  states the quantity of the chemical proposed to be introduced by the applicant in the 12 month period beginning on the date on which the application is made; and
+                     (c)  states the quantity of the chemical proposed to be introduced by the applicant in the period beginning on the date on which the application is made and ending at the end of the calendar year in which that date occurs; and
 
-                     (d)  states the quantity of the chemical proposed to be introduced by the applicant in each of the next two 12 month periods; and
+                     (d)  states the quantity of the chemical proposed to be introduced by the applicant in each of the next 3 calendar years; and
 
                      (e)  contains such other information as is prescribed in the regulations.
 
@@ -2614,13 +2530,9 @@ The day must be at least 28 days after the giving of the notice.
 
                    As soon as practicable after a controlled use permit is issued, the Director must cause to be published in the Chemical Gazette a notice stating that the permit has been issued and setting out:
 
-                     (a)  the name of the holder, or holders, of the permit; and
+                     (a)  the name of the holder of the permit; and
 
-                     (b)  either:
-
-                              (i)  a trade name of the chemical; or
-
-                             (ii)  the chemical name of the chemical; and
+                     (b)  the trade name of the chemical; and
 
                      (c)  the use for which the chemical may be imported or manufactured; and
 
@@ -2650,7 +2562,7 @@ The day must be at least 28 days after the giving of the notice.
 
              (1)  An application for a controlled use permit, or an application for a renewal of a controlled use permit, may include an application that certain information given in accordance with section 22D be treated as exempt information under section 75.
 
-             (2)  The giving of information about a matter under section 22D, or in accordance with a condition of a kind referred to in subsection 22H(2), may be accompanied by an application in the approved form that some or all of the information be treated as exempt information under section 75.
+             (2)  The giving of information about a chemical in accordance with a condition of a kind referred to in subsection 22H(2) may be accompanied by an application in the approved form that some or all of the information be treated as exempt information under section 75.
 
 ### Division 2—Notification Procedures before Assessment
 
@@ -2708,9 +2620,9 @@ Note:          Section 24A describes the contents of the doc
 
              (8)  A notification statement about the following polymers does not need to contain the matters specified in Part C of the Schedule:
 
-                     (a)  a polymer that is to be introduced by the applicant in a quantity of not more than one tonne in any 12 month period;
+                     (a)  a biopolymer that is to be introduced by the applicant in a quantity of not more than one tonne in any 12 month period;
 
-                     (b)  a polymer that is to be manufactured in Australia by or on behalf of the applicant:
+                     (b)  a biopolymer that is to be manufactured in Australia by or on behalf of the applicant:
 
                               (i)  solely for the purposes of further manufacture at the site of its manufacture; and
 
@@ -2900,8 +2812,6 @@ then the Minister is to:
 
 ##### <a id="30A"></a>30A  Application for early introduction of non-hazardous chemicals
 
-Application
-
              (1)  A person who has applied under section 23 or 23A for an assessment certificate for a chemical of a kind mentioned in subsection (1A) may apply to the Director for a permit to introduce the chemical before the assessment report is completed.
 
           (1A)  An application may be made under subsection (1) in respect of the following chemicals:
@@ -2918,45 +2828,9 @@ Application
 
                      (b)  have with it the prescribed fee _._
 
-Grant of permit
-
-             (3)  The Director may grant the permit if he or she is satisfied that:
-
-                     (a)  the chemical is a chemical of a kind mentioned in subsection (1A); and
-
-                     (b)  in respect of a polymer of low concern:
-
-                              (i)  carbon or silicon is the polymer’s largest component; and
-
-                             (ii)  the introduction of the polymer is consistent with the reasonable protection of occupational health and safety, public health and the environment; and
-
-                            (iii)  any other conditions prescribed by the regulations have been met.
-
-             (4)  The Director must take account of the following matters in deciding whether he or she is satisfied that the introduction of a polymer of low concern is consistent with the reasonable protection of occupational health and safety, public health and the environment:
-
-                     (a)  the proposed nature of the use of the polymer;
-
-                     (b)  the extent of the proposed use of the polymer;
-
-                     (c)  the effect of the polymer on the environment;
-
-                     (d)  the effect of the polymer on occupational health and safety and public health;
-
-                     (e)  the structure and activity of the polymer;
-
-                      (f)  whether, in Australia or overseas, the polymer is the subject of:
-
-                              (i)  investigations initiated by a person because of concerns about a possible adverse effect on occupational health and safety, public health or the environment; or
-
-                             (ii)  action taken by a person to control the use of, or access to, the polymer;
-
-                     (g)  any other matter prescribed by the regulations.
-
-Period for determining application
+             (3)  The Director may grant the permit if he or she is satisfied that the chemical is a chemical of a kind mentioned in subsection (1A).
 
              (5)  The Director must decide the application within 28 days of receiving it.
-
-Request for further information
 
              (6)  If, on the material in the application, the Director is not able to determine whether the chemical is a chemical of a kind mentioned in subsection (1A), he or she may in writing:
 
@@ -2968,25 +2842,11 @@ Request for further information
 
              (8)  If the further information is not given to the Director within the period mentioned in paragraph (6)(b), the application is taken to have been withdrawn.
 
-Joint application
-
              (9)  If the application for an assessment certificate is a joint application, the Director may grant a permit to any one or more of the applicants applying under this section.
-
-Conditions
 
            (10)  If the Director decides to grant a permit, the permit is subject to such conditions as are specified in the permit.
 
-Notice
-
-           (11)  As soon as practicable after a permit is issued, the Director must cause to be published in the Chemical Gazette a notice stating that the permit has been issued and setting out:
-
-                     (a)  the name of the holder, or holders, of the permit; and
-
-                     (b)  either:
-
-                              (i)  a trade name of the chemical; or
-
-                             (ii)  the chemical name of the chemical.
+           (11)  The Director is to publish a notice of the grant of a permit in the Chemical Gazette as soon as practicable.
 
 ##### <a id="30AA"></a>30AA  Dual applications for introduction permits
 
@@ -4428,7 +4288,7 @@ the person who acquires the business becomes the holder of the certificate for t
 
 ##### <a id="75"></a>75  Exempt information
 
-             (1)  Subject to this section, if, on an application under section 21AAA, 21P, 21ZB, 22O, 25, 29, 30A, 40D, 42, 45, 50, 60, 66 or 89, the Director is satisfied that:
+             (1)  Where, on an application under section 21P, 21ZB, 22O, 25, 29, 30A, 40D, 42, 45, 50, 60, 66 or 89, the Director is satisfied that:
 
                      (a)  publication of the information specified in the application could reasonably be expected to prejudice substantially the commercial interests of the applicant; and
 
@@ -4437,8 +4297,6 @@ the person who acquires the business becomes the holder of the certificate for t
 the information is to be treated as exempt information for the purposes of this Act.
 
              (2)  The Director must not grant an application under subsection (1) in relation to basic information about a chemical.
-
-          (2A)  The Director must not grant under subsection (1) an application under section 21AAA in relation to information about the chemical name of a chemical unless the application includes a trade name of the chemical.
 
              (3)  The Director must give the applicant written notice of the decision about the application.
 
@@ -4455,6 +4313,10 @@ the information is to be treated as exempt information for the purposes of this 
                      (c)  with the consent of the person because of whose application the information is exempt information.
 
 ### Division 9—Access to Assessment Information
+
+##### <a id="77"></a>77  Notification of introduction
+
+                   Within 7 days after the day on which a person first introduces a chemical after receiving an assessment certificate for the chemical, the person must give written notice of the introduction to the Director.
 
 ##### <a id="78"></a>78  Full public report etc. to be available
 
@@ -4926,26 +4788,6 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-## Part 3B—Standards for cosmetics imported into, or manufactured in, Australia
-
-##### <a id="81"></a>81  Setting standards
-
-             (1)  The Minister may, by legislative instrument, determine standards for cosmetics imported into, or manufactured in, Australia, having regard to Australia’s international obligations.
-
-             (2)  In addition to the requirement under the _Legislative Instruments Act 2003_ for the instrument to be registered, a copy of the instrument must be published in the Chemical Gazette. However, failure to publish a copy does not affect the validity or enforceability of the instrument.
-
-##### <a id="81A"></a>81A  Complying with standards
-
-                   A person commits an offence if, at a particular time:
-
-                     (a)  the person imports into, or manufactures in, Australia a cosmetic; and
-
-                     (b)  the cosmetic is subject to a standard set under section 81; and
-
-                     (c)  the cosmetic does not meet the standard.
-
-                    Penalty:  120 penalty units.
-
 ## Part 4—Enforcement
 
 ### Division 1—Offences, injunctions and charge recovery
@@ -5046,11 +4888,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (5)  This section applies to premises at which there are reasonable grounds for suspecting that:
 
-                     (a)  an industrial chemical or a cosmetic is being manufactured; or
+                     (a)  an industrial chemical is being manufactured; or
 
-                     (b)  an industrial chemical or a cosmetic, whether the chemical or cosmetic is imported into Australia or manufactured in Australia, is being stored, processed or used; or
+                     (b)  an industrial chemical, whether imported into Australia or manufactured in Australia, is being stored, processed or used; or
 
-                     (c)  records relating to the importation, manufacturing, handling, storage, use or disposal of an industrial chemical or a cosmetic are kept.
+                     (c)  records relating to the importation, manufacturing, handling, storage, use or disposal of an industrial chemical are kept.
 
 ##### <a id="87"></a>87  Offence-related searches and seizures
 
@@ -5516,7 +5358,7 @@ all or any of the Minister’s functions or powers under this Act, other than th
 
 all or any of the Director’s functions or powers under this Act, other than those under subsection 14(4), 17(4) or 19(6) or (7), section 24 or 30A, subsection 37(2), section 38, 44, 50B, 60E or 60F or this section.
 
-##### <a id="105"></a>105  Variation of Schedule
+##### <a id="105"></a>105  Variation of Schedule
 
              (1)  The Minister may, by instrument published in the Chemical Gazette, declare that the Schedule is to be taken to be amended in a manner specified in the instrument, and that declaration has effect accordingly.
 
@@ -5641,8 +5483,6 @@ the person is not liable to be punished by imprisonment for that offence.
                     (ea)  an application under section 23A for a self-assessed assessment certificate;
 
                       (f)  an application under section 24 to vary the requirements of section 23;
-
-                    (fa)  an application under section 21AAA that information be treated as exempt information;
 
                      (g)  an application under section 21P, 21ZB, 22O, 25, 29, 30A, 40D, 42, 45, 50, 60, 66 or 89 that information be treated as exempt information;
 
@@ -6464,7 +6304,7 @@ Remainder: Royal Assent</div>
     <div>20 Aug 2007</div>
   </td>
   <td colspan="2">
-    <div>Schedules 1 and 2: 17 Sep t 2007 
+    <div>Schedules 1 and 2: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
@@ -6786,7 +6626,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 134, 2007</div>
+    <div>am. No. 99, 1997</div>
   </td>
 </tr>
 <tr>
@@ -6799,14 +6639,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
@@ -6815,18 +6647,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007</div>
+    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7071,7 +6895,8 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Notes to s. 20AB(4A), (4B)</div>
+    <div>Notes to s. 20AB(4A), 
+20AB(4B)</div>
   </td>
   <td>
     <div>ad. No. 110, 2004</div>
@@ -7127,7 +6952,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Notes to s. 21(2)–(4)</div>
+    <div>Notes to s. 21(2)–21(4)</div>
   </td>
   <td>
     <div>ad. No. 142, 2001</div>
@@ -7135,50 +6960,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>S. 21AA</div>
+    <div>Ss. 21AA, 21AB</div>
   </td>
   <td>
     <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21AB</div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21AB</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7239,7 +7024,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 21D(2), (3)</div>
+    <div>Subheads. to s. 21D(2), 21D(3)</div>
   </td>
   <td>
     <div>rs. No. 110, 2004</div>
@@ -7287,31 +7072,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>S. 21F</div>
-  </td>
-  <td>
-    <div>ad. No. 102, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21G</div>
+    <div>Ss. 21F, 21G</div>
   </td>
   <td>
     <div>ad. No. 102, 1992</div>
@@ -7338,28 +7099,12 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 110, 2004; No. 134, 2007</div>
+    <div>am. No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 21J</div>
-  </td>
-  <td>
-    <div>ad. No. 102, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21K</div>
+    <div>Ss. 21J, 21K</div>
   </td>
   <td>
     <div>ad. No. 102, 1992</div>
@@ -7458,7 +7203,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 110, 2004; No. 134, 2007</div>
+    <div>am. No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7471,7 +7216,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>S. 21R</div>
+    <div>Ss. 21R, 21S</div>
   </td>
   <td>
     <div>ad. No. 214, 1992</div>
@@ -7483,22 +7228,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
   </td>
   <td>
     <div>am. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21S</div>
-  </td>
-  <td>
-    <div>ad. No. 214, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2004; No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7538,7 +7267,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 110, 2004; No. 134, 2007</div>
+    <div>am. No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7562,7 +7291,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 142, 2001; No. 110, 2004; No. 134, 2007</div>
+    <div>am. No. 142, 2001; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7575,31 +7304,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>S. 21X</div>
-  </td>
-  <td>
-    <div>ad. No. 214, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21Y</div>
-  </td>
-  <td>
-    <div>ad. No. 214, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21Z</div>
+    <div>Ss. 21X–21Z</div>
   </td>
   <td>
     <div>ad. No. 214, 1992</div>
@@ -7626,7 +7331,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 110, 2004; No. 134, 2007</div>
+    <div>am. No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7655,74 +7360,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Ss. 22A, 22B</div>
+    <div>Ss. 22A–22O</div>
   </td>
   <td>
     <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22C</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22D–22K</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22L</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22M, 22N</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22O</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7751,7 +7392,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 23(1), (2)</div>
+    <div>Subheads. to s. 23(1), 23(2)</div>
   </td>
   <td>
     <div>ad. No. 110, 2004</div>
@@ -7770,7 +7411,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 214, 1992; No. 110, 2004; No. 134, 2007</div>
+    <div>am. Nos. 7 and 214, 1992; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7823,30 +7464,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 30A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 30A(5), (6)</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 30A(9), (10)</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 30A</div>
   </td>
   <td>
@@ -7858,7 +7475,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 110, 2004; No. 134, 2007</div>
+    <div>am. No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8534,23 +8151,7 @@ Div. 5 of Part 3</div>
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 110, 2004; No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>rep. No. 134, 2007</div>
+    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9027,46 +8628,6 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 3B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3B</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81A</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -9087,6 +8648,14 @@ Div. 5 of Part 3</div>
   </td>
   <td>
     <div>rs. No. 99, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 81</div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
   </td>
 </tr>
 <tr>
@@ -9127,14 +8696,6 @@ Div. 5 of Part 3</div>
   </td>
   <td>
     <div>am. Nos. 142 and 144, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9462,7 +9023,7 @@ Div. 5 of Part 3</div>
     <div>S. 110</div>
   </td>
   <td>
-    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 134, 2007</div>
+    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9521,6 +9082,404 @@ Div. 5 of Part 3</div>
     <div>am. No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Industrial Chemicals (Notification and Assessment) Amendment (Cosmetics) Act 2007 (No. 134, 2007)_
+
+The following amendments commence on 17 September 2007:
+
+## Schedule 1
+
+## 1  Title
+
+After “**introduce industrial chemicals**”, insert “**, to provide for national standards for cosmetics imported into, or manufactured in,****Australia**”.
+
+## 2  Section 3
+
+Repeal the section, substitute:
+
+##### <a id="3"></a>3  Objects of Act
+
+                   The objects of this Act are to provide for:
+
+                     (a)  a national system of notification and assessment of industrial chemicals for the purposes of:
+
+                              (i)  aiding in the protection of the Australian people and the environment by finding out the risks to occupational health and safety, to public health and to the environment that could be associated with the importation, manufacture or use of the chemicals; and
+
+                             (ii)  providing information, and making recommendations, about the chemicals to Commonwealth, State and Territory bodies with responsibilities for the regulation of industrial chemicals; and
+
+                            (iii)  giving effect to Australia’s obligations under international agreements relating to the regulation of chemicals; and
+
+                            (iv)  collecting statistics in relation to the chemicals;
+
+                            being a system under which information about the properties and effects of the chemicals is obtained from importers and manufacturers of the chemicals; and
+
+                     (b)  national standards for cosmetics imported into, or manufactured in, Australia and the enforcement of those standards.
+
+## 3  Section 4
+
+After “chemicals” (wherever occurring), insert “or cosmetics”.
+
+## 4  Subsection 5(1) (definition of _cosmetic_)
+
+Repeal the definition, substitute:
+
+                    <a name="cosmet"></a>**_cosmetic_** means:
+
+                     (a)  a substance or preparation intended for placement in contact with any external part of the human body, including:
+
+                              (i)  the mucous membranes of the oral cavity; and
+
+                             (ii)  the teeth;
+
+                            with a view to:
+
+                            (iii)  altering the odours of the body; or
+
+                            (iv)  changing its appearance; or
+
+                             (v)  cleansing it; or
+
+                            (vi)  maintaining it in good condition; or
+
+                           (vii)  perfuming it; or
+
+                           (viii)  protecting it; or
+
+                     (b)  a substance or preparation prescribed by regulations made for the purposes of this paragraph;
+
+but does not include:
+
+                     (c)  a therapeutic good within the meaning of the _Therapeutic Goods Act 1989_; or
+
+                     (d)  a substance or preparation prescribed by regulations made for the purposes of this paragraph.
+
+Note:          An ingredient or component of a cosmetic could be an industrial chemical.
+
+## 5  Subsection 5(1) (definition of _disposal_)
+
+After “a chemical”, insert “or cosmetic”.
+
+## 6  Subsection 5(1) (at the end of the definition of _disposal_)
+
+Add “or cosmetic”.
+
+## 7  Subsection 5(1) (definition of _handling_)
+
+After “a chemical”, insert “or cosmetic”.
+
+## 8  Subsection 5(1) (at the end of the definition of _handling_)
+
+Add “or cosmetic”.
+
+## 9  Subsection 5(1) (definition of _import_)
+
+After “industrial chemical”, insert “or a cosmetic”.
+
+## 10  Subsection 5(1) (definition of _import_)
+
+After “the chemical”, insert “or cosmetic”.
+
+## 11  After Part 3A
+
+Insert:
+
+## Part 3B—Standards for cosmetics imported into, or manufactured in, Australia
+
+##### <a id="81"></a>81  Setting standards
+
+             (1)  The Minister may, by legislative instrument, determine standards for cosmetics imported into, or manufactured in, Australia, having regard to Australia’s international obligations.
+
+             (2)  In addition to the requirement under the _Legislative Instruments Act 2003_ for the instrument to be registered, a copy of the instrument must be published in the Chemical Gazette. However, failure to publish a copy does not affect the validity or enforceability of the instrument.
+
+##### <a id="81A"></a>81A  Complying with standards
+
+                   A person commits an offence if, at a particular time:
+
+                     (a)  the person imports into, or manufactures in, Australia a cosmetic; and
+
+                     (b)  the cosmetic is subject to a standard set under section 81; and
+
+                     (c)  the cosmetic does not meet the standard.
+
+                    Penalty:  120 penalty units.
+
+## 12  Paragraph 86(5)(a)
+
+After “an industrial chemical”, insert “or a cosmetic”.
+
+## 13  Paragraph 86(5)(b)
+
+After “an industrial chemical”, insert “or a cosmetic”.
+
+## 14  Paragraph 86(5)(b)
+
+After “whether”, insert “the chemical or cosmetic is”.
+
+## 15  Paragraph 86(5)(c)
+
+After “an industrial chemical”, insert “or a cosmetic”.
+
+## Schedule 2
+
+## 1  Paragraph 21Q(a)
+
+Omit “calendar year”, substitute “12 month period”.
+
+## 2  Sub-subparagraph 21S(2)(a)(iv)(A)
+
+Repeal the sub-subparagraph, substitute:
+
+                                        (A)  the 12 month period beginning on the date on which the application is made; and
+
+## 3  Sub-subparagraph 21S(2)(a)(iv)(B)
+
+Omit “3 calendar years”, substitute “two 12 month periods”.
+
+## 4  Paragraph 21U(2)(c)
+
+Omit “calendar year”, substitute “12 month period”.
+
+## 5  Paragraph 21W(1)(b)
+
+Omit “the period”, substitute “the 12 month period”.
+
+## 6  Paragraph 21W(1)(b)
+
+Omit “calendar year”, substitute “12 month period”.
+
+## 7  Paragraph 22C(2)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  states the quantity of the chemical proposed to be introduced by the applicant in the 12 month period beginning on the date on which the application is made; and
+
+## 8  Paragraph 22C(2)(d)
+
+Omit “3 calendar years”, substitute “two 12 month periods”.
+
+## 10  Subsection 21ZB(2)
+
+Omit “a chemical”, substitute “a matter under section 21SA, or”.
+
+## 11  Subsection 21ZB(2)
+
+After “subsection 21W(1)”, insert “,”.
+
+## 12  Subsection 22O(2)
+
+Omit “a chemical”, substitute “a matter under section 22D, or”.
+
+## 13  Subsection 22O(2)
+
+After “subsection 22H(2)”, insert “,”.
+
+## 14  Section 21F
+
+Repeal the section, substitute:
+
+##### <a id="21F"></a>21F  Director may request further information about application
+
+             (1)  The Director may give an applicant, or another person who agrees (jointly or otherwise) to be bound by the conditions of the permit, a written notice requiring the person given the notice to give the Director further information about a matter referred to in subsection 21D(2), or a matter referred to in the application for the renewal of the commercial evaluation permit, within the period specified in the notice.
+
+             (2)  The notice must specify a period of at least 14 days.
+
+## 15  After subsection 21H(3)
+
+Insert:
+
+Failure to provide further information
+
+       (3AA)  The Director may refuse an application if further information required by the Director under section 21F is not given to the Director within the period specified in the notice requiring that further information.
+
+## 17  Paragraphs 23(8)(a) and (b)
+
+Omit “biopolymer”, substitute “polymer”.
+
+## 18  Subsection 30A(3)
+
+Repeal the subsection, substitute:
+
+Grant of permit
+
+             (3)  The Director may grant the permit if he or she is satisfied that:
+
+                     (a)  the chemical is a chemical of a kind mentioned in subsection (1A); and
+
+                     (b)  in respect of a polymer of low concern:
+
+                              (i)  carbon or silicon is the polymer’s largest component; and
+
+                             (ii)  the introduction of the polymer is consistent with the reasonable protection of occupational health and safety, public health and the environment; and
+
+                            (iii)  any other conditions prescribed by the regulations have been met.
+
+             (4)  The Director must take account of the following matters in deciding whether he or she is satisfied that the introduction of a polymer of low concern is consistent with the reasonable protection of occupational health and safety, public health and the environment:
+
+                     (a)  the proposed nature of the use of the polymer;
+
+                     (b)  the extent of the proposed use of the polymer;
+
+                     (c)  the effect of the polymer on the environment;
+
+                     (d)  the effect of the polymer on occupational health and safety and public health;
+
+                     (e)  the structure and activity of the polymer;
+
+                      (f)  whether, in Australia or overseas, the polymer is the subject of:
+
+                              (i)  investigations initiated by a person because of concerns about a possible adverse effect on occupational health and safety, public health or the environment; or
+
+                             (ii)  action taken by a person to control the use of, or access to, the polymer;
+
+                     (g)  any other matter prescribed by the regulations.
+
+_Note 1:    The following heading to subsection 30A(1) is inserted “Application”._
+
+_Note 2:    The following heading to subsection 30A(5) is inserted “Period for determining application”._
+
+_Note 3:    The following heading to subsection 30A(6) is inserted “Request for further information”._
+
+_Note 4:    The following heading to subsection 30A(9) is inserted “Joint application”._
+
+_Note 5:    The following heading to subsection 30A(10) is inserted “Conditions”._
+
+## 20  Section 77
+
+Repeal the section.
+
+## 21  Subsection 5(1)
+
+Insert:
+
+                    <a name="chemic-name"></a>**_chemical name_**, in relation to a chemical, means:
+
+                     (a)  in the case of a pure chemical—the Chemical Abstracts preferred Index Name, or, if such a name is not available, the name used, or to be used, by the International Union for Pure and Applied Chemistry; or
+
+                     (b)  in any other case—a complete description of the chemical;
+
+including, in the case of a biopolymer, a description of the biological source of the biopolymer.
+
+## 22  Section 21J
+
+Repeal the section, substitute:
+
+##### <a id="21J"></a>21J  Notice of permit to be published in Chemical Gazette
+
+                   As soon as practicable after a commercial evaluation permit is issued, the Director must cause to be published in the Chemical Gazette a notice stating that the permit has been issued and setting out:
+
+                     (a)  the name of the holder, or holders, of the permit; and
+
+                     (b)  either:
+
+                              (i)  a trade name of the chemical; or
+
+                             (ii)  the chemical name of the chemical; and
+
+                     (c)  the period of the permit.
+
+## 23  Paragraphs 21Y(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the name of the holder, or holders, of the permit; and
+
+                     (b)  either:
+
+                              (i)  a trade name of the chemical; or
+
+                             (ii)  the chemical name of the chemical; and
+
+## 24  Paragraphs 22L(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the name of the holder, or holders, of the permit; and
+
+                     (b)  either:
+
+                              (i)  a trade name of the chemical; or
+
+                             (ii)  the chemical name of the chemical; and
+
+## 25  Subsection 30A(11)
+
+Repeal the subsection, substitute:
+
+Notice
+
+           (11)  As soon as practicable after a permit is issued, the Director must cause to be published in the Chemical Gazette a notice stating that the permit has been issued and setting out:
+
+                     (a)  the name of the holder, or holders, of the permit; and
+
+                     (b)  either:
+
+                              (i)  a trade name of the chemical; or
+
+                             (ii)  the chemical name of the chemical.
+
+## 27  Paragraph 21AA(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  the chemical name of the chemical that was introduced in the year; and
+
+## 28  After section 21AA
+
+Insert:
+
+##### <a id="21AAA"></a>21AAA  Exempt information supplied under section 21AA
+
+             (1)  A report under section 21AA may be accompanied by an application in the approved form that some or all of the information stated in the report be treated as exempt information under section 75.
+
+             (2)  If a person applies under subsection (1) for the chemical name of a chemical introduced during a registration year to be exempt information, the application must include a trade name of the chemical.
+
+## 29  Subsection 21AB(2)
+
+Repeal the subsection, substitute:
+
+             (2)  At least once during the next registration year, the Director must prepare a summary of the information given to the Director under subsection 21AA(1).
+
+             (3)  The summary must:
+
+                     (a)  include any information of a kind that is prescribed by the regulations; and
+
+                     (b)  not contain any exempt information.
+
+             (4)  If:
+
+                     (a)  the Director has refused an application made under section 21AAA for information given as a result of the notice under section 21AA to be treated as exempt information; and
+
+                     (b)  the applicant applies to the Tribunal under section 102 for review of the decision;
+
+the Director must, in spite of subsection (2), delay the preparation of the summary until the application for review has been finalised.
+
+             (5)  When the Director has prepared the summary, he or she must publish the summary in the Chemical Gazette.
+
+_Note:       The heading to section 21AB is replaced by the heading “List of chemicals and summary of information”._
+
+## 30  Subsection 75(1)
+
+Omit “Where”, substitute “Subject to this section, if”.
+
+## 31  Subsection 75(1)
+
+Before “21P”, insert “21AAA,”.
+
+## 32  After subsection 75(2)
+
+Insert:
+
+          (2A)  The Director must not grant under subsection (1) an application under section 21AAA in relation to information about the chemical name of a chemical unless the application includes a trade name of the chemical.
+
+## 33  After paragraph 110(1)(f)
+
+Insert:
+
+                    (fa)  an application under section 21AAA that information be treated as exempt information;
+
+As at 24 August 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -9810,6 +9769,8 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 * * *
 
 _Industrial Chemicals (Notification and Assessment) Amendment (Cosmetics) Act 2007 (No. 134, 2007)_
+
+The following provisions commence on 17 September 2007:
 
 ## Schedule 2
 
