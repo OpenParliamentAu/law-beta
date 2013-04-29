@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00363/Html/SurveillDevices2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00296/Html/SurveillDevices2004_image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 50 of 2010
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 42 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1074,11 +1074,9 @@ the application may be made before an affidavit is prepared or sworn.
 
                             (iv)  an offence under the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_ or an offence against Part 9.1 of the _Criminal Code_ (other than section 308.1 or 308.2); or
 
-                            (vi)  an offence against section 73.2, 73.3 or 91.1 of the _Criminal Code_; or
+                            (vi)  an offence against section 73.2 or 91.1 of the _Criminal Code_; or
 
-                           (viii)  an offence under Subdivision A of Division 72 or Division, 80, 101, 102, 103, 270, 272 or 273 of the _Criminal Code_; or
-
-                            (ix)  an offence against section 233B or 233C of the _Migration Act 1958_;
+                           (viii)  an offence under Subdivision A of Division 72 or Division, 80, 101, 102, 103, 270, 272 or 273 of the _Criminal Code_;
 
                             or more than one offence; and
 
@@ -2550,23 +2548,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 74)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Anti-People Smuggling and Other Measures Act 2010</div>
-  </td>
-  <td>
-    <div>50, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 14–16): 1 June 2010</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 16)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 19) of the _Anti-Terrorism Act (No. 2) 2005_ provides as follows:
@@ -2878,7 +2859,7 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. Nos. 129 and 144, 2005; No. 3, 2007; Nos. 42 and 50, 2010</div>
+    <div>am. Nos. 129 and 144, 2005; No. 3, 2007; No. 42, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3066,15 +3047,5 @@ _Crimes Legislation Amendment (Sexual Offences Against Children) Act 2010 (No. 4
 ## 74  Application
 
 Despite the amendment made by item 72, subparagraph 30(1)(a)(iii) of the _Surveillance Devices Act 2004_, as in force immediately before the commencement of this item, continues to apply in relation to an offence against Part IIIA of the _Crimes Act 1914_, as in force at any time before that commencement.
-
-* * *
-
-_Anti-People Smuggling and Other Measures Act 2010 (No. 50, 2010)_
-
-## Schedule 1
-
-## 16  Application
-
-Section 30 of the _Surveillance Devices Act 2004_ as amended by this Act applies to investigations begun on or after commencement.
 
  
