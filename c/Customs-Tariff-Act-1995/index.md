@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00408/Html/9cc5a3d3-2ab9-43a8-b2bf-85523db42517_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00932/Html/ec3f9c0e-4b2c-444a-af38-9b7ed7fcc771_files/image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 23 April 2012
- taking into account amendments up to Act No. 155 of 2011
+This compilation was prepared on 1 December 2011
+ taking into account amendments up to Act No. 85 of 2011
 
 **Volume 1** includes:     Table of Contents
          User’s guide
@@ -37,7 +37,7 @@ The operation of amendments that have been incorporated may be
          Table of Acts
          Act Notes
          Table of Amendments
-         Notes 2 and 3
+         Notes 2–4
          Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -175,7 +175,7 @@ The organisation of the Act
 
                    Schedule 4 identifies classes of goods to which concessional rates may apply and specifies the concessional rates of duty potentially applicable to such classes.
 
-                   Schedule 5 sets out the rate of duty for US originating goods.
+                   Schedule 5 sets out the rate of duty for US originating goods.
 
                    Schedule 6 sets out the rate of duty for Thai originating goods.
 
@@ -613,8 +613,6 @@ Note:       See also subsection (2).
 
                              (ii)  otherwise—Free;
 
-Note:       See also subsection (2A).
-
                      (n)  if the goods are AANZ originating goods:
 
                               (i)  if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 8—by reference to the rate of duty set out in column 3 of that item; or
@@ -628,12 +626,6 @@ US originating goods
              (2)  If column 2 of an item in the table in Schedule 5 includes “(prescribed goods only)”, subparagraph (1)(k)(i) does not apply to the goods unless the goods are also prescribed for the purposes of that item.
 
 Note:          If column 2 of an item in the table in Schedule 5 includes “(prescribed goods only)” and the goods are not prescribed for the purposes of that item, the rate of duty in respect of the goods is Free.
-
-Chilean originating goods
-
-          (2A)  If column 2 of an item in the table in Schedule 7 includes “(prescribed goods only)”, subparagraph (1)(m)(i) does not apply to the goods unless the goods are also prescribed for the purposes of that item.
-
-Note:          If column 2 of an item in the table in Schedule 7 includes “(prescribed goods only)” and the goods are not prescribed for the purposes of that item, the rate of duty in respect of the goods is Free.
 
 AANZ originating goods
 
@@ -1436,15 +1428,7 @@ are increased by the same amount on and from that day.
 </tr>
 <tr>
   <td>
-    <div>2403.11.00</div>
-  </td>
-  <td>
-    <div>5.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2403.19.10</div>
+    <div>2403.10.30</div>
   </td>
   <td>
     <div>5.1</div>
@@ -1452,7 +1436,7 @@ are increased by the same amount on and from that day.
 </tr>
 <tr>
   <td>
-    <div>2403.19.90</div>
+    <div>2403.10.70</div>
   </td>
   <td>
     <div>5.5</div>
