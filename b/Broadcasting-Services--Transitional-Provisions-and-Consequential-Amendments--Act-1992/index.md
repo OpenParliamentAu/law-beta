@@ -1,2794 +1,1531 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02569/Html/BroadcastServTPC92_image001.gif)
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992 
-**
+# Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992
 
+**Act No. 105 of 1992 as amended**
 
-**
+This compilation was prepared on 8 September 2000
+ taking into account amendments up to Act No. 143 of 1997
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part 1—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
+[3](#3).            Interpretation—expressions used in the Broadcasting Services Act   1
 
+**Part 2—Transitional provisions** 
 
-**
+    **Division 1—Preliminary**
 
-###  Long Title 
-**
-Broadcasting Services Act 1992
-**
+[4](#4).            Interpretation                                                                                       2
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<part>Part&#160;1&#151;Preliminary </part>
-**
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+    **Division 2—Licences**
 
-		This Act may be cited as the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
+[5](#5).            Preservation of certain licences                                                            4
 
- </dl>
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 2  Commencement [_see_ Note 1] 
-<dl compact="">
+[6](#6).            Remote Aboriginal community services                                              5
 
-		This Act commences on the day fixed under subsection 2(2) of the
+[7](#7).            Terms of preserved licences                                                                5
 
-_Broadcasting Services Act 1992_ or on the day applicable under subsection
+[8](#8).            Licence areas of preserved licences                                                      5
 
-2(3) of that Act, as the case requires.
+[9](#9).            Conditions of licences                                                                          6
 
- </dl>
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 3  Interpretation&#151;expressions used in the Broadcasting Services Act 
-<dl compact="">
+[10](#10).          Authority to operate radiocommunications transmitters                    7
 
-		In this Act, unless the contrary intention appears, expressions that are
+[11](#11).          Applications for renewal not dealt with under the Broadcasting Act 9
 
-defined in section&#160;6 of the _Broadcasting Services Act 1992_ have the
+[12](#12).          Pending applications for grant of licences under the Broadcasting Act 9
 
-same meaning when used in this Act.
+[13](#13).          Pending applications for grant of licences under the Broadcasting Act for services not requiring licences under the Broadcasting Services Act                                                                 11
 
- </dl>
-**
+[16](#16).          Aggregation of licence areas of existing licences in Tasmania            12
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<part>Part&#160;2&#151;Transitional provisions </part>
-**
-**
+    **Division 3—Directorships and control**
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<division>Division&#160;1&#151;Preliminary </division> 
-**
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 4  Interpretation 
-<dl compact="">
+[17](#17).          Special provision for certain directorships                                        13
 
-		In this Part, unless the contrary intention appears:
+[18](#18).          Periods of grace for compliance with ownership and control provisions                13
 
- </dl>
-<dl compact=""><dl compact="">
+[19](#19).          Grandfathering of existing interests relevant to control                     14
 
-_Broadcasting Act_ means the _Broadcasting Act 1942_. _former commercial radio licence_ means a licence that was granted as a commercial radio licence under section&#160;81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former commercial television licence_ means a licence that was granted as a commercial television licence under section&#160;81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former limited licence_ means a licence that was granted as a limited licence under section&#160;81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former public radio licence_ means a licence that was granted as a public radio licence under section&#160;81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former remote radio licence_ means a licence that was granted as a remote radio licence under section&#160;81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former remote television licence_ means a licence that was granted as a remote television licence under section&#160;81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former retransmission permit_ means a permit that was granted as a retransmission permit under section&#160;89DA of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act. _former supplementary radio licence_ means a licence that was granted as a supplementary radio licence under section&#160;81 of the Broadcasting Act following an application under section&#160;82A of that Act and that was in force under that Act immediately before the commencement of this Act. _former term_, in relation to a licence or permit granted under the Broadcasting Act and in force immediately before the commencement of this Act, means the period for which the licence or permit was granted under the Broadcasting Act. _new Act_ means the _Broadcasting Services Act 1992_. _Radcom Act_ means the _Radiocommunications Act 1992_. _Tribunal_ means the Australian Broadcasting Tribunal formerly constituted under the _Broadcasting Act 1942_.  </dl></dl>
+[20](#20).          Protection for persons having interests in former supplementary radio licences    15
 
-<center>Back to Top</center>
+    **Division 4—Program standards**
 
-<center>**
+[21](#21).          Program standards                                                                             17
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<division>Division&#160;2&#151;Licences </division> 
-**</center>
+    **Division 5—Licence fees** 
 
-**
+    **Division 6—Miscellaneous**
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 5  Preservation of certain licences 
-**
+[23](#23).          Vesting of property, rights and liabilities of the Australian Broadcasting Tribunal                20
 
- <dl compact=""><dl compact="">
+[24](#24).          Effect of directions and orders under Division 4 of Part IIIBA of the Broadcasting Act        20
 
-<dt>(1)</dt><dd>On the commencement of this Act:
+[25](#25).          Continuation of secrecy provision                                                    21
 
-</dd> </dl></dl>
+[26](#26).          Obligations to provide information or produce documents under the Broadcasting Act        22
 
-<dl compact=""><dl compact=""><dl compact="">
+[27](#27).          Technical standards relating to broadcasting equipment                   22
 
-<dt>(a)</dt><dd>each former commercial radio licence continues in force as a commercial
+**Part 3—Repeals and consequential amendments**
 
-radio broadcasting licence as if such a licence had been allocated to the
+[28](#28).          Repeal of the Broadcasting Act                                                         23
 
-holder under Part&#160;4 of the new Act; and</dd>
+[29](#29).          Other repeals                                                                                     25
 
-<dt>(b)</dt><dd>each former commercial television licence continues in force as a
+[30](#30).          Consequential amendments                                                               25
 
-commercial television broadcasting licence as if such a licence had been
+**Schedule 1—Repealed Acts** 
 
-allocated to the holder under Part&#160;4 of the new Act; and</dd>
+**Schedule 2—Consequential amendments** 
 
-<dt>(c)</dt><dd>each former public radio licence continues in force as a community
+**Notes** 
 
-broadcasting licence as if such a licence had been allocated to the holder
+ 
 
-under Part&#160;6 of the new Act; and</dd>
+## An Act to make transitional arrangements and consequential amendments as a result of the enactment of the _Broadcasting Services Act 1992_
 
-<dt>(d)</dt><dd>each former remote radio licence continues in force as a commercial radio
+## Part 1—Preliminary
 
-broadcasting licence as if such a licence had been allocated to the holder
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-under Part&#160;4 of the new Act; and</dd>
+                   This Act may be cited as the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
 
-<dt>(e)</dt><dd>each former remote television licence continues in force as a commercial
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-television broadcasting licence as if such a licence had been allocated to the
+                   This Act commences on the day fixed under subsection 2(2) of the _Broadcasting Services Act 1992_ or on the day applicable under subsection 2(3) of that Act, as the case requires.
 
-holder under Part&#160;4 of the new Act; and</dd>
+##### <a id="3"></a>3  Interpretation—expressions used in the Broadcasting Services Act
 
-<dt>(f)</dt><dd>each former supplementary radio licence continues in force as a commercial
+                   In this Act, unless the contrary intention appears, expressions that are defined in section 6 of the _Broadcasting Services Act 1992_ have the same meaning when used in this Act.
 
-radio broadcasting licence as if such a licence had been allocated to the
+## Part 2—Transitional provisions
 
-holder under Part&#160;4 of the new Act.
+### Division 1—Preliminary
 
-</dd>
+##### <a id="4"></a>4  Interpretation
 
-</dl></dl></dl>
+                   In this Part, unless the contrary intention appears:
 
-<dl compact=""><dl compact="">
+                    <a name="broadcast-act"></a>**_Broadcasting Act_** means the _Broadcasting Act 1942_.
 
-<dt>(2)</dt><dd>A broadcasting service provided immediately before the commencement of
+                    <a name="former-commerci-radio-licenc"></a>**_former commercial radio licence_** means a licence that was granted as a commercial radio licence under section 81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
-this Act under a former limited licence is, for the purposes of the new Act,
+                    <a name="former-commerci-televis-licenc"></a>**_former commercial television licence_** means a licence that was granted as a commercial television licence under section 81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
-taken to be an open narrowcasting service for the remainder of the former term
+                    <a name="former-limit-licenc"></a>**_former limited licence_** means a licence that was granted as a limited licence under section 81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
-of the licence.</dd> <dt>(3)</dt><dd>A radio broadcasting service that was, immediately before the commencement of this Act, being provided under the _Broadcasting and Television Act 1942_ as in force immediately before the day fixed by Proclamation under subsection 2(1) of the _Broadcasting and Television Amendment Act 1985_ is, for the purposes of paragraph&#160;(1)(a), taken to be provided under a former commercial radio licence. </dd> </dl></dl>
+                    <a name="former-public-radio-licenc"></a>**_former public radio licence_** means a licence that was granted as a public radio licence under section 81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
-**
+                    <a name="former-remot-radio-licenc"></a>**_former remote radio licence_** means a licence that was granted as a remote radio licence under section 81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 6  Remote Aboriginal community services 
-**
+                    <a name="former-remot-televis-licenc"></a>**_former remote television licence_** means a licence that was granted as a remote television licence under section 81 of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
- <dl compact=""><dl compact="">
+                    <a name="former-retransmiss-permit"></a>**_former retransmission permit_** means a permit that was granted as a retransmission permit under section 89DA of the Broadcasting Act and that was in force under that Act immediately before the commencement of this Act.
 
-<dt>(1)</dt><dd>Notwithstanding anything contained in the new Act, a broadcasting service
+                    <a name="former-supplementari-radio-licenc"></a>**_former supplementary radio licence_** means a licence that was granted as a supplementary radio licence under section 81 of the Broadcasting Act following an application under section 82A of that Act and that was in force under that Act immediately before the commencement of this Act.
 
-provided, immediately before the commencement of this Act, for remote
+                    <a name="former-term"></a>**_former term_**, in relation to a licence or permit granted under the Broadcasting Act and in force immediately before the commencement of this Act, means the period for which the licence or permit was granted under the Broadcasting Act.
 
-Aboriginal community purposes referred to in subsection 81B(7) of the
+                    <a name="new-act"></a>**_new Act_** means the _Broadcasting Services Act 1992_.
 
-Broadcasting Act in relation to a community declared, under subsection 81B(9)
+                    <a name="radcom-act"></a>**_Radcom Act_** means the _Radiocommunications Act 1992_.
 
-of the Broadcasting Act, to be a remote Aboriginal community is taken to be a
+                    <a name="tribun"></a>**_Tribunal_** means the Australian Broadcasting Tribunal formerly constituted under the _Broadcasting Act 1942_.
 
-service provided under a community broadcasting licence.</dd> <dt>(2)</dt><dd>A community broadcasting licence is taken to have been granted, on that commencement, in respect of each service to which subsection&#160;(1) applies, to: </dd> </dl></dl>
+### Division 2—Licences
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="5"></a>5  Preservation of certain licences
 
-<dt>(a)</dt><dd>the incorporated media association representing the Aboriginal community
+             (1)  On the commencement of this Act:
 
-for which that service is provided; or</dd>
+                     (a)  each former commercial radio licence continues in force as a commercial radio broadcasting licence as if such a licence had been allocated to the holder under Part 4 of the new Act; and
 
-<dt>(b)</dt><dd>if there is no such association&#151;the incorporated community council,
+                     (b)  each former commercial television licence continues in force as a commercial television broadcasting licence as if such a licence had been allocated to the holder under Part 4 of the new Act; and
 
-however described, representing that community.
+                     (c)  each former public radio licence continues in force as a community broadcasting licence as if such a licence had been allocated to the holder under Part 6 of the new Act; and
 
-</dd>
+                     (d)  each former remote radio licence continues in force as a commercial radio broadcasting licence as if such a licence had been allocated to the holder under Part 4 of the new Act; and
 
-</dl></dl></dl>
+                     (e)  each former remote television licence continues in force as a commercial television broadcasting licence as if such a licence had been allocated to the holder under Part 4 of the new Act; and
 
-**
+                      (f)  each former supplementary radio licence continues in force as a commercial radio broadcasting licence as if such a licence had been allocated to the holder under Part 4 of the new Act.
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 7  Terms of preserved licences 
-**
+             (2)  A broadcasting service provided immediately before the commencement of this Act under a former limited licence is, for the purposes of the new Act, taken to be an open narrowcasting service for the remainder of the former term of the licence.
 
- <dl compact=""><dl compact="">
+             (3)  A radio broadcasting service that was, immediately before the commencement of this Act, being provided under the _Broadcasting and Television Act 1942_ as in force immediately before the day fixed by Proclamation under subsection 2(1) of the _Broadcasting and Television Amendment Act 1985_ is, for the purposes of paragraph (1)(a), taken to be provided under a former commercial radio licence.
 
-		Subject to any action taken under the new Act, the term of a licence to which
+##### <a id="6"></a>6  Remote Aboriginal community services
 
-subsection 5(1) applies is that part of its former term which remained at the
+             (1)  Notwithstanding anything contained in the new Act, a broadcasting service provided, immediately before the commencement of this Act, for remote Aboriginal community purposes referred to in subsection 81B(7) of the Broadcasting Act in relation to a community declared, under subsection 81B(9) of the Broadcasting Act, to be a remote Aboriginal community is taken to be a service provided under a community broadcasting licence.
 
-commencement of this Act, but the licence may be renewed under the new Act.
+             (2)  A community broadcasting licence is taken to have been granted, on that commencement, in respect of each service to which subsection (1) applies, to:
 
- </dl></dl>
+                     (a)  the incorporated media association representing the Aboriginal community for which that service is provided; or
 
-**
+                     (b)  if there is no such association—the incorporated community council, however described, representing that community.
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 8  Licence areas of preserved licences 
-**
+##### <a id="7"></a>7  Terms of preserved licences
 
- <dl compact=""><dl compact="">
+                   Subject to any action taken under the new Act, the term of a licence to which subsection 5(1) applies is that part of its former term which remained at the commencement of this Act, but the licence may be renewed under the new Act.
 
-<dt>(1)</dt><dd>Subject to any action taken under the new Act and to section&#160;15, a
+##### <a id="8"></a>8  Licence areas of preserved licences
 
-licence to which subsection 5(1) applies has as its licence area the area that
+             (1)  Subject to any action taken under the new Act and to section 15, a licence to which subsection 5(1) applies has as its licence area the area that was the service area of the former licence under the Broadcasting Act immediately before the commencement of this Act.
 
-was the service area of the former licence under the Broadcasting Act
+             (2)  The ABA must take the licence areas referred to in subsection (1) into account in preparing a licence area plan under section 26 of the new Act.
 
-immediately before the commencement of this Act.</dd> <dt>(2)</dt><dd>The ABA must take the licence areas referred to in subsection&#160;(1) into account in preparing a licence area plan under section&#160;26 of the new Act.</dd> <dt>(3)</dt><dd>The licence area of a licence to which subsection 5(1) applies by virtue of subsection 5(3) is such area as the ABA, in its absolute discretion, determines. </dd> </dl></dl>
+             (3)  The licence area of a licence to which subsection 5(1) applies by virtue of subsection 5(3) is such area as the ABA, in its absolute discretion, determines.
 
-<center>Back to Top</center>
+##### <a id="9"></a>9  Conditions of licences
 
-**
+             (1)  The conditions applicable to a licence to which subsection 5(1) applies are:
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 9  Conditions of licences 
-**
+                     (a)  the conditions applicable to the licence under Schedule 2 of the new Act and any additional conditions imposed by the ABA under the new Act; and
 
- <dl compact=""><dl compact="">
+                     (b)  in the case of a former public radio licence to which a matter referred to in paragraph (a) of the definition of **_service specification_** in subsection 4(1) of the Broadcasting Act applied immediately before the commencement of this Act—a condition that the licensee will comply with that matter; and
 
-<dt>(1)</dt><dd>The conditions applicable to a licence to which subsection 5(1) applies
+                     (c)  if:
 
-are:
+                              (i)  the Tribunal had, under section 81 or 85 of the Broadcasting Act, imposed or varied a condition on the former licence; and
 
-</dd> </dl></dl>
+                             (ii)  that condition applied to the former licence immediately before the commencement of this Act; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                            (iii)  that condition is not inconsistent with the new Act or with an additional condition imposed by the ABA under the new Act;
 
-<dt>(a)</dt><dd>the conditions applicable to the licence under Schedule&#160;2 of the new
+                            a condition that the licensee will comply with that condition; and
 
-Act and any additional conditions imposed by the ABA under the new Act; and</dd>
+                     (d)  if the Minister had approved an implementation plan in relation to the licence under section 94N or 94P of the Broadcasting Act and that plan was in force immediately before the commencement of this Act—a condition that the licensee will comply with the plan as in force at that time.
 
-<dt>(b)</dt><dd>in the case of a former public radio licence to which a matter referred to
+             (2)  A condition referred to in paragraph (1)(b) or (c) is, for the purposes of the new Act, taken to be a condition determined in writing by the ABA under that Act.
 
-in paragraph&#160;(a) of the definition of _service specification_
+             (3)  The Minister may vary the condition referred to in paragraph (1)(d) in the same manner as the Minister could have varied the implementation plan under section 94Q of the Broadcasting Act.
 
-in subsection 4(1) of the Broadcasting Act applied immediately before the
+##### <a id="10"></a>10  Authority to operate radiocommunications transmitters
 
-commencement of this Act&#151;a condition that the licensee will comply with that
+             (1)  A licence warrant granted under the Broadcasting Act in relation to a former licence continued in force under subsection 5(1) (**_the related licence_**) continues in force as a transmitter licence under section 102 of the Radcom Act as if such a licence had been granted under that section to the licensee of the related licence.
 
-matter; and</dd>
+             (2)  A transmitter licence to which subsection (1) applies is a licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting a broadcasting service in accordance with the related licence.
 
-<dt>(c)</dt><dd>if:
+             (3)  A licence warrant granted under the Broadcasting Act in relation to a former limited licence to which subsection 5(2) applies continues in force as a transmitter licence under section 100 of the Radcom Act as if such a licence had been granted under that section to the licensee of the former limited licence.
 
-</dd>
+             (4)  A transmitter licence to which subsection (3) applies is a licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting the open narrowcasting service referred to in subsection 5(2).
 
-</dl></dl></dl>
+             (5)  A former retransmission permit that related to the retransmission of programs continues in force as a transmitter licence under section 100 of the Radcom Act as if such a licence had been granted under that section to the holder of the former retransmission permit.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (6)  A transmitter licence to which subsection (5) applies is a licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting the same service as was provided immediately before the commencement of this Act under the former retransmission permit.
 
-<dt>(i)</dt><dd>the Tribunal had, under section&#160;81 or 85 of the Broadcasting Act,
+             (7)  Subject to subsection (10), the conditions of a transmitter licence referred to in subsection (1) or (3) are:
 
-imposed or varied a condition on the former licence; and</dd>
+                     (a)  the conditions that applied to the former licence warrant under the Broadcasting Act; and
 
-<dt>(ii)</dt><dd>that condition applied to the former licence immediately before the
+                     (b)  a condition that the holder of the licence must comply with the provisions of the Radcom Act.
 
-commencement of this Act; and</dd>
+             (8)  Notwithstanding anything contained in the Radcom Act but subject to subsection (10), the conditions of a transmitter licence referred to in subsection (5) are:
 
-<dt>(iii)</dt><dd>that condition is not inconsistent with the new Act or with an
+                     (a)  the conditions of the former retransmission permit; and
 
-additional condition imposed by the ABA under the new Act;
+                     (b)  a condition that the holder of the licence must comply with the provisions of the Radcom Act.
 
-</dd>
+             (9)  A transmitter licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting a broadcasting service in accordance with a community broadcasting licence referred to in subsection 6(2) is taken to have been granted, on the commencement of this Act, under section 102 of the Radcom Act to the incorporated body referred to in that subsection.
 
-</dl></dl></dl></dl>
+           (10)  The Minister may, by notice in writing given to the holder of a transmitter licence referred to in subsection (1), (3) or (5):
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  impose one or more further conditions to which the licence is subject; or
 
-		a condition that the licensee will comply with that condition; and
+                     (b)  revoke or vary any condition of the licence, other than the condition specified in paragraph 7(b) or 8(b).
 
-<dt>(d)</dt><dd>if the Minister had approved an implementation plan in relation to the
+           (11)  The Minister must not impose a condition which is inconsistent with the new Act or with a condition of the relevant licence or class licence under that Act.
 
-licence under section&#160;94N or 94P of the Broadcasting Act and that plan was
+           (12)  A transmitter licence referred to in subsection (1) or (9):
 
-in force immediately before the commencement of this Act&#151;a condition that the
+                     (a)  subject to paragraph (b), continues in force while the related licence remains in force; and
 
-licensee will comply with the plan as in force at that time.
+                     (b)  does not have effect while the related licence is suspended; and
 
-</dd>
+                     (c)  upon the transfer of the related licence, is taken to be granted to the person to whom the related licence is transferred.
 
-</dl></dl></dl>
+           (13)  Subject to any action taken under the Radcom Act:
 
-<dl compact=""><dl compact="">
+                     (a)  a transmitter licence referred to in subsection (3) remains in force for the remainder of the former term of the former limited licence; and
 
-<dt>(2)</dt><dd>A condition referred to in paragraph&#160;(1)(b) or (c) is, for the
+                     (b)  a transmitter licence referred to in subsection (5) remains in force for the remainder of the former term of the former retransmission permit.
 
-purposes of the new Act, taken to be a condition determined in writing by the
+           (14)  For the purposes of the application of this section to a licence referred to in subsection 5(3), any specifications in force in relation to that licence under the Broadcasting Act are taken to be a licence warrant granted under that Act.
 
-ABA under that Act.</dd> <dt>(3)</dt><dd>The Minister may vary the condition referred to in paragraph&#160;(1)(d) in the same manner as the Minister could have varied the implementation plan under section&#160;94Q of the Broadcasting Act. </dd> </dl></dl>
+           (15)  Subsections (1), (3), (5) and (9) do not apply in relation to an instrument that is no longer in force immediately before 1 July 1993.
 
-**
+##### <a id="11"></a>11  Applications for renewal not dealt with under the Broadcasting Act
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 10  Authority to operate radiocommunications transmitters 
-**
+                   If:
 
- <dl compact=""><dl compact="">
+                     (a)  before the commencement of this Act, the holder of a former licence to which subsection 5(1) applies had made an application for renewal of the former licence in accordance with the Broadcasting Act; and
 
-<dt>(1)</dt><dd>A licence warrant granted under the Broadcasting Act in relation to a
+                     (b)  the application had not been finally dealt with before that commencement; 
 
-former licence continued in force under subsection 5(1) (_the related licence_) continues in force as a transmitter licence under section 102
+the licence is taken to have been renewed under the Broadcasting Act immediately before that commencement.
 
-of the Radcom Act as if such a licence had been granted under that section to
+##### <a id="12"></a>12  Pending applications for grant of licences under the Broadcasting Act
 
-the licensee of the related licence.</dd> <dt>(2)</dt><dd>A transmitter licence to which subsection&#160;(1) applies is a licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting a broadcasting service in accordance with the related licence.</dd> <dt>(3)</dt><dd>A licence warrant granted under the Broadcasting Act in relation to a former limited licence to which subsection 5(2) applies continues in force as a transmitter licence under section 100 of the Radcom Act as if such a licence had been granted under that section to the licensee of the former limited licence.</dd> <dt>(4)</dt><dd>A transmitter licence to which subsection&#160;(3) applies is a licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting the open narrowcasting service referred to in subsection 5(2).</dd> <dt>(5)</dt><dd>A former retransmission permit that related to the retransmission of programs continues in force as a transmitter licence under section 100 of the Radcom Act as if such a licence had been granted under that section to the holder of the former retransmission permit.</dd> <dt>(6)</dt><dd>A transmitter licence to which subsection&#160;(5) applies is a licence to operate and to possess a radiocommunications transmitter or transmitters for the purpose of transmitting the same service as was provided immediately before the commencement of this Act under the former retransmission permit.</dd> <dt>(7)</dt><dd>Subject to subsection&#160;(10), the conditions of a transmitter licence referred to in subsection&#160;(1) or (3) are: </dd> </dl></dl>
+             (1)  If:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  before the commencement of this Act, the Minister had published a notice in accordance with subsection 82(1) of the Broadcasting Act inviting applications for the grant of commercial radio licence, a public radio licence or a remote licence; and
 
-<dt>(a)</dt><dd>the conditions that applied to the former licence warrant under the
+                     (b)  a person had applied, in accordance with the Broadcasting Act, for the grant of a licence referred to in the notice; and
 
-Broadcasting Act; and</dd>
-
-<dt>(b)</dt><dd>a condition that the holder of the licence must comply with the provisions
-
-of the Radcom Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact="">
-
-<dt>(8)</dt><dd>Notwithstanding anything contained in the Radcom Act but subject to
-
-subsection&#160;(10), the conditions of a transmitter licence referred to in
-
-subsection&#160;(5) are:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the conditions of the former retransmission permit; and</dd>
-
-<dt>(b)</dt><dd>a condition that the holder of the licence must comply with the provisions
-
-of the Radcom Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(9)</dt><dd>A transmitter licence to operate and to possess a radiocommunications
-
-transmitter or transmitters for the purpose of transmitting a broadcasting
-
-service in accordance with a community broadcasting licence referred to in
-
-subsection 6(2) is taken to have been granted, on the commencement of this Act,
-
-under section 102 of the Radcom Act to the incorporated body referred to in
-
-that subsection.</dd> <dt>(10)</dt><dd>The Minister may, by notice in writing given to the holder of a transmitter licence referred to in subsection&#160;(1), (3) or (5): </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>impose one or more further conditions to which the licence is subject;
-
-or</dd>
-
-<dt>(b)</dt><dd>revoke or vary any condition of the licence, other than the condition
-
-specified in paragraph 7(b) or 8(b).
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(11)</dt><dd>The Minister must not impose a condition which is inconsistent with the
-
-new Act or with a condition of the relevant licence or class licence under that
-
-Act.</dd> <dt>(12)</dt><dd>A transmitter licence referred to in subsection&#160;(1) or (9): </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>subject to paragraph&#160;(b), continues in force while the related
-
-licence remains in force; and</dd>
-
-<dt>(b)</dt><dd>does not have effect while the related licence is suspended; and</dd>
-
-<dt>(c)</dt><dd>upon the transfer of the related licence, is taken to be granted to the
-
-person to whom the related licence is transferred.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(13)</dt><dd>Subject to any action taken under the Radcom Act:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a transmitter licence referred to in subsection&#160;(3) remains in force
-
-for the remainder of the former term of the former limited licence; and</dd>
-
-<dt>(b)</dt><dd>a transmitter licence referred to in subsection&#160;(5) remains in force
-
-for the remainder of the former term of the former retransmission permit.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(14)</dt><dd>For the purposes of the application of this section to a licence referred
-
-to in subsection 5(3), any specifications in force in relation to that licence
-
-under the Broadcasting Act are taken to be a licence warrant granted under that
-
-Act.</dd> <dt>(15)</dt><dd>Subsections (1), (3), (5) and (9) do not apply in relation to an instrument that is no longer in force immediately before 1 July 1993\. </dd> </dl></dl>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 11  Applications for renewal not dealt with under the Broadcasting Act 
-**
-
-<dl compact=""><dl compact="">
-
-		If:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before the commencement of this Act, the holder of a former licence to
-
-which subsection 5(1) applies had made an application for renewal of the former
-
-licence in accordance with the Broadcasting Act; and</dd>
-
-<dt>(b)</dt><dd>the application had not been finally dealt with before that commencement; 
-
-</dd>
-
-</dl></dl></dl>
-
-the licence is taken to have been renewed under the Broadcasting Act 
-<center>Back to Top</center>
- immediately before that commencement. 
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 12  Pending applications for grant of licences under the Broadcasting Act 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before the commencement of this Act, the Minister had published a notice
-
-in accordance with subsection 82(1) of the Broadcasting Act inviting
-
-applications for the grant of commercial radio licence, a public radio licence
-
-or a remote licence; and</dd>
-
-<dt>(b)</dt><dd>a person had applied, in accordance with the Broadcasting Act, for the
-
-grant of a licence referred to in the notice; and</dd>
-
-<dt>(c)</dt><dd>the application was pending immediately before that commencement;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the application was pending immediately before that commencement;
 
 the application may proceed as if:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  the repeal effected by section 28 had not been made; and
 
-<dt>(d)</dt><dd>the repeal effected by section&#160;28 had not been made; and</dd>
+                     (e)  references in the Broadcasting Act to the Tribunal were references to the ABA.
 
-<dt>(e)</dt><dd>references in the Broadcasting Act to the Tribunal were references to the
+             (2)  If:
 
-ABA.
+                     (a)  before the commencement of this Act, a person had applied, in accordance with section 82A of the Broadcasting Act, for the grant of a supplementary radio licence; and
 
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>If:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before the commencement of this Act, a person had applied, in accordance
-
-with section&#160;82A of the Broadcasting Act, for the grant of a supplementary
-
-radio licence; and</dd>
-
-<dt>(b)</dt><dd>the application was pending immediately before that commencement;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the application was pending immediately before that commencement;
 
 the application may proceed as if:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the repeal effected by section 28 had not been made; and
 
-<dt>(c)</dt><dd>the repeal effected by section&#160;28 had not been made; and</dd>
+                     (d)  references in the Broadcasting Act to the Tribunal were references to the ABA.
 
-<dt>(d)</dt><dd>references in the Broadcasting Act to the Tribunal were references to the
+          (2A)  Subsection (2) does not apply to an application if the application has not been referred to the Tribunal or to the ABA under paragraph 82A(4)(a) of the Broadcasting Act before the commencement of this subsection.
 
-ABA.
+             (3)  For the purposes of an application referred to in subsection (1) or (2):
 
-</dd>
+                     (a)  all proceedings which had taken place before the Tribunal before the commencement of this Act in respect of the application are to be regarded as having taken place before the ABA; and
 
-</dl></dl></dl>
+                     (b)  a document lodged with or information provided to the Tribunal in respect of the application is taken to have been lodged with or provided to the ABA; and
 
-<dl compact=""><dl compact="">
+                     (c)  unless the ABA otherwise orders, all evidence given before the Tribunal at an inquiry in respect of the application is taken to have been given before the ABA.
 
-<dt>(2A)</dt><dd>Subsection (2) does not apply to an application if the application has
+             (4)  If a commercial radio licence, a public radio licence, a supplementary radio licence or a remote licence is granted in respect of an application referred to in subsection (1), subsection 5(1) applies in relation to that licence as if the licence had been granted under section 81 of the Broadcasting Act and was in force immediately before the commencement of this Act.
 
-not been referred to the Tribunal or to the ABA under paragraph 82A(4)(a) of
+             (5)  The ABA must not allocate a licence under section 39 of the new Act in respect of a licence area (the **_base licence area_**) until it has, under subsection (1) of this section, finally dealt with any application for the grant of a commercial radio licence in respect of a service area that would, if the application had been made under the new Act, be a licence area that is the same as the base licence area because of subsection 39(4) of the new Act.
 
-the Broadcasting Act before the commencement of this subsection.</dd> <dt>(3)</dt><dd>For the purposes of an application referred to in subsection&#160;(1) or (2): </dd> </dl></dl>
+             (6)  For the purposes of subsection (5), an application is taken to be finally dealt with if:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  a licence has been granted in respect of the application; or
 
-<dt>(a)</dt><dd>all proceedings which had taken place before the Tribunal before the
+                     (b)  the ABA has refused to grant a licence in respect of the application and:
 
-commencement of this Act in respect of the application are to be regarded as
+                              (i)  no appeal is made against that decision before the end of the period within which an appeal could be made; or
 
-having taken place before the ABA; and</dd>
+                             (ii)  an appeal has been made within that period and the appeal, and any subsequent appeal, has been dismissed; or
 
-<dt>(b)</dt><dd>a document lodged with or information provided to the Tribunal in respect
+                            (iii)  the applicant has withdrawn the application.
 
-of the application is taken to have been lodged with or provided to the ABA;
+             (7)  In this section, **_commercial radio licence_**, **_inquiry_**, **_public radio licence_**, **_remote licence_** and **_supplementary radio licence_** have the same meanings as in the Broadcasting Act.
 
-and</dd>
+##### <a id="13"></a>13  Pending applications for grant of licences under the Broadcasting Act for services not requiring licences under the Broadcasting Services Act
 
-<dt>(c)</dt><dd>unless the ABA otherwise orders, all evidence given before the Tribunal at
+                   If:
 
-an inquiry in respect of the application is taken to have been given before the
+                     (a)  before the commencement of this Act, a person had applied, in accordance with the Broadcasting Act, for the grant of a licence under the Broadcasting Act; and
 
-ABA.
+                     (b)  the application was pending immediately before that commencement; and
 
-</dd>
+                     (c)  the service that was proposed to be provided under the licence is a service referred to in paragraph 11(d), (e) or (f) of the new Act;
 
-</dl></dl></dl>
+the person is taken to have lodged, on that commencement, an application under the Radcom Act for a transmitter licence that relates to the proposed service.
 
-<dl compact=""><dl compact="">
+##### <a id="16"></a>16  Aggregation of licence areas of existing licences in Tasmania
 
-<dt>(4)</dt><dd>If a commercial radio licence, a public radio licence, a supplementary
+             (1)  Upon application by a licensee who holds a former commercial television licence in Tasmania that is continued in force under subsection 5(1), the Minister, in his or her discretion, may, by notice in writing, direct that the licence area of the licence is an area that includes the combined licence areas of the former commercial television licences inTasmania that are continued in force under subsection 5(1).
 
-radio licence or a remote licence is granted in respect of an application
+             (2)  If the licence area of a licence has been extended in accordance with subsection (1), the Minister may take action under subsection 10(10) to make any consequential changes to the conditions of the transmitter licence relating to that licence.
 
-referred to in subsection&#160;(1), subsection 5(1) applies in relation to that
+             (3)  An application by a licensee under subsection (1) must be accompanied by an implementation plan covering details of the stages and timetable proposed by the licensee for the extension of services in the licence area.
 
-licence as if the licence had been granted under section&#160;81 of the
+             (4)  The Minister must not give a direction under subsection (1) in relation to a licensee unless the Minister has approved the implementation plan submitted by the licensee.
 
-Broadcasting Act and was in force immediately before the commencement of this
+             (5)  The Minister may, with the agreement of the licensee, vary the implementation plan submitted by the licensee.
 
-Act.</dd> <dt>(5)</dt><dd>The ABA must not allocate a licence under section&#160;39 of the new Act in respect of a licence area (the _base licence area_) until it has, under subsection&#160;(1) of this section, finally dealt with any application for the grant of a commercial radio licence in respect of a service area that would, if the application had been made under the new Act, be a licence area that is the same as the base licence area because of subsection 39(4) of the new Act.</dd> <dt>(6)</dt><dd>For the purposes of subsection&#160;(5), an application is taken to be finally dealt with if: </dd> </dl></dl>
+             (6)  The conditions of the licence include a condition that the licensee will comply with the implementation plan as amended from time to time.
 
-<center>Back to Top</center>
+### Division 3—Directorships and control
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="17"></a>17  Special provision for certain directorships
 
-<dt>(a)</dt><dd>a licence has been granted in respect of the application; or</dd>
+                   If:
 
-<dt>(b)</dt><dd>the ABA has refused to grant a licence in respect of the application and:
+                     (a)  immediately before the commencement of this Act, a person was a director of a company; and
 
-</dd>
+                     (b)  the holding by the person of that directorship was not a contravention of the Broadcasting Act; and
 
-</dl></dl></dl>
+                     (c)  apart from this section, the holding by the person of that directorship would, immediately after the commencement of this Act, be a contravention of the new Act;
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+the holding by the person of that directorship (including a holding on re-election) is not a contravention of the new Act.
 
-<dt>(i)</dt><dd>no appeal is made against that decision before the end of the period
+##### <a id="18"></a>18  Periods of grace for compliance with ownership and control provisions
 
-within which an appeal could be made; or</dd>
+             (1)  This section applies in relation to a person who was, immediately before the commencement of this Act, in contravention of a provision of Part IIIBA of the Broadcasting Act and who is, by reason of the circumstances which gave rise to that contravention, also in contravention of a provision of Part 5 of the new Act.
 
-<dt>(ii)</dt><dd>an appeal has been made within that period and the appeal, and any
+             (2)  If, in relation to the person, a period of grace had not expired before the commencement of this Act, the person is taken not to be in contravention of a provision of Part 5 of the new Act by reason of the circumstances referred to in subsection (1) until the end of that period of grace.
 
-subsequent appeal, has been dismissed; or</dd>
+             (3)  If an application had been made by the person to the Tribunal under a provision of Part IIIBA of the Broadcasting Act for an extension of a period of grace and the application had not been determined by the Tribunal before the commencement of this Act, the application may be determined by the ABA.
 
-<dt>(iii)</dt><dd>the applicant has withdrawn the application.
+             (4)  If:
 
-</dd>
+                     (a)  the person would have been entitled to apply to the Tribunal under Part IIIBA of the Broadcasting Act for an extension of a period of grace; and
 
-</dl></dl></dl></dl>
+                     (b)  the time for making that application had not expired before the commencement of this Act; and
 
-<dl compact=""><dl compact="">
-
-<dt>(7)</dt><dd>In this section, _commercial radio licence_,
-
-_inquiry_, _public radio licence_, _remote licence_ and _supplementary radio licence_ have the same
-
-meanings as in the Broadcasting Act.
-
-</dd> </dl></dl>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 13  Pending applications for grant of licences under the Broadcasting Act for services not requiring licences under the Broadcasting Services Act 
-**
-
-<dl compact=""><dl compact="">
-
-		If:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before the commencement of this Act, a person had applied, in accordance
-
-with the Broadcasting Act, for the grant of a licence under the Broadcasting
-
-Act; and</dd>
-
-<dt>(b)</dt><dd>the application was pending immediately before that commencement; and</dd>
-
-<dt>(c)</dt><dd>the service that was proposed to be provided under the licence is a
-
-service referred to in paragraph 11(d), (e) or (f) of the new Act;
-
-</dd>
-
-</dl></dl></dl>
-
-the person is taken to have lodged, on that commencement, an application under the Radcom Act for a transmitter licence that relates to the proposed service. 
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 16  Aggregation of licence areas of existing licences in Tasmania 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Upon application by a licensee who holds a former commercial television
-
-licence in Tasmania that is continued in force under subsection 5(1), the
-
-Minister, in his or her discretion, may, by notice in writing, direct that the
-
-licence area of the licence is an area that includes the combined licence areas
-
-of the former commercial television licences inTasmania that are continued in
-
-force under subsection 5(1).</dd> <dt>(2)</dt><dd>If the licence area of a licence has been extended in accordance with subsection&#160;(1), the Minister may take action under subsection 10(10) to make any consequential changes to the conditions of the transmitter licence relating to that licence.</dd> <dt>(3)</dt><dd>An application by a licensee under subsection&#160;(1) must be accompanied by an implementation plan covering details of the stages and timetable proposed by the licensee for the extension of services in the licence area.</dd> <dt>(4)</dt><dd>The Minister must not give a direction under subsection&#160;(1) in relation to a licensee unless the Minister has approved the implementation plan submitted by the licensee.</dd> <dt>(5)</dt><dd>The Minister may, with the agreement of the licensee, vary the implementation plan submitted by the licensee.</dd> <dt>(6)</dt><dd>The conditions of the licence include a condition that the licensee will comply with the implementation plan as amended from time to time. </dd> </dl></dl>
-
-<center>**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<division>Division&#160;3&#151;Directorships and control </division> 
-**</center>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 17  Special provision for certain directorships 
-**
-
- <dl compact=""><dl compact="">
-
-		If:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>immediately before the commencement of this Act, a person was a director
-
-of a company; and</dd>
-
-<dt>(b)</dt><dd>the holding by the person of that directorship was not a contravention of
-
-the Broadcasting Act; and</dd>
-
-<dt>(c)</dt><dd>apart from this section, the holding by the person of that directorship
-
-would, immediately after the commencement of this Act, be a contravention of
-
-the new Act;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-the holding by the person of that directorship (including a holding on re-election) is not a contravention of the new Act. 
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 18  Periods of grace for compliance with ownership and control provisions 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>This section applies in relation to a person who was, immediately before
-
-the commencement of this Act, in contravention of a provision of
-
-Part&#160;IIIBA of the Broadcasting Act and who is, by reason of the
-
-circumstances which gave rise to that contravention, also in contravention of a
-
-provision of Part&#160;5 of the new Act.</dd> <dt>(2)</dt><dd>If, in relation to the person, a period of grace had not expired before the commencement of this Act, the person is taken not to be in contravention of a provision of Part&#160;5 of the new Act by reason of the circumstances referred to in subsection&#160;(1) until the end of that period of grace.</dd> <dt>(3)</dt><dd>If an application had been made by the person to the Tribunal under a provision of Part&#160;IIIBA of the Broadcasting Act for an extension of a period of grace and the application had not been determined by the Tribunal before the commencement of this Act, the application may be determined by the ABA.</dd> <dt>(4)</dt><dd>If: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person would have been entitled to apply to the Tribunal under
-
-Part&#160;IIIBA of the Broadcasting Act for an extension of a period of grace;
-
-and</dd>
-
-<dt>(b)</dt><dd>the time for making that application had not expired before the
-
-commencement of this Act; and</dd>
-
-<dt>(c)</dt><dd>an application had not been made before that commencement; 
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  an application had not been made before that commencement; 
 
 the person may apply to the ABA for such an extension before the end of the time within which such an application could have been made.
 
-<dl compact=""><dl compact="">
+             (5)  The ABA has the same powers as were possessed by the Tribunal under the Broadcasting Act to grant or to refuse an application for extension of a period of grace.
 
-<dt>(5)</dt><dd>The ABA has the same powers as were possessed by the Tribunal under the
+             (6)  In this section, a reference to a period of grace is a reference to:
 
-Broadcasting Act to grant or to refuse an application for extension of a period
+                     (a)  a period of time specified, either directly or by reference to another provision of the Broadcasting Act, in subsection 90(1E), paragraph 90C(5B)(c), (d), (e) or (f), subsection 90FA(2), subsection 90G(7), paragraph 90JA(11)(c), subsection 92(4AA), paragraph 92(4B)(c), (d), (e) or (f), paragraph 92CA(2)(b), subsection 92D(7), paragraph 92FAA(11)(c), subsection 92JB(6) or (9) or subparagraph 92JB(13)(b)(i) or (ii) of the Broadcasting Act; or
 
-of grace.</dd> <dt>(6)</dt><dd>In this section, a reference to a period of grace is a reference to: </dd> </dl></dl>
+                     (b)  an extension of that period granted by the Tribunal before the commencement of this Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="19"></a>19  Grandfathering of existing interests relevant to control
 
-<dt>(a)</dt><dd>a period of time specified, either directly or by reference to another
+             (1)  If:
 
-provision of the Broadcasting Act, in subsection 90(1E), paragraph 90C(5B)(c),
+                     (a)  a person was not, immediately before the commencement of this Act, in contravention of a provision of Part IIIBA of the Broadcasting Act because the person was taken not to be, by reason of the application of the provisions of that Part, in a position to exercise control of a former commercial radio licence, a former commercial television licence, a newspaper or a company; and
 
-(d), (e) or (f), subsection 90FA(2), subsection 90G(7), paragraph 90JA(11)(c),
-
-subsection 92(4AA), paragraph 92(4B)(c), (d), (e) or (f), paragraph 92CA(2)(b),
-
-subsection 92D(7), paragraph 92FAA(11)(c), subsection 92JB(6) or (9) or
-
-subparagraph 92JB(13)(b)(i) or (ii) of the Broadcasting Act; or</dd>
-
-<dt>(b)</dt><dd>an extension of that period granted by the Tribunal before the
-
-commencement of this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 19  Grandfathering of existing interests relevant to control 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person was not, immediately before the commencement of this Act, in
-
-contravention of a provision of Part&#160;IIIBA of the Broadcasting Act because
-
-the person was taken not to be, by reason of the application of the provisions
-
-of that Part, in a position to exercise control of a former commercial radio
-
-licence, a former commercial television licence, a newspaper or a company;
-
-and</dd>
-
-<dt>(b)</dt><dd>the person would, but for this section, be in contravention of a provision
-
-of Part&#160;5 of the new Act on that commencement because the person would be
-
-taken to be in a position to exercise control of the corresponding commercial
-
-radio broadcasting licence or commercial television broadcasting licence, or
-
-that newspaper or company, as the case may be;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the person would, but for this section, be in contravention of a provision of Part 5 of the new Act on that commencement because the person would be taken to be in a position to exercise control of the corresponding commercial radio broadcasting licence or commercial television broadcasting licence, or that newspaper or company, as the case may be;
 
 the person is not taken to be in a position to exercise control of the licence, newspaper or company, as the case may be, for the purposes of the new Act while the circumstances of that person relevant to deciding under the new Act whether that person is in a position to exercise control of that licence, newspaper or company remain unchanged.
 
-<dl compact=""><dl compact="">
+             (2)  In this section:
 
-<dt>(2)</dt><dd>In this section:
+                    <a name="correspond-commerci-radio-broadcast-licenc"></a>**_corresponding commercial radio broadcasting licence_**, in relation to a former commercial radio licence, means the commercial radio broadcasting licence to which paragraph 5(1)(a) refers in relation to that former licence.
 
-</dd> </dl></dl>
+                    <a name="correspond-commerci-televis-broadcast-licenc"></a>**_corresponding commercial television broadcasting licence_**, in relation to a former commercial television licence, means the commercial television broadcasting licence to which paragraph 5(1)(b) refers in relation to that former licence.
 
-<center>Back to Top</center>
+                    <a name="newspap"></a>**_newspaper_** has the same meaning as in Part IIIBA of the Broadcasting Act.
 
-<def><dl compact=""><dl compact="">
+##### <a id="20"></a>20  Protection for persons having interests in former supplementary radio licences
 
-_corresponding commercial radio broadcasting licence_, in relation
+                   If:
 
-to a former commercial radio licence, means the commercial radio broadcasting
+                     (a)  a person was, immediately before the commencement of this Act:
 
-licence to which paragraph 5(1)(a) refers in relation to that former licence. _corresponding commercial television broadcasting licence_, in relation to a former commercial television licence, means the commercial television broadcasting licence to which paragraph 5(1)(b) refers in relation to that former licence. _newspaper_ has the same meaning as in Part&#160;IIIBA of the Broadcasting Act.  </dl></dl>
+                              (i)  in a position to exercise control of a former supplementary radio licence and the related commercial licence; or
 
-**
+                             (ii)  a director of a company that held a former supplementary radio licence or a director of a company that held the related commercial licence; and
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 20  Protection for persons having interests in former supplementary radio licences 
-**
+                     (b)  the person retains that position or directorship after that commencement; and
 
-<dl compact=""><dl compact="">
+                     (c)  subsection 5(1) applies to the former supplementary radio licence and to the related commercial licence; and
 
-		If:
+                     (d)  apart from this section, being in that position, or holding that directorship, would, on the commencement of this Act, be a contravention of Division 2 or 3 of Part 5 of the new Act; 
 
- </dl></dl>
+Divisions 2 and 3 of Part 5 of the new Act do not apply to the person in relation to the person being in that position or holding that directorship during the period of 11 years that commenced when the former supplementary radio licence was granted.
 
-<dl compact=""><dl compact=""><dl compact="">
+### Division 4—Program standards
 
-<dt>(a)</dt><dd>a person was, immediately before the commencement of this Act:
+##### <a id="21"></a>21  Program standards
 
-</dd>
+             (1)  In subsection (2), a reference to a program standard is a reference to a program standard that was in force immediately before the commencement of this Act under paragraph 16(1)(d) of the Broadcasting Act.
 
-</dl></dl></dl>
+             (2)  A program standard or a part of a program standard that related to programs for children or the level of Australian content of programs is taken, after that commencement, to be a standard determined by the ABA under paragraph 122(1)(a) of the new Act.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (3)  For the purposes of subsection (2), the provisions of section 114 of the Broadcasting Act are taken to be program standards in force under the Broadcasting Act relating to the level of Australian content of programs.
 
-<dt>(i)</dt><dd>in a position to exercise control of a former supplementary radio licence
+             (4)  The ABA may, by notice in the _Gazette_, determine that any other program standards that were in force immediately before the commencement of this Act as the result of a determination by the Tribunal under paragraph 16(1)(d) of the Broadcasting Act have effect as program standards applicable to:
 
-and the related commercial licence; or</dd>
+                     (a)  commercial television broadcasting licences; or
 
-<dt>(ii)</dt><dd>a director of a company that held a former supplementary radio licence or
+                     (b)  commercial radio broadcasting licences; or
 
-a director of a company that held the related commercial licence; and
+                     (c)  community broadcasting licences; or
 
-</dd>
+                     (d)  services provided under class licences;
 
-</dl></dl></dl></dl>
+under Part 9 of the new Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (5)  Determinations under subsection (4) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<dt>(b)</dt><dd>the person retains that position or directorship after that commencement;
+             (6)  Subject to subsections (7), (8) and (9), a program standard referred to in subsection (4) ceases to be in force at the end of 2 years after the commencement of this Act.
 
-and</dd>
+             (7)  A program standard continued in force by subsection (4) may be varied or revoked by the ABA as if it were a program standard determined by the ABA under section 125 of the new Act.
 
-<dt>(c)</dt><dd>subsection 5(1) applies to the former supplementary radio licence and to
+             (8)  A program standard relating to a matter referred to in subsection (2) ceases to be in force upon the determination by the ABA under paragraph 122(1)(a) of the new Act of a program standard relating to that matter.
 
-the related commercial licence; and</dd>
+             (9)  If a code of practice relating to a matter to which a program standard referred to in subsection (4) relates is registered under subsection 123(4) of the new Act in relation to a section of the broadcasting industry, the program standard ceases to be in force in relation to that matter in relation to that section of the industry.
 
-<dt>(d)</dt><dd>apart from this section, being in that position, or holding that
+### Division 5—Licence fees
 
-directorship, would, on the commencement of this Act, be a contravention of
+### Division 6—Miscellaneous
 
-Division&#160;2 or 3 of Part&#160;5 of the new Act; 
+##### <a id="23"></a>23  Vesting of property, rights and liabilities of the Australian Broadcasting Tribunal
 
-</dd>
+                   On the commencement of this Act:
 
-</dl></dl></dl>
+                     (a)  all property and rights of the Tribunal vest in the ABA; and
 
-Divisions&#160;2 and 3 of Part&#160;5 of the new Act do not apply to the person in relation to the person being in that position or holding that directorship during the period of 11 years that commenced when the former supplementary radio licence was granted.
+                     (b)  all liabilities of the Tribunal become liabilities of the ABA.
 
-<center>**
+##### <a id="24"></a>24  Effect of directions and orders under Division 4 of Part IIIBA of the Broadcasting Act
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<division>Division&#160;4&#151;Program standards </division> 
-**</center>
+             (1)  Any directions given by the Tribunal under Division 4 of Part IIIBA of the Broadcasting Act (**_the Part_**), and any orders by the Federal Court of Australia under that Division, in force immediately before the commencement of this Act are, to the extent tp which the directions or orders are necessary to ensure compliance with the new Act, enforceable as if the Part had remained in force.
 
-**
+             (2)  The ABA has the same power to amend or revoke a direction referred to in subsection (1) as the Tribunal would have had if the Part had remained in force.
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 21  Program standards 
-**
+             (3)  The ABA has the same power to grant an extension of time under subsection 92N(2B) of the Broadcasting Act as the Tribunal would have had if the Part had remained in force.
 
- <dl compact=""><dl compact="">
+             (4)  The ABA has the same power to apply to the Federal Court of Australia for an order in respect of a direction referred to in subsection (1) as the Tribunal would have had, and the Court has the same jurisdiction to make such an order as the Court would have had, if the Part had remained in force.
 
-<dt>(1)</dt><dd>In subsection&#160;(2), a reference to a program standard is a reference
+             (5)  Subsection (4) applies in like manner in relation to a direction amended by the ABA under subsection (2) as it applies in relation to a direction referred to in subsection (1).
 
-to a program standard that was in force immediately before the commencement of
+             (6)  A person who contravenes or fails to comply with a direction referred to in subsection (1) is guilty of an offence and is punishable on conviction as if the Part had not been repealed.
 
-this Act under paragraph 16(1)(d) of the Broadcasting Act.</dd> <dt>(2)</dt><dd>A program standard or a part of a program standard that related to programs for children or the level of Australian content of programs is taken, after that commencement, to be a standard determined by the ABA under paragraph 122(1)(a) of the new Act.</dd> <dt>(3)</dt><dd>For the purposes of subsection&#160;(2), the provisions of section&#160;114 of the Broadcasting Act are taken to be program standards in force under the Broadcasting Act relating to the level of Australian content of programs.</dd> <dt>(4)</dt><dd>The ABA may, by notice in the _Gazette_, determine that any other program standards that were in force immediately before the commencement of this Act as the result of a determination by the Tribunal under paragraph 16(1)(d) of the Broadcasting Act have effect as program standards applicable to: </dd> </dl></dl>
+             (7)  A person who contravenes or fails to comply with a direction referred to in subsection (1) as amended by the ABA under subsection (2) is guilty of an offence and is punishable on conviction as if the Part had not been repealed and the contravention or failure to comply was a contravention or failure to comply with a direction referred to in subsection (1).
 
-<dl compact=""><dl compact=""><dl compact="">
+             (8)  Charges against the same person for any number of offences against subsection (6) or (7) may be joined in the same summons if those offences relate to doing or failing to do the same act or thing.
 
-<dt>(a)</dt><dd>commercial television broadcasting licences; or</dd>
+             (9)  If a person is convicted of 2 or more offences referred to in subsection (6) or (7), being offences related to doing or failing to do the same act or thing, the court may impose one penalty in respect of both or all of those offences but that penalty must not exceed the sum of the maximum penalties that could be imposed if a penalty were imposed in respect of each offence separately.
 
-<dt>(b)</dt><dd>commercial radio broadcasting licences; or</dd>
+           (10)  An offence under this section may be prosecuted at any time.
 
-<dt>(c)</dt><dd>community broadcasting licences; or</dd>
+           (11)  A prosecution for such an offence may be brought only in the Federal Court of Australia.
 
-<dt>(d)</dt><dd>services provided under class licences;
+           (12)  Jurisdiction is conferred on the Federal Court of Australia to hear and determine prosecutions so brought.
 
-</dd>
+##### <a id="25"></a>25  Continuation of secrecy provision
 
-</dl></dl></dl>
+             (1)  The ABA is entitled to possession of documents in the possession of the Tribunal immediately before the commencement of this Act.
 
-under Part&#160;9 of the new Act.
+             (2)  Notwithstanding the repeal of section 125 of the Broadcasting Act, that section continues to apply to:
 
-<dl compact=""><dl compact="">
+                     (a)  former members, acting members, associate members and acting associate members of the Tribunal; and
 
-<dt>(5)</dt><dd>Determinations under subsection&#160;(4) are disallowable instruments for
+                     (b)  former members of the staff of the Tribunal; and
 
-the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.</dd> <dt>(6)</dt><dd>Subject to subsections&#160;(7), (8) and (9), a program standard referred to in subsection&#160;(4) ceases to be in force at the end of 2 years after the commencement of this Act.</dd> <dt>(7)</dt><dd>A program standard continued in force by subsection&#160;(4) may be varied or revoked by the ABA as if it were a program standard determined by the ABA under section&#160;125 of the new Act.</dd> <dt>(8)</dt><dd>A program standard relating to a matter referred to in subsection&#160;(2) ceases to be in force upon the determination by the ABA under paragraph 122(1)(a) of the new Act of a program standard relating to that matter.</dd> <dt>(9)</dt><dd>If a code of practice relating to a matter to which a program standard referred to in subsection&#160;(4) relates is registered under subsection 123(4) of the new Act in relation to a section of the broadcasting industry, the program standard ceases to be in force in relation to that matter in relation to that section of the industry. </dd> </dl></dl>
+                     (c)  members, acting members, associate members, acting associate members and members of the staff of the ABA in relation to documents referred to in subsection (1).
 
-<center>Back to Top</center>
+             (3)  Section 38 of the _Freedom of Information Act 1982_ applies to a document, or information contained in a document, to which subsection (2) relates by the application of paragraph 125(2)(a) of the Broadcasting Act.
 
-<center>**
+##### <a id="26"></a>26  Obligations to provide information or produce documents under the Broadcasting Act
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<division>Division&#160;5&#151;Licence fees</division> 
-**</center>
+             (1)  If:
 
-<center>**
+                     (a)  a person had, before the commencement of this Act, been required under section 89X of the Broadcasting Act to supply information or to produce documents to the Tribunal; and
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<division>Division&#160;6&#151;Miscellaneous </division> 
-**</center>
+                     (b)  the person had not, at the commencement of this Act, complied with the requirement; and
 
-**
+                     (c)  the person has not been informed by the ABA that the ABA does not require the information to be supplied or the documents to be produced;
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 23  Vesting of property, rights and liabilities of the Australian Broadcasting Tribunal 
-**
+the person is required to supply the information or to produce the documents, but the supply or the production must be made to the ABA and, if the person does not comply with the requirement, the person is to be subject to the same penalty as the penalty to which the person would have been subject if section 89X of the Broadcasting Act had not been repealed and the person had been in breach of that section.
 
-<dl compact=""><dl compact="">
+             (2)  An order of the Federal Court of Australia under subsection 89X(3B) of the Broadcasting Act in force at the commencement of this Act continues in force notwithstanding the repeal of the Broadcasting Act.
 
-		On the commencement of this Act:
+##### <a id="27"></a>27  Technical standards relating to broadcasting equipment
 
- </dl></dl>
+                   Standards and practices referred to in paragraph 125D(1)(b) of the Broadcasting Act that were in force immediately before the commencement of this Act are taken to be, on that commencement, standards made by the Minister under section 162 of the Radcom Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+## Part 3—Repeals and consequential amendments
 
-<dt>(a)</dt><dd>all property and rights of the Tribunal vest in the ABA; and</dd>
+##### <a id="28"></a>28  Repeal of the Broadcasting Act
 
-<dt>(b)</dt><dd>all liabilities of the Tribunal become liabilities of the ABA.
+             (1)  The _Broadcasting Act 1942_ is repealed except for the following provisions:
 
-</dd>
+                     (a)  section 1;
 
-</dl></dl></dl>
+                     (b)  subsection 4(1) so far as it relates to the definitions of the following terms:
 
-**
+**_Australia_**
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 24  Effect of directions and orders under Division&#160;4 of Part&#160;IIIBA of the Broadcasting Act 
-**
+**_election_**
 
-<dl compact=""><dl compact="">
+**_election period_**
 
-<dt>(1)</dt><dd>Any directions given by the Tribunal under Division&#160;4 of
+**_exempt matter_**
 
-Part&#160;IIIBA of the Broadcasting Act (_the Part_), and any
+**_government authority_**
 
-orders by the Federal Court of Australia under that Division, in force
+**_legislature of a Territory_**
 
-immediately before the commencement of this Act are, to the extent tp which the
+**_ordinary election_**
 
-directions or orders are necessary to ensure compliance with the new Act,
+**_Parliament_**
 
-enforceable as if the Part had remained in force.</dd> <dt>(2)</dt><dd>The ABA has the same power to amend or revoke a direction referred to in subsection&#160;(1) as the Tribunal would have had if the Part had remained in force.</dd> <dt>(3)</dt><dd>The ABA has the same power to grant an extension of time under subsection 92N(2B) of the Broadcasting Act as the Tribunal would have had if the Part had remained in force.</dd> <dt>(4)</dt><dd>The ABA has the same power to apply to the Federal Court of Australia for an order in respect of a direction referred to in subsection&#160;(1) as the Tribunal would have had, and the Court has the same jurisdiction to make such an order as the Court would have had, if the Part had remained in force.</dd> <dt>(5)</dt><dd>Subsection&#160;(4) applies in like manner in relation to a direction amended by the ABA under subsection&#160;(2) as it applies in relation to a direction referred to in subsection&#160;(1).</dd> <dt>(6)</dt><dd>A person who contravenes or fails to comply with a direction referred to in subsection&#160;(1) is guilty of an offence and is punishable on conviction as if the Part had not been repealed.</dd> <dt>(7)</dt><dd>A person who contravenes or fails to comply with a direction referred to in subsection&#160;(1) as amended by the ABA under subsection&#160;(2) is guilty of an offence and is punishable on conviction as if the Part had not been repealed and the contravention or failure to comply was a contravention or failure to comply with a direction referred to in subsection&#160;(1).</dd> <dt>(8)</dt><dd>Charges against the same person for any number of offences against subsection&#160;(6) or (7) may be joined in the same summons if those offences relate to doing or failing to do the same act or thing.</dd> <dt>(9)</dt><dd>If a person is convicted of 2 or more offences referred to in subsection&#160;(6) or (7), being offences related to doing or failing to do the same act or thing, the court may impose one penalty in respect of both or all of those offences but that penalty must not exceed the sum of the maximum penalties that could be imposed if a penalty were imposed in respect of each offence separately.</dd> <dt>(10)</dt><dd>An offence under this section may be prosecuted at any time.</dd> <dt>(11)</dt><dd>A prosecution for such an offence may be brought only in the Federal Court of Australia.</dd> <dt>(12)</dt><dd>Jurisdiction is conferred on the Federal Court of Australia to hear and determine prosecutions so brought. </dd> </dl></dl>
+**_policy launch_**
 
-**
+**_political party_**
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 25  Continuation of secrecy provision 
-**
+**_political reference_**
 
- <dl compact=""><dl compact="">
+**_program_**
 
-<dt>(1)</dt><dd>The ABA is entitled to possession of documents in the possession of the
+**_referendum_**
 
-Tribunal immediately before the commencement of this Act.</dd> <dt>(2)</dt><dd>Notwithstanding the repeal of section&#160;125 of the Broadcasting Act, that section continues to apply to: </dd> </dl></dl>
+**_SBS_**
 
-<dl compact=""><dl compact=""><dl compact="">
+**_Senate election_**
 
-<dt>(a)</dt><dd>former members, acting members, associate members and acting associate
+**_the Corporation;_**
 
-members of the Tribunal; and</dd>
+                     (c)  subsection 4(4);
 
-<dt>(b)</dt><dd>former members of the staff of the Tribunal; and</dd>
+                     (d)  section 6;
 
-<dt>(c)</dt><dd>members, acting members, associate members, acting associate members and
+                     (e)  Part IIID;
 
-members of the staff of the ABA in relation to documents referred to in
+                      (f)  section 134, in relation to the making of regulations for the purposes of Part IIID.
 
-subsection&#160;(1).
+             (2)  The provisions of the _Broadcasting Act 1942_ referred to in subsection (1) have effect from the commencement of this Act as if:
 
-</dd>
+                     (a)  a reference to a broadcaster, other than a reference in Division 3 of Part IIID, were a reference to a national broadcaster, the holder of a licence, the holder of a subscription television broadcasting licence or a person who provides a broadcasting service under a class licence; and
 
-</dl></dl></dl>
+                     (b)  a reference to a broadcaster in Division 3 of Part IIID were a reference to a national broadcaster, the holder of a commercial radio broadcasting licence, a commercial television broadcasting licence or a community broadcasting licence; and
 
-<center>Back to Top</center>
+                     (c)  a reference to a broadcast were a reference to a program delivered by a broadcasting service; and
 
-<dl compact=""><dl compact="">
+                     (d)  a reference to a broadcasting service were a reference to a broadcasting service specified in section 11 of the new Act, other than a broadcasting service specified in paragraph 13(1)(c) of the new Act; and
 
-<dt>(3)</dt><dd>Section&#160;38 of the _Freedom of Information Act 1982_ applies to a
+                     (e)  a reference to a licensee, except in relation to Division 3 of Part IIID, were a reference to the holder of a licence under the new Act or a licence continued in force under subsection 5(1) of this Act or a person who provides a service under a class licence; and
 
-document, or information contained in a document, to which subsection&#160;(2)
+                      (f)  a reference to a licensee in relation to Division 3 of Part IIID were a reference to the holder of a licence under the new Act or a licence continued in force under subsection 5(1) of this Act; and
 
-relates by the application of paragraph 125(2)(a) of the Broadcasting Act.
+                     (g)  a reference to a service area in relation to a broadcasting service were a reference to the licence area of the licence under which that broadcasting service is provided; and
 
-</dd> </dl></dl>
+                     (h)  a reference to the Tribunal were a reference to the ABA; and
 
-**
+                      (i)  a reference to section 117 of the Broadcasting Act were a reference:
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 26  Obligations to provide information or produce documents under the Broadcasting Act 
-**
+                              (i)  in relation to a broadcaster referred to in subclause 4(1) of Part 2 of Schedule 2 of the new Act—to clause 4 of that Part; and
 
-<dl compact=""><dl compact="">
+                             (ii)  in relation to the Australian Broadcasting Corporation, to section 79A of the _Australian Broadcasting Corporation Act 1983_; and
 
-<dt>(1)</dt><dd>If:
+                            (iii)  in relation to the SBS, to section 70A of the _Special Broadcasting Service Act 1991_; and
 
-</dd> </dl></dl>
+                      (j)  subsection 95A(2) were omitted and the following subsection substituted:
 
-<dl compact=""><dl compact=""><dl compact="">
+“(2)  Nothing in this Part prevents the holder of a community radio broadcasting licence under the _Broadcasting Services Act 1992_ who provides a service for visually handicapped persons from broadcasting any material which is permitted to be broadcast under the conditions to which that licence is subject.”
 
-<dt>(a)</dt><dd>a person had, before the commencement of this Act, been required under
+             (3)  Unless the contrary intention appears, a reference in subsection (2) to the new Act is a reference to the _Broadcasting Services Act 1992_.
 
-section&#160;89X of the Broadcasting Act to supply information or to produce
+##### <a id="29"></a>29  Other repeals
 
-documents to the Tribunal; and</dd>
+                   The Acts specified in Schedule 1 are repealed.
 
-<dt>(b)</dt><dd>the person had not, at the commencement of this Act, complied with the
+##### <a id="30"></a>30  Consequential amendments
 
-requirement; and</dd>
+                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
 
-<dt>(c)</dt><dd>the person has not been informed by the ABA that the ABA does not require
+# Schedule 1—Repealed Acts
 
-the information to be supplied or the documents to be produced;
+Section 29
 
-</dd>
+Broadcasting (Limited Licences) Fees Act 1988
 
-</dl></dl></dl>
+Broadcasting (Retransmission Permits and Temporary Transmission Permits) Fees Act 1988
 
-the person is required to supply the information or to produce the documents, but the supply or the production must be made to the ABA and, if the person does not comply with the requirement, the person is to be subject to the same penalty as the penalty to which the person would have been subject if section&#160;89X of the Broadcasting Act had not been repealed and the person had been in breach of that section.
+# Schedule 2—Consequential amendments
 
-<dl compact=""><dl compact="">
+Section 30
 
-<dt>(2)</dt><dd>An order of the Federal Court of Australia under subsection 89X(3B) of the
+Affirmative Action (Equal Employment Opportunity for Women) Act 1986
 
-Broadcasting Act in force at the commencement of this Act continues in force
+## Subsection 3(1) (definition of _voluntary body_):
 
-notwithstanding the repeal of the Broadcasting Act.
+Omit paragraph (e), substitute:
 
-</dd> </dl></dl>
+                     (e)  the holder of a licence or a person providing a broadcasting service under a class licence under the _Broadcasting Services Act 1992_;
 
-**
+## Subsection 5(3):
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 27  Technical standards relating to broadcasting equipment 
-**
+Omit “broadcasting or televising within the meaning of the _Broadcasting Act 1942_”, substitute “the provision of a broadcasting service specified in section 11 of the _Broadcasting Services Act 1992_”.
 
- <dl compact=""><dl compact="">
+Australian Broadcasting Corporation Act 1983
 
-		Standards and practices referred to in paragraph 125D(1)(b) of the
+## Section 6:
 
-Broadcasting Act that were in force immediately before the commencement of this
+Omit “public sector” (wherever occurring), substitute “community sector”.
 
-Act are taken to be, on that commencement, standards made by the Minister under
-
-section 162 of the Radcom Act.
-
- </dl></dl>
-
-<center>**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<part>Part&#160;3&#151;Repeals and consequential amendments </part>
-**</center>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 28  Repeal of the Broadcasting Act 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>The _Broadcasting Act 1942_ is repealed. 
-
-</dd> </dl></dl>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 29  Other repeals 
-**
-
- <dl compact=""><dl compact="">
-
-		The Acts specified in Schedule&#160;1 are repealed.
-
- </dl></dl>
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 30  Consequential amendments 
-**
-
- <dl compact=""><dl compact="">
-
-		The Acts specified in Schedule&#160;2 are amended as set out in that Schedule.
-
- </dl></dl>
-
-<center>**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992Schedule&#160;1&#151;Repealed Acts 
-**</center>
-
- Section&#160;29 
-
-_Broadcasting (Limited Licences) Fees Act 1988_
- Broadcasting (Retransmission Permits and Temporary Transmission Permits) Fees Act 1988 
-
-<center>**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992Schedule&#160;2&#151;Consequential amendments 
-**</center>
-
- Section&#160;30 
-
-<center>Back to Top</center>
-
-_Affirmative Action (Equal Employment Opportunity for Women) Act 1986_
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT Subsection 3(1) (definition of _voluntary body_): 
-**
-
- Omit paragraph&#160;(e), substitute:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(e)</dt><dd>the holder of a licence or a person providing a broadcasting service under
-
-a class licence under the _Broadcasting Services Act 1992_;
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 5(3):
-
-Omit "broadcasting or televising within the meaning of the _Broadcasting Act 1942_", substitute "the provision of a broadcasting service specified in section&#160;11 of the _Broadcasting Services Act 1992_". 
-
-_Australian Broadcasting Corporation Act 1983_
-
-Section&#160;6:
-
-Omit "public sector" (wherever occurring), substitute "community sector".
-
-Subsection 8(1):
+## Subsection 8(1):
 
 Add at the end:
 
-; and (e)	to develop codes of practice relating to programming matters and to notify those codes to the Australian Broadcasting Authority.
- Subsection 25(5):
+; and (e)  to develop codes of practice relating to programming matters and to notify those codes to the Australian Broadcasting Authority.
+
+## Subsection 25(5):
 
 Add at the end:
 
-; or (c) providing, or entering into an agreement or arrangement with another person for providing, subscription television broadcasting services under Part&#160;7 of the _Broadcasting Services Act 1992_; or
+; or (c) providing, or entering into an agreement or arrangement with another person for providing, subscription television broadcasting services under Part 7 of the _Broadcasting Services Act 1992_; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  providing, or entering into an agreement with another person for providing:
 
-<dt>(d)</dt><dd>providing, or entering into an agreement with another person for providing:
+                              (i)  subscription radio broadcasting services; or
 
-</dd>
+                             (ii)  subscription radio narrowcasting services; or
 
-</dl></dl></dl>
+                            (iii)  subscription television narrowcasting services; or
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                            (iv)  open narrowcasting radio services; or
 
-<dt>(i)</dt><dd>subscription radio broadcasting services; or</dd>
+                             (v)  open narrowcasting television services;
 
-<dt>(ii)</dt><dd>subscription radio narrowcasting services; or</dd>
+                            under Part 8 of the Broadcasting Services Act 1992.
 
-<dt>(iii)</dt><dd>subscription television narrowcasting services; or</dd>
-
-<dt>(iv)</dt><dd>open narrowcasting radio services; or</dd>
-
-<dt>(v)</dt><dd>open narrowcasting television services;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		under Part&#160;8 of the _Broadcasting Services Act 1992_.
-
-</dl></dl></dl>
-
-Section&#160;29A:
-
-Repeal the section, substitute: 
-
-**
-
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992- SECT 29A  Broadcasting facilities may be made available 
-**
-
- <dl compact=""><dl compact="">
-
-		The Corporation may make broadcasting facilities and staff available to a
-
-person for the purpose of providing a broadcasting service under the
-
-_Broadcasting Services Act 1992_.
-
- </dl></dl>
-
-Section&#160;30:
-
-Repeal the section.
-
-Section&#160;73 (definition of transmitting station):
-
-Omit paragraphs&#160;(b), (c) and (d).
-
-Section&#160;79:
-
-Omit "_Broadcasting Act 1942_", substitute "_Broadcasting Services Act 1992_".
-
-After section&#160;79:
-
-Insert:
-
-79A  Broadcasting of political or controversial matter
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Subject to this Act, the Corporation may determine to what extent and in
-
-what manner political matter or controversial matter will be broadcast by the
-
-Corporation.</dd> <dt>(2)</dt><dd>If the Corporation broadcasts political matter at the request of another person, the Corporation must, immediately afterwards: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the matter was broadcast by radio&#151;cause the required particulars in
-
-relation to the matter to be announced; or</dd>
-
-<dt>(b)</dt><dd>if the matter was televised:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>cause the required particulars in relation to the matter (other than the
-
-particulars referred to in paragraph&#160;(c) of the definition of
-
-_required particulars_ in subsection&#160;(5)) to be announced;
-
-and</dd>
-
-<dt>(ii)</dt><dd>cause all the required particulars in relation to the matter to be
-
-transmitted in the form of images of words.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>The Corporation must, in relation to political matter broadcast at the
-
-request of another person, keep a record of the name, address and occupation of
-
-the person or, if the person is a company, the name and the address of the
-
-principal office of the person, for the required period and must give to the
-
-ABA any particulars of the record that the ABA, by written notice, requires.</dd> <dt>(4)</dt><dd>For the purposes of this section, a person authorises the broadcasting of political matter only if the person is responsible for approval of the content of the political matter and the decision to present it for broadcasting.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_election_ means an election to a Parliament or a local government
-
-authority of a State or Territory. _election period_ means:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in relation to an election to the Legislative Council of Tasmania, or an
-
-ordinary election to the Legislative Assembly of the Australian Capital
-
-Territory&#151;the period that starts 33 days before the polling day for the
-
-election and ends at the close of the poll on that day; and</dd>
-
-<dt>(b)</dt><dd>in relation to any other election to a Parliament&#151;the period that starts
-
-on:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the day on which the proposed polling day for the election is publicly
-
-announced; or</dd>
-
-<dt>(ii)</dt><dd>the day on which the writs for the election are issued;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		whichever happens first, and ends at the close of the poll on the polling day
-
-for the election; and
-
-<dt>(c)</dt><dd>in relation to an election to a local government authority&#151;the period
-
-that starts 33 days before the polling day for the election and ends at the
-
-close of the poll on that day; and</dd>
-
-<dt>(d)</dt><dd>in relation to a referendum whose voting day is the same as the polling
-
-day for an election to the Parliament of the Commonwealth&#151;the election period
-
-in relation to that election; and</dd>
-
-<dt>(e)</dt><dd>in relation to any other referendum&#151;the period that starts 33 days before
-
-the voting day for the referendum and ends at the close of voting on that day.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_Parliament_ means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Parliament of the Commonwealth; or</dd>
-
-<dt>(b)</dt><dd>a State Parliament; or</dd>
-
-<dt>(c)</dt><dd>the legislature of a Territory.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_person_ includes a political party, a corporation and any other
-
-association (whether incorporated or unincorporated). _political matter_ means any political matter, including the policy launch of a political party. _referendum_ means the submission to the electors of a proposed law for the alteration of the Constitution, whether or not the proposal to make the submission has been announced. _required particulars_, in relation to a political matter that is broadcast, means:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the broadcasting was authorised by a political party:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the name of the political party; and</dd>
-
-<dt>(ii)</dt><dd>the town, city or suburb in which the principal office of the political
-
-party is situated; and</dd>
-
-<dt>(iii)</dt><dd>the name of the natural person responsible for giving effect to the
-
-authorisation; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>if the broadcasting of the political matter was authorised by a person
-
-other than a political party:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the name of the person who authorised the broadcasting of the political
-
-matter; and</dd>
-
-<dt>(ii)</dt><dd>the town, city or suburb in which the person lives or, if the person is a
-
-corporation or association, in which the principal office of the person is
-
-situated; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>the name of every speaker who, either in person or by means of a sound
-
-recording device, delivers an address or makes a statement that forms part of
-
-that matter.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_required period_, in relation to the keeping of a record in
-
-relation to political matter, means the period of 2 years commencing on the day
-
-on which the matter was broadcast:
-
- </dl></dl>
-
-79B  Records of matter broadcast
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If the Corporation broadcasts matter relating to a political subject or
-
-current affairs, being matter that is in the form of news, an address, a
-
-statement, a commentary or a discussion, the Corporation must cause a record of
-
-the matter to be made:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of a radio broadcast&#151;by using a device for recording sound;
-
-or</dd>
-
-<dt>(b)</dt><dd>in the case of a television broadcast&#151;by using a device for recording
-
-images and associated sound.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>Subject to this section, the Corporation must retain in its custody a
-
-record so made for a period of:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>6 weeks from the date on which the matter was broadcast; or</dd>
-
-<dt>(b)</dt><dd>if a complaint has been made about the matter&#151;for 70 days from the date
-
-on which the complaint was made.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>If a person considers that a record so made is admissible in evidence in
-
-proceedings instituted, or proposed to be instituted, in a court, being a
-
-record that is held under subsection&#160;(2), the person may give to the
-
-Corporation a notice in writing informing the Corporation that the record may
-
-be required for the purposes of the proceedings.</dd> <dt>(4)</dt><dd>If such a notice is given to the Corporation in respect of a record, the Corporation must, subject to this section, retain the record until the proceedings or the proposed proceedings to which the notice relates have been finally determined.</dd> <dt>(5)</dt><dd>If the proceedings are not instituted within a period of 3 months after the notice is given to the Corporation, subsection&#160;(4) ceases to apply to the record at the end of that period.</dd> <dt>(6)</dt><dd>The obligation imposed by this section on the Corporation to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.</dd> <dt>(7)</dt><dd>Subsection&#160;(1) does not apply to or in relation to proceedings of the Senate or of the House of Representatives broadcast or re-broadcast by the Corporation pursuant to the _Parliamentary Proceedings Broadcasting Act 1946_. </dd> </dl></dl>
-
-Section&#160;80:
-
-Insert after paragraph&#160;(d) the following paragraph:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(da)</dt><dd>codes of practice developed under subsection 8(1);
-
-</dd>
-
-</dl></dl></dl>
-
-_Commonwealth Electoral Act 1918_
-
-<center>Back to Top</center>
-
-Subsection 287(1) (definition of broadcaster):
-
-Omit paragraph&#160;(c), substitute:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>the holder of a licence under the _Broadcasting Services Act 1992_;
-
-or</dd>
-
-<dt>(d)</dt><dd>the provider of a broadcasting service under a class licence under that
-
-Act.
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 310(3):
-
-Omit the subsection.
-
-Subsection 310(4):
-
-Omit the subsection, substitute:
-
-<dl compact=""><dl compact="">
-
-<dt>(4)</dt><dd>A broadcaster who is required to make a return under this section in
-
-respect of an advertisement must retain the record made for the purpose of the
-
-relevant provision until the end of the period of one month commencing on the
-
-day on which the return is furnished to the Electoral Commission.</dd> <dt>(5)</dt><dd>The requirement of subsection&#160;(4) is in addition to the requirements of the relevant provision for the retention of such a record.</dd> <dt>(6)</dt><dd>In subsections&#160;(4) and (5), _the relevant provision_ means: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in relation to the Australian Broadcasting Corporation&#151;section&#160;79B
-
-of the _Australian Broadcasting Corporation Act 1983_; or</dd>
-
-<dt>(b)</dt><dd>in relation to the Special Broadcasting Service&#151;section&#160;70B of the
-
-_Special Broadcasting Service Act 1991_; or</dd>
-
-<dt>(c)</dt><dd>in any other case&#151;clause&#160;5 of Schedule&#160;2 to the _Broadcasting Services Act 1992_.
-
-</dd>
-
-</dl></dl></dl>
-
-_Copyright Act 1968_
-
-Subsection 10(1) (definition of the Special Broadcasting Service):
-
-Omit "established by the _Broadcasting Act 1942_", substitute "referred to in section&#160;5 of the _Special Broadcasting Service Act 1991_".
-
-Paragraph 47A(11)(b) (definition of print-handicapped radio licence):
-
-Omit "the _Broadcasting Act 1942_, the _Radiocommunications Act 1983_ or the _Wireless Telegraphy Act 1905_", substitute "the _Broadcasting Services Act 1992_ or the _Radiocommunications Act 1983_". 
-
-_Parliamentary Proceedings Broadcasting Act 1946_
-
-Subsection 3(1) (definition of national broadcasting station):
-
-Omit the definition, substitute:
-
-<def><dl compact=""><dl compact="">
-
-_national broadcasting station_ means a national broadcasting
-
-station within the meaning of the _Australian Broadcasting Corporation Act 1983_.
-
- </dl></dl>
-
-Section&#160;16:
-
-Omit "The provisions of section&#160;117 of the _Broadcasting Act 1942_", substitute "The provisions of sections&#160;79A and 79B of the _Australian Broadcasting Corporation Act 1983_, clauses&#160;3, 4 and 5 of Part&#160;2 of Schedule&#160;2 to the _Broadcasting Services Act 1992_ and sections&#160;70A and 70B of the _Special Broadcasting Services Act 1991_". 
-
-_Radio Licence Fees Act 1964_
-
-Section&#160;3:
-
-Omit "_Broadcasting Act 1942_", substitute "_Broadcasting Services Act 1992_".
-
-Subsection 4(1) (definition of Broadcasting Act):
-
-Omit the definition.
-
-Subsection 4(1) (definition of gross earnings):
-
-Omit the definition, substitute:
-
-<def><dl compact=""><dl compact="">
-
-_gross earnings_, in respect of a licence in respect of a period,
-
-means the gross earnings of the licensee during that period from the
-
-broadcasting, pursuant to the licence, of advertisements or other material.
-
- </dl></dl>
-
-Subsection 4(1) (definition of licence):
-
-Omit the definition, substitute:
-
-<def><dl compact=""><dl compact="">
-
-_licence_ means a commercial radio broadcasting licence referred to
-
-in paragraph 5(1)(b), (d) or (f) of the Transitional Provisions Act.
-
- </dl></dl>
-
-<center>Back to Top</center>
-
-Subsection 4(1):
-
-Insert the following definition:
-
-<def><dl compact=""><dl compact="">
-
-_Transitional Provisions Act_ means the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
-
- </dl></dl>
-
-Subsection 6(3):
-
-Omit "Where a licensee has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_, adopted an accounting period ending on a day other than 30&#160;June,", substitute:
-
-<dl compact=""><dl compact="">
-
-		If a licensee:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>had, before the commencement of the Transitional Provisions Act, in
-
-accordance with the _Broadcasting Act 1942_; or</dd>
-
-<dt>(b)</dt><dd>has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_ as applied by section&#160;22 of the Transitional Provisions Act;
-
-</dd>
-
-</dl></dl></dl>
-
-adopted an accounting period ending on a day other than 30&#160;June, 
-
-_Radiocommunications Act 1983_
-
-Subsection 3(1) (definition of broadcasting station):
-
-Omit the definition, substitute:
-
-<def><dl compact=""><dl compact="">
-
-_broadcasting station_ means a transmitter that is operating for
-
-the purposes of a broadcasting services bands licence. 
-
- </dl></dl>
-
-Subsection 3(1) (definition of television station):
-
-Omit the definition.
-
-Subsection 3(1) (definition of transmitter licence):
-
-After "section&#160;24" insert "or section&#160;24B".
-
-Subsection 3(1):
-
-Insert the following definitions:
-
-<def><dl compact=""><dl compact="">
-
-_ABA_ means the Australian Broadcasting Authority established under
-
-the _Broadcasting Services Act 1992_. _Broadcasting service_ has the same meaning as in the _Broadcasting Services Act 1992_. _Broadcasting services bands_ has the same meaning as in the _Broadcasting Services Act 1992_.  </dl></dl>
-
-Section&#160;18:
-
-Add at the end:
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>The Minister may, after consultation with the ABA and in accordance with
-
-the spectrum plan, assign by instrument in writing a part of the spectrum
-
-designated as being primarily for broadcasting purposes to the ABA for planning
-
-in accordance with Part&#160;3 of the _Broadcasting Services Act 1992_.
-
-</dd> </dl></dl>
-
-After subsection 19(1):
-
-Insert:
-
-<dl compact=""><dl compact="">
-
-<dt>(1A)</dt><dd>Subsection&#160;(1) does not apply in relation to a frequency band within
-
-a part of the spectrum assigned to the ABA under subsection 18(3).
-
-</dd> </dl></dl>
-
-After section&#160;20:
-
-Insert:
-
-20A  Advice by ABA
-
-<dl compact=""><dl compact="">
-
-		In preparing a spectrum plan or a frequency band plan the Minister must have
-
-regard to advice provided by the ABA in accordance with its function under
-
-paragraph 158(a) of the _Broadcasting Services Act 1992_.
-
- </dl></dl>
-
-After subsection 21(1):
-
-Insert:
-
-<dl compact=""><dl compact="">
-
-<dt>(1A)</dt><dd>The Minister must not grant a certificate under subsection&#160;(1) in
-
-respect of a frequency within the broadcasting services bands.
-
-</dd> </dl></dl>
-
-Subsection 21(8):
-
-<center>Back to Top</center>
-
-Omit "_Broadcasting Act 1942_", substitute "_Broadcasting Services Act 1992_".
-
-Section&#160;22 (definition of operate):
-
-Omit the definition.
-
-Subsection 24(1):
-
-Omit "section&#160;24A", substitute "sections&#160;24A and 24B".
-
-After subsection 24(1):
-
-Insert:
-
-<dl compact=""><dl compact="">
-
-<dt>(1A)</dt><dd>The Minister may not grant a licence under subsection&#160;(1) to operate
-
-a radiocommunications transmitter that uses a frequency within a part of the
-
-spectrum assigned to the ABA under subsection 18(3) except in accordance with a
-
-decision of the ABA under subsection 34(1) of the _Broadcasting Services Act 1992_.
-
-</dd> </dl></dl>
-
-After section&#160;24A:
-
-Insert:
-
-24B  Broadcasting service transmitter licence
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If a licence (_the related licence_) is allocated to a person:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>under Part&#160;4 or 6 of the _Broadcasting Services Act 1992_; or</dd>
-
-<dt>(b)</dt><dd>under Part&#160;7 of the _Broadcasting Services Act 1992_, being a
-
-licence in respect of a service that uses radiocommunication;
-
-</dd>
-
-</dl></dl></dl>
-
-the Minister must grant to that person a transmitter licence, in writing, to operate and to possess a specified radiocommunications transmitter or transmitters for the purpose of transmitting a broadcasting service in accordance with the related licence.
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>A licence under this section comes into force on the day on which it is
-
-granted.</dd> <dt>(3)</dt><dd>A licence under this section: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>subject to paragraph&#160;(b), continues in force while the related
-
-licence remains in force; and</dd>
-
-<dt>(b)</dt><dd>does not have effect while the related licence is suspended; and</dd>
-
-<dt>(c)</dt><dd>upon the transfer of the related licence, is taken to be granted to the
-
-person to whom the related licence is transferred.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(4)</dt><dd>A licence under this section is subject to the following conditions:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the condition that the holder of the licence must not operate, or permit
-
-the operation of, the transmitter except for a purpose specified in the
-
-licence; and</dd>
-
-<dt>(b)</dt><dd>the condition that the holder of the licence must comply with the
-
-provisions of this Act; and</dd>
-
-<dt>(c)</dt><dd>the condition that the holder of the licence must not operate, or permit
-
-the operation of, the transmitter, otherwise than in accordance with any
-
-relevant technical specifications determined by the ABA under subsection 26(1)
-
-of the _Broadcasting Services Act 1992_; and</dd>
-
-<dt>(d)</dt><dd>the condition that the holder of the licence must comply with guidelines
-
-developed by the ABA under section&#160;33 of the _Broadcasting Services Act 1992_; and</dd>
-
-<dt>(e)</dt><dd>such other conditions as are specified in the licence.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(5)</dt><dd>The Minister may, by notice in writing:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>impose further conditions to which the licence is subject; or</dd>
-
-<dt>(b)</dt><dd>revoke or vary a condition referred to in paragraph&#160;(a) or in
-
-paragraph 4(e).
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(6)</dt><dd>A condition specified in the licence or a further condition imposed by the
-
-Minister must not be inconsistent with the related licence.</dd> <dt>(7)</dt><dd>Sections&#160;25, 28 and 29 do not apply in relation to a transmitter licence granted under subsection&#160;(1). </dd> </dl></dl>
-
-<center>Back to Top</center>
-
-After section&#160;25:
-
-Insert the following section:
-
-25A  Conditions relating to interference
-
-<dl compact=""><dl compact="">
-
-		The conditions that may be specified in a licence under paragraph 24B(4)(e)
-
-or 25(1)(k) include:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a condition requiring the holder of the licence to place advertisements,
-
-in a manner specified in the condition, asking members of the public to contact
-
-the holder if they believe that the operation of the transmitter is causing
-
-interference to other services; and</dd>
-
-<dt>(b)</dt><dd>if the operation of the transmitter is causing interference to other
-
-services&#151;a condition requiring the holder, at the holder's own expense, to
-
-adjust, or fit devices to, receivers in order to eliminate or minimise that
-
-interference.
-
-</dd>
-
-</dl></dl></dl>
-
-After subsection 25(8):
-
-Insert:
-
-<dl compact=""><dl compact="">
-
-<dt>(8A)</dt><dd>The conditions that may be specified in a licence under
-
-paragraph&#160;(1)(k) include:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a condition requiring the holder of the licence to place advertisements,
-
-in a manner specified in the condition, asking members of the public to contact
-
-the holder if they believe that the operation of the transmitter is causing
-
-interference to other services; and</dd>
-
-<dt>(b)</dt><dd>if the operation of the transmitter is causing interference to other
-
-services&#151;a condition requiring the holder, at the holder's own expense, to
-
-adjust, or fit devices to, receivers in order to eliminate or minimise that
-
-interference.
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 28(1):
-
-Omit "The Minister", substitute "Subject to section&#160;24B, the Minister".
-
-Subsection 29(1):
-
-Omit "The Minister", substitute "Subject to section&#160;24B, the Minister".
-
-Section&#160;36 (definition of operate):
-
-Omit "for the purpose of radio or television reception", substitute "for the purpose only of reception of programs delivered by a broadcasting service".
-
-Section&#160;36 (definition of radio or television reception):
-
-Omit the definition.
-
-Section&#160;36 (definition of receiver):
-
-Omit "radio or television reception", substitute "reception of programs delivered by a broadcasting service".
-
-Subsection 41(3):
-
-Omit "or a television station" and "or television station".
-
-Subsection 55(2):
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Omit "or a television station" (wherever occurring).</dd>
-
-<dt>(b)</dt><dd>Omit "(including a matter relating to the grant, renewal, suspension or
-
-revocation of a licence or permit under the _Broadcasting Act 1942_)".</dd>
-
-<dt>(c)</dt><dd>Omit "intended for reception by the general public" (wherever occurring),
-
-substitute "delivered by a broadcasting service".
-
-</dd>
-
-</dl></dl></dl>
-
-Section&#160;89:
+## Section 29A:
 
 Repeal the section, substitute:
 
-89  Operation of this Act in relation to Broadcasting Services Act
+##### <a id="29A"></a>29A  Broadcasting facilities may be made available
 
-<dl compact=""><dl compact="">
+                   The Corporation may make broadcasting facilities and staff available to a person for the purpose of providing a broadcasting service under the _Broadcasting Services Act 1992_.
 
-		Regulations under this Act have effect notwithstanding any regulation made
+## Section 30:
 
-under the _Broadcasting Services Act 1992_ but this Act is not intended to
+Repeal the section.
 
-limit or exclude the operation of any regulation made under the _Broadcasting Services Act 1992_ to the extent that the regulation is capable of operating
+## Section 73 (definition of _transmitting station_):
 
-concurrently with this Act and with regulations under this Act.
+Omit paragraphs (b), (c) and (d).
 
- </dl></dl>
+## Section 79:
 
-After section&#160;92:
+Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
+
+## After section 79:
 
 Insert:
 
-92A  Minister may determine allocation system
+##### <a id="79A"></a>79A  Broadcasting of political or controversial matter
 
-<dl compact=""><dl compact="">
+             (1)  Subject to this Act, the Corporation may determine to what extent and in what manner political matter or controversial matter will be broadcast by the Corporation.
 
-<dt>(1)</dt><dd>The Minister may determine in writing a price-based allocation system for
+             (2)  If the Corporation broadcasts political matter at the request of another person, the Corporation must, immediately afterwards:
 
-granting licences of a kind identified in the regulations.</dd> <dt>(2)</dt><dd>The system so determined: </dd> </dl></dl>
+                     (a)  if the matter was broadcast by radio—cause the required particulars in relation to the matter to be announced; or
 
-<center>Back to Top</center>
+                     (b)  if the matter was televised:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  cause the required particulars in relation to the matter (other than the particulars referred to in paragraph (c) of the definition of **_required particulars_** in subsection (5)) to be announced; and
 
-<dt>(a)</dt><dd>subject to paragraph&#160;(b), may apply generally or in respect of a
+                             (ii)  cause all the required particulars in relation to the matter to be transmitted in the form of images of words.
 
-particular area or frequency; and</dd>
+             (3)  The Corporation must, in relation to political matter broadcast at the request of another person, keep a record of the name, address and occupation of the person or, if the person is a company, the name and the address of the principal office of the person, for the required period and must give to the ABA any particulars of the record that the ABA, by written notice, requires.
 
-<dt>(b)</dt><dd>does not apply to a frequency within a part of the spectrum assigned to
+             (4)  For the purposes of this section, a person authorises the broadcasting of political matter only if the person is responsible for approval of the content of the political matter and the decision to present it for broadcasting.
 
-the ABA under subsection 18(3) except in accordance with a decision of the ABA
+             (5)  In this section:
 
-under subsection 34(1) of the _Broadcasting Services Act 1992_; and</dd>
+                    <a name="elect"></a>**_election_** means an election to a Parliament or a local government authority of a State or Territory.
 
-<dt>(c)</dt><dd>may require an application fee.
+                    <a name="elect-period"></a>**_election period_** means:
 
-</dd>
+                     (a)  in relation to an election to the Legislative Council of Tasmania, or an ordinary election to the Legislative Assembly of the Australian Capital Territory—the period that starts 33 days before the polling day for the election and ends at the close of the poll on that day; and
 
-</dl></dl></dl>
+                     (b)  in relation to any other election to a Parliament—the period that starts on:
 
-<dl compact=""><dl compact="">
+                              (i)  the day on which the proposed polling day for the election is publicly announced; or
 
-<dt>(3)</dt><dd>If a licence is granted in accordance with a system so determined, the
+                             (ii)  the day on which the writs for the election are issued;
 
-Minister must publish in the _Gazette_ the name of the successful
+                            whichever happens first, and ends at the close of the poll on the polling day for the election; and
 
-applicant and the amount that the applicant agreed to pay to the Commonwealth
+                     (c)  in relation to an election to a local government authority—the period that starts 33 days before the polling day for the election and ends at the close of the poll on that day; and
 
-for the grant of the licence.
+                     (d)  in relation to a referendum whose voting day is the same as the polling day for an election to the Parliament of the Commonwealth—the election period in relation to that election; and
 
-</dd> </dl></dl>
+                     (e)  in relation to any other referendum—the period that starts 33 days before the voting day for the referendum and ends at the close of voting on that day.
 
-_Referendum (Machinery Provisions) Act 1984_
+                    <a name="parliam"></a>**_Parliament_** means:
 
-Section&#160;110 (paragraph&#160;(c) of the definition of broadcaster):
+                     (a)  the Parliament of the Commonwealth; or
 
-Omit the paragraph, substitute:
+                     (b)  a State Parliament; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the legislature of a Territory.
 
-<dt>(c)</dt><dd>the holder of a licence under the _Broadcasting Services Act 1992_;
+                    <a name="person"></a>**_person_** includes a political party, a corporation and any other association (whether incorporated or unincorporated).
 
-or</dd>
+                    <a name="polit-matter"></a>**_political matter_** means any political matter, including the policy launch of a political party.
 
-<dt>(d)</dt><dd>the provider of a broadcasting service under a class licence under that
+                    <a name="referendum"></a>**_referendum_** means the submission to the electors of a proposed law for the alteration of the Constitution, whether or not the proposal to make the submission has been announced.
 
-Act.
+                    <a name="requir-particular"></a>**_required particulars_**, in relation to a political matter that is broadcast, means:
 
-</dd>
+                     (a)  if the broadcasting was authorised by a political party:
 
-</dl></dl></dl>
+                              (i)  the name of the political party; and
 
-Subsection 111(3):
+                             (ii)  the town, city or suburb in which the principal office of the political party is situated; and
+
+                            (iii)  the name of the natural person responsible for giving effect to the authorisation; and
+
+                     (b)  if the broadcasting of the political matter was authorised by a person other than a political party:
+
+                              (i)  the name of the person who authorised the broadcasting of the political matter; and
+
+                             (ii)  the town, city or suburb in which the person lives or, if the person is a corporation or association, in which the principal office of the person is situated; and
+
+                     (c)  the name of every speaker who, either in person or by means of a sound recording device, delivers an address or makes a statement that forms part of that matter.
+
+                    <a name="requir-period"></a>**_required period_**, in relation to the keeping of a record in relation to political matter, means the period of 2 years commencing on the day on which the matter was broadcast:
+
+##### <a id="79B"></a>79B  Records of matter broadcast
+
+             (1)  If the Corporation broadcasts matter relating to a political subject or current affairs, being matter that is in the form of news, an address, a statement, a commentary or a discussion, the Corporation must cause a record of the matter to be made:
+
+                     (a)  in the case of a radio broadcast—by using a device for recording sound; or
+
+                     (b)  in the case of a television broadcast—by using a device for recording images and associated sound.
+
+             (2)  Subject to this section, the Corporation must retain in its custody a record so made for a period of:
+
+                     (a)  6 weeks from the date on which the matter was broadcast; or
+
+                     (b)  if a complaint has been made about the matter—for 70 days from the date on which the complaint was made.
+
+             (3)  If a person considers that a record so made is admissible in evidence in proceedings instituted, or proposed to be instituted, in a court, being a record that is held under subsection (2), the person may give to the Corporation a notice in writing informing the Corporation that the record may be required for the purposes of the proceedings.
+
+             (4)  If such a notice is given to the Corporation in respect of a record, the Corporation must, subject to this section, retain the record until the proceedings or the proposed proceedings to which the notice relates have been finally determined.
+
+             (5)  If the proceedings are not instituted within a period of 3 months after the notice is given to the Corporation, subsection (4) ceases to apply to the record at the end of that period.
+
+             (6)  The obligation imposed by this section on the Corporation to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
+
+             (7)  Subsection (1) does not apply to or in relation to proceedings of the Senate or of the House of Representatives broadcast or re-broadcast by the Corporation pursuant to the _Parliamentary Proceedings Broadcasting Act 1946_.
+
+## Section 80:
+
+Insert after paragraph (d) the following paragraph:
+
+                    (da)  codes of practice developed under subsection 8(1);
+
+Commonwealth Electoral Act 1918
+
+## Subsection 287(1) (definition of _broadcaster_):
+
+Omit paragraph (c), substitute:
+
+                     (c)  the holder of a licence under the _Broadcasting Services Act 1992_; or
+
+                     (d)  the provider of a broadcasting service under a class licence under that Act.
+
+## Subsection 310(3):
 
 Omit the subsection.
 
-Subsection 111(4):
+## Subsection 310(4):
 
 Omit the subsection, substitute:
 
-<dl compact=""><dl compact="">
+             (4)  A broadcaster who is required to make a return under this section in respect of an advertisement must retain the record made for the purpose of the relevant provision until the end of the period of one month commencing on the day on which the return is furnished to the Electoral Commission.
 
-<dt>(4)</dt><dd>A broadcaster who is required to make a return under this section in
+             (5)  The requirement of subsection (4) is in addition to the requirements of the relevant provision for the retention of such a record.
 
-respect of an advertisement must retain the record made for the purpose of the
+             (6)  In subsections (4) and (5), **_the relevant provision_** means:
 
-relevant provision until the end of the period of one month commencing on the
+                     (a)  in relation to the Australian Broadcasting Corporation—section 79B of the _Australian Broadcasting Corporation Act 1983_; or
 
-day on which the return is furnished to the Electoral Commission.</dd> <dt>(5)</dt><dd>The requirement of subsection&#160;(4) is in addition to the requirements of the relevant provision for the retention of such a record.</dd> <dt>(6)</dt><dd>In subsections&#160;(4) and (5), _the relevant provision_ means: </dd> </dl></dl>
+                     (b)  in relation to the Special Broadcasting Service—section 70B of the _Special Broadcasting Service Act 1991_; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  in any other case—clause 5 of Schedule 2 to the _Broadcasting Services Act 1992_.
 
-<dt>(a)</dt><dd>in relation to the Australian Broadcasting Corporation, section&#160;79B
+Copyright Act 1968
 
-of the _Australian Broadcasting Corporation Act 1983_; or</dd>
+## Subsection 10(1) (definition of _the Special Broadcasting Service_):
 
-<dt>(b)</dt><dd>in relation to the Special Broadcasting Service, section&#160;70B of the
+Omit “established by the _Broadcasting Act 1942_”, substitute “referred to in section 5 of the _Special Broadcasting Service Act 1991_”.
 
-_Special Broadcasting Service Act 1991_; or</dd>
+## Paragraph 47A(11)(b) (definition of _print-handicapped radio licence_):
 
-<dt>(c)</dt><dd>in any other case&#151;clause&#160;5 of Schedule&#160;2 to the _Broadcasting Services Act 1992_.
+Omit “the _Broadcasting Act 1942_, the _Radiocommunications Act 1983_ or the _Wireless Telegraphy Act 1905_”, substitute “the _Broadcasting Services Act 1992_ or the _Radiocommunications Act 1983_”.
 
-</dd>
+Parliamentary Proceedings Broadcasting Act 1946
 
-</dl></dl></dl>
+## Subsection 3(1) (definition of _national broadcasting station_):
 
-_Sea Installations Act 1987_
+Omit the definition, substitute:
 
-Schedule:
+                    <a name="nation-broadcast-station"></a>**_national broadcasting station_** means a national broadcasting station within the meaning of the _Australian Broadcasting Corporation Act 1983_.
 
-Omit "_Broadcasting Act 1942_", substitute "_Broadcasting Services Act 1992_". 
+## Section 16:
 
-_Special Broadcasting Service Act 1991_
+Omit “The provisions of section 117 of the _Broadcasting Act 1942_”, substitute “The provisions of sections 79A and 79B of the _Australian Broadcasting Corporation Act 1983_, clauses 3, 4 and 5 of Part 2 of Schedule 2 to the _Broadcasting Services Act 1992_ and sections 70A and 70B of the _Special Broadcasting Services Act 1991_”.
 
-Paragraph 6(2)(g):
+Radio Licence Fees Act 1964
 
-Omit "public", substitute "community".
+## Section 3:
 
-Subsection 10(1):
+Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
+
+## Subsection 4(1) (definition of _Broadcasting Act_):
+
+Omit the definition.
+
+## Subsection 4(1) (definition of _gross earnings_):
+
+Omit the definition, substitute:
+
+                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the broadcasting, pursuant to the licence, of advertisements or other material.
+
+## Subsection 4(1) (definition of _licence_):
+
+Omit the definition, substitute:
+
+                    <a name="licenc"></a>**_licence_** means a commercial radio broadcasting licence referred to in paragraph 5(1)(b), (d) or (f) of the Transitional Provisions Act.
+
+## Subsection 4(1):
+
+Insert the following definition:
+
+                    <a name="transition-provision-act"></a>**_Transitional Provisions Act_** means the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
+
+## Subsection 6(3):
+
+Omit “Where a licensee has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_, adopted an accounting period ending on a day other than 30 June,”, substitute:
+
+                   If a licensee:
+
+                     (a)  had, before the commencement of the Transitional Provisions Act, in accordance with the _Broadcasting Act 1942_; or
+
+                     (b)  has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_ as applied by section 22 of the Transitional Provisions Act;
+
+adopted an accounting period ending on a day other than 30 June,
+
+Radiocommunications Act 1983
+
+## Subsection 3(1) (definition of _broadcasting station_):
+
+Omit the definition, substitute:
+
+                    <a name="broadcast-station"></a>**_broadcasting station_** means a transmitter that is operating for the purposes of a broadcasting services bands licence. 
+
+## Subsection 3(1) (definition of _television station_):
+
+Omit the definition.
+
+## Subsection 3(1) (definition of _transmitter licence_):
+
+After “section 24” insert “or section 24B”.
+
+## Subsection 3(1):
+
+Insert the following definitions:
+
+                    <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established under the _Broadcasting Services Act 1992_.
+
+                    <a name="broadcast-servic"></a>**_broadcasting service_** has the same meaning as in the _Broadcasting Services Act 1992_.
+
+                    <a name="broadcast-servic-band"></a>**_broadcasting services bands_** has the same meaning as in the _Broadcasting Services Act 1992_.
+
+## Section 18:
+
+Add at the end:
+
+             (3)  The Minister may, after consultation with the ABA and in accordance with the spectrum plan, assign by instrument in writing a part of the spectrum designated as being primarily for broadcasting purposes to the ABA for planning in accordance with Part 3 of the _Broadcasting Services Act 1992_.
+
+## After subsection 19(1):
+
+Insert:
+
+          (1A)  Subsection (1) does not apply in relation to a frequency band within a part of the spectrum assigned to the ABA under subsection 18(3).
+
+## After section 20:
+
+Insert:
+
+##### <a id="20A"></a>20A  Advice by ABA
+
+                   In preparing a spectrum plan or a frequency band plan the Minister must have regard to advice provided by the ABA in accordance with its function under paragraph 158(a) of the _Broadcasting Services Act 1992_.
+
+## After subsection 21(1):
+
+Insert:
+
+          (1A)  The Minister must not grant a certificate under subsection (1) in respect of a frequency within the broadcasting services bands.
+
+## Subsection 21(8):
+
+Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
+
+## Section 22 (definition of _operate_):
+
+Omit the definition.
+
+## Subsection 24(1):
+
+Omit “section 24A”, substitute “sections 24A and 24B”.
+
+## After subsection 24(1):
+
+Insert:
+
+          (1A)  The Minister may not grant a licence under subsection (1) to operate a radiocommunications transmitter that uses a frequency within a part of the spectrum assigned to the ABA under subsection 18(3) except in accordance with a decision of the ABA under subsection 34(1) of the _Broadcasting Services Act 1992_.
+
+## After section 24A:
+
+Insert:
+
+##### <a id="24B"></a>24B  Broadcasting service transmitter licence
+
+             (1)  If a licence (**_the related licence_**) is allocated to a person:
+
+                     (a)  under Part 4 or 6 of the _Broadcasting Services Act 1992_; or
+
+                     (b)  under Part 7 of the _Broadcasting Services Act 1992_, being a licence in respect of a service that uses radiocommunication;
+
+the Minister must grant to that person a transmitter licence, in writing, to operate and to possess a specified radiocommunications transmitter or transmitters for the purpose of transmitting a broadcasting service in accordance with the related licence.
+
+             (2)  A licence under this section comes into force on the day on which it is granted.
+
+             (3)  A licence under this section:
+
+                     (a)  subject to paragraph (b), continues in force while the related licence remains in force; and
+
+                     (b)  does not have effect while the related licence is suspended; and
+
+                     (c)  upon the transfer of the related licence, is taken to be granted to the person to whom the related licence is transferred.
+
+             (4)  A licence under this section is subject to the following conditions:
+
+                     (a)  the condition that the holder of the licence must not operate, or permit the operation of, the transmitter except for a purpose specified in the licence; and
+
+                     (b)  the condition that the holder of the licence must comply with the provisions of this Act; and
+
+                     (c)  the condition that the holder of the licence must not operate, or permit the operation of, the transmitter, otherwise than in accordance with any relevant technical specifications determined by the ABA under subsection 26(1) of the _Broadcasting Services Act 1992_; and
+
+                     (d)  the condition that the holder of the licence must comply with guidelines developed by the ABA under section 33 of the _Broadcasting Services Act 1992_; and
+
+                     (e)  such other conditions as are specified in the licence.
+
+             (5)  The Minister may, by notice in writing:
+
+                     (a)  impose further conditions to which the licence is subject; or
+
+                     (b)  revoke or vary a condition referred to in paragraph (a) or in paragraph 4(e).
+
+             (6)  A condition specified in the licence or a further condition imposed by the Minister must not be inconsistent with the related licence.
+
+             (7)  Sections 25, 28 and 29 do not apply in relation to a transmitter licence granted under subsection (1).
+
+## After section 25:
+
+Insert the following section:
+
+##### <a id="25A"></a>25A  Conditions relating to interference
+
+                   The conditions that may be specified in a licence under paragraph 24B(4)(e) or 25(1)(k) include:
+
+                     (a)  a condition requiring the holder of the licence to place advertisements, in a manner specified in the condition, asking members of the public to contact the holder if they believe that the operation of the transmitter is causing interference to other services; and
+
+                     (b)  if the operation of the transmitter is causing interference to other services—a condition requiring the holder, at the holder’s own expense, to adjust, or fit devices to, receivers in order to eliminate or minimise that interference.
+
+## After subsection 25(8):
+
+Insert:
+
+          (8A)  The conditions that may be specified in a licence under paragraph (1)(k) include:
+
+                     (a)  a condition requiring the holder of the licence to place advertisements, in a manner specified in the condition, asking members of the public to contact the holder if they believe that the operation of the transmitter is causing interference to other services; and
+
+                     (b)  if the operation of the transmitter is causing interference to other services—a condition requiring the holder, at the holder’s own expense, to adjust, or fit devices to, receivers in order to eliminate or minimise that interference.
+
+## Subsection 28(1):
+
+Omit “The Minister”, substitute “Subject to section 24B, the Minister”.
+
+## Subsection 29(1):
+
+Omit “The Minister”, substitute “Subject to section 24B, the Minister”.
+
+## Section 36 (definition of _operate_):
+
+Omit “for the purpose of radio or television reception”, substitute “for the purpose only of reception of programs delivered by a broadcasting service”.
+
+## Section 36 (definition of _radio or television reception_):
+
+Omit the definition.
+
+## Section 36 (definition of _receiver_):
+
+Omit “radio or television reception”, substitute “reception of programs delivered by a broadcasting service”.
+
+## Subsection 41(3):
+
+Omit “or a television station” and “or television station”.
+
+## Subsection 55(2):
+
+                     (a)  Omit “or a television station” (wherever occurring).
+
+                     (b)  Omit “(including a matter relating to the grant, renewal, suspension or revocation of a licence or permit under the _Broadcasting Act 1942_)”.
+
+                     (c)  Omit “intended for reception by the general public” (wherever occurring), substitute “delivered by a broadcasting service”.
+
+## Section 89:
+
+Repeal the section, substitute:
+
+##### <a id="89"></a>89  Operation of this Act in relation to Broadcasting Services Act
+
+                   Regulations under this Act have effect notwithstanding any regulation made under the _Broadcasting Services Act 1992_ but this Act is not intended to limit or exclude the operation of any regulation made under the _Broadcasting Services Act 1992_ to the extent that the regulation is capable of operating concurrently with this Act and with regulations under this Act.
+
+## After section 92:
+
+Insert:
+
+##### <a id="92A"></a>92A  Minister may determine allocation system
+
+             (1)  The Minister may determine in writing a price-based allocation system for granting licences of a kind identified in the regulations.
+
+             (2)  The system so determined:
+
+                     (a)  subject to paragraph (b), may apply generally or in respect of a particular area or frequency; and
+
+                     (b)  does not apply to a frequency within a part of the spectrum assigned to the ABA under subsection 18(3) except in accordance with a decision of the ABA under subsection 34(1) of the _Broadcasting Services Act 1992_; and
+
+                     (c)  may require an application fee.
+
+             (3)  If a licence is granted in accordance with a system so determined, the Minister must publish in the _Gazette_ the name of the successful applicant and the amount that the applicant agreed to pay to the Commonwealth for the grant of the licence.
+
+Referendum (Machinery Provisions) Act 1984
+
+## Section 110 (paragraph (c) of the definition of _broadcaster_):
+
+Omit the paragraph, substitute:
+
+                     (c)  the holder of a licence under the _Broadcasting Services Act 1992_; or
+
+                     (d)  the provider of a broadcasting service under a class licence under that Act.
+
+## Subsection 111(3):
+
+Omit the subsection.
+
+## Subsection 111(4):
+
+Omit the subsection, substitute:
+
+             (4)  A broadcaster who is required to make a return under this section in respect of an advertisement must retain the record made for the purpose of the relevant provision until the end of the period of one month commencing on the day on which the return is furnished to the Electoral Commission.
+
+             (5)  The requirement of subsection (4) is in addition to the requirements of the relevant provision for the retention of such a record.
+
+             (6)  In subsections (4) and (5), **_the relevant provision_** means:
+
+                     (a)  in relation to the Australian Broadcasting Corporation, section 79B of the _Australian Broadcasting Corporation Act 1983_; or
+
+                     (b)  in relation to the Special Broadcasting Service, section 70B of the _Special Broadcasting Service Act 1991_; or
+
+                     (c)  in any other case—clause 5 of Schedule 2 to the _Broadcasting Services Act 1992_.
+
+Sea Installations Act 1987
+
+## Schedule:
+
+Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
+
+Special Broadcasting Service Act 1991
+
+## Paragraph 6(2)(g):
+
+Omit “public”, substitute “community”.
+
+## Subsection 10(1):
 
 Add at the end:
 
 ; and (j) to develop codes of practice relating to programming matters and to notify those codes to the Australian Broadcasting Authority.
- Subsection 45(7):
+
+## Subsection 45(7):
 
 Omit the subsection.
 
-Section&#160;70:
+## Section 70:
 
-Omit "_Broadcasting Act 1942_", substitute "_Broadcasting Services Act 1992_".
+Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
 
-After section&#160;70:
+## After section 70:
 
 Insert:
 
-70A  Broadcasting of political or controversial matter
+##### <a id="70A"></a>70A  Broadcasting of political or controversial matter
 
-<dl compact=""><dl compact="">
+             (1)  Subject to this Act, the SBS may determine to what extent and in what manner political matter or controversial matter will be broadcast by the SBS.
 
-<dt>(1)</dt><dd>Subject to this Act, the SBS may determine to what extent and in what
+             (2)  If the SBS broadcasts political matter at the request of another person, the SBS must, immediately afterwards:
 
-manner political matter or controversial matter will be broadcast by the SBS.</dd> <dt>(2)</dt><dd>If the SBS broadcasts political matter at the request of another person, the SBS must, immediately afterwards: </dd> </dl></dl>
+                     (a)  if the matter was broadcast by radio—cause the required particulars in relation to the matter to be announced; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  if the matter was televised:
 
-<dt>(a)</dt><dd>if the matter was broadcast by radio&#151;cause the required particulars in
+                              (i)  cause the required particulars in relation to the matter (other than the particulars referred to in paragraph (c) of the definition of **_required particulars_** in subsection (5)) to be announced; and
 
-relation to the matter to be announced; or</dd>
+                             (ii)  cause all the required particulars in relation to the matter to be transmitted in the form of images of words.
 
-<dt>(b)</dt><dd>if the matter was televised:
+             (3)  The SBS must, in relation to political matter broadcast at the request of another person, keep a record of the name, address and occupation of the person or, if the person is a company, the name and the address of the principal office of the person, for the required period and must give to the ABA any particulars of the record that the ABA, by written notice, requires.
 
-</dd>
+             (4)  For the purposes of this section, a person authorises the broadcasting of political matter only if the person is responsible for approval of the content of the political matter and the decision to present it for broadcasting.
 
-</dl></dl></dl>
+             (5)  In this section:
 
-<center>Back to Top</center>
+                    <a name="elect"></a>**_election_** means an election to a Parliament or a local government authority of a State or Territory.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                    <a name="elect-period"></a>**_election period_** means:
 
-<dt>(i)</dt><dd>cause the required particulars in relation to the matter (other than the
+                     (a)  in relation to an election to the Legislative Council of Tasmania, or an ordinary election to the Legislative Assembly of the Australian Capital Territory—the period that starts 33 days before the polling day for the election and ends at the close of the poll on that day; and
 
-particulars referred to in paragraph&#160;(c) of the definition of
+                     (b)  in relation to any other election to a Parliament—the period that starts on:
 
-_required particulars_ in subsection&#160;(5)) to be announced;
+                              (i)  the day on which the proposed polling day for the election is publicly announced; or
 
-and</dd>
-
-<dt>(ii)</dt><dd>cause all the required particulars in relation to the matter to be
-
-transmitted in the form of images of words.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>The SBS must, in relation to political matter broadcast at the request of
-
-another person, keep a record of the name, address and occupation of the person
-
-or, if the person is a company, the name and the address of the principal
-
-office of the person, for the required period and must give to the ABA any
-
-particulars of the record that the ABA, by written notice, requires.</dd> <dt>(4)</dt><dd>For the purposes of this section, a person authorises the broadcasting of political matter only if the person is responsible for approval of the content of the political matter and the decision to present it for broadcasting.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_election_ means an election to a Parliament or a local government
-
-authority of a State or Territory. _election period_ means:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in relation to an election to the Legislative Council of Tasmania, or an
-
-ordinary election to the Legislative Assembly of the Australian Capital
-
-Territory&#151;the period that starts 33 days before the polling day for the
-
-election and ends at the close of the poll on that day; and</dd>
-
-<dt>(b)</dt><dd>in relation to any other election to a Parliament&#151;the period that starts
-
-on:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the day on which the proposed polling day for the election is publicly
-
-announced; or</dd>
-
-<dt>(ii)</dt><dd>the day on which the writs for the election are issued;
-
-</dd>
-
-</dl></dl></dl></dl>
+                             (ii)  the day on which the writs for the election are issued;
 
 whichever happens first, and ends at the close of the poll on the polling day for the election; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  in relation to an election to a local government authority—the period that starts 33 days before the polling day for the election and ends at the close of the poll on that day; and
 
-<dt>(c)</dt><dd>in relation to an election to a local government authority&#151;the period
+                     (d)  in relation to a referendum whose voting day is the same as the polling day for an election to the Parliament of the Commonwealth—the election period in relation to that election; and
 
-that starts 33 days before the polling day for the election and ends at the
+                     (e)  in relation to any other referendum—the period that starts 33 days before the voting day for the referendum and ends at the close of voting on that day.
 
-close of the poll on that day; and</dd>
+                    <a name="parliam"></a>**_Parliament_** means:
 
-<dt>(d)</dt><dd>in relation to a referendum whose voting day is the same as the polling
+                     (a)  the Parliament of the Commonwealth; or
 
-day for an election to the Parliament of the Commonwealth&#151;the election period
+                     (b)  a State Parliament; or
 
-in relation to that election; and</dd>
+                     (c)  the legislature of a Territory.
 
-<dt>(e)</dt><dd>in relation to any other referendum&#151;the period that starts 33 days before
+                    <a name="person"></a>**_person_** includes a political party, a corporation and any other association (whether incorporated or unincorporated).
 
-the voting day for the referendum and ends at the close of voting on that day.
+                    <a name="polit-matter"></a>**_political matter_** means any political matter, including the policy launch of a political party.
 
-</dd>
+                    <a name="referendum"></a>**_referendum_** means the submission to the electors of a proposed law for the alteration of the Constitution, whether or not the proposal to make the submission has been announced.
 
-</dl></dl></dl>
+                    <a name="requir-particular"></a>**_required particulars_**, in relation to a political matter that is broadcast, means:
 
-<def><dl compact=""><dl compact="">
+                     (a)  if the broadcasting was authorised by a political party:
 
-_Parliament_ means:
+                              (i)  the name of the political party; and
 
- </dl></dl>
+                             (ii)  the town, city or suburb in which the principal office of the political party is situated; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                            (iii)  the name of the natural person responsible for giving effect to the authorisation; and
 
-<dt>(a)</dt><dd>the Parliament of the Commonwealth; or</dd>
+                     (b)  if the broadcasting of the political matter was authorised by a person other than a political party:
 
-<dt>(b)</dt><dd>a State Parliament; or</dd>
+                              (i)  the name of the person who authorised the broadcasting of the political matter; and
 
-<dt>(c)</dt><dd>the legislature of a Territory.
+                             (ii)  the town, city or suburb in which the person lives or, if the person is a corporation or association, in which the principal office of the person is situated; and
 
-</dd>
+                     (c)  the name of every speaker who, either in person or by means of a sound recording device, delivers an address or makes a statement that forms part of that matter.
 
-</dl></dl></dl>
+                    <a name="requir-period"></a>**_required period_**, in relation to the keeping of a record in relation to political matter, means the period of 2 years commencing on the day on which the matter was broadcast.
 
-<def><dl compact=""><dl compact="">
+##### <a id="70B"></a>70B  Records of matter broadcast
 
-_person_ includes a political party, a corporation and any other
+             (1)  If the SBS broadcasts matter relating to a political subject or current affairs, being matter that is in the form of news, an address, a statement, a commentary or a discussion, the SBS must cause a record of the matter to be made:
 
-association (whether incorporated or unincorporated). _political matter_ means any political matter, including the policy launch of a political party. _referendum_ means the submission to the electors of a proposed law for the alteration of the Constitution, whether or not the proposal to make the submission has been announced. _required particulars_, in relation to a political matter that is broadcast, means:  </dl></dl>
+                     (a)  in the case of a radio broadcast—by using a device for recording sound; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  in the case of a television broadcast—by using a device for recording images and associated sound.
 
-<dt>(a)</dt><dd>if the broadcasting was authorised by a political party:
+             (2)  Subject to this section, the SBS must retain in its custody a record so made for a period of:
 
-</dd>
+                     (a)  6 weeks from the date on which the matter was broadcast; or
 
-</dl></dl></dl>
+                     (b)  if a complaint has been made about the matter—for 70 days from the date on which the complaint was made.
 
-<center>Back to Top</center>
+             (3)  If a person considers that a record so made is admissible in evidence in proceedings instituted, or proposed to be instituted, in a court, being a record that is held under subsection (2), the person may give to the SBS a notice in writing informing the SBS that the record may be required for the purposes of the proceedings.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (4)  If such a notice is given to the SBS in respect of a record, the SBS must, subject to this section, retain the record until the proceedings or the proposed proceedings to which the notice relates have been finally determined.
 
-<dt>(i)</dt><dd>the name of the political party; and</dd>
+             (5)  If the proceedings are not instituted within a period of 3 months after the notice is given to the SBS, subsection (4) ceases to apply to the record at the end of that period.
 
-<dt>(ii)</dt><dd>the town, city or suburb in which the principal office of the political
+             (6)  The obligation imposed by this section on the SBS to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
 
-party is situated; and</dd>
+Telecommunications Act 1991
 
-<dt>(iii)</dt><dd>the name of the natural person responsible for giving effect to the
+## Subsection 99(2) (definition of _broadcaster_):
 
-authorisation; and
+Omit “or the holder of a licence or permit under the _Broadcasting Act 1942_”, substitute “or the holder of a licence under the _Broadcasting Services Act 1992_, the provider of a broadcasting service under a class licence under that Act or a person providing a service referred to in section 212 of that Act”.
 
-</dd>
+Television Licence Fees Act 1964
 
-</dl></dl></dl></dl>
+## Section 3:
 
-<dl compact=""><dl compact=""><dl compact="">
+Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
 
-<dt>(b)</dt><dd>if the broadcasting of the political matter was authorised by a person
-
-other than a political party:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the name of the person who authorised the broadcasting of the political
-
-matter; and</dd>
-
-<dt>(ii)</dt><dd>the town, city or suburb in which the person lives or, if the person is a
-
-corporation or association, in which the principal office of the person is
-
-situated; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>the name of every speaker who, either in person or by means of a sound
-
-recording device, delivers an address or makes a statement that forms part of
-
-that matter.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_required period_, in relation to the keeping of a record in
-
-relation to political matter, means the period of 2 years commencing on the day
-
-on which the matter was broadcast.
-
- </dl></dl>
-
-70B  Records of matter broadcast
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If the SBS broadcasts matter relating to a political subject or current
-
-affairs, being matter that is in the form of news, an address, a statement, a
-
-commentary or a discussion, the SBS must cause a record of the matter to be
-
-made:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of a radio broadcast&#151;by using a device for recording sound;
-
-or</dd>
-
-<dt>(b)</dt><dd>in the case of a television broadcast&#151;by using a device for recording
-
-images and associated sound.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>Subject to this section, the SBS must retain in its custody a record so
-
-made for a period of:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>6 weeks from the date on which the matter was broadcast; or</dd>
-
-<dt>(b)</dt><dd>if a complaint has been made about the matter&#151;for 70 days from the date
-
-on which the complaint was made.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>If a person considers that a record so made is admissible in evidence in
-
-proceedings instituted, or proposed to be instituted, in a court, being a
-
-record that is held under subsection&#160;(2), the person may give to the SBS a
-
-notice in writing informing the SBS that the record may be required for the
-
-purposes of the proceedings.</dd> <dt>(4)</dt><dd>If such a notice is given to the SBS in respect of a record, the SBS must, subject to this section, retain the record until the proceedings or the proposed proceedings to which the notice relates have been finally determined.</dd> <dt>(5)</dt><dd>If the proceedings are not instituted within a period of 3 months after the notice is given to the SBS, subsection&#160;(4) ceases to apply to the record at the end of that period.</dd> <dt>(6)</dt><dd>The obligation imposed by this section on the SBS to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court. </dd> </dl></dl>
-
-_Telecommunications Act 1991_
-
-Subsection 99(2) (definition of broadcaster):
-
-Omit "or the holder of a licence or permit under the _Broadcasting Act Back to Top 1942_", substitute "or the holder of a licence under the _Broadcasting Services Act 1992_, the provider of a broadcasting service under a class licence under that Act or a person providing a service referred to in section&#160;212 of that Act". 
-
-_Television Licence Fees Act 1964_
-
-Section&#160;3:
-
-Omit "_Broadcasting Act 1942_", substitute "_Broadcasting Services Act 1992_".
-
-Subsection 4(1) (definition of gross earnings):
+## Subsection 4(1) (definition of _gross earnings_):
 
 Omit the definition, substitute:
 
-<def><dl compact=""><dl compact="">
+                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the televising, pursuant to the licence, of advertisements or other matter.
 
-_gross earnings_, in respect of a licence in respect of a period,
-
-means the gross earnings of the licensee during that period from the
-
-televising, pursuant to the licence, of advertisements or other matter.
-
- </dl></dl>
-
-Subsection 4(1) (definition of licence):
+## Subsection 4(1) (definition of _licence_):
 
 Omit the definition, substitute:
 
-<def><dl compact=""><dl compact="">
+                    <a name="licenc"></a>**_licence_** means a commercial television broadcasting licence referred to in paragraph 5(1)(b) or (e) of the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
 
-_licence_ means a commercial television broadcasting licence
-
-referred to in paragraph 5(1)(b) or (e) of the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
-
- </dl></dl>
-
-Subsection 4(1):
+## Subsection 4(1):
 
 Insert the following definition:
 
-<def><dl compact=""><dl compact="">
+                    <a name="transition-provision-act"></a>**_Transitional Provisions Act_** means the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
 
-_Transitional Provisions Act_ means the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
+## Subsection 6(3):
 
- </dl></dl>
+Omit “Where a licensee has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_, adopted an accounting period ending on a day other than 30 June,”, substitute:
 
-Subsection 6(3):
+                   If a licensee:
 
-Omit "Where a licensee has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_, adopted an accounting period ending on a day other than 30&#160;June,", substitute:
+                     (a)  had, before the commencement of the Transitional Provisions Act, in accordance with the _Broadcasting Act 1942_; or
 
-<dl compact=""><dl compact="">
+                     (b)  has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_ as applied by section 22 of the Transitional Provisions Act;
 
-		If a licensee:
+adopted an accounting period ending on a day other than 30 June,
 
- </dl></dl>
+Trade Practices Act 1974
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>had, before the commencement of the Transitional Provisions Act, in
-
-accordance with the _Broadcasting Act 1942_; or</dd>
-
-<dt>(b)</dt><dd>has, in accordance with subsection 123(2) of the _Broadcasting Act 1942_ as applied by section&#160;22 of the Transitional Provisions Act;
-
-</dd>
-
-</dl></dl></dl>
-
-adopted an accounting period ending on a day other than 30&#160;June, 
-
-_Trade Practices Act 1974_
-
-Subsection 65A(3) (definition of consortium):
+## Subsection 65A(3) (definition of _consortium_):
 
 Omit the definition.
 
-Subsection 65A(3) (paragraph&#160;(a) of the definition of prescribed information provider):
+## Subsection 65A(3) (paragraph (a) of the definition of _prescribed information provider_):
 
 Omit the paragraph, substitute:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the holder of a licence granted under the _Broadcasting Services Act 1992_; and
 
-<dt>(a)</dt><dd>the holder of a licence granted under the _Broadcasting Services Act 1992_; and</dd>
+                    (aa)  a person who is the provider of a broadcasting service under a class licence under that Act; and
 
-<dt>(aa)</dt><dd>a person who is the provider of a broadcasting service under a class
+                    (ab)  the holder of a licence continued in force by subsection 5(1) of the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_; and
 
-licence under that Act; and</dd>
+ 
 
-<dt>(ab)</dt><dd>the holder of a licence continued in force by subsection 5(1) of the
+# Notes to the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_
 
-_Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_; and
+### Note 1
 
-</dd>
+The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ as shown in this compilation comprises Act No. 105, 1992 amended as indicated in the Tables below.
 
-</dl></dl></dl>
+### Table of Acts
 
-<center>**
+* * *
 
-###  BROADCASTING SERVICES (TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS) ACT 1992<centreit>Notes to the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ </centreit>
-**</center>
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
-**Note 1**
-
-The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ as shown in this compilation comprises Act No. 105,&#160;1992 amended as indicated in the Tables below.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
 
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
+* * *
 
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
-  </th>
-</tr></table>
-
-<center>Back to Top</center>
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</i></div>
-
+<tr>
+  <td>
+    <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>105, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>9 July 1992</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>5 Oct 1992 ( <i>see</i>s.&#160;2 and <i>Gazette</i>1992, No. GN38)</div>
-
+  <td>
+    <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992</i></div>
-
+<tr>
+  <td>
+    <div>Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>167, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Dec 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1 July 1993</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Transport and Communications Legislation Amendment Act (No. 3) 1992</i></div>
-
+<tr>
+  <td>
+    <div>Transport and Communications Legislation Amendment Act (No. 3) 1992</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>216, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Dec 1992</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Ss. 64-66: Royal Assent <i>(a)</i></div>
-
+  <td>
+    <div>Ss 64-66: Royal Assent <i>(a)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Broadcasting Services Legislation Amendment Act 1997</i></div>
-
+<tr>
+  <td>
+    <div>Broadcasting Services Legislation Amendment Act 1997</div>
   </td>
-  <td colspan="1" align="left">
-    <div>143, 1997</div>
-
+  <td>
+    <div>143m 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>8 Oct 1997</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>8 Oct 1997</div>
-
+  <td>
+    <div>Schedule 2: 8 Oct 1997</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Broadcasting Legislation Amendment Act (No.&#160;2) 2002</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>120, 2002</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2 Dec 2002</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedules 1 and 2: 30 Dec 2002 
-Remainder: Royal Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr></table>
 
-<center>Back to Top</center>
+ 
 
-_(a)_	The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ was amended by sections 64-66 only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992_, subsection 2(1) of which provides as follows:
+_(a)_     The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ was amended by sections 64-66 only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-**Table of Amendments**
+## Table of Amendments
 
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted 
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr></table>
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+
+</div>
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<tr>
+  <td>
     <div>S. 4</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 167, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 10</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 167, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 12</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 216, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 14, 15</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 143, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 22</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 216, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 143, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 27</div>
-
+<tr>
+  <td>
+    <div>S. 27.........................................</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 167, 1992</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 28</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 120, 2002</div>
-
   </td>
 </tr></table>
 
-</def></def></def></def>
-
-</def></def></def>
-
-</def></def></def>
-
-</def></def></def>
-
-</def>
-
-</def></def></def>
-
-</def>
-
-
+ 
