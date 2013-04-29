@@ -1,7 +1,7 @@
 
-Nuclear Non‑Proliferation (Safeguards) Act 1987
+Nuclear Non‑Proliferation (Safeguards) Act 1987 
 Act No. 8 of 1987 as amended
-This compilation was prepared on 6 November 2001 taking into account amendments up to Act No. 159 of 2001
+This compilation was prepared on 26 May 2001 taking into account amendments up to Act No. 35 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -15,100 +15,100 @@ Part I—Preliminary	1
 4	Interpretation	1
 4A	Supplementary Agency Agreements	9
 5	Conduct by directors, servants or agents	9
-6	Act to extend to external Territories	11
+6	Act to extend to external Territories	10
 7	Act to bind Crown	11
 8	Application of Act	11
 8A	Application of the Criminal Code	13
-Part II—Control of nuclear material and associated items	15
-9	Nuclear material to which this Part applies	15
-10	Associated items to which this Part applies	15
-11	Exemption and termination declarations	15
-12	Application for permit	17
-13	Permit to possess nuclear material or associated items	17
-14	Permit not to be granted to owner or operator of nuclear facility unless Director satisfied as to certain matters	20
-15	Permit not to be granted where nuclear material etc. to be held outside nuclear facility unless Director satisfied as to certain matters	21
-16	Special transport permit	21
-17	Application for authority to communicate information	23
-18	Authority to communicate information	23
-19	Revocation of permit or authority	25
-20	Notification of grant, variation or revocation of permit or authority	25
-21	Effect of grant of permit or authority	26
-22	Review of decisions	26
-Part III—Offences	29
-Division 1—General offences	29
-23	Possession of nuclear material or associated item without permit	29
-24	Special provisions for carriers	30
-25	Breach of condition of permit or authority etc.	31
-26	Unauthorised communication of information	31
-27	Minister to be given certain notices in respect of exempt nuclear material	33
-28	Interference with containment or surveillance devices	33
-29	Information in relation to design for construction or modification of nuclear facility	34
-30	False or misleading statements etc.	35
-31	Obstruction of Agency inspector	36
-Division 2—Offences relating to the Physical Protection Convention	37
-32	Interpretation	37
-33	Stealing nuclear material	37
-34	Demanding nuclear material by threats etc.	37
-35	Use of nuclear material causing injury to persons or damage to property	37
-36	Threat to use nuclear material	37
-37	Threat to commit offence	38
-38	Extension of application of offence provisions	38
-Division 3—Miscellaneous	40
-39	Forfeiture	40
-40	Hearing in camera etc.	40
-41	Register of Permit and Authority Holders to be evidence of certain matters	41
-Part IV—Administration	43
-Division 1—Director of Safeguards	43
-42	Director of Safeguards	43
-43	Functions of Director	43
-44	Directions of Minister	44
-45	Remuneration and allowances	44
-46	Leave of absence	44
-47	Resignation	44
-48	Termination of appointment	44
-49	Disclosure of interests	45
-50	Acting Director	45
-51	Annual report by Director	46
-52	Additional reports	47
-53	Delegation by Director	47
-Division 2—Australian Safeguards Office	48
-54	Australian Safeguards Office	48
-55	Staff	48
-56	Engagements of consultants etc.	48
-Division 3—Inspectors and Agency inspectors	49
-57	Inspectors and Agency inspectors	49
-58	Identity cards	49
-Division 4—Inspections, searches and seizures	50
-59	Safeguards inspections by inspectors	50
-60	Safeguards inspections by Agency inspectors	52
-61	Offence‑related searches and seizures	53
-62	Warrants may be granted by telephone	56
-63	Emergency searches and seizures	57
-64	Inspectors and Agency inspectors to produce evidence of identity	58
-65	Persons to assist inspectors	59
-66	Inspector may require information etc.	59
-67	Seizure of nuclear material etc. where required by prescribed international agreement	60
-Division 5—Miscellaneous	63
-68	Compliance with conditions etc.	63
-69	Register of Permit and Authority Holders to be kept	64
-Part IVA—Charges	65
-69A	Charge—producers of uranium ore concentrates	65
-69B	Extension of time to pay	65
-69C	Payment by instalments	65
-Part V—Miscellaneous	66
-70	Powers to be exercised in accordance with international agreements	66
-71	Reports etc. to be confidential	66
-72	Delegation by Minister	67
-73	Orders and directions	69
-74	Regulations	71
-Schedule 1—Article XX of the Statute of the International Atomic Energy Agency	72
-Definitions	72
-Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons	73
-Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons	79
-Schedule 4—Convention on the physical protection of nuclear material	116
-Schedule 5—Prescribed international agreements	128
-Notes 		131
-
+Part II—Control of nuclear material and associated items	14
+9	Nuclear material to which this Part applies	14
+10	Associated items to which this Part applies	14
+11	Exemption and termination declarations	14
+12	Application for permit	16
+13	Permit to possess nuclear material or associated items	16
+14	Permit not to be granted to owner or operator of nuclear facility unless Director satisfied as to certain matters	19
+15	Permit not to be granted where nuclear material etc. to be held outside nuclear facility unless Director satisfied as to certain matters	20
+16	Special transport permit	20
+17	Application for authority to communicate information	22
+18	Authority to communicate information	22
+19	Revocation of permit or authority	24
+20	Notification of grant, variation or revocation of permit or authority	24
+21	Effect of grant of permit or authority	25
+22	Review of decisions	25
+Part III—Offences	28
+Division 1—General offences	28
+23	Possession of nuclear material or associated item without permit	28
+24	Special provisions for carriers	29
+25	Breach of condition of permit or authority etc.	30
+26	Unauthorised communication of information	30
+27	Minister to be given certain notices in respect of exempt nuclear material	32
+28	Interference with containment or surveillance devices	32
+29	Information in relation to design for construction or modification of nuclear facility	33
+30	False or misleading statements etc.	34
+31	Obstruction of Agency inspector	34
+Division 2—Offences relating to the Physical Protection Convention	36
+32	Interpretation	36
+33	Stealing nuclear material	36
+34	Demanding nuclear material by threats etc.	36
+35	Use of nuclear material causing injury to persons or damage to property	36
+36	Threat to use nuclear material	36
+37	Threat to commit offence	37
+38	Extension of application of offence provisions	37
+Division 3—Miscellaneous	39
+39	Forfeiture	39
+40	Hearing in camera etc.	39
+41	Register of Permit and Authority Holders to be evidence of certain matters	40
+Part IV—Administration	42
+Division 1—Director of Safeguards	42
+42	Director of Safeguards	42
+43	Functions of Director	42
+44	Directions of Minister	43
+45	Remuneration and allowances	43
+46	Leave of absence	43
+47	Resignation	43
+48	Termination of appointment	43
+49	Disclosure of interests	44
+50	Acting Director	44
+51	Annual report by Director	45
+52	Additional reports	46
+53	Delegation by Director	46
+Division 2—Australian Safeguards Office	47
+54	Australian Safeguards Office	47
+55	Staff	47
+56	Engagements of consultants etc.	47
+Division 3—Inspectors and Agency inspectors	48
+57	Inspectors and Agency inspectors	48
+58	Identity cards	48
+Division 4—Inspections, searches and seizures	49
+59	Safeguards inspections by inspectors	49
+60	Safeguards inspections by Agency inspectors	51
+61	Offence‑related searches and seizures	52
+62	Warrants may be granted by telephone	55
+63	Emergency searches and seizures	56
+64	Inspectors and Agency inspectors to produce evidence of identity	57
+65	Persons to assist inspectors	58
+66	Inspector may require information etc.	58
+67	Seizure of nuclear material etc. where required by prescribed international agreement	59
+Division 5—Miscellaneous	62
+68	Compliance with conditions etc.	62
+69	Register of Permit and Authority Holders to be kept	63
+Part IVA—Charges	64
+69A	Charge—producers of uranium ore concentrates	64
+69B	Extension of time to pay	64
+69C	Payment by instalments	64
+Part V—Miscellaneous	65
+70	Powers to be exercised in accordance with international agreements	65
+71	Reports etc. to be confidential	65
+72	Delegation by Minister	66
+73	Orders and directions	68
+74	Regulations	69
+Schedule 1—Article XX of the Statute of the International Atomic Energy Agency	71
+Definitions	71
+Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons	72
+Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons	78
+Schedule 4—Convention on the physical protection of nuclear material	114
+Schedule 5—Prescribed international agreements	126
+Notes to the Nuclear Non-Proliferation (Safeguards) Act 1987	129
+4	Application of amendments	135
 An Act to make provision in relation to the non‑proliferation of nuclear weapons and to establish, in accordance with certain international treaties and agreements to which Australia is a party, a system for the imposition and maintenance of nuclear safeguards in Australia, and for related matters
 Part I—Preliminary
   
@@ -674,6 +674,7 @@ Division 1—Director of Safeguards
 	(1)	There shall be a Director of Safeguards.
 	(2)	The Director shall be appointed by the Governor‑General.
 	(3)	The Director shall be appointed for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for reappointment.
+	(4)	A person who has attained the age of 65 years shall not be appointed as the Director and a person shall not be appointed as the Director for a period that extends beyond the day on which the person will attain the age of 65 years.
 	(5)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
 43  Functions of Director
 		The functions of the Director are:
@@ -1884,11 +1885,6 @@ Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) A
 28 Apr 2001
 26 May 2001
 S. 4 [see Table A]
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
-159, 2001
-1 Oct 2001
-29 Oct 2001
-Sch 1 (item 97) [see Table A]
 
 (a)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by the Schedule (Part 2) only of the Qantas Sale Act 1992, paragraph 2(3)(a) of which provides as follows:
 	(3)	A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the Gazette but only if:
@@ -1938,8 +1934,6 @@ S. 31
 am. No. 137, 2000
 S. 38	
 am. No. 13, 2000
-S. 42	
-am. No. 159, 2001
 S. 43	
 am. No. 150, 1997
 S. 45	
@@ -2001,9 +1995,4 @@ Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) A
 4  Application of amendments
 	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)
-Schedule 1
-97  Application of amendments
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
