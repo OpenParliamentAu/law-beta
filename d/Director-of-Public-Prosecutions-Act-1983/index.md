@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00557/Html/DirPubProsec1983_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00507/Html/DirPubProsec1983_WD02_image001.gif)
 
 # Director of Public Prosecutions Act 1983
 
 **Act No. 113 of 1983 as amended**
 
-This compilation was prepared on 4 December 2009
+This compilation was prepared on 11 November 2009
  taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force 
@@ -299,10 +299,6 @@ the Director may institute a prosecution on indictment of the person for the ind
           (2D)  Subject to subsection (2E), in any other case where the Director considers it appropriate to do so, the Director may institute a prosecution of a person on indictment for an indictable offence against the laws of the Commonwealth in respect of which the person has not been examined or committed for trial.
 
            (2E)  Notwithstanding anything contained in subsection (2D), the Director may not institute a prosecution of a person on indictment for an offence against the _War Crimes Act 1945_ unless the person has first been examined or committed for trial.
-
-           (2F)  If a person is committed for trial before a court (the **_initial court_**) for one or more indictable offences against the laws of the Commonwealth, the Director may institute in another court (the **_later court_**) a prosecution of the person on indictment for any or all of the offences.
-
-          (2G)  Subsection (2F) applies even if the Director has instituted a prosecution (the **_initial prosecution_**) before the initial court for any or all of the offences. However, the Director must discontinue the initial prosecution in respect of each offence covered by the prosecution in the later court.
 
              (3)  The Attorney-General may, by writing signed by the Attorney-General, specify a matter or class of matters for the purposes of paragraph (1)(g) or (h) and, where the Attorney-General so specifies a matter or class of matters, a copy of the instrument specifying that matter or class of matters shall be published in the _Gazette_ when the Attorney-General considers it appropriate to do so.
 
@@ -700,7 +696,7 @@ the Director may appear in person or may be represented:
 
                     <a name="state-territori-author"></a>**_State or Territory authority_** means the agency of a State or Territory Government that is responsible for commencing and carrying on prosecutions on indictment for breaches of State or Territory law.
 
-##### <a id="15A"></a>15A  Appearances on behalf of Director in summary or committal proceedings
+##### <a id="15A"></a>15A  Appearances on behalf of Director in summary or committal proceedings
 
                    Without limiting the class of persons who may represent the Director under section 15, in proceedings for the summary conviction of a person or for the commitment of a person for trial in respect of an indictable offence (whether the proceedings were instituted before or are instituted after the commencement of this section), the Director may be represented by a member of the Australian Federal Police, or a member of the police force of a State or Territory, whether or not the member concerned is a legal practitioner.
 
@@ -1802,7 +1798,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002 No. GN44)</div>
     <div>6 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): 4 Dec 2009</div>
+    <div>Schedule 1 (item 1): \[ <i>see</i>Note 2]</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1921,7 +1917,7 @@ _(n)_ The _Director of Public Prosecutions Act 1983_ was amended by Schedule 5
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 165, 1984; No. 64, 1985; No. 88, 1986; Nos. 86 and 141, 1987; No. 5, 1988; No. 108, 1989; No. 182, 1994; No. 19, 1995; No. 43, 1996; No. 57, 2000; No. 42, 2002; No. 86, 2002; No. 106, 2009</div>
+    <div>am. No. 165, 1984; No. 64, 1985; No. 88, 1986; Nos. 86 and 141, 1987; No. 5, 1988; No. 108, 1989; No. 182, 1994; No. 19, 1995; No. 43, 1996; No. 57, 2000; No. 42, 2002; No. 86, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2188,6 +2184,24 @@ _(n)_ The _Director of Public Prosecutions Act 1983_ was amended by Schedule 5
     <div>am. No. 62, 2004</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009 (No. 106, 2009)_
+
+The following amendment commences on 4 December 2009:
+
+## Schedule 1
+
+## 1  After subsection 6(2E)
+
+Insert:
+
+           (2F)  If a person is committed for trial before a court (the **_initial court_**) for one or more indictable offences against the laws of the Commonwealth, the Director may institute in another court (the **_later court_**) a prosecution of the person on indictment for any or all of the offences.
+
+          (2G)  Subsection (2F) applies even if the Director has instituted a prosecution (the **_initial prosecution_**) before the initial court for any or all of the offences. However, the Director must discontinue the initial prosecution in respect of each offence covered by the prosecution in the later court.
+
+As at 11 November 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
