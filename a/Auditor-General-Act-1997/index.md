@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00028/Html/AuditGeneral997_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00659/Html/AuditGeneral997_image001.gif)
 
 # Auditor-General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 1 January 2008
+This compilation was prepared on 5 October 2007
  taking into account amendments up to Act No. 166 of 2007
 
 The text of any of those amendments not in force
@@ -58,181 +58,183 @@ Related legislation
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            This Act binds the Crown
+[3](#3).            This Act binds the Crown                                                                   1
 
-[4](#4).            This Act extends to things outside Australia
+[4](#4).            This Act extends to things outside Australia                                      1
 
 **Part 2—General provisions about definitions and offences**
 
-[5](#5).            Definitions
+[5](#5).            Definitions                                                                                           2
 
-[6](#6).            Offences
+[6](#6).            Offences                                                                                               4
 
 **Part 3—The Auditor-General**
 
-[7](#7).            Auditor-General
+[7](#7).            Auditor-General                                                                                   5
 
-[8](#8).            Independence of the Auditor-General
+[8](#8).            Independence of the Auditor-General                                                 5
 
-[9](#9).            Appointment, conditions etc  for Auditor-General
+[9](#9).            Appointment, conditions etc  for Auditor-General                             6
 
-[10](#10).          Auditor-General to have regard to audit priorities of Parliament etc 
+[10](#10).          Auditor-General to have regard to audit priorities of Parliament etc  6
 
 **Part 4—Main functions and powers of the Auditor-General** 
 
     **Division 1—Statement audits**
 
-[11](#11).          Agencies
+[11](#11).          Agencies                                                                                               7
 
-[12](#12).          Commonwealth authorities and subsidiaries
+[12](#12).          Commonwealth authorities and subsidiaries                                       7
 
-[13](#13).          Commonwealth companies and subsidiaries
+[13](#13).          Commonwealth companies and subsidiaries                                       7
 
-[14](#14).          Audit fees for statement audits
+[14](#14).          Audit fees for statement audits                                                           7
 
     **Division 2—Performance audits**
 
-[15](#15).          Agencies
+[15](#15).          Agencies                                                                                               9
 
-[16](#16).          Commonwealth authorities and subsidiaries
+[16](#16).          Commonwealth authorities and subsidiaries                                       9
 
-[17](#17).          Commonwealth companies and subsidiaries
+[17](#17).          Commonwealth companies and subsidiaries                                     10
 
-[18](#18).          General performance audit
+[18](#18).          General performance audit                                                                 10
 
-[19](#19).          Comments on proposed report
+[19](#19).          Comments on proposed report                                                         11
 
     **Division 3—Audits etc. by arrangement**
 
-[20](#20).          Audits etc  by arrangement
+[20](#20).          Audits etc  by arrangement                                                                12
 
     **Division 4—Functions under other Acts**
 
-[21](#21).          Acting as auditor under the Corporations Act
+[21](#21).          Acting as auditor under the Corporations Act                                  13
 
-[22](#22).          Functions under other Acts
+[22](#22).          Functions under other Acts                                                               13
 
     **Division 5—Miscellaneous functions and powers**
 
-[23](#23).          Provision of advice or information
+[23](#23).          Provision of advice or information                                                    14
 
-[24](#24).          Auditing standards
+[24](#24).          Auditing standards                                                                             14
 
-[25](#25).          Extra reports to Parliament
+[25](#25).          Extra reports to Parliament                                                                14
 
-[26](#26).          Extra reports to Ministers
+[26](#26).          Extra reports to Ministers                                                                 14
 
-[27](#27).          Contracting outsiders to assist with audits
+[27](#27).          Contracting outsiders to assist with audits                                       15
 
-[28](#28).          Annual report for the Australian National Audit Office
+[28](#28).          Annual report for the Australian National Audit Office                   15
 
-[29](#29).          Delegation by Auditor-General
+[29](#29).          Delegation by Auditor-General                                                         15
 
 **Part 5—Information-gathering powers and secrecy** 
 
     **Division 1—Information-gathering powers**
 
-[30](#30).          Relationship of information-gathering powers with other laws
+[30](#30).          Relationship of information-gathering powers with other laws        16
 
-[31](#31).          Purpose for which information-gathering powers may be used
+[31](#31).          Purpose for which information-gathering powers may be used        16
 
-[32](#32).          Power of Auditor-General to obtain information
+[32](#32).          Power of Auditor-General to obtain information                              16
 
-[33](#33).          Access to premises etc 
+[33](#33).          Access to premises etc                                                                      17
 
-[35](#35).          Self-incrimination no excuse
+[35](#35).          Self-incrimination no excuse                                                              18
 
     **Division 2—Confidentiality of information**
 
-[36](#36).          Confidentiality of information
+[36](#36).          Confidentiality of information                                                           19
 
-[37](#37).          Sensitive information not to be included in public reports
+[37](#37).          Sensitive information not to be included in public reports                19
 
 **Part 6—The Australian National Audit Office**
 
-[38](#38).          Establishment
+[38](#38).          Establishment                                                                                    22
 
-[39](#39).          Function
+[39](#39).          Function                                                                                             22
 
-[40](#40).          Staff
+[40](#40).          Staff                                                                                                   22
 
 **Part 7—Audit of the Australian National Audit Office** 
 
     **Division 1—The Independent Auditor**
 
-[41](#41).          Independent Auditor
+[41](#41).          Independent Auditor                                                                         23
 
-[42](#42).          Appointment, conditions etc  for Independent Auditor
+[42](#42).          Appointment, conditions etc  for Independent Auditor                   23
 
-[43](#43).          Independent Auditor to have regard to audit priorities of Parliament etc 
+[43](#43).          Independent Auditor to have regard to audit priorities of Parliament etc               23
 
     **Division 2—Audit of the Australian National Audit Office**
 
-[44](#44).          Audit of annual financial statements
+[44](#44).          Audit of annual financial statements                                                 24
 
-[45](#45).          Performance audit
+[45](#45).          Performance audit                                                                              24
 
-[46](#46).          Sensitive information not to be included in public reports
+[46](#46).          Sensitive information not to be included in public reports                24
 
     **Division 3—Miscellaneous**
 
-[47](#47).          Independent Auditor to have same access powers etc  as Auditor-General
+[47](#47).          Independent Auditor to have same access powers etc  as Auditor-General            25
 
-[48](#48).          Confidentiality of information
+[48](#48).          Confidentiality of information                                                           25
 
-[49](#49).          Indemnity
+[49](#49).          Indemnity                                                                                          25
 
 **Part 8—Miscellaneous**
 
-[50](#50).          Guaranteed availability of parliamentary appropriations
+[50](#50).          Guaranteed availability of parliamentary appropriations                 26
 
-[51](#51).          Auditor-General may approve expenditure
+[51](#51).          Auditor-General may approve expenditure                                       26
 
-[53](#53).          Joint Committee of Public Accounts and Audit may request draft estimates for Audit Office
+[52](#52).          Agreements for “net appropriations”                                                26
 
-[54](#54).          Provision of information to the Finance Minister
+[53](#53).          Joint Committee of Public Accounts and Audit may request draft estimates for Audit Office              26
 
-[55](#55).          Indemnity
+[54](#54).          Provision of information to the Finance Minister                             27
 
-[56](#56).          Modifications of Act for intelligence or security agency etc 
+[55](#55).          Indemnity                                                                                          27
 
-[57](#57).          Regulations
+[56](#56).          Modifications of Act for intelligence or security agency etc             27
+
+[57](#57).          Regulations                                                                                        28
 
 **Schedule 1—Appointment, conditions of appointment etc. for Auditor-General**
 
-[1](#1).            Appointment of Auditor-General
+[1](#1).            Appointment of Auditor-General                                                     29
 
-[2](#2).            Minister must refer recommendation for appointment of Auditor-General to the Joint Committee of Public Accounts and Audit
+[2](#2).            Minister must refer recommendation for appointment of Auditor-General to the Joint Committee of Public Accounts and Audit                                                                                           29
 
-[3](#3).            Remuneration of Auditor-General
+[3](#3).            Remuneration of Auditor-General                                                     30
 
-[4](#4).            Recreation leave etc 
+[4](#4).            Recreation leave etc                                                                           30
 
-[5](#5).            Resignation
+[5](#5).            Resignation                                                                                        30
 
-[6](#6).            Removal from office etc 
+[6](#6).            Removal from office etc                                                                     30
 
-[7](#7).            Acting appointment
+[7](#7).            Acting appointment                                                                           31
 
 **Schedule 2—Appointment, conditions of appointment etc. for Independent Auditor**
 
-[1](#1).            Appointment of Independent Auditor
+[1](#1).            Appointment of Independent Auditor                                              33
 
-[2](#2).            Minister must refer recommendation for appointment of Independent Auditor to the Joint Committee of Public Accounts and Audit
+[2](#2).            Minister must refer recommendation for appointment of Independent Auditor to the Joint Committee of Public Accounts and Audit                                                                           33
 
-[3](#3).            Remuneration of Independent Auditor
+[3](#3).            Remuneration of Independent Auditor                                              33
 
-[4](#4).            Resignation
+[4](#4).            Resignation                                                                                        34
 
-[5](#5).            Removal from office etc 
+[5](#5).            Removal from office etc                                                                     34
 
-[6](#6).            Acting appointment
+[6](#6).            Acting appointment                                                                           35
 
 **Notes** 
 
@@ -843,6 +845,16 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 Note:          The Auditor-General’s power under this section may be delegated under section 29.
 
+##### <a id="52"></a>52  Agreements for “net appropriations”
+
+             (1)  Any net appropriation agreement made by the Finance Minister in relation to the Audit Office must be made with the Auditor-General (whether or not the Finance Minister is responsible for the relevant appropriation items).
+
+             (2)  The Finance Minister must not cancel or vary a net appropriation agreement made with the Auditor-General unless the Auditor-General consents.
+
+             (3)  In this section:
+
+                    <a name="net-appropri-agreem"></a>**_net appropriation agreement_** means an agreement made under section 31 of the _Financial Management and Accountability Act 1997_.
+
 ##### <a id="53"></a>53  Joint Committee of Public Accounts and Audit may request draft estimates for Audit Office
 
              (1)  The Joint Committee of Public Accounts and Audit may request the Auditor-General to submit to the Committee draft estimates for the Audit Office for a financial year before the annual Commonwealth budget for that financial year.
@@ -1159,7 +1171,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 104–106): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 104–106): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1176,8 +1188,9 @@ of Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Sch. 2 (items 418, 419)</div>
@@ -1194,7 +1207,7 @@ Remainder: 24 May 2001</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 36–40): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 36–40): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1211,7 +1224,7 @@ Remainder: 24 May 2001</div>
     <div>25 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–8, 10, 13–16, 19, 21): 1 Jan 2008 ( <i>see</i>F2007L04788) Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1, 13(1)): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 13(1))</div>
@@ -1373,22 +1386,6 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
 </tr>
 <tr>
   <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rep. No. 166, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 1</b></div>
   </td>
   <td>
@@ -1403,6 +1400,20 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
     <div>am. No. 146, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
+
+The following amendment commences on 25 March 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 52
+
+Repeal the section.
+
+As at 5 October 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1441,6 +1452,8 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 * * *
 
 _Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
+
+The following provision commences on 25 March 2008 unless proclaimed earlier:
 
 ## Schedule 1
 
