@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00065/Html/TorresStraitFish1984_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00369/Html/TorresStraitFish1984_WD02_image001.gif)
 
 # Torres  Strait Fisheries Act 1984
 
 **Act No. 23 of 1984 as amended**
 
-This compilation was prepared on 9 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 22 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1182,7 +1182,7 @@ the Minister shall not grant the licence unless the person tenders the amount of
 
                      (b)  carrying, or processing and carrying, in areas of Australian jurisdiction, fish that have been taken with the use of another boat.
 
-             (2)  An endorsement of a Papua New Guinea licence made under this section comes into force on the day on which the endorsement is made and remains in force until the endorsement is revoked or until the Papua   New Guinea licence ceases to be in force, whichever first occurs.
+             (2)  An endorsement of a Papua New Guinea licence made under this section comes into force on the day on which the endorsement is made and remains in force until the endorsement is revoked or until the Papua New Guinea licence ceases to be in force, whichever first occurs.
 
              (3)  The Minister may, in his or her discretion, by notice in writing served on the holder of a licence in respect of which a Treaty endorsement is in force, revoke the endorsement.
 
@@ -2102,7 +2102,7 @@ the things may be moved to another place so that the examination or processing c
 
                      (b)  the examination or processing can be carried out without damage to the equipment or the thing.
 
-##### <a id="43J"></a>43J  Use of electronic equipment at premises
+##### <a id="43J"></a>43J  Use of electronic equipment at premises
 
              (1)  The executing officer or a person helping may operate electronic equipment at the premises to see whether evidential material is accessible by doing so if he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.
 
@@ -2781,7 +2781,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="51"></a>51  Having boat equipped for fishing—general
+##### <a id="51"></a>51  Having boat equipped for fishing—general
 
              (1)  A person shall not, in an area of Australian jurisdiction, have in his or her possession or under his or her control, an unlicensed boat equipped for taking fish.
 
@@ -3727,6 +3727,8 @@ and in particular:
 
              (4)  A person is not excused from furnishing a return required by regulations made under this section, or including information in such a return, on the ground that the return or information might tend to incriminate him or her, but his or her return is not admissible in evidence against him or her in any proceedings, other than proceedings in respect of false information contained in the return or in respect of a refusal or failure to include information in the return.
 
+ 
+
 # Schedule 1—Torres Strait Treaty
 
 _Section 3_
@@ -3805,7 +3807,7 @@ HAVE AGREED as follows:
 
                     (iii)  maintain traditional customary associations with areas or features in or in the vicinity of the Protected Zone in relation to their subsistence or livelihood or social, cultural or religious activities.
 
-     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2010C00065/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
+     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2008C00369/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
 
      3.    In this Treaty, the expression “in and in the vicinity of the Protected Zone” describes an area the outer limits of which might vary according to the context in which the expression is used. 
 
@@ -4297,4 +4299,4 @@ the authorities of the first Party shall, where appropriate and having regard to
 
      15.   Each Party shall provide the other Party with any evidence obtained during investigations carried out in accordance with this Article into a suspected offence involving a person or vessel of the other Party. Each Party shall take appropriate measures to facilitate the admission of such evidence in proceedings taken in respect of the suspected offence. 
 
-     16.   In this Article references to persons and vessels of, or of the nationality of, a Party include references to persons or vessels licensed by tha
+     16.   In this Article references to persons and vessels of, or of the nationality of, a Party include references to persons or vessels licensed by that
