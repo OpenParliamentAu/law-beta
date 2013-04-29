@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00484/Html/Archives1983_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00592/Html/Archives1983_WD02_image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 16 October 2009
- taking into account amendments up to Act No. 102 of 2009
+This compilation was prepared on 10 November 2008
+ taking into account amendments up to Act No. 113 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -120,6 +120,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [33](#33).          Exempt records
 
+[34](#34).          Certificates by Ministers as to certain exempt records
+
 [35](#35).          Identification of exempt records
 
 [36](#36).          Forms of access
@@ -134,19 +136,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Review of decisions**
 
+[41](#41).          Interpretation
+
 [42](#42).          Internal reconsideration of decisions
 
 [43](#43).          Applications to Administrative Appeals Tribunal
 
 [44](#44).          Powers of Tribunal
 
-[46](#46).          Constitution of Tribunal for proceedings about certain exempt records
+[45](#45).          Proceedings upon exercise of powers under subsection 44(5) or (6)
+
+[46](#46).          Constitution of Tribunal for purposes of proceedings under subsection 44(5) or (6)
+
+[47](#47).          Hearing of certain proceedings before the Tribunal
 
 [48](#48).          Modification of section 42 of the _Administrative Appeals Tribunal Act 1975_
 
-[50](#50).          Parties
+[49](#49).          Production to the Tribunal of records in relation to which a certificate has been issued
 
-[50A](#50A).       Inspector-General of Intelligence and Security must be requested to give evidence in certain proceedings
+[50](#50).          Parties
 
 [51](#51).          Onus
 
@@ -154,9 +162,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [53](#53).          Production of exempt records
 
-[55](#55).          Complaints to Ombudsman
+[54](#54).          Evidence of certificates
 
-[55A](#55A).       Automatic stay of certain decisions on appeal
+[55](#55).          Complaints to Ombudsman
 
     **Division 5—Miscellaneous**
 
@@ -274,11 +282,7 @@ but does not include:
 
                     <a name="chairman"></a>**_Chairman_** means the Chairman of the Council.
 
-                    <a name="commiss-inquiri"></a>**_Commission of inquiry_** means:
-
-                     (a)  the Commission of inquiry within the meaning of the _Quarantine Act 1908_; or
-
-                     (b)  a Commission of inquiry within the meaning of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="commiss-inquiri"></a>**_Commission of inquiry_** has the same meaning as it has in the _Quarantine Act 1908_.
 
                     <a name="commonwealth-control-associ"></a>**_Commonwealth-controlled association_** means an association over which the Commonwealth is in a position to exercise control, but does not include an association that is declared by the regulations not to be a Commonwealth-controlled association.
 
@@ -654,7 +658,7 @@ the Archives may:
 
              (5)  For the purposes of subsection (4), a member of either House of the Parliament shall be deemed not to have ceased to be a member of that House while he or she continues to be entitled to the Parliamentary allowances that became payable to him or her as such a member.
 
-##### <a id="16"></a>16  Resignation of member
+##### <a id="16"></a>16  Resignation of member
 
              (1)  A member appointed by the Minister may resign his or her office by writing signed by him or her and delivered to the Minister.
 
@@ -728,21 +732,19 @@ concerning the application of those provisions to those records.
 
                      (a)  the records kept by a Royal Commission, whether the inquiry commenced or was completed before or after the commencement of this Part; and
 
-                     (b)  the records kept by a Commission of inquiry.
+                     (b)  the records kept by the Commission of inquiry.
 
-             (2)  The Commonwealth is entitled to the possession of records kept by a Royal Commission, or by a Commission of inquiry, that are no longer required for the purposes of the Commission, and all such records shall be deemed to be Commonwealth records for the purposes of this Act.
+             (2)  The Commonwealth is entitled to the possession of records kept by a Royal Commission, or by the Commission of inquiry, that are no longer required for the purposes of the Commission, and all such records shall be deemed to be Commonwealth records for the purposes of this Act.
 
              (3)  Records referred to in subsection (2) shall be kept in such custody as the responsible Minister directs and the Archives is not entitled to the care of any such records except in accordance with such a direction.
 
-             (4)  A direction given by a Royal Commission, or by a Commission of inquiry, prohibiting the publication of any document or matter does not apply to the provision of public access under this Act to any records that are in the open access period or to the publication by any person of any records that are available for public access in accordance with this Act.
+             (4)  A direction given by a Royal Commission, or by the Commission of inquiry, prohibiting the publication of any document or matter does not apply to the provision of public access under this Act to any records that are in the open access period or to the publication by any person of any records that are available for public access in accordance with this Act.
 
              (5)  For the purposes of this Act:
 
                      (a)  the Minister administering the _Royal Commissions Act 1902_ is taken to be the responsible Minister in relation to the records of a Royal Commission; and
 
-                     (b)  the Minister administering the _Quarantine Act 1908_ is taken to be the responsible Minister in relation to the records of the Commission of inquiry within the meaning of that Act; and
-
-                     (c)  the Minister administering the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ is taken to be the responsible Minister in relation to the records of a Commission of inquiry within the meaning of that Act.
+                     (b)  the Minister administering the _Quarantine Act 1908_ is taken to be the responsible Minister in relation to the records of the Commission of inquiry.
 
              (6)  Where a Royal Commission has conducted an inquiry by virtue of a commission issued by the Governor of a State in conjunction with its inquiry under a commission issued by the Governor-General, subsections (2) and (3) apply only to such of the records of the Royal Commission as are determined by agreement between the Commonwealth and the State.
 
@@ -904,17 +906,9 @@ the person so responsible may forthwith notify the Archives that he or she so co
 
              (5)  Where a notification under subsection (4) has been given in respect of a record, the Archives is not entitled to access to the record for a period of one month from the date on which the notification was given, but, if the notification is withdrawn by the person responsible for the custody of the record before the expiration of that period, this subsection ceases to have effect in relation to the record.
 
-             (6)  A record that is in the open access period is not, by virtue of a determination under subsection (1), a record to which paragraph (1)(b) applies unless:
+             (6)  A record that is in the open access period is not, by virtue of a determination under subsection (1), a record to which paragraph (1)(b) applies unless there is in force a certificate of a Minister under section 34 in respect of the record.
 
-                     (a)  the record is an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
-
-                     (b)  a security classification applies to the record such that access by the Archives would not be appropriate.
-
-             (7)  A record that is in the open access period is not, by virtue of a determination under subsection (2), a record to which paragraph (2)(b) applies unless:
-
-                     (a)  the record is an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
-
-                     (b)  a security classification applies to the record such that access by the Archives would not be appropriate.
+             (7)  A record that is in the open access period is not, by virtue of a determination under subsection (2), a record to which paragraph (2)(b) applies unless there is in force a certificate of a Minister under section 34 in respect of the record.
 
              (8)  The concurrence of the Director-General is not required for the making of a determination under subsection (1) by, or by a person having authority to act on behalf of, any of the following Commonwealth institutions, namely:
 
@@ -1082,6 +1076,36 @@ Note:          If the record is material of the Archives, the 
 
              (5)  A reference in this section to an undertaking includes a reference to an undertaking that is carried on by, or by an authority of, the Commonwealth, a State, the Australian Capital Territory or the Northern Territory or by a local government authority.
 
+##### <a id="34"></a>34  Certificates by Ministers as to certain exempt records
+
+             (1)  Where a Minister is satisfied that a record contains information or matter of a kind referred to in paragraph 33(1)(a) or (b), whether or not the record has been examined in accordance with section 35 and whether or not a decision has been given in respect of the record under that section, he or she may sign a certificate to that effect and, subject to the operation of this Part, such a certificate, so long as it remains in force, establishes conclusively that the record is an exempt record referred to in the relevant paragraph of subsection 33(1).
+
+             (2)  Where a Minister is satisfied as mentioned in subsection (1) by reason only of information or matter contained in a particular part or particular parts of a record, the certificate under that subsection in respect of the record shall identify that part or those parts of the record as containing the information or matter by reason of which the certificate is given.
+
+             (3)  Where a Minister is satisfied that information as to the existence or non-existence of a record as described in an application for access would, if contained in another record, cause that other record to be an exempt record for the reason that it would contain information or matter of a kind referred to in paragraph 33(1)(a) or (b), he or she may sign a certificate to that effect (specifying that reason).
+
+             (4)  The regulations may prescribe a period as the period during which certificates under subsection (1) or (3), or any specified class of such certificates, remain in force unless sooner revoked.
+
+             (5)  Regulations made in pursuance of subsection (4) may be expressed to apply to certificates signed before the day on which the regulations take effect, but a certificate that is in force at the time when any such regulations applying to the certificate take effect does not, by reason of the regulations, cease to be in force before the expiration of a period of one year from the date on which the regulations take effect.
+
+             (6)  Notwithstanding subsection (4) and any regulations under that subsection, where a certificate under this section has been signed in respect of a record, a further certificate under this section in respect of the record may be signed at any time, whether or not the first-mentioned certificate is still in force.
+
+             (7)  Where a certificate under this section is in force in respect of a record, the record is not subject to examination under section 35.
+
+             (8)  A Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate all or any of his or her powers under this section, other than this power of delegation, to:
+
+                     (a)  the Secretary of a Department (within the meaning of the _Public Service Act 1999_); or
+
+                     (b)  the person holding, in relation to a Commonwealth institution that is a prescribed authority for the purposes of the _Freedom of Information Act 1982_, an office by virtue of which he or she would, for the purposes of that Act, be the principal officer in respect of that Commonwealth institution;
+
+                     (c)  the person holding, in relation to a Commonwealth institution that is not a prescribed authority for the purposes of the _Freedom of Information Act 1982_, an office declared by the regulations to be the relevant office in respect of that Commonwealth institution; or
+
+                     (d)  a person performing the duties of an office referred to in paragraph (a), (b) or (c).
+
+             (9)  A power delegated by a Minister under subsection (8), when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
+
+           (10)  A delegation by a Minister under subsection (8) does not prevent the exercise of a power by the Minister.
+
 ##### <a id="35"></a>35  Identification of exempt records
 
              (1)  The Director-General, in consultation with the responsible Minister or a person authorized by the responsible Minister, shall make arrangements for determining the Commonwealth records in the open access period that are to be treated by the Archives as being exempt records and may make arrangements for determining the extent to which access in part to Commonwealth records identified as exempt records may be given without disclosing the information or matter by reason of which the records are exempt records.
@@ -1202,6 +1226,10 @@ the Archives shall, for the purpose of enabling an application to be made to the
 
 ### Division 4—Review of decisions
 
+##### <a id="41"></a>41  Interpretation
+
+                   For the purposes of this Division, unless the contrary intention appears, a certificate given under subsection 34(3) in respect of a record as described in an application for access shall be deemed to be a certificate given in respect of the record so described notwithstanding that the certificate does not acknowledge the existence or non-existence of the record so described.
+
 ##### <a id="42"></a>42  Internal reconsideration of decisions
 
              (1)  Where a person has made an application to which section 40 applies and is dissatisfied with the decision on the application, he or she may, within 28 days after the day on which notice of the decision was given to him or her or within such further period as the Archives allows, apply in writing to the Archives for a reconsideration of the decision.
@@ -1266,19 +1294,49 @@ and such an application to the Tribunal may be treated by the Tribunal as having
 
              (3)  Where, in proceedings before the Tribunal in pursuance of an application under section 43, it is established that a record is an exempt record, the Tribunal does not, except as provided by subsection (7), have power to decide that access is to be granted to the record.
 
+             (4)  Where there is in force in respect of a record a certificate under section 34, the powers of the Tribunal do not extend to reviewing the decision to give the certificate but the Tribunal, constituted in accordance with section 46, may determine such question in relation to that certificate as is provided for in whichever of subsections (5) and (6) applies in relation to that certificate.
+
+             (5)  Where application is or has been made to the Tribunal for the review of a decision refusing to grant access to a record in accordance with an application under section 40, being a record that is claimed to be an exempt record under paragraph 33(1)(a) or (b) and in respect of which a certificate is in force under subsection 34(1), the Tribunal shall, if the applicant so requests, determine the question whether there exist reasonable grounds for that claim.
+
+             (6)  Where application is or has been made to the Tribunal for the review of a decision refusing to grant access to a record in accordance with an application under section 40, being a record in respect of which a certificate is in force under subsection 34(3), the Tribunal shall, if the applicant so requests, determine the question whether there exist reasonable grounds for the claim that information as to the existence or non-existence of the record would, if contained in another record, cause that other record to be an exempt record for the reason that it would contain information or matter of a kind referred to in paragraph 33(1)(a) or (b).
+
              (7)  On a review in pursuance of an application to the Tribunal under section 43, the Tribunal may, if it is satisfied that it would be practicable to give access to, or to a copy of, part of an exempt record in a form that would not disclose information or matter by reason of which the record is an exempt record, direct that access be given accordingly.
 
-##### <a id="46"></a>46  Constitution of Tribunal for proceedings about certain exempt records
+##### <a id="45"></a>45  Proceedings upon exercise of powers under subsection 44(5) or (6)
 
-             (1)  If an application is made to the Tribunal for review of a decision refusing to grant access to a record in accordance with an application under section 40, being a record that is:
+             (1)  Where, in considering a question referred to in subsection 44(5) or (6) in relation to a record in respect of which a certificate has been given, the Tribunal determines that there do not exist reasonable grounds for the claim to which the question relates, the appropriate Minister shall, not later than 28 days after the determination of the Tribunal is communicated to him or her, make a decision:
 
-                     (a)  claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
+                     (a)  to revoke the certificate; or
 
-                     (b)  not a record of the Australian Security Intelligence Organisation;
+                     (b)  not to revoke the certificate.
 
-then the Tribunal must be constituted in accordance with subsection (2) for the purposes of any proceeding in relation to the application.
+             (2)  Where a Minister makes a decision under subsection (1) to revoke a certificate:
 
-Note:          Section 21AB of the _Administrative Appeals Tribunal Act 1975_ contains the requirements for constitution of the Tribunal in proceedings about a record of the Australian Security Intelligence Organisation that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b).
+                     (a)  in a case where the certificate was given under subsection 34(1)—the claim that the record to which the certificate relates is an exempt record shall be taken, for the purposes of this Act, to have been withdrawn; and
+
+                     (b)  in a case where the certificate was given under subsection 34(3)—the Minister shall, forthwith upon the revocation of the certificate, inform the applicant of the existence or non-existence of the record to which the certificate relates.
+
+             (3)  Where a Minister makes a decision under subsection (1) not to revoke a certificate, he or she shall:
+
+                     (a)  cause notice in writing of the decision to be furnished to the applicant forthwith; and
+
+                     (b)  cause a copy of the notice to be laid before each House of the Parliament within 5 sitting days of that House after the notice is so furnished.
+
+             (4)  A notice under subsection (3) shall state the findings of the Minister giving the notice on any material question of fact, the material on which those findings were based, and the reasons for the decision.
+
+             (5)  A Minister is not required to include in a notice under subsection (3) matter that is of such a nature that its inclusion in another record would cause that other record to be an exempt record under section 33.
+
+             (6)  A Minister is not required to include in a notice under subsection (3) information as to the existence or non-existence of a record or the existence or non-existence of a state of fact if that information would, if included in another record, cause that other record to be an exempt record under section 33.
+
+             (7)  Section 13 of the _Administrative Decisions (Judicial Review) Act 1977_ does not apply to a decision of the Minister under this section.
+
+             (8)  Nothing in this section shall be taken to imply that a certificate under section 34 may not be revoked otherwise than in pursuance of a decision under subsection (1).
+
+             (9)  For the purposes of this section,**_appropriate Minister_**, in relation to a record in respect of which a certificate has been given under section 34, means the Minister who gave, or whose delegate gave, the certificate.
+
+##### <a id="46"></a>46  Constitution of Tribunal for purposes of proceedings under subsection 44(5) or (6)
+
+             (1)  Where a request is made to the Tribunal in accordance with subsection 44(5) or (6), the Tribunal shall be constituted in accordance with subsection (2) for the purposes of any proceeding for the determination of the question to which the request relates.
 
              (2)  For the purposes of a proceeding referred to in subsection (1), the Tribunal shall be constituted by:
 
@@ -1302,6 +1360,58 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                     (ac)  if the Tribunal is constituted by presidential members none of whom is a Judge—one of those presidential members who is directed by the President to do so shall preside;”.
 
+##### <a id="47"></a>47  Hearing of certain proceedings before the Tribunal
+
+             (1)  This section has effect notwithstanding anything contained in the _Administrative Appeals Tribunal Act 1975_.
+
+             (2)  At the hearing of a proceeding referred to in subsection 46(1), the Tribunal:
+
+                     (a)  shall hold in private the hearing of any part of the proceeding during which evidence or information is given, or a record or other document is produced, to the Tribunal by:
+
+                              (i)  a Commonwealth institution or an officer of a Commonwealth institution; or
+
+                             (ii)  a Minister or a member of the staff of a Minister; or
+
+                            (iii)  a member, an officer, or a member of the staff, of a body referred to in subsection 29(8); or
+
+                           (iiia)  the Commissioner of the Australian Federal Police, a Deputy Commissioner of the Australian Federal Police, an AFP employee or a special member of the Australian Federal Police (all within the meaning of the _Australian Federal Police Act 1979_), in connection with the National Witness Protection Program;
+
+                            or during which a submission is made to the Tribunal by or on behalf of a Commonwealth institution or a Minister, being a submission in relation to the claim:
+
+                            (iv)  in the case of a record in respect of which there is in force a certificate under subsection 34(1)—that the record is an exempt record; and
+
+                             (v)  in the case where a certificate is in force under subsection 34(3)—that information as to the existence or non-existence of a record as described in an application would, if contained in another record, cause that other record to be an exempt record for the reason that it would contain information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
+
+                     (b)  subject to subsection (4), shall hold the hearing of any other part of the proceeding in public.
+
+             (3)  Where the hearing of any part of a proceeding is held in private in accordance with subsection (2), the Tribunal:
+
+                     (a)  may, by order, give directions as to the persons who may be present at that hearing; and
+
+                     (b)  shall give directions prohibiting the publication of:
+
+                              (i)  any evidence or information given to the Tribunal;
+
+                             (ii)  the contents of any records or other documents lodged with, or received in evidence by, the Tribunal; and
+
+                            (iii)  any submission made to the Tribunal;
+
+                            at that hearing.
+
+             (4)  Where, in relation to a proceeding referred to in subsection 46(1), the Tribunal is satisfied that it is desirable to do so by reason of the confidential nature of any evidence, information or matter or for any other reason, the Tribunal may, by order:
+
+                     (a)  direct that the hearing of a part of the proceeding that, but for this subsection, would be held in public shall take place in private and give directions as to the persons who may be present at that hearing;
+
+                     (b)  give directions prohibiting or restricting the publication of:
+
+                              (i)  the contents of any record or other document lodged with the Tribunal in relation to the proceeding; or
+
+                             (ii)  any evidence or information given to the Tribunal, the contents of any record or other document received in evidence by the Tribunal, or any submission made to the Tribunal, in relation to the proceeding otherwise than at a hearing held in private in accordance with subsection (2); or
+
+                     (c)  give directions prohibiting or restricting the disclosure to some or all of the parties to the proceeding of evidence given before the Tribunal, or the contents of a record or other document lodged with, or received in evidence by, the Tribunal, in relation to the proceeding.
+
+             (5)  A direction given by the Tribunal under paragraph (3)(b) or (4)(b) does not prevent a person referred to in subparagraph (2)(a)(i), (ii) or (iii) from disclosing, in the course of the performance of his or her duties, any matter to any other person.
+
 ##### <a id="48"></a>48  Modification of section 42 of the _Administrative Appeals Tribunal Act 1975_
 
                    In its application to a proceeding referred to in subsection 46(1) of this Act, section 42 of the _Administrative Appeals Tribunal Act 1975_ applies as if subsection (3) of that section were omitted and the following subsection substituted:
@@ -1312,61 +1422,21 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                              (b)  in a case where 2 of those members are Judges—be decided according to the opinion of the majority.”.
 
+##### <a id="49"></a>49  Production to the Tribunal of records in relation to which a certificate has been issued
+
+             (1)  In any proceedings before the Tribunal under this Act in relation to a record in respect of which there is in force a certificate under section 34 the Tribunal is entitled to require the production of the record in accordance with this section and not otherwise.
+
+             (2)  Where, in considering a question referred to in subsection 44(5) or (6) in relation to a record, the Tribunal is not satisfied, by evidence on affidavit or otherwise, that there exist reasonable grounds for the claim to which the question relates, the Tribunal may require the record to be produced for inspection by the Tribunal as constituted for the purposes of the proceeding.
+
+             (3)  After an inspection of the record referred to in subsection (2), the Tribunal shall return the record to the person by whom it was produced without permitting any person who is not a member of the Tribunal as constituted for the purposes of the proceeding, or a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff, to have access to the record or disclosing the contents of the record to any such person.
+
 ##### <a id="50"></a>50  Parties
 
-                   For the purposes of this Part and of the application of the _Administrative Appeals Tribunal Act 1975_ in respect of proceedings under this Part, a decision given by the Archives is taken to have been given by the Director-General.
+                   For the purposes of this Part and of the application of the _Administrative Appeals Tribunal Act 1975_ in respect of proceedings under this Part:
 
-##### <a id="50A"></a>50A  Inspector-General of Intelligence and Security must be requested to give evidence in certain proceedings
+                     (a)  a decision given by the Archives shall be deemed to have been given by the Director-General; and
 
-             (1)  This section applies in any proceedings before the Tribunal under this Act in relation to a record that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b).
-
-             (2)  Before determining that the record is not an exempt record, the Tribunal must request the Inspector-General of Intelligence and Security to appear personally and give evidence on:
-
-                     (a)  the damage that could reasonably be expected to be caused to the security, defence or international relations of the Commonwealth if the record were made available for public access; or
-
-                     (b)  whether making the record available for public access would constitute a breach of confidence by disclosing information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
-
-             (3)  Before determining that part of, or a copy of part of, the record is to be made available for public access under section 38, the Tribunal must request the Inspector-General to appear personally and give evidence on:
-
-                     (a)  whether making that part, or a copy of that part, of the record available for public access could reasonably be expected to cause damage to the security, defence or international relations of the Commonwealth; or
-
-                     (b)  whether making that part, or a copy of that part, of the record available for public access would constitute a breach of confidence by disclosing information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
-
-             (4)  Before hearing the evidence of the Inspector-General, the Tribunal must hear any evidence to be given or submissions to be made by or on behalf of:
-
-                     (a)  the Archives; or
-
-                     (b)  the Commonwealth institution of which the record is property.
-
-             (5)  The Inspector-General must comply with a request under subsection (2) or (3) unless, in the opinion of the Inspector-General, the Inspector-General is not appropriately qualified to give evidence on the matters in relation to which the Inspector-General has been requested to give evidence.
-
-             (6)  For the purposes of enabling the Inspector-General to comply with a request under subsection (2) or (3):
-
-                     (a)  the Tribunal must allow the Inspector-General to take possession of, and make copies of or take extracts from, any record given to the Tribunal for the purposes of the proceeding; and
-
-                     (b)  the Inspector-General may require the production of the record that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
-
-                     (c)  the Inspector-General may require the production of any Commonwealth record that relates to the record mentioned in paragraph (b); and
-
-                     (d)  the Inspector-General may make copies of, or take extracts, from the records mentioned in paragraphs (b) and (c); and
-
-                     (e)  after such period as is reasonably necessary for the purposes of giving evidence to the Tribunal, the Inspector-General must:
-
-                              (i)  return the original of any record to the Tribunal or to the entity that produced the record; and
-
-                             (ii)  destroy any copies of or extracts taken from any record.
-
-             (7)  The Inspector-General must permit a person who would be entitled to inspect a record mentioned in paragraphs (6)(a) to (d) if it were not in the possession of the Inspector-General to inspect the record at all reasonable times as the person would be so entitled.
-
-             (8)  The Tribunal is not bound by any opinion of the Inspector-General expressed while giving evidence under this section.
-
-             (9)  The Tribunal must allow the Inspector-General a period within which to consider the records mentioned in paragraphs (6)(a) to (d) that is reasonable having regard to:
-
-                     (a)  the nature of the evidence that the Inspector-General has been requested to give; and
-
-                     (b)  the time required by the Inspector-General to perform the Inspector-General’s other functions.
-
-           (10)  The fact that a person is obliged to produce a document under subsection (6) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that document.
+                     (b)  in proceedings for the determination of a question referred to in subsection 44(5) or (6) in relation to a record, the Minister who is the appropriate Minister for the purposes of section 45 in relation to the record shall, upon application to the Tribunal, be entitled to be a party to the proceedings.
 
 ##### <a id="51"></a>51  Onus
 
@@ -1378,41 +1448,31 @@ Note:          Section 21AB of the _Administrative Appeals T
 
 ##### <a id="52"></a>52  Tribunal to ensure non-disclosure of certain matters
 
-             (1)  In determining whether the Tribunal is satisfied that it is desirable to make an order or orders under subsection 35(2) of the _Administrative Appeals Tribunal Act 1975_ for the purposes of proceedings in relation to an application under section 43, the Tribunal must:
+             (1)  In proceedings before the Tribunal in pursuance of an application under section 43, other than proceedings referred to in subsection 46(1), the Tribunal shall make such order or orders under subsection 35(2) of the _Administrative Appeals Tribunal Act 1975_ as it thinks necessary having regard to the nature of the proceedings and, in particular, to the necessity of avoiding the disclosure to the applicant of:
 
-                     (a)  have regard to:
+                     (a)  matter contained in a record to which the proceedings relate, being matter by reason of which the record is an exempt record; or
 
-                              (i)  the necessity of avoiding the disclosure to the applicant of matter contained in a record to which the proceedings relate, being matter by reason of which the record is an exempt record; and
-
-                             (ii)  the necessity of avoiding the disclosure to the applicant of information of the kind referred to in subsection 39(1); and
-
-                     (b)  where the proceedings relate to a record that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b)—give particular weight to a submission made by the Archives that it is desirable to make the order or orders under subsection 35(2) of the _Administrative Appeals Tribunal Act 1975_ because the record contains information or matter of that kind.
+                     (b)  information of the kind referred to in subsection 39(1) of this Act.
 
              (2)  Notwithstanding anything contained in the _Administrative Appeals Tribunal Act 1975_:
 
-                     (a)  the Tribunal shall not, in its decision, or reasons for a decision, in a matter arising under this Act, include any matter or information of a kind referred to in paragraph (1)(a); and
+                     (a)  the Tribunal shall not, in its decision, or reasons for a decision, in a matter arising under this Act, include any matter or information of a kind referred to in subsection (1); and
 
-                     (b)  the Tribunal may receive evidence, or hear argument, in the absence of the applicant or his or her representative where it is necessary to do so in order to prevent the disclosure to the applicant of matter or information of a kind referred to in paragraph (1)(a).
+                     (b)  the Tribunal may receive evidence, or hear argument, in the absence of the applicant or his or her representative where it is necessary to do so in order to prevent the disclosure to the applicant of matter or information of a kind referred to in subsection (1).
 
 ##### <a id="53"></a>53  Production of exempt records
 
-             (1)  Section 37 of the _Administrative Appeals Tribunal Act 1975_ does not apply in relation to a record that is claimed to be an exempt record, but in proceedings before the Tribunal in relation to such a record, if the Tribunal is not satisfied, by evidence on affidavit or otherwise, that the record is an exempt record, it may require the record to be produced for inspection by members of the Tribunal only.
+             (1)  Section 37 of the _Administrative Appeals Tribunal Act 1975_ does not apply in relation to a document that is claimed to be an exempt record but, in proceedings before the Tribunal in relation to such a document, if the Tribunal is not satisfied, by evidence on affidavit or otherwise, that the document is an exempt record, it may require the document to be produced for inspection by members of the Tribunal only and if, upon the inspection, the Tribunal is satisfied that the document is an exempt record, the Tribunal shall return the document to the person by whom it was produced without permitting any person other than a member of the Tribunal as constituted for the purposes of the proceeding, or a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff, to have access to the document or disclosing the contents of the document to any such person.
 
-          (1A)  If, upon the inspection, the Tribunal is satisfied that the record is an exempt record, the Tribunal must return the record to the person by whom it was produced without permitting a person to have access to the record, or disclosing the contents of the record to a person, unless the person is:
+             (2)  The Tribunal may require the production, for inspection by members of the Tribunal only, of an exempt record for the purpose of determining whether, and to what extent, it is practicable for arrangements to be made in accordance with section 38 and, where an exempt record is produced by reason of such a requirement, the Tribunal shall, after inspection of the record by the members of the Tribunal as constituted for the purposes of the proceeding, return the record to the person by whom it was produced without permitting any person other than such a member of the Tribunal, or a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff, to have access to the record or disclosing the contents of the record to any such person.
 
-                     (a)  a member of the Tribunal as constituted for the purposes of the proceeding; or
+             (3)  Notwithstanding subsections (1) and (2), but subject to subsection (4), the Tribunal is not empowered, in any proceedings other than proceedings to determine a question referred to in subsection 44(5) or (6), to require:
 
-                     (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
+                     (a)  the production of a record in respect of which a certificate is in force under subsection 34(1); or
 
-                     (c)  in the circumstances permitted under paragraph 50A(6)(a)—the Inspector-General of Intelligence and Security.
+                     (b)  the giving of information in respect of which a certificate is in force under subsection 34(3).
 
-             (2)  The Tribunal may require the production, for inspection by members of the Tribunal only, of an exempt record for the purpose of determining whether, and to what extent, it is practicable for arrangements to be made in accordance with section 38 and, where an exempt record is produced by reason of such a requirement, the Tribunal shall, after inspection of the record by the members of the Tribunal as constituted for the purposes of the proceeding, return the record to the person by whom it was produced without permitting a person to have access to the record or disclosing the contents of the record to a person, unless the person is:
-
-                     (a)  a member of the Tribunal as constituted for the purposes of the proceeding; or
-
-                     (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
-
-                     (c)  in the circumstances permitted under paragraph 50A(6)(a)—the Inspector-General of Intelligence and Security.
+             (4)  Where a certificate of a kind referred to in subsection (3) identifies a part or parts of the record concerned in the manner provided in subsection 34(2), subsection (3) does not prevent the Tribunal from requiring the production, in any proceedings before the Tribunal under this Act in relation to the record, of a copy of so much of the record as is not included in the part or parts so identified.
 
              (5)  Subsection (1) or (2) does not operate so as to prevent the Tribunal from causing a document produced in accordance with that subsection to be sent to the Federal Court of Australia in accordance with section 46 of the _Administrative Appeals Tribunal Act 1975_, but, where such a document is so sent to the Court, the Court shall do all things necessary to ensure that the contents of the document are not disclosed (otherwise than in accordance with this Act) to any person other than a member of the Court as constituted for the purpose of the proceeding before the Court or a member of the staff of the Court in the course of the performance of his or her duties as a member of that staff.
 
@@ -1423,6 +1483,10 @@ Note:          Section 21AB of the _Administrative Appeals T
                      (a)  the Federal Magistrate who constitutes the Federal Magistrates Court for the purposes of the proceeding before the Federal Magistrates Court; or
 
                      (b)  a member of the staff of the Federal Magistrates Court in the course of the performance of his or her duties as a member of that staff.
+
+##### <a id="54"></a>54  Evidence of certificates
+
+                   In proceedings before the Tribunal under this Division in pursuance of an application under section 43, evidence of a certificate under section 34, including evidence of the identity or nature of the record to which the certificate relates, may be given by affidavit or otherwise and such evidence is admissible without production of the certificate or of a record to which the certificate relates.
 
 ##### <a id="55"></a>55  Complaints to Ombudsman
 
@@ -1435,32 +1499,6 @@ Note:          Section 21AB of the _Administrative Appeals T
              (4)  Where a complaint is made to the Ombudsman under the _Ombudsman Act 1976_ concerning a decision under this Act, an application to the Tribunal for a review of the decision shall not be made before the Ombudsman has informed the applicant of the result of the complaint in accordance with section 12 of that Act.
 
              (5)  Notwithstanding anything contained in the _Ombudsman Act 1976_, a report under that Act in respect of a complaint arising out of an application under this Act shall not contain information of the kind referred to in subsection 39(1) of this Act.
-
-##### <a id="55A"></a>55A  Automatic stay of certain decisions on appeal
-
-             (1)  This section applies if:
-
-                     (a)  a person applies, under section 43, to the Tribunal for review of a decision refusing to make a record that is claimed to be an exempt record available for public access; and
-
-                     (b)  the Tribunal decides that a person may have access to the record, or part of the record; and
-
-                     (c)  the Archives institutes an appeal to the Federal Court of Australia from the decision of the Tribunal.
-
-             (2)  If this section applies to a decision of the Tribunal, the operation of the decision is stayed by force of this section from the time at which the appeal is instituted.
-
-             (3)  If the Archives appeals to the Federal Court of Australia from the decision of the Tribunal and the appeal in relation to the decision is determined by the Federal Court of Australia, the stay continues to have effect until the earlier of:
-
-                     (a)  the time at which the decision of the Federal Court of Australia on the appeal takes effect; and
-
-                     (b)  the time otherwise determined by the Federal Court of Australia.
-
-             (4)  If the Archives appeals to the Federal Court of Australia from the decision of the Tribunal and the appeal in relation to the decision is determined by the Federal Magistrates Court, the stay continues to have effect until the earlier of:
-
-                     (a)  the time at which the decision of the Federal Magistrates Court on the appeal takes effect; and
-
-                     (b)  the time otherwise determined by the Federal Magistrates Court.
-
-             (5)  Nothing in this section affects the power of the Federal Court of Australia or the Federal Magistrates Court to make orders under section 44A of the _Administrative Appeals Tribunal Act 1975_ in relation to matters other than staying the decision of the Tribunal.
 
 ### Division 5—Miscellaneous
 
@@ -1600,7 +1638,11 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
              (1)  The Archives shall maintain a guide to be known as the Australian National Guide to Archival Material.
 
-             (2)  Subject to subsection (4), the Guide shall contain particulars, in such form as the Director-General considers appropriate, of all Commonwealth records in the open access period that have been examined in accordance with subsection 35(1).
+             (2)  Subject to subsection (4), the Guide shall contain particulars, in such form as the Director-General considers appropriate, of all Commonwealth records in the open access period that have been examined in accordance with subsection 35(1), other than:
+
+                     (a)  records with respect to the whole of which a certificate under section 34 is in force; and
+
+                     (b)  parts of records identified in accordance with subsection 34(2) in a certificate under section 34.
 
              (3)  Subject to subsection (4), the Guide may also contain copies of particulars contained in the Australian National Register of Records.
 
@@ -1636,7 +1678,7 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
              (4)  The Minister shall cause a copy of a report furnished to him or her by the Archives or the Council under this section to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by him or her.
 
-##### <a id="69"></a>69  Certified copies of records
+##### <a id="69"></a>69  Certified copies of records
 
              (1)  The Director-General may give a certificate that a record referred to in the certificate is a true copy of a record that is in the care of the Archives and such a certificate is _prima facie_ evidence in all courts of the matters stated in the certificate.
 
@@ -2263,7 +2305,7 @@ Remainder: Royal Assent</div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 2): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2301,41 +2343,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 6, 24) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information (Removal of Conclusive Certificates and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>99, 2009</div>
-  </td>
-  <td>
-    <div>6 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2: 7 Oct 2009</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-19–22) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>102, 2009</div>
-  </td>
-  <td>
-    <div>8 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 62E–62H): 9 Oct 2009</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2477,7 +2484,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007; No. 113, 2008; No. 102, 2009</div>
+    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007; No. 113, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2661,7 +2668,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 158, 2007; No. 113, 2008; No. 102, 2009</div>
+    <div>am. No. 158, 2007; No. 113, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2749,7 +2756,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 102, 1986; No. 75, 1990; No. 10, 1995; No. 43, 1996; No. 161, 1999; No. 128, 2005; No. 113, 2008; No. 99, 2009</div>
+    <div>am. No. 102, 1986; No. 75, 1990; No. 10, 1995; No. 43, 1996; No. 161, 1999; No. 128, 2005; No. 113, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2834,14 +2841,6 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
@@ -2874,14 +2873,6 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
 </tr>
 <tr>
   <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rep. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 42, 43</div>
   </td>
   <td>
@@ -2893,39 +2884,15 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 165, 1984; No. 99, 2009</div>
+    <div>am. No. 165, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 45</div>
+    <div>Ss. 45, 46</div>
   </td>
   <td>
     <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 99, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2934,14 +2901,6 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
   </td>
   <td>
     <div>am. No. 10, 1995; No. 43, 1996; No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 99, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2962,34 +2921,10 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>rs. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 52</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 99, 2009</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -2997,23 +2932,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 194, 1999; No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 2009</div>
+    <div>am. No. 43, 1996; No. 194, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3117,7 +3036,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 38, 1988; No. 99, 2009</div>
+    <div>am. No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -3243,63 +3162,11 @@ _Archives Amendment Act 2008 (No. 113, 2008)_
 
 Subsection 6A(2) of the _Archives Act 1983_, as inserted by this Schedule, applies to Commonwealth records transferred to the care of the Archives before or after the commencement of this item.
 
-* * *
-
-_Freedom of Information (Removal of Conclusive Certificates and Other Measures) Act 2009 (No. 99, 2009)_
-
-## Schedule 2
-
-## 19  Application provision—item 1
-
-The amendments made by item 1 of this Schedule do not apply to a Commonwealth record if:
-
-                     (a)  the record is in the open access period; and
-
-                     (b)  a determination has been made in respect of the record under subsection 29(1) or (2) of the _Archives Act 1983_; and
-
-                     (c)  a certificate under section 34 of the _Archives Act 1983_ (as in force immediately before the commencement of this Schedule) is in force in respect of the record.
-
-Note:          A certificate ceases to be in force if it is revoked by force of subitem 20(2).
-
-## 20  Application provision—items 2 to 16
-
-(1)        The amendments made by items 2 to 16 of this Schedule apply for the purposes of determining whether access, or an extension of partial access, to a record referred to in section 31 of the _Archives Act 1983_ will be given in accordance with an application made under section 40 of that Act and received by the Archives on or after the commencement of this Schedule.
-
-(2)        A certificate issued in relation to a Commonwealth record under section 34 of the _Archives Act 1983_ (as in force immediately before the commencement of this Schedule) is, by force of this subitem, revoked in relation to the record on and from the time at which the first application for access to the record under the _Archives Act 1983_ is made, on or after the commencement of this Schedule.
-
-(3)        To avoid doubt:
-
-                     (a)  subitem (2) does not affect anything done in relation to, or in reliance on, a certificate mentioned in subitem (2) before the commencement of this Schedule; and
-
-                     (b)  nothing prevents a person from applying, on and after the commencement of this Schedule, for access to a Commonwealth record under the _Archives Act 1983_ if:
-
-                              (i)  before the commencement of this Schedule, the person applied for access to the same record; and
-
-                             (ii)  the application was refused in reliance on a certificate mentioned in subitem (2).
-
-## 21  Application provision—item 17
-
-The amendment made by item 17 of this Schedule applies to a decision of the Tribunal made on or after the commencement of this Schedule.
-
-## 22  Application provision—item 18
-
-The amendment made by item 18 of this Schedule does not apply to a record, or a part of a record, if:
-
-                     (a)  the record is in the open access period; and
-
-                     (b)  one of the following applies:
-
-                              (i)  in relation to the record—a certificate issued under section 34 of the _Archives Act 1983_ (as in force immediately before the commencement of this Schedule) is in force in respect of the record;
-
-                             (ii)  in relation to the part of the record—the part of the record is identified in accordance with subsection 34(2) of that Act (as in force immediately before the commencement of this Schedule) in a certificate issued under section 34 of that Act (as in force immediately before the commencement of this Schedule).
-
-Note:          A certificate ceases to be in force if it is revoked by force of subitem 20(2).
-
 ## Table B
 
 **Modifications**
 
-Archives (Records of the Parliament) Regulations (SR 1995 No. 91)
+Archives (Records of the Parliament) Regulations (1995 No. 91)
 
 Schedule           Modifications of the Act
 
