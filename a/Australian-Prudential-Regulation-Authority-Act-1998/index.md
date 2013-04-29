@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00076/Html/bea8fe0c-4a00-4a61-a115-2d9c0ce26e5f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00593/Html/c0f30af8-7d18-4800-8d04-ca17d2319a44_files/image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 30 January 2013
- taking into account amendments up to Act No. 178 of 2012
+This compilation was prepared on 6 August 2012
+ taking into account amendments up to Act No. 91 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -1201,8 +1202,6 @@ other than:
 
                              (ii)  being applied for the purposes of the administration of a provision administered by the Commissioner of Taxation.
 
-It also includes a document that is given to APRA under Part 7.5A of the _Corporations Act 2001_, other than a document containing information that has already been lawfully made available to the public from other sources.
-
                     <a name="protect-inform"></a>**_protected information_** means information disclosed or obtained (whether before or after the commencement of this section) under, or for the purposes of, a prudential regulation framework law and relating to the affairs of:
 
                      (a)  a financial sector entity; or
@@ -1226,8 +1225,6 @@ other than:
                               (i)  administered by the Commissioner of Taxation; or
 
                              (ii)  being applied for the purposes of the administration of a provision administered by the Commissioner of Taxation.
-
-It also includes information that is given to APRA under Part 7.5A of the _Corporations Act 2001_, other than information that has already been lawfully made available to the public from other sources.
 
                     <a name="regist-entiti"></a>**_registered entity_** means a corporation that is, or has at any time been, a registered entity within the meaning of the _Financial Sector (Collection of Data) Act 2001_.
 
@@ -2075,40 +2072,6 @@ Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>Sch. 2 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Further MySuper and Transparency Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>171, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1–4, 45): ( <i>see</i>Note 2 and Table A)</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (item 45)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Legislation Amendment (Derivative Transactions) Act 2012</div>
-  </td>
-  <td>
-    <div>178, 2012</div>
-  </td>
-  <td>
-    <div>6 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 44, 45): 3 Jan 2013</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -3366,7 +3329,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. Nos. 44 and 121, 1999; Nos. 24 and 160, 2000; Nos. 55, 119 and 121, 2001; No. 37, 2002; Nos. 36 and 42, 2003; No. 45, 2008; No. 82, 2010; No. 178, 2012</div>
+    <div>am. Nos. 44 and 121, 1999; Nos. 24 and 160, 2000; Nos. 55, 119 and 121, 2001; No. 37, 2002; Nos. 36 and 42, 2003; No. 45, 2008; No. 82, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3533,84 +3496,6 @@ No. 42, 2003</div>
     <div>am. No. 105, 2008; No. 82, 2010</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Superannuation Legislation Amendment (Further MySuper and Transparency Measures) Act 2012 (No. 171, 2012)_
-
-The following amendments commence on 1 July 2013:
-
-## Schedule 3
-
-## 1  Subsection 56(1) (after paragraph (c) of the definition of _protected document_)
-
-Insert:
-
-             ; or (ca)  a person in relation to whom information is, or was, required to be given under a reporting standard made in accordance with subsection 13(4A) of the _Financial Sector (Collection of Data) Act 2001_;
-
-## 2  Subsection 56(1) (after paragraph (c) of the definition of _protected information_)
-
-Insert:
-
-             ; or (ca)  a person in relation to whom information is, or was, required to be given under a reporting standard made in accordance with subsection 13(4A) of the _Financial Sector (Collection of Data) Act 2001_;
-
-## 3  Subsection 56(5C)
-
-Repeal the subsection, substitute:
-
-          (5C)  If:
-
-                     (a)  a document is a reporting document given to APRA under section 13 of the _Financial Sector (Collection of Data) Act 2001_; and
-
-                     (b)  either:
-
-                              (i)  a determination has been made under section 57 that the document does not, or documents of that kind do not, contain confidential information; or
-
-                             (ii)  a determination has been made under section 57 that a specified part of the document, or of documents of that kind, does not contain confidential information;
-
-it is not an offence to disclose the document or that part of the document, or any information contained in the document or that part of the document, to any person (including by making the document, the part of the document or the information available on APRA’s website).
-
-## 4  Section 57
-
-Repeal the section, substitute:
-
-##### <a id="57"></a>57  Determination of confidentiality
-
-             (1)  This section applies in relation to reporting documents that are required to be given to APRA under section 13 of the _Financial Sector (Collection of Data) Act 2001_ by:
-
-                     (a)  a registered entity; or
-
-                     (b)  a body regulated by APRA.
-
-A reporting document of that kind is referred to in this section as a **_relevant reporting document_**.
-
-             (2)  APRA may determine, by legislative instrument, that:
-
-                     (a)  all or a specified part of a relevant reporting document contains, or does not contain, confidential information; or
-
-                     (b)  all or a specified part of relevant reporting documents of a specified kind contains, or do not contain, confidential information.
-
-             (3)  APRA must not make a determination under subsection (2) unless APRA gives interested parties for the determination a reasonable opportunity to make representations as to whether or not the relevant reporting document contains, or relevant reporting documents of that kind contain, confidential information.
-
-             (4)  APRA may determine that:
-
-                     (a)  all or a specified part of a relevant reporting document does not contain confidential information; or
-
-                     (b)  all or a specified part of relevant reporting documents of a specified kind do not contain confidential information;
-
-if, taking into account any representations made under subsection (3) in relation to the document or documents of that kind, APRA considers that the benefit to the public from the disclosure of the document or documents, or information contained in the document or documents, outweighs any detriment to commercial interests that the disclosure may cause.
-
-             (5)  In this section:
-
-                    <a name="interested-parti"></a>**_interested party_**, for a determination, means:
-
-                     (a)  if the determination is to relate to all or a specified part of a relevant reporting document—an entity or body that is required to give the document under section 13 of the _Financial Sector (Collection of Data) Act 2001_; or
-
-                     (b)  if the determination is to relate to all or a specified part of a relevant reporting document of a specified kind—an association or other body representing an entity or body, or a class of entities or bodies, required to give a document of that kind under section 13 of the _Financial Sector (Collection of Data) Act 2001_.
-
-                    <a name="regist-entiti"></a>**_registered entity_** means a corporation that is, or has at any time been, a registered entity within the meaning of the _Financial Sector (Collection of Data) Act 2001_.
-
-As at 30 January 2013 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4158,39 +4043,5 @@ _Superannuation Legislation Amendment (Stronger Super) Act 2012
 ## 6  Application
 
 The amendments made by this Schedule apply from 1 July 2012.
-
-* * *
-
-_Superannuation Legislation Amendment (Further MySuper and Transparency Measures) Act 2012 (No. 171, 2012)_
-
-_The following provision commences on 1 July 2013:_
-
-## Schedule 3
-
-## 45  Savings provision—section 57 determinations
-
-(1)       A determination that:
-
-                     (a)  is made under section 57 of the old law; and
-
-                     (b)  is in force immediately before this item commences;
-
-has effect on and after this item commences as if it had been made under section 57 of the new law.
-
-(2)       If, before this item commences:
-
-                     (a)  APRA has, for the purposes of paragraph 57(a) of the old law, given an entity, association or other body the opportunity to make representations in respect of information of the kind contained in a document; and
-
-                     (b)  APRA has not made a determination under section 57 of the old law in respect of the document;
-
-any representations made by the entity, association or other body in respect of information of the kind contained in the document, whether the representations are made before, on or after this item commences, are taken to have been made for the purposes of subsection 57(3) of the new law.
-
-(3)       In this item:
-
-**_new law_** means the _Australian Prudential Regulation Authority Act 1998_ as amended by this Schedule.
-
-**_old law_** means the _Australian Prudential Regulation Authority Act 1998_ as in force immediately before this item commences.
-
- 
 
  
