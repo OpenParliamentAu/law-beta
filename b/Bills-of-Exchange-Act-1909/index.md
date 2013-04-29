@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00128/Html/8b9ef46a-def1-421c-8027-ffdd67d1afa2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00714/Html/315d8eb9-0d33-4978-ad83-c255c239dc78_files/image001.gif)
 
 # Bills of Exchange Act 1909
 
 **Act No. 27 of 1909 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 2 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -474,11 +474,7 @@ the bill shall not be avoided thereby, but shall operate and be payable as if th
 
                      (c)  Where a bill is payable at a fixed period after sight, the time begins to run from the date of the acceptance if the bill be accepted, and from the date of noting or protest if the bill be noted or protested for non‑acceptance, or for non‑delivery.
 
-                     (d)  The term **_month_** in a bill means a period starting at the start of any day of one of the calendar months and ending:
-
-                              (i)  immediately before the start of the corresponding day of the next calendar month; or
-
-                             (ii)  if there is no such day—at the end of the next calendar month.
+                     (d)  The term **_month_** in a bill means calendar month.
 
 ##### <a id="20"></a>20  Case of need
 
@@ -574,7 +570,7 @@ Provided that nothing in this section shall enable a corporation to make itself 
 
              (2)  Where a bill is drawn or indorsed by an infant or corporation having no capacity or power to incur liability on a bill, the drawing or indorsement entitles the holder to receive payment of the bill, and to enforce it against any other party thereto.
 
-##### <a id="28"></a>28  Signature essential to liability
+##### <a id="28"></a>28  Signature essential to liability
 
              (1)  Subject to this section, a person is not liable as drawer, indorser or acceptor of a bill if he or she has not signed it as such.
 
@@ -708,7 +704,7 @@ Provided that nothing in this section shall affect the ratification of an unauth
 
 ##### <a id="42"></a>42  Negotiation of bill to party already liable thereon
 
-                   Where a bill is negotiated back to the drawer, or to a prior indorser, or to the acceptor, he or she may, subject to the provisions of this Act, re‑issue and further negotiate the bill, but he or she is not entitled to enforce payment of the bill against any intervening party to whom he or she was previously liable.
+                   Where a bill is negotiated back to the drawer, or to a prior indorser, or to the acceptor, he or she may, subject to the provisions of this Act, re‑issue and further negotiate the bill, but he or she is not entitled to enforce payment of the bill against any intervening party to whom he or she was previously liable.
 
 ##### <a id="43"></a>43  Rights of holder
 
@@ -1360,7 +1356,7 @@ the banker paying the cheque, and, if the cheque has come into the hands of the 
 
                    Where a person takes a crossed cheque which bears on it the words “not negotiable”, he or she shall not have and shall not be capable of giving a better title to the cheque than that which the person from whom he or she took it had.
 
-##### <a id="88A"></a>88A  Cheques drawn by a bank on itself
+##### <a id="88A"></a>88A  Cheques drawn by a bank on itself
 
                    For the purposes of this division **_cheque_** includes a banker’s draft payable on demand drawn by or on behalf of a bank upon itself, whether payable at the head office or at some other office of the Bank.
 
@@ -1774,7 +1770,7 @@ Know all men that I, A.B. \[householder], of            
 
 (Signed)              A. B.
 
-                                                                                ![](http://www.comlaw.gov.au/Details/C2012C00128/Html/8b9ef46a-def1-421c-8027-ffdd67d1afa2_files/image002.gif)
+                                                                                ![](http://www.comlaw.gov.au/Details/C2011C00714/Html/315d8eb9-0d33-4978-ad83-c255c239dc78_files/image002.gif)
 
 N.B.—The bill itself should be annexed, or a copy of the bill and all that is written thereon should be underwritten.
 
@@ -1794,7 +1790,8 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
   <col width="18%">
   <col width="21%">
-  <col width="15%">
+  <col width="0%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1813,7 +1810,7 @@ of Assent</div>
     <td>
       <div>Date of commencement</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
@@ -1828,8 +1825,8 @@ of Assent</div>
   <td>
     <div>13 Dec 1909</div>
   </td>
-  <td>
-    <div>1 Feb 1910 ( <i>see Gazette</i>1910, p. 45)</div>
+  <td colspan="2">
+    <div>1 Feb 1910 ( <i>see Gazette</i>1910, p. 45)</div>
   </td>
   <td>
     <div></div>
@@ -1845,7 +1842,7 @@ of Assent</div>
   <td>
     <div>24 Dec 1912</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>24 Dec 1912</div>
   </td>
   <td>
@@ -1862,7 +1859,7 @@ of Assent</div>
   <td>
     <div>5 Dec 1932</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>5 Dec 1932</div>
   </td>
   <td>
@@ -1879,7 +1876,7 @@ of Assent</div>
   <td>
     <div>7 Dec 1936</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>7 Dec 1936</div>
   </td>
   <td>
@@ -1896,7 +1893,7 @@ of Assent</div>
   <td>
     <div>12 May 1958</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>9 June 1958</div>
   </td>
   <td>
@@ -1913,8 +1910,8 @@ of Assent</div>
   <td>
     <div>12 Mar 1971</div>
   </td>
-  <td>
-    <div>1 May 1971 ( <i>see Gazette</i>1971, p. 2490)</div>
+  <td colspan="2">
+    <div>1 May 1971 ( <i>see Gazette</i>1971, p. 2490)</div>
   </td>
   <td>
     <div>—</div>
@@ -1930,7 +1927,7 @@ of Assent</div>
   <td>
     <div>19 Dec 1973</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>31 Dec 1973</div>
   </td>
   <td>
@@ -1947,7 +1944,7 @@ of Assent</div>
   <td>
     <div>11 Dec 1986</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>1 July 1987 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S131)</div>
   </td>
   <td>
@@ -1964,8 +1961,8 @@ of Assent</div>
   <td>
     <div>12 Sept 1991</div>
   </td>
-  <td>
-    <div>Schedule: 10 Oct 1991</div>
+  <td colspan="2">
+    <div>Schedule: 10 Oct 1991 <i>(a)</i></div>
   </td>
   <td>
     <div>S. 3(2)</div>
@@ -1981,8 +1978,8 @@ of Assent</div>
   <td>
     <div>2 July 1998</div>
   </td>
-  <td>
-    <div>Schedule 3: 1 Dec 1998 ( <i>see Gazette</i> 1998, No. S371)</div>
+  <td colspan="2">
+    <div>Schedule 3: 1 Dec 1998 ( <i>see Gazette</i> 1998, No. S371) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1998,7 +1995,7 @@ of Assent</div>
   <td>
     <div>3 July 2008</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (items 12–14): Royal Assent 
 Schedule 4 (items 90–108): 4 July 2008</div>
   </td>
@@ -2016,13 +2013,29 @@ Schedule 4 (items 90–108): 4 July 2008</div>
   <td>
     <div>27 June 2011</div>
   </td>
-  <td>
-    <div>Schedule 2 (item 292) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+  <td colspan="2">
+    <div>Schedule 2 (item 292) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
+
+_(a)_     The _Bills of Exchange Act 1909_ was amended by the Schedule only of the _Law and Justice Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent.
+
+_(b)_     The _Bills of Exchange Act 1909_ was amended by Schedule 3 only of the _Cheques and Payment Orders Amendment Act 1998_, subsection 2(2) of which provides as follows:
+
+                 (2)   Subject to subsection (3), the items in Schedule 1, other than item 27 and items 70  to 82, and the items of Schedules 2 and 3, commence on a day to be fixed by Proclamation.
 
 ## Table of Amendments
 
@@ -2140,12 +2153,12 @@ Schedule 4 (items 90–108): 4 July 2008</div>
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 136, 1991; No. 46, 2011</div>
+    <div>am. No. 136, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 20</div>
+    <div>Ss. 20–22</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2153,31 +2166,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
+    <div>Ss. 25, 26</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2209,15 +2198,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
+    <div>Ss. 30, 31</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2233,15 +2214,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
+    <div>Ss. 32, 33</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2265,7 +2238,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
+    <div>Ss. 36, 37</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2273,47 +2246,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
+    <div>Ss. 39–43</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2329,7 +2262,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 45</div>
+    <div>Ss. 45–47</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2337,7 +2270,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 46</div>
+    <div>Ss. 49–51</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2345,47 +2278,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
+    <div>Ss. 54, 55</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2417,39 +2310,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
+    <div>Ss. 59–63</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2473,31 +2334,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
+    <div>Ss. 66–69</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2513,23 +2350,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
+    <div>Ss. 71–73</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2633,23 +2454,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
+    <div>Ss. 85–87</div>
   </td>
   <td>
     <div>am. No. 73, 2008</div>
@@ -2689,55 +2494,7 @@ Schedule 4 (items 90–108): 4 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>S. 88B</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88C</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88D</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88E</div>
+    <div>Ss. 88B–88E</div>
   </td>
   <td>
     <div>ad. No. 4, 1971</div>
@@ -2800,11 +2557,33 @@ Schedule 4 (items 90–108): 4 July 2008</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 292  Paragraph 19(2)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  The term **_month_** in a bill means a period starting at the start of any day of one of the calendar months and ending:
+
+                              (i)  immediately before the start of the corresponding day of the next calendar month; or
+
+                             (ii)  if there is no such day—at the end of the next calendar month.
+
+As at 2 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
