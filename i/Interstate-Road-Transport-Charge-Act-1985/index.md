@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00301/Html/15631b08-e72f-4ade-b9f4-5bc432f9f8d8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00827/Html/e0bdecff-87c0-4f08-96da-421006b47064_files/image001.gif)
 
 # Interstate Road Transport Charge Act 1985
 
 **Act No. 131 of 1985 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 14 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -286,13 +286,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  If the registration is for a full year, the amount of the charge is the amount for vehicles in that category in relation to the financial year in which the registration comes into force.
 
-Note:          For the definition of **_financial year_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For the definition of **_financial year_**, see paragraph 22(1)(e) of the _Acts Interpretation Act 1901_.
 
              (3)  For the purposes of subsection (2), the amount of the charge is the amount worked out in accordance with regulations made for the purposes of this section.
 
              (4)  If the registration is for less than a full year, the amount of the charge is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00301/Html/15631b08-e72f-4ade-b9f4-5bc432f9f8d8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00827/Html/e0bdecff-87c0-4f08-96da-421006b47064_files/image002.gif)
 
 where:
 
@@ -320,12 +320,12 @@ For all relevant information pertaining to application, saving or transitional p
 
 <table>
 <colgroup>
-  <col width="29%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
-  <col width="21%">
+  <col width="22%">
   <col width="0%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -515,7 +515,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (item 742) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 742) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -534,8 +534,8 @@ Remainder: Royal Assent</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -615,14 +615,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 57, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(2)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -722,6 +714,20 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 742  Subsection 5(2) (note)
+
+Omit “paragraph 22(1)(e)”, substitute “section 2B”.
+
+As at 14 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -754,6 +760,8 @@ _Interstate Road Transport Charge Amendment Act (No. 2) 2008
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
