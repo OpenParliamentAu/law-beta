@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 28 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 15 June 2011
+ taking into account amendments up to Act No. 140 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2648,7 +2648,7 @@ and the provider gives the ACMA a draft variation of the current statement or cu
 
 ### Division 9—Universal service subsidy
 
-##### <a id="16"></a>16  Determination of universal service subsidy
+##### <a id="16"></a>16  Determination of universal service subsidy
 
              (1)  Before the end of a claim period, the Minister must determine in writing one or more universal service subsidies for the period. A copy of a determination under this subsection must be published in the _Gazette_.
 
@@ -2892,7 +2892,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image002.gif)
 
 where:
 
@@ -2956,7 +2956,7 @@ Note:          It is an offence to make a false or misleading 
 
 ##### <a id="20M"></a>20M  ACMA may inquire into correctness of claim
 
-                   The ACMA may make whatever inquiries it thinks necessary or desirable in order to determine whether or not a claim by a universal service provider for a levy credit for a claim period correctly states the provider’s entitlement to universal service subsidy for the period.
+                   The ACMA may make whatever inquiries it thinks necessary or desirable in order to determine whether or not a claim by a universal service provider for a levy credit for a claim period correctly states the provider’s entitlement to universal service subsidy for the period.
 
 ##### <a id="20N"></a>20N  ACMA to assess levy credit
 
@@ -2998,7 +2998,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image003.gif)
 
 where:
 
@@ -3576,7 +3576,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -5894,7 +5894,7 @@ Remainder: Royal Assent</div>
 Schedule 2: <i>(e)</i></div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -6051,23 +6051,6 @@ Schedule 1 (items 227–240): 15 June 2011</div>
   </td>
   <td>
     <div>Sch. 1 (item 240)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1137–1139) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -9776,30 +9759,6 @@ Part 2</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1137  Subsection 158V(1)
-
-Omit “(1)”.
-
-## 1138  At the end of subsection 158V(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1139  Subsection 158V(2)
-
-Repeal the subsection.
-
-As at 28 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -10454,21 +10413,5 @@ _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) 
 ## 240  Application—waiver
 
 The amendments of section 120 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by this Part apply in relation to a waiver given after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
