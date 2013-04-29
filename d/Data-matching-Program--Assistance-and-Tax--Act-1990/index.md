@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00415/Html/e823574b-b356-47e9-a509-744cab3d68a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00339/Html/349fe48c-4230-42fb-bf81-717e9497081b_files/image001.gif)
 
 # Data‑matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 3 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1569,23 +1569,6 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 56–67): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 39 only of the _Social Security Legislation Amendment Act (No. 2) 1991_, subsection 2(4) of which provides as follows:
@@ -2030,82 +2013,6 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
   </td>
 </tr></table>
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 56  Subsection 3(1) (paragraph (e) of the definition of _assistance agency_)
-
-Repeal the paragraph, substitute:
-
-                     (e)  the Human Services Department.
-
-## 57  Subsection 3(1) (definition of _CEO_)
-
-Repeal the definition.
-
-## 58  Subsection 3(1)
-
-Insert:
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-## 59  Subsection 3(1) (definition of _employee_)
-
-Repeal the definition.
-
-## 60  Subsection 3(1)
-
-Insert:
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-## 61  Subsection 3(1)
-
-Insert:
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
-
-## 62  Subsection 3(1) (paragraph (b) of the definition of _matching agency_)
-
-Omit “the employees of the Services Delivery Agency”, substitute “the Departmental employees (within the meaning of the _Human Services (Centrelink) Act 1997_)”.
-
-## 63  Subsection 3(1) (paragraphs (b), (ca) and (de) of the definition of _personal assistance_)
-
-Omit “Services Delivery Agency”, substitute “Human Services Department”.
-
-## 64  Subsection 3(1) (definition of _Services Delivery Agency_)
-
-Repeal the definition.
-
-## 65  Paragraph 3A(1)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  the Secretary of the Department of Social Security delegates to:
-
-                              (i)  the Chief Executive Centrelink; or
-
-                             (ii)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-                            all or any of the Secretary’s powers under an Act; and
-
-## 66  Subsection 4(2)
-
-Repeal the subsection, substitute:
-
-             (2)  While a direction under section 3A is in force, the Chief Executive Centrelink is to ensure that there are Departmental employees (within the meaning of the _Human Services (Centrelink) Act 1997_) who are responsible for the matching of data under this Act.
-
-## 67  Subsection 10(3A)
-
-Omit “that is a Department, the CEO”, substitute “(other than the Human Services Department), the Chief Executive Centrelink”.
-
-As at 3 June 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2120,7 +2027,7 @@ The repeal made by this Schedule applies in relation to all data matching cycles
 
 _Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
 
-##### <a id="4"></a>4  Application of amendments
+##### <a id="4"></a>4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
