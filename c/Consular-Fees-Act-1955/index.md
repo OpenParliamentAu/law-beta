@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2011C00318/Html/4c90aaea-f42b-464e-81f2-6c1b14e9ad82_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00322/Html/ConsularFees1955_image001.gif)
 
 # Consular Fees Act 1955
 
 **Act No. 5 of 1955 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated 
+ may be affected by application provisions that are set out in 
+ the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -44,11 +45,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australian-consular-offic"></a>**_Australian Consular Officer_** means a person appointed to hold or act in any of the following offices of the Commonwealth in a country or place outside Australia:
 
-                     (a)  Consul‑General;
+                     (a)  Consul-General;
 
                      (b)  Consul;
 
-                     (c)  Vice‑Consul;
+                     (c)  Vice-Consul;
 
                      (d)  Trade Representative; and
 
@@ -78,11 +79,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  an Australian Diplomatic Officer or an Australian Consular Officer; or
 
-                     (b)  the person holding or acting in the office of Secretary of the Department or an officer of the Department acting with the authority of the Secretary; or
+                     (b)  the person holding or acting in the office of Secretary to the Department or an officer of the Department acting with the authority of the Secretary; or
 
-                     (c)  an employee of the Commonwealth authorised, in writing, by the Secretary of the Department; or
+                     (c)  an employee of the Commonwealth authorised, in writing, by the Secretary to the Department; or
 
-                     (d)  an employee of the Australian Trade Commission authorised, in writing, by the Secretary of the Department.
+                     (d)  an employee of the Australian Trade Commission authorised, in writing, by the Secretary to the Department.
 
 ##### <a id="4"></a>4  List of fees to be displayed
 
@@ -94,7 +95,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6"></a>6  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing that the prescribed fees are not payable in such cases as are prescribed. 
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing that the prescribed fees are not payable in such cases as are prescribed 
 
 # Notes to the _Consular Fees Act 1955_
 
@@ -219,30 +220,13 @@ Remainder: 6 Jan 1986 ( <i>see</i>s. 2(1) and <i>Gazette</i>1985, No. S551)</div
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 41): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Consular Fees Act 1955_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
-                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on  22 December 1975.
+                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
-_(b)_     The _Consular Fees Act 1955_ was amended by Schedule 1 (items 2–5) only of the _Foreign Affairs and Trade Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(b)_    The _Consular Fees Act 1955_ was amended by Schedule 1 (items 2–5) only of the _Foreign Affairs and Trade Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -290,7 +274,7 @@ _(b)_     The _Consular Fees Act 1955_ was amended by Schedule 1 (item
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 91, 1976; No. 150, 1997; No. 5, 2011</div>
+    <div>am. No. 91, 1976; No. 150, 1997</div>
   </td>
 </tr>
 <tr>
@@ -301,5 +285,7 @@ _(b)_     The _Consular Fees Act 1955_ was amended by Schedule 1 (item
     <div>am. No. 73, 2008</div>
   </td>
 </tr></table>
+
+ 
 
  
