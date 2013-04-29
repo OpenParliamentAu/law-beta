@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 26 May 2012
- taking into account amendments up to Act No. 50 of 2012
+This compilation was prepared on 14 May 2012
+ taking into account amendments up to Act No. 141 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -576,27 +576,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4AA—Child care rebate** 
 
-        **Subdivision AAA—Election to have child care rebate paid in various ways** 
+        **Subdivision AAA—Election to have child care rebate paid in various ways**
 
-65EAAAA  Individual may elect to have child care rebate paid in various ways
+65EAAAAIndividual may elect to have child care rebate paid in various 
+ ways
 
-65EAAAB  Period in which election has effect
+65EAAABPeriod in which election has effect
 
-65EAAAC  Where no election made for an income year
+65EAAACWhere no election made for an income year
 
-        **Subdivision AAB—Weekly payments of child care rebate** 
+        **Subdivision AAB—Weekly payments of child care rebate**
 
-65EAAA  Weekly payments of child care rebate
+65EAAAWeekly payments of child care rebate
 
-65EAAB  Where individual elects to have child care rebate paid weekly to approved child care service
+65EAABWhere individual elects to have child care rebate paid weekly 
+ to approved child care service
 
-65EAAC  Where individual elects to have child care rebate paid weekly into own bank account
+65EAACWhere individual elects to have child care rebate paid weekly 
+ into own bank account
 
-65EAAD  Revising a calculation of weekly child care rebate
+65EAADRevising a calculation of weekly child care rebate
 
-65EAAE  If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
+65EAAEIf weekly payment is to an approved child care service, notice 
+ of revised calculation must be given to the service
 
-65EAAF  Effect of revised calculation—payment to the individual
+65EAAFEffect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1362,18 +1366,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGA  Conduct contravening more than one civil penalty 
- provision
+219TSGAConduct contravening more than one civil penalty provision
 
-219TSGB  Civil proceedings after criminal proceedings
+219TSGBCivil proceedings after criminal proceedings
 
-219TSGC  Criminal proceedings during civil proceedings
+219TSGCCriminal proceedings during civil proceedings
 
-219TSGD  Criminal proceedings after civil proceedings
+219TSGDCriminal proceedings after civil proceedings
 
-219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
+219TSGEEvidence given in proceedings for penalty not admissible in 
+ criminal proceedings
 
-219TSGF  Minister requiring person to assist in applications for civil penalty orders
+219TSGFMinister requiring person to assist in applications for civil 
+ penalty orders
 
     **Division 2—Infringement notices**
 
@@ -2295,7 +2300,7 @@ the Secretary must determine that the claimant is entitled to be paid family tax
 
 the Secretary must determine that the claimant is entitled to be paid the family tax benefit.
 
-##### <a id="19"></a>19  Determination that no entitlement
+##### <a id="19"></a>19  Determination that no entitlement
 
                    If the Secretary is not satisfied as mentioned in section 16, 17 or 18, the Secretary must determine:
 
@@ -2377,7 +2382,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -2431,7 +2436,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -2498,8 +2503,6 @@ under subsection 20A(2) or 20B(2) with a start day that has arrived or passed (o
 ##### <a id="21"></a>21  When determination is in force
 
              (1)  Subject to this section, a determination under this Division comes into force when it is made and remains in force at all times afterwards.
-
-          (1A)  A determination under paragraph 19(a) may be expressed to come into force on a day before it is made (but not earlier than the day the claim concerned is made).
 
 Effect of later determination on certain instalment determinations
 
@@ -4753,13 +4756,11 @@ Upfront part
 
           (2A)  The **_upfront part_** is the following amount:
 
-                     (a)  if the claimant becomes eligible for baby bonus between 1 July 2011 and 31 August 2012—$879.77;
+                     (a)  if the claimant becomes eligible for baby bonus in the 2011‑2012 financial year—$879.77;
 
-                     (b)  if the claimant becomes eligible for baby bonus between 1 September 2012 and 30 June 2015—$846.15;
+                     (b)  if the claimant becomes eligible for baby bonus in the 2012‑2013 financial year or a later financial year—the amount worked out as follows:
 
-                     (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
-
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -6269,7 +6270,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -6323,7 +6324,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -7921,7 +7922,7 @@ Variation by Secretary to 24 hour limit
 
              (3)  If the claimant is an individual, the Secretary may make a notice of variation of a determination of weekly limit of hours available to the approved child care service providing care to the child, including by making the notice available to the service using an electronic interface.
 
-##### <a id="64EA"></a>64EA  When variations take effect
+##### <a id="64EA"></a>64EA  When variations take effect
 
              (1)  If a determination of a weekly limit of hours is varied by the Secretary under this Subdivision, the variation has effect from the start of the week in which the circumstance:
 
@@ -8785,7 +8786,7 @@ Note:          The individual does not have to make a claim fo
 
              (2)  If:
 
-                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1), (1A) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
+                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
 
                      (b)  on that day, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3) of this Act;
 
@@ -11059,7 +11060,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image004.gif)
 
 where:
 
@@ -11109,7 +11110,7 @@ The Secretary must exercise the power to waive in accordance with any conditions
 
 ##### <a id="104"></a>104  Decisions that may be reviewed by the Secretary on own initiative
 
-                   Under section 105, the Secretary may review a decision of any officer under the family assistance law except:
+                   Under section 105, the Secretary may review a decision of any officer under the family assistance law except:
 
                      (a)  a determination of entitlement under section 51B in respect of an individual in so far as it relates to:
 
@@ -11873,7 +11874,7 @@ the Secretary may declare:
 
                    In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
 
-##### <a id="111"></a>111  Application for review by SSAT
+##### <a id="111"></a>111  Application for review by SSAT
 
              (1)  If the decision reviewer has affirmed, varied or set aside a decision under Division 1, a person affected by the decision may apply to the Social Security Appeals Tribunal for review of the decision as affirmed or varied or, if it has been set aside and another decision substituted, the decision so substituted.
 
@@ -12891,7 +12892,7 @@ application may also be made to the AAT for the review of the decision.
 
                              (ii)  refuse to allocate the number of child care places an approved child care service has applied for under that section;
 
-                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
+                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
 
                     (ia)  a decision under section 207A to reduce the number of child care places allocated to an approved child care service;
 
@@ -14979,4 +14980,1646 @@ Note:          This is a civil penalty provision. Part 8C pr
 
              (3)  Subsection (2) is an offence of strict liability.
 
-Note:        
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="219BD"></a>219BD  Obligation to charge no more than usual fee—Jobs Education and Training (JET) Child Care fee assistance
+
+             (1)  If:
+
+                     (a)  a determination of conditional eligibility for child care benefit by fee reduction under section 50F is in force in respect of an individual and a child for a session of care provided by an approved child care service to the child; and
+
+                     (b)  the service becomes aware that the individual is eligible to receive Jobs Education and Training (JET) Child Care fee assistance in relation to the session of care;
+
+the service must ensure that the fees set for the session do not exceed the amount of the fees that the service would charge an individual who was not eligible for that assistance for the same session for the same child.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (2)  In subsection (1):
+
+                    <a name="job-educ-train-jet-child-care-fee-assist"></a>**_Jobs Education and Training (JET) Child Care fee assistance_** means the payment of that name that is paid by the Commonwealth.
+
+##### <a id="219E"></a>219E  Obligation to provide statements
+
+             (1)  If:
+
+                     (a)  a determination is in force under section 50F that an individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  a session or sessions of care are provided by an approved child care service to the child during a period (the **_statement period_**) described in subsection (4); and
+
+                     (c)  the service is required to pass on an amount under section 219B for the session or sessions;
+
+the service must, before the end of one month starting on the day after the end of the statement period, give to the individual or some other person applicable under rules made under subsection (6) a statement setting out the matters specified in subsection (5) in relation to the session or sessions.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  a determination is in force under section 50F that an individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  a session or sessions of care are provided by the service to the child during a period (the **_statement period_**) described in subsection (4); and
+
+                     (c)  the service is required to pass on an amount under section 219B for the session or sessions; and
+
+                     (d)  the service does not, before the end of one month starting on the day after the end of the statement period, give to the individual or some other person applicable under rules made under subsection (6) a statement setting out the matters specified in subsection (5) in relation to the session or sessions.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  The statement periods for the service are as follows:
+
+                     (a)  the first statement period is the period of 3 months starting on the day (the **_initial day_**) that is:
+
+                              (i)  the day Schedule 2 to the _Family Assistance Legislation Amendment (Child Care) Act 2010_ commences; or
+
+                             (ii)  if the Secretary approves the service under section 195 of this Act on a day later than the one described in subparagraph (i)—that later day;
+
+                            or, if before or during that 3‑month period the service chooses a shorter period starting on the initial day, the shorter period;
+
+                     (b)  each of the later statement periods is:
+
+                              (i)  the period of 3 months starting on the day after the end of the immediately preceding statement period; or
+
+                             (ii)  if before or during that 3‑month period the service chooses a shorter period starting on that day—the shorter period.
+
+             (5)  The matters required to be set out in a statement for a statement period are:
+
+                     (a)  the start and end of the statement period; and
+
+                     (b)  the amount that would have been the fees payable for the session or sessions of care provided by the service to the child during the statement period if no amount had been passed on under section 219B for the session or sessions; and
+
+                     (c)  the amount of fee reductions required to be passed on under section 219B for the session or sessions; and
+
+                     (d)  any other information the Secretary specifies in the rules (if any) made under subsection (6).
+
+Note:          The amount of fee reductions required to be set out in the statement may be a nil amount (see section 4A).
+
+             (6)  The Secretary may, by legislative instrument, make rules dealing with any of the following matters:
+
+                     (a)  how statements should be given;
+
+                     (b)  to whom the statements should be given;
+
+                     (c)  for particular approved child care services or classes of approved child care services—different statement periods;
+
+                     (d)  other information that must be given in the statements.
+
+Correcting or reissuing statements
+
+             (7)  If:
+
+                     (a)  an approved child care service has, under subsection (1), given an individual or other person a statement (the **_earlier statement_**) relating to a session or sessions of care provided by the service to a child in the statement period; and
+
+                     (b)  under section 50ZA, the service is notified on a day (the **_notification day_**) of a recalculated rate or amount in respect of any of those sessions;
+
+the service must, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the matters specified in subsection (5) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (8)  An approved child care service commits an offence if:
+
+                     (a)  the service has, under subsection (1), given an individual or other person a statement (the **_earlier statement_**) relating to a session or sessions of care provided by the service to a child in the statement period; and
+
+                     (b)  under section 50ZA, the service is notified on a day (the **_notification day_**) of a recalculated rate or amount in respect of any of those sessions; and
+
+                     (c)  the service does not, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the matters specified in subsection (5) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+                    Penalty:  60 penalty units.
+
+             (9)  Subsection (8) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+#### Subdivision C—Obligations relating to weekly child care rebate
+
+##### <a id="219EA"></a>219EA  Obligation to pass on weekly child care rebate
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary calculates under section 65EAAA, or recalculates under section 65EAAD, the amount of the child care rebate that is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week; and
+
+                     (b)  the Secretary has notified the service of the amount in accordance with subsection 65EAAB(2), or the recalculated amount in accordance with subsection 65EAAE(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to the individual, except to the extent that the service is required to remit the amount to the Secretary under section 219QE.
+
+Note 1:       This amount must be passed on, even if the payment of child care rebate has been suspended under paragraph 200(1)(i).
+
+Note 2:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (3)  An approved child care service commits an offence if the service contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (6)  If:
+
+                     (a)  the service reduces the amount by which it charges an individual in respect of care in anticipation of the Secretary’s calculation of the amount of child care rebate applicable for the service in respect of the individual and a child for a week; and
+
+                     (b)  the service was an approved child care service at the time the care was provided;
+
+the service is taken to have passed on to the individual an amount equal to the anticipated child care rebate.
+
+             (7)  The amount is taken to have been passed on to the individual on the day on which the Secretary notified the service of the amount in accordance with subsection 65EAAB(2) or 65EAAE(2).
+
+##### <a id="219EB"></a>219EB  Obligation to provide additional material in section 219E statements
+
+             (1)  If:
+
+                     (a)  an approved child care service is required to pass on an amount under section 219EA to an individual in respect of care provided for a child by the service in a week; and
+
+                     (b)  the care is provided in a statement period for the service described in subsection 219E(4) or set out in rules made under paragraph 219E(6)(c);
+
+the service must set out the additional matters specified in subsection (4) in relation to the care in the statement given to the individual or another person under section 219E for the statement period.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  the approved child care service is required to pass on an amount under section 219EA to an individual in respect of care provided for a child by the service in a week; and
+
+                     (b)  the care is provided in a statement period for the service described in subsection 219E(4) or set out in rules made under paragraph 219E(6)(c); and
+
+                     (c)  the service does not set out the additional matters specified in subsection (4) in relation to the care in the statement given to the individual or another person under section 219E for the statement period.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code._
+
+             (4)  The additional matters required to be set out in the statement given under section 219E for the statement period are:
+
+                     (a)  the amount of the fees for which the individual to whom the amount is passed on would have been liable for the care if any fee reduction under section 219B had been passed on but no amount of child care rebate had been passed on under section 219EA for the care; and
+
+                     (b)  the amount of child care rebate required to be passed on under section 219EA.
+
+             (5)  If:
+
+                     (a)  an approved child care service has, under subsection (1), included a matter in a statement (the **_earlier statement_**) given to an individual or other person under section 219E in relation to care provided by the service during a statement period; and
+
+                     (b)  under subsection 65EAAE(2), the service is notified on a day (the **_notification day_**) of a recalculated amount in respect of the care;
+
+the service must, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the additional matters specified in subsection (4) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (6)  An approved child care service commits an offence if:
+
+                     (a)  an approved child care service has, under subsection (1), included a matter in a statement (the **_earlier statement_**) given to an individual or other person under section 219E in relation to care provided by the service during a statement period; and
+
+                     (b)  under subsection 65EAAE(2), the service is notified on a day (the **_notification day_**) of a recalculated amount in respect of the care; and
+
+                     (c)  the service does not, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the additional matters specified in subsection (4) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+                    Penalty:  60 penalty units.
+
+             (7)  Subsection (6) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code._
+
+#### Subdivision D—Obligations relating to records
+
+##### <a id="219F"></a>219F  Obligation to keep records
+
+Records must be kept
+
+             (1)  An approved child care service must keep records as provided for in rules made under subsection (3) of information and events  relating  to the following matters:
+
+                     (a)  an individual’s eligibility for payment of child care benefit under this Act;
+
+                     (b)  the service’s eligibility for payment of child care benefit under this Act in respect of a child at risk;
+
+                     (c)  the service’s compliance with the conditions for the continued approval of approved child care services;
+
+                     (d)  any other matter the Secretary specifies in the record keeping rules made under paragraph (3)(b).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Records to be kept for at least 36 months—civil penalty
+
+             (2)  An approved child care service contravenes this subsection if the service stops keeping the records referred to in subsection (1) before the later of the following times:
+
+                     (a)  the end of the period of 36 months starting at the end of the year in which the care was provided to which the information or event related;
+
+                     (b)  a time ordered by a court during proceedings for an offence against this Act, or for the contravention of a civil penalty provision, if an application for the order is made during:
+
+                              (i)  the period mentioned in paragraph (a); or
+
+                             (ii)  proceedings relevant to a previous application of this paragraph.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Records to be kept for at least 36 months—offence
+
+          (2A)  An approved child care service commits an offence if the service stops keeping the records referred to in subsection (1) before the later of the following times:
+
+                     (a)  the end of the period of 36 months starting at the end of the year in which the care was provided to which the information or event related;
+
+                     (b)  a time ordered by a court during proceedings for an offence against this Act, or for the contravention of a civil penalty provision, if an application for the order is made during:
+
+                              (i)  the period mentioned in paragraph (a); or
+
+                             (ii)  proceedings relevant to a previous application of this paragraph.
+
+                    Penalty:  60 penalty units.
+
+          (2B)  Subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Secretary must make rules
+
+             (3)  The Secretary must, by legislative instrument, make rules relating to the keeping of records specifying:
+
+                     (a)  the kinds of records an approved child care service must keep in relation to a matter listed in subsection (1); and
+
+                     (b)  other matters (if any) in respect of which an approved child care service must keep records.
+
+Meaning of **offence against this Act**
+
+             (4)  In this section:
+
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
+
+##### <a id="219G"></a>219G  Former approved child care service to keep records
+
+Obligation to keep records
+
+             (1)  A person who operates an approved child care service, immediately before the service ceases to be an approved child care service, must keep a record referred to in subsection (2) for the period for which the service would have been required, under section 219F, to keep the record if the service had not ceased to be an approved child care service.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  A person commits an offence if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Type of records to be kept
+
+             (2)  The records the person is required to keep are the records that the service was required to keep under section 219F immediately before the service ceased to be an approved child care service.
+
+Notification of premises at which records are kept
+
+             (3)  The person must notify the Secretary in writing, within the period of 14 days beginning on the day after the cessation day, of the premises at which the records are kept on the day after the cessation day.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (3A)  A person commits an offence if the person contravenes subsection (3).
+
+                    Penalty:  60 penalty units.
+
+          (3B)  Subsection (3A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Notification if premises changes
+
+             (4)  If the premises at which the records are kept changes during the period:
+
+                     (a)  beginning on the day after the cessation day; and
+
+                     (b)  ending on the last day the person is required to keep the records under subsection (1);
+
+the person must notify the Secretary in writing of the new premises within the period of 14 days beginning on the day the records begin to be kept at the new premises.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (4A)  A person commits an offence if the person contravenes subsection (4).
+
+                    Penalty:  60 penalty units.
+
+          (4B)  Subsection (4A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  In subsections (3) and (4):
+
+                    <a name="cessat-dai"></a>**_cessation day_** means the day the service ceased to be an approved child care service.
+
+##### <a id="219GA"></a>219GA  Secretary may require financial information relating to large long day care centre operators
+
+             (1)  For the purposes of determining whether a large long day care centre operator is financially viable, and likely to remain so, the Secretary may, by notice in writing, require a person mentioned in subsection (2) to provide financial information in relation to a financial year if the Secretary has reason to believe that the person is capable of giving the information.
+
+             (2)  For the purposes of subsection (1), the Secretary may give a notice to the following persons:
+
+                     (a)  the operator;
+
+                     (b)  a person who, at any time during the financial year, owns 15% or more of:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                     (c)  a person who, at any time during the financial year, is entitled to receive 15% or more of the dividends paid by:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                     (d)  a person who, at any time during the financial year, is owed a debt by the operator;
+
+                     (e)  a person who:
+
+                              (i)  acts, or is accustomed to act; or
+
+                             (ii)  under a contract or an arrangement or understanding (whether formal or informal) is intended or expected to act;
+
+                            in accordance with the directions, instructions or wishes of, or in concert with:
+
+                            (iii)  the operator; or
+
+                            (iv)  if the operator consists of more than one person—any of those persons;
+
+                      (f)  a person who directs or instructs:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            to act in accordance with those directions or instructions;
+
+                     (g)  a person, if:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            acts, or is accustomed to act, so as to give effect to the first‑mentioned person’s wishes;
+
+                     (h)  a person with whom:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            acts, or is accustomed to act, in concert;
+
+                      (i)  a person, if:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            is intended or expected to act under a contract or an arrangement or understanding (whether formal or informal) so as to give effect to the first‑mentioned person’s directions, instructions or wishes;
+
+                      (j)  a person with whom:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            is intended or expected to act in concert under a contract or an arrangement or understanding (whether formal or informal).
+
+             (3)  The Secretary’s notice must specify:
+
+                     (a)  the financial information required; and
+
+                     (b)  the period within which, and the manner in which, the person must comply with the notice.
+
+             (4)  The Secretary may only require financial information that relates to any of the 5 financial years immediately preceding the date of the notice.
+
+             (5)  The period specified under paragraph (3)(b) must be reasonable in all the circumstances.
+
+             (6)  A person who is given a notice under this section must comply with the notice.
+
+Note 1:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents.
+
+             (7)  For the purposes of:
+
+                     (a)  paragraph (1)(d) of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_; and
+
+                     (b)  paragraph 2.1(g) of National Privacy Principle 2 in Schedule 3 to the _Privacy Act 1988_; and
+
+                     (c)  a provision of a law of a State or Territory that provides that information that is personal may be disclosed if the disclosure is authorised by law;
+
+the disclosure of personal information by a person in response to a notice given under this section is taken to be a disclosure that is authorised by law.
+
+##### <a id="219GB"></a>219GB  Audit of operator of approved child care service
+
+             (1)  If, on the basis of information received under section 219GA, the Secretary has concerns about the financial viability of an operator of an approved child care service, the Secretary may engage an appropriately qualified and experienced expert to carry out an independent audit of the operator.
+
+             (2)  The expert may be assisted by members of an audit team.
+
+##### <a id="219H"></a>219H  Appointment of authorised officers
+
+                   The Secretary may, in writing, appoint an appropriately qualified officer to be an authorised officer for the purposes of the exercise of the powers referred to in section 219K and/or section 219KA.
+
+##### <a id="219J"></a>219J  Identity cards
+
+             (1)  The Secretary must issue an identity card to an authorised officer.
+
+Form of identity card
+
+             (2)  The identity card must:
+
+                     (a)  be in the form approved by the Secretary; and
+
+                     (b)  contain a recent photograph of the authorised officer.
+
+Offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person has been issued with an identity card; and
+
+                     (b)  the person ceases to be an authorised officer; and
+
+                     (c)  the person does not, as soon as practicable after so ceasing, return the identity card to the Secretary.
+
+                    Penalty:  1 penalty unit.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Defence: card lost or destroyed
+
+             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
+
+Note:          A defendant bears an evidential burden in relation to the matter in this subsection: see subsection 13.3(3) of the _Criminal Code_.
+
+Authorised officer must carry card
+
+             (6)  An authorised officer must carry his or her identity card at all times when exercising powers as an authorised officer.
+
+##### <a id="219K"></a>219K  Power to enter premises to inspect records
+
+Access to inspect records
+
+             (1)  For the purposes of inspecting records referred to in section 219F or 219G, an authorised officer may enter:
+
+                     (a)  in the case of records referred to in subsection 219F(1)—the premises of the approved child care service in respect of which the records are kept at any time during the service’s hours of operation; or
+
+                     (b)  in the case of records referred to in subsection 219G(2)—the premises last notified under section 219G in respect of the records at any reasonable time of a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
+
+Access to monitor compliance
+
+          (1A)  An authorised officer may enter the premises of an approved child care service, at any time during the service’s hours of operation, for the purposes of monitoring the service’s compliance with a condition for the continued approval of the service.
+
+Note:          The authorised officer could also inspect certain records while on the premises (see paragraph (1)(a)).
+
+##### <a id="219KA"></a>219KA  Power to enter premises to carry out an audit
+
+             (1)  For the purposes of carrying out an audit of an operator of an approved child care service, a member of an audit team may enter:
+
+                     (a)  the premises of the approved child care service at any time during the service’s hours of operation; or
+
+                     (b)  any premises of the operator at any reasonable time of a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
+
+             (2)  A member of an audit team must be accompanied by an authorised officer.
+
+##### <a id="219KB"></a>219KB  Report relating to an audit
+
+             (1)  An expert who audits an operator of an approved child care service must prepare and give to the Secretary a report about the affairs of the operator.
+
+             (2)  The expert’s report must deal with the following:
+
+                     (a)  whether the operator’s financial statements are based on proper accounts and records;
+
+                     (b)  whether the statements are in agreement with the accounts and records and show fairly the financial transactions and the state of the operator;
+
+                     (c)  any matter specified by the expert’s terms of engagement;
+
+                     (d)  such other matters arising out of the statements as the expert considers should be reported;
+
+                     (e)  any recommendations relating to maintaining or improving the financial viability of the operator that the expert considers desirable.
+
+##### <a id="219KC"></a>219KC  Responsibilities of authorised officers
+
+             (1)  Entering premises under subsection 219K(1) or (1A) or section 219KA is not authorised unless:
+
+                     (a)  the occupier of the premises, or another person who apparently represents the occupier, has consented to the entry; and
+
+                     (b)  the authorised officer concerned has shown his or her identity card to the occupier or person.
+
+             (2)  An authorised officer must, before obtaining the consent of the occupier or another person in accordance with subsection (1), inform that occupier or person that he or she may refuse consent.
+
+             (3)  A consent has no effect unless the consent is voluntary.
+
+             (4)  A consent may be expressed to be limited to entry during a particular period. If so, the consent has effect for that period unless the consent is withdrawn before the end of that period.
+
+             (5)  A consent that is not limited as mentioned in subsection (4) has effect until the consent is withdrawn.
+
+             (6)  The authorised officer must leave the premises if the consent ceases to have effect.
+
+Cooperation
+
+             (7)  Approved child care services have a responsibility under subsection 196(2A) to cooperate with a person exercising powers under section 219K or 219KA. An approved child care service that:
+
+                     (a)  refuses to consent to the entry of a person (after the person shows his or her identity card in the case of an authorised officer); or
+
+                     (b)  withdraws consent for the person to enter the premises;
+
+is not complying with the responsibility.
+
+             (8)  Operators of approved child care services have a responsibility under subsection 196(2B) to cooperate with a person exercising powers under section 219KA. An operator of an approved child care service that:
+
+                     (a)  refuses to consent to the entry of a person (after the person shows his or her identity card in the case of an authorised officer); or
+
+                     (b)  withdraws consent for the person to enter the premises;
+
+is not complying with the responsibility.
+
+             (9)  Failure to comply with the responsibility mentioned in subsection (7) or (8) can result in a sanction being imposed under section 200.
+
+##### <a id="219L"></a>219L  Occupier to provide authorised officer with access to records and assistance
+
+Obligation to produce records referred to in subsection 219F(1)
+
+             (1)  The occupier of premises referred to in paragraph 219K(1)(a), or another person who apparently represents the occupier, must produce to an authorised officer, or any other person assisting the officer, who has entered premises under section 219K, the records referred to in subsection 219F(1).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  A person commits an offence if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Obligation to produce records referred to in subsection 219G(2)
+
+             (2)  The occupier of premises referred to in paragraph 219K(1)(b), or another person who apparently represents the occupier, must produce to an authorised officer, or any other person assisting the officer, who has entered premises under section 219K, the records referred to in subsection 219G(2).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (2A)  A person commits an offence if the person contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+          (2B)  Subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Obligation to provide reasonable facilities and assistance
+
+             (3)  The occupier, or another person who apparently represents the occupier, must assist the officer with all reasonable facilities and assistance for the effective exercise of the officer’s powers under section 219K.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (3A)  A person commits an offence if the person contravenes subsection (3).
+
+                    Penalty:  10 penalty units.
+
+          (3B)  Subsection (3A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  Approved child care services have a responsibility under subsection 196(2A) to cooperate with a person exercising powers under subsection (1) or (3). An approved child care service that does not produce records or assist as provided for in those subsections is not complying with the responsibility. Failure to comply with the responsibility can result in a sanction being imposed under section 200.
+
+##### <a id="219LA"></a>219LA  Occupier to provide audit team with access to records and assistance
+
+             (1)  This section applies if a member of an audit team enters premises to carry out an audit.
+
+             (2)  The occupier of premises referred to in section 219KA, or another person who apparently represents the occupier, must produce to a member of the audit team, or an authorised officer accompanying the member, any documents, records or things required by the expert of the audit team for the purposes of the audit.
+
+Note 1:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       Section 137.2 of the _Criminal Code_ creates an offence for providing false or misleading documents.
+
+             (3)  A person commits an offence if the person contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  The occupier of premises referred to in section 219KA, or another person who apparently represents the occupier, must provide a member of the audit team, and an authorised officer accompanying the member, with all reasonable facilities and assistance for the effective exercise of powers under section 219KA.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (6)  A person commits an offence if the person contravenes subsection (5).
+
+                    Penalty:  10 penalty units.
+
+             (7)  Subsection (6) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (8)  Approved child care services have a responsibility under subsection 196(2A) to cooperate with a member of an audit team and an authorised officer accompanying a member. An approved child care service that does not produce documents, records or things, or provide facilities and assistance, as provided for in subsections (2) and (5) is not complying with the responsibility.
+
+             (9)  Operators of approved child care services have a responsibility under subsection 196(2B) to cooperate with a member of an audit team and an authorised officer accompanying a member. An operator of an approved child care service that does not produce documents, records or things, or provide facilities and assistance, as provided for in subsections (2) and (5) is not complying with the responsibility.
+
+           (10)  Failure to comply with the responsibility mentioned in subsection (8) or (9) can result in a sanction being imposed under section 200.
+
+#### Subdivision E—Obligations to provide information and reports
+
+##### <a id="219M"></a>219M  Obligations if operator decides to stop operating an approved child care service
+
+Obligation to notify Secretary
+
+             (1)  If a person who operates an approved child care service decides to cease operating the service, the operator must, in the manner provided for in subsection (2), notify the Secretary of that decision:
+
+                     (a)  unless paragraph (b) applies—at least 42 days before the operator ceases to operate the service; or
+
+                     (b)  if the operator decides to cease operating the service:
+
+                              (i)  to avoid being in breach of a law of the Commonwealth, a State or a Territory; or
+
+                             (ii)  due to circumstances beyond the operator’s control;
+
+                            as soon as possible after that decision.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  The notice must be given in the form, and in the manner or way, approved by the Secretary.
+
+             (3)  A person commits an offence if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Obligation to give further information on request
+
+             (4)  An operator of an approved child care service contravenes this subsection if:
+
+                     (a)  the operator notifies the Secretary under subsection (1) of the operator’s decision to cease operating the service; and
+
+                     (b)  the Secretary requests the operator, in writing, to give the Secretary specified information about the decision; and
+
+                     (c)  the operator fails to comply with the request in accordance with subsection (6).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (5)  A person commits an offence if the person contravenes subsection (4).
+
+                    Penalty:  60 penalty units.
+
+             (6)  Information requested under subsection (4) must be given:
+
+                     (a)  in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  within:
+
+                              (i)  if paragraph (1)(a) applies—7 days after the day on which the request was given; or
+
+                             (ii)  otherwise—the period specified in the request.
+
+##### <a id="219N"></a>219N  Obligation to give reports to Secretary
+
+             (1)  For each week in which a session of care is provided by an approved child care service to a child in relation to whom an enrolment has been:
+
+                     (a)  notified to the Secretary in accordance with sections 219A and 219AB; and
+
+                     (b)  confirmed by the Secretary in accordance with section 219AE;
+
+the service must give the Secretary a report in accordance with this section.
+
+             (2)  For each week in which a session of care is provided by an approved child care service to a child in relation to whom an enrolment has been:
+
+                     (a)  notified to the Secretary in accordance with sections 219AA and 219AB; and
+
+                     (b)  confirmed by the Secretary in accordance with section 219AE;
+
+the service must give the Secretary a report in accordance with this section.
+
+             (3)  The report must be made in the form, and in the manner or way, approved by the Secretary.
+
+             (4)  The report must include:
+
+                     (a)  any information required by the Secretary that is relevant to:
+
+                              (i)  determining whether a fee reduction is applicable in relation to the care and, if so, the rate and amount of that fee reduction; or
+
+                             (ii)  making a determination of entitlement, or no entitlement, in relation to the care under Division 4 of Part 3; and
+
+                    (aa)  any information required by the Secretary that is relevant to:
+
+                              (i)  determining whether an individual is eligible to receive child care rebate; or
+
+                             (ii)  determining the amount in which child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week, a quarter or an income year; or
+
+                            (iii)  making a determination of entitlement in relation to the care under Division 4AA of Part 3; or
+
+                            (iv)  determining any other matter in relation to the payment of child care rebate to an individual; and
+
+                     (b)  any other information required by the Secretary.
+
+             (5)  Subject to subsection (5AA), the report must be given no later than:
+
+                     (a)  if the week in which the session of care was provided fell wholly before the day on which the enrolment was confirmed—the period of 7 days after the day on which the enrolment was confirmed; and
+
+                     (b)  otherwise—the end of the second week immediately following the week.
+
+       (5AA)  If:
+
+                     (a)  a payment is made to the service under section 219RD in relation to a period (the **_initial period_**) notified to the service under subsection 219RD(4); and
+
+                     (b)  the payment is made because of the service’s failure to give a report under subsection (1) or (2) of this section within the period applicable under subsection (5) of this section;
+
+the report must be given no later than:
+
+                     (c)  7 days after the end of the initial period; or
+
+                     (d)  if one or more other periods (that are consecutive with the initial period) are notified to the service under subsection 219RD(4)—7 days after the end of the last of those periods.
+
+          (5A)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to give a report under subsection (1) or (2); and
+
+                     (b)  the service does not give the report in accordance with this section.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (6)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to give a report under subsection (1) or (2); and
+
+                     (b)  the service does not give the report in accordance with this section.
+
+                    Penalty:  60 penalty units.
+
+             (7)  An approved child care service may:
+
+                     (a)  substitute the report with an updated report at any time; or
+
+                     (b)  if the report was given in circumstances where it was not required to be given—withdraw the report.
+
+             (8)  Subsection (7) does not prevent rules under paragraph 205(1)(b) making provision for, and in relation to, child care services doing either or both of the following:
+
+                     (a)  substituting reports given by the services under this section;
+
+                     (b)  withdrawing reports given by the services under this section.
+
+##### <a id="219NA"></a>219NA  Obligation to provide information to Secretary about number of child care places
+
+             (1)  The Secretary may give an approved child care service a written notice requiring the service to provide information required in order for the Secretary to determine whether to reduce the number of child care places allocated to the service.
+
+             (2)  The notice must specify all of these:
+
+                     (a)  the information required by the Secretary;
+
+                     (b)  the period, or each of the periods, in relation to which the information is required;
+
+                     (c)  when the information in relation to the period, or each of the periods, is required.
+
+             (3)  The notice may specify either or both of these:
+
+                     (a)  the form and manner in which the information is to be provided to the Secretary;
+
+                     (b)  the length of time for which the service must continue to comply with the notice.
+
+             (4)  The service must provide the required information to the Secretary, in relation to the period, or each of the periods, specified in the notice, at the time specified in the notice and in the form and manner (if any) specified in the notice.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (5)  The Secretary may give the service a written notice terminating the effect of the notice under subsection (1).
+
+##### <a id="219NB"></a>219NB  Obligation to provide further information to Secretary about enrolled children
+
+             (1)  If the Secretary, by notice under section 57G, requires an approved child care service to provide further information to the Secretary (further information in relation to aspects of the care provided to children enrolled for care by the service), the service must comply with the notice.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+##### <a id="219P"></a>219P  Obligations of operators of former approved child care services
+
+             (1)  If the approval of a child care service is suspended or cancelled, the person who operated the child care service immediately before the service’s approval was suspended or cancelled must fulfil the obligations under the following provisions in respect of sessions of care that occurred before the approval was suspended or cancelled as if it had not been:
+
+                     (a)  section 219A;
+
+                     (b)  section 219AA;
+
+                     (c)  section 219AF;
+
+                     (d)  section 219B;
+
+                     (e)  section 219BA;
+
+                      (f)  section 219BB;
+
+                     (g)  section 219BC;
+
+                     (h)  section 219BD;
+
+                      (i)  section 219E;
+
+                      (j)  section 219N;
+
+                     (k)  section 219QB.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  If the approval of a child care service is suspended or cancelled, the person who operated the child care service immediately before the service’s approval was suspended or cancelled must fulfil the obligations under the following provisions in respect of care that occurred before the approval was suspended or cancelled as if it had not been:
+
+                     (a)  section 219EA;
+
+                     (b)  section 219QE.
+
+             (2)  A person commits an offence if the person contravenes subsection (1) or (1A).
+
+                    Penalty:  60 penalty units.
+
+#### Subdivision F—Miscellaneous
+
+##### <a id="219PA"></a>219PA  Collection, use or disclosure of personal information for financial viability purposes—the _Privacy Act 1988_
+
+                   The collection, use or disclosure of personal information about an individual is taken to be authorised by law for the purposes of the _Privacy Act 1988_ if the collection, use or disclosure is reasonably necessary for the purposes of determining whether a large long day care centre operator is financially viable, and likely to remain so.
+
+### Division 2—Weekly payments in respect of fee reduction to approved child care services
+
+##### <a id="219Q"></a>219Q  Weekly payments in respect of fee reduction
+
+             (1)  If the Secretary, under section 50Z or 50ZB, calculates the amount in which the Secretary considers fee reduction is applicable in respect of a session or sessions of care provided by an approved child care service to a child in a week, the Secretary must pay the amount calculated to the credit of a bank account nominated and maintained by the service.
+
+             (2)  If the Secretary, on recalculating under section 50ZA or 50ZC the amount in which the Secretary considers fee reduction is applicable in respect of a session or sessions of care provided by an approved child care service to a child in a week, increases the amount, the Secretary must pay to the credit of a bank account nominated and maintained by the service an amount equal to the increase.
+
+             (3)  This section is subject to:
+
+                     (a)  Part 4 (overpayments and debt recovery); and
+
+                     (b)  section 219QA (set off where amount of applicable fee reduction reduced on recalculation); and
+
+                   (ba)  section 219QD (set off where amount of applicable child care rebate reduced on recalculation); and
+
+                     (c)  section 219RC (set off where enrolment ceases or where notification of decision to cease operating service); and
+
+                    (ca)  section 219RE (set off where a payment under section 219RD is made); and
+
+                     (d)  paragraph 200(1)(h) (suspending payment in respect of fee reduction).
+
+##### <a id="219QA"></a>219QA  Payments and set offs where recalculation results in reduced fee reduction
+
+             (1)  This section applies if the Secretary, on recalculating under section 50ZA or 50ZC the amount in which the Secretary considers fee reduction is applicable in respect of a session or sessions of care provided by an approved child care service to a child in a week, reduces the amount (including to nil).
+
+             (2)  The Secretary must pay the amount (if any) as last recalculated to the credit of a bank account nominated and maintained by the service.
+
+             (3)  The amount as calculated, or recalculated, immediately before the last recalculation must be set off against one or more child care service payments that are to be made to the service (the **_first service_**) or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+##### <a id="219QB"></a>219QB  Remitting amounts that cannot be passed on
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid to an approved child care service under section 219Q or subsection 219QA(2) in relation to a session of care provided by an approved child care service to a child in a week; or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2) or section 219QA, section 219QD, section 219RC or section 219RE, or the imposition of a sanction under paragraph 200(1)(h); and
+
+                     (b)  it is not reasonably practicable for the service to pass on to the claimant or the service itself within the time required under subsection 219B(2) or 219BA(2) the fee reduction in respect of which the amount was or would have been paid;
+
+the service must immediately remit to the Secretary an amount equal to the amount that could not be passed on.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (2)  The amount must be remitted in the manner or way approved by the Secretary.
+
+             (3)  The service must notify the Secretary of the remittal of the amount.
+
+             (4)  The notice must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  include any information required by the Secretary.
+
+### Division 2A—Weekly payments in respect of child care rebate to approved child care services
+
+##### <a id="219QC"></a>219QC  Weekly payments of child care rebate
+
+             (1)  If:
+
+                     (a)  the Secretary, under section 65EAAA, calculates the amount in which the Secretary considers child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week; and
+
+                     (b)  the individual has made an election under paragraph 65EAAAA(1)(b) that is in effect for the week to have child care rebate paid weekly to the approved child care service;
+
+the Secretary must pay the amount calculated to the credit of a bank account nominated and maintained by the service.
+
+             (2)  If:
+
+                     (a)  the Secretary, on recalculating under section 65EAAD the amount in which the Secretary considers child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week, increases the amount; and
+
+                     (b)  the individual has made an election under paragraph 65EAAAA(1)(b) that is in effect for the week to have child care rebate paid weekly to the approved child care service;
+
+the Secretary must pay to the credit of a bank account nominated and maintained by the service an amount equal to the increase.
+
+Relationship with other provisions
+
+             (3)  This section is subject to:
+
+                     (a)  Part 4 (overpayments and debt recovery); and
+
+                     (b)  section 219QA (set off where amount of applicable fee reduction reduced on recalculation); and
+
+                     (c)  section 219QD (set off where amount of applicable child care rebate reduced on recalculation); and
+
+                     (d)  section 219RC (set off where enrolment ceases or where notification of decision to cease operating service); and
+
+                     (e)  section 219RE (set off where a payment under section 219RD is made); and
+
+                      (f)  paragraph 200(1)(i) (suspending payment in respect of child care rebate).
+
+##### <a id="219QD"></a>219QD  Payments and set offs where recalculation results in reduced weekly child care rebate
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary, on recalculating under section 65EAAD the amount in which the Secretary considers child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week, reduces the amount (including to nil); and
+
+                     (b)  the individual has made an election under paragraph 65EAAAA(1)(b) that is in effect for the week to have child care rebate paid weekly to the approved child care service.
+
+             (2)  The Secretary must pay the amount (if any) as last recalculated to the credit of a bank account nominated and maintained by the service.
+
+             (3)  The amount as calculated, or recalculated, immediately before the last recalculation must be set off against one or more child care service payments that are to be made to the service (the **_first service_**) or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+##### <a id="219QE"></a>219QE  Remitting amounts that cannot be passed on
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid to an approved child care service under section 219QC or subsection 219QD(2) for a week; or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2), section 219QA, section 219QD, section 219RC or section 219RE, or the imposition of a sanction under paragraph 200(1)(i); and
+
+                     (b)  it is not reasonably practicable for the service to pass on to the individual within the time required under subsection 219EA(2) the child care rebate in respect of which the amount was or would have been paid;
+
+the service must immediately remit to the Secretary an amount equal to the amount that could not be passed on.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breach of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (3)  The amount must be remitted in the manner or way approved by the Secretary.
+
+             (4)  The service must notify the Secretary of the remittal of the amount.
+
+             (5)  The notice must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  include any information required by the Secretary.
+
+### Division 3—Enrolment advances
+
+##### <a id="219R"></a>219R  Election to receive enrolment advance
+
+             (1)  An approved child care service, other than an approved occasional care service, may, when giving notice in accordance with section 219A, elect to receive the payment of an enrolment advance in relation to the enrolment.
+
+             (2)  The election must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  include any information required by the Secretary.
+
+##### <a id="219RA"></a>219RA  Payment of enrolment advance
+
+             (1)  If an approved child care service, other than an approved occasional care service:
+
+                     (a)  makes an election in accordance with section 219R in respect of an enrolment; and
+
+                     (b)  the Secretary confirms the enrolment under section 219AE;
+
+the Secretary must pay the amount of the advance to the credit of a bank account nominated and maintained by the service.
+
+Effect of notification of decision to cease operating service
+
+          (1A)  However, the Secretary may decide not to pay the advance to the service under subsection (1) if:
+
+                     (a)  before the day the Secretary proposes to pay the advance, the operator of the service notified the Secretary under subsection 219M(1) of the operator’s decision to cease operating the service; and
+
+                     (b)  before that day, the operator has not notified the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the service.
+
+          (1B)  If:
+
+                     (a)  the Secretary does not pay the advance to the service because of subsection (1A); and
+
+                     (b)  the operator of the service notifies the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the service; and
+
+                     (c)  the enrolment concerned has not ceased before that notification;
+
+the Secretary must pay the amount of the advance to the credit of a bank account nominated and maintained by the service.
+
+          (1C)  If:
+
+                     (a)  in respect of an enrolment, the Secretary sets off an amount under subsection 219RC(3) against a payment to an approved child care service; and
+
+                     (b)  after the set off, the operator of the applicable service (within the meaning of that subsection) notifies the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the service; and
+
+                     (c)  the enrolment has not ceased before that notification;
+
+then the Secretary may pay an enrolment advance (in respect of the enrolment) equal to the amount worked out in accordance with section 219RB to the credit of a bank account nominated and maintained by that applicable service.
+
+Interpretation
+
+             (2)  This section is subject to:
+
+                     (a)  Part 4 (overpayments and debt recovery); and
+
+                     (b)  section 219QA (set off where amount of applicable fee reduction reduced on recalculation); and
+
+                   (ba)  section 219QD (set off where amount of applicable child care rebate reduced on recalculation); and
+
+                     (c)  section 219RC (set off where enrolment ceases or where notification of decision to cease operating service); and
+
+                    (ca)  section 219RE (set off where a payment under section 219RD is made); and
+
+                     (d)  paragraph 200(1)(f) (withholding enrolment advances).
+
+Notice of payment
+
+             (3)  The Secretary must give the service notice of a payment under this section.
+
+             (4)  Notice of the payment must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219RB"></a>219RB  Amount of enrolment advances
+
+             (1)  The Secretary may, by legislative instrument, determine the amount of the enrolment advance that may be paid in respect of enrolments of a specified class.
+
+             (2)  Without limiting subsection (1), the Secretary may provide for the indexation of enrolment advances.
+
+##### <a id="219RC"></a>219RC  Setting off enrolment advance when enrolment ceases or decision to cease operating service is notified
+
+Enrolment ceases
+
+             (1)  If an enrolment of a child for care by an approved child care service (the **_first service_**) ceases in respect of which:
+
+                     (a)  an enrolment advance was paid; or
+
+                     (b)  an enrolment advance would have been paid but for a set off under subsection 82(2), section 219QA or section 219QD, this section or section 219RE or the imposition of a sanction under paragraph 200(1)(f);
+
+the Secretary must set off an amount equal to the amount of the enrolment advance against one or more child care service payments that are to be made to the first service or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+             (2)  Subsection (1) does not apply in relation to an enrolment advance if subsection (3) has applied in relation to the advance.
+
+Notification of decision to cease operating service
+
+             (3)  If:
+
+                     (a)  an operator of an approved child care service (the **_applicable service_**) notifies the Secretary under subsection 219M(1) of the operator’s decision to cease operating the applicable service; and
+
+                     (b)  either:
+
+                              (i)  an enrolment advance was paid to the applicable service in respect of an enrolment; or
+
+                             (ii)  an enrolment advance would have been so paid but for a set off under subsection 82(2), section 219QA section 219QD, this section or section 219RE or the imposition of a sanction under paragraph 200(1)(f); and
+
+                     (c)  subsection (1) has not applied in relation to the advance; and
+
+                     (d)  the operator has not notified the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the applicable service;
+
+the Secretary must set off an amount equal to the amount of the advance against one or more child care service payments that are to be made to the applicable service or to another approved child care service operated by the person who operates the applicable service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+### Division 4—Business continuity payments
+
+##### <a id="219RD"></a>219RD  Business continuity payments
+
+             (1)  The Secretary may determine that a payment is to be made to an approved child care service in relation to a period if:
+
+                     (a)  the service is required to give a report under subsection 219N(1) or (2) for a week in respect of one or more enrolments; and
+
+                     (b)  the service does not give the report for the week within the period applicable under subsection 219N(5); and
+
+                     (c)  the Secretary is satisfied that the failure to give the report is due to circumstances specified in a determination under subsection (2).
+
+Note:          Section 219RE deals with the setting off of payments made under this section.
+
+             (2)  The Minister must, by legislative instrument, make a determination:
+
+                     (a)  specifying circumstances for the purposes of paragraph (1)(c); and
+
+                     (b)  setting out the method of determining the amounts of payments under this section.
+
+The determination may set out any other matters relating to the making of payments under this section that the Minister thinks appropriate.
+
+             (3)  The Secretary must pay the amount of any payment under this section to the credit of a bank account nominated and maintained by the approved child care service.
+
+             (4)  The Secretary must give the approved child care service notice of the payment and of the period to which the payment relates.
+
+             (5)  Notice of the payment must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219RE"></a>219RE  Setting off business continuity payments
+
+                   If a payment is made to an approved child care service (the **_first service_**) under section 219RD, the Secretary must set off an amount equal to the payment against one or more child care service payments that are to be made to the first service or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+## Part 8B—Nominees
+
+### Division 1—Preliminary
+
+##### <a id="219TA"></a>219TA  Definitions
+
+                   In this Part:
+
+                    <a name="correspond-nomine"></a>**_correspondence nominee_** means a person who, by virtue of an appointment in force under section 219TC, is the correspondence nominee of another person.
+
+                    <a name="nomine"></a>**_nominee_** means a correspondence nominee or a payment nominee.
+
+                    <a name="payment-nomine"></a>**_payment nominee_** means a person who, by virtue of an appointment in force under section 219TB, is the payment nominee of another person.
+
+                    <a name="princip"></a>**_principal_**, in relation to a nominee, means the person in relation to whom the nominee was appointed.
+
+                    <a name="relev-benefit"></a>**_relevant benefit_** means:
+
+                     (a)  family tax benefit by instalment; or
+
+                     (b)  family tax benefit for a past period; or
+
+                     (c)  family tax benefit by single payment/in substitution because of the death of another individual; or
+
+                     (d)  baby bonus; or
+
+                     (e)  maternity immunisation allowance; or
+
+                      (f)  child care benefit by fee reduction; or
+
+                     (g)  child care benefit for a past period; or
+
+                     (h)  child care benefit by single payment/in substitution; or
+
+                   (ha)  child care rebate; or
+
+                   (hb)  single income family supplement; or
+
+                      (i)  one‑off payment to families; or
+
+                      (j)  economic security strategy payment to families; or
+
+                     (k)  back to school bonus or single income family bonus; or
+
+                      (l)  clean energy advance.
+
+### Division 2—Appointment of nominees
+
+##### <a id="219TB"></a>219TB  Appointment of payment nominee
+
+                   Subject to section 219TD, the Secretary may, in writing:
+
+                     (a)  appoint a person (including a body corporate) to be the payment nominee of another person for the purposes of the family assistance law; and
+
+                     (b)  direct that the whole or a specified part of a specified relevant benefit payable to the nominee’s principal be paid to the nominee.
+
+##### <a id="219TC"></a>219TC  Appointment of correspondence nominee
+
+                   Subject to section 219TD, the Secretary may, in writing, appoint a person (including a body corporate) to be the correspondence nominee of another person for the purposes of the family assistance law.
+
+##### <a id="219TD"></a>219TD  Provisions relating to appointments
+
+             (1)  A person may be appointed as the payment nominee and the correspondence nominee of the same person.
+
+             (2)  The Secretary must not appoint a nominee for a person (the **_proposed principal_**) under section 219TB or 219TC except:
+
+                     (a)  with the written consent of the person to be appointed; and
+
+                     (b)  after taking into consideration the wishes (if any) of the proposed principal regarding the making of such an appointment.
+
+             (3)  The Secretary must cause a copy of an appointment under section 219TB or 219TC to be given to:
+
+                     (a)  the nominee; and
+
+                     (b)  the principal.
+
+             (4)  The Secretary must not appoint a payment nominee or correspondence nominee for an approved child care service or for the operator of such a service.
+
+##### <a id="219TE"></a>219TE  Suspension and cancellation of nominee appointments
+
+             (1)  If a person who is a nominee by virtue of an appointment under section 219TB or 219TC informs the Secretary in writing that the person no longer wishes to be a nominee under that appointment, the Secretary must, as soon as practicable, cancel the appointment.
+
+             (2)  If:
+
+                     (a)  the Secretary gives a person who is a nominee a notice under section 219TJ; and
+
+                     (b)  the person informs the Department that:
+
+                              (i)  an event or change of circumstances has occurred or is likely to occur; and
+
+                             (ii)  the event or change of circumstances is likely to have an effect referred to in paragraph 219TJ(1)(b);
+
+the Secretary may suspend or cancel the appointment by virtue of which the person is a nominee.
+
+             (3)  If:
+
+                     (a)  the Secretary gives a person who is a nominee a notice under section 219TJ or 219TK; and
+
+                     (b)  the nominee does not comply with the requirement of the notice;
+
+the Secretary may suspend or cancel the appointment, or each appointment, by virtue of which the person is a nominee.
+
+             (4)  While an appointment is suspended, the appointment has no effect for the purposes of the family assistance law.
+
+             (5)  The Secretary may, at any time, cancel the suspension of an appointment under subsection (2) or (3).
+
+             (6)  The suspension or cancellation of an appointment, and the cancellation of such a suspension, must be in writing.
+
+             (7)  The cancellation of an appointment has effect on and from such day, being later than the day of the cancellation, as is specified in the cancellation.
+
+             (8)  The Secretary must cause a copy of:
+
+                     (a)  a suspension of an appointment; or
+
+                     (b)  a cancellation of an appointment; or
+
+                     (c)  a cancellation of a suspension of an appointment;
+
+to be given to:
+
+                     (d)  the nominee; and
+
+                     (e)  the principal.
+
+### Division 3—Payments to payment nominee
+
+##### <a id="219TF"></a>219TF  Payment of amounts to payment nominee
+
+             (1)  If:
+
+                     (a)  a person has a payment nominee; and
+
+                     (b)  the whole or a part of a relevant benefit is payable to the person; and
+
+                     (c)  the Secretary has given a direction in relation to the relevant benefit under section 219TB;
+
+the relevant benefit is to be paid in accordance with the direction.
+
+             (2)  An amount paid to the payment nominee of a person:
+
+                     (a)  is paid to the payment nominee on behalf of the person; and
+
+                     (b)  is taken, for the purposes of the family assistance law (other than this Part), to have been paid to the person and to have been so paid when it was paid to the nominee.
+
+             (3)  An amount that is to be paid to the payment nominee of a person must be paid to the credit of a bank account nominated and maintained by the nominee.
+
+             (4)  The Secretary may direct that the whole or a part of an amount that is to be paid to a payment nominee be paid to the payment nominee in a different way from that provided for by subsection (3). If the Secretary gives such a direction, an amount to which the direction relates is to be paid in accordance with the direction.
+
+### Division 4—Functions and responsibilities of nominees
+
+##### <a id="219TG"></a>219TG  Actions of correspondence nominee on behalf of principal
+
+             (1)  Subject to section 219TR and subsection (4), any act that may be done by a person under, or for the purposes of, the family assistance law (other than an act for the purposes of Division 2 or 3) may be done by the person’s correspondence nominee.
+
+             (2)  Without limiting subsection (1), an application or claim that may be made under the family assistance law by a person may be made by the person’s correspondence nominee on behalf of the person, and an application or claim so made is taken to be made by the person.
+
+             (3)  An act done by a person’s correspondence nominee under this section has effect, for the purposes of the family assistance law (other than this Part), as if it had been done by the person.
+
+             (4)  If, under a provision of the family assistance law, the Secretary gives a notice to a person who has a correspondence nominee, subsection (1) does not extend to an act that is required by the notice to be done by the person.
+
+##### <a id="219TH"></a>219TH  Giving of notices to correspondence nominee
+
+             (1)  Any notice that the Secretary is authorised or required by the family assistance law to give to a person may be given by the Secretary to the person’s correspondence nominee.
+
+             (2)  The notice:
+
+                     (a)  must, in every respect, be in the same form, and in the same terms, as if it were being given to the person; and
+
+                     (b)  may be given to the correspondence nominee personally or by post or in any other manner approved by the Secretary.
+
+             (3)  If:
+
+                     (a)  under subsection (1), the Secretary gives a notice (the **_nominee notice_**) to a person’s correspondence nominee; and
+
+                     (b)  the Secretary afterwards gives the person a notice that:
+
+                              (i)  is expressed to be given under the same provision of the family assistance law as the nominee notice; and
+
+                             (ii)  makes the same requirement of the person as the nominee notice;
+
+section 219TI ceases to have effect in relation to the nominee notice.
+
+             (4)  If:
+
+                     (a)  under subsection (1), the Secretary gives a notice (the **_nominee notice_**) to a person’s correspondence nominee; and
+
+                     (b)  the Secretary has already given to the person a notice that:
+
+                              (i)  is expressed to be given under the same provision of the family assistance law as the nominee notice; and
+
+                             (ii)  makes the same requirement of the person as the nominee notice;
+
+section 219TI does not have effect in relation to the nominee notice.
+
+##### <a id="219TI"></a>219TI  Compliance by correspondence nominee
+
+             (1)  In this section:
+
+                    <a name="requir"></a>**_requirement_** means a requirement, made by the Secretary under this Act, to:
+
+                     (a)  inform the Secretary of a matter; or
+
+                     (b)  give information, or produce a document, to an officer; or
+
+                     (c)  give a statement to the Secretary.
+
+             (2)  If, under section 219TH, a notice making a requirement of a person is given to the person’s correspondence nominee, the following paragraphs have effect:
+
+                     (a)  for the purposes of the family assistance law, other than this Part, the notice is taken:
+
+                              (i)  to have been given to the person; and
+
+                             (ii)  to have been so given on the day on which the notice was given to the correspondence nominee;
+
+                     (b)  any requirement made of the person may be satisfied by the correspondence nominee;
+
+                     (c)  any act done by the correspondence nominee for the purpose of satisfying a requirement of the notice has effect, for the purposes of the family assistance law (other than Division 3 of Part 6 of this Act), as if it had been done by the person;
+
+                     (d)  if the correspondence nominee fails to satisfy a requirement of the notice, the person is taken, for the purposes of the family assistance law, to have failed to comply with the requirement.
+
+             (3)  In order to avoid doubt, it is declared as follows:
+
+                     (a)  if the requirement imposes an obligation on the person to inform the Secretary of a matter, or give the Secretary a statement, within a specified period and the correspondence nominee informs the Secretary of the matter, or gives the Secretary the statement, as the case may be, within that period, the person is taken, for the purposes of the family assistance law, to have complied with the requirement set out in the notice;
+
+                     (b)  if the requirement imposes an obligation on the person to give information, or produce a document, to an officer within a specified period and the correspondence nominee gives the information, or produces the document, as the case may be, to the officer within that period, the person is taken, for the purposes of the family assistance law, to have complied with the requirement set out in the notice;
+
+                     (c)  if the requirement imposes on the person an obligation to inform the Secretary of a matter, or give the Secretary a statement, within a specified period and the correspondence nominee does not inform the Secretary of the matter, or give the Secretary the statement, as the case may be, within that period, the person is taken, for the purposes of the family assistance law, to have failed to comply with the requirement set out in the notice;
+
+                     (d)  if the requirement imposes an obligation on the person to give information, or produce a document, to an officer within a specified period and the correspondence nominee does not give the information, or produce the document, as the case may be, to the officer within that period, the person is taken, for the purposes of the family assistance law, to have failed to comply with the requirement set out in the notice.
+
+##### <a id="219TJ"></a>219TJ  Notification by nominee of matters affecting ability to act as nominee
+
+             (1)  The Secretary may give a nominee of a person a notice that requires the nominee to inform the Department if:
+
+                     (a)  either:
+
+                              (i)  an event or change of circumstances occurs; or
+
+                             (ii)  the nominee becomes aware that an event or change of circumstances is likely to occur; and
+
+                     (b)  the event or change of circumstances is likely to affect:
+
+                              (i)  the ability of the nominee to act as the payment nominee or correspondence nominee of the person, as the case may be; or
+
+                             (ii)  the ability of the Secretary to give notices to the nominee under this Act; or
+
+                            (iii)  the ability of the nominee to comply with notices given to the nominee by the Secretary under this Act.
+
+             (2)  Subject to subsection (3), a notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  may be given personally or by post or by any other means approved by the Secretary; and
+
+                     (c)  must specify how the nominee is to give the information to the Department; and
+
+                     (d)  must specify the period within which the nominee is to give the information to the Department.
+
+             (3)  A notice under subsection (1) is not ineffective merely because it fails to comply with paragraph (2)(c).
+
+             (4)  Subject to subsection (5), the period specified under paragraph (2)(d) must not end earlier than 14 days after:
+
+                     (a)  the day on which the event or change of circumstances occurs; or
+
+                     (b)  the day on which the nominee becomes aware that the event or change of circumstances is likely to occur.
+
+             (5)  If a notice requires the nominee to inform the Department of any proposal by the nominee to leave Australia, subsection (4) does not apply to that requirement.
+
+             (6)  This section extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+##### <a id="219TK"></a>219TK  Statement by payment nominee regarding disposal of money
+
+             (1)  The Secretary may give the paymentnominee of a person a notice that requires the nominee to give the Department a statement about a matter relating to the disposal by the nominee of an amount paid to the nominee on behalf of the person.
+
+             (2)  Subject to subsection (3), a notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  may be given personally or by post or by any other means approved by the Secretary; and
+
+                     (c)  must specify how the nominee is to give the statement to the Department; and
+
+                     (d)  must specify the period within which the nominee is to give the statement to the Department.
+
+             (3)  A notice under subsection (1) is not ineffective merely because it fails to comply with paragraph (2)(c).
+
+             (4)  The period specified under paragraph (2)(d) must not end earlier than 14 days after the day on which the notice is given.
+
+             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
+
+             (6)  A nominee must not refuse or fail to comply with a notice under subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (7)  Subsection (6) applies only to the extent to which the person is capable of complying with the notice.
+
+             (8)  Subsection (6) does not apply if the person has a reasonable excuse.
+
+             (9)  An offence against subsection (6) is an offence of strict liability.
+
+           (10)  This section extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+### Division 5—Other matters
+
+##### <a id="219TL"></a>219TL  Protection of person against liability for actions of nominee
+
+                   Nothing in this Part has the effect of rendering a person guilty of an offence against this Act in respect of any act or omission of the person’s correspondence nominee.
+
+##### <a id="219TM"></a>219TM  Protection of nominee against criminal liability
+
+             (1)  A nominee of a person is not subject to any criminal liability under the family assistance law in respect of:
+
+                     (a)  any act or omission of the person; or
+
+                     (b)  anything done, in good faith, by the nominee in his or her capacity as nominee.
+
+             (2)  This section has effect subject to section 219TK.
+
+##### <a id="219TN"></a>219TN  Duty of nominee to principal
+
+             (1)  It is the duty of a person who is the payment or correspondence nominee of another person at all times to act in the best interests of the principal.
+
+             (2)  A nominee does not commit a breach of the duty imposed by subsection (1) by doing an act if, when the act is done, there are reasonable grounds for believing that it is in the best interests of the principal that the act be done.
+
+             (3)  A nominee does not commit a breach of the duty imposed by subsection (1) by refraining from doing an act if, at the relevant time, there are reasonable grounds for believing that it is in the best interests of the principal that the act be not done.
+
+##### <a id="219TO"></a>219TO  Saving of Secretary’s powers of revocation
+
+                   Nothing in this Part is to be taken to be an expression of a contrary intention for the purposes of subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+##### <a id="219TP"></a>219TP  Saving of Secretary’s powers to give notices to principal
+
+                   Nothing in this Part is intended in any way to limit or affect the Secretary’s powers under other provisions of the family assistance law to give notices to, or make requirements of, a person who has a nominee.
+
+##### <a id="219TQ"></a>219TQ  Notification of nominee where notice given to principal
+
+                   If, under a provision of the family assistance law (other than a provision of this Part), the Secretary gives a notice to a person who has a correspondence nominee, the Secretary may inform the correspondence nominee of the giving of the notice and of the terms of the notice.
+
+##### <a id="219TR"></a>219TR  Right of nominee to attend with principal
+
+             (1)  If:
+
+                     (a)  under a provision of the family assistance law (other than a provision of this Part), the Secretary gives a notice to a person who has a correspondence nominee; and
+
+                     (b)  the notice requires the person:
+
+                              (i)  to attend the Department; or
+
+                             (ii)  to attend a particular place; and
+
+                     (c)  the Secretary informs the person’s correspondence nominee of the giving of the notice;
+
+the correspondence nominee may attend the Department or place, as the case may be, with the person if the person so wishes.
+
+             (2)  If a person’s correspondence nominee is a body corporate, the last reference in subsection (1) to the correspondence nominee is to be read as a reference to an officer or employee of the correspondence nominee.
+
+## Part 8C—Civil penalties
+
+### Division 1—Civil penalty orders
+
+##### <a id="219TSB"></a>219TSB  Ancillary contravention of civil penalty provision
+
+                   A person must not:
+
+                     (a)  attempt to contravene a civil penalty provision (other than this subsection); or
+
+                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision (other than this subsection); or
+
+                     (c)  induce, whether by threats or promises or otherwise, a contravention of a civil penalty provision (other than this subsection); or
+
+                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision (other than this subsection); or
+
+                     (e)  conspire with others to effect a contravention of a civil penalty provision (other than this subsection).
+
+Note:          This is a civil penalty provision. This Part provides for pecuniary penalties for breaches of civil penalty provisions.
+
+##### <a id="219TSC"></a>219TSC  Civil penalty orders
+
+             (1)  If the Federal Court of Australia or the Federal Magistrates Court is satisfied that a person has contravened a civil penalty provision, the court may, on the application of the Minister, order the person to pay to the Commonwealth such pecuniary penalty, in respect of each contravention, as the court determines to be appropriate.
+
+Note:          These proceedings before the court do not limit, nor are they affected by, other compliance measures in this Act (for example, sanctions under section 200).
+
+             (2)  An order under subsection (1) is to be known as a **_civil penalty order_**.
+
+Determining pecuniary penalty
+
+             (3)  In determining the pecuniary penalty, the court must have regard to all relevant matters, including:
+
+                     (a)  the nature and extent of the contravention; and
+
+                     (b)  the nature and extent of any loss or damage suffered as a result of the contravention; and
+
+                     (c)  the circumstances in which the contravention took place; and
+
+                     (d)  whether the person has previously been found by a court in proceedings under this Act to have engaged in any similar conduct; and
+
+                     (e)  the likely impact of the penalty on:
+
+                              (i)  the person; and
+
+                             (ii)  if the person is an approved child care service—the continued operation of the service.
+
+Civil enforcement of penalty
+
+             (4)  The pecuniary penalty is a civil debt payable to the Commonwealth.
+
+             (5)  The Commonwealth may enforce the order under subsection (1) as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgment debt.
+
+Note:          If a civil penalty order is made in relation to a person who operates an approved child care service, the Secretary may be able to take further action against the service under section 200.
+
+##### <a id="219TSD"></a>219TSD  Maximum penalties for civil penalty provisions
+
+General rule
+
+             (1)  The pecuniary penalty payable by a person, in respect of the person’s contravention of a civil penalty provision, must not exceed:
+
+                     (a)  if the person is not a body corporate—200 penalty units; or
+
+                     (b)  if the person is a body corporate—400 penalty units.
+
+Exception for certain civil penalty provisions
+
+             (2)  Subsection (1) does not apply to subsection 219L(3) or to a provision of the regulations declared to be a civil penalty provision. The pecuniary penalty payable by a person, in respect of the person’s contravention of subsection 219L(3), must not exceed:
+
+                     (a)  if the person is not a body corporate—30 penalty units; or
+
+                     (b)  if the person is a body corporate—60 penalty units.
+
+Note:          The penalties for contraventions of provisions of the regulations declared to be civil penalty provisions must not exceed 250 penalty units for bodies corporate and 50 penalty units for other persons (see subsection 235(1A)).
+
+##### <a id="219TSE"></a>219TSE  Proceedings may be heard together
+
+                   The Federal Court of Australia or the Federal Magistrates Court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
+
+##### <a id="219TSF"></a>219TSF  Time limit for application for an order
+
+                   Proceedings for a civil penalty order may be started no later than 4 years after the contravention.
+
+##### <a id="219TSG"></a>219TSG  Civil evidence and procedure rules for civil penalty orders
+
+                   The Federal Court of Australia or the Federal Magistrates Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
+
+##### <a id="219TSGA"></a>219TSGA  Conduct contravening more than one civil penalty provision
+
+             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Act against a person in relation to the contravention of any one or more of those provisions.
+
+             (2)  However, the person is not liable to more than one pecuniary penalty under this Act in respect of the same conduct.
+
+Note:          This subsection does not prevent other compliance measures under this Act (for example, sanctions under section 200) from being imposed in respect of the same conduct.
+
+##### <a id="219TSGB"></a>219TSGB  Civil proceedings after criminal proceedings
+
+                   Neither the Federal Court of Australia nor the Federal Magistrates Court may make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
+
+##### <a id="219TSGC"></a>219TSGC  Criminal proceedings during civil proceedings
+
+             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
+
+                     (a)  criminal proceedings are started or have already been started against the person for an offence; and
+
+                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise:
+
+                     (a)  the civil proceedings are dismissed; and
+
+                     (b)  costs must not be awarded in relation to the civil proceedings.
+
+##### <a id="219TSGD"></a>219TSGD  Criminal proceedings after civil proceedings
+
+                   Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person.
+
+##### <a id="219TSGE"></a>219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
+
+                   Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
+
+                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged 
