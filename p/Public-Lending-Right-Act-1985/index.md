@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00240/Html/3ffc9d99-350b-4adc-b2ef-6fbad2936c31_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00663/Html/99eec0ff-3fcd-4a8a-86ea-8ebfbc6ce0b1_files/image001.gif)
 
 # Public Lending Right Act 1985
 
 **Act No. 200 of 1985 as amended**
 
-This compilation was prepared on 14 February 2012
+This compilation was prepared on 19 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -254,13 +254,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="13"></a>13  Acting Chairperson
 
-                   The Minister may appoint a person to act as Chairperson:
+             (1)  The Minister may appoint a person to act as Chairperson:
 
                      (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of Chairperson.
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of Chairperson;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  Where a person is acting as Chairperson in circumstances referred to in paragraph (1)(b) and the office of Chairperson becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of a person to act as Chairperson ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+
+             (5)  While a person is acting as Chairperson, the person has and may exercise all the powers, and shall perform all the duties, of the Chairperson.
+
+             (6)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Chairperson; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (7)  The validity of anything done by or in relation to a person purporting to act as Chairperson shall not be called in question on the ground that the occasion for the person’s appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="14"></a>14  Acting members
 
@@ -268,11 +284,27 @@ Note:          For rules that apply to acting appointments, se
 
                      (a)  during a vacancy in the office of a member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when a member is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of member.
+                     (b)  during any period, or during all periods, when a member is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of member;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-                   (8) In this section, **_member_** does not include the Chairperson.
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  Where a person is acting as a member in circumstances referred to in paragraph (1)(b) and the office of the member becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of a person to act as a member ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+
+             (5)  While a person is acting as a member, the person has and may exercise all the powers, and shall perform all the duties, of a member.
+
+             (6)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as a member; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (7)  The validity of anything done by or in relation to a person purporting to act as a member shall not be called in question on the ground that the occasion for the person’s appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
+
+             (8)  In this section, **_member_** does not include the Chairperson.
 
 ##### <a id="15"></a>15  Disclosure of interests
 
@@ -628,7 +660,7 @@ Remainder: 24 May 2001</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 944–952) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 944–952) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -714,38 +746,6 @@ _(c)_     The _Public Lending Right Act 1985_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 16A, 16B</div>
   </td>
   <td>
@@ -768,6 +768,56 @@ _(c)_     The _Public Lending Right Act 1985_ was amended by Schedule 
     <div>am. No. 137, 2000</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 944  Subsection 13(1)
+
+Omit “(1)”.
+
+## 945  Paragraph 13(1)(b)
+
+Omit “Chairperson;”, substitute “Chairperson.”.
+
+## 946  Subsection 13(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 947  At the end of subsection 13(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 948  Subsections 13(2) to (7)
+
+Repeal the subsections.
+
+## 949  Paragraph 14(1)(b)
+
+Omit “member;”, substitute “member.”.
+
+## 950  Subsection 14(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 951  At the end of subsection 14(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 952  Subsections 14(2) to (7)
+
+Repeal the subsections.
+
+As at 19 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -815,6 +865,8 @@ _Communications and the Arts Legislation Amendment Act 2001
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
