@@ -1,34 +1,37 @@
-![](http://www.comlaw.gov.au/Details/C2009C00297/Html/JuryExemptionAct1965_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00095/Html/86C548468E41167CCA257140001F619C/$FILE/image001.gif)
 
 # Jury Exemption Act 1965
 
 **Act No. 13 of 1965 as amended**
 
-This compilation was prepared on 6 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 10 of 2001
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Certain persons not liable to serve as jurors
+[4](#4).            Certain persons not liable to serve as jurors                                        1
 
-[5](#5).            Proceedings not invalidated where exempt person serves as a juror
+[5](#5).            Proceedings not invalidated where exempt person serves as a juror   2
 
 **The Schedule** 
 
 **Notes** 
+
 
 ## An Act to exempt certain persons from liability to serve as Jurors
 
@@ -68,6 +71,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    Nothing in this Act operates so as to affect the validity of any verdict or judgment taken or given, or anything done, in proceedings in which a person who, by reason of this Act or the regulations, is not liable to serve as a juror serves as a juror.
 
+
 # The Schedule
 
 _Section 4(1)_
@@ -77,51 +81,59 @@ _Section 4(1)_
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>The Governor-General</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Members of the Federal Executive Council</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Justices of the High Court and of the courts created by the Parliament</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Senators</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Members of the House of Representatives</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Members of Fair Work Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Members and special members of the Australian Federal Police</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Members of the Defence Force other than members of the Reserves</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Members of the Reserves who are rendering continuous full time service</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>The Governor-General</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members of the Federal Executive Council</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Justices of the High Court and of the courts created by the Parliament</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Senators</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members of the House of Representatives</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members of the Australian Industrial Relations Commission</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members of the Australian Fair Pay Commission</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members and special members of the Australian Federal Police</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members of the Defence Force other than members of the Reserves</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Members of the Reserves who are rendering continuous full time service</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Notes to the _Jury Exemption Act 1965_
 
@@ -154,7 +166,8 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of Commencement</div>
@@ -164,145 +177,134 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Jury Exemption Act 1965</div>
-  </td>
-  <td>
-    <div>13, 1965</div>
-  </td>
-  <td>
-    <div>18 May 1965</div>
-  </td>
-  <td>
-    <div>17 Sept 1970 ( <i>see Gazette</i>1970, p. 5842)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>S. 116: 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: 8 Nov 1988 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 75): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>125, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 11: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 63, 94, 95): 
-19 Apr 2001 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-94, 95) \[ <i>see</i>Table A</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 40, 41, 86): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 86) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Jury Exemption Act 1965</div>
+    </td>
+    <td>
+      <div>13, 1965</div>
+    </td>
+    <td>
+      <div>18 May 1965</div>
+    </td>
+    <td>
+      <div>17 Sept 1970 ( <i>see Gazette</i>1970, p. 5842)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td>
+      <div>S. 116: 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: 8 Nov 1988 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 5 (item 75): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>125, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td>
+      <div>Schedule 11: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+    </td>
+    <td>
+      <div>10, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 63, 94, 95): 
+19 Apr 2001 <i>(d)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 
+94, 95) \[ <i>see</i>Table A 
+</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Jury Exemption Act 1965_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
 
@@ -318,114 +320,8 @@ _(c)_ The _Jury Exemption Act 1965_ was amended by Schedule 11 only of the _La
 
 _(d)_ The _Jury Exemption Act 1965_ was amended by Schedule 2 (item 63) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
 
-_(e)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 5, items 32 to 64
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      21\. Schedule 5, Part 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -450,38 +346,41 @@ _(e)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td>
-    <div>am. No. 61, 1981; No. 87, 1988; No. 125, 1999; No. 10, 2001; SLI 2006 No. 50; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Schedule</div>
+    </td>
+    <td>
+      <div>am. No. 61, 1981; No. 87, 1988; No. 125, 1999; No. 10, 2001; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -507,14 +406,7 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 
 (3)        Subitem (2) does not limit the scope of subitem (1).
 
-* * *
+ 
 
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-## Schedule 5
-
-## 86  Application of items 40 and 41
-
-Despite the amendments made by items 40 and 41 of this Schedule, the _Jury Exemption Act 1965_, as in force immediately before the commencement of those items, continues to apply, on and after that commencement, in relation to members of the Australian Industrial Relations Commission and the Australian Fair Pay Commission, as those members continue to hold office because of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, as if those amendments had not been made.
 
  
