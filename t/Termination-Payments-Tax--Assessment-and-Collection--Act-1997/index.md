@@ -1,98 +1,100 @@
-![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00539/Html/42AD687F1B9C0111CA25705F001FE630/$FILE/image001.gif)
 
 # Termination Payments Tax (Assessment and Collection) Act 1997
 
 **Act No. 73 of 1997 as amended**
 
-This compilation was prepared on 29 September 200 6
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 16 August 2005
+taking into account amendments up to Act No. 102 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Act to bind Crown
+[3](#3).            Act to bind Crown                                                                               1
 
-[4](#4).            Extension to Territories
+[4](#4).            Extension to Territories                                                                       1
 
-[5](#5).            Object of Act
+[5](#5).            Object of Act                                                                                       1
 
-[6](#6).            Outline of Act
+[6](#6).            Outline of Act                                                                                      2
 
 **Part 2—Liability to surcharge**
 
-[7](#7).            Application
+[7](#7).            Application                                                                                          3
 
-[8](#8).            Termination payments surcharge
+[8](#8).            Termination payments surcharge                                                        3
 
-[9](#9).            Surcharge payable only on part of certain termination payments
+[9](#9).            Surcharge payable only on part of certain termination payments       4
 
-[10](#10).          Surcharge threshold
+[10](#10).          Surcharge threshold                                                                              5
 
 **Part 3—Assessment and collection of surcharge**
 
-[11](#11).          Assessment of liability to pay surcharge
+[11](#11).          Assessment of liability to pay surcharge                                            7
 
-[11A](#11A).       Periods within which assessments may be amended
+[11A](#11A).       Periods within which assessments may be amended                           8
 
-[12](#12).          Amendment of assessments
+[12](#12).          Amendment of assessments                                                              11
 
-[13](#13).          Payment of general interest charge if liability increased by amended assessment
+[13](#13).          Payment of general interest charge if liability increased by amended assessment   12
 
-[14](#14).          Commissioner may use tax file numbers for the purposes of this Act
+[14](#14).          Commissioner may use tax file numbers for the purposes of this Act 13
 
-[15](#15).          Objections against assessments
+[15](#15).          Objections against assessments                                                         13
 
 **Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty**
 
-[16](#16).          Penalty for non-payment of surcharge
+[16](#16).          Penalty for non-payment of surcharge                                              14
 
-[16A](#16A).       Additional liability to pay general interest charge
+[16A](#16A).       Additional liability to pay general interest charge                             14
 
 **Part 5—Administration**
 
-[21](#21).          General administration of Act
+[21](#21).          General administration of Act                                                           16
 
-[22](#22).          Annual report
+[22](#22).          Annual report                                                                                    16
 
-[23](#23).          Secrecy
+[23](#23).          Secrecy                                                                                               16
 
 **Part 6—Miscellaneous**
 
-[24](#24).          Authorised officers
+[24](#24).          Authorised officers                                                                            20
 
-[25](#25).          Evidence
+[25](#25).          Evidence                                                                                             20
 
-[26](#26).          Access to premises etc 
+[26](#26).          Access to premises etc                                                                      21
 
-[27](#27).          Obtaining information and evidence
+[27](#27).          Obtaining information and evidence                                                  22
 
-[28](#28).          Records to be kept and retained by employer
+[28](#28).          Records to be kept and retained by employer                                   22
 
-[29](#29).          Application of the _Criminal Code_
+[29](#29).          Application of the _Criminal Code_                                                     23
 
-[30](#30).          Regulations
+[30](#30).          Regulations                                                                                        24
 
 **Part 7—Interpretation**
 
-[31](#31).          Definitions
+[31](#31).          Definitions                                                                                         25
 
 **Notes** 
 
-## An Act relating to the assessment and collection of termination payments tax, and for related purposes
+
+## An Act relating to the assesment and collection of termination payments tax, and for related purposes
 
 ## Part 1—Preliminary
 
@@ -106,13 +108,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Act to bind Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the   Northern Territory and of Norfolk Island.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
              (2)  Nothing in this Act permits the Crown to be prosecuted for an offence.
 
 ##### <a id="4"></a>4  Extension to Territories
 
-                   This Act extends to Norfolk Island, the Territory  of Cocos (Keeling) Islands and the Territory of Christmas Island.
+                   This Act extends to Norfolk Island, the Territory of Cocos (Keeling) Islands and the Territory of Christmas Island.
 
 ##### <a id="5"></a>5  Object of Act
 
@@ -122,55 +124,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     If any termination payments have been or are made to or for a taxpayer after 7.30 pm on 20 August 1996 and before 1 July 2005, the Commissioner will calculate the taxpayer’s adjusted taxable income for the financial year in which the payments were or are made.</li>
 
-any termination payments have been or are made to or for a taxpayer after 7.30 pm on  20 August 1996 and before 1 July 2005, the Commissioner will
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     If the amount calculated is greater than the surcharge threshold, the Commissioner will calculate the rate of surcharge and assess the amount of surcharge payable by the taxpayer on the payments. Only part of certain employment-related termination payments is subject to the surcharge.</li>
 
-calculate the taxpayer’s adjusted taxable income for the financial year in
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     If, after the assessment of surcharge, the taxpayer’s adjusted taxable income is found to be different from the amount that was previously calculated or the termination payments are found to be different from the amount on which the assessment was based, the Commissioner may amend the assessment.</li>
 
-which the payments were or are made.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     If liability for surcharge is increased as a result of an amendment of an assessment, the general interest charge is payable on the additional surcharge.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">·      A taxpayer may object against an assessment of surcharge in the way set out in Part IVC of the _Taxation Administration Act 1953_ for objecting against assessment of income tax.</li>
 
-the amount calculated is greater than the surcharge threshold, the Commissioner
-
-will calculate the rate of surcharge and assess the amount of surcharge payable
-
-by the taxpayer on the payments. Only part of certain employment-related
-
-termination payments is subject to the surcharge.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     If,
-
-after the assessment of surcharge, the taxpayer’s adjusted taxable income is found
-
-to be different from the amount that was previously calculated or the
-
-termination payments are found to be different from the amount on which the
-
-assessment was based, the Commissioner may amend the assessment.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     If
-
-liability for surcharge is increased as a result of an amendment of an
-
-assessment, the general interest charge is payable on the additional surcharge.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">·      A
-
-taxpayer may object against an assessment of surcharge in the way set out in
-
-Part IVC of the _Taxation Administration Act 1953_ for objecting
-
-against assessment of income tax.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     A
-
-late payment penalty applies if surcharge is not paid on time.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     A late payment penalty applies if surcharge is not paid on time.</li></div>
 
 ## Part 2—Liability to surcharge
 
@@ -218,11 +184,11 @@ Taxpayer liable for surcharge
 
              (2)  In the case of a termination payment made at or before 7.30 pm by legal time in the Australian Capital Territory on 22 May 2001, surcharge is payable only on the part of the termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00539/Html/42AD687F1B9C0111CA25705F001FE630/$FILE/image002.gif)
 
              (3)  In the case of a termination payment made after 7.30 pm by legal time in the Australian Capital Territory on 22 May 2001, surcharge is payable only on the part of the termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00539/Html/42AD687F1B9C0111CA25705F001FE630/$FILE/image003.gif)
 
              (4)  For the purposes of this section:
 
@@ -242,7 +208,7 @@ Surcharge threshold for later financial year
 
              (2)  The **_surcharge threshold_** for a later financial year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00539/Html/42AD687F1B9C0111CA25705F001FE630/$FILE/image004.gif)
 
 where:
 
@@ -262,7 +228,7 @@ Indexation factor
 
              (4)  The **_indexation factor_** for a financial year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00539/Html/42AD687F1B9C0111CA25705F001FE630/$FILE/image005.gif)
 
 where:
 
@@ -462,7 +428,7 @@ Liability to pay general interest charge
 
                      (b)  finishes at the end of the day before the amended assessment is made.
 
-Note:          The general interest charge is worked out under Part IIA of the _Taxation Administration Act 1953_.
+Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
 Amendment of nil assessment
 
@@ -496,7 +462,7 @@ Liability to pay general interest charge
 
              (1)  If an amount of surcharge payable by a taxpayer remains unpaid after the time by which it is due to be paid, the taxpayer is liable to pay the general interest charge on the unpaid amount.
 
-Note:          The general interest charge is worked out under Part IIA of the _Taxation Administration Act 1953_.
+Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
 General interest charge period
 
@@ -524,7 +490,7 @@ Liability to general interest charge
 
              (2)  If any of the primary general interest charge remains unpaid after the day specified in the notice, the person is liable to pay general interest charge on the unpaid amount.
 
-Note:          The general interest charge is worked out under Part IIA of the _Taxation Administration Act 1953_.
+Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
 General interest charge period
 
@@ -772,7 +738,7 @@ Note 3:       In a prosecution for an offence against subsection (
 
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of Taxation.
 
-                    <a name="gener-interest-charg"></a>**_general interest charge_** means the charge worked out under Part IIA of the _Taxation Administration Act 1953_.
+                    <a name="gener-interest-charg"></a>**_general interest charge_** means the charge worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
                     <a name="incom-tax-assess-act"></a>**_Income Tax Assessment Act_** means the _Income Tax Assessment Act 1936_.
 
@@ -794,13 +760,14 @@ Note 3:       In a prosecution for an offence against subsection (
 
                     <a name="1996-97-financi-year"></a>**_the 1996-97 financial year_** means the financial year that started on 1 July 1996.
 
+
 # Notes to the _Termination Payments Tax (Assessment and Collection) Act 1997_
 
 ### Note 1
 
 The _Termination Payments Tax (Assessment and Collection) Act 1997_ as shown in this compilation comprises Act No. 73, 1997 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -820,11 +787,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -834,297 +803,283 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Termination Payments Tax (Assessment and Collection) Act 1997</div>
-  </td>
-  <td>
-    <div>73, 1997</div>
-  </td>
-  <td>
-    <div>5 June 1997</div>
-  </td>
-  <td>
-    <div>5 June 1997</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1997</div>
-  </td>
-  <td>
-    <div>147, 1997</div>
-  </td>
-  <td>
-    <div>14 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 44): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>131, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 6: 14 Oct 1997 <i>(aa)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>191, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 9: 5 June 1997 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1999</div>
-  </td>
-  <td>
-    <div>11, 1999</div>
-  </td>
-  <td>
-    <div>31 Mar 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 376–392): 1 July 1999 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>¾</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>44, 1999</div>
-  </td>
-  <td>
-    <div>17 June 1999</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 229–231): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>160, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 21): Royal Assent 
-Remainder: 18 Jan 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>131, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3: Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 7)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 932–934): ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>179, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 108–110, 130, 132): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 130, 132)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>44, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 69): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act (No. 2) 2000</div>
-  </td>
-  <td>
-    <div>91, 2000</div>
-  </td>
-  <td>
-    <div>30 June 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 124, 129): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 129)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Contributions Taxes and Termination Payments Tax Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>96, 2001</div>
-  </td>
-  <td>
-    <div>15 Aug 2001</div>
-  </td>
-  <td>
-    <div>Schedule 3: 5 June 1997 <i>(j)</i></div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 4, 5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Laws Amendment (Abolition of Surcharge) Act 2005</div>
-  </td>
-  <td>
-    <div>102, 2005</div>
-  </td>
-  <td>
-    <div>12 Aug 2005</div>
-  </td>
-  <td>
-    <div>12 Aug 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1017, 1060–1063) and Schedule 6 (items 1, 6–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 1, 
- 6–11)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Termination Payments Tax (Assessment and Collection) Act 1997</div>
+    </td>
+    <td>
+      <div>73, 1997</div>
+    </td>
+    <td>
+      <div>5 June 1997</div>
+    </td>
+    <td>
+      <div>5 June 1997</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1997</div>
+    </td>
+    <td>
+      <div>147, 1997</div>
+    </td>
+    <td>
+      <div>14 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 44): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>131, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td>
+      <div>Schedule 6: 14 Oct 1997 <i>(aa)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>191, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td>
+      <div>Schedule 9: 5 June 1997 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1999</div>
+    </td>
+    <td>
+      <div>11, 1999</div>
+    </td>
+    <td>
+      <div>31 Mar 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 376–392): 1 July 1999 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>¾</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>44, 1999</div>
+    </td>
+    <td>
+      <div>17 June 1999</div>
+    </td>
+    <td>
+      <div>Schedule 7 (items 229–231): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>160, 2000</div>
+    </td>
+    <td>
+      <div>21 Dec 2000</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>131, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td>
+      <div>Schedule 3: Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>Sch. 3 (item 7)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 932–934): ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Tax Administration) Act 1999</div>
+    </td>
+    <td>
+      <div>179, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 108–110, 130, 132): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 130, 132)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>44, 2000</div>
+    </td>
+    <td>
+      <div>3 May 2000</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 69): <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Tax Administration) Act (No. 2) 2000</div>
+    </td>
+    <td>
+      <div>91, 2000</div>
+    </td>
+    <td>
+      <div>30 June 2000</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 124, 129): <i>(i)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 129)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Contributions Taxes and Termination Payments Tax Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>96, 2001</div>
+    </td>
+    <td>
+      <div>15 Aug 2001</div>
+    </td>
+    <td>
+      <div>Schedule 3: 5 June 1997 <i>(j)</i></div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 4, 5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Laws Amendment (Abolition of Surcharge) Act 2005</div>
+    </td>
+    <td>
+      <div>102, 2005</div>
+    </td>
+    <td>
+      <div>12 Aug 2005</div>
+    </td>
+    <td>
+      <div>12 Aug 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Termination Payments Tax (Assessment and Collection) Act 1997_ was amended by Schedule 1 (Item 44) only of the _Taxation Laws Amendment Act (No. 3) 1997_, subsection 2(1) of which provides as follows:
 
@@ -1182,6 +1137,7 @@ _(j)_      The _Termination Payments Tax (Assessment and Collection) A
 
                  (4)   Schedule 3 is taken to have commenced on 5 June 1997, immediately after the commencement of the _Termination Payments Tax (Assessment and Collection) Act 1997_.
 
+
 ## Table of Amendments
 
 <table>
@@ -1205,342 +1161,321 @@ _(j)_      The _Termination Payments Tax (Assessment and Collection) A
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. Nos. 11 and 131, 1999; No. 102, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 147, 1997 (as am. by No. 131, 1999); No. 102, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 102, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 131, 1999; No. 102, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 191, 1997; No. 131, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rs. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 13(1)</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 191, 1997; No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16(1)</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16A(2)</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rep. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rep. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No.146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 23(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 191, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 23(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 191, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 191, 1997; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 91, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 191, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 191, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 11 and 44, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 191, 1997; Nos. 11, 131 and 146, 1999; No. 101\. 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. Nos. 11 and 131, 1999; No. 102, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 147, 1997 (as am. by No. 131, 1999); No. 102, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 96, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rs. No. 96, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 102, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 131, 1999; No. 102, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 11(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 44, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 131, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 191, 1997; No. 131, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>rs. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 4</div>
+    </td>
+    <td>
+      <div>rs. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 191, 1997; No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16A</div>
+    </td>
+    <td>
+      <div>ad. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 179, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 18</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 179, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 179, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>rep. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>rep. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No.146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 1 to s. 23(2)</div>
+    </td>
+    <td>
+      <div>rs. No. 191, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 23(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 191, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 191, 1997; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 91, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 191, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A</div>
+    </td>
+    <td>
+      <div>ad. No. 191, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 11 and 44, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 179, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 191, 1997; Nos. 11, 131 and 146, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1554,7 +1489,9 @@ _Superannuation Contributions and Termination Payments Taxes Legislation Amendme
 
 The amendments made by items 2 to 6 apply to assessments of surcharge payable for the financial year beginning on 1 July 1999 and later financial years.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _A New Tax System (Tax Administration) Act 1999 (No. 179, 1999)_
 
@@ -1598,137 +1535,139 @@ Despite its repeal, a provision listed in the table continues to have effect in 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>
-      <i>Fringe Benefits Tax Assessment Act 1986</i>
-    </div>
-  </td>
-  <td>
-    <div>section 94</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>
-      <i>Petroleum Resource Rent Tax Assessment Act 1987</i>
-    </div>
-  </td>
-  <td>
-    <div>section 86</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>
-      <i>Sales Tax Assessment Act 1992</i>
-    </div>
-  </td>
-  <td>
-    <div>section 69</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>
-      <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>section 26 or 27</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>
-      <i>Superannuation Contributions Tax (Members of Constitutionally Protected
-        Superannuation Funds) Assessment and Collection Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>section 22 or 23</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>
-      <i>Superannuation Guarantee (Administration) Act 1992</i>
-    </div>
-  </td>
-  <td>
-    <div>section 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>
-      <i>Termination Payments Tax (Assessment and Collection) Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>section 17 or 18</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>
-      <i>Taxation Administration Act 1953</i>
-    </div>
-  </td>
-  <td>
-    <div>subsection 8AAV(1) or (2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>
-      <i>Tobacco Charges Assessment Act 1955</i>
-    </div>
-  </td>
-  <td>
-    <div>section 21</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>
-      <i>Wool Tax (Administration) Act 1964</i>
-    </div>
-  </td>
-  <td>
-    <div>section 44</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>
+        <i>Fringe Benefits Tax Assessment Act 1986</i>
+      </div>
+    </td>
+    <td>
+      <div>section 94</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>
+        <i>Petroleum Resource Rent Tax Assessment Act 1987</i>
+      </div>
+    </td>
+    <td>
+      <div>section 86</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>
+        <i>Sales Tax Assessment Act 1992</i>
+      </div>
+    </td>
+    <td>
+      <div>section 69</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>
+        <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
+      </div>
+    </td>
+    <td>
+      <div>section 26 or 27</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>
+        <i>Superannuation Contributions Tax (Members of Constitutionally Protected
+          Superannuation Funds) Assessment and Collection Act 1997</i>
+      </div>
+    </td>
+    <td>
+      <div>section 22 or 23</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>
+        <i>Superannuation Guarantee (Administration) Act 1992</i>
+      </div>
+    </td>
+    <td>
+      <div>section 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>
+        <i>Termination Payments Tax (Assessment and Collection) Act 1997</i>
+      </div>
+    </td>
+    <td>
+      <div>section 17 or 18</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>
+        <i>Taxation Administration Act 1953</i>
+      </div>
+    </td>
+    <td>
+      <div>subsection 8AAV(1) or (2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>
+        <i>Tobacco Charges Assessment Act 1955</i>
+      </div>
+    </td>
+    <td>
+      <div>section 21</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>
+        <i>Wool Tax (Administration) Act 1964</i>
+      </div>
+    </td>
+    <td>
+      <div>section 44</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 132  Collecting amounts from third parties
 
@@ -1771,113 +1710,117 @@ Despite the repeal of a provision listed in the table:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>
-      <i>Fringe Benefits Tax Assessment Act 1986</i>
-    </div>
-  </td>
-  <td>
-    <div>section 99</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>
-      <i>Petroleum Resource Rent Tax Assessment Act 1987</i>
-    </div>
-  </td>
-  <td>
-    <div>section 91</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>
-      <i>Sales Tax Assessment Act 1992</i>
-    </div>
-  </td>
-  <td>
-    <div>section 74</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>
-      <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>section 40A</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>
-      <i>Superannuation Contributions Tax (Members of Constitutionally Protected
-        Superannuation Funds) Assessment and Collection Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>section 35</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>
-      <i>Superannuation Guarantee (Administration) Act 1992</i>
-    </div>
-  </td>
-  <td>
-    <div>section 56</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>
-      <i>Termination Payments Tax (Assessment and Collection) Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>section 28A</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>
-      <i>Wool Tax (Administration) Act 1964</i>
-    </div>
-  </td>
-  <td>
-    <div>section 54</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>
+        <i>Fringe Benefits Tax Assessment Act 1986</i>
+      </div>
+    </td>
+    <td>
+      <div>section 99</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>
+        <i>Petroleum Resource Rent Tax Assessment Act 1987</i>
+      </div>
+    </td>
+    <td>
+      <div>section 91</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>
+        <i>Sales Tax Assessment Act 1992</i>
+      </div>
+    </td>
+    <td>
+      <div>section 74</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>
+        <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
+      </div>
+    </td>
+    <td>
+      <div>section 40A</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>
+        <i>Superannuation Contributions Tax (Members of Constitutionally Protected
+          Superannuation Funds) Assessment and Collection Act 1997</i>
+      </div>
+    </td>
+    <td>
+      <div>section 35</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>
+        <i>Superannuation Guarantee (Administration) Act 1992</i>
+      </div>
+    </td>
+    <td>
+      <div>section 56</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>
+        <i>Termination Payments Tax (Assessment and Collection) Act 1997</i>
+      </div>
+    </td>
+    <td>
+      <div>section 28A</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>
+        <i>Wool Tax (Administration) Act 1964</i>
+      </div>
+    </td>
+    <td>
+      <div>section 54</div>
+    </td>
+  </tr>
+</tbody></table>
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _A New Tax System (Tax Administration) Act (No. 2) 2000 (No. 91, 2000)_
 
@@ -1887,7 +1830,9 @@ _A New Tax System (Tax Administration) Act (No. 2) 2000 (No. 91, 2000)_
 
 Although the _A New Tax System (Pay As You Go) Act 1999_ repealed subsection 8AAZL(3) of the _Taxation Administration Act 1953_, special priority credits referred to in that subsection are to continue to be applied in accordance with that subsection.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation Contributions Taxes and Termination Payments Tax Legislation Amendment Act 2001 (No. 96, 2001)_
 
@@ -1901,84 +1846,8 @@ The amendments made by this Schedule apply only to payments made after 7.30 pm b
 
 Nothing in the _Termination Payments Tax (Assessment and Collection) Act 1997_ prevents the amendment of an assessment of surcharge on termination payments made to or for a taxpayer for a financial year for the purpose of giving effect to an amendment of that Act made by this Schedule or Schedule 1 if the Commissioner has sufficient information to satisfy himself or herself that the amendment is required or permitted for that purpose and the amendment does not increase the amount of surcharge payable in respect of those termination payments.
 
-* * *
+ 
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 1  Application of Schedule 1 and 2 amendments
-
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
-
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
-
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
 
