@@ -1,50 +1,48 @@
 
 Defence (Visiting Forces) Act 1963
 Act No. 81 of 1963 as amended
-Consolidated as in force on 4 June 1999
-(includes amendments up to Act No. 7, 1999)
-This Act has uncommenced provisions and amendments For uncommenced provisions and amendments see the endnotes.
-Prepared by the Office of Legislative Drafting  Attorney General’s Department, Canberra
-Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-4	Repeal	1
-5	Interpretation	1
-6	Countries in relation to which provisions of this Act apply or may be applied	4
-7	Extension of Act to Territories	4
-Part II—Visiting Forces	5
-8	Exercise of powers by service tribunals and authorities of countries sending visiting forces	5
-9	Restriction, with respect to certain offences, of trial by courts of offenders connected with visiting force	6
-10	Waiver of jurisdiction otherwise exercisable by a court	9
-11	Courts not to try offenders tried by service tribunals of visiting forces	9
-12	Arrest, custody etc. of offenders against Australian law	10
-13	Restriction of proceedings in respect of service of members etc. of visiting force	11
-14	Inquests	11
-15	Imprisonment etc. of persons sentenced by service tribunals	13
-16	Application to visiting forces of law relating to Defence Force	13
-17	Settlement of claims against visiting forces	16
-18	Evidence for the purposes of this Part	16
-Part V—Miscellaneous	18
-27	Proof of facts by certificate	18
-28	 Delegation of powers and functions [see Note 2]	19
-29	Orders	20
-30	Regulations	20
-The Schedule—Offences Against The Person	21
-Offences Against Property	21
-General	21
-Notes 		23
-An Act to make provision with respect to Naval, Military and Air Forces of other countries visiting Australia, and for other purposes
+Consolidated as in force on 15 January 1998
+(includes amendments up to Act No. 1 of 1997)
+Prepared by the Office of Legislative Drafting,  Attorney-General’s Department, CanberraContents
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+4	Repeal	
+5	Interpretation	
+6	Countries in relation to which provisions of this Act apply or may be applied	
+7	Extension of Act to Territories	
+Part II—Visiting Forces	
+8	Exercise of powers by service tribunals and authorities of countries sending visiting forces	
+9	Restriction, with respect to certain offences, of trial by courts of offenders connected with visiting force	
+10	Waiver of jurisdiction otherwise exercisable by a court	
+11	Courts not to try offenders tried by service tribunals of visiting forces	
+12	Arrest, custody etc. of offenders against Australian law	
+13	Restriction of proceedings in respect of service of members etc. of visiting force	
+14	Inquests	
+15	Imprisonment etc. of persons sentenced by service tribunals	
+16	Application to visiting forces of law relating to Defence Force	
+17	Settlement of claims against visiting forces	
+18	Evidence for the purposes of this Part	
+Part V—Miscellaneous	
+27	Proof of facts by certificate	
+28	Delegation of powers and functions	
+29	Orders	
+30	Regulations	
+The Schedule—Offences Against The Person	
+Offences	Property	
+General		
+
+An	to make provision with respect to Naval, Military and Air Forces of other countries visiting Australia, and for other purposes
 Do not delete : Chapter placeholder
 Do not delete : Chapter placeholder
 Part I—Preliminary
 Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Defence (Visiting Forces) Act 1963.
+This Act may be cited as the Defence (Visiting Forces) Act 1963.
 2  Commencement [see Note 1]
-		This Act shall come into operation on a date to be fixed by Proclamation.
+This Act shall come into operation on a date to be fixed by Proclamation.
 4  Repeal
-		The Defence (Visiting Forces) Act 1939 is repealed.
+The Defence (Visiting Forces) Act 1939  is repealed.
 5  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
 Australia includes the Territories.
@@ -58,7 +56,7 @@ forces in relation to a country, means the naval, military or air forces of that
 service authorities, in relation to a country, means the naval, military or air force authorities of that country.
 service law, in relation to a country, means the law (including any instrument having the force of law) governing all or any of the forces of that country.
 service tribunal, in relation to a country or a visiting force, means a court-martial or other like tribunal established under the service law of that country or of the country sending the visiting force, as the case requires, and includes any authority of that country who or which, by or under the law of that country, is empowered to review the proceedings of such a tribunal or to try or investigate charges brought against persons subject to the service law of that country.
-the Defence Force has the same meaning as in the Defence Act 1903-1956.
+the Defence Force has the same meaning as in the Defence Act 1903-1956.
 the sending country, in relation to a visiting force, means the country to whose forces the visiting force belongs.
 visiting force means any body, contingent or detachment of the forces of a country that is for the time being present in Australia.
 	(2)	A reference in this Act to a member of a visiting force shall be read as a reference to a person who, in accordance with the law of the country to which the visiting force belongs, is serving as a member of the visiting force.
@@ -84,7 +82,7 @@ but does not include a dependant of a member of that visiting force or of a pers
 	(b)	any other country declared under this section to be a country in relation to which that provision has effect.
 	(2)	Where it appears to the Governor-General that it is expedient that any of the provisions of this Act should have effect in relation to a country other than a country referred to in paragraph (a) of the last preceding subsection, the regulations may declare that country to be a country in relation to which such provisions of this Act as are specified in the regulations have effect.
 7  Extension of Act to Territories
-		This Act extends to every Territory.
+This Act extends to every Territory.
 Part II—Visiting Forces
 Do not delete : Division placeholder
 8  Exercise of powers by service tribunals and authorities of countries sending visiting forces
@@ -124,7 +122,7 @@ shall, for the purposes of any proceedings in a court, be deemed to be in lawful
 	(1)	Where:
 	(a)	a service tribunal of a country in relation to which this section applies has jurisdiction to try a person alleged to have committed an offence against the law of Australia or of a State or Territory; and
 	(b)	the jurisdiction of a court with respect to the alleged offence is not excluded by virtue of the last preceding section;
-the designated authority of that country may request the Attorney‑General that jurisdiction be not exercised by a court with respect to the alleged offence and, if the Attorney-General agrees to that request, he shall, by writing under his hand, notify the appropriate authority of Australia or of a State or Territory, as the case requires, that it is not desirable that the case should be dealt with by a court.
+the designated authority of that country may request the Attorney-General that jurisdiction be not exercised by a court with respect to the alleged offence and, if the Attorney-General agrees to that request, he shall, by writing under his hand, notify the appropriate authority of Australia or of a State or Territory, as the case requires, that it is not desirable that the case should be dealt with by a court.
 	(2)	Upon the Attorney-General notifying an appropriate authority under the last preceding subsection, the provisions of the last preceding section shall be deemed to apply as if the alleged offence were an offence described in subsection (1) of that section.
 11  Courts not to try offenders tried by service tribunals of visiting forces
 	(1)	Where a person has been tried for an offence by a service tribunal of a country in relation to which section 8 applies in the exercise of the powers referred to in subsection (1) of that section, he shall not be tried by a court for an offence that is substantially the same offence.
@@ -143,7 +141,7 @@ the designated authority of that country may request the Attorney‑General that
 	(ii)	requests that that person be so delivered;
 the court shall revoke the order and shall order that that person be so delivered.
 13  Restriction of proceedings in respect of service of members etc. of visiting force
-		Proceedings shall not be brought in any court with respect to:
+Proceedings shall not be brought in any court with respect to:
 	(a)	the pay of a person in respect of his service as a member of a visiting force or of a civilian component of a visiting force;
 	(b)	the terms of a person’s service as a member of a visiting force or of a civilian component of a visiting force; or
 	(c)	a person’s discharge from the service of a visiting force or of a civilian component of a visiting force.
@@ -160,7 +158,7 @@ the coroner shall adjourn the inquest and, where a jury has been summoned, shall
 	(a)	taking evidence of the identity of the deceased person and of the place and date of his death;
 	(b)	furnishing information to the appropriate authority of the State or Territory concerned for the purpose of registration of the death; or
 	(c)	authorizing the burial, cremation or other disposal of the body of the deceased person.
-	(4)	Notwithstanding the preceding provisions of this section, the Attorney-General may notify the appropriate authority of the State or Territory concerned that there are no circumstances connected with the operation of this Act that make it undesirable that an inquest into the manner and cause of a specified death should be held or continued, as the case may be, and, if the Attorney-General gives such a notification, the inquest may be held or resumed, as the case requires, and in the case of resumption proceed as if it were commenced for the first time.
+	 (4)	Notwithstanding the preceding provisions of this section, the Attorney-General may notify the appropriate authority of the State or Territory concerned that there are no circumstances connected with the operation of this Act that make it undesirable that an inquest into the manner and cause of a specified death should be held or continued, as the case may be, and, if the Attorney-General gives such a notification, the inquest may be held or resumed, as the case requires, and in the case of resumption proceed as if it were commenced for the first time.
 	(5)	Where an inquest is held or resumed as provided by the last preceding subsection, it is not obligatory that the coroner shall view the body of the deceased person.
 	(6)	A law in force in any part of Australia that imposes restrictions upon the removal out of Australia, or a part of Australia, of the body of a deceased person does not apply to or in relation to the body of a deceased person who at the time of his death had a relevant association with a visiting force, and the body of such a deceased person may be disposed of as the Attorney-General, having regard to any request by the designated authority of the country concerned, determines.
 	(7)	In this section, the expression homicide includes murder, manslaughter and infanticide and any other offence under the law of the country concerned that is substantially similar to any of those offences.
@@ -213,22 +211,23 @@ Do not delete : Division placeholder
 	(3)	Where in a certificate given for the purposes of this Act reference is made to a person by name and that certificate includes a description of the person named by reference to his physical characteristics and a court is satisfied that a person before it is a person having that name and answering to the description in the certificate, the certificate shall be deemed to refer to that person, unless the contrary is proved.
 	(4)	A document purporting to be a certificate, request or notification given or made for the purposes of a provision of this Act, and to be signed by an authority or person specified in the document, shall, upon its production in any proceedings in a court, be received in evidence and shall, unless the contrary is proved, be deemed to be a certificate, request or notification given or made by that authority or person.
 	(5)	Where under a provision of this Act a certificate, request or notification is required or permitted to be given or made by the designated authority of a country, and a certificate, request or notification purports to be signed by a person described in that document as the designated authority of a country, that person shall, in any proceedings in a court, be deemed to be the designated authority of that country for the purposes of that provision, unless the contrary is proved.
-28   Delegation of powers and functions [see Note 2]
-	(1)	Subject to the next succeeding subsection, the Attorney-General may, in relation to a matter or class of matters, or to a State, Territory or other part of Australia, by writing under his hand, delegate all or any of his powers and functions under this Act, except this power of delegatio
+28   Delegation of powers and functions
+	(1)	Subject to the next succeeding subsection, the Attorney-General may, in relation to a matter or class of matters, or to a State, Territory or other part of Australia, by writing under his hand, delegate all or any of his powers and functions under this Act, except this power of delegation.
 	(2)	The Attorney-General shall not delegate any of his powers and functions in relation to a State except to the Secretary to the Attorney-General’s Department or to a person authorized under subsection 55E(4) of the Judiciary Act 1903.
 	(3)	Subject to subsection (4), the Chief of the Defence Force or a service chief may, in relation to a matter or class of matters, or to a State, Territory, or other part of Australia, another country or part of another country, by writing signed by him, delegate to an officer who holds a rank not below the rank of Captain in the Australian Navy, Colonel in the Australian Army or Group Captain in the Australian Air Force all or any of his powers or functions under this Act, other than this power of delegation.
 	(4)	The Chief of the Defence Force or a service chief shall not delegate his power to make general orders for the purposes of subsection (7) of section 8 except to an officer who holds a rank not below the rank of Rear-Admiral in the Australian Navy, Major-General in the Australian Army or Air Vice-Marshal in the Australian Air Force.
 	(5)	A power or function delegated under this section may be exercised or performed by the delegate in accordance with the instrument of delegation.
 	(6)	A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Attorney-General or the Chief of the Defence Force or a service chief, as the case may be.
-	(7)	A delegation under this section continues in force notwithstanding a change in the occupancy or a vacancy in the office of Attorney‑General, of Chief of the Defence Force or of service chief.
+	(7)	A delegation under this section continues in force notwithstanding a change in the occupancy or a vacancy in the office of Attorney-General, of Chief of the Defence Force or of service chief.
 	(8)	A document purporting to be a copy of:
 	(a)	a delegation signed by the Attorney-General or a written authority signed by the Attorney-General or a delegate of the Attorney-General; or
 	(b)	a delegation by the Chief of the Defence Force or a service chief, or an order or written authority made or given by the Chief of the Defence Force or a service chief or by a delegate of the Chief of the Defence Force or a service chief, and bearing the signature or a facsimile of the signature of the Chief of the Defence Force or the service chief or of the delegate, as the case may be;
 with an endorsement in writing that the delegation, order or written authority is, or was on a specified date, in force, is, upon its production in a court or otherwise for any purpose arising under this Act, without proof of the signature on the document or of the authority to give or make the delegation, order, written authority or endorsement, sufficient evidence, unless the contrary is proved, that the delegation, order or written authority was duly given or made in the terms set out in the document and is, or was on the date specified, in force.
 29  Orders
-		Orders made in pursuance of a provision of this Act shall be deemed not to be statutory rules within the meaning of the Rules Publication Act 1903-1939.
+Orders made in pursuance of a provision of this Act shall be deemed not to be statutory rules within the meaning of the Rules Publication Act 1903-1939.
 30  Regulations
-		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect  to this Act.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect  to this Act.
+
 The Schedule—Offences Against The Person
 Section 9 
 	1.	For the purposes of section 9, the expression offence against the person means any offence that is punishable under the law of Australia or of a State or Territory and an essential element of which is an act or omission that causes, or tends to cause, death, danger to life, bodily harm or apprehension of harm.
@@ -237,8 +236,9 @@ Offences Against Property
 	3.	For the purposes of section 9, the expression offence against property includes, without prejudice to the generality of the expression, burglary, housebreaking, stealing, larceny, embezzlement, any form of wrongful taking or appropriation of property, obtaining property by extortion, fraud or false pretences, and any form of malicious damage to property, as provided by the law in force in that part of Australia in which the offence is committed.
 General
 	4.	A reference in the preceding paragraphs of this Schedule to a particular offence shall be read as including a reference to any offence (by whatever name called or however described in the law of Australia or of the State or Territory concerned) that is substantially similar to that offence.
-Notes to the Defence (Visiting Forces) Act 1963
-The Defence (Visiting Forces) Act 1963 as shown in this consolidation comprises Act No. 81, 1963 amended as indicated in the Tables below.
+
+NOTE
+1.	The Defence (Visiting Forces) Act 1963  as shown in this reprint comprises Act No. 81, 1963 amended as indicated in the Tables below.
 Table of Acts
 
 Act
@@ -247,68 +247,63 @@ Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
 
+
 Defence (Visiting Forces) Act 1963
 81, 1963
 31 Oct 1963
-15 Dec 1963 (see Gazette 1963, p. 4577)
+15 Dec 1963 (see Gazette  1963,  p. 4577)
 
 Statute Law Revision Act 1973
 216, 1973
 19 Dec 1973
-31 Dec 1973
+ 31 Dec 1973
 Ss. 9(1) and 10
 Defence Force  Re-organization Act 1975
 96, 1975
 9 Sept 1975
-Ss. 103-110: 9 Feb 1976 (see Gazette 1975, No. G42, p. 2) (a)
+Ss. 103-110: 9 Feb 1976 (see Gazette  1975, No. G42,  p. 2) (a)
 Ss. 105(2), 106(2), 107(2), (3), 108(2), (3) and 109(2)
 Australian Federal Police (Consequential Amendments) Act 1979
 155, 1979
  28 Nov 1979
-19 Oct 1979 (see s. 2 and Gazette 1979, No. S206)
+19 Oct 1979 (see  s. 2 and Gazette  1979, No. S206)
 —
 Australian Federal Police (Consequential Amendments) Act 1980
 70, 1980
  28 May 1980
-28 May 1980
+ 28 May 1980
 —
 Defence Acts Amendment Act 1981
 178, 1981
 8 Dec 1981
-S. 6(2): 30 Sept 1983 (see s. 2(2) and Gazette 1983, No. S222) Ss. 8 and 12-18: 15 Aug 1983 (see Gazette 1983, No. S169) S. 10: 3 July 1985 (see s. 2(4) and Gazette 1985, No. S255) Remainder: Royal Assent
+S. 6(2): 30 Sept 1983 (see  s. 2(2) and Gazette 1983, No. S222) Ss. 8 and 12-18: 15 Aug 1983 (see Gazette 1983, No. S169) S. 10: 3 July 1985 (see  s. 2(4) and Gazette  1985, No. S255) Remainder: Royal Assent
 Ss. 17(2) and 18
 Defence Force (Miscellaneous Provisions) Act 1982
 153, 1982
 31 Dec 1982
-3 July 1985 (see s. 2 and Gazette 1985, No. S255)
+3 July 1985 (see  s. 2 and Gazette 1985, No. S255)
 —
 Australian Government Solicitor (Consequential Amendments) Act 1984
 10, 1984
 10 Apr 1984
-S. 3: 16 Dec 1985 (b) Remainder: 1 July 1984 (see s. 2(1) and Gazette 1984, No. S231)
+S. 3: 16 Dec 1985 (b)  Remainder: 1 July 1984 (see  s. 2(1) and  Gazette 1984, No. S231)
 S. 4(1)
 Defence Legislation Amendment Act (No. 1) 1997
 1, 1997
 19 Feb 1997
 Schedule 2 (items 27, 84, 110 and 131-134) (c)
 —
-Judiciary Amendment Act 1999
-7, 1999
-31 March 1999
-Schedule 3 (items 6, 7): (see (d) and Note 2)
-—
+
 (a)	The Defence (Visiting Forces) Act 1963 was amended by sections 103-110 only of the Defence Force Re-organization Act 1975, section 2 of which provides as follows: 
-	2.	This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
+	“2.	This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.”
 (b)	The Defence (Visiting Forces) Act 1963 was amended by section 3 only of the Australian Government Solicitor (Consequential Amendments) Act 1984, subsection 2(2) of which provides as follows:
-	(2)	 If subsection 8(1) of the Director of Public Prosecutions (Consequential Amendments) Act 1983 does not come into operation before the commencement of section 7 of the Judiciary Amendment Act (No. 2) 1984, the amendment of the Crimes Act 1914 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of that subsection.
+	“(2)	 If subsection 8(1) of the Director of Public Prosecutions (Consequential Amendments) Act 1983 does not come into operation before the commencement of section 7 of the Judiciary Amendment Act (No. 2) 1984, the amendment of the Crimes Act 1914 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of that subsection.”
 (c)	The Defence (Visiting Forces) Act 1963 was amended by Schedule 2 (items 27, 84, 110, 131-134) only of the Defence Legislation Amendment Act (No. 1) 1997, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(d)	The Defence (Visiting Forces) Act 1963 was amended by Schedule 3 (items 6, 7), only of the Judiciary Amendment Act 1999, subsections 2(2)and (3) of which provide as follows:
-	(2)	Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
-	(3)	If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [see Note 2]
+	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 Table of Amendments
 
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 Provision affected
 How affected
 S. 3 	
@@ -357,15 +352,4 @@ S. 28
 am. No. 96, 1975; No. 178, 1981; No. 10, 1984; No. 1, 1997
 The Schedule 	
 am. No. 96, 1975
-Note 2
-The Defence (Visiting Forces) Act 1963 was amended by Schedule 3 (items 6 and 7) only of the Judiciary Amendment Act 1999. The applicable provisions provide as follows: 
-6  Subsection 28(1)
-Repeal the subsection, substitute:
-	(1)	The Attorney‑General may, in relation to a matter, or to a State, Territory or other part of Australia, delegate in writing all or any of the Attorney‑General’s powers and functions under this Act to an officer holding or performing the duties of a Senior Executive Service office in the Attorney‑General’s Department.
-7  Subsection 28(2)
-Repeal the subsection.
-Subsections 2(2) and (3) of the Judiciary Amendment Act 1999 provide as follows:
-	(2)	Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
-	(3)	If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-As at 4 June 1999 no date had been fixed and the amendments are not incorporated in this consolidation.
 
