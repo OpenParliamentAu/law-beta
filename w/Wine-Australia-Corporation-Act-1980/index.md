@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00903/Html/81784b93-ee83-45c5-a26d-f87134397da2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00641/Html/7e1f8ccd-9a20-4179-937d-23207eebd317_files/image001.gif)
 
 # Wine Australia Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 12 August 2011
+ taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -3474,7 +3474,7 @@ Submission made
 
              (2)  If a submission has been made to the Committee, the Committee must make a determination in writing not to omit the GI from the Register.
 
-##### <a id="40ZAO"></a>40ZAO  Notice of determination
+##### <a id="40ZAO"></a>40ZAO  Notice of determination
 
                    The Presiding Member of the Committee must cause:
 
@@ -4858,23 +4858,6 @@ Schedule 3 (item 18): 1 Sept 2010</div>
   </td>
   <td>
     <div>Sch. 8 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 26): \[ <i>see</i>s. 2(1) and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -7638,21 +7621,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subclause.
 
-As at 11 November 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 26  Paragraphs 40DB(4)(c) and 40FB(3)(c)
-
-After “Territory”, insert “or on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
-
-As at 11 November 2011 the amendment is not incorporated in this compilation.
+As at 12 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
