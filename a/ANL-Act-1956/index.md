@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00900/Html/7b3b79d6-8586-472c-9acd-7ab65583c084_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00520/Html/ANL56WD02_image001.gif)
 
 # ANL Act 1956
 
 **Act No. 41 of 1956 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 22 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -68,7 +68,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [52](#52).          Other persons not to use protected names
 
-[53](#53).          Exceptions for pre‑existing rights
+[53](#53).          Exceptions for pre-existing rights
 
 [54](#54).          Use of other names by protected bodies
 
@@ -136,7 +136,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="articl"></a>**_articles_** means articles of association.
 
-                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis Bay Territory.
+                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis  Bay Territory.
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
@@ -152,7 +152,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  ANL; or
 
-                     (b)  a wholly‑owned subsidiary of ANL.
+                     (b)  a wholly-owned subsidiary of ANL.
 
                     <a name="liabil"></a>**_liability_** includes a debt or obligation.
 
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  **_Australian National Line_**;
 
-                     (c)  **_Maritime Agencies of Australia_**;
+                     (c)  **_Maritime Agencies of_****_Australia_**;
 
                      (d)  **_Searoad_**;
 
@@ -210,7 +210,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="transition"></a>**_transition_** means the commencement of Part IIIA.
 
-                    <a name="hold-bodi"></a><a name="wholli-owned-subsidiari"></a>**_wholly‑owned subsidiary_**, in relation to a body corporate (in this definition called the **_holding body_**), means a body corporate:
+                    <a name="hold-bodi"></a><a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_**, in relation to a body corporate (in this definition called the **_holding body_**), means a body corporate:
 
                      (a)  that is a subsidiary of the holding body;
 
@@ -218,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  the holding body;
 
-                             (ii)  a body corporate that is, under any other application or applications of this definition, a wholly‑owned subsidiary of the holding body; or
+                             (ii)  a body corporate that is, under any other application or applications of this definition, a wholly-owned subsidiary of the holding body; or
 
                             (iii)  a nominee of the holding body or of a body of a kind referred to in subparagraph (ii); and
 
@@ -438,7 +438,7 @@ a protected name, or a name so closely resembling a protected name as to be like
 
              (2)  Nothing in subsection (1) limits anything else in that subsection.
 
-##### <a id="53"></a>53  Exceptions for pre‑existing rights
+##### <a id="53"></a>53  Exceptions for pre-existing rights
 
              (1)  Nothing in section 52, so far as it applies in relation to a particular protected name, affects rights conferred by law on a person in relation to:
 
@@ -452,7 +452,7 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
                      (a)  was using the relevant name in good faith in that manner; or
 
-                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or a similar name, goods or services as the goods or services of the first‑mentioned person.
+                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or a similar name, goods or services as the goods or services of the first-mentioned person.
 
 ##### <a id="54"></a>54  Use of other names by protected bodies
 
@@ -488,7 +488,7 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
                      (b)  but for this subsection, some or all of that period would not have to be taken into account as a period during which the staff member was employed by ANL;
 
-ANL shall treat the whole of the first‑mentioned period as a period during which the staff member was employed by it.
+ANL shall treat the whole of the first-mentioned period as a period during which the staff member was employed by it.
 
 ##### <a id="58"></a>58  Effect of sections 56 and 57
 
@@ -608,7 +608,7 @@ except so far as express provision is made by a law of the Commonwealth, State o
 
 ##### <a id="69"></a>69  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1122,30 +1122,13 @@ Remainder: Royal Assent</div>
     <div>Sch. 6 (items 
 5–11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 2, 3): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Shipping Commission Act 1956_ was amended by Part IX (sections 70 and 71) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(2) of which provides as follows:
 
                  (2)   Part IX shall come into operation, or shall be deemed to have come into operation, as the case requires, on the date of commencement of the _Environment Protection (Sea Dumping) Act 1981_.
 
-_(b)_     The _Australian Shipping Commission Act 1956_ was amended by section 41 only of the _Conciliation and Arbitration Amendment Act (No. 2) 1983_, subsection 2(2) of which provides as follows:
+_(b)_    The _Australian Shipping Commission Act 1956_ was amended by section 41 only of the _Conciliation and Arbitration Amendment Act (No. 2) 1983_, subsection 2(2) of which provides as follows:
 
                  (2)   Sections 3, 6, 7, 8, 9, 10, 12, 14 and 16, subsection 22(3) and sections 27, 39, 40, 41 and 43 shall come into operation on a date, or respective dates, to be fixed by Proclamation.
 
@@ -1159,7 +1142,7 @@ _(d)_     The _Australian Shipping Commission Act 1956_ was amended by s
 
 _(e)_     The _Australian Shipping Commission Act 1956_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(f)_      The _Australian Shipping Commission Act 1956_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
@@ -1171,7 +1154,7 @@ _(g)_     The _Australian Shipping Commission Act 1956_ was amended by t
 
          The date on which the Australian Shipping Commission certified that the requirements of subsection 39(3) had been complied with was 9 June 1989.
 
-_(h)_     The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
+_(h)_     The _ANL__Sale__Act 1995_ was repealed by section 79 of that Act before coming into operation.
 
 _(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
 
@@ -2900,28 +2883,6 @@ _(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
   </td>
 </tr></table>
 
-### Note 2
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 2  Section 51
-
-Repeal the section.
-
-## 3  Section 55
-
-Repeal the section, substitute:
-
-##### <a id="55"></a>55  Registration on Business Names Register
-
-                   This Part does not prevent a protected body from registering a name on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_.
-
-As at 11 November 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2957,17 +2918,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
