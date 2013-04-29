@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00510/Html/Judiciary03_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00301/Html/Judiciary03_WD02_image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 11 November 2009
- taking into account amendments up to Act No. 106 of 2009
+This compilation was prepared on 6 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -519,7 +519,7 @@ Quorum of Justices on appeals from State Supreme Courts
 
                    Applications to the High Court for a certificate that a question as to the limits _inter se_ of the Constitutional powers of the Commonwealth and those of any State or States, or as to the limits _inter se_ of the Constitutional powers of any two or more States, which has been decided by the High Court, is one which ought to be determined by the Queen in Council, shall be heard and determined by a Full Court consisting of not less than three Justices.
 
-##### <a id="23"></a>23  Decision in case of difference of opinion
+##### <a id="23"></a>23  Decision in case of difference of opinion
 
              (1)  A Full Court consisting of less than all the Justices shall not give a decision on a question affecting the constitutional powers of the Commonwealth, unless at least three Justices concur in the decision.
 
@@ -1299,7 +1299,7 @@ Note:          For **_State_** see section 55I.
 
              (5)  In this section:
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory, the Northern Territory or Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Australian Capital   Territory, the Northern Territory or Norfolk Island.
 
 ##### <a id="55P"></a>55P  AGS may charge for services
 
@@ -1565,7 +1565,7 @@ the person is taken, for all purposes, not to have breached legal professional p
 
 ##### <a id="63"></a>63  Service of process when Commonwealth or State is party
 
-                   Where the Commonwealth or a State is a Party to a suit, all process in the suit required to be served upon that party shall be served upon the Attorney-General of the Commonwealth or of the State, as the case may be, or upon some person appointed by him or her to receive service.
+                   Where the Commonwealth or a State is a Party to a suit, all process in the suit required to be served upon that party shall be served upon the Attorney-General of the Commonwealth or of the State, as the case may be, or upon some person appointed by him or her to receive service.
 
 ##### <a id="64"></a>64  Rights of parties
 
@@ -1597,7 +1597,7 @@ the person is taken, for all purposes, not to have breached legal professional p
 
                    The Commonwealth may bring a suit against the Territory, and the Territory may bring a suit against the Commonwealth, in the Supreme Court of the Territory in respect of a cause of any description, whether at law or in equity, including (but without limiting the generality of the foregoing) a claim in tort.
 
-##### <a id="67C"></a>67C  Jurisdiction of Supreme Court of Territory
+##### <a id="67C"></a>67C  Jurisdiction of Supreme Court of Territory
 
                    The jurisdiction of the Supreme Court of the Territory extends to:
 
@@ -3763,24 +3763,6 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   </td>
   <td>
     <div>S. 4 and Sch. 5 (item 85) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009</div>
-  </td>
-  <td>
-    <div>106, 2009</div>
-  </td>
-  <td>
-    <div>6 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6, 
-98–108): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -6662,364 +6644,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
 </tr></table>
 
-### Note 2
-
-_Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009 (No. 106, 2009)_
-
-The following amendments commence on 4 December 2009:
-
-## Schedule 1
-
-## 6  After section 68
-
-Insert:
-
-##### <a id="68A"></a>68A  Committals jurisdiction if both Federal Court of Australia and State or Territory court have jurisdiction in relation to indictable offence
-
-             (1)  This section applies if both:
-
-                     (a)  the Federal Court of Australia; and
-
-                     (b)  a court of a State or Territory (the **_superior State or Territory court_**);
-
-have jurisdiction to try a person on indictment for an indictable offence against a law of the Commonwealth (the **_indictable offence_**).
-
-Working out which court the person should be committed to
-
-             (2)  If a court of the State or Territory (the **_State or Territory committals court_**) has, under subsection 68(2), jurisdiction with respect to the examination and commitment for trial on indictment of a person who is charged with the indictable offence, the court may, in exercising that jurisdiction:
-
-                     (a)  commit the person for trial on indictment for the offence before either:
-
-                              (i)  the Federal Court of Australia; or
-
-                             (ii)  the superior State or Territory court; or
-
-                     (b)  if the person pleads guilty to the offence, commit the person for sentencing for the offence by either:
-
-                              (i)  the Federal Court of Australia; or
-
-                             (ii)  the superior State or Territory court.
-
-This subsection has effect subject to subsections (3) and (4).
-
-Note:          Paragraph (2)(b) refers to committal for sentencing. For the power of the State or Territory committal court to commit for sentencing, see subsection 68(7).
-
-             (3)  Despite subsection 68(1), if:
-
-                     (a)  a person is charged with the indictable offence; and
-
-                     (b)  at the end of the proceedings before the State or Territory committals court, the State or Territory committals court proposes to make an order (the **_committal order_**) that the person be committed for trial on indictment, or for sentencing, for the indictable offence;
-
-the State or Territory committals court must invite the Director of Public Prosecutions to suggest the court before which the person is to be tried or sentenced.
-
-Note:          The State or Territory committals court must make this invitation even if the Director of Public Prosecutions is not a party to the committal proceedings.
-
-             (4)  When making the committal order, the State or Territory committals court must consider specifying the court suggested by the Director of Public Prosecutions as the court before which the person is to be tried or sentenced.
-
-Committal court may grant bail to person to appear before Federal Court
-
-             (5)  If the committal order relating to the person specifies the Federal Court of Australia, then a power of the State or Territory committals court:
-
-                     (a)  that is conferred by a law applying under subsection 68(1) in relation to indictable offences against the laws of the Commonwealth; and
-
-                     (b)  that enables the State or Territory committals court to grant bail to persons accused of such offences to appear before the superior State or Territory court if committed for trial, or for sentencing, before the superior State or Territory court;
-
-applies as if the power included the power to grant bail to the first-mentioned person to appear before the Federal Court of Australia.
-
-Note:          Appeals or reviews of the exercise of this power will be dealt with under the laws of the State or Territory applying under subsection 68(1). However, bail will be dealt with under Part VIB of the _Federal Court of Australia Act 1976_ once indictable primary proceedings (within the meaning of that Act) commence for the person.
-
-If question about person’s fitness to be tried
-
-             (6)  Subsection 20B(1) of the _Crimes Act 1914_ applies as if the reference in that subsection to the court to which the proceedings would have been referred had the person been committed for trial were a reference to a court to which the proceedings could have been referred had the person been committed for trial.
-
-Note:          This means the committal court may choose whether to refer a question of the person’s fitness to be tried to either the Federal Court of Australia or the superior State or Territory court.
-
-##### <a id="68B"></a>68B  Application of State and Territory laws if Federal Court of Australia and State or Territory court both have jurisdiction in relation to an offence
-
-             (1)  To avoid doubt:
-
-                     (a)  subsection 68(1) applies to a person:
-
-                              (i)  who is charged with an offence against a law of the Commonwealth; and
-
-                             (ii)  in respect of whom jurisdiction is conferred on a court of a State or Territory by section 68;
-
-                            even if jurisdiction in relation to that person and that offence is also conferred on the Federal Court of Australia by another law of the Commonwealth; and
-
-                     (b)  subsection 68(1) applies to the person and the offence in relation to:
-
-                              (i)  any proceedings in relation to the offence that are brought before a court of the State or Territory; and
-
-                             (ii)  any proceedings in relation to the offence that are brought before the Federal Court of Australia.
-
-             (2)  Paragraph (1)(b) has effect subject to section 68C.
-
-##### <a id="68C"></a>68C  Adjustments to State and Territory laws applying to proceedings before Federal Court of Australia
-
-             (1)  This section applies if:
-
-                     (a)  an offence referred to in subsection 68(1) is an indictable offence; and
-
-                     (b)  the Federal Court of Australia (the **_Federal Court_**) has jurisdiction to try a person on indictment for the offence; and
-
-                     (c)  proceedings commence in the Federal Court in relation to the offence that are:
-
-                              (i)  indictable primary proceedings (within the meaning of the _Federal Court of Australia Act 1976_) (**_primary proceedings_**); or
-
-                             (ii)  criminal appeal proceedings (within the meaning of that Act) that relate to primary proceedings; or
-
-                            (iii)  proceedings under section 30CA of that Act that relate to primary proceedings; or
-
-                            (iv)  proceedings under section 30CB of that Act that relate to primary proceedings; or
-
-                             (v)  proceedings referred to the Federal Court under section 20B of the _Crimes Act 1914_ (as that section applies because of subsection 68A(6)).
-
-The State or Territory in which trial proceedings must be heard
-
-             (2)  If the proceedings are primary proceedings that:
-
-                     (a)  are to include either the person, the prosecutor or both appearing before the Federal Court in accordance with an order of a court of a State or Territory committing the person for trial on indictment before the Court for the offence; or
-
-                     (b)  if paragraph (a) does not apply—include the filing in the Federal Court, in a State or Territory, of an indictment against the person for the offence;
-
-the Federal Court must hear the proceedings in that State or Territory unless and until the Federal Court makes an order under subsection (3).
-
-Note:          The place in which any other proceedings are to be heard is a matter for the Court.
-
-             (3)  If the proceedings are covered by subsection (2), the Federal Court may, before the jury is empanelled for the trial, make an order specifying the State or Territory in which the Federal Court will hear the proceedings.
-
-             (4)  Subsections (2) and (3) have effect subject to section 80 of the Constitution and sections 70 and 70A.
-
-Which State’s or Territory’s laws are to apply?
-
-             (5)  The laws to be applied under subsection 68(1) in relation to the proceedings are those referred to in the following table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Laws applicable in relation to the proceedings</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If the proceedings are ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the laws to be applied are ...</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>primary proceedings (other than proceedings for the sentencing of the
-      person following a trial in the Federal Court)</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory in which the Federal Court hears the
-      proceedings.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>primary proceedings for the sentencing of the person following a trial
-      in the Federal Court</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in relation to the trial at
-      the end of the trial.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>appeal proceedings covered by subparagraph (1)(c)(ii)</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in relation to the corresponding
-      primary proceedings at the end of those primary proceedings.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>proceedings covered by subparagraph (1)(c)(iii) in relation to a case
-      stated, or question reserved, by a court</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in the proceedings during
-      which the court stated the case or reserved the question.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>proceedings covered by subparagraph (1)(c)(iv)</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in relation to the corresponding
-      primary proceedings at the end of those primary proceedings.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>proceedings covered by subparagraph (1)(c)(v) as a result of a referral
-      by a court</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in the proceedings during
-      which the court made the referral.</div>
-  </td>
-</tr></table>
-
-What those laws include
-
-             (6)  The laws of that State or Territory are taken:
-
-                     (a)  to include the Rules of the Supreme Court of that State or Territory that apply in relation to criminal proceedings; and
-
-                     (b)  not to include the Rules of any other court of that State or Territory.
-
-How those laws apply
-
-             (7)  The laws of that State or Territory apply as if any reference in those laws to the Supreme Court of that State or Territory, and any reference to a court that includes a reference to the Supreme Court of that State or Territory, were a reference to the Federal Court.
-
-             (8)  The laws of that State or Territory apply to the proceedings only to the extent to which they are:
-
-                     (a)  not inconsistent with the laws of the Commonwealth; and
-
-                     (b)  not inconsistent with the Rules of the Federal Court.
-
-## 98  Section 2
-
-Insert:
-
-                    <a name="examin-commit-trial-indict"></a>**_examination and commitment for trial on indictment_** includes commitment for trial on indictment.
-
-## 99  At the end of subsection 39B(1A)
-
-Add:
-
-Note:          Paragraph (c) does not prevent other laws of the Commonwealth conferring criminal jurisdiction on the Federal Court of Australia.
-
-## 100  Section 70
-
-Before “When”, insert “(1)”.
-
-## 101  At the end of section 70
-
-Add:
-
-             (2)  This section has effect subject to section 68C.
-
-## 102  Section 70A
-
-Before “The”, insert “(1)”.
-
-## 103  At the end of section 70A
-
-Add:
-
-             (2)  This section has effect subject to section 68C.
-
-## 104  Subsection 71A(1)
-
-Repeal the subsection, substitute:
-
-             (1)  Notwithstanding anything contained in this Part, or any provision of any law of a State or Territory, the Attorney-General of the Commonwealth may file an indictment for any indictable offence against the laws of the Commonwealth in:
-
-                     (a)  the High Court; or
-
-                     (b)  if the Federal Court of Australia has jurisdiction to try a person for the offence—that Court; or
-
-                     (c)  the Supreme Court of a State or Territory;
-
-without examination or commitment for trial.
-
-## 105  Subsection 72(1)
-
-Repeal the subsection, substitute:
-
-             (1)  This section applies if a person is indicted before a Court, other than:
-
-                     (a)  the Federal Court of Australia; or
-
-                     (b)  the Supreme Court of a Territory (other than the Australian Capital Territory or the Northern Territory);
-
-for an indictable offence against a law of the Commonwealth.
-
-          (1A)  The Court (the **_trial court_**) before which the person is tried:
-
-                     (a)  must, if an application is made by or on behalf of the person before the jury delivers its verdict on a count in the indictment in relation to the person; and
-
-                     (b)  may in its discretion (either before or after judgment without such an application);
-
-reserve a question of law, in relation to that count, which arises on the trial for the consideration of:
-
-                     (c)  a Full Court of the High Court; or
-
-                     (d)  a Full Court of the Supreme Court of the same State or Territory as the trial court.
-
-## 106  Subsection 76(1)
-
-Repeal the subsection, substitute:
-
-             (1)  This section applies if a Court, other than:
-
-                     (a)  the Federal Court of Australia; or
-
-                     (b)  the Supreme Court of a Territory (other than the Australian Capital Territory or the Northern Territory);
-
-convicts an accused person on indictment for an offence against the laws of the Commonwealth.
-
-          (1A)  If the Court (the **_trial court_**) before which the accused person is convicted arrests judgment at the trial, the Court must on the application of counsel for the prosecution state a case for the consideration of:
-
-                     (a)  a Full Court of the High Court; or
-
-                     (b)  a Full Court of the Supreme Court of the same State or Territory as the trial court.
-
-## 107  Subsection 76(2)
-
-Omit “any Justice of the Peace may issue his or her”, substitute “an issuing officer (within the meaning of Part IAA of the _Crimes Act 1914_) may issue a”.
-
-## 108  Section 81
-
-After “High Court,”, insert “the Judges of the Federal Court of Australia,”.
-
-As at 11 November 2009 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7028,7 +6652,7 @@ _Judiciary Amendment Act 1999 (No. 7, 1999)_
 
 ## Schedule 2  
 
-## 1  Definitions
+## 1  Definitions
 
 In this Schedule:
 
