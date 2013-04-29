@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00872/Html/92b7f6e3-b9d1-44ec-9223-2437e4b23825_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00670/Html/e5987d66-3496-48db-b7fd-6bce9f47cc54_files/image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 26 November 2012
- taking into account amendments up to Act No. 155 of 2012
+This compilation was prepared on 18 September 2012
+ taking into account amendments up to Act No. 79 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -31,19 +32,17 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [5](#5).            Limit on stock and securities on issue
 
+[6](#6).            Stock and interest a charge on revenue
+
 [7](#7).            Issue of stock
 
 [11](#11).          When interest to cease
 
 [13](#13).          Stock personal property
 
-[13AA](#13AA).    Payment of principal and interest on stock and related amounts connected with depository interests
-
-[13A](#13A).       Costs and expenses relating to issue, sale and management of stock and depository interests
+[13A](#13A).       Costs and expenses relating to issue and sale of stock
 
 [13B](#13B).       Costs and expenses incurred in repurchasing or redeeming stock before date of maturity
-
-[13C](#13C).       Arrangements etc  relating to stock and depository interests
 
 **Part III—Inscription of stock** 
 
@@ -129,7 +128,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [51J](#51J).        Directions by Governor‑General and Treasurer
 
-[51JA](#51JA).     Delegation by Treasurer
+[51JA](#51JA).     Delegation by Treasurer of powers under section 3A
+
+[51K](#51K).       Delegation by Treasurer of powers under sections 14 and 29
 
 **Part VI—Miscellaneous**
 
@@ -144,6 +145,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [55](#55).          Forms
 
 [56](#56).          Powers of attorney
+
+[57B](#57B).       Application of certain provisions of Treasury Bills Act to stamps
 
 [58](#58).          Regulations
 
@@ -164,24 +167,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                     <a name="certifi-copi"></a>**_certified copy_** of an entry in a Stock Ledger, of an extract of an entry in a Stock Ledger or of a document means a copy of the entry, extract or document that is certified by a prescribed person to be a true copy.
 
                     <a name="clear-settlem-facil"></a>**_clearing and settlement facility_** means a facility that is a clearing and settlement facility for the purposes of Chapter 7 of the _Corporations Act 2001_.
-
-                    <a name="depositori-interest"></a>**_depository interest_** means a beneficial interest in stock issued by a depository nominee (as a depository nominee).
-
-                    <a name="depositori-interest-registri-oper"></a>**_depository interest registry operator_** means a person who has been engaged by a depository nominee to make payments:
-
-                     (a)  on behalf of the depository nominee; and
-
-                     (b)  to holders of depository interests issued by the depository nominee; and
-
-                     (c)  on account of those interests.
-
-                    <a name="depositori-nomine"></a>**_depository nominee_** means a person who, with the agreement of the Commonwealth, issues to someone else one or more beneficial interests in stock the person:
-
-                     (a)  owns legally; or
-
-                     (b)  would own beneficially, apart from the issue of those interests; or
-
-                     (c)  has a beneficial interest in.
 
                     <a name="registrar"></a>**_Registrar_** means a Registrar of Stock or a Deputy Registrar of Stock.
 
@@ -253,6 +238,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (b)  the **_loan_** of stock or a security is taken to include an arrangement under which it is sold and repurchased.
 
+##### <a id="6"></a>6  Stock and interest a charge on revenue
+
+                   The principal money secured by any stock and the interest (if any) thereon shall rank equally and without priority or preference, and shall be a charge on and payable out of the Consolidated Revenue Fund which is hereby appropriated for the purpose.
+
 ##### <a id="7"></a>7  Issue of stock
 
              (1)  The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which stock may be issued and sold shall be as directed by the Governor‑General.
@@ -273,21 +262,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    Stock shall be personal property.
 
-##### <a id="13AA"></a>13AA  Payment of principal and interest on stock and related amounts connected with depository interests
-
-                   The Consolidated Revenue Fund is appropriated to the extent necessary for the payment of:
-
-                     (a)  principal secured by stock; and
-
-                     (b)  interest on that principal; and
-
-                     (c)  amounts that are to be paid by the Commonwealth to depository nominees or depository interest registry operators for payment by or on behalf of the depository nominees to holders of depository interests, on account of either or both of:
-
-                              (i)  principal secured by stock in which the depository interests are beneficial interests; and
-
-                             (ii)  interest on that principal.
-
-##### <a id="13A"></a>13A  Costs and expenses relating to issue, sale and management of stock and depository interests
+##### <a id="13A"></a>13A  Costs and expenses relating to issue and sale of stock
 
                    The Consolidated Revenue Fund is appropriated to the extent necessary for the payment of:
 
@@ -297,35 +272,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                               (i)  Registry fees; and
 
-                             (ii)  clearing and settlement facility fees; and
-
-                     (c)  the costs and expenses incurred by the Commonwealth that relate directly or indirectly to the issue, management or transfer of depository interests, including but not limited to:
-
-                              (i)  fees charged by depository nominees or depository interest register operators; and
-
-                             (ii)  clearing and settlement facility fees; and
-
-                     (d)  the costs and expenses incurred by the Commonwealth in relation to the making of payments by the Commonwealth described in paragraph 13AA(c), including but not limited to clearing and settlement facility fees.
+                             (ii)  clearing and settlement facility fees.
 
 ##### <a id="13B"></a>13B  Costs and expenses incurred in repurchasing or redeeming stock before date of maturity
 
                    The Consolidated Revenue Fund is appropriated to the extent necessary for the payment of the costs and expenses incurred by the Commonwealth in repurchasing or redeeming stock before the date of maturity of the stock.
-
-##### <a id="13C"></a>13C  Arrangements etc. relating to stock and depository interests
-
-                   On behalf of the Commonwealth, the Treasurer may enter into, vary, administer or otherwise give effect to a contract, agreement or arrangement relating, directly or indirectly, to one or more of the following:
-
-                     (a)  the issue, management or transfer of stock or depository interests;
-
-                     (b)  the trading of stock or depository interests on a financial market;
-
-                     (c)  services relating to one or more of the following:
-
-                              (i)  a registry that relates to stock or depository interests;
-
-                             (ii)  a clearing and settlement facility;
-
-                            (iii)  depository nominees.
 
 ## Part III—Inscription of stock
 
@@ -513,7 +464,7 @@ Note 2:       That Act provides for registration in respect of secur
 
              (2)  The provision that may be made by regulations for the purposes of subsection (1) in relation to the legal interest in stock inscribed in a Stock Ledger that is kept in an electronic form must be provision for the inscription of the legal interest in an electronic form.
 
-##### <a id="27"></a>27  Limitations on registration of transactions
+##### <a id="27"></a>27  Limitations on registration of transactions
 
                    Except where the regulations otherwise provide or the Treasurer approves, a transaction relating to stock shall not be registered or dealt with within 14 days prior to the date upon which interest is due or within 1 month prior to the date of maturity of the stock.
 
@@ -533,7 +484,7 @@ Note 2:       That Act provides for registration in respect of secur
 
              (3)  No person shall have any claim against the Commonwealth in respect of any transmission in pursuance of subsection (2), but nothing in this section shall relieve the person to whom the stock is transmitted from any liability to account for or deal with the stock in accordance with law.
 
-##### <a id="30"></a>30  Registration of transmission of legal interest
+##### <a id="30"></a>30  Registration of transmission of legal interest
 
                    If the Registrar at a Registry where particular stock is inscribed is satisfied that the provisions of this Act relating to the transmission of the legal interest in that stock have been complied with, the Registrar must register the transmission by entering particulars of it in the relevant Stock Ledger and inscribe the name of the person to whom the legal interest has been transmitted in the Stock Ledger as the owner of the stock.
 
@@ -667,9 +618,9 @@ has the same force and effect as if it had been done by the Governor‑General.
 
                              (ii)  may, subject to any direction given to the Treasurer under paragraph (a), give directions to the other person with respect to the exercise of that power.
 
-##### <a id="51JA"></a>51JA  Delegation by Treasurer
+##### <a id="51JA"></a>51JA  Delegation by Treasurer of powers under section 3A
 
-             (1)  The Treasurer may, by signed instrument, delegate all or any of the Treasurer’s powers under sections 3A, 13C, 14, 27, 29 and 55 to:
+             (1)  The Treasurer may, by signed instrument, delegate all or any of the Treasurer’s powers under section 3A to:
 
                      (a)  an SES employee in the Department; or
 
@@ -686,6 +637,20 @@ has the same force and effect as if it had been done by the Governor‑General.
                      (b)  any other direction given, by signed instrument, to the delegate by the Treasurer.
 
              (4)  The Treasurer must table a direction given under subsection (2) or paragraph (3)(b) in each House of the Parliament no later than 15 sitting days of that House after it is given.
+
+##### <a id="51K"></a>51K  Delegation by Treasurer of powers under sections 14 and 29
+
+             (1)  The Treasurer may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Treasurer, delegate to:
+
+                     (a)  a person for the time being holding or performing the duties of a specified office or position in the Australian Public Service; or
+
+                     (b)  a person for the time being holding or performing the duties of a specified office in the Reserve Bank Service;
+
+all or any of the powers of the Treasurer under sections 14 and 29.
+
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Treasurer.
+
+             (3)  A delegation under this section does not prevent the exercise of a power by the Treasurer.
 
 ## Part VI—Miscellaneous
 
@@ -715,7 +680,17 @@ has the same force and effect as if it had been done by the Governor‑General.
 
 ##### <a id="52B"></a>52B  Liability of interest to income tax
 
-                   Notwithstanding anything contained in any other Act, if in any prospectus or form of application issued in relation to a loan raised after 12 September 1931 it is so declared, the interest derived by any person in any financial year from that loan shall be free from income tax payable under the law of the Commonwealth to the same extent as interest derived from new securities referred to in section 20 of the _Commonwealth Debt Conversion Act 1931_.
+             (1)  If:
+
+                     (a)  a person derives interest from Stock, from Treasury Bonds or from other securities prescribed for the purposes of section 51A; and
+
+                     (b)  the prospectus relating to the loan on which the interest is payable stated that the interest would not be liable to income tax under any law of a State;
+
+the interest so derived is not liable to income tax under any law of a State.
+
+             (2)  Notwithstanding anything contained in any other Act, if in any prospectus or form of application issued in relation to a loan raised after 12 September 1931 it is so declared, the interest derived by any person in any financial year from that loan shall be free from income tax payable under the law of the Commonwealth to the same extent as interest derived from new securities referred to in section 20 of the _Commonwealth Debt Conversion Act 1931_.
+
+             (3)  Notwithstanding anything contained in any other Act, where it is declared, in any prospectus relating to the raising of a loan by means of the issue of Treasury Bonds known as War Savings Certificates or Savings Certificates, that the certificates will be free of Commonwealth income tax, the interest derived by any person in any financial year from those Bonds shall be free from income tax payable under any law of the Commonwealth.
 
 ##### <a id="54"></a>54  Record of unclaimed interest
 
@@ -752,6 +727,10 @@ has the same force and effect as if it had been done by the Governor‑General.
                      (c)  where, apart from this subsection, the power of attorney would cease so to have effect because of the mental incapacity of the principal—the mental incapacity;
 
 of the principal has been received by the Registrar at the Registry where the power of attorney was deposited or produced.
+
+##### <a id="57B"></a>57B  Application of certain provisions of Treasury Bills Act to stamps
+
+                   The provisions of sections 13, 13A, 13B and 14 of the _Treasury Bills Act 1914_ shall apply in relation to War Savings Stamps, Savings Stamps and National Savings Stamps in the like manner as they apply in relation to Treasury Bills.
 
 ##### <a id="58"></a>58  Regulations
 
@@ -1323,7 +1302,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (item 21): Royal Assent 
-Remainder: 18 Jan 2001</div>
+Remainder: 18 Jan 2001</div>
   </td>
   <td>
     <div>—</div>
@@ -1374,7 +1353,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1392,7 +1371,7 @@ Remainder: 24 May 2001</div>
     <div>4 Apr 2002</div>
   </td>
   <td>
-    <div>Schedule 1: 4 Oct 2002 
+    <div>Schedule 1: 4 Oct 2002 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1427,7 +1406,7 @@ Remainder: Royal Assent</div>
     <div>12 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–5, 12–14): 13 July 2008</div>
+    <div>Schedule 1 (items 1–5, 12–14): 13 July 2008</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -1500,23 +1479,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 19 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Government Securities Legislation Amendment (Retail Trading) Act 2012</div>
-  </td>
-  <td>
-    <div>155, 2012</div>
-  </td>
-  <td>
-    <div>17 Nov 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–7A) and Schedule 2: 18 Nov 2012</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 3, 5) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1730,7 +1692,7 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 25, 1932; No. 26, 1945; No. 72, 1984; No. 38, 1988; No. 21, 2002; No. 155, 2012</div>
+    <div>am. No. 25, 1932; No. 26, 1945; No. 72, 1984; No. 38, 1988; No. 21, 2002</div>
   </td>
 </tr>
 <tr>
@@ -1815,14 +1777,6 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 155, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 7</div>
   </td>
   <td>
@@ -1903,50 +1857,10 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
 </tr>
 <tr>
   <td>
-    <div>S. 13AA</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 13A</div>
-  </td>
-  <td>
-    <div>rs. No. 155, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
+    <div>Ss. 13A, 13B</div>
   </td>
   <td>
     <div>ad. No. 70, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13B</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13C</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2583,14 +2497,6 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 51JA</div>
-  </td>
-  <td>
-    <div>rs. No. 155, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 51JA</div>
   </td>
   <td>
@@ -2599,26 +2505,10 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 51K</div>
   </td>
   <td>
     <div>am. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 155, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2635,14 +2525,6 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
   </td>
   <td>
     <div>am. No. 38, 1988; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 155, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2698,7 +2580,7 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
     <div></div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 48, 1998; No. 21, 2002</div>
+    <div>am. No. 216, 1973 ; No. 48, 1998; No. 21, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2714,7 +2596,7 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 1918; No. 25, 1932; No. 25, 1940; No. 21, 1946; No. 87, 1978; No. 72, 1984; No. 107, 1989; No. 155, 2012</div>
+    <div>am. No. 7, 1918; No. 25, 1932; No. 25, 1940; No. 21, 1946; No. 87, 1978; No. 72, 1984; No. 107, 1989</div>
   </td>
 </tr>
 <tr>
@@ -2884,14 +2766,6 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
   <td>
     <div>am. No. 21, 1946; No. 72, 1984</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 155, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -2938,7 +2812,7 @@ _Commonwealth Securities and Investment Legislation Amendment Act 2008 (No. 78
 
 The amendments made by items 1 and 5 of this Schedule apply to money borrowed on or after the commencement of those items.
 
-## 13  Application of items 2 and 3
+## 13  Application of items 2 and 3
 
 The amendments made by items 2 and 3 of this Schedule apply to stock and securities issued on or after the commencement of those items.
 
@@ -2965,31 +2839,5 @@ _Appropriation Act (No. 2) 2012‑2013 (No. 79, 2012)_
 ##### <a id="19"></a>19  Application
 
                    The amendment made by section 18 applies to stock and securities on issue after the commencement of that section, regardless of whether the stock and securities were issued before or after the commencement of that section.
-
-* * *
-
-_Commonwealth Government Securities Legislation Amendment (Retail Trading) Act 2012 (No. 155, 2012)_
-
-## Schedule 2
-
-## 3  Saving of delegations
-
-The amendment of subsection 51JA(1) of the _Commonwealth Inscribed Stock Act 1911_ made by this Schedule does not affect the validity of a delegation in force under that subsection immediately before the commencement of the amendment.
-
-## 5  Transitional provision for delegations under section 51K
-
-(1)       This item applies to a delegation that:
-
-                     (a)  was in force under section 51K of the _Commonwealth Inscribed Stock Act 1911_ immediately before the repeal of that section by this Schedule; and
-
-                     (b)  delegated the Treasurer’s power under section 14 or 29 of that Act to:
-
-                              (i)  an SES employee in the Department; or
-
-                             (ii)  an APS employee who holds or performs the duties of an Executive Level 2, or equivalent, position in the Department; or
-
-                            (iii)  a person appointed as a staff member of the Reserve Bank Service under section 67 of the _Reserve Bank Act 1959_ who occupies an office or position at an equivalent level to that of an SES employee, or an Executive Level 2, in the Department.
-
-(2)       The delegation has effect after the repeal as if the delegation had been made under subsection 51JA(1) of the _Commonwealth Inscribed Stock Act 1911_ as amended by this Schedule.
 
  
