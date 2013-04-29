@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00510/Html/7230a266-08da-42b4-918c-e8cd9a77a411_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00433/Html/e4ec10a9-138f-4c9c-a735-346e89544c48_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 28 June 2012
- taking into account amendments up to Act No. 77 of 2012
+This compilation was prepared on 4 May 2012
+ taking into account amendments up to Act No. 25 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -137,16 +137,6 @@ Related legislation
     **Division 3A—Recording of amounts in accounts and records**
 
 [32A](#32A).       Recording of amounts in accounts and records
-
-    **Division 3B—Supplementary powers to make commitments to spend public money etc.**
-
-[32B](#32B).       Supplementary powers to make commitments to spend public money etc 
-
-[32C](#32C).       Terms and conditions for grants
-
-[32D](#32D).       Delegation by a Minister
-
-[32E](#32E).        Executive power of the Commonwealth
 
     **Division 4—Miscellaneous**
 
@@ -766,82 +756,6 @@ Retaining prescribed receipts
 
              (4)  The increase to an amount in accordance with subsection 31(2) takes effect at the time an entry recording the receipt of the amount mentioned in subsection 31(1) is made in the accounts and records of the Agency concerned.
 
-### Division 3B—Supplementary powers to make commitments to spend public money etc.
-
-##### <a id="32B"></a>32B  Supplementary powers to make commitments to spend public money etc.
-
-             (1)  If:
-
-                     (a)  apart from this subsection, the Commonwealth does not have power to make, vary or administer:
-
-                              (i)  an arrangement under which public money is, or may become, payable by the Commonwealth; or
-
-                             (ii)  a grant of financial assistance to a State or Territory; or
-
-                            (iii)  a grant of financial assistance to a person other than a State or Territory; and
-
-                     (b)  the arrangement or grant, as the case may be:
-
-                              (i)  is specified in the regulations; or
-
-                             (ii)  is included in a class of arrangements or grants, as the case may be, specified in the regulations; or
-
-                            (iii)  is for the purposes of a program specified in the regulations;
-
-the Commonwealth has power to make, vary or administer the arrangement or grant, as the case may be, subject to compliance with this Act, the regulations, Finance Minister’s Orders, Special Instructions and any other law.
-
-             (2)  A power conferred on the Commonwealth by subsection (1) may be exercised on behalf of the Commonwealth by a Minister or a Chief Executive.
-
-Note 1:       For delegation by a Minister, see section 32D.
-
-Note 2:       For delegation by a Chief Executive, see section 53.
-
-             (3)  In this section:
-
-                    <a name="administ"></a>**_administer_**:
-
-                     (a)  in relation to an arrangement—includes give effect to; or
-
-                     (b)  in relation to a grant—includes make, vary or administer an arrangement that relates to the grant.
-
-                    <a name="arrang"></a>**_arrangement_** includes contract, agreement or deed.
-
-                    <a name=""></a>**_make_**, in relation to an arrangement, includes enter into.
-
-                    <a name="vari"></a>**_vary_**, in relation to an arrangement or grant, means:
-
-                     (a)  vary in accordance with the terms or conditions of the arrangement or grant; or
-
-                     (b)  vary with the consent of the non‑Commonwealth party or parties to the arrangement or grant.
-
-##### <a id="32C"></a>32C  Terms and conditions for grants
-
-Scope
-
-             (1)  This section applies to a grant of financial assistance under section 32B.
-
-Terms and conditions
-
-             (2)  If the recipient of the grant is a State or Territory, the terms and conditions on which that financial assistance is granted are to be set out in a written agreement between the Commonwealth and the recipient.
-
-             (3)  An agreement under subsection (2) may be entered into on behalf of the Commonwealth by a Minister or a Chief Executive.
-
-Note 1:       For delegation by a Minister, see section 32D.
-
-Note 2:       For delegation by a Chief Executive, see section 53.
-
-             (4)  If the recipient of the grant is a person other than a State or Territory, subsection (2) does not, by implication, prevent the grant from being made subject to terms and conditions.
-
-##### <a id="32D"></a>32D  Delegation by a Minister
-
-             (1)  A Minister may, by writing, delegate any or all of his or her powers under this Division to an official in any Agency.
-
-             (2)  In exercising powers under a delegation, the delegate must comply with any directions of the Minister concerned.
-
-##### <a id="32E"></a>32E  Executive power of the Commonwealth
-
-                   This Division does not, by implication, limit the executive power of the Commonwealth.
-
 ### Division 4—Miscellaneous
 
 ##### <a id="33"></a>33  Finance Minister may approve act of grace payments
@@ -1118,27 +1032,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  A Chief Executive must manage the affairs of the Agency in a way that promotes proper use of the Commonwealth resources for which the Chief Executive is responsible.
 
-          (1A)  The responsibility conferred on the Chief Executive by subsection (1) includes, and is taken to have included, the power to:
+Note:          A Chief Executive has the power to enter into contracts, on behalf of the Commonwealth, in relation to the affairs of the Agency. Some Chief Executives have delegated this power under section 53.
 
-                     (a)  make arrangements, on behalf of the Commonwealth, in relation to the affairs of the Agency; and
-
-                     (b)  vary those arrangements on behalf of the Commonwealth; and
-
-                     (c)  administer those arrangements on behalf of the Commonwealth.
-
-Note:          Some Chief Executives have delegated this power under section 53.
-
-          (1B)  Subsection (1A) does not authorise the Chief Executive to exercise, on behalf of the Commonwealth, a power conferred on the Commonwealth by section 32B.
-
-             (2)  In discharging the responsibility, and exercising the power, conferred by this section, the Chief Executive must comply with this Act, the regulations, Finance Minister’s Orders, Special Instructions and any other law.
+             (2)  In doing so, the Chief Executive must comply with this Act, the regulations, Finance Minister’s Orders, Special Instructions and any other law.
 
              (3)  In this section:
-
-                    <a name="administ"></a>**_administer_**, in relation to an arrangement, includes give effect to.
-
-                    <a name="arrang"></a>**_arrangement_** includes contract, agreement or deed.
-
-                    <a name=""></a>**_make_**, in relation to an arrangement, includes enter into.
 
                     <a name="proper-us"></a>**_proper use_** means efficient, effective, economical and ethical use that is not inconsistent with the policies of the Commonwealth.
 
@@ -1374,7 +1272,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="authorised-invest"></a><a name="authorised-invest"></a>**_authorised investment_** has the same meaning as in paragraph (b) of the definition of **_authorised investment_** in subsection 39(10).
 
-##### <a id="63"></a>63  Finance Minister’s Orders
+##### <a id="63"></a>63  Finance Minister’s Orders
 
              (1)  The Finance Minister may, by legislative instrument, make Orders:
 
@@ -1726,23 +1624,6 @@ Remainder: 7 Apr 2006</div>
   </td>
   <td>
     <div>Sch. 4 (items 14, 15)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 3) 2012</div>
-  </td>
-  <td>
-    <div>77, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–9): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 9)</div>
   </td>
 </tr></table>
 
@@ -2221,54 +2102,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div><b>Division 3B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3B of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32B</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32C</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32D</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32E</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 4</b></div>
   </td>
   <td>
@@ -2480,7 +2313,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 90, 2008; No. 148, 2010; No. 77, 2012</div>
+    <div>am. No. 90, 2008; No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2489,14 +2322,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>ad. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3011,46 +2836,5 @@ The amendment made by item  3 of this Schedule applies to determinations made on
                      (b)  the delegation was in force immediately before the commencement of item 12 of this Schedule.
 
 (2)       The delegation has effect, after the commencement of this item, as if it had been made under subsection 62(1) of the _Financial Management and Accountability Act 1997_ as amended by item  12 of this Schedule.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 3) 2012 
- (No. 77, 2012)_
-
-## Schedule 1
-
-## 9  Transitional—pre‑commencement arrangements
-
-(1)       This item applies to an arrangement made, or purportedly made, by the Commonwealth before the commencement of this item if:
-
-                     (a)  assuming that:
-
-                              (i)  section 32B of the _Financial Management and Accountability Act 1997_ as amended by this Schedule; and
-
-                             (ii)  any regulations made for the purposes of subparagraph (1)(b)(i), (ii) or (iii) of that section within the transitional period; and
-
-                            (iii)  the amendments made by Schedule 2 to this Act;
-
-                            had been in force when the arrangement was made or purportedly made, the arrangement would have been authorised by subsection (1) of that section; and
-
-                     (b)  the arrangement was in force, or purportedly in force, immediately before the commencement of this item.
-
-For this purpose, it is immaterial whether the arrangement was the subject of a proceeding instituted in a court or tribunal before the commencement of this item.
-
-(2)       The arrangement has, and is taken to have had, effect, after the commencement of this item, as if it had been made under subsection 32B(1) of the _Financial Management and Accountability Act 1997_ as amended by this Schedule.
-
-(3)       In this item:
-
-**_arrangement_** includes contract, agreement or deed.
-
-**_made_**, in relation to an arrangement, includes entered into.
-
-**_transitional period_** means:
-
-                     (a)  the 60‑day period beginning at the commencement of this item; or
-
-                     (b)  if a longer period is specified in the regulations—that longer period.
-
-(4)       The Governor‑General may make regulations for the purposes of paragraph (b) of the definition of **_transitional period_** in subitem (3).
 
  
