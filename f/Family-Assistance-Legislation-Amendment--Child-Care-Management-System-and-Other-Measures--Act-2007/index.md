@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00609/Html/e036a01d-067f-40c9-9d46-de6b8e9f491e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00606/Html/c659a87a-8680-4776-96bf-d107307a1233_files/image001.gif)
 
 # Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007
 
 **Act No. 118 of 2007 as amended**
 
-This compilation was prepared on 26 July 2011
- taking into account amendments up to Act No. 79 of 2011
+This compilation was prepared on 25 July 2011
+ taking into account amendments up to Act No. 25 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1595,19 +1595,9 @@ has not passed on any amount in reduced fees during the period.
 
 **_item 97A_** means item 97A of this Schedule as modified by the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Regulations 2009_.
 
-## 97C  Payments under items 97 and 97A subject to set off<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+## 97C  Payments under items 97 and 97A subject to set off<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 3]</span>
 
-(1)       Subitem 97(5) and subitem 97A(5) are subject to:
-
-                     (a)  paragraph 82(2)(a) of the Family Assistance Administration Act (about set off of debts); and
-
-                     (b)  subsection 219QA(3) of that Act (about set off where amount of applicable fee reduction reduced on recalculation); and
-
-                   (ba)  subsection 219QD(3) of that Act (about set off where amount of weekly child care rebate reduced on recalculation); and
-
-                     (c)  section 219RC of that Act (about set off of enrolment advances); and
-
-                     (d)  section 219RE of that Act (about set off of business continuity payments).
+(1)       Subitem 97(5) and subitem 97A(5) are subject to section 219RE of the Family Assistance Administration Act (about setting off business continuity payments).
 
 (2)       In this item:
 
@@ -1651,7 +1641,7 @@ has not passed on any amount in reduced fees during the period.
 
 (5)       If an approved child care service is required to give a report under this item for a relevant period, it is not required to give a report under section 219N, as in force immediately before the commencement of this Schedule, containing the information set out in subsection (5) of that section, for that period. However, it is a condition for the continued approval of the service that the service comply with this item.
 
-## 99  Information other than protected information obtained for the purposes of the Child Care Management System Pilot
+## 99  Information other than protected information obtained for the purposes of the Child Care Management System Pilot
 
 (1)       A person may obtain information other than protected information for the purposes of the Child Care Management System Pilot.
 
@@ -2147,7 +2137,7 @@ Add at the end:
 
                ; or (c)  a decision of a kind mentioned in subsection 144(1) (decisions in relation to child care services and registered carers).
 
-## 7  After section 109D
+## 7  After section 109D
 
 Insert:
 
@@ -2647,25 +2637,8 @@ Schedule 6: 14 Apr 2010</div>
     <div>21 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 15): <i>(b)</i> 
-Schedule 3 (item 9): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>79, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 33): 26 July 2011</div>
+    <div>Schedule 2 (item 15): \[ <i>see (b)</i>and Note 2] 
+Schedule 3 (item 9): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2811,7 +2784,7 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
   </td>
   <td>
     <div>
-      26 July 2011
+
     </div>
   </td>
 </tr>
@@ -2828,7 +2801,8 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
   </td>
   <td>
     <div>
-      26 July 2011
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -2922,14 +2896,6 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 25 and 79, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 102</div>
   </td>
   <td>
@@ -2938,6 +2904,23 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
 </tr></table>
 
 ### Note 2
+
+_Family Assistance Legislation Amendment (Child Care Rebate) Act 2011
+ (No. 25, 2011)_
+
+The following amendment commences immediately after 26 July 2011:
+
+## Schedule 2
+
+## 15  After paragraph 97C(1)(b) of Schedule 1
+
+Insert:
+
+                   (ba)  subsection 219QD(3) of that Act (about set off where amount of weekly child care rebate reduced on recalculation); and
+
+As at 25 July 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
 
 Paragraph 97C(1)(b) of Schedule 1—Schedule 3 (item 9) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ (No. 25, 2011) provides as follows:
 
