@@ -1,42 +1,47 @@
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image001.gif)
 
 # Radio Licence Fees Act 1964
 
 **Act No. 119 of 1964 as amended**
 
-This compilation was prepared on 30 May 2007
- taking into account amendments up to Act No. 69 of 2007
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 53 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Incorporation of Broadcasting Act                                                       1
+[3](#3).            Incorporation of Broadcasting Act                                                      1
 
-[4](#4).            Interpretation                                                                                        1
+[4](#4).            Interpretation                                                                                       1
 
 [5](#5).            Licence fees                                                                                          2
 
 [6](#6).            Amount of fees                                                                                    2
 
-[6A](#6A).         Change of accounting period—effect on fees payable                          4
+[6A](#6A).         Change of accounting period—effect on fees payable                         4
 
 [7](#7).            Earnings of subsidiary companies etc                                                  5
 
 [8](#8).            Regulations                                                                                          6
 
 **Notes** 
+
+ 
+
 
 ## An Act to provide for the payment of fees in respect of certain radio licences
 
@@ -58,7 +63,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
 
-                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the broadcasting, by the service or services provided under the licence, of advertisements or other material.
+                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the broadcasting, by the service provided under the licence, of advertisements or other material.
 
                     <a name="licenc"></a>**_licence_** means:
 
@@ -92,23 +97,23 @@ a fee of an amount equal to the relevant percentage of the gross earnings in res
 
                      (a)  where those gross earnings are less than $5,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image002.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image002.gif)</sub>;
 
                      (b)  where those gross earnings are not less than $5,000,000 but are less than $6,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image003.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image003.gif)</sub>;
 
                      (c)  where those gross earnings are not less than $6,000,000 but are less than $7,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image004.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image004.gif)</sub>;
 
                      (d)  where those gross earnings are not less than $7,000,000 but are less than $10,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image005.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image005.gif)</sub>;
 
                      (e)  where those gross earnings are not less than $10,000,000—whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image006.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image006.gif)</sub>;
 
                             where **_A_** is the number of dollars in those gross earnings.
 
@@ -142,33 +147,33 @@ section 6 applies in relation to the fee payable on the anniversary referred t
 
                      (e)  subsection 6(2A) were omitted and the following subsection were substituted:
 
-                        “(2A)  In subsection (2), **_relevant percentage_**, in relation to gross earnings in respect of a licence during a period, means:
+                         “(2A)  In subsection (2), **_relevant percentage_**, in relation to gross earnings in respect of a licence during a period, means:
 
                                          (a)  where **_A_**is less than $5,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image007.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image007.gif)</sub>;
 
                                          (b)  where **_A_** is not less than $5,000,000 but is less than $6,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image008.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image008.gif)</sub>;
 
                                          (c)  where **_A_** is not less than $6,000,000 but is less than $7,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image009.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image009.gif)</sub>;
 
                                          (d)  where **_A_**is not less than $7,000,000 but is less than $10,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image010.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image010.gif)</sub>; or
 
                                          (e)  where **_A_** is not less than $10,000,000—whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image011.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image011.gif)</sub>
 
                                                where:
 
                     <a name=""></a>**_A_** is the amount ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00334/Html/a7908361-6bf1-465e-8208-0c9f22f5338a_files/image012.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image012.gif)</sub>
 
                     <a name=""></a>**_B_** is the number of dollars in the gross earnings in respect of the licence during the period; and
 
@@ -186,11 +191,12 @@ the ACMA may direct that the amount or the part of the amount, as the case may b
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed in carrying out or giving effect to this Act. 
+
 
 # Notes to the _Radio Licence Fees Act 1964_
 
@@ -218,11 +224,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -232,377 +240,370 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Act 1964</div>
-  </td>
-  <td>
-    <div>119, 1964</div>
-  </td>
-  <td>
-    <div>24 Nov 1964</div>
-  </td>
-  <td>
-    <div>24 Nov 1964</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Act 1973</div>
-  </td>
-  <td>
-    <div>148, 1973</div>
-  </td>
-  <td>
-    <div>22 Nov 1973</div>
-  </td>
-  <td>
-    <div>22 Aug 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>188, 1976</div>
-  </td>
-  <td>
-    <div>15 Dec 1976</div>
-  </td>
-  <td>
-    <div>1 Jan 1977</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1977</div>
-  </td>
-  <td>
-    <div>94, 1977</div>
-  </td>
-  <td>
-    <div>22 Sept 1977</div>
-  </td>
-  <td>
-    <div>1 Sept 1977</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>50, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1981</div>
-  </td>
-  <td>
-    <div>114, 1981</div>
-  </td>
-  <td>
-    <div>24 June 1981</div>
-  </td>
-  <td>
-    <div>24 June 1981 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Act 1981</div>
-  </td>
-  <td>
-    <div>168, 1981</div>
-  </td>
-  <td>
-    <div>2 Dec 1981</div>
-  </td>
-  <td>
-    <div>1 Sept 1981</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1982</div>
-  </td>
-  <td>
-    <div>155, 1982</div>
-  </td>
-  <td>
-    <div>31 Dec 1982</div>
-  </td>
-  <td>
-    <div>31 Dec 1982 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1983</div>
-  </td>
-  <td>
-    <div>58, 1983</div>
-  </td>
-  <td>
-    <div>12 Oct 1983</div>
-  </td>
-  <td>
-    <div>1 Sept 1983</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Stations Licence Fees Amendment Act 1985</div>
-  </td>
-  <td>
-    <div>68, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>1 Jan 1986</div>
-  </td>
-  <td>
-    <div>S. 11</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>66, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>14 Sept 1987 ( <i>see Gazette</i>1987, No. S231)</div>
-  </td>
-  <td>
-    <div>Ss. 7 and 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees Amendment Act (No. 2) 1987</div>
-  </td>
-  <td>
-    <div>116, 1987</div>
-  </td>
-  <td>
-    <div>16 Dec 1987</div>
-  </td>
-  <td>
-    <div>16 Dec 1987</div>
-  </td>
-  <td>
-    <div>Ss. 8 and 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees (National Metropolitan Radio Plan) Act 1988</div>
-  </td>
-  <td>
-    <div>144, 1988</div>
-  </td>
-  <td>
-    <div>26 Dec 1988</div>
-  </td>
-  <td>
-    <div>26 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>146, 1988</div>
-  </td>
-  <td>
-    <div>26 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part IV (ss. 51, 52): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>184, 1991</div>
-  </td>
-  <td>
-    <div>6 Dec 1991</div>
-  </td>
-  <td>
-    <div>Ss. 3, 6 and 8: 1 Jan 1992 
+<tbody>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Act 1964</div>
+    </td>
+    <td>
+      <div>119, 1964</div>
+    </td>
+    <td>
+      <div>24 Nov 1964</div>
+    </td>
+    <td>
+      <div>24 Nov 1964</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Act 1973</div>
+    </td>
+    <td>
+      <div>148, 1973</div>
+    </td>
+    <td>
+      <div>22 Nov 1973</div>
+    </td>
+    <td>
+      <div>22 Aug 1973</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>188, 1976</div>
+    </td>
+    <td>
+      <div>15 Dec 1976</div>
+    </td>
+    <td>
+      <div>1 Jan 1977</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1977</div>
+    </td>
+    <td>
+      <div>94, 1977</div>
+    </td>
+    <td>
+      <div>22 Sept 1977</div>
+    </td>
+    <td>
+      <div>1 Sept 1977</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>50, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1981</div>
+    </td>
+    <td>
+      <div>114, 1981</div>
+    </td>
+    <td>
+      <div>24 June 1981</div>
+    </td>
+    <td>
+      <div>24 June 1981 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Act 1981</div>
+    </td>
+    <td>
+      <div>168, 1981</div>
+    </td>
+    <td>
+      <div>2 Dec 1981</div>
+    </td>
+    <td>
+      <div>1 Sept 1981</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1982</div>
+    </td>
+    <td>
+      <div>155, 1982</div>
+    </td>
+    <td>
+      <div>31 Dec 1982</div>
+    </td>
+    <td>
+      <div>31 Dec 1982 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1983</div>
+    </td>
+    <td>
+      <div>58, 1983</div>
+    </td>
+    <td>
+      <div>12 Oct 1983</div>
+    </td>
+    <td>
+      <div>1 Sept 1983</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Stations Licence Fees Amendment Act 1985</div>
+    </td>
+    <td>
+      <div>68, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>1 Jan 1986</div>
+    </td>
+    <td>
+      <div>S. 11</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radio Licence Fees Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>66, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>14 Sept 1987 ( <i>see Gazette</i>1987, No. S231)</div>
+    </td>
+    <td>
+      <div>Ss. 7 and 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radio Licence Fees Amendment Act (No. 2) 1987</div>
+    </td>
+    <td>
+      <div>116, 1987</div>
+    </td>
+    <td>
+      <div>16 Dec 1987</div>
+    </td>
+    <td>
+      <div>16 Dec 1987</div>
+    </td>
+    <td>
+      <div>Ss. 8 and 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radio Licence Fees (National Metropolitan Radio Plan) Act 1988</div>
+    </td>
+    <td>
+      <div>144, 1988</div>
+    </td>
+    <td>
+      <div>26 Dec 1988</div>
+    </td>
+    <td>
+      <div>26 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>146, 1988</div>
+    </td>
+    <td>
+      <div>26 Dec 1988</div>
+    </td>
+    <td>
+      <div>Part IV (ss. 51, 52): <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radio Licence Fees Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>184, 1991</div>
+    </td>
+    <td>
+      <div>6 Dec 1991</div>
+    </td>
+    <td>
+      <div>Ss. 3, 6 and 8: 1 Jan 1992 
 Ss. 7 and 9: 31 Dec 1992 
-Remainder: 3 Jan 1992</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 11</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>82, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>Ss. 5(2), 6 and 7: 30 Dec 1992 
+Remainder: 3 Jan 1992 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 11</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>82, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>Ss. 5(2), 6 and 7: 30 Dec 1992 
 Ss. 16, 18, 19, 20(1) and 21: <i>(b)</i> 
 Ss. 22–25: 1 Jan 1992 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 25 and 26</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>105, 1992</div>
-  </td>
-  <td>
-    <div>9 July 1992</div>
-  </td>
-  <td>
-    <div>5 Oct 1992 ( <i>see</i> 
-s. 2 and <i>Gazette</i>1992, No. GN38)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>142, 1997</div>
-  </td>
-  <td>
-    <div>8 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3, 5–10): 8 Oct 1997 
-Schedule 1 (item 4): 5 Oct 1992 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>53, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radio Licence Fees Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>69, 2007</div>
-  </td>
-  <td>
-    <div>28 May 2007</div>
-  </td>
-  <td>
-    <div>29 May 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 25 and 26</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>105, 1992</div>
+    </td>
+    <td>
+      <div>9 July 1992</div>
+    </td>
+    <td>
+      <div>5 Oct 1992 ( <i>see</i> 
+s. 2 and <i>Gazette</i>1992, No. GN38) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radio Licence Fees Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>142, 1997</div>
+    </td>
+    <td>
+      <div>8 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–3, 5–10): 8 Oct 1997 
+Schedule 1 (item 4): 5 Oct 1992 <i>(c)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radio Licence Fees Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>53, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Radio Licence Fees Act 1964_ was amended by Part IV (sections 51 and 52) only of the _Broadcasting Legislation Amendment Act 1988_, subsection 2(4) of which provides as follows:
 
                  (4)   Sections 51 and 52 are to have commenced on 16 December 1987.
 
-_(b)_     The _Radio Licence Fees Act 1964_ was amended by Part 4 (sections 22–26) only of the _Transport and Communications Legislation Amendment Act 1992_, subsections 2(1) and (5) of which provide as follows:
+_(b)_    The _Radio Licence Fees Act 1964_ was amended by Part 4 (sections 22–26) only of the _Transport and Communications Legislation Amendment Act 1992_, subsections 2(1) and (5) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -614,7 +615,6 @@ _(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 
 
                  (2)   Item 4 of Schedule 1 is taken to have commenced on 5 October 1992.
 
- 
 
 ## Table of Amendments
 
@@ -639,190 +639,193 @@ _(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 68, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1981; No. 68, 1985; No. 105, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1985; No. 66, 1987; No. 146, 1988; No. 184,1991; No. 105, 1992; No. 142, 1997; No. 53, 2005; No. 69, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1981; No. 68, 1985; No. 66, 1987; No. 142, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 148, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 1976; No. 94, 1977; No. 50, 1978; Nos. 114 and 168, 1981; No. 58, 1983; No. 68, 1985; Nos. 66 and 116, 1987; No. 184, 1991; Nos. 82 and 105, 1992; No. 142, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 116, 1987; No. 184, 1991; No. 82, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6B</div>
-  </td>
-  <td>
-    <div>ad. No. 116, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 184, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 142, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6BA</div>
-  </td>
-  <td>
-    <div>ad. No. 184, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 142, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 142, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1985; No. 142, 1997; No. 53, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>ad. No. 114, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 68, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 116, 1987</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 68, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 68, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1981; No. 68, 1985; No. 105, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 68, 1985; No. 66, 1987; No. 146, 1988; No. 184,1991; No. 105, 1992; No. 142, 1997; No. 53, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1981; No. 68, 1985; No. 66, 1987; No. 142, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 148, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 188, 1976; No. 94, 1977; No. 50, 1978; Nos. 114 and 168, 1981; No. 58, 1983; No. 68, 1985; Nos. 66 and 116, 1987; No. 184, 1991; Nos. 82 and 105, 1992; No. 142, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 66, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 116, 1987; No. 184, 1991; No. 82, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6B</div>
+    </td>
+    <td>
+      <div>ad. No. 116, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 184, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 142, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6BA</div>
+    </td>
+    <td>
+      <div>ad. No. 184, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 142, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6C</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep No. 142, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 68, 1985; No. 142, 1997; No. 53, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>ad. No. 114, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 155, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 68, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 116, 1987</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -844,6 +847,5 @@ In this Schedule:
 
 A direction made by the ABA under section 7 of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it had been made by the ACMA under that section as amended by Schedule 1 to this Act.
 
- 
 
  
