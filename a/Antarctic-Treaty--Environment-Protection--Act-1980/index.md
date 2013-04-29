@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00347/Html/AntarcticTreatEnviroProt80_2002_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00705/Html/AntarcticTreatEnviroProt80_2002_image001.gif)
 
 # Antarctic Treaty (Environment Protection) Act 1980
 
 **Act No. 103 of 1980 as amended**
 
-This compilation was prepared on 11 June 2007
+This compilation was prepared on 13 December 2006
  taking into account amendments up to Act No. 164 of 2006
 
 The text of any of those amendments not in force 
@@ -48,8 +48,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Grant and renewal of permit
 
-[9A](#9A).         Authorities under permits
-
 [10](#10).          Restrictions applicable to permits
 
 [11](#11).          Variation, suspension and revocation of permits
@@ -86,8 +84,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12P](#12P).        Variation etc  of conditions
 
-[12PA](#12PA).     Method of giving notice of variations etc 
-
 [12Q](#12Q).       Monitoring of activities
 
 **Part 4—Inspectors**
@@ -108,10 +104,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Offences relating to the environment
 
-[19AA](#19AA).    Offences relating to rocks and meteorites
-
-[19AB](#19AB).    Offence relating to return of indigenous species
-
 [19A](#19A).       Prohibition against mining in the Territory
 
 [19B](#19B).       Prohibition against mining in the Antarctic
@@ -121,10 +113,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [20](#20).          Contravening conditions of permits
 
 [21](#21).          Furnishing information
-
-[21AA](#21AA).    Giving information about act done in emergency situation
-
-[21AB](#21AB).    Giving further information about act done in emergency situation
 
 [21A](#21A).       Unauthorised activities
 
@@ -180,13 +168,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                     <a name="aircraft"></a>**_aircraft_** means a machine or apparatus that can derive support in the atmosphere from the reactions of the air or from buoyancy, but does not include a hovercraft.
 
-                    <a name="anim"></a>**_animal_** includes:
-
-                     (a)  a native bird, a native invertebrate and a native seal; and
-
-                     (b)  an egg, part of an egg and an eggshell; and
-
-                     (c)  a dead animal and part of a dead animal (but not something manufactured from a dead animal or from part of a dead animal).
+                    <a name="anim"></a>**_animal_** includes a native mammal, a native bird, a native invertebrate and a seal (whether indigenous to the Antarctic or not).
 
                     <a name="contract-parti"></a>**_another Contracting Party_** means a Contracting Party to the Treaty other than Australia.
 
@@ -244,8 +226,6 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                     <a name="correspond-law"></a>**_corresponding law_** means a law of another Contracting Party, as in force for the time being, giving effect to the Treaty or the Madrid Protocol.
 
-                    <a name="disturb"></a>**_disturb_** an animal means cause a change in the animal’s behaviour otherwise than by physical contact with the animal.
-
                     <a name="drive"></a>**_drive_**, in relation to an aircraft, means to cause the aircraft to travel on land or water.
 
                     <a name="foreign"></a>**_foreign_** means of or pertaining to a country other than Australia.
@@ -274,8 +254,6 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                      (b)  a person referred to in section 14.
 
-                    <a name="interfer"></a>**_interfere_** has a meaning affected by subsection (7).
-
                     <a name="land"></a>**_land_**:
 
                      (a)  when used as a verb in relation to an aircraft, includes to cause the aircraft to alight on water; and
@@ -290,19 +268,25 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                     <a name="nativ-bird"></a>**_native bird_** means:
 
-                     (a)  a member, at any stage of its life cycle (including an egg, part of an egg and an eggshell), of any species of bird that is indigenous to the Antarctic; or
+                     (a)  any member, at any stage of its life cycle (including eggs), of any species of the Class _Aves_ that:
 
-                     (b)  a dead bird, or any part of a dead bird, of any species referred to in paragraph (a).
+                              (i)  is indigenous to the Antarctic; or
+
+                             (ii)  comes to the Antarctic seasonally through natural migrations; or
+
+                     (b)  any dead specimen of any species referred to in paragraph (a).
 
                     <a name="nativ-invertebr"></a>**_native invertebrate_** means any terrestrial or fresh water invertebrate, at any stage of its life cycle, indigenous to the Antarctic.
 
+                    <a name="nativ-mammal"></a>**_native mammal_** means:
+
+                     (a)  any member, at any stage of its life cycle, of any species of the Class _Mammalia_ indigenous to the Antarctic except whales and seals; or
+
+                     (b)  any member, at any stage of its life cycle, of any species of the Class _Mammalia_ that comes to the Antarctic seasonally through natural migration except whales and seals; or
+
+                     (c)  any dead specimen of any species referred to in paragraph (a) or (b) except whales and seals.
+
                     <a name="nativ-plant"></a>**_native plant_** means any kind of vegetation, at any stage of its life cycle (including seeds), indigenous to the Antarctic.
-
-                    <a name="nativ-seal"></a>**_native seal_** means:
-
-                     (a)  a member, at any stage of its life cycle, of any species of seal that is indigenous to the Antarctic; or
-
-                     (b)  a dead seal, or any part of a dead seal, of a species mentioned in paragraph (a).
 
                     <a name="permit"></a>**_permit_** means a permit in force under Part 2 of this Act.
 
@@ -314,11 +298,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                      (a)  authorises the carrying on of an activity in the Antarctic; and
 
-                     (b)  either:
-
-                              (i)  has been issued, given or made by a Party (other than Australia) to the Madrid Protocol that has accepted under that Protocol the same obligations as Australia in relation to the carrying on of that activity in the Antarctic; or
-
-                             (ii)  has been issued, given or made by a Party (other than Australia) to the Seals Convention that has accepted under that Convention the same obligations as Australia in relation to the carrying on of that activity in the Antarctic.
+                     (b)  has been issued, given or made by a Party (other than Australia) to the Madrid Protocol that has accepted under that Protocol the same obligations as Australia in relation to the carrying on of that activity in the Antarctic.
 
                     <a name="seal-convent"></a>**_Seals Convention_** means the Convention for the Conservation of Antarctic Seals (a copy of the English text of which is set out in Schedule 1) as affected by the amendments to the Annex to the Convention that:
 
@@ -328,9 +308,9 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                      (c)  became effective on 27 March 1990.
 
-                    <a name="special-protect-speci"></a>**_specially protected species_** means a specially protected species of native seal, native bird or native plant declared under section 7C.
+                    <a name="special-protect-speci"></a>**_specially protected species_** means a specially protected species of native mammal, native bird or native plant declared under section 7C.
 
-                    <a name=""></a>**_take_**, in relation to a native bird or native seal, includes catch or capture.
+                    <a name=""></a>**_take_**, in relation to a native bird or native mammal, includes catch or capture.
 
                     <a name="territori"></a>**_Territory_** means the Australian Antarctic  Territory.
 
@@ -342,6 +322,8 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                     <a name="vessel"></a>**_vessel_** means a vessel or boat of any description and includes any floating structure, but does not include a hovercraft.
 
+                    <a name="whale"></a>**_whale_** means any member of the sub-order _Mysticeti_ or _Odontoceti_ of the order _Cetacea_.
+
              (2)  Unless the contrary intention appears, a reference in this Act to a virus or bacterium shall be read as including a reference to an article containing, or an article, animal or plant infected by, a virus or bacterium.
 
              (3)  A reference in this Act to an offence shall be read as including a reference to an offence created by section 6, 7, 7A or 86 of the _Crimes Act 1914_ in relation to this Act.
@@ -349,12 +331,6 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
              (4)  A reference in this Act to a member of the Australian Federal Police or to a member of a police force shall be read as including a reference to a special member of the Australian Federal Police.
 
              (5)  Except so far as the contrary intention appears, an expression that is used in both this Act and either the Treaty or the Madrid Protocol (whether or not a particular meaning is assigned to it by the Treaty or the Protocol) has, in this Act, the same meaning as in the Treaty or the Protocol, as the case may be.
-
-             (6)  Except so far as the contrary intention appears, an expression that is used in both this Act and in the Seals Convention (whether or not a particular meaning is assigned to it by that Convention) has, in this Act, the same meaning as in the Convention.
-
-             (7)  A reference in this Act to otherwise interfering with, or causing other interference with, an animal does not include a reference to disturbing the animal.
-
-Note:          **_Disturb_** is defined in subsection (1).
 
 ##### <a id="4"></a>4  Application of Act
 
@@ -416,9 +392,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7C"></a>7C  Specially protected species
 
-             (1)  Subject to subsection (2), if a species of native seal, native bird or native plant is specified in Annex II to the Madrid Protocol for the purpose of designation as a specially protected species, the Minister may, by notice in the _Gazette_, declare that species to be a specially protected species.
+             (1)  Subject to subsection (2), if a species of native mammal, native bird or native plant is specified in Annex II to the Madrid Protocol for the purpose of designation as a specially protected species, the Minister may, by notice in the _Gazette_, declare that species to be a specially protected species.
 
-             (2)  If a species of native seal or native bird was, immediately before the commencement of this section, a specially protected species because of a declaration under subsection 8(7) as then in force, that declaration has effect, for the purposes of this Act, as if it were a declaration made under subsection (1) on the commencement of this section.
+             (2)  If a species of native mammal or native bird was, immediately before the commencement of this section, a specially protected species because of a declaration under subsection 8(7) as then in force, that declaration has effect, for the purposes of this Act, as if it were a declaration made under subsection (1) on the commencement of this section.
 
              (3)  The Minister may, by notice published in the _Gazette_, vary or revoke a declaration made under subsection (1) or referred to in subsection (2).
 
@@ -468,37 +444,11 @@ is taken to be within the Antarctic specially protected area or the Antarctic sp
 
 ##### <a id="9"></a>9  Grant and renewal of permit
 
-             (1)  On application to the Minister in the prescribed form (or, if no form is prescribed, in a form approved by the Minister), the Minister may grant a person a permit in writing authorising the person, and any other person named in the permit, to carry on, during a specified period, one or more of the activities specified in the permit.
-
-       (1AA)  The activities that may be authorised by a permit are the following:
-
-                     (a)  an activity that has a result mentioned in paragraph 19(1A)(b);
-
-                     (b)  an activity mentioned in paragraph 19(1)(b);
-
-                     (c)  an activity mentioned in paragraph 19(1)(c);
-
-                     (d)  an activity mentioned in paragraph 19(1)(d);
-
-                     (e)  an activity mentioned in subsection 19(2) (other than paragraph (g));
-
-                      (f)  an activity mentioned in paragraphs 19AA(1)(a) and (b);
-
-                     (g)  an activity mentioned in paragraph 19AA(2)(a), if the rock or meteorite is to be gathered or collected in the Antarctic;
-
-                     (h)  an activity mentioned in paragraph 19AB(a), if the seal, bird or plant is a native seal, native bird or native plant.
-
-        (1AB)  Subsection (1) is subject to this section and to section 10.
-
-        (1AC)  The Minister may grant a permit under subsection (1) subject to such conditions as the Minister thinks fit.
+             (1)  Subject to this section and to section 10, upon application made to the Minister in accordance with the prescribed form or, if no form is prescribed, a form approved by him or her, the Minister may, upon such conditions as he or she thinks fit, grant to a person a permit in writing authorizing the person to carry on during a specified period any specified activity or activities of the kind or kinds referred to in the provisions of subsections 19(1) and (2) (other than paragraphs (1)(caa), (1)(ca), (1)(e), (1)(f), (1)(g) and (2)(g)).
 
           (1A)  The permit must specify the area in which the activity is to be carried on.
 
-             (2)  In deciding whether to grant a permit, and in determining the conditions and limitations to which a permit is to be subject, the Minister must have regard to:
-
-                     (a)  the purposes and principles of the Madrid Protocol; and
-
-                     (b)  if the decision could affect a seal in seas to which the Seals Convention applies—the purposes and principles of the Seals Convention.
+             (2)  In deciding whether to grant a permit and in determining the conditions and limitations subject to which a permit is to be granted, the Minister shall have due regard to the purposes and principles of the Madrid Protocol.
 
           (2A)  The Minister may not grant a permit authorising an activity to which Part 3 applies unless the Minister has, under that Part, authorised the proponent of the activity (within the meaning of that Part) to carry on the activity.
 
@@ -522,49 +472,21 @@ and the permit may be expressed to apply to all those members or persons or to s
 
              (7)  In this section, **_grant_** includes grant by way of renewal.
 
-##### <a id="9A"></a>9A  Authorities under permits
-
-             (1)  A person who is a principal under a permit (see subsection (6)) may authorise, as necessary, other persons to accompany one or more of the principals under that permit in carrying on activities authorised by the permit.
-
-             (2)  A principal must not authorise a person under subsection (1) unless:
-
-                     (a)  the permit contains a condition allowing principals to do so; and
-
-                     (b)  the authorisation is given in accordance with any requirements set out in that condition and any other conditions contained in the permit.
-
-             (3)  A person authorised to accompany principals under a permit must comply with the conditions of the permit.
-
-             (4)  Subject to subsection (3), a permit is, for the purposes of this Act, taken to authorise the carrying on by a person authorised under subsection (1) of any activity specified in the permit.
-
-             (5)  The authorisation of a person under subsection (1) does not prevent a principal under that permit from carrying on any activities.
-
-             (6)  In this section:
-
-                    <a name="princip"></a>**_principal_**, under a permit, means a person:
-
-                     (a)  to whom the permit was granted under subsection 9(1); or
-
-                     (b)  who is named in the permit.
-
 ##### <a id="10"></a>10  Restrictions applicable to permits
 
-             (1)  A permit shall not authorize a person to kill, take, injure or otherwise interfere with a native bird or native seal unless:
+             (1)  A permit shall not authorize a person to kill, take, injure or otherwise interfere with a native bird or native mammal unless:
 
                      (a)  the Minister is satisfied that:
 
-                              (i)  the number of birds or seals of any species that may be killed or taken from local populations in that year by virtue of that permit and all other permits granted under section 9 and by virtue of corresponding laws will be replaced in the immediately succeeding breeding season by natural reproduction; and
+                              (i)  the number of birds or mammals of any species that may be killed or taken in that year by virtue of that permit and all other permits granted under section 9 and by virtue of corresponding laws will be replaced in the immediately succeeding breeding season by natural reproduction; and
 
-                             (ii)  the variety of species, the habitats essential to their existence and the balance of the natural ecological systems existing within the Antarctic will be maintained; and
+                             (ii)  the variety of species, the habitats essential to their existence and the balance of the natural ecological systems existing within the Antarctic will be maintained;
 
                      (b)  the permit is so expressed as to ensure, as far as possible, that the activities authorized by the permit will be carried on to the extent only that they are necessary for:
 
-                              (i)  if the permit relates to native birds—the construction and operation of scientific support facilities; or
+                              (i)  the construction and operation of scientific support facilities; and
 
-                             (ii)  if the permit relates to native birds or native seals—providing specimens for scientific research, public education (including display in museums, zoological gardens or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit; or
-
-                            (iii)  if the permit relates to native birds—monitoring or conserving the environment or an historic site or monument; or
-
-                            (iv)  if the permit relates to native birds—providing for unavoidable consequences of scientific activities not authorised under subparagraph (ii); and
+                             (ii)  providing specimens for scientific research, public education (including display in museums, zoological gardens or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit; and
 
                      (c)  in the case of a permit relating to a specially protected species:
 
@@ -572,31 +494,23 @@ and the permit may be expressed to apply to all those members or persons or to s
 
                              (ii)  the Minister is satisfied that the activities authorized by the permit will not jeopardize the existing ecological system or the survival or recovery of that species or of the local population of that species.
 
-          (1A)  A permit authorising a person to kill, take, injure or otherwise interfere with a native bird or seal must specify as a condition of the permit that the bird or seal is to be dealt with in the manner that involves the least degree of pain and suffering practicable.
+          (1A)  A permit authorising a person to kill, take, injure or otherwise interfere with a native bird or mammal must specify as a condition of the permit that the bird or mammal is to be dealt with in the manner that involves the least degree of pain and suffering practicable.
 
           (1B)  A permit must not authorise a person to gather, collect, endanger or otherwise interfere with a native plant unless:
 
-                     (a)  the Minister is satisfied, after taking into account the number of native plants of any species that may be affected because of that permit and all other permits granted under section 9 or under corresponding laws, that the variety of species of native plants, the habitats essential to the existence of native seals, native birds, native invertebrates and native plants, and the balance of the natural ecological systems, existing within the Antarctic will be maintained; and
+                     (a)  the Minister is satisfied, after taking into account the number of native plants of any species that may be affected because of that permit and all other permits granted under section 9 or under corresponding laws, that the variety of species of native plants, the habitats essential to the existence of native animals and native plants, and the balance of the natural ecological systems, existing within the Antarctic will be maintained; and
 
                      (b)  the permit is so expressed as to ensure, as far as possible, that the activities authorised by the permit will be carried on to the extent only that they are necessary for:
 
-                              (i)  the construction and operation of scientific support facilities; or
+                              (i)  the construction and operation of scientific support facilities; and
 
-                             (ii)  providing specimens for scientific research, public education (including display in museums, herbaria, botanical gardens or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit; or
-
-                            (iii)  monitoring or conserving the environment or an historic site or monument; or
-
-                            (iv)  providing for unavoidable consequences of scientific activities not authorised under subparagraph (ii); and
+                             (ii)  providing specimens for scientific research, public education (including display in museums, herbaria, botanical gardens or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit; and 
 
                      (c)  in the case of a permit relating to a specially protected species:
 
                               (i)  the permit is granted for a compelling scientific purpose; and
 
                              (ii)  the Minister is satisfied that the activities authorised by the permit will not jeopardise the existing ecological system or the survival or recovery of that species or of the local population of plants of that species.
-
-          (1C)  A permit authorising a person to gather or collect a meteorite, or to remove a rock or a meteorite, must be expressed so as to ensure, as far as possible, that the activities authorised by the permit will be carried on only to the extent that they are necessary for providing specimens for scientific research, public education (including display in museums or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit.
-
-          (1D)  A permit authorising a person to bring into the Antarctic a native seal, native bird or native plant must be expressed so as to ensure, as far as possible, that the person takes all reasonable precautions to prevent the introduction of micro-organisms not present in the Antarctic.
 
              (2)  A permit must not authorise a person to bring into the Antarctic:
 
@@ -660,11 +574,7 @@ and the permit may be expressed to apply to all those members or persons or to s
 
              (1)  Subject to this section, the Minister may, while a permit is in force, by notice in writing served personally, by post or otherwise as prescribed on the holder of the permit, vary or revoke any of the conditions of the permit or impose further conditions.
 
-             (2)  In deciding whether to vary or revoke any of the conditions of a permit or to impose further conditions, the Minister must have regard to:
-
-                     (a)  the purposes and principles of the Madrid Protocol; and
-
-                     (b)  if the decision could affect a seal in seas to which the Seals Convention applies—the purposes and principles of the Seals Convention.
+             (2)  In deciding whether to vary or revoke any of the conditions of a permit or to impose further conditions, the Minister shall have due regard to the purposes and principles of the Madrid Protocol.
 
 ## Part 3—Environmental impact assessment
 
@@ -826,69 +736,27 @@ received by the Minister under this section.
 
 ##### <a id="12N"></a>12N  Variation, suspension and revocation of authorisation
 
-             (1)  The Minister may, by notice given in accordance with section 12PA, vary an authorisation to carry on an activity given under this Part if the Minister is satisfied that it is necessary to do so to act consistently with the basic environmental principles.
+             (1)  The Minister may, by notice given in accordance with the regulations, vary an authorisation to carry on an activity given under this Part if the Minister is satisfied that it is necessary to do so to act consistently with the basic environmental principles.
 
-             (2)  If the person authorised to carry on an activity so requests in writing (giving reasons for the request) the Minister may, by notice given in accordance with section 12PA, vary the authorisation if the Minister is satisfied that:
+             (2)  If the person authorised to carry on an activity so requests in writing (giving reasons for the request) the Minister may, by notice given in accordance with the regulations, vary the authorisation if the Minister is satisfied that:
 
                      (a)  the reasons given justify the variation; and
 
                      (b)  it would not be inconsistent with the basic environmental principles to vary the authorisation as requested.
 
-             (3)  The Minister may, by notice given in accordance with section 12PA, vary, suspend or revoke an authorisation to carry on an activity given under this Part if the Minister is satisfied:
+             (3)  The Minister may, by notice given in accordance with the regulations, vary, suspend or revoke an authorisation to carry on an activity given under this Part if the Minister is satisfied:
 
                      (a)  that a condition subject to which the authorisation was given has not been, or is not being, complied with; or
 
                      (b)  it is necessary to do so to act consistently with the basic environmental principles.
 
-             (4)  Subject to subsection (5), an authorisation remains suspended for such period (not exceeding 90 days after the day on which the suspension takes effect) as is specified in the notice of suspension.
+             (4)  Subject to subsection (5), an authorisation remains suspended for such period (not exceeding 90 days) as is specified in the notice of suspension.
 
              (5)  If proceedings for an offence relating to the carrying on of an activity authorised under this Part are started during a period when the authorisation is suspended, the suspension may be continued until the proceedings (including any appeal) are completed.
 
-             (6)  A variation, suspension or revocation done at the request of the person authorised to carry on an activity takes effect:
-
-                     (a)  at the time notice of the variation, suspension or revocation is given; or
-
-                     (b)  at any later time specified in the notice.
-
-             (7)  A variation, suspension or revocation not done at the request of the person authorised to carry on an activity takes effect:
-
-                     (a)  if the Minister considers that irreversible environmental damage would be likely to occur if the variation, suspension or revocation did not take effect immediately—at the time notice of the variation, suspension or revocation is given; or
-
-                     (b)  at the start of the 14th day after the day on which notice of the variation, suspension or revocation is given or at any later time specified in the notice.
-
-             (8)  Notice of a variation, suspension or revocation given under this section must state when the variation, suspension or revocation is to take effect.
-
-             (9)  A failure to comply with subsection (8) does not invalidate a notice.
-
 ##### <a id="12P"></a>12P  Variation etc. of conditions
 
-             (1)  If an authorisation under this Part has been given subject to conditions specified in the notice of authorisation, the Minister may, by notice given in accordance with section 12PA, vary or revoke any of those conditions or impose further conditions.
-
-             (2)  A variation, revocation or imposition done at the request of the person authorised to carry on an activity takes effect:
-
-                     (a)  at the time notice of the variation, revocation or imposition is given; or
-
-                     (b)  at any later time specified in the notice.
-
-             (3)  A variation, revocation or imposition not done at the request of the person authorised to carry on an activity takes effect:
-
-                     (a)  if the Minister considers that irreversible environmental damage would be likely to occur if the variation, revocation or imposition did not take effect immediately—at the time notice of the variation, revocation or imposition is given; or
-
-                     (b)  at the start of the 14th day after the day on which notice of the variation, suspension or revocation is given or at any later time specified in the notice.
-
-             (4)  Notice of a variation, revocation or imposition given under this section must state when the variation, revocation or imposition is to take effect.
-
-             (5)  A failure to comply with subsection (4) does not invalidate a notice.
-
-##### <a id="12PA"></a>12PA  Method of giving notice of variations etc.
-
-                   For the purposes of subsections 12N(1), (2) and (3) and 12P(1), the method by which notice must be given is:
-
-                     (a)  in writing to the proponent of the activity covered by the authorisation to which the notice relates; or
-
-                     (b)  by a message transmitted by radio, telephone or other electronic means to the proponent of the activity covered by the authorisation to which the notice relates; or
-
-                     (c)  by notice published in the _Gazette_.
+                   If an authorisation under this Part has been given subject to conditions specified in the notice of authorisation, the Minister may, by notice given in accordance with the regulations, vary or revoke any of those conditions or impose further conditions.
 
 ##### <a id="12Q"></a>12Q  Monitoring of activities
 
@@ -914,7 +782,7 @@ received by the Minister under this section.
 
              (2)  A person who ceases to be an inspector shall forthwith return his or her identity card to the Minister.
 
-             (3)  A person who contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding 1 penalty unit.
+             (3)  A person who contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding $100.
 
 ##### <a id="16"></a>16  Arrest without warrant
 
@@ -958,9 +826,7 @@ unless permission to do so is given by the person for the time being in control 
 
                      (a)  require any person whom he or she finds committing or whom he or she reasonably suspects of having committed an offence against this Act to state his or her full name and usual place of residence; and
 
-                     (b)  require any person whom he or she finds doing or whom he or she reasonably suspects of having done an act in respect of which the person is required to hold a permit to produce such a permit or evidence of the existence and contents of such a permit; and
-
-                     (c)  require any person whom he or she finds doing, or whom he or she reasonably suspects of having done, an activity in respect of which the person is required to be authorised under Part 3 to produce such an authorisation or evidence of the existence and content of such an authorisation.
+                     (b)  require any person whom he or she finds doing or whom he or she reasonably suspects of having done an act in respect of which the person is required to hold a permit to produce such a permit or evidence of the existence and contents of such a permit.
 
              (5)  Where an inspector (other than a member of a police force who is in uniform) stops, or proposes to search or detain, a vehicle, sled, aircraft or vessel, he or she shall:
 
@@ -978,17 +844,15 @@ and, if he or she fails to do so, he or she is not authorized to search or detai
 
 and, if he or she fails to do so, that person is not obliged to comply with the requirement.
 
-             (7)  A person commits an offence if:
-
-                     (a)  an inspector makes a requirement of the person under this section; and
-
-                     (b)  the person fails to comply with the requirement.
-
-                    Penalty:  10 penalty units.
+             (7)  A person who fails to comply with a requirement made of him or her by an inspector under this section is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
           (7A)  An offence under subsection (7) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+          (7B)  Subsection (7) does not apply if the person has a reasonable excuse.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (7B). See subsection 13.3(3) of the _Criminal Code_.
 
              (8)  For the purposes of paragraph (4)(b), **_permit_** includes a recognised foreign authority.
 
@@ -1010,25 +874,23 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the action:
 
-                              (i)  causes death or injury to a native bird, a native invertebrate or a native seal in the Antarctic; or
+                              (i)  causes death or injury to a native bird, a native invertebrate or a native mammal in the Antarctic; or
 
-                             (ii)  causes the taking of a native bird, a native invertebrate or a native seal in the Antarctic; or
+                             (ii)  causes the taking of a native bird, a native invertebrate or a native mammal in the Antarctic; or
 
-                            (iii)  causes other interference with a native bird, a native invertebrate or a native seal in the Antarctic; or
-
-                           (iiia)  disturbs a native bird or native seal; or
+                            (iii)  causes other interference with a native bird, a native invertebrate or a native mammal in the Antarctic; or
 
                             (iv)  causes injury to or other interference with a native plant in the Antarctic.
 
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+                    Penalty:  $2,000 or imprisonment for 12 months, or both.
 
              (1)  A person shall not:
 
-                     (b)  gather, or collect a native plant in the Antarctic; or
+                     (b)  gather, or collect a native plant in the Antarctic;
 
-                     (c)  bring into, or keep in, the Antarctic an animal, plant, virus, bacterium, yeast or fungus that is not indigenous to the Antarctic; or
+                     (c)  bring into the Antarctic an animal, plant, virus, bacterium, yeast or fungus that is not indigenous to the Antarctic;
 
-                  (caa)  bring a dog into the Antarctic or, being the owner of a dog, allow it to remain in the Antarctic; or
+                  (caa)  keep a dog, or (being the owner of a dog) allow it to remain, in the Antarctic;
 
                     (ca)  bring into, or keep in, the Antarctic:
 
@@ -1038,13 +900,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  polystyrene beads or chips or any similar kind of packaging material; or
 
-                    (cb)  bring into, or keep in, the Antarctic any pesticide; or
+                    (cb)  bring into, or keep in, the Antarctic any pesticide;
 
                      (d)  enter, or carry on any other activity in, an Antarctic specially protected area; or
 
-                     (e)  carry on any activity in an Antarctic specially managed area otherwise than as authorised by the plan of management relating to the area.
+                     (e)  carry on any activity in an Antarctic specially managed area otherwise than as authorised by the plan of management relating to the area;
 
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+                    Penalty:  $2,000 or imprisonment for 12 months, or both.
 
           (1B)  A person is guilty of an offence if:
 
@@ -1056,31 +918,35 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  destroys, or causes damage to or the removal of, an historic monument.
 
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+                    Penalty:  $2,000 or imprisonment for 12 months, or both.
 
              (2)  A person shall not, in the Antarctic:
 
-                     (a)  use an aircraft in such a manner as to disturb a concentration of birds or of seals; or
+                     (a)  use an aircraft in such a manner as to disturb a concentration of birds;
 
-                     (b)  use a vehicle or vessel in a manner that disturbs a concentration of birds or of seals; or
+                     (b)  use a vehicle or vessel in a manner that disturbs a concentration of birds;
 
-                     (c)  use an explosive in a manner that disturbs a concentration of birds or of seals; or
+                     (c)  use an explosive in a manner that disturbs a concentration of birds;
 
-                     (d)  use a firearm in a manner that disturbs a concentration of birds or of seals; or
+                     (d)  use a firearm in a manner that disturbs a concentration of birds;
 
-                     (e)  while on foot, disturb a concentration of birds or of seals; or
+                     (e)  while on foot, disturb:
+
+                              (i)  a concentration of birds; or
+
+                             (ii)  a bird that is breeding or moulting;
 
                     (ea)  carry on any activity that results in:
 
-                              (i)  the habitat of any species of native seal, native bird, native invertebrate or native plant; or
+                              (i)  the habitat of any species of native animal, native bird, native invertebrate or native plant; or
 
-                             (ii)  any population of native seals, native birds, native invertebrates or native plants;
+                             (ii)  any population of native animals, native birds, native invertebrates or native plants;
 
-                            being adversely modified to a significant extent; or
+                            being adversely modified to a significant extent;
 
                      (g)  cause or permit to escape from his or her control or the control of any other person an animal, plant, virus, bacterium, yeast or fungus that is not indigenous to the Antarctic and has been brought into the Antarctic by virtue of a permit or to be used as food.
 
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+                    Penalty:  $2,000 or imprisonment for 12 months, or both.
 
              (3)  This section does not apply in relation to any action if:
 
@@ -1090,61 +956,25 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  to secure the safety of a ship or aircraft or the safety of equipment or facilities of high value; or
 
-                            (iii)  to protect the environment; or
+                            (iii)  to protect the environment;
 
-                     (b)  in the case of action of a kind referred to in paragraph (1)(c)—the animal (not being a live bird), plant, virus, bacterium, yeast or fungus, as the case may be, was brought into the Antarctic to be used as food; or
+                     (b)  in the case of action of a kind referred to in paragraph (1)(c)—the animal (not being a live bird), plant, virus, bacterium, yeast or fungus, as the case may be, was brought into the Antarctic to be used as food;
 
-                    (ba)  in the case of action of a kind referred to in paragraph (1)(cb)—the pesticide is to be used for scientific, medical or hygienic purposes; or
+                    (ba)  in the case of action of a kind referred to in paragraph (1)(cb)—the pesticide is to be used for scientific, medical or hygienic purposes;
 
-                     (c)  the action in question was done in accordance with a permit or a recognised foreign authority; or
+                     (c)  except in the case of action of a kind referred to in paragraph (1)(caa), (1)(ca), (1)(cb), (1)(e), (1)(f), (1)(g) or (2)(g)—the action in question was done in accordance with a permit or a recognised foreign authority; or
 
-                     (d)  in the case of action of a kind referred to in paragraph (2)(a), (2)(b), (2)(c) or (2)(e)—the action in question was reasonably necessary for the construction or operation of a scientific support facility.
+                     (d)  in the case of action of a kind referred to in paragraph (2)(a), (2)(b), (2)(c) or (2)(e)—the action in question was reasonably necessary for the establishment, supply or operation of a station.
 
              (4)  In this section:
 
-                    <a name="concentr"></a>**_concentration_**:
+                    <a name="concentr"></a>**_concentration_**, in relation to birds, means a group of more than 20 birds.
 
-                     (a)  of birds, means a group of more than 20 birds; or
-
-                     (b)  of seals, means a group of more than 20 seals.
-
-##### <a id="19AA"></a>19AA  Offences relating to rocks and meteorites
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person gathers or collects a meteorite; and
-
-                     (b)  the person does so in the Antarctic; and
-
-                     (c)  the person does not gather or collect the meteorite in accordance with a permit.
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person removes a rock or a meteorite from the Antarctic; and
-
-                     (b)  the rock or meteorite was gathered or collected in the Antarctic (whether or not by the person); and
-
-                     (c)  the person does not remove the rock or meteorite in accordance with a permit.
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
-
-##### <a id="19AB"></a>19AB  Offence relating to return of indigenous species
-
-                   A person commits an offence if:
-
-                     (a)  the person brings into the Antarctic a seal, bird or plant; and
-
-                     (b)  the seal, bird or plant is a native seal, a native bird or a native plant; and
-
-                     (c)  the person does not bring the seal, bird or plant into the Antarctic in accordance with a permit.
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+                    <a name="permit"></a>**_permit_**, when used as a noun, includes all conditions to which a permit is subject.
 
 ##### <a id="19A"></a>19A  Prohibition against mining in the Territory
 
-             (1)  A person must not engage in a mining activity:
+                   A person must not engage in a mining activity:
 
                      (a)  in the Territory; or
 
@@ -1156,25 +986,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             that is within the Antarctic. 
 
-                    Penalty:  Imprisonment for 16 years or 1,000 penalty units, or both.
-
-             (2)  Subsection (1) does not apply to a mining activity if the activity is the gathering or collecting of a meteorite, or the removal of a rock or meteorite, in accordance with a permit.
-
-Note:          The defendant bears an evidential burden in relation to the matters in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
+                    Penalty:  $100,000.
 
 ##### <a id="19B"></a>19B  Prohibition against mining in the Antarctic
 
-             (1)  An Australian national must not engage in a mining activity in or on an area of the Antarctic other than:
+                   An Australian national must not engage in a mining activity in or on an area of the Antarctic other than:
 
                      (a)  the Territory; or
 
-                     (b)  any area of continental shelf referred to in paragraph 19A(1)(b).
+                     (b)  any area of continental shelf referred to in paragraph 19A(b). 
 
-                    Penalty:  Imprisonment for 16 years or 1,000 penalty units, or both.
-
-             (2)  Subsection (1) does not apply to a mining activity if the activity is the gathering or collecting of a meteorite, or the removal of a rock or meteorite, in accordance with a permit.
-
-Note:          The defendant bears an evidential burden in relation to the matters in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
+                    Penalty:  $100,000.
 
 ##### <a id="19C"></a>19C  Prosecution of offences
 
@@ -1184,21 +1006,21 @@ Note:          The defendant bears an evidential burden in rel
 
              (3)  If, under subsection (2), a court of summary jurisdiction convicts a person of an offence against section 19A or 19B, the penalty that the court may impose is a fine not exceeding:
 
-                     (a)  in the case of an individual—100 penalty units; or
+                     (a)  in the case of an individual—$10,000; or
 
-                     (b)  in the case of a body corporate—500 penalty units.
+                     (b)  in the case of a body corporate—$50,000.
 
 ##### <a id="20"></a>20  Contravening conditions of permits
 
              (1)  A person is guilty of an offence if:
 
-                     (a)  a provision of a condition of a permit is applicable to the person (including a provision of a condition that is applicable to the person because of subsection 9A(3)); and
+                     (a)  a provision of a condition of a permit is applicable to the person; and
 
                      (b)  the person engages in conduct; and
 
                      (c)  the conduct contravenes the condition.
 
-                    Penalty:  Imprisonment for 1 year or 60 penalty units, or both.
+                    Penalty:  $1,000 or imprisonment for 6 months, or both.
 
              (2)  In this section:
 
@@ -1210,95 +1032,25 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="21"></a>21  Furnishing information
 
-             (1)  A person who does an act mentioned in subsection (1AA) in accordance with a permit must notify the Minister or an authorised officer, in the prescribed form (or, if no form is prescribed, in a form approved by the Minister), that the person has done the act, as soon as practicable after doing the act.
+             (1)  A person who:
 
-                    Penalty:  60 penalty units.
+                     (a)  in accordance with a permit or a recognised foreign authority:
 
-       (1AA)  The acts that must be notified under subsection (1) are the following:
+                              (i)  in the Antarctic gathers, collects, injures or otherwise interferes with any native plant; or
 
-                     (a)  an act that has a result mentioned in paragraph 19(1A)(b);
+                             (ii)  in the Antarctic kills, takes, injures or otherwise interferes with any native bird, native mammal or native invertebrate; or
 
-                     (b)  an act mentioned in paragraph 19(1)(b);
+                            (iii)  enters, or carries on any other activity in, an Antarctic specially protected area;
 
-                     (c)  an act mentioned in paragraph 19(1)(d).
+must, as soon as practicable thereafter, give notice of his or her so doing to the Minister or an authorized officer in accordance with the prescribed form or, if no form is prescribed, a form approved by the Minister.
+
+                    Penalty:  $1,000 or imprisonment for 6 months, or both.
 
           (1A)  An offence under subsection (1) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (2)  In subsection (1), **_authorised officer_** means a person designated by the Minister, by notice published in the _Gazette_, for the purposes of that subsection.
-
-##### <a id="21AA"></a>21AA  Giving information about act done in emergency situation
-
-             (1)  A person who, in an emergency:
-
-                     (a)  to save a person from death or serious injury; or
-
-                     (b)  to secure the safety of a ship or aircraft or the safety of equipment or facilities of high value; or
-
-                     (c)  to protect the environment;
-
-does an act mentioned in subsection (2), and does so other than in accordance with a permit or a recognised foreign authority, must notify the Minister or an authorised officer that the person has done the act, before the end of the 30th day after the act was done.
-
-                    Penalty:  60 penalty units.
-
-             (2)  The acts that must be notified under subsection (1) are the following:
-
-                     (a)  an act that has a result mentioned in paragraph 19(1A)(b);
-
-                     (b)  an act mentioned in subsection 19(1);
-
-                     (c)  an act mentioned in subsection 19(2).
-
-             (3)  Subsection (1) does not apply if:
-
-                     (a)  it is not possible for the person to notify the Minister or an authorised officer of the act before the end of the 30th day after the act was done; and
-
-                     (b)  the person notifies the Minister or an authorised officer of the act as soon as practicable after that day.
-
-Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
-
-             (4)       Strict liability applies to subsection (1).
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-             (5)  In this section:
-
-                    <a name="authorised-offic"></a>**_authorised officer_** means a person authorised by the Minister, by notice published in the _Gazette_, for the purposes of this section.
-
-##### <a id="21AB"></a>21AB  Giving further information about act done in emergency situation
-
-             (1)  A person who, in an emergency:
-
-                     (a)  to save a person from death or serious injury; or
-
-                     (b)  to secure the safety of a ship or aircraft or the safety of equipment or facilities of high value; or
-
-                     (c)  to protect the environment;
-
-does an act mentioned in subsection 21A(2), and does so other than in accordance with a permit or a recognised foreign authority, must, before the end of the 60th day after the day on which the act was done, give a written report to the Minister or an authorised officer, in the prescribed form (or if no form is prescribed, in the form approved by the Minister):
-
-                     (d)  describing the action; and
-
-                     (e)  explaining why the action was taken.
-
-                    Penalty:  60 penalty units.
-
-             (2)  Subsection (1) does not apply if:
-
-                     (a)  it is not possible for the person to give the written report to the Minister or an authorised officer before the end of the 60th day after the act was done; and
-
-                     (b)  the person gives the written report to the Minister or an authorised officer as soon as practicable after that day.
-
-Note:          The defendant bears an evidential burden in relation to the matters in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  Strict liability applies to subsection (1).
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-             (4)  In this section:
-
-                    <a name="authorised-offic"></a>**_authorised officer_** means a person authorised by the Minister, by notice published in the _Gazette_, for the purposes of this section.
+             (2)  In subsection (1), **_authorized officer_** means a person designated by the Minister, by notice published in the _Gazette_, for the purposes of that subsection.
 
 ##### <a id="21A"></a>21A  Unauthorised activities
 
@@ -1306,25 +1058,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="activ"></a>**_activity_** means an activity to which Part 3 applies.
 
-             (2)  A person commits an offence if:
+             (2)  If a person carries on an activity in the Antarctic without an authorisation of the Minister under Part 3, the person is guilty of an offence punishable on conviction by a fine not exceeding $100,000.
 
-                     (a)  the person carries on an activity; and
+             (3)  If:
 
-                     (b)  the person does so in the Antarctic; and
+                     (a)  the Minister authorised under Part 3 the carrying on of an activity in the Antarctic subject to a condition being complied with; and
 
-                     (c)  the person is not authorised by the Minister under Part 3 to carry on the activity.
+                     (b)  a person carries on the activity without the condition being complied with;
 
-                    Penalty:  Imprisonment for 7 years or 420 penalty units, or both.
-
-             (3)  A person commits an offence if:
-
-                     (a)  the Minister authorised the person under Part 3 to carry on an activity in the Antarctic subject to a condition being complied with; and
-
-                     (b)  the person carries on the activity; and
-
-                     (c)  the person does so without the condition being complied with.
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+the person is guilty of an offence punishable on conviction by a fine not exceeding $100,000.
 
              (4)  In a prosecution of a person for an offence against subsection (2) or (3), it is a defence if:
 
@@ -1339,6 +1081,16 @@ Note:          For **_strict liability_**, see section 6.1 o
                      (b)  the person was authorised to carry on the activity under a law of a Contracting Party.
 
 Note:          The defendant bears an evidential burden in relation to the matters in subsection (4). See subsection 13.3(3) of the _Criminal Code_.
+
+             (5)  An offence against subsection (2) or (3) is an indictable offence.
+
+             (6)  Despite subsection (5), a court of summary jurisdiction, may hear and determine proceedings in respect of an offence against subsection (2) or (3) if satisfied that it is proper to do so and the defendant and the prosecutor consent.
+
+             (7)  If, under subsection (6), a court of summary jurisdiction convicts a person of an offence against subsection (2) or (3), the penalty that the court may impose is a fine not exceeding:
+
+                     (a)  in the case of an individual—$10,000; or
+
+                     (b)  in the case of a body corporate—$50,000.
 
 ## Part 6—Miscellaneous
 
@@ -1372,13 +1124,7 @@ relating to the conservation of Antarctic fauna and flora and the protection of 
 
              (1)  An application may be made to the Administrative Appeals Tribunal for a review of a decision of the Minister made under section 9, 10, 11, 12, 12E, 12F, 12H, 12J, 12L, 12N or 12P.
 
-          (1A)  The Administrative Appeals Tribunal must not make an order under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ staying, or otherwise affecting the operation or implementation, of:
-
-                     (a)  a decision under subsection 12N(1) or (3) to which paragraph 12N(7)(a) applies; or
-
-                     (b)  a decision under subsection 12P(1) to which paragraph 12P(3)(a) applies.
-
-             (2)  In this section, **_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+             (2)  In subsection (1), **_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
 ##### <a id="29"></a>29  Regulations
 
@@ -1389,6 +1135,8 @@ relating to the conservation of Antarctic fauna and flora and the protection of 
                               (i)  required or permitted by this Act to be prescribed; or
 
                              (ii)  necessary or convenient to be prescribed for carrying out or giving effect to this Act; or
+
+                     (b)  for and in relation to giving effect to the Seals Convention; or
 
                      (c)  providing for the procedures to be followed in dealing with a comprehensive environmental evaluation received from a party to the Madrid Protocol in relation to an activity proposed to be carried on by the party in the Antarctic; or
 
@@ -1413,6 +1161,8 @@ relating to the conservation of Antarctic fauna and flora and the protection of 
                             (iv)  the authorisation of an activity under Part 3;
 
                      (b)  providing for the conservation of Antarctic fauna and flora and the protection of the environment of the Antarctic;
+
+                    (ba)  prohibiting the killing, taking, injuring or other interference with a seal that is indigenous to the Antarctic;
 
                      (c)  regulating or prohibiting the pollution of soil, air, water or ice where such pollution is, or is likely to be, harmful to the fauna, flora and environment of the Antarctic;
 
@@ -1442,7 +1192,11 @@ relating to the conservation of Antarctic fauna and flora and the protection of 
 
                      (b)  power is expressly conferred by this Act to make provision by regulation for or in relation to another matter.
 
-             (5)  The regulations may prescribe penalties, not exceeding 50 penalty units, for offences against the regulations.
+             (5)  The regulations may prescribe penalties for offences against the regulations not exceeding:
+
+                     (a)  in a case where the offence is an offence against regulations made for or in relation to giving effect to the Seals Convention—a fine of $2,000 or imprisonment for 12 months, or both; and
+
+                     (b)  in any other case—a fine of $2,000 or $200 for each day during which the offence continues.
 
              (6)  The limitation imposed by subsection (5) on the penalties that may be prescribed by the regulations does not prevent the regulations from requiring a person to make a statutory declaration.
 
@@ -3177,7 +2931,7 @@ Schedule 1 (items 28–30): 24 Nov 2002 <i>(e)</i></div>
     <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1: 11 June 2007</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -3275,7 +3029,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 63, 1988; No. 156, 1992; No. 164, 2006</div>
+    <div>am. No. 65, 1985; No. 63, 1988; No. 156, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3352,14 +3106,6 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
@@ -3387,15 +3133,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 156, 1992; No. 43, 1996; No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 2006</div>
+    <div>am. No. 156, 1992; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -3403,7 +3141,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 156, 1992; No. 164, 2006</div>
+    <div>am. No. 156, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3419,7 +3157,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 156, 1992; No. 164, 2006</div>
+    <div>am. No. 156, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3440,39 +3178,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>Ss. 12A–12M</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12N, 12P</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12PA</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12Q</div>
+    <div>Ss. 12A–12Q</div>
   </td>
   <td>
     <div>ad. No. 156, 1992</div>
@@ -3496,15 +3202,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
+    <div>Ss. 15, 16</div>
   </td>
   <td>
     <div>am. No. 43, 1996</div>
@@ -3515,7 +3213,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 156, 1992; No. 43, 1996; No. 15, 2001; No. 164, 2006</div>
+    <div>am. No. 156, 1992; No. 43, 1996; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3547,15 +3245,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 76, 1986; No. 156, 1992; No. 43, 1996; No. 15, 2001; No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19AA, 19AB</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 2006</div>
+    <div>am. No. 65, 1985; No. 76, 1986; No. 156, 1992; No. 43, 1996; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3564,14 +3254,6 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
   </td>
   <td>
     <div>ad. No. 156, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3592,26 +3274,10 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 156, 1992; No. 43, 1996; No. 15, 2001; No. 164, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21AA, 21AB</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 2006</div>
+    <div>am. No. 156, 1992; No. 43, 1996; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3627,7 +3293,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div></div>
   </td>
   <td>
-    <div>am. No. 15, 2001; No. 164, 2006</div>
+    <div>am. No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3699,7 +3365,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 156, 1992; No. 164, 2006</div>
+    <div>am. No. 156, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3707,7 +3373,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 156, 1992; No. 164, 2006</div>
+    <div>am. No. 65, 1985; No. 156, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3750,6 +3416,710 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>ad. No. 156, 1992</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measures) Act 2006 (No. 164, 2006)_
+
+The following amendments commence on 11 June 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 3(1) (definition of _animal_)
+
+Repeal the definition, substitute:
+
+                    <a name="anim"></a>**_animal_** includes:
+
+                     (a)  a native bird, a native invertebrate and a native seal; and
+
+                     (b)  an egg, part of an egg and an eggshell; and
+
+                     (c)  a dead animal and part of a dead animal (but not something manufactured from a dead animal or from part of a dead animal).
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="disturb"></a>**_disturb_** an animal means cause a change in the animal’s behaviour otherwise than by physical contact with the animal.
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="interfer"></a>**_interfere_** has a meaning affected by subsection (7).
+
+## 4  Subsection 3(1) (definition of _native bird_)
+
+Repeal the definition, substitute:
+
+                    <a name="nativ-bird"></a>**_native bird_** means:
+
+                     (a)  a member, at any stage of its life cycle (including an egg, part of an egg and an eggshell), of any species of bird that is indigenous to the Antarctic; or
+
+                     (b)  a dead bird, or any part of a dead bird, of any species referred to in paragraph (a).
+
+## 5  Subsection 3(1) (definition of _native mammal_)
+
+Repeal the definition.
+
+## 6  Subsection 3(1)
+
+Insert:
+
+                    <a name="nativ-seal"></a>**_native seal_** means:
+
+                     (a)  a member, at any stage of its life cycle, of any species of seal that is indigenous to the Antarctic; or
+
+                     (b)  a dead seal, or any part of a dead seal, of a species mentioned in paragraph (a).
+
+## 7  Subsection 3(1) (paragraph (b) of the definition of _recognised foreign authority_)
+
+Repeal the paragraph, substitute:
+
+                     (b)  either:
+
+                              (i)  has been issued, given or made by a Party (other than Australia) to the Madrid Protocol that has accepted under that Protocol the same obligations as Australia in relation to the carrying on of that activity in the Antarctic; or
+
+                             (ii)  has been issued, given or made by a Party (other than Australia) to the Seals Convention that has accepted under that Convention the same obligations as Australia in relation to the carrying on of that activity in the Antarctic.
+
+## 8  Subsection 3(1) (definition of _specially protected species_)
+
+Omit “mammal”, substitute “seal”.
+
+## 9  Subsection 3(1) (definition of _take_)
+
+Omit “mammal”, substitute “seal”.
+
+## 10  Subsection 3(1) (definition of _whale_)
+
+Repeal the definition.
+
+## 11  At the end of section 3
+
+Add:
+
+             (6)  Except so far as the contrary intention appears, an expression that is used in both this Act and in the Seals Convention (whether or not a particular meaning is assigned to it by that Convention) has, in this Act, the same meaning as in the Convention.
+
+             (7)  A reference in this Act to otherwise interfering with, or causing other interference with, an animal does not include a reference to disturbing the animal.
+
+Note:          **_Disturb_** is defined in subsection (1).
+
+## 12  Subsections 7C(1) and (2)
+
+Omit “mammal”, substitute “seal”.
+
+## 13  Subsection 9(1)
+
+Repeal the subsection, substitute:
+
+             (1)  On application to the Minister in the prescribed form (or, if no form is prescribed, in a form approved by the Minister), the Minister may grant a person a permit in writing authorising the person, and any other person named in the permit, to carry on, during a specified period, one or more of the activities specified in the permit.
+
+       (1AA)  The activities that may be authorised by a permit are the following:
+
+                     (a)  an activity that has a result mentioned in paragraph 19(1A)(b);
+
+                     (b)  an activity mentioned in paragraph 19(1)(b);
+
+                     (c)  an activity mentioned in paragraph 19(1)(c);
+
+                     (d)  an activity mentioned in paragraph 19(1)(d);
+
+                     (e)  an activity mentioned in subsection 19(2) (other than paragraph (g));
+
+                      (f)  an activity mentioned in paragraphs 19AA(1)(a) and (b);
+
+                     (g)  an activity mentioned in paragraph 19AA(2)(a), if the rock or meteorite is to be gathered or collected in the Antarctic;
+
+                     (h)  an activity mentioned in paragraph 19AB(a), if the seal, bird or plant is a native seal, native bird or native plant.
+
+        (1AB)  Subsection (1) is subject to this section and to section 10.
+
+        (1AC)  The Minister may grant a permit under subsection (1) subject to such conditions as the Minister thinks fit.
+
+## 14  Subsection 9(2)
+
+Repeal the subsection, substitute:
+
+             (2)  In deciding whether to grant a permit, and in determining the conditions and limitations to which a permit is to be subject, the Minister must have regard to:
+
+                     (a)  the purposes and principles of the Madrid Protocol; and
+
+                     (b)  if the decision could affect a seal in seas to which the Seals Convention applies—the purposes and principles of the Seals Convention.
+
+## 15  After section 9
+
+Insert:
+
+##### <a id="9A"></a>9A  Authorities under permits
+
+             (1)  A person who is a principal under a permit (see subsection (6)) may authorise, as necessary, other persons to accompany one or more of the principals under that permit in carrying on activities authorised by the permit.
+
+             (2)  A principal must not authorise a person under subsection (1) unless:
+
+                     (a)  the permit contains a condition allowing principals to do so; and
+
+                     (b)  the authorisation is given in accordance with any requirements set out in that condition and any other conditions contained in the permit.
+
+             (3)  A person authorised to accompany principals under a permit must comply with the conditions of the permit.
+
+             (4)  Subject to subsection (3), a permit is, for the purposes of this Act, taken to authorise the carrying on by a person authorised under subsection (1) of any activity specified in the permit.
+
+             (5)  The authorisation of a person under subsection (1) does not prevent a principal under that permit from carrying on any activities.
+
+             (6)  In this section:
+
+                    <a name="princip"></a>**_principal_**, under a permit, means a person:
+
+                     (a)  to whom the permit was granted under subsection 9(1); or
+
+                     (b)  who is named in the permit.
+
+## 16  Subsection 10(1)
+
+Omit “mammal”, substitute “seal”.
+
+## 17  Subparagraph 10(1)(a)(i)
+
+Omit “mammals”, substitute “seals”.
+
+## 18  Subparagraph 10(1)(a)(i)
+
+After “or taken”, insert “from local populations”.
+
+## 19  At the end of subparagraph 10(1)(a)(ii)
+
+Add “and”.
+
+## 20  Subparagraphs 10(1)(b)(i) and (ii)
+
+Repeal the subparagraphs, substitute:
+
+                              (i)  if the permit relates to native birds—the construction and operation of scientific support facilities; or
+
+                             (ii)  if the permit relates to native birds or native seals—providing specimens for scientific research, public education (including display in museums, zoological gardens or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit; or
+
+                            (iii)  if the permit relates to native birds—monitoring or conserving the environment or an historic site or monument; or
+
+                            (iv)  if the permit relates to native birds—providing for unavoidable consequences of scientific activities not authorised under subparagraph (ii); and
+
+## 21  Subsection 10(1A)
+
+Omit “mammal” (wherever occurring), substitute “seal”.
+
+## 22  Paragraph 10(1B)(a)
+
+Omit “native animals”, substitute “native seals, native birds, native invertebrates”.
+
+## 23  Subparagraphs 10(1B)(b)(i) and (ii)
+
+Omit “; and”, substitute “; or”.
+
+## 24  At the end of paragraph 10(1B)(b)
+
+Add:
+
+                            (iii)  monitoring or conserving the environment or an historic site or monument; or
+
+                            (iv)  providing for unavoidable consequences of scientific activities not authorised under subparagraph (ii); and
+
+## 25  After subsection 10(1B)
+
+Insert:
+
+          (1C)  A permit authorising a person to gather or collect a meteorite, or to remove a rock or a meteorite, must be expressed so as to ensure, as far as possible, that the activities authorised by the permit will be carried on only to the extent that they are necessary for providing specimens for scientific research, public education (including display in museums or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit.
+
+          (1D)  A permit authorising a person to bring into the Antarctic a native seal, native bird or native plant must be expressed so as to ensure, as far as possible, that the person takes all reasonable precautions to prevent the introduction of micro-organisms not present in the Antarctic.
+
+## 26  Subsection 12(2)
+
+Repeal the subsection, substitute:
+
+             (2)  In deciding whether to vary or revoke any of the conditions of a permit or to impose further conditions, the Minister must have regard to:
+
+                     (a)  the purposes and principles of the Madrid Protocol; and
+
+                     (b)  if the decision could affect a seal in seas to which the Seals Convention applies—the purposes and principles of the Seals Convention.
+
+## 27  Subsections 12N(1), (2) and (3)
+
+Omit “the regulations”, substitute “section 12PA”.
+
+## 28  Subsection 12N(4)
+
+After “90 days”, insert “after the day on which the suspension takes effect”.
+
+## 29  At the end of section 12N
+
+Add:
+
+             (6)  A variation, suspension or revocation done at the request of the person authorised to carry on an activity takes effect:
+
+                     (a)  at the time notice of the variation, suspension or revocation is given; or
+
+                     (b)  at any later time specified in the notice.
+
+             (7)  A variation, suspension or revocation not done at the request of the person authorised to carry on an activity takes effect:
+
+                     (a)  if the Minister considers that irreversible environmental damage would be likely to occur if the variation, suspension or revocation did not take effect immediately—at the time notice of the variation, suspension or revocation is given; or
+
+                     (b)  at the start of the 14th day after the day on which notice of the variation, suspension or revocation is given or at any later time specified in the notice.
+
+             (8)  Notice of a variation, suspension or revocation given under this section must state when the variation, suspension or revocation is to take effect.
+
+             (9)  A failure to comply with subsection (8) does not invalidate a notice.
+
+## 30  Section 12P
+
+Before “If”, insert “(1)”.
+
+## 31  Section 12P
+
+Omit “the regulations”, substitute “section 12PA”.
+
+## 32  At the end of section 12P
+
+Add:
+
+             (2)  A variation, revocation or imposition done at the request of the person authorised to carry on an activity takes effect:
+
+                     (a)  at the time notice of the variation, revocation or imposition is given; or
+
+                     (b)  at any later time specified in the notice.
+
+             (3)  A variation, revocation or imposition not done at the request of the person authorised to carry on an activity takes effect:
+
+                     (a)  if the Minister considers that irreversible environmental damage would be likely to occur if the variation, revocation or imposition did not take effect immediately—at the time notice of the variation, revocation or imposition is given; or
+
+                     (b)  at the start of the 14th day after the day on which notice of the variation, suspension or revocation is given or at any later time specified in the notice.
+
+             (4)  Notice of a variation, revocation or imposition given under this section must state when the variation, revocation or imposition is to take effect.
+
+             (5)  A failure to comply with subsection (4) does not invalidate a notice.
+
+## 33  After section 12P
+
+Insert:
+
+##### <a id="12PA"></a>12PA  Method of giving notice of variations etc.
+
+                   For the purposes of subsections 12N(1), (2) and (3) and 12P(1), the method by which notice must be given is:
+
+                     (a)  in writing to the proponent of the activity covered by the authorisation to which the notice relates; or
+
+                     (b)  by a message transmitted by radio, telephone or other electronic means to the proponent of the activity covered by the authorisation to which the notice relates; or
+
+                     (c)  by notice published in the _Gazette_.
+
+## 34  Subsection 15(3)
+
+Omit “$100”, substitute “1 penalty unit”.
+
+## 35  At the end of subsection 17(4)
+
+Add:
+
+             ; and (c)  require any person whom he or she finds doing, or whom he or she reasonably suspects of having done, an activity in respect of which the person is required to be authorised under Part 3 to produce such an authorisation or evidence of the existence and content of such an authorisation.
+
+## 36  Subsection 17(7)
+
+Repeal the subsection, substitute:
+
+             (7)  A person commits an offence if:
+
+                     (a)  an inspector makes a requirement of the person under this section; and
+
+                     (b)  the person fails to comply with the requirement.
+
+                    Penalty:  10 penalty units.
+
+## 37  Subsection 17(7B)
+
+Repeal the subsection (including the note).
+
+## 38  Subparagraphs 19(1A)(b)(i), (ii) and (iii)
+
+Omit “mammal”, substitute “seal”.
+
+## 39  After subparagraph 19(1A)(b)(iii)
+
+Insert:
+
+                           (iiia)  disturbs a native bird or native seal; or
+
+## 40  Subsection 19(1A) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+## 41  At the end of paragraph 19(1)(b)
+
+Add “or”.
+
+## 42  Paragraph 19(1)(c)
+
+After “bring into”, insert “, or keep in,”.
+
+## 43  At the end of paragraph 19(1)(c)
+
+Add “or”.
+
+## 44  Paragraph 19(1)(caa)
+
+Repeal the paragraph, substitute:
+
+                  (caa)  bring a dog into the Antarctic or, being the owner of a dog, allow it to remain in the Antarctic; or
+
+## 45  At the end of paragraph 19(1)(cb)
+
+Add “or”.
+
+## 46  Paragraph 19(1)(e)
+
+Omit “the area;”, substitute “the area.”.
+
+## 47  Subsections 19(1) and (1B) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+## 48  Paragraph 19(2)(a)
+
+After “of birds”, insert “or of seals”.
+
+## 49  At the end of paragraph 19(2)(a)
+
+Add “or”.
+
+## 50  Paragraph 19(2)(b)
+
+After “of birds”, insert “or of seals”.
+
+## 51  At the end of paragraph 19(2)(b)
+
+Add “or”.
+
+## 52  Paragraph 19(2)(c)
+
+After “of birds”, insert “or of seals”.
+
+## 53  At the end of paragraph 19(2)(c)
+
+Add “or”.
+
+## 54  Paragraph 19(2)(d)
+
+After “of birds”, insert “or of seals”.
+
+## 55  At the end of paragraph 19(2)(d)
+
+Add “or”.
+
+## 56  Paragraph 19(2)(e)
+
+Repeal the paragraph, substitute:
+
+                     (e)  while on foot, disturb a concentration of birds or of seals; or
+
+## 57  Subparagraph 19(2)(ea)(i)
+
+Omit “animal”, substitute “seal”.
+
+## 58  Subparagraph 19(2)(ea)(ii)
+
+Omit “animals”, substitute “seals”.
+
+## 59  At the end of paragraph 19(2)(ea)
+
+Add “or”.
+
+## 60  Subsection 19(2) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+## 61  At the end of paragraphs 19(3)(a),(b) and (ba)
+
+Add “or”.
+
+## 62  Paragraph 19(3)(c)
+
+Omit “except in the case of action of a kind referred to in paragraph (1)(caa), (1)(ca), (1)(cb), (1)(e), (1)(f), (1)(g) or (2)(g)—”.
+
+## 63  Paragraph 19(3)(d)
+
+Omit “establishment, supply or operation of a station”, substitute “construction or operation of a scientific support facility”.
+
+## 64  Subsection 19(4) (definition of _concentration_)
+
+Repeal the definition, substitute:
+
+                    <a name="concentr"></a>**_concentration_**:
+
+                     (a)  of birds, means a group of more than 20 birds; or
+
+                     (b)  of seals, means a group of more than 20 seals.
+
+## 65  Subsection 19(4) (definition of _permit_)
+
+Repeal the definition.
+
+## 66  After section 19
+
+Insert:
+
+##### <a id="19AA"></a>19AA  Offences relating to rocks and meteorites
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person gathers or collects a meteorite; and
+
+                     (b)  the person does so in the Antarctic; and
+
+                     (c)  the person does not gather or collect the meteorite in accordance with a permit.
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person removes a rock or a meteorite from the Antarctic; and
+
+                     (b)  the rock or meteorite was gathered or collected in the Antarctic (whether or not by the person); and
+
+                     (c)  the person does not remove the rock or meteorite in accordance with a permit.
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+##### <a id="19AB"></a>19AB  Offence relating to return of indigenous species
+
+                   A person commits an offence if:
+
+                     (a)  the person brings into the Antarctic a seal, bird or plant; and
+
+                     (b)  the seal, bird or plant is a native seal, a native bird or a native plant; and
+
+                     (c)  the person does not bring the seal, bird or plant into the Antarctic in accordance with a permit.
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+## 67  Section 19A
+
+Before “A person”, insert “(1)”.
+
+## 68  Section 19A (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 16 years or 1,000 penalty units, or both.
+
+## 69  At the end of section 19A
+
+Add:
+
+             (2)  Subsection (1) does not apply to a mining activity if the activity is the gathering or collecting of a meteorite, or the removal of a rock or meteorite, in accordance with a permit.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
+
+## 70  Section 19B
+
+Before “An Australian”, insert “(1)”.
+
+## 71  Section 19B (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 16 years or 1,000 penalty units, or both.
+
+## 72  Paragraph 19B(b)
+
+Omit “19A(b)”, substitute “19A(1)(b)”.
+
+## 73  At the end of section 19B
+
+Add:
+
+             (2)  Subsection (1) does not apply to a mining activity if the activity is the gathering or collecting of a meteorite, or the removal of a rock or meteorite, in accordance with a permit.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
+
+## 74  Paragraph 19C(3)(a)
+
+Omit “$10,000”, substitute “100 penalty units”.
+
+## 75  Paragraph 19C(3)(b)
+
+Omit “$50,000”, substitute “500 penalty units”.
+
+## 76  Paragraph 20(1)(a)
+
+After “the person”, insert “(including a provision of a condition that is applicable to the person because of subsection 9A(3))”.
+
+## 77  Subsection 20(1) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 1 year or 60 penalty units, or both.
+
+## 78  Subsection 21(1)
+
+Repeal the subsection, substitute:
+
+             (1)  A person who does an act mentioned in subsection (1AA) in accordance with a permit must notify the Minister or an authorised officer, in the prescribed form (or, if no form is prescribed, in a form approved by the Minister), that the person has done the act, as soon as practicable after doing the act.
+
+                    Penalty:  60 penalty units.
+
+       (1AA)  The acts that must be notified under subsection (1) are the following:
+
+                     (a)  an act that has a result mentioned in paragraph 19(1A)(b);
+
+                     (b)  an act mentioned in paragraph 19(1)(b);
+
+                     (c)  an act mentioned in paragraph 19(1)(d).
+
+## 79  Subsection 21(2)
+
+Omit “**_authorized_**”, substitute “**_authorised_**”.
+
+## 80  After section 21
+
+Insert:
+
+##### <a id="21AA"></a>21AA  Giving information about act done in emergency situation
+
+             (1)  A person who, in an emergency:
+
+                     (a)  to save a person from death or serious injury; or
+
+                     (b)  to secure the safety of a ship or aircraft or the safety of equipment or facilities of high value; or
+
+                     (c)  to protect the environment;
+
+does an act mentioned in subsection (2), and does so other than in accordance with a permit or a recognised foreign authority, must notify the Minister or an authorised officer that the person has done the act, before the end of the 30th day after the act was done.
+
+                    Penalty:  60 penalty units.
+
+             (2)  The acts that must be notified under subsection (1) are the following:
+
+                     (a)  an act that has a result mentioned in paragraph 19(1A)(b);
+
+                     (b)  an act mentioned in subsection 19(1);
+
+                     (c)  an act mentioned in subsection 19(2).
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  it is not possible for the person to notify the Minister or an authorised officer of the act before the end of the 30th day after the act was done; and
+
+                     (b)  the person notifies the Minister or an authorised officer of the act as soon as practicable after that day.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
+
+             (4)  Strict liability applies to subsection (1).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (5)  In this section:
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means a person authorised by the Minister, by notice published in the _Gazette_, for the purposes of this section.
+
+##### <a id="21AB"></a>21AB  Giving further information about act done in emergency situation
+
+             (1)  A person who, in an emergency:
+
+                     (a)  to save a person from death or serious injury; or
+
+                     (b)  to secure the safety of a ship or aircraft or the safety of equipment or facilities of high value; or
+
+                     (c)  to protect the environment;
+
+does an act mentioned in subsection 21A(2), and does so other than in accordance with a permit or a recognised foreign authority, must, before the end of the 60th day after the day on which the act was done, give a written report to the Minister or an authorised officer, in the prescribed form (or if no form is prescribed, in the form approved by the Minister):
+
+                     (d)  describing the action; and
+
+                     (e)  explaining why the action was taken.
+
+                    Penalty:  60 penalty units.
+
+             (2)  Subsection (1) does not apply if:
+
+                     (a)  it is not possible for the person to give the written report to the Minister or an authorised officer before the end of the 60th day after the act was done; and
+
+                     (b)  the person gives the written report to the Minister or an authorised officer as soon as practicable after that day.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
+
+             (3)  Strict liability applies to subsection (1).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (4)  In this section:
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means a person authorised by the Minister, by notice published in the _Gazette_, for the purposes of this section.
+
+## 81  Subsection 21A(2)
+
+Repeal the subsection, substitute:
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person carries on an activity; and
+
+                     (b)  the person does so in the Antarctic; and
+
+                     (c)  the person is not authorised by the Minister under Part 3 to carry on the activity.
+
+                    Penalty:  Imprisonment for 7 years or 420 penalty units, or both.
+
+## 82  Subsection 21A(3)
+
+Repeal the subsection, substitute:
+
+             (3)  A person commits an offence if:
+
+                     (a)  the Minister authorised the person under Part 3 to carry on an activity in the Antarctic subject to a condition being complied with; and
+
+                     (b)  the person carries on the activity; and
+
+                     (c)  the person does so without the condition being complied with.
+
+                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
+
+## 83  Subsections 21A(5), (6) and (7)
+
+Repeal the subsections.
+
+## 84  After subsection 28(1)
+
+Insert:
+
+          (1A)  The Administrative Appeals Tribunal must not make an order under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ staying, or otherwise affecting the operation or implementation, of:
+
+                     (a)  a decision under subsection 12N(1) or (3) to which paragraph 12N(7)(a) applies; or
+
+                     (b)  a decision under subsection 12P(1) to which paragraph 12P(3)(a) applies.
+
+## 85  Subsection 28(2)
+
+Omit “subsection (1)”, substitute “this section”.
+
+## 86  Paragraph 29(1)(b)
+
+Repeal the paragraph.
+
+## 87  Paragraph 29(2)(ba)
+
+Repeal the paragraph.
+
+## 88  Subsection 29(5)
+
+Repeal the subsection, substitute:
+
+             (5)  The regulations may prescribe penalties, not exceeding 50 penalty units, for offences against the regulations.
+
+As at 13 December 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3810,6 +4180,8 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
 * * *
 
 _Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measures) Act 2006 (No. 164, 2006)_
+
+The following provisions commence on 11 June 2007 unless proclaimed earlier:
 
 ## Schedule 1
 
