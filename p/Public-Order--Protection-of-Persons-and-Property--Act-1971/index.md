@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00283/Html/95ab9c7c-374c-4ff6-a46c-9279ffbce03f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00569/Html/PublicOrderPofPandP1971_WD02_image001.gif)
 
 # Public Order (Protection of Persons and Property) Act 1971
 
 **Act No. 26 of 1971 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 15 December 2009
+ taking into account amendments up to Act No. 122 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -126,13 +126,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="constabl"></a>**_constable_** means a member of the Australian Federal Police or of the Police Force of a State or Territory.
 
-                    <a name="consular-post"></a>**_consular post_** means a consulate‑general, consulate, vice‑consulate or consular agency established in Australia by another country with the consent of the Government of Australia.
+                    <a name="consular-post"></a>**_consular post_** means a consulate-general, consulate, vice-consulate or consular agency established in Australia by another country with the consent of the Government of Australia.
 
                     <a name="design-oversea-mission"></a>**_designated overseas mission_** has the same meaning as in the _Overseas Missions (Privileges and Immunities) Act 1995._
 
                     <a name="diplomat-mission"></a>**_diplomatic mission_** means a permanent diplomatic mission accredited to Australia by another country.
-
-                    <a name="foreign-affair-depart"></a>**_Foreign Affairs Department_** means the Department administered by the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
                     <a name="frisk-search"></a>**_frisk search_** means a search of a person conducted by quickly running the hands over the person’s outer clothing.
 
@@ -152,7 +150,7 @@ Note:          A person may be prescribed by name, by referenc
 
                      (b)  a member of the staff (including the head) of a consular post who is entrusted with the exercise of consular functions;
 
-                   (ba)  a prescribed staff member of a designated overseas mission;
+                    (ba)  a prescribed staff member of a designated overseas mission;
 
                      (c)  a high officer of an international organization; or
 
@@ -172,7 +170,7 @@ but does not include a person who is an Australian citizen or is permanently res
 
                      (b)  formerly occupied for purposes referred to in paragraph (a), being premises to which Article 45 of the Vienna Convention on Diplomatic Relations or Article 27 of the Vienna Convention on Consular Relations applies;
 
-                   (ba)  occupied for the purposes of a designated overseas mission;
+                    (ba)  occupied for the purposes of a designated overseas mission;
 
                      (c)  occupied by an international organization, or used for the purposes of a meeting of, or under the auspices of, an international organization;
 
@@ -198,13 +196,13 @@ but does not include a person who is an Australian citizen or is permanently res
 
                      (c)  the Territory of Christmas Island; or
 
-                     (d)  the Territory of Cocos (Keeling)  Islands.
+                     (d)  the Territory of Cocos (Keeling) Islands.
 
                     <a name="unreason-obstruct"></a><a name="unreason-obstruct"></a>**_unreasonable obstruction_** means an act or thing done by a person that constitutes, or contributes to, an obstruction of, or interference with, the exercise or enjoyment by other persons of their lawful rights or privileges (including rights of passage along the public streets) where, having regard to all the circumstances of the obstruction or interference, including its place, time, duration and nature, it constitutes an unreasonable obstruction or interference, and **_unreasonably obstructs_** has a corresponding meaning.
 
              (2)  References in this Act to a member of the Australian Federal Police shall be read as including references to a special member of the Australian Federal Police.
 
-             (3)  The Governor‑General may make regulations for the purposes of the definition of **_prescribed staff member_** in subsection (1).
+             (3)  The Governor-General may make regulations for the purposes of the definition of **_prescribed staff member_** in subsection (1).
 
 ##### <a id="5"></a>5  When assembly is _in relation to_ protected premises or a protected person
 
@@ -416,7 +414,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  a person authorised to exercise powers under this Part in relation to the court by:
 
-                              (i)  the Attorney‑General; or
+                              (i)  the Attorney-General; or
 
                              (ii)  if the court has power to administer its own affairs—a person exercising that power on behalf of the court.
 
@@ -608,7 +606,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="13H"></a>13H  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed for the purposes of this Part; or
 
@@ -778,7 +776,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  In proceedings arising out of this Part:
 
-                     (a)  a certificate in writing given by the Secretary of the Foreign Affairs Department, or by an officer of that Department authorized in writing by the Secretary to give such certificates, certifying as to any matter relevant to establishing that:
+                     (a)  a certificate in writing given by the Secretary to the Department of Foreign Affairs, or by an officer of that Department authorized in writing by the Secretary to give such certificates, certifying as to any matter relevant to establishing that:
 
                               (i)  particular premises are, or were at a particular time, protected premises; or
 
@@ -842,7 +840,7 @@ but no further step in proceedings of a kind referred to in that subsection shal
 
              (2)  An enactment specified in the Schedule to this Act, to the extent that it was, immediately before the commencement of this Act, in force in a Territory or, whether by virtue of the _Commonwealth Places (Application of Laws) Act 1970_ or otherwise, in a place that is a Commonwealth place within the meaning of that Act, is repealed, and none of those enactments is, by virtue of that Act or otherwise, in force in a place that becomes a Commonwealth place, within the meaning of that Act, after that commencement.
 
-          (2A)  In subsection (2), **_Territory_** means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
+          (2A)  In subsection (2), **_Territory_** means the Australian Capital Territory, the Jervis Bay Territory or the Northern   Territory.
 
              (3)  It is the intention of this Act that the provisions of this Act that apply in relation to assemblies in a State that are:
 
@@ -947,13 +945,11 @@ Sections 62, 63, 64, 65, 66 and 77 of The Criminal Code.
 
 South Australia—
 
-Sections 95, 244 and 245 of the Criminal Law Consolidation Act 1935‑1966.
+Sections 95, 244 and 245 of the Criminal Law Consolidation Act 1935-1966.
 
 Western Australia—
 
-Sections 63, 64, 65, 66 and 67 of the Criminal Code Act 1913.
-
-Tasmania—
+Sections 63, 64, 65, 66 and 67 of the Criminal Code Act 1913\. _Tasmania_—
 
 Sections 74, 75 and 77 of the Criminal Code.
 
@@ -965,7 +961,7 @@ Sections 64, 65, 66, 67 and 68 of the Criminal Code Act 1983.
 
 Australian Capital Territory and Jervis Bay Territory—
 
-Party Processions Prevention Act, 1901 of the State of New South Wales, in its application to the Territory.
+Party Processions Prevention Act, 1901 of the State of New   South Wales, in its application to the Territory.
 
 Sections 205, 206 and 207 of the Crimes Act, 1900 of the State of New South Wales, in its application to the Territory.
 
@@ -1334,23 +1330,6 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 88, 89) and Schedule 7 (item 115): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1364,9 +1343,9 @@ _(a)_     The _Public Order (Protection of Persons and Property) Act 197
 
                  (1)   Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the _Director of Public Prosecutions Act 1983_ comes into operation.
 
-_(b)_     The _Public Order (Protection of Persons and Property) Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
+_(b)_    The _Public Order (Protection of Persons and Property) Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Public Order (Protection of Persons and Property) Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
 
@@ -1448,7 +1427,7 @@ _(h)_     The _Public Order (Protection of Persons and Property) Act 197
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 155, 1979; No. 70, 1980; No. 193, 1985; No. 168,1986; No. 141, 1987; No. 104, 1992; Nos. 58 and 116, 1995; No. 64, 2004; No. 5, 2011</div>
+    <div>am. No. 155, 1979; No. 70, 1980; No. 193, 1985; No. 168,1986; No. 141, 1987; No. 104, 1992; Nos. 58 and 116, 1995; No. 64, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1653,14 +1632,6 @@ _(h)_     The _Public Order (Protection of Persons and Property) Act 197
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part IV</b></div>
   </td>
   <td>
@@ -1704,7 +1675,7 @@ _(h)_     The _Public Order (Protection of Persons and Property) Act 197
 
 ### Application, saving or transitional provisions
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
