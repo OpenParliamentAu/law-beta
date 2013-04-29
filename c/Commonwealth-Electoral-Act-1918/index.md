@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 9 August 2010
  taking into account amendments up to Act No. 110 of 2010
 
 The text of any of those amendments not in force
@@ -270,9 +270,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [94](#94).          Enrolled voters leaving Australia
 
-[94A](#94A).       Enrolment from outside Australia [_see_ Note 9]
+[94A](#94A).       Enrolment from outside Australia [_see_ Note 10]
 
-[95](#95).          Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Notes 4 and 9]
+[95](#95).          Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Notes 4 and 10]
 
 [95AA](#95AA).    Norfolk Island electors
 
@@ -280,7 +280,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [95AC](#95AC).    Rolls relating to Norfolk Island electors
 
-[96](#96).          Itinerant electors [_see_ Note 9]
+[96](#96).          Itinerant electors [_see_ Note 10]
 
 [96A](#96A).       Enrolment of prisoners
 
@@ -304,7 +304,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [101](#101).        Compulsory enrolment and transfer
 
-[102](#102).        Action on receipt of claim [_see_ Note 9]
+[102](#102).        Action on receipt of claim [_see_ Note 10]
 
 [103](#103).        Penalty on officer neglecting to enrol claimants
 
@@ -400,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [154](#154).        Writs for election of members of House of Representatives
 
-[155](#155).        Date for close of Rolls [_see_ Note 9]
+[155](#155).        Date for close of Rolls [_see_ Note 10]
 
 [156](#156).        Date of nomination
 
@@ -483,6 +483,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [185C](#185C).     Cancellation of registration
 
 [186](#186).        Dispatch of postal voting papers to registered general postal voters
+
+[187](#187).        Duty of witness
 
 [188](#188).        Issue of certificate and ballot papers
 
@@ -4228,7 +4230,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                     <a name="australia"></a>**_Australia_** does not include Norfolk Island.
 
-##### <a id="94A"></a>94A  Enrolment from outside Australia [_see_ Note 9]
+##### <a id="94A"></a>94A  Enrolment from outside Australia [_see_ Note 10]
 
              (1)  A person may apply to the Electoral Commissioner for enrolment for a Subdivision if, at the time of making the application:
 
@@ -4276,7 +4278,7 @@ the person’s name must not be added to the Roll for the Subdivision until afte
 
              (6)  If the application is granted, the Electoral Commissioner must treat the application as if it were a valid application under subsection 94(1) by the person to be treated as an eligible overseas elector.
 
-##### <a id="95"></a>95  Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Notes 4 and 9]
+##### <a id="95"></a>95  Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Notes 4 and 10]
 
              (1)  Where a person:
 
@@ -4478,7 +4480,7 @@ then, for the purposes of section 95AA and subsection 95AC(2), the Electoral C
 
              (2)  The Electoral Commissioner may conduct a review of the Roll for a Subdivision of a Division in relation to electors to whom an annotation under subsection (1) applies. Upon completion of the review, the Electoral Commissioner may make such alterations to the Roll as he or she thinks necessary to ensure that persons on that Roll under section 95AA are entitled to be so.
 
-##### <a id="96"></a>96  Itinerant electors [_see_ Note 9]
+##### <a id="96"></a>96  Itinerant electors [_see_ Note 10]
 
              (1)  A person who:
 
@@ -4884,7 +4886,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (7)  Where a person sends or delivers a claim for enrolment, or for transfer of enrolment, to the Electoral Commissioner, proceedings shall not be instituted against that person for any offence against subsection (1) or (4) committed before the claim was so sent or delivered.
 
-##### <a id="102"></a>102  Action on receipt of claim [_see_ Note 9]
+##### <a id="102"></a>102  Action on receipt of claim [_see_ Note 10]
 
              (1)  Subject to subsections (4) and (4AA), where, pursuant to section 101, the Electoral Commissioner receives a claim for enrolment or transfer of enrolment, the Electoral Commissioner must:
 
@@ -5996,7 +5998,7 @@ as the case may be.
 
              (5)  Where a writ for an election to be held in a Division or Divisions is received by the Electoral Commissioner under subsection (1), the Commissioner may, where he or she considers it appropriate, advertise receipt of, and particulars of, the writ, in a newspaper or newspapers circulating in the Division or in some or all of the Divisions, as the case requires.
 
-##### <a id="155"></a>155  Date for close of Rolls [_see_ Note 9]
+##### <a id="155"></a>155  Date for close of Rolls [_see_ Note 10]
 
              (1)  The date fixed for the close of the Rolls is the third working day after the date of the writ.
 
@@ -6506,11 +6508,29 @@ An amendment must be in the approved form and signed by the registered officer.
 
 ##### <a id="184"></a>184  Application for postal vote
 
-             (1)  An application must be in writing in the approved form and must contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote.
+             (1)  An application shall be in writing in the approved form and shall:
+
+                     (a)  contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote; and
+
+                     (b)  be signed by the applicant in the presence of an authorised witness (but see subsection (3A)).
 
              (2)  An application made in Australia shall be made to a DRO.
 
              (3)  An application made outside Australia shall be made to an Assistant Returning Officer or a DRO.
+
+          (3A)  An application made outside Australia that does not meet the requirement in paragraph (1)(b) is taken to meet that requirement for the purposes of this Act if:
+
+                     (a)  the application is accompanied by a signed statement by the applicant setting out why the applicant was unable to meet the requirement; and
+
+                     (b)  the Assistant Returning Officer or DRO is satisfied that the applicant made reasonable efforts to comply with the requirement; and
+
+                     (c)  the application is accompanied by a photocopy, that is certified by the applicant to be a true copy, of a part of the applicant’s passport that includes:
+
+                              (i)  the country and date of issue and the number of the passport; and
+
+                             (ii)  the applicant’s name, date of birth and signature; and
+
+                            (iii)  a photograph of the applicant.
 
              (4)  An application for a postal vote may not be made until after the issue of the writ for the election in relation to which a postal vote is sought or the public announcement of the proposed date for the polling, whichever is the earlier.
 
@@ -6664,9 +6684,27 @@ the Electoral Commissioner must register the claimant as a general postal voter 
 
                      (c)  if the envelope on which the postal vote certificate is printed is not itself addressed to the DRO for the Division for which the general postal voter is registered—an envelope addressed to that DRO.
 
+##### <a id="187"></a>187  Duty of witness
+
+             (1)  A person shall not witness the signature of another person (in this section called the **_elector_**) on an application for a postal vote unless:
+
+                     (a)  the person is satisfied of the identity of the elector;
+
+                     (b)  the person has seen the elector sign the application; and
+
+                     (c)  either:
+
+                              (i)  the person knows that the statements in the application are true; or
+
+                             (ii)  the person is satisfied, on the basis of inquiries of the elector or otherwise, that the statements in the application are true.
+
+                    Penalty:  $500.
+
+             (2)  The person who witnesses the signature of the elector to the application shall sign the application in his or her own handwriting and write on the application the date of signature.
+
 ##### <a id="188"></a>188  Issue of certificate and ballot papers
 
-             (1)  A DRO or Assistant Returning Officer who receives an application for a postal vote that is in accordance with subsection 184(1) must (unless the application fails to meet the deadline as mentioned in subsection 184(5)) send, or arrange for the sending, to the applicant in accordance with whichever of subsections (2), (3) and (4) of this section applies:
+             (1)  A DRO or Assistant Returning Officer who receives an application, properly signed and witnessed, for a postal vote must (unless the application fails to meet the deadline as mentioned in subsection 184(5)) send, or arrange for the sending, to the applicant in accordance with whichever of subsections (2), (3) and (4) of this section applies:
 
                      (a)  a postal vote certificate printed on an envelope; and
 
@@ -6679,6 +6717,8 @@ the Electoral Commissioner must register the claimant as a general postal voter 
                              (ii)  otherwise—the DRO for the Division for which the applicant declares that he or she is enrolled;
 
                             an envelope addressed to that Assistant Returning officer or DRO.
+
+Note:          An application may be taken to be properly witnessed because of subsection 184(3A).
 
              (2)  Subject to subsection (3), if the DRO or Assistant Returning Officer receives the application for a postal vote at or before 6 pm on the Friday that is 8 days before polling day in the election, the material required by subsection (1) must be sent to the applicant by post or by another means (not being an electronic means, such as fax or email).
 
@@ -6850,10 +6890,6 @@ Definitions
 
                      (d)  the elector shall then, in the presence of the authorised witness but so that the witness cannot see the vote, mark his or her vote on the ballot paper, fold the ballot paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope;
 
-                   (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of the poll;
-
-                   (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of the poll;
-
                      (e)  the elector shall post or deliver the envelope to the appropriate DRO;
 
                       (f)  if the elector cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the elector may, according to the directions of the elector, complete the postal vote certificate and do for the elector any act required by paragraph (d) or (e);
@@ -6862,7 +6898,7 @@ Definitions
 
           (1A)  A postal vote by an elector outside Australia that does not meet the requirements in subsection (1) concerning an authorised witness is, despite that subsection, taken to meet those requirements for the purposes of this Act if:
 
-                     (a)  the postal vote is accompanied by a signed and dated statement by the elector setting out why the elector was unable to comply with those requirements; and
+                     (a)  the postal vote is accompanied by a signed statement by the elector setting out why the elector was unable to comply with those requirements; and
 
                      (b)  the DRO or officer dealing with the postal vote under section 195A is satisfied that the elector made reasonable efforts to comply with those requirements; and
 
@@ -11440,13 +11476,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -12208,7 +12244,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  Paragraphs 355(c) and (d) do not apply in relation to a petition filed by the Electoral Commission disputing an election but such a petition shall be signed by the Electoral Commissioner for and on behalf of the Commission.
 
-##### <a id="358"></a>358  No proceedings unless requirements complied with
+##### <a id="358"></a>358  No proceedings unless requirements complied with
 
              (1)  Subject to subsection (2), no proceedings shall be had on the petition unless the requirements of sections 355, 356 and 357 are complied with.
 
@@ -13549,7 +13585,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13585,8 +13621,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13670,7 +13706,7 @@ FORM E
 <tr>
   <td colspan="2">
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251659776"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251677184"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251676160"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251675136"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
@@ -13687,7 +13723,7 @@ FORM E
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251663872"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251662848"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251661824"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251660800"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
@@ -13751,7 +13787,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13762,7 +13798,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251688448"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13772,7 +13808,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251689472"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image028.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13782,7 +13818,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251690496"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13791,7 +13827,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251684352"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00063/Html/d586a84b-3249-427a-ba59-f785dedd7b0d_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13859,7 +13895,15 @@ _Subsection 266(3)_
 
               2.  All written applications for postal votes not already dealt with at a preliminary scrutiny shall be produced at each preliminary scrutiny of postal votes.
 
-              3.  If the DRO has reason to doubt that the signature on the postal vote certificate that purports to be the elector’s signature is the elector’s signature, the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO.
+              3.  The DRO shall compare the signature of the elector on each postal vote application with the signature on the relevant postal vote certificate and allow the scrutineers to inspect both signatures.
+
+           3A.  For each postal vote certificate not dealt with under paragraph 3, the DRO must compare the signature of the elector on the postal vote certificate with the signature of the elector on:
+
+                     (a)  the elector’s application for registration as a general postal voter; or
+
+                     (b)  the elector’s application for enrolment or transfer of enrolment;
+
+and allow the scrutineers to inspect both signatures.
 
               4.  The DRO shall divide the envelopes being dealt with into groups, as follows:
 
@@ -13903,13 +13947,13 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
             6B.  Paragraphs 23 and 24 do not apply to envelopes excluded from further scrutiny because of subparagraph 6A(b).
 
-              7.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if the date referred to in paragraph 194(1)(c) in relation to the postal vote certificate is a date after polling day.
+              7.  Where the envelope purporting to contain a postal ballot paper bears a postmark that includes a date after polling day, the vote marked on the ballot paper shall be taken not to have been recorded prior to the close of the poll.
 
            7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
 
-                     (a)  subsection 194(1A) applies in relation to the vote; and
+                     (a)  in the case of a ballot paper taken to be witnessed because of subsection 194(1A)—the envelope purporting to contain the ballot paper does not bear a legible postmark; or
 
-                     (b)  the date referred to in paragraph 194(1A)(a) is a date after polling day.
+                     (b)  in any other case—the envelope purporting to contain the ballot paper does not bear a legible postmark and the signature of the witness bears a date after polling day.
 
               8.  An envelope purporting to contain an absent vote ballot paper or a provisional vote ballot paper or a pre-poll vote ballot paper shall not be regarded as failing to meet the requirements of paragraph 6 only because the declaration or certificate, as the case requires, is not witnessed if the voter’s name appears on a record made under subsection 232(2) or section 200G, as the case requires, or, if neither of those requirements is met, if the DRO is satisfied that the ballot paper was properly issued. 
 
@@ -16022,7 +16066,7 @@ Schedule 2 (items 1–181, 189): 19 July 2010 ( <i>see</i>F2010L02126)</div>
     <div>Schedule 1 (items 1–18, 34–36), Schedule 4 (items 1–17, 32–38, 46, 47), Schedule 8 (items 1, 2, 5) and Schedule 9 (items 1–46, 49): 15 July 2010 
 Schedules 2 and 3: <i>(z) 
  </i>Schedule 5 (items 1–54, 107, 108(1)) and Schedule 7: 23 July 2010 ( <i>see</i>F2010L02128) 
-Schedule 6 (items 1, 3–10, 21, 22): 14 Jan 2011</div>
+Schedule 6 (items 1, 3–10, 21, 22): \[ <i>see</i>Note 9 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 3, 9, 18), Sch. 2 (items 11, 12), Sch. 3 (item 9), Sch. 5 (items 107, 108(1)), Sch. 6 (items 21, 22), Sch. 7 (item 12), Sch. 8 (item 5) and Sch. 9 (item 49) \[ <i>see</i>Table A]</div>
@@ -20251,7 +20295,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 137, 2000; No. 34, 2001; No. 22, 2007; No. 110, 2010</div>
+    <div>am. No. 167, 1991; No. 137, 2000; No. 34, 2001; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20440,14 +20484,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 188</div>
   </td>
   <td>
@@ -20475,7 +20511,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 22, 2007; Nos. 8 and 110, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 22, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20484,14 +20520,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 34, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -25665,7 +25693,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; No. 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); Nos. 8 and 110, 2010</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; No. 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 8, 2010</div>
   </td>
 </tr></table>
 
@@ -26067,7 +26095,7 @@ Section 93—Section 30FD of the _Crimes Act 1914_ provides as follows:
 
 ##### <a id="30FD"></a>30FD  Disqualification from voting of member of unlawful association
 
-                   Any person who, at the date of any declaration made by a court under this Part declaring any body of persons to be an unlawful association, is a member of the Committee or Executive of that association, shall not for a period of 7 years from that date be entitled to have his or her name placed on or retained on any roll of electors for the Senate or House of Representatives, or to vote at any Senate election or House of Representatives election unless so entitled under section 41 of the Constitution.
+                   Any person who, at the date of any declaration made by a court under this Part declaring any body of persons to be an unlawful association, is a member of the Committee or Executive of that association, shall not for a period of 7 years from that date be entitled to have his or her name placed on or retained on any roll of electors for the Senate or House of Representatives, or to vote at any Senate election or House of Representatives election unless so entitled under section 41 of the Constitution.
 
 ### Note 4
 
@@ -26093,7 +26121,7 @@ Section 152—Sections 12, 32 and 33 of the Constitution provide as follows:
 
 **33  Writs for vacancies**
 
-                   Whenever a vacancy happens in the House of Representatives, the Speaker shall issue his writ for the election of a new member, or if there is no Speaker or if he is absent from the Commonwealth the Governor-General in Council may issue the writ.
+                   Whenever a vacancy happens in the House of Representatives, the Speaker shall issue his writ for the election of a new member, or if there is no Speaker or if he is absent from the Commonwealth the Governor-General in Council may issue the writ.
 
 ### Note 6
 
@@ -26144,6 +26172,68 @@ Omit “notifies the person”, substitute “a person is notified”.
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 ### Note 9
+
+_Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010 (No. 110, 2010)_
+
+The following amendments commence on 14 January 2011 unless proclaimed earlier:
+
+## Schedule 6
+
+## 1  Subsection 184(1)
+
+Repeal the subsection, substitute:
+
+             (1)  An application must be in writing in the approved form and must contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote.
+
+## 3  Subsection 184(3A)
+
+Repeal the subsection.
+
+## 4  Section 187
+
+Repeal the section.
+
+## 5  Subsection 188(1)
+
+Omit “, properly signed and witnessed, for a postal vote”, substitute “for a postal vote that is in accordance with subsection 184(1)”.
+
+## 6  Subsection 188(1) (note)
+
+Repeal the note.
+
+## 7  After paragraph 194(1)(d)
+
+Insert:
+
+                   (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of the poll;
+
+                   (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of the poll;
+
+## 8  Paragraph 194(1A)(a)
+
+After “signed”, insert “and dated”.
+
+## 9  Paragraphs 3 and 3A of Schedule 3
+
+Repeal the paragraphs, substitute:
+
+              3.  If the DRO has reason to doubt that the signature on the postal vote certificate that purports to be the elector’s signature is the elector’s signature, the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO.
+
+## 10  Paragraphs 7 and 7A of Schedule 3
+
+Repeal the paragraphs, substitute:
+
+              7.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if the date referred to in paragraph 194(1)(c) in relation to the postal vote certificate is a date after polling day.
+
+           7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
+
+                     (a)  subsection 194(1A) applies in relation to the vote; and
+
+                     (b)  the date referred to in paragraph 194(1A)(a) is a date after polling day.
+
+As at 9 August 2010 the amendments are not incorporated in this compilation.
+
+### Note 10
 
 The High Court of Australia has declared some provisions relating to electoral rolls and voting to be invalid, namely items 20, 24, 28, 41, 42, 43, 44, 45 and 52 of Schedule 1 to the _Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006_. Those provisions affected paragraph 94A(4)(a), subsections 95(4), 96(4) and 102(4), paragraph 102(4A)(a), subparagraph 102(4A)(b)(ii), subsection 102(4B), paragraphs 102(4B)(a) and (b) and section 155 of the _Commonwealth Electoral Act 1918_. For more information, see the High Court press release of 6 August 2010 as available online at:
 
@@ -26704,22 +26794,6 @@ The amendments made by this Schedule apply in relation to elections and referend
 
 (1)       Despite the amendment made by item 1, the definition of **_officer_** in subsection 4(1) of the _Commonwealth Electoral Act 1918_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 323 of that Act.
 
-## Schedule 6
-
-## 21  Application of amendments
-
-The amendments made by this Part apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-## 22  Saving provision for approved forms
-
-A form that, immediately before the commencement of this Part, was an approved form for the purpose of:
-
-                     (a)  subsection 184(1) of the _Commonwealth Electoral Act 1918_ (as in force immediately before that commencement); or
-
-                     (b)  subsection 55(1) of the _Referendum (Machinery Provisions) Act 1984_ (as in force immediately before that commencement);
-
-continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
-
 ## Schedule 7
 
 ## 12  Application of amendments
@@ -26737,6 +26811,24 @@ The amendments made by this Schedule apply in relation to elections and referend
 ## 49  Application of amendments
 
 The amendments made by items 1 and 2 apply in relation to financial years ending on or after the commencement of those items (whether the copy or extract was given before, on or after that commencement).
+
+The following provisions commence on 14 January 2011 unless proclaimed earlier:
+
+## Schedule 6
+
+## 21  Application of amendments
+
+The amendments made by this Part apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
+
+## 22  Saving provision for approved forms
+
+A form that, immediately before the commencement of this Part, was an approved form for the purpose of:
+
+                     (a)  subsection 184(1) of the _Commonwealth Electoral Act 1918_ (as in force immediately before that commencement); or
+
+                     (b)  subsection 55(1) of the _Referendum (Machinery Provisions) Act 1984_ (as in force immediately before that commencement);
+
+continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
 
 Table showing new part and section numbers of the _Commonwealth Electoral Act 1918_ after renumbering by the _Commonwealth Electoral Legislation Amendment Act 1984_ (No. 45, 1984).
 
