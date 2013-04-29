@@ -1,915 +1,931 @@
-![](http://www.comlaw.gov.au/Details/C2007C00656/Html/ProdStewardOil2000WD02_image001.gif)
+**
 
-# Product Stewardship (Oil) Act 2000
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000 
+**
 
-**Act No. 102 of 2000 as amended**
 
-This compilation was prepared on 2 October 2007
- taking into account amendments up to Act No. 155 of 2007
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Objects
 
-[4](#4).            Extension to external Territories
+**
 
-[5](#5).            States and Territories are bound
+###  Long Title 
+**
+**
 
-[6](#6).            Definitions
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<part>Part&#160;1&#151;Preliminary </part>
+**
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[7](#7).            Commissioner has general administration of this Act
+		This Act may be cited as the Product Stewardship (Oil) Act 2000.
 
-**Part 2—Entitlement to product stewardship (oil) benefits**
+ </dl>
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[8](#8).            Registration must precede a claim for product stewardship (oil) benefit
+<dt>(1)</dt><dd>Parts&#160;1, 3 and 4 commence on the day on which this Act receives the
 
-[9](#9).            Entitlement to product stewardship (oil) benefits
+Royal Assent.</dd> <dt>(2)</dt><dd>Part&#160;2 commences on the later of: </dd> </dl>
 
-[10](#10).          Amounts of product stewardship (oil) benefit
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 3  Objects 
+<dl compact="">
 
-**Part 3—The Oil Stewardship Advisory Council** 
+		The objects of this Act are:
 
-    **Division 1—Establishment and functions of the Oil Stewardship Advisory Council**
+ </dl>
 
-[11](#11).          Establishment
 
-[12](#12).          Functions
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 4  Extension to external Territories 
+<dl compact="">
 
-    **Division 2—Membership of the Advisory Council**
+		This Act extends to all the external Territories.
 
-[13](#13).          Constitution
+ </dl>
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 5  States and Territories are bound 
+<dl compact="">
 
-[14](#14).          Appointment of members
+		This Act binds the Crown in right of each of the States, of the Australian
 
-[15](#15).          Chair
+Capital Territory, of the Northern Territory and of Norfolk Island. However, it
 
-[16](#16).          Terms of office
+does not make the Crown liable to be prosecuted for an offence.
 
-[17](#17).          Terms and conditions of appointment
+ </dl>
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 6  Definitions 
+<dl compact="">
 
-[18](#18).          Remuneration and allowances
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[19](#19).          Leave of absence
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-[20](#20).          Resignation
+_Advisory Council_ means the Oil Stewardship Advisory Council
 
-[21](#21).          Termination of appointment
+established by section&#160;11\. _Australia_ includes all the Territories. _Department_ means the Department responsible for the administration of the _Environment Protection and Biodiversity Conservation Act 1999_. _gazetted oil_ means oil of a kind that is declared by the Minister, by notice published in the _Gazette_, to be gazetted oil. _gazetted use_, in relation to gazetted oil, means a use of the oil that is declared by the Minister, by notice published in the _Gazette_, to be a gazetted use, being:  </dl></dl>
 
-    **Division 3—Meetings of the Advisory Council**
+<center>Back to Top</center>
 
-[22](#22).          Convening meetings
+	(a)	a use in the manufacture of a product:
+ 	(i)	that will not permit the oil to be recycled; and
+ 	(ii)	that constitutes only a low risk to the environment; or
+ 	(b)	a use in a process:
+ 	(i)	that will not permit the oil to be recycled; and
+ 	(ii)	that constitutes only a low risk to the environment.
 
-[23](#23).          Presiding at meetings
+<def><dl compact=""><dl compact="">
 
-[24](#24).          Quorum
+_Minister_ means the Minister responsible for the administration of
 
-[25](#25).          Voting at meetings
+the _Environment Protection and Biodiversity Conservation Act 1999_. _oils_: the following are oils:  </dl></dl>
 
-[26](#26).          Conduct of meetings
+	(a)	petroleum based oils (including lubricant base oils; prepared lubricant additives containing carrier oils; lubricants for engines, gear sets, pumps and bearings; greases; hydraulic fluids; brake fluids; transmission oils; and transformer and heat transfer oils);
+ 	(b)	synthetic equivalents of goods covered by paragraph&#160;(a);
+ 	(c)	any other goods prescribed for the purposes of this definition.
 
-[27](#27).          Resolutions without meetings
+<def><dl compact=""><dl compact="">
 
-[28](#28).          Records relating to meetings
+_product stewardship (oil) benefit_ means a grant payable under
 
-[29](#29).          Disclosure of interests
+this Act. _recycled oil_ means:  </dl></dl>
 
-[30](#30).          Persons may be invited to attend meetings
+	(a)	goods produced from used oil; or
+ 	(b)	used oil that has been restored to its former state.
 
-    **Division 4—Miscellaneous**
+<def><dl compact=""><dl compact="">
 
-[31](#31).          Protection from civil actions
+_recycling of oils_ means:
 
-[32](#32).          Assistance for the Council
+ </dl></dl>
 
-**Part 4—Miscellaneous**
+	(a)	the production of goods from used oils; or
+ 	(b)	the restoring of used oils to their former state.
 
-[33](#33).          Delegation by Secretary
+<def><dl compact=""><dl compact="">
 
-[34](#34).          Delegation by Minister
+_waste oil_ means any oil that has been used and that, as a result
 
-[35](#35).          Annual report by Minister
+of such use, is contaminated by physical or chemical impurities.
 
-[36](#36).          Review of operation of Act
+ </dl></dl>
 
-[37](#37).          Regulations
+<dl compact=""><dl compact="">
 
-**Notes** 
+<dt>(2)</dt><dd>An expression used in this Act that is also used in the _Product Grants and Benefits Administration Act 2000_ has the same meaning as in that Act,
 
-## An Act to provide for grants for the recycling of oils, and for related purposes
+unless the contrary intention appears.
 
-## Part 1—Preliminary
+</dd> </dl></dl>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+**
 
-                   This Act may be cited as the Product Stewardship (Oil) Act 2000.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 7  Commissioner has general administration of this Act 
+**
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+ <dl compact=""><dl compact="">
 
-             (1)  Parts 1, 3 and 4 commence on the day on which this Act receives the Royal Assent.
+		The Commissioner has the general administration of this Act.
 
-             (2)  Part 2 commences on the later of:
+ </dl></dl>
 
-                     (a)  1 January 2001; and
+<dl compact=""><dl compact="">
 
-                     (b)  the day on which this Act receives the Royal Assent.
+Note:	An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law.
 
-##### <a id="3"></a>3  Objects
+ </dl></dl>
 
-                   The objects of this Act are:
+<center>**
 
-                     (a)  to develop a product stewardship arrangement for waste oils; and
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<part>Part&#160;2&#151;Entitlement to product stewardship (oil) benefits </part>
+**</center>
 
-                     (b)  to ensure the environmentally sustainable management, re-refining and reuse of waste oil; and
+**
 
-                     (c)  to support economic recycling options for waste oil.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 8  Registration must precede a claim for product stewardship (oil) benefit 
+**
 
-##### <a id="4"></a>4  Extension to external Territories
+<dl compact=""><dl compact="">
 
-                   This Act extends to all the external Territories.
+<dt>(1)</dt><dd>Despite the other provisions of this Part, you are not entitled to a
 
-##### <a id="5"></a>5  States and Territories are bound
+product stewardship (oil) benefit unless you were registered for entitlement to
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island. However, it does not make the Crown liable to be prosecuted for an offence.
+product stewardship (oil) benefits when you made a claim for payment of the
 
-##### <a id="6"></a>6  Definitions
+product stewardship (oil) benefit.
 
-             (1)  In this Act, unless the contrary intention appears:
+</dd> </dl></dl>
 
-                    <a name="advisori-council"></a>**_Advisory Council_** means the Oil Stewardship Advisory Council established by section 11.
+<dl compact=""><dl compact="">
 
-                    <a name="australia"></a>**_Australia_** includes all the Territories.
+Note:	You register for product stewardship (oil) benefits under
 
-                    <a name="depart"></a>**_Department_** means the Department responsible for the administration of the _Environment Protection and Biodiversity Conservation Act 1999_.
+the _Product Grants and Benefits Administration Act 2000_.
 
-                    <a name="gazet-oil"></a>**_gazetted oil_** means oil of a kind that is declared by the Minister, by notice published in the _Gazette_, to be gazetted oil.
+ </dl></dl>
 
-                    <a name="gazet-us"></a>**_gazetted use_**, in relation to gazetted oil, means a use of the oil that is declared by the Minister, by notice published in the _Gazette_, to be a gazetted use, being:
+<dl compact=""><dl compact="">
 
-                     (a)  a use in the manufacture of a product:
+<dt>(2)</dt><dd>For the purposes of subsection&#160;(1), if you make a claim in respect of
 
-                              (i)  that will not permit the oil to be recycled; and
+an entitlement that is referred to in subsection 9(1):
 
-                             (ii)  that constitutes only a low risk to the environment; or
+</dd> </dl></dl>
 
-                     (b)  a use in a process:
+<center>Back to Top</center>
 
-                              (i)  that will not permit the oil to be recycled; and
-
-                             (ii)  that constitutes only a low risk to the environment.
-
-                    <a name="minist"></a>**_Minister_** means the Minister responsible for the administration of the _Environment Protection and Biodiversity Conservation Act 1999_.
-
-                    <a name="oil"></a>**_oils_**: the following are oils:
-
-                     (a)  petroleum based oils (including lubricant base oils; prepared lubricant additives containing carrier oils; lubricants for engines, gear sets, pumps and bearings; greases; hydraulic fluids; brake fluids; transmission oils; and transformer and heat transfer oils);
-
-                     (b)  synthetic equivalents of goods covered by paragraph (a);
-
-                     (c)  any other goods prescribed for the purposes of this definition.
-
-                    <a name="product-stewardship-oil-benefit"></a>**_product stewardship (oil) benefit_** means a grant payable under this Act.
-
-                    <a name="recycl-oil"></a>**_recycled oil_** means:
-
-                     (a)  goods produced from used oil; or
-
-                     (b)  used oil that has been restored to its former state.
-
-                    <a name="recycl-oil"></a>**_recycling of oils_** means:
-
-                     (a)  the production of goods from used oils; or
-
-                     (b)  the restoring of used oils to their former state.
-
-                    <a name="wast-oil"></a>**_waste oil_** means any oil that has been used and that, as a result of such use, is contaminated by physical or chemical impurities.
-
-             (2)  An expression used in this Act that is also used in the _Product Grants and Benefits Administration Act 2000_ has the same meaning as in that Act, unless the contrary intention appears.
-
-##### <a id="7"></a>7  Commissioner has general administration of this Act
-
-                   The Commissioner has the general administration of this Act.
-
-Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law.
-
-## Part 2—Entitlement to product stewardship (oil) benefits
-
-##### <a id="8"></a>8  Registration must precede a claim for product stewardship (oil) benefit
-
-             (1)  Despite the other provisions of this Part, you are not entitled to a product stewardship (oil) benefit unless you were registered for entitlement to product stewardship (oil) benefits when you made a claim for payment of the product stewardship (oil) benefit.
-
-Note:          You register for product stewardship (oil) benefits under the _Product Grants and Benefits Administration Act 2000_.
-
-             (2)  For the purposes of subsection (1), if you make a claim in respect of an entitlement that is referred to in subsection 9(1):
-
-                     (a)  after, or at the same time as, you apply for registration; but
-
-                     (b)  before you are registered;
+	(a)	after, or at the same time as, you apply for registration; but
+ 	(b)	before you are registered;
 
 the claim is taken to have been made immediately after you are registered.
 
-             (3)  For the purposes of subsection (1), if you make a claim in respect of an entitlement referred to in subsection 9(3):
+<dl compact=""><dl compact="">
 
-                     (a)  after the introduction into the Parliament of the Bill for the _Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003_; but
+<dt>(3)</dt><dd>For the purposes of subsection&#160;(1), if you make a claim in respect of
 
-                     (b)  before you are registered;
+an entitlement referred to in subsection 9(3):
 
-the claim is taken to have been made immediately after you are registered.
+</dd> </dl></dl>
 
-##### <a id="9"></a>9  Entitlement to product stewardship (oil) benefits
+	(a)	after the introduction into the Parliament of the Bill for the _Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003_; but
+ 	(b)	before you are registered;
 
-             (1)  You are entitled to a product stewardship (oil) benefit for the sale or consumption of recycled oil that you have recycled in Australia.
+the claim is taken to have been made immediately after you are registered. 
 
-             (2)  However, you are not entitled to a product stewardship (oil) benefit for the sale or consumption of recycled oil referred to in subsection (1) before the later of:
+**
 
-                     (a)  the commencement of this section; and
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 9  Entitlement to product stewardship (oil) benefits 
+**
 
-                     (b)  the date on which you applied for registration, in relation to product stewardship (oil) benefit, under the _Product Grants and Benefits Administration Act 2000_.
+ <dl compact=""><dl compact="">
 
-             (3)  You are entitled to a product stewardship (oil) benefit for the consumption in Australia of gazetted oil for a gazetted use.
+<dt>(1)</dt><dd>You are entitled to a product stewardship (oil) benefit for the sale or
 
-             (4)  However, you are not entitled to a product stewardship (oil) benefit for the consumption of gazetted oil for a gazetted use before the introduction into the Parliament of the Bill for the _Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003_.
+consumption of recycled oil that you have recycled in Australia.</dd> <dt>(2)</dt><dd>However, you are not entitled to a product stewardship (oil) benefit for the sale or consumption of recycled oil referred to in subsection&#160;(1) before the later of: </dd> </dl></dl>
 
-##### <a id="10"></a>10  Amounts of product stewardship (oil) benefit
+	(a)	the commencement of this section; and
+ 	(b)	the date on which you applied for registration, in relation to product stewardship (oil) benefit, under the _Product Grants and Benefits Administration Act 2000_.
 
-             (1)  If you are entitled to a product stewardship (oil) benefit in respect of the sale or consumption of recycled oil, or the consumption of gazetted oil for a gazetted use, during a claim period, the amount of the product stewardship (oil) benefit for the claim period is worked out in accordance with the regulations.
+<dl compact=""><dl compact="">
 
-             (2)  Without limiting the matters that may be taken into account under regulations made for the purposes of subsection (1) in respect of the sale or consumption of recycled oil, the matters may include:
+<dt>(3)</dt><dd>You are entitled to a product stewardship (oil) benefit for the
 
-                     (a)  the volume of the recycled oil that you sold or consumed; and
+consumption in Australia of gazetted oil for a gazetted use.</dd> <dt>(4)</dt><dd>However, you are not entitled to a product stewardship (oil) benefit for the consumption of gazetted oil for a gazetted use before the introduction into the Parliament of the Bill for the _Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003_. </dd> </dl></dl>
 
-                     (b)  the quality of the recycled oil that you sold or consumed; and
+**
 
-                     (c)  the use of, or intended use for, the recycled oil.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 10  Amounts of product stewardship (oil) benefit 
+**
 
-          (2A)  Without limiting the matters that may be taken into account under regulations made for the purposes of subsection (1) in relation to the consumption of gazetted oil for a gazetted use, the matters may include:
+ <dl compact=""><dl compact="">
 
-                     (a)  the volume of the gazetted oil that you consumed for that use; and
+<dt>(1)</dt><dd>If you are entitled to a product stewardship (oil) benefit in respect of
 
-                     (b)  the quality of the gazetted oil that you consumed for that use; and
+the sale or consumption of recycled oil, or the consumption of gazetted oil for
 
-                     (c)  particulars of the gazetted use to which you put the gazetted oil.
+a gazetted use, during a claim period, the amount of the product stewardship
 
-             (3)  To avoid doubt:
+<dt>(oil)</dt><dd>benefit for the claim period is worked out in accordance with the
 
-                     (a)  the regulations may provide that no benefit is payable in respect of recycled oil (including gazetted oil obtained through recycling) that is to undergo further recycling before it is to be sold to the end user or consumed; and
+regulations.</dd></dd> <dt>(2)</dt><dd>Without limiting the matters that may be taken into account under regulations made for the purposes of subsection&#160;(1) in respect of the sale or consumption of recycled oil, the matters may include: </dd> </dl></dl>
 
-                     (b)  the amount of a benefit in respect of the sale or consumption of recycled oil, or of gazetted oil for a gazetted use, may be a nil amount.
+	(a)	the volume of the recycled oil that you sold or consumed; and
+ 	(b)	the quality of the recycled oil that you sold or consumed; and
+ 	(c)	the use of, or intended use for, the recycled oil.
 
-             (4)  Before the Governor-General makes a regulation under subsection (1), the Minister must take into consideration:
+<dl compact=""><dl compact="">
 
-                     (a)  the total amount that it is estimated will be collected under relevant items in the _Customs Tariff Act 1995_ and the _Excise Tariff Act 1921_ in the relevant period; and
+<dt>(2A)</dt><dd>Without limiting the matters that may be taken into account under
 
-                     (b)  any relevant environmental matters relating to the recycling of oils or to the use of gazetted oil.
+regulations made for the purposes of subsection&#160;(1) in relation to the
+
+consumption of gazetted oil for a gazetted use, the matters may include:
+
+</dd> </dl></dl>
+
+	(a)	the volume of the gazetted oil that you consumed for that use; and
+ 	(b)	the quality of the gazetted oil that you consumed for that use; and
+ 	(c)	particulars of the gazetted use to which you put the gazetted oil.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>To avoid doubt:
+
+</dd> </dl></dl>
+
+	(a)	the regulations may provide that no benefit is payable in respect of recycled oil (including gazetted oil obtained through recycling) that is to undergo further recycling before it is to be sold to the end user or consumed; and
+ 	(b)	the amount of a benefit in respect of the sale or consumption of recycled oil, or of gazetted oil for a gazetted use, may be a nil amount.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Before the Governor-General makes a regulation under subsection&#160;(1),
+
+the Minister must take into consideration:
+
+</dd> </dl></dl>
+
+	(a)	the total amount that it is estimated will be collected under relevant items in the _Customs Tariff Act 1995_ and the _Excise Tariff Act Back to Top 1921_ in the relevant period; and
+ 	(b)	any relevant environmental matters relating to the recycling of oils or to the use of gazetted oil.
 
 The Minister may also take into consideration any relevant recommendation made to the Minister by the Advisory Council.
 
-## Part 3—The Oil Stewardship Advisory Council
+<center>**
 
-### Division 1—Establishment and functions of the Oil Stewardship Advisory Council
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<part>Part&#160;3&#151;The Oil Stewardship Advisory Council </part>
+**</center>
 
-##### <a id="11"></a>11  Establishment
+<center>**
 
-                   The Oil Stewardship Advisory Council is established by this section.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<division>Division&#160;1&#151;Establishment and functions of the Oil Stewardship Advisory Council </division> 
+**</center>
 
-##### <a id="12"></a>12  Functions
+**
 
-                   The functions of the Advisory Council are:
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 11  Establishment 
+**
 
-                     (a)  to advise the Minister on the product stewardship arrangements for oils; and
+ <dl compact=""><dl compact="">
 
-                     (b)  to advise the Minister in relation to the recovery and recycling of waste oil; and
+		The Oil Stewardship Advisory Council is established by this section.
 
-                     (c)  to advise the Minister in relation to regulations under section 10 (working out the amount of product stewardship benefits); and
+ </dl></dl>
 
-                     (d)  to advise the Minister on the state of the oil production and oil recycling industries; and
+**
 
-                     (e)  to give the Minister advice on such other matters as are specified by the Minister; and
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 12  Functions 
+**
 
-                      (f)  to perform such other functions as are conferred on the Advisory Council by this Act or any other Act.
+ <dl compact=""><dl compact="">
 
-### Division 2—Membership of the Advisory Council
+		The functions of the Advisory Council are:
 
-##### <a id="13"></a>13  Constitution
+ </dl></dl>
 
-             (1)  The Advisory Council consists of such number of members, not being fewer than 10, as the Minister from time to time determines.
+	(a)	to advise the Minister on the product stewardship arrangements for oils; and
+ 	(b)	to advise the Minister in relation to the recovery and recycling of waste oil; and
+ 	(c)	to advise the Minister in relation to regulations under section&#160;10 (working out the amount of product stewardship benefits); and
+ 	(d)	to advise the Minister on the state of the oil production and oil recycling industries; and
+ 	(e)	to give the Minister advice on such other matters as are specified by the Minister; and
+ 	(f)	to perform such other functions as are conferred on the Advisory Council by this Act or any other Act.
 
-             (2)  Subject to section 24, the performance of a function of the Advisory Council is not affected by a vacancy or vacancies in the Advisory Council’s membership.
+<center>**
 
-             (3)  The performance of a function of the Advisory Council is not affected by the fact that the Advisory Council’s membership does not include any members who are appointed to represent a particular body, group of bodies or community referred to in subsection 14(2).
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<division>Division&#160;2&#151;Membership of the Advisory Council </division> 
+**</center>
 
-##### <a id="14"></a>14  Appointment of members
+**
 
-             (1)  Members are to be appointed by the Minister by written instrument.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 13  Constitution 
+**
 
-             (2)  The Minister must ensure that the membership includes the members representing the following:
+ <dl compact=""><dl compact="">
 
-                     (a)  the Commissioner;
+<dt>(1)</dt><dd>The Advisory Council consists of such number of members, not being fewer
 
-                     (b)  the Commonwealth;
+than 10, as the Minister from time to time determines.</dd> <dt>(2)</dt><dd>Subject to section&#160;24, the performance of a function of the Advisory Council is not affected by a vacancy or vacancies in the Advisory Council's membership.</dd> <dt>(3)</dt><dd>The performance of a function of the Advisory Council is not affected by the fact that the Advisory Council's membership does not include any members who are appointed to represent a particular body, group of bodies or community referred to in subsection 14(2). </dd> </dl></dl>
 
-                     (c)  a national organisation representing oil producers;
+**
 
-                     (d)  a national organisation representing oil recyclers;
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 14  Appointment of members 
+**
 
-                     (e)  the users of recycled oils;
+ <dl compact=""><dl compact="">
 
-                      (f)  the body known as the Australian and New Zealand Environment and Conservation Council;
+<dt>(1)</dt><dd>Members are to be appointed by the Minister by written instrument.</dd> <dt>(2)</dt><dd>The Minister must ensure that the membership includes the members representing the following: </dd> </dl></dl>
 
-                     (g)  local government;
+	(a)	the Commissioner;
+ 	(b)	the Commonwealth;
+ 	(c)	a national organisation representing oil producers;
+ 	(d)	a national organisation representing oil recyclers;
+ 	(e)	the users of recycled oils;
+ 	(f)	the body known as the Australian and New Zealand Environment and Conservation Council;
+ 	(g)	local government;
+ 	(h)	a national consumer organisation;
+ 	(i)	a national non-governmental organisation that has a substantial interest in sustainable industry.
 
-                     (h)  a national consumer organisation;
+<dl compact=""><dl compact="">
 
-                      (i)  a national non-governmental organisation that has a substantial interest in sustainable industry.
+<dt>(3)</dt><dd>The Minister must ensure that a majority of the members are not persons
 
-             (3)  The Minister must ensure that a majority of the members are not persons employed by the Commonwealth or Commonwealth agencies.
+employed by the Commonwealth or Commonwealth agencies.
 
-##### <a id="15"></a>15  Chair
+</dd> </dl></dl>
 
-             (1)  Subject to subsection (2), the Minister must appoint as the Chair of the Advisory Council one of the members who possesses commercial or business experience that the Minister thinks relevant to the performance of the Advisory Council’s functions.
+**
 
-             (2)  The Minister must not appoint as the Chair a member who is employed by the Commonwealth or a Commonwealth agency.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 15  Chair 
+**
 
-             (3)  Subject to subsection (4), the member appointed as the Chair holds the office of Chair until the end of his or her term of office as a member that is current at the time of his or her appointment.
+ <dl compact=""><dl compact="">
 
-             (4)  The member so appointed ceases to be the Chair if he or she:
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the Minister must appoint as the Chair of
 
-                     (a)  ceases to be a member; or
+the Advisory Council one of the members who possesses commercial or business
 
-                     (b)  resigns the office of Chair by written notice delivered to the Minister.
+experience that the Minister thinks relevant to the performance of the Advisory
 
-             (5)  A person is eligible to be re-appointed as the Chair.
+Council's functions.</dd> <dt>(2)</dt><dd>The Minister must not appoint as the Chair a member who is employed by the Commonwealth or a Commonwealth agency.</dd> <dt>(3)</dt><dd>Subject to subsection&#160;(4), the member appointed as the Chair holds the office of Chair until the end of his or her term of office as a member that is current at the time of his or her appointment.</dd> <dt>(4)</dt><dd>The member so appointed ceases to be the Chair if he or she: </dd> </dl></dl>
 
-##### <a id="16"></a>16  Terms of office
+<center>Back to Top</center>
 
-                   A member:
+	(a)	ceases to be a member; or
+ 	(b)	resigns the office of Chair by written notice delivered to the Minister.
 
-                     (a)  is to be appointed on a part-time basis; and
+<dl compact=""><dl compact="">
 
-                     (b)  holds office for such period (not exceeding 3 years) as is specified in the instrument of appointment.
+<dt>(5)</dt><dd>A person is eligible to be re-appointed as the Chair.
 
-##### <a id="17"></a>17  Terms and conditions of appointment
+</dd> </dl></dl>
 
-                   A member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Minister in writing.
+**
 
-##### <a id="18"></a>18  Remuneration and allowances
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 16  Terms of office 
+**
 
-             (1)  Members are to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, are to be paid such remuneration as is prescribed.
+ <dl compact=""><dl compact="">
 
-             (2)  A member is to be paid such allowances as are prescribed.
+		A member:
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+ </dl></dl>
 
-##### <a id="19"></a>19  Leave of absence
+	(a)	is to be appointed on a part-time basis; and
+ 	(b)	holds office for such period (not exceeding 3 years) as is specified in the instrument of appointment. 
 
-             (1)  The Minister may grant leave of absence to the Chair on such terms and conditions as to remuneration or otherwise as the Minister considers appropriate.
+**
 
-             (2)  The Chair may grant leave of absence to another member on such terms and conditions as to remuneration or otherwise as the Chair considers appropriate.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 17  Terms and conditions of appointment 
+**
 
-##### <a id="20"></a>20  Resignation
+ <dl compact=""><dl compact="">
 
-                   A member may resign by written notice delivered to the Minister.
+		A member holds office on such terms and conditions (if any) in relation to
 
-##### <a id="21"></a>21  Termination of appointment
+matters not provided for by this Act as are determined by the Minister in
 
-             (1)  The Minister may terminate a member’s appointment for misbehaviour or physical or mental incapacity.
+writing.
 
-             (2)  The Minister may terminate a member’s appointment if the member:
+ </dl></dl>
 
-                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+**
 
-                     (b)  fails, without reasonable excuse, to comply with an obligation imposed by subsection 27(3) or section 29; or
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 18  Remuneration and allowances 
+**
 
-                     (c)  is absent, except on leave of absence granted under section 19, from 3 consecutive meetings of the Advisory Council; or
+ <dl compact=""><dl compact="">
 
-                     (d)  if the member was appointed to represent one or more of the bodies, groups of bodies or communities referred to in subsection 14(2)—ceases, because of a change in employment, residence or other circumstances, to be, in the Minister’s opinion, an appropriate representative of such a body, groups of bodies or community that he or she was appointed to represent.
+<dt>(1)</dt><dd>Members are to be paid such remuneration as is determined by the
 
-### Division 3—Meetings of the Advisory Council
+Remuneration Tribunal but, if no determination of that remuneration by the
 
-##### <a id="22"></a>22  Convening meetings
+Tribunal is in operation, are to be paid such remuneration as is prescribed.</dd> <dt>(2)</dt><dd>A member is to be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl></dl>
 
-             (1)  Subject to subsection (2), the Advisory Council must hold such meetings as are necessary for the efficient performance of its functions.
+**
 
-             (2)  The Advisory Council must hold at least one meeting every 12 months.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 19  Leave of absence 
+**
 
-             (3)  The Chair:
+ <dl compact=""><dl compact="">
 
-                     (a)  may convene a meeting at any time; and
+<dt>(1)</dt><dd>The Minister may grant leave of absence to the Chair on such terms and
 
-                     (b)  must convene a meeting on receipt of a written request from at least 5 other members.
+conditions as to remuneration or otherwise as the Minister considers
 
-             (4)  The Minister may convene a meeting at any time.
+appropriate.</dd> <dt>(2)</dt><dd>The Chair may grant leave of absence to another member on such terms and conditions as to remuneration or otherwise as the Chair considers appropriate. </dd> </dl></dl>
 
-##### <a id="23"></a>23  Presiding at meetings
+**
 
-             (1)  The Chair is to preside at all meetings at which he or she is present.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 20  Resignation 
+**
 
-             (2)  If the Chair is not present, the members present must elect one of their number to preside.
+ <dl compact=""><dl compact="">
 
-##### <a id="24"></a>24  Quorum
+		A member may resign by written notice delivered to the Minister.
 
-                   At a meeting, a majority of members, or 6 members, whichever is the greater, form a quorum.
+ </dl></dl>
 
-##### <a id="25"></a>25  Voting at meetings
+**
 
-             (1)  Questions arising at a meeting are to be decided by a majority of votes of the members present and voting.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 21  Termination of appointment 
+**
 
-             (2)  The member presiding has a deliberative vote, and, if necessary, also has a casting vote.
+ <dl compact=""><dl compact="">
 
-##### <a id="26"></a>26  Conduct of meetings
+<dt>(1)</dt><dd>The Minister may terminate a member's appointment for misbehaviour or
 
-                   The Advisory Council may, subject to this Division, determine the procedure at meetings.
+physical or mental incapacity.</dd> <dt>(2)</dt><dd>The Minister may terminate a member's appointment if the member: </dd> </dl></dl>
 
-##### <a id="27"></a>27  Resolutions without meetings
+	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+ 	(b)	fails, without reasonable excuse, to comply with an obligation imposed by subsection 27(3) or section&#160;29; or
+ 	(c)	is absent, except on leave of absence granted under section&#160;19, from 3 consecutive meetings of the Advisory Council; or
+ 	(d)	if the member was appointed to represent one or more of the bodies, groups of bodies or communities referred to in subsection 14(2)&#151;ceases, because of a change in employment, residence or other circumstances, to be, in the Minister's opinion, an appropriate representative of such a body, groups of bodies or community that he or she was appointed to represent.
 
-             (1)  If a majority of the members sign a document containing a statement that they are in favour of a resolution in terms set out in the document, a resolution in those terms is taken to have been passed at a duly constituted meeting held:
+<center>**
 
-                     (a)  on the day the document was signed; or
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<division>Division&#160;3&#151;Meetings of the Advisory Council </division> 
+**</center>
 
-                     (b)  if the members sign the document on different days—on the last of those days.
+**
 
-             (2)  For the purposes of subsection (1), 2 or more separate documents containing statements in identical terms each of which is signed by one or more members are together taken to be one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 22  Convening meetings 
+**
 
-             (3)  If the resolution is about a matter in which a member would, for the purposes of section 29, be taken to have an interest, the member:
+ <dl compact=""><dl compact="">
 
-                     (a)  must not sign a document containing a statement in favour of the resolution; and
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the Advisory Council must hold such
 
-                     (b)  must disclose the nature of the interest to the Chair.
+meetings as are necessary for the efficient performance of its functions.</dd> <dt>(2)</dt><dd>The Advisory Council must hold at least one meeting every 12 months.</dd> <dt>(3)</dt><dd>The Chair: </dd> </dl></dl>
 
-             (4)  Any member to whom subsection (3) applies in connection with the resolution is taken not to be a member for the purposes of calculating the number of members that would constitute a majority under subsection (1) in connection with the resolution.
+<center>Back to Top</center>
 
-##### <a id="28"></a>28  Records relating to meetings
+	(a)	may convene a meeting at any time; and
+ 	(b)	must convene a meeting on receipt of a written request from at least 5 other members.
 
-                   The Advisory Council must keep minutes of its meetings and records of resolutions passed in accordance with section 27.
+<dl compact=""><dl compact="">
 
-##### <a id="29"></a>29  Disclosure of interests
+<dt>(4)</dt><dd>The Minister may convene a meeting at any time.
 
-             (1)  A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered at a meeting must, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting.
+</dd> </dl></dl>
 
-             (2)  The disclosure is to be recorded in the minutes of the meeting and, if the Advisory Council so determines, the member must not:
+**
 
-                     (a)  be present during any deliberation of the Advisory Council with respect to the matter; or
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 23  Presiding at meetings 
+**
 
-                     (b)  take part in any decision of the Advisory Council with respect to the matter.
+ <dl compact=""><dl compact="">
 
-             (3)  For the purposes of the Advisory Council making such a determination, any member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates must not:
+<dt>(1)</dt><dd>The Chair is to preside at all meetings at which he or she is present.</dd> <dt>(2)</dt><dd>If the Chair is not present, the members present must elect one of their number to preside. </dd> </dl></dl>
 
-                     (a)  be present during any deliberation of the Advisory Council for the purposes of making the determination; or
+**
 
-                     (b)  take part in the making of the determination.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 24  Quorum 
+**
 
-             (4)  The Minister may direct the Advisory Council not to make, or to rescind, a determination under subsection (2).
+ <dl compact=""><dl compact="">
 
-##### <a id="30"></a>30  Persons may be invited to attend meetings
+		At a meeting, a majority of members, or 6 members, whichever is the greater,
 
-                   The Advisory Council may invite a person to attend a meeting:
+form a quorum.
 
-                     (a)  as an observer; or
+ </dl></dl>
 
-                     (b)  to advise or inform the Advisory Council on any matter.
+**
 
-### Division 4—Miscellaneous
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 25  Voting at meetings 
+**
 
-##### <a id="31"></a>31  Protection from civil actions
+ <dl compact=""><dl compact="">
 
-                   A member is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power, of the Advisory Council.
+<dt>(1)</dt><dd>Questions arising at a meeting are to be decided by a majority of votes of
 
-##### <a id="32"></a>32  Assistance for the Council
+the members present and voting.</dd> <dt>(2)</dt><dd>The member presiding has a deliberative vote, and, if necessary, also has a casting vote. </dd> </dl></dl>
 
-             (1)  Administrative assistance required for the purposes of the Advisory Council is to be provided by staff members of the Department.
+**
 
-             (2)  The Department is to provide such money as is necessary for the performance of the functions of the Advisory Council.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 26  Conduct of meetings 
+**
 
-## Part 4—Miscellaneous
+ <dl compact=""><dl compact="">
 
-##### <a id="33"></a>33  Delegation by Secretary
+		The Advisory Council may, subject to this Division, determine the procedure
 
-             (1)  The Secretary of the Department may, by writing, delegate to an SES employee or acting SES employee all or any of the functions and powers conferred on the Secretary by this Act.
+at meetings.
 
-             (2)  A delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Secretary.
+ </dl></dl>
 
-##### <a id="34"></a>34  Delegation by Minister
+**
 
-             (1)  The Minister may, by writing, delegate to:
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 27  Resolutions without meetings 
+**
 
-                     (a)  the Secretary of the Department; or
+ <dl compact=""><dl compact="">
 
-                     (b)  an SES employee or acting SES employee;
+<dt>(1)</dt><dd>If a majority of the members sign a document containing a statement that
+
+they are in favour of a resolution in terms set out in the document, a
+
+resolution in those terms is taken to have been passed at a duly constituted
+
+meeting held:
+
+</dd> </dl></dl>
+
+	(a)	on the day the document was signed; or
+ 	(b)	if the members sign the document on different days&#151;on the last of those days.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of subsection&#160;(1), 2 or more separate documents
+
+containing statements in identical terms each of which is signed by one or more
+
+members are together taken to be one document containing a statement in those
+
+terms signed by those members on the respective days on which they signed the
+
+separate documents.</dd> <dt>(3)</dt><dd>If the resolution is about a matter in which a member would, for the purposes of section&#160;29, be taken to have an interest, the member: </dd> </dl></dl>
+
+	(a)	must not sign a document containing a statement in favour of the resolution; and
+ 	(b)	must disclose the nature of the interest to the Chair.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Any member to whom subsection&#160;(3) applies in connection with the
+
+resolution is taken not to be a member for the purposes of calculating the
+
+number of members that would constitute a majority under subsection&#160;(1) in
+
+connection with the resolution.
+
+</dd> </dl></dl>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 28  Records relating to meetings 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Advisory Council must keep minutes of its meetings and records of
+
+resolutions passed in accordance with section&#160;27.
+
+ </dl></dl>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 29  Disclosure of interests 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A member who has a direct or indirect pecuniary interest in a matter being
+
+considered or about to be considered at a meeting must, as soon as possible
+
+after the relevant facts have come to the member's knowledge, disclose the
+
+nature of the interest at a meeting.</dd> <dt>(2)</dt><dd>The disclosure is to be recorded in the minutes of the meeting and, if the Advisory Council so determines, the member must not: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	be present during any deliberation of the Advisory Council with respect to the matter; or
+ 	(b)	take part in any decision of the Advisory Council with respect to the matter.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of the Advisory Council making such a determination, any
+
+member who has a direct or indirect pecuniary interest in the matter to which
+
+the disclosure relates must not:
+
+</dd> </dl></dl>
+
+	(a)	be present during any deliberation of the Advisory Council for the purposes of making the determination; or
+ 	(b)	take part in the making of the determination.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The Minister may direct the Advisory Council not to make, or to rescind, a
+
+determination under subsection&#160;(2).
+
+</dd> </dl></dl>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 30  Persons may be invited to attend meetings 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Advisory Council may invite a person to attend a meeting:
+
+ </dl></dl>
+
+	(a)	as an observer; or
+ 	(b)	to advise or inform the Advisory Council on any matter.
+
+<center>**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<division>Division&#160;4&#151;Miscellaneous </division> 
+**</center>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 31  Protection from civil actions 
+**
+
+ <dl compact=""><dl compact="">
+
+		A member is not liable to an action or other proceeding for damages for or in
+
+relation to an act done or omitted to be done in good faith in the performance
+
+or purported performance of any function, or in the exercise or purported
+
+exercise of any power, of the Advisory Council.
+
+ </dl></dl>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 32  Assistance for the Council 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Administrative assistance required for the purposes of the Advisory
+
+Council is to be provided by staff members of the Department.</dd> <dt>(2)</dt><dd>The Department is to provide such money as is necessary for the performance of the functions of the Advisory Council. </dd> </dl></dl>
+
+<center>**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<part>Part &#160;4&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 33  Delegation by Secretary 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary of the Department may, by writing, delegate to an SES
+
+employee or acting SES employee all or any of the functions and powers
+
+conferred on the Secretary by this Act.</dd> <dt>(2)</dt><dd>A delegate is, in the exercise of a power delegated under subsection&#160;(1), subject to the directions of the Secretary. </dd> </dl></dl>
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 34  Delegation by Minister 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, by writing, delegate to:
+
+</dd> </dl></dl>
+
+	(a)	the Secretary of the Department; or
+ 	(b)	an SES employee or acting SES employee;
 
 all or any of the functions and powers conferred on the Minister by this Act.
 
-             (2)  A delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Minister.
+<dl compact=""><dl compact="">
 
-##### <a id="35"></a>35  Annual report by Minister
+<dt>(2)</dt><dd>A delegate is, in the exercise of a power delegated under
 
-                   As soon as practicable after the end of each financial year, the Minister must cause to be laid before each House of the Parliament a report relating to:
+subsection&#160;(1), subject to the directions of the Minister.
 
-                     (a)  the operation of the product stewardship arrangements for oil (including this Act); and
+</dd> </dl></dl>
 
-                     (b)  any other matters that the Minister thinks relevant.
+<center>Back to Top</center>
 
-##### <a id="36"></a>36  Review of operation of Act
+**
 
-             (1)  The Minister must cause an independent review of:
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 35  Annual report by Minister 
+**
 
-                     (a)  the operation of this Act; and
+ <dl compact=""><dl compact="">
 
-                     (b)  relevant provisions of customs and excise legislation; and
+		As soon as practicable after the end of each financial year, the Minister
 
-                     (c)  the extent to which the objects set out in section 3 have been achieved;
+must cause to be laid before each House of the Parliament a report relating to:
+
+ </dl></dl>
+
+	(a)	the operation of the product stewardship arrangements for oil (including this Act); and
+ 	(b)	any other matters that the Minister thinks relevant. 
+
+**
+
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 36  Review of operation of Act 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Minister must cause an independent review of:
+
+</dd> </dl></dl>
+
+	(a)	the operation of this Act; and
+ 	(b)	relevant provisions of customs and excise legislation; and
+ 	(c)	the extent to which the objects set out in section&#160;3 have been achieved;
 
 to be undertaken within 4 years after the commencement of this Act and thereafter at intervals of not longer than 4 years.
 
-             (2)  The persons who undertake such a review must give the Minister a written report of the review.
+<dl compact=""><dl compact="">
 
-             (3)  The Minister must cause a copy of each report to be tabled in each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
+<dt>(2)</dt><dd>The persons who undertake such a review must give the Minister a written
 
-             (4)  In this section:
+report of the review.</dd> <dt>(3)</dt><dd>The Minister must cause a copy of each report to be tabled in each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl></dl>
 
-                    <a name="independ-review"></a>**_independent review_** means a review undertaken by 2 or more persons who:
+<def><dl compact=""><dl compact="">
 
-                     (a)  in the Minister’s opinion possess appropriate qualifications to undertake the review; and
+_independent review_ means a review undertaken by 2 or more persons
 
-                     (b)  include one or more persons who are not APS employees.
+who:
 
-##### <a id="37"></a>37  Regulations
+ </dl></dl>
 
-                   The Governor-General may make regulations prescribing matters:
+	(a)	in the Minister's opinion possess appropriate qualifications to undertake the review; and
+ 	(b)	include one or more persons who are not APS employees. 
 
-                     (a)  required or permitted by this Act to be prescribed; or
+**
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000- SECT 37  Regulations 
+**
 
- 
+ <dl compact=""><dl compact="">
 
-# Notes to the _Product Stewardship (Oil) Act 2000_
+		The Governor-General may make regulations prescribing matters:
 
-### Note 1
+ </dl></dl>
 
-The _Product Stewardship (Oil) Act 2000_ as shown in this compilation comprises Act No. 102, 2000 amended as indicated in the Tables below.
+	(a)	required or permitted by this Act to be prescribed; or
+ 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-### Table of Acts
+<center>**
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+###  PRODUCT STEWARDSHIP (OIL) ACT 2000<centreit>Notes to the _Product Stewardship (Oil) Act 2000_ </centreit>
+**</center>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+**Note 1**
+
+The _Product Stewardship (Oil) Act 2000_ as shown in this compilation comprises Act No.&#160;102, 2000 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Product Stewardship (Oil) Act 2000</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Product Stewardship (Oil) Act 2000</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>102, 2000</div>
+
   </td>
-  <td>
-    <div>6 July 2000</div>
+  <td colspan="1" align="left">
+    <div>6&#160;July 2000</div>
+
   </td>
-  <td>
-    <div>Ss. 8–10: 1 Jan 2001 
+  <td colspan="1" align="left">
+    <div>Ss. 8-10: 1 Jan 2001 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Product Stewardship (Oil) Legislation Amendment Act (No.&#160;1) 2003</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>79, 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Aug 2003</div>
+
   </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
+  <td colspan="1" align="left">
+    <div>Ss. 1-3: Royal Assent 
 Remainder: 1 Dec 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN47)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
+</tr></table>**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Product Stewardship (Oil) Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>155, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-## Table of Amendments
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
-    <div>am. No. 79, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8–10</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2003</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;79, 2003</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 8-10</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;79, 2003</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
   </td>
 </tr></table>
 
-### Note 2
+</def>
 
-_Product Stewardship (Oil) Amendment Act 2007 (No. 155, 2007)_
+</def></def></def></def>
 
-The following amendments commence on 24 March 2008 unless proclaimed earlier:
 
-## Schedule 1
-
-## 1  Paragraphs 3(a), (b) and (c)
-
-Omit “waste”, substitute “used”.
-
-## 2  Subsection 6(1)
-
-Insert:
-
-                    <a name="used-oil"></a>**_used oil_** means any oil that has been used and that, as a result of such use, is contaminated by physical or chemical impurities.
-
-## 3  Subsection 6(1)
-
-Insert:
-
-                    <a name="vote-member"></a>**_voting member_** means a member who is appointed on the basis of their knowledge of, or experience in, one or more of the areas referred to in subsection 14(2).
-
-## 4  Subsection 6(1) (definition of _waste oil_)
-
-Repeal the definition.
-
-## 5  At the end of section 10
-
-Add:
-
-             (5)  Despite section 14 of the _Legislative Instruments Act 2003_, regulations made for the purposes of subsection (1) may apply, adopt or incorporate any matter contained in a written instrument specifying:
-
-                     (a)  oil testing methods; or
-
-                     (b)  standards for the accreditation of laboratories undertaking oil testing;
-
-as in force or existing from time to time.
-
-## 6  Paragraph 12(b)
-
-Omit “waste”, substitute “used”.
-
-## 7  Subsection 13(3)
-
-Repeal the subsection, substitute:
-
-             (3)  The performance of a function of the Advisory Council is not affected by the fact that the Advisory Council’s membership does not include any members who are appointed:
-
-                     (a)  on the basis of their knowledge of, or experience in, a particular area referred to in subsection 14(2); or
-
-                     (b)  to represent the Commissioner or the Commonwealth in accordance with subsection 14(2B).
-
-## 8  Subsection 14(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The Minister must not appoint a person as a member of the Advisory Council (other than as a member mentioned in subsection (2B)) unless the Minister is satisfied that the person has knowledge of, or experience in, one or more of the following areas:
-
-                     (a)  broad waste management issues from a business perspective;
-
-                     (b)  research and development relevant to the product stewardship arrangements for oil;
-
-                     (c)  State or Territory government;
-
-                     (d)  local government;
-
-                     (e)  the non-government sector;
-
-                      (f)  national consumer issues;
-
-                     (g)  remote, including remote Indigenous, issues;
-
-                     (h)  oil production;
-
-                      (i)  used oil recycling;
-
-                      (j)  used oil collection.
-
-          (2A)  In appointing members of the Advisory Council, the Minister must endeavour to constitute the Advisory Council so that it, as a whole, has knowledge and experience in as many areas mentioned in subsection (2) as is practicable.
-
-          (2B)  The Minister must ensure that the membership of the Advisory Council includes:
-
-                     (a)  a person representing the Commissioner; and
-
-                     (b)  a person representing the Commonwealth.
-
-          (2C)  If a person mentioned in subsection (2B) is unable to attend a meeting, the person may authorise a substitute to attend the meeting. The substitute must be an APS employee.
-
-## 9  Subsection 15(1)
-
-Omit “subsection (2)”, substitute “subsections (1A) and (2)”.
-
-## 10  After subsection 15(1)
-
-Insert:
-
-          (1A)  The Minister must not appoint as the Chair a member who has a direct or indirect pecuniary interest in the product stewardship arrangements for oil if, in the Minister’s opinion, that interest could conflict, to a significant extent, with the proper performance of the duties of the Chair.
-
-          (1B)  The Chair must notify the Minister of any direct or indirect pecuniary interest that he or she acquires in the product stewardship arrangements for oil.
-
-          (1C)  The notice must be in writing given to the Minister as soon as practicable after the Chair acquires the interest.
-
-## 11  After paragraph 15(4)(a)
-
-Insert:
-
-                    (aa)  has his or her appointment as Chair terminated by the Minister under subsection (6); or
-
-## 12  At the end of section 15
-
-Add:
-
-             (6)  The Minister may terminate the Chair’s appointment if:
-
-                     (a)  the Minister becomes aware, whether because of a notification under subsection (1B) or otherwise, that the Chair has a direct or indirect pecuniary interest in the product stewardship arrangements for oil; and
-
-                     (b)  in the Minister’s opinion, the interest conflicts, or could conflict, to a significant extent, with the proper performance of the duties of the Chair.
-
-## 13  Paragraph 21(2)(d)
-
-Repeal the paragraph, substitute:
-
-                     (d)  if the member was appointed to represent the Commissioner or the Commonwealth in accordance with subsection 14(2B)—ceases, because of a change in employment, residence or other circumstances, to be, in the Minister’s opinion, an appropriate representative of the Commissioner or the Commonwealth, as the case may be.
-
-## 14  Paragraph 22(3)(b)
-
-After “other”, insert “voting”.
-
-## 15  Subsection 23(2)
-
-Before “members present”, insert “voting”.
-
-## 16  Section 24
-
-Omit all the words after “majority of”, substitute “voting members, or 6 voting members, whichever is the greater, form a quorum”.
-
-## 17  Subsection 25(1)
-
-After “of the”, insert “voting”.
-
-## 18  Subsection 27(1)
-
-After “majority of the”, insert “voting”.
-
-## 19  Subsection 27(2)
-
-After “one or more”, insert “voting”.
-
-## 20  Subsection 27(3)
-
-After “in which a”, insert “voting”.
-
-## 21  Subsection 29(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The disclosure is to be recorded in the minutes of the meeting.
-
-          (2A)  If:
-
-                     (a)  the member is not the Chair; and
-
-                     (b)  the Chair is present at the meeting; and
-
-                     (c)  the Chair so determines;
-
-the member must not:
-
-                     (d)  be present during any deliberation of the Advisory Council with respect to the matter; or
-
-                     (e)  take part in any decision of the Advisory Council with respect to the matter.
-
-          (2B)  If:
-
-                     (a)  the member is not the Chair; and
-
-                     (b)  the Chair is not present at the meeting; and
-
-                     (c)  the Advisory Council so determines;
-
-the member must not:
-
-                     (d)  be present during any deliberation of the Advisory Council with respect to the matter; or
-
-                     (e)  take part in any decision of the Advisory Council with respect to the matter.
-
-          (2C)  If:
-
-                     (a)  the member is the Chair; and
-
-                     (b)  the Advisory Council so determines;
-
-the member must not:
-
-                     (c)  be present during any deliberation of the Advisory Council with respect to the matter; or
-
-                     (d)  take part in any decision of the Advisory Council with respect to the matter.
-
-## 22  Subsection 29(3)
-
-Omit “such a determination”, substitute “a determination under subsection (2B) or (2C)”.
-
-## 23  After subsection 29(3)
-
-Insert:
-
-          (3A)  The Minister may direct the Chair not to make, or to rescind, a determination under subsection (2A).
-
-## 24  Subsection 29(4)
-
-Omit “subsection (2)”, substitute “subsection (2B) or (2C)”.
-
-As at 2 October 2007 the amendments are not incorporated in this compilation.
-
- 
