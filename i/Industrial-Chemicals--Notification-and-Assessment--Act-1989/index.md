@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00082/Html/994d6162-8cf7-4aec-b448-e04744188e7b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00802/Html/36147600-4cc5-4db2-b429-1a09e1a4ac10_files/image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 28 September 2011
  taking into account amendments up to Act No. 103 of 2011
 
 The text of any of those amendments not in force
@@ -64,7 +64,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13B](#13B).       Inclusion of new industrial chemical in non‑confidential section of Inventory before 5 years
 
-[14](#14).          Inclusion of new industrial chemical in Inventory after 5 years
+[14](#14).          Inclusion of new industrial chemical in Inventory after 5 
+ years
 
 [15](#15).          Inventory to be publicly available
 
@@ -222,7 +223,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Permits allowing introduction before assessment
 
-[30A](#30A).       Application for early introduction of non‑hazardous chemicals
+[30A](#30A).       Application for early introduction of non‑hazardous 
+ chemicals
 
 [30AA](#30AA).    Dual applications for introduction permits
 
@@ -368,7 +370,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67](#67).          Failure to comply with secondary notification requirements
 
-[68](#68).          Secondary notification assessment of new industrial chemicals
+[68](#68).          Secondary notification assessment of new industrial 
+ chemicals
 
 [68A](#68A).       Assessment of existing chemicals of which secondary notification required
 
@@ -1208,7 +1211,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00082/Html/994d6162-8cf7-4aec-b448-e04744188e7b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00802/Html/36147600-4cc5-4db2-b429-1a09e1a4ac10_files/image002.gif)
 
 where:
 
@@ -5216,13 +5219,23 @@ whichever happens first, the application is to be taken to have been made.
 
 ##### <a id="97"></a>97  Acting Director
 
-                   The Minister may appoint a person to act as the Director:
+             (1)  The Minister may appoint a person to act as the Director:
 
                      (a)  during a vacancy in the office of Director, whether or not an appointment has previously been made to that office; or
 
-                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of that office.
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of that office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy is not to continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act under such an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="98"></a>98  Disclosure of interests of Director
 
@@ -5519,6 +5532,8 @@ all or any of the Director’s functions or powers under this Act, other than th
              (1)  The Minister may, by instrument published in the Chemical Gazette, declare that the Schedule is to be taken to be amended in a manner specified in the instrument, and that declaration has effect accordingly.
 
              (2)  The instrument is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+             (3)  For the purposes of section 8 of the _Acts Interpretation Act 1901_, a declaration under subsection (1) that is taken to amend the Schedule by way of repealing part of it is to be taken to be an Act that repeals that part.
 
              (4)  The Minister is to cause all necessary action to be taken to ensure that, where the Schedule is taken to be amended by a declaration in force under subsection (1), a copy of the Schedule as taken to be amended is available for inspection by the public at the prescribed places at the prescribed times, and on payment of the prescribed fee (if any).
 
@@ -6559,7 +6574,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 702–707) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 702–707) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -9425,22 +9440,6 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 97</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 99</div>
   </td>
   <td>
@@ -9657,14 +9656,6 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 106</div>
   </td>
   <td>
@@ -9767,6 +9758,42 @@ Div. 5 of Part 3</div>
     <div>am. No. 99, 1997; No. 110, 2004; No. 103, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 702  Subsection 97(1)
+
+Omit “(1)”.
+
+## 703  Paragraph 97(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 704  Subsection 97(1)
+
+Omit “but a person appointed to act during a vacancy is not to continue so to act for more than 12 months.”.
+
+## 705  At the end of subsection 97(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 706  Subsection 97(2)
+
+Repeal the subsection.
+
+## 707  Subsection 105(3)
+
+Repeal the subsection.
+
+As at 28 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10125,6 +10152,8 @@ _Statute Stocktake (Regulatory and Other Laws) Act 2009 (No. 111, 2009)_
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
 ## Schedule 3
 
 ## 10  Saving—appointments
@@ -10146,7 +10175,7 @@ _Industrial Chemicals (Notification and Assessment) Amendment (Inventory)
 
 The amendments made by item 10 of this Schedule apply to any chemical that was previously regulated (within the meaning of subsection 15AA(9) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ as inserted by that item), whether the chemical became previously regulated before or after the commencement of that item.
 
-## 57  Application provision—amendments about UV filters
+## 57  Application provision—amendments about UV filters
 
 The amendments made by items 11, 40 and 55 of this Schedule apply to applications for assessment certificates made under section 23 of the _Industrial Chemicals (Notification and Assessment) Act 1989_ (as amended by this Schedule) on or after the day on which those items commence.
 
