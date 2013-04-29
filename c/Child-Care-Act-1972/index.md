@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00654/Html/b98edf66-dc73-4dd9-8663-03e74a7de525_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00592/Html/319cb892-5a26-40d7-9056-580807082b05_files/image001.gif)
 
 # Child Care Act 1972
 
 **Act No. 121 of 1972 as amended**
 
-This compilation was prepared on 22 August 2011
+This compilation was prepared on 29 July 2011
  taking into account amendments up to Act No. 79 of 2011
 
 The text of any of those amendments not in force
@@ -168,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the _A New Tax System (Family Assistance) (Administration) Act 1999_;
 
-                     (c)  any instrument (including regulations) made under the _A New Tax System (Family Assistance) Act 1999_ or the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+                     (c)  regulations under the _A New Tax System (Family Assistance) (Administration) Act 1999_.
 
                     <a name="home"></a>**_home_** does not include an orphanage or like institution.
 
@@ -290,7 +290,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 the Minister may approve, for the purposes of this Division, the purchase or proposed purchase or the construction or alteration or the proposed construction or alteration, as the case may be.
 
-##### <a id="7"></a>7  Grants for approved projects
+##### <a id="7"></a>7  Grants for approved projects
 
              (1)  The Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator of an eligible child care centre of an amount not exceeding the capital cost of an approved project.
 
@@ -867,7 +867,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 3: Royal Assent <i>(d)</i> 
-Ss. 4–11: 1 Jan 1991 <i>(d)</i></div>
+Ss. 4‑11: 1 Jan 1991 <i>(d)</i></div>
   </td>
   <td>
     <div>S. 8(2)</div>
@@ -1127,7 +1127,7 @@ Schedule 11 (item 2): <i>(i)</i></div>
     <div>25 July 2011</div>
   </td>
   <td>
-    <div>Schedule 3 (item 7): 22 Aug 2011</div>
+    <div>Schedule 3 (item 7): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1174,7 +1174,7 @@ _(g)_     The _Child Care Act 1972_ was amended by Schedule 2 (items�
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
 
-_(h)_     The _Child Care Act 1972_ was amended by Schedule 2 (items 4, 5) and Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsections 2(1)–(3) of which provide as follows:
+_(h)_     The _Child Care Act 1972_ was amended by Schedule 2 (items 4, 5) and Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsections 2(1)‑(3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1366,7 +1366,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 95, 1985; No. 106, 1990; No. 143, 1995; No. 13, 1998; Nos. 82 and 83, 1999; No. 79, 2011</div>
+    <div>am. No. 216, 1973; No. 95, 1985; No. 106, 1990; No. 143, 1995; No. 13, 1998; Nos. 82 and 83, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2017,6 +2017,22 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
     <div>am. No. 158, 1985; No. 80, 1996</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011 (No. 79, 2011)_
+
+The following amendment commences on 22 August 2011:
+
+## Schedule 3
+
+## 7  Subsection 4(1) (paragraph (c) of the definition of _family assistance law_)
+
+Repeal the paragraph, substitute:
+
+                     (c)  any instrument (including regulations) made under the _A New Tax System (Family Assistance) Act 1999_ or the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+As at 29 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
