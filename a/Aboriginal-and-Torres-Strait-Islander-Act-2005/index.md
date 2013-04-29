@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 11 January 2011
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 12 July 2010
+ taking into account amendments up to Act No. 89 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -90,9 +90,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—TSRA elections**
 
-[142T](#142T).      TSRA elections
+[142T](#142T).     TSRA elections
 
-[142TA](#142TA).   TSRA wards
+[142TA](#142TA).  TSRA wards
 
 [142U](#142U).     People entitled to vote at TSRA elections
 
@@ -104,7 +104,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [142Y](#142Y).     Timing of TSRA elections
 
-[142Z](#142Z).      Polling places
+[142Z](#142Z).     Polling places
 
 [143](#143).        Fixing of election days, and location of polling places, to be notified in _Gazette_
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [143S](#143S).      Suspension and removal from office of members of the TSRA
 
-[143T](#143T).      Recall of member of the TSRA
+[143T](#143T).     Recall of member of the TSRA
 
 [143U](#143U).     Members of TSRA, and TSRA Administrators, not personally liable
 
@@ -156,7 +156,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [143Y](#143Y).     Suspension and removal from office of Chairperson
 
-[143Z](#143Z).      Leave of absence for Chairpersons
+[143Z](#143Z).     Leave of absence for Chairpersons
 
 [144](#144).        Provisions relating to Deputy Chairpersons
 
@@ -196,11 +196,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [144R](#144R).     Staff
 
-[144T](#144T).      Consultants
+[144T](#144T).     Consultants
 
     **Division 9—Finances**
 
-[144TA](#144TA).   Money payable to TSRA
+[144TA](#144TA).  Money payable to TSRA
 
 [144U](#144U).     Application of money of the TSRA
 
@@ -212,13 +212,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [144Y](#144Y).     Limits on TSRA’s powers to raise money
 
-[144Z](#144Z).      Exemption from taxation
+[144Z](#144Z).     Exemption from taxation
 
-[144ZA](#144ZA).   Estimates
+[144ZA](#144ZA).  Estimates
 
 [144ZB](#144ZB).   Annual report
 
-[144ZD](#144ZD).   TSRA Finance Directions
+[144ZD](#144ZD).  TSRA Finance Directions
 
     **Division 10—Minister may ask TSRA for information**
 
@@ -228,23 +228,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [144ZF](#144ZF).   Powers of TSRA Administrator
 
-[144ZG](#144ZG).   Remuneration and allowances
+[144ZG](#144ZG).  Remuneration and allowances
 
-[144ZH](#144ZH).   TSRA Administrator holds office on a full-time basis
+[144ZH](#144ZH).  TSRA Administrator holds office on a full-time basis
 
 [144ZJ](#144ZJ).    Resignation of TSRA Administrator
 
-[144ZK](#144ZK).   Leave of absence
+[144ZK](#144ZK).  Leave of absence
 
 [144ZL](#144ZL).   Other terms and conditions
 
-[144ZM](#144ZM).  Disclosure of interests
+[144ZM](#144ZM). Disclosure of interests
 
-[144ZN](#144ZN).   Termination of appointment
+[144ZN](#144ZN).  Termination of appointment
 
 [144ZP](#144ZP).   Acting TSRA Administrator
 
-[144ZQ](#144ZQ).   Minister may appoint replacement TSRA Administrator if there is a vacancy in an office of TSRA Administrator
+[144ZQ](#144ZQ).  Minister may appoint replacement TSRA Administrator if there is a vacancy in an office of TSRA Administrator
 
 **Part 4—Indigenous Business Australia** 
 
@@ -406,7 +406,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [191SB](#191SB).   Interest in land of subsidiary of Indigenous Land Corporation
 
-[191T](#191T).      Surrender of land to Indigenous Land Corporation
+[191T](#191T).     Surrender of land to Indigenous Land Corporation
 
 [191U](#191U).     Land granted by Indigenous Land Corporation must not be claimed under the _Aboriginal Land Rights (Northern Territory) Act 1976_
 
@@ -422,7 +422,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 6—Administrative provisions**
 
-[191Z](#191Z).      Period of appointment
+[191Z](#191Z).     Period of appointment
 
 [192](#192).        Basis on which Indigenous Land Corporation Directors hold office
 
@@ -468,7 +468,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [192S](#192S).      Staff
 
-[192T](#192T).      Arrangements for Indigenous Business Australia staff to perform duties on behalf of Indigenous Land Corporation
+[192T](#192T).     Arrangements for Indigenous Business Australia staff to perform duties on behalf of Indigenous Land Corporation
 
 [192U](#192U).     Arrangements relating to staff
 
@@ -516,11 +516,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 14—Delegation**
 
-[193T](#193T).      Delegation to Indigenous Land Corporation General Manager or member of staff
+[193T](#193T).     Delegation to Indigenous Land Corporation General Manager or member of staff
 
     **Division 15—Reviews**
 
 [193U](#193U).     Reviews
+
+**Part 4B—Office of Evaluation and Audit (Indigenous Programs)**
+
+[193V](#193V).     Definitions
+
+[193W](#193W).    Office of Evaluation and Audit (Indigenous Programs)
+
+[193X](#193X).     Functions of the Office
+
+[193Y](#193Y).     Programs of evaluation and audit
+
+[193Z](#193Z).     Minister may table reports in the Parliament
+
+[193ZA](#193ZA).  Director of Evaluation and Audit
+
+[193ZB](#193ZB).   Period of appointment
+
+[193ZC](#193ZC).   Acting Director
+
+[193ZD](#193ZD).  Resignation
+
+[193ZE](#193ZE).   Termination of appointment
+
+[193ZF](#193ZF).   Director not personally liable
+
+[193ZG](#193ZG).  Examination of documents etc 
 
 **Part 5—Miscellaneous**
 
@@ -650,7 +676,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish a Torres Strait Regional Authority, an Indigenous Land Corporation and a corporation to be known as Indigenous Business Australia, and for related purposes
+## An Act to establish a Torres  Strait Regional Authority, an Indigenous Land Corporation and a corporation to be known as Indigenous Business Australia, and for related purposes
 
 WHEREAS the people of Australia voted overwhelmingly to amend the Constitution so that the Parliament of Australia would be able to make special laws for peoples of the aboriginal race;
 
@@ -680,7 +706,7 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Aboriginal and Torres Strait Islander Act 2005_.
+                   This Act may be cited as the _Aboriginal and__Torres Strait__Islander Act 2005_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -704,9 +730,9 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal or Torres Strait Islander corporation_** means:
+                    <a name="island-corpor"></a><a name="torr-strait"></a><a name="aborigin"></a>**_Aboriginal or_****_Torres Strait_****_Islander corporation_** means:
 
-                     (a)  a corporation registered under the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_; or
+                     (a)  a corporation registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_; or
 
                      (b)  a body corporate where either of the following conditions is satisfied:
 
@@ -718,7 +744,7 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="ailan-kastom"></a>**_Ailan Kastom_** means the body of customs, traditions, observances and beliefs of some or all of the Torres Strait Islanders living in the Torres Strait area, and includes any such customs, traditions, observances and beliefs relating to particular persons, areas, objects or relationships.
 
-                    <a name="atsic-abolit-dai"></a>**_ATSIC abolition day_** means the day Schedules 1 and 2 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 2005_ commence _._
+                    <a name="atsic-abolit-dai"></a>**_ATSIC abolition day_** means the day Schedules 1 and 2 to the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 2005_ commence _._
 
                     <a name="commonwealth-bodi"></a>**_Commonwealth body_** includes a Department of State, or authority, of the Commonwealth.
 
@@ -740,7 +766,7 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                      (b)  if a notice under subsection 142R(1A) is in force—the number fixed by the notice.
 
-                    <a name="estimated-popul"></a>**_estimated population_**, in relation to the Torres Strait area, means the number of persons living in that area set out in the most recent TSRA notice that includes such a number.
+                    <a name="estimated-popul"></a>**_estimated population_**, in relation to the Torres  Strait area, means the number of persons living in that area set out in the most recent TSRA notice that includes such a number.
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
@@ -794,9 +820,9 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="new-hous-fund"></a>**_New Housing Fund_** means the New Housing Fund established under section 181A.
 
-                    <a name="queensland-act"></a>**_Queensland Act_** means the _Community Services (Torres Strait) Act 1984_ of Queensland as amended and in force from time to time, and includes any law of Queensland that replaces that Act.
+                    <a name="queensland-act"></a>**_Queensland Act_** means the _Community Services (__Torres Strait__) Act 1984_ of Queensland as amended and in force from time to time, and includes any law of Queensland that replaces that Act.
 
-                    <a name="region-council-abolit-dai"></a>**_Regional Councils abolition day_** means the day on which Schedule 3 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 2005_ commences _._
+                    <a name="region-council-abolit-dai"></a>**_Regional Councils abolition day_** means the day on which Schedule 3 to the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 2005_ commences _._
 
                     <a name="region-indigen-land-strategi"></a>**_regional indigenous land strategy_** means a strategy prepared under section 191P.
 
@@ -918,7 +944,7 @@ Note 2:       Part 2.5 of the _Criminal Code_ (which deals with co
 
 ### Division 1—Torres Strait Regional Authority
 
-##### <a id="142"></a>142  Torres Strait Regional Authority
+##### <a id="142"></a>142  Torres  Strait Regional Authority
 
              (1)  A Torres Strait Regional Authority is established.
 
@@ -952,7 +978,7 @@ Functions
 
                      (a)  to recognise and maintain the special and unique Ailan Kastom of Torres Strait Islanders living in the Torres Strait area;
 
-                     (b)  to formulate and implement programs for Torres Strait Islanders, and Aboriginal persons, living in the Torres Strait area;
+                     (b)  to formulate and implement programs for Torres Strait Islanders, and Aboriginal persons, living in the Torres  Strait area;
 
                      (c)  to monitor the effectiveness of programs for Torres Strait Islanders, and Aboriginal persons, living in the Torres Strait area, including programs conducted by other bodies;
 
@@ -1044,7 +1070,7 @@ Limitations on TSRA’s function to acquire land
 
              (4)  The powers of the TSRA may be exercised in or out of Australia.
 
-##### <a id="142D"></a>142D  Torres Strait Development Plan
+##### <a id="142D"></a>142D  Torres  Strait Development Plan
 
              (1)  The TSRA must formulate, and revise from time to time, a plan to be known as the Torres Strait Development Plan (the **_Plan_**).
 
@@ -1326,7 +1352,7 @@ Rules may divide Torres Strait area into wards
 
              (1)  The TSRA election rules may:
 
-                     (a)  provide for the division of the Torres Strait area into specified wards; and
+                     (a)  provide for the division of the Torres  Strait area into specified wards; and
 
                      (b)  set out the boundaries of each ward; and
 
@@ -1626,7 +1652,7 @@ Rules are a disallowable instrument
 
 ##### <a id="143K"></a>143K  Remuneration and allowances
 
-                   A member of the TSRA is entitled to remuneration and allowances in accordance with section 194.
+                   A member of the TSRA is entitled to remuneration and allowances in accordance with section 194.
 
 ##### <a id="143L"></a>143L  Chairperson and Deputy Chairperson
 
@@ -1700,7 +1726,7 @@ Members taken to have resigned from TSRA in certain circumstances
 
 the TSRA may, in writing, declare that it is so satisfied.
 
-Member living outside his or her ward in the Torres Strait area
+Member living outside his or her ward in the Torres  Strait area
 
           (1A)  If the TSRA is satisfied that a member of the TSRA for a TSRA ward:
 
@@ -2314,7 +2340,7 @@ Note 2:       The TSRA may declare that a member of the TSRA has bec
 
              (5)  Money in the TSRA Housing Fund must not be spent otherwise than in accordance with estimates of expenditure approved by the Minister.
 
-##### <a id="144W"></a>144W  TSRA Land and Natural Resources Fund
+##### <a id="144W"></a>144W  TSRA  Land and Natural Resources Fund
 
              (1)  There is established by this subsection a fund to be known as the TSRA Land and Natural Resources Fund.
 
@@ -2332,7 +2358,7 @@ Note 2:       The TSRA may declare that a member of the TSRA has bec
 
              (4)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
+##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
 
              (1)  The TSRA may borrow money on overdraft from a bank for the sole purpose of meeting a temporary deficit in the money of the TSRA.
 
@@ -2980,7 +3006,7 @@ to be made available to Indigenous Business Australia.
 
              (2)  In this section:
 
-                    <a name="monei-held-indigen-busi-australia"></a>**_money held by Indigenous Business Australia_** does not include:
+                    <a name="australia"></a><a name="monei-held-indigen-busi"></a>**_money held by Indigenous Business_****_Australia_** does not include:
 
                      (a)  money held in trust by Indigenous Business Australia; or
 
@@ -3058,7 +3084,7 @@ is taken to be first financial year for which Indigenous Business Australia must
 
              (3)  In this section:
 
-                    <a name="monei-indigen-busi-australia"></a>**_money of Indigenous Business Australia_** does not include:
+                    <a name="australia"></a><a name="monei-indigen-busi"></a>**_money of Indigenous Business_****_Australia_** does not include:
 
                      (a)  money held in trust by Indigenous Business Australia; or
 
@@ -3264,7 +3290,7 @@ Functions
 
 Note 1:       **_Interest in land_** is defined by section 4.
 
-Note 2:       **_Aboriginal or Torres Strait Islander corporation_** is defined by section 4.
+Note 2:       **_Aboriginal or_****_Torres Strait_****_Islander corporation_** is defined by section 4.
 
 Grants may be subject to conditions
 
@@ -3772,7 +3798,7 @@ Effect of surrender of interest
 
              (3)  If the Indigenous Land Corporation acquires an interest in land as a result of a disposal under subsection (2), this Part has effect as if the interest had been acquired by the Indigenous Land Corporation under paragraph 191D(1)(b).
 
-##### <a id="191U"></a>191U   Land granted by Indigenous Land Corporation must not be claimed under the _Aboriginal__Land__Rights (Northern Territory) Act 1976_
+##### <a id="191U"></a>191U   Land granted by Indigenous Land Corporation must not be claimed under the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_
 
 When section applies
 
@@ -3788,7 +3814,7 @@ When section applies
 
 No claims
 
-             (2)  An application of the kind referred to in paragraph 50(1)(a) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ must not be made if it relates to a claim to the land.
+             (2)  An application of the kind referred to in paragraph 50(1)(a) of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_ must not be made if it relates to a claim to the land.
 
 ### Division 5—Board of Directors of Indigenous Land Corporation
 
@@ -4204,7 +4230,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image002.gif)
 
 where:
 
@@ -4234,7 +4260,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image003.gif)
 
 where:
 
@@ -4368,7 +4394,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image004.gif)
 
 where:
 
@@ -4418,7 +4444,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image005.gif)
 
 where:
 
@@ -4607,6 +4633,244 @@ Exception—prosecutions
              (3)  Subsection (2) does not limit subsection (1).
 
              (4)  The report of each review must be given to the Minister.
+
+## Part 4B—Office of Evaluation and Audit (Indigenous Programs)
+
+##### <a id="193V"></a>193V  Definitions
+
+             (1)  In this Part:
+
+                    <a name="activ-individu-organis"></a>**_activities of any individual or organisation_** includes the operations of any individual or organisation.
+
+                    <a name="australian-govern-bodi"></a>**_Australian Government body_** means:
+
+                     (a)  a Department of State, a Department of the Parliament or a prescribed Agency within the meaning of the _Financial Management and Accountability Act 1997_; and
+
+                     (b)  a Commonwealth authority within the meaning of the _Commonwealth Authorities and Companies Act 1997_; and
+
+                     (c)  a Commonwealth company within the meaning of the _Commonwealth Authorities and Companies Act 1997_; and
+
+                     (d)  a body established for a public purpose by or under a law of the Commonwealth.
+
+                    <a name="director"></a>**_Director_** means the Director of Evaluation and Audit appointed, or taken to have been appointed, under section 193ZA.
+
+                    <a name="evalu-audit"></a>**_evaluate or audit_** includes evaluate and audit.
+
+                    <a name="individu-organis"></a>**_individual or organisation_** includes any person, body corporate or unincorporated body.
+
+                    <a name="offic"></a>**_Office_** means the Office of Evaluation and Audit (Indigenous Programs) referred to in section 193W.
+
+                    <a name="relev-program"></a>**_relevant program_** means a program, or a program component, under which money is provided, including on loan, or a guarantee is given, or an interest in land or other property is transferred, for the purpose of furthering the social, economic or cultural development of Aboriginal persons or Torres Strait Islanders.
+
+             (2)  A reference in this Part to a person engaged under the _Public Service Act 1999_ is to be read as a reference to a person so engaged whose Agency Head, within the meaning of that Act, is the Secretary of the Department.
+
+##### <a id="193W"></a>193W  Office of Evaluation and Audit (Indigenous Programs)
+
+             (1)  An Office of Evaluation and Audit (Indigenous Programs) is established within the Department.
+
+             (2)  The purposes of the Office are:
+
+                     (a)  to evaluate or audit relevant programs administered by Australian Government bodies; and
+
+                     (b)  to evaluate or audit the activities of any individual or organisation that has received funding under any relevant program; and
+
+                     (c)  to report to the Minister on those evaluations or audits and to report to other Ministers in accordance with the directions of the Minister.
+
+##### <a id="193X"></a>193X  Functions of the Office
+
+             (1)  The Office has the following functions:
+
+                     (a)  in accordance with a program developed by the Director under section 193Y, or, in the circumstances referred to in subsection (2), at the request of the Minister—to evaluate or audit:
+
+                              (i)  relevant programs administered by an Australian Government body; or
+
+                             (ii)  particular aspects of the operations of Australian Government bodies, but only to the extent that the evaluation or audit concerns relevant programs administered by such a body; and
+
+                     (b)  when requested to do so by the Minister—to evaluate or audit the activities of any individual or organisation:
+
+                              (i)  who has received money, including money on loan, or an interest in land or other property, from an Australian Government body under a relevant program; or
+
+                             (ii)  who has had a loan guaranteed by an Australian Government body under such a program; or
+
+                            (iii)  who has derived income or other benefit, directly or indirectly, from money (including money on loan), or a guarantee, provided by an Australian Government body under such a program or from a transfer of an interest in land or other property from such a body under such a program;
+
+                            but only to the extent that the evaluation or audit concerns the money, land or other property, or the guarantee, provided under that program or concerns the income or other benefit derived from such money, land or other property or from such a guarantee; and
+
+                     (c)  when a funding or loan agreement entered into with any individual or organisation under a relevant program provides that the Office can evaluate or audit the activities of the individual or organisation:
+
+                              (i)  that directly or indirectly relate to the use of money provided under the agreement; or
+
+                             (ii)  that relate to any matter facilitated by income derived from the use of money so provided;
+
+                            with the consent of the Minister—to evaluate or audit those activities in accordance with that agreement; and
+
+                    (ca)  when requested to do so by the Minister—to evaluate or audit the activities or operations of a Land Council (within the meaning of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_); and
+
+                    (cb)  when requested to do so by the Minister—to evaluate or audit the activities or operations of any body corporate or other person that has received an amount:
+
+                              (i)  under a determination under subsection 35(2), (3) or (6) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_; or
+
+                             (ii)  under subsection 35(3) of that Act in accordance with an agreement mentioned in that subsection; or
+
+                            (iii)  under subsection 35(4) of that Act that the Land Council concerned has advised, under subsection 35(4A) of that Act, is an accountable amount; or
+
+                            (iv)  under subsection 35(4B) of that Act; or
+
+                             (v)  under subsection 35(11) of that Act in relation to an amount covered by subparagraph (i), (ii), (iii) or (iv) of this paragraph; or
+
+                            (vi)  under subsection 67B(6) of that Act that the Land Council concerned has advised, under subsection 67B(7) of that Act, is an accountable amount;
+
+                            but only to the extent that the evaluation or audit concerns that amount or the income or other benefit derived from that amount; and
+
+                    (cc)  when requested to do so by the Minister—to evaluate or audit the activities of any individual or organisation that has received an amount under subsection 64(4) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, but only to the extent that the evaluation or audit concerns that amount or the income or other benefit derived from that amount; and
+
+                     (d)  to report on evaluations or audits conducted under this section in a manner required by the Minister; and
+
+                     (e)  to inform the Minister about any significant issues that have arisen, or may arise, in relation to audits or evaluations conducted under this section; and
+
+                      (f)  to inform the Minister about any issues affecting the independence of the Office.
+
+             (2)  In any circumstance where the Minister considers that there is a need for the Office of Evaluation and Audit to evaluate or audit:
+
+                     (a)  relevant programs administered by an Australian Government body; or
+
+                     (b)  particular aspects of the operations of an Australian Government body, to the extent that the evaluation or audit concerns relevant programs administered by such a body;
+
+the Minister may request the Office to conduct such an evaluation or audit whether or not an evaluation or audit would ordinarily be conducted at that time under a program developed under section 193Y.
+
+             (3)  The functions conferred on the Office under this section are in addition to, and not in substitution for, any functions conferred on the Auditor-General or any other person by or under any other law of the Commonwealth.
+
+##### <a id="193Y"></a>193Y  Programs of evaluation and audit
+
+             (1)  As soon as practicable after the commencement of this section, and before the start of each succeeding year commencing on a 1 July, the Director must develop a program for the evaluation or audit of Australian Government bodies by the Office in the performance of the function referred to in paragraph 193X(1)(a).
+
+             (2)  The first program must cover the period ending on 30 June 2007 and each subsequent program must cover a period of 3 years from the 1 July on which it commences.
+
+             (3)  The Director may, from time to time, vary a program in force under subsection (1).
+
+             (4)  In developing a program under subsection (1) and in making any variation to that program, the Director must have regard to the audit priorities of the Minister and also of the Minister having primary responsibility for indigenous affairs.
+
+             (5)  A program for the evaluation or audit of Australian Government bodies developed in accordance with subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+
+##### <a id="193Z"></a>193Z  Minister may table reports in the Parliament
+
+                   The Minister may, in his or her discretion, lay before each House of the Parliament, a copy of any report that is given to the Minister by the Office under this Act.
+
+##### <a id="193ZA"></a>193ZA  Director of Evaluation and Audit
+
+             (1)  There is to be a Director of Evaluation and Audit.
+
+             (2)  The Director is to be a person engaged under the _Public Service Act 1999_ who is appointed as Director of Evaluation and Audit by the Minister.
+
+             (3)  The Director is the head of the Office.
+
+             (4)  The Director must, as soon as practicable after 30 June in each year, give the Secretary of the Department a report of the operations of the Office during that year for inclusion in the annual report of the Department.
+
+             (5)  The office of Director of Evaluation and Audit is not a public office for the purposes of the _Remuneration Tribunal Act 1973_.
+
+##### <a id="193ZB"></a>193ZB  Period of appointment
+
+             (1)  The Director holds office for the period specified in, or worked out under, the instrument of appointment.
+
+             (2)  The period must not be longer than 5 years.
+
+##### <a id="193ZC"></a>193ZC  Acting Director
+
+             (1)  The Minister may appoint a person engaged under the _Public Service Act 1999_ to act as the Director of Evaluation and Audit:
+
+                     (a)  during a vacancy in the office of Director; or
+
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
+
+but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
+
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+             (3)  Any reference in section 193ZD, 193ZE, 193ZF or 193ZG to the Director or to the Director of Evaluation and Audit is taken to include a reference to the acting Director.
+
+##### <a id="193ZD"></a>193ZD  Resignation
+
+                   The Director may resign by writing signed by him or her and sent to the Minister.
+
+##### <a id="193ZE"></a>193ZE  Termination of appointment
+
+             (1)  The Minister may terminate, by writing signed by him or her, the appointment of the Director.
+
+             (2)  The appointment of the Director is terminated if the Director ceases to be, for any reason, engaged under the _Public Service Act 1999_.
+
+##### <a id="193ZF"></a>193ZF  Director not personally liable
+
+                   The Director is not personally liable in an action or other proceeding for damages for, or in relation to, anything done or omitted to be done in good faith:
+
+                     (a)  by the Office; or
+
+                     (b)  by the Director in the capacity of Director.
+
+##### <a id="193ZG"></a>193ZG  Examination of documents etc.
+
+             (1)  The Director may, by notice in the _Gazette_, authorise a person (the **_authorised person_**) who is a member of the staff of, or an independent contractor engaged by, the Department to perform functions and exercise powers for the purposes of this section.
+
+             (2)  For the purposes of an evaluation or audit relating to an Australian Government body, individual or organisation, the Director or an authorised person may examine documents relating to the Australian Government body, individual or organisation concerned.
+
+             (3)  An authorised person must report to the Director on the results of an examination conducted in accordance with subsection (2).
+
+             (4)  For the purposes of performing the functions conferred by subsection (2) and section 193X, the Director or the authorised person:
+
+                     (a)  is entitled at all reasonable times to full and free access to documents relating to the body, individual or organisation; and
+
+                     (b)  may make copies, or take extracts from, any such document; and
+
+                     (c)  by notice in writing, may require a person:
+
+                              (i)  to answer such questions; and
+
+                             (ii)  to produce such documents in the person’s possession or to which the person has access;
+
+                            within such reasonable period, not being a period of less than 14 days, as is specified in the notice.
+
+             (5)  For the purposes of exercising powers conferred by subsection (4), an Australian Government body must provide access to premises (including any land or place) occupied by the Australian Government body, at all reasonable times, to the Director or an authorised person.
+
+             (6)  A person may only be required, under paragraph (4)(c), to provide information or to produce a document if the Director or authorised person has reason to believe that the person is capable of providing that information or producing that document.
+
+             (7)  A person who fails to comply with a requirement under paragraph (4)(c) is guilty of an offence punishable upon conviction by a fine not exceeding 20 penalty units.
+
+             (8)  Subsection (7) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (9)  Subsection (7) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (9) (see subsection 13.3(3) of the _Criminal Code_).
+
+           (10)  For the purposes of subsection (9), it is not a reasonable excuse for a person to fail:
+
+                     (a)  to give information; or
+
+                     (b)  to produce a document;
+
+in accordance with a requirement made of the person, on the ground that the information or production of the document might tend to incriminate the person or make the person liable to a penalty. However:
+
+                     (c)  evidence as to the giving of the information or the producing of the document; or
+
+                     (d)  any information, document or thing obtained as a direct or indirect consequence of the giving of the information or the producing of the document;
+
+is not admissible in evidence against the person in any proceedings in a court that may expose the person to a penalty, other than proceedings for an offence against, or arising out of, subsection (7) or (11).
+
+           (11)  A person who, in purported compliance with a requirement under paragraph (4)(c), makes a statement that is, to the person’s knowledge, false or misleading in a material particular, is guilty of an offence punishable on conviction by a fine not exceeding 20 penalty units.
+
+           (12)  Before exercising powers under subsection (4), an authorised person must produce written authority given by the Director as notified in the _Gazette_ under subsection (1). If the authorised person fails to do so, he or she has no powers under that subsection.
+
+           (13)  The functions and powers conferred by this section are in addition to, and not in substitution for, any functions or powers conferred on the Auditor-General, or any other person, by or under any other law of the Commonwealth.
+
+           (14)  A notice under subsection (1) or under paragraph (4)(c) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
 ## Part 5—Miscellaneous
 
@@ -4818,7 +5082,7 @@ the decision is taken to be a decision of an administrative character made under
 
                            (vii)  a member of a Regional Council before the abolition of Regional Councils on Regional Councils abolition day; or
 
-                          (viii)  a member of an advisory committee established by such a Regional Council to advise it in relation to the performance of its functions; or
+                           (viii)  a member of an advisory committee established by such a Regional Council to advise it in relation to the performance of its functions; or
 
                             (ix)  an Administrator of such a Regional Council; or
 
@@ -5142,9 +5406,9 @@ and any continuing candidate who has received a number of votes equal to or grea
 
                      (b)  Candidate C and all other continuing candidates who stand lower in the poll than that candidate may be excluded in a bulk exclusion.
 
-10.              Where, apart from this clause, the number of continuing candidates after a bulk exclusion under clause 9 would be fewer than the number of remaining unfilled vacancies, clause 9 shall operate to exclude only the number of candidates, beginning with the candidate who stands lowest in the poll, that would leave sufficient continuing candidates to fill the remaining unfilled vacancies.
+10.               Where, apart from this clause, the number of continuing candidates after a bulk exclusion under clause 9 would be fewer than the number of remaining unfilled vacancies, clause 9 shall operate to exclude only the number of candidates, beginning with the candidate who stands lowest in the poll, that would leave sufficient continuing candidates to fill the remaining unfilled vacancies.
 
-11.              Notwithstanding any other provision of this Schedule (other than clause 16), where a candidate or candidates has or have been elected and there are surplus votes as a result of that election, subclauses 9(2), (3), (4) and (5) may be applied as if references in those paragraphs to notional votes were references to adjusted notional votes.
+11.               Notwithstanding any other provision of this Schedule (other than clause 16), where a candidate or candidates has or have been elected and there are surplus votes as a result of that election, subclauses 9(2), (3), (4) and (5) may be applied as if references in those paragraphs to notional votes were references to adjusted notional votes.
 
 12.  Any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of a transfer under clause 8 or 13 of ballot papers of an excluded candidate or candidates, as the case may be, shall be elected, and, unless all the vacancies have been filled, the surplus votes (if any) of the candidate so elected shall be transferred in accordance with paragraphs 4(a) and (b), except that, where the candidate so elected is elected before all the ballot papers of the excluded candidate or candidates, as the case may be, have been transferred, the surplus votes (if any) of the candidate so elected shall not be transferred until the remaining ballot papers of the excluded candidate or candidates, as the case may be, have been transferred in accordance with paragraphs 8(a) and (b) to continuing candidates.
 
@@ -5168,7 +5432,7 @@ and any continuing candidate who has received a number of votes equal to or grea
 
 22.  Where a candidate dies before the scrutiny, a vote indicated on a ballot paper opposite the name of that candidate shall be counted to the candidate next in the order of the voter’s preference, and the numbers indicating subsequent preferences shall be deemed to be altered accordingly.
 
-23.              For the purposes of this Schedule, each of the following is a separate transfer:
+23.               For the purposes of this Schedule, each of the following is a separate transfer:
 
                      (a)  a transfer under clause 4, 5 or 12 of all the surplus votes of an elected candidate;
 
@@ -6159,32 +6423,15 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 7): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Aboriginal and Torres Strait Islander Commission Amendment Act 1994_ provides as follows:
 
-                 (2)   The remainder of this Act commences immediately after the commencement of Division 1 of Part 28 of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_.
+                 (2)   The remainder of this Act commences immediately after the commencement of Division 1 of Part 28 of the _Aboriginal and__Torres Strait__Islander Commission Amendment Act (No. 3) 1993_.
 
          Division 1 of Part 28 commenced on 1 July 1994.
 
-_(b)_     Subsection 2(5) of the _Aboriginal and Torres Strait Islander Commission Amendment Act 1996_ provides as follows:
+_(b)_    Subsection 2(5) of the _Aboriginal and Torres Strait Islander Commission Amendment Act 1996_ provides as follows:
 
                  (5)   Schedule 2 commences on the day, or the earliest day, on which the Minister appoints a person as a Commissioner after the person has been elected in the 1999 round of Regional Council elections.
 
@@ -6194,11 +6441,11 @@ _(c)_     The _Aboriginal and Torres Strait Islander Act 2005_ was amend
 
                  (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
-         Schedule 2 (items 1 and 3–5) are taken to have commenced immediately after the commencement of the _Aboriginal and Torres Strait Islander Act 2005_.
+         Schedule 2 (items 1 and 3–5) are taken to have commenced immediately after the commencement of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
          Schedule 2 (item 2) is taken to have commenced immediately after the commencement of the _Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995_.
 
-         The _Aboriginal and Torres Strait Islander Act 2005_ came into operation on 5 March 1990 (_see Gazette_ 1990, No. S48).
+         The _Aboriginal and__Torres Strait__Islander Act 2005_ came into operation on 5 March 1990 (_see Gazette_ 1990, No. S48).
 
          The _Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995_ came into operation on 1 June 1995 (_see Gazette_ 1995, No. GN18).
 
@@ -6212,23 +6459,23 @@ _(e)_     The _Aboriginal and Torres Strait Islander Commission Amendmen
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(f)_      Subsections 2(2)–(4) of the _Aboriginal and Torres Strait Islander Commission Amendment Act 1998_ provide as follows:
+_(f)_      Subsections 2(2)–(4) of the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 1998_ provide as follows:
 
-                 (2)   Items 4 and 8 of Schedule 1 are taken to have commenced immediately after the _Aboriginal and Torres Strait Islander Commission Amendment Act 1996_ received the Royal Assent.
+                 (2)   Items 4 and 8 of Schedule 1 are taken to have commenced immediately after the _Aboriginal and__Torres  Strait__Islander Commission Amendment Act 1996_ received the Royal Assent.
 
-                 (3)   Item 10 of Schedule 1 is taken to have commenced immediately after the _Aboriginal and Torres Strait Islander Commission Act 1989_ received the Royal Assent.
+                 (3)   Item 10 of Schedule 1 is taken to have commenced immediately after the _Aboriginal and__Torres  Strait__Islander Commission Act 1989_ received the Royal Assent.
 
-                 (4)   Item 11 of Schedule 1 is taken to have commenced immediately after the commencement of section 79 of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_.
+                 (4)   Item 11 of Schedule 1 is taken to have commenced immediately after the commencement of section 79 of the _Aboriginal and__Torres Strait__Islander Commission Amendment Act (No. 3) 1993_.
 
-         The _Aboriginal and Torres Strait Islander Commission Amendment Act 1996_ received the Royal Assent on 12 September 1996.
+         The _Aboriginal and__Torres Strait__Islander Commission Amendment Act 1996_ received the Royal Assent on 12 September 1996.
 
-         The _Aboriginal and Torres Strait Islander Act 2005_ received the Royal Assent on 27 November 1989.
+         The _Aboriginal and__Torres Strait__Islander Act 2005_ received the Royal Assent on 27 November 1989.
 
          Section 79 commenced on 1 July 1994.
 
 _(g)_     Subsection 2(2) of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 1) 1999_ provides as follows:
 
-                 (2)   If Schedule 2 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 1996_ commences on or after the day on which this Act receives the Royal Assent, then the amendments made by Schedule 1 to this Act commence immediately after the commencement of Schedule 2 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 1996_. 
+                 (2)   If Schedule 2 to the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 1996_ commences on or after the day on which this Act receives the Royal Assent, then the amendments made by Schedule 1 to this Act commence immediately after the commencement of Schedule 2 to the _Aboriginal and__Torres  Strait__Islander Commission Amendment Act 1996_. 
 
          Schedule 2 commenced on 7 December 1999.
 
@@ -6389,7 +6636,15 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     </div>
     <div>
       (b) immediately after the commencement of Schedule 1 to the
-        <i>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</i>.
+        <i>Aboriginal and</i>
+
+      <i>
+        Torres Strait
+      </i>
+      <i>
+        Islander Commission Amendment Act 2005
+      </i>
+      .
     </div>
     <div>
       However, the provision(s) do not commence at all if the event mentioned
@@ -12572,18 +12827,18 @@ No. 20, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>Part 4B</div>
+    <div><b>Part 4B</b></div>
   </td>
   <td>
-    <div>ad. No. 32, 2005</div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Part 4B</div>
   </td>
   <td>
-    <div>rep. No. 148, 2010</div>
+    <div>ad. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12614,26 +12869,10 @@ No. 20, 1995</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 193W</div>
   </td>
   <td>
     <div>ad. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12654,14 +12893,6 @@ No. 20, 1995</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 193Y, 193Z</div>
   </td>
   <td>
@@ -12670,26 +12901,10 @@ No. 20, 1995</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 193ZA–193ZG</div>
   </td>
   <td>
     <div>ad. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -13270,17 +13485,17 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 1996
 
 ## 5  Transitional
 
-(1)       This item applies only if this Act receives the Royal Assent on or before 12 September 1996.
+(1)        This item applies only if this Act receives the Royal Assent on or before 12 September 1996.
 
-(2)       The amendment made by item 4 extends to the round of Regional Council elections for which the election period started on 12 July 1996 (the **_current round of Regional Council elections_**).
+(2)        The amendment made by item 4 extends to the round of Regional Council elections for which the election period started on 12 July 1996 (the **_current round of Regional Council elections_**).
 
-(3)       The Regional Council Election Rules are amended by repealing Schedule 1 and substituting the Schedule set out at the end of this item.
+(3)        The Regional Council Election Rules are amended by repealing Schedule 1 and substituting the Schedule set out at the end of this item.
 
-(4)       The amendment of the Regional Council Election Rules made by subitem (3) is taken to have been duly made by the Minister under section 113 of the _Aboriginal and Torres Strait Islander Commission Act 1989_ and may be amended or repealed by further rules made by the Minister under that section.
+(4)        The amendment of the Regional Council Election Rules made by subitem (3) is taken to have been duly made by the Minister under section 113 of the _Aboriginal and__Torres Strait__Islander Commission Act 1989_ and may be amended or repealed by further rules made by the Minister under that section.
 
-(5)       Despite paragraph 100(b) of the _Aboriginal and Torres Strait Islander Commission Act 1989_, the current round of Regional Council elections is to be conducted by the Australian Electoral Commission in accordance with the Regional Council Election Rules referred to in that paragraph as amended by subitem (3).
+(5)        Despite paragraph 100(b) of the _Aboriginal and Torres Strait Islander Commission Act 1989_, the current round of Regional Council elections is to be conducted by the Australian Electoral Commission in accordance with the Regional Council Election Rules referred to in that paragraph as amended by subitem (3).
 
-(6)       If:
+(6)        If:
 
                      (a)  before the commencement of this Act, the authorised electoral officer, under subsection 107(1) of the _Aboriginal and Torres Strait Islander Commission Act 1989_, declared, in relation to the current round of Regional Council elections, a candidate or candidates who nominated for election as the member or members for a Regional Council ward to be duly elected; and
 
@@ -13290,7 +13505,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 1996
 
 SCHEDULE TO BE INSERTED IN REGIONAL COUNCIL ELECTION RULES
 
-SCHEDULE 1                                 Rule 2A
+SCHEDULE 1                                  Rule 2A
 
 WARDS
 
@@ -14192,15 +14407,15 @@ Cundeelee</div>
 
 ## 69  Application
 
-(1)       In this item:
+(1)        In this item:
 
                     <a name="appoint-dai"></a>**_appointment day_** means the day, or the earliest day, on which the Minister appoints a person as a Commissioner after the person has been elected in the first zone election (other than a zone election for the Torres Strait zone) held after the end of the election period that started on 12 July 1996.
 
                     <a name="defer-item"></a>**_deferred items_** means items 1, 2, 3, 7, 8, 9, 10, 15, 18, 19, 22, 24, 25, 26, 27, 28 and 56.
 
-(2)       The amendments made by the deferred items do not apply until the appointment day.
+(2)        The amendments made by the deferred items do not apply until the appointment day.
 
-(3)       The person who held office as the Commission Chairperson immediately before the appointment day ceases to hold that office on that day.
+(3)        The person who held office as the Commission Chairperson immediately before the appointment day ceases to hold that office on that day.
 
 * * *
 
@@ -14221,9 +14436,9 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 1998
 
 ## 12  Application of amendment of section 21
 
-(1)       The amendment of section 21 of the _Aboriginal and Torres Strait Islander Commission Act 1989_ made by this Schedule applies to disposals of interests (and purported disposals of interests) on or after the day on which this Act receives the Royal Assent.
+(1)        The amendment of section 21 of the _Aboriginal and__Torres Strait__Islander Commission Act 1989_ made by this Schedule applies to disposals of interests (and purported disposals of interests) on or after the day on which this Act receives the Royal Assent.
 
-(2)       A consent given by the Commission before that day remains effective for the purposes of that section on and after that day (despite that amendment).
+(2)        A consent given by the Commission before that day remains effective for the purposes of that section on and after that day (despite that amendment).
 
 ## 13  Application of amendments of paragraph 45(1)(a) and subsection 45A(1)
 
@@ -14237,7 +14452,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -14247,7 +14462,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -14263,7 +14478,7 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 * * *
 
-_Aboriginal and Torres Strait Islander Commission Amendment Act 2001 
+_Aboriginal and Torres  Strait Islander Commission Amendment Act 2001 
  (No. 4, 2001)_
 
 ## Schedule 1
@@ -14320,11 +14535,11 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -14346,7 +14561,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -14360,7 +14575,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -14396,9 +14611,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor-General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -14408,7 +14623,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -14416,7 +14631,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -14433,7 +14648,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 ## 191  Transitional arrangements—Interpretation
 
-(1)       In this Part, unless the contrary intention appears:
+(1)        In this Part, unless the contrary intention appears:
 
 **_assets_** means property of every kind and, without limiting the generality of the foregoing, includes:
 
@@ -14443,7 +14658,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 **_ATSIC abolition day_** means the day on which Schedules 1 and 2 to this Act commence.
 
-**_ATSIC Act_** means the _Aboriginal and Torres Strait Islander Commission Act 1989_.
+**_ATSIC Act_** means the _Aboriginal and__Torres  Strait__Islander Commission Act 1989_.
 
 **_authorised officer_** means the Minister, the Secretary of the Department or any other person authorised by the Minister for the purposes of this Part.
 
@@ -14503,19 +14718,19 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 **_Secretary_** means the Secretary of the Department.
 
-(2)       In this Part, a reference to a grant that is declared to be a class A exempted asset or a class B exempted asset is taken to include a reference to a right in relation to such a grant that is so declared.
+(2)        In this Part, a reference to a grant that is declared to be a class A exempted asset or a class B exempted asset is taken to include a reference to a right in relation to such a grant that is so declared.
 
-(3)       A declaration by the Minister that a program of expenditure is a business loans program is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+(3)        A declaration by the Minister that a program of expenditure is a business loans program is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
 ## 192  Transfer of assets and liabilities
 
-(1)       On ATSIC abolition day:
+(1)        On ATSIC abolition day:
 
                      (a)  any assets, other than class A or class B exempted assets, that, immediately before that day, were vested in the Commission are, by force of this item, vested in the Commonwealth; and
 
                      (b)  the Commonwealth becomes, by force of this item, liable to pay and discharge liabilities of the Commission, other than class A or class B exempted liabilities, that existed immediately before that day.
 
-(2)       On ATSIC abolition day:
+(2)        On ATSIC abolition day:
 
                      (a)  any assets comprising:
 
@@ -14531,7 +14746,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
                      (d)  Indigenous Business Australia becomes, by force of this item, liable to pay and discharge liabilities of the Commonwealth that existed immediately before that day in relation to grants or loans made under a business loans program or in relation to any security taken or guarantee given under such a program.
 
-(3)       On ATSIC abolition day:
+(3)        On ATSIC abolition day:
 
                      (a)  any class B exempted assets that, immediately before that day, were vested in the Commission:
 
@@ -14541,9 +14756,9 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
                      (b)  the Indigenous Land Corporation becomes, by force of this item, liable to pay and discharge the class B exempted liabilities of the Commission that existed immediately before that day.
 
-(4)       If an asset that has become an asset of the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation by force of subitem (1), (2) or (3) was, immediately before ATSIC abolition day, held by the Commission on trust, that asset is taken, on and after that day, to be held by the body to which it is transferred on trust and subject to the terms of the trust on which the asset was so held by the Commission.
+(4)        If an asset that has become an asset of the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation by force of subitem (1), (2) or (3) was, immediately before ATSIC abolition day, held by the Commission on trust, that asset is taken, on and after that day, to be held by the body to which it is transferred on trust and subject to the terms of the trust on which the asset was so held by the Commission.
 
-(5)       In this item:
+(5)        In this item:
 
 **_class A exempted asset_** means:
 
@@ -14563,7 +14778,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 **_class B exempted liability_** means any liability of the Commission that is declared by the Minister, by notice in writing, to be a class B exempted liability.
 
-(6)       A notice that declares assets to be class A or class B exempted assets or declares liabilities to be class A or class B exempted liabilities:
+(6)        A notice that declares assets to be class A or class B exempted assets or declares liabilities to be class A or class B exempted liabilities:
 
                      (a)  may identify those assets or liabilities by class or in any other manner; and
 
@@ -14571,29 +14786,29 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 ## 193  Commission instruments
 
-(1)       A Commission instrument (other than a class A or class B exempted instrument) in force immediately before ATSIC abolition day has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor were a reference to the Commonwealth.
+(1)        A Commission instrument (other than a class A or class B exempted instrument) in force immediately before ATSIC abolition day has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor were a reference to the Commonwealth.
 
-(2)       A class A exempted instrument in force immediately before ATSIC abolition day has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor were a reference to Indigenous Business Australia.
+(2)        A class A exempted instrument in force immediately before ATSIC abolition day has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor were a reference to Indigenous Business Australia.
 
-(3)       A business loan instrument, in force immediately before ATSIC abolition day, has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commonwealth were a reference to Indigenous Business Australia.
+(3)        A business loan instrument, in force immediately before ATSIC abolition day, has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commonwealth were a reference to Indigenous Business Australia.
 
-(4)       A class B exempted instrument, in force immediately before ATSIC abolition day, has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor, were a reference to the Indigenous Land Corporation.
+(4)        A class B exempted instrument, in force immediately before ATSIC abolition day, has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor, were a reference to the Indigenous Land Corporation.
 
-(5)       In this item:
+(5)        In this item:
 
 **_class A exempted instrument_** means any Commission instrument that is declared by the Minister, by notice in writing, to be a class A exempted instrument.
 
 **_class B exempted instrument_** means any Commission instrument that is declared by the Minister, by notice in writing, to be a class B exempted instrument.
 
-(6)       A notice that declares Commission instruments to be class A or class B exempted instruments:
+(6)        A notice that declares Commission instruments to be class A or class B exempted instruments:
 
                      (a)  may identify those instruments by class or in any other manner; and
 
                      (b)  is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-## 194  Constraints on expenditure of money transferred from Regional Land Fund
+## 194  Constraints on expenditure of money transferred from Regional  Land Fund
 
-(1)       If class B exempted assets that are vested in the Indigenous Land Corporation comprise money that stood to the credit of the Regional Land Fund immediately before ATSIC abolition day, that money may only be used by the Indigenous Land Corporation:
+(1)        If class B exempted assets that are vested in the Indigenous Land Corporation comprise money that stood to the credit of the Regional Land Fund immediately before ATSIC abolition day, that money may only be used by the Indigenous Land Corporation:
 
                      (a)  during the period starting on that day and ending immediately before Regional Councils abolition day—if the money is applied:
 
@@ -14603,13 +14818,13 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
                             and the grant so made or the transfer for which the interest in land was acquired will further the social, economic and cultural development of Aboriginal persons or Torres Strait Islanders; and
 
-                     (b)  on and after Regional Councils abolition day—in performing any function conferred on the Indigenous Land Corporation by the _Aboriginal and Torres Strait Islander Act 2005_.
+                     (b)  on and after Regional Councils abolition day—in performing any function conferred on the Indigenous Land Corporation by the _Aboriginal and__Torres Strait__Islander Act 2005_.
 
-(2)       Any interest in land acquired by the Indigenous Land Corporation for the purpose referred to in subparagraph (1)(a)(ii) must be transferred to a person or body in accordance with that purpose.
+(2)        Any interest in land acquired by the Indigenous Land Corporation for the purpose referred to in subparagraph (1)(a)(ii) must be transferred to a person or body in accordance with that purpose.
 
 ## 195  Pending proceedings
 
-(1)       If, immediately before ATSIC abolition day, proceedings to which the Commission was a party, other than proceedings relating to:
+(1)        If, immediately before ATSIC abolition day, proceedings to which the Commission was a party, other than proceedings relating to:
 
                      (a)  a class A or class B exempted asset; or
 
@@ -14621,7 +14836,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 were pending in any court or tribunal, the Commonwealth is, on and after that day and despite the provisions of any other law or instrument, substituted for the Commission as a party to the proceedings and has the same rights in the proceedings as the Commission had.
 
-(2)       If, immediately before ATSIC abolition day, proceedings to which the Commission was a party and that relate to:
+(2)        If, immediately before ATSIC abolition day, proceedings to which the Commission was a party and that relate to:
 
                      (a)  a class A exempted asset; or
 
@@ -14631,9 +14846,9 @@ were pending in any court or tribunal, the Commonwealth is, on and after that da
 
 were pending in any court or tribunal, Indigenous Business Australia is, on and after that day and despite the provisions of any other law or instrument, substituted for the Commission as a party to the proceedings and has the same rights in the proceedings as the Commission had.
 
-(3)       If, immediately before ATSIC abolition day, proceedings to which the Commonwealth was a party and that relate to a loan or grant made, a security taken, or a guarantee given, under a business loans program were pending in any court or tribunal, Indigenous Business Australia is, on and after that day and despite the provisions of any other law or instrument, substituted for the Commonwealth as a party to the proceedings and has the same rights in the proceedings as the Commonwealth had.
+(3)        If, immediately before ATSIC abolition day, proceedings to which the Commonwealth was a party and that relate to a loan or grant made, a security taken, or a guarantee given, under a business loans program were pending in any court or tribunal, Indigenous Business Australia is, on and after that day and despite the provisions of any other law or instrument, substituted for the Commonwealth as a party to the proceedings and has the same rights in the proceedings as the Commonwealth had.
 
-(4)       If, immediately before ATSIC abolition day, proceedings to which the Commission was a party and that relate to:
+(4)        If, immediately before ATSIC abolition day, proceedings to which the Commission was a party and that relate to:
 
                      (a)  a class B exempted asset; or
 
@@ -14645,27 +14860,27 @@ were pending in any court or tribunal, the Indigenous Land Corporation is, on an
 
 ## 196  Final report and financial statements for Commission
 
-(1)       The Secretary must, as soon as practicable after ATSIC abolition day, prepare and give to the Minister:
+(1)        The Secretary must, as soon as practicable after ATSIC abolition day, prepare and give to the Minister:
 
                      (a)  a report on the operations of the Commission during the period (in this section called the **_closure period_**) commencing on 1 July 2004 and ending immediately before ATSIC abolition day; and
 
                      (b)  financial statements that relate to the Commission during that period in such form as the Minister administering the _Commonwealth Authorities and Companies Act 1997_ approves.
 
-(2)       The report prepared by the Secretary in accordance with paragraph (1)(a):
+(2)        The report prepared by the Secretary in accordance with paragraph (1)(a):
 
                      (a)  must include particulars of any directions given to the Commission during the closure period under section 12 of the ATSIC Act; and
 
                      (b)  must not disclose any matters known to the Secretary to be held sacred by Aboriginal persons or Torres Strait Islanders or by any particular community or group of Aboriginal persons or Torres Strait Islanders.
 
-(3)       Subject to any direction by the Minister administering the _Commonwealth Authorities and Companies Act 1997_, the financial statements prepared by the Secretary under paragraph (1)(b) must deal with the Housing Fund and the Regional Land Fund separately from each other and from the other finances of the Commission, and must:
+(3)        Subject to any direction by the Minister administering the _Commonwealth Authorities and Companies Act 1997_, the financial statements prepared by the Secretary under paragraph (1)(b) must deal with the Housing Fund and the Regional Land Fund separately from each other and from the other finances of the Commission, and must:
 
                      (a)  in the case of the Housing Fund—properly reflect the state of the Fund immediately before ATSIC abolition day; and
 
                      (b)  in the case of the Regional Land Fund—properly reflect the state of the Fund immediately before ATSIC abolition day.
 
-(4)       A direction referred to in subsection (3) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(4)        A direction referred to in subsection (3) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(5)       Before giving financial statements to the Minister under subitem (1), the Secretary must give them to the Auditor-General, who must report to the Minister:
+(5)        Before giving financial statements to the Minister under subitem (1), the Secretary must give them to the Auditor-General, who must report to the Minister:
 
                      (a)  whether, in the Auditor-General’s opinion, the statements are based on proper accounts and records; and
 
@@ -14675,13 +14890,13 @@ were pending in any court or tribunal, the Indigenous Land Corporation is, on an
 
                      (d)  such other matters arising out of the statements as the Auditor-General considers should be reported to the Minister.
 
-(6)       The Secretary and the Auditor-General may, in discharging their obligations under this item, rely on accounts and records of the Commission that are in the possession of the Commonwealth or to which the Secretary is allowed access, and on any other information provided to a person who was a member of the Commission or who was a member of the staff of the Commission.
+(6)        The Secretary and the Auditor-General may, in discharging their obligations under this item, rely on accounts and records of the Commission that are in the possession of the Commonwealth or to which the Secretary is allowed access, and on any other information provided to a person who was a member of the Commission or who was a member of the staff of the Commission.
 
-(7)       The Minister must cause copies of the reports and financial reports, together with a copy of the report to the Auditor-General, to be laid before each House of the Parliament within 15 sittings days of that House after the receipt by the Minister.
+(7)        The Minister must cause copies of the reports and financial reports, together with a copy of the report to the Auditor-General, to be laid before each House of the Parliament within 15 sittings days of that House after the receipt by the Minister.
 
 ## 197  Certificates relating to assets, liabilities and instruments
 
-(1)       An authorised officer may certify, in writing, that:
+(1)        An authorised officer may certify, in writing, that:
 
                      (a)  an asset or liability specified in the certificate becomes or became, because of item 192 of this Schedule, an asset or liability of the Commonwealth, of Indigenous Business Australia or of the Indigenous Land Corporation; or
 
@@ -14691,9 +14906,9 @@ were pending in any court or tribunal, the Indigenous Land Corporation is, on an
 
                      (d)  an instrument specified in the certificate is a business loan instrument.
 
-(2)       The certificate is, in all courts and for all purposes, prima facie evidence of the matter stated in the certificate.
+(2)        The certificate is, in all courts and for all purposes, prima facie evidence of the matter stated in the certificate.
 
-(3)       If:
+(3)        If:
 
                      (a)  under item 192 of this Part, an estate or interest in land becomes an asset of the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation; and
 
@@ -14701,21 +14916,21 @@ were pending in any court or tribunal, the Indigenous Land Corporation is, on an
 
 the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case may be, duly executed under the laws in force in that state or Territory.
 
-(4)       If a document purports to be a certificate under subitem (1) or (3) signed by a person purporting to be an authorised officer, judicial notice must be taken of the signature of the person and of the fact that the person is or was an authorised officer.
+(4)        If a document purports to be a certificate under subitem (1) or (3) signed by a person purporting to be an authorised officer, judicial notice must be taken of the signature of the person and of the fact that the person is or was an authorised officer.
 
 ## 198  Exemption from taxation
 
-(1)       Any transfer or other dealing under this Part, and any instrument facilitating or evidencing such a transfer or other dealing, is not subject to stamp duty or other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing:
+(1)        Any transfer or other dealing under this Part, and any instrument facilitating or evidencing such a transfer or other dealing, is not subject to stamp duty or other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing:
 
                      (a)  that the transfer or dealing is a transfer or dealing for a purpose connected with, or arising out of, the operation of this Part; or
 
                      (b)  that the instrument facilitating or evidencing a transfer or dealing is an instrument made or given because of, or for a purpose connected with, or arising out of, the operation of this Part.
 
-(2)       A certificate given by an authorised officer under subitem (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(2)        A certificate given by an authorised officer under subitem (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
 ## 199  Repayment of grants and loans
 
-(1)       If, before ATSIC abolition day, the Commission had made a grant to a person or body under Part 2 of the ATSIC Act (other than a grant that is, on ATSIC abolition day, declared to be a class A exempted asset or a class B exempted asset) on particular terms and conditions:
+(1)        If, before ATSIC abolition day, the Commission had made a grant to a person or body under Part 2 of the ATSIC Act (other than a grant that is, on ATSIC abolition day, declared to be a class A exempted asset or a class B exempted asset) on particular terms and conditions:
 
                      (a)  the Commonwealth is treated, on and after that day, as if it had made the grant on the same terms and conditions; and
 
@@ -14723,13 +14938,13 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
                      (c)  if the Commission had, before ATSIC abolition day, given a notice under section 20 of the ATSIC Act to the effect that the Commission was satisfied that the person or body receiving the grant had failed to fulfil a term or condition of the grant—that notice has effect, on and after that day, as if it had been given by the Minister under paragraph (b).
 
-(2)       A person or body to whom a notice is given, or treated as having been given, by the Commonwealth under subitem (1) is liable to pay to the Commonwealth, immediately, an amount equal to:
+(2)        A person or body to whom a notice is given, or treated as having been given, by the Commonwealth under subitem (1) is liable to pay to the Commonwealth, immediately, an amount equal to:
 
                      (a)  the amount of the grant; or
 
                      (b)  so much of the amount of the grant as was specified in the notice.
 
-(3)       If, before ATSIC abolition day, the Commission had made a loan to a person or body under Part 2 of the ATSIC Act (other than a loan that is, on ATSIC abolition day, declared to be a class A exempted asset) on particular terms and conditions:
+(3)        If, before ATSIC abolition day, the Commission had made a loan to a person or body under Part 2 of the ATSIC Act (other than a loan that is, on ATSIC abolition day, declared to be a class A exempted asset) on particular terms and conditions:
 
                      (a)  the Commonwealth is treated, on and after that day, as if it had made the loan on the same terms and conditions; and
 
@@ -14737,9 +14952,9 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
                      (c)  if the Commission had, before ATSIC abolition day, given a notice under section 20 of the ATSIC Act to the effect that the Commission was satisfied that the person or body receiving the loan had failed to fulfil a term or condition of the loan—that notice has effect, on and after that day, as if it had been given by the Minister under paragraph (b).
 
-(4)       A notice given, or treated as having been given, by the Minister under paragraph (1)(b) or (3)(b) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(4)        A notice given, or treated as having been given, by the Minister under paragraph (1)(b) or (3)(b) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(5)       A person or body to whom a notice is given, or treated as having been given, by the Commonwealth under subitem (3) is liable to pay to the Commonwealth, immediately, an amount equal to the sum of:
+(5)        A person or body to whom a notice is given, or treated as having been given, by the Commonwealth under subitem (3) is liable to pay to the Commonwealth, immediately, an amount equal to the sum of:
 
                      (a)  so much of the amount of the loan as has not yet been repaid; and
 
@@ -14747,7 +14962,7 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
 or so much of that amount as was specified in the notice.
 
-(6)       If:
+(6)        If:
 
                      (a)  the Commission had, before ATSIC abolition day, made a grant or loan under Part 2 of the ATSIC Act to a person or body on particular terms and conditions; and
 
@@ -14761,9 +14976,9 @@ then:
 
                      (e)  if the Commission had, before ATSIC abolition day, given a notice under section 20 of the ATSIC Act to the effect that the Commission was satisfied that the person or body receiving the grant or loan had failed to fulfil a term or condition of the grant or loan—that notice has effect, on and after that day, as if it had been given by Indigenous Business Australia under paragraph (d) of this item.
 
-(7)       A notice given, or treated as having been given, by Indigenous Business Australia under paragraph (6)(d) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(7)        A notice given, or treated as having been given, by Indigenous Business Australia under paragraph (6)(d) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(8)       A person or body to whom a notice is given, or treated as having been given, by Indigenous Business Australia under subitem (6) is liable to pay to Indigenous Business Australia, immediately, an amount equal to the sum of:
+(8)        A person or body to whom a notice is given, or treated as having been given, by Indigenous Business Australia under subitem (6) is liable to pay to Indigenous Business Australia, immediately, an amount equal to the sum of:
 
                      (a)  in the case of a grant:
 
@@ -14779,7 +14994,7 @@ then:
 
                             or so much of that amount as was specified in the notice.
 
-(9)       If:
+(9)        If:
 
                      (a)  before ATSIC abolition day, the Commission had made a grant under section 14 of the ATSIC Act to a person or body from the Regional Land Fund on particular terms and conditions; and
 
@@ -14793,19 +15008,19 @@ then:
 
                      (e)  if the Commission had, before ATSIC abolition day, given a notice under section 20 of the ATSIC Act to the effect that the Commission was satisfied that the person or body receiving the grant had failed to fulfil a term or condition of the grant—that notice has effect, on and after that day, as if it had been given by the Indigenous Land Corporation under paragraph (d).
 
-(10)     A notice given, or treated as having been given, by the Indigenous Land Corporation under paragraph (9)(d) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(10)      A notice given, or treated as having been given, by the Indigenous Land Corporation under paragraph (9)(d) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(11)     A person or body to whom a notice is given, or treated as having been given, by the Indigenous Land Corporation under subitem (9) is liable to pay to the Corporation, immediately, an amount equal to:
+(11)      A person or body to whom a notice is given, or treated as having been given, by the Indigenous Land Corporation under subitem (9) is liable to pay to the Corporation, immediately, an amount equal to:
 
                      (a)  the amount of the grant; or
 
                      (b)  so much of the amount of the grant as was specified in the notice.
 
-(12)     This item does not affect the availability to the Commonwealth, to Indigenous Business Australia or to the Indigenous Land Corporation, of any legal or equitable remedy for a failure to fulfil a term or condition of a grant or loan that was made by the Commission before ATSIC abolition day under Part 2 of the ATSIC Act.
+(12)      This item does not affect the availability to the Commonwealth, to Indigenous Business Australia or to the Indigenous Land Corporation, of any legal or equitable remedy for a failure to fulfil a term or condition of a grant or loan that was made by the Commission before ATSIC abolition day under Part 2 of the ATSIC Act.
 
 ## 200  Restrictions on right to dispose of certain property
 
-(1)       This item applies if an individual or body has acquired an interest in land and any of the following applies:
+(1)        This item applies if an individual or body has acquired an interest in land and any of the following applies:
 
                      (a)  the interest was acquired using money granted to the individual or body by the Commission before ATSIC abolition day under paragraph 14(1)(a) of the ATSIC Act;
 
@@ -14813,19 +15028,19 @@ then:
 
                      (c)  the acquisition of the interest was financed by a loan that was guaranteed by the Commission before ATSIC abolition day under section 15 of the ATSIC Act.
 
-(2)       The individual or body must not dispose of the interest without the appropriate consenting authority giving written consent to that disposal.
+(2)        The individual or body must not dispose of the interest without the appropriate consenting authority giving written consent to that disposal.
 
-(3)       The consent must specify the disposal it covers by identifying the person or class of persons to whom the interest is to be disposed of.
+(3)        The consent must specify the disposal it covers by identifying the person or class of persons to whom the interest is to be disposed of.
 
-(4)       Subitem (3) does not prevent a consent from further specifying a particular disposal in other ways.
+(4)        Subitem (3) does not prevent a consent from further specifying a particular disposal in other ways.
 
-(5)       A purported disposal of the interest by the individual or body has no effect unless it is covered by the consent.
+(5)        A purported disposal of the interest by the individual or body has no effect unless it is covered by the consent.
 
-(6)       The appropriate consenting authority may attach a condition to a consent by specifying the condition in the document setting out the consent.
+(6)        The appropriate consenting authority may attach a condition to a consent by specifying the condition in the document setting out the consent.
 
-(7)       Contravention of a condition does not affect the disposal of the interest by the individual or body.
+(7)        Contravention of a condition does not affect the disposal of the interest by the individual or body.
 
-(8)       The appropriate consenting authority may give the individual or body written notice requiring the individual or body to pay to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case requires, the amount specified in the notice if:
+(8)        The appropriate consenting authority may give the individual or body written notice requiring the individual or body to pay to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case requires, the amount specified in the notice if:
 
                      (a)  the interest disposed of was acquired by the individual or body either:
 
@@ -14837,15 +15052,15 @@ then:
 
                      (c)  the appropriate consenting authority is satisfied that the condition was not complied with.
 
-(9)       The appropriate consenting authority must not specify in a notice under subitem (8) an amount greater than the amount of the grant made to the individual or body under paragraph 14(1)(a) or (b) of the ATSIC Act.
+(9)        The appropriate consenting authority must not specify in a notice under subitem (8) an amount greater than the amount of the grant made to the individual or body under paragraph 14(1)(a) or (b) of the ATSIC Act.
 
-(10)     An individual or body that is given a notice is liable to pay to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case requires, the amount specified in the notice.
+(10)      An individual or body that is given a notice is liable to pay to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case requires, the amount specified in the notice.
 
-(11)     Subitems (8), (9) and (10) do not affect the availability to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, of any legal or equitable remedy for contravention of a condition attached to the consent.
+(11)      Subitems (8), (9) and (10) do not affect the availability to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, of any legal or equitable remedy for contravention of a condition attached to the consent.
 
-(12)     A consent given under subitem (2) or a notice under subitem (8) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(12)      A consent given under subitem (2) or a notice under subitem (8) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(13)     In this item:
+(13)      In this item:
 
 **_appropriate consenting authority_** means:
 
@@ -14871,7 +15086,7 @@ then:
 
 ## 201  Liabilities taken to be interests in land
 
-(1)       Any liability of an individual, a body corporate or an unincorporated body to the Commission (other than a liability arising under subitem (2) or (3)) arising:
+(1)        Any liability of an individual, a body corporate or an unincorporated body to the Commission (other than a liability arising under subitem (2) or (3)) arising:
 
                      (a)  under the terms and conditions of a grant or loan referred to in subsection 14(2) of the ATSIC Act; or
 
@@ -14879,7 +15094,7 @@ then:
 
 is taken, on and after ATSIC abolition day, to be an interest of the Commonwealth in the land to which it relates.
 
-(2)       Any liability of an individual, a body corporate or an unincorporated body to the Commission arising:
+(2)        Any liability of an individual, a body corporate or an unincorporated body to the Commission arising:
 
                      (a)  under the terms and conditions of a grant or loan referred to in subsection 14(2) of the ATSIC Act that is, on ATSIC abolition day, declared to be a class A exempted asset; or
 
@@ -14887,7 +15102,7 @@ is taken, on and after ATSIC abolition day, to be an interest of the Commonwealt
 
 is taken, on and after that day, to be an interest of Indigenous Business Australia in the land to which it relates.
 
-(3)       Any liability of an individual, a body corporate or an unincorporated body to the Commission arising:
+(3)        Any liability of an individual, a body corporate or an unincorporated body to the Commission arising:
 
                      (a)  under the terms and conditions of a grant referred to in subsection 14(2) of the ATSIC Act that is, on ATSIC abolition day, declared to be a class B exempted asset; or
 
@@ -14895,13 +15110,13 @@ is taken, on and after that day, to be an interest of Indigenous Business Austra
 
 is taken, on and after that day, to be an interest of the Indigenous Land Corporation in the land to which it relates.
 
-(4)       Any liability of an individual, a body corporate or an unincorporated body to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation arising under item 199 or 200 of this Schedule is taken to be an interest of the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation in the land to which the liability relates.
+(4)        Any liability of an individual, a body corporate or an unincorporated body to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation arising under item 199 or 200 of this Schedule is taken to be an interest of the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation in the land to which the liability relates.
 
-(5)       The land is charged with a payment of all costs and expenses incurred by the Commission, the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation in respect of its enforcement of the liability.
+(5)        The land is charged with a payment of all costs and expenses incurred by the Commission, the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation in respect of its enforcement of the liability.
 
-(6)       The land referred to in subitem (1), (2), (3) or (4) is taken, for the purposes of the _Aboriginal Land Rights (Northern Territory) Act 1976_ to be alienated Crown land in which all estates or interests not held by the Crown are held on behalf of Aboriginals.
+(6)        The land referred to in subitem (1), (2), (3) or (4) is taken, for the purposes of the _Aboriginal Land Rights (Northern Territory) Act 1976_ to be alienated Crown land in which all estates or interests not held by the Crown are held on behalf of Aboriginals.
 
-(7)       This item does not apply to a liability arising under subsection 21(10) of the ATSIC Act or under subitem 200(10) of this Schedule.
+(7)        This item does not apply to a liability arising under subsection 21(10) of the ATSIC Act or under subitem 200(10) of this Schedule.
 
 ## 202  Preservation of model rules
 
@@ -14941,13 +15156,13 @@ then section 123 of the ATSIC Act as amended by this Act has effect, on and af
 
 ## 205  Former Commissioners on Board of Directors of Indigenous Business Australia or on Board of Indigenous Land Corporation
 
-(1)       A person who was a Commissioner at any time on or after 14 April 2004 and who is, immediately before ATSIC abolition day, a member of the Board of Directors of Indigenous Business Australia, ceases on ATSIC abolition day, by force of this subitem, to hold office as such a member.
+(1)        A person who was a Commissioner at any time on or after 14 April 2004 and who is, immediately before ATSIC abolition day, a member of the Board of Directors of Indigenous Business Australia, ceases on ATSIC abolition day, by force of this subitem, to hold office as such a member.
 
-(2)       A person who was a Commissioner at any time on or after 14 April 2004 and who is, immediately before ATSIC abolition day, a member of the Board of the Indigenous Land Corporation, ceases on ATSIC abolition day, by force of this subitem, to hold office as such a member.
+(2)        A person who was a Commissioner at any time on or after 14 April 2004 and who is, immediately before ATSIC abolition day, a member of the Board of the Indigenous Land Corporation, ceases on ATSIC abolition day, by force of this subitem, to hold office as such a member.
 
 ## 206  Saving provision—Rights of internal review of decisions made before ATSIC abolition day
 
-(1)       If, before ATSIC abolition day, an agent or delegate of the Commission had refused to make a housing loan under section 14 of the ATSIC Act from the Housing Fund:
+(1)        If, before ATSIC abolition day, an agent or delegate of the Commission had refused to make a housing loan under section 14 of the ATSIC Act from the Housing Fund:
 
                      (a)  that refusal is to be treated, on and after that day, as a refusal to make that loan by a delegate of Indigenous Business Australia; and
 
@@ -14955,9 +15170,9 @@ then section 123 of the ATSIC Act as amended by this Act has effect, on and af
 
                      (c)  the person or body refused that loan may, within 30 days after being notified of the refusal, request that Indigenous Business Australia reconsider that refusal.
 
-(2)       If a request is made in the circumstances set out in subitem (1), Indigenous Business Australia must reconsider the refusal and decide whether to make the loan.
+(2)        If a request is made in the circumstances set out in subitem (1), Indigenous Business Australia must reconsider the refusal and decide whether to make the loan.
 
-(3)       If, before ATSIC abolition day:
+(3)        If, before ATSIC abolition day:
 
                      (a)  an agent or delegate of the Commission refused to make a housing loan to a person or body under section 14 of the ATSIC Act from the Housing Fund; and
 
@@ -14969,7 +15184,7 @@ Indigenous Business Australia must reconsider the refusal and decide whether to 
 
 ## 207  Saving provision—Rights of review of decisions made before ATSIC abolition day
 
-(1)       For the purpose of this item, and without limiting the effect of item 193 of this Schedule, each decision of a kind referred to in section 196 of the ATSIC Act that was made by the Aboriginal and Torres Strait Islander Commission before ATSIC abolition day has effect, on and after that day:
+(1)        For the purpose of this item, and without limiting the effect of item 193 of this Schedule, each decision of a kind referred to in section 196 of the ATSIC Act that was made by the Aboriginal and Torres Strait Islander Commission before ATSIC abolition day has effect, on and after that day:
 
                      (a)  unless paragraph (b) or (c) applies—as a decision of the Commonwealth; and
 
@@ -14977,7 +15192,7 @@ Indigenous Business Australia must reconsider the refusal and decide whether to 
 
                      (c)  if the decision related to a grant that is, on ATSIC abolition day, declared to be a class B exempted asset—as a decision of the Indigenous Land Corporation.
 
-(2)       Despite the amendment of section 196 of the ATSIC Act, that section continues in force, on and after ATSIC abolition day, for the purpose of enabling persons or bodies to seek review of decisions referred to in that section that were made before that day as if:
+(2)        Despite the amendment of section 196 of the ATSIC Act, that section continues in force, on and after ATSIC abolition day, for the purpose of enabling persons or bodies to seek review of decisions referred to in that section that were made before that day as if:
 
                      (a)  the amendments made by those items had not been made; and
 
@@ -14985,7 +15200,7 @@ Indigenous Business Australia must reconsider the refusal and decide whether to 
 
 ## 208  Rights of review of certain repayment decisions made on or after ATSIC abolition day
 
-(1)       An application may be made on or after ATSIC abolition day to the Administrative Appeals Tribunal for a review of:
+(1)        An application may be made on or after ATSIC abolition day to the Administrative Appeals Tribunal for a review of:
 
                      (a)  a decision to give notice to a person or body that is made by the Minister on or after that day under subitem 199(1) or (3); or
 
@@ -14993,7 +15208,7 @@ Indigenous Business Australia must reconsider the refusal and decide whether to 
 
                      (c)  a decision to give notice to a person or body that is made by the Indigenous Land Corporation on or after that day under subitem 199(9).
 
-(2)       In this item:
+(2)        In this item:
 
 **_decision made by the Minister_** means:
 
@@ -15021,7 +15236,7 @@ If the Prime Minister had conferred a departmental function on the TSRA under su
 
 ## 213  Delegation of powers and functions conferred under this Part
 
-(1)       The Minister may, by written instrument, delegate to:
+(1)        The Minister may, by written instrument, delegate to:
 
                      (a)  the Secretary or any other agency head within the meaning of the _Public Service Act 1999_; or
 
@@ -15031,7 +15246,7 @@ If the Prime Minister had conferred a departmental function on the TSRA under su
 
 all or any of the powers and functions conferred on or acquired by the Minister under this Part, other than the power to declare a program of expenditure to be a business loans program, or the power to make a declaration under subitem 192(5) or 193(5).
 
-(2)       The Secretary may, by written instrument, delegate to:
+(2)        The Secretary may, by written instrument, delegate to:
 
                      (a)  an SES employee or acting SES employee; or
 
@@ -15039,7 +15254,7 @@ all or any of the powers and functions conferred on or acquired by the Minister 
 
 the powers and functions of the Secretary under this Part.
 
-(3)       An agency head, within the meaning of the _Public Service Act 1999_, to whom a power or function is delegated under subitem (1) may, by written instrument, delegate that power to:
+(3)        An agency head, within the meaning of the _Public Service Act 1999_, to whom a power or function is delegated under subitem (1) may, by written instrument, delegate that power to:
 
                      (a)  an SES employee or acting SES employee; or
 
@@ -15057,13 +15272,13 @@ In this Part, unless the contrary intention appears:
 
 **_ATSIC abolition day_** means the day on which Schedules 1 and 2 to this Act commence.
 
-**_ATSIC Act_** means the _Aboriginal and Torres Strait Islander Commission Act 1989_.
+**_ATSIC Act_** means the _Aboriginal and__Torres  Strait__Islander Commission Act 1989_.
 
 **_Commission_** means the Aboriginal and Torres Strait Islander Commission that was established under section 6 of the ATSIC Act.
 
-**_Indigenous Business Australia_** means the body of that name referred to in section 145 of the _Aboriginal and Torres Strait Islander Act 2005._
+**_Indigenous Business Australia_** means the body of that name referred to in section 145 of the _Aboriginal and__Torres  Strait__Islander Act 2005._
 
-**_Indigenous Land Corporation_** means the body of that name established under section 191A of the _Aboriginal and Torres Strait Islander Act 2005_.
+**_Indigenous Land Corporation_** means the body of that name established under section 191A of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
 **_Office of Evaluation and Audit (Indigenous Programs)_** means the office, referred to in section 193W of the _Aboriginal and Torres Strait Islander Act 2005_, that was originally established by section 75 of the ATSIC Act and that became, on ATSIC abolition day, the Office of Evaluation and Audit (Indigenous Programs).
 
@@ -15073,31 +15288,31 @@ In this Part, unless the contrary intention appears:
 
 ## 3  Office of Evaluation and Audit to continue under new name
 
-The Office of Evaluation and Audit that was established within the Commission by section 75 of the ATSIC Act becomes, by force of this item, on ATSIC abolition day, for the purposes of section 193W of the _Aboriginal and Torres Strait Islander Act 2005_, the Office of Evaluation and Audit (Indigenous Programs) established in the Department.
+The Office of Evaluation and Audit that was established within the Commission by section 75 of the ATSIC Act becomes, by force of this item, on ATSIC abolition day, for the purposes of section 193W of the _Aboriginal and__Torres Strait__Islander Act 2005_, the Office of Evaluation and Audit (Indigenous Programs) established in the Department.
 
 ## 4  Current Director of Evaluation and Audit
 
-(1)       The person holding office as Director of Evaluation and Audit under section 77 of the ATSIC Act immediately before ATSIC abolition day continues, on and after that day, by force of this item and despite section 193ZA of the _Aboriginal and Torres Strait Islander Act 2005_, to hold office as the Director of Evaluation and Audit as if the person had been duly appointed by the Minister under section 193ZA of the _Aboriginal and Torres Strait Islander Act 2005_.
+(1)        The person holding office as Director of Evaluation and Audit under section 77 of the ATSIC Act immediately before ATSIC abolition day continues, on and after that day, by force of this item and despite section 193ZA of the _Aboriginal and Torres Strait Islander Act 2005_, to hold office as the Director of Evaluation and Audit as if the person had been duly appointed by the Minister under section 193ZA of the _Aboriginal and Torres Strait Islander Act 2005_.
 
-(2)       The person referred to in subitem (1):
+(2)        The person referred to in subitem (1):
 
                      (a)  is taken to have been so appointed under section 193ZA of the _Aboriginal and Torres Strait Islander Act 2005_, by instrument in writing, for the balance of the term of appointment under section 77 of the ATSIC Act; and
 
                      (b)  is taken to have been so appointed on the same terms and conditions as applied to the person immediately before ATSIC abolition day.
 
-(3)       Despite section 193ZA of the _Aboriginal and Torres Strait Islander Act 2005_, the person referred to in subitem (1):
+(3)        Despite section 193ZA of the _Aboriginal and__Torres Strait__Islander Act 2005_, the person referred to in subitem (1):
 
                      (a)  is entitled to remuneration and allowances in accordance with section 194 of that Act; and
 
                      (b)  is to have such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-(4)       Section 193ZE of the _Aboriginal and Torres Strait Islander Act 2005_ does not apply in relation to the deemed appointment of the person referred to in subitem (1).
+(4)        Section 193ZE of the _Aboriginal and__Torres  Strait__Islander Act 2005_ does not apply in relation to the deemed appointment of the person referred to in subitem (1).
 
-(5)       The Minister may grant the person referred to in subitem (1) leave of absence (other than recreation leave) on such terms and conditions, as to remuneration or otherwise, as the Minister determines in writing.
+(5)        The Minister may grant the person referred to in subitem (1) leave of absence (other than recreation leave) on such terms and conditions, as to remuneration or otherwise, as the Minister determines in writing.
 
-(6)       The Minister may terminate the appointment of the person referred to in subitem (1) as Director of Evaluation and Audit because of incompetence, misbehaviour or physical or mental incapacity.
+(6)        The Minister may terminate the appointment of the person referred to in subitem (1) as Director of Evaluation and Audit because of incompetence, misbehaviour or physical or mental incapacity.
 
-(7)       The Minister must terminate the appointment of the person referred to in subitem (1) as Director of Evaluation and Audit if the person:
+(7)        The Minister must terminate the appointment of the person referred to in subitem (1) as Director of Evaluation and Audit if the person:
 
                      (a)  is absent from duty, except on leave granted to that person, for 14 consecutive days or for 28 days in any period of 12 months; or
 
@@ -15113,11 +15328,11 @@ The Office of Evaluation and Audit that was established within the Commission by
 
                      (g)  engages in paid employment outside the duties of the office of Director of Evaluation and Audit without the written consent of the Minister.
 
-(8)       The person referred to in subitem (1) holds office on such terms and conditions (if any) in respect of matters not provided for by operation of subitems (1) to (7) as are determined by the Minister by notice in the _Gazette_.
+(8)        The person referred to in subitem (1) holds office on such terms and conditions (if any) in respect of matters not provided for by operation of subitems (1) to (7) as are determined by the Minister by notice in the _Gazette_.
 
 ## 5  Transitional evaluation and audit functions
 
-(1)       The Office of Evaluation and Audit (Indigenous Programs) has, in addition to the functions imposed on it under section 193X of the _Aboriginal and Torres Strait Islander Act 2005_, the following functions:
+(1)        The Office of Evaluation and Audit (Indigenous Programs) has, in addition to the functions imposed on it under section 193X of the _Aboriginal and__Torres  Strait__Islander Act 2005_, the following functions:
 
                      (a)  when requested to do so by the Minister—to evaluate or audit the activities of any individual or organisation who, before ATSIC abolition day, received one or more grants or loans from the Commission, but only to the extent that the evaluation or audit concerns those grants or loans;
 
@@ -15125,13 +15340,13 @@ The Office of Evaluation and Audit that was established within the Commission by
 
                      (c)  to report on evaluations or audits conducted in accordance with paragraph (a) or (b), in writing, to the Minister as required by the Minister.
 
-(2)       A requirement under paragraph (1)(c) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(2)        A requirement under paragraph (1)(c) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(3)       Subsection 193X(3) and section 193ZG of the _Aboriginal and Torres Strait Islander Act 2005_ apply in relation to any evaluation or audit commenced at the request of the Minister under this item.
+(3)        Subsection 193X(3) and section 193ZG of the _Aboriginal and__Torres Strait__Islander Act 2005_ apply in relation to any evaluation or audit commenced at the request of the Minister under this item.
 
 ## 6  Evaluations or audits begun but not completed before ATSIC abolition day
 
-(1)       If:
+(1)        If:
 
                      (a)  before ATSIC abolition day, the Office of Evaluation and Audit has begun an evaluation or audit in relation to a body corporate, an unincorporated body or an individual under section 76 of the ATSIC Act, whether at the request of the Minister, the Commission, Aboriginal Hostels Limited, Indigenous Business Australia, the TSRA, or the Indigenous Land Corporation; and
 
@@ -15139,13 +15354,13 @@ The Office of Evaluation and Audit that was established within the Commission by
 
 the Office of Evaluation and Audit (Indigenous Programs) must continue that evaluation or audit and, subject to subitem (3), report on that evaluation or audit, as if the amendments of the ATSIC Act made by this Act had not been made.
 
-(2)       An instrument under subitem (1) reporting on an evaluation or audit is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(2)        An instrument under subitem (1) reporting on an evaluation or audit is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(3)       If the evaluation or audit is one in respect of which the Office of Evaluation and Audit would have been required to report in accordance with subitem (1) both to the Minister and to the Commission, the Office of Evaluation and Audit (Indigenous Programs) is required to report only to the Minister.
+(3)        If the evaluation or audit is one in respect of which the Office of Evaluation and Audit would have been required to report in accordance with subitem (1) both to the Minister and to the Commission, the Office of Evaluation and Audit (Indigenous Programs) is required to report only to the Minister.
 
-(4)       For the avoidance of doubt, the Director of Evaluation and Audit must include in any report of the operations of the Office of Evaluation and Audit (Indigenous Programs) in a particular year that is given under subsection 193ZA(4) of the _Aboriginal and Torres Strait Islander Act 2005_, a report of the operations of the Office that are carried out during that year under item 5 and under this item.
+(4)        For the avoidance of doubt, the Director of Evaluation and Audit must include in any report of the operations of the Office of Evaluation and Audit (Indigenous Programs) in a particular year that is given under subsection 193ZA(4) of the _Aboriginal and Torres Strait Islander Act 2005_, a report of the operations of the Office that are carried out during that year under item 5 and under this item.
 
-(5)       The Office of Evaluation and Audit must:
+(5)        The Office of Evaluation and Audit must:
 
                      (a)  under subsection 77(3) of the ATSIC Act, make a final report of its operations for the period commencing on 1 July 2004 and ending immediately before ATSIC abolition day as if that period were a financial year; and
 
@@ -15169,7 +15384,7 @@ In this Part, unless the contrary intention appears:
 
 **_liabilities_** means liabilities of every kind and, without limiting the generality of the foregoing, includes obligations of every kind, whether arising under an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing.
 
-**_Regional Council_** means a Regional Council that was established under section 92 of the _Aboriginal and Torres Strait Islander Act 2005_ and was in existence immediately before Regional Councils abolition day.
+**_Regional Council_** means a Regional Council that was established under section 92 of the _Aboriginal and__Torres Strait__Islander Act 2005_ and was in existence immediately before Regional Councils abolition day.
 
 **_Regional Council instrument_** means an instrument subsisting immediately before Regional Councils abolition day:
 
@@ -15197,7 +15412,7 @@ On Regional Councils abolition day:
 
 ## 49  Regional Council instruments
 
-A Regional Council instrument in force under the _Aboriginal and Torres Strait Islander Act 2005_ immediately before Regional Councils abolition day has effect, on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to a Regional Council were a reference to the Commonwealth.
+A Regional Council instrument in force under the _Aboriginal and__Torres Strait__Islander Act 2005_ immediately before Regional Councils abolition day has effect, on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to a Regional Council were a reference to the Commonwealth.
 
 ## 50  Pending proceedings
 
@@ -15205,25 +15420,25 @@ If, immediately before Regional Councils abolition day, proceedings to which a R
 
 ## 51  Certificates relating to assets, liabilities and instruments
 
-(1)       An authorised officer may certify, in writing, that:
+(1)        An authorised officer may certify, in writing, that:
 
                      (a)  an asset or liability specified or described in the certificate became, because of item 48, an asset or liability of the Commonwealth; or
 
                      (b)  an instrument specified or described in the certificate is a Regional Council instrument.
 
-(2)       A certificate under subitem (1) is, in all courts and for all purposes, prima facie evidence of the matter stated in the certificate.
+(2)        A certificate under subitem (1) is, in all courts and for all purposes, prima facie evidence of the matter stated in the certificate.
 
-(3)       If a document purports to be a certificate under subitem (1) signed by a person purporting to be an authorised officer, judicial notice must be taken of the signature of the person and of the fact that the person is or was an authorised officer.
+(3)        If a document purports to be a certificate under subitem (1) signed by a person purporting to be an authorised officer, judicial notice must be taken of the signature of the person and of the fact that the person is or was an authorised officer.
 
 ## 52  Exemption from taxation
 
-(1)       Any transfer or other dealing under this Part, and any instrument facilitating or evidencing such a transfer or other dealing, is not subject to stamp duty or other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing:
+(1)        Any transfer or other dealing under this Part, and any instrument facilitating or evidencing such a transfer or other dealing, is not subject to stamp duty or other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing:
 
                      (a)  that the transfer or dealing is a transfer or dealing for a purpose connected with, or arising out of, the operation of this Part; or
 
                      (b)  that the instrument facilitating or evidencing a transfer or dealing is an instrument made or given because of, or for a purpose connected with, or arising out of, the operation of this Part.
 
-(2)       A certificate given by an authorised officer under subitem (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+(2)        A certificate given by an authorised officer under subitem (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
 ## 53  Saving provision—Rights of review of certain decisions made before Regional Councils abolition day
 
@@ -15240,17 +15455,17 @@ _Aboriginal  Land Rights (Northern Territory) Amendment Act 2006
 
 Land Councils
 
-(1)       Paragraph 193X(1)(ca) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to the activities or operations of a Land Council carried out after the commencement of that item.
+(1)        Paragraph 193X(1)(ca) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to the activities or operations of a Land Council carried out after the commencement of that item.
 
 Persons receiving certain amounts under section 35 of the Aboriginal Land Rights (Northern Territory) Act 1976
 
-(2)       Paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by a body corporate or other person after the commencement of that item (including amounts received under a determination made before that commencement).
+(2)        Paragraph 193X(1)(cb) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by a body corporate or other person after the commencement of that item (including amounts received under a determination made before that commencement).
 
-(3)       However, for amounts received under subsection 35(3) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ in accordance with an agreement mentioned in that subsection, the agreement must also have been made after that commencement.
+(3)        However, for amounts received under subsection 35(3) of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_ in accordance with an agreement mentioned in that subsection, the agreement must also have been made after that commencement.
 
-Persons receiving amounts under subsection 64(4) of the Aboriginal Land Rights (Northern Territory) Act 1976
+Persons receiving amounts under subsection 64(4) of the Aboriginal  Land Rights (Northern Territory) Act 1976
 
-(4)       Paragraph 193X(1)(cc) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by an individual or organisation after the commencement of that item.
+(4)        Paragraph 193X(1)(cc) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by an individual or organisation after the commencement of that item.
 
 * * *
 
@@ -15260,8 +15475,8 @@ _Social Security and Indigenous Legislation Amendment (Budget and Other Measures
 
 ## 24  Transitional
 
-(1)       Despite the amendments made by items 10 and 11, section 193I of the _Aboriginal and Torres Strait Islander Act 2005_, as in force immediately before the commencement of those items, continues to apply in relation to the financial year ending on 30 June 2010.
+(1)        Despite the amendments made by items 10 and 11, section 193I of the _Aboriginal and Torres Strait Islander Act 2005_, as in force immediately before the commencement of those items, continues to apply in relation to the financial year ending on 30 June 2010.
 
-(2)       For the purposes of working out the borrowing limit under section 193L, and the guarantee limit under section 193N, of the _Aboriginal and Torres Strait Islander Act 2005_ for the financial year beginning on 1 July 2010, the borrowing limit and the guarantee limit for the financial year beginning on 1 July 2009 is $294,170,517.
+(2)        For the purposes of working out the borrowing limit under section 193L, and the guarantee limit under section 193N, of the _Aboriginal and Torres Strait Islander Act 2005_ for the financial year beginning on 1 July 2010, the borrowing limit and the guarantee limit for the financial year beginning on 1 July 2009 is $294,170,517.
 
  
