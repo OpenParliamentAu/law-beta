@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00677/Html/962cdc46-1457-4b2b-be8e-4d225ac63b84_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00747/Html/ProtectionSeaCivilLiabilityBunkOilPollDamage2008_image001.gif)
 
 # Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008
 
 **Act No. 76 of 2008 as amended**
 
-This compilation was prepared on 25 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 11 November 2010
+ taking into account amendments up to Act No. 116 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,9 +14,9 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
-# Contents
+Contents
 
 **Part 1—Preliminary**
 
@@ -273,7 +273,7 @@ Note:          See also sections 28 (partnerships) and 29 (u
 
                     <a name="regist-owner"></a>**_registered owner_** has the same meaning as in the Bunker Oil Convention.
 
-                    <a name="secretari-gener"></a>**_Secretary‑General_** has the same meaning as in the Bunker Oil Convention.
+                    <a name="secretari-gener"></a>**_Secretary-General_** has the same meaning as in the Bunker Oil Convention.
 
                     <a name="ship"></a>**_ship_** has the same meaning as in the Bunker Oil Convention.
 
@@ -327,11 +327,11 @@ Note:          This Part also applies in relation to the coast
 
              (3)  A **_domestic voyage ship_** is a ship that is:
 
-                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter‑State voyage; or
+                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter-State voyage; or
 
                      (b)  an Australian fishing vessel proceeding on a voyage other than an overseas voyage.
 
-             (4)  For the purposes of this section, **_Australian fishing vessel_**, **_inter‑State voyage_** and **_trading ship_** have the same respective meanings as they have in the _Navigation Act 1912_.
+             (4)  For the purposes of this section, **_Australian fishing vessel_**, **_inter-State voyage_** and **_trading ship_** have the same respective meanings as they have in the _Navigation Act 1912_.
 
              (5)  For the purposes of this section, **_overseas voyage_** has the same meaning as in the _Navigation Act 1912_. However, if an Australian fishing vessel that is regularly engaged in making voyages from a port or ports in Queensland:
 
@@ -532,7 +532,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  an appropriate insurance certificate for the ship is in force at the time referred to in paragraph (1)(c); and
 
-                     (b)  the issuer of the certificate has notified the Secretary‑General that it maintains records in an electronic form that attest to the existence of the certificate; and
+                     (b)  the issuer of the certificate has notified the Secretary-General that it maintains records in an electronic form that attest to the existence of the certificate; and
 
                      (c)  the records are accessible to all countries to which the Bunker Oil Convention applies.
 
@@ -560,7 +560,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  an appropriate insurance certificate for the ship is in force at the time referred to in paragraph (1)(c); and
 
-                     (b)  the issuer of the certificate has notified the Secretary‑General that it maintains records in an electronic form that attest to the existence of the certificate; and
+                     (b)  the issuer of the certificate has notified the Secretary-General that it maintains records in an electronic form that attest to the existence of the certificate; and
 
                      (c)  the records are accessible to all countries to which the Bunker Oil Convention applies.
 
@@ -694,7 +694,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  an appropriate insurance certificate for the ship is in force at the time the requirement under subsection (1) is made; and
 
-                     (b)  the issuer of the certificate has notified the Secretary‑General that it maintains records in an electronic form that attest to the existence of the certificate; and
+                     (b)  the issuer of the certificate has notified the Secretary-General that it maintains records in an electronic form that attest to the existence of the certificate; and
 
                      (c)  the records are accessible to all countries to which the Bunker Oil Convention applies.
 
@@ -810,7 +810,7 @@ Scope of section
 
              (5)  For the purposes of paragraph (4)(b), **_outside Australia_** means outside the baseline from which the breadth of the territorial sea (within the meaning of the _Seas and Submerged Lands Act 1973_) is measured under section 7 of that Act.
 
-##### <a id="25"></a>25  No time limit for prosecution
+##### <a id="25"></a>25  No time limit for prosecution
 
                    A prosecution for an offence against this Act may be brought at any time.
 
@@ -868,7 +868,7 @@ Interpretation
 
 ##### <a id="30"></a>30  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -965,23 +965,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (item 4)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 939) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1040,20 +1023,6 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 939  Section 3 (definition of _exclusive economic zone_)
-
-Repeal the definition.
-
-As at 25 August 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1065,21 +1034,5 @@ _Protection of the Sea Legislation Amendment Act 2010 (No. 116, 2010)_
 ## 4  Application
 
 The amendment made by item 3 applies in relation to anything done, or omitted to be done, on or after the commencement of that item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
