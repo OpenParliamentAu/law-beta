@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00239/Html/DipPriImmAct1967_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00539/Html/DipPriImmAct1967_image001.gif)
 
 # Diplomatic Privileges and Immunities Act 1967
 
 **Act No. 16 of 1967 as amended**
 
-This compilation was prepared on 2 April 2007
- taking into account amendments up to Act No. 21 of 2007
+This compilation was prepared on 26 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -734,7 +734,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -1048,23 +1048,6 @@ of Assent</div>
   <td>
     <div>Sch. 6 (items 5–11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Citizenship (Transitionals and Consequentials) Act 2007</div>
-  </td>
-  <td>
-    <div>21, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 26): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -1252,21 +1235,6 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>rs. No. 65, 1985</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Australian Citizenship (Transitionals and Consequentials) Act 2007
- (No. 21, 2007)_
-
-The following amendment commences on 15 September 2007 unless proclaimed earlier:
-
-## Schedule 1
-
-## 26  Subsection 4(1) (definition of _Australian citizen_)
-
-Repeal the definition.
-
-As at 2 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
