@@ -1,890 +1,825 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image001.gif)
 
 # Child Support (Assessment) Act 1989
 
-No. 124, 1989 as amended
+**Act No. 124 of 1989 as amended**
 
-**Compilation start date:**1 January 2013
+This compilation was prepared on 27 November 2012
+ taking into account amendments up to Act No. 154 of 2012
 
-**Includes amendments up to:**Act No. 154, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Parliamentary Counsel, Canberra
 
-This is a compilation of the _Child Support (Assessment) Act 1989_ as amended and in force on 1 January 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 1 April 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Duty of parents to maintain their children                                            1
+[3](#3).            Duty of parents to maintain their children
 
-[4](#4).            Objects of Act                                                                                      2
+[4](#4).            Objects of Act
 
-[4A](#4A).         Application of the _Criminal Code_                                                        2
+[4A](#4A).         Application of the _Criminal Code_
 
-[5](#5).            Interpretation—definitions                                                                   3
+[5](#5).            Interpretation—definitions
 
-[5A](#5A).         Definition of _annualised MTAWE figure_                                           13
+[5A](#5A).         Definition of _annualised MTAWE figure_
 
-[5B](#5B).         Definition of _target foreign income_                                                    14
+[5B](#5B).         Definition of _target foreign income_
 
-[6](#6).            Interpretation—expressions used in Registration and Collection Act 15
+[6](#6).            Interpretation—expressions used in Registration and Collection Act
 
-[7](#7).            Interpretation—expressions used in Part VII of Family Law Act      15
+[7](#7).            Interpretation—expressions used in Part VII of Family Law Act
 
-[7A](#7A).         Meaning of _child support period_                                                       16
+[7A](#7A).         Meaning of _child support period_
 
-[7B](#7B).         Meaning of _eligible carer_                                                                   18
+[7B](#7B).         Meaning of _eligible carer_
 
-[9](#9).            Interpretation—meaning of _separated_                                                18
+[9](#9).            Interpretation—meaning of _separated_
 
-[10](#10).          Interpretation—meaning of _resident of Australia_                               19
+[10](#10).          Interpretation—meaning of _resident of Australia_
 
-[12](#12).          Interpretation—happening of child support terminating events          19
+[12](#12).          Interpretation—happening of child support terminating events
 
-[12A](#12A).       Use of computer programs to make decisions                                    22
+[12A](#12A).       Use of computer programs to make decisions
 
-[13](#13).          Extension and application of Act in relation to maintenance of exnuptial children    22
+[13](#13).          Extension and application of Act in relation to maintenance of exnuptial children
 
-[14](#14).          Additional application of Act in relation to maintenance of children of marriages    24
+[14](#14).          Additional application of Act in relation to maintenance of children of marriages
 
-[15](#15).          Corresponding State laws                                                                  24
+[15](#15).          Corresponding State laws
 
-[16](#16).          Act to bind Crown                                                                             25
+[16](#16).          Act to bind Crown
 
 **Part 2—Counselling**
 
-[17](#17).          Court counselling facilities to be made available                                26
+[17](#17).          Court counselling facilities to be made available
 
 **Part 3—Children who may be covered by Act**
 
-[18](#18).          Act applies only in relation to eligible children                                   27
+[18](#18).          Act applies only in relation to eligible children
 
-[19](#19).          Children born on or after commencing day are eligible children        27
+[19](#19).          Children born on or after commencing day are eligible children
 
-[20](#20).          Children of parents who separate on or after commencing day are eligible children 27
+[20](#20).          Children of parents who separate on or after commencing day are eligible children
 
-[21](#21).          Children with a brother or sister who is an eligible child are eligible children          27
+[21](#21).          Children with a brother or sister who is an eligible child are eligible children
 
-[22](#22).          Exclusion of certain children from coverage of Act                           28
+[22](#22).          Exclusion of certain children from coverage of Act
 
 **Part 4—Applications to Registrar for administrative assessment of child support** 
 
     **Division 1—Application requirements**
 
-[23](#23).          Application requirements generally                                                    29
+[23](#23).          Application requirements generally
 
-[24](#24).          Children in relation to whom applications may be made                    29
+[24](#24).          Children in relation to whom applications may be made
 
-[25](#25).          Persons who may apply—parents                                                      30
+[25](#25).          Persons who may apply—parents
 
-[25A](#25A).       Persons who may apply—non‑parent carers                                      30
+[25A](#25A).       Persons who may apply—non‑parent carers
 
-[26](#26).          Requirements of applications where there are joint carers                  31
+[26](#26).          Requirements of applications where there are joint carers
 
-[26A](#26A).       Requirements of application if child is cared for under child welfare law 31
+[26A](#26A).       Requirements of application if child is cared for under child welfare law
 
-[27](#27).          Application for administrative assessment                                         32
+[27](#27).          Application for administrative assessment
 
-[28](#28).          Application for child support for 2 or more children made in same form 32
+[28](#28).          Application for child support for 2 or more children made in same form
 
     **Division 2—Decision on application**
 
-[29](#29).          How decision is to be made                                                               33
+[29](#29).          How decision is to be made
 
-[29A](#29A).       Person by whom child support is payable must be Australian resident or resident of reciprocating jurisdiction      34
+[29A](#29A).       Person by whom child support is payable must be Australian resident or resident of reciprocating jurisdiction
 
-[29B](#29B).       Applications by residents of reciprocating jurisdictions                     35
+[29B](#29B).       Applications by residents of reciprocating jurisdictions
 
-[30](#30).          Decision on application                                                                      35
+[30](#30).          Decision on application
 
-[30A](#30A).       No administrative assessment or acceptance of agreement if contrary to international maintenance arrangement     36
+[30A](#30A).       No administrative assessment or acceptance of agreement if contrary to international maintenance arrangement
 
-[30B](#30B).       Registrar may refuse application for administrative assessment if overseas liability already registered    36
+[30B](#30B).       Registrar may refuse application for administrative assessment if overseas liability already registered
 
-[31](#31).          Requirement to assess child support on acceptance of application     37
+[31](#31).          Requirement to assess child support on acceptance of application
 
-[32](#32).          Withdrawal of application by applicant                                              37
+[32](#32).          Withdrawal of application by applicant
 
     **Division 3—Notice of decision**
 
-[33](#33).          Notice to be given to unsuccessful applicant                                      39
+[33](#33).          Notice to be given to unsuccessful applicant
 
-[34](#34).          Giving notice of successful application                                              40
+[34](#34).          Giving notice of successful application
 
 **Part 4A—Assessments of child support for later child support periods**
 
-[34A](#34A).       Registrar must make assessment when new tax figure is available    41
+[34A](#34A).       Registrar must make assessment when new tax figure is available
 
-[34B](#34B).       Administrative assessment for child support period started by new agreement when support already payable        42
+[34B](#34B).       Administrative assessment for child support period started by new agreement when support already payable
 
-[34C](#34C).       Administrative assessments for child support periods not started by application or new agreement        43
+[34C](#34C).       Administrative assessments for child support periods not started by application or new agreement
 
 **Part 5—Administrative assessment of child support** 
 
     **Division 1—Preliminary**
 
-[35A](#35A).       Simplified outline                                                                               45
+[35A](#35A).       Simplified outline
 
     **Division 2—The formulas** 
 
         **Subdivision A—Preliminary**
 
-[35B](#35B).       Simplified outline                                                                               46
+[35B](#35B).       Simplified outline
 
-[35C](#35C).       Application of Part to determine annual rate of child support             47
+[35C](#35C).       Application of Part to determine annual rate of child support
 
         **Subdivision B—Working out annual rates of child support using incomes of both parents in single child support case**
 
-[35D](#35D).       Application of Subdivision                                                                47
+[35D](#35D).       Application of Subdivision
 
-[35](#35).          Formula 1: Method statement using incomes of both parents in single child support case with no non‑parent carer                                                                                                           48
+[35](#35).          Formula 1: Method statement using incomes of both parents in single child support case with no non‑parent carer
 
-[36](#36).          Formula 2: Working out annual rates of child support using incomes of both parents in single child support case with a non‑parent carer                                                                                 49
+[36](#36).          Formula 2: Working out annual rates of child support using incomes of both parents in single child support case with a non‑parent carer
 
         **Subdivision C—Working out annual rates of child support using incomes of both parents in multiple child support cases**
 
-[36A](#36A).       Application of Subdivision                                                                50
+[36A](#36A).       Application of Subdivision
 
-[37](#37).          Formula 3: Method statement using incomes of both parents in multiple child support cases with no non‑parent carer                                                                                                           51
+[37](#37).          Formula 3: Method statement using incomes of both parents in multiple child support cases with no non‑parent carer
 
-[38](#38).          Formula 4: Working out annual rates of child support using incomes of both parents in multiple child support cases with a non‑parent carer                                                                               52
+[38](#38).          Formula 4: Working out annual rates of child support using incomes of both parents in multiple child support cases with a non‑parent carer
 
         **Subdivision D—Working out annual rates of child support using income of one parent**
 
-[38A](#38A).       Application of Subdivision                                                                53
+[38A](#38A).       Application of Subdivision
 
-[39](#39).          Formula 5: Method statement using income of one parent where other parent not a resident of Australia or in special circumstances                                                                                     53
+[39](#39).          Formula 5: Method statement using income of one parent where other parent not a resident of Australia or in special circumstances
 
-[40](#40).          Formula 6: Method statement using income of one parent where other parent deceased          55
+[40](#40).          Formula 6: Method statement using income of one parent where other parent deceased
 
         **Subdivision E—General provisions**
 
-[40A](#40A).       Cases where there is more than one person entitled to child support  57
+[40A](#40A).       Cases where there is more than one person entitled to child support
 
-[40B](#40B).       Non‑parent carer must have applied for child support                        58
+[40B](#40B).       Non‑parent carer must have applied for child support
 
-[40C](#40C).       Parents with more than 65% care                                                       59
+[40C](#40C).       Parents with more than 65% care
 
-[40D](#40D).       Parents with nil child support percentage                                           59
+[40D](#40D).       Parents with nil child support percentage
 
     **Division 3—Child support income** 
 
         **Subdivision A—Preliminary**
 
-[40E](#40E).        Simplified outline                                                                               60
+[40E](#40E).        Simplified outline
 
         **Subdivision B—Child support income and combined child support income**
 
-[41](#41).          Working out parent’s child support income                                       61
+[41](#41).          Working out parent’s child support income
 
-[42](#42).          Working out parents’ combined child support income                       63
+[42](#42).          Working out parents’ combined child support income
 
         **Subdivision C—Working out the components of child support income**
 
-[43](#43).          Working out parent’s adjusted taxable income                                   63
+[43](#43).          Working out parent’s adjusted taxable income
 
-[44](#44).          Post‑separation costs                                                                          64
+[44](#44).          Post‑separation costs
 
-[45](#45).          Working out the self‑support amount                                                 65
+[45](#45).          Working out the self‑support amount
 
-[46](#46).          Working out parent’s relevant dependent child amount                      65
+[46](#46).          Working out parent’s relevant dependent child amount
 
-[47](#47).          Working out multi‑case allowances                                                    66
+[47](#47).          Working out multi‑case allowances
 
     **Division 4—Percentage of care** 
 
         **Subdivision A—Preliminary**
 
-[48](#48).          Simplified outline                                                                               68
+[48](#48).          Simplified outline
 
         **Subdivision B—Determination of percentage of care**
 
-[49](#49).          Determination of percentage of care—responsible person has had etc  no pattern of care for a child       68
+[49](#49).          Determination of percentage of care—responsible person has had etc  no pattern of care for a child
 
-[50](#50).          Determination of percentage of care—responsible person has had etc  a pattern of care for a child         69
+[50](#50).          Determination of percentage of care—responsible person has had etc  a pattern of care for a child
 
-[51](#51).          Percentage of care if action taken to ensure that a care arrangement in relation to a child is complied with              70
+[51](#51).          Percentage of care if action taken to ensure that a care arrangement in relation to a child is complied with
 
-[52](#52).          Percentage of care if action taken to make a new care arrangement in relation to a child          71
+[52](#52).          Percentage of care if action taken to make a new care arrangement in relation to a child
 
-[53](#53).          Sections 51 and 52 do not apply in certain circumstances                  72
+[53](#53).          Sections 51 and 52 do not apply in certain circumstances
 
-[54](#54).          When a person has _reduced care of a child_                                        73
+[54](#54).          When a person has _reduced care of a child_
 
-[54A](#54A).       Working out actual care, and extent of care, of a child                       73
+[54A](#54A).       Working out actual care, and extent of care, of a child
 
-[54B](#54B).       Days to which the percentage of care applies if sections 51 and 52 did not apply in relation to a responsible person                                                                                                           74
+[54B](#54B).       Days to which the percentage of care applies if sections 51 and 52 did not apply in relation to a responsible person
 
-[54C](#54C).       Days to which the percentage of care applies if section 51 or 52 applied in relation to a responsible person           75
+[54C](#54C).       Days to which the percentage of care applies if section 51 or 52 applied in relation to a responsible person
 
-[54D](#54D).       Rounding of a percentage of care                                                       76
+[54D](#54D).       Rounding of a percentage of care
 
-[54E](#54E).        Registrar must have regard to guidelines about the making of determinations          76
+[54E](#54E).        Registrar must have regard to guidelines about the making of determinations
 
         **Subdivision C—Revocation of determination of percentage of care**
 
-[54F](#54F).        Determination must be revoked if there is a change to the responsible person’s cost percentage             77
+[54F](#54F).        Determination must be revoked if there is a change to the responsible person’s cost percentage
 
-[54G](#54G).       Determination must be revoked if there is less than regular care etc   78
+[54G](#54G).       Determination must be revoked if there is less than regular care etc 
 
-[54H](#54H).       Registrar may revoke a determination of a responsible person’s percentage of care 79
+[54H](#54H).       Registrar may revoke a determination of a responsible person’s percentage of care
 
-[54J](#54J).        Registrar must have regard to guidelines about the revocation of determinations     80
+[54J](#54J).        Registrar must have regard to guidelines about the revocation of determinations
 
         **Subdivision D—Percentages of care determined under the Family Assistance Act**
 
-[54K](#54K).       Percentages of care determined under the Family Assistance Act that apply for child support purposes 80
+[54K](#54K).       Percentages of care determined under the Family Assistance Act that apply for child support purposes
 
-[54L](#54L).        Reviews of percentages of care under the Family Assistance Administration Act apply for child support purposes                                                                                                           81
+[54L](#54L).        Reviews of percentages of care under the Family Assistance Administration Act apply for child support purposes
 
     **Division 5—Working out other elements for the formulas** 
 
         **Subdivision A—Preliminary**
 
-[55A](#55A).       Simplified outline                                                                               83
+[55A](#55A).       Simplified outline
 
         **Subdivision B—Working out other elements for the formulas**
 
-[55B](#55B).       Working out income percentages                                                       83
+[55B](#55B).       Working out income percentages
 
-[55C](#55C).       Working out cost percentages                                                            84
+[55C](#55C).       Working out cost percentages
 
-[55D](#55D).       Working out child support percentages                                              84
+[55D](#55D).       Working out child support percentages
 
-[55E](#55E).        Working out the multi‑case cap                                                          84
+[55E](#55E).        Working out the multi‑case cap
 
     **Division 6—The costs of the child** 
 
         **Subdivision A—Preliminary**
 
-[55F](#55F).        Simplified outline                                                                               86
+[55F](#55F).        Simplified outline
 
         **Subdivision B—The costs of the child**
 
-[55G](#55G).       Working out the costs of the children                                                 86
+[55G](#55G).       Working out the costs of the children
 
-[55H](#55H).       Working out the costs of the child                                                      87
+[55H](#55H).       Working out the costs of the child
 
-[55HA](#55HA).    Working out the costs of the child if parents have multiple child support cases       87
+[55HA](#55HA).    Working out the costs of the child if parents have multiple child support cases
 
     **Division 7—Assessments and estimates of adjusted taxable income** 
 
         **Subdivision A—Preliminary**
 
-[55J](#55J).        Simplified outline                                                                               89
+[55J](#55J).        Simplified outline
 
         **Subdivision B—Adjusted taxable income determined by reference to taxable income etc.**
 
-[56](#56).          Taxable income is as assessed under Income Tax Assessment Act   89
+[56](#56).          Taxable income is as assessed under Income Tax Assessment Act
 
-[57](#57).          Taxable income for child support purposes where taxable income determined to be nil under Income Tax Assessment Act                                                                                                     91
+[57](#57).          Taxable income for child support purposes where taxable income determined to be nil under Income Tax Assessment Act
 
-[58](#58).          Determination by the Registrar of a parent’s adjusted taxable income 93
+[58](#58).          Determination by the Registrar of a parent’s adjusted taxable income
 
-[58AA](#58AA).    _ATI indexation factor_ for determinations under section 58                 95
+[58AA](#58AA).    _ATI indexation factor_ for determinations under section 58
 
-[58A](#58A).       Subsequently ascertaining components of a parent’s adjusted taxable income         96
+[58A](#58A).       Subsequently ascertaining components of a parent’s adjusted taxable income
 
         **Subdivision BA—Overseas income**
 
-[58B](#58B).       Inclusion of overseas income in working out a parent’s adjusted taxable income    98
+[58B](#58B).       Inclusion of overseas income in working out a parent’s adjusted taxable income
 
-[58C](#58C).       Determination of overseas income if information and documents in Registrar’s possession are sufficient              98
+[58C](#58C).       Determination of overseas income if information and documents in Registrar’s possession are sufficient
 
-[58D](#58D).       Determination of overseas income if information and documents in Registrar’s possession are insufficient           99
+[58D](#58D).       Determination of overseas income if information and documents in Registrar’s possession are insufficient
 
         **Subdivision C—Child support income determined by reference to parent’s estimate of adjusted taxable income**
 
-[60](#60).          Parent may elect to estimate his or her adjusted taxable income for a year of income               99
+[60](#60).          Parent may elect to estimate his or her adjusted taxable income for a year of income
 
-[61](#61).          Effect of election                                                                              102
+[61](#61).          Effect of election
 
-[62](#62).          Revocation of income election                                                          103
+[62](#62).          Revocation of income election
 
-[62A](#62A).       Parent must elect a new estimate of his or her adjusted taxable income for a year of income   103
+[62A](#62A).       Parent must elect a new estimate of his or her adjusted taxable income for a year of income
 
-[63](#63).          Effect of later election                                                                       105
+[63](#63).          Effect of later election
 
-[63AA](#63AA).    Registrar may refuse to accept an income election                            106
+[63AA](#63AA).    Registrar may refuse to accept an income election
 
-[63AB](#63AB).    Notice to be given if Registrar refuses to accept an income election 107
+[63AB](#63AB).    Notice to be given if Registrar refuses to accept an income election
 
         **Subdivision D—Year to date income amounts**
 
-[63AC](#63AC).    Parent may elect a new year to date income amount                         107
+[63AC](#63AC).    Parent may elect a new year to date income amount
 
-[63AD](#63AD).    Registrar may refuse to accept an election of a new year to date income amount      108
+[63AD](#63AD).    Registrar may refuse to accept an election of a new year to date income amount
 
-[63AE](#63AE).     Registrar may determine a new year to date income amount            109
+[63AE](#63AE).     Registrar may determine a new year to date income amount
 
-[63AF](#63AF).     Parent’s _applicable YTD income amount_                                         110
+[63AF](#63AF).     Parent’s _applicable YTD income amount_
 
         **Subdivision E—Amendment of assessments**
 
-[63A](#63A).       Amendment of assessment based on income election if event affecting accuracy of estimate occurs       111
+[63A](#63A).       Amendment of assessment based on income election if event affecting accuracy of estimate occurs
 
-[63B](#63B).       Amendment of assessment based on income election if Registrar asks for information supporting estimate           112
+[63B](#63B).       Amendment of assessment based on income election if Registrar asks for information supporting estimate
 
-[63C](#63C).       Amendment of assessment in minimum rate cases                           113
+[63C](#63C).       Amendment of assessment in minimum rate cases
 
     **Division 7A—Reconciliation of estimates of adjusted taxable income** 
 
         **Subdivision A—Reconciliation using a parent’s actual adjusted taxable income**
 
-[64](#64).          Reconciliation using a parent’s actual adjusted taxable income—single income election          114
+[64](#64).          Reconciliation using a parent’s actual adjusted taxable income—single income election
 
-[64A](#64A).       Reconciliation using a parent’s actual adjusted taxable income—more than one income election             115
+[64A](#64A).       Reconciliation using a parent’s actual adjusted taxable income—more than one income election
 
-[64AA](#64AA).    Action by Registrar following reconciliation                                    118
+[64AA](#64AA).    Action by Registrar following reconciliation
 
         **Subdivision B—Reconciliation using a parent’s determined ATI**
 
-[64AB](#64AB).    Registrar to determine a parent’s adjusted taxable income for the purposes of reconciliation   119
+[64AB](#64AB).    Registrar to determine a parent’s adjusted taxable income for the purposes of reconciliation
 
-[64AC](#64AC).    Reconciliation using a parent’s determined ATI—single income election                119
+[64AC](#64AC).    Reconciliation using a parent’s determined ATI—single income election
 
-[64AD](#64AD).    Reconciliation using a parent’s determined ATI—more than one income election   121
+[64AD](#64AD).    Reconciliation using a parent’s determined ATI—more than one income election
 
-[64AE](#64AE).     Action by Registrar following reconciliation                                    123
+[64AE](#64AE).     Action by Registrar following reconciliation
 
         **Subdivision C—Penalty**
 
-[64AF](#64AF).     Penalty if a parent underestimates an income amount                       124
+[64AF](#64AF).     Penalty if a parent underestimates an income amount
 
-[64AG](#64AG).    Amount of penalty                                                                           125
+[64AG](#64AG).    Amount of penalty
 
-[64AH](#64AH).    Remission of penalty                                                                        125
+[64AH](#64AH).    Remission of penalty
 
     **Division 8—Provisions relating to the making of assessments** 
 
         **Subdivision A—Preliminary**
 
-[64B](#64B).       Simplified outline                                                                             127
+[64B](#64B).       Simplified outline
 
         **Subdivision B—Annual rates of child support for low income parents and minimum annual rates of child support**
 
-[65A](#65A).       Annual rate of child support for low income parents not on income support           127
+[65A](#65A).       Annual rate of child support for low income parents not on income support
 
-[65B](#65B).       Application for section 65A not to apply                                         129
+[65B](#65B).       Application for section 65A not to apply
 
-[66](#66).          Minimum annual rate of child support                                             130
+[66](#66).          Minimum annual rate of child support
 
-[66A](#66A).       Registrar may reduce an assessment to nil in certain cases               133
+[66A](#66A).       Registrar may reduce an assessment to nil in certain cases
 
-[66B](#66B).       Amendment of assessment made under section 65B or 66A           134
+[66B](#66B).       Amendment of assessment made under section 65B or 66A
 
-[66C](#66C).       Notice to be given to unsuccessful applicant                                    134
+[66C](#66C).       Notice to be given to unsuccessful applicant
 
         **Subdivision C—Making administrative assessments**
 
-[66D](#66D).       How assessment is to be made                                                         135
+[66D](#66D).       How assessment is to be made
 
-[67](#67).          Assessment to relate to all children for whom child support is payable by parent    135
+[67](#67).          Assessment to relate to all children for whom child support is payable by parent
 
-[67A](#67A).       Offsetting of child support liabilities                                                136
+[67A](#67A).       Offsetting of child support liabilities
 
-[68](#68).          Assessment to relate to whole or part of single child support period 136
+[68](#68).          Assessment to relate to whole or part of single child support period
 
-[69](#69).          Conversion of annual rates into daily rates of payment                    136
+[69](#69).          Conversion of annual rates into daily rates of payment
 
-[70](#70).          Evidence relating to assessments                                                      137
+[70](#70).          Evidence relating to assessments
 
-[71](#71).          Assessment for part of a child support period                                  137
+[71](#71).          Assessment for part of a child support period
 
-[72](#72).          Validity of assessments                                                                    137
+[72](#72).          Validity of assessments
 
-[73](#73).          Assumptions as to future events                                                      137
+[73](#73).          Assumptions as to future events
 
-[73A](#73A).       Registrar becoming aware of relevant dependent child                     138
+[73A](#73A).       Registrar becoming aware of relevant dependent child
 
-[74](#74).           Registrar to give effect to happening of child support terminating events etc          138
+[74](#74).           Registrar to give effect to happening of child support terminating events etc 
 
-[74A](#74A).       Date of effect of change in care                                                        139
+[74A](#74A).       Date of effect of change in care
 
-[75](#75).          Amendment of assessments                                                             139
+[75](#75).          Amendment of assessments
 
-[76](#76).          Notice of assessment to be given                                                     141
+[76](#76).          Notice of assessment to be given
 
     **Division 9—Liability to pay child support as assessed**
 
-[76A](#76A).       Simplified outline                                                                             144
+[76A](#76A).       Simplified outline
 
-[77](#77).          Effect of assessment                                                                         144
+[77](#77).          Effect of assessment
 
-[78](#78).          When amounts of child support due and payable                             144
+[78](#78).          When amounts of child support due and payable
 
-[79](#79).          Recovery of amounts of child support                                             145
+[79](#79).          Recovery of amounts of child support
 
 **Part 6—Consent arrangements** 
 
     **Division 1—Preliminary**
 
-[80A](#80A).       Simplified outline                                                                             146
+[80A](#80A).       Simplified outline
 
-[80B](#80B).       Cases in relation to which Part applies                                             147
+[80B](#80B).       Cases in relation to which Part applies
 
     **Division 1A—Binding and limited child support agreements** 
 
         **Subdivision A—Binding child support agreements**
 
-[80C](#80C).       Making binding child support agreements                                       148
+[80C](#80C).       Making binding child support agreements
 
-[80CA](#80CA).    No variation of binding child support agreements                            149
+[80CA](#80CA).    No variation of binding child support agreements
 
-[80D](#80D).       Terminating binding child support agreements                                 149
+[80D](#80D).       Terminating binding child support agreements
 
         **Subdivision B—Limited child support agreements**
 
-[80E](#80E).        Making limited child support agreements                                         150
+[80E](#80E).        Making limited child support agreements
 
-[80F](#80F).        No variation of limited child support agreements                             152
+[80F](#80F).        No variation of limited child support agreements
 
-[80G](#80G).       Terminating limited child support agreements                                  152
+[80G](#80G).       Terminating limited child support agreements
 
     **Division 2—Child support agreement requirements**
 
-[81](#81).          _Child support agreement_ definition and general requirement           155
+[81](#81).          _Child support agreement_ definition and general requirement
 
-[82](#82).          Children in relation to whom agreements may be made                   155
+[82](#82).          Children in relation to whom agreements may be made
 
-[83](#83).          Persons who may be parties to agreements                                      155
+[83](#83).          Persons who may be parties to agreements
 
-[84](#84).          Provisions that may be included in agreements                                156
+[84](#84).          Provisions that may be included in agreements
 
-[87](#87).          Agreement may be made in relation to 2 or more children etc          159
+[87](#87).          Agreement may be made in relation to 2 or more children etc 
 
     **Division 3—Applications to Registrar for acceptance of child support agreements**
 
-[88](#88).          Application requirements generally                                                  160
+[88](#88).          Application requirements generally
 
-[89](#89).          Formal requirement for applications                                                 160
+[89](#89).          Formal requirement for applications
 
-[90](#90).          Application for 2 or more separate agreements may be made in same form             160
+[90](#90).          Application for 2 or more separate agreements may be made in same form
 
     **Division 4—Decisions on applications**
 
-[91](#91).          How decision is to be made                                                             161
+[91](#91).          How decision is to be made
 
-[92](#92).          Decision on application                                                                    161
+[92](#92).          Decision on application
 
-[93](#93).          Liability to pay child support arises on acceptance of application where child support not already payable etc        162
+[93](#93).          Liability to pay child support arises on acceptance of application where child support not already payable etc 
 
-[94](#94).          Registrar to take action to give effect to accepted child support agreement or termination agreement etc  163
+[94](#94).          Registrar to take action to give effect to accepted child support agreement or termination agreement etc 
 
-[95](#95).          Effect of certain provisions of accepted child support agreements   163
+[95](#95).          Effect of certain provisions of accepted child support agreements
 
     **Division 5—Notice of the decision**
 
-[96](#96).          Notice of decision to be given                                                          165
+[96](#96).          Notice of decision to be given
 
 **Part 6A—Departure from administrative assessment of child support (departure determinations)** 
 
     **Division 1—Preliminary**
 
-[98A](#98A).       Simplified outline                                                                             166
+[98A](#98A).       Simplified outline
 
     **Division 2—Departures initiated by a liable parent or carer**
 
-[98B](#98B).       Application for determination under Part                                         167
+[98B](#98B).       Application for determination under Part
 
-[98C](#98C).       Matters as to which Registrar must be satisfied before making determination          167
+[98C](#98C).       Matters as to which Registrar must be satisfied before making determination
 
-[98D](#98D).       Formal requirements for application                                                 168
+[98D](#98D).       Formal requirements for application
 
-[98E](#98E).        Registrar may refuse to make determination because issues too complex 168
+[98E](#98E).        Registrar may refuse to make determination because issues too complex
 
-[98F](#98F).        Application disclosing no grounds etc  for making determination—how dealt with 168
+[98F](#98F).        Application disclosing no grounds etc  for making determination—how dealt with
 
-[98G](#98G).       Other party to be notified                                                                 169
+[98G](#98G).       Other party to be notified
 
-[98H](#98H).       Procedure for dealing with application                                             169
+[98H](#98H).       Procedure for dealing with application
 
-[98J](#98J).        Subsequent applications                                                                   170
+[98J](#98J).        Subsequent applications
 
-[98JA](#98JA).     Notice of refusal to be served on parties                                          171
+[98JA](#98JA).     Notice of refusal to be served on parties
 
     **Division 3—Departures initiated by the Registrar**
 
-[98K](#98K).       Registrar may initiate a determination under this Part                       172
+[98K](#98K).       Registrar may initiate a determination under this Part
 
-[98L](#98L).        Matters as to which Registrar must be satisfied before making determination          172
+[98L](#98L).        Matters as to which Registrar must be satisfied before making determination
 
-[98M](#98M).      Parties to be notified                                                                         173
+[98M](#98M).      Parties to be notified
 
-[98N](#98N).       Replies                                                                                             173
+[98N](#98N).       Replies
 
-[98P](#98P).        Parties may jointly elect that Registrar discontinue proceedings       173
+[98P](#98P).        Parties may jointly elect that Registrar discontinue proceedings
 
-[98Q](#98Q).       Procedure                                                                                         174
+[98Q](#98Q).       Procedure
 
-[98R](#98R).       Registrar may refuse to make determination because issues too complex 175
+[98R](#98R).       Registrar may refuse to make determination because issues too complex
 
-[98RA](#98RA).    Notice of refusal to be served on parties                                          175
+[98RA](#98RA).    Notice of refusal to be served on parties
 
     **Division 4—Determinations that may be made under this Part**
 
-[98S](#98S).        Determinations that may be made under Part                                   176
+[98S](#98S).        Determinations that may be made under Part
 
-[98SA](#98SA).     Variation not to be below minimum annual rate of child support     177
+[98SA](#98SA).     Variation not to be below minimum annual rate of child support
 
     **Division 5—Child support agreements**
 
-[98T](#98T).        Parties may enter into child support agreement                                178
+[98T](#98T).        Parties may enter into child support agreement
 
-[98U](#98U).       Decision on child support agreement                                               178
+[98U](#98U).       Decision on child support agreement
 
     **Division 6—Pending applications**
 
-[98V](#98V).       Pending application not to affect assessment                                    180
+[98V](#98V).       Pending application not to affect assessment
 
 **Part 7—Court review of certain decisions** 
 
     **Division 1A—Preliminary**
 
-[98W](#98W).      Simplified outline                                                                             181
+[98W](#98W).      Simplified outline
 
     **Division 1—Jurisdiction of courts**
 
-[98X](#98X).       Simplified outline                                                                             182
+[98X](#98X).       Simplified outline
 
-[99](#99).          Jurisdiction of courts under Act                                                       182
+[99](#99).          Jurisdiction of courts under Act
 
-[100](#100).        Application of Family Law Act                                                        183
+[100](#100).        Application of Family Law Act
 
-[101](#101).        Appellate jurisdiction of Family Court under Act                            184
+[101](#101).        Appellate jurisdiction of Family Court under Act
 
-[102](#102).        Appeals to Full Court of Family Court from courts other than the Federal Magistrates Court and the Magistrates Court of Western Australia                                                                        184
+[102](#102).        Appeals to Full Court of Family Court from courts other than the Federal Magistrates Court and the Magistrates Court of Western Australia
 
-[102A](#102A).     Appeals to Family Court from the Federal Magistrates Court and the Magistrates Court of Western Australia       186
+[102A](#102A).     Appeals to Family Court from the Federal Magistrates Court and the Magistrates Court of Western Australia
 
-[103](#103).        Cases stated                                                                                      188
+[103](#103).        Cases stated
 
-[104](#104).        Appeals to High Court                                                                     190
+[104](#104).        Appeals to High Court
 
-[105](#105).        Appeals from courts of summary jurisdiction                                  190
+[105](#105).        Appeals from courts of summary jurisdiction
 
     **Division 2—Declarations relating to whether persons should be assessed in respect of the costs of the child**
 
-[106](#106).        Simplified outline                                                                             192
+[106](#106).        Simplified outline
 
-[106A](#106A).     Declaration that a person should be assessed in respect of the costs of the child      192
+[106A](#106A).     Declaration that a person should be assessed in respect of the costs of the child
 
-[107](#107).        Declaration that a person should not be assessed in respect of the costs of the child                194
+[107](#107).        Declaration that a person should not be assessed in respect of the costs of the child
 
-[107A](#107A).     Implementation of declaration under section 107 if assessment relates to 2 or more children   195
+[107A](#107A).     Implementation of declaration under section 107 if assessment relates to 2 or more children
 
-[108](#108).        Implementation of decisions                                                             195
+[108](#108).        Implementation of decisions
 
-[109](#109).        Pending application not to affect assessment                                    196
+[109](#109).        Pending application not to affect assessment
 
     **Division 3—Application for amendment of administrative assessment that is more than 18 months old**
 
-[110](#110).        Simplified outline                                                                             197
+[110](#110).        Simplified outline
 
-[111](#111).        Application for amendment of administrative assessment that is more than 18 months old      197
+[111](#111).        Application for amendment of administrative assessment that is more than 18 months old
 
-[112](#112).        Court may grant leave to amend administrative assessment that is more than 18 months old   198
+[112](#112).        Court may grant leave to amend administrative assessment that is more than 18 months old
 
-[113](#113).        Implementation of decisions                                                             200
+[113](#113).        Implementation of decisions
 
-[113A](#113A).     Pending application not to affect assessment                                    200
+[113A](#113A).     Pending application not to affect assessment
 
     **Division 4—Orders for departure from administrative assessment in special circumstances (departure orders)**
 
-[113B](#113B).     Simplified outline                                                                             201
+[113B](#113B).     Simplified outline
 
-[114](#114).        Additional particular objects of Division                                          201
+[114](#114).        Additional particular objects of Division
 
-[116](#116).        Application for order under Division                                               201
+[116](#116).        Application for order under Division
 
-[117](#117).        Matters as to which court must be satisfied before making order     203
+[117](#117).        Matters as to which court must be satisfied before making order
 
-[118](#118).        Orders that may be made under Division                                         209
+[118](#118).        Orders that may be made under Division
 
-[119](#119).        Implementation of orders                                                                 211
+[119](#119).        Implementation of orders
 
-[120](#120).        Pending proceeding not to affect assessment                                   211
+[120](#120).        Pending proceeding not to affect assessment
 
     **Division 5—Orders for provision of child support otherwise than in form of periodic amounts paid to carer**
 
-[121](#121).        Additional particular objects of Division                                          212
+[121](#121).        Additional particular objects of Division
 
-[122](#122).        Cases in relation to which Division applies                                      212
+[122](#122).        Cases in relation to which Division applies
 
-[123](#123).        Application for order under Division                                               212
+[123](#123).        Application for order under Division
 
-[123A](#123A).     Orders for provision of child support in the form of lump sum payment to be credited against amounts payable under liability                                                                                             213
+[123A](#123A).     Orders for provision of child support in the form of lump sum payment to be credited against amounts payable under liability
 
-[124](#124).        Orders for provision of child support otherwise than in form of periodic amounts paid to carer entitled to child support                                                                                                         214
+[124](#124).        Orders for provision of child support otherwise than in form of periodic amounts paid to carer entitled to child support
 
-[125](#125).        Court to state relationship between order and assessed child support 216
+[125](#125).        Court to state relationship between order and assessed child support
 
-[126](#126).        Court to give reasons for order                                                        217
+[126](#126).        Court to give reasons for order
 
-[127](#127).        Effect of orders on administrative assessment of child support        218
+[127](#127).        Effect of orders on administrative assessment of child support
 
-[129](#129).        Modification of orders under Division                                             218
+[129](#129).        Modification of orders under Division
 
-[130](#130).        Court to give reasons for modifications                                           220
+[130](#130).        Court to give reasons for modifications
 
-[131](#131).        Court may make orders consequential upon the discharge of orders etc   221
+[131](#131).        Court may make orders consequential upon the discharge of orders etc 
 
     **Division 6—Setting aside accepted child support agreements**
 
-[135](#135).        Simplified outline                                                                             222
+[135](#135).        Simplified outline
 
-[136](#136).        Power of court to set aside child support agreements or termination agreements     222
+[136](#136).        Power of court to set aside child support agreements or termination agreements
 
-[137](#137).        Court may make orders consequential on setting aside of agreement 224
+[137](#137).        Court may make orders consequential on setting aside of agreement
 
-[138](#138).        Implementation of decisions                                                             224
+[138](#138).        Implementation of decisions
 
     **Division 7—Urgent maintenance orders**
 
-[138A](#138A).     Simplified outline                                                                             225
+[138A](#138A).     Simplified outline
 
-[139](#139).        Urgent maintenance orders                                                               225
+[139](#139).        Urgent maintenance orders
 
     **Division 8—Provisions relating to court orders**
 
-[140A](#140A).     Simplified outline                                                                             227
+[140A](#140A).     Simplified outline
 
-[141](#141).        General powers of court                                                                   227
+[141](#141).        General powers of court
 
-[142](#142).        Cessation of orders under Act                                                          228
+[142](#142).        Cessation of orders under Act
 
-[143](#143).        Amounts paid where no liability to pay exists etc                            229
+[143](#143).        Amounts paid where no liability to pay exists etc 
 
     **Division 9—Miscellaneous**
 
-[143A](#143A).     Simplified outline                                                                             231
+[143A](#143A).     Simplified outline
 
-[143B](#143B).     Frivolous or vexatious proceedings                                                 231
+[143B](#143B).     Frivolous or vexatious proceedings
 
-[144](#144).        Determining when decision of a court becomes final                       232
+[144](#144).        Determining when decision of a court becomes final
 
-[145](#145).        Registrar may intervene in proceedings                                            232
+[145](#145).        Registrar may intervene in proceedings
 
-[146](#146).        Copies of orders to be forwarded to Registrar                                 232
+[146](#146).        Copies of orders to be forwarded to Registrar
 
 **Part 7A—Notional assessments** 
 
     **Division 1—Preliminary**
 
-[146A](#146A).     Simplified outline                                                                             233
+[146A](#146A).     Simplified outline
 
     **Division 2—Notional assessments**
 
-[146B](#146B).     Provisional notional assessments                                                     234
+[146B](#146B).     Provisional notional assessments
 
-[146BA](#146BA).  Application of Part 5 to provisional notional assessments               235
+[146BA](#146BA).  Application of Part 5 to provisional notional assessments
 
-[146C](#146C).     Variation of provisional notional assessments                                 235
+[146C](#146C).     Variation of provisional notional assessments
 
-[146D](#146D).     Departure determinations in respect of provisional notional assessments 237
+[146D](#146D).     Departure determinations in respect of provisional notional assessments
 
-[146E](#146E).      Notional assessments                                                                       238
+[146E](#146E).      Notional assessments
 
-[146EA](#146EA).   Amendment of notional assessment                                                 239
+[146EA](#146EA).   Amendment of notional assessment
 
-[146F](#146F).      Later provisional notional assessments                                            240
+[146F](#146F).      Later provisional notional assessments
 
     **Division 3—Estimating adjusted taxable income for notional assessments**
 
-[146G](#146G).     Estimating adjusted taxable income for purposes of notional assessments               241
+[146G](#146G).     Estimating adjusted taxable income for purposes of notional assessments
 
-[146H](#146H).     Registrar may refuse to accept election                                             242
+[146H](#146H).     Registrar may refuse to accept election
 
-[146J](#146J).      Effect of election                                                                              242
+[146J](#146J).      Effect of election
 
-[146K](#146K).     Revocation of election                                                                      243
+[146K](#146K).     Revocation of election
 
-[146L](#146L).      Effect of revocation                                                                          243
+[146L](#146L).      Effect of revocation
 
 **Part 8—Administration**
 
-[147](#147).        Secretary has general administration of Act                                     244
+[147](#147).        Secretary has general administration of Act
 
-[148](#148).        Annual report                                                                                   244
+[148](#148).        Annual report
 
-[149](#149).        Delegation                                                                                        244
+[149](#149).        Delegation
 
-[150](#150).        Secrecy                                                                                             245
+[150](#150).        Secrecy
 
-[150AA](#150AA).  Offence of unauthorised use of information                                     251
+[150AA](#150AA).  Offence of unauthorised use of information
 
-[150A](#150A).     Applications, notices, elections and replies to be in the manner specified by the Registrar       252
+[150A](#150A).     Applications, notices, elections and replies to be in the manner specified by the Registrar
 
-[150B](#150B).     Registrar’s power to request tax file numbers                                  253
+[150B](#150B).     Registrar’s power to request tax file numbers
 
-[150D](#150D).     Registrar may require Commissioner to provide information           253
+[150D](#150D).     Registrar may require Commissioner to provide information
 
-[150DA](#150DA).  Registrar’s jurisdiction to cease in certain circumstances                 254
+[150DA](#150DA).  Registrar’s jurisdiction to cease in certain circumstances
 
 **Part 9—Miscellaneous**
 
-[150E](#150E).      Suspension of liability to pay child support where parents reconcile 255
+[150E](#150E).      Suspension of liability to pay child support where parents reconcile
 
-[151](#151).        Election by carer entitled to child support to end administrative assessment             256
+[151](#151).        Election by carer entitled to child support to end administrative assessment
 
-[151A](#151A).     Procedure where person making election is receiving more than the base rate of family tax benefit Part A             257
+[151A](#151A).     Procedure where person making election is receiving more than the base rate of family tax benefit Part A
 
-[151B](#151B).     Application for assessment/agreement to continue beyond child’s 18th birthday     258
+[151B](#151B).     Application for assessment/agreement to continue beyond child’s 18th birthday
 
-[151C](#151C).     Application for assessment/agreement to continue—Registrar’s decision                258
+[151C](#151C).     Application for assessment/agreement to continue—Registrar’s decision
 
-[151D](#151D).     Application under subsection 151B(1) for assessment/agreement to continue—consequences of acceptance          260
+[151D](#151D).     Application under subsection 151B(1) for assessment/agreement to continue—consequences of acceptance
 
-[151E](#151E).      Applications under subsection 151B(1A) in respect of administrative assessments—consequences of acceptance 261
+[151E](#151E).      Applications under subsection 151B(1A) in respect of administrative assessments—consequences of acceptance
 
-[152](#152).        Court order etc  to cease to have effect where child support becomes payable         262
+[152](#152).        Court order etc  to cease to have effect where child support becomes payable
 
-[153](#153).        Evidentiary certificates by Registrar                                                 263
+[153](#153).        Evidentiary certificates by Registrar
 
-[153A](#153A).     Indexation of amounts                                                                      263
+[153A](#153A).     Indexation of amounts
 
-[155](#155).        Publication of figures                                                                       264
+[155](#155).        Publication of figures
 
-[156](#156).        Rounding of amounts                                                                       265
+[156](#156).        Rounding of amounts
 
-[157](#157).        Appearance by Registrar in proceedings etc                                     265
+[157](#157).        Appearance by Registrar in proceedings etc 
 
-[158](#158).        Judicial notice of signature of Registrar etc                                      266
+[158](#158).        Judicial notice of signature of Registrar etc 
 
-[159](#159).        False or misleading statements                                                         266
+[159](#159).        False or misleading statements
 
-[159A](#159A).     Statements made recklessly etc                                                         267
+[159A](#159A).     Statements made recklessly etc 
 
-[159B](#159B).     Failure to notify required information                                              267
+[159B](#159B).     Failure to notify required information
 
-[160](#160).        Notification requirements                                                                 268
+[160](#160).        Notification requirements
 
-[161](#161).        Obtaining of information and evidence                                            269
+[161](#161).        Obtaining of information and evidence
 
-[162](#162).        Order to comply with requirement                                                   270
+[162](#162).        Order to comply with requirement
 
-[162A](#162A).     Obtaining information in relation to residents of reciprocating jurisdictions             271
+[162A](#162A).     Obtaining information in relation to residents of reciprocating jurisdictions
 
-[162B](#162B).     Regulations may prescribe manner of giving notices or other communications        272
+[162B](#162B).     Regulations may prescribe manner of giving notices or other communications
 
-[162C](#162C).     Requesting information for the purposes of a care percentage determination under the family assistance law         272
+[162C](#162C).     Requesting information for the purposes of a care percentage determination under the family assistance law
 
-[163](#163).        Act not a taxation law                                                                       272
+[163](#163).        Act not a taxation law
 
-[163A](#163A).     Certain instruments not liable to duty                                               272
+[163A](#163A).     Certain instruments not liable to duty
 
-[163B](#163B).     Regulations in relation to overseas‑related maintenance obligations etc    274
+[163B](#163B).     Regulations in relation to overseas‑related maintenance obligations etc 
 
-[164](#164).        Regulations                                                                                      274
+[164](#164).        Regulations
 
-**Part 10—Amendments of the Child Support Act 1988**
+**Part 10—Amendments of the Child Support Act 1988** 
 
-[Sections 165–188](#Sections 165–188).                                                                                           276
+Sections 165–188
 
-**Part 11—Amendments of the Family Law Act 1975**
+**Part 11—Amendments of the Family Law Act 1975** 
 
-[Sections 189–195](#Sections 189–195).                                                                                           277
+Sections 189–195
 
-**Part 12—Amendments of the Social Security Act 1947**
+**Part 12—Amendments of the Social Security Act 1947** 
 
-[Sections 196–198](#Sections 196–198).                                                                                           278
+Sections 196–198
 
-**Part 13—Amendment of the Taxation Administration Act 1953**
+**Part 13—Amendment of the Taxation Administration Act 1953** 
 
-[Sections 199, 200](#Sections 199, 200).                                                                                           279
+Sections 199, 200
 
-Schedule 1—The Costs of the Children Table
+**Schedule 1—The Costs of the Children Table**
 
-[1](#1).            The Costs of the Children Table                                                       280
+[1](#1).            The Costs of the Children Table
 
-[2](#2).            Child support income ranges—fraction of MTAWE row                280
+[2](#2).            Child support income ranges—fraction of MTAWE row
 
-[3](#3).            Costs of the children                                                                        281
+[3](#3).            Costs of the children
 
-**Endnotes** 
-
-    **Endnote 1—Legislation history** 
-
-    **Endnote 2—Amendment history** 
-
-    **Endnote 3—Application, saving and transitional provisions**
-
-[Child Support Legislation Amendment Act 1995 (No](#Child Support Legislation Amendment Act 1995 (No). 39, 1995)                   330
-
-[Child Support (Assessment) Act 1989 (No](#Child Support (Assessment) Act 1989 (No). 120, 1998)                                 330
-
-[A New Tax System (Family Assistance and Related Measures) Act 2000 (No](#A New Tax System (Family Assistance and Related Measures) Act 2000 (No). 45, 2000)    335
-
-[Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No](#Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No). 137, 2001)         370
-
-[Tax Laws Amendment (Improvements to Self Assessment) Act (No](#Tax Laws Amendment (Improvements to Self Assessment) Act (No). 2) 2005 (No  161, 2005)            371
-
-[Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006 (No](#Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006 (No). 53, 2006)                                                                                                         371
-
-[Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006 (No](#Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006 (No). 146, 2006)                                                                               377
-
-[Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007 (No](#Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007 (No). 82, 2007)                                                391
-
-[Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008 (No](#Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008 (No). 143, 2008)                                    393
-
-[Tax Laws Amendment (2009 Measures No](#Tax Laws Amendment (2009 Measures No). 1) Act 2009 (No  27, 2009)      395
-
-[Acts Interpretation Amendment Act 2011 (No](#Acts Interpretation Amendment Act 2011 (No). 46, 2011)                              396
-
-[Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011 (No](#Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011 (No). 53, 2011)        396
-
-[Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No](#Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No). 51, 2012)                                                                                                         397
-
-[Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No](#Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No). 98, 2012)                399
-
-[Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No](#Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No). 154, 2012) 399
-
-    **Endnote 4—Uncommenced amendments**
-
-[Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No](#Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No). 51, 2012)                                                                                                         400
-
-    **Endnote 5—Misdescribed amendments** 
-
-    **Endnote 6—Modifications**
-
-[Child Support Legislation Amendment Act 1998 (Application and Transitional) Regulations 1999 (SR 1999 No](#Child Support Legislation Amendment Act 1998 (Application and Transitional) Regulations 1999 (SR 1999 No). 57)         403
+**Notes** 
 
 ## An Act to make provision for determining the financial support payable by parents for their children, and for other purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Child Support (Assessment) Act 1989_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
              (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
@@ -942,7 +877,7 @@ Schedule 1—The Costs of the Children Table
 
                     <a name="aat"></a>**_AAT_** means the Administrative Appeals Tribunal.
 
-                    <a name="adjusted-taxabl-incom"></a>**_adjusted taxable income_** has the meaning given by section 43 and subsections 61(1) and 63(1).
+                    <a name="adjusted-taxabl-incom"></a>**_adjusted taxable income_** has the meaning given by section 43 and subsections 61(1) and 63(1).
 
                     <a name="administr-assess"></a>**_administrative assessment_** means assessment (other than assessment for the purposes of a notional assessment) under Part 5.
 
@@ -952,29 +887,29 @@ Schedule 1—The Costs of the Children Table
 
                     <a name="applic-rule-court"></a>**_applicable Rules of Court_** has the same meaning as in the _Family Law Act 1975_.
 
-                    <a name="applic-ytd-incom-amount"></a>**_applicable YTD income amount_** has the meaning given by subsections 63AF(1) and (2).
+                    <a name="applic-ytd-incom-amount"></a>**_applicable YTD income amount_** has the meaning given by subsections 63AF(1) and (2).
 
-                    <a name="applic-dai"></a>**_application day_** has the meaning given by subsection 54B(2).
+                    <a name="applic-dai"></a>**_application day_** has the meaning given by subsection 54B(2).
 
                     <a name="applic-period"></a>**_application period_** has the meaning given by:
 
-                     (a)  for an election made under subsection 60(1)—subsection 61(1A); and
+                     (a)  for an election made under subsection 60(1)—subsection 61(1A); and
 
-                     (b)  for an election made under subsection 62A(1)—subsection 63(2).
+                     (b)  for an election made under subsection 62A(1)—subsection 63(2).
 
-                    <a name="ati-index-factor"></a>**_ATI indexation factor_** has the meaning given by subsection 58AA(1).
+                    <a name="ati-index-factor"></a>**_ATI indexation factor_** has the meaning given by subsection 58AA(1).
 
                     <a name="bind-child-support-agreem"></a>**_binding child support agreement_** has the meaning given by section 80C.
 
                     <a name="care-arrang"></a>**_care arrangement_** has the same meaning as in the Family Assistance Act.
 
-                    <a name="care-period"></a>**_care period_** has the meaning given by paragraph 49(1)(a), subparagraph 49(1)(b)(ii), paragraph 50(1)(a) or subparagraph 50(1)(b)(ii).
+                    <a name="care-period"></a>**_care period_** has the meaning given by paragraph 49(1)(a), subparagraph 49(1)(b)(ii), paragraph 50(1)(a) or subparagraph 50(1)(b)(ii).
 
                     <a name="carer-entitled-child-support"></a>**_carer entitled to child support_**, in relation to a child, means:
 
                      (a)  in the case of an administrative assessment—a parent, or non‑parent carer, of the child who, under the administrative assessment, is entitled to be paid child support in relation to the child; and
 
-                     (b)  in the case of a child support agreement—has the meaning given by subsection 93(1).
+                     (b)  in the case of a child support agreement—has the meaning given by subsection 93(1).
 
                     <a name="chang-care-dai"></a>**_change of care day_** for a responsible person for a child means:
 
@@ -994,7 +929,7 @@ Schedule 1—The Costs of the Children Table
 
                     <a name="child-support-percentag"></a>**_child support percentage_** has the meaning given by section 55D.
 
-                    <a name="child-support-period"></a>**_child support period_** has the meaning given by subsection 7A(1).
+                    <a name="child-support-period"></a>**_child support period_** has the meaning given by subsection 7A(1).
 
                     <a name="child-support-termin-event"></a>**_child support terminating event_** has the meaning given by section 12.
 
@@ -1016,23 +951,23 @@ Schedule 1—The Costs of the Children Table
 
                     <a name="cost-children-tabl"></a>**_Costs of the Children Table_** means the table in clause 1 of Schedule 1 to this Act.
 
-                    <a name="court-exercising-jurisdict-act"></a>**_court exercising jurisdiction under this Act_** does not include a court exercising jurisdiction in proceedings under paragraph 79(a).
+                    <a name="court-exercising-jurisdict-act"></a>**_court exercising jurisdiction under this Act_** does not include a court exercising jurisdiction in proceedings under paragraph 79(a).
 
                     <a name="court-have-jurisdict-act"></a>**_court having jurisdiction under this Act_** does not include a court that has jurisdiction under this Act only in relation to the recovery of amounts of child support.
 
-                    <a name="determin-ati"></a>**_determined ATI_** has the meaning given by paragraph 64AB(2)(a).
+                    <a name="determin-ati"></a>**_determined ATI_** has the meaning given by paragraph 64AB(2)(a).
 
                     <a name="elig-carer"></a>**_eligible carer_** has the meaning given by section 7B.
 
                     <a name="elig-child"></a>**_eligible child_** has the meaning given by Part 3 (Children who may be covered by Act).
 
-                    <a name="estimated-ati-amount"></a>**_estimated ATI amount_** has the meaning given by subsections 64A(3) and 64AD(3).
+                    <a name="estimated-ati-amount"></a>**_estimated ATI amount_** has the meaning given by subsections 64A(3) and 64AD(3).
 
                     <a name="famili-assist-act"></a>**_Family Assistance Act_** means the _A New Tax System (Family Assistance) Act 1999_.
 
                     <a name="famili-assist-administr-act"></a>**_Family Assistance Administration Act_** means the _A New Tax System (Family Assistance) (Administration) Act 1999_.
 
-                    <a name="famili-assist-care-determin"></a>**_family assistance care determination_** has the meaning given by paragraph 54K(1)(b).
+                    <a name="famili-assist-care-determin"></a>**_family assistance care determination_** has the meaning given by paragraph 54K(1)(b).
 
                     <a name="famili-assist-secretari"></a>**_Family Assistance Secretary_** means the Secretary of the Department administered by the Minister who administers Division 1 of Part 3 of the Family Assistance Act.
 
@@ -1054,21 +989,21 @@ Schedule 1—The Costs of the Children Table
 
                      (b)  provisions of a child support agreement that has been accepted by the Registrar that have effect, for the purposes of Part 5, as if they were such an order made by consent.
 
-                    <a name="incom-compon-amount"></a>**_income component amounts_** has the meaning given by subsection 60(2).
+                    <a name="incom-compon-amount"></a>**_income component amounts_** has the meaning given by subsection 60(2).
 
-                    <a name="incom-elect"></a>**_income election_** means an election made under subsection 60(1) or 62A(1).
+                    <a name="incom-elect"></a>**_income election_** means an election made under subsection 60(1) or 62A(1).
 
                     <a name="incom-percentag"></a>**_income percentage_** has the meaning given by section 55B.
 
-                    <a name="incom-support-payment"></a>**_income support payment_** has the meaning given by subsection 66(9).
+                    <a name="incom-support-payment"></a>**_income support payment_** has the meaning given by subsection 66(9).
 
                     <a name="incom-tax-assess-act"></a>**_Income Tax Assessment Act_** means the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_.
 
                     <a name="incom-test-pension-allow-benefit"></a>**_income tested pension, allowance or benefit_** has the same meaning as in the _Family Law Act 1975_.
 
-                    <a name="index-number"></a>**_index number_** for a quarter has the meaning given by subsection 153A(2).
+                    <a name="index-number"></a>**_index number_** for a quarter has the meaning given by subsection 153A(2).
 
-                    <a name="interim-period"></a>**_interim period_** has the meaning given by subsection 54C(2).
+                    <a name="interim-period"></a>**_interim period_** has the meaning given by subsection 54C(2).
 
                     <a name="last-dai"></a>**_last day_**, in relation to a child’s secondary school year, means:
 
@@ -1088,11 +1023,11 @@ Note:          For example, in working out Philippe’s last r
 
                      (a)  in the case of an administrative assessment—a parent by whom child support is payable for the child under the administrative assessment; and
 
-                     (b)  in the case of a child support agreement—has the meaning given by subsection 93(1).
+                     (b)  in the case of a child support agreement—has the meaning given by subsection 93(1).
 
                     <a name="limit-child-support-agreem"></a>**_limited child support agreement_** has the meaning given by section 80E.
 
-                    <a name="lump-sum-payment-provision"></a>**_lump sum payment provisions_** has the meaning given by paragraph 84(1)(e).
+                    <a name="lump-sum-payment-provision"></a>**_lump sum payment provisions_** has the meaning given by paragraph 84(1)(e).
 
                     <a name="member-coupl"></a>**_member of a couple_** means:
 
@@ -1102,7 +1037,7 @@ Note:          For example, in working out Philippe’s last r
 
                      (c)  a person whose relationship with another person (whether of the same sex or a different sex) is registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section, and is not living separately and apart from the other person on a permanent or indefinite basis.
 
-                    <a name="minimum-annual-rate-child-support"></a>**_minimum annual rate of child support_** in respect of a child support period has the meaning given by subsection 66(5).
+                    <a name="minimum-annual-rate-child-support"></a>**_minimum annual rate of child support_** in respect of a child support period has the meaning given by subsection 66(5).
 
                     <a name="multi-case-allow"></a>**_multi‑case allowance_** has the meaning given by section 47.
 
@@ -1112,7 +1047,7 @@ Note:          For example, in working out Philippe’s last r
 
                     <a name="non-parent-carer"></a>**_non‑parent carer_** of a child means an eligible carer of the child who is not a parent of the child.
 
-                    <a name="non-period-payment-provision"></a>**_non‑periodic payment provisions_** has the meaning given by paragraph 84(1)(d).
+                    <a name="non-period-payment-provision"></a>**_non‑periodic payment provisions_** has the meaning given by paragraph 84(1)(d).
 
                     <a name="notion-assess"></a>**_notional assessment_** has the meaning given by section 146E.
 
@@ -1138,9 +1073,9 @@ Note:          **_Periodic amount_** is defined in section 4
 
                     <a name="partial-year-incom-amount"></a>**_partial year income amount_** has the meaning given by:
 
-                     (a)  for an election made under subsection 60(1) to which subsection 60(3) applies—step 2 of the method statement in subsection 60(4); and
+                     (a)  for an election made under subsection 60(1) to which subsection 60(3) applies—step 2 of the method statement in subsection 60(4); and
 
-                     (b)  for an election made under subsection 62A(1)—step 2 of the method statement in that subsection.
+                     (b)  for an election made under subsection 62A(1)—step 2 of the method statement in that subsection.
 
                     <a name="partner"></a>**_partner_**, in relation to a person who is a member of a couple, means the other member of the couple.
 
@@ -1174,7 +1109,7 @@ Note:          **_Periodic amount_** is defined in section 4
 
                               (i)  the child or step‑child is under 18; or
 
-                             (ii)  if the child or step‑child is not under 18—a child support terminating event has not happened under subsection 151D(1) in relation to the child; and
+                             (ii)  if the child or step‑child is not under 18—a child support terminating event has not happened under subsection 151D(1) in relation to the child; and
 
                      (c)  the child or step‑child is not a member of a couple; and
 
@@ -1188,13 +1123,13 @@ Note:          **_Periodic amount_** is defined in section 4
 
                     <a name="relev-depend-child-amount"></a>**_relevant dependent child amount_** has the meaning given by section 46.
 
-                    <a name="relev-june-quarter"></a>**_relevant June quarter_** has the meaning given by subsection 5A(2).
+                    <a name="relev-septemb-quarter"></a>**_relevant September quarter_** has the meaning given by subsection 5A(2).
 
                     <a name="remain-period"></a>**_remaining period_** has the meaning given by:
 
-                     (a)  for an election made under subsection 60(1) to which subsection 60(3) applies—step 1 of the method statement in subsection 60(4); and
+                     (a)  for an election made under subsection 60(1) to which subsection 60(3) applies—step 1 of the method statement in subsection 60(4); and
 
-                     (b)  for an election made under subsection 62A(1)—step 1 of the method statement in that subsection.
+                     (b)  for an election made under subsection 62A(1)—step 1 of the method statement in that subsection.
 
                     <a name="report-fring-benefit-total"></a>**_reportable fringe benefits total_** for a year of income for a person who is an employee (for the purposes of the _Fringe Benefits Tax Assessment Act 1986_, whether it applies of its own force or because of the _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_) means the employee’s reportable fringe benefits total (as defined in the _Fringe Benefits Tax Assessment Act 1986_) for the year of income.
 
@@ -1212,7 +1147,7 @@ Note:          **_Periodic amount_** is defined in section 4
 
                     <a name="standard-rule-court"></a>**_standard Rules of Court_** has the same meaning as in the _Family Law Act 1975_.
 
-                    <a name="start-dai"></a>**_start day_** for an income election means the day specified in the notice of the income election under subsection 60(8) or 62A(5) as the start day for the income election.
+                    <a name="start-dai"></a>**_start day_** for an income election means the day specified in the notice of the income election under subsection 60(8) or 62A(5) as the start day for the income election.
 
                     <a name="target-foreign-incom"></a>**_target foreign income_** has the meaning given by section 5B.
 
@@ -1240,15 +1175,15 @@ to the extent to which the payment:
 
                       (i)  is not a payment by way of bereavement payment, pharmaceutical allowance, rent assistance, language, literacy and numeracy supplement or remote area allowance; and
 
-                      (j)  if the payment is a payment under the _Social Security Act 1991_—does not include tax‑exempt pension supplement (within the meaning of subsection 20A(6) of that Act); and
+                      (j)  if the payment is a payment under the _Social Security Act 1991_—does not include tax‑exempt pension supplement (within the meaning of subsection 20A(6) of that Act); and
 
-                     (k)  if the payment is a payment under the _Veterans’ Entitlements Act 1986_—does not include tax‑exempt pension supplement (within the meaning of subsection 5GA(5) of that Act).
+                     (k)  if the payment is a payment under the _Veterans’ Entitlements Act 1986_—does not include tax‑exempt pension supplement (within the meaning of subsection 5GA(5) of that Act).
 
                     <a name="termin-agreem"></a>**_termination agreement_** has the meaning given by section 80D.
 
                     <a name="act"></a>**_this Act_** includes the regulations.
 
-                    <a name="underestimated-incom-amount"></a>**_underestimated an income amount_** has the meaning given by subsections 64AF(2) and (3).
+                    <a name="underestimated-incom-amount"></a>**_underestimated an income amount_** has the meaning given by subsections 64AF(2) and (3).
 
                     <a name="year-incom"></a>**_year of income_**, in relation to a person, means:
 
@@ -1264,7 +1199,7 @@ Definitions of **regular care** and **shared care**
 
 Relatives
 
-             (4)  For the purposes of section 26A and subparagraph 150(4E)(b)(ii), the relatives of a person are taken to include the following (without limitation):
+             (4)  For the purposes of section 26A and subparagraph 150(4E)(b)(ii), the relatives of a person are taken to include the following (without limitation):
 
                      (a)  a partner of the person;
 
@@ -1274,9 +1209,9 @@ Relatives
 
 ##### <a id="5A"></a>5A  Definition of _annualised MTAWE figure_
 
-(1)  The **_annualised MTAWE figure_** for a relevant June quarter means the figure that is 52 times the amount set out for the reference period in the quarter under the headings “Average Weekly Earnings—Trend—Males—All Employees Total Earnings” in a document published by the Australian Statistician entitled “Average Weekly Earnings, Australia”.
+(1)  The **_annualised MTAWE figure_** for a relevant September quarter means the figure that is 52 times the amount set out for the reference period in the quarter under the headings “Average Weekly Earnings—Trend—Males—All Employees Total Earnings” in a document published by the Australian Statistician entitled “Average Weekly Earnings, Australia”.
 
-             (2)  The **_relevant June quarter_**, in relation to a child support period, means the quarter ending on 30 June of the last calendar year ending before the child support period begins.
+             (2)  The **_relevant September quarter_**, in relation to a child support period, means the quarter ending on 30 September of the last calendar year ending before the child support period begins.
 
              (3)  If at any time (whether before or after the commencement of this section), the Australian Statistician publishes the amount referred to in subsection (1):
 
@@ -1296,7 +1231,7 @@ were references to the new headings and/or the new document, as the case require
 
              (5)  If:
 
-                     (a)  the Australian Statistician publishes the amount (the **_later amount_**) referred to in subsection (1) for a relevant June quarter; and
+                     (a)  the Australian Statistician publishes the amount (the **_later amount_**) referred to in subsection (1) for a relevant September quarter; and
 
                      (b)  the later amount is published in substitution for such an amount for that quarter that was previously published by the Australian Statistician;
 
@@ -1356,7 +1291,7 @@ When does a child support period start?
 
                      (a)  the beginning of the day on which an application for an administrative assessment of the child support payable for a child is properly made under Part 4;
 
-                     (b)  the beginning of the day mentioned in paragraph 93(1)(g) (child support payable under a child support agreement accepted by Registrar);
+                     (b)  the beginning of the day mentioned in paragraph 93(1)(g) (child support payable under a child support agreement accepted by Registrar);
 
                      (c)  the start of the first day for which a child support agreement described in section 34B is to affect the rate of child support payable for a child;
 
@@ -1372,7 +1307,7 @@ End of the child support period
 
                      (b)  the end of the calendar month during which the Registrar makes an assessment relating to the annual rate of child support payable for the child as required by section 34A (assessment when new tax figure is available);
 
-                     (c)  the time immediately before the day mentioned in paragraph 93(1)(g) (child support payable under a child support agreement accepted by Registrar);
+                     (c)  the time immediately before the day mentioned in paragraph 93(1)(g) (child support payable under a child support agreement accepted by Registrar);
 
                      (d)  the end of the day immediately before the first day for which a child support agreement described in section 34B is to affect the rate of child support payable for the child.
 
@@ -1426,7 +1361,7 @@ then the person is not an eligible carer in relation to the child unless it woul
 
 ##### <a id="10"></a>10  Interpretation—meaning of _resident of__Australia_ 
 
-                   For the purposes of this Act, a person is a resident of Australia on a day if on that day the person is a resident of Australia for the purposes of the _Income Tax Assessment Act 1936_ otherwise than because of subsection 7A(2) of that Act.
+                   For the purposes of this Act, a person is a resident of Australia on a day if on that day the person is a resident of Australia for the purposes of the _Income Tax Assessment Act 1936_ otherwise than because of subsection 7A(2) of that Act.
 
 ##### <a id="12"></a>12  Interpretation—happening of child support terminating events
 
@@ -1434,7 +1369,7 @@ then the person is not an eligible carer in relation to the child unless it woul
 
                      (a)  the child dies; or
 
-                     (b)  the child ceases to be an eligible child under regulations made under subsection 22(1); or
+                     (b)  the child ceases to be an eligible child under regulations made under subsection 22(1); or
 
                      (c)  the child turns 18; or
 
@@ -1450,7 +1385,7 @@ then the person is not an eligible carer in relation to the child unless it woul
 
                             (iii)  the child is ordinarily resident in Australia; or
 
-                     (g)  the circumstances described in subsection 30AA(1) of the Registration and Collection Act apply in relation to the child.
+                     (g)  the circumstances described in subsection 30AA(1) of the Registration and Collection Act apply in relation to the child.
 
 Note:          Paragraph (1)(c) may be affected by section 151C (which deals with continuing administrative assessments and child support agreements beyond a child’s 18th birthday in certain situations).
 
@@ -1632,7 +1567,7 @@ and has that effect only so far as it makes provision with respect to the rights
 
                    This Act applies only in relation to children who are eligible children.
 
-##### <a id="19"></a>19  Children born on or after commencing day are eligible children
+##### <a id="19"></a>19  Children born on or after commencing day are eligible children
 
                    A child born on or after the commencing day is an eligible child.
 
@@ -1838,7 +1773,7 @@ the paragraph that appears to the Registrar to be the more or most likely to be 
 
              (3)  If the Registrar determines that child support is reasonably likely to be payable by the parent, the application is taken to have been properly made only if:
 
-                     (a)  subsection 24(2) does not apply in relation to the child (payee of child support resident in reciprocating jurisdiction); and
+                     (a)  subsection 24(2) does not apply in relation to the child (payee of child support resident in reciprocating jurisdiction); and
 
                      (b)  the parent is a resident of a reciprocating jurisdiction on the day on which the application is made.
 
@@ -1884,7 +1819,7 @@ is taken not to have been properly made by a parent by whom, under a determinati
 
 in relation to a parent by whom, under a determination made under section 29A, child support is reasonably likely to be payable who is a resident of the jurisdiction would not be permitted by the law of the jurisdiction.
 
-             (3)  This section has effect despite subsection 29A(3).
+             (3)  This section has effect despite subsection 29A(3).
 
 ##### <a id="30B"></a>30B  Registrar may refuse application for administrative assessment if overseas liability already registered
 
@@ -2066,15 +2001,15 @@ Note 2:       If the Registrar makes an assessment under this sectio
 
                      (a)  the period starts when the application is made under Part 4; or
 
-                     (b)  the period starts on a day mentioned in paragraph 93(1)(g); or
+                     (b)  the period starts on a day mentioned in paragraph 93(1)(g); or
 
                      (c)  an assessment of the child support payable for the child for days in the period has already been made as required by section 34A; or
 
-                     (d)  the period starts on the first day for which a child support agreement described in subsection 34B(1) is to affect the annual rate of child support payable for the child.
+                     (d)  the period starts on the first day for which a child support agreement described in subsection 34B(1) is to affect the annual rate of child support payable for the child.
 
 Note 1:       Section 31 requires the Registrar to make an assessment of child support payable as quickly as possible after accepting an application under Part 4.
 
-Note 2:       Subsection 93(2) requires the Registrar to make an assessment of child support payable as soon as practicable after accepting certain child support agreements.
+Note 2:       Subsection 93(2) requires the Registrar to make an assessment of child support payable as soon as practicable after accepting certain child support agreements.
 
 Note 3:       If a child support agreement has effect for the purposes of the child support period, it will affect the assessment (see section 95).
 
@@ -2246,7 +2181,7 @@ Step 7.   Work out the costs of the child for the day under sections 55G a
 
 Step 8.   If a parent has a positive child support percentage under step 6, the **_annual rate of child support_** payable by the parent for the child for the day is worked out using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image002.gif)
 
 * * *
 
@@ -2256,7 +2191,7 @@ Note:          If a parent’s percentage of care for a child 
 
              (1)  This is how to work out the annual rate of child support payable for a child for a day in a child support period if one or more non‑parent carers have a percentage of care for the child for the day.
 
-             (2)  Follow steps 1 to 8 of the method statement in section 35 for each parent (disregarding subsection 55D(2) (negative child support percentages)).
+             (2)  Follow steps 1 to 8 of the method statement in section 35 for each parent (disregarding subsection 55D(2) (negative child support percentages)).
 
 Annual rate payable by parent
 
@@ -2314,7 +2249,7 @@ Step 1A. Work out the costs of the child for the day under section 55HA.
 
 Step 1B. If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image002.gif)
 
 Step 2.   Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2332,13 +2267,13 @@ Note:          If a parent’s percentage of care for a child 
 
              (1)  This is how to work out the annual rate of child support payable for a child for a day in a child support period if one or more non‑parent carers have a percentage of care for the child for the day.
 
-             (2)  Follow steps 1 to 6 of the method statement in section 35 for each parent (disregarding subsection 55D(2) (negative child support percentages)).
+             (2)  Follow steps 1 to 6 of the method statement in section 35 for each parent (disregarding subsection 55D(2) (negative child support percentages)).
 
           (2A)  Work out the costs of the child for the day under section 55HA.
 
           (2B)  If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image003.gif)
 
              (3)  Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2382,7 +2317,7 @@ then, subject to section 40B, the first parent must pay the annual rate of chi
 
 ##### <a id="39"></a>39  Formula 5: Method statement using income of one parent where other parent not a resident of Australia or in special circumstances
 
-             (1)  This is how to work out the annual rate of child support payable for a child for a day in a child support period if a non‑parent carer of the child has applied for a parent of the child to be assessed in respect of the costs of the child because of subparagraph 25A(b)(ii) or (iii) (non‑resident of Australia or special circumstances).
+             (1)  This is how to work out the annual rate of child support payable for a child for a day in a child support period if a non‑parent carer of the child has applied for a parent of the child to be assessed in respect of the costs of the child because of subparagraph 25A(b)(ii) or (iii) (non‑resident of Australia or special circumstances).
 
 * * *
 
@@ -2398,7 +2333,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image004.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image004.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2420,7 +2355,7 @@ Note:          Under section 40B, a non‑parent carer of a 
 
 ##### <a id="40"></a>40  Formula 6: Method statement using income of one parent where other parent deceased
 
-             (1)  This is how to work out the annual rate of child support payable for a child for a day in a child support period if a non‑parent carer of the child has applied for a parent of the child to be assessed in respect of the costs of the child because of subparagraph 25A(b)(iv) (deceased parent).
+             (1)  This is how to work out the annual rate of child support payable for a child for a day in a child support period if a non‑parent carer of the child has applied for a parent of the child to be assessed in respect of the costs of the child because of subparagraph 25A(b)(iv) (deceased parent).
 
 * * *
 
@@ -2436,7 +2371,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image005.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image005.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2462,11 +2397,11 @@ Note:          Under section 40B, a non‑parent carer of a 
 
              (1)  If, in applying:
 
-                     (a)  subsection 36(4) or 38(5) or (6); or
+                     (a)  subsection 36(4) or 38(5) or (6); or
 
-                     (b)  step 9 in the method statement in subsection 39(1) or 40(1); or
+                     (b)  step 9 in the method statement in subsection 39(1) or 40(1); or
 
-                     (c)  subsection 65A(5);
+                     (c)  subsection 65A(5);
 
 child support is payable to:
 
@@ -2476,7 +2411,7 @@ child support is payable to:
 
 then, the annual rate of child support for the child for a day in the child support period that each parent or non‑parent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image006.gif)
 
 Note:          Under section 40B, a non‑parent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
 
@@ -2498,7 +2433,7 @@ then:
 
                      (c)  the non‑parent carer is entitled to be paid an annual rate of child support for the child worked out under this Part from the day on which the non‑parent carer makes the application under section 25A; and
 
-                     (d)  despite paragraph 7A(2)(a), a new child support period is not started by that application.
+                     (d)  despite paragraph 7A(2)(a), a new child support period is not started by that application.
 
 ##### <a id="40C"></a>40C  Parents with more than 65% care
 
@@ -2548,9 +2483,9 @@ child support case.</li>
 
 income for a year of income can be reduced under section 44 in respect of
 
-a particular child if the parent earns additional income during the first 3 years
+a particular child if the parent earns additional income during the first 3
 
-after separating from the other parent of the child.</li>
+years after separating from the other parent of the child.</li>
 
 * * *
 
@@ -2568,7 +2503,7 @@ Single child support case—no relevant dependent children
 
 the parent’s **_child support income_** for the child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image007.gif)
 
 Single child support case—relevant dependent children
 
@@ -2580,7 +2515,7 @@ Single child support case—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image008.gif)
 
 Multiple child support cases—no relevant dependent children
 
@@ -2594,7 +2529,7 @@ Multiple child support cases—no relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image009.gif)
 
 Multiple child support cases—relevant dependent children
 
@@ -2608,7 +2543,7 @@ Multiple child support cases—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image010.gif)
 
 Negative result taken to be nil
 
@@ -2694,13 +2629,13 @@ Notice to be served if Registrar refuses application
 
              (7)  This section does not prevent the Registrar from making a new assessment for part of the child support period.
 
-Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
 
 ##### <a id="45"></a>45  Working out the self‑support amount
 
                    A parent’s **_self‑support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image011.gif)
 
 Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
 
@@ -2722,13 +2657,13 @@ Step 4.   Work out the costs of the child for the day under sections 55G a
 
                (a)     the parent’s annual rate of child support were assessed under Subdivision D of Division 2; and
 
-              (b)     the reference in subsection 55G(2) to the parent’s child support income were a reference to the amount worked out under step 1; and
+              (b)     the reference in subsection 55G(2) to the parent’s child support income were a reference to the amount worked out under step 1; and
 
                (c)     references in sections 55G and 55H to children in the child support case that relates to the child were references to all of the parent’s relevant dependent children.
 
 Step 5.   Work out the following amount for the child for a day in the child support period:
 
-              ![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image012.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image012.gif)
 
 * * *
 
@@ -2744,7 +2679,7 @@ _Method statement_
 
 Step 1.   Work out the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image013.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image013.gif)
 
 Step 2.   If the parent has a relevant dependent child, take the parent’s relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
 
@@ -2752,7 +2687,7 @@ Step 3.   For each of the children (the **_multi‑case children_**) for who
 
                (a)     the parent’s annual rate of child support were assessed under Subdivision D of Division 2; and
 
-              (b)     the reference in subsection 55HA(2) to the parent’s child support income were a reference to the amount worked out under step 1 or 2 (as the case requires); and
+              (b)     the reference in subsection 55HA(2) to the parent’s child support income were a reference to the amount worked out under step 1 or 2 (as the case requires); and
 
                (c)     references in section 55HA to children in the child support case that relates to the child were references to all of the parent’s multi‑case children.
 
@@ -2912,9 +2847,9 @@ Initial determination
 
              (1)  Sections 51 and 52 do not apply in relation to a responsible person for a child if:
 
-                     (a)  in a case where subparagraph 49(1)(a)(i) or 50(1)(a)(i) applies—the day on which the application referred to in that subparagraph is made is 14 weeks or more after the change of care day for the responsible person; or
+                     (a)  in a case where subparagraph 49(1)(a)(i) or 50(1)(a)(i) applies—the day on which the application referred to in that subparagraph is made is 14 weeks or more after the change of care day for the responsible person; or
 
-                     (b)  in a case where subparagraph 49(1)(a)(ii) or 50(1)(a)(ii) applies—the day referred to in that subparagraph is 14 weeks or more after the change of care day for the responsible person.
+                     (b)  in a case where subparagraph 49(1)(a)(ii) or 50(1)(a)(ii) applies—the day referred to in that subparagraph is 14 weeks or more after the change of care day for the responsible person.
 
 Later determination
 
@@ -2922,7 +2857,7 @@ Later determination
 
                      (a)  the Registrar has revoked, under section 54F or 54H, a determination of the responsible person’s percentage of care for the child; and
 
-                     (b)  the revocation of the determination takes effect at the end of the day referred to in paragraph 54F(2)(c) or 54H(2)(c); and
+                     (b)  the revocation of the determination takes effect at the end of the day referred to in paragraph 54F(2)(c) or 54H(2)(c); and
 
                      (c)  the day after that day is 14 weeks or more after the change of care day for the responsible person.
 
@@ -2964,13 +2899,13 @@ the percentage of care applies to each day in a child support period on and from
 
              (2)  The **_application day_** is:
 
-                     (a)  if subparagraph 49(1)(a)(i) or 50(1)(a)(i) applies in relation to the determination—the day on which the application referred to in that subparagraph is made; or
+                     (a)  if subparagraph 49(1)(a)(i) or 50(1)(a)(i) applies in relation to the determination—the day on which the application referred to in that subparagraph is made; or
 
-                     (b)  if subparagraph 49(1)(a)(ii) or 50(1)(a)(ii) applies in relation to the determination—the day referred to in that subparagraph; or
+                     (b)  if subparagraph 49(1)(a)(ii) or 50(1)(a)(ii) applies in relation to the determination—the day referred to in that subparagraph; or
 
-                     (c)  if paragraph 49(1)(b) or 50(1)(b) applies in relation to the determination:
+                     (c)  if paragraph 49(1)(b) or 50(1)(b) applies in relation to the determination:
 
-                              (i)  in a case where the revocation of the determination referred to in subparagraph 49(1)(b)(i) or 50(1)(b)(i) takes effect at the beginning of the day referred to in paragraph 54G(2)(a)—that day; or
+                              (i)  in a case where the revocation of the determination referred to in subparagraph 49(1)(b)(i) or 50(1)(b)(i) takes effect at the beginning of the day referred to in paragraph 54G(2)(a)—that day; or
 
                              (ii)  otherwise—the day that begins immediately after the revocation of the determination referred to in that subparagraph takes effect.
 
@@ -2984,13 +2919,13 @@ the percentage of care applies to each day in a child support period on and from
 
                      (b)  section 51 or 52 applied in relation to the responsible person; and
 
-                   (ba)  in accordance with subsection 51(2) or 52(2), 2 percentages of care are determined in relation to the responsible person;
+                   (ba)  in accordance with subsection 51(2) or 52(2), 2 percentages of care are determined in relation to the responsible person;
 
 then:
 
-                     (c)  the percentage of care referred to in subsection 51(3) or 52(3) applies to each day in a child support period that occurs in the interim period for the determination unless a revocation of the determination under Subdivision C of this Division takes effect; and
+                     (c)  the percentage of care referred to in subsection 51(3) or 52(3) applies to each day in a child support period that occurs in the interim period for the determination unless a revocation of the determination under Subdivision C of this Division takes effect; and
 
-                     (d)  the percentage of care referred to in subsection 51(4) or 52(4) applies to each day in a child support period that occurs after the interim period for the determination unless a revocation of the determination under Subdivision C of this Division takes effect.
+                     (d)  the percentage of care referred to in subsection 51(4) or 52(4) applies to each day in a child support period that occurs after the interim period for the determination unless a revocation of the determination under Subdivision C of this Division takes effect.
 
              (2)  The **_interim period_** for the determination:
 
@@ -3000,9 +2935,9 @@ then:
 
                               (i)  the day specified by the Registrar;
 
-                             (ii)  if section 51 applied in relation to the responsible person—the day before the day on which the action referred to in paragraph 51(1)(d) ends;
+                             (ii)  if section 51 applied in relation to the responsible person—the day before the day on which the action referred to in paragraph 51(1)(d) ends;
 
-                            (iii)  if section 52 applied in relation to the responsible person—the day before the day on which the action referred to in subparagraph 52(1)(d)(ii) ends;
+                            (iii)  if section 52 applied in relation to the responsible person—the day before the day on which the action referred to in subparagraph 52(1)(d)(ii) ends;
 
                             (iv)  if a care arrangement in relation to the child begins to apply on a day after the application day for the determination—the day before the day on which the care arrangement begins to apply.
 
@@ -3020,7 +2955,7 @@ Single percentage of care
 
                      (b)  section 51 applied in relation to the responsible person; and
 
-                     (c)  in accordance with subsection 51(5), a single percentage of care is determined in relation to the responsible person;
+                     (c)  in accordance with subsection 51(5), a single percentage of care is determined in relation to the responsible person;
 
 the percentage of care applies to each day in a child support period on and from the application day unless a revocation of the determination under Subdivision C of this Division takes effect.
 
@@ -3034,7 +2969,7 @@ the percentage of care applies to each day in a child support period on and from
 
 ##### <a id="54E"></a>54E  Registrar must have regard to guidelines about the making of determinations
 
-                   In making a determination under this Subdivision, the Registrar must have regard to any guidelines in force under subsection 35N(1) of the Family Assistance Act.
+                   In making a determination under this Subdivision, the Registrar must have regard to any guidelines in force under subsection 35N(1) of the Family Assistance Act.
 
 #### Subdivision C—Revocation of determination of percentage of care
 
@@ -3054,7 +2989,7 @@ the percentage of care applies to each day in a child support period on and from
 
 the Registrar must revoke the determination.
 
-Note:          The Registrar must make a new determination under section 49 or 50 to replace the revoked determination: see paragraph 49(1)(b) or 50(1)(b).
+Note:          The Registrar must make a new determination under section 49 or 50 to replace the revoked determination: see paragraph 49(1)(b) or 50(1)(b).
 
              (2)  The revocation of the determination takes effect at the end of:
 
@@ -3082,7 +3017,7 @@ Note:          The Registrar must make a new determination und
 
 the Registrar must revoke both determinations.
 
-Note:          The Registrar must make new determinations under section 49 or 50 to replace the revoked determinations: see paragraph 49(1)(b) or 50(1)(b).
+Note:          The Registrar must make new determinations under section 49 or 50 to replace the revoked determinations: see paragraph 49(1)(b) or 50(1)(b).
 
              (2)  The revocation of each determination takes effect:
 
@@ -3112,7 +3047,7 @@ Note:          The Registrar must make new determinations unde
 
 the Registrar may revoke the determination.
 
-Note:          If the Registrar revokes the determination, the Registrar must make a new determination under section 49 or 50 to replace the revoked determination: see paragraph 49(1)(b) or 50(1)(b).
+Note:          If the Registrar revokes the determination, the Registrar must make a new determination under section 49 or 50 to replace the revoked determination: see paragraph 49(1)(b) or 50(1)(b).
 
              (2)  If the Registrar revokes the determination, the revocation takes effect at the end of:
 
@@ -3128,7 +3063,7 @@ Note:          If the Registrar revokes the determination, the
 
 ##### <a id="54J"></a>54J  Registrar must have regard to guidelines about the revocation of determinations
 
-                   In revoking a determination under this Subdivision, the Registrar must have regard to any guidelines in force under subsection 35S(1) of the Family Assistance Act.
+                   In revoking a determination under this Subdivision, the Registrar must have regard to any guidelines in force under subsection 35S(1) of the Family Assistance Act.
 
 #### Subdivision D—Percentages of care determined under the Family Assistance Act
 
@@ -3242,7 +3177,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
                    Work out each parent’s **_income percentage_** for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image014.gif)
 
 ##### <a id="55C"></a>55C  Working out cost percentages
 
@@ -3369,7 +3304,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (1)  Work out each parent’s **_child support percentage_** for a child for a day in the child support period using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image015.gif)
 
              (2)  A parent’s **_child support percentage_** for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
 
@@ -3385,7 +3320,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (2)  The parent’s **_multi‑case cap_** for the particular child for the day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image016.gif)
 
              (3)  For the purposes of paragraph (1)(c), a parent is taken to be assessed for a day in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child for the day under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -3537,13 +3472,13 @@ When amended tax assessment may be taken into account
 
              (2)  If, after an administrative assessment of child support is made, the assessment (the **_tax assessment_**) of a parent’s taxable income is amended (whether or not because of an objection, appeal or review), the Registrar must not amend the administrative assessment to take account of the amendment to the tax assessment unless one of the following applies:
 
-                     (a)  the amendment to the tax assessment is made under item 5 of the table in subsection 170(1) of the _Income Tax Assessment Act 1936_ (amendment due to fraud or evasion);
+                     (a)  the amendment to the tax assessment is made under item 5 of the table in subsection 170(1) of the _Income Tax Assessment Act 1936_ (amendment due to fraud or evasion);
 
                      (b)  the amendment to the tax assessment is made under provisions of an Income Tax Assessment Act that are prescribed by the regulations for the purposes of this paragraph;
 
                      (c)  the amendment is made in circumstances prescribed for the purposes of this paragraph;
 
-                     (d)  the amendment is made solely for the purposes of working out the parent’s adjusted taxable income for the last relevant year of income for the purposes of paragraph 60(1)(b) of this Act (first estimate must be lower than adjusted taxable income).
+                     (d)  the amendment is made solely for the purposes of working out the parent’s adjusted taxable income for the last relevant year of income for the purposes of paragraph 60(1)(b) of this Act (first estimate must be lower than adjusted taxable income).
 
 Date of assessment of a parent’s taxable income taken to be date of notice of the assessment
 
@@ -3611,7 +3546,7 @@ When amended tax assessment may be taken into account
 
                      (a)  the subsequent assessment was made because the parent had not made to the Commissioner a full and true disclosure of all the material facts necessary for the Commissioner’s assessment, or in other circumstances prescribed for the purposes of this subsection;
 
-                     (b)  the amendment is made solely for the purposes of working out the parent’s adjusted taxable income for the last relevant year of income for the purposes of paragraph 60(1)(b) (first estimate must be lower than adjusted taxable income).
+                     (b)  the amendment is made solely for the purposes of working out the parent’s adjusted taxable income for the last relevant year of income for the purposes of paragraph 60(1)(b) (first estimate must be lower than adjusted taxable income).
 
 Date of assessment of a parent’s taxable income taken to be date of notice of the assessment
 
@@ -3679,7 +3614,7 @@ the Registrar may determine that the parent’s adjusted taxable income for the 
 
                      (c)  the amount worked out by multiplying the parent’s adjusted taxable income for the earlier year of income (or, if the parent’s taxable income has been so assessed for more than one earlier year of income, the most recent of those years) by the ATI indexation factor;
 
-                     (d)  the amount that is equal to two‑thirds of the annualised MTAWE figure for the relevant June quarter in relation to the child support period.
+                     (d)  the amount that is equal to two‑thirds of the annualised MTAWE figure for the relevant September quarter in relation to the child support period.
 
 Other circumstances
 
@@ -3689,13 +3624,13 @@ Other circumstances
 
                      (b)  the Registrar decides not to make a determination in relation to the parent under one of those subsections;
 
-the Registrar may determine that the parent’s adjusted taxable income for the last relevant year of income is an amount that is at least two‑thirds of the annualised MTAWE figure for the relevant June quarter in relation to the child support period.
+the Registrar may determine that the parent’s adjusted taxable income for the last relevant year of income is an amount that is at least two‑thirds of the annualised MTAWE figure for the relevant September quarter in relation to the child support period.
 
 ##### <a id="58AA"></a>58AA  _ATI indexation factor_ for determinations under section 58
 
              (1)  The **_ATI indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image017.gif)
 
 where:
 
@@ -3707,9 +3642,9 @@ where:
 
                     <a name="tax-return-year"></a>**_tax return year_** means:
 
-                     (a)  if subsection 58(3) applies—the year of income before the last relevant year of income in relation to a child support period; or
+                     (a)  if subsection 58(3) applies—the year of income before the last relevant year of income in relation to a child support period; or
 
-                     (b)  if subsection 58(4) applies—the earlier year of income that applies under paragraph 58(4)(c).
+                     (b)  if subsection 58(4) applies—the earlier year of income that applies under paragraph 58(4)(c).
 
              (2)  The ATI indexation factor is to be calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -3783,7 +3718,7 @@ No taxation assessment required
 
                      (b)  despite requesting, under section 162A, information or documents from the parent or from an overseas authority that are necessary to determine the parent’s overseas income, the information or documents requested have not been supplied.
 
-             (2)  In making an administrative assessment of the child support in relation to the parent and a child support period, the Registrar may determine that the parent’s overseas income for the year of income, for the purpose of working out the parent’s adjusted taxable income, is an amount that the Registrar considers appropriate of at least two‑thirds of the annualised MTAWE figure for the relevant June quarter.
+             (2)  In making an administrative assessment of the child support in relation to the parent and a child support period, the Registrar may determine that the parent’s overseas income for the year of income, for the purpose of working out the parent’s adjusted taxable income, is an amount that the Registrar considers appropriate of at least two‑thirds of the annualised MTAWE figure for the relevant September quarter.
 
 #### Subdivision C—Child support income determined by reference to parent’s estimate of adjusted taxable income
 
@@ -3881,15 +3816,15 @@ How election is made
 
              (1)  If:
 
-                     (a)  a parent makes an election under subsection 60(1) relating to a year of income; and
+                     (a)  a parent makes an election under subsection 60(1) relating to a year of income; and
 
                      (b)  the parent is to be assessed in respect of the costs of a child of the parent for a day in a child support period; and
 
                      (c)  the day occurs in the application period for the election;
 
-then, for the purposes of so assessing the parent, the parent’s **_adjusted taxable income_** is the amount that applies under subsection 60(2) or 60(3).
+then, for the purposes of so assessing the parent, the parent’s **_adjusted taxable income_** is the amount that applies under subsection 60(2) or 60(3).
 
-          (1A)  The **_application period_** for an election under subsection 60(1) relating to a year of income is the period that:
+          (1A)  The **_application period_** for an election under subsection 60(1) relating to a year of income is the period that:
 
                      (a)  starts:
 
@@ -3903,7 +3838,7 @@ then, for the purposes of so assessing the parent, the parent’s **_adjusted ta
 
                               (i)  at the end of the last day of that year of income; or
 
-                             (ii)  if the parent revokes the election before that day and makes another election (the **_later election_**) under subsection 62A(1) relating to the year of income—at the end of the day before the start day for the later election.
+                             (ii)  if the parent revokes the election before that day and makes another election (the **_later election_**) under subsection 62A(1) relating to the year of income—at the end of the day before the start day for the later election.
 
              (2)  Subsection (1) has effect subject to an income amount order that is made after the making of the election that applies in relation to the parent and any part of the application period for the election.
 
@@ -3923,7 +3858,7 @@ then, for the purposes of so assessing the parent, the parent’s **_adjusted ta
 
              (1)  A parent who has made an income election relating to a year of income may, by notice given to the Registrar, revoke the income election.
 
-Note:          If the application period for the income election has started, the parent must make a new election under subsection 62A(1).
+Note:          If the application period for the income election has started, the parent must make a new election under subsection 62A(1).
 
              (2)  The notice must be given in the manner specified by the Registrar.
 
@@ -3933,7 +3868,7 @@ Note:          Section 150A provides for the Registrar to sp
 
              (1)  If:
 
-                     (a)  under subsection 62(1), a parent revokes an income election (the **_earlier election_**) relating to a year of income; and
+                     (a)  under subsection 62(1), a parent revokes an income election (the **_earlier election_**) relating to a year of income; and
 
                      (b)  at the time of the revocation, the application period for the earlier election has started;
 
@@ -3967,7 +3902,7 @@ Start day
 
                      (b)  the amount that would be worked out under subsection (1) for an election under that subsection if the start day for that election was the day on which the event occurred is more than:
 
-                              (i)  if subsection 60(2) or (3) applied to the earlier election—the amount that applied under that subsection; or
+                              (i)  if subsection 60(2) or (3) applied to the earlier election—the amount that applied under that subsection; or
 
                              (ii)  if the earlier election was made under subsection (1) of this section—the amount worked out under that subsection;
 
@@ -3989,7 +3924,7 @@ How election is made
 
              (1)  If:
 
-                     (a)  a parent makes an election under subsection 62A(1) relating to the year of income; and
+                     (a)  a parent makes an election under subsection 62A(1) relating to the year of income; and
 
                      (b)  the parent is to be assessed in respect of the costs of a child of the parent for a day in a child support period; and
 
@@ -3997,7 +3932,7 @@ How election is made
 
 then, for the purposes of so assessing the parent, the parent’s **_adjusted taxable income_** is the amount worked out under that subsection.
 
-             (2)  The **_application period_** for an election under subsection 62A(1) relating to a year of income is the period that:
+             (2)  The **_application period_** for an election under subsection 62A(1) relating to a year of income is the period that:
 
                      (a)  starts on the start day for the election unless the election is revoked before that day; and
 
@@ -4005,13 +3940,13 @@ then, for the purposes of so assessing the parent, the parent’s **_adjusted ta
 
                               (i)  at the end of the last day of the year of income; or
 
-                             (ii)  if the parent revokes the election before that day and makes another election (the **_later election_**) under subsection 62A(1) relating to the year of income—at the end of the day before the start day for the later election.
+                             (ii)  if the parent revokes the election before that day and makes another election (the **_later election_**) under subsection 62A(1) relating to the year of income—at the end of the day before the start day for the later election.
 
           (2A)  Subsection (1) has effect subject to an income amount order that applies in relation to the parent and any part of the application period for the later election.
 
              (3)  The Registrar must immediately take such action as is necessary to give effect to subsection (1) in relation to any administrative assessment that has been made in relation to the parent (whether by amending the assessment or otherwise).
 
-             (4)  Subject to any further election made under subsection 62A(1), in subsequently making any administrative assessment in relation to the parent, the Registrar must act in accordance with subsection (1).
+             (4)  Subject to any further election made under subsection 62A(1), in subsequently making any administrative assessment in relation to the parent, the Registrar must act in accordance with subsection (1).
 
              (5)  This section does not prevent:
 
@@ -4025,21 +3960,21 @@ then, for the purposes of so assessing the parent, the parent’s **_adjusted ta
 
              (1)  If:
 
-                     (a)  a parent makes an income election to which subsection 60(2) applies; and
+                     (a)  a parent makes an income election to which subsection 60(2) applies; and
 
                      (b)  the Registrar is satisfied that the amount worked out under that subsection is less than the amount that the Registrar considers is likely to be the parent’s actual adjusted taxable income for the year of income to which the income election relates;
 
 the Registrar may refuse to accept the income election.
 
-             (2)  The Registrar may refuse to accept a parent’s income election to which subsection 60(3) applies if the Registrar is satisfied that:
+             (2)  The Registrar may refuse to accept a parent’s income election to which subsection 60(3) applies if the Registrar is satisfied that:
 
                      (a)  the partial year income amount for the income election is less than the amount that the Registrar considers is likely to be the parent’s actual adjusted taxable income for the remaining period in relation to the income election; or
 
-                     (b)  the total of the income component amounts estimated by the parent under paragraph 60(3)(b) for the period referred to in that paragraph is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for that period.
+                     (b)  the total of the income component amounts estimated by the parent under paragraph 60(3)(b) for the period referred to in that paragraph is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for that period.
 
              (3)  If:
 
-                     (a)  a parent makes an election under subsection 62A(1); and
+                     (a)  a parent makes an election under subsection 62A(1); and
 
                      (b)  the Registrar is satisfied that the partial year income amount for the income election is less than the amount that the Registrar considers is likely to be the parent’s actual adjusted taxable income for the remaining period in relation to the income election;
 
@@ -4073,13 +4008,13 @@ the Registrar may refuse to accept the income election.
 
                      (a)   either of the following apply:
 
-                              (i)  a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies;
+                              (i)  a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies;
 
                              (ii)  a parent has made an election in relation to a year of income under this subsection; and
 
                      (b)  the parent becomes satisfied that the following amount (the **_year to date income amount_**) is incorrect:
 
-                              (i)  if subparagraph (a)(i) applies—the total of the income component amounts estimated by the parent under paragraph 60(3)(b);
+                              (i)  if subparagraph (a)(i) applies—the total of the income component amounts estimated by the parent under paragraph 60(3)(b);
 
                              (ii)  if subparagraph (a)(ii) applies—the amount specified under paragraph (3)(a) of this section in the notice of the election; and
 
@@ -4093,13 +4028,13 @@ the parent may elect another amount (the **_new amount_**) to replace the year t
 
                      (a)  the new amount; and
 
-                     (b)  the parent’s estimate of each income component amount for the period referred to in paragraph 60(3)(b).
+                     (b)  the parent’s estimate of each income component amount for the period referred to in paragraph 60(3)(b).
 
 ##### <a id="63AD"></a>63AD  Registrar may refuse to accept an election of a new year to date income amount
 
 Refusal to accept election
 
-             (1)  The Registrar may refuse to accept an election made by a parent under subsection 63AC(1) if the Registrar is satisfied that the amount specified under paragraph 63AC(3)(a) in the notice of the election is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for the period referred to in paragraph 60(3)(b).
+             (1)  The Registrar may refuse to accept an election made by a parent under subsection 63AC(1) if the Registrar is satisfied that the amount specified under paragraph 63AC(3)(a) in the notice of the election is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for the period referred to in paragraph 60(3)(b).
 
              (2)  In making the decision as to whether to refuse to accept the election, the Registrar:
 
@@ -4111,7 +4046,7 @@ Refusal to accept election
 
 Notice of refusal
 
-             (4)  If the Registrar refuses under subsection (1) to accept a parent’s election made under subsection 63AC(1), the Registrar must give written notice of the decision to the parent.
+             (4)  If the Registrar refuses under subsection (1) to accept a parent’s election made under subsection 63AC(1), the Registrar must give written notice of the decision to the parent.
 
              (5)  The notice must include, or be accompanied by, a statement to the effect:
 
@@ -4127,17 +4062,17 @@ Notice of refusal
 
                      (a)  any of the following apply:
 
-                              (i)  a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies;
+                              (i)  a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies;
 
-                             (ii)  a parent has made an election in relation to a year of income under subsection 63AC(1);
+                             (ii)  a parent has made an election in relation to a year of income under subsection 63AC(1);
 
                             (iii)  the Registrar has made a determination under this subsection in relation to a parent and a year of income; and
 
                      (b)  the Registrar becomes satisfied that the following amount (the **_year to date income amount_**) is incorrect:
 
-                              (i)  if subparagraph (a)(i) applies—the total of the income component amounts estimated by the parent under paragraph 60(3)(b);
+                              (i)  if subparagraph (a)(i) applies—the total of the income component amounts estimated by the parent under paragraph 60(3)(b);
 
-                             (ii)  if subparagraph (a)(ii) applies—the amount specified under paragraph 63AC(3)(a) in the notice of the election;
+                             (ii)  if subparagraph (a)(ii) applies—the amount specified under paragraph 63AC(3)(a) in the notice of the election;
 
                             (iii)  is subparagraph (a)(iii) applies—the amount specified in the determination;
 
@@ -4157,21 +4092,21 @@ the Registrar may determine another amount to replace the year to date income am
 
              (1)  If:
 
-                     (a)  a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies; and
+                     (a)  a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies; and
 
                      (b)  subsection (2) of this section does not apply in relation to the parent;
 
-the total of the income component amounts estimated by the parent under paragraph 60(3)(b) is the parent’s **_applicable YTD income amount_** for that year.
+the total of the income component amounts estimated by the parent under paragraph 60(3)(b) is the parent’s **_applicable YTD income amount_** for that year.
 
              (2)  If either or both of the following have occurred:
 
-                     (a)  a parent has made one or more elections in relation to a year of income under subsection 63AC(1);
+                     (a)  a parent has made one or more elections in relation to a year of income under subsection 63AC(1);
 
-                     (b)  the Registrar has made one or more determinations under subsection 63AE(1) in relation to a parent and a year of income;
+                     (b)  the Registrar has made one or more determinations under subsection 63AE(1) in relation to a parent and a year of income;
 
 the parent’s **_applicable YTD income amount_** for the year of income is:
 
-                     (c)  the amount specified under paragraph 63AC(3)(a) in the notice of such an election, if that election was the last of those elections or determinations to be made; or
+                     (c)  the amount specified under paragraph 63AC(3)(a) in the notice of such an election, if that election was the last of those elections or determinations to be made; or
 
                      (d)  the amount determined in such a determination, if that determination was the last of those elections or determinations to be made.
 
@@ -4183,11 +4118,11 @@ the parent’s **_applicable YTD income amount_** for the year of income is:
 
                      (a)  those days occur in the application period for an income election that the parent has made; and
 
-                     (b)  the Registrar has given the parent a notice under section 160 or subsection 162A(2) requiring or requesting the parent to notify the Registrar of the occurrence of an event that may affect the accuracy of an estimate on which the election is based.
+                     (b)  the Registrar has given the parent a notice under section 160 or subsection 162A(2) requiring or requesting the parent to notify the Registrar of the occurrence of an event that may affect the accuracy of an estimate on which the election is based.
 
-             (2)  If the parent gives notice of the event as required or requested under section 160 or subsection 162A(2), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the parent gives notice.
+             (2)  If the parent gives notice of the event as required or requested under section 160 or subsection 162A(2), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the parent gives notice.
 
-             (3)  If the parent does not give notice of the event as required or requested under section 160 or subsection 162A(2), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the event occurred.
+             (3)  If the parent does not give notice of the event as required or requested under section 160 or subsection 162A(2), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the event occurred.
 
              (4)  This section does not:
 
@@ -4195,7 +4130,7 @@ the parent’s **_applicable YTD income amount_** for the year of income is:
 
                      (b)  prevent the Registrar from making a new assessment for part of the child support period.
 
-Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
 
 ##### <a id="63B"></a>63B  Amendment of assessment based on income election if Registrar asks for information supporting estimate
 
@@ -4203,7 +4138,7 @@ Note:          This section does not limit the power under sec
 
                      (a)  those days occur in the application period for an income election that the parent has made; and
 
-                     (b)  the Registrar has given the parent a notice under section 161 or subsection 162A(1) or (4) requiring or requesting the parent to:
+                     (b)  the Registrar has given the parent a notice under section 161 or subsection 162A(1) or (4) requiring or requesting the parent to:
 
                               (i)  give the Registrar information; or
 
@@ -4213,9 +4148,9 @@ Note:          This section does not limit the power under sec
 
                             relevant to determining the accuracy of an estimate on which the election is based.
 
-             (2)  If the parent complies with section 161 or subsection 162A(1) or (4) (in relation to the notice), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the parent complies.
+             (2)  If the parent complies with section 161 or subsection 162A(1) or (4) (in relation to the notice), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the parent complies.
 
-             (3)  If the parent does not comply with section 161 or subsection 162A(1) or (4) (in relation to the notice), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after:
+             (3)  If the parent does not comply with section 161 or subsection 162A(1) or (4) (in relation to the notice), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after:
 
                      (a)  the day the income election was made; or
 
@@ -4223,9 +4158,9 @@ Note:          This section does not limit the power under sec
 
                               (i)  before the Registrar gave the notice but after the income election was made, the Registrar had given the parent another notice (the **_earlier notice_**) of the kind described in paragraph (1)(b); and
 
-                             (ii)  the parent complied with section 161 or subsection 162A(1) or (4) in relation to the earlier notice;
+                             (ii)  the parent complied with section 161 or subsection 162A(1) or (4) in relation to the earlier notice;
 
-                            the day on which the parent complied with section 161 or subsection 162A(1) or (4) in relation to the earlier notice.
+                            the day on which the parent complied with section 161 or subsection 162A(1) or (4) in relation to the earlier notice.
 
              (4)  This section does not:
 
@@ -4233,7 +4168,7 @@ Note:          This section does not limit the power under sec
 
                      (b)  prevent the Registrar from making a new assessment for part of the child support period.
 
-Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
 
 ##### <a id="63C"></a>63C  Amendment of assessment in minimum rate cases
 
@@ -4249,7 +4184,7 @@ Note:          This section does not limit the power under sec
 
              (3)  This section does not prevent the Registrar from making a new assessment for part of the child support period.
 
-Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+Note:          This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
 
 ### Division 7A—Reconciliation of estimates of adjusted taxable income
 
@@ -4265,7 +4200,7 @@ Note:          This section does not limit the power under sec
 
                      (c)  the parent’s actual adjusted taxable income for the year of income has been ascertained by the Registrar; and
 
-                     (d)  if the Registrar has made a determination under subsection 64AB(1) in relation to the parent—the parent’s actual adjusted taxable income for the year of income is more than the parent’s determined ATI for that year; and
+                     (d)  if the Registrar has made a determination under subsection 64AB(1) in relation to the parent—the parent’s actual adjusted taxable income for the year of income is more than the parent’s determined ATI for that year; and
 
                      (e)  if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent—the Registrar determines that this section should apply in relation to the parent.
 
@@ -4273,7 +4208,7 @@ Reconciliation—election for a whole year of income
 
              (2)  Subject to this section, if:
 
-                     (a)  subsection 60(2) applied to the income election; and
+                     (a)  subsection 60(2) applied to the income election; and
 
                      (b)  the parent’s actual adjusted taxable income for the year of income is more than the amount that applied under that subsection;
 
@@ -4283,7 +4218,7 @@ Reconciliation—election for a part of a year of income
 
              (3)  Subject to this section, if:
 
-                     (a)  subsection 60(3) applied to the income election; and
+                     (a)  subsection 60(3) applied to the income election; and
 
                      (b)  the difference between:
 
@@ -4291,7 +4226,7 @@ Reconciliation—election for a part of a year of income
 
                              (ii)  the parent’s applicable year to date income amount for the year of income;
 
-                            is more than the partial year income amount worked out by the parent under subsection 60(4);
+                            is more than the partial year income amount worked out by the parent under subsection 60(4);
 
 the parent’s adjusted taxable income for a day that occurs in the application period for the income election is taken to be, and to have always been, the amount worked out under subsection (4).
 
@@ -4315,7 +4250,7 @@ Income amount orders
 
                      (c)  the parent’s actual adjusted taxable income for the year of income has been ascertained by the Registrar; and
 
-                     (d)  if the Registrar has made a determination under subsection 64AB(1) in relation to the parent—the parent’s actual adjusted taxable income for the year of income is more than the parent’s determined ATI for that year; and
+                     (d)  if the Registrar has made a determination under subsection 64AB(1) in relation to the parent—the parent’s actual adjusted taxable income for the year of income is more than the parent’s determined ATI for that year; and
 
                      (e)  if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent—the Registrar determines that this section should apply in relation to the parent.
 
@@ -4339,15 +4274,15 @@ _Method statement_
 
 Step 1.   For each income election relating to the year of income that had an application period that ended before the last day of the year of income:
 
-               (a)     if subsection 60(2) applied to the income election—divide the amount that applied under that subsection by 365; or
+               (a)     if subsection 60(2) applied to the income election—divide the amount that applied under that subsection by 365; or
 
-              (b)     otherwise—divide the partial year income amount worked out under subsection 60(4) or 62A(1) by the number of days in the remaining period to which the income election related.
+              (b)     otherwise—divide the partial year income amount worked out under subsection 60(4) or 62A(1) by the number of days in the remaining period to which the income election related.
 
 Step 2.   For each of those income elections, multiply the result of step 1 by the number of days in the application period for the income election.
 
 Step 3.   Add up each of the amounts worked out under step 2.
 
-Step 4.   Add the result of step 3 and the partial year income amount worked out under subsection 62A(1) for the last income election relating to the year of income that was made by the parent.
+Step 4.   Add the result of step 3 and the partial year income amount worked out under subsection 62A(1) for the last income election relating to the year of income that was made by the parent.
 
 * * *
 
@@ -4369,7 +4304,7 @@ Step 4.   For each of those income elections, add the underestimated amount 
 
                (a)     if the income election had an application period that ended before the last day of the year of income—the amount worked out for the income election under step 2 of the method statement in subsection (3); or
 
-              (b)     otherwise—the partial year income amount worked out under subsection 62A(1) for the income election.
+              (b)     otherwise—the partial year income amount worked out under subsection 62A(1) for the income election.
 
 Step 5.   For each of those income elections:
 
@@ -4421,7 +4356,7 @@ the Registrar may determine that an amount that the Registrar considers appropri
 
                      (b)  the parent did not make more than one income election relating to the year of income; and
 
-                     (c)  the Registrar makes a determination under subsection 64AB(1) in relation to the parent; and
+                     (c)  the Registrar makes a determination under subsection 64AB(1) in relation to the parent; and
 
                      (d)  if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent—the Registrar determines that this section should apply in relation to the parent.
 
@@ -4429,7 +4364,7 @@ Reconciliation—election for a whole year of income
 
              (2)  Subject to this section, if:
 
-                     (a)  subsection 60(2) applied to the income election; and
+                     (a)  subsection 60(2) applied to the income election; and
 
                      (b)  the parent’s determined ATI for the year of income is more than the amount that applied under that subsection;
 
@@ -4439,7 +4374,7 @@ Reconciliation—election for a part of a year of income
 
              (3)  Subject to this section, if:
 
-                     (a)  subsection 60(3) applied to the income election; and
+                     (a)  subsection 60(3) applied to the income election; and
 
                      (b)  the difference between:
 
@@ -4447,7 +4382,7 @@ Reconciliation—election for a part of a year of income
 
                              (ii)  the parent’s applicable year to date income amount for the year of income;
 
-                            is more than the partial year income amount worked out by the parent under subsection 60(4);
+                            is more than the partial year income amount worked out by the parent under subsection 60(4);
 
 the parent’s adjusted taxable income for a day that occurs in the application period for the income election is taken to be, and to have always been, the amount worked out under subsection (4).
 
@@ -4469,7 +4404,7 @@ Income amount orders
 
                      (b)  the parent made more than one income election relating to the year of income; and
 
-                     (c)  the Registrar makes a determination under subsection 64AB(1) in relation to the parent; and
+                     (c)  the Registrar makes a determination under subsection 64AB(1) in relation to the parent; and
 
                      (d)  if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent—the Registrar determines that this section should apply in relation to the parent.
 
@@ -4493,15 +4428,15 @@ _Method statement_
 
 Step 1.   For each income election relating to the year of income that had an application period that ended before the last day of the year of income:
 
-               (a)     if subsection 60(2) applied to the income election—divide the amount that applied under that subsection by 365; or
+               (a)     if subsection 60(2) applied to the income election—divide the amount that applied under that subsection by 365; or
 
-              (b)     otherwise—divide the partial year income amount worked out under subsection 60(4) or 62A(1) by the number of days in the remaining period to which the income election related.
+              (b)     otherwise—divide the partial year income amount worked out under subsection 60(4) or 62A(1) by the number of days in the remaining period to which the income election related.
 
 Step 2.   For each of those income elections, multiply the result of step 1 by the number of days in the application period for the income election.
 
 Step 3.   Add up each of the amounts worked out under step 2.
 
-Step 4.   Add the result of step 3 and the partial year income amount worked out under subsection 62A(1) for the last income election relating to the year of income that was made by the parent.
+Step 4.   Add the result of step 3 and the partial year income amount worked out under subsection 62A(1) for the last income election relating to the year of income that was made by the parent.
 
 * * *
 
@@ -4523,7 +4458,7 @@ Step 4.   For each of those income elections, add the underestimated amount 
 
                (a)     if the income election had an application period that ended before the last day of the year of income—the amount worked out for the income election under step 2 of the method statement in subsection (3); or
 
-              (b)     otherwise—the partial year income amount worked out under subsection 62A(1) for the income election.
+              (b)     otherwise—the partial year income amount worked out under subsection 62A(1) for the income election.
 
 Step 5.   For each of those income elections:
 
@@ -4555,15 +4490,15 @@ Income amount orders
 
              (2)  If the parent did not make more than one income election relating to the year of income, the parent has **_underestimated an income amount_** in making the income election if:
 
-                     (a)  in a case where subsection 60(2) applied to the income election—the parent’s actual adjusted taxable income for the year of income is at least 110% of the amount that applied under that subsection; or
+                     (a)  in a case where subsection 60(2) applied to the income election—the parent’s actual adjusted taxable income for the year of income is at least 110% of the amount that applied under that subsection; or
 
-                     (b)  in a case where subsection 60(3) applied to the income election—the amount worked out by subtracting:
+                     (b)  in a case where subsection 60(3) applied to the income election—the amount worked out by subtracting:
 
                               (i)  the parent’s applicable year to date income amount for the year of income; from
 
                              (ii)  the parent’s actual adjusted taxable income for the year of income;
 
-                            is at least 110% of the partial year income amount worked out by the parent under subsection 60(4).
+                            is at least 110% of the partial year income amount worked out by the parent under subsection 60(4).
 
              (3)  If the parent made more than one income election relating to the year of income, the parent has **_underestimated an income amount_** in making the income elections if the amount worked out by subtracting:
 
@@ -4571,21 +4506,21 @@ Income amount orders
 
                      (b)  the parent’s actual adjusted taxable income for the year of income;
 
-is at least 110% of the parent’s estimated ATI amount for the year of income worked out under subsection 64A(3).
+is at least 110% of the parent’s estimated ATI amount for the year of income worked out under subsection 64A(3).
 
 ##### <a id="64AG"></a>64AG  Amount of penalty
 
-             (1)  If a parent is liable under subsection 64AF(1) to pay a penalty, the amount of the penalty for each income election made by the parent relating to the year of income is 10% of the difference between:
+             (1)  If a parent is liable under subsection 64AF(1) to pay a penalty, the amount of the penalty for each income election made by the parent relating to the year of income is 10% of the difference between:
 
                      (a)  the administrative assessment of child support made under section 64AA in relation to the parent; and
 
-                     (b)  the administrative assessment of child support that would have been made if it were based entirely on the amount that applied under subsection 60(2) or (3), or that was worked out under subsection 62A(1).
+                     (b)  the administrative assessment of child support that would have been made if it were based entirely on the amount that applied under subsection 60(2) or (3), or that was worked out under subsection 62A(1).
 
              (2)  The penalty is a debt due to the Commonwealth by the parent and is due and payable on the issue of the administrative assessment of child support made under section 64AA in relation to the parent.
 
 ##### <a id="64AH"></a>64AH  Remission of penalty
 
-             (1)  The Registrar may remit the whole or a part of a penalty that a parent who made an income election is liable to pay under subsection 64AF(1) if:
+             (1)  The Registrar may remit the whole or a part of a penalty that a parent who made an income election is liable to pay under subsection 64AF(1) if:
 
                      (a)  the parent underestimated an income amount in making the income election because of an amendment of an Income Tax Assessment Act, or because of a ruling or determination under that Act; or
 
@@ -4657,7 +4592,7 @@ Assessment of annual rate
 
                               (i)  if subparagraph (ii) does not apply—the parent’s adjusted taxable income determined in accordance with section 43 for the last relevant year of income for the child support period;
 
-                             (ii)  if the day occurs in the application period for an income election made by the parent—the amount that applied under subsection 60(2) or (3), or that was worked out under subsection 62A(1); and
+                             (ii)  if the day occurs in the application period for an income election made by the parent—the amount that applied under subsection 60(2) or (3), or that was worked out under subsection 62A(1); and
 
                      (c)  the parent does not have at least shared care of the child during the relevant care period.
 
@@ -4667,11 +4602,11 @@ How much is the annual rate
 
 Note:          The annual rate of child support specified in subsection (2) is indexed under section 153A.
 
-             (3)  The Registrar must not assess the total annual rate of child support payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for a day in a child support period as more than 3 times the rate specified in subsection (2).
+             (3)  The Registrar must not assess the total annual rate of child support payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for a day in a child support period as more than 3 times the rate specified in subsection (2).
 
-             (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
+             (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image018.gif)
 
           (4A)  For the purposes of subsection (4), if a parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction, then that child support is taken to be payable by the parent for those children under subsection (1).
 
@@ -4695,7 +4630,7 @@ Note:          Under section 40B, a non‑parent carer of a 
 
                      (b)  the parent is taken to have applied to the Registrar for the section not to apply if, immediately before the end of the previous child support period, the section did not apply because of a determination under this section.
 
-             (2)  The parent making the application must provide evidence to the Registrar concerning the parent’s income (within the meaning of subsection 66A(4)) to demonstrate that his or her current income is:
+             (2)  The parent making the application must provide evidence to the Registrar concerning the parent’s income (within the meaning of subsection 66A(4)) to demonstrate that his or her current income is:
 
                      (a)  less than the pension PP (single) maximum basic amount; and
 
@@ -4703,7 +4638,7 @@ Note:          Under section 40B, a non‑parent carer of a 
 
              (3)  An assessment issued by the Commissioner of Taxation for the last relevant year of income shall not be sufficient evidence of the income of the parent for the purposes of this section. 
 
-             (4)  If the parent makes an application, the Registrar may determine in writing that the section not apply to the parent if the parent’s current income (within the meaning of subsection 66A(4)) is less than the pension PP (single) maximum basic amount and it would be unjust and inequitable to expect him or her to pay the amount assessed under this section.
+             (4)  If the parent makes an application, the Registrar may determine in writing that the section not apply to the parent if the parent’s current income (within the meaning of subsection 66A(4)) is less than the pension PP (single) maximum basic amount and it would be unjust and inequitable to expect him or her to pay the amount assessed under this section.
 
 Note:          If the Registrar refuses to grant an application under this section, the Registrar must serve a notice on the applicant under section 66C.
 
@@ -4749,7 +4684,7 @@ Note:          The minimum annual rate of child support specif
 
 then the **_annual rate of child support_** payable by the parent for a day in the child support period for a particular child support case is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image019.gif)
 
           (6A)  For the purposes of subsection (6), if a parent is liable to pay child support for one or more children for a day under an administrative assessment under the law of a reciprocating jurisdiction, then the parent is taken to be assessed for the day in respect of the costs of children in a child support case.
 
@@ -4783,7 +4718,7 @@ Definition of **income support payment**
 
                     <a name="incom-support-payment"></a>**_income support payment_**:
 
-                     (a)  has the meaning given by subsection 23(1) of the _Social Security Act 1991_; and
+                     (a)  has the meaning given by subsection 23(1) of the _Social Security Act 1991_; and
 
                      (b)  includes a payment under the ABSTUDY scheme that includes an amount identified as living allowance, being an allowance that is paid at the maximum basic rate.
 
@@ -4795,9 +4730,9 @@ Definition of **income support payment**
 
                      (b)  either:
 
-                              (i)  nominates the whole (the **_nominated period_**) of that child support period (if the first day of that child support period is the day referred to in paragraph 66(4)(a)); or
+                              (i)  nominates the whole (the **_nominated period_**) of that child support period (if the first day of that child support period is the day referred to in paragraph 66(4)(a)); or
 
-                             (ii)  nominates a part (the **_nominated period_**) of that child support period, being a part that is at least 2 months and that begins on or after the day referred to in paragraph 66(4)(a);
+                             (ii)  nominates a part (the **_nominated period_**) of that child support period, being a part that is at least 2 months and that begins on or after the day referred to in paragraph 66(4)(a);
 
 reduce the annual rate of child support payable by the parent for those children for the nominated period to nil. This subsection is subject to subsection (3C).
 
@@ -4809,17 +4744,17 @@ Note:          If the Registrar refuses to grant an applicatio
 
              (3)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image020.gif)
 
           (3A)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image021.gif)
 
           (3B)  For the purposes of subsection (3A), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
 
           (3C)  A reduction under subsection (1) has no effect in relation to a day to which the assessment under section 66 does not apply.
 
-Note:          Subsection 66(4) deals with when an assessment under section 66 applies.
+Note:          Subsection 66(4) deals with when an assessment under section 66 applies.
 
              (4)  In this section:
 
@@ -4839,7 +4774,7 @@ Note:          Subsection 66(4) deals with when an assessmen
 
                              (ii)  under section 66A, the Registrar has reduced an annual rate of child support payable by a parent to nil; and
 
-                     (b)  the Registrar becomes satisfied that the parent does not satisfy the condition in subsection 65B(4) or 66A(2) (as the case requires).
+                     (b)  the Registrar becomes satisfied that the parent does not satisfy the condition in subsection 65B(4) or 66A(2) (as the case requires).
 
 ##### <a id="66C"></a>66C  Notice to be given to unsuccessful applicant
 
@@ -5123,11 +5058,11 @@ themselves the child support that is to be payable for the child.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      There are 2 sorts of
 
-agreements. The first is a binding child support agreement. Each party to the agreement
+agreements. The first is a binding child support agreement. Each party to the
 
-must have received legal advice before entering the agreement, and must also
+agreement must have received legal advice before entering the agreement, and
 
-receive legal advice before terminating the agreement.</li>
+must also receive legal advice before terminating the agreement.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The second sort of
 
@@ -5155,13 +5090,13 @@ form of periodic amounts. There are 2 main kinds of such provisions:</li>
 
 payment provisions reduce the annual rate of child support payable.</li>
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Payments
+<li class="BoxList" style="margin-left:21.25pt">•      Payments made under lump
 
-made under lump sum payment provisions are credited against the amount payable
+sum payment provisions are credited against the amount payable under the
 
-under the liability of a party to the agreement (rather than reducing the
+liability of a party to the agreement (rather than reducing the annual rate of
 
-annual rate of child support payable).</li>
+child support payable).</li>
 
 * * *
 
@@ -5179,7 +5114,7 @@ annual rate of child support payable).</li>
 
                      (a)  the agreement is binding on the parties to the agreement in accordance with subsection (2); and
 
-                     (b)  the agreement complies with subsection 81(2).
+                     (b)  the agreement complies with subsection 81(2).
 
              (2)  For the purposes of subsection (1), an agreement is binding on the parties to the agreement if, and only if:
 
@@ -5269,7 +5204,7 @@ Note:          For the manner in which the contents of a termi
 
                      (b)  it is signed by the parties to the agreement; and
 
-                     (c)  it complies with subsection 81(2); and
+                     (c)  it complies with subsection 81(2); and
 
                      (d)  either:
 
@@ -5277,7 +5212,7 @@ Note:          For the manner in which the contents of a termi
 
                              (ii)  it has been accepted by the Registrar under section 98U.
 
-Note:          In addition to the requirements in this section, there must be an administrative assessment in force in relation to the child in respect of whom the agreement is made (see subsection 92(3)).
+Note:          In addition to the requirements in this section, there must be an administrative assessment in force in relation to the child in respect of whom the agreement is made (see subsection 92(3)).
 
 Child support payable on day application for acceptance of agreement is made to Registrar
 
@@ -5461,7 +5396,7 @@ Additional requirements of agreements with non‑periodic payment provisions
 
                      (b)  that the annual rate of child support payable under the administrative assessment is to be reduced by 100% or another specified percentage that is less than 100%.
 
-Note:          Non‑periodic payment provisions are taken to have effect as if they were a statement made by a court under section 125 in an order made under section 124 (see subsection 95(3)).
+Note:          Non‑periodic payment provisions are taken to have effect as if they were a statement made by a court under section 125 in an order made under section 124 (see subsection 95(3)).
 
 Additional requirements etc. of agreements with lump sum payment provisions
 
@@ -5505,7 +5440,7 @@ the document may be treated as if it contained separate agreements made in relat
 
                               (i)  the agreement is a child support agreement; or
 
-                             (ii)  the agreement is a termination agreement or a written agreement referred to in paragraph 80G(1)(b); and
+                             (ii)  the agreement is a termination agreement or a written agreement referred to in paragraph 80G(1)(b); and
 
                      (b)  the application complies with section 89.
 
@@ -5523,7 +5458,7 @@ Note:          Section 150A provides for the Registrar to sp
 
 ##### <a id="91"></a>91  How decision is to be made
 
-                   In determining whether an agreement made in relation to a child is an agreement referred to in paragraph 88(a), the Registrar may act on the basis of the application made to the Registrar for acceptance of the agreement, the documents accompanying the application and the agreement itself, and is not required to conduct any inquiries or investigations into the matter.
+                   In determining whether an agreement made in relation to a child is an agreement referred to in paragraph 88(a), the Registrar may act on the basis of the application made to the Registrar for acceptance of the agreement, the documents accompanying the application and the agreement itself, and is not required to conduct any inquiries or investigations into the matter.
 
 ##### <a id="92"></a>92  Decision on application
 
@@ -5537,7 +5472,7 @@ Note:          Section 150A provides for the Registrar to sp
 
                      (a)  immediately before the application is made, an administrative assessment is in force in relation to the child and the 2 parties to the agreement; and
 
-                     (b)  the application for administrative assessment was made, in accordance with paragraph 29B(1)(b), by an overseas authority of a reciprocating jurisdiction on behalf of the one of the parties to the agreement; and
+                     (b)  the application for administrative assessment was made, in accordance with paragraph 29B(1)(b), by an overseas authority of a reciprocating jurisdiction on behalf of the one of the parties to the agreement; and
 
                      (d)  the overseas authority does not approve the acceptance of the agreement.
 
@@ -5587,7 +5522,7 @@ Note:          After accepting the agreement, section 34B or
 
              (2)  In making any administrative assessment in relation to the child, the Registrar must act in accordance with section 95 (effect of certain provisions of accepted child support agreements).
 
-             (3)  After the Registrar accepts a termination agreement, or a written agreement referred to in paragraph 80G(1)(b), the Registrar must immediately take such further action (if any) as is necessary to give effect to the agreement _._
+             (3)  After the Registrar accepts a termination agreement, or a written agreement referred to in paragraph 80G(1)(b), the Registrar must immediately take such further action (if any) as is necessary to give effect to the agreement _._
 
 ##### <a id="95"></a>95  Effect of certain provisions of accepted child support agreements
 
@@ -5611,7 +5546,7 @@ the provisions have effect, for the purposes of Part 5, as if they were an ord
 
 Note 1:       The effect of paragraph (3)(a) is that the Registrar must make any subsequent administrative assessment on the basis of the annual rate of child support as reduced by the amount or percentage specified in the child support agreement (see section 127).
 
-Note 2:       This section does not deal with lump sum payment provisions (see paragraph 84(1)(e) of this Act and section 69A of the Registration and Collection Act).
+Note 2:       This section does not deal with lump sum payment provisions (see paragraph 84(1)(e) of this Act and section 69A of the Registration and Collection Act).
 
              (5)  The provisions of the agreement have effect despite any inconsistency with a court order made before the agreement was entered into.
 
@@ -5701,7 +5636,7 @@ is of the view that, because of special circumstances that exist, the provisions
 
 Note 1:       For the determinations that the Registrar may make under this Part see section 98S.
 
-Note 2:       The Registrar may only make a determination under this Part in respect of a day that is more than 18 months earlier than the day on which the relevant application is made with a court’s leave under section 112 (see subsection 98S(3B)).
+Note 2:       The Registrar may only make a determination under this Part in respect of a day that is more than 18 months earlier than the day on which the relevant application is made with a court’s leave under section 112 (see subsection 98S(3B)).
 
              (2)  The parties to the proceedings under this Division are the liable parent and the carer entitled to child support.
 
@@ -5727,11 +5662,11 @@ the Registrar may make the determination.
 
              (2)  For the purposes of subparagraph (1)(b)(i):
 
-                     (a)  the grounds for departure from the provisions of this Act relating to administrative assessment of child support in relation to the child are the same as the grounds for departure set out in subsection 117(2); and
+                     (a)  the grounds for departure from the provisions of this Act relating to administrative assessment of child support in relation to the child are the same as the grounds for departure set out in subsection 117(2); and
 
-                     (b)  subparagraph 117(2)(b)(ib) has effect subject to subsections 117(3A) to (3C).
+                     (b)  subparagraph 117(2)(b)(ib) has effect subject to subsections 117(3A) to (3C).
 
-             (3)  Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her powers under this Division as if:
+             (3)  Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her powers under this Division as if:
 
                      (a)  any reference in those subsections to the court were a reference to the Registrar; and
 
@@ -5769,7 +5704,7 @@ the Registrar may refuse to make the determination without taking any further ac
 
 ##### <a id="98G"></a>98G  Other party to be notified
 
-             (1)  If section 98E or 98F or subsection 98J(2) does not apply, the Registrar must cause a copy of:
+             (1)  If section 98E or 98F or subsection 98J(2) does not apply, the Registrar must cause a copy of:
 
                      (a)  the application; and
 
@@ -5793,9 +5728,9 @@ to be served on the other party to the proceedings.
 
                      (b)  may, but is not required to, conduct any inquiry or investigation into the matter.
 
-             (2)  Except where the Registrar refuses to make a determination under section 98E or 98F or subsection 98J(2) in respect of an application, the Registrar must give an opportunity to the applicant and the other party to appear before the Registrar, and be heard by him or her, if they so wish.
+             (2)  Except where the Registrar refuses to make a determination under section 98E or 98F or subsection 98J(2) in respect of an application, the Registrar must give an opportunity to the applicant and the other party to appear before the Registrar, and be heard by him or her, if they so wish.
 
-Note:          Sections 98E and 98F and subsection 98J(2) provide that the Registrar may refuse to make a determination in the circumstances set out in those provisions without taking any further action under this Part.
+Note:          Sections 98E and 98F and subsection 98J(2) provide that the Registrar may refuse to make a determination in the circumstances set out in those provisions without taking any further action under this Part.
 
              (3)  Nothing in subsection (2) empowers the Registrar to compel a party to the proceeding to appear before the Registrar in the presence of the other party.
 
@@ -5849,7 +5784,7 @@ the Registrar may refuse to make a determination, without taking any further act
 
 Note 1:       For the determinations that the Registrar may make under this Part see section 98S.
 
-Note 2:       The Registrar may only make a determination under this Part in respect of a day that is more than 18 months earlier than the day on which the relevant parties are notified under section 98M with a court’s leave under section 112 (see subsection 98S(3B)).
+Note 2:       The Registrar may only make a determination under this Part in respect of a day that is more than 18 months earlier than the day on which the relevant parties are notified under section 98M with a court’s leave under section 112 (see subsection 98S(3B)).
 
              (2)  The parties to the proceedings under this Division are the liable parent and the carer entitled to child support.
 
@@ -5867,7 +5802,7 @@ Note 2:       The Registrar may only make a determination under this
 
 to make a particular determination under this Part.
 
-             (2)  Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her powers under this section as if:
+             (2)  Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her powers under this section as if:
 
                      (a)  any reference in those subsections to the court were a reference to the Registrar; and
 
@@ -5971,7 +5906,7 @@ Note:          Section 98R provides that the Registrar may r
 
                      (e)  a determination that:
 
-                              (i)  the column in the Costs of the Children Table that covers a parent’s child support income or combined child support income that is, or is determined to be, greater than 2.5 times the annualised MTAWE figure for the relevant June quarter, is the column headed “2 to 2.5”; and
+                              (i)  the column in the Costs of the Children Table that covers a parent’s child support income or combined child support income that is, or is determined to be, greater than 2.5 times the annualised MTAWE figure for the relevant September quarter, is the column headed “2 to 2.5”; and
 
                              (ii)  the column is to apply as if the second dollar amount in the heading to that column did not apply;
 
@@ -5995,13 +5930,13 @@ Note:          There are limitations on the Registrar making a
 
                      (a)  the day on which the application for the determination is made under section 98B; or
 
-                     (b)  the day on which the Registrar notifies the relevant parties under subsection 98M(1);
+                     (b)  the day on which the Registrar notifies the relevant parties under subsection 98M(1);
 
 if a court has granted leave under section 112 for the determination to be made.
 
-          (3C)  If a court has granted leave under section 112, the Registrar may only make a determination under this Part in respect of a day in a child support period if the day is within the period specified by the court, under subsection 112(6), in the order granting the leave.
+          (3C)  If a court has granted leave under section 112, the Registrar may only make a determination under this Part in respect of a day in a child support period if the day is within the period specified by the court, under subsection 112(6), in the order granting the leave.
 
-             (4)  The Registrar must give, in writing, the reasons for making the determination (including the reasons for which the Registrar is satisfied as required by paragraph 117(1)(b)).
+             (4)  The Registrar must give, in writing, the reasons for making the determination (including the reasons for which the Registrar is satisfied as required by paragraph 117(1)(b)).
 
              (5)  A contravention of subsection (4) in relation to a determination does not affect the validity of the determination.
 
@@ -6021,13 +5956,13 @@ if a court has granted leave under section 112 for the determination to be mad
 
           (1A)  In working out whether an agreement is a limited child support agreement for the purposes of subsection (1), disregard:
 
-                     (a)  paragraph 80E(1)(d); and
+                     (a)  paragraph 80E(1)(d); and
 
-                     (b)  subsections 80E(2) to (5).
+                     (b)  subsections 80E(2) to (5).
 
              (2)  For an agreement (other than a binding child support agreement), the Registrar must not accept the agreement unless he or she is also satisfied that it would be just and equitable, as regards the child, the liable parent and the carer entitled to child support, to accept the agreement.
 
-             (3)  Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her functions under subsection (2) as if:
+             (3)  Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her functions under subsection (2) as if:
 
                      (a)  any reference in those subsections to the court were a reference to the Registrar; and
 
@@ -6159,7 +6094,7 @@ for appeals to the Family Court from other courts.</li>
 
 ##### <a id="100"></a>100  Application of Family Law Act
 
-             (1)  The _Family Law Act 1975_(other than Part X of that Act), the standard Rules of Court and the related Federal Magistrates Rules apply, subject to this Act and with such modifications as are prescribed by the applicable Rules of Court, to proceedings under this Act (other than proceedings under paragraph 79(a)) as if:
+             (1)  The _Family Law Act 1975_(other than Part X of that Act), the standard Rules of Court and the related Federal Magistrates Rules apply, subject to this Act and with such modifications as are prescribed by the applicable Rules of Court, to proceedings under this Act (other than proceedings under paragraph 79(a)) as if:
 
                      (a)  the proceedings were proceedings under Part VII of that Act; and
 
@@ -6301,11 +6236,11 @@ may be heard and determined by a single Judge or by a Full Court.
 
 ##### <a id="103"></a>103  Cases stated
 
-             (1)  If, in proceedings in a court under this Act, being proceedings in which a decree to which subsection 102(1) applies could be made, a question of law arises that the Judge and at least one of the parties wish to have determined by a Full Court of the Family Court before the proceedings are further dealt with, the Judge shall state the facts and question in the form of a special case for the opinion of a Full Court, and a Full Court shall hear and determine the question.
+             (1)  If, in proceedings in a court under this Act, being proceedings in which a decree to which subsection 102(1) applies could be made, a question of law arises that the Judge and at least one of the parties wish to have determined by a Full Court of the Family Court before the proceedings are further dealt with, the Judge shall state the facts and question in the form of a special case for the opinion of a Full Court, and a Full Court shall hear and determine the question.
 
              (2)  The Full Court may draw, from the facts and the documents, any inference, whether of fact or law, that could have been drawn from them by the Judge.
 
-             (3)  If, in proceedings in the Federal Magistrates Court, being proceedings in which a decree to which subsection 102A(1) applies could be made, a question of law arises which:
+             (3)  If, in proceedings in the Federal Magistrates Court, being proceedings in which a decree to which subsection 102A(1) applies could be made, a question of law arises which:
 
                      (a)  the Federal Magistrate; and
 
@@ -6319,7 +6254,7 @@ wish to have determined by a Full Court of the Family Court before the proceedin
 
              (4)  The Full Court may draw, from the facts and the documents, any inference, whether of fact or of law, that could have been drawn from them by the Federal Magistrate.
 
-             (5)  If, in proceedings in the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia, being proceedings in which a decree to which subsection 102A(1A) applies could be made, a question of law arises which:
+             (5)  If, in proceedings in the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia, being proceedings in which a decree to which subsection 102A(1A) applies could be made, a question of law arises which:
 
                      (a)  the Magistrate; and
 
@@ -6405,7 +6340,7 @@ person is not a parent of the child.</li>
 
              (1)  This section applies if:
 
-                     (a)  the Registrar refuses to accept from an applicant an application for administrative assessment of child support for a child under subsection 30(2); and
+                     (a)  the Registrar refuses to accept from an applicant an application for administrative assessment of child support for a child under subsection 30(2); and
 
                      (b)  one of the reasons for the Registrar so refusing was that the Registrar was not satisfied under section 29 that a person who was to be assessed in respect of the costs of the child is a parent of the child.
 
@@ -6503,7 +6438,7 @@ Note:          The excess may be recovered under section 143
 
                      (c)  there is not a decision of a court determining that ground of the application that has become final.
 
-             (3)  Subsection (2) does not apply in or in relation to the Territories and only extends to a State at a particular time if this Act does not, at that time, extend to the State because of subsection 13(1) or (2).
+             (3)  Subsection (2) does not apply in or in relation to the Territories and only extends to a State at a particular time if this Act does not, at that time, extend to the State because of subsection 13(1) or (2).
 
 ### Division 3—Application for amendment of administrative assessment that is more than 18 months old
 
@@ -6707,11 +6642,11 @@ earlier without leave of the court under section 112.</li>
 
                              (ii)  the court is satisfied that it would be in the interest of the liable parent and the carer entitled to child support for the court to consider whether an order should be made under this Division in relation to the child in the special circumstances of the case; or
 
-                     (c)  in the case of a liable parent—the administrative assessment of child support payable by the liable parent for the child is made under subsection 66(1).
+                     (c)  in the case of a liable parent—the administrative assessment of child support payable by the liable parent for the child is made under subsection 66(1).
 
 Note 1:       For the orders that a court may make under this Division see section 118.
 
-Note 2:       With a court’s leave, a court may make an order under this Division in respect of a day that is more than 18 months earlier than the day on which the relevant application was made (see subsection 118(2B)). A person is taken to have applied under this section if leave is granted.
+Note 2:       With a court’s leave, a court may make an order under this Division in respect of a day that is more than 18 months earlier than the day on which the relevant application was made (see subsection 118(2B)). A person is taken to have applied under this section if leave is granted.
 
 Note 3:       A court may make an order under this Division if the court sets aside a child support agreement under section 136.
 
@@ -6953,7 +6888,7 @@ Definition of **resident child**
 
                      (e)  an order that:
 
-                              (i)  the column in the Costs of the Children Table that covers a parent’s child support income or combined child support income that is, or is ordered to be, greater than 2.5 times the annualised MTAWE figure for the relevant June quarter, is the column headed “2 to 2.5”; and
+                              (i)  the column in the Costs of the Children Table that covers a parent’s child support income or combined child support income that is, or is ordered to be, greater than 2.5 times the annualised MTAWE figure for the relevant September quarter, is the column headed “2 to 2.5”; and
 
                              (ii)  the column is to apply as if the second dollar amount in the heading to that column did not apply;
 
@@ -6971,11 +6906,11 @@ Definition of **resident child**
 
           (2B)  A court may only make an order under this Division in respect of a day in a child support period, being a day that is more than 18 months earlier than the day on which the application for the order is made under section 116, if the court has granted leave under section 112 for the order to be made.
 
-          (2C)  If the court has granted leave under section 112, the court may only make an order under this Division in respect of a day in a child support period if the day is within the period specified by the court, under subsection 112(6), in the order granting the leave.
+          (2C)  If the court has granted leave under section 112, the court may only make an order under this Division in respect of a day in a child support period if the day is within the period specified by the court, under subsection 112(6), in the order granting the leave.
 
              (3)  If the court makes an order under this section, the court must:
 
-                     (a)  give reasons for making the order (including reasons for its satisfaction as required by paragraph 117(1)(b)); and
+                     (a)  give reasons for making the order (including reasons for its satisfaction as required by paragraph 117(1)(b)); and
 
                      (b)  cause the reasons to be entered in the records of the court.
 
@@ -7033,7 +6968,7 @@ Definition of **resident child**
 
              (1)  The court may make an order that a liable parent provide child support for a child to a carer entitled to child support in the form of a lump sum payment to be credited against the amount payable under the liability under the relevant administrative assessment if:
 
-                     (a)  the carer entitled to child support or the liable parent makes an application to a court under paragraph 123(1)(b); and
+                     (a)  the carer entitled to child support or the liable parent makes an application to a court under paragraph 123(1)(b); and
 
                      (b)  the court is satisfied that it would be:
 
@@ -7055,7 +6990,7 @@ Note:          If the court makes such an order, the lump sum 
 
                      (b)  must specify that the lump sum payment is to be credited against 100%, or another specified percentage that is less than 100%, of the amounts payable under the liability.
 
-             (4)  In determining the application made under paragraph 123(1)(b), the court must have regard to:
+             (4)  In determining the application made under paragraph 123(1)(b), the court must have regard to:
 
                      (a)  the administrative assessment; and
 
@@ -7067,11 +7002,11 @@ Note:          If the court makes such an order, the lump sum 
 
                      (e)  if the carer entitled to child support is not in receipt of such a pension, allowance or benefit—whether the circumstances of the carer are such that, taking into account the effect of the order proposed to be made by the court, the carer would be unable to support himself or herself without an income tested pension, allowance or benefit.
 
-             (5)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+             (5)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
 
-             (6)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+             (6)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
 
-             (7)  In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
+             (7)  In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
 
              (8)  Subsections (4), (5), (6) and (7) do not limit the matters to which the court may have regard.
 
@@ -7079,7 +7014,7 @@ Note:          If the court makes such an order, the lump sum 
 
              (1)  Where:
 
-                     (a)  a carer entitled to child support or a liable parent makes an application under paragraph 123(1)(a); and
+                     (a)  a carer entitled to child support or a liable parent makes an application under paragraph 123(1)(a); and
 
                      (b)  the court is satisfied that it would be:
 
@@ -7101,11 +7036,11 @@ the court may make the order.
 
                      (c)  whether the carer entitled to child support is in receipt of an income tested pension, allowance or benefit or, if the carer entitled to child support is not in receipt of such a pension, allowance or benefit, whether the circumstances of the carer are such that, taking into account the effect of the order proposed to be made by the court, the carer would be unable to support himself or herself without an income tested pension, allowance or benefit.
 
-             (3)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+             (3)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
 
-          (3A)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+          (3A)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
 
-             (4)  In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
+             (4)  In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
 
              (5)  Subsections (2), (3), (3A) and (4) do not limit the matters to which the court may have regard.
 
@@ -7131,11 +7066,11 @@ that the annual rate of child support not be reduced by the child support ordere
 
              (4)  The court may, under subsections (1) and (3), make different provision in relation to different child support periods and in relation to different parts of a child support period.
 
-             (5)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make a statement of the kind referred to in subsection (2), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+             (5)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make a statement of the kind referred to in subsection (2), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
 
-          (5A)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+          (5A)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
 
-             (6)  In determining whether it would be otherwise proper to make a statement of the kind referred to in subsection (2), the court must have regard to the matters mentioned in subsection 117(5).
+             (6)  In determining whether it would be otherwise proper to make a statement of the kind referred to in subsection (2), the court must have regard to the matters mentioned in subsection 117(5).
 
              (7)  Subsections (5), (5A) and (6) do not limit the matters to which the court may have regard.
 
@@ -7147,7 +7082,7 @@ that the annual rate of child support not be reduced by the child support ordere
 
                               (i)  making the order; and
 
-                             (ii)  if the order is an order under section 123A—the matters specified in the order under subsection 123A(3); and
+                             (ii)  if the order is an order under section 123A—the matters specified in the order under subsection 123A(3); and
 
                             (iii)  if the order is an order under section 124—the statement or statements included in the order under section 125; and
 
@@ -7163,7 +7098,7 @@ that the annual rate of child support not be reduced by the child support ordere
 
 ##### <a id="127"></a>127  Effect of orders on administrative assessment of child support
 
-             (1)  This section applies if the court makes an order under section 124 that includes a statement under section 125 that the annual rate of child support payable by a liable parent under an administrative assessment is to be reduced, in the manner specified under subsection 125(3), by the child support ordered to be provided by the liable parent.
+             (1)  This section applies if the court makes an order under section 124 that includes a statement under section 125 that the annual rate of child support payable by a liable parent under an administrative assessment is to be reduced, in the manner specified under subsection 125(3), by the child support ordered to be provided by the liable parent.
 
              (2)  When the decision of the court making the order becomes final, the Registrar must immediately take such action as is necessary to give effect to the order in relation to any relevant administrative assessment that has been made (whether by amending the assessment or otherwise).
 
@@ -7171,7 +7106,7 @@ that the annual rate of child support not be reduced by the child support ordere
 
                      (a)  work out what would, apart from this Division, be the annual rate of child support payable by the liable parent to the carer entitled to child support; and
 
-                     (b)  reduce (but not below 0) that annual rate by the amount or percentage specified in the statement included in the order under subsection 125(3); and
+                     (b)  reduce (but not below 0) that annual rate by the amount or percentage specified in the statement included in the order under subsection 125(3); and
 
                      (c)  make the assessment on the basis of that reduced annual rate.
 
@@ -7191,9 +7126,9 @@ may under this section, by order:
 
                      (e)  if the operation of the order has been suspended under paragraph (d)—revive its operation wholly or in part; or
 
-                      (f)  subject to subsection (3), vary the order (including any matter specified under subsection 123A(3), or any statement made under section 125, included in the order) in any way.
+                      (f)  subject to subsection (3), vary the order (including any matter specified under subsection 123A(3), or any statement made under section 125, included in the order) in any way.
 
-             (2)  The court must not make an order under subsection (1) in relation to the order under section 123A or 124 unless the court is satisfied, having regard in particular to any matter specified under subsection 123A(3), or any statement made under section 125, that it would be:
+             (2)  The court must not make an order under subsection (1) in relation to the order under section 123A or 124 unless the court is satisfied, having regard in particular to any matter specified under subsection 123A(3), or any statement made under section 125, that it would be:
 
                      (a)  just and equitable as regards the child, the carer entitled to child support and the liable parent concerned; and
 
@@ -7211,13 +7146,13 @@ to make the order.
 
                      (e)  that material facts were withheld from the court that made the order or from a court that varied the order, or that material evidence previously given before such a court was false.
 
-             (4)  If the court proposes to vary an order made under section 123A or 124 otherwise than by varying any matter specified in the order under subsection 123A(3), or any statement included in the order under section 125, the court must consider whether, having regard to the proposed variation, it should also order the variation of any such matter or statement.
+             (4)  If the court proposes to vary an order made under section 123A or 124 otherwise than by varying any matter specified in the order under subsection 123A(3), or any statement included in the order under section 125, the court must consider whether, having regard to the proposed variation, it should also order the variation of any such matter or statement.
 
-             (5)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and a liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+             (5)  In determining whether it would be just and equitable as regards the child, the carer entitled to child support and a liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
 
-          (5A)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+          (5A)  In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent’s earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
 
-             (6)  In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
+             (6)  In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
 
              (7)  Subsections (5), (5A) and (6) do not limit the matters to which the court may have regard.
 
@@ -7283,7 +7218,7 @@ aside a child support agreement or a termination agreement if:</li>
 
                      (a)  a child support agreement that has been accepted by the Registrar under section 92 or 98U;
 
-                     (b)  a termination agreement, or a written agreement referred to in paragraph 80G(1)(b), that has been accepted by the Registrar under section 92.
+                     (b)  a termination agreement, or a written agreement referred to in paragraph 80G(1)(b), that has been accepted by the Registrar under section 92.
 
              (2)  If a party has applied under subsection (1), the court may set aside the agreement in accordance with the application if the court is satisfied:
 
@@ -7311,7 +7246,7 @@ aside a child support agreement or a termination agreement if:</li>
 
                      (a)  the court sets aside a child support agreement under this section; and
 
-                     (b)  the court is satisfied as mentioned in paragraph 117(1)(b) (departure orders);
+                     (b)  the court is satisfied as mentioned in paragraph 117(1)(b) (departure orders);
 
 the court may make an order under Division 4 of Part 7 without an application having been made under section 116.
 
@@ -7319,7 +7254,7 @@ the court may make an order under Division 4 of Part 7 without an applicatio
 
                      (a)  the court sets aside a child support agreement under this section; and
 
-                     (b)  the court is not satisfied as mentioned in paragraph 117(1)(b) (departure orders); and
+                     (b)  the court is not satisfied as mentioned in paragraph 117(1)(b) (departure orders); and
 
                      (c)  the payee has received or will receive benefits pursuant to the agreement;
 
@@ -7395,7 +7330,7 @@ the order ceases to have effect:
 
 is not made within the period for doing so. The application becomes final at the end of the period.
 
-Note:          For determining when decisions of the SSAT become final, see subsection 110W(1) of the Registration and Collection Act.
+Note:          For determining when decisions of the SSAT become final, see subsection 110W(1) of the Registration and Collection Act.
 
              (3)  A proceeding under this section may be instituted by the applicant for administrative assessment of child support against a person who was to be assessed in respect of the costs of the child.
 
@@ -7483,7 +7418,7 @@ paid when there is no liability to do so may be recovered in a court.</li>
 
 the order ceases to be in force.
 
-          (1A)  Sub‑subparagraph (1)(c)(ii)(B) does not apply in relation to an international maintenance arrangement.
+          (1A)  Sub-subparagraph (1)(c)(ii)(B) does not apply in relation to an international maintenance arrangement.
 
              (2)  Nothing in this section affects the recovery of arrears due under an order when the order ceases to be in force.
 
@@ -7647,7 +7582,7 @@ assessment.</li>
 
              (3)  The Registrar must serve notice in writing of the provisional notional assessment on the liable parent and the carer entitled to child support.
 
-             (4)  The notice must specify in respect of the provisional notional assessment the matters that are required under section 69 and subsection 76(2) (disregarding subsection 76(2A)) in respect of an administrative assessment.
+             (4)  The notice must specify in respect of the provisional notional assessment the matters that are required under section 69 and subsection 76(2) (disregarding subsection 76(2A)) in respect of an administrative assessment.
 
              (5)  The notice must include, or be accompanied by, a statement to the effect that:
 
@@ -7663,13 +7598,13 @@ assessment.</li>
 
                      (a)  subject to this section, a reference in the Part to an assessment, or an administrative assessment, were a reference to a provisional notional assessment; and
 
-                     (b)  subsections 44(5) and (6), Subdivision C of Division 7, and sections 35C, 66C, 69 and 76 to 79 did not apply; and
+                     (b)  subsections 44(5) and (6), Subdivision C of Division 7, and sections 35C, 66C, 69 and 76 to 79 did not apply; and
 
-                     (c)  in paragraph 54B(2)(a), the reference to the day on which an application referred to in subparagraph 49(1)(a)(i) or 50(1)(a)(i) is made were a reference to the particular day in respect of which the provisional notional assessment is made; and
+                     (c)  in paragraph 54B(2)(a), the reference to the day on which an application referred to in subparagraph 49(1)(a)(i) or 50(1)(a)(i) is made were a reference to the particular day in respect of which the provisional notional assessment is made; and
 
-                     (d)  subparagraph 65A(1)(b)(ii) were omitted and substituted with the following:
+                     (d)  subparagraph 65A(1)(b)(ii) were omitted and substituted with the following:
 
-                           “(ii)  if the parent made an election under subsection 146G(1) relating to the child—the amount estimated by the parent under that subsection.”.
+                           “(ii)  if the parent made an election under subsection 146G(1) relating to the child—the amount estimated by the parent under that subsection.”.
 
              (2)  Part 5 ceases to apply once a provisional notional assessment becomes a notional assessment.
 
@@ -7685,9 +7620,9 @@ assessment.</li>
 
                      (b)  by making an application under section 146D for a determination under Part 6A (departure determinations);
 
-                     (c)  if the applicant is a parent of the relevant child—by making an election under subsection 146G(1) (estimate of adjusted taxable income).
+                     (c)  if the applicant is a parent of the relevant child—by making an election under subsection 146G(1) (estimate of adjusted taxable income).
 
-Note:          A person who does not receive a notice that is served on the person is taken to have received the notice 14 days after the notice was served (see subsection 146E(2)).
+Note:          A person who does not receive a notice that is served on the person is taken to have received the notice 14 days after the notice was served (see subsection 146E(2)).
 
              (2)  The Registrar may vary the provisional notional assessment of the annual rate of child support that would be payable for the child for the particular day if:
 
@@ -7697,7 +7632,7 @@ Note:          A person who does not receive a notice that is 
 
                               (i)  if paragraph (1)(a) applies—the Registrar determines a different percentage of care for the parent or the carer for the child for the particular day under Division 4 of Part 5;
 
-                            (ia)  if paragraph (1)(ab) applies—the Registrar makes a determination under subsection 44(2);
+                            (ia)  if paragraph (1)(ab) applies—the Registrar makes a determination under subsection 44(2);
 
                             (ib)  if paragraph (1)(aa) applies—the Registrar reduces the annual rate of child support payable to nil;
 
@@ -7713,7 +7648,7 @@ Note:          A person who does not receive a notice that is 
 
                               (i)  if paragraph (1)(a) applies—the Registrar does not determine a different percentage of care for the parent or carer for the child for the particular day under Division 4 of Part 5;
 
-                            (ia)  if paragraph (1)(ab) applies—the Registrar refuses to make a determination under subsection 44(2);
+                            (ia)  if paragraph (1)(ab) applies—the Registrar refuses to make a determination under subsection 44(2);
 
                             (ib)  if paragraph (1)(aa) applies—the Registrar refuses to grant an application under section 66A;
 
@@ -7755,7 +7690,7 @@ Note:          Instead, once the provisional notional assessme
 
                      (b)  before the Registrar decides the application, the Registrar accepts an agreement under section 98U that is entered into by the parties to the proceedings concerned; and
 
-                     (c)  a provisional notional assessment is made because of section 34B applying as mentioned in paragraph 98U(4)(a);
+                     (c)  a provisional notional assessment is made because of section 34B applying as mentioned in paragraph 98U(4)(a);
 
 then the original application is taken to be an application made under subsection (1) of this section.
 
@@ -7773,7 +7708,7 @@ then the original application is taken to be an application made under subsectio
 
              (4)  After a provisional notional assessment becomes a notional assessment, the Registrar must serve notice in writing of the notional assessment on the liable parent and the carer entitled to child support.
 
-             (5)  The notice must specify in respect of the notional assessment the matters that are required by section 69 and subsection 76(2) in respect of an administrative assessment.
+             (5)  The notice must specify in respect of the notional assessment the matters that are required by section 69 and subsection 76(2) in respect of an administrative assessment.
 
              (6)  The notice must include, or be accompanied by, a statement to the effect that:
 
@@ -7793,7 +7728,7 @@ then the original application is taken to be an application made under subsectio
 
              (2)  The Registrar must amend the notional assessment as if:
 
-                     (a)  despite subsection 146BA(2), section 67A (offsetting) applied on the changed assessment day; and
+                     (a)  despite subsection 146BA(2), section 67A (offsetting) applied on the changed assessment day; and
 
                      (b)  the annual rate of child support that would be payable for the first child for the particular day were instead payable for the changed assessment day.
 
@@ -7825,9 +7760,9 @@ How election is made
 
 ##### <a id="146H"></a>146H  Registrar may refuse to accept election
 
-             (1)  The Registrar may refuse to accept the parent’s election if the Registrar is satisfied that the amount the parent estimated under subsection 146G(1) is likely to be less than the actual amount that would be the parent’s adjusted taxable income for that 12 month period.
+             (1)  The Registrar may refuse to accept the parent’s election if the Registrar is satisfied that the amount the parent estimated under subsection 146G(1) is likely to be less than the actual amount that would be the parent’s adjusted taxable income for that 12 month period.
 
-Note:          If the Registrar refuses to accept the election, he or she may refuse to vary the provisional notional assessment under subsection 146C(3).
+Note:          If the Registrar refuses to accept the election, he or she may refuse to vary the provisional notional assessment under subsection 146C(3).
 
              (2)  In making the decision as to whether to refuse the election, the Registrar:
 
@@ -7839,7 +7774,7 @@ Note:          If the Registrar refuses to accept the election
 
 ##### <a id="146J"></a>146J  Effect of election
 
-             (1)  If a parent makes an election under subsection 146G(1) relating to a child, then, for the purposes of making the provisional notional assessment, the parent’s adjusted taxable income is the amount the parent estimated.
+             (1)  If a parent makes an election under subsection 146G(1) relating to a child, then, for the purposes of making the provisional notional assessment, the parent’s adjusted taxable income is the amount the parent estimated.
 
              (2)  Subsection (1) has effect subject to any order or determination referred to in paragraph (a) of the definition of **_income amount order_** that is made after the making of the election that applies in relation to the parent and the particular day in the child support period in respect of which the provisional notional assessment is made.
 
@@ -7847,7 +7782,7 @@ Note:          If the Registrar refuses to accept the election
 
 ##### <a id="146K"></a>146K  Revocation of election
 
-             (1)  Before a provisional notional assessment becomes a notional assessment under section 146E, a parent who has made an election under subsection 146G(1) in relation to a child may, by notice given to the Registrar, revoke the election.
+             (1)  Before a provisional notional assessment becomes a notional assessment under section 146E, a parent who has made an election under subsection 146G(1) in relation to a child may, by notice given to the Registrar, revoke the election.
 
              (2)  A notice given to the Registrar must be given in the manner specified by the Registrar.
 
@@ -7893,7 +7828,7 @@ Note:          Section 150A provides for the Registrar to sp
 
              (2)  A delegation may be made subject to a power of review and alteration by the Registrar, within a period specified in the delegation, of acts done under the delegation.
 
-             (3)  A delegation continues in force even though there has been a change in the occupancy of, or there is a vacancy in, the office of Registrar, but, for the purposes of the application of subsection 33(3) of the _Acts Interpretation Act 1901_ in relation to such a delegation, nothing in any law is to be taken to preclude the revocation or variation of the delegation by the same or a subsequent holder of the office.
+             (3)  A delegation continues in force even though there has been a change in the occupancy of, or there is a vacancy in, the office of Registrar, but, for the purposes of the application of subsection 33(3) of the _Acts Interpretation Act 1901_ in relation to such a delegation, nothing in any law is to be taken to preclude the revocation or variation of the delegation by the same or a subsequent holder of the office.
 
 ##### <a id="150"></a>150  Secrecy
 
@@ -8101,7 +8036,7 @@ where it is necessary to do so for the purpose of carrying into effect the provi
 
              (8)  A person to whom this section applies must, if and when required by the Registrar to do so, make an oath or declaration, in a manner and form specified by the Registrar in writing, to maintain secrecy in accordance with this section.
 
-             (9)  This section has effect subject to subsection 67N(10) of the _Family Law Act 1975_.
+             (9)  This section has effect subject to subsection 67N(10) of the _Family Law Act 1975_.
 
 ##### <a id="150AA"></a>150AA  Offence of unauthorised use of information
 
@@ -8115,7 +8050,7 @@ where it is necessary to do so for the purpose of carrying into effect the provi
 
                             (iii)  otherwise makes use of information; and
 
-                     (b)  at the time the person does so, the person is not a person to whom this section applies (within the meaning of subsection 150(1)); and
+                     (b)  at the time the person does so, the person is not a person to whom this section applies (within the meaning of subsection 150(1)); and
 
                      (c)  the information is relevant information.
 
@@ -8123,13 +8058,13 @@ where it is necessary to do so for the purpose of carrying into effect the provi
 
              (2)  If:
 
-                     (a)  the relevant information was communicated to a person under subsection 150(4G); and
+                     (a)  the relevant information was communicated to a person under subsection 150(4G); and
 
                      (b)  that person makes a record of, or communicates, the information for the purpose of a proceeding under section 113A of the Registration and Collection Act;
 
 subsection (1) of this section does not apply to any further recording, communication or use of that information by a person who is not a person to whom this section applies.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
              (3)  In this section:
 
@@ -8227,7 +8162,7 @@ Payment of child support to continue if reconciliation not successful
 
              (3)  If:
 
-                     (a)  a child support terminating event has not happened in relation to a child and the child’s parents under subsection 12(5); and
+                     (a)  a child support terminating event has not happened in relation to a child and the child’s parents under subsection 12(5); and
 
                      (b)  the Register is satisfied that the parents have ceased being members of the same couple;
 
@@ -8263,13 +8198,13 @@ the election has no effect unless and until the Secretary approves the election 
 
                      (a)  a person makes an election under subsection (1) in respect of a child; and
 
-                     (b)  the application for administrative assessment under which the child support is payable was made, in accordance with paragraph 29B(1)(b), by an overseas authority of a reciprocating jurisdiction on behalf of the carer entitled to child support;
+                     (b)  the application for administrative assessment under which the child support is payable was made, in accordance with paragraph 29B(1)(b), by an overseas authority of a reciprocating jurisdiction on behalf of the carer entitled to child support;
 
 the election has no effect unless and until the overseas authority approves the election.
 
 ##### <a id="151A"></a>151A  Procedure where person making election is receiving more than the base rate of family tax benefit Part A
 
-             (1)  As soon as practicable after a carer referred to in subsection 151(4) makes an election, the Registrar must inform:
+             (1)  As soon as practicable after a carer referred to in subsection 151(4) makes an election, the Registrar must inform:
 
                      (a)  the Secretary; or
 
@@ -8327,7 +8262,7 @@ Note:          Section 150A provides for the Registrar to sp
 
                      (b)  either:
 
-                              (i)  if the application is made under subsection 151B(1)—an administrative assessment, or a child support agreement, in relation to the child either is in force, or is likely to be in force, on the day before the child’s 18th birthday; or
+                              (i)  if the application is made under subsection 151B(1)—an administrative assessment, or a child support agreement, in relation to the child either is in force, or is likely to be in force, on the day before the child’s 18th birthday; or
 
                              (ii)  otherwise—an administrative assessment that takes the child into account is in force, or is likely to be in force, on the day before the child’s 18th birthday; and
 
@@ -8359,13 +8294,13 @@ Acceptance of application
 
              (6)  A contravention of subsection (5) in relation to a decision does not affect the validity of the decision.
 
-             (7)  To avoid doubt, a reference in this section to an **_administrative assessment_** does not include a reference to an assessment made by the Registrar under subsection 93(2).
+             (7)  To avoid doubt, a reference in this section to an **_administrative assessment_** does not include a reference to an assessment made by the Registrar under subsection 93(2).
 
-##### <a id="151D"></a>151D  Application under subsection 151B(1) for assessment/agreement to continue—consequences of acceptance
+##### <a id="151D"></a>151D  Application under subsection 151B(1) for assessment/agreement to continue—consequences of acceptance
 
 Child support terminating event
 
-             (1)  If the Registrar accepts an application under subsection 151B(1) in relation to a child, then, in spite of section 12 (which deals with child support terminating events):
+             (1)  If the Registrar accepts an application under subsection 151B(1) in relation to a child, then, in spite of section 12 (which deals with child support terminating events):
 
                      (a)  a child support terminating event does not happen in relation to the child when the child turns 18; and
 
@@ -8393,13 +8328,13 @@ Child to be regarded as aged 17 for purposes of Part 5
 
 Date of effect of decision
 
-             (3)  A decision of the Registrar to grant an application in relation to a child under subsection 151B(1) takes effect on the day before the child turns 18, whether the decision is made before, on or after that day.
+             (3)  A decision of the Registrar to grant an application in relation to a child under subsection 151B(1) takes effect on the day before the child turns 18, whether the decision is made before, on or after that day.
 
-##### <a id="151E"></a>151E  Applications under subsection 151B(1A) in respect of administrative assessments—consequences of acceptance
+##### <a id="151E"></a>151E  Applications under subsection 151B(1A) in respect of administrative assessments—consequences of acceptance
 
 Registrar to take necessary action
 
-             (1)  If the Registrar accepts an application under subsection 151B(1A), the Registrar must immediately take such action as is necessary to take account of the change to the meaning of relevant dependent child (whether by amending an administrative assessment or otherwise).
+             (1)  If the Registrar accepts an application under subsection 151B(1A), the Registrar must immediately take such action as is necessary to take account of the change to the meaning of relevant dependent child (whether by amending an administrative assessment or otherwise).
 
 Child to be regarded as aged 17 for purposes of Part 5
 
@@ -8411,7 +8346,7 @@ Child to be regarded as aged 17 for purposes of Part 5
 
 Date of effect of decision
 
-             (3)  A decision of the Registrar to accept an application in relation to a child under subsection 151B(1A) takes effect on the day before the child turns 18, whether the decision is made before, on or after that day.
+             (3)  A decision of the Registrar to accept an application in relation to a child under subsection 151B(1A) takes effect on the day before the child turns 18, whether the decision is made before, on or after that day.
 
 ##### <a id="152"></a>152  Court order etc. to cease to have effect where child support becomes payable
 
@@ -8457,13 +8392,13 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (1)  This section applies for the purposes of the following provisions:
 
-                     (a)  subsection 65A(2); and
+                     (a)  subsection 65A(2); and
 
-                     (b)  subsection 66(5).
+                     (b)  subsection 66(5).
 
              (2)  For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image022.gif)
 
 where:
 
@@ -8483,19 +8418,17 @@ where:
 
                      (a)  the minimum annual rate of child support; and
 
-                     (b)  the annual rate of child support specified in subsection 65A(2) (low income parents not on income support).
+                     (b)  the annual rate of child support specified in subsection 65A(2) (low income parents not on income support).
 
              (2)  Before the end of each calendar year, the Secretary must publish in the _Gazette_ for all child support periods starting in the following calendar year:
 
-                     (a)  the annualised MTAWE figure for the relevant June quarter; and
+                     (a)  the annualised MTAWE figure for the relevant September quarter; and
 
                      (b)  the Costs of the Children Table, incorporating:
 
-                              (i)  the annualised MTAWE figure for the relevant June quarter; and
+                              (i)  the annualised MTAWE figure for the relevant September quarter; and
 
                              (ii)  any other amounts in items in the table that can be worked out using the annualised MTAWE figure.
-
-          (2A)  Before the end of each financial year, the Secretary must publish in the _Gazette_ the AWE amount (within the meaning of subsection 58AA(1)) for the quarter ending on 31 December of that year.
 
              (3)  The instruments published under subsections (1), (2) and (2A) are not legislative instruments.
 
@@ -8661,9 +8594,9 @@ the person has acted without reasonable care or with intentional disregard to th
 
              (1)  Where:
 
-                     (a)  a person is convicted before a court of an offence against subsection 161(3); or
+                     (a)  a person is convicted before a court of an offence against subsection 161(3); or
 
-                     (b)  a court makes an order under section 19B of the _Crimes Act 1914_ in relation to a person in relation to an offence against subsection 161(3);
+                     (b)  a court makes an order under section 19B of the _Crimes Act 1914_ in relation to a person in relation to an offence against subsection 161(3);
 
 in relation to the refusal or failure of the person to comply (whether in whole or part) with a requirement made by or under this Act, the court may, in addition to imposing a penalty on the person or making such an order in relation to the person, as the case may be, and even though the time for complying with the requirement or any other such requirement has passed, order the person to comply with:
 
@@ -8757,13 +8690,13 @@ to the Registrar if the Registrar considers that the information or document may
 
                             (iii)  a child support agreement (other than an agreement falling within subparagraph (i) or (ii)) made in connection with the breakdown of the marriage to which the agreement relates;
 
-                            (iv)  a child support agreement made in connection with the breakdown of the de facto relationship to which the agreement relates;
+                            (iv)  a child support agreement made in connection with the breakdown of the de facto relationship to which the agreement relates;
 
                              (v)  a child support agreement (other than a child support agreement falling within subparagraph (i), (ii), (iii) or (iv)) that relates to a child whose parents were not: 
 
                                         (A)  married to each other; or 
 
-                                        (B)  in a de facto relationship with each other;
+                                        (B)  in a de facto relationship with each other;
 
                                    at the time the child was conceived.
 
@@ -8773,11 +8706,11 @@ to the Registrar if the Registrar considers that the information or document may
 
                      (a)  a reference to the marriage to which a child support agreement relates is a reference to the marriage the parties to which are parties to the agreement; and
 
-                     (b)  a reference to the de facto relationship to which a child support agreement relates is a reference to the de facto relationship the parties to which are parties to the agreement.
+                     (b)  a reference to the de facto relationship to which a child support agreement relates is a reference to the de facto relationship the parties to which are parties to the agreement.
 
              (5)  In this section:
 
-                    <a name="de-facto-relatship"></a>**_de facto relationship_** means:
+                    <a name="de-facto-relatship"></a>**_de facto relationship_** means:
 
                      (a)  a relationship between 2 persons (whether of the same sex or different sexes) who, although not legally married to each other, live with each other on a genuine domestic basis in a relationship as a couple; or
 
@@ -9191,7 +9124,7 @@ _Note:       See sections 55G and 55HA._
 
 Note:          The first dollar amount in each column is the lowest combined child support income, or child support income, covered by that column.
 
-             (3)  To work out the second dollar amount in each column (other than the last column), multiply the second fraction specified in that column by the annualised MTAWE figure for the relevant June quarter.
+             (3)  To work out the second dollar amount in each column (other than the last column), multiply the second fraction specified in that column by the annualised MTAWE figure for the relevant September quarter.
 
 Note:          The second dollar amount in each column is the highest combined child support income, or child support income, covered by that column.
 
@@ -9219,1873 +9152,1177 @@ Note:          The second dollar amount in each column is the 
 
              (4)  If, under section 55G or 55HA, an item is identified in a row in the last column, the **_costs of the children_** is the total of the amounts worked out for the items in that row in each of the previous columns in accordance with paragraphs (3)(aa) and (a).
 
-Endnotes
+# Notes to the _Child Support (Assessment) Act 1989_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Child Support (Assessment) Act 1989._
+The _Child Support (Assessment) Act 1989_ as shown in this compilation comprises Act No. 124, 1989 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010_, _see_ Act No. 65, 2010.
+
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+
+This Act is affected by Statutory Rules 1999 No. 57 _see_ Table B.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
+  <col width="31%">
+  <col width="16%">
+  <col width="17%">
+  <col width="0%">
   <col width="20%">
+  <col width="16%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td colspan="2">
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Child Support (Assessment) Act 1989
-    </div>
+    <div>Child Support (Assessment) Act 1989</div>
   </td>
   <td>
-    <div>
-      124, 1989
-    </div>
+    <div>124, 1989</div>
   </td>
   <td>
-    <div>
-      21 Sept 1989
-    </div>
+    <div>21 Sept 1989</div>
+  </td>
+  <td colspan="2">
+    <div>1 Oct 1989 ( <i>see Gazette</i>1989, No. S314)</div>
   </td>
   <td>
-    <div>
-      1 Oct 1989 (
-        <i>see Gazette</i>1989, No. S314)
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Veterans’ Affairs Legislation Amendment Act (No. 3)
-        1989
-    </div>
+    <div>Social Security and Veterans’ Affairs Legislation Amendment Act (No. 3) 1989</div>
   </td>
   <td>
-    <div>
-      163, 1989
-    </div>
+    <div>163, 1989</div>
   </td>
   <td>
-    <div>
-      19 Dec 1989
-    </div>
+    <div>19 Dec 1989</div>
+  </td>
+  <td colspan="2">
+    <div>Part 2 (ss. 5, 6): Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      Part 2 (ss. 5, 6): Royal Assent
-        <i>(a)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act 1990
-    </div>
+    <div>Child Support Legislation Amendment Act 1990</div>
   </td>
   <td>
-    <div>
-      138, 1990
-    </div>
+    <div>138, 1990</div>
   </td>
   <td>
-    <div>
-      28 Dec 1990
-    </div>
+    <div>28 Dec 1990</div>
+  </td>
+  <td colspan="2">
+    <div>28 Dec 1990</div>
   </td>
   <td>
-    <div>
-      28 Dec 1990
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act 1992
-    </div>
+    <div>Child Support Legislation Amendment Act 1992</div>
   </td>
   <td>
-    <div>
-      13, 1992
-    </div>
+    <div>13, 1992</div>
   </td>
   <td>
-    <div>
-      6 Apr 1992
-    </div>
+    <div>6 Apr 1992</div>
+  </td>
+  <td colspan="2">
+    <div>6 Apr 1992</div>
   </td>
   <td>
-    <div>
-      6 Apr 1992
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act (No. 2) 1992
-    </div>
+    <div>Child Support Legislation Amendment Act (No. 2) 1992</div>
   </td>
   <td>
-    <div>
-      151, 1992
-    </div>
+    <div>151, 1992</div>
   </td>
   <td>
-    <div>
-      11 Dec 1992
-    </div>
+    <div>11 Dec 1992</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 6, 7, 10, 11 and 14–20: 1 July 1993 
+Ss. 34, 36 and 41: 1 Jan 1993 
+Ss. 37 and 39: 
+1 June 1988 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      ss. 6, 7, 10, 11 and 14–20: 1 July 1993
-
-ss. 34, 36 and 41: 1 Jan 1993
-
-ss. 37 and 39: 1 June 1988
-
-Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act 1995
-    </div>
+    <div>Child Support Legislation Amendment Act 1995</div>
   </td>
   <td>
-    <div>
-      39, 1995
-    </div>
+    <div>39, 1995</div>
   </td>
   <td>
-    <div>
-      29 May 1995
-    </div>
+    <div>29 May 1995</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 3–10 and 12: Royal Assent <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      ss. 3–10 and 12: Royal Assent
-        <i>(b)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 5 and 12
-    </div>
+    <div>Ss. 5 and 12</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security Legislation Amendment (Family Measures) Act 1995
-    </div>
+    <div>Social Security Legislation Amendment (Family Measures) Act 1995</div>
   </td>
   <td>
-    <div>
-      106, 1995
-    </div>
+    <div>106, 1995</div>
   </td>
   <td>
-    <div>
-      29 Sept 1995
-    </div>
+    <div>29 Sept 1995</div>
+  </td>
+  <td colspan="2">
+    <div>S. 3(5): 1 Jan 1996 <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      s. 3(5): 1 Jan 1996
-        <i>(c)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Family Law Reform (Consequential Amendments) Act 1995
-    </div>
+    <div>Family Law Reform (Consequential Amendments) Act 1995</div>
   </td>
   <td>
-    <div>
-      140, 1995
-    </div>
+    <div>140, 1995</div>
   </td>
   <td>
-    <div>
-      12 Dec 1995
-    </div>
+    <div>12 Dec 1995</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (Part 2): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 1 (Part 2): 11 June 1996 (
-        <i>see Gazette</i>1996, No. GN5)
-        <i>(d)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
+    <div>Statute Law Revision Act 1996</div>
   </td>
   <td>
-    <div>
-      43, 1996
-    </div>
+    <div>43, 1996</div>
   </td>
   <td>
-    <div>
-      25 Oct 1996
-    </div>
+    <div>25 Oct 1996</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 23–27): <i>(e)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 23–27):
-        <i>(e)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997
-    </div>
+    <div>Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997</div>
   </td>
   <td>
-    <div>
-      29, 1997
-    </div>
+    <div>29, 1997</div>
   </td>
   <td>
-    <div>
-      17 Apr 1997
-    </div>
+    <div>17 Apr 1997</div>
+  </td>
+  <td colspan="2">
+    <div>1 July 1997 
+( <i>see</i>s. 2)</div>
   </td>
   <td>
-    <div>
-      1 July 1997 (
-        <i>see</i>s. 2)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Income Tax (Consequential Amendments) Act 1997
-    </div>
+    <div>Income Tax (Consequential Amendments) Act 1997</div>
   </td>
   <td>
-    <div>
-      39, 1997
-    </div>
+    <div>39, 1997</div>
   </td>
   <td>
-    <div>
-      17 Apr 1997
-    </div>
+    <div>17 Apr 1997</div>
+  </td>
+  <td colspan="2">
+    <div>1 July 1997</div>
   </td>
   <td>
-    <div>
-      1 July 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act (No. 1) 1997
-    </div>
+    <div>Child Support Legislation Amendment Act (No. 1) 1997</div>
   </td>
   <td>
-    <div>
-      84, 1997
-    </div>
+    <div>84, 1997</div>
   </td>
   <td>
-    <div>
-      23 June 1997
-    </div>
+    <div>23 June 1997</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 21–25): 23 Dec 1997 
+Remainder: 21 July 1997</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 21–25): 23 Dec 1997
-
-Remainder: 21 July 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security Legislation Amendment (Parenting and Other Measures) Act
-        1997
-    </div>
+    <div>Social Security Legislation Amendment (Parenting and Other Measures) Act 1997</div>
   </td>
   <td>
-    <div>
-      197, 1997
-    </div>
+    <div>197, 1997</div>
   </td>
   <td>
-    <div>
-      11 Dec 1997
-    </div>
+    <div>11 Dec 1997</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 287–297): 20 Mar 1998 <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 287–297): 20 Mar 1998
-        <i>(f)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Veterans’ Affairs Legislation Amendment (Budget and
-        Other Measures) Act 1998
-    </div>
+    <div>Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998</div>
   </td>
   <td>
-    <div>
-      93, 1998
-    </div>
+    <div>93, 1998</div>
   </td>
   <td>
-    <div>
-      15 July 1998
-    </div>
+    <div>15 July 1998</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 7 (items 2–10): 1 Apr 1998 <i>(g)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 7 (items 2–10): 1 Apr 1998
-        <i>(g)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act 1998
-    </div>
+    <div>Child Support Legislation Amendment Act 1998</div>
   </td>
   <td>
-    <div>
-      120, 1998
-    </div>
+    <div>120, 1998</div>
   </td>
   <td>
-    <div>
-      15 Dec 1998
-    </div>
+    <div>15 Dec 1998</div>
+  </td>
+  <td colspan="2">
+    <div>Schedules 1, 2, Schedule 3 (items 1–9), Schedules 5, 6, Schedule 8 (items 1–5), Schedule 9 (items 1–19), Schedule 19 (items 1–17, 20), Schedule 21 and Schedule 22 (items 1–8): Royal Assent <i>(h) 
+ </i>Schedule 7 (items 1, 2): 1 July 1999 ( <i>see Gazette</i>1999, No. S261) <i>(h) 
+ </i>Schedules 13–16, 18, Schedule 23 (Part 1) and Schedule 24 (Part 1): <i>(h)</i> 
+Schedule 23 (Part 2) and Schedule 24 (Part 2): 1 July 1999 ( <i>see Gazette</i>1999, No. S261) <i>(h)</i></div>
   </td>
   <td>
-    <div>
-      Schedules 1, 2, Schedule 3 (items 1–9), Schedules 5, 6, Schedule 8 (items 1–5),
-        Schedule 9 (items 1–19), Schedule 19 (items 1–17, 20), Schedule 21 and
-        Schedule 22 (items 1–8): Royal Assent
-        <i>(h)</i>
-
-Schedule 7 (items 1, 2): 1 July 1999 (
-        <i>see Gazette</i>1999, No. S261)
-        <i>(h)</i>
-
-Schedules 13–16, 18, Schedule 23 (Part 1) and Schedule 24 (Part 1):
-        <i>(h)</i>
-
-Schedule 23 (Part 2) and Schedule 24 (Part 2): 1 July 1999 (
-        <i>see Gazette</i>1999, No. S261)
-        <i>(h)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 4(1)–(3), (5), (6), 5, 6, Sch. 14 (item 5), Sch. 16 (items 79, 80)
-        and Sch. 19 (item 20)
-    </div>
+    <div>Ss. 
+4(1)–(3), (5), (6), 5, 6 
+Sch. 14 (item 5), Sch. 16 (items 79, 80) and Sch. 19 (item 20)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      A New Tax System (Family Assistance) (Consequential and Related Measures)
-        Act (No. 2) 1999
-    </div>
+    <div>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999</div>
   </td>
   <td>
-    <div>
-      83, 1999
-    </div>
+    <div>83, 1999</div>
   </td>
   <td>
-    <div>
-      8 July 1999
-    </div>
+    <div>8 July 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4: 1 July 2000 <i>(i)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 4: 1 July 2000
-        <i>(i)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Employment (Consequential and Transitional) Amendment Act 1999
-    </div>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      146, 1999
-    </div>
+    <div>146, 1999</div>
   </td>
   <td>
-    <div>
-      11 Nov 1999
-    </div>
+    <div>11 Nov 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 285, 286): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 285, 286): 5 Dec 1999
-        <i>(see Gazette</i>1999, No. S584)
-        <i>(j)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Federal Magistrates (Consequential Amendments) Act 1999
-    </div>
+    <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
   </td>
   <td>
-    <div>
-      194, 1999
-    </div>
+    <div>194, 1999</div>
   </td>
   <td>
-    <div>
-      23 Dec 1999
-    </div>
+    <div>23 Dec 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 8: 23 Dec 1999 <i>(k)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 8: 23 Dec 1999
-        <i>(k)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      A New Tax System (Family Assistance and Related Measures) Act 2000
-    </div>
+    <div>A New Tax System (Family Assistance and Related Measures) Act 2000</div>
   </td>
   <td>
-    <div>
-      45, 2000
-    </div>
+    <div>45, 2000</div>
   </td>
   <td>
-    <div>
-      3 May 2000
-    </div>
+    <div>3 May 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 (items 2–9), Schedules 5 and 6: <i>(l)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 2–9), Schedules 5 and 6:
-        <i>(l)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 5 and Sch. 6
-    </div>
+    <div>Sch. 5 and Sch. 6</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act 2000
-    </div>
+    <div>Child Support Legislation Amendment Act 2000</div>
   </td>
   <td>
-    <div>
-      49, 2000
-    </div>
+    <div>49, 2000</div>
   </td>
   <td>
-    <div>
-      3 May 2000
-    </div>
+    <div>3 May 2000</div>
+  </td>
+  <td colspan="2">
+    <div>3 May 2000</div>
   </td>
   <td>
-    <div>
-      3 May 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Family Law Amendment Act 2000
-    </div>
+    <div>Family Law Amendment Act 2000</div>
   </td>
   <td>
-    <div>
-      143, 2000
-    </div>
+    <div>143, 2000</div>
   </td>
   <td>
-    <div>
-      29 Nov 2000
-    </div>
+    <div>29 Nov 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (items 1–4, 4A, 4B): 27 Dec 2000 <i>(m)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 1–4, 4A, 4B): 27 Dec 2000
-        <i>(m)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment Act 2001
-    </div>
+    <div>Child Support Legislation Amendment Act 2001</div>
   </td>
   <td>
-    <div>
-      75, 2001
-    </div>
+    <div>75, 2001</div>
+  </td>
+  <td colspan="2">
+    <div>30 June 2001</div>
   </td>
   <td>
-    <div>
-      30 June 2001
-    </div>
+    <div>Schedules 3, 5 (items 1–35), 7, 9 and 10 (items 
+7–14, 19–22): Royal Assent <i>(n)</i> 
+Schedule 10 (item 1): <i>(n)</i> 
+Schedule 10 (items 2, 6, 
+15–18): <i>(n)</i> 
+Schedule 10 (items 3–5): <i>(n) 
+ </i>Schedule 10 (item 23): <i>(n)</i></div>
   </td>
   <td>
-    <div>
-      Schedules 3, 5 (items 1–35), 7, 9 and 10 (items 7–14, 19–22): Royal Assent
-        <i>(n)</i>
-
-Schedule 10 (item 1):
-        <i>(n)</i>
-
-Schedule 10 (items 2, 6, 15–18):
-        <i>(n)</i>
-
-Schedule 10 (items 3–5):
-        <i>(n)</i>
-
-Schedule 10 (item 23):
-        <i>(n)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Family and Community Services Legislation Amendment (Application of Criminal
-        Code) Act 2001
-    </div>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
   <td>
-    <div>
-      137, 2001
-    </div>
+    <div>137, 2001</div>
   </td>
   <td>
-    <div>
-      1 Oct 2001
-    </div>
+    <div>1 Oct 2001</div>
+  </td>
+  <td colspan="2">
+    <div>2 Oct 2001</div>
   </td>
   <td>
-    <div>
-      2 Oct 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4
-    </div>
+    <div>S. 4</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005
-    </div>
+    <div>Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005</div>
   </td>
   <td>
-    <div>
-      161, 2005
-    </div>
+    <div>161, 2005</div>
   </td>
   <td>
-    <div>
-      19 Dec 2005
-    </div>
+    <div>19 Dec 2005</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 60, 61): Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 60, 61): Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 61)
-    </div>
+    <div>Sch. 1 (item 61)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Jurisdiction of Courts (Family Law) Act 2006
-    </div>
+    <div>Jurisdiction of Courts (Family Law) Act 2006</div>
   </td>
   <td>
-    <div>
-      22, 2006
-    </div>
+    <div>22, 2006</div>
   </td>
   <td>
-    <div>
-      6 Apr 2006
-    </div>
+    <div>6 Apr 2006</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 1–4): 1 July 2006 ( <i>see</i>F2006L01796)</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 1–4): 1 July 2006 (
-        <i>see</i>F2006L01796)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Family Law Amendment (Shared Parental Responsibility) Act 2006
-    </div>
+    <div>Family Law Amendment (Shared Parental Responsibility) Act 2006</div>
   </td>
   <td>
-    <div>
-      46, 2006
-    </div>
+    <div>46, 2006</div>
   </td>
   <td>
-    <div>
-      22 May 2006
-    </div>
+    <div>22 May 2006</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 8 (items 5–39) and Schedule 9 (item 3): 1 July 2006</div>
   </td>
   <td>
-    <div>
-      Schedule 8 (items 5–39) and Schedule 9 (item 3): 1 July 2006
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2007
-    </div>
+    <div>Statute Law Revision Act 2007</div>
   </td>
   <td>
-    <div>
-      8, 2007
-    </div>
+    <div>8, 2007</div>
   </td>
   <td>
-    <div>
-      15 Mar 2007
-    </div>
+    <div>15 Mar 2007</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 8, 9): <i>(na)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 8, 9):
-        <i>(na)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2008
-    </div>
+    <div>Statute Law Revision Act 2008</div>
   </td>
   <td>
-    <div>
-      73, 2008
-    </div>
+    <div>73, 2008</div>
   </td>
   <td>
-    <div>
-      3 July 2008
-    </div>
+    <div>3 July 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (item 26): <i>(nb)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 26):
-        <i>(nb)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial
-        Measures) Act 2006
-    </div>
+    <div>Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006</div>
   </td>
   <td>
-    <div>
-      53, 2006
-    </div>
+    <div>53, 2006</div>
   </td>
   <td>
-    <div>
-      15 June 2006
-    </div>
+    <div>15 June 2006</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1, Schedule 2 (items 1–10, 13), Schedules 3 and 4: 1 July 2006 
+Schedule 2 (item 11): <i>(o)</i> 
+Schedule 2 (item 12): <i>(o)</i> 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1, Schedule 2 (items 1–10, 13), Schedules 3 and 4: 1 July 2006
-
-Schedule 2 (item 11):
-        <i>(o)</i>
-
-Schedule 2 (item 12):
-        <i>(o)</i>
-
-Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4, Sch. 1 (item 11), Sch. 2 (item 13), Sch. 3 (item 18) and Sch. 5
-        (items 18, 19, 21)
-
-Sch. 5 (item 20) (am. by 100, 2011, Sch. 1 \[item 4])
-    </div>
+    <div>S. 4, Sch. 1 (item 11), Sch. 2 (item 13), Sch. 3 (item 18) and Sch. 5 (items 
+18, 19, 21) 
+Sch. 5 (item 20) 
+(am. by 100, 2011, Sch. 1 \[item 4])</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2007
-    </div>
+    <div>Statute Law Revision Act 2007</div>
   </td>
   <td>
-    <div>
-      8, 2007
-    </div>
+    <div>8, 2007</div>
   </td>
   <td>
-    <div>
-      15 Mar 2007
-    </div>
+    <div>15 Mar 2007</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (item 5): <i>(oa)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 5):
-        <i>(oa)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Stocktake Act (No. 1) 2011
-    </div>
+    <div>Statute Stocktake Act (No. 1) 2011</div>
   </td>
   <td>
-    <div>
-      100, 2011
-    </div>
+    <div>100, 2011</div>
   </td>
   <td>
-    <div>
-      15 Sept 2011
-    </div>
+    <div>15 Sept 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (item 4): 16 Sept 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 4): 16 Sept 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Community Services and Indigenous Affairs and Other Legislation
-        (2006 Budget and Other Measures) Act 2006
-    </div>
+    <div>Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006</div>
   </td>
   <td>
-    <div>
-      82, 2006
-    </div>
+    <div>82, 2006</div>
   </td>
   <td>
-    <div>
-      30 June 2006
-    </div>
+    <div>30 June 2006</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 12 (item 3): <i>(p)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 12 (item 3):
-        <i>(p)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support Legislation Amendment (Reform of the Child Support Scheme—New
-        Formula and Other Measures) Act 2006
-    </div>
+    <div>Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006</div>
   </td>
   <td>
-    <div>
-      146, 2006
-    </div>
+    <div>146, 2006</div>
   </td>
   <td>
-    <div>
-      6 Dec 2006
-    </div>
+    <div>6 Dec 2006</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1, Schedule 2 (items 1–91, 97–116, 117), Schedule 5 (items 1–29, 
+78–90), Schedules 6, 7 and Schedule 8 (items 1–5, 7–13, 15–19, 21–157): 1 July 2008 
+Schedule 2 (items 92–96, 116A): 1 Jan 2008 
+Schedule 3: 1 Jan 2007 
+Schedule 4: <i>(q)</i> 
+Schedule 5 (items 30–72): <i>(q)</i> 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1, Schedule 2 (items 1–91, 97–116, 117), Schedule 5 (items 1–29,
-        78–90), Schedules 6, 7 and Schedule 8 (items 1–5, 7–13, 15–19, 21–157):
-        1 July 2008
-
-Schedule 2 (items 92–96, 116A): 1 Jan 2008
-
-Schedule 3: 1 Jan 2007
-
-Schedule 4:
-        <i>(q)</i>
-
-Schedule 5 (items 30–72):
-        <i>(q)</i>
-
-Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (items 117, 118), Sch. 3 (items 77, 78(1), (3), 80), Sch. 4 (items 42,
-        43, 46), Sch. 5 (items 74(1), (3)–(5), 75, 76), Sch. 6 (item 12) and Sch.
-        7 (items 11, 12)
-
-s. 2(1) (am. by 82, 2007, Sch. 1 \[item 1])
-
-Sch. 2 (item 115) (am. by 82, 2007, Sch. 1 \[item 99])
-
-Sch. 2 (item 116A) (ad. by 82, 2007, Sch. 1 \[item 100])
-
-Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16])
-
-Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16])
-
-Sch. 5 (item 74(2)) (am. by 63, 2008, Sch. 6 \[item 17])
-
-Sch. 9 (ad. by 82, 2007, Sch. 1 \[item 21])
-    </div>
+    <div>Sch. 2 (items 117, 118), Sch. 3 (items 77, 78(1), (3), 80), Sch. 4 (items 42, 43, 46), Sch. 5 (items 74(1), 
+(3)–(5), 75, 76), Sch. 6 (item 12) and Sch. 7 (items 11, 12) 
+S. 2(1) (am. by 82, 2007, Sch. 1 \[item 1]) 
+Sch. 2 (item 115) (am. by 82, 2007, Sch. 1 \[item 99]) 
+Sch. 2 (item 116A) (ad. by 82, 2007, Sch. 1 \[item 100]) 
+Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 74(2)) (am. by 63, 2008, Sch. 6 \[item 17]) 
+Sch. 9 (ad. by 82, 2007, Sch. 1 \[item 21])</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Community Services and Indigenous Affairs Legislation Amendment
-        (Child Support Reform Consolidation and Other Measures) Act 2007
-    </div>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007</div>
   </td>
   <td>
-    <div>
-      82, 2007
-    </div>
+    <div>82, 2007</div>
   </td>
   <td>
-    <div>
-      21 June 2007
-    </div>
+    <div>21 June 2007</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 1, 21, 80, 99, 100, 213, 214): ( <i>see</i>82, 2007 below)</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 1, 21, 80, 99, 100, 213, 214): (
-        <i>see</i>82, 2007 below)
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 80)
-    </div>
+    <div>Sch. 1 (item 80)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Housing, Community Services and Indigenous Affairs and Other
-        Legislation Amendment (2008 Budget and Other Measures) Act 2008
-    </div>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
   </td>
   <td>
-    <div>
-      63, 2008
-    </div>
+    <div>63, 2008</div>
   </td>
   <td>
-    <div>
-      30 June 2008
-    </div>
+    <div>30 June 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 6 (items 16, 17): <i>(r)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 6 (items 16, 17):
-        <i>(r)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Community Services and Indigenous Affairs and Veterans’ Affairs
-        Legislation Amendment (2006 Budget Measures) Act 2006
-    </div>
+    <div>Families, Community Services and Indigenous Affairs and Veterans’ Affairs Legislation Amendment (2006 Budget Measures) Act 2006</div>
   </td>
   <td>
-    <div>
-      156, 2006
-    </div>
+    <div>156, 2006</div>
   </td>
   <td>
-    <div>
-      8 Dec 2006
-    </div>
+    <div>8 Dec 2006</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: 1 Jan 2007 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 1 Jan 2007
-
-Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Community Services and Indigenous Affairs Legislation Amendment
-        (Child Support Reform Consolidation and Other Measures) Act 2007
-    </div>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007</div>
   </td>
   <td>
-    <div>
-      82, 2007
-    </div>
+    <div>82, 2007</div>
   </td>
   <td>
-    <div>
-      21 June 2007
-    </div>
+    <div>21 June 2007</div>
+  </td>
+  <td colspan="2">
+    <div>S. 4 and Schedule 12 (items 18–23): Royal Assent 
+Schedule 1 (item 1): <i>(s) 
+ </i>Schedule 1 (items 2–19, 21, 78–80) and Schedule 4 (items 1–10): 22 June 2007 
+Schedule 1 (items 92–98), Schedule 3 (items 1–17) and Schedule 4 (items 21–38): 1 Jan 2008 
+Schedule 1 (items 99, 100): <i>(s)</i> 
+Schedule 1 (items 103–192, 213, 214), Schedule 2 (items 114–149), Schedule 3 (items 29–49) and Schedule 4 (items 47–53): <i>(s)</i> 
+Schedule 2 (items 1–44): 19 July 2007</div>
   </td>
   <td>
-    <div>
-      s. 4 and Schedule 12 (items 18–23): Royal Assent
-
-Schedule 1 (item 1):
-        <i>(s)</i>
-
-Schedule 1 (items 2–19, 21, 78–80) and Schedule 4 (items 1–10): 22 June
-        2007
-
-Schedule 1 (items 92–98), Schedule 3 (items 1–17) and Schedule 4 (items 21–38):
-        1 Jan 2008
-
-Schedule 1 (items 99, 100):
-        <i>(s)</i>
-
-Schedule 1 (items 103–192, 213, 214), Schedule 2 (items 114–149), Schedule 3
-        (items 29–49) and Schedule 4 (items 47–53):
-        <i>(s)</i>
-
-Schedule 2 (items 1–44): 19 July 2007
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4, Sch. 1 (items 78–80, 98) and Sch. 4 (items 23, 33)
-
-s. 2(1) (am. by 73, 2008, Sch. 2 \[item 16])
-    </div>
+    <div>S. 4, Sch. 1 (items 
+78–80, 98) and Sch. 4 (items 23, 33) 
+S. 2(1) (am. by 73, 2008, Sch. 2 \[item 16])</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2008
-    </div>
+    <div>Statute Law Revision Act 2008</div>
   </td>
   <td>
-    <div>
-      73, 2008
-    </div>
+    <div>73, 2008</div>
   </td>
   <td>
-    <div>
-      3 July 2008
-    </div>
+    <div>3 July 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 16–18): <i>(sa)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 16–18):
-        <i>(sa)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2010
-    </div>
+    <div>Statute Law Revision Act 2010</div>
   </td>
   <td>
-    <div>
-      8, 2010
-    </div>
+    <div>8, 2010</div>
   </td>
   <td>
-    <div>
-      1 Mar 2010
-    </div>
+    <div>1 Mar 2010</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 7, 8): <i>(sb)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 7, 8):
-        <i>(sb)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Family Law Amendment (De Facto Financial Matters and Other Measures) Act
-        2008
-    </div>
+    <div>Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008</div>
   </td>
   <td>
-    <div>
-      115, 2008
-    </div>
+    <div>115, 2008</div>
   </td>
   <td>
-    <div>
-      21 Nov 2008
-    </div>
+    <div>21 Nov 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 19–21): 1 Mar 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 19–21): 1 Mar 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Housing, Community Services and Indigenous Affairs and Other
-        Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008
-    </div>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008</div>
   </td>
   <td>
-    <div>
-      143, 2008
-    </div>
+    <div>143, 2008</div>
   </td>
   <td>
-    <div>
-      9 Dec 2008
-    </div>
+    <div>9 Dec 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (items 1–11, 
+14–31): 6 Jan 2009 
+Schedule 3 (items 32–49): 10 Dec 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 1–11, 14–31): 6 Jan 2009
-
-Schedule 3 (items 32–49): 10 Dec 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (items 11, 26, 29, 31, 49)
-    </div>
+    <div>Sch. 3 (items 11, 26, 29, 31, 49)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law
-        Reform) Act 2008
-    </div>
+    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
-    <div>
-      144, 2008
-    </div>
+    <div>144, 2008</div>
   </td>
   <td>
-    <div>
-      9 Dec 2008
-    </div>
+    <div>9 Dec 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 6 (items 22A–22H): 1 July 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 6 (items 22A–22H): 1 July 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (2009 Measures No. 1) Act 2009
-    </div>
+    <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
   </td>
   <td>
-    <div>
-      27, 2009
-    </div>
+    <div>27, 2009</div>
   </td>
   <td>
-    <div>
-      26 Mar 2009
-    </div>
+    <div>26 Mar 2009</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (items 33–35, 102(1), (2)(b), (c)): 27 Mar 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 33–35, 102(1), (2)(b), (c)): 27 Mar 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (item 102(1), (2)(b), (c))
-    </div>
+    <div>Sch. 3 (item 102(1), (2)(b), (c))</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Child Support and Family Assistance Legislation Amendment (Budget and
-        Other Measures) Act 2010
-    </div>
+    <div>Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010</div>
   </td>
   <td>
-    <div>
-      65, 2010
-    </div>
+    <div>65, 2010</div>
   </td>
   <td>
-    <div>
-      28 June 2010
-    </div>
+    <div>28 June 2010</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 1–47, 51, 52) and Schedule 2 (items 39–70, 100–112): 1 July 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 1–47, 51, 52) and Schedule 2 (items 39–70, 100–112):
-        1 July 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (items 51, 52) and Sch. 2 (items 100–112) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 51, 52) and Sch. 2 (items 
+100–112) \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2011
-    </div>
+    <div>Statute Law Revision Act 2011</div>
   </td>
   <td>
-    <div>
-      5, 2011
-    </div>
+    <div>5, 2011</div>
   </td>
   <td>
-    <div>
-      22 Mar 2011
-    </div>
+    <div>22 Mar 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 6 (items 14, 15) and Schedule 7 (item 33): 19 Apr 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 6 (items 14, 15) and Schedule 7 (item 33): 19 Apr 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Human Services Legislation Amendment Act 2011
-    </div>
+    <div>Human Services Legislation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      32, 2011
-    </div>
+    <div>32, 2011</div>
   </td>
   <td>
-    <div>
-      25 May 2011
-    </div>
+    <div>25 May 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 (items 50–55): 1 July 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 50–55): 1 July 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Acts Interpretation Amendment Act 2011
-    </div>
+    <div>Acts Interpretation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      46, 2011
-    </div>
+    <div>46, 2011</div>
   </td>
   <td>
-    <div>
-      27 June 2011
-    </div>
+    <div>27 June 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 325–333) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 325–333) and Schedule 3 (items 10, 11): 27 Dec 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (items 10, 11)
-    </div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Families, Housing, Community Services and Indigenous Affairs and Other
-        Legislation Amendment (Further Election Commitments and Other Measures)
-        Act 2011
-    </div>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011</div>
   </td>
   <td>
-    <div>
-      53, 2011
-    </div>
+    <div>53, 2011</div>
   </td>
   <td>
-    <div>
-      28 June 2011
-    </div>
+    <div>28 June 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 and Schedule 5 (item 32): 1 July 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 3 and Schedule 5 (item 32): 1 July 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (items 9–11)
-    </div>
+    <div>Sch. 3 (items 9–11)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Other Legislation Amendment (Disability Support Pension
-        Participation Reforms) Act 2012
-    </div>
+    <div>Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012</div>
   </td>
   <td>
-    <div>
-      51, 2012
-    </div>
+    <div>51, 2012</div>
   </td>
   <td>
-    <div>
-      26 May 2012
-    </div>
+    <div>26 May 2012</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 (items 1–3): Royal Assent 
+Schedule 4 (items 4–21): \[ <i>see</i>Note 2 and Table A] 
+Schedule 4 (items 22–24): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 1–3): Royal Assent
-
-Schedule 4 (items 4–21): 1 Jan 2013
-
-Schedule 4 (items 22–24): \[
-        <i>see</i>Endnotes 3 and 4]
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 4 (items 2, 3, 18, 20, 21, 24)
-    </div>
+    <div>Sch. 4 (items 2, 3, 18, 20, 21, 24)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Other Legislation Amendment (2012 Budget and Other
-        Measures) Act 2012
-    </div>
+    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
   </td>
   <td>
-    <div>
-      98, 2012
-    </div>
+    <div>98, 2012</div>
   </td>
   <td>
-    <div>
-      29 June 2012
-    </div>
+    <div>29 June 2012</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 5 (items 14–22): 1 July 2012 
+Schedule 7 (item 16): 30 June 2012</div>
   </td>
   <td>
-    <div>
-      Schedule 5 (items 14–22): 1 July 2012
-
-Schedule 7 (item 16): 30 June 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 5 (item 22)
-    </div>
+    <div>Sch. 5 (item  22)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Other Legislation Amendment (Further 2012 Budget and
-        Other Measures) Act 2012
-    </div>
+    <div>Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012</div>
   </td>
   <td>
-    <div>
-      154, 2012
-    </div>
+    <div>154, 2012</div>
   </td>
   <td>
-    <div>
-      17 Nov 2012
-    </div>
+    <div>17 Nov 2012</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 (items 1, 2): Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 1, 2): Royal Assent
-    </div>
+    <div>Sch. 4 (item 2)</div>
   </td>
-  <td>
-    <div>
-      Sch. 4 (item 2)
-    </div>
-  </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
-_(a)_             The _Child Support (Assessment) Act 1989_ was amended by Part 2 (sections 5 and 6) only of the _Social Security and Veterans’ Affairs Legislation Amendment Act (No. 3) 1989,_ section 2 of which provides as follows:
+_(a)_     The _Child Support (Assessment) Act 1989_ was amended by Part 2 (sections 5 and 6) only of the _Social Security and Veterans’ Affairs Legislation Amendment Act (No. 3) 1989,_ section 2 of which provides as follows:
 
-                     2.  Each provision of this Act commences, or is to be taken to have commenced, as the case requires, on the day, or at the time, shown by the note in italics at the foot of that provision.
+                   2.   Each provision of this Act commences, or is to be taken to have commenced, as the case requires, on the day, or at the time, shown by the note in italics at the foot of that provision.
 
-_(b)_             The _Child Support (Assessment) Act 1989_ was amended by sections 3–10 and 12 only of the _Child Support Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows: 
+_(b)_     The _Child Support (Assessment) Act 1989_ was amended by sections 3–10 and 12 only of the _Child Support Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows: 
 
-                   (1)  This Act (other than section 22) commences on the day on which it receives the Royal Assent.
+                 (1)   This Act (other than section 22) commences on the day on which it receives the Royal Assent.
 
-_(c)_              The _Child Support (Assessment) Act 1989_ was amended by subsection 3(5) only of the _Social Security Legislation Amendment (Family Measures) Act 1995_, subsection 2(3) of which provides as follows: 
+_(c)_     The _Child Support (Assessment) Act 1989_ was amended by subsection 3(5) only of the _Social Security Legislation Amendment (Family Measures) Act 1995_, subsection 2(3) of which provides as follows: 
 
-                   (3)  Schedules 2, 3, 4, 7, 8 and 9 commence on 1 January 1996.
+                 (3)   Schedules 2, 3, 4, 7, 8 and 9 commence on 1 January 1996.
 
-_(d)_             The _Child Support (Assessment) Act 1989_ was amended by Schedule 1 (Part 2) only of the _Family Law Reform (Consequential Amendments) Act 1995_, subsection 2(2) of which provides as follows: 
+_(d)_     The _Child Support (Assessment) Act 1989_ was amended by Schedule 1 (Part 2) only of the _Family Law Reform (Consequential Amendments) Act 1995_, subsection 2(2) of which provides as follows: 
 
-                   (2)  The amendments made by Parts 1, 2, 3, 4, 6, 8, 9 and 10 of Schedule 1 commence on the commencement of section 31 of the _Family Law Reform Act 1995_.
+                 (2)   The amendments made by Parts 1, 2, 3, 4, 6, 8, 9 and 10 of Schedule 1 commence on the commencement of section 31 of the _Family Law Reform Act 1995_.
 
-_(e)_              The _Child Support (Assessment) Act 1989_ was amended by Schedule 2 (items 23–27) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows: 
+_(e)_     The _Child Support (Assessment) Act 1989_ was amended by Schedule 2 (items 23–27) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows: 
 
-                   (2)  Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
-                  Items 23, 25 and 26 are taken to have commenced immediately after the commencement of the _Child Support (Assessment) Act 1989_.
+         Items 23, 25 and 26 are taken to have commenced immediately after the commencement of the _Child Support (Assessment) Act 1989_.
 
-                  The _Child Support (Assessment) Act 1989_ came into operation on 1 October 1989 (_see Gazette_ 1989, No. S314). 
+         The _Child Support (Assessment) Act 1989_ came into operation on 1 October 1989 (_see Gazette_ 1989, No. S314). 
 
-                  Item 24 is taken to have commenced immediately after the commencement of section 27 of the _Child Support Legislation Amendment Act (No. 2) 1992_. 
+         Item 24 is taken to have commenced immediately after the commencement of section 27 of the _Child Support Legislation Amendment Act (No. 2) 1992_. 
 
-                  Item 27 is taken to have commenced immediately after the commencement of section 29 of the _Child Support Legislation Amendment Act (No. 2) 1992_. 
+         Item 27 is taken to have commenced immediately after the commencement of section 29 of the _Child Support Legislation Amendment Act (No. 2) 1992_. 
 
-                  Sections 27 and 29 commenced on 11 December 1992.
+         Sections 27 and 29 commenced on 11 December 1992.
 
-_(f)_              The _Child Support (Assessment) Act 1989_ was amended by Schedule 1 (items 287–297) only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
+_(f)_      The _Child Support (Assessment) Act 1989_ was amended by Schedule 1 (items 287–297) only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
 
-                   (2)  Part 3 of Schedule 1 commences on 1 July 1998\. The remaining items of Schedule 1 commence on 20 March 1998.
+                 (2)   Part 3 of Schedule 1 commences on 1 July 1998\. The remaining items of Schedule 1 commence on 20 March 1998.
 
-_(g)_             The _Child Support (Assessment) Act 1989_ was amended by Schedule 7 (items 2–10) only of the _Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
+_(g)_ The _Child Support (Assessment) Act 1989_ was amended by Schedule 7 (items 2–10) only of the _Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
 
-                   (9)  Schedule 7 commences, or is taken to have commenced, on 1 April 1998.
+                 (9)   Schedule 7 commences, or is taken to have commenced, on 1 April 1998.
 
-_(h)_             The _Child Support (Assessment) Act 1989_ was amended by the _Child Support Legislation Amendment Act 1998_, subsections 2(1) and (5)–(14) of which provide as follows:
+_(h)_ The _Child Support (Assessment) Act 1989_ was amended by the _Child Support Legislation Amendment Act 1998_, subsections 2(1) and (5)–(14) of which provide as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                   (5)  Schedules 14 and 18 commence immediately after the commencement of Schedule 1.
+                 (5)   Schedules 14 and 18 commence immediately after the commencement of Schedule 1.
 
-                   (6)  Schedule 13 commences immediately after the commencement of Schedule 14.
+                 (6)   Schedule 13 commences immediately after the commencement of Schedule 14.
 
-                   (7)  Schedule 15 commences immediately after the commencement of Schedule 13.
+                 (7)   Schedule 15 commences immediately after the commencement of Schedule 13.
 
-                   (8)  Schedule 16 commences immediately after the commencement of Schedule 15.
+                 (8)   Schedule 16 commences immediately after the commencement of Schedule 15.
 
-                   (9)  Subject to subsection (10), the amendments made by Schedule 7 commence on a day or days to be fixed by Proclamation.
+                 (9)   Subject to subsection (10), the amendments made by Schedule 7 commence on a day or days to be fixed by Proclamation.
 
-                 (10)  If an amendment referred to in subsection (2), (4) or (9) does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. 
+               (10)   If an amendment referred to in subsection (2), (4) or (9) does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. 
 
-                 (11)  Schedule 23 (except Part 2) commences immediately after the commencement of Schedule 16.
+               (11)   Schedule 23 (except Part 2) commences immediately after the commencement of Schedule 16.
 
-                 (12)  Part 2 of Schedule 23 commences on the day after the day on which the _A New Tax System (Fringe Benefits Reporting) Act 1999_ receives the Royal Assent. However, if this Act receives the Royal Assent after the day on which that Act receives the Royal Assent, that Part commences on the day after the day on which this Act receives the Royal Assent. 
+               (12)   Part 2 of Schedule 23 commences on the day after the day on which the _A New Tax System (Fringe Benefits Reporting) Act 1999_ receives the Royal Assent. However, if this Act receives the Royal Assent after the day on which that Act receives the Royal Assent, that Part commences on the day after the day on which this Act receives the Royal Assent. 
 
-                 (13)  Schedule 24 (except Part 2) commences immediately after the commencement of Part 1 of Schedule 23.
+               (13)   Schedule 24 (except Part 2) commences immediately after the commencement of Part 1 of Schedule 23.
 
-                 (14)  Part 2 of Schedule 24 commences when Part 2 of Schedule 23 commences.
+               (14)   Part 2 of Schedule 24 commences when Part 2 of Schedule 23 commences.
 
-_(i)_              The _Child Support (Assessment) Act 1989_ was amended by Schedule 4 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
+_(i)_ The _Child Support (Assessment) Act 1989_ was amended by Schedule 4 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
-                   (2)  Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than item 63) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_.
+                 (2)   Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than item 63) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_.
 
-_(j)_              The _Child Support (Assessment) Act 1989_ was amended by Schedule 1 (items 285 and 286) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(j)_ The _Child Support (Assessment) Act 1989_ was amended by Schedule 1 (items 285 and 286) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                   (2)  Subject to this section, this Act commences at the commencing time.
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-_(k)_              The _Child Support (Assessment) Act 1989_ was amended by Schedule 8 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+_(k)_ The _Child Support (Assessment) Act 1989_ was amended by Schedule 8 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
+                 (1)   Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
 
-_(l)_              The _Child Support (Assessment) Act 1989_ was amended by Schedule 4 (items 2–9) only of the _A New Tax System (Family Assistance and Related Measures) Act 2000_, subsections 2(4) and (8) of which provide as follows:
+_(l)_      The _Child Support (Assessment) Act 1989_ was amended by Schedule 4 (items 2–9) only of the _A New Tax System (Family Assistance and Related Measures) Act 2000_, subsections 2(4) and (8) of which provide as follows:
 
-                   (4)  Schedule 2, items 3 to 5 and 15 to 57 of Schedule 3 and Schedules 5 and 6 commence immediately after the commencement of the provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_. 
+                 (4)   Schedule 2, items 3 to 5 and 15 to 57 of Schedule 3 and Schedules 5 and 6 commence immediately after the commencement of the provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_. 
 
-                   (8)  Items 2 to 9 of Schedule 4 commence immediately after the commencement of Schedule 4 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_.
+                 (8)   Items 2 to 9 of Schedule 4 commence immediately after the commencement of Schedule 4 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_.
 
-                  The provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_ and Schedule 4 of the _A New Tax System (Family Assistance) (Consequential and Related Matters) Act (No. 2) 1999_ commenced on 1 July 2000.
+         The provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_ and Schedule 4 of the _A New Tax System (Family Assistance) (Consequential and Related Matters) Act (No. 2) 1999_ commenced on 1 July 2000.
 
-_(m)_             The _Child Support (Assessment) Act 1989_ was amended by Schedule 3 (items 1–4, 4A and 4B) only of the _Family Law Amendment Act 2000_, subsection 2(1) of which provides as follows:
+_(m)_    The _Child Support (Assessment) Act 1989_ was amended by Schedule 3 (items 1–4, 4A and 4B) only of the _Family Law Amendment Act 2000_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsections (1A) and (2), this Act commences 28 days after the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (1A) and (2), this Act commences 28 days after the day on which it receives the Royal Assent.
 
-_(n)_             The _Child Support (Assessment) Act 1989_ was amended by the _Child Support Legislation Amendment Act 2001_, subsections 2(1) and (5)–(9) of which provide as follows:
+_(n)_ The _Child Support (Assessment) Act 1989_ was amended by the _Child Support Legislation Amendment Act 2001_, subsections 2(1) and (5)–(9) of which provide as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                   (5)  Item 1 of Schedule 10 is taken to have commenced immediately after the commencement of section 124 of the _Family Court Act 1997_ of Western Australia.
+                 (5)   Item 1 of Schedule 10 is taken to have commenced immediately after the commencement of section 124 of the _Family Court Act 1997_ of Western Australia.
 
-                   (6)  Item 2 of Schedule 10 is taken to have commenced immediately after the commencement of Schedule 16 to the _Child Support Legislation Amendment Act 1998_.
+                 (6)   Item 2 of Schedule 10 is taken to have commenced immediately after the commencement of Schedule 16 to the _Child Support Legislation Amendment Act 1998_.
 
-                   (7)  Items 3, 4 and 5 of Schedule 10 are taken to have commenced immediately after the commencement of item 5 of Schedule 4 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_.
+                 (7)   Items 3, 4 and 5 of Schedule 10 are taken to have commenced immediately after the commencement of item 5 of Schedule 4 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_.
 
-                   (8)  Items 6, 15, 16, 17 and 18 of Schedule 10 are taken to have commenced immediately after the commencement of Schedule 16 to the _Child Support Legislation Amendment Act 1998_.
+                 (8)   Items 6, 15, 16, 17 and 18 of Schedule 10 are taken to have commenced immediately after the commencement of Schedule 16 to the _Child Support Legislation Amendment Act 1998_.
 
-                   (9)  Item 23 of Schedule 10 is taken to have commenced immediately after the commencement of Schedule 21 to the _Child Support Legislation Amendment Act 1998_.
+                 (9)   Item 23 of Schedule 10 is taken to have commenced immediately after the commencement of Schedule 21 to the _Child Support Legislation Amendment Act 1998_.
 
-                  Section 124 of the _Family Court Act 1997_ of Western Australia commenced on 26 September 1998 (_see_ Government Gazette, WA 25 September 1998, p. 5295).
+         Section 124 of the _Family Court Act 1997_ of Western Australia commenced on 26 September 1998 (_see_ Government Gazette, WA 25 September 1998, p. 5295).
 
-                  Schedule 16 to the _Child Support Legislation Amendment Act 1998_ commenced on 15 December 1998.
+         Schedule 16 to the _Child Support Legislation Amendment Act 1998_ commenced on 15 December 1998.
 
-                  Schedule 4 (item 5) to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_ commenced on 1 July 2000.
+         Schedule 4 (item 5) to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_ commenced on 1 July 2000.
 
-                  Schedule 21 to the _Child Support Legislation Amendment Act 1998_ commenced on 15 December 1998.
+         Schedule 21 to the _Child Support Legislation Amendment Act 1998 c_ ommenced on 15 December 1998.
 
-_(na)_           Subsection 2(1) (items 33 and 34) of the _Statute Law Revision Act 2007_ provides as follows:
+_(na)_ Subsection 2(1) (items 33 and 34) of the _Statute Law Revision Act 2007_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11187,9 +10424,9 @@ _(na)_           Subsection 2(1) (items 33 and 34) of th
   </td>
 </tr></table>
 
-_(nb)_           Subsection 2(1) (item 61) of the _Statute Law Revision Act 2008_ provides as follows:
+_(nb)_   Subsection 2(1) (item 61) of the _Statute Law Revision Act 2008_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11240,9 +10477,9 @@ _(nb)_           Subsection 2(1) (item 61) of the _Statu
   </td>
 </tr></table>
 
-_(o)_             Subsection 2(1) (items 5 and 6) of the _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006_ provides as follows:
+_(o)_     Subsection 2(1) (items 5 and 6) of the _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11323,11 +10560,11 @@ _(o)_             Subsection 2(1) (items 5 and 6) of
   </td>
 </tr></table>
 
-                  The _Child Support Legislation Amendment Act 2006_ was not enacted. Therefore these amendments did not commence.
+         The _Child Support Legislation Amendment Act 2006_ was not enacted. Therefore these amendments did not commence.
 
-_(oa)_           Subsection 2(1) (item 30) of the _Statute Law Revision Act 2007_ provides as follows:
+_(oa)_ Subsection 2(1) (item 30) of the _Statute Law Revision Act 2007_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11382,9 +10619,9 @@ _(oa)_           Subsection 2(1) (item 30) of the _Statu
   </td>
 </tr></table>
 
-_(p)_             Subsection 2(1) (item 14) of the _Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006_ provides as follows:
+_(p)_     Subsection 2(1) (item 14) of the _Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11437,9 +10674,9 @@ _(p)_             Subsection 2(1) (item 14) of the _
   </td>
 </tr></table>
 
-_(q)_             Subsection 2(1) (items 6, 8 and 9) of the _Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006_ provides as follows:
+_(q)_     Subsection 2(1) (items 6, 8 and 9) of the _Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11526,9 +10763,9 @@ _(q)_             Subsection 2(1) (items 6, 8 and 9)
   </td>
 </tr></table>
 
-_(r)_              Subsection 2(1) (item 21) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation__Amendment (2008 Budget and Other Measures)__Act 2008_ provides as follows:
+_(r)_     Subsection 2(1) (item 21) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation__Amendment (2008 Budget and Other Measures)__Act 2008_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11583,9 +10820,9 @@ _(r)_              Subsection 2(1) (item 21) of th
   </td>
 </tr></table>
 
-_(s)_              Subsection 2(1) (items 2, 5, 7, 9, 11, 13 and 16) of the _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007_ provides as follows:
+_(s)_ Subsection 2(1) (items 2, 5, 7, 9, 11, 13 and 16) of the _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11749,9 +10986,9 @@ _(s)_              Subsection 2(1) (items 2, 5, 7,
   </td>
 </tr></table>
 
-_(sa)_            Subsection 2(1) (items 52–54) of the _Statute Law Revision Act 2008_ provides as follows:
+_(sa)_   Subsection 2(1) (items 52–54) of the _Statute Law Revision Act 2008_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11845,9 +11082,9 @@ _(sa)_            Subsection 2(1) (items 52–54) of t
   </td>
 </tr></table>
 
-_(sb)_            Subsection 2(1) (items 10 and 11) of the _Statute Law Revision Act 2010_ provides as follows:
+_(sb)_   Subsection 2(1) (items 10 and 11) of the _Statute Law Revision Act 2010_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -11897,7 +11134,7 @@ _(sb)_            Subsection 2(1) (items 10 and 11) of
   </td>
   <td>
     <div>
-      1 July 2008
+      1 July 2008
     </div>
   </td>
 </tr>
@@ -11917,9206 +11154,6484 @@ _(sb)_            Subsection 2(1) (items 10 and 11) of
   </td>
   <td>
     <div>
-      1 July 2008
+      1 July 2008
     </div>
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Child Support (Assessment) Act 1989__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>
-        ad. = added or inserted am. = amended rep. = repealed rs. = repealed and
-          substituted exp. = expired or ceased to have effect
-      </div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 1
-      </b>
-    </div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 49, 2000; No. 146, 2006
-    </div>
+    <div>am. No. 49, 2000; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4A...................................
-    </div>
+    <div>S. 4A</div>
   </td>
   <td>
-    <div>
-      ad. No. 137, 2001
-    </div>
+    <div>ad. No. 137, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5......................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; Nos. 39 and 140, 1995; Nos. 39, 84 and 197, 1997; Nos.
-        93 and 120, 1998; Nos. 83 and 194, 1999; No. 75, 2001; Nos. 46, 53 and
-        146, 2006; No. 82, 2007; No. 144, 2008; No. 27, 2009; No. 65, 2010; Nos.
-        46 and 53, 2011; No. 51, 2012
-    </div>
+    <div>am. No. 151, 1992; Nos. 39 and 140, 1995; Nos. 39, 84 and 197, 1997; Nos. 93 and 120, 1998; Nos. 83 and 194, 1999; No. 75, 2001; Nos. 46, 53 and 146, 2006; No. 82, 2007; No. 144, 2008; No. 27, 2009; No. 65, 2010; Nos. 46 and 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5A...................................
-    </div>
+    <div>S. 5A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2011; No. 51, 2012
-    </div>
+    <div>am. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5B...................................
-    </div>
+    <div>S. 5B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 6....................
-    </div>
+    <div>Heading to s. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6......................................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7A...................................
-    </div>
+    <div>S. 7A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 46, 2011
-    </div>
+    <div>am. No. 146, 2006; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 7A(1)..................
-    </div>
+    <div>Note to s. 7A(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 46, 2011
-    </div>
+    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7B...................................
-    </div>
+    <div>S. 7B</div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2001
-    </div>
+    <div>ad. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. Nos. 46 and 146, 2006
-    </div>
+    <div>am. Nos. 46 and 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 8....................
-    </div>
+    <div>Heading to s. 8</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 46, 2006
-    </div>
+    <div>am. No. 140, 1995; No. 46, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8......................................
-    </div>
+    <div>S. 8</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 46, 2006
-    </div>
+    <div>am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 46, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 8A.................
-    </div>
+    <div>Heading to s. 8A</div>
   </td>
   <td>
-    <div>
-      am. No. 46, 2006
-    </div>
+    <div>am. No. 46, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8A...................................
-    </div>
+    <div>S. 8A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; Nos. 46 and 82, 2006
-    </div>
+    <div>am. No. 120, 1998; Nos. 46 and 82, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11....................................
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      rs. No. 151, 1992
-    </div>
+    <div>rs. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12....................................
-    </div>
+    <div>S. 12</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 84, 1997; No. 120, 1998; No. 146, 2006; No. 82,
-        2007; No. 143, 2008
-    </div>
+    <div>am. No. 140, 1995; No. 84, 1997; No. 120, 1998; No. 146, 2006; No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 12(1)...................
-    </div>
+    <div>Note to s. 12(1)</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12A.................................
-    </div>
+    <div>S. 12A</div>
   </td>
   <td>
-    <div>
-      ad. No. 98, 2012
-    </div>
+    <div>ad. No. 98, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 13..................
-    </div>
+    <div>Heading to s. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2006
-    </div>
+    <div>am. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 13(1)............
-    </div>
+    <div>Subhead. to s. 13(1)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 13(3)............
-    </div>
+    <div>Subhead. to s. 13(3)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 13(4)............
-    </div>
+    <div>Subhead. to s. 13(4)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13....................................
-    </div>
+    <div>S. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 53, 2006; No. 82, 2007
-    </div>
+    <div>am. No. 151, 1992; No. 53, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 13(4)...................
-    </div>
+    <div>Note to s. 13(4)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 2
-      </b>
-    </div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 17....................................
-    </div>
+    <div>S. 17</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 3
-      </b>
-    </div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 22....................................
-    </div>
+    <div>S. 22</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 4
-      </b>
-    </div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 23....................................
-    </div>
+    <div>S. 23</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24....................................
-    </div>
+    <div>S. 24</div>
   </td>
   <td>
-    <div>
-      am. No. 84, 1997; No. 82, 2007
-    </div>
+    <div>am. No. 84, 1997; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25....................................
-    </div>
+    <div>S. 25</div>
   </td>
   <td>
-    <div>
-      am. No. 13, 1992; No. 140, 1995; No. 84, 1997
-    </div>
+    <div>am. No. 13, 1992; No. 140, 1995; No. 84, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 25.......................
-    </div>
+    <div>Note to s. 25</div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25A.................................
-    </div>
+    <div>S. 25A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 25A.....................
-    </div>
+    <div>Note to s. 25A</div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26....................................
-    </div>
+    <div>S. 26</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998; No. 146, 2006
-    </div>
+    <div>rs. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26A.................................
-    </div>
+    <div>S. 26A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 27....................................
-    </div>
+    <div>S. 27</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 28..................
-    </div>
+    <div>Heading to s. 28</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 28....................................
-    </div>
+    <div>S. 28</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 28.......................
-    </div>
+    <div>Note to s. 28</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29....................................
-    </div>
+    <div>S. 29</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1995; No. 84, 1997; No. 120, 1998; No. 146, 2006; No. 144,
-        2008
-    </div>
+    <div>am. No. 39, 1995; No. 84, 1997; No. 120, 1998; No. 146, 2006; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29A.................................
-    </div>
+    <div>S. 29A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29B.................................
-    </div>
+    <div>S. 29B</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 30....................................
-    </div>
+    <div>S. 30</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 30A, 30B.......................
-    </div>
+    <div>Ss. 30A, 30B</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 31....................................
-    </div>
+    <div>S. 31</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998; No. 82, 2007
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 32....................................
-    </div>
+    <div>S. 32</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 33....................................
-    </div>
+    <div>S. 33</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 34..................
-    </div>
+    <div>Heading to s. 34</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 34....................................
-    </div>
+    <div>S. 34</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006; No. 82, 2007
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 4A
-      </b>
-    </div>
+    <div><b>Part 4A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 4A................................
-    </div>
+    <div>Part 4A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 34A.................................
-    </div>
+    <div>S. 34A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 46, 2011
-    </div>
+    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 34B.................................
-    </div>
+    <div>S. 34B</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 34B(1)
-
-Renumbered Note 1.........
-    </div>
+    <div>Note to s. 34B(1) 
+Renumbered Note 1</div>
   </td>
   <td>
     <div>
-
-No. 146, 2006
-    </div>
+No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 34B(1).............
-    </div>
+    <div>Note 2 to s. 34B(1)</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 34C.................................
-    </div>
+    <div>S. 34C</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 5
-      </b>
-    </div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 5..................................
-    </div>
+    <div>Part 5</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 35A.................................
-    </div>
+    <div>S. 35A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 35B, 35C.......................
-    </div>
+    <div>Ss. 35B, 35C</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subdiv. B of Div. 2 of.........
-
-Part 5
-    </div>
+    <div>Subdiv. B of Div. 2 of 
+Part 5</div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-
-ad. No. 146, 2006
-    </div>
+    <div>rep. No. 120, 1998 
+ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 35D.................................
-    </div>
+    <div>S. 35D</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 35....................................
-    </div>
+    <div>S. 35</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 36....................................
-    </div>
+    <div>S. 36</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 36A.................................
-    </div>
+    <div>S. 36A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 37....................................
-    </div>
+    <div>S. 37</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 38....................................
-    </div>
+    <div>S. 38</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1997
-    </div>
+    <div>am. No. 39, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision D
-      </b>
-    </div>
+    <div><b>Subdivision D</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. D of......
-
-Div. 2 of Part 5
-    </div>
+    <div>Heading to Subdiv. D of 
+Div. 2 of Part 5</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-
-rs. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995 
+rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 38A.................................
-    </div>
+    <div>S. 38A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 82, 2007
-    </div>
+    <div>am. No. 120, 1998; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 39....................................
-    </div>
+    <div>S. 39</div>
   </td>
   <td>
-    <div>
-      am. No. 84, 1997; No. 120, 1998; No. 83, 1999; No. 45, 2000; No. 75, 2001;
-        No. 82, 2007
-    </div>
+    <div>am. No. 84, 1997; No. 120, 1998; No. 83, 1999; No. 45, 2000; No. 75, 2001; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 40....................................
-    </div>
+    <div>S. 40</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision E
-      </b>
-    </div>
+    <div><b>Subdivision E</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 40A.................................
-    </div>
+    <div>S. 40A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 40B–40D.......................
-    </div>
+    <div>Ss. 40B–40D</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. G of......
-
-Div. 2 of Part 5
-    </div>
+    <div>Heading to Subdiv. G of 
+Div. 2 of Part 5</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-
-rep. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995 
+rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subdiv. H of Div. 2 of........
-
-Part 5
-    </div>
+    <div>Subdiv. H of Div. 2 of 
+Part 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-
-rep. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998 
+rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 40E.................................
-    </div>
+    <div>S. 40E</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subdiv. AA of Div. 3..........
-
-of Part 5
-    </div>
+    <div>Subdiv. AA of Div. 3 
+of Part 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-
-rep. No. 146, 2006
-    </div>
+    <div>ad. No. 82, 2007 
+rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. B of......
-
-Div. 3 of Part 5
-    </div>
+    <div>Heading to Subdiv. B of 
+Div. 3 of Part 5</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998; No. 146, 2006
-    </div>
+    <div>rs. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 41....................................
-    </div>
+    <div>S. 41</div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 42..................
-    </div>
+    <div>Heading to s. 42</div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2006
-    </div>
+    <div>am. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 42....................................
-    </div>
+    <div>S. 42</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 53, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 43....................................
-    </div>
+    <div>S. 43</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 27, 2009; No. 65, 2010
-    </div>
+    <div>am. No. 27, 2009; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 44..................
-    </div>
+    <div>Heading to s. 44</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 44....................................
-    </div>
+    <div>S. 44</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 45..................
-    </div>
+    <div>Heading to s. 45</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 51, 2012
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 45....................................
-    </div>
+    <div>S. 45</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 39, 1997
-    </div>
+    <div>am. No. 140, 1995; No. 39, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 51, 2012
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 45A.................................
-    </div>
+    <div>S. 45A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 82, 2007
-    </div>
+    <div>am. No. 120, 1998; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 46..................
-    </div>
+    <div>Heading to s. 46</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 46....................................
-    </div>
+    <div>S. 46</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 47....................................
-    </div>
+    <div>S. 47</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 75, 2001; No. 82, 2007
-    </div>
+    <div>am. No. 140, 1995; No. 75, 2001; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 4 of Part 5...................
-    </div>
+    <div>Div. 4 of Part 5</div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 2010
-    </div>
+    <div>rs. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 47A, 47B.......................
-    </div>
+    <div>Ss. 47A, 47B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 48....................................
-    </div>
+    <div>S. 48</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 46, 2006
-    </div>
+    <div>am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 46, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 2010
-    </div>
+    <div>rs. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 49....................................
-    </div>
+    <div>S. 49</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 50....................................
-    </div>
+    <div>S. 50</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 51(2)............
-    </div>
+    <div>Subhead. to s. 51(2)</div>
   </td>
   <td>
-    <div>
-      ad. No. 98, 2012
-    </div>
+    <div>ad. No. 98, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 51....................................
-    </div>
+    <div>S. 51</div>
   </td>
   <td>
-    <div>
-      am. No. 120,1998
-    </div>
+    <div>am. No. 120,1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 98, 2012
-    </div>
+    <div>am. No. 98, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52....................................
-    </div>
+    <div>S. 52</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998; No. 53, 2006
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 2010
-    </div>
+    <div>rs. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 53....................................
-    </div>
+    <div>S. 53</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54....................................
-    </div>
+    <div>S. 54</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 46, 2006; No. 82,
-        2007
-    </div>
+    <div>am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 46, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54A.................................
-    </div>
+    <div>S. 54A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 46, 2006
-    </div>
+    <div>am. No. 46, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54B.................................
-    </div>
+    <div>S. 54B</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 46, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 46, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. s. 54C(1).............
-    </div>
+    <div>Subhead. s. 54C(1)</div>
   </td>
   <td>
-    <div>
-      ad. No. 98, 2011
-    </div>
+    <div>ad. No. 98, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54C.................................
-    </div>
+    <div>S. 54C</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 98, 2011
-    </div>
+    <div>am. No. 98, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54D.................................
-    </div>
+    <div>S. 54D</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54E.................................
-    </div>
+    <div>S. 54E</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 54F–54H.......................
-    </div>
+    <div>Ss. 54F–54H</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54J..................................
-    </div>
+    <div>S. 54J</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision D
-      </b>
-    </div>
+    <div><b>Subdivision D</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 54K, 54L.......................
-    </div>
+    <div>Ss. 54K, 54L</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 55..................
-    </div>
+    <div>Heading to s. 55</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55....................................
-    </div>
+    <div>S. 55</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1997; No. 120, 1998
-    </div>
+    <div>am. No. 39, 1997; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 5
-      </b>
-    </div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55A.................................
-    </div>
+    <div>S. 55A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 55B–55D.......................
-    </div>
+    <div>Ss. 55B–55D</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55E.................................
-    </div>
+    <div>S. 55E</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 6
-      </b>
-    </div>
+    <div><b>Division 6</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55F..................................
-    </div>
+    <div>S. 55F</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55G.................................
-    </div>
+    <div>S. 55G</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55H.................................
-    </div>
+    <div>S. 55H</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55HA..............................
-    </div>
+    <div>S. 55HA</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 7
-      </b>
-    </div>
+    <div><b>Division 7</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55J..................................
-    </div>
+    <div>S. 55J</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010; No. 53, 2011
-    </div>
+    <div>am. No. 65, 2010; No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. B of......
-
-Div. 7 of Part 5
-    </div>
+    <div>Heading to Subdiv. B of 
+Div. 7 of Part 5</div>
   </td>
   <td>
-    <div>
-      rs. No. 53, 2011
-    </div>
+    <div>rs. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 56....................................
-    </div>
+    <div>S. 56</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 39, 1997; No. 120, 1998; No. 161, 2005; No. 82,
-        2007
-    </div>
+    <div>am. No. 140, 1995; No. 39, 1997; No. 120, 1998; No. 161, 2005; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 57....................................
-    </div>
+    <div>S. 57</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 39, 1997; No. 120, 1998
-    </div>
+    <div>am. No. 140, 1995; No. 39, 1997; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 58..................
-    </div>
+    <div>Heading to s. 58</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998; No. 146, 2006; No. 53, 2011
-    </div>
+    <div>rs. No. 120, 1998; No. 146, 2006; No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 58....................................
-    </div>
+    <div>S. 58</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 39, 1997; No. 120, 1998; No. 75, 2001; No. 53,
-        2006
-    </div>
+    <div>am. No. 151, 1992; No. 39, 1997; No. 120, 1998; No. 75, 2001; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 53, 2011
-    </div>
+    <div>rs. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 58AA</div>
   </td>
   <td>
-    <div>
-      am. No. 51, 2012
-    </div>
+    <div>ad. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 58AA..............................
-    </div>
+    <div>S. 58A</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2011
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 58A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Subdivision BA</b></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision BA
-      </b>
-    </div>
+    <div>Subdiv. BA of Div. 7 
+of Part 5</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subdiv. BA of Div. 7..........
-
-of Part 5
-    </div>
+    <div>Ss. 58B, 58C</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 58B, 58C.......................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 58D</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 58D.................................
-    </div>
+    <div>S. 59</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 51, 2012
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 59....................................
-    </div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 82, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to Subdiv. C of 
+Div. 7 of Part 5</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rs. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
+    <div>Heading to s. 60</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. C of......
-
-Div. 7 of Part 5
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 60..................
-    </div>
+    <div>S. 60</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 151, 1992; Nos. 39 and 84, 1997; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 60....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; Nos. 39 and 84, 1997; No. 120, 1998
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 60A</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 2010
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 60A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 60B</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 60B.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 61</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 151, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>rs. No. 84, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 61....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1997
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 84, 1997
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 61A</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>rep. No. 84, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 61A.................................
-    </div>
+    <div>Heading to s. 62</div>
   </td>
   <td>
-    <div>
-      ad. No. 151, 1992
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 62</div>
   </td>
   <td>
-    <div>
-      rep. No. 84, 1997
-    </div>
+    <div>am. No. 151, 1992; No. 84, 1997; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 62..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 62....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 84, 1997; No. 120, 1998
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 62A</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 63</div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 62A.................................
-    </div>
+    <div>S. 63</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>am. No. 151, 1992; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 63..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>rs. No. 84, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 63....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 43, 1996
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 84, 1997
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Ss. 63AA, 63AB</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Subdivision D</b></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 63AA, 63AB..................
-    </div>
+    <div>Subdiv. D of Div. 7 of 
+Part 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision D
-      </b>
-    </div>
+    <div>Ss. 63AC–63AF</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subdiv. D of Div. 7 of........
-
-Part 5
-    </div>
+    <div><b>Subdivision E</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 63AC–63AF..................
-    </div>
+    <div>Heading to Subdiv. E of 
+Div. 7 of Part 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision E
-      </b>
-    </div>
+    <div>Heading to s. 63A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. E of......
-
-Div. 7 of Part 5
-    </div>
+    <div>S. 63A</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 63A...............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>rep. No. 84, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 63A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 151, 1992
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 84, 1997
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 63B</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 63B</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 65, 2010
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 63B................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 63B.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 63C</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 65, 2010
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 63C.................................
-    </div>
+    <div><b>Division 7A</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Div. 7A of Part 5</div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 7A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 7A of Part 5.................
-    </div>
+    <div>Heading to s. 64</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 64..................
-    </div>
+    <div>S. 64</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 39, 1997; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 64....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1997; No. 120, 1998
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 64A</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 64A...............
-    </div>
+    <div>S. 64A</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>ad. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div>am. No. 39, 1997; No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 64A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 151, 1992
-    </div>
+    <div>rs. No. 146, 2006; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 64AA</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1997; No. 120, 1998; No. 146, 2006
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 65, 2010
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 64AA..............................
-    </div>
+    <div>Ss. 64AB–64AE</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 64AB–64AE..................
-    </div>
+    <div>Ss. 64AF–64AH</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
+    <div><b>Division 8</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 64AF–64AH..................
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 8
-      </b>
-    </div>
+    <div>S. 64B</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 64B.................................
-    </div>
+    <div>S. 65</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 65....................................
-    </div>
+    <div>S. 65A</div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 143, 2008; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 65A.................................
-    </div>
+    <div>S. 65B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 65B.................................
-    </div>
+    <div>Heading to s. 66</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 66..................
-    </div>
+    <div>S. 66</div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2006
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 66....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 120, 1998; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 53, 2006
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 66A</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008
-    </div>
+    <div>am. No. 120, 1998; No. 75, 2001; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 66A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 75, 2001; No. 53, 2006
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 66B</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 66B.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 66C</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 66C.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 66D</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
+    <div>S. 67</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 66D.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 67....................................
-    </div>
+    <div>S. 67A</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 68</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 67A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 68..................
-    </div>
+    <div>S. 68</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 68....................................
-    </div>
+    <div>S. 69</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 69....................................
-    </div>
+    <div>S. 70</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 75, 2001; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 70....................................
-    </div>
+    <div>S. 71</div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001; No. 146, 2006
-    </div>
+    <div>rs. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 72</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 71....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998; No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 72....................................
-    </div>
+    <div>S. 73</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 73A</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 73....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 73A.................................
-    </div>
+    <div>S. 74</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 74....................................
-    </div>
+    <div>S. 74A</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 74A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 74A 
+Renumbered Note 1</div>
   </td>
   <td>
     <div>
-      rs. No. 146, 2006
-    </div>
+No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note 1 to s. 74A</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008; No. 65, 2010
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 74A
-
-Renumbered Note 1.........
-    </div>
+    <div>Note 2 to s. 74A 
+Renumbered Note</div>
   </td>
   <td>
-    <div>
-
-No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007 
+No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 1 to s. 74A..................
-    </div>
+    <div>S. 75</div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998; No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 74A..................
-
-Renumbered Note............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-
-No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 75....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998; No. 75, 2001
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 75(2)</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rep. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 76</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008; No. 65, 2010
-    </div>
+    <div>am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 75(2)...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 2010
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 76....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 140, 1995; No. 120, 1998; No. 146, 2006; No. 82,
-        2007
-    </div>
+    <div>am. No. 146, 2006; No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 9</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 76A</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 82, 2007; No. 143, 2008
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 9
-      </b>
-    </div>
+    <div>S. 77</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 76A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 77....................................
-    </div>
+    <div>S. 78</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006; No. 82, 2007; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 78....................................
-    </div>
+    <div>S. 79</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 82, 2007; No. 46, 2011
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 79....................................
-    </div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 6
-      </b>
-    </div>
+    <div>Div. 1 of Part 6</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div>S. 80</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. Nos. 39 and 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1 of Part 6...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80....................................
-    </div>
+    <div>S. 80A</div>
   </td>
   <td>
-    <div>
-      am. Nos. 39 and 140, 1995
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80A.................................
-    </div>
+    <div>S. 80B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 1A</b></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80B.................................
-    </div>
+    <div>Div. 1A of Part 6</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1A
-      </b>
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1A of Part 6.................
-    </div>
+    <div>S. 80C</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div>S. 80CA</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80C.................................
-    </div>
+    <div>S. 80D</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80CA...............................
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80D.................................
-    </div>
+    <div>S. 80E</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80E.................................
-    </div>
+    <div>S. 80F</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 80G</div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80F..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80G.................................
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 81</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 81....................................
-    </div>
+    <div>S. 83</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 84</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 138, 1990; No. 140, 1995; No. 120, 1998; No. 143, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 83....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 84....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 138, 1990; No. 140, 1995; No. 120, 1998; No. 143, 2000
-    </div>
+    <div>am. No. 82, 2007; No. 115, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 84(7)</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 85</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 115, 2008
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 84(7)...................
-    </div>
+    <div>S. 86</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 85....................................
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 86....................................
-    </div>
+    <div>S. 88</div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div>S. 89</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. Nos. 39 and 106, 1995; No. 197, 1997; Nos. 93 and 120, 1998; No. 83, 1999; No. 45, 2000; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 88....................................
-    </div>
+    <div>Note to s. 89(4)</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 82, 2007
-    </div>
+    <div>am. No. 93, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 89....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. Nos. 39 and 106, 1995; No. 197, 1997; Nos. 93 and 120, 1998; No. 83,
-        1999; No. 45, 2000; No. 146, 2006
-    </div>
+    <div>rep. No. 83, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 89(4)...................
-    </div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1998
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 91</div>
   </td>
   <td>
-    <div>
-      rep. No. 83, 1999
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
+    <div>Heading to s. 91A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 84, 1997; No. 93, 1998; No. 83, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 91....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 91A...............
-    </div>
+    <div>S. 91A</div>
   </td>
   <td>
-    <div>
-      am. No. 84, 1997; No. 93, 1998; No. 83, 1999
-    </div>
+    <div>ad. No. 39, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 106, 1995; Nos. 29 and 197, 1997; Nos. 93 and 120, 1998; No. 83, 1999; No. 45, 2000; No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 91A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 39, 1995
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 91A(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 106, 1995; Nos. 29 and 197, 1997; Nos. 93 and 120, 1998; No. 83,
-        1999; No. 45, 2000; No. 75, 2001
-    </div>
+    <div>ad. No. 93, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 83, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 91A(1)................
-    </div>
+    <div>Note 1 to s. 91A(3)</div>
   </td>
   <td>
-    <div>
-      ad. No. 93, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 83, 1999
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 1 to s. 91A(3).............
-    </div>
+    <div>S. 92</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. Nos. 39 and 106, 1995; No. 197, 1997; No. 93, 1998; No. 83, 1999; No. 45, 2000; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 92(4)</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 93, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 92....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. Nos. 39 and 106, 1995; No. 197, 1997; No. 93, 1998; No. 83, 1999;
-        No. 45, 2000; No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rep. No. 83, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 92(4)...................
-    </div>
+    <div>S. 93</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1998
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 93(2) 
+Renumbered Note 1</div>
   </td>
   <td>
-    <div>
-      rep. No. 83, 1999
-    </div>
+    <div>rs. No. 146, 2006 
+No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 93....................................
-    </div>
+    <div>Note 2 to s. 93(2)</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998; No. 146, 2006; No. 82, 2007
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 93(2)...................
-
-Renumbered Note 1.........
-    </div>
+    <div>S. 94</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-
-No. 146, 2006
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 93(2)................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 94....................................
-    </div>
+    <div>Note to s. 94(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 94(1)...................
-    </div>
+    <div>S. 95</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 138, 1990; No. 140, 1995; No. 143, 2000; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 95....................................
-    </div>
+    <div>S. 96</div>
   </td>
   <td>
-    <div>
-      am. No. 138, 1990; No. 140, 1995; No. 143, 2000; No. 146, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 5
-      </b>
-    </div>
+    <div>Div. 6 of Part 6</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 96....................................
-    </div>
+    <div>Ss. 97, 98</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 6 of Part 6...................
-    </div>
+    <div><b>Part 6A</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 97, 98............................
-    </div>
+    <div>Heading to Part 6A</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 6A
-      </b>
-    </div>
+    <div>Part 6A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 6A..............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 6A................................
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Div. 1 of Part 6A</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div>S. 98A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1 of Part 6A.................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 151, 1992; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 120, 1998
-    </div>
+    <div>am. No. 75, 2001; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001; No. 53, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98B</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98B.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 98B(1) 
+Renumbered Note 1</div>
   </td>
   <td>
     <div>
-      am. No. 140, 1995
-    </div>
+No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note 2 to s. 98B(1)</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 98B(1)
-
-Renumbered Note 1.........
-    </div>
+    <div>S. 98C</div>
   </td>
   <td>
-    <div>
-
-No. 146, 2006
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 98B(1).............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98C.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>am. No. 46, 2006; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98D</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 46, 2006; No. 143, 2008
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98D.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98E</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98E.................................
-    </div>
+    <div>S. 98EA</div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>ad. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98EA...............................
-    </div>
+    <div>S. 98F</div>
   </td>
   <td>
-    <div>
-      ad. No. 151, 1992
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98F..................................
-    </div>
+    <div>S. 98G</div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>am. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98G.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Ss. 98H, 98J</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 98H, 98J........................
-    </div>
+    <div>S. 98JA</div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98JA................................
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98K</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98K.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 98K(1) 
+Renumbered Note 1</div>
   </td>
   <td>
     <div>
-      am. No. 140, 1995
-    </div>
+No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note 2 to s. 98K(1)</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 98K(1)
-
-Renumbered Note 1.........
-    </div>
+    <div>S. 98L</div>
   </td>
   <td>
-    <div>
-
-No. 146, 2006
-    </div>
+    <div>ad. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 98K(1).............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98L.................................
-    </div>
+    <div>S. 98M</div>
   </td>
   <td>
-    <div>
-      ad. No. 13, 1992
-    </div>
+    <div>ad. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98M................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 151, 1992
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98N</div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Ss. 98P–98R</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98N.................................
-    </div>
+    <div>S. 98RA</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 98P–98R........................
-    </div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98RA...............................
-    </div>
+    <div>S. 98S</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 120, 1998; No. 75, 2001; Nos. 53 and 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98S..................................
-    </div>
+    <div>Note to s. 98S(1)</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 75, 2001; Nos. 53 and 146, 2006; No. 51, 2012
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 98S(1).................
-    </div>
+    <div>S. 98SA</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98SA...............................
-    </div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98T</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 5
-      </b>
-    </div>
+    <div>S. 98U</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98T.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98U.................................
-    </div>
+    <div><b>Division 6</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 98V</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006; No. 143, 2008
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 6
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98V.................................
-    </div>
+    <div>Part 6B</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 6B................................
-    </div>
+    <div><b>Part 7</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to Part 7</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 7
-      </b>
-    </div>
+    <div><b>Division 1A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 7.................
-    </div>
+    <div>Div. 1A of Part 7</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1A
-      </b>
-    </div>
+    <div>S. 98W</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1A of Part 7.................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98W................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 146, 2006; No. 82, 2007 (as am. by No. 8, 2010)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to Div. 1 of Part 7.</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 82, 2007 (as am. by No. 8, 2010)
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div>S. 98X</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1 of Part 7..
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98X.................................
-    </div>
+    <div>Ss. 98Y, 98Z</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 98Y, 98Z.......................
-    </div>
+    <div>Ss. 98ZA–98ZH</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 98ZA–98ZH..................
-    </div>
+    <div>S. 98ZJ</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 98ZJ................................
-    </div>
+    <div>S. 99</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 194, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 100</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 138, 1990; No. 194, 1999; No. 143, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 99....................................
-    </div>
+    <div>S. 101</div>
   </td>
   <td>
-    <div>
-      am. No. 194, 1999
-    </div>
+    <div>am. No. 194, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 100..................................
-    </div>
+    <div>Heading to s. 102</div>
   </td>
   <td>
-    <div>
-      am. No. 138, 1990; No. 194, 1999; No. 143, 2000
-    </div>
+    <div>am. No. 194, 1999; No. 22, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 101..................................
-    </div>
+    <div>S. 102</div>
   </td>
   <td>
-    <div>
-      am. No. 194, 1999
-    </div>
+    <div>am. No. 194, 1999; No. 143, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 102................
-    </div>
+    <div>Heading to s. 102A</div>
   </td>
   <td>
-    <div>
-      am. No. 194, 1999; No. 22, 2006
-    </div>
+    <div>am. No. 22, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 102..................................
-    </div>
+    <div>S. 102A</div>
   </td>
   <td>
-    <div>
-      am. No. 194, 1999; No. 143, 2000
-    </div>
+    <div>ad. No. 194, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 102A.............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 22, 2006
-    </div>
+    <div>am. No. 22, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 102A...............................
-    </div>
+    <div>S. 103</div>
   </td>
   <td>
-    <div>
-      ad. No. 194, 1999
-    </div>
+    <div>am. No. 194, 1999; No. 22, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 105</div>
   </td>
   <td>
-    <div>
-      am. No. 22, 2006
-    </div>
+    <div>am. No. 194, 1999; No. 22, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 103..................................
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      am. No. 194, 1999; No. 22, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 105..................................
-    </div>
+    <div>Heading to Div. 2 of Part 7.</div>
   </td>
   <td>
-    <div>
-      am. No. 194, 1999; No. 22, 2006
-    </div>
+    <div>rs. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div>Heading to s. 106</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 2 of Part 7..
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 106................
-    </div>
+    <div>S. 106</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998; No. 194, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 106..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 194, 1999
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 106A</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 106A.............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007 (as am. by No. 8, 2010)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 106A</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007 (as am. by No. 8, 2010)
-    </div>
+    <div>am. No. 120, 1998; No. 194, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 106A...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 194, 1999
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 106B</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 106B...............................
-    </div>
+    <div>Heading to s. 107</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 107................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 107</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 194, 1999; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 107A</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 107..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 194, 1999; No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 107A...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 109</div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>am. No. 120, 1998; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 154, 2012
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 109..................................
-    </div>
+    <div>Div. 3 of Part 7</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div>S. 110</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998; No. 194, 1999; No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 3 of Part 7...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 110..................................
-    </div>
+    <div>S. 111</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998; No. 194, 1999; No. 75, 2001
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 112</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 111..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 112..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 113</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 113A</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 113..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 113A...............................
-    </div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to Div. 4 of Part 7.</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
+    <div>S. 113B</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 4 of Part 7..
-    </div>
+    <div>S. 115</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. Nos. 13 and 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 113B...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 115..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. Nos. 13 and 151, 1992
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 116</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>am. No. 13, 1992; No. 140, 1995; No. 120, 1998; No. 75, 2001; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note 3 to s. 116(1)</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 116..................................
-    </div>
+    <div>Subhead. to s. 117(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 13, 1992; No. 140, 1995; No. 120, 1998; No. 75, 2001; No. 146,
-        2006; No. 82, 2007
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 3 to s. 116(1)..............
-    </div>
+    <div>Subhead. to s. 117(2)</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(1)..........
-    </div>
+    <div>Subhead. to s. 117(3)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(2)..........
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(3)..........
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Subhead. to s. 117(3A)</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Subhead. to s. 117(4)</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(3A).......
-    </div>
+    <div>Subhead. to s. 117(6)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(4)..........
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(6)..........
-    </div>
+    <div>Subhead. to s. 117(7)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(7)..........
-    </div>
+    <div>Subhead. to s. 117(7A)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Subhead. to s. 117(7B)</div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(7A).......
-    </div>
+    <div>Subhead. to s. 117(8)</div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(7B).......
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(8)..........
-    </div>
+    <div>Subhead. to s. 117(9)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>ad. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 117</div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>am. No. 151, 1992; No. 140, 1995; No. 43, 1996; No. 120, 1998; No. 75, 2001; No. 46, 2006 (as am. by No. 8, 2007); Nos. 53 and 146, 2006; No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 117(9)..........
-    </div>
+    <div>Note to s. 117(2)</div>
   </td>
   <td>
-    <div>
-      ad. No. 53, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 117..................................
-    </div>
+    <div>S. 117A</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 140, 1995; No. 43, 1996; No. 120, 1998; No. 75,
-        2001; No. 46, 2006 (as am. by No. 8, 2007); Nos. 53 and 146, 2006; No. 82,
-        2007; No. 143, 2008
-    </div>
+    <div>ad. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 117(2).................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 117A...............................
-    </div>
+    <div>S. 118</div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2001
-    </div>
+    <div>am. No. 138, 1990; No. 13, 1992; No. 140, 1995; No. 120, 1998; No. 75, 2001; Nos. 53 and 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 119</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 118..................................
-    </div>
+    <div>S. 120</div>
   </td>
   <td>
-    <div>
-      am. No. 138, 1990; No. 13, 1992; No. 140, 1995; No. 120, 1998; No. 75,
-        2001; Nos. 53 and 146, 2006; No. 51, 2012
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 119..................................
-    </div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 120..................................
-    </div>
+    <div>Heading to Div. 5 of Part 7.</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 5
-      </b>
-    </div>
+    <div>S. 122</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 5 of Part 7..
-    </div>
+    <div>S. 123</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 140, 1995; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 122..................................
-    </div>
+    <div>Heading to s. 123A</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 123..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 140, 1995; No. 146, 2006; No. 82, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 123A.............
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 82, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 123A...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 82, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 123A(1)..............
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>S. 123A</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 124................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 140, 1995
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 124..................................
-    </div>
-  </td>
   <td>
-    <div>
-      am. No. 140, 1995; Nos. 53 and 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 125..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998; Nos. 53 and 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 125(1).................
-    </div>
+    <div>Note to s. 123A(1)</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 126..................................
-    </div>
+    <div>Heading to s. 124</div>
   </td>
   <td>
-    <div>
-      am. No. 13, 1992; No. 140, 1995; No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 127..................................
-    </div>
+    <div>S. 124</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995; Nos. 53 and 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 128..................................
-    </div>
+    <div>S. 125</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 120, 1998
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998; Nos. 53 and 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 125(1)</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 128(4).................
-    </div>
+    <div>S. 126</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 13, 1992; No. 140, 1995; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 127</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 129..................................
-    </div>
+    <div>S. 128</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; Nos. 53 and 146, 2006; No. 82, 2007
-    </div>
+    <div>am. No. 140, 1995; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 130..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 131..................................
-    </div>
+    <div>Note to s. 128(4)</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 6
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 6 of Part 7..
-    </div>
+    <div>S. 129</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 140, 1995; Nos. 53 and 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subdiv. A of Div. 6.............
-
-of Part 7
-    </div>
+    <div>S. 130</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 132..................................
-    </div>
+    <div>S. 131</div>
   </td>
   <td>
-    <div>
-      am. No. 13, 1992; No. 120, 1998; No. 194, 1999; No. 75, 2001
-    </div>
+    <div>am. No. 140, 1995; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 6</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 133, 134........................
-    </div>
+    <div>Heading to Div. 6 of Part 7.</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 135..................................
-    </div>
+    <div>Subdiv. A of Div. 6 of Part 7</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006; No. 82, 2007
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 136..................................
-    </div>
+    <div>S. 132</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 13, 1992; No. 120, 1998; No. 194, 1999; No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 143, 2008
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 137..................................
-    </div>
+    <div>Ss. 133, 134</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. B of .....
-
-Div. 6 of Part 7
-    </div>
+    <div>S. 135</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 138..................................
-    </div>
+    <div>S. 136</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 7
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 82, 2007; No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 7 of Part 7..
-    </div>
+    <div>S. 137</div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 138A...............................
-    </div>
+    <div>Heading to Subdiv. B of 
+Div. 6 of Part 7</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 138</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 139..................................
-    </div>
+    <div><b>Division 7</b></div>
   </td>
   <td>
-    <div>
-      am. No. 13, 1992; No. 120, 1998; No. 146, 2006; No. 82, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 140..................................
-    </div>
+    <div>Heading to Div. 7 of Part 7.</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 138A</div>
   </td>
   <td>
-    <div>
-      rep. No. 82, 2007
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 8
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 140A...............................
-    </div>
+    <div>S. 139</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 13, 1992; No. 120, 1998; No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 141..................................
-    </div>
+    <div>S. 140</div>
   </td>
   <td>
-    <div>
-      am. No. 43, 1996; No. 194, 1999
-    </div>
+    <div>am. No. 151, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 142..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995; No. 82, 2007
-    </div>
+    <div>rep. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 143..................................
-    </div>
+    <div><b>Division 8</b></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006; No. 82, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 9
-      </b>
-    </div>
+    <div>S. 140A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 143A...............................
-    </div>
+    <div>S. 141</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 43, 1996; No. 194, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 142</div>
   </td>
   <td>
-    <div>
-      rs. No. 82, 2007
-    </div>
+    <div>am. No. 140, 1995; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 143B...............................
-    </div>
+    <div>S. 143</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 7A
-      </b>
-    </div>
+    <div><b>Division 9</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 7A................................
-    </div>
+    <div>S. 143A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146A...............................
-    </div>
+    <div>S. 143B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Part 7A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146B...............................
-    </div>
+    <div>Part 7A</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146BA.............................
-    </div>
+    <div>S. 146A</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146C...............................
-    </div>
+    <div>S. 146B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007; No. 65, 2010
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 146C(4)..............
-    </div>
+    <div>S. 146BA</div>
   </td>
   <td>
-    <div>
-      am. No. 65, 2010
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146D...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 146C</div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2008
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146E...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146EA.............................
-    </div>
+    <div>Note to s. 146C(4)</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146F................................
-    </div>
+    <div>S. 146D</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 143, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146G...............................
-    </div>
+    <div>S. 146E</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 146EA</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 146H...............................
-    </div>
+    <div>S. 146F</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 146J–146L....................
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 8
-      </b>
-    </div>
+    <div>S. 146G</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 147................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 147, 148........................
-    </div>
+    <div>S. 146H</div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 149..................................
-    </div>
+    <div>Ss. 146J–146L</div>
   </td>
   <td>
-    <div>
-      am. No. 151, 1992; No. 43, 1996; No. 29, 1997; No. 146, 1999; No. 75,
-        2001; No. 32, 2011
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150..................................
-    </div>
+    <div><b>Part 8</b></div>
   </td>
   <td>
-    <div>
-      am. No. 138, 1990; No. 151, 1992; No. 140, 1995; No. 29, 1997; No. 120,
-        1998; No. 146, 1999; Nos. 75 and 137, 2001; No. 156, 2006; No. 82, 2007;
-        Nos. 5 and 32, 2011
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150AA............................
-    </div>
+    <div>Heading to s. 147</div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>am. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Ss. 147, 148</div>
   </td>
   <td>
-    <div>
-      am. No. 32, 2011
-    </div>
+    <div>am. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150A...............................
-    </div>
+    <div>S. 149</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 151, 1992; No. 43, 1996; No. 29, 1997; No. 146, 1999; No. 75, 2001; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150B...............................
-    </div>
+    <div>S. 150</div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2001
-    </div>
+    <div>am. No. 138, 1990; No. 151, 1992; No. 140, 1995; No. 29, 1997; No. 120, 1998; No. 146, 1999; Nos. 75 and 137, 2001; No. 156, 2006; No. 82, 2007; Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 150AA</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150C...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2001
-    </div>
+    <div>am. No. 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 150A</div>
   </td>
   <td>
-    <div>
-      rep. No. 53, 2011
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 150C(1)..............
-    </div>
+    <div>S. 150B</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>ad. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 53, 2011
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150D...............................
-    </div>
+    <div>S. 150C</div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2001
-    </div>
+    <div>ad. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150DA............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>rep. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Note to s. 150C(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 9
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 150E...............................
-    </div>
+    <div>S. 150D</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 150DA</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 151................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 1995
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 151..................................
-    </div>
+    <div><b>Part 9</b></div>
   </td>
   <td>
-    <div>
-      am. No. 13, 1992; No. 140, 1995; No. 120, 1998; No. 45, 2000; No. 82,
-        2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 151A.............
-    </div>
+    <div>S. 150E</div>
   </td>
   <td>
-    <div>
-      am. No. 45, 2000
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 151A...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 151</div>
   </td>
   <td>
-    <div>
-      am. No. 45, 2000; No. 75, 2001; No. 32, 2011
-    </div>
+    <div>am. No. 140, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 151B...............................
-    </div>
+    <div>S. 151</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 13, 1992; No. 140, 1995; No. 120, 1998; No. 45, 2000; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 151A</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>am. No. 45, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 151C...............................
-    </div>
+    <div>S. 151A</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 151B</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 151D.............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 151D...............................
-    </div>
+    <div>S. 151C</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001; No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 151E...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 152..................................
-    </div>
+    <div>Heading to s. 151D</div>
   </td>
   <td>
-    <div>
-      rs. No. 13, 1992
-    </div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 151D</div>
   </td>
   <td>
-    <div>
-      am. No. 143, 2000; No. 82, 2007; No. 115, 2008
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 153..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1997; No. 120, 1998; No. 82, 2007
-    </div>
+    <div>am. No. 75, 2001; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 153A...............................
-    </div>
+    <div>S. 151E</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 154................
-    </div>
+    <div>S. 152</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 53, 2006
-    </div>
+    <div>rs. No. 13, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>am. No. 143, 2000; No. 82, 2007; No. 115, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 154..................................
-    </div>
+    <div>S. 153</div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998; No. 53, 2006
-    </div>
+    <div>am. No. 39, 1997; No. 120, 1998; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 153A</div>
   </td>
   <td>
-    <div>
-      rep. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 155................
-    </div>
+    <div>Heading to s. 154</div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 155..................................
-    </div>
+    <div>S. 154</div>
   </td>
   <td>
-    <div>
-      am. No. 84, 1997; No. 120, 1998; No. 53, 2006
-    </div>
+    <div>am. No. 120, 1998; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 120, 1998
-    </div>
+    <div>rep. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Heading to s. 155</div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2006
-    </div>
+    <div>am. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 2006
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 155</div>
   </td>
   <td>
-    <div>
-      am. No. 53, 2011; No. 51, 2012
-    </div>
+    <div>am. No. 84, 1997; No. 120, 1998; No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 157, 158........................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001
-    </div>
+    <div>rs. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 158A...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 1998
-    </div>
+    <div>rs. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>am. No. 53, 2011; No. 51, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 158B...............................
-    </div>
+    <div>Ss. 157, 158</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 158A</div>
   </td>
   <td>
-    <div>
-      rep. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 159A...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>am. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 137, 2001
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 159B...............................
-    </div>
+    <div>S. 158B</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 1998
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 75, 2001
-    </div>
+    <div>rep. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 159A</div>
   </td>
   <td>
-    <div>
-      rs. No. 137, 2001
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 160..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 138, 1990; No. 137, 2001; No. 82, 2007
-    </div>
+    <div>am. No. 137, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 161..................................
-    </div>
+    <div>S. 159B</div>
   </td>
   <td>
-    <div>
-      am. No. 137, 2001; No. 82, 2007
-    </div>
+    <div>ad. No. 120, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 162..................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 137, 2001
-    </div>
+    <div>am. No. 75, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 162A, 162B...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 82, 2007
-    </div>
+    <div>rs. No. 137, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 162C...............................
-    </div>
+    <div>S. 160</div>
   </td>
   <td>
-    <div>
-      ad. No. 65, 2010
-    </div>
+    <div>am. No. 138, 1990; No. 137, 2001; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 163A...............................
-    </div>
+    <div>S. 161</div>
   </td>
   <td>
-    <div>
-      ad. No. 163, 1989
-    </div>
+    <div>am. No. 137, 2001; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 162</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2008; No. 46, 2011
-    </div>
+    <div>am. No. 137, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 163B...............................
-    </div>
+    <div>Ss. 162A, 162B</div>
   </td>
   <td>
-    <div>
-      ad. No. 49, 2000
-    </div>
+    <div>ad. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>S. 162C</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>ad. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Schedule 1
-      </b>
-    </div>
+    <div>S. 163A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 163, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to heading to...............
-
-Schedule 1
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 144, 2008; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Schedule 1..........................
-    </div>
+    <div>S. 163B</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 49, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      c. 1......................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      c. 2......................................
-    </div>
+    <div><b>Schedule 1</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Note to Heading to 
+Schedule 1</div>
   </td>
   <td>
-    <div>
-      am. No. 51, 2012
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      c. 3......................................
-    </div>
+    <div>Schedule 1</div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 2006
-    </div>
+    <div>ad. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>C. 3</div>
   </td>
   <td>
-    <div>
-      am. No. 82, 2007
-    </div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+### Note 2
 
-This endnote sets out application, saving and transitional provisions for amendments of the _Child Support (Assessment) Act 1989__._
+_Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No. 51, 2012)_
 
-For application, saving and transitional provisions made by the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010_, _see_ Act No. 65, 2010.
+The following amendments commence on 1 January 2013:
 
-Child Support Legislation Amendment Act 1995 (No. 39, 1995)
+## Schedule 4
 
-##### <a id="5"></a>5  Application
+## 4  Subsection 5(1)
 
-                   The amendments made by this Division apply in relation to an application made under Division 1 of Part 4 of the Principal Act after the commencement of this section.
+Insert:
 
-##### <a id="12"></a>12  Application
+                    <a name="relev-june-quarter"></a>**_relevant June quarter_** has the meaning given by subsection 5A(2).
 
-                   The amendments made by this Division apply in relation to an application for acceptance by the Registrar of an agreement, if the application was made after the commencement of this section.
+## 5  Subsection 5(1) (definition of _relevant September quarter_)
 
-Child Support (Assessment) Act 1989 (No. 120, 1998)
+Repeal the definition.
+
+## 6  Subsection 5A(1)
+
+Omit “September”, substitute “June”.
+
+## 7  Subsection 5A(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The **_relevant June quarter_**, in relation to a child support period, means the quarter ending on 30 June of the last calendar year ending before the child support period begins.
+
+## 8  Paragraph 5A(5)(a)
+
+Omit “September”, substitute “June”.
+
+## 9  Section 45
+
+Repeal the section, substitute:
+
+##### <a id="45"></a>45  Working out the self‑support amount
+
+                   A parent’s **_self‑support amount_** for a day in a child support period is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image023.gif)
+
+Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
+
+## 10  Paragraph 58(4)(d)
+
+Omit “September”, substitute “June”.
+
+## 11  Subsection 58(5)
+
+Omit “September”, substitute “June”.
+
+## 12  Subsection 58D(2)
+
+Omit “September”, substitute “June”.
+
+## 13  Subparagraph 98S(1)(e)(i)
+
+Omit “September”, substitute “June”.
+
+## 14  Subparagraph 118(1)(e)(i)
+
+Omit “September”, substitute “June”.
+
+## 15  Paragraph 155(2)(a)
+
+Omit “September”, substitute “June”.
+
+## 16  Subparagraph 155(2)(b)(i)
+
+Omit “September”, substitute “June”.
+
+## 17  After subsection 155(2)
+
+Insert:
+
+          (2A)  Before the end of each financial year, the Secretary must publish in the _Gazette_ the AWE amount (within the meaning of subsection 58AA(1)) for the quarter ending on 31 December of that year.
+
+## 19  Subclause 2(3) of Schedule 1
+
+Omit “September”, substitute “June”.
+
+The following amendments commence on 1 July 2013:
+
+## Schedule 4
+
+## 22  Subsection 58AA(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The **_ATI indexation factor_** is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00873/Html/e4d265e0-01dd-43e8-9b5c-f2e1d1b776fc_files/image024.gif)
+
+where:
+
+                    <a name="aw-amount"></a>**_AWE amount_** for a December quarter of a year of income means the amount published for the reference period in the quarter by the Australian Statistician in a document titled “Average Weekly Earnings, Australia” (or, if that title changes, in a replacement document) under the headings “Average Weekly Earnings—Trend—Persons—All employees total earnings” (or, if any of those headings change, under any replacement headings).
+
+                    <a name="decemb-quarter"></a>**_December quarter_** of a year of income means the quarter ending on 31 December of that year.
+
+                    <a name="refer-period"></a>**_reference period_** in a December quarter of a year of income means the period described by the Australian Statistician as the last pay period ending on or before the third Friday of the middle month of the quarter.
+
+                    <a name="tax-return-year"></a>**_tax return year_** means:
+
+                     (a)  if subsection 58(3) applies—the year of income before the last relevant year of income in relation to a child support period; or
+
+                     (b)  if subsection 58(4) applies—the earlier year of income that applies under paragraph 58(4)(c).
+
+## 23  Paragraph 58AA(3)(a)
+
+Omit “September”, substitute “December”.
+
+As at 27 November 2012 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Child Support Legislation Amendment Act 1995 (No. 39, 1995)_
+
+## 5  Application
+
+            The amendments made by this Division apply in relation to an application made under Division 1 of Part 4 of the Principal Act after the commencement of this section. 
+
+## 12  Application
+
+            The amendments made by this Division apply in relation to an application for acceptance by the Registrar of an agreement, if the application was made after the commencement of this section.
+
+* * *
+
+_Child Support (Assessment) Act 1989 (No. 120, 1998)_
 
 ##### <a id="4"></a>4  Application
 
@@ -21142,7 +17657,7 @@ Note:          The effect of this subsection can be modified b
 
              (2)  Without limiting subsection (1), the regulations may do any of the following:
 
-                     (a)  prescribe a day for the purposes of subsection 4(2);
+                     (a)  prescribe a day for the purposes of subsection 4(2);
 
                      (b)  prescribe a day on or after 1 July 1998 and  before 1 July 1999 as the 1998‑99 commencing day; 
 
@@ -21166,19 +17681,19 @@ Note:          The effect of this subsection can be modified b
 
              (5)  The amendments of the _Child Support (Assessment) Act 1989_ made by Schedule 8 do not apply in relation to a child who turns 18 before the 1998‑99 commencing day.
 
-## Schedule 14
+## Schedule 14  
 
 ## 5  Transitional
 
 (1)       If:
 
-                     (a)  a person applied for a determination under subsection 98(1) of the _Child Support (Assessment) Act 1989_ before the day that this Schedule commences (the **_commencement day_**); and
+                     (a)  a person applied for a determination under subsection 98(1) of the _Child Support (Assessment) Act 1989_ before the day that this Schedule commences (the **_commencement day_**); and
 
                      (b)  the application was not determined before the commencement day;
 
             then:
 
-                     (c)  the application is taken to have been made under subsection 98B(1) of the _Child Support (Assessment) Act 1989_ as amended by this Schedule; and
+                     (c)  the application is taken to have been made under subsection 98B(1) of the _Child Support (Assessment) Act 1989_ as amended by this Schedule; and
 
                      (d)  any action taken by the Registrar before the commencement day in respect of the application under section 98G or 98H of Part 6A as in force before the commencement day, is taken to have been made under section 98G or 98H of the _Child Support (Assessment) Act 1989_ as amended by this Schedule.
 
@@ -21198,7 +17713,7 @@ Note:          The effect of this subsection can be modified b
 
             then, for the purposes of section 98J of the _Child Support (Assessment) Act 1989_ as amended by this Schedule, the first application is to be treated as if it had been made under the _Child Support (Amendment) Act 1989_ as amended by this Schedule.
 
-## Schedule 16
+## Schedule 16  
 
 ## 79  Transitional provision—child support period starting on 1 July 1999
 
@@ -21222,13 +17737,16 @@ Note:          The effect of this subsection can be modified b
 
 (3)       However, that section (as applied by this item) does not require the Registrar to make an assessment of child support payable in June 2000 or a later named month.
 
-## Schedule 19
+## Schedule 19  
 
 ## 20  Transitional
 
 If an application under section 25 of the _Child Support (Assessment) Act 1989_ (**_the Act_**) was made in relation to the 1998‑99 child support year, but not determined before the commencement of this Schedule, the application is taken to have been made under the Act as in force after the commencement of this Schedule.
 
-A New Tax System (Family Assistance and Related Measures) Act 2000 (No. 45, 2000)
+* * *
+
+_A New Tax System (Family Assistance and Related Measures) Act 2000 
+ (No. 45, 2000)_
 
 ## Schedule 5
 
@@ -21242,7 +17760,7 @@ A New Tax System (Family Assistance and Related Measures) Act 2000 (No. 45, 20
 
 **_Family Assistance Administration Act_** means the _A New Tax System (Family Assistance) (Administration) Act 1999_.
 
-**_family assistance law_** has the same meaning as in subsection 3(1) of the Family Assistance Administration Act.
+**_family assistance law_** has the same meaning as in subsection 3(1) of the Family Assistance Administration Act.
 
 **_family benefit_** means payments of:
 
@@ -21254,9 +17772,9 @@ A New Tax System (Family Assistance and Related Measures) Act 2000 (No. 45, 20
 
 payable under the social security law.
 
-**_MAT_** means maternity allowance within the meaning of subsection 3(1) of the Family Assistance Administration Act.
+**_MAT_** means maternity allowance within the meaning of subsection 3(1) of the Family Assistance Administration Act.
 
-**_MIA_** means maternity immunisation allowance within the meaning of subsection 3(1) of the Family Assistance Administration Act.
+**_MIA_** means maternity immunisation allowance within the meaning of subsection 3(1) of the Family Assistance Administration Act.
 
 **_receiving_**, in relation to family benefit, has the meaning given under subitem (3).
 
@@ -21270,13 +17788,13 @@ payable under the social security law.
 
 ## 2  Individuals receiving family benefit treated as having lodged effective claim for family tax benefit by instalment
 
-(1)       If, immediately before 1 July 2000, an individual was receiving family benefit, then, with effect from that date, that individual is taken, subject to items 4 and 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
+(1)       If, immediately before 1 July 2000, an individual was receiving family benefit, then, with effect from that date, that individual is taken, subject to items 4 and 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
 
 (2)       If, before 1 July 2000, an individual receiving family benefit had provided bank account details for the purposes of making the claim for, or receiving, such benefits, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
 
 ## 3  Approved care organisations receiving family allowance treated as having lodged effective claim for family tax benefit by instalment
 
-(1)       If, immediately before 1 July 2000, an approved care organisation was receiving family allowance, then, with effect from that date, that organisation is taken, subject to item 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
+(1)       If, immediately before 1 July 2000, an approved care organisation was receiving family allowance, then, with effect from that date, that organisation is taken, subject to item 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
 
 (2)       If, before 1 July 2000, the organisation had provided bank account details for the purposes of making the claim for, or receiving, such family allowance payments, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
 
@@ -21332,7 +17850,7 @@ the Secretary may make a determination under section 19 of the Family Assistan
 
 ## 7  Directions concerning payments to third parties
 
-If, immediately before 1 July 2000, there was in force a direction by the Secretary under subsection 44(3) of the _Social Security (Administration) Act 1999_ to the effect that the whole or a part of a person’s family benefit payment be paid to someone else on behalf of the person, that direction has effect, on and after that date, as if it were a direction to the same effect given by the Secretary under subsection 23(4) of the Family Assistance Administration Act as amended by this Act in relation to the payment of family tax benefit in respect of that person.
+If, immediately before 1 July 2000, there was in force a direction by the Secretary under subsection 44(3) of the _Social Security (Administration) Act 1999_ to the effect that the whole or a part of a person’s family benefit payment be paid to someone else on behalf of the person, that direction has effect, on and after that date, as if it were a direction to the same effect given by the Secretary under subsection 23(4) of the Family Assistance Administration Act as amended by this Act in relation to the payment of family tax benefit in respect of that person.
 
 ## 8  Instalment periods
 
@@ -21348,7 +17866,7 @@ then:
 
                      (d)  the first instalment of family tax benefit is to be for a period starting on 1 July 2000 and ending 14 days after the beginning of the last instalment of family benefit; and
 
-                     (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
+                     (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
 
 (2)       If:
 
@@ -21362,7 +17880,7 @@ then:
 
                      (d)  the first instalment of family tax benefit is to be for a period starting on 1 July 2000 and ending 14 days after the beginning of the last instalment of non‑benefit PP (partnered); and
 
-                     (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
+                     (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
 
 ## 9  Claims for family benefit that are undetermined as at 1 July 2000
 
@@ -21510,7 +18028,7 @@ If:
 
                      (a)  family benefit, or maternity allowance or maternity immunisation allowance claimed under the social security law, is payable to a person; and
 
-                     (b)  the Secretary decides, on or after 1 July 2000, to seek further information in relation to the benefit or allowance;
+                     (b)  the Secretary decides, on or after  1 July 2000, to seek further information in relation to the benefit or allowance;
 
 the Secretary may, under Division 1 of Part 5 of the _Social Security (Administration) Act 1999_, require the provision of information concerning that benefit or allowance, or concerning the person to whom it is payable, as if that benefit or allowance had continued, on and after 1 July 2000, to be a social security payment as defined for the purposes of the _Social Security (Administration) Act 1999_.
 
@@ -21542,9 +18060,9 @@ the child is not, if that absence extends for a period of 3 years beginning on t
 
                      (a)  the child referred to in paragraph (1)(b) is absent from Australia for a continuous period of more than 26 weeks (whether or not that 26 weeks ends before 1 July 2000); and
 
-                     (b)  an individual having an entitlement to family tax benefit in respect of the child is not an absent overseas recipient within the meaning of subsection 62(2) of the Family Assistance Act as amended by this Act during any part of the child’s absence from Australia occurring after 26 weeks and after the individual becomes so entitled;
+                     (b)  an individual having an entitlement to family tax benefit in respect of the child is not an absent overseas recipient within the meaning of subsection 62(2) of the Family Assistance Act as amended by this Act during any part of the child’s absence from Australia occurring after 26 weeks and after the individual becomes so entitled;
 
-Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (b) with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
+Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (b) with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
 
 (4)       If:
 
@@ -21554,9 +18072,9 @@ Schedule 1 to the Family Assistance Act as so amended applies in relation to t
 
                      (c)  the child leaves Australia less than 26 weeks after coming to Australia; and
 
-                     (d)  an individual having an entitlement to family tax benefit in respect of the child is not an absent overseas recipient within the meaning of subsection 62(2) of the Family Assistance Act as amended by this Act during any part of the child’s absence from Australia referred to in paragraph (c) after the individual becomes so entitled;
+                     (d)  an individual having an entitlement to family tax benefit in respect of the child is not an absent overseas recipient within the meaning of subsection 62(2) of the Family Assistance Act as amended by this Act during any part of the child’s absence from Australia referred to in paragraph (c) after the individual becomes so entitled;
 
-Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (d) from Australia with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
+Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (d) from Australia with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
 
 ## 16  Lump sum bereavement payments for certain persons receiving non‑benefit PP (partnered) at death of child
 
@@ -21604,7 +18122,7 @@ so much only of the amount of family tax payment that would have been payable in
 
                      (c)  under Subdivision A or B of Division 10 of Part 2.17 of the _Social Security Act 1991_ as in force before 1 July 2000, if those Subdivisions had continued in force after that date, the person would, but for this item, have qualified to continue to receive family allowance for a period (the **_bereavement period_**) that starts on the day following the day of the child’s death at the rate that would have been applicable if the child had not died;
 
-so much only of the amount of family allowance that would have been payable in respect of each day of the bereavement period that occurs after 30 June 2000 and that is attributable to that child:
+so much only of the amount of family allowance that would have been payable in respect of each day of the bereavement period that occurs after  30 June 2000 and that is attributable to that child:
 
                      (d)  continues to be payable to the person as if that Subdivision of that Act as so in force had not been repealed but had so provided; and
 
@@ -21656,7 +18174,7 @@ each includes a reference to any lump sum that would have been payable because o
 
                      (c)  by the Commissioner of Taxation on the authority of the individual;
 
-under a provision of the _Social Security Act 1991_ for a purpose related to a claim for, or to entitlement to, family allowance, family tax payment or parenting payment in the nature of non‑benefit PP (partnered), that tax file number is taken, for the purposes of subsection 154A(1) of the Family Assistance Administration Act as amended by this Act, to have been so provided under a provision of that Act as so amended for the purposes of that Act as so amended.
+under a provision of the _Social Security Act 1991_ for a purpose related to a claim for, or to entitlement to, family allowance, family tax payment or parenting payment in the nature of non‑benefit PP (partnered), that tax file number is taken, for the purposes of subsection 154A(1) of the Family Assistance Administration Act as amended by this Act, to have been so provided under a provision of that Act as so amended for the purposes of that Act as so amended.
 
 ## 22  Saving provision—Part A rate of family tax benefit for families with children not subject to family allowance income test
 
@@ -21664,7 +18182,7 @@ under a provision of the _Social Security Act 1991_ for a purpose related to a c
 
                      (a)  was receiving family allowance under the _Social Security Act 1991_ in respect of a child; and
 
-                     (b)  by virtue of the operation of subclause 52(2) or 53(2) of Schedule 1A to that Act—did not have to satisfy the requirements of paragraph 838(1)(c) of that Act in order to be qualified for family allowance for that child; and
+                     (b)  by virtue of the operation of subclause 52(2) or 53(2) of Schedule 1A to that Act—did not have to satisfy the requirements of paragraph 838(1)(c) of that Act in order to be qualified for family allowance for that child; and
 
                      (c)  was also receiving either carer allowance or double orphan pension under that Act in respect of that child.
 
@@ -21682,7 +18200,7 @@ under a provision of the _Social Security Act 1991_ for a purpose related to a c
 
 In this Schedule, unless the contrary intention appears:
 
-**_approved child care service_** has the meaning given in subsection 3(1) of the Family Assistance Administration Act.
+**_approved child care service_** has the meaning given in subsection 3(1) of the Family Assistance Administration Act.
 
 **_childcare assistance_** means fee reductions made in respect of care provided before:
 
@@ -21716,7 +18234,7 @@ that is made to provide grants to reimburse the costs of fee reductions.
 
 **_Family Assistance Administration Act_** means the _A New Tax System (Family Assistance) (Administration) Act 1999_.
 
-**_family assistance law_** has the same meaning as in subsection 3(1) of the Family Assistance Administration Act.
+**_family assistance law_** has the same meaning as in subsection 3(1) of the Family Assistance Administration Act.
 
 **_fee relief guidelines_** means the Childcare Assistance (Fee Relief) Guidelines made under section 12A of the _Child Care Act 1972_ as in force on 30 June 2000.
 
@@ -21748,7 +18266,7 @@ _Note:       Determinations of conditional eligibility, a weekly lim
 
 (3)       If:
 
-                     (a)  a requirement has been imposed before 1 July 2000 under the childcare assistance scheme in respect of the child of the individual; and
+                     (a)  a requirement has been imposed before  1 July 2000 under the childcare assistance scheme in respect of the child of the individual; and
 
                      (b)  the requirement is that the child comply with the immunisation requirement; and
 
@@ -21758,11 +18276,11 @@ _Note:       Determinations of conditional eligibility, a weekly lim
 
 then, for the purposes of the Family Assistance Administration Act as amended by this Act and the Family Assistance Act as so amended:
 
-                     (e)  section 57E of the Family Assistance Administration Act as so amended, and paragraph 42(1)(c) of the Family Assistance Act as so amended, are treated as having been in force when the requirement was imposed; and
+                     (e)  section 57E of the Family Assistance Administration Act as so amended, and paragraph 42(1)(c) of the Family Assistance Act as so amended, are treated as having been in force when the requirement was imposed; and
 
                       (f)  the requirement is taken to have been imposed, at the time when it was imposed, under section 57E of the Family Assistance Administration Act as so amended and as so in force; and
 
-                     (g)  the requirement is taken to have been imposed, at the time when it was imposed, for the purposes of paragraph 42(1)(c) of the Family Assistance Act as so amended and as so in force.
+                     (g)  the requirement is taken to have been imposed, at the time when it was imposed, for the purposes of paragraph 42(1)(c) of the Family Assistance Act as so amended and as so in force.
 
 (4)       If, immediately before 1 July 2000, the child is meeting the immunisation requirements set out in the childcare assistance scheme, then, on 1 July 2000, the child is taken to meet the immunisation requirements in section 6 of the Family Assistance Act, as amended by this Act and in force on that day.
 
@@ -21778,7 +18296,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
 then, for the purposes of the Family Assistance Administration Act as amended by this Act and the Family Assistance Act as so amended:
 
-                     (d)  paragraph 49B(a) of the Family Assistance Administration Act, as so amended is treated as being in force when the completed data collection form is returned; and
+                     (d)  paragraph 49B(a) of the Family Assistance Administration Act, as so amended is treated as being in force when the completed data collection form is returned; and
 
                      (e)  the individual is taken to have made an effective claim under that paragraph, as so in force, at the time that the form was returned.
 
@@ -21788,13 +18306,13 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
 If an individual makes a claim for child care benefit by fee reduction before 1 July 2000, then, for the purposes of the Family Assistance Administration Act as amended by this Act and the Family Assistance Act as so amended:
 
-                     (a)  paragraph 49B(a) of the Family Assistance Administration Act, as so amended is treated as being in force when the claim is made; and
+                     (a)  paragraph 49B(a) of the Family Assistance Administration Act, as so amended is treated as being in force when the claim is made; and
 
                      (b)  the claim is taken to have been made, at the time that it was made, under that paragraph of that Act as so amended and in force.
 
 ## 5  Minimum CCB % if individual objects to use of tax file number given previously
 
-(1)       This item applies to an individual referred to in subitems 2(1) and 3(1).
+(1)       This item applies to an individual referred to in subitems 2(1) and 3(1).
 
 (2)       If:
 
@@ -21836,7 +18354,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (c)  the Family Assistance Act as so amended is treated as having been in force when the decision under paragraph (a) was made; and
 
-                     (d)  the decision that the child is taken to be a dependent child is taken to have been a determination that the child is an FTB child of the individual made, at the time referred to in subitem (2), under subsection 42(2) of the Family Assistance Act as so amended and in force.
+                     (d)  the decision that the child is taken to be a dependent child is taken to have been a determination that the child is an FTB child of the individual made, at the time referred to in subitem (2), under subsection 42(2) of the Family Assistance Act as so amended and in force.
 
 (2)       The determination referred to in paragraph (1)(d) is taken to have been made on:
 
@@ -21918,7 +18436,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (a)  that Act as so amended is treated as having been in force when the decision that the individual is exempt was made; and
 
-                     (b)  the decision is taken to have been made, at the time the exemption under the childcare assistance scheme was given, under subsection 57B(6) of that Act as so amended and in force.
+                     (b)  the decision is taken to have been made, at the time the exemption under the childcare assistance scheme was given, under subsection 57B(6) of that Act as so amended and in force.
 
 ## 10  Special rules relating to a childcare assistance agreement in force immediately before 1 July 2000
 
@@ -21952,7 +18470,7 @@ _Note:       In respect of care provided before 1 July 2000, this 
 
 Commonwealth under no obligation to make further grants under agreement
 
-(7)       The operation of an agreement to which this item applies is limited in that the Commonwealth is under no obligation, on or after 1 July 2000, to make any further grants under the agreement to reimburse the costs of fee reductions.
+(7)       The operation of an agreement to which this item applies is limited in that the Commonwealth is under no obligation, on or after  1 July 2000, to make any further grants under the agreement to reimburse the costs of fee reductions.
 
 Child Care Act, guidelines etc. to be treated as in force
 
@@ -21976,7 +18494,7 @@ Long day care services
 
                      (a)  a childcare assistance agreement is in force in respect of a long day care service immediately before 1 July 2000; and
 
-                     (b)  the service is not, immediately before 1 July 2000, subject to a suspension under paragraph 4E(1)(d) of the _Child Care Act 1972_;
+                     (b)  the service is not, immediately before 1 July 2000, subject to a suspension under paragraph 4E(1)(d) of the _Child Care Act 1972_;
 
 the service is treated as being an approved centre based long day care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
 
@@ -21992,9 +18510,9 @@ Outside school hours care services
 
 (4)       If a childcare assistance agreement is in force in respect of an outside school hours care service immediately before 1 July 2000, the service is treated as being an approved outside school hours care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
 
-Requirement of subsection 195(3) of the Family Assistance Administration Act need not be complied with
+Requirement of subsection 195(3) of the Family Assistance Administration Act need not be complied with
 
-(5)       For an approved child care service referred to in subitems (1) to (4) (inclusive), the Secretary does not have to comply with the requirement in subsection 195(3) of the Family Assistance Administration Act as amended by this Act to give a certificate in respect of the service.
+(5)       For an approved child care service referred to in subitems (1) to (4) (inclusive), the Secretary does not have to comply with the requirement in subsection 195(3) of the Family Assistance Administration Act as amended by this Act to give a certificate in respect of the service.
 
 If long day care services subject to a sanction (other than suspension) on 30 June 2000, sanction carries over to child care benefit scheme
 
@@ -22008,7 +18526,7 @@ If:
 
                      (b)  item 10 applies to an agreement in respect of the service;
 
-it is a condition for the continued approval of the approved child care service under section 195 of the Family Assistance Administration Act, as amended by this Act and in force on 1 July 2000, that the service not contravene an obligation imposed on the service under the agreement in respect of a grant to reimburse the costs of fee reductions, in relation to care mentioned in subitems 10(3), (4) and (5).
+it is a condition for the continued approval of the approved child care service under section 195 of the Family Assistance Administration Act, as amended by this Act and in force on 1 July 2000, that the service not contravene an obligation imposed on the service under the agreement in respect of a grant to reimburse the costs of fee reductions, in relation to care mentioned in subitems 10(3), (4) and (5).
 
 ## 13  Debts under childcare assistance agreements to be recoverable under the Family Assistance Administration Act
 
@@ -22022,9 +18540,9 @@ it is a condition for the continued approval of the approved child care service 
 
                      (b)  the debt relates to a grant to reimburse the costs of fee reductions for care mentioned in subitem (10)(3), (4) or (5);
 
-the debt, whether it arises before, or on or after, 1 July 2000 is recoverable on or after 1 July 2000 under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on 1 July 2000.
+the debt, whether it arises before, or on or after, 1 July 2000 is recoverable on or after 1 July 2000 under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on 1 July 2000.
 
-(2)       If the debt has been partially recovered under the childcare assistance scheme before 1 July 2000, the balance of the debt may be recovered under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on and after 1 July 2000.
+(2)       If the debt has been partially recovered under the childcare assistance scheme before 1 July 2000, the balance of the debt may be recovered under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on and after 1 July 2000.
 
 ## 14  Minister may terminate childcare assistance agreements
 
@@ -22046,7 +18564,7 @@ If:
 
                      (b)  the person, when operating a child care service under the childcare assistance scheme, was subject to sanctions in respect of the service;
 
-the Secretary may refuse to approve the service under subsection 195(2) of that Act as amended by this Act.
+the Secretary may refuse to approve the service under subsection 195(2) of that Act as amended by this Act.
 
 ## 16  Special rules relating to claims for childcare assistance
 
@@ -22062,7 +18580,7 @@ the claim is to be determined after 1 July 2000 under the childcare assistance
 
 Claims lodged after 1 July 2000 
 
-(2)       Despite the termination of the childcare assistance scheme on 1 July 2000, a person may lodge a claim for childcare assistance before 8 July 2000 if the claim relates to care provided no more than 7 days before the claim is lodged. The claim is to be determined after 1 July 2000 under the childcare assistance scheme as in force immediately before 1 July 2000 as if the scheme, as so in force, had continued in force.
+(2)       Despite the termination of the childcare assistance scheme on 1 July 2000, a person may lodge a claim for childcare assistance before 8 July 2000 if the claim relates to care provided no more than 7 days before the claim is lodged. The claim is to be determined after 1 July  2000 under the childcare assistance scheme as in force immediately before 1 July 2000 as if the scheme, as so in force, had continued in force.
 
 ## 17  Special rules relating to sessions of care
 
@@ -22102,13 +18620,13 @@ then:
 
                      (c)  the application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000  as if that Act, as so in force, had continued in force; and
 
-                     (d)  if the registration (if any) relates to a person who is not an individual, the registration remains in force only in relation to care provided before 1 July 2000, or on or after 1 July 2000 as mentioned in subitems 20(3) and (4); and
+                     (d)  if the registration (if any) relates to a person who is not an individual, the registration remains in force only in relation to care provided before 1 July 2000, or on or after 1 July 2000 as mentioned in subitems 20(3) and (4); and
 
                      (e)  for the purposes of subitem (1), if the registration (if any) relates to a person who is an individual, the individual is to be treated as being a registered carer before 1 July 2000.
 
 Applications for registration as a carer under section 49 of the Childcare Rebate Act lodged after 1 July 2000
 
-(3)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000 _,_ a person or body may apply, on or after 1 July 2000 and before 1 January 2001, for registration as a carer under section 49 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
+(3)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000 _,_ a person or body may apply, on or after 1 July 2000 and before 1 January 2001, for registration as a carer under section 49 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
 
 ## 20  Special rules relating to claims for child care rebate
 
@@ -22144,7 +18662,7 @@ the application is to be determined under the _Childcare Rebate Act 1993_, as in
 
 Applications for registration of a family under section 19 of the Childcare Rebate Act lodged after 1 July 2000
 
-(2)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000, an individual may apply, on or after 1 July 2000 and before 1 January 2001, for a family to be registered under section 19 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
+(2)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000, an individual may apply, on or after 1 July 2000 and before 1 January 2001, for a family to be registered under section 19 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
 
 ## 22  Health Insurance Commission’s functions and powers in relation to child care rebate to continue for certain matters
 
@@ -22160,17 +18678,19 @@ Applications for registration of a family under section 19 of the Childcare Re
 
 under the _Health Insurance Commission Act 197_ 3 and the _Childcare Rebate Act 1993_ as if the following amendments to those Acts had not occurred:
 
-                     (e)  the amendments of the _Health Insurance Commission Act 1973_ by Schedule 8 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_;
+                     (e)  the amendments of the _Health Insurance Commission Act 1973_ by Schedule 8 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_;
 
                       (f)  the repeal of the _Childcare Rebate Act 1993_.
 
-(2)       In respect of the Commission’s powers under subitem (1), the Commission may, under subsection 55(3) of the _Childcare Rebate Act 1993_ as continued in force, extend the period in which an application may be made for reconsideration of a decision listed in section 53 of that Act, but only until 30 June 2001.
+(2)       In respect of the Commission’s powers under subitem (1), the Commission may, under subsection 55(3) of the _Childcare Rebate Act 1993_ as continued in force, extend the period in which an application may be made for reconsideration of a decision listed in section 53 of that Act, but only until 30 June 2001.
 
 ## 23  Other transitional matters may be provided for in regulations
 
 The Governor‑General may make regulations, not inconsistent with this Schedule, the Family Assistance Administration Act and the Family Assistance Act prescribing other transitional matters, apart from transitional matters provided for in this Schedule, that are necessary or convenient for carrying out or giving effect to the introduction of child care benefit under the family assistance law.
 
-Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)
+* * *
+
+_Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -22178,15 +18698,19 @@ Family and Community Services Legislation Amendment (Application of Criminal Cod
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 (No. 161, 2005)
+* * *
 
-## Schedule 1
+_Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 (No. 161, 2005)_
+
+## Schedule 1  
 
 ## 61  Application
 
 The amendment made by item 60 applies in relation to assessments for the 2004‑05 year of income and later years of income.
 
-Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006 (No. 53, 2006)
+* * *
+
+_Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006 (No. 53, 2006)_
 
 ##### <a id="4"></a>4  Extension of amended Child Support Acts to Western Australia in relation to exnuptial children
 
@@ -22214,13 +18738,13 @@ Note:          If a Child Support Act is amended by this Act a
 
                      (b)  the _Child Support (Assessment) Act 1989_.
 
-## Schedule 1
+## Schedule 1  
 
 ## 11  Application
 
 The amendments made by this Schedule apply in relation to a day in a child support period, being a day that is, or is after, the day on which this Schedule commences.
 
-## Schedule 2
+## Schedule 2  
 
 ## 13  Application
 
@@ -22232,7 +18756,7 @@ The amendments made by this Schedule apply in relation to a day in a child suppo
 
                      (b)  the day on which item 12 of this Schedule commences.
 
-## Schedule 3
+## Schedule 3  
 
 ## 18  Application
 
@@ -22246,7 +18770,7 @@ The amendments made by this Schedule apply in relation to:
 
                      (d)  decisions made by a court under Division 4 or 5 of Part 7 on or after the day on which this Schedule commences.
 
-## Schedule 5
+## Schedule 5  
 
 ## 18  Definition of _Child Support Act_
 
@@ -22272,9 +18796,9 @@ in relation to the maintenance of exnuptial children as if those amendments had 
 
 _Note:       If a Child Support Act is amended in relation to the maintenance of exnuptial children, unless and until Western Australia adopts the Child Support Act, as amended, there are effectively 2 versions of the Child Support Act that apply in Australia. The Child Support Act, as amended, applies:_
 
-(a)    in all States and Territories in relation to children of marriages; and
+(a)           in all States and Territories in relation to children of marriages; and
 
-(b)    in all States and Territories, except Western Australia, in relation to exnuptial children.
+(b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
 _The Child Support Act continues to apply in   Western Australia in relation to exnuptial children as if those amendments had not been made._
 
@@ -22388,7 +18912,7 @@ _Note:       A person will therefore be liable to repay to the Commo
 
 (1)       This item applies if, and during the period when, the rights and liabilities of a person under a Child Support Act were different from the rights and liabilities that the person would have had under that Act because:
 
-                     (a)  the Child Support Act was amended, before the commencement of this item, by one or more of the Acts mentioned in subitem 19(3) in relation to the maintenance of exnuptial children; and
+                     (a)  the Child Support Act was amended, before the commencement of this item, by one or more of the Acts mentioned in subitem 19(3) in relation to the maintenance of exnuptial children; and
 
                      (b)  Western Australia did not adopt the Child Support Act, as so amended.
 
@@ -22398,17 +18922,20 @@ _Note:       A person will therefore be liable to repay to the Commo
 
                      (b)  the Child Support Act continued to extend to Western Australia in relation to the maintenance of exnuptial children as if those amendments had not been made.
 
-Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006 (No. 146, 2006)
+* * *
 
-## Schedule 2
+_Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006 
+ (No. 146, 2006)_
+
+## Schedule 2  
 
 ## 115  Application
 
 (1)       The amendments made by Schedule 1 to this Act, and this Schedule (other than items 1 and 2 and 92 to 96 of this Schedule), apply in relation to a day in a child support period, being a day that is, or is after, the day on which this item commences.
 
-(2)       The amounts referred to in subsections 65A(2) and 66(5) of the Assessment Act (as inserted by Schedule 1 to this Act) are to be indexed in accordance with section 153A of that Act on and after 1 January 2007 as if item 1 of Schedule 1 had commenced on that day.
+(2)       The amounts referred to in subsections 65A(2) and 66(5) of the Assessment Act (as inserted by Schedule 1 to this Act) are to be indexed in accordance with section 153A of that Act on and after 1 January 2007 as if item 1 of Schedule 1 had commenced on that day.
 
-## 116A  Application
+116A  Application
 
 The amendments made by items 92 to 96 of this Schedule apply in relation to a day in a child support period, being a day that is, or is after, 1 January 2008.
 
@@ -22430,7 +18957,7 @@ The amendments made by items 92 to 96 of this Schedule apply in relation to a 
 
                      (c)  the amount specified in the relevant notice as the amount the person elects to be his or her child support income amount is taken to be specified in the notice as his or her adjusted taxable income; and
 
-                     (d)  the amounts specified as amounts estimated under steps 2 and 3 of the method statement in subsection 60(5) of that Act, as in force immediately before this item commences, are taken to be specified in the notice as the amount estimated under step 2 of the method statement in subsection 60(5) of that Act, as in force immediately after this item commences.
+                     (d)  the amounts specified as amounts estimated under steps 2 and 3 of the method statement in subsection 60(5) of that Act, as in force immediately before this item commences, are taken to be specified in the notice as the amount estimated under step 2 of the method statement in subsection 60(5) of that Act, as in force immediately after this item commences.
 
 (3)       For the purposes of the Assessment Act, if the Registrar has acted on the basis of a determination under section 58 of that Act that is in force immediately before this item commences:
 
@@ -22442,7 +18969,7 @@ The amendments made by items 92 to 96 of this Schedule apply in relation to a 
 
 ## 118  Requirement to publish annualised MTAWE figure
 
-(1)       Before 1 July 2008, the Registrar must publish in the _Gazette_ the annual rate of child support specified in subsection 65A(2) of the Assessment Act (as inserted by Schedule 1 to this Act) for all child support periods that start in that calendar year or the previous calendar year.
+(1)       Before 1 July 2008, the Registrar must publish in the _Gazette_ the annual rate of child support specified in subsection 65A(2) of the Assessment Act (as inserted by Schedule 1 to this Act) for all child support periods that start in that calendar year or the previous calendar year.
 
 (2)       Before 1 July 2008, the Secretary must publish in the _Gazette_ for all child support periods that start in that calendar year or the previous calendar year:
 
@@ -22456,7 +18983,7 @@ The amendments made by items 92 to 96 of this Schedule apply in relation to a 
 
 (3)       The instruments published under subitems (1) and (2) are not legislative instruments.
 
-## Schedule 3
+## Schedule 3  
 
 ## 77  Application—review of decisions
 
@@ -22466,7 +18993,7 @@ Decisions of the Registrar—internal review pending or not yet started at comme
 
 _Note:       Part VII of the Registration and Collection Act (as amended by this Schedule) also applies if a proceeding for internal review was pending under that Part or Part 6B of the Assessment Act immediately before the commencement of this item (see subitem (4))._
 
-(2)       Part VIIA (SSAT review) of the Registration and Collection Act (as inserted by this Schedule) applies in relation to a decision made by the Registrar under subsection 83(1) or 87(1) of the Registration and Collection Act after the commencement of this item.
+(2)       Part VIIA (SSAT review) of the Registration and Collection Act (as inserted by this Schedule) applies in relation to a decision made by the Registrar under subsection 83(1) or 87(1) of the Registration and Collection Act after the commencement of this item.
 
 Decisions of the Registrar—internal review completed before commencement
 
@@ -22482,9 +19009,9 @@ Decisions of the Registrar—internal review completed before commencement
 
                      (b)  the Registrar made a decision (the **_objection decision_**) on the objection under:
 
-                              (i)  subsection 98ZC(1) of the Assessment Act; or
+                              (i)  subsection 98ZC(1) of the Assessment Act; or
 
-                             (ii)  subsection 87(1) or 98(1) of the Registration and Collection Act;
+                             (ii)  subsection 87(1) or 98(1) of the Registration and Collection Act;
 
 those Acts, as in force immediately before that commencement, continue to apply in relation to the original decision and the objection decision.
 
@@ -22500,9 +19027,9 @@ is taken, at that commencement, to be pending under Part VII of the Registrati
 
 (5)       The Assessment Act and the Registration and Collection Act, as in force immediately before the commencement of this item, continue to apply in relation to a decision made by the Registrar before that commencement under:
 
-                     (a)  subsection 98ZE(1) of the Assessment Act; or
+                     (a)  subsection 98ZE(1) of the Assessment Act; or
 
-                     (b)  subsection 91(1) or 101(1) of the Registration and Collection Act.
+                     (b)  subsection 91(1) or 101(1) of the Registration and Collection Act.
 
 Pending proceedings—court and AAT reviews
 
@@ -22518,9 +19045,9 @@ Pending proceedings—court and AAT reviews
 
                      (b)  any proceeding pending before the Administrative Appeals Tribunal under:
 
-                              (i)  subsection 98ZE(7) or 98ZF(1) of the Assessment Act; or
+                              (i)  subsection 98ZE(7) or 98ZF(1) of the Assessment Act; or
 
-                             (ii)  subsection 91(5), 99(1) or 101(5) of the Registration and Collection Act;
+                             (ii)  subsection 91(5), 99(1) or 101(5) of the Registration and Collection Act;
 
                             immediately before the commencement of this item; or
 
@@ -22550,7 +19077,7 @@ If, immediately after the commencement of this item, the Assessment Act and the 
 
 items 77 to 79 of this Schedule apply in Western Australia, after Western Australia adopts those Acts as amended by this Act, in relation to the maintenance of exnuptial children as if references in those items to the commencement of those items were references to the adoption of those Acts by Western Australia as amended by this Act.
 
-## Schedule 4
+## Schedule 4  
 
 ## 42  Application
 
@@ -22564,7 +19091,7 @@ The amendments made by items 11, 14, 17, 18 and 19 of this Schedule apply in r
 
                               (i)  to make, or refuse to make, a determination under Part 6A of that Act; or
 
-                             (ii)  to make an administrative assessment under subsection 66(1) of that Act.
+                             (ii)  to make an administrative assessment under subsection 66(1) of that Act.
 
 ## 43  Application
 
@@ -22580,9 +19107,9 @@ If, immediately after the commencement of this Schedule, the Assessment Act and 
 
 items 42 to 45 of this Schedule apply in Western Australia, after Western Australia adopts those Acts as amended by this Act, in relation to the maintenance of exnuptial children as if references in those items to the commencement of this Schedule were references to the adoption of those Acts by Western Australia as amended by this Act.
 
-## Schedule 5
+## Schedule 5  
 
-## 73  Application of amendments in relation to child support agreements
+73  Application of amendments in relation to child support agreements
 
 (1)       The amendments made by this Schedule (other than item 58) apply (subject to subitems (2) and (3)) in respect of a child support agreement if:
 
@@ -22634,7 +19161,7 @@ Definition of **agreement period**
 
 **_agreement period_**, for a child support agreement covered by subitem (1), means the period for which the child support agreement has effect.
 
-## 73A  Application of amendments in relation to court orders
+73A  Application of amendments in relation to court orders
 
 (1)       The amendments made by this Schedule (other than item 58) apply (subject to subitem (2)) in respect of an application made to a court for an order if:
 
@@ -22702,7 +19229,7 @@ then the Assessment Act and the Registration and Collection Act, as in force imm
 
                              (ii)  to be terminated.
 
-(2)       If, in accordance with subitem 73(5), the Registrar accepts a child support agreement on or after 1 July 2008 under the Assessment Act as in force immediately before that day, the Registrar must:
+(2)       If, in accordance with subitem 73(5), the Registrar accepts a child support agreement on or after 1 July 2008 under the Assessment Act as in force immediately before that day, the Registrar must:
 
                      (a)  review the agreement; and
 
@@ -22726,13 +19253,13 @@ then the Assessment Act and the Registration and Collection Act, as in force imm
 
 Effect of determinations
 
-(1)       If the Registrar makes a determination under subparagraph 74(1)(b)(i) or (2)(b)(i), then, for the purposes of the Assessment Act and the Registration and Collection Act, at the time specified in subitem (4) (if the agreement has not been previously terminated):
+(1)       If the Registrar makes a determination under subparagraph 74(1)(b)(i) or (2)(b)(i), then, for the purposes of the Assessment Act and the Registration and Collection Act, at the time specified in subitem (4) (if the agreement has not been previously terminated):
 
                      (a)  the agreement is taken to be a binding child support agreement; and
 
                      (b)  the amendments made by this Schedule do not affect the continuity of any assessment, in force at that time, of the annual rate of child support that is payable under the agreement.
 
-(2)       If the Registrar makes a determination under subparagraph 74(1)(b)(ii) or (2)(b)(ii), then, for the purposes of the Assessment Act and the Registration and Collection Act, for any day in a child support period that is on or after the time specified in subitem (4) (if the agreement has not been previously terminated), the agreement is terminated by force of this item.
+(2)       If the Registrar makes a determination under subparagraph 74(1)(b)(ii) or (2)(b)(ii), then, for the purposes of the Assessment Act and the Registration and Collection Act, for any day in a child support period that is on or after the time specified in subitem (4) (if the agreement has not been previously terminated), the agreement is terminated by force of this item.
 
 (3)       Subitems (1) and (2) do not affect the operation of provisions in an agreement that do not have effect for the purposes of the Assessment Act or the Registration and Collection Act.
 
@@ -22740,19 +19267,19 @@ When determinations take effect
 
 (4)       For the purposes of subitems (1) and (2), the following time is specified:
 
-                     (a)  if the determination is made under subparagraph 74(1)(b)(i)—the time that item 5 of this Schedule commences;
+                     (a)  if the determination is made under subparagraph 74(1)(b)(i)—the time that item 5 of this Schedule commences;
 
                      (b)  otherwise—the latest of the following times:
 
                               (i)  if the decision of the Registrar to make the determination becomes final—at the time when that decision becomes final;
 
-                             (ii)  if a decision of the SSAT relating to the Registrar’s determination becomes final—at the time when that decision becomes final (within the meaning of subsection 110W(1) of the Registration and Collection Act);
+                             (ii)  if a decision of the SSAT relating to the Registrar’s determination becomes final—at the time when that decision becomes final (within the meaning of subsection 110W(1) of the Registration and Collection Act);
 
-                            (iii)  if neither subparagraph (i) nor (ii) applies—at the time when a decision of a court relating to the Registrar’s determination becomes final (within the meaning of subsection 110W(2) or (3) of that Act);
+                            (iii)  if neither subparagraph (i) nor (ii) applies—at the time when a decision of a court relating to the Registrar’s determination becomes final (within the meaning of subsection 110W(2) or (3) of that Act);
 
                             (iv)  at the time when the agreement takes effect.
 
-(5)       For the purposes of subparagraph (4)(b)(i), a decision of the Registrar becomes final at the end of the period within which an application could have been made to the SSAT under section 80 of the Registration and Collection Act (as it applies because of subitem 74(6) of this Schedule).
+(5)       For the purposes of subparagraph (4)(b)(i), a decision of the Registrar becomes final at the end of the period within which an application could have been made to the SSAT under section 80 of the Registration and Collection Act (as it applies because of subitem 74(6) of this Schedule).
 
 Terminating deemed binding child support agreements
 
@@ -22782,7 +19309,7 @@ The amendments made by this Schedule apply in respect of:
 
                               (i)  to make, or refuse to make, a determination under Part 6A of that Act; or
 
-                             (ii)  to make an administrative assessment under subsection 66(1) of that Act.
+                             (ii)  to make an administrative assessment under subsection 66(1) of that Act.
 
 ## Schedule 7
 
@@ -22802,7 +19329,7 @@ after the commencement of this Schedule.
 
 ## Schedule 9
 
-## 1  Assessments in relation to court orders made before 1 July 2008
+1  Assessments in relation to court orders made before 1 July 2008
 
 (1)       The Registrar is not required, after 1 July 2008:
 
@@ -22812,7 +19339,7 @@ after the commencement of this Schedule.
 
 in respect of an order made, before that time, by a court under Division 4 of Part 7 of that Act.
 
-(2)       If such an order will be in force immediately before 1 July 2008, the Registrar must:
+(2)       If such an order will be in force immediately before  1 July 2008, the Registrar must:
 
                      (a)  review the administrative assessment that relates to that order; and
 
@@ -22828,13 +19355,15 @@ in respect of an order made, before that time, by a court under Division 4 of 
 
 (5)       A contravention of subitem (4) in relation to a decision does not affect the validity of the decision.
 
-(6)       The Assessment Act (as amended by this Act) applies as if subsection 116(1) of that Act included the following paragraph:
+(6)       The Assessment Act (as amended by this Act) applies as if subsection 116(1) of that Act included the following paragraph:
 
                     (ac)  the assessment is amended or made under item 1 of Schedule 9 to the _Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006_;
 
 (7)       To the extent that a person who applies to court under section 116 of the Assessment Act by virtue of subitem (6) of this item would not otherwise have special circumstances, the person is taken to have special circumstances for the purposes of that section.
 
-Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007 (No. 82, 2007)
+* * *
+
+_Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007 (No. 82, 2007)_
 
 ##### <a id="4"></a>4  Application, saving and transitional provisions
 
@@ -22872,7 +19401,7 @@ The amendments made by items 92 to 97  of this Schedule apply in respect of el
 
 ## 23  Application
 
-Item 22 of this Schedule applies to the working out of the exempted income amount of a liable parent in relation to the assessment of child support payable by the liable parent if the notice mentioned in paragraph 39(3)(d) of the Assessment Act:
+Item 22 of this Schedule applies to the working out of the exempted income amount of a liable parent in relation to the assessment of child support payable by the liable parent if the notice mentioned in paragraph 39(3)(d) of the Assessment Act:
 
                      (a)  was given not more than 28 days before; or
 
@@ -22884,7 +19413,9 @@ the commencement of the item.
 
 Item 32 of this Schedule applies to all notices under section 76 of the Assessment Act given on or after the commencement of the item.
 
-Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008 (No. 143, 2008)
+* * *
+
+_Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008 (No. 143, 2008)_
 
 ## Schedule 3
 
@@ -22892,7 +19423,7 @@ Families, Housing, Community Services and Indigenous Affairs and Other Legislati
 
 (1)       The amendments made by items 1 and 3 to 10 apply in relation to changes in percentages of care that occur on or after 1 July 2008.
 
-(2)       Subparagraphs 48(1)(b)(i) and 74A(b)(ia) and paragraph 75(2)(aa) of the _Child Support (Assessment) Act 1989_, as inserted by this Act, apply in relation to:
+(2)       Subparagraphs 48(1)(b)(i) and 74A(b)(ia) and paragraph 75(2)(aa) of the _Child Support (Assessment) Act 1989_, as inserted by this Act, apply in relation to:
 
                      (a)  agreements, plans or orders made on or after 1 July 2008; and
 
@@ -22934,17 +19465,19 @@ The amendments made by items 27 and 28 apply in relation to a child support te
 
 regardless of whether the assessment was made before, on or after the day on which that item commences.
 
-(2)       Subsection 66A(1) of the _Child Support (Assessment) Act 1989_, as inserted by this Act, does not apply in relation to a child support period if subsection 66A(1) of that Act (as in force before the commencement of this item) has applied in respect of a day in that period.
+(2)       Subsection 66A(1) of the _Child Support (Assessment) Act 1989_, as inserted by this Act, does not apply in relation to a child support period if subsection 66A(1) of that Act (as in force before the commencement of this item) has applied in respect of a day in that period.
 
-(3)       Regulations in force for the purposes of subsection 66A(1) of the _Child Support (Assessment) Act 1989_ immediately before the commencement of this item continue in force on and after that commencement as if they were regulations in force for the purposes of paragraph 66A(1)(a) of that Act.
+(3)       Regulations in force for the purposes of subsection 66A(1) of the _Child Support (Assessment) Act 1989_ immediately before the commencement of this item continue in force on and after that commencement as if they were regulations in force for the purposes of paragraph 66A(1)(a) of that Act.
 
-(4)       Subsection 66A(3B) of the _Child Support (Assessment) Act 1989_, as inserted by this Act, applies in relation to administrative assessments made under laws of reciprocating jurisdictions before, on or after the commencement of this item.
+(4)       Subsection 66A(3B) of the _Child Support (Assessment) Act 1989_, as inserted by this Act, applies in relation to administrative assessments made under laws of reciprocating jurisdictions before, on or after the commencement of this item.
 
 ## 49  Application
 
 The amendments made by items 32 to 39 and 41 to 48 apply in relation to administrative assessments made under laws of reciprocating jurisdictions before, on or after the commencement of those items.
 
-Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)
+* * *
+
+_Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 
 ## Schedule 3
 
@@ -22954,11 +19487,13 @@ Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)
 
 (2)       However, the amendments do not apply in relation to the following:
 
-                     (b)  an election to work out a parent’s adjusted taxable income under section 60 of the _Child Support (Assessment) Act 1989_ if the remaining period (within the meaning of subsection 60(5) of that Act) concerned starts before 1 July 2009;
+                     (b)  an election to work out a parent’s adjusted taxable income under section 60 of the _Child Support (Assessment) Act 1989_ if the remaining period (within the meaning of subsection 60(5) of that Act) concerned starts before 1 July 2009;
 
                      (c)  working out a parent’s real remaining period adjusted taxable income under section 64 of the _Child Support (Assessment) Act 1989_ in relation to an election covered by paragraph (b) of this subitem.
 
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
@@ -22970,17 +19505,19 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
-Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011 (No. 53, 2011)
+* * *
+
+_Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011 (No. 53, 2011)_
 
 ## Schedule 3
 
-## 9  Application—subsection 5A(5) of the _Child Support (Assessment) Act 1989_
+## 9  Application—subsection 5A(5) of the _Child Support (Assessment) Act 1989_
 
-Subsection 5A(5) of the _Child Support (Assessment) Act 1989_, as inserted by this Schedule, applies in relation to the amount referred to in subsection 5A(1) of that Act that is published before or after the commencement of this item.
+Subsection 5A(5) of the _Child Support (Assessment) Act 1989_, as inserted by this Schedule, applies in relation to the amount referred to in subsection 5A(1) of that Act that is published before or after the commencement of this item.
 
-## 10  Application—subsection 58AA(3) of the _Child Support (Assessment) Act 1989_
+## 10  Application—subsection 58AA(3) of the _Child Support (Assessment) Act 1989_
 
-Subsection 58AA(3) of the _Child Support (Assessment) Act 1989_, as inserted by this Schedule, applies in relation to an AWE amount (within the meaning of subsection 58AA(1) of that Act, as inserted by this Schedule) that is published before or after the commencement of this item.
+Subsection 58AA(3) of the _Child Support (Assessment) Act 1989_, as inserted by this Schedule, applies in relation to an AWE amount (within the meaning of subsection 58AA(1) of that Act, as inserted by this Schedule) that is published before or after the commencement of this item.
 
 ## 11  Saving provision
 
@@ -22992,19 +19529,21 @@ If:
 
 the determination has effect, after that commencement, as if it had been made under section 58 of that Act as inserted by this Schedule.
 
-Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No. 51, 2012)
+* * *
 
-## Schedule 4
+_Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No. 51, 2012)_
+
+## Schedule 4
 
 ## 2  Transitional—publication of figures
 
-Subsection 155(2) of the _Child Support (Assessment) Act 1989_ applies in relation to the calendar year ending on 31 December 2012 as if the amendments of:
+Subsection 155(2) of the _Child Support (Assessment) Act 1989_ applies in relation to the calendar year ending on 31 December 2012 as if the amendments of:
 
                      (a)  section 5 of that Act; and
 
                      (b)  section 5A of that Act; and
 
-                     (c)  subsection 155(2) of that Act;
+                     (c)  subsection 155(2) of that Act;
 
 made by Division 2 of this Part had already commenced.
 
@@ -23012,9 +19551,13 @@ made by Division 2 of this Part had already commenced.
 
 The _Child Support (Assessment) Act 1989_ applies in relation to the making or amendment, before 1 January 2013, of an administrative assessment for a child support period starting on or after 1 January 2013 as if the amendments of that Act made by Division 2 of this Part had already commenced.
 
+The following provisions commence on 1 January 2013:
+
+## Schedule 4
+
 ## 18  Transitional—publication of figures
 
-Subsection 155(2A) of the _Child Support (Assessment) Act 1989_ applies in relation to the financial year ending on 30 June 2013 as if the amendments of section 58AA of that Act made by Division 3 of this Part had already commenced.
+Subsection 155(2A) of the _Child Support (Assessment) Act 1989_ applies in relation to the financial year ending on 30 June 2013 as if the amendments of section 58AA of that Act made by Division 3 of this Part had already commenced.
 
 ## 20  Application of amendments
 
@@ -23024,21 +19567,29 @@ The amendments made by items 6 to 16 apply in relation to child support period
 
 The _Child Support (Assessment) Act 1989_ applies in relation to the making or amendment, before 1 July 2013, of an administrative assessment for a child support period starting on or after 1 July 2013 as if the amendments of that Act made by Division 3 of this Part had already commenced.
 
+The following provision commences on 1 July 2013:
+
+## Schedule 4
+
 ## 24  Application of amendments
 
 The amendments made by this Division apply in relation to child support periods starting on or after the commencement of this Division.
 
-Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)
+* * *
 
-## Schedule 5
+_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
+
+## Schedule 5
 
 ## 22  Application provision
 
 The amendments made by items 14 to 21 apply in relation to care periods beginning on or after the commencement of those items (whether the care arrangement came into existence before, on or after that commencement).
 
-Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No. 154, 2012)
+* * *
 
-## Schedule 4
+_Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No. 154, 2012)_
+
+## Schedule 4
 
 ## 2  Application of amendment
 
@@ -23046,70 +19597,28 @@ Social Security and Other Legislation Amendment (Further 2012 Budget and Other M
 
 (2)       However, the amendment made by item 1 does not affect the rights or liabilities arising between parties to a proceeding heard and finally determined by a court before the commencement of this item, to the extent that those rights or liabilities arose from, or were affected by, a declaration referred to in subitem (1).
 
-Endnote 4—Uncommenced amendments
+## Table B
 
-This endnote sets out amendments of the _Child Support (Assessment) Act 1989_ that have not yet commenced.
+_Child Support Legislation Amendment Act 1998 (Application and Transitional) Regulations 1999 (SR 1999 No. 57)_
 
-Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No. 51, 2012)
+4       Application—certain amendments (Act, s 4 (2))
 
-## Schedule 4
+For subsection 4 (2) of the Act, the prescribed day is 1 July  1999.
 
-## 22  Subsection 58AA(1)
+_Note_     Subsection 4 (2) of the Act states:
 
-Repeal the subsection, substitute:
+                          (2)     The amendments made by Schedules 6 and 19 do not apply to applications for administrative assessment made before the prescribed day.
 
-             (1)  The **_ATI indexation factor_** is:
+5       Transitional—certain amendments (Act, s 5 (2))
 
-![](http://www.comlaw.gov.au/Details/C2013C00140/Html/ecb9d6ff-75f5-4844-b6dd-9d50f90ef89a_files/image023.gif)
-
-where:
-
-                    <a name="aw-amount"></a>**_AWE amount_** for a December quarter of a year of income means the amount published for the reference period in the quarter by the Australian Statistician in a document titled “Average Weekly Earnings, Australia” (or, if that title changes, in a replacement document) under the headings “Average Weekly Earnings—Trend—Persons—All employees total earnings” (or, if any of those headings change, under any replacement headings).
-
-                    <a name="decemb-quarter"></a>**_December quarter_** of a year of income means the quarter ending on 31 December of that year.
-
-                    <a name="refer-period"></a>**_reference period_** in a December quarter of a year of income means the period described by the Australian Statistician as the last pay period ending on or before the third Friday of the middle month of the quarter.
-
-                    <a name="tax-return-year"></a>**_tax return year_** means:
-
-                     (a)  if subsection 58(3) applies—the year of income before the last relevant year of income in relation to a child support period; or
-
-                     (b)  if subsection 58(4) applies—the earlier year of income that applies under paragraph 58(4)(c).
-
-## 23  Paragraph 58AA(3)(a)
-
-Omit “September”, substitute “December”.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Child Support (Assessment) Act 1989_ that have been misdescribed.
-
-There are no misdescribed amendments.
-
-Endnote 6—Modifications
-
-This endnote sets out modifications of the _Child Support (Assessment) Act 1989__._
-
-Child Support Legislation Amendment Act 1998 (Application and Transitional) Regulations 1999 (SR 1999 No. 57)
-
-##### <a id="4"></a>4  Application—certain amendments (Act, s 4(2))
-
-                   For subsection 4(2) of the Act, the prescribed day is 1 July 1999.
-
-_Note_           Subsection 4 (2) of the Act states:
-
-                             (2)  The amendments made by Schedules 6 and 19 do not apply to applications for administrative assessment made before the prescribed day.
-
-##### <a id="5"></a>5  Transitional—certain amendments (Act, s 5(2))
-
-             (1)  The amendments made to the _Child Support (Assessment) Act 1989_ by items 4 and 34 of Schedule 16 to the Act do not apply to an administrative assessment for a child support period commencing on or before 1 July 1999.
+(1)       The amendments made to the _Child Support (Assessment) Act 1989_ by items 4 and 34 of Schedule 16 to the Act do not apply to an administrative assessment for a child support period commencing on or before 1 July 1999.
 
 _Note 1_        Item 4 of Schedule 16 to the Act repealed and substituted the definition of **_last relevant year of income_** in section 5 of the _Child Support (Assessment) Act 1989_.
 
 _Note 2_        Item 34 of that Schedule repealed section 55 of the _Child Support (Assessment) Act 1989_.
 
-             (2)  For a child support period commencing on or before 1 July 1999, section 55 of the _Child Support (Assessment) Act 1989_ continues to apply as modified below:
+(2)       For a child support period commencing on or before 1 July 1999, section 55 of the _Child Support (Assessment) Act 1989_ continues to apply as modified below:
 
-                            In working out a person’s child support income amount in relation to a child support period commencing on or before 1 July 1999, the person’s taxable income under the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_ for the 1997‑98 year of income is to be multiplied by 1.04.
+            In working out a person’s child support income amount in relation to a child support period commencing on or before 1 July 1999, the person’s taxable income under the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_ for the 1997‑98 year of income is to be multiplied by 1.04.
 
  
