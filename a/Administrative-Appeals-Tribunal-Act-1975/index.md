@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00721/Html/AdminAppealsTribunal75_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00390/Html/AdminAppealsTribunal75_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 10 June 2010
  taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
@@ -779,7 +779,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (b)  in any other case—he or she shall cause the interest of the member to be disclosed to the parties to the proceeding.
 
-##### <a id="15"></a>15  Resignation
+##### <a id="15"></a>15  Resignation
 
              (1)  A member may resign his or her appointment by giving the Governor-General a written resignation.
 
@@ -3343,8 +3343,6 @@ the court shall permit the part of the document in which the matter is contained
 
                      (c)  the President of the Australian Law Reform Commission established by the _Australian Law Reform Commission Act 1996_; and
 
-                    (ca)  the Australian Information Commissioner holding office under the _Australian Information Commissioner Act 2010_; and
-
                      (d)  not fewer than 3 other members or more than:
 
                               (i)  unless subparagraph (ii) applies, 10 other members; or
@@ -3355,7 +3353,7 @@ the court shall permit the part of the document in which the matter is contained
 
           (2A)  The Governor-General shall appoint one of the members to be the President of the Council.
 
-             (3)  The performance of the functions or the exercise of the powers of the Council is not affected by a vacancy in the office of a member referred to in paragraph (1)(a), (b), (c) or (ca) or by reason of the number of appointed members falling below 3 for not more than 3 months.
+             (3)  The performance of the functions or the exercise of the powers of the Council is not affected by a vacancy in the office of a member referred to in paragraph (1)(a), (b) or (c) or by reason of the number of appointed members falling below 3 for not more than 3 months.
 
 ##### <a id="50"></a>50  Qualifications for appointment
 
@@ -5153,7 +5151,8 @@ Remainder: Royal Assent</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 41A, 41B) and Schedule 7: <i>(zf)</i></div>
+    <div>Schedule 6 (items 41A, 41B): \[ <i>see (zf)</i>and Note 2] 
+Schedule 7: <i>(zf)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
@@ -5392,7 +5391,8 @@ _(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refo
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -8023,7 +8023,7 @@ s. 44AA(7)–(10)</div>
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 143, 1979; No. 65, 1985; No. 38, 1988; No. 38, 1996; No. 125, 1999; No. 51, 2010</div>
+    <div>am. No. 58, 1977; No. 143, 1979; No. 65, 1985; No. 38, 1988; No. 38, 1996; No. 125, 1999</div>
   </td>
 </tr>
 <tr>
@@ -8538,6 +8538,26 @@ s. 44AA(7)–(10)</div>
     <div></div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 6
+
+## 41A  After paragraph 49(1)(c)
+
+Insert:
+
+                    (ca)  the Australian Information Commissioner holding office under the _Australian Information Commissioner Act 2010_; and
+
+## 41B  Subsection 49(3)
+
+Omit “or (c)”, substitute “, (c) or (ca)”.
+
+As at 10 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
