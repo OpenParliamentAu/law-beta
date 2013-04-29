@@ -1,1132 +1,792 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02962/Html/CwlthServDelAgency97_image001.gif)
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997 
-**
+# Commonwealth Services Delivery Agency Act 1997
 
+**Act No. 31 of 1997 as amended**
 
-**
+This compilation was prepared on 7 May 2003
+ taking into account amendments up to Act No. 30 of 2003
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part 1—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]
 
+[2](#2).            Commencement
 
+[2A](#2A).         Application of the _Criminal Code_
 
-**
+[3](#3).            Definitions
 
-###  Long Title 
-**
-**
+[4](#4).            Act binds the Crown
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<part>Part&#160;1&#151;Preliminary </part>
-**
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+[5](#5).            External Territories
 
-		This Act may be cited as the _Commonwealth Services Delivery Agency Act 1997_.
+**Part 2—Establishment, functions and powers of the Agency**
 
- </dl>
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 2  Commencement 
-<dl compact="">
+[6](#6).            Establishment of Agency
 
-		This Act commences on 1&#160;July 1997.
+[7](#7).            Service arrangements
 
- </dl>
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 2A  Application of the _Criminal Code_ 
-<dl compact="">
+[8](#8).            The Agency’s functions
 
-		Chapter&#160;2 of the _Criminal Code_ applies to all offences against
+[9](#9).            Ministerial directions about the performance of the Agency’s functions
 
-this Act.
+[10](#10).          Minister must consult the Board before giving directions
 
- </dl>
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 3  Definitions 
-<dl compact="">
+**Part 3—The Board of Management of the Agency** 
 
-		In this Act, unless the contrary intention appears:
+    **Division 1—Establishment, functions, powers and duties**
 
- </dl>
-<dl compact=""><dl compact="">
+[11](#11).          Establishment
 
-_Agency_ means the body called the Commonwealth Services Delivery
+[12](#12).          The Board’s functions and powers
 
-Agency established by this Act. _appointed member_ means a member of the Board appointed by the Minister under section&#160;16, except a member who is the principal officer of a Commonwealth authority. _benefit_ includes:  </dl></dl>
+[13](#13).          Ministerial directions to the Board
 
-	(a)	a pension, allowance, concession or payment; and
- 	(b)	a card entitling its holder to a concession or a payment of any kind.
+[14](#14).          Notification of policies
 
-<def><dl compact=""><dl compact="">
+[15](#15).          Minister may ask for information
 
-_Board_ means the Board of Management of the Agency. _Chairman_ means the Chairman of the Board. _Commonwealth authority_ means:  </dl></dl>
+[16](#16).          Membership of the Board
 
-	(a)	a Department of State; or
- 	(b)	a body, other than the Agency, established for a public purpose by or under a law of the Commonwealth.
+[17](#17).          Acting Chairman
 
-<def><dl compact=""><dl compact="">
+[18](#18).          Delegation by the Board
 
-_Commonwealth service_ means a service, benefit, program or
+[19](#19).          Delegation by the Chairman
 
-facility for some or all members of the public that is provided for by the
+    **Division 2—Meetings**
 
-Commonwealth, whether under an enactment or otherwise. _employee_ means a member of the Agency's staff referred to in subsection 35(1). _enactment_ means:  </dl></dl>
+[20](#20).          Meetings
 
-<center>Back to Top</center>
+[21](#21).          Disclosure of interests
 
-	(a)	an Act; or
- 	(b)	an instrument (including rules, regulations and by-laws) made under an Act.
+[22](#22).          Procedure at meetings
 
-<def><dl compact=""><dl compact="">
+    **Division 3—Administrative provisions**
 
-_member_ means a member of the Board, and includes the Chairman. _principal officer_ means:  </dl></dl>
+[23](#23).          Period of appointment of certain members
 
-	(a)	for a Department of State&#151;the person who is the Secretary of the Department for the purposes of the _Public Service Act 1999_; or
- 	(b)	for any other Commonwealth authority&#151;the person identified by the regulations as the principal officer of the authority.
+[24](#24).          Remuneration and allowances of certain appointed members
 
-<def><dl compact=""><dl compact="">
+[25](#25).          Outside employment
 
-_service arrangements_ means arrangements entered into under
+[26](#26).          Resignation
 
-section&#160;7.
+[27](#27).          Terms and conditions not provided for by Act
 
- </dl></dl>
+[28](#28).          Termination of appointment
 
-**
+**Part 4—The Chief Executive Officer and employees** 
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 4  Act binds the Crown 
-**
+    **Division 1—The Chief Executive Officer**
 
- <dl compact=""><dl compact="">
+[29](#29).          Appointment
 
-<dt>(1)</dt><dd>This Act binds the Crown in each of its capacities.</dd> <dt>(2)</dt><dd>This Act does not make the Crown liable to be prosecuted for an offence. </dd> </dl></dl>
+[30](#30).          Terms and conditions and termination of appointment
 
-**
+[31](#31).          Acting Chief Executive Officer
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 5  External Territories 
-**
+[32](#32).          Duties
 
- <dl compact=""><dl compact="">
+[33](#33).          Delegation by Chief Executive Officer
 
-		This Act extends to the Territory of Cocos (Keeling) Islands and to the
+[34](#34).          Resignation
 
-Territory of Christmas Island.
+    **Division 2—Staff and consultants**
 
- </dl></dl>
+[35](#35).          Staff
 
-<center>**
+[36](#36).          Services of certain officers etc  to be made available to Agency
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<part>Part&#160;2&#151;Establishment, functions and powers of the Agency </part>
-**</center>
+[37](#37).          Consultants
 
-**
+**Part 5—Miscellaneous**
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 6  Establishment of Agency 
-**
+[38](#38).          Use of protected names and symbols
 
- <dl compact=""><dl compact="">
+[39](#39).          Application of the _Audit Act 1901_
 
-<dt>(1)</dt><dd>A body called the Commonwealth Services Delivery Agency is established by
+[40](#40).          Annual report
 
-this subsection.</dd> <dt>(2)</dt><dd>The Agency comprises: </dd> </dl></dl>
+[41](#41).          Regulations
 
-	(a)	the Board; and
- 	(b)	the Chief Executive Officer; and
- 	(c)	the employees. 
+**Notes** 
 
-**
+## An Act to establish an agency for the provision of certain Commonwealth services, and for related purposes
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 7  Service arrangements 
-**
+## Part 1—Preliminary
 
- <dl compact=""><dl compact="">
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-<dt>(1)</dt><dd>The Chief Executive Officer may enter into arrangements with the principal
+                   This Act may be cited as the _Commonwealth Services Delivery Agency Act 1997_.
 
-officer of a Commonwealth authority for the provision of the Commonwealth
+##### <a id="2"></a>2  Commencement
 
-services specified in the arrangements, subject to the conditions specified in
+                   This Act commences on 1 July 1997.
 
-the arrangements.</dd> <dt>(2)</dt><dd>Arrangements for the provision of Commonwealth services may include arrangements for doing anything incidental, conducive or related to the provision of the services, including, for example: </dd> </dl></dl>
+##### <a id="2A"></a>2A  Application of the _Criminal Code_
 
-	(a)	making the Chief Executive Officer or specified employees, or employees in specified classes of employees, available to exercise powers or perform functions delegated to them under specified enactments; and
- 	(b)	determining a person's eligibility for, or entitlement to receive or have access to, the services. 
+                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
-**
+##### <a id="3"></a>3  Definitions
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 8  The Agency's functions 
-**
+                   In this Act, unless the contrary intention appears:
 
- <dl compact=""><dl compact="">
+                    <a name="agenc"></a>**_Agency_** means the body called the Commonwealth Services Delivery Agency established by this Act.
 
-<dt>(1)</dt><dd>The Agency has the following functions:
+                    <a name="appointed-member"></a>**_appointed member_** means a member of the Board appointed by the Minister under section 16, except a member who is the principal officer of a Commonwealth authority.
 
-</dd> </dl></dl>
+                    <a name="benefit"></a>**_benefit_** includes:
 
-	(a)	the provision of Commonwealth services in accordance with service arrangements, and doing anything included in the arrangements that is incidental, conducive or related to the provision of the services;
- 	(b)	any functions conferred on the Agency under any other Act;
- 	(c)	any functions that the Minister, by written notice given to the Chairman, directs the Agency to perform;
- 	(d)	doing anything incidental, conducive or related to the performance of any 
-<center>Back to Top</center>
- of its other functions.
+                     (a)  a pension, allowance, concession or payment; and
 
-<dl compact=""><dl compact="">
+                     (b)  a card entitling its holder to a concession or a payment of any kind.
 
-<dt>(2)</dt><dd>A direction under paragraph&#160;(1)(c) is a disallowable instrument for
+                    <a name="board"></a>**_Board_** means the Board of Management of the Agency.
 
-the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+                    <a name="chairman"></a>**_Chairman_** means the Chairman of the Board.
 
-</dd> </dl></dl>
+                    <a name="commonwealth-author"></a>**_Commonwealth authority_** means:
 
-**
+                     (a)  a Department of State; or
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 9  Ministerial directions about the performance of the Agency's functions 
-**
+                     (b)  a body, other than the Agency, established for a public purpose by or under a law of the Commonwealth.
 
-<dl compact=""><dl compact="">
+                    <a name="commonwealth-servic"></a>**_Commonwealth service_** means a service, benefit, program or facility for some or all members of the public that is provided for by the Commonwealth, whether under an enactment or otherwise.
 
-<dt>(1)</dt><dd>The Minister may, by written notice given to the Chairman, give directions
+                    <a name="employe"></a>**_employee_** means a member of the Agency’s staff referred to in subsection 35(1).
 
-to the Board about the performance of the Agency's functions.</dd> <dt>(2)</dt><dd>Particulars of any directions given by the Minister under this section in a financial year must be included in the annual report for the Agency for that year.</dd> <dt>(3)</dt><dd>The Board must ensure that a direction given under this section is complied with. </dd> </dl></dl>
+                    <a name="enact"></a>**_enactment_** means:
 
-**
+                     (a)  an Act; or
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 10  Minister must consult the Board before giving directions 
-**
+                     (b)  an instrument (including rules, regulations and by-laws) made under an Act.
 
- <dl compact=""><dl compact="">
+                    <a name="member"></a>**_member_** means a member of the Board, and includes the Chairman.
 
-<dt>(1)</dt><dd>The Minister must, before giving a direction under paragraph 8(1)(c) or
+                    <a name="princip-offic"></a>**_principal officer_** means:
 
-section&#160;9, by written notice given to the Chairman, ask the Board for its
+                     (a)  for a Department of State—the person who is the Secretary of the Department for the purposes of the _Public Service Act 1999_; or
 
-written advice or comments on the impact of the proposed direction on the
+                     (b)  for any other Commonwealth authority—the person identified by the regulations as the principal officer of the authority.
 
-Agency's operations.</dd> <dt>(2)</dt><dd>The Minister must, in giving a direction, have regard to any advice or comments given under this section in relation to the direction.</dd> <dt>(3)</dt><dd>If the Minister gives a direction, particulars of any advice or comments given under this section in relation to the direction must be included in the annual report for the Agency for the financial year in which the direction was given. </dd> </dl></dl>
+                    <a name="servic-arrang"></a>**_service arrangements_** means arrangements entered into under section 7.
 
-<center>**
+##### <a id="4"></a>4  Act binds the Crown
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<part>Part&#160;3&#151;The Board of Management of the Agency </part>
-**</center>
+             (1)  This Act binds the Crown in each of its capacities.
 
-<center>**
+             (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<division>Division&#160;1&#151;Establishment, functions, powers and duties </division> 
-**</center>
+##### <a id="5"></a>5  External Territories
 
-**
+                   This Act extends to the Territory of Cocos (Keeling) Islands and to the Territory of Christmas Island.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 11  Establishment 
-**
+## Part 2—Establishment, functions and powers of the Agency
 
- <dl compact=""><dl compact="">
+##### <a id="6"></a>6  Establishment of Agency
 
-		There is to be a Board of Management of the Agency.
+             (1)  A body called the Commonwealth Services Delivery Agency is established by this subsection.
 
- </dl></dl>
+             (2)  The Agency comprises:
 
-**
+                     (a)  the Board; and
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 12  The Board's functions and powers 
-**
+                     (b)  the Chief Executive Officer; and
 
- <dl compact=""><dl compact="">
+                     (c)  the employees.
 
-<dt>(1)</dt><dd>Subject to this Act and any other Act, the Board's functions are:
+##### <a id="7"></a>7  Service arrangements
 
-</dd> </dl></dl>
+             (1)  The Chief Executive Officer may enter into arrangements with the principal officer of a Commonwealth authority for the provision of the Commonwealth services specified in the arrangements, subject to the conditions specified in the arrangements.
 
-	(a)	to decide the Agency's goals, priorities, policies and strategies; and
- 	(b)	to ensure that the Agency's functions are properly, efficiently and effectively performed.
+             (2)  Arrangements for the provision of Commonwealth services may include arrangements for doing anything incidental, conducive or related to the provision of the services, including, for example:
 
-<dl compact=""><dl compact="">
+                     (a)  making the Chief Executive Officer or specified employees, or employees in specified classes of employees, available to exercise powers or perform functions delegated to them under specified enactments; and
 
-<dt>(2)</dt><dd>The Board has power to do all things necessary or convenient to be done
+                     (b)  determining a person’s eligibility for, or entitlement to receive or have access to, the services.
 
-for or in connection with the performance of its functions.
+##### <a id="8"></a>8  The Agency’s functions
 
-</dd> </dl></dl>
+             (1)  The Agency has the following functions:
 
-**
+                     (a)  the provision of Commonwealth services in accordance with service arrangements, and doing anything included in the arrangements that is incidental, conducive or related to the provision of the services;
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 13  Ministerial directions to the Board 
-**
+                     (b)  any functions conferred on the Agency under any other Act;
 
- <dl compact=""><dl compact="">
+                     (c)  any functions that the Minister, by written notice given to the Chairman, directs the Agency to perform;
 
-<dt>(1)</dt><dd>The Minister may, by written notice given to the Chairman, give directions
+                     (d)  doing anything incidental, conducive or related to the performance of any of its other functions.
 
-to the Board about the performance of its functions, the exercise of its powers
+             (2)  A direction under paragraph (1)(c) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-or the conduct of its meetings, or in relation to the terms and conditions of
+##### <a id="9"></a>9  Ministerial directions about the performance of the Agency’s functions
 
-appointment of the Chief Executive Officer.</dd> <dt>(2)</dt><dd>Particulars of any directions given by the Minister under this section in a financial year must be included in the annual report for the Agency for that year.</dd> <dt>(3)</dt><dd>The Board must comply with a direction given under this section. </dd> </dl></dl>
+             (1)  The Minister may, by written notice given to the Chairman, give directions to the Board about the performance of the Agency’s functions.
 
-**
+             (2)  Particulars of any directions given by the Minister under this section in a financial year must be included in the annual report for the Agency for that year.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 14  Notification of policies 
-**
+             (3)  The Board must ensure that a direction given under this section is complied with.
 
- <dl compact=""><dl compact="">
+##### <a id="10"></a>10  Minister must consult the Board before giving directions
 
-<dt>(1)</dt><dd>The Minister may, by written notice given to the Chairman, notify the
+             (1)  The Minister must, before giving a direction under paragraph 8(1)(c) or section 9, by written notice given to the Chairman, ask the Board for its written advice or comments on the impact of the proposed direction on the Agency’s operations.
 
-Board of general policies of the Commonwealth Government that are to apply in
+             (2)  The Minister must, in giving a direction, have regard to any advice or comments given under this section in relation to the direction.
 
-relation to the Agency, the Board or the employees.</dd> <dt>(2)</dt><dd>Particulars of any notifications given by the Minister under this section in a financial year must be included in the annual report for the Agency for that year.</dd> <dt>(3)</dt><dd>The Board must ensure that the policies are carried out. </dd> </dl></dl>
+             (3)  If the Minister gives a direction, particulars of any advice or comments given under this section in relation to the direction must be included in the annual report for the Agency for the financial year in which the direction was given.
 
-<center>Back to Top</center>
+## Part 3—The Board of Management of the Agency
 
-**
+### Division 1—Establishment, functions, powers and duties
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 15  Minister may ask for information 
-**
+##### <a id="11"></a>11  Establishment
 
- <dl compact=""><dl compact="">
+                   There is to be a Board of Management of the Agency.
 
-<dt>(1)</dt><dd>The Minister may ask the Board for information about the operation of the
+##### <a id="12"></a>12  The Board’s functions and powers
 
-Agency.</dd> <dt>(2)</dt><dd>The Board must, within a reasonable time, give the Minister the requested information.</dd> <dt>(3)</dt><dd>The Board must ensure that any information given to the Minister under this section is accurate. </dd> </dl></dl>
+             (1)  Subject to this Act and any other Act, the Board’s functions are:
 
-**
+                     (a)  to decide the Agency’s goals, priorities, policies and strategies; and
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 16  Membership of the Board 
-**
+                     (b)  to ensure that the Agency’s functions are properly, efficiently and effectively performed.
 
- <dl compact=""><dl compact="">
+             (2)  The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-<dt>(1)</dt><dd>The Board consists of:
+##### <a id="13"></a>13  Ministerial directions to the Board
 
-</dd> </dl></dl>
+             (1)  The Minister may, by written notice given to the Chairman, give directions to the Board about the performance of its functions, the exercise of its powers or the conduct of its meetings, or in relation to the terms and conditions of appointment of the Chief Executive Officer.
 
-	(a)	a Chairman; and
- 	(b)	the Chief Executive Officer; and
- 	(c)	at least 4 other members.
+             (2)  Particulars of any directions given by the Minister under this section in a financial year must be included in the annual report for the Agency for that year.
 
-<dl compact=""><dl compact="">
+             (3)  The Board must comply with a direction given under this section.
 
-<dt>(2)</dt><dd>At least 2 of the members mentioned in paragraph&#160;(1)(c) must be
+##### <a id="14"></a>14  Notification of policies
 
-persons who are not principal officers of Commonwealth authorities.</dd> <dt>(3)</dt><dd>The members, except the Chief Executive Officer, are to be appointed by the Minister.</dd> <dt>(4)</dt><dd>The appointments are to be made on a part-time basis. </dd> </dl></dl>
+             (1)  The Minister may, by written notice given to the Chairman, notify the Board of general policies of the Commonwealth Government that are to apply in relation to the Agency, the Board or the employees.
 
-**
+             (2)  Particulars of any notifications given by the Minister under this section in a financial year must be included in the annual report for the Agency for that year.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 17  Acting Chairman 
-**
+             (3)  The Board must ensure that the policies are carried out.
 
- <dl compact=""><dl compact="">
+##### <a id="15"></a>15  Minister may ask for information
 
-<dt>(1)</dt><dd>The Minister may appoint a member, other than the Chief Executive Officer,
+             (1)  The Minister may ask the Board for information about the operation of the Agency.
 
-to act as the Chairman:
+             (2)  The Board must, within a reasonable time, give the Minister the requested information.
 
-</dd> </dl></dl>
+             (3)  The Board must ensure that any information given to the Minister under this section is accurate.
 
-	(a)	during a vacancy in the office of Chairman, whether or not an appointment has previously been made to the office; or
- 	(b)	during any period, or during all periods, when the Chairman is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office.
+##### <a id="16"></a>16  Membership of the Board
 
-<dl compact=""><dl compact="">
+             (1)  The Board consists of:
 
-<dt>(2)</dt><dd>Anything done by a person purporting to act under an appointment under
+                     (a)  a Chairman; and
 
-this section is not invalid merely because:
+                     (b)  the Chief Executive Officer; and
 
-</dd> </dl></dl>
+                     (c)  at least 4 other members.
 
-	(a)	the occasion for the appointment had not arisen; or
- 	(b)	there was a defect or irregularity in or in connection with the appointment; or
- 	(c)	the appointment had stopped having effect; or
- 	(d)	the occasion for the person to act had not arisen or had stopped. 
+             (2)  At least 2 of the members mentioned in paragraph (1)(c) must be persons who are not principal officers of Commonwealth authorities.
 
-**
+             (3)  The members, except the Chief Executive Officer, are to be appointed by the Minister.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 18  Delegation by the Board 
-**
+             (4)  The appointments are to be made on a part-time basis.
 
- <dl compact=""><dl compact="">
+##### <a id="17"></a>17  Acting Chairman
 
-<dt>(1)</dt><dd>The Board may, by resolution, delegate all or any of its functions or
+             (1)  The Minister may appoint a member, other than the Chief Executive Officer, to act as the Chairman:
 
-powers to a member or to an employee.</dd> <dt>(2)</dt><dd>The delegate must, in exercising a delegated power, comply with any directions of the Board.</dd> <dt>(3)</dt><dd>A delegation under this section: </dd> </dl></dl>
+                     (a)  during a vacancy in the office of Chairman, whether or not an appointment has previously been made to the office; or
 
-	(a)	may be revoked by resolution of the Board (whether or not constituted by the people who constituted it when the power was delegated); and
- 	(b)	continues in force in spite of a change in the membership of the Board. 
+                     (b)  during any period, or during all periods, when the Chairman is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office.
 
-**
+             (2)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 19  Delegation by the Chairman 
-**
+                     (a)  the occasion for the appointment had not arisen; or
 
- <dl compact=""><dl compact="">
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
 
-		The Chairman may, in writing, delegate to the Chief Executive Officer or an
+                     (c)  the appointment had stopped having effect; or
 
-employee all or any of the functions or powers of the Chairman.
+                     (d)  the occasion for the person to act had not arisen or had stopped.
 
- </dl></dl>
+##### <a id="18"></a>18  Delegation by the Board
 
-<center>**
+             (1)  The Board may, by resolution, delegate all or any of its functions or powers to a member or to an employee.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<division>Division&#160;2&#151;Meetings </division> 
-**</center>
+             (2)  The delegate must, in exercising a delegated power, comply with any directions of the Board.
 
-**
+             (3)  A delegation under this section:
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 20  Meetings 
-**
+                     (a)  may be revoked by resolution of the Board (whether or not constituted by the people who constituted it when the power was delegated); and
 
- <dl compact=""><dl compact="">
+                     (b)  continues in force in spite of a change in the membership of the Board.
 
-<dt>(1)</dt><dd>The Board must hold such meetings as are necessary for the efficient
+##### <a id="19"></a>19  Delegation by the Chairman
 
-performance of its functions.</dd> <dt>(2)</dt><dd>The Chairman: </dd> </dl></dl>
+                   The Chairman may, in writing, delegate to the Chief Executive Officer or an employee all or any of the functions or powers of the Chairman.
 
-<center>Back to Top</center>
+### Division 2—Meetings
 
-	(a)	may convene a meeting at any time; and
- 	(b)	must convene a meeting on receipt of a written request signed by at least 2 other members.
+##### <a id="20"></a>20  Meetings
 
-<dl compact=""><dl compact="">
+             (1)  The Board must hold such meetings as are necessary for the efficient performance of its functions.
 
-<dt>(3)</dt><dd>The Minister may convene a meeting at any time.</dd> <dt>(4)</dt><dd>The Chairman must, if present at a meeting, preside at it.</dd> <dt>(5)</dt><dd>If the Chairman is not present at a meeting, the members present at the meeting must elect one of them to preside.</dd> <dt>(6)</dt><dd>A member is not entitled to vote at a meeting if the member: </dd> </dl></dl>
+             (2)  The Chairman:
 
-	(a)	is the principal officer of a Commonwealth authority; and
- 	(b)	has entered into service arrangements that are in force.
+                     (a)  may convene a meeting at any time; and
 
-<dl compact=""><dl compact="">
+                     (b)  must convene a meeting on receipt of a written request signed by at least 2 other members.
 
-<dt>(7)</dt><dd>At a meeting, a quorum consists of a majority of the members who are
+             (3)  The Minister may convene a meeting at any time.
 
-entitled to vote.</dd> <dt>(8)</dt><dd>Questions arising at a meeting are to be determined by a majority of the votes of the members present and voting. </dd> </dl></dl>
+             (4)  The Chairman must, if present at a meeting, preside at it.
 
-**
+             (5)  If the Chairman is not present at a meeting, the members present at the meeting must elect one of them to preside.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 21  Disclosure of interests 
-**
+             (6)  A member is not entitled to vote at a meeting if the member:
 
- <dl compact=""><dl compact="">
+                     (a)  is the principal officer of a Commonwealth authority; and
 
-<dt>(1)</dt><dd>A member who has a direct or indirect pecuniary interest in a matter that
+                     (b)  has entered into service arrangements that are in force.
 
-is being considered, or is about to be considered, by the Board must disclose
+             (7)  At a meeting, a quorum consists of a majority of the members who are entitled to vote.
 
-the nature of the interest at a meeting of the Board.</dd> <dt>(2)</dt><dd>The disclosure must be made as soon as possible after the relevant facts have come to the member's knowledge, and must be recorded in the minutes of the meeting.</dd> <dt>(3)</dt><dd>Unless the Board or the Minister otherwise determines, the member: </dd> </dl></dl>
+             (8)  Questions arising at a meeting are to be determined by a majority of the votes of the members present and voting.
 
-	(a)	must not be present during any deliberation by the Board on the matter; and
- 	(b)	must not take part in any decision of the Board on the matter.
+##### <a id="21"></a>21  Disclosure of interests
 
-<dl compact=""><dl compact="">
+             (1)  A member who has a direct or indirect pecuniary interest in a matter that is being considered, or is about to be considered, by the Board must disclose the nature of the interest at a meeting of the Board.
 
-<dt>(4)</dt><dd>For the purposes of any determination being made under
+             (2)  The disclosure must be made as soon as possible after the relevant facts have come to the member’s knowledge, and must be recorded in the minutes of the meeting.
 
-subsection&#160;(3), a member who has a direct or indirect pecuniary interest
+             (3)  Unless the Board or the Minister otherwise determines, the member:
 
-in the matter to which the disclosure relates:
+                     (a)  must not be present during any deliberation by the Board on the matter; and
 
-</dd> </dl></dl>
+                     (b)  must not take part in any decision of the Board on the matter.
 
-	(a)	must not be present during any deliberation by the Board on whether to make the determination; and
- 	(b)	must not take part in making the determination. 
+             (4)  For the purposes of any determination being made under subsection (3), a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates:
 
-**
+                     (a)  must not be present during any deliberation by the Board on whether to make the determination; and
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 22  Procedure at meetings 
-**
+                     (b)  must not take part in making the determination.
 
- <dl compact=""><dl compact="">
+##### <a id="22"></a>22  Procedure at meetings
 
-		Subject to this Part, the Board may regulate proceedings at its meetings as
+                   Subject to this Part, the Board may regulate proceedings at its meetings as it thinks appropriate.
 
-it thinks appropriate.
+### Division 3—Administrative provisions
 
- </dl></dl>
+##### <a id="23"></a>23  Period of appointment of certain members
 
-<center>**
+             (1)  Subject to this Division, an appointed member holds office for the period (not longer than 3 years) specified in the instrument of appointment, but is eligible for re-appointment.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<division>Division&#160;3&#151;Administrative provisions </division> 
-**</center>
+             (2)  A member who is the principal officer of a Commonwealth authority holds office during the Minister’s pleasure.
 
-**
+##### <a id="24"></a>24  Remuneration and allowances of certain appointed members
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 23  Period of appointment of certain members 
-**
+             (1)  An appointed member is to be paid the remuneration determined by the Remuneration Tribunal. However, if no such determination is in operation, an appointed member is to be paid the remuneration prescribed by the regulations.
 
- <dl compact=""><dl compact="">
+             (2)  An appointed member is to be paid the allowances prescribed by the regulations.
 
-<dt>(1)</dt><dd>Subject to this Division, an appointed member holds office for the period
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-(not longer than 3 years) specified in the instrument of appointment, but is
+##### <a id="25"></a>25  Outside employment
 
-eligible for re-appointment.</dd> <dt>(2)</dt><dd>A member who is the principal officer of a Commonwealth authority holds office during the Minister's pleasure. </dd> </dl></dl>
+                   An appointed member must not engage in any paid employment that, in the Minister’s opinion, conflicts with the proper performance of the member’s duties.
 
-**
+##### <a id="26"></a>26  Resignation
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 24  Remuneration and allowances of certain appointed members 
-**
+                   An appointed member may resign from the Board by giving the Minister a written resignation.
 
- <dl compact=""><dl compact="">
+##### <a id="27"></a>27  Terms and conditions not provided for by Act
 
-<dt>(1)</dt><dd>An appointed member is to be paid the remuneration determined by the
+                   An appointed member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as the Minister determines in writing.
 
-Remuneration Tribunal. However, if no such determination is in operation, an
+##### <a id="28"></a>28  Termination of appointment
 
-appointed member is to be paid the remuneration prescribed by the
+             (1)  The Minister may terminate the appointment of an appointed member for misbehaviour or physical or mental incapacity.
 
-regulations.</dd> <dt>(2)</dt><dd>An appointed member is to be paid the allowances prescribed by the regulations.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl></dl>
+             (2)  If an appointed member:
 
-<center>Back to Top</center>
+                     (a)  becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors, or makes an assignment of his or her remuneration for their benefit; or
 
-**
+                     (b)  without reasonable excuse, contravenes section 21; or
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 25  Outside employment 
-**
+                     (c)  is absent, without reasonable excuse, from 3 consecutive meetings of the Board; or 
 
- <dl compact=""><dl compact="">
+                     (d)  has, in the Minister’s opinion, performed his or her functions as a member unsatisfactorily for a significant period;
 
-		An appointed member must not engage in any paid employment that, in the
+the Minister must terminate the member’s appointment.
 
-Minister's opinion, conflicts with the proper performance of the member's duties.
+             (3)  If a member who is the principal officer of a Commonwealth authority stops being the principal officer of the authority, he or she stops being a member.
 
- </dl></dl>
+## Part 4—The Chief Executive Officer and employees
 
-**
+### Division 1—The Chief Executive Officer
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 26  Resignation 
-**
+##### <a id="29"></a>29  Appointment
 
- <dl compact=""><dl compact="">
+             (1)  There is to be a Chief Executive Officer of the Agency.
 
-		An appointed member may resign from the Board by giving the Minister a
+             (2)  The Chief Executive Officer is to be appointed by the Board in writing after consultation between the Chairman and the Minister.
 
-written resignation.
+             (3)  The Chief Executive Officer is to be appointed on a full-time basis.
 
- </dl></dl>
+##### <a id="30"></a>30  Terms and conditions and termination of appointment
 
-**
+             (1)  The Chief Executive Officer holds office on terms and conditions, including remuneration and allowances, determined by the Board in writing.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 27  Terms and conditions not provided for by Act 
-**
+             (2)  The Board must not make a determination under subsection (1) before it has obtained advice from the Remuneration Tribunal in relation to the terms and conditions, including remuneration and allowances, on which the Chief Executive Officer is to hold office.
 
- <dl compact=""><dl compact="">
+             (3)  Particulars of any advice obtained from the Remuneration Tribunal under this section in a financial year must be included in the annual report for the Agency for that year.
 
-		An appointed member holds office on such terms and conditions (if any) in
+             (4)  The Chief Executive Officer:
 
-relation to matters not provided for by this Act as the Minister determines in
+                     (a)  must not be present during any deliberation by the Board on the remuneration and allowances payable to the Chief Executive Officer; and
 
-writing.
+                     (b)  must not take part in any decision of the Board on the matter.
 
- </dl></dl>
+             (5)  The Board may at any time terminate the appointment of the Chief Executive Officer.
 
-**
+##### <a id="31"></a>31  Acting Chief Executive Officer
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 28  Termination of appointment 
-**
+             (1)  The Board may appoint a person to act as the Chief Executive Officer:
 
- <dl compact=""><dl compact="">
+                     (a)  during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to the office; or
 
-<dt>(1)</dt><dd>The Minister may terminate the appointment of an appointed member for
+                     (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office.
 
-misbehaviour or physical or mental incapacity.</dd> <dt>(2)</dt><dd>If an appointed member: </dd> </dl></dl>
+             (2)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
 
-	(a)	becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors, or makes an assignment of his or her remuneration for their benefit; or
- 	(b)	without reasonable excuse, contravenes section&#160;21; or
- 	(c)	is absent, without reasonable excuse, from 3 consecutive meetings of the Board; or 
- 	(d)	has, in the Minister's opinion, performed his or her functions as a member unsatisfactorily for a significant period;
+                     (a)  the occasion for the appointment had not arisen; or
 
-the Minister must terminate the member's appointment.
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
 
-<dl compact=""><dl compact="">
+                     (c)  the appointment had stopped having effect; or
 
-<dt>(3)</dt><dd>If a member who is the principal officer of a Commonwealth authority stops
+                     (d)  the occasion for the person to act had not arisen or had stopped.
 
-being the principal officer of the authority, he or she stops being a member.
+##### <a id="32"></a>32  Duties
 
-</dd> </dl></dl>
+                   Subject to this Act and any other Act, the Chief Executive Officer is, under the Board, responsible for the day-to-day administration of the Agency and the control of its operations.
 
-<center>**
+##### <a id="33"></a>33  Delegation by Chief Executive Officer
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<part>Part&#160;4&#151;The Chief Executive Officer and employees </part>
-**</center>
+                   The Chief Executive Officer may, in writing, delegate to an employee all or any of the functions or powers of the Chief Executive Officer (including functions or powers delegated to the Chief Executive Officer in accordance with service arrangements).
 
-<center>**
+##### <a id="34"></a>34  Resignation
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<division>Division&#160;1&#151;The Chief Executive Officer </division> 
-**</center>
+                   The Chief Executive Officer may resign by giving the Chairman a written resignation.
 
-**
+### Division 2—Staff and consultants
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 29  Appointment 
-**
+##### <a id="35"></a>35  Staff
 
- <dl compact=""><dl compact="">
+             (1)  Subject to this Division, the Agency’s staff are to be persons engaged under the _Public Service Act 1999_.
 
-<dt>(1)</dt><dd>There is to be a Chief Executive Officer of the Agency.</dd> <dt>(2)</dt><dd>The Chief Executive Officer is to be appointed by the Board in writing after consultation between the Chairman and the Minister.</dd> <dt>(3)</dt><dd>The Chief Executive Officer is to be appointed on a full-time basis. </dd> </dl></dl>
+             (2)  For the purposes of the _Public Service Act 1999_:
 
-**
+                     (a)  the Chief Executive Officer and the APS employees assisting the Chief Executive Officer together constitute a Statutory Agency; and
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 30  Terms and conditions and termination of appointment 
-**
+                     (b)  the Chief Executive Officer is the Head of that Statutory Agency.
 
- <dl compact=""><dl compact="">
+##### <a id="36"></a>36  Services of certain officers etc. to be made available to Agency
 
-<dt>(1)</dt><dd>The Chief Executive Officer holds office on terms and conditions,
+                   The Chief Executive Officer may arrange with the principal officer of a Commonwealth authority for the services of officers or employees of the authority to be made available to the Agency.
 
-including remuneration and allowances, determined by the Board in writing.</dd> <dt>(2)</dt><dd>The Board must not make a determination under subsection&#160;(1) before it has obtained advice from the Remuneration Tribunal in relation to the terms and conditions, including remuneration and allowances, on which the Chief Executive Officer is to hold office.</dd> <dt>(3)</dt><dd>Particulars of any advice obtained from the Remuneration Tribunal under this section in a financial year must be included in the annual report for the Agency for that year.</dd> <dt>(4)</dt><dd>The Chief Executive Officer: </dd> </dl></dl>
+##### <a id="37"></a>37  Consultants
 
-	(a)	must not be present during any deliberation by the Board on the remuneration and allowances payable to the Chief Executive Officer; and
- 	(b)	must not take part in any decision of the Board on the matter.
+             (1)  The Chief Executive Officer may engage as consultants persons having suitable qualifications and experience.
 
-<dl compact=""><dl compact="">
+             (2)  The terms and conditions of engagement are to be determined by the Chief Executive Officer.
 
-<dt>(5)</dt><dd>The Board may at any time terminate the appointment of the Chief Executive
+## Part 5—Miscellaneous
 
-Officer.
+##### <a id="38"></a>38  Use of protected names and symbols
 
-</dd> </dl></dl>
+             (1)  A person must not, without the Chairman’s written consent:
 
-<center>Back to Top</center>
+                     (a)  use in relation to a business, trade, profession or occupation; or
 
-**
+                     (b)  use as the name, or as part of the name, of any firm, body corporate, institution, premises, vehicle, ship, aircraft or other craft; or
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 31  Acting Chief Executive Officer 
-**
+                     (c)  apply, as a trade mark or otherwise, to goods imported, manufactured, produced, sold, offered for sale or let for hire; or
 
- <dl compact=""><dl compact="">
+                     (d)  use in relation to:
 
-<dt>(1)</dt><dd>The Board may appoint a person to act as the Chief Executive Officer:
+                              (i)  goods or services; or
 
-</dd> </dl></dl>
-
-	(a)	during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to the office; or
- 	(b)	during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office.
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>Anything done by a person purporting to act under an appointment under
-
-this section is not invalid merely because:
-
-</dd> </dl></dl>
-
-	(a)	the occasion for the appointment had not arisen; or
- 	(b)	there was a defect or irregularity in or in connection with the appointment; or
- 	(c)	the appointment had stopped having effect; or
- 	(d)	the occasion for the person to act had not arisen or had stopped. 
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 32  Duties 
-**
-
- <dl compact=""><dl compact="">
-
-		Subject to this Act and any other Act, the Chief Executive Officer is, under
-
-the Board, responsible for the day-to-day administration of the Agency and the
-
-control of its operations.
-
- </dl></dl>
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 33  Delegation by Chief Executive Officer 
-**
-
- <dl compact=""><dl compact="">
-
-		The Chief Executive Officer may, in writing, delegate to an employee all or
-
-any of the functions or powers of the Chief Executive Officer (including
-
-functions or powers delegated to the Chief Executive Officer in accordance with
-
-service arrangements).
-
- </dl></dl>
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 34  Resignation 
-**
-
- <dl compact=""><dl compact="">
-
-		The Chief Executive Officer may resign by giving the Chairman a written
-
-resignation.
-
- </dl></dl>
-
-<center>**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<division>Division&#160;2&#151;Staff and consultants </division> 
-**</center>
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 35  Staff 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Subject to this Division, the Agency's staff are to be persons engaged
-
-under the _Public Service Act 1999_.</dd> <dt>(2)</dt><dd>For the purposes of the _Public Service Act 1999_: </dd> </dl></dl>
-
-	(a)	the Chief Executive Officer and the APS employees assisting the Chief Executive Officer together constitute a Statutory Agency; and
- 	(b)	the Chief Executive Officer is the Head of that Statutory Agency. 
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 36  Services of certain officers etc. to be made available to Agency 
-**
-
-<dl compact=""><dl compact="">
-
-		The Chief Executive Officer may arrange with the principal officer of a
-
-Commonwealth authority for the services of officers or employees of the
-
-authority to be made available to the Agency.
-
- </dl></dl>
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 37  Consultants 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>The Chief Executive Officer may engage as consultants persons having
-
-suitable qualifications and experience.</dd> <dt>(2)</dt><dd>The terms and conditions of engagement are to be determined by the Chief Executive Officer. </dd> </dl></dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<part>Part&#160;5&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 38  Use of protected names and symbols 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>A person must not, without the Chairman's written consent:
-
-</dd> </dl></dl>
-
-	(a)	use in relation to a business, trade, profession or occupation; or
- 	(b)	use as the name, or as part of the name, of any firm, body corporate, institution, premises, vehicle, ship, aircraft or other craft; or
- 	(c)	apply, as a trade mark or otherwise, to goods imported, manufactured, produced, sold, offered for sale or let for hire; or
- 	(d)	use in relation to:
- 	(i)	goods or services; or
- 	(ii)	the promotion, by any means, of the supply or use of goods or services:
+                             (ii)  the promotion, by any means, of the supply or use of goods or services:
 
 either:
 
-	(e)	a protected name, or a name so closely resembling a protected name as to be likely to be mistaken for it; or
- 	(f)	the protected symbol, or a symbol so closely resembling the protected symbol as to be likely to be mistaken for it.
+                     (e)  a protected name, or a name so closely resembling a protected name as to be likely to be mistaken for it; or
 
-Penalty:	30 penalty units.
+                      (f)  the protected symbol, or a symbol so closely resembling the protected symbol as to be likely to be mistaken for it.
 
-<dl compact=""><dl compact="">
+                    Penalty:  30 penalty units.
 
-<dt>(1A)</dt><dd>Subsection&#160;(1) is an offence of strict liability.</dd> <dt>(2)</dt><dd>Subsection&#160;(1), so far as it applies in relation to a particular protected name or the protected symbol, does not affect rights conferred by law on a person in relation to: </dd> </dl></dl>
+          (1A)  Subsection (1) is an offence of strict liability.
 
-	(a)	a trade mark that is a registered trade mark for the purposes of the _Trade Marks Act 1995_; or
- 	(b)	a design registered under the _Designs Act 2003_;
+             (2)  Subsection (1), so far as it applies in relation to a particular protected name or the protected symbol, does not affect rights conferred by law on a person in relation to:
 
-that was so registered, or was registered under the _Designs Act 1906_, at the protection time in relation to the name or symbol.
+                     (a)  a trade mark that is a registered trade mark for the purposes of the _Trade Marks Act 1995_; or
 
-<dl compact=""><dl compact="">
+                     (b)  a design registered under the _Designs Act 1906_;
 
-<dt>(3)</dt><dd>This section, so far as it applies in relation to a particular protected
+that was so registered at the protection time in relation to the name or symbol.
 
-name or the protected symbol, does not affect the use, or rights conferred by
+             (3)  This section, so far as it applies in relation to a particular protected name or the protected symbol, does not affect the use, or rights conferred by law relating to the use, of a name or symbol (the **_relevant name or symbol_**) by a person in a particular manner if, at the protection time in relation to the protected name or protected symbol, the person:
 
-law relating to the use, of a name or symbol (the _relevant name or symbol_) by a person in a particular manner if, at the protection time
+                     (a)  was using the relevant name or symbol in good faith in that manner; or
 
-in relation to the protected name or protected symbol, the person:
+                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or symbol or a similar name or symbol, goods or services as the goods or services of the first-mentioned person.
 
-</dd> </dl></dl>
+             (4)  In this section:
 
-	(a)	was using the relevant name or symbol in good faith in that manner; or
- 	(b)	would have been entitled to prevent another person from passing off, by means of the use of the relevant name or symbol or a similar name or symbol, goods or services as the goods or services of the first-mentioned person.
+                    <a name="protect-name"></a>**_protected name_** means any of the following names:
 
-<dl compact=""><dl compact="">
+                     (a)  “Commonwealth Services Delivery Agency”;
 
-<dt>(4)</dt><dd>In this section:
+                     (b)  such other names as are prescribed.
 
-</dd> </dl></dl>
+                    <a name="protect-symbol"></a>**_protected symbol_** means the Agency’s official symbol, whose design is set out in the regulations.
 
-<def><dl compact=""><dl compact="">
+                    <a name="protect-time"></a>**_protection time_** means:
 
-_protected name_ means any of the following names:
+                     (a)  in relation to the name “Commonwealth Services Delivery Agency”—the time immediately before the commencement of this Act; or
 
- </dl></dl>
+                     (b)  in relation to any other name—the time immediately before the commencement of the regulation prescribing the name; or
 
-	(a)	"Commonwealth Services Delivery Agency";
- 	(b)	such other names as are prescribed.
+                     (c)  in relation to the protected symbol—the time immediately before the commencement of the regulation setting out the design of the symbol.
 
-<def><dl compact=""><dl compact="">
+##### <a id="39"></a>39  Application of the _Audit Act 1901_
 
-_protected symbol_ means the Agency's official symbol, whose design
+             (1)  If the _Audit Act 1901_ is not repealed on or before the commencing day, that Act applies in relation to the Agency, until it is repealed, as if:
 
-is set out in the regulations. _protection time_ means:  </dl></dl>
+                     (a)  references to the Secretary were references to the Chairman of the Board of Management; and
 
-	(a)	in relation to the name "Commonwealth Services Delivery Agency"&#151;the time immediately before the commencement of this Act; or
- 	(b)	in relation to any other name&#151;the time immediately before the commencement of the regulation prescribing the name; or
- 	(c)	in relation to the protected symbol&#151;the time immediately before the commencement of the regulation setting out the design of the symbol. 
+                     (b)  references to a Department were references to the Agency; and
 
-**
+                     (c)  subsection 2AB(2) of that Act were repealed.
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 39  Application of the _Audit Act 1901_ 
-**
+             (2)  In this section:
 
- <dl compact=""><dl compact="">
+                    <a name="commenc-dai"></a>**_commencing day_** means the day on which this Act commences.
 
-<dt>(1)</dt><dd>If the _Audit Act 1901_ is not repealed on or before the commencing
+##### <a id="40"></a>40  Annual report
 
-day, that Act applies in relation to the Agency, until it is repealed, as if:
+             (1)  The Chairman must, as soon as practicable after 30 June in each year, prepare and give the Minister a report of the operations of the Agency during the year that ended on that 30 June.
 
-</dd> </dl></dl>
+             (2)  The Minister must cause a copy of each report under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-<center>Back to Top</center>
+##### <a id="41"></a>41  Regulations
 
-	(a)	references to the Secretary were references to the Chairman of the Board of Management; and
- 	(b)	references to a Department were references to the Agency; and
- 	(c)	subsection 2AB(2) of that Act were repealed.
+                   The Governor-General may make regulations prescribing matters:
 
-<dl compact=""><dl compact="">
+                     (a)  required or permitted by this Act to be prescribed; or
 
-<dt>(2)</dt><dd>In this section:
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-</dd> </dl></dl>
+# Notes to the _Commonwealth Services Delivery Agency Act 1997_
 
-<def><dl compact=""><dl compact="">
+### Note 1
 
-_commencing day_ means the day on which this Act commences.
+The _Commonwealth Services Delivery Agency Act 1997_ as shown in this compilation comprises Act No. 31, 1997 amended as indicated in the Tables below.
 
- </dl></dl>
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-**
+### Table of Acts
 
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 40  Annual report 
-**
+<table>
+<colgroup>
+  <col width="31%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>The Chairman must, as soon as practicable after 30&#160;June in each year,
-
-prepare and give the Minister a report of the operations of the Agency during
-
-the year that ended on that 30&#160;June.</dd> <dt>(2)</dt><dd>The Minister must cause a copy of each report under subsection&#160;(1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report. </dd> </dl></dl>
-
-**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997- SECT 41  Regulations 
-**
-
- <dl compact=""><dl compact="">
-
-		The Governor-General may make regulations prescribing matters:
-
- </dl></dl>
-
-	(a)	required or permitted by this Act to be prescribed; or
- 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
-
-<center>**
-
-###  COMMONWEALTH SERVICES DELIVERY AGENCY ACT 1997<centreit>Notes to the _Commonwealth Services Delivery Agency Act 1997_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Commonwealth Services Delivery Agency Act 1997_ as shown in this compilation comprises Act No.&#160;31, 1997 amended as indicated in the Tables below.
- For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Services Delivery Agency Act 1997</i></div>
-
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Commonwealth Services Delivery Agency Act 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>31, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>17 Apr 1997</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>1&#160;July 1997</div>
-
+  <td>
+    <div>1 July 1997</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>146, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (items&#160;325-327): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 325–327): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
-
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>137, 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1 Oct 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>2 Oct 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 4</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Family and Community Services Legislation Amendment Act 2003</i></div>
-
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment Act 2003</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>30, 2003</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>15 Apr 2003</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>15 Apr 2003</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Designs (Consequential Amendments) Act 2003</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>148, 2003</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>17 Dec 2003</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedules 1 and 2: <i>(b)</i> 
-Remainder: Royal Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr></table>_(a)_ 
-<center>Back to Top</center>
- The _Commonwealth Services Delivery Agency Act 1997_ was amended by Schedule&#160;1 (items&#160;325-327) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
- 	(2)	Subject to this section, this Act commences at the commencing time.
-
-_(b)_	Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
-
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div><b>Commencement information</b></div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div><b>Column 1</b></div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div><b>Column 2</b></div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div><b>Column 3</b></div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div><b>Provision(s)</b></div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div><b>Commencement</b></div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div><b>Date/Details</b></div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>2\. Schedules&#160;1 and 2</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Immediately after the commencement of section&#160;4 of the <i>Designs Act 2003</i>.</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>17 June 2004</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr></table>
 
-**Table of Amendments**  <table><tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+ 
 
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
+_(a)_     The _Commonwealth Services Delivery Agency Act 1997_ was amended by Schedule 1 (items 325–327) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>S. 2A</div>
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-  </th>
-  <th colspan="1" align="left">
-    <div>ad. No.&#160;137, 2001</div>
+## Table of Amendments
 
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2A</div>
+    </td>
+    <td>
+      <div>ad. No. 137, 2001</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;146, 1999; No.&#160;30, 2003</div>
-
+  <td>
+    <div>am. No. 146, 1999; No. 30, 2003</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 35</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;146, 1999</div>
-
+  <td>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 38</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;137, 2001; No. 148, 2003</div>
-
+  <td>
+    <div>am. No. 137, 2001</div>
   </td>
-</tr></table>  <center>**
+</tr></table>
 
-###  Table A 
-**</center>  **Table A**
+## Table A
 
-**Application, saving or transitional provisions**
+### Application, saving or transitional provisions
 
-_Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001_(No.&#160;137, 2001) 
+_Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
 
-**4  Application of amendments**
+##### <a id="4"></a>4  Application of amendments
 
-<dl compact=""><dl compact="">
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
-<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl></dl>
-
-</def>
-
-</def></def>
-
-</def></def>
-
-</def></def>
-
-
+ 
