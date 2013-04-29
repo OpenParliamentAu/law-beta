@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00734/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00662/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 18 December 2006
+This compilation was prepared on 9 November 2006
  taking into account amendments up to Act No. 118 of 2005
 
 The text of any of those amendments not in force
@@ -18,367 +18,323 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Merging entities; merged entity; merger day
+[3A](#3A).         Merging entities; merged entity; merger day                                       6
 
-[3B](#3B).         Telstra body
+[4](#4).            Operating under a name                                                                       7
 
-[4](#4).            Operating under a name
+[5](#5).            Subsidiaries                                                                                          8
 
-[5](#5).            Subsidiaries
+[6](#6).            Extension of Act to external Territories                                              8
 
-[6](#6).            Extension of Act to external Territories
+[6A](#6A).         Application of the _Criminal Code_                                                       8
 
-[6A](#6A).         Application of the _Criminal Code_
-
-[7](#7).            Act binds the Crown
+[7](#7).            Act binds the Crown                                                                           8
 
 **Part 2—Commonwealth ownership of Telstra** 
 
     **Division 1—Simplified outline**
 
-[8AA](#8AA).      Simplified outline
+[8AA](#8AA).      Simplified outline                                                                                 9
 
     **Division 3—Telstra’s reporting obligations**
 
-[8AD](#8AD).      Financial statements
+[8AD](#8AD).      Financial statements                                                                          10
 
-[8AE](#8AE).       Minister to be notified of significant events
+[8AE](#8AE).       Minister to be notified of significant events                                      10
 
-[8AF](#8AF).       Keeping the Minister and the Minister for Finance informed
+[8AF](#8AF).       Keeping the Minister and the Minister for Finance informed           11
 
-[8AG](#8AG).      Corporate plan for Telstra
+[8AG](#8AG).      Corporate plan for Telstra                                                                 11
 
-[8AH](#8AH).      Consequences of contraventions of this Division
+[8AH](#8AH).      Consequences of contraventions of this Division                             13
 
-[8AI](#8AI).        This Division has effect despite the Corporations Act etc 
+[8AI](#8AI).        This Division has effect despite the Corporations Act etc               13
 
     **Division 4—Provisions relating to the sale by the Commonwealth of its shares in Telstra**
 
-[8AJ](#8AJ).       Telstra sale scheme
+[8AJ](#8AJ).       Telstra sale scheme                                                                            14
 
-[8AJA](#8AJA).    Sale-scheme hybrid securities
+[8AJA](#8AJA).    Sale-scheme hybrid securities                                                            16
 
-[8AK](#8AK).      Exemption from stamp duty—transfer by the Commonwealth of its shares in Telstra etc 
+[8AK](#8AK).      Exemption from stamp duty—transfer by the Commonwealth of its shares in Telstra etc   18
 
-[8AKA](#8AKA).   Authorisation of borrowing—issue of sale-scheme hybrid securities
+[8AKA](#8AKA).   Authorisation of borrowing—issue of sale-scheme hybrid securities 20
 
-[8AL](#8AL).       Appropriation—costs incurred in connection with a Telstra sale scheme
+[8AL](#8AL).       Appropriation—costs incurred in connection with a Telstra sale scheme              20
 
-[8AQ](#8AQ).      Assistance given by Telstra or the Board in connection with a Telstra sale scheme
+[8AQ](#8AQ).      Assistance given by Telstra or the Board in connection with a Telstra sale scheme               21
 
-[8AR](#8AR).      Giving of assistance—ancillary provisions
+[8AR](#8AR).      Giving of assistance—ancillary provisions                                       22
 
-[8AS](#8AS).       Reimbursement of expenses incurred in giving assistance
+[8AS](#8AS).       Reimbursement of expenses incurred in giving assistance                 23
 
-[8AT](#8AT).      Commonwealth to be bound by Chapters 6CA, 6D and 7 of the Corporations Act
+[8AT](#8AT).      Commonwealth to be bound by Chapters 6CA, 6D and 7 of the Corporations Act              23
 
-[8AU](#8AU).      Alterations of Telstra’s constitution before the minority-interest sale time
+[8AU](#8AU).      Alterations of Telstra’s constitution before the minority-interest sale time           24
 
-[8AUA](#8AUA).   Alteration of Telstra’s constitution after the minority-interest sale time
+[8AUA](#8AUA).   Alteration of Telstra’s constitution after the minority-interest sale time               25
 
-[8AV](#8AV).      Reduction of Telstra’s share capital
+[8AV](#8AV).      Reduction of Telstra’s share capital                                                  27
 
     **Division 5—Miscellaneous**
 
-[8AW](#8AW).     Use by the Commonwealth of information obtained from Telstra or the Board
+[8AW](#8AW).     Use by the Commonwealth of information obtained from Telstra or the Board     28
 
-[8AX](#8AX).      Agreements relating to the protection of information obtained from Telstra or the Board
+[8AX](#8AX).      Agreements relating to the protection of information obtained from Telstra or the Board     29
 
-[8AY](#8AY).      Telstra’s obligations to disclose information
+[8AY](#8AY).      Telstra’s obligations to disclose information                                     29
 
-[8AYA](#8AYA).   Minister for Finance may direct Telstra not to dilute the Commonwealth’s equity in Telstra etc 
+[8AYA](#8AYA).   Minister for Finance may direct Telstra not to dilute the Commonwealth’s equity in Telstra etc         30
 
-[8AYB](#8AYB).    Telstra to give information to the Minister about the level of non-Commonwealth ownership of shares in Telstra
+[8AYB](#8AYB).    Telstra to give information to the Minister about the level of non-Commonwealth ownership of shares in Telstra                                                                                                           32
 
-[8AYC](#8AYC).    Application of the _Ombudsman Act 1976_ to Telstra
+[8AYC](#8AYC).    Application of the _Ombudsman Act 1976_ to Telstra                        33
 
-[8AYD](#8AYD).   Controlling interest in Telstra
+[8AYD](#8AYD).   Controlling interest in Telstra                                                            33
 
-[8AZ](#8AZ).      Rights of Telstra’s shareholders, debenture holders and creditors to be subject to this Act
+[8AZ](#8AZ).      Rights of Telstra’s shareholders, debenture holders and creditors to be subject to this Act   34
 
-[8BA](#8BA).      Compensation—constitutional safety net
+[8BA](#8BA).      Compensation—constitutional safety net                                         34
 
-[8BB](#8BB).       Delegation
+[8BB](#8BB).       Delegation                                                                                          34
 
-[8BC](#8BC).       Provision to attract the corporations power and the communications power
+[8BC](#8BC).       Provision to attract the corporations power and the communications power         35
 
 **Part 2A—Restrictions on ownership of Telstra** 
 
     **Division 1—Simplified outline**
 
-[8BD](#8BD).      Simplified outline
+[8BD](#8BD).      Simplified outline                                                                               36
 
     **Division 2—Definitions in Schedule**
 
-[8BE](#8BE).       Definitions in Schedule
+[8BE](#8BE).       Definitions in Schedule                                                                      37
 
     **Division 3—Extra-territorial operation**
 
-[8BF](#8BF).       Extra-territorial operation
+[8BF](#8BF).       Extra-territorial operation                                                                  38
 
     **Division 4—Limit on foreign ownership**
 
-[8BG](#8BG).      Meaning of _unacceptable foreign-ownership situation_
+[8BG](#8BG).      Meaning of _unacceptable foreign-ownership situation_                      39
 
-[8BH](#8BH).      Acquisitions of shares
+[8BH](#8BH).      Acquisitions of shares                                                                       39
 
-[8BI](#8BI).        Compliance by Telstra
+[8BI](#8BI).        Compliance by Telstra                                                                      40
 
-[8BJ](#8BJ).        Remedial orders
+[8BJ](#8BJ).        Remedial orders                                                                                 40
 
     **Division 6—Anti-avoidance**
 
-[8BM](#8BM).     Anti-avoidance
+[8BM](#8BM).     Anti-avoidance                                                                                   42
 
     **Division 7—Record-keeping and giving of information**
 
-[8BN](#8BN).      Record-keeping and giving of information
+[8BN](#8BN).      Record-keeping and giving of information                                         43
 
-[8BO](#8BO).      Incorrect records
+[8BO](#8BO).      Incorrect records                                                                                44
 
     **Division 8—Head office, base of operations and place of incorporation of Telstra**
 
-[8BQ](#8BQ).      Head office to be in Australia
+[8BQ](#8BQ).      Head office to be in Australia                                                            45
 
-[8BR](#8BR).       Base of operations to be in Australia
+[8BR](#8BR).       Base of operations to be in Australia                                                45
 
-[8BS](#8BS).       Telstra to remain incorporated in Australia
+[8BS](#8BS).       Telstra to remain incorporated in Australia                                       45
 
     **Division 9—Citizenship of Chairperson and directors of Telstra**
 
-[8BT](#8BT).       Chairperson must be an Australian citizen
+[8BT](#8BT).       Chairperson must be an Australian citizen                                        46
 
-[8BU](#8BU).      Majority of directors must be Australian citizens
+[8BU](#8BU).      Majority of directors must be Australian citizens                            46
 
-[8BUA](#8BUA).   At least 2 directors must have knowledge of, or experience in, the communications needs of regional, rural or remote areas
+[8BUA](#8BUA).   At least 2 directors must have knowledge of, or experience in, the communications needs of regional, rural or remote areas                                                                                                   46
 
     **Division 10—Miscellaneous**
 
-[8BW](#8BW).      Concurrent operation of State/Territory laws
+[8BW](#8BW).      Concurrent operation of State/Territory laws                                   47
 
-[8BX](#8BX).      Validity of acts done in contravention of this Part
+[8BX](#8BX).      Validity of acts done in contravention of this Part                            47
 
-[8BY](#8BY).       Winding-up of Telstra not prevented by this Act
+[8BY](#8BY).       Winding-up of Telstra not prevented by this Act                             47
 
-[8BZ](#8BZ).       Acquisition of property
+[8BZ](#8BZ).       Acquisition of property                                                                    47
 
-[8CA](#8CA).      Review of decisions by Administrative Appeals Tribunal
+[8CA](#8CA).      Review of decisions by Administrative Appeals Tribunal               47
 
-[8CB](#8CB).       Delegation
+[8CB](#8CB).       Delegation                                                                                          48
 
-[8CC](#8CC).       Provision to attract the corporations power and the communications power
+[8CC](#8CC).       Provision to attract the corporations power and the communications power         48
 
 **Part 2AA—Anti-avoidance**
 
-[8CCA](#8CCA).    Anti-avoidance
+[8CCA](#8CCA).    Anti-avoidance                                                                                   50
 
 **Part 2B—Remedial provisions relating to Telstra** 
 
     **Division 1—Injunctions**
 
-[8CD](#8CD).      Injunctions
+[8CD](#8CD).      Injunctions                                                                                         51
 
-[8CE](#8CE).       Interim injunctions
+[8CE](#8CE).       Interim injunctions                                                                             52
 
-[8CF](#8CF).       Discharge etc  of injunctions
+[8CF](#8CF).       Discharge etc  of injunctions                                                              52
 
-[8CG](#8CG).      Certain limits on granting injunctions not to apply
+[8CG](#8CG).      Certain limits on granting injunctions not to apply                           52
 
-[8CH](#8CH).      Other powers of the court unaffected
+[8CH](#8CH).      Other powers of the court unaffected                                               53
 
     **Division 2—Prosecutions**
 
-[8CI](#8CI).        Prosecutions of corporations
+[8CI](#8CI).        Prosecutions of corporations                                                             54
 
-[8CJ](#8CJ).        Prosecutions of persons other than corporations
+[8CJ](#8CJ).        Prosecutions of persons other than corporations                              55
 
-[8CK](#8CK).      Service of summons or process on foreign corporations—criminal proceedings
+[8CK](#8CK).      Service of summons or process on foreign corporations—criminal proceedings     56
 
-[8CL](#8CL).       Indictable offences
+[8CL](#8CL).       Indictable offences                                                                             57
 
 **Part 2C—Re-affirmation of the universal service obligation, the digital data service obligation and the customer service guarantee**
 
-[8CM](#8CM).     Re-affirmation of universal service obligation and digital data service obligation
+[8CM](#8CM).     Re-affirmation of universal service obligation and digital data service obligation    58
 
-[8CN](#8CN).      Re-affirmation of the customer service guarantee
+[8CN](#8CN).      Re-affirmation of the customer service guarantee                              58
 
 **Part 3—Operation of Telstra**
 
-[9](#9).            Minister may give directions to Telstra
-
-**Part 3A—Transitional provisions relating to the sale by the Commonwealth of its remaining equity interest in Telstra** 
-
-    **Division 1—Long service leave**
-
-[9A](#9A).         Interpretation
-
-[9B](#9B).         Long service leave for employees with less than 10 years service
-
-[9C](#9C).         Payments in lieu of long service leave for employees with less than 10 years service
-
-[9D](#9D).         Payments on the death of an employee
-
-[9E](#9E).          Employee’s long service leave credit for the purposes of sections 9B and 9C
-
-[9F](#9F).          Division not to affect an employee’s post-sale long service leave rights
-
-[9G](#9G).         Saving—Long Service Leave Act
-
-    **Division 2—Operation of the Safety, Rehabilitation and Compensation Act 1988**
-
-[9H](#9H).         Operation of section 128A of the SRC Act
-
-    **Division 3—Retirement benefits**
-
-[9J](#9J).          Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
-
-[9K](#9K).         Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
-
-[9L](#9L).          Application of the _Superannuation Act 1976_
-
-    **Division 4—Other transitional and saving provisions**
-
-[9M](#9M).        Telstra employees not on maternity leave immediately before the designated day
-
-[9N](#9N).         Telstra employees on maternity leave on the designated day
-
-[9P](#9P).          Saving—_Crimes (Superannuation Benefits) Act 1989_
-
-[9Q](#9Q).         Saving—_Director of Public Prosecutions Act 1983_
-
-[9R](#9R).         Refund of part of fee paid under section 104A of the SRC Act
+[9](#9).            Minister may give directions to Telstra                                            60
 
 **Part 4—Telstra to be successor of Telecom and OTC**
 
-[10](#10).          Extra-territorial operation of Part
+[10](#10).          Extra-territorial operation of Part                                                      61
 
-[11](#11).          Vesting of property, rights and liabilities
+[11](#11).          Vesting of property, rights and liabilities                                          61
 
-[12](#12).          Determination of Telstra’s initial capital
+[12](#12).          Determination of Telstra’s initial capital                                           61
 
-[13](#13).          Merger fee not to be charged
+[13](#13).          Merger fee not to be charged                                                             62
 
 **Part 5—Use of certain names**
 
-[14](#14).          Protected body may operate under protected business name
+[14](#14).          Protected body may operate under protected business name           63
 
-[15](#15).          Other persons not to use protected names
+[15](#15).          Other persons not to use protected names                                        63
 
-[16](#16).          Exceptions for pre-existing rights
+[16](#16).          Exceptions for pre-existing rights                                                      64
 
-[17](#17).          Use of other names by protected bodies
+[17](#17).          Use of other names by protected bodies                                           64
 
-[18](#18).          Effect on State and Territory laws
+[18](#18).          Effect on State and Territory laws                                                    64
 
 **Part 7—Application of laws to Telstra** 
 
     **Division 1—General**
 
-[26](#26).          Telstra not public authority etc 
+[26](#26).          Telstra not public authority etc                                                         65
 
-[27](#27).          Exemption from taxes and charges
+[27](#27).          Exemption from taxes and charges                                                     65
 
-[28](#28).          Merged entity taken to be the same body, for tax purposes, as merging entities
+[28](#28).          Merged entity taken to be the same body, for tax purposes, as merging entities    66
 
     **Division 2—Application of Commonwealth laws**
 
-[29](#29).          General application of Commonwealth laws
+[29](#29).          General application of Commonwealth laws                                     67
 
-[30](#30).          Lands Acquisition Act
+[30](#30).          Lands Acquisition Act                                                                       67
 
-[31](#31).          Public Works Committee Act
+[31](#31).          Public Works Committee Act                                                            67
 
-[32](#32).          Corporations Act
+[32](#32).          Corporations Act                                                                               67
 
     **Division 3—Application of State and Territory Laws**
 
-[33](#33).          Laws relating to buildings, structures and facilities
+[33](#33).          Laws relating to buildings, structures and facilities                           68
 
-[34](#34).          Environment protection laws
+[34](#34).          Environment protection laws                                                            68
 
 **Part 8—Miscellaneous**
 
-[35](#35).          Certain instruments to continue in force
+[35](#35).          Certain instruments to continue in force                                           70
 
-[36](#36).          Audit
+[36](#36).          Audit                                                                                                  70
 
-[37](#37).          Pending proceedings
+[37](#37).          Pending proceedings                                                                          71
 
-[38](#38).          Registration of interests in land
+[38](#38).          Registration of interests in land                                                         71
 
-[39](#39).          Transfer to Telstra of employees of former corporation
+[39](#39).          Transfer to Telstra of employees of former corporation                  72
 
-[40](#40).          Judicial notice of seals
+[40](#40).          Judicial notice of seals                                                                       72
 
-[41](#41).          Compensation for acquisition of property
+[41](#41).          Compensation for acquisition of property                                        72
 
-[42](#42).          Regulations
+[42](#42).          Regulations                                                                                        73
 
 **Part 9—Social bonus resulting from the partial sale of Telstra** 
 
     **Division 1—Introduction**
 
-[43](#43).          Simplified outline
+[43](#43).          Simplified outline                                                                               74
 
-[44](#44).          Definitions
+[44](#44).          Definitions                                                                                         74
 
-[45](#45).          Social bonus commencement day
+[45](#45).          Social bonus commencement day                                                      75
 
     **Division 4—Supplementation of the Regional Telecommunications Infrastructure Account**
 
-[58](#58).          Meeting the telecommunications needs of people in isolated or remote island communities or the Australian Antarctic Territory
+[58](#58).          Meeting the telecommunications needs of people in isolated or remote island communities or the Australian Antarctic Territory                                                                                            76
 
-[59](#59).          Internet access for people in rural and regional areas
+[59](#59).          Internet access for people in rural and regional areas                        77
 
-[60](#60).          Mobile phone coverage along highways
+[60](#60).          Mobile phone coverage along highways                                            78
 
-[61](#61).          Grant of financial assistance to a State
+[61](#61).          Grant of financial assistance to a State                                              79
 
-[62](#62).          Grant of financial assistance to a person other than a State
+[62](#62).          Grant of financial assistance to a person other than a State              80
 
     **Division 6—Delegation**
 
-[69](#69).          Delegation by Minister
+[69](#69).          Delegation by Minister                                                                      81
 
-[70](#70).          Delegation by Minister for Transport and Regional Services
+[70](#70).          Delegation by Minister for Transport and Regional Services           81
 
-[71](#71).          Delegation by Secretary to the Department
+[71](#71).          Delegation by Secretary to the Department                                      81
 
 **Schedule—Ownership definitions**
 
-[1](#1).            Object
+[1](#1).            Object                                                                                                82
 
-[2](#2).            Definitions
+[2](#2).            Definitions                                                                                         82
 
-[3](#3).            When foreign citizens are ordinarily resident in Australia
+[3](#3).            When foreign citizens are ordinarily resident in Australia                 85
 
-[4](#4).            Entering into an agreement or arrangement
+[4](#4).            Entering into an agreement or arrangement                                        86
 
-[5](#5).            Associates
+[5](#5).            Associates                                                                                          86
 
-[6](#6).            Power to appoint director
+[6](#6).            Power to appoint director                                                                 88
 
-[7](#7).            Meaning of entitled to acquire
+[7](#7).            Meaning of entitled to acquire                                                           88
 
-[8](#8).            Meaning of interest in a share
+[8](#8).            Meaning of interest in a share                                                            88
 
-[9](#9).            Certain interests in shares to be disregarded
+[9](#9).            Certain interests in shares to be disregarded                                      89
 
-[10](#10).          Voting power
+[10](#10).          Voting power                                                                                     90
 
-[11](#11).          Stake in a company
+[11](#11).          Stake in a company                                                                            91
 
-[12](#12).          Direct control interests in a company
+[12](#12).          Direct control interests in a company                                               92
 
-[13](#13).          Substantial interests in trust estates
+[13](#13).          Substantial interests in trust estates                                                  94
 
 **Notes** 
 
@@ -423,10 +379,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="commun-fund"></a>**_Communications Fund_** means the Communications Fund established by a law of the Commonwealth.
 
                     <a name="constitut"></a>**_constitution_**, in relation to Telstra, has the same meaning as in the _Corporations Act 2001_.
-
-                    <a name="design-dai"></a>**_designated day_** means the day declared under section 3 of the _Telstra (Transition to Full Private Ownership) Act 2005_.
-
-                    <a name="employe"></a>**_employee_** includes apprentice.
 
                     <a name="entiti"></a>**_entity_** means:
 
@@ -485,10 +437,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
                     <a name="liabil"></a>**_liabilities_** means all liabilities, duties and obligations, whether actual, contingent or prospective, and wherever arising.
-
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the third anniversary of the designated day.
-
-                    <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_ as in force immediately before the designated day.
 
                     <a name="merg-entiti"></a>**_merged entity_**, in relation to a set of merging entities, has the meaning given by section 3A.
 
@@ -558,8 +506,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="sale-scheme-truste"></a>**_sale-scheme trustee_** has the meaning given by section 8AJ.
 
-                    <a name="src-act"></a>**_SRC Act_** means the _Safety, Rehabilitation and Compensation Act 1988_.
-
                     <a name="subsidiari"></a>**_subsidiary_** has the meaning given by section 5.
 
                     <a name="success-dai"></a>**_succession day_** means the day fixed under subsection 2(1).
@@ -583,12 +529,6 @@ but, except for the purposes of section 28, does not include income tax impose
                      (a)  was incorporated under the Corporations Law of the Australian Capital Territory by the name Australian and Overseas Telecommunications Corporation Limited; and
 
                      (b)  changed its name under the Corporations Law of the Australian Capital Territory to Telstra Corporation Limited on 13 April 1993.
-
-                    <a name="telstra-bodi"></a>**_Telstra body_**:
-
-                     (a)  in Divisions 1, 2 and 3 of Part 3A—has the meaning given by subsection 3B(1); and
-
-                     (b)  in the remaining provisions of this Act—has the meaning given by subsection 3B(2).
 
                     <a name="telstra-sale-scheme"></a>**_Telstra sale scheme_** has the meaning given by section 8AJ.
 
@@ -661,52 +601,6 @@ Note:          The Schedule sets out definitions of expression
              (5)  Subject to subsection (3), but without limiting the generality of subsection (2), a set of merging entities may include the merged entity in relation to another set of merging entities.
 
              (6)  Regulations may be made for the purposes of subsection (2) at any time before the end of the 12 months beginning on the succession day, but not later.
-
-##### <a id="3B"></a>3B  Telstra body
-
-Divisions 1, 2 and 3 of Part 3A
-
-             (1)  A reference in Divisions 1, 2 and 3 of Part 3A to a **_Telstra body_** is a reference to:
-
-                     (a)  Telstra; or
-
-                     (b)  a body corporate that is a subsidiary of Telstra immediately before the day that is the first day after the commencement of Part 1 of Schedule 1 to the _Telstra (Transition to Full Private Ownership) Act 2005_ on which a majority of the voting shares in Telstra are held by a person, or persons, other than the Commonwealth.
-
-Remaining provisions
-
-             (2)  A reference in any of the remaining provisions of this Act to a **_Telstra body_** is a reference to:
-
-                     (a)  Telstra; or
-
-                     (b)  a body corporate that is a subsidiary of Telstra.
-
-Future Fund and Communications Fund
-
-             (3)  For the purposes of subsection (1), if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
-
-Securities lending arrangements
-
-             (4)  For the purposes of subsection (1), if, under an agreement of the kind known as a securities lending arrangement:
-
-                     (a)  at a particular time (the **_disposal time_**), the Commonwealth disposed of a share in Telstra (the **_borrowed share_**) to another person (the **_borrower_**); and
-
-                     (b)  the Commonwealth may come under an obligation to:
-
-                              (i)  re-acquire the borrowed share from the borrower at a later time; or
-
-                             (ii)  acquire an identical share from the borrower at a later time;
-
-the borrowed share is taken to be held by the Commonwealth during the period:
-
-                     (c)  beginning at the disposal time; and
-
-                     (d)  ending when the obligation mentioned in paragraph (b) is discharged or can no longer arise.
-
-Definition
-
-             (5)  In this section:
-
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
 ##### <a id="4"></a>4  Operating under a name
 
@@ -1618,7 +1512,9 @@ head office, base of operations and place of incorporation are to remain in Aust
 
 <li class="BoxList" style="margin-left:21.25pt">**•**Telstra’s
 
-Chairperson, and a majority of Telstra’s directors, must be Australian citizens.</li>
+Chairperson, and a majority of Telstra’s directors, must be Australian
+
+citizens.</li>
 
 * * *
 
@@ -2184,266 +2080,6 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                      (b)  the incorporation of Telstra.
 
-## Part 3A—Transitional provisions relating to the sale by the Commonwealth of its remaining equity interest in Telstra
-
-### Division 1—Long service leave
-
-##### <a id="9A"></a>9A  Interpretation
-
-             (1)  Unless the contrary intention appears, expressions used in this Division that are also used in the Long Service Leave Act have the same meanings in this Division as in that Act.
-
-             (2)  In this Division:
-
-                    <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
-
-                     (a)  the period that is, immediately before the third anniversary of the designated day, the employee’s period of service for the purposes of the Long Service Leave Act; and
-
-                     (b)  the period starting on the third anniversary of the designated day during which the employee continues to be an employee of a Telstra body.
-
-                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
-
-                    <a name="industri-instrum"></a>**_industrial instrument_** means any of the following (within the meanings given by the _Workplace Relations Act 1996_):
-
-                     (a)  a workplace agreement;
-
-                     (b)  an award or a variation or order affecting an award;
-
-                     (c)  a transitional award or a variation or order affecting a transitional award;
-
-                     (d)  a pre-reform AWA;
-
-                     (e)  a pre-reform certified agreement;
-
-                      (f)  a preserved State agreement;
-
-                     (g)  a notional agreement preserving State awards.
-
-                    <a name="law"></a>**_law_** means:
-
-                     (a)  a law of the Commonwealth, a State or a Territory; or
-
-                     (b)  regulations or any other instrument (other than a determination or industrial instrument) made under such a law.
-
-                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination or industrial instrument or law (other than this Act) on or after the third anniversary of the designated day in relation to service on or after that anniversary.
-
-##### <a id="9B"></a>9B  Long service leave for employees with less than 10 years service
-
-             (1)  This section provides that, in certain circumstances, a Telstra body may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act is less than 10 years.
-
-             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
-
-             (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
-
-             (4)  If the employee continues to be employed by a Telstra body on and after the third anniversary of the designated day until his or her combined service period is at least 10 years, the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
-
-             (5)  If:
-
-                     (a)  the employee ceases to be an employee of a Telstra body, on or after reaching the minimum retirement age, or because of retrenchment; and
-
-                     (b)  the employee’s combined service period at the time when he or she ceases to be an employee of the Telstra body is at least one year;
-
-the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
-
-             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), the Telstra body may, if the employee asks in writing, grant the employee long service leave on half salary for a period that is not more than twice the first-mentioned period.
-
-             (7)  Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee ceases to be an employee.
-
-             (8)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
-
-                     (a)  that section applied to the employee; and
-
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 9C of the _Telstra Corporation Act 1991_”.
-
-##### <a id="9C"></a>9C  Payments in lieu of long service leave for employees with less than 10 years service
-
-             (1)  This section provides that, in certain circumstances, a Telstra body must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under section 9B.
-
-             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
-
-             (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
-
-             (4)  Subject to subsection (7), if the employee ceases to be an employee of a Telstra body on or after the day on which his or her combined service period reaches 10 years, the Telstra body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 9E(2).
-
-             (5)  Subject to subsection (7), if:
-
-                     (a)  the employee ceases to be an employee of a Telstra body, on or after reaching the minimum retiring age, or because of retrenchment; and
-
-                     (b)  the employee’s combined service period at the time when he or she ceases to be an employee of the Telstra body is at least one year;
-
-the Telstra body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 9E(2).
-
-             (6)  Subject to subsection (7), if:
-
-                     (a)  the employee ceases to be an employee of a Telstra body; and
-
-                     (b)  the Telstra body is satisfied that the employee left the Telstra body because of ill-health that justified his or her so leaving; and
-
-                     (c)  when the employee left, his or her combined service period was at least one year;
-
-the Telstra body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 9E(2).
-
-             (7)  An employee may, by written notice given to a Telstra body before the employee ceases to be an employee of the Telstra body:
-
-                     (a)  request the Telstra body not to make a payment to the employee under this section; or
-
-                     (b)  request the Telstra body to make a payment under subsection (4), (5) or (6) of a stated amount that is less than the amount that would otherwise be payable under that subsection.
-
-             (8)  The Telstra body must comply with a request made under subsection (7).
-
-             (9)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
-
-                     (a)  that section applied to the employee; and
-
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 9C of the _Telstra Corporation Act 1991_”.
-
-##### <a id="9D"></a>9D  Payments on the death of an employee
-
-             (1)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
-
-             (2)  If, on or after the third anniversary of the designated day, the employee dies and, immediately before his or her death:
-
-                     (a)  the employee was an employee of a Telstra body; and
-
-                     (b)  the employee’s combined service period was at least one year; and
-
-                     (c)  the employee had one or more dependants;
-
-the Telstra body must make a payment to a dependant, or to 2 or more dependants, of the employee.
-
-             (3)  The total amount of the payment or payments is the amount that would have been payable to the employee under section 9C if, on the day of his or her death, the employee had ceased to be an employee of the Telstra body on or after reaching the minimum retiring age.
-
-             (4)  If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if:
-
-                     (a)  that section applied to an employee of a Telstra body; and
-
-                     (b)  a reference in that section to the approving authority were a reference to the Telstra body; and
-
-                     (c)  for the expression “this Act” in that section there were substituted the expression “section 9D of the _Telstra Corporation Act 1991_”; and
-
-                     (d)  for the expression “subsection 16(7) or 17(5)” in that section there were substituted the expression “section 9D of the _Telstra Corporation Act 1991_”.
-
-##### <a id="9E"></a>9E  Employee’s long service leave credit for the purposes of sections 9B and 9C
-
-             (1)  For the purposes of section 9B, an employee’s long service leave credit is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
-
-                     (a)  starting when the employee started his or her period of service; and
-
-                     (b)  ending on the third anniversary of the designated day;
-
-if the employee had been retrenched on the third anniversary of the designated day.
-
-             (2)  For the purposes of section 9C, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) of this section reduced by any long service leave credit used under section 9B.
-
-##### <a id="9F"></a>9F  Division not to affect an employee’s post-sale long service leave rights
-
-                   To avoid doubt, this Division does not affect an employee’s post-sale long service leave rights.
-
-##### <a id="9G"></a>9G  Saving—Long Service Leave Act
-
-                   If, immediately before the third anniversary of the designated day, the period of service under the Long Service Leave Act of an employee of Telstra is at least 10 years, then:
-
-                     (a)  the employee’s accrued rights under the Long Service Leave Act continue; and
-
-                     (b)  the Long Service Leave Act has effect on and after the third anniversary of the designated day in relation to the employee as if Telstra were an approving authority for the purposes of that Act.
-
-### Division 2—Operation of the Safety, Rehabilitation and Compensation Act 1988
-
-##### <a id="9H"></a>9H  Operation of section 128A of the SRC Act
-
-                   On and after the designated day, section 128A of the SRC Act continues to apply to Telstra as if Telstra were still a prescribed Commonwealth authority for the purposes of that section.
-
-### Division 3—Retirement benefits
-
-##### <a id="9J"></a>9J  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
-
-             (1)  This section applies if, immediately before the designated day, an employee of a Telstra body was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
-
-             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, on and after the designated day, while the employee continues to be employed by a Telstra body.
-
-             (3)  This section is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
-
-##### <a id="9K"></a>9K  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
-
-             (1)  This section applies if, immediately before the designated day, a particular period of employment of a person by a Telstra body was a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
-
-             (2)  If employment by the Telstra body ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ on the designated day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
-
-##### <a id="9L"></a>9L  Application of the _Superannuation Act 1976_
-
-                   If an employee of a Telstra body was an eligible employee for the purposes of the _Superannuation Act 1976_ immediately before the designated day, the employee is taken to have ceased to be an eligible employee for the purposes of that Act on the designated day.
-
-### Division 4—Other transitional and saving provisions
-
-##### <a id="9M"></a>9M  Telstra employees not on maternity leave immediately before the designated day
-
-             (1)  This section applies if:
-
-                     (a)  immediately before the designated day, a woman was an employee of Telstra; and
-
-                     (b)  within 12 months after the designated day, the woman would have been entitled to begin leave granted under the Maternity Leave Act if Telstra had continued to be a prescribed authority for the purposes of that Act.
-
-             (2)  On and after the designated day, the Maternity Leave Act continues to apply to the woman in relation to the confinement in respect of which she would have been entitled to leave as if Telstra continued to be a prescribed authority for the purposes of that Act.
-
-##### <a id="9N"></a>9N  Telstra employees on maternity leave on the designated day
-
-             (1)  This section applies if:
-
-                     (a)  immediately before the designated day, a woman was an employee of Telstra; and
-
-                     (b)  on the designated day, the woman is on leave granted under the Maternity Leave Act.
-
-             (2)  On and after the designated day, the Maternity Leave Act continues to apply to the woman in relation to the confinement in respect of which the leave was granted as if Telstra continued to be a prescribed authority for the purposes of that Act.
-
-##### <a id="9P"></a>9P  Saving—_Crimes (Superannuation Benefits) Act 1989_
-
-             (1)  Subject to this section, if a person who was an employee of a Telstra body before the designated day committed a corruption offence while such an employee, then, on and after the designated day, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect of the offence as if the Telstra body continued to be a Commonwealth authority.
-
-             (2)  A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by a Telstra body on or after the designated day.
-
-             (3)  A superannuation scheme in relation to which employer contributions or benefits are paid or payable by a Telstra body is not a superannuation scheme for the purposes of the _Crimes (Superannuation Benefits) Act 1989_ in respect of a corruption offence committed by a person on or after the designated day.
-
-             (4)  Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only order that an amount be paid to the Commonwealth.
-
-             (5)  If:
-
-                     (a)  a person who was an employee of Telstra before the designated day committed a corruption offence while such an employee; and
-
-                     (b)  the person was paid benefits before, on or after that day out of the Consolidated Revenue Fund;
-
-then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only order that an amount be paid to the Commonwealth.
-
-             (6)  Unless the contrary intention appears, expressions used in this section that are also used in the _Crimes (Superannuation Benefits) Act 1989_ have the same meanings in this section as in that Act _._
-
-##### <a id="9Q"></a>9Q  Saving—_Director of Public Prosecutions Act 1983_
-
-                   Even though the _Director of Public Prosecutions Act 1983_ ceases to apply to certain acts, omissions or proceedings in connection with a Telstra body because the Telstra body ceases to be an authority of the Commonwealth for the purposes of that Act, that Act continues on and after the designated day to apply in relation to:
-
-                     (a)  acts or omissions in connection with a Telstra body that occurred before the designated day; and
-
-                     (b)  the taking of civil remedies connected with or arising out of a prosecution that relates to acts or omissions referred to in paragraph (a).
-
-##### <a id="9R"></a>9R  Refund of part of fee paid under section 104A of the SRC Act
-
-             (1)  If:
-
-                     (a)  Telstra has paid a licence fee under section 104A of the SRC Act; and
-
-                     (b)  part of the fee is attributable to the application of paragraph 104A(2)(b) of that Act to the relevant period in which the designated day occurs;
-
-Comcare must pay Telstra the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2006C00734/Html/TelstraCorpn1991WD02_image002.gif)
-
-where:
-
-                    <a name="applic-part-fee"></a>**_applicable part of the fee_** means the part of the fee mentioned in paragraph (b).
-
-                    <a name="number-refund-dai"></a>**_number of refund days_** means the total number of days in the period beginning on the designated day and ending on the last day of the relevant period in which the designated day occurs.
-
-             (2)  In this section:
-
-                    <a name="relev-period"></a>**_relevant period_** has the same meaning as in section 104A of the SRC Act.
-
 ## Part 4—Telstra to be successor of Telecom and OTC
 
 ##### <a id="10"></a>10  Extra-territorial operation of Part
@@ -2671,16 +2307,6 @@ before the succession date.
 continues to have effect according to its tenor on and after the succession day except that a reference in the instrument to a former telecommunications corporation is taken on and after that day to be a reference to Telstra.
 
 ##### <a id="36"></a>36  Audit
-
-             (1)  The Auditor-General may, by written notice given to Telstra, resign as auditor of Telstra.
-
-             (2)  Subsections (3), (3A) and (4) are repealed at whichever is the earlier of the following times:
-
-                     (a)  the time when the Auditor-General resigns in accordance with subsection (1);
-
-                     (b)  the end of the first annual general meeting of Telstra held after the designated day.
-
-          (2A)  Even if subsections (3), (3A) and (4) remain in effect until the end of the first annual general meeting of Telstra held after the designated day, a replacement auditor may be appointed at the meeting, in accordance with the _Corporations Act 2001_, as if a vacancy in the office of auditor had arisen at the start of the meeting.
 
              (3)  The Auditor-General is taken to have been appointed under section 327 of the _Corporations Act 2001_ as auditor of Telstra with effect from its formation.
 
@@ -3344,7 +2970,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00734/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00662/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -3760,7 +3386,7 @@ Schedule 4 (item 7): Royal Assent</div>
   </td>
   <td>
     <div>Ss. 3, 4 and Schedule 1 (items 1–40): Royal Assent 
-Schedule 1 (items 57–65): 24 Nov 2006 ( <i>see</i>s. 3(1) and F2006L03997) 
+Schedule 1 (items 57–65): \[ <i>see</i>Note 2] 
 Schedule 1 (items 66–72): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
@@ -4211,7 +3837,7 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006)</div>
+    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; Nos. 45 and 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4228,14 +3854,6 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
   </td>
   <td>
     <div>am. No. 64, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3B</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -5416,110 +5034,6 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005 (as am. by SLI 2006 No. 50); (as am. by No. 192, 1976 (as am. by No. 122, 2006))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9B–9E</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9F</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9G</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9H</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9J–9L</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9M, 9N, 9P–9R</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -5747,7 +5261,7 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 64, 1994; No. 152, 1997; No. 53, 1999; No. 55, 2001; No. 118, 2005</div>
+    <div>am. No. 64, 1994; No. 152, 1997; No. 53, 1999; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6185,7 +5699,385 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 
 ### Note 2
 
-_Telstra (Transition to Full Private Ownership) Act 2005 (No. 118, 2005)_
+_Telstra (Transition to Full Private Ownership) Act 2005_ (No. 118, 2005) (as amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50))
+
+The amendments made by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ commenced on 27 March  2006 and have been incorporated into this Note.
+
+The _Telstra (Transition to Full Private Ownership) Act 2005_ (No. 118, 2005) was amended by the _Long Service Leave (Commonwealth Employees) Act 1976_(No. 192, 1976) as amended by the _Long Service Leave (Commonwealth Employees) Amendment Act 2006_ (No. 122, 2006).
+
+The amendments made by the _Long Service Leave (Commonwealth Employees) Act 1976_(No. 192, 1976) as amended by the _Long Service Leave (Commonwealth Employees) Amendment Act 2006_ (No. 122, 2006) commenced on 5 November 2006 and have been incorporated into this Note.
+
+The following amendments commence on the designated day declared under section 3:
+
+## Schedule 1
+
+## 57  Section 3
+
+Insert:
+
+                    <a name="design-dai"></a>**_designated day_** means the day declared under section 3 of the _Telstra (Transition to Full Private Ownership) Act 2005_.
+
+## 58  Section 3
+
+Insert:
+
+                    <a name="employe"></a>**_employee_** includes apprentice.
+
+## 59  Section 3
+
+Insert:
+
+                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the third anniversary of the designated day.
+
+## 60  Section 3
+
+Insert:
+
+                    <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_ as in force immediately before the designated day.
+
+## 61  Section 3
+
+Insert:
+
+                    <a name="src-act"></a>**_SRC Act_** means the _Safety, Rehabilitation and Compensation Act 1988_.
+
+## 62  Section 3
+
+Insert:
+
+                    <a name="telstra-bodi"></a>**_Telstra body_**:
+
+                     (a)  in Divisions 1, 2 and 3 of Part 3A—has the meaning given by subsection 3B(1); and
+
+                     (b)  in the remaining provisions of this Act—has the meaning given by subsection 3B(2).
+
+## 63  After section 3A
+
+Insert:
+
+##### <a id="3B"></a>3B  Telstra body
+
+Divisions 1, 2 and 3 of Part 3A
+
+             (1)  A reference in Divisions 1, 2 and 3 of Part 3A to a **_Telstra body_** is a reference to:
+
+                     (a)  Telstra; or
+
+                     (b)  a body corporate that is a subsidiary of Telstra immediately before the day that is the first day after the commencement of Part 1 of Schedule 1 to the _Telstra (Transition to Full Private Ownership) Act 2005_ on which a majority of the voting shares in Telstra are held by a person, or persons, other than the Commonwealth.
+
+Remaining provisions
+
+             (2)  A reference in any of the remaining provisions of this Act to a **_Telstra body_** is a reference to:
+
+                     (a)  Telstra; or
+
+                     (b)  a body corporate that is a subsidiary of Telstra.
+
+Future Fund and Communications Fund
+
+             (3)  For the purposes of subsection (1), if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
+
+Securities lending arrangements
+
+             (4)  For the purposes of subsection (1), if, under an agreement of the kind known as a securities lending arrangement:
+
+                     (a)  at a particular time (the **_disposal time_**), the Commonwealth disposed of a share in Telstra (the **_borrowed share_**) to another person (the **_borrower_**); and
+
+                     (b)  the Commonwealth may come under an obligation to:
+
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
+
+                             (ii)  acquire an identical share from the borrower at a later time;
+
+the borrowed share is taken to be held by the Commonwealth during the period:
+
+                     (c)  beginning at the disposal time; and
+
+                     (d)  ending when the obligation mentioned in paragraph (b) is discharged or can no longer arise.
+
+Definition
+
+             (5)  In this section:
+
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
+
+## 64  Before Part 4
+
+Insert:
+
+## Part 3A—Transitional provisions relating to the sale by the Commonwealth of its remaining equity interest in Telstra
+
+### Division 1—Long service leave
+
+##### <a id="9A"></a>9A  Interpretation
+
+             (1)  Unless the contrary intention appears, expressions used in this Division that are also used in the Long Service Leave Act have the same meanings in this Division as in that Act.
+
+             (2)  In this Division:
+
+                    <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
+
+                     (a)  the period that is, immediately before the third anniversary of the designated day, the employee’s period of service for the purposes of the Long Service Leave Act; and
+
+                     (b)  the period starting on the third anniversary of the designated day during which the employee continues to be an employee of a Telstra body.
+
+                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
+
+                    <a name="industri-instrum"></a>**_industrial instrument_** means any of the following (within the meanings given by the _Workplace Relations Act 1996_):
+
+                     (a)  a workplace agreement;
+
+                     (b)  an award or a variation or order affecting an award;
+
+                     (c)  a transitional award or a variation or order affecting a transitional award;
+
+                     (d)  a pre-reform AWA;
+
+                     (e)  a pre-reform certified agreement;
+
+                      (f)  a preserved State agreement;
+
+                     (g)  a notional agreement preserving State awards.
+
+                    <a name="law"></a>**_law_** means:
+
+                     (a)  a law of the Commonwealth, a State or a Territory; or
+
+                     (b)  regulations or any other instrument (other than a determination or industrial instrument) made under such a law.
+
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination or industrial instrument or law (other than this Act) on or after the third anniversary of the designated day in relation to service on or after that anniversary.
+
+##### <a id="9B"></a>9B  Long service leave for employees with less than 10 years service
+
+             (1)  This section provides that, in certain circumstances, a Telstra body may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act is less than 10 years.
+
+             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+
+             (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
+
+             (4)  If the employee continues to be employed by a Telstra body on and after the third anniversary of the designated day until his or her combined service period is at least 10 years, the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
+
+             (5)  If:
+
+                     (a)  the employee ceases to be an employee of a Telstra body, on or after reaching the minimum retirement age, or because of retrenchment; and
+
+                     (b)  the employee’s combined service period at the time when he or she ceases to be an employee of the Telstra body is at least one year;
+
+the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
+
+             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), the Telstra body may, if the employee asks in writing, grant the employee long service leave on half salary for a period that is not more than twice the first-mentioned period.
+
+             (7)  Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee ceases to be an employee.
+
+             (8)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
+
+                     (a)  that section applied to the employee; and
+
+                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 9C of the _Telstra Corporation Act 1991_”.
+
+##### <a id="9C"></a>9C  Payments in lieu of long service leave for employees with less than 10 years service
+
+             (1)  This section provides that, in certain circumstances, a Telstra body must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under section 9B.
+
+             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+
+             (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
+
+             (4)  Subject to subsection (7), if the employee ceases to be an employee of a Telstra body on or after the day on which his or her combined service period reaches 10 years, the Telstra body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 9E(2).
+
+             (5)  Subject to subsection (7), if:
+
+                     (a)  the employee ceases to be an employee of a Telstra body, on or after reaching the minimum retiring age, or because of retrenchment; and
+
+                     (b)  the employee’s combined service period at the time when he or she ceases to be an employee of the Telstra body is at least one year;
+
+the Telstra body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 9E(2).
+
+             (6)  Subject to subsection (7), if:
+
+                     (a)  the employee ceases to be an employee of a Telstra body; and
+
+                     (b)  the Telstra body is satisfied that the employee left the Telstra body because of ill-health that justified his or her so leaving; and
+
+                     (c)  when the employee left, his or her combined service period was at least one year;
+
+the Telstra body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 9E(2).
+
+             (7)  An employee may, by written notice given to a Telstra body before the employee ceases to be an employee of the Telstra body:
+
+                     (a)  request the Telstra body not to make a payment to the employee under this section; or
+
+                     (b)  request the Telstra body to make a payment under subsection (4), (5) or (6) of a stated amount that is less than the amount that would otherwise be payable under that subsection.
+
+             (8)  The Telstra body must comply with a request made under subsection (7).
+
+             (9)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
+
+                     (a)  that section applied to the employee; and
+
+                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 9C of the _Telstra Corporation Act 1991_”.
+
+##### <a id="9D"></a>9D  Payments on the death of an employee
+
+             (1)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+
+             (2)  If, on or after the third anniversary of the designated day, the employee dies and, immediately before his or her death:
+
+                     (a)  the employee was an employee of a Telstra body; and
+
+                     (b)  the employee’s combined service period was at least one year; and
+
+                     (c)  the employee had one or more dependants;
+
+the Telstra body must make a payment to a dependant, or to 2 or more dependants, of the employee.
+
+             (3)  The total amount of the payment or payments is the amount that would have been payable to the employee under section 9C if, on the day of his or her death, the employee had ceased to be an employee of the Telstra body on or after reaching the minimum retiring age.
+
+             (4)  If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if:
+
+                     (a)  that section applied to an employee of a Telstra body; and
+
+                     (b)  a reference in that section to the approving authority were a reference to the Telstra body; and
+
+                     (c)  for the expression “this Act” in that section there were substituted the expression “section 9D of the _Telstra Corporation Act 1991_”; and
+
+                     (d)  for the expression “subsection 16(7) or 17(5)” in that section there were substituted the expression “section 9D of the _Telstra Corporation Act 1991_”.
+
+##### <a id="9E"></a>9E  Employee’s long service leave credit for the purposes of sections 9B and 9C
+
+             (1)  For the purposes of section 9B, an employee’s long service leave credit is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
+
+                     (a)  starting when the employee started his or her period of service; and
+
+                     (b)  ending on the third anniversary of the designated day;
+
+if the employee had been retrenched on the third anniversary of the designated day.
+
+             (2)  For the purposes of section 9C, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) of this section reduced by any long service leave credit used under section 9B.
+
+##### <a id="9F"></a>9F  Division not to affect an employee’s post-sale long service leave rights
+
+                   To avoid doubt, this Division does not affect an employee’s post-sale long service leave rights.
+
+##### <a id="9G"></a>9G  Saving—Long Service Leave Act
+
+                   If, immediately before the third anniversary of the designated day, the period of service under the Long Service Leave Act of an employee of Telstra is at least 10 years, then:
+
+                     (a)  the employee’s accrued rights under the Long Service Leave Act continue; and
+
+                     (b)  the Long Service Leave Act has effect on and after the third anniversary of the designated day in relation to the employee as if Telstra were an approving authority for the purposes of that Act.
+
+### Division 2—Operation of the Safety, Rehabilitation and Compensation Act 1988
+
+##### <a id="9H"></a>9H  Operation of section 128A of the SRC Act
+
+                   On and after the designated day, section 128A of the SRC Act continues to apply to Telstra as if Telstra were still a prescribed Commonwealth authority for the purposes of that section.
+
+### Division 3—Retirement benefits
+
+##### <a id="9J"></a>9J  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+
+             (1)  This section applies if, immediately before the designated day, an employee of a Telstra body was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
+
+             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, on and after the designated day, while the employee continues to be employed by a Telstra body.
+
+             (3)  This section is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+
+##### <a id="9K"></a>9K  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+
+             (1)  This section applies if, immediately before the designated day, a particular period of employment of a person by a Telstra body was a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+
+             (2)  If employment by the Telstra body ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ on the designated day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
+
+##### <a id="9L"></a>9L  Application of the _Superannuation Act 1976_
+
+                   If an employee of a Telstra body was an eligible employee for the purposes of the _Superannuation Act 1976_ immediately before the designated day, the employee is taken to have ceased to be an eligible employee for the purposes of that Act on the designated day.
+
+### Division 4—Other transitional and saving provisions
+
+##### <a id="9M"></a>9M  Telstra employees not on maternity leave immediately before the designated day
+
+             (1)  This section applies if:
+
+                     (a)  immediately before the designated day, a woman was an employee of Telstra; and
+
+                     (b)  within 12 months after the designated day, the woman would have been entitled to begin leave granted under the Maternity Leave Act if Telstra had continued to be a prescribed authority for the purposes of that Act.
+
+             (2)  On and after the designated day, the Maternity Leave Act continues to apply to the woman in relation to the confinement in respect of which she would have been entitled to leave as if Telstra continued to be a prescribed authority for the purposes of that Act.
+
+##### <a id="9N"></a>9N  Telstra employees on maternity leave on the designated day
+
+             (1)  This section applies if:
+
+                     (a)  immediately before the designated day, a woman was an employee of Telstra; and
+
+                     (b)  on the designated day, the woman is on leave granted under the Maternity Leave Act.
+
+             (2)  On and after the designated day, the Maternity Leave Act continues to apply to the woman in relation to the confinement in respect of which the leave was granted as if Telstra continued to be a prescribed authority for the purposes of that Act.
+
+##### <a id="9P"></a>9P  Saving—_Crimes (Superannuation Benefits) Act 1989_
+
+             (1)  Subject to this section, if a person who was an employee of a Telstra body before the designated day committed a corruption offence while such an employee, then, on and after the designated day, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect of the offence as if the Telstra body continued to be a Commonwealth authority.
+
+             (2)  A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by a Telstra body on or after the designated day.
+
+             (3)  A superannuation scheme in relation to which employer contributions or benefits are paid or payable by a Telstra body is not a superannuation scheme for the purposes of the _Crimes (Superannuation Benefits) Act 1989_ in respect of a corruption offence committed by a person on or after the designated day.
+
+             (4)  Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only order that an amount be paid to the Commonwealth.
+
+             (5)  If:
+
+                     (a)  a person who was an employee of Telstra before the designated day committed a corruption offence while such an employee; and
+
+                     (b)  the person was paid benefits before, on or after that day out of the Consolidated Revenue Fund;
+
+then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only order that an amount be paid to the Commonwealth.
+
+             (6)  Unless the contrary intention appears, expressions used in this section that are also used in the _Crimes (Superannuation Benefits) Act 1989_ have the same meanings in this section as in that Act _._
+
+##### <a id="9Q"></a>9Q  Saving—_Director of Public Prosecutions Act 1983_
+
+                   Even though the _Director of Public Prosecutions Act 1983_ ceases to apply to certain acts, omissions or proceedings in connection with a Telstra body because the Telstra body ceases to be an authority of the Commonwealth for the purposes of that Act, that Act continues on and after the designated day to apply in relation to:
+
+                     (a)  acts or omissions in connection with a Telstra body that occurred before the designated day; and
+
+                     (b)  the taking of civil remedies connected with or arising out of a prosecution that relates to acts or omissions referred to in paragraph (a).
+
+##### <a id="9R"></a>9R  Refund of part of fee paid under section 104A of the SRC Act
+
+             (1)  If:
+
+                     (a)  Telstra has paid a licence fee under section 104A of the SRC Act; and
+
+                     (b)  part of the fee is attributable to the application of paragraph 104A(2)(b) of that Act to the relevant period in which the designated day occurs;
+
+Comcare must pay Telstra the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2006C00662/Html/TelstraCorpn1991WD02_image003.gif)
+
+where:
+
+                    <a name="applic-part-fee"></a>**_applicable part of the fee_** means the part of the fee mentioned in paragraph (b).
+
+                    <a name="number-refund-dai"></a>**_number of refund days_** means the total number of days in the period beginning on the designated day and ending on the last day of the relevant period in which the designated day occurs.
+
+             (2)  In this section:
+
+                    <a name="relev-period"></a>**_relevant period_** has the same meaning as in section 104A of the SRC Act.
+
+## 65  Before subsection 36(3)
+
+Insert:
+
+             (1)  The Auditor-General may, by written notice given to Telstra, resign as auditor of Telstra.
+
+             (2)  Subsections (3), (3A) and (4) are repealed at whichever is the earlier of the following times:
+
+                     (a)  the time when the Auditor-General resigns in accordance with subsection (1);
+
+                     (b)  the end of the first annual general meeting of Telstra held after the designated day.
+
+          (2A)  Even if subsections (3), (3A) and (4) remain in effect until the end of the first annual general meeting of Telstra held after the designated day, a replacement auditor may be appointed at the meeting, in accordance with the _Corporations Act 2001_, as if a vacancy in the office of auditor had arisen at the start of the meeting.
 
 The following amendments commence on the 85% sale day declared under section 4:
 
@@ -6227,7 +6119,7 @@ Repeal the section.
 
 Repeal the Part.
 
-As at 18 December 2006 the amendments are not incorporated in this compilation.
+As at 27 March 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
