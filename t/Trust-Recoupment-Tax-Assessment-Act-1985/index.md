@@ -1,30 +1,28 @@
 
 Trust Recoupment Tax Assessment Act 1985 
 Act No. 9 of 1985 as amended
-This compilation was prepared on1 June 2000  taking into account amendments up to Act No. 44 of 2000
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 1 July 1999
+(includes amendments up to Act No. 11 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-4	Application of tax legislation	5
+4	Application of Assessment Act	5
 5	Primary taxable amounts	7
-6	Secondary taxable amounts	12
+6	Secondary taxable amounts	13
 7	Requests to eliminate trust recoupment tax on certain taxable amounts	15
 8	Liability to pay trust recoupment tax	23
-9	Reduction of liability where tax paid	23
-10	Right of contribution and apportionment of liability	24
-12	Penalty tax	25
-13	Arrangements etc. to avoid operation of Act	29
-14	Regulations	32
-Notes to the Trust Recoupment Tax Assessment Act 1985	33
+9	Reduction of liability where tax paid	24
+10	Right of contribution and apportionment of liability	25
+12	Penalty tax	26
+13	Arrangements etc. to avoid operation of Act	30
+14	Regulations	33
+Notes 		35
 An Act relating to the assessment and collection of a tax in respect of income of certain trusts
-  
-  
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Trust Recoupment Tax Assessment Act 1985.
 2  Commencement [see Note 1]
@@ -81,17 +79,17 @@ trust recoupment tax means tax assessed under this Act and imposed by the Trust 
 it would be concluded that the person, or any of the persons, who entered into or carried out the scheme or any part of the scheme did so for the purpose of securing that a person or persons (whether or not a particular person or particular persons) who, if the scheme had not been entered into or carried out, would have been liable to pay income tax in respect of a year of income would not be liable to pay income tax in respect of that year of income or would be liable to pay less income tax in respect of that year of income than the person or persons would have been liable to pay if the scheme had not been entered into or carried out.
 	(5)	In subsection (4):
 	(a)	a reference to the carrying out of a scheme or a part of a scheme by a person shall be read as including a reference to the carrying out of a scheme or a part of a scheme by a person together with another person or other persons; and
-	(b)	a reference to a scheme or a part of a scheme being entered into or carried out by a person for a particular purpose shall be read as including a reference to a scheme or a part of a scheme being entered into or carried out by the person for 2 or more purposes of which that particular purpose is the dominant purpose.
+	(b)	a reference to a scheme or a part of a scheme being entered into or carried out by a person for a particular purpose shall be read as including a reference to a scheme or a part of a scheme being entered into or carried out by the person for 2 or more purposes of which that particular purpose is the dominant purpose.
 	(6)	For the purposes of this Act, trust recoupment tax that has been assessed shall be deemed to be payable notwithstanding that it has not become due and payable.
-4  Application of tax legislation
+4  Application of Assessment Act
 	(1)	Unless the contrary intention appears in this Act, sections 6 and 7A, Part II, section 21, Part IV, Division 1 of Part VI, and Parts VII and VIII of the Assessment Act, and regulations made under that Act, apply for the purposes of the assessment and collection of trust recoupment tax and penalty tax, in like manner, mutatis mutandis, as those provisions apply for the purposes of the assessment and collection of income tax under the Assessment Act.
 	(2)	A reference in this Act to a provision of the Assessment Act shall, unless the contrary intention appears, be read as a reference to that provision in its application, in accordance with subsection (1), for the purposes of this Act.
 	(3)	For the purposes of section 14 of the Assessment Act, this Act shall be deemed to be part of the Assessment Act.
 	(4)	Nothing in section 16 of the Assessment Act prevents:
-	(a)	the disclosure, to a person who is, or in the opinion of the Commissioner is likely to become, liable to pay trust recoupment tax, or to pay income tax by virtue of the operation of section 7 of this Act, of information relating to the affairs of another person where that information was, or in the opinion of the Commissioner is likely to be, taken into account in the assessment of the liability of the first‑mentioned person to pay trust recoupment tax, or to pay income tax by virtue of the operation of section 7 of this Act, as the case may be; or
+	(a)	the disclosure, to a person who is, or in the opinion of the Commissioner is likely to become, liable to pay trust recoupment tax, or to pay income tax by virtue of the operation of section 7 of this Act, of information relating to the affairs of another person where that information was, or in the opinion of the Commissioner is likely to be, taken into account in the assessment of the liability of the first-mentioned person to pay trust recoupment tax, or to pay income tax by virtue of the operation of section 7 of this Act, as the case may be; or
 	(b)	the disclosure, to a person who is, or in the opinion of the Commissioner is likely to become, jointly and severally liable with other persons to pay trust recoupment tax, of the identity of, and particulars of the liability of, any of the other persons liable to pay that trust recoupment tax.
 	(5)	Nothing in section 170 of the Assessment Act prevents the amendment, at any time, of an assessment for the purpose of giving effect to subsection 6(2) or section 7 of this Act.
-	(6)	Proceedings shall not be instituted against a person under section 209 of the Assessment Act, or subsection 255‑5(2) in Schedule 1 to the Taxation Administration Act 1953, for the recovery of any trust recoupment tax, or penalty tax, payable on a secondary taxable amount unless:
+	(6)	Proceedings shall not be instituted against a person under section 209 of the Assessment Act for the recovery of any trust recoupment tax, or penalty tax, payable on a secondary taxable amount unless:
 	(a)	the notice of assessment in respect of that tax was served on the person; or
 	(b)	the Commissioner has served on the person a notice in writing to the effect that it is intended to commence proceedings for recovery of that tax and a period of 30 days has expired after the date of service of the notice.
 	(7)	Unless the contrary intention appears, a reference in section 215 of the Assessment Act to tax shall be deemed to include a reference to:
@@ -113,14 +111,14 @@ the following provisions have effect:
 	(f)	the beneficiary shall, for the purposes of the Assessment Act other than sections 99 and 99A, be deemed not to be, and never to have been, presently entitled to the relevant trust income;
 	(g)	a primary taxable amount equal to the relevant amount shall be taken to exist in relation to the trustee of the trust estate in relation to the relevant year of income.
 	(2)	Subject to subsection (3), where:
-	(a)	by reason of the application of subsection (1) or of this subsection, a primary taxable amount exists in relation to the trustee of a trust estate (in this subsection referred to as the sub‑trust) in relation to a year of income (in this subsection referred to as the relevant year of income) in relation to a tax avoidance scheme (in this subsection referred to as the relevant scheme);
-	(b)	apart from this section and section 100A of the Assessment Act, the trustee of the sub‑trust:
+	(a)	by reason of the application of subsection (1) or of this subsection, a primary taxable amount exists in relation to the trustee of a trust estate (in this subsection referred to as the sub-trust) in relation to a year of income (in this subsection referred to as the relevant year of income) in relation to a tax avoidance scheme (in this subsection referred to as the relevant scheme);
+	(b)	apart from this section and section 100A of the Assessment Act, the trustee of the sub-trust:
 	(i)	was presently entitled to a share of the income of another trust estate (in this subsection referred to as the head trust) of the relevant year of income;
-	(ii)	would, by reason that income of another trust estate (in this subsection also referred to as the head trust) of the relevant year of income was paid to, or applied for the benefit of, the trustee of the sub‑trust, have been deemed, for the purposes of the Assessment Act, to be presently entitled to income of the head trust; or
-	(iii)	would, by reason that the trustee of the sub‑trust had a vested and indefeasible interest in any of the income of another trust estate (in this subsection also referred to as the head trust) of the relevant year of income, have been deemed, for the purposes of the Assessment Act, to be presently entitled to that income of the head trust;
-	(c)	in a case to which subparagraph (b)(i) applies—the present entitlement of the trustee of the sub‑trust to the share or to a part of the share (which share or part is in this subsection referred to as the relevant head trust income) of the income of the head trust referred to in that subparagraph arose out of the relevant scheme or arose by reason of any act, transaction or circumstance that occurred as part of, in connection with or as a result of the relevant scheme;
+	(ii)	would, by reason that income of another trust estate (in this subsection also referred to as the head trust) of the relevant year of income was paid to, or applied for the benefit of, the trustee of the sub-trust, have been deemed, for the purposes of the Assessment Act, to be presently entitled to income of the head trust; or
+	(iii)	would, by reason that the trustee of the sub-trust had a vested and indefeasible interest in any of the income of another trust estate (in this subsection also referred to as the head trust) of the relevant year of income, have been deemed, for the purposes of the Assessment Act, to be presently entitled to that income of the head trust;
+	(c)	in a case to which subparagraph (b)(i) applies—the present entitlement of the trustee of the sub-trust to the share or to a part of the share (which share or part is in this subsection referred to as the relevant head trust income) of the income of the head trust referred to in that subparagraph arose out of the relevant scheme or arose by reason of any act, transaction or circumstance that occurred as part of, in connection with or as a result of the relevant scheme;
 	(d)	in a case to which subparagraph (b)(ii) applies—the whole or a part (which whole or part is in this subsection also referred to as the relevant head trust income) of the income of the head trust referred to in that subparagraph was paid or applied as mentioned in that subparagraph as a result of the relevant scheme or as a result of any act, transaction or circumstance that occurred as part of, in connection with or as a result of the relevant scheme; and
-	(e)	in a case to which subparagraph (b)(iii) applies—the vested and indefeasible interest of the trustee of the sub‑trust in the whole or a part (which whole or part is in this subsection also referred to as the relevant head trust income) of the income of the head trust referred to in that subparagraph arose out of the relevant scheme or arose by reason of any act, transaction or circumstance that occurred as part of, in connection with or as a result of the relevant scheme;
+	(e)	in a case to which subparagraph (b)(iii) applies—the vested and indefeasible interest of the trustee of the sub-trust in the whole or a part (which whole or part is in this subsection also referred to as the relevant head trust income) of the income of the head trust referred to in that subparagraph arose out of the relevant scheme or arose by reason of any act, transaction or circumstance that occurred as part of, in connection with or as a result of the relevant scheme;
 the following provisions have effect:
 	(f)	the primary taxable amount referred to in paragraph (a) shall be reduced by so much of that amount as is attributable to the relevant head trust income;
 	(g)	a primary taxable amount equal to the amount of the reduction referred to in paragraph (f) shall be taken to exist in relation to the trustee of the head trust in relation to the relevant year of income.
@@ -133,7 +131,7 @@ the following provisions have effect:
 the vested and indefeasible interest of the beneficiary in so much of the increased amount as exceeds the original amount shall be taken to have arisen out of the tax avoidance scheme.
 	(5)	In paragraph (1)(d) a reference to the present value of a benefit that has been, will be, or may reasonably be expected to be, derived by a beneficiary of a trust estate as a consequence of a vested and indefeasible interest of the beneficiary in the relevant trust income referred to in that paragraph is a reference to:
 	(a)	where the benefit was derived before the end of the year of income in which the relevant trust income was derived—the amount or value of the benefit at the time at which it was derived; or
-	(b)	in any other case—an amount ascertained in accordance with the formula  where:
+	(b)	in any other case—an amount ascertained in accordance with the formula , where:
 	A	is the amount or value of the benefit at the time at which it was, will be, or may reasonably be expected to be, derived; and
 	n	is the number of years between the end of the year of income in which the relevant trust income was derived and the time referred to in component A.
 	(6)	For the purposes of paragraph (2)(c), but without limiting the generality of that paragraph, where:
@@ -170,8 +168,8 @@ a secondary taxable amount shall be taken to exist in relation to the eligible b
 	(a)	a benefit referred to in paragraph 5(1)(d) derived by a beneficiary to whom paragraph 5(1)(f) applies; and
 	(b)	a benefit derived by a person (not being a person who at any time after the time when the tax avoidance scheme to which the primary taxable amount relates was entered into was an associate of the trustee of the trust estate in relation to which the primary taxable amount exists) from a transaction the parties to which were dealing with each other at arm’s length in relation to the transaction.
 	(6)	For the purposes of the application of this Act in relation to trust recoupment tax payable or paid on a secondary taxable amount, the eligible beneficiaries class in relation to the secondary taxable amount shall not be taken to include any person who was not included in that class at the time when the notice of assessment in respect of the trust recoupment tax was served.
-	(7)	For the purposes of this section, a trust estate is a holding trust estate in relation to another trust estate at a particular time if the trustee of the first‑mentioned trust estate has a beneficial interest in the other trust estate at that time.
-	(8)	For the purposes of subsection (7), where the trustee of a trust estate has a beneficial interest in a second trust estate and the trustee of the second trust estate has a beneficial interest in a third trust estate (including a beneficial interest that the trustee of the second trust estate has in the third trust estate by another application or other applications of this subsection), the trustee of the first‑mentioned trust estate shall be deemed to have a beneficial interest in the third trust estate.
+	(7)	For the purposes of this section, a trust estate is a holding trust estate in relation to another trust estate at a particular time if the trustee of the first-mentioned trust estate has a beneficial interest in the other trust estate at that time.
+	(8)	For the purposes of subsection (7), where the trustee of a trust estate has a beneficial interest in a second trust estate and the trustee of the second trust estate has a beneficial interest in a third trust estate (including a beneficial interest that the trustee of the second trust estate has in the third trust estate by another application or other applications of this subsection), the trustee of the first-mentioned trust estate shall be deemed to have a beneficial interest in the third trust estate.
 	(9)	In this section, unless the contrary intention appears, trust recoupment tax includes late payment tax and penalty tax.
 7  Requests to eliminate trust recoupment tax on certain taxable amounts
 	(1)	Subject to subsections (3) and (5), where:
@@ -195,7 +193,7 @@ the prescribed person or all the prescribed persons, as the case may be, may, wi
 	(B)	an amount in relation to the other person or each of the other persons (if any) who would, apart from subsection (3), be entitled to make the request under subsection (1);
 		such that the sum of:
 	(C)	the relevant company amount or the relevant company amounts, as the case may be; and
-	(D)	the amount, or the amounts, as the case may be, specified under sub‑subparagraph (B);
+	(D)	the amount, or the amounts, as the case may be, specified under sub-subparagraph (B);
 		equals the relevant taxable amount; and
 	(ii)	specify in relation to the person, or in relation to each of the persons, entitled by virtue of subsection (3) to make the request in lieu of a company referred to in subparagraph (i) an amount such that the amount, or the aggregate of the amounts, as the case may be, specified in relation to the company equals 48.6% of the relevant company amount in relation to the company;
 	(d)	in the case of a request made by a person or persons under subsection (2)—specify an amount in relation to the person equal to 48.6% of the relevant taxable amount, or amounts in relation to the persons equal in the aggregate to 48.6% of the relevant taxable amount, as the case may be; and
@@ -224,7 +222,7 @@ may grant the request or refuse the request.
 	(7)	Subject to subsection (9), where a request made under subsection (1) in relation to a primary taxable amount (in this subsection referred to as the relevant taxable amount) is granted by the Commissioner, the following provisions have effect:
 	(a)	in relation to each person making the request who is entitled to make the request apart from subsection (3):
 	(i)	where the person is a prescribed person, then, for the purposes of the Assessment Act, but subject to section 128D of that Act and to the application of any relevant exempting provision:
-	(A)	an amount equal to the amount specified in the request under paragraph (4)(b) or sub‑subparagraph (4)(c)(i)(B), as the case may be, in relation to the person shall be included in the assessable income of the person of the year of income to which the relevant taxable amount relates; and
+	(A)	an amount equal to the amount specified in the request under paragraph (4)(b) or sub-subparagraph (4)(c)(i)(B), as the case may be, in relation to the person shall be included in the assessable income of the person of the year of income to which the relevant taxable amount relates; and
 	(B)	the amount shall be deemed to be included in that assessable income by virtue of subsection 97(1) of the Assessment Act and by reason that the person was presently entitled to a share of the primary trust income in relation to the relevant taxable amount; and
 	(ii)	where the person is a company not being a prescribed person—an elected taxable amount shall be taken to exist, in relation to the year of income in relation to which the relevant taxable amount exists, of an amount equal to the amount specified in the request under paragraph (4)(b) in relation to the person;
 	(b)	in relation to each person making the request by virtue of the application of subsection (3) in relation to a company:
@@ -277,11 +275,11 @@ an amount equal to the amount paid as mentioned in paragraph (b) shall be deemed
 	(b)	a person included in that eligible beneficiaries class has paid any of that trust recoupment tax;
 the person referred to in paragraph (b) may, in a court of competent jurisdiction, recover by way of contribution and as a debt from any of the other persons included in the class such part of the amount paid as the court considers just and equitable.
 	(2)	Where proceedings against a person under section 209 of the Assessment Act for recovery of any trust recoupment tax payable on a secondary taxable amount are instituted in any court, the court may:
-	(a)	on the application of the person, join, as co‑defendant or as co‑defendants in the proceedings, a specified person or specified persons who are included in the eligible beneficiaries class in relation to the secondary taxable amount; and
+	(a)	on the application of the person, join, as co-defendant or as co-defendants in the proceedings, a specified person or specified persons who are included in the eligible beneficiaries class in relation to the secondary taxable amount; and
 	(b)	having regard to:
-	(i)	the amount or value of any benefit that each co‑defendant has derived, or might reasonably be expected to derive, being a benefit to which subsection 6(4) applies in relation to the person concerned in relation to the secondary taxable amount; and
+	(i)	the amount or value of any benefit that each co-defendant has derived, or might reasonably be expected to derive, being a benefit to which subsection 6(4) applies in relation to the person concerned in relation to the secondary taxable amount; and
 	(ii)	any other relevant circumstances;
-		determine, on just and equitable grounds, the respective proportions of the amount of the trust recoupment tax that the co‑defendants are liable to pay.
+		determine, on just and equitable grounds, the respective proportions of the amount of the trust recoupment tax that the co-defendants are liable to pay.
 	(3)	In this section trust recoupment tax includes late payment tax and penalty tax.
 12  Penalty tax
 	(1)	Where:
@@ -289,7 +287,7 @@ the person referred to in paragraph (b) may, in a court of competent jurisdictio
 	(b)	the tax avoidance scheme to which the taxable amount relates was entered into after 28 April 1983 and before the commencement of this Act;
 	(c)	the assessment is to be made in a quarter (in this subsection referred to as the assessment quarter) commencing after the end of the year of income that immediately succeeded the year of income to which the taxable amount relates; and
 	(d)	the index number in relation to the quarter immediately preceding the assessment quarter exceeds the index number in relation to the March quarter of the year of income that immediately succeeded the year of income to which the taxable amount relates;
-the person is liable or, in the case of persons included in an eligible beneficiaries class, the persons are jointly and severally liable, to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula  where:
+the person is liable or, in the case of persons included in an eligible beneficiaries class, the persons are jointly and severally liable, to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ,  – A where:
 A	is the amount of the trust recoupment tax referred to in 	paragraph (a);
 B	is the index number in relation to the quarter immediately 	preceding the assessment quarter; and
 C	is the index number in relation to the March quarter referred 	to in paragraph (d).
@@ -301,7 +299,7 @@ C	is the index number in relation to the March quarter referred 	to in paragraph
 	(ii)	there would have been assessable to the person in relation to the relevant year of income an amount of income tax (in this subsection referred to as the amount of claimed tax) that is less than the amount of the income tax referred to in paragraph (a);
 	(d)	the assessment is to be made in a quarter (in this subsection referred to as the assessment quarter) commencing after the end of the year of income that immediately succeeded the relevant year of income; and
 	(e)	the index number in relation to the quarter immediately preceding the assessment quarter exceeds the index number in relation to the March quarter of the year of income that immediately succeeded the relevant year of income;
-the person is liable to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula  where:
+the person is liable to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula – A , where:
 A	is:
 	(f)	in a case to which subparagraph (c)(i) applies—the amount of the income tax referred to in paragraph (a); or
 	(g)	in a case to which subparagraph (c)(ii) applies—the amount by which the amount of the income tax referred to in paragraph (a) exceeds the amount of claimed tax;
@@ -328,7 +326,7 @@ the person is liable to pay, by way of penalty, additional tax equal to:
 	(10)	In this section, index number, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of the quarter.
 13  Arrangements etc. to avoid operation of Act
 	(1)	Where:
-	(a)	a scheme entered into or carried out by a person after 28 April 1983 would, but for this section, have the effect of in any way, directly or indirectly, defeating, evading or avoiding any liability of the person to pay trust recoupment tax; and
+	(a)	a scheme entered into or carried out by a person after 28 April 1983 would, but for this section, have the effect of in any way, directly or indirectly, defeating, evading or avoiding any liability of the person to pay trust recoupment tax; and
 	(b)	it would be reasonable to conclude or infer that the person entered into or carried out the scheme for the purpose of in any way, directly or indirectly, defeating, evading or avoiding any liability of the person to pay trust recoupment tax or future trust recoupment tax;
 then, in any prescribed recovery proceedings, the scheme shall be treated as being void in so far as it would, but for this section, have the effect mentioned in paragraph (a) but without prejudice to such validity as the scheme may have for any other purpose.
 	(2)	Without limiting the generality of subsection (1), where:
@@ -364,14 +362,13 @@ prescribed recovery proceedings, in relation to trust recoupment tax, means:
 	(c)	proceedings by a trustee within the meaning of the Bankruptcy Act 1966 or by a liquidator, being proceedings for the benefit of the Crown, the Commissioner or a Deputy Commissioner or for the benefit of persons including the Crown, the Commissioner or a Deputy Commissioner.
 trust recoupment tax includes applied penalty tax, late payment tax and penalty tax.
 14  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+		The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 and, in particular, may make regulations prescribing penalties not exceeding a fine of $500 for offences against the regulations.
 Notes to the Trust Recoupment Tax Assessment Act 1985
 Note 1
-The Trust Recoupment Tax Assessment Act 1985 as shown in this compilation comprises Act No. 9, 1985 amended as indicated in the Tables below. 
-All relevant information pertaining to application, saving or transitional provisions prior to 3 May 2000 is not included in this compilation. For subsequent information see Table A.
+The Trust Recoupment Tax Assessment Act 1985 as shown in this consolidation comprises Act No. 9, 1985 amended as indicated in the Tables below. 
 Table of Acts
 Act
 Number  and year
@@ -398,7 +395,7 @@ Taxation Laws Amendment Act (No. 3) 1991
 24 Dec 1991
 S. 113: 1 Mar 1992 (see Gazette 1992, No. GN7) (a)
 S. 114
-Income Tax (Consequential Amendments) Act 1997
+Income Tax  (Consequential Amendments) Act 1997
 39, 1997
 17 Apr 1997
 1 July 1997
@@ -408,49 +405,24 @@ Taxation Laws Amendment Act (No. 3) 1999
 31 Mar 1999
 Schedule 1 (item 395): 1 July 1999 (b)
 —
-A New Tax System (Tax Administration) Act (No. 1) 2000
-44, 2000
-3 May 2000
-Schedule 3 (item 72): (c) Schedule 3 (items 73, 74): [see (c) Note 2 and Table A]
-Sch. 3 (item 74) [see Table A]
 
 (a)	The Trust Recoupment Tax Assessment Act 1985 was amended by section 113 only of the Taxation Laws Amendment Act (No. 3) 1991, subsection 2(10) of which provides as follows:
 	(10)	Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation. 
 (b)	The Trust Recoupment Tax Assessment Act 1985 was amended by Schedule 1 (item 395) only of the Taxation Laws Amendment Act (No. 3) 1999, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999. 
-(c)	The Trust Recoupment Tax Assessment Act 1985 was amended by Schedule 3 (items 72 and 73) only of the A New Tax System (Tax Administration) Act (No. 1) 2000, subsections 2(1) and (9) of which provides as follows:
-	(1)	Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the A New Tax System (Tax Administration) Act 1999.
-	(9)	Items 39, 40, 52, 53, 73 and 74 of Schedule 3 commence, or are taken to have commenced, on 1 July 2000. [see Note 2]
-	Section 1 commenced on 22 December 1999.
 
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
 am. No. 39, 1997
-Heading to s. 4	
-am. No. 44, 2000
 S. 4	
-am. No. 216, 1991; No. 44, 2000
+am. No. 216, 1991
 S. 6	
 am. No. 109, 1986; No. 70, 1989
 S. 11	
 rep. No. 11, 1999
 
-Note 2
-A New Tax System (Tax Administration) Act (No. 1) 2000 (No. 44, 2000)
-The following amendment commences on 1 July 2000:
-Schedule 3
-73  Subsection 4(8)
-Repeal the subsection.
-As at 1 June 2000 the amendment is not incorporated in this compilation.
-Table A
-Application, saving or transitional provisions
-A New Tax System (Tax Administration) Act (No. 1) 2000 (No. 44, 2000)
-The following provision commences on 1 July 2000:
-Schedule 3
-74  Saving
-Despite the repeal of subsection 4(8) of the Trust Recoupment Tax Assessment Act 1985 by item 73, that subsection continues to have effect in relation to a person who dies before 1 July 2000.
-      
 
