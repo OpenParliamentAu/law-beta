@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00105/Html/FederalMagis1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00007/Html/FederalMagis1999WD02_image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 1 March 2009
+This compilation was prepared on 1 January 2009
  taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force
@@ -717,7 +717,7 @@ all remedies to which any of the parties appears to be entitled in respect of a 
 
                      (d)  all multiplicity of proceedings concerning any of those matters may be avoided.
 
-##### <a id="15"></a>15  Making of orders and issue of writs
+##### <a id="15"></a>15  Making of orders and issue of writs
 
                    The Federal Magistrates Court has power, in relation to matters in which it has jurisdiction, to:
 
@@ -2313,7 +2313,7 @@ for the services of officer or employees of the Agency or authority to be made a
 
                       (l)  the power, in family law or child support proceedings, to make:
 
-                              (i)  an order under section 66Q, 67E, 77 or 90SG of the _Family Law Act 1975_; or
+                              (i)  an order under section 66Q, 67E or 77 of the _Family Law Act 1975_; or
 
                              (ii)  an order for the payment of maintenance pending the disposal of the proceedings;
 
@@ -2557,7 +2557,7 @@ Note:          For the interpretation of this Act, see section
 
                               (i)  proceedings in the Federal Magistrates Court;
 
-                             (ii)  the service or the execution of the process of the Federal Magistrates Court by officers of the Federal Magistrates Court;
+                             (ii)  the service or the execution of the process of the Federal Magistrates Court by officers of the Federal Magistrates   Court;
 
                      (b)  exemptions from fees covered by paragraph (a);
 
@@ -3300,7 +3300,7 @@ Remainder: Royal Assent</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 32): 1 Mar 2009</div>
+    <div>Schedule 2 (item 32): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4027,7 +4027,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
     <div>S. 102</div>
   </td>
   <td>
-    <div>am. No. 46, 2006; No. 115, 2008</div>
+    <div>am. No. 46, 2006</div>
   </td>
 </tr>
 <tr>
@@ -4255,6 +4255,20 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
   </td>
 </tr></table>
 
+### Note 2
+
+_Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008 (No. 115, 2008)_
+
+The following amendment commences on 21 May 2009 unless proclaimed earlier:
+
+## Schedule 2
+
+## 32  Subparagraph 102(2)(l)(i)
+
+Omit “or 77”, substitute “, 77 or 90SG”.
+
+As at 1 January 2009 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4435,5 +4449,7 @@ The amendments of the _Federal Magistrates Act 1999_ made by this Schedule apply
                      (a)  held office as a Federal Magistrate; or
 
                      (b)  was a retired disabled Federal Magistrate.
+
+ 
 
  
