@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00838/Html/e3930b2e-1904-4815-a56f-928f6c633a85_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00025/Html/OlymipicInsigProtect198756_image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,77 +14,77 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Chapter 1—Introduction** 
+**Chapter 1—Introduction** 
 
 **Part 1.1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[1A](#1A).         Simplified outline                                                                                 1
+[1A](#1A).         Simplified outline
 
 **Chapter 2—Copyright and design protection** 
 
 **Part 2.1—Introduction**
 
-[2](#2).            Interpretation                                                                                        2
+[2](#2).            Interpretation
 
-[2A](#2A).         Artistic work of olympic torch and flame may be prescribed               4
+[2A](#2A).         Artistic work of olympic torch and flame may be prescribed
 
-[3](#3).            Act to bind Crown                                                                               4
+[3](#3).            Act to bind Crown
 
-[4](#4).            Extension of Act to external Territories                                                4
+[4](#4).            Extension of Act to external Territories
 
 **Part 2.2—Copyright protection**
 
-[5](#5).            Ownership etc  of copyright in the olympic symbol                             5
+[5](#5).            Ownership etc  of copyright in the olympic symbol
 
 **Part 2.3—Design protection**
 
-[6](#6).            Ownership of design of olympic symbol                                             6
+[6](#6).            Ownership of design of olympic symbol
 
-[7](#7).            Monopoly of design                                                                             6
+[7](#7).            Monopoly of design
 
-[8](#8).            Infringement of monopoly in protected design                                     6
+[8](#8).            Infringement of monopoly in protected design
 
-[9](#9).            Remedies for infringement of monopoly in protected design               8
+[9](#9).            Remedies for infringement of monopoly in protected design
 
-[9A](#9A).         Australian Consumer Law  provides further remedies                          8
+[9A](#9A).         Australian Consumer Law  provides further remedies
 
-[10](#10).          Registration of designs                                                                         9
+[10](#10).          Registration of designs
 
-[11](#11).          Extension or reduction of protection periods in relation to registered olympic designs            10
+[11](#11).          Extension or reduction of protection periods in relation to registered olympic designs
 
-[11A](#11A).       Reduction of protection periods for registered torch and flame designs 12
+[11A](#11A).       Reduction of protection periods for registered torch and flame designs
 
-[12](#12).          Register of Olympic Designs                                                             12
+[12](#12).          Register of Olympic Designs
 
-[13](#13).          Delegation                                                                                          13
+[13](#13).          Delegation
 
-[14](#14).          Approved forms                                                                                 13
+[14](#14).          Approved forms
 
-[14A](#14A).       Doing act when Designs Office reopens after end of period otherwise provided for doing act                13
+[14A](#14A).       Doing act when Designs Office reopens after end of period otherwise provided for doing act
 
 **Part 2.4—Miscellaneous**
 
-[15](#15).          Certain purported dispositions or charges to be void                         15
+[15](#15).          Certain purported dispositions or charges to be void
 
-[16](#16).          Validation of certain licences                                                              15
+[16](#16).          Validation of certain licences
 
-[17](#17).          Application of the _Copyright Act 1968_                                               16
+[17](#17).          Application of the _Copyright Act 1968_
 
-[18](#18).          Protected designs not to be registered under the _Designs Act 1906_    17
+[18](#18).          Protected designs not to be registered under the _Designs Act 1906_
 
-[18A](#18A).       AOC to maintain Register of licences                                                17
+[18A](#18A).       AOC to maintain Register of licences
 
-[19](#19).          Certain marks not to be registered under the _Trade Marks Act 1995_ 17
+[19](#19).          Certain marks not to be registered under the _Trade Marks Act 1995_
 
-[20](#20).          Preservation of certain existing rights                                                18
+[20](#20).          Preservation of certain existing rights
 
-[21](#21).          Compensation for acquisition of property                                          19
+[21](#21).          Compensation for acquisition of property
 
 **Chapter 3—Protected olympic expressions** 
 
@@ -92,137 +92,137 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—General provisions**
 
-[22](#22).          Object of Chapter                                                                               20
+[22](#22).          Object of Chapter
 
-[23](#23).          Definitions                                                                                         20
+[23](#23).          Definitions
 
-[24](#24).          Protected olympic expressions                                                           22
+[24](#24).          Protected olympic expressions
 
-[25](#25).          Chapter binds the Crown                                                                   22
+[25](#25).          Chapter binds the Crown
 
-[26](#26).          Application of Chapter                                                                       22
+[26](#26).          Application of Chapter
 
-[27](#27).          Additional operation of Chapter                                                         23
+[27](#27).          Additional operation of Chapter
 
     **Division 2—Use for commercial purposes etc.**
 
-[28](#28).          Application of expressions or statements                                           24
+[28](#28).          Application of expressions or statements
 
-[29](#29).          Sponsorship‑like support                                                                   24
+[29](#29).          Sponsorship-like support
 
-[30](#30).          Use for commercial purposes                                                             25
+[30](#30).          Use for commercial purposes
 
-[31](#31).          Exemption—statements about past participation of Olympians          27
+[31](#31).          Exemption—statements about past participation of Olympians
 
-[32](#32).          Exemption—statements about preparation or training of Olympians by sporting organisations and institutes         28
+[32](#32).          Exemption—statements about preparation or training of Olympians by sporting organisations and institutes
 
-[33](#33).          Exemption—statements about sports‑related personal services          29
+[33](#33).          Exemption—statements about sports-related personal services
 
-[34](#34).          Exemption—statements about supply of goods or services to past teams or Games                30
+[34](#34).          Exemption—statements about supply of goods or services to past teams or Games
 
-[35](#35).          Certain uses not alone sufficient to suggest sponsorship or sponsorship‑like support             31
+[35](#35).          Certain uses not alone sufficient to suggest sponsorship or sponsorship-like support
 
 **Part 3.2—Protection of protected olympic expressions**
 
-[36](#36).          Regulation of use of protected olympic expressions                          32
+[36](#36).          Regulation of use of protected olympic expressions
 
-[37](#37).          Persons involved in contraventions of section 36                              32
+[37](#37).          Persons involved in contraventions of section 36
 
 **Part 3.3—Licensing**
 
-[38](#38).          Licensing by the AOC                                                                       33
+[38](#38).          Licensing by the AOC
 
-[39](#39).          Limitation on licence                                                                          33
+[39](#39).          Limitation on licence
 
-[40](#40).          AOC to maintain Register of licences                                                33
+[40](#40).          AOC to maintain Register of licences
 
 **Part 3.4—Enforcement** 
 
     **Division 1—Remedies**
 
-[41](#41).          Injunctions                                                                                         34
+[41](#41).          Injunctions
 
-[42](#42).          Interim injunctions                                                                             35
+[42](#42).          Interim injunctions
 
-[43](#43).          Corrective advertisements                                                                  35
+[43](#43).          Corrective advertisements
 
-[44](#44).          Damages                                                                                            35
+[44](#44).          Damages
 
-[45](#45).          Account of profits                                                                              36
+[45](#45).          Account of profits
 
-[46](#46).          Destruction or delivery of goods                                                        36
+[46](#46).          Destruction or delivery of goods
 
-[47](#47).          Consent of the AOC to institute remedial proceedings                       37
+[47](#47).          Consent of the AOC to institute remedial proceedings
 
-[48](#48).          Other remedies                                                                                   37
+[48](#48).          Other remedies
 
     **Division 2—Importation of goods**
 
-[49](#49).          Definitions                                                                                         39
+[49](#49).          Definitions
 
-[50](#50).          Determinations about owners of goods                                              39
+[50](#50).          Determinations about owners of goods
 
-[51](#51).          Importation of goods by the AOC                                                     40
+[51](#51).          Importation of goods by the AOC
 
-[52](#52).          Notice of objection to importation                                                      40
+[52](#52).          Notice of objection to importation
 
-[53](#53).          Consent of the AOC to giving of notices                                           41
+[53](#53).          Consent of the AOC to giving of notices
 
-[54](#54).          CEO may seize goods                                                                        41
+[54](#54).          CEO may seize goods
 
-[55](#55).          Notice of seizure                                                                                42
+[55](#55).          Notice of seizure
 
-[56](#56).          Forfeiture of goods—by consent                                                       43
+[56](#56).          Forfeiture of goods—by consent
 
-[57](#57).          Release of goods—no application for injunction                                43
+[57](#57).          Release of goods—no application for injunction
 
-[58](#58).          Application for injunction—additional parties, relief etc                    44
+[58](#58).          Application for injunction—additional parties, relief etc 
 
-[59](#59).          Disposal of goods ordered to be forfeited                                          45
+[59](#59).          Disposal of goods ordered to be forfeited
 
-[60](#60).          Power of CEO to retain control of goods                                           45
+[60](#60).          Power of CEO to retain control of goods
 
-[61](#61).          Insufficient security                                                                            45
+[61](#61).          Insufficient security
 
-[62](#62).          Commonwealth not liable for loss etc  suffered because of seizure    45
+[62](#62).          Commonwealth not liable for loss etc  suffered because of seizure
 
-[63](#63).          Modification in relation to Christmas Island etc                                 45
+[63](#63).          Modification in relation to Christmas Island etc 
 
     **Division 3—Groundless threats**
 
-[64](#64).          Groundless threats of legal proceedings                                             47
+[64](#64).          Groundless threats of legal proceedings
 
-[65](#65).          Counterclaim in action on groundless threats                                     47
+[65](#65).          Counterclaim in action on groundless threats
 
 **Part 3.5—Jurisdiction of prescribed courts etc**
 
-[66](#66).          Prescribed courts                                                                                49
+[66](#66).          Prescribed courts
 
-[67](#67).          Jurisdiction of Federal Court                                                              49
+[67](#67).          Jurisdiction of Federal Court
 
-[68](#68).          Jurisdiction of other prescribed courts                                               49
+[68](#68).          Jurisdiction of other prescribed courts
 
-[69](#69).          Transfer of proceedings                                                                     49
+[69](#69).          Transfer of proceedings
 
 **Part 3.6—Miscellaneous**
 
-[70](#70).          Concurrent operation of State and Territory laws                               51
+[70](#70).          Concurrent operation of State and Territory laws
 
-[71](#71).          Preservation of existing rights                                                            51
+[71](#71).          Preservation of existing rights
 
-[72](#72).          Acquisition of property                                                                      52
+[72](#72).          Acquisition of property
 
-[73](#73).          Implied freedom of political communication                                      52
+[73](#73).          Implied freedom of political communication
 
-[74](#74).          Chapter has effect in addition to contracts                                          53
+[74](#74).          Chapter has effect in addition to contracts
 
-[75](#75).          Validation of certain licences                                                              53
+[75](#75).          Validation of certain licences
 
 **Chapter 4—Regulations** 
 
 **Part 4.1—Regulations**
 
-[76](#76).          Regulations                                                                                        54
+[76](#76).          Regulations
 
 **Schedule—Outline of the olympic symbol** 
 
@@ -250,7 +250,7 @@ protects the olympic insignia by:</li>
 
                (a)     making the AOC the owner of copyright in the olympic symbol; and
 
-              (b)     making the AOC the owner of certain olympic designs; and
+               (b)     making the AOC the owner of certain olympic designs; and
 
                (c)     providing that the olympic motto, the olympic symbol and certain other olympic images must not be registered as trade marks.
 
@@ -350,7 +350,7 @@ holds a licence granted by the AOC.</li>
 
                      (b)  the AOC is the owner of the copyright in the artistic work.
 
-             (3)  The Governor‑General may not make a regulation prescribing an artistic work for a particular Olympic Games before the 1 July that is at least 31/2 years but less than 41/2 years before the opening of those Olympic Games (that is, 6 months before the earliest date on which the protection period for a registered torch and flame design for those Olympic Games could start).
+             (3)  The Governor-General may not make a regulation prescribing an artistic work for a particular Olympic Games before the 1 July that is at least 31/2 years but less than 41/2 years before the opening of those Olympic Games (that is, 6 months before the earliest date on which the protection period for a registered torch and flame design for those Olympic Games could start).
 
 ##### <a id="3"></a>3  Act to bind Crown
 
@@ -448,15 +448,15 @@ the AOC shall, at the end of that period, be deemed to have granted that consent
 
              (7)  Subsection (4) does not affect the granting of an interlocutory injunction on the application of a holder of a licence in relation to a protected design.
 
-             (8)  For the purposes of this section, a design shall not be taken not to be a fraudulent or obvious imitation of a registered olympic design by reason only that the first‑mentioned design does not incorporate the design of the olympic symbol.
+             (8)  For the purposes of this section, a design shall not be taken not to be a fraudulent or obvious imitation of a registered olympic design by reason only that the first-mentioned design does not incorporate the design of the olympic symbol.
 
-             (9)  For the purposes of this section, a design may be a fraudulent or obvious imitation of a registered torch and flame design in relation to an artistic work that incorporates a prescribed torch and flame even though the first‑mentioned design relates to an artistic work that does not include the prescribed olympic torch and flame.
+             (9)  For the purposes of this section, a design may be a fraudulent or obvious imitation of a registered torch and flame design in relation to an artistic work that incorporates a prescribed torch and flame even though the first-mentioned design relates to an artistic work that does not include the prescribed olympic torch and flame.
 
 ##### <a id="9"></a>9  Remedies for infringement of monopoly in protected design
 
                    The relief that the Federal Court may grant in an action or proceeding for the infringement of the monopoly in a protected design includes an injunction (subject to such terms, if any, as the Court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.
 
-##### <a id="9A"></a>9A  Australian Consumer Law  provides further remedies
+##### <a id="9A"></a>9A  Australian Consumer Law  provides further remedies
 
              (1)  The remedies provided under this Chapter in relation to protected designs are in addition to the remedies provided by the Australian Consumer Law  in relation to engaging in conduct that is misleading or deceptive (see section 18 of the Australian Consumer Law) and, in particular, in relation to representations:
 
@@ -574,9 +574,9 @@ before the day on which the application was lodged.
 
                      (b)  the end and extension of protection periods in relation to registered olympic designs; and
 
-                   (ba)  registered torch and flame designs; and
+                    (ba)  registered torch and flame designs; and
 
-                   (bb)  the end of protection periods in relation to registered torch and flame designs; and
+                    (bb)  the end of protection periods in relation to registered torch and flame designs; and
 
                      (c)  any other prescribed matters.
 
@@ -598,7 +598,7 @@ before the day on which the application was lodged.
 
              (8)  A copy of an order under subsection (6) shall be served on the Registrar, who shall, on receipt of the order, take such steps as are necessary to give effect to the order.
 
-             (9)  A defendant in an action or proceeding for the infringement of the monopoly in a protected design may apply, by way of counter‑claim in the action or proceeding, for the rectification of the Register of Olympic Designs by the expunging of the entry of the registration of the design from the Register of Olympic Designs.
+             (9)  A defendant in an action or proceeding for the infringement of the monopoly in a protected design may apply, by way of counter-claim in the action or proceeding, for the rectification of the Register of Olympic Designs by the expunging of the entry of the registration of the design from the Register of Olympic Designs.
 
 ##### <a id="13"></a>13  Delegation
 
@@ -694,11 +694,11 @@ is void.
 
 it is not an infringement of the copyright in the artistic work to apply a design to an article, being:
 
-                     (d)  a design that is a corresponding design in relation to an artistic work that is a public domain version of the first‑mentioned artistic work; or
+                     (d)  a design that is a corresponding design in relation to an artistic work that is a public domain version of the first-mentioned artistic work; or
 
                      (e)  a design that differs from the design referred to in paragraph (d) only in immaterial details or in features commonly used in a relevant trade.
 
-             (5)  For the purposes of subsection (4), where an artistic work incorporates the olympic symbol, the artistic work (if any) that would result from the omission of the olympic symbol from the first‑mentioned artistic work shall be taken to be the public domain version of the first‑mentioned artistic work.
+             (5)  For the purposes of subsection (4), where an artistic work incorporates the olympic symbol, the artistic work (if any) that would result from the omission of the olympic symbol from the first-mentioned artistic work shall be taken to be the public domain version of the first-mentioned artistic work.
 
           (5A)  Where the protection period in relation to a registered torch and flame design has ended, it is not an infringement of the copyright in the artistic work concerned to apply the design to an article.
 
@@ -740,7 +740,7 @@ it is not an infringement of the copyright in the artistic work to apply a desig
 
                      (b)  the olympic symbol;
 
-                   (ba)  where an artistic work of an olympic torch and flame is prescribed for the purposes of section 2A—the artistic work;
+                    (ba)  where an artistic work of an olympic torch and flame is prescribed for the purposes of section 2A—the artistic work;
 
                      (c)  where the design in relation to an artistic work is registered under this Act—the artistic work.
 
@@ -752,7 +752,7 @@ it is not an infringement of the copyright in the artistic work to apply a desig
 
                      (b)  a design registered under the _Designs Act 1906_.
 
-             (2)  Subject to subsection (3), nothing in this Chapter affects the use of a symbol by a person on or after a relevant date if, immediately before that date, the person would have been entitled to prevent another person from passing off, by means of the use of that symbol or of a similar symbol, goods or services as the goods or services of that first‑mentioned person.
+             (2)  Subject to subsection (3), nothing in this Chapter affects the use of a symbol by a person on or after a relevant date if, immediately before that date, the person would have been entitled to prevent another person from passing off, by means of the use of that symbol or of a similar symbol, goods or services as the goods or services of that first-mentioned person.
 
           (2A)  In subsection (2):
 
@@ -792,7 +792,7 @@ it is a defence if the defendant satisfies the court:
 
 ##### <a id="21"></a>21  Compensation for acquisition of property
 
-             (1)  Where, but for this subsection, the operation of a provision of this Chapter would result in the acquisition of property from a person by another person otherwise than on just terms, there is payable to the first‑mentioned person by that other person such amount of compensation as is agreed upon between those persons, or, failing agreement, as is determined by the Federal Court.
+             (1)  Where, but for this subsection, the operation of a provision of this Chapter would result in the acquisition of property from a person by another person otherwise than on just terms, there is payable to the first-mentioned person by that other person such amount of compensation as is agreed upon between those persons, or, failing agreement, as is determined by the Federal Court.
 
              (2)  Any compensation recovered in proceedings that are instituted under this section shall be taken into account in assessing damages or compensation or giving any other remedy in proceedings that are instituted otherwise than by virtue of this Chapter and that arise out of the same event or transaction.
 
@@ -868,7 +868,7 @@ An advertisement may:
 
                     <a name="licens-user"></a>**_licensed user_** means a person in relation to whom a licence is in force.
 
-                    <a name="nation-sport-organis"></a>**_national sporting organisation_** has the same meaning as in the _Australian Sports Anti‑Doping Authority Act 2006_.
+                    <a name="nation-sport-organis"></a>**_national sporting organisation_** has the same meaning as in the _Australian Sports Anti-Doping Authority Act 2006_.
 
                     <a name="olympian"></a>**_Olympian_** means a person who:
 
@@ -882,7 +882,7 @@ An advertisement may:
 
                     <a name="protect-olympic-express"></a>**_protected olympic expression_** has the meaning given by section 24.
 
-                    <a name="sponsorship-support"></a>**_sponsorship‑like support_** has the meaning given by section 29.
+                    <a name="sponsorship-support"></a>**_sponsorship-like support_** has the meaning given by section 29.
 
                     <a name="statem"></a>**_statement_** includes a statement made orally, in writing or in any other way.
 
@@ -982,9 +982,9 @@ the advertisement is taken to promote those goods or services.
 
                     <a name="label"></a>**_label_** includes a band or ticket.
 
-##### <a id="29"></a>29  Sponsorship‑like support
+##### <a id="29"></a>29  Sponsorship-like support
 
-             (1)  For the purposes of this Chapter, a person provides **_sponsorship‑like support_** for:
+             (1)  For the purposes of this Chapter, a person provides **_sponsorship-like support_** for:
 
                      (a)  the AOC; or
 
@@ -1024,7 +1024,7 @@ Use for commercial purposes—situation (1)
 
                      (b)  the application is for advertising or promotional purposes, or is likely to enhance the demand for the goods or services; and
 
-                     (c)  the application, to a reasonable person, would suggest that the first person is or was a sponsor of, or is or was the provider of sponsorship‑like support for:
+                     (c)  the application, to a reasonable person, would suggest that the first person is or was a sponsor of, or is or was the provider of sponsorship-like support for:
 
                               (i)  the AOC; or
 
@@ -1062,7 +1062,7 @@ Use for commercial purposes—situation (2)
 
                      (b)  the application is for advertising or promotional purposes, or is likely to enhance the demand for the goods or services; and
 
-                     (c)  the application, to a reasonable person, would suggest that the first person is or was a sponsor of, or is or was the provider of sponsorship‑like support for:
+                     (c)  the application, to a reasonable person, would suggest that the first person is or was a sponsor of, or is or was the provider of sponsorship-like support for:
 
                               (i)  the AOC; or
 
@@ -1094,7 +1094,7 @@ Definition
 
                     <a name="suppli"></a>**_supply_** includes:
 
-                     (a)  in the case of goods—supply (including re‑supply) by way of sale, exchange, lease, hire or hire‑purchase; and
+                     (a)  in the case of goods—supply (including re-supply) by way of sale, exchange, lease, hire or hire-purchase; and
 
                      (b)  in the case of services—provide, grant or confer.
 
@@ -1114,7 +1114,7 @@ Definition
 
                       (f)  the application of the statement is for advertising or promotional purposes, or is likely to enhance the demand for the goods or services; and
 
-                     (g)  the application of the statement would not suggest, to a reasonable person, that any person is or was a sponsor of, or is or was the provider of sponsorship‑like support for:
+                     (g)  the application of the statement would not suggest, to a reasonable person, that any person is or was a sponsor of, or is or was the provider of sponsorship-like support for:
 
                               (i)  the AOC; or
 
@@ -1156,7 +1156,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
                       (f)  the application of the statement is for advertising or promotional purposes, or is likely to enhance the demand for the goods or services; and
 
-                     (g)  the application of the statement would not suggest, to a reasonable person, that any person is or was a sponsor of, or is or was the provider of sponsorship‑like support for:
+                     (g)  the application of the statement would not suggest, to a reasonable person, that any person is or was a sponsor of, or is or was the provider of sponsorship-like support for:
 
                               (i)  the AOC; or
 
@@ -1182,11 +1182,11 @@ the application of the statement is to be disregarded for the purposes of this C
 
                      (b)  anything done on behalf of, or in the name of, the organisation by the other body is taken to have been done by the organisation.
 
-##### <a id="33"></a>33  Exemption—statements about sports‑related personal services
+##### <a id="33"></a>33  Exemption—statements about sports-related personal services
 
              (1)  For the purposes of this Chapter, if:
 
-                     (a)  a person has provided sports‑related personal services (the **_athlete services_**) to one or more Olympians in the person’s capacity as a member of an Olympic team that participated in a Summer or Winter Olympic Games; and
+                     (a)  a person has provided sports-related personal services (the **_athlete services_**) to one or more Olympians in the person’s capacity as a member of an Olympic team that participated in a Summer or Winter Olympic Games; and
 
                      (b)  the Games have ended; and
 
@@ -1196,7 +1196,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
                      (e)  the statement includes a protected olympic expression; and
 
-                      (f)  the statement is applied to sports‑related personal services of the person (the **_ordinary services_**) that are the same as, or similar to, the athlete services; and
+                      (f)  the statement is applied to sports-related personal services of the person (the **_ordinary services_**) that are the same as, or similar to, the athlete services; and
 
                      (g)  the application of the statement is for advertising or promotional purposes in relation to the ordinary services, or is likely to enhance the demand for the ordinary services;
 
@@ -1204,7 +1204,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
              (2)  In this section:
 
-                    <a name="sport-relat-person-servic"></a>**_sports‑related personal services_** means any of the following:
+                    <a name="sport-relat-person-servic"></a>**_sports-related personal services_** means any of the following:
 
                      (a)  coaching services;
 
@@ -1242,9 +1242,9 @@ the application of the statement is to be disregarded for the purposes of this C
 
 the application of the statement is to be disregarded for the purposes of this Chapter.
 
-##### <a id="35"></a>35  Certain uses not alone sufficient to suggest sponsorship or sponsorship‑like support
+##### <a id="35"></a>35  Certain uses not alone sufficient to suggest sponsorship or sponsorship-like support
 
-             (1)  To avoid doubt, for the purposes of this Chapter, the use of a protected olympic expression for the purposes of, or in connection with, the provision of information or for the purposes of criticism or review is not alone sufficient to suggest a sponsorship, or the provision of sponsorship‑like support, for the purposes of paragraph 30(2)(c) or (3)(c).
+             (1)  To avoid doubt, for the purposes of this Chapter, the use of a protected olympic expression for the purposes of, or in connection with, the provision of information or for the purposes of criticism or review is not alone sufficient to suggest a sponsorship, or the provision of sponsorship-like support, for the purposes of paragraph 30(2)(c) or (3)(c).
 
              (2)  In subsection (1):
 
@@ -1490,7 +1490,7 @@ the AOC is taken to have given the consent.
 
                      (b)  a Sunday; or
 
-                     (c)  a public holiday in the Australian Capital Territory.
+                     (c)  a public holiday in the Australian   Capital Territory.
 
 ##### <a id="50"></a>50  Determinations about owners of goods
 
@@ -1722,11 +1722,11 @@ The court may also award damages for loss that the person aggrieved has suffered
 
                      (b)  the Supreme Court of a State;
 
-                     (c)  the Supreme Court of the Australian Capital Territory;
+                     (c)  the Supreme Court of the Australian   Capital Territory;
 
-                     (d)  the Supreme Court of the Northern Territory;
+                     (d)  the Supreme Court of the Northern   Territory;
 
-                     (e)  the Supreme Court of Norfolk Island.
+                     (e)  the Supreme Court of Norfolk  Island.
 
 ##### <a id="67"></a>67  Jurisdiction of Federal Court
 
@@ -1840,7 +1840,7 @@ Company names
 
 ##### <a id="76"></a>76  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1850,7 +1850,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2011C00838/Html/e3930b2e-1904-4815-a56f-928f6c633a85_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00025/Html/OlymipicInsigProtect198756_image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -1858,17 +1858,15 @@ Subsection 2(1)
 
 The _Olympic Insignia Protection Act 1987_ as shown in this compilation comprises Act No. 27, 1987 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1945,7 +1943,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Sports Anti‑Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
+    <div>Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
   </td>
   <td>
     <div>7, 2006</div>
@@ -1954,7 +1952,7 @@ of Assent</div>
     <div>7 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 9): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
+    <div>Schedule 1 (item 9): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
   </td>
   <td>
     <div>—</div>
@@ -1971,7 +1969,7 @@ of Assent</div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 12 (item 3): 27 Mar 2007</div>
+    <div>Schedule 12 (item 3): 27 Mar 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -1988,8 +1986,8 @@ of Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 76): Royal Assent 
-Schedule 5 (item 137(a)): <i>(a)</i></div>
+    <div>Schedule 5 (item 76): Royal Assent 
+Schedule 5 (item 137(a)): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2003,34 +2001,17 @@ Schedule 5 (item 137(a)): <i>(a)</i></div>
     <div>103, 2010</div>
   </td>
   <td>
-    <div>13 July 2010</div>
+    <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 176–188): 1 Jan 2011</div>
+    <div>Schedule 6 (items 176–188): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 893) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+_(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2112,7 +2093,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revisi
   </td>
   <td>
     <div>
-      1 March 2010
+      1 March 2010
     </div>
   </td>
   <td>
@@ -2132,7 +2113,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revisi
   </td>
   <td>
     <div>
-      1 March 2010
+      1 March 2010
     </div>
   </td>
   <td>
@@ -2144,8 +2125,8 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revisi
 
 <table>
 <colgroup>
-  <col width="33%">
-  <col width="67%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2436,7 +2417,7 @@ of Chapt. 2</div>
     <div>S. 14A</div>
   </td>
   <td>
-    <div>ad. No. 106, 2006</div>
+    <div>ad. No. 106, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2493,7 +2474,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2581,7 +2562,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 2006; No. 8, 2010</div>
+    <div>am. No. 7, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2621,7 +2602,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2669,7 +2650,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2709,7 +2690,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2843,37 +2824,5 @@ Renumbered s. 76</div>
 No. 156, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 893  Section 23 (definition of _continental shelf_)
-
-Repeal the definition.
-
-As at 19 October 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
