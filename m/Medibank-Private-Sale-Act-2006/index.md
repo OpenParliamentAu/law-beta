@@ -1,13 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00143/Html/MedibankPrivSale_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00676/Html/MedibankPrivSale_WD02_image001.gif)
 
 # Medibank Private Sale Act 2006
 
 **Act No. 160 of 2006 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
-
-[**Note:** Schedule 3 of this Act is not in force, _see_ s. 2]
+This compilation was prepared on 17 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -699,7 +697,7 @@ _Note:       Item 11 makes provision for the reimbursement of expe
 
                               (i)  take all reasonable steps to ensure that the contributors to the Medibank Private fund are given a copy of the statement; and
 
-                             (ii)  make a copy of the statement available on Medibank Private’s website;
+                             (ii)  make a copy of the statement available on Medibank Private’s Internet site;
 
                             as soon as practicable.
 
@@ -937,7 +935,7 @@ the Minister for Finance may authorise the payment by the Commonwealth to Mediba
 
                               (i)  take all reasonable steps to ensure that the contributors to the Medibank Private fund are given a copy of the statement; and
 
-                             (ii)  make a copy of the statement available on Medibank Private’s website;
+                             (ii)  make a copy of the statement available on Medibank Private’s Internet site;
 
                             as soon as practicable.
 
@@ -1453,7 +1451,7 @@ this item has effect as if the members or policy holders of the company were sha
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00143/Html/MedibankPrivSale_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00676/Html/MedibankPrivSale_WD02_image002.gif)
 
 where:
 
@@ -1738,10 +1736,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1817,23 +1815,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 7 (item 15)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 70, 71): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1893,7 +1874,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Item 14</div>
+    <div>Items 14–16</div>
   </td>
   <td>
     <div>am. No. 32, 2007</div>
@@ -1901,39 +1882,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Item 15</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 16</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 20, 21</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 22</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 23</div>
+    <div>Items 20–23</div>
   </td>
   <td>
     <div>am. No. 32, 2007</div>
