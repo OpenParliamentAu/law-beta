@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00133/Html/WitnessProtection1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00668/Html/WitnessProtection1994_WD02_image001.gif)
 
 # Witness Protection Act 1994
 
 **Act No. 124 of 1994 as amended**
 
-This compilation was prepared on 26 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 17 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,87 +18,73 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[3AA](#3AA).      Declaration of _complementary witness protection law_                         5
+[3A](#3A).         Application of the _Criminal Code_
 
-[3AB](#3AB).      _State offence that has a federal aspect_                                                  5
+[4](#4).            Establishment of the National Witness Protection Program
 
-[3A](#3A).         Application of the _Criminal Code_                                                       6
+[5](#5).            Inclusion in NWPP not to be done as a reward for giving evidence etc 
 
-[4](#4).            Establishment of the National Witness Protection Program               6
+[6](#6).            Arrangements with approved authorities
 
-[5](#5).            Inclusion in NWPP not to be done as a reward for giving evidence etc   6
+[7](#7).            Witness to disclose certain matters before being included in the NWPP
 
-[6](#6).            Arrangements with approved authorities                                            6
+[8](#8).            Selection for inclusion in the NWPP
 
-[7](#7).            Witness to disclose certain matters before being included in the NWPP 7
+[9](#9).            Memorandum of understanding
 
-[8](#8).            Selection for inclusion in the NWPP                                                   9
+[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies
 
-[9](#9).            Memorandum of understanding                                                         11
+[10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court
 
-[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies               13
+[11](#11).          Register of participants
 
-[10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court       14
+[12](#12).          Access to Register
 
-[11](#11).          Register of participants                                                                     15
+[13](#13).          Action where a witness is included in the NWPP
 
-[12](#12).          Access to Register                                                                             16
+[14](#14).          Special provision in case of marriage of participant
 
-[13](#13).          Action to protect witnesses, participants and former participants etc   17
+[15](#15).          Dealing with rights and obligations of participant
 
-[14](#14).          Special provision in case of marriage of participant                          18
+[16](#16).          Non-disclosure of former identity of participant
 
-[15](#15).          Dealing with rights and obligations of participant                             19
+[17](#17).          Special commercial arrangements by Commissioner
 
-[16](#16).          Non-disclosure of former identity of participant                              20
+[18](#18).          Cessation of protection and assistance
 
-[17](#17).          Special commercial arrangements by Commissioner                         21
+[19](#19).          Restoration of former identity
 
-[18](#18).          Termination of inclusion in NWPP and other protection and assistance                21
+[20](#20).          Provision of information to approved authorities
 
-[19](#19).          Restoration of former identity                                                           24
+[21](#21).          Officers protected from suit in respect of decisions under Act
 
-[20](#20).          Provision of information to approved authorities                             25
+[22](#22).          Offences
 
-[21](#21).          Officers protected from suit in respect of decisions under Act        26
+[23](#23).          Payments under NWPP not able to be confiscated
 
-[22](#22).          Offences relating to Commonwealth or Territory participants         26
+[24](#24).          Restriction on issue of Commonwealth identity documents
 
-[22A](#22A).       Offences relating to State participants                                              29
+[25](#25).          Delegation
 
-[22B](#22B).       Offences relating to disclosure of information about the NWPP      32
+[26](#26).          Commissioner and members not to be required to disclose information
 
-[22C](#22C).       Disclosures to courts, etc                                                                  34
+[27](#27).          Requirement where participant becomes a witness in criminal proceedings
 
-[23](#23).          Payments under NWPP not able to be confiscated                           34
+[28](#28).          Identity of participant not to be disclosed in court proceedings etc 
 
-[24](#24).          Restriction on issue of Commonwealth identity documents             34
+[29](#29).          Transitional
 
-[25](#25).          Delegation                                                                                          35
+[30](#30).          Reports and information for the Minister
 
-[26](#26).          Commissioner and members not to be required to disclose information 35
+[31](#31).          Amendments of other Acts
 
-[27](#27).          Requirement where participant becomes a witness in criminal proceedings           37
-
-[27A](#27A).       Requirement where participant involved in civil proceedings           37
-
-[28](#28).          Identity of participant not to be disclosed in court proceedings etc  38
-
-[28A](#28A).       Offence of contravening an order under section 28                           39
-
-[29](#29).          Transitional                                                                                        39
-
-[30](#30).          Reports and information for the Minister                                         40
-
-[31](#31).          Amendments of other Acts                                                               40
-
-[32](#32).          Regulations                                                                                        40
+[32](#32).          Regulations
 
 **Schedule—Amendments of other Acts** 
 
@@ -156,13 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  makes provision for the protection of witnesses; and
 
-                     (b)  is declared under section 3AA  to be a complementary witness protection law.
-
-                    <a name="current-nwpp-ident"></a>**_current NWPP identity_**, in relation to a participant at a particular time, means an identity:
-
-                     (a)  provided to the participant under the NWPP; and
-
-                     (b)  being used by the participant at that time.
+                     (b)  is declared by the Minister by notice published in the _Gazette_ to be a complementary witness protection law.
 
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of the Australian Federal Police.
 
@@ -176,30 +156,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  that has been declared in writing by the Commissioner to be a designated position for the purposes of this Act.
 
-                    <a name="former-nwpp-ident"></a>**_former NWPP identity_**, in relation to a participant at a particular time, means an identity that:
-
-                     (a)  was provided to the person under the NWPP before that time; and
-
-                     (b)  is not the participant’s current NWPP identity at that time.
-
-                    <a name="former-particip"></a>**_former participant_** means a person who has ceased to be included in the NWPP.
-
-                    <a name="secretari"></a><a name="immigr"></a>**_Immigration_ _Secretary_** means the Secretary of the Department administered by the Minister who administers the _Migration Act 1958_.
-
-                    <a name=""></a><a name="inform"></a>**_information_**, in relation to the identity of a person includes, but is not limited to, information about one or more of the following in relation to the person:
-
-                     (a)  appearance;
-
-                     (b)  voice quality or accent;
-
-                     (c)  mannerisms;
-
-                     (d)  address or location;
-
-                     (e)  particular skills and qualifications;
-
-                      (f)  personal history.
-
                     <a name="member"></a>**_member_** means a member or special member of the Australian Federal Police.
 
                     <a name="nation-secur-clearanc"></a>**_national security clearance_** means a clearance that enables a person to have access to national security information or to an area that has been designated as secure.
@@ -208,11 +164,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="nwpp"></a>**_NWPP_** means the National Witness Protection Program established by this Act.
 
-                    <a name="origin-ident"></a>**_original identity_**, in relation to a participant, means the identity of the participant at the time immediately before he or she was first provided with an identity under the NWPP.
-
                     <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
 
-                    <a name="particip"></a>**_participant_** means a person included in the NWPP and, unless the contrary intention appears, includes a former participant.
+                    <a name="particip"></a>**_participant_** means a person who is included in the NWPP.
 
                     <a name="position-trust-clearanc"></a>**_position of trust clearance_** means a clearance that enables a person to have access to sensitive material or to resources of a valuable or attractive nature.
 
@@ -223,22 +177,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  cause serious harm to a person, a government or the legitimate activities of an agency; or
 
                      (b)  be seriously prejudicial to the establishment and maintenance of lawful methods for the protection of public safety.
-
-                    <a name="state-offenc-feral-aspect"></a>**_State offence that has a federal aspect_** has the meaning given by section 3AB.
-
-                    <a name="state-particip"></a>**_State participant_** means a participant:
-
-                     (a)  in relation to a State offence that has a federal aspect; or
-
-                     (b)  in relation to a State offence that does not have a federal aspect; or
-
-                     (c)  in relation to a commission or inquiry under a law of a State.
-
-                    <a name="territori-particip"></a>**_Territory participant_** means a participant:
-
-                     (a)  in relation to an offence against a law of a Territory; or
-
-                     (b)  in relation to a commission or inquiry under a law of a Territory.
 
                     <a name="wit"></a>**_witness_** means:
 
@@ -254,21 +192,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  a person who, for any other reason, may require protection or other assistance under the NWPP; or
 
-                     (e)  a person who, because of his or her relationship to, or association with, a person referred to in paragraph (a), (b), (c) or (d) may require protection or other assistance under the NWPP.
-
-##### <a id="3AA"></a>3AA  Declaration of _complementary witness protection law_
-
-                   For the purposes of this Act, the Minister may, by legislative instrument, declare a law of a State or Territory to be a **_complementary witness protection law_**.
-
-##### <a id="3AB"></a>3AB  _State offence that has a federal aspect_
-
-                   An offence against a law of a State is taken, for the purposes of this Act, to be a **_State offence that has a federal aspect_**:
-
-                     (a)  in a case where the offence is being investigated by the Australian Federal Police—if it would be taken to be a State offence that has a federal aspect under section 4AA of the _Australian Federal Police Act 1979_; and
-
-                     (b)  in a case where the offence is being investigated by the Australian Crime Commission—if it would be taken to be a State offence that has a federal aspect under section 4A of the _Australian Crime Commission Act 2002_; and
-
-                     (c)  in any other case—if it would be taken to be a State offence that has a federal aspect if either of the sections referred to in paragraphs (a) and (b) were to apply.
+                     (e)  a person who, because of his or her relationship to, or association with, such a person may require protection or other assistance under the NWPP.
 
 ##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
@@ -422,10 +346,6 @@ and may have regard to such other matters as the Commissioner considers relevant
 
 the Commissioner may require the participant to sign another memorandum of understanding.
 
-             (6)  In this section:
-
-                    <a name="particip"></a>**_participant_** does not include a former participant.
-
 ##### <a id="9"></a>9  Memorandum of understanding
 
              (1)  A memorandum of understanding is to:
@@ -475,12 +395,6 @@ the Commissioner may require the participant to sign another memorandum of under
              (6)  Subject to subsection (7), the Commissioner may, by notice in writing given to a participant, vary the memorandum of understanding, and a variation takes effect on the day on which the notice is received by the participant.
 
              (7)  A variation must not have the effect of removing from the memorandum of understanding the provisions referred to in subsection (1).
-
-             (8)  In this section:
-
-                    <a name="particip"></a>**_participant_** does not include a former participant.
-
-             (9)  To avoid doubt, subsection (8) does not affect any obligation of a former participant under a memorandum of understanding if the obligation continues (whether expressly or impliedly) to have effect after the former participant ceased to be included in the NWPP.
 
 ##### <a id="10"></a>10  Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies
 
@@ -572,13 +486,13 @@ the Commissioner is to include the nominated person in the NWPP.
 
                      (a)  the participant’s name;
 
-                     (b)  if the participant has been provided with a new identity under the NWPP—the participant’s new name for each new identity;
+                     (b)  if the participant has been provided with a new identity under the NWPP—the participant’s new name;
 
                      (c)  the participant’s address;
 
                      (d)  details of any offences of which the participant has been convicted;
 
-                     (e)  in the case of a former participant—the date on which the person became a former participant.
+                     (e)  the date on which the person ceases to be a participant.
 
              (4)  The Commissioner is also to include in the Register details of any permissions given by the Commissioner under section 16.
 
@@ -590,9 +504,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
                      (c)  the original of each permission given by the Commissioner under section 16; and
 
-                     (d)  any documents returned to the Commissioner as a result of a notification under subsection 19(6).
-
-             (6)  In this section, **_participant_** and **_former participant_**do not include a person who is a former participant only because of the operation of subsection 13(6).
+                     (d)  any documents returned to the Commissioner as a result of a notification under subsection 19(2).
 
 ##### <a id="12"></a>12  Access to Register
 
@@ -614,7 +526,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
                      (c)  the reasons for allowing access.
 
-##### <a id="13"></a>13  Action to protect witnesses, participants and former participants etc.
+##### <a id="13"></a>13  Action where a witness is included in the NWPP
 
              (1)  If a witness is included in the NWPP, or is being assessed for inclusion in the NWPP, the Commissioner is to take such action as the Commissioner considers necessary and reasonable to protect the witness’s safety and welfare while also protecting the safety of the Commissioner, a Deputy Commissioner, AFP employees and special members of the Australian Federal Police.
 
@@ -626,7 +538,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
                              (ii)  otherwise to protect the witness; and
 
-                     (b)  permitting persons who hold or occupy designated positions to acquire and use assumed identities in accordance with Part IAC of the _Crimes Act 1914_; and
+                     (b)  permitting persons who hold or occupy designated positions to use assumed names in carrying out their duties in relation to the NWPP and to carry documentation supporting those assumed names; and
 
                      (c)  relocating the witness; and
 
@@ -648,19 +560,9 @@ the Commissioner is to include the nominated person in the NWPP.
 
                      (a)  to have qualifications that the witness does not have; or
 
-                     (b)  to be entitled to benefits to which the witness would not otherwise be entitled.
+                     (b)  to be entitled to benefits to which the witness would not be entitled if the witness were not included in the NWPP.
 
              (4)  A Commonwealth officer must not prepare documentation relating to the establishment of a new identity for a participant unless the officer has a national security clearance at the level of “secret” or “top secret” or a position of trust clearance at the level of “highly protected”.
-
-             (5)  The Commissioner may take the actions referred to in subsections (1) and (2) in respect of a former participant, or any other person whose relationship with the former participant is such that the Commissioner is satisfied that it is appropriate to take those actions, as if the former participant or other person were a witness included in the NWPP, if:
-
-                     (a)  the Commissioner considers the actions necessary and reasonable for the protection of the former participant or the other person; and
-
-                     (b)  the Commissioner has assessed the suitability of taking the actions in respect of the former participant or the other person.
-
-             (6)  If the Commissioner takes action under subsection (5) in respect of a person other than a former participant, this Act applies to the person as if the person were a former participant.
-
-             (7)  When the Commissioner first takes action under subsection (5) in respect of a former participant who was a participant under section 10 or 10A, the Commissioner must give the Immigration Secretary, or an officer nominated by that Secretary, written notice that he or she has taken that action.
 
 ##### <a id="14"></a>14  Special provision in case of marriage of participant
 
@@ -672,7 +574,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
                               (i)  that the participant is of marriageable age; and
 
-                             (ii)  of the original identity of the participant; and
+                             (ii)  of the identity of the participant; and
 
                      (c)  if the participant has been married previously—the participant has given to the Commissioner or an approved authority evidence that satisfies the Commissioner or the approved authority that the person’s previous spouse has died or that the participant is divorced; and
 
@@ -704,35 +606,41 @@ the Commissioner is to give notice in writing to the participant stating that he
 
              (4)  The notice is also to state that, unless the participant satisfies the Commissioner that the obligations will be dealt with according to law or the restrictions will be complied with, the Commissioner will take such action as he or she considers reasonably necessary to ensure that they are dealt with according to law or complied with.
 
-             (5)  That action may include informing a person who is seeking to enforce rights against the participant of the details of any property (whether real or personal) owned by the participant under his or her original identity or a former NWPP identity.
+             (5)  That action may include informing a person who is seeking to enforce rights against the participant of the details of any property (whether real or personal) owned by the participant under his or her former identity.
 
 ##### <a id="16"></a>16  Non-disclosure of former identity of participant
 
              (1)  If:
 
-                     (a)  a participant who has been provided with a new identity under the NWPP would, apart from this section, be required by or under a law of the Commonwealth to disclose his or her original identity or a former NWPP identity for a particular purpose; and
+                     (a)  a participant who has been provided with a new identity under the NWPP would, apart from this section, be required by or under a law of the Commonwealth to disclose his or her former identity for a particular purpose; and
 
-                     (b)  the Commissioner has given the participant permission, in the prescribed form, not to disclose the original identity or the former NWPP identity for that purpose;
+                     (b)  the Commissioner has given the participant permission, in the prescribed form, not to disclose his or her former identity for that purpose;
 
-the participant is not required to disclose the original identity or the former NWPP identity to any person for that purpose.
+the participant is not required to disclose his or her former identity to any person for that purpose.
 
-             (2)  If a participant has been given permission under subsection (1) not to disclose his or her original identity or any former NWPP identity for a particular purpose, it is lawful for the participant, in any proceedings, or for any purpose, under or in relation to the relevant law of the Commonwealth, to claim that his or her current NWPP identity is his or her only identity.
+             (2)  If a participant has been given permission under subsection (1) not to disclose his or her former identity for a particular purpose, it is lawful for the participant, in any proceedings, or for any purpose, under or in relation to the relevant law of the Commonwealth, to claim that his or her new identity is his or her only identity.
 
              (3)  It is the duty of each Commonwealth officer and former Commonwealth officer who has obtained access to information or a document relevant to the NWPP not to disclose that information or publish that document except as authorised by the Commissioner.
 
-             (4)  If, under a complementary witness protection law of a State or Territory, it is lawful for a participant not to disclose his or her original identity or any former NWPP identity for a purpose approved by the Commissioner, the participant is not required to disclose his or her original identity or any former NWPP identity to a Commonwealth officer for that purpose.
+             (4)  If, under a complementary witness protection law of a State or Territory, it is lawful for a participant not to disclose his or her former identity for a purpose approved by the Commissioner, the participant is not required to disclose his or her former identity to a Commonwealth officer for that purpose.
 
              (5)  In addition to prescribing a form for the purposes of a permission under subsection (1), the regulations may prescribe a form for the purposes of a similar permission of the Commissioner under a complementary witness protection law of a State or Territory.
 
+             (6)  In this section:
+
+                    <a name="particip"></a>**_participant_** includes a person who:
+
+                     (a)  was provided with a new identity under the NWPP; and
+
+                     (b)  is no longer a participant but retains that identity.
+
 ##### <a id="17"></a>17  Special commercial arrangements by Commissioner
 
-                   This Act does not prevent the Commissioner from making commercial arrangements with a person under which a participant is able to obtain benefits under a contract or arrangement without revealing his or her original identity or any former NWPP identity.
+                   This Act does not prevent the Commissioner from making commercial arrangements with a person under which a participant is able to obtain benefits under a contract or arrangement without revealing his or her former identity.
 
-##### <a id="18"></a>18  Termination of inclusion in NWPP and other protection and assistance
+##### <a id="18"></a>18  Cessation of protection and assistance
 
-Termination of inclusion in NWPP
-
-             (1)  A participant’s inclusion in the NWPP:
+             (1)  Protection and assistance provided under the NWPP to a participant:
 
                      (a)  must be terminated by the Commissioner if the participant requests in writing that it be terminated; or
 
@@ -744,7 +652,7 @@ Termination of inclusion in NWPP
 
                             (iii)  the participant’s conduct or threatened conduct is, in the opinion of the Deputy Commissioner, likely to compromise the integrity of the NWPP; or
 
-                            (iv)  the circumstances that gave rise to the need for the participant’s inclusion in the NWPP cease to exist; or
+                            (iv)  the circumstances that gave rise to the need for protection and assistance for the participant cease to exist; or
 
                              (v)  the participant deliberately breaches an undertaking, including an undertaking to give evidence, given to the Commonwealth, a State or Territory in relation to a matter relevant to the NWPP; or
 
@@ -752,89 +660,63 @@ Termination of inclusion in NWPP
 
                            (vii)  there is, in the opinion of the Deputy Commissioner, no reasonable justification for the participant to remain included in the NWPP;
 
-                            and the Deputy Commissioner is of the opinion that, in the circumstances of the case, the participant’s inclusion in the NWPP should be terminated.
+                            and the Deputy Commissioner is of the opinion that, in the circumstances of the case, the protection and assistance should be terminated.
 
-             (2)  If a Deputy Commissioner makes a decision under paragraph (1)(b) that a participant’s inclusion in the NWPP be terminated (the **_termination decision_**), the Deputy Commissioner must:
+             (2)  If a Deputy Commissioner makes a decision under paragraph (1)(b) that protection and assistance provided under the NWPP to a participant be terminated, the Deputy Commissioner must:
 
                      (a)  take reasonable steps to notify the participant of the decision; and
 
                      (b)  notify the relevant approved authority of the decision.
 
-Termination of protection and assistance to former participants etc.
-
-          (2A)  Protection and assistance provided under subsection 13(5) to a person (including a former participant):
-
-                     (a)  must be terminated by the Commissioner if the person requests in writing that it be terminated; or
-
-                     (b)  may be terminated by a Deputy Commissioner if:
-
-                              (i)  the Deputy Commissioner discovers that the person had knowingly given information to the Commissioner that is false or misleading in a material particular; or
-
-                             (ii)  the person’s conduct or threatened conduct is, in the opinion of the Deputy Commissioner, likely to compromise the integrity of the NWPP; or
-
-                            (iii)  the circumstances that gave rise to the need for protection and assistance for the person cease to exist; or
-
-                            (iv)  the person deliberately breaches an undertaking given to the Commonwealth, a State or a Territory that is relevant to the provision of that protection and assistance; or
-
-                             (v)  there is, in the opinion of the Deputy Commissioner, no reasonable justification for protection and assistance to continue to be provided to the person;
-
-                            and the Deputy Commissioner is of the opinion that, in the circumstances of the case, the protection and assistance should be terminated.
-
-          (2B)  If a Deputy Commissioner makes a decision under paragraph (2A)(b) that protection and assistance provided to a person be terminated (the **_termination decision_**), the Deputy Commissioner must take reasonable steps to notify the person of the decision.
-
-Review
-
-             (3)  A person who receives notification of a termination decision may, within 28 days after receiving the notice, apply in writing to the Commissioner for a review of the decision of the Deputy Commissioner.
+             (3)  A participant who receives such a notification may, within 28 days after receiving the notice, apply in writing to the Commissioner for a review of the decision of the Deputy Commissioner.
 
              (4)  If an application is made, the Commissioner:
 
                      (a)  must review the decision of the Deputy Commissioner, and confirm, reverse or vary it; and
 
-                     (b)  before making that decision, must give the person a reasonable opportunity to state his or her case; and
+                     (b)  before making that decision, must give the participant a reasonable opportunity to state his or her case; and
 
-                     (c)  after making that decision, must inform the person in writing of the decision.
+                     (c)  after making that decision, must inform the participant in writing of the decision.
 
-When termination decisions take effect
-
-             (5)  A termination decision that relates to a person:
+             (5)  A decision of a Deputy Commissioner under paragraph (1)(b) that protection and assistance provided under the NWPP to a participant be terminated:
 
                      (a)  if:
 
-                              (i)  the person’s whereabouts are not known; and
+                              (i)  the participant’s whereabouts are not known; and
 
-                             (ii)  the Deputy Commissioner has taken reasonable steps to notify the person of the decision but has been unable to do so;
+                             (ii)  the Deputy Commissioner has taken reasonable steps to notify the participant of the decision but has been unable to do so;
 
                             takes effect at the end of the period of 28 days after those steps were commenced; or
 
-                     (b)  if the person does not apply for a review of the decision in accordance with subsection (3)—takes effect at the end of the period of 28 days after the person receives the notification; or
+                     (b)  if the participant does not apply for a review of the decision in accordance with subsection (3)—takes effect at the end of the period of 28 days after the participant receives the notification; or
 
-                     (c)  if the person applies for a review of the decision in accordance with subsection (3) and the Commissioner notifies the person that he or she has reversed the decision—has no effect; or
+                     (c)  if the participant applies for a review of the decision in accordance with subsection (3) and the Commissioner notifies the participant that he or she has reversed the decision—has no effect; or
 
-                     (d)  if the person applies for a review of the decision in accordance with subsection (3) and the Commissioner notifies the person that he or she has confirmed the decision—takes effect when the Commissioner notifies the person of the decision on the review; or
+                     (d)  if the participant applies for a review of the decision in accordance with subsection (3) and the Commissioner notifies the participant that he or she has confirmed the decision—takes effect when the Commissioner notifies the participant of the decision on the review; or
 
-                     (e)  if the person applies for a review of the decision in accordance with subsection (3) and the Commissioner notifies the person that he or she has varied the decision—takes effect on the day specified by the Commissioner.
-
-Notification of Immigration Secretary
+                     (e)  if the participant applies for a review of the decision in accordance with subsection (3) and the Commissioner notifies the participant that he or she has varied the decision—takes effect on the day specified by the Commissioner.
 
              (6)  If:
 
-                     (a)  a Deputy Commissioner makes a termination decision in relation to a person; and
+                     (a)  protection and assistance provided under the NWPP to a participant is terminated; and
 
-                     (b)  the person was at any time a participant under section 10 or 10A;
+                     (b)  the person was a participant under section 10 or 10A;
 
-the Commissioner must give the Immigration Secretary, or an officer nominated by that Secretary, written notice of that decision.
-
-             (7)  In this section:
-
-                    <a name="particip"></a>**_participant_** does not include a former participant.
+the Commissioner must notify the Secretary to the Department of Immigration and Ethnic Affairs, or an officer nominated by the Secretary, in writing of the termination.
 
 ##### <a id="19"></a>19  Restoration of former identity
 
-             (1)  If a participant has been provided with a new identity under the NWPP, a Deputy Commissioner may, if he or she considers it appropriate to do so, take such action as is necessary to restore the original identity or any former NWPP identity of the participant.
+             (1)  If:
 
-             (2)  The Deputy Commissioner must take reasonable steps to notify the participant of a decision under subsection (1).
+                     (a)  a participant has been provided with a new identity under the NWPP; and
 
-             (3)  If the Deputy Commissioner proposes to take action to restore the original identity or any former NWPP identity of the participant, the participant may apply in writing to the Commissioner for a review of the decision of the Deputy Commissioner.
+                     (b)  protection and assistance under the NWPP to the participant is terminated;
+
+a Deputy Commissioner may, if he or she considers it appropriate to do so, take such action as is necessary to restore the former participant’s former identity.
+
+             (2)  The Deputy Commissioner must take reasonable steps to notify the former participant of a decision under subsection (1).
+
+             (3)  If the Deputy Commissioner proposes to take action to restore the former participant’s former identity, the former participant may apply in writing to the Commissioner for a review of the decision of the Deputy Commissioner.
 
              (4)  If an application is made, the Commissioner:
 
@@ -844,25 +726,19 @@ the Commissioner must give the Immigration Secretary, or an officer nominated by
 
                      (c)  after making that decision, must inform the participant in writing of the decision.
 
-             (5)  If the Commissioner or a Deputy Commissioner takes action under this section to restore the original identity or any former NWPP identity of a Commonwealth participant, a State participant or a Territory participant, the Commissioner or a Deputy Commissioner may give a notice to the participant under subsection (6).
+             (5)  If the Commissioner or a Deputy Commissioner:
 
-             (6)  The notice:
+                     (a)  takes action under this section to restore the former identity of a person who was a Commonwealth participant; and
 
-                     (a)  must be in writing; and
+                     (b)  the Commissioner or a Deputy Commissioner notifies the former participant in writing that he or she is required to return to the Commissioner all documents provided to the former participant that relate to the new identity provided under the NWPP;
 
-                     (b)  must require the participant to return to the Commissioner, within 10 days of the giving of the notice, all documents provided to the participant that relate to:
-
-                              (i)  the participant’s current NWPP identity; and
-
-                             (ii)  any former NWPP identity of the participant that is not being restored.
-
-             (7)  A person commits an offence if:
-
-                     (a)  the person is given a notice under subsection (6); and
-
-                     (b)  the person refuses or fails to comply with the notice.
+the former participant must not refuse or fail to return those documents to the Commissioner within 7 days after receiving the notice.
 
                     Penalty:  10 penalty units.
+
+             (6)  Subsection (5) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="20"></a>20  Provision of information to approved authorities
 
@@ -874,7 +750,7 @@ the Commissioner must give the Immigration Secretary, or an officer nominated by
 
 the Commissioner may:
 
-                     (c)  release to the approved authority or the member the current NWPP identity or current location of the participant; and
+                     (c)  release to the approved authority or the member the new identity or new location of the participant; and
 
                      (d)  provide the approved authority or the member with the criminal record of the participant and the participant’s fingerprints; and
 
@@ -884,323 +760,33 @@ the Commissioner may:
 
 ##### <a id="21"></a>21  Officers protected from suit in respect of decisions under Act
 
-                   The Commissioner, delegates of the Commissioner and other persons performing functions in relation to the NWPP are not liable to any action, suit or proceedings (including criminal proceedings) in respect of an act done or omitted to be done in good faith in the exercise or purported exercise of a power conferred, or the performance or purported performance of a function conferred or a duty imposed, by this Act.
+                   The Commissioner, delegates of the Commissioner and other persons performing functions in relation to the NWPP are not liable to any action, suit or proceedings (including criminal proceedings) in respect of an act done or omitted to be done in good faith in the exercise or purported exercise of a power conferred by this Act.
 
-##### <a id="22"></a>22  Offences relating to Commonwealth or Territory participants
+##### <a id="22"></a>22  Offences
 
-Disclosure of information about Commonwealth or Territory participant
+             (1)  A person must not disclose information:
 
-             (1)  A person commits an offence if:
+                     (a)  about the identity or location of a person who is or has been a Commonwealth participant; or
 
-                     (a)  the person discloses information about an individual; and
-
-                     (b)  the individual is a participant; and
-
-                     (c)  the individual is a Commonwealth participant or a Territory participant; and
-
-                     (d)  either or both of the following apply:
-
-                              (i)  the individual has a current NWPP identity at the time the information is disclosed and the information is about the original identity or a former NWPP identity of the individual;
-
-                             (ii)  there is a risk that disclosure of the information will reveal that the individual is a participant.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure of information about individual undergoing assessment as Commonwealth or Territory participant
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person discloses information about an individual; and
-
-                     (b)  the individual is undergoing assessment for inclusion in the NWPP at the time the information is disclosed; and
-
-                     (c)  if the individual were included in the NWPP following that assessment, the individual would be a Commonwealth participant or a Territory participant; and
-
-                     (d)  there is a risk that disclosure of the information will reveal that the individual is undergoing such assessment.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure of information that may compromise security of Commonwealth or Territory participant
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person discloses information about an individual; and
-
-                     (b)  the individual is a participant; and
-
-                     (c)  the individual is a Commonwealth participant or a Territory participant; and
-
-                     (d)  either or both of the following apply:
-
-                              (i)  the individual has a current NWPP identity at the time the information is disclosed and the information is about the original identity or a former NWPP identity of the individual;
-
-                             (ii)  there is a risk that disclosure of the information will reveal that the individual is a participant; and
-
-                     (e)  there is a risk that disclosure of the information will compromise the security of the individual.
+                     (b)  that compromises the security of such a person.
 
                     Penalty:  Imprisonment for 10 years.
 
-Disclosure of information that may compromise security of individual undergoing assessment as Commonwealth or Territory participant
+             (2)  A person who is or has been a Commonwealth participant, or a person who has undergone assessment for inclusion in the NWPP as such a participant, must not disclose:
 
-             (4)  A person commits an offence if:
+                     (a)  the fact that he or she is or has been a participant or has undergone assessment for inclusion in the NWPP; or
 
-                     (a)  the person discloses information about an individual; and
+                     (b)  information as to the way in which the NWPP operates; or
 
-                     (b)  the individual is undergoing assessment for inclusion in the NWPP at the time the information is disclosed; and
+                     (c)  information about the Commissioner, a Deputy Commissioner, any AFP employee or any special member of the Australian Federal Police who is or has been involved in the NWPP; or
 
-                     (c)  if the individual were included in the NWPP following that assessment, the individual would be a Commonwealth participant or a Territory participant; and
+                     (d)  the fact that he or she has signed a memorandum of understanding; or
 
-                     (d)  there is a risk that disclosure of the information will reveal that the individual is undergoing such assessment; and
+                     (e)  any details of a memorandum of understanding that he or she has signed;
 
-                     (e)  there is a risk that disclosure of the information will compromise the security of the individual.
+unless the person has been authorised by the Commissioner to make the disclosure or the disclosure is made for the purpose of making a complaint, or providing information, to the Ombudsman under the _Ombudsman Act 1976._
 
-                    Penalty:  Imprisonment for 10 years.
-
-             (5)  Subsections (1), (2), (3) and (4) do not apply to a disclosure by a person if:
-
-                     (a)  the person has been authorised by the Commissioner to make the disclosure; or
-
-                     (b)  the disclosure is made for the purpose of making a complaint, or providing information, to the Ombudsman under the _Ombudsman Act 1976_; or
-
-                     (c)  the disclosure is made for the purpose of referring to the Integrity Commissioner, under the _Law Enforcement Integrity Commissioner Act 2006_, an allegation or information that raises a corruption issue; or
-
-                     (d)  the disclosure is made for the purpose of:
-
-                              (i)  giving information that raises an AFP conduct or practices issue (within the meaning of the _Australian Federal Police Act 1979_); or
-
-                             (ii)  investigating or resolving an AFP conduct or practices issue under Part V of that Act.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (6)  Absolute liability applies to paragraphs (1)(c), (2)(c), (3)(c) and (4)(c).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-             (7)  To avoid doubt, a person may be convicted of an offence against subsection (1), (2), (3) or (4) because of a risk that a disclosure will have a particular effect even if the disclosure does not actually have that effect.
-
-##### <a id="22A"></a>22A  Offences relating to State participants
-
-Disclosure of information about State participant
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is:
-
-                              (i)  a Commonwealth officer; or
-
-                             (ii)  a Commonwealth participant; or
-
-                            (iii)  a State participant; or
-
-                            (iv)  a Territory participant; or
-
-                             (v)  any other person; and
-
-                     (b)  the person discloses information about an individual; and
-
-                     (c)  the individual is a participant; and
-
-                     (d)  the individual is a State participant; and
-
-                     (e)  either or both of the following apply:
-
-                              (i)  the individual has a current NWPP identity at the time the information is disclosed and the information is about the original identity or a former NWPP identity of the individual;
-
-                             (ii)  there is a risk that disclosure of the information will reveal that the individual is a participant; and
-
-                      (f)  if the person disclosing the information is a person other than a person referred to in subparagraph (a)(i), (ii) or (iv)—there is a risk that disclosure of the information will adversely affect the integrity of the NWPP.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure of information about individual undergoing assessment as State participant
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person is:
-
-                              (i)  a Commonwealth officer; or
-
-                             (ii)  a Commonwealth participant; or
-
-                            (iii)  a State participant; or
-
-                            (iv)  a Territory participant; or
-
-                             (v)  any other person; and
-
-                     (b)  the person discloses information about an individual; and
-
-                     (c)  the individual is undergoing assessment for inclusion in the NWPP at the time the information is disclosed; and
-
-                     (d)  if the individual were included in the NWPP following that assessment, the individual would be a State participant; and
-
-                     (e)  there is a risk that disclosure of the information will reveal that the individual is undergoing such assessment; and
-
-                      (f)  if the person disclosing the information is a person other than a person referred to in subparagraph (a)(i), (ii) or (iv)—there is a risk that disclosure of the information will adversely affect the integrity of the NWPP.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure of information that may compromise security of State participant
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person is:
-
-                              (i)  a Commonwealth officer; or
-
-                             (ii)  a Commonwealth participant; or
-
-                            (iii)  a State participant; or
-
-                            (iv)  a Territory participant; or
-
-                             (v)  any other person; and
-
-                     (b)  the person discloses information about an individual; and
-
-                     (c)  the individual is a participant; and
-
-                     (d)  the individual is a State participant; and
-
-                     (e)  either or both of the following apply:
-
-                              (i)  the individual has a current NWPP identity at the time the information is disclosed and the information is about the original identity or a former NWPP identity of the individual;
-
-                             (ii)  there is a risk that disclosure of the information will reveal that the individual is a participant; and
-
-                      (f)  there is a risk that disclosure of the information will compromise the security of the individual; and
-
-                     (g)  if the person disclosing the information is a person other than a person referred to in subparagraph (a)(i), (ii) or (iv)—there is a risk that the disclosure of the information will adversely affect the integrity of the NWPP.
-
-                    Penalty:  Imprisonment for 10 years.
-
-Disclosure of information that may compromise security of individual undergoing assessment as State participant
-
-             (4)  A person commits an offence if:
-
-                     (a)  the person is:
-
-                              (i)  a Commonwealth officer; or
-
-                             (ii)  a Commonwealth participant; or
-
-                            (iii)  a State participant; or
-
-                            (iv)  a Territory participant; or
-
-                             (v)  any other person; and
-
-                     (b)  the person discloses information about an individual; and
-
-                     (c)  the individual is undergoing assessment for inclusion in the NWPP at the time the information is disclosed; and
-
-                     (d)  if the individual were included in the NWPP following that assessment, the individual would be a State participant; and
-
-                     (e)  there is a risk that disclosure of the information will reveal that the individual is undergoing such assessment; and
-
-                      (f)  there is a risk that disclosure of the information will compromise the security of the individual; and
-
-                     (g)  if the person disclosing the information is a person other than a person referred to in subparagraph (a)(i), (ii) or (iv)—there is a risk that disclosure of the information will adversely affect the integrity of the NWPP.
-
-                    Penalty:  Imprisonment for 10 years.
-
-             (5)  Subsections (1), (2), (3) and (4) do not apply to a disclosure by a person if:
-
-                     (a)  the person has been authorised by the Commissioner to make the disclosure; or
-
-                     (b)  the disclosure is made for the purpose of making a complaint, or providing information, to the Ombudsman under the _Ombudsman Act 1976_; or
-
-                     (c)  the disclosure is made for the purpose of referring to the Integrity Commissioner, under the _Law Enforcement Integrity Commissioner Act 2006_, an allegation or information that raises a corruption issue; or
-
-                     (d)  the disclosure is made for the purpose of:
-
-                              (i)  giving information that raises an AFP conduct or practices issue (within the meaning of the _Australian Federal Police Act 1979_); or
-
-                             (ii)  investigating or resolving an AFP conduct or practices issue under Part V of that Act.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (6)  Absolute liability applies to paragraphs (1)(d), (2)(d), (3)(d) and (4)(d).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-             (7)  To avoid doubt, a person may be convicted of an offence against subsection (1), (2), (3) or (4) because of a risk that a disclosure will have a particular effect even if the disclosure does not actually have that effect.
-
-##### <a id="22B"></a>22B  Offences relating to disclosure of information about the NWPP
-
-Disclosures by participants and persons undergoing assessment
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is, or is undergoing or has undergone assessment for inclusion in the NWPP as, one of the following:
-
-                              (i)  a Commonwealth participant;
-
-                             (ii)  a Territory participant;
-
-                            (iii)  a State participant; and
-
-                     (b)  the person discloses any of the following:
-
-                              (i)  the fact that he or she is such a participant, or is undergoing or has undergone such assessment;
-
-                             (ii)  information about the way in which the NWPP operates;
-
-                            (iii)  information about the Commissioner, a Deputy Commissioner, any AFP employee or any special member of the Australian Federal Police who is or has been involved in the NWPP;
-
-                            (iv)  the fact that he or she has signed a memorandum of understanding;
-
-                             (v)  any details of a memorandum of understanding that he or she has signed.
-
-                    Penalty:  Imprisonment for 5 years.
-
-Disclosures by other persons
-
-             (2)  A person (other than a person referred to in paragraph (1)(a)) commits an offence if:
-
-                     (a)  the person discloses information; and
-
-                     (b)  the information is either or both of the following:
-
-                              (i)  information about the way in which the NWPP operates;
-
-                             (ii)  information about the Commissioner, a Deputy Commissioner, any AFP employee or any special member of the Australian Federal Police who is or has been involved in the NWPP; and
-
-                     (c)  there is a risk that disclosure of the information will do either or both of the following:
-
-                              (i)  adversely affect the integrity of the NWPP;
-
-                             (ii)  compromise the security of the Commissioner, a Deputy Commissioner, or an AFP employee or special member of the Australian Federal Police who is or has been involved in the NWPP.
-
-                    Penalty:  Imprisonment for 5 years.
-
-             (3)  Subsections (1) and (2) do not apply to a disclosure by a person if:
-
-                     (a)  the person has been authorised by the Commissioner to make the disclosure; or
-
-                     (b)  the disclosure is made for the purpose of making a complaint, or providing information, to the Ombudsman under the _Ombudsman Act 1976_; or
-
-                     (c)  the disclosure is made for the purpose of referring to the Integrity Commissioner, under the _Law Enforcement Integrity Commissioner Act 2006_, an allegation or information that raises a corruption issue; or
-
-                     (d)  the disclosure is made for the purpose of:
-
-                              (i)  giving information that raises an AFP conduct or practices issue (within the meaning of the _Australian Federal Police Act 1979_); or
-
-                             (ii)  investigating or resolving an AFP conduct or practices issue under Part V of that Act.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (4)  To avoid doubt, a person may be convicted of an offence against subsection (2) because of a risk that a disclosure will have a particular effect even if the disclosure does not actually have that effect.
-
-##### <a id="22C"></a>22C  Disclosures to courts, etc.
-
-             (1)  To avoid doubt, sections 22, 22A and 22B apply to a disclosure of information to:
-
-                     (a)  a court or tribunal; or
-
-                     (b)  a Royal Commission of the Commonwealth, a State or a Territory or any other commission of inquiry.
-
-             (2)  The application of subsection (1) to the disclosure of information as mentioned in that subsection does not affect the operation of subsection 26(3).
+                    Penalty for an offence against this subsection:    Imprisonment for 5 years.
 
 ##### <a id="23"></a>23  Payments under NWPP not able to be confiscated
 
@@ -1224,123 +810,59 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="25"></a>25  Delegation
 
-             (1)  Subject to subsections (3) and (4), the Commissioner may, by writing, delegate all or any of his or her powers under this Act to a person who holds or occupies a designated position.
+             (1)  Subject to subsection (3), the Commissioner may, by writing, delegate all or any of his or her powers under this Act to a person who holds or occupies a designated position.
 
              (2)  A person who holds or occupies a designated position may exercise powers delegated to the person by the Commissioner under a complementary witness protection law.
 
-             (3)  The Commissioner’s powers under sections 6, 8, 14, 16, 18, 20, 27 and 27A and subsections 12(2) and (3) may only be delegated to a Deputy Commissioner.
-
-             (4)  The Commissioner’s powers and functions under subsections 13(5) and (7) may only be delegated to a Deputy Commissioner, an Assistant Commissioner, or a person occupying an equivalent or higher rank in the Australian Federal Police.
+             (3)  The Commissioner’s powers under sections 6, 8, 14, 16, 18, 20 and 27 and subsections 12(2) and (3) may only be delegated to a Deputy Commissioner.
 
 ##### <a id="26"></a>26  Commissioner and members not to be required to disclose information
 
              (1)  Subject to subsection (3), the Commissioner, a Deputy Commissioner, an AFP employee or a special member of the Australian Federal Police is not to be required:
 
-                     (a)  to produce in a court, or before a tribunal, a Royal Commission of the Commonwealth, a State or a Territory or any other commission of inquiry, any document that has come into the custody or control of the person in the course of, or because of, the performance of functions or duties, or the exercise of powers, under this Act; or
+                     (a)  to produce in a court, or before a tribunal, a Royal Commission or an approved authority, any document that has come into the custody or control of the person in the course of, or because of, the performance of functions or duties under this Act; or
 
-                     (b)  to divulge or communicate to or before such a body any matter or thing that has come to the notice of the person in the performance of functions or duties, or the exercise of powers, under this Act; or
-
-                     (c)  to divulge or communicate to or before such a body information, if:
-
-                              (i)  the information is about the identity of, or disclosure of the information is such as to reveal the identity of, an AFP employee or special member of the Australian Federal Police who is involved in the operation of the NWPP; and
-
-                             (ii)  the person has the information as a result of the performance of functions or duties, or the exercise of powers, under this Act;
+                     (b)  to divulge or communicate to or before such a body any matter or thing that has come to the notice of the person in the performance of functions or duties under this Act;
 
 except where it is necessary to do so for the purpose of carrying the provisions of this Act into effect.
 
              (2)  Subject to subsection (3), the Commonwealth Ombudsman or a member of the staff of the Commonwealth Ombudsman is not to be required:
 
-                     (a)  to produce in a court, or before a tribunal, a Royal Commission of the Commonwealth, a State or a Territory or any other commission of inquiry, any document that has come into the custody or control of the person in relation to this Act; or
+                     (a)  to produce in a court, or before a tribunal, a Royal Commission or an approved authority, any document that has come into the custody or control of the person in relation to this Act; or
 
-                     (b)  to divulge or communicate to or before such a body any matter or thing that has come to the notice of the person in relation to this Act; or
-
-                     (c)  to divulge or communicate to or before such a body information, if:
-
-                              (i)  the information is about the identity of, or disclosure of the information is such as to reveal the identity of, an AFP employee or special member of the Australian Federal Police who is involved in the operation of the NWPP; and
-
-                             (ii)  the person has the information as a result of the performance of functions or duties, or the exercise of powers, in relation to this Act;
+                     (b)  to divulge or communicate to or before such a body any matter or thing that has come to the notice of the person in relation to this Act;
 
 except where it is necessary to do so for the purpose of carrying the provisions of this Act into effect.
 
-             (3)  If it is essential to the determination of legal proceedings under or in relation to a law of the Commonwealth, a State or a Territory that the judge or magistrate presiding over the proceedings be advised of a participant’s location and circumstances, a person referred to in subsection (1) or (2) is to disclose the relevant information to the judge or magistrate in chambers, but the person must not disclose the information if any person other than the judge or magistrate and the person is present.
+             (3)  If it is essential to the determination of legal proceedings under or in relation to a law of the Commonwealth that the judge or magistrate presiding over the proceedings be advised of a participant’s location and circumstances, a person referred to in subsection (1) or (2) is to disclose the relevant information to the judge or magistrate in chambers, but the person must not disclose the information if any person other than the judge or magistrate and the person is present.
 
              (4)  The judge or magistrate must not disclose any information disclosed to the judge or magistrate under subsection (3) otherwise than in accordance with this Act.
 
-             (5)  Subsection (1) does not apply to information about a financial support arrangement for a participant if the information is provided in a way that cannot identify the location, or prejudice the safety, of the participant.
+             (5)  Subsection (1) does not apply to information about a financial support arrangement for a participant or a former participant if the information is provided in a way that cannot identify the location, or prejudice the safety, of the participant or former participant.
 
 ##### <a id="27"></a>27  Requirement where participant becomes a witness in criminal proceedings
 
              (1)  If:
 
-                     (a)  a participant is to be a witness, under the participant’s current NWPP identity, in a criminal proceeding; and
+                     (a)  a participant is provided with a new identity under the NWPP; and
 
-                     (b)  the participant has a criminal record under his or her original identity or any former NWPP identity;
+                     (b)  the person, whether or not he or she remains a participant, retains that identity; and
 
-the participant must notify the Commissioner that the participant is to be a witness in the proceeding.
+                     (c)  the person is to be a witness in a criminal proceeding under that identity; and
 
-             (2)  After being notified under subsection (1), the Commissioner may take any action he or she considers appropriate in the circumstances, including disclosing to the court, the prosecutor and the accused person or the accused person’s legal representative the criminal record of the participant.
+                     (d)  the person has a criminal record under his or her former identity;
 
-##### <a id="27A"></a>27A  Requirement where participant involved in civil proceedings
+the person must notify the Commissioner that the person is to be a witness in the proceeding.
 
-             (1)  If a participant is to be involved, under the participant’s current NWPP identity, in a civil proceeding in which his or her identity is in issue, the participant must notify the Commissioner that the participant is involved in the proceeding.
-
-             (2)  After being notified under subsection (1), the Commissioner may take any action he or she considers appropriate in the circumstances.
-
-             (3)  In this section:
-
-                    <a name="civil-proceing"></a>**_civil proceeding_** means any proceeding in a court, a tribunal or a Royal Commission of the Commonwealth, a State or a Territory or any other commission of inquiry, other than a criminal proceeding, and, to avoid doubt, each of the following is part of a civil proceeding:
-
-                     (a)  any proceeding on an ex parte application (including an application made before pleadings are filed in a court);
-
-                     (b)  the discovery, exchange, production, inspection or disclosure of intended evidence, documents and reports of persons intended to be called by a party to give evidence;
-
-                     (c)  an appeal proceeding;
-
-                     (d)  any interlocutory or other proceeding prescribed by regulations for the purposes of this paragraph.
+             (2)  After being notified under subsection (1), the Commissioner may take any action he or she considers appropriate in the circumstances, including disclosing to the court, the prosecutor and the accused person or the accused person’s legal representative the criminal record of the participant or former participant.
 
 ##### <a id="28"></a>28  Identity of participant not to be disclosed in court proceedings etc.
 
-             (1)  This section applies if one of more of the following matters is in issue, or may be disclosed, in any proceedings before a court, a tribunal, or a Royal Commission of the Commonwealth, a State or a Territory or any other commission of inquiry:
+                   If, in any proceedings in a court, a tribunal or a Royal Commission or other commission of inquiry, the identity of a person who is a Commonwealth participant is in issue or may be disclosed, the court, tribunal or commission must, unless it considers that the interests of justice require otherwise:
 
-                     (a)  the original identity or a former NWPP identity of:
+                     (a)  hold that part of the proceedings that relate to the identity of the participant in private; and
 
-                              (i)  a Commonwealth participant; or
-
-                             (ii)  a State participant; or
-
-                            (iii)  a Territory participant;
-
-                     (b)  the fact that a person is such a participant;
-
-                     (c)  the fact that a person has undergone or is undergoing assessment for inclusion in the NWPP as such a participant.
-
-             (2)  The court, tribunal or commission:
-
-                     (a)  must, unless it considers that it is not in the interests of justice to do so, hold in private that part of the proceedings that relates to the matter referred to in paragraph (1)(a), (b) or (c); and
-
-                     (b)  must make such orders relating to the suppression of publication of evidence given before it as, in its opinion, will ensure that the matter referred to in paragraph (1)(a), (b) or (c) is not made public; and
-
-                     (c)  must, unless it considers that it is not in the interests of justice to do so, make such other orders as it considers appropriate to ensure that neither of the following is made public:
-
-                              (i)  the matter referred to in paragraph (1)(a), (b) or (c);
-
-                             (ii)  information that may compromise the security of a person referred to in any of those paragraphs.
-
-             (3)  To avoid doubt, paragraph (2)(b) does not prevent the taking of a transcript of court proceedings, but the court may make an order for how the transcript is to be dealt with, including an order suppressing its publication.
-
-##### <a id="28A"></a>28A  Offence of contravening an order under section 28
-
-             (1)  A person commits an offence if:
-
-                     (a)  an order is in force under section 28; and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the conduct contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (2)  To avoid doubt, this section does not limit any other powers of the body that made the order under section 28.
+                     (b)  make such order relating to the suppression of publication of evidence given before the court, tribunal or commission as, in its opinion, will ensure that the identity of the participant is not disclosed.
 
 ##### <a id="29"></a>29  Transitional
 
@@ -1350,7 +872,7 @@ the participant must notify the Commissioner that the participant is to be a wit
 
 ##### <a id="30"></a>30  Reports and information for the Minister
 
-             (1)  The Commissioner must keep the Minister informed of the general operations, performance and effectiveness of the NWPP and, in particular, the exercise of the Commissioner’s powers under sections 27 and 27A.
+             (1)  The Commissioner must keep the Minister informed of the general operations, performance and effectiveness of the NWPP and, in particular, the exercise of the Commissioner’s powers under section 27.
 
              (2)  In consultation with the Commissioner, the Minister must prepare and cause to be laid before each House of the Parliament, an annual report on the matters referred to in subsection (1) in a manner which does not prejudice the effectiveness or security of the NWPP.
 
@@ -1374,7 +896,7 @@ _Section 31_
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
 _Administrative Decisions (Judicial Review) Act 1977_
 
@@ -1481,7 +1003,7 @@ of Assent</div>
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 34, 35)</div>
@@ -1522,7 +1044,7 @@ of Assent</div>
   </td>
   <td>
     <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
-Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
@@ -1540,7 +1062,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2002</div>
   </td>
   <td>
-    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
+    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
 Remainder: 28 June 2002</div>
   </td>
   <td colspan="2">
@@ -1590,13 +1112,13 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>80, 2004</div>
   </td>
   <td>
-    <div>23 June 2004</div>
+    <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 211–213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+    <div>Schedule 1 (items 211–213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
   </td>
   <td colspan="2">
-    <div>Sch. 1 (items 212, 213, 215)</div>
+    <div>Sch. 1 (items 212, 213, 215)</div>
   </td>
 </tr>
 <tr>
@@ -1607,10 +1129,10 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>84, 2006</div>
   </td>
   <td>
-    <div>30 June 2006</div>
+    <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (items 65, 66): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 65, 66): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1624,10 +1146,10 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>86, 2006</div>
   </td>
   <td>
-    <div>30 June 2006</div>
+    <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 97): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 97): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1644,28 +1166,10 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 85): 10 Dec 2008</div>
+    <div>Schedule 2 (item 85): 10 Dec 2008</div>
   </td>
   <td colspan="2">
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3: 20 Feb 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 
-69–71)</div>
   </td>
 </tr></table>
 
@@ -1709,15 +1213,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 9, 2000; No. 135, 2001; Nos. 42 and 125, 2002; No. 86, 2006; No. 144, 2008; No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3AA, 3AB</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2010</div>
+    <div>am. No. 9, 2000; No. 135, 2001; Nos. 42 and 125, 2002; No. 86, 2006; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1741,15 +1237,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
+    <div>am. No. 80, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1757,7 +1245,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 9, 2000; No. 4, 2010</div>
+    <div>am. No. 9, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1770,14 +1258,6 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td>
@@ -1786,58 +1266,10 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 13</div>
-  </td>
-  <td>
-    <div>rs. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 9, 2000; No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14–17</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>rs. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 18(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 18(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 18(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2010</div>
+    <div>am. No. 9, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1845,7 +1277,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 42, 2002; No. 4, 2010</div>
+    <div>am. No. 42, 2002</div>
   </td>
 </tr>
 <tr>
@@ -1853,7 +1285,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 4, 2010</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1861,15 +1293,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 9, 2000; No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
+    <div>am. No. 9, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1882,22 +1306,6 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22A–22C</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
@@ -1906,50 +1314,18 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
 </tr>
 <tr>
   <td>
-    <div>Ss. 25, 26</div>
+    <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 9, 2000; No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
+    <div>am. No. 9, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 27A</div>
+    <div>S. 26</div>
   </td>
   <td>
-    <div>ad. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>rs. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
+    <div>am. No. 9, 2000</div>
   </td>
 </tr></table>
 
@@ -2003,7 +1379,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 
 _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
-## Schedule 1
+## Schedule 1
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
@@ -2086,31 +1462,5 @@ as if those repeals had not happened and those amendments had not been made.
 (1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
 (2)        The Governor-General may make regulations for the purposes of subitem (1).
-
-* * *
-
-_Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010 (No. 4, 2010)_
-
-## Schedule 3
-
-## 69  Saving provision—declarations of complementary witness protection laws
-
-(1)        A declaration made under paragraph (b) of the definition of **_complementary witness protection law_** in section 3 of the _Witness Protection Act 1994_ before the commencement of this item is not, and is taken never to have been, a legislative instrument.
-
-(2)        If the declaration was in force just before the commencement of this item, the declaration has effect from that commencement, subject to subitem (1), as if it had been made under section 3AA of that Act as inserted by this Schedule.
-
-## 70  Application—action in respect of former participants etc.
-
-The Commissioner may take action under subsection 13(5) of the _Witness Protection Act 1994_, as inserted by this Schedule, on or after the commencement of this item, whether the former participant concerned became a former participant before, on or after that commencement.
-
-## 71  Application—non-disclosure of former identity
-
-(1)        Section 16 of the _Witness Protection Act 1994_, as amended by this Act, applies on and after the commencement of this item in relation to a pre-commencement permission given to a participant for a particular purpose as if it were a post-commencement permission given for the participant not to disclose his or her original identity for that purpose.
-
-(2)        In this item:
-
-**_post-commencement permission_** means a permission given under paragraph 16(1)(b) of the _Witness Protection Act 1994_, as in force at the commencement of this item.
-
-**_pre-commencement permission_** means a permission given under paragraph 16(1)(b) of the _Witness Protection Act 1994_ before the commencement of this item.
 
  
