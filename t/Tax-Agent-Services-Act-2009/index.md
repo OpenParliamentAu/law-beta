@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00664/Html/2a5fb4f5-3879-4499-9606-c659ab0ae575_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00852/Html/TaxAgentServices2009_image001.gif)
 
 # Tax Agent Services Act 2009
 
 **Act No. 13 of 2009 as amended**
 
-This compilation was prepared on 23 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -22,29 +22,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Preliminary**
 
-[1‑1](#1‑1).         Short title [_see_ Note 1]
+[1-1](#1-1).         Short title [_see_ Note 1]
 
-[1‑5](#1‑5).         Commencement
+[1-5](#1-5).         Commencement
 
-[1‑10](#1‑10).       Extension of Act to external Territories
+[1-10](#1-10).       Extension of Act to external Territories
 
-[1‑15](#1‑15).       General administration of Act
+[1-15](#1-15).       General administration of Act
 
     **Division 2—Overview of this Act** 
 
-        **Subdivision 2‑A—Objects**
+        **Subdivision 2-A—Objects**
 
-[2‑5](#2‑5).         Object
+[2-5](#2-5).         Object
 
-        **Subdivision 2‑B—Guide**
+        **Subdivision 2-B—Guide**
 
-[2‑10](#2‑10).       General guide to each Part
+[2-10](#2-10).       General guide to each Part
 
     **Division 3—Explanation of the use of defined terms**
 
-[3‑5](#3‑5).         When defined terms are identified
+[3-5](#3-5).         When defined terms are identified
 
-[3‑10](#3‑10).       When defined terms are _not_ identified
+[3-10](#3-10).       When defined terms are _not_ identified
 
 **Part 2—Registration** 
 
@@ -52,33 +52,33 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Guide to this Division**
 
-[20‑1](#20‑1).       What this Division is about
+[20-1](#20-1).       What this Division is about
 
-        **Subdivision 20‑A—Eligibility for registration**
+        **Subdivision 20-A—Eligibility for registration**
 
-[20‑5](#20‑5).       Eligibility for registration as registered tax agent or BAS agent
+[20-5](#20-5).       Eligibility for registration as registered tax agent or BAS agent
 
-[20‑10](#20‑10).     Regulations may prescribe system regarding professional associations
+[20-10](#20-10).     Regulations may prescribe system regarding professional associations
 
-[20‑15](#20‑15).     Criteria for determining whether an individual is a fit and proper person
+[20-15](#20-15).     Criteria for determining whether an individual is a fit and proper person
 
-        **Subdivision 20‑B—Applying for registration**
+        **Subdivision 20-B—Applying for registration**
 
-[20‑20](#20‑20).     Application for registration
+[20-20](#20-20).     Application for registration
 
-[20‑25](#20‑25).     Registration
+[20-25](#20-25).     Registration
 
-[20‑30](#20‑30).     Board to notify you of grant of registration
+[20-30](#20-30).     Board to notify you of grant of registration
 
-[20‑35](#20‑35).     Commencement and duration of registration
+[20-35](#20-35).     Commencement and duration of registration
 
-[20‑40](#20‑40).     Variation of conditions of registration
+[20-40](#20-40).     Variation of conditions of registration
 
-[20‑45](#20‑45).     Certain events may affect your continued registration
+[20-45](#20-45).     Certain events may affect your continued registration
 
-        **Subdivision 20‑C—Renewing registration**
+        **Subdivision 20-C—Renewing registration**
 
-[20‑50](#20‑50).     Renewal of registration
+[20-50](#20-50).     Renewal of registration
 
 **Part 3—The Code of Professional Conduct** 
 
@@ -86,27 +86,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Guide to this Division**
 
-[30‑1](#30‑1).       What this Division is about
+[30-1](#30-1).       What this Division is about
 
-        **Subdivision 30‑A—The Code of Professional Conduct**
+        **Subdivision 30-A—The Code of Professional Conduct**
 
-[30‑5](#30‑5).       Application of the Code of Professional Conduct
+[30-5](#30-5).       Application of the Code of Professional Conduct
 
-[30‑10](#30‑10).     The Code of Professional Conduct
+[30-10](#30-10).     The Code of Professional Conduct
 
-        **Subdivision 30‑B—Your liability for administrative sanctions**
+        **Subdivision 30-B—Your liability for administrative sanctions**
 
-[30‑15](#30‑15).     Sanctions for failure to comply with the Code of Professional Conduct
+[30-15](#30-15).     Sanctions for failure to comply with the Code of Professional Conduct
 
-[30‑20](#30‑20).     Orders
+[30-20](#30-20).     Orders
 
-[30‑25](#30‑25).     Suspension
+[30-25](#30-25).     Suspension
 
-[30‑30](#30‑30).     Termination
+[30-30](#30-30).     Termination
 
-        **Subdivision 30‑C—Notifying a change of circumstances**
+        **Subdivision 30-C—Notifying a change of circumstances**
 
-[30‑35](#30‑35).     Obligation to notify a change of circumstances
+[30-35](#30-35).     Obligation to notify a change of circumstances
 
 **Part 4—Termination of registration** 
 
@@ -114,21 +114,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Guide to this Division**
 
-[40‑1](#40‑1).       What this Division is about
+[40-1](#40-1).       What this Division is about
 
-        **Subdivision 40‑A—Grounds for terminating registration**
+        **Subdivision 40-A—Grounds for terminating registration**
 
-[40‑5](#40‑5).       Termination of registration—individuals
+[40-5](#40-5).       Termination of registration—individuals
 
-[40‑10](#40‑10).     Termination of registration—partnerships
+[40-10](#40-10).     Termination of registration—partnerships
 
-[40‑15](#40‑15).     Termination of registration—companies
+[40-15](#40-15).     Termination of registration—companies
 
-        **Subdivision 40‑B—Notice and effect of termination**
+        **Subdivision 40-B—Notice and effect of termination**
 
-[40‑20](#40‑20).     Notification of decision to terminate registration and when termination takes effect
+[40-20](#40-20).     Notification of decision to terminate registration and when termination takes effect
 
-[40‑25](#40‑25).     Period during which you may not apply for registration
+[40-25](#40-25).     Period during which you may not apply for registration
 
 **Part 5—Civil penalties** 
 
@@ -136,31 +136,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Guide to this Division**
 
-[50‑1](#50‑1).       What this Division is about
+[50-1](#50-1).       What this Division is about
 
-        **Subdivision 50‑A—Conduct that is prohibited without registration**
+        **Subdivision 50-A—Conduct that is prohibited without registration**
 
-[50‑5](#50‑5).       Providing tax agent services if unregistered
+[50-5](#50-5).       Providing tax agent services if unregistered
 
-[50‑10](#50‑10).     Advertising tax agent services if unregistered
+[50-10](#50-10).     Advertising tax agent services if unregistered
 
-[50‑15](#50‑15).     Representing that you are a registered tax agent or BAS agent if unregistered
+[50-15](#50-15).     Representing that you are a registered tax agent or BAS agent if unregistered
 
-        **Subdivision 50‑B—Other civil penalties**
+        **Subdivision 50-B—Other civil penalties**
 
-[50‑20](#50‑20).     Making false or misleading statements
+[50-20](#50-20).     Making false or misleading statements
 
-[50‑25](#50‑25).     Employing or using the services of deregistered entities
+[50-25](#50-25).     Employing or using the services of deregistered entities
 
-[50‑30](#50‑30).     Signing of declarations etc 
+[50-30](#50-30).     Signing of declarations etc 
 
-        **Subdivision 50‑C—Obtaining an order for a civil penalty**
+        **Subdivision 50-C—Obtaining an order for a civil penalty**
 
-[50‑35](#50‑35).     Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision
+[50-35](#50-35).     Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision
 
-[50‑40](#50‑40).     Treatment of partnerships
+[50-40](#50-40).     Treatment of partnerships
 
-[50‑45](#50‑45).     Recovery of a pecuniary penalty
+[50-45](#50-45).     Recovery of a pecuniary penalty
 
 **Part 6—The Tax Practitioners Board** 
 
@@ -168,75 +168,75 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Guide to this Division**
 
-[60‑1](#60‑1).       What this Division is about
+[60-1](#60-1).       What this Division is about
 
-        **Subdivision 60‑A—Establishment, functions and powers of the Board**
+        **Subdivision 60-A—Establishment, functions and powers of the Board**
 
-[60‑5](#60‑5).       Establishment
+[60-5](#60-5).       Establishment
 
-[60‑10](#60‑10).     Membership
+[60-10](#60-10).     Membership
 
-[60‑15](#60‑15).     Functions
+[60-15](#60-15).     Functions
 
-[60‑20](#60‑20).     Powers
+[60-20](#60-20).     Powers
 
-        **Subdivision 60‑B—Appointment etc. of members of the Board**
+        **Subdivision 60-B—Appointment etc. of members of the Board**
 
-[60‑25](#60‑25).     Appointment
+[60-25](#60-25).     Appointment
 
-[60‑30](#60‑30).     Term of appointment
+[60-30](#60-30).     Term of appointment
 
-[60‑35](#60‑35).     Remuneration and allowances
+[60-35](#60-35).     Remuneration and allowances
 
-[60‑40](#60‑40).     Leave of absence
+[60-40](#60-40).     Leave of absence
 
-[60‑45](#60‑45).     Outside employment
+[60-45](#60-45).     Outside employment
 
-[60‑50](#60‑50).     Disclosure of interests
+[60-50](#60-50).     Disclosure of interests
 
-[60‑55](#60‑55).     Resignation
+[60-55](#60-55).     Resignation
 
-[60‑60](#60‑60).     Termination of appointment
+[60-60](#60-60).     Termination of appointment
 
-[60‑65](#60‑65).     Terms and conditions of appointment not provided for by Act
+[60-65](#60-65).     Terms and conditions of appointment not provided for by Act
 
-        **Subdivision 60‑C—Board procedures**
+        **Subdivision 60-C—Board procedures**
 
-[60‑70](#60‑70).     Meetings
+[60-70](#60-70).     Meetings
 
-[60‑75](#60‑75).     Decisions without meetings
+[60-75](#60-75).     Decisions without meetings
 
-[60‑80](#60‑80).     Administrative support for the Board
+[60-80](#60-80).     Administrative support for the Board
 
-        **Subdivision 60‑D—Committees etc.**
+        **Subdivision 60-D—Committees etc.**
 
-[60‑85](#60‑85).     Establishment of committees
+[60-85](#60-85).     Establishment of committees
 
-[60‑90](#60‑90).     Remuneration and allowances of committee members
+[60-90](#60-90).     Remuneration and allowances of committee members
 
-        **Subdivision 60‑E—Investigations**
+        **Subdivision 60-E—Investigations**
 
-[60‑95](#60‑95).     Investigations
+[60-95](#60-95).     Investigations
 
-[60‑100](#60‑100).   Power to request production of a document or thing
+[60-100](#60-100).   Power to request production of a document or thing
 
-[60‑105](#60‑105).   Power to require witnesses to appear before the Board
+[60-105](#60-105).   Power to require witnesses to appear before the Board
 
-[60‑110](#60‑110).   Power to take evidence on oath or affirmation
+[60-110](#60-110).   Power to take evidence on oath or affirmation
 
-[60‑115](#60‑115).   Self‑incrimination
+[60-115](#60-115).   Self-incrimination
 
-[60‑120](#60‑120).   Board may retain documents and things
+[60-120](#60-120).   Board may retain documents and things
 
-[60‑125](#60‑125).   Outcomes of investigations
+[60-125](#60-125).   Outcomes of investigations
 
-        **Subdivision 60‑F—Public reporting obligations of the Board**
+        **Subdivision 60-F—Public reporting obligations of the Board**
 
-[60‑130](#60‑130).   Annual report
+[60-130](#60-130).   Annual report
 
-[60‑135](#60‑135).   Register
+[60-135](#60-135).   Register
 
-[60‑140](#60‑140).   Publication of information
+[60-140](#60-140).   Publication of information
 
 **Part 7—Miscellaneous** 
 
@@ -244,55 +244,55 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Guide to this Division**
 
-[70‑1](#70‑1).       What this Division is about
+[70-1](#70-1).       What this Division is about
 
-        **Subdivision 70‑A—Injunctions**
+        **Subdivision 70-A—Injunctions**
 
-[70‑5](#70‑5).       Injunction to restrain or require certain conduct
+[70-5](#70-5).       Injunction to restrain or require certain conduct
 
-        **Subdivision 70‑B—Administrative review**
+        **Subdivision 70-B—Administrative review**
 
-[70‑10](#70‑10).     Administrative review
+[70-10](#70-10).     Administrative review
 
-        **Subdivision 70‑C—Provisions affecting trustees and partnerships**
+        **Subdivision 70-C—Provisions affecting trustees and partnerships**
 
-[70‑15](#70‑15).     How this Act applies to an individual or company in the capacity of a trustee
+[70-15](#70-15).     How this Act applies to an individual or company in the capacity of a trustee
 
-[70‑20](#70‑20).     Continuity of partnerships
+[70-20](#70-20).     Continuity of partnerships
 
-        **Subdivision 70‑D—Provisions relating to the Board**
+        **Subdivision 70-D—Provisions relating to the Board**
 
-[70‑25](#70‑25).     Immunity from legal action
+[70-25](#70-25).     Immunity from legal action
 
-[70‑30](#70‑30).     Delegation by Board
+[70-30](#70-30).     Delegation by Board
 
-        **Subdivision 70‑E—Miscellaneous**
+        **Subdivision 70-E—Miscellaneous**
 
-[70‑35](#70‑35).     Official information not to be disclosed
+[70-35](#70-35).     Official information not to be disclosed
 
-[70‑40](#70‑40).     Exceptions to the prohibition on disclosure of official information
+[70-40](#70-40).     Exceptions to the prohibition on disclosure of official information
 
-[70‑45](#70‑45).     On‑disclosure of official information
+[70-45](#70-45).     On-disclosure of official information
 
-[70‑50](#70‑50).     Legal professional privilege
+[70-50](#70-50).     Legal professional privilege
 
-[70‑55](#70‑55).     Regulations
+[70-55](#70-55).     Regulations
 
 **Part 8—Interpretation** 
 
     **Division 80—Rules for interpreting this Act**
 
-[80‑1](#80‑1).       What forms part of this Act
+[80-1](#80-1).       What forms part of this Act
 
-[80‑5](#80‑5).       The role of Guides in interpreting this Act
+[80-5](#80-5).       The role of Guides in interpreting this Act
 
     **Division 90—Dictionary**
 
-[90‑1](#90‑1).       Dictionary
+[90-1](#90-1).       Dictionary
 
-[90‑5](#90‑5).       Meaning of _tax agent service_
+[90-5](#90-5).       Meaning of _tax agent service_
 
-[90‑10](#90‑10).     Meaning of _BAS service_
+[90-10](#90-10).     Meaning of _BAS service_
 
 **Notes** 
 
@@ -304,19 +304,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Table of sections**
 
-1‑1            Short title
+1-1            Short title
 
-1‑5            Commencement
+1-5            Commencement
 
-1‑10          Extension of Act to external Territories
+1-10          Extension of Act to external Territories
 
-1‑15          General administration of Act
+1-15          General administration of Act
 
-##### <a id="1‑1"></a>1‑1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1-1"></a>1-1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Tax Agent Services Act 2009_.
 
-##### <a id="1‑5"></a>1‑5  Commencement
+##### <a id="1-5"></a>1-5  Commencement
 
              (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -407,7 +407,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 </tr>
 <tr>
   <td>
-    <div>3\. Sections 60‑1 to 60‑90</div>
+    <div>3\. Sections 60-1 to 60-90</div>
   </td>
   <td>
     <div>The day on which this Act receives the Royal Assent.</div>
@@ -418,7 +418,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 </tr>
 <tr>
   <td>
-    <div>4\. Sections 60‑95 to 70‑20</div>
+    <div>4\. Sections 60-95 to 70-20</div>
   </td>
   <td>
     <div>At the same time as the provision(s) covered by table item 2.</div>
@@ -429,7 +429,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 </tr>
 <tr>
   <td>
-    <div>5\. Sections 70‑25 to 70‑45</div>
+    <div>5\. Sections 70-25 to 70-45</div>
   </td>
   <td>
     <div>The day on which this Act receives the Royal Assent.</div>
@@ -440,7 +440,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 </tr>
 <tr>
   <td>
-    <div>6\. Sections 70‑50 and 70‑55</div>
+    <div>6\. Sections 70-50 and 70-55</div>
   </td>
   <td>
     <div>At the same time as the provision(s) covered by table item 2.</div>
@@ -465,11 +465,11 @@ Note:          This table relates only to the provisions of th
 
              (2)  Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
 
-##### <a id="1‑10"></a>1‑10  Extension of Act to external Territories
+##### <a id="1-10"></a>1-10  Extension of Act to external Territories
 
                    This Act extends to every external Territory.
 
-##### <a id="1‑15"></a>1‑15  General administration of Act
+##### <a id="1-15"></a>1-15  General administration of Act
 
                    The Board has the general administration of this Act.
 
@@ -477,17 +477,17 @@ Note:          This table relates only to the provisions of th
 
 **Table of Subdivisions**
 
-2‑A       Objects
+2-A        Objects
 
-2‑B        Guide
+2-B        Guide
 
-#### Subdivision 2‑A—Objects
+#### Subdivision 2-A—Objects
 
 **Table of sections**
 
-2‑5            Object
+2-5            Object
 
-##### <a id="2‑5"></a>2‑5  Object
+##### <a id="2-5"></a>2-5  Object
 
                    The object of this Act is to ensure that * tax agent services are provided to the public in accordance with appropriate standards of professional and ethical conduct. This is to be achieved by (among other things):
 
@@ -497,13 +497,13 @@ Note:          This table relates only to the provisions of th
 
                      (c)  providing for sanctions to discipline registered tax agents and BAS agents.
 
-#### Subdivision 2‑B—Guide
+#### Subdivision 2-B—Guide
 
 **Table of sections**
 
-2‑10          General guide to each Part
+2-10          General guide to each Part
 
-##### <a id="2‑10"></a>2‑10  General guide to each Part
+##### <a id="2-10"></a>2-10  General guide to each Part
 
              (1)  You need to be registered to provide * tax agent services for a fee or to engage in other conduct connected with providing such services. Part 2 sets out the requirements for registration.
 
@@ -523,19 +523,19 @@ Note:          This table relates only to the provisions of th
 
 **Table of sections**
 
-3‑5            When defined terms are identified
+3-5            When defined terms are identified
 
-3‑10          When defined terms are not identified
+3-10          When defined terms are not identified
 
-##### <a id="3‑5"></a>3‑5  When defined terms are identified
+##### <a id="3-5"></a>3-5  When defined terms are identified
 
-             (1)  Many of the terms used in this Act are defined in the Dictionary, starting at section 995‑1, to the _Income Tax Assessment Act 1997_. However, some terms used in this Act are only defined in this Act.
+             (1)  Many of the terms used in this Act are defined in the Dictionary, starting at section 995-1, to the _Income Tax Assessment Act 1997_. However, some terms used in this Act are only defined in this Act.
 
-Note:          Expressions in the _Income Tax Assessment Act 1997_ (other than the expression “this Act”) have the same meaning in this Act as well, see subsection 90‑1(2).
+Note:          Expressions in the _Income Tax Assessment Act 1997_ (other than the expression “this Act”) have the same meaning in this Act as well, see subsection 90-1(2).
 
              (2)  Most defined terms in this Act and the _Income Tax Assessment Act 1997_ are identified by an asterisk at the start of the term: as in “* BAS service”.
 
-##### <a id="3‑10"></a>3‑10  When defined terms are _not_ identified
+##### <a id="3-10"></a>3-10  When defined terms are _not_ identified
 
              (1)  Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.
 
@@ -545,7 +545,7 @@ Note:          Expressions in the _Income Tax Assessment Act 1
 
              (4)  If a term used in the _Income Tax Assessment Act 1997_ is used in this Act and the term is _not_ identified with an asterisk in that Act, the term is _not_ identified with an asterisk in this Act.
 
-Note:          For expressions in the _Income Tax Assessment Act 1997_ that are _not_ identified with an asterisk, see subsection 2‑15(3) of that Act.
+Note:          For expressions in the _Income Tax Assessment Act 1997_ that are _not_ identified with an asterisk, see subsection 2-15(3) of that Act.
 
 ## Part 2—Registration
 
@@ -553,15 +553,15 @@ Note:          For expressions in the _Income Tax Assessment A
 
 **Table of Subdivisions**
 
-20‑A     Eligibility for registration
+20-A      Eligibility for registration
 
-20‑B      Applying for registration
+20-B      Applying for registration
 
-20‑C      Renewing registration
+20-C      Renewing registration
 
 #### Guide to this Division
 
-##### <a id="20‑1"></a>20‑1  What this Division is about
+##### <a id="20-1"></a>20-1  What this Division is about
 
 * * *
 
@@ -575,17 +575,17 @@ You may also apply to have your registration renewed.
 
 * * *
 
-#### Subdivision 20‑A—Eligibility for registration
+#### Subdivision 20-A—Eligibility for registration
 
 **Table of sections**
 
-20‑5          Eligibility for registration as registered tax agent or BAS agent
+20-5          Eligibility for registration as registered tax agent or BAS agent
 
-20‑10        Regulations may prescribe system regarding professional associations
+20-10        Regulations may prescribe system regarding professional associations
 
-20‑15        Criteria for determining whether an individual is a fit and proper person
+20-15        Criteria for determining whether an individual is a fit and proper person
 
-##### <a id="20‑5"></a>20‑5  Eligibility for registration as registered tax agent or BAS agent
+##### <a id="20-5"></a>20-5  Eligibility for registration as registered tax agent or BAS agent
 
 Individuals
 
@@ -595,9 +595,9 @@ Individuals
 
                      (b)  the individual meets the requirements prescribed by the regulations (including, but not limited to, requirements relating to qualifications and experience) in respect of registration as a registered tax agent or BAS agent.
 
-Note 1:       An individual in the capacity of trustee of a trust can be registered: see section 70‑15.
+Note 1:       An individual in the capacity of trustee of a trust can be registered: see section 70-15.
 
-Note 2:       Subsection (4) provides for an exception to paragraph (1)(b) for pre‑1988 tax agents and nominees.
+Note 2:       Subsection (4) provides for an exception to paragraph (1)(b) for pre-1988 tax agents and nominees.
 
 Partnerships
 
@@ -639,9 +639,9 @@ Companies
 
                              (ii)  in the case of registration as a * registered BAS agent—a sufficient number of individuals, being registered tax agents or BAS agents, to provide * BAS services to a competent standard, and to carry out supervisory arrangements.
 
-Note:          A company in the capacity of trustee of a trust can be registered: see section 70‑15.
+Note:          A company in the capacity of trustee of a trust can be registered: see section 70-15.
 
-Special rule about pre‑1988 tax agents
+Special rule about pre-1988 tax agents
 
              (4)  An individual is eligible for registration as a * registered tax agent even if the Board is not satisfied that the individual satisfies the requirements mentioned in paragraph (1)(b) if:
 
@@ -653,11 +653,11 @@ Special rule about pre‑1988 tax agents
 
                      (b)  the individual is otherwise eligible for registration as a registered tax agent.
 
-##### <a id="20‑10"></a>20‑10  Regulations may prescribe system regarding professional associations
+##### <a id="20-10"></a>20-10  Regulations may prescribe system regarding professional associations
 
                    The regulations may provide for a system to allow the Board to accredit professional associations for the purposes of recognising professional qualifications and experience that are relevant to the registration of individuals as * registered tax agents and BAS agents.
 
-##### <a id="20‑15"></a>20‑15  Criteria for determining whether an individual is a fit and proper person
+##### <a id="20-15"></a>20-15  Criteria for determining whether an individual is a fit and proper person
 
                    In deciding whether it is satisfied that an individual is a fit and proper person, the Board must have regard to:
 
@@ -665,29 +665,29 @@ Special rule about pre‑1988 tax agents
 
                      (b)  without limiting paragraph (a):
 
-                              (i)  whether an event described in section 20‑45 has occurred during the previous 5 years; and
+                              (i)  whether an event described in section 20-45 has occurred during the previous 5 years; and
 
                              (ii)  whether the individual had the status of an undischarged bankrupt at any time during the previous 5 years; and
 
                             (iii)  whether the individual served a term of imprisonment, in whole or in part, at any time during the previous 5 years.
 
-#### Subdivision 20‑B—Applying for registration
+#### Subdivision 20-B—Applying for registration
 
 **Table of sections**
 
-20‑20        Application for registration
+20-20        Application for registration
 
-20‑25        Registration
+20-25        Registration
 
-20‑30        Board to notify you of grant of registration
+20-30        Board to notify you of grant of registration
 
-20‑35        Commencement and duration of registration
+20-35        Commencement and duration of registration
 
-20‑40        Variation of conditions of registration
+20-40        Variation of conditions of registration
 
-20‑45        Certain events may affect your continued registration
+20-45        Certain events may affect your continued registration
 
-##### <a id="20‑20"></a>20‑20  Application for registration
+##### <a id="20-20"></a>20-20  Application for registration
 
              (1)  You may apply to the Board for registration, including renewal of registration, as a * registered tax agent or BAS agent.
 
@@ -707,7 +707,7 @@ Special rule about pre‑1988 tax agents
 
 the Commissioner must refund the application fee to you.
 
-##### <a id="20‑25"></a>20‑25  Registration
+##### <a id="20-25"></a>20-25  Registration
 
 Grant of application for registration
 
@@ -717,7 +717,7 @@ Grant of application for registration
 
              (3)  If the Board does not decide your application within 6 months of receiving it, the Board is taken to have rejected your application. However, this does not apply if your application is for renewal of your registration.
 
-Note:          For renewals of registration, see section 20‑50.
+Note:          For renewals of registration, see section 20-50.
 
 Period of registration
 
@@ -729,13 +729,13 @@ Conditions of registration
 
              (6)  If a condition is imposed, it must relate to the subject area in respect of which you may provide * tax agent services.
 
-             (7)  In deciding whether to impose a condition, the Board must have regard to the requirements prescribed by regulations under paragraph 20‑5(1)(b) in relation to:
+             (7)  In deciding whether to impose a condition, the Board must have regard to the requirements prescribed by regulations under paragraph 20-5(1)(b) in relation to:
 
                      (a)  if you are an individual—your registration as a * registered tax agent or BAS agent; and
 
                      (b)  if you are a partnership or company—the registration of individuals who will provide * tax agent services for you.
 
-##### <a id="20‑30"></a>20‑30  Board to notify you of grant of registration
+##### <a id="20-30"></a>20-30  Board to notify you of grant of registration
 
 Notification of decision
 
@@ -759,7 +759,7 @@ Professional indemnity insurance
 
              (3)  If the Board grants your application, the Board may, by written notice, require you to maintain professional indemnity insurance as specified in the notice. The notice may be given to you at the same time as the notice referred to in subsection (1), or subsequently.
 
-##### <a id="20‑35"></a>20‑35  Commencement and duration of registration
+##### <a id="20-35"></a>20-35  Commencement and duration of registration
 
                    Your registration:
 
@@ -767,13 +767,13 @@ Professional indemnity insurance
 
                               (i)  if it is a renewal of your registration—on the day after the day on which your previous registration expired; or
 
-                             (ii)  in any other case—on the day specified in the notice given under subsection 20‑30(1); and
+                             (ii)  in any other case—on the day specified in the notice given under subsection 20-30(1); and
 
                      (b)  expires at the end of the period determined by the Board, unless it is terminated before that time.
 
-Note:          Registration may be terminated under Subdivision 30‑B or 40‑A.
+Note:          Registration may be terminated under Subdivision 30-B or 40-A.
 
-##### <a id="20‑40"></a>20‑40  Variation of conditions of registration
+##### <a id="20-40"></a>20-40  Variation of conditions of registration
 
              (1)  The Board may vary a condition to which your registration as a * registered tax agent or BAS agent is subject if:
 
@@ -787,7 +787,7 @@ Note:          Registration may be terminated under Subdivisio
 
                      (b)  accompanied by  any information or documents that are required by the Board.
 
-##### <a id="20‑45"></a>20‑45  Certain events may affect your continued registration
+##### <a id="20-45"></a>20-45  Certain events may affect your continued registration
 
                    The following events may affect your continued registration as a * registered tax agent or BAS agent:
 
@@ -803,15 +803,15 @@ Note:          Registration may be terminated under Subdivisio
 
                       (f)  you are sentenced to a term of imprisonment.
 
-#### Subdivision 20‑C—Renewing registration
+#### Subdivision 20-C—Renewing registration
 
 **Table of sections**
 
-20‑50        Renewal of registration
+20-50        Renewal of registration
 
-##### <a id="20‑50"></a>20‑50  Renewal of registration
+##### <a id="20-50"></a>20-50  Renewal of registration
 
-             (1)  The Board may renew your registration under section 20‑25 if you make an application for renewal:
+             (1)  The Board may renew your registration under section 20-25 if you make an application for renewal:
 
                      (a)  at least 30 days before the day on which your registration expires; or
 
@@ -819,7 +819,7 @@ Note:          Registration may be terminated under Subdivisio
 
              (2)  Your registration is taken to continue until your application has been decided.
 
-             (3)  You may apply for renewal of registration during a period when your registration is suspended under section 30‑25.
+             (3)  You may apply for renewal of registration during a period when your registration is suspended under section 30-25.
 
 ## Part 3—The Code of Professional Conduct
 
@@ -827,15 +827,15 @@ Note:          Registration may be terminated under Subdivisio
 
 **Table of Subdivisions**
 
-30‑A     The Code of Professional Conduct
+30-A      The Code of Professional Conduct
 
-30‑B      Your liability for administrative sanctions
+30-B      Your liability for administrative sanctions
 
-30‑C      Notifying a change of circumstances
+30-C      Notifying a change of circumstances
 
 #### Guide to this Division
 
-##### <a id="30‑1"></a>30‑1  What this Division is about
+##### <a id="30-1"></a>30-1  What this Division is about
 
 * * *
 
@@ -847,19 +847,19 @@ You must also notify the Board if certain circumstances change, including if you
 
 * * *
 
-#### Subdivision 30‑A—The Code of Professional Conduct
+#### Subdivision 30-A—The Code of Professional Conduct
 
 **Table of sections**
 
-30‑5          Application of the Code of Professional Conduct
+30-5          Application of the Code of Professional Conduct
 
-30‑10        The Code of Professional Conduct
+30-10        The Code of Professional Conduct
 
-##### <a id="30‑5"></a>30‑5  Application of the Code of Professional Conduct
+##### <a id="30-5"></a>30-5  Application of the Code of Professional Conduct
 
                    The * Code of Professional Conduct applies to you if you are a * registered tax agent or BAS agent.
 
-##### <a id="30‑10"></a>30‑10  The Code of Professional Conduct
+##### <a id="30-10"></a>30-10  The Code of Professional Conduct
 
 Honesty and integrity
 
@@ -905,33 +905,33 @@ Other responsibilities
 
            (14)  You must respond to requests and directions from the Board in a timely, responsible and reasonable manner.
 
-#### Subdivision 30‑B—Your liability for administrative sanctions
+#### Subdivision 30-B—Your liability for administrative sanctions
 
 **Table of sections**
 
-30‑15        Sanctions for failure to comply with the Code of Professional Conduct
+30-15        Sanctions for failure to comply with the Code of Professional Conduct
 
-30‑20        Orders
+30-20        Orders
 
-30‑25        Suspension
+30-25        Suspension
 
-30‑30        Termination
+30-30        Termination
 
-##### <a id="30‑15"></a>30‑15  Sanctions for failure to comply with the Code of Professional Conduct
+##### <a id="30-15"></a>30-15  Sanctions for failure to comply with the Code of Professional Conduct
 
-             (1)  This Subdivision applies if the Board is satisfied, after conducting an investigation under Subdivision 60‑E, that you have failed to comply with the * Code of Professional Conduct.
+             (1)  This Subdivision applies if the Board is satisfied, after conducting an investigation under Subdivision 60-E, that you have failed to comply with the * Code of Professional Conduct.
 
              (2)  The Board may do one or more of the following:
 
                      (a)  give you a written caution;
 
-                     (b)  give you an order under section 30‑20;
+                     (b)  give you an order under section 30-20;
 
-                     (c)  suspend your registration under section 30‑25;
+                     (c)  suspend your registration under section 30-25;
 
-                     (d)  terminate your registration under section 30‑30.
+                     (d)  terminate your registration under section 30-30.
 
-##### <a id="30‑20"></a>30‑20  Orders
+##### <a id="30-20"></a>30-20  Orders
 
              (1)  The Board may make an order that requires you take one or more actions including, but not limited to, the following:
 
@@ -947,37 +947,37 @@ Other responsibilities
 
                      (b)  the period of time during which the order applies.
 
-##### <a id="30‑25"></a>30‑25  Suspension
+##### <a id="30-25"></a>30-25  Suspension
 
              (1)  The Board may, by notice in writing, suspend your registration for a period determined by the Board.
 
-Note:          The Board must cause notice of its decision to be published in the _Gazette_: see section 60‑140.
+Note:          The Board must cause notice of its decision to be published in the _Gazette_: see section 60-140.
 
              (2)  You must not provide * tax agent services during the period of suspension.
 
-Note:          If you provide tax agent services while suspended, you may contravene a civil penalty provision: see subsection (4) and Subdivision 50‑A.
+Note:          If you provide tax agent services while suspended, you may contravene a civil penalty provision: see subsection (4) and Subdivision 50-A.
 
              (3)  If, when the Board suspends your registration under subsection (1), your registration is already suspended, suspension is for a further period that the Board determines is appropriate. The further period commences at the end of the period of suspension.
 
              (4)  While you are suspended, you are taken not to be a * registered tax agent or BAS agent, except for the purposes of:
 
-                     (a)  Part 2 (Registration), Subdivision 30‑C (Notifying a change of circumstances) and Part 4 (Termination of registration); and
+                     (a)  Part 2 (Registration), Subdivision 30-C (Notifying a change of circumstances) and Part 4 (Termination of registration); and
 
                      (b)  this Division.
 
-##### <a id="30‑30"></a>30‑30  Termination
+##### <a id="30-30"></a>30-30  Termination
 
                    The Board may terminate your registration.
 
-Note:          For notice and effect of termination, see Subdivision 40‑B.
+Note:          For notice and effect of termination, see Subdivision 40-B.
 
-#### Subdivision 30‑C—Notifying a change of circumstances
+#### Subdivision 30-C—Notifying a change of circumstances
 
 **Table of sections**
 
-30‑35        Obligation to notify a change of circumstances
+30-35        Obligation to notify a change of circumstances
 
-##### <a id="30‑35"></a>30‑35  Obligation to notify a change of circumstances
+##### <a id="30-35"></a>30-35  Obligation to notify a change of circumstances
 
 Individuals
 
@@ -985,7 +985,7 @@ Individuals
 
                      (a)  you cease to meet one of the * tax practitioner registration requirements; or
 
-                     (b)  an event affecting your continued registration, as described in section 20‑45, occurs.
+                     (b)  an event affecting your continued registration, as described in section 20-45, occurs.
 
 Partnerships
 
@@ -993,7 +993,7 @@ Partnerships
 
                      (a)  you cease to meet one of the * tax practitioner registration requirements; or
 
-                     (b)  an event affecting your continued registration, as described in section 20‑45, occurs in respect of:
+                     (b)  an event affecting your continued registration, as described in section 20-45, occurs in respect of:
 
                               (i)  a partner in the partnership; or
 
@@ -1007,7 +1007,7 @@ Companies
 
                      (a)  you cease to meet one of the * tax practitioner registration requirements; or
 
-                     (b)  an event affecting your continued registration, as described in section 20‑45, occurs in respect of a director of the company; or
+                     (b)  an event affecting your continued registration, as described in section 20-45, occurs in respect of a director of the company; or
 
                      (c)  an individual becomes, or ceases to be, a director of the company.
 
@@ -1015,7 +1015,7 @@ When notice must be given
 
              (4)  You must give the notice within 30 days of the day on which you become, or ought to have become, aware that the event occurred.
 
-Note:          A breach of this subsection is a breach of section 8C of the _Taxation Administration Act 1953_ and of subsection 30‑10(2) of this Act.
+Note:          A breach of this subsection is a breach of section 8C of the _Taxation Administration Act 1953_ and of subsection 30-10(2) of this Act.
 
 ## Part 4—Termination of registration
 
@@ -1023,41 +1023,41 @@ Note:          A breach of this subsection is a breach of sect
 
 **Table of Subdivisions**
 
-40‑A     Grounds for terminating registration
+40-A      Grounds for terminating registration
 
-40‑B      Notice and effect of termination
+40-B      Notice and effect of termination
 
 #### Guide to this Division
 
-##### <a id="40‑1"></a>40‑1  What this Division is about
+##### <a id="40-1"></a>40-1  What this Division is about
 
 * * *
 
-Your registration may be terminated if an event occurs that affects your continued registration (see section 20‑45), you cease to meet the tax practitioner registration requirements or you breach a condition of your registration. If your registration is terminated, the Board may also determine a period during which you may not apply for registration.
+Your registration may be terminated if an event occurs that affects your continued registration (see section 20-45), you cease to meet the tax practitioner registration requirements or you breach a condition of your registration. If your registration is terminated, the Board may also determine a period during which you may not apply for registration.
 
 * * *
 
-#### Subdivision 40‑A—Grounds for terminating registration
+#### Subdivision 40-A—Grounds for terminating registration
 
 **Table of sections**
 
-40‑5          Termination of registration—individuals
+40-5          Termination of registration—individuals
 
-40‑10        Termination of registration—partnerships
+40-10        Termination of registration—partnerships
 
-40‑15        Termination of registration—companies
+40-15        Termination of registration—companies
 
-##### <a id="40‑5"></a>40‑5  Termination of registration—individuals
+##### <a id="40-5"></a>40-5  Termination of registration—individuals
 
              (1)  If you are a * registered tax agent or BAS agent and an individual, the Board may terminate your registration if:
 
-                     (a)  an event affecting your continued registration, as described in section 20‑45, occurs; or
+                     (a)  an event affecting your continued registration, as described in section 20-45, occurs; or
 
                      (b)  you cease to meet one of the * tax practitioner registration requirements; or
 
                      (c)  you breach a condition of your registration.
 
-Note:          The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision 30‑B.
+Note:          The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision 30-B.
 
              (2)  The Board must terminate your registration if:
 
@@ -1065,7 +1065,7 @@ Note:          The Board may also terminate your registration 
 
                      (b)  you die.
 
-##### <a id="40‑10"></a>40‑10  Termination of registration—partnerships
+##### <a id="40-10"></a>40-10  Termination of registration—partnerships
 
              (1)  If you are a * registered tax agent or BAS agent and a partnership, the Board may terminate your registration if:
 
@@ -1073,15 +1073,15 @@ Note:          The Board may also terminate your registration 
 
                      (b)  you breach a condition of your registration.
 
-Note:          The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision 30‑B.
+Note:          The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision 30-B.
 
              (2)  The Board must terminate your registration if you surrender your registration by notice in writing to the Board.
 
-             (3)  If an event affecting your continued registration, as described in section 20‑45, occurs in respect of a partner in your partnership, then the Board may, by notice in writing, require you to remove the partner from your partnership within the period specified in the notice.
+             (3)  If an event affecting your continued registration, as described in section 20-45, occurs in respect of a partner in your partnership, then the Board may, by notice in writing, require you to remove the partner from your partnership within the period specified in the notice.
 
-Note:          A failure to comply with a notice given under this subsection is a breach of subsection 30‑10(14).
+Note:          A failure to comply with a notice given under this subsection is a breach of subsection 30-10(14).
 
-             (4)  If an event affecting your continued registration, as described in section 20‑45, occurs in respect of a director of a company that is a partner in your partnership, then the Board may, by notice in writing, require:
+             (4)  If an event affecting your continued registration, as described in section 20-45, occurs in respect of a director of a company that is a partner in your partnership, then the Board may, by notice in writing, require:
 
                      (a)  you to remove the partner from your partnership; or
 
@@ -1089,7 +1089,7 @@ Note:          A failure to comply with a notice given under t
 
 within the period specified in the notice.
 
-Note:          A failure to comply with a notice given under this subsection is a breach of subsection 30‑10(14).
+Note:          A failure to comply with a notice given under this subsection is a breach of subsection 30-10(14).
 
              (5)  In determining the period, the Board must have regard to:
 
@@ -1097,17 +1097,17 @@ Note:          A failure to comply with a notice given under t
 
                      (b)  for the purpose of paragraph (4)(b)—any requirement of the _Corporations Act 2001_ in relation to the removal of directors.
 
-##### <a id="40‑15"></a>40‑15  Termination of registration—companies
+##### <a id="40-15"></a>40-15  Termination of registration—companies
 
              (1)  If you are a * registered tax agent or BAS agent and a company, the Board may terminate your registration if:
 
-                     (a)  an event affecting your continued registration, as described in section 20‑45, occurs; or
+                     (a)  an event affecting your continued registration, as described in section 20-45, occurs; or
 
                      (b)  you cease to meet one of the * tax practitioner registration requirements; or
 
                      (c)  you breach a condition of your registration.
 
-Note:          The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision 30‑B.
+Note:          The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision 30-B.
 
              (2)  The Board must terminate your registration if:
 
@@ -1115,37 +1115,37 @@ Note:          The Board may also terminate your registration 
 
                      (b)  you cease to exist.
 
-             (3)  If an event affecting your continued registration, as described in section 20‑45, occurs in respect of a director of your company, then the Board may, by notice in writing, require you to remove the director from the board of directors within the period specified in the notice. In determining the period, the Board must have regard to any requirement of the _Corporations Act 2001_ in relation to the removal of directors.
+             (3)  If an event affecting your continued registration, as described in section 20-45, occurs in respect of a director of your company, then the Board may, by notice in writing, require you to remove the director from the board of directors within the period specified in the notice. In determining the period, the Board must have regard to any requirement of the _Corporations Act 2001_ in relation to the removal of directors.
 
-Note:          A failure to comply with a notice given under this subsection is a breach of subsection 30‑10(14).
+Note:          A failure to comply with a notice given under this subsection is a breach of subsection 30-10(14).
 
-#### Subdivision 40‑B—Notice and effect of termination
+#### Subdivision 40-B—Notice and effect of termination
 
 **Table of sections**
 
-40‑20        Notification of decision to terminate registration and when termination takes effect
+40-20        Notification of decision to terminate registration and when termination takes effect
 
-40‑25        Period during which you may not apply for registration
+40-25        Period during which you may not apply for registration
 
-##### <a id="40‑20"></a>40‑20  Notification of decision to terminate registration and when termination takes effect
+##### <a id="40-20"></a>40-20  Notification of decision to terminate registration and when termination takes effect
 
              (1)  If the Board terminates your registration, the Board must, within 30 days of the decision to terminate your registration, notify you in writing of:
 
                      (a)  the decision and the reasons for the decision; and
 
-                     (b)  any determination under section 40‑25 of a period during which you are not eligible to apply for registration.
+                     (b)  any determination under section 40-25 of a period during which you are not eligible to apply for registration.
 
 However, a failure to notify does not affect the validity of the Board’s decision.
 
-Note 1:       The Board may terminate your registration under Subdivision 30‑B or 40‑A.
+Note 1:       The Board may terminate your registration under Subdivision 30-B or 40-A.
 
-Note 2:       The Board must cause notice of its decision to be published in the _Gazette_: see section 60‑140.
+Note 2:       The Board must cause notice of its decision to be published in the _Gazette_: see section 60-140.
 
              (2)  The termination takes effect on the day specified in the notice given under subsection (1). The day specified in the notice must be at least 28 days after the date of the notice.
 
              (3)  The Board must also notify the Commissioner of the Board’s decision and the reasons for the decision.
 
-##### <a id="40‑25"></a>40‑25  Period during which you may not apply for registration
+##### <a id="40-25"></a>40-25  Period during which you may not apply for registration
 
              (1)  If the Board terminates your registration, the Board may also determine a period, of not more than 5 years, during which you may not apply for registration.
 
@@ -1163,15 +1163,15 @@ Note 2:       The Board must cause notice of its decision to be publ
 
 **Table of Subdivisions**
 
-50‑A     Conduct that is prohibited without registration
+50-A      Conduct that is prohibited without registration
 
-50‑B      Other civil penalties
+50-B      Other civil penalties
 
-50‑C      Obtaining an order for a civil penalty
+50-C      Obtaining an order for a civil penalty
 
 #### Guide to this Division
 
-##### <a id="50‑1"></a>50‑1  What this Division is about
+##### <a id="50-1"></a>50-1  What this Division is about
 
 * * *
 
@@ -1183,17 +1183,17 @@ You also contravene a civil penalty provision if you are registered and you make
 
 * * *
 
-#### Subdivision 50‑A—Conduct that is prohibited without registration
+#### Subdivision 50-A—Conduct that is prohibited without registration
 
 **Table of sections**
 
-50‑5          Providing tax agent services if unregistered
+50-5          Providing tax agent services if unregistered
 
-50‑10        Advertising tax agent services if unregistered
+50-10        Advertising tax agent services if unregistered
 
-50‑15        Representing that you are a registered tax agent or BAS agent if unregistered
+50-15        Representing that you are a registered tax agent or BAS agent if unregistered
 
-##### <a id="50‑5"></a>50‑5  Providing tax agent services if unregistered
+##### <a id="50-5"></a>50-5  Providing tax agent services if unregistered
 
              (1)  You contravene this subsection if:
 
@@ -1217,7 +1217,7 @@ You also contravene a civil penalty provision if you are registered and you make
 
                      (b)  for a body corporate—1,250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (2)  You contravene this subsection if:
 
@@ -1241,7 +1241,7 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                      (b)  for a body corporate—1,250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (3)  Subparagraph (1)(e)(ii) does not apply if you provide the * tax agent service as a legal service in the course of acting for a trust or deceased estate as trustee or * legal personal representative.
 
@@ -1249,7 +1249,7 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
              (5)  If you wish to rely on subsection (3) or (4) in civil penalty proceedings, you bear an evidential burden in relation to that matter.
 
-##### <a id="50‑10"></a>50‑10  Advertising tax agent services if unregistered
+##### <a id="50-10"></a>50-10  Advertising tax agent services if unregistered
 
              (1)  You contravene this subsection if:
 
@@ -1273,7 +1273,7 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                      (b)  for a body corporate—250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (2)  You contravene this subsection if:
 
@@ -1297,7 +1297,7 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                      (b)  for a body corporate—250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (3)  Subparagraph (1)(d)(ii) does not apply if you would provide the * tax agent service as a legal service in the course of acting for a trust or deceased estate as trustee or * legal personal representative.
 
@@ -1305,7 +1305,7 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
              (5)  A notice under paragraph (1)(e) or (2)(e) is not a legislative instrument _._
 
-##### <a id="50‑15"></a>50‑15  Representing that you are a registered tax agent or BAS agent if unregistered
+##### <a id="50-15"></a>50-15  Representing that you are a registered tax agent or BAS agent if unregistered
 
                    You contravene this section if:
 
@@ -1319,19 +1319,19 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                      (b)  for a body corporate—250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
-#### Subdivision 50‑B—Other civil penalties
+#### Subdivision 50-B—Other civil penalties
 
 **Table of sections**
 
-50‑20        Making false or misleading statements
+50-20        Making false or misleading statements
 
-50‑25        Employing or using the services of deregistered entities
+50-25        Employing or using the services of deregistered entities
 
-50‑30        Signing of declarations etc.
+50-30        Signing of declarations etc.
 
-##### <a id="50‑20"></a>50‑20  Making false or misleading statements
+##### <a id="50-20"></a>50-20  Making false or misleading statements
 
                    You contravene this section if:
 
@@ -1357,11 +1357,11 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                      (b)  for a body corporate—1,250 penalty units.
 
-Note 1:       Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note 1:       Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
 Note 2:       In some circumstances, it is an offence to recklessly make a false or misleading statement under sections 8K and 8N of the _Taxation Administration Act 1953_.
 
-##### <a id="50‑25"></a>50‑25  Employing or using the services of deregistered entities
+##### <a id="50-25"></a>50-25  Employing or using the services of deregistered entities
 
              (1)  You contravene this subsection if:
 
@@ -1381,7 +1381,7 @@ Note 2:       In some circumstances, it is an offence to recklessly 
 
                      (b)  for a body corporate—1,250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (2)  Subsection (1) does not apply if the entity’s registration was terminated:
 
@@ -1393,7 +1393,7 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                      (b)  because of a reason prescribed by the regulations.
 
-##### <a id="50‑30"></a>50‑30  Signing of declarations etc.
+##### <a id="50-30"></a>50-30  Signing of declarations etc.
 
 Individuals
 
@@ -1411,9 +1411,9 @@ Individuals
 
                             (iii)  another individual who is working under your supervision and control or the supervision and control of another registered tax agent who is an individual.
 
-                    Civil penalty:          250 penalty units.
+                    Civil penalty:            250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (2)  You contravene this subsection if:
 
@@ -1429,9 +1429,9 @@ Note:          Subdivision 50‑C of this Act and Subdivisio
 
                             (iii)  an individual who is working under your supervision and control or the supervision and control of another registered tax agent or BAS agent who is an individual.
 
-                    Civil penalty:          250 penalty units.
+                    Civil penalty:            250 penalty units.
 
-Note:          Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note:          Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
 Partnerships and companies
 
@@ -1447,11 +1447,11 @@ Partnerships and companies
 
                              (ii)  an individual who is working under the supervision and control of a registered tax agent who is an individual.
 
-                    Civil penalty:          1,250 penalty units.
+                    Civil penalty:            1,250 penalty units.
 
-Note 1:       If you are a partnership and contravene this subsection, see also section 50‑40.
+Note 1:       If you are a partnership and contravene this subsection, see also section 50-40.
 
-Note 2:       Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note 2:       Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (4)  You contravene this subsection if:
 
@@ -1465,25 +1465,25 @@ Note 2:       Subdivision 50‑C of this Act and Subdivision 298
 
                              (ii)  an individual who is working under the supervision and control of a registered tax agent or BAS agent who is an individual.
 
-                    Civil penalty:          1,250 penalty units.
+                    Civil penalty:            1,250 penalty units.
 
-Note 1:       If you are a partnership and contravene this subsection, see also section 50‑40.
+Note 1:       If you are a partnership and contravene this subsection, see also section 50-40.
 
-Note 2:       Subdivision 50‑C of this Act and Subdivision 298‑B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
+Note 2:       Subdivision 50-C of this Act and Subdivision 298-B of Schedule 1 to the _Taxation Administration Act 1953_ determine the procedure for obtaining a civil penalty order against you.
 
              (5)  Subsections (1) to (4) do not apply if you took reasonable steps to ensure the accuracy of the document. In civil penalty proceedings, you bear the evidential burden of proving that you took such reasonable steps.
 
-#### Subdivision 50‑C—Obtaining an order for a civil penalty
+#### Subdivision 50-C—Obtaining an order for a civil penalty
 
 **Table of sections**
 
-50‑35        Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision
+50-35        Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision
 
-50‑40        Treatment of partnerships
+50-40        Treatment of partnerships
 
-50‑45        Recovery of a pecuniary penalty
+50-45        Recovery of a pecuniary penalty
 
-##### <a id="50‑35"></a>50‑35  Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision
+##### <a id="50-35"></a>50-35  Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision
 
 Application for order
 
@@ -1497,7 +1497,7 @@ Conduct contravening more than one civil penalty provision
 
              (3)  If conduct contravenes 2 or more civil penalty provisions of this Act, proceedings may be instituted against you in relation to the contravention of any one or more of those provisions. However, you are not liable to more than one pecuniary penalty in respect of the same conduct.
 
-##### <a id="50‑40"></a>50‑40  Treatment of partnerships
+##### <a id="50-40"></a>50-40  Treatment of partnerships
 
              (1)  If a partnership contravenes a civil penalty provision, each partner in the partnership, at the time of the conduct constituting the contravention, is taken to have contravened the civil penalty provision unless the partner proves, on the balance of probabilities, that the partner:
 
@@ -1509,11 +1509,11 @@ Conduct contravening more than one civil penalty provision
 
              (2)  If a partnership contravenes a civil penalty provision, the civil penalty that may be imposed on each partner in the partnership:
 
-                     (a)  if the partner is an individual—must not exceed an amount equal to one‑fifth of the maximum penalty that could be imposed on a body corporate for the same contravention; and
+                     (a)  if the partner is an individual—must not exceed an amount equal to one-fifth of the maximum penalty that could be imposed on a body corporate for the same contravention; and
 
                      (b)  in any other case—must not exceed the maximum penalty that could be imposed on a body corporate for the same contravention.
 
-##### <a id="50‑45"></a>50‑45  Recovery of a pecuniary penalty
+##### <a id="50-45"></a>50-45  Recovery of a pecuniary penalty
 
                    If the * Federal Court orders you to pay a pecuniary penalty:
 
@@ -1527,21 +1527,21 @@ Conduct contravening more than one civil penalty provision
 
 **Table of Subdivisions**
 
-60‑A     Establishment, functions and powers of the Board
+60-A      Establishment, functions and powers of the Board
 
-60‑B      Appointment etc. of members of the Board
+60-B      Appointment etc. of members of the Board
 
-60‑C      Board procedures
+60-C      Board procedures
 
-60‑D     Committees etc.
+60-D      Committees etc.
 
-60‑E      Investigations
+60-E      Investigations
 
-60‑F      Public reporting obligations of the Board
+60-F       Public reporting obligations of the Board
 
 #### Guide to this Division
 
-##### <a id="60‑1"></a>60‑1  What this Division is about
+##### <a id="60-1"></a>60-1  What this Division is about
 
 * * *
 
@@ -1553,23 +1553,23 @@ The Board must also report to the Minister on its operations each year, maintain
 
 * * *
 
-#### Subdivision 60‑A—Establishment, functions and powers of the Board
+#### Subdivision 60-A—Establishment, functions and powers of the Board
 
 **Table of sections**
 
-60‑5          Establishment
+60-5          Establishment
 
-60‑10        Membership
+60-10        Membership
 
-60‑15        Functions
+60-15        Functions
 
-60‑20        Powers
+60-20        Powers
 
-##### <a id="60‑5"></a>60‑5  Establishment
+##### <a id="60-5"></a>60-5  Establishment
 
                    The Tax Practitioners Board is established.
 
-##### <a id="60‑10"></a>60‑10  Membership
+##### <a id="60-10"></a>60-10  Membership
 
              (1)  The Board consists of:
 
@@ -1579,7 +1579,7 @@ The Board must also report to the Minister on its operations each year, maintain
 
              (2)  The performance of the functions, or the exercise of the powers, of the Board is not affected only because of a vacancy or vacancies in the membership of the Board.
 
-##### <a id="60‑15"></a>60‑15  Functions
+##### <a id="60-15"></a>60-15  Functions
 
                    The functions of the Board are:
 
@@ -1591,7 +1591,7 @@ The Board must also report to the Minister on its operations each year, maintain
 
                              (ii)  conduct that may breach this Act; and
 
-                     (c)  to impose sanctions for non‑compliance with the * Code of Professional Conduct; and
+                     (c)  to impose sanctions for non-compliance with the * Code of Professional Conduct; and
 
                      (d)  to issue, by legislative instrument, guidelines to assist in achieving the functions mentioned in paragraphs (a), (b) and (c); and
 
@@ -1599,35 +1599,35 @@ The Board must also report to the Minister on its operations each year, maintain
 
                       (f)  to do anything incidental or conducive to the performance of its functions.
 
-##### <a id="60‑20"></a>60‑20  Powers
+##### <a id="60-20"></a>60-20  Powers
 
                    The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-#### Subdivision 60‑B—Appointment etc. of members of the Board
+#### Subdivision 60-B—Appointment etc. of members of the Board
 
 **Table of sections**
 
-60‑25        Appointment
+60-25        Appointment
 
-60‑30        Term of appointment
+60-30        Term of appointment
 
-60‑35        Remuneration and allowances
+60-35        Remuneration and allowances
 
-60‑40        Leave of absence
+60-40        Leave of absence
 
-60‑45        Outside employment
+60-45        Outside employment
 
-60‑50        Disclosure of interests
+60-50        Disclosure of interests
 
-60‑55        Resignation
+60-55        Resignation
 
-60‑60        Termination of appointment
+60-60        Termination of appointment
 
-60‑65        Terms and conditions of appointment not provided for by Act
+60-65        Terms and conditions of appointment not provided for by Act
 
-##### <a id="60‑25"></a>60‑25  Appointment
+##### <a id="60-25"></a>60-25  Appointment
 
-             (1)  A Board member is to be appointed by the Minister by written instrument, on a full‑time basis or on a part‑time basis.
+             (1)  A Board member is to be appointed by the Minister by written instrument, on a full-time basis or on a part-time basis.
 
              (2)  The Minister must appoint one of the * Board members to be the * Chair. However, that member must not be:
 
@@ -1637,13 +1637,13 @@ The Board must also report to the Minister on its operations each year, maintain
 
              (3)  A person’s appointment as a * Board member is not invalid because of a defect or irregularity in connection with the person’s appointment.
 
-##### <a id="60‑30"></a>60‑30  Term of appointment
+##### <a id="60-30"></a>60-30  Term of appointment
 
                    A * Board member holds office for the period specified in the instrument of appointment.
 
 Note:          A Board member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
-##### <a id="60‑35"></a>60‑35  Remuneration and allowances
+##### <a id="60-35"></a>60-35  Remuneration and allowances
 
              (1)  A * Board member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration is in operation, a Board member is to be paid the remuneration that is prescribed by the regulations.
 
@@ -1651,31 +1651,31 @@ Note:          A Board member is eligible for reappointment: s
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="60‑40"></a>60‑40  Leave of absence
+##### <a id="60-40"></a>60-40  Leave of absence
 
-             (1)  A full‑time * Board member has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A full-time * Board member has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time * Board member leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant a full-time * Board member leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-             (3)  The Minister may grant leave of absence to a part‑time * Board member on the terms and conditions that the Minister determines.
+             (3)  The Minister may grant leave of absence to a part-time * Board member on the terms and conditions that the Minister determines.
 
-##### <a id="60‑45"></a>60‑45  Outside employment
+##### <a id="60-45"></a>60-45  Outside employment
 
-             (1)  A full‑time * Board member must not engage in paid employment outside the duties of his or her office without the Minister’s approval.
+             (1)  A full-time * Board member must not engage in paid employment outside the duties of his or her office without the Minister’s approval.
 
-             (2)  A part‑time * Board member must not engage in paid employment that conflicts or may conflict with the proper performance of his or her duties.
+             (2)  A part-time * Board member must not engage in paid employment that conflicts or may conflict with the proper performance of his or her duties.
 
-##### <a id="60‑50"></a>60‑50  Disclosure of interests
+##### <a id="60-50"></a>60-50  Disclosure of interests
 
                    A * Board member must give written notice to the Minister of any direct or indirect pecuniary interest that the Board member has or acquires and that conflicts or could conflict with the proper performance of the Board’s functions.
 
-##### <a id="60‑55"></a>60‑55  Resignation
+##### <a id="60-55"></a>60-55  Resignation
 
              (1)  A * Board member may resign his or her appointment by giving the Minister a written resignation. The resignation must specify a day from which the resignation will take effect.
 
              (2)  The * Chair may resign his or her appointment without resigning his or her appointment as a * Board member.
 
-##### <a id="60‑60"></a>60‑60  Termination of appointment
+##### <a id="60-60"></a>60-60  Termination of appointment
 
 All Board members
 
@@ -1693,39 +1693,39 @@ All Board members
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
 
-                     (c)  if the Board member fails, without reasonable excuse, to comply with section 60‑50.
+                     (c)  if the Board member fails, without reasonable excuse, to comply with section 60-50.
 
-Additional grounds: full‑time Board members
+Additional grounds: full-time Board members
 
-             (2)  The Minister may terminate the appointment of a full‑time * Board member if:
+             (2)  The Minister may terminate the appointment of a full-time * Board member if:
 
                      (a)  the Board member is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
                      (b)  the Board member engages, except with the Minister’s approval, in paid employment outside the duties of his or her office.
 
-Additional grounds: part‑time Board members
+Additional grounds: part-time Board members
 
-             (3)  The Minister may terminate the appointment of a part‑time * Board member if:
+             (3)  The Minister may terminate the appointment of a part-time * Board member if:
 
                      (a)  the Board member is absent, except on leave of absence, from 3 consecutive meetings of the Board; or
 
                      (b)  the Board member engages in paid employment that conflicts or may conflict with the proper performance of his or her duties.
 
-##### <a id="60‑65"></a>60‑65  Terms and conditions of appointment not provided for by Act
+##### <a id="60-65"></a>60-65  Terms and conditions of appointment not provided for by Act
 
                    A * Board member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
 
-#### Subdivision 60‑C—Board procedures
+#### Subdivision 60-C—Board procedures
 
 **Table of sections**
 
-60‑70        Meetings
+60-70        Meetings
 
-60‑75        Decisions without meetings
+60-75        Decisions without meetings
 
-60‑80        Administrative support for the Board
+60-80        Administrative support for the Board
 
-##### <a id="60‑70"></a>60‑70  Meetings
+##### <a id="60-70"></a>60-70  Meetings
 
              (1)  At a meeting of the Board, a majority of * Board members constitutes a quorum.
 
@@ -1743,7 +1743,7 @@ Additional grounds: part‑time Board members
 
 Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
 
-##### <a id="60‑75"></a>60‑75  Decisions without meetings
+##### <a id="60-75"></a>60-75  Decisions without meetings
 
              (1)  The Board may only make a decision without meeting if the Board determines that the decision may be made in that way.
 
@@ -1757,25 +1757,25 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
              (4)  The Board must keep a record of decisions made in accordance with this section.
 
-##### <a id="60‑80"></a>60‑80  Administrative support for the Board
+##### <a id="60-80"></a>60-80  Administrative support for the Board
 
-                   The Board is to be assisted by APS employees whose services are made available to the Board by the Commissioner.
+                   The Board is to be assisted by APS employees whose services are made available to the Board by the Commissioner.
 
-#### Subdivision 60‑D—Committees etc.
+#### Subdivision 60-D—Committees etc.
 
 **Table of sections**
 
-60‑85        Establishment of committees
+60-85        Establishment of committees
 
-60‑90        Remuneration and allowances of committee members
+60-90        Remuneration and allowances of committee members
 
-##### <a id="60‑85"></a>60‑85  Establishment of committees
+##### <a id="60-85"></a>60-85  Establishment of committees
 
              (1)  The Board may establish * committees to assist the Board in the performance of its functions and the exercise of its powers.
 
              (2)  A * committee is to consist of such persons (whether * Board members or not) as the Board determines.
 
-##### <a id="60‑90"></a>60‑90  Remuneration and allowances of committee members
+##### <a id="60-90"></a>60-90  Remuneration and allowances of committee members
 
              (1)  A member of a * committee (other than a * Board member) is to be paid the remuneration that is determined by the Remuneration Tribunal but, if no determination is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
 
@@ -1783,25 +1783,25 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-#### Subdivision 60‑E—Investigations
+#### Subdivision 60-E—Investigations
 
 **Table of sections**
 
-60‑95        Investigations
+60-95        Investigations
 
-60‑100      Power to request production of a document or thing
+60-100      Power to request production of a document or thing
 
-60‑105      Power to require witnesses to appear before the Board
+60-105      Power to require witnesses to appear before the Board
 
-60‑110      Power to take evidence on oath or affirmation
+60-110      Power to take evidence on oath or affirmation
 
-60‑115      Self‑incrimination
+60-115      Self-incrimination
 
-60‑120      Board may retain documents and things
+60-120      Board may retain documents and things
 
-60‑125      Outcomes of investigations
+60-125      Outcomes of investigations
 
-##### <a id="60‑95"></a>60‑95  Investigations
+##### <a id="60-95"></a>60-95  Investigations
 
              (1)  The Board may investigate:
 
@@ -1821,7 +1821,7 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
                      (b)  is not bound by the rules of evidence.
 
-##### <a id="60‑100"></a>60‑100  Power to request production of a document or thing
+##### <a id="60-100"></a>60-100  Power to request production of a document or thing
 
              (1)  For the purpose of an investigation, the Board may, by notice, request a person:
 
@@ -1839,7 +1839,7 @@ Note:          Failure to give the information, or produce the
 
 The period specified under paragraph (b) must be at least 14 days after the date of the request.
 
-##### <a id="60‑105"></a>60‑105  Power to require witnesses to appear before the Board
+##### <a id="60-105"></a>60-105  Power to require witnesses to appear before the Board
 
              (1)  For the purpose of an investigation, the Board may, by notice in writing, require a person to appear before it:
 
@@ -1853,7 +1853,7 @@ Note:          Failure to attend, answer questions, or produce
 
              (3)  In any other case, a person required to appear before the Board is entitled to be paid by the Commonwealth any allowances and expenses that are prescribed by the regulations.
 
-##### <a id="60‑110"></a>60‑110  Power to take evidence on oath or affirmation
+##### <a id="60-110"></a>60-110  Power to take evidence on oath or affirmation
 
              (1)  For the purpose of taking evidence, the * Chair, or an individual acting on behalf of the Chair, may:
 
@@ -1867,7 +1867,7 @@ Note:          Failure to take an oath or make an affirmation 
 
              (3)  The Board may, if it thinks that it is appropriate, allow a person who has been sworn, or who has made an affirmation, to give evidence by tendering a written statement and verifying it by oath or affirmation.
 
-##### <a id="60‑115"></a>60‑115  Self‑incrimination
+##### <a id="60-115"></a>60-115  Self-incrimination
 
              (1)  A person is not excused from:
 
@@ -1875,7 +1875,7 @@ Note:          Failure to take an oath or make an affirmation 
 
                      (b)  producing a document or thing;
 
-under section 60‑100 or 60‑105 on the ground that doing so might tend to incriminate the person or expose the person to a penalty.
+under section 60-100 or 60-105 on the ground that doing so might tend to incriminate the person or expose the person to a penalty.
 
              (2)  However, in the case of an individual:
 
@@ -1893,9 +1893,9 @@ are not admissible in evidence against the individual in proceedings, other than
 
                       (f)  section 149.1 of the _Criminal Code_ (which deals with obstruction of Commonwealth public officials) that relates to this Act.
 
-##### <a id="60‑120"></a>60‑120  Board may retain documents and things
+##### <a id="60-120"></a>60-120  Board may retain documents and things
 
-             (1)  If a document or thing is produced to the Board in accordance with section 60‑100 or 60‑105, the Board:
+             (1)  If a document or thing is produced to the Board in accordance with section 60-100 or 60-105, the Board:
 
                      (a)  may take possession of, and make copies of, the document or thing, or take extracts from the document; and
 
@@ -1907,35 +1907,35 @@ are not admissible in evidence against the individual in proceedings, other than
 
                      (b)  reasonable access to the thing.
 
-##### <a id="60‑125"></a>60‑125  Outcomes of investigations
+##### <a id="60-125"></a>60-125  Outcomes of investigations
 
 Investigation relating to application for registration
 
-             (1)  After completing an investigation in relation to an application for registration under section 20‑20, the Board must make a decision in accordance with section 20‑25.
+             (1)  After completing an investigation in relation to an application for registration under section 20-20, the Board must make a decision in accordance with section 20-25.
 
 Investigation relating to whether conduct breaches this Act
 
-             (2)  If the Board investigates conduct under section 60‑95 and finds that the conduct breaches this Act, the Board must either:
+             (2)  If the Board investigates conduct under section 60-95 and finds that the conduct breaches this Act, the Board must either:
 
                      (a)  make a decision that no further action will be taken; or
 
                      (b)  do one or more of the following:
 
-                              (i)  impose one or more sanctions under Subdivision 30‑B;
+                              (i)  impose one or more sanctions under Subdivision 30-B;
 
-                             (ii)  terminate an entity’s registration under Subdivision 40‑A;
+                             (ii)  terminate an entity’s registration under Subdivision 40-A;
 
-                            (iii)  apply to the * Federal Court for an order for payment of a pecuniary penalty under Subdivision 50‑C;
+                            (iii)  apply to the * Federal Court for an order for payment of a pecuniary penalty under Subdivision 50-C;
 
-                            (iv)  apply to the Federal Court for an injunction under section 70‑5.
+                            (iv)  apply to the Federal Court for an injunction under section 70-5.
 
-Note:          The Board may terminate an entity’s registration under Subdivision 40‑A without investigating conduct under section 60‑95.
+Note:          The Board may terminate an entity’s registration under Subdivision 40-A without investigating conduct under section 60-95.
 
 Period within which a decision must be made
 
              (3)  The Board must make a decision under subsection (2):
 
-                     (a)  within 6 months after the day on which the investigation is taken to have commenced under subsection 60‑95(3); or
+                     (a)  within 6 months after the day on which the investigation is taken to have commenced under subsection 60-95(3); or
 
                      (b)  if a longer period is determined by the Board under subsection (4)—within that period.
 
@@ -1965,7 +1965,7 @@ Notification of decisions
 
                      (a)  the Board makes a decision under subsection (2); or
 
-                     (b)  the Board investigates conduct under section 60‑95 and finds that the conduct does not breach this Act;
+                     (b)  the Board investigates conduct under section 60-95 and finds that the conduct does not breach this Act;
 
 the Board must, within 30 days of making the decision or finding:
 
@@ -1989,17 +1989,17 @@ the Board must, within 30 days of making the decision or finding:
 
                      (b)  give, in writing, the reasons for the determination.
 
-#### Subdivision 60‑F—Public reporting obligations of the Board
+#### Subdivision 60-F—Public reporting obligations of the Board
 
 **Table of sections**
 
-60‑130      Annual report
+60-130      Annual report
 
-60‑135      Register
+60-135      Register
 
-60‑140      Publication of information
+60-140      Publication of information
 
-##### <a id="60‑130"></a>60‑130  Annual report
+##### <a id="60-130"></a>60-130  Annual report
 
              (1)  The * Chair must, as soon as practicable after the end of each * financial year, prepare and give to the Minister, for presentation to the Parliament, a report on its operations during that year.
 
@@ -2007,11 +2007,11 @@ Note:          See also section 34C of the _Acts Interpretat
 
              (2)  The * Chair must also set out in the report, in relation to each general category of offence and in relation to each * law enforcement agency:
 
-                     (a)  the number of occasions (if any) during the year on which the Board was requested by, or on behalf of, the head of the agency to disclose information under subsection 70‑40(4) to * authorised law enforcement agency officers; and
+                     (a)  the number of occasions (if any) during the year on which the Board was requested by, or on behalf of, the head of the agency to disclose information under subsection 70-40(4) to * authorised law enforcement agency officers; and
 
                      (b)  the number of occasions (if any) during the year on which information was disclosed under that subsection to authorised law enforcement agency officers.
 
-##### <a id="60‑135"></a>60‑135  Register
+##### <a id="60-135"></a>60-135  Register
 
              (1)  The Board must establish and maintain a register of:
 
@@ -2029,13 +2029,13 @@ Note:          See also section 34C of the _Acts Interpretat
 
              (4)  The register is to be made available for inspection on the internet.
 
-##### <a id="60‑140"></a>60‑140  Publication of information
+##### <a id="60-140"></a>60-140  Publication of information
 
                    The Board must cause a notice of the following decisions to be published in the _Gazette_:
 
-                     (a)  a decision under Subdivision 30‑B or 40‑A to terminate the registration of a * registered tax agent or BAS agent;
+                     (a)  a decision under Subdivision 30-B or 40-A to terminate the registration of a * registered tax agent or BAS agent;
 
-                     (b)  a decision under section 30‑25 to suspend the registration of a registered tax agent or BAS agent.
+                     (b)  a decision under section 30-25 to suspend the registration of a registered tax agent or BAS agent.
 
 ## Part 7—Miscellaneous
 
@@ -2043,19 +2043,19 @@ Note:          See also section 34C of the _Acts Interpretat
 
 **Table of Subdivisions**
 
-70‑A     Injunctions
+70-A      Injunctions
 
-70‑B      Administrative review
+70-B      Administrative review
 
-70‑C      Provisions affecting trustees and partnerships
+70-C      Provisions affecting trustees and partnerships
 
-70‑D     Provisions relating to the Board
+70-D      Provisions relating to the Board
 
-70‑E      Miscellaneous
+70-E      Miscellaneous
 
 #### Guide to this Division
 
-##### <a id="70‑1"></a>70‑1  What this Division is about
+##### <a id="70-1"></a>70-1  What this Division is about
 
 * * *
 
@@ -2063,13 +2063,13 @@ This Division sets out some miscellaneous provisions, including a provision allo
 
 * * *
 
-#### Subdivision 70‑A—Injunctions
+#### Subdivision 70-A—Injunctions
 
 **Table of sections**
 
-70‑5          Injunction to restrain or require certain conduct
+70-5          Injunction to restrain or require certain conduct
 
-##### <a id="70‑5"></a>70‑5  Injunction to restrain or require certain conduct
+##### <a id="70-5"></a>70-5  Injunction to restrain or require certain conduct
 
              (1)  If, on the application of the Board, the * Federal Court is satisfied that you have engaged, or are proposing to engage, in conduct that would constitute a contravention of a civil penalty provision, the Federal Court may grant an injunction:
 
@@ -2083,47 +2083,47 @@ This Division sets out some miscellaneous provisions, including a provision allo
 
                      (b)  requiring you to do something.
 
-#### Subdivision 70‑B—Administrative review
+#### Subdivision 70-B—Administrative review
 
 **Table of sections**
 
-70‑10        Administrative review
+70-10        Administrative review
 
-##### <a id="70‑10"></a>70‑10  Administrative review
+##### <a id="70-10"></a>70-10  Administrative review
 
                    An application may be made to the Administrative Appeals Tribunal for review of any of the following decisions of the Board:
 
-                     (a)  a decision under section 20‑25:
+                     (a)  a decision under section 20-25:
 
                               (i)  to reject an application for registration (including renewal of registration); or
 
                              (ii)  to specify a condition to which registration is subject;
 
-                     (b)  a decision under subsection 20‑30(3) to require professional indemnity insurance;
+                     (b)  a decision under subsection 20-30(3) to require professional indemnity insurance;
 
-                     (c)  a decision under section 20‑40 to refuse to vary a condition to which registration is subject;
+                     (c)  a decision under section 20-40 to refuse to vary a condition to which registration is subject;
 
-                     (d)  a decision under subsection 20‑50(1) not to determine a shorter period for making a renewal application;
+                     (d)  a decision under subsection 20-50(1) not to determine a shorter period for making a renewal application;
 
-                     (e)  a decision under Subdivision 30‑B or 40‑A to terminate registration;
+                     (e)  a decision under Subdivision 30-B or 40-A to terminate registration;
 
-                      (f)  a decision under section 30‑20 to make an order or to specify a time period in respect of an order;
+                      (f)  a decision under section 30-20 to make an order or to specify a time period in respect of an order;
 
-                     (g)  a decision under section 30‑25 to suspend registration (including a decision as to the length of the suspension);
+                     (g)  a decision under section 30-25 to suspend registration (including a decision as to the length of the suspension);
 
-                     (h)  a decision under section 40‑25 to determine a period during which an application for registration may not be made;
+                     (h)  a decision under section 40-25 to determine a period during which an application for registration may not be made;
 
-                      (i)  a decision under subsection 60‑125(4) to extend the period of time within which an investigation is to be completed.
+                      (i)  a decision under subsection 60-125(4) to extend the period of time within which an investigation is to be completed.
 
-#### Subdivision 70‑C—Provisions affecting trustees and partnerships
+#### Subdivision 70-C—Provisions affecting trustees and partnerships
 
 **Table of sections**
 
-70‑15        How this Act applies to an individual or company in the capacity of a trustee
+70-15        How this Act applies to an individual or company in the capacity of a trustee
 
-70‑20        Continuity of partnerships
+70-20        Continuity of partnerships
 
-##### <a id="70‑15"></a>70‑15  How this Act applies to an individual or company in the capacity of a trustee
+##### <a id="70-15"></a>70-15  How this Act applies to an individual or company in the capacity of a trustee
 
                    This Act applies to:
 
@@ -2131,19 +2131,19 @@ This Division sets out some miscellaneous provisions, including a provision allo
 
                      (b)  a trustee that is a company in the same way as it applies to a company.
 
-##### <a id="70‑20"></a>70‑20  Continuity of partnerships
+##### <a id="70-20"></a>70-20  Continuity of partnerships
 
                    For the purposes of this Act, a change in the composition of a partnership does not affect the continuity of the partnership.
 
-#### Subdivision 70‑D—Provisions relating to the Board
+#### Subdivision 70-D—Provisions relating to the Board
 
 **Table of sections**
 
-70‑25        Immunity from legal action
+70-25        Immunity from legal action
 
-70‑30        Delegation by Board
+70-30        Delegation by Board
 
-##### <a id="70‑25"></a>70‑25  Immunity from legal action
+##### <a id="70-25"></a>70-25  Immunity from legal action
 
                    No action, suit or proceeding may be brought against:
 
@@ -2157,15 +2157,15 @@ in relation to anything done, or omitted to be done, in good faith by the Board 
 
                      (d)  in the exercise, or purported exercise, of the Board’s powers.
 
-##### <a id="70‑30"></a>70‑30  Delegation by Board
+##### <a id="70-30"></a>70-30  Delegation by Board
 
              (1)  Subject to subsection (2), the Board may, by writing, delegate all or any of its functions and powers to a * Board member or a * committee, other than:
 
                      (a)  its function of issuing guidelines; and
 
-                     (b)  its power to establish a committee under section 60‑85.
+                     (b)  its power to establish a committee under section 60-85.
 
-             (2)  The Board may only delegate to a * committee a power to make a decision in respect of which an application for review may be made to the Administrative Appeals Tribunal under section 70‑10 if:
+             (2)  The Board may only delegate to a * committee a power to make a decision in respect of which an application for review may be made to the Administrative Appeals Tribunal under section 70-10 if:
 
                      (a)  the committee has 3 members or more; and
 
@@ -2179,21 +2179,21 @@ in relation to anything done, or omitted to be done, in good faith by the Board 
 
                      (b)  continues in force even if the membership of the Board changes.
 
-#### Subdivision 70‑E—Miscellaneous
+#### Subdivision 70-E—Miscellaneous
 
 **Table of sections**
 
-70‑35        Official information not to be disclosed
+70-35        Official information not to be disclosed
 
-70‑40        Exceptions to the prohibition on disclosure of official information
+70-40        Exceptions to the prohibition on disclosure of official information
 
-70‑45        On‑disclosure of official information
+70-45        On-disclosure of official information
 
-70‑50        Legal professional privilege
+70-50        Legal professional privilege
 
-70‑55        Regulations
+70-55        Regulations
 
-##### <a id="70‑35"></a>70‑35  Official information not to be disclosed
+##### <a id="70-35"></a>70-35  Official information not to be disclosed
 
 Offence—recording or disclosing official information
 
@@ -2215,7 +2215,7 @@ Offence—recording or disclosing official information
 
                      (c)  the information is * official information; and
 
-                     (d)  the information was acquired by the first‑mentioned person in the course of, or because of, his or her duties under or in relation to this Act or the regulations.
+                     (d)  the information was acquired by the first-mentioned person in the course of, or because of, his or her duties under or in relation to this Act or the regulations.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -2231,23 +2231,23 @@ Limits on disclosure to courts and tribunals
 
              (3)  A person mentioned in paragraph (1)(a) is not required to disclose to a court or tribunal * official information that was acquired by the person in the course of, or because of, his or her duties under or in relation to this Act or the regulations except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations.
 
-##### <a id="70‑40"></a>70‑40  Exceptions to the prohibition on disclosure of official information
+##### <a id="70-40"></a>70-40  Exceptions to the prohibition on disclosure of official information
 
 Disclosure in the performance of duties
 
-             (1)  Subsection 70‑35(1) does not apply if the record or disclosure is made in performing the person’s duties under or in relation to this Act or the regulations.
+             (1)  Subsection 70-35(1) does not apply if the record or disclosure is made in performing the person’s duties under or in relation to this Act or the regulations.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1): see subsection 13.3(3) of the _Criminal Code_.
 
 Disclosure of publicly available information
 
-             (2)  Subsection 70‑35(1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection 70‑35(1) or 70‑45(1)).
+             (2)  Subsection 70-35(1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection 70-35(1) or 70-45(1)).
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
 
 Disclosures to the Commissioner of Taxation
 
-             (3)  Subsection 70‑35(1) does not apply if the record or disclosure:
+             (3)  Subsection 70-35(1) does not apply if the record or disclosure:
 
                      (a)  is to the Commissioner; and
 
@@ -2265,7 +2265,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Disclosure in relation to serious offences and proceeds of crime orders
 
-             (4)  Subsection 70‑35(1) does not apply if:
+             (4)  Subsection 70-35(1) does not apply if:
 
                      (a)  the record is made for, or the disclosure is to, an * authorised law enforcement agency officer; and
 
@@ -2279,9 +2279,9 @@ Disclosure in relation to serious offences and proceeds of crime orders
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
 
-##### <a id="70‑45"></a>70‑45  On‑disclosure of official information
+##### <a id="70-45"></a>70-45  On-disclosure of official information
 
-Offence—on‑disclosure of information
+Offence—on-disclosure of information
 
              (1)  A person commits an offence if:
 
@@ -2291,9 +2291,9 @@ Offence—on‑disclosure of information
 
                              (ii)  discloses information to another person (other than a person to whom the information relates or the person’s * agent in relation to the information) or to a court or tribunal; and
 
-                     (b)  the information was acquired by the first‑mentioned person under an exception in section 70‑40 or in this section; and
+                     (b)  the information was acquired by the first-mentioned person under an exception in section 70-40 or in this section; and
 
-                     (c)  the first‑mentioned person did not acquire the information in the course of, or because of, his or her duties under or in relation to this Act or the regulations.
+                     (c)  the first-mentioned person did not acquire the information in the course of, or because of, his or her duties under or in relation to this Act or the regulations.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -2307,15 +2307,15 @@ Consent is not a defence
 
 Exceptions
 
-             (3)  Subsection (1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection (1) or 70‑35(1)).
+             (3)  Subsection (1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection (1) or 70-35(1)).
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
              (4)  Subsection (1) does not apply if:
 
-                     (a)  the information was originally disclosed under an exception in section 70‑40 for a purpose specified in that exception (the **_original purpose_**); and
+                     (a)  the information was originally disclosed under an exception in section 70-40 for a purpose specified in that exception (the **_original purpose_**); and
 
-                     (b)  the information was acquired by the person under this section or an exception in section 70‑40; and
+                     (b)  the information was acquired by the person under this section or an exception in section 70-40; and
 
                      (c)  the record or disclosure is made by the person for the original purpose, or in connection with the original purpose.
 
@@ -2323,17 +2323,17 @@ Note:          A defendant bears an evidential burden in relat
 
              (5)  Without limiting subsection (4), a record or disclosure is made by the person in connection with the original purpose if the record or disclosure is for purposes of criminal, civil or administrative proceedings (including merits review or judicial review) that are related to the original purpose.
 
-Limit on on‑disclosure to courts or tribunals
+Limit on on-disclosure to courts or tribunals
 
              (6)  A person is not to be required to disclose to a court or tribunal information that was acquired by the person under this section, except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations.
 
-##### <a id="70‑50"></a>70‑50  Legal professional privilege
+##### <a id="70-50"></a>70-50  Legal professional privilege
 
                    This Act  does not affect the law relating to legal professional privilege.
 
-##### <a id="70‑55"></a>70‑55  Regulations
+##### <a id="70-55"></a>70-55  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2347,11 +2347,11 @@ Limit on on‑disclosure to courts or tribunals
 
 **Table of sections**
 
-80‑1          What forms part of this Act
+80-1          What forms part of this Act
 
-80‑5          The role of Guides in interpreting this Act
+80-5          The role of Guides in interpreting this Act
 
-##### <a id="80‑1"></a>80‑1  What forms part of this Act
+##### <a id="80-1"></a>80-1  What forms part of this Act
 
              (1)  These all form part of this Act:
 
@@ -2365,7 +2365,7 @@ Limit on on‑disclosure to courts or tribunals
 
              (2)  The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision.
 
-##### <a id="80‑5"></a>80‑5  The role of Guides in interpreting this Act
+##### <a id="80-5"></a>80-5  The role of Guides in interpreting this Act
 
              (1)  A **_Guide_** consists of sections under a heading indicating that what follows is a Guide to a particular Subdivision, Division etc.
 
@@ -2383,31 +2383,31 @@ Limit on on‑disclosure to courts or tribunals
 
 **Table of sections**
 
-90‑1          Dictionary
+90-1          Dictionary
 
-90‑5          Meaning of tax agent service
+90-5          Meaning of tax agent service
 
-90‑10        Meaning of BAS service
+90-10        Meaning of BAS service
 
-##### <a id="90‑1"></a>90‑1  Dictionary
+##### <a id="90-1"></a>90-1  Dictionary
 
              (1)  In this Act:
 
-                    <a name="ba-servic"></a>**_BAS service_** has the meaning given by section 90‑10.
+                    <a name="ba-servic"></a>**_BAS service_** has the meaning given by section 90-10.
 
-                    <a name="board"></a>**_Board_** means the Tax Practitioners Board established by section 60‑5.
+                    <a name="board"></a>**_Board_** means the Tax Practitioners Board established by section 60-5.
 
-                    <a name="board-member"></a>**_Board member_** means a member of the Board appointed in accordance with section 60‑25 (including the Chair).
+                    <a name="board-member"></a>**_Board member_** means a member of the Board appointed in accordance with section 60-25 (including the Chair).
 
                     <a name="chair"></a>**_Chair_** means the Chair of the Board.
 
-                    <a name="code-profession-conduct"></a>**_Code of Professional Conduct_** means the Code of Professional Conduct set out in section 30‑10.
+                    <a name="code-profession-conduct"></a>**_Code of Professional Conduct_** means the Code of Professional Conduct set out in section 30-10.
 
-                    <a name="committe"></a>**_committee_** means a committee established under section 60‑85.
+                    <a name="committe"></a>**_committee_** means a committee established under section 60-85.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="guid"></a>**_Guide_** has the meaning given by section 80‑5.
+                    <a name="guid"></a>**_Guide_** has the meaning given by section 80-5.
 
                     <a name="offici-inform"></a>**_official information_** means information that:
 
@@ -2421,11 +2421,11 @@ Limit on on‑disclosure to courts or tribunals
 
                     <a name="regist-ba-agent"></a>**_registered BAS agent_** means an entity that is registered under this Act as a registered BAS agent.
 
-Note:          In most cases, an entity is taken not to be a registered BAS agent if the entity is suspended from providing BAS services under section 30‑25.
+Note:          In most cases, an entity is taken not to be a registered BAS agent if the entity is suspended from providing BAS services under section 30-25.
 
                     <a name="regist-tax-agent"></a>**_registered tax agent_** means an entity that is registered under this Act as a registered tax agent.
 
-Note:          In most cases, an entity is taken not to be a registered tax agent if the entity is suspended from providing tax agent services under section 30‑25.
+Note:          In most cases, an entity is taken not to be a registered tax agent if the entity is suspended from providing tax agent services under section 30-25.
 
                     <a name="regist-tax-agent-ba-agent"></a>**_registered tax agent or BAS agent_** means an entity that is registered under this Act as a registered tax agent or a registered BAS agent.
 
@@ -2437,15 +2437,15 @@ Note:          In most cases, an entity is taken not to be a r
 
                      (b)  a * taxation offence that is punishable on conviction by a fine exceeding 40 penalty units, or imprisonment, or both.
 
-                    <a name="tax-agent-servic"></a>**_tax agent service_** has the meaning given by section 90‑5.
+                    <a name="tax-agent-servic"></a>**_tax agent service_** has the meaning given by section 90-5.
 
                     <a name="taxat-offenc"></a>**_taxation offence_** has the meaning given by section 8A of the _Taxation Administration Act 1953_.
 
-                    <a name="tax-practition-registr-requir"></a>**_tax practitioner registration requirements_** means the matters about which the Board must, under Subdivision 20‑A, be satisfied before the Board is obliged to grant an application for registration under this Act.
+                    <a name="tax-practition-registr-requir"></a>**_tax practitioner registration requirements_** means the matters about which the Board must, under Subdivision 20-A, be satisfied before the Board is obliged to grant an application for registration under this Act.
 
              (2)  An expression has the same meaning in this Act as in the _Income Tax Assessment Act 1997_ (other than the expression “this Act”).
 
-##### <a id="90‑5"></a>90‑5  Meaning of _tax agent service_
+##### <a id="90-5"></a>90-5  Meaning of _tax agent service_
 
              (1)  A **_tax agent service_** is any service:
 
@@ -2467,7 +2467,7 @@ Note:          In most cases, an entity is taken not to be a r
 
 Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
 
-##### <a id="90‑10"></a>90‑10  Meaning of _BAS service_
+##### <a id="90-10"></a>90-10  Meaning of _BAS service_
 
              (1)  A **_BAS service_** is a * tax agent service:
 
@@ -2581,23 +2581,6 @@ Schedule 2: <i>(a)</i></div>
     </td>
     <td>
       <div>Sch. 2 (item 123(1))</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 1107, 1108) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11)</div>
     </td>
   </tr>
 </thead></table>
@@ -2890,28 +2873,6 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1107  Section 60‑30 (note)
-
-Omit “subsection 33(4A)”, substitute “section 33AA”.
-
-## 1108  After section 80‑1
-
-Insert:
-
-##### <a id="80‑2"></a>80‑2  What does not form part of this Act
-
-                   Tables of Subdivisions and tables of sections do not form part of this Act.
-
-As at 23 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2923,22 +2884,6 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
 
 ## 123  Application of amendments
 
-(1)       The amendments made by items 3, 4 and 93 of this Schedule apply to records and disclosures made on or after the commencement of those items (whenever the information was obtained).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(1)        The amendments made by items 3, 4 and 93 of this Schedule apply to records and disclosures made on or after the commencement of those items (whenever the information was obtained).
 
  
