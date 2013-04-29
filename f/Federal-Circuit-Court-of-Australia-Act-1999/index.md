@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00326/Html/01f70c4b-c51c-4fad-9829-765cc0a0b92c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00012/Html/FederalMagis1999WD02_image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 36 of 2010
+This compilation was prepared on 1 January 2010
+ taking into account amendments up to Act No. 117 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -425,9 +425,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The other objects of this Act are:
 
-                     (a)  to enable the Federal Magistrates Court to operate as informally as possible in the exercise of judicial power; and
+                     (a)  to enable the Federal Magistrates   Court to operate as informally as possible in the exercise of judicial power; and
 
-                     (b)  to enable the Federal Magistrates Court to use streamlined procedures; and
+                     (b)  to enable the Federal Magistrates   Court to use streamlined procedures; and
 
                      (c)  to encourage the use of a range of appropriate dispute resolution processes.
 
@@ -557,7 +557,7 @@ for the Federal Magistrates Court to share facilities with other courts.</li>
 
                      (a)  means a Federal Magistrate (including the Chief Federal Magistrate) who holds office under this Act; and
 
-                     (b)  when used in the expression **_the Federal Magistrates Court or a Federal Magistrate_**, means a Federal Magistrate sitting in Chambers.
+                     (b)  when used in the expression **_the Federal_****_Magistrates Court_****_or a Federal Magistrate_**, means a Federal Magistrate sitting in Chambers.
 
                     <a name="judgment"></a>**_Judgment_** means a judgment, decree or order, whether final or interlocutory, or a sentence, and includes a decree within the meaning of the _Family Law Act 1975_.
 
@@ -605,7 +605,7 @@ Note:          If the Magistrate was appointed as a Federal Ma
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="7"></a>7  External Territories
+##### <a id="7"></a>7  External  Territories
 
                    This Act extends to every external Territory.
 
@@ -763,7 +763,7 @@ Federal Magistrate sitting in Chambers
 
                      (c)  a proceeding on any other application authorised by the Rules of Court to be made to a Federal Magistrate sitting in Chambers.
 
-             (4)  The jurisdiction of the Federal Magistrates Court is to be exercised by a Federal Magistrate sitting in Chambers in a proceeding where:
+             (4)  The jurisdiction of the Federal Magistrates   Court is to be exercised by a Federal Magistrate sitting in Chambers in a proceeding where:
 
                      (a)  under the Rules of Court, the Federal Magistrates Court is authorised to make a decision relating to the proceeding without an oral hearing; and
 
@@ -1071,7 +1071,7 @@ Note:          See Part III of the _Family Law Act 1975_.
 
              (5)  An arbitrator has, in arbitrating anything referred under subsection (1), the same protection and immunity as a Federal Magistrate has in performing the functions of a Federal Magistrate.
 
-##### <a id="36"></a>36  Power of arbitrator to refer question of law to the Federal Magistrates Court
+##### <a id="36"></a>36  Power of arbitrator to refer question of law to the Federal Magistrates   Court
 
              (1)  If:
 
@@ -1229,7 +1229,7 @@ the following provisions have effect.
 
 ### Division 1—General
 
-##### <a id="42"></a>42  Federal Magistrates Court to operate informally
+##### <a id="42"></a>42  Federal Magistrates Court to operate informally
 
                    In proceedings before it, the Federal Magistrates Court must proceed without undue formality and must endeavour to ensure that the proceedings are not protracted.
 
@@ -1311,7 +1311,7 @@ Note:          Rules of Court are made under section 81.
 
 ##### <a id="48"></a>48  Federal Magistrates Court stamps
 
-             (1)  There are to be one or more Federal Magistrates Court stamps. For this purpose, a **_Federal Magistrates Court stamp_** is a stamp the design of which is, as nearly as practicable, the same as the design of the seal of the Federal Magistrates Court.
+             (1)  There are to be one or more Federal Magistrates Court stamps. For this purpose, a **_Federal_****_Magistrates   Court_****_stamp_** is a stamp the design of which is, as nearly as practicable, the same as the design of the seal of the Federal Magistrates Court.
 
              (2)  A document or a copy of a document marked with a Federal Magistrates Court stamp is as valid and effectual as if it had been sealed with a seal of the Federal Magistrates Court.
 
@@ -1321,7 +1321,7 @@ Note:          Rules of Court are made under section 81.
 
              (1)  All writs, commissions and process issued from the Federal Magistrates Court must be:
 
-                     (a)  under the seal of the Federal Magistrates Court; and
+                     (a)  under the seal of the Federal Magistrates   Court; and
 
                      (b)  signed by a Federal Magistrate, a Registrar or an officer acting with the authority of the Chief Executive Officer.
 
@@ -1383,7 +1383,7 @@ be conducted or continued at a place specified in the order, subject to such con
 
 ##### <a id="57"></a>57  Formal defects not to invalidate
 
-             (1)  Proceedings in the Federal Magistrates Court are not invalidated by a formal defect or an irregularity, unless the Federal Magistrates Court is of opinion that:
+             (1)  Proceedings in the Federal Magistrates   Court are not invalidated by a formal defect or an irregularity, unless the Federal Magistrates Court is of opinion that:
 
                      (a)  substantial injustice has been caused by the defect or irregularity; and
 
@@ -1429,7 +1429,7 @@ Note:          See also paragraph 90(1)(d).
 
                       (f)  a person who is authorised to administer oaths or affirmations for the purposes of:
 
-                              (i)  the Federal Magistrates Court; or
+                              (i)  the Federal Magistrates   Court; or
 
                              (ii)  the High Court; or
 
@@ -1573,7 +1573,7 @@ the Federal Magistrates Court is to give the matters in the affidavit such weigh
 
              (1)  A person is guilty of an offence if:
 
-                     (a)  the person has been duly served with a subpoena or summons to appear as a witness before the Federal Magistrates Court; and
+                     (a)  the person has been duly served with a subpoena or summons to appear as a witness before the Federal Magistrates   Court; and
 
                      (b)  the person:
 
@@ -1631,7 +1631,7 @@ Note:          See also section 69.
 
              (5)  This section applies whether the person giving testimony is in or outside Australia, but does not apply if the person giving testimony is in New Zealand.
 
-Note:          See the _Evidence and Procedure (New Zealand) Act 1994_.
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
 
 ##### <a id="67"></a>67  Appearance of persons by video link or audio link
 
@@ -1647,7 +1647,7 @@ Note:          See also section 69.
 
              (3)  This section applies whether the person appearing is in or outside Australia, but does not apply if the person appearing is in New Zealand.
 
-Note:          See the _Evidence and Procedure (New Zealand) Act 1994_.
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
 
 ##### <a id="68"></a>68  Making of submissions by video link or audio link
 
@@ -1663,7 +1663,7 @@ Note:          See also section 69.
 
              (3)  This section applies whether the person making the submission is in or outside Australia, but does not apply if the person making the submission is in New Zealand.
 
-Note:          See the _Evidence and Procedure (New Zealand) Act 1994_.
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
 
 ##### <a id="69"></a>69  Conditions for use of video links and audio links
 
@@ -1773,9 +1773,9 @@ Eligible persons
 
              (2)  Subsection (1) has effect subject to the regulations.
 
-##### <a id="73"></a>73  New Zealand proceedings
+##### <a id="73"></a>73  New   Zealand proceedings
 
-                   This Division does not affect the operation of the _Evidence and Procedure (New Zealand) Act 1994_.
+                   This Division does not affect the operation of the _Evidence and Procedure (__New Zealand__) Act 1994_.
 
 ### Division 6—Orders and judgments
 
@@ -1951,7 +1951,7 @@ Note:          See section 117 of the _Family Law Act 1975_ 
 
              (1)  The Federal Magistrates, or a majority of them, may make Rules of Court:
 
-                     (a)  making provision for or in relation to the practice and procedure to be followed in the Federal Magistrates Court (including the practice and procedure to be followed in registries of the Federal Magistrates Court); or
+                     (a)  making provision for or in relation to the practice and procedure to be followed in the Federal Magistrates   Court (including the practice and procedure to be followed in registries of the Federal Magistrates Court); or
 
                      (b)  making provision for or in relation to all matters and things incidental to any such practice or procedure, or necessary or convenient to be prescribed for the conduct of any business of the Federal Magistrates Court; or
 
@@ -2035,7 +2035,7 @@ even if the effect of the amendment would be to allow a person to seek a remedy 
 
                      (g)  the reception from New Zealand of evidence or submissions by video link or audio link; and
 
-                     (h)  issuing subpoenas for service in New Zealand and the service of such subpoenas; and
+                     (h)  issuing subpoenas for service in New   Zealand and the service of such subpoenas; and
 
                       (i)  the form to accompany a subpoena for service in New Zealand.
 
@@ -2049,7 +2049,7 @@ even if the effect of the amendment would be to allow a person to seek a remedy 
 
                      (c)  the stay of proceedings in, or under decisions of, tribunals; and
 
-                     (d)  the procedure of the Federal Magistrates Court exercising its powers (whether under section 112AP of the _Family Law Act 1975_ or otherwise) to deal with a person for contempt of the Federal Magistrates Court; and
+                     (d)  the procedure of the Federal Magistrates   Court exercising its powers (whether under section 112AP of the _Family Law Act 1975_ or otherwise) to deal with a person for contempt of the Federal Magistrates Court; and
 
                      (e)  the form in which the Federal Magistrates Court or a Federal Magistrate is to give reasons for decisions.
 
@@ -2171,7 +2171,7 @@ except with the approval of the Minister.
 
                      (a)  the receipt of documents to be lodged with or filed in the Federal Magistrates Court;
 
-                     (b)  the signing and issuing of writs, commissions and process for the purposes of any proceedings in the Federal Magistrates Court;
+                     (b)  the signing and issuing of writs, commissions and process for the purposes of any proceedings in the Federal Magistrates   Court;
 
                      (c)  the authentication of orders of the Federal Magistrates Court;
 
@@ -2269,7 +2269,7 @@ for an employee or employees of the agency or organisation to:
 
                    There is to be a Chief Executive Officer of the Federal Magistrates Court.
 
-##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
+##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
 
                    Schedule 2 has effect.
 
@@ -2311,11 +2311,11 @@ for an employee or employees of the agency or organisation to:
 
                      (a)  such Registrars as are necessary;
 
-                     (b)  the Sheriff of the Federal Magistrates Court;
+                     (b)  the Sheriff of the Federal Magistrates   Court;
 
                      (c)  such Deputy Sheriffs as are necessary;
 
-                     (d)  the Marshal of the Federal Magistrates Court;
+                     (d)  the Marshal of the Federal Magistrates   Court;
 
                      (e)  such Deputy Marshals as are necessary;
 
@@ -2349,7 +2349,7 @@ for an employee or employees of the agency or organisation to:
 
                      (b)  an authority of the Commonwealth;
 
-for the services of officer or employees of the Agency or authority to be made available for the purposes of the Federal Magistrates Court.
+for the services of officer or employees of the Agency or authority to be made available for the purposes of the Federal Magistrates   Court.
 
 ##### <a id="101"></a>101  Registrars
 
@@ -2377,7 +2377,7 @@ for the services of officer or employees of the Agency or authority to be made a
 
                      (h)  the power to make an order exempting a party to proceedings in the Federal Magistrates Court from compliance with a provision of the Rules of Court;
 
-                      (i)  a power of the Federal Magistrates Court prescribed by the Rules of Court;
+                      (i)  a power of the Federal Magistrates   Court prescribed by the Rules of Court;
 
                       (j)  the power, in family law or child support proceedings, to direct a party to the proceedings to answer particular questions;
 
@@ -2391,7 +2391,7 @@ for the services of officer or employees of the Agency or authority to be made a
 
                             (iv)  paragraph 70NEB(1)(a);
 
-                   (ka)  the power to direct a family consultant to give a report under section 62G of the _Family Law Act 1975_;
+                    (ka)  the power to direct a family consultant to give a report under section 62G of the _Family Law Act 1975_;
 
                       (l)  the power, in family law or child support proceedings, to make:
 
@@ -2515,7 +2515,7 @@ in relation to the service and execution of process of the Federal Magistrates C
 
              (2)  The Marshal is responsible for:
 
-                     (a)  the security of the Federal Magistrates Court; and
+                     (a)  the security of the Federal Magistrates   Court; and
 
                      (b)  the personal security of the Federal Magistrates and officers and staff of the Federal Magistrates Court.
 
@@ -2799,7 +2799,7 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ### Division 2—Disability and death benefits
 
-##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
+##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
 
              (1)  If:
 
@@ -2987,7 +2987,7 @@ Note 2:       For review of decisions under subparagraph (5)(b)(ii
 
                      (b)  that the persons were legally married to each other at the time;
 
-                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
+                    (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
 
                      (c)  that the persons had a child who was:
 
@@ -3460,23 +3460,6 @@ Schedule 2 (items
     <div>Sch. 3 (item 14(1))</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
-  </td>
-  <td>
-    <div>36, 2010</div>
-  </td>
-  <td>
-    <div>13 Apr 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 17–20): \[ <i>see</i> s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3496,9 +3479,9 @@ _(a)_     The _Federal Magistrates Act 1999_ was amended by Schedule 1
 
                               (c)   at the time when the _Public Service Act 1999_ commences, the amended Act:
 
-                                     (i)   has not yet been enacted; or
+                                      (i)   has not yet been enacted; or
 
-                                    (ii)   has been enacted but has not yet commenced;
+                                     (ii)   has been enacted but has not yet commenced;
 
                          then the amending item commences immediately after the commencement of the amended Act.
 
@@ -4498,38 +4481,6 @@ of Sch. 1</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
-
-The following amendments commence at the same time as section 3 of the _Trans-Tasman Proceedings Act 2010_:
-
-## Schedule 2
-
-## 17  Subsection 66(5) (note)
-
-Repeal the note, substitute:
-
-Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
-
-## 18  Subsection 67(3) (note)
-
-Repeal the note, substitute:
-
-Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
-
-## 19  Subsection 68(3) (note)
-
-Repeal the note, substitute:
-
-Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
-
-## 20  Section 73
-
-Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans-Tasman Proceedings Act 2010_”.
-
-As at 19 April 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4639,7 +4590,7 @@ _Federal Magistrates Amendment (Disability and Death Benefits) Act 2007
 
 ## Schedule 1
 
-## 16  Application
+## 16  Application
 
 The amendments made by this Schedule apply in relation to persons who are Federal Magistrates at or after the commencement of this item.
 
@@ -4719,13 +4670,13 @@ _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (No.�
 
 ## 20  Application of Part 2
 
-(1)       The amendments made by Part 2 of this Schedule apply:
+(1)        The amendments made by Part 2 of this Schedule apply:
 
                      (a)  in relation to proceedings commenced after the Part commences; and
 
                      (b)  in relation to proceedings that are pending in the Federal Magistrates Court immediately before that Part commences, as if the reference in subsection 10A(2) of the _Federal Magistrates Act 1999_ (as inserted by item 12 of this Schedule) to “be instituted, heard and determined” were a reference to “, after item 12 of Schedule 17 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ commences, be heard and determined”.
 
-(2)       A person who is a Federal Magistrate (other than the Chief Federal Magistrate) of the Federal Magistrates Court immediately before Part 2 of this Schedule commences, is taken, for all purposes, not to have been assigned under clause 1A of Schedule 1 to the _Federal Magistrates Act 1999_ (as inserted by item 16 of this Schedule) to either Division of the Federal Magistrates Court.
+(2)        A person who is a Federal Magistrate (other than the Chief Federal Magistrate) of the Federal Magistrates Court immediately before Part 2 of this Schedule commences, is taken, for all purposes, not to have been assigned under clause 1A of Schedule 1 to the _Federal Magistrates Act 1999_ (as inserted by item 16 of this Schedule) to either Division of the Federal Magistrates Court.
 
 _Note:       A Federal Magistrate (including the Chief Federal Magistrate) who is not assigned to either Division of the Federal Magistrates Court may exercise the powers of the Federal Magistrates Court in either Division (see subsection 12(3C) of the Federal Magistrates Act 1999, as inserted by item 13 of this Schedule)._
 
@@ -4738,6 +4689,6 @@ _Access to Justice (Civil Litigation Reforms) Amendment Act 2009
 
 ## 14  Application of amendments
 
-(1)       The amendments made by this Part, other than items 6 and 7, apply in relation to Judges and Federal Magistrates whether appointed before or after the commencement of the amendments.
+(1)        The amendments made by this Part, other than items 6 and 7, apply in relation to Judges and Federal Magistrates whether appointed before or after the commencement of the amendments.
 
  
