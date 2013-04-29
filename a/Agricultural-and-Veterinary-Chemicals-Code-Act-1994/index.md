@@ -1,14 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00054/Html/AgrVetChemCode1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00762/Html/AgrVetChemCode1994_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 23 November 2010
  taking into account amendments up to Act No. 121 of 2010
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+The text of any of those amendments not in force on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
@@ -472,7 +471,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [105](#105).        Non-compliance with recall notice
 
-[106](#106).        Recall under Competition and Consumer Act
+[106](#106).        Recall under Trade Practices Act
 
 [107](#107).        Inconsistent requirements
 
@@ -1246,7 +1245,7 @@ _Section_
 
 105      Non-compliance with recall notice
 
-106      Recall under Competition and Consumer Act
+106      Recall under Trade Practices Act
 
 107      Inconsistent requirements
 
@@ -4635,7 +4634,7 @@ as it thinks appropriate.
 
 are varied pursuant to an application or request made under this Part, then, the date of the listed registration of the product, as varied, or as subject to the varied conditions, is the date on which particulars of the variations are entered in the Register of Chemical Products.
 
-##### <a id="56O"></a>56O  Conditions of listed registration
+##### <a id="56O"></a>56O  Conditions of listed registration
 
              (1)  The conditions of the listed registration of a chemical product are the conditions that the APVMA thinks appropriate.
 
@@ -6339,7 +6338,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="100"></a>100  Explanation of Part
 
-                   This Part sets out various circumstances in which the APVMA may issue recall notices requiring persons who have, or have had, stocks of chemical products in their possession to stop supplying the products and to take action in relation to the products as directed by the APVMA. The power of the APVMA to issue recall notices is in addition to powers conferred on the Australian Competition and Consumer Commission under the _Competition and Consumer Act 2010_.
+                   This Part sets out various circumstances in which the APVMA may issue recall notices requiring persons who have, or have had, stocks of chemical products in their possession to stop supplying the products and to take action in relation to the products as directed by the APVMA. The power of the APVMA to issue recall notices is in addition to powers conferred on the Australian Competition and Consumer Commission under the _Trade Practices Act 1974_.
 
 ##### <a id="101"></a>101  Recall of products that are not registered and do not have listed registration or whose registration or listed registration is being reconsidered
 
@@ -6477,9 +6476,9 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="106"></a>106  Recall under Competition and Consumer Act
+##### <a id="106"></a>106  Recall under Trade Practices Act
 
-                   Section 128 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth, imposes obligations on certain persons who voluntarily recall chemical products.
+                   Section 65R of the _Trade Practices Act 1974_ imposes obligations on certain persons who voluntarily recall chemical products.
 
 ##### <a id="107"></a>107  Inconsistent requirements
 
@@ -7013,7 +7012,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                              (ii)  an unintended effect that is harmful to animals, plants or things or to the environment;
 
-                            if the person refuses or fails to do that thing.
+                            if the person refuses or fails to do that thing.
 
 ### Division 3—Powers of entry, search and seizure
 
@@ -8065,7 +8064,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00054/Html/AgrVetChemCode1994_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00762/Html/AgrVetChemCode1994_WD02_image002.gif)
 
 where:
 
@@ -8728,7 +8727,7 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 3, 153): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 3, 153): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -8762,7 +8761,7 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–6): \[ <i>see</i>Note 2 and Table A]</div>
+    <div>Schedule 1 (items 2–6): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 6)</div>
@@ -9157,14 +9156,6 @@ _(i)_ Subsection 2(1) (item 6) of the _Food Standards__Australia__New__Zealand
   </td>
   <td>
     <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11296,7 +11287,7 @@ Part 2A</div>
     <div>S. 100</div>
   </td>
   <td>
-    <div>am. No. 88, 1995; No. 79, 2004; No. 103, 2010</div>
+    <div>am. No. 88, 1995; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11345,22 +11336,6 @@ Part 2A</div>
   </td>
   <td>
     <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 106</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11902,6 +11877,30 @@ Part 2A</div>
 
 ### Note 2
 
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Agricultural and Veterinary Chemicals Code Act 1994</h9>
+
+## 3  Section 100
+
+## 153  Section 106
+
+Omit “Section 65R of the _Trade Practices Act 1974_”, substitute “Section 128 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth,”.
+
+_Note:       The heading to section 106 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
+
+As at 23 November 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Food Standards Australia New Zealand Amendment Act 2010 
  (No. 121, 2010)_
 
@@ -11965,7 +11964,7 @@ Insert:
 
                     (ea)  any dietary exposure assessment prepared under subsection 82(4) of the _Food Standards Australia New Zealand Act 1991_ as a result of any proposed variation notified under subsection 82(3) of that Act in relation to the product, and any comments on the assessment given to the APVMA under subsection 82(4) of that Act;
 
-As at 1 January 2011 the amendments are not incorporated in this compilation.
+As at 23 November 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
