@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image001.gif)
 
 # Excise Tariff Act 1921
 
 **Act No. 26 of 1921 as amended**
 
-This compilation was prepared on 27 July 2012
- taking into account amendments up to Act No. 81 of 2012
+This compilation was prepared on 27 June 2012
+ taking into account amendments up to Act No. 58 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -50,12 +50,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6E](#6E).          Delayed‑entry oil rate
 
-[6FA](#6FA).       Changes in rate of duty on gasoline for use as fuel in aircraft
-
-[6FB](#6FB).       Changes in rate of duty on kerosene for use as fuel in aircraft
-
-[6FC](#6FC).       Publication of replacement rates for aircraft fuel
-
 [6G](#6G).         Duty payable on blended goods
 
 [7](#7).            Regulations
@@ -87,16 +81,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  a part of the surface of the earth and the subsoil beneath that part; and
 
                      (b)  a part of the surface of the earth and a part of the subsoil beneath that part.
-
-                    <a name="averag-carbon-unit-auction-price"></a>**_average carbon unit auction price_** for a substitution day mentioned in section 6FA or 6FB means the amount that:
-
-                     (a)  is worked out under section 196 of the _Clean Energy Act 2011_ taking account of auctions conducted in the 6 months ending at the end of:
-
-                              (i)  the last May before the substitution day, if it is 1 July (in 2015 or a later year); or
-
-                             (ii)  the last November before the substitution day, if it is 1 January (in 2016 or a later year); and
-
-                     (b)  is the first amount that is worked out in that way for those 6 months and published under that section.
 
                     <a name="biodiesel"></a>**_biodiesel_** means fuel manufactured by chemically altering vegetable oils or animal fats (including recycled oils from these sources) to form mono‑alkyl esters.
 
@@ -238,17 +222,13 @@ Note:          Part IA of the _Petroleum Excise (Prices) Act
 
                      (e)  on and after 11 March 1983 and before 1 July 1983—the Minister for Resources and Energy.
 
-                    <a name="resourc-rent-tax-area"></a>**_Resource Rent Tax area_** means an area that, for the purposes of the _Petroleum Resource Rent Tax Assessment Act 1987_:
+                    <a name="resourc-rent-tax-area"></a>**_Resource Rent Tax area_** means an area that, for the purposes of the _Petroleum Resource Rent Tax Assessment Act 1987_, is:
 
-                     (a)  is the:
+                     (a)  the exploration permit area of an exploration permit other than one of the North West Shelf exploration permits; or
 
-                              (i)  exploration permit area of an exploration permit other than one of the North West Shelf exploration permits; or
+                     (b)  the retention lease area of a retention lease that is related to an exploration permit other than one of the North West Shelf exploration permits; or
 
-                             (ii)  retention lease area of a retention lease that is related to an exploration permit other than one of the North West Shelf exploration permits; or
-
-                            (iii)  production licence area of a production licence that is related to an exploration permit other than one of the North West Shelf exploration permits; and
-
-                     (b)  is not an onshore area within the meaning of that Act.
+                     (c)  the production licence area of a production licence that is related to an exploration permit other than one of the North West Shelf exploration permits.
 
                     <a name="statistician"></a>**_Statistician_** means the Australian Statistician.
 
@@ -400,8 +380,6 @@ then, in calculating the first 4767.3 megalitres of stabilised crude petroleum o
 
                      (b)  all goods dutiable under the Schedule and manufactured or produced in Australia before the time or dates when such duties are deemed to have been imposed, and which were at that time or those dates subject to the CEO’s control, or in the stock, custody, or possession of, or belonging to, any distiller or manufacturer thereof, and on which no duty of Excise had been paid before the time or dates when such duties are deemed to have been imposed.
 
-Note:          Sections 6A, 6FA and 6FB effectively change certain rates of duty that appear on the face of the Schedule.
-
              (2)  Where a section of another Act, whether passed before or after the commencement of this subsection, amends the Schedule to this Act, then, unless the contrary intention appears:
 
                      (a)  that section imposes duties of Excise in accordance with the Schedule as so amended;
@@ -492,7 +470,7 @@ Note:          A mixture of, or obtained from, stabilized oil 
 
              (4)  If the factor worked out in relation to an indexation period in accordance with subsection (5) is more than 1, this Act has effect as if, on the first day of the period, there were substituted for each relevant rate a rate of duty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image002.gif)
 
 where:
 
@@ -586,7 +564,7 @@ The amount of duty
 
                    Subject to subsection (3A), the amount of duty in respect of old oil produced from a prescribed production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image003.gif)
 
 where:
 
@@ -665,7 +643,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image004.gif)
 
 where:
 
@@ -703,7 +681,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no old oil produced from a particular prescribed production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of old oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the old oil as if each reference in a paragraph of subsection (4) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image005.gif)
 
 where:
 
@@ -735,7 +713,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of new oil produced from a prescribed new production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image006.gif)
 
 where:
 
@@ -759,13 +737,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of new oil produced from a particular prescribed new production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 16**B**;
 
 where:
 
@@ -811,7 +789,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed new production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image008.gif)
 
 where:
 
@@ -847,7 +825,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  When no new oil produced from a particular prescribed new production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of new oil produced from the production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the new oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image009.gif)
 
 where:
 
@@ -915,7 +893,7 @@ The amount of duty
 
              (3)  Subject to subsection (4), the amount of duty in respect of condensate produced from a prescribed condensate production area and entered for home consumption during a month of a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image006.gif)
 
 where:
 
@@ -939,13 +917,13 @@ The total amount of notional duty
 
              (5)  The amount of notional duty in respect of condensate produced from a particular prescribed condensate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 16**B**;
 
 where:
 
@@ -991,7 +969,7 @@ The amount of notional duty for a quantity of condensate—more than one petrole
 
              (9)  If, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed condensate production area are not all the same, the amount of the notional duty in respect of a quantity of condensate referred to in subsection (5) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (10)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image008.gif)
 
 where:
 
@@ -1027,7 +1005,7 @@ The amount of notional duty—dealing with the first year of production
 
            (12)  When no condensate produced from a particular prescribed condensate production area was ever entered for home consumption before the end of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (5), (6) and (10) or (5), (9) and (10), the notional duty in respect of condensate produced from the production area and entered for home consumption during a later month (the **_relevant month_**) of that financial year, those subsections have effect in relation to the condensate as if each reference in a paragraph of subsection (5) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image009.gif)
 
 where:
 
@@ -1063,7 +1041,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of intermediate oil produced from a prescribed intermediate production area and entered for home consumption during a month of a financial year commencing on or after 1 July 1997 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image010.gif)
 
 where:
 
@@ -1087,13 +1065,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of intermediate oil produced from a particular prescribed intermediate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 8**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 8**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 10**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 10**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif)** 12**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif)** 12**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image007.gif) 12**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image007.gif) 12**B**;
 
 where:
 
@@ -1139,7 +1117,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a prescribed intermediate production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image008.gif)
 
 where:
 
@@ -1175,7 +1153,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no intermediate oil produced from a particular prescribed intermediate production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of intermediate oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the intermediate oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image011.gif)
 
 where:
 
@@ -1195,7 +1173,7 @@ Interpretation of the Schedule
 
              (2)  For the purposes of this Act, the delayed‑entry oil rate that applies to delayed‑entry oil from a particular prescribed source is the amount per kilolitre ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image012.gif)
 
 where:
 
@@ -1212,208 +1190,6 @@ where:
                               (i)  working out, in respect of each applicable petroleum price in operation in relation to a month or months of that pre‑operative year and to that production area, the product of the number of dollars, calculated to 2 decimal places, in the amount specified in the applicable petroleum price and the number of kilolitres of the crude petroleum oil produced from that prescribed source that was entered for home consumption during that month or those months; and
 
                              (ii)  adding the products calculated under subparagraph (i).
-
-##### <a id="6FA"></a>6FA  Changes in rate of duty on gasoline for use as fuel in aircraft
-
-             (1)  This Act has effect as if, on each day (the **_substitution day_**) that is one of the following days, the rate (the **_replacement rate_**) of duty worked out under subsection (2) for the substitution day were substituted for the rate of duty in subitem 10.6 of the Schedule:
-
-                     (a)  1 July in 2013 and each later year;
-
-                     (b)  1 January in 2016 and each later year.
-
-Replacement rate
-
-             (2)  The replacement rate is the sum of:
-
-                     (a)  $0.03556 per litre; and
-
-                     (b)  the rate (the **_carbon component rate_**) worked out for the substitution day using the table.
-
-<table>
-<colgroup>
-  <col width="6%">
-  <col width="42%">
-  <col width="52%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Carbon component rate</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>
-        <b>Substitution day</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Carbon component rate</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>1 July 2013</div>
-  </td>
-  <td>
-    <div>$0.05313 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>1 July 2014</div>
-  </td>
-  <td>
-    <div>$0.05588 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>1 July in 2015 or a later year or 1 January in 2016 or a later year</div>
-  </td>
-  <td>
-    <div>The amount that is:</div>
-    <div>(a) worked out for the substitution day using the formula in subsection (3);
-      and</div>
-    <div>(b) rounded to 5 decimal places (rounding up if the sixth decimal place
-      is 5 or more);</div>
-    <div>per litre</div>
-  </td>
-</tr></table>
-
-             (3)  The formula is:
-
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image013.gif)
-
-Note:          **_Average carbon unit auction price_** is defined in subsection 3(1).
-
-Application of replacement rate
-
-             (4)  The replacement rate applies to gasoline that is entered for home consumption on or after the substitution day (but before the next substitution day) and is for use as fuel in aircraft.
-
-##### <a id="6FB"></a>6FB  Changes in rate of duty on kerosene for use as fuel in aircraft
-
-             (1)  This Act has effect as if, on each day (the **_substitution day_**) that is one of the following days, the rate (the **_replacement rate_**) of duty worked out under subsection (2) for the substitution day were substituted for the rate of duty in subitem 10.17 of the Schedule:
-
-                     (a)  1 July in 2013 and each later year;
-
-                     (b)  1 January in 2016 and each later year.
-
-Replacement rate
-
-             (2)  The replacement rate is the sum of:
-
-                     (a)  $0.03556 per litre; and
-
-                     (b)  the rate (the **_carbon component rate_**) worked out for the substitution day using the table.
-
-<table>
-<colgroup>
-  <col width="6%">
-  <col width="42%">
-  <col width="52%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Carbon component rate</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>
-        <b>Substitution day</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Carbon component rate</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>1 July 2013</div>
-  </td>
-  <td>
-    <div>$0.06279 a litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>1 July 2014</div>
-  </td>
-  <td>
-    <div>$0.06604 a litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>1 July in 2015 or a later year or 1 January in 2016 or a later year</div>
-  </td>
-  <td>
-    <div>The amount that is:</div>
-    <div>(a) worked out for the substitution day using the formula in subsection (3);
-      and</div>
-    <div>(b) rounded to 5 decimal places (rounding up if the sixth decimal place
-      is 5 or more);</div>
-    <div>per litre</div>
-  </td>
-</tr></table>
-
-             (3)  The formula is:
-
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image014.gif)
-
-Note:          **_Average carbon unit auction price_** is defined in subsection 3(1).
-
-Application of replacement rate
-
-             (4)  The replacement rate applies to kerosene that is entered for home consumption on or after the substitution day (but before the next substitution day) and is for use as fuel in aircraft.
-
-##### <a id="6FC"></a>6FC  Publication of replacement rates for aircraft fuel
-
-             (1)  The CEO must, on or as soon as practicable after each substitution day mentioned in sections 6FA and 6FB, publish for the information of the public a notice in the _Gazette_ setting out:
-
-                     (a)  each replacement rate mentioned in those sections for that day; and
-
-                     (b)  the goods to which each replacement rate applies.
-
-             (2)  The CEO must ensure that a copy of a notice under subsection (1) is available on the website of the Australian Taxation Office.
 
 ##### <a id="6G"></a>6G  Duty payable on blended goods
 
@@ -1450,10 +1226,6 @@ Step 5.   Subtract from the total any duty paid on a constituent of the blen
                    The Governor‑General may make regulations prescribing matters required or permitted by this Act to be prescribed.
 
 # The Schedule<span style="font-size:9.0pt"> </span><span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
-
-_Note 1:    See section 5._
-
-_Note 2:    Sections 6A, 6FA and 6FB effectively change certain rates of duty that appear on the face of this Schedule, especially in items 1, 2, 3 and 5 and subitems 10.6 and 10.17._
 
                     <a name="beer"></a>**_beer_** means a brewed beverage that:
 
@@ -1543,7 +1315,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
   <tr>
     <td colspan="4">
       <div>
-        <b>Excise duties (subject to sections 6A, 6FA and 6FB)</b>
+        <b>Excise duties</b>
       </div>
     </td>
   </tr>
@@ -2065,7 +1837,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>Gasoline for use as fuel in aircraft</div>
   </td>
   <td>
-    <div>$0.08616 per litre</div>
+    <div>$0.03556 per litre</div>
   </td>
 </tr>
 <tr>
@@ -2163,7 +1935,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>Kerosene for use as fuel in aircraft</div>
   </td>
   <td>
-    <div>$0.09536 per litre</div>
+    <div>$0.03556 per litre</div>
   </td>
 </tr>
 <tr>
@@ -2194,7 +1966,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     </div>
   </td>
   <td>
-    <div>$0.05 per litre</div>
+    <div>$0.025 per litre</div>
   </td>
 </tr>
 <tr>
@@ -2211,7 +1983,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     </div>
   </td>
   <td>
-    <div>$0.1045 per kilogram</div>
+    <div>$0.0522 per kilogram</div>
   </td>
 </tr>
 <tr>
@@ -2228,7 +2000,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     </div>
   </td>
   <td>
-    <div>$0.1045 per kilogram</div>
+    <div>$0.0522 per kilogram</div>
   </td>
 </tr>
 <tr>
@@ -5477,7 +5249,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 1–7): 1 Dec 2011 
-Schedule 1 (item 8): 1 July 2012 
+Schedule 1 (item 8): \[ <i>see</i>Note 3] 
 Schedule 1 (item 9): \[ <i>see</i>Note 3] 
 Schedule 1 (item 10): \[ <i>see</i>Note 3] 
 Schedule 1 (item 11): \[ <i>see</i>Note 3] 
@@ -5515,7 +5287,7 @@ Remainder: Royal Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 9–11): <i>(o)</i></div>
+    <div>Schedule 2 (items 9–11): \[ <i>see</i> <i>(o)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -5549,8 +5321,8 @@ Remainder: Royal Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2012 
-Schedule 2 (items 2–8): <i>(o)</i></div>
+    <div>Schedule 1: \[ <i>see</i>Note 4] 
+Schedule 2 (items 2–8): \[ <i>see</i> <i>(o)</i>and Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -5567,7 +5339,7 @@ Schedule 2 (items 2–8): <i>(o)</i></div>
     <div>29 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 6 (item 7): 1 July 2012</div>
+    <div>Schedule 6 (item 7): \[ <i>see</i>Note 5]</div>
   </td>
   <td>
     <div>—</div>
@@ -5588,26 +5360,6 @@ Schedule 2 (items 2–8): <i>(o)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 5) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy (Excise Tariff Legislation Amendment) Act 2012</div>
-  </td>
-  <td>
-    <div>81, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–9, 13): <i>(p)</i> 
-Schedule 1 (item 10): \[ <i>see</i> <i>(p)</i>and Note 4] 
-Schedule 1 (item 11): \[ <i>see</i> <i>(p)</i>and Note 4] 
-Schedule 1 (item 12): \[ <i>see</i> <i>(p)</i>and Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -5833,7 +5585,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
   </td>
 </tr></table>
 
-_(o)_     Subsection 2(1) (item 3) of the _Clean Energy (Excise Tariff Legislation Amendment) Act 2011_ provides as follows:
+_(o)_ Subsection 2(1) (item 3) of the _Clean Energy (Excise Tariff Legislation Amendment) Act 2011_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -5887,155 +5639,8 @@ _(o)_     Subsection 2(1) (item 3) of the _Clean Energy (Excise Tariff
   </td>
   <td>
     <div>
-      1 July 2012
-    </div>
-  </td>
-</tr></table>
-
-_(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise Tariff Legislation Amendment) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, item 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Clean Energy (Excise Tariff Legislation Amendment) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 1, items 3 to 9
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 2 to the
-        <i>Clean Energy (Excise Tariff Legislation Amendment) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, item 10
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 3 of Schedule 1 to the
-        <i>Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
       \[
-        <i>see</i>Note 4]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 1, item 11
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 4 of Schedule 1 to the
-        <i>Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 4]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 1, item 12
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 5 of Schedule 1 to the
-        <i>Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 4]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 1, item 13
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 2 to the
-        <i>Clean Energy (Excise Tariff Legislation Amendment) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2012
+        <i>see</i>Notes 3 and 4]
     </div>
   </td>
 </tr></table>
@@ -6133,7 +5738,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 41 and 189, 1985; No. 160, 1986; Nos. 145 and 150, 1987; No. 112, 1990; No. 80, 1991; No. 115, 1993; No. 134, 1994; Nos. 85 and 162, 1995; Nos. 78 and 161, 1997; No. 64, 1998; Nos. 25 and 164, 2001; No. 113, 2002; No. 66, 2004; Nos. 17 and 75, 2006; No. 109, 2008; No. 88, 2009; Nos. 46, 67 and 156, 2011; Nos. 18 and 81, 2012</div>
+    <div>am. Nos. 41 and 189, 1985; No. 160, 1986; Nos. 145 and 150, 1987; No. 112, 1990; No. 80, 1991; No. 115, 1993; No. 134, 1994; Nos. 85 and 162, 1995; Nos. 78 and 161, 1997; No. 64, 1998; Nos. 25 and 164, 2001; No. 113, 2002; No. 66, 2004; Nos. 17 and 75, 2006; No. 109, 2008; No. 88, 2009; Nos. 46 and 67, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6158,22 +5763,6 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
   </td>
   <td>
     <div>am. No. 53, 1984; No. 25, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>Note to s. 5(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 81, 2012</div>
   </td>
 </tr>
 <tr>
@@ -6410,7 +5999,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6B(4), (5)</div>
+    <div>Subheads. to s. 6B(4), (5) .</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -6450,7 +6039,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6C(1), (2)</div>
+    <div>Subheads. to s. 6C(1), (2).</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -6458,7 +6047,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6C(4), (5)</div>
+    <div>Subheads. to s. 6C(4), (5).</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -6514,7 +6103,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6D(1), (2)</div>
+    <div>Subheads. to s. 6D(1), (2).</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -6522,7 +6111,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6D(4), (5)</div>
+    <div>Subheads. to s. 6D(4), (5),</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -6594,30 +6183,6 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>S. 6FA</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>S. 6FB</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>S. 6FC</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
     <div>S. 6F</div>
   </td>
   <td>
@@ -6682,23 +6247,7 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div>S. 6H</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 81, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>S. 7.......................................</div>
+    <div>S. 7......................................</div>
   </td>
   <td>
     <div>rep. No. 75, 2006</div>
@@ -6722,37 +6271,10 @@ _(p)_     Subsection 2(1) (items 3–8) of the _Clean Energy (Excise T
 </tr>
 <tr>
   <td colspan="2">
-    <div><b>The Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>Note 1 to The Schedule 
-heading</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>Note 2 to The Schedule 
-heading</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2011 
-am. No. 81, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
     <div>The Schedule</div>
   </td>
   <td>
-    <div>am. No. 28, 1924; No. 28, 1926; No. 4, 1928; Nos. 20 and 21, 1933; No. 17, 1936; Nos. 24 and 70, 1938; Nos. 29, 54 and 65, 1939; Nos. 3, 4, 14 and 93, 1948; Nos. 77 and 82, 1949; Nos. 61 and 62, 1950; No. 83, 1952; No. 78, 1953; Nos. 16, 59 and 87, 1956; No. 82, 1957; No. 19, 1958; Nos. 26, 65 and 66, 1959; Nos. 26 and 57, 1960; Nos. 21 and 55, 1961; No. 73, 1962; Nos. 41 and 91, 1963; No. 125, 1964; Nos. 83 and 140, 1965; Nos. 18 and 82, 1967; Nos. 74 and 75, 1968; Nos. 5 and 33, 1969; No. 81, 1970; No. 108, 1971; Nos. 22, 64 and 119, 1972; Nos. 20, 23, 146 and 216, 1973; No. 121, 1974; No. 104, 1975; Nos. 104 and 136, 1977; Nos. 48 and 184, 1978; Nos. 81, 83 and 164, 1979; Nos. 43, 44, 45 and 122, 1980; No. 50, 1981; Nos. 24, 45 and 54, 1982; Nos. 27 and 99, 1983; Nos. 53 and 72, 1984; No. 131, 1984 (as am. by No. 41, 1985); Nos. 39, 41 and 189, 1985; No. 20, 1986 (as am. by No. 160, 1986); No. 160, 1986; Nos. 53, 76, 145 and 150, 1987; Nos. 29 and 149, 1988; Nos. 77 and 177, 1989; No. 112, 1990; Nos. 80 and 186, 1991; No. 65, 1992 (as am. by No. 91, 1997); Nos. 9, 56 and 115, 1993; Nos. 62 and 134, 1994; Nos. 9, 85 and 162, 1995; No. 15, 1996; Nos. 78, 135, 161, 169, 178, 182, 1997; No. 64, 1998: Nos. 99 and 146, 1999; Nos. 68 and 104, 2000; Nos. 25 and 39, 2001; Nos. 108 and 113, 2002; Nos. 44 and 66, 2004; No. 75, 2006; No. 109, 2008; No. 73, 2009; Nos. 76 and 84, 2010; Nos. 46, 67 and 156, 2011; Nos. 58 and 81, 2012</div>
+    <div>am. No. 28, 1924; No. 28, 1926; No. 4, 1928; Nos. 20 and 21, 1933; No. 17, 1936; Nos. 24 and 70, 1938; Nos. 29, 54 and 65, 1939; Nos. 3, 4, 14 and 93, 1948; Nos. 77 and 82, 1949; Nos. 61 and 62, 1950; No. 83, 1952; No. 78, 1953; Nos. 16, 59 and 87, 1956; No. 82, 1957; No. 19, 1958; Nos. 26, 65 and 66, 1959; Nos. 26 and 57, 1960; Nos. 21 and 55, 1961; No. 73, 1962; Nos. 41 and 91, 1963; No. 125, 1964; Nos. 83 and 140, 1965; Nos. 18 and 82, 1967; Nos. 74 and 75, 1968; Nos. 5 and 33, 1969; No. 81, 1970; No. 108, 1971; Nos. 22, 64 and 119, 1972; Nos. 20, 23, 146 and 216, 1973; No. 121, 1974; No. 104, 1975; Nos. 104 and 136, 1977; Nos. 48 and 184, 1978; Nos. 81, 83 and 164, 1979; Nos. 43, 44, 45 and 122, 1980; No. 50, 1981; Nos. 24, 45 and 54, 1982; Nos. 27 and 99, 1983; Nos. 53 and 72, 1984; No. 131, 1984 (as am. by No. 41, 1985); Nos. 39, 41 and 189, 1985; No. 20, 1986 (as am. by No. 160, 1986); No. 160, 1986; Nos. 53, 76, 145 and 150, 1987; Nos. 29 and 149, 1988; Nos. 77 and 177, 1989; No. 112, 1990; Nos. 80 and 186, 1991; No. 65, 1992 (as am. by No. 91, 1997); Nos. 9, 56 and 115, 1993; Nos. 62 and 134, 1994; Nos. 9, 85 and 162, 1995; No. 15, 1996; Nos. 78, 135, 161, 169, 178, 182, 1997; No. 64, 1998: Nos. 99 and 146, 1999; Nos. 68 and 104, 2000; Nos. 25 and 39, 2001; Nos. 108 and 113, 2002; Nos. 44 and 66, 2004; No. 75, 2006; No. 109, 2008; No. 73, 2009; Nos. 76 and 84, 2010; Nos. 46 and 67, 2011; No. 58, 2012</div>
   </td>
 </tr>
 <tr height="0">
@@ -6768,15 +6290,81 @@ Section 6A of the Act provides for the automatic indexation of the rate of duty 
 ### Note 3
 
 _Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011 
- (No. 67, 2011) (as amended by the Clean Energy (Excise Tariff Legislation Amendment) Act 2011 (No. 156, 2011))_
+ (No. 67, 2011)_
 
-The amendments made by the _Clean Energy (Excise Tariff Legislation Amendment) Act 2011_ commenced on 1 July 2012 and have been incorporated into this Note.
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 8  Schedule (table subitems 10.19A, 10.19B and 10.19C)
+
+Repeal the subitems, substitute:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="13%">
+  <col width="46%">
+  <col width="32%">
+</colgroup>
+
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>10.19A</div>
+  </td>
+  <td>
+    <div>Liquefied petroleum gas, other than liquefied petroleum gas exempted from
+      excise duty by section 77HB of the
+      <i>Excise Act 1901</i>
+    </div>
+  </td>
+  <td>
+    <div>$0.05 per litre</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>10.19B</div>
+  </td>
+  <td>
+    <div>Liquefied natural gas, other than liquefied natural gas exempted from
+      excise duty by section 77HB of the
+      <i>Excise Act 1901</i>
+    </div>
+  </td>
+  <td>
+    <div>$0.1045 per kilogram</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>10.19C</div>
+  </td>
+  <td>
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
+      <i>Excise Act 1901</i>
+    </div>
+  </td>
+  <td>
+    <div>$0.1045 per kilogram</div>
+  </td>
+</tr></table>
 
 The following amendment commences on 1 July 2013:
 
 ## Schedule 1
 
-## 9  Schedule (table subitems 10.19A, 10.19B and 10.19C)
+## \[NOTE]  9  Schedule (table subitems 10.19A, 10.19B and 10.19C)
 
 Repeal the subitems, substitute:
 
@@ -6830,9 +6418,8 @@ Repeal the subitems, substitute:
     <div>10.19C</div>
   </td>
   <td>
-    <div>Compressed natural gas, other than carbon‑rated compressed natural gas
-      and compressed natural gas exempted from excise duty by section 77HA of
-      the
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
       <i>Excise Act 1901</i>
     </div>
   </td>
@@ -6845,7 +6432,7 @@ The following amendment commences on 1 July 2014:
 
 ## Schedule 1
 
-## 10  Schedule (table subitems 10.19A, 10.19B and 10.19C)
+## \[NOTE]  10  Schedule (table subitems 10.19A, 10.19B and 10.19C)
 
 Repeal the subitems, substitute:
 
@@ -6899,9 +6486,8 @@ Repeal the subitems, substitute:
     <div>10.19C</div>
   </td>
   <td>
-    <div>Compressed natural gas, other than carbon‑rated compressed natural gas
-      and compressed natural gas exempted from excise duty by section 77HA of
-      the
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
       <i>Excise Act 1901</i>
     </div>
   </td>
@@ -6914,7 +6500,7 @@ The following amendment commences on 1 July 2015:
 
 ## Schedule 1
 
-## 11  Schedule (table subitems 10.19A, 10.19B and 10.19C)
+## \[NOTE]  11  Schedule (table subitems 10.19A, 10.19B and 10.19C)
 
 Repeal the subitems, substitute:
 
@@ -6968,9 +6554,8 @@ Repeal the subitems, substitute:
     <div>10.19C</div>
   </td>
   <td>
-    <div>Compressed natural gas, other than carbon‑rated compressed natural gas
-      and compressed natural gas exempted from excise duty by section 77HA of
-      the
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
       <i>Excise Act 1901</i>
     </div>
   </td>
@@ -6979,38 +6564,489 @@ Repeal the subitems, substitute:
   </td>
 </tr></table>
 
-As at 27 July 2012 the amendments are not incorporated in this compilation.
+_\[NOTE]:  Clean Energy (Excise Tariff Legislation Amendment) Act 2011 
+ (No. 156, 2011)_
+
+The following amendments commence immediately after 1 July 2012 and amend the _Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011_ (No. 67, 2011) as follows:
+
+## Schedule 2
+
+## 9  Item 9 of Schedule 1 (new table subitem 10.19C)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+## 10  Item 10 of Schedule 1 (new table subitem 10.19C)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+## 11  Item 11 of Schedule 1 (new table subitem 10.19C)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+As at 27 June 2012 the amendments are not incorporated in this compilation.
 
 ### Note 4
 
-_Clean Energy (Excise Tariff Legislation Amendment) Act 2012
- (No. 81, 2012)_
+_Clean Energy (Excise Tariff Legislation Amendment) Act 2011 
+ (No. 156, 2011)_
 
-The following amendment commences immediately after 1 July 2013:
+The following amendments commence on 1 July 2012:
 
-## Schedule 1
+## Schedule 1
 
-## 10  Schedule (table subitem 10.19C, column headed “Description of goods”)
+## 1  Subsection 3(1)
 
-Omit “carbon‑rated compressed natural gas and”.
+Insert:
 
-The following amendment commences immediately after 1 July 2014:
+                    <a name="averag-carbon-unit-auction-price"></a>**_average carbon unit auction price_** for a substitution day mentioned in section 6FA, 6FB or 6H means the amount that:
 
-## Schedule 1
+                     (a)  is worked out under section 196 of the _Clean Energy Act 2011_ taking account of auctions conducted in the 6 months ending at the end of:
 
-## 11  Schedule (table subitem 10.19C, column headed “Description of goods”)
+                              (i)  the last May before the substitution day, if it is 1 July (in 2015 or a later year); or
 
-Omit “carbon‑rated compressed natural gas and”.
+                             (ii)  the last November before the substitution day, if it is 1 January (in 2016 or a later year); and
 
-The following amendment commences immediately after 1 July 2015:
+                     (b)  is the first amount that is worked out in that way for those 6 months and published under that section.
 
-## Schedule 1
+## 2  After section 6E
 
-## 12  Schedule (table subitem 10.19C, column headed “Description of goods”)
+Insert:
 
-Omit “carbon‑rated compressed natural gas and”.
+##### <a id="6FA"></a>6FA  Changes in rate of duty on gasoline for use as fuel in aircraft
 
-As at 27 July 2012 the amendments are not incorporated in this compilation.
+             (1)  This Act has effect as if, on each day (the **_substitution day_**) that is one of the following days, the rate (the **_replacement rate_**) of duty worked out under subsection (2) for the substitution day were substituted for the rate of duty in subitem 10.6 of the Schedule:
+
+                     (a)  1 July in 2013 and each later year;
+
+                     (b)  1 January in 2016 and each later year.
+
+Replacement rate
+
+             (2)  The replacement rate is the sum of:
+
+                     (a)  $0.03556 per litre; and
+
+                     (b)  the rate (the **_carbon component rate_**) worked out for the substitution day using the table.
+
+<table>
+<colgroup>
+  <col width="6%">
+  <col width="42%">
+  <col width="52%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Carbon component rate</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>
+        <b>Substitution day</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Carbon component rate</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>1 July 2013</div>
+  </td>
+  <td>
+    <div>$0.05313 per litre</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>1 July 2014</div>
+  </td>
+  <td>
+    <div>$0.05588 per litre</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>1 July in 2015 or a later year or 1 January in 2016 or a later year</div>
+  </td>
+  <td>
+    <div>The amount that is:</div>
+    <div>(a) worked out for the substitution day using the formula in subsection (3);
+      and</div>
+    <div>(b) rounded to 5 decimal places (rounding up if the sixth decimal place
+      is 5 or more);</div>
+    <div>per litre</div>
+  </td>
+</tr></table>
+
+             (3)  The formula is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image013.gif)
+
+Note:          **_Average carbon unit auction price_** is defined in subsection 3(1).
+
+Application of replacement rate
+
+             (4)  The replacement rate applies to gasoline that is entered for home consumption on or after the substitution day (but before the next substitution day) and is for use as fuel in aircraft.
+
+##### <a id="6FB"></a>6FB  Changes in rate of duty on kerosene for use as fuel in aircraft
+
+             (1)  This Act has effect as if, on each day (the **_substitution day_**) that is one of the following days, the rate (the **_replacement rate_**) of duty worked out under subsection (2) for the substitution day were substituted for the rate of duty in subitem 10.17 of the Schedule:
+
+                     (a)  1 July in 2013 and each later year;
+
+                     (b)  1 January in 2016 and each later year.
+
+Replacement rate
+
+             (2)  The replacement rate is the sum of:
+
+                     (a)  $0.03556 per litre; and
+
+                     (b)  the rate (the **_carbon component rate_**) worked out for the substitution day using the table.
+
+<table>
+<colgroup>
+  <col width="6%">
+  <col width="42%">
+  <col width="52%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Carbon component rate</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>
+        <b>Substitution day</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Carbon component rate</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>1 July 2013</div>
+  </td>
+  <td>
+    <div>$0.06279 a litre</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>1 July 2014</div>
+  </td>
+  <td>
+    <div>$0.06604 a litre</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>1 July in 2015 or a later year or 1 January in 2016 or a later year</div>
+  </td>
+  <td>
+    <div>The amount that is:</div>
+    <div>(a) worked out for the substitution day using the formula in subsection (3);
+      and</div>
+    <div>(b) rounded to 5 decimal places (rounding up if the sixth decimal place
+      is 5 or more);</div>
+    <div>per litre</div>
+  </td>
+</tr></table>
+
+             (3)  The formula is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image014.gif)
+
+Note:          **_Average carbon unit auction price_** is defined in subsection 3(1).
+
+Application of replacement rate
+
+             (4)  The replacement rate applies to kerosene that is entered for home consumption on or after the substitution day (but before the next substitution day) and is for use as fuel in aircraft.
+
+##### <a id="6FC"></a>6FC  Publication of replacement rates for aircraft fuel
+
+             (1)  The CEO must, on or as soon as practicable after each substitution day mentioned in sections 6FA and 6FB, publish for the information of the public a notice in the _Gazette_ setting out:
+
+                     (a)  each replacement rate mentioned in those sections for that day; and
+
+                     (b)  the goods to which each replacement rate applies.
+
+             (2)  The CEO must ensure that a copy of a notice under subsection (1) is available on the website of the Australian Taxation Office.
+
+## 3  Schedule (cell at table subitem 10.6, column headed “Rate of Duty”)
+
+Repeal the cell, substitute:
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>$0.08616 per litre</div>
+  </td>
+</tr></table>
+
+## 4  Schedule (cell at table subitem 10.17, column headed “Rate of Duty”)
+
+Repeal the cell, substitute:
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>$0.09536 per litre</div>
+  </td>
+</tr></table>
+
+The following amendments commence immediately after 1 July 2012:
+
+## Schedule 2
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="carbon-rate-compress-natur-ga"></a>**_carbon‑rated compressed natural gas_** means compressed natural gas that:
+
+                     (a)  was compressed for use other than as a fuel for a motor vehicle; or
+
+                     (b)  was compressed for use as a fuel for a motor vehicle that:
+
+                              (i)  is designed merely to move goods with a forklift and is for use primarily off public roads; or
+
+                             (ii)  is of a kind prescribed by the regulations for the purposes of this subparagraph.
+
+## 3  At the end of subsection 5(1)
+
+Add:
+
+Note:          Sections 6A, 6FA, 6FB and 6H effectively change certain rates of duty that appear on the face of the Schedule.
+
+## 4  After section 6G
+
+Insert:
+
+##### <a id="6H"></a>6H  Changes in rate of duty on carbon‑rated compressed natural gas
+
+             (1)  This Act has effect as if, on each day (the **_substitution day_**) that is one of the following days, the rate (the **_replacement rate_**) of duty worked out under subsection (2) for the substitution day were substituted for the rate of duty in subitem 10.19D of the Schedule:
+
+                     (a)  1 July in 2013 and each later year;
+
+                     (b)  1 January in 2016 and each later year.
+
+Replacement rate
+
+             (2)  The replacement rate for the substitution day is the rate worked out using the table.
+
+<table>
+<colgroup>
+  <col width="6%">
+  <col width="44%">
+  <col width="50%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Replacement rate</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>
+        <b>Substitution day</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Rate of duty</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>1 July 2013</div>
+  </td>
+  <td>
+    <div>$0.07004 per kilogram</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>1 July 2014</div>
+  </td>
+  <td>
+    <div>$0.07366 per kilogram</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>1 July in 2015 or a later year or 1 January in 2016 or a later year</div>
+  </td>
+  <td>
+    <div>The amount that is:</div>
+    <div>(a) worked out for the period using the formula in subsection (3); and</div>
+    <div>(b) rounded to 5 decimal places (rounding up if the sixth decimal place
+      is 5 or more);</div>
+    <div>per kilogram</div>
+  </td>
+</tr></table>
+
+             (3)  The formula is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image015.gif)
+
+Note:          **_Average carbon unit auction price_** is defined in subsection 3(1).
+
+Application of replacement rate
+
+             (4)  The replacement rate applies to carbon‑rated compressed natural gas that is entered for home consumption on or after the substitution day (but before the next substitution day).
+
+Publication of replacement rate
+
+             (5)  The CEO must, on or as soon as practicable after the substitution day, publish for the information of the public a notice in the _Gazette_ setting out:
+
+                     (a)  the replacement rate; and
+
+                     (b)  the goods to which the replacement rate applies.
+
+             (6)  The CEO must ensure that a copy of a notice under subsection (5) is available on the website of the Australian Taxation Office.
+
+## 5  Schedule (after the heading)
+
+Insert:
+
+_Note 1:    See section 5._
+
+_Note 2:    Sections 6A, 6FA, 6FB and 6H effectively change certain rates of duty that appear on the face of this Schedule, especially in items 1, 2, 3 and 5 and subitems 10.6, 10.17 and 10.19D._
+
+## 6  Schedule (table heading)
+
+Omit “**duties**”, substitute “**duties (subject to sections 6A, 6FA, 6FB and 6H)**”.
+
+## 7  Schedule (cell at table subitem 10.19C, column headed “Description of goods”)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+## 8  Schedule (after table subitem 10.19C)
+
+Insert:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="14%">
+  <col width="48%">
+  <col width="29%">
+</colgroup>
+
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>10.19D</div>
+  </td>
+  <td>
+    <div>Carbon‑rated compressed natural gas, other than compressed natural gas
+      exempted from excise duty by section 77HA of the
+      <i>Excise Act 1901</i>
+    </div>
+  </td>
+  <td>
+    <div>$0.0667 per kilogram</div>
+  </td>
+</tr></table>
+
+As at 27 June 2012 the amendments are not incorporated in this compilation.
+
+### Note 5
+
+_Petroleum Resource Rent Tax Assessment Amendment Act 2012
+ (No. 18, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 6
+
+## 7  Subsection 3(1) (definition of _Resource Rent Tax area_)
+
+                    Repeal the definition, substitute:
+
+                    <a name="resourc-rent-tax-area"></a>**_Resource Rent Tax area_** means an area that, for the purposes of the _Petroleum Resource Rent Tax Assessment Act 1987_:
+
+                     (a)  is the:
+
+                              (i)  exploration permit area of an exploration permit other than one of the North West Shelf exploration permits; or
+
+                             (ii)  retention lease area of a retention lease that is related to an exploration permit other than one of the North West Shelf exploration permits; or
+
+                            (iii)  production licence area of a production licence that is related to an exploration permit other than one of the North West Shelf exploration permits; and
+
+                     (b)  is not an onshore area within the meaning of that Act.
+
+As at 27 June 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -7172,7 +7208,7 @@ Application of Schedule (other than items 2, 3, 4, 10, 11 and 12)
 
                      (b)  the formula in subsection 6CA(3) were replaced with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00655/Html/a0651eec-28f0-4b63-8965-f261235142fa_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00517/Html/d74d1244-2fed-4018-afd2-dab4f41889cc_files/image016.gif)
 
                      (c)  subsections 6CA(7) and (8) were omitted.
 
