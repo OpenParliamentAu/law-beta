@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00384/Html/ActsInterp1901_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00660/Html/238D8CFD9DC6D545CA2570BC0017DE3D/$FILE/image001.gif)
 
 # Acts Interpretation Act 1901
 
 **Act No. 2 of 1901 as amended**
 
-This compilation was prepared on 7 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 17 November 2005
+taking into account amendments up to Act No. 133 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -211,6 +213,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [51](#51).          Regulations
 
 **Notes** 
+
 
 ## An Act for the Interpretation of Acts of Parliament and for Shortening their Language
 
@@ -514,7 +517,7 @@ Definition
 
                      (a)  in relation to Australia, means:
 
-                              (i)  the territorial sea of   Australia; and
+                              (i)  the territorial sea of Australia; and
 
                              (ii)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or internal Territory;
 
@@ -606,7 +609,7 @@ and shall, unless the contrary intention appears, be read as referring to the Go
 
                     (pd)  **_External_****_Territory_** means a Territory, not being an internal Territory, for the government of which as a Territory provision is made by any Act;
 
-                    (pe)  **_Internal_****_Territory_** means the Australian Capital Territory, the Jervis Bay Territory or the Northern   Territory;
+                    (pe)  **_Internal_****_Territory_** means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory;
 
                      (q)  **_Prescribed_** means prescribed by the Act, or by Regulations under the Act;
 
@@ -630,7 +633,7 @@ and shall, unless the contrary intention appears, be read as referring to the Go
 
                    In any Act, unless the contrary intention appears:
 
-                     (a)  **_The_****_United   Kingdom_** shall mean the United Kingdom of Great Britain and Northern Ireland;
+                     (a)  **_The_****_United Kingdom_** shall mean the United Kingdom of Great Britain and Northern Ireland;
 
                      (b)  **_British possession_** shall mean any part of the King’s dominions exclusive of the United Kingdom, and where parts of such dominions are under both a central and a local Legislature all parts under the central Legislature shall for the purposes of this definition be deemed to be one British possession.
 
@@ -828,6 +831,10 @@ the provision shall, on and from the date of the order or such later date as is 
 
 the provision shall, on and from the date of the order or such later date as is specified in the order, have effect accordingly for all purposes, including the purpose of the making of any subsequent order under this subsection or subsection 19B(3), other than such an order that is expressed to have effect as if the first-mentioned order had not been made.
 
+             (4)  The provisions of section 48 (except paragraphs (1)(a) and (b) and subsections (2) and (6)) apply, by force of this subsection, to an order under this section in like manner as those provisions apply in relation to a regulation.
+
+             (5)  Where an order is disallowed, or is to be deemed to be disallowed, under a provision of section 48 as applied by subsection (4), each provision to which the order relates has effect from and including the date of the disallowance as if the disallowed order had not been made.
+
 ##### <a id="19BAA"></a>19BAA  Application of sections 19B and 19BA where Department abolished and Department with same name established
 
                    Where a Department of State of the Commonwealth is abolished and, immediately after its abolition, a Department with the same name as the abolished Department is established:
@@ -972,7 +979,7 @@ the provision shall, on and from the date of the order or such later date as is 
 
 ##### <a id="25E"></a>25E  Attainment of particular age
 
-                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
+                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
 
 ## Part VI—Judicial expressions
 
@@ -990,7 +997,7 @@ the provision shall, on and from the date of the order or such later date as is 
 
                      (e)  **_Justice of the Peace_** includes a Justice of the Peace for a State or part of a State or for a Territory.
 
-##### <a id="27"></a>27  Meaning of certain words [_see_ Note 3]
+##### <a id="27"></a>27  Meaning of certain words [_see_ Note 3]
 
                    In any Act, unless the contrary intention appears:
 
@@ -1014,7 +1021,7 @@ the provision shall, on and from the date of the order or such later date as is 
 
 is taken to include a reference to any document through which proceedings may be instituted in a court.
 
-Note:          An example of such a document is a court attendance notice under the _Criminal Procedure Act 1986_ of New South   Wales.
+Note:          An example of such a document is a court attendance notice under the _Criminal Procedure Act 1986_ of New South Wales.
 
 ##### <a id="28"></a>28  Rules of Court
 
@@ -1242,7 +1249,7 @@ shall be deemed to have been presentation of the paper to that House, as describ
 
              (1)  An Act passed by the Parliament of the Commonwealth may be referred to by the word “Act” alone.
 
-             (2)  An Act passed by the Parliament of the United   Kingdom may be referred to by the term “Imperial Act”.
+             (2)  An Act passed by the Parliament of the United Kingdom may be referred to by the term “Imperial Act”.
 
              (3)  An Act passed by the Parliament of a State may be referred to by the term “State Act”.
 
@@ -1345,7 +1352,7 @@ Note:         This provision has a parallel, in relation to legi
 ##### <a id="46AA"></a>46AA  Prescribing matters by reference to other instruments
 
              (1)  If legislation authorises or requires provision to be made in 
- relation to any matter in an instrument that is neither a legislative instrument for the purposes of the _Legislative Instruments Act 2003_ nor a rule of court, that instrument may, unless the contrary intention appears, make provision in relation to that matter:
+relation to any matter in an instrument that is neither a legislative instrument for the purposes of the _Legislative Instruments Act 2003_ nor a rule of court, that instrument may, unless the contrary intention appears, make provision in relation to that matter:
 
                      (a)  by applying, adopting or incorporating, with or without modification, the provisions of any Act, or of any disallowable legislative instrument for the purposes of the _Legislative Instruments Act 2003_, as in force at a particular time or as in force from time to time; or
 
@@ -1427,6 +1434,7 @@ Note:         This provision has a parallel, in relation to legi
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Acts Interpretation Act 1901_
 
 ### Note 1
@@ -1455,11 +1463,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1469,1109 +1479,1110 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1901</div>
-  </td>
-  <td>
-    <div>2, 1901</div>
-  </td>
-  <td>
-    <div>12 July 1901</div>
-  </td>
-  <td>
-    <div>12 July 1901</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1916</div>
-  </td>
-  <td>
-    <div>4, 1916</div>
-  </td>
-  <td>
-    <div>30 May 1916</div>
-  </td>
-  <td>
-    <div>30 May 1916</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1918</div>
-  </td>
-  <td>
-    <div>8, 1918</div>
-  </td>
-  <td>
-    <div>11 June 1918</div>
-  </td>
-  <td>
-    <div>11 June 1918</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1930</div>
-  </td>
-  <td>
-    <div>23, 1930</div>
-  </td>
-  <td>
-    <div>14 Aug 1930</div>
-  </td>
-  <td>
-    <div>S. 3: 27 Oct 1930 ( <i>see Gazette</i>1930, p. 2093) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1932</div>
-  </td>
-  <td>
-    <div>24, 1932</div>
-  </td>
-  <td>
-    <div>30 May 1932</div>
-  </td>
-  <td>
-    <div>30 May 1932</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1937</div>
-  </td>
-  <td>
-    <div>10, 1937</div>
-  </td>
-  <td>
-    <div>27 Aug 1937</div>
-  </td>
-  <td>
-    <div>11 Oct 1937 ( <i>see Gazette</i>1937, p. 1695)</div>
-  </td>
-  <td>
-    <div>S. 14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1941</div>
-  </td>
-  <td>
-    <div>7, 1941</div>
-  </td>
-  <td>
-    <div>4 Apr 1941</div>
-  </td>
-  <td>
-    <div>S. 5: 3 Sept 1939 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence (Transitional Provisions) Act 1947</div>
-  </td>
-  <td>
-    <div>78, 1947</div>
-  </td>
-  <td>
-    <div>11 Dec 1947</div>
-  </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 1 Jan 1948</div>
-  </td>
-  <td>
-    <div>S. 4(5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1948</div>
-  </td>
-  <td>
-    <div>79, 1948</div>
-  </td>
-  <td>
-    <div>17 Dec 1948</div>
-  </td>
-  <td>
-    <div>14 Jan 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1950</div>
-  </td>
-  <td>
-    <div>80, 1950</div>
-  </td>
-  <td>
-    <div>16 Dec 1950</div>
-  </td>
-  <td>
-    <div>31 Dec 1950</div>
-  </td>
-  <td>
-    <div>Ss. 16 and 17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1957</div>
-  </td>
-  <td>
-    <div>69, 1957</div>
-  </td>
-  <td>
-    <div>5 Dec 1957</div>
-  </td>
-  <td>
-    <div>5 Dec 1957</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1963</div>
-  </td>
-  <td>
-    <div>19, 1963</div>
-  </td>
-  <td>
-    <div>28 May 1963</div>
-  </td>
-  <td>
-    <div>25 June 1963</div>
-  </td>
-  <td>
-    <div>S. 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1964</div>
-  </td>
-  <td>
-    <div>52, 1964</div>
-  </td>
-  <td>
-    <div>30 May 1964</div>
-  </td>
-  <td>
-    <div>27 June 1964</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Act 1973</div>
-  </td>
-  <td>
-    <div>79, 1973</div>
-  </td>
-  <td>
-    <div>19 June 1973</div>
-  </td>
-  <td>
-    <div>S. 4(2): 1 July 1973 ( <i>see Gazette</i> 1973, No. 79) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Citation Act 1976</div>
-  </td>
-  <td>
-    <div>37, 1976</div>
-  </td>
-  <td>
-    <div>26 May 1976</div>
-  </td>
-  <td>
-    <div>1 July 1976</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>144, 1976</div>
-  </td>
-  <td>
-    <div>6 Dec 1976</div>
-  </td>
-  <td>
-    <div>S. 5(2): 1 July 1977 
+<tbody>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1901</div>
+    </td>
+    <td>
+      <div>2, 1901</div>
+    </td>
+    <td>
+      <div>12 July 1901</div>
+    </td>
+    <td>
+      <div>12 July 1901</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1916</div>
+    </td>
+    <td>
+      <div>4, 1916</div>
+    </td>
+    <td>
+      <div>30 May 1916</div>
+    </td>
+    <td>
+      <div>30 May 1916</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1918</div>
+    </td>
+    <td>
+      <div>8, 1918</div>
+    </td>
+    <td>
+      <div>11 June 1918</div>
+    </td>
+    <td>
+      <div>11 June 1918</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1930</div>
+    </td>
+    <td>
+      <div>23, 1930</div>
+    </td>
+    <td>
+      <div>14 Aug 1930</div>
+    </td>
+    <td>
+      <div>S. 3: 27 Oct 1930 ( <i>see Gazette</i>1930, p. 2093) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1932</div>
+    </td>
+    <td>
+      <div>24, 1932</div>
+    </td>
+    <td>
+      <div>30 May 1932</div>
+    </td>
+    <td>
+      <div>30 May 1932</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1937</div>
+    </td>
+    <td>
+      <div>10, 1937</div>
+    </td>
+    <td>
+      <div>27 Aug 1937</div>
+    </td>
+    <td>
+      <div>11 Oct 1937 ( <i>see Gazette</i>1937, p. 1695)</div>
+    </td>
+    <td>
+      <div>S. 14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1941</div>
+    </td>
+    <td>
+      <div>7, 1941</div>
+    </td>
+    <td>
+      <div>4 Apr 1941</div>
+    </td>
+    <td>
+      <div>S. 5: 3 Sept 1939 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence (Transitional Provisions) Act 1947</div>
+    </td>
+    <td>
+      <div>78, 1947</div>
+    </td>
+    <td>
+      <div>11 Dec 1947</div>
+    </td>
+    <td>
+      <div>Ss. 1–3: Royal Assent 
+Remainder: 1 Jan 1948 
+</div>
+    </td>
+    <td>
+      <div>S. 4(5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1948</div>
+    </td>
+    <td>
+      <div>79, 1948</div>
+    </td>
+    <td>
+      <div>17 Dec 1948</div>
+    </td>
+    <td>
+      <div>14 Jan 1949</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1950</div>
+    </td>
+    <td>
+      <div>80, 1950</div>
+    </td>
+    <td>
+      <div>16 Dec 1950</div>
+    </td>
+    <td>
+      <div>31 Dec 1950</div>
+    </td>
+    <td>
+      <div>Ss. 16 and 17</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1957</div>
+    </td>
+    <td>
+      <div>69, 1957</div>
+    </td>
+    <td>
+      <div>5 Dec 1957</div>
+    </td>
+    <td>
+      <div>5 Dec 1957</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1963</div>
+    </td>
+    <td>
+      <div>19, 1963</div>
+    </td>
+    <td>
+      <div>28 May 1963</div>
+    </td>
+    <td>
+      <div>25 June 1963</div>
+    </td>
+    <td>
+      <div>S. 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1964</div>
+    </td>
+    <td>
+      <div>52, 1964</div>
+    </td>
+    <td>
+      <div>30 May 1964</div>
+    </td>
+    <td>
+      <div>27 June 1964</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Act 1973</div>
+    </td>
+    <td>
+      <div>79, 1973</div>
+    </td>
+    <td>
+      <div>19 June 1973</div>
+    </td>
+    <td>
+      <div>S. 4(2): 1 July 1973 ( <i>see Gazette</i> 1973, No. 79) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Citation Act 1976</div>
+    </td>
+    <td>
+      <div>37, 1976</div>
+    </td>
+    <td>
+      <div>26 May 1976</div>
+    </td>
+    <td>
+      <div>1 July 1976</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>144, 1976</div>
+    </td>
+    <td>
+      <div>6 Dec 1976</div>
+    </td>
+    <td>
+      <div>S. 5(2): 1 July 1977 
 S. 8(3) and (4): 7 Dec 1976 <i>(a) 
- </i>Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 3(2), 8(2) and (4) 
-S. 8(3) (rep. by 152, 1997, Sch. 2 \[item 138])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 138): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>35, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 1980</div>
-  </td>
-  <td>
-    <div>1, 1980</div>
-  </td>
-  <td>
-    <div>1 Mar 1980</div>
-  </td>
-  <td>
-    <div>1 Jan 1980</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>S. 115: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3, 4): 4 June 1982 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act 
-(No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part VI (ss. 15, 16): Royal Assent 
- <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td>
-    <div>S. 3: 18 July 1983 <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>27, 1984</div>
-  </td>
-  <td>
-    <div>15 May 1984</div>
-  </td>
-  <td>
-    <div>12 June 1984</div>
-  </td>
-  <td>
-    <div>Ss. 2, 12(2) and 13(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(h)</i></div>
-  </td>
-  <td>
-    <div>Ss. 2(32) and 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Reform Act 1984</div>
-  </td>
-  <td>
-    <div>63, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i> 1984, No. S245) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 151(9)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(j)</i></div>
-  </td>
-  <td>
-    <div>Ss. 2(32) and 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
-  </td>
-  <td>
-    <div>72, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 23 July 1984 <i>(k)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
-  </td>
-  <td>
-    <div>193, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(l)</i></div>
-  </td>
-  <td>
-    <div>Ss. 5 and 16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Arrangements Act 1987</div>
-  </td>
-  <td>
-    <div>92, 1987</div>
-  </td>
-  <td>
-    <div>18 Sept 1987</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3–8): 24 July 1987 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>120, 1987</div>
-  </td>
-  <td>
-    <div>16 Dec 1987</div>
-  </td>
-  <td>
-    <div>S. 74: 1 Mar 1989 ( <i>see Gazette</i>1989, No. S54) <i>(m)</i></div>
-  </td>
-  <td>
-    <div>S. 75(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
-  </td>
-  <td>
-    <div>141, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(n)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>120, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3–5): Royal Assent <i>(o)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>108, 1989</div>
-  </td>
-  <td>
-    <div>30 June 1989</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3, 4): Royal Assent <i>(p)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>110, 1990</div>
-  </td>
-  <td>
-    <div>18 Dec 1990</div>
-  </td>
-  <td>
-    <div>S. 16: 1 Jan 1991 ( <i>see Gazette</i>1990, No. S335) <i>(q)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>115, 1990</div>
-  </td>
-  <td>
-    <div>21 Dec 1990</div>
-  </td>
-  <td>
-    <div>S. 49: Royal Assent <i>(r)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>136, 1991</div>
-  </td>
-  <td>
-    <div>12 Sept 1991</div>
-  </td>
-  <td>
-    <div>Schedule: 10 Oct 1991 <i>(s)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 1992</div>
-  </td>
-  <td>
-    <div>104, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>S. 24: 1 July 1992 <i>(t)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>84, 1994</div>
-  </td>
-  <td>
-    <div>23 June 1992</div>
-  </td>
-  <td>
-    <div>Ss. 3–5: Royal Assent <i>(u)</i></div>
-  </td>
-  <td>
-    <div>S. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Evidence (Transitional Provisions and Consequential Amendments) Act 1995</div>
-  </td>
-  <td>
-    <div>3, 1995</div>
-  </td>
-  <td>
-    <div>23 Feb 1995</div>
-  </td>
-  <td>
-    <div>S. 14: Royal Assent <i>(v)</i> 
-Ss. 15 and 27: 18 Apr 1995 <i>(v)</i></div>
-  </td>
-  <td>
-    <div>S. 14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 136, 137): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(w)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
-  </td>
-  <td>
-    <div>54, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 18 (item 40): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(x)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 1998</div>
-  </td>
-  <td>
-    <div>125, 1998</div>
-  </td>
-  <td>
-    <div>21 Dec 1998</div>
-  </td>
-  <td>
-    <div>21 Dec 1998</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 2, 5, 7) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 33–40): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(y)</i></div>
-  </td>
-  <td>
-    <div>S. 13 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 12 (items 1, 2, 26, 27): 24 Nov 2000 <i>(z)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>161, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(za)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>194, 1999</div>
-  </td>
-  <td>
-    <div>23 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1, 2): 23 Dec 1999 <i>(zb)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 9, 10): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zc)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence Services (Consequential Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>153, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001 
-( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1 
-(item 1): <i>(zd)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment (Court Procedures) Act 2003</div>
-  </td>
-  <td>
-    <div>46, 2003</div>
-  </td>
-  <td>
-    <div>26 June 2003</div>
-  </td>
-  <td>
-    <div>7 July 2003</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Legislative Instruments Act 2003</div>
-  </td>
-  <td>
-    <div>139, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: <i>(ze)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>140, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 3–7): <i>(zf)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 1, 70, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment (Legislative Instruments) Act 2005</div>
-  </td>
-  <td>
-    <div>133, 2005</div>
-  </td>
-  <td>
-    <div>15 Nov 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): <i>(zg)</i> 
+
+ </i>Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 3(2), 8(2) and (4) 
+S. 8(3) (rep. by 152, 1997, Sch. 2 \[item 138]) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 138): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>35, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment Act 1980</div>
+    </td>
+    <td>
+      <div>1, 1980</div>
+    </td>
+    <td>
+      <div>1 Mar 1980</div>
+    </td>
+    <td>
+      <div>1 Jan 1980</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td>
+      <div>S. 115: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3, 4): 4 June 1982 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act 
+(No. 2) 1982 
+</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part VI (ss. 15, 16): Royal Assent 
+ <i>(f)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    </td>
+    <td>
+      <div>39, 1983</div>
+    </td>
+    <td>
+      <div>20 June 1983</div>
+    </td>
+    <td>
+      <div>S. 3: 18 July 1983 <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>27, 1984</div>
+    </td>
+    <td>
+      <div>15 May 1984</div>
+    </td>
+    <td>
+      <div>12 June 1984</div>
+    </td>
+    <td>
+      <div>Ss. 2, 12(2) and 13(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>S. 3: <i>(h)</i></div>
+    </td>
+    <td>
+      <div>Ss. 2(32) and 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Reform Act 1984</div>
+    </td>
+    <td>
+      <div>63, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i> 1984, No. S245) <i>(i)</i></div>
+    </td>
+    <td>
+      <div>S. 151(9)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>S. 3: <i>(j)</i></div>
+    </td>
+    <td>
+      <div>Ss. 2(32) and 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
+    </td>
+    <td>
+      <div>72, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 23 July 1984 <i>(k)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
+    </td>
+    <td>
+      <div>193, 1985</div>
+    </td>
+    <td>
+      <div>16 Dec 1985</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(l)</i></div>
+    </td>
+    <td>
+      <div>Ss. 5 and 16</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Arrangements Act 1987</div>
+    </td>
+    <td>
+      <div>92, 1987</div>
+    </td>
+    <td>
+      <div>18 Sept 1987</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3–8): 24 July 1987 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>120, 1987</div>
+    </td>
+    <td>
+      <div>16 Dec 1987</div>
+    </td>
+    <td>
+      <div>S. 74: 1 Mar 1989 ( <i>see Gazette</i>1989, No. S54) <i>(m)</i></div>
+    </td>
+    <td>
+      <div>S. 75(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+    </td>
+    <td>
+      <div>141, 1987</div>
+    </td>
+    <td>
+      <div>18 Dec 1987</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(n)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>120, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3–5): Royal Assent <i>(o)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>108, 1989</div>
+    </td>
+    <td>
+      <div>30 June 1989</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3, 4): Royal Assent <i>(p)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>110, 1990</div>
+    </td>
+    <td>
+      <div>18 Dec 1990</div>
+    </td>
+    <td>
+      <div>S. 16: 1 Jan 1991 ( <i>see Gazette</i>1990, No. S335) <i>(q)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>115, 1990</div>
+    </td>
+    <td>
+      <div>21 Dec 1990</div>
+    </td>
+    <td>
+      <div>S. 49: Royal Assent <i>(r)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>136, 1991</div>
+    </td>
+    <td>
+      <div>12 Sept 1991</div>
+    </td>
+    <td>
+      <div>Schedule: 10 Oct 1991 <i>(s)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Territories Law Reform Act 1992</div>
+    </td>
+    <td>
+      <div>104, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>S. 24: 1 July 1992 <i>(t)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>84, 1994</div>
+    </td>
+    <td>
+      <div>23 June 1992</div>
+    </td>
+    <td>
+      <div>Ss. 3–5: Royal Assent <i>(u)</i></div>
+    </td>
+    <td>
+      <div>S. 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Evidence (Transitional Provisions and Consequential Amendments) Act 1995</div>
+    </td>
+    <td>
+      <div>3, 1995</div>
+    </td>
+    <td>
+      <div>23 Feb 1995</div>
+    </td>
+    <td>
+      <div>S. 14: Royal Assent <i>(v)</i> 
+Ss. 15 and 27: 18 Apr 1995 <i>(v)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 136, 137): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(w)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
+    </td>
+    <td>
+      <div>54, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>Schedule 18 (item 40): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(x)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment Act 1998</div>
+    </td>
+    <td>
+      <div>125, 1998</div>
+    </td>
+    <td>
+      <div>21 Dec 1998</div>
+    </td>
+    <td>
+      <div>21 Dec 1998</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 2, 5, 7) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 33–40): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(y)</i></div>
+    </td>
+    <td>
+      <div>S. 13 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 12 (items 1, 2, 26, 27): 24 Nov 2000 <i>(z)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>161, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(za)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>194, 1999</div>
+    </td>
+    <td>
+      <div>23 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1, 2): 23 Dec 1999 <i>(zb)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 9, 10): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zc)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Intelligence Services (Consequential Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>153, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001 
+( <i>see</i>s. 2) 
+</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1 
+(item 1): <i>(zd)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment (Court Procedures) Act 2003</div>
+    </td>
+    <td>
+      <div>46, 2003</div>
+    </td>
+    <td>
+      <div>26 June 2003</div>
+    </td>
+    <td>
+      <div>7 July 2003</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Legislative Instruments Act 2003</div>
+    </td>
+    <td>
+      <div>139, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: <i>(ze)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>140, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 3–7): <i>(zf)</i></div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 1, 70, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment (Legislative Instruments) Act 2005</div>
+    </td>
+    <td>
+      <div>133, 2005</div>
+    </td>
+    <td>
+      <div>15 Nov 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 1): <i>(zg)</i> 
 Schedule 1 (items 2–5): <i>(zg)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 2): <i>(zh)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Subsection 8(5) of the _Acts Interpretation Amendment Act 1976_ provides as follows:
 
@@ -2779,24 +2790,26 @@ _(zd)_ Subsection 2(1) (item 2) of the _Statute Law Revision Act 2002_ provide
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after section 49 of the
-        <i>Law and Justice Legislation Amendment Act 1990</i>commenced
-    </div>
-  </td>
-  <td>
-    <div>
-      21 December 1990
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedule 1, item 1
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after section 49 of the
+          <i>Law and Justice Legislation Amendment Act 1990</i>commenced
+      </div>
+    </td>
+    <td>
+      <div>
+        21 December 1990
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(ze)_   Subsection 2(1) (item 3) of the _Legislative Instruments Act 2003_ provides as follows:
 
@@ -2834,29 +2847,31 @@ _(ze)_   Subsection 2(1) (item 3) of the _Legislative Instruments Act 2003
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2.
-      Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Legislative Instruments Transitional Provisions and Consequential Amendments)
-          Act 2003</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2.
+        Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of Schedule 1 to the
+          <i>Legislative Instruments Transitional Provisions and Consequential Amendments)
+            Act 2003</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(zf)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+_(zf)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -2892,47 +2907,49 @@ _(zf)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instrument
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2.
-      Sections 4 and 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2.
+        Sections 4 and 5
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of sections 3 to 62 of the
+          <i>Legislative Instruments Act 2003</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of sections 3 to 62 of the
+          <i>Legislative Instruments Act 2003</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(zg)_   Subsection 2(1) (items 2 and 3) of the _Acts Interpretation Amendment (Legislative Instruments) Act 2005_ provides as follows:
+_(zg)_   Subsection 2(1) (items 2 and 3) of the _Acts Interpretation Amendment (Legislative Instruments) Act 2005_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2968,99 +2985,48 @@ _(zg)_   Subsection 2(1) (items 2 and 3) of the _Acts Interpretation Amend
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, items 2 to 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Legislative Instruments (Transitional Provisions and Consequential Amendments)
-          Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
-
-_(zh)_   Subsection 2(1) (items 3) of the _Statute Law Revision Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
+<tbody>
   <tr>
     <td>
       <div>
-        <b>
-          Provision(s)
-        </b>
+        2\. Schedule 1, item 1
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Commencement
-        </b>
+        Immediately after the commencement of section 3 of the
+          <i>Legislative Instruments Act 2003</i>.
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Date/Details
-        </b>
+        1 January 2005
       </div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, item 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 7 of Schedule 1 to the
-        <i>Legislative Instruments (Transitional Provisions and Consequential Amendments)
-          Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 1, items 2 to 5
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of Schedule 1 to the
+          <i>Legislative Instruments (Transitional Provisions and Consequential Amendments)
+            Act 2003</i>.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 ## Table of Amendments
 
@@ -3085,1465 +3051,1469 @@ _(zh)_   Subsection 2(1) (items 3) of the _Statute Law Revision Act 2008_ 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 1</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>rs. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 37, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1932</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 27, 1984; No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 115, 1990; No. 63, 2002; No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1937; No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8B</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8C</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1916</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 37, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 12</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14B</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 23, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AA</div>
-  </td>
-  <td>
-    <div>ad. No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AB</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AC</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AD</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AE</div>
-  </td>
-  <td>
-    <div>ad. No. 133, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15B</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15C</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 69, 1957</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 69, 195</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16C</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 194, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 23, 1930; No. 10, 1937; No. 80, 1950; No. 69, 1957; Nos. 79 and 216, 1973; No. 144, 1976; No. 80, 1982; No. 92, 1987; No. 104, 1992; No. 152, 1997; No. 140, 2003; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17AA</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part I</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 1</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>rs. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 37, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1932</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 27, 1984; No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 115, 1990; No. 63, 2002; No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1937; No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 7</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8B</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8C</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rs. No. 37, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10A</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1916</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 37, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 12</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 1, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14B</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15A</div>
+    </td>
+    <td>
+      <div>ad. No. 23, 1930</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AA</div>
+    </td>
+    <td>
+      <div>ad. No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AB</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AC</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AD</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AE</div>
+    </td>
+    <td>
+      <div>ad. No. 133, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15B</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15C</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part V</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 16</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16A</div>
+    </td>
+    <td>
+      <div>ad. No. 69, 1957</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16B</div>
+    </td>
+    <td>
+      <div>ad. No. 69, 195</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16C</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 194, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 23, 1930; No. 10, 1937; No. 80, 1950; No. 69, 1957; Nos. 79 and 216, 1973; No. 144, 1976; No. 80, 1982; No. 92, 1987; No. 104, 1992; No. 152, 1997; No. 140, 2003; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17AA</div>
+    </td>
+    <td>
+      <div>ad. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
 
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18B</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18C</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 8, 1918; No. 125, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 23, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 1932</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1941</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 92, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1941</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 63, 1984 (as am. by No. 165, 1984); No. 92, 1987; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19BA</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 35, 1978; No. 63, 1984 (as am. by No. 165, 1984); No. 92, 1987; No. 125, 1998; No. 146, 1999; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19BAA</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19BB</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19BC</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 35, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 92, 1987; No. 146, 1999 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1976; No. 39, 1983; No. 27, 1984; No. 193, 1985; No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1941; No. 93, 1966; No. 144, 1976; No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 108, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25A</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25B</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 1991; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25C</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25D</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25E</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 26</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1937; No. 80, 1950; No. 216, 1973; No. 27, 1984; No. 194, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 193, 1985; No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1937; No. 216, 1973; No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 23, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VII</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 33</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1941; No. 27, 1984; No. 141, 1987; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 1988; No. 115, 1990; No. 146, 1999 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33B</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34AA</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-    <div>am. No. 84, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34AB</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 72, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34B</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 1963</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 52, 1964; No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34C</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 161, 1999; No. 153, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 79, 1948</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 38</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 19, 1963</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40A</div>
-  </td>
-  <td>
-    <div>am. No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part X</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964 
-rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part X</div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42, 43</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 44, 45</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 45A, 45B</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 46</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 1984 (as am. by No. 165, 1984); No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 133, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1988; No. 115, 1990; No. 3, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46AA</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 133, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46B</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2003; No. 133, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XII</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 48</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 1950; No. 19, 1963; No. 144, 1976; No. 26, 1982 (as am. by No. 80, 1982); No. 141, 1987; No. 99, 1988; No. 115,1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48B</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 19, 1963; No. 144, 1976; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49A</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 2001</div>
-  </td>
-</tr></table>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18B</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18C</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 8, 1918; No. 125, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A</div>
+    </td>
+    <td>
+      <div>ad. No. 23, 1930</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 24, 1932</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1941</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 92, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 125, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1941</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 63, 1984 (as am. by No. 165, 1984); No. 92, 1987; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19BA</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 35, 1978; No. 63, 1984 (as am. by No. 165, 1984); No. 92, 1987; No. 125, 1998; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19BAA</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19BB</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19BC</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 35, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19C</div>
+    </td>
+    <td>
+      <div>ad. No. 78, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 92, 1987; No. 146, 1999 </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1976; No. 39, 1983; No. 27, 1984; No. 193, 1985; No. 115, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>rs. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1941; No. 93, 1966; No. 144, 1976; No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rs. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 108, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25A</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25B</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 136, 1991; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25C</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25D</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25E</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VI</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 26</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1937; No. 80, 1950; No. 216, 1973; No. 27, 1984; No. 194, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 193, 1985; No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1937; No. 216, 1973; No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 23, 1930</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VII</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 33</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1941; No. 27, 1984; No. 141, 1987; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33A</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 1988; No. 115, 1990; No. 146, 1999 </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33B</div>
+    </td>
+    <td>
+      <div>ad. No. 136, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34AA</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+      <div>am. No. 84, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34AB</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34A</div>
+    </td>
+    <td>
+      <div>ad. No. 78, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 72, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34B</div>
+    </td>
+    <td>
+      <div>ad. No. 19, 1963</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 52, 1964; No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34C</div>
+    </td>
+    <td>
+      <div>ad. No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 161, 1999; No. 153, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VIII</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 35</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 79, 1948</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IX</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IX</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 38</div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 19, 1963</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40A</div>
+    </td>
+    <td>
+      <div>am. No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40A</div>
+    </td>
+    <td>
+      <div>ad. No. 110, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part X</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964 
+rep. No. 120, 1987 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part X</div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 42, 43</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 144, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 44, 45</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 45A, 45B</div>
+    </td>
+    <td>
+      <div>ad. No. 27, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part XI</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 46</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 27, 1984 (as am. by No. 165, 1984); No. 115, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 133, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46A</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1988; No. 115, 1990; No. 3, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46AA</div>
+    </td>
+    <td>
+      <div>ad. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 133, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46B</div>
+    </td>
+    <td>
+      <div>ad. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 139, 2003; No. 133, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part XII</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 48</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 80, 1950; No. 19, 1963; No. 144, 1976; No. 26, 1982 (as am. by No. 80, 1982); No. 141, 1987; No. 99, 1988; No. 115,1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48A</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48B</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 19, 1963; No. 144, 1976; No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49A</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ### Note 2
 
@@ -4553,7 +4523,7 @@ Section 17—Subsection 70(1) of the _Archives Act 1983_ provides as follows:
 
 Section 5 of the _Australian Federal Police Act 1979_ provides as follows:
 
-             (1)  In a law of the Commonwealth or of the Australian   Capital Territory:
+             (1)  In a law of the Commonwealth or of the Australian Capital Territory:
 
                      (a)  a reference to a Commonwealth Police Officer shall be read as a reference to a member of the Australian Federal Police;
 
@@ -4589,7 +4559,7 @@ Section 18 of the _Law Officers Act 1964_ provides as follows:
 
                    A reference in a law of the Commonwealth other than this Act, or in a law of a Territory, as in force at the commencement of this Act, to the Solicitor-General of the Commonwealth or to the Solicitor-General shall be read as a reference to the Secretary to the Attorney-General’s Department.
 
-Section 67 of the _Northern   Territory__(Self-Government) Act 1978_ provides as follows:
+Section 67 of the _Northern Territory__(Self-Government) Act 1978_ provides as follows:
 
                    In any law of the Commonwealth or of the Territory or any instrument having effect under such a law (including a law or instrument that came into operation before the commencing date), except so far as the context otherwise requires:
 
@@ -4606,6 +4576,7 @@ Section 67 of the _Northern   Territory__(Self-Government) Act 1978_ provides 
 Section 27—Section 7 of the _Statutory Declarations Act 1959_ provides as follows:
 
                    Where, in a law of the Commonwealth or of a Territory (whether passed or made before or after the commencement of this Act), a reference is made to a statutory declaration, the reference includes a reference to a statutory declaration made under this Act, unless the contrary intention appears in that law.
+
 
 ## Table A
 
@@ -4637,7 +4608,9 @@ Any act that a Minister purported to do before the commencement of this Act on b
 
 (2)        If an order that the Governor-General purported to make before the commencement of item 6 under paragraph 19BA(1)(c) of the _Acts Interpretation Act 1901_ purported to be in force immediately before that commencement, the purported order has the effect after that commencement that it would have if the amendment made by that item had been in force when the purported order was made.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Public Employment (Consequential and Transitional) Amendment Act 1999 (No. 146, 1999)_
 
@@ -4661,7 +4634,9 @@ _Public Employment (Consequential and Transitional) Amendment Act 1999 (No. 14
 
              (2)  If a reference in a statutory instrument to “the Department” is read as a reference to a particular Department because of subsection 19A(3) of the _Acts Interpretation Act 1901_, then that reference to “the Department” is a reference to a particular Department for the purposes of this section.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
 
@@ -4669,7 +4644,9 @@ _Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
 
                    The Governor-General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Acts Interpretation Amendment (Court Procedures) Act 2003 (No. 46, 2003)_
 
@@ -4679,7 +4656,9 @@ _Acts Interpretation Amendment (Court Procedures) Act 2003 (No. 46, 2003)_
 
 The amendment made by this Schedule applies in relation to proceedings instituted on or after 7 July 2003.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)_
 
@@ -4731,7 +4710,9 @@ the enabling legislation has effect, on and after the commencing day, as if:
 
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -4754,5 +4735,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+
 
  
