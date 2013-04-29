@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00895/Html/75641810-e0d3-456d-adcf-5dcba1bc58a4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00535/Html/b59c835d-8ab4-4ab3-afe5-52c62a9c5870_files/image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 8 November 2011
+This compilation was prepared on 14 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
@@ -409,114 +409,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [68](#68).          Billeting and quartering
 
 [70](#70).          Tolls
-
-**Part VIA—Security of defence premises** 
-
-    **Division 1—Preliminary**
-
-[71](#71).          Simplified outline
-
-[71A](#71A).       Definitions
-
-    **Division 2—Defence security officials**
-
-[71B](#71B).       Contracted defence security guards
-
-[71C](#71C).       Security authorised members of the Defence Force
-
-[71D](#71D).       Defence security screening employees
-
-[71E](#71E).        Identity cards
-
-[71F](#71F).        Delegations relating to training and qualification requirements
-
-[71G](#71G).       Delegations relating to identity cards
-
-    **Division 3—Powers exercisable with consent at defence access control points and on defence premises** 
-
-        **Subdivision A—General provisions**
-
-[71H](#71H).       Consensual identification and limited search—person about to pass a defence access control point
-
-[71J](#71J).        Consensual search—vehicle, vessel or aircraft about to pass a defence access control point
-
-[71K](#71K).       Consensual identification—person on defence premises
-
-        **Subdivision B—Special provisions for declared explosive ordnance depots**
-
-[71L](#71L).        Declared explosive ordnance depots
-
-[71M](#71M).      Consensual search—person on a declared explosive ordnance depot
-
-[71N](#71N).       Consensual search—vehicle, vessel or aircraft on a declared explosive ordnance depot
-
-[71P](#71P).        Powers additional to other powers
-
-        **Subdivision C—Offences**
-
-[71Q](#71Q).       Offences—search powers exercised without consent
-
-    **Division 4—Powers exercisable without consent at defence access control points and on defence premises**
-
-[71R](#71R).       Non‑consensual identification and search—person about to pass a defence access control point
-
-[71S](#71S).        Non‑consensual search—vehicle, vessel or aircraft about to pass a defence access control point
-
-[71T](#71T).        Non‑consensual identification and search—person on defence premises
-
-[71U](#71U).       Non‑consensual search—vehicle, vessel or aircraft on defence premises
-
-[71V](#71V).       Offence—refusing to provide evidence etc  required under this Division
-
-[71W](#71W).      Offence—hindering or obstructing a search under this Division
-
-[71X](#71X).       Security authorised members of the Defence Force may respond to attack
-
-[71Y](#71Y).       Power to stop and detain
-
-[71Z](#71Z).        Powers are in addition to powers under this Part
-
-    **Division 5—Seizure**
-
-[72](#72).          Power to seize things on defence premises
-
-    **Division 6—Matters relating to exercise of powers under Part**
-
-[72A](#72A).       Certain powers to be exercised only by security authorised members of the Defence Force unless not reasonably practicable
-
-[72B](#72B).       Defence security officials must produce identity cards, etc 
-
-[72C](#72C).       Persons to be informed of offence
-
-[72D](#72D).       Conduct of searches and limited searches
-
-[72E](#72E).        Use of equipment to examine things etc 
-
-[72F](#72F).        Power to move certain unattended things on defence premises
-
-[72G](#72G).       Use of reasonable and necessary force, etc  by defence security officials
-
-[72H](#72H).       Use of force involving death or grievous bodily harm by security authorised members of the Defence Force in responding to an attack
-
-[72J](#72J).        Limit on power to restrain and detain
-
-[72K](#72K).       Limit on power to arrest
-
-[72L](#72L).        Powers not to be used to stop protests etc 
-
-[72M](#72M).      Security authorised members of the Defence Force may use dogs
-
-[72N](#72N).       Persons assisting defence security officials
-
-    **Division 7—Other matters**
-
-[72P](#72P).        Unauthorised entry etc  on defence premises or defence accommodation
-
-[72Q](#72Q).       Certain information may be collected and provided to law enforcement agencies etc 
-
-[72R](#72R).       Compensation for acquisition of property
-
-[72S](#72S).        Other powers not affected
 
 **Part VII—Offences**
 
@@ -2848,7 +2740,7 @@ Further restrictions on use of force
 
                      (c)  doing that thing is necessary and reasonable to give effect to the order under which, or under the authority of which, the member is acting.
 
-             (3)  In addition to the relevant limitation in paragraph (2)(a), subparagraph (2A)(a)(i) or (ii) or paragraph (2B)(a), (b) or (c), if a person is attempting to escape being detained by fleeing, a member of the Defence Force must not do anything that is likely to cause the death of, or grievous bodily harm to, the person unless the person has, if practicable, been called on to surrender and the member believes on reasonable grounds that the person cannot be apprehended in any other manner.
+             (3)  In addition, if a person is attempting to escape being detained by fleeing, a member of the Defence Force must not do anything that is likely to cause the death of, or grievous bodily harm to, the person unless the person has, if practicable, been called on to surrender and the member believes on reasonable grounds that the person cannot be apprehended in any other manner.
 
 ##### <a id="51U"></a>51U  Persons to be informed of offence if detained
 
@@ -4114,920 +4006,6 @@ Note:          The defendant bears an evidential burden in rel
 
                      (d)  Any animal drawing any such vehicle.
 
-## Part VIA—Security of defence premises
-
-### Division 1—Preliminary
-
-##### <a id="71"></a>71  Simplified outline
-
-             (1)  The following is a simplified outline of this Part.
-
-             (2)  This Division sets out the meaning of expressions used in this Part.
-
-             (3)  Division 2 provides for matters relating to defence security officials.
-
-             (4)  Division 3 sets out the powers exercisable by defence security officials with consent at defence access control points and on defence premises. Subdivision B of Division 3 contains special provisions relating to declared explosive ordnance depots.
-
-             (5)  Division 4 sets out the powers exercisable by special defence security officials without consent at defence access control points and on defence premises, and provides for related matters, including offences relating to non‑compliance with requirements, hindering and obstructing.
-
-             (6)  Division 5 relates to seizure of things.
-
-             (7)  Division 6 sets out provisions that apply generally in relation to the exercise of powers under this Part, including the following:
-
-                     (a)  the production of identity cards;
-
-                     (b)  informing persons of offences;
-
-                     (c)  the use of force;
-
-                     (d)  limits on the exercise of certain powers.
-
-             (8)  Division 7 provides for other matters, including:
-
-                     (a)  an offence of unauthorised entry on, or being on, defence premises or defence accommodation; and
-
-                     (b)  the provision of information obtained by certain surveillance devices to law enforcement and other agencies.
-
-##### <a id="71A"></a>71A  Definitions
-
-             (1)  In this Part:
-
-                    <a name="contract-defenc-secur-guard"></a>**_contracted defence security guard_** has the meaning given by section 71B.
-
-                    <a name="crimin-offenc"></a>**_criminal offence_** means an offence against a law of the Commonwealth, a State or a Territory.
-
-                    <a name="declar-explos-ordnanc-depot"></a>**_declared explosive ordnance depot_** has the meaning given by section 71L.
-
-                    <a name="defenc-access-control-point"></a>**_defence access control point_** means a point of entry to, or exit from, defence premises or a part of defence premises, where entry or exit is controlled or limited by any means, including but not limited to control by means of:
-
-                     (a)  guarding by defence security officials; or
-
-                     (b)  physical barriers such as security screens, locked doors or gates.
-
-                    <a name="defenc-accommod"></a>**_defence accommodation_** means any building or other structure, or any place, that:
-
-                     (a)  is in Australia; and
-
-                     (b)  is used for, or in connection with, the accommodation of a group of members of any part of the Defence Force.
-
-                    <a name="defenc-premis"></a>**_defence premises_** means any of the following that is in Australia, and is owned or occupied by the Commonwealth for use by the Defence Force or the Department:
-
-                     (a)  an area of land or any other place (whether or not it is enclosed or built on);
-
-                     (b)  a building or other structure;
-
-                     (c)  a vehicle, vessel or aircraft, including any fixed or moveable ramp, stairs or other means of access to, or exit from, the vehicle, vessel or aircraft;
-
-                     (d)  a prohibited area, within the meaning of the _Defence (Special Undertakings) Act 1952_.
-
-                    <a name="defenc-secur-offici"></a>**_defence security official_** means:
-
-                     (a)  a contracted defence security guard (see section 71B); or
-
-                     (b)  a security authorised member of the Defence Force (see section 71C); or
-
-                     (c)  a defence security screening employee (see section 71D).
-
-                    <a name="defenc-secur-screen-employe"></a>**_defence security screening employee_** has the meaning given by section 71D.
-
-                    <a name="intellig-secur-agenc"></a>**_intelligence or security agency_** means any of the following:
-
-                     (a)  the Australian Secret Intelligence Service;
-
-                     (b)  the Australian Security Intelligence Organisation;
-
-                     (c)  the Office of National Assessments.
-
-                    <a name="limit-search"></a>**_limited search_** of a person means:
-
-                     (a)  a search of things in the possession of a person that may include:
-
-                              (i)  requesting the person to remove his or her overcoat, coat or jacket and any gloves, shoes and hat; and
-
-                             (ii)  an examination of any of those items that the person consents to remove; or
-
-                     (b)  a search of a person conducted by quickly running the hands over the person’s outer garments and an examination of anything worn or carried by the person that is conveniently and voluntarily removed by the person;
-
-but does not include requesting the person to remove all of his or her garments.
-
-                    <a name="optic-surveil-devic"></a>**_optical surveillance device_** means any device capable of being used to record visually or observe an activity, but does not include spectacles, contact lenses or a similar device used by a person with impaired sight to overcome that impairment.
-
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
-
-                    <a name="person-assisting"></a>**_person assisting_** a defence security official has the meaning given by section 72N.
-
-                    <a name="protect-servic-offic"></a>**_protective service officer_** has the same meaning as in the _Australian Federal Police Act 1979_.
-
-                    <a name="search"></a>**_search_**:
-
-                     (a)  of a person—has the same meaning as in section 51; and
-
-                     (b)  of a vehicle, vessel or aircraft—includes a search of a thing in the vehicle, vessel or aircraft.
-
-                    <a name="secur-authorised-member-defenc-forc"></a>**_security authorised member of the Defence Force_** has the meaning given by section 71C.
-
-                    <a name="special-defenc-secur-offici"></a>**_special defence security official_** means:
-
-                     (a)  a security authorised member of the Defence Force (see section 71C); or
-
-                     (b)  a defence security screening employee (see section 71D).
-
-                    <a name="vessel"></a>**_vessel_** has the same meaning as in section 51SD.
-
-             (2)  To avoid doubt, a thing includes a substance, a vehicle, vessel or aircraft and a thing in electronic or magnetic form.
-
-### Division 2—Defence security officials
-
-##### <a id="71B"></a>71B  Contracted defence security guards
-
-             (1)  A person is a **_contracted defence security guard_** if:
-
-                     (a)  the person is one of the following:
-
-                              (i)  a party to a contract with the Commonwealth or a Commonwealth entity;
-
-                             (ii)  a subcontractor for a contract with the Commonwealth or a Commonwealth entity;
-
-                            (iii)  an employee of a person referred to in subparagraph (i) or (ii); and
-
-                     (b)  the contract is for, or includes, the provision of security services at one or more defence premises; and
-
-                     (c)  either of the following applies:
-
-                              (i)  the person is authorised under subsection (2);
-
-                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
-
-                     (d)  the person satisfies the training and qualification requirements determined under subsection (4).
-
-             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(c).
-
-             (3)  An authorisation made under subsection (2) is not a legislative instrument.
-
-             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for contracted defence security guards.
-
-             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4), different training and qualification requirements may apply to different kinds of contracted defence security guards.
-
-##### <a id="71C"></a>71C  Security authorised members of the Defence Force
-
-             (1)  A person is a **_security authorised member of the Defence Force_** if the person:
-
-                     (a)  is a member of the Defence Force; and
-
-                     (b)  either of the following applies:
-
-                              (i)  the person is authorised under subsection (2);
-
-                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
-
-                     (c)  the person satisfies the training and qualification requirements determined under subsection (4).
-
-             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(b).
-
-             (3)  An authorisation made under subsection (2) is not a legislative instrument.
-
-             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for security authorised members of the Defence Force.
-
-             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4):
-
-                     (a)  different training and qualification requirements may apply to different kinds of security authorised members of the Defence Force; and
-
-                     (b)  the Minister must determine training and qualification requirements that apply to security authorised members of the Defence Force in relation to the use of dogs as referred to in section 72M.
-
-##### <a id="71D"></a>71D  Defence security screening employees
-
-             (1)  A person is a **_defence security screening employee_** if the person:
-
-                     (a)  is an APS employee in the Department; and
-
-                     (b)  either of the following applies:
-
-                              (i)  the person is authorised under subsection (2);
-
-                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
-
-                     (c)  the person satisfies the training and qualification requirements determined under subsection (4).
-
-             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(b).
-
-             (3)  An authorisation made under subsection (2) is not a legislative instrument.
-
-             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for defence security screening employees.
-
-             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4), different training and qualification requirements may apply to different kinds of defence security screening employees.
-
-##### <a id="71E"></a>71E  Identity cards
-
-             (1)  The Secretary must issue an identity card to each defence security official.
-
-Form of identity card
-
-             (2)  The identity card must:
-
-                     (a)  be in the form approved in writing by the Secretary; and
-
-                     (b)  contain a recent photograph of the defence security official.
-
-Offence
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person has been issued with an identity card; and
-
-                     (b)  the person ceases to be a defence security official; and
-
-                     (c)  the person does not, within 7 days of so ceasing, return the person’s identity card to the Secretary.
-
-                    Penalty:  5 penalty units.
-
-             (4)  Subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Defence—card lost or destroyed
-
-             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
-
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
-
-Defence security official must carry card
-
-             (6)  A defence security official must carry the identity card at all times when performing functions or exercising powers as a defence security official.
-
-##### <a id="71F"></a>71F  Delegations relating to training and qualification requirements
-
-Contracted defence security guards and defence security screening employees
-
-             (1)  The Minister may, by writing, delegate the Minister’s power under subsection 71B(4) or 71D(4) (training and qualification requirements for contracted defence security guards and defence security screening employees) to:
-
-                     (a)  the Secretary; or
-
-                     (b)  an APS employee who holds or performs the duties of an SES Band 3 position, or an equivalent or higher position, in the Department.
-
-Security authorised members of the Defence Force
-
-             (2)  The Minister may, by writing, delegate the Minister’s power under subsection 71C(4) (training and qualification requirements for security authorised members of the Defence Force) to:
-
-                     (a)  an officer of the Army who holds the rank of Brigadier or a higher rank; or
-
-                     (b)  an officer of the Navy who holds the rank of Commodore or a higher rank; or
-
-                     (c)  an officer of the Air Force who holds the rank of Air Commodore or a higher rank.
-
-##### <a id="71G"></a>71G  Delegations relating to identity cards
-
-Issue of identity cards
-
-             (1)  The Secretary may, by writing, delegate the Secretary’s power under subsection 71E(1) (issue of identity cards) to:
-
-                     (a)  an APS employee who holds or performs the duties of an Executive Level 2 position, or an equivalent or higher position, in the Department; or
-
-                     (b)  an officer of the Army who holds the rank of Colonel or a higher rank; or
-
-                     (c)  an officer of the Navy who holds the rank of Captain or a higher rank; or
-
-                     (d)  an officer of the Air Force who holds the rank of Group Captain or a higher rank.
-
-Return of identity cards
-
-             (2)  The Secretary may, by writing, delegate the Secretary’s function under paragraph 71E(3)(c) (return of identity cards) to:
-
-                     (a)  an APS employee who holds or performs the duties of an APS 5 position, or an equivalent or higher position, in the Department; or
-
-                     (b)  an officer of the Army who holds the rank of Captain or a higher rank; or
-
-                     (c)  an officer of the Navy who holds the rank of Lieutenant or a higher rank; or
-
-                     (d)  an officer of the Air Force who holds the rank of Flight Lieutenant or a higher rank.
-
-### Division 3—Powers exercisable with consent at defence access control points and on defence premises
-
-#### Subdivision A—General provisions
-
-##### <a id="71H"></a>71H  Consensual identification and limited search—person about to pass a defence access control point
-
-Power to request identification etc.
-
-             (1)  A defence security official may request a person who is about to pass a defence access control point to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to pass the defence access control point.
-
-Power to request limited search
-
-             (2)  A defence security official may request a person who is about to pass a defence access control point to undergo a limited search.
-
-Power to refuse access etc.
-
-             (3)  A defence security official may refuse to allow a person to pass a defence access control point if:
-
-                     (a)  the person refuses a request by a defence security official under subsection (1) or (2); or
-
-                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
-
-Additional powers if person is on defence premises
-
-             (4)  If a defence security official refuses to allow a person to pass a defence access control point under subsection (3), a defence security official may, if the person is on defence premises, restrain and detain the person.
-
-##### <a id="71J"></a>71J  Consensual search—vehicle, vessel or aircraft about to pass a defence access control point
-
-             (1)  A defence security official may request a person apparently in control of a vehicle, vessel or aircraft that is about to pass a defence access control point to permit a search of the vehicle, vessel or aircraft.
-
-             (2)  A defence security official may refuse to allow a vehicle, vessel or aircraft to pass a defence access control point if:
-
-                     (a)  a person refuses to permit a search of a vehicle, vessel or aircraft requested by a defence security official under subsection (1); or
-
-                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-Additional powers if vehicle, vessel or aircraft is on defence premises
-
-             (3)  If a defence security official refuses to allow a vehicle, vessel or aircraft to pass a defence access control point under subsection (2), a defence security official may, if the vehicle, vessel or aircraft is on defence premises, restrain or detain any person in the vehicle, vessel or aircraft.
-
-##### <a id="71K"></a>71K  Consensual identification—person on defence premises
-
-             (1)  This section applies if:
-
-                     (a)  a person is on defence premises; and
-
-                     (b)  a defence security official reasonably believes that the person is not authorised to be on the premises.
-
-             (2)  The defence security official may request the person to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to be on the defence premises.
-
-             (3)  A defence security official may restrain and detain a person if:
-
-                     (a)  the person refuses a request by a defence security official under subsection (2); or
-
-                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to be on the defence premises; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
-
-#### Subdivision B—Special provisions for declared explosive ordnance depots
-
-##### <a id="71L"></a>71L  Declared explosive ordnance depots
-
-             (1)  A specified area of land or any other place (whether or not it is enclosed or built on), or a building or other structure, is a **_declared explosive ordnance depot_** if:
-
-                     (a)  the area of land or the place, building or structure is specified in an instrument in force under subsection (2); and
-
-                     (b)  signs stating that it is a condition of entry to the area of land or the place, building or structure that a person consent to undergo searches as provided by this Subdivision are prominently displayed:
-
-                              (i)  at the entrance to the area of land or the place, building or structure; and
-
-                             (ii)  at regular intervals around the perimeter of the area of land or the place, building or structure.
-
-             (2)  The Minister may, by legislative instrument, specify an area of land or any other place (whether or not it is enclosed or built on), or a building or other structure if:
-
-                     (a)  the area of land or the place, building or structure is defence premises used wholly or partly for the storage of explosive ordnance; and
-
-                     (b)  members of the Defence Force are not normally present at the area of land or the place, building or structure.
-
-             (3)  An instrument under subsection (2) may specify more than one area of land, place, building or structure.
-
-             (4)  Each area of land, place, building or structure specified in an instrument under subsection (2) must be specified by reference to one of the following:
-
-                     (a)  its geographical location;
-
-                     (b)  a unique code or number.
-
-             (5)  If an area of land or a place, building or structure is specified by a unique code or number as mentioned in paragraph (4)(b), the code or number must correspond with a code or number that is held in the records of the Department as a code or number applicable to that area of land or that place, building or structure.
-
-##### <a id="71M"></a>71M  Consensual search—person on a declared explosive ordnance depot
-
-             (1)  A contracted defence security guard may request a person who is on a declared explosive ordnance depot to undergo a limited search.
-
-             (2)  A contracted defence security guard may restrain and detain a person if:
-
-                     (a)  the person refuses a request by a contracted defence security guard under subsection (1); or
-
-                     (b)  as a result of the person complying with such a request, a contracted defence security guard reasonably believes that the person:
-
-                              (i)  is not authorised to be on the declared explosive ordnance depot; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence explosive ordnance depot; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence explosive ordnance depot.
-
-##### <a id="71N"></a>71N  Consensual search—vehicle, vessel or aircraft on a declared explosive ordnance depot
-
-             (1)  A contracted defence security guard may request a person apparently in control of a vehicle, vessel or aircraft that is on a declared explosive ordnance depot to permit a search of the vehicle, vessel or aircraft.
-
-             (2)  A contracted defence security guard may restrain and detain any person in the vehicle, vessel or aircraft if:
-
-                     (a)  a person refuses to permit a search of the vehicle, vessel or aircraft requested under subsection (1); or
-
-                     (b)  as a result of a person complying with such a request, a contracted defence security guard reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
-
-                              (i)  is not authorised to be on the declared explosive ordnance depot; or
-
-                             (ii)  constitutes a threat to the safety of persons on the declared explosive ordnance depot; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the declared explosive ordnance depot.
-
-##### <a id="71P"></a>71P  Powers additional to other powers
-
-                   To avoid doubt, this Subdivision does not limit any other power of a contracted defence security guard under this Part.
-
-#### Subdivision C—Offences
-
-##### <a id="71Q"></a>71Q  Offences—search powers exercised without consent
-
-             (1)  A defence security official commits an offence if:
-
-                     (a)  the defence security official conducts a limited search of a person purportedly under this Division; and
-
-                     (b)  the person did not consent to the search.
-
-                    Penalty:  50 penalty units.
-
-             (2)  A defence security official commits an offence if:
-
-                     (a)  the defence security official conducts a search of a vehicle, vessel or aircraft purportedly under this Division; and
-
-                     (b)  the person apparently in control of the vehicle, vessel or aircraft did not consent to the search.
-
-                    Penalty:  30 penalty units.
-
-### Division 4—Powers exercisable without consent at defence access control points and on defence premises
-
-##### <a id="71R"></a>71R  Non‑consensual identification and search—person about to pass a defence access control point
-
-Power to require identification etc.
-
-             (1)  A special defence security official may require a person who is about to pass a defence access control point to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to pass the defence access control point.
-
-Power to search at defence access control point on defence premises
-
-             (2)  A special defence security official may search a person who is about to pass a defence access control point on defence premises.
-
-Note:          If the defence access control point is not on defence premises, a defence security official may request the person to undergo a search under Division 3.
-
-Power to refuse access etc.
-
-             (3)  A special defence security official may refuse to allow a person to pass a defence access control point if:
-
-                     (a)  the person refuses to comply with a requirement imposed by a special defence security official under subsection (1); or
-
-                     (b)  the person hinders or obstructs a search of the person by a special defence security official under subsection (2); or
-
-                     (c)  as a result of the person complying with such a requirement or undergoing such a search, a special defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
-
-Additional powers if person is on defence premises
-
-             (4)  If a special defence security official refuses to allow a person to pass a defence access control point under subsection (3), a special defence security official may, if the person is on defence premises:
-
-                     (a)  restrain and detain the person; or
-
-                     (b)  request the person to leave the defence premises and, if he or she refuses, remove the person from the defence premises.
-
-##### <a id="71S"></a>71S  Non‑consensual search—vehicle, vessel or aircraft about to pass a defence access control point
-
-Power to search vehicles, vessels or aircraft
-
-             (1)  A special defence security official may search a vehicle, vessel or aircraft that is about to pass a defence access control point on defence premises.
-
-Note:          If the defence access control point is not on defence premises, a defence security official may request a search under Division 3.
-
-             (2)  A special defence security official may refuse to allow a vehicle, vessel or aircraft to pass a defence access control point if:
-
-                     (a)  a person hinders or obstructs a search of the vehicle, vessel or aircraft conducted by a special defence security official under subsection (1); or
-
-                     (b)  as a result of a search conducted under subsection (1), the official reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-Additional powers if vehicle, vessel or aircraft is on defence premises
-
-             (3)  If a special defence security official refuses to allow a vehicle, vessel or aircraft to pass a defence access control point under subsection (2), a special defence security official may, if the vehicle, vessel or aircraft is on defence premises, restrain and detain any person in the vehicle, vessel or aircraft.
-
-Note:          For other powers in relation to persons in a vehicle, vessel or aircraft see section 71R.
-
-##### <a id="71T"></a>71T  Non‑consensual identification and search—person on defence premises
-
-When section applies
-
-             (1)  This section applies if:
-
-                     (a)  a person is on defence premises; and
-
-                     (b)  a special defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to be on the premises; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the premises.
-
-Power to require identification etc.
-
-             (2)  A special defence security official may require the person to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to be on the defence premises.
-
-Power to search
-
-             (3)  A special defence security official may search the person.
-
-Power to restrain and detain, remove etc.
-
-             (4)  A special defence security official may:
-
-                     (a)  restrain and detain the person; or
-
-                     (b)  request the person to leave the defence premises and if he or she refuses, remove the person from the defence premises.
-
-##### <a id="71U"></a>71U  Non‑consensual search—vehicle, vessel or aircraft on defence premises
-
-When section applies
-
-             (1)  This section applies if:
-
-                     (a)  a vehicle, vessel or aircraft is on defence premises; and
-
-                     (b)  a special defence security official reasonably believes that the vehicle, vessel or aircraft:
-
-                              (i)  is not authorised to be on the premises; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-Power to search
-
-             (2)  A special defence security official may search the vehicle, vessel or aircraft.
-
-Power to restrain and detain
-
-             (3)  A special defence security official may restrain and detain any person in the vehicle, vessel or aircraft.
-
-##### <a id="71V"></a>71V  Offence—refusing to provide evidence etc. required under this Division
-
-                   A person commits an offence if:
-
-                     (a)  a special defence security official requires the person to provide evidence under this Division; and
-
-                     (b)  section 72B (which deals with the production of identity cards, etc.) was complied with in relation to the requirement; and
-
-                     (c)  the person refuses or fails to provide the evidence, or gives a name or address that is false in a material particular; and
-
-                     (d)  the person is on defence premises.
-
-                    Penalty:  20 penalty units.
-
-Note:          An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
-
-##### <a id="71W"></a>71W  Offence—hindering or obstructing a search under this Division
-
-                   A person commits an offence if the person hinders or obstructs a search under this Division, and:
-
-                     (a)  if paragraphs 72B(3)(a) and (b) apply in relation to the search—at the time the person hindered or obstructed the search, the special defence security official who conducted the search had done the things referred to in subparagraphs 72B(3)(c)(i) and (ii); or
-
-                     (b)  otherwise—subsection 72B(2) was complied with in relation to the search.
-
-                    Penalty:  50 penalty units.
-
-Note 1:       An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
-
-Note 2:       Subsections 72B(2) and (3) deal with the production of identity cards before conducting a search.
-
-##### <a id="71X"></a>71X  Security authorised members of the Defence Force may respond to attack
-
-             (1)  This section applies if:
-
-                     (a)  an attack on defence premises is occurring or is imminent; and
-
-                     (b)  the attack is likely to, or is intended to, result in the death of or serious injury to one or more persons on the defence premises.
-
-             (2)  Subject to sections 72G and 72H, a security authorised member of the Defence Force may take action on defence premises to protect persons from the attack.
-
-Note:          Section 72G provides that defence security officials may use reasonable and necessary force in exercising powers under this Part. Section 72H provides that security authorised members of the Defence Force may, in limited circumstances involving an attack, do a thing that is likely to cause the death of, or grievous bodily harm to, another person. Other defence security officials are not so authorised (see subsection 72G(2)).
-
-##### <a id="71Y"></a>71Y  Power to stop and detain
-
-                   A special defence security official may stop and detain a person, or a vehicle, vessel or aircraft, for the purposes of exercising a power under this Division:
-
-                     (a)  to require the person to provide evidence of particular matters; or
-
-                     (b)  to search the person or the vehicle, vessel or aircraft.
-
-##### <a id="71Z"></a>71Z  Powers are in addition to powers under this Part
-
-                   To avoid doubt, a power conferred upon a special defence security official under this Division may be exercised in addition to a power conferred on the special defence security official under another Division of this Part.
-
-### Division 5—Seizure
-
-##### <a id="72"></a>72  Power to seize things on defence premises
-
-             (1)  A special defence security official may seize a thing (including a vehicle, vessel or aircraft or an unattended thing) on defence premises, or a thing found as a result of a search (including a limited search) under this Part, if the official believes on reasonable grounds that the thing may:
-
-                     (a)  constitute a threat to the safety of a person on the defence premises; or
-
-                     (b)  relate to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-             (2)  If a special defence security official seizes a thing under subsection (1):
-
-                     (a)  a security authorised member of the Defence Force may take such action as is reasonable and necessary to make the thing safe or prevent the thing being used; and
-
-                     (b)  if the official seized the thing from a person—a special defence security official must, if it is practicable to do so, give the person a receipt for the thing; and
-
-                     (c)  if the official believes on reasonable grounds that the thing has been used or otherwise involved in the commission of a criminal offence—a special defence security official must give the thing to a member or special member of the Australian Federal Police or a member of the police force of a State or Territory at the earliest practicable time; and
-
-                     (d)  if paragraph (c) does not apply:
-
-                              (i)  if the official seized the thing from a person and it is practicable to do so—a special defence security official must return the thing to the person within 7 days; or
-
-                             (ii)  otherwise—a special defence security official must give it to a member or special member of the Australian Federal Police or a member of the police force of a State or Territory at the earliest practicable time.
-
-### Division 6—Matters relating to exercise of powers under Part
-
-##### <a id="72A"></a>72A  Certain powers to be exercised only by security authorised members of the Defence Force unless not reasonably practicable
-
-                   A power conferred upon a special defence security official under Division 4 (powers exercisable without consent) or Division 5 (seizure powers) may be exercised by a defence security screening employee only if it is not reasonably practicable in all the circumstances for the power to be exercised by a security authorised member of the Defence Force.
-
-##### <a id="72B"></a>72B  Defence security officials must produce identity cards, etc.
-
-Production of identity card before making request or requirement
-
-             (1)  A defence security official is not entitled to make a request or requirement of a person under this Part unless, before making the request or requirement:
-
-                     (a)  the defence security official produces his or her identity card for inspection by the person; and
-
-                     (b)  the person is informed of the effect of refusal by the person to comply with the request or requirement.
-
-Production of identity card before search
-
-             (2)  Subject to subsection (3), a defence security official is not entitled to conduct a search (including a limited search) of a person, or a vehicle, vessel or aircraft apparently under the control of a person, under this Part unless, before conducting the search:
-
-                     (a)  the defence security official produces his or her identity card for inspection by the person; and
-
-                     (b)  if the search is under Division 4 (powers exercisable without consent)—the person is informed of the effect of hindering or obstructing the search.
-
-             (3)  A defence security official is not required to comply with subsection (2) before conducting a search of a person, or of a vehicle, vessel or aircraft apparently under the control of a person, if:
-
-                     (a)  the search is conducted under subsection 71R(2), 71S(1), 71T(3) or 71U(2); and
-
-                     (b)  a defence security official reasonably believes that the person, or the vehicle, vessel or aircraft, constitutes a threat to the safety of persons on the defence premises concerned; and
-
-                     (c)  as soon as practicable while conducting, or after conducting, the search:
-
-                              (i)  the defence security official who is conducting, or has conducted, the search produces his or her identity card for inspection by the person; and
-
-                             (ii)  the person is informed of the effect of hindering or obstructing the search.
-
-Production of identity card before removal of a person
-
-             (4)  A defence security official is not entitled to exercise powers under this Part to remove a person from defence premises unless, before exercising the power, the official produces his or her identity card for inspection by the person.
-
-Production of identity card as soon as practicable after detaining a person
-
-             (5)  A defence security official is not entitled to restrain and detain, or stop and detain, a person under this Part unless, as soon as practicable after restraining and detaining, or stopping and detaining, the person, the official produces his or her identity card for inspection by the person.
-
-##### <a id="72C"></a>72C  Persons to be informed of offence
-
-             (1)  A defence security official who, in accordance with this Part, exercises a power on the basis that the official reasonably believes that a person has committed, or may commit, a criminal offence must inform the person of the offence.
-
-             (2)  It is sufficient if the person is informed of the substance of the offence, and it is not necessary that this be done in language of a precise or technical nature.
-
-             (3)  Subsection (1) does not apply if:
-
-                     (a)  the person should, in the circumstances, know the substance of the offence; or
-
-                     (b)  the person’s actions make it impracticable for the defence security official to inform the person of the offence.
-
-##### <a id="72D"></a>72D  Conduct of searches and limited searches
-
-                   A search or a limited search of a person under this Part must, if practicable, be conducted by a person of the same sex as the person being searched.
-
-##### <a id="72E"></a>72E  Use of equipment to examine things etc.
-
-                   For the purposes of conducting a search or a limited search of a person, or a search of a thing, under this Part or determining whether a thing may be seized under this Part, a defence security official may do one or more of the following:
-
-                     (a)  use any equipment, including electronic equipment, reasonably necessary for the search or the limited search, or the examination or processing of the thing;
-
-                     (b)  in the case of a thing that is on defence premises, and that a defence security official suspects on reasonable grounds:
-
-                              (i)  constitutes a threat to the safety of persons on the defence premises; or
-
-                             (ii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises;
-
-                            move the thing to another part of the defence premises for immediate examination or processing;
-
-                     (c)  use any equipment, including electronic equipment, to gain access to data stored on the thing;
-
-                     (d)  obtain expert assistance to do a thing referred to in paragraph (a), (b) or (c).
-
-##### <a id="72F"></a>72F  Power to move certain unattended things on defence premises
-
-                   If a thing is left unattended on defence premises as a result of, or in connection with, the exercise of a power under this Part, a defence security official may move the thing to another place if the defence security official reasonably believes that it is necessary or desirable to do so.
-
-##### <a id="72G"></a>72G  Use of reasonable and necessary force, etc. by defence security officials
-
-Use of force—general rule
-
-             (1)  A defence security official may, subject to this section and section 72H, use such force against persons and things as is reasonable and necessary in the circumstances in exercising powers under  this Part _._
-
-Limit on use of force—defence security guards and defence security screening employees
-
-             (2)  Despite subsection (1), a contracted defence security guard or a defence security screening employee must not, in using force against a person in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person.
-
-Note 1:       For security authorised members of the Defence Force, see section 72H.
-
-Note 2:       This provision does not affect a person’s rights under other laws: see section 72S.
-
-Indignity
-
-             (3)  A defence security official must not, in exercising powers under this Part, subject the person to greater indignity than is reasonable and necessary in the circumstances.
-
-##### <a id="72H"></a>72H  Use of force involving death or grievous bodily harm by security authorised members of the Defence Force in responding to an attack
-
-             (1)  Despite subsection 72G(1), a security authorised member of the Defence Force must not, in using force against a person in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person, unless the member believes on reasonable grounds that:
-
-                     (a)  doing that thing is necessary to prevent the death of, or serious injury to, another person (including the official); and
-
-                     (b)  the threat of death or injury is caused by an attack on defence premises, or on people on defence premises, that is occurring or is imminent.
-
-             (2)  In addition to the limitations in paragraphs (1)(a) and (b), if a person is attempting to escape being detained by fleeing, a security authorised member of the Defence Force must not, in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person unless:
-
-                     (a)  the person has, if practicable, been called on to surrender; and
-
-                     (b)  the official believes on reasonable grounds that the person cannot be apprehended in any other manner.
-
-##### <a id="72J"></a>72J  Limit on power to restrain and detain
-
-                   A provision of this Part that confers a power on a defence security official to restrain and detain a person is limited to a power to restrain and detain the person for the purpose of placing the person, at the earliest practicable time, in the custody of:
-
-                     (a)  a member or special member of the Australian Federal Police; or
-
-                     (b)  a member of the police force of a State or Territory; or
-
-                     (c)  a protective service officer.
-
-##### <a id="72K"></a>72K  Limit on power to arrest
-
-                   If a member of the Defence Force arrests a person under section 72P (which deals with trespass), he or she must, as soon as practicable after the arrest, bring the person, or cause the person to be brought, before:
-
-                     (a)  a member or special member of the Australian Federal Police; or
-
-                     (b)  a member of the police force of a State or Territory.
-
-Note 1:       The _Crimes Act 1914_ provides for arrest powers of police officers and how arrested persons are to be dealt with.
-
-Note 2:       The _Australian Federal Police Act 1979_ provides for arrest powers of protective service officers and how arrested persons are to be dealt with.
-
-##### <a id="72L"></a>72L  Powers not to be used to stop protests etc.
-
-                   In exercising powers under this Part, a defence security official must not stop or restrict any protest, dissent, assembly or industrial action, unless there is a reasonable likelihood of:
-
-                     (a)  death of, or serious injury to, persons; or
-
-                     (b)  the commission of a criminal offence.
-
-##### <a id="72M"></a>72M  Security authorised members of the Defence Force may use dogs
-
-                   A security authorised member of the Defence Force may, if the security authorised member considers it is reasonably necessary to do so, use a dog:
-
-                     (a)  to assist a defence security official to conduct a search (including a limited search) under this Part; or
-
-                     (b)  to assist a defence security official to restrain or detain, or remove, a person under this Part; or
-
-                     (c)  to assist a member of the Defence Force to arrest a person under section 72P (which deals with trespass); or
-
-                     (d)  to assist a defence security official to perform a function or exercise a power under this Part.
-
-##### <a id="72N"></a>72N  Persons assisting defence security officials
-
-             (1)  A defence security official may, in exercising powers under any of the following provisions, be assisted by other persons if that assistance is necessary and reasonable:
-
-                     (a)  subsection 71J(1) (search of a vehicle, etc. with consent);
-
-                     (b)  subsection 71N(1) (search of a vehicle, etc. on declared explosive ordnance depot);
-
-                     (c)  subsection 71S(1) (search of a vehicle, etc. without consent);
-
-                     (d)  subsection 71U(2) (search of a vehicle, etc. without consent);
-
-                     (e)  section 72E (use of equipment, etc.);
-
-                      (f)  section 72F (moving things, etc.).
-
-             (2)  A person giving such assistance is a **_person assisting_** the defence security official.
-
-             (3)  A person assisting the defence security official may exercise the powers of the defence security official, but only in accordance with a direction given to the person by the defence security official.
-
-             (4)  A power exercised by a person assisting the defence security official as mentioned in subsection (3) is taken for all purposes to have been exercised by a defence security official.
-
-             (5)  If a direction is given under subsection (3) in writing, the direction is not a legislative instrument.
-
-### Division 7—Other matters
-
-##### <a id="72P"></a>72P  Unauthorised entry etc. on defence premises or defence accommodation
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person enters or is on:
-
-                              (i)  defence premises; or
-
-                             (ii)  defence accommodation; and
-
-                     (b)  the person is not authorised to be on the premises or accommodation.
-
-                    Penalty:  50 penalty units.
-
-Note:          An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
-
-             (2)  A member of the Defence Force, a member or special member of the Australian Federal Police, a protective service officer or a member of the police force of a State or Territory may, without warrant, arrest any person if the member reasonably believes that the person has committed an offence against subsection (1).
-
-             (3)  Nothing in this section prevents the arrest of a person in accordance with any other law.
-
-##### <a id="72Q"></a>72Q  Certain information may be collected and provided to law enforcement agencies etc.
-
-             (1)  The Department, the Defence Force or a contracted security guard may, on defence premises, collect information, including personal information, by means of an optical surveillance device.
-
-             (2)  The Department or the Defence Force may disclose information collected under subsection (1) to one or more of the following persons or bodies, for the purposes of the performance of the functions of the person or body:
-
-                     (a)  an intelligence or security agency;
-
-                     (b)  the Australian Federal Police or the police force of a State or Territory;
-
-                     (c)  the Director of Public Prosecutions of the Commonwealth or a State or Territory.
-
-             (3)  A disclosure of personal information under subsection (2) is taken to be authorised by law for the purposes of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_.
-
-Note:          Paragraph 3 of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_ applies to further disclosures of the personal information.
-
-             (4)  This provision has effect despite any law of the Commonwealth or of a State or Territory.
-
-##### <a id="72R"></a>72R  Compensation for acquisition of property
-
-             (1)  If, apart from this section, the operation of this Part would result in the acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay reasonable compensation to the person.
-
-             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may apply to the Federal Court to determine a reasonable amount of compensation.
-
-             (3)  The jurisdiction of the Federal Court is exclusive of the jurisdiction of all other courts except that of the High Court.
-
-             (4)  In this section:
-
-                    <a name="just-term"></a><a name="acquisit-properti"></a>**_acquisition of property_** and **_just terms_** have the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-##### <a id="72S"></a>72S  Other powers not affected
-
-             (1)  This Part does not, by implication, limit the exercise of the powers, or the rights, of a defence security official, a member of the Defence Force or any other person:
-
-                     (a)  under this Act; or
-
-                     (b)  under any other law (including the common law); or
-
-                     (c)  otherwise in the performance of his or her duties as a defence security official, a member of the Defence Force or otherwise.
-
-             (2)  Without limiting subsection (1), this Part does not affect any right of an owner or occupier of premises to refuse to allow a person to enter, or remain on, the premises.
-
-             (3)  Without limiting subsection (1), this Part does not affect any right of a person to defend himself or herself or another person.
-
 ## Part VII—Offences
 
 ##### <a id="73A"></a>73A  Unlawfully giving or obtaining information as to defences
@@ -5162,7 +4140,17 @@ then:
 
           (2A)  The maximum penalty for an offence under subsection (2) is a fine of $100.
 
-             (4)  Any member of the Defence Force, member or special member of the Australian Federal Police or member of the Police Force of a State or Territory, may, without warrant, arrest any person who he has reasonable ground to believe has committed an offence against this section, and take him before a Court of summary jurisdiction to be dealt with according to law.
+             (3)  A person is guilty of an offence if the person trespasses on:
+
+                     (a)  a defence installation, or on any land reserved for or forming part of one (whether or not any erection, fort, fortification, or work of any kind is on the land); or
+
+                     (b)  a building or land reserved or set apart for or used in connection with the administration, accommodation, or training of any part of the Defence Force; or
+
+                     (c)  an aircraft.
+
+                    Penalty:  $40.
+
+             (4)  Any member of the Defence Force, member or special member of the Australian Federal Police or member of the Police Force of a State, may, without warrant, arrest any person who he has reasonable ground to believe has committed an offence against this section, and take him before a Court of summary jurisdiction to be dealt with according to law.
 
              (5)  In this section:
 
@@ -6448,7 +5436,7 @@ there are taken to be 10 offices of Tribunal members in addition to the Chair.
 
              (5)  This section applies to and in relation to a part of the Defence Force serving either within or beyond the territorial limits of Australia.
 
-##### <a id="116C"></a>116C  Forces serving together
+##### <a id="116C"></a>116C  Forces serving together
 
              (1)  Whenever a part of the Defence Force and a part of the forces of a country in relation to which this subsection applies are serving together, either within or beyond the territorial limits of Australia, and either alone or together with any other force, a member of the force of that country has the same powers of command over members of that part of the Defence Force as a member of the Defence Force holding the rank in that Force that corresponds with the rank that he holds in the force of the country to which he belongs.
 
@@ -6876,7 +5864,7 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
 ##### <a id="117AB"></a>117AB  Apportionment of salvage amongst crew members
 
-                   Where salvage payable in respect of salvage services rendered by a Naval ship is, in accordance with section 117AA, to be apportioned between the Commonwealth and the members of the crew of that ship, the amount of salvage apportioned to the members of the crew:
+                   Where salvage payable in respect of salvage services rendered by a Naval ship is, in accordance with section 117AA, to be apportioned between the Commonwealth and the members of the crew of that ship, the amount of salvage apportioned to the members of the crew:
 
                      (a)  shall be applied in meeting the costs of the Commonwealth in conducting the salvage claim on behalf of the members of the crew; and
 
@@ -9759,7 +8747,7 @@ Schedule 3: 2 Aug 2010</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 90, 91), Schedule 6 (item 33) and Schedule 7 (item 47): 19 Apr 2011</div>
+    <div>Schedule 5 (items 90, 91), Schedule 6 (item 33) and Schedule 7 (item 47): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -9776,7 +8764,7 @@ Schedule 3: 2 Aug 2010</div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3, 5): 12 Oct 2011</div>
+    <div>Schedule 1 (items 1–3, 5): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -9793,7 +8781,7 @@ Schedule 3: 2 Aug 2010</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 487–509) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
+    <div>Schedule 2 (items 487–509) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 5 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -13499,23 +12487,7 @@ Part IIIAAA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 51T</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2006; No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51U</div>
+    <div>Ss. 51T, 51U</div>
   </td>
   <td>
     <div>ad. No. 119, 2000</div>
@@ -14812,162 +13784,10 @@ Div. 4 of Part IIIAAA</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part VIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIA</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 71</div>
   </td>
   <td>
     <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71A</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 71B–71G</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71H</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 71J, 71K</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 71L–71N</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71P</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71Q</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 71R–71Z</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -14984,54 +13804,6 @@ Div. 4 of Part IIIAAA</div>
   </td>
   <td>
     <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72A–72H</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72J–72N</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72P–72S</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2011</div>
   </td>
 </tr>
 <tr>
@@ -15479,7 +14251,7 @@ Div. 4 of Part IIIAAA</div>
     <div>S. 82</div>
   </td>
   <td>
-    <div>am. No. 36, 1917; No. 74, 1939; No. 93, 1966; No. 216, 1973; No. 96, 1975; Nos. 132 and 155, 1979; No. 70, 1980; No. 141, 2001; No. 19, 2011</div>
+    <div>am. No. 36, 1917; No. 74, 1939; No. 93, 1966; No. 216, 1973; No. 96, 1975; Nos. 132 and 155, 1979; No. 70, 1980; No. 141, 2001</div>
   </td>
 </tr>
 <tr>
@@ -18773,6 +17545,946 @@ Section 63 and subsection 124(1)—Subsection 45(3) of the _Naval Defence Act 
 
 ### Note 4
 
+_Defence Legislation Amendment (Security of Defence Premises) Act 2011 (No. 19, 2011)_
+
+The following amendments commence on 12 October 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  After Part VI
+
+Insert:
+
+## Part VIA—Security of defence premises
+
+### Division 1—Preliminary
+
+##### <a id="71"></a>71  Simplified outline
+
+             (1)  The following is a simplified outline of this Part.
+
+             (2)  This Division sets out the meaning of expressions used in this Part.
+
+             (3)  Division 2 provides for matters relating to defence security officials.
+
+             (4)  Division 3 sets out the powers exercisable by defence security officials with consent at defence access control points and on defence premises. Subdivision B of Division 3 contains special provisions relating to declared explosive ordnance depots.
+
+             (5)  Division 4 sets out the powers exercisable by special defence security officials without consent at defence access control points and on defence premises, and provides for related matters, including offences relating to non‑compliance with requirements, hindering and obstructing.
+
+             (6)  Division 5 relates to seizure of things.
+
+             (7)  Division 6 sets out provisions that apply generally in relation to the exercise of powers under this Part, including the following:
+
+                     (a)  the production of identity cards;
+
+                     (b)  informing persons of offences;
+
+                     (c)  the use of force;
+
+                     (d)  limits on the exercise of certain powers.
+
+             (8)  Division 7 provides for other matters, including:
+
+                     (a)  an offence of unauthorised entry on, or being on, defence premises or defence accommodation; and
+
+                     (b)  the provision of information obtained by certain surveillance devices to law enforcement and other agencies.
+
+##### <a id="71A"></a>71A  Definitions
+
+             (1)  In this Part:
+
+                    <a name="contract-defenc-secur-guard"></a>**_contracted defence security guard_** has the meaning given by section 71B.
+
+                    <a name="crimin-offenc"></a>**_criminal offence_** means an offence against a law of the Commonwealth, a State or a Territory.
+
+                    <a name="declar-explos-ordnanc-depot"></a>**_declared explosive ordnance depot_** has the meaning given by section 71L.
+
+                    <a name="defenc-access-control-point"></a>**_defence access control point_** means a point of entry to, or exit from, defence premises or a part of defence premises, where entry or exit is controlled or limited by any means, including but not limited to control by means of:
+
+                     (a)  guarding by defence security officials; or
+
+                     (b)  physical barriers such as security screens, locked doors or gates.
+
+                    <a name="defenc-accommod"></a>**_defence accommodation_** means any building or other structure, or any place, that:
+
+                     (a)  is in Australia; and
+
+                     (b)  is used for, or in connection with, the accommodation of a group of members of any part of the Defence Force.
+
+                    <a name="defenc-premis"></a>**_defence premises_** means any of the following that is in Australia, and is owned or occupied by the Commonwealth for use by the Defence Force or the Department:
+
+                     (a)  an area of land or any other place (whether or not it is enclosed or built on);
+
+                     (b)  a building or other structure;
+
+                     (c)  a vehicle, vessel or aircraft, including any fixed or moveable ramp, stairs or other means of access to, or exit from, the vehicle, vessel or aircraft;
+
+                     (d)  a prohibited area, within the meaning of the _Defence (Special Undertakings) Act 1952_.
+
+                    <a name="defenc-secur-offici"></a>**_defence security official_** means:
+
+                     (a)  a contracted defence security guard (see section 71B); or
+
+                     (b)  a security authorised member of the Defence Force (see section 71C); or
+
+                     (c)  a defence security screening employee (see section 71D).
+
+                    <a name="defenc-secur-screen-employe"></a>**_defence security screening employee_** has the meaning given by section 71D.
+
+                    <a name="intellig-secur-agenc"></a>**_intelligence or security agency_** means any of the following:
+
+                     (a)  the Australian Secret Intelligence Service;
+
+                     (b)  the Australian Security Intelligence Organisation;
+
+                     (c)  the Office of National Assessments.
+
+                    <a name="limit-search"></a>**_limited search_** of a person means:
+
+                     (a)  a search of things in the possession of a person that may include:
+
+                              (i)  requesting the person to remove his or her overcoat, coat or jacket and any gloves, shoes and hat; and
+
+                             (ii)  an examination of any of those items that the person consents to remove; or
+
+                     (b)  a search of a person conducted by quickly running the hands over the person’s outer garments and an examination of anything worn or carried by the person that is conveniently and voluntarily removed by the person;
+
+but does not include requesting the person to remove all of his or her garments.
+
+                    <a name="optic-surveil-devic"></a>**_optical surveillance device_** means any device capable of being used to record visually or observe an activity, but does not include spectacles, contact lenses or a similar device used by a person with impaired sight to overcome that impairment.
+
+                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
+
+                    <a name="person-assisting"></a>**_person assisting_** a defence security official has the meaning given by section 72N.
+
+                    <a name="protect-servic-offic"></a>**_protective service officer_** has the same meaning as in the _Australian Federal Police Act 1979_.
+
+                    <a name="search"></a>**_search_**:
+
+                     (a)  of a person—has the same meaning as in section 51; and
+
+                     (b)  of a vehicle, vessel or aircraft—includes a search of a thing in the vehicle, vessel or aircraft.
+
+                    <a name="secur-authorised-member-defenc-forc"></a>**_security authorised member of the Defence Force_** has the meaning given by section 71C.
+
+                    <a name="special-defenc-secur-offici"></a>**_special defence security official_** means:
+
+                     (a)  a security authorised member of the Defence Force (see section 71C); or
+
+                     (b)  a defence security screening employee (see section 71D).
+
+                    <a name="vessel"></a>**_vessel_** has the same meaning as in section 51SD.
+
+             (2)  To avoid doubt, a thing includes a substance, a vehicle, vessel or aircraft and a thing in electronic or magnetic form.
+
+### Division 2—Defence security officials
+
+##### <a id="71B"></a>71B  Contracted defence security guards
+
+             (1)  A person is a **_contracted defence security guard_** if:
+
+                     (a)  the person is one of the following:
+
+                              (i)  a party to a contract with the Commonwealth or a Commonwealth entity;
+
+                             (ii)  a subcontractor for a contract with the Commonwealth or a Commonwealth entity;
+
+                            (iii)  an employee of a person referred to in subparagraph (i) or (ii); and
+
+                     (b)  the contract is for, or includes, the provision of security services at one or more defence premises; and
+
+                     (c)  either of the following applies:
+
+                              (i)  the person is authorised under subsection (2);
+
+                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
+
+                     (d)  the person satisfies the training and qualification requirements determined under subsection (4).
+
+             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(c).
+
+             (3)  An authorisation made under subsection (2) is not a legislative instrument.
+
+             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for contracted defence security guards.
+
+             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4), different training and qualification requirements may apply to different kinds of contracted defence security guards.
+
+##### <a id="71C"></a>71C  Security authorised members of the Defence Force
+
+             (1)  A person is a **_security authorised member of the Defence Force_** if the person:
+
+                     (a)  is a member of the Defence Force; and
+
+                     (b)  either of the following applies:
+
+                              (i)  the person is authorised under subsection (2);
+
+                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
+
+                     (c)  the person satisfies the training and qualification requirements determined under subsection (4).
+
+             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(b).
+
+             (3)  An authorisation made under subsection (2) is not a legislative instrument.
+
+             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for security authorised members of the Defence Force.
+
+             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4):
+
+                     (a)  different training and qualification requirements may apply to different kinds of security authorised members of the Defence Force; and
+
+                     (b)  the Minister must determine training and qualification requirements that apply to security authorised members of the Defence Force in relation to the use of dogs as referred to in section 72M.
+
+##### <a id="71D"></a>71D  Defence security screening employees
+
+             (1)  A person is a **_defence security screening employee_** if the person:
+
+                     (a)  is an APS employee in the Department; and
+
+                     (b)  either of the following applies:
+
+                              (i)  the person is authorised under subsection (2);
+
+                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
+
+                     (c)  the person satisfies the training and qualification requirements determined under subsection (4).
+
+             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(b).
+
+             (3)  An authorisation made under subsection (2) is not a legislative instrument.
+
+             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for defence security screening employees.
+
+             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4), different training and qualification requirements may apply to different kinds of defence security screening employees.
+
+##### <a id="71E"></a>71E  Identity cards
+
+             (1)  The Secretary must issue an identity card to each defence security official.
+
+Form of identity card
+
+             (2)  The identity card must:
+
+                     (a)  be in the form approved in writing by the Secretary; and
+
+                     (b)  contain a recent photograph of the defence security official.
+
+Offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person has been issued with an identity card; and
+
+                     (b)  the person ceases to be a defence security official; and
+
+                     (c)  the person does not, within 7 days of so ceasing, return the person’s identity card to the Secretary.
+
+                    Penalty:  5 penalty units.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Defence—card lost or destroyed
+
+             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
+
+Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
+
+Defence security official must carry card
+
+             (6)  A defence security official must carry the identity card at all times when performing functions or exercising powers as a defence security official.
+
+##### <a id="71F"></a>71F  Delegations relating to training and qualification requirements
+
+Contracted defence security guards and defence security screening employees
+
+             (1)  The Minister may, by writing, delegate the Minister’s power under subsection 71B(4) or 71D(4) (training and qualification requirements for contracted defence security guards and defence security screening employees) to:
+
+                     (a)  the Secretary; or
+
+                     (b)  an APS employee who holds or performs the duties of an SES Band 3 position, or an equivalent or higher position, in the Department.
+
+Security authorised members of the Defence Force
+
+             (2)  The Minister may, by writing, delegate the Minister’s power under subsection 71C(4) (training and qualification requirements for security authorised members of the Defence Force) to:
+
+                     (a)  an officer of the Army who holds the rank of Brigadier or a higher rank; or
+
+                     (b)  an officer of the Navy who holds the rank of Commodore or a higher rank; or
+
+                     (c)  an officer of the Air Force who holds the rank of Air Commodore or a higher rank.
+
+##### <a id="71G"></a>71G  Delegations relating to identity cards
+
+Issue of identity cards
+
+             (1)  The Secretary may, by writing, delegate the Secretary’s power under subsection 71E(1) (issue of identity cards) to:
+
+                     (a)  an APS employee who holds or performs the duties of an Executive Level 2 position, or an equivalent or higher position, in the Department; or
+
+                     (b)  an officer of the Army who holds the rank of Colonel or a higher rank; or
+
+                     (c)  an officer of the Navy who holds the rank of Captain or a higher rank; or
+
+                     (d)  an officer of the Air Force who holds the rank of Group Captain or a higher rank.
+
+Return of identity cards
+
+             (2)  The Secretary may, by writing, delegate the Secretary’s function under paragraph 71E(3)(c) (return of identity cards) to:
+
+                     (a)  an APS employee who holds or performs the duties of an APS 5 position, or an equivalent or higher position, in the Department; or
+
+                     (b)  an officer of the Army who holds the rank of Captain or a higher rank; or
+
+                     (c)  an officer of the Navy who holds the rank of Lieutenant or a higher rank; or
+
+                     (d)  an officer of the Air Force who holds the rank of Flight Lieutenant or a higher rank.
+
+### Division 3—Powers exercisable with consent at defence access control points and on defence premises
+
+#### Subdivision A—General provisions
+
+##### <a id="71H"></a>71H  Consensual identification and limited search—person about to pass a defence access control point
+
+Power to request identification etc.
+
+             (1)  A defence security official may request a person who is about to pass a defence access control point to provide evidence of the following:
+
+                     (a)  the person’s name;
+
+                     (b)  the person’s residential address;
+
+                     (c)  the person’s authority to pass the defence access control point.
+
+Power to request limited search
+
+             (2)  A defence security official may request a person who is about to pass a defence access control point to undergo a limited search.
+
+Power to refuse access etc.
+
+             (3)  A defence security official may refuse to allow a person to pass a defence access control point if:
+
+                     (a)  the person refuses a request by a defence security official under subsection (1) or (2); or
+
+                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the person:
+
+                              (i)  is not authorised to pass the defence access control point; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
+
+Additional powers if person is on defence premises
+
+             (4)  If a defence security official refuses to allow a person to pass a defence access control point under subsection (3), a defence security official may, if the person is on defence premises, restrain and detain the person.
+
+##### <a id="71J"></a>71J  Consensual search—vehicle, vessel or aircraft about to pass a defence access control point
+
+             (1)  A defence security official may request a person apparently in control of a vehicle, vessel or aircraft that is about to pass a defence access control point to permit a search of the vehicle, vessel or aircraft.
+
+             (2)  A defence security official may refuse to allow a vehicle, vessel or aircraft to pass a defence access control point if:
+
+                     (a)  a person refuses to permit a search of a vehicle, vessel or aircraft requested by a defence security official under subsection (1); or
+
+                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
+
+                              (i)  is not authorised to pass the defence access control point; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
+
+Additional powers if vehicle, vessel or aircraft is on defence premises
+
+             (3)  If a defence security official refuses to allow a vehicle, vessel or aircraft to pass a defence access control point under subsection (2), a defence security official may, if the vehicle, vessel or aircraft is on defence premises, restrain or detain any person in the vehicle, vessel or aircraft.
+
+##### <a id="71K"></a>71K  Consensual identification—person on defence premises
+
+             (1)  This section applies if:
+
+                     (a)  a person is on defence premises; and
+
+                     (b)  a defence security official reasonably believes that the person is not authorised to be on the premises.
+
+             (2)  The defence security official may request the person to provide evidence of the following:
+
+                     (a)  the person’s name;
+
+                     (b)  the person’s residential address;
+
+                     (c)  the person’s authority to be on the defence premises.
+
+             (3)  A defence security official may restrain and detain a person if:
+
+                     (a)  the person refuses a request by a defence security official under subsection (2); or
+
+                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the person:
+
+                              (i)  is not authorised to be on the defence premises; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
+
+#### Subdivision B—Special provisions for declared explosive ordnance depots
+
+##### <a id="71L"></a>71L  Declared explosive ordnance depots
+
+             (1)  A specified area of land or any other place (whether or not it is enclosed or built on), or a building or other structure, is a **_declared explosive ordnance depot_** if:
+
+                     (a)  the area of land or the place, building or structure is specified in an instrument in force under subsection (2); and
+
+                     (b)  signs stating that it is a condition of entry to the area of land or the place, building or structure that a person consent to undergo searches as provided by this Subdivision are prominently displayed:
+
+                              (i)  at the entrance to the area of land or the place, building or structure; and
+
+                             (ii)  at regular intervals around the perimeter of the area of land or the place, building or structure.
+
+             (2)  The Minister may, by legislative instrument, specify an area of land or any other place (whether or not it is enclosed or built on), or a building or other structure if:
+
+                     (a)  the area of land or the place, building or structure is defence premises used wholly or partly for the storage of explosive ordnance; and
+
+                     (b)  members of the Defence Force are not normally present at the area of land or the place, building or structure.
+
+             (3)  An instrument under subsection (2) may specify more than one area of land, place, building or structure.
+
+             (4)  Each area of land, place, building or structure specified in an instrument under subsection (2) must be specified by reference to one of the following:
+
+                     (a)  its geographical location;
+
+                     (b)  a unique code or number.
+
+             (5)  If an area of land or a place, building or structure is specified by a unique code or number as mentioned in paragraph (4)(b), the code or number must correspond with a code or number that is held in the records of the Department as a code or number applicable to that area of land or that place, building or structure.
+
+##### <a id="71M"></a>71M  Consensual search—person on a declared explosive ordnance depot
+
+             (1)  A contracted defence security guard may request a person who is on a declared explosive ordnance depot to undergo a limited search.
+
+             (2)  A contracted defence security guard may restrain and detain a person if:
+
+                     (a)  the person refuses a request by a contracted defence security guard under subsection (1); or
+
+                     (b)  as a result of the person complying with such a request, a contracted defence security guard reasonably believes that the person:
+
+                              (i)  is not authorised to be on the declared explosive ordnance depot; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence explosive ordnance depot; or
+
+                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence explosive ordnance depot.
+
+##### <a id="71N"></a>71N  Consensual search—vehicle, vessel or aircraft on a declared explosive ordnance depot
+
+             (1)  A contracted defence security guard may request a person apparently in control of a vehicle, vessel or aircraft that is on a declared explosive ordnance depot to permit a search of the vehicle, vessel or aircraft.
+
+             (2)  A contracted defence security guard may restrain and detain any person in the vehicle, vessel or aircraft if:
+
+                     (a)  a person refuses to permit a search of the vehicle, vessel or aircraft requested under subsection (1); or
+
+                     (b)  as a result of a person complying with such a request, a contracted defence security guard reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
+
+                              (i)  is not authorised to be on the declared explosive ordnance depot; or
+
+                             (ii)  constitutes a threat to the safety of persons on the declared explosive ordnance depot; or
+
+                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the declared explosive ordnance depot.
+
+##### <a id="71P"></a>71P  Powers additional to other powers
+
+                   To avoid doubt, this Subdivision does not limit any other power of a contracted defence security guard under this Part.
+
+#### Subdivision C—Offences
+
+##### <a id="71Q"></a>71Q  Offences—search powers exercised without consent
+
+             (1)  A defence security official commits an offence if:
+
+                     (a)  the defence security official conducts a limited search of a person purportedly under this Division; and
+
+                     (b)  the person did not consent to the search.
+
+                    Penalty:  50 penalty units.
+
+             (2)  A defence security official commits an offence if:
+
+                     (a)  the defence security official conducts a search of a vehicle, vessel or aircraft purportedly under this Division; and
+
+                     (b)  the person apparently in control of the vehicle, vessel or aircraft did not consent to the search.
+
+                    Penalty:  30 penalty units.
+
+### Division 4—Powers exercisable without consent at defence access control points and on defence premises
+
+##### <a id="71R"></a>71R  Non‑consensual identification and search—person about to pass a defence access control point
+
+Power to require identification etc.
+
+             (1)  A special defence security official may require a person who is about to pass a defence access control point to provide evidence of the following:
+
+                     (a)  the person’s name;
+
+                     (b)  the person’s residential address;
+
+                     (c)  the person’s authority to pass the defence access control point.
+
+Power to search at defence access control point on defence premises
+
+             (2)  A special defence security official may search a person who is about to pass a defence access control point on defence premises.
+
+Note:          If the defence access control point is not on defence premises, a defence security official may request the person to undergo a search under Division 3.
+
+Power to refuse access etc.
+
+             (3)  A special defence security official may refuse to allow a person to pass a defence access control point if:
+
+                     (a)  the person refuses to comply with a requirement imposed by a special defence security official under subsection (1); or
+
+                     (b)  the person hinders or obstructs a search of the person by a special defence security official under subsection (2); or
+
+                     (c)  as a result of the person complying with such a requirement or undergoing such a search, a special defence security official reasonably believes that the person:
+
+                              (i)  is not authorised to pass the defence access control point; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
+
+Additional powers if person is on defence premises
+
+             (4)  If a special defence security official refuses to allow a person to pass a defence access control point under subsection (3), a special defence security official may, if the person is on defence premises:
+
+                     (a)  restrain and detain the person; or
+
+                     (b)  request the person to leave the defence premises and, if he or she refuses, remove the person from the defence premises.
+
+##### <a id="71S"></a>71S  Non‑consensual search—vehicle, vessel or aircraft about to pass a defence access control point
+
+Power to search vehicles, vessels or aircraft
+
+             (1)  A special defence security official may search a vehicle, vessel or aircraft that is about to pass a defence access control point on defence premises.
+
+Note:          If the defence access control point is not on defence premises, a defence security official may request a search under Division 3.
+
+             (2)  A special defence security official may refuse to allow a vehicle, vessel or aircraft to pass a defence access control point if:
+
+                     (a)  a person hinders or obstructs a search of the vehicle, vessel or aircraft conducted by a special defence security official under subsection (1); or
+
+                     (b)  as a result of a search conducted under subsection (1), the official reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
+
+                              (i)  is not authorised to pass the defence access control point; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
+
+Additional powers if vehicle, vessel or aircraft is on defence premises
+
+             (3)  If a special defence security official refuses to allow a vehicle, vessel or aircraft to pass a defence access control point under subsection (2), a special defence security official may, if the vehicle, vessel or aircraft is on defence premises, restrain and detain any person in the vehicle, vessel or aircraft.
+
+Note:          For other powers in relation to persons in a vehicle, vessel or aircraft see section 71R.
+
+##### <a id="71T"></a>71T  Non‑consensual identification and search—person on defence premises
+
+When section applies
+
+             (1)  This section applies if:
+
+                     (a)  a person is on defence premises; and
+
+                     (b)  a special defence security official reasonably believes that the person:
+
+                              (i)  is not authorised to be on the premises; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the premises.
+
+Power to require identification etc.
+
+             (2)  A special defence security official may require the person to provide evidence of the following:
+
+                     (a)  the person’s name;
+
+                     (b)  the person’s residential address;
+
+                     (c)  the person’s authority to be on the defence premises.
+
+Power to search
+
+             (3)  A special defence security official may search the person.
+
+Power to restrain and detain, remove etc.
+
+             (4)  A special defence security official may:
+
+                     (a)  restrain and detain the person; or
+
+                     (b)  request the person to leave the defence premises and if he or she refuses, remove the person from the defence premises.
+
+##### <a id="71U"></a>71U  Non‑consensual search—vehicle, vessel or aircraft on defence premises
+
+When section applies
+
+             (1)  This section applies if:
+
+                     (a)  a vehicle, vessel or aircraft is on defence premises; and
+
+                     (b)  a special defence security official reasonably believes that the vehicle, vessel or aircraft:
+
+                              (i)  is not authorised to be on the premises; or
+
+                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
+
+                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
+
+Power to search
+
+             (2)  A special defence security official may search the vehicle, vessel or aircraft.
+
+Power to restrain and detain
+
+             (3)  A special defence security official may restrain and detain any person in the vehicle, vessel or aircraft.
+
+##### <a id="71V"></a>71V  Offence—refusing to provide evidence etc. required under this Division
+
+                   A person commits an offence if:
+
+                     (a)  a special defence security official requires the person to provide evidence under this Division; and
+
+                     (b)  section 72B (which deals with the production of identity cards, etc.) was complied with in relation to the requirement; and
+
+                     (c)  the person refuses or fails to provide the evidence, or gives a name or address that is false in a material particular; and
+
+                     (d)  the person is on defence premises.
+
+                    Penalty:  20 penalty units.
+
+Note:          An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
+
+##### <a id="71W"></a>71W  Offence—hindering or obstructing a search under this Division
+
+                   A person commits an offence if the person hinders or obstructs a search under this Division, and:
+
+                     (a)  if paragraphs 72B(3)(a) and (b) apply in relation to the search—at the time the person hindered or obstructed the search, the special defence security official who conducted the search had done the things referred to in subparagraphs 72B(3)(c)(i) and (ii); or
+
+                     (b)  otherwise—subsection 72B(2) was complied with in relation to the search.
+
+                    Penalty:  50 penalty units.
+
+Note 1:       An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
+
+Note 2:       Subsections 72B(2) and (3) deal with the production of identity cards before conducting a search.
+
+##### <a id="71X"></a>71X  Security authorised members of the Defence Force may respond to attack
+
+             (1)  This section applies if:
+
+                     (a)  an attack on defence premises is occurring or is imminent; and
+
+                     (b)  the attack is likely to, or is intended to, result in the death of or serious injury to one or more persons on the defence premises.
+
+             (2)  Subject to sections 72G and 72H, a security authorised member of the Defence Force may take action on defence premises to protect persons from the attack.
+
+Note:          Section 72G provides that defence security officials may use reasonable and necessary force in exercising powers under this Part. Section 72H provides that security authorised members of the Defence Force may, in limited circumstances involving an attack, do a thing that is likely to cause the death of, or grievous bodily harm to, another person. Other defence security officials are not so authorised (see subsection 72G(2)).
+
+##### <a id="71Y"></a>71Y  Power to stop and detain
+
+                   A special defence security official may stop and detain a person, or a vehicle, vessel or aircraft, for the purposes of exercising a power under this Division:
+
+                     (a)  to require the person to provide evidence of particular matters; or
+
+                     (b)  to search the person or the vehicle, vessel or aircraft.
+
+##### <a id="71Z"></a>71Z  Powers are in addition to powers under this Part
+
+                   To avoid doubt, a power conferred upon a special defence security official under this Division may be exercised in addition to a power conferred on the special defence security official under another Division of this Part.
+
+### Division 5—Seizure
+
+##### <a id="72"></a>72  Power to seize things on defence premises
+
+             (1)  A special defence security official may seize a thing (including a vehicle, vessel or aircraft or an unattended thing) on defence premises, or a thing found as a result of a search (including a limited search) under this Part, if the official believes on reasonable grounds that the thing may:
+
+                     (a)  constitute a threat to the safety of a person on the defence premises; or
+
+                     (b)  relate to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
+
+             (2)  If a special defence security official seizes a thing under subsection (1):
+
+                     (a)  a security authorised member of the Defence Force may take such action as is reasonable and necessary to make the thing safe or prevent the thing being used; and
+
+                     (b)  if the official seized the thing from a person—a special defence security official must, if it is practicable to do so, give the person a receipt for the thing; and
+
+                     (c)  if the official believes on reasonable grounds that the thing has been used or otherwise involved in the commission of a criminal offence—a special defence security official must give the thing to a member or special member of the Australian Federal Police or a member of the police force of a State or Territory at the earliest practicable time; and
+
+                     (d)  if paragraph (c) does not apply:
+
+                              (i)  if the official seized the thing from a person and it is practicable to do so—a special defence security official must return the thing to the person within 7 days; or
+
+                             (ii)  otherwise—a special defence security official must give it to a member or special member of the Australian Federal Police or a member of the police force of a State or Territory at the earliest practicable time.
+
+### Division 6—Matters relating to exercise of powers under Part
+
+##### <a id="72A"></a>72A  Certain powers to be exercised only by security authorised members of the Defence Force unless not reasonably practicable
+
+                   A power conferred upon a special defence security official under Division 4 (powers exercisable without consent) or Division 5 (seizure powers) may be exercised by a defence security screening employee only if it is not reasonably practicable in all the circumstances for the power to be exercised by a security authorised member of the Defence Force.
+
+##### <a id="72B"></a>72B  Defence security officials must produce identity cards, etc.
+
+Production of identity card before making request or requirement
+
+             (1)  A defence security official is not entitled to make a request or requirement of a person under this Part unless, before making the request or requirement:
+
+                     (a)  the defence security official produces his or her identity card for inspection by the person; and
+
+                     (b)  the person is informed of the effect of refusal by the person to comply with the request or requirement.
+
+Production of identity card before search
+
+             (2)  Subject to subsection (3), a defence security official is not entitled to conduct a search (including a limited search) of a person, or a vehicle, vessel or aircraft apparently under the control of a person, under this Part unless, before conducting the search:
+
+                     (a)  the defence security official produces his or her identity card for inspection by the person; and
+
+                     (b)  if the search is under Division 4 (powers exercisable without consent)—the person is informed of the effect of hindering or obstructing the search.
+
+             (3)  A defence security official is not required to comply with subsection (2) before conducting a search of a person, or of a vehicle, vessel or aircraft apparently under the control of a person, if:
+
+                     (a)  the search is conducted under subsection 71R(2), 71S(1), 71T(3) or 71U(2); and
+
+                     (b)  a defence security official reasonably believes that the person, or the vehicle, vessel or aircraft, constitutes a threat to the safety of persons on the defence premises concerned; and
+
+                     (c)  as soon as practicable while conducting, or after conducting, the search:
+
+                              (i)  the defence security official who is conducting, or has conducted, the search produces his or her identity card for inspection by the person; and
+
+                             (ii)  the person is informed of the effect of hindering or obstructing the search.
+
+Production of identity card before removal of a person
+
+             (4)  A defence security official is not entitled to exercise powers under this Part to remove a person from defence premises unless, before exercising the power, the official produces his or her identity card for inspection by the person.
+
+Production of identity card as soon as practicable after detaining a person
+
+             (5)  A defence security official is not entitled to restrain and detain, or stop and detain, a person under this Part unless, as soon as practicable after restraining and detaining, or stopping and detaining, the person, the official produces his or her identity card for inspection by the person.
+
+##### <a id="72C"></a>72C  Persons to be informed of offence
+
+             (1)  A defence security official who, in accordance with this Part, exercises a power on the basis that the official reasonably believes that a person has committed, or may commit, a criminal offence must inform the person of the offence.
+
+             (2)  It is sufficient if the person is informed of the substance of the offence, and it is not necessary that this be done in language of a precise or technical nature.
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  the person should, in the circumstances, know the substance of the offence; or
+
+                     (b)  the person’s actions make it impracticable for the defence security official to inform the person of the offence.
+
+##### <a id="72D"></a>72D  Conduct of searches and limited searches
+
+                   A search or a limited search of a person under this Part must, if practicable, be conducted by a person of the same sex as the person being searched.
+
+##### <a id="72E"></a>72E  Use of equipment to examine things etc.
+
+                   For the purposes of conducting a search or a limited search of a person, or a search of a thing, under this Part or determining whether a thing may be seized under this Part, a defence security official may do one or more of the following:
+
+                     (a)  use any equipment, including electronic equipment, reasonably necessary for the search or the limited search, or the examination or processing of the thing;
+
+                     (b)  in the case of a thing that is on defence premises, and that a defence security official suspects on reasonable grounds:
+
+                              (i)  constitutes a threat to the safety of persons on the defence premises; or
+
+                             (ii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises;
+
+                            move the thing to another part of the defence premises for immediate examination or processing;
+
+                     (c)  use any equipment, including electronic equipment, to gain access to data stored on the thing;
+
+                     (d)  obtain expert assistance to do a thing referred to in paragraph (a), (b) or (c).
+
+##### <a id="72F"></a>72F  Power to move certain unattended things on defence premises
+
+                   If a thing is left unattended on defence premises as a result of, or in connection with, the exercise of a power under this Part, a defence security official may move the thing to another place if the defence security official reasonably believes that it is necessary or desirable to do so.
+
+##### <a id="72G"></a>72G  Use of reasonable and necessary force, etc. by defence security officials
+
+Use of force—general rule
+
+             (1)  A defence security official may, subject to this section and section 72H, use such force against persons and things as is reasonable and necessary in the circumstances in exercising powers under  this Part _._
+
+Limit on use of force—defence security guards and defence security screening employees
+
+             (2)  Despite subsection (1), a contracted defence security guard or a defence security screening employee must not, in using force against a person in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person.
+
+Note 1:       For security authorised members of the Defence Force, see section 72H.
+
+Note 2:       This provision does not affect a person’s rights under other laws: see section 72S.
+
+Indignity
+
+             (3)  A defence security official must not, in exercising powers under this Part, subject the person to greater indignity than is reasonable and necessary in the circumstances.
+
+##### <a id="72H"></a>72H  Use of force involving death or grievous bodily harm by security authorised members of the Defence Force in responding to an attack
+
+             (1)  Despite subsection 72G(1), a security authorised member of the Defence Force must not, in using force against a person in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person, unless the member believes on reasonable grounds that:
+
+                     (a)  doing that thing is necessary to prevent the death of, or serious injury to, another person (including the official); and
+
+                     (b)  the threat of death or injury is caused by an attack on defence premises, or on people on defence premises, that is occurring or is imminent.
+
+             (2)  In addition to the limitations in paragraphs (1)(a) and (b), if a person is attempting to escape being detained by fleeing, a security authorised member of the Defence Force must not, in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person unless:
+
+                     (a)  the person has, if practicable, been called on to surrender; and
+
+                     (b)  the official believes on reasonable grounds that the person cannot be apprehended in any other manner.
+
+##### <a id="72J"></a>72J  Limit on power to restrain and detain
+
+                   A provision of this Part that confers a power on a defence security official to restrain and detain a person is limited to a power to restrain and detain the person for the purpose of placing the person, at the earliest practicable time, in the custody of:
+
+                     (a)  a member or special member of the Australian Federal Police; or
+
+                     (b)  a member of the police force of a State or Territory; or
+
+                     (c)  a protective service officer.
+
+##### <a id="72K"></a>72K  Limit on power to arrest
+
+                   If a member of the Defence Force arrests a person under section 72P (which deals with trespass), he or she must, as soon as practicable after the arrest, bring the person, or cause the person to be brought, before:
+
+                     (a)  a member or special member of the Australian Federal Police; or
+
+                     (b)  a member of the police force of a State or Territory.
+
+Note 1:       The _Crimes Act 1914_ provides for arrest powers of police officers and how arrested persons are to be dealt with.
+
+Note 2:       The _Australian Federal Police Act 1979_ provides for arrest powers of protective service officers and how arrested persons are to be dealt with.
+
+##### <a id="72L"></a>72L  Powers not to be used to stop protests etc.
+
+                   In exercising powers under this Part, a defence security official must not stop or restrict any protest, dissent, assembly or industrial action, unless there is a reasonable likelihood of:
+
+                     (a)  death of, or serious injury to, persons; or
+
+                     (b)  the commission of a criminal offence.
+
+##### <a id="72M"></a>72M  Security authorised members of the Defence Force may use dogs
+
+                   A security authorised member of the Defence Force may, if the security authorised member considers it is reasonably necessary to do so, use a dog:
+
+                     (a)  to assist a defence security official to conduct a search (including a limited search) under this Part; or
+
+                     (b)  to assist a defence security official to restrain or detain, or remove, a person under this Part; or
+
+                     (c)  to assist a member of the Defence Force to arrest a person under section 72P (which deals with trespass); or
+
+                     (d)  to assist a defence security official to perform a function or exercise a power under this Part.
+
+##### <a id="72N"></a>72N  Persons assisting defence security officials
+
+             (1)  A defence security official may, in exercising powers under any of the following provisions, be assisted by other persons if that assistance is necessary and reasonable:
+
+                     (a)  subsection 71J(1) (search of a vehicle, etc. with consent);
+
+                     (b)  subsection 71N(1) (search of a vehicle, etc. on declared explosive ordnance depot);
+
+                     (c)  subsection 71S(1) (search of a vehicle, etc. without consent);
+
+                     (d)  subsection 71U(2) (search of a vehicle, etc. without consent);
+
+                     (e)  section 72E (use of equipment, etc.);
+
+                      (f)  section 72F (moving things, etc.).
+
+             (2)  A person giving such assistance is a **_person assisting_** the defence security official.
+
+             (3)  A person assisting the defence security official may exercise the powers of the defence security official, but only in accordance with a direction given to the person by the defence security official.
+
+             (4)  A power exercised by a person assisting the defence security official as mentioned in subsection (3) is taken for all purposes to have been exercised by a defence security official.
+
+             (5)  If a direction is given under subsection (3) in writing, the direction is not a legislative instrument.
+
+### Division 7—Other matters
+
+##### <a id="72P"></a>72P  Unauthorised entry etc. on defence premises or defence accommodation
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person enters or is on:
+
+                              (i)  defence premises; or
+
+                             (ii)  defence accommodation; and
+
+                     (b)  the person is not authorised to be on the premises or accommodation.
+
+                    Penalty:  50 penalty units.
+
+Note:          An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
+
+             (2)  A member of the Defence Force, a member or special member of the Australian Federal Police, a protective service officer or a member of the police force of a State or Territory may, without warrant, arrest any person if the member reasonably believes that the person has committed an offence against subsection (1).
+
+             (3)  Nothing in this section prevents the arrest of a person in accordance with any other law.
+
+##### <a id="72Q"></a>72Q  Certain information may be collected and provided to law enforcement agencies etc.
+
+             (1)  The Department, the Defence Force or a contracted security guard may, on defence premises, collect information, including personal information, by means of an optical surveillance device.
+
+             (2)  The Department or the Defence Force may disclose information collected under subsection (1) to one or more of the following persons or bodies, for the purposes of the performance of the functions of the person or body:
+
+                     (a)  an intelligence or security agency;
+
+                     (b)  the Australian Federal Police or the police force of a State or Territory;
+
+                     (c)  the Director of Public Prosecutions of the Commonwealth or a State or Territory.
+
+             (3)  A disclosure of personal information under subsection (2) is taken to be authorised by law for the purposes of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_.
+
+Note:          Paragraph 3 of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_ applies to further disclosures of the personal information.
+
+             (4)  This provision has effect despite any law of the Commonwealth or of a State or Territory.
+
+##### <a id="72R"></a>72R  Compensation for acquisition of property
+
+             (1)  If, apart from this section, the operation of this Part would result in the acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay reasonable compensation to the person.
+
+             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may apply to the Federal Court to determine a reasonable amount of compensation.
+
+             (3)  The jurisdiction of the Federal Court is exclusive of the jurisdiction of all other courts except that of the High Court.
+
+             (4)  In this section:
+
+                    <a name="just-term"></a><a name="acquisit-properti"></a>**_acquisition of property_** and **_just terms_** have the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+##### <a id="72S"></a>72S  Other powers not affected
+
+             (1)  This Part does not, by implication, limit the exercise of the powers, or the rights, of a defence security official, a member of the Defence Force or any other person:
+
+                     (a)  under this Act; or
+
+                     (b)  under any other law (including the common law); or
+
+                     (c)  otherwise in the performance of his or her duties as a defence security official, a member of the Defence Force or otherwise.
+
+             (2)  Without limiting subsection (1), this Part does not affect any right of an owner or occupier of premises to refuse to allow a person to enter, or remain on, the premises.
+
+             (3)  Without limiting subsection (1), this Part does not affect any right of a person to defend himself or herself or another person.
+
+## 2  Subsection 82(3)
+
+Repeal the subsection.
+
+## 3  Subsection 82(4)
+
+After “State”, insert “or Territory”.
+
+## 5  Subsection 51T(3)
+
+After “addition”, insert “to the relevant limitation in paragraph (2)(a), subparagraph (2A)(a)(i) or (ii) or paragraph (2B)(a), (b) or (c)”.
+
+As at 14 July 2011 the amendments are not incorporated in this compilation.
+
+### Note 5
+
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 The following amendments commence on 27 December 2011 unless proclaimed earlier:
@@ -18843,7 +18555,7 @@ Omit “office;”, substitute “office.”.
 
 Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
 
-## 502  At the end of subsection 58X(1)
+## 502  At the end of subsection 58X(1)
 
 Add:
 
@@ -18883,7 +18595,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsection.
 
-As at 8 November 2011 the amendments are not incorporated in this compilation.
+As at 14 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
