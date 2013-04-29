@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00401/Html/447008c5-58cd-4c95-a54e-6a89a300f0a6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00192/Html/7dd13203-ad5b-4c33-9ce6-c0ac2ca652fd_files/image001.gif)
 
 # Wine Australia Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 31 January 2012
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force
@@ -816,7 +816,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="5C"></a>5C  Meaning of _description and presentation_ 
 
-                   In this Act, a reference to the description and presentation with which wine is sold, exported or imported is a reference to all names (including business names) or other descriptions, references (including addresses), indications, signs, designs and trade marks used to distinguish the wine and appearing:
+                   In this Act, a reference to the description and presentation with which wine is sold, exported or imported is a reference to all names (including business names) or other descriptions, references (including addresses), indications, signs, designs and trade marks used to distinguish the wine and appearing:
 
                      (a)  on the container (including on the device used to seal the container or on a label affixed to the container), on any tag attached to the container or, if the container is a bottle, on the sheathing covering the neck of the bottle; or
 
@@ -928,9 +928,9 @@ Review of determinations
 
            (2F)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a determination as if the following subsections were inserted after subsection (1):
 
-                 ‘(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
+                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
 
-                 ‘(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.’.
+                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
 
 Inclusion of particulars in the Register
 
@@ -1096,7 +1096,7 @@ the Minister shall terminate the appointment of the member.
 
 ##### <a id="29AA"></a>29AA  Interpretation
 
-                   In this Part:
+                   In this Part:
 
                     <a name="committe"></a>**_Committee_** means the Wine Australia Corporation Selection Committee.
 
@@ -2534,7 +2534,7 @@ Inclusion of business name
 
                      (b)  the business name contains or consists of a registered traditional expression; and
 
-                     (c)  before the protection date for the traditional expression, the business name was registered in good faith under the law of a State or Territory or on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_;
+                     (c)  before the protection date for the traditional expression, the business name was registered in good faith under the law of a State or Territory;
 
 then the description and presentation is not false merely because it includes that business name.
 
@@ -2712,7 +2712,7 @@ Inclusion of business name
 
                      (b)  the business name contains or consists of a registered traditional expression; and
 
-                     (c)  the business name was registered in good faith under the law of a State or Territory or on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_ before the protection date for the traditional expression;
+                     (c)  the business name was registered in good faith under the law of a State or Territory before the protection date for the traditional expression;
 
 then the description and presentation is not misleading merely because it includes that business name.
 
@@ -2858,7 +2858,7 @@ Minister may suspend operation of section
 
 ### Division 3—Establishment, function and powers of Geographical Indications Committee
 
-##### <a id="40N"></a>40N  Establishment of Committee
+##### <a id="40N"></a>40N  Establishment of Committee
 
                    A committee to be known as the Geographical Indications Committee is established.
 
@@ -2898,7 +2898,7 @@ Note:          Geographical indications, and translations of s
 
              (2)  A determination by the Committee is to be in writing signed by the Presiding Member of the Committee.
 
-##### <a id="40QA"></a>40QA  Committee must await decisions under Subdivision D
+##### <a id="40QA"></a>40QA  Committee must await decisions under Subdivision D
 
                    The Committee must not do a thing under Subdivision E in respect of a proposed GI unless the requirements of Subdivision D have been complied with.
 
@@ -3242,9 +3242,9 @@ Note:          Under section 40RF, an appeal lies to the Fed
 
              (2)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a final determination as if the following subsections were inserted after subsection (1):
 
-                 ‘(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a final determination under Part VIB of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with section 40X of that Act.
+                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a final determination under Part VIB of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with section 40X of that Act.
 
-                 ‘(1B)  Despite subsection (8), an application under subsection (7) in respect of a final determination under Part VIB of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.’.
+                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a final determination under Part VIB of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
 
 ##### <a id="40Z"></a>40Z  Date of effect of final determination
 
@@ -4444,7 +4444,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 2 (item 19): <i>(g)</i> 
-Schedule 4 (items 1, 48, 49): Royal Assent <i>(g)</i></div>
+Schedule 4 (items 48, 49): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4843,7 +4843,7 @@ Schedule 3 (item 18): 1 Sept 2010</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 26): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (item 26): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4856,7 +4856,7 @@ _(a)_     The _Wine Australia Corporation Act 1980_ was amended by secti
 
 _(b)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
 
-                 (7)   The amendment of the _Australian Wine and Brandy Corporation Act 1980_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
+                 (7)   The amendment of the _Australian Wine and Brandy Corporation Act 1980_ made by this Act shall come into operation the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
@@ -4874,7 +4874,7 @@ _(f)_      The _Wine Australia Corporation Act 1980_ was amended by se
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
-_(g)_     The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (item 19) and Schedule 4 (items 1, 48, 49) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(g)_     The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (item 19) and Schedule 4 (items 48, 49) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -4884,11 +4884,11 @@ _(g)_     The _Wine Australia Corporation Act 1980_ was amended by Sched
 
          Section 20 commenced on 16 December 1993\. 
 
-_(h)_ The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (items 554–567) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(h)_ The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (items 554–567) subsection 2(2) of which provides as follows:
 
-         (2)  Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(i)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 5 (Parts 1–3) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsections 2(1) and (2)(d) of which provides as follows:
+_(i)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 5 (Parts 1–3) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, section 2 of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
 
@@ -4985,14 +4985,6 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
   </td>
   <td>
     <div>am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and 170, 1999; No. 120, 2004; Nos. 98 and 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -5189,10 +5181,10 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>Note to s. 12(1)</div>
+    <div>S. 12</div>
   </td>
   <td>
-    <div>ad. No. 152, 1997</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -5704,7 +5696,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 1993; No. 152, 1997</div>
+    <div>am. No. 93, 1993; No. 152 1997</div>
   </td>
 </tr>
 <tr>
@@ -6544,7 +6536,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
     <div></div>
   </td>
   <td>
-    <div>am. No. 86, 1997; Nos. 32, 146 and 170 , 1999; No. 98, 2010</div>
+    <div>am. No. 86, 1997; Nos. 32 and 146, 1999; No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6584,7 +6576,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 60, 1986</div>
+    <div>ad. No. 93, 1993</div>
   </td>
 </tr>
 <tr>
@@ -6592,7 +6584,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
     <div></div>
   </td>
   <td>
-    <div>rs. No. 93, 1993</div>
+    <div>am. No. 60, 1986</div>
   </td>
 </tr>
 <tr>
@@ -6710,26 +6702,10 @@ of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>S. 40DA</div>
+    <div>Ss. 40DA, 40DB</div>
   </td>
   <td>
     <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40DB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 127, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6799,26 +6775,10 @@ of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>S. 40FA</div>
+    <div>Ss. 40FA, 40FB</div>
   </td>
   <td>
     <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40FB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 127, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7439,7 +7399,7 @@ Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>Div. 6 of Part VIB</div>
+    <div>Div 6 of Part VIB</div>
   </td>
   <td>
     <div>ad. No. 170, 1999</div>
@@ -7471,7 +7431,7 @@ Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>S. 41A (formerly s. 40)</div>
+    <div>S. 41A formerly s. 40</div>
   </td>
   <td>
     <div>am. No. 93, 1993; No. 43, 1996</div>
@@ -7638,6 +7598,20 @@ Part VIB</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 26  Paragraphs 40DB(4)(c) and 40FB(3)(c)
+
+After “Territory”, insert “or on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
+
+As at 31 January 2012 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7705,7 +7679,8 @@ The amendment made by item 7  applies in relation to the operations of the Com
 
 * * *
 
-_Australian Wine and Brandy Corporation Amendment Act 2010 (No. 98, 2010)_
+_Australian Wine and Brandy Corporation Amendment Act 2010 
+ (No. 98, 2010)_
 
 ## Schedule 1
 
@@ -7854,7 +7829,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2011 (No. 89, 2011)_
+_Financial Framework Legislation Amendment Act (No. 1) 2011
+ (No. 89, 2011)_
 
 ## Schedule 8
 
