@@ -1,154 +1,114 @@
+**<b>
 
-Fringe Benefits Tax (Application to the Commonwealth) Act 1986
-Act No. 42 of 1986 as amended 
-Consolidated as in force on 23 June 1999
-(includes amendments up to Act No. 17 of 1999)
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-Contents
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-2A	Objects	1
-3	 Interpretation	1
-4	Application of Assessment Act in relation to Commonwealth employment	3
-5	Application of Act to certain Commonwealth authorities	3
-5A	Modified objection, review and appeal provisions	3
-6	Exemption of certain benefits provided under the Defence Service Homes Act	3
-6AA	Exemption of benefits provided to certain people	4
-6AB	Exemption of benefits provided to Commonwealth employees under the Entitlements Act	4
-6AC	Exemption of health care benefits provided to certain members of the Defence Force	4
-6A	No entitlement to rebate of tax	5
-7	Directions by Minister for Finance	5
-8	 Annual report	5
-9	Regulations	5
-Notes 		7
+### <center><name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - Reprinted as at 30 April 1994 (HISTACT2 CHAP 617 #DATE 30:04:1994) </name></center>
+</b>** *1* The Fringe Benefits Tax (Application to the Commonwealth) Act 1986 as shown in this reprint comprises Act No. 42, 1986 amended as indicated in the Tables below.<lf>   The Fringe Benefits Tax (Application to the Commonwealth) Act 1986 was modified by the Fringe Benefits Tax (Application to the Commonwealth) Regulations as amended.  (See Note 2)<lf>                                Table of Acts<lf>     Act           Date              Date of              Application<lf>     Number and    of Assent         Commencement         saving or<lf>     Year                                                 transitional<lf>                                                          provisions<lf>     Fringe Benefits (Application to the Commonwealth) Act 1986<lf>     42, 1986      24 June 1986      24 June 1986 (see  s. 2)<lf>     Taxation Boards of Review (Transfer of Jurisdiction) Act<lf>     1986<lf>     48, 1986      24 June 1986      S. 31 and Parts VII           -<lf>                                     and VIII (ss.<lf>                                     45-56): 24 June<lf>                                     1986 (see  s. 2 (2))<lf>                                     Remainder: 1 July 1986<lf>     Taxation Laws Amendment Act (No. 3) 1991<lf>     216, 1991      24 Dec 1991      S. 113: 1 Mar            Ss. 114<lf>                                     1992 (see Gazette        and 116<lf>                                     1992, No. GN7) (a)<lf>     Taxation Laws Amendment (Fringe Benefits Tax Measures) Act 1992<lf>     223, 1992      24 Dec 1992      1 Apr 1994                  S. 4<lf>   (a) The Fringe Benefits Tax (Application to the Commonwealth) Act 1986 was amended by section 113 only of the Taxation Laws Amendment Act (No. 3) 1991, subsection 2 (10) of which provides as follows:<lf>   "(10) Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation."<lf>                          Table of Amendments<lf> ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected          How affected<lf>     S. 4                        am. No. 48, 1986; No. 216, 1991<lf>     S. 5A                       ad. No. 216, 1991<lf>     S. 6A                       ad. No. 223, 1992<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-An Act to provide for the notional application of fringe benefits tax, and for the application of the reportable fringe benefits system, in relation to benefits provided in respect of the employment of Commonwealth employees
-Do not delete : Chapter placeholder
-Do not delete : Part placeholder
-Do not delete : Division placeholder
-1  Short title [see Note 1]
-		This Act may be cited as the Fringe Benefits Tax (Application to the Commonwealth) Act 1986.
-2  Commencement [see Note 1]
-		This Act shall come into operation on the day on which the Fringe Benefits Tax Assessment Act 1986 comes into operation.
-2A  Objects
-		The objects of this Act are to provide for:
-	(a)	the notional application of fringe benefits tax in relation to benefits provided in respect of the employment of Commonwealth employees; and
-	(b)	the calculation of the reportable fringe benefits totals of those employees; and
-	(c)	the calculation of the reportable fringe benefits amounts of those employees in respect of that employment.
-3   Interpretation 
-	(1)	In this Act, unless the contrary intention appears:
-Assessment Act means the Fringe Benefits Tax Assessment Act 1986.
-Commonwealth employee means an employee of the Commonwealth.
-Department means:
-	(a)	a Department of State;
-	(b)	a Department of the Parliament; or
-	(c)	a branch or part of the Australian Public Service in relation to which a person has, under an Act, the powers of, or exercisable by, the Secretary to a Department of the Australian Public Service.
-Entitlements Act means the Veteran’s Entitlements Act 1986.
-responsible Department, in relation to the employment of a Commonwealth employee, means:
-	(a)	where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an annual Appropriation Act—the Department in respect of which the money was appropriated;
-	(b)	where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an Act other than an annual Appropriation Act:
-	(i)	if the employee performs or performed the duties of that employment in, or in respect of, a Department—that Department; or
-	(ii)	in any other case—the Department of State administered by the Minister who administers the Act under which that money was appropriated, insofar as the Act appropriated that money; and
-	(c)	where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated by the Constitution—the Department of the Special Minister of State.
-	(2)	Unless the contrary intention appears, an expression that is used in this Act and in the Assessment Act has the same meaning in this Act as it has in the Assessment Act.
-4  Application of Assessment Act in relation to Commonwealth employment
-	(1)	Subject to this Act and to such modifications as are prescribed, the Assessment Act applies, in respect of any matter or thing in respect of the employment of a Commonwealth employee, as if:
-	(a)	the employee were employed by the responsible Department and not by the Commonwealth;
-	(b)	the responsible Department were a company and each other Department, and each authority of the Commonwealth, were a company related to the responsible Department; and
-	(c)	the responsible Department were a government body.
-	(2)	In subsection (1), modifications includes additions, omissions and substitutions.
-5  Application of Act to certain Commonwealth authorities
-	(1)	Subject to such modifications as are prescribed, this Act applies in relation to an authority of the Commonwealth referred to in paragraph (e) of the definition of employer in subsection 136(1) of the Assessment Act in like manner as it applies in relation to a Department.
-	(2)	In subsection (1), modifications includes additions, omissions and substitutions.
-5A  Modified objection, review and appeal provisions
-		If, apart from this section, Part IVC of the Taxation Administration Act 1953 would apply to an objection made under the Assessment Act in its  application in accordance with this Act, then that Part applies as if  subsection 14ZX (4), section 14ZZ and Divisions 4 and 5 of that Part were omitted.
-6  Exemption of certain benefits provided under the Defence Service Homes Act 
-		For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit is provided under the Defence Service Homes Act 1918 in respect of the employment of a Commonwealth employee by reason of the employee being an eligible person within the meaning of that Act otherwise than by virtue of paragraph (h) or (i) of the definition of Australian Soldier in subsection 4(1) of that Act, the benefit is an exempt benefit.
-6AA  Exemption of benefits provided to certain people  
-		For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit (other than a benefit referred to in section 6) is provided, in respect of the employment of a Commonwealth employee, because of the employee being:
-	(a)	a veteran as defined by subsection 5C(1) of the Entitlements Act to whom, or in respect of whom, a pension is payable under Part II of that Act;  or
-	(b)	a veteran as defined by subsection 5C(1) of the Entitlements Act who is eligible to receive a service pension, or in respect of whom a service pension is payable, under Part III of that Act; or
-	(c)	a member of the Forces, or a member of a Peacekeeping Force, as defined by subsection 68(1) of the Entitlements Act to whom, or in respect of whom, pension is payable under Part IV of that Act;
-the benefit is an exempt benefit.  
-6AB  Exemption of benefits provided to Commonwealth employees under the  Entitlements Act  
-		For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit is provided under the Entitlements Act in respect of the employment of a Commonwealth employee, the benefit is an exempt  benefit.  
-6AC  Exemption of health care benefits provided to certain members of the Defence  Force  
-	(1)	For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit that consists of the provision of health care and is not otherwise an exempt benefit is provided, in respect of the employment of a Commonwealth employee, because of the employee being a member of the Defence Force, the first-mentioned benefit is an exempt benefit.  
-	(2)	In this section, a reference to an employee being a member of the  Defence Force is a reference to an employee who is, was formerly, or will become, a member of the Defence Force.  
-6A  No entitlement to rebate of tax  
-		For the purposes of the application of the Assessment Act in accordance  with this Act, it is to be assumed that section 65J of that Act (which deals with rebates) had not been enacted.  
-7  Directions by Minister for Finance
-	(1)	The Minister for Finance may give such directions in writing as are necessary or convenient to be given for carrying out or giving effect to this Act and, in particular, may give directions in relation to the transfer of money within the Public Account.
-	(2)	Directions under subsection (1) have effect, and shall be complied with, notwithstanding any other law of the Commonwealth.
-8   Annual report
-		The report by the Commissioner under section 4 of the Assessment Act shall include a report on the working of this Act, including any breaches or evasions of this Act of which the Commissioner has notice.
-9  Regulations
-		The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
-	(a)	required or permitted by this Act to be prescribed; or
-	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-Notes to the Fringe Benefits Tax (Application to the Commonwealth) Act 1986
-Note 1
-The Fringe Benefits Tax (Application to the Commonwealth) Act 1986 as shown in this consolidation comprises Act No. 42, 1986 amended as indicated in the Tables below.
-Table of Acts
-Act
-Number  and year
-Date  of Assent
-Date of commencement
-Application, saving or transitional provisions
-Fringe Benefits (Application to the Commonwealth) Act 1986 
-42, 1986
-24 June 1986
-24 June 1986 (see s. 2)
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - TABLE OF PROVISIONS </name>
+</b>** 
 
-Taxation Boards of Review (Transfer of Jurisdiction) Act 1986
-48, 1986
-24 June 1986
-S. 31 and Parts VII and VIII (ss. 45‑56): 24 June 1986 (see s. 2(2)) Remainder: 1 July 1986
-—
-Taxation Laws Amendment Act (No. 3) 1991
-216, 1991
-24 Dec 1991
-S. 113: 1 March 1992 (see Gazette 1992, No. GN7) (a)
-Ss. 114 and 116
-Taxation Laws Amendment (Fringe Benefits Tax Measures) Act 1992
-223, 1992
-24 Dec 1992
-1 Apr 1994
-S. 4
-Veterans’ Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995
-146, 1995
-12 Dec 1995
-S. 3(5): Royal Assent (b)
-Sch. 13 (item 3)
-A New Tax System (Fringe Benefits Reporting) Act 1999
-17, 1999
-19 Apr 1999
-Schedule 1 (items 17 and 18): Royal Assent (c)
-—
-(a)	The Fringe Benefits Tax (Application to the Commonwealth Act 1986 was amended by section 113 only of the Taxation Laws Amendment Act (No. 3) 1991, subsection 2(10) of which provides as follows:
-	(10)	Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation.
-(b)	The Fringe Benefits Tax (Application to the Commonwealth Act 1986 was amended by the Veterans’ Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(c)	The Fringe Benefits Tax (Application to the Commonwealth Act 1986 was amended by Schedule 1 (items 17 and 18) only of the A new Tax System (Fringe Benefits Reporting) Act 1999, subsection 2(1) provides as follows:
-	(1)	This Act commences on the day on which it receives the Royal Assent.
+## TABLE
+<tables> <tt>                       TABLE OF PROVISIONS<lf> Section<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Interpretation<lf>     4\.    Application of Assessment Act in relation to<lf>           Commonwealth employment<lf>     5\.    Application of Act to certain Commonwealth authorities<lf>    5A.    Modified objection, review and appeal provisions<lf>     6\.    Exemption of certain benefits provided under the Defence<lf>           Service Homes Act<lf>    6A.    No entitlement to rebate of tax<lf>     7\.    Directions by Minister for Finance<lf>     8\.    Annual report<lf>     9\.    Regulations<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-Provision affected
-How affected
-Title	
-am. No. 17, 1999
-S. 2A	
-ad. No. 17, 1999
-S. 3	
-am. No. 146, 1995
-S. 4 	
-am. No. 48, 1986; No. 216, 1991
-S. 5A	
-ad. No. 216, 1991
-S. 6A	
-ad. No. 223, 1992
-Ss. 6AA–6AC	
-ad. No. 146, 1995
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>          An Act to provide for the notional application of fringe<lf>      benefits tax in relation to benefits provided in respect of the<lf>                 employment of Commonwealth employees<lf> </lf></lf></lf></sect>
+**<b>
 
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 1 Short title </name>
+</b>** 
+
+## SECT
+<sect>   1\. This Act may be cited as the Fringe Benefits Tax (Application to the Commonwealth) Act 1986.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 2 Commencement </name>
+</b>** 
+
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which the Fringe Benefits Tax Assessment Act 1986 comes into operation.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 3 Interpretation </name>
+</b>** 
+
+## SECT
+<sect>   3.*2* (1) In this Act, unless the contrary intention appears:<lf>   "Assessment Act" means the Fringe Benefits Tax Assessment Act 1986;<lf>   "Commonwealth employee" means an employee of the Commonwealth;<lf>   "Department" means:<lf>   (a) a Department of State;<lf>   (b) a Department of the Parliament; or<lf>   (c) a branch or part of the Australian Public Service in relation to which a person has, under an Act, the powers of, or exercisable by, the Secretary to a Department of the Australian Public Service;<lf>   "responsible Department", in relation to the employment of a Commonwealth employee, means:<lf>   (a) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an annual Appropriation Act - the Department in respect of which the money was appropriated;<lf>   (b) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an Act other than an annual Appropriation Act:<lf>     (i) if the employee performs or performed the duties<lf> of that employment in, or in respect of, a Department - that Department; or<lf>     (ii) in any other case - the Department of State<lf> administered by the Minister who administers the Act under which that money was appropriated, insofar as the Act appropriated that money; and<lf>   (c) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated by the Constitution - the Department of the Special Minister of State. 
+
+  (2) Unless the contrary intention appears, an expression that is used in this Act and in the Assessment Act has the same meaning in this Act as it has in the Assessment Act. *2* Sections 3 and 6A-6C - The Fringe Benefits Tax (Application to the Commonwealth) Act 1986 was modified by the Schedule of the Fringe Benefits Tax (Application to the Commonwealth) Regulations as amended. The provisions of the Schedule applicable to the abovementioned Act quoted below are not incorporated in this reprint.<lf>           "MODIFICATIONS FOR THE PURPOSES OF SUBSECTION<lf>                       4 (1) OF THE ACT<lf>   "1\. Insert in subsection 3 (1) of the Act the following definition in its appropriate alphabetical position determined on a letter-by-letter basis):<lf> the Entitlements Act means the Veterans' Entitlements Act 1986;   "2\. Insert after section 6 of the Act the following sections: Exemption of benefits provided to certain persons<lf>   6A. For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit (other than a benefit referred to in section 6) is provided, in respect of the employment of a Commonwealth employee, by reason of the employee being:<lf>   (a) a veteran within the meaning of section 5 of the Entitlements Act to whom, or in respect of whom, a pension is payable under Part II of the Entitlements Act;<lf>   (b) a veteran as defined by subsection 35 (1) of the Entitlements Act who is eligible to receive a service pension, or in respect of whom a service pension is payable, under Part III of the Entitlements Act;<lf>   (c) a member of the Forces, or a member of a Peacekeeping Force, within the meaning of section 68 of the Entitlements Act to whom, or in respect of whom, pension is payable under Part IV of the Entitlements Act; or<lf>   (d) an Australian mariner to whom, or in respect of whom, a pension is payable under Part III of the Seamen's War Pensions and Allowances Act 1940;<lf> the benefit is an exempt benefit. Exemption of benefits provided under the Entitlements Act<lf>   6B. For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit is provided under the Entitlements Act in respect of the employment of a Commonwealth employee, the benefit is an exempt benefit.<lf> Exemption of health care benefits provided to certain persons<lf>   6C. (1) For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit consisting of the provision of health care (being a benefit that is not otherwise an exempt benefit) is provided, in respect of the employment of a Commonwealth employee, by reason of the employee being a member of the Defence Force, the first-mentioned benefit is an exempt benefit.<lf>   (2) In this section, a reference to an employee being a member of the Defence Force shall be read as a reference to an employee who is, was formerly, or will become, a member of the Defence Force.." </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 4 Application of Assessment Act in relation to Commonwealth employment </name>
+</b>** 
+
+## SECT
+<sect>   4\. (1) Subject to this Act and to such modifications as are prescribed, the Assessment Act applies, in respect of any matter or thing in respect of the employment of a Commonwealth employee, as if:<lf>   (a) the employee were employed by the responsible Department and not by the Commonwealth;<lf>   (b) the responsible Department were a company and each other Department, and each authority of the Commonwealth, were a company related to the responsible Department;and<lf>   (c) the responsible Department were a government body. 
+
+  (2) In subsection (1), "modifications" includes additions, omissions and substitutions. 
+</lf></lf></lf></sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 5 Application of Act to certain Commonwealth authorities </name>
+</b>** 
+
+## SECT
+<sect>   5\. (1) Subject to such modifications as are prescribed, this Act applies in relation to an authority of the Commonwealth referred to in paragraph (e) of the definition of "employer" in subsection 136 (1) of the Assessment Act in like manner as it applies in relation to a Department. 
+
+  (2) In subsection (1), "modifications" includes additions, omissions and substitutions. 
+</sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 5A Modified objection, review and appeal provisions </name>
+</b>** 
+
+## SECT
+<sect>   5A. If, apart from this section, Part IVC of the Taxation Administration Act 1953 would apply to an objection made under the Assessment Act in its application in accordance with this Act, then that Part applies as if subsection 14ZX (4), section 14ZZ and Divisions 4 and 5 of that Part were omitted. </sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 6 Exemption of certain benefits provided under the Defence Service Homes Act </name>
+</b>** 
+
+## SECT
+<sect>   6\. For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit is provided under the Defence Service Homes Act 1918 in respect of the employment of a Commonwealth employee by reason of the employee being an eligible person within the meaning of that Act otherwise than by virtue of paragraph (h) or (i) of the definition of "Australian Soldier" in subsection 4 (1) of that Act, the benefit is an exempt benefit. </sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 6A No entitlement to rebate of tax </name>
+</b>** 
+
+## SECT
+<sect>   For the purposes of the application of the Assessment Act in accordance with this Act, it is to be assumed that section 65J of that Act (which deals with rebates) had not been enacted. </sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 6B-6C </name>
+</b>** 
+
+## SECT
+<sect>   6B. and 6C.*2*   *     *      *       *        *      * *2* Sections 3 and 6A-6C - The Fringe Benefits Tax (Application to the Commonwealth) Act 1986 was modified by the Schedule of the Fringe Benefits Tax (Application to the Commonwealth) Regulations as amended. The provisions of the Schedule applicable to the abovementioned Act quoted below are not incorporated in this reprint.<lf>           "MODIFICATIONS FOR THE PURPOSES OF SUBSECTION<lf>                       4 (1) OF THE ACT<lf>   "1\. Insert in subsection 3 (1) of the Act the following definition in its appropriate alphabetical position determined on a letter-by-letter basis):<lf> the Entitlements Act means the Veterans' Entitlements Act 1986;   "2\. Insert after section 6 of the Act the following sections: Exemption of benefits provided to certain persons<lf>   6A. For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit (other than a benefit referred to in section 6) is provided, in respect of the employment of a Commonwealth employee, by reason of the employee being:<lf>   (a) a veteran within the meaning of section 5 of the Entitlements Act to whom, or in respect of whom, a pension is payable under Part II of the Entitlements Act;<lf>   (b) a veteran as defined by subsection 35 (1) of the Entitlements Act who is eligible to receive a service pension, or in respect of whom a service pension is payable, under Part III of the Entitlements Act;<lf>   (c) a member of the Forces, or a member of a Peacekeeping Force, within the meaning of section 68 of the Entitlements Act to whom, or in respect of whom, pension is payable under Part IV of the Entitlements Act; or<lf>   (d) an Australian mariner to whom, or in respect of whom, a pension is payable under Part III of the Seamen's War Pensions and Allowances Act 1940;<lf> the benefit is an exempt benefit. Exemption of benefits provided under the Entitlements Act<lf>   6B. For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit is provided under the Entitlements Act in respect of the employment of a Commonwealth employee, the benefit is an exempt benefit.<lf> Exemption of health care benefits provided to certain persons<lf>   6C. (1) For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit consisting of the provision of health care (being a benefit that is not otherwise an exempt benefit) is provided, in respect of the employment of a Commonwealth employee, by reason of the employee being a member of the Defence Force, the first-mentioned benefit is an exempt benefit.<lf>   (2) In this section, a reference to an employee being a member of the Defence Force shall be read as a reference to an employee who is, was formerly, or will become, a member of the Defence Force.". </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 7 Directions by Minister for Finance </name>
+</b>** 
+
+## SECT
+<sect>   7\. (1) The Minister for Finance may give such directions in writing as are necessary or convenient to be given for carrying out or giving effect to this Act and, in particular, may give directions in relation to the transfer of money within the Public Account. 
+
+  (2) Directions under subsection (1) have effect, and shall be complied with, notwithstanding any other law of the Commonwealth. 
+</sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 8 Annual report </name>
+</b>** 
+
+## SECT
+<sect>   8\. The report by the Commissioner under section 4 of the Assessment Act shall include a report on the working of this Act, including any breaches or evasions of this Act of which the Commissioner has notice. </sect>
+**<b>
+
+### <name>FRINGE BENEFITS TAX (APPLICATION TO THE COMMONWEALTH) ACT 1986 - SECT 9 Regulations </name>
+</b>** 
+
+## SECT
+<sect>   9\. The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:<lf>   (a) required or permitted by this Act to be prescribed; or<lf>   (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act. </lf></lf></sect>
