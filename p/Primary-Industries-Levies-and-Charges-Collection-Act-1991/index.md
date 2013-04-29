@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00290/Html/PrimaryIndLevChColl1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00539/Html/PrimaryIndLevChColl1991_WD02_image001.gif)
 
 # Primary Industries Levies and Charges Collection Act 1991
 
 **Act No. 25 of 1991 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 66 of 2008
+This compilation was prepared on 3 September 2007
+ taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -990,7 +990,7 @@ to any of the following:
 
                      (e)  a person to whom the Secretary has granted access to such information.
 
-             (2)  Except for the purposes of regulations made under the repealed _Wheat Marketing Act 1989_ in relation to the issue to wheat growers of statements of equity in the Wheat Industry Fund established by that Act, nothing in subsection (1) permits the publication of information in a manner that enables an amount of levy or charge paid or payable to be identified with a person (including a deceased person).
+             (2)  Except for the purposes of regulations made under the _Wheat Marketing Act 1989_ in relation to the issue to wheat growers of statements of equity in the Wheat Industry Fund established by that Act, nothing in subsection (1) permits the publication of information in a manner that enables an amount of levy or charge paid or payable to be identified with a person (including a deceased person).
 
              (3)  An authorised person may provide the following information to an eligible recipient:
 
@@ -1666,23 +1666,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Wheat Export Marketing (Repeal and Consequential Amendments) Act 2008</div>
-    </td>
-    <td>
-      <div>66, 2008</div>
-    </td>
-    <td>
-      <div>30 June 2008</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 15): 1 July 2008 ( <i>see</i>s. 2(1))</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Primary Industries Levies and Charges Collection Act 1991_ was amended by Schedule 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1996_, subsection 2(3) of which provides as follows:
@@ -1917,8 +1900,7 @@ _(h)_ The _Primary Industries Levies and Charges Collection Act 1991_ was amende
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 194, 1997; No. 145, 2000; No. 32, 2003; 
-No. 66, 2008</div>
+    <div>am. No. 194, 1997; No. 145, 2000; No. 32, 2003</div>
   </td>
 </tr>
 <tr>
