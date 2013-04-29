@@ -1,70 +1,69 @@
 
 Snowy Mountains Engineering Corporation Limited Sale Act 1993
-Act No. 54 of 1993 as amended
-This compilation was prepared on 31 January 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Act No. 54 of 1993 as amended 
+Consolidated as in force 20 April 1998
+(includes amendments up to Act No. 39, 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
 Contents
-Part 1—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-4	The sale day	2
-Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations (sections 5 and 6)	4
-Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations (sections 7 and 8)	5
-Part 4—Transitional and saving provisions	6
-Division 1—Transitional and saving provisions in relation to long service leave	6
-9	Interpretation	6
-10	Long service leave for employees with less than 10 years service	6
-11	Payments in lieu of long service leave for employees with less than 10 years service	8
-12	Payments on the death of an employee	9
-13	Employee’s long service leave credit for the purposes of sections 10 and 11	10
-14	Division not to affect an employee’s post‑sale long service leave rights	11
-15	Saving—Long Service Leave Act	11
-Division 2—Transitional and saving provisions relating to the Safety Rehabilitation and Compensation Act 1988	12
-16	Interpretation	12
-17	Continued application of SRC Act	12
-18	Transitional provisions relating to the SRC Act that relate to SMEC employees and former SMEC employees	12
-19	Transitional provisions relating to Division 4A of Part VII of the SRC Act	13
-20	Transitional provision relating to section 128A of the SRC Act	13
-21	Notification of amount of salary etc. paid to employees of SMEC	13
-22	Amendment of declarations under the SRC Act	13
-Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits	15
-23	Saving—deferred benefits under the Superannuation Act 1922	15
-24	Saving—deferred benefits under the Superannuation Act 1976	15
-25	Saving—period of eligible employment for the purposes of Division 3 of Part IX of the Superannuation Act 1976	15
-26	Saving—deferred benefits under the DFRDB Act	16
-27	Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act	16
-28	Application—Superannuation Act 1922	16
-29	Application—Superannuation Act 1976	16
-30	Application—Superannuation Act 1990	17
-Division 4—Other transitional and saving provisions	18
-31	Transitional maternity leave provisions relating to employees of SMEC who are not on maternity leave immediately before the sale day	18
-32	Transitional maternity leave provisions relating to employees of SMEC who are on maternity leave on or before the sale day	18
-33	Saving—Crimes (Superannuation Benefits) Act 1989	18
-34	Saving—DPP Act	19
-35	Saving—Judiciary Act 1903	20
-Part 5—Other provisions relating to the sale of SMEC	21
-36	SMEC not to be established by or under an Act or established by the Commonwealth	21
-37	Removal of SMEC’s tax losses	21
-38	Exemption from State and Territory taxes and fees	22
-39	Regulations connected with the sale of SMEC	23
-40	Cessation of mobility rights	23
-41	Refund of contribution paid under the Occupational Health and Safety (Commonwealth Employment) Act 1991	24
-42	Ending SMEC’s liability under the Commonwealth Borrowing Levy Act 1987	24
-43	A SMEC body not to be an eligible or relevant body for the purposes of the Superannuation Benefits (Supervisory Mechanisms) Act 1990	25
-44	Amendments of other Acts	25
-Schedule—Amendments of other Acts	26
-Notes		27
+Part 1—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+4	The sale day	
+Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations	
+	(sections 5 and 6)	
+Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations	
+	(sections 7 and 8)	
+Part 4—Transitional and saving provisions	
+Division 1—Transitional and saving provisions in relation to long service leave	
+9	Interpretation	
+10	Long service leave for employees with less than 10 years service	
+11	Payments in lieu of long service leave for employees with less than 10 years service	
+12	Payments on the death of an employee	
+13	Employee’s long service leave credit for the purposes of sections 10 and 11	
+14	Division not to affect an employee’s post-sale long service leave rights	
+15	Saving—Long Service Leave Act	
+Division 2—Transitional and saving provisions relating to the Safety Rehabilitation and Compensation Act 1988	
+16	Interpretation	
+17	Continued application of SRC Act	
+18	Transitional provisions relating to the SRC Act that relate to SMEC employees and former SMEC employees	
+19	Transitional provisions relating to Division 4A of Part VII of the SRC Act	
+20	Transitional provision relating to section 128A of the SRC Act	
+21	Notification of amount of salary etc. paid to employees of SMEC	
+22	Amendment of declarations under the SRC Act	
+Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits	
+23	Saving—deferred benefits under the Superannuation Act 1922	
+24	Saving—deferred benefits under the Superannuation Act 1976	
+25	Saving—period of eligible employment for the purposes of Division 3 of Part IX of the Superannuation Act 1976	
+26	Saving—deferred benefits under the DFRDB Act	
+27	Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act	
+28	Application—Superannuation Act 1922	
+29	Application—Superannuation Act 1976	
+30	Application—Superannuation Act 1990	
+Division 4—Other transitional and saving provisions	
+31	Transitional maternity leave provisions relating to employees of SMEC who are not on maternity leave immediately before the sale day	
+32	Transitional maternity leave provisions relating to employees of SMEC who are on maternity leave on or before the sale day	
+33	Saving—Crimes (Superannuation Benefits) Act 1989	
+34	Saving—DPP Act	
+35	Saving—Judiciary Act 1903	
+Part 5—Other provisions relating to the sale of SMEC	
+36	SMEC not to be established by or under an Act or established by the Commonwealth	
+37	Removal of SMEC’s tax losses	
+38	Exemption from State and Territory taxes and fees	
+39	Regulations connected with the sale of SMEC	
+40	Cessation of mobility rights	
+41	Refund of contribution paid under the Occupational Health and Safety (Commonwealth Employment) Act 1991	
+42	Ending SMEC’s liability under the Commonwealth Borrowing Levy Act 1987	
+43	A SMEC body not to be an eligible or relevant body for the purposes of the Superannuation Benefits (Supervisory Mechanisms) Act 1990	
+44	Amendments of other Acts	
+Schedule—Amendments of other Acts	
 
 An Act relating to the sale of the Snowy Mountains Engineering Corporation Limited, and for related purposes 
+Do not delete : Chapter placeholder
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Snowy Mountains Engineering Corporation Limited Sale Act 1993.
+This Act may be cited as the Snowy Mountains Engineering Corporation Limited Sale Act 1993.
 2  Commencement [see Note 1]
 	(1)	Sections 1, 2, 3, 4 and 38 commence on the day on which this Act receives the Royal Assent.
 	(2)	Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.
@@ -90,21 +89,14 @@ voting share has the same meaning as in the Corporations Law.
 	(1)	The Minister for Finance must, by notice in the Gazette, declare the day described in subsection (2) to be the sale day.
 	(2)	The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
 	(3)	The notice must be published within 14 days after the specified day.
-
-Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations (sections 5 and 6)
-  
-  
-Note:
-The amendments made by this Part are incorporated in the current compilation on SCALEplus of the Long Service Leave (Commonwealth Employees) Regulations.
-For access to the wording of the amendments made by this Part, click here [Snowy Mountains Engineering Corporation Limited Sale Act 1993 No. 54 of 1993].
-
-Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations (sections 7 and 8)
-  
-Note:
-The amendments made by this Part are incorporated in the current compilation on SCALEplus of the Maternity Leave (Commonwealth Employees) Regulations.
-For access to the wording of the amendments made by this Part, click here [Snowy Mountains Engineering Corporation Limited Sale Act 1993 No. 54 of 1993].
-
-
+Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations 
+(sections 5 and 6)
+Do not delete : Division placeholder
+[published separately]
+Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations 
+(sections 7 and 8)
+Do not delete : Division placeholder
+[published separately]
 Part 4—Transitional and saving provisions
 Division 1—Transitional and saving provisions in relation to long service leave
 9  Interpretation
@@ -113,11 +105,11 @@ Division 1—Transitional and saving provisions in relation to long service leav
 combined service period, in relation to an employee, means the total of:
 	(a)	the period that is, immediately before the sale day, the employee’s period of service for the purposes of the Long Service Leave Act; and
 	(b)	the period starting on the sale day during which the employee continues to be an employee of SMEC.
-employee includes a person employed in a full‑time or a part‑time capacity.
+employee includes a person employed in a full-time or a part-time capacity.
 law means:
 	(a)	a law of the Commonwealth or of a State or Territory; or
 	(b)	regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
-post‑sale long service leave rights, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the sale day.
+post-sale long service leave rights, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the sale day.
 10  Long service leave for employees with less than 10 years service
 	(1)	This section provides that, in certain circumstances, SMEC may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act was less than 10 years.
 	(2)	This section applies in relation to a person who was an employee of SMEC immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
@@ -127,7 +119,7 @@ post‑sale long service leave rights, in relation to an employee, means any lon
 	(a)	the employee is to stop being an employee of SMEC on or after reaching the minimum retiring age, or because of retrenchment; and
 	(b)	the employee’s combined service period at the time when he or she is to stop being an employee of SMEC is at least one year;
 SMEC may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 13(1).
-	(6)	If a period of long service leave may be granted to an employee under subsection (4) or (5), SMEC may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice that first‑mentioned period.
+	(6)	If a period of long service leave may be granted to an employee under subsection (4) or (5), SMEC may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice that first-mentioned period.
 	(7)	Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee stops being an employee.
 	(8)	For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
 	(a)	that section applied to the employee; and
@@ -167,7 +159,6 @@ SMEC must make a payment to a dependant or to 2 or more dependants of the employ
 	(b)	a reference in that section to the approving authority were a reference to SMEC; and
 	(c)	the section were further modified as set out in the following table: 
 TABLE
-
 Provision
 Omit this expression
 Insert this expression
@@ -183,18 +174,17 @@ section 12 of the Snowy Mountains Engineering Corporation Limited Sale Act 1993
 	(b)	ending on the sale day;
 if the employee had been retrenched on the sale day.
 	(2)	For the purposes of section 11, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1), reduced by any long service leave credits used under section 10.
-14  Division not to affect an employee’s post‑sale long service leave rights
-		To avoid doubt, it is declared that this Division does not affect an employee’s post‑sale long service leave rights.
+14  Division not to affect an employee’s post-sale long service leave rights
+To avoid doubt, it is declared that this Division does not affect an employee’s post-sale long service leave rights.
 15  Saving—Long Service Leave Act
-		If, immediately before the sale day, the period of service under the Long Service Leave Act of an employee of SMEC was at least 10 years, then:
+If, immediately before the sale day, the period of service under the Long Service Leave Act of an employee of SMEC was at least 10 years, then:
 	(a)	despite the amendment of the Long Service Leave (Commonwealth Employees) Regulations by this Act, the employee’s accrued rights under that Act continue; and
 	(b)	that Act has effect after the sale day as if SMEC were the approving authority in relation to the employee for the purposes of that Act.
-
 Division 2—Transitional and saving provisions relating to the Safety Rehabilitation and Compensation Act 1988
 16  Interpretation
-		Unless the contrary intention appears, expressions used in this Division that are also used in the SRC Act have the same respective meanings as in that Act.
+Unless the contrary intention appears, expressions used in this Division that are also used in the SRC Act have the same respective meanings as in that Act.
 17  Continued application of SRC Act
-		If SMEC stops being a Commonwealth authority for the purposes of the SRC Act, the SRC Act continues to apply in relation to SMEC to the extent, and in the manner, set out in this Division.
+If SMEC stops being a Commonwealth authority for the purposes of the SRC Act, the SRC Act continues to apply in relation to SMEC to the extent, and in the manner, set out in this Division.
 18  Transitional provisions relating to the SRC Act that relate to SMEC employees and former SMEC employees
 	(1)	The SRC Act continues to apply on and after the sale day in relation to:
 	(a)	injuries suffered by employees of SMEC before the sale day; and
@@ -208,16 +198,15 @@ including employees who had stopped being employees of SMEC before the sale day.
 	(a)	SMEC continues to be a Commonwealth authority; and
 	(b)	SMEC is not required to pay a premium under that Division in respect of that part of a financial year which occurs after the sale day; and
 	(c)	the following word and paragraph were added at the end of subsection 96H(1): 
-	“; or (f)	in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
+“; or (f)	in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
 	(2)	If, 60 days after the sale day, an amount of premium payable by SMEC to Comcare in respect of a period before the sale day remains unpaid, the amount is a debt due to the Commonwealth and payable to Comcare.
 20  Transitional provision relating to section 128A of the SRC Act
-		On and after the sale day, section 128A of the SRC Act continues to apply to SMEC as if SMEC continues to be a prescribed Commonwealth authority for the purposes of that section.
+On and after the sale day, section 128A of the SRC Act continues to apply to SMEC as if SMEC continues to be a prescribed Commonwealth authority for the purposes of that section.
 21  Notification of amount of salary etc. paid to employees of SMEC
-		The chief executive officer (however described) of SMEC must notify the Commission, within 28 days after the sale day, of the amount of salary, wages or pay paid to employees of SMEC in the period starting on 1 July in the financial year in which the sale day occurs and ending on the day before the sale day.
+The chief executive officer (however described) of SMEC must notify the Commission, within 28 days after the sale day, of the amount of salary, wages or pay paid to employees of SMEC in the period starting on 1 July in the financial year in which the sale day occurs and ending on the day before the sale day.
 22  Amendment of declarations under the SRC Act
 	(1)	A notice published in the Gazette before the sale day that declares SMEC to be a body corporate to which the SRC Act applies for the purposes of paragraph (c) of the definition of Commonwealth authority in subsection 4(1) of the SRC Act has effect from and including the sale day as if it did not contain a reference to SMEC.
 	(2)	Subsection (1) does not prevent the declaration, as affected by that subsection, being amended or revoked by the Minister.
-
 Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits
 23  Saving—deferred benefits under the Superannuation Act 1922
 	(1)	This section applies if, immediately before the sale day, an employee of a SMEC body was a person to whom deferred benefits were applicable under section 119W of the Superannuation Act 1922.
@@ -238,15 +227,14 @@ Division 3—Transitional and saving provisions in relation to superannuation an
 	(1)	This section applies if, immediately before the sale day, a period of employment of a person by a SMEC body was a period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act.
 	(2)	Despite employment by a SMEC body having stopped being eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act, the period of employment continues to be a period of eligible employment for the purposes of that Division.
 28  Application—Superannuation Act 1922
-		On and after the sale day, section 145 of the Superannuation Act 1922 does not apply in relation to SMEC.
+On and after the sale day, section 145 of the Superannuation Act 1922 does not apply in relation to SMEC.
 29  Application—Superannuation Act 1976
-		On and after the sale day, SMEC is not an approved authority for the purposes of the Superannuation Act 1976.
+On and after the sale day, SMEC is not an approved authority for the purposes of the Superannuation Act 1976.
 30  Application—Superannuation Act 1990
-		On and after the sale day, SMEC is not an approved authority for the purposes of the Superannuation Act 1990.
-
+On and after the sale day, SMEC is not an approved authority for the purposes of the Superannuation Act 1990.
 Division 4—Other transitional and saving provisions 
 31  Transitional maternity leave provisions relating to employees of SMEC who are not on maternity leave immediately before the sale day
-	(1)	This section applies if:
+	 (1)	This section applies if:
 	(a)	immediately before the sale day, a person was a female employee of SMEC; and
 	(b)	within 12 months after the sale day, the person would have been entitled to begin leave granted under the Maternity Leave Act if SMEC had continued to be a prescribed authority for the purposes of that Act.
 	(2)	On and after the sale day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which she would have been entitled to leave as if SMEC continued to be a prescribed authority for the purposes of that Act.
@@ -279,11 +267,10 @@ as if SMEC were a body established under an Act.
 	(2)	A document purporting to be a certificate under subsection (1) is, unless the contrary is established, to be taken to be such a certificate.
 	(3)	In this section:
 authorised person means:
-	(a)	the Secretary to the Attorney‑General’s Department; or
-	(b)	an SES employee, or acting SES employee, in that Department.
-
+	(a)	the Secretary to the Attorney-General’s Department; or
+	(b)	a person holding or performing the duties of a Senior Executive Service office, within the meaning of the Public Service Act 1922, in that Department.
 Part 5—Other provisions relating to the sale of SMEC
-  
+Do not delete : Division placeholder
 36  SMEC not to be established by or under an Act or established by the Commonwealth
 	(1)	On and after the sale day, SMEC is not taken for the purposes of a law to be:
 	(a)	established by or under an Act; or
@@ -298,8 +285,8 @@ law means:
 	(1)	A loss incurred by SMEC in a year of income ending before the year of income in which the sale day occurs is not allowable as a deduction in a year of income ending on or after the sale day.
 	(2)	Subsection (1) has effect despite anything in the Income Tax Assessment Act 1936 and, in particular, sections 79E, 79EA, 79EB, 79F, 80, 80AAA and 80AA of that Act.
 	(3)	Unless the contrary intention appears, expressions used in subsection (1) that are also used in the Income Tax Assessment Act 1936 have the same respective meanings as in that Act.
-	(4)	SMEC cannot deduct in the 1997‑98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
-	(5)	This section has effect despite anything and, in particular, Division 36 and Subdivision 195‑A of that Act.
+	(4)	SMEC cannot deduct in the 1997-98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
+	(5)	This section has effect despite anything and, in particular, Division 36 and Subdivision 195-A of that Act.
 	(6)	Unless the contrary intention appears, an expression has the same meaning in subsection (4) as in the Income Tax Assessment Act 1997.
 38  Exemption from State and Territory taxes and fees
 	(1)	No tax is payable under a law of a State or a Territory in respect of:
@@ -313,7 +300,7 @@ law means:
 authorised person means:
 	(a)	the Minister for Finance; or
 	(b)	the Secretary to the Department of Finance; or
-	(c)	an SES employee, or acting SES employee, in that Department, authorised by the Secretary, in writing, for the purposes of this section.
+	(c)	a person holding or performing the duties of a Senior Executive Service office within the meaning of the Public Service Act 1922, being an office in that Department, authorised by the Secretary, in writing, for the purposes of this section.
 exempt matter means:
 	(a)	the issue or allotment of shares by SMEC to the Commonwealth or another person on or before the sale day; or
 	(b)	an agreement between the Commonwealth and another person relating to the sale, issue or allotment of shares in SMEC; or
@@ -327,7 +314,7 @@ but does not include a tax or fee (other than a fee payable under the Corporatio
 39  Regulations connected with the sale of SMEC
 	(1)	Subsection 48(2) of the Acts Interpretation Act 1901 does not apply to regulations made under any Act that:
 	(a)	are connected with the sale of SMEC; and
-	(b)	include a declaration that the Governor‑General is satisfied that they are connected with the sale of SMEC; and
+	(b)	include a declaration that the Governor-General is satisfied that they are connected with the sale of SMEC; and
 	(c)	are expressed to take effect on the sale day.
 	(2)	Regulations covered by subsection (1) take effect on the sale day.
 40  Cessation of mobility rights
@@ -353,22 +340,32 @@ No. of refund days means the total number of days in the period beginning on the
 	(4)	In subsection (3):
 Minister has the same meaning as in the Supervisory Mechanisms Act.
 44  Amendments of other Acts
-		The Acts specified in the Schedule are amended as set out in the Schedule.
+The Acts specified in the Schedule are amended as set out in the Schedule.
+
 Schedule—Amendments of other Acts 
-  
-  
-Section 44	
-Note:
-The amendments made by this Schedule are incorporated in the current compilations on SCALEplus.
-Administrative Decisions (Judicial Review) Act 1977
+Section 44 
+Administrative Decisions (Judicial Review) Act 1977 
+[published separately]
 Commonwealth Borrowing Levy Act 1987
-National Crime Authority Act 1984
-Occupational Health and Safety (Commonwealth Employment) Act 	1991
-Snowy Mountains Engineering Corporation Act 1970
-For access to the wording of the amendments made by this Schedule, click here [Snowy Mountains Engineering Corporation Limited Sale Act 1993 No. 54, 1993]
-Notes to the Snowy Mountains Engineering Corporation Limited Sale Act 1993
-Note 1
-The Snowy Mountains Engineering Corporation Limited Sale Act 1993 as shown in this compilation comprises Act No. 54, 1993 amended as indicated in the Tables below.
+[published separately]
+National Crime Authority Act 1984 
+[published separately]
+Occupational Health and Safety (Commonwealth Employment) Act 1991 
+[published separately]
+Snowy Mountains Engineering Corporation Act 1970 
+Section 3 (definitions of engineering work, group company, operate, protected body, protected business name, protected company name, protected name, protection time, registered, subsidiary and wholly-owned subsidiary): 
+Omit. 
+Sections 3A, 3B, 17 and 18: 
+Repeal. 
+Subsection 23(1): 
+Omit. 
+Sections 39L, 54, 54A and 54B: 
+Repeal. 
+Part VA: 
+Repeal.
+
+NOTE
+1. 	The Snowy Mountains Engineering Corporation Limited Sale Act 1993 as shown in this reprint comprises Act No. 54, 1993 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -378,30 +375,17 @@ Application, saving or transitional provisions
 Snowy Mountains Engineering Corporation Limited Sale Act 1993
 54, 1993
 27 Oct 1993
-Ss. 1‑4 and 38: Royal Assent S. 37: 9 Nov 1993 (see Gazette 1993, No. S371) Remainder: 9 Nov 1993 (see Gazette 1993, No. S334)
+Ss. 1-4 and 38: Royal Assent S. 37: 9 Nov 1993 (see Gazette 1993, No. S371) Remainder: 9 Nov 1993 (see Gazette 1993, No. S334)
 
 Income Tax (Consequential Amendments) Act 1997
 39, 1997
 17 Apr 1997
 1 July 1997
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 819, 820): 5 Dec 1999 (see Gazette 1999, No. S584) (a)
-—
-(a)	The Snowy Mountains Engineering Corporation Limited Sale Act 1993 was amended by Schedule 1 (items 819 and 820) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 35	
-am. No. 146, 1999
 S. 37 	
 am. No. 39, 1997
-S. 38	
-am. No. 146, 1999
 
