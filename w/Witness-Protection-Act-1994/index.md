@@ -1,7 +1,7 @@
 
 Witness Protection Act 1994
 Act No. 124 of 1994 as amended
-This compilation was prepared on 1 January 2003 taking into account amendments up to Act No. 86 of 2002
+This compilation was prepared on 22 October 2002 taking into account amendments up to Act No. 86 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -14,21 +14,21 @@ Contents
 3	Interpretation	1
 3A	Application of the Criminal Code	4
 4	Establishment of the National Witness Protection Program	4
-5	Inclusion in NWPP not to be done as a reward for giving evidence etc.	4
+5	Inclusion in NWPP not to be done as a reward for giving evidence etc.	5
 6	Arrangements with approved authorities	5
-7	Witness to disclose certain matters before being included in the NWPP	5
-8	Selection for inclusion in the NWPP	7
+7	Witness to disclose certain matters before being included in the NWPP	6
+8	Selection for inclusion in the NWPP	8
 9	Memorandum of understanding	9
 10	Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies	11
 10A	Inclusion of persons in NWPP at the request of International Criminal Court	12
 11	Register of participants	13
 12	Access to Register	14
-13	Action where a witness is included in the NWPP	14
+13	Action where a witness is included in the NWPP	15
 14	Special provision in case of marriage of participant	16
-15	Dealing with rights and obligations of participant	16
-16	Non‑disclosure of former identity of participant	17
-17	Special commercial arrangements by Commissioner	18
-18	Cessation of protection and assistance	18
+15	Dealing with rights and obligations of participant	17
+16	Non‑disclosure of former identity of participant	18
+17	Special commercial arrangements by Commissioner	19
+18	Cessation of protection and assistance	19
 19	Restoration of former identity	21
 20	Provision of information to approved authorities	22
 21	Officers protected from suit in respect of decisions under Act	23
@@ -40,11 +40,12 @@ Contents
 27	Requirement where participant becomes a witness in criminal proceedings	26
 28	Identity of participant not to be disclosed in court proceedings etc.	27
 29	Transitional	27
-30	Reports and information for the Minister	28
+30	Reports and information for the Minister	27
 31	Amendments of other Acts	28
 32	Regulations	28
 Schedule—Amendments of other Acts	29
-Notes	31
+Notes		31
+
 An Act to establish a program to give protection and assistance to certain witnesses and other persons 
   
   
@@ -394,7 +395,7 @@ unless the person has been authorised by the Commissioner to make the disclosure
 Penalty for an offence against this subsection:	Imprisonment for 5 years.
 23  Payments under NWPP not able to be confiscated
 	(1)	The Commissioner may certify in writing that an amount held by a participant represents payments made to the participant under the NWPP.
-	(2)	An amount so certified cannot be confiscated or restrained, and cannot be applied in payment of pecuniary penalties, under Division 3 of Part XIII of the Customs Act 1901, the Proceeds of Crime Act 1987, the Proceeds of Crime Act 2002, the Crimes (Superannuation Benefits) Act 1989 or the Australian Federal Police Act 1979.
+	(2)	An amount so certified cannot be confiscated or restrained, and cannot be applied in payment of pecuniary penalties, under Division 3 of Part XIII of the Customs Act 1901, the Proceeds of Crime Act 1987, the Crimes (Superannuation Benefits) Act 1989 or the Australian Federal Police Act 1979.
 24  Restriction on issue of Commonwealth identity documents
 	(1)	Commonwealth identity documents must not, after the end of 12 months after the commencement of this Act, be issued for a person who is on a witness protection program being conducted by a State or Territory unless:
 	(a)	an arrangement is in force between the Minister and the relevant State or Territory Minister relating to the issue of Commonwealth identity documents for the purposes of that program; and
@@ -450,8 +451,8 @@ Note:
 The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 Administrative Decisions (Judicial Review) Act 1977
 Australian Federal Police Act 1979
-Marriage Act 1961
 For access to the wording of the amendments made by this Schedule, click here [Witness Protection Act 1994 No. 124, 1994].
+
 Notes to the Witness Protection Act 1994
 Note 1
 The Witness Protection Act 1994 as shown in this compilation comprises Act No. 124, 1994 amended as indicated in the Tables below.
@@ -495,7 +496,7 @@ Schedules 1‑7: 26 Sept 2002 (see s. 2(1) (item 2) and Gazette 2002, No. GN38)
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
 86, 2002
 11 Oct 2002
-Ss. 1–3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
+Schedule 6 (item 49): [see (c) and Note 2]
 —
 (a)	The Witness Protection Act 1994 was amended by Schedule 1 (item 29) only of the Crimes and Other Legislation Amendment Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
@@ -503,6 +504,19 @@ Ss. 1–3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, N
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
+(c)	The Witness Protection Act 1994 was amended by Schedule 6 (item 49) only of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (item 5) of which provides as follows:
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+Commencement information
+Column 1
+Column 2
+Column 3
+Provision(s)
+Commencement
+Date/Details
+5.  Schedules 6 and 7
+At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
+TBP or 11 April 2003 [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -527,13 +541,18 @@ S. 20
 am. No. 9, 2000
 S. 22	
 am. No. 20, 1997; No. 9, 2000; No. 24, 2001
-S. 23	
-am. No. 86, 2002
 S. 25	
 am. No. 9, 2000
 S. 26	
 am. No. 9, 2000
 
+Note 2
+Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
+The following amendment commences on 11 April 2003 unless proclaimed earlier:
+Schedule 6
+49  Subsection 23(2)
+After “Proceeds of Crime Act 1987,” insert “the Proceeds of Crime Act 2002,”.
+As at 22 October 2002 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)
