@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00347/Html/f095cd8b-ef5d-48d4-b30e-ee31202d45da_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00871/Html/6cd82143-aee3-4ca8-88a5-7bb000dd02fa_files/image001.gif)
 
 # National Measurement Act 1960
 
 **Act No. 64 of 1960 as amended**
 
-This compilation was prepared on 27 March 2012
+This compilation was prepared on 28 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -324,8 +324,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18ML](#18ML).    Evidentiary certificate—examination and calibration under section 18MK
 
-[18MM](#18MM).   Trade measurement inspector must obliterate verification 
- mark
+[18MM](#18MM).   Trade measurement inspector must obliterate verification mark
 
     **Division 4—Obligations of trade measurement inspectors**
 
@@ -1091,7 +1090,7 @@ the reference shall, unless the contrary intention appears, be deemed to be a re
 
                     Penalty:  5 penalty units.
 
-##### <a id="13"></a>13  Contracts etc. relating to exportation or importation of goods
+##### <a id="13"></a>13  Contracts etc. relating to exportation or importation of goods
 
                    The provisions of subsection 12(1) and of section 7 do not apply to or in relation to a contract, dealing or transaction made or entered into in connexion with the exportation of goods from, or the importation of goods into, Australia.
 
@@ -1179,13 +1178,23 @@ identified.</li>
 
 ##### <a id="18B"></a>18B  Acting Chief Metrologist
 
-                   The Secretary may appoint a person to act as the Chief Metrologist:
+             (1)  The Secretary may appoint a person to act as the Chief Metrologist:
 
                      (a)  during a vacancy in the office of Chief Metrologist (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Chief Metrologist is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more information about acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="18C"></a>18C  Delegation by the Secretary
 
@@ -1593,7 +1602,7 @@ Note:          Utility meter verifiers are appointed under Par
 
 ##### <a id="18GK"></a>18GK  Requirements for verification
 
-                   The requirements for verification of a measuring instrument are:
+                   The requirements for verification of a measuring instrument are:
 
                      (a)  the measuring instrument must operate within the appropriate limits of error that are permitted under the regulations; and
 
@@ -3365,11 +3374,11 @@ the first‑mentioned person must give a copy of the permit and any notices unde
 
 **Overview of Part**
 
-<li class="BoxList" style="margin-left:21.25pt">(1)   This Part contains
+<li class="BoxList" style="margin-left:21.25pt">(1)   This Part contains requirements
 
-requirements in relation to articles that are sold for a price determined by
+in relation to articles that are sold for a price determined by reference to
 
-reference to the measurement of the article.</li>
+the measurement of the article.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(2)   If the purchaser is present
 
@@ -4421,7 +4430,7 @@ whichever first occurs, unless the thing is forfeited or forfeitable to the Comm
 
              (3)  The thing may be returned under subsection (2) either unconditionally or on such terms and conditions as the Secretary sees fit.
 
-##### <a id="18MV"></a>18MV  Magistrate may permit a thing to be retained
+##### <a id="18MV"></a>18MV  Magistrate may permit a thing to be retained
 
              (1)  A trade measurement inspector may apply to a magistrate for an order that he or she may retain the thing for a further period if:
 
@@ -4499,9 +4508,9 @@ the person must provide the inspector, or any person assisting the inspector, wi
 
 <li class="BoxList" style="margin-left:21.25pt">(1)   This Division contains
 
-provisions allowing warrants to be issued in relation to residential premises for
+provisions allowing warrants to be issued in relation to residential premises
 
-the purposes of finding out whether Part IV, V, VI or VII has been
+for the purposes of finding out whether Part IV, V, VI or VII has been
 
 complied with or for the collection of evidential material.</li>
 
@@ -5951,7 +5960,7 @@ by the Chief Metrologist, a delegate of the Chief Metrologist or another person 
 
                      (b)  expressly, tacitly or impliedly authorised or permitted the commission of the offence.
 
-##### <a id="19H"></a>19H  Protected information
+##### <a id="19H"></a>19H  Protected information
 
              (1)  This section applies to a person:
 
@@ -6115,7 +6124,7 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                    A document purporting to be signed by the Secretary or a trade measurement inspector is taken to be signed by that person unless the contrary is established.
 
-##### <a id="19Q"></a>19Q  Chief Metrologist may determine matters
+##### <a id="19Q"></a>19Q  Chief Metrologist may determine matters
 
              (1)  The Chief Metrologist may determine, in writing:
 
@@ -6703,7 +6712,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 822–824) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 822–824) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -7628,22 +7637,6 @@ _(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurem
   </td>
   <td>
     <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18B</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9583,6 +9576,30 @@ Part XIII</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 822  Subsection 18B(1)
+
+Omit “(1)”.
+
+## 823  At the end of subsection 18B(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 824  Subsection 18B(2)
+
+Repeal the subsection.
+
+As at 28 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -10127,6 +10144,8 @@ _National Measurement Amendment Act 2010 (No. 142, 2010)_
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
