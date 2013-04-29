@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00516/Html/AlburyWodongaDevAct1973WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00347/Html/AlburyWodongaDevAct1973WD02_image001.gif)
 
 # Albury-Wodonga Development Act 1973
 
 **Act No. 189 of 1973 as amended**
 
-This compilation was prepared on 3 October 2008
- taking into account amendments up to Act No. 90 of 2008
+This compilation was prepared on 8 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -306,7 +306,7 @@ does not, by implication:
 
 ##### <a id="8A"></a>8A  Chief executive officer’s function
 
-                   The chief executive officer is responsible for the day-to-day management of the Corporation’s affairs.
+                   The chief executive officer is responsible for the day-to-day management of the Corporation’s affairs.
 
 ## Part IV—Constitution and meetings of the Corporation
 
@@ -352,7 +352,7 @@ unless he or she appears to the Minister to be qualified for appointment because
 
 ##### <a id="10A"></a>10A  Appointment of chief executive officer
 
-                   The chief executive officer is to be appointed by the appointed members, and holds office on terms and conditions determined by the appointed members.
+                   The chief executive officer is to be appointed by the appointed members, and holds office on terms and conditions determined by the appointed members.
 
 ##### <a id="11"></a>11  Period of appointment of appointed members
 
@@ -1183,23 +1183,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act 2008</div>
-    </td>
-    <td>
-      <div>90, 2008</div>
-    </td>
-    <td>
-      <div>20 Sept 2008</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1–14, 67): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 67) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Albury-Wodonga Development Act 1973_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
@@ -1806,76 +1789,6 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
-
-The following amendments commence on 1 July 2009:
-
-## Schedule 1
-
-## 1  Subsection 3(1) (definition of _chief executive officer_)
-
-Omit “highest ranked member of the staff of the Corporation, however designated”, substitute “person appointed under section 10A”.
-
-## 2  Paragraph 5A(5)(b)
-
-Omit “_Legislative Instruments Act 2000_”, substitute “_Legislative Instruments Act 2003_”.
-
-## 3  At the end of subsection 9(1)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and the conduct of officers.
-
-## 4  Section 9A
-
-Repeal the section.
-
-## 5  Paragraph 15(2)(g)
-
-Repeal the paragraph, substitute:
-
-                     (g)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
-
-## 6  Section 16
-
-Repeal the section.
-
-## 7  Subsection 21(3)
-
-After “_Public Service Act 1999_”, insert “)”.
-
-## 8  Section 27
-
-Repeal the section.
-
-## 9  Subsection 28(1)
-
-Omit “(1)”.
-
-## 10  Subsection 28(2)
-
-Repeal the subsection.
-
-## 11  Section 30
-
-Repeal the section.
-
-## 12  Paragraph 31A(1)(b)
-
-Repeal the paragraph.
-
-## 13  Subsection 31B(1)
-
-Omit “, 26 or 28”, substitute “or 26”.
-
-## 14  Sections 32 and 33
-
-Repeal the sections.
-
-As at 3 October 2008 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1949,17 +1862,5 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-* * *
-
-_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
-
-The following provision commences on 1 July 2009:
-
-## Schedule 1
-
-## 67  Saving—annual report by Albury-Wodonga Development Corporation
-
-Despite the repeal of sections 32 and 33 of the _Albury-Wodonga Development Act 1973_ made by this Schedule, those sections (as in force immediately before the commencement of item 14) continue to apply on and after that commencement in relation to the financial year ending on 30 June 2009.
 
  
