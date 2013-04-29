@@ -1,9 +1,8 @@
 
 Wool Services Privatisation Act 2000
 Act No. 145 of 2000 as amended
-This compilation was prepared on 16 December 2002 taking into account amendments up to Act No. 117 of 2002
+This compilation was prepared on 23 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
@@ -33,7 +32,7 @@ Division 4—Registration of HoldCo as a Corporations Law company	10
 16	Registration as a company under the Corporations Law	10
 17	Share capital	10
 18	Operation of the Corporations Act after conversion time	10
-19	Accounting records	11
+19	Accounting records	10
 Division 5—Shares in HoldCo	12
 20	List of Eligible Woolgrowers	12
 21	Issue of shares to eligible woolgrowers	12
@@ -61,8 +60,7 @@ Division 8—Miscellaneous	21
 Schedule 1—Amendments and repeals	24
 Part 1—Amendments and repeals	24
 Part 2—Transitional and savings	25
-Notes	27
-
+Notes		27
 
 An Act to privatise the Australian Wool Research and Promotion Organisation, and for related purposes
   
@@ -275,7 +273,7 @@ exempt matter means any of the following:
 	(a)	subsection 126‑50(4) of that Act were omitted; and
 	(b)	in deciding whether the condition in paragraph 126‑55(1)(a) of that Act is met, it is to be assumed that the transferor was not, at any relevant time, exempt from income tax; and
 	(c)	the condition in paragraph 126‑55(1)(b) of that Act were taken to be met.
-Note:	The broad effect of subsection (2) is that the transfer will qualify for roll‑over concessions under the rules that apply to certain transactions within a wholly‑owned group.
+Note:	The broad effect of subsection (2) is that the transfer will qualify for roll‑over concessions under the rules that apply to transactions within a wholly‑owned group.
 	(3)	To the extent that an exempt transfer involves a disposal of property for the purposes of Subdivision 41‑A of the 1997 Tax Act, that Subdivision is to be applied on the basis that:
 	(a)	in deciding whether the condition in paragraph 41‑20(1)(a) of that Act is met, it is to be assumed that the transferor was not, at any relevant time, exempt from income tax; and
 	(b)	Subdivision 126‑B of that Act applies, for the purposes of Subdivision 41‑A of that Act, with the modifications set out in subsection (2) of this section; and
@@ -397,7 +395,8 @@ Note:	The registration of the Organisation as a company under the Corporations L
 (3)	In this item:
 final reporting period means the period that:
 	(a)	starts at the beginning of the financial year in which the conversion time occurred; and
-	(b)	ends at the conversion time.Notes to the Wool Services Privatisation Act 2000
+	(b)	ends at the conversion time.
+Notes to the Wool Services Privatisation Act 2000
 Note 1
 The Wool Services Privatisation Act 2000 as shown in this compilation comprises Act No. 145 of 2000 amended as indicated in the Tables below.
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
@@ -420,28 +419,14 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (items 569, 570): 15 July 2001 (see Gazette 2001, No. S285) (a)
 Ss. 4‑14
-New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002
-117, 2002
-2 Dec 2002
-Schedule 14: (b)
-—
+
+
+
+
+
 
 (a)	The Wool Services Privatisation Act 2000 was amended by Schedule 3 (items 569, 570) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-(b)	The Wool Services Privatisation Act 2000 was amended by Schedule 14 (item 16) only of the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002, subsection 2(1) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-
-9.  Schedules 6 to 15
-Immediately after the commencement of Schedule 1 to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002
-24 October 2002
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -452,8 +437,6 @@ Heading to s. 18
 am. No. 55, 2001
 S. 19	
 am. No. 55, 2001
-Note to s. 27(2)	
-am. No. 117, 2002
 S. 30	
 am. No. 55, 2001
 
